@@ -178,7 +178,10 @@ export async function runPartitionedScan({
     summary.nodes += nodes.length;
     await onNodes(nodes, partition);
 
-    if (page.hasNextPage && page.endCursor && (partition.page || 1) * pageSize < SEARCH_WINDOW) {
+    // Count results actually retrieved (page sizes vary by query) so the
+    // whole 1,000-result window is consumed.
+    partition.retrieved = (partition.retrieved || 0) + nodes.length;
+    if (page.hasNextPage && page.endCursor && nodes.length && partition.retrieved < SEARCH_WINDOW) {
       partition.cursor = page.endCursor;
       partition.page = (partition.page || 1) + 1;
       partition.attempts = 0;

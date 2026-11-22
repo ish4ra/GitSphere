@@ -134,3 +134,19 @@ test('frontier tracks the highest unfinished metric value', () => {
   assert.equal(verifiedFloor({ queue: [{ metric: [100, 200] }], unresolved: [], floor: 50 }), 201);
   assert.equal(verifiedFloor({ queue: [], unresolved: [], floor: 50 }), 50);
 });
+
+test('the full window is consumed even when pages are smaller than 100', async () => {
+  const repositories = Array.from({ length: 900 }, (_, index) => ({ id: `R${index}`, owner: 'o', name: `r${index}`, stars: 60 + (index % 7), createdAt: '2021-01-01T00:00:00Z' }));
+  const fake = createFakeGitHub({ repositories });
+  const client = new GitHubClient({ token: 't', fetchImpl: fake.fetchImpl, sleep: noSleep, minimumIntervalMs: 0 });
+  const page = searchRepositoriesPage(client);
+  const state = { queue: [rootPartition({ min: 50 })], unresolved: [], cycleStartedAt: CYCLE, stats: {} };
+  const seen = new Set();
+  await runPartitionedScan({
+    spec: REPOSITORY_SPEC,
+    state,
+    fetchPage: (query, cursor) => page(query, cursor, 50),
+    onNodes: async (nodes) => nodes.forEach((node) => seen.add(node.id)),
+  });
+  assert.equal(seen.size, 900);
+});
