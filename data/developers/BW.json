@@ -3,12 +3,15 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"BW","name":"Botswana","slug":"botswana"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
-"users": [],
-"contentHash": "4326648e203b5196",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":118,"unresolved":0},"exhaustive":false},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjgxMDc4NzI0","login":"24blac","name":"Mopati","url":"https://github.com/24blac","avatarUrl":"https://avatars.githubusercontent.com/u/81078724?s=80&v=4","followers":2,"publicRepos":4,"location":"Botswana","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"U_kgDOB8QSLA","login":"0126FinGuy","name":"Oteng Boitshepo Olaetse","url":"https://github.com/0126FinGuy","avatarUrl":"https://avatars.githubusercontent.com/u/130290220?s=80&v=4","followers":0,"publicRepos":2,"location":"Gaborone, Botswana","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+],
+"contentHash": "3522543d9bc66ff0",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

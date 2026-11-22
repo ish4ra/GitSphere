@@ -5,10 +5,10 @@
 "country": {"code":"LS","name":"Lesotho","slug":"lesotho"},
 "status": "building",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":399,"measuredAccounts":0,"measurementBacklog":399,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":399,"measuredAccounts":1,"measurementBacklog":398,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [],
-"contentHash": "1169ef8d1d06dabd",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "01265578601a3176",
+"updatedAt": "2026-11-22T11:14:57.063Z",
 "verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

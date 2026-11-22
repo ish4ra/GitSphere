@@ -3,12 +3,14 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"RU","name":"Russia","slug":"russia"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":0,"measuredAccounts":0,"measurementBacklog":0,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "ba6dfefdcd4f3bf1",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":47,"measuredAccounts":1,"measurementBacklog":46,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"U_kgDOCAR7gw","login":"RomanK2311","name":"Roman Kunshin","url":"https://github.com/RomanK2311","avatarUrl":"https://avatars.githubusercontent.com/u/134511491?s=80&v=4","followers":1049,"publicRepos":2880,"location":"Russian Federation, Republic of Udmurtia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":101,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":101,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "66bfc34ca41d901e",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

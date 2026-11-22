@@ -1,8 +1,9 @@
 {
 "schemaVersion": 3,
 "country": {"code":"MK","name":"North Macedonia","slug":"north-macedonia"},
-"count": 400,
+"count": 401,
 "accounts": [
+  {"id":"U_kgDOCLt4NQ","databaseId":146503733,"login":"yutomiwana","type":"User","name":"Yuto","location":"Skopje","followers":1254,"publicRepos":46,"createdAt":"2023-09-30T03:38:13Z","attribution":{"code":"MK","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-22T11:12:37.127Z","sources":["contributions","followers-scan"],"contributions":{"public":539,"commits":451,"issues":0,"pullRequests":42,"reviews":0,"repositories":46,"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z","measuredAt":"2026-11-22T11:12:37.127Z"}},
   {"id":"MDQ6VXNlcjYwMTgyNjM1","login":"7wulfric7","type":"User","name":"Deniz Adil","location":"Skopje/North Macedonia","attribution":{"code":"MK","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-02T16:16:56.319Z","sources":["legacy-owner-discovery"]},
   {"id":"U_kgDOC8RdAQ","login":"aalasudessuna","type":"User","name":"Sude Suna","location":"North Macedonia","attribution":{"code":"MK","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T16:16:56.319Z","sources":["legacy-owner-discovery"]},
   {"id":"MDQ6VXNlcjQ4MjE1MTkz","login":"aborova8","type":"User","name":"Arlind","location":"Skopje, North Macedonia","attribution":{"code":"MK","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-02T16:16:56.319Z","sources":["legacy-owner-discovery"]},

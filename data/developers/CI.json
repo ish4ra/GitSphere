@@ -3,12 +3,15 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"CI","name":"Côte d'Ivoire","slug":"cote-d-ivoire"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
-"users": [],
-"contentHash": "70f9b75f926af224",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"users": [
+  {"rank":1,"id":"U_kgDOCCqfig","login":"0142704513","name":"Issa Traore","url":"https://github.com/0142704513","avatarUrl":"https://avatars.githubusercontent.com/u/137011082?s=80&v=4","followers":0,"publicRepos":8,"location":"Côte d'Ivoire","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjM5MTAyOTY5","login":"01amani","name":"Amani Bienvenu Hippolye Konan","url":"https://github.com/01amani","avatarUrl":"https://avatars.githubusercontent.com/u/39102969?s=80&v=4","followers":0,"publicRepos":2,"location":"University Jean Lorougnon Guedé Daloa (Ivory Coast)","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+],
+"contentHash": "a6c08fdb6e02c44c",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"KY","name":"Cayman Islands","slug":"cayman-islands"},
-"count": 150,
+"count": 149,
 "repositories": [
-  {"name":"gitcoinco/web","stars":1824,"forks":777,"language":"JavaScript","license":"NOASSERTION","archived":false,"createdAt":"2017-07-10T10:53:45Z","pushedAt":"2024-08-09T22:35:57Z","owner":{"login":"gitcoinco","type":"Organization","name":"Gitcoin","location":"Cayman Islands"},"attribution":{"code":"KY","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T14:20:40.649Z","id":"legacy:gitcoinco/web","legacy":true},
   {"name":"paean-ai/deeptide","stars":1103,"forks":140,"language":"Rust","license":"MIT","archived":false,"createdAt":"2026-05-05T16:40:06Z","pushedAt":"2026-08-22T08:56:10Z","owner":{"login":"paean-ai","type":"Organization","name":"Paean","location":"Cayman Islands"},"attribution":{"code":"KY","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T14:20:40.649Z","id":"legacy:paean-ai/deeptide","legacy":true},
   {"name":"berachain/polaris","stars":1069,"forks":354,"language":"Go","license":"NOASSERTION","archived":true,"createdAt":"2023-01-10T14:51:27Z","pushedAt":"2024-06-09T20:51:08Z","owner":{"login":"berachain","type":"Organization","name":"Berachain","location":"Cayman Islands"},"attribution":{"code":"KY","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T14:20:40.649Z","id":"legacy:berachain/polaris","legacy":true},
   {"name":"gitcoinco/gitcoinco","stars":923,"forks":220,"archived":false,"createdAt":"2017-10-09T23:38:56Z","pushedAt":"2024-06-10T16:42:06Z","owner":{"login":"gitcoinco","type":"Organization","name":"Gitcoin","location":"Cayman Islands"},"attribution":{"code":"KY","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T14:20:40.649Z","id":"legacy:gitcoinco/gitcoinco","legacy":true},

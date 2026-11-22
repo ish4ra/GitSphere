@@ -1,8 +1,10 @@
 {
 "schemaVersion": 3,
 "country": {"code":"DO","name":"Dominican Republic","slug":"dominican-republic"},
-"count": 400,
+"count": 401,
 "accounts": [
+  {"id":"MDQ6VXNlcjUyMjM0NA==","login":"alanhamlett","type":"User","name":"Alan Hamlett","location":"Dominican Republic","attribution":{"code":"DO","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-22T10:55:17.359Z","sources":["followers-scan","legacy-owner-discovery"],"databaseId":522344,"followers":5137,"publicRepos":122,"createdAt":"2010-12-14T08:20:30Z"},
+  {"id":"MDQ6VXNlcjI1MTY0MDc=","databaseId":2516407,"login":"gavilanch","type":"User","name":"Felipe Gavilán","location":"República Dominicana","followers":1279,"publicRepos":168,"createdAt":"2012-10-09T02:02:44Z","attribution":{"code":"DO","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-22T11:07:45.195Z","sources":["contributions","followers-scan"],"contributions":{"public":48,"commits":40,"issues":0,"pullRequests":0,"reviews":0,"repositories":8,"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z","measuredAt":"2026-11-22T11:07:45.195Z"}},
   {"id":"MDQ6VXNlcjY3MDg2ODg5","login":"1Angel","type":"User","name":"Angel Abreu","location":"Dominican Republic","attribution":{"code":"DO","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:56:36.840Z","sources":["legacy-owner-discovery"]},
   {"id":"MDQ6VXNlcjUzMTk1NjU2","login":"abdielpeguero","type":"User","name":"Abdiel Peguero","location":"Dominican Republic","attribution":{"code":"DO","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:56:36.840Z","sources":["legacy-owner-discovery"]},
   {"id":"U_kgDOCujdXw","login":"AbelRomann","type":"User","location":"Santo Domingo, Dominican Republic","attribution":{"code":"DO","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:56:36.840Z","sources":["legacy-owner-discovery"]},
@@ -15,7 +17,6 @@
   {"id":"MDQ6VXNlcjUzNTAyMDUy","login":"aefe17","type":"User","name":"Andres Fanjul","location":"Santo Domingo, Dominican Republic","attribution":{"code":"DO","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:56:36.840Z","sources":["legacy-owner-discovery"]},
   {"id":"U_kgDOCGnVJg","login":"AgnerDDiaz","type":"User","name":"Agner D. Diaz","location":"Dominican Republic","attribution":{"code":"DO","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:56:36.840Z","sources":["legacy-owner-discovery"]},
   {"id":"U_kgDOC1Vn3A","login":"aixaoeh5","type":"User","name":"Aixa Oehlenschlager","location":"Dominican Republic","attribution":{"code":"DO","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:56:36.840Z","sources":["legacy-owner-discovery"]},
-  {"id":"MDQ6VXNlcjUyMjM0NA==","login":"alanhamlett","type":"User","name":"Alan Hamlett","location":"Dominican Republic","attribution":{"code":"DO","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:56:36.840Z","sources":["legacy-owner-discovery"]},
   {"id":"U_kgDODWzsjQ","login":"alanpenadev","type":"User","name":"Alan F. Peña Adames","location":"Dominican Republic do","attribution":{"code":"DO","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:56:36.840Z","sources":["legacy-owner-discovery"]},
   {"id":"U_kgDODObLdA","login":"albertomaria1999","type":"User","name":"Alberto Maria","location":"Dominican Republic","attribution":{"code":"DO","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:56:36.840Z","sources":["legacy-owner-discovery"]},
   {"id":"U_kgDOB3zRNQ","login":"Alexisveras","type":"User","name":"Alexis Veras","location":"Dominican Republic","attribution":{"code":"DO","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:56:36.840Z","sources":["legacy-owner-discovery"]},

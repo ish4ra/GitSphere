@@ -3,12 +3,14 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"BB","name":"Barbados","slug":"barbados"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":249,"measuredAccounts":0,"measurementBacklog":249,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "7dc9151bdf5fff52",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":342,"measuredAccounts":2,"measurementBacklog":340,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":20,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjMwMjQ3Nzcw","login":"daley-mottley","name":"Daley Mottley","url":"https://github.com/daley-mottley","avatarUrl":"https://avatars.githubusercontent.com/u/30247770?s=80&v=4","followers":543,"publicRepos":475,"location":"Barbados","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":285,"commits":158,"pullRequests":40,"reviews":53,"issues":15,"repositories":19,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "92e9464c3eb200b7",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

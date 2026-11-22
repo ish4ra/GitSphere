@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"country": "BD",
+"round": 1,
+"roundStartedAt": "2026-11-22T10:50:08.066Z",
+"terms": {"count":173,"fingerprint":"173:ae72fba1"},
+"termIndex": 0,
+"specIndex": 0,
+"active": {"term":"Bangladesh","kind":"users","queue":[{"metric":[0,12500000],"created":null,"cursor":null,"page":1}],"unresolved":[],"cycleStartedAt":"2026-11-22T10:50:08.066Z","stats":{"splits":3,"leaves":3,"pages":3}},
+"unresolved": [],
+"completedRounds": [],
+"stats": {"requests":6,"pages":3,"accounts":0},
+"updatedAt": "2026-11-22T10:50:08.066Z"
+}

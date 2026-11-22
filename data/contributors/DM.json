@@ -3,12 +3,14 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"DM","name":"Dominica","slug":"dominica"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":56,"measuredAccounts":0,"measurementBacklog":56,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "8d65f1b33113bd1d",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":56,"measuredAccounts":1,"measurementBacklog":55,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjY0NzUwMTA4","login":"Nexxus-LMT","name":"WaitukuNexx","url":"https://github.com/Nexxus-LMT","avatarUrl":"https://avatars.githubusercontent.com/u/64750108?s=80&v=4","followers":2,"publicRepos":209,"location":"Dominica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":12,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":12,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "6e8e2977853c893a",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

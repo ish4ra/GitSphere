@@ -3,12 +3,14 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"MZ","name":"Mozambique","slug":"mozambique"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":0,"measurementBacklog":400,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "4d9c2705dd03f71d",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":1,"measurementBacklog":399,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"U_kgDOCKY4vg","login":"34sea","name":"Martinho Macovere Domingos","url":"https://github.com/34sea","avatarUrl":"https://avatars.githubusercontent.com/u/145111230?s=80&v=4","followers":3,"publicRepos":52,"location":"Mozambique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":18,"commits":11,"pullRequests":0,"reviews":0,"issues":0,"repositories":7,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "ad8882d3de36c783",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

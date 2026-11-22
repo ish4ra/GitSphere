@@ -3,12 +3,14 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"AS","name":"American Samoa","slug":"american-samoa"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":2,"measuredAccounts":0,"measurementBacklog":2,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "9f4cfaaa1dc92b44",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":25,"measuredAccounts":2,"measurementBacklog":23,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":34,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"U_kgDOCLFZ6g","login":"angelasmilford","name":"Angela S. Milford","url":"https://github.com/angelasmilford","avatarUrl":"https://avatars.githubusercontent.com/u/145840618?s=80&v=4","followers":0,"publicRepos":48,"location":"American Samoa","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":384,"commits":338,"pullRequests":8,"reviews":0,"issues":17,"repositories":21,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "a043bec99c3ff2c8",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

@@ -3,12 +3,15 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"BQ","name":"Caribbean Netherlands","slug":"caribbean-netherlands"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":12,"measuredAccounts":0,"measurementBacklog":12,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "0e74d01fc16fc99e",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":46,"measuredAccounts":2,"measurementBacklog":44,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":20,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjEwODYzOTg4","login":"debruijn","name":"Bert de Bruijn","url":"https://github.com/debruijn","avatarUrl":"https://avatars.githubusercontent.com/u/10863988?s=80&v=4","followers":6,"publicRepos":26,"location":"Kralendijk","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22","contributions":{"public":190,"commits":174,"pullRequests":15,"reviews":0,"issues":1,"repositories":0,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjU0NzM2OTA=","login":"IanLKaplan","name":"Ian Kaplan","url":"https://github.com/IanLKaplan","avatarUrl":"https://avatars.githubusercontent.com/u/5473690?s=80&v=4","followers":37,"publicRepos":23,"location":"Bonaire, Caribbean Netherlands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":16,"commits":14,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "49700b818e4d5088",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

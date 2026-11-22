@@ -3,7 +3,7 @@
 "country": {"code":"YT","name":"Mayotte","slug":"mayotte"},
 "count": 45,
 "accounts": [
-  {"id":"U_kgDOCeGYdw","login":"163sqrgq3t","type":"User","name":"in uber","location":"mayotte","attribution":{"code":"YT","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:22:09.127Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCeGYdw","login":"163sqrgq3t","type":"User","name":"in uber","location":"mayotte","attribution":{"code":"YT","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-22T11:11:55.423Z","sources":["contributions","legacy-owner-discovery"],"databaseId":165779575,"followers":0,"publicRepos":1,"createdAt":"2024-04-02T09:39:52Z","contributions":{"public":0,"commits":0,"issues":0,"pullRequests":0,"reviews":0,"repositories":0,"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z","measuredAt":"2026-11-22T11:11:55.423Z"}},
   {"id":"U_kgDOCHKCbg","login":"Ambdourahamane","type":"User","name":"Etudiant chez Sayna","location":"Mayotte","attribution":{"code":"YT","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:22:09.127Z","sources":["legacy-owner-discovery"]},
   {"id":"MDQ6VXNlcjI0Mzk2Mjg5","login":"anniou21","type":"User","name":"Anniou","location":"Mayotte","attribution":{"code":"YT","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:22:09.127Z","sources":["legacy-owner-discovery"]},
   {"id":"MDQ6VXNlcjIzNDEwNTYz","login":"ardani37","type":"User","location":"Mayotte","attribution":{"code":"YT","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:22:09.127Z","sources":["legacy-owner-discovery"]},

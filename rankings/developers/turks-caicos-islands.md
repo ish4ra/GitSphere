@@ -14,18 +14,176 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🔵 Building | **0** | — | <a href="../../data/developers/TC.json">JSON</a> |
+| 🟡 Provisional | **22** | 22 Nov 2026 | <a href="../../data/developers/TC.json">JSON</a> |
 
 </div>
 
-> Discovery for this country is still running. Results appear here automatically as soon as attributable entries are found and verified.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Followers</th><th align="right">Public repos</th><th align="left">Location</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><a href="https://github.com/doobeh"><img src="https://avatars.githubusercontent.com/u/470417?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/doobeh"><b>Anthony Plunkett</b></a><br><sub>&#64;doobeh</sub></td>
+<td align="right"><b>38</b></td>
+<td align="right">57</td>
+<td><sub>Turks and Caicos Islands</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/Tasheka"><img src="https://avatars.githubusercontent.com/u/32501464?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tasheka"><b>Tasheka Hamilton</b></a><br><sub>&#64;Tasheka</sub></td>
+<td align="right"><b>15</b></td>
+<td align="right">41</td>
+<td><sub>Turks and Caicos Islands</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/haktanpolatt"><img src="https://avatars.githubusercontent.com/u/101014945?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/haktanpolatt"><b>haktan</b></a><br><sub>&#64;haktanpolatt</sub></td>
+<td align="right"><b>10</b></td>
+<td align="right">6</td>
+<td><sub>Turks and Caicos Islands</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/ga5t"><img src="https://avatars.githubusercontent.com/u/155463473?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ga5t"><b>Robert Cox</b></a><br><sub>&#64;ga5t</sub></td>
+<td align="right"><b>4</b></td>
+<td align="right">15</td>
+<td><sub>New Miguelfort, Turks and Caicos Islands</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/johnwuelk"><img src="https://avatars.githubusercontent.com/u/12553753?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/johnwuelk"><b>Johannes Wülk</b></a><br><sub>&#64;johnwuelk</sub></td>
+<td align="right"><b>3</b></td>
+<td align="right">11</td>
+<td><sub>Providenciales</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/madusankap"><img src="https://avatars.githubusercontent.com/u/8552666?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/madusankap"><b>Madusanka Premaratne</b></a><br><sub>&#64;madusankap</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">13</td>
+<td><sub>Palm Grove, Colombo 03</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/MJennings97"><img src="https://avatars.githubusercontent.com/u/76759602?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MJennings97"><b>Marvin Jennings</b></a><br><sub>&#64;MJennings97</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">4</td>
+<td><sub>Turks and Caicos Islands</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/head-dunce"><img src="https://avatars.githubusercontent.com/u/58668957?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/head-dunce"><b>Jim</b></a><br><sub>&#64;head-dunce</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">2</td>
+<td><sub>Middle Caicos</sub></td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/Nabla20"><img src="https://avatars.githubusercontent.com/u/180133866?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nabla20"><b>JN-LOUIS MESIDOR</b></a><br><sub>&#64;Nabla20</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">2</td>
+<td><sub>TURKS AND CAICOS ISLANDS</sub></td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/sudonpm"><img src="https://avatars.githubusercontent.com/u/59130177?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sudonpm"><b>sudonpm</b></a><br><sub>&#64;sudonpm</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">1</td>
+<td><sub>Turks &amp; Caicos Islands</sub></td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/bdanny2"><img src="https://avatars.githubusercontent.com/u/17894477?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bdanny2"><b>Andrew Dunbar</b></a><br><sub>&#64;bdanny2</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">20</td>
+<td><sub>Turks and Caicos Islands</sub></td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><a href="https://github.com/KINGJP500"><img src="https://avatars.githubusercontent.com/u/12648450?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KINGJP500"><b>KING JP</b></a><br><sub>&#64;KINGJP500</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">14</td>
+<td><sub>Turks and Caicos Islands</sub></td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><a href="https://github.com/RoyJax579"><img src="https://avatars.githubusercontent.com/u/73486158?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RoyJax579"><b>Roynickson Jacques</b></a><br><sub>&#64;RoyJax579</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">14</td>
+<td><sub>Turks and Caicos Islands</sub></td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><a href="https://github.com/techpreneur02"><img src="https://avatars.githubusercontent.com/u/273843697?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/techpreneur02"><b>Sherwin Cruz</b></a><br><sub>&#64;techpreneur02</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">12</td>
+<td><sub>Turks and Caicos Islands</sub></td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><a href="https://github.com/CFBlacdragoon"><img src="https://avatars.githubusercontent.com/u/154737981?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CFBlacdragoon"><b>CFBlacdragoon</b></a><br><sub>&#64;CFBlacdragoon</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Turks and Caicos Islands</sub></td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><a href="https://github.com/omerpinar"><img src="https://avatars.githubusercontent.com/u/74301740?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/omerpinar"><b>omerpinar</b></a><br><sub>&#64;omerpinar</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Turks And Caicos Islands</sub></td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><a href="https://github.com/SCATPACKH3M1392"><img src="https://avatars.githubusercontent.com/u/179504290?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SCATPACKH3M1392"><b>B̧̳͈͙͔̮͎͖̠ͅL̡̟̥̫͚̙̩A̡̲̙̠̬͎̣̙͉̜̙̳̝C̠͈̫̯̫̦̟͍͓͜K̭̣̲̬̞̳̮̯̰̦͜Ḫ̨̳̮̥͙̝̪E̢͎̭̙̱L̨͙͉͕̲̭͔…</b></a><br><sub>&#64;SCATPACKH3M1392</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Grand Turk, Turks and Cacios</sub></td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><a href="https://github.com/BuritoGrizon"><img src="https://avatars.githubusercontent.com/u/154279493?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BuritoGrizon"><b>BuritoGrizon</b></a><br><sub>&#64;BuritoGrizon</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Turks and Caicos Islands</sub></td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><a href="https://github.com/anayadoraelk"><img src="https://avatars.githubusercontent.com/u/181553891?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anayadoraelk"><b>anayadoraelk</b></a><br><sub>&#64;anayadoraelk</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Turks &amp; Caicos Islands (TC)</sub></td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><a href="https://github.com/aquaeliakruger"><img src="https://avatars.githubusercontent.com/u/181553248?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aquaeliakruger"><b>aquaeliakruger</b></a><br><sub>&#64;aquaeliakruger</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Turks &amp; Caicos Islands (TC)</sub></td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><a href="https://github.com/DovanoKM"><img src="https://avatars.githubusercontent.com/u/29634251?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DovanoKM"><b>Dovano Missick</b></a><br><sub>&#64;DovanoKM</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Providenciales</sub></td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><a href="https://github.com/PPHconsultancy"><img src="https://avatars.githubusercontent.com/u/206948729?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PPHconsultancy"><b>PPH Professional Consultancy &amp; Services</b></a><br><sub>&#64;PPHconsultancy</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Providenciales, Turks and Caicos Islands and On…</sub></td>
+</tr>
+</tbody>
+</table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Building. 
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 0 attributed developers are tracked; the cutoff is — followers.
+- Organizations are excluded. 22 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

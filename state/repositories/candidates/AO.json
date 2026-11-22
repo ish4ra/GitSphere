@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"AO","name":"Angola","slug":"angola"},
-"count": 150,
+"count": 149,
 "repositories": [
-  {"name":"kurogai/100-redteam-projects","stars":2919,"forks":411,"language":"Python","archived":false,"createdAt":"2020-05-20T20:57:38Z","pushedAt":"2026-03-29T15:40:43Z","owner":{"login":"kurogai","type":"User","name":"Héber Júlio","location":"Luanda / Angola"},"attribution":{"code":"AO","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-03T23:34:27.304Z","id":"legacy:kurogai/100-redteam-projects","legacy":true},
   {"name":"braulio94/menu_flutter","stars":618,"forks":134,"language":"Dart","license":"BSD-3-Clause","archived":false,"createdAt":"2018-01-05T08:35:43Z","pushedAt":"2020-07-26T04:18:56Z","owner":{"login":"braulio94","type":"User","name":"Braulio Cassule","location":"Luanda, Angola"},"attribution":{"code":"AO","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-03T23:34:27.304Z","id":"legacy:braulio94/menu_flutter","legacy":true},
   {"name":"MarcioQuimbundo/uber_clone","stars":610,"forks":308,"language":"Dart","license":"MIT","archived":false,"createdAt":"2019-04-21T15:07:27Z","pushedAt":"2019-08-14T14:59:55Z","owner":{"login":"MarcioQuimbundo","type":"User","name":"Márcio Quimbundo","location":"Luanda, Angola"},"attribution":{"code":"AO","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-03T23:34:27.304Z","id":"legacy:marcioquimbundo/uber_clone","legacy":true},
   {"name":"SenchoPens/base16.nix","stars":287,"forks":11,"language":"Nix","license":"MIT","archived":false,"createdAt":"2021-05-06T15:19:06Z","pushedAt":"2025-08-21T23:34:00Z","owner":{"login":"SenchoPens","type":"User","name":"Arseniy Chekanov","location":"Macondo"},"attribution":{"code":"AO","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-14T22:28:27.651Z","id":"legacy:senchopens/base16.nix","legacy":true},

@@ -5,7 +5,7 @@
 "country": {"code":"BW","name":"Botswana","slug":"botswana"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":118,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"shimmer-from-structure","nameWithOwner":"darula-hpp/shimmer-from-structure","url":"https://github.com/darula-hpp/shimmer-from-structure","description":null,"stars":1122,"forks":21,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2026-01-20T18:59:27Z","pushedAt":"2026-10-04T19:57:33Z","archived":false,"owner":{"login":"darula-hpp","name":"Olebogeng Mbedzi","type":"User","url":"https://github.com/darula-hpp","location":"Gaborone","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"alx_test_suite","nameWithOwner":"Fuzzworth/alx_test_suite","url":"https://github.com/Fuzzworth/alx_test_suite","description":null,"stars":93,"forks":44,"primaryLanguage":"Shell","license":{"spdxId":"GPL-3.0"},"createdAt":"2023-05-17T12:30:06Z","pushedAt":"2023-11-17T23:04:14Z","archived":false,"owner":{"login":"Fuzzworth","name":"Nyangasi Mhozya","type":"User","url":"https://github.com/Fuzzworth","location":"Botswana","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Code-Novice","nameWithOwner":"BPhumusa/Code-Novice","url":"https://github.com/BPhumusa/Code-Novice","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2019-06-18T14:46:09Z","pushedAt":"2019-06-18T15:36:41Z","archived":false,"owner":{"login":"BPhumusa","name":"Busani Phumusa","type":"User","url":"https://github.com/BPhumusa","location":"Gaborone,Botswana","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"BIDA24-293","nameWithOwner":"Branden-Ellwood/BIDA24-293","url":"https://github.com/Branden-Ellwood/BIDA24-293","description":null,"stars":1,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2025-04-18T22:37:54Z","pushedAt":"2025-07-22T03:17:23Z","archived":false,"owner":{"login":"Branden-Ellwood","name":"Branden Ellwood","type":"User","url":"https://github.com/Branden-Ellwood","location":"Gaborone, Botswana","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "1faa109cdc61a78c",
-"updatedAt": "2026-11-22T08:41:14.246Z",
+"contentHash": "4584b47f17aa2391",
+"updatedAt": "2026-11-22T11:14:57.063Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

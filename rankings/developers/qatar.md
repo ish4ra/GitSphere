@@ -14,18 +14,36 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🔵 Building | **0** | — | <a href="../../data/developers/QA.json">JSON</a> |
+| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/QA.json">JSON</a> |
 
 </div>
 
-> Discovery for this country is still running. Results appear here automatically as soon as attributable entries are found and verified.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Followers</th><th align="right">Public repos</th><th align="left">Location</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><a href="https://github.com/mrpaziresh"><img src="https://avatars.githubusercontent.com/u/90142173?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrpaziresh"><b>Ali Reza Paziresh</b></a><br><sub>&#64;mrpaziresh</sub></td>
+<td align="right"><b>3,119</b></td>
+<td align="right">20</td>
+<td><sub>Doha, Qatar</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/andrewheiss"><img src="https://avatars.githubusercontent.com/u/73663?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andrewheiss"><b>Andrew Heiss</b></a><br><sub>&#64;andrewheiss</sub></td>
+<td align="right"><b>1,235</b></td>
+<td align="right">412</td>
+<td><sub>Doha, Qatar</sub></td>
+</tr>
+</tbody>
+</table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Building. 
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 0 attributed developers are tracked; the cutoff is — followers.
+- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 1,235 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

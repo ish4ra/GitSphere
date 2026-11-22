@@ -5,7 +5,7 @@
 "country": {"code":"BB","name":"Barbados","slug":"barbados"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":20,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"ColorfulNews","nameWithOwner":"kaku2015/ColorfulNews","url":"https://github.com/kaku2015/ColorfulNews","description":null,"stars":1298,"forks":415,"primaryLanguage":"Java","license":null,"createdAt":"2016-05-23T14:19:17Z","pushedAt":"2016-10-30T12:31:14Z","archived":false,"owner":{"login":"kaku2015","name":"FishingNet","type":"User","url":"https://github.com/kaku2015","location":"Barbados","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-10","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"WeatherAlarmClock","nameWithOwner":"kaku2015/WeatherAlarmClock","url":"https://github.com/kaku2015/WeatherAlarmClock","description":null,"stars":547,"forks":181,"primaryLanguage":"Java","license":null,"createdAt":"2016-06-12T04:34:28Z","pushedAt":"2019-04-19T09:06:14Z","archived":false,"owner":{"login":"kaku2015","name":"FishingNet","type":"User","url":"https://github.com/kaku2015","location":"Barbados","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-10","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"datasciencecoursera","nameWithOwner":"alanabenjamin/datasciencecoursera","url":"https://github.com/alanabenjamin/datasciencecoursera","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2014-06-08T07:31:32Z","pushedAt":"2014-06-09T19:31:45Z","archived":false,"owner":{"login":"alanabenjamin","name":"Alana Benjamin","type":"User","url":"https://github.com/alanabenjamin","location":"Barbados","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-28","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"alexanderp-hyuna","nameWithOwner":"alexanderp-k/alexanderp-hyuna","url":"https://github.com/alexanderp-k/alexanderp-hyuna","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2021-03-18T18:50:37Z","pushedAt":"2021-03-18T18:50:37Z","archived":false,"owner":{"login":"alexanderp-k","name":"Alexander Patrick","type":"User","url":"https://github.com/alexanderp-k","location":"Barbados","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-28","pendingRevalidation":true}
 ],
-"contentHash": "86d6adead6ae9681",
-"updatedAt": "2026-11-22T08:41:14.246Z",
+"contentHash": "83aafc44e392dc2f",
+"updatedAt": "2026-11-22T11:14:57.063Z",
 "verifiedOn": "2026-10-10",
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

@@ -3,12 +3,14 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"MK","name":"North Macedonia","slug":"north-macedonia"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
-"users": [],
-"contentHash": "3decb6ab6420cab5",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"coverage": {"basis":"partial","cutoffFollowers":1254,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"users": [
+  {"rank":1,"id":"U_kgDOCLt4NQ","login":"yutomiwana","name":"Yuto","url":"https://github.com/yutomiwana","avatarUrl":"https://avatars.githubusercontent.com/u/146503733?s=80&v=4","followers":1254,"publicRepos":46,"location":"Skopje","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"}
+],
+"contentHash": "eb69390720478794",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

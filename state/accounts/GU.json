@@ -3,7 +3,7 @@
 "country": {"code":"GU","name":"Guam","slug":"guam"},
 "count": 91,
 "accounts": [
-  {"id":"MDQ6VXNlcjM2NTg4NDY2","login":"671devskills","type":"User","name":"Paul L. Garcia","location":"Guam","attribution":{"code":"GU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:41.126Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjM2NTg4NDY2","login":"671devskills","type":"User","name":"Paul L. Garcia","location":"Guam","attribution":{"code":"GU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-22T11:09:36.605Z","sources":["contributions","legacy-owner-discovery"],"databaseId":36588466,"followers":0,"publicRepos":2,"createdAt":"2018-02-18T08:04:21Z","contributions":{"public":0,"commits":0,"issues":0,"pullRequests":0,"reviews":0,"repositories":0,"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z","measuredAt":"2026-11-22T11:09:36.605Z"}},
   {"id":"MDQ6VXNlcjY3MjE5MDc=","login":"alexmwhite","type":"User","name":"Alex M. White","location":"Guam","attribution":{"code":"GU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:41.126Z","sources":["legacy-owner-discovery"]},
   {"id":"U_kgDOBlhjYw","login":"AlfredoLondono","type":"User","name":"Alfredo Londono","location":"Guam","attribution":{"code":"GU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:41.126Z","sources":["legacy-owner-discovery"]},
   {"id":"U_kgDODefQ-w","login":"alliahdavid","type":"User","name":"Alliah Czarielle","location":"Guam","attribution":{"code":"GU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:41.126Z","sources":["legacy-owner-discovery"]},

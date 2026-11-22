@@ -14,18 +14,71 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🔵 Building | **0** | — | <a href="../../data/developers/SA.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/developers/SA.json">JSON</a> |
 
 </div>
 
-> Discovery for this country is still running. Results appear here automatically as soon as attributable entries are found and verified.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Followers</th><th align="right">Public repos</th><th align="left">Location</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><a href="https://github.com/Elbagoury"><img src="https://avatars.githubusercontent.com/u/9639673?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Elbagoury"><b>Elbagoury</b></a><br><sub>&#64;Elbagoury</sub></td>
+<td align="right"><b>1,525</b></td>
+<td align="right">23</td>
+<td><sub>Riyadh, Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/0xfff0800"><img src="https://avatars.githubusercontent.com/u/55315423?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xfff0800"><b>FaLaH</b></a><br><sub>&#64;0xfff0800</sub></td>
+<td align="right"><b>1,463</b></td>
+<td align="right">26</td>
+<td><sub>Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/shakiliitju"><img src="https://avatars.githubusercontent.com/u/84621547?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shakiliitju"><b>Md. Shakil Hossain</b></a><br><sub>&#64;shakiliitju</sub></td>
+<td align="right"><b>1,389</b></td>
+<td align="right">77</td>
+<td><sub>Buraydah, Kingdom of Saudi Arabia (KSA)</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/BotolMehedi"><img src="https://avatars.githubusercontent.com/u/64999484?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BotolMehedi"><b>Md. Mehedi Hasan</b></a><br><sub>&#64;BotolMehedi</sub></td>
+<td align="right"><b>1,322</b></td>
+<td align="right">35</td>
+<td><sub>Riyadh, Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/BandarHL"><img src="https://avatars.githubusercontent.com/u/31299470?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BandarHL"><b>Bandar Alruwaili</b></a><br><sub>&#64;BandarHL</sub></td>
+<td align="right"><b>1,315</b></td>
+<td align="right">41</td>
+<td><sub>Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/Mlook70"><img src="https://avatars.githubusercontent.com/u/90227793?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mlook70"><b>Abdulmalek.Akel &#124; MlookScript</b></a><br><sub>&#64;Mlook70</sub></td>
+<td align="right"><b>1,247</b></td>
+<td align="right">35</td>
+<td><sub>Saudi / Jeddah</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/Yarob50"><img src="https://avatars.githubusercontent.com/u/29100623?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Yarob50"><b>Yarob Al Mostafa (يعرُب)</b></a><br><sub>&#64;Yarob50</sub></td>
+<td align="right"><b>1,135</b></td>
+<td align="right">52</td>
+<td><sub>Saudi Arabia, Riyadh</sub></td>
+</tr>
+</tbody>
+</table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Building. 
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 0 attributed developers are tracked; the cutoff is — followers.
+- Organizations are excluded. 7 attributed developers are tracked; the cutoff is 1,135 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

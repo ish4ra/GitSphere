@@ -3,12 +3,14 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"PK","name":"Pakistan","slug":"pakistan"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":0,"measurementBacklog":400,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "7db90a9550d90bc2",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":405,"measuredAccounts":1,"measurementBacklog":404,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjIwMTI2NTQ1","login":"syed-ghufran-hassan","name":"Syed Ghufran Hassan","url":"https://github.com/syed-ghufran-hassan","avatarUrl":"https://avatars.githubusercontent.com/u/20126545?s=80&v=4","followers":1207,"publicRepos":752,"location":"Pakistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":1310,"commits":538,"pullRequests":635,"reviews":11,"issues":26,"repositories":100,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "b7be8e800e0f7a10",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

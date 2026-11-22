@@ -5,7 +5,7 @@
 "country": {"code":"CD","name":"DR Congo","slug":"dr-congo"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":112,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"deeplearningtheory","nameWithOwner":"foocker/deeplearningtheory","url":"https://github.com/foocker/deeplearningtheory","description":null,"stars":278,"forks":26,"primaryLanguage":null,"license":{"spdxId":"Apache-2.0"},"createdAt":"2021-04-01T02:14:18Z","pushedAt":"2026-03-14T03:39:20Z","archived":false,"owner":{"login":"foocker","name":"fq","type":"User","url":"https://github.com/foocker","location":"CD","attribution":{"confidence":"medium","evidence":"country-code"}},"verifiedOn":"2026-10-15","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"vue-dragscroll","nameWithOwner":"donmbelembe/vue-dragscroll","url":"https://github.com/donmbelembe/vue-dragscroll","description":null,"stars":264,"forks":33,"primaryLanguage":"Vue","license":{"spdxId":"MIT"},"createdAt":"2017-09-10T17:18:28Z","pushedAt":"2026-09-14T08:07:17Z","archived":false,"owner":{"login":"donmbelembe","name":null,"type":"User","url":"https://github.com/donmbelembe","location":"Kinshasa, DRC","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"react-table-to-pdf","nameWithOwner":"graciaskas/react-table-to-pdf","url":"https://github.com/graciaskas/react-table-to-pdf","description":null,"stars":2,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2022-05-25T08:00:20Z","pushedAt":"2022-05-25T08:17:40Z","archived":false,"owner":{"login":"graciaskas","name":"Gracias Kasongo","type":"User","url":"https://github.com/graciaskas","location":"Goma, D.R.C","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"personal-youtube-player","nameWithOwner":"hermanngumbu/personal-youtube-player","url":"https://github.com/hermanngumbu/personal-youtube-player","description":null,"stars":2,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2022-10-04T09:48:14Z","pushedAt":"2022-10-29T15:52:59Z","archived":false,"owner":{"login":"hermanngumbu","name":"herman ngumbu","type":"User","url":"https://github.com/hermanngumbu","location":"Kinshasa/DRC","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "1d11146911437897",
-"updatedAt": "2026-11-22T08:41:14.246Z",
+"contentHash": "c95e90a15bedec6d",
+"updatedAt": "2026-11-22T11:14:57.063Z",
 "verifiedOn": "2026-10-15",
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

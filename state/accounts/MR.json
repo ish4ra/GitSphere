@@ -3,7 +3,7 @@
 "country": {"code":"MR","name":"Mauritania","slug":"mauritania"},
 "count": 191,
 "accounts": [
-  {"id":"U_kgDODElF7A","login":"12ahm-c","type":"User","name":"ahmed ismail","location":"Mauritania","attribution":{"code":"MR","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:21:43.445Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDODElF7A","login":"12ahm-c","type":"User","name":"ahmed ismail","location":"Mauritania","attribution":{"code":"MR","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-22T11:11:15.543Z","sources":["contributions","legacy-owner-discovery"],"databaseId":206128620,"followers":2,"publicRepos":43,"createdAt":"2025-04-03T19:18:14Z","contributions":{"public":381,"commits":337,"issues":0,"pullRequests":12,"reviews":0,"repositories":32,"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z","measuredAt":"2026-11-22T11:11:15.543Z"}},
   {"id":"MDQ6VXNlcjg2ODEwMDk0","login":"7assen-coder","type":"User","name":"Mohammed Hassen","location":"Nouakchott, Mauritania","attribution":{"code":"MR","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-02T06:21:43.445Z","sources":["legacy-owner-discovery"]},
   {"id":"U_kgDOBfmZOg","login":"aadeina","type":"User","name":"Amar","location":"Mauritania","attribution":{"code":"MR","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:21:43.445Z","sources":["legacy-owner-discovery"]},
   {"id":"U_kgDOC38w_w","login":"AB-060","type":"User","name":"Abdallahi","location":"Mauritania","attribution":{"code":"MR","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:21:43.445Z","sources":["legacy-owner-discovery"]},

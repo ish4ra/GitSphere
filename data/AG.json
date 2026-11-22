@@ -5,7 +5,7 @@
 "country": {"code":"AG","name":"Antigua & Barbuda","slug":"antigua-barbuda"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":54,"ownerExpansionBacklog":54,"candidates":54,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":54,"ownerExpansionBacklog":56,"candidates":54,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":34,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"diktat","nameWithOwner":"saveourtool/diktat","url":"https://github.com/saveourtool/diktat","description":null,"stars":570,"forks":40,"primaryLanguage":"Kotlin","license":{"spdxId":"MIT"},"createdAt":"2020-06-29T17:14:54Z","pushedAt":"2026-06-03T09:05:01Z","archived":false,"owner":{"login":"saveourtool","name":"Save Our Tool!","type":"Organization","url":"https://github.com/saveourtool","location":"Antigua and Barbuda","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-10","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"PenNote","nameWithOwner":"MeshaMakes/PenNote","url":"https://github.com/MeshaMakes/PenNote","description":null,"stars":13,"forks":2,"primaryLanguage":"Dart","license":{"spdxId":"MIT"},"createdAt":"2021-05-03T19:49:00Z","pushedAt":"2022-10-08T14:04:09Z","archived":false,"owner":{"login":"MeshaMakes","name":"Mesha","type":"User","url":"https://github.com/MeshaMakes","location":"Antigua and Barbuda","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -62,8 +62,8 @@
   {"rank":53,"id":null,"name":"community","nameWithOwner":"UWI-TRADC/community","url":"https://github.com/UWI-TRADC/community","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-08-23T03:20:19Z","pushedAt":"2023-08-23T03:20:19Z","archived":false,"owner":{"login":"UWI-TRADC","name":"TRADC","type":"Organization","url":"https://github.com/UWI-TRADC","location":"Antigua and Barbuda","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":54,"id":null,"name":"sql-queries","nameWithOwner":"vivd-hbar/sql-queries","url":"https://github.com/vivd-hbar/sql-queries","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2025-05-01T14:09:59Z","pushedAt":"2025-05-01T14:10:00Z","archived":false,"owner":{"login":"vivd-hbar","name":"Viv Diwakar","type":"User","url":"https://github.com/vivd-hbar","location":"Piccadilly, Antigua and Barbuda","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "d68516c660b327ac",
-"updatedAt": "2026-11-22T08:41:14.246Z",
+"contentHash": "2125fb849418fea7",
+"updatedAt": "2026-11-22T11:14:57.063Z",
 "verifiedOn": "2026-10-10",
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

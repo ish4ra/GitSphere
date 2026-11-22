@@ -5,10 +5,10 @@
 "country": {"code":"VU","name":"Vanuatu","slug":"vanuatu"},
 "status": "building",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":47,"measuredAccounts":0,"measurementBacklog":47,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":46,"measuredAccounts":1,"measurementBacklog":45,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [],
-"contentHash": "94bf0b38ec4f9296",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "72115728a57c696b",
+"updatedAt": "2026-11-22T11:14:57.063Z",
 "verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

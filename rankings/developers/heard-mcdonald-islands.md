@@ -14,18 +14,78 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🔵 Building | **0** | — | <a href="../../data/developers/HM.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/developers/HM.json">JSON</a> |
 
 </div>
 
-> Discovery for this country is still running. Results appear here automatically as soon as attributable entries are found and verified.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Followers</th><th align="right">Public repos</th><th align="left">Location</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><a href="https://github.com/R-Pax"><img src="https://avatars.githubusercontent.com/u/341715?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/R-Pax"><b>pax</b></a><br><sub>&#64;R-Pax</sub></td>
+<td align="right"><b>5</b></td>
+<td align="right">3</td>
+<td><sub>Heard &amp; McDonald Islands</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/zero-width-space"><img src="https://avatars.githubusercontent.com/u/198437315?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zero-width-space"><b>zwsp</b></a><br><sub>&#64;zero-width-space</sub></td>
+<td align="right"><b>5</b></td>
+<td align="right">1</td>
+<td><sub>Heard Island and McDonald Islands</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/CoderRoyale"><img src="https://avatars.githubusercontent.com/u/109058089?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CoderRoyale"><b>Bernard Chang</b></a><br><sub>&#64;CoderRoyale</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">24</td>
+<td><sub>Heard Island and McDonald Islands</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/ygbnocap"><img src="https://avatars.githubusercontent.com/u/134435723?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ygbnocap"><b>Роберт Александр III</b></a><br><sub>&#64;ygbnocap</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">2</td>
+<td><sub>Heard &amp; McDonald Islands</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/dreamybitchlulu"><img src="https://avatars.githubusercontent.com/u/183215074?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dreamybitchlulu"><b>dreamybitchlulu</b></a><br><sub>&#64;dreamybitchlulu</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Heard &amp; McDonald Islands (HM)</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/cwabbatron"><img src="https://avatars.githubusercontent.com/u/160288202?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cwabbatron"><b>cwab</b></a><br><sub>&#64;cwabbatron</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Heard Island and McDonald Islands</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/ilikeshiny"><img src="https://avatars.githubusercontent.com/u/264210120?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ilikeshiny"><b>ilikeshiny</b></a><br><sub>&#64;ilikeshiny</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Heard &amp; McDonald Islands</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/JeremyMcfly"><img src="https://avatars.githubusercontent.com/u/245481893?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JeremyMcfly"><b>Phasez</b></a><br><sub>&#64;JeremyMcfly</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Heard &amp; McDonald Islands</sub></td>
+</tr>
+</tbody>
+</table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Building. 
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 0 attributed developers are tracked; the cutoff is — followers.
+- Organizations are excluded. 8 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

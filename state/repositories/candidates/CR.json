@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"CR","name":"Costa Rica","slug":"costa-rica"},
-"count": 150,
+"count": 149,
 "repositories": [
-  {"name":"glittercowboy/taches-cc-resources","stars":1981,"forks":408,"language":"TypeScript","license":"MIT","archived":false,"createdAt":"2025-11-13T18:02:17Z","pushedAt":"2026-04-01T15:10:58Z","owner":{"login":"glittercowboy","type":"User","name":"TÂCHES","location":"Costa Rica"},"attribution":{"code":"CR","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:53:53.330Z","id":"legacy:glittercowboy/taches-cc-resources","legacy":true},
   {"name":"Jeffser/Alpaca","stars":1645,"forks":147,"language":"Python","license":"GPL-3.0","archived":false,"createdAt":"2024-05-11T02:18:24Z","pushedAt":"2026-10-02T22:18:33Z","owner":{"login":"Jeffser","type":"User","name":"Jeffry Samuel","location":"Costa Rica"},"attribution":{"code":"CR","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:53:53.330Z","id":"legacy:jeffser/alpaca","legacy":true},
   {"name":"scallyw4g/bonsai","stars":1449,"forks":43,"language":"C","license":"WTFPL","archived":false,"createdAt":"2016-11-26T00:55:02Z","pushedAt":"2026-10-01T19:58:48Z","owner":{"login":"scallyw4g","type":"User","name":"Jesse Hughes","location":"Playa Avellanas, Costa Rica"},"attribution":{"code":"CR","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:53:53.330Z","id":"legacy:scallyw4g/bonsai","legacy":true},
   {"name":"Klerith/mas-talento","stars":718,"forks":191,"language":"JavaScript","archived":false,"createdAt":"2023-07-12T17:34:37Z","pushedAt":"2026-09-09T14:00:09Z","owner":{"login":"Klerith","type":"User","name":"Fernando Herrera","location":"Costa Rica"},"attribution":{"code":"CR","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:53:53.330Z","id":"legacy:klerith/mas-talento","legacy":true},

@@ -3,12 +3,14 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"FK","name":"Falkland Islands","slug":"falkland-islands"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":13,"measuredAccounts":0,"measurementBacklog":13,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "5ba81c1fe4d8097e",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":13,"measuredAccounts":1,"measurementBacklog":12,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"U_kgDOCJ5f9Q","login":"trrt54999","name":"trrt54999","url":"https://github.com/trrt54999","avatarUrl":"https://avatars.githubusercontent.com/u/144596981?s=80&v=4","followers":7,"publicRepos":13,"location":"Falkland Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":456,"commits":353,"pullRequests":61,"reviews":0,"issues":33,"repositories":9,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "4bb7007020e65d40",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

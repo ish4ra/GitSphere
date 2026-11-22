@@ -3,12 +3,14 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"MP","name":"Northern Mariana Islands","slug":"northern-mariana-islands"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":13,"measuredAccounts":0,"measurementBacklog":13,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "2dfe2f3e15eeb2f4",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":13,"measuredAccounts":1,"measurementBacklog":12,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"U_kgDOB3VWLA","login":"donnaada","name":"Donna Ada","url":"https://github.com/donnaada","avatarUrl":"https://avatars.githubusercontent.com/u/125130284?s=80&v=4","followers":27,"publicRepos":55,"location":"Saipan, MP","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-22","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "4f19e878657a487f",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

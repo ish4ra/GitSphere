@@ -3,12 +3,16 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"MM","name":"Myanmar (Burma)","slug":"myanmar-burma"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
-"users": [],
-"contentHash": "8b957a34d5e038ed",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"coverage": {"basis":"partial","cutoffFollowers":1077,"candidates":3,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjMzOTMwNA==","login":"eimg","name":"Ei Maung","url":"https://github.com/eimg","avatarUrl":"https://avatars.githubusercontent.com/u/339304?s=80&v=4","followers":4378,"publicRepos":104,"location":"Yangon, Myanmar","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjEzMDAxMjE=","login":"minlwin","name":"Min Lwin","url":"https://github.com/minlwin","avatarUrl":"https://avatars.githubusercontent.com/u/1300121?s=80&v=4","followers":1207,"publicRepos":102,"location":"Yangon, Myanmar","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjcwNTA1MTMy","login":"sannlynnhtun-coding","name":"Sann Lynn Htun","url":"https://github.com/sannlynnhtun-coding","avatarUrl":"https://avatars.githubusercontent.com/u/70505132?s=80&v=4","followers":1077,"publicRepos":446,"location":"Yangon, Myanmar","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+],
+"contentHash": "0107d6a8bcdfb8d2",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

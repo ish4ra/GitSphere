@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"TZ","name":"Tanzania","slug":"tanzania"},
-"count": 150,
+"count": 148,
 "repositories": [
-  {"name":"gernest/utron","stars":2212,"forks":146,"language":"Go","license":"MIT","archived":true,"createdAt":"2015-09-16T07:55:54Z","pushedAt":"2018-10-28T20:04:59Z","owner":{"login":"gernest","type":"User","name":"Geofrey Ernest","location":"Arusha, Tanzania"},"attribution":{"code":"TZ","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-17T01:38:20.257Z","id":"legacy:gernest/utron","legacy":true},
-  {"name":"vinceanalytics/vince","stars":2014,"forks":78,"language":"Go","license":"AGPL-3.0","archived":false,"createdAt":"2023-06-02T11:17:54Z","pushedAt":"2025-09-01T07:17:47Z","owner":{"login":"vinceanalytics","type":"Organization","name":"vinceanalytics","location":"Tanzania"},"attribution":{"code":"TZ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-17T01:38:20.257Z","id":"legacy:vinceanalytics/vince","legacy":true},
   {"name":"spidersuite/SpiderSuite","stars":982,"forks":127,"archived":false,"createdAt":"2023-04-05T13:01:28Z","pushedAt":"2026-08-13T19:19:50Z","owner":{"login":"spidersuite","type":"Organization","name":"Spider Suite","location":"Tanzania"},"attribution":{"code":"TZ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-17T01:38:20.257Z","id":"legacy:spidersuite/spidersuite","legacy":true},
   {"name":"yezyilomo/django-restql","stars":623,"forks":42,"language":"Python","license":"MIT","archived":false,"createdAt":"2019-04-06T21:53:41Z","pushedAt":"2025-08-13T12:32:56Z","owner":{"login":"yezyilomo","type":"User","name":"Yezy Ilomo","location":"Dar es salaam, Tanzania"},"attribution":{"code":"TZ","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-17T01:38:20.257Z","id":"legacy:yezyilomo/django-restql","legacy":true},
   {"name":"3nock/OTE","stars":579,"forks":63,"language":"C","license":"GPL-3.0","archived":true,"createdAt":"2021-06-07T14:27:09Z","pushedAt":"2026-08-07T07:37:45Z","owner":{"login":"3nock","type":"User","name":"Enock","location":"Dar es Salaam, Tanzania"},"attribution":{"code":"TZ","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-17T01:38:20.257Z","id":"legacy:3nock/ote","legacy":true},

@@ -3,12 +3,15 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"BE","name":"Belgium","slug":"belgium"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":0,"measurementBacklog":400,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "42dfc74c4526be9b",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":408,"measuredAccounts":2,"measurementBacklog":406,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":151,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjQ4MzI3MDAx","login":"NielsRogge","name":null,"url":"https://github.com/NielsRogge","avatarUrl":"https://avatars.githubusercontent.com/u/48327001?s=80&v=4","followers":4760,"publicRepos":278,"location":"Belgium","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":14137,"commits":3018,"pullRequests":1229,"reviews":10,"issues":9848,"repositories":29,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjEwNTk0ODA2","login":"erikdubois","name":"Erik Dubois","url":"https://github.com/erikdubois","avatarUrl":"https://avatars.githubusercontent.com/u/10594806?s=80&v=4","followers":1203,"publicRepos":396,"location":"Belgium","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":5821,"commits":5713,"pullRequests":0,"reviews":0,"issues":5,"repositories":101,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "3d687bddff1fa61c",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

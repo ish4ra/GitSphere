@@ -3,12 +3,14 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"MY","name":"Malaysia","slug":"malaysia"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":0,"measurementBacklog":400,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "2c2c0456a2b63045",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":401,"measuredAccounts":1,"measurementBacklog":400,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjQ0OTI4Mjg4","login":"rc-chuah","name":"RC Chuah","url":"https://github.com/rc-chuah","avatarUrl":"https://avatars.githubusercontent.com/u/44928288?s=80&v=4","followers":1784,"publicRepos":742,"location":"Shah Alam, Selangor, Malaysia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":1140,"commits":723,"pullRequests":170,"reviews":15,"issues":131,"repositories":101,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "730513f4c70226fd",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

@@ -3,7 +3,7 @@
 "country": {"code":"GP","name":"Guadeloupe","slug":"guadeloupe"},
 "count": 153,
 "accounts": [
-  {"id":"MDQ6VXNlcjgxMzczODk1","login":"AlbertKloster","type":"User","name":"Albert Kloster","location":"Petit-Canal, Guadeloupe","attribution":{"code":"GP","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T13:36:37.145Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjgxMzczODk1","login":"AlbertKloster","type":"User","name":"Albert Kloster","location":"Petit-Canal, Guadeloupe","attribution":{"code":"GP","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-22T11:09:36.605Z","sources":["contributions","legacy-owner-discovery"],"databaseId":81373895,"followers":1,"publicRepos":83,"createdAt":"2021-03-25T14:52:38Z","contributions":{"public":0,"commits":0,"issues":0,"pullRequests":0,"reviews":0,"repositories":0,"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z","measuredAt":"2026-11-22T11:09:36.605Z"}},
   {"id":"U_kgDOBjm1jQ","login":"AlexHub971","type":"User","name":"Alex HUBERT","location":"Guadeloupe","attribution":{"code":"GP","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:37.145Z","sources":["legacy-owner-discovery"]},
   {"id":"U_kgDODTKb5w","login":"Amadou339","type":"User","location":"Guadeloupe","attribution":{"code":"GP","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:37.145Z","sources":["legacy-owner-discovery"]},
   {"id":"MDQ6VXNlcjE3MDI2ODQ5","login":"AmaelN","type":"User","name":"Ama","location":"Guadeloupe","attribution":{"code":"GP","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:37.145Z","sources":["legacy-owner-discovery"]},

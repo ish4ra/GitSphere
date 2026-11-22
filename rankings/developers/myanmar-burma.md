@@ -14,18 +14,43 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🔵 Building | **0** | — | <a href="../../data/developers/MM.json">JSON</a> |
+| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/developers/MM.json">JSON</a> |
 
 </div>
 
-> Discovery for this country is still running. Results appear here automatically as soon as attributable entries are found and verified.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Followers</th><th align="right">Public repos</th><th align="left">Location</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><a href="https://github.com/eimg"><img src="https://avatars.githubusercontent.com/u/339304?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eimg"><b>Ei Maung</b></a><br><sub>&#64;eimg</sub></td>
+<td align="right"><b>4,378</b></td>
+<td align="right">104</td>
+<td><sub>Yangon, Myanmar</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/minlwin"><img src="https://avatars.githubusercontent.com/u/1300121?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/minlwin"><b>Min Lwin</b></a><br><sub>&#64;minlwin</sub></td>
+<td align="right"><b>1,207</b></td>
+<td align="right">102</td>
+<td><sub>Yangon, Myanmar</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/sannlynnhtun-coding"><img src="https://avatars.githubusercontent.com/u/70505132?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sannlynnhtun-coding"><b>Sann Lynn Htun</b></a><br><sub>&#64;sannlynnhtun-coding</sub></td>
+<td align="right"><b>1,077</b></td>
+<td align="right">446</td>
+<td><sub>Yangon, Myanmar</sub></td>
+</tr>
+</tbody>
+</table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Building. 
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 0 attributed developers are tracked; the cutoff is — followers.
+- Organizations are excluded. 3 attributed developers are tracked; the cutoff is 1,077 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,19 +14,37 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🔵 Building | **0** | — | <a href="../../data/developers/BO.json">JSON</a> |
+| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/BO.json">JSON</a> |
 
 </div>
 
-> Discovery for this country is still running. Results appear here automatically as soon as attributable entries are found and verified.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Followers</th><th align="right">Public repos</th><th align="left">Location</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><a href="https://github.com/Frosmin"><img src="https://avatars.githubusercontent.com/u/97764798?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Frosmin"><b>Simon Abasto Martinis</b></a><br><sub>&#64;Frosmin</sub></td>
+<td align="right"><b>2,478</b></td>
+<td align="right">110</td>
+<td><sub>Bolivia</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/nicobytes"><img src="https://avatars.githubusercontent.com/u/7611944?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nicobytes"><b>Nicolas Molina Monroy</b></a><br><sub>&#64;nicobytes</sub></td>
+<td align="right"><b>1,402</b></td>
+<td align="right">194</td>
+<td><sub>Cochabamba, Bolivia</sub></td>
+</tr>
+</tbody>
+</table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Building. 
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 0 attributed developers are tracked; the cutoff is — followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 1,402 followers.
+- **Location discovery:** term 0 of 125 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

@@ -3,12 +3,14 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"TW","name":"Taiwan","slug":"taiwan"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":0,"measurementBacklog":400,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "a2fdcb9e6e7cfa4d",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":420,"measuredAccounts":1,"measurementBacklog":419,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjkwMjE3NDc=","login":"peter279k","name":"Chun-Sheng, Li","url":"https://github.com/peter279k","avatarUrl":"https://avatars.githubusercontent.com/u/9021747?s=80&v=4","followers":2324,"publicRepos":1007,"location":"Taipei, Taiwan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":12684,"commits":12581,"pullRequests":45,"reviews":4,"issues":25,"repositories":29,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "907cae5375e3ea34",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

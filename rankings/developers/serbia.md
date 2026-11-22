@@ -14,18 +14,99 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🔵 Building | **0** | — | <a href="../../data/developers/RS.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/developers/RS.json">JSON</a> |
 
 </div>
 
-> Discovery for this country is still running. Results appear here automatically as soon as attributable entries are found and verified.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Followers</th><th align="right">Public repos</th><th align="left">Location</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><a href="https://github.com/djvelimir"><img src="https://avatars.githubusercontent.com/u/20823832?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/djvelimir"><b>Velimir Đurković</b></a><br><sub>&#64;djvelimir</sub></td>
+<td align="right"><b>10,972</b></td>
+<td align="right">33</td>
+<td><sub>Novi Sad, Vojvodina, Serbia</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/m-jovanovic"><img src="https://avatars.githubusercontent.com/u/34191235?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/m-jovanovic"><b>Milan Jovanović</b></a><br><sub>&#64;m-jovanovic</sub></td>
+<td align="right"><b>5,135</b></td>
+<td align="right">41</td>
+<td><sub>Niš, Serbia</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/ancaferro"><img src="https://avatars.githubusercontent.com/u/287352285?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ancaferro"><b>Anca Kovach</b></a><br><sub>&#64;ancaferro</sub></td>
+<td align="right"><b>3,194</b></td>
+<td align="right">6</td>
+<td><sub>Beograd, Srbija</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/stevdza-san"><img src="https://avatars.githubusercontent.com/u/14994036?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stevdza-san"><b>Stefan Jovanovic</b></a><br><sub>&#64;stevdza-san</sub></td>
+<td align="right"><b>3,155</b></td>
+<td align="right">103</td>
+<td><sub>Serbia</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/milanm"><img src="https://avatars.githubusercontent.com/u/578450?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/milanm"><b>Dr Milan Milanović</b></a><br><sub>&#64;milanm</sub></td>
+<td align="right"><b>2,865</b></td>
+<td align="right">51</td>
+<td><sub>Belgrade, Serbia</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/ClusterM"><img src="https://avatars.githubusercontent.com/u/4236181?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ClusterM"><b>Alexey Cluster</b></a><br><sub>&#64;ClusterM</sub></td>
+<td align="right"><b>1,900</b></td>
+<td align="right">92</td>
+<td><sub>Serbia</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/stefvndev"><img src="https://avatars.githubusercontent.com/u/105128267?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stefvndev"><b>Stefan</b></a><br><sub>&#64;stefvndev</sub></td>
+<td align="right"><b>1,356</b></td>
+<td align="right">2</td>
+<td><sub>Serbia</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/kerryjanes"><img src="https://avatars.githubusercontent.com/u/217045730?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kerryjanes"><b>Kerry</b></a><br><sub>&#64;kerryjanes</sub></td>
+<td align="right"><b>1,120</b></td>
+<td align="right">58</td>
+<td><sub>Belgrade</sub></td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/leonoffou"><img src="https://avatars.githubusercontent.com/u/234296670?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leonoffou"><b>Leonid Kuznetsov</b></a><br><sub>&#64;leonoffou</sub></td>
+<td align="right"><b>1,026</b></td>
+<td align="right">5</td>
+<td><sub>Beograd</sub></td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/umpirsky"><img src="https://avatars.githubusercontent.com/u/208957?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/umpirsky"><b>Saša Stamenković</b></a><br><sub>&#64;umpirsky</sub></td>
+<td align="right"><b>458</b></td>
+<td align="right">0</td>
+<td><sub>Niš, Serbia</sub></td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/morhetz"><img src="https://avatars.githubusercontent.com/u/554231?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/morhetz"><b>Pavel Pertsev</b></a><br><sub>&#64;morhetz</sub></td>
+<td align="right"><b>298</b></td>
+<td align="right">0</td>
+<td><sub>Serbia, Belgrade</sub></td>
+</tr>
+</tbody>
+</table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Building. 
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 0 attributed developers are tracked; the cutoff is — followers.
+- Organizations are excluded. 11 attributed developers are tracked; the cutoff is 298 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

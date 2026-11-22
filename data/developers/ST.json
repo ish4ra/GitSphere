@@ -3,12 +3,14 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"ST","name":"São Tomé & Príncipe","slug":"sao-tome-principe"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
-"users": [],
-"contentHash": "92442f6447108be4",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"coverage": {"basis":"partial","cutoffFollowers":1,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjcyODgwNTcx","login":"abdulay-cusodio","name":"Abdulay custódio","url":"https://github.com/abdulay-cusodio","avatarUrl":"https://avatars.githubusercontent.com/u/72880571?s=80&v=4","followers":1,"publicRepos":2,"location":"São Tomé and Príncipe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+],
+"contentHash": "9551563bd1a9a44a",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

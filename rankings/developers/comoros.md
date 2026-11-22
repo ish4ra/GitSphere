@@ -14,18 +14,36 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🔵 Building | **0** | — | <a href="../../data/developers/KM.json">JSON</a> |
+| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/KM.json">JSON</a> |
 
 </div>
 
-> Discovery for this country is still running. Results appear here automatically as soon as attributable entries are found and verified.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Followers</th><th align="right">Public repos</th><th align="left">Location</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><a href="https://github.com/abdallahsoulaimana"><img src="https://avatars.githubusercontent.com/u/67747492?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdallahsoulaimana"><b>Abdallah Soulaimana</b></a><br><sub>&#64;abdallahsoulaimana</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Comores</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/Aleik-Malik"><img src="https://avatars.githubusercontent.com/u/55530622?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aleik-Malik"><b>&#64;WALSE</b></a><br><sub>&#64;Aleik-Malik</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Comores, Moroni</sub></td>
+</tr>
+</tbody>
+</table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Building. 
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 0 attributed developers are tracked; the cutoff is — followers.
+- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

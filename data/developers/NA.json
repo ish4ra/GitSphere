@@ -3,12 +3,14 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"NA","name":"Namibia","slug":"namibia"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
-"users": [],
-"contentHash": "147dfe83a2d84f08",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjgzMjE3MDg1","login":"007Wesley007","name":"Wesley","url":"https://github.com/007Wesley007","avatarUrl":"https://avatars.githubusercontent.com/u/83217085?s=80&v=4","followers":0,"publicRepos":8,"location":"Namibia, Windhoek","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+],
+"contentHash": "c389d27db79b2d90",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

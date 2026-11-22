@@ -3,12 +3,17 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"PR","name":"Puerto Rico","slug":"puerto-rico"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
-"users": [],
-"contentHash": "bd52962470036cc8",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"coverage": {"basis":"partial","cutoffFollowers":88,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjUyMTI0Ng==","login":"darkoperator","name":"Carlos Perez","url":"https://github.com/darkoperator","avatarUrl":"https://avatars.githubusercontent.com/u/521246?s=80&v=4","followers":2200,"publicRepos":97,"location":"Puerto Rico","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"U_kgDOBtgYSg","login":"josean-dev","name":"Josean Martinez","url":"https://github.com/josean-dev","avatarUrl":"https://avatars.githubusercontent.com/u/114825290?s=80&v=4","followers":1392,"publicRepos":8,"location":"Puerto Rico","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjE4NjAzMzU=","login":"shawntabrizi","name":"Shawn Tabrizi","url":"https://github.com/shawntabrizi","avatarUrl":"https://avatars.githubusercontent.com/u/1860335?s=80&v=4","followers":1111,"publicRepos":149,"location":"Puerto Rico","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"MDQ6VXNlcjE1MjY5NjIz","login":"sodiray","name":"Ray Epps","url":"https://github.com/sodiray","avatarUrl":"https://avatars.githubusercontent.com/u/15269623?s=80&v=4","followers":88,"publicRepos":null,"location":"Treasure Valley","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"}
+],
+"contentHash": "9fdbbf569e31ae83",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

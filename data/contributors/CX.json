@@ -3,12 +3,15 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"CX","name":"Christmas Island","slug":"christmas-island"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":44,"measuredAccounts":0,"measurementBacklog":44,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "fd8050a9150cbdb9",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":43,"measuredAccounts":2,"measurementBacklog":41,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjMzNjU3NjIz","login":"Johnlyq","name":"QQ强","url":"https://github.com/Johnlyq","avatarUrl":"https://avatars.githubusercontent.com/u/33657623?s=80&v=4","followers":12,"publicRepos":146,"location":"圣诞岛","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":26,"commits":4,"pullRequests":0,"reviews":0,"issues":1,"repositories":21,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjI3MjUwNTk3","login":"j0nk0","name":null,"url":"https://github.com/j0nk0","avatarUrl":"https://avatars.githubusercontent.com/u/27250597?s=80&v=4","followers":35,"publicRepos":228,"location":"Christmas Island","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":7,"commits":0,"pullRequests":2,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "37fd08efca2a5b46",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

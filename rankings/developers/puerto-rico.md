@@ -14,18 +14,50 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🔵 Building | **0** | — | <a href="../../data/developers/PR.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/PR.json">JSON</a> |
 
 </div>
 
-> Discovery for this country is still running. Results appear here automatically as soon as attributable entries are found and verified.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Followers</th><th align="right">Public repos</th><th align="left">Location</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><a href="https://github.com/darkoperator"><img src="https://avatars.githubusercontent.com/u/521246?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/darkoperator"><b>Carlos Perez</b></a><br><sub>&#64;darkoperator</sub></td>
+<td align="right"><b>2,200</b></td>
+<td align="right">97</td>
+<td><sub>Puerto Rico</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/josean-dev"><img src="https://avatars.githubusercontent.com/u/114825290?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/josean-dev"><b>Josean Martinez</b></a><br><sub>&#64;josean-dev</sub></td>
+<td align="right"><b>1,392</b></td>
+<td align="right">8</td>
+<td><sub>Puerto Rico</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/shawntabrizi"><img src="https://avatars.githubusercontent.com/u/1860335?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shawntabrizi"><b>Shawn Tabrizi</b></a><br><sub>&#64;shawntabrizi</sub></td>
+<td align="right"><b>1,111</b></td>
+<td align="right">149</td>
+<td><sub>Puerto Rico</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/sodiray"><img src="https://avatars.githubusercontent.com/u/15269623?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sodiray"><b>Ray Epps</b></a><br><sub>&#64;sodiray</sub></td>
+<td align="right"><b>88</b></td>
+<td align="right">0</td>
+<td><sub>Treasure Valley</sub></td>
+</tr>
+</tbody>
+</table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Building. 
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 0 attributed developers are tracked; the cutoff is — followers.
+- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 88 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

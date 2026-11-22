@@ -14,18 +14,57 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🔵 Building | **0** | — | <a href="../../data/developers/KZ.json">JSON</a> |
+| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/developers/KZ.json">JSON</a> |
 
 </div>
 
-> Discovery for this country is still running. Results appear here automatically as soon as attributable entries are found and verified.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Followers</th><th align="right">Public repos</th><th align="left">Location</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><a href="https://github.com/0xAX"><img src="https://avatars.githubusercontent.com/u/2699235?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xAX"><b>Alex Kuleshov</b></a><br><sub>&#64;0xAX</sub></td>
+<td align="right"><b>3,800</b></td>
+<td align="right">37</td>
+<td><sub>Kazakhstan, Astana</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/Kairatzh"><img src="https://avatars.githubusercontent.com/u/148870880?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kairatzh"><b>kirtzh</b></a><br><sub>&#64;Kairatzh</sub></td>
+<td align="right"><b>2,678</b></td>
+<td align="right">70</td>
+<td><sub>Aktobe, Kazakhstan</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/henrypp"><img src="https://avatars.githubusercontent.com/u/3902025?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/henrypp"><b>henrypp</b></a><br><sub>&#64;henrypp</sub></td>
+<td align="right"><b>1,973</b></td>
+<td align="right">19</td>
+<td><sub>Almaty, Kazakhstan</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/mikonyaa"><img src="https://avatars.githubusercontent.com/u/227049489?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikonyaa"><b>miko</b></a><br><sub>&#64;mikonyaa</sub></td>
+<td align="right"><b>1,517</b></td>
+<td align="right">21</td>
+<td><sub>Astana, Kazakhstan</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/finik404"><img src="https://avatars.githubusercontent.com/u/89292083?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/finik404"><b>Dmitriy Bozhko</b></a><br><sub>&#64;finik404</sub></td>
+<td align="right"><b>1,051</b></td>
+<td align="right">49</td>
+<td><sub>Kazakhstan, Kostanay</sub></td>
+</tr>
+</tbody>
+</table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Building. 
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 0 attributed developers are tracked; the cutoff is — followers.
+- Organizations are excluded. 5 attributed developers are tracked; the cutoff is 1,051 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

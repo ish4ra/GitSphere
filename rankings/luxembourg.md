@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | :---: |
 | 🟠 Stale | **100** | 11 Oct 2026 | <a href="../data/LU.json">JSON</a> |
 
-> **Not yet re-verified.** 100 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 94 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -25,45 +25,45 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><img src="https://github.com/RunaCapital.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RunaCapital/awesome-oss-alternatives"><b>RunaCapital/awesome-oss-alternatives</b></a></td>
-<td align="right"><b>19,731</b></td>
-<td align="right">1,115</td>
+<td><img src="https://github.com/RunaCapital.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RunaCapital/awesome-oss-alternatives"><b>RunaCapital/awesome-oss-alternatives</b></a><br><sub>Awesome list of open-source startup alternatives to well-known SaaS products 🚀</sub></td>
+<td align="right"><b>19,885</b></td>
+<td align="right">1,131</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">2</td>
-<td><img src="https://github.com/255kb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/255kb/stack-on-a-budget"><b>255kb/stack-on-a-budget</b></a></td>
-<td align="right"><b>12,457</b></td>
-<td align="right">577</td>
+<td><img src="https://github.com/255kb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/255kb/stack-on-a-budget"><b>255kb/stack-on-a-budget</b></a><br><sub>A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool…</sub></td>
+<td align="right"><b>12,498</b></td>
+<td align="right">618</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">3</td>
-<td><img src="https://github.com/jesse-ai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jesse-ai/jesse"><b>jesse-ai/jesse</b></a></td>
-<td align="right"><b>8,612</b></td>
-<td align="right">1,252</td>
+<td><img src="https://github.com/jesse-ai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jesse-ai/jesse"><b>jesse-ai/jesse</b></a><br><sub>An advanced trading bot written in Python</sub></td>
+<td align="right"><b>8,828</b></td>
+<td align="right">1,295</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">4</td>
-<td><img src="https://github.com/andreafabrizi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/andreafabrizi/Dropbox-Uploader"><b>andreafabrizi/Dropbox-Uploader</b></a></td>
-<td align="right"><b>6,598</b></td>
-<td align="right">1,046</td>
-<td>Shell</td>
+<td><img src="https://github.com/mockoon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mockoon/mockoon"><b>mockoon/mockoon</b></a><br><sub>Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open sourc…</sub></td>
+<td align="right"><b>8,493</b></td>
+<td align="right">494</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">5</td>
-<td><img src="https://github.com/Vedenin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Vedenin/useful-java-links"><b>Vedenin/useful-java-links</b></a></td>
-<td align="right"><b>6,207</b></td>
-<td align="right">1,197</td>
-<td>Java</td>
+<td><img src="https://github.com/andreafabrizi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/andreafabrizi/Dropbox-Uploader"><b>andreafabrizi/Dropbox-Uploader</b></a><br><sub>Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online f…</sub></td>
+<td align="right"><b>6,600</b></td>
+<td align="right">1,044</td>
+<td>Shell</td>
 </tr>
 <tr>
 <td align="right">6</td>
-<td><img src="https://github.com/qdm12.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/qdm12/ddns-updater"><b>qdm12/ddns-updater</b></a></td>
-<td align="right"><b>3,226</b></td>
-<td align="right">284</td>
-<td>Go</td>
+<td><img src="https://github.com/Vedenin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Vedenin/useful-java-links"><b>Vedenin/useful-java-links</b></a><br><sub>A list of useful Java frameworks, libraries, software and hello worlds examples</sub></td>
+<td align="right"><b>6,216</b></td>
+<td align="right">1,195</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">7</td>
@@ -731,9 +731,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 3 stars; 150 attributed candidates are tracked.
-- 100 entries were carried over from the previous dataset and are pending revalidation.
-- 150 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 3 stars; 149 attributed candidates are tracked.
+- 94 entries were carried over from the previous dataset and are pending revalidation.
+- 147 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

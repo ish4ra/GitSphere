@@ -3,12 +3,14 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"XK","name":"Kosovo","slug":"kosovo"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
-"users": [],
-"contentHash": "65bb0af0f429fec9",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"coverage": {"basis":"partial","cutoffFollowers":8983,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjI1ODQyNjU1","login":"vjanz","name":"Valon Januzaj","url":"https://github.com/vjanz","avatarUrl":"https://avatars.githubusercontent.com/u/25842655?s=80&v=4","followers":8983,"publicRepos":20,"location":"Prishtina, Kosovo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+],
+"contentHash": "f6894e0f12856155",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

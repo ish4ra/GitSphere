@@ -3,12 +3,26 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"PH","name":"Philippines","slug":"philippines"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
-"users": [],
-"contentHash": "f7e6452e395839d2",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"coverage": {"basis":"partial","cutoffFollowers":330,"candidates":13,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjgxNjgyOTE2","login":"zshaian","name":"Shaian","url":"https://github.com/zshaian","avatarUrl":"https://avatars.githubusercontent.com/u/81682916?s=80&v=4","followers":5340,"publicRepos":17,"location":"Manila, Philippines","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjIwNjYwOTYz","login":"rodrigogalura","name":"Rodrigo Galura","url":"https://github.com/rodrigogalura","avatarUrl":"https://avatars.githubusercontent.com/u/20660963?s=80&v=4","followers":3567,"publicRepos":16,"location":"Philippines","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"U_kgDOCj8wjw","login":"Hazy019","name":"Kyrell Santillan","url":"https://github.com/Hazy019","avatarUrl":"https://avatars.githubusercontent.com/u/171913359?s=80&v=4","followers":2495,"publicRepos":17,"location":"Philippines","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"MDQ6VXNlcjc0NzM5","login":"audreyfeldroy","name":"Audrey M. Roy Greenfeld","url":"https://github.com/audreyfeldroy","avatarUrl":"https://avatars.githubusercontent.com/u/74739?s=80&v=4","followers":2177,"publicRepos":196,"location":"Manila","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-22"},
+  {"rank":5,"id":"MDQ6VXNlcjE2MTU0MjYz","login":"xchanmolx","name":"Chiantine P. Manigos","url":"https://github.com/xchanmolx","avatarUrl":"https://avatars.githubusercontent.com/u/16154263?s=80&v=4","followers":1988,"publicRepos":56,"location":"Philippines","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":6,"id":"U_kgDOB3xBQQ","login":"ianpurif","name":"IAN PURIFICACION","url":"https://github.com/ianpurif","avatarUrl":"https://avatars.githubusercontent.com/u/125583681?s=80&v=4","followers":1663,"publicRepos":55,"location":"Sariaya, Quezon, Philippines","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":7,"id":"MDQ6VXNlcjM3MDkyNTQ0","login":"bryllim","name":"Bryl Lim","url":"https://github.com/bryllim","avatarUrl":"https://avatars.githubusercontent.com/u/37092544?s=80&v=4","followers":1566,"publicRepos":17,"location":"Manila, Philippines","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":8,"id":"MDQ6VXNlcjE1MDUyNzAx","login":"warengonzaga","name":"Waren Gonzaga","url":"https://github.com/warengonzaga","avatarUrl":"https://avatars.githubusercontent.com/u/15052701?s=80&v=4","followers":1346,"publicRepos":111,"location":"Philippines","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":9,"id":"MDQ6VXNlcjI2ODc5OTc=","login":"yajra","name":"Arjay Angeles","url":"https://github.com/yajra","avatarUrl":"https://avatars.githubusercontent.com/u/2687997?s=80&v=4","followers":1256,"publicRepos":93,"location":"Philippines","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":10,"id":"U_kgDOBdWibA","login":"mrHeinrichh","name":"Heinric Fabros","url":"https://github.com/mrHeinrichh","avatarUrl":"https://avatars.githubusercontent.com/u/97886828?s=80&v=4","followers":1112,"publicRepos":90,"location":"Philippines","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":11,"id":"MDQ6VXNlcjg5NjE2NzA1","login":"godkingjay","name":"Jarrian Gojar (0x00474B4A)","url":"https://github.com/godkingjay","avatarUrl":"https://avatars.githubusercontent.com/u/89616705?s=80&v=4","followers":1051,"publicRepos":68,"location":"Philippines","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":12,"id":"MDQ6VXNlcjc5NzI2NTU=","login":"ivanceras","name":"Jovansonlee Cesar","url":"https://github.com/ivanceras","avatarUrl":"https://avatars.githubusercontent.com/u/7972655?s=80&v=4","followers":380,"location":"Cebu, Philippines","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":13,"id":"MDQ6VXNlcjI0ODY5","login":"pageman","name":"Paul Pajo","url":"https://github.com/pageman","avatarUrl":"https://avatars.githubusercontent.com/u/24869?s=80&v=4","followers":330,"publicRepos":null,"location":"Manila, Philippines","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+],
+"contentHash": "ced5083eb5576ae1",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

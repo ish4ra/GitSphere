@@ -5,7 +5,7 @@
 "country": {"code":"BN","name":"Brunei","slug":"brunei"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":47,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"mcp-metatrader5-server","nameWithOwner":"Qoyyuum/mcp-metatrader5-server","url":"https://github.com/Qoyyuum/mcp-metatrader5-server","description":null,"stars":231,"forks":79,"primaryLanguage":"Python","license":null,"createdAt":"2025-04-04T11:27:21Z","pushedAt":"2026-10-12T00:20:09Z","archived":false,"owner":{"login":"Qoyyuum","name":"Abdul Qoyyuum","type":"User","url":"https://github.com/Qoyyuum","location":"Brunei Darussalam","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"ClawTalk","nameWithOwner":"PenguinMiaou/ClawTalk","url":"https://github.com/PenguinMiaou/ClawTalk","description":null,"stars":209,"forks":32,"primaryLanguage":"TypeScript","license":null,"createdAt":"2026-03-26T03:09:11Z","pushedAt":"2026-04-09T07:59:34Z","archived":false,"owner":{"login":"PenguinMiaou","name":"PenguinMiaou","type":"User","url":"https://github.com/PenguinMiaou","location":"Brunei Darussalam","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"belimbings.github.io","nameWithOwner":"belimbings/belimbings.github.io","url":"https://github.com/belimbings/belimbings.github.io","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2021-07-09T13:30:35Z","pushedAt":"2021-07-09T23:17:43Z","archived":false,"owner":{"login":"belimbings","name":"Belimbings","type":"Organization","url":"https://github.com/belimbings","location":"Brunei Darussalam","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"studious-robot","nameWithOwner":"Boboi324/studious-robot","url":"https://github.com/Boboi324/studious-robot","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2021-12-14T19:07:12Z","pushedAt":"2021-12-14T19:07:13Z","archived":false,"owner":{"login":"Boboi324","name":"boboic325","type":"User","url":"https://github.com/Boboi324","location":"brunei","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "b55805d874f689c6",
-"updatedAt": "2026-11-22T08:41:14.246Z",
+"contentHash": "4aad3b67679acd1c",
+"updatedAt": "2026-11-22T11:14:57.063Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

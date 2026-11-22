@@ -1,12 +1,10 @@
 {
 "schemaVersion": 3,
 "country": {"code":"NF","name":"Norfolk Island","slug":"norfolk-island"},
-"count": 5,
+"count": 3,
 "accounts": [
-  {"id":"U_kgDOBeK2Ng","login":"ENIGMA2O5","type":"User","name":"ENGIMA205","location":"norfolk island","attribution":{"code":"NF","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-27T05:14:43.056Z","sources":["legacy-owner-discovery"]},
-  {"id":"U_kgDOCu6DaA","login":"lemonthebestolob","type":"User","location":"Norfolk Island (NF)","attribution":{"code":"NF","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-27T05:14:43.056Z","sources":["legacy-owner-discovery"]},
-  {"id":"MDQ6VXNlcjI2MzMxMDc3","login":"mark-ssd","type":"User","name":"Mark SSD","location":"Norfolk Island","attribution":{"code":"NF","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-27T05:14:43.056Z","sources":["legacy-owner-discovery"]},
-  {"id":"U_kgDOCTIZPg","login":"Specularpota","type":"User","name":"Specularpota","location":"Norfolk Island","attribution":{"code":"NF","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-27T05:14:43.056Z","sources":["legacy-owner-discovery"]},
-  {"id":"U_kgDOE-kmvA","login":"swebster94","type":"User","name":"Steven Webster","location":"New Max, Norfolk Island","attribution":{"code":"NF","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-27T05:14:43.056Z","sources":["legacy-owner-discovery"]}
+  {"id":"MDQ6VXNlcjI2MzMxMDc3","login":"mark-ssd","type":"User","name":"Mark SSD","location":"Norfolk Island","attribution":{"code":"NF","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-22T11:12:31.553Z","sources":["contributions","legacy-owner-discovery","refresh"],"databaseId":26331077,"followers":5,"publicRepos":14,"createdAt":"2017-03-10T16:57:40Z","contributions":{"public":835,"commits":826,"issues":0,"pullRequests":0,"reviews":0,"repositories":9,"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z","measuredAt":"2026-11-22T11:12:31.553Z"}},
+  {"id":"U_kgDOCTIZPg","login":"Specularpota","type":"User","name":"Specularpota","location":"Norfolk Island","attribution":{"code":"NF","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-22T11:03:53.850Z","sources":["legacy-owner-discovery","refresh"],"databaseId":154278206,"followers":0,"publicRepos":5,"createdAt":"2023-12-18T20:49:53Z"},
+  {"id":"U_kgDOCu6DaA","login":"lemonthebestolob","type":"User","location":"Norfolk Island (NF)","attribution":{"code":"NF","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-22T11:03:53.850Z","sources":["legacy-owner-discovery","refresh"],"databaseId":183403368,"followers":0,"publicRepos":4,"createdAt":"2024-09-30T15:29:54Z"}
 ]
 }

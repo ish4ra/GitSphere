@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"KN","name":"St. Kitts & Nevis","slug":"st-kitts-nevis"},
-"count": 49,
+"count": 48,
 "repositories": [
-  {"name":"cake-tech/cake_wallet","stars":1951,"forks":397,"language":"Dart","license":"MIT","archived":false,"createdAt":"2020-01-04T19:26:17Z","pushedAt":"2026-10-05T14:41:45Z","owner":{"login":"cake-tech","type":"Organization","name":"Cake Labs","location":"Saint Kitts and Nevis"},"attribution":{"code":"KN","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-12T01:51:33.414Z","id":"legacy:cake-tech/cake_wallet","legacy":true},
   {"name":"RaoFoundation/bittensor","stars":1470,"forks":473,"language":"Python","license":"MIT","archived":true,"createdAt":"2020-07-28T23:12:38Z","pushedAt":"2026-07-10T17:43:54Z","owner":{"login":"RaoFoundation","type":"Organization","name":"RaoFoundation","location":"Saint Kitts and Nevis"},"attribution":{"code":"KN","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-12T01:51:33.414Z","id":"legacy:raofoundation/bittensor","legacy":true},
   {"name":"haydenjames/bench-scripts","stars":1194,"forks":168,"license":"GPL-3.0","archived":false,"createdAt":"2017-10-31T03:26:44Z","pushedAt":"2024-07-01T19:11:02Z","owner":{"login":"haydenjames","type":"User","name":"Hayden James","location":"Saint Kitts"},"attribution":{"code":"KN","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-12T01:51:33.414Z","id":"legacy:haydenjames/bench-scripts","legacy":true},
   {"name":"RaoFoundation/subtensor","stars":393,"forks":352,"language":"Rust","license":"Apache-2.0","archived":false,"createdAt":"2023-03-02T14:27:24Z","pushedAt":"2026-10-11T20:36:05Z","owner":{"login":"RaoFoundation","type":"Organization","name":"RaoFoundation","location":"Saint Kitts and Nevis"},"attribution":{"code":"KN","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-12T01:51:33.414Z","id":"legacy:raofoundation/subtensor","legacy":true},

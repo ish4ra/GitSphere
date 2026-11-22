@@ -3,12 +3,15 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"AX","name":"Åland Islands","slug":"aland-islands"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":49,"measuredAccounts":0,"measurementBacklog":49,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "22405ac91865bb21",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":111,"measuredAccounts":2,"measurementBacklog":109,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":33,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjUxMjE4MTc=","login":"sagarishere","name":null,"url":"https://github.com/sagarishere","avatarUrl":"https://avatars.githubusercontent.com/u/5121817?s=80&v=4","followers":60,"publicRepos":93,"location":"Åland","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":50,"commits":43,"pullRequests":1,"reviews":0,"issues":0,"repositories":6,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjE1NDQzOA==","login":"janlindblom","name":"Jan Lindblom","url":"https://github.com/janlindblom","avatarUrl":"https://avatars.githubusercontent.com/u/154438?s=80&v=4","followers":16,"publicRepos":120,"location":"Åland","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":20,"commits":14,"pullRequests":1,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "edcd2421d7a06757",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

@@ -3,7 +3,7 @@
 "country": {"code":"NC","name":"New Caledonia","slug":"new-caledonia"},
 "count": 127,
 "accounts": [
-  {"id":"MDQ6VXNlcjQyODY3MDE=","login":"120dev","type":"User","name":"120","location":"NEW CALEDONIA","attribution":{"code":"NC","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T16:15:16.877Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjQyODY3MDE=","login":"120dev","type":"User","name":"120","location":"NEW CALEDONIA","attribution":{"code":"NC","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-22T11:12:31.552Z","sources":["contributions","legacy-owner-discovery"],"databaseId":4286701,"followers":3,"publicRepos":28,"createdAt":"2013-04-29T07:04:01Z","contributions":{"public":13,"commits":9,"issues":0,"pullRequests":0,"reviews":0,"repositories":4,"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z","measuredAt":"2026-11-22T11:12:31.553Z"}},
   {"id":"U_kgDOBrroaw","login":"5048tea","type":"User","name":"Mara","location":"New-Caledonia","attribution":{"code":"NC","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T16:15:16.877Z","sources":["legacy-owner-discovery"]},
   {"id":"MDQ6VXNlcjI2MTQwMDMw","login":"6pheR","type":"User","name":"CipheR_","location":"New Caledonia","attribution":{"code":"NC","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T16:15:16.877Z","sources":["legacy-owner-discovery"]},
   {"id":"MDQ6VXNlcjUyMzUxMjc=","login":"adriens","type":"User","name":"SALES","location":"Nouméa, New-Caledonia","attribution":{"code":"NC","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-02T16:15:16.877Z","sources":["legacy-owner-discovery"]},

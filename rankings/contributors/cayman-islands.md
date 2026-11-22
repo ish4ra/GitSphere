@@ -14,17 +14,41 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🔵 Building | **0** | — | <a href="../../data/contributors/KY.json">JSON</a> |
+| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/KY.json">JSON</a> |
 
 </div>
 
-> Discovery for this country is still running. Results appear here automatically as soon as attributable entries are found and verified.
+<p align="center"><sub>Public contributions from <b>22 Nov 2025</b> to <b>22 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
+
+<table>
+<thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Public contributions</th><th align="right">Commits</th><th align="right">PRs</th><th align="right">Reviews</th><th align="right">Issues</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><a href="https://github.com/0xpanicError"><img src="https://avatars.githubusercontent.com/u/107622640?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xpanicError"><b>Yash Saraswat</b></a><br><sub>&#64;0xpanicError · 83 followers</sub></td>
+<td align="right"><b>735</b></td>
+<td align="right">620</td>
+<td align="right">75</td>
+<td align="right">37</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/0xaander"><img src="https://avatars.githubusercontent.com/u/177585397?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xaander"><b>Xander</b></a><br><sub>&#64;0xaander · 4 followers</sub></td>
+<td align="right"><b>15</b></td>
+<td align="right">12</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+</tbody>
+</table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Building. 
-- **Measured:** 0 of 160 discovered developers (160 awaiting measurement).
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
+- **Measured:** 2 of 160 discovered developers (158 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

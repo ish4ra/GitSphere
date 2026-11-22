@@ -3,7 +3,7 @@
 "country": {"code":"GW","name":"Guinea-Bissau","slug":"guinea-bissau"},
 "count": 12,
 "accounts": [
-  {"id":"U_kgDOErFhBA","login":"abduramanedjalo06","type":"User","name":"Abduramane Djaló","location":"Guiné-Bissau","attribution":{"code":"GW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:35.484Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOErFhBA","login":"abduramanedjalo06","type":"User","name":"Abduramane Djaló","location":"Guiné-Bissau","attribution":{"code":"GW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-22T11:11:01.010Z","sources":["contributions","legacy-owner-discovery"],"databaseId":313614596,"followers":0,"publicRepos":1,"createdAt":"2026-08-05T22:47:42Z","contributions":{"public":48,"commits":46,"issues":0,"pullRequests":0,"reviews":0,"repositories":1,"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z","measuredAt":"2026-11-22T11:11:01.010Z"}},
   {"id":"MDQ6VXNlcjIzMTcxNDI0","login":"augoju","type":"User","name":"Augusto Gomes Júnior","location":"Guiné-Bissau","attribution":{"code":"GW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:35.484Z","sources":["legacy-owner-discovery"]},
   {"id":"U_kgDOBuPKbA","login":"baiojava","type":"User","name":"Lamine Baio","location":"Guiné-Bissau","attribution":{"code":"GW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:35.484Z","sources":["legacy-owner-discovery"]},
   {"id":"U_kgDOD5j9TQ","login":"baldeinfamara10-droid","type":"User","name":"Infamara bruxo07","location":"Guiné-Bissau","attribution":{"code":"GW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:35.484Z","sources":["legacy-owner-discovery"]},

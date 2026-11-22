@@ -14,18 +14,36 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🔵 Building | **0** | — | <a href="../../data/developers/UY.json">JSON</a> |
+| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/UY.json">JSON</a> |
 
 </div>
 
-> Discovery for this country is still running. Results appear here automatically as soon as attributable entries are found and verified.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Followers</th><th align="right">Public repos</th><th align="left">Location</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><a href="https://github.com/diegomura"><img src="https://avatars.githubusercontent.com/u/5600341?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/diegomura"><b>Diego Muracciole</b></a><br><sub>&#64;diegomura</sub></td>
+<td align="right"><b>1,780</b></td>
+<td align="right">33</td>
+<td><sub>Montevideo, Uruguay</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/spastorino"><img src="https://avatars.githubusercontent.com/u/52642?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/spastorino"><b>Santiago Pastorino</b></a><br><sub>&#64;spastorino</sub></td>
+<td align="right"><b>1,152</b></td>
+<td align="right">113</td>
+<td><sub>Montevideo, Uruguay</sub></td>
+</tr>
+</tbody>
+</table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Building. 
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 0 attributed developers are tracked; the cutoff is — followers.
+- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 1,152 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

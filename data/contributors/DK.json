@@ -3,12 +3,15 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"DK","name":"Denmark","slug":"denmark"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":0,"measurementBacklog":400,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "75b73295766ff386",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":408,"measuredAccounts":2,"measurementBacklog":406,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjEwNjAy","login":"watson","name":"Thomas Watson","url":"https://github.com/watson","avatarUrl":"https://avatars.githubusercontent.com/u/10602?s=80&v=4","followers":1979,"publicRepos":400,"location":"Copenhagen, Denmark","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":1547,"commits":865,"pullRequests":544,"reviews":130,"issues":1,"repositories":7,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjI0NjcxOTQ=","login":"yoshuawuyts","name":"Yosh","url":"https://github.com/yoshuawuyts","avatarUrl":"https://avatars.githubusercontent.com/u/2467194?s=80&v=4","followers":3432,"publicRepos":856,"location":"København, Denmark","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":1457,"commits":682,"pullRequests":259,"reviews":248,"issues":259,"repositories":8,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "b58ff12e7a8eecb4",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

@@ -3,12 +3,15 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"CO","name":"Colombia","slug":"colombia"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":0,"measurementBacklog":400,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "c040290b19cb543c",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":402,"measuredAccounts":2,"measurementBacklog":400,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjEwNTU0NDg2","login":"gndx","name":"Oscar Barajas Tavares","url":"https://github.com/gndx","avatarUrl":"https://avatars.githubusercontent.com/u/10554486?s=80&v=4","followers":3269,"publicRepos":171,"location":"Colombia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":178,"commits":144,"pullRequests":17,"reviews":1,"issues":2,"repositories":13,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjI1OTQzNjU1","login":"teffcode","name":"Estefany Aguilar","url":"https://github.com/teffcode","avatarUrl":"https://avatars.githubusercontent.com/u/25943655?s=80&v=4","followers":3183,"publicRepos":195,"location":"Medellín, Antioquia","attribution":{"confidence":"high","evidence":"place-with-subdivision"},"verifiedOn":"2026-11-22","contributions":{"public":17,"commits":7,"pullRequests":7,"reviews":0,"issues":0,"repositories":3,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "242aba34b64e41ae",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

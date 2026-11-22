@@ -1,8 +1,11 @@
 {
 "schemaVersion": 3,
 "country": {"code":"UG","name":"Uganda","slug":"uganda"},
-"count": 400,
+"count": 402,
 "accounts": [
+  {"id":"U_kgDOCTi7JA","databaseId":154712868,"login":"Arison99","type":"User","name":"Byonanebye Arison","location":"Kampala","followers":1770,"publicRepos":72,"createdAt":"2023-12-24T00:54:18Z","attribution":{"code":"UG","confidence":"medium","evidence":"dominant-place"},"seenAt":"2026-11-22T10:57:56.419Z","sources":["followers-scan"]},
+  {"id":"U_kgDOB7x-IA","databaseId":129793568,"login":"uthumany","type":"User","name":"Uthuman Moody","location":"uthuman 7H6P+H8, Kampala","followers":1058,"publicRepos":132,"createdAt":"2023-04-03T19:49:30Z","attribution":{"code":"UG","confidence":"medium","evidence":"dominant-place"},"seenAt":"2026-11-22T11:13:06.003Z","sources":["contributions","followers-scan"],"contributions":{"public":506,"commits":415,"issues":1,"pullRequests":8,"reviews":1,"repositories":81,"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z","measuredAt":"2026-11-22T11:13:06.003Z"}},
+  {"id":"MDQ6VXNlcjc4MDM0MQ==","login":"has2k1","type":"User","name":"Hassan Kibirige","location":"Kampala, Uganda","attribution":{"code":"UG","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-22T10:43:45.917Z","sources":["legacy-owner-discovery","repository-owner"],"databaseId":780341,"followers":300},
   {"id":"U_kgDOCYtEug","login":"0071616","type":"User","name":"Ceaser Tom A","location":"Kampala, Uganda","attribution":{"code":"UG","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-03T14:31:24.216Z","sources":["legacy-owner-discovery"]},
   {"id":"MDQ6VXNlcjU1MDk1NTk5","login":"0704258790","type":"User","name":"Kaddu Isaac","location":"kampala, Uganda","attribution":{"code":"UG","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-03T14:31:24.216Z","sources":["legacy-owner-discovery"]},
   {"id":"U_kgDOBk0wyA","login":"0772816238","type":"User","name":"jamal hakim","location":"Kampala Uganda","attribution":{"code":"UG","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-03T14:31:24.216Z","sources":["legacy-owner-discovery"]},
@@ -310,7 +313,6 @@
   {"id":"MDQ6VXNlcjg3MTI3NjE3","login":"Hamid2020bigga","type":"User","name":"Hamidbigga","location":"Uganda","attribution":{"code":"UG","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T14:31:24.216Z","sources":["legacy-owner-discovery"]},
   {"id":"MDQ6VXNlcjg4MjM0NTA4","login":"hanienourishments","type":"User","name":"HANIE NOURISHMENTS","location":"KAMPALA UGANDA","attribution":{"code":"UG","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-03T14:31:24.216Z","sources":["legacy-owner-discovery"]},
   {"id":"U_kgDOBldbDQ","login":"Harvel-Kay","type":"User","name":"Harvel","location":"Kampala ,Uganda","attribution":{"code":"UG","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-03T14:31:24.216Z","sources":["legacy-owner-discovery"]},
-  {"id":"MDQ6VXNlcjc4MDM0MQ==","login":"has2k1","type":"User","name":"Hassan Kibirige","location":"Kampala, Uganda","attribution":{"code":"UG","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-03T14:31:24.216Z","sources":["legacy-owner-discovery"]},
   {"id":"MDQ6VXNlcjY1OTU0NzQw","login":"HassanBahati","type":"User","name":"Hassan Bahati","location":"Uganda","attribution":{"code":"UG","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T14:31:24.216Z","sources":["legacy-owner-discovery"]},
   {"id":"MDQ6VXNlcjEwODgyMDI5","login":"hjroberts","type":"User","name":"roberts","location":"Uganda","attribution":{"code":"UG","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T14:31:24.216Z","sources":["legacy-owner-discovery"]},
   {"id":"MDQ6VXNlcjU5NTY1NDMw","login":"Hussseinkizz","type":"User","name":"Hussein Kizz ★","location":"Kampala Uganda","attribution":{"code":"UG","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-03T14:31:24.216Z","sources":["legacy-owner-discovery"]},

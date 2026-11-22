@@ -14,18 +14,120 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🔵 Building | **0** | — | <a href="../../data/developers/PM.json">JSON</a> |
+| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/developers/PM.json">JSON</a> |
 
 </div>
 
-> Discovery for this country is still running. Results appear here automatically as soon as attributable entries are found and verified.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Followers</th><th align="right">Public repos</th><th align="left">Location</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><a href="https://github.com/Sduruty"><img src="https://avatars.githubusercontent.com/u/66385837?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sduruty"><b>Sandie DURUTY</b></a><br><sub>&#64;Sduruty</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">15</td>
+<td><sub>Saint-Pierre, Saint-Pierre &amp; Miquelon</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/netviolet"><img src="https://avatars.githubusercontent.com/u/10493326?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/netviolet"><b>netviolet</b></a><br><sub>&#64;netviolet</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">14</td>
+<td><sub>Saint-Pierre-et-Miquelon</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/iamzadrotmrproper"><img src="https://avatars.githubusercontent.com/u/183455840?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iamzadrotmrproper"><b>iamzadrotmrproper</b></a><br><sub>&#64;iamzadrotmrproper</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">6</td>
+<td><sub>St Pierre &amp; Miquelon (PM)</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/ringdicaprio"><img src="https://avatars.githubusercontent.com/u/182456654?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ringdicaprio"><b>ringdicaprio</b></a><br><sub>&#64;ringdicaprio</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">6</td>
+<td><sub>St. Pierre &amp; Miquelon (PM)</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/sexyriskflying"><img src="https://avatars.githubusercontent.com/u/182521443?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sexyriskflying"><b>sexyriskflying</b></a><br><sub>&#64;sexyriskflying</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">6</td>
+<td><sub>St Pierre &amp; Miquelon (PM)</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/titaniumboydenzel"><img src="https://avatars.githubusercontent.com/u/182598063?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/titaniumboydenzel"><b>titaniumboydenzel</b></a><br><sub>&#64;titaniumboydenzel</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Saint-Pierre en Miquelon (PM)</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/blackpearlduke"><img src="https://avatars.githubusercontent.com/u/183196584?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/blackpearlduke"><b>blackpearlduke</b></a><br><sub>&#64;blackpearlduke</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Saint-Pierre en Miquelon (PM)</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/bromrustyryan"><img src="https://avatars.githubusercontent.com/u/183176306?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bromrustyryan"><b>bromrustyryan</b></a><br><sub>&#64;bromrustyryan</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>St. Pierre &amp; Miquelon (PM)</sub></td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/linkertnature"><img src="https://avatars.githubusercontent.com/u/183087545?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/linkertnature"><b>linkertnature</b></a><br><sub>&#64;linkertnature</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>St Pierre &amp; Miquelon (PM)</sub></td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/YamaCrible"><img src="https://avatars.githubusercontent.com/u/155173300?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YamaCrible"><b>Crible</b></a><br><sub>&#64;YamaCrible</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Saint-pierre et Miquelon</sub></td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/yanreitman"><img src="https://avatars.githubusercontent.com/u/130242697?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yanreitman"><b>Yan Reitman</b></a><br><sub>&#64;yanreitman</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>St. Pierre &amp; Miquelon</sub></td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><a href="https://github.com/Paul-BDT"><img src="https://avatars.githubusercontent.com/u/178505117?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Paul-BDT"><b>Paul&#95;BDT</b></a><br><sub>&#64;Paul-BDT</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>St-Pierre &amp; Miquelon</sub></td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><a href="https://github.com/bitopblogger"><img src="https://avatars.githubusercontent.com/u/181531299?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bitopblogger"><b>bitopblogger</b></a><br><sub>&#64;bitopblogger</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>St Pierre &amp; Miquelon (PM)</sub></td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><a href="https://github.com/MatyW31"><img src="https://avatars.githubusercontent.com/u/63795176?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MatyW31"><b>mathieu lavail</b></a><br><sub>&#64;MatyW31</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Saint pierre et miquelon</sub></td>
+</tr>
+</tbody>
+</table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Building. 
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 0 attributed developers are tracked; the cutoff is — followers.
+- Organizations are excluded. 14 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

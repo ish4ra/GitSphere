@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"country": "BN",
+"round": 1,
+"roundStartedAt": "2026-11-22T10:51:59.408Z",
+"terms": {"count":47,"fingerprint":"47:224951a7"},
+"termIndex": 0,
+"specIndex": 0,
+"active": {"term":"Brunei","kind":"users","queue":[{"metric":[0,100000000],"created":null,"cursor":"Y3Vyc29yOjMwMA==","page":7,"retrieved":300,"attempts":0}],"unresolved":[],"cycleStartedAt":"2026-11-22T10:51:59.408Z","stats":{"pages":6}},
+"unresolved": [],
+"completedRounds": [],
+"stats": {"requests":6,"pages":6,"accounts":300},
+"updatedAt": "2026-11-22T10:51:59.408Z"
+}

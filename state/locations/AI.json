@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"country": "AI",
+"round": 1,
+"roundStartedAt": "2026-11-22T10:47:40.547Z",
+"terms": {"count":22,"fingerprint":"22:c81eacc7"},
+"termIndex": 3,
+"specIndex": 0,
+"active": null,
+"unresolved": [],
+"completedRounds": [],
+"stats": {"requests":6,"pages":6,"accounts":43},
+"updatedAt": "2026-11-22T10:47:44.285Z"
+}

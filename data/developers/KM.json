@@ -3,12 +3,15 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"KM","name":"Comoros","slug":"comoros"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
-"users": [],
-"contentHash": "f359004dddfd4aa5",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjY3NzQ3NDky","login":"abdallahsoulaimana","name":"Abdallah Soulaimana","url":"https://github.com/abdallahsoulaimana","avatarUrl":"https://avatars.githubusercontent.com/u/67747492?s=80&v=4","followers":0,"publicRepos":4,"location":"Comores","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjU1NTMwNjIy","login":"Aleik-Malik","name":"@WALSE","url":"https://github.com/Aleik-Malik","avatarUrl":"https://avatars.githubusercontent.com/u/55530622?s=80&v=4","followers":0,"publicRepos":2,"location":"Comores, Moroni","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+],
+"contentHash": "01e167d9d2c96725",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

@@ -3,7 +3,7 @@
 "country": {"code":"JE","name":"Jersey","slug":"jersey"},
 "count": 60,
 "accounts": [
-  {"id":"MDQ6VXNlcjIyNDAxMDM3","login":"ablanco24","type":"User","name":"Andrew Blanco","location":"North New Jersey","attribution":{"code":"JE","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T22:09:51.888Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjIyNDAxMDM3","login":"ablanco24","type":"User","name":"Andrew Blanco","location":"North New Jersey","attribution":{"code":"JE","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-22T11:11:06.993Z","sources":["contributions","legacy-owner-discovery"],"databaseId":22401037,"followers":0,"publicRepos":4,"createdAt":"2016-09-23T17:46:33Z","contributions":{"public":1,"commits":0,"issues":0,"pullRequests":0,"reviews":0,"repositories":1,"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z","measuredAt":"2026-11-22T11:11:06.993Z"}},
   {"id":"MDQ6VXNlcjkxNDI5NDM=","login":"acewave","type":"User","location":"Jersey","attribution":{"code":"JE","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T22:09:51.888Z","sources":["legacy-owner-discovery"]},
   {"id":"MDQ6VXNlcjIzMjQ3MzAx","login":"aidantomes","type":"User","name":"Aidan Tomes","location":"Jersey,CI","attribution":{"code":"JE","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T22:09:51.888Z","sources":["legacy-owner-discovery"]},
   {"id":"MDQ6VXNlcjU0NTg4NTI4","login":"alabing2014","type":"User","name":"Lateef Alabi","location":"Secaucus New Jersey","attribution":{"code":"JE","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T22:09:51.888Z","sources":["legacy-owner-discovery"]},

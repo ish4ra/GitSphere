@@ -1,8 +1,10 @@
 {
 "schemaVersion": 3,
 "country": {"code":"IM","name":"Isle of Man","slug":"isle-of-man"},
-"count": 205,
+"count": 206,
 "accounts": [
+  {"id":"MDQ6VXNlcjU5Nzk3","databaseId":59797,"login":"jackmoore","type":"User","name":"Jack Moore","location":"Florida, man","followers":1902,"publicRepos":64,"createdAt":"2009-03-03T18:36:45Z","attribution":{"code":"IM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-22T11:11:06.993Z","sources":["contributions","followers-scan","repository-owner"],"contributions":{"public":3,"commits":1,"issues":0,"pullRequests":1,"reviews":0,"repositories":1,"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z","measuredAt":"2026-11-22T11:11:06.993Z"}},
+  {"id":"MDQ6VXNlcjE2NTEwMDg=","login":"braydie","type":"User","name":"Braydie Grove","location":"Isle of Man","attribution":{"code":"IM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-22T10:35:23.147Z","sources":["legacy-owner-discovery","repository-owner"],"databaseId":1651008,"followers":366},
   {"id":"MDQ6VXNlcjQzMTE4MDEx","login":"009greg","type":"User","name":"Greg Hogg","location":"Isle of Man","attribution":{"code":"IM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:40:43.454Z","sources":["legacy-owner-discovery"]},
   {"id":"MDQ6VXNlcjE2MTIxODgw","login":"0xchickenkiev","type":"User","name":"Kevin","location":"Isle Of Man","attribution":{"code":"IM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:40:43.454Z","sources":["legacy-owner-discovery"]},
   {"id":"U_kgDOEUr8cQ","login":"1M7KKDG14P1","type":"User","name":"ㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤ","location":"Isle of Man","attribution":{"code":"IM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:40:43.454Z","sources":["legacy-owner-discovery"]},
@@ -38,7 +40,6 @@
   {"id":"MDQ6VXNlcjYxMDEyNzUx","login":"bllbtnd","type":"User","name":"Balla Botond","location":"Isle of Man","attribution":{"code":"IM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:40:43.454Z","sources":["legacy-owner-discovery"]},
   {"id":"MDQ6VXNlcjMxNzAyNjQ=","login":"boballanjones","type":"User","name":"Bob Jones","location":"Isle of Man","attribution":{"code":"IM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:40:43.454Z","sources":["legacy-owner-discovery"]},
   {"id":"U_kgDOBsQRTg","login":"brajy01","type":"User","name":"Brajy","location":"Isle of Man","attribution":{"code":"IM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:40:43.454Z","sources":["legacy-owner-discovery"]},
-  {"id":"MDQ6VXNlcjE2NTEwMDg=","login":"braydie","type":"User","name":"Braydie Grove","location":"Isle of Man","attribution":{"code":"IM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:40:43.454Z","sources":["legacy-owner-discovery"]},
   {"id":"MDQ6VXNlcjYwNDUyMDY=","login":"BrianMayFan123","type":"User","name":"Conner Evans","location":"Isle of Man","attribution":{"code":"IM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:40:43.454Z","sources":["legacy-owner-discovery"]},
   {"id":"U_kgDOB8vpYw","login":"brooklynkanes","type":"User","name":"brooklyn","location":"Isle of Man","attribution":{"code":"IM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:40:43.454Z","sources":["legacy-owner-discovery"]},
   {"id":"MDQ6VXNlcjMyNzcxNjM=","login":"brynthompson","type":"User","name":"Bryn Thompson","location":"Isle of Man","attribution":{"code":"IM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:40:43.454Z","sources":["legacy-owner-discovery"]},

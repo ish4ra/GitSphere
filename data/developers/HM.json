@@ -3,12 +3,21 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"HM","name":"Heard & McDonald Islands","slug":"heard-mcdonald-islands"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
-"users": [],
-"contentHash": "0fd9bf52551dedcc",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":8,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjM0MTcxNQ==","login":"R-Pax","name":"pax","url":"https://github.com/R-Pax","avatarUrl":"https://avatars.githubusercontent.com/u/341715?s=80&v=4","followers":5,"publicRepos":3,"location":"Heard & McDonald Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"U_kgDOC9Ppww","login":"zero-width-space","name":"zwsp","url":"https://github.com/zero-width-space","avatarUrl":"https://avatars.githubusercontent.com/u/198437315?s=80&v=4","followers":5,"publicRepos":1,"location":"Heard Island and McDonald Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"U_kgDOBoAYKQ","login":"CoderRoyale","name":"Bernard Chang","url":"https://github.com/CoderRoyale","avatarUrl":"https://avatars.githubusercontent.com/u/109058089?s=80&v=4","followers":2,"publicRepos":24,"location":"Heard Island and McDonald Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"U_kgDOCANTiw","login":"ygbnocap","name":"Роберт Александр III","url":"https://github.com/ygbnocap","avatarUrl":"https://avatars.githubusercontent.com/u/134435723?s=80&v=4","followers":1,"publicRepos":2,"location":"Heard & McDonald Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":5,"id":"U_kgDOCuuj4g","login":"dreamybitchlulu","name":null,"url":"https://github.com/dreamybitchlulu","avatarUrl":"https://avatars.githubusercontent.com/u/183215074?s=80&v=4","followers":0,"publicRepos":4,"location":"Heard & McDonald Islands (HM)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":6,"id":"U_kgDOCY3Nyg","login":"cwabbatron","name":"cwab","url":"https://github.com/cwabbatron","avatarUrl":"https://avatars.githubusercontent.com/u/160288202?s=80&v=4","followers":0,"publicRepos":3,"location":"Heard Island and McDonald Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":7,"id":"U_kgDOD7-GyA","login":"ilikeshiny","name":null,"url":"https://github.com/ilikeshiny","avatarUrl":"https://avatars.githubusercontent.com/u/264210120?s=80&v=4","followers":0,"publicRepos":1,"location":"Heard & McDonald Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":8,"id":"U_kgDODqHBpQ","login":"JeremyMcfly","name":"Phasez","url":"https://github.com/JeremyMcfly","avatarUrl":"https://avatars.githubusercontent.com/u/245481893?s=80&v=4","followers":0,"publicRepos":1,"location":"Heard & McDonald Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+],
+"contentHash": "6882d52dfa70d6e1",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

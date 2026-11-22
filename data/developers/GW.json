@@ -3,12 +3,14 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"GW","name":"Guinea-Bissau","slug":"guinea-bissau"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
-"users": [],
-"contentHash": "a186d7ae0bf2f403",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"users": [
+  {"rank":1,"id":"U_kgDOErFhBA","login":"abduramanedjalo06","name":"Abduramane Djaló","url":"https://github.com/abduramanedjalo06","avatarUrl":"https://avatars.githubusercontent.com/u/313614596?s=80&v=4","followers":0,"publicRepos":1,"location":"Guiné-Bissau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+],
+"contentHash": "07130401ed324259",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

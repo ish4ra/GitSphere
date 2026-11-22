@@ -5,7 +5,7 @@
 "country": {"code":"BQ","name":"Caribbean Netherlands","slug":"caribbean-netherlands"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":14,"ownerExpansionBacklog":14,"candidates":14,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":14,"ownerExpansionBacklog":29,"candidates":14,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":20,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"ZYT","nameWithOwner":"inversepolarity/ZYT","url":"https://github.com/inversepolarity/ZYT","description":null,"stars":62,"forks":1,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2022-09-08T06:32:43Z","pushedAt":"2024-07-19T20:44:52Z","archived":false,"owner":{"login":"inversepolarity","name":"inversepolarity","type":"Organization","url":"https://github.com/inversepolarity","location":"Bonaire, Sint Eustatius and Saba","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-28","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"TAK-Server-Rocky-Script","nameWithOwner":"misterdallas/TAK-Server-Rocky-Script","url":"https://github.com/misterdallas/TAK-Server-Rocky-Script","description":null,"stars":8,"forks":2,"primaryLanguage":"Shell","license":null,"createdAt":"2022-12-27T00:25:36Z","pushedAt":"2023-01-04T20:27:30Z","archived":false,"owner":{"login":"misterdallas","name":"Dallas Maltby","type":"User","url":"https://github.com/misterdallas","location":"Bonaire, GA","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-28","pendingRevalidation":true},
@@ -22,8 +22,8 @@
   {"rank":13,"id":null,"name":"tgkinney","nameWithOwner":"tgkinney1351/tgkinney","url":"https://github.com/tgkinney1351/tgkinney","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2021-11-29T19:29:46Z","pushedAt":"2021-11-29T19:33:14Z","archived":false,"owner":{"login":"tgkinney1351","name":null,"type":"User","url":"https://github.com/tgkinney1351","location":"Bonaire, GA","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-28","pendingRevalidation":true},
   {"rank":14,"id":null,"name":"enlive","nameWithOwner":"TheCactusGuy/enlive","url":"https://github.com/TheCactusGuy/enlive","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-12-18T23:31:18Z","pushedAt":"2023-12-18T23:31:18Z","archived":false,"owner":{"login":"TheCactusGuy","name":"TheCactusGuy","type":"User","url":"https://github.com/TheCactusGuy","location":"The Bottom","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-28","pendingRevalidation":true}
 ],
-"contentHash": "c8922e25d2cb460d",
-"updatedAt": "2026-11-22T08:41:14.246Z",
+"contentHash": "9be1b5f8499eb805",
+"updatedAt": "2026-11-22T11:14:57.063Z",
 "verifiedOn": "2026-10-28",
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

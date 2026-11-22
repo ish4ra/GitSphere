@@ -3,12 +3,15 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"BR","name":"Brazil","slug":"brazil"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":0,"measurementBacklog":400,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "d258de1593129f73",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":635,"measuredAccounts":2,"measurementBacklog":633,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":156,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjc1NjA3","login":"suissa","name":"suissAI","url":"https://github.com/suissa","avatarUrl":"https://avatars.githubusercontent.com/u/75607?s=80&v=4","followers":2556,"publicRepos":1610,"location":"Brasil","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":7111,"commits":5422,"pullRequests":881,"reviews":3,"issues":720,"repositories":82,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjgzMDkyOTY=","login":"renatogroffe","name":"Renato Groffe","url":"https://github.com/renatogroffe","avatarUrl":"https://avatars.githubusercontent.com/u/8309296?s=80&v=4","followers":3341,"publicRepos":1963,"location":"Brazil","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":2549,"commits":2438,"pullRequests":4,"reviews":0,"issues":6,"repositories":101,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "9ef107c50d96f516",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

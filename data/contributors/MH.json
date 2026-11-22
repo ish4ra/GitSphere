@@ -3,12 +3,14 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"MH","name":"Marshall Islands","slug":"marshall-islands"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":27,"measuredAccounts":0,"measurementBacklog":27,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "27a39610447969fe",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":27,"measuredAccounts":1,"measurementBacklog":26,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjUyMDU2OTk=","login":"Naville","name":"Zhang","url":"https://github.com/Naville","avatarUrl":"https://avatars.githubusercontent.com/u/5205699?s=80&v=4","followers":1320,"publicRepos":22,"location":"lib/Analysis","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22","contributions":{"public":19,"commits":10,"pullRequests":2,"reviews":0,"issues":6,"repositories":1,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "a14e498adf84b3f1",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

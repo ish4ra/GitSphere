@@ -3,12 +3,15 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"BO","name":"Bolivia","slug":"bolivia"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
-"users": [],
-"contentHash": "e158058894e06176",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"coverage": {"basis":"partial","cutoffFollowers":1402,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":125,"unresolved":0},"exhaustive":false},
+"users": [
+  {"rank":1,"id":"U_kgDOBdPFvg","login":"Frosmin","name":"Simon Abasto Martinis","url":"https://github.com/Frosmin","avatarUrl":"https://avatars.githubusercontent.com/u/97764798?s=80&v=4","followers":2478,"publicRepos":110,"location":"Bolivia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjc2MTE5NDQ=","login":"nicobytes","name":"Nicolas Molina Monroy","url":"https://github.com/nicobytes","avatarUrl":"https://avatars.githubusercontent.com/u/7611944?s=80&v=4","followers":1402,"publicRepos":194,"location":"Cochabamba, Bolivia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+],
+"contentHash": "9d1b057bd8316602",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

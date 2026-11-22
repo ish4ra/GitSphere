@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"ET","name":"Ethiopia","slug":"ethiopia"},
-"count": 150,
+"count": 149,
 "repositories": [
-  {"name":"frectonz/sql-studio","stars":3691,"forks":130,"language":"Rust","license":"MIT","archived":false,"createdAt":"2024-06-11T18:32:36Z","pushedAt":"2026-08-26T14:32:48Z","owner":{"login":"frectonz","type":"User","name":"Fraol Lemecha","location":"Ethiopia, Addis Abeba"},"attribution":{"code":"ET","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-16T05:04:40.389Z","id":"legacy:frectonz/sql-studio","legacy":true},
   {"name":"devefy/Flutter-Story-App-UI","stars":955,"forks":321,"language":"Dart","archived":false,"createdAt":"2019-04-04T11:51:19Z","pushedAt":"2020-10-01T16:13:33Z","owner":{"login":"devefy","type":"User","name":"Abdulkerim Hamid","location":"Ethiopia, Adama"},"attribution":{"code":"ET","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-16T05:04:40.389Z","id":"legacy:devefy/flutter-story-app-ui","legacy":true},
   {"name":"Esubaalew/run","stars":941,"forks":31,"language":"Rust","license":"Apache-2.0","archived":false,"createdAt":"2025-09-30T08:03:00Z","pushedAt":"2026-07-09T12:09:18Z","owner":{"login":"Esubaalew","type":"User","name":"Esubalew Chekol","location":"Addis Ababa, Ethiopia"},"attribution":{"code":"ET","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-16T05:04:40.389Z","id":"legacy:esubaalew/run","legacy":true},
   {"name":"frectonz/pglite-fusion","stars":834,"forks":9,"language":"Nix","license":"MIT","archived":false,"createdAt":"2024-11-16T20:43:45Z","pushedAt":"2026-08-13T01:31:40Z","owner":{"login":"frectonz","type":"User","name":"Fraol Lemecha","location":"Ethiopia, Addis Abeba"},"attribution":{"code":"ET","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-16T05:04:40.389Z","id":"legacy:frectonz/pglite-fusion","legacy":true},

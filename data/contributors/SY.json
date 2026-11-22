@@ -5,10 +5,10 @@
 "country": {"code":"SY","name":"Syria","slug":"syria"},
 "status": "building",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":0,"measurementBacklog":400,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":1,"measurementBacklog":399,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [],
-"contentHash": "5273191395075416",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "c96a6507f00478d1",
+"updatedAt": "2026-11-22T11:14:57.063Z",
 "verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

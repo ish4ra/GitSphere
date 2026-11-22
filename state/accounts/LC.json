@@ -3,7 +3,7 @@
 "country": {"code":"LC","name":"St. Lucia","slug":"st-lucia"},
 "count": 51,
 "accounts": [
-  {"id":"MDQ6VXNlcjY0Nzg3MDU3","login":"Ad-vaith13","type":"User","name":"Advaith Das Maharana","location":"St. Lucia, Brisbane","attribution":{"code":"LC","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T14:25:58.452Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjY0Nzg3MDU3","login":"Ad-vaith13","type":"User","name":"Advaith Das Maharana","location":"St. Lucia, Brisbane","attribution":{"code":"LC","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-22T11:12:50.419Z","sources":["contributions","legacy-owner-discovery"],"databaseId":64787057,"followers":1,"publicRepos":5,"createdAt":"2020-05-04T12:59:49Z","contributions":{"public":17,"commits":12,"issues":0,"pullRequests":0,"reviews":0,"repositories":5,"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z","measuredAt":"2026-11-22T11:12:50.419Z"}},
   {"id":"MDQ6VXNlcjE5NjA4MjE=","login":"autoabacus","type":"User","name":"David Hartley","location":"St Lucia","attribution":{"code":"LC","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T14:25:58.452Z","sources":["legacy-owner-discovery"]},
   {"id":"MDQ6VXNlcjI1MTI4ODI2","login":"bBankert","type":"User","name":"Brandon Bankert","location":"St Lucia, QLD","attribution":{"code":"LC","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T14:25:58.452Z","sources":["legacy-owner-discovery"]},
   {"id":"MDQ6VXNlcjQ0ODU0MjMy","login":"bravetiger1964","type":"User","name":"Arnaldo Valdes Carrazana","location":"St. Lucia","attribution":{"code":"LC","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T14:25:58.452Z","sources":["legacy-owner-discovery"]},

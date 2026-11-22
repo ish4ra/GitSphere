@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | :---: |
 | 🟠 Stale | **100** | 16 Oct 2026 | <a href="../data/EG.json">JSON</a> |
 
-> **Not yet re-verified.** 100 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 92 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -25,58 +25,58 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><img src="https://github.com/D4Vinci.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/D4Vinci/Scrapling"><b>D4Vinci/Scrapling</b></a></td>
-<td align="right"><b>85,667</b></td>
-<td align="right">8,774</td>
+<td><img src="https://github.com/D4Vinci.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/D4Vinci/Scrapling"><b>D4Vinci/Scrapling</b></a><br><sub>🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don&#39;t be shy,…</sub></td>
+<td align="right"><b>104,906</b></td>
+<td align="right">10,976</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">2</td>
-<td><img src="https://github.com/aboul3la.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aboul3la/Sublist3r"><b>aboul3la/Sublist3r</b></a></td>
-<td align="right"><b>11,050</b></td>
-<td align="right">2,214</td>
+<td><img src="https://github.com/aboul3la.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aboul3la/Sublist3r"><b>aboul3la/Sublist3r</b></a><br><sub>Fast subdomains enumeration tool for penetration testers</sub></td>
+<td align="right"><b>11,100</b></td>
+<td align="right">2,210</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">3</td>
-<td><img src="https://github.com/mbadry1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mbadry1/DeepLearning.ai-Summary"><b>mbadry1/DeepLearning.ai-Summary</b></a></td>
-<td align="right"><b>5,349</b></td>
-<td align="right">2,427</td>
-<td>Python</td>
+<td><img src="https://github.com/dodyg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dodyg/practical-aspnetcore"><b>dodyg/practical-aspnetcore</b></a><br><sub>Practical samples of ASP.NET Core 11, 10, 9, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contain…</sub></td>
+<td align="right"><b>10,416</b></td>
+<td align="right">1,406</td>
+<td>C#</td>
 </tr>
 <tr>
 <td align="right">4</td>
-<td><img src="https://github.com/Moataz-Elmesmary.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap"><b>Moataz-Elmesmary/Data-Science-Roadmap</b></a></td>
-<td align="right"><b>4,386</b></td>
-<td align="right">624</td>
-<td>—</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/streaming-llm"><b>mit-han-lab/streaming-llm</b></a><br><sub>&#91;ICLR 2024&#93; Efficient Streaming Language Models with Attention Sinks</sub></td>
+<td align="right"><b>7,274</b></td>
+<td align="right">401</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">5</td>
-<td><img src="https://github.com/AhmadElsagheer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmadElsagheer/Competitive-programming-library"><b>AhmadElsagheer/Competitive-programming-library</b></a></td>
-<td align="right"><b>2,488</b></td>
-<td align="right">475</td>
-<td>Java</td>
+<td><img src="https://github.com/moudey.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/moudey/Shell"><b>moudey/Shell</b></a><br><sub>Powerful context menu manager for Windows File Explorer</sub></td>
+<td align="right"><b>6,971</b></td>
+<td align="right">282</td>
+<td>C++</td>
 </tr>
 <tr>
 <td align="right">6</td>
-<td><img src="https://github.com/amElnagdy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/amElnagdy/delegate-skills"><b>amElnagdy/delegate-skills</b></a></td>
-<td align="right"><b>2,300</b></td>
-<td align="right">192</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/AhmadIbrahiim.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmadIbrahiim/Website-downloader"><b>AhmadIbrahiim/Website-downloader</b></a><br><sub>💡 Download the complete source code of any website (including all assets). &#91; Javascripts, Stylesheets, Images &#93; using…</sub></td>
+<td align="right"><b>6,207</b></td>
+<td align="right">1,428</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td align="right">7</td>
-<td><img src="https://github.com/alash3al.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alash3al/sqler"><b>alash3al/sqler</b></a></td>
-<td align="right"><b>2,069</b></td>
-<td align="right">119</td>
-<td>Go</td>
+<td><img src="https://github.com/mbadry1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mbadry1/DeepLearning.ai-Summary"><b>mbadry1/DeepLearning.ai-Summary</b></a><br><sub>This repository contains my personal notes and summaries on DeepLearning.ai specialization courses. I&#39;ve enjoyed every…</sub></td>
+<td align="right"><b>5,358</b></td>
+<td align="right">2,419</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">8</td>
-<td><img src="https://github.com/abanoub-asaad.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abanoub-asaad/Java-Backend"><b>abanoub-asaad/Java-Backend</b></a></td>
-<td align="right"><b>1,919</b></td>
-<td align="right">271</td>
+<td><img src="https://github.com/Moataz-Elmesmary.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap"><b>Moataz-Elmesmary/Data-Science-Roadmap</b></a><br><sub>Data Science Roadmap from A to Z</sub></td>
+<td align="right"><b>4,429</b></td>
+<td align="right">631</td>
 <td>—</td>
 </tr>
 <tr>
@@ -731,9 +731,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 1 stars; 150 attributed candidates are tracked.
-- 100 entries were carried over from the previous dataset and are pending revalidation.
-- 150 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 1 stars; 146 attributed candidates are tracked.
+- 92 entries were carried over from the previous dataset and are pending revalidation.
+- 148 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

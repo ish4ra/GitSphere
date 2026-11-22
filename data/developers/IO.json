@@ -3,12 +3,21 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"IO","name":"British Indian Ocean Territory","slug":"british-indian-ocean-territory"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
-"users": [],
-"contentHash": "e91729b029583901",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":8,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjY2MDY1Njc0","login":"LixvYang","name":"Larson","url":"https://github.com/LixvYang","avatarUrl":"https://avatars.githubusercontent.com/u/66065674?s=80&v=4","followers":93,"publicRepos":214,"location":"British Indian Ocean Territory","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"U_kgDOB3F4LA","login":"linuxdistribution","name":"linuxdistribution","url":"https://github.com/linuxdistribution","avatarUrl":"https://avatars.githubusercontent.com/u/124876844?s=80&v=4","followers":8,"publicRepos":2,"location":"British Indian Ocean Territory","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjkxMzkzMQ==","login":"txdywy","name":"Ron Fitchburg","url":"https://github.com/txdywy","avatarUrl":"https://avatars.githubusercontent.com/u/913931?s=80&v=4","followers":0,"publicRepos":450,"location":"British Indian Ocean Territory","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"U_kgDOCtL7Nw","login":"rondaskeletik","name":null,"url":"https://github.com/rondaskeletik","avatarUrl":"https://avatars.githubusercontent.com/u/181599031?s=80&v=4","followers":0,"publicRepos":6,"location":"British Indian Ocean Territory (IO)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":5,"id":"U_kgDOCVcWtA","login":"inaplanet","name":"Inwell","url":"https://github.com/inaplanet","avatarUrl":"https://avatars.githubusercontent.com/u/156702388?s=80&v=4","followers":0,"publicRepos":5,"location":"British Indian Ocean Territory","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":6,"id":"U_kgDOCt8Hlg","login":"stackermanbaflocer","name":null,"url":"https://github.com/stackermanbaflocer","avatarUrl":"https://avatars.githubusercontent.com/u/182388630?s=80&v=4","followers":0,"publicRepos":5,"location":"British Indian Ocean Territory (IO)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":7,"id":"U_kgDOCTkb7A","login":"ObsoleteForma","name":"ObsoleteForma","url":"https://github.com/ObsoleteForma","avatarUrl":"https://avatars.githubusercontent.com/u/154737644?s=80&v=4","followers":0,"publicRepos":4,"location":"British Indian Ocean Territory","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":8,"id":"MDQ6VXNlcjI2MTY1ODY4","login":"dameon10325","name":"Dameon Price","url":"https://github.com/dameon10325","avatarUrl":"https://avatars.githubusercontent.com/u/26165868?s=80&v=4","followers":0,"publicRepos":1,"location":"British Indian Ocean Territory (Chagos Archipelago)","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+],
+"contentHash": "babeca6b4d901ad3",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

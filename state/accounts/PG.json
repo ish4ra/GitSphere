@@ -3,7 +3,7 @@
 "country": {"code":"PG","name":"Papua New Guinea","slug":"papua-new-guinea"},
 "count": 14,
 "accounts": [
-  {"id":"U_kgDOC1XMsg","login":"2021313068","type":"User","name":"MCS 443 Capstone Project Proposal (Group 2)","location":"Goroka","attribution":{"code":"PG","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-02T16:19:18.659Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOC1XMsg","login":"2021313068","type":"User","name":"MCS 443 Capstone Project Proposal (Group 2)","location":"Goroka","attribution":{"code":"PG","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-22T11:12:37.127Z","sources":["contributions","legacy-owner-discovery"],"databaseId":190172338,"followers":0,"publicRepos":1,"createdAt":"2024-11-30T08:39:48Z","contributions":{"public":0,"commits":0,"issues":0,"pullRequests":0,"reviews":0,"repositories":0,"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z","measuredAt":"2026-11-22T11:12:37.127Z"}},
   {"id":"U_kgDOD6hlUQ","login":"aiposnem400-Candycruz","type":"User","name":"Backey","location":"Goroka","attribution":{"code":"PG","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-02T16:19:18.659Z","sources":["legacy-owner-discovery"]},
   {"id":"MDQ6VXNlcjI0NjEwMDI4","login":"AllanKoaikJunior","type":"User","name":"Allan Koaik Junior","location":"East New Britain","attribution":{"code":"PG","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-02T16:19:18.659Z","sources":["legacy-owner-discovery"]},
   {"id":"U_kgDODNpswA","login":"Amilcar3pa","type":"User","location":"Papúa Nueva Guinea","attribution":{"code":"PG","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:17.837Z","sources":["legacy-owner-discovery"]},

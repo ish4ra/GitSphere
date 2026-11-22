@@ -14,18 +14,50 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🔵 Building | **0** | — | <a href="../../data/developers/UZ.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/UZ.json">JSON</a> |
 
 </div>
 
-> Discovery for this country is still running. Results appear here automatically as soon as attributable entries are found and verified.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Followers</th><th align="right">Public repos</th><th align="left">Location</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><a href="https://github.com/anvarnarz"><img src="https://avatars.githubusercontent.com/u/24692667?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anvarnarz"><b>Anvar Narzullaev</b></a><br><sub>&#64;anvarnarz</sub></td>
+<td align="right"><b>2,609</b></td>
+<td align="right">36</td>
+<td><sub>Tashkent</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/Iqbolshoh"><img src="https://avatars.githubusercontent.com/u/148738947?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Iqbolshoh"><b>Iqbolshoh Ilhomjonov</b></a><br><sub>&#64;Iqbolshoh</sub></td>
+<td align="right"><b>2,284</b></td>
+<td align="right">113</td>
+<td><sub>Uzbekistan, Samarqand city</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/romankh3"><img src="https://avatars.githubusercontent.com/u/16310793?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/romankh3"><b>Roman Beskrovnyi</b></a><br><sub>&#64;romankh3</sub></td>
+<td align="right"><b>1,666</b></td>
+<td align="right">31</td>
+<td><sub>Tashkent</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/keylase"><img src="https://avatars.githubusercontent.com/u/1929404?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/keylase"><b>Keylase</b></a><br><sub>&#64;keylase</sub></td>
+<td align="right"><b>116</b></td>
+<td align="right">0</td>
+<td><sub>Tashkent</sub></td>
+</tr>
+</tbody>
+</table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Building. 
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 0 attributed developers are tracked; the cutoff is — followers.
+- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 116 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

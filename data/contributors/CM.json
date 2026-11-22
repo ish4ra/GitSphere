@@ -3,12 +3,15 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"CM","name":"Cameroon","slug":"cameroon"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":0,"measurementBacklog":400,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "2b86d9ea3b4acf59",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":401,"measuredAccounts":2,"measurementBacklog":399,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjYyMjY5Njkz","login":"ln-dev7","name":"LN","url":"https://github.com/ln-dev7","avatarUrl":"https://avatars.githubusercontent.com/u/62269693?s=80&v=4","followers":1257,"publicRepos":280,"location":"Cameroon","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":2201,"commits":2145,"pullRequests":21,"reviews":0,"issues":5,"repositories":30,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjMxNDgzMTk=","login":"elliottminns","name":"Elliott Minns","url":"https://github.com/elliottminns","avatarUrl":"https://avatars.githubusercontent.com/u/3148319?s=80&v=4","followers":1192,"publicRepos":134,"location":"About","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22","contributions":{"public":348,"commits":339,"pullRequests":5,"reviews":0,"issues":0,"repositories":4,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "bc1af3d82ade0ec3",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

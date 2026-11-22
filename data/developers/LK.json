@@ -3,12 +3,26 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"LK","name":"Sri Lanka","slug":"sri-lanka"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
-"users": [],
-"contentHash": "55d1a8f0522db17e",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"coverage": {"basis":"partial","cutoffFollowers":202,"candidates":13,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjcwMjUxNTUy","login":"Thizh","name":"Thizh Wick","url":"https://github.com/Thizh","avatarUrl":"https://avatars.githubusercontent.com/u/70251552?s=80&v=4","followers":3987,"publicRepos":21,"location":"Sri Lanka","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjUwODM4","login":"arunoda","name":"Arunoda Susiripala","url":"https://github.com/arunoda","avatarUrl":"https://avatars.githubusercontent.com/u/50838?s=80&v=4","followers":2630,"publicRepos":300,"location":"Colombo, Sri Lanka","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjIyOTc2ODA2","login":"indrajithbandara","name":"Indrajith Bandara","url":"https://github.com/indrajithbandara","avatarUrl":"https://avatars.githubusercontent.com/u/22976806?s=80&v=4","followers":1472,"publicRepos":2854,"location":"Diyathalawa, Sri Lanka","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"MDQ6VXNlcjY0MjgzOTcz","login":"RazorKenway","name":"H.B. Sandeepa","url":"https://github.com/RazorKenway","avatarUrl":"https://avatars.githubusercontent.com/u/64283973?s=80&v=4","followers":1250,"publicRepos":42,"location":"Matara,Srilanka","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":5,"id":"U_kgDOB5v1VQ","login":"nisalgunawardhana","name":"Nisal Gunawardhana","url":"https://github.com/nisalgunawardhana","avatarUrl":"https://avatars.githubusercontent.com/u/127661397?s=80&v=4","followers":1236,"publicRepos":64,"location":"Sri Lanka","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":6,"id":"U_kgDOCv9dig","login":"zyferlink","name":"Rajitha / Zyfer","url":"https://github.com/zyferlink","avatarUrl":"https://avatars.githubusercontent.com/u/184507786?s=80&v=4","followers":1230,"publicRepos":31,"location":"Colombo, Sri Lanka","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":7,"id":"MDQ6VXNlcjEzMTYyODQ2","login":"mnpsnuwan","name":"Nuwan Samarasinghe","url":"https://github.com/mnpsnuwan","avatarUrl":"https://avatars.githubusercontent.com/u/13162846?s=80&v=4","followers":1204,"publicRepos":30,"location":"Sri Lanka","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":8,"id":"MDQ6VXNlcjg4MTM0NjMz","login":"ravindu01manoj","name":"Manoj","url":"https://github.com/ravindu01manoj","avatarUrl":"https://avatars.githubusercontent.com/u/88134633?s=80&v=4","followers":1132,"publicRepos":30,"location":"SRI LANKA","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":9,"id":"MDQ6VXNlcjc5NDcyMTc3","login":"ThiroshMadhusha","name":"Thirosh Madhusha","url":"https://github.com/ThiroshMadhusha","avatarUrl":"https://avatars.githubusercontent.com/u/79472177?s=80&v=4","followers":1130,"publicRepos":97,"location":"Colombo 02, Sri Lanka","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":10,"id":"U_kgDOBXhDYQ","login":"manulthanura","name":"Manul Thanura","url":"https://github.com/manulthanura","avatarUrl":"https://avatars.githubusercontent.com/u/91767649?s=80&v=4","followers":1084,"publicRepos":45,"location":"Colombo, Sri Lanka","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":11,"id":"MDQ6VXNlcjY4OTAyNTMw","login":"sameerasw","name":"sameerasw.com","url":"https://github.com/sameerasw","avatarUrl":"https://avatars.githubusercontent.com/u/68902530?s=80&v=4","followers":1053,"publicRepos":132,"location":"Sri Lanka","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":12,"id":"MDQ6VXNlcjcwNDYxMTE3","login":"InukaAsith","name":"Inuka Asith","url":"https://github.com/InukaAsith","avatarUrl":"https://avatars.githubusercontent.com/u/70461117?s=80&v=4","followers":252,"publicRepos":null,"location":"Matara, Sri Lanka","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":13,"id":"MDQ6VXNlcjEyNjkwMDEz","login":"lakinduakash","name":"Lakindu Akash","url":"https://github.com/lakinduakash","avatarUrl":"https://avatars.githubusercontent.com/u/12690013?s=80&v=4","followers":202,"publicRepos":null,"location":"Colombo,Sri Lanka","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+],
+"contentHash": "fec19e26f13b55e3",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

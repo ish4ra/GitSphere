@@ -14,18 +14,43 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🔵 Building | **0** | — | <a href="../../data/developers/CR.json">JSON</a> |
+| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/developers/CR.json">JSON</a> |
 
 </div>
 
-> Discovery for this country is still running. Results appear here automatically as soon as attributable entries are found and verified.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Followers</th><th align="right">Public repos</th><th align="left">Location</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><a href="https://github.com/Klerith"><img src="https://avatars.githubusercontent.com/u/3438503?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Klerith"><b>Fernando Herrera</b></a><br><sub>&#64;Klerith</sub></td>
+<td align="right"><b>15,634</b></td>
+<td align="right">579</td>
+<td><sub>Costa Rica</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/glittercowboy"><img src="https://avatars.githubusercontent.com/u/186001655?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/glittercowboy"><b>TÂCHES</b></a><br><sub>&#64;glittercowboy</sub></td>
+<td align="right"><b>1,284</b></td>
+<td align="right">28</td>
+<td><sub>Costa Rica</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/miguelestradam3"><img src="https://avatars.githubusercontent.com/u/212426258?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/miguelestradam3"><b>Miguel Estrada</b></a><br><sub>&#64;miguelestradam3</sub></td>
+<td align="right"><b>1,130</b></td>
+<td align="right">89</td>
+<td><sub>Costa Rica</sub></td>
+</tr>
+</tbody>
+</table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Building. 
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 0 attributed developers are tracked; the cutoff is — followers.
+- Organizations are excluded. 3 attributed developers are tracked; the cutoff is 1,130 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -3,12 +3,17 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"UZ","name":"Uzbekistan","slug":"uzbekistan"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
-"users": [],
-"contentHash": "7cc14284f1a72fa7",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"coverage": {"basis":"partial","cutoffFollowers":116,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjI0NjkyNjY3","login":"anvarnarz","name":"Anvar Narzullaev","url":"https://github.com/anvarnarz","avatarUrl":"https://avatars.githubusercontent.com/u/24692667?s=80&v=4","followers":2609,"publicRepos":36,"location":"Tashkent","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"U_kgDOCN2Tgw","login":"Iqbolshoh","name":"Iqbolshoh Ilhomjonov","url":"https://github.com/Iqbolshoh","avatarUrl":"https://avatars.githubusercontent.com/u/148738947?s=80&v=4","followers":2284,"publicRepos":113,"location":"Uzbekistan, Samarqand city","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjE2MzEwNzkz","login":"romankh3","name":"Roman Beskrovnyi","url":"https://github.com/romankh3","avatarUrl":"https://avatars.githubusercontent.com/u/16310793?s=80&v=4","followers":1666,"publicRepos":31,"location":"Tashkent","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"MDQ6VXNlcjE5Mjk0MDQ=","login":"keylase","name":"Keylase","url":"https://github.com/keylase","avatarUrl":"https://avatars.githubusercontent.com/u/1929404?s=80&v=4","followers":116,"publicRepos":null,"location":"Tashkent","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"}
+],
+"contentHash": "12e2260396b2f713",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

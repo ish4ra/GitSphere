@@ -1,0 +1,18 @@
+{
+"schemaVersion": 3,
+"name": "followers",
+"floor": 100,
+"cycle": 1,
+"cycleStartedAt": "2026-11-22T10:54:23.376Z",
+"queue": [
+  {"metric":[998,1045],"created":null,"cursor":"Y3Vyc29yOjUwMA==","page":6,"retrieved":500,"attempts":0},
+  {"metric":[949,997],"created":null,"cursor":null,"page":1},
+  {"metric":[563,948],"created":null,"cursor":null,"page":1},
+  {"metric":[100,562],"created":null,"cursor":null,"page":1}
+],
+"unresolved": [],
+"stats": {"pages":97,"splits":18,"leaves":15,"nodes":8751,"cyclePages":115,"cycleNodes":8751},
+"completedCycles": [],
+"createdAt": "2026-11-22T10:54:23.376Z",
+"updatedAt": "2026-11-22T11:01:36.220Z"
+}

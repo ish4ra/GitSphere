@@ -3,12 +3,14 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"PH","name":"Philippines","slug":"philippines"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":0,"measurementBacklog":400,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "98992dee8b478dab",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":401,"measuredAccounts":1,"measurementBacklog":400,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjc0NzM5","login":"audreyfeldroy","name":"Audrey M. Roy Greenfeld","url":"https://github.com/audreyfeldroy","avatarUrl":"https://avatars.githubusercontent.com/u/74739?s=80&v=4","followers":2177,"publicRepos":196,"location":"Manila","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-22","contributions":{"public":1119,"commits":939,"pullRequests":120,"reviews":12,"issues":44,"repositories":4,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "b26280f7c3b17bc2",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

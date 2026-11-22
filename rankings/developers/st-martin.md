@@ -14,18 +14,57 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🔵 Building | **0** | — | <a href="../../data/developers/MF.json">JSON</a> |
+| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/developers/MF.json">JSON</a> |
 
 </div>
 
-> Discovery for this country is still running. Results appear here automatically as soon as attributable entries are found and verified.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Followers</th><th align="right">Public repos</th><th align="left">Location</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><a href="https://github.com/smerlinm"><img src="https://avatars.githubusercontent.com/u/254609495?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/smerlinm"><b>smerlinm</b></a><br><sub>&#64;smerlinm</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">5</td>
+<td><sub>St Martin</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/bumperbuttzorotop"><img src="https://avatars.githubusercontent.com/u/183166068?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bumperbuttzorotop"><b>bumperbuttzorotop</b></a><br><sub>&#64;bumperbuttzorotop</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>St. Martin (MF)</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/commandoyaroon"><img src="https://avatars.githubusercontent.com/u/183422688?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/commandoyaroon"><b>commandoyaroon</b></a><br><sub>&#64;commandoyaroon</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>St Martin (MF)</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/muffinthemonster"><img src="https://avatars.githubusercontent.com/u/183312525?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/muffinthemonster"><b>muffinthemonster</b></a><br><sub>&#64;muffinthemonster</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>St. Martin (MF)</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/bluevistacaraibe"><img src="https://avatars.githubusercontent.com/u/11584567?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bluevistacaraibe"><b>BLUEVISTA CARAIBES</b></a><br><sub>&#64;bluevistacaraibe</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>ST MARTIN</sub></td>
+</tr>
+</tbody>
+</table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Building. 
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 0 attributed developers are tracked; the cutoff is — followers.
+- Organizations are excluded. 5 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

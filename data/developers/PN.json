@@ -3,12 +3,18 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"PN","name":"Pitcairn Islands","slug":"pitcairn-islands"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
-"users": [],
-"contentHash": "f16dd78088cf7a15",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":5,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjYzMTE2Nzg4","login":"Hi30MC","name":"Ash Duimstra","url":"https://github.com/Hi30MC","avatarUrl":"https://avatars.githubusercontent.com/u/63116788?s=80&v=4","followers":4,"publicRepos":20,"location":"WVGX+WJQ, Adamstown PCRN 1ZZ, Pitcairn Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"U_kgDOCu2EbA","login":"penflyingjoe","name":null,"url":"https://github.com/penflyingjoe","avatarUrl":"https://avatars.githubusercontent.com/u/183338092?s=80&v=4","followers":0,"publicRepos":5,"location":"Pitcairn Islands (PN)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjE2NTI2ODMy","login":"21Arne42","name":"Arne L.","url":"https://github.com/21Arne42","avatarUrl":"https://avatars.githubusercontent.com/u/16526832?s=80&v=4","followers":0,"publicRepos":1,"location":"Pitcairn Island","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"MDQ6VXNlcjI2MTM3NDg5","login":"dillan55539","name":"Dillan Kihn","url":"https://github.com/dillan55539","avatarUrl":"https://avatars.githubusercontent.com/u/26137489?s=80&v=4","followers":0,"publicRepos":1,"location":"Pitcairn Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":5,"id":"U_kgDOCTNiuA","login":"WaterBreathMan","name":"WaterBreathMan","url":"https://github.com/WaterBreathMan","avatarUrl":"https://avatars.githubusercontent.com/u/154362552?s=80&v=4","followers":0,"publicRepos":1,"location":"Pitcairn Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+],
+"contentHash": "f9230bf4a542539f",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | :---: |
 | 🟠 Stale | **100** | 14 Oct 2026 | <a href="../data/PY.json">JSON</a> |
 
-> **Not yet re-verified.** 100 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 99 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -25,9 +25,9 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><img src="https://github.com/tchx84.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tchx84/Flatseal"><b>tchx84/Flatseal</b></a></td>
-<td align="right"><b>1,789</b></td>
-<td align="right">113</td>
+<td><img src="https://github.com/PavelDoGreat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PavelDoGreat/WebGL-Fluid-Simulation"><b>PavelDoGreat/WebGL-Fluid-Simulation</b></a><br><sub>Play with fluids in your browser (works even on mobile)</sub></td>
+<td align="right"><b>16,890</b></td>
+<td align="right">1,926</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -731,8 +731,8 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 1 stars; 150 attributed candidates are tracked.
-- 100 entries were carried over from the previous dataset and are pending revalidation.
+- **Cutoff:** the last listed repository has 1 stars; 149 attributed candidates are tracked.
+- 99 entries were carried over from the previous dataset and are pending revalidation.
 - 150 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

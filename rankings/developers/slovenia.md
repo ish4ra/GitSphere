@@ -14,18 +14,71 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🔵 Building | **0** | — | <a href="../../data/developers/SI.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/developers/SI.json">JSON</a> |
 
 </div>
 
-> Discovery for this country is still running. Results appear here automatically as soon as attributable entries are found and verified.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Followers</th><th align="right">Public repos</th><th align="left">Location</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><a href="https://github.com/zbejas"><img src="https://avatars.githubusercontent.com/u/5880434?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zbejas"><b>Anže Mavrič</b></a><br><sub>&#64;zbejas</sub></td>
+<td align="right"><b>3,014</b></td>
+<td align="right">14</td>
+<td><sub>Maribor, Slovenia</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/gto76"><img src="https://avatars.githubusercontent.com/u/1396046?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gto76"><b>Jure Šorn</b></a><br><sub>&#64;gto76</sub></td>
+<td align="right"><b>1,227</b></td>
+<td align="right">44</td>
+<td><sub>Ljubljana</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/Niko1221"><img src="https://avatars.githubusercontent.com/u/86886444?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Niko1221"><b>Niko Veit</b></a><br><sub>&#64;Niko1221</sub></td>
+<td align="right"><b>1,140</b></td>
+<td align="right">2</td>
+<td><sub>Slovenia</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/luksa"><img src="https://avatars.githubusercontent.com/u/823581?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/luksa"><b>Marko Lukša</b></a><br><sub>&#64;luksa</sub></td>
+<td align="right"><b>1,123</b></td>
+<td align="right">161</td>
+<td><sub>Slovenia</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/aksonov"><img src="https://avatars.githubusercontent.com/u/1321329?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aksonov"><b>Pavel Aksonov</b></a><br><sub>&#64;aksonov</sub></td>
+<td align="right"><b>628</b></td>
+<td align="right">0</td>
+<td><sub>Koper, Slovenia</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/AndrewStetsenko"><img src="https://avatars.githubusercontent.com/u/2838582?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AndrewStetsenko"><b>AndrewStetsenko</b></a><br><sub>&#64;AndrewStetsenko</sub></td>
+<td align="right"><b>286</b></td>
+<td align="right">0</td>
+<td><sub>Slovenia</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/buresdv"><img src="https://avatars.githubusercontent.com/u/22037369?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/buresdv"><b>David Bureš</b></a><br><sub>&#64;buresdv</sub></td>
+<td align="right"><b>241</b></td>
+<td align="right">0</td>
+<td><sub>Maribor, Slovenia</sub></td>
+</tr>
+</tbody>
+</table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Building. 
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 0 attributed developers are tracked; the cutoff is — followers.
+- Organizations are excluded. 7 attributed developers are tracked; the cutoff is 241 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

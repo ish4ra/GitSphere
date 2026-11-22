@@ -5,15 +5,15 @@
 "country": {"code":"BL","name":"St. Barthélemy","slug":"st-barthelemy"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":4,"ownerExpansionBacklog":4,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":4,"ownerExpansionBacklog":9,"candidates":4,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":14,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"bambinafrankriver","nameWithOwner":"bambinafrankriver/bambinafrankriver","url":"https://github.com/bambinafrankriver/bambinafrankriver","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-22T03:00:21Z","pushedAt":"2024-09-22T03:00:37Z","archived":false,"owner":{"login":"bambinafrankriver","name":null,"type":"User","url":"https://github.com/bambinafrankriver","location":"St Barthélemy (BL)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-24","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"malmesbourne","nameWithOwner":"malmesbourne/malmesbourne","url":"https://github.com/malmesbourne/malmesbourne","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-14T06:04:23Z","pushedAt":"2024-09-14T06:04:32Z","archived":false,"owner":{"login":"malmesbourne","name":null,"type":"User","url":"https://github.com/malmesbourne","location":"St. Barthélemy (BL)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-24","pendingRevalidation":true},
   {"rank":3,"id":null,"name":"sandstormundead","nameWithOwner":"sandstormundead/sandstormundead","url":"https://github.com/sandstormundead/sandstormundead","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-14T11:18:24Z","pushedAt":"2024-09-14T11:18:34Z","archived":false,"owner":{"login":"sandstormundead","name":null,"type":"User","url":"https://github.com/sandstormundead","location":"St. Barthélemy (BL)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-24","pendingRevalidation":true},
   {"rank":4,"id":null,"name":"booking_script","nameWithOwner":"tonyshuzhi666/booking_script","url":"https://github.com/tonyshuzhi666/booking_script","description":null,"stars":0,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2026-06-10T13:08:58Z","pushedAt":"2026-06-11T01:36:27Z","archived":false,"owner":{"login":"tonyshuzhi666","name":"温志诚","type":"User","url":"https://github.com/tonyshuzhi666","location":"圣巴泰勒米","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-24","pendingRevalidation":true}
 ],
-"contentHash": "071b4eba5706165a",
-"updatedAt": "2026-11-22T08:41:14.246Z",
+"contentHash": "3278e040f76835ac",
+"updatedAt": "2026-11-22T11:14:57.063Z",
 "verifiedOn": "2026-10-24",
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

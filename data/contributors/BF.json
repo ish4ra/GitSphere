@@ -3,12 +3,15 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"BF","name":"Burkina Faso","slug":"burkina-faso"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":17,"measuredAccounts":0,"measurementBacklog":17,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "ca77da94b0e56066",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":312,"measuredAccounts":2,"measurementBacklog":310,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":115,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"U_kgDOB1CjEw","login":"codebadolo","name":"Badolo Geofroy","url":"https://github.com/codebadolo","avatarUrl":"https://avatars.githubusercontent.com/u/122725139?s=80&v=4","followers":120,"publicRepos":165,"location":"Burkina Faso","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":164,"commits":151,"pullRequests":0,"reviews":0,"issues":0,"repositories":13,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjE5NzU0NDg4","login":"Eff4real","name":"Effren Ouedraogo","url":"https://github.com/Eff4real","avatarUrl":"https://avatars.githubusercontent.com/u/19754488?s=80&v=4","followers":8,"publicRepos":193,"location":"Burkina Faso","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":2,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "d626877684a858d0",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

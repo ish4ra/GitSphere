@@ -14,19 +14,51 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🔵 Building | **0** | — | <a href="../../data/developers/AL.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/AL.json">JSON</a> |
 
 </div>
 
-> Discovery for this country is still running. Results appear here automatically as soon as attributable entries are found and verified.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Followers</th><th align="right">Public repos</th><th align="left">Location</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><a href="https://github.com/vasilirigels"><img src="https://avatars.githubusercontent.com/u/50117809?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vasilirigels"><b>Vasili Rigels</b></a><br><sub>&#64;vasilirigels</sub></td>
+<td align="right"><b>3,799</b></td>
+<td align="right">139</td>
+<td><sub>Tirana, Albania</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/jbaci"><img src="https://avatars.githubusercontent.com/u/60344290?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jbaci"><b>J.Baci</b></a><br><sub>&#64;jbaci</sub></td>
+<td align="right"><b>1,889</b></td>
+<td align="right">20</td>
+<td><sub>Tirana, Albania</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/gutogalego"><img src="https://avatars.githubusercontent.com/u/31139680?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gutogalego"><b>Augusto Miranda Galego</b></a><br><sub>&#64;gutogalego</sub></td>
+<td align="right"><b>1,160</b></td>
+<td align="right">30</td>
+<td><sub>CET</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/deniscerri"><img src="https://avatars.githubusercontent.com/u/64997243?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/deniscerri"><b>Denis Çerri</b></a><br><sub>&#64;deniscerri</sub></td>
+<td align="right"><b>733</b></td>
+<td align="right">0</td>
+<td><sub>Albania</sub></td>
+</tr>
+</tbody>
+</table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Building. 
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 0 attributed developers are tracked; the cutoff is — followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 733 followers.
+- **Location discovery:** term 0 of 141 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

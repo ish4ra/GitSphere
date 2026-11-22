@@ -3,12 +3,15 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"AW","name":"Aruba","slug":"aruba"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":89,"measuredAccounts":0,"measurementBacklog":89,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "352cde5f7d15467c",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":156,"measuredAccounts":2,"measurementBacklog":154,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":20,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"U_kgDOCDwgtA","login":"willem4130","name":"Willem4130","url":"https://github.com/willem4130","avatarUrl":"https://avatars.githubusercontent.com/u/138158260?s=80&v=4","followers":4,"publicRepos":177,"location":"Oranjestad, Aruba","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":567,"commits":520,"pullRequests":9,"reviews":0,"issues":1,"repositories":36,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjI1NjE5MDAy","login":"hfsyung","name":null,"url":"https://github.com/hfsyung","avatarUrl":"https://avatars.githubusercontent.com/u/25619002?s=80&v=4","followers":2,"publicRepos":201,"location":"Aruba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":34,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":34,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "d01e9b92152511cd",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

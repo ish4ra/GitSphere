@@ -14,18 +14,85 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🔵 Building | **0** | — | <a href="../../data/developers/TK.json">JSON</a> |
+| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/developers/TK.json">JSON</a> |
 
 </div>
 
-> Discovery for this country is still running. Results appear here automatically as soon as attributable entries are found and verified.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Followers</th><th align="right">Public repos</th><th align="left">Location</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><a href="https://github.com/duboviy"><img src="https://avatars.githubusercontent.com/u/6747643?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/duboviy"><b>Eugene Duboviy</b></a><br><sub>&#64;duboviy</sub></td>
+<td align="right"><b>752</b></td>
+<td align="right">47</td>
+<td><sub>Tokelau</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/DaczoDenes"><img src="https://avatars.githubusercontent.com/u/63414642?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DaczoDenes"><b>DaczoDenes</b></a><br><sub>&#64;DaczoDenes</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">3</td>
+<td><sub>Tokelau</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/awise-dorensbach"><img src="https://avatars.githubusercontent.com/u/163170906?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/awise-dorensbach"><b>awise-dorensbach</b></a><br><sub>&#64;awise-dorensbach</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">1</td>
+<td><sub>Tokelau</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/cheguang"><img src="https://avatars.githubusercontent.com/u/52312472?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cheguang"><b>guangche</b></a><br><sub>&#64;cheguang</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">5</td>
+<td><sub>7439 ,Kling Track ,North Ken ,Alabama ,Tokelau</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/dragonkekofmeister"><img src="https://avatars.githubusercontent.com/u/182703123?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dragonkekofmeister"><b>dragonkekofmeister</b></a><br><sub>&#64;dragonkekofmeister</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">5</td>
+<td><sub>Tokelau (TK)</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/edingdeadasted"><img src="https://avatars.githubusercontent.com/u/183163314?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/edingdeadasted"><b>edingdeadasted</b></a><br><sub>&#64;edingdeadasted</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Tokelau (TK)</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/ruvverfmb"><img src="https://avatars.githubusercontent.com/u/233748435?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ruvverfmb"><b>ruvverfmb</b></a><br><sub>&#64;ruvverfmb</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Tokelau</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/ayratcpp"><img src="https://avatars.githubusercontent.com/u/221740818?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ayratcpp"><b>ayratcpp</b></a><br><sub>&#64;ayratcpp</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Токелау</sub></td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/Mou-tk"><img src="https://avatars.githubusercontent.com/u/220655561?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mou-tk"><b>Mou</b></a><br><sub>&#64;Mou-tk</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Tokelau</sub></td>
+</tr>
+</tbody>
+</table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Building. 
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 0 attributed developers are tracked; the cutoff is — followers.
+- Organizations are excluded. 9 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

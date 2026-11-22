@@ -3,12 +3,14 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"SS","name":"South Sudan","slug":"south-sudan"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
-"users": [],
-"contentHash": "a61fccedef2d617b",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"coverage": {"basis":"partial","cutoffFollowers":2262,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjg4MzEyNg==","login":"samccone","name":"Sam Saccone","url":"https://github.com/samccone","avatarUrl":"https://avatars.githubusercontent.com/u/883126?s=80&v=4","followers":2262,"publicRepos":415,"location":"∆∆∆<script>alert(prompt('why'))</script>","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"}
+],
+"contentHash": "0551e67f4ae05b5a",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

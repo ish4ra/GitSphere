@@ -5,10 +5,10 @@
 "country": {"code":"NU","name":"Niue","slug":"niue"},
 "status": "building",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":9,"measuredAccounts":0,"measurementBacklog":9,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":9,"measuredAccounts":1,"measurementBacklog":8,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [],
-"contentHash": "96ce9b43f0676cf4",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "9f6dc19cca8c063b",
+"updatedAt": "2026-11-22T11:14:57.063Z",
 "verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

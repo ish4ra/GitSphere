@@ -3,12 +3,16 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"TT","name":"Trinidad & Tobago","slug":"trinidad-tobago"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
-"users": [],
-"contentHash": "809af0d569b56923",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"coverage": {"basis":"partial","cutoffFollowers":354,"candidates":3,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjcxMjA0MzQ5","login":"Spartanlasergun","name":"Narendra Singh","url":"https://github.com/Spartanlasergun","avatarUrl":"https://avatars.githubusercontent.com/u/71204349?s=80&v=4","followers":1600,"publicRepos":11,"location":"Trinidad and Tobago","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjM5ODU0NjQ=","login":"toniblyx","name":"Toni de la Fuente","url":"https://github.com/toniblyx","avatarUrl":"https://avatars.githubusercontent.com/u/3985464?s=80&v=4","followers":854,"publicRepos":null,"location":"GRX-SFO","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjE4NzU2OTc1","login":"trinib","name":"☣┌͜∩͜┐͜(͜◣͜_͜◢͜)͜┌͜∩͜┐☣","url":"https://github.com/trinib","avatarUrl":"https://avatars.githubusercontent.com/u/18756975?s=80&v=4","followers":354,"location":"❤Trinidad & Tobago❤","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+],
+"contentHash": "f61e1944130d0102",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

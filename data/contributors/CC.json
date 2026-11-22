@@ -3,12 +3,14 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"CC","name":"Cocos (Keeling) Islands","slug":"cocos-keeling-islands"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":2,"measuredAccounts":0,"measurementBacklog":2,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "1b441b358e5aa650",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":3,"measuredAccounts":2,"measurementBacklog":1,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":21,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjk0NDc0Mzk=","login":"rohwid","name":"Rohman Widiyanto","url":"https://github.com/rohwid","avatarUrl":"https://avatars.githubusercontent.com/u/9447439?s=80&v=4","followers":148,"publicRepos":55,"location":"Cocos (Keeling) Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":5,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "6ff52cd434d1c4c4",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

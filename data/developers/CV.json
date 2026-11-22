@@ -3,12 +3,15 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"CV","name":"Cape Verde","slug":"cape-verde"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
-"users": [],
-"contentHash": "b83c45babc370bc5",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjIzNjQyMTM=","login":"7-AM","name":"Alfredo Jorge Monteiro","url":"https://github.com/7-AM","avatarUrl":"https://avatars.githubusercontent.com/u/2364213?s=80&v=4","followers":4,"publicRepos":12,"location":"Cape Verde","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjQyNTg5NTgw","login":"0santos","name":"Ernâni Santos","url":"https://github.com/0santos","avatarUrl":"https://avatars.githubusercontent.com/u/42589580?s=80&v=4","followers":0,"publicRepos":6,"location":"Cape Verde","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+],
+"contentHash": "02d51224feab428f",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

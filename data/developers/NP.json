@@ -3,12 +3,26 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"NP","name":"Nepal","slug":"nepal"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
-"users": [],
-"contentHash": "3e3e6aa1c62d9dbc",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"coverage": {"basis":"partial","cutoffFollowers":1025,"candidates":13,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"users": [
+  {"rank":1,"id":"U_kgDOBzzq5w","login":"OracleBrain","name":"Aashis Jha","url":"https://github.com/OracleBrain","avatarUrl":"https://avatars.githubusercontent.com/u/121432807?s=80&v=4","followers":15980,"publicRepos":51,"location":"Kathmandu, Nepal","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjQ3NTg3MDEy","login":"PremChapagain","name":"Prem Chapagain","url":"https://github.com/PremChapagain","avatarUrl":"https://avatars.githubusercontent.com/u/47587012?s=80&v=4","followers":13969,"publicRepos":2,"location":"kathmandu","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjg0NDk5Mzcy","login":"jrohitofficial","name":"Rohit Jha","url":"https://github.com/jrohitofficial","avatarUrl":"https://avatars.githubusercontent.com/u/84499372?s=80&v=4","followers":12408,"publicRepos":130,"location":"Kathmandu, Nepal","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"MDQ6VXNlcjU4OTQ3MzEw","login":"hemantapkh","name":"Hemanta Pokharel","url":"https://github.com/hemantapkh","avatarUrl":"https://avatars.githubusercontent.com/u/58947310?s=80&v=4","followers":2670,"publicRepos":35,"location":"Kathmandu, Nepal","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":5,"id":"MDQ6VXNlcjY3NDk3MjI4","login":"sunil9813","name":"Sunil BK","url":"https://github.com/sunil9813","avatarUrl":"https://avatars.githubusercontent.com/u/67497228?s=80&v=4","followers":2290,"publicRepos":124,"location":"Nepal","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":6,"id":"MDQ6VXNlcjYzNjAyMTY=","login":"lohanidamodar","name":"Damodar Lohani","url":"https://github.com/lohanidamodar","avatarUrl":"https://avatars.githubusercontent.com/u/6360216?s=80&v=4","followers":2096,"publicRepos":199,"location":"Kathmandu, Nepal","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":7,"id":"MDQ6VXNlcjU5MzEzOTE4","login":"infopradip","name":"Pradip","url":"https://github.com/infopradip","avatarUrl":"https://avatars.githubusercontent.com/u/59313918?s=80&v=4","followers":2045,"publicRepos":39,"location":"Nepal","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":8,"id":"MDQ6VXNlcjc2ODc0MzQx","login":"devsargam","name":"Sargam","url":"https://github.com/devsargam","avatarUrl":"https://avatars.githubusercontent.com/u/76874341?s=80&v=4","followers":2016,"publicRepos":138,"location":"Nepal","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":9,"id":"U_kgDOB-nUzg","login":"gitechnologi","name":"GI Technology Pvt. Ltd.","url":"https://github.com/gitechnologi","avatarUrl":"https://avatars.githubusercontent.com/u/132764878?s=80&v=4","followers":1713,"publicRepos":2,"location":"Nepal","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":10,"id":"MDQ6VXNlcjU2NzE3NDUz","login":"pushitchaudhary","name":"Pushit Chaudhary","url":"https://github.com/pushitchaudhary","avatarUrl":"https://avatars.githubusercontent.com/u/56717453?s=80&v=4","followers":1375,"publicRepos":53,"location":"Pokhara, Nepal","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":11,"id":"MDQ6VXNlcjQwMTQ2MDk1","login":"prabinmagar","name":"Prabin Magar","url":"https://github.com/prabinmagar","avatarUrl":"https://avatars.githubusercontent.com/u/40146095?s=80&v=4","followers":1209,"publicRepos":223,"location":"Kathmandu,, Nepal","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":12,"id":"MDQ6VXNlcjYwMDk5Njk4","login":"ThinamXx","name":"Thinam Tamang","url":"https://github.com/ThinamXx","avatarUrl":"https://avatars.githubusercontent.com/u/60099698?s=80&v=4","followers":1209,"publicRepos":99,"location":"Kathmandu, Nepal","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":13,"id":"MDQ6VXNlcjMzNTc2Mjg1","login":"bishworajpoudelofficial","name":"Bishworaj Poudel","url":"https://github.com/bishworajpoudelofficial","avatarUrl":"https://avatars.githubusercontent.com/u/33576285?s=80&v=4","followers":1025,"publicRepos":88,"location":"Pokhara, Nepal","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+],
+"contentHash": "d2c685bd8ac86e59",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

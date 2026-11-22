@@ -3,12 +3,15 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"AL","name":"Albania","slug":"albania"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":0,"measurementBacklog":400,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "bed87291aeb27ff9",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":402,"measuredAccounts":2,"measurementBacklog":400,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":141,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjUwMTE3ODA5","login":"vasilirigels","name":"Vasili Rigels","url":"https://github.com/vasilirigels","avatarUrl":"https://avatars.githubusercontent.com/u/50117809?s=80&v=4","followers":3799,"publicRepos":139,"location":"Tirana, Albania","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":45,"commits":39,"pullRequests":2,"reviews":0,"issues":0,"repositories":4,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjMxMTM5Njgw","login":"gutogalego","name":"Augusto Miranda Galego","url":"https://github.com/gutogalego","avatarUrl":"https://avatars.githubusercontent.com/u/31139680?s=80&v=4","followers":1160,"publicRepos":30,"location":"CET","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22","contributions":{"public":23,"commits":17,"pullRequests":2,"reviews":0,"issues":0,"repositories":4,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "9f0d13279e6208c0",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

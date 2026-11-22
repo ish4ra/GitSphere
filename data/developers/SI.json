@@ -3,12 +3,20 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"SI","name":"Slovenia","slug":"slovenia"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
-"users": [],
-"contentHash": "2f90275fcbfc9dfa",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"coverage": {"basis":"partial","cutoffFollowers":241,"candidates":7,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjU4ODA0MzQ=","login":"zbejas","name":"Anže Mavrič","url":"https://github.com/zbejas","avatarUrl":"https://avatars.githubusercontent.com/u/5880434?s=80&v=4","followers":3014,"publicRepos":14,"location":"Maribor, Slovenia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjEzOTYwNDY=","login":"gto76","name":"Jure Šorn","url":"https://github.com/gto76","avatarUrl":"https://avatars.githubusercontent.com/u/1396046?s=80&v=4","followers":1227,"publicRepos":44,"location":"Ljubljana","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjg2ODg2NDQ0","login":"Niko1221","name":"Niko Veit","url":"https://github.com/Niko1221","avatarUrl":"https://avatars.githubusercontent.com/u/86886444?s=80&v=4","followers":1140,"publicRepos":2,"location":"Slovenia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"MDQ6VXNlcjgyMzU4MQ==","login":"luksa","name":"Marko Lukša","url":"https://github.com/luksa","avatarUrl":"https://avatars.githubusercontent.com/u/823581?s=80&v=4","followers":1123,"publicRepos":161,"location":"Slovenia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":5,"id":"MDQ6VXNlcjEzMjEzMjk=","login":"aksonov","name":"Pavel Aksonov","url":"https://github.com/aksonov","avatarUrl":"https://avatars.githubusercontent.com/u/1321329?s=80&v=4","followers":628,"location":"Koper, Slovenia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":6,"id":"MDQ6VXNlcjI4Mzg1ODI=","login":"AndrewStetsenko","name":null,"url":"https://github.com/AndrewStetsenko","avatarUrl":"https://avatars.githubusercontent.com/u/2838582?s=80&v=4","followers":286,"location":"Slovenia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":7,"id":"MDQ6VXNlcjIyMDM3MzY5","login":"buresdv","name":"David Bureš","url":"https://github.com/buresdv","avatarUrl":"https://avatars.githubusercontent.com/u/22037369?s=80&v=4","followers":241,"location":"Maribor, Slovenia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+],
+"contentHash": "085a0cb930298874",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

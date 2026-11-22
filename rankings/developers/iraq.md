@@ -14,18 +14,64 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🔵 Building | **0** | — | <a href="../../data/developers/IQ.json">JSON</a> |
+| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/developers/IQ.json">JSON</a> |
 
 </div>
 
-> Discovery for this country is still running. Results appear here automatically as soon as attributable entries are found and verified.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Followers</th><th align="right">Public repos</th><th align="left">Location</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><a href="https://github.com/Aziz-AXG"><img src="https://avatars.githubusercontent.com/u/74980212?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aziz-AXG"><b>Aziz falah</b></a><br><sub>&#64;Aziz-AXG</sub></td>
+<td align="right"><b>3,602</b></td>
+<td align="right">23</td>
+<td><sub>Baghdad, Iraq</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/sajjad-salam"><img src="https://avatars.githubusercontent.com/u/110976991?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sajjad-salam"><b>sajjad&#95;salam</b></a><br><sub>&#64;sajjad-salam</sub></td>
+<td align="right"><b>2,989</b></td>
+<td align="right">75</td>
+<td><sub>iraq-baghdad</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/muhammedessa"><img src="https://avatars.githubusercontent.com/u/4664253?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/muhammedessa"><b>Muhammed Essa</b></a><br><sub>&#64;muhammedessa</sub></td>
+<td align="right"><b>2,293</b></td>
+<td align="right">190</td>
+<td><sub>IRAQ</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/Ha3MrX"><img src="https://avatars.githubusercontent.com/u/33704360?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ha3MrX"><b>Ha3MrX</b></a><br><sub>&#64;Ha3MrX</sub></td>
+<td align="right"><b>2,069</b></td>
+<td align="right">14</td>
+<td><sub>Iraq</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/Mohammadkrd1"><img src="https://avatars.githubusercontent.com/u/142540681?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mohammadkrd1"><b>Mohamed Krd</b></a><br><sub>&#64;Mohammadkrd1</sub></td>
+<td align="right"><b>1,764</b></td>
+<td align="right">6</td>
+<td><sub>Zakho, Iraq</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/PawanOsman"><img src="https://avatars.githubusercontent.com/u/8727627?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PawanOsman"><b>Pawan Osman</b></a><br><sub>&#64;PawanOsman</sub></td>
+<td align="right"><b>517</b></td>
+<td align="right">0</td>
+<td><sub>As Sulaymaniyah, Iraq</sub></td>
+</tr>
+</tbody>
+</table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Building. 
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 0 attributed developers are tracked; the cutoff is — followers.
+- Organizations are excluded. 6 attributed developers are tracked; the cutoff is 517 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

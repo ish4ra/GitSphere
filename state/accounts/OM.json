@@ -1,8 +1,9 @@
 {
 "schemaVersion": 3,
 "country": {"code":"OM","name":"Oman","slug":"oman"},
-"count": 400,
+"count": 401,
 "accounts": [
+  {"id":"MDQ6VXNlcjQyMDM5ODQy","databaseId":42039842,"login":"shihabal3amri","type":"User","name":"Shihab","location":"Oman","followers":703,"publicRepos":17,"createdAt":"2018-08-02T15:05:34Z","attribution":{"code":"OM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-22T11:12:37.127Z","sources":["contributions","repository-owner"],"contributions":{"public":1264,"commits":915,"issues":0,"pullRequests":114,"reviews":231,"repositories":4,"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z","measuredAt":"2026-11-22T11:12:37.127Z"}},
   {"id":"U_kgDOCo59AQ","login":"001aahad","type":"User","location":"Oman","attribution":{"code":"OM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T16:17:46.963Z","sources":["legacy-owner-discovery"]},
   {"id":"U_kgDOCkU4kg","login":"00ismail00","type":"User","name":"Mohmed Ismail","location":"Muscat, Oman","attribution":{"code":"OM","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-02T16:17:46.963Z","sources":["legacy-owner-discovery"]},
   {"id":"MDQ6VXNlcjQxODg1MDA0","login":"0cool-design","type":"User","name":"0cool","location":"Oman","attribution":{"code":"OM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T16:17:46.963Z","sources":["legacy-owner-discovery"]},

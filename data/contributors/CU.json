@@ -3,12 +3,15 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"CU","name":"Cuba","slug":"cuba"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":0,"measurementBacklog":400,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "39b70672224daac8",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":2,"measurementBacklog":398,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"U_kgDOBZdJmw","login":"3horta","name":"ehorta","url":"https://github.com/3horta","avatarUrl":"https://avatars.githubusercontent.com/u/93800859?s=80&v=4","followers":29,"publicRepos":9,"location":"Havana, Cuba","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":222,"commits":220,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"U_kgDOBcFLOA","login":"A4GOD-AMHG","name":"Alexis Manuel Hurtado García","url":"https://github.com/A4GOD-AMHG","avatarUrl":"https://avatars.githubusercontent.com/u/96553784?s=80&v=4","followers":19,"publicRepos":35,"location":"Cuba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":194,"commits":189,"pullRequests":0,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "2f9c0c2d3b9b8a38",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

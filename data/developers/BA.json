@@ -3,12 +3,15 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"BA","name":"Bosnia & Herzegovina","slug":"bosnia-herzegovina"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
-"users": [],
-"contentHash": "7cf682423078fb1a",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"coverage": {"basis":"partial","cutoffFollowers":229,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":123,"unresolved":0},"exhaustive":false},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjQ4OTA1NDg=","login":"inputsh","name":"Aleksandar Todorović","url":"https://github.com/inputsh","avatarUrl":"https://avatars.githubusercontent.com/u/4890548?s=80&v=4","followers":742,"publicRepos":100,"location":"Sarajevo, Bosnia & Herzegovina","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjgyMzY3","login":"adnanh","name":"Adnan Hajdarević","url":"https://github.com/adnanh","avatarUrl":"https://avatars.githubusercontent.com/u/82367?s=80&v=4","followers":229,"publicRepos":42,"location":"Sarajevo, Bosnia & Herzegovina","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+],
+"contentHash": "c0cfe378e6f7ff47",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

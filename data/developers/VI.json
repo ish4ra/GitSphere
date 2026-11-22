@@ -3,12 +3,26 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"VI","name":"U.S. Virgin Islands","slug":"u-s-virgin-islands"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
-"users": [],
-"contentHash": "72ac9c6cedca06dd",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":13,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"users": [
+  {"rank":1,"id":"U_kgDOB5W3tw","login":"Rotgarg","name":"rotgang","url":"https://github.com/Rotgarg","avatarUrl":"https://avatars.githubusercontent.com/u/127252407?s=80&v=4","followers":15,"publicRepos":3,"location":"Little Saint James, U.S. Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjg4ODkxNzY0","login":"CousinRicky","name":"Richard Callwood III","url":"https://github.com/CousinRicky","avatarUrl":"https://avatars.githubusercontent.com/u/88891764?s=80&v=4","followers":4,"publicRepos":33,"location":"St. Thomas, U.S. Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjExOTQ2MzQx","login":"JahNorr","name":"John Orr","url":"https://github.com/JahNorr","avatarUrl":"https://avatars.githubusercontent.com/u/11946341?s=80&v=4","followers":4,"publicRepos":13,"location":"St. Croix, U.S. Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"U_kgDOBvNJZw","login":"axl-vg","name":"Axl","url":"https://github.com/axl-vg","avatarUrl":"https://avatars.githubusercontent.com/u/116607335?s=80&v=4","followers":2,"publicRepos":2,"location":"West Los Angeles County / U.S. Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":5,"id":"U_kgDOC1mDWA","login":"MrHappyNSad","name":"Mr. Happy&Sad","url":"https://github.com/MrHappyNSad","avatarUrl":"https://avatars.githubusercontent.com/u/190415704?s=80&v=4","followers":2,"publicRepos":1,"location":"U.S. Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":6,"id":"MDQ6VXNlcjY3MjY2MjE=","login":"Photoflicks","name":"Naheem Mason","url":"https://github.com/Photoflicks","avatarUrl":"https://avatars.githubusercontent.com/u/6726621?s=80&v=4","followers":2,"publicRepos":1,"location":"U.S. Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":7,"id":"MDQ6VXNlcjY5NDAxOTc3","login":"0catx","name":"The Cat","url":"https://github.com/0catx","avatarUrl":"https://avatars.githubusercontent.com/u/69401977?s=80&v=4","followers":1,"publicRepos":2,"location":"Northside","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
+  {"rank":8,"id":"U_kgDODFb32Q","login":"Kareema007799","name":"Kareema S. Smith","url":"https://github.com/Kareema007799","avatarUrl":"https://avatars.githubusercontent.com/u/207026137?s=80&v=4","followers":1,"publicRepos":2,"location":"Christiansted, VI","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-22"},
+  {"rank":9,"id":"U_kgDOD0XE0Q","login":"thesteinagen","name":"Jeffrey Epstein","url":"https://github.com/thesteinagen","avatarUrl":"https://avatars.githubusercontent.com/u/256230609?s=80&v=4","followers":1,"publicRepos":1,"location":"Little Saint James, U.S. Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":10,"id":"U_kgDOCYcnCQ","login":"david-hensley","name":"David A. Hensley","url":"https://github.com/david-hensley","avatarUrl":"https://avatars.githubusercontent.com/u/159852297?s=80&v=4","followers":0,"publicRepos":3,"location":"Frederiksted, VI","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-22"},
+  {"rank":11,"id":"U_kgDOE3nwyQ","login":"suzunaxyzz","name":null,"url":"https://github.com/suzunaxyzz","avatarUrl":"https://avatars.githubusercontent.com/u/326758601?s=80&v=4","followers":0,"publicRepos":2,"location":"U.S Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":12,"id":"U_kgDOC-JLNg","login":"BadBoyBettingClub","name":"Bad Boy Betting Club","url":"https://github.com/BadBoyBettingClub","avatarUrl":"https://avatars.githubusercontent.com/u/199379766?s=80&v=4","followers":0,"publicRepos":1,"location":"U.S. Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":13,"id":"U_kgDOBmMFew","login":"florenciachiappero","name":"Florencia Chiappero Gibney","url":"https://github.com/florenciachiappero","avatarUrl":"https://avatars.githubusercontent.com/u/107152763?s=80&v=4","followers":0,"publicRepos":1,"location":"U.S. Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+],
+"contentHash": "88630dbaa8d1add9",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

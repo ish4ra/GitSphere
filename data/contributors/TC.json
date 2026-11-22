@@ -5,10 +5,10 @@
 "country": {"code":"TC","name":"Turks & Caicos Islands","slug":"turks-caicos-islands"},
 "status": "building",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":23,"measuredAccounts":0,"measurementBacklog":23,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":22,"measuredAccounts":1,"measurementBacklog":21,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [],
-"contentHash": "4a54b3703fd95fe2",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "20001b80b3f8fadd",
+"updatedAt": "2026-11-22T11:14:57.063Z",
 "verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

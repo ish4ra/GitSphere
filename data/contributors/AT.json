@@ -3,12 +3,15 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"AT","name":"Austria","slug":"austria"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":0,"measurementBacklog":400,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "169d953c6a73781c",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":421,"measuredAccounts":2,"measurementBacklog":419,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":148,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjczOTY=","login":"mitsuhiko","name":"Armin Ronacher","url":"https://github.com/mitsuhiko","avatarUrl":"https://avatars.githubusercontent.com/u/7396?s=80&v=4","followers":26742,"publicRepos":351,"location":"Austria","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":9178,"commits":8838,"pullRequests":207,"reviews":32,"issues":68,"repositories":33,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjE1NzM3Mjg=","login":"manfredsteyer","name":"Manfred Steyer","url":"https://github.com/manfredsteyer","avatarUrl":"https://avatars.githubusercontent.com/u/1573728?s=80&v=4","followers":2689,"publicRepos":746,"location":"Graz, Austria","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":462,"commits":410,"pullRequests":11,"reviews":1,"issues":23,"repositories":17,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "88b36ea9d2352a39",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

@@ -24,7 +24,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Building. 
-- **Measured:** 0 of 138 discovered developers (138 awaiting measurement).
+- **Measured:** 2 of 138 discovered developers (136 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

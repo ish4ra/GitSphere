@@ -1,0 +1,19 @@
+{
+"schemaVersion": 3,
+"name": "repositories",
+"floor": 50,
+"cycle": 1,
+"cycleStartedAt": "2026-11-22T10:32:48.200Z",
+"queue": [
+  {"metric":[4138,4310],"created":null,"cursor":"Y3Vyc29yOjUwMA==","page":6,"retrieved":500,"attempts":0},
+  {"metric":[3964,4137],"created":null,"cursor":null,"page":1},
+  {"metric":[3270,3963],"created":null,"cursor":null,"page":1},
+  {"metric":[1881,3269],"created":null,"cursor":null,"page":1},
+  {"metric":[50,1880],"created":null,"cursor":null,"page":1}
+],
+"unresolved": [],
+"stats": {"pages":174,"splits":27,"leaves":23,"nodes":15880,"cyclePages":201,"cycleNodes":15880},
+"completedCycles": [],
+"createdAt": "2026-11-22T10:32:48.200Z",
+"updatedAt": "2026-11-22T10:45:33.761Z"
+}

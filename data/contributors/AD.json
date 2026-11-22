@@ -3,12 +3,14 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"AD","name":"Andorra","slug":"andorra"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":306,"measuredAccounts":0,"measurementBacklog":306,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "4d8b14bf7f36d7e2",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":381,"measuredAccounts":2,"measurementBacklog":379,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":23,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjEzNzE3ODkx","login":"psychedel","name":"Anatol Myshkin","url":"https://github.com/psychedel","avatarUrl":"https://avatars.githubusercontent.com/u/13717891?s=80&v=4","followers":14,"publicRepos":169,"location":"Andorra","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":101,"commits":81,"pullRequests":2,"reviews":0,"issues":0,"repositories":17,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "6a9015b202791283",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

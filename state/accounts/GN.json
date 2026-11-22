@@ -3,7 +3,7 @@
 "country": {"code":"GN","name":"Guinea","slug":"guinea"},
 "count": 289,
 "accounts": [
-  {"id":"U_kgDOBjQ2hw","login":"117davidsultan","type":"User","name":"David","location":"Conakry","attribution":{"code":"GN","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-01T13:37:17.837Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOBjQ2hw","login":"117davidsultan","type":"User","name":"David","location":"Conakry","attribution":{"code":"GN","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-22T11:11:01.010Z","sources":["contributions","legacy-owner-discovery"],"databaseId":104085127,"followers":1,"publicRepos":1,"createdAt":"2022-04-20T14:47:25Z","contributions":{"public":0,"commits":0,"issues":0,"pullRequests":0,"reviews":0,"repositories":0,"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z","measuredAt":"2026-11-22T11:11:01.010Z"}},
   {"id":"MDQ6VXNlcjU1NzA5MzA5","login":"715-del","type":"User","name":"ovechkin","location":"conakry","attribution":{"code":"GN","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-01T13:37:17.837Z","sources":["legacy-owner-discovery"]},
   {"id":"MDQ6VXNlcjU4NjQxNDY3","login":"a1bah","type":"User","name":"Abdoulaye Bah","location":"Conakry, Guinea","attribution":{"code":"GN","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T13:37:17.837Z","sources":["legacy-owner-discovery"]},
   {"id":"U_kgDOCyMSnA","login":"AbdallahDjikine","type":"User","name":"Abdallah Djikine","location":"Guinée/Conakry","attribution":{"code":"GN","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T13:37:17.837Z","sources":["legacy-owner-discovery"]},

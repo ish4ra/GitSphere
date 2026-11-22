@@ -3,12 +3,22 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"NU","name":"Niue","slug":"niue"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
-"users": [],
-"contentHash": "9066bec450c0735e",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":9,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjE3NDIwNDc5","login":"duckls","name":"zhouyou xiang","url":"https://github.com/duckls","avatarUrl":"https://avatars.githubusercontent.com/u/17420479?s=80&v=4","followers":5,"publicRepos":29,"location":"0487 ,Jewell Locks ,Ardistown ,Arkansas ,Niue","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"U_kgDOCPEvkQ","login":"ggai3","name":"Mark Caldwell","url":"https://github.com/ggai3","avatarUrl":"https://avatars.githubusercontent.com/u/150024081?s=80&v=4","followers":4,"publicRepos":15,"location":"South Nathantown, Niue","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjkwNjEwNzk=","login":"Kasp42","name":"Vladislav Kasperov","url":"https://github.com/Kasp42","avatarUrl":"https://avatars.githubusercontent.com/u/9061079?s=80&v=4","followers":3,"publicRepos":20,"location":"Niue","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"U_kgDOCtNu2Q","login":"numbultrascream","name":null,"url":"https://github.com/numbultrascream","avatarUrl":"https://avatars.githubusercontent.com/u/181628633?s=80&v=4","followers":0,"publicRepos":4,"location":"Niue (NU)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":5,"id":"U_kgDOCTIU2w","login":"Nuggetinator","name":"Nuggetinator","url":"https://github.com/Nuggetinator","avatarUrl":"https://avatars.githubusercontent.com/u/154277083?s=80&v=4","followers":0,"publicRepos":3,"location":"Alofi","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
+  {"rank":6,"id":"U_kgDOCtJ_2Q","login":"rothbloodfire","name":null,"url":"https://github.com/rothbloodfire","avatarUrl":"https://avatars.githubusercontent.com/u/181567449?s=80&v=4","followers":0,"publicRepos":3,"location":"Niue (NU)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":7,"id":"U_kgDOCutyVw","login":"zninjazibookscore","name":null,"url":"https://github.com/zninjazibookscore","avatarUrl":"https://avatars.githubusercontent.com/u/183202391?s=80&v=4","followers":0,"publicRepos":3,"location":"Niue (NU)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":8,"id":"U_kgDOBbsrCg","login":"Sherdkull","name":null,"url":"https://github.com/Sherdkull","avatarUrl":"https://avatars.githubusercontent.com/u/96152330?s=80&v=4","followers":0,"publicRepos":2,"location":"Niue","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":9,"id":"MDQ6VXNlcjEyNDQzMTg0","login":"404joe","name":null,"url":"https://github.com/404joe","avatarUrl":"https://avatars.githubusercontent.com/u/12443184?s=80&v=4","followers":0,"publicRepos":1,"location":"Niue","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+],
+"contentHash": "08c4e66e0734d71d",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

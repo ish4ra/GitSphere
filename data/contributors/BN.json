@@ -3,12 +3,15 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"BN","name":"Brunei","slug":"brunei"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":223,"measuredAccounts":0,"measurementBacklog":223,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "6c3ecc8fea6e0c1f",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":325,"measuredAccounts":2,"measurementBacklog":323,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":47,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjEyNDkzMDk4","login":"bumplzz69","name":"Eddie","url":"https://github.com/bumplzz69","avatarUrl":"https://avatars.githubusercontent.com/u/12493098?s=80&v=4","followers":5,"publicRepos":330,"location":"Brunei","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":301,"commits":0,"pullRequests":260,"reviews":1,"issues":0,"repositories":40,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjg5Mjk2MQ==","login":"thewheat","name":"Timothy Lim","url":"https://github.com/thewheat","avatarUrl":"https://avatars.githubusercontent.com/u/892961?s=80&v=4","followers":47,"publicRepos":146,"location":"Brunei","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":88,"commits":39,"pullRequests":44,"reviews":3,"issues":0,"repositories":2,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "3b4bcb4f19be1a4a",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

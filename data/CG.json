@@ -5,7 +5,7 @@
 "country": {"code":"CG","name":"Republic of the Congo","slug":"republic-of-the-congo"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":34,"ownerExpansionBacklog":34,"candidates":34,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":34,"ownerExpansionBacklog":43,"candidates":34,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"learning-odoo-17","nameWithOwner":"nathanbangwa243/learning-odoo-17","url":"https://github.com/nathanbangwa243/learning-odoo-17","description":null,"stars":18,"forks":16,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2024-04-05T09:50:26Z","pushedAt":"2024-07-30T21:08:30Z","archived":false,"owner":{"login":"nathanbangwa243","name":"NATHAN I.L. BANGWA","type":"User","url":"https://github.com/nathanbangwa243","location":"Lubumbashi, Congo DR","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"agentic-memory-from-scratch","nameWithOwner":"glody007/agentic-memory-from-scratch","url":"https://github.com/glody007/agentic-memory-from-scratch","description":null,"stars":5,"forks":2,"primaryLanguage":"TypeScript","license":null,"createdAt":"2025-08-06T18:58:55Z","pushedAt":"2026-05-03T07:39:17Z","archived":false,"owner":{"login":"glody007","name":"glody lubaba mbutwile","type":"User","url":"https://github.com/glody007","location":"Lubumbashi City in the Democratic Republic of the Congo","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -42,8 +42,8 @@
   {"rank":33,"id":null,"name":"brasserie","nameWithOwner":"yannickchoni/brasserie","url":"https://github.com/yannickchoni/brasserie","description":null,"stars":0,"forks":0,"primaryLanguage":"Kotlin","license":null,"createdAt":"2021-10-06T08:07:23Z","pushedAt":"2021-10-12T12:04:17Z","archived":false,"owner":{"login":"yannickchoni","name":"Yannick Choni","type":"User","url":"https://github.com/yannickchoni","location":"Lubumbashi, Congo DR","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":34,"id":null,"name":"AI-Learning-Journey","nameWithOwner":"yeabsirabirhanu/AI-Learning-Journey","url":"https://github.com/yeabsirabirhanu/AI-Learning-Journey","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-07-17T03:48:34Z","pushedAt":"2026-07-17T10:23:14Z","archived":false,"owner":{"login":"yeabsirabirhanu","name":"Yeabsira Birhanu","type":"User","url":"https://github.com/yeabsirabirhanu","location":"Brazzaville, Republic of the Congo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "ec7d22938f9f5497",
-"updatedAt": "2026-11-22T08:41:14.246Z",
+"contentHash": "4a31d7ec29b8e4e1",
+"updatedAt": "2026-11-22T11:14:57.063Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

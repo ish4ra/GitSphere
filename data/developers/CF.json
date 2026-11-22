@@ -3,12 +3,15 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"CF","name":"Central African Republic","slug":"central-african-republic"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
-"users": [],
-"contentHash": "905043307b77d3cc",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjEzNDgzMzAx","login":"doston15","name":"Philippe Junior SIBIRO","url":"https://github.com/doston15","avatarUrl":"https://avatars.githubusercontent.com/u/13483301?s=80&v=4","followers":0,"publicRepos":10,"location":"Bangui-Central African Republic","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjY5NzM2MzA1","login":"b-kranthireddy23","name":"Kranthi Reddy","url":"https://github.com/b-kranthireddy23","avatarUrl":"https://avatars.githubusercontent.com/u/69736305?s=80&v=4","followers":0,"publicRepos":1,"location":"Bangui, Central African Republic","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+],
+"contentHash": "a7e0dbe9b2581613",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

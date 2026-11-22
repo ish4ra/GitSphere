@@ -3,12 +3,14 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"KP","name":"North Korea","slug":"north-korea"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
-"users": [],
-"contentHash": "ba4904413f4ac988",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"coverage": {"basis":"partial","cutoffFollowers":95,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjI0Nzg3NjAw","login":"EwingYangs","name":"Ewing","url":"https://github.com/EwingYangs","avatarUrl":"https://avatars.githubusercontent.com/u/24787600?s=80&v=4","followers":95,"publicRepos":49,"location":"Guang Dong","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"}
+],
+"contentHash": "2f0a2f9d9de3cce0",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

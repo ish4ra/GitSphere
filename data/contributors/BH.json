@@ -3,12 +3,15 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"BH","name":"Bahrain","slug":"bahrain"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":0,"measurementBacklog":400,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "3b61f0a6998f57d9",
-"updatedAt": "2026-11-22T08:29:21.106Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":2,"measurementBacklog":398,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":18,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjE3NTc0Mjg=","login":"walidshaari","name":"Walid Shaari CNJ","url":"https://github.com/walidshaari","avatarUrl":"https://avatars.githubusercontent.com/u/1757428?s=80&v=4","followers":723,"publicRepos":170,"location":"Bahrain","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":9,"commits":1,"pullRequests":0,"reviews":0,"issues":3,"repositories":5,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjcyMTY4MDA4","login":"0acf","name":"0xMarco","url":"https://github.com/0acf","avatarUrl":"https://avatars.githubusercontent.com/u/72168008?s=80&v=4","followers":0,"publicRepos":1,"location":"Bahrain","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":1,"commits":1,"pullRequests":0,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "b534d73329757817",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }

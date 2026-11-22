@@ -3,12 +3,15 @@
 "mode": "developers",
 "methodologyVersion": "1.0.0",
 "country": {"code":"BH","name":"Bahrain","slug":"bahrain"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
-"users": [],
-"contentHash": "46172d8302b2f263",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":18,"unresolved":0},"exhaustive":false},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjE3NTc0Mjg=","login":"walidshaari","name":"Walid Shaari CNJ","url":"https://github.com/walidshaari","avatarUrl":"https://avatars.githubusercontent.com/u/1757428?s=80&v=4","followers":723,"publicRepos":170,"location":"Bahrain","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjcyMTY4MDA4","login":"0acf","name":"0xMarco","url":"https://github.com/0acf","avatarUrl":"https://avatars.githubusercontent.com/u/72168008?s=80&v=4","followers":0,"publicRepos":1,"location":"Bahrain","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+],
+"contentHash": "159e21220f801f37",
+"updatedAt": "2026-11-22T11:14:57.063Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T11:14:57.063Z"
 }
