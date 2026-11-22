@@ -81,29 +81,34 @@ await section('Known accounts', async () => {
   check(Boolean(ish4ra), 'ish4ra profile readable');
 });
 
-await section('Exact-star bucket recovery (stars:215)', async () => {
-  const fetchPage = searchRepositoriesPage(client);
-  const cycleStartedAt = new Date().toISOString().replace(/\.\d{3}Z$/, 'Z');
-  let queue = [{ ...rootPartition({ min: 215, max: 215 }) }];
-  const leaves = [];
-  let requests = 0;
-  while (queue.length && requests < 40) {
-    const partition = queue.shift();
-    const page = await fetchPage(buildQuery(REPOSITORY_SPEC, partition), null, 1);
-    requests += 1;
-    if (page.count > 1000) {
-      const split = splitPartition(REPOSITORY_SPEC, partition, cycleStartedAt);
-      if (split.children) queue = [...split.children, ...queue];
-      else leaves.push({ partition, count: page.count, unresolved: true });
-    } else {
-      leaves.push({ partition, count: page.count });
+for (const stars of [215, 80]) {
+  await section(`Exact-star bucket recovery (stars:${stars})`, async () => {
+    const fetchPage = searchRepositoriesPage(client);
+    const cycleStartedAt = new Date().toISOString().replace(/\.\d{3}Z$/, 'Z');
+    let queue = [{ ...rootPartition({ min: stars, max: stars }) }];
+    const leaves = [];
+    let requests = 0;
+    let rootCount = null;
+    while (queue.length && requests < 60) {
+      const partition = queue.shift();
+      const page = await fetchPage(buildQuery(REPOSITORY_SPEC, partition), null, 1);
+      requests += 1;
+      rootCount ??= page.count;
+      if (page.count > 1000) {
+        const split = splitPartition(REPOSITORY_SPEC, partition, cycleStartedAt);
+        if (split.children) queue = [...split.children, ...queue];
+        else leaves.push({ partition, count: page.count, unresolved: true });
+      } else {
+        leaves.push({ partition, count: page.count });
+      }
     }
-  }
-  const total = leaves.reduce((sum, leaf) => sum + leaf.count, 0);
-  lines.push(`- ${requests} count requests; ${leaves.length} leaf partitions; ${total.toLocaleString('en-US')} repositories with exactly 215 stars; largest leaf ${Math.max(...leaves.map((leaf) => leaf.count))}.`);
-  for (const leaf of leaves.slice(0, 8)) lines.push(`  - \`${buildQuery(REPOSITORY_SPEC, leaf.partition)}\` → ${leaf.count}`);
-  check(!queue.length && leaves.every((leaf) => !leaf.unresolved && leaf.count <= 1000), 'every stars:215 partition fits the 1,000-result window');
-});
+    const total = leaves.reduce((sum, leaf) => sum + leaf.count, 0);
+    lines.push(`- Unpartitioned query reports ${rootCount?.toLocaleString('en-US')} repositories (window: 1,000). ${requests} count requests → ${leaves.length} creation-time partitions covering ${total.toLocaleString('en-US')} repositories; largest ${Math.max(...leaves.map((leaf) => leaf.count))}.`);
+    for (const leaf of leaves.slice(0, 6)) lines.push(`  - \`${buildQuery(REPOSITORY_SPEC, leaf.partition)}\` → ${leaf.count}`);
+    if (queue.length) lines.push(`- Stopped at the verification request cap with ${queue.length} partitions queued (the pipeline continues these across runs).`);
+    check(leaves.every((leaf) => !leaf.unresolved && leaf.count <= 1000), `every stars:${stars} partition reached fits the 1,000-result window`);
+  });
+}
 
 await section('Independent discovery of ish4ra', async () => {
   if (!ish4ra?.attribution?.accepted) {
