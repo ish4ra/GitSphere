@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56" role="img" aria-labelledby="t">
+  <title id="t">Top Developers</title>
+  <defs><linearGradient id="i-developers" x1="0" y1="0" x2="56" y2="56" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#6395FF"/><stop offset="1" stop-color="#38CFFF"/></linearGradient></defs>
+  <rect width="56" height="56" rx="15" fill="url(#i-developers)"/><circle cx="28" cy="21" r="6.5" fill="none" stroke="#FFFFFF" stroke-width="2.6"/><path d="M16.5 40c1.6-6.6 6.2-10 11.5-10s9.9 3.4 11.5 10" fill="none" stroke="#FFFFFF" stroke-width="2.6" stroke-linecap="round"/><circle cx="40.5" cy="15" r="3" fill="#FFFFFF"/>
+</svg>

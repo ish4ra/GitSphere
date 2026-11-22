@@ -43,6 +43,8 @@ const POPULATION_CASES = [
   ['Bengaluru, India', 'IN'],
   ['München', 'DE'],
   ['Toronto, CA', 'CA'],
+  ['San Francisco, CA', 'US'],
+  ['Kalutara South, Srilanka', 'LK'],
   ['Helsinki', 'FI'],
   ['Shenzhen', 'CN'],
 ];
@@ -56,7 +58,7 @@ test('real gazetteer: explicit and compound locations', { skip: !ready }, async 
 
 test('real gazetteer: ambiguous and non-geographic locations are not forced', { skip: !ready }, async () => {
   const resolver = await loadSharedResolver();
-  for (const location of ['Georgia', 'Portland', 'Colombo', 'Earth', 'Remote', '', 'Worldwide', 'Europe', 'Cambridge']) {
+  for (const location of ['Georgia', 'Portland', 'Colombo', 'Earth', 'Remote', '', 'Worldwide', 'Europe', 'Cambridge', 'CA', 'DE', 'IN', 'Hyderabad', 'Punjab']) {
     const result = resolver.resolve(location);
     assert.equal(result.accepted, false, `${location} -> ${result.countryCode}`);
   }

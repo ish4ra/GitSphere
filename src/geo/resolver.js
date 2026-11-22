@@ -466,8 +466,7 @@ export function createGlobalLocationResolver({ countries = COUNTRIES, gazetteers
     if (
       matchedSegments.length === 1 &&
       matchedSegments[0].codeCountries.size &&
-      matchedSegments[0].adminCodes.length &&
-      !matchedSegments[0].places.length
+      matchedSegments[0].adminCodes.length
     ) {
       return ambiguous('ambiguous-code', wholeNorm, unionKeys(perSegment));
     }
