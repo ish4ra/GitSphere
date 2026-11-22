@@ -12,6 +12,8 @@ export const GAZETTEER_SCHEMA_VERSION = 2;
 
 const ADMIN_SUFFIXES = /\b(province|state|region|district|governorate|prefecture|county|department|oblast|krai|republic|municipality|division|territory|canton|voivodeship|emirate|parish|autonomous|special|administrative|capital|metropolitan|city|of|the)\b/g;
 const MAX_TERM_LENGTH = 80;
+export const SUPPLEMENT_PLACE_LIMIT = 6000;
+export const SUPPLEMENT_THRESHOLD = 500;
 
 export function adminMatchKey(value) {
   return normalizeLocation(value).replace(ADMIN_SUFFIXES, ' ').replace(/\s+/g, ' ').trim();
@@ -33,7 +35,7 @@ export function cleanTerm(value) {
  * @param {string|null} input.admin1      GeoNames admin1CodesASCII TSV text
  * @returns {Map<string, object>} code -> gazetteer
  */
-export function buildGazetteers({ csc, catalog, cities500 = null, admin1 = null }) {
+export function buildGazetteers({ csc, catalog, cities500 = null, admin1 = null, supplements = new Map() }) {
   const byCode = new Map();
   for (const country of catalog) {
     byCode.set(country.code, {
@@ -43,7 +45,7 @@ export function buildGazetteers({ csc, catalog, cities500 = null, admin1 = null 
       population: 0,
       admins: new Map(), // key -> { code, type, names:Set }
       places: new Map(), // normalizedName|adminKey -> place
-      counts: { cscStates: 0, cscCities: 0, geonamesPlaces: 0, geonamesAlternateNames: 0 },
+      counts: { cscStates: 0, cscCities: 0, geonamesPlaces: 0, geonamesAlternateNames: 0, geonamesSupplementPlaces: 0 },
     });
   }
 
@@ -136,6 +138,35 @@ export function buildGazetteers({ csc, catalog, cities500 = null, admin1 = null 
       kept += 1;
     }
     target.counts.geonamesAlternateNames += kept;
+  }
+
+  // Per-country GeoNames dumps for countries that cities500 covers sparsely:
+  // populated places only, most significant first, capped per country.
+  for (const [code, text] of supplements) {
+    const target = byCode.get(code);
+    if (!target || !text) continue;
+    const rows = [];
+    for (const line of String(text).split('\n')) {
+      const columns = line.split('\t');
+      if (columns.length < 15 || columns[6] !== 'P' || columns[8] !== code) continue;
+      if (/^PPL(?:H|Q|W|CH|CD)$/.test(columns[7])) continue; // historical/abandoned/destroyed
+      rows.push(columns);
+    }
+    const rank = (columns) => (/^PPL(?:C|A\d?|G)$/.test(columns[7]) ? 1 : 0);
+    rows.sort((a, b) => rank(b) - rank(a) || (Number(b[14]) || 0) - (Number(a[14]) || 0) || a[1].localeCompare(b[1]));
+    for (const columns of rows.slice(0, SUPPLEMENT_PLACE_LIMIT)) {
+      const name = cleanTerm(columns[1]);
+      if (!name) continue;
+      const adminKey = geonamesAdmin.get(`${code}.${columns[10]}`) || null;
+      const key = `${normalizeLocation(name)}|${adminKey ?? ''}`;
+      const existed = target.places.has(key);
+      const place = upsertPlace(target, name, adminKey);
+      place.population = Math.max(place.population, Number.parseInt(columns[14], 10) || 0);
+      place.featureCode = place.featureCode || columns[7];
+      const ascii = cleanTerm(columns[2]);
+      if (ascii) place.names.add(ascii);
+      if (!existed) target.counts.geonamesSupplementPlaces += 1;
+    }
   }
 
   const result = new Map();

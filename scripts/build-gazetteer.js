@@ -15,7 +15,7 @@ import { gunzipSync } from 'node:zlib';
 import { projectRoot } from '../src/config.js';
 import { COUNTRIES } from '../src/countries.js';
 import { GEOGRAPHY_SOURCE } from '../src/geography-source.js';
-import { buildGazetteers, serializeGazetteer } from '../src/geo/gazetteer-build.js';
+import { buildGazetteers, serializeGazetteer, SUPPLEMENT_THRESHOLD } from '../src/geo/gazetteer-build.js';
 import { readZipEntries } from '../src/geo/zip.js';
 import { USER_AGENT } from '../src/core/identity.js';
 
@@ -60,7 +60,31 @@ try {
   console.warn(`GeoNames unavailable (${error.message}); building CSC-only gazetteer for development.`);
 }
 
-const gazetteers = buildGazetteers({ csc, catalog: COUNTRIES, cities500, admin1 });
+// Countries that cities500 covers sparsely get their full GeoNames country
+// dump (populated places only) as a supplement.
+const supplements = new Map();
+if (cities500) {
+  const perCountry = new Map();
+  for (const line of cities500.split('\n')) {
+    const code = line.split('\t')[8];
+    if (code) perCountry.set(code, (perCountry.get(code) || 0) + 1);
+  }
+  const sparse = COUNTRIES.map((country) => country.code).filter((code) => (perCountry.get(code) || 0) < SUPPLEMENT_THRESHOLD);
+  const failures = [];
+  for (const code of sparse) {
+    try {
+      const dump = await fetchCached(`https://download.geonames.org/export/dump/${code}.zip`, `geonames-${code}.zip`);
+      const entry = readZipEntries(dump.body).find((item) => item.name === `${code}.txt`);
+      if (entry) supplements.set(code, entry.read().toString('utf8'));
+    } catch (error) {
+      failures.push(code);
+    }
+  }
+  geonamesMeta.countrySupplements = { threshold: SUPPLEMENT_THRESHOLD, countries: [...supplements.keys()].sort(), unavailable: failures.sort() };
+  console.log(`GeoNames country supplements: ${supplements.size} loaded, ${failures.length} unavailable.`);
+}
+
+const gazetteers = buildGazetteers({ csc, catalog: COUNTRIES, cities500, admin1, supplements });
 if (gazetteers.size !== COUNTRIES.length) {
   throw new Error(`Expected ${COUNTRIES.length} gazetteers, built ${gazetteers.size}.`);
 }
