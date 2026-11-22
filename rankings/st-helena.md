@@ -1,67 +1,143 @@
-<p align="center" aria-label="St. Helena flag" style="font-size:72px">🇸🇭</p>
+<div align="center">
 
-<h1 align="center">St. Helena</h1>
+<a href="../README.md"><img src="../assets/brand/gitsphere-mark.svg" width="44" height="44" alt="GitSphere"></a>
 
-<p align="center">
-  <a href="./README.md"><strong>Browse countries</strong></a> ·
-  <a href="../docs/METHODOLOGY.md">Methodology</a> ·
-  <a href="../README.md">Project home</a>
-</p>
+# 🇸🇭 St. Helena
 
-## Repository ranking status: Building 100%
+<b>Top Repositories</b> — Discover the most-starred GitHub repositories.
 
-- Geography terms processed: **18 / 18**
-- Progress: **100%**
-- Retained high-potential owner candidates: **23**
-- Search requests completed: **18**
-- Unresolved shards: **0**
+<sub><b>Top Repositories</b> &nbsp;·&nbsp; <a href="./developers/st-helena.md">Top Developers</a> &nbsp;·&nbsp; <a href="./contributors/st-helena.md">Top Contributors</a></sub>
 
-The crawler saves its exact shard queue and pagination cursor, so progress continues across GitHub Actions runs instead of restarting.
+</div>
 
-## Early preview
+<div align="center">
 
-> These are the strongest repository candidates discovered **so far**. This is not the final country ranking and can change as city, town, district, alias, and search-shard coverage expands.
+| Status | Repositories | Oldest verification | Data |
+| :---: | :---: | :---: | :---: |
+| 🟠 Stale | **14** | 27 Oct 2026 | <a href="../data/SH.json">JSON</a> |
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [sayonetech/django-blockchain](https://github.com/sayonetech/django-blockchain) | **63** | St. Helena, California |
-| [Gabegi/entity-framework-core-repository-pattern-rest-api](https://github.com/Gabegi/entity-framework-core-repository-pattern-rest-api) | **34** | Cat Hill St Helena, Ascension and Tristan |
-| [ciauri/HomzAPIv2](https://github.com/ciauri/HomzAPIv2) | **2** | St. Helena, CA |
-| [openprojectlabs/Feasitly-Open-Project-Recipe-App](https://github.com/openprojectlabs/Feasitly-Open-Project-Recipe-App) | **2** | St. Helena |
-| [tyler-grimes/somnus](https://github.com/tyler-grimes/somnus) | **2** | St. Helena, CA |
-| [2x74/strafetrainer](https://github.com/2x74/strafetrainer) | **1** | St. Helena |
-| [Deeannpva7/discord_bot](https://github.com/Deeannpva7/discord_bot) | **1** | Sint-Helena (SH) |
-| [erferguson/crypto-tracker](https://github.com/erferguson/crypto-tracker) | **1** | St Helena, CA |
-| [jujudigital/dsutils](https://github.com/jujudigital/dsutils) | **1** | St Helena Island |
-| [flamesongjasper/flamesongjasper](https://github.com/flamesongjasper/flamesongjasper) | **0** | St. Helena (SH) |
-| [helldragonsoftly/helldragonsoftly](https://github.com/helldragonsoftly/helldragonsoftly) | **0** | Sint-Helena (SH) |
-| [hendrik-j-roux-nl/visualstudiocode](https://github.com/hendrik-j-roux-nl/visualstudiocode) | **0** | St Helena |
-| [joruhan/Joruhan](https://github.com/joruhan/Joruhan) | **0** | St Helena Bay |
-| [kennyoverrun/kennyoverrun](https://github.com/kennyoverrun/kennyoverrun) | **0** | Sint-Helena (SH) |
-| [megacrafthoney/megacrafthoney](https://github.com/megacrafthoney/megacrafthoney) | **0** | Sint-Helena (SH) |
+> **Not yet re-verified.** 14 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
-## Repository-first scan
+</div>
 
-- Verified high-star candidates retained: **12**
-- Current global star frontier: **215**
+<table>
+<thead><tr><th align="right">#</th><th align="left">Repository</th><th align="right">Stars</th><th align="right">Forks</th><th align="left">Language</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><img src="https://github.com/Gabegi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Gabegi/entity-framework-core-repository-pattern-rest-api"><b>Gabegi/entity-framework-core-repository-pattern-rest-api</b></a></td>
+<td align="right"><b>34</b></td>
+<td align="right">14</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/openprojectlabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/openprojectlabs/Feasitly-Open-Project-Recipe-App"><b>openprojectlabs/Feasitly-Open-Project-Recipe-App</b></a></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/2x74.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/2x74/strafetrainer"><b>2x74/strafetrainer</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">2</td>
+<td>SourcePawn</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><img src="https://github.com/Deeannpva7.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Deeannpva7/discord_bot"><b>Deeannpva7/discord&#95;bot</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/flamesongjasper.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/flamesongjasper/flamesongjasper"><b>flamesongjasper/flamesongjasper</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/helldragonsoftly.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/helldragonsoftly/helldragonsoftly"><b>helldragonsoftly/helldragonsoftly</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/hendrik-j-roux-nl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hendrik-j-roux-nl/visualstudiocode"><b>hendrik-j-roux-nl/visualstudiocode</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><img src="https://github.com/joruhan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/joruhan/Joruhan"><b>joruhan/Joruhan</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/kennyoverrun.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kennyoverrun/kennyoverrun"><b>kennyoverrun/kennyoverrun</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/megacrafthoney.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/megacrafthoney/megacrafthoney"><b>megacrafthoney/megacrafthoney</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/NapoleonOfTheNow.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NapoleonOfTheNow/cv"><b>NapoleonOfTheNow/cv</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/selenegough.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/selenegough/selenegough.github.io"><b>selenegough/selenegough.github.io</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/shyguynicknameter.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shyguynicknameter/shyguynicknameter"><b>shyguynicknameter/shyguynicknameter</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/termitvirgintanks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/termitvirgintanks/termitvirgintanks"><b>termitvirgintanks/termitvirgintanks</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
 
-### High-star verified preview
+<details>
+<summary><b>Coverage and methodology</b></summary>
 
-> These repositories were found by the independent global stars-desc scan and their owner locations resolved to this country. The list becomes final only when the global scan frontier drops below the country’s 100th-place star cutoff.
+- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 0 stars; 14 attributed candidates are tracked.
+- 14 entries were carried over from the previous dataset and are pending revalidation.
+- 14 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 0 in round 1.
+- Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [iChochy/NCE](https://github.com/iChochy/NCE) | **3,901** | SH |
-| [xiekw2010/react-native-gitfeed](https://github.com/xiekw2010/react-native-gitfeed) | **1,701** | SH |
-| [Xchat1/cursor2api-go](https://github.com/Xchat1/cursor2api-go) | **1,056** | SH |
-| [jjcheer/ocrcn_tf2](https://github.com/jjcheer/ocrcn_tf2) | **736** | SH |
-| [xiekw2010/DXPopover](https://github.com/xiekw2010/DXPopover) | **706** | SH |
-| [willianfu/wflow](https://github.com/willianfu/wflow) | **560** | sh |
-| [stbui/angular-material-app](https://github.com/stbui/angular-material-app) | **513** | sh |
-| [halsay/ASR-TTS-paper-daily](https://github.com/halsay/ASR-TTS-paper-daily) | **513** | SH |
-| [greatyao/v2ex-android](https://github.com/greatyao/v2ex-android) | **499** | SH |
-| [LuoDi-Nate/financial-management](https://github.com/LuoDi-Nate/financial-management) | **363** | sh |
-| [wangzaiplus/springboot](https://github.com/wangzaiplus/springboot) | **349** | sh |
-| [mineralres/goshare](https://github.com/mineralres/goshare) | **214** | sh |
+</details>
 
-When the verified crawl reaches publication readiness, this page is automatically replaced by the most-starred repository ranking.
+---
+
+<p align="center"><sub><a href="./README.md">← All countries</a> &nbsp;·&nbsp; <a href="../README.md">GitSphere home</a> &nbsp;·&nbsp; <a href="../docs/METHODOLOGY.md">Methodology</a> &nbsp;·&nbsp; <a href="https://github.com/ish4ra/GitSphere">Source</a></sub></p>
+

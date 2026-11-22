@@ -1,75 +1,745 @@
-<p align="center" aria-label="Tunisia flag" style="font-size:72px">🇹🇳</p>
+<div align="center">
 
-<h1 align="center">Tunisia</h1>
+<a href="../README.md"><img src="../assets/brand/gitsphere-mark.svg" width="44" height="44" alt="GitSphere"></a>
 
-<p align="center">
-  <a href="./README.md"><strong>Browse countries</strong></a> ·
-  <a href="../docs/METHODOLOGY.md">Methodology</a> ·
-  <a href="../README.md">Project home</a>
-</p>
+# 🇹🇳 Tunisia
 
-## Repository ranking status: Building 0%
+<b>Top Repositories</b> — Discover the most-starred GitHub repositories.
 
-- Geography terms processed: **0 / 342**
-- Progress: **0%**
-- Retained high-potential owner candidates: **1,252**
-- Search requests completed: **40**
-- Unresolved shards: **0**
+<sub><b>Top Repositories</b> &nbsp;·&nbsp; <a href="./developers/tunisia.md">Top Developers</a> &nbsp;·&nbsp; <a href="./contributors/tunisia.md">Top Contributors</a></sub>
 
-The crawler saves its exact shard queue and pagination cursor, so progress continues across GitHub Actions runs instead of restarting.
+</div>
 
-## Early preview
+<div align="center">
 
-> These are the strongest repository candidates discovered **so far**. This is not the final country ranking and can change as city, town, district, alias, and search-shard coverage expands.
+| Status | Repositories | Oldest verification | Data |
+| :---: | :---: | :---: | :---: |
+| 🟠 Stale | **100** | 17 Oct 2026 | <a href="../data/TN.json">JSON</a> |
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) | **2,149** | Tunisia |
-| [Cyb0r9/SocialBox](https://github.com/Cyb0r9/SocialBox) | **2,059** | Tunisia |
-| [MohamedRejeb/compose-rich-editor](https://github.com/MohamedRejeb/compose-rich-editor) | **1,859** | Tunisia |
-| [Ademking/MD-This-Page](https://github.com/Ademking/MD-This-Page) | **1,600** | Tunisia |
-| [hamedbaatour/minimus](https://github.com/hamedbaatour/minimus) | **628** | Tunis, Tunisia |
-| [Loukious/StreamLabsTikTokStreamKeyGenerator](https://github.com/Loukious/StreamLabsTikTokStreamKeyGenerator) | **418** | Tunisia |
-| [X-SLAYER/Website-Cloner](https://github.com/X-SLAYER/Website-Cloner) | **365** | Tunisia |
-| [SelimHorri/ecommerce-microservice-backend-app](https://github.com/SelimHorri/ecommerce-microservice-backend-app) | **315** | Tunisia |
-| [Afif13/CSS-Pattern](https://github.com/Afif13/CSS-Pattern) | **240** | Tunisia |
-| [mn-youssef/state-municipality-tunisia](https://github.com/mn-youssef/state-municipality-tunisia) | **159** | tunisia |
-| [abdennour/certified-kubernetes-security-specialist](https://github.com/abdennour/certified-kubernetes-security-specialist) | **149** | Tunisia |
-| [azizamari/Ncodi](https://github.com/azizamari/Ncodi) | **117** | Tunisia |
-| [azjezz/assess](https://github.com/azjezz/assess) | **108** | Tunisia |
-| [machour/yii2-notifications](https://github.com/machour/yii2-notifications) | **91** | Tunisia |
-| [OmaarElAmri/Blasa.v2](https://github.com/OmaarElAmri/Blasa.v2) | **55** | Tunisia |
+> **Not yet re-verified.** 100 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
-## Repository-first scan
+</div>
 
-- Verified high-star candidates retained: **48**
-- Current global star frontier: **215**
+<table>
+<thead><tr><th align="right">#</th><th align="left">Repository</th><th align="right">Stars</th><th align="right">Forks</th><th align="left">Language</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><img src="https://github.com/rayenghanmi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rayenghanmi/RyTuneX"><b>rayenghanmi/RyTuneX</b></a></td>
+<td align="right"><b>5,533</b></td>
+<td align="right">186</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/Adembc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Adembc/lazyssh"><b>Adembc/lazyssh</b></a></td>
+<td align="right"><b>3,966</b></td>
+<td align="right">154</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/carthage-software.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/carthage-software/mago"><b>carthage-software/mago</b></a></td>
+<td align="right"><b>3,483</b></td>
+<td align="right">191</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><img src="https://github.com/anouarbensaad.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anouarbensaad/vulnx"><b>anouarbensaad/vulnx</b></a></td>
+<td align="right"><b>2,149</b></td>
+<td align="right">364</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/Fakerr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Fakerr/git-recall"><b>Fakerr/git-recall</b></a></td>
+<td align="right"><b>2,110</b></td>
+<td align="right">45</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/Cyb0r9.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Cyb0r9/SocialBox"><b>Cyb0r9/SocialBox</b></a></td>
+<td align="right"><b>2,060</b></td>
+<td align="right">543</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/MohamedRejeb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MohamedRejeb/compose-rich-editor"><b>MohamedRejeb/compose-rich-editor</b></a></td>
+<td align="right"><b>1,858</b></td>
+<td align="right">162</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><img src="https://github.com/MohamedRejeb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MohamedRejeb/Calf"><b>MohamedRejeb/Calf</b></a></td>
+<td align="right"><b>1,727</b></td>
+<td align="right">94</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/Ademking.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ademking/MD-This-Page"><b>Ademking/MD-This-Page</b></a></td>
+<td align="right"><b>1,598</b></td>
+<td align="right">173</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/OussamaMater.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/OussamaMater/Laravel-Tips"><b>OussamaMater/Laravel-Tips</b></a></td>
+<td align="right"><b>1,317</b></td>
+<td align="right">99</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/Zephkek.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive"><b>Zephkek/Asus-ROG-Aml-Deep-Dive</b></a></td>
+<td align="right"><b>1,001</b></td>
+<td align="right">21</td>
+<td>ASL</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/MohamedRejeb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MohamedRejeb/Pokedex"><b>MohamedRejeb/Pokedex</b></a></td>
+<td align="right"><b>853</b></td>
+<td align="right">74</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/sigmaSd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sigmaSd/IRust"><b>sigmaSd/IRust</b></a></td>
+<td align="right"><b>718</b></td>
+<td align="right">38</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/omarabid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/omarabid/rust-companies"><b>omarabid/rust-companies</b></a></td>
+<td align="right"><b>716</b></td>
+<td align="right">80</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><img src="https://github.com/ahmedmani.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ahmedmani/pairipfix"><b>ahmedmani/pairipfix</b></a></td>
+<td align="right"><b>687</b></td>
+<td align="right">44</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><img src="https://github.com/hamedbaatour.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hamedbaatour/minimus"><b>hamedbaatour/minimus</b></a></td>
+<td align="right"><b>628</b></td>
+<td align="right">327</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><img src="https://github.com/x3omdax.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/x3omdax/PenBox"><b>x3omdax/PenBox</b></a></td>
+<td align="right"><b>538</b></td>
+<td align="right">200</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><img src="https://github.com/Ademking.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ademking/BetterViewer"><b>Ademking/BetterViewer</b></a></td>
+<td align="right"><b>535</b></td>
+<td align="right">29</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><img src="https://github.com/MohamedRejeb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MohamedRejeb/compose-dnd"><b>MohamedRejeb/compose-dnd</b></a></td>
+<td align="right"><b>510</b></td>
+<td align="right">23</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><img src="https://github.com/MohamedRejeb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MohamedRejeb/Ksoup"><b>MohamedRejeb/Ksoup</b></a></td>
+<td align="right"><b>479</b></td>
+<td align="right">12</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><img src="https://github.com/salvia-kit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/salvia-kit/salvia-kit"><b>salvia-kit/salvia-kit</b></a></td>
+<td align="right"><b>477</b></td>
+<td align="right">44</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><img src="https://github.com/medyas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/medyas/flutter_zoom_drawer"><b>medyas/flutter&#95;zoom&#95;drawer</b></a></td>
+<td align="right"><b>473</b></td>
+<td align="right">106</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td><img src="https://github.com/miled.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/miled/cssviewer"><b>miled/cssviewer</b></a></td>
+<td align="right"><b>466</b></td>
+<td align="right">153</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td><img src="https://github.com/Loukious.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Loukious/StreamLabsTikTokStreamKeyGenerator"><b>Loukious/StreamLabsTikTokStreamKeyGenerator</b></a></td>
+<td align="right"><b>425</b></td>
+<td align="right">85</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td><img src="https://github.com/TFAGaming.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TFAGaming/DiscordJS-V14-Bot-Template"><b>TFAGaming/DiscordJS-V14-Bot-Template</b></a> <sub>archived</sub></td>
+<td align="right"><b>408</b></td>
+<td align="right">199</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td><img src="https://github.com/miled.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/miled/wordpress-social-login"><b>miled/wordpress-social-login</b></a></td>
+<td align="right"><b>399</b></td>
+<td align="right">223</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td><img src="https://github.com/GuiltyNeuron.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/GuiltyNeuron/ANPR"><b>GuiltyNeuron/ANPR</b></a></td>
+<td align="right"><b>397</b></td>
+<td align="right">145</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td><img src="https://github.com/omarabid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/omarabid/Self-Hosted-WordPress-Plugin-repository"><b>omarabid/Self-Hosted-WordPress-Plugin-repository</b></a></td>
+<td align="right"><b>395</b></td>
+<td align="right">125</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td><img src="https://github.com/HassenPy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HassenPy/django-pdb"><b>HassenPy/django-pdb</b></a></td>
+<td align="right"><b>389</b></td>
+<td align="right">59</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td><img src="https://github.com/kiraaziz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kiraaziz/Neoflow"><b>kiraaziz/Neoflow</b></a></td>
+<td align="right"><b>375</b></td>
+<td align="right">44</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">31</td>
+<td><img src="https://github.com/chniter.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chniter/bstreeview"><b>chniter/bstreeview</b></a></td>
+<td align="right"><b>371</b></td>
+<td align="right">52</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">32</td>
+<td><img src="https://github.com/X-SLAYER.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/X-SLAYER/Website-Cloner"><b>X-SLAYER/Website-Cloner</b></a></td>
+<td align="right"><b>365</b></td>
+<td align="right">98</td>
+<td>Visual Basic .NET</td>
+</tr>
+<tr>
+<td align="right">33</td>
+<td><img src="https://github.com/AlaBouali.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AlaBouali/bane"><b>AlaBouali/bane</b></a></td>
+<td align="right"><b>360</b></td>
+<td align="right">70</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">34</td>
+<td><img src="https://github.com/Safouene1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Safouene1/support-palestine-banner"><b>Safouene1/support-palestine-banner</b></a></td>
+<td align="right"><b>345</b></td>
+<td align="right">63</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">35</td>
+<td><img src="https://github.com/SelimHorri.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SelimHorri/ecommerce-microservice-backend-app"><b>SelimHorri/ecommerce-microservice-backend-app</b></a></td>
+<td align="right"><b>315</b></td>
+<td align="right">284</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">36</td>
+<td><img src="https://github.com/Zephkek.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Zephkek/XStoreUnlocker"><b>Zephkek/XStoreUnlocker</b></a></td>
+<td align="right"><b>287</b></td>
+<td align="right">24</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">37</td>
+<td><img src="https://github.com/Cyb0r9.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Cyb0r9/Androspy"><b>Cyb0r9/Androspy</b></a></td>
+<td align="right"><b>269</b></td>
+<td align="right">68</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">38</td>
+<td><img src="https://github.com/Hmzbo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Hmzbo/Football-Analytics-with-Deep-Learning-and-Computer-Vision"><b>Hmzbo/Football-Analytics-with-Deep-Learning-and-Computer-Vision</b></a></td>
+<td align="right"><b>259</b></td>
+<td align="right">71</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">39</td>
+<td><img src="https://github.com/bessemHmidi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bessemHmidi/AngularBeans"><b>bessemHmidi/AngularBeans</b></a></td>
+<td align="right"><b>250</b></td>
+<td align="right">85</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">40</td>
+<td><img src="https://github.com/Loukious.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Loukious/TikTokStreamKeyGenerator"><b>Loukious/TikTokStreamKeyGenerator</b></a></td>
+<td align="right"><b>247</b></td>
+<td align="right">69</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">41</td>
+<td><img src="https://github.com/Cyb0r9.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Cyb0r9/ispy"><b>Cyb0r9/ispy</b></a></td>
+<td align="right"><b>245</b></td>
+<td align="right">68</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">42</td>
+<td><img src="https://github.com/RiadhAdrani.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RiadhAdrani/slick-portfolio-svelte"><b>RiadhAdrani/slick-portfolio-svelte</b></a></td>
+<td align="right"><b>241</b></td>
+<td align="right">120</td>
+<td>Svelte</td>
+</tr>
+<tr>
+<td align="right">43</td>
+<td><img src="https://github.com/Afif13.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Afif13/CSS-Pattern"><b>Afif13/CSS-Pattern</b></a></td>
+<td align="right"><b>241</b></td>
+<td align="right">8</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><img src="https://github.com/YassWorks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/YassWorks/Ally"><b>YassWorks/Ally</b></a></td>
+<td align="right"><b>239</b></td>
+<td align="right">18</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">45</td>
+<td><img src="https://github.com/hamedbaatour.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hamedbaatour/angularfire-lite"><b>hamedbaatour/angularfire-lite</b></a></td>
+<td align="right"><b>237</b></td>
+<td align="right">39</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">46</td>
+<td><img src="https://github.com/X-SLAYER.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/X-SLAYER/Flutter-Tiktok-UI-API-Clone"><b>X-SLAYER/Flutter-Tiktok-UI-API-Clone</b></a></td>
+<td align="right"><b>230</b></td>
+<td align="right">68</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">47</td>
+<td><img src="https://github.com/Kirazul.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Kirazul/Verome-API"><b>Kirazul/Verome-API</b></a></td>
+<td align="right"><b>223</b></td>
+<td align="right">50</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><img src="https://github.com/Cyb0r9.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Cyb0r9/winspy"><b>Cyb0r9/winspy</b></a></td>
+<td align="right"><b>211</b></td>
+<td align="right">64</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><img src="https://github.com/mn-youssef.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mn-youssef/state-municipality-tunisia"><b>mn-youssef/state-municipality-tunisia</b></a></td>
+<td align="right"><b>159</b></td>
+<td align="right">56</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><img src="https://github.com/abdennour.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abdennour/certified-kubernetes-security-specialist"><b>abdennour/certified-kubernetes-security-specialist</b></a></td>
+<td align="right"><b>149</b></td>
+<td align="right">61</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">51</td>
+<td><img src="https://github.com/azizamari.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/azizamari/Ncodi"><b>azizamari/Ncodi</b></a></td>
+<td align="right"><b>117</b></td>
+<td align="right">11</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><img src="https://github.com/azjezz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/azjezz/assess"><b>azjezz/assess</b></a></td>
+<td align="right"><b>108</b></td>
+<td align="right">0</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><img src="https://github.com/machour.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/machour/yii2-notifications"><b>machour/yii2-notifications</b></a></td>
+<td align="right"><b>91</b></td>
+<td align="right">46</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><img src="https://github.com/OmaarElAmri.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/OmaarElAmri/Blasa.v2"><b>OmaarElAmri/Blasa.v2</b></a></td>
+<td align="right"><b>55</b></td>
+<td align="right">18</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/Oussama1403.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Oussama1403/Encipherr"><b>Oussama1403/Encipherr</b></a></td>
+<td align="right"><b>46</b></td>
+<td align="right">7</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><img src="https://github.com/ahmnouira.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ahmnouira/pillar-landing"><b>ahmnouira/pillar-landing</b></a></td>
+<td align="right"><b>41</b></td>
+<td align="right">6</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><img src="https://github.com/badi3a.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/badi3a/AWD-Training"><b>badi3a/AWD-Training</b></a></td>
+<td align="right"><b>33</b></td>
+<td align="right">237</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><img src="https://github.com/ayarii.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ayarii/Symfony"><b>ayarii/Symfony</b></a></td>
+<td align="right"><b>33</b></td>
+<td align="right">23</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><img src="https://github.com/not-lain.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/not-lain/loadimg"><b>not-lain/loadimg</b></a></td>
+<td align="right"><b>30</b></td>
+<td align="right">4</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><img src="https://github.com/Nour-yahyaoui.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Nour-yahyaoui/env-sentry"><b>Nour-yahyaoui/env-sentry</b></a></td>
+<td align="right"><b>28</b></td>
+<td align="right">2</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><img src="https://github.com/ShaheenJawadi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ShaheenJawadi/tiktok-video-downloader"><b>ShaheenJawadi/tiktok-video-downloader</b></a></td>
+<td align="right"><b>27</b></td>
+<td align="right">1</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><img src="https://github.com/eminemahjoub.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eminemahjoub/malware-scanner"><b>eminemahjoub/malware-scanner</b></a></td>
+<td align="right"><b>22</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/3imed-jaberi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/3imed-jaberi/use-lifecycle-hooks"><b>3imed-jaberi/use-lifecycle-hooks</b></a></td>
+<td align="right"><b>21</b></td>
+<td align="right">0</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><img src="https://github.com/jawherr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jawherr/machine-learning-algorithme"><b>jawherr/machine-learning-algorithme</b></a></td>
+<td align="right"><b>20</b></td>
+<td align="right">3</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><img src="https://github.com/zied-snoussi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zied-snoussi/GitHub-User-Search"><b>zied-snoussi/GitHub-User-Search</b></a></td>
+<td align="right"><b>19</b></td>
+<td align="right">0</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><img src="https://github.com/khaledayed.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/khaledayed/BEM-CSS-Example"><b>khaledayed/BEM-CSS-Example</b></a></td>
+<td align="right"><b>18</b></td>
+<td align="right">9</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><img src="https://github.com/chahe-dridi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chahe-dridi/elissa_travel"><b>chahe-dridi/elissa&#95;travel</b></a></td>
+<td align="right"><b>18</b></td>
+<td align="right">2</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><img src="https://github.com/AzizBenIsmail.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AzizBenIsmail/Game_SDL_2D"><b>AzizBenIsmail/Game&#95;SDL&#95;2D</b></a></td>
+<td align="right"><b>17</b></td>
+<td align="right">6</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><img src="https://github.com/goldenwilllabs-team.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/goldenwilllabs-team/glass-fit"><b>goldenwilllabs-team/glass-fit</b></a></td>
+<td align="right"><b>17</b></td>
+<td align="right">1</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/jassercherif.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jassercherif/HandwrittenDigitRecognition"><b>jassercherif/HandwrittenDigitRecognition</b></a></td>
+<td align="right"><b>15</b></td>
+<td align="right">3</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/yessine-agrebi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yessine-agrebi/myroadmap"><b>yessine-agrebi/myroadmap</b></a></td>
+<td align="right"><b>12</b></td>
+<td align="right">0</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><img src="https://github.com/nizar787.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nizar787/nizar787"><b>nizar787/nizar787</b></a></td>
+<td align="right"><b>11</b></td>
+<td align="right">2</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><img src="https://github.com/lahkiri.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lahkiri/xeo-forge"><b>lahkiri/xeo-forge</b></a></td>
+<td align="right"><b>11</b></td>
+<td align="right">1</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/nadhemBelHadj.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nadhemBelHadj/SpringBoot_Atelier01"><b>nadhemBelHadj/SpringBoot&#95;Atelier01</b></a></td>
+<td align="right"><b>9</b></td>
+<td align="right">6</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/Ayoub0Bn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ayoub0Bn/Login-Page"><b>Ayoub0Bn/Login-Page</b></a></td>
+<td align="right"><b>8</b></td>
+<td align="right">0</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/01JAMIL.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/01JAMIL/CRUD-app-mern-stack-rtk-ts"><b>01JAMIL/CRUD-app-mern-stack-rtk-ts</b></a></td>
+<td align="right"><b>7</b></td>
+<td align="right">2</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/fawzeus.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fawzeus/maze-generator"><b>fawzeus/maze-generator</b></a></td>
+<td align="right"><b>7</b></td>
+<td align="right">1</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/Ghofrane7469.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ghofrane7469/boycott"><b>Ghofrane7469/boycott</b></a></td>
+<td align="right"><b>7</b></td>
+<td align="right">1</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/www-root.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/www-root/www-root"><b>www-root/www-root</b></a></td>
+<td align="right"><b>7</b></td>
+<td align="right">1</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/adem-hosni.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adem-hosni/AtomicShieldClient"><b>adem-hosni/AtomicShieldClient</b></a></td>
+<td align="right"><b>6</b></td>
+<td align="right">2</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/Anisbelaid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Anisbelaid/HFT-exchange"><b>Anisbelaid/HFT-exchange</b></a></td>
+<td align="right"><b>6</b></td>
+<td align="right">2</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/jaballah-dorsaf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jaballah-dorsaf/site-web-Makeup"><b>jaballah-dorsaf/site-web-Makeup</b></a></td>
+<td align="right"><b>6</b></td>
+<td align="right">1</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><img src="https://github.com/sadekmehri.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sadekmehri/Tic-Tac-Toe-Pygame"><b>sadekmehri/Tic-Tac-Toe-Pygame</b></a></td>
+<td align="right"><b>6</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><img src="https://github.com/ArariAdem.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ArariAdem/CloudsimWithGA_Policy"><b>ArariAdem/CloudsimWithGA&#95;Policy</b></a></td>
+<td align="right"><b>5</b></td>
+<td align="right">1</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">85</td>
+<td><img src="https://github.com/iheblaswd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/iheblaswd/microserviceKeyclock"><b>iheblaswd/microserviceKeyclock</b></a></td>
+<td align="right"><b>5</b></td>
+<td align="right">0</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/korbirayen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/korbirayen/n8n-integration"><b>korbirayen/n8n-integration</b></a></td>
+<td align="right"><b>5</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><img src="https://github.com/Younes-ch.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Younes-ch/issatso-schedule-scrapper"><b>Younes-ch/issatso-schedule-scrapper</b></a></td>
+<td align="right"><b>5</b></td>
+<td align="right">0</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><img src="https://github.com/altwasntavailable.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/altwasntavailable/SelfBot-ADVANCED"><b>altwasntavailable/SelfBot-ADVANCED</b></a></td>
+<td align="right"><b>4</b></td>
+<td align="right">1</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><img src="https://github.com/badereddine-mechergui.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/badereddine-mechergui/upwork-wayland-screenshot-fix"><b>badereddine-mechergui/upwork-wayland-screenshot-fix</b></a></td>
+<td align="right"><b>4</b></td>
+<td align="right">1</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><img src="https://github.com/hamdi4-beep.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hamdi4-beep/comment-section-3"><b>hamdi4-beep/comment-section-3</b></a></td>
+<td align="right"><b>4</b></td>
+<td align="right">1</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/Ahmed-Jemai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ahmed-Jemai/Anti-C-bug-FilterScript"><b>Ahmed-Jemai/Anti-C-bug-FilterScript</b></a></td>
+<td align="right"><b>3</b></td>
+<td align="right">2</td>
+<td>Pawn</td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/0xBAADCAFE.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0xBAADCAFE/basicblockchain"><b>0xBAADCAFE/basicblockchain</b></a></td>
+<td align="right"><b>3</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/codex009.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/codex009/Rdp"><b>codex009/Rdp</b></a></td>
+<td align="right"><b>3</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/elounimedamine.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/elounimedamine/Ecommerce_App_Project"><b>elounimedamine/Ecommerce&#95;App&#95;Project</b></a></td>
+<td align="right"><b>3</b></td>
+<td align="right">0</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/MalekMahar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MalekMahar/STM32f469-TouchGFX-LedToggle"><b>MalekMahar/STM32f469-TouchGFX-LedToggle</b></a></td>
+<td align="right"><b>3</b></td>
+<td align="right">0</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/VargaDot.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/VargaDot/Syndicate"><b>VargaDot/Syndicate</b></a></td>
+<td align="right"><b>3</b></td>
+<td align="right">0</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/YassineMharrek.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/YassineMharrek/Phenicia-Metaverse"><b>YassineMharrek/Phenicia-Metaverse</b></a></td>
+<td align="right"><b>3</b></td>
+<td align="right">0</td>
+<td>Solidity</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/AlayaYakin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AlayaYakin/Router-Honeypot-Wireless-Repeater"><b>AlayaYakin/Router-Honeypot-Wireless-Repeater</b></a></td>
+<td align="right"><b>2</b></td>
+<td align="right">1</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/khalilboughzou.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/khalilboughzou/Financial-Dashboard-Implementation-KPMG"><b>khalilboughzou/Financial-Dashboard-Implementation-KPMG</b></a></td>
+<td align="right"><b>2</b></td>
+<td align="right">1</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/mectus11.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mectus11/twitch-status"><b>mectus11/twitch-status</b></a></td>
+<td align="right"><b>2</b></td>
+<td align="right">1</td>
+<td>PHP</td>
+</tr>
+</tbody>
+</table>
 
-### High-star verified preview
+<details>
+<summary><b>Coverage and methodology</b></summary>
 
-> These repositories were found by the independent global stars-desc scan and their owner locations resolved to this country. The list becomes final only when the global scan frontier drops below the country’s 100th-place star cutoff.
+- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 2 stars; 150 attributed candidates are tracked.
+- 100 entries were carried over from the previous dataset and are pending revalidation.
+- 150 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 0 in round 1.
+- Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [rayenghanmi/RyTuneX](https://github.com/rayenghanmi/RyTuneX) | **5,533** | Tunisia |
-| [Adembc/lazyssh](https://github.com/Adembc/lazyssh) | **3,966** | Tunisia |
-| [carthage-software/mago](https://github.com/carthage-software/mago) | **3,483** | Tunisia |
-| [anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) | **2,149** | Tunisia |
-| [Fakerr/git-recall](https://github.com/Fakerr/git-recall) | **2,110** | Tunis, Tunisia |
-| [Cyb0r9/SocialBox](https://github.com/Cyb0r9/SocialBox) | **2,060** | Tunisia |
-| [MohamedRejeb/compose-rich-editor](https://github.com/MohamedRejeb/compose-rich-editor) | **1,858** | Tunisia |
-| [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf) | **1,727** | Tunisia |
-| [Ademking/MD-This-Page](https://github.com/Ademking/MD-This-Page) | **1,598** | Tunisia |
-| [OussamaMater/Laravel-Tips](https://github.com/OussamaMater/Laravel-Tips) | **1,317** | Tunis, Tunisia |
-| [Zephkek/Asus-ROG-Aml-Deep-Dive](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive) | **1,001** | Tunisia |
-| [MohamedRejeb/Pokedex](https://github.com/MohamedRejeb/Pokedex) | **853** | Tunisia |
-| [sigmaSd/IRust](https://github.com/sigmaSd/IRust) | **718** | Tunisia |
-| [omarabid/rust-companies](https://github.com/omarabid/rust-companies) | **716** | Tunis, Tunisia |
-| [ahmedmani/pairipfix](https://github.com/ahmedmani/pairipfix) | **687** | Tunisia |
-| [hamedbaatour/minimus](https://github.com/hamedbaatour/minimus) | **628** | Tunis, Tunisia |
-| [x3omdax/PenBox](https://github.com/x3omdax/PenBox) | **538** | Tunisia |
-| [Ademking/BetterViewer](https://github.com/Ademking/BetterViewer) | **535** | Tunisia |
-| [MohamedRejeb/compose-dnd](https://github.com/MohamedRejeb/compose-dnd) | **510** | Tunisia |
-| [MohamedRejeb/Ksoup](https://github.com/MohamedRejeb/Ksoup) | **479** | Tunisia |
+</details>
 
-When the verified crawl reaches publication readiness, this page is automatically replaced by the most-starred repository ranking.
+---
+
+<p align="center"><sub><a href="./README.md">← All countries</a> &nbsp;·&nbsp; <a href="../README.md">GitSphere home</a> &nbsp;·&nbsp; <a href="../docs/METHODOLOGY.md">Methodology</a> &nbsp;·&nbsp; <a href="https://github.com/ish4ra/GitSphere">Source</a></sub></p>
+

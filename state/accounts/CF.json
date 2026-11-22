@@ -1,0 +1,19 @@
+{
+"schemaVersion": 3,
+"country": {"code":"CF","name":"Central African Republic","slug":"central-african-republic"},
+"count": 12,
+"accounts": [
+  {"id":"MDQ6VXNlcjY5NzM2MzA1","login":"b-kranthireddy23","type":"User","name":"Kranthi Reddy","location":"Bangui, Central African Republic","attribution":{"code":"CF","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:52:11.739Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjEzNDgzMzAx","login":"doston15","type":"User","name":"Philippe Junior SIBIRO","location":"Bangui-Central African Republic","attribution":{"code":"CF","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:52:11.739Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjEyODg2NDM2","login":"drcheryl-ia","type":"User","name":"Cheryl Lorenzi","location":"Central African Republic","attribution":{"code":"CF","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:52:11.739Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCusdSA","login":"elmomrjustkraft","type":"User","location":"Central African Republic (CF)","attribution":{"code":"CF","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:52:11.739Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjIyODQwNTQz","login":"goungsDesign","type":"User","name":"goungs","location":"Central African Republic","attribution":{"code":"CF","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:52:11.739Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjUzMTE1ODc2","login":"hingyuen","type":"User","name":"Hingyuen","location":"37715 ,O'Keefe Neck ,Dickenstown ,South Carolina ,Central African Republic","attribution":{"code":"CF","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:52:11.739Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCRtEOw","login":"ikouecode","type":"User","location":"Central African Republic","attribution":{"code":"CF","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:52:11.739Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjUzOTk2NjQy","login":"neliscoet","type":"User","name":"Nelis Coetzee","location":"Central African Republic","attribution":{"code":"CF","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:52:11.739Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDODVZ3rg","login":"Nfirmin236","type":"User","name":"Firmin Martial NDAO","location":"Bossangoa","attribution":{"code":"CF","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-04T19:52:11.739Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOBjwLKg","login":"PhiSIBS","type":"User","name":"Philippe Junior SIBIRO","location":"Bangui - Central African Republic","attribution":{"code":"CF","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:52:11.739Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCuyvGA","login":"ringcamomile","type":"User","location":"Central African Republic (CF)","attribution":{"code":"CF","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:52:11.739Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCmAEpA","login":"yadiOs-a-darel","type":"User","name":"Alphonso Darel","location":"Bangui, Central African Republic","attribution":{"code":"CF","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:52:11.739Z","sources":["legacy-owner-discovery"]}
+]
+}

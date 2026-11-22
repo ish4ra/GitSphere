@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"mode": "developers",
+"methodologyVersion": "1.0.0",
+"country": {"code":"NZ","name":"New Zealand","slug":"new-zealand"},
+"status": "building",
+"source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
+"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"users": [],
+"contentHash": "082a91140b939714",
+"updatedAt": "2026-11-22T08:41:14.246Z",
+"verifiedOn": null,
+"generatedAt": "2026-11-22T08:41:14.246Z"
+}

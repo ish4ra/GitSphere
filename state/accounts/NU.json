@@ -1,0 +1,16 @@
+{
+"schemaVersion": 3,
+"country": {"code":"NU","name":"Niue","slug":"niue"},
+"count": 9,
+"accounts": [
+  {"id":"MDQ6VXNlcjEyNDQzMTg0","login":"404joe","type":"User","location":"Niue","attribution":{"code":"NU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-30T06:01:01.084Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjE3NDIwNDc5","login":"duckls","type":"User","name":"zhouyou xiang","location":"0487 ,Jewell Locks ,Ardistown ,Arkansas ,Niue","attribution":{"code":"NU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-30T06:01:01.084Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCPEvkQ","login":"ggai3","type":"User","name":"Mark Caldwell","location":"South Nathantown, Niue","attribution":{"code":"NU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-30T06:01:01.084Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjkwNjEwNzk=","login":"Kasp42","type":"User","name":"Vladislav Kasperov","location":"Niue","attribution":{"code":"NU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-30T06:01:01.084Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCTIU2w","login":"Nuggetinator","type":"User","name":"Nuggetinator","location":"Alofi","attribution":{"code":"NU","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-30T06:01:01.084Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCtNu2Q","login":"numbultrascream","type":"User","location":"Niue (NU)","attribution":{"code":"NU","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-30T06:01:01.084Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCtJ_2Q","login":"rothbloodfire","type":"User","location":"Niue (NU)","attribution":{"code":"NU","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-30T06:01:01.084Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOBbsrCg","login":"Sherdkull","type":"User","location":"Niue","attribution":{"code":"NU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-30T06:01:01.084Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCutyVw","login":"zninjazibookscore","type":"User","location":"Niue (NU)","attribution":{"code":"NU","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-30T06:01:01.084Z","sources":["legacy-owner-discovery"]}
+]
+}

@@ -1,36 +1,101 @@
-<p align="center" aria-label="U.S. Outlying Islands flag" style="font-size:72px">🇺🇲</p>
+<div align="center">
 
-<h1 align="center">U.S. Outlying Islands</h1>
+<a href="../README.md"><img src="../assets/brand/gitsphere-mark.svg" width="44" height="44" alt="GitSphere"></a>
 
-<p align="center">
-  <a href="./README.md"><strong>Browse countries</strong></a> ·
-  <a href="../docs/METHODOLOGY.md">Methodology</a> ·
-  <a href="../README.md">Project home</a>
-</p>
+# 🇺🇲 U.S. Outlying Islands
 
-## Repository ranking status: Building 100%
+<b>Top Repositories</b> — Discover the most-starred GitHub repositories.
 
-- Geography terms processed: **28 / 28**
-- Progress: **100%**
-- Retained high-potential owner candidates: **8**
-- Search requests completed: **28**
-- Unresolved shards: **0**
+<sub><b>Top Repositories</b> &nbsp;·&nbsp; <a href="./developers/u-s-outlying-islands.md">Top Developers</a> &nbsp;·&nbsp; <a href="./contributors/u-s-outlying-islands.md">Top Contributors</a></sub>
 
-The crawler saves its exact shard queue and pagination cursor, so progress continues across GitHub Actions runs instead of restarting.
+</div>
 
-## Early preview
+<div align="center">
 
-> These are the strongest repository candidates discovered **so far**. This is not the final country ranking and can change as city, town, district, alias, and search-shard coverage expands.
+| Status | Repositories | Oldest verification | Data |
+| :---: | :---: | :---: | :---: |
+| 🟠 Stale | **8** | 27 Oct 2026 | <a href="../data/UM.json">JSON</a> |
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [realjarvis69/NintenDeck](https://github.com/realjarvis69/NintenDeck) | **21** | Jarvis Island |
-| [BakingLiberteZ/tui_tools](https://github.com/BakingLiberteZ/tui_tools) | **4** | Baker Island |
-| [mijail73/Introduccion-al-Desarrollo-de-Programas-con-Java](https://github.com/mijail73/Introduccion-al-Desarrollo-de-Programas-con-Java) | **2** | Wake Island |
-| [OgJAkFy8/Mad-Libs](https://github.com/OgJAkFy8/Mad-Libs) | **1** | Navassa Island |
-| [RanchoSM/CTSDirectlinkLibrary](https://github.com/RanchoSM/CTSDirectlinkLibrary) | **1** | U.S. Outlying Islands |
-| [Doge-Linux/Doge-Logos](https://github.com/Doge-Linux/Doge-Logos) | **0** | 美国本土外小岛屿 |
-| [faykhet/cokies.xyz](https://github.com/faykhet/cokies.xyz) | **0** | Wake Island |
-| [IiDxmon/Yinn](https://github.com/IiDxmon/Yinn) | **0** | Wake Island |
+> **Not yet re-verified.** 8 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
-When the verified crawl reaches publication readiness, this page is automatically replaced by the most-starred repository ranking.
+</div>
+
+<table>
+<thead><tr><th align="right">#</th><th align="left">Repository</th><th align="right">Stars</th><th align="right">Forks</th><th align="left">Language</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><img src="https://github.com/realjarvis69.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/realjarvis69/NintenDeck"><b>realjarvis69/NintenDeck</b></a></td>
+<td align="right"><b>21</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/BakingLiberteZ.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/BakingLiberteZ/tui_tools"><b>BakingLiberteZ/tui&#95;tools</b></a></td>
+<td align="right"><b>4</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/mijail73.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mijail73/Introduccion-al-Desarrollo-de-Programas-con-Java"><b>mijail73/Introduccion-al-Desarrollo-de-Programas-con-Java</b></a></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><img src="https://github.com/OgJAkFy8.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/OgJAkFy8/Mad-Libs"><b>OgJAkFy8/Mad-Libs</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">1</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/RanchoSM.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RanchoSM/CTSDirectlinkLibrary"><b>RanchoSM/CTSDirectlinkLibrary</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/Doge-Linux.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Doge-Linux/Doge-Logos"><b>Doge-Linux/Doge-Logos</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/faykhet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/faykhet/cokies.xyz"><b>faykhet/cokies.xyz</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><img src="https://github.com/IiDxmon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/IiDxmon/Yinn"><b>IiDxmon/Yinn</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary><b>Coverage and methodology</b></summary>
+
+- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 0 stars; 8 attributed candidates are tracked.
+- 8 entries were carried over from the previous dataset and are pending revalidation.
+- 8 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 0 in round 1.
+- Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
+
+</details>
+
+---
+
+<p align="center"><sub><a href="./README.md">← All countries</a> &nbsp;·&nbsp; <a href="../README.md">GitSphere home</a> &nbsp;·&nbsp; <a href="../docs/METHODOLOGY.md">Methodology</a> &nbsp;·&nbsp; <a href="https://github.com/ish4ra/GitSphere">Source</a></sub></p>
+

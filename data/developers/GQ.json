@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"mode": "developers",
+"methodologyVersion": "1.0.0",
+"country": {"code":"GQ","name":"Equatorial Guinea","slug":"equatorial-guinea"},
+"status": "building",
+"source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
+"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"users": [],
+"contentHash": "3a150bb60f8860db",
+"updatedAt": "2026-11-22T08:41:14.246Z",
+"verifiedOn": null,
+"generatedAt": "2026-11-22T08:41:14.246Z"
+}

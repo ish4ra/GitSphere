@@ -1,0 +1,24 @@
+{
+"schemaVersion": 3,
+"country": {"code":"SJ","name":"Svalbard & Jan Mayen","slug":"svalbard-jan-mayen"},
+"count": 17,
+"accounts": [
+  {"id":"U_kgDOEVhCBg","login":"Bpascal396-sys","type":"User","name":"Lappy","location":"Longyearbyen","attribution":{"code":"SJ","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-27T18:07:29.866Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjU0MDQ2MDcx","login":"danavitski","type":"User","name":"Daan Kivits","location":"Longyearbyen, Svalbard","attribution":{"code":"SJ","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-27T18:07:29.866Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOBl__kA","login":"elden-l0rd","type":"User","location":"Longyearbyen","attribution":{"code":"SJ","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-27T18:07:29.866Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOBgRaCw","login":"encrize","type":"User","name":"encrize","location":"Svalbard og Jan Mayen","attribution":{"code":"SJ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-27T18:07:29.866Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCu9NZA","login":"frombillyjoe","type":"User","location":"Svalbard & Jan Mayen (SJ)","attribution":{"code":"SJ","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-27T18:07:29.866Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCRHzvw","login":"JennyJohnsby","type":"User","name":"Jenny Johnsby","location":"Longyearbyen","attribution":{"code":"SJ","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-27T18:07:29.866Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCz8uFg","login":"Maya-SV","type":"User","name":"Turchian Mioara Iuga (Maya)","location":"Svalbard & Jan Mayen","attribution":{"code":"SJ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-27T18:07:29.866Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjMxNzcwNzU0","login":"mikkeltoft","type":"User","name":"Mikkel Toft Hornum","location":"Longyearbyen","attribution":{"code":"SJ","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-27T18:07:29.866Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjI1MzA3MDY=","login":"ngvrnd","type":"User","name":"Nick Caruso","location":"Svalbard and Jan Mayen","attribution":{"code":"SJ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-27T18:07:29.866Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCuy1nQ","login":"nikanoyaboomboom","type":"User","location":"Svalbard & Jan Mayen (SJ)","attribution":{"code":"SJ","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-27T18:07:29.866Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjM0ODIxNTM=","login":"Rainbowed","type":"User","name":"Cake","location":"Longyearbyen, Svalbard","attribution":{"code":"SJ","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-27T18:07:29.866Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDODhz3Pg","login":"SantiChoped","type":"User","name":"Santiago Gonzalez","location":"Longyearbyen","attribution":{"code":"SJ","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-27T18:07:29.866Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCtzTEg","login":"sexyguylublukust","type":"User","location":"Svalbard & Jan Mayen (SJ)","attribution":{"code":"SJ","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-27T18:07:29.866Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOC3HAtA","login":"SimplyHero-dev","type":"User","location":"Longyearbyen, Svalbar","attribution":{"code":"SJ","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-27T18:07:29.866Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjIwNTA5MzQ=","login":"slipeer","type":"User","name":"Pavel","location":"Barentsburg, Svalbard og Jan Mayen","attribution":{"code":"SJ","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-27T18:07:29.866Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjI1Mjc5ODAw","login":"sunnyerteit","type":"User","name":"S🌞nny","location":"Longyearbyen","attribution":{"code":"SJ","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-27T18:07:29.866Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCarhAw","login":"YTHEDOGKING","type":"User","name":"Short Giraffe 😞","location":"Olonkinbyen","attribution":{"code":"SJ","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-27T18:07:29.866Z","sources":["legacy-owner-discovery"]}
+]
+}

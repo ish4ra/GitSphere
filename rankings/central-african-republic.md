@@ -1,43 +1,178 @@
-<p align="center" aria-label="Central African Republic flag" style="font-size:72px">🇨🇫</p>
+<div align="center">
 
-<h1 align="center">Central African Republic</h1>
+<a href="../README.md"><img src="../assets/brand/gitsphere-mark.svg" width="44" height="44" alt="GitSphere"></a>
 
-<p align="center">
-  <a href="./README.md"><strong>Browse countries</strong></a> ·
-  <a href="../docs/METHODOLOGY.md">Methodology</a> ·
-  <a href="../README.md">Project home</a>
-</p>
+# 🇨🇫 Central African Republic
 
-## Repository ranking status: Building 53%
+<b>Top Repositories</b> — Discover the most-starred GitHub repositories.
 
-- Geography terms processed: **48 / 89**
-- Progress: **53%**
-- Retained high-potential owner candidates: **19**
-- Search requests completed: **48**
-- Unresolved shards: **0**
+<sub><b>Top Repositories</b> &nbsp;·&nbsp; <a href="./developers/central-african-republic.md">Top Developers</a> &nbsp;·&nbsp; <a href="./contributors/central-african-republic.md">Top Contributors</a></sub>
 
-The crawler saves its exact shard queue and pagination cursor, so progress continues across GitHub Actions runs instead of restarting.
+</div>
 
-## Early preview
+<div align="center">
 
-> These are the strongest repository candidates discovered **so far**. This is not the final country ranking and can change as city, town, district, alias, and search-shard coverage expands.
+| Status | Repositories | Oldest verification | Data |
+| :---: | :---: | :---: | :---: |
+| 🟠 Stale | **19** | 04 Nov 2026 | <a href="../data/CF.json">JSON</a> |
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [platine-php/docx-template](https://github.com/platine-php/docx-template) | **4** | Central African Republic |
-| [ikoueorg/formation-codes-web](https://github.com/ikoueorg/formation-codes-web) | **3** | Central African Republic |
-| [platine-network/platine](https://github.com/platine-network/platine) | **3** | Central African Republic |
-| [b-kranthireddy23/flight-log](https://github.com/b-kranthireddy23/flight-log) | **0** | Bangui, Central African Republic |
-| [cexswap/assets](https://github.com/cexswap/assets) | **0** | Central African Republic |
-| [doston15/Wordpress-fil-rouge](https://github.com/doston15/Wordpress-fil-rouge) | **0** | Bangui-Central African Republic |
-| [drcheryl-ia/Nexus-Technology](https://github.com/drcheryl-ia/Nexus-Technology) | **0** | Central African Republic |
-| [elmomrjustkraft/elmomrjustkraft](https://github.com/elmomrjustkraft/elmomrjustkraft) | **0** | Central African Republic (CF) |
-| [fadswap/assets](https://github.com/fadswap/assets) | **0** | Central African Republic |
-| [goungsDesign/projet_GRH](https://github.com/goungsDesign/projet_GRH) | **0** | Central African Republic |
-| [hingyuen/OrderingSystemMiniProgram](https://github.com/hingyuen/OrderingSystemMiniProgram) | **0** | 37715 ,O'Keefe Neck ,Dickenstown ,South Carolina ,Central African Republic |
-| [ikouecode/webdev-001](https://github.com/ikouecode/webdev-001) | **0** | Central African Republic |
-| [neliscoet/laravel](https://github.com/neliscoet/laravel) | **0** | Central African Republic |
-| [Nfirmin236/Mon-premier-projet-web](https://github.com/Nfirmin236/Mon-premier-projet-web) | **0** | Bossangoa |
-| [PhiSIBS/LimotiAnyama](https://github.com/PhiSIBS/LimotiAnyama) | **0** | Bangui - Central African Republic |
+> **Not yet re-verified.** 19 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
-When the verified crawl reaches publication readiness, this page is automatically replaced by the most-starred repository ranking.
+</div>
+
+<table>
+<thead><tr><th align="right">#</th><th align="left">Repository</th><th align="right">Stars</th><th align="right">Forks</th><th align="left">Language</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><img src="https://github.com/platine-php.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/platine-php/docx-template"><b>platine-php/docx-template</b></a></td>
+<td align="right"><b>4</b></td>
+<td align="right">1</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/ikoueorg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ikoueorg/formation-codes-web"><b>ikoueorg/formation-codes-web</b></a></td>
+<td align="right"><b>3</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/platine-network.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/platine-network/platine"><b>platine-network/platine</b></a></td>
+<td align="right"><b>3</b></td>
+<td align="right">0</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><img src="https://github.com/SUNATOR-ADTEAM.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SUNATOR-ADTEAM/vim"><b>SUNATOR-ADTEAM/vim</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/yadiOs-a-darel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yadiOs-a-darel/moviesapp"><b>yadiOs-a-darel/moviesapp</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/b-kranthireddy23.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/b-kranthireddy23/flight-log"><b>b-kranthireddy23/flight-log</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/cexswap.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cexswap/assets"><b>cexswap/assets</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><img src="https://github.com/doston15.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/doston15/Wordpress-fil-rouge"><b>doston15/Wordpress-fil-rouge</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/drcheryl-ia.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/drcheryl-ia/Nexus-Technology"><b>drcheryl-ia/Nexus-Technology</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/elmomrjustkraft.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/elmomrjustkraft/elmomrjustkraft"><b>elmomrjustkraft/elmomrjustkraft</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/fadswap.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fadswap/assets"><b>fadswap/assets</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/goungsDesign.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/goungsDesign/projet_GRH"><b>goungsDesign/projet&#95;GRH</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/hingyuen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hingyuen/OrderingSystemMiniProgram"><b>hingyuen/OrderingSystemMiniProgram</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/ikouecode.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ikouecode/webdev-001"><b>ikouecode/webdev-001</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><img src="https://github.com/neliscoet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neliscoet/laravel"><b>neliscoet/laravel</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><img src="https://github.com/Nfirmin236.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Nfirmin236/Mon-premier-projet-web"><b>Nfirmin236/Mon-premier-projet-web</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><img src="https://github.com/PhiSIBS.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PhiSIBS/LimotiAnyama"><b>PhiSIBS/LimotiAnyama</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><img src="https://github.com/ringcamomile.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ringcamomile/ringcamomile"><b>ringcamomile/ringcamomile</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><img src="https://github.com/wandaralab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wandaralab/LiquidCrystal_I2C"><b>wandaralab/LiquidCrystal&#95;I2C</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>C++</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary><b>Coverage and methodology</b></summary>
+
+- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 0 stars; 19 attributed candidates are tracked.
+- 19 entries were carried over from the previous dataset and are pending revalidation.
+- 19 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 0 in round 1.
+- Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
+
+</details>
+
+---
+
+<p align="center"><sub><a href="./README.md">← All countries</a> &nbsp;·&nbsp; <a href="../README.md">GitSphere home</a> &nbsp;·&nbsp; <a href="../docs/METHODOLOGY.md">Methodology</a> &nbsp;·&nbsp; <a href="https://github.com/ish4ra/GitSphere">Source</a></sub></p>
+

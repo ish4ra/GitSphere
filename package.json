@@ -1,8 +1,8 @@
 {
-  "name": "github-repos-by-country",
-  "version": "0.1.0",
+  "name": "gitsphere",
+  "version": "1.0.0",
   "private": true,
-  "description": "Discover and rank GitHub repositories by country using public GitHub data.",
+  "description": "Explore GitHub repositories and developers by country, ranked by stars, followers, and contributions.",
   "type": "module",
   "engines": {
     "node": ">=22"
@@ -11,11 +11,17 @@
     "check:syntax": "node scripts/check-syntax.js",
     "test": "node --test",
     "check": "npm run check:syntax && npm test",
-    "generate": "node src/cli.js",
-    "generate:sri-lanka": "node src/cli.js --country LK",
-    "generate:index": "node scripts/generate-country-index.js",
-    "sync:geography": "node scripts/sync-geography.js",
-    "discover:global": "node scripts/discover-global-batch.js",
-    "discover:repositories": "node scripts/discover-repositories-global.js"
-  }
+    "pipeline": "node scripts/gitsphere.js pipeline",
+    "publish": "node scripts/gitsphere.js publish",
+    "verify:live": "node scripts/verify-live.js",
+    "sync:geography": "node scripts/build-gazetteer.js",
+    "migrate:v3": "node scripts/migrate-v3.js",
+    "brand": "node scripts/render-brand.js"
+  },
+  "homepage": "https://github.com/ish4ra/GitSphere#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ish4ra/GitSphere.git"
+  },
+  "license": "MIT"
 }

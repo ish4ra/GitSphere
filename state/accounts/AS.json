@@ -1,0 +1,9 @@
+{
+"schemaVersion": 3,
+"country": {"code":"AS","name":"American Samoa","slug":"american-samoa"},
+"count": 2,
+"accounts": [
+  {"id":"U_kgDOCupn8w","login":"breepinkpiggys","type":"User","location":"Amerikaans-Samoa (AS)","attribution":{"code":"AS","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-03T01:04:20.370Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCtKHKQ","login":"sweetypieredhulk","type":"User","location":"Amerikaans-Samoa (AS)","attribution":{"code":"AS","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-03T01:04:20.370Z","sources":["legacy-owner-discovery"]}
+]
+}

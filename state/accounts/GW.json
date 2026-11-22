@@ -1,0 +1,19 @@
+{
+"schemaVersion": 3,
+"country": {"code":"GW","name":"Guinea-Bissau","slug":"guinea-bissau"},
+"count": 12,
+"accounts": [
+  {"id":"U_kgDOErFhBA","login":"abduramanedjalo06","type":"User","name":"Abduramane Djaló","location":"Guiné-Bissau","attribution":{"code":"GW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:35.484Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjIzMTcxNDI0","login":"augoju","type":"User","name":"Augusto Gomes Júnior","location":"Guiné-Bissau","attribution":{"code":"GW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:35.484Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOBuPKbA","login":"baiojava","type":"User","name":"Lamine Baio","location":"Guiné-Bissau","attribution":{"code":"GW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:35.484Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOD5j9TQ","login":"baldeinfamara10-droid","type":"User","name":"Infamara bruxo07","location":"Guiné-Bissau","attribution":{"code":"GW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:35.484Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOD_s13g","login":"baribucirio-cmyk","type":"User","name":"Bucirio Bari","location":"Guiné-Bissau","attribution":{"code":"GW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:35.484Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDODvwq7g","login":"emanuelnanquida779-oss","type":"User","name":"Emanuking","location":"Guiné-Bissau","attribution":{"code":"GW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:35.484Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjUyNzEyOTc3","login":"gilgilberto31","type":"User","name":"Gilberto Gil","location":"Guiné Bissau","attribution":{"code":"GW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:35.484Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjYzNzU5NzY2","login":"ibanora","type":"User","name":"Idrissa Banora","location":"Guiné Bissau","attribution":{"code":"GW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:35.484Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjExMTQ1NTM0","login":"johnlava","type":"User","name":"john nwanja.o","location":"ingore,Guine bissau","attribution":{"code":"GW","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T13:37:35.484Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOC75K5w","login":"pettyklaxs","type":"User","name":"Sana Bari","location":"Guiné Bissau","attribution":{"code":"GW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:35.484Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCjOBPQ","login":"Reinaldoaugustonanque","type":"User","name":"Reinaldo Augusto Nanque","location":"Guiné-Bissau","attribution":{"code":"GW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:35.484Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCHXg2A","login":"Samsilva64","type":"User","name":"Daltonsilva","location":"Guiné-bissau/pluba","attribution":{"code":"GW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:35.484Z","sources":["legacy-owner-discovery"]}
+]
+}

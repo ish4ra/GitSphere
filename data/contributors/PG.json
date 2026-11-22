@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"mode": "contributors",
+"methodologyVersion": "1.0.0",
+"country": {"code":"PG","name":"Papua New Guinea","slug":"papua-new-guinea"},
+"status": "building",
+"source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
+"coverage": {"basis":"partial","discoveredAccounts":14,"measuredAccounts":0,"measurementBacklog":14,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"users": [],
+"contentHash": "b3d5c7bbf7a2ef02",
+"updatedAt": "2026-11-22T08:29:21.106Z",
+"verifiedOn": null,
+"generatedAt": "2026-11-22T08:29:21.106Z"
+}

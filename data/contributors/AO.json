@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"mode": "contributors",
+"methodologyVersion": "1.0.0",
+"country": {"code":"AO","name":"Angola","slug":"angola"},
+"status": "building",
+"source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
+"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":0,"measurementBacklog":400,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"users": [],
+"contentHash": "984394fc9b142e78",
+"updatedAt": "2026-11-22T08:29:21.106Z",
+"verifiedOn": null,
+"generatedAt": "2026-11-22T08:29:21.106Z"
+}

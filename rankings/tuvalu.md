@@ -1,43 +1,199 @@
-<p align="center" aria-label="Tuvalu flag" style="font-size:72px">🇹🇻</p>
+<div align="center">
 
-<h1 align="center">Tuvalu</h1>
+<a href="../README.md"><img src="../assets/brand/gitsphere-mark.svg" width="44" height="44" alt="GitSphere"></a>
 
-<p align="center">
-  <a href="./README.md"><strong>Browse countries</strong></a> ·
-  <a href="../docs/METHODOLOGY.md">Methodology</a> ·
-  <a href="../README.md">Project home</a>
-</p>
+# 🇹🇻 Tuvalu
 
-## Repository ranking status: Building 100%
+<b>Top Repositories</b> — Discover the most-starred GitHub repositories.
 
-- Geography terms processed: **33 / 33**
-- Progress: **100%**
-- Retained high-potential owner candidates: **23**
-- Search requests completed: **33**
-- Unresolved shards: **0**
+<sub><b>Top Repositories</b> &nbsp;·&nbsp; <a href="./developers/tuvalu.md">Top Developers</a> &nbsp;·&nbsp; <a href="./contributors/tuvalu.md">Top Contributors</a></sub>
 
-The crawler saves its exact shard queue and pagination cursor, so progress continues across GitHub Actions runs instead of restarting.
+</div>
 
-## Early preview
+<div align="center">
 
-> These are the strongest repository candidates discovered **so far**. This is not the final country ranking and can change as city, town, district, alias, and search-shard coverage expands.
+| Status | Repositories | Oldest verification | Data |
+| :---: | :---: | :---: | :---: |
+| 🟠 Stale | **22** | 03 Nov 2026 | <a href="../data/TV.json">JSON</a> |
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [maid-zone/soundcloak](https://github.com/maid-zone/soundcloak) | **25** | Tuvalu |
-| [xubeiyan/Nscripter2-API](https://github.com/xubeiyan/Nscripter2-API) | **7** | Chenhai, Tuvalu(图瓦卢，辰海市) |
-| [Bubblingo0/http2socks5](https://github.com/Bubblingo0/http2socks5) | **1** | Tuvalu |
-| [CasualModernPGM/ModernMaps](https://github.com/CasualModernPGM/ModernMaps) | **1** | Tuvalu |
-| [Dan-Creative/godot-3D-carousel-menu](https://github.com/Dan-Creative/godot-3D-carousel-menu) | **1** | Funafuti |
-| [enaros/cardgame](https://github.com/enaros/cardgame) | **1** | Tuvalu |
-| [pedromaestu/minero](https://github.com/pedromaestu/minero) | **1** | Tuvalu |
-| [alessandroocapa/TepsiBBinToDec](https://github.com/alessandroocapa/TepsiBBinToDec) | **0** | tuvalu |
-| [apfour/hanbot](https://github.com/apfour/hanbot) | **0** | Tuvalu - Funafuti |
-| [binge-inc/binge](https://github.com/binge-inc/binge) | **0** | Tuvalu |
-| [Chenhai-University/.github](https://github.com/Chenhai-University/.github) | **0** | Tuvalu |
-| [cordcutters/brawlpage-wiki](https://github.com/cordcutters/brawlpage-wiki) | **0** | Tuvalu |
-| [deltaost/deltaost.github.io](https://github.com/deltaost/deltaost.github.io) | **0** | Funafuti, Tuvalu |
-| [gnomegirmest/gnomegirmest](https://github.com/gnomegirmest/gnomegirmest) | **0** | Tuvalu (TV) |
-| [http-lkz/Transcritor](https://github.com/http-lkz/Transcritor) | **0** | Tuvalu |
+> **Not yet re-verified.** 22 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
-When the verified crawl reaches publication readiness, this page is automatically replaced by the most-starred repository ranking.
+</div>
+
+<table>
+<thead><tr><th align="right">#</th><th align="left">Repository</th><th align="right">Stars</th><th align="right">Forks</th><th align="left">Language</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><img src="https://github.com/maid-zone.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maid-zone/soundcloak"><b>maid-zone/soundcloak</b></a></td>
+<td align="right"><b>25</b></td>
+<td align="right">7</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/xubeiyan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xubeiyan/Nscripter2-API"><b>xubeiyan/Nscripter2-API</b></a></td>
+<td align="right"><b>7</b></td>
+<td align="right">2</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/Bubblingo0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Bubblingo0/http2socks5"><b>Bubblingo0/http2socks5</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><img src="https://github.com/CasualModernPGM.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CasualModernPGM/ModernMaps"><b>CasualModernPGM/ModernMaps</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/Dan-Creative.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Dan-Creative/godot-3D-carousel-menu"><b>Dan-Creative/godot-3D-carousel-menu</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>GDScript</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/enaros.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/enaros/cardgame"><b>enaros/cardgame</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/pedromaestu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pedromaestu/minero"><b>pedromaestu/minero</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><img src="https://github.com/alessandroocapa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alessandroocapa/TepsiBBinToDec"><b>alessandroocapa/TepsiBBinToDec</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/apfour.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/apfour/hanbot"><b>apfour/hanbot</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/binge-inc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/binge-inc/binge"><b>binge-inc/binge</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/Chenhai-University.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Chenhai-University/.github"><b>Chenhai-University/.github</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/cordcutters.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cordcutters/brawlpage-wiki"><b>cordcutters/brawlpage-wiki</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/deltaost.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/deltaost/deltaost.github.io"><b>deltaost/deltaost.github.io</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/gnomegirmest.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gnomegirmest/gnomegirmest"><b>gnomegirmest/gnomegirmest</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><img src="https://github.com/http-lkz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/http-lkz/Transcritor"><b>http-lkz/Transcritor</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><img src="https://github.com/KriminalExpert.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KriminalExpert/Surge"><b>KriminalExpert/Surge</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><img src="https://github.com/liga-negra.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/liga-negra/liga-negra"><b>liga-negra/liga-negra</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><img src="https://github.com/qaZmlP0111100.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/qaZmlP0111100/Objects-and-Data-Structures-Assessment-Test-1"><b>qaZmlP0111100/Objects-and-Data-Structures-Assessment-Test-1</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><img src="https://github.com/ringfighting.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ringfighting/ringfighting"><b>ringfighting/ringfighting</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><img src="https://github.com/s11253934-bit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/s11253934-bit/PNMS2026s"><b>s11253934-bit/PNMS2026s</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><img src="https://github.com/temapr0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/temapr0/UltraMiner-Max"><b>temapr0/UltraMiner-Max</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><img src="https://github.com/weltkindpoka.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/weltkindpoka/weltkindpoka"><b>weltkindpoka/weltkindpoka</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary><b>Coverage and methodology</b></summary>
+
+- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 0 stars; 22 attributed candidates are tracked.
+- 22 entries were carried over from the previous dataset and are pending revalidation.
+- 22 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 0 in round 1.
+- Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
+
+</details>
+
+---
+
+<p align="center"><sub><a href="./README.md">← All countries</a> &nbsp;·&nbsp; <a href="../README.md">GitSphere home</a> &nbsp;·&nbsp; <a href="../docs/METHODOLOGY.md">Methodology</a> &nbsp;·&nbsp; <a href="https://github.com/ish4ra/GitSphere">Source</a></sub></p>
+

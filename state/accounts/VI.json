@@ -1,0 +1,20 @@
+{
+"schemaVersion": 3,
+"country": {"code":"VI","name":"U.S. Virgin Islands","slug":"u-s-virgin-islands"},
+"count": 13,
+"accounts": [
+  {"id":"MDQ6VXNlcjY5NDAxOTc3","login":"0catx","type":"User","name":"The Cat","location":"Northside","attribution":{"code":"VI","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-31T05:55:13.002Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOBvNJZw","login":"axl-vg","type":"User","name":"Axl","location":"West Los Angeles County / U.S. Virgin Islands","attribution":{"code":"VI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-31T05:55:13.002Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOC-JLNg","login":"BadBoyBettingClub","type":"User","name":"Bad Boy Betting Club","location":"U.S. Virgin Islands","attribution":{"code":"VI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-31T05:55:13.002Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjg4ODkxNzY0","login":"CousinRicky","type":"User","name":"Richard Callwood III","location":"St. Thomas, U.S. Virgin Islands","attribution":{"code":"VI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-31T05:55:13.002Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCYcnCQ","login":"david-hensley","type":"User","name":"David A. Hensley","location":"Frederiksted, VI","attribution":{"code":"VI","confidence":"medium","evidence":"consistent-places"},"seenAt":"2026-10-31T05:55:13.002Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOBmMFew","login":"florenciachiappero","type":"User","name":"Florencia Chiappero Gibney","location":"U.S. Virgin Islands","attribution":{"code":"VI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-31T05:55:13.002Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjExOTQ2MzQx","login":"JahNorr","type":"User","name":"John Orr","location":"St. Croix, U.S. Virgin Islands","attribution":{"code":"VI","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-31T05:55:13.002Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDODFb32Q","login":"Kareema007799","type":"User","name":"Kareema S. Smith","location":"Christiansted, VI","attribution":{"code":"VI","confidence":"medium","evidence":"consistent-places"},"seenAt":"2026-10-31T05:55:13.002Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOC1mDWA","login":"MrHappyNSad","type":"User","name":"Mr. Happy&Sad","location":"U.S. Virgin Islands","attribution":{"code":"VI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-31T05:55:13.002Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjY3MjY2MjE=","login":"Photoflicks","type":"User","name":"Naheem Mason","location":"U.S. Virgin Islands","attribution":{"code":"VI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-31T05:55:13.002Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOB5W3tw","login":"Rotgarg","type":"User","name":"rotgang","location":"Little Saint James, U.S. Virgin Islands","attribution":{"code":"VI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-31T05:55:13.002Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOE3nwyQ","login":"suzunaxyzz","type":"User","location":"U.S Virgin Islands","attribution":{"code":"VI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-31T05:55:13.002Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOD0XE0Q","login":"thesteinagen","type":"User","name":"Jeffrey Epstein","location":"Little Saint James, U.S. Virgin Islands","attribution":{"code":"VI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-31T05:55:13.002Z","sources":["legacy-owner-discovery"]}
+]
+}

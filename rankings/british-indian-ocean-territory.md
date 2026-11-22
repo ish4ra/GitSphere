@@ -1,43 +1,164 @@
-<p align="center" aria-label="British Indian Ocean Territory flag" style="font-size:72px">🇮🇴</p>
+<div align="center">
 
-<h1 align="center">British Indian Ocean Territory</h1>
+<a href="../README.md"><img src="../assets/brand/gitsphere-mark.svg" width="44" height="44" alt="GitSphere"></a>
 
-<p align="center">
-  <a href="./README.md"><strong>Browse countries</strong></a> ·
-  <a href="../docs/METHODOLOGY.md">Methodology</a> ·
-  <a href="../README.md">Project home</a>
-</p>
+# 🇮🇴 British Indian Ocean Territory
 
-## Repository ranking status: Building 100%
+<b>Top Repositories</b> — Discover the most-starred GitHub repositories.
 
-- Geography terms processed: **21 / 21**
-- Progress: **100%**
-- Retained high-potential owner candidates: **17**
-- Search requests completed: **21**
-- Unresolved shards: **0**
+<sub><b>Top Repositories</b> &nbsp;·&nbsp; <a href="./developers/british-indian-ocean-territory.md">Top Developers</a> &nbsp;·&nbsp; <a href="./contributors/british-indian-ocean-territory.md">Top Contributors</a></sub>
 
-The crawler saves its exact shard queue and pagination cursor, so progress continues across GitHub Actions runs instead of restarting.
+</div>
 
-## Early preview
+<div align="center">
 
-> These are the strongest repository candidates discovered **so far**. This is not the final country ranking and can change as city, town, district, alias, and search-shard coverage expands.
+| Status | Repositories | Oldest verification | Data |
+| :---: | :---: | :---: | :---: |
+| 🟠 Stale | **17** | 25 Oct 2026 | <a href="../data/IO.json">JSON</a> |
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [LixvYang/Writing-a-Interpreter-in-Go-Translation](https://github.com/LixvYang/Writing-a-Interpreter-in-Go-Translation) | **103** | British Indian Ocean Territory |
-| [3rd-Stage-ACP-SUE-ABH/Java-Rasterizer](https://github.com/3rd-Stage-ACP-SUE-ABH/Java-Rasterizer) | **15** | British Indian Ocean Territory |
-| [linuxdistribution/template-project](https://github.com/linuxdistribution/template-project) | **2** | British Indian Ocean Territory |
-| [Vitorlas-Devs/friendli-or-angri](https://github.com/Vitorlas-Devs/friendli-or-angri) | **2** | British Indian Ocean Territory |
-| [dameon10325/spring_crud](https://github.com/dameon10325/spring_crud) | **1** | British Indian Ocean Territory (Chagos Archipelago) |
-| [ALGOBLOCKS/algoblocks-genesis-config](https://github.com/ALGOBLOCKS/algoblocks-genesis-config) | **0** | British Indian Ocean Territory |
-| [BootDAO/governance](https://github.com/BootDAO/governance) | **0** | British Indian Ocean Territory |
-| [inaplanet/inaplanetfoundation](https://github.com/inaplanet/inaplanetfoundation) | **0** | British Indian Ocean Territory |
-| [MoneyMakerGPT/introduce](https://github.com/MoneyMakerGPT/introduce) | **0** | British Indian Ocean Territory |
-| [Nguyenvan-Thaiduc/bo-nho](https://github.com/Nguyenvan-Thaiduc/bo-nho) | **0** | British Indian Ocean Territory |
-| [ObsoleteForma/mysql](https://github.com/ObsoleteForma/mysql) | **0** | British Indian Ocean Territory |
-| [onsecurityorg/clientapp-releases](https://github.com/onsecurityorg/clientapp-releases) | **0** | British Indian Ocean Territory |
-| [rondaskeletik/rondaskeletik](https://github.com/rondaskeletik/rondaskeletik) | **0** | British Indian Ocean Territory (IO) |
-| [stackermanbaflocer/stackermanbaflocer](https://github.com/stackermanbaflocer/stackermanbaflocer) | **0** | British Indian Ocean Territory (IO) |
-| [txdywy/yy](https://github.com/txdywy/yy) | **0** | British Indian Ocean Territory |
+> **Not yet re-verified.** 17 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
-When the verified crawl reaches publication readiness, this page is automatically replaced by the most-starred repository ranking.
+</div>
+
+<table>
+<thead><tr><th align="right">#</th><th align="left">Repository</th><th align="right">Stars</th><th align="right">Forks</th><th align="left">Language</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><img src="https://github.com/LixvYang.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LixvYang/Writing-a-Interpreter-in-Go-Translation"><b>LixvYang/Writing-a-Interpreter-in-Go-Translation</b></a></td>
+<td align="right"><b>103</b></td>
+<td align="right">26</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/3rd-Stage-ACP-SUE-ABH.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/3rd-Stage-ACP-SUE-ABH/Java-Rasterizer"><b>3rd-Stage-ACP-SUE-ABH/Java-Rasterizer</b></a></td>
+<td align="right"><b>15</b></td>
+<td align="right">2</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/linuxdistribution.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/linuxdistribution/template-project"><b>linuxdistribution/template-project</b></a></td>
+<td align="right"><b>2</b></td>
+<td align="right">1</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><img src="https://github.com/Vitorlas-Devs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Vitorlas-Devs/friendli-or-angri"><b>Vitorlas-Devs/friendli-or-angri</b></a></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/dameon10325.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dameon10325/spring_crud"><b>dameon10325/spring&#95;crud</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/ALGOBLOCKS.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ALGOBLOCKS/algoblocks-genesis-config"><b>ALGOBLOCKS/algoblocks-genesis-config</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td>Solidity</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/BootDAO.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/BootDAO/governance"><b>BootDAO/governance</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><img src="https://github.com/inaplanet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/inaplanet/inaplanetfoundation"><b>inaplanet/inaplanetfoundation</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/MoneyMakerGPT.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MoneyMakerGPT/introduce"><b>MoneyMakerGPT/introduce</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/Nguyenvan-Thaiduc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Nguyenvan-Thaiduc/bo-nho"><b>Nguyenvan-Thaiduc/bo-nho</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/ObsoleteForma.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ObsoleteForma/mysql"><b>ObsoleteForma/mysql</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/onsecurityorg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/onsecurityorg/clientapp-releases"><b>onsecurityorg/clientapp-releases</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/rondaskeletik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rondaskeletik/rondaskeletik"><b>rondaskeletik/rondaskeletik</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/stackermanbaflocer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stackermanbaflocer/stackermanbaflocer"><b>stackermanbaflocer/stackermanbaflocer</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><img src="https://github.com/txdywy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/txdywy/yy"><b>txdywy/yy</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><img src="https://github.com/WaterCompanyY10.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/WaterCompanyY10/watercompany"><b>WaterCompanyY10/watercompany</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><img src="https://github.com/Wejang-Health-Care.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Wejang-Health-Care/WWH-Wejang-Inc"><b>Wejang-Health-Care/WWH-Wejang-Inc</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary><b>Coverage and methodology</b></summary>
+
+- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 0 stars; 17 attributed candidates are tracked.
+- 17 entries were carried over from the previous dataset and are pending revalidation.
+- 17 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 0 in round 1.
+- Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
+
+</details>
+
+---
+
+<p align="center"><sub><a href="./README.md">← All countries</a> &nbsp;·&nbsp; <a href="../README.md">GitSphere home</a> &nbsp;·&nbsp; <a href="../docs/METHODOLOGY.md">Methodology</a> &nbsp;·&nbsp; <a href="https://github.com/ish4ra/GitSphere">Source</a></sub></p>
+

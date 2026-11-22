@@ -1,0 +1,10 @@
+{
+"schemaVersion": 3,
+"country": {"code":"RU","name":"Russia","slug":"russia"},
+"count": 3,
+"repositories": [
+  {"name":"dilame/instagram-private-api","stars":6481,"forks":1190,"language":"TypeScript","license":"MIT","archived":false,"createdAt":"2016-06-09T12:14:48Z","pushedAt":"2024-08-09T15:15:55Z","owner":{"login":"dilame","type":"User","name":"Dmitry","location":"Россия, Москва"},"attribution":{"code":"RU","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-17T01:38:20.244Z","id":"legacy:dilame/instagram-private-api","legacy":true},
+  {"name":"nsf/gocode","stars":4985,"forks":649,"language":"Go","license":"MIT","archived":false,"createdAt":"2010-07-05T00:13:16Z","pushedAt":"2026-02-07T06:08:01Z","owner":{"login":"nsf","type":"User","location":"Yekaterinburg, Russia"},"attribution":{"code":"RU","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-17T01:38:20.244Z","id":"legacy:nsf/gocode","legacy":true},
+  {"name":"nsf/termbox-go","stars":4787,"forks":374,"language":"Go","license":"MIT","archived":false,"createdAt":"2012-01-12T21:03:03Z","pushedAt":"2026-08-23T04:45:11Z","owner":{"login":"nsf","type":"User","location":"Yekaterinburg, Russia"},"attribution":{"code":"RU","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-17T01:38:20.244Z","id":"legacy:nsf/termbox-go","legacy":true}
+]
+}

@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"mode": "developers",
+"methodologyVersion": "1.0.0",
+"country": {"code":"RW","name":"Rwanda","slug":"rwanda"},
+"status": "building",
+"source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
+"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"users": [],
+"contentHash": "040e82d59d527889",
+"updatedAt": "2026-11-22T08:41:14.246Z",
+"verifiedOn": null,
+"generatedAt": "2026-11-22T08:41:14.246Z"
+}

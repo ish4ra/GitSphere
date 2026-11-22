@@ -1,43 +1,94 @@
-<p align="center" aria-label="South Sudan flag" style="font-size:72px">🇸🇸</p>
+<div align="center">
 
-<h1 align="center">South Sudan</h1>
+<a href="../README.md"><img src="../assets/brand/gitsphere-mark.svg" width="44" height="44" alt="GitSphere"></a>
 
-<p align="center">
-  <a href="./README.md"><strong>Browse countries</strong></a> ·
-  <a href="../docs/METHODOLOGY.md">Methodology</a> ·
-  <a href="../README.md">Project home</a>
-</p>
+# 🇸🇸 South Sudan
 
-## Repository ranking status: Building 68%
+<b>Top Repositories</b> — Discover the most-starred GitHub repositories.
 
-- Geography terms processed: **32 / 47**
-- Progress: **68%**
-- Retained high-potential owner candidates: **54**
-- Search requests completed: **49**
-- Unresolved shards: **0**
+<sub><b>Top Repositories</b> &nbsp;·&nbsp; <a href="./developers/south-sudan.md">Top Developers</a> &nbsp;·&nbsp; <a href="./contributors/south-sudan.md">Top Contributors</a></sub>
 
-The crawler saves its exact shard queue and pagination cursor, so progress continues across GitHub Actions runs instead of restarting.
+</div>
 
-## Early preview
+<div align="center">
 
-> These are the strongest repository candidates discovered **so far**. This is not the final country ranking and can change as city, town, district, alias, and search-shard coverage expands.
+| Status | Repositories | Oldest verification | Data |
+| :---: | :---: | :---: | :---: |
+| 🟠 Stale | **7** | 03 Nov 2026 | <a href="../data/SS.json">JSON</a> |
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [longmaker2/alu-webstack](https://github.com/longmaker2/alu-webstack) | **4** | Juba |
-| [ayudmin/laravel_docker.test](https://github.com/ayudmin/laravel_docker.test) | **2** | Juba  |
-| [29CeeJee/CHRIS-ABAHA](https://github.com/29CeeJee/CHRIS-ABAHA) | **1** | Juba  |
-| [Arou355/polls_java_server](https://github.com/Arou355/polls_java_server) | **1** | Juba/Kigali |
-| [DalsinaLorda/enilemega](https://github.com/DalsinaLorda/enilemega) | **1** | juba |
-| [David-ghak/dragon](https://github.com/David-ghak/dragon) | **1** | Juba  |
-| [dedenyar/Souk-junub](https://github.com/dedenyar/Souk-junub) | **1** | Juba |
-| [Dengtiel/Dengtiel](https://github.com/Dengtiel/Dengtiel) | **1** | Juba/Online |
-| [Drategody/Drategody](https://github.com/Drategody/Drategody) | **1** | Juba  |
-| [joseph-akaro/hopelens](https://github.com/joseph-akaro/hopelens) | **1** | Juba |
-| [JuniorBillkid/JuniorBillkid](https://github.com/JuniorBillkid/JuniorBillkid) | **1** | Juba  |
-| [majakM/NFT](https://github.com/majakM/NFT) | **1** | Juba  |
-| [nyikang/aba](https://github.com/nyikang/aba) | **1** | juba |
-| [Nyok455/QuireBye-PetroVision](https://github.com/Nyok455/QuireBye-PetroVision) | **1** | Juba |
-| [Quolcathek/Quolcathek](https://github.com/Quolcathek/Quolcathek) | **1** | Juba |
+> **Not yet re-verified.** 7 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
-When the verified crawl reaches publication readiness, this page is automatically replaced by the most-starred repository ranking.
+</div>
+
+<table>
+<thead><tr><th align="right">#</th><th align="left">Repository</th><th align="right">Stars</th><th align="right">Forks</th><th align="left">Language</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><img src="https://github.com/AndreaFabbri4L.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AndreaFabbri4L/PrimoEsercizioClient-Server-Connection"><b>AndreaFabbri4L/PrimoEsercizioClient-Server-Connection</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/gopherstud.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gopherstud/gopherstud"><b>gopherstud/gopherstud</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/JacobDhieu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JacobDhieu/OG"><b>JacobDhieu/OG</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><img src="https://github.com/lasuba.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lasuba/Isaac"><b>lasuba/Isaac</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/moggamoses.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/moggamoses/lodu"><b>moggamoses/lodu</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/Nasmadein56.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Nasmadein56/-"><b>Nasmadein56/-</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/Niger123321.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Niger123321/Tailwind"><b>Niger123321/Tailwind</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary><b>Coverage and methodology</b></summary>
+
+- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 0 stars; 7 attributed candidates are tracked.
+- 7 entries were carried over from the previous dataset and are pending revalidation.
+- 7 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 0 in round 1.
+- Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
+
+</details>
+
+---
+
+<p align="center"><sub><a href="./README.md">← All countries</a> &nbsp;·&nbsp; <a href="../README.md">GitSphere home</a> &nbsp;·&nbsp; <a href="../docs/METHODOLOGY.md">Methodology</a> &nbsp;·&nbsp; <a href="https://github.com/ish4ra/GitSphere">Source</a></sub></p>
+

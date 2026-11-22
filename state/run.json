@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 3,
+  "startedAt": "2026-11-22T10:11:10.383Z",
+  "finishedAt": "2026-11-22T10:11:12.173Z",
+  "stopReason": null,
+  "steps": {},
+  "failures": [],
+  "counters": {
+    "repositoriesSeen": 0,
+    "repositoriesAttributed": 0,
+    "ambiguousLocations": 0,
+    "unknownLocations": 0,
+    "accountsSeen": 0,
+    "accountsAttributed": 0
+  },
+  "api": {
+    "requests": 0,
+    "skipped": true
+  },
+  "registryEvents": {
+    "repositoriesMoved": 0,
+    "repositoriesRemoved": 0,
+    "accountsMoved": 0,
+    "accountsRemoved": 0,
+    "renamed": 0
+  },
+  "health": {
+    "ok": true,
+    "issues": []
+  },
+  "progress": {
+    "ok": true,
+    "reason": "api-skipped"
+  },
+  "publication": {
+    "changed": {
+      "data": 0,
+      "pages": 0
+    },
+    "counts": {
+      "repositories": {
+        "published": 0,
+        "provisional": 0,
+        "building": 0,
+        "stale": 250,
+        "empty": 0,
+        "blocked": 0,
+        "total": 250
+      },
+      "developers": {
+        "published": 0,
+        "provisional": 0,
+        "building": 250,
+        "stale": 0,
+        "empty": 0,
+        "blocked": 0,
+        "total": 250
+      },
+      "contributors": {
+        "published": 0,
+        "provisional": 0,
+        "building": 250,
+        "stale": 0,
+        "empty": 0,
+        "blocked": 0,
+        "total": 250
+      }
+    },
+    "entries": {
+      "repositories": 20415,
+      "developers": 0,
+      "contributors": 0
+    }
+  },
+  "runtimeSeconds": 11
+}

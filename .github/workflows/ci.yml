@@ -8,10 +8,14 @@ on:
 permissions:
   contents: read
 
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   test:
     runs-on: ubuntu-24.04
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - name: Checkout
         uses: actions/checkout@v7
@@ -21,11 +25,45 @@ jobs:
         with:
           node-version: 22
 
-      - name: Validate
+      - name: Syntax check and tests
         run: npm run check
 
-      - name: Live GraphQL smoke test
-        if: github.event_name == 'push'
+      - name: Secret scan of generated data
+        run: node scripts/scan-secrets.js data state rankings README.md
+
+  live:
+    # Read-only checks against the real GitHub API with the workflow token.
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    needs: test
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: 22
+
+      - name: Live API verification
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node scripts/live-smoke.js
+        run: npm run verify:live
+
+      - name: Bounded pipeline dry run (nothing is committed)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITSPHERE_MAX_REQUESTS: '220'
+          GITSPHERE_RUNTIME_MINUTES: '12'
+          GITSPHERE_BUDGET_REPOSITORIES: '70'
+          GITSPHERE_BUDGET_LEGACY: '10'
+          GITSPHERE_BUDGET_LOCATIONS: '60'
+          GITSPHERE_BUDGET_FOLLOWERS: '30'
+          GITSPHERE_BUDGET_OWNERS: '10'
+          GITSPHERE_BUDGET_REVALIDATION: '10'
+          GITSPHERE_BUDGET_ACCOUNTS: '10'
+          GITSPHERE_BUDGET_CONTRIBUTIONS: '15'
+        run: |
+          npm run pipeline
+          node scripts/assert-progress.js
+          node scripts/scan-secrets.js data state rankings README.md
