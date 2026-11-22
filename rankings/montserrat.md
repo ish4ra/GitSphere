@@ -1,43 +1,505 @@
-<p align="center" aria-label="Montserrat flag" style="font-size:72px">🇲🇸</p>
+<div align="center">
 
-<h1 align="center">Montserrat</h1>
+<a href="../README.md"><img src="../assets/brand/gitsphere-mark.svg" width="44" height="44" alt="GitSphere"></a>
 
-<p align="center">
-  <a href="./README.md"><strong>Browse countries</strong></a> ·
-  <a href="../docs/METHODOLOGY.md">Methodology</a> ·
-  <a href="../README.md">Project home</a>
-</p>
+# 🇲🇸 Montserrat
 
-## Repository ranking status: Building 100%
+<b>Top Repositories</b> — Discover the most-starred GitHub repositories.
 
-- Geography terms processed: **9 / 9**
-- Progress: **100%**
-- Retained high-potential owner candidates: **27**
-- Search requests completed: **9**
-- Unresolved shards: **0**
+<sub><b>Top Repositories</b> &nbsp;·&nbsp; <a href="./developers/montserrat.md">Top Developers</a> &nbsp;·&nbsp; <a href="./contributors/montserrat.md">Top Contributors</a></sub>
 
-The crawler saves its exact shard queue and pagination cursor, so progress continues across GitHub Actions runs instead of restarting.
+</div>
 
-## Early preview
+<div align="center">
 
-> These are the strongest repository candidates discovered **so far**. This is not the final country ranking and can change as city, town, district, alias, and search-shard coverage expands.
+| Status | Repositories | Last update | Data |
+| :---: | :---: | :---: | :---: |
+| 🟠 Stale | **66** | 22 Nov 2026 | <a href="../data/MS.json">JSON</a> |
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [MagicStarTrace/xiaomi_cloud](https://github.com/MagicStarTrace/xiaomi_cloud) | **24** | 0008 ,Mayer Pike ,Port Lesaborough ,Arkansas ,Montserrat |
-| [Belkworks/tape](https://github.com/Belkworks/tape) | **10** | Montserrat |
-| [ddasilva64/ETLPPT23001esp](https://github.com/ddasilva64/ETLPPT23001esp) | **10** | Olesa de Montserrat |
-| [manishval/pearl](https://github.com/manishval/pearl) | **8** | Montserrat |
-| [gtgbr6t/contrib-pool-3-844](https://github.com/gtgbr6t/contrib-pool-3-844) | **5** | Sheliatown, Montserrat |
-| [holat6/contrib-pool-3-546](https://github.com/holat6/contrib-pool-3-546) | **5** | Port Jonathan, Montserrat |
-| [celebdor/perryt](https://github.com/celebdor/perryt) | **3** | Olesa de Montserrat |
-| [Become-Trainsgender-today/blog](https://github.com/Become-Trainsgender-today/blog) | **1** | Montserrat |
-| [copcaress/LocalAction](https://github.com/copcaress/LocalAction) | **1** | Montserrat |
-| [asans-go/Pipex](https://github.com/asans-go/Pipex) | **0** | Olesa de Montserrat |
-| [CodeSoftSystems/Code](https://github.com/CodeSoftSystems/Code) | **0** | Olesa de Montserrat |
-| [crd-project/crd-project.github.io](https://github.com/crd-project/crd-project.github.io) | **0** | Montserrat |
-| [Davidson-Tavares/Meu-portifolio](https://github.com/Davidson-Tavares/Meu-portifolio) | **0** | Olesa de Montserrat / ES |
-| [dvol/my_first_rails_app](https://github.com/dvol/my_first_rails_app) | **0** | Woodlands, Montserrat |
-| [hopseachgoogle/hopseachgoogle](https://github.com/hopseachgoogle/hopseachgoogle) | **0** | Montserrat (MS) |
+</div>
 
-When the verified crawl reaches publication readiness, this page is automatically replaced by the most-starred repository ranking.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Repository</th><th align="right">Stars</th><th align="right">Forks</th><th align="left">Language</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><img src="https://github.com/MagicStarTrace.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MagicStarTrace/xiaomi_cloud"><b>MagicStarTrace/xiaomi&#95;cloud</b></a></td>
+<td align="right"><b>24</b></td>
+<td align="right">1</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/MagicStarTrace.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MagicStarTrace/huawei_cloud"><b>MagicStarTrace/huawei&#95;cloud</b></a></td>
+<td align="right"><b>14</b></td>
+<td align="right">1</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/tape"><b>Belkworks/tape</b></a></td>
+<td align="right"><b>10</b></td>
+<td align="right">0</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><img src="https://github.com/MagicStarTrace.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MagicStarTrace/ha_traccar"><b>MagicStarTrace/ha&#95;traccar</b></a></td>
+<td align="right"><b>9</b></td>
+<td align="right">3</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/manishval.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/manishval/pearl"><b>manishval/pearl</b></a></td>
+<td align="right"><b>8</b></td>
+<td align="right">3</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/quick"><b>Belkworks/quick</b></a> <sub>archived</sub></td>
+<td align="right"><b>6</b></td>
+<td align="right">0</td>
+<td>MoonScript</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/rbxts-tape-template"><b>Belkworks/rbxts-tape-template</b></a></td>
+<td align="right"><b>5</b></td>
+<td align="right">0</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><img src="https://github.com/gtgbr6t.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gtgbr6t/contrib-pool-3-844"><b>gtgbr6t/contrib-pool-3-844</b></a></td>
+<td align="right"><b>5</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/holat6.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/holat6/contrib-pool-3-546"><b>holat6/contrib-pool-3-546</b></a></td>
+<td align="right"><b>5</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/NEON"><b>Belkworks/NEON</b></a> <sub>archived</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">1</td>
+<td>MoonScript</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/future"><b>Belkworks/future</b></a> <sub>archived</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td>MoonScript</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/MagicStarTrace.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MagicStarTrace/JiKe_GateWay_AC_HA"><b>MagicStarTrace/JiKe&#95;GateWay&#95;AC&#95;HA</b></a></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/MagicStarTrace.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MagicStarTrace/ubuntu-xrdp-chrom"><b>MagicStarTrace/ubuntu-xrdp-chrom</b></a></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/Become-Trainsgender-today.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Become-Trainsgender-today/blog"><b>Become-Trainsgender-today/blog</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>Astro</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/broom"><b>Belkworks/broom</b></a> <sub>archived</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>MoonScript</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/hold"><b>Belkworks/hold</b></a> <sub>archived</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>MoonScript</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/rbxts-synapse-types"><b>Belkworks/rbxts-synapse-types</b></a> <sub>archived</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/state-clerk"><b>Belkworks/state-clerk</b></a> <sub>archived</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>MoonScript</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><img src="https://github.com/copcaress.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/copcaress/LocalAction"><b>copcaress/LocalAction</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>Lua</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/synlog"><b>Belkworks/synlog</b></a> <sub>archived</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/bucket"><b>Belkworks/bucket</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><img src="https://github.com/manishval.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/manishval/rails-opsworks-cookbooks"><b>manishval/rails-opsworks-cookbooks</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td><img src="https://github.com/SpicePayne.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SpicePayne/devops-group18"><b>SpicePayne/devops-group18</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td><img src="https://github.com/SpicePayne.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SpicePayne/set08801"><b>SpicePayne/set08801</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/.github"><b>Belkworks/.github</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/builder"><b>Belkworks/builder</b></a> <sub>archived</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>MoonScript</td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/chain"><b>Belkworks/chain</b></a> <sub>archived</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>MoonScript</td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/chalk"><b>Belkworks/chalk</b></a> <sub>archived</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>MoonScript</td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/chance"><b>Belkworks/chance</b></a> <sub>archived</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>MoonScript</td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/charm-utils"><b>Belkworks/charm-utils</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">31</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/clerk"><b>Belkworks/clerk</b></a> <sub>archived</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">32</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/conch"><b>Belkworks/conch</b></a> <sub>archived</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">33</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/couchdb"><b>Belkworks/couchdb</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">34</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/day"><b>Belkworks/day</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">35</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/envo"><b>Belkworks/envo</b></a> <sub>archived</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>MoonScript</td>
+</tr>
+<tr>
+<td align="right">36</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/flags"><b>Belkworks/flags</b></a> <sub>archived</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>MoonScript</td>
+</tr>
+<tr>
+<td align="right">37</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/flamework-template"><b>Belkworks/flamework-template</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">38</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/flat"><b>Belkworks/flat</b></a> <sub>archived</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>MoonScript</td>
+</tr>
+<tr>
+<td align="right">39</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/flipt-roblox"><b>Belkworks/flipt-roblox</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>Luau</td>
+</tr>
+<tr>
+<td align="right">40</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/gate"><b>Belkworks/gate</b></a> <sub>archived</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>MoonScript</td>
+</tr>
+<tr>
+<td align="right">41</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/lambda"><b>Belkworks/lambda</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">42</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/logfile"><b>Belkworks/logfile</b></a> <sub>archived</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>MoonScript</td>
+</tr>
+<tr>
+<td align="right">43</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/machine"><b>Belkworks/machine</b></a> <sub>archived</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>MoonScript</td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/maybe"><b>Belkworks/maybe</b></a> <sub>archived</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>MoonScript</td>
+</tr>
+<tr>
+<td align="right">45</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/mono"><b>Belkworks/mono</b></a> <sub>archived</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>MoonScript</td>
+</tr>
+<tr>
+<td align="right">46</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/ms"><b>Belkworks/ms</b></a> <sub>archived</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>MoonScript</td>
+</tr>
+<tr>
+<td align="right">47</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/nest"><b>Belkworks/nest</b></a> <sub>archived</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>MoonScript</td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/promise-queue"><b>Belkworks/promise-queue</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/quick2"><b>Belkworks/quick2</b></a> <sub>archived</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/record-keeper"><b>Belkworks/record-keeper</b></a> <sub>archived</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">51</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/result"><b>Belkworks/result</b></a> <sub>archived</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>MoonScript</td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/show"><b>Belkworks/show</b></a> <sub>archived</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>MoonScript</td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/sieve"><b>Belkworks/sieve</b></a> <sub>archived</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>MoonScript</td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/stringy"><b>Belkworks/stringy</b></a> <sub>archived</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>MoonScript</td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/Belkworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Belkworks/synlog-sink"><b>Belkworks/synlog-sink</b></a> <sub>archived</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><img src="https://github.com/copcaress.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/copcaress/copcaress"><b>copcaress/copcaress</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><img src="https://github.com/crd-project.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/crd-project/crd-project.github.io"><b>crd-project/crd-project.github.io</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><img src="https://github.com/crd-project.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/crd-project/first-blog-front"><b>crd-project/first-blog-front</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><img src="https://github.com/crd-project.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/crd-project/qs-simple-landing-no-backend"><b>crd-project/qs-simple-landing-no-backend</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><img src="https://github.com/dvol.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dvol/my_first_rails_app"><b>dvol/my&#95;first&#95;rails&#95;app</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><img src="https://github.com/hopseachgoogle.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hopseachgoogle/hopseachgoogle"><b>hopseachgoogle/hopseachgoogle</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><img src="https://github.com/NeverPlayerG.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NeverPlayerG/learnhaskell"><b>NeverPlayerG/learnhaskell</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/obsoleta.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/obsoleta/plumbicon"><b>obsoleta/plumbicon</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><img src="https://github.com/vanessaovmark.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vanessaovmark/Web-Developer-Design"><b>vanessaovmark/Web-Developer-Design</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><img src="https://github.com/Vanya993.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Vanya993/Vanya993"><b>Vanya993/Vanya993</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><img src="https://github.com/wake-up-sluts.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wake-up-sluts/a"><b>wake-up-sluts/a</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary><b>Coverage and methodology</b></summary>
+
+- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Global star scan:** every public non-fork repository with at least **—** stars has been enumerated (current cycle in progress).
+- **Cutoff:** the last listed repository has 0 stars; 66 attributed candidates are tracked.
+- 66 entries were carried over from the previous dataset and are pending revalidation.
+- 16 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 0 in round 1.
+- Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
+
+</details>
+
+---
+
+<p align="center"><sub><a href="./README.md">← All countries</a> &nbsp;·&nbsp; <a href="../README.md">GitSphere home</a> &nbsp;·&nbsp; <a href="../docs/METHODOLOGY.md">Methodology</a> &nbsp;·&nbsp; <a href="https://github.com/ish4ra/GitSphere">Source</a></sub></p>
+

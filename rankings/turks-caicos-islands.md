@@ -1,43 +1,225 @@
-<p align="center" aria-label="Turks &amp; Caicos Islands flag" style="font-size:72px">🇹🇨</p>
+<div align="center">
 
-<h1 align="center">Turks &amp; Caicos Islands</h1>
+<a href="../README.md"><img src="../assets/brand/gitsphere-mark.svg" width="44" height="44" alt="GitSphere"></a>
 
-<p align="center">
-  <a href="./README.md"><strong>Browse countries</strong></a> ·
-  <a href="../docs/METHODOLOGY.md">Methodology</a> ·
-  <a href="../README.md">Project home</a>
-</p>
+# 🇹🇨 Turks &amp; Caicos Islands
 
-## Repository ranking status: Building 100%
+<b>Top Repositories</b> — Discover the most-starred GitHub repositories.
 
-- Geography terms processed: **32 / 32**
-- Progress: **100%**
-- Retained high-potential owner candidates: **27**
-- Search requests completed: **32**
-- Unresolved shards: **0**
+<sub><b>Top Repositories</b> &nbsp;·&nbsp; <a href="./developers/turks-caicos-islands.md">Top Developers</a> &nbsp;·&nbsp; <a href="./contributors/turks-caicos-islands.md">Top Contributors</a></sub>
 
-The crawler saves its exact shard queue and pagination cursor, so progress continues across GitHub Actions runs instead of restarting.
+</div>
 
-## Early preview
+<div align="center">
 
-> These are the strongest repository candidates discovered **so far**. This is not the final country ranking and can change as city, town, district, alias, and search-shard coverage expands.
+| Status | Repositories | Last update | Data |
+| :---: | :---: | :---: | :---: |
+| 🟠 Stale | **26** | 22 Nov 2026 | <a href="../data/TC.json">JSON</a> |
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [doobeh/Flask-S3-Uploader](https://github.com/doobeh/Flask-S3-Uploader) | **97** | Turks and Caicos Islands |
-| [haktanpolatt/INF443_21401926_21401933_21401934](https://github.com/haktanpolatt/INF443_21401926_21401933_21401934) | **6** | Turks and Caicos Islands |
-| [ga5t/contrib-pool-3-359](https://github.com/ga5t/contrib-pool-3-359) | **5** | New Miguelfort, Turks and Caicos Islands |
-| [fixin0/Fix2Engine](https://github.com/fixin0/Fix2Engine) | **2** | Turks and Caicos Islands |
-| [Tasheka/Bootstrap-Project](https://github.com/Tasheka/Bootstrap-Project) | **2** | Turks and Caicos Islands |
-| [madusankap/turing](https://github.com/madusankap/turing) | **1** | Palm Grove, Colombo 03 |
-| [anayadoraelk/anayadoraelk](https://github.com/anayadoraelk/anayadoraelk) | **0** | Turks & Caicos Islands (TC) |
-| [aquaeliakruger/aquaeliakruger](https://github.com/aquaeliakruger/aquaeliakruger) | **0** | Turks & Caicos Islands (TC) |
-| [bdanny2/TypingTutor](https://github.com/bdanny2/TypingTutor) | **0** | Turks and Caicos Islands |
-| [BuritoGrizon/django-activity-stream](https://github.com/BuritoGrizon/django-activity-stream) | **0** | Turks and Caicos Islands |
-| [CFBlacdragoon/xamarin-forms-samples](https://github.com/CFBlacdragoon/xamarin-forms-samples) | **0** | Turks and Caicos Islands |
-| [DovanoKM/hello-world](https://github.com/DovanoKM/hello-world) | **0** | Providenciales |
-| [frn-development/Messager-bot](https://github.com/frn-development/Messager-bot) | **0** | Turks and Caicos Islands |
-| [head-dunce/parcelpirate](https://github.com/head-dunce/parcelpirate) | **0** | Middle Caicos |
-| [johnwuelk/tigrinya.net](https://github.com/johnwuelk/tigrinya.net) | **0** | Providenciales |
+</div>
 
-When the verified crawl reaches publication readiness, this page is automatically replaced by the most-starred repository ranking.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Repository</th><th align="right">Stars</th><th align="right">Forks</th><th align="left">Language</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><img src="https://github.com/doobeh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/doobeh/Flask-S3-Uploader"><b>doobeh/Flask-S3-Uploader</b></a></td>
+<td align="right"><b>97</b></td>
+<td align="right">41</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/haktanpolatt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/haktanpolatt/INF443_21401926_21401933_21401934"><b>haktanpolatt/INF443&#95;21401926&#95;21401933&#95;21401934</b></a></td>
+<td align="right"><b>6</b></td>
+<td align="right">0</td>
+<td>Svelte</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/ga5t.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ga5t/contrib-pool-3-359"><b>ga5t/contrib-pool-3-359</b></a></td>
+<td align="right"><b>5</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><img src="https://github.com/fixin0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fixin0/Fix2Engine"><b>fixin0/Fix2Engine</b></a></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/Tasheka.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Tasheka/Bootstrap-Project"><b>Tasheka/Bootstrap-Project</b></a></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/madusankap.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/madusankap/turing"><b>madusankap/turing</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/anayadoraelk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anayadoraelk/anayadoraelk"><b>anayadoraelk/anayadoraelk</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><img src="https://github.com/aquaeliakruger.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aquaeliakruger/aquaeliakruger"><b>aquaeliakruger/aquaeliakruger</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/bdanny2.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bdanny2/TypingTutor"><b>bdanny2/TypingTutor</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/BuritoGrizon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/BuritoGrizon/django-activity-stream"><b>BuritoGrizon/django-activity-stream</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/CFBlacdragoon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CFBlacdragoon/xamarin-forms-samples"><b>CFBlacdragoon/xamarin-forms-samples</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/DovanoKM.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DovanoKM/hello-world"><b>DovanoKM/hello-world</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/frn-development.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/frn-development/Messager-bot"><b>frn-development/Messager-bot</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/head-dunce.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/head-dunce/parcelpirate"><b>head-dunce/parcelpirate</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><img src="https://github.com/johnwuelk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/johnwuelk/tigrinya.net"><b>johnwuelk/tigrinya.net</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><img src="https://github.com/KINGJP500.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KINGJP500/property-clone"><b>KINGJP500/property-clone</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><img src="https://github.com/MJennings97.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MJennings97/hairenvy"><b>MJennings97/hairenvy</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><img src="https://github.com/Nabla20.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Nabla20/CHAMPINsum"><b>Nabla20/CHAMPINsum</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><img src="https://github.com/omerpinar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/omerpinar/dartflutter"><b>omerpinar/dartflutter</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><img src="https://github.com/PPHconsultancy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PPHconsultancy/PPH-consultancy-website"><b>PPHconsultancy/PPH-consultancy-website</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><img src="https://github.com/Quidni-Group.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Quidni-Group/wundergun"><b>Quidni-Group/wundergun</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><img src="https://github.com/RoyJax579.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RoyJax579/Python"><b>RoyJax579/Python</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td><img src="https://github.com/SCATPACKH3M1392.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SCATPACKH3M1392/BLACKCHARG3R"><b>SCATPACKH3M1392/BLACKCHARG3R</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td><img src="https://github.com/sudonpm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sudonpm/rnpopulate"><b>sudonpm/rnpopulate</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td><img src="https://github.com/TargonYazilim.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TargonYazilim/VSSApi"><b>TargonYazilim/VSSApi</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td><img src="https://github.com/techpreneur02.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/techpreneur02/theme"><b>techpreneur02/theme</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>PHP</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary><b>Coverage and methodology</b></summary>
+
+- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Global star scan:** every public non-fork repository with at least **—** stars has been enumerated (current cycle in progress).
+- **Cutoff:** the last listed repository has 0 stars; 26 attributed candidates are tracked.
+- 26 entries were carried over from the previous dataset and are pending revalidation.
+- 26 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 0 in round 1.
+- Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
+
+</details>
+
+---
+
+<p align="center"><sub><a href="./README.md">← All countries</a> &nbsp;·&nbsp; <a href="../README.md">GitSphere home</a> &nbsp;·&nbsp; <a href="../docs/METHODOLOGY.md">Methodology</a> &nbsp;·&nbsp; <a href="https://github.com/ish4ra/GitSphere">Source</a></sub></p>
+

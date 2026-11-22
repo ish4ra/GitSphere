@@ -145,7 +145,11 @@ export async function locationScanStep(context, budget) {
   const { stateDir, now, resolver, settings, log } = context;
   const indexFile = path.join(stateDir, 'locations', 'index.json');
   const index = (await readJson(indexFile, null)) || { schemaVersion: 3, pointer: 0, passes: 0 };
-  const codes = COUNTRIES.map((country) => country.code).sort();
+  // An optional explicit country list (GITSPHERE_LOCATION_COUNTRIES) is
+  // processed first, e.g. for a targeted recovery run.
+  const codes = settings.locationCountries?.length
+    ? [...settings.locationCountries]
+    : COUNTRIES.map((country) => country.code).sort();
   const start = context.client.stats.requests;
   const fetchPage = searchAccountsPage(context.client, { withTopRepository: true });
   const touched = new Set();
@@ -153,9 +157,14 @@ export async function locationScanStep(context, budget) {
   const owners = context.ownerCandidates;
 
   while (context.canContinue() && context.client.stats.requests - start < budget && visited < codes.length) {
-    const code = codes[index.pointer % codes.length];
-    index.pointer = (index.pointer + 1) % codes.length;
-    if (index.pointer === 0) index.passes += 1;
+    let code;
+    if (settings.locationCountries?.length) {
+      code = codes[visited];
+    } else {
+      code = codes[index.pointer % codes.length];
+      index.pointer = (index.pointer + 1) % codes.length;
+      if (index.pointer === 0) index.passes += 1;
+    }
     visited += 1;
 
     const terms = resolver.discoveryTerms(code);
@@ -196,7 +205,8 @@ export async function locationScanStep(context, budget) {
     await writeJson(indexFile, index);
   }
   await writeJson(indexFile, index);
-  return { requests: context.client.stats.requests - start, countries: touched.size, pointer: index.pointer };
+  const requests = context.client.stats.requests - start;
+  return { requests, pages: requests, countries: touched.size, pointer: index.pointer };
 }
 
 /** Expands multi-repository owners whose top repository could rank. */

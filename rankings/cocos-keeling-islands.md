@@ -1,37 +1,92 @@
-<p align="center" aria-label="Cocos (Keeling) Islands flag" style="font-size:72px">🇨🇨</p>
+<div align="center">
 
-<h1 align="center">Cocos (Keeling) Islands</h1>
+<a href="../README.md"><img src="../assets/brand/gitsphere-mark.svg" width="44" height="44" alt="GitSphere"></a>
 
-<p align="center">
-  <a href="./README.md"><strong>Browse countries</strong></a> ·
-  <a href="../docs/METHODOLOGY.md">Methodology</a> ·
-  <a href="../README.md">Project home</a>
-</p>
+# 🇨🇨 Cocos (Keeling) Islands
 
-## Repository ranking status: Building 100%
+<b>Top Repositories</b> — Discover the most-starred GitHub repositories.
 
-- Geography terms processed: **21 / 21**
-- Progress: **100%**
-- Retained high-potential owner candidates: **9**
-- Search requests completed: **21**
-- Unresolved shards: **0**
+<sub><b>Top Repositories</b> &nbsp;·&nbsp; <a href="./developers/cocos-keeling-islands.md">Top Developers</a> &nbsp;·&nbsp; <a href="./contributors/cocos-keeling-islands.md">Top Contributors</a></sub>
 
-The crawler saves its exact shard queue and pagination cursor, so progress continues across GitHub Actions runs instead of restarting.
+</div>
 
-## Early preview
+<div align="center">
 
-> These are the strongest repository candidates discovered **so far**. This is not the final country ranking and can change as city, town, district, alias, and search-shard coverage expands.
+| Status | Repositories | Last update | Data |
+| :---: | :---: | :---: | :---: |
+| 🟠 Stale | **7** | 22 Nov 2026 | <a href="../data/CC.json">JSON</a> |
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [rohwid/auto-nvidia-cuda-driver](https://github.com/rohwid/auto-nvidia-cuda-driver) | **6** | Cocos (Keeling) Islands |
-| [Justct/justct.github.io](https://github.com/Justct/justct.github.io) | **3** | Cocos (Keeling) Islands |
-| [ImminentDisasterTeam/gmtk-jam-2021-project](https://github.com/ImminentDisasterTeam/gmtk-jam-2021-project) | **2** | Cocos (Keeling) Islands |
-| [zklaunch-app/data-handler](https://github.com/zklaunch-app/data-handler) | **2** | Cocos (Keeling) Islands |
-| [defiocean-io/bell-platforms](https://github.com/defiocean-io/bell-platforms) | **0** | Cocos (Keeling) Islands |
-| [epichelloguy/deepjazz](https://github.com/epichelloguy/deepjazz) | **0** | Cocos (Keeling) Islands |
-| [funproxy/Documents](https://github.com/funproxy/Documents) | **0** | Cocos (Keeling) Islands |
-| [lifelikerham/lifelikerham](https://github.com/lifelikerham/lifelikerham) | **0** | Cocos (Keeling) Islands (CC) |
-| [revolloverr/Toys4Us](https://github.com/revolloverr/Toys4Us) | **0** | Montreal \| West Island |
+</div>
 
-When the verified crawl reaches publication readiness, this page is automatically replaced by the most-starred repository ranking.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Repository</th><th align="right">Stars</th><th align="right">Forks</th><th align="left">Language</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><img src="https://github.com/rohwid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rohwid/auto-nvidia-cuda-driver"><b>rohwid/auto-nvidia-cuda-driver</b></a></td>
+<td align="right"><b>6</b></td>
+<td align="right">3</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/Justct.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Justct/justct.github.io"><b>Justct/justct.github.io</b></a></td>
+<td align="right"><b>3</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/ImminentDisasterTeam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ImminentDisasterTeam/gmtk-jam-2021-project"><b>ImminentDisasterTeam/gmtk-jam-2021-project</b></a></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><img src="https://github.com/zklaunch-app.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zklaunch-app/data-handler"><b>zklaunch-app/data-handler</b></a></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/defiocean-io.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/defiocean-io/bell-platforms"><b>defiocean-io/bell-platforms</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/epichelloguy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/epichelloguy/deepjazz"><b>epichelloguy/deepjazz</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/funproxy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/funproxy/Documents"><b>funproxy/Documents</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary><b>Coverage and methodology</b></summary>
+
+- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Global star scan:** every public non-fork repository with at least **—** stars has been enumerated (current cycle in progress).
+- **Cutoff:** the last listed repository has 0 stars; 7 attributed candidates are tracked.
+- 7 entries were carried over from the previous dataset and are pending revalidation.
+- 7 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 0 in round 1.
+- Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
+
+</details>
+
+---
+
+<p align="center"><sub><a href="./README.md">← All countries</a> &nbsp;·&nbsp; <a href="../README.md">GitSphere home</a> &nbsp;·&nbsp; <a href="../docs/METHODOLOGY.md">Methodology</a> &nbsp;·&nbsp; <a href="https://github.com/ish4ra/GitSphere">Source</a></sub></p>
+

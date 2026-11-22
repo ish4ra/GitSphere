@@ -1,53 +1,225 @@
-<p align="center" aria-label="American Samoa flag" style="font-size:72px">🇦🇸</p>
+<div align="center">
 
-<h1 align="center">American Samoa</h1>
+<a href="../README.md"><img src="../assets/brand/gitsphere-mark.svg" width="44" height="44" alt="GitSphere"></a>
 
-<p align="center">
-  <a href="./README.md"><strong>Browse countries</strong></a> ·
-  <a href="../docs/METHODOLOGY.md">Methodology</a> ·
-  <a href="../README.md">Project home</a>
-</p>
+# 🇦🇸 American Samoa
 
-## Repository ranking status: Building 35%
+<b>Top Repositories</b> — Discover the most-starred GitHub repositories.
 
-- Geography terms processed: **21 / 59**
-- Progress: **35%**
-- Retained high-potential owner candidates: **0**
-- Search requests completed: **40**
-- Unresolved shards: **0**
+<sub><b>Top Repositories</b> &nbsp;·&nbsp; <a href="./developers/american-samoa.md">Top Developers</a> &nbsp;·&nbsp; <a href="./contributors/american-samoa.md">Top Contributors</a></sub>
 
-The crawler saves its exact shard queue and pagination cursor, so progress continues across GitHub Actions runs instead of restarting.
+</div>
 
-## Repository-first scan
+<div align="center">
 
-- Verified high-star candidates retained: **23**
-- Current global star frontier: **215**
+| Status | Repositories | Last update | Data |
+| :---: | :---: | :---: | :---: |
+| 🟠 Stale | **26** | 22 Nov 2026 | <a href="../data/AS.json">JSON</a> |
 
-### High-star verified preview
+</div>
 
-> These repositories were found by the independent global stars-desc scan and their owner locations resolved to this country. The list becomes final only when the global scan frontier drops below the country’s 100th-place star cutoff.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Repository</th><th align="right">Stars</th><th align="right">Forks</th><th align="left">Language</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><img src="https://github.com/neoclide.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neoclide/coc.nvim"><b>neoclide/coc.nvim</b></a></td>
+<td align="right"><b>25,155</b></td>
+<td align="right">951</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/FullAgent.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FullAgent/fulling"><b>FullAgent/fulling</b></a></td>
+<td align="right"><b>2,446</b></td>
+<td align="right">235</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/neoclide.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neoclide/coc-tsserver"><b>neoclide/coc-tsserver</b></a></td>
+<td align="right"><b>1,077</b></td>
+<td align="right">70</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><img src="https://github.com/neoclide.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neoclide/coc-snippets"><b>neoclide/coc-snippets</b></a></td>
+<td align="right"><b>973</b></td>
+<td align="right">43</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/gowvp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gowvp/owl"><b>gowvp/owl</b></a></td>
+<td align="right"><b>811</b></td>
+<td align="right">162</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/neoclide.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neoclide/coc-python"><b>neoclide/coc-python</b></a> <sub>archived</sub></td>
+<td align="right"><b>568</b></td>
+<td align="right">50</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/neoclide.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neoclide/coc-prettier"><b>neoclide/coc-prettier</b></a></td>
+<td align="right"><b>537</b></td>
+<td align="right">44</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><img src="https://github.com/neoclide.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neoclide/coc-java"><b>neoclide/coc-java</b></a></td>
+<td align="right"><b>473</b></td>
+<td align="right">42</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/KitionAI.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KitionAI/kition"><b>KitionAI/kition</b></a></td>
+<td align="right"><b>462</b></td>
+<td align="right">35</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/neoclide.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neoclide/coc-tabnine"><b>neoclide/coc-tabnine</b></a> <sub>archived</sub></td>
+<td align="right"><b>458</b></td>
+<td align="right">17</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/NLPOptimize.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NLPOptimize/flash-tokenizer"><b>NLPOptimize/flash-tokenizer</b></a></td>
+<td align="right"><b>458</b></td>
+<td align="right">11</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/neoclide.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neoclide/coc-git"><b>neoclide/coc-git</b></a></td>
+<td align="right"><b>422</b></td>
+<td align="right">41</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/devlive-community.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/devlive-community/dbm"><b>devlive-community/dbm</b></a></td>
+<td align="right"><b>405</b></td>
+<td align="right">53</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/neoclide.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neoclide/coc-rls"><b>neoclide/coc-rls</b></a> <sub>archived</sub></td>
+<td align="right"><b>391</b></td>
+<td align="right">19</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><img src="https://github.com/neoclide.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neoclide/coc-eslint"><b>neoclide/coc-eslint</b></a></td>
+<td align="right"><b>390</b></td>
+<td align="right">22</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><img src="https://github.com/neoclide.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neoclide/coc-pairs"><b>neoclide/coc-pairs</b></a></td>
+<td align="right"><b>298</b></td>
+<td align="right">15</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><img src="https://github.com/neoclide.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neoclide/vim-jsx-improve"><b>neoclide/vim-jsx-improve</b></a></td>
+<td align="right"><b>279</b></td>
+<td align="right">23</td>
+<td>Vim Script</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><img src="https://github.com/neoclide.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neoclide/coc-lists"><b>neoclide/coc-lists</b></a></td>
+<td align="right"><b>260</b></td>
+<td align="right">22</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><img src="https://github.com/neoclide.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neoclide/coc-yaml"><b>neoclide/coc-yaml</b></a></td>
+<td align="right"><b>244</b></td>
+<td align="right">24</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><img src="https://github.com/neoclide.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neoclide/coc-json"><b>neoclide/coc-json</b></a></td>
+<td align="right"><b>238</b></td>
+<td align="right">23</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><img src="https://github.com/Vpay-Collection.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Vpay-Collection/VPay"><b>Vpay-Collection/VPay</b></a></td>
+<td align="right"><b>228</b></td>
+<td align="right">73</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><img src="https://github.com/neoclide.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neoclide/coc-highlight"><b>neoclide/coc-highlight</b></a></td>
+<td align="right"><b>226</b></td>
+<td align="right">11</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td><img src="https://github.com/neoclide.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neoclide/coc-sources"><b>neoclide/coc-sources</b></a></td>
+<td align="right"><b>211</b></td>
+<td align="right">11</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td><img src="https://github.com/breepinkpiggys.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/breepinkpiggys/breepinkpiggys"><b>breepinkpiggys/breepinkpiggys</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td><img src="https://github.com/https-example.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/https-example/sturdy-octo-tribble"><b>https-example/sturdy-octo-tribble</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td><img src="https://github.com/sweetypieredhulk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sweetypieredhulk/sweetypieredhulk"><b>sweetypieredhulk/sweetypieredhulk</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) | **25,155** | American Samoa |
-| [FullAgent/fulling](https://github.com/FullAgent/fulling) | **2,446** | American Samoa |
-| [neoclide/coc-tsserver](https://github.com/neoclide/coc-tsserver) | **1,077** | American Samoa |
-| [neoclide/coc-snippets](https://github.com/neoclide/coc-snippets) | **973** | American Samoa |
-| [gowvp/owl](https://github.com/gowvp/owl) | **811** | American Samoa |
-| [neoclide/coc-python](https://github.com/neoclide/coc-python) | **568** | American Samoa |
-| [neoclide/coc-prettier](https://github.com/neoclide/coc-prettier) | **537** | American Samoa |
-| [neoclide/coc-java](https://github.com/neoclide/coc-java) | **473** | American Samoa |
-| [KitionAI/kition](https://github.com/KitionAI/kition) | **462** | American Samoa |
-| [neoclide/coc-tabnine](https://github.com/neoclide/coc-tabnine) | **458** | American Samoa |
-| [NLPOptimize/flash-tokenizer](https://github.com/NLPOptimize/flash-tokenizer) | **458** | American Samoa |
-| [neoclide/coc-git](https://github.com/neoclide/coc-git) | **422** | American Samoa |
-| [devlive-community/dbm](https://github.com/devlive-community/dbm) | **405** | American Samoa |
-| [neoclide/coc-rls](https://github.com/neoclide/coc-rls) | **391** | American Samoa |
-| [neoclide/coc-eslint](https://github.com/neoclide/coc-eslint) | **390** | American Samoa |
-| [neoclide/coc-pairs](https://github.com/neoclide/coc-pairs) | **298** | American Samoa |
-| [neoclide/vim-jsx-improve](https://github.com/neoclide/vim-jsx-improve) | **279** | American Samoa |
-| [neoclide/coc-lists](https://github.com/neoclide/coc-lists) | **260** | American Samoa |
-| [neoclide/coc-yaml](https://github.com/neoclide/coc-yaml) | **244** | American Samoa |
-| [neoclide/coc-json](https://github.com/neoclide/coc-json) | **238** | American Samoa |
+<details>
+<summary><b>Coverage and methodology</b></summary>
 
-When the verified crawl reaches publication readiness, this page is automatically replaced by the most-starred repository ranking.
+- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Global star scan:** every public non-fork repository with at least **—** stars has been enumerated (current cycle in progress).
+- **Cutoff:** the last listed repository has 0 stars; 26 attributed candidates are tracked.
+- 26 entries were carried over from the previous dataset and are pending revalidation.
+- 3 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 0 in round 1.
+- Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
+
+</details>
+
+---
+
+<p align="center"><sub><a href="./README.md">← All countries</a> &nbsp;·&nbsp; <a href="../README.md">GitSphere home</a> &nbsp;·&nbsp; <a href="../docs/METHODOLOGY.md">Methodology</a> &nbsp;·&nbsp; <a href="https://github.com/ish4ra/GitSphere">Source</a></sub></p>
+

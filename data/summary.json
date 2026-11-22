@@ -1,0 +1,3822 @@
+{
+  "schemaVersion": 3,
+  "methodologyVersion": "1.0.0",
+  "generatedAt": "2026-11-22T08:29:21.106Z",
+  "scans": {
+    "repositories": {
+      "cycle": 0,
+      "verifiedFloor": null
+    },
+    "followers": {
+      "cycle": 0,
+      "verifiedFloor": null
+    },
+    "locations": {
+      "countriesStarted": 0,
+      "countriesWithCompletedRound": 0
+    }
+  },
+  "lastRun": {
+    "startedAt": "2026-11-22T08:29:21.012Z",
+    "requests": 0,
+    "stopReason": null,
+    "failures": 0
+  },
+  "modes": {
+    "repositories": {
+      "counts": {
+        "published": 0,
+        "provisional": 0,
+        "building": 0,
+        "stale": 250,
+        "empty": 0,
+        "blocked": 0,
+        "total": 250
+      },
+      "entries": 20415,
+      "countriesWithResults": 250,
+      "countries": {
+        "AF": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AX": {
+          "status": "stale",
+          "entries": 55,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AL": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "DZ": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AS": {
+          "status": "stale",
+          "entries": 26,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AD": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AO": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AI": {
+          "status": "stale",
+          "entries": 25,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AQ": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AG": {
+          "status": "stale",
+          "entries": 54,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AR": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AM": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AW": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AU": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AT": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AZ": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BS": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BH": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BD": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BB": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BY": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BE": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BZ": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BJ": {
+          "status": "stale",
+          "entries": 8,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BM": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BT": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BO": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BA": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BW": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BV": {
+          "status": "stale",
+          "entries": 19,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BR": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "IO": {
+          "status": "stale",
+          "entries": 17,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "VG": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BN": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BG": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BF": {
+          "status": "stale",
+          "entries": 17,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BI": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KH": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CM": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CA": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CV": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BQ": {
+          "status": "stale",
+          "entries": 14,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KY": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CF": {
+          "status": "stale",
+          "entries": 19,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TD": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CL": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CN": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CX": {
+          "status": "stale",
+          "entries": 76,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CC": {
+          "status": "stale",
+          "entries": 7,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CO": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KM": {
+          "status": "stale",
+          "entries": 44,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CK": {
+          "status": "stale",
+          "entries": 33,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CR": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CI": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "HR": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CU": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CW": {
+          "status": "stale",
+          "entries": 71,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CY": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CZ": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "DK": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "DJ": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "DM": {
+          "status": "stale",
+          "entries": 63,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "DO": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CD": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "EC": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "EG": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SV": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GQ": {
+          "status": "stale",
+          "entries": 42,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ER": {
+          "status": "stale",
+          "entries": 21,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "EE": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SZ": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ET": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "FK": {
+          "status": "stale",
+          "entries": 15,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "FO": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "FJ": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "FI": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "FR": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GF": {
+          "status": "stale",
+          "entries": 66,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PF": {
+          "status": "stale",
+          "entries": 89,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TF": {
+          "status": "stale",
+          "entries": 8,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GA": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GM": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GE": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "DE": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GH": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GI": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GR": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GL": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GD": {
+          "status": "stale",
+          "entries": 73,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GP": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GU": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GT": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GG": {
+          "status": "stale",
+          "entries": 89,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GN": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GW": {
+          "status": "stale",
+          "entries": 12,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GY": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "HT": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "HM": {
+          "status": "stale",
+          "entries": 27,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "HN": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "HK": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "HU": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "IS": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "IN": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ID": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "IR": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "IQ": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "IE": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "IM": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "IL": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "IT": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "JM": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "JP": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "JE": {
+          "status": "stale",
+          "entries": 65,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "JO": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KZ": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KE": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KI": {
+          "status": "stale",
+          "entries": 24,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "XK": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KW": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KG": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LA": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LV": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LB": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LS": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LR": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LY": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LI": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LT": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LU": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MO": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MG": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MW": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MY": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MV": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ML": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MT": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MH": {
+          "status": "stale",
+          "entries": 58,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MQ": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MR": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MU": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "YT": {
+          "status": "stale",
+          "entries": 49,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MX": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "FM": {
+          "status": "stale",
+          "entries": 19,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MD": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MC": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MN": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ME": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MS": {
+          "status": "stale",
+          "entries": 66,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MA": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MZ": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MM": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NA": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NR": {
+          "status": "stale",
+          "entries": 14,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NP": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NL": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NC": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NZ": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NI": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NE": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NG": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NU": {
+          "status": "stale",
+          "entries": 10,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NF": {
+          "status": "stale",
+          "entries": 6,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KP": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MK": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MP": {
+          "status": "stale",
+          "entries": 19,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NO": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "OM": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PK": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PW": {
+          "status": "stale",
+          "entries": 16,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PS": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PA": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PG": {
+          "status": "stale",
+          "entries": 14,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PY": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PE": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PH": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PN": {
+          "status": "stale",
+          "entries": 5,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PL": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PT": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PR": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "QA": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CG": {
+          "status": "stale",
+          "entries": 34,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "RE": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "RO": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "RU": {
+          "status": "stale",
+          "entries": 3,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "RW": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "WS": {
+          "status": "stale",
+          "entries": 38,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SM": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ST": {
+          "status": "stale",
+          "entries": 18,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SA": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SN": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "RS": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SC": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SL": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SG": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SX": {
+          "status": "stale",
+          "entries": 23,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SK": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SI": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SB": {
+          "status": "stale",
+          "entries": 49,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SO": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ZA": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GS": {
+          "status": "stale",
+          "entries": 2,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KR": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SS": {
+          "status": "stale",
+          "entries": 7,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ES": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LK": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BL": {
+          "status": "stale",
+          "entries": 4,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SH": {
+          "status": "stale",
+          "entries": 14,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KN": {
+          "status": "stale",
+          "entries": 49,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LC": {
+          "status": "stale",
+          "entries": 53,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MF": {
+          "status": "stale",
+          "entries": 6,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PM": {
+          "status": "stale",
+          "entries": 14,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "VC": {
+          "status": "stale",
+          "entries": 35,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SD": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SR": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SJ": {
+          "status": "stale",
+          "entries": 29,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SE": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CH": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SY": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TW": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TJ": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TZ": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TH": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TL": {
+          "status": "stale",
+          "entries": 14,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TG": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TK": {
+          "status": "stale",
+          "entries": 11,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TO": {
+          "status": "stale",
+          "entries": 43,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TT": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TN": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TR": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TM": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TC": {
+          "status": "stale",
+          "entries": 26,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TV": {
+          "status": "stale",
+          "entries": 22,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "UM": {
+          "status": "stale",
+          "entries": 8,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "VI": {
+          "status": "stale",
+          "entries": 14,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "UG": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "UA": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AE": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GB": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "US": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "UY": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "UZ": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "VU": {
+          "status": "stale",
+          "entries": 56,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "VA": {
+          "status": "stale",
+          "entries": 59,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "VE": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "VN": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "WF": {
+          "status": "stale",
+          "entries": 8,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "EH": {
+          "status": "stale",
+          "entries": 21,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "YE": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ZM": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ZW": {
+          "status": "stale",
+          "entries": 100,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        }
+      }
+    },
+    "developers": {
+      "counts": {
+        "published": 0,
+        "provisional": 0,
+        "building": 250,
+        "stale": 0,
+        "empty": 0,
+        "blocked": 0,
+        "total": 250
+      },
+      "entries": 0,
+      "countriesWithResults": 0,
+      "countries": {
+        "AF": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AX": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AL": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "DZ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AS": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AD": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AO": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AI": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AQ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AG": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AR": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AW": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AU": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AT": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AZ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BS": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BH": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BD": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BB": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BY": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BE": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BZ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BJ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BT": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BO": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BA": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BW": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BV": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BR": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "IO": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "VG": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BN": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BG": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BF": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BI": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KH": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CA": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CV": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BQ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KY": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CF": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TD": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CL": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CN": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CX": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CC": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CO": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CK": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CR": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CI": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "HR": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CU": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CW": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CY": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CZ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "DK": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "DJ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "DM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "DO": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CD": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "EC": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "EG": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SV": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GQ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ER": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "EE": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SZ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ET": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "FK": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "FO": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "FJ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "FI": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "FR": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GF": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PF": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TF": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GA": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GE": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "DE": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GH": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GI": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GR": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GL": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GD": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GP": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GU": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GT": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GG": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GN": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GW": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GY": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "HT": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "HM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "HN": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "HK": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "HU": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "IS": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "IN": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ID": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "IR": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "IQ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "IE": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "IM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "IL": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "IT": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "JM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "JP": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "JE": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "JO": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KZ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KE": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KI": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "XK": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KW": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KG": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LA": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LV": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LB": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LS": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LR": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LY": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LI": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LT": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LU": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MO": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MG": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MW": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MY": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MV": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ML": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MT": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MH": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MQ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MR": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MU": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "YT": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MX": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "FM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MD": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MC": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MN": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ME": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MS": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MA": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MZ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NA": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NR": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NP": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NL": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NC": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NZ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NI": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NE": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NG": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NU": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NF": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KP": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MK": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MP": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NO": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "OM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PK": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PW": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PS": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PA": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PG": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PY": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PE": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PH": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PN": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PL": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PT": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PR": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "QA": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CG": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "RE": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "RO": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "RU": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "RW": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "WS": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ST": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SA": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SN": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "RS": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SC": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SL": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SG": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SX": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SK": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SI": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SB": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SO": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ZA": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GS": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KR": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SS": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ES": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LK": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BL": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SH": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KN": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LC": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MF": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "VC": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SD": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SR": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SJ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SE": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CH": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SY": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TW": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TJ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TZ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TH": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TL": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TG": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TK": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TO": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TT": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TN": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TR": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TC": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TV": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "UM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "VI": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "UG": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "UA": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AE": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GB": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "US": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "UY": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "UZ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "VU": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "VA": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "VE": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "VN": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "WF": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "EH": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "YE": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ZM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ZW": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        }
+      }
+    },
+    "contributors": {
+      "counts": {
+        "published": 0,
+        "provisional": 0,
+        "building": 250,
+        "stale": 0,
+        "empty": 0,
+        "blocked": 0,
+        "total": 250
+      },
+      "entries": 0,
+      "countriesWithResults": 0,
+      "countries": {
+        "AF": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AX": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AL": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "DZ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AS": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AD": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AO": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AI": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AQ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AG": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AR": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AW": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AU": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AT": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AZ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BS": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BH": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BD": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BB": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BY": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BE": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BZ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BJ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BT": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BO": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BA": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BW": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BV": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BR": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "IO": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "VG": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BN": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BG": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BF": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BI": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KH": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CA": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CV": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BQ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KY": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CF": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TD": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CL": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CN": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CX": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CC": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CO": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CK": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CR": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CI": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "HR": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CU": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CW": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CY": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CZ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "DK": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "DJ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "DM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "DO": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CD": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "EC": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "EG": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SV": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GQ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ER": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "EE": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SZ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ET": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "FK": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "FO": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "FJ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "FI": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "FR": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GF": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PF": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TF": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GA": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GE": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "DE": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GH": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GI": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GR": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GL": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GD": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GP": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GU": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GT": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GG": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GN": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GW": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GY": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "HT": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "HM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "HN": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "HK": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "HU": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "IS": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "IN": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ID": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "IR": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "IQ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "IE": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "IM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "IL": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "IT": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "JM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "JP": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "JE": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "JO": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KZ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KE": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KI": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "XK": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KW": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KG": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LA": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LV": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LB": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LS": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LR": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LY": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LI": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LT": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LU": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MO": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MG": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MW": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MY": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MV": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ML": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MT": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MH": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MQ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MR": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MU": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "YT": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MX": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "FM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MD": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MC": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MN": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ME": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MS": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MA": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MZ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NA": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NR": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NP": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NL": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NC": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NZ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NI": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NE": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NG": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NU": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NF": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KP": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MK": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MP": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "NO": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "OM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PK": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PW": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PS": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PA": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PG": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PY": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PE": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PH": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PN": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PL": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PT": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PR": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "QA": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CG": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "RE": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "RO": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "RU": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "RW": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "WS": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ST": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SA": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SN": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "RS": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SC": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SL": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SG": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SX": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SK": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SI": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SB": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SO": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ZA": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GS": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KR": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SS": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ES": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LK": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "BL": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SH": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "KN": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "LC": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "MF": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "PM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "VC": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SD": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SR": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SJ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SE": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "CH": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "SY": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TW": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TJ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TZ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TH": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TL": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TG": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TK": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TO": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TT": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TN": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TR": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TC": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "TV": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "UM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "VI": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "UG": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "UA": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "AE": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "GB": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "US": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "UY": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "UZ": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "VU": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "VA": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "VE": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "VN": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "WF": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "EH": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "YE": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ZM": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        },
+        "ZW": {
+          "status": "building",
+          "entries": 0,
+          "updatedAt": "2026-11-22T08:29:21.106Z"
+        }
+      }
+    }
+  }
+}

@@ -1,42 +1,141 @@
-<p align="center" aria-label="St. Pierre &amp; Miquelon flag" style="font-size:72px">🇵🇲</p>
+<div align="center">
 
-<h1 align="center">St. Pierre &amp; Miquelon</h1>
+<a href="../README.md"><img src="../assets/brand/gitsphere-mark.svg" width="44" height="44" alt="GitSphere"></a>
 
-<p align="center">
-  <a href="./README.md"><strong>Browse countries</strong></a> ·
-  <a href="../docs/METHODOLOGY.md">Methodology</a> ·
-  <a href="../README.md">Project home</a>
-</p>
+# 🇵🇲 St. Pierre &amp; Miquelon
 
-## Repository ranking status: Building 100%
+<b>Top Repositories</b> — Discover the most-starred GitHub repositories.
 
-- Geography terms processed: **21 / 21**
-- Progress: **100%**
-- Retained high-potential owner candidates: **14**
-- Search requests completed: **21**
-- Unresolved shards: **0**
+<sub><b>Top Repositories</b> &nbsp;·&nbsp; <a href="./developers/st-pierre-miquelon.md">Top Developers</a> &nbsp;·&nbsp; <a href="./contributors/st-pierre-miquelon.md">Top Contributors</a></sub>
 
-The crawler saves its exact shard queue and pagination cursor, so progress continues across GitHub Actions runs instead of restarting.
+</div>
 
-## Early preview
+<div align="center">
 
-> These are the strongest repository candidates discovered **so far**. This is not the final country ranking and can change as city, town, district, alias, and search-shard coverage expands.
+| Status | Repositories | Last update | Data |
+| :---: | :---: | :---: | :---: |
+| 🟠 Stale | **14** | 22 Nov 2026 | <a href="../data/PM.json">JSON</a> |
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [bitopblogger/bitopblogger](https://github.com/bitopblogger/bitopblogger) | **0** | St Pierre & Miquelon (PM) |
-| [blackpearlduke/blackpearlduke](https://github.com/blackpearlduke/blackpearlduke) | **0** | Saint-Pierre en Miquelon (PM) |
-| [bromrustyryan/bromrustyryan](https://github.com/bromrustyryan/bromrustyryan) | **0** | St. Pierre & Miquelon (PM) |
-| [iamzadrotmrproper/iamzadrotmrproper](https://github.com/iamzadrotmrproper/iamzadrotmrproper) | **0** | St Pierre & Miquelon (PM) |
-| [linkertnature/linkertnature](https://github.com/linkertnature/linkertnature) | **0** | St Pierre & Miquelon (PM) |
-| [MatyW31/OpenclassroomP](https://github.com/MatyW31/OpenclassroomP) | **0** | Saint pierre et miquelon |
-| [netviolet/the_ebooks](https://github.com/netviolet/the_ebooks) | **0** | Saint-Pierre-et-Miquelon |
-| [Paul-BDT/Paul-BDT](https://github.com/Paul-BDT/Paul-BDT) | **0** | St-Pierre & Miquelon |
-| [ringdicaprio/ringdicaprio](https://github.com/ringdicaprio/ringdicaprio) | **0** | St. Pierre & Miquelon (PM) |
-| [Sduruty/Sduruty](https://github.com/Sduruty/Sduruty) | **0** | Saint-Pierre, Saint-Pierre & Miquelon |
-| [sexyriskflying/sexyriskflying](https://github.com/sexyriskflying/sexyriskflying) | **0** | St Pierre & Miquelon (PM) |
-| [tastyfan14/multi-step-form](https://github.com/tastyfan14/multi-step-form) | **0** | St. Pierre & Miquelon |
-| [titaniumboydenzel/titaniumboydenzel](https://github.com/titaniumboydenzel/titaniumboydenzel) | **0** | Saint-Pierre en Miquelon (PM) |
-| [YamaCrible/juanHernandezSPM](https://github.com/YamaCrible/juanHernandezSPM) | **0** | Saint-pierre et Miquelon |
+</div>
 
-When the verified crawl reaches publication readiness, this page is automatically replaced by the most-starred repository ranking.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Repository</th><th align="right">Stars</th><th align="right">Forks</th><th align="left">Language</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><img src="https://github.com/bitopblogger.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bitopblogger/bitopblogger"><b>bitopblogger/bitopblogger</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/blackpearlduke.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/blackpearlduke/blackpearlduke"><b>blackpearlduke/blackpearlduke</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/bromrustyryan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bromrustyryan/bromrustyryan"><b>bromrustyryan/bromrustyryan</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><img src="https://github.com/iamzadrotmrproper.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/iamzadrotmrproper/iamzadrotmrproper"><b>iamzadrotmrproper/iamzadrotmrproper</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/linkertnature.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/linkertnature/linkertnature"><b>linkertnature/linkertnature</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/MatyW31.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MatyW31/OpenclassroomP"><b>MatyW31/OpenclassroomP</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/netviolet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/netviolet/the_ebooks"><b>netviolet/the&#95;ebooks</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><img src="https://github.com/Paul-BDT.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Paul-BDT/Paul-BDT"><b>Paul-BDT/Paul-BDT</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/ringdicaprio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ringdicaprio/ringdicaprio"><b>ringdicaprio/ringdicaprio</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/Sduruty.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Sduruty/Sduruty"><b>Sduruty/Sduruty</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/sexyriskflying.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sexyriskflying/sexyriskflying"><b>sexyriskflying/sexyriskflying</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/tastyfan14.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tastyfan14/multi-step-form"><b>tastyfan14/multi-step-form</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/titaniumboydenzel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/titaniumboydenzel/titaniumboydenzel"><b>titaniumboydenzel/titaniumboydenzel</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/YamaCrible.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/YamaCrible/juanHernandezSPM"><b>YamaCrible/juanHernandezSPM</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary><b>Coverage and methodology</b></summary>
+
+- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Global star scan:** every public non-fork repository with at least **—** stars has been enumerated (current cycle in progress).
+- **Cutoff:** the last listed repository has 0 stars; 14 attributed candidates are tracked.
+- 14 entries were carried over from the previous dataset and are pending revalidation.
+- 14 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 0 in round 1.
+- Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
+
+</details>
+
+---
+
+<p align="center"><sub><a href="./README.md">← All countries</a> &nbsp;·&nbsp; <a href="../README.md">GitSphere home</a> &nbsp;·&nbsp; <a href="../docs/METHODOLOGY.md">Methodology</a> &nbsp;·&nbsp; <a href="https://github.com/ish4ra/GitSphere">Source</a></sub></p>
+

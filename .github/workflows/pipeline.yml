@@ -1,0 +1,78 @@
+name: GitSphere pipeline
+
+on:
+  schedule:
+    # Hourly; the API budget resets hourly. Minute 13 avoids the top-of-hour rush.
+    - cron: '13 * * * *'
+  workflow_dispatch:
+    inputs:
+      max_requests:
+        description: 'Maximum GraphQL requests for this run'
+        required: false
+        default: '900'
+
+permissions:
+  contents: write
+
+concurrency:
+  # One data writer per branch across all data workflows (shared with
+  # sync-geography). Runs queue instead of cancelling each other, so a
+  # checkpoint is never lost mid-write.
+  group: gitsphere-data-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 55
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: 22
+
+      - name: Validate
+        run: npm run check
+
+      - name: Discover, refresh and publish
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITSPHERE_MAX_REQUESTS: ${{ inputs.max_requests || '900' }}
+          GITSPHERE_RUNTIME_MINUTES: '40'
+        run: npm run pipeline
+
+      - name: Secret guard
+        run: node scripts/scan-secrets.js data state rankings README.md
+
+      - name: Commit progress
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A state data rankings README.md
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+            exit 0
+          fi
+          git commit -q -m "data: GitSphere pipeline run"
+          for attempt in 1 2 3; do
+            # Never overwrite newer data: rebase onto the latest branch tip and
+            # stop on any conflict instead of forcing.
+            if git pull --rebase --quiet origin "${GITHUB_REF_NAME}"; then
+              if git push --quiet origin "HEAD:${GITHUB_REF_NAME}"; then exit 0; fi
+            else
+              git rebase --abort || true
+              echo "::error::Rebase conflict with newer commits; refusing to overwrite them."
+              exit 1
+            fi
+            sleep $((attempt * 10))
+          done
+          echo "::error::Push failed after retries."
+          exit 1
+
+      - name: Fail on stalled run
+        # Committed first so checkpoints are kept; then a run that made no
+        # useful progress is reported as a failure, not a green no-op.
+        run: node scripts/assert-progress.js

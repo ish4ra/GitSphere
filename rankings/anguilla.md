@@ -1,56 +1,218 @@
-<p align="center" aria-label="Anguilla flag" style="font-size:72px">🇦🇮</p>
+<div align="center">
 
-<h1 align="center">Anguilla</h1>
+<a href="../README.md"><img src="../assets/brand/gitsphere-mark.svg" width="44" height="44" alt="GitSphere"></a>
 
-<p align="center">
-  <a href="./README.md"><strong>Browse countries</strong></a> ·
-  <a href="../docs/METHODOLOGY.md">Methodology</a> ·
-  <a href="../README.md">Project home</a>
-</p>
+# 🇦🇮 Anguilla
 
-## Repository ranking status: Building 100%
+<b>Top Repositories</b> — Discover the most-starred GitHub repositories.
 
-- Geography terms processed: **23 / 23**
-- Progress: **100%**
-- Retained high-potential owner candidates: **25**
-- Search requests completed: **23**
-- Unresolved shards: **0**
+<sub><b>Top Repositories</b> &nbsp;·&nbsp; <a href="./developers/anguilla.md">Top Developers</a> &nbsp;·&nbsp; <a href="./contributors/anguilla.md">Top Contributors</a></sub>
 
-The crawler saves its exact shard queue and pagination cursor, so progress continues across GitHub Actions runs instead of restarting.
+</div>
 
-## Early preview
+<div align="center">
 
-> These are the strongest repository candidates discovered **so far**. This is not the final country ranking and can change as city, town, district, alias, and search-shard coverage expands.
+| Status | Repositories | Last update | Data |
+| :---: | :---: | :---: | :---: |
+| 🟠 Stale | **25** | 22 Nov 2026 | <a href="../data/AI.json">JSON</a> |
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [datahaven-net/epp-python-client](https://github.com/datahaven-net/epp-python-client) | **20** | Anguilla |
-| [KarmaApp/eos-karma-tokens](https://github.com/KarmaApp/eos-karma-tokens) | **7** | Anguilla |
-| [LandslideNetwork/slide-sdk](https://github.com/LandslideNetwork/slide-sdk) | **6** | Anguilla |
-| [Ideora2026/CrashTools](https://github.com/Ideora2026/CrashTools) | **3** | Anguilla |
-| [TheSittingPenguin96/Waydroid-on-Halium-14](https://github.com/TheSittingPenguin96/Waydroid-on-Halium-14) | **2** | Anguilla |
-| [ttalkkag/i-got-fired](https://github.com/ttalkkag/i-got-fired) | **2** | Anguilla |
-| [deepauto-io/errors](https://github.com/deepauto-io/errors) | **1** | Anguilla |
-| [EdithmarTorres/My-UCC-App](https://github.com/EdithmarTorres/My-UCC-App) | **1** | Anguilla |
-| [KleinKodes/IntelliVerse](https://github.com/KleinKodes/IntelliVerse) | **1** | Anguilla |
-| [vincecate/electronwaves](https://github.com/vincecate/electronwaves) | **1** | Anguilla |
-| [warte-kurz/relica-engine](https://github.com/warte-kurz/relica-engine) | **1** | Anguilla |
-| [autarkai/autark-hermes-provider](https://github.com/autarkai/autark-hermes-provider) | **0** | Anguilla |
-| [Axaipay/trade-bot-smart-account](https://github.com/Axaipay/trade-bot-smart-account) | **0** | Anguilla |
-| [Bitchat-APK-Descargar/.github](https://github.com/Bitchat-APK-Descargar/.github) | **0** | Anguilla |
-| [chrismbrock/hello-world](https://github.com/chrismbrock/hello-world) | **0** | Anguilla |
+</div>
 
-## Repository-first scan
+<table>
+<thead><tr><th align="right">#</th><th align="left">Repository</th><th align="right">Stars</th><th align="right">Forks</th><th align="left">Language</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><img src="https://github.com/datahaven-net.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/datahaven-net/epp-python-client"><b>datahaven-net/epp-python-client</b></a></td>
+<td align="right"><b>20</b></td>
+<td align="right">17</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/KarmaApp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KarmaApp/eos-karma-tokens"><b>KarmaApp/eos-karma-tokens</b></a></td>
+<td align="right"><b>7</b></td>
+<td align="right">3</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/LandslideNetwork.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LandslideNetwork/slide-sdk"><b>LandslideNetwork/slide-sdk</b></a></td>
+<td align="right"><b>6</b></td>
+<td align="right">1</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><img src="https://github.com/Ideora2026.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ideora2026/CrashTools"><b>Ideora2026/CrashTools</b></a></td>
+<td align="right"><b>3</b></td>
+<td align="right">0</td>
+<td>Objective-C</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/TheSittingPenguin96.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TheSittingPenguin96/Waydroid-on-Halium-14"><b>TheSittingPenguin96/Waydroid-on-Halium-14</b></a></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/ttalkkag.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ttalkkag/i-got-fired"><b>ttalkkag/i-got-fired</b></a></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td>Makefile</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/KleinKodes.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KleinKodes/IntelliVerse"><b>KleinKodes/IntelliVerse</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">3</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><img src="https://github.com/vincecate.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vincecate/electronwaves"><b>vincecate/electronwaves</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">2</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/deepauto-io.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/deepauto-io/errors"><b>deepauto-io/errors</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/EdithmarTorres.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EdithmarTorres/My-UCC-App"><b>EdithmarTorres/My-UCC-App</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/warte-kurz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/warte-kurz/relica-engine"><b>warte-kurz/relica-engine</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/autarkai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/autarkai/autark-hermes-provider"><b>autarkai/autark-hermes-provider</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/Axaipay.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Axaipay/trade-bot-smart-account"><b>Axaipay/trade-bot-smart-account</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/Bitchat-APK-Descargar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Bitchat-APK-Descargar/.github"><b>Bitchat-APK-Descargar/.github</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><img src="https://github.com/chrismbrock.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chrismbrock/hello-world"><b>chrismbrock/hello-world</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><img src="https://github.com/delonbs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/delonbs/github-slideshow"><b>delonbs/github-slideshow</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><img src="https://github.com/Dragon-Ball-Gekishin-Squadra-Android.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Dragon-Ball-Gekishin-Squadra-Android/.github"><b>Dragon-Ball-Gekishin-Squadra-Android/.github</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><img src="https://github.com/eastjachento.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eastjachento/eastjachento"><b>eastjachento/eastjachento</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><img src="https://github.com/kissandfly.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kissandfly/test"><b>kissandfly/test</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><img src="https://github.com/lizahanoman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lizahanoman/lihanbooks"><b>lizahanoman/lihanbooks</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><img src="https://github.com/MindBreaker096.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MindBreaker096/test"><b>MindBreaker096/test</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><img src="https://github.com/otadmin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/otadmin/hello-world"><b>otadmin/hello-world</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>ApacheConf</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td><img src="https://github.com/rinderalkach.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rinderalkach/rinderalkach"><b>rinderalkach/rinderalkach</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td><img src="https://github.com/shawnpjennings.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shawnpjennings/monovision"><b>shawnpjennings/monovision</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td><img src="https://github.com/thumbride.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thumbride/thumbride.github.io"><b>thumbride/thumbride.github.io</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
 
-- Verified high-star candidates retained: **1**
-- Current global star frontier: **573**
+<details>
+<summary><b>Coverage and methodology</b></summary>
 
-### High-star verified preview
+- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Global star scan:** every public non-fork repository with at least **—** stars has been enumerated (current cycle in progress).
+- **Cutoff:** the last listed repository has 0 stars; 25 attributed candidates are tracked.
+- 25 entries were carried over from the previous dataset and are pending revalidation.
+- 25 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 0 in round 1.
+- Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
-> These repositories were found by the independent global stars-desc scan and their owner locations resolved to this country. The list becomes final only when the global scan frontier drops below the country’s 100th-place star cutoff.
+</details>
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [SamuraiT/mecab-python3](https://github.com/SamuraiT/mecab-python3) | **579** | ai |
+---
 
-When the verified crawl reaches publication readiness, this page is automatically replaced by the most-starred repository ranking.
+<p align="center"><sub><a href="./README.md">← All countries</a> &nbsp;·&nbsp; <a href="../README.md">GitSphere home</a> &nbsp;·&nbsp; <a href="../docs/METHODOLOGY.md">Methodology</a> &nbsp;·&nbsp; <a href="https://github.com/ish4ra/GitSphere">Source</a></sub></p>
+

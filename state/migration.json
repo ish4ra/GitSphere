@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 3,
+  "migratedAt": "2026-11-22T08:28:32.038Z",
+  "stats": {
+    "repositoryRecords": 209930,
+    "repositoriesImported": 13345,
+    "ownerRecords": 198328,
+    "accountsImported": 66169,
+    "ownersQueued": 195946,
+    "rejectedByResolver": 3021
+  },
+  "legacyRepositoryFirst": {
+    "stats": {
+      "requests": 3581,
+      "repositoriesSeen": 259205,
+      "attributedRepositories": 96327,
+      "ambiguousLocations": 41834,
+      "unknownLocations": 121044,
+      "splitRanges": 589,
+      "completedLeafRanges": 377
+    },
+    "unresolvedStarCounts": 213,
+    "highestUnresolvedStars": 215,
+    "queue": 0,
+    "lastRun": {
+      "requestsUsed": 0,
+      "requestBudget": 50,
+      "minimumRateLimitRemaining": null,
+      "starFrontier": 215,
+      "changedCountries": [],
+      "finalizedCountries": [],
+      "runtimeSeconds": 3
+    }
+  }
+}

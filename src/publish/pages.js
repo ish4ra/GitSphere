@@ -172,15 +172,15 @@ function coverageSection(ranking) {
   lines.push(`- **Status:** ${STATUS_LABELS[ranking.status].label}. ${statusExplanation(ranking)}`);
   if (ranking.mode === 'repositories') {
     lines.push(
-      `- **Global star scan:** every public non-fork repository with at least **${c.verifiedStarFloor != null ? formatNumber(c.verifiedStarFloor) : '—'}** stars has been enumerated (${c.starScan?.basis === 'completed-cycle' ? `cycle ${c.starScan.cycle}, completed ${formatDate(c.starScan.completedAt)}` : 'current cycle in progress'}).`,
+      `- **Basis:** ${basisText(c.basis)} The current global star-scan level is reported in [\`data/summary.json\`](${relative(MODE_META.repositories.page(ranking.country.slug), 'data/summary.json')}).`,
       `- **Cutoff:** the last listed repository has ${c.cutoffStars != null ? formatNumber(c.cutoffStars) : '—'} stars; ${formatNumber(c.candidates)} attributed candidates are tracked.`,
     );
     if (c.legacyEntriesPendingRevalidation) lines.push(`- ${formatNumber(c.legacyEntriesPendingRevalidation)} entries were carried over from the previous dataset and are pending revalidation.`);
     if (c.ownerExpansionBacklog) lines.push(`- ${formatNumber(c.ownerExpansionBacklog)} multi-repository owners are queued for expansion.`);
   } else if (ranking.mode === 'developers') {
     lines.push(
-      `- **Global follower scan:** every user with at least **${c.verifiedFollowerFloor != null ? formatNumber(c.verifiedFollowerFloor) : '—'}** followers has been enumerated (${c.followerScan?.basis === 'completed-cycle' ? `cycle ${c.followerScan.cycle}` : 'current cycle in progress'}).`,
-      `- Organizations are excluded. ${formatNumber(c.candidates)} attributed developers are tracked.`,
+      `- **Basis:** ${basisText(c.basis)}`,
+      `- Organizations are excluded. ${formatNumber(c.candidates)} attributed developers are tracked; the cutoff is ${c.cutoffFollowers != null ? formatNumber(c.cutoffFollowers) : '—'} followers.`,
     );
   } else {
     lines.push(
@@ -196,6 +196,16 @@ function coverageSection(ranking) {
     '</details>',
   );
   return lines;
+}
+
+function basisText(basis) {
+  return {
+    'global-star-scan': 'certified by the global star scan — every repository above this cutoff has been enumerated.',
+    'global-follower-scan': 'certified by the global follower scan — every developer above this cutoff has been enumerated.',
+    'location-discovery': 'certified by complete location discovery for this country.',
+    'measured-discovered-accounts': 'every discovered developer has been measured.',
+    partial: 'partial — discovery is still running.',
+  }[basis] || 'partial — discovery is still running.';
 }
 
 function statusExplanation(ranking) {

@@ -1,43 +1,337 @@
-<p align="center" aria-label="Equatorial Guinea flag" style="font-size:72px">🇬🇶</p>
+<div align="center">
 
-<h1 align="center">Equatorial Guinea</h1>
+<a href="../README.md"><img src="../assets/brand/gitsphere-mark.svg" width="44" height="44" alt="GitSphere"></a>
 
-<p align="center">
-  <a href="./README.md"><strong>Browse countries</strong></a> ·
-  <a href="../docs/METHODOLOGY.md">Methodology</a> ·
-  <a href="../README.md">Project home</a>
-</p>
+# 🇬🇶 Equatorial Guinea
 
-## Repository ranking status: Building 81%
+<b>Top Repositories</b> — Discover the most-starred GitHub repositories.
 
-- Geography terms processed: **47 / 58**
-- Progress: **81%**
-- Retained high-potential owner candidates: **21**
-- Search requests completed: **48**
-- Unresolved shards: **0**
+<sub><b>Top Repositories</b> &nbsp;·&nbsp; <a href="./developers/equatorial-guinea.md">Top Developers</a> &nbsp;·&nbsp; <a href="./contributors/equatorial-guinea.md">Top Contributors</a></sub>
 
-The crawler saves its exact shard queue and pagination cursor, so progress continues across GitHub Actions runs instead of restarting.
+</div>
 
-## Early preview
+<div align="center">
 
-> These are the strongest repository candidates discovered **so far**. This is not the final country ranking and can change as city, town, district, alias, and search-shard coverage expands.
+| Status | Repositories | Last update | Data |
+| :---: | :---: | :---: | :---: |
+| 🟠 Stale | **42** | 22 Nov 2026 | <a href="../data/GQ.json">JSON</a> |
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [alexis-ngoyi/linkih-app](https://github.com/alexis-ngoyi/linkih-app) | **2** | Guinee Equatoriale, Malabo |
-| [neomin-2007/NeonLua](https://github.com/neomin-2007/NeonLua) | **2** | São Paulo, Litoral |
-| [arongesono12/agenda-app](https://github.com/arongesono12/agenda-app) | **1** | Malabo |
-| [Eko-Dev3/CSSP](https://github.com/Eko-Dev3/CSSP) | **1** | MALABO |
-| [James-Sangalli/jquery.fn](https://github.com/James-Sangalli/jquery.fn) | **1** | Malabo |
-| [pedromba/Omega-MarketPlace](https://github.com/pedromba/Omega-MarketPlace) | **1** | Malabo |
-| [carlota-raquel/CARLOTA-RAQUEL-NCHAMA](https://github.com/carlota-raquel/CARLOTA-RAQUEL-NCHAMA) | **0** | Djibloho, Ciudad de la Paz |
-| [cornensue/Namaste_React_Live](https://github.com/cornensue/Namaste_React_Live) | **0** | Malabo |
-| [danielengonga/gestion_empleados](https://github.com/danielengonga/gestion_empleados) | **0** | Djibloho |
-| [djituby/Ars-Restaurent-Admin](https://github.com/djituby/Ars-Restaurent-Admin) | **0** | Malabo |
-| [ElaLIma/limonecore](https://github.com/ElaLIma/limonecore) | **0** | Malabo |
-| [enguema/Ramificaciones](https://github.com/enguema/Ramificaciones) | **0** | Malabo |
-| [Flora-hub251/Plantilla-personal](https://github.com/Flora-hub251/Plantilla-personal) | **0** | GQ-Bioko-Norte/Malabo |
-| [Georgechao1688/AI_projects_stores](https://github.com/Georgechao1688/AI_projects_stores) | **0** | ncue |
-| [grandfrend/toshinorimorimoto](https://github.com/grandfrend/toshinorimorimoto) | **0** | Malabo |
+</div>
 
-When the verified crawl reaches publication readiness, this page is automatically replaced by the most-starred repository ranking.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Repository</th><th align="right">Stars</th><th align="right">Forks</th><th align="left">Language</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><img src="https://github.com/alexis-ngoyi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexis-ngoyi/linkih-app"><b>alexis-ngoyi/linkih-app</b></a></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/alterte.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alterte/Alterte"><b>alterte/Alterte</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/Asumu74.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Asumu74/Deeploox"><b>Asumu74/Deeploox</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><img src="https://github.com/Calbert-72-Git.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Calbert-72-Git/malabocar-v3-2"><b>Calbert-72-Git/malabocar-v3-2</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/DanielNdong.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DanielNdong/dani-educad.github.io"><b>DanielNdong/dani-educad.github.io</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/melitonio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/melitonio/unge-poo"><b>melitonio/unge-poo</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/Tranquilino1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Tranquilino1/ECUAMAPS"><b>Tranquilino1/ECUAMAPS</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><img src="https://github.com/anicetondong.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anicetondong/mi-primer-juegomat"><b>anicetondong/mi-primer-juegomat</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/Annw216.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Annw216/semantic-search-middleware"><b>Annw216/semantic-search-middleware</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/Astuto02.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Astuto02/menu_manila"><b>Astuto02/menu&#95;manila</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/binmrsnowman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/binmrsnowman/binmrsnowman"><b>binmrsnowman/binmrsnowman</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/carlota-raquel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/carlota-raquel/CARLOTA-RAQUEL-NCHAMA"><b>carlota-raquel/CARLOTA-RAQUEL-NCHAMA</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/cdoaweb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cdoaweb/proyecto_iat_access"><b>cdoaweb/proyecto&#95;iat&#95;access</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/cesardevi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cesardevi/my-first-place-"><b>cesardevi/my-first-place-</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><img src="https://github.com/codeandrews.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/codeandrews/html-css"><b>codeandrews/html-css</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><img src="https://github.com/danielengonga.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/danielengonga/gestion_empleados"><b>danielengonga/gestion&#95;empleados</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><img src="https://github.com/DATA-EG.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DATA-EG/pagina-web-academia-deportiva"><b>DATA-EG/pagina-web-academia-deportiva</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><img src="https://github.com/dataegconsulting.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dataegconsulting/GepSeguros"><b>dataegconsulting/GepSeguros</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><img src="https://github.com/DavidBatton.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DavidBatton/TFG_Rigoberto_Carlos_Monsuy"><b>DavidBatton/TFG&#95;Rigoberto&#95;Carlos&#95;Monsuy</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><img src="https://github.com/esomoyogabowno2018.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/esomoyogabowno2018/Pron-stico-de-la-inflacion-mensual-en-Guinea-Ecuatorial-evaluacio-n-comparativa"><b>esomoyogabowno2018/Pron-stico-de-la-inflacion-mensual-en-Guinea-Ecuatorial-evaluacio-n-comparativa</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><img src="https://github.com/franebee11.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/franebee11/pagina-web-superclass"><b>franebee11/pagina-web-superclass</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><img src="https://github.com/Georgechao1688.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Georgechao1688/AI_projects_stores"><b>Georgechao1688/AI&#95;projects&#95;stores</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td><img src="https://github.com/itbonafidemicrobank.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/itbonafidemicrobank/sudo_credit"><b>itbonafidemicrobank/sudo&#95;credit</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td><img src="https://github.com/jestechcorporation.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jestechcorporation/jestech.pruebas.python"><b>jestechcorporation/jestech.pruebas.python</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td><img src="https://github.com/jesusmesie-png.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jesusmesie-png/web"><b>jesusmesie-png/web</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td><img src="https://github.com/jose19889.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jose19889/SIGEFAR"><b>jose19889/SIGEFAR</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td><img src="https://github.com/kalmarniceratoela3-cyber.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kalmarniceratoela3-cyber/webdeempresa"><b>kalmarniceratoela3-cyber/webdeempresa</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td><img src="https://github.com/LuisJordyBikoro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LuisJordyBikoro/LuisJordyBikoro"><b>LuisJordyBikoro/LuisJordyBikoro</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td><img src="https://github.com/mbilenakuo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mbilenakuo/chat-con-Django"><b>mbilenakuo/chat-con-Django</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td><img src="https://github.com/mbueule97.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mbueule97/To-do-app"><b>mbueule97/To-do-app</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">31</td>
+<td><img src="https://github.com/Mensa2035.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mensa2035/ProyectoGit-"><b>Mensa2035/ProyectoGit-</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">32</td>
+<td><img src="https://github.com/Miguel-Ak47.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Miguel-Ak47/Mil-Maneras-de-Ganar-Dinero"><b>Miguel-Ak47/Mil-Maneras-de-Ganar-Dinero</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">33</td>
+<td><img src="https://github.com/mvandyreo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mvandyreo/html-portfolio"><b>mvandyreo/html-portfolio</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">34</td>
+<td><img src="https://github.com/ngomo2037.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ngomo2037/newsden-chat"><b>ngomo2037/newsden-chat</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">35</td>
+<td><img src="https://github.com/Ramiro31jr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ramiro31jr/Ramiro31jr"><b>Ramiro31jr/Ramiro31jr</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">36</td>
+<td><img src="https://github.com/rodrigobielo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rodrigobielo/configuraciones-gabinete"><b>rodrigobielo/configuraciones-gabinete</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">37</td>
+<td><img src="https://github.com/Safary-Blood.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Safary-Blood/APEX-SANAIIT-2026"><b>Safary-Blood/APEX-SANAIIT-2026</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">38</td>
+<td><img src="https://github.com/SamuelEla.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SamuelEla/curso-de-herramientas-gitflow"><b>SamuelEla/curso-de-herramientas-gitflow</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">39</td>
+<td><img src="https://github.com/TristanToff.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TristanToff/configurations"><b>TristanToff/configurations</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">40</td>
+<td><img src="https://github.com/tungedumauricio235-wq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tungedumauricio235-wq/Markeg"><b>tungedumauricio235-wq/Markeg</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">41</td>
+<td><img src="https://github.com/winny05.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/winny05/Red-Social-ConectaVida"><b>winny05/Red-Social-ConectaVida</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">42</td>
+<td><img src="https://github.com/yosoydoramn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yosoydoramn/calculadora-con-html-css-y-javascript"><b>yosoydoramn/calculadora-con-html-css-y-javascript</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary><b>Coverage and methodology</b></summary>
+
+- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Global star scan:** every public non-fork repository with at least **—** stars has been enumerated (current cycle in progress).
+- **Cutoff:** the last listed repository has 0 stars; 42 attributed candidates are tracked.
+- 42 entries were carried over from the previous dataset and are pending revalidation.
+- 42 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 0 in round 1.
+- Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
+
+</details>
+
+---
+
+<p align="center"><sub><a href="./README.md">← All countries</a> &nbsp;·&nbsp; <a href="../README.md">GitSphere home</a> &nbsp;·&nbsp; <a href="../docs/METHODOLOGY.md">Methodology</a> &nbsp;·&nbsp; <a href="https://github.com/ish4ra/GitSphere">Source</a></sub></p>
+

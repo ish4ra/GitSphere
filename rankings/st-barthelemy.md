@@ -1,32 +1,71 @@
-<p align="center" aria-label="St. Barthélemy flag" style="font-size:72px">🇧🇱</p>
+<div align="center">
 
-<h1 align="center">St. Barthélemy</h1>
+<a href="../README.md"><img src="../assets/brand/gitsphere-mark.svg" width="44" height="44" alt="GitSphere"></a>
 
-<p align="center">
-  <a href="./README.md"><strong>Browse countries</strong></a> ·
-  <a href="../docs/METHODOLOGY.md">Methodology</a> ·
-  <a href="../README.md">Project home</a>
-</p>
+# 🇧🇱 St. Barthélemy
 
-## Repository ranking status: Building 100%
+<b>Top Repositories</b> — Discover the most-starred GitHub repositories.
 
-- Geography terms processed: **11 / 11**
-- Progress: **100%**
-- Retained high-potential owner candidates: **4**
-- Search requests completed: **11**
-- Unresolved shards: **0**
+<sub><b>Top Repositories</b> &nbsp;·&nbsp; <a href="./developers/st-barthelemy.md">Top Developers</a> &nbsp;·&nbsp; <a href="./contributors/st-barthelemy.md">Top Contributors</a></sub>
 
-The crawler saves its exact shard queue and pagination cursor, so progress continues across GitHub Actions runs instead of restarting.
+</div>
 
-## Early preview
+<div align="center">
 
-> These are the strongest repository candidates discovered **so far**. This is not the final country ranking and can change as city, town, district, alias, and search-shard coverage expands.
+| Status | Repositories | Last update | Data |
+| :---: | :---: | :---: | :---: |
+| 🟠 Stale | **4** | 22 Nov 2026 | <a href="../data/BL.json">JSON</a> |
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [bambinafrankriver/bambinafrankriver](https://github.com/bambinafrankriver/bambinafrankriver) | **0** | St Barthélemy (BL) |
-| [malmesbourne/malmesbourne](https://github.com/malmesbourne/malmesbourne) | **0** | St. Barthélemy (BL) |
-| [sandstormundead/sandstormundead](https://github.com/sandstormundead/sandstormundead) | **0** | St. Barthélemy (BL) |
-| [tonyshuzhi666/booking_script](https://github.com/tonyshuzhi666/booking_script) | **0** | 圣巴泰勒米 |
+</div>
 
-When the verified crawl reaches publication readiness, this page is automatically replaced by the most-starred repository ranking.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Repository</th><th align="right">Stars</th><th align="right">Forks</th><th align="left">Language</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><img src="https://github.com/bambinafrankriver.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bambinafrankriver/bambinafrankriver"><b>bambinafrankriver/bambinafrankriver</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/malmesbourne.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/malmesbourne/malmesbourne"><b>malmesbourne/malmesbourne</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/sandstormundead.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sandstormundead/sandstormundead"><b>sandstormundead/sandstormundead</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><img src="https://github.com/tonyshuzhi666.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tonyshuzhi666/booking_script"><b>tonyshuzhi666/booking&#95;script</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary><b>Coverage and methodology</b></summary>
+
+- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Global star scan:** every public non-fork repository with at least **—** stars has been enumerated (current cycle in progress).
+- **Cutoff:** the last listed repository has 0 stars; 4 attributed candidates are tracked.
+- 4 entries were carried over from the previous dataset and are pending revalidation.
+- 4 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 0 in round 1.
+- Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
+
+</details>
+
+---
+
+<p align="center"><sub><a href="./README.md">← All countries</a> &nbsp;·&nbsp; <a href="../README.md">GitSphere home</a> &nbsp;·&nbsp; <a href="../docs/METHODOLOGY.md">Methodology</a> &nbsp;·&nbsp; <a href="https://github.com/ish4ra/GitSphere">Source</a></sub></p>
+

@@ -1,36 +1,99 @@
-<p align="center" aria-label="Wallis &amp; Futuna flag" style="font-size:72px">🇼🇫</p>
+<div align="center">
 
-<h1 align="center">Wallis &amp; Futuna</h1>
+<a href="../README.md"><img src="../assets/brand/gitsphere-mark.svg" width="44" height="44" alt="GitSphere"></a>
 
-<p align="center">
-  <a href="./README.md"><strong>Browse countries</strong></a> ·
-  <a href="../docs/METHODOLOGY.md">Methodology</a> ·
-  <a href="../README.md">Project home</a>
-</p>
+# 🇼🇫 Wallis &amp; Futuna
 
-## Repository ranking status: Building 100%
+<b>Top Repositories</b> — Discover the most-starred GitHub repositories.
 
-- Geography terms processed: **28 / 28**
-- Progress: **100%**
-- Retained high-potential owner candidates: **8**
-- Search requests completed: **28**
-- Unresolved shards: **0**
+<sub><b>Top Repositories</b> &nbsp;·&nbsp; <a href="./developers/wallis-futuna.md">Top Developers</a> &nbsp;·&nbsp; <a href="./contributors/wallis-futuna.md">Top Contributors</a></sub>
 
-The crawler saves its exact shard queue and pagination cursor, so progress continues across GitHub Actions runs instead of restarting.
+</div>
 
-## Early preview
+<div align="center">
 
-> These are the strongest repository candidates discovered **so far**. This is not the final country ranking and can change as city, town, district, alias, and search-shard coverage expands.
+| Status | Repositories | Last update | Data |
+| :---: | :---: | :---: | :---: |
+| 🟠 Stale | **8** | 22 Nov 2026 | <a href="../data/WF.json">JSON</a> |
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [csaraiba/csaraiba](https://github.com/csaraiba/csaraiba) | **0** | Wallis and Futuna isles |
-| [dboyle95/fluffy-funicular](https://github.com/dboyle95/fluffy-funicular) | **0** | Deanchester, Wallis and Futuna |
-| [hopsingerplayer/hopsingerplayer](https://github.com/hopsingerplayer/hopsingerplayer) | **0** | Wallis en Futuna (WF) |
-| [inbredgiraffe/Surge](https://github.com/inbredgiraffe/Surge) | **0** | Wallis and Futuna |
-| [MintyMustache954/Countable](https://github.com/MintyMustache954/Countable) | **0** | Wallis and Futuna |
-| [sakaenhogbutcher/sakaenhogbutcher](https://github.com/sakaenhogbutcher/sakaenhogbutcher) | **0** | Wallis & Futuna (WF) |
-| [scooternicksari/scooternicksari](https://github.com/scooternicksari/scooternicksari) | **0** | Wallis en Futuna (WF) |
-| [strategos-nzr/strategos-nzr.github.io](https://github.com/strategos-nzr/strategos-nzr.github.io) | **0** | Wallis and Futuna |
+</div>
 
-When the verified crawl reaches publication readiness, this page is automatically replaced by the most-starred repository ranking.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Repository</th><th align="right">Stars</th><th align="right">Forks</th><th align="left">Language</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><img src="https://github.com/csaraiba.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/csaraiba/csaraiba"><b>csaraiba/csaraiba</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/dboyle95.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dboyle95/fluffy-funicular"><b>dboyle95/fluffy-funicular</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/hopsingerplayer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hopsingerplayer/hopsingerplayer"><b>hopsingerplayer/hopsingerplayer</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><img src="https://github.com/inbredgiraffe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/inbredgiraffe/Surge"><b>inbredgiraffe/Surge</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/MintyMustache954.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MintyMustache954/Countable"><b>MintyMustache954/Countable</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/sakaenhogbutcher.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sakaenhogbutcher/sakaenhogbutcher"><b>sakaenhogbutcher/sakaenhogbutcher</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/scooternicksari.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/scooternicksari/scooternicksari"><b>scooternicksari/scooternicksari</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><img src="https://github.com/strategos-nzr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/strategos-nzr/strategos-nzr.github.io"><b>strategos-nzr/strategos-nzr.github.io</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary><b>Coverage and methodology</b></summary>
+
+- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Global star scan:** every public non-fork repository with at least **—** stars has been enumerated (current cycle in progress).
+- **Cutoff:** the last listed repository has 0 stars; 8 attributed candidates are tracked.
+- 8 entries were carried over from the previous dataset and are pending revalidation.
+- 8 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 0 in round 1.
+- Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
+
+</details>
+
+---
+
+<p align="center"><sub><a href="./README.md">← All countries</a> &nbsp;·&nbsp; <a href="../README.md">GitSphere home</a> &nbsp;·&nbsp; <a href="../docs/METHODOLOGY.md">Methodology</a> &nbsp;·&nbsp; <a href="https://github.com/ish4ra/GitSphere">Source</a></sub></p>
+

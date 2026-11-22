@@ -1,42 +1,141 @@
-<p align="center" aria-label="Nauru flag" style="font-size:72px">🇳🇷</p>
+<div align="center">
 
-<h1 align="center">Nauru</h1>
+<a href="../README.md"><img src="../assets/brand/gitsphere-mark.svg" width="44" height="44" alt="GitSphere"></a>
 
-<p align="center">
-  <a href="./README.md"><strong>Browse countries</strong></a> ·
-  <a href="../docs/METHODOLOGY.md">Methodology</a> ·
-  <a href="../README.md">Project home</a>
-</p>
+# 🇳🇷 Nauru
 
-## Repository ranking status: Building 100%
+<b>Top Repositories</b> — Discover the most-starred GitHub repositories.
 
-- Geography terms processed: **34 / 34**
-- Progress: **100%**
-- Retained high-potential owner candidates: **14**
-- Search requests completed: **35**
-- Unresolved shards: **0**
+<sub><b>Top Repositories</b> &nbsp;·&nbsp; <a href="./developers/nauru.md">Top Developers</a> &nbsp;·&nbsp; <a href="./contributors/nauru.md">Top Contributors</a></sub>
 
-The crawler saves its exact shard queue and pagination cursor, so progress continues across GitHub Actions runs instead of restarting.
+</div>
 
-## Early preview
+<div align="center">
 
-> These are the strongest repository candidates discovered **so far**. This is not the final country ranking and can change as city, town, district, alias, and search-shard coverage expands.
+| Status | Repositories | Last update | Data |
+| :---: | :---: | :---: | :---: |
+| 🟠 Stale | **14** | 22 Nov 2026 | <a href="../data/NR.json">JSON</a> |
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [Melonbwead/lucky-zsh-theme](https://github.com/Melonbwead/lucky-zsh-theme) | **11** | Verse |
-| [ensonfun/ensonfun.github.io](https://github.com/ensonfun/ensonfun.github.io) | **2** | Verse |
-| [nauru-jp/nauru](https://github.com/nauru-jp/nauru) | **2** | Nauru |
-| [nutsi/rust-mysql](https://github.com/nutsi/rust-mysql) | **1** | Yaren |
-| [01LuckyStrike10/overtone](https://github.com/01LuckyStrike10/overtone) | **0** | Nauru |
-| [AquaBera/aquabera-assets](https://github.com/AquaBera/aquabera-assets) | **0** | Nauru |
-| [bonifacyfirefly/bonifacyfirefly](https://github.com/bonifacyfirefly/bonifacyfirefly) | **0** | Nauru (NR) |
-| [I3lackExo/edge-chat](https://github.com/I3lackExo/edge-chat) | **0** | Ewa, Nauru |
-| [ktpnn/re](https://github.com/ktpnn/re) | **0** | Yaren district, Nauru |
-| [poxmetologdwarf/poxmetologdwarf](https://github.com/poxmetologdwarf/poxmetologdwarf) | **0** | Nauru (NR) |
-| [rabbitwolfder/rabbitwolfder](https://github.com/rabbitwolfder/rabbitwolfder) | **0** | Nauru (NR) |
-| [rejectX/rejectX](https://github.com/rejectX/rejectX) | **0** | Nauru |
-| [SatiaLee/Soundness](https://github.com/SatiaLee/Soundness) | **0** | Nauru |
-| [therealsocke/power-assert](https://github.com/therealsocke/power-assert) | **0** | Yaren |
+</div>
 
-When the verified crawl reaches publication readiness, this page is automatically replaced by the most-starred repository ranking.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Repository</th><th align="right">Stars</th><th align="right">Forks</th><th align="left">Language</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><img src="https://github.com/Melonbwead.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Melonbwead/lucky-zsh-theme"><b>Melonbwead/lucky-zsh-theme</b></a></td>
+<td align="right"><b>11</b></td>
+<td align="right">1</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/nauru-jp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nauru-jp/nauru"><b>nauru-jp/nauru</b></a></td>
+<td align="right"><b>2</b></td>
+<td align="right">1</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/ensonfun.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ensonfun/ensonfun.github.io"><b>ensonfun/ensonfun.github.io</b></a></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><img src="https://github.com/nutsi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nutsi/rust-mysql"><b>nutsi/rust-mysql</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">2</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/01LuckyStrike10.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/01LuckyStrike10/overtone"><b>01LuckyStrike10/overtone</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/AquaBera.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AquaBera/aquabera-assets"><b>AquaBera/aquabera-assets</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/bonifacyfirefly.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bonifacyfirefly/bonifacyfirefly"><b>bonifacyfirefly/bonifacyfirefly</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><img src="https://github.com/I3lackExo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/I3lackExo/edge-chat"><b>I3lackExo/edge-chat</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/ktpnn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ktpnn/re"><b>ktpnn/re</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/poxmetologdwarf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/poxmetologdwarf/poxmetologdwarf"><b>poxmetologdwarf/poxmetologdwarf</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/rabbitwolfder.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rabbitwolfder/rabbitwolfder"><b>rabbitwolfder/rabbitwolfder</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/rejectX.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rejectX/rejectX"><b>rejectX/rejectX</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/SatiaLee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SatiaLee/Soundness"><b>SatiaLee/Soundness</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/therealsocke.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/therealsocke/power-assert"><b>therealsocke/power-assert</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary><b>Coverage and methodology</b></summary>
+
+- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Global star scan:** every public non-fork repository with at least **—** stars has been enumerated (current cycle in progress).
+- **Cutoff:** the last listed repository has 0 stars; 14 attributed candidates are tracked.
+- 14 entries were carried over from the previous dataset and are pending revalidation.
+- 14 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 0 in round 1.
+- Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
+
+</details>
+
+---
+
+<p align="center"><sub><a href="./README.md">← All countries</a> &nbsp;·&nbsp; <a href="../README.md">GitSphere home</a> &nbsp;·&nbsp; <a href="../docs/METHODOLOGY.md">Methodology</a> &nbsp;·&nbsp; <a href="https://github.com/ish4ra/GitSphere">Source</a></sub></p>
+

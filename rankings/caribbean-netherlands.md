@@ -1,42 +1,141 @@
-<p align="center" aria-label="Caribbean Netherlands flag" style="font-size:72px">🇧🇶</p>
+<div align="center">
 
-<h1 align="center">Caribbean Netherlands</h1>
+<a href="../README.md"><img src="../assets/brand/gitsphere-mark.svg" width="44" height="44" alt="GitSphere"></a>
 
-<p align="center">
-  <a href="./README.md"><strong>Browse countries</strong></a> ·
-  <a href="../docs/METHODOLOGY.md">Methodology</a> ·
-  <a href="../README.md">Project home</a>
-</p>
+# 🇧🇶 Caribbean Netherlands
 
-## Repository ranking status: Building 100%
+<b>Top Repositories</b> — Discover the most-starred GitHub repositories.
 
-- Geography terms processed: **30 / 30**
-- Progress: **100%**
-- Retained high-potential owner candidates: **14**
-- Search requests completed: **31**
-- Unresolved shards: **0**
+<sub><b>Top Repositories</b> &nbsp;·&nbsp; <a href="./developers/caribbean-netherlands.md">Top Developers</a> &nbsp;·&nbsp; <a href="./contributors/caribbean-netherlands.md">Top Contributors</a></sub>
 
-The crawler saves its exact shard queue and pagination cursor, so progress continues across GitHub Actions runs instead of restarting.
+</div>
 
-## Early preview
+<div align="center">
 
-> These are the strongest repository candidates discovered **so far**. This is not the final country ranking and can change as city, town, district, alias, and search-shard coverage expands.
+| Status | Repositories | Last update | Data |
+| :---: | :---: | :---: | :---: |
+| 🟠 Stale | **14** | 22 Nov 2026 | <a href="../data/BQ.json">JSON</a> |
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [inversepolarity/ZYT](https://github.com/inversepolarity/ZYT) | **62** | Bonaire, Sint Eustatius and Saba |
-| [misterdallas/TAK-Server-Rocky-Script](https://github.com/misterdallas/TAK-Server-Rocky-Script) | **8** | Bonaire, GA |
-| [debruijn/more-adventofcode](https://github.com/debruijn/more-adventofcode) | **5** | Kralendijk |
-| [cwiswell/python_pluralsight_excercises](https://github.com/cwiswell/python_pluralsight_excercises) | **1** | Bonaire, Ga |
-| [yes91/Slick2dRPGEngine](https://github.com/yes91/Slick2dRPGEngine) | **1** | Bonaire, GA |
-| [AgentsTrading/gcli2api](https://github.com/AgentsTrading/gcli2api) | **0** | Bonaire, Sint Eustatius and Saba |
-| [AugustusEngine/vast-gpu-market](https://github.com/AugustusEngine/vast-gpu-market) | **0** | Bonaire |
-| [bandymedic/cat-clicker](https://github.com/bandymedic/cat-clicker) | **0** | Bonaire, GA |
-| [oliviervet/DataScience](https://github.com/oliviervet/DataScience) | **0** | Bonaire |
-| [Opdambonaire/btb-website-preview](https://github.com/Opdambonaire/btb-website-preview) | **0** | Kralendijk |
-| [PickuphurenBonaire/pickupbonaire](https://github.com/PickuphurenBonaire/pickupbonaire) | **0** | Kralendijk, Bonaire |
-| [polamierzejewska/machine-learning](https://github.com/polamierzejewska/machine-learning) | **0** | Kralendijk, Bonaire |
-| [tgkinney1351/tgkinney](https://github.com/tgkinney1351/tgkinney) | **0** | Bonaire, GA |
-| [TheCactusGuy/enlive](https://github.com/TheCactusGuy/enlive) | **0** | The Bottom |
+</div>
 
-When the verified crawl reaches publication readiness, this page is automatically replaced by the most-starred repository ranking.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Repository</th><th align="right">Stars</th><th align="right">Forks</th><th align="left">Language</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><img src="https://github.com/inversepolarity.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/inversepolarity/ZYT"><b>inversepolarity/ZYT</b></a></td>
+<td align="right"><b>62</b></td>
+<td align="right">1</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/misterdallas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/misterdallas/TAK-Server-Rocky-Script"><b>misterdallas/TAK-Server-Rocky-Script</b></a></td>
+<td align="right"><b>8</b></td>
+<td align="right">2</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/debruijn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/debruijn/more-adventofcode"><b>debruijn/more-adventofcode</b></a></td>
+<td align="right"><b>5</b></td>
+<td align="right">0</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><img src="https://github.com/yes91.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yes91/Slick2dRPGEngine"><b>yes91/Slick2dRPGEngine</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">1</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/cwiswell.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cwiswell/python_pluralsight_excercises"><b>cwiswell/python&#95;pluralsight&#95;excercises</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/AgentsTrading.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AgentsTrading/gcli2api"><b>AgentsTrading/gcli2api</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/AugustusEngine.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AugustusEngine/vast-gpu-market"><b>AugustusEngine/vast-gpu-market</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><img src="https://github.com/bandymedic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bandymedic/cat-clicker"><b>bandymedic/cat-clicker</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/oliviervet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/oliviervet/DataScience"><b>oliviervet/DataScience</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/Opdambonaire.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Opdambonaire/btb-website-preview"><b>Opdambonaire/btb-website-preview</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/PickuphurenBonaire.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PickuphurenBonaire/pickupbonaire"><b>PickuphurenBonaire/pickupbonaire</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/polamierzejewska.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/polamierzejewska/machine-learning"><b>polamierzejewska/machine-learning</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/tgkinney1351.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tgkinney1351/tgkinney"><b>tgkinney1351/tgkinney</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/TheCactusGuy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TheCactusGuy/enlive"><b>TheCactusGuy/enlive</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary><b>Coverage and methodology</b></summary>
+
+- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Global star scan:** every public non-fork repository with at least **—** stars has been enumerated (current cycle in progress).
+- **Cutoff:** the last listed repository has 0 stars; 14 attributed candidates are tracked.
+- 14 entries were carried over from the previous dataset and are pending revalidation.
+- 14 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 0 in round 1.
+- Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
+
+</details>
+
+---
+
+<p align="center"><sub><a href="./README.md">← All countries</a> &nbsp;·&nbsp; <a href="../README.md">GitSphere home</a> &nbsp;·&nbsp; <a href="../docs/METHODOLOGY.md">Methodology</a> &nbsp;·&nbsp; <a href="https://github.com/ish4ra/GitSphere">Source</a></sub></p>
+

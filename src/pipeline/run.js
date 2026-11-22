@@ -37,6 +37,7 @@ export const DEFAULT_SETTINGS = Object.freeze({
   accountRefreshHours: 168,
   contributionRefreshDays: 7,
   contributionBatch: 20,
+  locationCountries: [],
   budgets: {
     repositories: 280,
     followers: 120,
@@ -62,6 +63,7 @@ export function settingsFromEnv(env = process.env) {
     runtimeMinutes: int('GITSPHERE_RUNTIME_MINUTES', d.runtimeMinutes, 1, 330),
     repositoryStarFloor: int('GITSPHERE_STAR_FLOOR', d.repositoryStarFloor, 1, 100000),
     followerFloor: int('GITSPHERE_FOLLOWER_FLOOR', d.followerFloor, 1, 100000),
+    locationCountries: (env.GITSPHERE_LOCATION_COUNTRIES || '').split(',').map((code) => code.trim().toUpperCase()).filter((code) => /^[A-Z]{2}$/.test(code)),
     budgets: Object.fromEntries(
       Object.entries(d.budgets).map(([key, value]) => [key, int(`GITSPHERE_BUDGET_${key.toUpperCase()}`, value, 0, 5000)]),
     ),
@@ -76,6 +78,7 @@ export async function runPipeline({
   now = () => new Date().toISOString(),
   log = console,
   skipApi = false,
+  clientOptions = {},
 }) {
   const startedAtMs = Date.now();
   const stateDir = path.join(root, 'state');
@@ -127,6 +130,7 @@ export async function runPipeline({
       maxRequests: settings.maxRequests,
       rateLimitReserve: settings.rateLimitReserve,
       log,
+      ...clientOptions,
     });
     const steps = [
       ['repositories', repositoryScanStep],

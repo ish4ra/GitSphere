@@ -13,6 +13,13 @@ import { avatarUrl, isoDate, MODE_META, profileUrl, repositoryUrl } from './form
 import { renderCountryPage, renderDirectory } from './pages.js';
 import { renderRootReadme } from './readme.js';
 
+// Slugs used by earlier releases; kept as redirect pages for old links.
+export const LEGACY_SLUGS = new Map([
+  ['falkland-islands-islas-malvinas', 'FK'],
+  ['hong-kong-sar-china', 'HK'],
+  ['macao-sar-china', 'MO'],
+]);
+
 export async function publishAll({ root, stateDir, registry, ownerCandidates, now, report = null }) {
   const timestamp = now();
   const repositoryScan = await readJson(path.join(stateDir, 'repositories', 'scan.json'), null);
@@ -91,6 +98,16 @@ export async function publishAll({ root, stateDir, registry, ownerCandidates, no
     await writeJson(summaryPath, summary, { compact: false });
   }
   if (await writeText(path.join(root, 'README.md'), `${renderRootReadme(summary)}\n`)) changed.pages += 1;
+  for (const [slug, code] of LEGACY_SLUGS) {
+    const country = COUNTRIES.find((item) => item.code === code);
+    const stub = [
+      `# ${country.flag} ${country.name}`,
+      '',
+      `This page has moved. See **[${country.name} — Top Repositories](./${country.slug}.md)**, or browse [Top Developers](./developers/${country.slug}.md) and [Top Contributors](./contributors/${country.slug}.md).`,
+      '',
+    ].join('\n');
+    if (await writeText(path.join(root, 'rankings', `${slug}.md`), stub)) changed.pages += 1;
+  }
 
   return {
     changed,
@@ -145,11 +162,11 @@ export function toDataDocument(ranking, previous, timestamp) {
 }
 
 function publicCoverage(ranking) {
-  const { location, starScan, followerScan, ...rest } = ranking.coverage;
+  // Global scan progress lives in data/summary.json only, so a moving global
+  // frontier does not rewrite every country's dataset on every run.
+  const { location, starScan, followerScan, verifiedStarFloor, verifiedFollowerFloor, ...rest } = ranking.coverage;
   return {
     ...rest,
-    starScan: starScan ? { basis: starScan.basis, cycle: starScan.cycle, verifiedFloor: starScan.verifiedFloor } : undefined,
-    followerScan: followerScan ? { basis: followerScan.basis, cycle: followerScan.cycle, verifiedFloor: followerScan.verifiedFloor } : undefined,
     location: location
       ? { complete: location.complete, completeWithoutGaps: location.completeWithoutGaps, round: location.round, termIndex: location.termIndex, terms: location.terms, unresolved: location.unresolved }
       : undefined,

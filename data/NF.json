@@ -1,0 +1,21 @@
+{
+"schemaVersion": 3,
+"mode": "repositories",
+"methodologyVersion": "1.0.0",
+"country": {"code":"NF","name":"Norfolk Island","slug":"norfolk-island"},
+"status": "stale",
+"source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
+"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":6,"ownerExpansionBacklog":6,"candidates":6,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"repositories": [
+  {"rank":1,"id":null,"name":"liblogger","nameWithOwner":"MoreChickenDelivered/liblogger","url":"https://github.com/MoreChickenDelivered/liblogger","description":null,"stars":3,"forks":1,"primaryLanguage":"C++","license":null,"createdAt":"2020-04-30T21:03:39Z","pushedAt":"2024-12-11T03:33:53Z","archived":false,"owner":{"login":"MoreChickenDelivered","name":"MoreChickenDelivered","type":"Organization","url":"https://github.com/MoreChickenDelivered","location":"Norfolk Island","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
+  {"rank":2,"id":null,"name":"amazon-gift-card-generator","nameWithOwner":"ENIGMA2O5/amazon-gift-card-generator","url":"https://github.com/ENIGMA2O5/amazon-gift-card-generator","description":null,"stars":2,"forks":2,"primaryLanguage":"Python","license":null,"createdAt":"2022-08-13T03:47:30Z","pushedAt":"2025-02-04T08:00:37Z","archived":false,"owner":{"login":"ENIGMA2O5","name":"ENGIMA205","type":"User","url":"https://github.com/ENIGMA2O5","location":"norfolk island","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
+  {"rank":3,"id":null,"name":"sight-server-application","nameWithOwner":"mark-ssd/sight-server-application","url":"https://github.com/mark-ssd/sight-server-application","description":null,"stars":1,"forks":0,"primaryLanguage":"C++","license":null,"createdAt":"2024-10-16T23:35:08Z","pushedAt":"2024-10-16T23:36:34Z","archived":false,"owner":{"login":"mark-ssd","name":"Mark SSD","type":"User","url":"https://github.com/mark-ssd","location":"Norfolk Island","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
+  {"rank":4,"id":null,"name":"lemonthebestolob","nameWithOwner":"lemonthebestolob/lemonthebestolob","url":"https://github.com/lemonthebestolob/lemonthebestolob","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-30T15:31:00Z","pushedAt":"2024-09-30T15:31:18Z","archived":false,"owner":{"login":"lemonthebestolob","name":null,"type":"User","url":"https://github.com/lemonthebestolob","location":"Norfolk Island (NF)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
+  {"rank":5,"id":null,"name":"sketch-data-populator","nameWithOwner":"Specularpota/sketch-data-populator","url":"https://github.com/Specularpota/sketch-data-populator","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-12-18T20:52:40Z","pushedAt":"2023-12-18T20:52:41Z","archived":false,"owner":{"login":"Specularpota","name":"Specularpota","type":"User","url":"https://github.com/Specularpota","location":"Norfolk Island","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
+  {"rank":6,"id":null,"name":"verbose-octo-waffle","nameWithOwner":"swebster94/verbose-octo-waffle","url":"https://github.com/swebster94/verbose-octo-waffle","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-09-26T03:56:56Z","pushedAt":"2026-09-26T03:56:58Z","archived":false,"owner":{"login":"swebster94","name":"Steven Webster","type":"User","url":"https://github.com/swebster94","location":"New Max, Norfolk Island","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true}
+],
+"contentHash": "5f8c4b4dc2789533",
+"updatedAt": "2026-11-22T08:29:21.106Z",
+"verifiedOn": "2026-10-27",
+"generatedAt": "2026-11-22T08:29:21.106Z"
+}

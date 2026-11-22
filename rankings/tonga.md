@@ -1,57 +1,344 @@
-<p align="center" aria-label="Tonga flag" style="font-size:72px">🇹🇴</p>
+<div align="center">
 
-<h1 align="center">Tonga</h1>
+<a href="../README.md"><img src="../assets/brand/gitsphere-mark.svg" width="44" height="44" alt="GitSphere"></a>
 
-<p align="center">
-  <a href="./README.md"><strong>Browse countries</strong></a> ·
-  <a href="../docs/METHODOLOGY.md">Methodology</a> ·
-  <a href="../README.md">Project home</a>
-</p>
+# 🇹🇴 Tonga
 
-## Repository ranking status: Building 67%
+<b>Top Repositories</b> — Discover the most-starred GitHub repositories.
 
-- Geography terms processed: **39 / 58**
-- Progress: **67%**
-- Retained high-potential owner candidates: **45**
-- Search requests completed: **40**
-- Unresolved shards: **0**
+<sub><b>Top Repositories</b> &nbsp;·&nbsp; <a href="./developers/tonga.md">Top Developers</a> &nbsp;·&nbsp; <a href="./contributors/tonga.md">Top Contributors</a></sub>
 
-The crawler saves its exact shard queue and pagination cursor, so progress continues across GitHub Actions runs instead of restarting.
+</div>
 
-## Early preview
+<div align="center">
 
-> These are the strongest repository candidates discovered **so far**. This is not the final country ranking and can change as city, town, district, alias, and search-shard coverage expands.
+| Status | Repositories | Last update | Data |
+| :---: | :---: | :---: | :---: |
+| 🟠 Stale | **43** | 22 Nov 2026 | <a href="../data/TO.json">JSON</a> |
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [Cartus/Automated-Fact-Checking-Resources](https://github.com/Cartus/Automated-Fact-Checking-Resources) | **580** | Tonga |
-| [12john123/Deep-generative-adversarial-reinforcement-learning-for-semi-supervised-segmentation-in-medical-image](https://github.com/12john123/Deep-generative-adversarial-reinforcement-learning-for-semi-supervised-segmentation-in-medical-image) | **10** | Tonga |
-| [Tonspay/Tonspay-monitor](https://github.com/Tonspay/Tonspay-monitor) | **7** | Tonga |
-| [tadongyro/contrib-pool-3-900](https://github.com/tadongyro/contrib-pool-3-900) | **5** | Rachelmouth, Tonga |
-| [staumoepeau/loan_management](https://github.com/staumoepeau/loan_management) | **2** | Tonga |
-| [ccrryysstt44ll/Kitty-App](https://github.com/ccrryysstt44ll/Kitty-App) | **1** | Tonga 🇹🇴 |
-| [Forge-Limited/pasifika-token](https://github.com/Forge-Limited/pasifika-token) | **1** | Tonga |
-| [mafiyaofthehacking/1King](https://github.com/mafiyaofthehacking/1King) | **1** | Tonga-6 Microsmart |
-| [Maui222/page](https://github.com/Maui222/page) | **1** | Tonga |
-| [taufa/COMP9321](https://github.com/taufa/COMP9321) | **1** | Tongatapu, Tonga |
-| [The-Kids-Hub/the-kids-hub-fe](https://github.com/The-Kids-Hub/the-kids-hub-fe) | **1** | Tonga |
-| [brobertson89/blog](https://github.com/brobertson89/blog) | **0** | Birdhaven, Tonga |
-| [byte315/namecheap-](https://github.com/byte315/namecheap-) | **0** | Tonga |
-| [click-mouse/python](https://github.com/click-mouse/python) | **0** | 42640 ,Orn Forest ,Lake Irwinside ,Kansas ,Tonga |
-| [CookieDogxox/PullZoomView](https://github.com/CookieDogxox/PullZoomView) | **0** | Tonga |
+</div>
 
-## Repository-first scan
+<table>
+<thead><tr><th align="right">#</th><th align="left">Repository</th><th align="right">Stars</th><th align="right">Forks</th><th align="left">Language</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><img src="https://github.com/Cartus.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Cartus/Automated-Fact-Checking-Resources"><b>Cartus/Automated-Fact-Checking-Resources</b></a></td>
+<td align="right"><b>580</b></td>
+<td align="right">63</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/12john123.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/12john123/Deep-generative-adversarial-reinforcement-learning-for-semi-supervised-segmentation-in-medical-image"><b>12john123/Deep-generative-adversarial-reinforcement-learning-for-semi-supervised-segmentation-in-medical-image</b></a></td>
+<td align="right"><b>10</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/Tonspay.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Tonspay/Tonspay-monitor"><b>Tonspay/Tonspay-monitor</b></a></td>
+<td align="right"><b>7</b></td>
+<td align="right">8</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><img src="https://github.com/tadongyro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tadongyro/contrib-pool-3-900"><b>tadongyro/contrib-pool-3-900</b></a></td>
+<td align="right"><b>5</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/staumoepeau.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/staumoepeau/loan_management"><b>staumoepeau/loan&#95;management</b></a></td>
+<td align="right"><b>2</b></td>
+<td align="right">2</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/ccrryysstt44ll.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ccrryysstt44ll/Kitty-App"><b>ccrryysstt44ll/Kitty-App</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/Forge-Limited.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Forge-Limited/pasifika-token"><b>Forge-Limited/pasifika-token</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>Solidity</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><img src="https://github.com/Maui222.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Maui222/page"><b>Maui222/page</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/taufa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/taufa/COMP9321"><b>taufa/COMP9321</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/The-Kids-Hub.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/The-Kids-Hub/the-kids-hub-fe"><b>The-Kids-Hub/the-kids-hub-fe</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/Doge-Driver.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Doge-Driver/AutoDrive"><b>Doge-Driver/AutoDrive</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/open-falcun.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/open-falcun/falcun-client"><b>open-falcun/falcun-client</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/brobertson89.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/brobertson89/blog"><b>brobertson89/blog</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/byte315.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/byte315/namecheap-"><b>byte315/namecheap-</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><img src="https://github.com/click-mouse.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/click-mouse/python"><b>click-mouse/python</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><img src="https://github.com/CookieDogxox.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CookieDogxox/PullZoomView"><b>CookieDogxox/PullZoomView</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><img src="https://github.com/Digital-Transformation-Tonga.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Digital-Transformation-Tonga/public-resources"><b>Digital-Transformation-Tonga/public-resources</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><img src="https://github.com/FHTmp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FHTmp/niu"><b>FHTmp/niu</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><img src="https://github.com/firelight946140challenge.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/firelight946140challenge/dancer.js"><b>firelight946140challenge/dancer.js</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><img src="https://github.com/FishCrusader.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FishCrusader/JXA-Cookbook"><b>FishCrusader/JXA-Cookbook</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><img src="https://github.com/flynewerswhitefox.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/flynewerswhitefox/flynewerswhitefox"><b>flynewerswhitefox/flynewerswhitefox</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><img src="https://github.com/fonua.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fonua/fonua.github.io"><b>fonua/fonua.github.io</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td><img src="https://github.com/FortuneDev1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FortuneDev1/AI-Course-2026"><b>FortuneDev1/AI-Course-2026</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td><img src="https://github.com/hotzarzimximik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hotzarzimximik/hotzarzimximik"><b>hotzarzimximik/hotzarzimximik</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td><img src="https://github.com/JonLiki.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JonLiki/CS412-Project"><b>JonLiki/CS412-Project</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td><img src="https://github.com/KrayTwins.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KrayTwins/Creating-an-EC2-Instance-in-a-VPC-with-the-AWS-CLI"><b>KrayTwins/Creating-an-EC2-Instance-in-a-VPC-with-the-AWS-CLI</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td><img src="https://github.com/losanateutau.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/losanateutau/losanateutau"><b>losanateutau/losanateutau</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td><img src="https://github.com/maileh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maileh/packetbeat"><b>maileh/packetbeat</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td><img src="https://github.com/Maletino.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Maletino/LinkToRStudio"><b>Maletino/LinkToRStudio</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td><img src="https://github.com/massimodidato.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/massimodidato/atomsync"><b>massimodidato/atomsync</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">31</td>
+<td><img src="https://github.com/melermarcussanti.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/melermarcussanti/melermarcussanti"><b>melermarcussanti/melermarcussanti</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">32</td>
+<td><img src="https://github.com/moss12x88.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/moss12x88/image-generator-tool"><b>moss12x88/image-generator-tool</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">33</td>
+<td><img src="https://github.com/muamoholeva.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/muamoholeva/https-github.com-Ensign-College-2-6-flow-of-information-muamoholeva-fetch-"><b>muamoholeva/https-github.com-Ensign-College-2-6-flow-of-information-muamoholeva-fetch-</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">34</td>
+<td><img src="https://github.com/Nefu-Fili.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Nefu-Fili/Nefu-Fili"><b>Nefu-Fili/Nefu-Fili</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">35</td>
+<td><img src="https://github.com/Pace417.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Pace417/oldGIT"><b>Pace417/oldGIT</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">36</td>
+<td><img src="https://github.com/siumafua.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/siumafua/nextjs-dashboard"><b>siumafua/nextjs-dashboard</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">37</td>
+<td><img src="https://github.com/StevenEsau2023.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/StevenEsau2023/Cross-platform-Apps-"><b>StevenEsau2023/Cross-platform-Apps-</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">38</td>
+<td><img src="https://github.com/technobirdcal-archives.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/technobirdcal-archives/.github"><b>technobirdcal-archives/.github</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">39</td>
+<td><img src="https://github.com/tonganvet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tonganvet/tonganvet.github.io"><b>tonganvet/tonganvet.github.io</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">40</td>
+<td><img src="https://github.com/TWICT25.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TWICT25/twict"><b>TWICT25/twict</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">41</td>
+<td><img src="https://github.com/wantLowkeyAnan00n45.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wantLowkeyAnan00n45/bideo.js"><b>wantLowkeyAnan00n45/bideo.js</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">42</td>
+<td><img src="https://github.com/wrenkj2mvq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wrenkj2mvq/kubernetes-health-checker"><b>wrenkj2mvq/kubernetes-health-checker</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">43</td>
+<td><img src="https://github.com/XornRetux.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/XornRetux/XornPloit"><b>XornRetux/XornPloit</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
 
-- Verified high-star candidates retained: **2**
-- Current global star frontier: **260**
+<details>
+<summary><b>Coverage and methodology</b></summary>
 
-### High-star verified preview
+- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Global star scan:** every public non-fork repository with at least **—** stars has been enumerated (current cycle in progress).
+- **Cutoff:** the last listed repository has 0 stars; 43 attributed candidates are tracked.
+- 43 entries were carried over from the previous dataset and are pending revalidation.
+- 43 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 0 in round 1.
+- Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
-> These repositories were found by the independent global stars-desc scan and their owner locations resolved to this country. The list becomes final only when the global scan frontier drops below the country’s 100th-place star cutoff.
+</details>
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [aplotor/expanse](https://github.com/aplotor/expanse) | **430** | TO |
-| [aplotor/eternity](https://github.com/aplotor/eternity) | **264** | TO |
+---
 
-When the verified crawl reaches publication readiness, this page is automatically replaced by the most-starred repository ranking.
+<p align="center"><sub><a href="./README.md">← All countries</a> &nbsp;·&nbsp; <a href="../README.md">GitSphere home</a> &nbsp;·&nbsp; <a href="../docs/METHODOLOGY.md">Methodology</a> &nbsp;·&nbsp; <a href="https://github.com/ish4ra/GitSphere">Source</a></sub></p>
+

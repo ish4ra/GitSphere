@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"mode": "developers",
+"methodologyVersion": "1.0.0",
+"country": {"code":"BA","name":"Bosnia & Herzegovina","slug":"bosnia-herzegovina"},
+"status": "building",
+"source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
+"coverage": {"basis":"partial","verifiedFollowerFloor":null,"cutoffFollowers":null,"candidates":0,"followerScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"users": [],
+"contentHash": "d9144e575cdd6dd5",
+"updatedAt": "2026-11-22T08:29:21.106Z",
+"verifiedOn": null,
+"generatedAt": "2026-11-22T08:29:21.106Z"
+}

@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"country": {"code":"SS","name":"South Sudan","slug":"south-sudan"},
+"count": 7,
+"accounts": [
+  {"id":"U_kgDODqco2Q","login":"AndreaFabbri4L","type":"User","name":"Andrea","location":"Sud Sudan☂💥","attribution":{"code":"SS","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T14:26:30.321Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOB2tuQA","login":"gopherstud","type":"User","name":"gopher student","location":"Kafia Kingi","attribution":{"code":"SS","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-03T01:07:50.569Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjg1Nzg5NzIx","login":"JacobDhieu","type":"User","name":"JacobDhieu","location":"Juba, SSD","attribution":{"code":"SS","confidence":"medium","evidence":"consistent-places"},"seenAt":"2026-11-03T01:07:50.569Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjI5NjcxMzg2","login":"lasuba","type":"User","name":"Mawa Zephaniah Isaac","location":"Juba, SSD","attribution":{"code":"SS","confidence":"medium","evidence":"consistent-places"},"seenAt":"2026-11-03T01:07:50.569Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjU4NjgwODU1","login":"moggamoses","type":"User","name":"Mogga Moses Lodu","location":"Torit","attribution":{"code":"SS","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-03T01:07:50.569Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOEgetDQ","login":"Nasmadein56","type":"User","name":"Nasmadine","location":"Malakal","attribution":{"code":"SS","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-03T01:07:50.569Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDODOkOhQ","login":"Niger123321","type":"User","name":"Ademir Mefibosete Costa Pinto","location":"sudão do sul","attribution":{"code":"SS","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T01:07:50.569Z","sources":["legacy-owner-discovery"]}
+]
+}

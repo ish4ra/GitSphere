@@ -1,41 +1,141 @@
-<p align="center" aria-label="Papua New Guinea flag" style="font-size:72px">🇵🇬</p>
+<div align="center">
 
-<h1 align="center">Papua New Guinea</h1>
+<a href="../README.md"><img src="../assets/brand/gitsphere-mark.svg" width="44" height="44" alt="GitSphere"></a>
 
-<p align="center">
-  <a href="./README.md"><strong>Browse countries</strong></a> ·
-  <a href="../docs/METHODOLOGY.md">Methodology</a> ·
-  <a href="../README.md">Project home</a>
-</p>
+# 🇵🇬 Papua New Guinea
 
-## Repository ranking status: Building 20%
+<b>Top Repositories</b> — Discover the most-starred GitHub repositories.
 
-- Geography terms processed: **31 / 152**
-- Progress: **20%**
-- Retained high-potential owner candidates: **13**
-- Search requests completed: **48**
-- Unresolved shards: **0**
+<sub><b>Top Repositories</b> &nbsp;·&nbsp; <a href="./developers/papua-new-guinea.md">Top Developers</a> &nbsp;·&nbsp; <a href="./contributors/papua-new-guinea.md">Top Contributors</a></sub>
 
-The crawler saves its exact shard queue and pagination cursor, so progress continues across GitHub Actions runs instead of restarting.
+</div>
 
-## Early preview
+<div align="center">
 
-> These are the strongest repository candidates discovered **so far**. This is not the final country ranking and can change as city, town, district, alias, and search-shard coverage expands.
+| Status | Repositories | Last update | Data |
+| :---: | :---: | :---: | :---: |
+| 🟠 Stale | **14** | 22 Nov 2026 | <a href="../data/PG.json">JSON</a> |
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [aiposnem400-Candycruz/bakeysalce](https://github.com/aiposnem400-Candycruz/bakeysalce) | **1** | Goroka |
-| [ishmaelmarshall/Mimo-Python-Development-Project-Chatbot-1](https://github.com/ishmaelmarshall/Mimo-Python-Development-Project-Chatbot-1) | **1** | Alotau |
-| [josefem247/WhatsApp-OSINT-](https://github.com/josefem247/WhatsApp-OSINT-) | **1** | Wewak,East Sepik Province,PNG |
-| [2021313068/2021313068](https://github.com/2021313068/2021313068) | **0** | Goroka |
-| [alicodes786/bridgit-ai](https://github.com/alicodes786/bridgit-ai) | **0** | Gulf |
-| [AllanKoaikJunior/gitTest-](https://github.com/AllanKoaikJunior/gitTest-) | **0** | East New Britain |
-| [austinpolin/melanesianbuiltenvironment.github.io](https://github.com/austinpolin/melanesianbuiltenvironment.github.io) | **0** | Alotau, 211 |
-| [kdmatk/TAQEB-](https://github.com/kdmatk/TAQEB-) | **0** | gulf |
-| [Olivempa/dipsagroup-](https://github.com/Olivempa/dipsagroup-) | **0** | Goroka  |
-| [Raval2025/raval-vet-site](https://github.com/Raval2025/raval-vet-site) | **0** | East New Britain |
-| [sagekeith/sagekeith.github.io](https://github.com/sagekeith/sagekeith.github.io) | **0** | Gulf, NC |
-| [Smart-Kids-com/SK-KW](https://github.com/Smart-Kids-com/SK-KW) | **0** | GULF |
-| [uogstd/Secure-Login-System-Project](https://github.com/uogstd/Secure-Login-System-Project) | **0** | Goroka |
+</div>
 
-When the verified crawl reaches publication readiness, this page is automatically replaced by the most-starred repository ranking.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Repository</th><th align="right">Stars</th><th align="right">Forks</th><th align="left">Language</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><img src="https://github.com/aiposnem400-Candycruz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aiposnem400-Candycruz/bakeysalce"><b>aiposnem400-Candycruz/bakeysalce</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/ishmaelmarshall.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ishmaelmarshall/Mimo-Python-Development-Project-Chatbot-1"><b>ishmaelmarshall/Mimo-Python-Development-Project-Chatbot-1</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/josefem247.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/josefem247/WhatsApp-OSINT-"><b>josefem247/WhatsApp-OSINT-</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><img src="https://github.com/2021313068.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/2021313068/2021313068"><b>2021313068/2021313068</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/AllanKoaikJunior.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AllanKoaikJunior/gitTest-"><b>AllanKoaikJunior/gitTest-</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/Amilcar3pa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Amilcar3pa/prueba_git"><b>Amilcar3pa/prueba&#95;git</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/austinpolin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/austinpolin/melanesianbuiltenvironment.github.io"><b>austinpolin/melanesianbuiltenvironment.github.io</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><img src="https://github.com/dryvasyatukyda.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dryvasyatukyda/dryvasyatukyda"><b>dryvasyatukyda/dryvasyatukyda</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/EaFa0809.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EaFa0809/ch8-9-WAD"><b>EaFa0809/ch8-9-WAD</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/mrmonsterburgh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mrmonsterburgh/mrmonsterburgh"><b>mrmonsterburgh/mrmonsterburgh</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/Olivempa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Olivempa/dipsagroup-"><b>Olivempa/dipsagroup-</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/Raval2025.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Raval2025/raval-vet-site"><b>Raval2025/raval-vet-site</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/slecegui.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/slecegui/training-app"><b>slecegui/training-app</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/uogstd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/uogstd/Secure-Login-System-Project"><b>uogstd/Secure-Login-System-Project</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>JavaScript</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary><b>Coverage and methodology</b></summary>
+
+- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Global star scan:** every public non-fork repository with at least **—** stars has been enumerated (current cycle in progress).
+- **Cutoff:** the last listed repository has 0 stars; 14 attributed candidates are tracked.
+- 14 entries were carried over from the previous dataset and are pending revalidation.
+- 14 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 0 in round 1.
+- Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
+
+</details>
+
+---
+
+<p align="center"><sub><a href="./README.md">← All countries</a> &nbsp;·&nbsp; <a href="../README.md">GitSphere home</a> &nbsp;·&nbsp; <a href="../docs/METHODOLOGY.md">Methodology</a> &nbsp;·&nbsp; <a href="https://github.com/ish4ra/GitSphere">Source</a></sub></p>
+

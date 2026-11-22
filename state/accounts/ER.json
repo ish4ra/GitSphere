@@ -1,0 +1,23 @@
+{
+"schemaVersion": 3,
+"country": {"code":"ER","name":"Eritrea","slug":"eritrea"},
+"count": 16,
+"accounts": [
+  {"id":"U_kgDOChvimg","login":"AbelNebay","type":"User","name":"Abel Nebay","location":"Eritrea","attribution":{"code":"ER","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:58:13.770Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjM4NzYxMTY4","login":"aigemito","type":"User","name":"Amanuel Isack Gebreendrias","location":"Asmara,Eritrea","attribution":{"code":"ER","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:58:13.770Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCuqJoQ","login":"branskreelan","type":"User","location":"Eritrea (ER)","attribution":{"code":"ER","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:58:13.770Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjI5OTUyMDI5","login":"dawithax","type":"User","name":"Dawit Semere","location":"Eritrea","attribution":{"code":"ER","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:58:13.770Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjc5MTQ3Mzc1","login":"EStudioApps","type":"User","location":"Asmara, Eritrea","attribution":{"code":"ER","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:58:13.770Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjE3OTA2MjAz","login":"kudustekle","type":"User","name":"KUDUS TEKLE","location":"Eritrea,Asmara","attribution":{"code":"ER","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:58:13.770Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDODlK62g","login":"maryosu","type":"User","name":"Mary","location":"Eritrea","attribution":{"code":"ER","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:58:13.770Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjc1OTk1NjM4","login":"negusebf","type":"User","name":"Negusse Berhane","location":"Asmara, Eritrea","attribution":{"code":"ER","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:58:13.770Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjY0Njc3MDc0","login":"rami-star","type":"User","name":"ራሚኖ","location":"Eritrea","attribution":{"code":"ER","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:58:13.770Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjU4MjA0ODY2","login":"robelzemicheal","type":"User","name":"robel zemicheal","location":"Eritrea","attribution":{"code":"ER","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:58:13.770Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjI1ODI4OTQ3","login":"SamoneII","type":"User","name":"Samuel","location":"Eritrea","attribution":{"code":"ER","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:58:13.770Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjQzMDE3NjU=","login":"temesghen","type":"User","name":"temesghen","location":"Asmara, Eritrea","attribution":{"code":"ER","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:58:13.770Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjI2NzM3MTAx","login":"tesitsolutions","type":"User","location":"Asmara, Eritrea","attribution":{"code":"ER","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:58:13.770Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjIyNDI5NzY2","login":"teszen","type":"User","name":"eaglerise@gmail.com","location":"Asmara, Eritrea","attribution":{"code":"ER","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:58:13.770Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCICS8Q","login":"Utikeles","type":"User","location":"Eritrea","attribution":{"code":"ER","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:58:13.770Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCuPpWQ","login":"zeroprinmrzadrot","type":"User","location":"Eritrea (ER)","attribution":{"code":"ER","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:58:13.770Z","sources":["legacy-owner-discovery"]}
+]
+}

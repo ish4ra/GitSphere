@@ -1,43 +1,211 @@
-<p align="center" aria-label="Kiribati flag" style="font-size:72px">🇰🇮</p>
+<div align="center">
 
-<h1 align="center">Kiribati</h1>
+<a href="../README.md"><img src="../assets/brand/gitsphere-mark.svg" width="44" height="44" alt="GitSphere"></a>
 
-<p align="center">
-  <a href="./README.md"><strong>Browse countries</strong></a> ·
-  <a href="../docs/METHODOLOGY.md">Methodology</a> ·
-  <a href="../README.md">Project home</a>
-</p>
+# 🇰🇮 Kiribati
 
-## Repository ranking status: Building 66%
+<b>Top Repositories</b> — Discover the most-starred GitHub repositories.
 
-- Geography terms processed: **40 / 60**
-- Progress: **66%**
-- Retained high-potential owner candidates: **24**
-- Search requests completed: **40**
-- Unresolved shards: **0**
+<sub><b>Top Repositories</b> &nbsp;·&nbsp; <a href="./developers/kiribati.md">Top Developers</a> &nbsp;·&nbsp; <a href="./contributors/kiribati.md">Top Contributors</a></sub>
 
-The crawler saves its exact shard queue and pagination cursor, so progress continues across GitHub Actions runs instead of restarting.
+</div>
 
-## Early preview
+<div align="center">
 
-> These are the strongest repository candidates discovered **so far**. This is not the final country ranking and can change as city, town, district, alias, and search-shard coverage expands.
+| Status | Repositories | Last update | Data |
+| :---: | :---: | :---: | :---: |
+| 🟠 Stale | **24** | 22 Nov 2026 | <a href="../data/KI.json">JSON</a> |
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [PAJO-egg/ancient_defense](https://github.com/PAJO-egg/ancient_defense) | **4** | Kiribati |
-| [abonteman/wdd230](https://github.com/abonteman/wdd230) | **1** | Tabwakea, Kiritimati |
-| [bekarakaranabutae-oss/MY-PORTFOLIO](https://github.com/bekarakaranabutae-oss/MY-PORTFOLIO) | **1** | Kiribati |
-| [hola2005kaikai/ProjectsKiri](https://github.com/hola2005kaikai/ProjectsKiri) | **1** | Kiribati, Tarawa |
-| [jinxing150/urbanSoundsCnn](https://github.com/jinxing150/urbanSoundsCnn) | **1** | Kiribati  |
-| [Minecraft-COMiC/COMiC](https://github.com/Minecraft-COMiC/COMiC) | **1** | Kiribati |
-| [truneosprinter/tetros](https://github.com/truneosprinter/tetros) | **1** | London, Kiribati |
-| [Aj-Kazza/wdd231](https://github.com/Aj-Kazza/wdd231) | **0** | Kiribati |
-| [byui-riben/dw130](https://github.com/byui-riben/dw130) | **0** | Kiribati |
-| [cl6x/6vhda](https://github.com/cl6x/6vhda) | **0** | banana village |
-| [entrejambe/branlitox](https://github.com/entrejambe/branlitox) | **0** | Kiribati |
-| [James1348/me](https://github.com/James1348/me) | **0** | Banana, Kiribati |
-| [jojoramarsexypanda/jojoramarsexypanda](https://github.com/jojoramarsexypanda/jojoramarsexypanda) | **0** | Kiribati (KI) |
-| [lagerredzilla/lagerredzilla](https://github.com/lagerredzilla/lagerredzilla) | **0** | Kiribati (KI) |
-| [lepatriinukast/kandlekeel](https://github.com/lepatriinukast/kandlekeel) | **0** | Tarawa, Kiribati |
+</div>
 
-When the verified crawl reaches publication readiness, this page is automatically replaced by the most-starred repository ranking.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Repository</th><th align="right">Stars</th><th align="right">Forks</th><th align="left">Language</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><img src="https://github.com/PAJO-egg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PAJO-egg/ancient_defense"><b>PAJO-egg/ancient&#95;defense</b></a></td>
+<td align="right"><b>4</b></td>
+<td align="right">0</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/bekarakaranabutae-oss.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bekarakaranabutae-oss/MY-PORTFOLIO"><b>bekarakaranabutae-oss/MY-PORTFOLIO</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">1</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/abonteman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abonteman/wdd230"><b>abonteman/wdd230</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><img src="https://github.com/hola2005kaikai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hola2005kaikai/ProjectsKiri"><b>hola2005kaikai/ProjectsKiri</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/jinxing150.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jinxing150/urbanSoundsCnn"><b>jinxing150/urbanSoundsCnn</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/Minecraft-COMiC.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Minecraft-COMiC/COMiC"><b>Minecraft-COMiC/COMiC</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/truneosprinter.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/truneosprinter/tetros"><b>truneosprinter/tetros</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>Assembly</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><img src="https://github.com/Aj-Kazza.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Aj-Kazza/wdd231"><b>Aj-Kazza/wdd231</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/byui-riben.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/byui-riben/dw130"><b>byui-riben/dw130</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/cl6x.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cl6x/6vhda"><b>cl6x/6vhda</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/entrejambe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/entrejambe/branlitox"><b>entrejambe/branlitox</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/James1348.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/James1348/me"><b>James1348/me</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/jojoramarsexypanda.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jojoramarsexypanda/jojoramarsexypanda"><b>jojoramarsexypanda/jojoramarsexypanda</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/lagerredzilla.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lagerredzilla/lagerredzilla"><b>lagerredzilla/lagerredzilla</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><img src="https://github.com/lepatriinukast.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lepatriinukast/kandlekeel"><b>lepatriinukast/kandlekeel</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><img src="https://github.com/LinsClub1228.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LinsClub1228/IB-math"><b>LinsClub1228/IB-math</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><img src="https://github.com/mhms-developer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mhms-developer/hello-world"><b>mhms-developer/hello-world</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><img src="https://github.com/MoteNakau.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MoteNakau/mhms-dental-screening"><b>MoteNakau/mhms-dental-screening</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><img src="https://github.com/riteta-rimon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/riteta-rimon/poolkj"><b>riteta-rimon/poolkj</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><img src="https://github.com/s11189926.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/s11189926/Tekiaa_s11189926"><b>s11189926/Tekiaa&#95;s11189926</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><img src="https://github.com/Sahur-PTU.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Sahur-PTU/arduino-esp-progects"><b>Sahur-PTU/arduino-esp-progects</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><img src="https://github.com/tornadoluckysun.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tornadoluckysun/tornadoluckysun"><b>tornadoluckysun/tornadoluckysun</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td><img src="https://github.com/wreiher.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wreiher/zsh-setup"><b>wreiher/zsh-setup</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td><img src="https://github.com/XxFulecoxX.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/XxFulecoxX/UnicaScr"><b>XxFulecoxX/UnicaScr</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary><b>Coverage and methodology</b></summary>
+
+- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Global star scan:** every public non-fork repository with at least **—** stars has been enumerated (current cycle in progress).
+- **Cutoff:** the last listed repository has 0 stars; 24 attributed candidates are tracked.
+- 24 entries were carried over from the previous dataset and are pending revalidation.
+- 24 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 0 in round 1.
+- Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
+
+</details>
+
+---
+
+<p align="center"><sub><a href="./README.md">← All countries</a> &nbsp;·&nbsp; <a href="../README.md">GitSphere home</a> &nbsp;·&nbsp; <a href="../docs/METHODOLOGY.md">Methodology</a> &nbsp;·&nbsp; <a href="https://github.com/ish4ra/GitSphere">Source</a></sub></p>
+

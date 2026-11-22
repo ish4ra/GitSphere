@@ -266,6 +266,19 @@ function countryDocument(code, key, records) {
     schemaVersion: RECORD_SCHEMA_VERSION,
     country: { code, name: country.name, slug: country.slug },
     count: records.length,
-    [key]: records,
+    [key]: records.map(compactRecord),
   };
+}
+
+/** Drops null/undefined/empty fields from persisted records to bound size. */
+export function compactRecord(value) {
+  if (Array.isArray(value)) return value.map(compactRecord);
+  if (!value || typeof value !== 'object') return value;
+  const result = {};
+  for (const [key, item] of Object.entries(value)) {
+    if (item === null || item === undefined) continue;
+    if (Array.isArray(item) && item.length === 0) continue;
+    result[key] = typeof item === 'object' ? compactRecord(item) : item;
+  }
+  return result;
 }

@@ -1,0 +1,19 @@
+{
+"schemaVersion": 3,
+"country": {"code":"NR","name":"Nauru","slug":"nauru"},
+"count": 12,
+"accounts": [
+  {"id":"U_kgDOCTTLww","login":"01LuckyStrike10","type":"User","name":"01LuckyStrike10","location":"Nauru","attribution":{"code":"NR","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:24:58.181Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCu5nSg","login":"bonifacyfirefly","type":"User","location":"Nauru (NR)","attribution":{"code":"NR","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-02T06:24:58.181Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjIxMjMxMDA=","login":"ensonfun","type":"User","name":"ensonfun","location":"Verse","attribution":{"code":"NR","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-02T06:24:58.181Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOBYtRew","login":"I3lackExo","type":"User","name":"I3lackExo.","location":"Ewa, Nauru","attribution":{"code":"NR","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-02T06:24:58.181Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOBhd2vA","login":"ktpnn","type":"User","name":"sax","location":"Yaren district, Nauru","attribution":{"code":"NR","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-02T06:24:58.181Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjE1MjMxMDc=","login":"Melonbwead","type":"User","name":"Melon","location":"Verse","attribution":{"code":"NR","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-02T06:24:58.181Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjMwMTgwMTY=","login":"nutsi","type":"User","location":"Yaren","attribution":{"code":"NR","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-02T06:24:58.181Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCuqHDw","login":"poxmetologdwarf","type":"User","location":"Nauru (NR)","attribution":{"code":"NR","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-02T06:24:58.181Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCtHxrw","login":"rabbitwolfder","type":"User","location":"Nauru (NR)","attribution":{"code":"NR","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-02T06:24:58.181Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDODiV_Pw","login":"rejectX","type":"User","name":"kit","location":"Nauru","attribution":{"code":"NR","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:24:58.181Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjg2MzUyODc4","login":"SatiaLee","type":"User","name":"SatiaLee","location":"Nauru","attribution":{"code":"NR","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:24:58.181Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCTI2CQ","login":"therealsocke","type":"User","name":"therealsocke","location":"Yaren","attribution":{"code":"NR","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-02T06:24:58.181Z","sources":["legacy-owner-discovery"]}
+]
+}

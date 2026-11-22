@@ -6,7 +6,7 @@
 import path from 'node:path';
 import { readJson, writeJson } from '../core/store.js';
 
-const PER_COUNTRY_LIMIT = 400;
+const PER_COUNTRY_LIMIT = 150;
 
 export class OwnerCandidates {
   constructor(stateDir) {

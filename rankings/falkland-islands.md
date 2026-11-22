@@ -1,43 +1,148 @@
-<p align="center" aria-label="Falkland Islands flag" style="font-size:72px">🇫🇰</p>
+<div align="center">
 
-<h1 align="center">Falkland Islands</h1>
+<a href="../README.md"><img src="../assets/brand/gitsphere-mark.svg" width="44" height="44" alt="GitSphere"></a>
 
-<p align="center">
-  <a href="./README.md"><strong>Browse countries</strong></a> ·
-  <a href="../docs/METHODOLOGY.md">Methodology</a> ·
-  <a href="../README.md">Project home</a>
-</p>
+# 🇫🇰 Falkland Islands
 
-## Repository ranking status: Building 100%
+<b>Top Repositories</b> — Discover the most-starred GitHub repositories.
 
-- Geography terms processed: **20 / 20**
-- Progress: **100%**
-- Retained high-potential owner candidates: **15**
-- Search requests completed: **20**
-- Unresolved shards: **0**
+<sub><b>Top Repositories</b> &nbsp;·&nbsp; <a href="./developers/falkland-islands.md">Top Developers</a> &nbsp;·&nbsp; <a href="./contributors/falkland-islands.md">Top Contributors</a></sub>
 
-The crawler saves its exact shard queue and pagination cursor, so progress continues across GitHub Actions runs instead of restarting.
+</div>
 
-## Early preview
+<div align="center">
 
-> These are the strongest repository candidates discovered **so far**. This is not the final country ranking and can change as city, town, district, alias, and search-shard coverage expands.
+| Status | Repositories | Last update | Data |
+| :---: | :---: | :---: | :---: |
+| 🟠 Stale | **15** | 22 Nov 2026 | <a href="../data/FK.json">JSON</a> |
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [hewn-py/hewn](https://github.com/hewn-py/hewn) | **2** | Falkland Islands |
-| [trrt54999/notes-winui3](https://github.com/trrt54999/notes-winui3) | **2** |  Falkland Islands |
-| [brian-j/BNJs-Liferay-Fragments](https://github.com/brian-j/BNJs-Liferay-Fragments) | **1** | Falkland Islands |
-| [toastershock/PDF](https://github.com/toastershock/PDF) | **1** | Falkland Islands |
-| [Dunedayl/KNTU-2023](https://github.com/Dunedayl/KNTU-2023) | **0** | Falkland islands |
-| [Jansen27/Student](https://github.com/Jansen27/Student) | **0** | Stanley, Falkland Islands |
-| [martinglhf/paraliparis-bathypelagicus-poster-references](https://github.com/martinglhf/paraliparis-bathypelagicus-poster-references) | **0** | Stanley, Falkland Islands |
-| [MauriOfc/MauriBOT](https://github.com/MauriOfc/MauriBOT) | **0** | Islas Malvinas |
-| [missprissmadk/missprissmadk](https://github.com/missprissmadk/missprissmadk) | **0** | Falkland Islands (FK) |
-| [netzeeek/proyecto](https://github.com/netzeeek/proyecto) | **0** | Islas Malvinas |
-| [OmaRadio/omaradio-numbers-station](https://github.com/OmaRadio/omaradio-numbers-station) | **0** | Falkland Islands |
-| [OwenRF/CSHARPWORK](https://github.com/OwenRF/CSHARPWORK) | **0** | Falkland Islands |
-| [saeri-ims/1956-aerial-imagery](https://github.com/saeri-ims/1956-aerial-imagery) | **0** | Stanley, Falkland Islands |
-| [TipsetFalseBan/sphinx_rtd_theme](https://github.com/TipsetFalseBan/sphinx_rtd_theme) | **0** | Falkland Islands |
-| [warpathprostfrost/warpathprostfrost](https://github.com/warpathprostfrost/warpathprostfrost) | **0** | Falkland Islands (FK) |
+</div>
 
-When the verified crawl reaches publication readiness, this page is automatically replaced by the most-starred repository ranking.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Repository</th><th align="right">Stars</th><th align="right">Forks</th><th align="left">Language</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><img src="https://github.com/hewn-py.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hewn-py/hewn"><b>hewn-py/hewn</b></a></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/trrt54999.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/trrt54999/notes-winui3"><b>trrt54999/notes-winui3</b></a></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/brian-j.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/brian-j/BNJs-Liferay-Fragments"><b>brian-j/BNJs-Liferay-Fragments</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><img src="https://github.com/toastershock.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/toastershock/PDF"><b>toastershock/PDF</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>R</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/Dunedayl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Dunedayl/KNTU-2023"><b>Dunedayl/KNTU-2023</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/Jansen27.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Jansen27/Student"><b>Jansen27/Student</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/martinglhf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/martinglhf/paraliparis-bathypelagicus-poster-references"><b>martinglhf/paraliparis-bathypelagicus-poster-references</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><img src="https://github.com/MauriOfc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MauriOfc/MauriBOT"><b>MauriOfc/MauriBOT</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/missprissmadk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/missprissmadk/missprissmadk"><b>missprissmadk/missprissmadk</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/netzeeek.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/netzeeek/proyecto"><b>netzeeek/proyecto</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/OmaRadio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/OmaRadio/omaradio-numbers-station"><b>OmaRadio/omaradio-numbers-station</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/OwenRF.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/OwenRF/CSHARPWORK"><b>OwenRF/CSHARPWORK</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/saeri-ims.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/saeri-ims/1956-aerial-imagery"><b>saeri-ims/1956-aerial-imagery</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/TipsetFalseBan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TipsetFalseBan/sphinx_rtd_theme"><b>TipsetFalseBan/sphinx&#95;rtd&#95;theme</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><img src="https://github.com/warpathprostfrost.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/warpathprostfrost/warpathprostfrost"><b>warpathprostfrost/warpathprostfrost</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary><b>Coverage and methodology</b></summary>
+
+- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Global star scan:** every public non-fork repository with at least **—** stars has been enumerated (current cycle in progress).
+- **Cutoff:** the last listed repository has 0 stars; 15 attributed candidates are tracked.
+- 15 entries were carried over from the previous dataset and are pending revalidation.
+- 15 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 0 in round 1.
+- Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
+
+</details>
+
+---
+
+<p align="center"><sub><a href="./README.md">← All countries</a> &nbsp;·&nbsp; <a href="../README.md">GitSphere home</a> &nbsp;·&nbsp; <a href="../docs/METHODOLOGY.md">Methodology</a> &nbsp;·&nbsp; <a href="https://github.com/ish4ra/GitSphere">Source</a></sub></p>
+

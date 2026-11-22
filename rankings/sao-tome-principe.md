@@ -1,43 +1,169 @@
-<p align="center" aria-label="São Tomé &amp; Príncipe flag" style="font-size:72px">🇸🇹</p>
+<div align="center">
 
-<h1 align="center">São Tomé &amp; Príncipe</h1>
+<a href="../README.md"><img src="../assets/brand/gitsphere-mark.svg" width="44" height="44" alt="GitSphere"></a>
 
-<p align="center">
-  <a href="./README.md"><strong>Browse countries</strong></a> ·
-  <a href="../docs/METHODOLOGY.md">Methodology</a> ·
-  <a href="../README.md">Project home</a>
-</p>
+# 🇸🇹 São Tomé &amp; Príncipe
 
-## Repository ranking status: Building 72%
+<b>Top Repositories</b> — Discover the most-starred GitHub repositories.
 
-- Geography terms processed: **42 / 58**
-- Progress: **72%**
-- Retained high-potential owner candidates: **20**
-- Search requests completed: **44**
-- Unresolved shards: **0**
+<sub><b>Top Repositories</b> &nbsp;·&nbsp; <a href="./developers/sao-tome-principe.md">Top Developers</a> &nbsp;·&nbsp; <a href="./contributors/sao-tome-principe.md">Top Contributors</a></sub>
 
-The crawler saves its exact shard queue and pagination cursor, so progress continues across GitHub Actions runs instead of restarting.
+</div>
 
-## Early preview
+<div align="center">
 
-> These are the strongest repository candidates discovered **so far**. This is not the final country ranking and can change as city, town, district, alias, and search-shard coverage expands.
+| Status | Repositories | Last update | Data |
+| :---: | :---: | :---: | :---: |
+| 🟠 Stale | **18** | 22 Nov 2026 | <a href="../data/ST.json">JSON</a> |
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [benildebonfim/Proj_Apresentacao](https://github.com/benildebonfim/Proj_Apresentacao) | **2** | São Tomé e Príncipe |
-| [denisquintasluiz/consumidor-situacao-escolar](https://github.com/denisquintasluiz/consumidor-situacao-escolar) | **2** | São Gabriel, São Tomé e Príncipe |
-| [abdulay-cusodio/abdulay-cusodio](https://github.com/abdulay-cusodio/abdulay-cusodio) | **1** | São Tomé and Príncipe |
-| [alekssanderquintas/portif-lio](https://github.com/alekssanderquintas/portif-lio) | **1** | São Tomé e Príncipe |
-| [henilcioterras/Padr_mvc_php](https://github.com/henilcioterras/Padr_mvc_php) | **1** | São Tomé e Príncipe |
-| [JoelGraca/calculadoraIMC](https://github.com/JoelGraca/calculadoraIMC) | **1** | São Tomé e Príncipe |
-| [nevesade/app-bank-transfert](https://github.com/nevesade/app-bank-transfert) | **1** | São Tomé e Príncipe |
-| [bd805672-eng/Focal-Operations](https://github.com/bd805672-eng/Focal-Operations) | **0** | changra ,moyna ,purba Mednipur |
-| [bigdaddydobby/bigdaddydobby](https://github.com/bigdaddydobby/bigdaddydobby) | **0** | São Tomé & Príncipe (ST) |
-| [danielneto81/Tool-System](https://github.com/danielneto81/Tool-System) | **0** | São Tomé e Príncipe |
-| [EdmyPenhor/EdmyPenhor](https://github.com/EdmyPenhor/EdmyPenhor) | **0** | São Tomé e Príncipe |
-| [EuclidesPn/EuclidesPn](https://github.com/EuclidesPn/EuclidesPn) | **0** | São Tomé e Príncipe |
-| [fredemarta/Projecto-](https://github.com/fredemarta/Projecto-) | **0** | São Tomé e Príncipe |
-| [JoaoNoel/admin-tempalte](https://github.com/JoaoNoel/admin-tempalte) | **0** | São Tomé e Príncipe |
-| [josias-gsd/loveRepository-frontEnd](https://github.com/josias-gsd/loveRepository-frontEnd) | **0** | São Tomé e Príncipe |
+</div>
 
-When the verified crawl reaches publication readiness, this page is automatically replaced by the most-starred repository ranking.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Repository</th><th align="right">Stars</th><th align="right">Forks</th><th align="left">Language</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><img src="https://github.com/benildebonfim.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/benildebonfim/Proj_Apresentacao"><b>benildebonfim/Proj&#95;Apresentacao</b></a></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/denisquintasluiz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/denisquintasluiz/consumidor-situacao-escolar"><b>denisquintasluiz/consumidor-situacao-escolar</b></a></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/abdulay-cusodio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abdulay-cusodio/abdulay-cusodio"><b>abdulay-cusodio/abdulay-cusodio</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><img src="https://github.com/alekssanderquintas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alekssanderquintas/portif-lio"><b>alekssanderquintas/portif-lio</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/henilcioterras.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/henilcioterras/Padr_mvc_php"><b>henilcioterras/Padr&#95;mvc&#95;php</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/JoelGraca.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JoelGraca/calculadoraIMC"><b>JoelGraca/calculadoraIMC</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/nevesade.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nevesade/app-bank-transfert"><b>nevesade/app-bank-transfert</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><img src="https://github.com/bigdaddydobby.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bigdaddydobby/bigdaddydobby"><b>bigdaddydobby/bigdaddydobby</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/danielneto81.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/danielneto81/Tool-System"><b>danielneto81/Tool-System</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/EdmyPenhor.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EdmyPenhor/EdmyPenhor"><b>EdmyPenhor/EdmyPenhor</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/EuclidesPn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EuclidesPn/EuclidesPn"><b>EuclidesPn/EuclidesPn</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/fredemarta.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fredemarta/Projecto-"><b>fredemarta/Projecto-</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/JoaoNoel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JoaoNoel/admin-tempalte"><b>JoaoNoel/admin-tempalte</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/josias-gsd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/josias-gsd/loveRepository-frontEnd"><b>josias-gsd/loveRepository-frontEnd</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><img src="https://github.com/kotvnaskefunmaker.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kotvnaskefunmaker/kotvnaskefunmaker"><b>kotvnaskefunmaker/kotvnaskefunmaker</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><img src="https://github.com/linkolndanyamirny.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/linkolndanyamirny/linkolndanyamirny"><b>linkolndanyamirny/linkolndanyamirny</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><img src="https://github.com/pretpo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pretpo/RunJS"><b>pretpo/RunJS</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><img src="https://github.com/thebestfragbetman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thebestfragbetman/thebestfragbetman"><b>thebestfragbetman/thebestfragbetman</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary><b>Coverage and methodology</b></summary>
+
+- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Global star scan:** every public non-fork repository with at least **—** stars has been enumerated (current cycle in progress).
+- **Cutoff:** the last listed repository has 0 stars; 18 attributed candidates are tracked.
+- 18 entries were carried over from the previous dataset and are pending revalidation.
+- 18 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 0 in round 1.
+- Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
+
+</details>
+
+---
+
+<p align="center"><sub><a href="./README.md">← All countries</a> &nbsp;·&nbsp; <a href="../README.md">GitSphere home</a> &nbsp;·&nbsp; <a href="../docs/METHODOLOGY.md">Methodology</a> &nbsp;·&nbsp; <a href="https://github.com/ish4ra/GitSphere">Source</a></sub></p>
+

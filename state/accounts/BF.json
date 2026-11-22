@@ -1,0 +1,24 @@
+{
+"schemaVersion": 3,
+"country": {"code":"BF","name":"Burkina Faso","slug":"burkina-faso"},
+"count": 17,
+"accounts": [
+  {"id":"U_kgDOC4Z5oA","login":"65257576","type":"User","name":"COULIBALY Tiecoura Ismael","location":"Bobo-Dioulasso","attribution":{"code":"BF","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-04T06:41:54.973Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCvJqjw","login":"abouattara","type":"User","name":"Abdoulaye Ouattara","location":"Bobo Dioulasso","attribution":{"code":"BF","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-04T06:41:54.973Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDODRRaHg","login":"amadetraore","type":"User","name":"AT- TECH","location":"Bobo Dioulasso","attribution":{"code":"BF","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-04T06:41:54.973Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOEGGnOQ","login":"EricDabone","type":"User","name":"DABONE","location":"Bobo-Dioulasso","attribution":{"code":"BF","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-04T06:41:54.973Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOE4gfdA","login":"iscolafia55-ux","type":"User","name":"Issa Ouattara","location":"BOBO-DIOULASSO","attribution":{"code":"BF","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-04T06:41:54.973Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCRKn_g","login":"joycetoe","type":"User","name":"Lawabien Osée Joyce TOE","location":"Bobo-Dioulasso","attribution":{"code":"BF","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-04T06:41:54.973Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCFVCyA","login":"lgndKid","type":"User","name":"SOME Arsène Lévi","location":"Bobo Dioulasso","attribution":{"code":"BF","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-04T06:41:54.973Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjMyODA1NDA0","login":"omzakrevo","type":"User","name":"SOME Zachari","location":"Banfora","attribution":{"code":"BF","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-04T06:41:54.973Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCtyt9A","login":"ouattaraamadou406","type":"User","name":"Ouattara amadou","location":"Bobo Dioulasso","attribution":{"code":"BF","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-04T06:41:54.973Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOEPzTJw","login":"oumbarry3000-create","type":"User","name":"Barry Oumarou","location":"Bobo dioulasso","attribution":{"code":"BF","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-04T06:41:54.973Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOBwuskQ","login":"Phantome01","type":"User","name":"Adama Drabo","location":"Bobo-Dioulasso","attribution":{"code":"BF","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-04T06:41:54.973Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDODL-vQw","login":"powerexpertconnect","type":"User","name":"ILBOUDO Ismaël Pathé Yaya","location":"Banfora","attribution":{"code":"BF","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-04T06:41:54.973Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOD2mZmg","login":"prototypeX-sys","type":"User","name":"SANOGO TA JOSAPHAT","location":"BOBO-DIOULASSO","attribution":{"code":"BF","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-04T06:41:54.973Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCLp_uA","login":"SergeAlain96","type":"User","name":"Tadashi_Hamada","location":"Bobo-Dioulasso","attribution":{"code":"BF","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-04T06:41:54.973Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDODtUWoA","login":"Siedou","type":"User","name":"SORY Siédou","location":"Bobo Dioulasso","attribution":{"code":"BF","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-04T06:41:54.973Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjcwNTIzODcy","login":"syounoussa","type":"User","name":"SIDIBE YOUNOUSSA","location":"Bobo Dioulasso","attribution":{"code":"BF","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-04T06:41:54.973Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOFIGNtQ","login":"UrbanStyleBF","type":"User","name":"UrbanStyleBF","location":"Bobo Dioulasso","attribution":{"code":"BF","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-04T06:41:54.973Z","sources":["legacy-owner-discovery"]}
+]
+}

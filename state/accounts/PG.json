@@ -1,0 +1,21 @@
+{
+"schemaVersion": 3,
+"country": {"code":"PG","name":"Papua New Guinea","slug":"papua-new-guinea"},
+"count": 14,
+"accounts": [
+  {"id":"U_kgDOC1XMsg","login":"2021313068","type":"User","name":"MCS 443 Capstone Project Proposal (Group 2)","location":"Goroka","attribution":{"code":"PG","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-02T16:19:18.659Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOD6hlUQ","login":"aiposnem400-Candycruz","type":"User","name":"Backey","location":"Goroka","attribution":{"code":"PG","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-02T16:19:18.659Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjI0NjEwMDI4","login":"AllanKoaikJunior","type":"User","name":"Allan Koaik Junior","location":"East New Britain","attribution":{"code":"PG","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-02T16:19:18.659Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDODNpswA","login":"Amilcar3pa","type":"User","location":"Papúa Nueva Guinea","attribution":{"code":"PG","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:17.837Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjEyNjMyNTQ1","login":"austinpolin","type":"User","name":"Austin Polin","location":"Alotau, 211","attribution":{"code":"PG","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-02T16:19:18.659Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCuzHAQ","login":"dryvasyatukyda","type":"User","location":"Papoea-Nieuw-Guinea (PG)","attribution":{"code":"PG","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T13:37:17.837Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCTzSBQ","login":"EaFa0809","type":"User","name":"EaFa","location":"Papua Nueva Guinea","attribution":{"code":"PG","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:17.837Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjY2NTIwMTgz","login":"ishmaelmarshall","type":"User","name":"Ishmael Marshall","location":"Alotau","attribution":{"code":"PG","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-02T16:19:18.659Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOECn2og","login":"josefem247","type":"User","name":"Joe Mencindimi","location":"Wewak,East Sepik Province,PNG","attribution":{"code":"PG","confidence":"high","evidence":"place-with-subdivision"},"seenAt":"2026-11-02T16:19:18.659Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCu7QlQ","login":"mrmonsterburgh","type":"User","location":"Papoea-Nieuw-Guinea (PG)","attribution":{"code":"PG","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T13:37:17.837Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOC1Mwqg","login":"Olivempa","type":"User","name":"Numunepe Buk Club","location":"Goroka","attribution":{"code":"PG","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-02T16:19:18.659Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDODSRV5g","login":"Raval2025","type":"User","name":"RAVAL VOCATIONAL TRAINING CENTRE","location":"East New Britain","attribution":{"code":"PG","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-02T16:19:18.659Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjQ2OTYxMDE1","login":"slecegui","type":"User","name":"Sergio Lecegui","location":"Papúa Nueva Guinea","attribution":{"code":"PG","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:17.837Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCyebvg","login":"uogstd","type":"User","name":"UOG Student","location":"Goroka","attribution":{"code":"PG","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-02T16:19:18.659Z","sources":["legacy-owner-discovery"]}
+]
+}

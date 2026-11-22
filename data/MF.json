@@ -1,0 +1,21 @@
+{
+"schemaVersion": 3,
+"mode": "repositories",
+"methodologyVersion": "1.0.0",
+"country": {"code":"MF","name":"St. Martin","slug":"st-martin"},
+"status": "stale",
+"source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
+"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":6,"ownerExpansionBacklog":6,"candidates":6,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"repositories": [
+  {"rank":1,"id":null,"name":"sxm-quiz","nameWithOwner":"Active-Outre-Mer-Dev/sxm-quiz","url":"https://github.com/Active-Outre-Mer-Dev/sxm-quiz","description":null,"stars":1,"forks":1,"primaryLanguage":"TypeScript","license":null,"createdAt":"2023-03-04T22:03:33Z","pushedAt":"2024-07-25T12:52:54Z","archived":false,"owner":{"login":"Active-Outre-Mer-Dev","name":"Active-Outre-Mer-Dev","type":"Organization","url":"https://github.com/Active-Outre-Mer-Dev","location":"Saint Martin (French part)","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-24","pendingRevalidation":true},
+  {"rank":2,"id":null,"name":"GLappGac","nameWithOwner":"bluevistacaraibe/GLappGac","url":"https://github.com/bluevistacaraibe/GLappGac","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2015-03-22T18:56:04Z","pushedAt":"2015-03-22T18:56:04Z","archived":false,"owner":{"login":"bluevistacaraibe","name":"BLUEVISTA CARAIBES","type":"User","url":"https://github.com/bluevistacaraibe","location":"ST MARTIN","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-10-24","pendingRevalidation":true},
+  {"rank":3,"id":null,"name":"bumperbuttzorotop","nameWithOwner":"bumperbuttzorotop/bumperbuttzorotop","url":"https://github.com/bumperbuttzorotop/bumperbuttzorotop","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-28T01:52:51Z","pushedAt":"2024-09-28T01:53:08Z","archived":false,"owner":{"login":"bumperbuttzorotop","name":null,"type":"User","url":"https://github.com/bumperbuttzorotop","location":"St. Martin (MF)","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-10-24","pendingRevalidation":true},
+  {"rank":4,"id":null,"name":"commandoyaroon","nameWithOwner":"commandoyaroon/commandoyaroon","url":"https://github.com/commandoyaroon/commandoyaroon","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-30T18:41:04Z","pushedAt":"2024-09-30T18:41:17Z","archived":false,"owner":{"login":"commandoyaroon","name":null,"type":"User","url":"https://github.com/commandoyaroon","location":"St Martin (MF)","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-10-24","pendingRevalidation":true},
+  {"rank":5,"id":null,"name":"muffinthemonster","nameWithOwner":"muffinthemonster/muffinthemonster","url":"https://github.com/muffinthemonster/muffinthemonster","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-29T19:12:41Z","pushedAt":"2024-09-29T19:13:02Z","archived":false,"owner":{"login":"muffinthemonster","name":null,"type":"User","url":"https://github.com/muffinthemonster","location":"St. Martin (MF)","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-10-24","pendingRevalidation":true},
+  {"rank":6,"id":null,"name":"sgs-ener-licenses","nameWithOwner":"smerlinm/sgs-ener-licenses","url":"https://github.com/smerlinm/sgs-ener-licenses","description":null,"stars":0,"forks":0,"primaryLanguage":"Python","license":{"spdxId":"NOASSERTION"},"createdAt":"2026-01-25T08:55:29Z","pushedAt":"2026-01-25T09:32:42Z","archived":false,"owner":{"login":"smerlinm","name":"smerlinm","type":"User","url":"https://github.com/smerlinm","location":"St Martin","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-10-24","pendingRevalidation":true}
+],
+"contentHash": "59ad162cdf572048",
+"updatedAt": "2026-11-22T08:29:21.106Z",
+"verifiedOn": "2026-10-24",
+"generatedAt": "2026-11-22T08:29:21.106Z"
+}

@@ -1,0 +1,15 @@
+{
+"schemaVersion": 3,
+"country": {"code":"TF","name":"French Southern Territories","slug":"french-southern-territories"},
+"count": 8,
+"accounts": [
+  {"id":"U_kgDOCt7upA","login":"chewkekofmeister","type":"User","location":"French Southern Territories (TF)","attribution":{"code":"TF","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T06:23:59.420Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjExOTkyMTI4","login":"digglator","type":"User","name":"Jean-Baptiste","location":"Kerguelen Islands","attribution":{"code":"TF","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-01T06:23:59.420Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjcxNjAyMTc2","login":"JiKanium","type":"User","name":"Léo","location":"Terre Adélie","attribution":{"code":"TF","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-01T06:23:59.420Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjU1NjM3NzI3","login":"Le-Nedelec","type":"User","name":"Le Nedelec Alexandre","location":"French southern territories","attribution":{"code":"TF","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T06:23:59.420Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjYyNzgxMTk3","login":"litmus-ritten","type":"User","location":"Kerguelen Islands","attribution":{"code":"TF","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-01T06:23:59.420Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCu035w","login":"mubokoxbrutalking","type":"User","location":"French Southern Territories (TF)","attribution":{"code":"TF","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T06:23:59.420Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCuN3xA","login":"woodoosniper","type":"User","location":"French Southern Territories (TF)","attribution":{"code":"TF","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T06:23:59.420Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjc0NTkxOTQ3","login":"Zzl-0","type":"User","name":"Zzl_like","location":"31076 ,Breitenberg Tunnel ,Port Alannaberg ,Connecticut ,French Southern Territories","attribution":{"code":"TF","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T06:23:59.420Z","sources":["legacy-owner-discovery"]}
+]
+}

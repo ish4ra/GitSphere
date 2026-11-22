@@ -326,7 +326,10 @@ export function createGlobalLocationResolver({ countries = COUNTRIES, gazetteers
         if (!adminsJ.size) continue;
         for (const placeId of segments[i].places) {
           if (placeAdmin[placeId] >= 0 && adminsJ.has(placeAdmin[placeId])) {
-            found.set(countryCodes[placeCountry[placeId]], `${segments[i].norm}, ${segments[j].norm}`);
+            const code = countryCodes[placeCountry[placeId]];
+            const previous = found.get(code);
+            const population = Math.max(previous?.population || 0, placePopulation[placeId]);
+            found.set(code, { label: `${segments[i].norm}, ${segments[j].norm}`, population });
           }
         }
       }
@@ -429,10 +432,17 @@ export function createGlobalLocationResolver({ countries = COUNTRIES, gazetteers
     }
 
     if (compounds.size === 1) {
-      const [code, label] = [...compounds.entries()][0];
-      return accepted(code, 'high', 'place-with-subdivision', label);
+      const [code, match] = [...compounds.entries()][0];
+      return accepted(code, 'high', 'place-with-subdivision', match.label);
     }
     if (compounds.size > 1) {
+      // "San Francisco, CA": US (870k) vs villages in subdivisions coded
+      // "CA" elsewhere. A clearly dominant compound match wins.
+      const ranked = [...compounds.entries()].sort((a, b) => b[1].population - a[1].population);
+      const [topCode, top] = ranked[0];
+      if (top.population >= DOMINANCE_RATIO * Math.max(1, ranked[1][1].population) && top.population >= 10_000) {
+        return accepted(topCode, 'high', 'dominant-place-with-subdivision', top.label);
+      }
       return ambiguous('ambiguous-compound-place', wholeNorm, [...compounds.keys()]);
     }
 

@@ -1,40 +1,127 @@
-<p align="center" aria-label="Guinea-Bissau flag" style="font-size:72px">🇬🇼</p>
+<div align="center">
 
-<h1 align="center">Guinea-Bissau</h1>
+<a href="../README.md"><img src="../assets/brand/gitsphere-mark.svg" width="44" height="44" alt="GitSphere"></a>
 
-<p align="center">
-  <a href="./README.md"><strong>Browse countries</strong></a> ·
-  <a href="../docs/METHODOLOGY.md">Methodology</a> ·
-  <a href="../README.md">Project home</a>
-</p>
+# 🇬🇼 Guinea-Bissau
 
-## Repository ranking status: Building 50%
+<b>Top Repositories</b> — Discover the most-starred GitHub repositories.
 
-- Geography terms processed: **34 / 67**
-- Progress: **50%**
-- Retained high-potential owner candidates: **12**
-- Search requests completed: **40**
-- Unresolved shards: **0**
+<sub><b>Top Repositories</b> &nbsp;·&nbsp; <a href="./developers/guinea-bissau.md">Top Developers</a> &nbsp;·&nbsp; <a href="./contributors/guinea-bissau.md">Top Contributors</a></sub>
 
-The crawler saves its exact shard queue and pagination cursor, so progress continues across GitHub Actions runs instead of restarting.
+</div>
 
-## Early preview
+<div align="center">
 
-> These are the strongest repository candidates discovered **so far**. This is not the final country ranking and can change as city, town, district, alias, and search-shard coverage expands.
+| Status | Repositories | Last update | Data |
+| :---: | :---: | :---: | :---: |
+| 🟠 Stale | **12** | 22 Nov 2026 | <a href="../data/GW.json">JSON</a> |
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [abduramanedjalo06/Boutique_Control](https://github.com/abduramanedjalo06/Boutique_Control) | **1** | Guiné-Bissau  |
-| [augoju/BitProYoS](https://github.com/augoju/BitProYoS) | **0** | Guiné-Bissau |
-| [baiojava/baiojava](https://github.com/baiojava/baiojava) | **0** | Guiné-Bissau |
-| [baldeinfamara10-droid/Primeiro-projecto-](https://github.com/baldeinfamara10-droid/Primeiro-projecto-) | **0** | Guiné-Bissau  |
-| [baribucirio-cmyk/site-clone-do-celular](https://github.com/baribucirio-cmyk/site-clone-do-celular) | **0** | Guiné-Bissau |
-| [emanuelnanquida779-oss/Projetogit](https://github.com/emanuelnanquida779-oss/Projetogit) | **0** | Guiné-Bissau  |
-| [gilgilberto31/receitawebDevHoster](https://github.com/gilgilberto31/receitawebDevHoster) | **0** | Guiné Bissau |
-| [ibanora/IdraisCAM](https://github.com/ibanora/IdraisCAM) | **0** | Guiné Bissau |
-| [johnlava/njos](https://github.com/johnlava/njos) | **0** | ingore,Guine bissau |
-| [pettyklaxs/M-sicas-GB](https://github.com/pettyklaxs/M-sicas-GB) | **0** | Guiné Bissau  |
-| [Reinaldoaugustonanque/projeto-web](https://github.com/Reinaldoaugustonanque/projeto-web) | **0** | Guiné-Bissau |
-| [Samsilva64/tvwandam](https://github.com/Samsilva64/tvwandam) | **0** | Guiné-bissau/pluba |
+</div>
 
-When the verified crawl reaches publication readiness, this page is automatically replaced by the most-starred repository ranking.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Repository</th><th align="right">Stars</th><th align="right">Forks</th><th align="left">Language</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><img src="https://github.com/abduramanedjalo06.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abduramanedjalo06/Boutique_Control"><b>abduramanedjalo06/Boutique&#95;Control</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/gilgilberto31.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gilgilberto31/receitawebDevHoster"><b>gilgilberto31/receitawebDevHoster</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/augoju.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/augoju/BitProYoS"><b>augoju/BitProYoS</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><img src="https://github.com/baiojava.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/baiojava/baiojava"><b>baiojava/baiojava</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/baldeinfamara10-droid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/baldeinfamara10-droid/Primeiro-projecto-"><b>baldeinfamara10-droid/Primeiro-projecto-</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/baribucirio-cmyk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/baribucirio-cmyk/site-clone-do-celular"><b>baribucirio-cmyk/site-clone-do-celular</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/emanuelnanquida779-oss.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/emanuelnanquida779-oss/Projetogit"><b>emanuelnanquida779-oss/Projetogit</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><img src="https://github.com/ibanora.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ibanora/IdraisCAM"><b>ibanora/IdraisCAM</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/johnlava.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/johnlava/njos"><b>johnlava/njos</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/pettyklaxs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pettyklaxs/M-sicas-GB"><b>pettyklaxs/M-sicas-GB</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>Astro</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/Reinaldoaugustonanque.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Reinaldoaugustonanque/projeto-web"><b>Reinaldoaugustonanque/projeto-web</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/Samsilva64.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Samsilva64/tvwandam"><b>Samsilva64/tvwandam</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>TypeScript</td>
+</tr>
+</tbody>
+</table>
+
+<details>
+<summary><b>Coverage and methodology</b></summary>
+
+- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Global star scan:** every public non-fork repository with at least **—** stars has been enumerated (current cycle in progress).
+- **Cutoff:** the last listed repository has 0 stars; 12 attributed candidates are tracked.
+- 12 entries were carried over from the previous dataset and are pending revalidation.
+- 12 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 0 in round 1.
+- Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
+
+</details>
+
+---
+
+<p align="center"><sub><a href="./README.md">← All countries</a> &nbsp;·&nbsp; <a href="../README.md">GitSphere home</a> &nbsp;·&nbsp; <a href="../docs/METHODOLOGY.md">Methodology</a> &nbsp;·&nbsp; <a href="https://github.com/ish4ra/GitSphere">Source</a></sub></p>
+

@@ -1,52 +1,98 @@
-<p align="center" aria-label="Benin flag" style="font-size:72px">🇧🇯</p>
+<div align="center">
 
-<h1 align="center">Benin</h1>
+<a href="../README.md"><img src="../assets/brand/gitsphere-mark.svg" width="44" height="44" alt="GitSphere"></a>
 
-<p align="center">
-  <a href="./README.md"><strong>Browse countries</strong></a> ·
-  <a href="../docs/METHODOLOGY.md">Methodology</a> ·
-  <a href="../README.md">Project home</a>
-</p>
+# 🇧🇯 Benin
 
-## Repository ranking status: Building 0%
+<b>Top Repositories</b> — Discover the most-starred GitHub repositories.
 
-- Geography terms processed: **0 / 101**
-- Progress: **0%**
-- Retained high-potential owner candidates: **0**
-- Search requests completed: **48**
-- Unresolved shards: **0**
+<sub><b>Top Repositories</b> &nbsp;·&nbsp; <a href="./developers/benin.md">Top Developers</a> &nbsp;·&nbsp; <a href="./contributors/benin.md">Top Contributors</a></sub>
 
-The crawler saves its exact shard queue and pagination cursor, so progress continues across GitHub Actions runs instead of restarting.
+</div>
 
-## Repository-first scan
+<div align="center">
 
-- Verified high-star candidates retained: **19**
-- Current global star frontier: **298**
+| Status | Repositories | Last update | Data |
+| :---: | :---: | :---: | :---: |
+| 🟠 Stale | **8** | 22 Nov 2026 | <a href="../data/BJ.json">JSON</a> |
 
-### High-star verified preview
+</div>
 
-> These repositories were found by the independent global stars-desc scan and their owner locations resolved to this country. The list becomes final only when the global scan frontier drops below the country’s 100th-place star cutoff.
+<table>
+<thead><tr><th align="right">#</th><th align="left">Repository</th><th align="right">Stars</th><th align="right">Forks</th><th align="left">Language</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><img src="https://github.com/JideGuru.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JideGuru/FlutterEbookApp"><b>JideGuru/FlutterEbookApp</b></a></td>
+<td align="right"><b>3,333</b></td>
+<td align="right">919</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/JideGuru.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JideGuru/FlutterSocialAppUIKit"><b>JideGuru/FlutterSocialAppUIKit</b></a></td>
+<td align="right"><b>1,984</b></td>
+<td align="right">506</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/JideGuru.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JideGuru/FlutterFoodybite"><b>JideGuru/FlutterFoodybite</b></a></td>
+<td align="right"><b>1,715</b></td>
+<td align="right">476</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><img src="https://github.com/JideGuru.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JideGuru/FlutterTravel"><b>JideGuru/FlutterTravel</b></a></td>
+<td align="right"><b>1,198</b></td>
+<td align="right">314</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/onesine.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/onesine/react-tailwindcss-datepicker"><b>onesine/react-tailwindcss-datepicker</b></a></td>
+<td align="right"><b>609</b></td>
+<td align="right">209</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/JideGuru.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JideGuru/FlutterFurnitureAppUI"><b>JideGuru/FlutterFurnitureAppUI</b></a></td>
+<td align="right"><b>511</b></td>
+<td align="right">147</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/JideGuru.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JideGuru/FileX"><b>JideGuru/FileX</b></a> <sub>archived</sub></td>
+<td align="right"><b>477</b></td>
+<td align="right">123</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><img src="https://github.com/JideGuru.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JideGuru/flutter_drawing_board"><b>JideGuru/flutter&#95;drawing&#95;board</b></a></td>
+<td align="right"><b>341</b></td>
+<td align="right">96</td>
+<td>Dart</td>
+</tr>
+</tbody>
+</table>
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [JideGuru/FlutterEbookApp](https://github.com/JideGuru/FlutterEbookApp) | **3,333** | Cotonou, Benin. |
-| [JideGuru/FlutterSocialAppUIKit](https://github.com/JideGuru/FlutterSocialAppUIKit) | **1,984** | Cotonou, Benin. |
-| [JideGuru/FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite) | **1,715** | Cotonou, Benin. |
-| [JideGuru/FlutterTravel](https://github.com/JideGuru/FlutterTravel) | **1,198** | Cotonou, Benin. |
-| [DIY-green/AndroidStudyDemo](https://github.com/DIY-green/AndroidStudyDemo) | **775** | BJ |
-| [ColZer/DigAndBuried](https://github.com/ColZer/DigAndBuried) | **682** | bj |
-| [imlifengfeng/FFToast](https://github.com/imlifengfeng/FFToast) | **630** | BJ |
-| [onesine/react-tailwindcss-datepicker](https://github.com/onesine/react-tailwindcss-datepicker) | **609** | Cotonou, Bénin |
-| [o8oo8o/WebCurl](https://github.com/o8oo8o/WebCurl) | **609** | BJ |
-| [chengda/popular-fonts](https://github.com/chengda/popular-fonts) | **523** | BJ |
-| [JideGuru/FlutterFurnitureAppUI](https://github.com/JideGuru/FlutterFurnitureAppUI) | **511** | Cotonou, Benin. |
-| [Chanzi-keji/chanzi](https://github.com/Chanzi-keji/chanzi) | **489** | bj |
-| [JideGuru/FileX](https://github.com/JideGuru/FileX) | **477** | Cotonou, Benin. |
-| [atorber/chatflow](https://github.com/atorber/chatflow) | **432** | bj |
-| [o8oo8o/WebSSH](https://github.com/o8oo8o/WebSSH) | **385** | BJ |
-| [JideGuru/flutter_drawing_board](https://github.com/JideGuru/flutter_drawing_board) | **341** | Cotonou, Benin. |
-| [GarinZ/link-map](https://github.com/GarinZ/link-map) | **338** | BJ |
-| [snight1983/chia-rosechain](https://github.com/snight1983/chia-rosechain) | **320** | bj |
-| [imlifengfeng/FFRouter](https://github.com/imlifengfeng/FFRouter) | **303** | BJ |
+<details>
+<summary><b>Coverage and methodology</b></summary>
 
-When the verified crawl reaches publication readiness, this page is automatically replaced by the most-starred repository ranking.
+- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Global star scan:** every public non-fork repository with at least **—** stars has been enumerated (current cycle in progress).
+- **Cutoff:** the last listed repository has 341 stars; 8 attributed candidates are tracked.
+- 8 entries were carried over from the previous dataset and are pending revalidation.
+- **Location discovery:** term 0 of 0 in round 1.
+- Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
+
+</details>
+
+---
+
+<p align="center"><sub><a href="./README.md">← All countries</a> &nbsp;·&nbsp; <a href="../README.md">GitSphere home</a> &nbsp;·&nbsp; <a href="../docs/METHODOLOGY.md">Methodology</a> &nbsp;·&nbsp; <a href="https://github.com/ish4ra/GitSphere">Source</a></sub></p>
+

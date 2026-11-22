@@ -1,66 +1,743 @@
-<p align="center" aria-label="Myanmar (Burma) flag" style="font-size:72px">🇲🇲</p>
+<div align="center">
 
-<h1 align="center">Myanmar (Burma)</h1>
+<a href="../README.md"><img src="../assets/brand/gitsphere-mark.svg" width="44" height="44" alt="GitSphere"></a>
 
-<p align="center">
-  <a href="./README.md"><strong>Browse countries</strong></a> ·
-  <a href="../docs/METHODOLOGY.md">Methodology</a> ·
-  <a href="../README.md">Project home</a>
-</p>
+# 🇲🇲 Myanmar (Burma)
 
-## Repository ranking status: Building 2%
+<b>Top Repositories</b> — Discover the most-starred GitHub repositories.
 
-- Geography terms processed: **18 / 608**
-- Progress: **2%**
-- Retained high-potential owner candidates: **165**
-- Search requests completed: **40**
-- Unresolved shards: **0**
+<sub><b>Top Repositories</b> &nbsp;·&nbsp; <a href="./developers/myanmar-burma.md">Top Developers</a> &nbsp;·&nbsp; <a href="./contributors/myanmar-burma.md">Top Contributors</a></sub>
 
-The crawler saves its exact shard queue and pagination cursor, so progress continues across GitHub Actions runs instead of restarting.
+</div>
 
-## Early preview
+<div align="center">
 
-> These are the strongest repository candidates discovered **so far**. This is not the final country ranking and can change as city, town, district, alias, and search-shard coverage expands.
+| Status | Repositories | Last update | Data |
+| :---: | :---: | :---: | :---: |
+| 🟠 Stale | **100** | 22 Nov 2026 | <a href="../data/MM.json">JSON</a> |
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [r1skkam/Some-cheatsheets-notes-and-resources-for-AWS-SAA-C03-exam](https://github.com/r1skkam/Some-cheatsheets-notes-and-resources-for-AWS-SAA-C03-exam) | **77** | Yangon, Myanmar (Burma) |
-| [thitlwincoder/direct_link](https://github.com/thitlwincoder/direct_link) | **36** | Yangon, Myanmar(Burma) |
-| [etherealTech/fuse-angular-demo](https://github.com/etherealTech/fuse-angular-demo) | **18** | Yangon, Myanmar (Burma) |
-| [GoLangsam/pipe](https://github.com/GoLangsam/pipe) | **8** | Anisakhan, Pyin Oo Lwin, Mandalay District, Myanmar / Burma |
-| [YawStar/Proxy-Hunter](https://github.com/YawStar/Proxy-Hunter) | **8** | Burma (Myanmar) |
-| [Nmk78/ERP](https://github.com/Nmk78/ERP) | **7** | Myeik/Myanmar(Burma) |
-| [KaungZinLin/PixTools](https://github.com/KaungZinLin/PixTools) | **6** | Rangoon, Burma |
-| [nureon22/gfont](https://github.com/nureon22/gfont) | **6** | Myanmar (Burma) |
-| [why-a-en/slice-ninja](https://github.com/why-a-en/slice-ninja) | **5** | Yangon, Myanmar (Burma) |
-| [0xL30N3/manga-kitty](https://github.com/0xL30N3/manga-kitty) | **4** | Rangoon, Burma |
-| [9Shiro9/voice-chatbot-whisper-gpt-tts](https://github.com/9Shiro9/voice-chatbot-whisper-gpt-tts) | **4** | Yangon , Myanmar (Burma) |
-| [lazyprogrammer-create/Sketchy-Codex](https://github.com/lazyprogrammer-create/Sketchy-Codex) | **4** | Nyaunglebin, Bago, Burma |
-| [GoGoal92/GitserverGoal](https://github.com/GoGoal92/GitserverGoal) | **3** | Yangon,Burma |
-| [heinzawaung-hack/BEP-20-Standard-Token](https://github.com/heinzawaung-hack/BEP-20-Standard-Token) | **3** | MayMyo,Myanmar(Burma) |
-| [Linzarnishwe/super-giggle](https://github.com/Linzarnishwe/super-giggle) | **3** | Naung Yoe Street 12/5A Power Building Thaketa Yangon Myanmar(Burma)11231 |
+</div>
 
-## Repository-first scan
+<table>
+<thead><tr><th align="right">#</th><th align="left">Repository</th><th align="right">Stars</th><th align="right">Forks</th><th align="left">Language</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><img src="https://github.com/KhunHtetzNaing.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KhunHtetzNaing/ADB-OTG"><b>KhunHtetzNaing/ADB-OTG</b></a></td>
+<td align="right"><b>986</b></td>
+<td align="right">414</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><img src="https://github.com/netgoat-xyz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/netgoat-xyz/netgoat"><b>netgoat-xyz/netgoat</b></a></td>
+<td align="right"><b>903</b></td>
+<td align="right">50</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><img src="https://github.com/ronaldaug.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ronaldaug/gramateria"><b>ronaldaug/gramateria</b></a> <sub>archived</sub></td>
+<td align="right"><b>679</b></td>
+<td align="right">197</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><img src="https://github.com/sailay1996.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sailay1996/UAC_Bypass_In_The_Wild"><b>sailay1996/UAC&#95;Bypass&#95;In&#95;The&#95;Wild</b></a></td>
+<td align="right"><b>635</b></td>
+<td align="right">108</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><img src="https://github.com/sailay1996.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sailay1996/awesome_windows_logical_bugs"><b>sailay1996/awesome&#95;windows&#95;logical&#95;bugs</b></a></td>
+<td align="right"><b>601</b></td>
+<td align="right">78</td>
+<td>VBScript</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/eimg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eimg/rsd25"><b>eimg/rsd25</b></a></td>
+<td align="right"><b>396</b></td>
+<td align="right">92</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/eimg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eimg/Books-by-Ei-Maung"><b>eimg/Books-by-Ei-Maung</b></a></td>
+<td align="right"><b>329</b></td>
+<td align="right">87</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><img src="https://github.com/sailay1996.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sailay1996/UAC_bypass_windows_store"><b>sailay1996/UAC&#95;bypass&#95;windows&#95;store</b></a></td>
+<td align="right"><b>262</b></td>
+<td align="right">74</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/sailay1996.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sailay1996/WerTrigger"><b>sailay1996/WerTrigger</b></a></td>
+<td align="right"><b>261</b></td>
+<td align="right">38</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/sailay1996.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sailay1996/CdpSvcLPE"><b>sailay1996/CdpSvcLPE</b></a></td>
+<td align="right"><b>255</b></td>
+<td align="right">48</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/myokyawhtun.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/myokyawhtun/PDFMerger"><b>myokyawhtun/PDFMerger</b></a></td>
+<td align="right"><b>249</b></td>
+<td align="right">267</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/r1skkam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/r1skkam/Some-cheatsheets-notes-and-resources-for-AWS-SAA-C03-exam"><b>r1skkam/Some-cheatsheets-notes-and-resources-for-AWS-SAA-C03-exam</b></a></td>
+<td align="right"><b>77</b></td>
+<td align="right">28</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/thitlwincoder.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thitlwincoder/direct_link"><b>thitlwincoder/direct&#95;link</b></a></td>
+<td align="right"><b>36</b></td>
+<td align="right">21</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/etherealTech.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/etherealTech/fuse-angular-demo"><b>etherealTech/fuse-angular-demo</b></a></td>
+<td align="right"><b>18</b></td>
+<td align="right">13</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><img src="https://github.com/YawStar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/YawStar/Proxy-Hunter"><b>YawStar/Proxy-Hunter</b></a></td>
+<td align="right"><b>8</b></td>
+<td align="right">4</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><img src="https://github.com/GoLangsam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/GoLangsam/pipe"><b>GoLangsam/pipe</b></a></td>
+<td align="right"><b>8</b></td>
+<td align="right">1</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><img src="https://github.com/Nmk78.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Nmk78/ERP"><b>Nmk78/ERP</b></a></td>
+<td align="right"><b>7</b></td>
+<td align="right">0</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><img src="https://github.com/KaungZinLin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KaungZinLin/PixTools"><b>KaungZinLin/PixTools</b></a></td>
+<td align="right"><b>6</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><img src="https://github.com/nureon22.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nureon22/gfont"><b>nureon22/gfont</b></a></td>
+<td align="right"><b>6</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><img src="https://github.com/why-a-en.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/why-a-en/slice-ninja"><b>why-a-en/slice-ninja</b></a></td>
+<td align="right"><b>5</b></td>
+<td align="right">0</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><img src="https://github.com/9Shiro9.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/9Shiro9/voice-chatbot-whisper-gpt-tts"><b>9Shiro9/voice-chatbot-whisper-gpt-tts</b></a></td>
+<td align="right"><b>4</b></td>
+<td align="right">1</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><img src="https://github.com/0xL30N3.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0xL30N3/manga-kitty"><b>0xL30N3/manga-kitty</b></a></td>
+<td align="right"><b>4</b></td>
+<td align="right">0</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td><img src="https://github.com/lazyprogrammer-create.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lazyprogrammer-create/Sketchy-Codex"><b>lazyprogrammer-create/Sketchy-Codex</b></a></td>
+<td align="right"><b>4</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td><img src="https://github.com/heinzawaung-hack.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/heinzawaung-hack/BEP-20-Standard-Token"><b>heinzawaung-hack/BEP-20-Standard-Token</b></a></td>
+<td align="right"><b>3</b></td>
+<td align="right">2</td>
+<td>Solidity</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td><img src="https://github.com/GoGoal92.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/GoGoal92/GitserverGoal"><b>GoGoal92/GitserverGoal</b></a></td>
+<td align="right"><b>3</b></td>
+<td align="right">0</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td><img src="https://github.com/Linzarnishwe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Linzarnishwe/super-giggle"><b>Linzarnishwe/super-giggle</b></a></td>
+<td align="right"><b>3</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td><img src="https://github.com/win-than-htike.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/win-than-htike/compose-sample-clean"><b>win-than-htike/compose-sample-clean</b></a></td>
+<td align="right"><b>3</b></td>
+<td align="right">0</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td><img src="https://github.com/winkhaing.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/winkhaing/Img2TypTeX"><b>winkhaing/Img2TypTeX</b></a></td>
+<td align="right"><b>3</b></td>
+<td align="right">0</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td><img src="https://github.com/Akaikenlol.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Akaikenlol/imaginify"><b>Akaikenlol/imaginify</b></a></td>
+<td align="right"><b>2</b></td>
+<td align="right">1</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td><img src="https://github.com/aunthtoo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aunthtoo/MCPC2019UCSY"><b>aunthtoo/MCPC2019UCSY</b></a></td>
+<td align="right"><b>2</b></td>
+<td align="right">1</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">31</td>
+<td><img src="https://github.com/etherio97.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/etherio97/etherio-pay-angular"><b>etherio97/etherio-pay-angular</b></a></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">32</td>
+<td><img src="https://github.com/jacmoez.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jacmoez/QAJulyMoe"><b>jacmoez/QAJulyMoe</b></a></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">33</td>
+<td><img src="https://github.com/kyawkoko232.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kyawkoko232/tailwind-may"><b>kyawkoko232/tailwind-may</b></a></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">34</td>
+<td><img src="https://github.com/YanNaingSoe469.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/YanNaingSoe469/mih-git"><b>YanNaingSoe469/mih-git</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">2</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">35</td>
+<td><img src="https://github.com/abtolus.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abtolus/lostray"><b>abtolus/lostray</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>GDScript</td>
+</tr>
+<tr>
+<td align="right">36</td>
+<td><img src="https://github.com/aungmyintlwin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aungmyintlwin/laravel-vue-book-store"><b>aungmyintlwin/laravel-vue-book-store</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">37</td>
+<td><img src="https://github.com/ayekyawmin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ayekyawmin/FrontEnd"><b>ayekyawmin/FrontEnd</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">38</td>
+<td><img src="https://github.com/ChanNyein-V.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ChanNyein-V/java-course"><b>ChanNyein-V/java-course</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">39</td>
+<td><img src="https://github.com/ethereal97.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ethereal97/etherio-sns"><b>ethereal97/etherio-sns</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">40</td>
+<td><img src="https://github.com/h2kyaw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/h2kyaw/h2kyaws.github.io"><b>h2kyaw/h2kyaws.github.io</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">41</td>
+<td><img src="https://github.com/HapiPiRonin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HapiPiRonin/HTB-devvortex"><b>HapiPiRonin/HTB-devvortex</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">42</td>
+<td><img src="https://github.com/HapiSpidey.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HapiSpidey/HTB-devvortex"><b>HapiSpidey/HTB-devvortex</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">43</td>
+<td><img src="https://github.com/htetnyansoe57-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/htetnyansoe57-dev/capacafe"><b>htetnyansoe57-dev/capacafe</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><img src="https://github.com/HtetOoWaiYan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HtetOoWaiYan/HtetOoWaiYan"><b>HtetOoWaiYan/HtetOoWaiYan</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">45</td>
+<td><img src="https://github.com/htunlinnkyaw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/htunlinnkyaw/voucher-app-react"><b>htunlinnkyaw/voucher-app-react</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">46</td>
+<td><img src="https://github.com/KaungHtetHein116.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KaungHtetHein116/Shopping-App-React-Native"><b>KaungHtetHein116/Shopping-App-React-Native</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">47</td>
+<td><img src="https://github.com/kaungmyatkoko20001978-eng.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kaungmyatkoko20001978-eng/Simple_Plagiarism_Checker"><b>kaungmyatkoko20001978-eng/Simple&#95;Plagiarism&#95;Checker</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><img src="https://github.com/KiloMikeTango.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KiloMikeTango/Privacy-Protection"><b>KiloMikeTango/Privacy-Protection</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><img src="https://github.com/kkm1991.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kkm1991/kkm1991"><b>kkm1991/kkm1991</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><img src="https://github.com/lin257498.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lin257498/unainglinnhtikelin257498"><b>lin257498/unainglinnhtikelin257498</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">51</td>
+<td><img src="https://github.com/mrwhitehat85.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mrwhitehat85/199blackhatarea"><b>mrwhitehat85/199blackhatarea</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><img src="https://github.com/MyatTheingi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MyatTheingi/firebase-friendlyeats-android"><b>MyatTheingi/firebase-friendlyeats-android</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><img src="https://github.com/NyanKaungSet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NyanKaungSet/NyanKaungSet"><b>NyanKaungSet/NyanKaungSet</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><img src="https://github.com/play46353-tech.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/play46353-tech/WorkZone-Enterprise"><b>play46353-tech/WorkZone-Enterprise</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/Sawthaawa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Sawthaawa/Saw-Thaawa"><b>Sawthaawa/Saw-Thaawa</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><img src="https://github.com/skmetheloper.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/skmetheloper/php-virtual-operating-server"><b>skmetheloper/php-virtual-operating-server</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><img src="https://github.com/theto1172.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/theto1172/jQuery"><b>theto1172/jQuery</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><img src="https://github.com/waiyanmin95.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/waiyanmin95/waiyanmin95.github.io"><b>waiyanmin95/waiyanmin95.github.io</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><img src="https://github.com/WinKoKoHlaing.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/WinKoKoHlaing/Roll-Dice-Game"><b>WinKoKoHlaing/Roll-Dice-Game</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><img src="https://github.com/wintun-devop.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wintun-devop/aws-cdk-python-dynamo-cognito"><b>wintun-devop/aws-cdk-python-dynamo-cognito</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><img src="https://github.com/yadanar94.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yadanar94/Laravel-Blog-Test"><b>yadanar94/Laravel-Blog-Test</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><img src="https://github.com/zaenimaung1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zaenimaung1/Myanmar-Proverbs-RAG"><b>zaenimaung1/Myanmar-Proverbs-RAG</b></a></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/plpdev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/plpdev/w3b"><b>plpdev/w3b</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><img src="https://github.com/saisengpha.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/saisengpha/Android-SplashScreen"><b>saisengpha/Android-SplashScreen</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><img src="https://github.com/1leftips.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/1leftips/Myanmar-2D-Tips"><b>1leftips/Myanmar-2D-Tips</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><img src="https://github.com/AiharaIndex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AiharaIndex/firstapp"><b>AiharaIndex/firstapp</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><img src="https://github.com/albertveomas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/albertveomas/robofriends"><b>albertveomas/robofriends</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><img src="https://github.com/Alex778008.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Alex778008/Alex"><b>Alex778008/Alex</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><img src="https://github.com/alphauser93.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alphauser93/container-nfyluio"><b>alphauser93/container-nfyluio</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/AounMyintThu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AounMyintThu/AounMyintThu"><b>AounMyintThu/AounMyintThu</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/augustwentyseven.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/augustwentyseven/augustwentyseven"><b>augustwentyseven/augustwentyseven</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><img src="https://github.com/Aung-Kyaw-Kyaw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Aung-Kyaw-Kyaw/Aung-Kyaw-Kyaw"><b>Aung-Kyaw-Kyaw/Aung-Kyaw-Kyaw</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><img src="https://github.com/aungko19burma-design.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aungko19burma-design/Aung-Thu-Soe"><b>aungko19burma-design/Aung-Thu-Soe</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/ballisticempark.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ballisticempark/ballisticempark"><b>ballisticempark/ballisticempark</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/BhoneMrattKyaw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/BhoneMrattKyaw/test"><b>BhoneMrattKyaw/test</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/buehnerevergirl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/buehnerevergirl/buehnerevergirl"><b>buehnerevergirl/buehnerevergirl</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/bytecodekeeper.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bytecodekeeper/Eonix_Pjt"><b>bytecodekeeper/Eonix&#95;Pjt</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/chenlibaron.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chenlibaron/doumipod-26"><b>chenlibaron/doumipod-26</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/darkking3345.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/darkking3345/hello-world"><b>darkking3345/hello-world</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/DdyKai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DdyKai/DdyKai"><b>DdyKai/DdyKai</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/DrKaung-Khant-Ko-Ko-Han.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DrKaung-Khant-Ko-Ko-Han/DrKaung-Khant-Ko-Ko-Han"><b>DrKaung-Khant-Ko-Ko-Han/DrKaung-Khant-Ko-Ko-Han</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/geniusgery.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/geniusgery/pymongotelegramapp"><b>geniusgery/pymongotelegramapp</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><img src="https://github.com/GTLblack.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/GTLblack/Hello-World"><b>GTLblack/Hello-World</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><img src="https://github.com/hantosmanworthy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hantosmanworthy/hantosmanworthy"><b>hantosmanworthy/hantosmanworthy</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">85</td>
+<td><img src="https://github.com/heinmyatlinn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/heinmyatlinn/Blogspot-Photo"><b>heinmyatlinn/Blogspot-Photo</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/heinzin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/heinzin/test-driven-laravel-from-scratch"><b>heinzin/test-driven-laravel-from-scratch</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><img src="https://github.com/Htut.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Htut/MyPages"><b>Htut/MyPages</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><img src="https://github.com/Ingynn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ingynn/FourthApp"><b>Ingynn/FourthApp</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><img src="https://github.com/itsmayv.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/itsmayv/maysunshine24.github.io"><b>itsmayv/maysunshine24.github.io</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><img src="https://github.com/j4d6kj999z-cloud.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/j4d6kj999z-cloud/Testing"><b>j4d6kj999z-cloud/Testing</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/jaijai09.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jaijai09/jaijai09"><b>jaijai09/jaijai09</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/Kaung-myat-paing.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Kaung-myat-paing/Smart-Weather-Dashboard"><b>Kaung-myat-paing/Smart-Weather-Dashboard</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/KaungThantZin2021.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KaungThantZin2021/ktz_portfolio"><b>KaungThantZin2021/ktz&#95;portfolio</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>Vue</td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/khantzwehtet27-cell.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/khantzwehtet27-cell/Sky-meet"><b>khantzwehtet27-cell/Sky-meet</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/khinzarchi42.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/khinzarchi42/khinzarchi42"><b>khinzarchi42/khinzarchi42</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/koeshwin197.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/koeshwin197/grab"><b>koeshwin197/grab</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/KyawminooOnlyome.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KyawminooOnlyome/KyawminooOnlyome"><b>KyawminooOnlyome/KyawminooOnlyome</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/kyawwana.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kyawwana/Html-CSS-projects"><b>kyawwana/Html-CSS-projects</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/kyiphyuhninlwin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kyiphyuhninlwin/BeautyWorks"><b>kyiphyuhninlwin/BeautyWorks</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/Lakshmichauhan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Lakshmichauhan/Laksh-Mi"><b>Lakshmichauhan/Laksh-Mi</b></a></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
 
-- Verified high-star candidates retained: **11**
-- Current global star frontier: **248**
+<details>
+<summary><b>Coverage and methodology</b></summary>
 
-### High-star verified preview
+- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Global star scan:** every public non-fork repository with at least **—** stars has been enumerated (current cycle in progress).
+- **Cutoff:** the last listed repository has 0 stars; 150 attributed candidates are tracked.
+- 100 entries were carried over from the previous dataset and are pending revalidation.
+- 150 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 0 in round 1.
+- Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
-> These repositories were found by the independent global stars-desc scan and their owner locations resolved to this country. The list becomes final only when the global scan frontier drops below the country’s 100th-place star cutoff.
+</details>
 
-| Repository | Stars | Owner location |
-| --- | ---: | --- |
-| [KhunHtetzNaing/ADB-OTG](https://github.com/KhunHtetzNaing/ADB-OTG) | **986** | HsiHseng, Myanmar |
-| [netgoat-xyz/netgoat](https://github.com/netgoat-xyz/netgoat) | **903** | Myanmar |
-| [ronaldaug/gramateria](https://github.com/ronaldaug/gramateria) | **679** | Taunggyi, Myanmar |
-| [sailay1996/UAC_Bypass_In_The_Wild](https://github.com/sailay1996/UAC_Bypass_In_The_Wild) | **635** | Myanmar |
-| [sailay1996/awesome_windows_logical_bugs](https://github.com/sailay1996/awesome_windows_logical_bugs) | **601** | Myanmar |
-| [eimg/rsd25](https://github.com/eimg/rsd25) | **396** | Yangon, Myanmar |
-| [eimg/Books-by-Ei-Maung](https://github.com/eimg/Books-by-Ei-Maung) | **329** | Yangon, Myanmar |
-| [sailay1996/UAC_bypass_windows_store](https://github.com/sailay1996/UAC_bypass_windows_store) | **262** | Myanmar |
-| [sailay1996/WerTrigger](https://github.com/sailay1996/WerTrigger) | **261** | Myanmar |
-| [sailay1996/CdpSvcLPE](https://github.com/sailay1996/CdpSvcLPE) | **255** | Myanmar |
-| [myokyawhtun/PDFMerger](https://github.com/myokyawhtun/PDFMerger) | **249** | Yangon, Myanmar |
+---
 
-When the verified crawl reaches publication readiness, this page is automatically replaced by the most-starred repository ranking.
+<p align="center"><sub><a href="./README.md">← All countries</a> &nbsp;·&nbsp; <a href="../README.md">GitSphere home</a> &nbsp;·&nbsp; <a href="../docs/METHODOLOGY.md">Methodology</a> &nbsp;·&nbsp; <a href="https://github.com/ish4ra/GitSphere">Source</a></sub></p>
+

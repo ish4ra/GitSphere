@@ -1,0 +1,13 @@
+{
+"schemaVersion": 3,
+"country": {"code":"FR","name":"France","slug":"france"},
+"count": 6,
+"accounts": [
+  {"id":"MDQ6VXNlcjQ3MTQyNzY3","login":"Amine-Kadi","type":"User","name":"Amine Kadi","location":"Luxembourg - Metz","attribution":{"code":"FR","confidence":"medium","evidence":"consistent-places"},"seenAt":"2026-11-01T22:13:34.802Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDODC3kWQ","login":"FrEyEur","type":"User","name":"Thomas FREY","location":"Metz - Luxembourg","attribution":{"code":"FR","confidence":"medium","evidence":"consistent-places"},"seenAt":"2026-11-01T22:13:34.802Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjE3Njg2OTI=","login":"Glitchbone","type":"User","name":"Adrien Glitchbone","location":"Thionville - Luxembourg","attribution":{"code":"FR","confidence":"medium","evidence":"consistent-places"},"seenAt":"2026-11-01T22:13:34.802Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDOCNp46w","login":"jdvot","type":"User","location":"Metz/Luxembourg","attribution":{"code":"FR","confidence":"medium","evidence":"consistent-places"},"seenAt":"2026-11-01T22:13:34.802Z","sources":["legacy-owner-discovery"]},
+  {"id":"MDQ6VXNlcjE0ODQzMjg5","login":"urosolia","type":"User","name":"Ugo Rosolia","location":"Luxembourg, Lux","attribution":{"code":"FR","confidence":"medium","evidence":"consistent-places"},"seenAt":"2026-11-01T22:13:34.802Z","sources":["legacy-owner-discovery"]},
+  {"id":"U_kgDODehJPA","login":"yacineboumedine","type":"User","name":"Yacine BOUMEDINE","location":"Luxembourg / Strasbourg","attribution":{"code":"FR","confidence":"medium","evidence":"consistent-places"},"seenAt":"2026-11-01T22:13:34.802Z","sources":["legacy-owner-discovery"]}
+]
+}
