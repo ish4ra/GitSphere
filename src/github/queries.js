@@ -27,7 +27,7 @@ const REPOSITORY_FIELDS = `
   }
 `;
 
-const ACCOUNT_FIELDS = `
+const USER_FIELDS = `
   fragment GitSphereUser on User {
     id
     databaseId
@@ -38,6 +38,9 @@ const ACCOUNT_FIELDS = `
     followers { totalCount }
     repositories(ownerAffiliations: OWNER, privacy: PUBLIC) { totalCount }
   }
+`;
+
+const ORGANIZATION_FIELDS = `
   fragment GitSphereOrganization on Organization {
     id
     databaseId
@@ -47,6 +50,8 @@ const ACCOUNT_FIELDS = `
     repositories(privacy: PUBLIC) { totalCount }
   }
 `;
+
+const ACCOUNT_FIELDS = `${USER_FIELDS}${ORGANIZATION_FIELDS}`;
 
 const RATE_LIMIT = 'rateLimit { cost limit remaining resetAt }';
 
@@ -157,7 +162,7 @@ export const CONTRIBUTIONS = `
     }
     ${RATE_LIMIT}
   }
-  ${ACCOUNT_FIELDS}
+  ${USER_FIELDS}
 `;
 
 export const SCHEMA_INTROSPECTION = `
