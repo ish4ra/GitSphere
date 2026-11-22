@@ -15,10 +15,10 @@
 ["","island","Wake Island"]
 ],
 "places": [
-[100,8,"PPL","Wake"],
-[60,5,"PPL","Midway"],
-[20,7,"PPL","Palmyra"],
-[10,3,"PPL","Johnston"],
+[100,8,"PPL","Wake","Anen Kio","San Francisco","Ueke","Ueyk","Varsimaeyja","Varsímaeyja","Veika","Veiko"],
+[60,5,"PPL","Midway","Kuaihelani","Miduehj","Miduej","Miduey","Midvej","Midveja","Midvejaus","Midvėjaus"],
+[20,7,"PPL","Palmyra","Palmira","Palmiras","Palmyro","Palmyros"],
+[10,3,"PPL","Johnston","Conston","Dzonstona","Džonstona","Dzonstono","Džonstono","Johnstoni","Johnstonin","Johnstonov"],
 [0,1,"PPL","Itascatown pre-WW2"],
 [0,4,"PPL","Kingman"],
 [0,6,"PPL","Navassa II"]

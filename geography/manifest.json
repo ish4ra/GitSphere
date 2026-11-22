@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-22T08:20:23.375Z",
+  "generatedAt": "2026-11-22T08:27:27.076Z",
   "complete": true,
   "sources": [
     {
@@ -229,22 +229,22 @@
   "totals": {
     "countries": 250,
     "admins": 5899,
-    "places": 722750,
-    "placesWithPopulation": 214087,
+    "places": 737286,
+    "placesWithPopulation": 214086,
     "countryNames": 3821
   },
   "countries": {
     "AF": {
       "countryNames": 12,
       "admins": 39,
-      "places": 5441,
+      "places": 5737,
       "placesWithPopulation": 112,
       "cscStates": 34,
       "cscCities": 100,
       "geonamesPlaces": 320,
       "geonamesAlternateNames": 7358,
-      "geonamesSupplementPlaces": 5097,
-      "sha256": "eb36f775f1294e03f48f9a432ba6be6a5247ae31049c14a8677a909f3ba35f91"
+      "geonamesSupplementPlaces": 5393,
+      "sha256": "d88a21f28652632cd32f9f0b63612649eb2287162a306b4ea7257b0eaab90e8f"
     },
     "AX": {
       "countryNames": 18,
@@ -256,7 +256,7 @@
       "geonamesPlaces": 21,
       "geonamesAlternateNames": 291,
       "geonamesSupplementPlaces": 292,
-      "sha256": "afff93ef61ca39a62ef09fb84979218faf4c23adfe5988b38d27f6ee444132c4"
+      "sha256": "97a620a7a54f09e09a9c856d156f99c12a88c5acf0e889b627cc37ab2f84eb57"
     },
     "AL": {
       "countryNames": 16,
@@ -268,19 +268,19 @@
       "geonamesPlaces": 419,
       "geonamesAlternateNames": 3741,
       "geonamesSupplementPlaces": 3839,
-      "sha256": "a94ed8898a1774405cdab6bbd3fcdeb012e5c1e699f0f54cb78d7b9724202acb"
+      "sha256": "d89442ee354c846d18a826c378f618844dcbd5b61aff8b29013a34741ed324b5"
     },
     "DZ": {
       "countryNames": 17,
       "admins": 61,
-      "places": 5938,
+      "places": 5932,
       "placesWithPopulation": 356,
       "cscStates": 58,
       "cscCities": 293,
       "geonamesPlaces": 353,
       "geonamesAlternateNames": 2823,
-      "geonamesSupplementPlaces": 5510,
-      "sha256": "ddd9f1a000c469fb344581e68d6513a593824a571238e85a29b2e4e13d65b720"
+      "geonamesSupplementPlaces": 5504,
+      "sha256": "403a55690a02d2fe78ecc283e01e52beae79329378428f05cf02ebfca92d922b"
     },
     "AS": {
       "countryNames": 18,
@@ -292,7 +292,7 @@
       "geonamesPlaces": 28,
       "geonamesAlternateNames": 110,
       "geonamesSupplementPlaces": 96,
-      "sha256": "dce2f5a7cfe9ce86bda2644069dbc19924aaebc6cad7671ac7291550f9c7d596"
+      "sha256": "e00320d8699bacb768828227d870b144a9c364ce446fdeda58b9b499faf8bc3a"
     },
     "AD": {
       "countryNames": 10,
@@ -304,7 +304,7 @@
       "geonamesPlaces": 20,
       "geonamesAlternateNames": 207,
       "geonamesSupplementPlaces": 52,
-      "sha256": "9946e5b1d44f54419060438093f0022dfa9c188414e90fe9c5f8bc43dc1e923d"
+      "sha256": "a6d1ead9e9cef35e39a87acc9f3e7e4ff913515144015950883ca55720a826c3"
     },
     "AO": {
       "countryNames": 8,
@@ -328,7 +328,7 @@
       "geonamesPlaces": 14,
       "geonamesAlternateNames": 347,
       "geonamesSupplementPlaces": 31,
-      "sha256": "8bf43773d7dbcb34c1f1094b71d2a5a32d645a99daf7c53d7e006ef01f9251d3"
+      "sha256": "0c86f45da2a667d2e54c18a705134239d61c86d59be96a96468693c6ed30d874"
     },
     "AQ": {
       "countryNames": 15,
@@ -340,7 +340,7 @@
       "geonamesPlaces": 0,
       "geonamesAlternateNames": 0,
       "geonamesSupplementPlaces": 32,
-      "sha256": "5e96ee329170a78e07875031bbd69f2ed420d9fe14e1f37c79959c18a0edf10b"
+      "sha256": "3839e2d99162c1824380d852e083441ed86f1f4ea50e344ea6b87f7abda6578d"
     },
     "AG": {
       "countryNames": 20,
@@ -352,7 +352,7 @@
       "geonamesPlaces": 41,
       "geonamesAlternateNames": 344,
       "geonamesSupplementPlaces": 149,
-      "sha256": "17e58db29517143f76a5631c7d8a2b501227bb7e13fa7eaff2acc8d22c5a2450"
+      "sha256": "1067c88b77e4fe3e6f07fa6bfa7a418b11edde272094382a282da8cd688b0031"
     },
     "AR": {
       "countryNames": 14,
@@ -388,7 +388,7 @@
       "geonamesPlaces": 14,
       "geonamesAlternateNames": 55,
       "geonamesSupplementPlaces": 156,
-      "sha256": "5d9dc73a7b41314bc102723f34136bc4b2031204fe7ee48802f32208a929d988"
+      "sha256": "12d09065504ce035e298e72932e8f4ac4c8dcb6b9f5db1366865cce7f23ff688"
     },
     "AU": {
       "countryNames": 16,
@@ -424,7 +424,7 @@
       "geonamesPlaces": 246,
       "geonamesAlternateNames": 3789,
       "geonamesSupplementPlaces": 4693,
-      "sha256": "124f399053b3edfaa3f1c756ad22e70b51446086f2432ed2b3e8afe608a6c776"
+      "sha256": "8cca63c3c373fa0474320bfd5407f23cd40ff95674d0c947ce92d96cc0fa182b"
     },
     "BS": {
       "countryNames": 15,
@@ -436,7 +436,7 @@
       "geonamesPlaces": 37,
       "geonamesAlternateNames": 570,
       "geonamesSupplementPlaces": 307,
-      "sha256": "957f49114b7dd2f88cd4b5fedd4f6d2e0cae2395c8c57191d77430ae1b9a5474"
+      "sha256": "17aea57aec7c99fae666f0e2f90baa181e14405c97016a3b22e565b88d6a373a"
     },
     "BH": {
       "countryNames": 14,
@@ -448,19 +448,19 @@
       "geonamesPlaces": 12,
       "geonamesAlternateNames": 243,
       "geonamesSupplementPlaces": 110,
-      "sha256": "261aff6ca485edf6e26ee96a2ba16d4664d6a0d5a14e3bb70549100328e96854"
+      "sha256": "880a17b2825741025cfb15e0cc088afe0e2de313fe117d5c0d613f826c585099"
     },
     "BD": {
       "countryNames": 13,
       "admins": 66,
-      "places": 4855,
+      "places": 5722,
       "placesWithPopulation": 275,
       "cscStates": 72,
       "cscCities": 64,
       "geonamesPlaces": 267,
       "geonamesAlternateNames": 1163,
-      "geonamesSupplementPlaces": 4532,
-      "sha256": "271caf4889bef3c7383825ae773d968617c43b15d9776b9a627e7eb24cf2c2a3"
+      "geonamesSupplementPlaces": 5399,
+      "sha256": "7e8ef6c06d08ad929b00864d05e4da21995bccbfe4a1ec32fd86cef954424afe"
     },
     "BB": {
       "countryNames": 9,
@@ -472,19 +472,19 @@
       "geonamesPlaces": 16,
       "geonamesAlternateNames": 222,
       "geonamesSupplementPlaces": 570,
-      "sha256": "d6667419b89f9856cae6306f221a3e06ae31173dc15e2bda488b6564e192047b"
+      "sha256": "cb02d594593e0e6b4d22f6663baba3dec5e0199deb81fb6d4ab1dc3e8079b5e1"
     },
     "BY": {
       "countryNames": 18,
       "admins": 8,
-      "places": 5205,
+      "places": 5857,
       "placesWithPopulation": 413,
       "cscStates": 7,
       "cscCities": 329,
       "geonamesPlaces": 317,
       "geonamesAlternateNames": 3091,
-      "geonamesSupplementPlaces": 4689,
-      "sha256": "2c36c409b3e81fd5cb00f2f5d6e37b85f8e48060ca57e8826ae6452c72c4d19d"
+      "geonamesSupplementPlaces": 5341,
+      "sha256": "2266c68f8efde30c871b7fdc50a4d457a021067dfc78b9ff59c460d49179cbb8"
     },
     "BE": {
       "countryNames": 17,
@@ -508,7 +508,7 @@
       "geonamesPlaces": 138,
       "geonamesAlternateNames": 399,
       "geonamesSupplementPlaces": 376,
-      "sha256": "715c18a9716f3753d7760919ba0a7423a44657f1383dc61341dd4306b324a69a"
+      "sha256": "5c6e21f61f445405f815cc58ef2d48d44478447ffaf8682faea2f3cf163ef107"
     },
     "BJ": {
       "countryNames": 12,
@@ -520,7 +520,7 @@
       "geonamesPlaces": 87,
       "geonamesAlternateNames": 467,
       "geonamesSupplementPlaces": 3553,
-      "sha256": "f1c553bc048c39e9331759d2750a6cda3658b9f463ba0b098aca22ea9ebc666e"
+      "sha256": "c305f45fa09dcca1cc0548d0a9e6bb6ea45077a0f7ce2f9838cabf9942ca0d02"
     },
     "BM": {
       "countryNames": 12,
@@ -532,7 +532,7 @@
       "geonamesPlaces": 12,
       "geonamesAlternateNames": 51,
       "geonamesSupplementPlaces": 18,
-      "sha256": "dae40875cc91674cd5a4421ec37f58af129209c0085c2c5a71889114fa6cd791"
+      "sha256": "6fcc18c8e1a626c7678009b5d0eae605aa0dfa7a3640cf1e8857518ce36035b2"
     },
     "BT": {
       "countryNames": 12,
@@ -544,31 +544,31 @@
       "geonamesPlaces": 35,
       "geonamesAlternateNames": 531,
       "geonamesSupplementPlaces": 209,
-      "sha256": "1f8bf9e94c17de9b026f17be12bc7d1c742eca2a646eec6e373b2e635ebbafe2"
+      "sha256": "2d0fde29060d9621fae996dad212bf25736dc9a58c5decc2d3c6c691d23123f6"
     },
     "BO": {
       "countryNames": 16,
       "admins": 9,
-      "places": 5163,
+      "places": 5653,
       "placesWithPopulation": 201,
       "cscStates": 9,
       "cscCities": 228,
       "geonamesPlaces": 183,
       "geonamesAlternateNames": 1285,
-      "geonamesSupplementPlaces": 4864,
-      "sha256": "b5cd28615d76c340678ffd15a20aadd1c2ddffbd6ede53896f86543a52d3df9b"
+      "geonamesSupplementPlaces": 5354,
+      "sha256": "b6bb3120902734e7e1e960d28250a867d7a4aa4a445c47fad10f8a50e57b9238"
     },
     "BA": {
       "countryNames": 22,
       "admins": 5,
-      "places": 4257,
+      "places": 5111,
       "placesWithPopulation": 399,
       "cscStates": 3,
       "cscCities": 232,
       "geonamesPlaces": 322,
       "geonamesAlternateNames": 2504,
-      "geonamesSupplementPlaces": 3711,
-      "sha256": "67ea48f1347b2d1d1f561467440681c3428c40764830ce731a487772b5c1e097"
+      "geonamesSupplementPlaces": 4565,
+      "sha256": "f5645891756685e0d0f6d45b16d7a8a1b8181e80b8f28417f9a04f3d4495c168"
     },
     "BW": {
       "countryNames": 10,
@@ -580,7 +580,7 @@
       "geonamesPlaces": 139,
       "geonamesAlternateNames": 607,
       "geonamesSupplementPlaces": 1604,
-      "sha256": "76781b778b8c52e4fd06bba49e42a9966556561eedd9e1b6e6b9df9172b264e2"
+      "sha256": "6f387ed76e337da760591b95507f5edcbe3825817e5d0848c1bc3cf56a75a764"
     },
     "BV": {
       "countryNames": 20,
@@ -628,7 +628,7 @@
       "geonamesPlaces": 2,
       "geonamesAlternateNames": 30,
       "geonamesSupplementPlaces": 139,
-      "sha256": "e12d8ca56157943331cafae48a0363be1f87aa6029b584518ad888ad53a6c51f"
+      "sha256": "ab1b00bc8b8f7c29b0f834d7e54186428b62b853ff3174e88e52b3198334019b"
     },
     "BN": {
       "countryNames": 11,
@@ -640,67 +640,67 @@
       "geonamesPlaces": 63,
       "geonamesAlternateNames": 270,
       "geonamesSupplementPlaces": 295,
-      "sha256": "29fe56c49d8f8e1bf6485d1f209bc66af7be967d763651a7763fc7c68a37f215"
+      "sha256": "f9f20f366e4baf38ede3ad2daf6811f242cb7bd3981284aa61f3f216c9014b99"
     },
     "BG": {
       "countryNames": 17,
       "admins": 27,
-      "places": 6133,
+      "places": 6172,
       "placesWithPopulation": 357,
       "cscStates": 28,
       "cscCities": 504,
       "geonamesPlaces": 334,
       "geonamesAlternateNames": 4745,
-      "geonamesSupplementPlaces": 5568,
-      "sha256": "ea8bccf7c14efe14153583621346d499c852d6efcb770b68cb575011699f07e8"
+      "geonamesSupplementPlaces": 5607,
+      "sha256": "5db07d0b42bf856ec970378a5f65f5a0e3137df0c63cef276be4a1d630c4b91e"
     },
     "BF": {
       "countryNames": 10,
       "admins": 58,
-      "places": 5662,
+      "places": 5680,
       "placesWithPopulation": 97,
       "cscStates": 58,
       "cscCities": 92,
       "geonamesPlaces": 118,
       "geonamesAlternateNames": 970,
-      "geonamesSupplementPlaces": 5498,
-      "sha256": "16395ff8c77bfa32933d2cb42f73da1971b58166fbe04d8f5d7c1cffab103162"
+      "geonamesSupplementPlaces": 5516,
+      "sha256": "efa93592cb3e4c7ee813a2f94a8cad95b257c32d12268f8d4bacfe67d6c1a39e"
     },
     "BI": {
       "countryNames": 10,
       "admins": 18,
-      "places": 4836,
+      "places": 4843,
       "placesWithPopulation": 31,
       "cscStates": 18,
       "cscCities": 17,
       "geonamesPlaces": 33,
       "geonamesAlternateNames": 338,
-      "geonamesSupplementPlaces": 4800,
-      "sha256": "cd163105e0ab8ec02b7dc0bf4fb4b94d3b0a34634eeb1120f6191b00d923f75f"
+      "geonamesSupplementPlaces": 4807,
+      "sha256": "020f9c2446718f849d1107eeb18c57087d65ea7477390a07658f909291cc61d8"
     },
     "KH": {
       "countryNames": 19,
       "admins": 28,
-      "places": 5671,
+      "places": 5771,
       "placesWithPopulation": 357,
       "cscStates": 25,
       "cscCities": 107,
       "geonamesPlaces": 341,
       "geonamesAlternateNames": 1973,
-      "geonamesSupplementPlaces": 5261,
-      "sha256": "7782b0d21dbc83bedeabd53924d3ac476e2f3150fc95a709935a43dc9c0a46a8"
+      "geonamesSupplementPlaces": 5361,
+      "sha256": "67cd7244fa6906260889ca92916e79ef85e90727611e33a8b63ec87787cb667b"
     },
     "CM": {
       "countryNames": 14,
       "admins": 13,
-      "places": 5431,
+      "places": 5597,
       "placesWithPopulation": 145,
       "cscStates": 10,
       "cscCities": 139,
       "geonamesPlaces": 145,
       "geonamesAlternateNames": 606,
-      "geonamesSupplementPlaces": 5235,
-      "sha256": "f5a136b99139fb09a40c7949164f813e5b5988de53b59839ec12faf0db13cf7f"
+      "geonamesSupplementPlaces": 5401,
+      "sha256": "0f9c65e64a040704feb7f228982d4634fd2af7302f7651558e1fabd7feb80ab7"
     },
     "CA": {
       "countryNames": 10,
@@ -724,7 +724,7 @@
       "geonamesPlaces": 228,
       "geonamesAlternateNames": 608,
       "geonamesSupplementPlaces": 2501,
-      "sha256": "d92cc79bc6e64528a3a5ffcc105f9df5bb7567b862aed1c1d2c01b4a50332bc2"
+      "sha256": "6ba9ac38c711427427a47b971155b493bc1b0e5938780b9add12fba7cd0251d6"
     },
     "BQ": {
       "countryNames": 17,
@@ -736,7 +736,7 @@
       "geonamesPlaces": 10,
       "geonamesAlternateNames": 93,
       "geonamesSupplementPlaces": 106,
-      "sha256": "7c3127a84edad02e3720597b26a6f3bd34fe340a492004c3007dc7599bc955af"
+      "sha256": "bcec834443a262f4262ee0156e269e51edd69bed5137cb4e729874acde758d49"
     },
     "KY": {
       "countryNames": 20,
@@ -748,7 +748,7 @@
       "geonamesPlaces": 72,
       "geonamesAlternateNames": 175,
       "geonamesSupplementPlaces": 8,
-      "sha256": "24690202cae71ca9ce9e0efe9ab3de120c6d085d4a011393a683e60bd6c5027d"
+      "sha256": "ab790d0179145000a33b31396fa6e8b7881a9961fe8ec1e6d4d7545976230444"
     },
     "CF": {
       "countryNames": 20,
@@ -760,31 +760,31 @@
       "geonamesPlaces": 51,
       "geonamesAlternateNames": 514,
       "geonamesSupplementPlaces": 5227,
-      "sha256": "f25f58c20a6517e12a5c7d9efb657bee5fdda82a3bd12670341c0647e93a438d"
+      "sha256": "9bc67ff2e8bf9fe3f4df1385c77d57f70bfab952fe39ec26a954a0774c967c33"
     },
     "TD": {
       "countryNames": 17,
       "admins": 25,
-      "places": 5407,
+      "places": 5554,
       "placesWithPopulation": 75,
       "cscStates": 23,
       "cscCities": 49,
       "geonamesPlaces": 74,
       "geonamesAlternateNames": 692,
-      "geonamesSupplementPlaces": 5322,
-      "sha256": "0faeaa339780831f6dcba45af4998402e84d81d83721a70a1f8ed5d59eda4217"
+      "geonamesSupplementPlaces": 5469,
+      "sha256": "ffa9b2ff76401a98145ced9a1f9ada1e7546ff0bb07f2da176191a4fad997783"
     },
     "CL": {
       "countryNames": 13,
       "admins": 21,
-      "places": 5495,
+      "places": 5478,
       "placesWithPopulation": 381,
       "cscStates": 16,
       "cscCities": 300,
       "geonamesPlaces": 315,
       "geonamesAlternateNames": 2180,
-      "geonamesSupplementPlaces": 5060,
-      "sha256": "f7f1c3fc1659d3ae9410d291453a42d440b89a4f970a7a3a794dae32f38879c6"
+      "geonamesSupplementPlaces": 5043,
+      "sha256": "b1b3746bff30660c274afc20070c4686bca22c170710feec070e6600a4f21756"
     },
     "CN": {
       "countryNames": 18,
@@ -808,7 +808,7 @@
       "geonamesPlaces": 1,
       "geonamesAlternateNames": 25,
       "geonamesSupplementPlaces": 5,
-      "sha256": "dc8179fcfcaf8d44b44df38f73b6beb0e14788f5a58a3621f4da4571c1284797"
+      "sha256": "b265aa19f062a140f8ad21fdb41857aa6a03a48a225685372c553ef22ade1f40"
     },
     "CC": {
       "countryNames": 20,
@@ -820,7 +820,7 @@
       "geonamesPlaces": 1,
       "geonamesAlternateNames": 3,
       "geonamesSupplementPlaces": 1,
-      "sha256": "26f4d23434b02708544a3a99441b65e8f0b44d295e7b49a36b59f04003d06e9c"
+      "sha256": "a0b2f2c3f48243660fbe3faf9e7500857792ee84971159bb029a35b0d3e89708"
     },
     "CO": {
       "countryNames": 16,
@@ -844,7 +844,7 @@
       "geonamesPlaces": 119,
       "geonamesAlternateNames": 450,
       "geonamesSupplementPlaces": 253,
-      "sha256": "da7aaa289f6ce959b437bcad70ab5e625535ede8845c0be72d70c2c9abdc698a"
+      "sha256": "8035c45d797bf8612dc0c8e2c017652eeaa6f2f5bf154779032bc1e467d45d21"
     },
     "CK": {
       "countryNames": 19,
@@ -856,7 +856,7 @@
       "geonamesPlaces": 2,
       "geonamesAlternateNames": 28,
       "geonamesSupplementPlaces": 54,
-      "sha256": "d100cdd2f1de1d8b66c8290de7de27e706593e35b7071fe31a8a0c395eaf051e"
+      "sha256": "c9c6a0efea6b06f80a3af15232d3381cd9f389c81b86947b8934cf47804771ec"
     },
     "CR": {
       "countryNames": 12,
@@ -868,7 +868,7 @@
       "geonamesPlaces": 137,
       "geonamesAlternateNames": 506,
       "geonamesSupplementPlaces": 4522,
-      "sha256": "72cb2754a36a44b6989bcbc8f428841a87f65558e896a887a7e77c82e96ddf90"
+      "sha256": "d8189620f56e2ee6e370ff9073080838c26bf45699278b2ab455c04fa4036cd3"
     },
     "CI": {
       "countryNames": 20,
@@ -897,14 +897,14 @@
     "CU": {
       "countryNames": 10,
       "admins": 16,
-      "places": 5248,
+      "places": 5560,
       "placesWithPopulation": 198,
       "cscStates": 16,
       "cscCities": 192,
       "geonamesPlaces": 211,
       "geonamesAlternateNames": 1003,
-      "geonamesSupplementPlaces": 5001,
-      "sha256": "76f3c6e0030323e215a56ae71f19516a7ad3d36079caa1a311464d749192d4e5"
+      "geonamesSupplementPlaces": 5313,
+      "sha256": "19bbc2725f9a575e92933fbdd8827ae0a97a0411da7c11c0256c1ed272f2e8ff"
     },
     "CW": {
       "countryNames": 7,
@@ -916,7 +916,7 @@
       "geonamesPlaces": 15,
       "geonamesAlternateNames": 53,
       "geonamesSupplementPlaces": 83,
-      "sha256": "f75622350e5fb2537cd84e5bbe4461cf6c982c0fd3fac227affd5456e9f4123d"
+      "sha256": "9f951181daf831db1e882f2b24800b14b19ad63015fa87099eabeffeba889546"
     },
     "CY": {
       "countryNames": 18,
@@ -928,7 +928,7 @@
       "geonamesPlaces": 132,
       "geonamesAlternateNames": 1101,
       "geonamesSupplementPlaces": 651,
-      "sha256": "e5f64dfb6629bcfaf5d408e58b41e2716bf5de6a3d0b9e480e0f7d0be7fc4af9"
+      "sha256": "1eb695250c5524b430692e278845be83b54d52ad97362ca19f832b291e6aa349"
     },
     "CZ": {
       "countryNames": 21,
@@ -964,7 +964,7 @@
       "geonamesPlaces": 32,
       "geonamesAlternateNames": 369,
       "geonamesSupplementPlaces": 38,
-      "sha256": "9fe1075db1030cc322d376760e34fd2426cdc1abde5bbb8e1b070fcdc7dc4142"
+      "sha256": "1c4d8639d9c2b6cb40d6cd068f5b4b08d76b02676831eafda2c8db0213e69a3f"
     },
     "DM": {
       "countryNames": 11,
@@ -976,31 +976,31 @@
       "geonamesPlaces": 21,
       "geonamesAlternateNames": 257,
       "geonamesSupplementPlaces": 111,
-      "sha256": "e40d3dcfc06c615cfeb7086fed6a832d3e25d2b39ab258d8f20f16ae213418ad"
+      "sha256": "3f192f93a421ebd26726172b9afd8f211e76da7f49f6cee44052a93125985bab"
     },
     "DO": {
       "countryNames": 18,
       "admins": 43,
-      "places": 5495,
+      "places": 5560,
       "placesWithPopulation": 214,
       "cscStates": 42,
       "cscCities": 207,
       "geonamesPlaces": 214,
       "geonamesAlternateNames": 1113,
-      "geonamesSupplementPlaces": 5262,
-      "sha256": "f9d1a6d5df3a1eeb2d90faa3048239c157ca40dd57b8bbff14d4776221f0fae1"
+      "geonamesSupplementPlaces": 5327,
+      "sha256": "7e682beb090b48572b0c80405a4ce6f0ca762c445da7961fa2a4f48a252e5061"
     },
     "CD": {
       "countryNames": 23,
       "admins": 30,
-      "places": 5317,
+      "places": 5883,
       "placesWithPopulation": 118,
       "cscStates": 26,
       "cscCities": 67,
       "geonamesPlaces": 118,
       "geonamesAlternateNames": 929,
-      "geonamesSupplementPlaces": 5178,
-      "sha256": "487f90c34edd5a1d3fa779a5964119e0568326202e0c21381dacbd65c36f9f5e"
+      "geonamesSupplementPlaces": 5744,
+      "sha256": "e6710b97d3ef18d4c97000c103a4d7ce22afcdd237a7b11012434e367c838284"
     },
     "EC": {
       "countryNames": 14,
@@ -1017,14 +1017,14 @@
     "EG": {
       "countryNames": 18,
       "admins": 29,
-      "places": 5565,
+      "places": 5877,
       "placesWithPopulation": 262,
       "cscStates": 27,
       "cscCities": 163,
       "geonamesPlaces": 261,
       "geonamesAlternateNames": 2929,
-      "geonamesSupplementPlaces": 5249,
-      "sha256": "f955be632fd3f41f1dba8c7895a4e607d91f553eec93e7b9c854a7f09acf69bf"
+      "geonamesSupplementPlaces": 5561,
+      "sha256": "78183107797ccfcace577f426b72983b7745faf2743e17ab6a5798d674accb61"
     },
     "SV": {
       "countryNames": 10,
@@ -1036,7 +1036,7 @@
       "geonamesPlaces": 102,
       "geonamesAlternateNames": 537,
       "geonamesSupplementPlaces": 4258,
-      "sha256": "abab3be3f8ff8cabafaad3c4c9036b06ce9b98a7c344dc41c779bc75cc1a5b61"
+      "sha256": "846bc40bb8ab83ee9d8ef9917d4fe590d30e3271cb975a1cdd2324f16d73451f"
     },
     "GQ": {
       "countryNames": 19,
@@ -1048,7 +1048,7 @@
       "geonamesPlaces": 28,
       "geonamesAlternateNames": 210,
       "geonamesSupplementPlaces": 1271,
-      "sha256": "2a14fdadcfba14950db479931e6c7ac8ad2d66d62ad59e213b369a5ceb53b09e"
+      "sha256": "13ac01923b66937fba5625f08f1240c6ed700180bfb36065f9ddb1324eea2c44"
     },
     "ER": {
       "countryNames": 15,
@@ -1060,19 +1060,19 @@
       "geonamesPlaces": 19,
       "geonamesAlternateNames": 245,
       "geonamesSupplementPlaces": 1320,
-      "sha256": "d5b389c6ef2ec519ce70d27232d8e8b55e10403f7ecce5bbf9dbc8ec3877d0dc"
+      "sha256": "a977e144859411f9d3287eaa2d842bdbfe9f139c89c6e80106b541e2c5b0d2a5"
     },
     "EE": {
       "countryNames": 16,
       "admins": 93,
-      "places": 5647,
+      "places": 5673,
       "placesWithPopulation": 1113,
       "cscStates": 94,
       "cscCities": 162,
       "geonamesPlaces": 218,
       "geonamesAlternateNames": 2040,
-      "geonamesSupplementPlaces": 5286,
-      "sha256": "a407a02c71c4f2f99638e2aab2817eaeb1f39eeb563dd568f5c665e923044fcd"
+      "geonamesSupplementPlaces": 5312,
+      "sha256": "db0502e4ec93ae51b8b98616e3b9a288b79545b5b8618360c3c695766decd083"
     },
     "SZ": {
       "countryNames": 15,
@@ -1084,19 +1084,19 @@
       "geonamesPlaces": 25,
       "geonamesAlternateNames": 184,
       "geonamesSupplementPlaces": 634,
-      "sha256": "bf97f1577f51a734bbd7f75b4c7d9286b0acc41a7e33e3614b7c20d27e4328a6"
+      "sha256": "2c9de0096d659154c16e8ceaf281bb04ab5d61116c918255a3b013149a33c60d"
     },
     "ET": {
       "countryNames": 18,
       "admins": 18,
-      "places": 5290,
+      "places": 5382,
       "placesWithPopulation": 252,
       "cscStates": 13,
       "cscCities": 144,
       "geonamesPlaces": 257,
       "geonamesAlternateNames": 1681,
-      "geonamesSupplementPlaces": 4928,
-      "sha256": "c90c38b434858ee642fb55343ecca14f1397a39c620dd66932852be285ef777e"
+      "geonamesSupplementPlaces": 5020,
+      "sha256": "99776b4245836e68d5220e48dfc45cbea614f86d7fea868ad2e283e2c4b07201"
     },
     "FK": {
       "countryNames": 20,
@@ -1108,7 +1108,7 @@
       "geonamesPlaces": 1,
       "geonamesAlternateNames": 25,
       "geonamesSupplementPlaces": 56,
-      "sha256": "f5a0e1e33ecd5c1f0a1c17dfd91f92821cd72cf6a77cce497a50f98e23b4e920"
+      "sha256": "a1a846b15cc077cc88bf6a84e6362e4ea9c6e6a5d68788ecd7e30b5a81206cbf"
     },
     "FO": {
       "countryNames": 20,
@@ -1120,7 +1120,7 @@
       "geonamesPlaces": 35,
       "geonamesAlternateNames": 355,
       "geonamesSupplementPlaces": 143,
-      "sha256": "f2051123574470664a79e3d892a8186d2a78ee4dc8120b14505f0243d8e737ec"
+      "sha256": "f64eb370420868565fa3fcf87bbaf7aad25bec30bf6be1acb198f6cf53ce121c"
     },
     "FJ": {
       "countryNames": 16,
@@ -1132,7 +1132,7 @@
       "geonamesPlaces": 16,
       "geonamesAlternateNames": 93,
       "geonamesSupplementPlaces": 2112,
-      "sha256": "aa67789116351239e20cb91268faecc8681317d41e1df91d2b00f5114562a472"
+      "sha256": "886e35b983534a0ef345fb0d809f447a485819c3c21558fc918af5ec400e75a2"
     },
     "FI": {
       "countryNames": 16,
@@ -1168,7 +1168,7 @@
       "geonamesPlaces": 23,
       "geonamesAlternateNames": 139,
       "geonamesSupplementPlaces": 617,
-      "sha256": "c6c6cb3a328dc05a921356e0a65812fb941eaf99df4546a561330446693ed024"
+      "sha256": "82b9d225f85bfcefe4f622c73674effc41cffe7126876c44723ace495af38ab2"
     },
     "PF": {
       "countryNames": 19,
@@ -1180,7 +1180,7 @@
       "geonamesPlaces": 45,
       "geonamesAlternateNames": 179,
       "geonamesSupplementPlaces": 355,
-      "sha256": "d49cadec75ec3d6b15256f0891f8d5047c99cbc663024794273c697f11d87510"
+      "sha256": "dbf3a4892a64dc7ad487ee23232692e15fe38c2aaec8b3c67c1072716b0306eb"
     },
     "TF": {
       "countryNames": 20,
@@ -1192,7 +1192,7 @@
       "geonamesPlaces": 1,
       "geonamesAlternateNames": 17,
       "geonamesSupplementPlaces": 2,
-      "sha256": "c0f88bfc65241b4b6a63812efe904edaa33ebb4804dd9a2bbce9b2d423be4ae0"
+      "sha256": "25c40375f2eca9165fc9ce9be2739d2720b4d3472a4c0d5dd707de9f43839292"
     },
     "GA": {
       "countryNames": 11,
@@ -1204,7 +1204,7 @@
       "geonamesPlaces": 50,
       "geonamesAlternateNames": 238,
       "geonamesSupplementPlaces": 3453,
-      "sha256": "9bce56b7102d0d627701a3ee2a84ecad4937ba7872180511b16ddeff9796b08a"
+      "sha256": "2bdb3f48764d289854dcffcbbe542b90fa0ffeceb0b35b5ee9814182eb5732c2"
     },
     "GM": {
       "countryNames": 15,
@@ -1216,7 +1216,7 @@
       "geonamesPlaces": 180,
       "geonamesAlternateNames": 461,
       "geonamesSupplementPlaces": 1675,
-      "sha256": "09808a4a9d36be091090505d623fcd82765d20f9045a1ed0d1185a31195580b6"
+      "sha256": "d6927f2a8ada6295f1a9d97ff17f7feab498226c916c7cf0b366d00d7cdc592c"
     },
     "GE": {
       "countryNames": 18,
@@ -1228,7 +1228,7 @@
       "geonamesPlaces": 218,
       "geonamesAlternateNames": 2363,
       "geonamesSupplementPlaces": 4938,
-      "sha256": "c0e287cc3892e7b2389fcc2e04d973f494b68f04cd6dc5216c0a44d111fb66e6"
+      "sha256": "3d2d1aa0ba454bbb32217ff9a537f04325ae91d5b6afa5dfb269b0b689360d6e"
     },
     "DE": {
       "countryNames": 19,
@@ -1245,14 +1245,14 @@
     "GH": {
       "countryNames": 9,
       "admins": 16,
-      "places": 5320,
+      "places": 5700,
       "placesWithPopulation": 118,
       "cscStates": 16,
       "cscCities": 121,
       "geonamesPlaces": 122,
       "geonamesAlternateNames": 605,
-      "geonamesSupplementPlaces": 5139,
-      "sha256": "ae76af202efce8f05ebcf8d4475aaa3c61984d613e6ae29000751c59fcea714f"
+      "geonamesSupplementPlaces": 5519,
+      "sha256": "4b32c5a6c9bf3ecd1b3a31bb143685f7f64ab710e0e1fab0f5836d12e1d497b1"
     },
     "GI": {
       "countryNames": 12,
@@ -1288,7 +1288,7 @@
       "geonamesPlaces": 18,
       "geonamesAlternateNames": 328,
       "geonamesSupplementPlaces": 183,
-      "sha256": "49bb0a4faa0ca75c4618518ccd3d705165e7519c812afce6f573eb6c82e91211"
+      "sha256": "775081dbbe7fe73c64b47cbc0661070250ae36e6fb9ceca527e3787dd03d37ae"
     },
     "GD": {
       "countryNames": 10,
@@ -1300,7 +1300,7 @@
       "geonamesPlaces": 10,
       "geonamesAlternateNames": 49,
       "geonamesSupplementPlaces": 287,
-      "sha256": "2d2397cc1501931ad48c3baf0894a38c10870e1625f52f9052796b761b21b3b8"
+      "sha256": "cfb001aece819c494b53060a33acbd4af584cf61023709117dc3ca30ffe2f2bf"
     },
     "GP": {
       "countryNames": 13,
@@ -1312,7 +1312,7 @@
       "geonamesPlaces": 25,
       "geonamesAlternateNames": 194,
       "geonamesSupplementPlaces": 1380,
-      "sha256": "9ccdaa304392054f1bb28f6a94d2db318cb7ae8e9588b3d4a308f9d6cd4e0336"
+      "sha256": "94ac8f38476eff3dfc14c820b79e2eb320702202d7cb43b6bec45a59e3013b09"
     },
     "GU": {
       "countryNames": 9,
@@ -1324,19 +1324,19 @@
       "geonamesPlaces": 28,
       "geonamesAlternateNames": 85,
       "geonamesSupplementPlaces": 99,
-      "sha256": "a543d445a5b2ba2541f3eb5a12d565ad8721bde8e8eebf074a48a12f80b4255d"
+      "sha256": "cdde7cd89c2b53b6028ffea337cc6d824fb3182b13f1acebc5eabc9dda12e60d"
     },
     "GT": {
       "countryNames": 10,
       "admins": 23,
-      "places": 5314,
+      "places": 5670,
       "placesWithPopulation": 327,
       "cscStates": 22,
       "cscCities": 382,
       "geonamesPlaces": 340,
       "geonamesAlternateNames": 957,
-      "geonamesSupplementPlaces": 4891,
-      "sha256": "46ea14f2e16c0aac4b9d02e9794cb491927ce70ac8a6b335d831b9c436348a57"
+      "geonamesSupplementPlaces": 5247,
+      "sha256": "33b6944c3571ab3e8b3a7bdd70323ee4e6e6fd79f7a931d760411fbaa24f0668"
     },
     "GG": {
       "countryNames": 13,
@@ -1348,19 +1348,19 @@
       "geonamesPlaces": 12,
       "geonamesAlternateNames": 47,
       "geonamesSupplementPlaces": 243,
-      "sha256": "48b39ae398a0bcd17b5ebd3f52ef3ddc0185dce2f98d4852644c3d0a88b200aa"
+      "sha256": "73bff4dff3c4e60454b85b5359df1d76016077e0143317b2af557ed82eccb032"
     },
     "GN": {
       "countryNames": 16,
       "admins": 34,
-      "places": 5338,
+      "places": 5350,
       "placesWithPopulation": 69,
       "cscStates": 41,
       "cscCities": 54,
       "geonamesPlaces": 83,
       "geonamesAlternateNames": 205,
-      "geonamesSupplementPlaces": 5237,
-      "sha256": "0e85f55aa640f3c0e0193bd711a6ea869ee7ec8199d50beb677e43b09507ec03"
+      "geonamesSupplementPlaces": 5249,
+      "sha256": "0939c43acc1094b2ea8e048ac15c9249a1d3914061f602971b64b9c6c274ce35"
     },
     "GW": {
       "countryNames": 17,
@@ -1372,7 +1372,7 @@
       "geonamesPlaces": 52,
       "geonamesAlternateNames": 195,
       "geonamesSupplementPlaces": 3294,
-      "sha256": "f68b44cb3031fd5ecbb13507a5f0cd54cbc389b3c4d0101e164810dc00db127f"
+      "sha256": "040bc97939d70c10ba555a9aa677aed7a28b10c427d04aec6678a02ab70b773f"
     },
     "GY": {
       "countryNames": 12,
@@ -1384,19 +1384,19 @@
       "geonamesPlaces": 23,
       "geonamesAlternateNames": 132,
       "geonamesSupplementPlaces": 862,
-      "sha256": "dfa2d11d16e8a8cef0045dc51c6d7bd1d968410d9a724f231a7cdd974adbd491"
+      "sha256": "56e4059e3fafc052dde7a0dd365e9ab6ea7ba47c9958ca61a112b56c5e73732d"
     },
     "HT": {
       "countryNames": 10,
       "admins": 10,
-      "places": 5202,
+      "places": 5434,
       "placesWithPopulation": 115,
       "cscStates": 10,
       "cscCities": 124,
       "geonamesPlaces": 114,
       "geonamesAlternateNames": 586,
-      "geonamesSupplementPlaces": 5064,
-      "sha256": "ef0b48c8ce2146cab28c7b3a381cfcad8079513a6c3856cee8fdf53b135a3016"
+      "geonamesSupplementPlaces": 5296,
+      "sha256": "ead6e441338047552d50f25f11b0903f05e6c0325ba942a7ec34fe37e76e9b6d"
     },
     "HM": {
       "countryNames": 20,
@@ -1432,7 +1432,7 @@
       "geonamesPlaces": 325,
       "geonamesAlternateNames": 804,
       "geonamesSupplementPlaces": 1000,
-      "sha256": "18c53a0a3a41480d1b38a059d97464b6140b6f2695eaa501834faf5968514cd7"
+      "sha256": "6849df718ff91dd6045a82c5c62a930ab534867246bd55fad6c672a885b0bbac"
     },
     "HU": {
       "countryNames": 20,
@@ -1456,7 +1456,7 @@
       "geonamesPlaces": 50,
       "geonamesAlternateNames": 779,
       "geonamesSupplementPlaces": 67,
-      "sha256": "40858eab755df3fc5755afa8fa151a167f7dec2da7eb550c5bdc20eae5374561"
+      "sha256": "a00ce437f78e3bb0107ba6670e8211edba3c79583f1cad8c7d5ecf6d4db301f1"
     },
     "IN": {
       "countryNames": 16,
@@ -1497,14 +1497,14 @@
     "IQ": {
       "countryNames": 11,
       "admins": 26,
-      "places": 5763,
+      "places": 5923,
       "placesWithPopulation": 128,
       "cscStates": 19,
       "cscCities": 135,
       "geonamesPlaces": 177,
       "geonamesAlternateNames": 2572,
-      "geonamesSupplementPlaces": 5495,
-      "sha256": "30f2d19aadc8d870d0f5404bc5b73dacc5a264c4ad839a229d9eebadef4c9da1"
+      "geonamesSupplementPlaces": 5655,
+      "sha256": "9c29aa9008aef4bb580d129fefb7f07ff6c36c1ab9a162392a148c580bdc9d08"
     },
     "IE": {
       "countryNames": 20,
@@ -1528,7 +1528,7 @@
       "geonamesPlaces": 21,
       "geonamesAlternateNames": 78,
       "geonamesSupplementPlaces": 23,
-      "sha256": "e8e17cfe516039296f198fb38b70014a7c64d12144e1eb0bb061767e5b8994aa"
+      "sha256": "d1fc0f031436a9972cfbf4a49e6dc83bd8c2b280c6fda259ae0dd8d006c8f7e7"
     },
     "IL": {
       "countryNames": 14,
@@ -1564,7 +1564,7 @@
       "geonamesPlaces": 104,
       "geonamesAlternateNames": 305,
       "geonamesSupplementPlaces": 2924,
-      "sha256": "8c4af602ddadcf8a4b2d539eb8e30f1e3f798d12514ea8cce30f9a034a2aa035"
+      "sha256": "4c11cf3def2e3151203677b909a538fc8df774ab1405be5ba2e8d9d60a88234d"
     },
     "JP": {
       "countryNames": 14,
@@ -1588,7 +1588,7 @@
       "geonamesPlaces": 6,
       "geonamesAlternateNames": 24,
       "geonamesSupplementPlaces": 78,
-      "sha256": "725df9c1c2a983e62f2c260d4aff252d295daf3e8a1a3e6a8052e8a2e911ac22"
+      "sha256": "7182bf475f9a602ed15ce5fd039a72b27917fa9e281c6894c1cf7b51183ee0b8"
     },
     "JO": {
       "countryNames": 16,
@@ -1600,31 +1600,31 @@
       "geonamesPlaces": 148,
       "geonamesAlternateNames": 1277,
       "geonamesSupplementPlaces": 1569,
-      "sha256": "8d6b016c020dc55ee98f02176575ad562f2d77ce84c23502b1856a7b8fbee61e"
+      "sha256": "ee50816a8395e56656b2cc6ad96087deabc4543407eb8261d0fa5b9b325aedc1"
     },
     "KZ": {
       "countryNames": 16,
       "admins": 24,
-      "places": 5388,
+      "places": 5676,
       "placesWithPopulation": 322,
       "cscStates": 20,
       "cscCities": 259,
       "geonamesPlaces": 353,
       "geonamesAlternateNames": 3556,
-      "geonamesSupplementPlaces": 4918,
-      "sha256": "06b43dbbc3e41548352979e6933d5d057025a18bce5828e7a43c17d420a30276"
+      "geonamesSupplementPlaces": 5206,
+      "sha256": "2e663c268b289c2e2c97e5908ba8f4b618aebe4c715c6399abefeda71ccc7434"
     },
     "KE": {
       "countryNames": 13,
       "admins": 48,
-      "places": 5721,
+      "places": 5736,
       "placesWithPopulation": 334,
       "cscStates": 47,
       "cscCities": 145,
       "geonamesPlaces": 336,
       "geonamesAlternateNames": 1025,
-      "geonamesSupplementPlaces": 5353,
-      "sha256": "bb462d4d83e5071798a26d100c46f18b8d0c9c32d6e8d399fcfed36d3b16a7ad"
+      "geonamesSupplementPlaces": 5368,
+      "sha256": "0df8fbf6384157acc1717aa4ce8a209c22589a087684a258bc941d7f992c4722"
     },
     "KI": {
       "countryNames": 10,
@@ -1636,7 +1636,7 @@
       "geonamesPlaces": 37,
       "geonamesAlternateNames": 60,
       "geonamesSupplementPlaces": 142,
-      "sha256": "6ef09dca06a1d008bc4ad5891370c22f50e77123758369ab371cd48c0e12b1b6"
+      "sha256": "85d9e0bce4814788ecc4b96fdececf9e2ef138c4ec74517e7f535af085d52cd7"
     },
     "XK": {
       "countryNames": 10,
@@ -1648,7 +1648,7 @@
       "geonamesPlaces": 77,
       "geonamesAlternateNames": 733,
       "geonamesSupplementPlaces": 2437,
-      "sha256": "ca5da7e385e76983489fc4f0861c8611b0e709045cfccdfbcad2125b05cdd6d9"
+      "sha256": "d2badd079041b42c8691361ff3d130ddb684fa78bcf1dcf8d3804f0322a9b8f7"
     },
     "KW": {
       "countryNames": 14,
@@ -1660,7 +1660,7 @@
       "geonamesPlaces": 28,
       "geonamesAlternateNames": 362,
       "geonamesSupplementPlaces": 95,
-      "sha256": "66a78f65add61938ef54d24d37c53e1a214360a4ffb95e577ee35590ff482263"
+      "sha256": "3014d2345ce3a2687590c0bfb9691b61198414a273a200842aad7910baf18904"
     },
     "KG": {
       "countryNames": 18,
@@ -1672,31 +1672,31 @@
       "geonamesPlaces": 112,
       "geonamesAlternateNames": 872,
       "geonamesSupplementPlaces": 2178,
-      "sha256": "897936ac01944047335d7c4f08f2ce4362fb254a3f43af8d6003d5137fef8f93"
+      "sha256": "a5cfeb7b3da00385787d1c80bf5eae98c3e162372680f5fe611195405bb61a57"
     },
     "LA": {
       "countryNames": 11,
       "admins": 25,
-      "places": 5327,
+      "places": 5525,
       "placesWithPopulation": 131,
       "cscStates": 18,
       "cscCities": 76,
       "geonamesPlaces": 117,
       "geonamesAlternateNames": 941,
-      "geonamesSupplementPlaces": 5149,
-      "sha256": "864f6a0c9a98afeef78ec2077e785c0330138e37d86e35b3e4c88fb1a275bd8f"
+      "geonamesSupplementPlaces": 5347,
+      "sha256": "31bd43356e2da50b60053710e3fe6bb893997e8bbc5cd11ab92b09e93e9c8df1"
     },
     "LV": {
       "countryNames": 19,
       "admins": 45,
-      "places": 5702,
+      "places": 5734,
       "placesWithPopulation": 170,
       "cscStates": 43,
       "cscCities": 125,
       "geonamesPlaces": 147,
       "geonamesAlternateNames": 1846,
-      "geonamesSupplementPlaces": 5523,
-      "sha256": "df3e0c510db87464ee52de27481dc3418f8756175b6b9581d71ddd4905f891b2"
+      "geonamesSupplementPlaces": 5555,
+      "sha256": "e3c9c9ba6f70b65c2970a99f980424f73ebae829e00e1210d03fd9eb2f016ee3"
     },
     "LB": {
       "countryNames": 13,
@@ -1708,7 +1708,7 @@
       "geonamesPlaces": 52,
       "geonamesAlternateNames": 902,
       "geonamesSupplementPlaces": 3446,
-      "sha256": "7377ca07b5bad9f9f895fd61cb7fac790fd9d744c6075aeae32b6078a21eb58c"
+      "sha256": "f18694b9ef1d4caaaee4a1dd64ebf7eaf7dcb1c36f983a410fff5b4427135703"
     },
     "LS": {
       "countryNames": 9,
@@ -1720,19 +1720,19 @@
       "geonamesPlaces": 48,
       "geonamesAlternateNames": 249,
       "geonamesSupplementPlaces": 346,
-      "sha256": "345d44103198f028dee852ee2347f972ed4dc3c333de4e83d78eb58555480504"
+      "sha256": "f70617c8657a3061ef23c7b32ebeeb64f02467350998c73293cc9c4d0b9f307a"
     },
     "LR": {
       "countryNames": 12,
       "admins": 15,
-      "places": 5733,
+      "places": 5737,
       "placesWithPopulation": 26,
       "cscStates": 15,
       "cscCities": 18,
       "geonamesPlaces": 27,
       "geonamesAlternateNames": 462,
-      "geonamesSupplementPlaces": 5706,
-      "sha256": "2bb28a1b3006ddabc4f0c1d3f646557bdf19ba29889899883221cd4680b23b7f"
+      "geonamesSupplementPlaces": 5710,
+      "sha256": "b00c638fc45bf3275f0614aeb3081ba7ffa29d59fbe254a9e4fbf8ca7aa1460f"
     },
     "LY": {
       "countryNames": 16,
@@ -1744,7 +1744,7 @@
       "geonamesPlaces": 119,
       "geonamesAlternateNames": 1609,
       "geonamesSupplementPlaces": 769,
-      "sha256": "30cbff94fefd3d42080dd1d88e9024ead8e3127ee2516c534ec6050cbe0bed22"
+      "sha256": "43b3ba36089f39f23c0b24e1725d04b15eca4a64b4cfbf4ea5b0f8f19d3e6ab5"
     },
     "LI": {
       "countryNames": 12,
@@ -1756,19 +1756,19 @@
       "geonamesPlaces": 14,
       "geonamesAlternateNames": 196,
       "geonamesSupplementPlaces": 340,
-      "sha256": "bed08301df26304a187847ecd5741951fc1604a99e86f465b551374f2b541f4c"
+      "sha256": "c3e4a23b6303c1fb98926d9f3206396af988f8ec8224a38dcb5a7bd1136d759d"
     },
     "LT": {
       "countryNames": 17,
       "admins": 56,
-      "places": 5386,
+      "places": 5674,
       "placesWithPopulation": 267,
       "cscStates": 70,
       "cscCities": 128,
       "geonamesPlaces": 164,
       "geonamesAlternateNames": 2428,
-      "geonamesSupplementPlaces": 5216,
-      "sha256": "7084222363a5e4b0e4886335e6807e67d246e10298c072ae8ed9421267f9abc0"
+      "geonamesSupplementPlaces": 5504,
+      "sha256": "5685f9b792d4fdedd718b828bca7560def825cd223a378f2649355ae2d6ef36e"
     },
     "LU": {
       "countryNames": 14,
@@ -1780,7 +1780,7 @@
       "geonamesPlaces": 235,
       "geonamesAlternateNames": 1040,
       "geonamesSupplementPlaces": 454,
-      "sha256": "7221ae2ca841658490616115e374667332b4b525fedafe66a95e64f53111cdab"
+      "sha256": "c6189eabfcb75c4bdb8a6a6b23998e646c27646cf40e3f49f49d99efadbc1b0a"
     },
     "MO": {
       "countryNames": 17,
@@ -1792,31 +1792,31 @@
       "geonamesPlaces": 8,
       "geonamesAlternateNames": 107,
       "geonamesSupplementPlaces": 1,
-      "sha256": "d7f37980c6e86a9036d0df24d71adc93552658666e91d639db676cc4b95640a9"
+      "sha256": "7f9a0e3a638ef7a9fb58a42114edf82802b67351f8ecb9f57b68807f921fc68f"
     },
     "MG": {
       "countryNames": 11,
       "admins": 29,
-      "places": 4096,
+      "places": 5159,
       "placesWithPopulation": 151,
       "cscStates": 6,
       "cscCities": 9,
       "geonamesPlaces": 152,
       "geonamesAlternateNames": 1012,
-      "geonamesSupplementPlaces": 3936,
-      "sha256": "e8963a07960a0bfd0e515194defd5f2743dc65e73f840288b76b60192015184a"
+      "geonamesSupplementPlaces": 4999,
+      "sha256": "4f2e79b0f85d038840af6361565f840506013224552c83fb179a3b3b93401de9"
     },
     "MW": {
       "countryNames": 11,
       "admins": 31,
-      "places": 5107,
+      "places": 5221,
       "placesWithPopulation": 38,
       "cscStates": 31,
       "cscCities": 61,
       "geonamesPlaces": 39,
       "geonamesAlternateNames": 205,
-      "geonamesSupplementPlaces": 5042,
-      "sha256": "d13366b24402886e91914b022f5afed414a08c23011665efd1a8febfe6dda210"
+      "geonamesSupplementPlaces": 5156,
+      "sha256": "4686c5019a444838c1ab1796ee9be246d1c473f7a1c614a326a504d9092663b2"
     },
     "MY": {
       "countryNames": 17,
@@ -1840,19 +1840,19 @@
       "geonamesPlaces": 34,
       "geonamesAlternateNames": 333,
       "geonamesSupplementPlaces": 85,
-      "sha256": "b1f1fad1ce4714d7978ae35eb08d767826b8b89d61ee952df253218b690f37c1"
+      "sha256": "c4e9d495cc87295e7831fdb15f2c2ecc4372562d5692fdf223c21a71f9475228"
     },
     "ML": {
       "countryNames": 9,
       "admins": 11,
-      "places": 5348,
+      "places": 5470,
       "placesWithPopulation": 77,
       "cscStates": 11,
       "cscCities": 47,
       "geonamesPlaces": 94,
       "geonamesAlternateNames": 609,
-      "geonamesSupplementPlaces": 5244,
-      "sha256": "f59bffbfcd03d8e2abca9ff46b76fbe263c5b66befda51837389d3db0b28772d"
+      "geonamesSupplementPlaces": 5366,
+      "sha256": "ea8ac667691aae8521602181729cd0397fac179db14b1a9b1835ec052f83d19e"
     },
     "MT": {
       "countryNames": 9,
@@ -1864,7 +1864,7 @@
       "geonamesPlaces": 71,
       "geonamesAlternateNames": 1437,
       "geonamesSupplementPlaces": 214,
-      "sha256": "e3a0d82278100cde2bb44598151e6ca7d9e2502d4e61eb76929f9e1a22920a5b"
+      "sha256": "73ab6bc6cd22019cf57624fc535c4b61906a4d2f079972c5e80cebfea4350595"
     },
     "MH": {
       "countryNames": 20,
@@ -1876,7 +1876,7 @@
       "geonamesPlaces": 26,
       "geonamesAlternateNames": 387,
       "geonamesSupplementPlaces": 72,
-      "sha256": "3c59f9cca4c68a8db8df8d87d98d1984633be6cf436c91fb306f1a5d7bafba94"
+      "sha256": "8782ce0ef4b8c79857319fa9260b051ca6002d63c33deeb3b282035fe1c254ac"
     },
     "MQ": {
       "countryNames": 12,
@@ -1888,19 +1888,19 @@
       "geonamesPlaces": 23,
       "geonamesAlternateNames": 147,
       "geonamesSupplementPlaces": 1160,
-      "sha256": "3fcf1ab0bf7446c1b6e1c8a433f5bd19fcc6f8ff179ab9bd731b0d62517446e1"
+      "sha256": "57e5669d56a433d015b5b96e4e4a97925be2623c3debabb1e593743991f1b749"
     },
     "MR": {
       "countryNames": 17,
       "admins": 19,
-      "places": 5561,
+      "places": 5573,
       "placesWithPopulation": 99,
       "cscStates": 15,
       "cscCities": 42,
       "geonamesPlaces": 88,
       "geonamesAlternateNames": 674,
-      "geonamesSupplementPlaces": 5449,
-      "sha256": "60cd66ab6404626bfaebbb0317d0969697cde6e4f2e47fc945477239202f041d"
+      "geonamesSupplementPlaces": 5461,
+      "sha256": "31a720bf92e14dbc28ed34724f0c4887c43f911fb0aec6a6c3c0d90c5481265d"
     },
     "MU": {
       "countryNames": 17,
@@ -1912,7 +1912,7 @@
       "geonamesPlaces": 116,
       "geonamesAlternateNames": 554,
       "geonamesSupplementPlaces": 398,
-      "sha256": "e402194067066bddbbb075f4d921a6a145a803f0f627c76587a37ec86d9ce311"
+      "sha256": "95cd647597afe1fab7479e0ade6368c72becab282ca8492dee1c4cf93c408952"
     },
     "YT": {
       "countryNames": 9,
@@ -1924,7 +1924,7 @@
       "geonamesPlaces": 66,
       "geonamesAlternateNames": 384,
       "geonamesSupplementPlaces": 88,
-      "sha256": "0e819eace7abb258fdb97c5e858bbf2cf75e8b0bede707188e3e9ce3947e247b"
+      "sha256": "6b809e2b5fd3cc01e79d9f30869a56d39dffae427e2472db42c30656ffc65002"
     },
     "MX": {
       "countryNames": 15,
@@ -1948,7 +1948,7 @@
       "geonamesPlaces": 62,
       "geonamesAlternateNames": 64,
       "geonamesSupplementPlaces": 381,
-      "sha256": "d463668a4ea135ef469fb294dbd86feac083bc93826d3b4ee0a7e7cec5748489"
+      "sha256": "c2c176971e71a6d6a56e93326f7102ced94d40c3ec62a02ad1869a97abdb42de"
     },
     "MD": {
       "countryNames": 15,
@@ -1960,7 +1960,7 @@
       "geonamesPlaces": 101,
       "geonamesAlternateNames": 1584,
       "geonamesSupplementPlaces": 1690,
-      "sha256": "ca1bc5571d4df247231d32b3ba46ad2c44eeb8964d9e79d2414ae7fabea16d76"
+      "sha256": "78312e72fdab57917619dec6516eae71cff99a16d46103c730c753e3aa75330d"
     },
     "MC": {
       "countryNames": 13,
@@ -1984,7 +1984,7 @@
       "geonamesPlaces": 332,
       "geonamesAlternateNames": 3072,
       "geonamesSupplementPlaces": 1165,
-      "sha256": "34c3516f99f61944346dfa39a6234bf189838c91b1929b46aba0d025eb694233"
+      "sha256": "1856592fcf89894e5575d6277cb2bb8629a4ca5ae4010f420d1294ead7b3c098"
     },
     "ME": {
       "countryNames": 14,
@@ -1996,7 +1996,7 @@
       "geonamesPlaces": 66,
       "geonamesAlternateNames": 727,
       "geonamesSupplementPlaces": 3740,
-      "sha256": "54255def5fe8e0fbcefbd6ae5072dc30a5e534992df4f8c1bde6e588ad356ef5"
+      "sha256": "3dccfdade57aac7ca825ec7d79f4fb40c8ed35919ef0851bc35ec8be33f00b32"
     },
     "MS": {
       "countryNames": 9,
@@ -2008,31 +2008,31 @@
       "geonamesPlaces": 4,
       "geonamesAlternateNames": 75,
       "geonamesSupplementPlaces": 55,
-      "sha256": "02d8b76eb8888064b1ebe0659a65d9cc52b3c072c8f20db3ef26d19e51dcb917"
+      "sha256": "1e2f2edbd367ee4e000d06db552b52d7ee109a46199f814344f38d8eae30d594"
     },
     "MA": {
       "countryNames": 15,
       "admins": 91,
-      "places": 5353,
+      "places": 6005,
       "placesWithPopulation": 406,
       "cscStates": 87,
       "cscCities": 222,
       "geonamesPlaces": 480,
       "geonamesAlternateNames": 2398,
-      "geonamesSupplementPlaces": 4734,
-      "sha256": "5bd047e49d3b3003a232e89402bd0a474f42d072a39657fedccbe61a856f4add"
+      "geonamesSupplementPlaces": 5386,
+      "sha256": "5db14f5fd9e899bbbf46ceb97df82305e680ca6d6083b37e388009271023d1b9"
     },
     "MZ": {
       "countryNames": 13,
       "admins": 10,
-      "places": 5357,
+      "places": 5413,
       "placesWithPopulation": 92,
       "cscStates": 11,
       "cscCities": 38,
       "geonamesPlaces": 94,
       "geonamesAlternateNames": 603,
-      "geonamesSupplementPlaces": 5258,
-      "sha256": "54d990f5a1ed370d8374fa9eda5909196ed5dc1761554013d3bcd6004b9f9abc"
+      "geonamesSupplementPlaces": 5314,
+      "sha256": "5c4d20f4de40e782487147791ab4f443e3992a73a3c7d974c4ed25fef1f682ce"
     },
     "MM": {
       "countryNames": 15,
@@ -2056,7 +2056,7 @@
       "geonamesPlaces": 93,
       "geonamesAlternateNames": 635,
       "geonamesSupplementPlaces": 2658,
-      "sha256": "d06368cc185756217b223fc138e069d8ea89177859420befc2bf278d36ae155e"
+      "sha256": "fe45a284484712751dc0ac08811a78e171b08ec63cad020b96af924f5c7e3880"
     },
     "NR": {
       "countryNames": 8,
@@ -2073,14 +2073,14 @@
     "NP": {
       "countryNames": 9,
       "admins": 10,
-      "places": 4239,
+      "places": 4917,
       "placesWithPopulation": 83,
       "cscStates": 7,
       "cscCities": 77,
       "geonamesPlaces": 84,
       "geonamesAlternateNames": 654,
-      "geonamesSupplementPlaces": 4088,
-      "sha256": "5f22703de15e0d6f7e501d8e8f45ed77ccf3c2003760b44ada79587a7afa46a1"
+      "geonamesSupplementPlaces": 4766,
+      "sha256": "e8deb0149eb645538ebd5637b86787afda4ca48ccd77c93b9307650c9b5340c6"
     },
     "NL": {
       "countryNames": 22,
@@ -2104,7 +2104,7 @@
       "geonamesPlaces": 63,
       "geonamesAlternateNames": 204,
       "geonamesSupplementPlaces": 655,
-      "sha256": "46c990c01851105242f8190a797a3362dec50e749f339643f0f9215eae58513a"
+      "sha256": "a8bebf04b3bc66254f9010629c297292fc8d3a70cbb07edacb848602905dd8ea"
     },
     "NZ": {
       "countryNames": 19,
@@ -2128,19 +2128,19 @@
       "geonamesPlaces": 169,
       "geonamesAlternateNames": 747,
       "geonamesSupplementPlaces": 2302,
-      "sha256": "56c22c24abbf3d1fcb6eea44433e196be73b613f00c13a0b26b1d8757ae82269"
+      "sha256": "1928e936beab078286df394c4d9c9f8e9bc4369f2476de2595afd2883fa9b0ff"
     },
     "NE": {
       "countryNames": 11,
       "admins": 8,
-      "places": 5440,
+      "places": 5622,
       "placesWithPopulation": 74,
       "cscStates": 8,
       "cscCities": 71,
       "geonamesPlaces": 74,
       "geonamesAlternateNames": 405,
-      "geonamesSupplementPlaces": 5333,
-      "sha256": "2653072ee55fdfd6bf656141162245e4ad86547203cc19426c4c3785acf4169c"
+      "geonamesSupplementPlaces": 5515,
+      "sha256": "ad57a3ff85f8327464aebfad975c5ee9a4325a3e56d9933bef88a5372c1bb102"
     },
     "NG": {
       "countryNames": 12,
@@ -2164,7 +2164,7 @@
       "geonamesPlaces": 1,
       "geonamesAlternateNames": 24,
       "geonamesSupplementPlaces": 45,
-      "sha256": "d48ec1f51d856d88aa4cf76de7405d60b0ac0a473c5b260de41f5854d314861b"
+      "sha256": "adadfaa29f0385d04d7965db3bc1827e7119f2c9b3892808b33198db683a5d57"
     },
     "NF": {
       "countryNames": 19,
@@ -2176,19 +2176,19 @@
       "geonamesPlaces": 1,
       "geonamesAlternateNames": 25,
       "geonamesSupplementPlaces": 3,
-      "sha256": "ad05ee706b5667aaaee1337edb9506c763bb7d70685704563f36890e0068c29e"
+      "sha256": "ba43f7598fb8c00721dcd66acb9bf728357c9002f414baac4bb0a4b67e735116"
     },
     "KP": {
       "countryNames": 23,
       "admins": 17,
-      "places": 4636,
+      "places": 5611,
       "placesWithPopulation": 122,
       "cscStates": 13,
       "cscCities": 80,
       "geonamesPlaces": 127,
       "geonamesAlternateNames": 1603,
-      "geonamesSupplementPlaces": 4475,
-      "sha256": "2e131834bd9586141ef2aa9503573a90a456fd5129334de0799b243e8825cc8b"
+      "geonamesSupplementPlaces": 5450,
+      "sha256": "b48f64c6bd68776d803d669ba2be33af515b13a5bdcbf885f682643487349dc2"
     },
     "MK": {
       "countryNames": 22,
@@ -2200,7 +2200,7 @@
       "geonamesPlaces": 303,
       "geonamesAlternateNames": 2627,
       "geonamesSupplementPlaces": 2299,
-      "sha256": "63703a928d7b93c5bc562c6c41e329fad4ccedb00401e1be1305d0a24c2bfff4"
+      "sha256": "c2138950fa0592ec02c6d93149eed546ae95da79708612956858398ba5b87225"
     },
     "MP": {
       "countryNames": 19,
@@ -2212,7 +2212,7 @@
       "geonamesPlaces": 10,
       "geonamesAlternateNames": 59,
       "geonamesSupplementPlaces": 38,
-      "sha256": "45d793ebf06c62b87d27dd3bb3375815af0bf9a377fd7496f2964c4f005751e2"
+      "sha256": "449c53ade8e1672f3a85ae19f69392f032b9997afcba4cab44f726b46b25ffa4"
     },
     "NO": {
       "countryNames": 18,
@@ -2236,7 +2236,7 @@
       "geonamesPlaces": 42,
       "geonamesAlternateNames": 484,
       "geonamesSupplementPlaces": 5565,
-      "sha256": "77ccda88edb92ef82a664d66d605fff35e644f0a62f29b2475b6f789aeb9fc9f"
+      "sha256": "bf7489ae1c272885adf91f073d93b78adf4c74b8aa24fbc5572555039babd800"
     },
     "PK": {
       "countryNames": 10,
@@ -2260,7 +2260,7 @@
       "geonamesPlaces": 29,
       "geonamesAlternateNames": 399,
       "geonamesSupplementPlaces": 53,
-      "sha256": "04e1753fc828f2365cd59fe593bb8843d86b55989e68df05ddeda7c170d4ba00"
+      "sha256": "774fa9cf35b0ec052bda04861a0d58dd33e6158b543c9fe1325f9f72f78eb035"
     },
     "PS": {
       "countryNames": 18,
@@ -2272,7 +2272,7 @@
       "geonamesPlaces": 448,
       "geonamesAlternateNames": 3526,
       "geonamesSupplementPlaces": 770,
-      "sha256": "4a2404ce42e180799141ca6c8d09c1b330c0db578c6903e1b151231e72c6821d"
+      "sha256": "37109c96aa8af58cca6efdc7e820a0943354d56efd68ec7dc5a29c12f317dcc7"
     },
     "PA": {
       "countryNames": 9,
@@ -2289,26 +2289,26 @@
     "PG": {
       "countryNames": 20,
       "admins": 23,
-      "places": 5912,
+      "places": 5940,
       "placesWithPopulation": 55,
       "cscStates": 22,
       "cscCities": 100,
       "geonamesPlaces": 59,
       "geonamesAlternateNames": 537,
-      "geonamesSupplementPlaces": 5787,
-      "sha256": "d7b8891fde837cc0217e3c08f22891035ae95e291ab2248b1f45f23a7091691f"
+      "geonamesSupplementPlaces": 5815,
+      "sha256": "44e18e4226ac425ccb3a8d1aebe7796fd77cfcdab624a27ccddc4ece7aecd580"
     },
     "PY": {
       "countryNames": 11,
       "admins": 18,
-      "places": 5232,
+      "places": 5174,
       "placesWithPopulation": 202,
       "cscStates": 18,
       "cscCities": 152,
       "geonamesPlaces": 173,
       "geonamesAlternateNames": 993,
-      "geonamesSupplementPlaces": 5033,
-      "sha256": "50801747a4e9aa8a53df17f052455e22eef08053707c3a4d976fe6c5a7d082e4"
+      "geonamesSupplementPlaces": 4975,
+      "sha256": "01b942d51794305dc5d186902c444d494dffd8ee970e38e82e7bf5faef3a8b17"
     },
     "PE": {
       "countryNames": 12,
@@ -2380,7 +2380,7 @@
       "geonamesPlaces": 227,
       "geonamesAlternateNames": 1716,
       "geonamesSupplementPlaces": 2233,
-      "sha256": "d595ec9373c35c08c2a8b8e74e7801decf1f41e629b8c5e586467b0bc69420eb"
+      "sha256": "085438cb28b2164c9d038d6efdbebf283bb69bbafa899fbb1abbc109505765d4"
     },
     "QA": {
       "countryNames": 9,
@@ -2392,7 +2392,7 @@
       "geonamesPlaces": 43,
       "geonamesAlternateNames": 467,
       "geonamesSupplementPlaces": 215,
-      "sha256": "1d7d7967a261e393b1b03b1b3423190258cbe01dc02704428a95e42da729c66d"
+      "sha256": "57020648ba5eb459eeb7d07f9ab41874d5727d63f7e6036f3daa460cbcbc3df8"
     },
     "CG": {
       "countryNames": 14,
@@ -2404,7 +2404,7 @@
       "geonamesPlaces": 60,
       "geonamesAlternateNames": 391,
       "geonamesSupplementPlaces": 4891,
-      "sha256": "f87a3ec5e6d7ffc2da1de7e96db93eed5543335352a9c1c717c8c111d1c9c5cc"
+      "sha256": "bda9977de933440ca65e8db6746b2540995794009890c287c58d42119e77372e"
     },
     "RE": {
       "countryNames": 15,
@@ -2416,7 +2416,7 @@
       "geonamesPlaces": 28,
       "geonamesAlternateNames": 105,
       "geonamesSupplementPlaces": 709,
-      "sha256": "eff84baf07408344c7a46b1ef498d1bc2706377ffacfebf3031db042f0b6cd49"
+      "sha256": "ee404b6afb7e200f075677cc87bdefa54ed982093dbe1b7c9d915d415e94050e"
     },
     "RO": {
       "countryNames": 20,
@@ -2445,14 +2445,14 @@
     "RW": {
       "countryNames": 8,
       "admins": 5,
-      "places": 3998,
+      "places": 4129,
       "placesWithPopulation": 52,
       "cscStates": 5,
       "cscCities": 12,
       "geonamesPlaces": 51,
       "geonamesAlternateNames": 216,
-      "geonamesSupplementPlaces": 3947,
-      "sha256": "5dad09139e761d0b436a737aa32ceed363a6b73e1f9dd34fca3dfd3856f76de0"
+      "geonamesSupplementPlaces": 4078,
+      "sha256": "dbbe125b55282e8bbc095871744a59e0bd8a7eb04c2dc852f83250f3d1e9e67d"
     },
     "WS": {
       "countryNames": 8,
@@ -2464,7 +2464,7 @@
       "geonamesPlaces": 74,
       "geonamesAlternateNames": 309,
       "geonamesSupplementPlaces": 317,
-      "sha256": "f12584c747eb1f13e2ed053d609bb7c304a7bdfe55ef1f88727f24be13f046a7"
+      "sha256": "052e1e16012ca43fcb8fa3b5cc506d9156d4c301ff5cd84316a1eb34bd5d6a18"
     },
     "SM": {
       "countryNames": 10,
@@ -2476,7 +2476,7 @@
       "geonamesPlaces": 15,
       "geonamesAlternateNames": 230,
       "geonamesSupplementPlaces": 9,
-      "sha256": "8c6c50d2fb0a46435aca39b2cef44382f105a1572438f41dff77f74d1c46e86a"
+      "sha256": "49804a4611a88d16a07ca90e07a63ebce2d36471f26a0dfcaaf58d6c7495e563"
     },
     "ST": {
       "countryNames": 19,
@@ -2488,7 +2488,7 @@
       "geonamesPlaces": 51,
       "geonamesAlternateNames": 116,
       "geonamesSupplementPlaces": 452,
-      "sha256": "296788b2e00559b86aab639ffd02389c0e94617cc658e033c32946253f902b36"
+      "sha256": "ce73a7f2412e65cd5cbd5aa59da2554cd8ebea85871b3280d80756235306eaf3"
     },
     "SA": {
       "countryNames": 21,
@@ -2500,31 +2500,31 @@
       "geonamesPlaces": 161,
       "geonamesAlternateNames": 1678,
       "geonamesSupplementPlaces": 4672,
-      "sha256": "82a86135f3c795d3e3f41a73ddbf880642a56cb538bf3e24937cb9d14d5dc076"
+      "sha256": "aa9e4438492053d0f76bbd7272bd4637f391b259db13716b349b32861f5e9332"
     },
     "SN": {
       "countryNames": 9,
       "admins": 14,
-      "places": 5690,
+      "places": 5796,
       "placesWithPopulation": 163,
       "cscStates": 14,
       "cscCities": 73,
       "geonamesPlaces": 157,
       "geonamesAlternateNames": 868,
-      "geonamesSupplementPlaces": 5515,
-      "sha256": "595b96b2f85e60be4e109e2088a8185c531580d533dc96841a3aacbaa5e24d2f"
+      "geonamesSupplementPlaces": 5621,
+      "sha256": "254523b059f563ce55ff86828c39dd621693a6c33d1a4448048e29f6a6b2ba1a"
     },
     "RS": {
       "countryNames": 16,
       "admins": 33,
-      "places": 5011,
+      "places": 5401,
       "placesWithPopulation": 702,
       "cscStates": 32,
       "cscCities": 379,
       "geonamesPlaces": 492,
       "geonamesAlternateNames": 4588,
-      "geonamesSupplementPlaces": 4144,
-      "sha256": "49c2f72ff5a5eb64a434ebd8e5e119fbc4d652557463aeb73d615aa9eb4b5081"
+      "geonamesSupplementPlaces": 4534,
+      "sha256": "b5a9f2a8c9e4ce6ba1fc50e585aa75f859843677c770c993f04b1b1a1864c5d9"
     },
     "SC": {
       "countryNames": 15,
@@ -2536,19 +2536,19 @@
       "geonamesPlaces": 26,
       "geonamesAlternateNames": 230,
       "geonamesSupplementPlaces": 26,
-      "sha256": "668fb1e804d67043d7daa79f55acdea0b63e1e214c6e6aeb44708eecec8117fb"
+      "sha256": "74b9b32c3f51e69936295f1130a33284a6035533eec24bc134783189e86a2b44"
     },
     "SL": {
       "countryNames": 11,
       "admins": 7,
-      "places": 3486,
+      "places": 3784,
       "placesWithPopulation": 87,
       "cscStates": 5,
       "cscCities": 91,
       "geonamesPlaces": 88,
       "geonamesAlternateNames": 361,
-      "geonamesSupplementPlaces": 3380,
-      "sha256": "799ebc480f4b542d1493ee90937e831205cd8aedabe1f07cd88c3520e2cda26c"
+      "geonamesSupplementPlaces": 3678,
+      "sha256": "edbc0fb7ad5810222626fab09e71877c97bcfccef34a9449b4c5ff61d9ab79b6"
     },
     "SG": {
       "countryNames": 12,
@@ -2560,7 +2560,7 @@
       "geonamesPlaces": 121,
       "geonamesAlternateNames": 487,
       "geonamesSupplementPlaces": 252,
-      "sha256": "e0a97a1e778bc4f4c8824f9b4922fa64cc24caa6006902f5a437bf9fe1c9363b"
+      "sha256": "5b8b317c193e0aba29dde79120673be61e851a0b57b26d10dab0dc30b423b3f7"
     },
     "SX": {
       "countryNames": 14,
@@ -2572,7 +2572,7 @@
       "geonamesPlaces": 7,
       "geonamesAlternateNames": 49,
       "geonamesSupplementPlaces": 53,
-      "sha256": "32527eed365a4e49ff747730aa464d06aab97968250b8651e287993cf9f76195"
+      "sha256": "7b28dc162e986c4c92686d6560efeaaa83dd71028946c5a9d24720c9dbc7585c"
     },
     "SK": {
       "countryNames": 19,
@@ -2608,7 +2608,7 @@
       "geonamesPlaces": 23,
       "geonamesAlternateNames": 140,
       "geonamesSupplementPlaces": 2440,
-      "sha256": "6ed8b3270789287fabf5c636719cc399154b0862389c25312ad69675ca2614f9"
+      "sha256": "6b9d080fdcb26fdecab4a26ddbd342d52855e1cb46203cdd5dbafe55b8e20658"
     },
     "SO": {
       "countryNames": 15,
@@ -2620,7 +2620,7 @@
       "geonamesPlaces": 76,
       "geonamesAlternateNames": 937,
       "geonamesSupplementPlaces": 4173,
-      "sha256": "b6c93a0503330310b108f7913f8700b12c3c474770d3c36457d0a562585ec4fe"
+      "sha256": "1a61c64ca0f81d33366533df0890b6d8f1db256d5f9efad725417066a5fe74c4"
     },
     "ZA": {
       "countryNames": 19,
@@ -2644,19 +2644,19 @@
       "geonamesPlaces": 1,
       "geonamesAlternateNames": 22,
       "geonamesSupplementPlaces": 2,
-      "sha256": "aa4c1c74d58bbc172ea18af409ed6a4c7735e118448452c8e7c3e07b4dbbbe85"
+      "sha256": "6c5f4ac669094e2cbe18fefcb03e02cac674395927c2055f656fe6e4c925b9d1"
     },
     "KR": {
       "countryNames": 23,
       "admins": 26,
-      "places": 5170,
+      "places": 6022,
       "placesWithPopulation": 159,
       "cscStates": 17,
       "cscCities": 308,
       "geonamesPlaces": 312,
       "geonamesAlternateNames": 2360,
-      "geonamesSupplementPlaces": 4572,
-      "sha256": "db9710c1779dee4e9cb3727865b65cfcba197e33bac5501a547f5f4853bbf393"
+      "geonamesSupplementPlaces": 5424,
+      "sha256": "814d47696e2d66b348bbabb820a3581f301a21e3368651a06b301f0b2a18e82c"
     },
     "SS": {
       "countryNames": 19,
@@ -2668,7 +2668,7 @@
       "geonamesPlaces": 23,
       "geonamesAlternateNames": 360,
       "geonamesSupplementPlaces": 4873,
-      "sha256": "50a1c0a68f1eaba19865fceacebe73624aa86b41e09f6c79dd9e239e1b353c9d"
+      "sha256": "01b1b31d8bb3bc1f6869e11475a763263bf8b24a95be2f6e761e24d39f43b850"
     },
     "ES": {
       "countryNames": 19,
@@ -2685,14 +2685,14 @@
     "LK": {
       "countryNames": 15,
       "admins": 34,
-      "places": 5469,
+      "places": 5879,
       "placesWithPopulation": 92,
       "cscStates": 34,
       "cscCities": 147,
       "geonamesPlaces": 89,
       "geonamesAlternateNames": 1209,
-      "geonamesSupplementPlaces": 5302,
-      "sha256": "6bea2bc17e0fd35cf38d76e575691f980a6efd7ac23705bae9cd79c7300a5bae"
+      "geonamesSupplementPlaces": 5712,
+      "sha256": "aa02b737de89a9cd20bcc94c5054c819d153332f3f1dcfb6442d94cb7f27322b"
     },
     "BL": {
       "countryNames": 15,
@@ -2704,7 +2704,7 @@
       "geonamesPlaces": 1,
       "geonamesAlternateNames": 25,
       "geonamesSupplementPlaces": 28,
-      "sha256": "fca278663a9894f952cd66699f2f5b81328084cb54a6599876fbee0e61ffdc55"
+      "sha256": "71b7aff829de5f0d007e5198cf08adf4b0c523c232dbfe2f3b469c19b6cb5ed1"
     },
     "SH": {
       "countryNames": 18,
@@ -2716,7 +2716,7 @@
       "geonamesPlaces": 6,
       "geonamesAlternateNames": 77,
       "geonamesSupplementPlaces": 14,
-      "sha256": "4cb319aecc470f5824881d8fd42772315c55134354e7505068c497d4624e1741"
+      "sha256": "00611db408a019835929518997a37abb5dfabc79adf88956e77912793321cad3"
     },
     "KN": {
       "countryNames": 20,
@@ -2728,7 +2728,7 @@
       "geonamesPlaces": 18,
       "geonamesAlternateNames": 329,
       "geonamesSupplementPlaces": 111,
-      "sha256": "81e482a38326a41bfa87e0222f5fa28dc8cfb39b6af78d3577cbfd0c85a4ad17"
+      "sha256": "1a73b96babdd8682d6956647c9777c277f849aae96bde7bb96e7e0ed6d3d03b0"
     },
     "LC": {
       "countryNames": 16,
@@ -2740,7 +2740,7 @@
       "geonamesPlaces": 38,
       "geonamesAlternateNames": 207,
       "geonamesSupplementPlaces": 145,
-      "sha256": "6b7ebc519d25036fe06fbc2f4cccb31f5331298b14a879675e61111f69158348"
+      "sha256": "f473ebf88fec02c5a7d0c96627965852c4b49c9d595ccccfb99b699e01227d02"
     },
     "MF": {
       "countryNames": 15,
@@ -2752,7 +2752,7 @@
       "geonamesPlaces": 9,
       "geonamesAlternateNames": 39,
       "geonamesSupplementPlaces": 52,
-      "sha256": "2e658df8ab7ee5fbf6c92ea8b27e04244632cc9d49ebdb48b0b0b52b7ab35c00"
+      "sha256": "97aa0a9e10baa113886f74e29b1b060f6515568c4638d6900806dea6d1d80d4e"
     },
     "PM": {
       "countryNames": 20,
@@ -2776,19 +2776,19 @@
       "geonamesPlaces": 25,
       "geonamesAlternateNames": 177,
       "geonamesSupplementPlaces": 139,
-      "sha256": "8f2049250eb95668229e2c64392b6ad45e7e89fc39c0f86f8f54217b8d9218b7"
+      "sha256": "24aa67faf02c14a6d9bac38d49cebbe1147b7fda029b582f145f7469c4f6464b"
     },
     "SD": {
       "countryNames": 12,
       "admins": 23,
-      "places": 5755,
+      "places": 5733,
       "placesWithPopulation": 100,
       "cscStates": 18,
       "cscCities": 71,
       "geonamesPlaces": 112,
       "geonamesAlternateNames": 1211,
-      "geonamesSupplementPlaces": 5627,
-      "sha256": "dc4ff76208a9f5d05548353f55417ddcff25ffda5dc992bc196d302c4c2b1c03"
+      "geonamesSupplementPlaces": 5605,
+      "sha256": "b00623ce18e6eb1a99ea7baf82f0938d75b8786785497159b31aaa8ff844a170"
     },
     "SR": {
       "countryNames": 9,
@@ -2800,7 +2800,7 @@
       "geonamesPlaces": 35,
       "geonamesAlternateNames": 222,
       "geonamesSupplementPlaces": 487,
-      "sha256": "685dae8b23828e7d2a0ba3c22f7813c54c81f3dd51ad522d29ef73e59ff35637"
+      "sha256": "a3bec5bf95e4103e5eea77c2c5f005084ca92ca3398697de70054594a0899c41"
     },
     "SJ": {
       "countryNames": 21,
@@ -2812,7 +2812,7 @@
       "geonamesPlaces": 2,
       "geonamesAlternateNames": 50,
       "geonamesSupplementPlaces": 9,
-      "sha256": "6158b89325a93a9b3161deb5c7a8ce1c63291bdc4f150876a4d1189a182201aa"
+      "sha256": "bfbc11484e24b3996853b4cdf721e8114bfc3fc290cb711cb217b8b875d17d95"
     },
     "SE": {
       "countryNames": 20,
@@ -2841,26 +2841,26 @@
     "SY": {
       "countryNames": 16,
       "admins": 16,
-      "places": 5746,
+      "places": 5872,
       "placesWithPopulation": 152,
       "cscStates": 14,
       "cscCities": 142,
       "geonamesPlaces": 315,
       "geonamesAlternateNames": 4242,
-      "geonamesSupplementPlaces": 5395,
-      "sha256": "8aca0fda574030a8eab2119db7093cd71ad7703a0f1104adb403944f6d258924"
+      "geonamesSupplementPlaces": 5521,
+      "sha256": "337416276b4da6d72f9bca18305ee6e44ee1c6dbc4f1e777adc3d9147274d05f"
     },
     "TW": {
       "countryNames": 16,
       "admins": 23,
-      "places": 4617,
+      "places": 5059,
       "placesWithPopulation": 87,
       "cscStates": 22,
       "cscCities": 383,
       "geonamesPlaces": 89,
       "geonamesAlternateNames": 1351,
-      "geonamesSupplementPlaces": 4147,
-      "sha256": "8f6c7eae560d9fab55c89450e3db206a3663e4cedbe140d256dc99451c005dbb"
+      "geonamesSupplementPlaces": 4589,
+      "sha256": "9e53a8e4c65ffb3fe73231214484c1bf242bcace13cb819d39a455ec404d7a5d"
     },
     "TJ": {
       "countryNames": 18,
@@ -2872,19 +2872,19 @@
       "geonamesPlaces": 103,
       "geonamesAlternateNames": 853,
       "geonamesSupplementPlaces": 2494,
-      "sha256": "2b349f77d3516a44e686fc285d7546ca94b0006ece96d4fa5c674ef581b276ae"
+      "sha256": "9f223d0f3522001077bc4b655de2a761f3ff29a2967985281fffc16798e5f30d"
     },
     "TZ": {
       "countryNames": 15,
       "admins": 33,
-      "places": 5601,
+      "places": 5617,
       "placesWithPopulation": 322,
       "cscStates": 31,
       "cscCities": 303,
       "geonamesPlaces": 324,
       "geonamesAlternateNames": 1074,
-      "geonamesSupplementPlaces": 5235,
-      "sha256": "f4eff104363e8de444371b4eff3813d4ee27f60c9b6d3b3cde0c3a864bbb74b7"
+      "geonamesSupplementPlaces": 5251,
+      "sha256": "e027b10745f3baa4cdcaf79c693f1cd5f1c2ad1ad005fdd909f9255be3a60f6a"
     },
     "TH": {
       "countryNames": 16,
@@ -2908,7 +2908,7 @@
       "geonamesPlaces": 32,
       "geonamesAlternateNames": 344,
       "geonamesSupplementPlaces": 3174,
-      "sha256": "f1ab37e052e7b294ddea4bec499b55733516c3b404dd89cbf3ede5c8df6bf5d1"
+      "sha256": "b42bd1710b947e3f929108304bc5d55ce0e005583860ca63ddf89da54771db62"
     },
     "TG": {
       "countryNames": 8,
@@ -2920,7 +2920,7 @@
       "geonamesPlaces": 35,
       "geonamesAlternateNames": 348,
       "geonamesSupplementPlaces": 3893,
-      "sha256": "fa251334005ac7c9f814c72124a40d024f51c58d08b88f2070f2fc10e05649dc"
+      "sha256": "ee4c2493124daf67c705bbb1945c090cb694cab8b949306d0650522ee7a0dc5a"
     },
     "TK": {
       "countryNames": 11,
@@ -2944,7 +2944,7 @@
       "geonamesPlaces": 47,
       "geonamesAlternateNames": 152,
       "geonamesSupplementPlaces": 101,
-      "sha256": "a7b0b376ac35e32242778c1befc1f7ed86dcea4ceb9d230bb54f407cef0cd416"
+      "sha256": "79e6a4b086c84ccc656908ce1624ffc47889a0fd5b9d1b85115fb77e8d05a9fa"
     },
     "TT": {
       "countryNames": 20,
@@ -2956,7 +2956,7 @@
       "geonamesPlaces": 27,
       "geonamesAlternateNames": 353,
       "geonamesSupplementPlaces": 428,
-      "sha256": "8e8b9590e5699a23ddca3886ff7c8f1af6aaf0cc02303eeaf9e6d1030333d65a"
+      "sha256": "e13efa51904db7f30860b7a950af878539c629b59a76ed1f8dcb384eedb1bca2"
     },
     "TN": {
       "countryNames": 17,
@@ -2968,7 +2968,7 @@
       "geonamesPlaces": 286,
       "geonamesAlternateNames": 2209,
       "geonamesSupplementPlaces": 1908,
-      "sha256": "0690a4c9751d59d5d2d26f0973781e092c547940d1129adb3e13cc7cbd8674d5"
+      "sha256": "655094f5e761e036795c923ce0b1720da9ef47533e629998f478bb353bf0a27d"
     },
     "TR": {
       "countryNames": 20,
@@ -2992,7 +2992,7 @@
       "geonamesPlaces": 180,
       "geonamesAlternateNames": 1534,
       "geonamesSupplementPlaces": 1087,
-      "sha256": "47266fc29101b79af24e2468e878d9875c5bac3bcd55f9355c69cbd657ec9929"
+      "sha256": "b88c7253a85134f7e45a224ccef6cc4d3741deb5e51f965fca7023236c9b3738"
     },
     "TC": {
       "countryNames": 20,
@@ -3016,7 +3016,7 @@
       "geonamesPlaces": 12,
       "geonamesAlternateNames": 134,
       "geonamesSupplementPlaces": 14,
-      "sha256": "5e0fbb3ffed6313bb0a3586e69f7b7d798aece3a1d301b6c01963643381b14b6"
+      "sha256": "8a8e0d7c30ba062f24f7b862dba42aa5369fb576d54972a05c62c480d1412c2a"
     },
     "UM": {
       "countryNames": 20,
@@ -3028,7 +3028,7 @@
       "geonamesPlaces": 0,
       "geonamesAlternateNames": 0,
       "geonamesSupplementPlaces": 7,
-      "sha256": "827c900a588530d4c26cfd43952b0b453e39a36132750f8be2179bfcf5ede773"
+      "sha256": "6e5e60f9a4335c21d5741a4e7f1ae47ebd2ff43514c5bfafa518402a7e1173c5"
     },
     "VI": {
       "countryNames": 20,
@@ -3040,19 +3040,19 @@
       "geonamesPlaces": 8,
       "geonamesAlternateNames": 152,
       "geonamesSupplementPlaces": 208,
-      "sha256": "894fa11019c8f56e816fdb8f86df6f980eb9523352ffc347f7db9b80a08841c1"
+      "sha256": "4a78600c1de4fb0600d95c0660c869c05b499f1001c69c805c06b558ece37fa0"
     },
     "UG": {
       "countryNames": 10,
       "admins": 139,
-      "places": 4856,
+      "places": 5172,
       "placesWithPopulation": 164,
       "cscStates": 139,
       "cscCities": 91,
       "geonamesPlaces": 212,
       "geonamesAlternateNames": 431,
-      "geonamesSupplementPlaces": 4641,
-      "sha256": "85755dfc591ac1bbdb0c8f76617c9c06c4839def8bd6ff8e45d43a0f842c913e"
+      "geonamesSupplementPlaces": 4957,
+      "sha256": "3d4fa1d443b1e081754a11e5a8686ffe5b441f8d7b0b7322a64392544e492ad2"
     },
     "UA": {
       "countryNames": 16,
@@ -3076,7 +3076,7 @@
       "geonamesPlaces": 107,
       "geonamesAlternateNames": 830,
       "geonamesSupplementPlaces": 2219,
-      "sha256": "43e1152b2c7358bed6d24b657d668f15e3bf9259a396407f4c24f28124b097fd"
+      "sha256": "da543e5a53ddf74c7a0d35b18ae9909ed0976ada51ef99ae043c2613d22567d7"
     },
     "GB": {
       "countryNames": 26,
@@ -3112,19 +3112,19 @@
       "geonamesPlaces": 155,
       "geonamesAlternateNames": 1626,
       "geonamesSupplementPlaces": 312,
-      "sha256": "27eab50dc4859eee7f28cc383b6d7709d0e93da359454c35c40d6c1c87eaae0a"
+      "sha256": "04fbe2e389f99341cff5ae2f1fc6baeb5c645bec203cf85a0c3ef76a1b16f5a7"
     },
     "UZ": {
       "countryNames": 17,
       "admins": 13,
-      "places": 5289,
+      "places": 5259,
       "placesWithPopulation": 148,
       "cscStates": 14,
       "cscCities": 135,
       "geonamesPlaces": 221,
       "geonamesAlternateNames": 2049,
-      "geonamesSupplementPlaces": 5027,
-      "sha256": "2f82556ee057a1983836c0bcf50878539ad81ead25d0aef2c60a435193df3966"
+      "geonamesSupplementPlaces": 4997,
+      "sha256": "b8efb4a4b0a0b3263b73580d2e2f17de18fd9e99577b3a492abe67a0adebb9f3"
     },
     "VU": {
       "countryNames": 8,
@@ -3136,7 +3136,7 @@
       "geonamesPlaces": 10,
       "geonamesAlternateNames": 119,
       "geonamesSupplementPlaces": 1874,
-      "sha256": "9942f4b78059572507e161c92fc2da5ae33b60cb2ad1aa899d7532598790ce9d"
+      "sha256": "dbd7ed7c75e9060dd1a33a85e0d1a199ef18b3d770129b8fc7b287e8e9bdbd5a"
     },
     "VA": {
       "countryNames": 19,
@@ -3153,14 +3153,14 @@
     "VE": {
       "countryNames": 11,
       "admins": 28,
-      "places": 4904,
+      "places": 5494,
       "placesWithPopulation": 243,
       "cscStates": 25,
       "cscCities": 136,
       "geonamesPlaces": 414,
       "geonamesAlternateNames": 1586,
-      "geonamesSupplementPlaces": 4471,
-      "sha256": "3f81892300e0cbea647021b0b63333e9e9af5224e9a97d6c6b1701947ced37a4"
+      "geonamesSupplementPlaces": 5061,
+      "sha256": "d47390e3657b030bf6d10b78f16e64e8fd966acfcf191404bd90e1dd2ea00d77"
     },
     "VN": {
       "countryNames": 16,
@@ -3184,7 +3184,7 @@
       "geonamesPlaces": 8,
       "geonamesAlternateNames": 77,
       "geonamesSupplementPlaces": 90,
-      "sha256": "89f3e99ce423ca7173c5fb9d61f5b9a85d33279ce49afcfc67ca07d4953f79d2"
+      "sha256": "d0ee08df256be6315ceafa8296500be150f14f57a2e5544c613b95052efd64ff"
     },
     "EH": {
       "countryNames": 18,
@@ -3196,31 +3196,31 @@
       "geonamesPlaces": 27,
       "geonamesAlternateNames": 192,
       "geonamesSupplementPlaces": 23,
-      "sha256": "648660053f1323ed375feda7c7a7580fe7508674c3fb42d8c867519ddba35295"
+      "sha256": "e03bf3c1e2c541a39767747db713d2420ed59e119997d58b2f55da793852539b"
     },
     "YE": {
       "countryNames": 14,
       "admins": 28,
-      "places": 5818,
-      "placesWithPopulation": 5336,
+      "places": 5816,
+      "placesWithPopulation": 5335,
       "cscStates": 22,
       "cscCities": 339,
       "geonamesPlaces": 316,
       "geonamesAlternateNames": 2427,
-      "geonamesSupplementPlaces": 5270,
-      "sha256": "82469b439e7f503d63af26759bd1d81e282adda8829b33cdac10618a508dea73"
+      "geonamesSupplementPlaces": 5268,
+      "sha256": "f126cd52e5a26ade06f23816896fe49c34a3fd47a0e9c6185b30252c04fc003c"
     },
     "ZM": {
       "countryNames": 14,
       "admins": 11,
-      "places": 5327,
+      "places": 5465,
       "placesWithPopulation": 97,
       "cscStates": 10,
       "cscCities": 71,
       "geonamesPlaces": 98,
       "geonamesAlternateNames": 534,
-      "geonamesSupplementPlaces": 5219,
-      "sha256": "42c044002ff1afbed247aa4a77788571a1c0aca0b84efc85666361dfb58a82aa"
+      "geonamesSupplementPlaces": 5357,
+      "sha256": "2446ddaf7874133d5831ce6d53fb720f6cdf93130655fa2124acaa2857dbe8d1"
     },
     "ZW": {
       "countryNames": 13,
@@ -3232,7 +3232,7 @@
       "geonamesPlaces": 69,
       "geonamesAlternateNames": 433,
       "geonamesSupplementPlaces": 1978,
-      "sha256": "24943ae95b3a8adc89cfd2a687965023759c04c636dbece11359696cf24bb5b4"
+      "sha256": "440eca4dc1ad6f7704b4359277990c4516ad53bc9f4c132ac1cbfd15387c22e7"
     }
   }
 }
