@@ -1,89 +1,12 @@
 {
-  "schemaVersion": 1,
-  "generatedAt": "2026-10-04T02:58:29.538Z",
-  "source": {
-    "name": "Countries States Cities Database",
-    "repository": "dr5hn/countries-states-cities-database",
-    "release": "v3.2-export.8",
-    "asset": "json-countries+states+cities.json.gz",
-    "sha256": "7e2d16815990f11bbddcd36a49a81528c6da85136f860239c3e8c7bd712cbb4e",
-    "license": "ODbL-1.0",
-    "geonames": {
-      "name": "GeoNames cities500",
-      "url": "https://download.geonames.org/export/dump/cities500.zip",
-      "fetchedAt": "2026-10-04T02:58:55.679384Z",
-      "lastModified": "Sat, 03 Oct 2026 02:09:53 GMT",
-      "sha256": "7c32ce0a1553dba6b5d3ee2a6e14b27bbbda756ecb5c0e812537681a15fc7f3a",
-      "license": "CC BY 4.0",
-      "scope": "cities with population > 500 or administrative seats through PPLA4"
-    }
-  },
-  "country": {
-    "code": "CC",
-    "name": "Cocos (Keeling) Islands",
-    "slug": "cocos-keeling-islands"
-  },
-  "counts": {
-    "states": 0,
-    "cityRecords": 0,
-    "uniquePrimaryCities": 0,
-    "uniquePrimaryAdminRegions": 0,
-    "attributionTerms": 24,
-    "discoveryTerms": 21,
-    "compoundTerms": 0,
-    "ambiguousTerms": 0,
-    "geonamesCityRecords": 1
-  },
-  "attributionTerms": [
-    "Cocos Adalari",
-    "Cocos (Keeling) Islands",
-    "Cocoseilanden",
-    "Îles Cocos",
-    "Ilhas Cocos",
-    "Ilhas dos Cocos",
-    "Inizi Cocos",
-    "Isla oeste",
-    "Islas Cocos o Islas Keeling",
-    "Isole Cocos e Keeling",
-    "Kokosinseln",
-    "Kokosovi Otoci",
-    "weseuteu seom",
-    "West Island",
-    "Wyspy Kokosowe (Keelinga)",
-    "Кокосовые (Килинг) острова",
-    "Кокосові (Кілінг) острови",
-    "جزایر کوکوس",
-    "جزر كوكوس (كيلينغ)",
-    "कोकोस (कीलिंग) द्वीप",
-    "ココス（キーリング）諸島",
-    "科科斯（基林）群岛",
-    "웨스트 섬",
-    "코코스 제도"
-  ],
-  "discoveryTerms": [
-    "Cocos Adalari",
-    "Cocos (Keeling) Islands",
-    "Cocoseilanden",
-    "Îles Cocos",
-    "Ilhas Cocos",
-    "Ilhas dos Cocos",
-    "Inizi Cocos",
-    "Islas Cocos o Islas Keeling",
-    "Isole Cocos e Keeling",
-    "Kokosinseln",
-    "Kokosovi Otoci",
-    "West Island",
-    "Wyspy Kokosowe (Keelinga)",
-    "Кокосовые (Килинг) острова",
-    "Кокосові (Кілінг) острови",
-    "جزایر کوکوس",
-    "جزر كوكوس (كيلينغ)",
-    "कोकोस (कीलिंग) द्वीप",
-    "ココス（キーリング）諸島",
-    "科科斯（基林）群岛",
-    "코코스 제도"
-  ],
-  "compoundTerms": [],
-  "ambiguousTerms": [],
-  "contentSha256": "c67ffc8080d23c6ae72d1d27a62da2e23952dc1dd043d7a3ef6827ea80db595d"
+"schemaVersion": 2,
+"country": {"code":"CC","iso3":"CCK","population":593,"name":"Cocos (Keeling) Islands","slug":"cocos-keeling-islands"},
+"counts": {"countryNames":20,"admins":0,"places":1,"placesWithPopulation":1,"cscStates":0,"cscCities":0,"geonamesPlaces":1,"geonamesAlternateNames":3},
+"names": ["Cocos (Keeling) Islands","Cocos Adalari","Cocoseilanden","Îles Cocos","Ilhas Cocos","Ilhas dos Cocos","Inizi Cocos","Islas Cocos o Islas Keeling","Isole Cocos e Keeling","Kokosinseln","Kokosovi Otoci","Wyspy Kokosowe (Keelinga)","Кокосові (Кілінг) острови","Кокосовые (Килинг) острова","جزایر کوکوس","جزر كوكوس (كيلينغ)","कोकोस (कीलिंग) द्वीप","코코스 제도","ココス（キーリング）諸島","科科斯（基林）群岛"],
+"admins": [
+
+],
+"places": [
+[120,-1,"PPLC","West Island","Isla oeste","weseuteu seom","웨스트 섬"]
+]
 }
