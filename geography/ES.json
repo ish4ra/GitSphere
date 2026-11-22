@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"ES","iso3":"ESP","population":49315949,"name":"Spain","slug":"spain"},
-"counts": {"countryNames":19,"admins":69,"places":14987,"placesWithPopulation":6992,"cscStates":69,"cscCities":8405,"geonamesPlaces":7425,"geonamesAlternateNames":20725},
+"counts": {"countryNames":19,"admins":69,"places":14987,"placesWithPopulation":6992,"cscStates":69,"cscCities":8405,"geonamesPlaces":7425,"geonamesAlternateNames":20725,"geonamesSupplementPlaces":0},
 "names": ["Espagne","España","Espanha","Hiszpania","İspanya","Spagn","Spagna","Spain","Spanien","Spanje","Španjolska","Испания","Іспанія","إسبانيا","اسپانیا","स्पेन","스페인","スペイン","西班牙"],
 "admins": [
 ["C","province","A Coruña"],

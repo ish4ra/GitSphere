@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"UA","iso3":"UKR","population":32862000,"name":"Ukraine","slug":"ukraine"},
-"counts": {"countryNames":16,"admins":50,"places":6833,"placesWithPopulation":5074,"cscStates":27,"cscCities":1819,"geonamesPlaces":5593,"geonamesAlternateNames":47434},
+"counts": {"countryNames":16,"admins":50,"places":6833,"placesWithPopulation":5074,"cscStates":27,"cscCities":1819,"geonamesPlaces":5593,"geonamesAlternateNames":47434,"geonamesSupplementPlaces":0},
 "names": ["Oekraïne","Ucraina","Ucrania","Ucrânia","Ukraina","Ukraine","Ukrajina","Ukrayna","Украина","Україна","أوكرانيا","وکراین","यूक्रेन","우크라이나","ウクライナ","乌克兰"],
 "admins": [
 ["","region","Cherkaska","Черкаска"],

@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"BV","iso3":"BVT","population":0,"name":"Bouvet Island","slug":"bouvet-island"},
-"counts": {"countryNames":20,"admins":0,"places":0,"placesWithPopulation":0,"cscStates":0,"cscCities":0,"geonamesPlaces":0,"geonamesAlternateNames":0},
+"counts": {"countryNames":20,"admins":0,"places":0,"placesWithPopulation":0,"cscStates":0,"cscCities":0,"geonamesPlaces":0,"geonamesAlternateNames":0,"geonamesSupplementPlaces":0},
 "names": ["Bouvet Adasi","Bouvet Island","Bouveteiland","Bouvetinsel","Bouvetøya","Enez Bouvet","Île Bouvet","Ilha Bouvet","Isla Bouvet","Isola Bouvet","Otok Bouvet","Wyspa Bouveta","Острів Буве","Остров Буве","جزيرة بوفيت","جزیره بووه","बाउवेट आइलैंड","부벳 섬","ブーベ島","布维岛"],
 "admins": [
 

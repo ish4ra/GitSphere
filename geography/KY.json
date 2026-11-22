@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"KY","iso3":"CYM","population":84738,"name":"Cayman Islands","slug":"cayman-islands"},
-"counts": {"countryNames":20,"admins":9,"places":78,"placesWithPopulation":70,"cscStates":3,"cscCities":7,"geonamesPlaces":72,"geonamesAlternateNames":175},
+"counts": {"countryNames":20,"admins":9,"places":86,"placesWithPopulation":78,"cscStates":3,"cscCities":7,"geonamesPlaces":72,"geonamesAlternateNames":175,"geonamesSupplementPlaces":8},
 "names": ["Cayman Adalari","Cayman Islands","Caymaneilanden","Îles Caïmans","Ilhas Caimão","Ilhas Cayman","Inizi Cayman","Islas Caimán","Isole Cayman","Kaimaninseln","Kajmanski otoci","Kajmany","Кайманові острови","Каймановы острова","جزایر کیمن","جزر كايمان","केमन द्वीपसमूह","케이먼 제도","ケイマン諸島","开曼群岛"],
 "admins": [
 ["","admin1","Bodden Town"],
@@ -85,6 +85,14 @@
 [888,7,"PPL","Banksville"],
 [769,-1,"PPL","Foster Land"],
 [533,7,"PPL","Frenchman’s Fort","Frenchman's Fort"],
+[446,7,"PPL","Knob Hill"],
+[446,7,"PPL","West End"],
+[150,-1,"PPL","Piper Way"],
+[97,7,"PPL","Cork Landing"],
+[87,7,"PPL","Head of Bay"],
+[82,7,"PPL","Blossom Point"],
+[82,7,"PPL","South Town"],
+[40,-1,"PPL","Callabash Spot"],
 [0,4,"","Bodden Town"],
 [0,1,"","Cayman Brac"],
 [0,4,"","East End"],

@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"SM","iso3":"SMR","population":34132,"name":"San Marino","slug":"san-marino"},
-"counts": {"countryNames":10,"admins":9,"places":15,"placesWithPopulation":15,"cscStates":9,"cscCities":9,"geonamesPlaces":15,"geonamesAlternateNames":230},
+"counts": {"countryNames":10,"admins":9,"places":24,"placesWithPopulation":17,"cscStates":9,"cscCities":9,"geonamesPlaces":15,"geonamesAlternateNames":230,"geonamesSupplementPlaces":9},
 "names": ["Saint-Marin","San Marino","São Marinho","Сан-Марино","سان مارينو","سان مارینو","सैन मारिनो","산마리노","サンマリノ","圣马力诺"],
 "admins": [
 ["","municipality","Acquaviva"],
@@ -29,6 +29,15 @@
 [1000,8,"PPL","Falciano","Fal'chano","Falcianas","Falčianas","falkyanw","Фальчано","فالکیانو"],
 [951,2,"PPLA","Poggio di Chiesanuova","bwjyw dy kyyzanwfa","Chiesanuova","Ciesanova","Ecclesia Nova","ji ai sa nu ou wa","K'ezanuova","kiesanuoba","Kiezanuova","kiezanuovua","Kjezanuova","kyyzanwwa","kyzanwwa","Podzhio K'ezanuova","Podzho di K'ezanuova","Poggio Chiesanuova","poggiyo di ci'esanu'ova","poji'o di ci'esanu'ova","poji'o di ciyesanu'obha","Puggiu Cresianova","Puggiu Crèsianova","pwjyw dy chyzanwya","qyyzʼnwʼwbh","К'єзануова","Кьезануова"],
 [910,6,"PPLA","Monte Giardino","mante giyardino","meng tai ji a di nuo","Mondesciardine","Mondesciardìne","monite jiyaridino","Mons Viridarium","Monte Dzhardino","monte gi'aradino","monte giyardino","Monteđardino","Montedzardinas","Montedžardinas","Montedzhardino","Montegiardino","Montehdzhardyna","montejaleudino","Montejardin","Montejardino","montejarudino","mwntg'ʼrdynw","mwnth‌jyardynw","mwnty jyardynw","mwntےjardynw","mwnټې jyardynw"],
-[889,8,"PPL","Fiorina"]
+[889,8,"PPL","Fiorina"],
+[200,-1,"PPL","Ventoso"],
+[150,-1,"PPL","Torraccia"],
+[0,1,"PPL","Cà Rigo","Ca Rigo"],
+[0,7,"PPL","Casole"],
+[0,6,"PPL","Cerbaiola"],
+[0,0,"PPL","Gualdicciolo"],
+[0,-1,"PPL","Lesignano"],
+[0,3,"PPL","Piandivello"],
+[0,7,"PPL","Santa Mustiola"]
 ]
 }

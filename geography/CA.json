@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"CA","iso3":"CAN","population":41548787,"name":"Canada","slug":"canada"},
-"counts": {"countryNames":10,"admins":13,"places":3498,"placesWithPopulation":3433,"cscStates":13,"cscCities":1080,"geonamesPlaces":3498,"geonamesAlternateNames":6607},
+"counts": {"countryNames":10,"admins":13,"places":3498,"placesWithPopulation":3433,"cscStates":13,"cscCities":1080,"geonamesPlaces":3498,"geonamesAlternateNames":6607,"geonamesSupplementPlaces":0},
 "names": ["Canada","Canadá","Kanada","Канада","كندا","کانادا","कनाडा","캐나다","カナダ","加拿大"],
 "admins": [
 ["AB","province","Alberta"],

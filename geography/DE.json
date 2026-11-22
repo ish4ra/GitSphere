@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"DE","iso3":"DEU","population":83517030,"name":"Germany","slug":"germany"},
-"counts": {"countryNames":19,"admins":17,"places":12053,"placesWithPopulation":11400,"cscStates":16,"cscCities":7107,"geonamesPlaces":12004,"geonamesAlternateNames":60228},
+"counts": {"countryNames":19,"admins":17,"places":12053,"placesWithPopulation":11400,"cscStates":16,"cscCities":7107,"geonamesPlaces":12004,"geonamesAlternateNames":60228,"geonamesSupplementPlaces":0},
 "names": ["Alamagn","Alemanha","Alemania","Allemagne","Almanya","Deutschland","Duitsland","Germania","Germany","Niemcy","Njemačka","Германия","Німеччина","آلمان","ألمانيا","जर्मनी","독일","ドイツ","德国"],
 "admins": [
 ["BW","land","Baden-Wurttemberg","Baden-Württemberg"],

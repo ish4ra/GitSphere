@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"PT","iso3":"PRT","population":10749635,"name":"Portugal","slug":"portugal"},
-"counts": {"countryNames":12,"admins":21,"places":1624,"placesWithPopulation":1011,"cscStates":20,"cscCities":1296,"geonamesPlaces":1079,"geonamesAlternateNames":2846},
+"counts": {"countryNames":12,"admins":21,"places":1624,"placesWithPopulation":1011,"cscStates":20,"cscCities":1296,"geonamesPlaces":1079,"geonamesAlternateNames":2846,"geonamesSupplementPlaces":0},
 "names": ["Portekiz","Portogallo","Portugal","Portugalia","Португалия","Португалія","البرتغال","پرتغال","पुर्तगाल","포르투갈","ポルトガル","葡萄牙"],
 "admins": [
 ["","autonomous region","Açores"],

@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"IE","iso3":"IRL","population":5458600,"name":"Ireland","slug":"ireland"},
-"counts": {"countryNames":20,"admins":30,"places":586,"placesWithPopulation":560,"cscStates":30,"cscCities":370,"geonamesPlaces":566,"geonamesAlternateNames":4139},
+"counts": {"countryNames":20,"admins":30,"places":586,"placesWithPopulation":560,"cscStates":30,"cscCities":370,"geonamesPlaces":566,"geonamesAlternateNames":4139,"geonamesSupplementPlaces":0},
 "names": ["Eire","Éire","Ierland","Ireland","Irland","Irlanda","İrlanda","Irlande","Irlandia","Irska","Iwerzhon","Republic of Ireland","Ирландия","Ірландія","أيرلندا","ایرلند","आयरलैंड","아일랜드","アイルランド","爱尔兰"],
 "admins": [
 ["CW","county","Carlow"],

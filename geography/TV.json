@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"TV","iso3":"TUV","population":10643,"name":"Tuvalu","slug":"tuvalu"},
-"counts": {"countryNames":8,"admins":9,"places":14,"placesWithPopulation":12,"cscStates":8,"cscCities":9,"geonamesPlaces":12,"geonamesAlternateNames":134},
+"counts": {"countryNames":8,"admins":9,"places":28,"placesWithPopulation":26,"cscStates":8,"cscCities":9,"geonamesPlaces":12,"geonamesAlternateNames":134,"geonamesSupplementPlaces":14},
 "names": ["Tuvalu","Тувалу","توفالو","تووالو","तुवालू","투발루","ツバル","图瓦卢"],
 "admins": [
 ["FUN","town council","Funafuti","Funfuta"],
@@ -23,10 +23,24 @@
 [540,0,"PPLX","Teone Village"],
 [516,0,"PPLX","Vaiaku Village","Vaiaku"],
 [506,8,"PPL","Motufoua School"],
+[439,3,"PPL","Teava Village"],
 [408,5,"PPLA","Tanrake Village","Aldea Tanrake","Aldeia Tanrake","d tnraky kly","Derevnja Tanrake","Desa Tanrake","Dorf Tanrake","Gidan Tanrake","Kˌishlokˌi Tanrake","Kampung Tanrake","Kijiji cha Tanrake","qryt tnraky","rwstay tnrakh","Tanrake","Tanrake ajyly","Tanrake auyly","Tanrake avyly","Tanrake kəndi","Tanrake Koeyue","Tanrake Köyü","Tanrake qishlog'i","Tapotali","Tuula Tanrake","Tuulo Tanrake","Village de Tanrake"],
+[399,0,"PPLX","Lofeagai Village"],
+[343,0,"PPLX","Tekavatoetoe Village"],
+[287,8,"PPL","Tumaseu Village"],
+[281,1,"PPL","Tokelau Village"],
 [258,1,"PPLA","Toga Village","Aldea Toga","Aldeia Toga","d twګa kly","Derevnja Toga","Desa Toga","Dorf Toga","Gidan Toga","Kˌishlokˌi Toga","Kampung Toga","Kijiji cha Toga","qryt twja","rwstay twga","Toga ajyly","Toga auyly","Toga avyly","toga cun","Toga Koeyue","Toga Köyü","Toga qishlog'i","Tonga","Toqa kəndi","Tuula Toga","Tuulo Toga","Village de Toga"],
 [250,8,"PPLA","Asau Village","Aldea Asau","Aldeia Asau","asa'u ganva","asa'u grama","asa'u pida","Asau ajyly","Asau auyly","Asau avyly","asau cun","Asau kəndi","Asau Koeyue","Asau Köyü","Asau qishlog'i","asayw gawں","Derevnja Asau","Desa Asau","Dorf Asau","Gidan Asau","Kˌishlokˌi Asau","Kampung Asau","Kijiji cha Asau","Tuula Asau","Tuulo Asau","Village d'Asau"],
 [224,3,"PPLA","Kulia Village","Aldea Kulia","Aldeia Kulia","d kwlya kly","Derevnja Kulia","Desa Kulia","Dorf Kulia","Gidan Kulia","Kˌishlokˌi Kulia","Kˌұlia auyly","Kampung Kulia","Kijiji cha Kulia","kuli'a pida","Kulia avyly","Kulia Koeyue","Kulia Köyü","Kulia qishlog'i","Kulija ajyly","kuliya ganva","kuliya grama","kuliya menideri","Kulya kəndi","Tuula Kulia","Tuulo Kulia","Village de Kulia"],
+[215,2,"PPL","Lolua Village"],
+[205,7,"PPL","Pepesala Village"],
+[188,7,"PPL","Nukualofa Village"],
+[181,2,"PPL","Hauma Village"],
+[127,5,"PPL","Meang Village"],
+[52,0,"PPL","Amatuku Village"],
+[52,8,"PPL","Temotu Village"],
+[35,3,"PPL","Niulakita"],
+[22,0,"PPL","Funafala Village"],
 [0,4,"","Kulia Village"],
 [0,4,"","Niulakita"]
 ]

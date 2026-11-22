@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"MO","iso3":"MAC","population":685900,"name":"Macao","slug":"macao"},
-"counts": {"countryNames":17,"admins":8,"places":8,"placesWithPopulation":8,"cscStates":0,"cscCities":0,"geonamesPlaces":8,"geonamesAlternateNames":107},
+"counts": {"countryNames":17,"admins":8,"places":9,"placesWithPopulation":9,"cscStates":0,"cscCities":0,"geonamesPlaces":8,"geonamesAlternateNames":107,"geonamesSupplementPlaces":1},
 "names": ["Macao","Macao SAR","Macao SAR China","Macao Special Administrative Region","Macau","Macau S.A.R.","Macau SAR","Makao","Макао С.А.Р.","САР Макао.","ماكاو س.","مکائو","मकाऊ एस.ए.आर.","마카오","マカオ","中国澳门","澳門"],
 "admins": [
 ["","admin1","Cotai"],
@@ -21,6 +21,7 @@
 [24000,2,"PPL","Zhuojiacun","Cheoc Ca Chun","Cheoc Ca Chün","Tcheok-Ka-Tchin","Tcheok-La-Tchin","Ts'ao-chia-ts'un","Ts’ao-chia-ts’un","zhuo jia cun","卓家村"],
 [22125,3,"PPL","Lai Chi Van","li zhi wan","Lizhiwan","Lui-Tchi-Van","Povoacao de Lai Chi Van","Povoação de Lai Chi Van","荔枝碗"],
 [850,3,"PPL","Jiu’ao","jiu ao","Jiu'ao","Ka Ho","Ká Hó","Povoacao de Ka Ho","Povoação de Ká Hó"],
-[300,-1,"PPLA2","Cotai","lao tan cheng","lu dang cheng","老譚成","路氹城"]
+[300,-1,"PPLA2","Cotai","lao tan cheng","lu dang cheng","老譚成","路氹城"],
+[134,-1,"PPL","Heisha"]
 ]
 }

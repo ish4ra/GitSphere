@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"MX","iso3":"MEX","population":130575786,"name":"Mexico","slug":"mexico"},
-"counts": {"countryNames":15,"admins":36,"places":19018,"placesWithPopulation":15618,"cscStates":32,"cscCities":9321,"geonamesPlaces":16873,"geonamesAlternateNames":49659},
+"counts": {"countryNames":15,"admins":36,"places":19018,"placesWithPopulation":15618,"cscStates":32,"cscCities":9321,"geonamesPlaces":16873,"geonamesAlternateNames":49659,"geonamesSupplementPlaces":0},
 "names": ["Meksika","Meksiko","Meksyk","Messico","Mexibr","Mexico","México","Mexique","Мексика","المكسيك","مکزیک","मेक्सिको","멕시코","メキシコ","墨西哥"],
 "admins": [
 ["AGU","state","Aguascalientes"],

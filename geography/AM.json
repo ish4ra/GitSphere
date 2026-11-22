@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"AM","iso3":"ARM","population":3081100,"name":"Armenia","slug":"armenia"},
-"counts": {"countryNames":17,"admins":11,"places":651,"placesWithPopulation":618,"cscStates":11,"cscCities":308,"geonamesPlaces":625,"geonamesAlternateNames":7506},
+"counts": {"countryNames":17,"admins":11,"places":651,"placesWithPopulation":618,"cscStates":11,"cscCities":308,"geonamesPlaces":625,"geonamesAlternateNames":7506,"geonamesSupplementPlaces":0},
 "names": ["Armenia","Arménia","Armênia","Armenië","Arménie","Armenien","Armenija","Ermenistan","Армения","Вірменія","Հայաստան","أرمينيا","ارمنستان","आर्मीनिया","아르메니아","アルメニア","亚美尼亚"],
 "admins": [
 ["AG","region","Aragatsotn","Արագածոտն"],

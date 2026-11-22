@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"SH","iso3":"SHN","population":5651,"name":"St. Helena","slug":"st-helena"},
-"counts": {"countryNames":18,"admins":11,"places":6,"placesWithPopulation":6,"cscStates":8,"cscCities":0,"geonamesPlaces":6,"geonamesAlternateNames":77},
+"counts": {"countryNames":18,"admins":11,"places":20,"placesWithPopulation":15,"cscStates":8,"cscCities":0,"geonamesPlaces":6,"geonamesAlternateNames":77,"geonamesSupplementPlaces":14},
 "names": ["Saint Helena","Saint Helena, Ascension ha Tristan da Cunha","Sainte-Hélène","Sankt Helena","Sant'Elena","Santa Helena","Sint-Helena","St. Helena","Sveta Helena","Święta Helena","Свята Єлена","Святая Елена","سانت هيلانة","سنت هلنا، اسنشن و تریستان دا کونا","सेंट हेलेना","세인트헬레나","セントヘレナ・アセンションおよびトリスタンダクーニャ","圣赫勒拿"],
 "admins": [
 ["","district","Alarm Forest"],
@@ -22,6 +22,20 @@
 [1034,7,"PPL","Half Tree Hollow"],
 [928,7,"PPL","St. Paul's"],
 [765,7,"PPL","Longwood"],
-[637,7,"PPLC","Jamestown","cems thawn","Ceymstaun","Dzeimstauna","Džeimstauna","Dzeimstaunas","Džeimstaunas","Dzejmstaun","Dzhehjmstaun","Dzhejmstaun","Iacobopolis","Jamestauno","Ĵamestaŭno","jeimseutaun","jemsata'una","jemstavun","jemuzutaun","jyms tawn","jymz ٹawn synٹ ہlyna","jymztawn synt hlyna","Tzeimstaoun","zhan mu si dui","Zhejmstaun","Τζέιμσταουν","Џејмстаун"]
+[637,7,"PPLC","Jamestown","cems thawn","Ceymstaun","Dzeimstauna","Džeimstauna","Dzeimstaunas","Džeimstaunas","Dzejmstaun","Dzhehjmstaun","Dzhejmstaun","Iacobopolis","Jamestauno","Ĵamestaŭno","jeimseutaun","jemsata'una","jemstavun","jemuzutaun","jyms tawn","jymz ٹawn synٹ ہlyna","jymztawn synt hlyna","Tzeimstaoun","zhan mu si dui","Zhejmstaun","Τζέιμσταουν","Џејмстаун"],
+[394,7,"PPL","Alarm Forest"],
+[342,7,"PPL","Levelwood"],
+[210,1,"PPL","Cat Hill US Military Base"],
+[177,7,"PPL","Sandy Bay"],
+[174,7,"PPL","Blue Hill"],
+[170,1,"PPL","Traveller's Hill Royal Air Force Base"],
+[110,1,"PPL","Thornton"],
+[110,1,"PPL","Two Boats Village"],
+[44,1,"PPL","The Residency"],
+[0,7,"PPL","Barren Ground"],
+[0,7,"PPL","Deadwood"],
+[0,7,"PPL","Hutts Gate"],
+[0,7,"PPL","New Ground"],
+[0,7,"PPL","Taglate"]
 ]
 }

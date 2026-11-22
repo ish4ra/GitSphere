@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"CI","iso3":"CIV","population":29389150,"name":"Côte d'Ivoire","slug":"cote-d-ivoire"},
-"counts": {"countryNames":20,"admins":14,"places":5118,"placesWithPopulation":5086,"cscStates":14,"cscCities":95,"geonamesPlaces":5136,"geonamesAlternateNames":7174},
+"counts": {"countryNames":20,"admins":14,"places":5118,"placesWithPopulation":5086,"cscStates":14,"cscCities":95,"geonamesPlaces":5136,"geonamesAlternateNames":7174,"geonamesSupplementPlaces":0},
 "names": ["Aod an Olifant","Costa D'Avorio","Costa de Marfil","Costa do Marfim","Cote D'Ivoire","Côte d'Ivoire","Cote D'Ivoire (Wybrzeże Kości Słoniowej)","Elfenbeinküste","Ivoorkust","Ivory Coast","Kotdivuar","Obala Bjelokosti","Кот-д'Ивуар (Берег Слоновой Кости)","Кот-д'Івуар (Берег Слонової Кістки)","ساحل عاج","كوت ديفوار (ساحل العاج)","कोटे डी इवोइरे (आइवरी कोस्ट)","코트디부아르","コートジボワール","科特迪瓦"],
 "admins": [
 ["AB","autonomous district","Abidjan","Abidjan Autonomous District"],

@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"HN","iso3":"HND","population":9892632,"name":"Honduras","slug":"honduras"},
-"counts": {"countryNames":7,"admins":18,"places":621,"placesWithPopulation":537,"cscStates":18,"cscCities":545,"geonamesPlaces":544,"geonamesAlternateNames":1029},
+"counts": {"countryNames":7,"admins":18,"places":621,"placesWithPopulation":537,"cscStates":18,"cscCities":545,"geonamesPlaces":544,"geonamesAlternateNames":1029,"geonamesSupplementPlaces":0},
 "names": ["Honduras","Гондурас","هندوراس","होंडुरस","온두라스","ホンジュラス","洪都拉斯"],
 "admins": [
 ["AT","department","Atlántida","Atlantida Department","Atlántida Department"],

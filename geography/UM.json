@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"UM","iso3":"UMI","population":0,"name":"U.S. Outlying Islands","slug":"u-s-outlying-islands"},
-"counts": {"countryNames":20,"admins":9,"places":0,"placesWithPopulation":0,"cscStates":9,"cscCities":0,"geonamesPlaces":0,"geonamesAlternateNames":0},
+"counts": {"countryNames":20,"admins":9,"places":7,"placesWithPopulation":4,"cscStates":9,"cscCities":0,"geonamesPlaces":0,"geonamesAlternateNames":0,"geonamesSupplementPlaces":7},
 "names": ["Abd Küçük Harici Adalari","Îles mineures éloignées des États-Unis","Ilhas Menores Distantes dos Estados Unidos","Inizi Minor A-bell Stadoù-Unanet","Islas Ultramarinas Menores de Estados Unidos","Isole minori esterne degli Stati Uniti d'America","Kleine afgelegen eilanden van de Verenigde Staten","Kleinere Inselbesitzungen der Vereinigten Staaten","Mali udaljeni otoci SAD-a","Mniejsze Wyspy Zewnętrzne Stanów Zjednoczonych","U.S. Outlying Islands","United States Minor Outlying Islands","Малі віддалені острови Сполучених Штатів","Малые отдаленные острова Соединенных Штатов","الولايات المتحدة الجزر البعيدة الصغرى","جزایر کوچک حاشیه‌ای ایالات متحده آمریکا","यूनाइटेड स्टेट्स माइनर आउटिंग आइलैंड्स","미국령 군소 제도","合衆国領有小離島","美国本土外小岛屿"],
 "admins": [
 ["","island","Baker Island"],
@@ -15,6 +15,12 @@
 ["","island","Wake Island"]
 ],
 "places": [
-
+[100,8,"PPL","Wake"],
+[60,5,"PPL","Midway"],
+[20,7,"PPL","Palmyra"],
+[10,3,"PPL","Johnston"],
+[0,1,"PPL","Itascatown pre-WW2"],
+[0,4,"PPL","Kingman"],
+[0,6,"PPL","Navassa II"]
 ]
 }

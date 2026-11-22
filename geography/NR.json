@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"NR","iso3":"NRU","population":11680,"name":"Nauru","slug":"nauru"},
-"counts": {"countryNames":8,"admins":14,"places":15,"placesWithPopulation":15,"cscStates":14,"cscCities":7,"geonamesPlaces":15,"geonamesAlternateNames":136},
+"counts": {"countryNames":8,"admins":14,"places":15,"placesWithPopulation":15,"cscStates":14,"cscCities":7,"geonamesPlaces":15,"geonamesAlternateNames":136,"geonamesSupplementPlaces":0},
 "names": ["Nauru","Науру","نائورو","ناورو","नाउरू","나우루","ナウル","瑙鲁"],
 "admins": [
 ["","district","Aiwo","Aiwo District","Theirs"],

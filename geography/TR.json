@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"TR","iso3":"TUR","population":85664944,"name":"Türkiye","slug":"turkiye"},
-"counts": {"countryNames":20,"admins":85,"places":4381,"placesWithPopulation":3607,"cscStates":81,"cscCities":980,"geonamesPlaces":4333,"geonamesAlternateNames":21021},
+"counts": {"countryNames":20,"admins":85,"places":4381,"placesWithPopulation":3607,"cscStates":81,"cscCities":980,"geonamesPlaces":4333,"geonamesAlternateNames":21021,"geonamesSupplementPlaces":0},
 "names": ["Turchia","Turcja","Türkei","Turkey","Turkia","Turkije","Turkiye","Türkiye","Turquia","Turquía","Turquie","Turska","Туреччина","Турция","ترکیه","ديك رومى","टर्की","터키","トルコ","土耳其"],
 "admins": [
 ["","province","Adana"],

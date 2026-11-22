@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"NZ","iso3":"NZL","population":5324700,"name":"New Zealand","slug":"new-zealand"},
-"counts": {"countryNames":19,"admins":17,"places":749,"placesWithPopulation":729,"cscStates":17,"cscCities":160,"geonamesPlaces":732,"geonamesAlternateNames":1364},
+"counts": {"countryNames":19,"admins":17,"places":749,"placesWithPopulation":729,"cscStates":17,"cscCities":160,"geonamesPlaces":732,"geonamesAlternateNames":1364,"geonamesSupplementPlaces":0},
 "names": ["Neuseeland","New Zealand","Nieuw-Zeeland","Nouvelle-Zélande","Nova Zelândia","Novi Zeland","Nowa Zelandia","Nueva Zelanda","Nuova Zelanda","Yeni Zelanda","Zeland-Nevez","Нова Зеландія","Новая Зеландия","نيوزيلندا","نیوزیلند","न्यूज़ीलैंड","뉴질랜드","ニュージーランド","新西兰"],
 "admins": [
 ["AUK","region","Auckland"],

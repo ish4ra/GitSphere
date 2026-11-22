@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"PE","iso3":"PER","population":34350244,"name":"Peru","slug":"peru"},
-"counts": {"countryNames":12,"admins":27,"places":2481,"placesWithPopulation":1614,"cscStates":26,"cscCities":485,"geonamesPlaces":2296,"geonamesAlternateNames":3179},
+"counts": {"countryNames":12,"admins":27,"places":2481,"placesWithPopulation":1614,"cscStates":26,"cscCities":485,"geonamesPlaces":2296,"geonamesAlternateNames":3179,"geonamesSupplementPlaces":0},
 "names": ["Perou","Pérou","Peru","Perú","Perù","Перу","بيرو","پرو","पेरू","페루","ペルー","秘鲁"],
 "admins": [
 ["AMA","region","Amazonas"],

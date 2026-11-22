@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"ZA","iso3":"ZAF","population":63100945,"name":"South Africa","slug":"south-africa"},
-"counts": {"countryNames":19,"admins":9,"places":1055,"placesWithPopulation":966,"cscStates":9,"cscCities":314,"geonamesPlaces":994,"geonamesAlternateNames":2262},
+"counts": {"countryNames":19,"admins":9,"places":1055,"placesWithPopulation":966,"cscStates":9,"cscCities":314,"geonamesPlaces":994,"geonamesAlternateNames":2262,"geonamesSupplementPlaces":0},
 "names": ["Afrique du Sud","Güney Afrika Cumhuriyeti","Južnoafrička Republika","República de Sudáfrica","República Sul-Africana","Republik Südafrika","Republika Południowej Afryki","South Africa","Suafrika","Sud Africa","Zuid-Afrika","Південна Африка","Южная Африка","آفریقای جنوبی","جنوب أفريقيا","दक्षिण अफ्रीका","남아프리카 공화국","南アフリカ","南非"],
 "admins": [
 ["EC","province","Eastern Cape"],

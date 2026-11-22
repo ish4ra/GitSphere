@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"SK","iso3":"SVK","population":5413813,"name":"Slovakia","slug":"slovakia"},
-"counts": {"countryNames":19,"admins":8,"places":937,"placesWithPopulation":857,"cscStates":8,"cscCities":233,"geonamesPlaces":859,"geonamesAlternateNames":4299},
+"counts": {"countryNames":19,"admins":8,"places":937,"placesWithPopulation":857,"cscStates":8,"cscCities":233,"geonamesPlaces":859,"geonamesAlternateNames":4299,"geonamesSupplementPlaces":0},
 "names": ["Eslováquia","República Eslovaca","Slovacchia","Slovačka","Slovakia","Slovakya","Slovaquie","Slovensko","Słowacja","Slowakei","Slowakije","Словакия","Словаччина","اسلواکی","سلوفاكيا","स्लोवाकिया","슬로바키아","スロバキア","斯洛伐克"],
 "admins": [
 ["BC","region","Banská Bystrica","Banska Bystrica Region","Banská Bystrica Region"],

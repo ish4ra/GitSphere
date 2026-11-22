@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"HU","iso3":"HUN","population":9539502,"name":"Hungary","slug":"hungary"},
-"counts": {"countryNames":20,"admins":42,"places":1442,"placesWithPopulation":1241,"cscStates":43,"cscCities":1074,"geonamesPlaces":1241,"geonamesAlternateNames":4632},
+"counts": {"countryNames":20,"admins":42,"places":1442,"placesWithPopulation":1241,"cscStates":43,"cscCities":1074,"geonamesPlaces":1241,"geonamesAlternateNames":4632,"geonamesSupplementPlaces":0},
 "names": ["Hongarije","Hongrie","Hungaria","Hungary","Hungria","Hungría","Macaristan","Mađarska","Magyarország","Ungarn","Ungheria","Węgry","Венгрия","Угорщина","مجارستان","هنغاريا","हंगरी","헝가리","ハンガリー","匈牙利"],
 "admins": [
 ["BK","county","Bacs-Kiskun","Bács-Kiskun"],

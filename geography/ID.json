@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"ID","iso3":"IDN","population":284438782,"name":"Indonesia","slug":"indonesia"},
-"counts": {"countryNames":17,"admins":71,"places":9069,"placesWithPopulation":519,"cscStates":45,"cscCities":799,"geonamesPlaces":9310,"geonamesAlternateNames":14218},
+"counts": {"countryNames":17,"admins":71,"places":9069,"placesWithPopulation":519,"cscStates":45,"cscCities":799,"geonamesPlaces":9310,"geonamesAlternateNames":14218,"geonamesSupplementPlaces":0},
 "names": ["Endonezya","Indonesia","Indonésia","Indonesië","Indonésie","Indonesien","Indonezia","Indonezija","Indonezja","Индонезия","Індонезія","أندونيسيا","اندونزی","इंडोनेशिया","인도네시아","インドネシア","印度尼西亚"],
 "admins": [
 ["AC","province","Aceh"],

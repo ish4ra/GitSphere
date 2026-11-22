@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"AT","iso3":"AUT","population":9200931,"name":"Austria","slug":"austria"},
-"counts": {"countryNames":16,"admins":9,"places":3157,"placesWithPopulation":2946,"cscStates":9,"cscCities":2360,"geonamesPlaces":3044,"geonamesAlternateNames":8437},
+"counts": {"countryNames":16,"admins":9,"places":3157,"placesWithPopulation":2946,"cscStates":9,"cscCities":2360,"geonamesPlaces":3044,"geonamesAlternateNames":8437,"geonamesSupplementPlaces":0},
 "names": ["Aostria","Austria","áustria","Austrija","Autriche","Avusturya","Oostenrijk","Österreich","Австрия","Австрія","اتریش","النمسا","ऑस्ट्रिया","오스트리아","オーストリア","奥地利"],
 "admins": [
 ["","state","Burgenland"],

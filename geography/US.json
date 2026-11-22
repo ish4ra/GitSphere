@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"US","iso3":"USA","population":340110988,"name":"United States","slug":"united-states"},
-"counts": {"countryNames":23,"admins":60,"places":21784,"placesWithPopulation":21444,"cscStates":60,"cscCities":16707,"geonamesPlaces":21788,"geonamesAlternateNames":203499},
+"counts": {"countryNames":23,"admins":60,"places":21784,"placesWithPopulation":21444,"cscStates":60,"cscCities":16707,"geonamesPlaces":21788,"geonamesAlternateNames":203499,"geonamesSupplementPlaces":0},
 "names": ["Amerika","Estados Unidos","États-Unis","Sjedinjene Američke Države","Stadoù-Unanet","Stany Zjednoczone","Stati Uniti D'America","U.S.","U.S.A.","United States","United States of America","United States of America (USA)","USA","Vereinigte Staaten von Amerika","Verenigde Staten","Соединенные Штаты","Сполучені Штати","الولايات المتحدة","ایالات متحده آمریکا","संयुक्त राज्य अमेरिका","미국","アメリカ合衆国","美国"],
 "admins": [
 ["AL","state","Alabama"],

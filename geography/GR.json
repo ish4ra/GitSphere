@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"GR","iso3":"GRC","population":10400720,"name":"Greece","slug":"greece"},
-"counts": {"countryNames":19,"admins":16,"places":2124,"placesWithPopulation":1933,"cscStates":15,"cscCities":1103,"geonamesPlaces":1986,"geonamesAlternateNames":16093},
+"counts": {"countryNames":19,"admins":16,"places":2124,"placesWithPopulation":1933,"cscStates":15,"cscCities":1103,"geonamesPlaces":1986,"geonamesAlternateNames":16093,"geonamesSupplementPlaces":0},
 "names": ["Grčka","Grèce","Grecia","Grécia","Grecja","Greece","Gres","Griechenland","Griekenland","Yunanistan","Ελλάδα","Греция","Греція","اليونان","یونان","ग्रीस","그리스","ギリシャ","希腊"],
 "admins": [
 ["","regional unit","Achaea","Αχαΐα"],

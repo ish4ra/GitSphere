@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"FI","iso3":"FIN","population":5645651,"name":"Finland","slug":"finland"},
-"counts": {"countryNames":16,"admins":25,"places":1113,"placesWithPopulation":906,"cscStates":18,"cscCities":437,"geonamesPlaces":929,"geonamesAlternateNames":4543},
+"counts": {"countryNames":16,"admins":25,"places":1113,"placesWithPopulation":906,"cscStates":18,"cscCities":437,"geonamesPlaces":929,"geonamesAlternateNames":4543,"geonamesSupplementPlaces":0},
 "names": ["Finland","Finlande","Finlandia","Finlândia","Finlandiya","Finnland","Finska","Suomi","Финляндия","Фінляндія","فنلاند","فنلندا","फिनलैंड","핀란드","フィンランド","芬兰"],
 "admins": [
 ["","region","Central Finland","Suomen keskus"],

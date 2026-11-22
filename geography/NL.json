@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"NL","iso3":"NLD","population":18080943,"name":"Netherlands","slug":"netherlands"},
-"counts": {"countryNames":22,"admins":12,"places":2254,"placesWithPopulation":2089,"cscStates":12,"cscCities":1644,"geonamesPlaces":2098,"geonamesAlternateNames":5265},
+"counts": {"countryNames":22,"admins":12,"places":2254,"placesWithPopulation":2089,"cscStates":12,"cscCities":1644,"geonamesPlaces":2098,"geonamesAlternateNames":5265,"geonamesSupplementPlaces":0},
 "names": ["Holanda","Holandia","Holland","Hollanda","Izelvroioù","Nederland","Netherlands","Niederlande","Nizozemska","Paesi Bassi","Países Baixos","Países Bajos","Pays-Bas","The Netherlands","Нидерланды","Нідерланди","پادشاهی هلند","هولندا","नीदरलैंड","네덜란드","オランダ","荷兰"],
 "admins": [
 ["DR","province","Drenthe"],

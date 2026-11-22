@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"PA","iso3":"PAN","population":4064780,"name":"Panama","slug":"panama"},
-"counts": {"countryNames":9,"admins":17,"places":908,"placesWithPopulation":677,"cscStates":14,"cscCities":551,"geonamesPlaces":801,"geonamesAlternateNames":1849},
+"counts": {"countryNames":9,"admins":17,"places":908,"placesWithPopulation":677,"cscStates":14,"cscCities":551,"geonamesPlaces":801,"geonamesAlternateNames":1849,"geonamesSupplementPlaces":0},
 "names": ["Panama","Panamá","Панама","بنما","پاناما","पनामा","파나마","パナマ","巴拿马"],
 "admins": [
 ["","province","Bocas del Toro","Bocas del Toro Province"],

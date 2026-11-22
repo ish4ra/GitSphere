@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"MY","iso3":"MYS","population":34231700,"name":"Malaysia","slug":"malaysia"},
-"counts": {"countryNames":17,"admins":16,"places":785,"placesWithPopulation":737,"cscStates":16,"cscCities":223,"geonamesPlaces":740,"geonamesAlternateNames":3011},
+"counts": {"countryNames":17,"admins":16,"places":785,"placesWithPopulation":737,"cscStates":16,"cscCities":223,"geonamesPlaces":740,"geonamesAlternateNames":3011,"geonamesSupplementPlaces":0},
 "names": ["Malaisie","Malasia","Malásia","Malaysia","Maleisië","Malesia","Malezija","Malezja","Malezya","Малайзия","Малайзія","مالزی","ماليزيا","मलेशिया","말레이시아","マレーシア","马来西亚"],
 "admins": [
 ["","state","Johor"],

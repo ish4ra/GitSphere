@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"PM","iso3":"SPM","population":5819,"name":"St. Pierre & Miquelon","slug":"st-pierre-miquelon"},
-"counts": {"countryNames":20,"admins":3,"places":4,"placesWithPopulation":2,"cscStates":1,"cscCities":2,"geonamesPlaces":2,"geonamesAlternateNames":28},
+"counts": {"countryNames":20,"admins":3,"places":15,"placesWithPopulation":13,"cscStates":1,"cscCities":2,"geonamesPlaces":2,"geonamesAlternateNames":28,"geonamesSupplementPlaces":11},
 "names": ["Saint Pierre and Miquelon","Saint Pierre en Miquelon","Saint Pierre Ve Miquelon","Saint-Pierre e Miquelon","Saint-Pierre i Miquelon","Saint-Pierre und Miquelon","Saint-Pierre-et-Miquelon","San Pedro y Miquelón","Sant-Pêr-ha-Mikelon","São Pedro e Miquelon","St. Pierre & Miquelon","Sveti Petar i Mikelon","Сен-П'єр і Мікелон","Сен-Пьер и Микелон","القديس بيير وميكلون","سن پیر و میکلن","सेंट पियरे और मिकेलोन","생피에르 미클롱","サンピエール島・ミクロン島","圣皮埃尔和密克隆"],
 "admins": [
 ["","admin1","Miquelon-Langlade"],
@@ -11,6 +11,17 @@
 "places": [
 [6200,1,"PPLC","Saint-Pierre","sæng pi yær","saengpieleu","Saint Pierre","St Pierre","แซงปีแยร์","생피에르"],
 [1141,0,"PPLA","Miquelon","mikelana","Mikelon","mikelona","mikuron","miqeloni","Miquelao","Miquelão","Miquelón","myklwn","mykwlwn","mykylwn","Микелон","ميكيلون","میکلون","میکولون","ሚቀሎን","मिकेलॉन","মিকেলন","ਮਿਕੇਲਨ","ミクロン"],
+[102,-1,"PPLF","La Ferme du Ruisseau Debons"],
+[102,0,"PPL","Le Ruisseau Debons"],
+[100,0,"PPL","Petit Barachois"],
+[95,-1,"PPL","La Croix"],
+[77,-1,"PPLF","La Ferme Olivier"],
+[76,-1,"PPLF","Ferme de Mirande"],
+[76,0,"PPL","Village de l'Anse du Gouvernement"],
+[69,-1,"PPLF","La Ferme de la Pointe au Cheval"],
+[42,-1,"PPL","Le Sprus"],
+[35,-1,"PPL","Le Palmier"],
+[30,-1,"PPLF","La Ferme Larranaga"],
 [0,2,"","Miquelon-Langlade"],
 [0,2,"","Saint-Pierre"]
 ]

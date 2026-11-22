@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"RU","iso3":"RUS","population":146028325,"name":"Russia","slug":"russia"},
-"counts": {"countryNames":18,"admins":101,"places":7261,"placesWithPopulation":5141,"cscStates":83,"cscCities":5523,"geonamesPlaces":5324,"geonamesAlternateNames":41287},
+"counts": {"countryNames":18,"admins":101,"places":7261,"placesWithPopulation":5141,"cscStates":83,"cscCities":5523,"geonamesPlaces":5324,"geonamesAlternateNames":41287,"geonamesSupplementPlaces":0},
 "names": ["Rosja","Rusia","Rusija","Rusland","Russia","Rússia","Russian Federation","Russie","Russland","Rusya","Росія","Россия","روسيا","روسیه","रूस","러시아","ロシア連邦","俄罗斯联邦"],
 "admins": [
 ["AD","republic","Adygea","Адыгея"],

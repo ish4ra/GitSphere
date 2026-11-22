@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"HR","iso3":"HRV","population":3866233,"name":"Croatia","slug":"croatia"},
-"counts": {"countryNames":19,"admins":22,"places":1417,"placesWithPopulation":1209,"cscStates":20,"cscCities":663,"geonamesPlaces":1215,"geonamesAlternateNames":4864},
+"counts": {"countryNames":19,"admins":22,"places":1417,"placesWithPopulation":1209,"cscStates":20,"cscCities":663,"geonamesPlaces":1215,"geonamesAlternateNames":4864,"geonamesSupplementPlaces":0},
 "names": ["Chorwacja","Croacia","Croácia","Croatia","Croatie","Croazia","Hirvatistan","Hrvatska","Kroatia","Kroatië","Kroatien","Хорватия","Хорватія","كرواتيا","کرواسی","क्रोएशिया","크로아티아","クロアチア","克罗地亚"],
 "admins": [
 ["","county","Bjelovar-Bilogora"],

@@ -1,12 +1,14 @@
 {
 "schemaVersion": 2,
 "country": {"code":"GS","iso3":"SGS","population":0,"name":"South Georgia & South Sandwich Islands","slug":"south-georgia-south-sandwich-islands"},
-"counts": {"countryNames":21,"admins":0,"places":1,"placesWithPopulation":1,"cscStates":0,"cscCities":0,"geonamesPlaces":1,"geonamesAlternateNames":22},
+"counts": {"countryNames":21,"admins":0,"places":3,"placesWithPopulation":3,"cscStates":0,"cscCities":0,"geonamesPlaces":1,"geonamesAlternateNames":22,"geonamesSupplementPlaces":2},
 "names": ["Georgia ar Su hag Inizi Sandwich ar Su","Georgia del Sud e Isole Sandwich Meridionali","Géorgie du Sud-et-les Îles Sandwich du Sud","Güney Georgia","Ilhas Geórgia do Sul e Sanduíche do Sul","Ilhas Geórgias do Sul e Sandwich do Sul","Islas Georgias del Sur y Sandwich del Sur","Južna Georgija i otočje Južni Sandwich","Południowa Georgia","South Georgia","South Georgia & South Sandwich Islands","Südgeorgien und die Südlichen Sandwichinseln","Zuid-Georgia en Zuidelijke Sandwicheilanden","Південна Джорджія","Южная Джорджия","جزایر جورجیای جنوبی و ساندویچ جنوبی","جنوب جورجيا","दक्षिण जॉर्जिया","사우스조지아","サウスジョージア・サウスサンドウィッチ諸島","南乔治亚"],
 "admins": [
 
 ],
 "places": [
+[22,-1,"PPL","King Edward Point"],
+[10,-1,"PPL","Bird Research Station"],
 [2,-1,"PPLC","Grytviken","geuliteubiken","gritavikena","Gritviken","Griutvikenas","Grjutviken","Grutviken","grytwwyqn","gu li de wei ken","guritobiken","krit wi khen","Qryotviken","Грутвикен","Грутвікен","Грютвикен","Грютвікен","גריטוויקן","ग्रिटविकेन","กริตวีเคน","그리트비켄","グリトビケン","古利德維肯"]
 ]
 }

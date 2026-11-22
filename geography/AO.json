@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"AO","iso3":"AGO","population":36170961,"name":"Angola","slug":"angola"},
-"counts": {"countryNames":8,"admins":24,"places":571,"placesWithPopulation":181,"cscStates":18,"cscCities":72,"geonamesPlaces":565,"geonamesAlternateNames":2160},
+"counts": {"countryNames":8,"admins":24,"places":571,"placesWithPopulation":181,"cscStates":18,"cscCities":72,"geonamesPlaces":565,"geonamesAlternateNames":2160,"geonamesSupplementPlaces":0},
 "names": ["Angola","Ангола","آنگولا","أنغولا","अंगोला","앙골라","アンゴラ","安哥拉"],
 "admins": [
 ["BGO","province","Bengo","Porta-malas"],

@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"AR","iso3":"ARG","population":46735004,"name":"Argentina","slug":"argentina"},
-"counts": {"countryNames":14,"admins":24,"places":1536,"placesWithPopulation":1114,"cscStates":24,"cscCities":1136,"geonamesPlaces":1205,"geonamesAlternateNames":12466},
+"counts": {"countryNames":14,"admins":24,"places":1536,"placesWithPopulation":1114,"cscStates":24,"cscCities":1136,"geonamesPlaces":1205,"geonamesAlternateNames":12466,"geonamesSupplementPlaces":0},
 "names": ["Arc'hantina","Argentina","Argentine","Argentinië","Argentinien","Argentyna","Arjantin","Аргентина","آرژانتین","الأرجنتين","अर्जेंटीना","아르헨티나","アルゼンチン","阿根廷"],
 "admins": [
 ["C","city","Autonomous City of Buenos Aires","Buenos Aires","Ciudad autónoma de Buenos Aires"],

@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"JP","iso3":"JPN","population":123300000,"name":"Japan","slug":"japan"},
-"counts": {"countryNames":14,"admins":47,"places":3032,"placesWithPopulation":2119,"cscStates":47,"cscCities":1655,"geonamesPlaces":2190,"geonamesAlternateNames":16371},
+"counts": {"countryNames":14,"admins":47,"places":3032,"placesWithPopulation":2119,"cscStates":47,"cscCities":1655,"geonamesPlaces":2190,"geonamesAlternateNames":16371,"geonamesSupplementPlaces":0},
 "names": ["Giappone","Japan","Japão","Japon","Japón","Japonia","Japonya","Япония","Японія","اليابان","ژاپن","जापान","일본","日本"],
 "admins": [
 ["","prefecture","Aichi","愛知"],

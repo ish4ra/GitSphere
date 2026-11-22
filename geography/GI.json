@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"GI","iso3":"GIB","population":38000,"name":"Gibraltar","slug":"gibraltar"},
-"counts": {"countryNames":12,"admins":0,"places":7,"placesWithPopulation":7,"cscStates":0,"cscCities":0,"geonamesPlaces":7,"geonamesAlternateNames":35},
+"counts": {"countryNames":12,"admins":0,"places":10,"placesWithPopulation":7,"cscStates":0,"cscCities":0,"geonamesPlaces":7,"geonamesAlternateNames":35,"geonamesSupplementPlaces":3},
 "names": ["Cebelitarik","Gibilterra","Gibraltar","Jibraltar","Гибралтар","Гібралтар","جبل طارق","جبل‌طارق","जिब्राल्टर","지브롤터","ジブラルタル","直布罗陀"],
 "admins": [
 
@@ -13,6 +13,9 @@
 [3238,-1,"PPLX","Town Area"],
 [2483,-1,"PPLX","Upper Town"],
 [2020,-1,"PPLX","Sandpits"],
-[526,-1,"PPL","Catalan Bay","Caleta","Catalan","Catalan Bay Village","East Side"]
+[526,-1,"PPL","Catalan Bay","Caleta","Catalan","Catalan Bay Village","East Side"],
+[0,-1,"PPLX","Laguna Estate"],
+[0,-1,"PPLX","Rosia"],
+[0,-1,"PPLX","Waterport"]
 ]
 }

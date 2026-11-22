@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"TK","iso3":"TKL","population":1647,"name":"Tokelau","slug":"tokelau"},
-"counts": {"countryNames":11,"admins":3,"places":3,"placesWithPopulation":3,"cscStates":0,"cscCities":0,"geonamesPlaces":3,"geonamesAlternateNames":63},
+"counts": {"countryNames":11,"admins":3,"places":5,"placesWithPopulation":3,"cscStates":0,"cscCities":0,"geonamesPlaces":3,"geonamesAlternateNames":63,"geonamesSupplementPlaces":2},
 "names": ["Islas Tokelau","Isole Tokelau","Tokelau","Toquelau","Токелау","توكيلاو","توکلائو","टोकेलाऊ","토켈라우","トケラウ","托克劳"],
 "admins": [
 ["","admin1","Atafu"],
@@ -11,6 +11,8 @@
 "places": [
 [531,2,"PPLA","Nukunonu","Nukunomu","nukunonu","Nukunonu Village","nwkwnwnw","Нукуному","نوكونونو","نوکونونو","ኑኩኖኑ","नुकुनोनु","নুকুনোনু","ਨੁਕੁਨੋਨੁ","ヌクノヌ"],
 [524,0,"PPLA","Atafu Village","Aldeia de Atafu","Atafu","Atafu ajyly","Atafu auyly","Atafu avyly","atafu cun","Atafu gida","Atafu kəndi","Atafu Koeyue","Atafu Köyü","Atafu qishlog'i","Atafu авылы","atafw gawں","ataphu gamva","Dekhai Atafu","Derevnja Atafu","Desa Atafu","Dorf Atafu","Duke of York Group","Kampung Atafu","Kijiji cha Atafu","Pueblo de Atafu","Tuulo Atafu","Village d'Atafu"],
-[120,1,"PPLA","Fale old settlement","Abadii kuҳnai Fale","Alte Siedlung Fale","Ancien etablissement de Fale","Ancien établissement de Fale","Antigo assentamento de Fale","Antiguo asentamiento de Fale","Fakaofu Village","Fale","Fale ehski zhajgashuusu","Fale eski auyly","Fale eski yerlesimi","Fale eski yerleşimi","Fale iskə jasaulygy","Fale koehnə yasayis yeri","Fale köhnə yaşayış yeri","Fale qadimgi jamoasi","Magalada hore ee Fale","Makazi ya zamani ya Fale","Pemukiman lama Fale","Pemukiman lawas Fale","Permukiman lama Fale","Staroe poselenie Fale","Tsohon gidaje Fale","Yeroo durii jidhaala Fale"]
+[120,1,"PPLA","Fale old settlement","Abadii kuҳnai Fale","Alte Siedlung Fale","Ancien etablissement de Fale","Ancien établissement de Fale","Antigo assentamento de Fale","Antiguo asentamiento de Fale","Fakaofu Village","Fale","Fale ehski zhajgashuusu","Fale eski auyly","Fale eski yerlesimi","Fale eski yerleşimi","Fale iskə jasaulygy","Fale koehnə yasayis yeri","Fale köhnə yaşayış yeri","Fale qadimgi jamoasi","Magalada hore ee Fale","Makazi ya zamani ya Fale","Pemukiman lama Fale","Pemukiman lawas Fale","Permukiman lama Fale","Staroe poselenie Fale","Tsohon gidaje Fale","Yeroo durii jidhaala Fale"],
+[0,1,"PPLX","Fenua Fala New Settlement"],
+[0,2,"PPLX","Motuhaga"]
 ]
 }

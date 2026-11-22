@@ -1,12 +1,17 @@
 {
 "schemaVersion": 2,
 "country": {"code":"CX","iso3":"CXR","population":1692,"name":"Christmas Island","slug":"christmas-island"},
-"counts": {"countryNames":20,"admins":0,"places":1,"placesWithPopulation":1,"cscStates":0,"cscCities":0,"geonamesPlaces":1,"geonamesAlternateNames":25},
+"counts": {"countryNames":20,"admins":0,"places":6,"placesWithPopulation":1,"cscStates":0,"cscCities":0,"geonamesPlaces":1,"geonamesAlternateNames":25,"geonamesSupplementPlaces":5},
 "names": ["Božićni otok","Christmas Adasi","Christmas Island","Christmaseiland","Enez Christmas","Île Christmas","Ilha Christmas","Ilha do Natal","Isla de Navidad","Isola di Natale","Weihnachtsinsel","Wyspa Bożego Narodzenia","Острів Різдва","Остров Рождества","جزيرة عيد الميلاد","جزیره کریسمس","क्रिसमस आइलैंड","크리스마스 섬","クリスマス島","圣诞岛"],
 "admins": [
 
 ],
 "places": [
-[1355,-1,"PPLC","Flying Fish Cove","fala'iga fisa kova","fei yu wan","Flain-Fish-Kouv","Flaing Fish Kouv","Flajing Fish Kouv","Flajing-Fish-Kouv","flay xing fich khof","Flayinq Fis Kouv","Flayinq Fiş Kouv","flayngh fysh kwf","flayyng fsh kww","Kampong","peullaingpisikobeu","phla'inga phisa kova","pilaiyin pis kov","plaing-pishi","The Settlement","Флаинг Фиш Коув","Флаін-Фіш-Коўв","Флайинг-Фиш-Коув","Флајинг Фиш Коув","فلائینگ فش کوو","فلاينغ فيش كوف","फ्लाइंग फिश कोव"]
+[1355,-1,"PPLC","Flying Fish Cove","fala'iga fisa kova","fei yu wan","Flain-Fish-Kouv","Flaing Fish Kouv","Flajing Fish Kouv","Flajing-Fish-Kouv","flay xing fich khof","Flayinq Fis Kouv","Flayinq Fiş Kouv","flayngh fysh kwf","flayyng fsh kww","Kampong","peullaingpisikobeu","phla'inga phisa kova","pilaiyin pis kov","plaing-pishi","The Settlement","Флаинг Фиш Коув","Флаін-Фіш-Коўв","Флайинг-Фиш-Коув","Флајинг Фиш Коув","فلائینگ فش کوو","فلاينغ فيش كوف","फ्लाइंग फिश कोव"],
+[0,-1,"PPLX","Drumsite"],
+[0,-1,"PPLX","Poon Saan"],
+[0,-1,"PPL","Settlement"],
+[0,-1,"PPLX","Silver City"],
+[0,-1,"PPL","Waterfall"]
 ]
 }

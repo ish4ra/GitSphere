@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"BR","iso3":"BRA","population":213421037,"name":"Brazil","slug":"brazil"},
-"counts": {"countryNames":16,"admins":28,"places":5852,"placesWithPopulation":5723,"cscStates":27,"cscCities":5629,"geonamesPlaces":5899,"geonamesAlternateNames":11951},
+"counts": {"countryNames":16,"admins":28,"places":5852,"placesWithPopulation":5723,"cscStates":27,"cscCities":5629,"geonamesPlaces":5899,"geonamesAlternateNames":11951,"geonamesSupplementPlaces":0},
 "names": ["Brasil","Brasile","Brasilien","Brazil","Brazilië","Brazylia","Brésil","Brezilya","Бразилия","Бразилія","البرازيل","برزیل","ब्राज़िल","브라질","ブラジル","巴西"],
 "admins": [
 ["AC","state","Acre"],

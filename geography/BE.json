@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"BE","iso3":"BEL","population":11825551,"name":"Belgium","slug":"belgium"},
-"counts": {"countryNames":17,"admins":13,"places":2234,"placesWithPopulation":2217,"cscStates":13,"cscCities":549,"geonamesPlaces":2257,"geonamesAlternateNames":7200},
+"counts": {"countryNames":17,"admins":13,"places":2234,"placesWithPopulation":2217,"cscStates":13,"cscCities":549,"geonamesPlaces":2257,"geonamesAlternateNames":7200,"geonamesSupplementPlaces":0},
 "names": ["Belçika","Belgia","Bélgica","België","Belgien","Belgija","Belgio","Belgique","Belgium","Бельгия","Бельгія","بلجيكا","بلژیک","बेल्जियम","벨기에","ベルギー","比利时"],
 "admins": [
 ["VAN","province","Antwerp","Antwerpen"],

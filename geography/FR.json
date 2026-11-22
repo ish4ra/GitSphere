@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"FR","iso3":"FRA","population":68688000,"name":"France","slug":"france"},
-"counts": {"countryNames":17,"admins":128,"places":25793,"placesWithPopulation":15248,"cscStates":124,"cscCities":10534,"geonamesPlaces":15365,"geonamesAlternateNames":75686},
+"counts": {"countryNames":17,"admins":128,"places":25793,"placesWithPopulation":15248,"cscStates":124,"cscCities":10534,"geonamesPlaces":15365,"geonamesAlternateNames":75686,"geonamesSupplementPlaces":0},
 "names": ["França","France","Francia","Francja","Francuska","Frankreich","Frankrijk","Frañs","Fransa","Франция","Франція","فرانسه","فرنسا","फ्रांस","프랑스","フランス","法国"],
 "admins": [
 ["","metropolitan department","Ain"],

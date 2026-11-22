@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"SC","iso3":"SYC","population":122729,"name":"Seychelles","slug":"seychelles"},
-"counts": {"countryNames":15,"admins":31,"places":27,"placesWithPopulation":25,"cscStates":27,"cscCities":9,"geonamesPlaces":26,"geonamesAlternateNames":230},
+"counts": {"countryNames":15,"admins":31,"places":53,"placesWithPopulation":36,"cscStates":27,"cscCities":9,"geonamesPlaces":26,"geonamesAlternateNames":230,"geonamesSupplementPlaces":26},
 "names": ["Sechelez","Seicheles","Sejšeli","Seszele","Seychellen","Seychelles","Seyşeller","Сейшельские острова","Сейшельські острови","سيشيل","سیشل","सेशल्स","세이셸","セーシェル","塞舌尔"],
 "admins": [
 ["","district","Anse-aux-Pins"],
@@ -62,7 +62,33 @@
 [3129,8,"PPLX","Bel Air"],
 [2719,21,"PPLX","Les Mamelles","Mamelles"],
 [2580,30,"PPLA","Takamaka","takamaka","Такамака","تاكاماكا","تاکاماکا","ታካማካ","तकामाका","তাকামাকা","ਤਕਾਮਾਕਾ","タカマカ"],
+[210,6,"PPL","Anse Lazio"],
+[200,24,"PPL","Silhouette Island"],
+[152,24,"PPL","North Island"],
+[149,13,"PPL","Anse Kerlan"],
+[60,1,"PPL","Desroches"],
+[60,23,"PPL","Ile au Cerf"],
+[20,-1,"PPL","Assumption"],
+[15,2,"PPL","Maldive Village"],
+[12,-1,"PPL","Aldabra"],
+[8,21,"PPL","Poivre Nord"],
+[4,9,"PPL","Platte Island"],
 [0,2,"","Anse Etoile"],
-[0,19,"PPLA","La Passe","la bas","la pas","la pasa","la ፓsi","La-Pas","rapasu","Ла-Пас","لا باس","لا پاس","ላ ፓስ","ला पास","লা পাস","ਲਾ ਪਾਸ","ラパス"]
+[0,6,"PPL","Anse Volbert Village"],
+[0,6,"PPL","Cap Samy"],
+[0,24,"PPL","Coetivy"],
+[0,2,"PPL","De Quincey Village"],
+[0,25,"PPL","Fairview"],
+[0,-1,"PPL","Farquhar"],
+[0,1,"PPL","L’Espérance","L'Esperance"],
+[0,2,"PPL","La Gouge"],
+[0,19,"PPLA","La Passe","la bas","la pas","la pasa","la ፓsi","La-Pas","rapasu","Ла-Пас","لا باس","لا پاس","ላ ፓስ","ला पास","লা পাস","ਲਾ ਪਾਸ","ラパス"],
+[0,11,"PPL","Machabee"],
+[0,-1,"PPL","Platte Island"],
+[0,4,"PPL","Pointe Au Sel"],
+[0,-1,"PPL","Pointe La Rue"],
+[0,30,"PPL","Quatre Bornes de Takamaka"],
+[0,23,"PPL","South Point"],
+[0,7,"PPL","Victoria - Mahe"]
 ]
 }

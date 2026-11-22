@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"EH","iso3":"ESH","population":600904,"name":"Western Sahara","slug":"western-sahara"},
-"counts": {"countryNames":18,"admins":0,"places":27,"placesWithPopulation":27,"cscStates":0,"cscCities":0,"geonamesPlaces":27,"geonamesAlternateNames":192},
+"counts": {"countryNames":18,"admins":0,"places":50,"placesWithPopulation":36,"cscStates":0,"cscCities":0,"geonamesPlaces":27,"geonamesAlternateNames":192,"geonamesSupplementPlaces":23},
 "names": ["Bati Sahra","Saara Ocidental","Sahara ar C'hornôg","Sahara Occidental","Sahara Occidentale","Sahara Zachodnia","Westelijke Sahara","Western Sahara","Westsahara","Zapadna Sahara","Западная Сахара","Західна Сахара","الصحراء الغربية","جمهوری دموکراتیک عربی صحرا","पश्चिमी सहारा","서사하라","西サハラ","西撒哈拉"],
 "admins": [
 
@@ -33,6 +33,29 @@
 [833,-1,"PPL","Zug","Sug","Zoug","Zoûg"],
 [635,-1,"PPL","Agti el Ghazi","aghty alghazy","Hasi Hatas","أغتي الغازي"],
 [519,-1,"PPL","Mijek","Mijik","Mijjik","mjyk‎","مجيك‎"],
-[512,-1,"PPL","Hasi Gueleita","Galtat Zemmour","Guelta Zemmur","Guelta Zemur"]
+[512,-1,"PPL","Hasi Gueleita","Galtat Zemmour","Guelta Zemmur","Guelta Zemur"],
+[500,-1,"PPL","Farsia"],
+[269,-1,"PPL","Sidi Ahmed Laaroussi"],
+[248,-1,"PPL","Jdiriya"],
+[222,-1,"PPL","Aghwinit"],
+[151,-1,"PPL","El Hagounia"],
+[131,-1,"PPL","Al Mahbas"],
+[92,-1,"PPL","Aftissat"],
+[28,-1,"PPL","Guerguerat"],
+[5,-1,"PPL","Echdeiria"],
+[0,-1,"PPL","Akfoul"],
+[0,-1,"PPL","Amseisat Saccum"],
+[0,-1,"PPL","Aridal"],
+[0,-1,"PPL","Bir Ganduf"],
+[0,-1,"PPL","Bir Tiguisit"],
+[0,-1,"PPL","Dougaj"],
+[0,-1,"PPL","Echdera"],
+[0,-1,"PPL","Hasi Chor"],
+[0,-1,"PPL","Jcheibi el Gardeg"],
+[0,-1,"PPL","Metmárfag","Metmarfag"],
+[0,-1,"PPL","Piedra del Kaisser"],
+[0,-1,"PPL","Samlat el HMad"],
+[0,-1,"PPL","Sdar"],
+[0,-1,"PPL","Sebaíera","Sebaiera"]
 ]
 }

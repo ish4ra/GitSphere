@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"PK","iso3":"PAK","population":241499431,"name":"Pakistan","slug":"pakistan"},
-"counts": {"countryNames":10,"admins":7,"places":641,"placesWithPopulation":546,"cscStates":7,"cscCities":456,"geonamesPlaces":578,"geonamesAlternateNames":3184},
+"counts": {"countryNames":10,"admins":7,"places":641,"placesWithPopulation":546,"cscStates":7,"cscCities":456,"geonamesPlaces":578,"geonamesAlternateNames":3184,"geonamesSupplementPlaces":0},
 "names": ["Pakistan","Pakistán","Paquistão","Пакистан","باكستان","پاکستان","पाकिस्तान","파키스탄","パキスタン","巴基斯坦"],
 "admins": [
 ["JK","administered area","Azad Kashmir","آزاد کشمیر"],

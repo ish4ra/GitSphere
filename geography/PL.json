@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"PL","iso3":"POL","population":37401000,"name":"Poland","slug":"poland"},
-"counts": {"countryNames":17,"admins":20,"places":4178,"placesWithPopulation":3760,"cscStates":16,"cscCities":2810,"geonamesPlaces":3870,"geonamesAlternateNames":17332},
+"counts": {"countryNames":17,"admins":20,"places":4178,"placesWithPopulation":3760,"cscStates":16,"cscCities":2810,"geonamesPlaces":3870,"geonamesAlternateNames":17332,"geonamesSupplementPlaces":0},
 "names": ["Poland","Polen","Poljska","Pologne","Polonia","Polónia","Polônia","Polonya","Polska","Польша","Польща","بولندا","لهستان","पोलैंड","폴란드","ポーランド","波兰"],
 "admins": [
 ["","voivodship","Greater Poland","Większa Polska"],

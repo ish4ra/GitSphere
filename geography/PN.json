@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"PN","iso3":"PCN","population":35,"name":"Pitcairn Islands","slug":"pitcairn-islands"},
-"counts": {"countryNames":21,"admins":0,"places":1,"placesWithPopulation":1,"cscStates":0,"cscCities":0,"geonamesPlaces":1,"geonamesAlternateNames":25},
+"counts": {"countryNames":21,"admins":0,"places":1,"placesWithPopulation":1,"cscStates":0,"cscCities":0,"geonamesPlaces":1,"geonamesAlternateNames":25,"geonamesSupplementPlaces":0},
 "names": ["Îles Pitcairn","Ilhas Picárnia","Ilhas Pitcairn","Inizi Pitcairn","Islas Pitcairn","Isole Pitcairn","Pitcairn","Pitcairn Adalari","Pitcairn Island","Pitcairn Islands","Pitcairneilanden","Pitcairnovo otočje","Wyspa Pitcairn","Острів Піткерн","Остров Питкэрн","پیتکرن","جزيرة بيتكيرن","पिटकेर्न द्वीप","핏케언 제도","ピトケアン","皮特凯恩群岛"],
 "admins": [
 

@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"IN","iso3":"IND","population":1417492000,"name":"India","slug":"india"},
-"counts": {"countryNames":16,"admins":37,"places":8121,"placesWithPopulation":7157,"cscStates":36,"cscCities":4198,"geonamesPlaces":7325,"geonamesAlternateNames":28606},
+"counts": {"countryNames":16,"admins":37,"places":8121,"placesWithPopulation":7157,"cscStates":36,"cscCities":4198,"geonamesPlaces":7325,"geonamesAlternateNames":28606,"geonamesSupplementPlaces":0},
 "names": ["Bharat","Hindistan","Inde","India","Índia","Indie","Indien","Indija","Индия","Індія","الهند","هند","भारत","인도","インド","印度"],
 "admins": [
 ["","admin1","Andaman and Nicobar"],

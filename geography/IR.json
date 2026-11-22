@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"IR","iso3":"IRN","population":85961000,"name":"Iran","slug":"iran"},
-"counts": {"countryNames":13,"admins":32,"places":4039,"placesWithPopulation":2839,"cscStates":31,"cscCities":1847,"geonamesPlaces":2917,"geonamesAlternateNames":25602},
+"counts": {"countryNames":13,"admins":32,"places":4039,"placesWithPopulation":2839,"cscStates":31,"cscCities":1847,"geonamesPlaces":2917,"geonamesAlternateNames":25602,"geonamesSupplementPlaces":0},
 "names": ["Irã","Iran","İran","Irão","Islamic Republic of Iran","Иран","Іран","إيران","ایران","ईरान","이란","イラン・イスラム共和国","伊朗"],
 "admins": [
 ["","province","Alborz","Alborz Province","البرز"],

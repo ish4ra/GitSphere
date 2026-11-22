@@ -12,8 +12,8 @@ Each `<CC>.json` file holds one supported country or territory:
 | --- | ---: |
 | Countries and territories | 250 |
 | Administrative subdivisions | 5,899 |
-| Places (cities, towns, districts) | 300,008 |
-| Places with population data | 202,860 |
+| Places (cities, towns, districts) | 722,750 |
+| Places with population data | 214,087 |
 | GeoNames included | yes |
 
 ## Sources and licenses

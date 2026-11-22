@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"TH","iso3":"THA","population":65859640,"name":"Thailand","slug":"thailand"},
-"counts": {"countryNames":16,"admins":82,"places":1471,"placesWithPopulation":499,"cscStates":78,"cscCities":1241,"geonamesPlaces":1085,"geonamesAlternateNames":9387},
+"counts": {"countryNames":16,"admins":82,"places":1471,"placesWithPopulation":499,"cscStates":78,"cscCities":1241,"geonamesPlaces":1085,"geonamesAlternateNames":9387,"geonamesSupplementPlaces":0},
 "names": ["Tailandia","Tailândia","Tajland","Tajlandia","Tayland","Thailand","Thaïlande","Таиланд","Таїланд","تايلاند","تایلند","थाईलैंड","ประเทศไทย","태국","タイ","泰国"],
 "admins": [
 ["","province","Amnat Charoen","อำนาจเจริญ"],

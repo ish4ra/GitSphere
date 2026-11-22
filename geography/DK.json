@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"DK","iso3":"DNK","population":6004342,"name":"Denmark","slug":"denmark"},
-"counts": {"countryNames":18,"admins":8,"places":831,"placesWithPopulation":508,"cscStates":5,"cscCities":430,"geonamesPlaces":521,"geonamesAlternateNames":2092},
+"counts": {"countryNames":18,"admins":8,"places":831,"placesWithPopulation":508,"cscStates":5,"cscCities":430,"geonamesPlaces":521,"geonamesAlternateNames":2092,"geonamesSupplementPlaces":0},
 "names": ["Danemark","Dänemark","Dania","Danimarca","Danimarka","Danmark","Danska","Denemarken","Denmark","Dinamarca","Дания","Данія","الدنمارك","دانمارک","डेनमार्क","덴마크","デンマーク","丹麦"],
 "admins": [
 ["","admin1","Capital Region"],

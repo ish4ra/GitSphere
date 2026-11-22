@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"BM","iso3":"BMU","population":64055,"name":"Bermuda","slug":"bermuda"},
-"counts": {"countryNames":12,"admins":10,"places":19,"placesWithPopulation":12,"cscStates":9,"cscCities":9,"geonamesPlaces":12,"geonamesAlternateNames":51},
+"counts": {"countryNames":12,"admins":10,"places":37,"placesWithPopulation":15,"cscStates":9,"cscCities":9,"geonamesPlaces":12,"geonamesAlternateNames":51,"geonamesSupplementPlaces":18},
 "names": ["Bermuda","Bermudas","Bermudes","Bermudi","Bermudy","Бермудські острови","Бермуды","برمودا","बरमूडा","버뮤다","バミューダ","百慕大"],
 "admins": [
 ["DEV","municipality","Devonshire"],
@@ -28,12 +28,30 @@
 [1896,4,"PPL","Saint George","Saint George's","Saint George’s","Saint George's Town","Saint George’s Town","Saint Georges","Sankta Georgo","seinteujojiseu","Sent Dzordzas","Sent Džordžas","Sent-Dzhordzh","sheng qiao zhi si","snt gwrgs","snt jwrj brmwda","Сент-Джордж","სენტ-ჯორჯესი","סנט גורגס","سنت جورج، برمودا","سینٹ جارج، برمودا","세인트조지스","セント・ジョージ","圣乔治斯"],
 [1000,6,"PPL","Somerset"],
 [902,1,"PPLC","Hamilton","amiltan","Chamilton","Gamil'tan","Gamil'ton","ha mi er dun","haemilteon","Hamilton pa Bermuda","Hamilton på Bermuda","Hamiltonas","Hamiltono","hamiruton","hamyltwn","hemiltana","hmyltwn","Khamilton","Khamiltun","Χάμιλτον","Гамильтон","Гамільтан","Гамільтон","Хамилтон","Хамилтън","המילטון","هاميلتون"],
+[412,1,"PPL","Flatt’s Village","Flatt's Village"],
+[411,3,"PPL","Stovel Bay"],
+[135,8,"PPL","Cross Bay"],
+[0,0,"PPL","Bethaven"],
+[0,2,"PPL","Camden"],
+[0,5,"PPL","Cashew City"],
+[0,2,"PPL","Chelston"],
+[0,2,"PPLX","Darrell's Wharf Ferry Stop"],
 [0,0,"","Devonshire"],
 [0,7,"","Flatts"],
+[0,7,"PPL","Harrington Hundreds"],
+[0,9,"PPL","Hill View"],
+[0,7,"PPL","Hinson Hall"],
+[0,6,"PPL","Hog Bay"],
+[0,5,"PPL","Melrose"],
+[0,2,"PPL","Mount Pleasant"],
+[0,0,"PPL","North Shore Village"],
 [0,2,"","Paget"],
+[0,6,"PPL","Scotts Hill"],
 [0,8,"","Southampton"],
 [0,5,"","St. George's"],
-[0,5,"","Tucker’s Town"],
-[0,9,"","Warwick"]
+[0,1,"PPL","Sunnyside"],
+[0,5,"PPL","Tucker’s Town","Tucker's Town"],
+[0,9,"","Warwick"],
+[0,9,"PPL","Warwick Camp"]
 ]
 }

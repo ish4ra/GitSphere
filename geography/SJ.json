@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"SJ","iso3":"SJM","population":0,"name":"Svalbard & Jan Mayen","slug":"svalbard-jan-mayen"},
-"counts": {"countryNames":21,"admins":2,"places":2,"placesWithPopulation":2,"cscStates":0,"cscCities":0,"geonamesPlaces":2,"geonamesAlternateNames":50},
+"counts": {"countryNames":21,"admins":2,"places":11,"placesWithPopulation":8,"cscStates":0,"cscCities":0,"geonamesPlaces":2,"geonamesAlternateNames":50,"geonamesSupplementPlaces":9},
 "names": ["Islas Svalbard y Jan Mayen","Svalbard","Svalbard & Jan Mayen","Svalbard and Jan Mayen Islands","Svalbard e Jan Mayen","Svalbard en Jan Mayen","Svalbard et Jan Mayen","Svalbard ha Enez Jan Mayen","Svalbard i Jan Mayen","Svalbard og Jan Mayen","Svalbard und Jan Mayen","Svalbard Ve Jan Mayen","Wyspy Svalbard i Jan Mayen","Шпицберген и острова Ян-Майен","Шпіцберген та острови Ян-Майєн","جزر سفالبارد وجان ماين","سوالبارد و یان ماین","स्वालबार्ड और जन मायेन द्वीप समूह","스발바르 얀마옌 제도","スヴァールバル諸島およびヤンマイエン島","斯瓦尔巴和扬马延群岛"],
 "admins": [
 ["","admin1","Jan Mayen"],
@@ -9,6 +9,15 @@
 ],
 "places": [
 [2368,1,"PPLC","Longyearbyen","lang yi er cheng","langayrbyn","langyrbyn","lanyiyarpiyan","lanګyrbyn","long-ieobien","long-wiealeubwien","Long'ir","Longijur","Longir","longiri","Longjerbiene","Longjērbīene","Longjir","Longjirbjuen osh","Longjyrbienas","Longyearbyur","Longyearbýur","Lonqyirbyuen","lwnghyarbyn","lwngyyrbyn","lwnqyyrbyn","lxng yeiy r beiyn","ronguierubin"],
-[14,0,"PPLA","Olonkinbyen","ao lun jin bai en","awlwnknbyn","awlwnkynbyn","awlwnkynbyyn","olonakinabiyena","olonakinabyena","Olonkin City","Olonkinbienas","Olonkinbiene","Olonkinbīene","Olonkinbjuehn","Olonkinbjuen","Olonkinbүehn","Olonkinstad","oronkinbien","ʿolonikinibiyeni","Олонкинбүэн","Олонкинбюен","Олонкинбюэн","أولونكينبيين","اولونکنبین","اولونکینبین","ओलोनकिनब्येन","ওলোনকিনবিয়েন"]
+[297,1,"PPL","Barentsburg"],
+[113,1,"PPL","Nybyen"],
+[35,1,"PPL","Ny-Ålesund","Ny-Alesund"],
+[14,0,"PPLA","Olonkinbyen","ao lun jin bai en","awlwnknbyn","awlwnkynbyn","awlwnkynbyyn","olonakinabiyena","olonakinabyena","Olonkin City","Olonkinbienas","Olonkinbiene","Olonkinbīene","Olonkinbjuehn","Olonkinbjuen","Olonkinbүehn","Olonkinstad","oronkinbien","ʿolonikinibiyeni","Олонкинбүэн","Олонкинбюен","Олонкинбюэн","أولونكينبيين","اولونکنبین","اولونکینبین","ओलोनकिनब्येन","ওলোনকিনবিয়েন"],
+[12,-1,"PPL","Hornsund"],
+[9,1,"PPL","Herwighamma"],
+[4,-1,"PPL","Hopen Radio"],
+[0,1,"PPL","Haugen"],
+[0,0,"PPLL","Jan Mayen"],
+[0,1,"PPLL","Sveagruva"]
 ]
 }

@@ -1,12 +1,13 @@
 {
 "schemaVersion": 2,
 "country": {"code":"CC","iso3":"CCK","population":593,"name":"Cocos (Keeling) Islands","slug":"cocos-keeling-islands"},
-"counts": {"countryNames":20,"admins":0,"places":1,"placesWithPopulation":1,"cscStates":0,"cscCities":0,"geonamesPlaces":1,"geonamesAlternateNames":3},
+"counts": {"countryNames":20,"admins":0,"places":2,"placesWithPopulation":2,"cscStates":0,"cscCities":0,"geonamesPlaces":1,"geonamesAlternateNames":3,"geonamesSupplementPlaces":1},
 "names": ["Cocos (Keeling) Islands","Cocos Adalari","Cocoseilanden","Îles Cocos","Ilhas Cocos","Ilhas dos Cocos","Inizi Cocos","Islas Cocos o Islas Keeling","Isole Cocos e Keeling","Kokosinseln","Kokosovi Otoci","Wyspy Kokosowe (Keelinga)","Кокосові (Кілінг) острови","Кокосовые (Килинг) острова","جزایر کوکوس","جزر كوكوس (كيلينغ)","कोकोस (कीलिंग) द्वीप","코코스 제도","ココス（キーリング）諸島","科科斯（基林）群岛"],
 "admins": [
 
 ],
 "places": [
+[500,-1,"PPL","Bantam Village"],
 [120,-1,"PPLC","West Island","Isla oeste","weseuteu seom","웨스트 섬"]
 ]
 }

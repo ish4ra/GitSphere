@@ -1,12 +1,15 @@
 {
 "schemaVersion": 2,
 "country": {"code":"NF","iso3":"NFK","population":2188,"name":"Norfolk Island","slug":"norfolk-island"},
-"counts": {"countryNames":19,"admins":0,"places":1,"placesWithPopulation":1,"cscStates":0,"cscCities":0,"geonamesPlaces":1,"geonamesAlternateNames":25},
+"counts": {"countryNames":19,"admins":0,"places":4,"placesWithPopulation":2,"cscStates":0,"cscCities":0,"geonamesPlaces":1,"geonamesAlternateNames":25,"geonamesSupplementPlaces":3},
 "names": ["Enez Norfolk","Île de Norfolk","Ilha Norfolk","Isla de Norfolk","Isola Norfolk","Norfolk Adasi","Norfolk Island","Norfolkeiland","Norfolkinsel","Otok Norfolk","Wyspa Norfolk","Острів Норфолк","Остров Норфолк","جزيرة نورفولك","جزیره نورفک","नॉरफ़ॉक आइलैंड","노퍽 섬","ノーフォーク島","诺福克岛"],
 "admins": [
 
 ],
 "places": [
-[880,-1,"PPLC","Kingston","jin si dui","khing s tan","kincutan","kingseuteon","kingstana","Kingston pa Norfolkoya","Kingston på Norfolkøya","Kingstona","Kingstonas","Kingstono","Kingstun","kingusuton","Kinqston","kynghstwn","kyngstwn","Pasjolak Kingstan","Кингстон","Кингстън","Кінгстон","Пасёлак Кінгстан","كينغستون","کنگسٹن","کینگستون","किंग्स्टन"]
+[880,-1,"PPLC","Kingston","jin si dui","khing s tan","kincutan","kingseuteon","kingstana","Kingston pa Norfolkoya","Kingston på Norfolkøya","Kingstona","Kingstonas","Kingstono","Kingstun","kingusuton","Kinqston","kynghstwn","kyngstwn","Pasjolak Kingstan","Кингстон","Кингстън","Кінгстон","Пасёлак Кінгстан","كينغستون","کنگسٹن","کینگستون","किंग्स्टन"],
+[180,-1,"PPL","Burnt Pine"],
+[0,-1,"PPL","Cascade"],
+[0,-1,"PPL","Longridge Station"]
 ]
 }

@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"AU","iso3":"AUS","population":27400013,"name":"Australia","slug":"australia"},
-"counts": {"countryNames":16,"admins":8,"places":5192,"placesWithPopulation":4886,"cscStates":8,"cscCities":4147,"geonamesPlaces":4902,"geonamesAlternateNames":7258},
+"counts": {"countryNames":16,"admins":8,"places":5192,"placesWithPopulation":4886,"cscStates":8,"cscCities":4147,"geonamesPlaces":4902,"geonamesAlternateNames":7258,"geonamesSupplementPlaces":0},
 "names": ["Aostralia","Australia","Austrália","Australie","Australië","Australien","Australija","Avustralya","Австралия","Австралія","أستراليا","استرالیا","ऑस्ट्रेलिया","호주","オーストラリア","澳大利亚"],
 "admins": [
 ["ACT","territory","Australian Capital Territory"],

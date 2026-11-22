@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"NO","iso3":"NOR","population":5606944,"name":"Norway","slug":"norway"},
-"counts": {"countryNames":18,"admins":17,"places":898,"placesWithPopulation":522,"cscStates":17,"cscCities":666,"geonamesPlaces":633,"geonamesAlternateNames":2859},
+"counts": {"countryNames":18,"admins":17,"places":898,"placesWithPopulation":522,"cscStates":17,"cscCities":666,"geonamesPlaces":633,"geonamesAlternateNames":2859,"geonamesSupplementPlaces":0},
 "names": ["Noorwegen","Norge","Noruega","Norveç","Norvège","Norvegia","Norveška","Norway","Norwegen","Norwegia","Норвегия","Норвегія","النرويج","نروژ","नॉर्वे","노르웨이","ノルウェー","挪威"],
 "admins": [
 ["","county","Agder"],

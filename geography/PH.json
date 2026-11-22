@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"PH","iso3":"PHL","population":114123600,"name":"Philippines","slug":"philippines"},
-"counts": {"countryNames":20,"admins":100,"places":8336,"placesWithPopulation":4019,"cscStates":99,"cscCities":5357,"geonamesPlaces":4535,"geonamesAlternateNames":8768},
+"counts": {"countryNames":20,"admins":100,"places":8336,"placesWithPopulation":4019,"cscStates":99,"cscCities":5357,"geonamesPlaces":4535,"geonamesAlternateNames":8768,"geonamesSupplementPlaces":0},
 "names": ["Filipijnen","Filipinas","Filipinez","Filipini","Filipinler","Filipiny","Filippine","Philipines","Philippinen","Philippines","Phillipines","Pilipinas","Филиппины","Філіппіни","جزایر الندفیلیپین","فيلبيني","फिलिपींस","필리핀","フィリピン","菲律宾"],
 "admins": [
 ["ABR","province","Abra"],

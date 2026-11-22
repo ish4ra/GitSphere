@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"IL","iso3":"ISR","population":10119400,"name":"Israel","slug":"israel"},
-"counts": {"countryNames":14,"admins":7,"places":764,"placesWithPopulation":731,"cscStates":6,"cscCities":150,"geonamesPlaces":734,"geonamesAlternateNames":8638},
+"counts": {"countryNames":14,"admins":7,"places":764,"placesWithPopulation":731,"cscStates":6,"cscCities":150,"geonamesPlaces":734,"geonamesAlternateNames":8638,"geonamesSupplementPlaces":0},
 "names": ["Israel","Israël","Israele","İsrail","Izrael","Израиль","Ізраїль","יִשְׂרָאֵל","إسرائيل","اسرائیل","इज़राइल","이스라엘","イスラエル","以色列"],
 "admins": [
 ["M","district","Central","Central District"],

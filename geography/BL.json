@@ -1,13 +1,41 @@
 {
 "schemaVersion": 2,
 "country": {"code":"BL","iso3":"BLM","population":10562,"name":"St. Barthélemy","slug":"st-barthelemy"},
-"counts": {"countryNames":15,"admins":1,"places":2,"placesWithPopulation":1,"cscStates":1,"cscCities":1,"geonamesPlaces":1,"geonamesAlternateNames":25},
+"counts": {"countryNames":15,"admins":1,"places":30,"placesWithPopulation":1,"cscStates":1,"cscCities":1,"geonamesPlaces":1,"geonamesAlternateNames":25,"geonamesSupplementPlaces":28},
 "names": ["Antille Francesi","Saint Barthélemy","Saint-Barthelemy","Saint-Barthélemy","San Bartolomé","São Bartolomeu","St. Barthélemy","Сен-Бартелеми","Сен-Бартелемі","سان بارثيليمي","سن-بارتلمی","सेंट बार्थेलेमी","생바르텔레미","サン・バルテルミー","圣巴泰勒米"],
 "admins": [
 ["","overseas collectivity","Saint-Barthélemy"]
 ],
 "places": [
 [5988,-1,"PPLC","Gustavia","Goustavia","guseutabia","Gustaf","gustavhiya","Gustavi","Gustávia","Gustavija","Gustavio","gusutabia","Guthavia","gwiseutabia","gwstawya","ju si ta wei ya","ku s ta wi ya","kucutaviya","Qustaviya","Γουσταβία","Густави","Густавија","Густавия","Густавія","گوستاویا","گوسٹاویا","गुस्ताव्हिया"],
-[0,0,"","Gustavia"]
+[0,-1,"PPL","Anse des Cayes"],
+[0,-1,"PPL","Anse des Flamands"],
+[0,-1,"PPL","Anse des Lézards","Anse des Lezards"],
+[0,-1,"PPL","Camaruche"],
+[0,-1,"PPL","Carénage","Carenage"],
+[0,-1,"PPL","Caribe Frances"],
+[0,-1,"PPL","Colombier"],
+[0,-1,"PPL","Corossol"],
+[0,-1,"PPL","Devet"],
+[0,-1,"PPL","Grand Cul-de-Sac"],
+[0,-1,"PPL","Grand Fond"],
+[0,0,"","Gustavia"],
+[0,-1,"PPL","La Grande Saline"],
+[0,-1,"PPL","La Petite Saline"],
+[0,-1,"PPLX","La Pointe"],
+[0,-1,"PPL","Le Gouverneur"],
+[0,-1,"PPL","Lurin"],
+[0,-1,"PPL","Marigot"],
+[0,-1,"PPL","Merlette"],
+[0,-1,"PPL","Mont Jean"],
+[0,-1,"PPL","Petit Cul-de-Sac"],
+[0,-1,"PPL","Pointe Milou"],
+[0,-1,"PPL","Public"],
+[0,-1,"PPL","Quartier de Lorient"],
+[0,-1,"PPL","Quartier du Roi"],
+[0,-1,"PPL","Saint-Jean"],
+[0,-1,"PPL","Terre Neuve"],
+[0,-1,"PPL","Toiny"],
+[0,-1,"PPL","Vitet"]
 ]
 }

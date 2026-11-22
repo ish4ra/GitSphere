@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"SI","iso3":"SVN","population":2130638,"name":"Slovenia","slug":"slovenia"},
-"counts": {"countryNames":18,"admins":223,"places":674,"placesWithPopulation":602,"cscStates":212,"cscCities":312,"geonamesPlaces":602,"geonamesAlternateNames":6063},
+"counts": {"countryNames":18,"admins":223,"places":674,"placesWithPopulation":602,"cscStates":212,"cscCities":312,"geonamesPlaces":602,"geonamesAlternateNames":6063,"geonamesSupplementPlaces":0},
 "names": ["Eslovenia","Eslovénia","Eslovênia","Slovenia","Slovenië","Slovénie","Slovenija","Slovenya","Słowenia","Slowenien","Словения","Словенія","اسلوونی","سلوفينيا","स्लोवेनिया","슬로베니아","スロベニア","斯洛文尼亚"],
 "admins": [
 ["","municipality","Ajdovščina","Municipality of Ajdovscina","Municipality of Ajdovščina"],

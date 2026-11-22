@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"HM","iso3":"HMD","population":0,"name":"Heard & McDonald Islands","slug":"heard-mcdonald-islands"},
-"counts": {"countryNames":20,"admins":0,"places":0,"placesWithPopulation":0,"cscStates":0,"cscCities":0,"geonamesPlaces":0,"geonamesAlternateNames":0},
+"counts": {"countryNames":20,"admins":0,"places":0,"placesWithPopulation":0,"cscStates":0,"cscCities":0,"geonamesPlaces":0,"geonamesAlternateNames":0,"geonamesSupplementPlaces":0},
 "names": ["Heard & McDonald Islands","Heard Adasi Ve Mcdonald Adalari","Heard Island and McDonald Islands","Heard und die McDonaldinseln","Heard- en McDonaldeilanden","Îles Heard-et-MacDonald","Ilha Heard e Ilhas McDonald","Inizi Heard ha McDonald","Islas Heard y McDonald","Isole Heard e McDonald","Otok Heard i otočje McDonald","Wyspa Heard i Wyspy McDonalda","Острів Херд та острови Макдональд","Остров Херд и острова Макдональд","جزیره هرد و جزایر مک‌دونالد","سمعت جزيرة وجزر ماكدونالد","हर्ड द्वीप और मैकडोनाल्ड द्वीप","허드 맥도날드 제도","ハード島とマクドナルド諸島","赫德·唐纳岛及麦唐纳岛"],
 "admins": [
 

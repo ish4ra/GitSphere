@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"VN","iso3":"VNM","population":101343800,"name":"Vietnam","slug":"vietnam"},
-"counts": {"countryNames":16,"admins":37,"places":1316,"placesWithPopulation":549,"cscStates":34,"cscCities":488,"geonamesPlaces":916,"geonamesAlternateNames":4153},
+"counts": {"countryNames":16,"admins":37,"places":1316,"placesWithPopulation":549,"cscStates":34,"cscCities":488,"geonamesPlaces":916,"geonamesAlternateNames":4153,"geonamesSupplementPlaces":0},
 "names": ["Viet Nam","Viêt Nam","Việt Nam","Vietnã","Vietnam","Vietname","Vijetnam","Wietnam","В'єтнам","Вьетнам","فيتنام","ویتنام","वियतनाम","베트남","ベトナム","越南"],
 "admins": [
 ["","province","An Giang"],

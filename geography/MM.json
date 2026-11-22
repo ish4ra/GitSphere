@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"MM","iso3":"MMR","population":51316756,"name":"Myanmar (Burma)","slug":"myanmar-burma"},
-"counts": {"countryNames":15,"admins":16,"places":578,"placesWithPopulation":572,"cscStates":15,"cscCities":74,"geonamesPlaces":579,"geonamesAlternateNames":2624},
+"counts": {"countryNames":15,"admins":16,"places":578,"placesWithPopulation":572,"cscStates":15,"cscCities":74,"geonamesPlaces":579,"geonamesAlternateNames":2624,"geonamesSupplementPlaces":0},
 "names": ["Birma","Birmania","Burma","Mijanmar","Myanmar","Myanmar (Burma)","М'янма","Мьянма","ميانمار","میانمار","म्यांमार","မြန်မာ","미얀마","ミャンマー","缅甸"],
 "admins": [
 ["","region","ar ရာဝတီ","Ayeyarwady"],

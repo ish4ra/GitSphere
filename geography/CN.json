@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"CN","iso3":"CHN","population":1408280000,"name":"China","slug":"china"},
-"counts": {"countryNames":18,"admins":34,"places":16888,"placesWithPopulation":3364,"cscStates":34,"cscCities":4133,"geonamesPlaces":16056,"geonamesAlternateNames":115013},
+"counts": {"countryNames":18,"admins":34,"places":16888,"placesWithPopulation":3364,"cscStates":34,"cscCities":4133,"geonamesPlaces":16056,"geonamesAlternateNames":115013,"geonamesSupplementPlaces":0},
 "names": ["China","Chine","Chiny","Çin","Cina","Kina","Mainland China","P.R. China","P.R.China","People's Republic of China","PRC","Sina","Китай","الصين","چین","चीन","중국","中国"],
 "admins": [
 ["AH","province","Anhui","安徽省"],

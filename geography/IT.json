@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"IT","iso3":"ITA","population":58919230,"name":"Italy","slug":"italy"},
-"counts": {"countryNames":17,"admins":129,"places":21539,"placesWithPopulation":11758,"cscStates":126,"cscCities":9852,"geonamesPlaces":11917,"geonamesAlternateNames":24358},
+"counts": {"countryNames":17,"admins":129,"places":21539,"placesWithPopulation":11758,"cscStates":126,"cscCities":9852,"geonamesPlaces":11917,"geonamesAlternateNames":24358,"geonamesSupplementPlaces":0},
 "names": ["Italia","Itália","Italie","Italië","Italien","Italija","Italy","İtalya","Włochy","Италия","Італія","إيطاليا","ایتالیا","इटली","이탈리아","イタリア","意大利"],
 "admins": [
 ["","region","Abruzzo"],

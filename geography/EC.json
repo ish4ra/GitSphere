@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"EC","iso3":"ECU","population":18103660,"name":"Ecuador","slug":"ecuador"},
-"counts": {"countryNames":14,"admins":24,"places":542,"placesWithPopulation":126,"cscStates":24,"cscCities":114,"geonamesPlaces":542,"geonamesAlternateNames":1712},
+"counts": {"countryNames":14,"admins":24,"places":542,"placesWithPopulation":126,"cscStates":24,"cscCities":114,"geonamesPlaces":542,"geonamesAlternateNames":1712,"geonamesSupplementPlaces":0},
 "names": ["Ecuador","Ekvador","Ekvator","Ekwador","Equador","Équateur","Еквадор","Эквадор","اکوادور","الاكوادور","इक्वेडोर","에콰도르","エクアドル","厄瓜多尔"],
 "admins": [
 ["A","province","Azuay"],

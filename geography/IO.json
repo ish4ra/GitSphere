@@ -1,13 +1,14 @@
 {
 "schemaVersion": 2,
 "country": {"code":"IO","iso3":"IOT","population":0,"name":"British Indian Ocean Territory","slug":"british-indian-ocean-territory"},
-"counts": {"countryNames":20,"admins":0,"places":2,"placesWithPopulation":2,"cscStates":0,"cscCities":0,"geonamesPlaces":2,"geonamesAlternateNames":2},
+"counts": {"countryNames":20,"admins":0,"places":3,"placesWithPopulation":2,"cscStates":0,"cscCities":0,"geonamesPlaces":2,"geonamesAlternateNames":2,"geonamesSupplementPlaces":1},
 "names": ["Britanski Indijskooceanski teritorij","Britanya Hint Okyanusu Topraklari","Britisches Territorium im Indischen Ozean","British Indian Ocean Territory","Britse Gebieden in de Indische Oceaan","Brytyjskie Terytorium Oceanu Indyjskiego","Territoire britannique de l'océan Indien","Territorio Británico del Océano Índico","Território Britânico do Oceano íÍdico","Território Britânico do Oceano Índico","Territorio britannico dell'oceano indiano","Tiriad Meurvor Indez Breizh-Veur","Британская территория в Индийском океане","Британська територія в Індійському океані","أراضي المحيط الهندي البريطاني","قلمرو بریتانیا در اقیانوس هند","ब्रिटिश हिंद महासागर क्षेत्र","영국령 인도양 지역","イギリス領インド洋地域","英属印度洋领地"],
 "admins": [
 
 ],
 "places": [
 [3000,-1,"PPLL","Downtown","Diego Garcia"],
-[1000,-1,"PPLL","Seabreeze village"]
+[1000,-1,"PPLL","Seabreeze village"],
+[0,-1,"PPLL","Île Lubine","Ile Lubine"]
 ]
 }

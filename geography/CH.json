@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"CH","iso3":"CHE","population":9082848,"name":"Switzerland","slug":"switzerland"},
-"counts": {"countryNames":19,"admins":30,"places":2206,"placesWithPopulation":1835,"cscStates":26,"cscCities":1507,"geonamesPlaces":1901,"geonamesAlternateNames":7911},
+"counts": {"countryNames":19,"admins":30,"places":2206,"placesWithPopulation":1835,"cscStates":26,"cscCities":1507,"geonamesPlaces":1901,"geonamesAlternateNames":7911,"geonamesSupplementPlaces":0},
 "names": ["İsviçre","Schweiz","Suíça","Suis","Suisse","Suiza","Švicarska","Svizzera","Switzerland","Szwajcaria","Zwitserland","Швейцария","Швейцарія","سوئیس","سويسرا","स्विट्ज़रलैंड","스위스","スイス","瑞士"],
 "admins": [
 ["AG","canton","Aargau"],

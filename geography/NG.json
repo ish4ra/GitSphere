@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"NG","iso3":"NGA","population":223800000,"name":"Nigeria","slug":"nigeria"},
-"counts": {"countryNames":12,"admins":38,"places":991,"placesWithPopulation":488,"cscStates":37,"cscCities":491,"geonamesPlaces":929,"geonamesAlternateNames":2396},
+"counts": {"countryNames":12,"admins":38,"places":991,"placesWithPopulation":488,"cscStates":37,"cscCities":491,"geonamesPlaces":929,"geonamesAlternateNames":2396,"geonamesSupplementPlaces":0},
 "names": ["Nigeria","Nigéria","Nigerija","Nijerya","Нигерия","Нігерія","نيجيريا","نیجریه","नाइजीरिया","나이지리아","ナイジェリア","尼日利亚"],
 "admins": [
 ["AB","state","Abia","Abia State"],

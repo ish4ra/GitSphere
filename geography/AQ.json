@@ -1,12 +1,43 @@
 {
 "schemaVersion": 2,
 "country": {"code":"AQ","iso3":"ATA","population":0,"name":"Antarctica","slug":"antarctica"},
-"counts": {"countryNames":15,"admins":0,"places":0,"placesWithPopulation":0,"cscStates":0,"cscCities":0,"geonamesPlaces":0,"geonamesAlternateNames":0},
+"counts": {"countryNames":15,"admins":0,"places":32,"placesWithPopulation":31,"cscStates":0,"cscCities":0,"geonamesPlaces":0,"geonamesAlternateNames":0,"geonamesSupplementPlaces":32},
 "names": ["Antarctica","Antárctida","Antarctique","Antarktika","Antarktyda","Antártida","Antartide","Antartika","Антарктида","أنتاركتيكا","جنوبگان","अंटार्कटिका","남극","南极洲","南極大陸"],
 "admins": [
 
 ],
 "places": [
-
+[170,-1,"PPL","Showa Station"],
+[153,-1,"PPL","McMurdo Station"],
+[150,-1,"PPL","Villa Las Estrellas"],
+[110,-1,"PPL","SANAE IV Station"],
+[99,-1,"PPLL","Casey Station"],
+[91,-1,"PPL","Davis Station"],
+[80,-1,"PPL","Qinling Station"],
+[70,-1,"PPL","Novolazarevskaya Station"],
+[62,-1,"PPL","Jang Bogo Station"],
+[60,-1,"PPL","Zhongshan Station"],
+[53,-1,"PPL","Mawson Station"],
+[52,-1,"PPL","Base General Bernardo O'Higgins Riquelme"],
+[50,-1,"PPL","Mirny Station"],
+[50,-1,"PPL","Progress Station"],
+[46,-1,"PPLL","Bharati Antarctic Station"],
+[46,-1,"PPL","Palmer Station"],
+[45,-1,"PPL","Maitri Station"],
+[45,-1,"PPLL","Troll Research Station"],
+[30,-1,"PPL","Machu Picchu Base"],
+[30,-1,"PPL","Vostok Station"],
+[26,-1,"PPL","Kunlun Station"],
+[15,-1,"PPL","González Videla Antarctic Base","Gonzalez Videla Antarctic Base"],
+[15,-1,"PPL","Molodyozhnaya Station"],
+[13,-1,"PPL","Aboa Station"],
+[13,-1,"PPL","Concordia Station"],
+[13,-1,"PPL","Law-Racoviță-Negoiță Station","Law-Racovita-Negoita Station"],
+[8,-1,"PPL","Edgeworth David Base"],
+[7,-1,"PPL","Vechernyaya Base"],
+[6,-1,"PPL","Collins Station"],
+[6,-1,"PPL","Kohnen Station"],
+[6,-1,"PPL","Sky Blu"],
+[0,-1,"PPLL","Kunlun Qundao"]
 ]
 }

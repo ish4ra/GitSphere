@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"GB","iso3":"GBR","population":68265209,"name":"United Kingdom","slug":"united-kingdom"},
-"counts": {"countryNames":26,"admins":221,"places":9548,"placesWithPopulation":5249,"cscStates":221,"cscCities":3881,"geonamesPlaces":5922,"geonamesAlternateNames":15702},
+"counts": {"countryNames":26,"admins":221,"places":9548,"placesWithPopulation":5249,"cscStates":221,"cscCities":3881,"geonamesPlaces":5922,"geonamesAlternateNames":15702,"geonamesSupplementPlaces":0},
 "names": ["Birleşik Krallik","Britain","England","Great Britain","Northern Ireland","Regno Unito","Reino Unido","Rouantelezh-Unanet","Royaume-Uni","Scotland","U.K.","Ujedinjeno Kraljevstvo","UK","United Kingdom","Vereinigtes Königreich","Verenigd Koninkrijk","Wales","Wielka Brytania","Великобритания","Сполучене Королівство","المملكة المتحدة","بریتانیای کبیر و ایرلند شمالی","यूनाइटेड किंगडम","영국","イギリス","英国"],
 "admins": [
 ["ABE","council area","Aberdeen"],

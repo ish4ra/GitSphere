@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"MC","iso3":"MCO","population":38423,"name":"Monaco","slug":"monaco"},
-"counts": {"countryNames":13,"admins":18,"places":29,"placesWithPopulation":12,"cscStates":17,"cscCities":17,"geonamesPlaces":12,"geonamesAlternateNames":45},
+"counts": {"countryNames":13,"admins":18,"places":31,"placesWithPopulation":12,"cscStates":17,"cscCities":17,"geonamesPlaces":12,"geonamesAlternateNames":45,"geonamesSupplementPlaces":2},
 "names": ["Monabr","Monaco","Mónaco","Mônaco","Monako","Principato di Monaco","Монако","موناكو","موناکو","मोनाको","모나코","モナコ","摩纳哥"],
 "admins": [
 ["FO","quarter","Fontvieille"],
@@ -36,6 +36,7 @@
 [2545,8,"PPLX","Les Révoires","Les Revoires"],
 [2026,8,"PPLX","Larvotto"],
 [1064,8,"PPLX","Monaco-Ville"],
+[0,8,"PPLX","Carré d'Or","Carre d'Or"],
 [0,0,"","Fontvieille"],
 [0,1,"","Jardin Exotique"],
 [0,2,"","La Colle"],
@@ -49,6 +50,7 @@
 [0,11,"","Monte-Carlo"],
 [0,12,"","Moulins"],
 [0,13,"","Port-Hercule"],
+[0,8,"PPLX","Port-Hercule"],
 [0,14,"","Saint-Roman"],
 [0,15,"","Sainte-Dévote"],
 [0,16,"","Spélugues"],

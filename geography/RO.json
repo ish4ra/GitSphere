@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"RO","iso3":"ROU","population":19036031,"name":"Romania","slug":"romania"},
-"counts": {"countryNames":20,"admins":42,"places":10321,"placesWithPopulation":6936,"cscStates":42,"cscCities":7949,"geonamesPlaces":7149,"geonamesAlternateNames":20452},
+"counts": {"countryNames":20,"admins":42,"places":10321,"placesWithPopulation":6936,"cscStates":42,"cscCities":7949,"geonamesPlaces":7149,"geonamesAlternateNames":20452,"geonamesSupplementPlaces":0},
 "names": ["Roemenië","Romania","România","Romanya","Roménia","Romênia","Roumania","Roumanie","Rumania","Rumänien","Rumunia","Rumunjska","Румунія","Румыния","رومانيا","رومانی","रोमानिया","루마니아","ルーマニア","罗马尼亚"],
 "admins": [
 ["AB","department","Alba","Alba County"],

@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"VA","iso3":"VAT","population":882,"name":"Vatican City","slug":"vatican-city"},
-"counts": {"countryNames":19,"admins":0,"places":1,"placesWithPopulation":1,"cscStates":0,"cscCities":0,"geonamesPlaces":1,"geonamesAlternateNames":25},
+"counts": {"countryNames":19,"admins":0,"places":1,"placesWithPopulation":1,"cscStates":0,"cscCities":0,"geonamesPlaces":1,"geonamesAlternateNames":25,"geonamesSupplementPlaces":0},
 "names": ["Heilige Stoel","Heiliger Stuhl","Państwo Watykańskie (Stolica Apostolska)","Santa Sede","Sveta Stolica","Vatican","Vatican City","Vatican City State (Holy See)","Vaticano","Vatikan","voir Saint","Город-государство Ватикан (Святой Престол)","Держава-місто Ватикан (Святий Престол)","سریر مقدس","ولاية مدينة الفاتيكان (الكرسي الرسولي)","वेटिकन सिटी स्टेट (पवित्र देखें)","바티칸 시국","梵蒂冈","聖座"],
 "admins": [
 

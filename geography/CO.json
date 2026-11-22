@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"CO","iso3":"COL","population":53057212,"name":"Colombia","slug":"colombia"},
-"counts": {"countryNames":16,"admins":34,"places":1210,"placesWithPopulation":1062,"cscStates":33,"cscCities":1122,"geonamesPlaces":1180,"geonamesAlternateNames":3510},
+"counts": {"countryNames":16,"admins":34,"places":1210,"placesWithPopulation":1062,"cscStates":33,"cscCities":1122,"geonamesPlaces":1180,"geonamesAlternateNames":3510,"geonamesSupplementPlaces":0},
 "names": ["Colombia","Colômbia","Colombie","Kolombia","Kolombiya","Kolumbia","Kolumbien","Kolumbija","Колумбия","Колумбія","كولومبيا","کلمبیا","कोलंबिया","콜롬비아","コロンビア","哥伦比亚"],
 "admins": [
 ["AMA","department","Amazonas","Amazonas Department"],

@@ -1,7 +1,7 @@
 {
 "schemaVersion": 2,
 "country": {"code":"CZ","iso3":"CZE","population":10876875,"name":"Czechia","slug":"czechia"},
-"counts": {"countryNames":21,"admins":98,"places":4003,"placesWithPopulation":2741,"cscStates":90,"cscCities":1355,"geonamesPlaces":2781,"geonamesAlternateNames":6866},
+"counts": {"countryNames":21,"admins":98,"places":4003,"placesWithPopulation":2741,"cscStates":90,"cscCities":1355,"geonamesPlaces":2781,"geonamesAlternateNames":6866,"geonamesSupplementPlaces":0},
 "names": ["Çekya","Češka","Česká republika","Czech Republic","Czechia","Repubblica Ceca","República Checa","República Tcheca","Republika Czeska","République tchèque","Tchekia","Tschechische Republik","Tsjechië","Чеська Республіка","Чешская Республика","الجمهورية التشيكية","جمهوری چک","चेक रिपब्लिक","체코","チェコ","捷克"],
 "admins": [
 ["","district","Benešov"],
