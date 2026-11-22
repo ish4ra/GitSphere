@@ -5,7 +5,7 @@
 "country": {"code":"BE","name":"Belgium","slug":"belgium"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":273,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":273,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Real-Time-Voice-Cloning","nameWithOwner":"CorentinJ/Real-Time-Voice-Cloning","url":"https://github.com/CorentinJ/Real-Time-Voice-Cloning","description":null,"stars":60166,"forks":9379,"primaryLanguage":"Python","license":{"spdxId":"NOASSERTION"},"createdAt":"2019-05-26T08:56:15Z","pushedAt":"2026-03-09T10:31:58Z","archived":false,"owner":{"login":"CorentinJ","name":"Corentin Jemine","type":"User","url":"https://github.com/CorentinJ","location":"Belgium","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"odoo","nameWithOwner":"odoo/odoo","url":"https://github.com/odoo/odoo","description":null,"stars":54817,"forks":33920,"primaryLanguage":"Python","license":{"spdxId":"NOASSERTION"},"createdAt":"2014-05-13T15:38:58Z","pushedAt":"2026-10-04T04:03:32Z","archived":false,"owner":{"login":"odoo","name":"Odoo","type":"Organization","url":"https://github.com/odoo","location":"Belgium","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Learning-from-Data-Solutions","nameWithOwner":"ppaquay/Learning-from-Data-Solutions","url":"https://github.com/ppaquay/Learning-from-Data-Solutions","description":null,"stars":276,"forks":69,"primaryLanguage":null,"license":null,"createdAt":"2018-04-08T16:01:19Z","pushedAt":"2020-03-15T17:36:03Z","archived":false,"owner":{"login":"ppaquay","name":"Pierre Paquay","type":"User","url":"https://github.com/ppaquay","location":"Belgique","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Turn-Off-the-Lights-browser-extension","nameWithOwner":"turnoffthelights/Turn-Off-the-Lights-browser-extension","url":"https://github.com/turnoffthelights/Turn-Off-the-Lights-browser-extension","description":null,"stars":273,"forks":100,"primaryLanguage":"JavaScript","license":{"spdxId":"GPL-2.0"},"createdAt":"2024-10-02T11:05:01Z","pushedAt":"2026-10-12T18:14:32Z","archived":false,"owner":{"login":"turnoffthelights","name":"Turn Off the Lights","type":"Organization","url":"https://github.com/turnoffthelights","location":"Antwerpen, Belgium","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true}
 ],
-"contentHash": "17e8bd12c0116d53",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "d429e535491d5b23",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

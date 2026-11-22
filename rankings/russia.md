@@ -49,7 +49,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
-- **Global star scan:** every public non-fork repository with at least **—** stars has been enumerated (current cycle in progress).
+- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 4,787 stars; 3 attributed candidates are tracked.
 - 3 entries were carried over from the previous dataset and are pending revalidation.
 - **Location discovery:** term 0 of 0 in round 1.

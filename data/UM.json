@@ -5,7 +5,7 @@
 "country": {"code":"UM","name":"U.S. Outlying Islands","slug":"u-s-outlying-islands"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":8,"ownerExpansionBacklog":8,"candidates":8,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":8,"ownerExpansionBacklog":8,"candidates":8,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"NintenDeck","nameWithOwner":"realjarvis69/NintenDeck","url":"https://github.com/realjarvis69/NintenDeck","description":null,"stars":21,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2026-04-28T17:27:18Z","pushedAt":"2026-09-08T18:09:14Z","archived":false,"owner":{"login":"realjarvis69","name":"real_jarvis","type":"User","url":"https://github.com/realjarvis69","location":"Jarvis Island","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"tui_tools","nameWithOwner":"BakingLiberteZ/tui_tools","url":"https://github.com/BakingLiberteZ/tui_tools","description":null,"stars":4,"forks":0,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2026-01-20T21:14:02Z","pushedAt":"2026-04-13T07:19:07Z","archived":false,"owner":{"login":"BakingLiberteZ","name":"LibertéZ Baker","type":"User","url":"https://github.com/BakingLiberteZ","location":"Baker Island","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
@@ -16,8 +16,8 @@
   {"rank":7,"id":null,"name":"cokies.xyz","nameWithOwner":"faykhet/cokies.xyz","url":"https://github.com/faykhet/cokies.xyz","description":null,"stars":0,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2025-02-06T12:29:49Z","pushedAt":"2025-02-15T17:37:05Z","archived":false,"owner":{"login":"faykhet","name":"fay","type":"User","url":"https://github.com/faykhet","location":"Wake Island","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
   {"rank":8,"id":null,"name":"Yinn","nameWithOwner":"IiDxmon/Yinn","url":"https://github.com/IiDxmon/Yinn","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-05-29T10:24:40Z","pushedAt":"2023-05-29T10:24:41Z","archived":false,"owner":{"login":"IiDxmon","name":"Isolated Island Demon 𓄋","type":"User","url":"https://github.com/IiDxmon","location":"Wake Island","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-27","pendingRevalidation":true}
 ],
-"contentHash": "759881727c91b513",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "34cca649a396a1e4",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-27",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

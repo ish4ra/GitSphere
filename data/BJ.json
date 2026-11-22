@@ -5,7 +5,7 @@
 "country": {"code":"BJ","name":"Benin","slug":"benin"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":341,"legacyEntriesPendingRevalidation":8,"ownerExpansionBacklog":0,"candidates":8,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":341,"legacyEntriesPendingRevalidation":8,"ownerExpansionBacklog":0,"candidates":8,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"FlutterEbookApp","nameWithOwner":"JideGuru/FlutterEbookApp","url":"https://github.com/JideGuru/FlutterEbookApp","description":null,"stars":3333,"forks":919,"primaryLanguage":"Dart","license":{"spdxId":"Apache-2.0"},"createdAt":"2020-01-10T13:50:02Z","pushedAt":"2024-08-07T16:11:09Z","archived":false,"owner":{"login":"JideGuru","name":"Festus Olusegun","type":"User","url":"https://github.com/JideGuru","location":"Cotonou, Benin.","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-10-14","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"FlutterSocialAppUIKit","nameWithOwner":"JideGuru/FlutterSocialAppUIKit","url":"https://github.com/JideGuru/FlutterSocialAppUIKit","description":null,"stars":1984,"forks":506,"primaryLanguage":"Dart","license":{"spdxId":"WTFPL"},"createdAt":"2019-07-14T16:20:04Z","pushedAt":"2024-03-22T21:59:49Z","archived":false,"owner":{"login":"JideGuru","name":"Festus Olusegun","type":"User","url":"https://github.com/JideGuru","location":"Cotonou, Benin.","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-10-14","pendingRevalidation":true},
@@ -16,8 +16,8 @@
   {"rank":7,"id":null,"name":"FileX","nameWithOwner":"JideGuru/FileX","url":"https://github.com/JideGuru/FileX","description":null,"stars":477,"forks":123,"primaryLanguage":"Dart","license":{"spdxId":"Apache-2.0"},"createdAt":"2020-01-26T22:45:20Z","pushedAt":"2022-05-23T00:02:57Z","archived":true,"owner":{"login":"JideGuru","name":"Festus Olusegun","type":"User","url":"https://github.com/JideGuru","location":"Cotonou, Benin.","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-10-14","pendingRevalidation":true},
   {"rank":8,"id":null,"name":"flutter_drawing_board","nameWithOwner":"JideGuru/flutter_drawing_board","url":"https://github.com/JideGuru/flutter_drawing_board","description":null,"stars":341,"forks":96,"primaryLanguage":"Dart","license":{"spdxId":"Apache-2.0"},"createdAt":"2022-10-18T21:13:48Z","pushedAt":"2024-08-17T01:03:07Z","archived":false,"owner":{"login":"JideGuru","name":"Festus Olusegun","type":"User","url":"https://github.com/JideGuru","location":"Cotonou, Benin.","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-10-14","pendingRevalidation":true}
 ],
-"contentHash": "3cacdca4bffb77b8",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "0c15a9443f513140",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-14",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"SR","name":"Suriname","slug":"suriname"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"pulsar","nameWithOwner":"giannisanni/pulsar","url":"https://github.com/giannisanni/pulsar","description":null,"stars":229,"forks":28,"primaryLanguage":"Rust","license":{"spdxId":"NOASSERTION"},"createdAt":"2026-07-13T04:08:14Z","pushedAt":"2026-09-01T17:59:13Z","archived":false,"owner":{"login":"giannisanni","name":"Gianni Sanrochman","type":"User","url":"https://github.com/giannisanni","location":"Paramaribo, Suriname","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"QuantumGate","nameWithOwner":"kareldonk/QuantumGate","url":"https://github.com/kareldonk/QuantumGate","description":null,"stars":117,"forks":23,"primaryLanguage":"C++","license":{"spdxId":"MIT"},"createdAt":"2018-05-08T21:08:14Z","pushedAt":"2022-09-10T20:22:49Z","archived":false,"owner":{"login":"kareldonk","name":"Karel Donk","type":"User","url":"https://github.com/kareldonk","location":"Suriname","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"voeding","nameWithOwner":"dcramere/voeding","url":"https://github.com/dcramere/voeding","description":null,"stars":0,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2026-09-29T01:59:53Z","pushedAt":"2026-09-30T17:32:51Z","archived":false,"owner":{"login":"dcramere","name":"Dino Cramer","type":"User","url":"https://github.com/dcramere","location":"Suriname","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"music-player","nameWithOwner":"denzllll/music-player","url":"https://github.com/denzllll/music-player","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-06-11T16:45:56Z","pushedAt":"2023-06-11T16:45:57Z","archived":false,"owner":{"login":"denzllll","name":"Denzel Rasidin","type":"User","url":"https://github.com/denzllll","location":"Suriname","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "60196621ca19cd6d",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "8bdef5763fc8c82e",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

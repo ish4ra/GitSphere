@@ -5,7 +5,7 @@
 "country": {"code":"MT","name":"Malta","slug":"malta"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":3,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":3,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"free-for-dev","nameWithOwner":"ripienaar/free-for-dev","url":"https://github.com/ripienaar/free-for-dev","description":null,"stars":139227,"forks":14711,"primaryLanguage":"HTML","license":null,"createdAt":"2015-03-18T21:06:26Z","pushedAt":"2026-10-05T18:59:59Z","archived":false,"owner":{"login":"ripienaar","name":"R.I.Pienaar","type":"User","url":"https://github.com/ripienaar","location":"Malta","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"mutant","nameWithOwner":"mbj/mutant","url":"https://github.com/mbj/mutant","description":null,"stars":2206,"forks":161,"primaryLanguage":"Ruby","license":{"spdxId":"NOASSERTION"},"createdAt":"2012-07-23T14:18:46Z","pushedAt":"2026-10-02T21:53:15Z","archived":false,"owner":{"login":"mbj","name":"Markus Schirp","type":"User","url":"https://github.com/mbj","location":"Malta","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"CIS1221","nameWithOwner":"abelgc-cleverbit/CIS1221","url":"https://github.com/abelgc-cleverbit/CIS1221","description":null,"stars":3,"forks":0,"primaryLanguage":"C#","license":null,"createdAt":"2022-11-18T12:36:25Z","pushedAt":"2024-12-11T19:13:06Z","archived":false,"owner":{"login":"abelgc-cleverbit","name":"Abel Garcia","type":"User","url":"https://github.com/abelgc-cleverbit","location":"Malta","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"verifika","nameWithOwner":"alexportelli12/verifika","url":"https://github.com/alexportelli12/verifika","description":null,"stars":3,"forks":0,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2026-10-12T14:40:17Z","pushedAt":"2026-10-26T06:40:19Z","archived":false,"owner":{"login":"alexportelli12","name":"Alex Portelli","type":"User","url":"https://github.com/alexportelli12","location":"Malta","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "d88d88d916e09579",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "bea6a044099cffd9",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-14",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"AD","name":"Andorra","slug":"andorra"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"SWRevealViewController","nameWithOwner":"John-Lluch/SWRevealViewController","url":"https://github.com/John-Lluch/SWRevealViewController","description":null,"stars":4473,"forks":962,"primaryLanguage":"Objective-C","license":{"spdxId":"NOASSERTION"},"createdAt":"2012-12-28T19:01:59Z","pushedAt":"2022-03-29T16:25:03Z","archived":false,"owner":{"login":"John-Lluch","name":"Joan Lluch","type":"User","url":"https://github.com/John-Lluch","location":"Escaldes - Andorra","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"orbital","nameWithOwner":"AlexAltea/orbital","url":"https://github.com/AlexAltea/orbital","description":null,"stars":3649,"forks":272,"primaryLanguage":"C","license":{"spdxId":"MIT"},"createdAt":"2017-10-28T16:55:52Z","pushedAt":"2024-04-06T23:38:08Z","archived":false,"owner":{"login":"AlexAltea","name":"Alexandro Sanchez Bach","type":"User","url":"https://github.com/AlexAltea","location":"Les Escaldes, Andorra","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"fscopy","nameWithOwner":"FaZeTitans/fscopy","url":"https://github.com/FaZeTitans/fscopy","description":null,"stars":2,"forks":0,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2025-12-29T23:50:26Z","pushedAt":"2026-03-06T18:08:49Z","archived":false,"owner":{"login":"FaZeTitans","name":"Axel DA SILVA","type":"User","url":"https://github.com/FaZeTitans","location":"Andorra","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"hacktools","nameWithOwner":"jrlambea/hacktools","url":"https://github.com/jrlambea/hacktools","description":null,"stars":2,"forks":0,"primaryLanguage":"PowerShell","license":null,"createdAt":"2014-05-23T22:42:58Z","pushedAt":"2014-07-30T19:55:27Z","archived":false,"owner":{"login":"jrlambea","name":"Newbie","type":"User","url":"https://github.com/jrlambea","location":"Andorra","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "2bb20eddeb1e679f",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "47ff3e6736868f82",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

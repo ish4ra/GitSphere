@@ -5,7 +5,7 @@
 "country": {"code":"CH","name":"Switzerland","slug":"switzerland"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":3415,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":3415,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"docling","nameWithOwner":"docling-project/docling","url":"https://github.com/docling-project/docling","description":null,"stars":68344,"forks":4992,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2024-07-09T07:50:26Z","pushedAt":"2026-10-04T02:45:06Z","archived":false,"owner":{"login":"docling-project","name":"Docling Project","type":"Organization","url":"https://github.com/docling-project","location":"Switzerland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"powerlevel10k","nameWithOwner":"romkatv/powerlevel10k","url":"https://github.com/romkatv/powerlevel10k","description":null,"stars":55193,"forks":2448,"primaryLanguage":"Shell","license":{"spdxId":"MIT"},"createdAt":"2019-02-24T19:09:45Z","pushedAt":"2026-09-14T08:10:04Z","archived":false,"owner":{"login":"romkatv","name":"Roman Perepelitsa","type":"User","url":"https://github.com/romkatv","location":"Switzerland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Docker-Traefik","nameWithOwner":"SimpleHomelab/Docker-Traefik","url":"https://github.com/SimpleHomelab/Docker-Traefik","description":null,"stars":3450,"forks":637,"primaryLanguage":"Shell","license":{"spdxId":"MIT"},"createdAt":"2019-11-07T20:00:58Z","pushedAt":"2025-10-15T22:02:57Z","archived":false,"owner":{"login":"SimpleHomelab","name":"SimpleHomelab","type":"User","url":"https://github.com/SimpleHomelab","location":"Lausanne, Switzerland","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"xlwings","nameWithOwner":"xlwings/xlwings","url":"https://github.com/xlwings/xlwings","description":null,"stars":3415,"forks":537,"primaryLanguage":"Python","license":{"spdxId":"NOASSERTION"},"createdAt":"2014-03-17T13:03:20Z","pushedAt":"2026-09-27T19:56:22Z","archived":false,"owner":{"login":"xlwings","name":"xlwings","type":"Organization","url":"https://github.com/xlwings","location":"Switzerland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "1f435ce0023a5021",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "d1d1f9c512b982b0",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

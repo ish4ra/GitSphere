@@ -5,7 +5,7 @@
 "country": {"code":"GE","name":"Georgia","slug":"georgia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"databasus","nameWithOwner":"databasus/databasus","url":"https://github.com/databasus/databasus","description":null,"stars":8735,"forks":546,"primaryLanguage":"TypeScript","license":{"spdxId":"Apache-2.0"},"createdAt":"2025-06-05T13:10:03Z","pushedAt":"2026-09-22T19:20:44Z","archived":false,"owner":{"login":"databasus","name":"Databasus","type":"User","url":"https://github.com/databasus","location":"Tbilisi, Georgin","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"sinopia","nameWithOwner":"rlidwka/sinopia","url":"https://github.com/rlidwka/sinopia","description":null,"stars":5472,"forks":628,"primaryLanguage":"JavaScript","license":null,"createdAt":"2013-05-22T07:41:29Z","pushedAt":"2024-02-25T06:23:49Z","archived":false,"owner":{"login":"rlidwka","name":"Alex Kocharin","type":"User","url":"https://github.com/rlidwka","location":"Tbilisi, Georgia","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Yandex.News","nameWithOwner":"Grischmann/Yandex.News","url":"https://github.com/Grischmann/Yandex.News","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2022-10-03T07:02:45Z","pushedAt":"2026-01-16T08:59:44Z","archived":false,"owner":{"login":"Grischmann","name":"Stan","type":"User","url":"https://github.com/Grischmann","location":"Tbilisi, Georgia","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Dark","nameWithOwner":"iKraken/Dark","url":"https://github.com/iKraken/Dark","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2012-07-08T09:58:01Z","pushedAt":"2012-07-08T10:03:24Z","archived":false,"owner":{"login":"iKraken","name":"Aleko Kipshidze","type":"User","url":"https://github.com/iKraken","location":"Georgia, Kobuleti","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "6e55a116e0f06209",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "17f33cb36a4f2767",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

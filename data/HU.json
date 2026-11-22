@@ -5,7 +5,7 @@
 "country": {"code":"HU","name":"Hungary","slug":"hungary"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":578,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":578,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"ZeroNet","nameWithOwner":"HelloZeroNet/ZeroNet","url":"https://github.com/HelloZeroNet/ZeroNet","description":null,"stars":18768,"forks":2284,"primaryLanguage":"JavaScript","license":{"spdxId":"NOASSERTION"},"createdAt":"2015-01-12T00:41:38Z","pushedAt":"2024-01-31T07:47:58Z","archived":false,"owner":{"login":"HelloZeroNet","name":"ZeroNet","type":"User","url":"https://github.com/HelloZeroNet","location":"Budapest, Hungary","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"wuzz","nameWithOwner":"asciimoo/wuzz","url":"https://github.com/asciimoo/wuzz","description":null,"stars":10737,"forks":407,"primaryLanguage":"Go","license":{"spdxId":"AGPL-3.0"},"createdAt":"2017-01-30T21:22:00Z","pushedAt":"2026-08-04T12:36:56Z","archived":false,"owner":{"login":"asciimoo","name":"Adam Tauber","type":"User","url":"https://github.com/asciimoo","location":"Budapest, Hungary","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"JwtAuditor","nameWithOwner":"dr34mhacks/JwtAuditor","url":"https://github.com/dr34mhacks/JwtAuditor","description":null,"stars":593,"forks":93,"primaryLanguage":"HTML","license":{"spdxId":"Apache-2.0"},"createdAt":"2025-07-08T07:56:26Z","pushedAt":"2026-07-11T16:35:42Z","archived":false,"owner":{"login":"dr34mhacks","name":"Siddharth Joshi","type":"User","url":"https://github.com/dr34mhacks","location":"Desk","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"IotWebConf","nameWithOwner":"prampec/IotWebConf","url":"https://github.com/prampec/IotWebConf","description":null,"stars":578,"forks":145,"primaryLanguage":"C++","license":{"spdxId":"MIT"},"createdAt":"2016-12-10T15:50:57Z","pushedAt":"2025-03-14T21:41:00Z","archived":false,"owner":{"login":"prampec","name":"Balázs Kelemen","type":"User","url":"https://github.com/prampec","location":"Hungary","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "7ba4732def423a3a",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "c4bbd8aa622e23a8",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

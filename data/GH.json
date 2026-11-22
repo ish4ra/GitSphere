@@ -5,7 +5,7 @@
 "country": {"code":"GH","name":"Ghana","slug":"ghana"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"QuickApp","nameWithOwner":"emonney/QuickApp","url":"https://github.com/emonney/QuickApp","description":null,"stars":1352,"forks":623,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2017-02-23T23:22:36Z","pushedAt":"2026-09-01T00:54:46Z","archived":false,"owner":{"login":"emonney","name":"Ebenezer Monney","type":"User","url":"https://github.com/emonney","location":"Ghana","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"timber","nameWithOwner":"kossisoroyce/timber","url":"https://github.com/kossisoroyce/timber","description":null,"stars":689,"forks":23,"primaryLanguage":"Python","license":{"spdxId":"NOASSERTION"},"createdAt":"2026-02-27T23:27:36Z","pushedAt":"2026-04-16T16:38:25Z","archived":false,"owner":{"login":"kossisoroyce","name":"Kossiso Udodi","type":"User","url":"https://github.com/kossisoroyce","location":"Accra","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"CanSAT-GH","nameWithOwner":"ErictronicsGH/CanSAT-GH","url":"https://github.com/ErictronicsGH/CanSAT-GH","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2022-08-17T09:29:30Z","pushedAt":"2022-08-17T13:48:15Z","archived":false,"owner":{"login":"ErictronicsGH","name":"Erictronics Systems","type":"User","url":"https://github.com/ErictronicsGH","location":"Ghana","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Fietsi1Patrick","nameWithOwner":"Fietsi1Patrick/Fietsi1Patrick","url":"https://github.com/Fietsi1Patrick/Fietsi1Patrick","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2022-03-08T15:18:20Z","pushedAt":"2022-03-08T15:21:42Z","archived":false,"owner":{"login":"Fietsi1Patrick","name":"Patrick","type":"User","url":"https://github.com/Fietsi1Patrick","location":"Kumasi, Ghana","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "4a31a6f4cb7980f0",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "252d92bfbd1321da",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

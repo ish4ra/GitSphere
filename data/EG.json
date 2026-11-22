@@ -5,7 +5,7 @@
 "country": {"code":"EG","name":"Egypt","slug":"egypt"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Scrapling","nameWithOwner":"D4Vinci/Scrapling","url":"https://github.com/D4Vinci/Scrapling","description":null,"stars":85667,"forks":8774,"primaryLanguage":"Python","license":{"spdxId":"BSD-3-Clause"},"createdAt":"2024-10-13T20:29:53Z","pushedAt":"2026-10-04T19:47:53Z","archived":false,"owner":{"login":"D4Vinci","name":"Karim shoair","type":"User","url":"https://github.com/D4Vinci","location":"Egypt","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Sublist3r","nameWithOwner":"aboul3la/Sublist3r","url":"https://github.com/aboul3la/Sublist3r","description":null,"stars":11050,"forks":2214,"primaryLanguage":"Python","license":{"spdxId":"GPL-2.0"},"createdAt":"2015-12-15T00:55:25Z","pushedAt":"2024-08-02T00:00:30Z","archived":false,"owner":{"login":"aboul3la","name":"Ahmed Aboul-Ela","type":"User","url":"https://github.com/aboul3la","location":"Egypt","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"IMAM","nameWithOwner":"AhmedYahia2000/IMAM","url":"https://github.com/AhmedYahia2000/IMAM","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2018-12-07T14:33:17Z","pushedAt":"2018-12-08T20:28:47Z","archived":false,"owner":{"login":"AhmedYahia2000","name":"aiEgypt","type":"User","url":"https://github.com/AhmedYahia2000","location":"Alexandria, Egypt","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"SAeroRP","nameWithOwner":"amiralex32/SAeroRP","url":"https://github.com/amiralex32/SAeroRP","description":null,"stars":1,"forks":0,"primaryLanguage":"C++","license":null,"createdAt":"2016-05-02T13:06:04Z","pushedAt":"2016-05-02T14:09:10Z","archived":false,"owner":{"login":"amiralex32","name":null,"type":"User","url":"https://github.com/amiralex32","location":"Egypt,Alexandria","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "10ab4e9f7c060283",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "8eb256e22d8c8e73",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"AM","name":"Armenia","slug":"armenia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":3,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":3,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"nopCommerce","nameWithOwner":"nopSolutions/nopCommerce","url":"https://github.com/nopSolutions/nopCommerce","description":null,"stars":10162,"forks":6030,"primaryLanguage":"C#","license":{"spdxId":"NOASSERTION"},"createdAt":"2014-04-09T05:47:50Z","pushedAt":"2026-10-02T08:25:00Z","archived":false,"owner":{"login":"nopSolutions","name":"Nop Solutions","type":"Organization","url":"https://github.com/nopSolutions","location":"Armenia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"monaco-react","nameWithOwner":"suren-atoyan/monaco-react","url":"https://github.com/suren-atoyan/monaco-react","description":null,"stars":4749,"forks":321,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2019-06-16T07:46:31Z","pushedAt":"2026-04-20T22:20:02Z","archived":false,"owner":{"login":"suren-atoyan","name":"Suren Atoyan","type":"User","url":"https://github.com/suren-atoyan","location":"Yerevan, Armenia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"MemoryGame","nameWithOwner":"DavMovsesyan2002/MemoryGame","url":"https://github.com/DavMovsesyan2002/MemoryGame","description":null,"stars":3,"forks":1,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2023-02-11T09:36:04Z","pushedAt":"2023-02-11T10:10:53Z","archived":false,"owner":{"login":"DavMovsesyan2002","name":null,"type":"User","url":"https://github.com/DavMovsesyan2002","location":"Armenia, Yerevan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"WBBANetworking","nameWithOwner":"kupriyanovNik/WBBANetworking","url":"https://github.com/kupriyanovNik/WBBANetworking","description":null,"stars":3,"forks":0,"primaryLanguage":"Swift","license":{"spdxId":"MIT"},"createdAt":"2025-02-03T20:40:15Z","pushedAt":"2025-02-03T20:43:40Z","archived":false,"owner":{"login":"kupriyanovNik","name":"Nikita","type":"User","url":"https://github.com/kupriyanovNik","location":"Yerevan, Armenia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "a03dce4c196004d4",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "4537a39a35af2df7",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

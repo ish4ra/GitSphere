@@ -5,7 +5,7 @@
 "country": {"code":"NG","name":"Nigeria","slug":"nigeria"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":15,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":15,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"colima","nameWithOwner":"abiosoft/colima","url":"https://github.com/abiosoft/colima","description":null,"stars":31090,"forks":622,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2021-09-04T09:52:22Z","pushedAt":"2026-10-02T14:39:13Z","archived":false,"owner":{"login":"abiosoft","name":"Abiola Ibrahim","type":"User","url":"https://github.com/abiosoft","location":"Nigeria","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"awesome-mcp-servers","nameWithOwner":"appcypher/awesome-mcp-servers","url":"https://github.com/appcypher/awesome-mcp-servers","description":null,"stars":5785,"forks":2456,"primaryLanguage":null,"license":null,"createdAt":"2024-11-28T23:53:45Z","pushedAt":"2026-05-06T08:04:35Z","archived":true,"owner":{"login":"appcypher","name":"Stephen Akinyemi","type":"User","url":"https://github.com/appcypher","location":"Lagos, Nigeria","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"alx-low_level_programming","nameWithOwner":"sammykingx/alx-low_level_programming","url":"https://github.com/sammykingx/alx-low_level_programming","description":null,"stars":16,"forks":33,"primaryLanguage":"C","license":null,"createdAt":"2022-06-03T00:49:05Z","pushedAt":"2022-11-13T11:14:19Z","archived":false,"owner":{"login":"sammykingx","name":"Iyebhora Samuel E.","type":"User","url":"https://github.com/sammykingx","location":"Lagos, Nigeria","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"crypto-data-pipeline","nameWithOwner":"godstime-dev/crypto-data-pipeline","url":"https://github.com/godstime-dev/crypto-data-pipeline","description":null,"stars":15,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2026-06-03T19:34:00Z","pushedAt":"2026-07-19T08:24:29Z","archived":false,"owner":{"login":"godstime-dev","name":"Godstime","type":"User","url":"https://github.com/godstime-dev","location":"Nigeria","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "18d62f75b6d29584",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "ae7602665622bb60",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

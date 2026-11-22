@@ -5,7 +5,7 @@
 "country": {"code":"JO","name":"Jordan","slug":"jordan"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"openfang","nameWithOwner":"RightNow-AI/openfang","url":"https://github.com/RightNow-AI/openfang","description":null,"stars":18208,"forks":2288,"primaryLanguage":"Rust","license":{"spdxId":"Apache-2.0"},"createdAt":"2026-02-24T23:12:38Z","pushedAt":"2026-07-02T08:13:12Z","archived":false,"owner":{"login":"RightNow-AI","name":"RightNow","type":"Organization","url":"https://github.com/RightNow-AI","location":"Jordan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"gmail-account-creator","nameWithOwner":"ShadowHackrs/gmail-account-creator","url":"https://github.com/ShadowHackrs/gmail-account-creator","description":null,"stars":5185,"forks":869,"primaryLanguage":"Python","license":{"spdxId":"NOASSERTION"},"createdAt":"2026-01-14T18:42:23Z","pushedAt":"2026-09-16T21:16:41Z","archived":false,"owner":{"login":"ShadowHackrs","name":"Shadow Hacker","type":"User","url":"https://github.com/ShadowHackrs","location":"jordan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"HamodeMobiAddPro","nameWithOwner":"Dev-Hamode/HamodeMobiAddPro","url":"https://github.com/Dev-Hamode/HamodeMobiAddPro","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2014-07-14T09:30:47Z","pushedAt":"2014-07-14T09:30:47Z","archived":false,"owner":{"login":"Dev-Hamode","name":"Dev-Hamode","type":"User","url":"https://github.com/Dev-Hamode","location":"Jordan-Amman","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"FMC-REST-API-Script","nameWithOwner":"Dtmpro/FMC-REST-API-Script","url":"https://github.com/Dtmpro/FMC-REST-API-Script","description":null,"stars":1,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2018-09-20T01:04:08Z","pushedAt":"2018-10-02T12:41:27Z","archived":false,"owner":{"login":"Dtmpro","name":"DTMDENNIS","type":"User","url":"https://github.com/Dtmpro","location":"Jordan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "d982f134acb16461",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "6d113c3dfb5b2ac9",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-15",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

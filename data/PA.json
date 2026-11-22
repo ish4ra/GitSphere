@@ -5,7 +5,7 @@
 "country": {"code":"PA","name":"Panama","slug":"panama"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"codeigniter-payments","nameWithOwner":"calvinfroedge/codeigniter-payments","url":"https://github.com/calvinfroedge/codeigniter-payments","description":null,"stars":244,"forks":66,"primaryLanguage":"PHP","license":null,"createdAt":"2011-07-02T07:30:49Z","pushedAt":"2015-05-21T15:17:17Z","archived":false,"owner":{"login":"calvinfroedge","name":"Calvin Froedge","type":"User","url":"https://github.com/calvinfroedge","location":"Panama","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"instagram-media-scraper","nameWithOwner":"ahmedrangel/instagram-media-scraper","url":"https://github.com/ahmedrangel/instagram-media-scraper","description":null,"stars":185,"forks":25,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2023-06-22T14:32:52Z","pushedAt":"2025-01-16T04:18:42Z","archived":false,"owner":{"login":"ahmedrangel","name":"Ahmed Rangel","type":"User","url":"https://github.com/ahmedrangel","location":"Panama","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"budget-project","nameWithOwner":"mitchellchris1/budget-project","url":"https://github.com/mitchellchris1/budget-project","description":null,"stars":1,"forks":3,"primaryLanguage":"JavaScript","license":null,"createdAt":"2017-10-06T01:27:52Z","pushedAt":"2017-10-06T02:08:17Z","archived":false,"owner":{"login":"mitchellchris1","name":"Christopher Mitchell","type":"User","url":"https://github.com/mitchellchris1","location":"Panama","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"clubdeleones","nameWithOwner":"saldana83/clubdeleones","url":"https://github.com/saldana83/clubdeleones","description":null,"stars":1,"forks":3,"primaryLanguage":"PHP","license":{"spdxId":"NOASSERTION"},"createdAt":"2019-06-10T13:33:04Z","pushedAt":"2026-07-07T15:06:15Z","archived":false,"owner":{"login":"saldana83","name":"Juan Jose Saldana-Barrios","type":"User","url":"https://github.com/saldana83","location":"Panama","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "d42aa5944bfe834e",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "0a3e9964c342c43a",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

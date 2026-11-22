@@ -5,7 +5,7 @@
 "country": {"code":"PG","name":"Papua New Guinea","slug":"papua-new-guinea"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":14,"ownerExpansionBacklog":14,"candidates":14,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":14,"ownerExpansionBacklog":14,"candidates":14,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"bakeysalce","nameWithOwner":"aiposnem400-Candycruz/bakeysalce","url":"https://github.com/aiposnem400-Candycruz/bakeysalce","description":null,"stars":1,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2026-03-05T01:30:23Z","pushedAt":"2026-03-05T01:54:04Z","archived":false,"owner":{"login":"aiposnem400-Candycruz","name":"Backey","type":"User","url":"https://github.com/aiposnem400-Candycruz","location":"Goroka","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Mimo-Python-Development-Project-Chatbot-1","nameWithOwner":"ishmaelmarshall/Mimo-Python-Development-Project-Chatbot-1","url":"https://github.com/ishmaelmarshall/Mimo-Python-Development-Project-Chatbot-1","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2025-03-14T06:15:40Z","pushedAt":"2025-04-13T02:22:10Z","archived":false,"owner":{"login":"ishmaelmarshall","name":"Ishmael Marshall","type":"User","url":"https://github.com/ishmaelmarshall","location":"Alotau","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -22,8 +22,8 @@
   {"rank":13,"id":null,"name":"training-app","nameWithOwner":"slecegui/training-app","url":"https://github.com/slecegui/training-app","description":null,"stars":0,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2026-09-10T21:59:51Z","pushedAt":"2026-09-11T23:03:58Z","archived":false,"owner":{"login":"slecegui","name":"Sergio Lecegui","type":"User","url":"https://github.com/slecegui","location":"Papúa Nueva Guinea","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":14,"id":null,"name":"Secure-Login-System-Project","nameWithOwner":"uogstd/Secure-Login-System-Project","url":"https://github.com/uogstd/Secure-Login-System-Project","description":null,"stars":0,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2024-11-28T01:58:57Z","pushedAt":"2024-11-28T12:18:59Z","archived":false,"owner":{"login":"uogstd","name":"UOG Student","type":"User","url":"https://github.com/uogstd","location":"Goroka","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "fdf57ed1205aa0ec",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "1bf34483197e4f2f",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"SK","name":"Slovakia","slug":"slovakia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":349,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":349,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"proxychains","nameWithOwner":"haad/proxychains","url":"https://github.com/haad/proxychains","description":null,"stars":7965,"forks":681,"primaryLanguage":"C","license":{"spdxId":"GPL-2.0"},"createdAt":"2011-02-25T12:27:05Z","pushedAt":"2024-06-08T02:20:54Z","archived":false,"owner":{"login":"haad","name":"Adam Hamsik","type":"User","url":"https://github.com/haad","location":"Bratislava Slovakia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"go-callvis","nameWithOwner":"ondrajz/go-callvis","url":"https://github.com/ondrajz/go-callvis","description":null,"stars":6528,"forks":428,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2016-09-03T11:31:46Z","pushedAt":"2026-03-30T16:22:18Z","archived":false,"owner":{"login":"ondrajz","name":"Ondrej Fabry","type":"User","url":"https://github.com/ondrajz","location":"Bratislava, Slovakia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"rext","nameWithOwner":"j91321/rext","url":"https://github.com/j91321/rext","description":null,"stars":349,"forks":103,"primaryLanguage":"Python","license":{"spdxId":"GPL-3.0"},"createdAt":"2015-05-31T19:43:33Z","pushedAt":"2016-12-25T18:55:52Z","archived":false,"owner":{"login":"j91321","name":"Ján Trenčanský","type":"User","url":"https://github.com/j91321","location":"Slovakia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"z-schema","nameWithOwner":"zaggino/z-schema","url":"https://github.com/zaggino/z-schema","description":null,"stars":349,"forks":91,"primaryLanguage":"TypeScript","license":{"spdxId":"NOASSERTION"},"createdAt":"2013-07-23T02:13:35Z","pushedAt":"2026-10-08T12:34:26Z","archived":false,"owner":{"login":"zaggino","name":"Martin Zagora","type":"User","url":"https://github.com/zaggino","location":"Trnava, Slovakia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true}
 ],
-"contentHash": "55f6ba583f8e23d1",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "ea899967933cfc5c",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

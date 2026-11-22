@@ -5,7 +5,7 @@
 "country": {"code":"PF","name":"French Polynesia","slug":"french-polynesia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":89,"ownerExpansionBacklog":89,"candidates":89,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":89,"ownerExpansionBacklog":89,"candidates":89,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"spring-addons","nameWithOwner":"ch4mpy/spring-addons","url":"https://github.com/ch4mpy/spring-addons","description":null,"stars":673,"forks":97,"primaryLanguage":"Java","license":{"spdxId":"Apache-2.0"},"createdAt":"2019-04-29T13:37:17Z","pushedAt":"2026-10-05T22:07:37Z","archived":false,"owner":{"login":"ch4mpy","name":"Jérôme Wacongne","type":"User","url":"https://github.com/ch4mpy","location":"Papeete, French Polynesia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-09","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"bilbox-comfyui","nameWithOwner":"syllebra/bilbox-comfyui","url":"https://github.com/syllebra/bilbox-comfyui","description":null,"stars":145,"forks":11,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2023-08-16T19:57:29Z","pushedAt":"2025-09-17T19:49:51Z","archived":false,"owner":{"login":"syllebra","name":"BilboX","type":"User","url":"https://github.com/syllebra","location":"French Polynesia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -97,8 +97,8 @@
   {"rank":88,"id":null,"name":"poker-planning","nameWithOwner":"yannkb/poker-planning","url":"https://github.com/yannkb/poker-planning","description":null,"stars":0,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2026-06-09T21:54:13Z","pushedAt":"2026-07-17T22:09:38Z","archived":false,"owner":{"login":"yannkb","name":"Yann Bouchereau","type":"User","url":"https://github.com/yannkb","location":"Papeete, French Polynesia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":89,"id":null,"name":"codesamples","nameWithOwner":"zozolito/codesamples","url":"https://github.com/zozolito/codesamples","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":{"spdxId":"MIT"},"createdAt":"2026-05-15T03:23:15Z","pushedAt":"2026-09-15T22:43:35Z","archived":false,"owner":{"login":"zozolito","name":"Teura ORBECK","type":"User","url":"https://github.com/zozolito","location":"French Polynesia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "208bbe2493b690ba",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "49ab40ae1a101ed4",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-09",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

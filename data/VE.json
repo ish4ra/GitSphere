@@ -5,7 +5,7 @@
 "country": {"code":"VE","name":"Venezuela","slug":"venezuela"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"lsp-zero.nvim","nameWithOwner":"VonHeikemen/lsp-zero.nvim","url":"https://github.com/VonHeikemen/lsp-zero.nvim","description":null,"stars":3974,"forks":88,"primaryLanguage":"Lua","license":{"spdxId":"MIT"},"createdAt":"2022-02-20T02:19:37Z","pushedAt":"2025-07-11T12:12:32Z","archived":false,"owner":{"login":"VonHeikemen","name":"Heiker","type":"User","url":"https://github.com/VonHeikemen","location":"Venezuela","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"is-even","nameWithOwner":"samuelmarina/is-even","url":"https://github.com/samuelmarina/is-even","description":null,"stars":2230,"forks":211,"primaryLanguage":null,"license":null,"createdAt":"2021-08-16T03:45:54Z","pushedAt":"2024-06-06T12:41:23Z","archived":false,"owner":{"login":"samuelmarina","name":"Samuel Mariña","type":"User","url":"https://github.com/samuelmarina","location":"Venezuela","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Archivos","nameWithOwner":"k-lebJ/Archivos","url":"https://github.com/k-lebJ/Archivos","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2012-05-15T15:30:05Z","pushedAt":"2012-05-15T15:30:06Z","archived":false,"owner":{"login":"k-lebJ","name":"Caleb Betancourt","type":"User","url":"https://github.com/k-lebJ","location":"Venezuela","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"roguelike-mask","nameWithOwner":"Keyword22/roguelike-mask","url":"https://github.com/Keyword22/roguelike-mask","description":null,"stars":1,"forks":0,"primaryLanguage":"GDScript","license":{"spdxId":"NOASSERTION"},"createdAt":"2026-01-31T03:30:21Z","pushedAt":"2026-02-01T19:44:25Z","archived":false,"owner":{"login":"Keyword22","name":"Manuel Martínez","type":"User","url":"https://github.com/Keyword22","location":"Venezuela","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "c3f474f33a28b839",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "4ae453349ab85fdc",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

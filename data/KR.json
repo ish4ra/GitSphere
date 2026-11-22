@@ -5,7 +5,7 @@
 "country": {"code":"KR","name":"South Korea","slug":"south-korea"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":2233,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":2233,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"oh-my-openagent","nameWithOwner":"code-yeongyu/oh-my-openagent","url":"https://github.com/code-yeongyu/oh-my-openagent","description":null,"stars":69779,"forks":5745,"primaryLanguage":"TypeScript","license":{"spdxId":"NOASSERTION"},"createdAt":"2025-12-03T01:40:05Z","pushedAt":"2026-10-04T03:10:29Z","archived":false,"owner":{"login":"code-yeongyu","name":"YeonGyu-Kim","type":"User","url":"https://github.com/code-yeongyu","location":"Seoul","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"diagrams","nameWithOwner":"mingrammer/diagrams","url":"https://github.com/mingrammer/diagrams","description":null,"stars":42671,"forks":2732,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2020-02-02T15:23:24Z","pushedAt":"2026-10-01T16:16:31Z","archived":false,"owner":{"login":"mingrammer","name":"MinJae Kwon","type":"User","url":"https://github.com/mingrammer","location":"South Korea","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"attention-module","nameWithOwner":"Jongchan/attention-module","url":"https://github.com/Jongchan/attention-module","description":null,"stars":2236,"forks":406,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2018-10-07T06:25:26Z","pushedAt":"2023-03-09T03:46:12Z","archived":false,"owner":{"login":"Jongchan","name":"Jongchan Park","type":"User","url":"https://github.com/Jongchan","location":"Korea","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"selecto","nameWithOwner":"daybrush/selecto","url":"https://github.com/daybrush/selecto","description":null,"stars":2233,"forks":99,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2019-12-28T19:16:33Z","pushedAt":"2024-06-17T18:43:06Z","archived":false,"owner":{"login":"daybrush","name":"Daybrush (Younkue Choi)","type":"User","url":"https://github.com/daybrush","location":"Seongnam, Republic of Korea","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "867e609c1541c496",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "c9f7cfdeb8e54a2e",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"ZM","name":"Zambia","slug":"zambia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"CommunityWriterPrograms","nameWithOwner":"malgamves/CommunityWriterPrograms","url":"https://github.com/malgamves/CommunityWriterPrograms","description":null,"stars":4185,"forks":745,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2019-10-15T20:30:34Z","pushedAt":"2026-07-31T10:02:13Z","archived":false,"owner":{"login":"malgamves","name":"Daniel Madalitso Phiri","type":"User","url":"https://github.com/malgamves","location":"Lusaka, Zambia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-15","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"ui","nameWithOwner":"kampsy/ui","url":"https://github.com/kampsy/ui","description":null,"stars":289,"forks":8,"primaryLanguage":"Svelte","license":{"spdxId":"MIT"},"createdAt":"2024-07-06T08:43:45Z","pushedAt":"2026-09-28T14:13:21Z","archived":false,"owner":{"login":"kampsy","name":"kampsy","type":"User","url":"https://github.com/kampsy","location":"Zambia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-15","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Ecommerce-website","nameWithOwner":"chrismushaz/Ecommerce-website","url":"https://github.com/chrismushaz/Ecommerce-website","description":null,"stars":1,"forks":1,"primaryLanguage":"CSS","license":null,"createdAt":"2025-03-27T14:15:39Z","pushedAt":"2025-03-27T14:50:18Z","archived":false,"owner":{"login":"chrismushaz","name":"Christopher Mushabati","type":"User","url":"https://github.com/chrismushaz","location":"Zambia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Fixitzed-Fixer-App","nameWithOwner":"cosammalaika/Fixitzed-Fixer-App","url":"https://github.com/cosammalaika/Fixitzed-Fixer-App","description":null,"stars":1,"forks":1,"primaryLanguage":"Dart","license":null,"createdAt":"2025-09-26T07:22:28Z","pushedAt":"2026-05-31T22:08:43Z","archived":false,"owner":{"login":"cosammalaika","name":"Cosam Malaika","type":"User","url":"https://github.com/cosammalaika","location":"Lusaka, Zambia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "8e6d4db54174fafe",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "38c0d79e35cfdc23",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-15",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

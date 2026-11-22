@@ -5,7 +5,7 @@
 "country": {"code":"AF","name":"Afghanistan","slug":"afghanistan"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"olcrtc","nameWithOwner":"openlibrecommunity/olcrtc","url":"https://github.com/openlibrecommunity/olcrtc","description":null,"stars":2025,"forks":175,"primaryLanguage":"Go","license":{"spdxId":"WTFPL"},"createdAt":"2026-04-04T21:18:39Z","pushedAt":"2026-09-30T09:38:34Z","archived":true,"owner":{"login":"openlibrecommunity","name":"openlibrecommunity","type":"Organization","url":"https://github.com/openlibrecommunity","location":"Afghanistan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"meteor-rejects","nameWithOwner":"AntiCope/meteor-rejects","url":"https://github.com/AntiCope/meteor-rejects","description":null,"stars":681,"forks":210,"primaryLanguage":"Java","license":{"spdxId":"GPL-3.0"},"createdAt":"2021-03-11T09:08:21Z","pushedAt":"2026-03-26T14:01:48Z","archived":false,"owner":{"login":"AntiCope","name":"Anti Cope","type":"Organization","url":"https://github.com/AntiCope","location":"Afghanistan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Task-Managment","nameWithOwner":"belalahmadfateh01/Task-Managment","url":"https://github.com/belalahmadfateh01/Task-Managment","description":null,"stars":1,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2026-10-03T06:36:31Z","pushedAt":"2026-10-03T17:54:10Z","archived":false,"owner":{"login":"belalahmadfateh01","name":"Belal Ahmad Fateh","type":"User","url":"https://github.com/belalahmadfateh01","location":"Herat-Afghanistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"calculator_with_html_css_javascript","nameWithOwner":"codingwithazizi/calculator_with_html_css_javascript","url":"https://github.com/codingwithazizi/calculator_with_html_css_javascript","description":null,"stars":1,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2024-01-31T06:54:18Z","pushedAt":"2024-01-31T06:55:16Z","archived":false,"owner":{"login":"codingwithazizi","name":"Coding With Azizi","type":"User","url":"https://github.com/codingwithazizi","location":"Kabul, Afghanistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "f32849bb7536a841",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "d2abe87ec9f242a9",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

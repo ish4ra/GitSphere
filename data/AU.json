@@ -5,7 +5,7 @@
 "country": {"code":"AU","name":"Australia","slug":"australia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":653,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":653,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"react-beautiful-dnd","nameWithOwner":"atlassian/react-beautiful-dnd","url":"https://github.com/atlassian/react-beautiful-dnd","description":null,"stars":33927,"forks":2692,"primaryLanguage":"JavaScript","license":{"spdxId":"NOASSERTION"},"createdAt":"2017-08-09T03:37:15Z","pushedAt":"2025-08-18T04:35:31Z","archived":true,"owner":{"login":"atlassian","name":"Atlassian","type":"Organization","url":"https://github.com/atlassian","location":"Australia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"fastai","nameWithOwner":"fastai/fastai","url":"https://github.com/fastai/fastai","description":null,"stars":28210,"forks":7640,"primaryLanguage":"Jupyter Notebook","license":{"spdxId":"Apache-2.0"},"createdAt":"2017-09-09T17:43:36Z","pushedAt":"2026-09-21T10:41:46Z","archived":false,"owner":{"login":"fastai","name":"fast.ai","type":"Organization","url":"https://github.com/fastai","location":"Australia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"zsh-artisan","nameWithOwner":"jessarcher/zsh-artisan","url":"https://github.com/jessarcher/zsh-artisan","description":null,"stars":655,"forks":43,"primaryLanguage":"Shell","license":{"spdxId":"MIT"},"createdAt":"2018-10-26T05:31:28Z","pushedAt":"2025-12-08T07:54:48Z","archived":false,"owner":{"login":"jessarcher","name":"Jess Archer","type":"User","url":"https://github.com/jessarcher","location":"Brisbane, Australia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"cursed","nameWithOwner":"ghuntley/cursed","url":"https://github.com/ghuntley/cursed","description":null,"stars":653,"forks":38,"primaryLanguage":"Zig","license":{"spdxId":"MIT"},"createdAt":"2025-03-26T11:24:35Z","pushedAt":"2025-11-16T10:40:58Z","archived":false,"owner":{"login":"ghuntley","name":"Geoffrey Huntley","type":"User","url":"https://github.com/ghuntley","location":"Kangaroo Island, Australia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "05f06d69446603c8",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "baea2a7201d2174e",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

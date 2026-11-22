@@ -5,7 +5,7 @@
 "country": {"code":"BM","name":"Bermuda","slug":"bermuda"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"owshen","nameWithOwner":"OwshenNetwork/owshen","url":"https://github.com/OwshenNetwork/owshen","description":null,"stars":2001,"forks":93,"primaryLanguage":"Rust","license":null,"createdAt":"2023-08-07T12:46:56Z","pushedAt":"2024-10-06T14:33:48Z","archived":false,"owner":{"login":"OwshenNetwork","name":"Owshen Network","type":"User","url":"https://github.com/OwshenNetwork","location":"Bermuda Triangle","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-31","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Pi-hole-for-Android","nameWithOwner":"DesktopECHO/Pi-hole-for-Android","url":"https://github.com/DesktopECHO/Pi-hole-for-Android","description":null,"stars":656,"forks":56,"primaryLanguage":"Shell","license":null,"createdAt":"2021-09-08T19:27:14Z","pushedAt":"2025-12-26T19:49:29Z","archived":false,"owner":{"login":"DesktopECHO","name":null,"type":"User","url":"https://github.com/DesktopECHO","location":"Hamilton, Bermuda","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-13","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"ACLYDCASH","nameWithOwner":"aclyd/ACLYDCASH","url":"https://github.com/aclyd/ACLYDCASH","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2019-04-27T05:05:06Z","pushedAt":"2019-04-27T05:05:33Z","archived":false,"owner":{"login":"aclyd","name":"The Aclyd Project","type":"User","url":"https://github.com/aclyd","location":"Bermuda","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-31","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"lecture0","nameWithOwner":"Adillas91/lecture0","url":"https://github.com/Adillas91/lecture0","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2020-04-20T13:58:57Z","pushedAt":"2020-04-20T13:58:58Z","archived":false,"owner":{"login":"Adillas91","name":"Antione Dillas Jr.","type":"User","url":"https://github.com/Adillas91","location":"Bermuda","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-31","pendingRevalidation":true}
 ],
-"contentHash": "9795a3f48cfa5b76",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "1b69dba67425b886",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-13",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"CO","name":"Colombia","slug":"colombia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"tortoise-tts","nameWithOwner":"neonbjb/tortoise-tts","url":"https://github.com/neonbjb/tortoise-tts","description":null,"stars":14877,"forks":2038,"primaryLanguage":"Jupyter Notebook","license":{"spdxId":"Apache-2.0"},"createdAt":"2022-01-28T04:33:15Z","pushedAt":"2024-11-19T18:59:13Z","archived":false,"owner":{"login":"neonbjb","name":"James Betker","type":"User","url":"https://github.com/neonbjb","location":"CO","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"distributions","nameWithOwner":"nodesource/distributions","url":"https://github.com/nodesource/distributions","description":null,"stars":13850,"forks":3107,"primaryLanguage":"Shell","license":{"spdxId":"MIT"},"createdAt":"2014-08-14T02:44:10Z","pushedAt":"2026-07-09T19:55:25Z","archived":false,"owner":{"login":"nodesource","name":"NodeSource","type":"Organization","url":"https://github.com/nodesource","location":"Colombia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"CodeIgniter","nameWithOwner":"c14ivan/CodeIgniter","url":"https://github.com/c14ivan/CodeIgniter","description":null,"stars":1,"forks":1,"primaryLanguage":"PHP","license":{"spdxId":"OSL-3.0"},"createdAt":"2013-05-28T03:00:34Z","pushedAt":"2013-09-17T03:49:09Z","archived":false,"owner":{"login":"c14ivan","name":"Ivan Espitia","type":"User","url":"https://github.com/c14ivan","location":"Bogota, Colombia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"portafolio","nameWithOwner":"felipesega/portafolio","url":"https://github.com/felipesega/portafolio","description":null,"stars":1,"forks":1,"primaryLanguage":"HTML","license":null,"createdAt":"2017-11-23T23:22:51Z","pushedAt":"2025-08-16T16:09:32Z","archived":false,"owner":{"login":"felipesega","name":"Juan Felipe Ramirez","type":"User","url":"https://github.com/felipesega","location":"Medellín, Colombia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "d64dae64b9e0bdd1",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "0a0989aa4177ac37",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

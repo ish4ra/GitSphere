@@ -5,7 +5,7 @@
 "country": {"code":"GN","name":"Guinea","slug":"guinea"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Taluxi-Open-Source","nameWithOwner":"sitatec/Taluxi-Open-Source","url":"https://github.com/sitatec/Taluxi-Open-Source","description":null,"stars":98,"forks":49,"primaryLanguage":"Dart","license":{"spdxId":"GPL-3.0"},"createdAt":"2021-04-02T14:18:38Z","pushedAt":"2024-06-16T20:10:00Z","archived":false,"owner":{"login":"sitatec","name":"Sita Bérété","type":"User","url":"https://github.com/sitatec","location":"Conakry, Guinea","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"NETWATCH","nameWithOwner":"sudomarc/NETWATCH","url":"https://github.com/sudomarc/NETWATCH","description":null,"stars":39,"forks":3,"primaryLanguage":"Shell","license":{"spdxId":"MIT"},"createdAt":"2026-05-24T17:57:40Z","pushedAt":"2026-09-10T01:20:28Z","archived":false,"owner":{"login":"sudomarc","name":"marco_","type":"User","url":"https://github.com/sudomarc","location":"Conakry, Guinea","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"ccp-prestashop","nameWithOwner":"mapaycard/ccp-prestashop","url":"https://github.com/mapaycard/ccp-prestashop","description":null,"stars":0,"forks":1,"primaryLanguage":"PHP","license":null,"createdAt":"2026-02-05T16:53:42Z","pushedAt":"2026-02-05T17:09:28Z","archived":false,"owner":{"login":"mapaycard","name":"PayCard SA","type":"Organization","url":"https://github.com/mapaycard","location":"Guinea","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"117davidsultan","nameWithOwner":"117davidsultan/117davidsultan","url":"https://github.com/117davidsultan/117davidsultan","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2022-04-21T09:40:36Z","pushedAt":"2022-04-21T09:40:37Z","archived":false,"owner":{"login":"117davidsultan","name":"David","type":"User","url":"https://github.com/117davidsultan","location":"Conakry","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "11b4ec05b3ecdb3e",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "0b81e1d9c6bd33c8",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

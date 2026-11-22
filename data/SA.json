@@ -5,7 +5,7 @@
 "country": {"code":"SA","name":"Saudi Arabia","slug":"saudi-arabia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"walls-catppuccin-mocha","nameWithOwner":"orangci/walls-catppuccin-mocha","url":"https://github.com/orangci/walls-catppuccin-mocha","description":null,"stars":2845,"forks":113,"primaryLanguage":null,"license":null,"createdAt":"2024-05-10T13:47:59Z","pushedAt":"2025-11-12T08:49:41Z","archived":false,"owner":{"login":"orangci","name":null,"type":"User","url":"https://github.com/orangci","location":"Riyadh, Saudi Arabia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"BHTwitter","nameWithOwner":"BandarHL/BHTwitter","url":"https://github.com/BandarHL/BHTwitter","description":null,"stars":2601,"forks":875,"primaryLanguage":"C","license":null,"createdAt":"2020-08-15T20:40:13Z","pushedAt":"2026-07-06T20:14:18Z","archived":false,"owner":{"login":"BandarHL","name":"Bandar Alruwaili","type":"User","url":"https://github.com/BandarHL","location":"Saudi Arabia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"How-to-pass-AWS-PMP-Exam-Saudi-Arabia-info-buypmpwithoutexams.com","nameWithOwner":"certification1882/How-to-pass-AWS-PMP-Exam-Saudi-Arabia-info-buypmpwithoutexams.com","url":"https://github.com/certification1882/How-to-pass-AWS-PMP-Exam-Saudi-Arabia-info-buypmpwithoutexams.com","description":null,"stars":2,"forks":1,"primaryLanguage":null,"license":null,"createdAt":"2020-10-15T07:40:35Z","pushedAt":"2020-10-29T14:00:20Z","archived":false,"owner":{"login":"certification1882","name":"PMI Certification","type":"User","url":"https://github.com/certification1882","location":"Saudi Arabia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Epic-EHR-system-design-and-analysis","nameWithOwner":"BatoolZ/Epic-EHR-system-design-and-analysis","url":"https://github.com/BatoolZ/Epic-EHR-system-design-and-analysis","description":null,"stars":2,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2022-01-14T10:52:11Z","pushedAt":"2022-01-15T16:50:16Z","archived":false,"owner":{"login":"BatoolZ","name":"Batool","type":"User","url":"https://github.com/BatoolZ","location":"Saudi Arabia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "48491b0981d07848",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "00f5b948757d8b1c",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

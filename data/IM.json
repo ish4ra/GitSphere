@@ -5,7 +5,7 @@
 "country": {"code":"IM","name":"Isle of Man","slug":"isle-of-man"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"HowToBeAProgrammer","nameWithOwner":"braydie/HowToBeAProgrammer","url":"https://github.com/braydie/HowToBeAProgrammer","description":null,"stars":16317,"forks":1353,"primaryLanguage":null,"license":null,"createdAt":"2016-01-04T16:47:54Z","pushedAt":"2025-09-28T17:08:19Z","archived":false,"owner":{"login":"braydie","name":"Braydie Grove","type":"User","url":"https://github.com/braydie","location":"Isle of Man","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"usb-dos","nameWithOwner":"lproven/usb-dos","url":"https://github.com/lproven/usb-dos","description":null,"stars":219,"forks":3,"primaryLanguage":"Batchfile","license":null,"createdAt":"2025-01-01T14:56:27Z","pushedAt":"2025-05-16T13:21:05Z","archived":false,"owner":{"login":"lproven","name":"Liam Proven","type":"User","url":"https://github.com/lproven","location":"Douglas, Isle of Man","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"MapocalypseOld","nameWithOwner":"samuelnub/MapocalypseOld","url":"https://github.com/samuelnub/MapocalypseOld","description":null,"stars":1,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2017-11-14T22:49:12Z","pushedAt":"2022-04-05T17:46:41Z","archived":false,"owner":{"login":"samuelnub","name":"Sam Yap","type":"User","url":"https://github.com/samuelnub","location":"Douglas, Isle of Man","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"terraform-provider-stacuity","nameWithOwner":"stacuity/terraform-provider-stacuity","url":"https://github.com/stacuity/terraform-provider-stacuity","description":null,"stars":1,"forks":0,"primaryLanguage":"Go","license":{"spdxId":"MPL-2.0"},"createdAt":"2025-06-11T14:32:11Z","pushedAt":"2025-06-12T10:56:52Z","archived":false,"owner":{"login":"stacuity","name":"Stacuity","type":"Organization","url":"https://github.com/stacuity","location":"Isle of Man","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "73c752df07fd217f",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "0042f5c9397d9e06",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

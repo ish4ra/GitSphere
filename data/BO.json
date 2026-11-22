@@ -5,7 +5,7 @@
 "country": {"code":"BO","name":"Bolivia","slug":"bolivia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"sol","nameWithOwner":"ospfranco/sol","url":"https://github.com/ospfranco/sol","description":null,"stars":3156,"forks":186,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2022-01-16T19:08:40Z","pushedAt":"2026-09-20T01:19:04Z","archived":false,"owner":{"login":"ospfranco","name":"Oscar Franco","type":"User","url":"https://github.com/ospfranco","location":"Bolivia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"qobuz-dl","nameWithOwner":"vitiko98/qobuz-dl","url":"https://github.com/vitiko98/qobuz-dl","description":null,"stars":2387,"forks":305,"primaryLanguage":"Python","license":{"spdxId":"GPL-3.0"},"createdAt":"2020-08-09T22:39:40Z","pushedAt":"2025-07-19T03:04:07Z","archived":false,"owner":{"login":"vitiko98","name":"Vitiko","type":"User","url":"https://github.com/vitiko98","location":"Bolivia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Aynel.github.io","nameWithOwner":"Aynel/Aynel.github.io","url":"https://github.com/Aynel/Aynel.github.io","description":null,"stars":1,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2022-12-13T00:20:47Z","pushedAt":"2022-12-13T00:45:54Z","archived":false,"owner":{"login":"Aynel","name":"Leny Churata","type":"User","url":"https://github.com/Aynel","location":"Bolivia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"appsBaranado","nameWithOwner":"Baranado/appsBaranado","url":"https://github.com/Baranado/appsBaranado","description":null,"stars":1,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2023-05-28T08:03:54Z","pushedAt":"2023-06-26T23:38:55Z","archived":false,"owner":{"login":"Baranado","name":"Rene Barañado Quiñones","type":"User","url":"https://github.com/Baranado","location":"Potosi, Bolivia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "0c9d379b050b1ff5",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "9b623924b6f25492",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-11-04",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"FM","name":"Micronesia","slug":"micronesia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":19,"ownerExpansionBacklog":19,"candidates":19,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":19,"ownerExpansionBacklog":19,"candidates":19,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"rgraph","nameWithOwner":"heyesr/rgraph","url":"https://github.com/heyesr/rgraph","description":null,"stars":59,"forks":12,"primaryLanguage":"JavaScript","license":{"spdxId":"NOASSERTION"},"createdAt":"2013-07-28T23:17:33Z","pushedAt":"2026-09-04T12:50:53Z","archived":false,"owner":{"login":"heyesr","name":"Richard","type":"User","url":"https://github.com/heyesr","location":"Federated States of Micronesia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Argoniano","nameWithOwner":"Cassonetto/Argoniano","url":"https://github.com/Cassonetto/Argoniano","description":null,"stars":2,"forks":0,"primaryLanguage":"Visual Basic .NET","license":{"spdxId":"GPL-3.0"},"createdAt":"2022-03-03T11:36:57Z","pushedAt":"2023-04-08T23:26:11Z","archived":false,"owner":{"login":"Cassonetto","name":"Cestino personale","type":"Organization","url":"https://github.com/Cassonetto","location":"Micronesia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -27,8 +27,8 @@
   {"rank":18,"id":null,"name":"alldomainschecker","nameWithOwner":"soldebug/alldomainschecker","url":"https://github.com/soldebug/alldomainschecker","description":null,"stars":0,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2025-09-30T10:50:55Z","pushedAt":"2025-09-30T12:04:09Z","archived":false,"owner":{"login":"soldebug","name":null,"type":"User","url":"https://github.com/soldebug","location":"Micronesia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":19,"id":null,"name":".github","nameWithOwner":"sxup-tech/.github","url":"https://github.com/sxup-tech/.github","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-10-01T16:46:08Z","pushedAt":"2024-08-28T12:44:51Z","archived":false,"owner":{"login":"sxup-tech","name":"SXUP Technology","type":"Organization","url":"https://github.com/sxup-tech","location":"Micronesia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "a137c12671627a16",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "43a0db438a0d94d3",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

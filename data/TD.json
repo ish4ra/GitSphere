@@ -5,7 +5,7 @@
 "country": {"code":"TD","name":"Chad","slug":"chad"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":149,"candidates":149,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":149,"candidates":149,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"rust-book-es","nameWithOwner":"RustLangES/rust-book-es","url":"https://github.com/RustLangES/rust-book-es","description":null,"stars":171,"forks":48,"primaryLanguage":"Rust","license":{"spdxId":"NOASSERTION"},"createdAt":"2023-04-02T03:06:55Z","pushedAt":"2026-09-20T23:05:43Z","archived":false,"owner":{"login":"RustLangES","name":"RustLang en Español","type":"Organization","url":"https://github.com/RustLangES","location":"Chad","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"chrome-extension","nameWithOwner":"0xIntuition/chrome-extension","url":"https://github.com/0xIntuition/chrome-extension","description":null,"stars":153,"forks":25,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2025-01-10T18:44:24Z","pushedAt":"2026-05-05T00:28:32Z","archived":false,"owner":{"login":"0xIntuition","name":"Intuition","type":"Organization","url":"https://github.com/0xIntuition","location":"Chad","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"PawLink","nameWithOwner":"jose-osilveira/PawLink","url":"https://github.com/jose-osilveira/PawLink","description":null,"stars":0,"forks":0,"primaryLanguage":"PHP","license":null,"createdAt":"2025-10-08T18:04:08Z","pushedAt":"2025-10-08T18:16:57Z","archived":false,"owner":{"login":"jose-osilveira","name":"José Eduardo Silveira","type":"User","url":"https://github.com/jose-osilveira","location":"Chad","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"encryv5","nameWithOwner":"kingterrytheterrible-terry/encryv5","url":"https://github.com/kingterrytheterrible-terry/encryv5","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2025-05-08T10:01:12Z","pushedAt":"2025-05-23T14:05:12Z","archived":false,"owner":{"login":"kingterrytheterrible-terry","name":"o7","type":"User","url":"https://github.com/kingterrytheterrible-terry","location":"Chad","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "77aadbfdf2fb0891",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "9eb48b3a6b83e1a0",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-11-04",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

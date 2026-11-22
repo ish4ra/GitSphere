@@ -5,7 +5,7 @@
 "country": {"code":"AR","name":"Argentina","slug":"argentina"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"aseprite","nameWithOwner":"aseprite/aseprite","url":"https://github.com/aseprite/aseprite","description":null,"stars":39942,"forks":9189,"primaryLanguage":"C++","license":null,"createdAt":"2014-08-19T23:44:50Z","pushedAt":"2026-10-07T11:19:13Z","archived":false,"owner":{"login":"aseprite","name":"Aseprite","type":"Organization","url":"https://github.com/aseprite","location":"Argentina","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"dragula","nameWithOwner":"bevacqua/dragula","url":"https://github.com/bevacqua/dragula","description":null,"stars":22135,"forks":1917,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2015-04-13T21:35:38Z","pushedAt":"2024-06-07T11:46:14Z","archived":false,"owner":{"login":"bevacqua","name":"Nicolás Bevacqua","type":"User","url":"https://github.com/bevacqua","location":"Buenos Aires, Argentina","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"nAdmin","nameWithOwner":"Pixarino/nAdmin","url":"https://github.com/Pixarino/nAdmin","description":null,"stars":2,"forks":0,"primaryLanguage":"C#","license":null,"createdAt":"2015-08-01T04:18:39Z","pushedAt":"2015-08-01T04:58:52Z","archived":false,"owner":{"login":"Pixarino","name":"Pixarino","type":"User","url":"https://github.com/Pixarino","location":"Argentina","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Web-Ping-Tracert-Port-Check-TCP","nameWithOwner":"Rembmax/Web-Ping-Tracert-Port-Check-TCP","url":"https://github.com/Rembmax/Web-Ping-Tracert-Port-Check-TCP","description":null,"stars":2,"forks":0,"primaryLanguage":"PHP","license":{"spdxId":"GPL-3.0"},"createdAt":"2020-09-23T15:12:42Z","pushedAt":"2020-09-24T18:42:55Z","archived":false,"owner":{"login":"Rembmax","name":"Max","type":"User","url":"https://github.com/Rembmax","location":"argentina","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "395e4494081902de",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "4ffb2beed5b1f5f1",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

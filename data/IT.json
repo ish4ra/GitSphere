@@ -5,7 +5,7 @@
 "country": {"code":"IT","name":"Italy","slug":"italy"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":896,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":896,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"mkcert","nameWithOwner":"FiloSottile/mkcert","url":"https://github.com/FiloSottile/mkcert","description":null,"stars":59722,"forks":3139,"primaryLanguage":"Go","license":{"spdxId":"BSD-3-Clause"},"createdAt":"2018-06-25T05:33:03Z","pushedAt":"2024-08-13T13:37:46Z","archived":false,"owner":{"login":"FiloSottile","name":"Filippo Valsorda","type":"User","url":"https://github.com/FiloSottile","location":"Rome, Italy","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"LocalAI","nameWithOwner":"mudler/LocalAI","url":"https://github.com/mudler/LocalAI","description":null,"stars":49398,"forks":4482,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2023-03-18T22:58:02Z","pushedAt":"2026-10-05T13:57:19Z","archived":false,"owner":{"login":"mudler","name":"Ettore Di Giacinto","type":"User","url":"https://github.com/mudler","location":"Italy","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"FCFileManager","nameWithOwner":"fabiocaccamo/FCFileManager","url":"https://github.com/fabiocaccamo/FCFileManager","description":null,"stars":904,"forks":134,"primaryLanguage":"Objective-C","license":{"spdxId":"MIT"},"createdAt":"2014-01-29T16:51:25Z","pushedAt":"2026-04-22T14:30:34Z","archived":false,"owner":{"login":"fabiocaccamo","name":"Fabio Caccamo","type":"User","url":"https://github.com/fabiocaccamo","location":"Torino, Italy","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Ransomware","nameWithOwner":"Err0r-ICA/Ransomware","url":"https://github.com/Err0r-ICA/Ransomware","description":null,"stars":896,"forks":109,"primaryLanguage":"Shell","license":{"spdxId":"MIT"},"createdAt":"2020-04-05T16:10:23Z","pushedAt":"2025-05-27T01:00:45Z","archived":false,"owner":{"login":"Err0r-ICA","name":"*Err0r_HB*","type":"User","url":"https://github.com/Err0r-ICA","location":"Italia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "46890a6e8d8ba8a9",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "c76461a8bfb26210",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

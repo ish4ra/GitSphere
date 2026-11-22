@@ -1,17 +1,3 @@
-<p align="center" aria-label="Falkland Islands (Islas Malvinas) flag" style="font-size:72px">🇫🇰</p>
+# 🇫🇰 Falkland Islands
 
-<h1 align="center">Falkland Islands (Islas Malvinas)</h1>
-
-<p align="center">
-  <a href="./README.md"><strong>Browse countries</strong></a> ·
-  <a href="../docs/METHODOLOGY.md">Methodology</a> ·
-  <a href="../README.md">Project home</a>
-</p>
-
-## Repository ranking status: Queued
-
-This country is indexed and queued for the global repository crawl.
-
-The ranking is not published yet because this project does not label incomplete discovery as a finished country ranking.
-
-When the verified crawl reaches publication readiness, this page is automatically replaced by the most-starred repository ranking.
+This page has moved. See **[Falkland Islands — Top Repositories](./falkland-islands.md)**, or browse [Top Developers](./developers/falkland-islands.md) and [Top Contributors](./contributors/falkland-islands.md).

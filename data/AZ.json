@@ -5,7 +5,7 @@
 "country": {"code":"AZ","name":"Azerbaijan","slug":"azerbaijan"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"invoify","nameWithOwner":"al1abb/invoify","url":"https://github.com/al1abb/invoify","description":null,"stars":6362,"forks":733,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2023-09-17T16:56:48Z","pushedAt":"2026-08-24T02:55:34Z","archived":false,"owner":{"login":"al1abb","name":"Ali Abbasov","type":"User","url":"https://github.com/al1abb","location":"Azerbaijan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"ScrewFast","nameWithOwner":"mearashadowfax/ScrewFast","url":"https://github.com/mearashadowfax/ScrewFast","description":null,"stars":1422,"forks":385,"primaryLanguage":"Astro","license":{"spdxId":"MIT"},"createdAt":"2024-02-09T23:52:17Z","pushedAt":"2026-10-04T19:08:57Z","archived":false,"owner":{"login":"mearashadowfax","name":"Emil Gulamov","type":"User","url":"https://github.com/mearashadowfax","location":"Baku, Azerbaijan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"RetailRocket_Events_Recommender","nameWithOwner":"BMuhammed7777/RetailRocket_Events_Recommender","url":"https://github.com/BMuhammed7777/RetailRocket_Events_Recommender","description":null,"stars":1,"forks":0,"primaryLanguage":"Jupyter Notebook","license":null,"createdAt":"2026-10-03T14:20:43Z","pushedAt":"2026-10-03T14:46:41Z","archived":false,"owner":{"login":"BMuhammed7777","name":"Muhammed Bayramov","type":"User","url":"https://github.com/BMuhammed7777","location":"Azerbaijan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"e-commerce","nameWithOwner":"ceyhoun/e-commerce","url":"https://github.com/ceyhoun/e-commerce","description":null,"stars":1,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2024-07-27T15:01:51Z","pushedAt":"2024-10-02T22:23:29Z","archived":false,"owner":{"login":"ceyhoun","name":"Ceyhun Yusif","type":"User","url":"https://github.com/ceyhoun","location":"Azerbaijan/Baku","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "9ef4e9ced0c65721",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "a5dcb1a53e78740b",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

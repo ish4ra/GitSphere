@@ -5,7 +5,7 @@
 "country": {"code":"GI","name":"Gibraltar","slug":"gibraltar"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"smart-contracts","nameWithOwner":"TokenMarketNet/smart-contracts","url":"https://github.com/TokenMarketNet/smart-contracts","description":null,"stars":1325,"forks":556,"primaryLanguage":"Python","license":{"spdxId":"NOASSERTION"},"createdAt":"2017-03-20T22:36:58Z","pushedAt":"2022-12-08T00:41:24Z","archived":false,"owner":{"login":"TokenMarketNet","name":"TokenMarket","type":"Organization","url":"https://github.com/TokenMarketNet","location":"Gibraltar","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-29","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"MultiSigWallet","nameWithOwner":"gnosis/MultiSigWallet","url":"https://github.com/gnosis/MultiSigWallet","description":null,"stars":1101,"forks":760,"primaryLanguage":"JavaScript","license":{"spdxId":"LGPL-3.0"},"createdAt":"2017-08-17T13:56:11Z","pushedAt":"2021-08-24T15:56:50Z","archived":true,"owner":{"login":"gnosis","name":"Gnosis","type":"Organization","url":"https://github.com/gnosis","location":"Gibraltar","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-29","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"suibets-predict-","nameWithOwner":"elpou88/suibets-predict-","url":"https://github.com/elpou88/suibets-predict-","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2025-12-30T13:59:53Z","pushedAt":"2025-12-30T13:59:53Z","archived":false,"owner":{"login":"elpou88","name":"Jamie pou","type":"User","url":"https://github.com/elpou88","location":"Gibraltar","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-29","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"exabex-images","nameWithOwner":"exabex/exabex-images","url":"https://github.com/exabex/exabex-images","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2022-08-01T01:25:36Z","pushedAt":"2022-08-01T01:25:55Z","archived":false,"owner":{"login":"exabex","name":null,"type":"User","url":"https://github.com/exabex","location":"Gibraltar","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-29","pendingRevalidation":true}
 ],
-"contentHash": "5599afa79ef11d5f",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "dc9ffe4e4da3493e",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-29",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

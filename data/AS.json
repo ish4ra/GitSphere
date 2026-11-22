@@ -5,7 +5,7 @@
 "country": {"code":"AS","name":"American Samoa","slug":"american-samoa"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":26,"ownerExpansionBacklog":3,"candidates":26,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":26,"ownerExpansionBacklog":3,"candidates":26,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"coc.nvim","nameWithOwner":"neoclide/coc.nvim","url":"https://github.com/neoclide/coc.nvim","description":null,"stars":25155,"forks":951,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2018-05-01T22:39:02Z","pushedAt":"2026-10-03T17:21:39Z","archived":false,"owner":{"login":"neoclide","name":"Neoclide","type":"Organization","url":"https://github.com/neoclide","location":"American Samoa","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"fulling","nameWithOwner":"FullAgent/fulling","url":"https://github.com/FullAgent/fulling","description":null,"stars":2446,"forks":235,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2025-10-11T02:31:07Z","pushedAt":"2026-08-17T01:11:41Z","archived":false,"owner":{"login":"FullAgent","name":"fulling","type":"Organization","url":"https://github.com/FullAgent","location":"American Samoa","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -34,8 +34,8 @@
   {"rank":25,"id":null,"name":"sturdy-octo-tribble","nameWithOwner":"https-example/sturdy-octo-tribble","url":"https://github.com/https-example/sturdy-octo-tribble","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":{"spdxId":"CC0-1.0"},"createdAt":"2026-01-20T06:11:14Z","pushedAt":"2026-01-20T06:16:20Z","archived":false,"owner":{"login":"https-example","name":"Cttnhhkiau","type":"Organization","url":"https://github.com/https-example","location":"Samoa thuộc Mỹ","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":26,"id":null,"name":"sweetypieredhulk","nameWithOwner":"sweetypieredhulk/sweetypieredhulk","url":"https://github.com/sweetypieredhulk/sweetypieredhulk","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-14T11:55:20Z","pushedAt":"2024-09-14T11:55:31Z","archived":false,"owner":{"login":"sweetypieredhulk","name":null,"type":"User","url":"https://github.com/sweetypieredhulk","location":"Amerikaans-Samoa (AS)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "39803dbe97d55770",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "d9ac02c1b0c95273",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

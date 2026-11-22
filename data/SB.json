@@ -5,7 +5,7 @@
 "country": {"code":"SB","name":"Solomon Islands","slug":"solomon-islands"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":49,"ownerExpansionBacklog":49,"candidates":49,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":49,"ownerExpansionBacklog":49,"candidates":49,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"clewd","nameWithOwner":"h-a-s-k/clewd","url":"https://github.com/h-a-s-k/clewd","description":null,"stars":123,"forks":1188,"primaryLanguage":"JavaScript","license":null,"createdAt":"2023-08-01T21:44:28Z","pushedAt":"2025-06-19T00:00:06Z","archived":false,"owner":{"login":"h-a-s-k","name":"Hask","type":"User","url":"https://github.com/h-a-s-k","location":"Solomon Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"openflow","nameWithOwner":"lininn/openflow","url":"https://github.com/lininn/openflow","description":null,"stars":86,"forks":15,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2026-05-13T08:29:37Z","pushedAt":"2026-09-01T07:30:25Z","archived":false,"owner":{"login":"lininn","name":"Emerson Towne","type":"User","url":"https://github.com/lininn","location":"029 ,Bosco Views ,Aishaburgh ,South Carolina ,Solomon Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -57,8 +57,8 @@
   {"rank":48,"id":null,"name":"sweetypiesnoxj","nameWithOwner":"sweetypiesnoxj/sweetypiesnoxj","url":"https://github.com/sweetypiesnoxj/sweetypiesnoxj","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-27T22:40:17Z","pushedAt":"2024-09-27T22:40:29Z","archived":false,"owner":{"login":"sweetypiesnoxj","name":null,"type":"User","url":"https://github.com/sweetypiesnoxj","location":"Solomon Islands (SB)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":49,"id":null,"name":"MATLAB","nameWithOwner":"vude0001/MATLAB","url":"https://github.com/vude0001/MATLAB","description":null,"stars":0,"forks":0,"primaryLanguage":"MATLAB","license":null,"createdAt":"2023-07-28T07:33:55Z","pushedAt":"2023-07-28T07:37:48Z","archived":false,"owner":{"login":"vude0001","name":"Simeon Pitukolo","type":"User","url":"https://github.com/vude0001","location":"Solomon Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "c283b188b9350864",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "6fe91e83ebd0c13f",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

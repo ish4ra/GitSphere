@@ -5,7 +5,7 @@
 "country": {"code":"VN","name":"Vietnam","slug":"vietnam"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":506,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":506,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"ui-ux-pro-max-skill","nameWithOwner":"nextlevelbuilder/ui-ux-pro-max-skill","url":"https://github.com/nextlevelbuilder/ui-ux-pro-max-skill","description":null,"stars":133825,"forks":14186,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2025-11-30T11:36:31Z","pushedAt":"2026-10-03T16:05:26Z","archived":false,"owner":{"login":"nextlevelbuilder","name":"Next Level Builder","type":"Organization","url":"https://github.com/nextlevelbuilder","location":"Vietnam","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"machine-learning-for-software-engineers","nameWithOwner":"ZuzooVn/machine-learning-for-software-engineers","url":"https://github.com/ZuzooVn/machine-learning-for-software-engineers","description":null,"stars":28872,"forks":6145,"primaryLanguage":null,"license":{"spdxId":"CC-BY-SA-4.0"},"createdAt":"2016-10-09T21:20:25Z","pushedAt":"2024-06-11T04:49:29Z","archived":false,"owner":{"login":"ZuzooVn","name":"Nam Vu","type":"User","url":"https://github.com/ZuzooVn","location":"Vietnam","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Agent-Skills-4-Vibe-Coding-CLI","nameWithOwner":"Dokhacgiakhoa/Agent-Skills-4-Vibe-Coding-CLI","url":"https://github.com/Dokhacgiakhoa/Agent-Skills-4-Vibe-Coding-CLI","description":null,"stars":508,"forks":143,"primaryLanguage":"Python","license":{"spdxId":"NOASSERTION"},"createdAt":"2026-01-27T21:22:16Z","pushedAt":"2026-06-11T05:08:42Z","archived":false,"owner":{"login":"Dokhacgiakhoa","name":"Đỗ Khắc Gia Khoa","type":"User","url":"https://github.com/Dokhacgiakhoa","location":"Hanoi","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"gemini-web-to-api","nameWithOwner":"ntthanh2603/gemini-web-to-api","url":"https://github.com/ntthanh2603/gemini-web-to-api","description":null,"stars":506,"forks":120,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2025-12-31T04:01:00Z","pushedAt":"2026-10-08T05:08:08Z","archived":false,"owner":{"login":"ntthanh2603","name":"Nguyễn Tuấn Thành","type":"User","url":"https://github.com/ntthanh2603","location":"Ha Noi, Vietnam","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "30feab1f71866a11",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "b69dc94fbcd1bcba",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

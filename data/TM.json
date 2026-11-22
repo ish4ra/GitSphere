@@ -5,7 +5,7 @@
 "country": {"code":"TM","name":"Turkmenistan","slug":"turkmenistan"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"mpb","nameWithOwner":"vbauerster/mpb","url":"https://github.com/vbauerster/mpb","description":null,"stars":2513,"forks":132,"primaryLanguage":"Go","license":{"spdxId":"Unlicense"},"createdAt":"2016-12-14T11:56:29Z","pushedAt":"2026-09-26T15:58:00Z","archived":false,"owner":{"login":"vbauerster","name":"Vladimir Bauer","type":"User","url":"https://github.com/vbauerster","location":"Turkmenistan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"my-best-resources","nameWithOwner":"Shatlyk1011/my-best-resources","url":"https://github.com/Shatlyk1011/my-best-resources","description":null,"stars":224,"forks":36,"primaryLanguage":null,"license":null,"createdAt":"2025-07-20T14:49:23Z","pushedAt":"2026-10-06T06:42:23Z","archived":false,"owner":{"login":"Shatlyk1011","name":"Shatlyk","type":"User","url":"https://github.com/Shatlyk1011","location":"Turkmenabat","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"license-key-generator","nameWithOwner":"arslan95mr/license-key-generator","url":"https://github.com/arslan95mr/license-key-generator","description":null,"stars":1,"forks":1,"primaryLanguage":"JavaScript","license":null,"createdAt":"2025-07-17T06:17:20Z","pushedAt":"2025-07-17T06:41:17Z","archived":false,"owner":{"login":"arslan95mr","name":"Arslan","type":"User","url":"https://github.com/arslan95mr","location":"Ashgabat, Turkmenistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"flutter_localizations_tk","nameWithOwner":"DowranRowshenow/flutter_localizations_tk","url":"https://github.com/DowranRowshenow/flutter_localizations_tk","description":null,"stars":1,"forks":1,"primaryLanguage":"Dart","license":null,"createdAt":"2025-08-03T13:30:27Z","pushedAt":"2026-05-17T12:36:27Z","archived":false,"owner":{"login":"DowranRowshenow","name":"Dowran Rowshenow","type":"User","url":"https://github.com/DowranRowshenow","location":"Turkmenistan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "2fd5b468d7aff060",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "a09a3a6242ef3a6d",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

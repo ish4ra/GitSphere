@@ -5,7 +5,7 @@
 "country": {"code":"SX","name":"Sint Maarten","slug":"sint-maarten"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":23,"ownerExpansionBacklog":23,"candidates":23,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":23,"ownerExpansionBacklog":23,"candidates":23,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"web_vulnerabilities_checker","nameWithOwner":"SxMAbel/web_vulnerabilities_checker","url":"https://github.com/SxMAbel/web_vulnerabilities_checker","description":null,"stars":7,"forks":6,"primaryLanguage":"JavaScript","license":{"spdxId":"Apache-2.0"},"createdAt":"2022-12-09T20:28:32Z","pushedAt":"2023-06-23T11:51:55Z","archived":false,"owner":{"login":"SxMAbel","name":"SXM_ABEL","type":"User","url":"https://github.com/SxMAbel","location":"Philipsburg, Sint Maarten","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-24","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"espmake","nameWithOwner":"maartenSXM/espmake","url":"https://github.com/maartenSXM/espmake","description":null,"stars":5,"forks":0,"primaryLanguage":"Makefile","license":null,"createdAt":"2024-01-17T15:24:33Z","pushedAt":"2024-09-08T17:52:40Z","archived":false,"owner":{"login":"maartenSXM","name":"Maarten Koning","type":"User","url":"https://github.com/maartenSXM","location":"Sint Maarten","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-24","pendingRevalidation":true},
@@ -31,8 +31,8 @@
   {"rank":22,"id":null,"name":".github","nameWithOwner":"wavltopia/.github","url":"https://github.com/wavltopia/.github","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-09-28T12:42:43Z","pushedAt":"2023-09-28T12:47:22Z","archived":false,"owner":{"login":"wavltopia","name":"wavl","type":"Organization","url":"https://github.com/wavltopia","location":"Sint Maarten (Dutch part)","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-24","pendingRevalidation":true},
   {"rank":23,"id":null,"name":"TOP_Landing_Project","nameWithOwner":"WWilliamsEdwards/TOP_Landing_Project","url":"https://github.com/WWilliamsEdwards/TOP_Landing_Project","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2025-10-10T16:16:46Z","pushedAt":"2025-10-10T16:16:47Z","archived":false,"owner":{"login":"WWilliamsEdwards","name":"ice","type":"User","url":"https://github.com/WWilliamsEdwards","location":"Sint Maarten","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-24","pendingRevalidation":true}
 ],
-"contentHash": "f2d56abb84bb70b3",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "dc574a76a5b1256c",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-24",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

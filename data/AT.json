@@ -5,7 +5,7 @@
 "country": {"code":"AT","name":"Austria","slug":"austria"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1916,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1916,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"pi","nameWithOwner":"earendil-works/pi","url":"https://github.com/earendil-works/pi","description":null,"stars":112190,"forks":14232,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2025-08-09T14:03:50Z","pushedAt":"2026-10-04T00:44:54Z","archived":false,"owner":{"login":"earendil-works","name":"Earendil Works","type":"Organization","url":"https://github.com/earendil-works","location":"Austria","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"MPAndroidChart","nameWithOwner":"PhilJay/MPAndroidChart","url":"https://github.com/PhilJay/MPAndroidChart","description":null,"stars":38183,"forks":8975,"primaryLanguage":"Kotlin","license":{"spdxId":"Apache-2.0"},"createdAt":"2014-04-25T14:29:47Z","pushedAt":"2026-09-28T20:57:28Z","archived":false,"owner":{"login":"PhilJay","name":"Philipp Jahoda","type":"User","url":"https://github.com/PhilJay","location":"Austria","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"bayesian-machine-learning","nameWithOwner":"krasserm/bayesian-machine-learning","url":"https://github.com/krasserm/bayesian-machine-learning","description":null,"stars":1919,"forks":473,"primaryLanguage":"Jupyter Notebook","license":{"spdxId":"Apache-2.0"},"createdAt":"2018-03-19T14:17:43Z","pushedAt":"2026-07-12T05:22:49Z","archived":false,"owner":{"login":"krasserm","name":"Martin Krasser","type":"User","url":"https://github.com/krasserm","location":"Vienna, Austria","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"HeadsetControl","nameWithOwner":"Sapd/HeadsetControl","url":"https://github.com/Sapd/HeadsetControl","description":null,"stars":1916,"forks":252,"primaryLanguage":"C++","license":{"spdxId":"GPL-3.0"},"createdAt":"2016-02-13T21:52:18Z","pushedAt":"2026-10-02T07:05:35Z","archived":false,"owner":{"login":"Sapd","name":"Denis Arnst","type":"User","url":"https://github.com/Sapd","location":"Vienna, Austria","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "348c7c60fb6432dc",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "57a23afbcc3dfb33",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

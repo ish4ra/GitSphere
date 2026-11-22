@@ -5,7 +5,7 @@
 "country": {"code":"SI","name":"Slovenia","slug":"slovenia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":226,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":226,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"python-cheatsheet","nameWithOwner":"gto76/python-cheatsheet","url":"https://github.com/gto76/python-cheatsheet","description":null,"stars":38695,"forks":6689,"primaryLanguage":"Python","license":null,"createdAt":"2018-01-25T04:16:53Z","pushedAt":"2026-07-29T14:56:37Z","archived":false,"owner":{"login":"gto76","name":"Jure Šorn","type":"User","url":"https://github.com/gto76","location":"Ljubljana","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"decap-cms","nameWithOwner":"decaporg/decap-cms","url":"https://github.com/decaporg/decap-cms","description":null,"stars":19409,"forks":3140,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2015-01-20T05:47:47Z","pushedAt":"2026-10-02T18:30:28Z","archived":false,"owner":{"login":"decaporg","name":"Decap CMS","type":"Organization","url":"https://github.com/decaporg","location":"Slovenia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"huri","nameWithOwner":"sbelak/huri","url":"https://github.com/sbelak/huri","description":null,"stars":227,"forks":16,"primaryLanguage":"Clojure","license":{"spdxId":"EPL-1.0"},"createdAt":"2016-02-20T10:31:18Z","pushedAt":"2019-02-05T16:12:15Z","archived":false,"owner":{"login":"sbelak","name":"Simon Belak","type":"User","url":"https://github.com/sbelak","location":"Ljubljana, Slovenia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"codegpt","nameWithOwner":"timkmecl/codegpt","url":"https://github.com/timkmecl/codegpt","description":null,"stars":226,"forks":68,"primaryLanguage":"TypeScript","license":null,"createdAt":"2022-12-30T17:07:00Z","pushedAt":"2023-04-15T18:51:47Z","archived":false,"owner":{"login":"timkmecl","name":"Tim Kmecl","type":"User","url":"https://github.com/timkmecl","location":"Ljubljana, Slovenia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true}
 ],
-"contentHash": "4460980c947120f7",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "06a8f75a0d246f6a",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

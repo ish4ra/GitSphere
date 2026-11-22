@@ -5,7 +5,7 @@
 "country": {"code":"BZ","name":"Belize","slug":"belize"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"wagerr","nameWithOwner":"wagerr/wagerr","url":"https://github.com/wagerr/wagerr","description":null,"stars":69,"forks":73,"primaryLanguage":"C++","license":{"spdxId":"MIT"},"createdAt":"2018-02-18T00:01:09Z","pushedAt":"2021-12-09T10:04:38Z","archived":false,"owner":{"login":"wagerr","name":"Wagerr Ltd","type":"Organization","url":"https://github.com/wagerr","location":"Belize","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"postfix-parser","nameWithOwner":"Privex/postfix-parser","url":"https://github.com/Privex/postfix-parser","description":null,"stars":56,"forks":12,"primaryLanguage":"Python","license":{"spdxId":"NOASSERTION"},"createdAt":"2019-09-22T02:43:43Z","pushedAt":"2022-12-18T14:04:26Z","archived":false,"owner":{"login":"Privex","name":"Privex","type":"Organization","url":"https://github.com/Privex","location":"Belize","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"OldHTML","nameWithOwner":"BelizeVacationsTours/OldHTML","url":"https://github.com/BelizeVacationsTours/OldHTML","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2025-10-28T17:14:52Z","pushedAt":"2025-10-28T17:14:52Z","archived":false,"owner":{"login":"BelizeVacationsTours","name":"BelizeVacationTour","type":"User","url":"https://github.com/BelizeVacationsTours","location":"Belize","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"PowerBI","nameWithOwner":"beta-side/PowerBI","url":"https://github.com/beta-side/PowerBI","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2025-09-04T01:35:27Z","pushedAt":"2025-09-04T01:35:27Z","archived":false,"owner":{"login":"beta-side","name":"jonas6900","type":"User","url":"https://github.com/beta-side","location":"Belize","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "b5dd98a5bee97305",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "33851b778c8104b0",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-11-04",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

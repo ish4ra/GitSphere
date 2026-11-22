@@ -5,7 +5,7 @@
 "country": {"code":"PY","name":"Paraguay","slug":"paraguay"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Flatseal","nameWithOwner":"tchx84/Flatseal","url":"https://github.com/tchx84/Flatseal","description":null,"stars":1789,"forks":113,"primaryLanguage":"JavaScript","license":{"spdxId":"GPL-3.0"},"createdAt":"2020-01-27T10:25:24Z","pushedAt":"2026-09-26T11:23:46Z","archived":false,"owner":{"login":"tchx84","name":"Martin Abente Lahaye","type":"User","url":"https://github.com/tchx84","location":"Paraguay","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-14","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"facebook-tunnel","nameWithOwner":"matiasinsaurralde/facebook-tunnel","url":"https://github.com/matiasinsaurralde/facebook-tunnel","description":null,"stars":1289,"forks":82,"primaryLanguage":"Roff","license":null,"createdAt":"2013-12-06T22:43:12Z","pushedAt":"2016-06-29T12:30:33Z","archived":false,"owner":{"login":"matiasinsaurralde","name":"Matías Insaurralde","type":"User","url":"https://github.com/matiasinsaurralde","location":"Paraguay","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-14","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Challenge-One-BackEndJava-Spring","nameWithOwner":"marior102/Challenge-One-BackEndJava-Spring","url":"https://github.com/marior102/Challenge-One-BackEndJava-Spring","description":null,"stars":1,"forks":1,"primaryLanguage":"Java","license":null,"createdAt":"2023-03-03T02:58:15Z","pushedAt":"2023-03-28T14:20:21Z","archived":false,"owner":{"login":"marior102","name":"Mario Rodriguez","type":"User","url":"https://github.com/marior102","location":"Paraguay","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"IS2-CasaDeCambios","nameWithOwner":"MartinFerrer/IS2-CasaDeCambios","url":"https://github.com/MartinFerrer/IS2-CasaDeCambios","description":null,"stars":1,"forks":1,"primaryLanguage":"HTML","license":null,"createdAt":"2025-07-28T17:56:18Z","pushedAt":"2025-12-12T16:48:55Z","archived":false,"owner":{"login":"MartinFerrer","name":"Martín Ferrer Canese","type":"User","url":"https://github.com/MartinFerrer","location":"Paraguay","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "8c5f08f5f1ac6514",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "c1aa3805c1794f04",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-14",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"TT","name":"Trinidad & Tobago","slug":"trinidad-tobago"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Linux-Bash-Commands","nameWithOwner":"trinib/Linux-Bash-Commands","url":"https://github.com/trinib/Linux-Bash-Commands","description":null,"stars":4147,"forks":312,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2022-11-05T03:07:48Z","pushedAt":"2026-01-07T13:42:45Z","archived":false,"owner":{"login":"trinib","name":"☣┌͜∩͜┐͜(͜◣͜_͜◢͜)͜┌͜∩͜┐☣","type":"User","url":"https://github.com/trinib","location":"❤Trinidad & Tobago❤","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"AdGuard-WireGuard-Unbound-DNScrypt","nameWithOwner":"trinib/AdGuard-WireGuard-Unbound-DNScrypt","url":"https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt","description":null,"stars":907,"forks":62,"primaryLanguage":"YAML","license":{"spdxId":"MIT"},"createdAt":"2021-03-27T15:07:21Z","pushedAt":"2026-06-15T22:46:07Z","archived":false,"owner":{"login":"trinib","name":"☣┌͜∩͜┐͜(͜◣͜_͜◢͜)͜┌͜∩͜┐☣","type":"User","url":"https://github.com/trinib","location":"❤Trinidad & Tobago❤","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"my_login_app","nameWithOwner":"panmaestros/my_login_app","url":"https://github.com/panmaestros/my_login_app","description":null,"stars":1,"forks":2,"primaryLanguage":"JavaScript","license":null,"createdAt":"2018-02-05T22:32:29Z","pushedAt":"2018-02-10T20:11:03Z","archived":false,"owner":{"login":"panmaestros","name":"Pan Maestros","type":"User","url":"https://github.com/panmaestros","location":"Delamarre Ave Trincity, Trinidad and Tobago","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"comp3607-project","nameWithOwner":"0xNick404/comp3607-project","url":"https://github.com/0xNick404/comp3607-project","description":null,"stars":1,"forks":1,"primaryLanguage":"Java","license":null,"createdAt":"2025-10-22T22:01:43Z","pushedAt":"2025-11-27T04:18:36Z","archived":true,"owner":{"login":"0xNick404","name":"Nicholas Grimes","type":"User","url":"https://github.com/0xNick404","location":"Trinidad and Tobago","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "e59b85424fe03568",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "0eb88f373c0037f3",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"MQ","name":"Martinique","slug":"martinique"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":120,"candidates":120,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":120,"candidates":120,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"qwen3.8-Flash-DGX","nameWithOwner":"blazux/qwen3.8-Flash-DGX","url":"https://github.com/blazux/qwen3.8-Flash-DGX","description":null,"stars":398,"forks":57,"primaryLanguage":"Python","license":{"spdxId":"NOASSERTION"},"createdAt":"2026-08-27T02:29:15Z","pushedAt":"2026-10-01T21:51:31Z","archived":false,"owner":{"login":"blazux","name":"Vincent B.","type":"User","url":"https://github.com/blazux","location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"j4x-api-collection","nameWithOwner":"alexandreelise/j4x-api-collection","url":"https://github.com/alexandreelise/j4x-api-collection","description":null,"stars":72,"forks":30,"primaryLanguage":null,"license":{"spdxId":"GPL-2.0"},"createdAt":"2019-11-10T18:34:38Z","pushedAt":"2026-05-05T20:01:20Z","archived":false,"owner":{"login":"alexandreelise","name":"Mr Alexandre J-S William ELISÉ","type":"User","url":"https://github.com/alexandreelise","location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"website","nameWithOwner":"projetaaa/website","url":"https://github.com/projetaaa/website","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2026-03-13T14:18:02Z","pushedAt":"2026-07-20T21:11:49Z","archived":false,"owner":{"login":"projetaaa","name":"Projet AAA","type":"Organization","url":"https://github.com/projetaaa","location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"p1x3l-clawd","nameWithOwner":"R3tr8/p1x3l-clawd","url":"https://github.com/R3tr8/p1x3l-clawd","description":null,"stars":0,"forks":0,"primaryLanguage":"Rust","license":{"spdxId":"MIT"},"createdAt":"2026-08-01T04:14:10Z","pushedAt":"2026-08-01T04:57:14Z","archived":false,"owner":{"login":"R3tr8","name":"Franck-Emmanuel","type":"User","url":"https://github.com/R3tr8","location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "0a6c0f5ace34028a",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "77100a8add8a6d64",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"OM","name":"Oman","slug":"oman"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"awesome-cursor-rules-mdc","nameWithOwner":"sanjeed5/awesome-cursor-rules-mdc","url":"https://github.com/sanjeed5/awesome-cursor-rules-mdc","description":null,"stars":3575,"forks":449,"primaryLanguage":"Python","license":{"spdxId":"CC0-1.0"},"createdAt":"2025-02-17T11:23:04Z","pushedAt":"2026-05-19T12:28:00Z","archived":false,"owner":{"login":"sanjeed5","name":"Sanjeed","type":"User","url":"https://github.com/sanjeed5","location":"Bangalore / Oman","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Kage","nameWithOwner":"Zerx0r/Kage","url":"https://github.com/Zerx0r/Kage","description":null,"stars":1236,"forks":285,"primaryLanguage":"Vue","license":{"spdxId":"GPL-3.0"},"createdAt":"2018-11-16T07:20:50Z","pushedAt":"2022-10-01T13:44:09Z","archived":true,"owner":{"login":"Zerx0r","name":"Zerx0r","type":"User","url":"https://github.com/Zerx0r","location":"Oman, Muscat","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-09","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"microsoft-iq-insider","nameWithOwner":"MahdiSheikhi/microsoft-iq-insider","url":"https://github.com/MahdiSheikhi/microsoft-iq-insider","description":null,"stars":2,"forks":0,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2026-06-08T04:59:23Z","pushedAt":"2026-06-08T04:59:30Z","archived":false,"owner":{"login":"MahdiSheikhi","name":"Mahdi Sheikhi","type":"User","url":"https://github.com/MahdiSheikhi","location":"Oman","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"-Quick-Fix-Phone-","nameWithOwner":"mdsiam7826-creator/-Quick-Fix-Phone-","url":"https://github.com/mdsiam7826-creator/-Quick-Fix-Phone-","description":null,"stars":2,"forks":0,"primaryLanguage":"Astro","license":null,"createdAt":"2025-09-03T01:01:32Z","pushedAt":"2025-09-03T01:01:45Z","archived":false,"owner":{"login":"mdsiam7826-creator","name":"📱 Quick Fix Phone 🇴🇲","type":"User","url":"https://github.com/mdsiam7826-creator","location":"📍 Location: Al Khuwair, Oman 🇴🇲","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "3c09932014eadb80",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "4bc858aeee2b5f01",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-09",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

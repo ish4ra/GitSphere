@@ -5,7 +5,7 @@
 "country": {"code":"JP","name":"Japan","slug":"japan"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":5463,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":5463,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"ChinaTextbook","nameWithOwner":"TapXWorld/ChinaTextbook","url":"https://github.com/TapXWorld/ChinaTextbook","description":null,"stars":82524,"forks":18721,"primaryLanguage":"Roff","license":null,"createdAt":"2020-01-05T04:11:06Z","pushedAt":"2025-10-18T13:39:24Z","archived":false,"owner":{"login":"TapXWorld","name":null,"type":"User","url":"https://github.com/TapXWorld","location":"Tokyo","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"awesome-android-ui","nameWithOwner":"wasabeef/awesome-android-ui","url":"https://github.com/wasabeef/awesome-android-ui","description":null,"stars":57813,"forks":10253,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2014-12-24T01:45:03Z","pushedAt":"2026-06-05T05:39:52Z","archived":false,"owner":{"login":"wasabeef","name":"Daichi Furiya","type":"User","url":"https://github.com/wasabeef","location":"Tokyo, Japan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"go-prompt","nameWithOwner":"c-bata/go-prompt","url":"https://github.com/c-bata/go-prompt","description":null,"stars":5502,"forks":375,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2017-08-14T16:02:09Z","pushedAt":"2025-08-12T09:07:32Z","archived":false,"owner":{"login":"c-bata","name":"c-bata","type":"User","url":"https://github.com/c-bata","location":"Tokyo","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"vue-property-decorator","nameWithOwner":"kaorun343/vue-property-decorator","url":"https://github.com/kaorun343/vue-property-decorator","description":null,"stars":5463,"forks":374,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2016-01-14T13:16:49Z","pushedAt":"2023-04-11T05:28:16Z","archived":true,"owner":{"login":"kaorun343","name":null,"type":"User","url":"https://github.com/kaorun343","location":"Japan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "4138ec23ca376a27",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "e34b9238d5fcf189",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

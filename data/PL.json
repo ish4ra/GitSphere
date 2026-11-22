@@ -5,7 +5,7 @@
 "country": {"code":"PL","name":"Poland","slug":"poland"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1101,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1101,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"the-book-of-secret-knowledge","nameWithOwner":"trimstray/the-book-of-secret-knowledge","url":"https://github.com/trimstray/the-book-of-secret-knowledge","description":null,"stars":248268,"forks":14457,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2018-06-23T10:43:14Z","pushedAt":"2024-11-19T14:00:38Z","archived":false,"owner":{"login":"trimstray","name":"Michał Ży","type":"User","url":"https://github.com/trimstray","location":"Poland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"stats","nameWithOwner":"exelban/stats","url":"https://github.com/exelban/stats","description":null,"stars":42337,"forks":1557,"primaryLanguage":"Swift","license":{"spdxId":"MIT"},"createdAt":"2019-05-29T19:24:56Z","pushedAt":"2026-10-06T15:36:33Z","archived":false,"owner":{"login":"exelban","name":"Serhiy Mytrovtsiy","type":"User","url":"https://github.com/exelban","location":"Warsaw, Poland","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"nanite-webgpu","nameWithOwner":"Scthe/nanite-webgpu","url":"https://github.com/Scthe/nanite-webgpu","description":null,"stars":1112,"forks":57,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2024-07-15T20:27:17Z","pushedAt":"2026-05-09T23:01:20Z","archived":false,"owner":{"login":"Scthe","name":"Marcin Matuszczyk","type":"User","url":"https://github.com/Scthe","location":"Wroclaw, Poland","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"gush","nameWithOwner":"chaps-io/gush","url":"https://github.com/chaps-io/gush","description":null,"stars":1101,"forks":111,"primaryLanguage":"Ruby","license":{"spdxId":"MIT"},"createdAt":"2014-03-18T15:59:18Z","pushedAt":"2025-11-20T10:26:39Z","archived":false,"owner":{"login":"chaps-io","name":"chaps-io","type":"Organization","url":"https://github.com/chaps-io","location":"Wrocław, Poland","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "4f140fbd251f4db0",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "c6218c5431383c4d",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

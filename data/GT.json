@@ -5,7 +5,7 @@
 "country": {"code":"GT","name":"Guatemala","slug":"guatemala"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"flutter_ecommerce_template","nameWithOwner":"robertodevs/flutter_ecommerce_template","url":"https://github.com/robertodevs/flutter_ecommerce_template","description":null,"stars":1585,"forks":716,"primaryLanguage":"Dart","license":{"spdxId":"MIT"},"createdAt":"2020-03-12T13:31:33Z","pushedAt":"2024-08-14T13:59:13Z","archived":false,"owner":{"login":"robertodevs","name":"Roberto Juarez","type":"User","url":"https://github.com/robertodevs","location":"Guatemala","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-15","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"docky","nameWithOwner":"josejuanqm/docky","url":"https://github.com/josejuanqm/docky","description":null,"stars":1344,"forks":73,"primaryLanguage":"Swift","license":{"spdxId":"GPL-3.0"},"createdAt":"2026-04-18T17:14:25Z","pushedAt":"2026-10-02T15:06:30Z","archived":false,"owner":{"login":"josejuanqm","name":"Jose Quintero","type":"User","url":"https://github.com/josejuanqm","location":"Guatemala","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-15","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"PortalEM","nameWithOwner":"hdaespina/PortalEM","url":"https://github.com/hdaespina/PortalEM","description":null,"stars":1,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2026-05-29T16:37:20Z","pushedAt":"2026-05-30T23:10:39Z","archived":false,"owner":{"login":"hdaespina","name":"Herberth Alvarez","type":"User","url":"https://github.com/hdaespina","location":"Guatemala","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"hectorayala06","nameWithOwner":"hectorayala06/hectorayala06","url":"https://github.com/hectorayala06/hectorayala06","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2022-05-01T05:55:43Z","pushedAt":"2022-05-01T05:55:44Z","archived":false,"owner":{"login":"hectorayala06","name":null,"type":"User","url":"https://github.com/hectorayala06","location":"Guatemala","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "7506bc8b7d7358f0",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "a20931e38b2d46f0",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-15",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

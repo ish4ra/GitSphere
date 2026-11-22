@@ -5,7 +5,7 @@
 "country": {"code":"MA","name":"Morocco","slug":"morocco"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"PLFM_RADAR","nameWithOwner":"NawfalMotii79/PLFM_RADAR","url":"https://github.com/NawfalMotii79/PLFM_RADAR","description":null,"stars":26711,"forks":6022,"primaryLanguage":"PLSQL","license":{"spdxId":"NOASSERTION"},"createdAt":"2026-03-08T23:20:58Z","pushedAt":"2026-06-17T02:44:52Z","archived":false,"owner":{"login":"NawfalMotii79","name":null,"type":"User","url":"https://github.com/NawfalMotii79","location":"Casablanca, MOROCCO","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"stackedit","nameWithOwner":"benweet/stackedit","url":"https://github.com/benweet/stackedit","description":null,"stars":23097,"forks":2810,"primaryLanguage":"JavaScript","license":{"spdxId":"Apache-2.0"},"createdAt":"2013-03-24T13:46:06Z","pushedAt":"2023-07-04T16:12:06Z","archived":false,"owner":{"login":"benweet","name":"Benoit Schweblin","type":"User","url":"https://github.com/benweet","location":"Marrakech, Morocco","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"vacasion-planer","nameWithOwner":"Abdel200450/vacasion-planer","url":"https://github.com/Abdel200450/vacasion-planer","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":{"spdxId":"GPL-2.0"},"createdAt":"2020-07-25T13:01:30Z","pushedAt":"2020-07-25T13:09:38Z","archived":false,"owner":{"login":"Abdel200450","name":"Abdeljalil Otman","type":"User","url":"https://github.com/Abdel200450","location":"Morocco","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Android-Studio-Projects","nameWithOwner":"abdelati-bourzik/Android-Studio-Projects","url":"https://github.com/abdelati-bourzik/Android-Studio-Projects","description":null,"stars":1,"forks":0,"primaryLanguage":"Java","license":null,"createdAt":"2021-02-09T17:27:19Z","pushedAt":"2021-03-01T16:46:19Z","archived":false,"owner":{"login":"abdelati-bourzik","name":"BOURZIK Abdelati","type":"User","url":"https://github.com/abdelati-bourzik","location":"Morocco","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "23e7c91197185677",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "8d13bcf828ca8d05",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

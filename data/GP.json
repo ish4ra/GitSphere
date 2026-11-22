@@ -5,7 +5,7 @@
 "country": {"code":"GP","name":"Guadeloupe","slug":"guadeloupe"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"snowden-archive","nameWithOwner":"iamcryptoki/snowden-archive","url":"https://github.com/iamcryptoki/snowden-archive","description":null,"stars":1414,"forks":199,"primaryLanguage":null,"license":null,"createdAt":"2017-01-21T22:15:48Z","pushedAt":"2020-01-14T12:59:22Z","archived":false,"owner":{"login":"iamcryptoki","name":"Gael Gentil","type":"User","url":"https://github.com/iamcryptoki","location":"Guadeloupe","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"twmn","nameWithOwner":"sboli/twmn","url":"https://github.com/sboli/twmn","description":null,"stars":533,"forks":46,"primaryLanguage":"C++","license":{"spdxId":"LGPL-3.0"},"createdAt":"2011-08-16T18:17:09Z","pushedAt":"2025-10-23T11:07:05Z","archived":false,"owner":{"login":"sboli","name":"Bolivar Stephen","type":"User","url":"https://github.com/sboli","location":"Guadeloupe","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"bokit","nameWithOwner":"Jika97/bokit","url":"https://github.com/Jika97/bokit","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2021-03-23T17:34:13Z","pushedAt":"2021-03-23T18:03:49Z","archived":false,"owner":{"login":"Jika97","name":"Jika97","type":"User","url":"https://github.com/Jika97","location":"Guadeloupe","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"metrie-gp","nameWithOwner":"JoDrm/metrie-gp","url":"https://github.com/JoDrm/metrie-gp","description":null,"stars":0,"forks":0,"primaryLanguage":"Astro","license":null,"createdAt":"2026-04-23T16:37:23Z","pushedAt":"2026-09-21T14:07:00Z","archived":false,"owner":{"login":"JoDrm","name":"Jodrm","type":"User","url":"https://github.com/JoDrm","location":"Guadeloupe","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "13b0e26a846b2a03",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "ae3ded38ad9dcf35",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

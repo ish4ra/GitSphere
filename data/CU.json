@@ -5,7 +5,7 @@
 "country": {"code":"CU","name":"Cuba","slug":"cuba"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":6,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":6,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"GamerHack.github.io","nameWithOwner":"GamerHack/GamerHack.github.io","url":"https://github.com/GamerHack/GamerHack.github.io","description":null,"stars":263,"forks":196,"primaryLanguage":"HTML","license":null,"createdAt":"2022-04-15T03:36:41Z","pushedAt":"2026-11-04T02:56:01Z","archived":false,"owner":{"login":"GamerHack","name":null,"type":"User","url":"https://github.com/GamerHack","location":"Cuba","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"KDE-Services","nameWithOwner":"geobarrod/KDE-Services","url":"https://github.com/geobarrod/KDE-Services","description":null,"stars":107,"forks":21,"primaryLanguage":"Shell","license":{"spdxId":"BSD-3-Clause"},"createdAt":"2013-06-22T02:55:35Z","pushedAt":"2026-10-03T04:33:39Z","archived":false,"owner":{"login":"geobarrod","name":"Geo B.R.","type":"User","url":"https://github.com/geobarrod","location":"Havana, Cuba","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"dix","nameWithOwner":"acano99/dix","url":"https://github.com/acano99/dix","description":null,"stars":6,"forks":0,"primaryLanguage":"Dart","license":{"spdxId":"MIT"},"createdAt":"2025-10-06T18:25:34Z","pushedAt":"2025-10-10T21:11:46Z","archived":false,"owner":{"login":"acano99","name":"Abrahan Cano","type":"User","url":"https://github.com/acano99","location":"Cienfuegos, Cuba","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"windows-theme-automation","nameWithOwner":"ArielPlayit/windows-theme-automation","url":"https://github.com/ArielPlayit/windows-theme-automation","description":null,"stars":6,"forks":0,"primaryLanguage":"C#","license":{"spdxId":"MIT"},"createdAt":"2025-12-17T18:57:46Z","pushedAt":"2026-06-16T18:01:40Z","archived":false,"owner":{"login":"ArielPlayit","name":"Ariel Juan Lorenzo","type":"User","url":"https://github.com/ArielPlayit","location":"Havana - Cuba","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "2a9709e25baecc32",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "e7492f1b195dcc25",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-11-04",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

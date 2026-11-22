@@ -5,7 +5,7 @@
 "country": {"code":"LA","name":"Laos","slug":"laos"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"kernel_samsung_universal7885","nameWithOwner":"topser9/kernel_samsung_universal7885","url":"https://github.com/topser9/kernel_samsung_universal7885","description":null,"stars":31,"forks":17,"primaryLanguage":"C","license":{"spdxId":"NOASSERTION"},"createdAt":"2021-06-10T22:34:01Z","pushedAt":"2022-04-04T21:12:14Z","archived":false,"owner":{"login":"topser9","name":"Top","type":"User","url":"https://github.com/topser9","location":"Lao People's Democratic Republic","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"ux-ui-promax-skill","nameWithOwner":"dekitproject/ux-ui-promax-skill","url":"https://github.com/dekitproject/ux-ui-promax-skill","description":null,"stars":17,"forks":0,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2026-06-30T06:02:52Z","pushedAt":"2026-06-30T06:03:32Z","archived":false,"owner":{"login":"dekitproject","name":"@dekitproject","type":"User","url":"https://github.com/dekitproject","location":"Laos","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"PDO_CRUD","nameWithOwner":"nokieng17/PDO_CRUD","url":"https://github.com/nokieng17/PDO_CRUD","description":null,"stars":1,"forks":0,"primaryLanguage":"PHP","license":{"spdxId":"Apache-2.0"},"createdAt":"2015-05-04T08:03:18Z","pushedAt":"2015-06-05T04:16:56Z","archived":false,"owner":{"login":"nokieng17","name":"Kiewlamphone SOUVANLIT","type":"User","url":"https://github.com/nokieng17","location":"Vientiane, Laos","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"nujsuahawj","nameWithOwner":"nujsuahawj/nujsuahawj","url":"https://github.com/nujsuahawj/nujsuahawj","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2021-05-21T12:20:17Z","pushedAt":"2024-10-15T16:06:14Z","archived":false,"owner":{"login":"nujsuahawj","name":"nousuaher","type":"User","url":"https://github.com/nujsuahawj","location":"laos","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "b016e1d75b659dd8",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "9d419f325b30d856",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

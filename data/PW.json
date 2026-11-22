@@ -5,7 +5,7 @@
 "country": {"code":"PW","name":"Palau","slug":"palau"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":16,"ownerExpansionBacklog":16,"candidates":16,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":16,"ownerExpansionBacklog":16,"candidates":16,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"missing","nameWithOwner":"tekinged/missing","url":"https://github.com/tekinged/missing","description":null,"stars":8,"forks":0,"primaryLanguage":null,"license":{"spdxId":"Apache-2.0"},"createdAt":"2022-02-26T00:22:54Z","pushedAt":"2022-10-17T14:09:45Z","archived":false,"owner":{"login":"tekinged","name":"tekinged","type":"Organization","url":"https://github.com/tekinged","location":"Palau","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"chicks-events","nameWithOwner":"CMPUT301F25chicks/chicks-events","url":"https://github.com/CMPUT301F25chicks/chicks-events","description":null,"stars":2,"forks":3,"primaryLanguage":"Java","license":{"spdxId":"MIT"},"createdAt":"2025-09-25T23:05:10Z","pushedAt":"2025-12-02T04:49:59Z","archived":false,"owner":{"login":"CMPUT301F25chicks","name":"chicks","type":"Organization","url":"https://github.com/CMPUT301F25chicks","location":"Palau","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -24,8 +24,8 @@
   {"rank":15,"id":null,"name":"fwt-email-kit","nameWithOwner":"lustrecker-lang/fwt-email-kit","url":"https://github.com/lustrecker-lang/fwt-email-kit","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2026-07-28T23:01:09Z","pushedAt":"2026-08-29T17:53:14Z","archived":false,"owner":{"login":"lustrecker-lang","name":"Lu Ca St","type":"User","url":"https://github.com/lustrecker-lang","location":"Palau","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":16,"id":null,"name":"Razor-Gale-Tenk-no-Kaze-F-jin-Tenk-no-Kaze-","nameWithOwner":"Redacted85/Razor-Gale-Tenk-no-Kaze-F-jin-Tenk-no-Kaze-","url":"https://github.com/Redacted85/Razor-Gale-Tenk-no-Kaze-F-jin-Tenk-no-Kaze-","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-12-02T11:12:31Z","pushedAt":"2024-12-02T11:15:31Z","archived":false,"owner":{"login":"Redacted85","name":"Matt Hall","type":"User","url":"https://github.com/Redacted85","location":"Palau","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "7aa6a6706d23b777",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "2de99707b8647bae",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

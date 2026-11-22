@@ -5,7 +5,7 @@
 "country": {"code":"PH","name":"Philippines","slug":"philippines"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":334,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":334,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"sutskever-30-implementations","nameWithOwner":"pageman/sutskever-30-implementations","url":"https://github.com/pageman/sutskever-30-implementations","description":null,"stars":5188,"forks":664,"primaryLanguage":"Jupyter Notebook","license":null,"createdAt":"2025-12-06T03:08:41Z","pushedAt":"2026-03-15T22:54:50Z","archived":false,"owner":{"login":"pageman","name":"Paul Pajo","type":"User","url":"https://github.com/pageman","location":"Manila, Philippines","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"laravel-datatables","nameWithOwner":"yajra/laravel-datatables","url":"https://github.com/yajra/laravel-datatables","description":null,"stars":4872,"forks":853,"primaryLanguage":"PHP","license":{"spdxId":"MIT"},"createdAt":"2013-11-27T02:31:18Z","pushedAt":"2026-09-15T10:33:55Z","archived":false,"owner":{"login":"yajra","name":"Arjay Angeles","type":"User","url":"https://github.com/yajra","location":"Philippines","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"mkpsxiso","nameWithOwner":"Lameguy64/mkpsxiso","url":"https://github.com/Lameguy64/mkpsxiso","description":null,"stars":336,"forks":46,"primaryLanguage":"C++","license":{"spdxId":"GPL-2.0"},"createdAt":"2016-08-06T12:53:05Z","pushedAt":"2026-07-09T10:17:03Z","archived":false,"owner":{"login":"Lameguy64","name":"John \"Lameguy\" Wilbert Villamor","type":"User","url":"https://github.com/Lameguy64","location":"Philippines","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"django-service-objects","nameWithOwner":"mixxorz/django-service-objects","url":"https://github.com/mixxorz/django-service-objects","description":null,"stars":334,"forks":29,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2017-08-13T16:16:33Z","pushedAt":"2022-12-19T18:48:31Z","archived":false,"owner":{"login":"mixxorz","name":"Mitchel Cabuloy","type":"User","url":"https://github.com/mixxorz","location":"Metro Manila, Philippines","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true}
 ],
-"contentHash": "2de9751ca33ef8bc",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "a8f62a69acf5e9be",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

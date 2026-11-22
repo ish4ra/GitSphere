@@ -5,7 +5,7 @@
 "country": {"code":"ES","name":"Spain","slug":"spain"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":2776,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":2776,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"system-prompts-and-models-of-ai-tools","nameWithOwner":"x1xhlol/system-prompts-and-models-of-ai-tools","url":"https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools","description":null,"stars":144008,"forks":34800,"primaryLanguage":null,"license":{"spdxId":"GPL-3.0"},"createdAt":"2025-03-05T16:38:29Z","pushedAt":"2026-08-11T13:01:09Z","archived":false,"owner":{"login":"x1xhlol","name":"Lucas Valbuena","type":"User","url":"https://github.com/x1xhlol","location":"Spain","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"career-ops","nameWithOwner":"career-ops-hq/career-ops","url":"https://github.com/career-ops-hq/career-ops","description":null,"stars":73408,"forks":13800,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2026-04-04T18:21:18Z","pushedAt":"2026-10-04T02:22:49Z","archived":false,"owner":{"login":"career-ops-hq","name":"career-ops","type":"Organization","url":"https://github.com/career-ops-hq","location":"Spain","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"morphicons","nameWithOwner":"guillermolg00/morphicons","url":"https://github.com/guillermolg00/morphicons","description":null,"stars":2787,"forks":80,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2026-08-01T08:15:09Z","pushedAt":"2026-09-26T22:03:42Z","archived":false,"owner":{"login":"guillermolg00","name":"Guillermo López","type":"User","url":"https://github.com/guillermolg00","location":"Granada, Spain","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"pymodbus","nameWithOwner":"pymodbus-dev/pymodbus","url":"https://github.com/pymodbus-dev/pymodbus","description":null,"stars":2776,"forks":1073,"primaryLanguage":"Python","license":{"spdxId":"NOASSERTION"},"createdAt":"2011-12-05T01:30:08Z","pushedAt":"2026-10-02T13:58:12Z","archived":false,"owner":{"login":"pymodbus-dev","name":"pymodbus","type":"Organization","url":"https://github.com/pymodbus-dev","location":"Spain","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "30956bbc0451a276",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "ee42a552e3c36ba1",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

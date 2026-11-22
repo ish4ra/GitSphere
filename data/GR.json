@@ -5,7 +5,7 @@
 "country": {"code":"GR","name":"Greece","slug":"greece"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":5,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":5,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"30-seconds-of-code","nameWithOwner":"Chalarangelo/30-seconds-of-code","url":"https://github.com/Chalarangelo/30-seconds-of-code","description":null,"stars":129318,"forks":12490,"primaryLanguage":"JavaScript","license":{"spdxId":"CC-BY-4.0"},"createdAt":"2017-11-29T17:35:03Z","pushedAt":"2026-10-02T01:17:53Z","archived":false,"owner":{"login":"Chalarangelo","name":"Angelos Chalaris","type":"User","url":"https://github.com/Chalarangelo","location":"Athens, Greece","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"iris","nameWithOwner":"kataras/iris","url":"https://github.com/kataras/iris","description":null,"stars":25560,"forks":2426,"primaryLanguage":"Go","license":{"spdxId":"BSD-3-Clause"},"createdAt":"2016-01-30T04:36:48Z","pushedAt":"2026-07-27T09:34:12Z","archived":false,"owner":{"login":"kataras","name":"Gerasimos (Makis) Maropoulos","type":"User","url":"https://github.com/kataras","location":"Greece/Athens","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"basis33","nameWithOwner":"Manchson/basis33","url":"https://github.com/Manchson/basis33","description":null,"stars":6,"forks":1,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2014-11-25T19:38:44Z","pushedAt":"2014-11-25T19:45:06Z","archived":false,"owner":{"login":"Manchson","name":"Manchson","type":"User","url":"https://github.com/Manchson","location":"Greece","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"car-rental-next-js-mastery","nameWithOwner":"Pizzaboi87/car-rental-next-js-mastery","url":"https://github.com/Pizzaboi87/car-rental-next-js-mastery","description":null,"stars":5,"forks":2,"primaryLanguage":"TypeScript","license":null,"createdAt":"2023-06-10T17:01:25Z","pushedAt":"2023-07-04T22:17:14Z","archived":false,"owner":{"login":"Pizzaboi87","name":"Peter Weiser","type":"User","url":"https://github.com/Pizzaboi87","location":"Kallithea, Greece","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "5b6e719e7b7d94c0",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "ded13f80523c9470",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

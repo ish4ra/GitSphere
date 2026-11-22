@@ -5,7 +5,7 @@
 "country": {"code":"AI","name":"Anguilla","slug":"anguilla"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":25,"ownerExpansionBacklog":25,"candidates":25,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":25,"ownerExpansionBacklog":25,"candidates":25,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"epp-python-client","nameWithOwner":"datahaven-net/epp-python-client","url":"https://github.com/datahaven-net/epp-python-client","description":null,"stars":20,"forks":17,"primaryLanguage":"Python","license":{"spdxId":"GPL-3.0"},"createdAt":"2021-04-15T20:49:29Z","pushedAt":"2026-02-06T09:02:02Z","archived":false,"owner":{"login":"datahaven-net","name":"DataHaven.NET","type":"Organization","url":"https://github.com/datahaven-net","location":"Anguilla","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-28","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"eos-karma-tokens","nameWithOwner":"KarmaApp/eos-karma-tokens","url":"https://github.com/KarmaApp/eos-karma-tokens","description":null,"stars":7,"forks":3,"primaryLanguage":"C++","license":{"spdxId":"MIT"},"createdAt":"2018-07-01T13:49:07Z","pushedAt":"2018-12-17T09:09:05Z","archived":false,"owner":{"login":"KarmaApp","name":"KARMA","type":"Organization","url":"https://github.com/KarmaApp","location":"Anguilla","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-28","pendingRevalidation":true},
@@ -33,8 +33,8 @@
   {"rank":24,"id":null,"name":"monovision","nameWithOwner":"shawnpjennings/monovision","url":"https://github.com/shawnpjennings/monovision","description":null,"stars":0,"forks":0,"primaryLanguage":"Shell","license":{"spdxId":"NOASSERTION"},"createdAt":"2026-06-04T18:05:48Z","pushedAt":"2026-10-03T00:59:26Z","archived":false,"owner":{"login":"shawnpjennings","name":null,"type":"User","url":"https://github.com/shawnpjennings","location":"Anguilla","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-28","pendingRevalidation":true},
   {"rank":25,"id":null,"name":"thumbride.github.io","nameWithOwner":"thumbride/thumbride.github.io","url":"https://github.com/thumbride/thumbride.github.io","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2021-12-05T21:21:53Z","pushedAt":"2021-12-06T21:49:41Z","archived":false,"owner":{"login":"thumbride","name":"THE THUMB RIDE","type":"User","url":"https://github.com/thumbride","location":"Anguila","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-28","pendingRevalidation":true}
 ],
-"contentHash": "66e50cb6d8d6d411",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "ef9c3441290e85c8",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-28",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

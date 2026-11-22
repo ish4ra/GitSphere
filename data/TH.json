@@ -5,7 +5,7 @@
 "country": {"code":"TH","name":"Thailand","slug":"thailand"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":115,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":115,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"elysia","nameWithOwner":"elysiajs/elysia","url":"https://github.com/elysiajs/elysia","description":null,"stars":19216,"forks":610,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2022-12-04T12:53:30Z","pushedAt":"2026-10-02T16:41:29Z","archived":false,"owner":{"login":"elysiajs","name":"elysia","type":"Organization","url":"https://github.com/elysiajs","location":"Thailand","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"shadcn-admin","nameWithOwner":"satnaing/shadcn-admin","url":"https://github.com/satnaing/shadcn-admin","description":null,"stars":15557,"forks":2350,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2024-01-26T02:46:42Z","pushedAt":"2026-09-10T22:30:37Z","archived":false,"owner":{"login":"satnaing","name":"Sat Naing","type":"User","url":"https://github.com/satnaing","location":"Bangkok, Thailand","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"course-robotframework","nameWithOwner":"up1/course-robotframework","url":"https://github.com/up1/course-robotframework","description":null,"stars":124,"forks":101,"primaryLanguage":"RobotFramework","license":null,"createdAt":"2014-05-20T07:38:53Z","pushedAt":"2025-04-21T14:19:55Z","archived":false,"owner":{"login":"up1","name":"Somkiat Puisungnoen","type":"User","url":"https://github.com/up1","location":"Bangkok, Thailand","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"gridgeist","nameWithOwner":"ohmiler/gridgeist","url":"https://github.com/ohmiler/gridgeist","description":null,"stars":115,"forks":8,"primaryLanguage":"HTML","license":{"spdxId":"MIT"},"createdAt":"2026-07-13T11:41:52Z","pushedAt":"2026-07-21T13:31:43Z","archived":false,"owner":{"login":"ohmiler","name":"miler","type":"User","url":"https://github.com/ohmiler","location":"Bangkok Thailand","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "a09d475f815ab26c",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "8c8e08ee677e32e7",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

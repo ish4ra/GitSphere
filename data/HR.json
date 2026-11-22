@@ -5,7 +5,7 @@
 "country": {"code":"HR","name":"Croatia","slug":"croatia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":775,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":775,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"awesome-remote-job","nameWithOwner":"lukasz-madon/awesome-remote-job","url":"https://github.com/lukasz-madon/awesome-remote-job","description":null,"stars":49187,"forks":4829,"primaryLanguage":null,"license":null,"createdAt":"2015-01-02T00:31:34Z","pushedAt":"2026-09-21T15:00:51Z","archived":false,"owner":{"login":"lukasz-madon","name":"Lukasz","type":"User","url":"https://github.com/lukasz-madon","location":"Earth, KRK","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"maltrail","nameWithOwner":"stamparm/maltrail","url":"https://github.com/stamparm/maltrail","description":null,"stars":8614,"forks":1267,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2014-12-04T21:33:46Z","pushedAt":"2026-10-03T14:49:44Z","archived":false,"owner":{"login":"stamparm","name":"Miroslav Stampar","type":"User","url":"https://github.com/stamparm","location":"Croatia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"project_crowdfunding","nameWithOwner":"adrianhajdin/project_crowdfunding","url":"https://github.com/adrianhajdin/project_crowdfunding","description":null,"stars":780,"forks":400,"primaryLanguage":"JavaScript","license":null,"createdAt":"2022-12-09T11:46:37Z","pushedAt":"2024-06-22T04:06:48Z","archived":false,"owner":{"login":"adrianhajdin","name":"Adrian Hajdin - JS Mastery","type":"User","url":"https://github.com/adrianhajdin","location":"Croatia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"podcastr","nameWithOwner":"adrianhajdin/podcastr","url":"https://github.com/adrianhajdin/podcastr","description":null,"stars":775,"forks":151,"primaryLanguage":"TypeScript","license":null,"createdAt":"2024-05-31T10:30:32Z","pushedAt":"2024-06-01T19:33:24Z","archived":false,"owner":{"login":"adrianhajdin","name":"Adrian Hajdin - JS Mastery","type":"User","url":"https://github.com/adrianhajdin","location":"Croatia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "a70b9eb92fb3dc7b",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "106854281a5d3a74",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

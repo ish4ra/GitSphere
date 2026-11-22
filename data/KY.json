@@ -5,7 +5,7 @@
 "country": {"code":"KY","name":"Cayman Islands","slug":"cayman-islands"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"web","nameWithOwner":"gitcoinco/web","url":"https://github.com/gitcoinco/web","description":null,"stars":1824,"forks":777,"primaryLanguage":"JavaScript","license":{"spdxId":"NOASSERTION"},"createdAt":"2017-07-10T10:53:45Z","pushedAt":"2024-08-09T22:35:57Z","archived":false,"owner":{"login":"gitcoinco","name":"Gitcoin","type":"Organization","url":"https://github.com/gitcoinco","location":"Cayman Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"deeptide","nameWithOwner":"paean-ai/deeptide","url":"https://github.com/paean-ai/deeptide","description":null,"stars":1103,"forks":140,"primaryLanguage":"Rust","license":{"spdxId":"MIT"},"createdAt":"2026-05-05T16:40:06Z","pushedAt":"2026-08-22T08:56:10Z","archived":false,"owner":{"login":"paean-ai","name":"Paean","type":"Organization","url":"https://github.com/paean-ai","location":"Cayman Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Source-code","nameWithOwner":"BasisNeuro/Source-code","url":"https://github.com/BasisNeuro/Source-code","description":null,"stars":1,"forks":0,"primaryLanguage":"Pascal","license":null,"createdAt":"2018-03-19T00:24:09Z","pushedAt":"2018-03-19T00:43:20Z","archived":false,"owner":{"login":"BasisNeuro","name":"Basis Neuro","type":"User","url":"https://github.com/BasisNeuro","location":"Cayman islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"sentinel-laravel","nameWithOwner":"Bruted/sentinel-laravel","url":"https://github.com/Bruted/sentinel-laravel","description":null,"stars":1,"forks":0,"primaryLanguage":"PHP","license":{"spdxId":"MIT"},"createdAt":"2026-06-30T05:57:17Z","pushedAt":"2026-08-29T20:12:55Z","archived":false,"owner":{"login":"Bruted","name":"Bruted","type":"User","url":"https://github.com/Bruted","location":"Cayman Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "302b3ef8e270fb2e",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "2b409b5ba9c2ad81",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

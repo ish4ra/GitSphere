@@ -5,7 +5,7 @@
 "country": {"code":"FI","name":"Finland","slug":"finland"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1718,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1718,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"java-design-patterns","nameWithOwner":"iluwatar/java-design-patterns","url":"https://github.com/iluwatar/java-design-patterns","description":null,"stars":94754,"forks":27368,"primaryLanguage":"Java","license":{"spdxId":"NOASSERTION"},"createdAt":"2014-08-09T16:45:18Z","pushedAt":"2026-09-29T04:38:29Z","archived":false,"owner":{"login":"iluwatar","name":"Ilkka Seppälä","type":"User","url":"https://github.com/iluwatar","location":"Finland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"30-Days-Of-Python","nameWithOwner":"Asabeneh/30-Days-Of-Python","url":"https://github.com/Asabeneh/30-Days-Of-Python","description":null,"stars":75165,"forks":13664,"primaryLanguage":"Python","license":null,"createdAt":"2019-11-19T17:24:16Z","pushedAt":"2026-09-30T08:10:34Z","archived":false,"owner":{"login":"Asabeneh","name":"Asabeneh","type":"User","url":"https://github.com/Asabeneh","location":"Helsinki, Finland","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"date-picker","nameWithOwner":"duetds/date-picker","url":"https://github.com/duetds/date-picker","description":null,"stars":1719,"forks":73,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2020-08-12T04:20:53Z","pushedAt":"2024-03-19T15:57:33Z","archived":true,"owner":{"login":"duetds","name":"Duet Design System","type":"Organization","url":"https://github.com/duetds","location":"Finland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"mu","nameWithOwner":"djcb/mu","url":"https://github.com/djcb/mu","description":null,"stars":1718,"forks":410,"primaryLanguage":"C++","license":{"spdxId":"GPL-3.0"},"createdAt":"2012-01-06T10:42:29Z","pushedAt":"2026-10-02T18:30:39Z","archived":false,"owner":{"login":"djcb","name":"Dirk-Jan C. Binnema","type":"User","url":"https://github.com/djcb","location":"Helsinki, Finland","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "a57b9475ae05264f",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "120c8a22b683ed6c",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

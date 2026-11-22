@@ -5,7 +5,7 @@
 "country": {"code":"SO","name":"Somalia","slug":"somalia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Backbone.ModelBinder","nameWithOwner":"theironcook/Backbone.ModelBinder","url":"https://github.com/theironcook/Backbone.ModelBinder","description":null,"stars":1409,"forks":154,"primaryLanguage":"JavaScript","license":null,"createdAt":"2012-02-23T20:30:39Z","pushedAt":"2020-03-10T14:35:49Z","archived":false,"owner":{"login":"theironcook","name":"Bart wood","type":"User","url":"https://github.com/theironcook","location":"'merca","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"pish","nameWithOwner":"Cabdulahi/pish","url":"https://github.com/Cabdulahi/pish","description":null,"stars":260,"forks":76,"primaryLanguage":"Python","license":null,"createdAt":"2019-06-20T14:04:07Z","pushedAt":"2023-11-17T03:21:58Z","archived":false,"owner":{"login":"Cabdulahi","name":"Cabdulahi Sharif","type":"User","url":"https://github.com/Cabdulahi","location":"Mogadishu","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Paysense-Landing-Page","nameWithOwner":"AflaxCade/Paysense-Landing-Page","url":"https://github.com/AflaxCade/Paysense-Landing-Page","description":null,"stars":2,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2023-12-05T14:38:22Z","pushedAt":"2023-12-05T16:52:33Z","archived":false,"owner":{"login":"AflaxCade","name":"AFLAH","type":"User","url":"https://github.com/AflaxCade","location":"Mogadishu-Somalia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"flutter_workout_timer","nameWithOwner":"alas-abdirahman/flutter_workout_timer","url":"https://github.com/alas-abdirahman/flutter_workout_timer","description":null,"stars":2,"forks":0,"primaryLanguage":"Dart","license":{"spdxId":"MIT"},"createdAt":"2023-02-04T17:49:12Z","pushedAt":"2023-02-04T17:51:29Z","archived":false,"owner":{"login":"alas-abdirahman","name":"Mohamed Abdirahman Abdullahi","type":"User","url":"https://github.com/alas-abdirahman","location":"Mogadishu, Somalia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "2b15b92e375c0bb5",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "37c12cab13441cd3",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"ET","name":"Ethiopia","slug":"ethiopia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"sql-studio","nameWithOwner":"frectonz/sql-studio","url":"https://github.com/frectonz/sql-studio","description":null,"stars":3691,"forks":130,"primaryLanguage":"Rust","license":{"spdxId":"MIT"},"createdAt":"2024-06-11T18:32:36Z","pushedAt":"2026-08-26T14:32:48Z","archived":false,"owner":{"login":"frectonz","name":"Fraol Lemecha","type":"User","url":"https://github.com/frectonz","location":"Ethiopia, Addis Abeba","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Flutter-Story-App-UI","nameWithOwner":"devefy/Flutter-Story-App-UI","url":"https://github.com/devefy/Flutter-Story-App-UI","description":null,"stars":955,"forks":321,"primaryLanguage":"Dart","license":null,"createdAt":"2019-04-04T11:51:19Z","pushedAt":"2020-10-01T16:13:33Z","archived":false,"owner":{"login":"devefy","name":"Abdulkerim Hamid","type":"User","url":"https://github.com/devefy","location":"Ethiopia, Adama","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"hello","nameWithOwner":"dagnw/hello","url":"https://github.com/dagnw/hello","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-11-13T09:16:47Z","pushedAt":"2023-11-13T09:16:48Z","archived":false,"owner":{"login":"dagnw","name":"Dagnachew Wondu","type":"User","url":"https://github.com/dagnw","location":"Ethiopia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"gosocial","nameWithOwner":"dani-medcode/gosocial","url":"https://github.com/dani-medcode/gosocial","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2022-11-01T15:36:45Z","pushedAt":"2022-11-01T15:36:47Z","archived":false,"owner":{"login":"dani-medcode","name":"Daniel Demessie","type":"User","url":"https://github.com/dani-medcode","location":"ethiopia, addis ababa,22","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "8729e859ea67a991",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "7c35544204245c35",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"KE","name":"Kenya","slug":"kenya"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":13,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":13,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"FREE-openai-api-keys","nameWithOwner":"dan1471/FREE-openai-api-keys","url":"https://github.com/dan1471/FREE-openai-api-keys","description":null,"stars":5749,"forks":594,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2024-07-23T14:23:54Z","pushedAt":"2024-07-23T14:32:10Z","archived":false,"owner":{"login":"dan1471","name":"Dancan","type":"User","url":"https://github.com/dan1471","location":"Nairobi","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"CypherX","nameWithOwner":"Dark-Xploit/CypherX","url":"https://github.com/Dark-Xploit/CypherX","description":null,"stars":2960,"forks":7822,"primaryLanguage":"Dockerfile","license":null,"createdAt":"2025-01-09T21:18:19Z","pushedAt":"2026-10-02T12:47:15Z","archived":false,"owner":{"login":"Dark-Xploit","name":"Tylor","type":"User","url":"https://github.com/Dark-Xploit","location":"Kenya","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Automate-the-boring-stuff-in-Python","nameWithOwner":"dennisnderitu254/Automate-the-boring-stuff-in-Python","url":"https://github.com/dennisnderitu254/Automate-the-boring-stuff-in-Python","description":null,"stars":14,"forks":7,"primaryLanguage":"Python","license":null,"createdAt":"2017-07-26T12:25:56Z","pushedAt":"2017-10-13T16:49:31Z","archived":false,"owner":{"login":"dennisnderitu254","name":"Dennis Nderitu Kinyanjui","type":"User","url":"https://github.com/dennisnderitu254","location":"Nairobi, Kenya","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"jmoseka","nameWithOwner":"jmoseka/jmoseka","url":"https://github.com/jmoseka/jmoseka","description":null,"stars":13,"forks":10,"primaryLanguage":null,"license":null,"createdAt":"2021-09-17T09:52:05Z","pushedAt":"2026-10-05T02:42:39Z","archived":false,"owner":{"login":"jmoseka","name":"Mila","type":"User","url":"https://github.com/jmoseka","location":"Nairobi, Kenya","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "d668939636fa6560",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "c8d584904d988e4b",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

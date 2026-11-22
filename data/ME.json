@@ -5,7 +5,7 @@
 "country": {"code":"ME","name":"Montenegro","slug":"montenegro"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":7,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":7,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Whisper","nameWithOwner":"Const-me/Whisper","url":"https://github.com/Const-me/Whisper","description":null,"stars":10674,"forks":973,"primaryLanguage":"C++","license":{"spdxId":"MPL-2.0"},"createdAt":"2023-01-07T17:25:57Z","pushedAt":"2026-09-22T15:47:38Z","archived":false,"owner":{"login":"Const-me","name":"Konstantin","type":"User","url":"https://github.com/Const-me","location":"Tivat, Montenegro","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"captcha","nameWithOwner":"dchest/captcha","url":"https://github.com/dchest/captcha","description":null,"stars":2064,"forks":305,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2011-04-26T12:58:19Z","pushedAt":"2024-12-11T08:07:11Z","archived":false,"owner":{"login":"dchest","name":"Dmitry Chestnykh","type":"User","url":"https://github.com/dchest","location":"Montenegro","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"spine-webpack-plugin","nameWithOwner":"aapavlov1994/spine-webpack-plugin","url":"https://github.com/aapavlov1994/spine-webpack-plugin","description":null,"stars":7,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2020-12-11T15:52:34Z","pushedAt":"2021-06-02T08:46:04Z","archived":false,"owner":{"login":"aapavlov1994","name":"Anton Pavlov","type":"User","url":"https://github.com/aapavlov1994","location":"Montenegro","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"JetSimpsons","nameWithOwner":"an9ar/JetSimpsons","url":"https://github.com/an9ar/JetSimpsons","description":null,"stars":7,"forks":0,"primaryLanguage":"Kotlin","license":{"spdxId":"Apache-2.0"},"createdAt":"2020-11-30T20:34:24Z","pushedAt":"2021-03-29T16:56:51Z","archived":false,"owner":{"login":"an9ar","name":"Dmitriy Grigoriev","type":"User","url":"https://github.com/an9ar","location":"Montenegro","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "8bbd449ecf2ce2fa",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "0f5153b19a5949e3",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

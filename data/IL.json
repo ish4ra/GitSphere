@@ -5,7 +5,7 @@
 "country": {"code":"IL","name":"Israel","slug":"israel"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1364,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1364,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"nodebestpractices","nameWithOwner":"goldbergyoni/nodebestpractices","url":"https://github.com/goldbergyoni/nodebestpractices","description":null,"stars":105654,"forks":10728,"primaryLanguage":"Dockerfile","license":{"spdxId":"CC-BY-SA-4.0"},"createdAt":"2017-09-15T08:33:19Z","pushedAt":"2026-06-15T11:41:04Z","archived":false,"owner":{"login":"goldbergyoni","name":"Yoni Goldberg","type":"User","url":"https://github.com/goldbergyoni","location":"Israel","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"awesome-design-patterns","nameWithOwner":"DovAmir/awesome-design-patterns","url":"https://github.com/DovAmir/awesome-design-patterns","description":null,"stars":49189,"forks":3309,"primaryLanguage":null,"license":null,"createdAt":"2018-06-04T17:47:48Z","pushedAt":"2024-10-25T19:57:00Z","archived":false,"owner":{"login":"DovAmir","name":"Dov Amir","type":"User","url":"https://github.com/DovAmir","location":"Israel","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"OpenNI","nameWithOwner":"OpenNI/OpenNI","url":"https://github.com/OpenNI/OpenNI","description":null,"stars":1396,"forks":627,"primaryLanguage":"C++","license":{"spdxId":"Apache-2.0"},"createdAt":"2010-12-08T15:35:17Z","pushedAt":"2020-11-26T08:11:03Z","archived":false,"owner":{"login":"OpenNI","name":"Ziv Hendel","type":"User","url":"https://github.com/OpenNI","location":"Israel","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"SonyHeadphonesClient","nameWithOwner":"Plutoberth/SonyHeadphonesClient","url":"https://github.com/Plutoberth/SonyHeadphonesClient","description":null,"stars":1364,"forks":112,"primaryLanguage":"C++","license":{"spdxId":"MIT"},"createdAt":"2020-08-03T12:10:43Z","pushedAt":"2025-07-19T19:55:46Z","archived":true,"owner":{"login":"Plutoberth","name":"Nir","type":"User","url":"https://github.com/Plutoberth","location":"Israel","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true}
 ],
-"contentHash": "ee35523f94d5704d",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "9029aea91b1628c0",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

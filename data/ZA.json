@@ -5,7 +5,7 @@
 "country": {"code":"ZA","name":"South Africa","slug":"south-africa"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":321,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":321,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"loop-engineering","nameWithOwner":"cobusgreyling/loop-engineering","url":"https://github.com/cobusgreyling/loop-engineering","description":null,"stars":11412,"forks":1533,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2026-06-09T06:28:20Z","pushedAt":"2026-10-04T03:10:49Z","archived":false,"owner":{"login":"cobusgreyling","name":"Cobus Greyling","type":"User","url":"https://github.com/cobusgreyling","location":"South Africa","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"lunr.js","nameWithOwner":"olivernn/lunr.js","url":"https://github.com/olivernn/lunr.js","description":null,"stars":9202,"forks":554,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2011-06-23T20:53:57Z","pushedAt":"2024-07-31T11:57:09Z","archived":false,"owner":{"login":"olivernn","name":"Oliver Nightingale","type":"User","url":"https://github.com/olivernn","location":"Cape Town","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"macbook12-spi-driver","nameWithOwner":"cb22/macbook12-spi-driver","url":"https://github.com/cb22/macbook12-spi-driver","description":null,"stars":327,"forks":162,"primaryLanguage":"C","license":{"spdxId":"GPL-2.0"},"createdAt":"2016-07-30T10:00:19Z","pushedAt":"2021-04-24T14:05:55Z","archived":false,"owner":{"login":"cb22","name":"Federico Lorenzi","type":"User","url":"https://github.com/cb22","location":"South Africa","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"The-Big-List-of-Hacked-Malware-Web-Sites","nameWithOwner":"mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites","url":"https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites","description":null,"stars":321,"forks":98,"primaryLanguage":"Shell","license":{"spdxId":"NOASSERTION"},"createdAt":"2017-07-12T10:02:58Z","pushedAt":"2023-10-16T19:49:31Z","archived":false,"owner":{"login":"mitchellkrogza","name":"Mitchell Krog","type":"User","url":"https://github.com/mitchellkrogza","location":"South Africa","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "8e23dfea7e45114f",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "d07496941bcc4043",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"DK","name":"Denmark","slug":"denmark"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1187,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1187,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"ai-job-search","nameWithOwner":"MadsLorentzen/ai-job-search","url":"https://github.com/MadsLorentzen/ai-job-search","description":null,"stars":44958,"forks":15576,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2026-03-18T14:33:04Z","pushedAt":"2026-10-03T17:33:48Z","archived":false,"owner":{"login":"MadsLorentzen","name":"Mads Lorentzen","type":"User","url":"https://github.com/MadsLorentzen","location":"Denmark","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"ml-agents","nameWithOwner":"Unity-Technologies/ml-agents","url":"https://github.com/Unity-Technologies/ml-agents","description":null,"stars":19720,"forks":4500,"primaryLanguage":"C#","license":{"spdxId":"NOASSERTION"},"createdAt":"2017-09-08T21:09:04Z","pushedAt":"2026-09-29T13:32:59Z","archived":false,"owner":{"login":"Unity-Technologies","name":"Unity Technologies","type":"Organization","url":"https://github.com/Unity-Technologies","location":"Copenhagen, Denmark","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"vscode-power-mode","nameWithOwner":"hoovercj/vscode-power-mode","url":"https://github.com/hoovercj/vscode-power-mode","description":null,"stars":1220,"forks":102,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2017-06-27T21:52:49Z","pushedAt":"2024-08-01T01:33:34Z","archived":false,"owner":{"login":"hoovercj","name":"Cody Hoover","type":"User","url":"https://github.com/hoovercj","location":"Copenhagen, Denmark","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"gpredict","nameWithOwner":"csete/gpredict","url":"https://github.com/csete/gpredict","description":null,"stars":1187,"forks":301,"primaryLanguage":"C","license":{"spdxId":"GPL-2.0"},"createdAt":"2014-08-06T20:03:51Z","pushedAt":"2026-08-16T15:12:21Z","archived":false,"owner":{"login":"csete","name":"Alexandru Csete","type":"User","url":"https://github.com/csete","location":"Denmark","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "31598b21c3657bcf",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "7bb0b86bac0ad6ec",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

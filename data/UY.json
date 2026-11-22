@@ -5,7 +5,7 @@
 "country": {"code":"UY","name":"Uruguay","slug":"uruguay"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":6,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":6,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"react-pdf","nameWithOwner":"diegomura/react-pdf","url":"https://github.com/diegomura/react-pdf","description":null,"stars":16817,"forks":1345,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2016-10-18T21:33:58Z","pushedAt":"2026-09-23T10:24:26Z","archived":false,"owner":{"login":"diegomura","name":"Diego Muracciole","type":"User","url":"https://github.com/diegomura","location":"Montevideo, Uruguay","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"velxio","nameWithOwner":"davidmonterocrespo24/velxio","url":"https://github.com/davidmonterocrespo24/velxio","description":null,"stars":3022,"forks":304,"primaryLanguage":"TypeScript","license":{"spdxId":"NOASSERTION"},"createdAt":"2026-03-03T23:12:53Z","pushedAt":"2026-10-04T21:32:03Z","archived":false,"owner":{"login":"davidmonterocrespo24","name":"David Montero Crespo","type":"User","url":"https://github.com/davidmonterocrespo24","location":"Uruguay","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"ionic4-complete-mobile-app","nameWithOwner":"djabif/ionic4-complete-mobile-app","url":"https://github.com/djabif/ionic4-complete-mobile-app","description":null,"stars":6,"forks":4,"primaryLanguage":"TypeScript","license":null,"createdAt":"2019-02-12T17:58:12Z","pushedAt":"2019-03-05T17:36:32Z","archived":false,"owner":{"login":"djabif","name":"Dayana Jabif","type":"User","url":"https://github.com/djabif","location":"Uruguay","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"KnowMe","nameWithOwner":"Maypoo/KnowMe","url":"https://github.com/Maypoo/KnowMe","description":null,"stars":6,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2026-07-04T22:50:06Z","pushedAt":"2026-08-29T15:45:10Z","archived":false,"owner":{"login":"Maypoo","name":"Mauro","type":"User","url":"https://github.com/Maypoo","location":"Uruguay","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "536efc7a0799c0bf",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "dff33b973faed768",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

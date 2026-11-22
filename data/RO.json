@@ -5,7 +5,7 @@
 "country": {"code":"RO","name":"Romania","slug":"romania"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":768,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":768,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"app-ideas","nameWithOwner":"florinpop17/app-ideas","url":"https://github.com/florinpop17/app-ideas","description":null,"stars":97928,"forks":10645,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2019-02-25T18:36:56Z","pushedAt":"2025-10-11T14:51:21Z","archived":false,"owner":{"login":"florinpop17","name":"Florin Pop","type":"User","url":"https://github.com/florinpop17","location":"Romania","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"react-bits","nameWithOwner":"DavidHDev/react-bits","url":"https://github.com/DavidHDev/react-bits","description":null,"stars":48464,"forks":2371,"primaryLanguage":"JavaScript","license":{"spdxId":"NOASSERTION"},"createdAt":"2024-08-06T06:54:54Z","pushedAt":"2026-10-03T09:08:29Z","archived":false,"owner":{"login":"DavidHDev","name":"David","type":"User","url":"https://github.com/DavidHDev","location":"Cluj-Napoca","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"vue2-transitions","nameWithOwner":"BinarCode/vue2-transitions","url":"https://github.com/BinarCode/vue2-transitions","description":null,"stars":775,"forks":72,"primaryLanguage":"Vue","license":null,"createdAt":"2017-12-29T13:29:55Z","pushedAt":"2022-12-08T14:47:23Z","archived":false,"owner":{"login":"BinarCode","name":"BinarCode","type":"Organization","url":"https://github.com/BinarCode","location":"Cluj-Napoca, Romania","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"achartengine","nameWithOwner":"ddanny/achartengine","url":"https://github.com/ddanny/achartengine","description":null,"stars":768,"forks":238,"primaryLanguage":"Java","license":null,"createdAt":"2015-11-11T18:59:43Z","pushedAt":"2022-11-19T22:21:21Z","archived":false,"owner":{"login":"ddanny","name":"Dan Dromereschi","type":"User","url":"https://github.com/ddanny","location":"Cluj-Napoca","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "11b6d8b17b824dfb",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "b7872d7ea54efbd6",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

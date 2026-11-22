@@ -5,7 +5,7 @@
 "country": {"code":"AO","name":"Angola","slug":"angola"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"100-redteam-projects","nameWithOwner":"kurogai/100-redteam-projects","url":"https://github.com/kurogai/100-redteam-projects","description":null,"stars":2919,"forks":411,"primaryLanguage":"Python","license":null,"createdAt":"2020-05-20T20:57:38Z","pushedAt":"2026-03-29T15:40:43Z","archived":false,"owner":{"login":"kurogai","name":"Héber Júlio","type":"User","url":"https://github.com/kurogai","location":"Luanda / Angola","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"menu_flutter","nameWithOwner":"braulio94/menu_flutter","url":"https://github.com/braulio94/menu_flutter","description":null,"stars":618,"forks":134,"primaryLanguage":"Dart","license":{"spdxId":"BSD-3-Clause"},"createdAt":"2018-01-05T08:35:43Z","pushedAt":"2020-07-26T04:18:56Z","archived":false,"owner":{"login":"braulio94","name":"Braulio Cassule","type":"User","url":"https://github.com/braulio94","location":"Luanda, Angola","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"calculadora-web","nameWithOwner":"eczinn/calculadora-web","url":"https://github.com/eczinn/calculadora-web","description":null,"stars":1,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2025-08-10T11:40:59Z","pushedAt":"2026-08-15T21:29:57Z","archived":false,"owner":{"login":"eczinn","name":"Emiliano Cumpanhe","type":"User","url":"https://github.com/eczinn","location":"Angola","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Curso-de-html5","nameWithOwner":"EliandroDomingos/Curso-de-html5","url":"https://github.com/EliandroDomingos/Curso-de-html5","description":null,"stars":1,"forks":0,"primaryLanguage":"HTML","license":{"spdxId":"MIT"},"createdAt":"2024-04-12T13:00:28Z","pushedAt":"2024-04-12T13:06:48Z","archived":false,"owner":{"login":"EliandroDomingos","name":"EliandroAndré","type":"User","url":"https://github.com/EliandroDomingos","location":"Angola","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "47033e7b8646bd74",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "b4a8aa9ec6961820",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-14",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

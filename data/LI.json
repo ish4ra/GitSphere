@@ -5,7 +5,7 @@
 "country": {"code":"LI","name":"Liechtenstein","slug":"liechtenstein"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"CVE-2025-55182","nameWithOwner":"msanft/CVE-2025-55182","url":"https://github.com/msanft/CVE-2025-55182","description":null,"stars":1429,"forks":196,"primaryLanguage":"Python","license":null,"createdAt":"2025-12-04T11:49:55Z","pushedAt":"2025-12-08T13:51:04Z","archived":false,"owner":{"login":"msanft","name":"Moritz Sanft","type":"User","url":"https://github.com/msanft","location":"Liechtenstein","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"aeternity","nameWithOwner":"aeternity/aeternity","url":"https://github.com/aeternity/aeternity","description":null,"stars":1086,"forks":244,"primaryLanguage":"Erlang","license":{"spdxId":"ISC"},"createdAt":"2017-08-09T11:44:30Z","pushedAt":"2026-09-15T06:02:55Z","archived":false,"owner":{"login":"aeternity","name":"æternity","type":"Organization","url":"https://github.com/aeternity","location":"Liechtenstein","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"unveil-wordpress-plugin","nameWithOwner":"zuhauseli/unveil-wordpress-plugin","url":"https://github.com/zuhauseli/unveil-wordpress-plugin","description":null,"stars":1,"forks":0,"primaryLanguage":"PHP","license":null,"createdAt":"2013-08-09T08:19:25Z","pushedAt":"2013-08-09T04:38:32Z","archived":false,"owner":{"login":"zuhauseli","name":"Webdevs","type":"Organization","url":"https://github.com/zuhauseli","location":"Liechtenstein","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Not-C-Sharp-Trash","nameWithOwner":"elliot-codes/Not-C-Sharp-Trash","url":"https://github.com/elliot-codes/Not-C-Sharp-Trash","description":null,"stars":0,"forks":1,"primaryLanguage":"C++","license":null,"createdAt":"2019-08-07T09:49:46Z","pushedAt":"2019-08-02T11:46:46Z","archived":false,"owner":{"login":"elliot-codes","name":"elliot","type":"User","url":"https://github.com/elliot-codes","location":"Schellenberg, Liechtenstein","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "33274fd40d3743c1",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "82b921787da4b298",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"MY","name":"Malaysia","slug":"malaysia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":258,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":258,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"LunaTV","nameWithOwner":"MoonTechLab/LunaTV","url":"https://github.com/MoonTechLab/LunaTV","description":null,"stars":10589,"forks":9141,"primaryLanguage":"TypeScript","license":{"spdxId":"NOASSERTION"},"createdAt":"2025-08-12T13:59:33Z","pushedAt":"2026-09-10T07:57:24Z","archived":false,"owner":{"login":"MoonTechLab","name":"MoonTechLab","type":"Organization","url":"https://github.com/MoonTechLab","location":"Malaysia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Stock-Prediction-Models","nameWithOwner":"huseinzol05/Stock-Prediction-Models","url":"https://github.com/huseinzol05/Stock-Prediction-Models","description":null,"stars":9501,"forks":3049,"primaryLanguage":"Jupyter Notebook","license":{"spdxId":"Apache-2.0"},"createdAt":"2017-12-18T10:49:59Z","pushedAt":"2023-04-16T22:03:47Z","archived":true,"owner":{"login":"huseinzol05","name":"HUSEIN ZOLKEPLI","type":"User","url":"https://github.com/huseinzol05","location":"Kedah, Malaysia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"NodaMoney","nameWithOwner":"RemyDuijkeren/NodaMoney","url":"https://github.com/RemyDuijkeren/NodaMoney","description":null,"stars":262,"forks":49,"primaryLanguage":"C#","license":{"spdxId":"Apache-2.0"},"createdAt":"2014-11-28T11:58:23Z","pushedAt":"2026-10-10T07:33:57Z","archived":false,"owner":{"login":"RemyDuijkeren","name":"Remy van Duijkeren","type":"User","url":"https://github.com/RemyDuijkeren","location":"Kuala Lumpur","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"myds","nameWithOwner":"govtechmy/myds","url":"https://github.com/govtechmy/myds","description":null,"stars":258,"forks":28,"primaryLanguage":"TypeScript","license":null,"createdAt":"2024-07-15T05:55:35Z","pushedAt":"2026-03-24T16:51:53Z","archived":false,"owner":{"login":"govtechmy","name":"Unit Nukleus GovTech Malaysia","type":"Organization","url":"https://github.com/govtechmy","location":"Malaysia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "e0dc07bae4c95eff",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "5317513675329e62",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

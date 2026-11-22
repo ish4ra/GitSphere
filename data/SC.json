@@ -5,7 +5,7 @@
 "country": {"code":"SC","name":"Seychelles","slug":"seychelles"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":148,"candidates":148,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":148,"candidates":148,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"api-connectors","nameWithOwner":"BitMEX/api-connectors","url":"https://github.com/BitMEX/api-connectors","description":null,"stars":907,"forks":774,"primaryLanguage":"C++","license":null,"createdAt":"2014-07-07T01:07:10Z","pushedAt":"2024-05-29T01:29:07Z","archived":false,"owner":{"login":"BitMEX","name":"BitMEX: Bitcoin Mercantile Exchange","type":"Organization","url":"https://github.com/BitMEX","location":"Mahé, Seychelles","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-07","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"google_inception_v3_for_caffe","nameWithOwner":"smichalowski/google_inception_v3_for_caffe","url":"https://github.com/smichalowski/google_inception_v3_for_caffe","description":null,"stars":160,"forks":108,"primaryLanguage":null,"license":null,"createdAt":"2016-03-04T14:52:53Z","pushedAt":"2016-07-05T19:53:10Z","archived":false,"owner":{"login":"smichalowski","name":"Sebastian Michalowski","type":"User","url":"https://github.com/smichalowski","location":"Victoria, Seychelles","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"yunhaisuidao","nameWithOwner":"liehuoliaoyuan1997/yunhaisuidao","url":"https://github.com/liehuoliaoyuan1997/yunhaisuidao","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2019-10-08T02:52:29Z","pushedAt":"2019-10-08T02:52:29Z","archived":false,"owner":{"login":"liehuoliaoyuan1997","name":"云海隧道","type":"User","url":"https://github.com/liehuoliaoyuan1997","location":"Republic of Seychelles","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"localusdt-hq","nameWithOwner":"localusdt-hq/localusdt-hq","url":"https://github.com/localusdt-hq/localusdt-hq","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-05-25T16:09:32Z","pushedAt":"2026-05-26T04:18:56Z","archived":false,"owner":{"login":"localusdt-hq","name":"LocalUSDT","type":"User","url":"https://github.com/localusdt-hq","location":"Seychelles","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "8a1eb4bef118315d",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "a0d5031811d3fba9",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-07",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

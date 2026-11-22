@@ -5,7 +5,7 @@
 "country": {"code":"LK","name":"Sri Lanka","slug":"sri-lanka"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":205,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":205,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"neutralinojs","nameWithOwner":"neutralinojs/neutralinojs","url":"https://github.com/neutralinojs/neutralinojs","description":null,"stars":8663,"forks":547,"primaryLanguage":"C","license":{"spdxId":"NOASSERTION"},"createdAt":"2018-06-23T03:30:41Z","pushedAt":"2026-10-04T01:19:19Z","archived":false,"owner":{"login":"neutralinojs","name":"Neutralinojs","type":"Organization","url":"https://github.com/neutralinojs","location":"Sri Lanka","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"linux-wifi-hotspot","nameWithOwner":"lakinduakash/linux-wifi-hotspot","url":"https://github.com/lakinduakash/linux-wifi-hotspot","description":null,"stars":4413,"forks":391,"primaryLanguage":"Shell","license":{"spdxId":"BSD-2-Clause"},"createdAt":"2019-02-28T15:09:58Z","pushedAt":"2026-09-17T05:15:12Z","archived":false,"owner":{"login":"lakinduakash","name":"Lakindu Akash","type":"User","url":"https://github.com/lakinduakash","location":"Colombo,Sri Lanka","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Level-Set","nameWithOwner":"Ramesh-X/Level-Set","url":"https://github.com/Ramesh-X/Level-Set","description":null,"stars":206,"forks":68,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2017-06-10T08:50:29Z","pushedAt":"2020-09-29T11:23:50Z","archived":false,"owner":{"login":"Ramesh-X","name":"Ramesh Pramuditha Rathnayake","type":"User","url":"https://github.com/Ramesh-X","location":"Sri Lanka","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"DaisyXMusic","nameWithOwner":"InukaAsith/DaisyXMusic","url":"https://github.com/InukaAsith/DaisyXMusic","description":null,"stars":205,"forks":799,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2021-04-06T13:00:50Z","pushedAt":"2022-02-17T18:09:55Z","archived":true,"owner":{"login":"InukaAsith","name":"Inuka Asith","type":"User","url":"https://github.com/InukaAsith","location":"Matara, Sri Lanka","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-03","pendingRevalidation":true}
 ],
-"contentHash": "8d7b969e64d8a079",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "2cf9b4a8e7335ba3",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-03",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

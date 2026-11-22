@@ -5,7 +5,7 @@
 "country": {"code":"AW","name":"Aruba","slug":"aruba"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":100,"candidates":100,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":100,"candidates":100,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"codified-prompt-rule-engine","nameWithOwner":"heavenaruba/codified-prompt-rule-engine","url":"https://github.com/heavenaruba/codified-prompt-rule-engine","description":null,"stars":123,"forks":1,"primaryLanguage":"HTML","license":null,"createdAt":"2026-06-28T19:33:45Z","pushedAt":"2026-10-03T23:37:56Z","archived":false,"owner":{"login":"heavenaruba","name":"Heaven Massage Aruba","type":"User","url":"https://github.com/heavenaruba","location":"Oranjestad, Aruba","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"truegitcodechurn","nameWithOwner":"flacle/truegitcodechurn","url":"https://github.com/flacle/truegitcodechurn","description":null,"stars":66,"forks":13,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2019-07-01T13:42:37Z","pushedAt":"2023-08-19T21:27:26Z","archived":false,"owner":{"login":"flacle","name":"Francis Laclé","type":"User","url":"https://github.com/flacle","location":"Aruba","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"YahuampiGMB","nameWithOwner":"YahuampiGMB/YahuampiGMB","url":"https://github.com/YahuampiGMB/YahuampiGMB","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2021-12-28T15:26:55Z","pushedAt":"2021-12-28T15:28:18Z","archived":false,"owner":{"login":"YahuampiGMB","name":"YahuampiGMB","type":"User","url":"https://github.com/YahuampiGMB","location":"Aruba","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"recored","nameWithOwner":"YutongLi-cn/recored","url":"https://github.com/YutongLi-cn/recored","description":null,"stars":0,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2021-02-09T02:05:01Z","pushedAt":"2021-02-09T02:09:24Z","archived":false,"owner":{"login":"YutongLi-cn","name":"Klara Bailey","type":"User","url":"https://github.com/YutongLi-cn","location":"488 ,Dickens Stravenue ,Lake Hollis ,Louisiana ,Aruba","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true}
 ],
-"contentHash": "077992488c74a50c",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "3c6e7fb3ee4619d1",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-25",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

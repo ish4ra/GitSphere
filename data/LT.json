@@ -5,7 +5,7 @@
 "country": {"code":"LT","name":"Lithuania","slug":"lithuania"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":279,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":279,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"vuestic-admin","nameWithOwner":"epicmaxco/vuestic-admin","url":"https://github.com/epicmaxco/vuestic-admin","description":null,"stars":10955,"forks":1795,"primaryLanguage":"Vue","license":{"spdxId":"MIT"},"createdAt":"2017-07-31T11:52:40Z","pushedAt":"2026-02-26T07:06:10Z","archived":false,"owner":{"login":"epicmaxco","name":"Epicmax","type":"Organization","url":"https://github.com/epicmaxco","location":"Lithuania","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"go-sqlmock","nameWithOwner":"DATA-DOG/go-sqlmock","url":"https://github.com/DATA-DOG/go-sqlmock","description":null,"stars":6570,"forks":420,"primaryLanguage":"Go","license":{"spdxId":"NOASSERTION"},"createdAt":"2014-02-07T07:59:29Z","pushedAt":"2026-07-10T06:12:55Z","archived":false,"owner":{"login":"DATA-DOG","name":"DATA-DOG","type":"Organization","url":"https://github.com/DATA-DOG","location":"Kaunas","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"chopper-resonance-tuner","nameWithOwner":"MRX8024/chopper-resonance-tuner","url":"https://github.com/MRX8024/chopper-resonance-tuner","description":null,"stars":281,"forks":47,"primaryLanguage":"Python","license":{"spdxId":"GPL-3.0"},"createdAt":"2024-01-30T22:30:57Z","pushedAt":"2026-01-22T19:34:34Z","archived":false,"owner":{"login":"MRX8024","name":"Maksim Bolgov","type":"User","url":"https://github.com/MRX8024","location":"Lithuania","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"GitLabApiClient","nameWithOwner":"nmklotas/GitLabApiClient","url":"https://github.com/nmklotas/GitLabApiClient","description":null,"stars":279,"forks":162,"primaryLanguage":"C#","license":{"spdxId":"MIT"},"createdAt":"2017-09-15T21:39:11Z","pushedAt":"2024-07-15T08:20:17Z","archived":true,"owner":{"login":"nmklotas","name":"Julius","type":"User","url":"https://github.com/nmklotas","location":"Vilnius, Lithuania","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "dfbdfd8d5a4be2cf",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "b7dbfb0c35d31fbf",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

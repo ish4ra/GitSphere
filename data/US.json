@@ -5,7 +5,7 @@
 "country": {"code":"US","name":"United States","slug":"united-states"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":47369,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":47369,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"build-your-own-x","nameWithOwner":"codecrafters-io/build-your-own-x","url":"https://github.com/codecrafters-io/build-your-own-x","description":null,"stars":551406,"forks":51747,"primaryLanguage":"Markdown","license":null,"createdAt":"2018-05-09T12:03:18Z","pushedAt":"2026-07-14T19:25:58Z","archived":false,"owner":{"login":"codecrafters-io","name":"CodeCrafters","type":"Organization","url":"https://github.com/codecrafters-io","location":"United States of America","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"freeCodeCamp","nameWithOwner":"freeCodeCamp/freeCodeCamp","url":"https://github.com/freeCodeCamp/freeCodeCamp","description":null,"stars":456710,"forks":48108,"primaryLanguage":"TypeScript","license":{"spdxId":"BSD-3-Clause"},"createdAt":"2014-12-24T17:49:19Z","pushedAt":"2026-10-03T23:11:26Z","archived":false,"owner":{"login":"freeCodeCamp","name":"freeCodeCamp.org","type":"Organization","url":"https://github.com/freeCodeCamp","location":"United States of America","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"scientific-agent-skills","nameWithOwner":"K-Dense-AI/scientific-agent-skills","url":"https://github.com/K-Dense-AI/scientific-agent-skills","description":null,"stars":47500,"forks":4294,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2025-10-19T20:54:15Z","pushedAt":"2026-10-01T22:42:43Z","archived":false,"owner":{"login":"K-Dense-AI","name":"K-Dense","type":"Organization","url":"https://github.com/K-Dense-AI","location":"United States of America","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"quill","nameWithOwner":"slab/quill","url":"https://github.com/slab/quill","description":null,"stars":47369,"forks":3672,"primaryLanguage":"TypeScript","license":{"spdxId":"BSD-3-Clause"},"createdAt":"2012-07-30T23:23:18Z","pushedAt":"2025-07-25T06:09:23Z","archived":false,"owner":{"login":"slab","name":"Slab","type":"Organization","url":"https://github.com/slab","location":"United States of America","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "18ffc3ac431e02ce",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "076f278057bd0143",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

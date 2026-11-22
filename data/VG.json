@@ -5,7 +5,7 @@
 "country": {"code":"VG","name":"British Virgin Islands","slug":"british-virgin-islands"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":111,"candidates":112,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":111,"candidates":112,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"node-bignum","nameWithOwner":"justmoon/node-bignum","url":"https://github.com/justmoon/node-bignum","description":null,"stars":417,"forks":115,"primaryLanguage":"JavaScript","license":null,"createdAt":"2011-11-13T17:45:42Z","pushedAt":"2021-01-27T13:07:24Z","archived":false,"owner":{"login":"justmoon","name":"Stefan Thomas","type":"User","url":"https://github.com/justmoon","location":"British Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-13","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"node-extend","nameWithOwner":"justmoon/node-extend","url":"https://github.com/justmoon/node-extend","description":null,"stars":342,"forks":76,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2012-04-08T23:56:11Z","pushedAt":"2025-03-06T18:47:41Z","archived":false,"owner":{"login":"justmoon","name":"Stefan Thomas","type":"User","url":"https://github.com/justmoon","location":"British Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-13","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Step_5","nameWithOwner":"Sekstrin/Step_5","url":"https://github.com/Sekstrin/Step_5","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":{"spdxId":"GPL-3.0"},"createdAt":"2015-10-02T19:02:18Z","pushedAt":"2015-10-02T19:12:12Z","archived":false,"owner":{"login":"Sekstrin","name":"Project Sekstrin","type":"Organization","url":"https://github.com/Sekstrin","location":"British Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"start","nameWithOwner":"sgtmarkets/start","url":"https://github.com/sgtmarkets/start","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2018-07-16T07:19:49Z","pushedAt":"2018-07-16T07:19:50Z","archived":false,"owner":{"login":"sgtmarkets","name":"Sharif Sajir SGT","type":"User","url":"https://github.com/sgtmarkets","location":"Tortola VG 1110, British Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "4236c00bec3c6dfb",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "6656cb8666a0cd0c",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-13",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

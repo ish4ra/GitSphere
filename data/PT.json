@@ -5,7 +5,7 @@
 "country": {"code":"PT","name":"Portugal","slug":"portugal"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1260,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1260,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"complete-javascript-course","nameWithOwner":"jonasschmedtmann/complete-javascript-course","url":"https://github.com/jonasschmedtmann/complete-javascript-course","description":null,"stars":17259,"forks":17439,"primaryLanguage":"JavaScript","license":null,"createdAt":"2018-06-14T17:33:47Z","pushedAt":"2024-12-10T11:38:06Z","archived":false,"owner":{"login":"jonasschmedtmann","name":"Jonas Schmedtmann","type":"User","url":"https://github.com/jonasschmedtmann","location":"Faro, Portugal","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"whoops","nameWithOwner":"filp/whoops","url":"https://github.com/filp/whoops","description":null,"stars":13231,"forks":603,"primaryLanguage":"PHP","license":{"spdxId":"MIT"},"createdAt":"2013-03-11T16:58:27Z","pushedAt":"2026-10-03T17:04:21Z","archived":false,"owner":{"login":"filp","name":"Filipe Dobreira","type":"User","url":"https://github.com/filp","location":"Lisbon, Portugal","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"arc-export","nameWithOwner":"ivnvxd/arc-export","url":"https://github.com/ivnvxd/arc-export","description":null,"stars":1261,"forks":94,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2023-10-18T10:55:20Z","pushedAt":"2025-02-06T19:21:35Z","archived":false,"owner":{"login":"ivnvxd","name":"Andrey Ivanov","type":"User","url":"https://github.com/ivnvxd","location":"Lisbon, Portugal","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"HCSStarRatingView","nameWithOwner":"hsousa/HCSStarRatingView","url":"https://github.com/hsousa/HCSStarRatingView","description":null,"stars":1260,"forks":193,"primaryLanguage":"Objective-C","license":{"spdxId":"MIT"},"createdAt":"2015-02-10T15:16:22Z","pushedAt":"2023-04-03T15:37:41Z","archived":false,"owner":{"login":"hsousa","name":"Hugo Sousa","type":"User","url":"https://github.com/hsousa","location":"Lisbon, Portugal","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true}
 ],
-"contentHash": "3599d80806a02063",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "5562399e7368538a",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

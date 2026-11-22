@@ -5,7 +5,7 @@
 "country": {"code":"BH","name":"Bahrain","slug":"bahrain"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Kubernetes-Certified-Administrator","nameWithOwner":"walidshaari/Kubernetes-Certified-Administrator","url":"https://github.com/walidshaari/Kubernetes-Certified-Administrator","description":null,"stars":4453,"forks":1604,"primaryLanguage":"Shell","license":{"spdxId":"CC-BY-SA-4.0"},"createdAt":"2017-09-15T17:40:36Z","pushedAt":"2026-09-18T08:22:52Z","archived":false,"owner":{"login":"walidshaari","name":"Walid Shaari CNJ","type":"User","url":"https://github.com/walidshaari","location":"Bahrain","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"WhatsAPI","nameWithOwner":"venomous0x/WhatsAPI","url":"https://github.com/venomous0x/WhatsAPI","description":null,"stars":2619,"forks":2083,"primaryLanguage":null,"license":null,"createdAt":"2012-05-28T16:29:46Z","pushedAt":"2023-05-27T01:45:54Z","archived":false,"owner":{"login":"venomous0x","name":"Team Venomous","type":"Organization","url":"https://github.com/venomous0x","location":"Bahrain","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"kubernetes","nameWithOwner":"iYasser95/kubernetes","url":"https://github.com/iYasser95/kubernetes","description":null,"stars":2,"forks":2,"primaryLanguage":"Shell","license":{"spdxId":"MIT"},"createdAt":"2024-03-14T08:28:54Z","pushedAt":"2024-06-23T13:03:01Z","archived":false,"owner":{"login":"iYasser95","name":"Yasser Ahmed","type":"User","url":"https://github.com/iYasser95","location":"Bahrain","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"SaddedAPIPHP","nameWithOwner":"sadadbahrain/SaddedAPIPHP","url":"https://github.com/sadadbahrain/SaddedAPIPHP","description":null,"stars":2,"forks":2,"primaryLanguage":"Hack","license":null,"createdAt":"2020-01-30T12:21:11Z","pushedAt":"2022-04-10T13:00:48Z","archived":false,"owner":{"login":"sadadbahrain","name":"SADAD Electronic Payment System BSC Closed","type":"User","url":"https://github.com/sadadbahrain","location":"Manama,Bahrain","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "7cdfcd1e99449de4",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "e54fc5e2c0d3506e",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

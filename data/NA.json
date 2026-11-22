@@ -5,7 +5,7 @@
 "country": {"code":"NA","name":"Namibia","slug":"namibia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"blanq","nameWithOwner":"Eckhardt-D/blanq","url":"https://github.com/Eckhardt-D/blanq","description":null,"stars":72,"forks":6,"primaryLanguage":"Vue","license":{"spdxId":"MIT"},"createdAt":"2025-02-20T14:52:25Z","pushedAt":"2025-03-04T10:47:48Z","archived":false,"owner":{"login":"Eckhardt-D","name":"Eckhardt Scheffer","type":"User","url":"https://github.com/Eckhardt-D","location":"Namibia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"SIMMBA-16","nameWithOwner":"rigred/SIMMBA-16","url":"https://github.com/rigred/SIMMBA-16","description":null,"stars":67,"forks":11,"primaryLanguage":"HTML","license":{"spdxId":"MIT"},"createdAt":"2022-11-21T22:53:51Z","pushedAt":"2023-01-17T13:11:06Z","archived":false,"owner":{"login":"rigred","name":"Rigo Reddig","type":"User","url":"https://github.com/rigred","location":"Namibia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"emit.com","nameWithOwner":"dracoignis-000/emit.com","url":"https://github.com/dracoignis-000/emit.com","description":null,"stars":1,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2023-05-21T17:21:59Z","pushedAt":"2023-07-17T23:44:35Z","archived":false,"owner":{"login":"dracoignis-000","name":"Godfrey Tarry Gaoseb","type":"User","url":"https://github.com/dracoignis-000","location":"Windhoek Namibia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"pdf-merge","nameWithOwner":"Driftedbucket/pdf-merge","url":"https://github.com/Driftedbucket/pdf-merge","description":null,"stars":1,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2026-08-31T14:36:09Z","pushedAt":"2026-09-03T08:03:48Z","archived":false,"owner":{"login":"Driftedbucket","name":"Awike Gulu","type":"User","url":"https://github.com/Driftedbucket","location":"Windhoek, Namibia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "13c32542e42a5d3c",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "e85bdd45237752e2",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"LB","name":"Lebanon","slug":"lebanon"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"mirror-leech-telegram-bot","nameWithOwner":"anasty17/mirror-leech-telegram-bot","url":"https://github.com/anasty17/mirror-leech-telegram-bot","description":null,"stars":4320,"forks":5121,"primaryLanguage":"Python","license":{"spdxId":"GPL-3.0"},"createdAt":"2021-10-02T18:12:12Z","pushedAt":"2026-10-04T08:05:54Z","archived":false,"owner":{"login":"anasty17","name":"Anas Tayyar","type":"User","url":"https://github.com/anasty17","location":"Saida, Lebanon","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Watusi-for-WhatsApp","nameWithOwner":"FouadRaheb/Watusi-for-WhatsApp","url":"https://github.com/FouadRaheb/Watusi-for-WhatsApp","description":null,"stars":1993,"forks":183,"primaryLanguage":null,"license":null,"createdAt":"2017-06-04T15:51:03Z","pushedAt":"2026-09-30T21:30:41Z","archived":false,"owner":{"login":"FouadRaheb","name":"Fouad Raheb","type":"User","url":"https://github.com/FouadRaheb","location":"Lebanon","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"CAFM","nameWithOwner":"JpAbg/CAFM","url":"https://github.com/JpAbg/CAFM","description":null,"stars":1,"forks":0,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2026-08-31T07:41:40Z","pushedAt":"2026-09-23T13:23:01Z","archived":false,"owner":{"login":"JpAbg","name":"Jean Paul Abou Gharib","type":"User","url":"https://github.com/JpAbg","location":"Lebanon","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Troubleshooting-Container","nameWithOwner":"KarimEid1/Troubleshooting-Container","url":"https://github.com/KarimEid1/Troubleshooting-Container","description":null,"stars":1,"forks":0,"primaryLanguage":"Dockerfile","license":{"spdxId":"MIT"},"createdAt":"2024-09-22T09:03:31Z","pushedAt":"2026-02-09T12:18:55Z","archived":false,"owner":{"login":"KarimEid1","name":"Karim Eid","type":"User","url":"https://github.com/KarimEid1","location":"Beirut, Lebanon","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "0bd04eb606835232",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "360088ac12d65671",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

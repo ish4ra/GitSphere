@@ -5,7 +5,7 @@
 "country": {"code":"LR","name":"Liberia","slug":"liberia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"laravel-amqp","nameWithOwner":"fhteam/laravel-amqp","url":"https://github.com/fhteam/laravel-amqp","description":null,"stars":28,"forks":12,"primaryLanguage":"PHP","license":{"spdxId":"GPL-2.0"},"createdAt":"2014-10-29T15:14:31Z","pushedAt":"2019-06-25T08:58:38Z","archived":false,"owner":{"login":"fhteam","name":"FORUMHOUSE","type":"Organization","url":"https://github.com/fhteam","location":"Liberia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"github","nameWithOwner":"maxwelldorliea/github","url":"https://github.com/maxwelldorliea/github","description":null,"stars":9,"forks":3,"primaryLanguage":"Shell","license":null,"createdAt":"2022-06-01T02:38:07Z","pushedAt":"2022-10-10T17:17:11Z","archived":false,"owner":{"login":"maxwelldorliea","name":"Maxwell D. Dorliea","type":"User","url":"https://github.com/maxwelldorliea","location":"Monrovia, Montserrado County, Liberia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"E-Commerce-Project","nameWithOwner":"randallmoore397/E-Commerce-Project","url":"https://github.com/randallmoore397/E-Commerce-Project","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2022-11-17T22:46:35Z","pushedAt":"2022-11-17T22:46:36Z","archived":false,"owner":{"login":"randallmoore397","name":"Randall Alexander Moore","type":"User","url":"https://github.com/randallmoore397","location":"Monrovia, Liberia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"alx-low_level_programming","nameWithOwner":"robertsundaye/alx-low_level_programming","url":"https://github.com/robertsundaye/alx-low_level_programming","description":null,"stars":1,"forks":0,"primaryLanguage":"C","license":null,"createdAt":"2022-09-09T04:24:06Z","pushedAt":"2024-03-10T19:17:28Z","archived":false,"owner":{"login":"robertsundaye","name":"Robert Sundaye","type":"User","url":"https://github.com/robertsundaye","location":"Liberia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "cc89ac8a6b386e60",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "f4a5ebb3491b6704",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

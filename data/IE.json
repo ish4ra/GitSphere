@@ -5,7 +5,7 @@
 "country": {"code":"IE","name":"Ireland","slug":"ireland"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":3,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":3,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"awesome-for-beginners","nameWithOwner":"MunGell/awesome-for-beginners","url":"https://github.com/MunGell/awesome-for-beginners","description":null,"stars":89888,"forks":8015,"primaryLanguage":null,"license":null,"createdAt":"2015-10-24T19:53:36Z","pushedAt":"2026-10-01T14:58:51Z","archived":false,"owner":{"login":"MunGell","name":"Shmavon Gazanchyan","type":"User","url":"https://github.com/MunGell","location":"Ireland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"rufus","nameWithOwner":"pbatard/rufus","url":"https://github.com/pbatard/rufus","description":null,"stars":37857,"forks":3174,"primaryLanguage":"C","license":{"spdxId":"GPL-3.0"},"createdAt":"2011-11-19T19:12:05Z","pushedAt":"2026-09-28T12:48:09Z","archived":false,"owner":{"login":"pbatard","name":"Pete Batard","type":"User","url":"https://github.com/pbatard","location":"Ireland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"RAGwithDoclingAndStreamlit","nameWithOwner":"ramighorab/RAGwithDoclingAndStreamlit","url":"https://github.com/ramighorab/RAGwithDoclingAndStreamlit","description":null,"stars":3,"forks":1,"primaryLanguage":"Python","license":null,"createdAt":"2025-08-12T21:50:44Z","pushedAt":"2025-08-12T21:51:25Z","archived":false,"owner":{"login":"ramighorab","name":"M. Rami Ghorab","type":"User","url":"https://github.com/ramighorab","location":"Dublin, Ireland","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"fixedML","nameWithOwner":"thedylanwalsh/fixedML","url":"https://github.com/thedylanwalsh/fixedML","description":null,"stars":3,"forks":1,"primaryLanguage":"XSLT","license":{"spdxId":"GPL-3.0"},"createdAt":"2016-07-13T18:27:56Z","pushedAt":"2017-07-18T10:15:26Z","archived":false,"owner":{"login":"thedylanwalsh","name":"Dylan Walsh","type":"User","url":"https://github.com/thedylanwalsh","location":"Dublin Ireland.","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "6fa463b8f9f0e127",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "09ea56af6db60276",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

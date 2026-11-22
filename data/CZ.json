@@ -5,7 +5,7 @@
 "country": {"code":"CZ","name":"Czechia","slug":"czechia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1209,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1209,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"agent-zero","nameWithOwner":"agent0ai/agent-zero","url":"https://github.com/agent0ai/agent-zero","description":null,"stars":19366,"forks":3826,"primaryLanguage":"Python","license":{"spdxId":"NOASSERTION"},"createdAt":"2024-06-10T09:10:45Z","pushedAt":"2026-10-02T16:07:50Z","archived":false,"owner":{"login":"agent0ai","name":"Agent Zero","type":"Organization","url":"https://github.com/agent0ai","location":"Czech Republic","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"phpstan","nameWithOwner":"phpstan/phpstan","url":"https://github.com/phpstan/phpstan","description":null,"stars":14120,"forks":961,"primaryLanguage":"PHP","license":{"spdxId":"MIT"},"createdAt":"2016-01-04T18:22:16Z","pushedAt":"2026-10-03T18:12:58Z","archived":false,"owner":{"login":"phpstan","name":"PHPStan","type":"Organization","url":"https://github.com/phpstan","location":"Czech Republic","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"CWR","nameWithOwner":"BohemiaInteractive/CWR","url":"https://github.com/BohemiaInteractive/CWR","description":null,"stars":1211,"forks":175,"primaryLanguage":"C++","license":{"spdxId":"NOASSERTION"},"createdAt":"2026-06-22T12:56:54Z","pushedAt":"2026-08-18T16:38:20Z","archived":false,"owner":{"login":"BohemiaInteractive","name":"Bohemia Interactive","type":"Organization","url":"https://github.com/BohemiaInteractive","location":"Czech Republic","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"LanguageBreak","nameWithOwner":"notmarek/LanguageBreak","url":"https://github.com/notmarek/LanguageBreak","description":null,"stars":1209,"forks":48,"primaryLanguage":"Shell","license":null,"createdAt":"2023-10-27T14:48:48Z","pushedAt":"2025-01-30T06:54:46Z","archived":false,"owner":{"login":"notmarek","name":"Marek Veselý","type":"User","url":"https://github.com/notmarek","location":"Czech Republic","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "bb1b42c9a7bbad0b",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "406e98977968d69f",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

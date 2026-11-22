@@ -5,7 +5,7 @@
 "country": {"code":"BS","name":"Bahamas","slug":"bahamas"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"poe_overlay","nameWithOwner":"XileHUD/poe_overlay","url":"https://github.com/XileHUD/poe_overlay","description":null,"stars":146,"forks":17,"primaryLanguage":"TypeScript","license":{"spdxId":"GPL-3.0"},"createdAt":"2025-09-26T12:07:10Z","pushedAt":"2026-07-28T23:52:49Z","archived":false,"owner":{"login":"XileHUD","name":"XileHUD","type":"Organization","url":"https://github.com/XileHUD","location":"Bahamas","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"fsolauncher","nameWithOwner":"ItsSim/fsolauncher","url":"https://github.com/ItsSim/fsolauncher","description":null,"stars":32,"forks":15,"primaryLanguage":"JavaScript","license":{"spdxId":"MPL-2.0"},"createdAt":"2018-03-01T20:06:58Z","pushedAt":"2024-12-29T00:37:08Z","archived":true,"owner":{"login":"ItsSim","name":"Sim","type":"User","url":"https://github.com/ItsSim","location":"Bahamas","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"testing-proxies-","nameWithOwner":"a9eesh/testing-proxies-","url":"https://github.com/a9eesh/testing-proxies-","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-06T08:26:51Z","pushedAt":"2024-09-06T08:28:28Z","archived":false,"owner":{"login":"a9eesh","name":null,"type":"User","url":"https://github.com/a9eesh","location":"Bahamas","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"blockchain","nameWithOwner":"Aethercoin1/blockchain","url":"https://github.com/Aethercoin1/blockchain","description":null,"stars":0,"forks":0,"primaryLanguage":"C++","license":{"spdxId":"MIT"},"createdAt":"2018-11-23T06:10:46Z","pushedAt":"2018-11-26T07:59:58Z","archived":false,"owner":{"login":"Aethercoin1","name":"Aethercoin1","type":"User","url":"https://github.com/Aethercoin1","location":"Bahamas","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "2f9d3f517865b29d",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "b9acba1f3bfcb970",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-11-04",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"NO","name":"Norway","slug":"norway"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1377,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1377,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"sherlock","nameWithOwner":"sherlock-project/sherlock","url":"https://github.com/sherlock-project/sherlock","description":null,"stars":93302,"forks":11019,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2018-12-24T14:30:48Z","pushedAt":"2026-10-06T05:17:51Z","archived":false,"owner":{"login":"sherlock-project","name":"Sherlock Project","type":"Organization","url":"https://github.com/sherlock-project","location":"Norway","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"lossless-cut","nameWithOwner":"mifi/lossless-cut","url":"https://github.com/mifi/lossless-cut","description":null,"stars":44298,"forks":2200,"primaryLanguage":"TypeScript","license":{"spdxId":"GPL-2.0"},"createdAt":"2016-10-30T10:49:56Z","pushedAt":"2026-09-30T22:09:42Z","archived":false,"owner":{"login":"mifi","name":"Mikael Finstad","type":"User","url":"https://github.com/mifi","location":"Norway","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Gallery","nameWithOwner":"hyperoslo/Gallery","url":"https://github.com/hyperoslo/Gallery","description":null,"stars":1409,"forks":269,"primaryLanguage":"Swift","license":{"spdxId":"NOASSERTION"},"createdAt":"2016-08-25T14:39:28Z","pushedAt":"2021-07-14T08:16:15Z","archived":false,"owner":{"login":"hyperoslo","name":"HyperRedink","type":"Organization","url":"https://github.com/hyperoslo","location":"Oslo","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Networking","nameWithOwner":"3lvis/Networking","url":"https://github.com/3lvis/Networking","description":null,"stars":1377,"forks":110,"primaryLanguage":"Swift","license":{"spdxId":"MIT"},"createdAt":"2015-02-22T09:59:21Z","pushedAt":"2026-09-17T19:34:09Z","archived":false,"owner":{"login":"3lvis","name":"Elvis Nunez","type":"User","url":"https://github.com/3lvis","location":"Oslo, Norway","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "cc75788fd88d0680",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "95a85bd25c2d1164",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

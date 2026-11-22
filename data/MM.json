@@ -5,7 +5,7 @@
 "country": {"code":"MM","name":"Myanmar (Burma)","slug":"myanmar-burma"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"ADB-OTG","nameWithOwner":"KhunHtetzNaing/ADB-OTG","url":"https://github.com/KhunHtetzNaing/ADB-OTG","description":null,"stars":986,"forks":414,"primaryLanguage":"Java","license":null,"createdAt":"2020-07-26T10:37:51Z","pushedAt":"2024-05-16T07:33:26Z","archived":false,"owner":{"login":"KhunHtetzNaing","name":"Khun Htetz Naing","type":"User","url":"https://github.com/KhunHtetzNaing","location":"HsiHseng, Myanmar","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-15","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"netgoat","nameWithOwner":"netgoat-xyz/netgoat","url":"https://github.com/netgoat-xyz/netgoat","description":null,"stars":903,"forks":50,"primaryLanguage":"Go","license":{"spdxId":"AGPL-3.0"},"createdAt":"2025-07-01T02:02:32Z","pushedAt":"2026-09-04T20:30:18Z","archived":false,"owner":{"login":"netgoat-xyz","name":"netgoat.xyz","type":"Organization","url":"https://github.com/netgoat-xyz","location":"Myanmar","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-15","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"BeautyWorks","nameWithOwner":"kyiphyuhninlwin/BeautyWorks","url":"https://github.com/kyiphyuhninlwin/BeautyWorks","description":null,"stars":0,"forks":0,"primaryLanguage":"C#","license":null,"createdAt":"2026-10-05T09:50:56Z","pushedAt":"2026-10-05T10:03:24Z","archived":false,"owner":{"login":"kyiphyuhninlwin","name":"Kyi Phyu Hnin Lwin","type":"User","url":"https://github.com/kyiphyuhninlwin","location":"Myanmar (Burma)","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Laksh-Mi","nameWithOwner":"Lakshmichauhan/Laksh-Mi","url":"https://github.com/Lakshmichauhan/Laksh-Mi","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2022-10-12T15:08:50Z","pushedAt":"2022-10-12T15:42:53Z","archived":false,"owner":{"login":"Lakshmichauhan","name":"Laksh Mi","type":"User","url":"https://github.com/Lakshmichauhan","location":"Yangon,burma","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "5ae6c5f2ded7235c",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "a8508032e8edaff1",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-15",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

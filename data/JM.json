@@ -5,7 +5,7 @@
 "country": {"code":"JM","name":"Jamaica","slug":"jamaica"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":3,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":3,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Harden-Windows-Security","nameWithOwner":"HotCakeX/Harden-Windows-Security","url":"https://github.com/HotCakeX/Harden-Windows-Security","description":null,"stars":4772,"forks":342,"primaryLanguage":"C#","license":{"spdxId":"MIT"},"createdAt":"2022-11-22T11:26:53Z","pushedAt":"2026-10-03T20:32:06Z","archived":false,"owner":{"login":"HotCakeX","name":"Violet Hansen","type":"User","url":"https://github.com/HotCakeX","location":"Silent Hill","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-14","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Relapse-Exploit","nameWithOwner":"ntfargo/Relapse-Exploit","url":"https://github.com/ntfargo/Relapse-Exploit","description":null,"stars":1759,"forks":442,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2026-09-17T19:45:13Z","pushedAt":"2026-09-30T19:28:05Z","archived":true,"owner":{"login":"ntfargo","name":"Nathan Fargo","type":"User","url":"https://github.com/ntfargo","location":"Silent Hill","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-14","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Language_Study_Application","nameWithOwner":"TroubledDreamer/Language_Study_Application","url":"https://github.com/TroubledDreamer/Language_Study_Application","description":null,"stars":3,"forks":1,"primaryLanguage":"Java","license":null,"createdAt":"2023-04-06T13:05:34Z","pushedAt":"2023-12-12T20:02:43Z","archived":false,"owner":{"login":"TroubledDreamer","name":"Carlyon Jones-Armour","type":"User","url":"https://github.com/TroubledDreamer","location":"Jamaica","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Affirmations-for-VSCode","nameWithOwner":"carl-duncan/Affirmations-for-VSCode","url":"https://github.com/carl-duncan/Affirmations-for-VSCode","description":null,"stars":3,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2020-07-24T05:35:30Z","pushedAt":"2022-12-30T20:55:01Z","archived":false,"owner":{"login":"carl-duncan","name":"Carl Duncan","type":"User","url":"https://github.com/carl-duncan","location":"Jamaica","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "53384d1e31c40f70",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "9319f9efb61575f4",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-14",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

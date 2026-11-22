@@ -5,7 +5,7 @@
 "country": {"code":"CY","name":"Cyprus","slug":"cyprus"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":308,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":308,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"AdGuardHome","nameWithOwner":"AdguardTeam/AdGuardHome","url":"https://github.com/AdguardTeam/AdGuardHome","description":null,"stars":37194,"forks":2533,"primaryLanguage":"TypeScript","license":{"spdxId":"GPL-3.0"},"createdAt":"2016-07-06T10:31:47Z","pushedAt":"2026-10-02T17:23:39Z","archived":false,"owner":{"login":"AdguardTeam","name":"AdGuard","type":"Organization","url":"https://github.com/AdguardTeam","location":"Cyprus","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"core-js","nameWithOwner":"zloirock/core-js","url":"https://github.com/zloirock/core-js","description":null,"stars":25535,"forks":1678,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2013-07-17T16:32:27Z","pushedAt":"2026-10-02T20:24:25Z","archived":false,"owner":{"login":"zloirock","name":"Denis Pushkarev","type":"User","url":"https://github.com/zloirock","location":"Cyprus, Larnaca","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"voxfield","nameWithOwner":"v4rl-ucy/voxfield","url":"https://github.com/v4rl-ucy/voxfield","description":null,"stars":309,"forks":33,"primaryLanguage":"C++","license":{"spdxId":"BSD-3-Clause"},"createdAt":"2022-03-02T15:34:14Z","pushedAt":"2023-05-16T15:18:58Z","archived":false,"owner":{"login":"v4rl-ucy","name":"Vision for Robotics Lab (V4RL)","type":"Organization","url":"https://github.com/v4rl-ucy","location":"Cyprus","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"django_private_chat2","nameWithOwner":"Bearle/django_private_chat2","url":"https://github.com/Bearle/django_private_chat2","description":null,"stars":308,"forks":83,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2021-03-05T22:41:43Z","pushedAt":"2023-08-17T07:13:39Z","archived":false,"owner":{"login":"Bearle","name":"Bearle","type":"Organization","url":"https://github.com/Bearle","location":"Cyprus","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true}
 ],
-"contentHash": "1425b9224af73cab",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "3aca8748aeef2d98",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

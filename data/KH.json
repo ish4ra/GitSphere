@@ -5,7 +5,7 @@
 "country": {"code":"KH","name":"Cambodia","slug":"cambodia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"react-native-raw-bottom-sheet","nameWithOwner":"nysamnang/react-native-raw-bottom-sheet","url":"https://github.com/nysamnang/react-native-raw-bottom-sheet","description":null,"stars":1202,"forks":193,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2019-01-20T14:12:34Z","pushedAt":"2024-05-02T04:21:59Z","archived":false,"owner":{"login":"nysamnang","name":"NY Samnang","type":"User","url":"https://github.com/nysamnang","location":"Phnom Penh, Cambodia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"storypad","nameWithOwner":"theachoem/storypad","url":"https://github.com/theachoem/storypad","description":null,"stars":970,"forks":127,"primaryLanguage":"Dart","license":{"spdxId":"GPL-3.0"},"createdAt":"2022-01-03T16:59:26Z","pushedAt":"2026-10-06T08:06:41Z","archived":false,"owner":{"login":"theachoem","name":"Thea Choem","type":"User","url":"https://github.com/theachoem","location":"Phnom Penh, Cambodia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"rainbow","nameWithOwner":"ungsophy/rainbow","url":"https://github.com/ungsophy/rainbow","description":null,"stars":2,"forks":0,"primaryLanguage":"Ruby","license":{"spdxId":"MIT"},"createdAt":"2014-03-10T10:10:41Z","pushedAt":"2014-10-01T09:02:35Z","archived":false,"owner":{"login":"ungsophy","name":"Sophy Eung","type":"User","url":"https://github.com/ungsophy","location":"Phnom Penh, Cambodia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Web-Assignment","nameWithOwner":"y-rothara/Web-Assignment","url":"https://github.com/y-rothara/Web-Assignment","description":null,"stars":2,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2024-05-06T02:08:45Z","pushedAt":"2024-05-06T02:58:44Z","archived":false,"owner":{"login":"y-rothara","name":"Big Pig","type":"User","url":"https://github.com/y-rothara","location":"Svay Rieng Province, Cambodia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "2fd90d1ff5b318c0",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "bcc66d0fdb099ca2",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

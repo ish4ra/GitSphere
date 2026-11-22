@@ -5,7 +5,7 @@
 "country": {"code":"TG","name":"Togo","slug":"togo"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":3,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":3,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"is-Engine","nameWithOwner":"Is-Daouda/is-Engine","url":"https://github.com/Is-Daouda/is-Engine","description":null,"stars":235,"forks":22,"primaryLanguage":"C","license":{"spdxId":"Zlib"},"createdAt":"2018-12-29T15:01:27Z","pushedAt":"2026-09-14T16:48:45Z","archived":false,"owner":{"login":"Is-Daouda","name":"Is Daouda","type":"User","url":"https://github.com/Is-Daouda","location":"Lomé","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"godot-third-person-camera","nameWithOwner":"JeanKouss/godot-third-person-camera","url":"https://github.com/JeanKouss/godot-third-person-camera","description":null,"stars":186,"forks":10,"primaryLanguage":"GDScript","license":{"spdxId":"MIT"},"createdAt":"2023-03-25T20:15:51Z","pushedAt":"2025-12-15T22:17:27Z","archived":false,"owner":{"login":"JeanKouss","name":"Ekoé Jean","type":"User","url":"https://github.com/JeanKouss","location":"Lomé,Togo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"tp-camping-cerisaie-rendu2","nameWithOwner":"Godwin-creator/tp-camping-cerisaie-rendu2","url":"https://github.com/Godwin-creator/tp-camping-cerisaie-rendu2","description":null,"stars":3,"forks":0,"primaryLanguage":"C","license":{"spdxId":"MIT"},"createdAt":"2026-02-12T08:38:07Z","pushedAt":"2026-02-15T08:21:57Z","archived":false,"owner":{"login":"Godwin-creator","name":"EDOH BEDI Komi Godwin","type":"User","url":"https://github.com/Godwin-creator","location":"Lomé TOGO","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Mentorat_EPL_2024-Python","nameWithOwner":"Godwin-Jules/Mentorat_EPL_2024-Python","url":"https://github.com/Godwin-Jules/Mentorat_EPL_2024-Python","description":null,"stars":3,"forks":0,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2024-08-09T16:39:25Z","pushedAt":"2024-09-25T15:31:07Z","archived":false,"owner":{"login":"Godwin-Jules","name":"Dieu donné K. Jules MILEGNE","type":"User","url":"https://github.com/Godwin-Jules","location":"Lomé - Togo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "5f34c1b6931323a6",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "cc92895d142bea98",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

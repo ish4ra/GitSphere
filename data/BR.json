@@ -5,7 +5,7 @@
 "country": {"code":"BR","name":"Brazil","slug":"brazil"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1617,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1617,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"awesome-go","nameWithOwner":"avelino/awesome-go","url":"https://github.com/avelino/awesome-go","description":null,"stars":186797,"forks":13603,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2014-07-06T13:42:15Z","pushedAt":"2026-10-03T22:23:27Z","archived":false,"owner":{"login":"avelino","name":"Avelino","type":"User","url":"https://github.com/avelino","location":"Brazil","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"book-to-skill","nameWithOwner":"virgiliojr94/book-to-skill","url":"https://github.com/virgiliojr94/book-to-skill","description":null,"stars":33512,"forks":3508,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2026-05-01T02:09:39Z","pushedAt":"2026-09-29T14:08:33Z","archived":false,"owner":{"login":"virgiliojr94","name":"Virgilio Junior","type":"User","url":"https://github.com/virgiliojr94","location":"Boa Vista, Roraima.","attribution":{"confidence":"high","evidence":"place-with-subdivision"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"clumsy-bird","nameWithOwner":"ellisonleao/clumsy-bird","url":"https://github.com/ellisonleao/clumsy-bird","description":null,"stars":1626,"forks":1113,"primaryLanguage":"JavaScript","license":{"spdxId":"GPL-3.0"},"createdAt":"2014-02-04T21:12:20Z","pushedAt":"2018-04-13T23:19:54Z","archived":true,"owner":{"login":"ellisonleao","name":"Ellison","type":"User","url":"https://github.com/ellisonleao","location":"Curitiba","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"git4noobs","nameWithOwner":"danielhe4rt/git4noobs","url":"https://github.com/danielhe4rt/git4noobs","description":null,"stars":1617,"forks":105,"primaryLanguage":null,"license":null,"createdAt":"2020-02-01T21:35:48Z","pushedAt":"2024-09-28T23:24:48Z","archived":false,"owner":{"login":"danielhe4rt","name":"Daniel Reis","type":"User","url":"https://github.com/danielhe4rt","location":"Brazil","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "14276c38c05b7c05",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "ae5a64a3df2556eb",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

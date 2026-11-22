@@ -5,7 +5,7 @@
 "country": {"code":"SG","name":"Singapore","slug":"singapore"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":5232,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":5232,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"rustdesk","nameWithOwner":"rustdesk/rustdesk","url":"https://github.com/rustdesk/rustdesk","description":null,"stars":125074,"forks":19404,"primaryLanguage":"Rust","license":{"spdxId":"AGPL-3.0"},"createdAt":"2020-09-28T15:36:08Z","pushedAt":"2026-10-04T00:05:06Z","archived":false,"owner":{"login":"rustdesk","name":"RustDesk","type":"User","url":"https://github.com/rustdesk","location":"Singapore","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"crawl4ai","nameWithOwner":"unclecode/crawl4ai","url":"https://github.com/unclecode/crawl4ai","description":null,"stars":84712,"forks":8766,"primaryLanguage":"Python","license":{"spdxId":"Apache-2.0"},"createdAt":"2024-05-09T09:48:50Z","pushedAt":"2026-09-25T06:37:14Z","archived":false,"owner":{"login":"unclecode","name":"UncleCode","type":"User","url":"https://github.com/unclecode","location":"Singapore","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"robotics-coursework","nameWithOwner":"mithi/robotics-coursework","url":"https://github.com/mithi/robotics-coursework","description":null,"stars":5299,"forks":796,"primaryLanguage":null,"license":{"spdxId":"Unlicense"},"createdAt":"2017-06-24T14:45:17Z","pushedAt":"2026-08-31T14:12:27Z","archived":false,"owner":{"login":"mithi","name":"Mithi Sevilla","type":"User","url":"https://github.com/mithi","location":"Singapore","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Kode-CLI","nameWithOwner":"shareAI-lab/Kode-CLI","url":"https://github.com/shareAI-lab/Kode-CLI","description":null,"stars":5232,"forks":779,"primaryLanguage":"TypeScript","license":{"spdxId":"Apache-2.0"},"createdAt":"2025-07-12T14:21:51Z","pushedAt":"2026-08-27T19:10:11Z","archived":false,"owner":{"login":"shareAI-lab","name":"shareAI","type":"Organization","url":"https://github.com/shareAI-lab","location":"Singapore","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "8228f775c6bca763",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "53c4799757fbe3cf",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

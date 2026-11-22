@@ -5,7 +5,7 @@
 "country": {"code":"TN","name":"Tunisia","slug":"tunisia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"RyTuneX","nameWithOwner":"rayenghanmi/RyTuneX","url":"https://github.com/rayenghanmi/RyTuneX","description":null,"stars":5533,"forks":186,"primaryLanguage":"C#","license":{"spdxId":"AGPL-3.0"},"createdAt":"2023-12-30T17:41:41Z","pushedAt":"2026-10-04T09:22:05Z","archived":false,"owner":{"login":"rayenghanmi","name":"Rayen Ghanmi","type":"User","url":"https://github.com/rayenghanmi","location":"Tunisia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"lazyssh","nameWithOwner":"Adembc/lazyssh","url":"https://github.com/Adembc/lazyssh","description":null,"stars":3966,"forks":154,"primaryLanguage":"Go","license":{"spdxId":"Apache-2.0"},"createdAt":"2025-08-13T09:33:09Z","pushedAt":"2025-10-09T20:37:29Z","archived":false,"owner":{"login":"Adembc","name":"Adem Baccara","type":"User","url":"https://github.com/Adembc","location":"Tunisia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Financial-Dashboard-Implementation-KPMG","nameWithOwner":"khalilboughzou/Financial-Dashboard-Implementation-KPMG","url":"https://github.com/khalilboughzou/Financial-Dashboard-Implementation-KPMG","description":null,"stars":2,"forks":1,"primaryLanguage":null,"license":null,"createdAt":"2021-07-01T20:43:46Z","pushedAt":"2022-03-18T19:11:52Z","archived":false,"owner":{"login":"khalilboughzou","name":"Khalil Boughzou","type":"User","url":"https://github.com/khalilboughzou","location":"Tunis , Tunisia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"twitch-status","nameWithOwner":"mectus11/twitch-status","url":"https://github.com/mectus11/twitch-status","description":null,"stars":2,"forks":1,"primaryLanguage":"PHP","license":null,"createdAt":"2015-03-07T13:41:53Z","pushedAt":"2025-04-23T15:27:05Z","archived":false,"owner":{"login":"mectus11","name":"Fadi Albouchi","type":"User","url":"https://github.com/mectus11","location":"Tunisia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "fa45338439d81194",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "4b866c595eab1b15",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

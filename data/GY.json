@@ -5,7 +5,7 @@
 "country": {"code":"GY","name":"Guyana","slug":"guyana"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Kademlia","nameWithOwner":"JoshuaKissoon/Kademlia","url":"https://github.com/JoshuaKissoon/Kademlia","description":null,"stars":198,"forks":71,"primaryLanguage":"Java","license":{"spdxId":"MIT"},"createdAt":"2014-02-18T20:35:43Z","pushedAt":"2018-12-13T15:50:52Z","archived":false,"owner":{"login":"JoshuaKissoon","name":"Joshua Kissoon","type":"User","url":"https://github.com/JoshuaKissoon","location":"Georgetown, Guyana","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"rTracker","nameWithOwner":"rob-miller/rTracker","url":"https://github.com/rob-miller/rTracker","description":null,"stars":48,"forks":17,"primaryLanguage":"Objective-C","license":{"spdxId":"NOASSERTION"},"createdAt":"2016-04-14T10:34:47Z","pushedAt":"2025-03-21T17:20:45Z","archived":false,"owner":{"login":"rob-miller","name":"Rob Miller","type":"User","url":"https://github.com/rob-miller","location":"Georgetown, Guyana","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"prestige-erpnext-lab","nameWithOwner":"JGreene007/prestige-erpnext-lab","url":"https://github.com/JGreene007/prestige-erpnext-lab","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-06-16T15:52:11Z","pushedAt":"2026-06-16T15:54:04Z","archived":false,"owner":{"login":"JGreene007","name":"Sgt.Coffee","type":"User","url":"https://github.com/JGreene007","location":"Guyana","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"jhaasryelakquil","nameWithOwner":"jhaasryelakquil/jhaasryelakquil","url":"https://github.com/jhaasryelakquil/jhaasryelakquil","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-09-25T19:29:00Z","pushedAt":"2026-09-25T22:40:29Z","archived":false,"owner":{"login":"jhaasryelakquil","name":"Jha’asryel-Akquil Bishop","type":"User","url":"https://github.com/jhaasryelakquil","location":"Georgetown, Guyana","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "240cb571ec647675",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "808f30522b5ee77e",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

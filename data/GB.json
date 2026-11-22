@@ -5,7 +5,7 @@
 "country": {"code":"GB","name":"United Kingdom","slug":"united-kingdom"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":8251,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":93,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":8251,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":93,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"developer-roadmap","nameWithOwner":"nilbuild/developer-roadmap","url":"https://github.com/nilbuild/developer-roadmap","description":null,"stars":368806,"forks":45026,"primaryLanguage":"TypeScript","license":{"spdxId":"NOASSERTION"},"createdAt":"2017-03-15T13:45:52Z","pushedAt":"2026-10-02T09:00:46Z","archived":false,"owner":{"login":"nilbuild","name":"Kamran Ahmed","type":"User","url":"https://github.com/nilbuild","location":"United Kingdom","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"skills","nameWithOwner":"mattpocock/skills","url":"https://github.com/mattpocock/skills","description":null,"stars":275414,"forks":23110,"primaryLanguage":"Shell","license":{"spdxId":"MIT"},"createdAt":"2026-02-03T11:15:53Z","pushedAt":"2026-09-29T12:38:37Z","archived":false,"owner":{"login":"mattpocock","name":"Matt Pocock","type":"User","url":"https://github.com/mattpocock","location":"Oxfordshire","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"substrate","nameWithOwner":"paritytech/substrate","url":"https://github.com/paritytech/substrate","description":null,"stars":8389,"forks":2625,"primaryLanguage":"Rust","license":{"spdxId":"Apache-2.0"},"createdAt":"2017-11-07T18:08:53Z","pushedAt":"2023-09-25T20:31:30Z","archived":true,"owner":{"login":"paritytech","name":"Parity Technologies","type":"Organization","url":"https://github.com/paritytech","location":"United Kingdom","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"sandcastle","nameWithOwner":"mattpocock/sandcastle","url":"https://github.com/mattpocock/sandcastle","description":null,"stars":8251,"forks":892,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2026-03-17T14:49:05Z","pushedAt":"2026-10-02T19:31:04Z","archived":false,"owner":{"login":"mattpocock","name":"Matt Pocock","type":"User","url":"https://github.com/mattpocock","location":"Oxfordshire","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "a70e764ae383971d",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "f50f649a5b51c3c4",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

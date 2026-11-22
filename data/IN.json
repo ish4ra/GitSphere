@@ -5,7 +5,7 @@
 "country": {"code":"IN","name":"India","slug":"india"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":4463,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":4463,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Python","nameWithOwner":"TheAlgorithms/Python","url":"https://github.com/TheAlgorithms/Python","description":null,"stars":225244,"forks":51159,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2016-07-16T09:44:01Z","pushedAt":"2026-10-05T06:13:53Z","archived":false,"owner":{"login":"TheAlgorithms","name":"The Algorithms","type":"Organization","url":"https://github.com/TheAlgorithms","location":"India","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Awesome-Hacking","nameWithOwner":"Hack-with-Github/Awesome-Hacking","url":"https://github.com/Hack-with-Github/Awesome-Hacking","description":null,"stars":121795,"forks":10803,"primaryLanguage":null,"license":{"spdxId":"CC0-1.0"},"createdAt":"2016-03-30T15:47:10Z","pushedAt":"2026-07-26T03:29:02Z","archived":false,"owner":{"login":"Hack-with-Github","name":"Hack with GitHub","type":"Organization","url":"https://github.com/Hack-with-Github","location":"Bangalore, India","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"nextplayer","nameWithOwner":"anilbeesetti/nextplayer","url":"https://github.com/anilbeesetti/nextplayer","description":null,"stars":4465,"forks":336,"primaryLanguage":"Kotlin","license":{"spdxId":"GPL-3.0"},"createdAt":"2023-02-08T05:34:22Z","pushedAt":"2026-10-02T07:47:37Z","archived":false,"owner":{"login":"anilbeesetti","name":"Anil Kumar Beesetti","type":"User","url":"https://github.com/anilbeesetti","location":"Visakhapatnam","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"javascript-code-challenges","nameWithOwner":"sadanandpai/javascript-code-challenges","url":"https://github.com/sadanandpai/javascript-code-challenges","description":null,"stars":4463,"forks":854,"primaryLanguage":"MDX","license":{"spdxId":"MIT"},"createdAt":"2020-11-20T13:10:04Z","pushedAt":"2026-04-01T06:25:55Z","archived":false,"owner":{"login":"sadanandpai","name":"Sadanand Pai","type":"User","url":"https://github.com/sadanandpai","location":"Bengaluru","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "acfa4e34cba6df56",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "eb3d4110ebbbc13a",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

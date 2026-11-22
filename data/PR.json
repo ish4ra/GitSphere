@@ -5,7 +5,7 @@
 "country": {"code":"PR","name":"Puerto Rico","slug":"puerto-rico"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"kryo","nameWithOwner":"EsotericSoftware/kryo","url":"https://github.com/EsotericSoftware/kryo","description":null,"stars":6546,"forks":842,"primaryLanguage":"HTML","license":{"spdxId":"BSD-3-Clause"},"createdAt":"2013-11-06T13:24:03Z","pushedAt":"2026-10-04T09:58:18Z","archived":false,"owner":{"login":"EsotericSoftware","name":"Esoteric Software","type":"Organization","url":"https://github.com/EsotericSoftware","location":"Puerto Rico","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"spine-runtimes","nameWithOwner":"EsotericSoftware/spine-runtimes","url":"https://github.com/EsotericSoftware/spine-runtimes","description":null,"stars":5309,"forks":3140,"primaryLanguage":"C++","license":{"spdxId":"NOASSERTION"},"createdAt":"2013-02-19T23:49:37Z","pushedAt":"2026-09-30T22:11:28Z","archived":false,"owner":{"login":"EsotericSoftware","name":"Esoteric Software","type":"Organization","url":"https://github.com/EsotericSoftware","location":"Puerto Rico","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Notifications-Dummy","nameWithOwner":"erickriv/Notifications-Dummy","url":"https://github.com/erickriv/Notifications-Dummy","description":null,"stars":2,"forks":0,"primaryLanguage":"Swift","license":null,"createdAt":"2016-08-25T16:22:00Z","pushedAt":"2016-11-16T19:58:10Z","archived":false,"owner":{"login":"erickriv","name":"Erick Rivera","type":"User","url":"https://github.com/erickriv","location":"San Juan, Puerto Rico","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Firepower_elastic_stack_docker","nameWithOwner":"fbellom/Firepower_elastic_stack_docker","url":"https://github.com/fbellom/Firepower_elastic_stack_docker","description":null,"stars":2,"forks":0,"primaryLanguage":"Dockerfile","license":null,"createdAt":"2019-05-28T20:39:42Z","pushedAt":"2019-05-28T21:31:53Z","archived":false,"owner":{"login":"fbellom","name":"Freddy Bello","type":"User","url":"https://github.com/fbellom","location":"Puerto Rico","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "e59e49ce519b8d1c",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "ec52f2cbebc97e48",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"MW","name":"Malawi","slug":"malawi"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"anigrab","nameWithOwner":"ngomile/anigrab","url":"https://github.com/ngomile/anigrab","description":null,"stars":133,"forks":24,"primaryLanguage":"JavaScript","license":{"spdxId":"Unlicense"},"createdAt":"2020-03-14T08:21:05Z","pushedAt":"2025-02-17T07:08:16Z","archived":false,"owner":{"login":"ngomile","name":"Noel Gomile","type":"User","url":"https://github.com/ngomile","location":"Malawi","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"groupby","nameWithOwner":"zikani03/groupby","url":"https://github.com/zikani03/groupby","description":null,"stars":74,"forks":2,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2017-01-19T15:28:31Z","pushedAt":"2022-05-11T18:50:27Z","archived":false,"owner":{"login":"zikani03","name":"Zikani Nyirenda Mwase","type":"User","url":"https://github.com/zikani03","location":"Lilongwe, Malawi","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"C-Sharp-Modern-Flat-UI-with-FontAwesome","nameWithOwner":"Collin0012/C-Sharp-Modern-Flat-UI-with-FontAwesome","url":"https://github.com/Collin0012/C-Sharp-Modern-Flat-UI-with-FontAwesome","description":null,"stars":2,"forks":0,"primaryLanguage":"C#","license":null,"createdAt":"2022-02-09T07:46:11Z","pushedAt":"2022-02-09T07:52:00Z","archived":false,"owner":{"login":"Collin0012","name":"Collings Mwangobola","type":"User","url":"https://github.com/Collin0012","location":"Lilongwe - Malawi","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"server-testing","nameWithOwner":"deliwe/server-testing","url":"https://github.com/deliwe/server-testing","description":null,"stars":2,"forks":0,"primaryLanguage":"Ruby","license":null,"createdAt":"2010-09-15T06:24:27Z","pushedAt":"2010-11-15T06:34:08Z","archived":false,"owner":{"login":"deliwe","name":"Deliwe Nkhoma","type":"User","url":"https://github.com/deliwe","location":"Lilongwe, Malawi","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "0499d9e8d39e7e92",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "4504d2e2f581a4b3",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

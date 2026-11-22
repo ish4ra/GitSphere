@@ -5,7 +5,7 @@
 "country": {"code":"CN","name":"China","slug":"china"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":22562,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":22562,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Python-100-Days","nameWithOwner":"jackfrued/Python-100-Days","url":"https://github.com/jackfrued/Python-100-Days","description":null,"stars":187059,"forks":55754,"primaryLanguage":"Jupyter Notebook","license":null,"createdAt":"2018-03-01T16:05:52Z","pushedAt":"2026-07-29T15:18:29Z","archived":false,"owner":{"login":"jackfrued","name":"骆昊","type":"User","url":"https://github.com/jackfrued","location":"Chengdu Sichuan, China","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"CS-Notes","nameWithOwner":"CyC2018/CS-Notes","url":"https://github.com/CyC2018/CS-Notes","description":null,"stars":186370,"forks":50717,"primaryLanguage":null,"license":null,"createdAt":"2018-02-13T14:56:24Z","pushedAt":"2024-08-21T09:40:10Z","archived":false,"owner":{"login":"CyC2018","name":null,"type":"User","url":"https://github.com/CyC2018","location":"Guangzhou, China","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"SafeLine","nameWithOwner":"chaitin/SafeLine","url":"https://github.com/chaitin/SafeLine","description":null,"stars":22700,"forks":1544,"primaryLanguage":"Go","license":{"spdxId":"GPL-3.0"},"createdAt":"2023-04-12T11:30:14Z","pushedAt":"2026-09-28T07:06:51Z","archived":false,"owner":{"login":"chaitin","name":"Chaitin Tech","type":"Organization","url":"https://github.com/chaitin","location":"Beijing","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"blog","nameWithOwner":"fouber/blog","url":"https://github.com/fouber/blog","description":null,"stars":22562,"forks":2327,"primaryLanguage":null,"license":null,"createdAt":"2014-04-25T09:44:42Z","pushedAt":"2019-11-12T05:28:36Z","archived":false,"owner":{"login":"fouber","name":"张云龙","type":"User","url":"https://github.com/fouber","location":"China","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "dd064ba6006d514f",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "8158fd78c97912c7",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

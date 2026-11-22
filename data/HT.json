@@ -5,7 +5,7 @@
 "country": {"code":"HT","name":"Haiti","slug":"haiti"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"CommLinkUSB","nameWithOwner":"gpoteau/CommLinkUSB","url":"https://github.com/gpoteau/CommLinkUSB","description":null,"stars":36,"forks":3,"primaryLanguage":"Eagle","license":null,"createdAt":"2015-06-26T03:19:26Z","pushedAt":"2018-07-20T21:31:00Z","archived":false,"owner":{"login":"gpoteau","name":"Gregory POTEAU","type":"User","url":"https://github.com/gpoteau","location":"Port-au-Prince, HAITI","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"react-native-card-ui","nameWithOwner":"jsbeaudry/react-native-card-ui","url":"https://github.com/jsbeaudry/react-native-card-ui","description":null,"stars":22,"forks":5,"primaryLanguage":"JavaScript","license":null,"createdAt":"2019-03-13T17:12:15Z","pushedAt":"2019-03-31T20:54:57Z","archived":false,"owner":{"login":"jsbeaudry","name":"Beaudry Jean Sauvenel","type":"User","url":"https://github.com/jsbeaudry","location":"Port-au-prince, Haiti","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"packageAPPpython","nameWithOwner":"djefferson-saintilus/packageAPPpython","url":"https://github.com/djefferson-saintilus/packageAPPpython","description":null,"stars":1,"forks":0,"primaryLanguage":"Shell","license":null,"createdAt":"2025-08-03T13:22:58Z","pushedAt":"2025-09-02T14:45:04Z","archived":false,"owner":{"login":"djefferson-saintilus","name":"Djefferson Saintilus","type":"User","url":"https://github.com/djefferson-saintilus","location":"haiti","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"OC6","nameWithOwner":"djtrueway/OC6","url":"https://github.com/djtrueway/OC6","description":null,"stars":1,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2020-01-03T16:54:37Z","pushedAt":"2023-09-28T16:56:55Z","archived":false,"owner":{"login":"djtrueway","name":"peterson saint-aime","type":"User","url":"https://github.com/djtrueway","location":"Haiti","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "669d01c4a2b56173",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "e840c4676e41c8f0",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

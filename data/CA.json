@@ -5,7 +5,7 @@
 "country": {"code":"CA","name":"Canada","slug":"canada"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":2636,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":2636,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Front-End-Checklist","nameWithOwner":"thedaviddias/Front-End-Checklist","url":"https://github.com/thedaviddias/Front-End-Checklist","description":null,"stars":74351,"forks":6758,"primaryLanguage":"MDX","license":null,"createdAt":"2017-10-16T10:12:36Z","pushedAt":"2026-10-01T04:09:02Z","archived":false,"owner":{"login":"thedaviddias","name":"David Dias","type":"User","url":"https://github.com/thedaviddias","location":"Toronto, Canada","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"uBlock","nameWithOwner":"gorhill/uBlock","url":"https://github.com/gorhill/uBlock","description":null,"stars":68324,"forks":4375,"primaryLanguage":"JavaScript","license":{"spdxId":"GPL-3.0"},"createdAt":"2015-04-01T17:51:11Z","pushedAt":"2026-10-03T16:21:02Z","archived":false,"owner":{"login":"gorhill","name":"Raymond Hill","type":"User","url":"https://github.com/gorhill","location":"Canada / Québec","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"flexmark-java","nameWithOwner":"vsch/flexmark-java","url":"https://github.com/vsch/flexmark-java","description":null,"stars":2640,"forks":300,"primaryLanguage":"Java","license":{"spdxId":"BSD-2-Clause"},"createdAt":"2016-01-23T15:29:29Z","pushedAt":"2025-04-16T19:07:12Z","archived":false,"owner":{"login":"vsch","name":"Vladimir Schneider","type":"User","url":"https://github.com/vsch","location":"Montreal, QC, Canada","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"tedukuri","nameWithOwner":"lydrainbowcat/tedukuri","url":"https://github.com/lydrainbowcat/tedukuri","description":null,"stars":2636,"forks":608,"primaryLanguage":"Roff","license":null,"createdAt":"2018-03-18T01:24:42Z","pushedAt":"2023-08-07T23:25:35Z","archived":false,"owner":{"login":"lydrainbowcat","name":"Yudong Li","type":"User","url":"https://github.com/lydrainbowcat","location":"Kitchener, Canada","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "b0656771727b4353",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "d5c85d869e1c8e32",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

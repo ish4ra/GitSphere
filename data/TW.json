@@ -5,7 +5,7 @@
 "country": {"code":"TW","name":"Taiwan","slug":"taiwan"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"awesome-python","nameWithOwner":"vinta/awesome-python","url":"https://github.com/vinta/awesome-python","description":null,"stars":325798,"forks":28894,"primaryLanguage":"Python","license":{"spdxId":"NOASSERTION"},"createdAt":"2014-06-27T21:00:06Z","pushedAt":"2026-10-07T11:02:54Z","archived":false,"owner":{"login":"vinta","name":"Vinta Chen","type":"User","url":"https://github.com/vinta","location":"Taiwan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Magisk","nameWithOwner":"topjohnwu/Magisk","url":"https://github.com/topjohnwu/Magisk","description":null,"stars":63061,"forks":18772,"primaryLanguage":"Kotlin","license":{"spdxId":"GPL-3.0"},"createdAt":"2016-09-08T12:42:53Z","pushedAt":"2026-10-04T02:52:55Z","archived":false,"owner":{"login":"topjohnwu","name":"John Wu","type":"User","url":"https://github.com/topjohnwu","location":"US / Taiwan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"stockchart","nameWithOwner":"mengchichiang/stockchart","url":"https://github.com/mengchichiang/stockchart","description":null,"stars":2,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2016-05-19T16:08:30Z","pushedAt":"2016-12-03T18:38:12Z","archived":false,"owner":{"login":"mengchichiang","name":null,"type":"User","url":"https://github.com/mengchichiang","location":"Taiwan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"rbf_drnn","nameWithOwner":"osamchiu/rbf_drnn","url":"https://github.com/osamchiu/rbf_drnn","description":null,"stars":2,"forks":0,"primaryLanguage":"Jupyter Notebook","license":{"spdxId":"MIT"},"createdAt":"2024-11-11T15:38:44Z","pushedAt":"2024-11-11T16:09:04Z","archived":false,"owner":{"login":"osamchiu","name":"Sam Chiu","type":"User","url":"https://github.com/osamchiu","location":"Tainan, Taiwan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "00db061015434366",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "f5d2038f38de5cc7",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

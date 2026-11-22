@@ -24,8 +24,8 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Building. 
-- **Global follower scan:** every user with at least **—** followers has been enumerated (current cycle in progress).
-- Organizations are excluded. 0 attributed developers are tracked.
+- **Basis:** partial — discovery is still running.
+- Organizations are excluded. 0 attributed developers are tracked; the cutoff is — followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -5,10 +5,10 @@
 "country": {"code":"MQ","name":"Martinique","slug":"martinique"},
 "status": "building",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","verifiedFollowerFloor":null,"cutoffFollowers":null,"candidates":0,"followerScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":null,"candidates":0,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [],
-"contentHash": "544eeb8d477478df",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "00b73113635c998d",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": null,
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

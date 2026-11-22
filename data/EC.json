@@ -5,7 +5,7 @@
 "country": {"code":"EC","name":"Ecuador","slug":"ecuador"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Seelen-UI","nameWithOwner":"eythaann/Seelen-UI","url":"https://github.com/eythaann/Seelen-UI","description":null,"stars":17942,"forks":616,"primaryLanguage":"Rust","license":{"spdxId":"AGPL-3.0"},"createdAt":"2024-02-16T18:03:35Z","pushedAt":"2026-10-04T00:48:49Z","archived":false,"owner":{"login":"eythaann","name":"Eythan David","type":"User","url":"https://github.com/eythaann","location":"Ecuador","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"awesome-wpf","nameWithOwner":"Carlos487/awesome-wpf","url":"https://github.com/Carlos487/awesome-wpf","description":null,"stars":2170,"forks":204,"primaryLanguage":"C#","license":{"spdxId":"CC0-1.0"},"createdAt":"2020-02-21T03:38:17Z","pushedAt":"2026-08-02T13:02:54Z","archived":false,"owner":{"login":"Carlos487","name":"Carlos Fabara","type":"User","url":"https://github.com/Carlos487","location":"Quito, Ecuador","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"RSL-Shard-Tracker","nameWithOwner":"chrisloz-ec/RSL-Shard-Tracker","url":"https://github.com/chrisloz-ec/RSL-Shard-Tracker","description":null,"stars":1,"forks":0,"primaryLanguage":"PHP","license":null,"createdAt":"2025-12-18T21:36:23Z","pushedAt":"2025-12-18T22:04:28Z","archived":false,"owner":{"login":"chrisloz-ec","name":"Christian Lozano","type":"User","url":"https://github.com/chrisloz-ec","location":"Guayaquil, Ecuador","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"primeraimpresion","nameWithOwner":"CodesAgency/primeraimpresion","url":"https://github.com/CodesAgency/primeraimpresion","description":null,"stars":1,"forks":0,"primaryLanguage":"PHP","license":null,"createdAt":"2019-06-22T16:27:08Z","pushedAt":"2019-07-23T15:44:49Z","archived":false,"owner":{"login":"CodesAgency","name":"André Rivera","type":"User","url":"https://github.com/CodesAgency","location":"Ecuador","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "ae84208324362336",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "c2298661982c1112",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

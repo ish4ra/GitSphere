@@ -5,7 +5,7 @@
 "country": {"code":"SJ","name":"Svalbard & Jan Mayen","slug":"svalbard-jan-mayen"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":29,"ownerExpansionBacklog":29,"candidates":29,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":29,"ownerExpansionBacklog":29,"candidates":29,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"autoscend","nameWithOwner":"loathers/autoscend","url":"https://github.com/loathers/autoscend","description":null,"stars":53,"forks":83,"primaryLanguage":"KoLMafia ASH","license":{"spdxId":"NOASSERTION"},"createdAt":"2019-09-19T13:23:48Z","pushedAt":"2026-10-07T03:46:54Z","archived":false,"owner":{"login":"loathers","name":"loathers","type":"Organization","url":"https://github.com/loathers","location":"Svalbard and Jan Mayen Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"crackDesignStudy","nameWithOwner":"sunnyerteit/crackDesignStudy","url":"https://github.com/sunnyerteit/crackDesignStudy","description":null,"stars":24,"forks":4,"primaryLanguage":"Python","license":null,"createdAt":"2017-03-06T11:34:02Z","pushedAt":"2017-03-07T19:23:29Z","archived":false,"owner":{"login":"sunnyerteit","name":"S🌞nny","type":"User","url":"https://github.com/sunnyerteit","location":"Longyearbyen","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
@@ -37,8 +37,8 @@
   {"rank":28,"id":null,"name":"Spirologi","nameWithOwner":"SvalbardFHS/Spirologi","url":"https://github.com/SvalbardFHS/Spirologi","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2025-11-19T09:18:08Z","pushedAt":"2025-11-19T09:20:05Z","archived":false,"owner":{"login":"SvalbardFHS","name":"Svalbard Folkehøgskole - Tekno og Forsker","type":"Organization","url":"https://github.com/SvalbardFHS","location":"Svalbard and Jan Mayen Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
   {"rank":29,"id":null,"name":"YTHEDOGKING","nameWithOwner":"YTHEDOGKING/YTHEDOGKING","url":"https://github.com/YTHEDOGKING/YTHEDOGKING","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-05-20T19:09:07Z","pushedAt":"2024-05-31T18:55:29Z","archived":false,"owner":{"login":"YTHEDOGKING","name":"Short Giraffe 😞","type":"User","url":"https://github.com/YTHEDOGKING","location":"Olonkinbyen","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-27","pendingRevalidation":true}
 ],
-"contentHash": "b286af0fb9847f41",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "6a8d0aeba8e79a24",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-27",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

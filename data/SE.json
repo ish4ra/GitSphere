@@ -5,7 +5,7 @@
 "country": {"code":"SE","name":"Sweden","slug":"sweden"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":3973,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":3973,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"grafana","nameWithOwner":"grafana/grafana","url":"https://github.com/grafana/grafana","description":null,"stars":77055,"forks":14815,"primaryLanguage":"TypeScript","license":{"spdxId":"AGPL-3.0"},"createdAt":"2013-12-11T15:59:56Z","pushedAt":"2026-10-04T01:06:04Z","archived":false,"owner":{"login":"grafana","name":"Grafana Labs","type":"Organization","url":"https://github.com/grafana","location":"Sweden","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"reveal.js","nameWithOwner":"hakimel/reveal.js","url":"https://github.com/hakimel/reveal.js","description":null,"stars":72377,"forks":17021,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2011-06-07T18:54:22Z","pushedAt":"2026-09-30T19:38:13Z","archived":false,"owner":{"login":"hakimel","name":"Hakim El Hattab","type":"User","url":"https://github.com/hakimel","location":"Sweden","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"kafkajs","nameWithOwner":"tulios/kafkajs","url":"https://github.com/tulios/kafkajs","description":null,"stars":4004,"forks":605,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2017-08-01T08:44:12Z","pushedAt":"2024-08-02T21:32:46Z","archived":false,"owner":{"login":"tulios","name":"Túlio Ornelas","type":"User","url":"https://github.com/tulios","location":"Stockholm, Sweden","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"btfs","nameWithOwner":"johang/btfs","url":"https://github.com/johang/btfs","description":null,"stars":3973,"forks":147,"primaryLanguage":"C++","license":{"spdxId":"GPL-3.0"},"createdAt":"2015-07-26T08:20:49Z","pushedAt":"2026-09-13T08:03:56Z","archived":false,"owner":{"login":"johang","name":"Johan Gunnarsson","type":"User","url":"https://github.com/johang","location":"Lund, Sweden","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "36ab72bd53d4155e",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "f27dcb9278279abe",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"AQ","name":"Antarctica","slug":"antarctica"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":45,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":45,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Marlin","nameWithOwner":"MarlinFirmware/Marlin","url":"https://github.com/MarlinFirmware/Marlin","description":null,"stars":17613,"forks":19722,"primaryLanguage":"C++","license":{"spdxId":"GPL-3.0"},"createdAt":"2011-08-13T08:07:20Z","pushedAt":"2026-10-04T01:23:37Z","archived":false,"owner":{"login":"MarlinFirmware","name":"Marlin","type":"Organization","url":"https://github.com/MarlinFirmware","location":"Antarctica","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"single_file_libs","nameWithOwner":"r-lyeh/single_file_libs","url":"https://github.com/r-lyeh/single_file_libs","description":null,"stars":10022,"forks":649,"primaryLanguage":null,"license":null,"createdAt":"2016-10-07T15:54:19Z","pushedAt":"2026-08-18T18:23:39Z","archived":false,"owner":{"login":"r-lyeh","name":null,"type":"User","url":"https://github.com/r-lyeh","location":"Vostok, Antarctica","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"XMRpos","nameWithOwner":"MoneroKon/XMRpos","url":"https://github.com/MoneroKon/XMRpos","description":null,"stars":46,"forks":19,"primaryLanguage":"Kotlin","license":{"spdxId":"GPL-3.0"},"createdAt":"2024-10-26T18:14:44Z","pushedAt":"2025-11-06T08:56:31Z","archived":true,"owner":{"login":"MoneroKon","name":"Monero Konferenco","type":"Organization","url":"https://github.com/MoneroKon","location":"Antarctica","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"RiftCore","nameWithOwner":"whutddk/RiftCore","url":"https://github.com/whutddk/RiftCore","description":null,"stars":45,"forks":12,"primaryLanguage":"Verilog","license":{"spdxId":"Apache-2.0"},"createdAt":"2020-11-23T06:36:06Z","pushedAt":"2022-09-21T14:13:54Z","archived":false,"owner":{"login":"whutddk","name":"Ruige Lee","type":"User","url":"https://github.com/whutddk","location":"Antarctica","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "bfc736114f18719d",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "2c17c417d1c17e7e",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

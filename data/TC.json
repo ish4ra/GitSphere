@@ -5,7 +5,7 @@
 "country": {"code":"TC","name":"Turks & Caicos Islands","slug":"turks-caicos-islands"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":26,"ownerExpansionBacklog":26,"candidates":26,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":26,"ownerExpansionBacklog":26,"candidates":26,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Flask-S3-Uploader","nameWithOwner":"doobeh/Flask-S3-Uploader","url":"https://github.com/doobeh/Flask-S3-Uploader","description":null,"stars":97,"forks":41,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2012-10-26T20:07:00Z","pushedAt":"2016-10-26T20:28:04Z","archived":false,"owner":{"login":"doobeh","name":"Anthony Plunkett","type":"User","url":"https://github.com/doobeh","location":"Turks and Caicos Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-31","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"INF443_21401926_21401933_21401934","nameWithOwner":"haktanpolatt/INF443_21401926_21401933_21401934","url":"https://github.com/haktanpolatt/INF443_21401926_21401933_21401934","description":null,"stars":6,"forks":0,"primaryLanguage":"Svelte","license":null,"createdAt":"2025-11-28T13:09:36Z","pushedAt":"2025-12-17T17:19:03Z","archived":false,"owner":{"login":"haktanpolatt","name":"haktan","type":"User","url":"https://github.com/haktanpolatt","location":"Turks and Caicos Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-31","pendingRevalidation":true},
@@ -34,8 +34,8 @@
   {"rank":25,"id":null,"name":"VSSApi","nameWithOwner":"TargonYazilim/VSSApi","url":"https://github.com/TargonYazilim/VSSApi","description":null,"stars":0,"forks":0,"primaryLanguage":"C#","license":{"spdxId":"MIT"},"createdAt":"2024-08-29T17:57:30Z","pushedAt":"2024-08-29T17:58:27Z","archived":false,"owner":{"login":"TargonYazilim","name":"Targon","type":"Organization","url":"https://github.com/TargonYazilim","location":"Turks and Caicos Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-31","pendingRevalidation":true},
   {"rank":26,"id":null,"name":"theme","nameWithOwner":"techpreneur02/theme","url":"https://github.com/techpreneur02/theme","description":null,"stars":0,"forks":0,"primaryLanguage":"PHP","license":null,"createdAt":"2026-07-05T05:37:04Z","pushedAt":"2026-07-05T05:37:48Z","archived":false,"owner":{"login":"techpreneur02","name":"Sherwin Cruz","type":"User","url":"https://github.com/techpreneur02","location":"Turks and Caicos Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-31","pendingRevalidation":true}
 ],
-"contentHash": "5c3bdcec1ea05489",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "09de89ec6dc6ef15",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-31",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

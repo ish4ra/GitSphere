@@ -5,7 +5,7 @@
 "country": {"code":"SL","name":"Sierra Leone","slug":"sierra-leone"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"homepage","nameWithOwner":"gokoururi/homepage","url":"https://github.com/gokoururi/homepage","description":null,"stars":131,"forks":45,"primaryLanguage":"CSS","license":{"spdxId":"NOASSERTION"},"createdAt":"2014-05-02T21:02:28Z","pushedAt":"2015-01-10T16:17:19Z","archived":false,"owner":{"login":"gokoururi","name":"Gokou Ruri","type":"User","url":"https://github.com/gokoururi","location":"Sierra Leone","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Soundcard-RFID","nameWithOwner":"aempirei/Soundcard-RFID","url":"https://github.com/aempirei/Soundcard-RFID","description":null,"stars":27,"forks":10,"primaryLanguage":"C","license":null,"createdAt":"2012-02-10T11:02:29Z","pushedAt":"2016-04-02T09:23:11Z","archived":false,"owner":{"login":"aempirei","name":"Christopher Abad","type":"User","url":"https://github.com/aempirei","location":"Freetown, Sierra Leone","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"flyer","nameWithOwner":"David-coder001/flyer","url":"https://github.com/David-coder001/flyer","description":null,"stars":1,"forks":0,"primaryLanguage":"CSS","license":null,"createdAt":"2025-03-12T12:24:26Z","pushedAt":"2025-03-12T12:43:13Z","archived":false,"owner":{"login":"David-coder001","name":"DAVID SHEKU","type":"User","url":"https://github.com/David-coder001","location":"sierra leone","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Medify","nameWithOwner":"Dennis2340/Medify","url":"https://github.com/Dennis2340/Medify","description":null,"stars":1,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2024-09-10T11:43:08Z","pushedAt":"2024-10-21T06:52:30Z","archived":false,"owner":{"login":"Dennis2340","name":"Dennis Stephen Kamara","type":"User","url":"https://github.com/Dennis2340","location":"Freetown Sierra Leone","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "56a459140d51745e",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "b9f2e2c7cef1a1d4",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

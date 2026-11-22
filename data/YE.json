@@ -5,7 +5,7 @@
 "country": {"code":"YE","name":"Yemen","slug":"yemen"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"NibrasShell","nameWithOwner":"AhmedSaadi0/NibrasShell","url":"https://github.com/AhmedSaadi0/NibrasShell","description":null,"stars":773,"forks":40,"primaryLanguage":"QML","license":{"spdxId":"MIT"},"createdAt":"2023-07-30T06:49:16Z","pushedAt":"2026-09-28T09:46:05Z","archived":false,"owner":{"login":"AhmedSaadi0","name":"Ahmed Alsaadi","type":"User","url":"https://github.com/AhmedSaadi0","location":"Sanaa, Yemen","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-15","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"filament-page-with-sidebar","nameWithOwner":"aymanalhattami/filament-page-with-sidebar","url":"https://github.com/aymanalhattami/filament-page-with-sidebar","description":null,"stars":273,"forks":33,"primaryLanguage":"PHP","license":{"spdxId":"MIT"},"createdAt":"2023-03-21T14:24:48Z","pushedAt":"2026-06-22T02:32:57Z","archived":false,"owner":{"login":"aymanalhattami","name":"Ayman Alhattami","type":"User","url":"https://github.com/aymanalhattami","location":"Yemen","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-15","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"driver-drowsiness-monitoring-iot","nameWithOwner":"Hassan-Moqbel/driver-drowsiness-monitoring-iot","url":"https://github.com/Hassan-Moqbel/driver-drowsiness-monitoring-iot","description":null,"stars":2,"forks":0,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2026-09-20T01:03:31Z","pushedAt":"2026-09-20T01:26:29Z","archived":false,"owner":{"login":"Hassan-Moqbel","name":"Hassan Moqbel Morshed Ghaleb","type":"User","url":"https://github.com/Hassan-Moqbel","location":"Yemen","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Arabic-Healthcare-Dataset-AHD-","nameWithOwner":"hezam2022/Arabic-Healthcare-Dataset-AHD-","url":"https://github.com/hezam2022/Arabic-Healthcare-Dataset-AHD-","description":null,"stars":2,"forks":0,"primaryLanguage":"Jupyter Notebook","license":null,"createdAt":"2024-06-05T16:05:47Z","pushedAt":"2024-06-05T16:10:20Z","archived":false,"owner":{"login":"hezam2022","name":"Hezam Gawbah","type":"User","url":"https://github.com/hezam2022","location":"Yemen","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "b6a66fc690395510",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "0dd6dca0c292e457",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-15",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"IS","name":"Iceland","slug":"iceland"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":8,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":8,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"system_prompts_leaks","nameWithOwner":"asgeirtj/system_prompts_leaks","url":"https://github.com/asgeirtj/system_prompts_leaks","description":null,"stars":68837,"forks":11182,"primaryLanguage":"JavaScript","license":{"spdxId":"CC0-1.0"},"createdAt":"2025-05-03T02:43:56Z","pushedAt":"2026-10-04T02:40:53Z","archived":false,"owner":{"login":"asgeirtj","name":"Ásgeir Thor Johnson","type":"User","url":"https://github.com/asgeirtj","location":"Iceland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Sloth","nameWithOwner":"sveinbjornt/Sloth","url":"https://github.com/sveinbjornt/Sloth","description":null,"stars":8965,"forks":178,"primaryLanguage":"Objective-C","license":{"spdxId":"BSD-3-Clause"},"createdAt":"2011-03-28T02:47:23Z","pushedAt":"2026-08-30T10:31:22Z","archived":false,"owner":{"login":"sveinbjornt","name":"Sveinbjorn Thordarson","type":"User","url":"https://github.com/sveinbjornt","location":"Reykjavík, Iceland","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Mimisbrunnur","nameWithOwner":"kaos-69/Mimisbrunnur","url":"https://github.com/kaos-69/Mimisbrunnur","description":null,"stars":9,"forks":0,"primaryLanguage":"C","license":null,"createdAt":"2026-02-12T10:07:26Z","pushedAt":"2026-03-22T08:58:29Z","archived":false,"owner":{"login":"kaos-69","name":"Kári Össurarson","type":"User","url":"https://github.com/kaos-69","location":"Patresksfjörður, Iceland.","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"tempo-events-example","nameWithOwner":"tempo-io/tempo-events-example","url":"https://github.com/tempo-io/tempo-events-example","description":null,"stars":8,"forks":4,"primaryLanguage":"Kotlin","license":{"spdxId":"MIT"},"createdAt":"2018-02-28T19:07:51Z","pushedAt":"2025-04-14T15:33:07Z","archived":false,"owner":{"login":"tempo-io","name":"Tempo","type":"Organization","url":"https://github.com/tempo-io","location":"Reykjavik, Iceland","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "d3b2725c41a7794b",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "e68031e3d46660c8",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

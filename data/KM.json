@@ -5,7 +5,7 @@
 "country": {"code":"KM","name":"Comoros","slug":"comoros"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":44,"ownerExpansionBacklog":44,"candidates":44,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":44,"ownerExpansionBacklog":44,"candidates":44,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"footup","nameWithOwner":"faustfizz/footup","url":"https://github.com/faustfizz/footup","description":null,"stars":9,"forks":1,"primaryLanguage":"PHP","license":{"spdxId":"BSD-3-Clause"},"createdAt":"2021-12-18T11:07:39Z","pushedAt":"2026-08-24T17:32:31Z","archived":false,"owner":{"login":"faustfizz","name":"Youssouf Mbaé AS","type":"User","url":"https://github.com/faustfizz","location":"Comoros","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"automation-training","nameWithOwner":"SanyaKRY/automation-training","url":"https://github.com/SanyaKRY/automation-training","description":null,"stars":2,"forks":0,"primaryLanguage":"Java","license":null,"createdAt":"2019-05-04T20:44:17Z","pushedAt":"2023-05-09T18:41:47Z","archived":false,"owner":{"login":"SanyaKRY","name":"SanyaKRY","type":"User","url":"https://github.com/SanyaKRY","location":"Comoros","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -52,8 +52,8 @@
   {"rank":43,"id":null,"name":"bataille-sultans","nameWithOwner":"uchahidi-arch/bataille-sultans","url":"https://github.com/uchahidi-arch/bataille-sultans","description":null,"stars":0,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2026-07-22T16:06:06Z","pushedAt":"2026-07-23T14:29:22Z","archived":false,"owner":{"login":"uchahidi-arch","name":"U-DATA","type":"User","url":"https://github.com/uchahidi-arch","location":"Comores","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":44,"id":null,"name":"Multidimensional-Poverty-Paper","nameWithOwner":"Yssoufa/Multidimensional-Poverty-Paper","url":"https://github.com/Yssoufa/Multidimensional-Poverty-Paper","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-09-26T14:53:32Z","pushedAt":"2026-09-26T14:53:33Z","archived":false,"owner":{"login":"Yssoufa","name":"THABITI YSSOUFA","type":"User","url":"https://github.com/Yssoufa","location":"Comoros","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "65e913c695b8bead",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "c77eb3b5eadc09c5",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-11-04",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

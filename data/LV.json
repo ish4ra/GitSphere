@@ -5,7 +5,7 @@
 "country": {"code":"LV","name":"Latvia","slug":"latvia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":244,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":244,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"AdminLTE","nameWithOwner":"ColorlibHQ/AdminLTE","url":"https://github.com/ColorlibHQ/AdminLTE","description":null,"stars":45635,"forks":18148,"primaryLanguage":"Astro","license":{"spdxId":"MIT"},"createdAt":"2013-12-25T02:52:40Z","pushedAt":"2026-10-01T12:44:09Z","archived":false,"owner":{"login":"ColorlibHQ","name":"Colorlib","type":"Organization","url":"https://github.com/ColorlibHQ","location":"Latvia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"gentelella","nameWithOwner":"ColorlibHQ/gentelella","url":"https://github.com/ColorlibHQ/gentelella","description":null,"stars":21534,"forks":6838,"primaryLanguage":"HTML","license":{"spdxId":"MIT"},"createdAt":"2015-05-15T06:57:27Z","pushedAt":"2026-09-16T13:15:01Z","archived":false,"owner":{"login":"ColorlibHQ","name":"Colorlib","type":"Organization","url":"https://github.com/ColorlibHQ","location":"Latvia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"redispipe","nameWithOwner":"joomcode/redispipe","url":"https://github.com/joomcode/redispipe","description":null,"stars":248,"forks":17,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2018-01-09T14:44:41Z","pushedAt":"2026-09-18T10:57:54Z","archived":false,"owner":{"login":"joomcode","name":"Joom","type":"Organization","url":"https://github.com/joomcode","location":"Latvia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Godot_Public_Examples","nameWithOwner":"nezvers/Godot_Public_Examples","url":"https://github.com/nezvers/Godot_Public_Examples","description":null,"stars":244,"forks":47,"primaryLanguage":"GDScript","license":{"spdxId":"MIT"},"createdAt":"2019-08-17T17:39:24Z","pushedAt":"2026-04-23T16:17:44Z","archived":false,"owner":{"login":"nezvers","name":"Agnis Aldiņš \"NeZvērs\"","type":"User","url":"https://github.com/nezvers","location":"Riga, Latvia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true}
 ],
-"contentHash": "1ccc15af61427738",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "143a790e2f9619c9",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

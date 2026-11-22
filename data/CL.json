@@ -5,7 +5,7 @@
 "country": {"code":"CL","name":"Chile","slug":"chile"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"awesome-esp","nameWithOwner":"agucova/awesome-esp","url":"https://github.com/agucova/awesome-esp","description":null,"stars":2720,"forks":169,"primaryLanguage":null,"license":{"spdxId":"CC0-1.0"},"createdAt":"2017-12-24T17:52:21Z","pushedAt":"2026-05-09T14:45:25Z","archived":false,"owner":{"login":"agucova","name":"Agustín Covarrubias","type":"User","url":"https://github.com/agucova","location":"Santiago, Chile","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Dante","nameWithOwner":"michelson/Dante","url":"https://github.com/michelson/Dante","description":null,"stars":2041,"forks":190,"primaryLanguage":"TypeScript","license":null,"createdAt":"2014-10-17T06:02:14Z","pushedAt":"2026-08-23T01:47:27Z","archived":false,"owner":{"login":"michelson","name":"Miguel Michelson Martinez","type":"User","url":"https://github.com/michelson","location":"Santiago, Chile","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"java_playground","nameWithOwner":"CaneloDigital/java_playground","url":"https://github.com/CaneloDigital/java_playground","description":null,"stars":1,"forks":0,"primaryLanguage":"Java","license":null,"createdAt":"2016-09-22T19:44:15Z","pushedAt":"2016-09-23T02:09:39Z","archived":false,"owner":{"login":"CaneloDigital","name":"Patrick Reolon","type":"User","url":"https://github.com/CaneloDigital","location":"Valdivia - Chile","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Spore-IconGenerator","nameWithOwner":"CarrioNet/Spore-IconGenerator","url":"https://github.com/CarrioNet/Spore-IconGenerator","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":{"spdxId":"GPL-3.0"},"createdAt":"2023-07-23T07:12:03Z","pushedAt":"2023-07-25T02:07:11Z","archived":false,"owner":{"login":"CarrioNet","name":"Joseph C.","type":"User","url":"https://github.com/CarrioNet","location":"Chile","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "43143e5902c1416c",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "e1a04200a63acaa9",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

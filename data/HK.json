@@ -5,7 +5,7 @@
 "country": {"code":"HK","name":"Hong Kong","slug":"hong-kong"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":2376,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":2376,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"HowToCook","nameWithOwner":"Anduin2017/HowToCook","url":"https://github.com/Anduin2017/HowToCook","description":null,"stars":102392,"forks":11100,"primaryLanguage":null,"license":{"spdxId":"Unlicense"},"createdAt":"2020-02-29T10:43:49Z","pushedAt":"2026-09-23T03:41:08Z","archived":false,"owner":{"login":"Anduin2017","name":"Anduin Xue","type":"User","url":"https://github.com/Anduin2017","location":"Hong Kong SAR","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"uptime-kuma","nameWithOwner":"louislam/uptime-kuma","url":"https://github.com/louislam/uptime-kuma","description":null,"stars":92090,"forks":8513,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2021-07-03T01:02:42Z","pushedAt":"2026-10-04T00:51:44Z","archived":false,"owner":{"login":"louislam","name":"Louis Lam","type":"User","url":"https://github.com/louislam","location":"Hong Kong","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"telepot","nameWithOwner":"nickoala/telepot","url":"https://github.com/nickoala/telepot","description":null,"stars":2412,"forks":457,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2015-07-09T03:06:53Z","pushedAt":"2021-03-09T06:27:24Z","archived":true,"owner":{"login":"nickoala","name":"Nick Lee","type":"User","url":"https://github.com/nickoala","location":"Hong Kong","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"pixel2motion","nameWithOwner":"nolangz/pixel2motion","url":"https://github.com/nolangz/pixel2motion","description":null,"stars":2376,"forks":197,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2026-06-12T04:25:17Z","pushedAt":"2026-08-21T12:06:57Z","archived":false,"owner":{"login":"nolangz","name":"NolanLai","type":"User","url":"https://github.com/nolangz","location":"Hongkong","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "85b87ec551a54dcd",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "9498f6f2389f0320",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

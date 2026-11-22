@@ -5,7 +5,7 @@
 "country": {"code":"BA","name":"Bosnia & Herzegovina","slug":"bosnia-herzegovina"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":12,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":12,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"webhook","nameWithOwner":"adnanh/webhook","url":"https://github.com/adnanh/webhook","description":null,"stars":12171,"forks":877,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2015-01-12T20:59:11Z","pushedAt":"2026-09-04T18:02:57Z","archived":false,"owner":{"login":"adnanh","name":"Adnan Hajdarević","type":"User","url":"https://github.com/adnanh","location":"Sarajevo, Bosnia & Herzegovina","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"awesome-linux","nameWithOwner":"inputsh/awesome-linux","url":"https://github.com/inputsh/awesome-linux","description":null,"stars":5158,"forks":425,"primaryLanguage":null,"license":{"spdxId":"WTFPL"},"createdAt":"2015-06-21T15:35:53Z","pushedAt":"2023-02-04T17:02:53Z","archived":true,"owner":{"login":"inputsh","name":"Aleksandar Todorović","type":"User","url":"https://github.com/inputsh","location":"Sarajevo, Bosnia & Herzegovina","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"awesome-actionhero","nameWithOwner":"krlicmuhamed/awesome-actionhero","url":"https://github.com/krlicmuhamed/awesome-actionhero","description":null,"stars":13,"forks":3,"primaryLanguage":null,"license":null,"createdAt":"2016-01-02T19:46:48Z","pushedAt":"2017-04-13T13:30:09Z","archived":false,"owner":{"login":"krlicmuhamed","name":"Muhamed Krlić","type":"User","url":"https://github.com/krlicmuhamed","location":"Bosnia and Herzegovina","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"better-osd","nameWithOwner":"hllvc/better-osd","url":"https://github.com/hllvc/better-osd","description":null,"stars":12,"forks":13,"primaryLanguage":"JavaScript","license":null,"createdAt":"2021-04-30T13:50:43Z","pushedAt":"2023-03-30T11:19:54Z","archived":false,"owner":{"login":"hllvc","name":"Adis","type":"User","url":"https://github.com/hllvc","location":"Sarajevo, Bosnia & Herzegovina","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "1e00b6f111df7666",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "988e6acacb4849fe",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

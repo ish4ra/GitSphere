@@ -5,7 +5,7 @@
 "country": {"code":"LU","name":"Luxembourg","slug":"luxembourg"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":3,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":3,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"awesome-oss-alternatives","nameWithOwner":"RunaCapital/awesome-oss-alternatives","url":"https://github.com/RunaCapital/awesome-oss-alternatives","description":null,"stars":19731,"forks":1115,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2021-11-15T09:38:58Z","pushedAt":"2025-09-03T17:43:01Z","archived":false,"owner":{"login":"RunaCapital","name":"Runa Capital","type":"Organization","url":"https://github.com/RunaCapital","location":"Luxembourg","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"stack-on-a-budget","nameWithOwner":"255kb/stack-on-a-budget","url":"https://github.com/255kb/stack-on-a-budget","description":null,"stars":12457,"forks":577,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2016-10-12T06:55:09Z","pushedAt":"2026-10-02T09:57:55Z","archived":false,"owner":{"login":"255kb","name":"Guillaume","type":"User","url":"https://github.com/255kb","location":"Luxembourg","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Avastrolytics","nameWithOwner":"salah1x64/Avastrolytics","url":"https://github.com/salah1x64/Avastrolytics","description":null,"stars":3,"forks":0,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2025-10-03T15:20:49Z","pushedAt":"2025-10-20T17:23:16Z","archived":false,"owner":{"login":"salah1x64","name":"Salaheddine","type":"User","url":"https://github.com/salah1x64","location":"Luxembourg","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"GoogleAuthenticatorProvider","nameWithOwner":"t-keller/GoogleAuthenticatorProvider","url":"https://github.com/t-keller/GoogleAuthenticatorProvider","description":null,"stars":3,"forks":0,"primaryLanguage":"PHP","license":null,"createdAt":"2014-06-19T11:06:51Z","pushedAt":"2014-06-20T05:27:10Z","archived":false,"owner":{"login":"t-keller","name":"Thomas KELLER","type":"User","url":"https://github.com/t-keller","location":"Luxembourg","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "ca3f96c957c35a8a",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "5be5f65cf01f8677",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-11",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

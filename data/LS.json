@@ -5,7 +5,7 @@
 "country": {"code":"LS","name":"Lesotho","slug":"lesotho"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"bat","nameWithOwner":"tshakalekholoane/bat","url":"https://github.com/tshakalekholoane/bat","description":null,"stars":376,"forks":28,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2021-01-13T18:02:46Z","pushedAt":"2026-09-14T03:15:27Z","archived":false,"owner":{"login":"tshakalekholoane","name":"Tshaka Lekholoane","type":"User","url":"https://github.com/tshakalekholoane","location":"Maseru, Lesotho","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-12","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"real_estate","nameWithOwner":"ramoletane/real_estate","url":"https://github.com/ramoletane/real_estate","description":null,"stars":26,"forks":15,"primaryLanguage":"Python","license":{"spdxId":"NOASSERTION"},"createdAt":"2019-09-12T13:39:58Z","pushedAt":"2020-03-24T12:04:02Z","archived":false,"owner":{"login":"ramoletane","name":"Ramoletane Lekhanya","type":"User","url":"https://github.com/ramoletane","location":"Maseru, Lesotho","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Genetic-Algorithm","nameWithOwner":"zumz/Genetic-Algorithm","url":"https://github.com/zumz/Genetic-Algorithm","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2014-03-05T14:24:26Z","pushedAt":"2014-03-05T15:10:52Z","archived":false,"owner":{"login":"zumz","name":"Tsatsi Mahase","type":"User","url":"https://github.com/zumz","location":"Maseru","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"CS4433QR","nameWithOwner":"TsepoPUT/CS4433QR","url":"https://github.com/TsepoPUT/CS4433QR","description":null,"stars":0,"forks":2,"primaryLanguage":"Java","license":null,"createdAt":"2023-12-19T06:21:02Z","pushedAt":"2023-12-19T16:44:52Z","archived":false,"owner":{"login":"TsepoPUT","name":"Tsepo Putsoane","type":"User","url":"https://github.com/TsepoPUT","location":"Maseru, Lesotho","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "883e7b93f0e7a492",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "d6cd5d5ca273976d",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-12",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

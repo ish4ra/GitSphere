@@ -5,7 +5,7 @@
 "country": {"code":"SM","name":"San Marino","slug":"san-marino"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":103,"candidates":103,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":103,"candidates":103,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"pytheus","nameWithOwner":"Llandy3d/pytheus","url":"https://github.com/Llandy3d/pytheus","description":null,"stars":96,"forks":9,"primaryLanguage":"Python","license":{"spdxId":"Apache-2.0"},"createdAt":"2022-07-09T15:17:12Z","pushedAt":"2025-06-26T22:34:31Z","archived":false,"owner":{"login":"Llandy3d","name":"Llandy Riveron Del Risco","type":"User","url":"https://github.com/Llandy3d","location":"San Marino","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-30","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"retools","nameWithOwner":"agustingianni/retools","url":"https://github.com/agustingianni/retools","description":null,"stars":88,"forks":8,"primaryLanguage":"C++","license":{"spdxId":"MIT"},"createdAt":"2017-08-01T21:28:01Z","pushedAt":"2017-12-28T14:48:57Z","archived":false,"owner":{"login":"agustingianni","name":"Agustin Gianni","type":"User","url":"https://github.com/agustingianni","location":"San Marino","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-30","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"my-daily-money","nameWithOwner":"Uff182/my-daily-money","url":"https://github.com/Uff182/my-daily-money","description":null,"stars":0,"forks":0,"primaryLanguage":"Java","license":null,"createdAt":"2015-03-13T08:07:41Z","pushedAt":"2015-03-13T12:51:31Z","archived":false,"owner":{"login":"Uff182","name":"Andrea Candini","type":"User","url":"https://github.com/Uff182","location":"San Marino","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-30","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"my-first-repo","nameWithOwner":"Undefinetiv/my-first-repo","url":"https://github.com/Undefinetiv/my-first-repo","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-04-15T09:41:29Z","pushedAt":"2023-04-15T10:14:39Z","archived":false,"owner":{"login":"Undefinetiv","name":"iSushi","type":"User","url":"https://github.com/Undefinetiv","location":"San Marino","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-30","pendingRevalidation":true}
 ],
-"contentHash": "8656be6a8443dd14",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "58cfc27990fc9499",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-30",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

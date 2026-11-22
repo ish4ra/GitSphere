@@ -5,7 +5,7 @@
 "country": {"code":"BD","name":"Bangladesh","slug":"bangladesh"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"zphisher","nameWithOwner":"htr-tech/zphisher","url":"https://github.com/htr-tech/zphisher","description":null,"stars":16949,"forks":6370,"primaryLanguage":"HTML","license":{"spdxId":"GPL-3.0"},"createdAt":"2019-11-25T13:22:20Z","pushedAt":"2024-08-21T08:14:42Z","archived":false,"owner":{"login":"htr-tech","name":"Tahmid Rayat","type":"User","url":"https://github.com/htr-tech","location":"Dhaka, Bangladesh","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"vcard-personal-portfolio","nameWithOwner":"codewithsadee/vcard-personal-portfolio","url":"https://github.com/codewithsadee/vcard-personal-portfolio","description":null,"stars":8112,"forks":4467,"primaryLanguage":"HTML","license":{"spdxId":"MIT"},"createdAt":"2022-03-19T18:30:00Z","pushedAt":"2025-06-12T16:43:59Z","archived":false,"owner":{"login":"codewithsadee","name":"Sadee","type":"User","url":"https://github.com/codewithsadee","location":"Bangladesh","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"different-cover-pic-for-different-post-in-ghost","nameWithOwner":"stupidcode/different-cover-pic-for-different-post-in-ghost","url":"https://github.com/stupidcode/different-cover-pic-for-different-post-in-ghost","description":null,"stars":2,"forks":0,"primaryLanguage":null,"license":{"spdxId":"GPL-2.0"},"createdAt":"2014-01-11T12:49:17Z","pushedAt":"2014-01-11T12:57:43Z","archived":false,"owner":{"login":"stupidcode","name":"Tahmid","type":"User","url":"https://github.com/stupidcode","location":"Bangladesh","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"node-mysql-sequielize-crud","nameWithOwner":"tamim-answari/node-mysql-sequielize-crud","url":"https://github.com/tamim-answari/node-mysql-sequielize-crud","description":null,"stars":2,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2022-02-15T08:47:50Z","pushedAt":"2022-02-15T08:57:40Z","archived":false,"owner":{"login":"tamim-answari","name":"Tamim Answari","type":"User","url":"https://github.com/tamim-answari","location":"Dhaka, Bangladesh.","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "22f5de4622a0e3d3",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "2269029fd2c91632",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

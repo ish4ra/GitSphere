@@ -5,7 +5,7 @@
 "country": {"code":"NI","name":"Nicaragua","slug":"nicaragua"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"FacebookBot","nameWithOwner":"miaru3d/FacebookBot","url":"https://github.com/miaru3d/FacebookBot","description":null,"stars":409,"forks":122,"primaryLanguage":"Python","license":{"spdxId":"Apache-2.0"},"createdAt":"2016-01-29T15:20:09Z","pushedAt":"2024-03-19T12:08:36Z","archived":false,"owner":{"login":"miaru3d","name":"Miaru3d","type":"User","url":"https://github.com/miaru3d","location":"Nicaragua","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"getaltname","nameWithOwner":"franccesco/getaltname","url":"https://github.com/franccesco/getaltname","description":null,"stars":390,"forks":71,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2017-11-13T03:28:10Z","pushedAt":"2026-09-01T06:58:34Z","archived":false,"owner":{"login":"franccesco","name":"Franccesco Orozco","type":"User","url":"https://github.com/franccesco","location":"Nicaragua","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"ChavaPlayer","nameWithOwner":"chavarriahumberto7/ChavaPlayer","url":"https://github.com/chavarriahumberto7/ChavaPlayer","description":null,"stars":2,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2022-11-03T01:25:51Z","pushedAt":"2022-11-08T23:46:36Z","archived":false,"owner":{"login":"chavarriahumberto7","name":null,"type":"User","url":"https://github.com/chavarriahumberto7","location":"Nicaragua","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"ValidaCedulaNica","nameWithOwner":"cortizg/ValidaCedulaNica","url":"https://github.com/cortizg/ValidaCedulaNica","description":null,"stars":2,"forks":0,"primaryLanguage":"JavaScript","license":{"spdxId":"GPL-3.0"},"createdAt":"2020-05-14T06:57:34Z","pushedAt":"2020-05-14T16:56:12Z","archived":false,"owner":{"login":"cortizg","name":"Carlos Ortiz Gutiérrez","type":"User","url":"https://github.com/cortizg","location":"Nicaragua","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "54e0debc27e5f35b",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "2635e093890ab6cf",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

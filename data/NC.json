@@ -5,7 +5,7 @@
 "country": {"code":"NC","name":"New Caledonia","slug":"new-caledonia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":146,"candidates":146,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":146,"candidates":146,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"yaac-another-awesome-cv","nameWithOwner":"darwiin/yaac-another-awesome-cv","url":"https://github.com/darwiin/yaac-another-awesome-cv","description":null,"stars":1043,"forks":285,"primaryLanguage":"TeX","license":{"spdxId":"LPPL-1.3c"},"createdAt":"2016-08-29T07:29:23Z","pushedAt":"2022-11-14T22:46:27Z","archived":false,"owner":{"login":"darwiin","name":"Christophe ROGER","type":"User","url":"https://github.com/darwiin","location":"New Caledonia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"ShortMoji","nameWithOwner":"TooFuW/ShortMoji","url":"https://github.com/TooFuW/ShortMoji","description":null,"stars":37,"forks":0,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2024-12-17T21:25:21Z","pushedAt":"2026-03-16T20:48:41Z","archived":false,"owner":{"login":"TooFuW","name":"Eyrian Muet","type":"User","url":"https://github.com/TooFuW","location":"New- Caledonia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"KelThr","nameWithOwner":"KelThr/KelThr","url":"https://github.com/KelThr/KelThr","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-01-20T23:03:54Z","pushedAt":"2026-01-20T23:04:52Z","archived":false,"owner":{"login":"KelThr","name":"Kelyan","type":"User","url":"https://github.com/KelThr","location":"Nouméa, New-Caledonia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"kirkadezlife","nameWithOwner":"kirkadezlife/kirkadezlife","url":"https://github.com/kirkadezlife/kirkadezlife","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-25T03:56:10Z","pushedAt":"2024-09-25T03:56:26Z","archived":false,"owner":{"login":"kirkadezlife","name":null,"type":"User","url":"https://github.com/kirkadezlife","location":"New Caledonia (NC)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "f184753dce4f02e7",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "07b9e6120712e01c",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

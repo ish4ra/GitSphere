@@ -5,7 +5,7 @@
 "country": {"code":"SV","name":"El Salvador","slug":"el-salvador"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"pyspider","nameWithOwner":"binux/pyspider","url":"https://github.com/binux/pyspider","description":null,"stars":16759,"forks":3620,"primaryLanguage":"Python","license":{"spdxId":"Apache-2.0"},"createdAt":"2014-02-21T19:18:47Z","pushedAt":"2024-04-30T19:43:29Z","archived":true,"owner":{"login":"binux","name":"Roy Binux","type":"User","url":"https://github.com/binux","location":"San Jose, US","attribution":{"confidence":"high","evidence":"place-with-subdivision"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"pgweb","nameWithOwner":"sosedoff/pgweb","url":"https://github.com/sosedoff/pgweb","description":null,"stars":9524,"forks":866,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2014-10-09T01:41:32Z","pushedAt":"2026-07-26T22:30:33Z","archived":false,"owner":{"login":"sosedoff","name":"Dan Sosedoff","type":"User","url":"https://github.com/sosedoff","location":"California, US","attribution":{"confidence":"high","evidence":"place-with-subdivision"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"security-engineering-playbooks","nameWithOwner":"BladimirF7/security-engineering-playbooks","url":"https://github.com/BladimirF7/security-engineering-playbooks","description":null,"stars":1,"forks":0,"primaryLanguage":"Shell","license":{"spdxId":"MIT"},"createdAt":"2026-05-19T22:58:30Z","pushedAt":"2026-05-21T00:21:55Z","archived":false,"owner":{"login":"BladimirF7","name":"BladimirF","type":"User","url":"https://github.com/BladimirF7","location":"San Salvador, El Salvador","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"rentora-landing","nameWithOwner":"blen7777/rentora-landing","url":"https://github.com/blen7777/rentora-landing","description":null,"stars":1,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2026-02-24T06:29:59Z","pushedAt":"2026-10-28T04:14:45Z","archived":false,"owner":{"login":"blen7777","name":"Ruben Lopez","type":"User","url":"https://github.com/blen7777","location":"El Salvador","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "fdb4920fd647e2fd",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "2d314a92b2a1ad20",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-05",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

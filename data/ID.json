@@ -5,7 +5,7 @@
 "country": {"code":"ID","name":"Indonesia","slug":"indonesia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":873,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":873,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"GhostTrack","nameWithOwner":"HunxByts/GhostTrack","url":"https://github.com/HunxByts/GhostTrack","description":null,"stars":16855,"forks":2300,"primaryLanguage":"Python","license":null,"createdAt":"2023-04-15T07:20:47Z","pushedAt":"2024-01-11T15:36:46Z","archived":false,"owner":{"login":"HunxByts","name":"K1LLU","type":"User","url":"https://github.com/HunxByts","location":"Kaltimantan, Indonesia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"OpenWA","nameWithOwner":"rmyndharis/OpenWA","url":"https://github.com/rmyndharis/OpenWA","description":null,"stars":15000,"forks":3515,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2026-02-02T12:14:45Z","pushedAt":"2026-10-03T13:29:09Z","archived":false,"owner":{"login":"rmyndharis","name":"Yudhi Armyndharis","type":"User","url":"https://github.com/rmyndharis","location":"Batam, Indonesia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"react-native-expo-template","nameWithOwner":"codingki/react-native-expo-template","url":"https://github.com/codingki/react-native-expo-template","description":null,"stars":878,"forks":318,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2020-10-23T04:46:11Z","pushedAt":"2023-08-18T04:14:18Z","archived":false,"owner":{"login":"codingki","name":"Nur Fikri","type":"User","url":"https://github.com/codingki","location":"Jakarta, Indonesia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"svg2shenzhen","nameWithOwner":"badgeek/svg2shenzhen","url":"https://github.com/badgeek/svg2shenzhen","description":null,"stars":873,"forks":80,"primaryLanguage":"C++","license":{"spdxId":"GPL-3.0"},"createdAt":"2018-03-29T00:33:16Z","pushedAt":"2025-03-15T13:51:04Z","archived":false,"owner":{"login":"badgeek","name":"Budi Prakosa a.k.a Iyok","type":"User","url":"https://github.com/badgeek","location":"Yogyakarta","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "1bfe8397b4e4ddfd",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "c715639987b7ba2a",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

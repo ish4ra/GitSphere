@@ -5,7 +5,7 @@
 "country": {"code":"IQ","name":"Iraq","slug":"iraq"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"OpenCursor","nameWithOwner":"PawanOsman/OpenCursor","url":"https://github.com/PawanOsman/OpenCursor","description":null,"stars":6029,"forks":1032,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2022-12-06T16:39:11Z","pushedAt":"2026-09-25T08:24:32Z","archived":false,"owner":{"login":"PawanOsman","name":"Pawan Osman","type":"User","url":"https://github.com/PawanOsman","location":"As Sulaymaniyah, Iraq","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-13","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"chatify","nameWithOwner":"munafio/chatify","url":"https://github.com/munafio/chatify","description":null,"stars":2432,"forks":487,"primaryLanguage":"PHP","license":{"spdxId":"MIT"},"createdAt":"2019-12-30T10:28:55Z","pushedAt":"2026-09-09T01:27:56Z","archived":false,"owner":{"login":"munafio","name":"Munaf A. Mahdi","type":"User","url":"https://github.com/munafio","location":"Iraq","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Ali-T-97","nameWithOwner":"Ali-T-97/Ali-T-97","url":"https://github.com/Ali-T-97/Ali-T-97","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2021-03-13T10:08:27Z","pushedAt":"2021-03-13T10:08:28Z","archived":false,"owner":{"login":"Ali-T-97","name":"Ali Taleb","type":"User","url":"https://github.com/Ali-T-97","location":"iraq - basra","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"alikingprogrammer","nameWithOwner":"alikingprogrammer/alikingprogrammer","url":"https://github.com/alikingprogrammer/alikingprogrammer","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2021-11-28T21:04:09Z","pushedAt":"2021-11-28T21:09:58Z","archived":false,"owner":{"login":"alikingprogrammer","name":"IRAQ Al-Watani | عراق الوطني","type":"User","url":"https://github.com/alikingprogrammer","location":"Iraq","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "cc94c79c4680db41",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "1a0f9a154fa4927f",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-13",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"MX","name":"Mexico","slug":"mexico"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":5,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":5,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"bats","nameWithOwner":"sstephenson/bats","url":"https://github.com/sstephenson/bats","description":null,"stars":7103,"forks":506,"primaryLanguage":"Shell","license":{"spdxId":"MIT"},"createdAt":"2011-12-28T18:40:33Z","pushedAt":"2019-09-27T17:21:43Z","archived":true,"owner":{"login":"sstephenson","name":"Sam Stephenson","type":"User","url":"https://github.com/sstephenson","location":"Ciudad de México","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Clean-Code-Notes","nameWithOwner":"JuanCrg90/Clean-Code-Notes","url":"https://github.com/JuanCrg90/Clean-Code-Notes","description":null,"stars":6120,"forks":836,"primaryLanguage":null,"license":null,"createdAt":"2016-11-17T04:05:58Z","pushedAt":"2023-11-26T13:16:01Z","archived":false,"owner":{"login":"JuanCrg90","name":"Juan Carlos Ruiz","type":"User","url":"https://github.com/JuanCrg90","location":"Leon, Gto. Mexico","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Python_W3Schools","nameWithOwner":"diegogallegof/Python_W3Schools","url":"https://github.com/diegogallegof/Python_W3Schools","description":null,"stars":6,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2023-02-21T02:31:10Z","pushedAt":"2024-04-20T02:35:59Z","archived":false,"owner":{"login":"diegogallegof","name":"DonDiego","type":"User","url":"https://github.com/diegogallegof","location":"Mexico","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"org","nameWithOwner":"HarlandLohora/org","url":"https://github.com/HarlandLohora/org","description":null,"stars":5,"forks":3,"primaryLanguage":"JavaScript","license":null,"createdAt":"2023-03-15T12:50:03Z","pushedAt":"2023-03-15T12:52:50Z","archived":false,"owner":{"login":"HarlandLohora","name":"Harland Lohora","type":"User","url":"https://github.com/HarlandLohora","location":"Mexico","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "082c7d35857aa3ea",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "91dc06890ee3a067",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

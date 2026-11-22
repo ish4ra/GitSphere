@@ -5,7 +5,7 @@
 "country": {"code":"UZ","name":"Uzbekistan","slug":"uzbekistan"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"nvidia-patch","nameWithOwner":"keylase/nvidia-patch","url":"https://github.com/keylase/nvidia-patch","description":null,"stars":4806,"forks":374,"primaryLanguage":"Python","license":null,"createdAt":"2016-07-15T09:30:34Z","pushedAt":"2026-09-24T05:38:05Z","archived":false,"owner":{"login":"keylase","name":"Keylase","type":"User","url":"https://github.com/keylase","location":"Tashkent","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"xlsx2csv","nameWithOwner":"dilshod/xlsx2csv","url":"https://github.com/dilshod/xlsx2csv","description":null,"stars":1778,"forks":305,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2010-03-20T15:29:38Z","pushedAt":"2026-08-21T17:51:28Z","archived":false,"owner":{"login":"dilshod","name":"Dilshod Temirkhodja","type":"User","url":"https://github.com/dilshod","location":"Tashkent, Uzbekistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"morph-wp-starter-theme","nameWithOwner":"arthursatarov/morph-wp-starter-theme","url":"https://github.com/arthursatarov/morph-wp-starter-theme","description":null,"stars":1,"forks":0,"primaryLanguage":"SCSS","license":null,"createdAt":"2025-09-15T06:32:16Z","pushedAt":"2025-12-08T10:41:10Z","archived":false,"owner":{"login":"arthursatarov","name":"Arthur Satarov","type":"User","url":"https://github.com/arthursatarov","location":"Uzbekistan, Tashkent","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"python_tasks","nameWithOwner":"aziza-orifjonova/python_tasks","url":"https://github.com/aziza-orifjonova/python_tasks","description":null,"stars":1,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2023-01-17T18:17:37Z","pushedAt":"2023-01-17T18:21:24Z","archived":false,"owner":{"login":"aziza-orifjonova","name":"Aziza","type":"User","url":"https://github.com/aziza-orifjonova","location":"Uzbekistan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "1fd45f33a55178ed",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "1a78ee4ee63cc6a2",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

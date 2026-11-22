@@ -5,7 +5,7 @@
 "country": {"code":"ZW","name":"Zimbabwe","slug":"zimbabwe"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"MALVIN-XD","nameWithOwner":"XdKing2/MALVIN-XD","url":"https://github.com/XdKing2/MALVIN-XD","description":null,"stars":1582,"forks":3733,"primaryLanguage":"JavaScript","license":null,"createdAt":"2025-04-05T10:39:29Z","pushedAt":"2026-09-30T18:52:21Z","archived":false,"owner":{"login":"XdKing2","name":"Malvin Tech","type":"Organization","url":"https://github.com/XdKing2","location":"Zimbabwe","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"star-xd","nameWithOwner":"mrxdking/star-xd","url":"https://github.com/mrxdking/star-xd","description":null,"stars":629,"forks":1389,"primaryLanguage":"Python","license":null,"createdAt":"2025-06-22T15:23:52Z","pushedAt":"2026-09-21T19:17:51Z","archived":false,"owner":{"login":"mrxdking","name":"Malvin King","type":"User","url":"https://github.com/mrxdking","location":"Zimbabwe","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"ecocash-api","nameWithOwner":"ansifact/ecocash-api","url":"https://github.com/ansifact/ecocash-api","description":null,"stars":1,"forks":0,"primaryLanguage":"Hack","license":null,"createdAt":"2019-05-01T06:50:19Z","pushedAt":"2023-09-25T13:45:22Z","archived":false,"owner":{"login":"ansifact","name":"GODKNOWS SHUMBA","type":"User","url":"https://github.com/ansifact","location":"GWERU ZIMBABWE","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"InventorySystem","nameWithOwner":"anthenchirume/InventorySystem","url":"https://github.com/anthenchirume/InventorySystem","description":null,"stars":1,"forks":0,"primaryLanguage":"Visual Basic","license":null,"createdAt":"2017-07-21T09:32:38Z","pushedAt":"2017-08-29T17:03:34Z","archived":false,"owner":{"login":"anthenchirume","name":"Anthen","type":"User","url":"https://github.com/anthenchirume","location":"Bulawayo, Zimbabwe","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "96635ae6876acf7e",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "ec198995ebc02016",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

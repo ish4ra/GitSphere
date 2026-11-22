@@ -5,7 +5,7 @@
 "country": {"code":"VA","name":"Vatican City","slug":"vatican-city"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":59,"ownerExpansionBacklog":59,"candidates":59,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":59,"ownerExpansionBacklog":59,"candidates":59,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"LiturgicalCalendarAPI","nameWithOwner":"Liturgical-Calendar/LiturgicalCalendarAPI","url":"https://github.com/Liturgical-Calendar/LiturgicalCalendarAPI","description":null,"stars":107,"forks":33,"primaryLanguage":"PHP","license":{"spdxId":"Apache-2.0"},"createdAt":"2017-07-25T23:01:15Z","pushedAt":"2026-10-07T07:09:59Z","archived":false,"owner":{"login":"Liturgical-Calendar","name":"Catholic Liturgical Calendar","type":"Organization","url":"https://github.com/Liturgical-Calendar","location":"Vatican City","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"derails","nameWithOwner":"derails/derails","url":"https://github.com/derails/derails","description":null,"stars":73,"forks":4,"primaryLanguage":"Ruby","license":{"spdxId":"NOASSERTION"},"createdAt":"2025-09-25T08:26:38Z","pushedAt":"2025-09-27T11:01:31Z","archived":false,"owner":{"login":"derails","name":"Derails","type":"Organization","url":"https://github.com/derails","location":"Vatican City","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
@@ -67,8 +67,8 @@
   {"rank":58,"id":null,"name":"boersenspiel","nameWithOwner":"vronton/boersenspiel","url":"https://github.com/vronton/boersenspiel","description":null,"stars":0,"forks":0,"primaryLanguage":"Vue","license":null,"createdAt":"2024-02-20T23:47:29Z","pushedAt":"2024-02-24T18:36:43Z","archived":false,"owner":{"login":"vronton","name":"Ve","type":"User","url":"https://github.com/vronton","location":"Vatican City","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
   {"rank":59,"id":null,"name":".github","nameWithOwner":"wacky-tv-wall/.github","url":"https://github.com/wacky-tv-wall/.github","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-02-26T03:22:54Z","pushedAt":"2023-02-26T03:30:15Z","archived":false,"owner":{"login":"wacky-tv-wall","name":"MDMA","type":"Organization","url":"https://github.com/wacky-tv-wall","location":"Vatican City","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true}
 ],
-"contentHash": "8f7dcd757a73304b",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "5455622ffff8c292",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-27",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"MG","name":"Madagascar","slug":"madagascar"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"leaf","nameWithOwner":"RivoLink/leaf","url":"https://github.com/RivoLink/leaf","description":null,"stars":2109,"forks":106,"primaryLanguage":"Rust","license":{"spdxId":"MIT"},"createdAt":"2026-04-06T03:31:32Z","pushedAt":"2026-09-28T10:22:52Z","archived":false,"owner":{"login":"RivoLink","name":"Rivo Link","type":"User","url":"https://github.com/RivoLink","location":"Antananarivo - Madagascar","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"tailwind-tools.nvim","nameWithOwner":"luckasRanarison/tailwind-tools.nvim","url":"https://github.com/luckasRanarison/tailwind-tools.nvim","description":null,"stars":587,"forks":57,"primaryLanguage":"Lua","license":{"spdxId":"MIT"},"createdAt":"2024-03-17T17:43:07Z","pushedAt":"2025-05-23T05:27:55Z","archived":true,"owner":{"login":"luckasRanarison","name":"Luckas","type":"User","url":"https://github.com/luckasRanarison","location":"Antananarivo, Madagascar","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-15","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"my-ctf-solutions","nameWithOwner":"Kenainy-aizen/my-ctf-solutions","url":"https://github.com/Kenainy-aizen/my-ctf-solutions","description":null,"stars":2,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2026-07-07T17:00:48Z","pushedAt":"2026-08-12T07:57:31Z","archived":false,"owner":{"login":"Kenainy-aizen","name":"RAVELOMANANA Mahasoa Kelly","type":"User","url":"https://github.com/Kenainy-aizen","location":"Madagascar","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"kevin-andy-calculator","nameWithOwner":"Kevin-Andy-RANDRIAMIZAKA/kevin-andy-calculator","url":"https://github.com/Kevin-Andy-RANDRIAMIZAKA/kevin-andy-calculator","description":null,"stars":2,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2026-07-11T10:00:27Z","pushedAt":"2026-07-11T10:12:20Z","archived":false,"owner":{"login":"Kevin-Andy-RANDRIAMIZAKA","name":"Kevin Andy RANDRIAMIZAKA","type":"User","url":"https://github.com/Kevin-Andy-RANDRIAMIZAKA","location":"Antananarivo, Madagascar","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "6e40b192be626622",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "b589f68e9985aa2e",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-15",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

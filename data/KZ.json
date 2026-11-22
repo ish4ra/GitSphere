@@ -5,7 +5,7 @@
 "country": {"code":"KZ","name":"Kazakhstan","slug":"kazakhstan"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":30,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":30,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"linux-insides","nameWithOwner":"0xAX/linux-insides","url":"https://github.com/0xAX/linux-insides","description":null,"stars":33619,"forks":3568,"primaryLanguage":"Python","license":{"spdxId":"NOASSERTION"},"createdAt":"2015-01-03T18:44:57Z","pushedAt":"2026-10-03T15:15:42Z","archived":false,"owner":{"login":"0xAX","name":"Alex Kuleshov","type":"User","url":"https://github.com/0xAX","location":"Kazakhstan, Astana","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"memreduct","nameWithOwner":"henrypp/memreduct","url":"https://github.com/henrypp/memreduct","description":null,"stars":10703,"forks":609,"primaryLanguage":"C","license":{"spdxId":"GPL-3.0"},"createdAt":"2014-12-15T22:12:13Z","pushedAt":"2026-08-29T09:27:54Z","archived":false,"owner":{"login":"henrypp","name":"henrypp","type":"User","url":"https://github.com/henrypp","location":"Almaty, Kazakhstan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"anonimchatbot-aiogram3","nameWithOwner":"Fsoky/anonimchatbot-aiogram3","url":"https://github.com/Fsoky/anonimchatbot-aiogram3","description":null,"stars":38,"forks":13,"primaryLanguage":"Python","license":null,"createdAt":"2022-02-25T15:59:41Z","pushedAt":"2026-07-30T06:50:57Z","archived":false,"owner":{"login":"Fsoky","name":"DanIII ~","type":"User","url":"https://github.com/Fsoky","location":"Kazakhstan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"iNikolayev","nameWithOwner":"drugoi/iNikolayev","url":"https://github.com/drugoi/iNikolayev","description":null,"stars":30,"forks":11,"primaryLanguage":"JavaScript","license":null,"createdAt":"2014-12-21T12:07:36Z","pushedAt":"2026-09-03T19:06:25Z","archived":true,"owner":{"login":"drugoi","name":"Nikita Bayev","type":"User","url":"https://github.com/drugoi","location":"Almaty, Kazakhstan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "8d0cacfb144538b0",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "cfe13190fd0ae926",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

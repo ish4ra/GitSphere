@@ -5,7 +5,7 @@
 "country": {"code":"TV","name":"Tuvalu","slug":"tuvalu"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":22,"ownerExpansionBacklog":22,"candidates":22,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":22,"ownerExpansionBacklog":22,"candidates":22,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"soundcloak","nameWithOwner":"maid-zone/soundcloak","url":"https://github.com/maid-zone/soundcloak","description":null,"stars":25,"forks":7,"primaryLanguage":"Go","license":{"spdxId":"AGPL-3.0"},"createdAt":"2024-08-22T08:11:20Z","pushedAt":"2026-10-06T21:13:46Z","archived":false,"owner":{"login":"maid-zone","name":"maid.zone","type":"Organization","url":"https://github.com/maid-zone","location":"Tuvalu","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Nscripter2-API","nameWithOwner":"xubeiyan/Nscripter2-API","url":"https://github.com/xubeiyan/Nscripter2-API","description":null,"stars":7,"forks":2,"primaryLanguage":"HTML","license":{"spdxId":"Apache-2.0"},"createdAt":"2014-02-18T13:31:05Z","pushedAt":"2022-07-19T08:46:21Z","archived":false,"owner":{"login":"xubeiyan","name":"xubeiyan","type":"User","url":"https://github.com/xubeiyan","location":"Chenhai, Tuvalu(图瓦卢，辰海市)","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -30,8 +30,8 @@
   {"rank":21,"id":null,"name":"UltraMiner-Max","nameWithOwner":"temapr0/UltraMiner-Max","url":"https://github.com/temapr0/UltraMiner-Max","description":null,"stars":0,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2025-12-26T10:18:21Z","pushedAt":"2026-03-26T13:26:12Z","archived":false,"owner":{"login":"temapr0","name":null,"type":"User","url":"https://github.com/temapr0","location":"Tuvalu","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":22,"id":null,"name":"weltkindpoka","nameWithOwner":"weltkindpoka/weltkindpoka","url":"https://github.com/weltkindpoka/weltkindpoka","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-22T21:27:52Z","pushedAt":"2024-09-22T21:28:04Z","archived":false,"owner":{"login":"weltkindpoka","name":null,"type":"User","url":"https://github.com/weltkindpoka","location":"Tuvalu (TV)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "171489decd5173e3",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "b4a935d251199ba7",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

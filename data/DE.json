@@ -5,7 +5,7 @@
 "country": {"code":"DE","name":"Germany","slug":"germany"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":9738,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":9738,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"n8n","nameWithOwner":"n8n-io/n8n","url":"https://github.com/n8n-io/n8n","description":null,"stars":206590,"forks":60988,"primaryLanguage":"TypeScript","license":{"spdxId":"NOASSERTION"},"createdAt":"2019-06-22T09:24:21Z","pushedAt":"2026-10-03T22:16:11Z","archived":false,"owner":{"login":"n8n-io","name":"n8n - Workflow Automation","type":"Organization","url":"https://github.com/n8n-io","location":"Germany","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"localsend","nameWithOwner":"localsend/localsend","url":"https://github.com/localsend/localsend","description":null,"stars":93291,"forks":5221,"primaryLanguage":"Dart","license":{"spdxId":"Apache-2.0"},"createdAt":"2022-12-16T00:46:07Z","pushedAt":"2026-10-03T01:39:52Z","archived":false,"owner":{"login":"localsend","name":"LocalSend","type":"Organization","url":"https://github.com/localsend","location":"Germany","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Valetudo","nameWithOwner":"Hypfer/Valetudo","url":"https://github.com/Hypfer/Valetudo","description":null,"stars":9745,"forks":512,"primaryLanguage":"JavaScript","license":{"spdxId":"Apache-2.0"},"createdAt":"2018-07-12T07:07:43Z","pushedAt":"2026-09-25T18:33:22Z","archived":false,"owner":{"login":"Hypfer","name":"Sören Beye","type":"User","url":"https://github.com/Hypfer","location":"Nienburg/Weser, Germany","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Windows-Auto-Night-Mode","nameWithOwner":"AutoDarkMode/Windows-Auto-Night-Mode","url":"https://github.com/AutoDarkMode/Windows-Auto-Night-Mode","description":null,"stars":9738,"forks":309,"primaryLanguage":"C#","license":{"spdxId":"GPL-3.0"},"createdAt":"2018-11-17T21:19:37Z","pushedAt":"2026-10-03T13:31:01Z","archived":false,"owner":{"login":"AutoDarkMode","name":"Auto Dark Mode","type":"Organization","url":"https://github.com/AutoDarkMode","location":"Germany","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "af13cef33c730c91",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "29f2f3b266a89f8a",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

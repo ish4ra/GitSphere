@@ -5,7 +5,7 @@
 "country": {"code":"AE","name":"United Arab Emirates","slug":"united-arab-emirates"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":399,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":399,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"pentagi","nameWithOwner":"vxcontrol/pentagi","url":"https://github.com/vxcontrol/pentagi","description":null,"stars":25226,"forks":3242,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2025-01-06T22:22:48Z","pushedAt":"2026-10-03T23:20:51Z","archived":false,"owner":{"login":"vxcontrol","name":"VXControl","type":"Organization","url":"https://github.com/vxcontrol","location":"United Arab Emirates","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"hexstrike-ai","nameWithOwner":"0x4m4/hexstrike-ai","url":"https://github.com/0x4m4/hexstrike-ai","description":null,"stars":12298,"forks":2501,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2025-07-10T17:53:18Z","pushedAt":"2026-08-03T14:33:09Z","archived":false,"owner":{"login":"0x4m4","name":"Muhammad Osama","type":"User","url":"https://github.com/0x4m4","location":"United Arab Emirates","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"project-raven","nameWithOwner":"Laxcorp-Research/project-raven","url":"https://github.com/Laxcorp-Research/project-raven","description":null,"stars":421,"forks":425,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2026-02-07T05:51:07Z","pushedAt":"2026-09-23T04:49:55Z","archived":false,"owner":{"login":"Laxcorp-Research","name":"Laxcorp Research","type":"Organization","url":"https://github.com/Laxcorp-Research","location":"United Arab Emirates","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"LanguageManager-iOS","nameWithOwner":"Abedalkareem/LanguageManager-iOS","url":"https://github.com/Abedalkareem/LanguageManager-iOS","description":null,"stars":399,"forks":66,"primaryLanguage":"Swift","license":{"spdxId":"MIT"},"createdAt":"2017-04-09T08:29:16Z","pushedAt":"2024-11-27T06:44:10Z","archived":false,"owner":{"login":"Abedalkareem","name":"Abedalkareem Omreyh","type":"User","url":"https://github.com/Abedalkareem","location":"Dubai, United Arab Emirates","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "ab586f839f98a28a",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "5a00af8ccb013fb0",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

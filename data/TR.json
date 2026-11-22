@@ -5,7 +5,7 @@
 "country": {"code":"TR","name":"Türkiye","slug":"turkiye"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1114,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1114,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"prompts.chat","nameWithOwner":"f/prompts.chat","url":"https://github.com/f/prompts.chat","description":null,"stars":171956,"forks":22024,"primaryLanguage":"HTML","license":{"spdxId":"NOASSERTION"},"createdAt":"2022-12-05T13:54:13Z","pushedAt":"2026-10-03T08:12:28Z","archived":false,"owner":{"login":"f","name":"Fatih Kadir Akın","type":"User","url":"https://github.com/f","location":"Istanbul, Turkey","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"daisyui","nameWithOwner":"saadeghi/daisyui","url":"https://github.com/saadeghi/daisyui","description":null,"stars":42529,"forks":1700,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2020-11-28T22:57:27Z","pushedAt":"2026-09-30T02:05:20Z","archived":false,"owner":{"login":"saadeghi","name":"Pouya Saadeghi","type":"User","url":"https://github.com/saadeghi","location":"Istanbul","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"subvim","nameWithOwner":"fatih/subvim","url":"https://github.com/fatih/subvim","description":null,"stars":1122,"forks":66,"primaryLanguage":"C++","license":null,"createdAt":"2013-04-01T11:01:03Z","pushedAt":"2014-05-01T20:17:21Z","archived":true,"owner":{"login":"fatih","name":"Fatih Arslan","type":"User","url":"https://github.com/fatih","location":"Ankara, TR","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Buka","nameWithOwner":"oguzhaninan/Buka","url":"https://github.com/oguzhaninan/Buka","description":null,"stars":1114,"forks":116,"primaryLanguage":"JavaScript","license":{"spdxId":"GPL-3.0"},"createdAt":"2017-03-15T07:13:48Z","pushedAt":"2023-02-04T00:45:12Z","archived":false,"owner":{"login":"oguzhaninan","name":"Oguzhan Inan","type":"User","url":"https://github.com/oguzhaninan","location":"İstanbul, Turkey","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true}
 ],
-"contentHash": "93b33c5084260045",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "3094b1b1de048431",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

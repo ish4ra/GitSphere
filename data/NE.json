@@ -5,7 +5,7 @@
 "country": {"code":"NE","name":"Niger","slug":"niger"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"mangayomi","nameWithOwner":"kodjodevf/mangayomi","url":"https://github.com/kodjodevf/mangayomi","description":null,"stars":3883,"forks":149,"primaryLanguage":"Dart","license":{"spdxId":"Apache-2.0"},"createdAt":"2023-04-03T09:49:56Z","pushedAt":"2026-10-02T13:52:48Z","archived":false,"owner":{"login":"kodjodevf","name":"Moustapha Kodjo Amadou","type":"User","url":"https://github.com/kodjodevf","location":"Niamey,Niger","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-10-13","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"mangayomi-extensions","nameWithOwner":"kodjodevf/mangayomi-extensions","url":"https://github.com/kodjodevf/mangayomi-extensions","description":null,"stars":358,"forks":77,"primaryLanguage":"JavaScript","license":{"spdxId":"Apache-2.0"},"createdAt":"2023-07-07T20:39:39Z","pushedAt":"2025-10-01T14:28:07Z","archived":true,"owner":{"login":"kodjodevf","name":"Moustapha Kodjo Amadou","type":"User","url":"https://github.com/kodjodevf","location":"Niamey,Niger","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-10-13","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"calorie-calculator","nameWithOwner":"annmart-svg/calorie-calculator","url":"https://github.com/annmart-svg/calorie-calculator","description":null,"stars":0,"forks":1,"primaryLanguage":"HTML","license":null,"createdAt":"2026-05-20T19:37:14Z","pushedAt":"2026-05-20T19:43:10Z","archived":false,"owner":{"login":"annmart-svg","name":"Anna Martyn","type":"User","url":"https://github.com/annmart-svg","location":"Niger, Niamey","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"email-content","nameWithOwner":"BelleHouse/email-content","url":"https://github.com/BelleHouse/email-content","description":null,"stars":0,"forks":1,"primaryLanguage":"HTML","license":null,"createdAt":"2024-02-26T21:41:48Z","pushedAt":"2024-02-26T21:47:24Z","archived":false,"owner":{"login":"BelleHouse","name":"Belle House","type":"User","url":"https://github.com/BelleHouse","location":"Niger","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "86ce0c5b305c9456",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "3b6079a59ed285b2",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-13",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

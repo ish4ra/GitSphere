@@ -5,7 +5,7 @@
 "country": {"code":"PN","name":"Pitcairn Islands","slug":"pitcairn-islands"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":5,"ownerExpansionBacklog":5,"candidates":5,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":5,"ownerExpansionBacklog":5,"candidates":5,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"hipster-rom-generator","nameWithOwner":"Hi30MC/hipster-rom-generator","url":"https://github.com/Hi30MC/hipster-rom-generator","description":null,"stars":2,"forks":0,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2025-07-13T16:16:36Z","pushedAt":"2025-11-08T04:01:22Z","archived":false,"owner":{"login":"Hi30MC","name":"Ash Duimstra","type":"User","url":"https://github.com/Hi30MC","location":"WVGX+WJQ, Adamstown PCRN 1ZZ, Pitcairn Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Data_Science_Institute","nameWithOwner":"21Arne42/Data_Science_Institute","url":"https://github.com/21Arne42/Data_Science_Institute","description":null,"stars":0,"forks":0,"primaryLanguage":"Jupyter Notebook","license":null,"createdAt":"2024-03-01T13:27:11Z","pushedAt":"2024-03-01T11:29:19Z","archived":false,"owner":{"login":"21Arne42","name":"Arne L.","type":"User","url":"https://github.com/21Arne42","location":"Pitcairn Island","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
@@ -13,8 +13,8 @@
   {"rank":4,"id":null,"name":"penflyingjoe","nameWithOwner":"penflyingjoe/penflyingjoe","url":"https://github.com/penflyingjoe/penflyingjoe","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-30T04:50:59Z","pushedAt":"2024-09-30T04:51:20Z","archived":false,"owner":{"login":"penflyingjoe","name":null,"type":"User","url":"https://github.com/penflyingjoe","location":"Pitcairn Islands (PN)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
   {"rank":5,"id":null,"name":"d3-plugins","nameWithOwner":"WaterBreathMan/d3-plugins","url":"https://github.com/WaterBreathMan/d3-plugins","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-12-19T17:34:24Z","pushedAt":"2023-12-19T17:34:24Z","archived":false,"owner":{"login":"WaterBreathMan","name":"WaterBreathMan","type":"User","url":"https://github.com/WaterBreathMan","location":"Pitcairn Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true}
 ],
-"contentHash": "ec57e7f3da6992e4",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "51b28b5423ba07a7",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-27",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

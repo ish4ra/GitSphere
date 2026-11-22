@@ -5,7 +5,7 @@
 "country": {"code":"TO","name":"Tonga","slug":"tonga"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":43,"ownerExpansionBacklog":43,"candidates":43,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":43,"ownerExpansionBacklog":43,"candidates":43,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Automated-Fact-Checking-Resources","nameWithOwner":"Cartus/Automated-Fact-Checking-Resources","url":"https://github.com/Cartus/Automated-Fact-Checking-Resources","description":null,"stars":580,"forks":63,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2021-07-09T13:38:36Z","pushedAt":"2025-02-23T07:56:47Z","archived":false,"owner":{"login":"Cartus","name":"Zhijiang","type":"User","url":"https://github.com/Cartus","location":"Tonga","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Deep-generative-adversarial-reinforcement-learning-for-semi-supervised-segmentation-in-medical-image","nameWithOwner":"12john123/Deep-generative-adversarial-reinforcement-learning-for-semi-supervised-segmentation-in-medical-image","url":"https://github.com/12john123/Deep-generative-adversarial-reinforcement-learning-for-semi-supervised-segmentation-in-medical-image","description":null,"stars":10,"forks":0,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2023-12-25T08:58:42Z","pushedAt":"2023-12-25T14:21:26Z","archived":false,"owner":{"login":"12john123","name":"zhang tong","type":"User","url":"https://github.com/12john123","location":"Tonga","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -51,8 +51,8 @@
   {"rank":42,"id":null,"name":"kubernetes-health-checker","nameWithOwner":"wrenkj2mvq/kubernetes-health-checker","url":"https://github.com/wrenkj2mvq/kubernetes-health-checker","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-09-13T19:04:22Z","pushedAt":"2026-09-13T19:04:23Z","archived":false,"owner":{"login":"wrenkj2mvq","name":"Nuku Taufa","type":"User","url":"https://github.com/wrenkj2mvq","location":"Nuku'alofa, Tonga","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":43,"id":null,"name":"XornPloit","nameWithOwner":"XornRetux/XornPloit","url":"https://github.com/XornRetux/XornPloit","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2018-08-29T12:56:12Z","pushedAt":"2018-08-29T12:56:12Z","archived":false,"owner":{"login":"XornRetux","name":"XantehDev","type":"User","url":"https://github.com/XornRetux","location":"Tonga Islands.","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "7d5e9bbb56caf022",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "eaef1739bb673c55",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

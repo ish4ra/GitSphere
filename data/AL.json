@@ -5,7 +5,7 @@
 "country": {"code":"AL","name":"Albania","slug":"albania"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"ALHacking","nameWithOwner":"4lbH4cker/ALHacking","url":"https://github.com/4lbH4cker/ALHacking","description":null,"stars":1646,"forks":362,"primaryLanguage":"Shell","license":{"spdxId":"NOASSERTION"},"createdAt":"2022-03-11T21:35:30Z","pushedAt":"2024-12-24T16:33:35Z","archived":false,"owner":{"login":"4lbH4cker","name":"4lbH4cker","type":"User","url":"https://github.com/4lbH4cker","location":"Albania","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"PHPloy","nameWithOwner":"banago/PHPloy","url":"https://github.com/banago/PHPloy","description":null,"stars":1431,"forks":196,"primaryLanguage":"PHP","license":null,"createdAt":"2014-02-08T15:06:32Z","pushedAt":"2025-04-21T09:54:12Z","archived":false,"owner":{"login":"banago","name":"Baki Goxhaj","type":"User","url":"https://github.com/banago","location":"Vlorë, Albania","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"block-ip-country","nameWithOwner":"klevinkona/block-ip-country","url":"https://github.com/klevinkona/block-ip-country","description":null,"stars":2,"forks":1,"primaryLanguage":"PHP","license":null,"createdAt":"2017-10-03T20:28:57Z","pushedAt":"2019-09-23T10:34:02Z","archived":false,"owner":{"login":"klevinkona","name":"Klevin Kona","type":"User","url":"https://github.com/klevinkona","location":"Albania","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"university-app","nameWithOwner":"kristopapallazo/university-app","url":"https://github.com/kristopapallazo/university-app","description":null,"stars":2,"forks":1,"primaryLanguage":"JavaScript","license":null,"createdAt":"2026-03-27T17:17:17Z","pushedAt":"2026-06-30T13:02:01Z","archived":false,"owner":{"login":"kristopapallazo","name":"Kristo Papallazo","type":"User","url":"https://github.com/kristopapallazo","location":"Tirana, Albania","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "dd6e964a86f60e12",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "2796d2b1c6a5de4f",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

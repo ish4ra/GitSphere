@@ -5,7 +5,7 @@
 "country": {"code":"GL","name":"Greenland","slug":"greenland"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":126,"candidates":126,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":126,"candidates":126,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"BetterDiscordApp","nameWithOwner":"Jiiks/BetterDiscordApp","url":"https://github.com/Jiiks/BetterDiscordApp","description":null,"stars":1266,"forks":701,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2015-08-25T04:08:22Z","pushedAt":"2022-06-22T18:36:44Z","archived":true,"owner":{"login":"Jiiks","name":"Alexei Stukov","type":"User","url":"https://github.com/Jiiks","location":"Greenland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"The_Lightmapper","nameWithOwner":"Naxela/The_Lightmapper","url":"https://github.com/Naxela/The_Lightmapper","description":null,"stars":819,"forks":67,"primaryLanguage":"Python","license":{"spdxId":"GPL-3.0"},"createdAt":"2019-04-12T14:51:28Z","pushedAt":"2026-09-24T18:54:46Z","archived":false,"owner":{"login":"Naxela","name":"Alexander Kleemann","type":"User","url":"https://github.com/Naxela","location":"Greenland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"3d-pictures","nameWithOwner":"nensom/3d-pictures","url":"https://github.com/nensom/3d-pictures","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2014-07-09T23:43:31Z","pushedAt":"2014-07-09T23:43:31Z","archived":false,"owner":{"login":"nensom","name":"Mikael Hertig","type":"User","url":"https://github.com/nensom","location":"Nuuk Greenland","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Inissat","nameWithOwner":"nipinitta/Inissat","url":"https://github.com/nipinitta/Inissat","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2015-07-09T01:47:19Z","pushedAt":"2015-07-09T01:47:19Z","archived":false,"owner":{"login":"nipinitta","name":"Daniel Lynge Christophersen","type":"User","url":"https://github.com/nipinitta","location":"Nuuk","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "a3e1997867390daf",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "a87c757c1be00f78",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

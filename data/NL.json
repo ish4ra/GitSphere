@@ -5,7 +5,7 @@
 "country": {"code":"NL","name":"Netherlands","slug":"netherlands"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":3210,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":3210,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"caveman","nameWithOwner":"JuliusBrussee/caveman","url":"https://github.com/JuliusBrussee/caveman","description":null,"stars":109563,"forks":6337,"primaryLanguage":"Go","license":{"spdxId":"Apache-2.0"},"createdAt":"2026-04-04T10:03:00Z","pushedAt":"2026-10-04T01:51:46Z","archived":false,"owner":{"login":"JuliusBrussee","name":"Julius Brussee","type":"User","url":"https://github.com/JuliusBrussee","location":"Netherlands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"thefuck","nameWithOwner":"nvbn/thefuck","url":"https://github.com/nvbn/thefuck","description":null,"stars":97892,"forks":3962,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2015-04-08T15:08:04Z","pushedAt":"2024-07-19T14:56:13Z","archived":false,"owner":{"login":"nvbn","name":"Vladimir Iakovlev","type":"User","url":"https://github.com/nvbn","location":"Amsterdam, The Netherlands","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"FindMy.py","nameWithOwner":"malmeloo/FindMy.py","url":"https://github.com/malmeloo/FindMy.py","description":null,"stars":3283,"forks":150,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2023-12-30T21:29:05Z","pushedAt":"2026-09-15T16:50:31Z","archived":false,"owner":{"login":"malmeloo","name":"Mike Almeloo","type":"User","url":"https://github.com/malmeloo","location":"Netherlands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"palworld-server-docker","nameWithOwner":"thijsvanloef/palworld-server-docker","url":"https://github.com/thijsvanloef/palworld-server-docker","description":null,"stars":3210,"forks":372,"primaryLanguage":"Shell","license":{"spdxId":"MIT"},"createdAt":"2024-01-19T08:24:38Z","pushedAt":"2026-09-30T07:55:08Z","archived":false,"owner":{"login":"thijsvanloef","name":"Thijs van Loef","type":"User","url":"https://github.com/thijsvanloef","location":"Netherlands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "cb3bbcd74474be1e",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "6a9b11a7473b0394",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

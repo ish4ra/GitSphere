@@ -5,7 +5,7 @@
 "country": {"code":"PE","name":"Peru","slug":"peru"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"planify","nameWithOwner":"alainm23/planify","url":"https://github.com/alainm23/planify","description":null,"stars":5725,"forks":341,"primaryLanguage":"Vala","license":{"spdxId":"GPL-3.0"},"createdAt":"2018-10-22T16:02:34Z","pushedAt":"2026-10-03T12:41:22Z","archived":false,"owner":{"login":"alainm23","name":"Alain","type":"User","url":"https://github.com/alainm23","location":"Cusco, Cusco, Perú","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Riskfolio-Lib","nameWithOwner":"dcajasn/Riskfolio-Lib","url":"https://github.com/dcajasn/Riskfolio-Lib","description":null,"stars":4536,"forks":718,"primaryLanguage":"C++","license":{"spdxId":"BSD-3-Clause"},"createdAt":"2020-03-02T19:49:06Z","pushedAt":"2026-10-04T20:35:18Z","archived":false,"owner":{"login":"dcajasn","name":"Riskfolio","type":"User","url":"https://github.com/dcajasn","location":"Lima, Peru","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"RealCugan-Ncnn-Script-With-Python","nameWithOwner":"FrancoArenasM/RealCugan-Ncnn-Script-With-Python","url":"https://github.com/FrancoArenasM/RealCugan-Ncnn-Script-With-Python","description":null,"stars":1,"forks":0,"primaryLanguage":"Python","license":{"spdxId":"GPL-3.0"},"createdAt":"2023-01-21T04:36:46Z","pushedAt":"2023-04-20T02:32:39Z","archived":false,"owner":{"login":"FrancoArenasM","name":"Franco Arenas Mamani","type":"User","url":"https://github.com/FrancoArenasM","location":"Arequipa, Peru","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Intricate-Blogger","nameWithOwner":"frasesdeangelitocontodo/Intricate-Blogger","url":"https://github.com/frasesdeangelitocontodo/Intricate-Blogger","description":null,"stars":1,"forks":0,"primaryLanguage":"CSS","license":{"spdxId":"GPL-3.0"},"createdAt":"2018-01-16T12:03:19Z","pushedAt":"2018-01-23T13:38:39Z","archived":false,"owner":{"login":"frasesdeangelitocontodo","name":null,"type":"User","url":"https://github.com/frasesdeangelitocontodo","location":"Peru","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "9a764a4d981a6f0c",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "0019523c95e2802e",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

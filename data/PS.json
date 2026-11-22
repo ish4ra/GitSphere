@@ -5,7 +5,7 @@
 "country": {"code":"PS","name":"Palestine","slug":"palestine"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"responsive-viewer","nameWithOwner":"skmail/responsive-viewer","url":"https://github.com/skmail/responsive-viewer","description":null,"stars":849,"forks":92,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2019-07-28T21:09:40Z","pushedAt":"2025-10-12T08:46:47Z","archived":false,"owner":{"login":"skmail","name":null,"type":"User","url":"https://github.com/skmail","location":"Palestine","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"headers-css","nameWithOwner":"shadeed/headers-css","url":"https://github.com/shadeed/headers-css","description":null,"stars":518,"forks":80,"primaryLanguage":"HTML","license":null,"createdAt":"2020-08-22T19:47:35Z","pushedAt":"2020-11-01T10:01:01Z","archived":false,"owner":{"login":"shadeed","name":"Ahmad Shadeed","type":"User","url":"https://github.com/shadeed","location":"Tulkarm, Palestine","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-10","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"TODO","nameWithOwner":"Ahmad-ghabayen/TODO","url":"https://github.com/Ahmad-ghabayen/TODO","description":null,"stars":1,"forks":0,"primaryLanguage":"Dart","license":null,"createdAt":"2023-03-18T14:42:31Z","pushedAt":"2023-03-18T14:42:34Z","archived":false,"owner":{"login":"Ahmad-ghabayen","name":"ahmad ghabayen","type":"User","url":"https://github.com/Ahmad-ghabayen","location":"palestine gaza","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Zoom.bot","nameWithOwner":"Ahmad0590/Zoom.bot","url":"https://github.com/Ahmad0590/Zoom.bot","description":null,"stars":1,"forks":0,"primaryLanguage":"PHP","license":null,"createdAt":"2025-07-19T22:47:02Z","pushedAt":"2025-07-20T13:04:59Z","archived":false,"owner":{"login":"Ahmad0590","name":"Ahmed_Barghout","type":"User","url":"https://github.com/Ahmad0590","location":"Palestine","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "25efe340f48f8da7",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "3cfa93a74bec7de2",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-10",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

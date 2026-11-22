@@ -5,7 +5,7 @@
 "country": {"code":"PK","name":"Pakistan","slug":"pakistan"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":333,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":333,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"claude-code-best-practice","nameWithOwner":"shanraisshan/claude-code-best-practice","url":"https://github.com/shanraisshan/claude-code-best-practice","description":null,"stars":67043,"forks":6703,"primaryLanguage":"HTML","license":{"spdxId":"MIT"},"createdAt":"2025-10-31T14:15:28Z","pushedAt":"2026-10-04T03:16:11Z","archived":false,"owner":{"login":"shanraisshan","name":"Shayan Rais","type":"User","url":"https://github.com/shanraisshan","location":"Karachi, Pakistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"90DaysOfCyberSecurity","nameWithOwner":"farhanashrafdev/90DaysOfCyberSecurity","url":"https://github.com/farhanashrafdev/90DaysOfCyberSecurity","description":null,"stars":19774,"forks":2265,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2023-01-22T14:42:29Z","pushedAt":"2026-09-06T13:02:09Z","archived":false,"owner":{"login":"farhanashrafdev","name":"Farhan Ashraf","type":"User","url":"https://github.com/farhanashrafdev","location":"Lahore, Pakistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"CSV-AI","nameWithOwner":"Safiullah-Rahu/CSV-AI","url":"https://github.com/Safiullah-Rahu/CSV-AI","description":null,"stars":340,"forks":43,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2023-05-27T17:11:30Z","pushedAt":"2026-05-20T13:51:34Z","archived":false,"owner":{"login":"Safiullah-Rahu","name":"Safiullah Rahu","type":"User","url":"https://github.com/Safiullah-Rahu","location":"Hyderabad, Pakistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"AhmadHassan-BTed","nameWithOwner":"AhmadHassan-BTed/AhmadHassan-BTed","url":"https://github.com/AhmadHassan-BTed/AhmadHassan-BTed","description":null,"stars":333,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2026-05-09T10:19:19Z","pushedAt":"2026-10-13T17:14:32Z","archived":false,"owner":{"login":"AhmadHassan-BTed","name":"Ahmad Hassan (B-Ted)","type":"User","url":"https://github.com/AhmadHassan-BTed","location":"Islamabad, Pakistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true}
 ],
-"contentHash": "12a8c26f660ea7ba",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "275fbfcb53eb56df",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"EE","name":"Estonia","slug":"estonia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":478,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":478,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Avalonia","nameWithOwner":"AvaloniaUI/Avalonia","url":"https://github.com/AvaloniaUI/Avalonia","description":null,"stars":31619,"forks":2835,"primaryLanguage":"C#","license":{"spdxId":"MIT"},"createdAt":"2013-12-05T20:13:21Z","pushedAt":"2026-10-01T14:18:30Z","archived":false,"owner":{"login":"AvaloniaUI","name":"Avalonia UI","type":"Organization","url":"https://github.com/AvaloniaUI","location":"Estonia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"nodemailer","nameWithOwner":"nodemailer/nodemailer","url":"https://github.com/nodemailer/nodemailer","description":null,"stars":17684,"forks":1433,"primaryLanguage":"TypeScript","license":{"spdxId":"NOASSERTION"},"createdAt":"2011-01-19T21:17:36Z","pushedAt":"2026-10-03T13:43:42Z","archived":false,"owner":{"login":"nodemailer","name":"nodemailer","type":"Organization","url":"https://github.com/nodemailer","location":"Tallinn, Estonia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"sequence-layout","nameWithOwner":"transferwise/sequence-layout","url":"https://github.com/transferwise/sequence-layout","description":null,"stars":482,"forks":57,"primaryLanguage":"Kotlin","license":{"spdxId":"Apache-2.0"},"createdAt":"2018-03-19T11:38:50Z","pushedAt":"2026-08-31T09:10:14Z","archived":false,"owner":{"login":"transferwise","name":"Wise","type":"Organization","url":"https://github.com/transferwise","location":"Tallinn, Estonia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"zephyr-rtos-tutorial","nameWithOwner":"maksimdrachov/zephyr-rtos-tutorial","url":"https://github.com/maksimdrachov/zephyr-rtos-tutorial","description":null,"stars":478,"forks":95,"primaryLanguage":"C","license":{"spdxId":"MIT"},"createdAt":"2021-07-07T06:51:34Z","pushedAt":"2024-04-07T12:35:19Z","archived":false,"owner":{"login":"maksimdrachov","name":null,"type":"User","url":"https://github.com/maksimdrachov","location":"Estonia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true}
 ],
-"contentHash": "01500d1accdf9a9e",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "e2760454bda67496",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

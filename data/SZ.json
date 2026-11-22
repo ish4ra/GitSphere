@@ -5,7 +5,7 @@
 "country": {"code":"SZ","name":"Eswatini","slug":"eswatini"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"InventorySystem","nameWithOwner":"Njabulo240/InventorySystem","url":"https://github.com/Njabulo240/InventorySystem","description":null,"stars":38,"forks":23,"primaryLanguage":"C#","license":{"spdxId":"MIT"},"createdAt":"2024-07-09T03:50:30Z","pushedAt":"2024-07-25T12:43:48Z","archived":false,"owner":{"login":"Njabulo240","name":"Njabulo Mamba","type":"User","url":"https://github.com/Njabulo240","location":"Eswatini, Manzini","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"crawler","nameWithOwner":"crypto-jobs-fyi/crawler","url":"https://github.com/crypto-jobs-fyi/crawler","description":null,"stars":8,"forks":2,"primaryLanguage":"Python","license":{"spdxId":"Apache-2.0"},"createdAt":"2023-04-19T10:18:36Z","pushedAt":"2026-10-03T13:15:35Z","archived":false,"owner":{"login":"crypto-jobs-fyi","name":"crypto-jobs","type":"Organization","url":"https://github.com/crypto-jobs-fyi","location":"Swaziland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Football-Analytics","nameWithOwner":"Bayabonga/Football-Analytics","url":"https://github.com/Bayabonga/Football-Analytics","description":null,"stars":0,"forks":0,"primaryLanguage":"Jupyter Notebook","license":null,"createdAt":"2024-07-13T08:26:37Z","pushedAt":"2026-05-21T10:26:35Z","archived":false,"owner":{"login":"Bayabonga","name":"Bayabonga Nhlabatsi","type":"User","url":"https://github.com/Bayabonga","location":"Eswatini","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"farm-planner","nameWithOwner":"Bheki12/farm-planner","url":"https://github.com/Bheki12/farm-planner","description":null,"stars":0,"forks":0,"primaryLanguage":"Python","license":{"spdxId":"GPL-3.0"},"createdAt":"2026-01-11T17:47:39Z","pushedAt":"2026-01-11T17:58:14Z","archived":false,"owner":{"login":"Bheki12","name":"Bhekisisa Dlamini","type":"User","url":"https://github.com/Bheki12","location":"Eswatini","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "a09df1e7f99c33d3",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "217f2b79c467602e",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

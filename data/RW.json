@@ -5,7 +5,7 @@
 "country": {"code":"RW","name":"Rwanda","slug":"rwanda"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"quickinbox","nameWithOwner":"DivinPrince/quickinbox","url":"https://github.com/DivinPrince/quickinbox","description":null,"stars":419,"forks":63,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2026-07-29T11:36:14Z","pushedAt":"2026-10-07T00:19:36Z","archived":false,"owner":{"login":"DivinPrince","name":"Divin Prince","type":"User","url":"https://github.com/DivinPrince","location":"Rwanda","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"foodybite","nameWithOwner":"david-legend/foodybite","url":"https://github.com/david-legend/foodybite","description":null,"stars":325,"forks":88,"primaryLanguage":"Dart","license":{"spdxId":"BSD-3-Clause"},"createdAt":"2019-12-14T19:53:03Z","pushedAt":"2022-08-05T16:05:58Z","archived":false,"owner":{"login":"david-legend","name":"David-Legend","type":"User","url":"https://github.com/david-legend","location":"Rwanda","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"portfolio","nameWithOwner":"kleberdeve/portfolio","url":"https://github.com/kleberdeve/portfolio","description":null,"stars":1,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2025-03-29T06:54:07Z","pushedAt":"2025-03-29T07:00:02Z","archived":false,"owner":{"login":"kleberdeve","name":"kleberDev","type":"User","url":"https://github.com/kleberdeve","location":"Kigali,Rwanda","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"ad-ds-homelab-journey","nameWithOwner":"koneil012/ad-ds-homelab-journey","url":"https://github.com/koneil012/ad-ds-homelab-journey","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-09-06T19:59:19Z","pushedAt":"2026-09-27T19:48:06Z","archived":false,"owner":{"login":"koneil012","name":"O'Neil","type":"User","url":"https://github.com/koneil012","location":"Rwanda,Kigali","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "7c2524248cd362a7",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "68b37ea1596d63aa",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

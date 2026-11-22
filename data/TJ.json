@@ -5,7 +5,7 @@
 "country": {"code":"TJ","name":"Tajikistan","slug":"tajikistan"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"VolleyVision","nameWithOwner":"shukkkur/VolleyVision","url":"https://github.com/shukkkur/VolleyVision","description":null,"stars":329,"forks":59,"primaryLanguage":"Python","license":{"spdxId":"AGPL-3.0"},"createdAt":"2022-09-10T05:47:56Z","pushedAt":"2025-06-20T04:17:07Z","archived":false,"owner":{"login":"shukkkur","name":"Shakhansho Shukur Sabzaliev","type":"User","url":"https://github.com/shukkkur","location":"Khorog, Gorno-Badakhshan","attribution":{"confidence":"high","evidence":"place-with-subdivision"}},"verifiedOn":"2026-10-13","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"leetcode-challenge","nameWithOwner":"bakhtiyor/leetcode-challenge","url":"https://github.com/bakhtiyor/leetcode-challenge","description":null,"stars":68,"forks":0,"primaryLanguage":"PHP","license":null,"createdAt":"2022-10-02T19:54:39Z","pushedAt":"2023-10-11T18:35:41Z","archived":false,"owner":{"login":"bakhtiyor","name":"Bakhtiyor Bahritidinov","type":"User","url":"https://github.com/bakhtiyor","location":"Khujand, Tajikistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Csharp","nameWithOwner":"BahodurTursunov/Csharp","url":"https://github.com/BahodurTursunov/Csharp","description":null,"stars":2,"forks":0,"primaryLanguage":"C#","license":null,"createdAt":"2023-08-15T08:55:33Z","pushedAt":"2024-01-11T08:06:37Z","archived":false,"owner":{"login":"BahodurTursunov","name":"Bakha","type":"User","url":"https://github.com/BahodurTursunov","location":"Tajikistan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Osmin","nameWithOwner":"bekov0004/Osmin","url":"https://github.com/bekov0004/Osmin","description":null,"stars":2,"forks":0,"primaryLanguage":"JavaScript","license":{"spdxId":"GPL-3.0"},"createdAt":"2026-10-06T10:19:09Z","pushedAt":"2026-10-30T11:17:02Z","archived":false,"owner":{"login":"bekov0004","name":"Bekov Anushevon","type":"User","url":"https://github.com/bekov0004","location":"Tajikistan, Dushanbe","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "1f5bd7f84c1236bf",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "ebd41185e940e765",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-13",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

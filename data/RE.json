@@ -5,7 +5,7 @@
 "country": {"code":"RE","name":"Réunion","slug":"reunion"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"snip","nameWithOwner":"edouard-claude/snip","url":"https://github.com/edouard-claude/snip","description":null,"stars":464,"forks":46,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2026-02-20T04:01:26Z","pushedAt":"2026-09-30T06:35:27Z","archived":false,"owner":{"login":"edouard-claude","name":"Edouard CLAUDE","type":"User","url":"https://github.com/edouard-claude","location":"La Réunion","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"react-router-gospel-stack","nameWithOwner":"PhilDL/react-router-gospel-stack","url":"https://github.com/PhilDL/react-router-gospel-stack","description":null,"stars":229,"forks":17,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2022-09-06T17:12:42Z","pushedAt":"2026-10-02T22:42:24Z","archived":false,"owner":{"login":"PhilDL","name":"Philippe L'ATTENTION","type":"User","url":"https://github.com/PhilDL","location":"Réunion","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"coffee_machine_python","nameWithOwner":"ThePerenoel/coffee_machine_python","url":"https://github.com/ThePerenoel/coffee_machine_python","description":null,"stars":1,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2025-02-25T12:41:47Z","pushedAt":"2025-03-06T13:10:54Z","archived":false,"owner":{"login":"ThePerenoel","name":"Loic NOEL","type":"User","url":"https://github.com/ThePerenoel","location":"La Réunion","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Project-cobiopro","nameWithOwner":"TristanPy/Project-cobiopro","url":"https://github.com/TristanPy/Project-cobiopro","description":null,"stars":1,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2024-12-10T09:17:15Z","pushedAt":"2025-04-11T13:28:56Z","archived":false,"owner":{"login":"TristanPy","name":null,"type":"User","url":"https://github.com/TristanPy","location":"La Réunion","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "b3d2696922c32957",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "01fd934d20a0817d",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

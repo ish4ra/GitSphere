@@ -5,7 +5,7 @@
 "country": {"code":"TZ","name":"Tanzania","slug":"tanzania"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"utron","nameWithOwner":"gernest/utron","url":"https://github.com/gernest/utron","description":null,"stars":2212,"forks":146,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2015-09-16T07:55:54Z","pushedAt":"2018-10-28T20:04:59Z","archived":true,"owner":{"login":"gernest","name":"Geofrey Ernest","type":"User","url":"https://github.com/gernest","location":"Arusha, Tanzania","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"vince","nameWithOwner":"vinceanalytics/vince","url":"https://github.com/vinceanalytics/vince","description":null,"stars":2014,"forks":78,"primaryLanguage":"Go","license":{"spdxId":"AGPL-3.0"},"createdAt":"2023-06-02T11:17:54Z","pushedAt":"2025-09-01T07:17:47Z","archived":false,"owner":{"login":"vinceanalytics","name":"vinceanalytics","type":"Organization","url":"https://github.com/vinceanalytics","location":"Tanzania","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"netumo_clone","nameWithOwner":"edibily12/netumo_clone","url":"https://github.com/edibily12/netumo_clone","description":null,"stars":1,"forks":0,"primaryLanguage":"Blade","license":null,"createdAt":"2025-06-07T12:21:36Z","pushedAt":"2025-06-07T12:22:24Z","archived":false,"owner":{"login":"edibily12","name":"Edibily","type":"User","url":"https://github.com/edibily12","location":"Dodoma-Tanzania","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"elen-","nameWithOwner":"Elencompanyltd/elen-","url":"https://github.com/Elencompanyltd/elen-","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-05-27T23:32:22Z","pushedAt":"2024-05-28T05:44:40Z","archived":false,"owner":{"login":"Elencompanyltd","name":"elencompanyltd","type":"User","url":"https://github.com/Elencompanyltd","location":"Tanzania","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "2168a70fb44faba0",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "ea67914ba2f6dde2",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

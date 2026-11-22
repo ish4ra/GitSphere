@@ -5,7 +5,7 @@
 "country": {"code":"MK","name":"North Macedonia","slug":"north-macedonia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":2,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"coding-problems","nameWithOwner":"MTrajK/coding-problems","url":"https://github.com/MTrajK/coding-problems","description":null,"stars":3402,"forks":628,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2019-05-10T19:29:20Z","pushedAt":"2025-11-26T18:48:39Z","archived":false,"owner":{"login":"MTrajK","name":"Meto Trajkovski","type":"User","url":"https://github.com/MTrajK","location":"Skopje","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"evobot","nameWithOwner":"eritislami/evobot","url":"https://github.com/eritislami/evobot","description":null,"stars":1871,"forks":1971,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2019-05-15T14:19:37Z","pushedAt":"2024-09-05T04:46:25Z","archived":false,"owner":{"login":"eritislami","name":"Erit Islami","type":"User","url":"https://github.com/eritislami","location":"Struga, North Macedonia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"beer-o-meter","nameWithOwner":"StefanTrsunov/beer-o-meter","url":"https://github.com/StefanTrsunov/beer-o-meter","description":null,"stars":2,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2026-04-22T19:38:25Z","pushedAt":"2026-04-23T08:16:03Z","archived":false,"owner":{"login":"StefanTrsunov","name":"Stefan Trsunov","type":"User","url":"https://github.com/StefanTrsunov","location":"Bitola, Macedonia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"meetup-react-ex","nameWithOwner":"therdean/meetup-react-ex","url":"https://github.com/therdean/meetup-react-ex","description":null,"stars":2,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2021-12-22T13:38:48Z","pushedAt":"2021-12-22T13:43:11Z","archived":false,"owner":{"login":"therdean","name":"Dejan Ristevski","type":"User","url":"https://github.com/therdean","location":"Skopje, North Macedonia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "09d6b13b0d02792a",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "21d7f53dfa426006",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

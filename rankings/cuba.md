@@ -728,7 +728,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
-- **Global star scan:** every public non-fork repository with at least **—** stars has been enumerated (current cycle in progress).
+- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 6 stars; 150 attributed candidates are tracked.
 - 100 entries were carried over from the previous dataset and are pending revalidation.
 - 150 multi-repository owners are queued for expansion.

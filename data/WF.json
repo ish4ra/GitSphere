@@ -5,7 +5,7 @@
 "country": {"code":"WF","name":"Wallis & Futuna","slug":"wallis-futuna"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":8,"ownerExpansionBacklog":8,"candidates":8,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":8,"ownerExpansionBacklog":8,"candidates":8,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"csaraiba","nameWithOwner":"csaraiba/csaraiba","url":"https://github.com/csaraiba/csaraiba","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2022-10-30T11:43:07Z","pushedAt":"2022-11-09T18:52:19Z","archived":false,"owner":{"login":"csaraiba","name":"Cristóbal","type":"User","url":"https://github.com/csaraiba","location":"Wallis and Futuna isles","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-31","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"fluffy-funicular","nameWithOwner":"dboyle95/fluffy-funicular","url":"https://github.com/dboyle95/fluffy-funicular","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-09-26T03:53:09Z","pushedAt":"2026-09-26T03:53:11Z","archived":false,"owner":{"login":"dboyle95","name":"Dean Boyle","type":"User","url":"https://github.com/dboyle95","location":"Deanchester, Wallis and Futuna","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-31","pendingRevalidation":true},
@@ -16,8 +16,8 @@
   {"rank":7,"id":null,"name":"scooternicksari","nameWithOwner":"scooternicksari/scooternicksari","url":"https://github.com/scooternicksari/scooternicksari","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-24T16:02:36Z","pushedAt":"2024-09-24T16:02:52Z","archived":false,"owner":{"login":"scooternicksari","name":null,"type":"User","url":"https://github.com/scooternicksari","location":"Wallis en Futuna (WF)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-31","pendingRevalidation":true},
   {"rank":8,"id":null,"name":"strategos-nzr.github.io","nameWithOwner":"strategos-nzr/strategos-nzr.github.io","url":"https://github.com/strategos-nzr/strategos-nzr.github.io","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-04-21T22:03:11Z","pushedAt":"2023-04-21T22:03:12Z","archived":false,"owner":{"login":"strategos-nzr","name":"Nick","type":"User","url":"https://github.com/strategos-nzr","location":"Wallis and Futuna","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-31","pendingRevalidation":true}
 ],
-"contentHash": "4d79a1251d723af1",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "142d22441bff7465",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-31",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

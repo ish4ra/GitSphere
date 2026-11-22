@@ -5,7 +5,7 @@
 "country": {"code":"CF","name":"Central African Republic","slug":"central-african-republic"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":19,"ownerExpansionBacklog":19,"candidates":19,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":19,"ownerExpansionBacklog":19,"candidates":19,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"docx-template","nameWithOwner":"platine-php/docx-template","url":"https://github.com/platine-php/docx-template","description":null,"stars":4,"forks":1,"primaryLanguage":"PHP","license":{"spdxId":"MIT"},"createdAt":"2021-09-05T06:52:15Z","pushedAt":"2026-08-18T15:57:19Z","archived":false,"owner":{"login":"platine-php","name":"Platine PHP","type":"Organization","url":"https://github.com/platine-php","location":"Central African Republic","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"formation-codes-web","nameWithOwner":"ikoueorg/formation-codes-web","url":"https://github.com/ikoueorg/formation-codes-web","description":null,"stars":3,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2024-04-12T23:13:31Z","pushedAt":"2024-04-24T01:37:29Z","archived":false,"owner":{"login":"ikoueorg","name":"IKOUE","type":"Organization","url":"https://github.com/ikoueorg","location":"Central African Republic","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -27,8 +27,8 @@
   {"rank":18,"id":null,"name":"ringcamomile","nameWithOwner":"ringcamomile/ringcamomile","url":"https://github.com/ringcamomile/ringcamomile","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-29T12:04:02Z","pushedAt":"2024-09-29T12:04:16Z","archived":false,"owner":{"login":"ringcamomile","name":null,"type":"User","url":"https://github.com/ringcamomile","location":"Central African Republic (CF)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":19,"id":null,"name":"LiquidCrystal_I2C","nameWithOwner":"wandaralab/LiquidCrystal_I2C","url":"https://github.com/wandaralab/LiquidCrystal_I2C","description":null,"stars":0,"forks":0,"primaryLanguage":"C++","license":null,"createdAt":"2019-09-29T12:54:35Z","pushedAt":"2019-09-29T12:54:56Z","archived":false,"owner":{"login":"wandaralab","name":"WandaraLab","type":"Organization","url":"https://github.com/wandaralab","location":"Bangui, Central African Republic","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "51933f1d12b27366",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "bd41e40347477acc",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-11-04",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

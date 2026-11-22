@@ -5,7 +5,7 @@
 "country": {"code":"CX","name":"Christmas Island","slug":"christmas-island"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":0,"legacyEntriesPendingRevalidation":76,"ownerExpansionBacklog":75,"candidates":76,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":76,"ownerExpansionBacklog":75,"candidates":76,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"OpenCord","nameWithOwner":"MateriiApps/OpenCord","url":"https://github.com/MateriiApps/OpenCord","description":null,"stars":1310,"forks":103,"primaryLanguage":"Kotlin","license":{"spdxId":"GPL-3.0"},"createdAt":"2021-08-28T05:34:31Z","pushedAt":"2025-08-22T10:05:02Z","archived":true,"owner":{"login":"MateriiApps","name":"Materii","type":"Organization","url":"https://github.com/MateriiApps","location":"Christmas Island","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-08","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Gloom","nameWithOwner":"MateriiApps/Gloom","url":"https://github.com/MateriiApps/Gloom","description":null,"stars":790,"forks":36,"primaryLanguage":"Kotlin","license":{"spdxId":"GPL-3.0"},"createdAt":"2022-04-29T12:39:50Z","pushedAt":"2026-06-13T00:07:40Z","archived":false,"owner":{"login":"MateriiApps","name":"Materii","type":"Organization","url":"https://github.com/MateriiApps","location":"Christmas Island","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-08","pendingRevalidation":true},
@@ -84,8 +84,8 @@
   {"rank":75,"id":null,"name":".github","nameWithOwner":"yellowemoji/.github","url":"https://github.com/yellowemoji/.github","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-07-02T01:47:28Z","pushedAt":"2024-07-02T12:47:59Z","archived":false,"owner":{"login":"yellowemoji","name":"YellowEmoji","type":"Organization","url":"https://github.com/yellowemoji","location":"Christmas Island","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
   {"rank":76,"id":null,"name":"config","nameWithOwner":"Yiiding/config","url":"https://github.com/Yiiding/config","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2025-09-01T11:35:22Z","pushedAt":"2025-09-01T12:01:19Z","archived":false,"owner":{"login":"Yiiding","name":"Yiiding","type":"User","url":"https://github.com/Yiiding","location":"Christmas Island","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true}
 ],
-"contentHash": "ee73e6c129089b97",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "cd1c9a76c40aadbd",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-08",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

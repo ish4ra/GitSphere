@@ -5,7 +5,7 @@
 "country": {"code":"UA","name":"Ukraine","slug":"ukraine"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":1426,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1426,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"open-source-mac-os-apps","nameWithOwner":"serhii-londar/open-source-mac-os-apps","url":"https://github.com/serhii-londar/open-source-mac-os-apps","description":null,"stars":50628,"forks":2878,"primaryLanguage":null,"license":{"spdxId":"CC0-1.0"},"createdAt":"2017-11-03T02:35:33Z","pushedAt":"2026-09-10T08:05:13Z","archived":false,"owner":{"login":"serhii-londar","name":"Serhii Londar","type":"User","url":"https://github.com/serhii-londar","location":"Lviv, Ukraine","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"ink","nameWithOwner":"vadimdemedes/ink","url":"https://github.com/vadimdemedes/ink","description":null,"stars":40066,"forks":1059,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2017-06-12T06:12:28Z","pushedAt":"2026-10-03T11:21:19Z","archived":false,"owner":{"login":"vadimdemedes","name":"Vadim Demedes","type":"User","url":"https://github.com/vadimdemedes","location":"Ukraine","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"JellyToolbar","nameWithOwner":"Yalantis/JellyToolbar","url":"https://github.com/Yalantis/JellyToolbar","description":null,"stars":1473,"forks":179,"primaryLanguage":"Kotlin","license":null,"createdAt":"2017-03-28T09:13:34Z","pushedAt":"2022-09-22T10:02:12Z","archived":false,"owner":{"login":"Yalantis","name":"Yalantis","type":"Organization","url":"https://github.com/Yalantis","location":"Ukraine, Dnipro","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"pull-to-make-soup","nameWithOwner":"Yalantis/pull-to-make-soup","url":"https://github.com/Yalantis/pull-to-make-soup","description":null,"stars":1426,"forks":222,"primaryLanguage":"Java","license":null,"createdAt":"2016-05-12T10:16:55Z","pushedAt":"2022-09-22T10:09:15Z","archived":false,"owner":{"login":"Yalantis","name":"Yalantis","type":"Organization","url":"https://github.com/Yalantis","location":"Ukraine, Dnipro","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-16","pendingRevalidation":true}
 ],
-"contentHash": "acae59e7d6020393",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "32e4de31cab9a616",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"RS","name":"Serbia","slug":"serbia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":427,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":0,"candidates":126,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":427,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":0,"candidates":126,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"DevOps-Roadmap","nameWithOwner":"milanm/DevOps-Roadmap","url":"https://github.com/milanm/DevOps-Roadmap","description":null,"stars":20673,"forks":3537,"primaryLanguage":null,"license":{"spdxId":"Apache-2.0"},"createdAt":"2022-10-23T09:19:46Z","pushedAt":"2026-07-14T15:33:20Z","archived":false,"owner":{"login":"milanm","name":"Dr Milan Milanović","type":"User","url":"https://github.com/milanm","location":"Belgrade, Serbia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"gruvbox","nameWithOwner":"morhetz/gruvbox","url":"https://github.com/morhetz/gruvbox","description":null,"stars":15775,"forks":1124,"primaryLanguage":"Vim Script","license":null,"createdAt":"2012-11-28T00:37:31Z","pushedAt":"2026-09-18T21:03:17Z","archived":false,"owner":{"login":"morhetz","name":"Pavel Pertsev","type":"User","url":"https://github.com/morhetz","location":"Serbia, Belgrade","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"TMatrix","nameWithOwner":"M4444/TMatrix","url":"https://github.com/M4444/TMatrix","description":null,"stars":429,"forks":21,"primaryLanguage":"C++","license":{"spdxId":"GPL-2.0"},"createdAt":"2018-06-11T10:40:09Z","pushedAt":"2026-08-14T16:22:48Z","archived":false,"owner":{"login":"M4444","name":"Miloš Stojanović","type":"User","url":"https://github.com/M4444","location":"Belgrade, Serbia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"iup-go","nameWithOwner":"gen2brain/iup-go","url":"https://github.com/gen2brain/iup-go","description":null,"stars":427,"forks":19,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2022-05-30T10:20:33Z","pushedAt":"2026-10-04T16:24:21Z","archived":false,"owner":{"login":"gen2brain","name":"Milan Nikolic","type":"User","url":"https://github.com/gen2brain","location":"Belgrade, Serbia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true}
 ],
-"contentHash": "801a5fac15834e2d",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "19cff7732270f8e6",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }

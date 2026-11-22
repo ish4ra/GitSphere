@@ -5,7 +5,7 @@
 "country": {"code":"BY","name":"Belarus","slug":"belarus"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","verifiedStarFloor":null,"cutoffStars":3,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"starScan":{"basis":"not-started","verifiedFloor":null},"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":3,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"govalidator","nameWithOwner":"asaskevich/govalidator","url":"https://github.com/asaskevich/govalidator","description":null,"stars":6202,"forks":575,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2014-06-20T10:45:23Z","pushedAt":"2026-10-03T01:14:22Z","archived":false,"owner":{"login":"asaskevich","name":"Aliaksei (Alex) Saskevich","type":"User","url":"https://github.com/asaskevich","location":"Belarus","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"alerts-and-pickers","nameWithOwner":"dillidon/alerts-and-pickers","url":"https://github.com/dillidon/alerts-and-pickers","description":null,"stars":5756,"forks":698,"primaryLanguage":"Swift","license":{"spdxId":"MIT"},"createdAt":"2018-01-12T13:16:07Z","pushedAt":"2024-02-18T14:40:25Z","archived":false,"owner":{"login":"dillidon","name":"RV","type":"User","url":"https://github.com/dillidon","location":"Belarus","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"konvir","nameWithOwner":"KROWIEL/konvir","url":"https://github.com/KROWIEL/konvir","description":null,"stars":3,"forks":0,"primaryLanguage":null,"license":{"spdxId":"NOASSERTION"},"createdAt":"2026-10-21T09:22:09Z","pushedAt":"2026-10-28T11:08:56Z","archived":false,"owner":{"login":"KROWIEL","name":"Andrey","type":"User","url":"https://github.com/KROWIEL","location":"Belarus, Minsk","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"gmusic-downloader","nameWithOwner":"madTeddy/gmusic-downloader","url":"https://github.com/madTeddy/gmusic-downloader","description":null,"stars":3,"forks":0,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2020-07-24T01:01:36Z","pushedAt":"2020-07-24T02:18:00Z","archived":false,"owner":{"login":"madTeddy","name":"Andrey","type":"User","url":"https://github.com/madTeddy","location":"Belarus, Minsk","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "d6d5d395bef2202c",
-"updatedAt": "2026-11-22T08:29:21.106Z",
+"contentHash": "1e3fcf9a50cf3446",
+"updatedAt": "2026-11-22T08:41:14.246Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:29:21.106Z"
+"generatedAt": "2026-11-22T08:41:14.246Z"
 }
