@@ -6,6 +6,7 @@
 import path from 'node:path';
 import { COUNTRIES, getCountry } from '../countries.js';
 import { listCodes, readJson, writeJson } from '../core/store.js';
+import { sanitizeText } from '../core/sanitize.js';
 import { compareByContributions, compareByFollowers, compareRepositories, RECORD_SCHEMA_VERSION } from './records.js';
 
 export const DEFAULT_LIMITS = Object.freeze({
@@ -35,12 +36,18 @@ export class Registry {
     for (const code of await listCodes(this.repositoryDir)) {
       const doc = await readJson(path.join(this.repositoryDir, `${code}.json`), null);
       if (doc?.schemaVersion !== RECORD_SCHEMA_VERSION || !this.repositoriesByCountry.has(code)) continue;
-      for (const record of doc.repositories || []) this.#placeRepository(code, record);
+      for (const record of doc.repositories || []) {
+        if (scrubStoredText(record)) this.dirtyRepositories.add(code);
+        this.#placeRepository(code, record);
+      }
     }
     for (const code of await listCodes(this.accountDir)) {
       const doc = await readJson(path.join(this.accountDir, `${code}.json`), null);
       if (doc?.schemaVersion !== RECORD_SCHEMA_VERSION || !this.accountsByCountry.has(code)) continue;
-      for (const record of doc.accounts || []) this.#placeAccount(code, record);
+      for (const record of doc.accounts || []) {
+        if (scrubStoredText(record)) this.dirtyAccounts.add(code);
+        this.#placeAccount(code, record);
+      }
     }
     return this;
   }
@@ -210,6 +217,29 @@ export class Registry {
     this.repositoryHome.delete(key);
     this.dirtyRepositories.add(code);
   }
+}
+
+/**
+ * Re-applies the current text sanitization to records persisted by older
+ * versions, so tightened rules (e.g. email redaction) also clean existing
+ * data. Returns true when the record changed.
+ */
+export function scrubStoredText(record) {
+  let changed = false;
+  const scrub = (target, field, max) => {
+    if (!target || typeof target[field] !== 'string') return;
+    const clean = sanitizeText(target[field], max);
+    if (clean !== target[field]) {
+      target[field] = clean;
+      changed = true;
+    }
+  };
+  scrub(record, 'name', record.owner ? 200 : 80); // repositories store nameWithOwner as name
+  scrub(record, 'location', 120);
+  scrub(record, 'description', 160);
+  scrub(record.owner, 'name', 80);
+  scrub(record.owner, 'location', 120);
+  return changed;
 }
 
 export function legacyKey(name) {

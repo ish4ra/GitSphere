@@ -28,6 +28,10 @@ const SECRET_PATTERNS = [
 
 const REDACTION = '[redacted]';
 
+// Email addresses are personal data GitSphere never needs for ranking or
+// display, even when a user placed one in a public profile field.
+const EMAIL = /[A-Za-z0-9._%+-]+@[A-Za-z0-9-]+(?:\.[A-Za-z0-9-]+)*\.[A-Za-z]{2,}/g;
+
 // C0/C1 controls, bidi overrides/isolates, zero-width and BOM characters.
 const UNSAFE_CHARACTERS = /[\u0000-\u0008\u000B\u000C\u000E-\u001F\u007F-\u009F​-‏‪-‮⁠-⁩﻿]/g;
 
@@ -59,7 +63,7 @@ function pattern0Reset() {
 export function sanitizeText(value, maxLength = 160) {
   if (value == null) return null;
   let text = String(value).replace(UNSAFE_CHARACTERS, '').replace(/\s+/g, ' ').trim();
-  text = redactSecrets(text);
+  text = redactSecrets(text).replace(EMAIL, '[email]');
   if (!text) return null;
   if (text.length > maxLength) text = `${text.slice(0, maxLength - 1).trimEnd()}…`;
   return text;
