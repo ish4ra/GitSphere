@@ -3,6 +3,8 @@ name: GitSphere pipeline
 on:
   schedule:
     # Hourly; the API budget resets hourly. Minute 13 avoids the top-of-hour rush.
+    # If no scheduled runs appear in the Actions tab, disable and re-enable
+    # this workflow there (or edit this file) so GitHub re-registers the cron.
     - cron: '13 * * * *'
   workflow_dispatch:
     inputs:
