@@ -65,6 +65,20 @@ if (gazetteers.size !== COUNTRIES.length) {
   throw new Error(`Expected ${COUNTRIES.length} gazetteers, built ${gazetteers.size}.`);
 }
 
+if (cities500) {
+  // Structural sanity checks before replacing the committed gazetteer.
+  const places = [...gazetteers.values()].reduce((sum, item) => sum + item.counts.places, 0);
+  const withPopulation = [...gazetteers.values()].reduce((sum, item) => sum + item.counts.placesWithPopulation, 0);
+  if (places < 200_000 || withPopulation < 150_000) {
+    throw new Error(`Gazetteer looks truncated (${places} places, ${withPopulation} with population); refusing to publish.`);
+  }
+  for (const code of ['US', 'IN', 'CN', 'LK', 'DE', 'JP', 'BR', 'GB']) {
+    if ((gazetteers.get(code)?.counts.placesWithPopulation || 0) < 50) {
+      throw new Error(`Gazetteer for ${code} has too few populated places; refusing to publish.`);
+    }
+  }
+}
+
 await mkdir(outputDir, { recursive: true });
 for (const entry of await readdir(outputDir)) {
   if (/^[A-Z]{2}\.json$/.test(entry)) await rm(path.join(outputDir, entry));
