@@ -27,7 +27,7 @@ import { publishAll } from '../publish/publish.js';
 export const DEFAULT_SETTINGS = Object.freeze({
   maxRequests: 900,
   rateLimitReserve: 300,
-  runtimeMinutes: 40,
+  runtimeMinutes: 42,
   repositoryStarFloor: 50,
   followerFloor: 100,
   locationSlice: 6,
@@ -42,7 +42,7 @@ export const DEFAULT_SETTINGS = Object.freeze({
     repositories: 280,
     followers: 120,
     locations: 240,
-    legacy: 40,
+    legacy: 60,
     owners: 40,
     revalidation: 60,
     accounts: 40,
@@ -114,7 +114,12 @@ export async function runPipeline({
     log,
     counters: report.counters,
     client: null,
-    canContinue: () => !report.stopReason && Date.now() - startedAtMs < settings.runtimeMinutes * 60_000 && context.client.canSpend(),
+    stepDeadline: Infinity,
+    canContinue: () =>
+      !report.stopReason &&
+      Date.now() - startedAtMs < settings.runtimeMinutes * 60_000 &&
+      Date.now() < context.stepDeadline &&
+      context.client.canSpend(),
     async persist(write, { force = false } = {}) {
       if (!force && Date.now() - lastPersist < 15_000) return;
       lastPersist = Date.now();
@@ -142,12 +147,24 @@ export async function runPipeline({
       ['accounts', accountRefreshStep],
       ['contributions', contributionStep],
     ];
-    for (const [name, step] of steps) {
+    const runtimeEnd = startedAtMs + settings.runtimeMinutes * 60_000;
+    for (const [index, [name, step]] of steps.entries()) {
       const budget = settings.budgets[name] ?? 0;
       if (!budget || report.stopReason) continue;
+      // Each step gets a share of the remaining runtime proportional to its
+      // request budget, so slow early steps cannot starve later ones.
+      const remainingBudget = steps.slice(index).reduce((sum, [other]) => sum + (settings.budgets[other] ?? 0), 0);
+      context.stepDeadline = Date.now() + Math.max(0, runtimeEnd - Date.now()) * (budget / Math.max(1, remainingBudget));
       if (!context.canContinue()) {
-        report.stopReason ||= Date.now() - startedAtMs >= settings.runtimeMinutes * 60_000 ? 'runtime-budget' : context.client.stopReason() || 'budget';
-        break;
+        if (Date.now() >= runtimeEnd) {
+          report.stopReason = 'runtime-budget';
+          break;
+        }
+        if (context.client.stopReason()) {
+          report.stopReason = context.client.stopReason();
+          break;
+        }
+        continue;
       }
       const stepStart = Date.now();
       try {
@@ -164,6 +181,7 @@ export async function runPipeline({
           log.error?.(`[${name}] failed: ${safeErrorMessage(error)}`);
         }
       }
+      context.stepDeadline = Infinity;
       await context.persist(null, { force: true });
     }
     report.api = { ...context.client.stats };

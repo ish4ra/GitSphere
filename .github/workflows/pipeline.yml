@@ -41,7 +41,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITSPHERE_MAX_REQUESTS: ${{ inputs.max_requests || '900' }}
-          GITSPHERE_RUNTIME_MINUTES: '40'
+          GITSPHERE_RUNTIME_MINUTES: '42'
         run: npm run pipeline
 
       - name: Secret guard
