@@ -121,3 +121,11 @@ Pushes made with `GITHUB_TOKEN` do not trigger workflows, so the pipeline cannot
 ## 6. Security
 
 All GitHub metadata is untrusted. `src/core/sanitize.js` strips control and bidirectional-override characters, truncates fields and redacts credential-shaped strings (GitHub, AWS, Slack, Stripe, Google, npm, PyPI, GitLab and SendGrid tokens, JWTs, private keys, credentials in URLs). Every persisted file passes through a guard that refuses to write credential-shaped content and names only the file and pattern, never the value. Only fields needed for ranking and display are stored. Homepage URLs and other free-text fields are not persisted. See [`SECURITY.md`](../SECURITY.md).
+
+## 7. Known limitations
+
+- Profile locations are self-reported free text. Some are humorous or aspirational (for example "Antarctica" or "Bouvet Island"). GitSphere attributes the stated location and does not judge intent, so uninhabited territories can show results.
+- Accounts without a public location, or with an ambiguous one, never appear in any ranking.
+- GitHub search results and counts change while a scan runs. A cycle can miss a repository whose stars change across partition boundaries mid-cycle; it is picked up by the next cycle.
+- Global scans have floors (default 50 stars, 100 followers). Below them, coverage relies on location discovery for each country's searched terms.
+- Contribution rankings cover discovered accounts only.

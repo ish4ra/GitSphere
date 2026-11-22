@@ -77,7 +77,7 @@ export function renderRootReadme(summary) {
     '',
     '## How it works',
     '',
-    '- **Country attribution** comes from the public GitHub profile location — of the repository owner or of the developer — resolved by one shared, population-aware gazetteer of 250 countries and territories, their subdivisions and 300,000+ places with native and alternate names. Ambiguous locations such as `Portland` or `Georgia` are never forced into a country.',
+    '- **Country attribution** comes from the public GitHub profile location — of the repository owner or of the developer — resolved by one shared, population-aware gazetteer of 250 countries and territories, 5,800+ subdivisions and 700,000+ places with native and alternate names. Ambiguous locations such as `Portland` or `Georgia` are never forced into a country.',
     '- **Repositories** are discovered by a continuous global scan of public non-fork repositories in descending star order, recursively partitioned by stars and creation time to work within GitHub’s 1,000-result search window, plus per-country location discovery for smaller ecosystems.',
     '- **Developers** are ranked by public follower count. Organizations are excluded.',
     '- **Contributors** are ranked by public contributions over a rolling 12-month window (contribution-calendar total minus restricted private contributions), measured independently of follower rankings.',

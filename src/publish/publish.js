@@ -84,7 +84,7 @@ export async function publishAll({ root, stateDir, registry, ownerCandidates, no
         countriesWithCompletedRound: [...locationStates.values()].filter((state) => state?.completedRounds?.length).length,
       },
     },
-    lastRun: report ? {
+    lastRun: report && !report.api?.skipped ? {
       startedAt: report.startedAt,
       requests: report.api?.requests || 0,
       stopReason: report.stopReason,

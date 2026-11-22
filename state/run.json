@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "startedAt": "2026-11-22T08:41:14.125Z",
-  "finishedAt": "2026-11-22T08:41:17.000Z",
+  "startedAt": "2026-11-22T08:43:58.875Z",
+  "finishedAt": "2026-11-22T08:44:00.572Z",
   "stopReason": null,
   "steps": {},
   "failures": [],
@@ -26,8 +26,8 @@
   },
   "publication": {
     "changed": {
-      "data": 500,
-      "pages": 503
+      "data": 0,
+      "pages": 1
     },
     "counts": {
       "repositories": {
@@ -64,7 +64,7 @@
       "contributors": 0
     }
   },
-  "runtimeSeconds": 12,
+  "runtimeSeconds": 10,
   "progress": {
     "ok": true,
     "reason": "api-skipped"
