@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/developers/LC.json">JSON</a> |
+| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/LC.json">JSON</a> |
 
 </div>
 
@@ -23,6 +23,13 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/autoabacus"><img src="https://avatars.githubusercontent.com/u/1960821?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/autoabacus"><b>David Hartley</b></a><br><sub>&#64;autoabacus</sub></td>
+<td align="right"><b>5</b></td>
+<td align="right">3</td>
+<td><sub>St Lucia</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/Ad-vaith13"><img src="https://avatars.githubusercontent.com/u/64787057?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ad-vaith13"><b>Advaith Das Maharana</b></a><br><sub>&#64;Ad-vaith13</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">5</td>
@@ -36,7 +43,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 1 attributed developers are tracked; the cutoff is 1 followers.
+- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 1 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

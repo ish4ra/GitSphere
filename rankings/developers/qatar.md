@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/QA.json">JSON</a> |
+| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/developers/QA.json">JSON</a> |
 
 </div>
 
@@ -35,6 +35,27 @@
 <td align="right">412</td>
 <td><sub>Doha, Qatar</sub></td>
 </tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/maljefairi"><img src="https://avatars.githubusercontent.com/u/45969744?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maljefairi"><b>Mohammed Al-Jefairi</b></a><br><sub>&#64;maljefairi</sub></td>
+<td align="right"><b>577</b></td>
+<td align="right">5</td>
+<td><sub>Qatar</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/Aymen311"><img src="https://avatars.githubusercontent.com/u/59454072?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aymen311"><b>Aymene Berriche</b></a><br><sub>&#64;Aymen311</sub></td>
+<td align="right"><b>574</b></td>
+<td align="right">19</td>
+<td><sub>Doha, Qatar</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/TarikKaanKoc"><img src="https://avatars.githubusercontent.com/u/83168207?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TarikKaanKoc"><b>Tarık Kaan Koç</b></a><br><sub>&#64;TarikKaanKoc</sub></td>
+<td align="right"><b>564</b></td>
+<td align="right">53</td>
+<td><sub>Qatar</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -43,7 +64,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 1,235 followers.
+- Organizations are excluded. 5 attributed developers are tracked; the cutoff is 564 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

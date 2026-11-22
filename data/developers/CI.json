@@ -5,13 +5,15 @@
 "country": {"code":"CI","name":"Côte d'Ivoire","slug":"cote-d-ivoire"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":4,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":151,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDOCCqfig","login":"0142704513","name":"Issa Traore","url":"https://github.com/0142704513","avatarUrl":"https://avatars.githubusercontent.com/u/137011082?s=80&v=4","followers":0,"publicRepos":8,"location":"Côte d'Ivoire","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"MDQ6VXNlcjM5MTAyOTY5","login":"01amani","name":"Amani Bienvenu Hippolye Konan","url":"https://github.com/01amani","avatarUrl":"https://avatars.githubusercontent.com/u/39102969?s=80&v=4","followers":0,"publicRepos":2,"location":"University Jean Lorougnon Guedé Daloa (Ivory Coast)","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"MDQ6VXNlcjY0NjMwNTY5","login":"Dsaifon","name":"Saifoulaye Barry","url":"https://github.com/Dsaifon","avatarUrl":"https://avatars.githubusercontent.com/u/64630569?s=80&v=4","followers":2,"publicRepos":16,"location":"Côte d'Ivoire","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"U_kgDOCCqfig","login":"0142704513","name":"Issa Traore","url":"https://github.com/0142704513","avatarUrl":"https://avatars.githubusercontent.com/u/137011082?s=80&v=4","followers":0,"publicRepos":8,"location":"Côte d'Ivoire","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjQxNTg1Nzg=","login":"03mega","name":"yeo ali","url":"https://github.com/03mega","avatarUrl":"https://avatars.githubusercontent.com/u/4158578?s=80&v=4","followers":0,"publicRepos":5,"location":"côte d'ivoire","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"MDQ6VXNlcjM5MTAyOTY5","login":"01amani","name":"Amani Bienvenu Hippolye Konan","url":"https://github.com/01amani","avatarUrl":"https://avatars.githubusercontent.com/u/39102969?s=80&v=4","followers":0,"publicRepos":2,"location":"University Jean Lorougnon Guedé Daloa (Ivory Coast)","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "a6c08fdb6e02c44c",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "4aeb94b11904d4c6",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

@@ -5,12 +5,15 @@
 "country": {"code":"JO","name":"Jordan","slug":"jordan"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":1144,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":693,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDOCieh9A","login":"waelodeh98","name":"Wael Samer | Software Engineer","url":"https://github.com/waelodeh98","avatarUrl":"https://avatars.githubusercontent.com/u/170369524?s=80&v=4","followers":1144,"publicRepos":8,"location":"Amman , Jordan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"U_kgDOCieh9A","login":"waelodeh98","name":"Wael Samer | Software Engineer","url":"https://github.com/waelodeh98","avatarUrl":"https://avatars.githubusercontent.com/u/170369524?s=80&v=4","followers":1144,"publicRepos":8,"location":"Amman , Jordan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjg1ODc0ODYz","login":"Asaqa988","name":"Abedalraheem","url":"https://github.com/Asaqa988","avatarUrl":"https://avatars.githubusercontent.com/u/85874863?s=80&v=4","followers":740,"publicRepos":35,"location":"Amman, Amman Governorate, Jordan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjQ3OTExMDg1","login":"Adel-Nasim","name":"Adel Nasim Adel Suleiman","url":"https://github.com/Adel-Nasim","avatarUrl":"https://avatars.githubusercontent.com/u/47911085?s=80&v=4","followers":716,"publicRepos":4,"location":"Amman - Jordan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"MDQ6VXNlcjMxMTQ0MzE=","login":"tjoudeh","name":"Taiseer Joudeh","url":"https://github.com/tjoudeh","avatarUrl":"https://avatars.githubusercontent.com/u/3114431?s=80&v=4","followers":693,"publicRepos":39,"location":"Jordan-Amman","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "f678d7e2d0212947",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "4abd6a1b34519caf",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

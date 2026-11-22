@@ -5,7 +5,7 @@
 "country": {"code":"CI","name":"Côte d'Ivoire","slug":"cote-d-ivoire"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":3,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":3,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":151,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"medium-textview","nameWithOwner":"angebagui/medium-textview","url":"https://github.com/angebagui/medium-textview","description":null,"stars":486,"forks":62,"primaryLanguage":"Java","license":null,"createdAt":"2016-08-14T19:50:35Z","pushedAt":"2016-10-06T15:30:03Z","archived":false,"owner":{"login":"angebagui","name":"Ange Bagui","type":"User","url":"https://github.com/angebagui","location":"Abidjan","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"kali-ios","nameWithOwner":"finlandhl/kali-ios","url":"https://github.com/finlandhl/kali-ios","description":null,"stars":467,"forks":83,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2024-02-11T04:52:27Z","pushedAt":"2024-07-03T23:19:39Z","archived":false,"owner":{"login":"finlandhl","name":"Finland L.","type":"User","url":"https://github.com/finlandhl","location":"Abidjan","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-10-17","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Jargon-Informatique","nameWithOwner":"SoroMoise/Jargon-Informatique","url":"https://github.com/SoroMoise/Jargon-Informatique","description":null,"stars":3,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2021-08-22T01:06:50Z","pushedAt":"2025-09-01T17:26:25Z","archived":false,"owner":{"login":"SoroMoise","name":"SORO COLOTCHOLOMAN Moise","type":"User","url":"https://github.com/SoroMoise","location":"Abidjan, Côte d'Ivoire","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"box-runner","nameWithOwner":"tanguykonan/box-runner","url":"https://github.com/tanguykonan/box-runner","description":null,"stars":3,"forks":0,"primaryLanguage":"Kotlin","license":{"spdxId":"NOASSERTION"},"createdAt":"2026-09-02T01:36:44Z","pushedAt":"2026-10-09T13:34:42Z","archived":false,"owner":{"login":"tanguykonan","name":"Ulrich Tanguy","type":"User","url":"https://github.com/tanguykonan","location":"Ivory Coast, Multiverse","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "a240130caa4058b8",
-"updatedAt": "2026-11-22T08:41:14.246Z",
+"contentHash": "8fa717632a551960",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-10-17",
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

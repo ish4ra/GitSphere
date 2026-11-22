@@ -5,13 +5,14 @@
 "country": {"code":"MW","name":"Malawi","slug":"malawi"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":1434,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":764,"candidates":3,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"U_kgDOCZoFig","login":"Iankulani","name":"Ian Carter Kulani","url":"https://github.com/Iankulani","avatarUrl":"https://avatars.githubusercontent.com/u/161088906?s=80&v=4","followers":2776,"publicRepos":714,"location":"Mzimba, Malawi","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"MDQ6VXNlcjQ4MDg0Nzg3","login":"StevenKamwaza","name":"Steven Kamwaza","url":"https://github.com/StevenKamwaza","avatarUrl":"https://avatars.githubusercontent.com/u/48084787?s=80&v=4","followers":1434,"publicRepos":50,"location":"Malawi","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":2,"id":"MDQ6VXNlcjQ4MDg0Nzg3","login":"StevenKamwaza","name":"Steven Kamwaza","url":"https://github.com/StevenKamwaza","avatarUrl":"https://avatars.githubusercontent.com/u/48084787?s=80&v=4","followers":1434,"publicRepos":50,"location":"Malawi","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"U_kgDOB1bFZw","login":"ACT91","name":"Stanley Gersom","url":"https://github.com/ACT91","avatarUrl":"https://avatars.githubusercontent.com/u/123127143?s=80&v=4","followers":764,"publicRepos":21,"location":"Blantyre , Malawi","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "5c77ba0dd0884666",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "4df3fb47de6cc397",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

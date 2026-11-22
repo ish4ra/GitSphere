@@ -5,7 +5,7 @@
 "country": {"code":"LB","name":"Lebanon","slug":"lebanon"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":99,"ownerExpansionBacklog":150,"candidates":148,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":99,"ownerExpansionBacklog":149,"candidates":148,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOGJv-1g","name":"mirror-leech-telegram-bot","nameWithOwner":"anasty17/mirror-leech-telegram-bot","url":"https://github.com/anasty17/mirror-leech-telegram-bot","description":"Official Repository: Telegram bot which can download direct links, torrents, nzb, google drive, telegram document, any file/folder from rclone supported clouds…","stars":4370,"forks":5133,"primaryLanguage":"Python","license":{"spdxId":"GPL-3.0"},"createdAt":"2021-10-02T18:12:12Z","pushedAt":"2026-11-05T11:12:11Z","archived":false,"owner":{"login":"anasty17","name":"Anas Tayyar","type":"User","url":"https://github.com/anasty17","location":"Saida, Lebanon","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":null,"name":"vue-tippy","nameWithOwner":"KABBOUCHI/vue-tippy","url":"https://github.com/KABBOUCHI/vue-tippy","description":null,"stars":790,"forks":95,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2017-04-30T14:48:57Z","pushedAt":"2026-09-15T11:04:01Z","archived":false,"owner":{"login":"KABBOUCHI","name":"Georges KABBOUCHI","type":"User","url":"https://github.com/KABBOUCHI","location":"Lebanon","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Karimsalhadar.github.io","nameWithOwner":"karimsalhadar/Karimsalhadar.github.io","url":"https://github.com/karimsalhadar/Karimsalhadar.github.io","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2025-04-19T15:10:09Z","pushedAt":"2025-04-19T15:10:10Z","archived":false,"owner":{"login":"karimsalhadar","name":"Karim salhadar","type":"User","url":"https://github.com/karimsalhadar","location":"Tripoli Lebanon","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"flutter_widgets_resize","nameWithOwner":"louissaad/flutter_widgets_resize","url":"https://github.com/louissaad/flutter_widgets_resize","description":null,"stars":1,"forks":0,"primaryLanguage":"Objective-C","license":{"spdxId":"GPL-3.0"},"createdAt":"2019-10-22T16:43:30Z","pushedAt":"2019-10-22T16:58:01Z","archived":false,"owner":{"login":"louissaad","name":"Louis Saad","type":"User","url":"https://github.com/louissaad","location":"Lebanon","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "a2e2fc097e10be84",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "e6ce2255d21a6e7a",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

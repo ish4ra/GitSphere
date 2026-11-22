@@ -5,10 +5,10 @@
 "country": {"code":"NR","name":"Nauru","slug":"nauru"},
 "status": "building",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":12,"measuredAccounts":1,"measurementBacklog":11,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":12,"measuredAccounts":2,"measurementBacklog":10,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [],
-"contentHash": "dd81913c50b59934",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "7e5876fea88641cc",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": null,
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

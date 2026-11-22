@@ -5,7 +5,7 @@
 "country": {"code":"FJ","name":"Fiji","slug":"fiji"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":32,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"ppt-agent-workflow-san","nameWithOwner":"mucsbr/ppt-agent-workflow-san","url":"https://github.com/mucsbr/ppt-agent-workflow-san","description":null,"stars":651,"forks":68,"primaryLanguage":"JavaScript","license":null,"createdAt":"2026-03-19T15:03:16Z","pushedAt":"2026-09-02T15:14:03Z","archived":false,"owner":{"login":"mucsbr","name":"beingS","type":"User","url":"https://github.com/mucsbr","location":"0558 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"PrivacySpace","nameWithOwner":"GeekTR/PrivacySpace","url":"https://github.com/GeekTR/PrivacySpace","description":null,"stars":272,"forks":36,"primaryLanguage":"Kotlin","license":{"spdxId":"MIT"},"createdAt":"2022-02-27T11:54:25Z","pushedAt":"2022-05-18T08:39:22Z","archived":false,"owner":{"login":"GeekTR","name":"Rui Tang","type":"User","url":"https://github.com/GeekTR","location":"0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"GSQ","nameWithOwner":"wsyholen/GSQ","url":"https://github.com/wsyholen/GSQ","description":null,"stars":1,"forks":1,"primaryLanguage":"Java","license":null,"createdAt":"2019-03-26T07:31:08Z","pushedAt":"2022-12-16T01:46:59Z","archived":false,"owner":{"login":"wsyholen","name":"Clifton Hills","type":"User","url":"https://github.com/wsyholen","location":"0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"ww121314156.github.com","nameWithOwner":"ww121314156/ww121314156.github.com","url":"https://github.com/ww121314156/ww121314156.github.com","description":null,"stars":1,"forks":1,"primaryLanguage":"HTML","license":null,"createdAt":"2016-03-07T15:01:29Z","pushedAt":"2016-04-22T15:18:50Z","archived":false,"owner":{"login":"ww121314156","name":"Lueilwitz Group","type":"User","url":"https://github.com/ww121314156","location":"0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "61517aca0bdfd8d2",
-"updatedAt": "2026-11-22T08:41:14.246Z",
+"contentHash": "ec687cf418f2570b",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

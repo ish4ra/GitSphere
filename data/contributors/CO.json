@@ -5,13 +5,15 @@
 "country": {"code":"CO","name":"Colombia","slug":"colombia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":402,"measuredAccounts":2,"measurementBacklog":400,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":405,"measuredAccounts":4,"measurementBacklog":401,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":119,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjEwNTU0NDg2","login":"gndx","name":"Oscar Barajas Tavares","url":"https://github.com/gndx","avatarUrl":"https://avatars.githubusercontent.com/u/10554486?s=80&v=4","followers":3269,"publicRepos":171,"location":"Colombia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":178,"commits":144,"pullRequests":17,"reviews":1,"issues":2,"repositories":13,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":2,"id":"MDQ6VXNlcjI1OTQzNjU1","login":"teffcode","name":"Estefany Aguilar","url":"https://github.com/teffcode","avatarUrl":"https://avatars.githubusercontent.com/u/25943655?s=80&v=4","followers":3183,"publicRepos":195,"location":"Medellín, Antioquia","attribution":{"confidence":"high","evidence":"place-with-subdivision"},"verifiedOn":"2026-11-22","contributions":{"public":17,"commits":7,"pullRequests":7,"reviews":0,"issues":0,"repositories":3,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjQzMzE0OTE=","login":"vanessamarely","name":"Vanessa Aristizabal","url":"https://github.com/vanessamarely","avatarUrl":"https://avatars.githubusercontent.com/u/4331491?s=80&v=4","followers":767,"publicRepos":194,"location":"Medellin","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-22","contributions":{"public":620,"commits":591,"pullRequests":2,"reviews":0,"issues":0,"repositories":27,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjEwNTU0NDg2","login":"gndx","name":"Oscar Barajas Tavares","url":"https://github.com/gndx","avatarUrl":"https://avatars.githubusercontent.com/u/10554486?s=80&v=4","followers":3269,"publicRepos":171,"location":"Colombia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":178,"commits":144,"pullRequests":17,"reviews":1,"issues":2,"repositories":13,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":3,"id":"MDQ6VXNlcjEyNDAxNjAy","login":"Zulu55","name":"Juan Carlos Zuluaga","url":"https://github.com/Zulu55","avatarUrl":"https://avatars.githubusercontent.com/u/12401602?s=80&v=4","followers":780,"publicRepos":247,"location":"Medellín, Colombia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":78,"commits":51,"pullRequests":0,"reviews":0,"issues":0,"repositories":27,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":4,"id":"MDQ6VXNlcjI1OTQzNjU1","login":"teffcode","name":"Estefany Aguilar","url":"https://github.com/teffcode","avatarUrl":"https://avatars.githubusercontent.com/u/25943655?s=80&v=4","followers":3183,"publicRepos":195,"location":"Medellín, Antioquia","attribution":{"confidence":"high","evidence":"place-with-subdivision"},"verifiedOn":"2026-11-22","contributions":{"public":17,"commits":7,"pullRequests":7,"reviews":0,"issues":0,"repositories":3,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "242aba34b64e41ae",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "5a6e2a1977094da1",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

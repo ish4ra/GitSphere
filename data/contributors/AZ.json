@@ -5,13 +5,15 @@
 "country": {"code":"AZ","name":"Azerbaijan","slug":"azerbaijan"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":2,"measurementBacklog":398,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":185,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":402,"measuredAccounts":4,"measurementBacklog":398,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":185,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOCPnO1Q","login":"martian56","name":"Martian","url":"https://github.com/martian56","avatarUrl":"https://avatars.githubusercontent.com/u/150589141?s=80&v=4","followers":1981,"publicRepos":127,"location":"Azerbaijan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":10117,"commits":7613,"pullRequests":1303,"reviews":126,"issues":991,"repositories":71,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":2,"id":"U_kgDOBa49Gg","login":"eldarlrd","name":"Eldar Paşazadə","url":"https://github.com/eldarlrd","avatarUrl":"https://avatars.githubusercontent.com/u/95304986?s=80&v=4","followers":1154,"publicRepos":25,"location":"Baku, Azerbaijan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":227,"commits":220,"pullRequests":3,"reviews":0,"issues":1,"repositories":1,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":2,"id":"U_kgDOBa49Gg","login":"eldarlrd","name":"Eldar Paşazadə","url":"https://github.com/eldarlrd","avatarUrl":"https://avatars.githubusercontent.com/u/95304986?s=80&v=4","followers":1154,"publicRepos":25,"location":"Baku, Azerbaijan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":227,"commits":220,"pullRequests":3,"reviews":0,"issues":1,"repositories":1,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":3,"id":"MDQ6VXNlcjUyMzg0NTk1","login":"hasanbakhtiar","name":"Hasan","url":"https://github.com/hasanbakhtiar","avatarUrl":"https://avatars.githubusercontent.com/u/52384595?s=80&v=4","followers":588,"publicRepos":110,"location":"Azerbaijan, Baku","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":174,"commits":169,"pullRequests":0,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":4,"id":"U_kgDOBskw7g","login":"EminHaziyev","name":"emin","url":"https://github.com/EminHaziyev","avatarUrl":"https://avatars.githubusercontent.com/u/113848558?s=80&v=4","followers":601,"publicRepos":49,"location":"Baku","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-22","contributions":{"public":29,"commits":25,"pullRequests":0,"reviews":0,"issues":0,"repositories":4,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "bfee8670ac2991bc",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "c0c3824a2b5389a7",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

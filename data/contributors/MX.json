@@ -5,12 +5,13 @@
 "country": {"code":"MX","name":"Mexico","slug":"mexico"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":409,"measuredAccounts":1,"measurementBacklog":408,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":416,"measuredAccounts":2,"measurementBacklog":414,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjEzMDU4MjM0","login":"holasoymalva","name":"Leon Martin","url":"https://github.com/holasoymalva","avatarUrl":"https://avatars.githubusercontent.com/u/13058234?s=80&v=4","followers":2278,"publicRepos":295,"location":"CDMX - Mexico.","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":2113,"commits":1521,"pullRequests":523,"reviews":4,"issues":0,"repositories":65,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjMzMQ==","login":"vic","name":"Victor Borja","url":"https://github.com/vic","avatarUrl":"https://avatars.githubusercontent.com/u/331?s=80&v=4","followers":763,"publicRepos":406,"location":"Mexico City","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22","contributions":{"public":3366,"commits":2401,"pullRequests":574,"reviews":122,"issues":175,"repositories":30,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjEzMDU4MjM0","login":"holasoymalva","name":"Leon Martin","url":"https://github.com/holasoymalva","avatarUrl":"https://avatars.githubusercontent.com/u/13058234?s=80&v=4","followers":2278,"publicRepos":295,"location":"CDMX - Mexico.","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":2113,"commits":1521,"pullRequests":523,"reviews":4,"issues":0,"repositories":65,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "464e53538cd69aa9",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "47dd2e8446fca89d",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

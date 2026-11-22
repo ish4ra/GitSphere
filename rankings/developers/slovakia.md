@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/developers/SK.json">JSON</a> |
+| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/developers/SK.json">JSON</a> |
 
 </div>
 
@@ -44,29 +44,71 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/ResoDev"><img src="https://avatars.githubusercontent.com/u/18404788?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ResoDev"><b>Matej Rešetár</b></a><br><sub>&#64;ResoDev</sub></td>
+<td align="right"><b>900</b></td>
+<td align="right">15</td>
+<td><sub>Košice, Slovakia</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/filiphric"><img src="https://avatars.githubusercontent.com/u/23213553?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/filiphric"><b>Filip Hric</b></a><br><sub>&#64;filiphric</sub></td>
+<td align="right"><b>714</b></td>
+<td align="right">153</td>
+<td><sub>Senec, Slovakia</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/nem0"><img src="https://avatars.githubusercontent.com/u/153526?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nem0"><b>Mikulas Florek</b></a><br><sub>&#64;nem0</sub></td>
+<td align="right"><b>410</b></td>
+<td align="right">0</td>
+<td><sub>Slovakia, Bratislava</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/darsain"><img src="https://avatars.githubusercontent.com/u/538801?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/darsain"><b>darsain</b></a><br><sub>&#64;darsain</sub></td>
+<td align="right"><b>300</b></td>
+<td align="right">0</td>
+<td><sub>Slovakia</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
 <td><a href="https://github.com/haad"><img src="https://avatars.githubusercontent.com/u/67790?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/haad"><b>Adam Hamsik</b></a><br><sub>&#64;haad</sub></td>
 <td align="right"><b>260</b></td>
 <td align="right">0</td>
 <td><sub>Bratislava Slovakia</sub></td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">9</td>
 <td><a href="https://github.com/itsgoingd"><img src="https://avatars.githubusercontent.com/u/821582?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/itsgoingd"><b>its</b></a><br><sub>&#64;itsgoingd</sub></td>
 <td align="right"><b>215</b></td>
 <td align="right">0</td>
 <td><sub>Slovakia</sub></td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">10</td>
 <td><a href="https://github.com/ondrajz"><img src="https://avatars.githubusercontent.com/u/1229233?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ondrajz"><b>Ondrej Fabry</b></a><br><sub>&#64;ondrajz</sub></td>
 <td align="right"><b>159</b></td>
 <td align="right">0</td>
 <td><sub>Bratislava, Slovakia</sub></td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">11</td>
 <td><a href="https://github.com/JakubVojvoda"><img src="https://avatars.githubusercontent.com/u/15220932?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JakubVojvoda"><b>Jakub Vojvoda</b></a><br><sub>&#64;JakubVojvoda</sub></td>
 <td align="right"><b>116</b></td>
+<td align="right">0</td>
+<td><sub>Slovakia</sub></td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><a href="https://github.com/dorny"><img src="https://avatars.githubusercontent.com/u/1588572?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dorny"><b>Michal Dorner</b></a><br><sub>&#64;dorny</sub></td>
+<td align="right"><b>52</b></td>
+<td align="right">0</td>
+<td><sub>Bratislava, Slovakia</sub></td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><a href="https://github.com/tomasklaen"><img src="https://avatars.githubusercontent.com/u/47283320?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tomasklaen"><b>Tomas Klaen</b></a><br><sub>&#64;tomasklaen</sub></td>
+<td align="right"><b>43</b></td>
 <td align="right">0</td>
 <td><sub>Slovakia</sub></td>
 </tr>
@@ -78,7 +120,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 7 attributed developers are tracked; the cutoff is 116 followers.
+- Organizations are excluded. 13 attributed developers are tracked; the cutoff is 43 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

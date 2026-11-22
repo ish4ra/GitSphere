@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"NC","name":"New Caledonia","slug":"new-caledonia"},
-"count": 146,
+"count": 145,
 "repositories": [
-  {"name":"darwiin/yaac-another-awesome-cv","stars":1043,"forks":285,"language":"TeX","license":"LPPL-1.3c","archived":false,"createdAt":"2016-08-29T07:29:23Z","pushedAt":"2022-11-14T22:46:27Z","owner":{"login":"darwiin","type":"User","name":"Christophe ROGER","location":"New Caledonia"},"attribution":{"code":"NC","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T05:04:40.432Z","id":"legacy:darwiin/yaac-another-awesome-cv","legacy":true},
   {"name":"TooFuW/ShortMoji","stars":37,"forks":0,"language":"Python","license":"MIT","archived":false,"createdAt":"2024-12-17T21:25:21Z","pushedAt":"2026-03-16T20:48:41Z","owner":{"login":"TooFuW","type":"User","name":"Eyrian Muet","location":"New- Caledonia"},"attribution":{"code":"NC","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T16:15:16.877Z","id":"legacy:toofuw/shortmoji","legacy":true},
   {"name":"AnthonySigogne/web-search-engine-ui","stars":32,"forks":14,"language":"HTML","license":"MIT","archived":false,"createdAt":"2017-07-02T21:38:28Z","pushedAt":"2017-07-19T06:19:33Z","owner":{"login":"AnthonySigogne","type":"User","name":"Anthony Sigogne","location":"New Caledonia"},"attribution":{"code":"NC","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T16:15:16.877Z","id":"legacy:anthonysigogne/web-search-engine-ui","legacy":true},
   {"name":"magis-nc/esri-webappbuilder-widget-eDraw","stars":30,"forks":26,"language":"JavaScript","license":"Apache-2.0","archived":false,"createdAt":"2015-02-17T00:39:06Z","pushedAt":"2021-04-19T18:52:37Z","owner":{"login":"magis-nc","type":"Organization","name":"MAGIS","location":"New Caledonia"},"attribution":{"code":"NC","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T16:15:16.877Z","id":"legacy:magis-nc/esri-webappbuilder-widget-edraw","legacy":true},

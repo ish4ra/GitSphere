@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **85** | 01 Nov 2026 | <a href="../data/HK.json">JSON</a> |
-
-> **Not yet re-verified.** 26 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/HK.json">JSON</a> |
 
 </div>
 
@@ -438,185 +436,290 @@
 </tr>
 <tr>
 <td align="right">60</td>
-<td><img src="https://github.com/ZrrSkywalker.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ZrrSkywalker/Personalize-SAM"><b>ZrrSkywalker/Personalize-SAM</b></a></td>
-<td align="right"><b>1,673</b></td>
-<td align="right">113</td>
+<td><img src="https://github.com/Charmve.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Charmve/Surface-Defect-Detection"><b>Charmve/Surface-Defect-Detection</b></a><br><sub>📈 目前最大的工业缺陷检测数据库及论文集 Constantly summarizing open source dataset and critical papers in the field of surface defect res…</sub></td>
+<td align="right"><b>4,160</b></td>
+<td align="right">616</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">61</td>
-<td><img src="https://github.com/hszhao.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hszhao/PSPNet"><b>hszhao/PSPNet</b></a></td>
-<td align="right"><b>1,662</b></td>
-<td align="right">550</td>
-<td>C++</td>
+<td><img src="https://github.com/VectorSpaceLab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/VectorSpaceLab/OmniGen2"><b>VectorSpaceLab/OmniGen2</b></a><br><sub>OmniGen2: Exploration to Advanced Multimodal Generation. https://arxiv.org/abs/2506.18871</sub></td>
+<td align="right"><b>4,121</b></td>
+<td align="right">38</td>
+<td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">62</td>
-<td><img src="https://github.com/kennytm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kennytm/iphone-private-frameworks"><b>kennytm/iphone-private-frameworks</b></a> <sub>archived</sub></td>
-<td align="right"><b>1,461</b></td>
-<td align="right">609</td>
-<td>C</td>
+<td><img src="https://github.com/elliothux.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/elliothux/open-compute"><b>elliothux/open-compute</b></a><br><sub>Self-hosted Cloudflare Workers-compatible platform with Workers、KV、D1、R2、DO、Queues、Workflows、Cron、Cache、Images、Vectoriz…</sub></td>
+<td align="right"><b>4,078</b></td>
+<td align="right">303</td>
+<td>Rust</td>
 </tr>
 <tr>
 <td align="right">63</td>
-<td><img src="https://github.com/PeizeSun.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PeizeSun/SparseR-CNN"><b>PeizeSun/SparseR-CNN</b></a></td>
-<td align="right"><b>1,345</b></td>
-<td align="right">191</td>
-<td>Python</td>
+<td><img src="https://github.com/cshum.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cshum/imagor"><b>cshum/imagor</b></a><br><sub>Fast, secure image processing server and Go library, using libvips</sub></td>
+<td align="right"><b>4,064</b></td>
+<td align="right">181</td>
+<td>Go</td>
 </tr>
 <tr>
 <td align="right">64</td>
-<td><img src="https://github.com/jamztang.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jamztang/JTGestureBasedTableViewDemo"><b>jamztang/JTGestureBasedTableViewDemo</b></a></td>
-<td align="right"><b>1,321</b></td>
-<td align="right">199</td>
-<td>Objective-C</td>
+<td><img src="https://github.com/thebaselab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thebaselab/codeapp"><b>thebaselab/codeapp</b></a><br><sub>Building a full-fledged code editor for iPad</sub></td>
+<td align="right"><b>3,993</b></td>
+<td align="right">399</td>
+<td>Swift</td>
 </tr>
 <tr>
 <td align="right">65</td>
-<td><img src="https://github.com/TooBug.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TooBug/wemark"><b>TooBug/wemark</b></a></td>
-<td align="right"><b>1,312</b></td>
-<td align="right">170</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/hunkim.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hunkim/PyTorchZeroToAll"><b>hunkim/PyTorchZeroToAll</b></a><br><sub>Simple PyTorch Tutorials Zero to ALL!</sub></td>
+<td align="right"><b>3,982</b></td>
+<td align="right">1,185</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">66</td>
-<td><img src="https://github.com/wingkwong.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wingkwong/leetcode-the-hard-way"><b>wingkwong/leetcode-the-hard-way</b></a></td>
-<td align="right"><b>955</b></td>
-<td align="right">226</td>
-<td>MDX</td>
+<td><img src="https://github.com/lkwq007.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lkwq007/stablediffusion-infinity"><b>lkwq007/stablediffusion-infinity</b></a><br><sub>Outpainting with Stable Diffusion on an infinite canvas</sub></td>
+<td align="right"><b>3,887</b></td>
+<td align="right">290</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">67</td>
-<td><img src="https://github.com/TobiasLee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TobiasLee/Text-Classification"><b>TobiasLee/Text-Classification</b></a></td>
-<td align="right"><b>733</b></td>
-<td align="right">191</td>
+<td><img src="https://github.com/hkust-nlp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hkust-nlp/simpleRL-reason"><b>hkust-nlp/simpleRL-reason</b></a><br><sub>Simple RL training for reasoning</sub></td>
+<td align="right"><b>3,878</b></td>
+<td align="right">284</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">68</td>
-<td><img src="https://github.com/robbin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/robbin/robbin_site"><b>robbin/robbin&#95;site</b></a></td>
-<td align="right"><b>687</b></td>
-<td align="right">235</td>
-<td>Ruby</td>
-</tr>
-<tr>
-<td align="right">69</td>
-<td><img src="https://github.com/johnsoncodehk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/johnsoncodehk/tsslint"><b>johnsoncodehk/tsslint</b></a></td>
-<td align="right"><b>634</b></td>
-<td align="right">8</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">70</td>
-<td><img src="https://github.com/yulequan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yulequan/UA-MT"><b>yulequan/UA-MT</b></a></td>
-<td align="right"><b>542</b></td>
-<td align="right">103</td>
+<td><img src="https://github.com/HKUDS.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HKUDS/Paper2Slides"><b>HKUDS/Paper2Slides</b></a><br><sub>&quot;Paper2Slides: From Paper to Presentation in One Click&quot;</sub></td>
+<td align="right"><b>3,866</b></td>
+<td align="right">479</td>
 <td>Python</td>
 </tr>
 <tr>
+<td align="right">69</td>
+<td><img src="https://github.com/Javis603.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Javis603/token-monitor"><b>Javis603/token-monitor</b></a><br><sub>Local-first desktop widget for tracking token usage, costs, limits, and session activity across 56+ AI coding tools—inc…</sub></td>
+<td align="right"><b>3,808</b></td>
+<td align="right">371</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/OpenDriveLab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving"><b>OpenDriveLab/End-to-end-Autonomous-Driving</b></a><br><sub>&#91;IEEE T-PAMI 2024&#93; All you need for End-to-end Autonomous Driving</sub></td>
+<td align="right"><b>3,730</b></td>
+<td align="right">340</td>
+<td>—</td>
+</tr>
+<tr>
 <td align="right">71</td>
-<td><img src="https://github.com/aofei.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aofei/air"><b>aofei/air</b></a> <sub>archived</sub></td>
-<td align="right"><b>437</b></td>
-<td align="right">34</td>
+<td><img src="https://github.com/juggleim.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/juggleim/im-server"><b>juggleim/im-server</b></a><br><sub>IM Chat, High-performance, scalable, self-hosted instant messaging server in Go — private chat, groups, chatrooms, WebS…</sub></td>
+<td align="right"><b>3,545</b></td>
+<td align="right">377</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">72</td>
-<td><img src="https://github.com/gl-inet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gl-inet/glkvm-cloud"><b>gl-inet/glkvm-cloud</b></a></td>
-<td align="right"><b>331</b></td>
-<td align="right">47</td>
-<td>Go</td>
-</tr>
-<tr>
-<td align="right">73</td>
-<td><img src="https://github.com/kentang2017.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kentang2017/ichingshifa"><b>kentang2017/ichingshifa</b></a></td>
-<td align="right"><b>291</b></td>
-<td align="right">116</td>
+<td><img src="https://github.com/HKUDS.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HKUDS/VideoRAG"><b>HKUDS/VideoRAG</b></a><br><sub>&#91;KDD&#39;2026&#93; &quot;VideoRAG: Chat with Your Videos&quot;</sub></td>
+<td align="right"><b>3,529</b></td>
+<td align="right">496</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">74</td>
-<td><img src="https://github.com/divonlan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/divonlan/genozip"><b>divonlan/genozip</b></a></td>
-<td align="right"><b>191</b></td>
-<td align="right">14</td>
-<td>C</td>
-</tr>
-<tr>
-<td align="right">75</td>
-<td><img src="https://github.com/pik1989.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pik1989/MLProject-ChurnPrediction"><b>pik1989/MLProject-ChurnPrediction</b></a></td>
-<td align="right"><b>162</b></td>
-<td align="right">152</td>
-<td>Jupyter Notebook</td>
-</tr>
-<tr>
-<td align="right">76</td>
-<td><img src="https://github.com/lindahua.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lindahua/light-matrix"><b>lindahua/light-matrix</b></a></td>
-<td align="right"><b>132</b></td>
-<td align="right">33</td>
+<td align="right">73</td>
+<td><img src="https://github.com/HKUST-Aerial-Robotics.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HKUST-Aerial-Robotics/Fast-Planner"><b>HKUST-Aerial-Robotics/Fast-Planner</b></a><br><sub>A Robust and Efficient Trajectory Planner for Quadrotors</sub></td>
+<td align="right"><b>3,456</b></td>
+<td align="right">780</td>
 <td>C++</td>
 </tr>
 <tr>
+<td align="right">74</td>
+<td><img src="https://github.com/wendy7756.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wendy7756/AI-Video-Transcriber"><b>wendy7756/AI-Video-Transcriber</b></a><br><sub>Transcribe and summarize videos and podcasts using AI. Open-source, multi-platform, and supports multiple languages.</sub></td>
+<td align="right"><b>3,434</b></td>
+<td align="right">444</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/Icalingua-plus-plus.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Icalingua-plus-plus/Icalingua-plus-plus"><b>Icalingua-plus-plus/Icalingua-plus-plus</b></a><br><sub>A client for QQ and more. :electron:</sub></td>
+<td align="right"><b>3,381</b></td>
+<td align="right">187</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/hbb1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hbb1/2d-gaussian-splatting"><b>hbb1/2d-gaussian-splatting</b></a><br><sub>&#91;SIGGRAPH&#39;24&#93; 2D Gaussian Splatting for Geometrically Accurate Radiance Fields</sub></td>
+<td align="right"><b>3,343</b></td>
+<td align="right">336</td>
+<td>Python</td>
+</tr>
+<tr>
 <td align="right">77</td>
-<td><img src="https://github.com/dppalomar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dppalomar/riskParityPortfolio"><b>dppalomar/riskParityPortfolio</b></a></td>
-<td align="right"><b>122</b></td>
-<td align="right">31</td>
-<td>R</td>
+<td><img src="https://github.com/PixArt-alpha.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PixArt-alpha/PixArt-alpha"><b>PixArt-alpha/PixArt-alpha</b></a><br><sub>PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis</sub></td>
+<td align="right"><b>3,319</b></td>
+<td align="right">199</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">78</td>
-<td><img src="https://github.com/hli2020.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hli2020/feature_intertwiner"><b>hli2020/feature&#95;intertwiner</b></a></td>
-<td align="right"><b>107</b></td>
-<td align="right">13</td>
+<td><img src="https://github.com/KouriChat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KouriChat/KouriChat"><b>KouriChat/KouriChat</b></a><br><sub>【禁止接入微信、QQ等腾讯系软件】接入第三方平台。基于LLM的更逼真的情感陪伴程序。More realistic emotional companionship program based LLM, meet the characters…</sub></td>
+<td align="right"><b>3,306</b></td>
+<td align="right">439</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">79</td>
-<td><img src="https://github.com/n3wt0n.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/n3wt0n/AzureWebAppSSLManager"><b>n3wt0n/AzureWebAppSSLManager</b></a></td>
-<td align="right"><b>79</b></td>
-<td align="right">33</td>
-<td>C#</td>
+<td><img src="https://github.com/Akagi201.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Akagi201/learning-cmake"><b>Akagi201/learning-cmake</b></a><br><sub>learning cmake</sub></td>
+<td align="right"><b>3,295</b></td>
+<td align="right">774</td>
+<td>CMake</td>
 </tr>
 <tr>
 <td align="right">80</td>
-<td><img src="https://github.com/kenhty.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kenhty/Natural"><b>kenhty/Natural</b></a></td>
-<td align="right"><b>50</b></td>
-<td align="right">1</td>
-<td>CSS</td>
+<td><img src="https://github.com/OpenDriveLab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/OpenDriveLab/AgiBot-World"><b>OpenDriveLab/AgiBot-World</b></a><br><sub>&#91;IROS 2025 Best Paper Award Finalist &amp; IEEE TRO 2026&#93; The Large-scale Manipulation Platform for Scalable and Intelligen…</sub></td>
+<td align="right"><b>3,235</b></td>
+<td align="right">221</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">81</td>
-<td><img src="https://github.com/jmuppala.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jmuppala/conFusion-React"><b>jmuppala/conFusion-React</b></a></td>
-<td align="right"><b>47</b></td>
-<td align="right">44</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/ddz16.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ddz16/TSFpaper"><b>ddz16/TSFpaper</b></a><br><sub>This repository contains a reading list of papers on Time Series Forecasting/Prediction (TSF) and Spatio-Temporal Forec…</sub></td>
+<td align="right"><b>3,202</b></td>
+<td align="right">266</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">82</td>
-<td><img src="https://github.com/0e0w.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0e0w/LearnPython"><b>0e0w/LearnPython</b></a></td>
-<td align="right"><b>45</b></td>
-<td align="right">12</td>
-<td>—</td>
+<td><img src="https://github.com/tiann.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tiann/FreeReflection"><b>tiann/FreeReflection</b></a><br><sub>A library that lets you use reflection without any restriction above Android P</sub></td>
+<td align="right"><b>3,151</b></td>
+<td align="right">562</td>
+<td>C++</td>
 </tr>
 <tr>
 <td align="right">83</td>
-<td><img src="https://github.com/rpsffx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rpsffx/zess"><b>rpsffx/zess</b></a></td>
-<td align="right"><b>29</b></td>
-<td align="right">2</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/eolinker.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eolinker/goku_lite"><b>eolinker/goku&#95;lite</b></a><br><sub>A Powerful HTTP API Gateway in pure golang！Goku API Gateway （中文名：悟空 API 网关）是一个基于 Golang开发的微服务网关，能够实现高性能 HTTP API 转发、服务编…</sub></td>
+<td align="right"><b>3,120</b></td>
+<td align="right">588</td>
+<td>Go</td>
 </tr>
 <tr>
 <td align="right">84</td>
-<td><img src="https://github.com/poyea.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/poyea/scrabble"><b>poyea/scrabble</b></a></td>
-<td align="right"><b>25</b></td>
-<td align="right">15</td>
-<td>C#</td>
+<td><img src="https://github.com/KOP-XIAO.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KOP-XIAO/QuantumultX"><b>KOP-XIAO/QuantumultX</b></a></td>
+<td align="right"><b>3,019</b></td>
+<td align="right">636</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">85</td>
-<td><img src="https://github.com/nttstar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nttstar/inswapper-512-live"><b>nttstar/inswapper-512-live</b></a></td>
-<td align="right"><b>14</b></td>
-<td align="right">0</td>
+<td><img src="https://github.com/1Panel-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/1Panel-dev/KubePi"><b>1Panel-dev/KubePi</b></a><br><sub>🚀 现代化、开源的 K8s 面板，1Panel 官方出品。</sub></td>
+<td align="right"><b>2,997</b></td>
+<td align="right">377</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/dictcp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dictcp/awesome-git"><b>dictcp/awesome-git</b></a><br><sub>A curated list of amazingly awesome Git tools, resources and shiny things</sub></td>
+<td align="right"><b>2,983</b></td>
+<td align="right">512</td>
 <td>—</td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><img src="https://github.com/nextify-limited.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nextify-limited/saasfly"><b>nextify-limited/saasfly</b></a><br><sub>Your Next SaaS Template or Boilerplate ! A magic trip start with &#96;bun create saasfly&#96; . The more stars, the more surpri…</sub></td>
+<td align="right"><b>2,961</b></td>
+<td align="right">429</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><img src="https://github.com/EnhancedJax.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EnhancedJax/Bagels"><b>EnhancedJax/Bagels</b></a><br><sub>Powerful expense tracker that lives in your terminal.</sub></td>
+<td align="right"><b>2,945</b></td>
+<td align="right">109</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><img src="https://github.com/ArgoZhang.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ArgoZhang/BootstrapAdmin"><b>ArgoZhang/BootstrapAdmin</b></a><br><sub>BootstrapAdmin - Free Premium Admin control Panel Based On Bootstrap 4.x</sub></td>
+<td align="right"><b>2,918</b></td>
+<td align="right">62</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><img src="https://github.com/Saiyan-World.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Saiyan-World/goku"><b>Saiyan-World/goku</b></a><br><sub>&#91;CVPR2025 Highlight&#93; Video Generation Foundation Models: https://saiyan-world.github.io/goku/</sub></td>
+<td align="right"><b>2,911</b></td>
+<td align="right">307</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/Charmve.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Charmve/computer-vision-in-action"><b>Charmve/computer-vision-in-action</b></a><br><sub>A computer vision closed-loop learning platform where code can be run interactively online. 学习闭环《计算机视觉实战演练：算法与应用》中文电子书、…</sub></td>
+<td align="right"><b>2,874</b></td>
+<td align="right">402</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/1Panel-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/1Panel-dev/CordysCRM"><b>1Panel-dev/CordysCRM</b></a><br><sub>🔥 Cordys 是由飞致云匠心打造的新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权。</sub></td>
+<td align="right"><b>2,863</b></td>
+<td align="right">589</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/YiChenCityU.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/YiChenCityU/Recent_SLAM_Research"><b>YiChenCityU/Recent&#95;SLAM&#95;Research</b></a><br><sub>Track Advancement of SLAM 跟踪SLAM前沿动态【2021 version】業務調整，暫停更新</sub></td>
+<td align="right"><b>2,743</b></td>
+<td align="right">717</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/nolangz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nolangz/pixel2motion"><b>nolangz/pixel2motion</b></a><br><sub>AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and moti…</sub></td>
+<td align="right"><b>2,703</b></td>
+<td align="right">215</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/DEEP-PolyU.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DEEP-PolyU/Awesome-GraphRAG"><b>DEEP-PolyU/Awesome-GraphRAG</b></a><br><sub>Awesome-GraphRAG: A curated list of resources (surveys, papers, benchmarks, and opensource projects) on graph-based ret…</sub></td>
+<td align="right"><b>2,685</b></td>
+<td align="right">240</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/HKUDS.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HKUDS/AutoSwarm"><b>HKUDS/AutoSwarm</b></a><br><sub>AutoSwarm: Unify All Your Agents. Break Context Barriers. Watch Them Work Together for You.</sub></td>
+<td align="right"><b>2,676</b></td>
+<td align="right">442</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/tiann.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tiann/understand-plugin-framework"><b>tiann/understand-plugin-framework</b></a><br><sub>demos to help understand plugin framwork</sub></td>
+<td align="right"><b>2,649</b></td>
+<td align="right">759</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/SummerSec.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SummerSec/ShiroAttack2"><b>SummerSec/ShiroAttack2</b></a><br><sub>shiro反序列化漏洞综合利用（仅限授权测试使用）</sub></td>
+<td align="right"><b>2,647</b></td>
+<td align="right">293</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/DestinyLinker.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DestinyLinker/MingLi-Bench"><b>DestinyLinker/MingLi-Bench</b></a><br><sub>A benchmark for evaluating LLMs on Chinese traditional fortune telling — Bazi (八字) and Ziwei Doushu (紫微斗数).</sub></td>
+<td align="right"><b>2,615</b></td>
+<td align="right">370</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/edmundhung.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/edmundhung/conform"><b>edmundhung/conform</b></a><br><sub>Progressively enhance HTML forms with React. Build resilient, type-safe forms with no hassle using web standards.</sub></td>
+<td align="right"><b>2,590</b></td>
+<td align="right">146</td>
+<td>TypeScript</td>
 </tr>
 </tbody>
 </table>
@@ -624,11 +727,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 14 stars; 85 attributed candidates are tracked.
-- 26 entries were carried over from the previous dataset and are pending revalidation.
-- 139 multi-repository owners are queued for expansion.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 2,590 stars; 136 attributed candidates are tracked.
+- 131 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

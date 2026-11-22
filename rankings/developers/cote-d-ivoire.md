@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/CI.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/CI.json">JSON</a> |
 
 </div>
 
@@ -23,13 +23,27 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/Dsaifon"><img src="https://avatars.githubusercontent.com/u/64630569?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dsaifon"><b>Saifoulaye Barry</b></a><br><sub>&#64;Dsaifon</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">16</td>
+<td><sub>Côte d&#39;Ivoire</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/0142704513"><img src="https://avatars.githubusercontent.com/u/137011082?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0142704513"><b>Issa Traore</b></a><br><sub>&#64;0142704513</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">8</td>
 <td><sub>Côte d&#39;Ivoire</sub></td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">3</td>
+<td><a href="https://github.com/03mega"><img src="https://avatars.githubusercontent.com/u/4158578?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/03mega"><b>yeo ali</b></a><br><sub>&#64;03mega</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">5</td>
+<td><sub>côte d&#39;ivoire</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/01amani"><img src="https://avatars.githubusercontent.com/u/39102969?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/01amani"><b>Amani Bienvenu Hippolye Konan</b></a><br><sub>&#64;01amani</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
@@ -43,8 +57,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 0 of 151 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

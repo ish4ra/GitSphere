@@ -3,12 +3,14 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"GL","name":"Greenland","slug":"greenland"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":103,"measuredAccounts":1,"measurementBacklog":102,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "c2732589388cf9ed",
-"updatedAt": "2026-11-22T11:14:57.063Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"coverage": {"basis":"partial","discoveredAccounts":100,"measuredAccounts":2,"measurementBacklog":98,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjM3OTg0Nw==","login":"sgoggins","name":"Sean P. Goggins","url":"https://github.com/sgoggins","avatarUrl":"https://avatars.githubusercontent.com/u/379847?s=80&v=4","followers":201,"publicRepos":254,"location":"Greenland","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":2021,"commits":1672,"pullRequests":204,"reviews":75,"issues":8,"repositories":17,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "e7a490b7c0d6fc0d",
+"updatedAt": "2026-11-22T22:28:05.466Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

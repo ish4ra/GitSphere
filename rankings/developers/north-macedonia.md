@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/developers/MK.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/MK.json">JSON</a> |
 
 </div>
 
@@ -28,6 +28,27 @@
 <td align="right">46</td>
 <td><sub>Skopje</sub></td>
 </tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/henryruhs"><img src="https://avatars.githubusercontent.com/u/1835397?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/henryruhs"><b>Henry Ruhs</b></a><br><sub>&#64;henryruhs</sub></td>
+<td align="right"><b>649</b></td>
+<td align="right">11</td>
+<td><sub>North Macedonia</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/ZoranPandovski"><img src="https://avatars.githubusercontent.com/u/7192539?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ZoranPandovski"><b>Zoran Pandovski</b></a><br><sub>&#64;ZoranPandovski</sub></td>
+<td align="right"><b>605</b></td>
+<td align="right">47</td>
+<td><sub>Bitola, North Macedonia</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/MTrajK"><img src="https://avatars.githubusercontent.com/u/7501012?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MTrajK"><b>Meto Trajkovski</b></a><br><sub>&#64;MTrajK</sub></td>
+<td align="right"><b>216</b></td>
+<td align="right">0</td>
+<td><sub>Skopje</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -36,7 +57,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 1 attributed developers are tracked; the cutoff is 1,254 followers.
+- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 216 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

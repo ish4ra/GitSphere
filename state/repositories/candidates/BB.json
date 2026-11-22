@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"BB","name":"Barbados","slug":"barbados"},
-"count": 150,
+"count": 149,
 "repositories": [
-  {"name":"kaku2015/ColorfulNews","stars":1298,"forks":415,"language":"Java","archived":false,"createdAt":"2016-05-23T14:19:17Z","pushedAt":"2016-10-30T12:31:14Z","owner":{"login":"kaku2015","type":"User","name":"FishingNet","location":"Barbados"},"attribution":{"code":"BB","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-10T02:18:32.871Z","id":"legacy:kaku2015/colorfulnews","legacy":true},
   {"name":"kaku2015/WeatherAlarmClock","stars":547,"forks":181,"language":"Java","archived":false,"createdAt":"2016-06-12T04:34:28Z","pushedAt":"2019-04-19T09:06:14Z","owner":{"login":"kaku2015","type":"User","name":"FishingNet","location":"Barbados"},"attribution":{"code":"BB","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-10T02:18:32.871Z","id":"legacy:kaku2015/weatheralarmclock","legacy":true},
   {"name":"adevbuildingstuff/ethereum-solidity-course-updated-code","stars":188,"forks":80,"language":"JavaScript","archived":true,"createdAt":"2019-12-28T00:49:37Z","pushedAt":"2024-09-16T16:27:05Z","owner":{"login":"adevbuildingstuff","type":"User","name":"Owan Hunte","location":"Barbados"},"attribution":{"code":"BB","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-28T05:56:18.357Z","id":"legacy:adevbuildingstuff/ethereum-solidity-course-updated-code","legacy":true},
   {"name":"lukehefson/ex-githubber-companies","stars":125,"forks":10,"archived":false,"createdAt":"2023-05-24T20:01:57Z","pushedAt":"2026-05-18T20:39:07Z","owner":{"login":"lukehefson","type":"User","name":"Luke Hefson","location":"Barbados"},"attribution":{"code":"BB","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-28T05:56:18.357Z","id":"legacy:lukehefson/ex-githubber-companies","legacy":true},

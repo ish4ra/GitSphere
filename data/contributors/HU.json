@@ -5,12 +5,13 @@
 "country": {"code":"HU","name":"Hungary","slug":"hungary"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":404,"measuredAccounts":1,"measurementBacklog":403,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":405,"measuredAccounts":2,"measurementBacklog":403,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjEyMjYzODQ=","login":"sagikazarmark","name":"Márk Sági-Kazár","url":"https://github.com/sagikazarmark","avatarUrl":"https://avatars.githubusercontent.com/u/1226384?s=80&v=4","followers":1401,"publicRepos":382,"location":"Budapest, Hungary","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":10943,"commits":7738,"pullRequests":728,"reviews":917,"issues":1507,"repositories":50,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjEyMjYzODQ=","login":"sagikazarmark","name":"Márk Sági-Kazár","url":"https://github.com/sagikazarmark","avatarUrl":"https://avatars.githubusercontent.com/u/1226384?s=80&v=4","followers":1401,"publicRepos":382,"location":"Budapest, Hungary","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":10943,"commits":7738,"pullRequests":728,"reviews":917,"issues":1507,"repositories":50,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjM3NDYwMDky","login":"JuhaszZoltan","name":"Juhász Zoltán","url":"https://github.com/JuhaszZoltan","avatarUrl":"https://avatars.githubusercontent.com/u/37460092?s=80&v=4","followers":208,"publicRepos":1006,"location":"Budapest, Hungary","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":444,"commits":347,"pullRequests":0,"reviews":0,"issues":1,"repositories":96,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "f1a793341f529c5c",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "1e97bd778a7c7f02",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

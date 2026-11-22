@@ -5,16 +5,20 @@
 "country": {"code":"KZ","name":"Kazakhstan","slug":"kazakhstan"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":1051,"candidates":5,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":114,"candidates":9,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjI2OTkyMzU=","login":"0xAX","name":"Alex Kuleshov","url":"https://github.com/0xAX","avatarUrl":"https://avatars.githubusercontent.com/u/2699235?s=80&v=4","followers":3800,"publicRepos":37,"location":"Kazakhstan, Astana","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"U_kgDOCN-W4A","login":"Kairatzh","name":"kirtzh","url":"https://github.com/Kairatzh","avatarUrl":"https://avatars.githubusercontent.com/u/148870880?s=80&v=4","followers":2678,"publicRepos":70,"location":"Aktobe, Kazakhstan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":3,"id":"MDQ6VXNlcjM5MDIwMjU=","login":"henrypp","name":"henrypp","url":"https://github.com/henrypp","avatarUrl":"https://avatars.githubusercontent.com/u/3902025?s=80&v=4","followers":1973,"publicRepos":19,"location":"Almaty, Kazakhstan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":4,"id":"U_kgDODYiAEQ","login":"mikonyaa","name":"miko","url":"https://github.com/mikonyaa","avatarUrl":"https://avatars.githubusercontent.com/u/227049489?s=80&v=4","followers":1517,"publicRepos":21,"location":"Astana, Kazakhstan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":5,"id":"MDQ6VXNlcjg5MjkyMDgz","login":"finik404","name":"Dmitriy Bozhko","url":"https://github.com/finik404","avatarUrl":"https://avatars.githubusercontent.com/u/89292083?s=80&v=4","followers":1051,"publicRepos":49,"location":"Kazakhstan, Kostanay","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+  {"rank":5,"id":"MDQ6VXNlcjg5MjkyMDgz","login":"finik404","name":"Dmitriy Bozhko","url":"https://github.com/finik404","avatarUrl":"https://avatars.githubusercontent.com/u/89292083?s=80&v=4","followers":1051,"publicRepos":49,"location":"Kazakhstan, Kostanay","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":6,"id":"MDQ6VXNlcjUwNTE1OTc=","login":"artemnovichkov","name":"Artem Novichkov","url":"https://github.com/artemnovichkov","avatarUrl":"https://avatars.githubusercontent.com/u/5051597?s=80&v=4","followers":620,"publicRepos":223,"location":"Almaty, Kazakhstan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":7,"id":"MDQ6VXNlcjEyMDM4MTI=","login":"exentrich","name":"Rustem Mussabekov","url":"https://github.com/exentrich","avatarUrl":"https://avatars.githubusercontent.com/u/1203812?s=80&v=4","followers":584,"publicRepos":21,"location":"Astana","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-22"},
+  {"rank":8,"id":"MDQ6VXNlcjM1NzY4NQ==","login":"adilkhash","name":"Adyl Khashtamov","url":"https://github.com/adilkhash","avatarUrl":"https://avatars.githubusercontent.com/u/357685?s=80&v=4","followers":467,"location":"Astana, Kazakhstan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":9,"id":"MDQ6VXNlcjYwMDk2NDA=","login":"fnc12","name":"Yevgeniy Zakharov","url":"https://github.com/fnc12","avatarUrl":"https://avatars.githubusercontent.com/u/6009640?s=80&v=4","followers":114,"location":"Almaty, Kazakhstan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "1cdf6fd516f1a6b9",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "54aeda3ab60b730f",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

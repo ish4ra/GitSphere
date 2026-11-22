@@ -5,12 +5,13 @@
 "country": {"code":"LY","name":"Libya","slug":"libya"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":1,"measurementBacklog":399,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":2,"measurementBacklog":398,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjczOTEyNzgz","login":"00Adnan00","name":"Adnan Aljafri","url":"https://github.com/00Adnan00","avatarUrl":"https://avatars.githubusercontent.com/u/73912783?s=80&v=4","followers":5,"publicRepos":6,"location":"Tripoli, Libya","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":29,"commits":19,"pullRequests":2,"reviews":0,"issues":4,"repositories":4,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjczOTEyNzgz","login":"00Adnan00","name":"Adnan Aljafri","url":"https://github.com/00Adnan00","avatarUrl":"https://avatars.githubusercontent.com/u/73912783?s=80&v=4","followers":5,"publicRepos":6,"location":"Tripoli, Libya","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":29,"commits":19,"pullRequests":2,"reviews":0,"issues":4,"repositories":4,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"U_kgDODI100Q","login":"0xmahmoudaldali","name":"Mahmoud Aldali","url":"https://github.com/0xmahmoudaldali","avatarUrl":"https://avatars.githubusercontent.com/u/210597073?s=80&v=4","followers":1,"publicRepos":4,"location":"Tripoli, Libya","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":6,"commits":4,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "25ab1ca620e2e1b3",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "cbd55b07dcf0b32b",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

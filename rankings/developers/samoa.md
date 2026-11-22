@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/developers/WS.json">JSON</a> |
+| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/WS.json">JSON</a> |
 
 </div>
 
@@ -23,6 +23,13 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/ainsofs"><img src="https://avatars.githubusercontent.com/u/11662399?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ainsofs"><b>Ainsof So&#39;o</b></a><br><sub>&#64;ainsofs</sub></td>
+<td align="right"><b>13</b></td>
+<td align="right">73</td>
+<td><sub>Samoa</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/5thAttemptCode"><img src="https://avatars.githubusercontent.com/u/91667944?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/5thAttemptCode"><b>Henry</b></a><br><sub>&#64;5thAttemptCode</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">46</td>
@@ -36,7 +43,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 1 attributed developers are tracked; the cutoff is 6 followers.
+- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 6 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

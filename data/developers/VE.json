@@ -5,12 +5,15 @@
 "country": {"code":"VE","name":"Venezuela","slug":"venezuela"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjMwMjcwNjY0","login":"13uLrr5JR63p8TrEkqhABMTHFBdihaFCWE","name":"Frank Vera","url":"https://github.com/13uLrr5JR63p8TrEkqhABMTHFBdihaFCWE","avatarUrl":"https://avatars.githubusercontent.com/u/30270664?s=80&v=4","followers":0,"publicRepos":1,"location":"Venezuela","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"MDQ6VXNlcjI2Mjg3NjA2","login":"luisdgd07","name":"Luis Gonzalez","url":"https://github.com/luisdgd07","avatarUrl":"https://avatars.githubusercontent.com/u/26287606?s=80&v=4","followers":574,"publicRepos":33,"location":"Venezuela","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjU5MzI4OTI1","login":"samuelmarina","name":"Samuel Mariña","url":"https://github.com/samuelmarina","avatarUrl":"https://avatars.githubusercontent.com/u/59328925?s=80&v=4","followers":343,"location":"Venezuela","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjIwOTgwNjcx","login":"VonHeikemen","name":"Heiker","url":"https://github.com/VonHeikemen","avatarUrl":"https://avatars.githubusercontent.com/u/20980671?s=80&v=4","followers":217,"location":"Venezuela","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"MDQ6VXNlcjMwMjcwNjY0","login":"13uLrr5JR63p8TrEkqhABMTHFBdihaFCWE","name":"Frank Vera","url":"https://github.com/13uLrr5JR63p8TrEkqhABMTHFBdihaFCWE","avatarUrl":"https://avatars.githubusercontent.com/u/30270664?s=80&v=4","followers":0,"publicRepos":1,"location":"Venezuela","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "c8f3bc5b50b2deef",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "3423cf2246bd6c91",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

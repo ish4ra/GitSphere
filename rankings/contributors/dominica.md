@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/contributors/DM.json">JSON</a> |
+| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/contributors/DM.json">JSON</a> |
 
 </div>
 
@@ -25,8 +25,26 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/Ph03nix-T3ars"><img src="https://avatars.githubusercontent.com/u/229400868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ph03nix-T3ars"><b>Ph03nix-T3ars (Ph03nix-T3ars)</b></a><br><sub>&#64;Ph03nix-T3ars · 1 followers</sub></td>
+<td align="right"><b>89</b></td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/Nexxus-LMT"><img src="https://avatars.githubusercontent.com/u/64750108?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nexxus-LMT"><b>WaitukuNexx</b></a><br><sub>&#64;Nexxus-LMT · 2 followers</sub></td>
 <td align="right"><b>12</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/josuejs23"><img src="https://avatars.githubusercontent.com/u/86853211?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/josuejs23"><b>josuejs23</b></a><br><sub>&#64;josuejs23 · 20 followers</sub></td>
+<td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
@@ -39,10 +57,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 1 of 56 discovered developers (55 awaiting measurement).
+- **Measured:** 3 of 91 discovered developers (88 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 2 of 18 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/BI.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/BI.json">JSON</a> |
 
 </div>
 
@@ -34,6 +34,24 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/joffreynk"><img src="https://avatars.githubusercontent.com/u/68817603?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joffreynk"><b>Joffrey NKESHIMANA</b></a><br><sub>&#64;joffreynk · 30 followers</sub></td>
+<td align="right"><b>40</b></td>
+<td align="right">31</td>
+<td align="right">5</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/muco-rolle"><img src="https://avatars.githubusercontent.com/u/43722815?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/muco-rolle"><b>Trésor Muco</b></a><br><sub>&#64;muco-rolle · 102 followers</sub></td>
+<td align="right"><b>33</b></td>
+<td align="right">6</td>
+<td align="right">5</td>
+<td align="right">0</td>
+<td align="right">11</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/gatarelib"><img src="https://avatars.githubusercontent.com/u/29035759?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gatarelib"><b>Gatare Libère</b></a><br><sub>&#64;gatarelib · 147 followers</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">1</td>
@@ -48,7 +66,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 2 of 477 discovered developers (475 awaiting measurement).
+- **Measured:** 4 of 477 discovered developers (473 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 33 in round 1.

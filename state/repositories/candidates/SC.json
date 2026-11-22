@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"SC","name":"Seychelles","slug":"seychelles"},
-"count": 148,
+"count": 147,
 "repositories": [
-  {"name":"BitMEX/api-connectors","stars":907,"forks":774,"language":"C++","archived":false,"createdAt":"2014-07-07T01:07:10Z","pushedAt":"2024-05-29T01:29:07Z","owner":{"login":"BitMEX","type":"Organization","name":"BitMEX: Bitcoin Mercantile Exchange","location":"Mahé, Seychelles"},"attribution":{"code":"SC","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-07T19:56:48.812Z","id":"legacy:bitmex/api-connectors","legacy":true},
   {"name":"smichalowski/google_inception_v3_for_caffe","stars":160,"forks":108,"archived":false,"createdAt":"2016-03-04T14:52:53Z","pushedAt":"2016-07-05T19:53:10Z","owner":{"login":"smichalowski","type":"User","name":"Sebastian Michalowski","location":"Victoria, Seychelles"},"attribution":{"code":"SC","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-03T01:05:21.364Z","id":"legacy:smichalowski/google_inception_v3_for_caffe","legacy":true},
   {"name":"proxysh/Safejumper-for-iOS","stars":60,"forks":20,"language":"Swift","license":"GPL-2.0","archived":false,"createdAt":"2015-08-27T20:57:00Z","pushedAt":"2015-10-15T15:28:17Z","owner":{"login":"proxysh","type":"User","name":"Proxy.sh","location":"Seychelles"},"attribution":{"code":"SC","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T01:05:21.364Z","id":"legacy:proxysh/safejumper-for-ios","legacy":true},
   {"name":"Beldex-Coin/belnet-app","stars":31,"forks":5,"language":"Dart","license":"GPL-3.0","archived":false,"createdAt":"2022-08-02T11:22:15Z","pushedAt":"2026-09-01T13:34:56Z","owner":{"login":"Beldex-Coin","type":"Organization","name":"Beldex","location":"Seychelles"},"attribution":{"code":"SC","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T01:05:21.364Z","id":"legacy:beldex-coin/belnet-app","legacy":true},

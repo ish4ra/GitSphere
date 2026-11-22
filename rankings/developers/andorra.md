@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/AlexAltea"><img src="https://avatars.githubusercontent.com/u/5306886?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlexAltea"><b>Alexandro Sanchez Bach</b></a><br><sub>&#64;AlexAltea</sub></td>
-<td align="right"><b>953</b></td>
+<td align="right"><b>954</b></td>
 <td align="right">52</td>
 <td><sub>Les Escaldes, Andorra</sub></td>
 </tr>
@@ -38,7 +38,7 @@
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/hussein-aitlahcen"><img src="https://avatars.githubusercontent.com/u/9103813?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hussein-aitlahcen"><b>hussein</b></a><br><sub>&#64;hussein-aitlahcen</sub></td>
-<td align="right"><b>581</b></td>
+<td align="right"><b>582</b></td>
 <td align="right">158</td>
 <td><sub>Andorra</sub></td>
 </tr>

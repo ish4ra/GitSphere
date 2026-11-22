@@ -1,8 +1,9 @@
 {
 "schemaVersion": 3,
 "country": {"code":"SY","name":"Syria","slug":"syria"},
-"count": 149,
+"count": 150,
 "repositories": [
+  {"id":"R_kgDOPz62BQ","name":"evoiz/Agentic-Design-Patterns","stars":4166,"forks":641,"language":"Jupyter Notebook","archived":false,"createdAt":"2025-09-21T07:22:50Z","pushedAt":"2026-07-24T14:23:04Z","owner":{"id":"MDQ6VXNlcjIyNjgyNjY5","login":"evoiz","type":"User","name":"Elias Al-bittar","location":"Homs, Syria"},"attribution":{"code":"SY","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-22T21:45:35.146Z","verifiedAt":"2026-11-22T21:45:35.146Z","cycle":1},
   {"name":"yaser01/mkv-muxing-batch-gui","stars":650,"forks":45,"language":"Python","license":"GPL-2.0","archived":false,"createdAt":"2021-04-26T12:57:26Z","pushedAt":"2024-01-17T09:20:10Z","owner":{"login":"yaser01","type":"User","name":"Yasser Milato","location":"Syria"},"attribution":{"code":"SY","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-15T10:11:08.072Z","id":"legacy:yaser01/mkv-muxing-batch-gui","legacy":true},
   {"name":"ahmed-alnassif/AndroSH","stars":266,"forks":24,"language":"Python","license":"GPL-3.0","archived":false,"createdAt":"2025-09-22T11:42:48Z","pushedAt":"2026-10-08T10:11:06Z","owner":{"login":"ahmed-alnassif","type":"User","name":"Ahmed Al-Nassif","location":"Syria"},"attribution":{"code":"SY","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-15T10:11:08.072Z","id":"legacy:ahmed-alnassif/androsh","legacy":true},
   {"name":"firasuke/awesome","stars":266,"forks":12,"license":"MPL-2.0","archived":false,"createdAt":"2019-10-20T10:12:19Z","pushedAt":"2026-08-27T07:41:59Z","owner":{"login":"firasuke","type":"User","name":"Firas Khana","location":"Aleppo, Syria"},"attribution":{"code":"SY","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-15T10:11:08.072Z","id":"legacy:firasuke/awesome","legacy":true},

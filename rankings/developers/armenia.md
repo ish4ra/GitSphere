@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/developers/AM.json">JSON</a> |
+| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/developers/AM.json">JSON</a> |
 
 </div>
 
@@ -51,10 +51,73 @@
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/Gor-Hoveyan"><img src="https://avatars.githubusercontent.com/u/89770925?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Gor-Hoveyan"><b>Gor Hoveyan</b></a><br><sub>&#64;Gor-Hoveyan</sub></td>
+<td align="right"><b>931</b></td>
+<td align="right">17</td>
+<td><sub>Armenia</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/AlekSi"><img src="https://avatars.githubusercontent.com/u/11512?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlekSi"><b>Alexey Palazhchenko</b></a><br><sub>&#64;AlekSi</sub></td>
+<td align="right"><b>802</b></td>
+<td align="right">451</td>
+<td><sub>Armenia</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/MohammedRashad"><img src="https://avatars.githubusercontent.com/u/13450068?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MohammedRashad"><b>Rashad</b></a><br><sub>&#64;MohammedRashad</sub></td>
+<td align="right"><b>648</b></td>
+<td align="right">53</td>
+<td><sub>Yerevan, Armenia</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/meanmail"><img src="https://avatars.githubusercontent.com/u/10301297?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/meanmail"><b>Alexander Petrov</b></a><br><sub>&#64;meanmail</sub></td>
+<td align="right"><b>617</b></td>
+<td align="right">37</td>
+<td><sub>Armenia, Yerevan</sub></td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/Aramayis331"><img src="https://avatars.githubusercontent.com/u/86958416?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aramayis331"><b>Aramayis Araqelyan</b></a><br><sub>&#64;Aramayis331</sub></td>
+<td align="right"><b>593</b></td>
+<td align="right">8</td>
+<td><sub>Armenia</sub></td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/hasmiksarg"><img src="https://avatars.githubusercontent.com/u/165153641?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hasmiksarg"><b>Has</b></a><br><sub>&#64;hasmiksarg</sub></td>
+<td align="right"><b>566</b></td>
+<td align="right">1</td>
+<td><sub>Yerevan, Armenia</sub></td>
+</tr>
+<tr>
+<td align="right">11</td>
 <td><a href="https://github.com/suren-atoyan"><img src="https://avatars.githubusercontent.com/u/13118722?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/suren-atoyan"><b>Suren Atoyan</b></a><br><sub>&#64;suren-atoyan</sub></td>
 <td align="right"><b>340</b></td>
 <td align="right">0</td>
 <td><sub>Yerevan, Armenia</sub></td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><a href="https://github.com/ivbeg"><img src="https://avatars.githubusercontent.com/u/203209?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ivbeg"><b>Ivan Begtin</b></a><br><sub>&#64;ivbeg</sub></td>
+<td align="right"><b>336</b></td>
+<td align="right">0</td>
+<td><sub>Armenia</sub></td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><a href="https://github.com/khoren93"><img src="https://avatars.githubusercontent.com/u/11523360?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/khoren93"><b>Khoren Markosyan</b></a><br><sub>&#64;khoren93</sub></td>
+<td align="right"><b>250</b></td>
+<td align="right">0</td>
+<td><sub>Yerevan, Armenia</sub></td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><a href="https://github.com/NarHakobyan"><img src="https://avatars.githubusercontent.com/u/1781506?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NarHakobyan"><b>Narek Hakobyan</b></a><br><sub>&#64;NarHakobyan</sub></td>
+<td align="right"><b>223</b></td>
+<td align="right">0</td>
+<td><sub>Armenia</sub></td>
 </tr>
 </tbody>
 </table>
@@ -64,7 +127,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 5 attributed developers are tracked; the cutoff is 340 followers.
+- Organizations are excluded. 14 attributed developers are tracked; the cutoff is 223 followers.
 - **Location discovery:** term 0 of 135 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

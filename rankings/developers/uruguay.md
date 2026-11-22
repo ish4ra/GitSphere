@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/UY.json">JSON</a> |
+| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/developers/UY.json">JSON</a> |
 
 </div>
 
@@ -35,6 +35,27 @@
 <td align="right">113</td>
 <td><sub>Montevideo, Uruguay</sub></td>
 </tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/omab"><img src="https://avatars.githubusercontent.com/u/91022?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/omab"><b>Matías Aguirre</b></a><br><sub>&#64;omab</sub></td>
+<td align="right"><b>420</b></td>
+<td align="right">0</td>
+<td><sub>Montevideo, Uruguay</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/titoBouzout"><img src="https://avatars.githubusercontent.com/u/64156?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/titoBouzout"><b>Tito</b></a><br><sub>&#64;titoBouzout</sub></td>
+<td align="right"><b>226</b></td>
+<td align="right">0</td>
+<td><sub>Montevideo, Uruguay</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/davidmonterocrespo24"><img src="https://avatars.githubusercontent.com/u/47928504?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davidmonterocrespo24"><b>David Montero Crespo</b></a><br><sub>&#64;davidmonterocrespo24</sub></td>
+<td align="right"><b>179</b></td>
+<td align="right">0</td>
+<td><sub>Uruguay</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -43,7 +64,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 1,152 followers.
+- Organizations are excluded. 5 attributed developers are tracked; the cutoff is 179 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

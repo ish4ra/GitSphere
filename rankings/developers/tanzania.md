@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/developers/TZ.json">JSON</a> |
+| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/developers/TZ.json">JSON</a> |
 
 </div>
 
@@ -56,6 +56,13 @@
 <td align="right">48</td>
 <td><sub>Tanzania</sub></td>
 </tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/Kalebu"><img src="https://avatars.githubusercontent.com/u/41791983?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kalebu"><b>Jordan Kalebu</b></a><br><sub>&#64;Kalebu</sub></td>
+<td align="right"><b>967</b></td>
+<td align="right">243</td>
+<td><sub>Dar es Salaam , Tanzania</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -64,7 +71,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 5 attributed developers are tracked; the cutoff is 1,038 followers.
+- Organizations are excluded. 6 attributed developers are tracked; the cutoff is 967 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

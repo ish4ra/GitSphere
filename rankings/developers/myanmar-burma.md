@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/developers/MM.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/developers/MM.json">JSON</a> |
 
 </div>
 
@@ -42,6 +42,34 @@
 <td align="right">446</td>
 <td><sub>Yangon, Myanmar</sub></td>
 </tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/ScorpioFento"><img src="https://avatars.githubusercontent.com/u/200630441?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ScorpioFento"><b>Pyae Sone Tun</b></a><br><sub>&#64;ScorpioFento</sub></td>
+<td align="right"><b>890</b></td>
+<td align="right">4</td>
+<td><sub>Yangon</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/sailay1996"><img src="https://avatars.githubusercontent.com/u/16739401?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sailay1996"><b>valen</b></a><br><sub>&#64;sailay1996</sub></td>
+<td align="right"><b>758</b></td>
+<td align="right">47</td>
+<td><sub>Myanmar</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/HlaingMinThan"><img src="https://avatars.githubusercontent.com/u/65280043?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HlaingMinThan"><b>Hlaing Min Than(Faizal)</b></a><br><sub>&#64;HlaingMinThan</sub></td>
+<td align="right"><b>694</b></td>
+<td align="right">178</td>
+<td><sub>Yangon,Myanmar</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/lwinmoepaing"><img src="https://avatars.githubusercontent.com/u/49163775?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lwinmoepaing"><b>Lwin Moe Paing</b></a><br><sub>&#64;lwinmoepaing</sub></td>
+<td align="right"><b>687</b></td>
+<td align="right">14</td>
+<td><sub>Yangon</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -50,7 +78,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 3 attributed developers are tracked; the cutoff is 1,077 followers.
+- Organizations are excluded. 7 attributed developers are tracked; the cutoff is 687 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

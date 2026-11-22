@@ -5,12 +5,12 @@
 "country": {"code":"GR","name":"Greece","slug":"greece"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":401,"measuredAccounts":1,"measurementBacklog":400,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":413,"measuredAccounts":2,"measurementBacklog":411,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjE3ODAyMTc4","login":"gakonst","name":"Georgios Konstantopoulos","url":"https://github.com/gakonst","avatarUrl":"https://avatars.githubusercontent.com/u/17802178?s=80&v=4","followers":5689,"publicRepos":321,"location":"Thessaloniki, Greece","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":15794,"commits":12283,"pullRequests":3231,"reviews":114,"issues":97,"repositories":69,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjE3ODAyMTc4","login":"gakonst","name":"Georgios Konstantopoulos","url":"https://github.com/gakonst","avatarUrl":"https://avatars.githubusercontent.com/u/17802178?s=80&v=4","followers":5691,"publicRepos":321,"location":"Thessaloniki, Greece","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":15794,"commits":12283,"pullRequests":3231,"reviews":114,"issues":97,"repositories":69,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "a4e380ef7b40959f",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "c3a12f45de60bc0e",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

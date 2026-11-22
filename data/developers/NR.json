@@ -5,12 +5,13 @@
 "country": {"code":"NR","name":"Nauru","slug":"nauru"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDOCTTLww","login":"01LuckyStrike10","name":"01LuckyStrike10","url":"https://github.com/01LuckyStrike10","avatarUrl":"https://avatars.githubusercontent.com/u/154454979?s=80&v=4","followers":0,"publicRepos":5,"location":"Nauru","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"U_kgDOCTTLww","login":"01LuckyStrike10","name":"01LuckyStrike10","url":"https://github.com/01LuckyStrike10","avatarUrl":"https://avatars.githubusercontent.com/u/154454979?s=80&v=4","followers":0,"publicRepos":5,"location":"Nauru","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"U_kgDOCu5nSg","login":"bonifacyfirefly","name":null,"url":"https://github.com/bonifacyfirefly","avatarUrl":"https://avatars.githubusercontent.com/u/183396170?s=80&v=4","followers":0,"publicRepos":3,"location":"Nauru (NR)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "6b981adbac5f9549",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "f47c064a06bf7ca0",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

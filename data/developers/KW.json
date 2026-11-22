@@ -5,12 +5,13 @@
 "country": {"code":"KW","name":"Kuwait","slug":"kuwait"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":3182,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjMyNzU4NDI2","login":"NYAN-x-CAT","name":"NYAN CAT","url":"https://github.com/NYAN-x-CAT","avatarUrl":"https://avatars.githubusercontent.com/u/32758426?s=80&v=4","followers":3182,"publicRepos":33,"location":"Kuwait","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"MDQ6VXNlcjMyNzU4NDI2","login":"NYAN-x-CAT","name":"NYAN CAT","url":"https://github.com/NYAN-x-CAT","avatarUrl":"https://avatars.githubusercontent.com/u/32758426?s=80&v=4","followers":3183,"publicRepos":33,"location":"Kuwait","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"U_kgDOB012WA","login":"002050","name":"Kiran poudyal","url":"https://github.com/002050","avatarUrl":"https://avatars.githubusercontent.com/u/122517080?s=80&v=4","followers":0,"publicRepos":1,"location":"Kuwait","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "54f1a32410b0219c",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "355b9cfd2eb4bb05",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

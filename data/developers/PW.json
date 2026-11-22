@@ -5,12 +5,13 @@
 "country": {"code":"PW","name":"Palau","slug":"palau"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDOCTITQQ","login":"1CherryCandy1","name":"1CherryCandy1","url":"https://github.com/1CherryCandy1","avatarUrl":"https://avatars.githubusercontent.com/u/154276673?s=80&v=4","followers":0,"publicRepos":5,"location":"Ngerulmud","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"MDQ6VXNlcjgwOTY4MDg=","login":"bcys","name":"Gaius bcys","url":"https://github.com/bcys","avatarUrl":"https://avatars.githubusercontent.com/u/8096808?s=80&v=4","followers":0,"publicRepos":14,"location":"Palau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"U_kgDOCTITQQ","login":"1CherryCandy1","name":"1CherryCandy1","url":"https://github.com/1CherryCandy1","avatarUrl":"https://avatars.githubusercontent.com/u/154276673?s=80&v=4","followers":0,"publicRepos":5,"location":"Ngerulmud","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "135c67c433e583c2",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "b8a8a3e37fe163dc",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

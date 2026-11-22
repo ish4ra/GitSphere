@@ -5,12 +5,14 @@
 "country": {"code":"AS","name":"American Samoa","slug":"american-samoa"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":25,"measuredAccounts":2,"measurementBacklog":23,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":34,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":25,"measuredAccounts":4,"measurementBacklog":21,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":34,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"U_kgDOCLFZ6g","login":"angelasmilford","name":"Angela S. Milford","url":"https://github.com/angelasmilford","avatarUrl":"https://avatars.githubusercontent.com/u/145840618?s=80&v=4","followers":0,"publicRepos":48,"location":"American Samoa","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":384,"commits":338,"pullRequests":8,"reviews":0,"issues":17,"repositories":21,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"U_kgDOCLFZ6g","login":"angelasmilford","name":"Angela S. Milford","url":"https://github.com/angelasmilford","avatarUrl":"https://avatars.githubusercontent.com/u/145840618?s=80&v=4","followers":0,"publicRepos":48,"location":"American Samoa","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":384,"commits":338,"pullRequests":8,"reviews":0,"issues":17,"repositories":21,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjI1ODEwMTY0","login":"ZengQT1125","name":"Ushek Salan","url":"https://github.com/ZengQT1125","avatarUrl":"https://avatars.githubusercontent.com/u/25810164?s=80&v=4","followers":0,"publicRepos":43,"location":"American Samoa","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":122,"commits":95,"pullRequests":0,"reviews":0,"issues":0,"repositories":27,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":3,"id":"MDQ6VXNlcjQ2MDU5Mjgz","login":"Canonball90","name":"CanonBall90","url":"https://github.com/Canonball90","avatarUrl":"https://avatars.githubusercontent.com/u/46059283?s=80&v=4","followers":11,"publicRepos":31,"location":"American Samoa","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":2,"commits":1,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "a043bec99c3ff2c8",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "98e1d0faff46cd49",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

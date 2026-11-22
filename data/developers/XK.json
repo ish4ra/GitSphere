@@ -5,12 +5,13 @@
 "country": {"code":"XK","name":"Kosovo","slug":"kosovo"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":8983,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":594,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjI1ODQyNjU1","login":"vjanz","name":"Valon Januzaj","url":"https://github.com/vjanz","avatarUrl":"https://avatars.githubusercontent.com/u/25842655?s=80&v=4","followers":8983,"publicRepos":20,"location":"Prishtina, Kosovo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"MDQ6VXNlcjI1ODQyNjU1","login":"vjanz","name":"Valon Januzaj","url":"https://github.com/vjanz","avatarUrl":"https://avatars.githubusercontent.com/u/25842655?s=80&v=4","followers":8983,"publicRepos":20,"location":"Prishtina, Kosovo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjE0MzExNzQz","login":"kujtimiihoxha","name":"Kujtim Hoxha","url":"https://github.com/kujtimiihoxha","avatarUrl":"https://avatars.githubusercontent.com/u/14311743?s=80&v=4","followers":594,"publicRepos":80,"location":"Prishtina, Kosovo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "f6894e0f12856155",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "d53c3e48c490b8a3",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/BO.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/BO.json">JSON</a> |
 
 </div>
 
@@ -35,6 +35,20 @@
 <td align="right">194</td>
 <td><sub>Cochabamba, Bolivia</sub></td>
 </tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/ospfranco"><img src="https://avatars.githubusercontent.com/u/1634213?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ospfranco"><b>Oscar Franco</b></a><br><sub>&#64;ospfranco</sub></td>
+<td align="right"><b>582</b></td>
+<td align="right">57</td>
+<td><sub>Bolivia</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/vitiko98"><img src="https://avatars.githubusercontent.com/u/59455966?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vitiko98"><b>Vitiko</b></a><br><sub>&#64;vitiko98</sub></td>
+<td align="right"><b>152</b></td>
+<td align="right">10</td>
+<td><sub>Bolivia</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -43,7 +57,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 1,402 followers.
+- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 152 followers.
 - **Location discovery:** term 0 of 125 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

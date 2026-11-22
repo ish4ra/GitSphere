@@ -5,12 +5,13 @@
 "country": {"code":"RE","name":"Réunion","slug":"reunion"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDOClwGaw","login":"440Steven","name":"Steven","url":"https://github.com/440Steven","avatarUrl":"https://avatars.githubusercontent.com/u/173803115?s=80&v=4","followers":0,"publicRepos":5,"location":"Réunion","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"U_kgDOClwGaw","login":"440Steven","name":"Steven","url":"https://github.com/440Steven","avatarUrl":"https://avatars.githubusercontent.com/u/173803115?s=80&v=4","followers":0,"publicRepos":5,"location":"Réunion","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"U_kgDODcQ1GQ","login":"777-fr","name":"Raphaël BAPTISTE","url":"https://github.com/777-fr","avatarUrl":"https://avatars.githubusercontent.com/u/230962457?s=80&v=4","followers":0,"publicRepos":1,"location":"La Réunion","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "abb0bede0e407e87",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "191c4760331ca9b5",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

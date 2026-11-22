@@ -5,7 +5,7 @@
 "country": {"code":"FJ","name":"Fiji","slug":"fiji"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":400,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":400,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":32,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjUxOTg2NjEz","login":"vikichand","name":"Vikash Chand","url":"https://github.com/vikichand","avatarUrl":"https://avatars.githubusercontent.com/u/51986613?s=80&v=4","followers":520,"publicRepos":29,"location":"Fiji","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"U_kgDODAQVQA","login":"aryann-7","name":"Aryan Singh","url":"https://github.com/aryann-7","avatarUrl":"https://avatars.githubusercontent.com/u/201594176?s=80&v=4","followers":76,"publicRepos":49,"location":"Suva, Fiji","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
@@ -408,8 +408,8 @@
   {"rank":399,"id":"U_kgDOE7pDJg","login":"jasper7kto5n0","name":"Barbara Lui","url":"https://github.com/jasper7kto5n0","avatarUrl":"https://avatars.githubusercontent.com/u/330973990?s=80&v=4","followers":0,"publicRepos":1,"location":"Suva, Fiji","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":400,"id":"U_kgDOBcTNbA","login":"user9996","name":"zhou_xuan","url":"https://github.com/user9996","avatarUrl":"https://avatars.githubusercontent.com/u/96783724?s=80&v=4","followers":0,"publicRepos":1,"location":"0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "b8888c140c5ef93b",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "957c804a2e601b46",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

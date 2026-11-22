@@ -5,12 +5,13 @@
 "country": {"code":"GD","name":"Grenada","slug":"grenada"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":70,"measuredAccounts":1,"measurementBacklog":69,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":96,"measuredAccounts":2,"measurementBacklog":94,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":15,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjY0ODMxNTc=","login":"kerrongordon","name":"kerron gordon","url":"https://github.com/kerrongordon","avatarUrl":"https://avatars.githubusercontent.com/u/6483157?s=80&v=4","followers":18,"publicRepos":120,"location":"Grenada","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":82,"commits":76,"pullRequests":0,"reviews":0,"issues":3,"repositories":3,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjY0ODMxNTc=","login":"kerrongordon","name":"kerron gordon","url":"https://github.com/kerrongordon","avatarUrl":"https://avatars.githubusercontent.com/u/6483157?s=80&v=4","followers":18,"publicRepos":120,"location":"Grenada","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":82,"commits":76,"pullRequests":0,"reviews":0,"issues":3,"repositories":3,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjQzNzUyMDk=","login":"bukosabino","name":"Darío López Padial","url":"https://github.com/bukosabino","avatarUrl":"https://avatars.githubusercontent.com/u/4375209?s=80&v=4","followers":680,"publicRepos":53,"location":"Granada","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-22","contributions":{"public":2,"commits":1,"pullRequests":1,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "d37ebfe563b18dc3",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "3c17023dc34f5910",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

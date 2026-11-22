@@ -5,14 +5,15 @@
 "country": {"code":"CR","name":"Costa Rica","slug":"costa-rica"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":1130,"candidates":3,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":773,"candidates":4,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":58,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjM0Mzg1MDM=","login":"Klerith","name":"Fernando Herrera","url":"https://github.com/Klerith","avatarUrl":"https://avatars.githubusercontent.com/u/3438503?s=80&v=4","followers":15634,"publicRepos":579,"location":"Costa Rica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"U_kgDOCxYo9w","login":"glittercowboy","name":"TÂCHES","url":"https://github.com/glittercowboy","avatarUrl":"https://avatars.githubusercontent.com/u/186001655?s=80&v=4","followers":1284,"publicRepos":28,"location":"Costa Rica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":3,"id":"U_kgDODKleEg","login":"miguelestradam3","name":"Miguel Estrada","url":"https://github.com/miguelestradam3","avatarUrl":"https://avatars.githubusercontent.com/u/212426258?s=80&v=4","followers":1130,"publicRepos":89,"location":"Costa Rica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":3,"id":"U_kgDODKleEg","login":"miguelestradam3","name":"Miguel Estrada","url":"https://github.com/miguelestradam3","avatarUrl":"https://avatars.githubusercontent.com/u/212426258?s=80&v=4","followers":1130,"publicRepos":89,"location":"Costa Rica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"MDQ6VXNlcjMwMTY0NDQ3","login":"jorneycr","name":"Jorney Lopez","url":"https://github.com/jorneycr","avatarUrl":"https://avatars.githubusercontent.com/u/30164447?s=80&v=4","followers":773,"publicRepos":110,"location":"Costa Rica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "2b738369a4cd6ca4",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "99b4f9bdb86f1727",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

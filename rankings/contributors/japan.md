@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/contributors/JP.json">JSON</a> |
+| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/JP.json">JSON</a> |
 
 </div>
 
@@ -25,12 +25,21 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><a href="https://github.com/mattn"><img src="https://avatars.githubusercontent.com/u/10111?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mattn"><b>mattn</b></a><br><sub>&#64;mattn · 13,531 followers</sub></td>
+<td><a href="https://github.com/mattn"><img src="https://avatars.githubusercontent.com/u/10111?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mattn"><b>mattn</b></a><br><sub>&#64;mattn · 13,533 followers</sub></td>
 <td align="right"><b>8,204</b></td>
 <td align="right">6,214</td>
 <td align="right">1,825</td>
 <td align="right">48</td>
 <td align="right">16</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/junkiyoshi"><img src="https://avatars.githubusercontent.com/u/16998543?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/junkiyoshi"><b>NAKAUCHI Kiyoshi</b></a><br><sub>&#64;junkiyoshi · 680 followers</sub></td>
+<td align="right"><b>370</b></td>
+<td align="right">368</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
 </tr>
 </tbody>
 </table>
@@ -39,7 +48,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 1 of 556 discovered developers (555 awaiting measurement).
+- **Measured:** 2 of 802 discovered developers (800 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

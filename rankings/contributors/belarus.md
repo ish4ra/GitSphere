@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/BY.json">JSON</a> |
+| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/contributors/BY.json">JSON</a> |
 
 </div>
 
@@ -25,6 +25,15 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/boykopovar"><img src="https://avatars.githubusercontent.com/u/184076081?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/boykopovar"><b>boykopovar</b></a><br><sub>&#64;boykopovar · 1,650 followers</sub></td>
+<td align="right"><b>2,342</b></td>
+<td align="right">2,244</td>
+<td align="right">65</td>
+<td align="right">10</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/BEPb"><img src="https://avatars.githubusercontent.com/u/57312267?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BEPb"><b>Andrej Marinchenko</b></a><br><sub>&#64;BEPb · 28,618 followers</sub></td>
 <td align="right"><b>363</b></td>
 <td align="right">363</td>
@@ -33,7 +42,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">3</td>
 <td><a href="https://github.com/YauhenKavalchuk"><img src="https://avatars.githubusercontent.com/u/13219936?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YauhenKavalchuk"><b>Yauhen Kavalchuk</b></a><br><sub>&#64;YauhenKavalchuk · 1,930 followers</sub></td>
 <td align="right"><b>249</b></td>
 <td align="right">248</td>
@@ -48,7 +57,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 2 of 400 discovered developers (398 awaiting measurement).
+- **Measured:** 4 of 403 discovered developers (399 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 159 in round 1.

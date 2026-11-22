@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"GH","name":"Ghana","slug":"ghana"},
-"count": 150,
+"count": 149,
 "repositories": [
-  {"name":"emonney/QuickApp","stars":1352,"forks":623,"language":"TypeScript","license":"MIT","archived":false,"createdAt":"2017-02-23T23:22:36Z","pushedAt":"2026-09-01T00:54:46Z","owner":{"login":"emonney","type":"User","name":"Ebenezer Monney","location":"Ghana"},"attribution":{"code":"GH","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T23:48:11.009Z","id":"legacy:emonney/quickapp","legacy":true},
   {"name":"kossisoroyce/timber","stars":689,"forks":23,"language":"Python","license":"NOASSERTION","archived":false,"createdAt":"2026-02-27T23:27:36Z","pushedAt":"2026-04-16T16:38:25Z","owner":{"login":"kossisoroyce","type":"User","name":"Kossiso Udodi","location":"Accra"},"attribution":{"code":"GH","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-16T23:48:11.009Z","id":"legacy:kossisoroyce/timber","legacy":true},
   {"name":"akornor/playlistor","stars":677,"forks":50,"language":"Python","license":"MIT","archived":false,"createdAt":"2018-12-15T17:30:44Z","pushedAt":"2026-08-07T12:35:39Z","owner":{"login":"akornor","type":"User","name":"Raymond Akornor","location":"Accra, Ghana"},"attribution":{"code":"GH","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-16T23:48:11.009Z","id":"legacy:akornor/playlistor","legacy":true},
   {"name":"blackmann/story_view","stars":471,"forks":395,"language":"Dart","license":"BSD-3-Clause","archived":false,"createdAt":"2019-06-22T13:50:16Z","pushedAt":"2025-06-28T13:15:26Z","owner":{"login":"blackmann","type":"User","name":"Degreat","location":"Ghana"},"attribution":{"code":"GH","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T23:48:11.009Z","id":"legacy:blackmann/story_view","legacy":true},

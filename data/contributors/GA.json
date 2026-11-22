@@ -5,12 +5,13 @@
 "country": {"code":"GA","name":"Gabon","slug":"gabon"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":267,"measuredAccounts":1,"measurementBacklog":266,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":332,"measuredAccounts":2,"measurementBacklog":330,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":45,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"U_kgDOCxkqLg","login":"Crazynotdev","name":"ZynXx","url":"https://github.com/Crazynotdev","avatarUrl":"https://avatars.githubusercontent.com/u/186198574?s=80&v=4","followers":16,"publicRepos":147,"location":"Gabon","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":880,"commits":817,"pullRequests":4,"reviews":0,"issues":0,"repositories":59,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"U_kgDOCxkqLg","login":"Crazynotdev","name":"ZynXx","url":"https://github.com/Crazynotdev","avatarUrl":"https://avatars.githubusercontent.com/u/186198574?s=80&v=4","followers":16,"publicRepos":147,"location":"Gabon","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":880,"commits":817,"pullRequests":4,"reviews":0,"issues":0,"repositories":59,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjExMzY1NjM2","login":"stoneC0der","name":"Cedric Megnie N.","url":"https://github.com/stoneC0der","avatarUrl":"https://avatars.githubusercontent.com/u/11365636?s=80&v=4","followers":33,"publicRepos":137,"location":"Libreville/Gabon","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":4,"commits":2,"pullRequests":0,"reviews":0,"issues":1,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "504ebf9a0f9dbcaf",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "83acb71b0226f9c5",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"MM","name":"Myanmar (Burma)","slug":"myanmar-burma"},
-"count": 150,
+"count": 148,
 "repositories": [
-  {"name":"KhunHtetzNaing/ADB-OTG","stars":986,"forks":414,"language":"Java","archived":false,"createdAt":"2020-07-26T10:37:51Z","pushedAt":"2024-05-16T07:33:26Z","owner":{"login":"KhunHtetzNaing","type":"User","name":"Khun Htetz Naing","location":"HsiHseng, Myanmar"},"attribution":{"code":"MM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-15T22:12:18.377Z","id":"legacy:khunhtetznaing/adb-otg","legacy":true},
-  {"name":"netgoat-xyz/netgoat","stars":903,"forks":50,"language":"Go","license":"AGPL-3.0","archived":false,"createdAt":"2025-07-01T02:02:32Z","pushedAt":"2026-09-04T20:30:18Z","owner":{"login":"netgoat-xyz","type":"Organization","name":"netgoat.xyz","location":"Myanmar"},"attribution":{"code":"MM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-15T22:12:18.377Z","id":"legacy:netgoat-xyz/netgoat","legacy":true},
   {"name":"ronaldaug/gramateria","stars":679,"forks":197,"language":"JavaScript","license":"MIT","archived":true,"createdAt":"2017-10-23T09:31:48Z","pushedAt":"2023-03-01T15:38:39Z","owner":{"login":"ronaldaug","type":"User","name":"Ronald","location":"Taunggyi, Myanmar"},"attribution":{"code":"MM","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-15T22:12:18.377Z","id":"legacy:ronaldaug/gramateria","legacy":true},
   {"name":"sailay1996/UAC_Bypass_In_The_Wild","stars":635,"forks":108,"language":"C","archived":false,"createdAt":"2019-12-08T11:22:28Z","pushedAt":"2019-12-09T09:18:16Z","owner":{"login":"sailay1996","type":"User","name":"valen","location":"Myanmar"},"attribution":{"code":"MM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-15T22:12:18.377Z","id":"legacy:sailay1996/uac_bypass_in_the_wild","legacy":true},
   {"name":"sailay1996/awesome_windows_logical_bugs","stars":601,"forks":78,"language":"VBScript","archived":false,"createdAt":"2020-01-27T04:34:58Z","pushedAt":"2026-07-15T10:43:10Z","owner":{"login":"sailay1996","type":"User","name":"valen","location":"Myanmar"},"attribution":{"code":"MM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-15T22:12:18.377Z","id":"legacy:sailay1996/awesome_windows_logical_bugs","legacy":true},

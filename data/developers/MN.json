@@ -5,12 +5,13 @@
 "country": {"code":"MN","name":"Mongolia","slug":"mongolia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":1661,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":1,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjkyNTcyMjc=","login":"tortuvshin","name":"Turtuvshin Byambaa","url":"https://github.com/tortuvshin","avatarUrl":"https://avatars.githubusercontent.com/u/9257227?s=80&v=4","followers":1661,"publicRepos":49,"location":"Mongolia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"MDQ6VXNlcjkyNTcyMjc=","login":"tortuvshin","name":"Turtuvshin Byambaa","url":"https://github.com/tortuvshin","avatarUrl":"https://avatars.githubusercontent.com/u/9257227?s=80&v=4","followers":1661,"publicRepos":49,"location":"Mongolia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"U_kgDOCjl4pA","login":"0Orchlon","name":"Orchlon","url":"https://github.com/0Orchlon","avatarUrl":"https://avatars.githubusercontent.com/u/171538596?s=80&v=4","followers":1,"publicRepos":15,"location":"Mongolia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "b155492f05d09644",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "1f5e32c4791e195d",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

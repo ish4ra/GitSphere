@@ -5,13 +5,15 @@
 "country": {"code":"AU","name":"Australia","slug":"australia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":494,"measuredAccounts":2,"measurementBacklog":492,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":124,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":664,"measuredAccounts":4,"measurementBacklog":660,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":124,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjEyNzM1Mw==","login":"ghuntley","name":"Geoffrey Huntley","url":"https://github.com/ghuntley","avatarUrl":"https://avatars.githubusercontent.com/u/127353?s=80&v=4","followers":3043,"publicRepos":827,"location":"Kangaroo Island, Australia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":3453,"commits":3382,"pullRequests":12,"reviews":1,"issues":1,"repositories":54,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":2,"id":"MDQ6VXNlcjI4OTk5NA==","login":"johndpope","name":"John D. Pope","url":"https://github.com/johndpope","avatarUrl":"https://avatars.githubusercontent.com/u/289994?s=80&v=4","followers":1336,"publicRepos":9680,"location":"Castle Hill, Sydney","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-22","contributions":{"public":842,"commits":563,"pullRequests":73,"reviews":1,"issues":100,"repositories":100,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":2,"id":"MDQ6VXNlcjI4OTk5NA==","login":"johndpope","name":"John D. Pope","url":"https://github.com/johndpope","avatarUrl":"https://avatars.githubusercontent.com/u/289994?s=80&v=4","followers":1336,"publicRepos":9680,"location":"Castle Hill, Sydney","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-22","contributions":{"public":842,"commits":563,"pullRequests":73,"reviews":1,"issues":100,"repositories":100,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":3,"id":"MDQ6VXNlcjE1MDky","login":"jayvdb","name":"John Vandenberg","url":"https://github.com/jayvdb","avatarUrl":"https://avatars.githubusercontent.com/u/15092?s=80&v=4","followers":603,"publicRepos":1690,"location":"Australia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":701,"commits":286,"pullRequests":298,"reviews":40,"issues":43,"repositories":33,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":4,"id":"MDQ6VXNlcjEwOA==","login":"drnic","name":"Dr Nic Williams","url":"https://github.com/drnic","avatarUrl":"https://avatars.githubusercontent.com/u/108?s=80&v=4","followers":1855,"publicRepos":699,"location":"Brisbane, Australia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":72,"commits":42,"pullRequests":13,"reviews":0,"issues":6,"repositories":11,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "548804ca202998b0",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "7d9c995170dcd04d",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

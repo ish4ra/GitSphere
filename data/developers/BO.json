@@ -5,13 +5,15 @@
 "country": {"code":"BO","name":"Bolivia","slug":"bolivia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":1402,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":125,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":152,"candidates":4,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":125,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"U_kgDOBdPFvg","login":"Frosmin","name":"Simon Abasto Martinis","url":"https://github.com/Frosmin","avatarUrl":"https://avatars.githubusercontent.com/u/97764798?s=80&v=4","followers":2478,"publicRepos":110,"location":"Bolivia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"MDQ6VXNlcjc2MTE5NDQ=","login":"nicobytes","name":"Nicolas Molina Monroy","url":"https://github.com/nicobytes","avatarUrl":"https://avatars.githubusercontent.com/u/7611944?s=80&v=4","followers":1402,"publicRepos":194,"location":"Cochabamba, Bolivia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+  {"rank":2,"id":"MDQ6VXNlcjc2MTE5NDQ=","login":"nicobytes","name":"Nicolas Molina Monroy","url":"https://github.com/nicobytes","avatarUrl":"https://avatars.githubusercontent.com/u/7611944?s=80&v=4","followers":1402,"publicRepos":194,"location":"Cochabamba, Bolivia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjE2MzQyMTM=","login":"ospfranco","name":"Oscar Franco","url":"https://github.com/ospfranco","avatarUrl":"https://avatars.githubusercontent.com/u/1634213?s=80&v=4","followers":582,"publicRepos":57,"location":"Bolivia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"MDQ6VXNlcjU5NDU1OTY2","login":"vitiko98","name":"Vitiko","url":"https://github.com/vitiko98","avatarUrl":"https://avatars.githubusercontent.com/u/59455966?s=80&v=4","followers":152,"publicRepos":10,"location":"Bolivia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "9d1b057bd8316602",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "2380db60eab66765",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

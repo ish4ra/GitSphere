@@ -5,12 +5,13 @@
 "country": {"code":"SC","name":"Seychelles","slug":"seychelles"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":25,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjgyOTYyODcz","login":"0xMasayoshi","name":"Masayoshi","url":"https://github.com/0xMasayoshi","avatarUrl":"https://avatars.githubusercontent.com/u/82962873?s=80&v=4","followers":25,"publicRepos":48,"location":"Seychelles","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"MDQ6VXNlcjgyOTYyODcz","login":"0xMasayoshi","name":"Masayoshi","url":"https://github.com/0xMasayoshi","avatarUrl":"https://avatars.githubusercontent.com/u/82962873?s=80&v=4","followers":25,"publicRepos":48,"location":"Seychelles","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"U_kgDOD68qJg","login":"airseychellesroblox","name":"Air Seychelles Roblox","url":"https://github.com/airseychellesroblox","avatarUrl":"https://avatars.githubusercontent.com/u/263137830?s=80&v=4","followers":0,"publicRepos":1,"location":"Victoria, Seychelles","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "f0beb55540377757",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "fa51c2f39ec7c9cd",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

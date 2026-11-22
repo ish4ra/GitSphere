@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/BO.json">JSON</a> |
+| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/contributors/BO.json">JSON</a> |
 
 </div>
 
@@ -34,6 +34,15 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/ospfranco"><img src="https://avatars.githubusercontent.com/u/1634213?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ospfranco"><b>Oscar Franco</b></a><br><sub>&#64;ospfranco · 582 followers</sub></td>
+<td align="right"><b>778</b></td>
+<td align="right">653</td>
+<td align="right">95</td>
+<td align="right">7</td>
+<td align="right">14</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/Frosmin"><img src="https://avatars.githubusercontent.com/u/97764798?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Frosmin"><b>Simon Abasto Martinis</b></a><br><sub>&#64;Frosmin · 2,478 followers</sub></td>
 <td align="right"><b>732</b></td>
 <td align="right">655</td>
@@ -48,7 +57,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 2 of 400 discovered developers (398 awaiting measurement).
+- **Measured:** 4 of 400 discovered developers (396 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 125 in round 1.

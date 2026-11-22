@@ -5,13 +5,15 @@
 "country": {"code":"BE","name":"Belgium","slug":"belgium"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":408,"measuredAccounts":2,"measurementBacklog":406,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":151,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":429,"measuredAccounts":4,"measurementBacklog":425,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":151,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjQ4MzI3MDAx","login":"NielsRogge","name":null,"url":"https://github.com/NielsRogge","avatarUrl":"https://avatars.githubusercontent.com/u/48327001?s=80&v=4","followers":4760,"publicRepos":278,"location":"Belgium","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":14137,"commits":3018,"pullRequests":1229,"reviews":10,"issues":9848,"repositories":29,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":2,"id":"MDQ6VXNlcjEwNTk0ODA2","login":"erikdubois","name":"Erik Dubois","url":"https://github.com/erikdubois","avatarUrl":"https://avatars.githubusercontent.com/u/10594806?s=80&v=4","followers":1203,"publicRepos":396,"location":"Belgium","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":5821,"commits":5713,"pullRequests":0,"reviews":0,"issues":5,"repositories":101,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":2,"id":"MDQ6VXNlcjE3MTI1ODc2","login":"JoviDeCroock","name":"Jovi De Croock","url":"https://github.com/JoviDeCroock","avatarUrl":"https://avatars.githubusercontent.com/u/17125876?s=80&v=4","followers":782,"publicRepos":304,"location":"Belgium","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":9704,"commits":7122,"pullRequests":1997,"reviews":339,"issues":191,"repositories":51,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":3,"id":"MDQ6VXNlcjEwNTk0ODA2","login":"erikdubois","name":"Erik Dubois","url":"https://github.com/erikdubois","avatarUrl":"https://avatars.githubusercontent.com/u/10594806?s=80&v=4","followers":1203,"publicRepos":396,"location":"Belgium","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":5821,"commits":5713,"pullRequests":0,"reviews":0,"issues":5,"repositories":101,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":4,"id":"MDQ6VXNlcjEzMTAzMTY1","login":"radu-matei","name":"Radu Matei","url":"https://github.com/radu-matei","avatarUrl":"https://avatars.githubusercontent.com/u/13103165?s=80&v=4","followers":633,"publicRepos":374,"location":"Ghent, Belgium","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":220,"commits":128,"pullRequests":16,"reviews":50,"issues":9,"repositories":16,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "3d687bddff1fa61c",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "636a2a02c8d417a3",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

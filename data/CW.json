@@ -5,7 +5,7 @@
 "country": {"code":"CW","name":"Curaçao","slug":"curacao"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":71,"ownerExpansionBacklog":71,"candidates":71,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":71,"ownerExpansionBacklog":76,"candidates":71,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":16,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"AnimDessin2","nameWithOwner":"schroef/AnimDessin2","url":"https://github.com/schroef/AnimDessin2","description":null,"stars":106,"forks":26,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2020-04-06T16:39:43Z","pushedAt":"2023-11-23T14:21:25Z","archived":false,"owner":{"login":"schroef","name":null,"type":"User","url":"https://github.com/schroef","location":"Curaçao, Dutch Caribbean","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"SpreadPaper","nameWithOwner":"spreadpaper/SpreadPaper","url":"https://github.com/spreadpaper/SpreadPaper","description":null,"stars":101,"forks":8,"primaryLanguage":"Swift","license":{"spdxId":"MIT"},"createdAt":"2025-11-22T02:12:14Z","pushedAt":"2026-09-14T20:29:03Z","archived":false,"owner":{"login":"spreadpaper","name":"SpreadPaper","type":"Organization","url":"https://github.com/spreadpaper","location":"Curaçao","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
@@ -79,8 +79,8 @@
   {"rank":70,"id":null,"name":"Chuchubi-festivo","nameWithOwner":"Tigerannaid/Chuchubi-festivo","url":"https://github.com/Tigerannaid/Chuchubi-festivo","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2015-12-07T19:10:37Z","pushedAt":"2015-12-07T19:10:38Z","archived":false,"owner":{"login":"Tigerannaid","name":"Dianne Luyando","type":"User","url":"https://github.com/Tigerannaid","location":"Curaçao","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
   {"rank":71,"id":null,"name":"vertai-token","nameWithOwner":"VerticalStudio-ai/vertai-token","url":"https://github.com/VerticalStudio-ai/vertai-token","description":null,"stars":0,"forks":0,"primaryLanguage":"Solidity","license":null,"createdAt":"2025-03-20T14:28:21Z","pushedAt":"2025-03-20T14:33:14Z","archived":false,"owner":{"login":"VerticalStudio-ai","name":"Vertical AI","type":"Organization","url":"https://github.com/VerticalStudio-ai","location":"Curaçao","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true}
 ],
-"contentHash": "bc0e13523c413929",
-"updatedAt": "2026-11-22T08:41:14.246Z",
+"contentHash": "fa6498ead575d43b",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-10-25",
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

@@ -5,14 +5,15 @@
 "country": {"code":"CM","name":"Cameroon","slug":"cameroon"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":1192,"candidates":3,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":699,"candidates":4,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":115,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDOCsl9RA","login":"JOELNATHAN544","name":"Joel Nathan Wanko","url":"https://github.com/JOELNATHAN544","avatarUrl":"https://avatars.githubusercontent.com/u/180976964?s=80&v=4","followers":1372,"publicRepos":46,"location":"Cameroon, Bangangté","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":1,"id":"U_kgDOCsl9RA","login":"JOELNATHAN544","name":"Joel Nathan Wanko","url":"https://github.com/JOELNATHAN544","avatarUrl":"https://avatars.githubusercontent.com/u/180976964?s=80&v=4","followers":1371,"publicRepos":46,"location":"Cameroon, Bangangté","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjYyMjY5Njkz","login":"ln-dev7","name":"LN","url":"https://github.com/ln-dev7","avatarUrl":"https://avatars.githubusercontent.com/u/62269693?s=80&v=4","followers":1257,"publicRepos":280,"location":"Cameroon","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":3,"id":"MDQ6VXNlcjMxNDgzMTk=","login":"elliottminns","name":"Elliott Minns","url":"https://github.com/elliottminns","avatarUrl":"https://avatars.githubusercontent.com/u/3148319?s=80&v=4","followers":1192,"publicRepos":134,"location":"About","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"}
+  {"rank":3,"id":"MDQ6VXNlcjMxNDgzMTk=","login":"elliottminns","name":"Elliott Minns","url":"https://github.com/elliottminns","avatarUrl":"https://avatars.githubusercontent.com/u/3148319?s=80&v=4","followers":1192,"publicRepos":134,"location":"About","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"U_kgDOCsl80Q","login":"chojuninengu","name":"JU-NINE NGU CHO","url":"https://github.com/chojuninengu","avatarUrl":"https://avatars.githubusercontent.com/u/180976849?s=80&v=4","followers":699,"publicRepos":129,"location":"Cameroon","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "378fb35cdf554eb6",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "9c40d36cdf872fc3",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

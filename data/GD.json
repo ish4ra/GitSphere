@@ -5,7 +5,7 @@
 "country": {"code":"GD","name":"Grenada","slug":"grenada"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":73,"ownerExpansionBacklog":73,"candidates":75,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":73,"ownerExpansionBacklog":73,"candidates":75,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":15,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk0OTYxMDc5OA==","name":"TelegramBots","nameWithOwner":"rubenlagus/TelegramBots","url":"https://github.com/rubenlagus/TelegramBots","description":"Java library to create bots using Telegram Bots API","stars":5561,"forks":1365,"primaryLanguage":"Java","license":{"spdxId":"MIT"},"createdAt":"2016-01-14T00:13:07Z","pushedAt":"2026-11-17T23:24:12Z","archived":false,"owner":{"login":"rubenlagus","name":"Ruben Bermudez","type":"User","url":"https://github.com/rubenlagus","location":"Granada","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkxMTYwNDMyMDY=","name":"ta","nameWithOwner":"bukosabino/ta","url":"https://github.com/bukosabino/ta","description":"Technical Analysis Library using Pandas and Numpy","stars":5259,"forks":1160,"primaryLanguage":"Jupyter Notebook","license":{"spdxId":"MIT"},"createdAt":"2018-01-02T18:08:48Z","pushedAt":"2026-03-18T13:04:55Z","archived":false,"owner":{"login":"bukosabino","name":"Darío López Padial","type":"User","url":"https://github.com/bukosabino","location":"Granada","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-22"},
@@ -83,8 +83,8 @@
   {"rank":74,"id":null,"name":"Prexo","nameWithOwner":"ZackLuvsDiscord/Prexo","url":"https://github.com/ZackLuvsDiscord/Prexo","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2016-12-20T17:48:48Z","pushedAt":"2016-12-20T17:48:48Z","archived":false,"owner":{"login":"ZackLuvsDiscord","name":null,"type":"User","url":"https://github.com/ZackLuvsDiscord","location":"Grenada","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
   {"rank":75,"id":null,"name":"eBird-data-analysis","nameWithOwner":"Zoya-B/eBird-data-analysis","url":"https://github.com/Zoya-B/eBird-data-analysis","description":null,"stars":0,"forks":0,"primaryLanguage":"R","license":null,"createdAt":"2020-10-29T15:54:52Z","pushedAt":"2020-12-07T00:36:30Z","archived":false,"owner":{"login":"Zoya-B","name":"Zoya B","type":"User","url":"https://github.com/Zoya-B","location":"St. George's, Grenada","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-25","pendingRevalidation":true}
 ],
-"contentHash": "48c37d27ede40b65",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "4f3bd9b31a933952",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-10-25",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

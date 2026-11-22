@@ -5,12 +5,14 @@
 "country": {"code":"ET","name":"Ethiopia","slug":"ethiopia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":405,"measuredAccounts":1,"measurementBacklog":404,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":407,"measuredAccounts":3,"measurementBacklog":404,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":142,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjUzODA5NjU2","login":"frectonz","name":"Fraol Lemecha","url":"https://github.com/frectonz","avatarUrl":"https://avatars.githubusercontent.com/u/53809656?s=80&v=4","followers":679,"publicRepos":207,"location":"Ethiopia, Addis Abeba","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":1619,"commits":1554,"pullRequests":21,"reviews":11,"issues":7,"repositories":25,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjUzODA5NjU2","login":"frectonz","name":"Fraol Lemecha","url":"https://github.com/frectonz","avatarUrl":"https://avatars.githubusercontent.com/u/53809656?s=80&v=4","followers":679,"publicRepos":207,"location":"Ethiopia, Addis Abeba","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":1619,"commits":1554,"pullRequests":21,"reviews":11,"issues":7,"repositories":25,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjQ0ODE5MTc2","login":"dagmawibabi","name":"Dagmawi Babi","url":"https://github.com/dagmawibabi","avatarUrl":"https://avatars.githubusercontent.com/u/44819176?s=80&v=4","followers":794,"publicRepos":149,"location":"Addis Ababa, Ethiopia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":486,"commits":439,"pullRequests":18,"reviews":0,"issues":0,"repositories":29,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":3,"id":"U_kgDOCNBdnw","login":"getahunabr","name":"Getahun Lakachew","url":"https://github.com/getahunabr","avatarUrl":"https://avatars.githubusercontent.com/u/147873183?s=80&v=4","followers":250,"publicRepos":121,"location":"Ethiopia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":45,"commits":27,"pullRequests":9,"reviews":0,"issues":0,"repositories":9,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "1997524ed3702542",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "c04a821871497156",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

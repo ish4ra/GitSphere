@@ -5,12 +5,13 @@
 "country": {"code":"TH","name":"Thailand","slug":"thailand"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":407,"measuredAccounts":1,"measurementBacklog":406,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":419,"measuredAccounts":2,"measurementBacklog":417,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjE5MzEzNg==","login":"dtinth","name":"Thai Pangsakulyanont","url":"https://github.com/dtinth","avatarUrl":"https://avatars.githubusercontent.com/u/193136?s=80&v=4","followers":2159,"publicRepos":912,"location":"Krungthepmahanakhonamonrattanakosinmahintharayutthayamahadilokphopnoppharatratchathaniburiromudomratchaniwetmahasathana…","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":3767,"commits":3357,"pullRequests":177,"reviews":62,"issues":88,"repositories":80,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjE5MzEzNg==","login":"dtinth","name":"Thai Pangsakulyanont","url":"https://github.com/dtinth","avatarUrl":"https://avatars.githubusercontent.com/u/193136?s=80&v=4","followers":2159,"publicRepos":912,"location":"Krungthepmahanakhonamonrattanakosinmahintharayutthayamahadilokphopnoppharatratchathaniburiromudomratchaniwetmahasathana…","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":3767,"commits":3357,"pullRequests":177,"reviews":62,"issues":88,"repositories":80,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjI1MTEz","login":"up1","name":"Somkiat Puisungnoen","url":"https://github.com/up1","avatarUrl":"https://avatars.githubusercontent.com/u/25113?s=80&v=4","followers":958,"publicRepos":2871,"location":"Bangkok, Thailand","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":1729,"commits":1623,"pullRequests":5,"reviews":0,"issues":1,"repositories":100,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "fd0c861c6db0a903",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "1dd7add25b50486c",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

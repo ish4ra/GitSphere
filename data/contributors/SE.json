@@ -5,12 +5,13 @@
 "country": {"code":"SE","name":"Sweden","slug":"sweden"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":439,"measuredAccounts":1,"measurementBacklog":438,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":547,"measuredAccounts":2,"measurementBacklog":545,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjE4OTU4MA==","login":"LinusU","name":"Linus Unnebäck","url":"https://github.com/LinusU","avatarUrl":"https://avatars.githubusercontent.com/u/189580?s=80&v=4","followers":1065,"publicRepos":911,"location":"Stockholm, Sweden","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":7185,"commits":7121,"pullRequests":31,"reviews":4,"issues":7,"repositories":20,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjE4OTU4MA==","login":"LinusU","name":"Linus Unnebäck","url":"https://github.com/LinusU","avatarUrl":"https://avatars.githubusercontent.com/u/189580?s=80&v=4","followers":1065,"publicRepos":911,"location":"Stockholm, Sweden","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":7185,"commits":7121,"pullRequests":31,"reviews":4,"issues":7,"repositories":20,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjEyNzUyMDY=","login":"Nyholm","name":"Tobias Nyholm","url":"https://github.com/Nyholm","avatarUrl":"https://avatars.githubusercontent.com/u/1275206?s=80&v=4","followers":1344,"publicRepos":719,"location":"Stockholm","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-22","contributions":{"public":360,"commits":172,"pullRequests":81,"reviews":89,"issues":5,"repositories":13,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "856f89e579dc2496",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "7b50b1376642fdea",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

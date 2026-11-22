@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"CR","name":"Costa Rica","slug":"costa-rica"},
-"count": 149,
+"count": 147,
 "repositories": [
-  {"name":"Jeffser/Alpaca","stars":1645,"forks":147,"language":"Python","license":"GPL-3.0","archived":false,"createdAt":"2024-05-11T02:18:24Z","pushedAt":"2026-10-02T22:18:33Z","owner":{"login":"Jeffser","type":"User","name":"Jeffry Samuel","location":"Costa Rica"},"attribution":{"code":"CR","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:53:53.330Z","id":"legacy:jeffser/alpaca","legacy":true},
-  {"name":"scallyw4g/bonsai","stars":1449,"forks":43,"language":"C","license":"WTFPL","archived":false,"createdAt":"2016-11-26T00:55:02Z","pushedAt":"2026-10-01T19:58:48Z","owner":{"login":"scallyw4g","type":"User","name":"Jesse Hughes","location":"Playa Avellanas, Costa Rica"},"attribution":{"code":"CR","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:53:53.330Z","id":"legacy:scallyw4g/bonsai","legacy":true},
   {"name":"Klerith/mas-talento","stars":718,"forks":191,"language":"JavaScript","archived":false,"createdAt":"2023-07-12T17:34:37Z","pushedAt":"2026-09-09T14:00:09Z","owner":{"login":"Klerith","type":"User","name":"Fernando Herrera","location":"Costa Rica"},"attribution":{"code":"CR","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:53:53.330Z","id":"legacy:klerith/mas-talento","legacy":true},
   {"name":"labexp/osmtracker-android","stars":563,"forks":255,"language":"Java","license":"GPL-3.0","archived":false,"createdAt":"2011-09-08T11:36:33Z","pushedAt":"2026-10-09T16:01:29Z","owner":{"login":"labexp","type":"Organization","name":"Laboratorio Experimental (ITCR @ SIUA)","location":"Alajuela"},"attribution":{"code":"CR","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-16T21:29:26.462Z","id":"legacy:labexp/osmtracker-android","legacy":true},
   {"name":"tito/2048","stars":473,"forks":199,"language":"Java","archived":true,"createdAt":"2014-03-14T16:19:03Z","pushedAt":"2017-05-03T12:52:52Z","owner":{"login":"tito","type":"User","name":"Mathieu Virbel","location":"Costa Rica"},"attribution":{"code":"CR","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:53:53.330Z","id":"legacy:tito/2048","legacy":true},

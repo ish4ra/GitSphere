@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **100** | 03 Nov 2026 | <a href="../data/SE.json">JSON</a> |
-
-> **Not yet re-verified.** 5 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/SE.json">JSON</a> |
 
 </div>
 
@@ -690,38 +688,38 @@
 </tr>
 <tr>
 <td align="right">96</td>
-<td><img src="https://github.com/fornwall.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fornwall/rust-script"><b>fornwall/rust-script</b></a></td>
-<td align="right"><b>1,660</b></td>
-<td align="right">55</td>
-<td>Rust</td>
-</tr>
-<tr>
-<td align="right">97</td>
-<td><img src="https://github.com/kevva.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kevva/download"><b>kevva/download</b></a></td>
-<td align="right"><b>1,298</b></td>
-<td align="right">201</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">98</td>
-<td><img src="https://github.com/juliusmarminge.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/juliusmarminge/acme-corp"><b>juliusmarminge/acme-corp</b></a></td>
-<td align="right"><b>1,173</b></td>
-<td align="right">55</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">99</td>
-<td><img src="https://github.com/Dinnerbone.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Dinnerbone/mcstatus"><b>Dinnerbone/mcstatus</b></a></td>
-<td align="right"><b>1,094</b></td>
-<td align="right">137</td>
+<td><img src="https://github.com/grananqvist.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading"><b>grananqvist/Awesome-Quant-Machine-Learning-Trading</b></a><br><sub>Quant/Algorithm trading resources with an emphasis on Machine Learning</sub></td>
+<td align="right"><b>4,153</b></td>
+<td align="right">708</td>
 <td>—</td>
 </tr>
 <tr>
+<td align="right">97</td>
+<td><img src="https://github.com/xacrimon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xacrimon/dashmap"><b>xacrimon/dashmap</b></a><br><sub>Blazing fast concurrent HashMap for Rust.</sub></td>
+<td align="right"><b>4,141</b></td>
+<td align="right">194</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/happi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/happi/theBeamBook"><b>happi/theBeamBook</b></a><br><sub>A description of the Erlang Runtime System ERTS and the virtual Machine BEAM.</sub></td>
+<td align="right"><b>4,114</b></td>
+<td align="right">267</td>
+<td>Erlang</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/alex-shpak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alex-shpak/hugo-book"><b>alex-shpak/hugo-book</b></a><br><sub>Hugo documentation theme as simple as plain book</sub></td>
+<td align="right"><b>4,108</b></td>
+<td align="right">1,307</td>
+<td>CSS</td>
+</tr>
+<tr>
 <td align="right">100</td>
-<td><img src="https://github.com/sonyxperiadev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sonyxperiadev/ApkAnalyser"><b>sonyxperiadev/ApkAnalyser</b></a> <sub>archived</sub></td>
-<td align="right"><b>1,048</b></td>
-<td align="right">253</td>
-<td>Java</td>
+<td><img src="https://github.com/tulios.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tulios/kafkajs"><b>tulios/kafkajs</b></a><br><sub>A modern Apache Kafka client for node.js</sub></td>
+<td align="right"><b>3,996</b></td>
+<td align="right">606</td>
+<td>JavaScript</td>
 </tr>
 </tbody>
 </table>
@@ -729,11 +727,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 1,048 stars; 113 attributed candidates are tracked.
-- 5 entries were carried over from the previous dataset and are pending revalidation.
-- 136 multi-repository owners are queued for expansion.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 3,996 stars; 150 attributed candidates are tracked.
+- 131 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

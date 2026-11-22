@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/BN.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/BN.json">JSON</a> |
 
 </div>
 
@@ -25,6 +25,15 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/Qoyyuum"><img src="https://avatars.githubusercontent.com/u/971309?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Qoyyuum"><b>Abdul Qoyyuum</b></a><br><sub>&#64;Qoyyuum · 53 followers</sub></td>
+<td align="right"><b>339</b></td>
+<td align="right">250</td>
+<td align="right">36</td>
+<td align="right">4</td>
+<td align="right">26</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/bumplzz69"><img src="https://avatars.githubusercontent.com/u/12493098?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bumplzz69"><b>Eddie</b></a><br><sub>&#64;bumplzz69 · 5 followers</sub></td>
 <td align="right"><b>301</b></td>
 <td align="right">0</td>
@@ -33,7 +42,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
+<td align="right">3</td>
+<td><a href="https://github.com/syahnur197"><img src="https://avatars.githubusercontent.com/u/18722385?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/syahnur197"><b>Syahnur Nizam</b></a><br><sub>&#64;syahnur197 · 16 followers</sub></td>
+<td align="right"><b>110</b></td>
+<td align="right">89</td>
+<td align="right">10</td>
+<td align="right">0</td>
 <td align="right">2</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/thewheat"><img src="https://avatars.githubusercontent.com/u/892961?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thewheat"><b>Timothy Lim</b></a><br><sub>&#64;thewheat · 47 followers</sub></td>
 <td align="right"><b>88</b></td>
 <td align="right">39</td>
@@ -48,7 +66,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 2 of 325 discovered developers (323 awaiting measurement).
+- **Measured:** 4 of 325 discovered developers (321 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 47 in round 1.

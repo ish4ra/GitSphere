@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"SO","name":"Somalia","slug":"somalia"},
-"count": 150,
+"count": 149,
 "repositories": [
-  {"name":"theironcook/Backbone.ModelBinder","stars":1409,"forks":154,"language":"JavaScript","archived":false,"createdAt":"2012-02-23T20:30:39Z","pushedAt":"2020-03-10T14:35:49Z","owner":{"login":"theironcook","type":"User","name":"Bart wood","location":"'merca"},"attribution":{"code":"SO","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-16T21:29:26.541Z","id":"legacy:theironcook/backbone.modelbinder","legacy":true},
   {"name":"Cabdulahi/pish","stars":260,"forks":76,"language":"Python","archived":false,"createdAt":"2019-06-20T14:04:07Z","pushedAt":"2023-11-17T03:21:58Z","owner":{"login":"Cabdulahi","type":"User","name":"Cabdulahi Sharif","location":"Mogadishu"},"attribution":{"code":"SO","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-16T21:29:26.541Z","id":"legacy:cabdulahi/pish","legacy":true},
   {"name":"soplang/soplang","stars":230,"forks":61,"language":"Rust","license":"MIT","archived":false,"createdAt":"2024-11-04T17:11:44Z","pushedAt":"2026-10-16T08:34:15Z","owner":{"login":"soplang","type":"Organization","name":"Soplang","location":"Somalia"},"attribution":{"code":"SO","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T21:29:26.541Z","id":"legacy:soplang/soplang","legacy":true},
   {"name":"Abdinajibahmed/MadCam---Termux-Hack-Front-camera-by-Sending-link","stars":220,"forks":19,"license":"Apache-2.0","archived":false,"createdAt":"2021-04-02T04:53:21Z","pushedAt":"2021-04-02T04:53:22Z","owner":{"login":"Abdinajibahmed","type":"User","name":"abdinajib junior","location":"hargeisa"},"attribution":{"code":"SO","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-16T21:29:26.541Z","id":"legacy:abdinajibahmed/madcam---termux-hack-front-camera-by-sending-link","legacy":true},

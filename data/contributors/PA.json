@@ -5,10 +5,10 @@
 "country": {"code":"PA","name":"Panama","slug":"panama"},
 "status": "building",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":1,"measurementBacklog":399,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":2,"measurementBacklog":398,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [],
-"contentHash": "59a8d78d968f707b",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "3b30b42db73dc581",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": null,
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

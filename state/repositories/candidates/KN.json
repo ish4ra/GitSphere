@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"KN","name":"St. Kitts & Nevis","slug":"st-kitts-nevis"},
-"count": 48,
+"count": 46,
 "repositories": [
-  {"name":"RaoFoundation/bittensor","stars":1470,"forks":473,"language":"Python","license":"MIT","archived":true,"createdAt":"2020-07-28T23:12:38Z","pushedAt":"2026-07-10T17:43:54Z","owner":{"login":"RaoFoundation","type":"Organization","name":"RaoFoundation","location":"Saint Kitts and Nevis"},"attribution":{"code":"KN","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-12T01:51:33.414Z","id":"legacy:raofoundation/bittensor","legacy":true},
-  {"name":"haydenjames/bench-scripts","stars":1194,"forks":168,"license":"GPL-3.0","archived":false,"createdAt":"2017-10-31T03:26:44Z","pushedAt":"2024-07-01T19:11:02Z","owner":{"login":"haydenjames","type":"User","name":"Hayden James","location":"Saint Kitts"},"attribution":{"code":"KN","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-12T01:51:33.414Z","id":"legacy:haydenjames/bench-scripts","legacy":true},
   {"name":"RaoFoundation/subtensor","stars":393,"forks":352,"language":"Rust","license":"Apache-2.0","archived":false,"createdAt":"2023-03-02T14:27:24Z","pushedAt":"2026-10-11T20:36:05Z","owner":{"login":"RaoFoundation","type":"Organization","name":"RaoFoundation","location":"Saint Kitts and Nevis"},"attribution":{"code":"KN","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-12T01:51:33.414Z","id":"legacy:raofoundation/subtensor","legacy":true},
   {"name":"Volkanite/TestSpoof","stars":29,"forks":8,"language":"C","license":"MIT","archived":false,"createdAt":"2015-03-08T04:58:17Z","pushedAt":"2018-10-13T20:40:34Z","owner":{"login":"Volkanite","type":"User","name":"Hakim Boyles","location":"Saint Kitts"},"attribution":{"code":"KN","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-03T01:08:17.656Z","id":"legacy:volkanite/testspoof","legacy":true},
   {"name":"Thutmose/Pokecube","stars":19,"forks":7,"language":"Java","archived":false,"createdAt":"2015-11-26T20:06:48Z","pushedAt":"2020-12-23T19:07:19Z","owner":{"login":"Thutmose","type":"User","location":"St Kitts and Nevis"},"attribution":{"code":"KN","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T01:08:17.656Z","id":"legacy:thutmose/pokecube","legacy":true},

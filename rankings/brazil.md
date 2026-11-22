@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **96** | 17 Oct 2026 | <a href="../data/BR.json">JSON</a> |
-
-> **Not yet re-verified.** 15 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/BR.json">JSON</a> |
 
 </div>
 
@@ -592,108 +590,136 @@
 </tr>
 <tr>
 <td align="right">82</td>
-<td><img src="https://github.com/JoasASantos.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JoasASantos/Awesome-Red-Team-Operations"><b>JoasASantos/Awesome-Red-Team-Operations</b></a></td>
-<td align="right"><b>1,725</b></td>
-<td align="right">331</td>
-<td>—</td>
+<td><img src="https://github.com/gustavoguanabara.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gustavoguanabara/javascript"><b>gustavoguanabara/javascript</b></a><br><sub>Curso de JavaScript</sub></td>
+<td align="right"><b>4,175</b></td>
+<td align="right">581</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td align="right">83</td>
-<td><img src="https://github.com/CodesdaLu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CodesdaLu/Programming-Books"><b>CodesdaLu/Programming-Books</b></a></td>
-<td align="right"><b>1,711</b></td>
-<td align="right">298</td>
-<td>—</td>
+<td><img src="https://github.com/PerformanC.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PerformanC/ReZygisk"><b>PerformanC/ReZygisk</b></a><br><sub>Transparent implementation of Zygisk.</sub></td>
+<td align="right"><b>4,171</b></td>
+<td align="right">395</td>
+<td>C</td>
 </tr>
 <tr>
 <td align="right">84</td>
-<td><img src="https://github.com/samuelsimoes.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/samuelsimoes/chrome-extension-webpack-boilerplate"><b>samuelsimoes/chrome-extension-webpack-boilerplate</b></a></td>
-<td align="right"><b>1,707</b></td>
-<td align="right">332</td>
+<td><img src="https://github.com/imbrn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/imbrn/v8n"><b>imbrn/v8n</b></a><br><sub>☑️ JavaScript fluent validation library</sub></td>
+<td align="right"><b>4,141</b></td>
+<td align="right">103</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">85</td>
-<td><img src="https://github.com/lukemorales.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lukemorales/query-key-factory"><b>lukemorales/query-key-factory</b></a></td>
-<td align="right"><b>1,680</b></td>
-<td align="right">50</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/DamascenoRafael.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DamascenoRafael/reminders-menubar"><b>DamascenoRafael/reminders-menubar</b></a><br><sub>Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders…</sub></td>
+<td align="right"><b>4,024</b></td>
+<td align="right">177</td>
+<td>Swift</td>
 </tr>
 <tr>
 <td align="right">86</td>
-<td><img src="https://github.com/pedronauck.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pedronauck/react-adopt"><b>pedronauck/react-adopt</b></a></td>
-<td align="right"><b>1,663</b></td>
-<td align="right">56</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/JoasASantos.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JoasASantos/OSCE3-Complete-Guide"><b>JoasASantos/OSCE3-Complete-Guide</b></a><br><sub>OSWE, OSEP, OSED, OSEE</sub></td>
+<td align="right"><b>3,998</b></td>
+<td align="right">797</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">87</td>
-<td><img src="https://github.com/robsontenorio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/robsontenorio/vue-api-query"><b>robsontenorio/vue-api-query</b></a></td>
-<td align="right"><b>1,659</b></td>
-<td align="right">127</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/ran-j.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ran-j/PS2Recomp"><b>ran-j/PS2Recomp</b></a><br><sub>Playstation 2 Static Recompiler &amp; Runtime Tool to make native PC ports</sub></td>
+<td align="right"><b>3,898</b></td>
+<td align="right">258</td>
+<td>C++</td>
 </tr>
 <tr>
 <td align="right">88</td>
-<td><img src="https://github.com/maykbrito.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maykbrito/mini-video-me"><b>maykbrito/mini-video-me</b></a></td>
-<td align="right"><b>1,638</b></td>
-<td align="right">166</td>
+<td><img src="https://github.com/daltonmenezes.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/daltonmenezes/aura-theme"><b>daltonmenezes/aura-theme</b></a><br><sub>✨ A beautiful dark theme for your favorite apps.</sub></td>
+<td align="right"><b>3,833</b></td>
+<td align="right">183</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">89</td>
-<td><img src="https://github.com/ellisonleao.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ellisonleao/clumsy-bird"><b>ellisonleao/clumsy-bird</b></a> <sub>archived</sub></td>
-<td align="right"><b>1,626</b></td>
-<td align="right">1,113</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/leandromoreira.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/leandromoreira/cdn-up-and-running"><b>leandromoreira/cdn-up-and-running</b></a><br><sub>CDN Up and Running - Building a CDN from Scratch to Learn about CDN, Nginx, Lua, Prometheus, Grafana, Load balancing, a…</sub></td>
+<td align="right"><b>3,719</b></td>
+<td align="right">240</td>
+<td>Lua</td>
 </tr>
 <tr>
 <td align="right">90</td>
-<td><img src="https://github.com/danielhe4rt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/danielhe4rt/git4noobs"><b>danielhe4rt/git4noobs</b></a></td>
-<td align="right"><b>1,617</b></td>
-<td align="right">105</td>
-<td>—</td>
+<td><img src="https://github.com/nullptrlabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nullptrlabs/pgmodeler"><b>nullptrlabs/pgmodeler</b></a><br><sub>Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you!</sub></td>
+<td align="right"><b>3,661</b></td>
+<td align="right">435</td>
+<td>C++</td>
 </tr>
 <tr>
 <td align="right">91</td>
-<td><img src="https://github.com/mbenford.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mbenford/ngTagsInput"><b>mbenford/ngTagsInput</b></a> <sub>archived</sub></td>
-<td align="right"><b>1,615</b></td>
-<td align="right">520</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/strelov1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/strelov1/freehire"><b>strelov1/freehire</b></a><br><sub>freehire — the open-source search engine for job seekers</sub></td>
+<td align="right"><b>3,636</b></td>
+<td align="right">396</td>
+<td>Go</td>
 </tr>
 <tr>
 <td align="right">92</td>
-<td><img src="https://github.com/LeonardoZ.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LeonardoZ/java-concurrency-patterns"><b>LeonardoZ/java-concurrency-patterns</b></a></td>
-<td align="right"><b>1,614</b></td>
-<td align="right">335</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">93</td>
-<td><img src="https://github.com/bhrott.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bhrott/react-native-masked-text"><b>bhrott/react-native-masked-text</b></a></td>
-<td align="right"><b>1,607</b></td>
-<td align="right">244</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">94</td>
-<td><img src="https://github.com/alinebastos.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alinebastos/dev-practice"><b>alinebastos/dev-practice</b></a></td>
-<td align="right"><b>1,578</b></td>
-<td align="right">129</td>
+<td><img src="https://github.com/filipecalegario.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/filipecalegario/awesome-generative-ai"><b>filipecalegario/awesome-generative-ai</b></a><br><sub>A curated list of Generative AI tools, works, models, and references</sub></td>
+<td align="right"><b>3,576</b></td>
+<td align="right">994</td>
 <td>—</td>
 </tr>
 <tr>
+<td align="right">93</td>
+<td><img src="https://github.com/wppconnect-team.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wppconnect-team/wppconnect"><b>wppconnect-team/wppconnect</b></a><br><sub>WhatsApp Web automation library for Node.js and TypeScript. Manage sessions, send and receive messages, handle media an…</sub></td>
+<td align="right"><b>3,534</b></td>
+<td align="right">589</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/dogo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dogo/SCLAlertView"><b>dogo/SCLAlertView</b></a><br><sub>Beautiful animated Alert View. Written in Objective-C</sub></td>
+<td align="right"><b>3,486</b></td>
+<td align="right">517</td>
+<td>Objective-C</td>
+</tr>
+<tr>
 <td align="right">95</td>
-<td><img src="https://github.com/nfephp-org.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nfephp-org/sped-nfe"><b>nfephp-org/sped-nfe</b></a></td>
-<td align="right"><b>1,553</b></td>
-<td align="right">648</td>
-<td>PHP</td>
+<td><img src="https://github.com/bdlukaa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bdlukaa/fluent_ui"><b>bdlukaa/fluent&#95;ui</b></a><br><sub>Microsoft&#39;s WinUI3 in Flutter.</sub></td>
+<td align="right"><b>3,475</b></td>
+<td align="right">513</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">96</td>
-<td><img src="https://github.com/nubank.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nubank/fklearn"><b>nubank/fklearn</b></a></td>
-<td align="right"><b>1,552</b></td>
-<td align="right">176</td>
-<td>Jupyter Notebook</td>
+<td><img src="https://github.com/dirtycow.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dirtycow/dirtycow.github.io"><b>dirtycow/dirtycow.github.io</b></a><br><sub>Dirty COW</sub></td>
+<td align="right"><b>3,472</b></td>
+<td align="right">910</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/michelpereira.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/michelpereira/awesome-open-source-games"><b>michelpereira/awesome-open-source-games</b></a><br><sub>Collection of Games that have the source code available on GitHub</sub></td>
+<td align="right"><b>3,439</b></td>
+<td align="right">317</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/nidorx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nidorx/matcaps"><b>nidorx/matcaps</b></a><br><sub>Huge library of matcap PNG textures organized by color</sub></td>
+<td align="right"><b>3,407</b></td>
+<td align="right">288</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/talyssonoc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/talyssonoc/node-api-boilerplate"><b>talyssonoc/node-api-boilerplate</b></a><br><sub>DDD/Clean Architecture inspired boilerplate for Node web APIs</sub></td>
+<td align="right"><b>3,359</b></td>
+<td align="right">524</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/gdcmarinho.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gdcmarinho/awesome-project"><b>gdcmarinho/awesome-project</b></a> <sub>archived</sub><br><sub>A curated list of awesome project development links</sub></td>
+<td align="right"><b>3,325</b></td>
+<td align="right">394</td>
+<td>—</td>
 </tr>
 </tbody>
 </table>
@@ -701,11 +727,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 1,552 stars; 96 attributed candidates are tracked.
-- 15 entries were carried over from the previous dataset and are pending revalidation.
-- 139 multi-repository owners are queued for expansion.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 3,325 stars; 150 attributed candidates are tracked.
+- 137 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 156 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

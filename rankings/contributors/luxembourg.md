@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/contributors/LU.json">JSON</a> |
+| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/LU.json">JSON</a> |
 
 </div>
 
@@ -25,6 +25,15 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/qdm12"><img src="https://avatars.githubusercontent.com/u/15654980?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/qdm12"><b>Quentin McGaw</b></a><br><sub>&#64;qdm12 · 860 followers</sub></td>
+<td align="right"><b>927</b></td>
+<td align="right">764</td>
+<td align="right">22</td>
+<td align="right">117</td>
+<td align="right">17</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/255kb"><img src="https://avatars.githubusercontent.com/u/7489814?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/255kb"><b>Guillaume</b></a><br><sub>&#64;255kb · 396 followers</sub></td>
 <td align="right"><b>669</b></td>
 <td align="right">447</td>
@@ -39,7 +48,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 1 of 400 discovered developers (399 awaiting measurement).
+- **Measured:** 2 of 400 discovered developers (398 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

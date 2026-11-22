@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/PY.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/PY.json">JSON</a> |
 
 </div>
 
@@ -35,6 +35,20 @@
 <td align="right">5</td>
 <td><sub>Cosmos</sub></td>
 </tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/biagiola"><img src="https://avatars.githubusercontent.com/u/41311088?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/biagiola"><b>David Biagiola</b></a><br><sub>&#64;biagiola</sub></td>
+<td align="right"><b>588</b></td>
+<td align="right">103</td>
+<td><sub>Asunción</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/lexzer42"><img src="https://avatars.githubusercontent.com/u/134535937?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lexzer42"><b>Oscar Rojas</b></a><br><sub>&#64;lexzer42</sub></td>
+<td align="right"><b>564</b></td>
+<td align="right">42</td>
+<td><sub>Asunción, Paraguay</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -43,7 +57,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 1,369 followers.
+- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 564 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

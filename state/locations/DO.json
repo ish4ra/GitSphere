@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"country": "DO",
+"round": 1,
+"roundStartedAt": "2026-11-22T22:03:17.167Z",
+"terms": {"count":134,"fingerprint":"134:6273efa1"},
+"termIndex": 0,
+"specIndex": 0,
+"active": {"term":"Dominican Republic","kind":"users","queue":[{"metric":[0,12500000],"created":null,"cursor":null,"page":1}],"unresolved":[],"cycleStartedAt":"2026-11-22T22:03:17.167Z","stats":{"splits":3,"leaves":3,"pages":3}},
+"unresolved": [],
+"completedRounds": [],
+"stats": {"requests":6,"pages":3,"accounts":0},
+"updatedAt": "2026-11-22T22:03:17.167Z"
+}

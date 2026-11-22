@@ -5,12 +5,13 @@
 "country": {"code":"IN","name":"India","slug":"india"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":704,"measuredAccounts":1,"measurementBacklog":703,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":1083,"measuredAccounts":2,"measurementBacklog":1081,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjMwOTU3NzE=","login":"ashishpatel26","name":"Ashish Patel","url":"https://github.com/ashishpatel26","avatarUrl":"https://avatars.githubusercontent.com/u/3095771?s=80&v=4","followers":12649,"publicRepos":2211,"location":"Ahmedabad","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22","contributions":{"public":719,"commits":464,"pullRequests":149,"reviews":3,"issues":3,"repositories":100,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjMwOTU3NzE=","login":"ashishpatel26","name":"Ashish Patel","url":"https://github.com/ashishpatel26","avatarUrl":"https://avatars.githubusercontent.com/u/3095771?s=80&v=4","followers":12652,"publicRepos":2211,"location":"Ahmedabad","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22","contributions":{"public":719,"commits":464,"pullRequests":149,"reviews":3,"issues":3,"repositories":100,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjE5OTY3NDAz","login":"manjunath5496","name":"Manjunath.R","url":"https://github.com/manjunath5496","avatarUrl":"https://avatars.githubusercontent.com/u/19967403?s=80&v=4","followers":5124,"publicRepos":1560,"location":"Bangalore, India","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":2,"commits":2,"pullRequests":0,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "253257bf923451fd",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "7ce39f1be65a87f7",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

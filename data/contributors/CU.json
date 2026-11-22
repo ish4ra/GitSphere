@@ -5,13 +5,15 @@
 "country": {"code":"CU","name":"Cuba","slug":"cuba"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":2,"measurementBacklog":398,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":4,"measurementBacklog":396,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":90,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOBZdJmw","login":"3horta","name":"ehorta","url":"https://github.com/3horta","avatarUrl":"https://avatars.githubusercontent.com/u/93800859?s=80&v=4","followers":29,"publicRepos":9,"location":"Havana, Cuba","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":222,"commits":220,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":2,"id":"U_kgDOBcFLOA","login":"A4GOD-AMHG","name":"Alexis Manuel Hurtado García","url":"https://github.com/A4GOD-AMHG","avatarUrl":"https://avatars.githubusercontent.com/u/96553784?s=80&v=4","followers":19,"publicRepos":35,"location":"Cuba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":194,"commits":189,"pullRequests":0,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":2,"id":"U_kgDOBcFLOA","login":"A4GOD-AMHG","name":"Alexis Manuel Hurtado García","url":"https://github.com/A4GOD-AMHG","avatarUrl":"https://avatars.githubusercontent.com/u/96553784?s=80&v=4","followers":19,"publicRepos":35,"location":"Cuba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":194,"commits":189,"pullRequests":0,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":3,"id":"U_kgDOCie0Og","login":"Abero-dev","name":"Abel Robaina Mata","url":"https://github.com/Abero-dev","avatarUrl":"https://avatars.githubusercontent.com/u/170374202?s=80&v=4","followers":2,"publicRepos":5,"location":"La Habana, Cuba","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":166,"commits":164,"pullRequests":0,"reviews":0,"issues":1,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":4,"id":"MDQ6VXNlcjM5MTAwMjA=","login":"acanive","name":"Abel Espinosa","url":"https://github.com/acanive","avatarUrl":"https://avatars.githubusercontent.com/u/3910020?s=80&v=4","followers":2,"publicRepos":40,"location":"Cienfuegos, Cuba","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "2f9c0c2d3b9b8a38",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "1f31af9a98281ed2",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

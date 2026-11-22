@@ -5,12 +5,14 @@
 "country": {"code":"MT","name":"Malta","slug":"malta"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":4062,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":609,"candidates":3,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjgyMzQy","login":"ripienaar","name":"R.I.Pienaar","url":"https://github.com/ripienaar","avatarUrl":"https://avatars.githubusercontent.com/u/82342?s=80&v=4","followers":4062,"publicRepos":138,"location":"Malta","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"MDQ6VXNlcjgyMzQy","login":"ripienaar","name":"R.I.Pienaar","url":"https://github.com/ripienaar","avatarUrl":"https://avatars.githubusercontent.com/u/82342?s=80&v=4","followers":4062,"publicRepos":138,"location":"Malta","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjQ5NTM2NTI5","login":"CarlBugeja","name":"Carl Bugeja","url":"https://github.com/CarlBugeja","avatarUrl":"https://avatars.githubusercontent.com/u/49536529?s=80&v=4","followers":660,"publicRepos":14,"location":"Malta","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjM1MjQyODcy","login":"nothingismagick","name":null,"url":"https://github.com/nothingismagick","avatarUrl":"https://avatars.githubusercontent.com/u/35242872?s=80&v=4","followers":609,"publicRepos":113,"location":"Malta","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "bde908cd6d925afd",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "ff974599ed891bb5",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

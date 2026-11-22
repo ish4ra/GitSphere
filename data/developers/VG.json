@@ -5,13 +5,15 @@
 "country": {"code":"VG","name":"British Virgin Islands","slug":"british-virgin-islands"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":1,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDOBv6zYw","login":"AI-Isaiah","name":null,"url":"https://github.com/AI-Isaiah","avatarUrl":"https://avatars.githubusercontent.com/u/117355363?s=80&v=4","followers":4,"publicRepos":26,"location":"British Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"MDQ6VXNlcjU5NDk2NTI=","login":"Alcatrax","name":"Alcatrax","url":"https://github.com/Alcatrax","avatarUrl":"https://avatars.githubusercontent.com/u/5949652?s=80&v=4","followers":1,"publicRepos":1,"location":"British Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"U_kgDOBhakFg","login":"BazaarsBZR","name":"Bazaars","url":"https://github.com/BazaarsBZR","avatarUrl":"https://avatars.githubusercontent.com/u/102147094?s=80&v=4","followers":86,"publicRepos":3,"location":"Bazaars Limited, Intershore Chambers, Road Town, Tortola, British Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"U_kgDOBv6zYw","login":"AI-Isaiah","name":null,"url":"https://github.com/AI-Isaiah","avatarUrl":"https://avatars.githubusercontent.com/u/117355363?s=80&v=4","followers":4,"publicRepos":26,"location":"British Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjU5NDk2NTI=","login":"Alcatrax","name":"Alcatrax","url":"https://github.com/Alcatrax","avatarUrl":"https://avatars.githubusercontent.com/u/5949652?s=80&v=4","followers":1,"publicRepos":1,"location":"British Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"MDQ6VXNlcjgyNzc1Mjk5","login":"Barzillin","name":"Rick Harisson","url":"https://github.com/Barzillin","avatarUrl":"https://avatars.githubusercontent.com/u/82775299?s=80&v=4","followers":0,"publicRepos":21,"location":"British Virgin Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "e09179257c809566",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "4a821c3c3e67bf69",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

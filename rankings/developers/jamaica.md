@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/JM.json">JSON</a> |
+| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/developers/JM.json">JSON</a> |
 
 </div>
 
@@ -35,6 +35,34 @@
 <td align="right">8</td>
 <td><sub>Silent Hill</sub></td>
 </tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/Gr1mmie"><img src="https://avatars.githubusercontent.com/u/57014148?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Gr1mmie"><b>Grimmie</b></a><br><sub>&#64;Gr1mmie</sub></td>
+<td align="right"><b>665</b></td>
+<td align="right">23</td>
+<td><sub>Elysium, First Low Orbit Station</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/j0shua-daniel"><img src="https://avatars.githubusercontent.com/u/191962673?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/j0shua-daniel"><b>Joshua Daniel</b></a><br><sub>&#64;j0shua-daniel</sub></td>
+<td align="right"><b>630</b></td>
+<td align="right">17</td>
+<td><sub>Reading, Berkshire</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/ntfargo"><img src="https://avatars.githubusercontent.com/u/32229490?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ntfargo"><b>Nathan Fargo</b></a><br><sub>&#64;ntfargo</sub></td>
+<td align="right"><b>444</b></td>
+<td align="right">0</td>
+<td><sub>Silent Hill</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/ram1583"><img src="https://avatars.githubusercontent.com/u/4563864?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ram1583"><b>Ramiro Allen</b></a><br><sub>&#64;ram1583</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>10-12 Grenada Crescent, New Kingston, Jamaica</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -43,7 +71,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 1,247 followers.
+- Organizations are excluded. 6 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

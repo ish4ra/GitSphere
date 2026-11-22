@@ -1,55 +1,55 @@
 {
   "schemaVersion": 3,
-  "startedAt": "2026-11-22T10:32:48.193Z",
-  "finishedAt": "2026-11-22T11:14:58.521Z",
+  "startedAt": "2026-11-22T21:45:30.562Z",
+  "finishedAt": "2026-11-22T22:28:07.284Z",
   "stopReason": null,
   "steps": {
     "repositories": {
-      "requests": 201,
-      "pages": 201,
-      "splits": 27,
+      "requests": 183,
+      "pages": 183,
+      "splits": 23,
       "leaves": 23,
       "unresolved": 0,
-      "nodes": 15880,
+      "nodes": 14906,
       "failures": 0,
-      "cyclesStarted": 1,
+      "cyclesStarted": 0,
       "cycle": 1,
       "queue": 5,
-      "seconds": 766
+      "seconds": 769
     },
     "legacy": {
       "requests": 60,
       "resolved": 1498,
       "removed": 2,
-      "backlog": 24871,
-      "seconds": 82
+      "backlog": 23115,
+      "seconds": 83
     },
     "locations": {
       "requests": 240,
       "pages": 240,
       "countries": 40,
-      "pointer": 40,
+      "pointer": 80,
       "backlog": 40,
-      "seconds": 447
+      "seconds": 411
     },
     "followers": {
       "requests": 115,
       "pages": 115,
-      "splits": 18,
-      "leaves": 15,
+      "splits": 12,
+      "leaves": 14,
       "unresolved": 0,
-      "nodes": 8751,
+      "nodes": 9441,
       "failures": 0,
-      "cyclesStarted": 1,
+      "cyclesStarted": 0,
       "cycle": 1,
-      "queue": 4,
-      "seconds": 433
+      "queue": 2,
+      "seconds": 445
     },
     "owners": {
-      "requests": 40,
-      "ownersExpanded": 400,
-      "backlog": 20443,
-      "seconds": 124
+      "requests": 37,
+      "ownersExpanded": 370,
+      "backlog": 21151,
+      "seconds": 151
     },
     "revalidation": {
       "requests": 0,
@@ -62,47 +62,47 @@
     "accounts": {
       "requests": 40,
       "checked": 4000,
-      "removed": 11,
-      "backlog": 57924,
-      "seconds": 119
+      "removed": 4,
+      "backlog": 52629,
+      "seconds": 127
     },
     "contributions": {
-      "requests": 46,
-      "measured": 310,
-      "removed": 0,
-      "failedBatches": 4,
+      "requests": 49,
+      "measured": 320,
+      "removed": 1,
+      "failedBatches": 5,
       "deferredAccounts": 0,
       "window": {
-        "from": "2025-11-22T11:00:00.000Z",
-        "to": "2026-11-22T11:00:00.000Z"
+        "from": "2025-11-22T22:00:00.000Z",
+        "to": "2026-11-22T22:00:00.000Z"
       },
-      "backlog": 1290,
-      "seconds": 558
+      "backlog": 1279,
+      "seconds": 569
     }
   },
   "failures": [],
   "counters": {
-    "repositoriesSeen": 15880,
-    "repositoriesAttributed": 7293,
-    "ambiguousLocations": 508,
-    "unknownLocations": 8079,
-    "accountsSeen": 16828,
-    "accountsAttributed": 13164
+    "repositoriesSeen": 14906,
+    "repositoriesAttributed": 7308,
+    "ambiguousLocations": 500,
+    "unknownLocations": 7098,
+    "accountsSeen": 15742,
+    "accountsAttributed": 11706
   },
   "api": {
-    "requests": 742,
-    "pointsUsed": 717,
+    "requests": 724,
+    "pointsUsed": 699,
     "retries": 21,
     "secondaryWaitMs": 0,
-    "remaining": 4992,
+    "remaining": 4274,
     "limit": 5000,
-    "resetAt": "2026-11-22T12:12:23Z"
+    "resetAt": "2026-11-22T22:45:30Z"
   },
   "registryEvents": {
     "repositoriesMoved": 0,
     "repositoriesRemoved": 1500,
-    "accountsMoved": 25,
-    "accountsRemoved": 45,
+    "accountsMoved": 5,
+    "accountsRemoved": 14,
     "renamed": 0
   },
   "health": {
@@ -115,22 +115,22 @@
   },
   "publication": {
     "changed": {
-      "data": 645,
-      "pages": 649
+      "data": 614,
+      "pages": 618
     },
     "counts": {
       "repositories": {
-        "published": 11,
+        "published": 19,
         "provisional": 2,
         "building": 0,
-        "stale": 237,
+        "stale": 229,
         "empty": 0,
         "blocked": 0,
         "total": 250
       },
       "developers": {
-        "published": 1,
-        "provisional": 249,
+        "published": 2,
+        "provisional": 248,
         "building": 0,
         "stale": 0,
         "empty": 0,
@@ -139,8 +139,8 @@
       },
       "contributors": {
         "published": 0,
-        "provisional": 189,
-        "building": 61,
+        "provisional": 232,
+        "building": 18,
         "stale": 0,
         "empty": 0,
         "blocked": 0,
@@ -148,10 +148,10 @@
       }
     },
     "entries": {
-      "repositories": 20305,
-      "developers": 13811,
-      "contributors": 231
+      "repositories": 20239,
+      "developers": 23692,
+      "contributors": 484
     }
   },
-  "runtimeSeconds": 2535
+  "runtimeSeconds": 2562
 }

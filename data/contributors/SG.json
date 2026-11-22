@@ -5,12 +5,13 @@
 "country": {"code":"SG","name":"Singapore","slug":"singapore"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":454,"measuredAccounts":1,"measurementBacklog":453,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":532,"measuredAccounts":2,"measurementBacklog":530,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjIxMjk4NA==","login":"happydog-intj","name":"happy dog","url":"https://github.com/happydog-intj","avatarUrl":"https://avatars.githubusercontent.com/u/212984?s=80&v=4","followers":4009,"publicRepos":565,"location":"singapore","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":553,"commits":477,"pullRequests":21,"reviews":1,"issues":11,"repositories":43,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjE1NjI2OQ==","login":"fengmk2","name":"MK (fengmk2)","url":"https://github.com/fengmk2","avatarUrl":"https://avatars.githubusercontent.com/u/156269?s=80&v=4","followers":8414,"publicRepos":461,"location":"Singapore","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":7756,"commits":2061,"pullRequests":3638,"reviews":1773,"issues":180,"repositories":99,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjIxMjk4NA==","login":"happydog-intj","name":"happy dog","url":"https://github.com/happydog-intj","avatarUrl":"https://avatars.githubusercontent.com/u/212984?s=80&v=4","followers":4009,"publicRepos":565,"location":"singapore","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":553,"commits":477,"pullRequests":21,"reviews":1,"issues":11,"repositories":43,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "aa0c5d5e2fa6c07b",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "d9ea24688c96487d",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

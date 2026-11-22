@@ -3,12 +3,14 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"HT","name":"Haiti","slug":"haiti"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":401,"measuredAccounts":1,"measurementBacklog":400,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "988044facbcae9af",
-"updatedAt": "2026-11-22T11:14:57.063Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":2,"measurementBacklog":398,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjEyNTk5OTUw","login":"GilTorch","name":"Gilbert","url":"https://github.com/GilTorch","avatarUrl":"https://avatars.githubusercontent.com/u/12599950?s=80&v=4","followers":17,"publicRepos":519,"location":"Haiti Port-au-prince","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":115,"commits":92,"pullRequests":0,"reviews":0,"issues":0,"repositories":23,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "a2947e6507cc6f7f",
+"updatedAt": "2026-11-22T22:28:05.466Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

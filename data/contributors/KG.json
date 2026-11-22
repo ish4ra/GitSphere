@@ -5,12 +5,13 @@
 "country": {"code":"KG","name":"Kyrgyzstan","slug":"kyrgyzstan"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":1,"measurementBacklog":399,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":401,"measuredAccounts":2,"measurementBacklog":399,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjc5MjQ1MTc0","login":"temirovazat","name":"Temirov Azat","url":"https://github.com/temirovazat","avatarUrl":"https://avatars.githubusercontent.com/u/79245174?s=80&v=4","followers":2216,"publicRepos":18,"location":"Bishkek, Kyrgyzstan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":7,"commits":6,"pullRequests":1,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjE0NDUxMg==","login":"SergeyBiryukov","name":"Sergey Biryukov","url":"https://github.com/SergeyBiryukov","avatarUrl":"https://avatars.githubusercontent.com/u/144512?s=80&v=4","followers":690,"publicRepos":40,"location":"Bishkek, Kyrgyzstan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":836,"commits":781,"pullRequests":7,"reviews":48,"issues":0,"repositories":0,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjc5MjQ1MTc0","login":"temirovazat","name":"Temirov Azat","url":"https://github.com/temirovazat","avatarUrl":"https://avatars.githubusercontent.com/u/79245174?s=80&v=4","followers":2216,"publicRepos":18,"location":"Bishkek, Kyrgyzstan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":7,"commits":6,"pullRequests":1,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "8d30f78b2be87d18",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "6f0819ec2f34ca11",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/PR.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/developers/PR.json">JSON</a> |
 
 </div>
 
@@ -44,6 +44,27 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/Sparragus"><img src="https://avatars.githubusercontent.com/u/80982?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sparragus"><b>Richard B. Kaufman-López</b></a><br><sub>&#64;Sparragus</sub></td>
+<td align="right"><b>691</b></td>
+<td align="right">93</td>
+<td><sub>Puerto Rico</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/NathanSweet"><img src="https://avatars.githubusercontent.com/u/434010?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NathanSweet"><b>Nathan Sweet</b></a><br><sub>&#64;NathanSweet</sub></td>
+<td align="right"><b>594</b></td>
+<td align="right">25</td>
+<td><sub>Puerto Rico</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/WalterInSH"><img src="https://avatars.githubusercontent.com/u/4099427?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/WalterInSH"><b>Walter</b></a><br><sub>&#64;WalterInSH</sub></td>
+<td align="right"><b>287</b></td>
+<td align="right">0</td>
+<td><sub>Po Shanghai</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/sodiray"><img src="https://avatars.githubusercontent.com/u/15269623?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sodiray"><b>Ray Epps</b></a><br><sub>&#64;sodiray</sub></td>
 <td align="right"><b>88</b></td>
 <td align="right">0</td>
@@ -57,7 +78,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 88 followers.
+- Organizations are excluded. 7 attributed developers are tracked; the cutoff is 88 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

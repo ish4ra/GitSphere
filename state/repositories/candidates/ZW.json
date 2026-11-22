@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"ZW","name":"Zimbabwe","slug":"zimbabwe"},
-"count": 150,
+"count": 149,
 "repositories": [
-  {"name":"XdKing2/MALVIN-XD","stars":1582,"forks":3733,"language":"JavaScript","archived":false,"createdAt":"2025-04-05T10:39:29Z","pushedAt":"2026-09-30T18:52:21Z","owner":{"login":"XdKing2","type":"Organization","name":"Malvin Tech","location":"Zimbabwe"},"attribution":{"code":"ZW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T09:43:28.614Z","id":"legacy:xdking2/malvin-xd","legacy":true},
   {"name":"mrxdking/star-xd","stars":629,"forks":1389,"language":"Python","archived":false,"createdAt":"2025-06-22T15:23:52Z","pushedAt":"2026-09-21T19:17:51Z","owner":{"login":"mrxdking","type":"User","name":"Malvin King","location":"Zimbabwe"},"attribution":{"code":"ZW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T09:43:28.614Z","id":"legacy:mrxdking/star-xd","legacy":true},
   {"name":"AyuGram/AyuGramDocs","stars":236,"forks":31,"license":"MIT","archived":false,"createdAt":"2023-11-09T10:47:17Z","pushedAt":"2025-01-08T04:09:36Z","owner":{"login":"AyuGram","type":"Organization","name":"AyuGram","location":"Zimbabwe"},"attribution":{"code":"ZW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T09:43:28.614Z","id":"legacy:ayugram/ayugramdocs","legacy":true},
   {"name":"zim-bot/zimbot-v3","stars":186,"forks":574,"language":"JavaScript","license":"CC0-1.0","archived":false,"createdAt":"2022-06-10T23:35:49Z","pushedAt":"2024-04-24T17:47:38Z","owner":{"login":"zim-bot","type":"User","name":"DRIPS MEMES BLENNIE BLESSED TUNA","location":"Zimbabwe"},"attribution":{"code":"ZW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T23:32:09.735Z","id":"legacy:zim-bot/zimbot-v3","legacy":true},

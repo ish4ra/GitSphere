@@ -5,12 +5,13 @@
 "country": {"code":"SR","name":"Suriname","slug":"suriname"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":179,"measuredAccounts":1,"measurementBacklog":178,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":179,"measuredAccounts":2,"measurementBacklog":177,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"U_kgDODQX-Zw","login":"99syukhi","name":"Jo-Melly Amatbahrowi","url":"https://github.com/99syukhi","avatarUrl":"https://avatars.githubusercontent.com/u/218496615?s=80&v=4","followers":2,"publicRepos":4,"location":"Suriname","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":101,"commits":96,"pullRequests":1,"reviews":0,"issues":0,"repositories":4,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"U_kgDODQX-Zw","login":"99syukhi","name":"Jo-Melly Amatbahrowi","url":"https://github.com/99syukhi","avatarUrl":"https://avatars.githubusercontent.com/u/218496615?s=80&v=4","followers":2,"publicRepos":4,"location":"Suriname","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":101,"commits":96,"pullRequests":1,"reviews":0,"issues":0,"repositories":4,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjg2MTcwNjk0","login":"addiellucena94","name":"Addiel","url":"https://github.com/addiellucena94","avatarUrl":"https://avatars.githubusercontent.com/u/86170694?s=80&v=4","followers":2,"publicRepos":8,"location":"Suriname","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":19,"commits":17,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "192d523f53def6ef",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "3e6f41eeb61e1a44",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

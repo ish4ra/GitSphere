@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/developers/ZW.json">JSON</a> |
+| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/developers/ZW.json">JSON</a> |
 
 </div>
 
@@ -28,6 +28,20 @@
 <td align="right">39</td>
 <td><sub>Harare, Zimbabwe</sub></td>
 </tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/mrfr8nk"><img src="https://avatars.githubusercontent.com/u/206129473?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrfr8nk"><b>𝐃𝐀𝐑𝐑𝐄𝐋𝐋 𝐌𝐔𝐂𝐇𝐄𝐑𝐈 ⚡</b></a><br><sub>&#64;mrfr8nk</sub></td>
+<td align="right"><b>622</b></td>
+<td align="right">92</td>
+<td><sub>Zimbabwe, Harare</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/nelsonnzou-crypt"><img src="https://avatars.githubusercontent.com/u/259183177?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nelsonnzou-crypt"><b>Tapiwanashe Nelson Nzou</b></a><br><sub>&#64;nelsonnzou-crypt</sub></td>
+<td align="right"><b>607</b></td>
+<td align="right">43</td>
+<td><sub>Zimbabwe</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -36,7 +50,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 1 attributed developers are tracked; the cutoff is 1,299 followers.
+- Organizations are excluded. 3 attributed developers are tracked; the cutoff is 607 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

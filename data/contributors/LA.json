@@ -3,12 +3,14 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"LA","name":"Laos","slug":"laos"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":1,"measurementBacklog":399,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "f92c42e8ec4f882d",
-"updatedAt": "2026-11-22T11:14:57.063Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"coverage": {"basis":"partial","discoveredAccounts":401,"measuredAccounts":2,"measurementBacklog":399,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"U_kgDOCrFZJQ","login":"esticrayon","name":". 𝒚𝟑𝒐𝒉𝒘𝒂𝟕 ๑","url":"https://github.com/esticrayon","avatarUrl":"https://avatars.githubusercontent.com/u/179394853?s=80&v=4","followers":602,"publicRepos":2,"location":"𝚟𝚒𝚎𝚝>𝚜𝚊𝚏𝚎; 𝚙𝚕𝚜 𝚍𝚘𝚗𝚝 𝚌𝚘𝚙𝚢 𝚖𝚎 𝚗 𝚖𝚢 𝚋𝚞𝚍𝚍𝚢 𝚘𝚛 𝚞'𝚕𝚕 𝚐𝚎𝚝 𝚋𝚕𝚘𝚌𝚔𝚎𝚍..","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22","contributions":{"public":32,"commits":30,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "561100811849bcd9",
+"updatedAt": "2026-11-22T22:28:05.466Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

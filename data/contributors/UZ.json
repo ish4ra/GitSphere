@@ -5,12 +5,13 @@
 "country": {"code":"UZ","name":"Uzbekistan","slug":"uzbekistan"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":403,"measuredAccounts":1,"measurementBacklog":402,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":403,"measuredAccounts":2,"measurementBacklog":401,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"U_kgDOCN2Tgw","login":"Iqbolshoh","name":"Iqbolshoh Ilhomjonov","url":"https://github.com/Iqbolshoh","avatarUrl":"https://avatars.githubusercontent.com/u/148738947?s=80&v=4","followers":2284,"publicRepos":113,"location":"Uzbekistan, Samarqand city","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":377,"commits":318,"pullRequests":0,"reviews":0,"issues":0,"repositories":59,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"U_kgDODex8JQ","login":"Zuhriddin2010","name":"zuhriddin","url":"https://github.com/Zuhriddin2010","avatarUrl":"https://avatars.githubusercontent.com/u/233602085?s=80&v=4","followers":973,"publicRepos":192,"location":"uzbekistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":745,"commits":725,"pullRequests":3,"reviews":0,"issues":3,"repositories":8,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"U_kgDOCN2Tgw","login":"Iqbolshoh","name":"Iqbolshoh Ilhomjonov","url":"https://github.com/Iqbolshoh","avatarUrl":"https://avatars.githubusercontent.com/u/148738947?s=80&v=4","followers":2284,"publicRepos":113,"location":"Uzbekistan, Samarqand city","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":377,"commits":318,"pullRequests":0,"reviews":0,"issues":0,"repositories":59,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "1b47a94d9a3bff0d",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "926e5f92b8fed199",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

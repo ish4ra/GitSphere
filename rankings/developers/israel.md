@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **33** | 22 Nov 2026 | <a href="../../data/developers/IL.json">JSON</a> |
+| 🟡 Provisional | **59** | 22 Nov 2026 | <a href="../../data/developers/IL.json">JSON</a> |
 
 </div>
 
@@ -45,7 +45,7 @@
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/lirantal"><img src="https://avatars.githubusercontent.com/u/316371?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lirantal"><b>Liran Tal</b></a><br><sub>&#64;lirantal</sub></td>
-<td align="right"><b>2,587</b></td>
+<td align="right"><b>2,589</b></td>
 <td align="right">483</td>
 <td><sub>Tel Aviv, Israel</sub></td>
 </tr>
@@ -151,104 +151,286 @@
 <td align="right">19</td>
 <td><a href="https://github.com/DovAmir"><img src="https://avatars.githubusercontent.com/u/2938156?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DovAmir"><b>Dov Amir</b></a><br><sub>&#64;DovAmir</sub></td>
 <td align="right"><b>909</b></td>
-<td align="right">0</td>
+<td align="right">24</td>
 <td><sub>Israel</sub></td>
 </tr>
 <tr>
 <td align="right">20</td>
-<td><a href="https://github.com/meirwah"><img src="https://avatars.githubusercontent.com/u/6059211?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/meirwah"><b>Meir Wahnon</b></a><br><sub>&#64;meirwah</sub></td>
-<td align="right"><b>714</b></td>
-<td align="right">0</td>
-<td><sub>Tel Aviv</sub></td>
+<td><a href="https://github.com/eladb"><img src="https://avatars.githubusercontent.com/u/598796?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eladb"><b>Elad Ben-Israel</b></a><br><sub>&#64;eladb</sub></td>
+<td align="right"><b>891</b></td>
+<td align="right">160</td>
+<td><sub>Tel-Aviv</sub></td>
 </tr>
 <tr>
 <td align="right">21</td>
-<td><a href="https://github.com/kuchin"><img src="https://avatars.githubusercontent.com/u/87963?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kuchin"><b>Dima Kuchin</b></a><br><sub>&#64;kuchin</sub></td>
-<td align="right"><b>678</b></td>
-<td align="right">0</td>
-<td><sub>Israel</sub></td>
+<td><a href="https://github.com/szabgab"><img src="https://avatars.githubusercontent.com/u/48833?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/szabgab"><b>Gábor Szabó</b></a><br><sub>&#64;szabgab</sub></td>
+<td align="right"><b>730</b></td>
+<td align="right">1,154</td>
+<td><sub>Modiin, Israel</sub></td>
 </tr>
 <tr>
 <td align="right">22</td>
-<td><a href="https://github.com/ronreiter"><img src="https://avatars.githubusercontent.com/u/705936?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ronreiter"><b>Ron Reiter</b></a><br><sub>&#64;ronreiter</sub></td>
-<td align="right"><b>597</b></td>
-<td align="right">0</td>
-<td><sub>Israel</sub></td>
+<td><a href="https://github.com/meirwah"><img src="https://avatars.githubusercontent.com/u/6059211?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/meirwah"><b>Meir Wahnon</b></a><br><sub>&#64;meirwah</sub></td>
+<td align="right"><b>714</b></td>
+<td align="right">59</td>
+<td><sub>Tel Aviv</sub></td>
 </tr>
 <tr>
 <td align="right">23</td>
-<td><a href="https://github.com/hmemcpy"><img src="https://avatars.githubusercontent.com/u/601206?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hmemcpy"><b>Igal Tabachnik</b></a><br><sub>&#64;hmemcpy</sub></td>
-<td align="right"><b>593</b></td>
-<td align="right">0</td>
-<td><sub>Israel</sub></td>
+<td><a href="https://github.com/techyourchance"><img src="https://avatars.githubusercontent.com/u/12713429?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/techyourchance"><b>TechYourChance</b></a><br><sub>&#64;techyourchance</sub></td>
+<td align="right"><b>711</b></td>
+<td align="right">26</td>
+<td><sub>Tel Aviv</sub></td>
 </tr>
 <tr>
 <td align="right">24</td>
+<td><a href="https://github.com/kuchin"><img src="https://avatars.githubusercontent.com/u/87963?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kuchin"><b>Dima Kuchin</b></a><br><sub>&#64;kuchin</sub></td>
+<td align="right"><b>678</b></td>
+<td align="right">13</td>
+<td><sub>Israel</sub></td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td><a href="https://github.com/YuvalNirkin"><img src="https://avatars.githubusercontent.com/u/3984115?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YuvalNirkin"><b>Yuval Nirkin</b></a><br><sub>&#64;YuvalNirkin</sub></td>
+<td align="right"><b>643</b></td>
+<td align="right">27</td>
+<td><sub>Tel Aviv, Israel</sub></td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td><a href="https://github.com/avikivity"><img src="https://avatars.githubusercontent.com/u/1017210?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/avikivity"><b>Avi Kivity</b></a><br><sub>&#64;avikivity</sub></td>
+<td align="right"><b>615</b></td>
+<td align="right">67</td>
+<td><sub>Herzliya</sub></td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td><a href="https://github.com/ronreiter"><img src="https://avatars.githubusercontent.com/u/705936?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ronreiter"><b>Ron Reiter</b></a><br><sub>&#64;ronreiter</sub></td>
+<td align="right"><b>597</b></td>
+<td align="right">77</td>
+<td><sub>Israel</sub></td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td><a href="https://github.com/hmemcpy"><img src="https://avatars.githubusercontent.com/u/601206?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hmemcpy"><b>Igal Tabachnik</b></a><br><sub>&#64;hmemcpy</sub></td>
+<td align="right"><b>594</b></td>
+<td align="right">113</td>
+<td><sub>Israel</sub></td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td><a href="https://github.com/goldshtn"><img src="https://avatars.githubusercontent.com/u/1685437?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/goldshtn"><b>Sasha Goldshtein</b></a><br><sub>&#64;goldshtn</sub></td>
+<td align="right"><b>591</b></td>
+<td align="right">50</td>
+<td><sub>Kfar Saba, Israel</sub></td>
+</tr>
+<tr>
+<td align="right">30</td>
 <td><a href="https://github.com/cool-RR"><img src="https://avatars.githubusercontent.com/u/56778?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cool-RR"><b>Ram Rachum</b></a><br><sub>&#64;cool-RR</sub></td>
 <td align="right"><b>555</b></td>
 <td align="right">0</td>
 <td><sub>Tel-Aviv, Israel</sub></td>
 </tr>
 <tr>
-<td align="right">25</td>
+<td align="right">31</td>
+<td><a href="https://github.com/ronami"><img src="https://avatars.githubusercontent.com/u/5484230?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ronami"><b>Ronen Amiel</b></a><br><sub>&#64;ronami</sub></td>
+<td align="right"><b>547</b></td>
+<td align="right">0</td>
+<td><sub>Tel Aviv Yafo, Israel</sub></td>
+</tr>
+<tr>
+<td align="right">32</td>
 <td><a href="https://github.com/idank"><img src="https://avatars.githubusercontent.com/u/1277636?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/idank"><b>Idan Kamara</b></a><br><sub>&#64;idank</sub></td>
 <td align="right"><b>517</b></td>
 <td align="right">0</td>
 <td><sub>Tel Aviv</sub></td>
 </tr>
 <tr>
-<td align="right">26</td>
+<td align="right">33</td>
 <td><a href="https://github.com/gabime"><img src="https://avatars.githubusercontent.com/u/6052198?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gabime"><b>Gabi Melman</b></a><br><sub>&#64;gabime</sub></td>
 <td align="right"><b>503</b></td>
 <td align="right">0</td>
 <td><sub>Israel</sub></td>
 </tr>
 <tr>
-<td align="right">27</td>
+<td align="right">34</td>
+<td><a href="https://github.com/LeoNatan"><img src="https://avatars.githubusercontent.com/u/2270433?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LeoNatan"><b>Léo Natan</b></a><br><sub>&#64;LeoNatan</sub></td>
+<td align="right"><b>469</b></td>
+<td align="right">0</td>
+<td><sub>Ramat HaSharon, Israel</sub></td>
+</tr>
+<tr>
+<td align="right">35</td>
+<td><a href="https://github.com/tebeka"><img src="https://avatars.githubusercontent.com/u/87697?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tebeka"><b>Miki Tebeka</b></a><br><sub>&#64;tebeka</sub></td>
+<td align="right"><b>398</b></td>
+<td align="right">0</td>
+<td><sub>Israel</sub></td>
+</tr>
+<tr>
+<td align="right">36</td>
 <td><a href="https://github.com/bolshchikov"><img src="https://avatars.githubusercontent.com/u/1206121?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bolshchikov"><b>Sergey Bolshchikov</b></a><br><sub>&#64;bolshchikov</sub></td>
 <td align="right"><b>319</b></td>
 <td align="right">0</td>
 <td><sub>Israel</sub></td>
 </tr>
 <tr>
-<td align="right">28</td>
+<td align="right">37</td>
+<td><a href="https://github.com/ealush"><img src="https://avatars.githubusercontent.com/u/11255103?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ealush"><b>Evyatar Alush</b></a><br><sub>&#64;ealush</sub></td>
+<td align="right"><b>319</b></td>
+<td align="right">0</td>
+<td><sub>Tel Aviv</sub></td>
+</tr>
+<tr>
+<td align="right">38</td>
+<td><a href="https://github.com/LIJI32"><img src="https://avatars.githubusercontent.com/u/2345928?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LIJI32"><b>Lior Halphon</b></a><br><sub>&#64;LIJI32</sub></td>
+<td align="right"><b>310</b></td>
+<td align="right">0</td>
+<td><sub>Israel</sub></td>
+</tr>
+<tr>
+<td align="right">39</td>
 <td><a href="https://github.com/may215"><img src="https://avatars.githubusercontent.com/u/1849258?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/may215"><b>Meir Shamay</b></a><br><sub>&#64;may215</sub></td>
 <td align="right"><b>308</b></td>
 <td align="right">0</td>
 <td><sub>Israel</sub></td>
 </tr>
 <tr>
-<td align="right">29</td>
+<td align="right">40</td>
+<td><a href="https://github.com/alexei-led"><img src="https://avatars.githubusercontent.com/u/1898375?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexei-led"><b>Alexei Ledenev</b></a><br><sub>&#64;alexei-led</sub></td>
+<td align="right"><b>303</b></td>
+<td align="right">0</td>
+<td><sub>Israel</sub></td>
+</tr>
+<tr>
+<td align="right">41</td>
+<td><a href="https://github.com/adamcohenhillel"><img src="https://avatars.githubusercontent.com/u/633840?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adamcohenhillel"><b>Adam Cohen Hillel</b></a><br><sub>&#64;adamcohenhillel</sub></td>
+<td align="right"><b>284</b></td>
+<td align="right">0</td>
+<td><sub>San Francisco &lt;&gt; Israel</sub></td>
+</tr>
+<tr>
+<td align="right">42</td>
 <td><a href="https://github.com/yoavbls"><img src="https://avatars.githubusercontent.com/u/5693018?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yoavbls"><b>Yoav Balasiano</b></a><br><sub>&#64;yoavbls</sub></td>
 <td align="right"><b>281</b></td>
 <td align="right">0</td>
 <td><sub>Israel</sub></td>
 </tr>
 <tr>
-<td align="right">30</td>
+<td align="right">43</td>
+<td><a href="https://github.com/tomerfiliba"><img src="https://avatars.githubusercontent.com/u/53122?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tomerfiliba"><b>Tomer Filiba</b></a><br><sub>&#64;tomerfiliba</sub></td>
+<td align="right"><b>258</b></td>
+<td align="right">0</td>
+<td><sub>Israel</sub></td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><a href="https://github.com/assafdori"><img src="https://avatars.githubusercontent.com/u/83507910?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/assafdori"><b>Assaf Dori</b></a><br><sub>&#64;assafdori</sub></td>
+<td align="right"><b>228</b></td>
+<td align="right">0</td>
+<td><sub>Tel Aviv</sub></td>
+</tr>
+<tr>
+<td align="right">45</td>
+<td><a href="https://github.com/eranif"><img src="https://avatars.githubusercontent.com/u/3677711?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eranif"><b>Eran Ifrah</b></a><br><sub>&#64;eranif</sub></td>
+<td align="right"><b>228</b></td>
+<td align="right">0</td>
+<td><sub>Israel</sub></td>
+</tr>
+<tr>
+<td align="right">46</td>
 <td><a href="https://github.com/harelba"><img src="https://avatars.githubusercontent.com/u/985765?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/harelba"><b>Harel Ben-Attia</b></a><br><sub>&#64;harelba</sub></td>
 <td align="right"><b>195</b></td>
 <td align="right">0</td>
 <td><sub>Israel</sub></td>
 </tr>
 <tr>
-<td align="right">31</td>
+<td align="right">47</td>
+<td><a href="https://github.com/sk3pp3r"><img src="https://avatars.githubusercontent.com/u/15815967?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sk3pp3r"><b>Haim Cohen</b></a><br><sub>&#64;sk3pp3r</sub></td>
+<td align="right"><b>179</b></td>
+<td align="right">0</td>
+<td><sub>Israel</sub></td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><a href="https://github.com/sagiegurari"><img src="https://avatars.githubusercontent.com/u/8112599?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sagiegurari"><b>Sagie Gur-Ari</b></a><br><sub>&#64;sagiegurari</sub></td>
+<td align="right"><b>162</b></td>
+<td align="right">0</td>
+<td><sub>Israel</sub></td>
+</tr>
+<tr>
+<td align="right">49</td>
 <td><a href="https://github.com/filsv"><img src="https://avatars.githubusercontent.com/u/13712013?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/filsv"><b>Fil Sviatoslav 🇺🇦🇮🇱</b></a><br><sub>&#64;filsv</sub></td>
 <td align="right"><b>159</b></td>
 <td align="right">0</td>
 <td><sub>Tel Aviv</sub></td>
 </tr>
 <tr>
-<td align="right">32</td>
+<td align="right">50</td>
+<td><a href="https://github.com/shaked6540"><img src="https://avatars.githubusercontent.com/u/13851815?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shaked6540"><b>Shaked</b></a><br><sub>&#64;shaked6540</sub></td>
+<td align="right"><b>156</b></td>
+<td align="right">0</td>
+<td><sub>Israel</sub></td>
+</tr>
+<tr>
+<td align="right">51</td>
+<td><a href="https://github.com/adirh3"><img src="https://avatars.githubusercontent.com/u/27368554?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adirh3"><b>Lighto</b></a><br><sub>&#64;adirh3</sub></td>
+<td align="right"><b>110</b></td>
+<td align="right">0</td>
+<td><sub>Israel</sub></td>
+</tr>
+<tr>
+<td align="right">52</td>
 <td><a href="https://github.com/omriharel"><img src="https://avatars.githubusercontent.com/u/10298151?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/omriharel"><b>Omri Harel</b></a><br><sub>&#64;omriharel</sub></td>
 <td align="right"><b>94</b></td>
 <td align="right">0</td>
 <td><sub>Israel</sub></td>
 </tr>
 <tr>
-<td align="right">33</td>
+<td align="right">53</td>
+<td><a href="https://github.com/wusimpl"><img src="https://avatars.githubusercontent.com/u/40652243?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wusimpl"><b>wusimpl</b></a><br><sub>&#64;wusimpl</sub></td>
+<td align="right"><b>87</b></td>
+<td align="right">0</td>
+<td><sub>耶路撒冷</sub></td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><a href="https://github.com/nirsky"><img src="https://avatars.githubusercontent.com/u/16322616?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nirsky"><b>Nir Hadassi</b></a><br><sub>&#64;nirsky</sub></td>
+<td align="right"><b>76</b></td>
+<td align="right">0</td>
+<td><sub>Tel-Aviv, Israel</sub></td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><a href="https://github.com/NoamB"><img src="https://avatars.githubusercontent.com/u/9786?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NoamB"><b>Noam Ben Ari</b></a><br><sub>&#64;NoamB</sub></td>
+<td align="right"><b>72</b></td>
+<td align="right">0</td>
+<td><sub>Israel</sub></td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><a href="https://github.com/liiight"><img src="https://avatars.githubusercontent.com/u/4374581?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/liiight"><b>Or Carmi</b></a><br><sub>&#64;liiight</sub></td>
+<td align="right"><b>68</b></td>
+<td align="right">0</td>
+<td><sub>Israel</sub></td>
+</tr>
+<tr>
+<td align="right">57</td>
 <td><a href="https://github.com/yoav-lavi"><img src="https://avatars.githubusercontent.com/u/14347895?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yoav-lavi"><b>Yoav Lavi</b></a><br><sub>&#64;yoav-lavi</sub></td>
 <td align="right"><b>64</b></td>
+<td align="right">0</td>
+<td><sub>Israel</sub></td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><a href="https://github.com/eldadru"><img src="https://avatars.githubusercontent.com/u/1157826?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eldadru"><b>Eldad Rudich</b></a><br><sub>&#64;eldadru</sub></td>
+<td align="right"><b>44</b></td>
+<td align="right">0</td>
+<td><sub>Israel</sub></td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><a href="https://github.com/elai950"><img src="https://avatars.githubusercontent.com/u/37900883?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elai950"><b>Elai Zuberman</b></a><br><sub>&#64;elai950</sub></td>
+<td align="right"><b>39</b></td>
 <td align="right">0</td>
 <td><sub>Israel</sub></td>
 </tr>
@@ -260,7 +442,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 33 attributed developers are tracked; the cutoff is 64 followers.
+- Organizations are excluded. 59 attributed developers are tracked; the cutoff is 39 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

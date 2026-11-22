@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"GL","name":"Greenland","slug":"greenland"},
-"count": 126,
+"count": 124,
 "repositories": [
-  {"name":"Jiiks/BetterDiscordApp","stars":1266,"forks":701,"language":"JavaScript","license":"MIT","archived":true,"createdAt":"2015-08-25T04:08:22Z","pushedAt":"2022-06-22T18:36:44Z","owner":{"login":"Jiiks","type":"User","name":"Alexei Stukov","location":"Greenland"},"attribution":{"code":"GL","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:35.660Z","id":"legacy:jiiks/betterdiscordapp","legacy":true},
-  {"name":"Naxela/The_Lightmapper","stars":819,"forks":67,"language":"Python","license":"GPL-3.0","archived":false,"createdAt":"2019-04-12T14:51:28Z","pushedAt":"2026-09-24T18:54:46Z","owner":{"login":"Naxela","type":"User","name":"Alexander Kleemann","location":"Greenland"},"attribution":{"code":"GL","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:35.660Z","id":"legacy:naxela/the_lightmapper","legacy":true},
   {"name":"MicroPythonOS/MicroPythonOS","stars":772,"forks":98,"language":"Python","license":"MIT","archived":false,"createdAt":"2025-04-30T11:20:07Z","pushedAt":"2026-09-28T20:18:37Z","owner":{"login":"MicroPythonOS","type":"Organization","name":"MicroPythonOS","location":"Greenland"},"attribution":{"code":"GL","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:35.660Z","id":"legacy:micropythonos/micropythonos","legacy":true},
   {"name":"Nelson-Cheung/latex-book-template","stars":63,"forks":21,"language":"TeX","license":"GPL-3.0","archived":false,"createdAt":"2021-12-18T05:29:13Z","pushedAt":"2021-12-18T12:20:23Z","owner":{"login":"Nelson-Cheung","type":"User","name":"Nelson Cheung","location":"Greenland"},"attribution":{"code":"GL","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:35.660Z","id":"legacy:nelson-cheung/latex-book-template","legacy":true},
   {"name":"PennyHow/PyTrx","stars":48,"forks":25,"language":"Python","license":"MIT","archived":false,"createdAt":"2017-05-17T08:01:03Z","pushedAt":"2026-04-15T22:41:05Z","owner":{"login":"PennyHow","type":"User","name":"Penny How","location":"Nuuk, Greenland"},"attribution":{"code":"GL","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T13:36:35.660Z","id":"legacy:pennyhow/pytrx","legacy":true},

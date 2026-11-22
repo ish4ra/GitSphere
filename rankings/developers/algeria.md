@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/developers/DZ.json">JSON</a> |
+| 🟡 Provisional | **27** | 22 Nov 2026 | <a href="../../data/developers/DZ.json">JSON</a> |
 
 </div>
 
@@ -91,6 +91,125 @@
 <td align="right">62</td>
 <td><sub>Tiaret, Algeria</sub></td>
 </tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/kh-mahmoud"><img src="https://avatars.githubusercontent.com/u/97807779?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kh-mahmoud"><b>Khouchane Mahmoud</b></a><br><sub>&#64;kh-mahmoud</sub></td>
+<td align="right"><b>972</b></td>
+<td align="right">54</td>
+<td><sub>Algeria</sub></td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><a href="https://github.com/medzino2000"><img src="https://avatars.githubusercontent.com/u/99444055?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/medzino2000"><b>med zino</b></a><br><sub>&#64;medzino2000</sub></td>
+<td align="right"><b>904</b></td>
+<td align="right">21</td>
+<td><sub>algeria</sub></td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><a href="https://github.com/h4x0r-dz"><img src="https://avatars.githubusercontent.com/u/26070859?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/h4x0r-dz"><b>h4x0r&#95;dz</b></a><br><sub>&#64;h4x0r-dz</sub></td>
+<td align="right"><b>874</b></td>
+<td align="right">24</td>
+<td><sub>Algeria</sub></td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><a href="https://github.com/Saboo24"><img src="https://avatars.githubusercontent.com/u/173930827?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Saboo24"><b>Amine Hamzaoui</b></a><br><sub>&#64;Saboo24</sub></td>
+<td align="right"><b>845</b></td>
+<td align="right">20</td>
+<td><sub>Algeria</sub></td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><a href="https://github.com/x4nth055"><img src="https://avatars.githubusercontent.com/u/37851086?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/x4nth055"><b>Rockikz</b></a><br><sub>&#64;x4nth055</sub></td>
+<td align="right"><b>843</b></td>
+<td align="right">16</td>
+<td><sub>Algeria</sub></td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><a href="https://github.com/mssm199996"><img src="https://avatars.githubusercontent.com/u/50867911?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mssm199996"><b>MOULEY SLIMANE Sidi Mohamed</b></a><br><sub>&#64;mssm199996</sub></td>
+<td align="right"><b>769</b></td>
+<td align="right">39</td>
+<td><sub>Algeria, Tlemcen</sub></td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><a href="https://github.com/Hmida71"><img src="https://avatars.githubusercontent.com/u/69757558?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hmida71"><b>Hmida71</b></a><br><sub>&#64;Hmida71</sub></td>
+<td align="right"><b>749</b></td>
+<td align="right">101</td>
+<td><sub>Algeria,mostaganem</sub></td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><a href="https://github.com/Hamza5"><img src="https://avatars.githubusercontent.com/u/7011111?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hamza5"><b>Hamza Abbad</b></a><br><sub>&#64;Hamza5</sub></td>
+<td align="right"><b>723</b></td>
+<td align="right">42</td>
+<td><sub>Algeria</sub></td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><a href="https://github.com/sabri-zaki"><img src="https://avatars.githubusercontent.com/u/37634605?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sabri-zaki"><b>sabri zakaria</b></a><br><sub>&#64;sabri-zaki</sub></td>
+<td align="right"><b>687</b></td>
+<td align="right">8</td>
+<td><sub>Algeria</sub></td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><a href="https://github.com/z-sohaib"><img src="https://avatars.githubusercontent.com/u/58574326?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/z-sohaib"><b>Zouambia Sohaib</b></a><br><sub>&#64;z-sohaib</sub></td>
+<td align="right"><b>635</b></td>
+<td align="right">98</td>
+<td><sub>Algeria</sub></td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><a href="https://github.com/nacerkraa"><img src="https://avatars.githubusercontent.com/u/79715038?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nacerkraa"><b>nacer kraa</b></a><br><sub>&#64;nacerkraa</sub></td>
+<td align="right"><b>624</b></td>
+<td align="right">63</td>
+<td><sub>Constantine, Algeria</sub></td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><a href="https://github.com/davidlotfi"><img src="https://avatars.githubusercontent.com/u/31359561?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davidlotfi"><b>Abdellatif boukernine</b></a><br><sub>&#64;davidlotfi</sub></td>
+<td align="right"><b>599</b></td>
+<td align="right">42</td>
+<td><sub>Algeria</sub></td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td><a href="https://github.com/joker25000"><img src="https://avatars.githubusercontent.com/u/16679753?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joker25000"><b>Joker-Security</b></a><br><sub>&#64;joker25000</sub></td>
+<td align="right"><b>598</b></td>
+<td align="right">11</td>
+<td><sub>DZ</sub></td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td><a href="https://github.com/WissalManseri"><img src="https://avatars.githubusercontent.com/u/135167709?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/WissalManseri"><b>WISSAL MN</b></a><br><sub>&#64;WissalManseri</sub></td>
+<td align="right"><b>583</b></td>
+<td align="right">105</td>
+<td><sub>Mostaganem, Algeria</sub></td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td><a href="https://github.com/n4ss1m"><img src="https://avatars.githubusercontent.com/u/1750845?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/n4ss1m"><b>Nassim</b></a><br><sub>&#64;n4ss1m</sub></td>
+<td align="right"><b>573</b></td>
+<td align="right">13</td>
+<td><sub>Algeria , Blida</sub></td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td><a href="https://github.com/azouaoui-med"><img src="https://avatars.githubusercontent.com/u/25878302?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/azouaoui-med"><b>Mohamed Azouaoui</b></a><br><sub>&#64;azouaoui-med</sub></td>
+<td align="right"><b>569</b></td>
+<td align="right">25</td>
+<td><sub>Algeria, Algiers</sub></td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td><a href="https://github.com/Younesfdj"><img src="https://avatars.githubusercontent.com/u/113609638?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Younesfdj"><b>Younes Ferradji</b></a><br><sub>&#64;Younesfdj</sub></td>
+<td align="right"><b>184</b></td>
+<td align="right">0</td>
+<td><sub>Algeria</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -99,8 +218,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 10 attributed developers are tracked; the cutoff is 1,029 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 27 attributed developers are tracked; the cutoff is 184 followers.
+- **Location discovery:** term 0 of 154 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

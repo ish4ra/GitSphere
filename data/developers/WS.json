@@ -5,12 +5,13 @@
 "country": {"code":"WS","name":"Samoa","slug":"samoa"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":6,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":6,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDOBXa96A","login":"5thAttemptCode","name":"Henry","url":"https://github.com/5thAttemptCode","avatarUrl":"https://avatars.githubusercontent.com/u/91667944?s=80&v=4","followers":6,"publicRepos":46,"location":"Apia, Samoa","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"MDQ6VXNlcjExNjYyMzk5","login":"ainsofs","name":"Ainsof So'o","url":"https://github.com/ainsofs","avatarUrl":"https://avatars.githubusercontent.com/u/11662399?s=80&v=4","followers":13,"publicRepos":73,"location":"Samoa","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"U_kgDOBXa96A","login":"5thAttemptCode","name":"Henry","url":"https://github.com/5thAttemptCode","avatarUrl":"https://avatars.githubusercontent.com/u/91667944?s=80&v=4","followers":6,"publicRepos":46,"location":"Apia, Samoa","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "f7e35c7a4c1f4b2f",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "d0bf48e29f8d362f",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

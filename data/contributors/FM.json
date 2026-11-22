@@ -5,10 +5,10 @@
 "country": {"code":"FM","name":"Micronesia","slug":"micronesia"},
 "status": "building",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":17,"measuredAccounts":1,"measurementBacklog":16,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":24,"measuredAccounts":2,"measurementBacklog":22,"window":null,"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":59,"unresolved":0}},
 "users": [],
-"contentHash": "97a77b70361b23a7",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "6d905f3c40789ea5",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": null,
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

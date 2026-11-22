@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/developers/RW.json">JSON</a> |
+| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/developers/RW.json">JSON</a> |
 
 </div>
 
@@ -63,6 +63,34 @@
 <td align="right">144</td>
 <td><sub>Rwanda</sub></td>
 </tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/Nsoro-Allan"><img src="https://avatars.githubusercontent.com/u/135638821?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nsoro-Allan"><b>Nsoro Allan</b></a><br><sub>&#64;Nsoro-Allan</sub></td>
+<td align="right"><b>971</b></td>
+<td align="right">446</td>
+<td><sub>Kigali, Rwanda</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/ProgrammerDATCH"><img src="https://avatars.githubusercontent.com/u/128073754?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ProgrammerDATCH"><b>Mr. David</b></a><br><sub>&#64;ProgrammerDATCH</sub></td>
+<td align="right"><b>890</b></td>
+<td align="right">120</td>
+<td><sub>Kigali Rwanda</sub></td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/umutambyi-gad"><img src="https://avatars.githubusercontent.com/u/65312850?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/umutambyi-gad"><b>Gad</b></a><br><sub>&#64;umutambyi-gad</sub></td>
+<td align="right"><b>654</b></td>
+<td align="right">13</td>
+<td><sub>Kigali, Rwanda</sub></td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/samuelumutiti"><img src="https://avatars.githubusercontent.com/u/183544930?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/samuelumutiti"><b>Umutiti Samuel</b></a><br><sub>&#64;samuelumutiti</sub></td>
+<td align="right"><b>610</b></td>
+<td align="right">5</td>
+<td><sub>Rwanda / Kigali City</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -71,7 +99,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 6 attributed developers are tracked; the cutoff is 1,013 followers.
+- Organizations are excluded. 10 attributed developers are tracked; the cutoff is 610 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

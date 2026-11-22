@@ -5,12 +5,13 @@
 "country": {"code":"GE","name":"Georgia","slug":"georgia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":257,"measuredAccounts":1,"measurementBacklog":256,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":262,"measuredAccounts":2,"measurementBacklog":260,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":167,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjY4Nzc3Mzc=","login":"riseansmal","name":"Ri Sean Smal","url":"https://github.com/riseansmal","avatarUrl":"https://avatars.githubusercontent.com/u/6877737?s=80&v=4","followers":2618,"publicRepos":368,"location":"Tbilisi, Georgia","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-22","contributions":{"public":28,"commits":8,"pullRequests":0,"reviews":0,"issues":0,"repositories":20,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjY4NzMyMDI=","login":"bumbeishvili","name":"David Bumbeishvili","url":"https://github.com/bumbeishvili","avatarUrl":"https://avatars.githubusercontent.com/u/6873202?s=80&v=4","followers":413,"publicRepos":281,"location":"Tbilisi, Georgia","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-22","contributions":{"public":990,"commits":965,"pullRequests":1,"reviews":0,"issues":0,"repositories":24,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjY4Nzc3Mzc=","login":"riseansmal","name":"Ri Sean Smal","url":"https://github.com/riseansmal","avatarUrl":"https://avatars.githubusercontent.com/u/6877737?s=80&v=4","followers":2618,"publicRepos":368,"location":"Tbilisi, Georgia","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-22","contributions":{"public":28,"commits":8,"pullRequests":0,"reviews":0,"issues":0,"repositories":20,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "d8311b2d2c9c4283",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "f8beb08792a9db56",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

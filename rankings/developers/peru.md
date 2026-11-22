@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/developers/PE.json">JSON</a> |
+| 🟡 Provisional | **25** | 22 Nov 2026 | <a href="../../data/developers/PE.json">JSON</a> |
 
 </div>
 
@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/sergiodxa"><img src="https://avatars.githubusercontent.com/u/1312018?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sergiodxa"><b>Sergio Xalambrí</b></a><br><sub>&#64;sergiodxa</sub></td>
-<td align="right"><b>2,202</b></td>
+<td align="right"><b>2,201</b></td>
 <td align="right">156</td>
 <td><sub>Lima, Perú</sub></td>
 </tr>
@@ -93,27 +93,104 @@
 </tr>
 <tr>
 <td align="right">11</td>
+<td><a href="https://github.com/hexed-AAL1X"><img src="https://avatars.githubusercontent.com/u/205622515?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hexed-AAL1X"><b>AAL1X</b></a><br><sub>&#64;hexed-AAL1X</sub></td>
+<td align="right"><b>816</b></td>
+<td align="right">27</td>
+<td><sub>Perú/Lima</sub></td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><a href="https://github.com/apholdings"><img src="https://avatars.githubusercontent.com/u/44477388?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/apholdings"><b>SoloPython</b></a><br><sub>&#64;apholdings</sub></td>
+<td align="right"><b>692</b></td>
+<td align="right">55</td>
+<td><sub>Lima, Peru</sub></td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><a href="https://github.com/joelibaceta"><img src="https://avatars.githubusercontent.com/u/864790?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joelibaceta"><b>Joel Ibaceta</b></a><br><sub>&#64;joelibaceta</sub></td>
+<td align="right"><b>676</b></td>
+<td align="right">547</td>
+<td><sub>Lima, Peru</sub></td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><a href="https://github.com/OmarUTEC"><img src="https://avatars.githubusercontent.com/u/91240794?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OmarUTEC"><b>Om&#64;r</b></a><br><sub>&#64;OmarUTEC</sub></td>
+<td align="right"><b>672</b></td>
+<td align="right">103</td>
+<td><sub>Lima, Perú</sub></td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><a href="https://github.com/CodigoEstudiante"><img src="https://avatars.githubusercontent.com/u/102183275?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CodigoEstudiante"><b>Codigo Estudiante</b></a><br><sub>&#64;CodigoEstudiante</sub></td>
+<td align="right"><b>637</b></td>
+<td align="right">161</td>
+<td><sub>Peru</sub></td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><a href="https://github.com/UskoKruM"><img src="https://avatars.githubusercontent.com/u/11650755?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/UskoKruM"><b>Oscar Alejandro Flavio García Fuentes</b></a><br><sub>&#64;UskoKruM</sub></td>
+<td align="right"><b>634</b></td>
+<td align="right">93</td>
+<td><sub>Chiclayo, Perú</sub></td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><a href="https://github.com/joedayz"><img src="https://avatars.githubusercontent.com/u/1118135?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joedayz"><b>José Díaz</b></a><br><sub>&#64;joedayz</sub></td>
+<td align="right"><b>622</b></td>
+<td align="right">300</td>
+<td><sub>Lima - Perú</sub></td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><a href="https://github.com/jorgemunozl"><img src="https://avatars.githubusercontent.com/u/133463267?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jorgemunozl"><b>jorge-munoz-lar</b></a><br><sub>&#64;jorgemunozl</sub></td>
+<td align="right"><b>622</b></td>
+<td align="right">24</td>
+<td><sub>Lima, Peru</sub></td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><a href="https://github.com/csaybar"><img src="https://avatars.githubusercontent.com/u/16768318?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/csaybar"><b>Cesar Aybar</b></a><br><sub>&#64;csaybar</sub></td>
+<td align="right"><b>578</b></td>
+<td align="right">122</td>
+<td><sub>Lima, Peru</sub></td>
+</tr>
+<tr>
+<td align="right">20</td>
 <td><a href="https://github.com/dcajasn"><img src="https://avatars.githubusercontent.com/u/61527316?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dcajasn"><b>Riskfolio</b></a><br><sub>&#64;dcajasn</sub></td>
 <td align="right"><b>559</b></td>
 <td align="right">0</td>
 <td><sub>Lima, Peru</sub></td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">21</td>
 <td><a href="https://github.com/alainm23"><img src="https://avatars.githubusercontent.com/u/33765137?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alainm23"><b>Alain</b></a><br><sub>&#64;alainm23</sub></td>
 <td align="right"><b>413</b></td>
 <td align="right">0</td>
 <td><sub>Cusco, Cusco, Perú</sub></td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">22</td>
 <td><a href="https://github.com/hpneo"><img src="https://avatars.githubusercontent.com/u/611699?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hpneo"><b>Gustavo Leon</b></a><br><sub>&#64;hpneo</sub></td>
 <td align="right"><b>363</b></td>
 <td align="right">0</td>
 <td><sub>Lima - Perú</sub></td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">23</td>
+<td><a href="https://github.com/rafaelmardojai"><img src="https://avatars.githubusercontent.com/u/6210397?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rafaelmardojai"><b>Rafael Mardojai CM</b></a><br><sub>&#64;rafaelmardojai</sub></td>
+<td align="right"><b>319</b></td>
+<td align="right">0</td>
+<td><sub>Perú</sub></td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td><a href="https://github.com/CristianOlivera1"><img src="https://avatars.githubusercontent.com/u/171596250?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CristianOlivera1"><b>Cristian Olivera Chávez</b></a><br><sub>&#64;CristianOlivera1</sub></td>
+<td align="right"><b>153</b></td>
+<td align="right">0</td>
+<td><sub>Peru</sub></td>
+</tr>
+<tr>
+<td align="right">25</td>
 <td><a href="https://github.com/hespejob"><img src="https://avatars.githubusercontent.com/u/41070497?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hespejob"><b>Ing. CIP Hugo Espejo</b></a><br><sub>&#64;hespejob</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">8</td>
@@ -127,7 +204,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 14 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 25 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

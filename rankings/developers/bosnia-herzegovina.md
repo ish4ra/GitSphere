@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/BA.json">JSON</a> |
+| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/developers/BA.json">JSON</a> |
 
 </div>
 
@@ -23,17 +23,38 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/marjanovicbrane"><img src="https://avatars.githubusercontent.com/u/61464267?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marjanovicbrane"><b>Brane Marjanovic</b></a><br><sub>&#64;marjanovicbrane</sub></td>
+<td align="right"><b>975</b></td>
+<td align="right">17</td>
+<td><sub>Banja Luka, Serb Republic</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/inputsh"><img src="https://avatars.githubusercontent.com/u/4890548?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/inputsh"><b>Aleksandar Todorović</b></a><br><sub>&#64;inputsh</sub></td>
 <td align="right"><b>742</b></td>
 <td align="right">100</td>
 <td><sub>Sarajevo, Bosnia &amp; Herzegovina</sub></td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">3</td>
 <td><a href="https://github.com/adnanh"><img src="https://avatars.githubusercontent.com/u/82367?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adnanh"><b>Adnan Hajdarević</b></a><br><sub>&#64;adnanh</sub></td>
 <td align="right"><b>229</b></td>
 <td align="right">42</td>
 <td><sub>Sarajevo, Bosnia &amp; Herzegovina</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/borisdj"><img src="https://avatars.githubusercontent.com/u/1279604?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/borisdj"><b>Boris Djurdjevic</b></a><br><sub>&#64;borisdj</sub></td>
+<td align="right"><b>129</b></td>
+<td align="right">32</td>
+<td><sub>Banja Luka, Bosnia and Herzegovina</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/elvirbrk"><img src="https://avatars.githubusercontent.com/u/20227334?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elvirbrk"><b>Elvir Brkić</b></a><br><sub>&#64;elvirbrk</sub></td>
+<td align="right"><b>82</b></td>
+<td align="right">0</td>
+<td><sub>Sarajevo</sub></td>
 </tr>
 </tbody>
 </table>
@@ -43,7 +64,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 229 followers.
+- Organizations are excluded. 5 attributed developers are tracked; the cutoff is 82 followers.
 - **Location discovery:** term 0 of 123 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

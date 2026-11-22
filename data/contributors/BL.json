@@ -5,10 +5,10 @@
 "country": {"code":"BL","name":"St. Barthélemy","slug":"st-barthelemy"},
 "status": "building",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":11,"measuredAccounts":1,"measurementBacklog":10,"window":null,"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":14,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":11,"measuredAccounts":2,"measurementBacklog":9,"window":null,"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":14,"unresolved":0}},
 "users": [],
-"contentHash": "fdb1dab21f1169f1",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "7213b5135c1f3510",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": null,
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

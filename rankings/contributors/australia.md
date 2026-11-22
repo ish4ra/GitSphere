@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/AU.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/AU.json">JSON</a> |
 
 </div>
 
@@ -41,6 +41,24 @@
 <td align="right">1</td>
 <td align="right">100</td>
 </tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/jayvdb"><img src="https://avatars.githubusercontent.com/u/15092?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jayvdb"><b>John Vandenberg</b></a><br><sub>&#64;jayvdb · 603 followers</sub></td>
+<td align="right"><b>701</b></td>
+<td align="right">286</td>
+<td align="right">298</td>
+<td align="right">40</td>
+<td align="right">43</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/drnic"><img src="https://avatars.githubusercontent.com/u/108?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/drnic"><b>Dr Nic Williams</b></a><br><sub>&#64;drnic · 1,855 followers</sub></td>
+<td align="right"><b>72</b></td>
+<td align="right">42</td>
+<td align="right">13</td>
+<td align="right">0</td>
+<td align="right">6</td>
+</tr>
 </tbody>
 </table>
 
@@ -48,7 +66,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 2 of 494 discovered developers (492 awaiting measurement).
+- **Measured:** 4 of 664 discovered developers (660 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 124 in round 1.

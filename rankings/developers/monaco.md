@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/developers/MC.json">JSON</a> |
+| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/MC.json">JSON</a> |
 
 </div>
 
@@ -23,6 +23,13 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/0kxs"><img src="https://avatars.githubusercontent.com/u/246989939?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0kxs"><b>942</b></a><br><sub>&#64;0kxs</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Monaco</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/01design"><img src="https://avatars.githubusercontent.com/u/26067136?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/01design"><b>01design</b></a><br><sub>&#64;01design</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
@@ -36,7 +43,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 1 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

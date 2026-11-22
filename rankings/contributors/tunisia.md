@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/contributors/TN.json">JSON</a> |
+| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/TN.json">JSON</a> |
 
 </div>
 
@@ -25,6 +25,15 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/AzizBenIsmail"><img src="https://avatars.githubusercontent.com/u/61393700?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AzizBenIsmail"><b>Mohamed Aziz Ben Ismail</b></a><br><sub>&#64;AzizBenIsmail · 571 followers</sub></td>
+<td align="right"><b>1,527</b></td>
+<td align="right">1,494</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/ahmnouira"><img src="https://avatars.githubusercontent.com/u/31603793?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahmnouira"><b>Ahmed Nouira</b></a><br><sub>&#64;ahmnouira · 1,255 followers</sub></td>
 <td align="right"><b>207</b></td>
 <td align="right">186</td>
@@ -39,7 +48,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 1 of 402 discovered developers (401 awaiting measurement).
+- **Measured:** 2 of 406 discovered developers (404 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

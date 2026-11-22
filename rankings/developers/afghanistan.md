@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/AF.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/AF.json">JSON</a> |
 
 </div>
 
@@ -30,6 +30,20 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/imranmalakzai"><img src="https://avatars.githubusercontent.com/u/207894927?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/imranmalakzai"><b>Imran Malakzai</b></a><br><sub>&#64;imranmalakzai</sub></td>
+<td align="right"><b>673</b></td>
+<td align="right">10</td>
+<td><sub>Afghanistan</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/01Habibi"><img src="https://avatars.githubusercontent.com/u/183608780?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/01Habibi"><b>Masehullah Habibi</b></a><br><sub>&#64;01Habibi</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Afghanistan- Kabul</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/0093745359387"><img src="https://avatars.githubusercontent.com/u/89460133?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0093745359387"><b>Waisuddin</b></a><br><sub>&#64;0093745359387</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
@@ -43,7 +57,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 171 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

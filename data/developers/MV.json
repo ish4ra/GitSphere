@@ -5,12 +5,13 @@
 "country": {"code":"MV","name":"Maldives","slug":"maldives"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDODwW5gg","login":"001111ak","name":"Hassan","url":"https://github.com/001111ak","avatarUrl":"https://avatars.githubusercontent.com/u/252033410?s=80&v=4","followers":0,"publicRepos":2,"location":"Maldives","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"U_kgDODwW5gg","login":"001111ak","name":"Hassan","url":"https://github.com/001111ak","avatarUrl":"https://avatars.githubusercontent.com/u/252033410?s=80&v=4","followers":0,"publicRepos":2,"location":"Maldives","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjQwNDU1MDI=","login":"0AipE0","name":"Ahmed Mohamed","url":"https://github.com/0AipE0","avatarUrl":"https://avatars.githubusercontent.com/u/4045502?s=80&v=4","followers":0,"publicRepos":1,"location":"Maldives","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "860a43197ca84058",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "dc0be5e374673367",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

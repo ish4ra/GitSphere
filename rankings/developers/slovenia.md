@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/developers/SI.json">JSON</a> |
+| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/developers/SI.json">JSON</a> |
 
 </div>
 
@@ -51,24 +51,80 @@
 </tr>
 <tr>
 <td align="right">5</td>
-<td><a href="https://github.com/aksonov"><img src="https://avatars.githubusercontent.com/u/1321329?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aksonov"><b>Pavel Aksonov</b></a><br><sub>&#64;aksonov</sub></td>
-<td align="right"><b>628</b></td>
-<td align="right">0</td>
-<td><sub>Koper, Slovenia</sub></td>
+<td><a href="https://github.com/andrejbauer"><img src="https://avatars.githubusercontent.com/u/646599?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andrejbauer"><b>Andrej Bauer</b></a><br><sub>&#64;andrejbauer</sub></td>
+<td align="right"><b>938</b></td>
+<td align="right">103</td>
+<td><sub>Slovenia</sub></td>
 </tr>
 <tr>
 <td align="right">6</td>
+<td><a href="https://github.com/igorpecovnik"><img src="https://avatars.githubusercontent.com/u/6281704?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/igorpecovnik"><b>Igor</b></a><br><sub>&#64;igorpecovnik</sub></td>
+<td align="right"><b>937</b></td>
+<td align="right">83</td>
+<td><sub>Ljubljana</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/aksonov"><img src="https://avatars.githubusercontent.com/u/1321329?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aksonov"><b>Pavel Aksonov</b></a><br><sub>&#64;aksonov</sub></td>
+<td align="right"><b>628</b></td>
+<td align="right">58</td>
+<td><sub>Koper, Slovenia</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/Kami"><img src="https://avatars.githubusercontent.com/u/125088?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kami"><b>Tomaz Muraus</b></a><br><sub>&#64;Kami</sub></td>
+<td align="right"><b>618</b></td>
+<td align="right">276</td>
+<td><sub>Ljubljana, Slovenia</sub></td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/CANopenNode"><img src="https://avatars.githubusercontent.com/u/13575344?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CANopenNode"><b>Janez</b></a><br><sub>&#64;CANopenNode</sub></td>
+<td align="right"><b>613</b></td>
+<td align="right">8</td>
+<td><sub>Slovenia</sub></td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/maticzav"><img src="https://avatars.githubusercontent.com/u/3924224?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maticzav"><b>Matic Zavadlal</b></a><br><sub>&#64;maticzav</sub></td>
+<td align="right"><b>391</b></td>
+<td align="right">0</td>
+<td><sub>Ljubljana, Slovenia</sub></td>
+</tr>
+<tr>
+<td align="right">11</td>
 <td><a href="https://github.com/AndrewStetsenko"><img src="https://avatars.githubusercontent.com/u/2838582?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AndrewStetsenko"><b>AndrewStetsenko</b></a><br><sub>&#64;AndrewStetsenko</sub></td>
 <td align="right"><b>286</b></td>
 <td align="right">0</td>
 <td><sub>Slovenia</sub></td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">12</td>
+<td><a href="https://github.com/tomaz"><img src="https://avatars.githubusercontent.com/u/77294?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tomaz"><b>tomaz</b></a><br><sub>&#64;tomaz</sub></td>
+<td align="right"><b>251</b></td>
+<td align="right">0</td>
+<td><sub>Slovenia</sub></td>
+</tr>
+<tr>
+<td align="right">13</td>
 <td><a href="https://github.com/buresdv"><img src="https://avatars.githubusercontent.com/u/22037369?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/buresdv"><b>David Bureš</b></a><br><sub>&#64;buresdv</sub></td>
 <td align="right"><b>241</b></td>
 <td align="right">0</td>
 <td><sub>Maribor, Slovenia</sub></td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><a href="https://github.com/filips123"><img src="https://avatars.githubusercontent.com/u/16626308?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/filips123"><b>Filip Štamcar</b></a><br><sub>&#64;filips123</sub></td>
+<td align="right"><b>112</b></td>
+<td align="right">0</td>
+<td><sub>Slovenia</sub></td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><a href="https://github.com/matejlatin"><img src="https://avatars.githubusercontent.com/u/3218960?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/matejlatin"><b>Matej Latin</b></a><br><sub>&#64;matejlatin</sub></td>
+<td align="right"><b>97</b></td>
+<td align="right">0</td>
+<td><sub>Slovenia</sub></td>
 </tr>
 </tbody>
 </table>
@@ -78,7 +134,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 7 attributed developers are tracked; the cutoff is 241 followers.
+- Organizations are excluded. 15 attributed developers are tracked; the cutoff is 97 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

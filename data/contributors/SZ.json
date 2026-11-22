@@ -3,12 +3,14 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"SZ","name":"Eswatini","slug":"eswatini"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":277,"measuredAccounts":1,"measurementBacklog":276,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "a360f8fcbcb57c56",
-"updatedAt": "2026-11-22T11:14:57.063Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"coverage": {"basis":"partial","discoveredAccounts":277,"measuredAccounts":3,"measurementBacklog":274,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"U_kgDOCmzccA","login":"Dwaynemaster007","name":"Thubelihle Dlamini","url":"https://github.com/Dwaynemaster007","avatarUrl":"https://avatars.githubusercontent.com/u/174906480?s=80&v=4","followers":10,"publicRepos":70,"location":"Eswatini","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":668,"commits":616,"pullRequests":19,"reviews":9,"issues":12,"repositories":12,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "52b82976cb5cfe10",
+"updatedAt": "2026-11-22T22:28:05.466Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/contributors/KM.json">JSON</a> |
+| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/contributors/KM.json">JSON</a> |
 
 </div>
 
@@ -25,6 +25,24 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/AnkidineIbrahim"><img src="https://avatars.githubusercontent.com/u/162568769?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AnkidineIbrahim"><b>Ankidine Ibrahim</b></a><br><sub>&#64;AnkidineIbrahim · 0 followers</sub></td>
+<td align="right"><b>48</b></td>
+<td align="right">43</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/ANADEN-KM"><img src="https://avatars.githubusercontent.com/u/176988742?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ANADEN-KM"><b>Agence Nationale de Développement du Numérique - Comores</b></a><br><sub>&#64;ANADEN-KM · 0 followers</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/abdallahsoulaimana"><img src="https://avatars.githubusercontent.com/u/67747492?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdallahsoulaimana"><b>Abdallah Soulaimana</b></a><br><sub>&#64;abdallahsoulaimana · 0 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -39,7 +57,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 2 of 38 discovered developers (36 awaiting measurement).
+- **Measured:** 4 of 38 discovered developers (34 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

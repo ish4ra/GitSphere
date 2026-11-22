@@ -5,12 +5,13 @@
 "country": {"code":"KI","name":"Kiribati","slug":"kiribati"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDOBsBXLg","login":"abonteman","name":"abonteman","url":"https://github.com/abonteman","avatarUrl":"https://avatars.githubusercontent.com/u/113268526?s=80&v=4","followers":0,"publicRepos":1,"location":"Tabwakea, Kiritimati","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"U_kgDOBsBXLg","login":"abonteman","name":"abonteman","url":"https://github.com/abonteman","avatarUrl":"https://avatars.githubusercontent.com/u/113268526?s=80&v=4","followers":0,"publicRepos":1,"location":"Tabwakea, Kiritimati","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"U_kgDODpzw_Q","login":"rakobubauro-beep","name":"KT-LAM SERVICES KIRITIMATI","url":"https://github.com/rakobubauro-beep","avatarUrl":"https://avatars.githubusercontent.com/u/245166333?s=80&v=4","followers":0,"publicRepos":1,"location":"Kiribati, Christmas island Tabwakea2 KI0303 ,00","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "3243668fc93d51f8",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "3840b1d4facc4cfc",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

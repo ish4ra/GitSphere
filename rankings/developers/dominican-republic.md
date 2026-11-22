@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/DO.json">JSON</a> |
+| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/developers/DO.json">JSON</a> |
 
 </div>
 
@@ -35,6 +35,34 @@
 <td align="right">168</td>
 <td><sub>República Dominicana</sub></td>
 </tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/johansitoweb"><img src="https://avatars.githubusercontent.com/u/147890607?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/johansitoweb"><b>Johan Antonio</b></a><br><sub>&#64;johansitoweb</sub></td>
+<td align="right"><b>939</b></td>
+<td align="right">1,024</td>
+<td><sub>Dominican republic</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/sgermosen"><img src="https://avatars.githubusercontent.com/u/23745678?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sgermosen"><b>Starling Germosen</b></a><br><sub>&#64;sgermosen</sub></td>
+<td align="right"><b>728</b></td>
+<td align="right">46</td>
+<td><sub>Santo Domingo, Republica Dominicana</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/Magtimus"><img src="https://avatars.githubusercontent.com/u/23414153?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Magtimus"><b>Magtimus</b></a><br><sub>&#64;Magtimus</sub></td>
+<td align="right"><b>630</b></td>
+<td align="right">120</td>
+<td><sub>La Romana Republica Dominicana</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/LeomarisReyes"><img src="https://avatars.githubusercontent.com/u/35940594?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LeomarisReyes"><b>Leomaris Reyes</b></a><br><sub>&#64;LeomarisReyes</sub></td>
+<td align="right"><b>565</b></td>
+<td align="right">75</td>
+<td><sub>Dominican Republic</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -43,8 +71,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 1,279 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 6 attributed developers are tracked; the cutoff is 565 followers.
+- **Location discovery:** term 0 of 134 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

@@ -7,9 +7,9 @@
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
 "coverage": {"basis":"partial","cutoffFollowers":0,"candidates":294,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":23,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjUzMDY4ODY=","login":"AlexAltea","name":"Alexandro Sanchez Bach","url":"https://github.com/AlexAltea","avatarUrl":"https://avatars.githubusercontent.com/u/5306886?s=80&v=4","followers":953,"publicRepos":52,"location":"Les Escaldes, Andorra","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":1,"id":"MDQ6VXNlcjUzMDY4ODY=","login":"AlexAltea","name":"Alexandro Sanchez Bach","url":"https://github.com/AlexAltea","avatarUrl":"https://avatars.githubusercontent.com/u/5306886?s=80&v=4","followers":954,"publicRepos":52,"location":"Les Escaldes, Andorra","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjg0MzY4OQ==","login":"niwinz","name":"Andrey Antukh","url":"https://github.com/niwinz","avatarUrl":"https://avatars.githubusercontent.com/u/843689?s=80&v=4","followers":889,"publicRepos":149,"location":"Andorra","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":3,"id":"MDQ6VXNlcjkxMDM4MTM=","login":"hussein-aitlahcen","name":"hussein","url":"https://github.com/hussein-aitlahcen","avatarUrl":"https://avatars.githubusercontent.com/u/9103813?s=80&v=4","followers":581,"publicRepos":158,"location":"Andorra","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjkxMDM4MTM=","login":"hussein-aitlahcen","name":"hussein","url":"https://github.com/hussein-aitlahcen","avatarUrl":"https://avatars.githubusercontent.com/u/9103813?s=80&v=4","followers":582,"publicRepos":158,"location":"Andorra","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":4,"id":"MDQ6VXNlcjEyODIyNDg=","login":"John-Lluch","name":"Joan Lluch","url":"https://github.com/John-Lluch","avatarUrl":"https://avatars.githubusercontent.com/u/1282248?s=80&v=4","followers":266,"publicRepos":8,"location":"Escaldes - Andorra","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":5,"id":"MDQ6VXNlcjIwMTY0NTkw","login":"ericrisco","name":"Eric Risco de la Torre","url":"https://github.com/ericrisco","avatarUrl":"https://avatars.githubusercontent.com/u/20164590?s=80&v=4","followers":257,"publicRepos":52,"location":"Andorra","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":6,"id":"MDQ6VXNlcjQwMjIxODc=","login":"jorge07","name":"Jorge Arco","url":"https://github.com/jorge07","avatarUrl":"https://avatars.githubusercontent.com/u/4022187?s=80&v=4","followers":254,"publicRepos":121,"location":"Escaldes, Andorra","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
@@ -302,8 +302,8 @@
   {"rank":293,"id":"U_kgDOFC5G5g","login":"TortillaVoladora","name":"TortillaVoladora","url":"https://github.com/TortillaVoladora","avatarUrl":"https://avatars.githubusercontent.com/u/338577126?s=80&v=4","followers":0,"publicRepos":0,"location":"Andorra","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":294,"id":"U_kgDOB-GXOw","login":"vicente-nieto","name":"Vicente Nieto","url":"https://github.com/vicente-nieto","avatarUrl":"https://avatars.githubusercontent.com/u/132224827?s=80&v=4","followers":0,"publicRepos":0,"location":"Andorra","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "6fd3095e2ad008ea",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "c5dd33e8693ca60a",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

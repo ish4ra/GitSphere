@@ -5,7 +5,7 @@
 "country": {"code":"GF","name":"French Guiana","slug":"french-guiana"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":66,"ownerExpansionBacklog":66,"candidates":66,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":66,"ownerExpansionBacklog":66,"candidates":66,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":35,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Advanced-Family-Personal-Warehouse-Storage-RedAge-v3-","nameWithOwner":"drainerw/Advanced-Family-Personal-Warehouse-Storage-RedAge-v3-","url":"https://github.com/drainerw/Advanced-Family-Personal-Warehouse-Storage-RedAge-v3-","description":null,"stars":19,"forks":0,"primaryLanguage":"C#","license":null,"createdAt":"2026-04-20T09:30:36Z","pushedAt":"2026-06-18T16:20:57Z","archived":false,"owner":{"login":"drainerw","name":null,"type":"User","url":"https://github.com/drainerw","location":"French Guiana","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"sndfile.rs","nameWithOwner":"Xeiron/sndfile.rs","url":"https://github.com/Xeiron/sndfile.rs","description":null,"stars":10,"forks":7,"primaryLanguage":"Rust","license":{"spdxId":"MIT"},"createdAt":"2020-04-05T16:45:15Z","pushedAt":"2023-04-02T07:09:50Z","archived":false,"owner":{"login":"Xeiron","name":"Xeiron Industries Co., Ltd","type":"Organization","url":"https://github.com/Xeiron","location":"Carbet Toukan, French Guiana","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -74,8 +74,8 @@
   {"rank":65,"id":null,"name":"Linux-tools-","nameWithOwner":"vigilance973-art/Linux-tools-","url":"https://github.com/vigilance973-art/Linux-tools-","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-01-23T15:34:21Z","pushedAt":"2026-01-23T15:34:22Z","archived":false,"owner":{"login":"vigilance973-art","name":"Approuague","type":"User","url":"https://github.com/vigilance973-art","location":"Guyane Française","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":66,"id":null,"name":"kinopub","nameWithOwner":"XucisaSuj26/kinopub","url":"https://github.com/XucisaSuj26/kinopub","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-09-26T13:23:46Z","pushedAt":"2026-09-26T13:23:47Z","archived":false,"owner":{"login":"XucisaSuj26","name":"apogee.uplink","type":"User","url":"https://github.com/XucisaSuj26","location":"Kourou, French Guiana","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "f3944dbc434c8102",
-"updatedAt": "2026-11-22T08:41:14.246Z",
+"contentHash": "be7a219070f7dbb7",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

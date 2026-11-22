@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"DO","name":"Dominican Republic","slug":"dominican-republic"},
-"count": 150,
+"count": 149,
 "repositories": [
-  {"name":"adonismendozaperez/33-js-conceptos","stars":1452,"forks":352,"language":"JavaScript","license":"MIT","archived":false,"createdAt":"2018-10-30T23:41:47Z","pushedAt":"2022-10-19T03:10:42Z","owner":{"login":"adonismendozaperez","type":"User","name":"Adonis Mendoza","location":"Dominican Republic"},"attribution":{"code":"DO","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T21:29:26.468Z","id":"legacy:adonismendozaperez/33-js-conceptos","legacy":true},
   {"name":"javisperez/tailwindcolorshades","stars":764,"forks":57,"language":"Vue","archived":false,"createdAt":"2018-01-16T02:22:39Z","pushedAt":"2026-10-04T13:23:31Z","owner":{"login":"javisperez","type":"User","name":"Javis V. Pérez","location":"Dominican Republic"},"attribution":{"code":"DO","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T21:29:26.468Z","id":"legacy:javisperez/tailwindcolorshades","legacy":true},
   {"name":"crewdevio/Trex","stars":726,"forks":22,"language":"TypeScript","license":"MIT","archived":false,"createdAt":"2020-05-24T03:14:49Z","pushedAt":"2023-08-18T22:39:08Z","owner":{"login":"crewdevio","type":"Organization","name":"Softver Open Source","location":"Dominican Republic"},"attribution":{"code":"DO","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T21:29:26.468Z","id":"legacy:crewdevio/trex","legacy":true},
   {"name":"xhit/go-simple-mail","stars":698,"forks":107,"language":"Go","license":"MIT","archived":false,"createdAt":"2019-09-15T05:38:54Z","pushedAt":"2026-10-06T14:42:01Z","owner":{"login":"xhit","type":"User","name":"Santiago De la Cruz","location":"Dominican Republic"},"attribution":{"code":"DO","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T21:29:26.468Z","id":"legacy:xhit/go-simple-mail","legacy":true},

@@ -32,7 +32,7 @@
 <td align="right">2</td>
 <td><a href="https://github.com/kodjodevf"><img src="https://avatars.githubusercontent.com/u/107993382?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kodjodevf"><b>Moustapha Kodjo Amadou</b></a><br><sub>&#64;kodjodevf</sub></td>
 <td align="right"><b>239</b></td>
-<td align="right">0</td>
+<td align="right">23</td>
 <td><sub>Niamey,Niger</sub></td>
 </tr>
 </tbody>

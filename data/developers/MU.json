@@ -5,12 +5,15 @@
 "country": {"code":"MU","name":"Mauritius","slug":"mauritius"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":55,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":55,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjE3MjAzMTcy","login":"0x15F9","name":"Goomany M. Isfaaq","url":"https://github.com/0x15F9","avatarUrl":"https://avatars.githubusercontent.com/u/17203172?s=80&v=4","followers":55,"publicRepos":112,"location":"Mauritius","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"MDQ6VXNlcjIyNjMwNjg0","login":"Abdur-rahmaanJ","name":"Abdur-Rahmaan Janhangeer","url":"https://github.com/Abdur-rahmaanJ","avatarUrl":"https://avatars.githubusercontent.com/u/22630684?s=80&v=4","followers":723,"publicRepos":455,"location":"Mauritius","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjY0NjA1Mzk=","login":"marclamberti","name":"Marc Lamberti","url":"https://github.com/marclamberti","avatarUrl":"https://avatars.githubusercontent.com/u/6460539?s=80&v=4","followers":631,"publicRepos":49,"location":"Mauritius","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjYxNDgyODEw","login":"thatstraw","name":"Traw","url":"https://github.com/thatstraw","avatarUrl":"https://avatars.githubusercontent.com/u/61482810?s=80&v=4","followers":587,"publicRepos":87,"location":"Mauritius","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"MDQ6VXNlcjE3MjAzMTcy","login":"0x15F9","name":"Goomany M. Isfaaq","url":"https://github.com/0x15F9","avatarUrl":"https://avatars.githubusercontent.com/u/17203172?s=80&v=4","followers":55,"publicRepos":112,"location":"Mauritius","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "04d4732754aecaee",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "c84eeed18e4e26fa",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

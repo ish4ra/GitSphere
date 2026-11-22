@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/developers/SV.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/developers/SV.json">JSON</a> |
 
 </div>
 
@@ -46,13 +46,55 @@
 <td align="right">4</td>
 <td><a href="https://github.com/zhm-real"><img src="https://avatars.githubusercontent.com/u/64300713?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zhm-real"><b>Huiming Zhou</b></a><br><sub>&#64;zhm-real</sub></td>
 <td align="right"><b>960</b></td>
-<td align="right">0</td>
+<td align="right">3</td>
 <td><sub>California, US</sub></td>
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/max"><img src="https://avatars.githubusercontent.com/u/111631?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/max"><b>Max Schoening</b></a><br><sub>&#64;max</sub></td>
+<td align="right"><b>676</b></td>
+<td align="right">226</td>
+<td><sub>San Francisco, US</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/KazuCocoa"><img src="https://avatars.githubusercontent.com/u/5511591?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KazuCocoa"><b>Kazuaki Matsuo</b></a><br><sub>&#64;KazuCocoa</sub></td>
+<td align="right"><b>634</b></td>
+<td align="right">365</td>
+<td><sub>California, US</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/WindySha"><img src="https://avatars.githubusercontent.com/u/5637479?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/WindySha"><b>Windy</b></a><br><sub>&#64;WindySha</sub></td>
+<td align="right"><b>596</b></td>
+<td align="right">72</td>
+<td><sub>US，San Jose</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
 <td><a href="https://github.com/sosedoff"><img src="https://avatars.githubusercontent.com/u/71051?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sosedoff"><b>Dan Sosedoff</b></a><br><sub>&#64;sosedoff</sub></td>
 <td align="right"><b>557</b></td>
+<td align="right">0</td>
+<td><sub>California, US</sub></td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/anthonyshort"><img src="https://avatars.githubusercontent.com/u/36125?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anthonyshort"><b>Anthony Short</b></a><br><sub>&#64;anthonyshort</sub></td>
+<td align="right"><b>534</b></td>
+<td align="right">0</td>
+<td><sub>San Francisco, US</sub></td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/mars"><img src="https://avatars.githubusercontent.com/u/17164?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mars"><b>Mars Hall</b></a><br><sub>&#64;mars</sub></td>
+<td align="right"><b>435</b></td>
+<td align="right">0</td>
+<td><sub>California, US</sub></td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/mvp"><img src="https://avatars.githubusercontent.com/u/17501?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mvp"><b>mvp</b></a><br><sub>&#64;mvp</sub></td>
+<td align="right"><b>48</b></td>
 <td align="right">0</td>
 <td><sub>California, US</sub></td>
 </tr>
@@ -64,7 +106,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 5 attributed developers are tracked; the cutoff is 557 followers.
+- Organizations are excluded. 11 attributed developers are tracked; the cutoff is 48 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

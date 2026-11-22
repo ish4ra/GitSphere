@@ -5,7 +5,7 @@
 "country": {"code":"FR","name":"France","slug":"france"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":7221,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":6,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":7221,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":6,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":195,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOQ_KVhA","name":"rtk","nameWithOwner":"rtk-ai/rtk","url":"https://github.com/rtk-ai/rtk","description":"CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies","stars":87454,"forks":5613,"primaryLanguage":"Rust","license":{"spdxId":"Apache-2.0"},"createdAt":"2026-01-22T16:54:16Z","pushedAt":"2026-11-21T20:13:11Z","archived":false,"owner":{"login":"rtk-ai","name":"rtk-ai","type":"Organization","url":"https://github.com/rtk-ai","location":"France","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkyMjA2NzUyMQ==","name":"imgui","nameWithOwner":"ocornut/imgui","url":"https://github.com/ocornut/imgui","description":"Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies","stars":77260,"forks":12106,"primaryLanguage":"C++","license":{"spdxId":"MIT"},"createdAt":"2014-07-21T14:29:47Z","pushedAt":"2026-11-18T21:59:42Z","archived":false,"owner":{"login":"ocornut","name":"omar","type":"User","url":"https://github.com/ocornut","location":"Paris, France","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"MDEwOlJlcG9zaXRvcnkxNTgwMjI2Mw==","name":"ArduinoJson","nameWithOwner":"bblanchon/ArduinoJson","url":"https://github.com/bblanchon/ArduinoJson","description":"📟 JSON library for Arduino and embedded C++. Simple and efficient.","stars":7246,"forks":1168,"primaryLanguage":"C++","license":{"spdxId":"MIT"},"createdAt":"2014-01-10T15:54:52Z","pushedAt":"2026-11-19T09:35:44Z","archived":false,"owner":{"login":"bblanchon","name":"Benoît Blanchon","type":"User","url":"https://github.com/bblanchon","location":"France","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
   {"rank":100,"id":"R_kgDOJ-L2Nw","name":"immich-go","nameWithOwner":"simulot/immich-go","url":"https://github.com/simulot/immich-go","description":"An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.","stars":7221,"forks":285,"primaryLanguage":"Go","license":{"spdxId":"AGPL-3.0"},"createdAt":"2023-07-21T14:52:04Z","pushedAt":"2026-11-14T18:25:12Z","archived":false,"owner":{"login":"simulot","name":"Jean François CASSAN","type":"User","url":"https://github.com/simulot","location":"Paris area, France","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "281c9b6487dbb457",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "3d643ec0a6479a7e",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

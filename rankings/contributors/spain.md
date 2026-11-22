@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/contributors/ES.json">JSON</a> |
+| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/ES.json">JSON</a> |
 
 </div>
 
@@ -32,6 +32,15 @@
 <td align="right">178</td>
 <td align="right">266</td>
 </tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/ajsb85"><img src="https://avatars.githubusercontent.com/u/663460?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ajsb85"><b>Alexander Salas Bastidas</b></a><br><sub>&#64;ajsb85 · 1,230 followers</sub></td>
+<td align="right"><b>680</b></td>
+<td align="right">659</td>
+<td align="right">8</td>
+<td align="right">4</td>
+<td align="right">2</td>
+</tr>
 </tbody>
 </table>
 
@@ -39,10 +48,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 1 of 463 discovered developers (462 awaiting measurement).
+- **Measured:** 2 of 591 discovered developers (589 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 125 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

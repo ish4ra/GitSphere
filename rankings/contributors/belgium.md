@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/BE.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/BE.json">JSON</a> |
 
 </div>
 
@@ -34,12 +34,30 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/JoviDeCroock"><img src="https://avatars.githubusercontent.com/u/17125876?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JoviDeCroock"><b>Jovi De Croock</b></a><br><sub>&#64;JoviDeCroock · 782 followers</sub></td>
+<td align="right"><b>9,704</b></td>
+<td align="right">7,122</td>
+<td align="right">1,997</td>
+<td align="right">339</td>
+<td align="right">191</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/erikdubois"><img src="https://avatars.githubusercontent.com/u/10594806?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/erikdubois"><b>Erik Dubois</b></a><br><sub>&#64;erikdubois · 1,203 followers</sub></td>
 <td align="right"><b>5,821</b></td>
 <td align="right">5,713</td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">5</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/radu-matei"><img src="https://avatars.githubusercontent.com/u/13103165?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/radu-matei"><b>Radu Matei</b></a><br><sub>&#64;radu-matei · 633 followers</sub></td>
+<td align="right"><b>220</b></td>
+<td align="right">128</td>
+<td align="right">16</td>
+<td align="right">50</td>
+<td align="right">9</td>
 </tr>
 </tbody>
 </table>
@@ -48,7 +66,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 2 of 408 discovered developers (406 awaiting measurement).
+- **Measured:** 4 of 429 discovered developers (425 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 151 in round 1.

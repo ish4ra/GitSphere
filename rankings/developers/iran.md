@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **52** | 22 Nov 2026 | <a href="../../data/developers/IR.json">JSON</a> |
+| 🟡 Provisional | **112** | 22 Nov 2026 | <a href="../../data/developers/IR.json">JSON</a> |
 
 </div>
 
@@ -380,10 +380,430 @@
 </tr>
 <tr>
 <td align="right">52</td>
+<td><a href="https://github.com/mohamadSaleh82"><img src="https://avatars.githubusercontent.com/u/145904775?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mohamadSaleh82"><b>mohamad saleh</b></a><br><sub>&#64;mohamadSaleh82</sub></td>
+<td align="right"><b>983</b></td>
+<td align="right">14</td>
+<td><sub>Iran</sub></td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><a href="https://github.com/AliBigdeli"><img src="https://avatars.githubusercontent.com/u/29748439?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AliBigdeli"><b>TheAliBigdeli</b></a><br><sub>&#64;AliBigdeli</sub></td>
+<td align="right"><b>971</b></td>
+<td align="right">87</td>
+<td><sub>Iran,Karaj</sub></td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><a href="https://github.com/Abolfazlghaseemi"><img src="https://avatars.githubusercontent.com/u/85543976?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abolfazlghaseemi"><b>Abolfazl ghasemi</b></a><br><sub>&#64;Abolfazlghaseemi</sub></td>
+<td align="right"><b>971</b></td>
+<td align="right">23</td>
+<td><sub>IR - Tehran</sub></td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><a href="https://github.com/sorooshrabet"><img src="https://avatars.githubusercontent.com/u/143717347?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sorooshrabet"><b>soroosh rabet</b></a><br><sub>&#64;sorooshrabet</sub></td>
+<td align="right"><b>963</b></td>
+<td align="right">357</td>
+<td><sub>Iran-Mashhad</sub></td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><a href="https://github.com/ariaesm"><img src="https://avatars.githubusercontent.com/u/79230068?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ariaesm"><b>Aria Esmaeilzadeh</b></a><br><sub>&#64;ariaesm</sub></td>
+<td align="right"><b>949</b></td>
+<td align="right">25</td>
+<td><sub>Iran</sub></td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><a href="https://github.com/rootnitocom"><img src="https://avatars.githubusercontent.com/u/170228551?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rootnitocom"><b>Yousef Ataei</b></a><br><sub>&#64;rootnitocom</sub></td>
+<td align="right"><b>948</b></td>
+<td align="right">0</td>
+<td><sub>Isfahan Province, Iran</sub></td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><a href="https://github.com/ALIILAPRO"><img src="https://avatars.githubusercontent.com/u/27723504?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ALIILAPRO"><b>Ali. B</b></a><br><sub>&#64;ALIILAPRO</sub></td>
+<td align="right"><b>945</b></td>
+<td align="right">47</td>
+<td><sub>Iran</sub></td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><a href="https://github.com/bugbounted"><img src="https://avatars.githubusercontent.com/u/104225186?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bugbounted"><b>Mohamad Samardeh Haghighi Fard</b></a><br><sub>&#64;bugbounted</sub></td>
+<td align="right"><b>933</b></td>
+<td align="right">664</td>
+<td><sub>Iran (Islamic Republic of)</sub></td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><a href="https://github.com/ParhamPishro"><img src="https://avatars.githubusercontent.com/u/123332363?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ParhamPishro"><b>Parham Pishro</b></a><br><sub>&#64;ParhamPishro</sub></td>
+<td align="right"><b>913</b></td>
+<td align="right">12</td>
+<td><sub>Iran, Isfahan</sub></td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><a href="https://github.com/junguler"><img src="https://avatars.githubusercontent.com/u/59083599?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/junguler"><b>hossein s. borhani</b></a><br><sub>&#64;junguler</sub></td>
+<td align="right"><b>886</b></td>
+<td align="right">112</td>
+<td><sub>iran</sub></td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><a href="https://github.com/erfanyousefi"><img src="https://avatars.githubusercontent.com/u/75472834?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/erfanyousefi"><b>Erfan Yousefi</b></a><br><sub>&#64;erfanyousefi</sub></td>
+<td align="right"><b>856</b></td>
+<td align="right">137</td>
+<td><sub>Iran - Kordestan</sub></td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><a href="https://github.com/EhsanShahbazii"><img src="https://avatars.githubusercontent.com/u/93768870?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EhsanShahbazii"><b>Ehsan Shahbazi</b></a><br><sub>&#64;EhsanShahbazii</sub></td>
+<td align="right"><b>850</b></td>
+<td align="right">63</td>
+<td><sub>Tehran / Iran</sub></td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><a href="https://github.com/Mominyar"><img src="https://avatars.githubusercontent.com/u/189651292?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mominyar"><b>Mujeeb Mominyar</b></a><br><sub>&#64;Mominyar</sub></td>
+<td align="right"><b>847</b></td>
+<td align="right">6</td>
+<td><sub>Tehran, Iran</sub></td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><a href="https://github.com/ShekibHaidari"><img src="https://avatars.githubusercontent.com/u/152655078?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ShekibHaidari"><b>Ahmad Shekib Haidari</b></a><br><sub>&#64;ShekibHaidari</sub></td>
+<td align="right"><b>834</b></td>
+<td align="right">20</td>
+<td><sub>Tehran,iran</sub></td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><a href="https://github.com/ErfiDev"><img src="https://avatars.githubusercontent.com/u/73667127?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ErfiDev"><b>Erfan Hanifezade</b></a><br><sub>&#64;ErfiDev</sub></td>
+<td align="right"><b>833</b></td>
+<td align="right">52</td>
+<td><sub>Iran, Karaj</sub></td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><a href="https://github.com/HRSadeghi"><img src="https://avatars.githubusercontent.com/u/48185623?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HRSadeghi"><b>Hamidreza Sadeghi</b></a><br><sub>&#64;HRSadeghi</sub></td>
+<td align="right"><b>813</b></td>
+<td align="right">13</td>
+<td><sub>Iran</sub></td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><a href="https://github.com/itstonywhite"><img src="https://avatars.githubusercontent.com/u/289275044?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/itstonywhite"><b>Tony White</b></a><br><sub>&#64;itstonywhite</sub></td>
+<td align="right"><b>810</b></td>
+<td align="right">10</td>
+<td><sub>Tehran</sub></td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><a href="https://github.com/mhmdhoseinzade"><img src="https://avatars.githubusercontent.com/u/27922739?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mhmdhoseinzade"><b>Mohammad Hoseinzade</b></a><br><sub>&#64;mhmdhoseinzade</sub></td>
+<td align="right"><b>794</b></td>
+<td align="right">4</td>
+<td><sub>Iran</sub></td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><a href="https://github.com/mahdinazmi"><img src="https://avatars.githubusercontent.com/u/29691479?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mahdinazmi"><b>Mahdi</b></a><br><sub>&#64;mahdinazmi</sub></td>
+<td align="right"><b>790</b></td>
+<td align="right">48</td>
+<td><sub>Tabriz</sub></td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><a href="https://github.com/alighasemi889"><img src="https://avatars.githubusercontent.com/u/58810370?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alighasemi889"><b>founder of codemaster</b></a><br><sub>&#64;alighasemi889</sub></td>
+<td align="right"><b>789</b></td>
+<td align="right">38</td>
+<td><sub>IRAN</sub></td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><a href="https://github.com/Dariush-Tasdighi"><img src="https://avatars.githubusercontent.com/u/8329347?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dariush-Tasdighi"><b>Dariush Tasdighi</b></a><br><sub>&#64;Dariush-Tasdighi</sub></td>
+<td align="right"><b>783</b></td>
+<td align="right">163</td>
+<td><sub>Tehran, Iran</sub></td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><a href="https://github.com/Nikoo-Asadnejad"><img src="https://avatars.githubusercontent.com/u/91413713?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nikoo-Asadnejad"><b>Nikoo Asadnejad</b></a><br><sub>&#64;Nikoo-Asadnejad</sub></td>
+<td align="right"><b>778</b></td>
+<td align="right">77</td>
+<td><sub>Tehran</sub></td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><a href="https://github.com/safaeean"><img src="https://avatars.githubusercontent.com/u/19506782?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/safaeean"><b>Hossein Piri</b></a><br><sub>&#64;safaeean</sub></td>
+<td align="right"><b>777</b></td>
+<td align="right">33</td>
+<td><sub>Iran Shiraz</sub></td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><a href="https://github.com/parisam83"><img src="https://avatars.githubusercontent.com/u/43146130?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/parisam83"><b>Parisa Sadat Mousavi</b></a><br><sub>&#64;parisam83</sub></td>
+<td align="right"><b>771</b></td>
+<td align="right">23</td>
+<td><sub>Tehran, Iran</sub></td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><a href="https://github.com/amirhamiri"><img src="https://avatars.githubusercontent.com/u/78421033?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amirhamiri"><b>Amirhossein Amiri</b></a><br><sub>&#64;amirhamiri</sub></td>
+<td align="right"><b>770</b></td>
+<td align="right">15</td>
+<td><sub>Iran</sub></td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><a href="https://github.com/KianEbtekari0"><img src="https://avatars.githubusercontent.com/u/92510927?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KianEbtekari0"><b>Kian Ebtekari</b></a><br><sub>&#64;KianEbtekari0</sub></td>
+<td align="right"><b>770</b></td>
+<td align="right">14</td>
+<td><sub>Tehran</sub></td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><a href="https://github.com/miladbadeleh"><img src="https://avatars.githubusercontent.com/u/192595933?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/miladbadeleh"><b>Milad Badeleh</b></a><br><sub>&#64;miladbadeleh</sub></td>
+<td align="right"><b>763</b></td>
+<td align="right">27</td>
+<td><sub>Tehran</sub></td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><a href="https://github.com/Shark-87"><img src="https://avatars.githubusercontent.com/u/160837269?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Shark-87"><b>Alireza</b></a><br><sub>&#64;Shark-87</sub></td>
+<td align="right"><b>747</b></td>
+<td align="right">8</td>
+<td><sub>IRAN</sub></td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><a href="https://github.com/MatinT-SA"><img src="https://avatars.githubusercontent.com/u/85360666?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MatinT-SA"><b>Matin Taherzadeh</b></a><br><sub>&#64;MatinT-SA</sub></td>
+<td align="right"><b>743</b></td>
+<td align="right">34</td>
+<td><sub>Iran, Karaj</sub></td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><a href="https://github.com/Arash-abraham"><img src="https://avatars.githubusercontent.com/u/82562395?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Arash-abraham"><b>Arash</b></a><br><sub>&#64;Arash-abraham</sub></td>
+<td align="right"><b>743</b></td>
+<td align="right">10</td>
+<td><sub>Iran</sub></td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><a href="https://github.com/BamdadTabari"><img src="https://avatars.githubusercontent.com/u/92685218?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BamdadTabari"><b>Bamdad</b></a><br><sub>&#64;BamdadTabari</sub></td>
+<td align="right"><b>711</b></td>
+<td align="right">70</td>
+<td><sub>IRAN</sub></td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><a href="https://github.com/a4hmad1"><img src="https://avatars.githubusercontent.com/u/215741707?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/a4hmad1"><b>Ahmad</b></a><br><sub>&#64;a4hmad1</sub></td>
+<td align="right"><b>700</b></td>
+<td align="right">17</td>
+<td><sub>Kurdistan</sub></td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><a href="https://github.com/ghaseminya"><img src="https://avatars.githubusercontent.com/u/937340?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ghaseminya"><b>j2eedev</b></a><br><sub>&#64;ghaseminya</sub></td>
+<td align="right"><b>680</b></td>
+<td align="right">724</td>
+<td><sub>Iran</sub></td>
+</tr>
+<tr>
+<td align="right">85</td>
+<td><a href="https://github.com/seramo"><img src="https://avatars.githubusercontent.com/u/23317510?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/seramo"><b>Rasoul Mousavian</b></a><br><sub>&#64;seramo</sub></td>
+<td align="right"><b>678</b></td>
+<td align="right">48</td>
+<td><sub>Mashhad, Iran</sub></td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><a href="https://github.com/V-CodeSmith"><img src="https://avatars.githubusercontent.com/u/122223080?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/V-CodeSmith"><b>Mohammad Azhdari</b></a><br><sub>&#64;V-CodeSmith</sub></td>
+<td align="right"><b>676</b></td>
+<td align="right">8</td>
+<td><sub>Ardabil-Iran</sub></td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><a href="https://github.com/FoadTeymoori"><img src="https://avatars.githubusercontent.com/u/155805725?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FoadTeymoori"><b>Foad</b></a><br><sub>&#64;FoadTeymoori</sub></td>
+<td align="right"><b>672</b></td>
+<td align="right">7</td>
+<td><sub>IRAN</sub></td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><a href="https://github.com/Arbabpouri"><img src="https://avatars.githubusercontent.com/u/88272644?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Arbabpouri"><b>MohammadMahdi Arbabpouri</b></a><br><sub>&#64;Arbabpouri</sub></td>
+<td align="right"><b>655</b></td>
+<td align="right">33</td>
+<td><sub>iran</sub></td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><a href="https://github.com/Nariman-Fallahi"><img src="https://avatars.githubusercontent.com/u/158098928?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nariman-Fallahi"><b>Nariman Fallahi</b></a><br><sub>&#64;Nariman-Fallahi</sub></td>
+<td align="right"><b>650</b></td>
+<td align="right">7</td>
+<td><sub>Iran/ Kurdistan</sub></td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><a href="https://github.com/rsharifnasab"><img src="https://avatars.githubusercontent.com/u/11211946?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rsharifnasab"><b>Roozbeh Sharifnasab</b></a><br><sub>&#64;rsharifnasab</sub></td>
+<td align="right"><b>647</b></td>
+<td align="right">46</td>
+<td><sub>Iran, Tehran</sub></td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><a href="https://github.com/ZahraSahranavard"><img src="https://avatars.githubusercontent.com/u/155989843?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ZahraSahranavard"><b>Zahra Sahranavard 🐋</b></a><br><sub>&#64;ZahraSahranavard</sub></td>
+<td align="right"><b>640</b></td>
+<td align="right">17</td>
+<td><sub>Iran, Shiraz</sub></td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><a href="https://github.com/itzhoman"><img src="https://avatars.githubusercontent.com/u/141469358?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/itzhoman"><b>Hooman Hajimohamadi</b></a><br><sub>&#64;itzhoman</sub></td>
+<td align="right"><b>634</b></td>
+<td align="right">28</td>
+<td><sub>Iran,Tehran</sub></td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><a href="https://github.com/KiLJ4EdeN"><img src="https://avatars.githubusercontent.com/u/57220509?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KiLJ4EdeN"><b>Abdolkarim Saeedi</b></a><br><sub>&#64;KiLJ4EdeN</sub></td>
+<td align="right"><b>631</b></td>
+<td align="right">129</td>
+<td><sub>Tehran</sub></td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><a href="https://github.com/yasinkarimzadehgh"><img src="https://avatars.githubusercontent.com/u/95045563?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yasinkarimzadehgh"><b>Yasin Karimzadeh</b></a><br><sub>&#64;yasinkarimzadehgh</sub></td>
+<td align="right"><b>619</b></td>
+<td align="right">1</td>
+<td><sub>Tehran</sub></td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><a href="https://github.com/Hoomanzoh79"><img src="https://avatars.githubusercontent.com/u/86908448?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hoomanzoh79"><b>Hooman Zohrevand</b></a><br><sub>&#64;Hoomanzoh79</sub></td>
+<td align="right"><b>617</b></td>
+<td align="right">13</td>
+<td><sub>Iran, Tehran</sub></td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><a href="https://github.com/mjhesari"><img src="https://avatars.githubusercontent.com/u/127418624?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mjhesari"><b>MJ-Hesari</b></a><br><sub>&#64;mjhesari</sub></td>
+<td align="right"><b>614</b></td>
+<td align="right">39</td>
+<td><sub>Iran , Mashhad &#124; Remote</sub></td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><a href="https://github.com/arastu"><img src="https://avatars.githubusercontent.com/u/472374?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arastu"><b>Touhid Arastu</b></a><br><sub>&#64;arastu</sub></td>
+<td align="right"><b>614</b></td>
+<td align="right">18</td>
+<td><sub>Tehran</sub></td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><a href="https://github.com/ElaheFahmideh"><img src="https://avatars.githubusercontent.com/u/88094638?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ElaheFahmideh"><b>elahe fahmideh</b></a><br><sub>&#64;ElaheFahmideh</sub></td>
+<td align="right"><b>611</b></td>
+<td align="right">27</td>
+<td><sub>IRAN/Tehran</sub></td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><a href="https://github.com/MobinaJafarian"><img src="https://avatars.githubusercontent.com/u/107479955?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MobinaJafarian"><b>Mobina Jafarian</b></a><br><sub>&#64;MobinaJafarian</sub></td>
+<td align="right"><b>600</b></td>
+<td align="right">20</td>
+<td><sub>Iran</sub></td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><a href="https://github.com/FarzadForuozanfar"><img src="https://avatars.githubusercontent.com/u/91725214?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FarzadForuozanfar"><b>Farzad Foruozanfar</b></a><br><sub>&#64;FarzadForuozanfar</sub></td>
+<td align="right"><b>599</b></td>
+<td align="right">38</td>
+<td><sub>Mashhad - Iran</sub></td>
+</tr>
+<tr>
+<td align="right">101</td>
+<td><a href="https://github.com/HamidrezaBahmani"><img src="https://avatars.githubusercontent.com/u/54801215?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HamidrezaBahmani"><b>HamidrezaBahmani</b></a><br><sub>&#64;HamidrezaBahmani</sub></td>
+<td align="right"><b>597</b></td>
+<td align="right">46</td>
+<td><sub>Mashhad,Iran(Persia)</sub></td>
+</tr>
+<tr>
+<td align="right">102</td>
+<td><a href="https://github.com/AbbasRostami"><img src="https://avatars.githubusercontent.com/u/178187668?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AbbasRostami"><b>Abbas Shakeri Rostami</b></a><br><sub>&#64;AbbasRostami</sub></td>
+<td align="right"><b>596</b></td>
+<td align="right">11</td>
+<td><sub>Iran</sub></td>
+</tr>
+<tr>
+<td align="right">103</td>
+<td><a href="https://github.com/ThisIsAR7"><img src="https://avatars.githubusercontent.com/u/158085547?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ThisIsAR7"><b>AR7 &#124; Arvin Rezaei</b></a><br><sub>&#64;ThisIsAR7</sub></td>
+<td align="right"><b>594</b></td>
+<td align="right">7</td>
+<td><sub>Iran</sub></td>
+</tr>
+<tr>
+<td align="right">104</td>
+<td><a href="https://github.com/amir4976"><img src="https://avatars.githubusercontent.com/u/93821178?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amir4976"><b>amir h ahamdi</b></a><br><sub>&#64;amir4976</sub></td>
+<td align="right"><b>592</b></td>
+<td align="right">56</td>
+<td><sub>Alborz.iran</sub></td>
+</tr>
+<tr>
+<td align="right">105</td>
 <td><a href="https://github.com/rzashakeri"><img src="https://avatars.githubusercontent.com/u/62311769?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rzashakeri"><b>Reza Shakeri</b></a><br><sub>&#64;rzashakeri</sub></td>
 <td align="right"><b>591</b></td>
-<td align="right">0</td>
+<td align="right">40</td>
 <td><sub>Iran</sub></td>
+</tr>
+<tr>
+<td align="right">106</td>
+<td><a href="https://github.com/omidfarrokhi"><img src="https://avatars.githubusercontent.com/u/92844791?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/omidfarrokhi"><b>-Hope˚⟡.˚࿔⭑.ᐟ</b></a><br><sub>&#64;omidfarrokhi</sub></td>
+<td align="right"><b>586</b></td>
+<td align="right">6</td>
+<td><sub>Tehran, Iran</sub></td>
+</tr>
+<tr>
+<td align="right">107</td>
+<td><a href="https://github.com/MatinAfzal"><img src="https://avatars.githubusercontent.com/u/128434167?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MatinAfzal"><b>Matin Afzal</b></a><br><sub>&#64;MatinAfzal</sub></td>
+<td align="right"><b>576</b></td>
+<td align="right">16</td>
+<td><sub>Iran, Tehran</sub></td>
+</tr>
+<tr>
+<td align="right">108</td>
+<td><a href="https://github.com/nargestohidloo"><img src="https://avatars.githubusercontent.com/u/243430457?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nargestohidloo"><b>Narges Tohidloo</b></a><br><sub>&#64;nargestohidloo</sub></td>
+<td align="right"><b>576</b></td>
+<td align="right">8</td>
+<td><sub>Tehran,Iran</sub></td>
+</tr>
+<tr>
+<td align="right">109</td>
+<td><a href="https://github.com/the-pesar"><img src="https://avatars.githubusercontent.com/u/85296952?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/the-pesar"><b>Yasha</b></a><br><sub>&#64;the-pesar</sub></td>
+<td align="right"><b>568</b></td>
+<td align="right">33</td>
+<td><sub>Tehran, IRAN</sub></td>
+</tr>
+<tr>
+<td align="right">110</td>
+<td><a href="https://github.com/p-delfani"><img src="https://avatars.githubusercontent.com/u/91133322?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/p-delfani"><b>parmis delfani</b></a><br><sub>&#64;p-delfani</sub></td>
+<td align="right"><b>567</b></td>
+<td align="right">30</td>
+<td><sub>Iran</sub></td>
+</tr>
+<tr>
+<td align="right">111</td>
+<td><a href="https://github.com/arvin-ramezani"><img src="https://avatars.githubusercontent.com/u/76852442?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arvin-ramezani"><b>Arvin</b></a><br><sub>&#64;arvin-ramezani</sub></td>
+<td align="right"><b>564</b></td>
+<td align="right">37</td>
+<td><sub>Iran / Mazandaran / Babolsar</sub></td>
+</tr>
+<tr>
+<td align="right">112</td>
+<td><a href="https://github.com/ahmadpanah"><img src="https://avatars.githubusercontent.com/u/5393697?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahmadpanah"><b>Hossein</b></a><br><sub>&#64;ahmadpanah</sub></td>
+<td align="right"><b>563</b></td>
+<td align="right">230</td>
+<td><sub>Tehran,Iran</sub></td>
 </tr>
 </tbody>
 </table>
@@ -393,7 +813,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 52 attributed developers are tracked; the cutoff is 591 followers.
+- Organizations are excluded. 112 attributed developers are tracked; the cutoff is 563 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

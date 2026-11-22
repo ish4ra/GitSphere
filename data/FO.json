@@ -5,7 +5,7 @@
 "country": {"code":"FO","name":"Faroe Islands","slug":"faroe-islands"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":103,"candidates":103,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":108,"candidates":103,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":50,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"hygg","nameWithOwner":"kruseio/hygg","url":"https://github.com/kruseio/hygg","description":null,"stars":360,"forks":17,"primaryLanguage":"Rust","license":{"spdxId":"AGPL-3.0"},"createdAt":"2024-06-13T16:51:05Z","pushedAt":"2026-10-03T01:56:02Z","archived":false,"owner":{"login":"kruseio","name":"Ragnar Kruse","type":"User","url":"https://github.com/kruseio","location":"Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-13","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"selectator","nameWithOwner":"QODIO/selectator","url":"https://github.com/QODIO/selectator","description":null,"stars":88,"forks":43,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2013-12-13T09:52:37Z","pushedAt":"2020-12-15T05:11:37Z","archived":true,"owner":{"login":"QODIO","name":"KODIO","type":"Organization","url":"https://github.com/QODIO","location":"Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"do-pitch-shifter","nameWithOwner":"tully9b1hrj6x/do-pitch-shifter","url":"https://github.com/tully9b1hrj6x/do-pitch-shifter","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-09-19T10:07:41Z","pushedAt":"2026-09-19T10:07:42Z","archived":false,"owner":{"login":"tully9b1hrj6x","name":"Miriam Petersen","type":"User","url":"https://github.com/tully9b1hrj6x","location":"Tórshavn, Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"folkv3-api-dotnet","nameWithOwner":"umhvorvisstovan/folkv3-api-dotnet","url":"https://github.com/umhvorvisstovan/folkv3-api-dotnet","description":null,"stars":0,"forks":0,"primaryLanguage":"C#","license":{"spdxId":"MIT"},"createdAt":"2022-09-20T12:24:38Z","pushedAt":"2023-06-07T10:03:17Z","archived":false,"owner":{"login":"umhvorvisstovan","name":"Umhvørvisstovan","type":"Organization","url":"https://github.com/umhvorvisstovan","location":"Traðagøta 38, FO-160 Argir, Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "c8b0407d78b33a36",
-"updatedAt": "2026-11-22T08:41:14.246Z",
+"contentHash": "cf09e697bf9116c8",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-10-13",
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

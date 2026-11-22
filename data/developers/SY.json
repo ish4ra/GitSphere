@@ -5,12 +5,14 @@
 "country": {"code":"SY","name":"Syria","slug":"syria"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":3,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDOCMCpew","login":"0993658154","name":"Khaled Mardini","url":"https://github.com/0993658154","avatarUrl":"https://avatars.githubusercontent.com/u/146844027?s=80&v=4","followers":0,"publicRepos":11,"location":"Damascus , Syria","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"U_kgDOBsjJDA","login":"meory101","name":"Nour Othman","url":"https://github.com/meory101","avatarUrl":"https://avatars.githubusercontent.com/u/113821964?s=80&v=4","followers":719,"publicRepos":49,"location":"Damascus Syria","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjIyNjgyNjY5","login":"evoiz","name":"Elias Al-bittar","url":"https://github.com/evoiz","avatarUrl":"https://avatars.githubusercontent.com/u/22682669?s=80&v=4","followers":99,"location":"Homs, Syria","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"U_kgDOCMCpew","login":"0993658154","name":"Khaled Mardini","url":"https://github.com/0993658154","avatarUrl":"https://avatars.githubusercontent.com/u/146844027?s=80&v=4","followers":0,"publicRepos":11,"location":"Damascus , Syria","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "1c4094a1dc3ceeb9",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "4255f4bb4b601286",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

@@ -5,17 +5,21 @@
 "country": {"code":"IQ","name":"Iraq","slug":"iraq"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":517,"candidates":6,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":412,"candidates":10,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjc0OTgwMjEy","login":"Aziz-AXG","name":"Aziz falah","url":"https://github.com/Aziz-AXG","avatarUrl":"https://avatars.githubusercontent.com/u/74980212?s=80&v=4","followers":3602,"publicRepos":23,"location":"Baghdad, Iraq","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"U_kgDOBp1f3w","login":"sajjad-salam","name":"sajjad_salam","url":"https://github.com/sajjad-salam","avatarUrl":"https://avatars.githubusercontent.com/u/110976991?s=80&v=4","followers":2989,"publicRepos":75,"location":"iraq-baghdad","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":3,"id":"MDQ6VXNlcjQ2NjQyNTM=","login":"muhammedessa","name":"Muhammed Essa","url":"https://github.com/muhammedessa","avatarUrl":"https://avatars.githubusercontent.com/u/4664253?s=80&v=4","followers":2293,"publicRepos":190,"location":"IRAQ","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":4,"id":"MDQ6VXNlcjMzNzA0MzYw","login":"Ha3MrX","name":"Ha3MrX","url":"https://github.com/Ha3MrX","avatarUrl":"https://avatars.githubusercontent.com/u/33704360?s=80&v=4","followers":2069,"publicRepos":14,"location":"Iraq","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":5,"id":"U_kgDOCH7_iQ","login":"Mohammadkrd1","name":"Mohamed Krd","url":"https://github.com/Mohammadkrd1","avatarUrl":"https://avatars.githubusercontent.com/u/142540681?s=80&v=4","followers":1764,"publicRepos":6,"location":"Zakho, Iraq","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":6,"id":"MDQ6VXNlcjg3Mjc2Mjc=","login":"PawanOsman","name":"Pawan Osman","url":"https://github.com/PawanOsman","avatarUrl":"https://avatars.githubusercontent.com/u/8727627?s=80&v=4","followers":517,"location":"As Sulaymaniyah, Iraq","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+  {"rank":6,"id":"MDQ6VXNlcjUxMDQxNjQ4","login":"engsafaaj","name":"U تكنو","url":"https://github.com/engsafaaj","avatarUrl":"https://avatars.githubusercontent.com/u/51041648?s=80&v=4","followers":780,"publicRepos":61,"location":"Iraq","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":7,"id":"MDQ6VXNlcjY5MTcxNjcx","login":"tatsumoto-ren","name":"Ren Tatsumoto","url":"https://github.com/tatsumoto-ren","avatarUrl":"https://avatars.githubusercontent.com/u/69171671?s=80&v=4","followers":761,"publicRepos":13,"location":"Baghdad","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-22"},
+  {"rank":8,"id":"MDQ6VXNlcjU2MzQwNjk4","login":"rahman-O","name":"Abdalrahman M.Mohhy","url":"https://github.com/rahman-O","avatarUrl":"https://avatars.githubusercontent.com/u/56340698?s=80&v=4","followers":665,"publicRepos":20,"location":"Iraq","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":9,"id":"MDQ6VXNlcjg3Mjc2Mjc=","login":"PawanOsman","name":"Pawan Osman","url":"https://github.com/PawanOsman","avatarUrl":"https://avatars.githubusercontent.com/u/8727627?s=80&v=4","followers":517,"location":"As Sulaymaniyah, Iraq","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":10,"id":"MDQ6VXNlcjIwMjYxNjI3","login":"munafio","name":"Munaf A. Mahdi","url":"https://github.com/munafio","avatarUrl":"https://avatars.githubusercontent.com/u/20261627?s=80&v=4","followers":412,"location":"Iraq","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "6815c5ec38beb2e7",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "f0db0c9271f6f20c",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

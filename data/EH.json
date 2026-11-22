@@ -5,7 +5,7 @@
 "country": {"code":"EH","name":"Western Sahara","slug":"western-sahara"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":21,"ownerExpansionBacklog":21,"candidates":21,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":21,"ownerExpansionBacklog":21,"candidates":21,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":34,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"rettiwt","nameWithOwner":"tecmie/rettiwt","url":"https://github.com/tecmie/rettiwt","description":null,"stars":83,"forks":1,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2023-08-14T20:12:38Z","pushedAt":"2026-08-28T15:09:40Z","archived":false,"owner":{"login":"tecmie","name":"Tecmie","type":"Organization","url":"https://github.com/tecmie","location":"Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"uri","nameWithOwner":"coroboros/uri","url":"https://github.com/coroboros/uri","description":null,"stars":15,"forks":1,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2020-09-21T16:29:36Z","pushedAt":"2026-09-06T15:22:35Z","archived":false,"owner":{"login":"coroboros","name":"Coroboros","type":"Organization","url":"https://github.com/coroboros","location":"Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -29,8 +29,8 @@
   {"rank":20,"id":null,"name":"w-2","nameWithOwner":"saflyy/w-2","url":"https://github.com/saflyy/w-2","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2021-04-30T20:51:35Z","pushedAt":"2021-04-30T20:53:24Z","archived":false,"owner":{"login":"saflyy","name":"saflyy","type":"User","url":"https://github.com/saflyy","location":"western sahara","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":21,"id":null,"name":"next-netlify-starter","nameWithOwner":"suzuya1331/next-netlify-starter","url":"https://github.com/suzuya1331/next-netlify-starter","description":null,"stars":0,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2023-05-16T12:17:06Z","pushedAt":"2023-05-16T12:18:58Z","archived":false,"owner":{"login":"suzuya1331","name":"Hassan mansour","type":"User","url":"https://github.com/suzuya1331","location":"Laayoune, Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "2b4cfe82c670a25e",
-"updatedAt": "2026-11-22T08:41:14.246Z",
+"contentHash": "9f298afeabbe4678",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

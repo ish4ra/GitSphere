@@ -5,12 +5,13 @@
 "country": {"code":"NA","name":"Namibia","slug":"namibia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjgzMjE3MDg1","login":"007Wesley007","name":"Wesley","url":"https://github.com/007Wesley007","avatarUrl":"https://avatars.githubusercontent.com/u/83217085?s=80&v=4","followers":0,"publicRepos":8,"location":"Namibia, Windhoek","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"MDQ6VXNlcjgzMjE3MDg1","login":"007Wesley007","name":"Wesley","url":"https://github.com/007Wesley007","avatarUrl":"https://avatars.githubusercontent.com/u/83217085?s=80&v=4","followers":0,"publicRepos":8,"location":"Namibia, Windhoek","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"U_kgDOB4RvPA","login":"01alicia03","name":"Tjeripo Alicia Rukoro","url":"https://github.com/01alicia03","avatarUrl":"https://avatars.githubusercontent.com/u/126119740?s=80&v=4","followers":0,"publicRepos":4,"location":"Namibia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "c389d27db79b2d90",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "e153c6f75acc7fe9",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

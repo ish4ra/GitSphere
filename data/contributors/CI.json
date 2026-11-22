@@ -5,10 +5,10 @@
 "country": {"code":"CI","name":"Côte d'Ivoire","slug":"cote-d-ivoire"},
 "status": "building",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":2,"measurementBacklog":398,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":401,"measuredAccounts":4,"measurementBacklog":397,"window":null,"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":151,"unresolved":0}},
 "users": [],
-"contentHash": "00ddecdc3f4c82aa",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "029ec5cde61a438f",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": null,
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

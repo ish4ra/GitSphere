@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **30** | 22 Nov 2026 | <a href="../../data/developers/KE.json">JSON</a> |
+| 🟡 Provisional | **62** | 22 Nov 2026 | <a href="../../data/developers/KE.json">JSON</a> |
 
 </div>
 
@@ -219,17 +219,241 @@
 </tr>
 <tr>
 <td align="right">29</td>
+<td><a href="https://github.com/Mach-Levi"><img src="https://avatars.githubusercontent.com/u/77607188?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mach-Levi"><b>Lee Cotech</b></a><br><sub>&#64;Mach-Levi</sub></td>
+<td align="right"><b>987</b></td>
+<td align="right">51</td>
+<td><sub>Kisumu, Kenya</sub></td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td><a href="https://github.com/HarunMbaabu"><img src="https://avatars.githubusercontent.com/u/51136314?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HarunMbaabu"><b>Harun Mbaabu</b></a><br><sub>&#64;HarunMbaabu</sub></td>
+<td align="right"><b>981</b></td>
+<td align="right">137</td>
+<td><sub>Nairobi, Kenya.</sub></td>
+</tr>
+<tr>
+<td align="right">31</td>
+<td><a href="https://github.com/larymak"><img src="https://avatars.githubusercontent.com/u/63947040?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/larymak"><b>Hillary Nyakundi</b></a><br><sub>&#64;larymak</sub></td>
+<td align="right"><b>949</b></td>
+<td align="right">44</td>
+<td><sub>Kenya</sub></td>
+</tr>
+<tr>
+<td align="right">32</td>
+<td><a href="https://github.com/neilsohn9"><img src="https://avatars.githubusercontent.com/u/163639626?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/neilsohn9"><b>Nelson Kipsang</b></a><br><sub>&#64;neilsohn9</sub></td>
+<td align="right"><b>931</b></td>
+<td align="right">8</td>
+<td><sub>Eldoret</sub></td>
+</tr>
+<tr>
+<td align="right">33</td>
+<td><a href="https://github.com/heisallaki"><img src="https://avatars.githubusercontent.com/u/170179971?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/heisallaki"><b>Alvin Langat</b></a><br><sub>&#64;heisallaki</sub></td>
+<td align="right"><b>908</b></td>
+<td align="right">3</td>
+<td><sub>Kenya</sub></td>
+</tr>
+<tr>
+<td align="right">34</td>
+<td><a href="https://github.com/Valentino-Junior"><img src="https://avatars.githubusercontent.com/u/87479153?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Valentino-Junior"><b>Valentino</b></a><br><sub>&#64;Valentino-Junior</sub></td>
+<td align="right"><b>891</b></td>
+<td align="right">194</td>
+<td><sub>Nairobi</sub></td>
+</tr>
+<tr>
+<td align="right">35</td>
+<td><a href="https://github.com/ndolocr"><img src="https://avatars.githubusercontent.com/u/5158478?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ndolocr"><b>Raphael Ndolo</b></a><br><sub>&#64;ndolocr</sub></td>
+<td align="right"><b>848</b></td>
+<td align="right">72</td>
+<td><sub>Nairobi, Kenya</sub></td>
+</tr>
+<tr>
+<td align="right">36</td>
+<td><a href="https://github.com/Derrick-Mulwa"><img src="https://avatars.githubusercontent.com/u/97895894?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Derrick-Mulwa"><b>Derrick Mulwa</b></a><br><sub>&#64;Derrick-Mulwa</sub></td>
+<td align="right"><b>840</b></td>
+<td align="right">54</td>
+<td><sub>Nairobi</sub></td>
+</tr>
+<tr>
+<td align="right">37</td>
+<td><a href="https://github.com/devjohnsonmwangi"><img src="https://avatars.githubusercontent.com/u/191533411?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/devjohnsonmwangi"><b>johnson mwangi</b></a><br><sub>&#64;devjohnsonmwangi</sub></td>
+<td align="right"><b>819</b></td>
+<td align="right">37</td>
+<td><sub>kutus kirinyaga kenya</sub></td>
+</tr>
+<tr>
+<td align="right">38</td>
+<td><a href="https://github.com/ADAMSmugwe"><img src="https://avatars.githubusercontent.com/u/200044252?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ADAMSmugwe"><b>Adams Mugwe</b></a><br><sub>&#64;ADAMSmugwe</sub></td>
+<td align="right"><b>807</b></td>
+<td align="right">32</td>
+<td><sub>Nairobi,Kenya.</sub></td>
+</tr>
+<tr>
+<td align="right">39</td>
+<td><a href="https://github.com/Emmanuel687"><img src="https://avatars.githubusercontent.com/u/93251478?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Emmanuel687"><b>Emmanuel Koech</b></a><br><sub>&#64;Emmanuel687</sub></td>
+<td align="right"><b>787</b></td>
+<td align="right">125</td>
+<td><sub>Nairobi,Kenya</sub></td>
+</tr>
+<tr>
+<td align="right">40</td>
+<td><a href="https://github.com/alvin-tosh"><img src="https://avatars.githubusercontent.com/u/13796386?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alvin-tosh"><b>Palpatine</b></a><br><sub>&#64;alvin-tosh</sub></td>
+<td align="right"><b>782</b></td>
+<td align="right">570</td>
+<td><sub>Nairobi, Kenya</sub></td>
+</tr>
+<tr>
+<td align="right">41</td>
+<td><a href="https://github.com/Jukunye"><img src="https://avatars.githubusercontent.com/u/122859193?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jukunye"><b>Jukunye</b></a><br><sub>&#64;Jukunye</sub></td>
+<td align="right"><b>775</b></td>
+<td align="right">31</td>
+<td><sub>Kajiado, Kenya</sub></td>
+</tr>
+<tr>
+<td align="right">42</td>
+<td><a href="https://github.com/dennisnderitu254"><img src="https://avatars.githubusercontent.com/u/12510899?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dennisnderitu254"><b>Dennis Nderitu Kinyanjui</b></a><br><sub>&#64;dennisnderitu254</sub></td>
+<td align="right"><b>769</b></td>
+<td align="right">353</td>
+<td><sub>Nairobi, Kenya</sub></td>
+</tr>
+<tr>
+<td align="right">43</td>
+<td><a href="https://github.com/SpenceLabs"><img src="https://avatars.githubusercontent.com/u/173307172?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SpenceLabs"><b>Spence Labs International</b></a><br><sub>&#64;SpenceLabs</sub></td>
+<td align="right"><b>765</b></td>
+<td align="right">12</td>
+<td><sub>Nairobi,Kenya</sub></td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><a href="https://github.com/Gidayi-dev"><img src="https://avatars.githubusercontent.com/u/172958492?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Gidayi-dev"><b>Gidayi Millyannah</b></a><br><sub>&#64;Gidayi-dev</sub></td>
+<td align="right"><b>753</b></td>
+<td align="right">79</td>
+<td><sub>Nairobi, Kenya</sub></td>
+</tr>
+<tr>
+<td align="right">45</td>
+<td><a href="https://github.com/kelvinndmo"><img src="https://avatars.githubusercontent.com/u/32582512?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kelvinndmo"><b>Novak</b></a><br><sub>&#64;kelvinndmo</sub></td>
+<td align="right"><b>711</b></td>
+<td align="right">179</td>
+<td><sub>Nairobi,Kenya</sub></td>
+</tr>
+<tr>
+<td align="right">46</td>
+<td><a href="https://github.com/wangerekaharun"><img src="https://avatars.githubusercontent.com/u/15122455?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wangerekaharun"><b>Harun Wangereka</b></a><br><sub>&#64;wangerekaharun</sub></td>
+<td align="right"><b>666</b></td>
+<td align="right">123</td>
+<td><sub>Nairobi,Kenya</sub></td>
+</tr>
+<tr>
+<td align="right">47</td>
+<td><a href="https://github.com/CossyCossy"><img src="https://avatars.githubusercontent.com/u/38537135?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CossyCossy"><b>Cosmas Mbuvi</b></a><br><sub>&#64;CossyCossy</sub></td>
+<td align="right"><b>647</b></td>
+<td align="right">32</td>
+<td><sub>Mombasa, Kenya</sub></td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><a href="https://github.com/Fredrick-KE"><img src="https://avatars.githubusercontent.com/u/60846718?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Fredrick-KE"><b>Code&#95;With&#95;Fredrick</b></a><br><sub>&#64;Fredrick-KE</sub></td>
+<td align="right"><b>629</b></td>
+<td align="right">4</td>
+<td><sub>Nairobi, Kenya</sub></td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><a href="https://github.com/watchout254"><img src="https://avatars.githubusercontent.com/u/88248852?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/watchout254"><b>Daniel Mukenya</b></a><br><sub>&#64;watchout254</sub></td>
+<td align="right"><b>628</b></td>
+<td align="right">99</td>
+<td><sub>Nairobi, Kenya</sub></td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><a href="https://github.com/joelkanyi"><img src="https://avatars.githubusercontent.com/u/50293753?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joelkanyi"><b>Joel Kanyi</b></a><br><sub>&#64;joelkanyi</sub></td>
+<td align="right"><b>621</b></td>
+<td align="right">43</td>
+<td><sub>Nairobi, Kenya</sub></td>
+</tr>
+<tr>
+<td align="right">51</td>
+<td><a href="https://github.com/clinton-mwachia"><img src="https://avatars.githubusercontent.com/u/45009387?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/clinton-mwachia"><b>ClintonMoshe</b></a><br><sub>&#64;clinton-mwachia</sub></td>
+<td align="right"><b>612</b></td>
+<td align="right">44</td>
+<td><sub>kenya</sub></td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><a href="https://github.com/cherucole"><img src="https://avatars.githubusercontent.com/u/16066764?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cherucole"><b>Cheruiyot Collins</b></a><br><sub>&#64;cherucole</sub></td>
+<td align="right"><b>608</b></td>
+<td align="right">164</td>
+<td><sub>Nairobi</sub></td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><a href="https://github.com/Allankw-dev"><img src="https://avatars.githubusercontent.com/u/234766466?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Allankw-dev"><b>Allan kamau</b></a><br><sub>&#64;Allankw-dev</sub></td>
+<td align="right"><b>608</b></td>
+<td align="right">32</td>
+<td><sub>Kenya</sub></td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><a href="https://github.com/Allanoallashe"><img src="https://avatars.githubusercontent.com/u/113612155?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Allanoallashe"><b>ALLAN LENNY</b></a><br><sub>&#64;Allanoallashe</sub></td>
+<td align="right"><b>607</b></td>
+<td align="right">37</td>
+<td><sub>Nairobi Kenya</sub></td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><a href="https://github.com/profnandaa"><img src="https://avatars.githubusercontent.com/u/261265?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/profnandaa"><b>Anthony Nandaa</b></a><br><sub>&#64;profnandaa</sub></td>
+<td align="right"><b>596</b></td>
+<td align="right">383</td>
+<td><sub>Nairobi, Kenya</sub></td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><a href="https://github.com/alphacodeke"><img src="https://avatars.githubusercontent.com/u/173244870?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alphacodeke"><b>Anthony Karanja</b></a><br><sub>&#64;alphacodeke</sub></td>
+<td align="right"><b>596</b></td>
+<td align="right">38</td>
+<td><sub>Kenya, Africa</sub></td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><a href="https://github.com/gateremark"><img src="https://avatars.githubusercontent.com/u/91592218?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gateremark"><b>Mark Gatere</b></a><br><sub>&#64;gateremark</sub></td>
+<td align="right"><b>581</b></td>
+<td align="right">110</td>
+<td><sub>Nairobi, Kenya</sub></td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><a href="https://github.com/jebitok-dev"><img src="https://avatars.githubusercontent.com/u/60254117?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jebitok-dev"><b>jebitok-dev</b></a><br><sub>&#64;jebitok-dev</sub></td>
+<td align="right"><b>577</b></td>
+<td align="right">208</td>
+<td><sub>Nairobi, Kenya</sub></td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><a href="https://github.com/kn9ts"><img src="https://avatars.githubusercontent.com/u/1999708?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kn9ts"><b>Eugene Mutai</b></a><br><sub>&#64;kn9ts</sub></td>
+<td align="right"><b>566</b></td>
+<td align="right">41</td>
+<td><sub>Nairobi, Kenya</sub></td>
+</tr>
+<tr>
+<td align="right">60</td>
 <td><a href="https://github.com/maxwellito"><img src="https://avatars.githubusercontent.com/u/1097232?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maxwellito"><b>maxwellito</b></a><br><sub>&#64;maxwellito</sub></td>
 <td align="right"><b>494</b></td>
 <td align="right">0</td>
 <td><sub>Kuku Lama</sub></td>
 </tr>
 <tr>
-<td align="right">30</td>
+<td align="right">61</td>
 <td><a href="https://github.com/dan1471"><img src="https://avatars.githubusercontent.com/u/168219068?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dan1471"><b>Dancan</b></a><br><sub>&#64;dan1471</sub></td>
 <td align="right"><b>231</b></td>
 <td align="right">0</td>
 <td><sub>Nairobi</sub></td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><a href="https://github.com/st3v3nmw"><img src="https://avatars.githubusercontent.com/u/43380836?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/st3v3nmw"><b>Stephen Mwangi</b></a><br><sub>&#64;st3v3nmw</sub></td>
+<td align="right"><b>174</b></td>
+<td align="right">0</td>
+<td><sub>Nairobi, Kenya</sub></td>
 </tr>
 </tbody>
 </table>
@@ -239,7 +463,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 30 attributed developers are tracked; the cutoff is 231 followers.
+- Organizations are excluded. 62 attributed developers are tracked; the cutoff is 174 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

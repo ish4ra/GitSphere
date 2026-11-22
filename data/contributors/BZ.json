@@ -5,13 +5,14 @@
 "country": {"code":"BZ","name":"Belize","slug":"belize"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":340,"measuredAccounts":2,"measurementBacklog":338,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":48,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":340,"measuredAccounts":4,"measurementBacklog":336,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":48,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOBuUflQ","login":"andreshungbz","name":"Andres Hung","url":"https://github.com/andreshungbz","avatarUrl":"https://avatars.githubusercontent.com/u/115679125?s=80&v=4","followers":16,"publicRepos":76,"location":"Belmopan, Belize","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":1520,"commits":1467,"pullRequests":12,"reviews":3,"issues":8,"repositories":30,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":2,"id":"MDQ6VXNlcjExMDg2MDc=","login":"cruzer45","name":"Maurice Rogers","url":"https://github.com/cruzer45","avatarUrl":"https://avatars.githubusercontent.com/u/1108607?s=80&v=4","followers":9,"publicRepos":111,"location":"Belize","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":51,"commits":6,"pullRequests":19,"reviews":0,"issues":1,"repositories":25,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":2,"id":"U_kgDOCIl6WQ","login":"jennxsierra","name":"Jennessa Sierra","url":"https://github.com/jennxsierra","avatarUrl":"https://avatars.githubusercontent.com/u/143227481?s=80&v=4","followers":11,"publicRepos":45,"location":"Belmopan, Belize","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":293,"commits":259,"pullRequests":8,"reviews":1,"issues":6,"repositories":18,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":3,"id":"MDQ6VXNlcjExMDg2MDc=","login":"cruzer45","name":"Maurice Rogers","url":"https://github.com/cruzer45","avatarUrl":"https://avatars.githubusercontent.com/u/1108607?s=80&v=4","followers":9,"publicRepos":111,"location":"Belize","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":51,"commits":6,"pullRequests":19,"reviews":0,"issues":1,"repositories":25,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "a50f3490bb70832d",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "37e8e662e0c86c2d",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

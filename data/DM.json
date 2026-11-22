@@ -5,7 +5,7 @@
 "country": {"code":"DM","name":"Dominica","slug":"dominica"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":63,"ownerExpansionBacklog":63,"candidates":63,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":63,"ownerExpansionBacklog":64,"candidates":63,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":18,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"socializr","nameWithOwner":"bigmountainideas/socializr","url":"https://github.com/bigmountainideas/socializr","description":null,"stars":12,"forks":1,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2014-03-08T15:57:31Z","pushedAt":"2015-05-04T21:06:15Z","archived":false,"owner":{"login":"bigmountainideas","name":"Big Mountain Solutions","type":"Organization","url":"https://github.com/bigmountainideas","location":"Toronto/ Dominica","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Login-PHP-MySQL","nameWithOwner":"AdrielMinyety/Login-PHP-MySQL","url":"https://github.com/AdrielMinyety/Login-PHP-MySQL","description":null,"stars":7,"forks":3,"primaryLanguage":"PHP","license":null,"createdAt":"2019-02-06T06:52:29Z","pushedAt":"2019-08-20T21:34:28Z","archived":false,"owner":{"login":"AdrielMinyety","name":"Adriel Minyety Gonzalez","type":"User","url":"https://github.com/AdrielMinyety","location":"República Dominica/ Santo Domingo","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
@@ -71,8 +71,8 @@
   {"rank":62,"id":null,"name":"wimsupernitro","nameWithOwner":"wimsupernitro/wimsupernitro","url":"https://github.com/wimsupernitro/wimsupernitro","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-28T13:29:50Z","pushedAt":"2024-09-28T13:30:10Z","archived":false,"owner":{"login":"wimsupernitro","name":null,"type":"User","url":"https://github.com/wimsupernitro","location":"Dominica (DM)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
   {"rank":63,"id":null,"name":"SeleniumPhoenixCalibrationDR","nameWithOwner":"WMercedes/SeleniumPhoenixCalibrationDR","url":"https://github.com/WMercedes/SeleniumPhoenixCalibrationDR","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-10-21T21:25:11Z","pushedAt":"2023-10-21T21:25:11Z","archived":false,"owner":{"login":"WMercedes","name":"Wallin Mercedes","type":"User","url":"https://github.com/WMercedes","location":"Dominica Republic","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true}
 ],
-"contentHash": "068a0c36ed877941",
-"updatedAt": "2026-11-22T08:41:14.246Z",
+"contentHash": "16414bb8f1c2c6c5",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-10-25",
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

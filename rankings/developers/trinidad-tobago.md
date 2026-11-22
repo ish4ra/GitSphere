@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/developers/TT.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/TT.json">JSON</a> |
 
 </div>
 
@@ -31,12 +31,19 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/toniblyx"><img src="https://avatars.githubusercontent.com/u/3985464?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/toniblyx"><b>Toni de la Fuente</b></a><br><sub>&#64;toniblyx</sub></td>
-<td align="right"><b>854</b></td>
-<td align="right">0</td>
+<td align="right"><b>855</b></td>
+<td align="right">56</td>
 <td><sub>GRX-SFO</sub></td>
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/callmenick"><img src="https://avatars.githubusercontent.com/u/2130125?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/callmenick"><b>Nick Salloum</b></a><br><sub>&#64;callmenick</sub></td>
+<td align="right"><b>686</b></td>
+<td align="right">92</td>
+<td><sub>Trinidad &amp; Tobago</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/trinib"><img src="https://avatars.githubusercontent.com/u/18756975?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/trinib"><b>☣┌͜∩͜┐͜(͜◣͜&#95;͜◢͜)͜┌͜∩͜┐☣</b></a><br><sub>&#64;trinib</sub></td>
 <td align="right"><b>354</b></td>
 <td align="right">0</td>
@@ -50,7 +57,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 3 attributed developers are tracked; the cutoff is 354 followers.
+- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 354 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

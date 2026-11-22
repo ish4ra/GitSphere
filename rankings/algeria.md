@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | :---: |
 | 🟠 Stale | **100** | 16 Oct 2026 | <a href="../data/DZ.json">JSON</a> |
 
-> **Not yet re-verified.** 99 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 96 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -32,24 +32,24 @@
 </tr>
 <tr>
 <td align="right">2</td>
-<td><img src="https://github.com/h4x0r-dz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/h4x0r-dz/Leaked-Credentials"><b>h4x0r-dz/Leaked-Credentials</b></a></td>
-<td align="right"><b>1,169</b></td>
-<td align="right">153</td>
-<td>—</td>
+<td><img src="https://github.com/x4nth055.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/x4nth055/pythoncode-tutorials"><b>x4nth055/pythoncode-tutorials</b></a><br><sub>The Python Code Tutorials</sub></td>
+<td align="right"><b>3,003</b></td>
+<td align="right">1,971</td>
+<td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">3</td>
-<td><img src="https://github.com/M4sc3r4n0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/M4sc3r4n0/Evil-Droid"><b>M4sc3r4n0/Evil-Droid</b></a></td>
-<td align="right"><b>1,099</b></td>
-<td align="right">454</td>
-<td>Shell</td>
+<td><img src="https://github.com/Younesfdj.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Younesfdj/gitfut"><b>Younesfdj/gitfut</b></a><br><sub>Your GitHub stats, turned into a World-Cup-style player card</sub></td>
+<td align="right"><b>2,689</b></td>
+<td align="right">141</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">4</td>
-<td><img src="https://github.com/aissat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aissat/easy_localization"><b>aissat/easy&#95;localization</b></a></td>
-<td align="right"><b>1,054</b></td>
-<td align="right">374</td>
-<td>Dart</td>
+<td><img src="https://github.com/sabri-zaki.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sabri-zaki/EasY_HaCk"><b>sabri-zaki/EasY&#95;HaCk</b></a><br><sub>Hack the World using Termux</sub></td>
+<td align="right"><b>2,536</b></td>
+<td align="right">261</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">5</td>
@@ -732,9 +732,9 @@
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 1 stars; 147 attributed candidates are tracked.
-- 99 entries were carried over from the previous dataset and are pending revalidation.
-- 149 multi-repository owners are queued for expansion.
-- **Location discovery:** term 0 of 0 in round 1.
+- 96 entries were carried over from the previous dataset and are pending revalidation.
+- 147 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 154 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

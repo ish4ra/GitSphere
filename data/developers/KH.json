@@ -5,13 +5,15 @@
 "country": {"code":"KH","name":"Cambodia","slug":"cambodia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjU4MjQ1OTI2","login":"DJ-Raven","name":"Raven Laing","url":"https://github.com/DJ-Raven","avatarUrl":"https://avatars.githubusercontent.com/u/58245926?s=80&v=4","followers":1208,"publicRepos":178,"location":"Cambodia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"MDQ6VXNlcjYwOTEwMjQx","login":"0967711867","name":"Phou Varun","url":"https://github.com/0967711867","avatarUrl":"https://avatars.githubusercontent.com/u/60910241?s=80&v=4","followers":0,"publicRepos":2,"location":"Cambodia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":2,"id":"MDQ6VXNlcjUyMjMyNTc5","login":"Chensokheng","name":"Chensokheng","url":"https://github.com/Chensokheng","avatarUrl":"https://avatars.githubusercontent.com/u/52232579?s=80&v=4","followers":967,"publicRepos":129,"location":"Cambodia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjYwOTEwMjQx","login":"0967711867","name":"Phou Varun","url":"https://github.com/0967711867","avatarUrl":"https://avatars.githubusercontent.com/u/60910241?s=80&v=4","followers":0,"publicRepos":2,"location":"Cambodia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"U_kgDOBj2gZA","login":"0975638311","name":"Chan Cambodia","url":"https://github.com/0975638311","avatarUrl":"https://avatars.githubusercontent.com/u/104702052?s=80&v=4","followers":0,"publicRepos":1,"location":"Cambodia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "55f89aa6bf530b22",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "f17f0bfe65f4465f",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

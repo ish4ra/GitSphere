@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"MU","name":"Mauritius","slug":"mauritius"},
-"count": 150,
+"count": 149,
 "repositories": [
-  {"name":"rahul-thakoor/balena-rpiplay","stars":1427,"forks":54,"language":"Shell","archived":false,"createdAt":"2021-08-18T12:57:05Z","pushedAt":"2022-03-28T13:05:33Z","owner":{"login":"rahul-thakoor","type":"User","name":"Rahul Thakoor","location":"Mauritius"},"attribution":{"code":"MU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T18:16:11.583Z","id":"legacy:rahul-thakoor/balena-rpiplay","legacy":true},
   {"name":"thatstraw/Cybersecurity-Roadmap","stars":739,"forks":68,"license":"GPL-2.0","archived":false,"createdAt":"2022-01-02T16:44:47Z","pushedAt":"2024-09-24T16:15:57Z","owner":{"login":"thatstraw","type":"User","name":"Traw","location":"Mauritius"},"attribution":{"code":"MU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T18:16:11.583Z","id":"legacy:thatstraw/cybersecurity-roadmap","legacy":true},
   {"name":"SiZapPaaiGwat/inhuman-cpc.github.io","stars":430,"forks":91,"language":"JavaScript","archived":false,"createdAt":"2012-09-08T01:27:04Z","pushedAt":"2018-04-18T03:51:58Z","owner":{"login":"SiZapPaaiGwat","type":"User","name":"饭食钢","location":"China town"},"attribution":{"code":"MU","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-16T18:16:11.583Z","id":"legacy:sizappaaigwat/inhuman-cpc.github.io","legacy":true},
   {"name":"giriss/comfy-image-saver","stars":348,"forks":80,"language":"Python","license":"MIT","archived":false,"createdAt":"2023-08-15T08:39:14Z","pushedAt":"2026-07-17T17:09:23Z","owner":{"login":"giriss","type":"User","name":"Girish Gopaul","location":"Mauritius"},"attribution":{"code":"MU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T18:16:11.583Z","id":"legacy:giriss/comfy-image-saver","legacy":true},

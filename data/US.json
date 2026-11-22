@@ -5,7 +5,7 @@
 "country": {"code":"US","name":"United States","slug":"united-states"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":55009,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":131,"candidates":148,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":55009,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":131,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxMzI3NTA3MjQ=","name":"build-your-own-x","nameWithOwner":"codecrafters-io/build-your-own-x","url":"https://github.com/codecrafters-io/build-your-own-x","description":"Master programming by recreating your favorite technologies from scratch.","stars":564587,"forks":52762,"primaryLanguage":"Markdown","license":null,"createdAt":"2018-05-09T12:03:18Z","pushedAt":"2026-11-19T05:32:02Z","archived":false,"owner":{"login":"codecrafters-io","name":"CodeCrafters","type":"Organization","url":"https://github.com/codecrafters-io","location":"United States of America","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkyODQ1NzgyMw==","name":"freeCodeCamp","nameWithOwner":"freeCodeCamp/freeCodeCamp","url":"https://github.com/freeCodeCamp/freeCodeCamp","description":"freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.","stars":459463,"forks":47404,"primaryLanguage":"TypeScript","license":{"spdxId":"BSD-3-Clause"},"createdAt":"2014-12-24T17:49:19Z","pushedAt":"2026-11-21T11:22:25Z","archived":false,"owner":{"login":"freeCodeCamp","name":"freeCodeCamp.org","type":"Organization","url":"https://github.com/freeCodeCamp","location":"United States of America","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"R_kgDOJNbS5w","name":"segment-anything","nameWithOwner":"facebookresearch/segment-anything","url":"https://github.com/facebookresearch/segment-anything","description":"The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example noteb…","stars":55171,"forks":6417,"primaryLanguage":"Jupyter Notebook","license":{"spdxId":"Apache-2.0"},"createdAt":"2023-03-23T17:03:03Z","pushedAt":"2024-09-18T17:46:55Z","archived":false,"owner":{"login":"facebookresearch","name":"Meta Research","type":"Organization","url":"https://github.com/facebookresearch","location":"Menlo Park, California","attribution":{"confidence":"high","evidence":"place-with-subdivision"}},"verifiedOn":"2026-11-22"},
   {"rank":100,"id":"R_kgDOKHhOfA","name":"claude-cookbooks","nameWithOwner":"anthropics/claude-cookbooks","url":"https://github.com/anthropics/claude-cookbooks","description":"A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.","stars":55009,"forks":6687,"primaryLanguage":"Jupyter Notebook","license":{"spdxId":"MIT"},"createdAt":"2023-08-15T20:23:51Z","pushedAt":"2026-11-20T22:16:45Z","archived":false,"owner":{"login":"anthropics","name":"Anthropic","type":"Organization","url":"https://github.com/anthropics","location":"United States of America","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "7ec629823713edbe",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "e4679ebb34775311",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

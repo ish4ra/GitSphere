@@ -5,12 +5,13 @@
 "country": {"code":"NC","name":"New Caledonia","slug":"new-caledonia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":3,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjQyODY3MDE=","login":"120dev","name":"120","url":"https://github.com/120dev","avatarUrl":"https://avatars.githubusercontent.com/u/4286701?s=80&v=4","followers":3,"publicRepos":28,"location":"NEW CALEDONIA","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"MDQ6VXNlcjQyODY3MDE=","login":"120dev","name":"120","url":"https://github.com/120dev","avatarUrl":"https://avatars.githubusercontent.com/u/4286701?s=80&v=4","followers":3,"publicRepos":28,"location":"NEW CALEDONIA","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"U_kgDOBrroaw","login":"5048tea","name":"Mara","url":"https://github.com/5048tea","avatarUrl":"https://avatars.githubusercontent.com/u/112912491?s=80&v=4","followers":0,"publicRepos":1,"location":"New-Caledonia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "7929cd13c7edd3eb",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "dabc2db5e41b39fd",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

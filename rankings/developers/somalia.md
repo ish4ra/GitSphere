@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/developers/SO.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/SO.json">JSON</a> |
 
 </div>
 
@@ -23,6 +23,27 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/CanoGel"><img src="https://avatars.githubusercontent.com/u/190362716?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CanoGel"><b>Ahmad Isse Farah</b></a><br><sub>&#64;CanoGel</sub></td>
+<td align="right"><b>785</b></td>
+<td align="right">22</td>
+<td><sub>Mogadishu</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/rihhanna"><img src="https://avatars.githubusercontent.com/u/135016746?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rihhanna"><b>Rehana Hassan Muhumed</b></a><br><sub>&#64;rihhanna</sub></td>
+<td align="right"><b>664</b></td>
+<td align="right">58</td>
+<td><sub>Hargeisa/Somaliland</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/omartood"><img src="https://avatars.githubusercontent.com/u/129175570?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/omartood"><b>Omar Tood</b></a><br><sub>&#64;omartood</sub></td>
+<td align="right"><b>603</b></td>
+<td align="right">137</td>
+<td><sub>Somalia</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/00252615212320"><img src="https://avatars.githubusercontent.com/u/63036994?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/00252615212320"><b>Mohamed Abdirahman</b></a><br><sub>&#64;00252615212320</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
@@ -36,7 +57,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 1 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -5,7 +5,7 @@
 "country": {"code":"CV","name":"Cape Verde","slug":"cape-verde"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":127,"candidates":128,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":128,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":120,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"cookiecutter-fastapi","nameWithOwner":"arthurhenrique/cookiecutter-fastapi","url":"https://github.com/arthurhenrique/cookiecutter-fastapi","description":null,"stars":707,"forks":75,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2020-01-12T21:51:22Z","pushedAt":"2025-08-25T15:58:56Z","archived":false,"owner":{"login":"arthurhenrique","name":"Arthur Henrique","type":"User","url":"https://github.com/arthurhenrique","location":"são paulo, br","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-10-16","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"IGRP-Framework","nameWithOwner":"NOSiCode-CV/IGRP-Framework","url":"https://github.com/NOSiCode-CV/IGRP-Framework","description":null,"stars":85,"forks":19,"primaryLanguage":"JavaScript","license":{"spdxId":"Apache-2.0"},"createdAt":"2017-04-12T12:17:47Z","pushedAt":"2026-10-02T14:12:18Z","archived":false,"owner":{"login":"NOSiCode-CV","name":"NOSiCode","type":"Organization","url":"https://github.com/NOSiCode-CV","location":"Cape Verde","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"agent-releases","nameWithOwner":"nebua/agent-releases","url":"https://github.com/nebua/agent-releases","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-06-18T16:26:53Z","pushedAt":"2026-09-29T09:52:45Z","archived":false,"owner":{"login":"nebua","name":"Nebua Lda","type":"Organization","url":"https://github.com/nebua","location":"Cape Verde","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"AWS","nameWithOwner":"nhukdns/AWS","url":"https://github.com/nhukdns/AWS","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-04-01T12:58:06Z","pushedAt":"2024-04-01T12:58:06Z","archived":false,"owner":{"login":"nhukdns","name":null,"type":"User","url":"https://github.com/nhukdns","location":"Cape Verde","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "99f942952287f81a",
-"updatedAt": "2026-11-22T08:41:14.246Z",
+"contentHash": "16ac353a03309344",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-10-16",
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

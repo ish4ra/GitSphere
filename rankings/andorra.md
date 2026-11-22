@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | :---: |
 | 🟠 Stale | **100** | 16 Oct 2026 | <a href="../data/AD.json">JSON</a> |
 
-> **Not yet re-verified.** 99 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 98 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -32,10 +32,10 @@
 </tr>
 <tr>
 <td align="right">2</td>
-<td><img src="https://github.com/jorge07.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jorge07/symfony-7-es-cqrs-boilerplate"><b>jorge07/symfony-7-es-cqrs-boilerplate</b></a></td>
-<td align="right"><b>1,088</b></td>
-<td align="right">186</td>
-<td>PHP</td>
+<td><img src="https://github.com/AlexAltea.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AlexAltea/orbital"><b>AlexAltea/orbital</b></a><br><sub>Experimental PlayStation 4 emulator</sub></td>
+<td align="right"><b>3,649</b></td>
+<td align="right">272</td>
+<td>C</td>
 </tr>
 <tr>
 <td align="right">3</td>
@@ -732,8 +732,8 @@
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 2 stars; 149 attributed candidates are tracked.
-- 99 entries were carried over from the previous dataset and are pending revalidation.
-- 150 multi-repository owners are queued for expansion.
+- 98 entries were carried over from the previous dataset and are pending revalidation.
+- 148 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 23 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

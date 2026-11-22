@@ -5,12 +5,13 @@
 "country": {"code":"BA","name":"Bosnia & Herzegovina","slug":"bosnia-herzegovina"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":2,"measurementBacklog":398,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":123,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":402,"measuredAccounts":4,"measurementBacklog":398,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":123,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjgyMzY3","login":"adnanh","name":"Adnan Hajdarević","url":"https://github.com/adnanh","avatarUrl":"https://avatars.githubusercontent.com/u/82367?s=80&v=4","followers":229,"publicRepos":42,"location":"Sarajevo, Bosnia & Herzegovina","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":18,"commits":13,"pullRequests":1,"reviews":3,"issues":0,"repositories":1,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjEyNzk2MDQ=","login":"borisdj","name":"Boris Djurdjevic","url":"https://github.com/borisdj","avatarUrl":"https://avatars.githubusercontent.com/u/1279604?s=80&v=4","followers":129,"publicRepos":32,"location":"Banja Luka, Bosnia and Herzegovina","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":272,"commits":271,"pullRequests":0,"reviews":0,"issues":1,"repositories":0,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjgyMzY3","login":"adnanh","name":"Adnan Hajdarević","url":"https://github.com/adnanh","avatarUrl":"https://avatars.githubusercontent.com/u/82367?s=80&v=4","followers":229,"publicRepos":42,"location":"Sarajevo, Bosnia & Herzegovina","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":18,"commits":13,"pullRequests":1,"reviews":3,"issues":0,"repositories":1,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "53763a319dd2be03",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "06d8387c7b70003b",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

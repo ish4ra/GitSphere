@@ -5,13 +5,15 @@
 "country": {"code":"BI","name":"Burundi","slug":"burundi"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":477,"measuredAccounts":2,"measurementBacklog":475,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":33,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":477,"measuredAccounts":4,"measurementBacklog":473,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":33,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOCUesdw","login":"allyelvis","name":"Ally Elvis Nzeyimana","url":"https://github.com/allyelvis","avatarUrl":"https://avatars.githubusercontent.com/u/155692151?s=80&v=4","followers":16,"publicRepos":901,"location":"Burundi","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":594,"commits":72,"pullRequests":504,"reviews":0,"issues":0,"repositories":18,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":2,"id":"MDQ6VXNlcjI5MDM1NzU5","login":"gatarelib","name":"Gatare Libère","url":"https://github.com/gatarelib","avatarUrl":"https://avatars.githubusercontent.com/u/29035759?s=80&v=4","followers":147,"publicRepos":552,"location":"Burundi","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":10,"commits":1,"pullRequests":0,"reviews":0,"issues":0,"repositories":9,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":2,"id":"MDQ6VXNlcjY4ODE3NjAz","login":"joffreynk","name":"Joffrey NKESHIMANA","url":"https://github.com/joffreynk","avatarUrl":"https://avatars.githubusercontent.com/u/68817603?s=80&v=4","followers":30,"publicRepos":114,"location":"Bujumbura-BURUNDI","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":40,"commits":31,"pullRequests":5,"reviews":0,"issues":0,"repositories":4,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":3,"id":"MDQ6VXNlcjQzNzIyODE1","login":"muco-rolle","name":"Trésor Muco","url":"https://github.com/muco-rolle","avatarUrl":"https://avatars.githubusercontent.com/u/43722815?s=80&v=4","followers":102,"publicRepos":150,"location":"Bujumbura, Burundi","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":33,"commits":6,"pullRequests":5,"reviews":0,"issues":11,"repositories":11,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":4,"id":"MDQ6VXNlcjI5MDM1NzU5","login":"gatarelib","name":"Gatare Libère","url":"https://github.com/gatarelib","avatarUrl":"https://avatars.githubusercontent.com/u/29035759?s=80&v=4","followers":147,"publicRepos":552,"location":"Burundi","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":10,"commits":1,"pullRequests":0,"reviews":0,"issues":0,"repositories":9,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "0e981c7b2ec08dda",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "2340a85d08070e62",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

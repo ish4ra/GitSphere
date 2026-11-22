@@ -5,12 +5,13 @@
 "country": {"code":"TV","name":"Tuvalu","slug":"tuvalu"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDOB3GPUQ","login":"alessandroocapa","name":"Randall Flagg","url":"https://github.com/alessandroocapa","avatarUrl":"https://avatars.githubusercontent.com/u/124882769?s=80&v=4","followers":0,"publicRepos":1,"location":"tuvalu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"U_kgDOB3GPUQ","login":"alessandroocapa","name":"Randall Flagg","url":"https://github.com/alessandroocapa","avatarUrl":"https://avatars.githubusercontent.com/u/124882769?s=80&v=4","followers":0,"publicRepos":1,"location":"tuvalu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjgzOTg3NzI0","login":"apfour","name":"Ap4","url":"https://github.com/apfour","avatarUrl":"https://avatars.githubusercontent.com/u/83987724?s=80&v=4","followers":0,"publicRepos":1,"location":"Tuvalu - Funafuti","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "43d9a1889b2891ca",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "b740366521a12e95",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

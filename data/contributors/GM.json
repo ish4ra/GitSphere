@@ -5,12 +5,13 @@
 "country": {"code":"GM","name":"Gambia","slug":"gambia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":321,"measuredAccounts":1,"measurementBacklog":320,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":321,"measuredAccounts":2,"measurementBacklog":319,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjMyMTM5MTIy","login":"almamarie","name":"Louis Marie Atoluko Ayariga","url":"https://github.com/almamarie","avatarUrl":"https://avatars.githubusercontent.com/u/32139122?s=80&v=4","followers":2,"publicRepos":109,"location":"Banjul, The Gambia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":17,"commits":14,"pullRequests":2,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjE0MDE0MzEw","login":"geniuskidkanyi","name":"muhammed kanyi","url":"https://github.com/geniuskidkanyi","avatarUrl":"https://avatars.githubusercontent.com/u/14014310?s=80&v=4","followers":3,"publicRepos":108,"location":"Gambia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":26,"commits":20,"pullRequests":1,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjMyMTM5MTIy","login":"almamarie","name":"Louis Marie Atoluko Ayariga","url":"https://github.com/almamarie","avatarUrl":"https://avatars.githubusercontent.com/u/32139122?s=80&v=4","followers":2,"publicRepos":109,"location":"Banjul, The Gambia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":17,"commits":14,"pullRequests":2,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "3d1405534552c1b2",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "cf1346a7e3430fe0",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

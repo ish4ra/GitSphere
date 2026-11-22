@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/contributors/MA.json">JSON</a> |
+| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/MA.json">JSON</a> |
 
 </div>
 
@@ -25,6 +25,15 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/seuros"><img src="https://avatars.githubusercontent.com/u/2394703?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/seuros"><b>Abdelkader Boudih</b></a><br><sub>&#64;seuros · 652 followers</sub></td>
+<td align="right"><b>7,048</b></td>
+<td align="right">5,920</td>
+<td align="right">941</td>
+<td align="right">73</td>
+<td align="right">21</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/yjose"><img src="https://avatars.githubusercontent.com/u/11137944?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yjose"><b>Youssouf EL AZIZI</b></a><br><sub>&#64;yjose · 1,135 followers</sub></td>
 <td align="right"><b>144</b></td>
 <td align="right">123</td>
@@ -39,7 +48,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 1 of 403 discovered developers (402 awaiting measurement).
+- **Measured:** 2 of 406 discovered developers (404 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

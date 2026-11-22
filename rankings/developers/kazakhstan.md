@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/developers/KZ.json">JSON</a> |
+| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/developers/KZ.json">JSON</a> |
 
 </div>
 
@@ -56,6 +56,34 @@
 <td align="right">49</td>
 <td><sub>Kazakhstan, Kostanay</sub></td>
 </tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/artemnovichkov"><img src="https://avatars.githubusercontent.com/u/5051597?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/artemnovichkov"><b>Artem Novichkov</b></a><br><sub>&#64;artemnovichkov</sub></td>
+<td align="right"><b>620</b></td>
+<td align="right">223</td>
+<td><sub>Almaty, Kazakhstan</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/exentrich"><img src="https://avatars.githubusercontent.com/u/1203812?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/exentrich"><b>Rustem Mussabekov</b></a><br><sub>&#64;exentrich</sub></td>
+<td align="right"><b>584</b></td>
+<td align="right">21</td>
+<td><sub>Astana</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/adilkhash"><img src="https://avatars.githubusercontent.com/u/357685?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adilkhash"><b>Adyl Khashtamov</b></a><br><sub>&#64;adilkhash</sub></td>
+<td align="right"><b>467</b></td>
+<td align="right">0</td>
+<td><sub>Astana, Kazakhstan</sub></td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/fnc12"><img src="https://avatars.githubusercontent.com/u/6009640?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fnc12"><b>Yevgeniy Zakharov</b></a><br><sub>&#64;fnc12</sub></td>
+<td align="right"><b>114</b></td>
+<td align="right">0</td>
+<td><sub>Almaty, Kazakhstan</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -64,7 +92,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 5 attributed developers are tracked; the cutoff is 1,051 followers.
+- Organizations are excluded. 9 attributed developers are tracked; the cutoff is 114 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

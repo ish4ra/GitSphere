@@ -3,12 +3,14 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"VA","name":"Vatican City","slug":"vatican-city"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":31,"measuredAccounts":1,"measurementBacklog":30,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "a4732a099a87f102",
-"updatedAt": "2026-11-22T11:14:57.063Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"coverage": {"basis":"partial","discoveredAccounts":31,"measuredAccounts":2,"measurementBacklog":29,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjYzMzc4Mw==","login":"LBreda","name":"Lorenzo Breda","url":"https://github.com/LBreda","avatarUrl":"https://avatars.githubusercontent.com/u/633783?s=80&v=4","followers":24,"publicRepos":39,"location":"Vatican City State","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22","contributions":{"public":25,"commits":21,"pullRequests":1,"reviews":0,"issues":0,"repositories":3,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "94c2f13a8d8cbc88",
+"updatedAt": "2026-11-22T22:28:05.466Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

@@ -5,13 +5,15 @@
 "country": {"code":"BH","name":"Bahrain","slug":"bahrain"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":2,"measurementBacklog":398,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":18,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":4,"measurementBacklog":396,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":18,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjE3NTc0Mjg=","login":"walidshaari","name":"Walid Shaari CNJ","url":"https://github.com/walidshaari","avatarUrl":"https://avatars.githubusercontent.com/u/1757428?s=80&v=4","followers":723,"publicRepos":170,"location":"Bahrain","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":9,"commits":1,"pullRequests":0,"reviews":0,"issues":3,"repositories":5,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":2,"id":"MDQ6VXNlcjcyMTY4MDA4","login":"0acf","name":"0xMarco","url":"https://github.com/0acf","avatarUrl":"https://avatars.githubusercontent.com/u/72168008?s=80&v=4","followers":0,"publicRepos":1,"location":"Bahrain","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":1,"commits":1,"pullRequests":0,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjc2NjE0MTI5","login":"0xMsecurity","name":"CyberBh","url":"https://github.com/0xMsecurity","avatarUrl":"https://avatars.githubusercontent.com/u/76614129?s=80&v=4","followers":2,"publicRepos":29,"location":"bahrain","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":86,"commits":68,"pullRequests":0,"reviews":0,"issues":1,"repositories":17,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjE3NTc0Mjg=","login":"walidshaari","name":"Walid Shaari CNJ","url":"https://github.com/walidshaari","avatarUrl":"https://avatars.githubusercontent.com/u/1757428?s=80&v=4","followers":723,"publicRepos":170,"location":"Bahrain","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":9,"commits":1,"pullRequests":0,"reviews":0,"issues":3,"repositories":5,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":3,"id":"MDQ6VXNlcjMzNTE3MTYw","login":"0xRar","name":null,"url":"https://github.com/0xRar","avatarUrl":"https://avatars.githubusercontent.com/u/33517160?s=80&v=4","followers":116,"publicRepos":73,"location":"Bahrain","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":2,"commits":2,"pullRequests":0,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":4,"id":"MDQ6VXNlcjcyMTY4MDA4","login":"0acf","name":"0xMarco","url":"https://github.com/0acf","avatarUrl":"https://avatars.githubusercontent.com/u/72168008?s=80&v=4","followers":0,"publicRepos":1,"location":"Bahrain","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":1,"commits":1,"pullRequests":0,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "b534d73329757817",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "0041ecb5608dcdc1",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

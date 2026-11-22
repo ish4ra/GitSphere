@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/developers/KW.json">JSON</a> |
+| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/KW.json">JSON</a> |
 
 </div>
 
@@ -24,8 +24,15 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/NYAN-x-CAT"><img src="https://avatars.githubusercontent.com/u/32758426?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NYAN-x-CAT"><b>NYAN CAT</b></a><br><sub>&#64;NYAN-x-CAT</sub></td>
-<td align="right"><b>3,182</b></td>
+<td align="right"><b>3,183</b></td>
 <td align="right">33</td>
+<td><sub>Kuwait</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/002050"><img src="https://avatars.githubusercontent.com/u/122517080?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/002050"><b>Kiran poudyal</b></a><br><sub>&#64;002050</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
 <td><sub>Kuwait</sub></td>
 </tr>
 </tbody>
@@ -36,7 +43,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 1 attributed developers are tracked; the cutoff is 3,182 followers.
+- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -5,13 +5,15 @@
 "country": {"code":"KY","name":"Cayman Islands","slug":"cayman-islands"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":4,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"U_kgDOBmow8A","login":"0xpanicError","name":"Yash Saraswat","url":"https://github.com/0xpanicError","avatarUrl":"https://avatars.githubusercontent.com/u/107622640?s=80&v=4","followers":83,"publicRepos":38,"location":"Cayman Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"U_kgDOCpW89Q","login":"0xaander","name":"Xander","url":"https://github.com/0xaander","avatarUrl":"https://avatars.githubusercontent.com/u/177585397?s=80&v=4","followers":4,"publicRepos":3,"location":"Cayman Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":2,"id":"U_kgDOCpW89Q","login":"0xaander","name":"Xander","url":"https://github.com/0xaander","avatarUrl":"https://avatars.githubusercontent.com/u/177585397?s=80&v=4","followers":4,"publicRepos":3,"location":"Cayman Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"U_kgDOBblPMg","login":"A-queous","name":"Brandon Sanchez","url":"https://github.com/A-queous","avatarUrl":"https://avatars.githubusercontent.com/u/96030514?s=80&v=4","followers":2,"publicRepos":4,"location":"Grand Cayman, Cayman Islands","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"MDQ6VXNlcjUyNDk1Nzk4","login":"345dave","name":"David Clark","url":"https://github.com/345dave","avatarUrl":"https://avatars.githubusercontent.com/u/52495798?s=80&v=4","followers":0,"publicRepos":2,"location":"Cayman Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "37b86476da151089",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "3eaa709f80309967",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

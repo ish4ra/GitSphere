@@ -5,12 +5,13 @@
 "country": {"code":"ZM","name":"Zambia","slug":"zambia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":434,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjI1NjQxOTM2","login":"malgamves","name":"Daniel Madalitso Phiri","url":"https://github.com/malgamves","avatarUrl":"https://avatars.githubusercontent.com/u/25641936?s=80&v=4","followers":434,"publicRepos":91,"location":"Lusaka, Zambia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"MDQ6VXNlcjI1NjQxOTM2","login":"malgamves","name":"Daniel Madalitso Phiri","url":"https://github.com/malgamves","avatarUrl":"https://avatars.githubusercontent.com/u/25641936?s=80&v=4","followers":434,"publicRepos":91,"location":"Lusaka, Zambia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"U_kgDOCz22VQ","login":"076024","name":"Jackson","url":"https://github.com/076024","avatarUrl":"https://avatars.githubusercontent.com/u/188593749?s=80&v=4","followers":0,"publicRepos":10,"location":"Lusaka Zambia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "bcd0c8b2d2a302d4",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "35aead357b35d328",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

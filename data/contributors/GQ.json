@@ -5,12 +5,13 @@
 "country": {"code":"GQ","name":"Equatorial Guinea","slug":"equatorial-guinea"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":42,"measuredAccounts":1,"measurementBacklog":41,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":41,"measuredAccounts":3,"measurementBacklog":38,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"U_kgDOBZkDnQ","login":"alexis-ngoyi","name":"Alexis Ngoyi M.","url":"https://github.com/alexis-ngoyi","avatarUrl":"https://avatars.githubusercontent.com/u/93914013?s=80&v=4","followers":3,"publicRepos":51,"location":"Guinee Equatoriale, Malabo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":49,"commits":41,"pullRequests":0,"reviews":0,"issues":0,"repositories":8,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"U_kgDOBZkDnQ","login":"alexis-ngoyi","name":"Alexis Ngoyi M.","url":"https://github.com/alexis-ngoyi","avatarUrl":"https://avatars.githubusercontent.com/u/93914013?s=80&v=4","followers":3,"publicRepos":51,"location":"Guinee Equatoriale, Malabo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":49,"commits":41,"pullRequests":0,"reviews":0,"issues":0,"repositories":8,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"U_kgDOCSVcIQ","login":"Tranquilino1","name":"Tranquilino Mba ncogo Andeme","url":"https://github.com/Tranquilino1","avatarUrl":"https://avatars.githubusercontent.com/u/153443361?s=80&v=4","followers":0,"publicRepos":20,"location":"Guinea Ecuatorial","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":39,"commits":20,"pullRequests":1,"reviews":0,"issues":0,"repositories":18,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "2a790ab66affb381",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "1858471400dac917",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

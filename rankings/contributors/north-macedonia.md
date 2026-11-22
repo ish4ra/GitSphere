@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/contributors/MK.json">JSON</a> |
+| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/MK.json">JSON</a> |
 
 </div>
 
@@ -25,6 +25,15 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/ZoranPandovski"><img src="https://avatars.githubusercontent.com/u/7192539?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ZoranPandovski"><b>Zoran Pandovski</b></a><br><sub>&#64;ZoranPandovski · 605 followers</sub></td>
+<td align="right"><b>1,511</b></td>
+<td align="right">971</td>
+<td align="right">204</td>
+<td align="right">332</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/yutomiwana"><img src="https://avatars.githubusercontent.com/u/146503733?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yutomiwana"><b>Yuto</b></a><br><sub>&#64;yutomiwana · 1,254 followers</sub></td>
 <td align="right"><b>539</b></td>
 <td align="right">451</td>
@@ -39,7 +48,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 1 of 401 discovered developers (400 awaiting measurement).
+- **Measured:** 2 of 402 discovered developers (400 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

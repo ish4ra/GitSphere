@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/CL.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/CL.json">JSON</a> |
 
 </div>
 
@@ -25,6 +25,15 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/montoyamoraga"><img src="https://avatars.githubusercontent.com/u/3926350?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/montoyamoraga"><b>aarón montoya-moraga</b></a><br><sub>&#64;montoyamoraga · 575 followers</sub></td>
+<td align="right"><b>9,487</b></td>
+<td align="right">6,191</td>
+<td align="right">2,960</td>
+<td align="right">250</td>
+<td align="right">41</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/Mjrovai"><img src="https://avatars.githubusercontent.com/u/17109416?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mjrovai"><b>Marcelo Rovai</b></a><br><sub>&#64;Mjrovai · 1,217 followers</sub></td>
 <td align="right"><b>473</b></td>
 <td align="right">452</td>
@@ -33,7 +42,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">3</td>
+<td><a href="https://github.com/tyronejosee"><img src="https://avatars.githubusercontent.com/u/132106425?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tyronejosee"><b>Tyrone José</b></a><br><sub>&#64;tyronejosee · 583 followers</sub></td>
+<td align="right"><b>168</b></td>
+<td align="right">156</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/bluuweb"><img src="https://avatars.githubusercontent.com/u/28485235?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bluuweb"><b>bluuweb</b></a><br><sub>&#64;bluuweb · 1,499 followers</sub></td>
 <td align="right"><b>75</b></td>
 <td align="right">65</td>
@@ -48,10 +66,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 2 of 401 discovered developers (399 awaiting measurement).
+- **Measured:** 4 of 401 discovered developers (397 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 113 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

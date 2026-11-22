@@ -45,7 +45,7 @@
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/Danyseifedine"><img src="https://avatars.githubusercontent.com/u/137558448?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Danyseifedine"><b>Dany Seifeddine</b></a><br><sub>&#64;Danyseifedine</sub></td>
-<td align="right"><b>1,162</b></td>
+<td align="right"><b>1,163</b></td>
 <td align="right">43</td>
 <td><sub>lebanon</sub></td>
 </tr>
@@ -53,7 +53,7 @@
 <td align="right">5</td>
 <td><a href="https://github.com/anasty17"><img src="https://avatars.githubusercontent.com/u/77075674?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anasty17"><b>Anas Tayyar</b></a><br><sub>&#64;anasty17</sub></td>
 <td align="right"><b>685</b></td>
-<td align="right">0</td>
+<td align="right">26</td>
 <td><sub>Saida, Lebanon</sub></td>
 </tr>
 </tbody>

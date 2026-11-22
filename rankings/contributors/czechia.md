@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/CZ.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/CZ.json">JSON</a> |
 
 </div>
 
@@ -25,7 +25,16 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><a href="https://github.com/Kobzol"><img src="https://avatars.githubusercontent.com/u/4539057?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kobzol"><b>Jakub Beránek</b></a><br><sub>&#64;Kobzol · 1,142 followers</sub></td>
+<td><a href="https://github.com/kvaps"><img src="https://avatars.githubusercontent.com/u/7556217?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kvaps"><b>Andrei Kvapil</b></a><br><sub>&#64;kvaps · 655 followers</sub></td>
+<td align="right"><b>6,738</b></td>
+<td align="right">5,083</td>
+<td align="right">1,034</td>
+<td align="right">490</td>
+<td align="right">102</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/Kobzol"><img src="https://avatars.githubusercontent.com/u/4539057?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kobzol"><b>Jakub Beránek</b></a><br><sub>&#64;Kobzol · 1,143 followers</sub></td>
 <td align="right"><b>6,618</b></td>
 <td align="right">3,924</td>
 <td align="right">1,724</td>
@@ -33,7 +42,16 @@
 <td align="right">63</td>
 </tr>
 <tr>
+<td align="right">3</td>
+<td><a href="https://github.com/icebeam7"><img src="https://avatars.githubusercontent.com/u/6038239?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/icebeam7"><b>Luis Beltran</b></a><br><sub>&#64;icebeam7 · 591 followers</sub></td>
+<td align="right"><b>370</b></td>
+<td align="right">291</td>
+<td align="right">1</td>
 <td align="right">2</td>
+<td align="right">9</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/catalinmiron"><img src="https://avatars.githubusercontent.com/u/2805320?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/catalinmiron"><b>Catalin Miron</b></a><br><sub>&#64;catalinmiron · 2,862 followers</sub></td>
 <td align="right"><b>83</b></td>
 <td align="right">79</td>
@@ -48,10 +66,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 2 of 427 discovered developers (425 awaiting measurement).
+- **Measured:** 4 of 455 discovered developers (451 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 178 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

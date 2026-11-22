@@ -5,12 +5,13 @@
 "country": {"code":"KN","name":"St. Kitts & Nevis","slug":"st-kitts-nevis"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjcwNDI2NDcz","login":"25x-casino","name":"25x","url":"https://github.com/25x-casino","avatarUrl":"https://avatars.githubusercontent.com/u/70426473?s=80&v=4","followers":0,"publicRepos":2,"location":"Saint Kitts and Nevis","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"MDQ6VXNlcjIxMDEyMzky","login":"Allisterh","name":"Allister Hodge","url":"https://github.com/Allisterh","avatarUrl":"https://avatars.githubusercontent.com/u/21012392?s=80&v=4","followers":66,"publicRepos":4261,"location":"St Kitts and Nevis","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjcwNDI2NDcz","login":"25x-casino","name":"25x","url":"https://github.com/25x-casino","avatarUrl":"https://avatars.githubusercontent.com/u/70426473?s=80&v=4","followers":0,"publicRepos":2,"location":"Saint Kitts and Nevis","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "e94d21448673ae75",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "0ae00e8982cb552e",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

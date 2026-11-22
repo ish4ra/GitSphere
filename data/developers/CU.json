@@ -5,13 +5,15 @@
 "country": {"code":"CU","name":"Cuba","slug":"cuba"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":19,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":2,"candidates":4,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":90,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"U_kgDOBZdJmw","login":"3horta","name":"ehorta","url":"https://github.com/3horta","avatarUrl":"https://avatars.githubusercontent.com/u/93800859?s=80&v=4","followers":29,"publicRepos":9,"location":"Havana, Cuba","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"U_kgDOBcFLOA","login":"A4GOD-AMHG","name":"Alexis Manuel Hurtado García","url":"https://github.com/A4GOD-AMHG","avatarUrl":"https://avatars.githubusercontent.com/u/96553784?s=80&v=4","followers":19,"publicRepos":35,"location":"Cuba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":2,"id":"U_kgDOBcFLOA","login":"A4GOD-AMHG","name":"Alexis Manuel Hurtado García","url":"https://github.com/A4GOD-AMHG","avatarUrl":"https://avatars.githubusercontent.com/u/96553784?s=80&v=4","followers":19,"publicRepos":35,"location":"Cuba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjM5MTAwMjA=","login":"acanive","name":"Abel Espinosa","url":"https://github.com/acanive","avatarUrl":"https://avatars.githubusercontent.com/u/3910020?s=80&v=4","followers":2,"publicRepos":40,"location":"Cienfuegos, Cuba","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"U_kgDOCie0Og","login":"Abero-dev","name":"Abel Robaina Mata","url":"https://github.com/Abero-dev","avatarUrl":"https://avatars.githubusercontent.com/u/170374202?s=80&v=4","followers":2,"publicRepos":5,"location":"La Habana, Cuba","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "6d47d55a69ded19f",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "ca7f5e6233ffcf3e",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

@@ -5,12 +5,13 @@
 "country": {"code":"LR","name":"Liberia","slug":"liberia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDOCTL77g","login":"0555262479","name":"Ebenezer Teto Jacobs","url":"https://github.com/0555262479","avatarUrl":"https://avatars.githubusercontent.com/u/154336238?s=80&v=4","followers":0,"publicRepos":1,"location":"Liberia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"MDQ6VXNlcjY4OTUyMTQw","login":"0770220919","name":"Tennyson Tamba","url":"https://github.com/0770220919","avatarUrl":"https://avatars.githubusercontent.com/u/68952140?s=80&v=4","followers":0,"publicRepos":4,"location":"Monrovia , Liberia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"U_kgDOCTL77g","login":"0555262479","name":"Ebenezer Teto Jacobs","url":"https://github.com/0555262479","avatarUrl":"https://avatars.githubusercontent.com/u/154336238?s=80&v=4","followers":0,"publicRepos":1,"location":"Liberia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "77627b3433819c27",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "dea23c7d5ee0b058",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

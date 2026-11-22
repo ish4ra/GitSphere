@@ -5,12 +5,13 @@
 "country": {"code":"IS","name":"Iceland","slug":"iceland"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":405,"measuredAccounts":1,"measurementBacklog":404,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":410,"measuredAccounts":2,"measurementBacklog":408,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjg0MjI0Ng==","login":"jh3y","name":"Jhey Tompkins","url":"https://github.com/jh3y","avatarUrl":"https://avatars.githubusercontent.com/u/842246?s=80&v=4","followers":3453,"publicRepos":145,"location":"Null Island","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":30276,"commits":30270,"pullRequests":0,"reviews":0,"issues":1,"repositories":5,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjg0MjI0Ng==","login":"jh3y","name":"Jhey Tompkins","url":"https://github.com/jh3y","avatarUrl":"https://avatars.githubusercontent.com/u/842246?s=80&v=4","followers":3453,"publicRepos":145,"location":"Null Island","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":30276,"commits":30270,"pullRequests":0,"reviews":0,"issues":1,"repositories":5,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjMxODIwOA==","login":"koddsson","name":"Kristján Oddsson","url":"https://github.com/koddsson","avatarUrl":"https://avatars.githubusercontent.com/u/318208?s=80&v=4","followers":484,"publicRepos":495,"location":"Iceland","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":1022,"commits":556,"pullRequests":226,"reviews":33,"issues":199,"repositories":7,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "f0ac3851609a7ccb",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "7320b4cfc3271d17",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

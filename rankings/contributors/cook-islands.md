@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/contributors/CK.json">JSON</a> |
+| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/CK.json">JSON</a> |
 
 </div>
 
@@ -32,6 +32,15 @@
 <td align="right">0</td>
 <td align="right">3</td>
 </tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/niejiangnangithub"><img src="https://avatars.githubusercontent.com/u/26460902?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/niejiangnangithub"><b>JIANGNAN NIE</b></a><br><sub>&#64;niejiangnangithub · 0 followers</sub></td>
+<td align="right"><b>5</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
 </tbody>
 </table>
 
@@ -39,10 +48,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 2 of 21 discovered developers (19 awaiting measurement).
+- **Measured:** 4 of 32 discovered developers (28 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 3 of 29 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

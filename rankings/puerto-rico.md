@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | :---: |
 | 🟠 Stale | **100** | 16 Oct 2026 | <a href="../data/PR.json">JSON</a> |
 
-> **Not yet re-verified.** 97 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 94 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -46,24 +46,24 @@
 </tr>
 <tr>
 <td align="right">4</td>
-<td><img src="https://github.com/EsotericSoftware.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EsotericSoftware/reflectasm"><b>EsotericSoftware/reflectasm</b></a></td>
-<td align="right"><b>1,539</b></td>
-<td align="right">217</td>
-<td>Java</td>
+<td><img src="https://github.com/josean-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/josean-dev/dev-environment-files"><b>josean-dev/dev-environment-files</b></a></td>
+<td align="right"><b>4,142</b></td>
+<td align="right">888</td>
+<td>Lua</td>
 </tr>
 <tr>
 <td align="right">5</td>
-<td><img src="https://github.com/darkoperator.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/darkoperator/Posh-SSH"><b>darkoperator/Posh-SSH</b></a></td>
-<td align="right"><b>1,058</b></td>
-<td align="right">220</td>
-<td>PowerShell</td>
+<td><img src="https://github.com/darkoperator.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/darkoperator/dnsrecon"><b>darkoperator/dnsrecon</b></a><br><sub>DNS Enumeration Script</sub></td>
+<td align="right"><b>3,097</b></td>
+<td align="right">574</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">6</td>
-<td><img src="https://github.com/jgmdev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jgmdev/ddos-deflate"><b>jgmdev/ddos-deflate</b></a></td>
-<td align="right"><b>860</b></td>
-<td align="right">265</td>
-<td>Shell</td>
+<td><img src="https://github.com/WalterInSH.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/WalterInSH/risk-management-note"><b>WalterInSH/risk-management-note</b></a><br><sub>🧯风险控制笔记，适用于互联网企业</sub></td>
+<td align="right"><b>2,388</b></td>
+<td align="right">665</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">7</td>
@@ -732,8 +732,8 @@
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 2 stars; 147 attributed candidates are tracked.
-- 97 entries were carried over from the previous dataset and are pending revalidation.
-- 150 multi-repository owners are queued for expansion.
+- 94 entries were carried over from the previous dataset and are pending revalidation.
+- 147 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

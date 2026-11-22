@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | :---: |
 | 🟠 Stale | **100** | 16 Oct 2026 | <a href="../data/AM.json">JSON</a> |
 
-> **Not yet re-verified.** 97 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 91 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -46,45 +46,45 @@
 </tr>
 <tr>
 <td align="right">4</td>
-<td><img src="https://github.com/Vagr9K.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Vagr9K/gatsby-advanced-starter"><b>Vagr9K/gatsby-advanced-starter</b></a></td>
-<td align="right"><b>1,557</b></td>
-<td align="right">389</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/ivbeg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ivbeg/awesome-status-pages"><b>ivbeg/awesome-status-pages</b></a><br><sub>Awesome list of status page open source software, services and public status pages of major internet companies</sub></td>
+<td align="right"><b>3,853</b></td>
+<td align="right">311</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">5</td>
-<td><img src="https://github.com/khanamiryan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/khanamiryan/php-qrcode-detector-decoder"><b>khanamiryan/php-qrcode-detector-decoder</b></a></td>
-<td align="right"><b>1,413</b></td>
-<td align="right">321</td>
-<td>PHP</td>
-</tr>
-<tr>
-<td align="right">6</td>
-<td><img src="https://github.com/robertlevonyan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/robertlevonyan/material-chip-view"><b>robertlevonyan/material-chip-view</b></a> <sub>archived</sub></td>
-<td align="right"><b>1,334</b></td>
-<td align="right">145</td>
-<td>Kotlin</td>
-</tr>
-<tr>
-<td align="right">7</td>
-<td><img src="https://github.com/shahen94.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shahen94/react-native-video-processing"><b>shahen94/react-native-video-processing</b></a></td>
-<td align="right"><b>1,288</b></td>
-<td align="right">321</td>
-<td>Objective-C</td>
-</tr>
-<tr>
-<td align="right">8</td>
-<td><img src="https://github.com/sergeyksv.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sergeyksv/tingodb"><b>sergeyksv/tingodb</b></a></td>
-<td align="right"><b>1,158</b></td>
-<td align="right">103</td>
+<td><img src="https://github.com/screeps.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/screeps/screeps"><b>screeps/screeps</b></a><br><sub>A standalone server for programming game Screeps</sub></td>
+<td align="right"><b>3,362</b></td>
+<td align="right">236</td>
 <td>JavaScript</td>
 </tr>
 <tr>
+<td align="right">6</td>
+<td><img src="https://github.com/khoren93.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/khoren93/SwiftHub"><b>khoren93/SwiftHub</b></a><br><sub>GitHub iOS client in RxSwift and MVVM-C clean architecture</sub></td>
+<td align="right"><b>3,116</b></td>
+<td align="right">539</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><img src="https://github.com/modularcode.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/modularcode/modular-admin-html"><b>modularcode/modular-admin-html</b></a><br><sub>ModularAdmin - Free Dashboard Theme Built On Bootstrap 4 &#124; HTML Version</sub></td>
+<td align="right"><b>2,969</b></td>
+<td align="right">793</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><img src="https://github.com/NarHakobyan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NarHakobyan/awesome-nest-boilerplate"><b>NarHakobyan/awesome-nest-boilerplate</b></a><br><sub>Awesome NestJS Boilerplate 😍, Typescript 💪, Postgres 🎉, TypeORM 🥳</sub></td>
+<td align="right"><b>2,829</b></td>
+<td align="right">521</td>
+<td>TypeScript</td>
+</tr>
+<tr>
 <td align="right">9</td>
-<td><img src="https://github.com/YerevaNN.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/YerevaNN/mimic3-benchmarks"><b>YerevaNN/mimic3-benchmarks</b></a></td>
-<td align="right"><b>892</b></td>
-<td align="right">344</td>
-<td>Python</td>
+<td><img src="https://github.com/ai-forever.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ai-forever/Kandinsky-2"><b>ai-forever/Kandinsky-2</b></a><br><sub>Kandinsky 2 — multilingual text2image latent diffusion model</sub></td>
+<td align="right"><b>2,813</b></td>
+<td align="right">319</td>
+<td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">10</td>
@@ -732,8 +732,8 @@
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 2 stars; 142 attributed candidates are tracked.
-- 97 entries were carried over from the previous dataset and are pending revalidation.
-- 149 multi-repository owners are queued for expansion.
+- 91 entries were carried over from the previous dataset and are pending revalidation.
+- 143 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 135 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -5,12 +5,13 @@
 "country": {"code":"TJ","name":"Tajikistan","slug":"tajikistan"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjY4MjA0MDYw","login":"1e0nard0","name":"Dilshod","url":"https://github.com/1e0nard0","avatarUrl":"https://avatars.githubusercontent.com/u/68204060?s=80&v=4","followers":0,"publicRepos":1,"location":"Tajikistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"MDQ6VXNlcjY4MjA0MDYw","login":"1e0nard0","name":"Dilshod","url":"https://github.com/1e0nard0","avatarUrl":"https://avatars.githubusercontent.com/u/68204060?s=80&v=4","followers":0,"publicRepos":1,"location":"Tajikistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"U_kgDOBlz7Ww","login":"22409934","name":"Razackov Firuz","url":"https://github.com/22409934","avatarUrl":"https://avatars.githubusercontent.com/u/106756955?s=80&v=4","followers":0,"publicRepos":1,"location":"Tajikistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "0cf70ad1d3f95231",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "a328359b8ef774bd",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

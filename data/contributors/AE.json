@@ -5,10 +5,10 @@
 "country": {"code":"AE","name":"United Arab Emirates","slug":"united-arab-emirates"},
 "status": "building",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":417,"measuredAccounts":1,"measurementBacklog":416,"window":null,"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":98,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":438,"measuredAccounts":2,"measurementBacklog":436,"window":null,"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":98,"unresolved":0}},
 "users": [],
-"contentHash": "6575bf3e9c2886e7",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "04f9d7e5927d3d16",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": null,
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

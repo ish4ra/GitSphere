@@ -5,12 +5,14 @@
 "country": {"code":"JE","name":"Jersey","slug":"jersey"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":3,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjIyNDAxMDM3","login":"ablanco24","name":"Andrew Blanco","url":"https://github.com/ablanco24","avatarUrl":"https://avatars.githubusercontent.com/u/22401037?s=80&v=4","followers":0,"publicRepos":4,"location":"North New Jersey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"MDQ6VXNlcjQ1MjgwOTI=","login":"digitalbuddha","name":"Mike Nakhimovich","url":"https://github.com/digitalbuddha","avatarUrl":"https://avatars.githubusercontent.com/u/4528092?s=80&v=4","followers":791,"publicRepos":84,"location":"The dirty (jersey)","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjEwMDk4NzQ=","login":"simonbrowndotje","name":"Simon Brown","url":"https://github.com/simonbrowndotje","avatarUrl":"https://avatars.githubusercontent.com/u/1009874?s=80&v=4","followers":765,"publicRepos":5,"location":"Jersey, Channel Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjIyNDAxMDM3","login":"ablanco24","name":"Andrew Blanco","url":"https://github.com/ablanco24","avatarUrl":"https://avatars.githubusercontent.com/u/22401037?s=80&v=4","followers":0,"publicRepos":4,"location":"North New Jersey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "88fa197e32d59bc5",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "1d8f144dcb37e752",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

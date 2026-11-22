@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/developers/LA.json">JSON</a> |
+| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/LA.json">JSON</a> |
 
 </div>
 
@@ -23,6 +23,13 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/esticrayon"><img src="https://avatars.githubusercontent.com/u/179394853?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/esticrayon"><b>. 𝒚𝟑𝒐𝒉𝒘𝒂𝟕 ๑</b></a><br><sub>&#64;esticrayon</sub></td>
+<td align="right"><b>602</b></td>
+<td align="right">2</td>
+<td><sub>𝚟𝚒𝚎𝚝&gt;𝚜𝚊𝚏𝚎; 𝚙𝚕𝚜 𝚍𝚘𝚗𝚝 𝚌𝚘𝚙𝚢 𝚖�…</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/0101240207164"><img src="https://avatars.githubusercontent.com/u/232126214?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0101240207164"><b>BAISEE RM</b></a><br><sub>&#64;0101240207164</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">3</td>
@@ -36,7 +43,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 1 attributed developers are tracked; the cutoff is 1 followers.
+- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 1 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

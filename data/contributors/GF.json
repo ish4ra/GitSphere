@@ -5,12 +5,13 @@
 "country": {"code":"GF","name":"French Guiana","slug":"french-guiana"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":55,"measuredAccounts":1,"measurementBacklog":54,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":67,"measuredAccounts":2,"measurementBacklog":65,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":35,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjQ2OTI3NzY2","login":"Ludoc0de","name":"Ludocode","url":"https://github.com/Ludoc0de","avatarUrl":"https://avatars.githubusercontent.com/u/46927766?s=80&v=4","followers":2,"publicRepos":32,"location":"French Guiana","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":6,"commits":5,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjUwMjk1NTc3","login":"R3n1er","name":"Alban R3nR","url":"https://github.com/R3n1er","avatarUrl":"https://avatars.githubusercontent.com/u/50295577?s=80&v=4","followers":0,"publicRepos":31,"location":"Cayenne, French Guiana","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":541,"commits":422,"pullRequests":118,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjQ2OTI3NzY2","login":"Ludoc0de","name":"Ludocode","url":"https://github.com/Ludoc0de","avatarUrl":"https://avatars.githubusercontent.com/u/46927766?s=80&v=4","followers":2,"publicRepos":32,"location":"French Guiana","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":6,"commits":5,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "d9c8f54836d68e19",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "bbb5812bef9c56b5",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

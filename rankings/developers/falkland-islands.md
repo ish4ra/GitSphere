@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/developers/FK.json">JSON</a> |
+| 🟡 Provisional | **18** | 22 Nov 2026 | <a href="../../data/developers/FK.json">JSON</a> |
 
 </div>
 
@@ -112,6 +112,41 @@
 <td align="right">1</td>
 <td><sub>Islas Malvinas</sub></td>
 </tr>
+<tr>
+<td align="right">14</td>
+<td><a href="https://github.com/Austronauticus"><img src="https://avatars.githubusercontent.com/u/194698385?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Austronauticus"><b>Austronauticus le Grande</b></a><br><sub>&#64;Austronauticus</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Falkland Islands</sub></td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><a href="https://github.com/fskeljo"><img src="https://avatars.githubusercontent.com/u/146250257?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fskeljo"><b>Frane Skeljo</b></a><br><sub>&#64;fskeljo</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Stanley, Falkland Islands</sub></td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><a href="https://github.com/GlowingRain"><img src="https://avatars.githubusercontent.com/u/44713297?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GlowingRain"><b>GlowingRain</b></a><br><sub>&#64;GlowingRain</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Falkland Islands</sub></td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><a href="https://github.com/Hawkotron"><img src="https://avatars.githubusercontent.com/u/36612248?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hawkotron"><b>Hawkotron</b></a><br><sub>&#64;Hawkotron</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Falkland Islands</sub></td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><a href="https://github.com/ikaonsen20221003"><img src="https://avatars.githubusercontent.com/u/114928052?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ikaonsen20221003"><b>ikaonsen20221003</b></a><br><sub>&#64;ikaonsen20221003</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>falkland islands</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -120,8 +155,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 13 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 18 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 3 of 20 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

@@ -5,12 +5,14 @@
 "country": {"code":"PS","name":"Palestine","slug":"palestine"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":1857,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":645,"candidates":3,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjgwMzg2NTk=","login":"shadeed","name":"Ahmad Shadeed","url":"https://github.com/shadeed","avatarUrl":"https://avatars.githubusercontent.com/u/8038659?s=80&v=4","followers":1857,"publicRepos":24,"location":"Tulkarm, Palestine","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"MDQ6VXNlcjgwMzg2NTk=","login":"shadeed","name":"Ahmad Shadeed","url":"https://github.com/shadeed","avatarUrl":"https://avatars.githubusercontent.com/u/8038659?s=80&v=4","followers":1857,"publicRepos":24,"location":"Tulkarm, Palestine","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjY1MTUxNzAx","login":"sondosaabed","name":"Sondos Ahmad Aabed","url":"https://github.com/sondosaabed","avatarUrl":"https://avatars.githubusercontent.com/u/65151701?s=80&v=4","followers":819,"publicRepos":127,"location":"Code for Palestine, Al-Bireh","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"U_kgDOCcETMg","login":"heba-mustafa59","name":"Heba Jalil ☆","url":"https://github.com/heba-mustafa59","avatarUrl":"https://avatars.githubusercontent.com/u/163648306?s=80&v=4","followers":645,"publicRepos":59,"location":"𝐒𝐚𝐥𝐟𝐢𝐭_𝐏𝐚𝐥𝐞𝐬𝐭𝐢𝐧𝐞","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "4d5e962a3beea2f6",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "819a20e44486877e",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

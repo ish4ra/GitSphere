@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/contributors/EE.json">JSON</a> |
+| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/contributors/EE.json">JSON</a> |
 
 </div>
 
@@ -32,6 +32,24 @@
 <td align="right">1</td>
 <td align="right">0</td>
 </tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/vvscode"><img src="https://avatars.githubusercontent.com/u/6904368?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vvscode"><b>Vasiliy Vanchuk</b></a><br><sub>&#64;vvscode · 501 followers</sub></td>
+<td align="right"><b>164</b></td>
+<td align="right">60</td>
+<td align="right">18</td>
+<td align="right">75</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/Dew25"><img src="https://avatars.githubusercontent.com/u/14212728?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dew25"><b>Dew25</b></a><br><sub>&#64;Dew25 · 160 followers</sub></td>
+<td align="right"><b>22</b></td>
+<td align="right">18</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
 </tbody>
 </table>
 
@@ -39,10 +57,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 1 of 400 discovered developers (399 awaiting measurement).
+- **Measured:** 3 of 405 discovered developers (402 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 142 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

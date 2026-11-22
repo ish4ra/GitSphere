@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **90** | 03 Nov 2026 | <a href="../data/CH.json">JSON</a> |
-
-> **Not yet re-verified.** 20 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/CH.json">JSON</a> |
 
 </div>
 
@@ -515,143 +513,213 @@
 </tr>
 <tr>
 <td align="right">71</td>
-<td><img src="https://github.com/joaomoreno.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/joaomoreno/gifcap"><b>joaomoreno/gifcap</b></a></td>
-<td align="right"><b>1,658</b></td>
-<td align="right">120</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/apankrat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/apankrat/nullboard"><b>apankrat/nullboard</b></a><br><sub>Nullboard is a minimalist kanban board, focused on compactness and readability.</sub></td>
+<td align="right"><b>4,144</b></td>
+<td align="right">287</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td align="right">72</td>
-<td><img src="https://github.com/kiwix.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kiwix/kiwix-desktop"><b>kiwix/kiwix-desktop</b></a></td>
-<td align="right"><b>1,493</b></td>
-<td align="right">187</td>
-<td>C++</td>
+<td><img src="https://github.com/thomasnordquist.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thomasnordquist/MQTT-Explorer"><b>thomasnordquist/MQTT-Explorer</b></a><br><sub>An all-round MQTT client that provides a structured topic overview</sub></td>
+<td align="right"><b>4,096</b></td>
+<td align="right">423</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">73</td>
-<td><img src="https://github.com/STMicroelectronics.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/STMicroelectronics/STM32CubeF4"><b>STMicroelectronics/STM32CubeF4</b></a></td>
-<td align="right"><b>1,347</b></td>
-<td align="right">490</td>
-<td>C</td>
-</tr>
-<tr>
-<td align="right">74</td>
-<td><img src="https://github.com/marcoroth.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/marcoroth/herb"><b>marcoroth/herb</b></a></td>
-<td align="right"><b>1,325</b></td>
-<td align="right">146</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">75</td>
-<td><img src="https://github.com/OCA.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/OCA/web"><b>OCA/web</b></a></td>
-<td align="right"><b>1,236</b></td>
-<td align="right">2,180</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">76</td>
-<td><img src="https://github.com/damienbod.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/damienbod/angular-auth-oidc-client"><b>damienbod/angular-auth-oidc-client</b></a></td>
-<td align="right"><b>1,236</b></td>
-<td align="right">448</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">77</td>
-<td><img src="https://github.com/veorq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/veorq/cryptocoding"><b>veorq/cryptocoding</b></a></td>
-<td align="right"><b>1,227</b></td>
-<td align="right">93</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">78</td>
-<td><img src="https://github.com/vhf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vhf/v8-bailout-reasons"><b>vhf/v8-bailout-reasons</b></a></td>
-<td align="right"><b>902</b></td>
-<td align="right">38</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">79</td>
-<td><img src="https://github.com/protonpass.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/protonpass/android-pass"><b>protonpass/android-pass</b></a></td>
-<td align="right"><b>792</b></td>
-<td align="right">75</td>
-<td>Kotlin</td>
-</tr>
-<tr>
-<td align="right">80</td>
-<td><img src="https://github.com/saelo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/saelo/pwn2own2018"><b>saelo/pwn2own2018</b></a></td>
-<td align="right"><b>760</b></td>
-<td align="right">112</td>
-<td>C</td>
-</tr>
-<tr>
-<td align="right">81</td>
-<td><img src="https://github.com/Juriy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Juriy/pro-react-redux"><b>Juriy/pro-react-redux</b></a></td>
-<td align="right"><b>742</b></td>
-<td align="right">449</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">82</td>
-<td><img src="https://github.com/nyancrimew.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nyancrimew/goop"><b>nyancrimew/goop</b></a></td>
-<td align="right"><b>655</b></td>
-<td align="right">54</td>
-<td>Go</td>
-</tr>
-<tr>
-<td align="right">83</td>
-<td><img src="https://github.com/cclauss.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cclauss/Ten-lines-or-less"><b>cclauss/Ten-lines-or-less</b></a></td>
-<td align="right"><b>618</b></td>
-<td align="right">83</td>
+<td><img src="https://github.com/FujiwaraChoki.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FujiwaraChoki/supoclip"><b>FujiwaraChoki/supoclip</b></a><br><sub>An open-source OpusClip alternative</sub></td>
+<td align="right"><b>4,066</b></td>
+<td align="right">970</td>
 <td>Python</td>
 </tr>
 <tr>
+<td align="right">74</td>
+<td><img src="https://github.com/plexinc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/plexinc/pms-docker"><b>plexinc/pms-docker</b></a><br><sub>Plex Media Server Docker repo, for all your PMS docker needs.</sub></td>
+<td align="right"><b>4,053</b></td>
+<td align="right">591</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/status-im.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/status-im/status-legacy"><b>status-im/status-legacy</b></a> <sub>archived</sub><br><sub>a free (libre) open source, mobile OS for Ethereum</sub></td>
+<td align="right"><b>4,022</b></td>
+<td align="right">985</td>
+<td>Clojure</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/MrNeRF.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MrNeRF/LichtFeld-Studio"><b>MrNeRF/LichtFeld-Studio</b></a><br><sub>Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.</sub></td>
+<td align="right"><b>4,019</b></td>
+<td align="right">522</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/yarrick.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yarrick/pingfs"><b>yarrick/pingfs</b></a><br><sub>Stores your data in ICMP ping packets</sub></td>
+<td align="right"><b>3,943</b></td>
+<td align="right">145</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/lightly-ai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lightly-ai/lightly"><b>lightly-ai/lightly</b></a><br><sub>A python library for self-supervised learning and latent world models on images.</sub></td>
+<td align="right"><b>3,833</b></td>
+<td align="right">381</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/scipag.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/scipag/vulscan"><b>scipag/vulscan</b></a><br><sub>Advanced vulnerability scanning with Nmap NSE</sub></td>
+<td align="right"><b>3,800</b></td>
+<td align="right">685</td>
+<td>Lua</td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/bknd-io.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bknd-io/bknd"><b>bknd-io/bknd</b></a><br><sub>Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, React Router, Astro, Cloudflare, Bun,…</sub></td>
+<td align="right"><b>3,798</b></td>
+<td align="right">151</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/wjakob.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wjakob/nanobind"><b>wjakob/nanobind</b></a><br><sub>nanobind: tiny and efficient C++/Python bindings</sub></td>
+<td align="right"><b>3,796</b></td>
+<td align="right">338</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/Wookai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Wookai/paper-tips-and-tricks"><b>Wookai/paper-tips-and-tricks</b></a><br><sub>Best practice and tips &amp; tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.</sub></td>
+<td align="right"><b>3,732</b></td>
+<td align="right">252</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><img src="https://github.com/olivia-ai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/olivia-ai/olivia"><b>olivia-ai/olivia</b></a> <sub>archived</sub><br><sub>💁♀️Your new best friend powered by an artificial neural network</sub></td>
+<td align="right"><b>3,715</b></td>
+<td align="right">342</td>
+<td>Go</td>
+</tr>
+<tr>
 <td align="right">84</td>
-<td><img src="https://github.com/tarsius.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tarsius/hl-todo"><b>tarsius/hl-todo</b></a></td>
-<td align="right"><b>474</b></td>
-<td align="right">28</td>
-<td>Emacs Lisp</td>
+<td><img src="https://github.com/nst.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nst/RuntimeBrowser"><b>nst/RuntimeBrowser</b></a><br><sub>Objective-C Runtime Browser, for Mac OS X and iOS</sub></td>
+<td align="right"><b>3,664</b></td>
+<td align="right">521</td>
+<td>Objective-C</td>
 </tr>
 <tr>
 <td align="right">85</td>
-<td><img src="https://github.com/FrancescoSaverioZuppichini.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FrancescoSaverioZuppichini/ViT"><b>FrancescoSaverioZuppichini/ViT</b></a></td>
-<td align="right"><b>460</b></td>
-<td align="right">62</td>
-<td>—</td>
+<td><img src="https://github.com/vernemq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vernemq/vernemq"><b>vernemq/vernemq</b></a><br><sub>A distributed MQTT message broker based on Erlang/OTP. Built for high quality &amp; Industrial use cases. The VerneMQ missi…</sub></td>
+<td align="right"><b>3,657</b></td>
+<td align="right">436</td>
+<td>Erlang</td>
 </tr>
 <tr>
 <td align="right">86</td>
-<td><img src="https://github.com/jeremytammik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jeremytammik/the_building_coder_samples"><b>jeremytammik/the&#95;building&#95;coder&#95;samples</b></a></td>
-<td align="right"><b>435</b></td>
-<td align="right">197</td>
-<td>C#</td>
+<td><img src="https://github.com/antonmedv.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/antonmedv/walk"><b>antonmedv/walk</b></a><br><sub>Terminal file manager</sub></td>
+<td align="right"><b>3,653</b></td>
+<td align="right">114</td>
+<td>Go</td>
 </tr>
 <tr>
 <td align="right">87</td>
-<td><img src="https://github.com/sahildua2305.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sahildua2305/hackIDE"><b>sahildua2305/hackIDE</b></a></td>
-<td align="right"><b>301</b></td>
-<td align="right">125</td>
+<td><img src="https://github.com/marcbachmann.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/marcbachmann/node-html-pdf"><b>marcbachmann/node-html-pdf</b></a> <sub>archived</sub><br><sub>This repo isn&#39;t maintained anymore as phantomjs got dreprecated a long time ago. Please migrate to headless chrome/pupp…</sub></td>
+<td align="right"><b>3,571</b></td>
+<td align="right">516</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">88</td>
-<td><img src="https://github.com/sandy081.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sandy081/vscode-todotasks"><b>sandy081/vscode-todotasks</b></a></td>
-<td align="right"><b>242</b></td>
-<td align="right">89</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/cloudhead.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cloudhead/rx"><b>cloudhead/rx</b></a><br><sub>👾 Modern and minimalist pixel editor</sub></td>
+<td align="right"><b>3,500</b></td>
+<td align="right">110</td>
+<td>Rust</td>
 </tr>
 <tr>
 <td align="right">89</td>
-<td><img src="https://github.com/haqq-network.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/haqq-network/haqq"><b>haqq-network/haqq</b></a></td>
-<td align="right"><b>230</b></td>
-<td align="right">127</td>
-<td>Go</td>
+<td><img src="https://github.com/vincentdoerig.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vincentdoerig/latex-css"><b>vincentdoerig/latex-css</b></a><br><sub>LaTeX.css is a CSS library that makes your website look like a LaTeX document</sub></td>
+<td align="right"><b>3,481</b></td>
+<td align="right">152</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td align="right">90</td>
-<td><img src="https://github.com/danistefanovic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/danistefanovic/hooka"><b>danistefanovic/hooka</b></a> <sub>archived</sub></td>
-<td align="right"><b>207</b></td>
-<td align="right">16</td>
+<td><img src="https://github.com/SimpleHomelab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SimpleHomelab/Docker-Traefik"><b>SimpleHomelab/Docker-Traefik</b></a><br><sub>Docker media and home server stack with Docker Compose, Traefik, CrowdSec, Google OAuth2/Authelia, and LetsEncrypt. Bui…</sub></td>
+<td align="right"><b>3,447</b></td>
+<td align="right">628</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/xlwings.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xlwings/xlwings"><b>xlwings/xlwings</b></a><br><sub>xlwings is a Python library that makes it easy to call Python from Excel and vice versa. It works with Excel on Windows…</sub></td>
+<td align="right"><b>3,433</b></td>
+<td align="right">538</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/zcreativelabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zcreativelabs/react-simple-maps"><b>zcreativelabs/react-simple-maps</b></a><br><sub>Composable SVG map charts for data visualization in React</sub></td>
+<td align="right"><b>3,393</b></td>
+<td align="right">461</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/root-project.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/root-project/root"><b>root-project/root</b></a><br><sub>The official repository for ROOT: analyzing, storing and visualizing big data, scientifically</sub></td>
+<td align="right"><b>3,356</b></td>
+<td align="right">1,612</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/riscv-software-src.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/riscv-software-src/riscv-isa-sim"><b>riscv-software-src/riscv-isa-sim</b></a><br><sub>Spike, a RISC-V ISA Simulator</sub></td>
+<td align="right"><b>3,281</b></td>
+<td align="right">1,140</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/prs-eth.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/prs-eth/Marigold"><b>prs-eth/Marigold</b></a><br><sub>&#91;CVPR 2024 - Oral, Best Paper Award Candidate&#93; Marigold: Repurposing Diffusion-Based Image Generators for Monocular Dep…</sub></td>
+<td align="right"><b>3,259</b></td>
+<td align="right">214</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/qos-ch.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/qos-ch/logback"><b>qos-ch/logback</b></a><br><sub>The reliable, generic, fast and flexible logging framework for Java.</sub></td>
+<td align="right"><b>3,241</b></td>
+<td align="right">1,366</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/sustrik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sustrik/libmill"><b>sustrik/libmill</b></a><br><sub>Go-style concurrency in C</sub></td>
+<td align="right"><b>3,183</b></td>
+<td align="right">220</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/mrcjkb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mrcjkb/rustaceanvim"><b>mrcjkb/rustaceanvim</b></a><br><sub>🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</sub></td>
+<td align="right"><b>3,177</b></td>
+<td align="right">137</td>
+<td>Lua</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/klaudiosinani.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/klaudiosinani/tusk"><b>klaudiosinani/tusk</b></a><br><sub>Refined Evernote desktop app</sub></td>
+<td align="right"><b>3,153</b></td>
+<td align="right">241</td>
 <td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/diegoantognini.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/diegoantognini/pyGAT"><b>diegoantognini/pyGAT</b></a><br><sub>Pytorch implementation of the Graph Attention Network model by Veličković et. al (2017, https://arxiv.org/abs/1710.1090…</sub></td>
+<td align="right"><b>3,122</b></td>
+<td align="right">699</td>
+<td>Python</td>
 </tr>
 </tbody>
 </table>
@@ -659,12 +727,11 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 207 stars; 90 attributed candidates are tracked.
-- 20 entries were carried over from the previous dataset and are pending revalidation.
-- 137 multi-repository owners are queued for expansion.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 3,122 stars; 148 attributed candidates are tracked.
+- 129 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 151 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

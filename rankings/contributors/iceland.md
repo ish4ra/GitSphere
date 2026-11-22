@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/contributors/IS.json">JSON</a> |
+| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/IS.json">JSON</a> |
 
 </div>
 
@@ -32,6 +32,15 @@
 <td align="right">0</td>
 <td align="right">1</td>
 </tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/koddsson"><img src="https://avatars.githubusercontent.com/u/318208?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/koddsson"><b>Kristján Oddsson</b></a><br><sub>&#64;koddsson · 484 followers</sub></td>
+<td align="right"><b>1,022</b></td>
+<td align="right">556</td>
+<td align="right">226</td>
+<td align="right">33</td>
+<td align="right">199</td>
+</tr>
 </tbody>
 </table>
 
@@ -39,7 +48,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 1 of 405 discovered developers (404 awaiting measurement).
+- **Measured:** 2 of 410 discovered developers (408 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

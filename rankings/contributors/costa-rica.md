@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/CR.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/CR.json">JSON</a> |
 
 </div>
 
@@ -25,6 +25,15 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/glittercowboy"><img src="https://avatars.githubusercontent.com/u/186001655?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/glittercowboy"><b>TÂCHES</b></a><br><sub>&#64;glittercowboy · 1,284 followers</sub></td>
+<td align="right"><b>4,637</b></td>
+<td align="right">3,677</td>
+<td align="right">742</td>
+<td align="right">117</td>
+<td align="right">76</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/Klerith"><img src="https://avatars.githubusercontent.com/u/3438503?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Klerith"><b>Fernando Herrera</b></a><br><sub>&#64;Klerith · 15,634 followers</sub></td>
 <td align="right"><b>746</b></td>
 <td align="right">647</td>
@@ -33,11 +42,20 @@
 <td align="right">8</td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">3</td>
 <td><a href="https://github.com/miguelestradam3"><img src="https://avatars.githubusercontent.com/u/212426258?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/miguelestradam3"><b>Miguel Estrada</b></a><br><sub>&#64;miguelestradam3 · 1,130 followers</sub></td>
 <td align="right"><b>357</b></td>
 <td align="right">327</td>
 <td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/jorneycr"><img src="https://avatars.githubusercontent.com/u/30164447?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jorneycr"><b>Jorney Lopez</b></a><br><sub>&#64;jorneycr · 773 followers</sub></td>
+<td align="right"><b>59</b></td>
+<td align="right">46</td>
+<td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
 </tr>
@@ -48,10 +66,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 2 of 400 discovered developers (398 awaiting measurement).
+- **Measured:** 4 of 400 discovered developers (396 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 58 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

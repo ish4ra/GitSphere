@@ -1,8 +1,9 @@
 {
 "schemaVersion": 3,
 "country": {"code":"TM","name":"Turkmenistan","slug":"turkmenistan"},
-"count": 149,
+"count": 150,
 "repositories": [
+  {"id":"MDEwOlJlcG9zaXRvcnk3NjQ1NTQ2Mw==","name":"vbauerster/mpb","stars":2513,"forks":132,"language":"Go","license":"Unlicense","description":"multi progress bar for Go cli applications","archived":false,"createdAt":"2016-12-14T11:56:29Z","pushedAt":"2026-10-21T00:26:56Z","owner":{"id":"MDQ6VXNlcjIyMDY1MzM=","login":"vbauerster","type":"User","name":"Vladimir Bauer","location":"Turkmenistan"},"attribution":{"code":"TM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-22T21:55:04.471Z","verifiedAt":"2026-11-22T21:55:04.471Z","cycle":1},
   {"name":"Shatlyk1011/my-best-resources","stars":224,"forks":36,"archived":false,"createdAt":"2025-07-20T14:49:23Z","pushedAt":"2026-10-06T06:42:23Z","owner":{"login":"Shatlyk1011","type":"User","name":"Shatlyk","location":"Turkmenabat"},"attribution":{"code":"TM","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-16T18:16:11.615Z","id":"legacy:shatlyk1011/my-best-resources","legacy":true},
   {"name":"nyansterowo/MongoDB-bot","stars":75,"forks":4,"language":"JavaScript","archived":false,"createdAt":"2020-03-09T08:17:19Z","pushedAt":"2022-05-09T18:56:42Z","owner":{"login":"nyansterowo","type":"User","name":"Данил Бездушный","location":"Turkmenistan, Ashabat"},"attribution":{"code":"TM","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-03T14:30:59.011Z","id":"legacy:nyansterowo/mongodb-bot","legacy":true},
   {"name":"richxcame/ride-hailing","stars":55,"forks":16,"language":"Go","archived":false,"createdAt":"2025-11-04T01:01:33Z","pushedAt":"2026-02-28T14:47:00Z","owner":{"login":"richxcame","type":"User","name":"Baygeldi Cholukov","location":"Turkmenistan"},"attribution":{"code":"TM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T14:30:59.011Z","id":"legacy:richxcame/ride-hailing","legacy":true},

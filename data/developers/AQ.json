@@ -5,13 +5,15 @@
 "country": {"code":"AQ","name":"Antarctica","slug":"antarctica"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":14,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":4,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":14,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjM1NDAyMjQ4","login":"r-lyeh","name":null,"url":"https://github.com/r-lyeh","avatarUrl":"https://avatars.githubusercontent.com/u/35402248?s=80&v=4","followers":462,"publicRepos":27,"location":"Vostok, Antarctica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"U_kgDODdOK6g","login":"01tobori","name":"Irobot10","url":"https://github.com/01tobori","avatarUrl":"https://avatars.githubusercontent.com/u/231967466?s=80&v=4","followers":0,"publicRepos":1,"location":"Antarctica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"MDQ6VXNlcjM2MTM0NDk=","login":"Washi1337","name":"Washi","url":"https://github.com/Washi1337","avatarUrl":"https://avatars.githubusercontent.com/u/3613449?s=80&v=4","followers":622,"publicRepos":29,"location":"McMurdo Station, Antarctica","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjM1NDAyMjQ4","login":"r-lyeh","name":null,"url":"https://github.com/r-lyeh","avatarUrl":"https://avatars.githubusercontent.com/u/35402248?s=80&v=4","followers":462,"publicRepos":27,"location":"Vostok, Antarctica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjg5Nzk2Mzkz","login":"bestruirui","name":"BESTRUI","url":"https://github.com/bestruirui","avatarUrl":"https://avatars.githubusercontent.com/u/89796393?s=80&v=4","followers":125,"publicRepos":24,"location":"Antarctica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"U_kgDODdOK6g","login":"01tobori","name":"Irobot10","url":"https://github.com/01tobori","avatarUrl":"https://avatars.githubusercontent.com/u/231967466?s=80&v=4","followers":0,"publicRepos":1,"location":"Antarctica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "a746c89cd4268f82",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "1223356ad740ef67",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

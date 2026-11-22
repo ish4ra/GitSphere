@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/developers/UG.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/developers/UG.json">JSON</a> |
 
 </div>
 
@@ -37,6 +37,34 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/judeotine"><img src="https://avatars.githubusercontent.com/u/75664161?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/judeotine"><b>Judeotine</b></a><br><sub>&#64;judeotine</sub></td>
+<td align="right"><b>922</b></td>
+<td align="right">68</td>
+<td><sub>Uganda</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/CryceTruly"><img src="https://avatars.githubusercontent.com/u/20795487?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CryceTruly"><b>cryce truly</b></a><br><sub>&#64;CryceTruly</sub></td>
+<td align="right"><b>757</b></td>
+<td align="right">193</td>
+<td><sub>Kampala</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/jod35"><img src="https://avatars.githubusercontent.com/u/47812529?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jod35"><b>Jonathan Ssali Kiggundu</b></a><br><sub>&#64;jod35</sub></td>
+<td align="right"><b>737</b></td>
+<td align="right">417</td>
+<td><sub>Bombo Uganda</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/codebender828"><img src="https://avatars.githubusercontent.com/u/21237954?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codebender828"><b>Jonathan Bakebwa</b></a><br><sub>&#64;codebender828</sub></td>
+<td align="right"><b>591</b></td>
+<td align="right">205</td>
+<td><sub>Kampala, Uganda</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/has2k1"><img src="https://avatars.githubusercontent.com/u/780341?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/has2k1"><b>Hassan Kibirige</b></a><br><sub>&#64;has2k1</sub></td>
 <td align="right"><b>300</b></td>
 <td align="right">0</td>
@@ -50,7 +78,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 3 attributed developers are tracked; the cutoff is 300 followers.
+- Organizations are excluded. 7 attributed developers are tracked; the cutoff is 300 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

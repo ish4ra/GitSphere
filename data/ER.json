@@ -5,7 +5,7 @@
 "country": {"code":"ER","name":"Eritrea","slug":"eritrea"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":21,"ownerExpansionBacklog":21,"candidates":21,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":21,"ownerExpansionBacklog":24,"candidates":21,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":34,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"GitBook","nameWithOwner":"ituknown/GitBook","url":"https://github.com/ituknown/GitBook","description":null,"stars":4,"forks":2,"primaryLanguage":"CSS","license":null,"createdAt":"2019-02-15T08:11:01Z","pushedAt":"2019-03-26T01:48:53Z","archived":false,"owner":{"login":"ituknown","name":"ituknown","type":"Organization","url":"https://github.com/ituknown","location":"Eritrea","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Machine-Learning---The-Best-Classifier","nameWithOwner":"negusebf/Machine-Learning---The-Best-Classifier","url":"https://github.com/negusebf/Machine-Learning---The-Best-Classifier","description":null,"stars":2,"forks":0,"primaryLanguage":"Jupyter Notebook","license":null,"createdAt":"2021-02-24T12:14:30Z","pushedAt":"2021-03-14T15:16:44Z","archived":false,"owner":{"login":"negusebf","name":"Negusse Berhane","type":"User","url":"https://github.com/negusebf","location":"Asmara, Eritrea","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -29,8 +29,8 @@
   {"rank":20,"id":null,"name":"MiscMinecraft","nameWithOwner":"Utikeles/MiscMinecraft","url":"https://github.com/Utikeles/MiscMinecraft","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2025-12-10T22:24:45Z","pushedAt":"2025-12-18T22:42:57Z","archived":false,"owner":{"login":"Utikeles","name":null,"type":"User","url":"https://github.com/Utikeles","location":"Eritrea","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":21,"id":null,"name":"zeroprinmrzadrot","nameWithOwner":"zeroprinmrzadrot/zeroprinmrzadrot","url":"https://github.com/zeroprinmrzadrot/zeroprinmrzadrot","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-25T00:26:12Z","pushedAt":"2024-09-25T00:26:24Z","archived":false,"owner":{"login":"zeroprinmrzadrot","name":null,"type":"User","url":"https://github.com/zeroprinmrzadrot","location":"Eritrea (ER)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "bf9cf711483819e9",
-"updatedAt": "2026-11-22T08:41:14.246Z",
+"contentHash": "97d7178c029c6cda",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-04",
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

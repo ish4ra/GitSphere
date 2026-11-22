@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/AL.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/developers/AL.json">JSON</a> |
 
 </div>
 
@@ -44,9 +44,30 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/magnumripper"><img src="https://avatars.githubusercontent.com/u/1268598?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/magnumripper"><b>magnum</b></a><br><sub>&#64;magnumripper</sub></td>
+<td align="right"><b>867</b></td>
+<td align="right">36</td>
+<td><sub>CET</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/redianmarku"><img src="https://avatars.githubusercontent.com/u/42848358?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/redianmarku"><b>Redian Marku</b></a><br><sub>&#64;redianmarku</sub></td>
+<td align="right"><b>779</b></td>
+<td align="right">115</td>
+<td><sub>Albania</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/deniscerri"><img src="https://avatars.githubusercontent.com/u/64997243?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/deniscerri"><b>Denis Çerri</b></a><br><sub>&#64;deniscerri</sub></td>
+<td align="right"><b>734</b></td>
+<td align="right">26</td>
+<td><sub>Albania</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/4lbH4cker"><img src="https://avatars.githubusercontent.com/u/94483858?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/4lbH4cker"><b>4lbH4cker</b></a><br><sub>&#64;4lbH4cker</sub></td>
 <td align="right"><b>733</b></td>
-<td align="right">0</td>
+<td align="right">3</td>
 <td><sub>Albania</sub></td>
 </tr>
 </tbody>
@@ -57,7 +78,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 733 followers.
+- Organizations are excluded. 7 attributed developers are tracked; the cutoff is 733 followers.
 - **Location discovery:** term 0 of 141 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

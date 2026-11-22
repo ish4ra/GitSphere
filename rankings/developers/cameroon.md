@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/developers/CM.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/CM.json">JSON</a> |
 
 </div>
 
@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/JOELNATHAN544"><img src="https://avatars.githubusercontent.com/u/180976964?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JOELNATHAN544"><b>Joel Nathan Wanko</b></a><br><sub>&#64;JOELNATHAN544</sub></td>
-<td align="right"><b>1,372</b></td>
+<td align="right"><b>1,371</b></td>
 <td align="right">46</td>
 <td><sub>Cameroon, Bangangté</sub></td>
 </tr>
@@ -42,6 +42,13 @@
 <td align="right">134</td>
 <td><sub>About</sub></td>
 </tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/chojuninengu"><img src="https://avatars.githubusercontent.com/u/180976849?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chojuninengu"><b>JU-NINE NGU CHO</b></a><br><sub>&#64;chojuninengu</sub></td>
+<td align="right"><b>699</b></td>
+<td align="right">129</td>
+<td><sub>Cameroon</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -50,8 +57,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 3 attributed developers are tracked; the cutoff is 1,192 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 699 followers.
+- **Location discovery:** term 0 of 115 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

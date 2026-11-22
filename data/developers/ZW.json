@@ -5,12 +5,14 @@
 "country": {"code":"ZW","name":"Zimbabwe","slug":"zimbabwe"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":1299,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":607,"candidates":3,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDOCCSyhg","login":"sehmaluva","name":"Malvin T. Machingura","url":"https://github.com/sehmaluva","avatarUrl":"https://avatars.githubusercontent.com/u/136622726?s=80&v=4","followers":1299,"publicRepos":39,"location":"Harare, Zimbabwe","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"U_kgDOCCSyhg","login":"sehmaluva","name":"Malvin T. Machingura","url":"https://github.com/sehmaluva","avatarUrl":"https://avatars.githubusercontent.com/u/136622726?s=80&v=4","followers":1299,"publicRepos":39,"location":"Harare, Zimbabwe","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"U_kgDODElJQQ","login":"mrfr8nk","name":"𝐃𝐀𝐑𝐑𝐄𝐋𝐋 𝐌𝐔𝐂𝐇𝐄𝐑𝐈 ⚡","url":"https://github.com/mrfr8nk","avatarUrl":"https://avatars.githubusercontent.com/u/206129473?s=80&v=4","followers":622,"publicRepos":92,"location":"Zimbabwe, Harare","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"U_kgDOD3LSSQ","login":"nelsonnzou-crypt","name":"Tapiwanashe Nelson Nzou","url":"https://github.com/nelsonnzou-crypt","avatarUrl":"https://avatars.githubusercontent.com/u/259183177?s=80&v=4","followers":607,"publicRepos":43,"location":"Zimbabwe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "ea2770bce1e6b849",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "0fd388fd5e438c50",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

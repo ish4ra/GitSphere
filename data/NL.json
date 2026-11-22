@@ -5,7 +5,7 @@
 "country": {"code":"NL","name":"Netherlands","slug":"netherlands"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":4422,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":133,"candidates":110,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":4422,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":129,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOR5h10Q","name":"caveman","nameWithOwner":"JuliusBrussee/caveman","url":"https://github.com/JuliusBrussee/caveman","description":"why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.","stars":122053,"forks":7118,"primaryLanguage":"Go","license":{"spdxId":"Apache-2.0"},"createdAt":"2026-04-04T10:03:00Z","pushedAt":"2026-11-22T06:55:27Z","archived":false,"owner":{"login":"JuliusBrussee","name":"Julius Brussee","type":"User","url":"https://github.com/JuliusBrussee","location":"Netherlands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkzMzYxNDMwNA==","name":"thefuck","nameWithOwner":"nvbn/thefuck","url":"https://github.com/nvbn/thefuck","description":"Magnificent app which corrects your previous console command.","stars":97965,"forks":3971,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2015-04-08T15:08:04Z","pushedAt":"2024-07-19T14:56:13Z","archived":false,"owner":{"login":"nvbn","name":"Vladimir Iakovlev","type":"User","url":"https://github.com/nvbn","location":"Amsterdam, The Netherlands","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"MDEwOlJlcG9zaXRvcnkyNDc0NzM1MQ==","name":"fernflower","nameWithOwner":"JetBrains/fernflower","url":"https://github.com/JetBrains/fernflower","description":"Decompiler from Java bytecode to Java, used in IntelliJ IDEA.","stars":4448,"forks":729,"primaryLanguage":"Java","license":{"spdxId":"Apache-2.0"},"createdAt":"2014-10-03T05:00:15Z","pushedAt":"2026-11-20T13:30:56Z","archived":false,"owner":{"login":"JetBrains","name":"JetBrains","type":"Organization","url":"https://github.com/JetBrains","location":"Netherlands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
   {"rank":100,"id":"MDEwOlJlcG9zaXRvcnkyMjAxMTg3Mg==","name":"franc","nameWithOwner":"wooorm/franc","url":"https://github.com/wooorm/franc","description":"Natural language detection","stars":4422,"forks":181,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2014-07-19T14:50:53Z","pushedAt":"2024-06-12T22:48:23Z","archived":false,"owner":{"login":"wooorm","name":"Titus","type":"User","url":"https://github.com/wooorm","location":"Amsterdam, The Netherlands","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "33d0135ce8986c1f",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "d5bec35c96d0c2cf",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

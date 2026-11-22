@@ -3,12 +3,15 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"CV","name":"Cape Verde","slug":"cape-verde"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":98,"measuredAccounts":2,"measurementBacklog":96,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "5f91351eb314eaa5",
-"updatedAt": "2026-11-22T11:14:57.063Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"coverage": {"basis":"partial","discoveredAccounts":183,"measuredAccounts":4,"measurementBacklog":179,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":120,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjk3NjE3NQ==","login":"Shipow","name":"Kevin Granger","url":"https://github.com/Shipow","avatarUrl":"https://avatars.githubusercontent.com/u/976175?s=80&v=4","followers":907,"publicRepos":161,"location":"Paris – SF","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-22","contributions":{"public":20,"commits":8,"pullRequests":7,"reviews":3,"issues":0,"repositories":2,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjQzNTYyMg==","login":"japsancha","name":"Joaquim Sancha","url":"https://github.com/japsancha","avatarUrl":"https://avatars.githubusercontent.com/u/435622?s=80&v=4","followers":1,"publicRepos":145,"location":"Cape Verde","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":20,"commits":6,"pullRequests":0,"reviews":0,"issues":0,"repositories":14,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "d6f241326e65f515",
+"updatedAt": "2026-11-22T22:28:05.466Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

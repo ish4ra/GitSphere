@@ -5,12 +5,13 @@
 "country": {"code":"SN","name":"Senegal","slug":"senegal"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":1,"measurementBacklog":399,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":2,"measurementBacklog":398,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjU4ODkyMDc2","login":"iib0011","name":"Ibrahima G. Coulibaly","url":"https://github.com/iib0011","avatarUrl":"https://avatars.githubusercontent.com/u/58892076?s=80&v=4","followers":120,"publicRepos":60,"location":"Senegal","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":1959,"commits":1890,"pullRequests":13,"reviews":15,"issues":35,"repositories":6,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjU4ODkyMDc2","login":"iib0011","name":"Ibrahima G. Coulibaly","url":"https://github.com/iib0011","avatarUrl":"https://avatars.githubusercontent.com/u/58892076?s=80&v=4","followers":120,"publicRepos":60,"location":"Senegal","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":1959,"commits":1890,"pullRequests":13,"reviews":15,"issues":35,"repositories":6,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjM1MTY2MjU5","login":"134130U","name":"Mbaye Babou","url":"https://github.com/134130U","avatarUrl":"https://avatars.githubusercontent.com/u/35166259?s=80&v=4","followers":3,"publicRepos":91,"location":"Dakar Senegal","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":16,"commits":11,"pullRequests":0,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "ba0764ca1efce18f",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "c8753cf6ddfa3b1a",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

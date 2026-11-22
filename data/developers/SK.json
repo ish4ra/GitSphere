@@ -5,18 +5,24 @@
 "country": {"code":"SK","name":"Slovakia","slug":"slovakia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":116,"candidates":7,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":43,"candidates":13,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjUyODkzMQ==","login":"tibbi","name":"Tibor Kaputa","url":"https://github.com/tibbi","avatarUrl":"https://avatars.githubusercontent.com/u/528931?s=80&v=4","followers":1388,"publicRepos":25,"location":"Jasov, Slovakia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjk0ODI3MjQ=","login":"Jerga99","name":"Filip Jerga","url":"https://github.com/Jerga99","avatarUrl":"https://avatars.githubusercontent.com/u/9482724?s=80&v=4","followers":1185,"publicRepos":247,"location":"Slovakia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":3,"id":"MDQ6VXNlcjExODkwNDU0","login":"MartinHeinz","name":"Martin Heinz","url":"https://github.com/MartinHeinz","avatarUrl":"https://avatars.githubusercontent.com/u/11890454?s=80&v=4","followers":1114,"publicRepos":48,"location":"Bratislava","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
-  {"rank":4,"id":"MDQ6VXNlcjY3Nzkw","login":"haad","name":"Adam Hamsik","url":"https://github.com/haad","avatarUrl":"https://avatars.githubusercontent.com/u/67790?s=80&v=4","followers":260,"location":"Bratislava Slovakia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":5,"id":"MDQ6VXNlcjgyMTU4Mg==","login":"itsgoingd","name":"its","url":"https://github.com/itsgoingd","avatarUrl":"https://avatars.githubusercontent.com/u/821582?s=80&v=4","followers":215,"location":"Slovakia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":6,"id":"MDQ6VXNlcjEyMjkyMzM=","login":"ondrajz","name":"Ondrej Fabry","url":"https://github.com/ondrajz","avatarUrl":"https://avatars.githubusercontent.com/u/1229233?s=80&v=4","followers":159,"location":"Bratislava, Slovakia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":7,"id":"MDQ6VXNlcjE1MjIwOTMy","login":"JakubVojvoda","name":"Jakub Vojvoda","url":"https://github.com/JakubVojvoda","avatarUrl":"https://avatars.githubusercontent.com/u/15220932?s=80&v=4","followers":116,"publicRepos":null,"location":"Slovakia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":4,"id":"MDQ6VXNlcjE4NDA0Nzg4","login":"ResoDev","name":"Matej Rešetár","url":"https://github.com/ResoDev","avatarUrl":"https://avatars.githubusercontent.com/u/18404788?s=80&v=4","followers":900,"publicRepos":15,"location":"Košice, Slovakia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":5,"id":"MDQ6VXNlcjIzMjEzNTUz","login":"filiphric","name":"Filip Hric","url":"https://github.com/filiphric","avatarUrl":"https://avatars.githubusercontent.com/u/23213553?s=80&v=4","followers":714,"publicRepos":153,"location":"Senec, Slovakia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":6,"id":"MDQ6VXNlcjE1MzUyNg==","login":"nem0","name":"Mikulas Florek","url":"https://github.com/nem0","avatarUrl":"https://avatars.githubusercontent.com/u/153526?s=80&v=4","followers":410,"location":"Slovakia, Bratislava","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":7,"id":"MDQ6VXNlcjUzODgwMQ==","login":"darsain","name":null,"url":"https://github.com/darsain","avatarUrl":"https://avatars.githubusercontent.com/u/538801?s=80&v=4","followers":300,"location":"Slovakia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":8,"id":"MDQ6VXNlcjY3Nzkw","login":"haad","name":"Adam Hamsik","url":"https://github.com/haad","avatarUrl":"https://avatars.githubusercontent.com/u/67790?s=80&v=4","followers":260,"location":"Bratislava Slovakia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":9,"id":"MDQ6VXNlcjgyMTU4Mg==","login":"itsgoingd","name":"its","url":"https://github.com/itsgoingd","avatarUrl":"https://avatars.githubusercontent.com/u/821582?s=80&v=4","followers":215,"location":"Slovakia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":10,"id":"MDQ6VXNlcjEyMjkyMzM=","login":"ondrajz","name":"Ondrej Fabry","url":"https://github.com/ondrajz","avatarUrl":"https://avatars.githubusercontent.com/u/1229233?s=80&v=4","followers":159,"location":"Bratislava, Slovakia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":11,"id":"MDQ6VXNlcjE1MjIwOTMy","login":"JakubVojvoda","name":"Jakub Vojvoda","url":"https://github.com/JakubVojvoda","avatarUrl":"https://avatars.githubusercontent.com/u/15220932?s=80&v=4","followers":116,"location":"Slovakia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":12,"id":"MDQ6VXNlcjE1ODg1NzI=","login":"dorny","name":"Michal Dorner","url":"https://github.com/dorny","avatarUrl":"https://avatars.githubusercontent.com/u/1588572?s=80&v=4","followers":52,"publicRepos":null,"location":"Bratislava, Slovakia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":13,"id":"MDQ6VXNlcjQ3MjgzMzIw","login":"tomasklaen","name":"Tomas Klaen","url":"https://github.com/tomasklaen","avatarUrl":"https://avatars.githubusercontent.com/u/47283320?s=80&v=4","followers":43,"publicRepos":null,"location":"Slovakia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "e73a16b6d2583d9a",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "6f9bbff9750fa14d",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

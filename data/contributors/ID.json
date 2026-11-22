@@ -5,12 +5,13 @@
 "country": {"code":"ID","name":"Indonesia","slug":"indonesia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":420,"measuredAccounts":1,"measurementBacklog":419,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":471,"measuredAccounts":2,"measurementBacklog":469,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjM3MTM1ODA=","login":"hendisantika","name":"Hendi Santika","url":"https://github.com/hendisantika","avatarUrl":"https://avatars.githubusercontent.com/u/3713580?s=80&v=4","followers":2073,"publicRepos":2333,"location":"Bandung Jawa Barat - Indonesia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":36843,"commits":35881,"pullRequests":56,"reviews":0,"issues":830,"repositories":76,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjM3MTM1ODA=","login":"hendisantika","name":"Hendi Santika","url":"https://github.com/hendisantika","avatarUrl":"https://avatars.githubusercontent.com/u/3713580?s=80&v=4","followers":2073,"publicRepos":2333,"location":"Bandung Jawa Barat - Indonesia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":36843,"commits":35881,"pullRequests":56,"reviews":0,"issues":830,"repositories":76,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjQ2MTE1ODE=","login":"KOSASIH","name":"KOSASIH","url":"https://github.com/KOSASIH","avatarUrl":"https://avatars.githubusercontent.com/u/4611581?s=80&v=4","followers":3191,"publicRepos":989,"location":"INDONESIA","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":1443,"commits":1375,"pullRequests":11,"reviews":0,"issues":29,"repositories":16,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "417207dcdab03249",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "9f59c8b6e8986e7b",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

@@ -8,10 +8,10 @@
 "coverage": {"basis":"partial","cutoffFollowers":366,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjU5Nzk3","login":"jackmoore","name":"Jack Moore","url":"https://github.com/jackmoore","avatarUrl":"https://avatars.githubusercontent.com/u/59797?s=80&v=4","followers":1902,"publicRepos":64,"location":"Florida, man","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"MDQ6VXNlcjE2NTEwMDg=","login":"braydie","name":"Braydie Grove","url":"https://github.com/braydie","avatarUrl":"https://avatars.githubusercontent.com/u/1651008?s=80&v=4","followers":366,"location":"Isle of Man","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":2,"id":"MDQ6VXNlcjE2NTEwMDg=","login":"braydie","name":"Braydie Grove","url":"https://github.com/braydie","avatarUrl":"https://avatars.githubusercontent.com/u/1651008?s=80&v=4","followers":366,"publicRepos":24,"location":"Isle of Man","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "d260aaf2e694f961",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "9f979fa37959ab80",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

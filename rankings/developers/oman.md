@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/developers/OM.json">JSON</a> |
+| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/developers/OM.json">JSON</a> |
 
 </div>
 
@@ -23,10 +23,24 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/Aslemammad"><img src="https://avatars.githubusercontent.com/u/37929992?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aslemammad"><b>Mohammad Bagher Abiyat</b></a><br><sub>&#64;Aslemammad</sub></td>
+<td align="right"><b>893</b></td>
+<td align="right">158</td>
+<td><sub>🇴🇲</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/shihabal3amri"><img src="https://avatars.githubusercontent.com/u/42039842?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shihabal3amri"><b>Shihab</b></a><br><sub>&#64;shihabal3amri</sub></td>
-<td align="right"><b>703</b></td>
+<td align="right"><b>704</b></td>
 <td align="right">17</td>
 <td><sub>Oman</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/sanjeed5"><img src="https://avatars.githubusercontent.com/u/40694326?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sanjeed5"><b>Sanjeed</b></a><br><sub>&#64;sanjeed5</sub></td>
+<td align="right"><b>134</b></td>
+<td align="right">0</td>
+<td><sub>Bangalore / Oman</sub></td>
 </tr>
 </tbody>
 </table>
@@ -36,7 +50,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 1 attributed developers are tracked; the cutoff is 703 followers.
+- Organizations are excluded. 3 attributed developers are tracked; the cutoff is 134 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

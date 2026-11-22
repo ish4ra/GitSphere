@@ -5,13 +5,15 @@
 "country": {"code":"AF","name":"Afghanistan","slug":"afghanistan"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":171,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":4,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":171,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjE3MjkzNDIy","login":"afgprogrammer","name":"Mohammad Rahmani","url":"https://github.com/afgprogrammer","avatarUrl":"https://avatars.githubusercontent.com/u/17293422?s=80&v=4","followers":3466,"publicRepos":70,"location":"Kabul, Afghanistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"MDQ6VXNlcjg5NDYwMTMz","login":"0093745359387","name":"Waisuddin","url":"https://github.com/0093745359387","avatarUrl":"https://avatars.githubusercontent.com/u/89460133?s=80&v=4","followers":0,"publicRepos":1,"location":"Afghanistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":2,"id":"U_kgDODGQ5jw","login":"imranmalakzai","name":"Imran Malakzai","url":"https://github.com/imranmalakzai","avatarUrl":"https://avatars.githubusercontent.com/u/207894927?s=80&v=4","followers":673,"publicRepos":10,"location":"Afghanistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"U_kgDOCvGlzA","login":"01Habibi","name":"Masehullah Habibi","url":"https://github.com/01Habibi","avatarUrl":"https://avatars.githubusercontent.com/u/183608780?s=80&v=4","followers":0,"publicRepos":2,"location":"Afghanistan- Kabul","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"MDQ6VXNlcjg5NDYwMTMz","login":"0093745359387","name":"Waisuddin","url":"https://github.com/0093745359387","avatarUrl":"https://avatars.githubusercontent.com/u/89460133?s=80&v=4","followers":0,"publicRepos":1,"location":"Afghanistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "bdf064ce35b4d33d",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "020f27cd48e039ee",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

@@ -3,12 +3,15 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"AF","name":"Afghanistan","slug":"afghanistan"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":2,"measurementBacklog":398,"window":null,"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":171,"unresolved":0}},
-"users": [],
-"contentHash": "1f90c45ca1f3466a",
-"updatedAt": "2026-11-22T11:14:57.063Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":4,"measurementBacklog":396,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":171,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"U_kgDODGQ5jw","login":"imranmalakzai","name":"Imran Malakzai","url":"https://github.com/imranmalakzai","avatarUrl":"https://avatars.githubusercontent.com/u/207894927?s=80&v=4","followers":673,"publicRepos":10,"location":"Afghanistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":1514,"commits":1502,"pullRequests":4,"reviews":0,"issues":2,"repositories":6,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"U_kgDOCvGlzA","login":"01Habibi","name":"Masehullah Habibi","url":"https://github.com/01Habibi","avatarUrl":"https://avatars.githubusercontent.com/u/183608780?s=80&v=4","followers":0,"publicRepos":2,"location":"Afghanistan- Kabul","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":5,"commits":3,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "30af15e99b6de612",
+"updatedAt": "2026-11-22T22:28:05.466Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

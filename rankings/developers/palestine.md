@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/developers/PS.json">JSON</a> |
+| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/developers/PS.json">JSON</a> |
 
 </div>
 
@@ -28,6 +28,20 @@
 <td align="right">24</td>
 <td><sub>Tulkarm, Palestine</sub></td>
 </tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/sondosaabed"><img src="https://avatars.githubusercontent.com/u/65151701?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sondosaabed"><b>Sondos Ahmad Aabed</b></a><br><sub>&#64;sondosaabed</sub></td>
+<td align="right"><b>819</b></td>
+<td align="right">127</td>
+<td><sub>Code for Palestine, Al-Bireh</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/heba-mustafa59"><img src="https://avatars.githubusercontent.com/u/163648306?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/heba-mustafa59"><b>Heba Jalil ☆</b></a><br><sub>&#64;heba-mustafa59</sub></td>
+<td align="right"><b>645</b></td>
+<td align="right">59</td>
+<td><sub>𝐒𝐚𝐥𝐟𝐢𝐭&#95;𝐏𝐚𝐥𝐞𝐬𝐭𝐢𝐧𝐞</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -36,7 +50,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 1 attributed developers are tracked; the cutoff is 1,857 followers.
+- Organizations are excluded. 3 attributed developers are tracked; the cutoff is 645 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

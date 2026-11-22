@@ -5,15 +5,21 @@
 "country": {"code":"UZ","name":"Uzbekistan","slug":"uzbekistan"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":116,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":116,"candidates":10,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjI0NjkyNjY3","login":"anvarnarz","name":"Anvar Narzullaev","url":"https://github.com/anvarnarz","avatarUrl":"https://avatars.githubusercontent.com/u/24692667?s=80&v=4","followers":2609,"publicRepos":36,"location":"Tashkent","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"U_kgDOCN2Tgw","login":"Iqbolshoh","name":"Iqbolshoh Ilhomjonov","url":"https://github.com/Iqbolshoh","avatarUrl":"https://avatars.githubusercontent.com/u/148738947?s=80&v=4","followers":2284,"publicRepos":113,"location":"Uzbekistan, Samarqand city","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":3,"id":"MDQ6VXNlcjE2MzEwNzkz","login":"romankh3","name":"Roman Beskrovnyi","url":"https://github.com/romankh3","avatarUrl":"https://avatars.githubusercontent.com/u/16310793?s=80&v=4","followers":1666,"publicRepos":31,"location":"Tashkent","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
-  {"rank":4,"id":"MDQ6VXNlcjE5Mjk0MDQ=","login":"keylase","name":"Keylase","url":"https://github.com/keylase","avatarUrl":"https://avatars.githubusercontent.com/u/1929404?s=80&v=4","followers":116,"publicRepos":null,"location":"Tashkent","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"}
+  {"rank":4,"id":"U_kgDODex8JQ","login":"Zuhriddin2010","name":"zuhriddin","url":"https://github.com/Zuhriddin2010","avatarUrl":"https://avatars.githubusercontent.com/u/233602085?s=80&v=4","followers":973,"publicRepos":192,"location":"uzbekistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":5,"id":"U_kgDOB1sShg","login":"foregroundUser","name":"Khasan","url":"https://github.com/foregroundUser","avatarUrl":"https://avatars.githubusercontent.com/u/123409030?s=80&v=4","followers":944,"publicRepos":25,"location":"Uzbekistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":6,"id":"MDQ6VXNlcjY2OTQ2MDQ5","login":"NazarovAsadbek","name":null,"url":"https://github.com/NazarovAsadbek","avatarUrl":"https://avatars.githubusercontent.com/u/66946049?s=80&v=4","followers":893,"publicRepos":27,"location":"Uzbekistan, Tashkent","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":7,"id":"U_kgDOBuXMpw","login":"the-coder-o","name":"The Coder 🧑🏼💻","url":"https://github.com/the-coder-o","avatarUrl":"https://avatars.githubusercontent.com/u/115723431?s=80&v=4","followers":823,"publicRepos":59,"location":"Uzbekistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":8,"id":"U_kgDOBsGjUg","login":"AbdullohRazzoqov","name":"Abdulloh (Shohjahon)","url":"https://github.com/AbdullohRazzoqov","avatarUrl":"https://avatars.githubusercontent.com/u/113353554?s=80&v=4","followers":785,"publicRepos":42,"location":"Samarqand, Uzbekistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":9,"id":"MDQ6VXNlcjQ0NjQ0MjA=","login":"dFarkhod","name":"Farkhod Dadajanov","url":"https://github.com/dFarkhod","avatarUrl":"https://avatars.githubusercontent.com/u/4464420?s=80&v=4","followers":590,"publicRepos":89,"location":"Tashkent, Uzbekistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":10,"id":"MDQ6VXNlcjE5Mjk0MDQ=","login":"keylase","name":"Keylase","url":"https://github.com/keylase","avatarUrl":"https://avatars.githubusercontent.com/u/1929404?s=80&v=4","followers":116,"location":"Tashkent","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "12e2260396b2f713",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "16e33e45f54cd19d",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

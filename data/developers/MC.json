@@ -5,12 +5,13 @@
 "country": {"code":"MC","name":"Monaco","slug":"monaco"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjI2MDY3MTM2","login":"01design","name":null,"url":"https://github.com/01design","avatarUrl":"https://avatars.githubusercontent.com/u/26067136?s=80&v=4","followers":0,"publicRepos":1,"location":"Paris, Nice, Monaco","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"U_kgDODrjEcw","login":"0kxs","name":"942","url":"https://github.com/0kxs","avatarUrl":"https://avatars.githubusercontent.com/u/246989939?s=80&v=4","followers":0,"publicRepos":3,"location":"Monaco","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjI2MDY3MTM2","login":"01design","name":null,"url":"https://github.com/01design","avatarUrl":"https://avatars.githubusercontent.com/u/26067136?s=80&v=4","followers":0,"publicRepos":1,"location":"Paris, Nice, Monaco","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "1ff1d0aa3f6d6d3d",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "ee73d3ba55343b15",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

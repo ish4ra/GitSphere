@@ -5,12 +5,13 @@
 "country": {"code":"IE","name":"Ireland","slug":"ireland"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":407,"measuredAccounts":1,"measurementBacklog":406,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":423,"measuredAccounts":2,"measurementBacklog":421,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjU2MzY=","login":"purcell","name":"Steve Purcell","url":"https://github.com/purcell","avatarUrl":"https://avatars.githubusercontent.com/u/5636?s=80&v=4","followers":3278,"publicRepos":1047,"location":"Ireland","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":480,"commits":351,"pullRequests":45,"reviews":74,"issues":4,"repositories":6,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjU2MzY=","login":"purcell","name":"Steve Purcell","url":"https://github.com/purcell","avatarUrl":"https://avatars.githubusercontent.com/u/5636?s=80&v=4","followers":3278,"publicRepos":1047,"location":"Ireland","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":480,"commits":351,"pullRequests":45,"reviews":74,"issues":4,"repositories":6,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjIwNTYyOQ==","login":"lmammino","name":"Luciano Mammino","url":"https://github.com/lmammino","avatarUrl":"https://avatars.githubusercontent.com/u/205629?s=80&v=4","followers":1635,"publicRepos":358,"location":"Dublin, Ireland","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":409,"commits":263,"pullRequests":86,"reviews":20,"issues":18,"repositories":21,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "eeb49c8087b3d205",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "80afc58cc812f51c",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

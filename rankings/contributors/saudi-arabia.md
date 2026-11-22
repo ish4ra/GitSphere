@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/contributors/SA.json">JSON</a> |
+| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/SA.json">JSON</a> |
 
 </div>
 
@@ -25,6 +25,15 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/zaidalyafeai"><img src="https://avatars.githubusercontent.com/u/15667714?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zaidalyafeai"><b>Zaid Alyafeai</b></a><br><sub>&#64;zaidalyafeai · 642 followers</sub></td>
+<td align="right"><b>769</b></td>
+<td align="right">520</td>
+<td align="right">7</td>
+<td align="right">234</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/shakiliitju"><img src="https://avatars.githubusercontent.com/u/84621547?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shakiliitju"><b>Md. Shakil Hossain</b></a><br><sub>&#64;shakiliitju · 1,389 followers</sub></td>
 <td align="right"><b>710</b></td>
 <td align="right">678</td>
@@ -39,7 +48,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 1 of 401 discovered developers (400 awaiting measurement).
+- **Measured:** 2 of 404 discovered developers (402 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

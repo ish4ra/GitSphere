@@ -5,7 +5,7 @@
 "country": {"code":"CK","name":"Cook Islands","slug":"cook-islands"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":33,"ownerExpansionBacklog":33,"candidates":33,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":33,"ownerExpansionBacklog":33,"candidates":33,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":29,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"fatality-source-fixed","nameWithOwner":"cacamelio/fatality-source-fixed","url":"https://github.com/cacamelio/fatality-source-fixed","description":null,"stars":23,"forks":8,"primaryLanguage":"C++","license":null,"createdAt":"2025-08-13T17:06:13Z","pushedAt":"2026-07-12T08:58:29Z","archived":false,"owner":{"login":"cacamelio","name":null,"type":"User","url":"https://github.com/cacamelio","location":"Aitutaki, Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"DofusUnity.Plugins.BepInEx","nameWithOwner":"D-Unity-dotnet-framework/DofusUnity.Plugins.BepInEx","url":"https://github.com/D-Unity-dotnet-framework/DofusUnity.Plugins.BepInEx","description":null,"stars":10,"forks":0,"primaryLanguage":"C#","license":{"spdxId":"GPL-3.0"},"createdAt":"2024-08-17T13:29:31Z","pushedAt":"2024-08-23T16:00:05Z","archived":false,"owner":{"login":"D-Unity-dotnet-framework","name":"Dofus Unity .NET framework","type":"Organization","url":"https://github.com/D-Unity-dotnet-framework","location":"Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
@@ -41,8 +41,8 @@
   {"rank":32,"id":null,"name":"Zoomka","nameWithOwner":"weareomniscienti/Zoomka","url":"https://github.com/weareomniscienti/Zoomka","description":null,"stars":0,"forks":0,"primaryLanguage":"Vue","license":{"spdxId":"GPL-3.0"},"createdAt":"2026-05-23T13:14:27Z","pushedAt":"2026-05-23T13:16:27Z","archived":false,"owner":{"login":"weareomniscienti","name":"omniscienti.com","type":"User","url":"https://github.com/weareomniscienti","location":"Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
   {"rank":33,"id":null,"name":"ziziskalexander","nameWithOwner":"ziziskalexander/ziziskalexander","url":"https://github.com/ziziskalexander/ziziskalexander","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-10-01T01:53:33Z","pushedAt":"2024-10-01T01:53:43Z","archived":false,"owner":{"login":"ziziskalexander","name":null,"type":"User","url":"https://github.com/ziziskalexander","location":"Cookeilanden (CK)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-25","pendingRevalidation":true}
 ],
-"contentHash": "e71c34e93d529315",
-"updatedAt": "2026-11-22T08:41:14.246Z",
+"contentHash": "7ebf3feb39e5f55e",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-10-25",
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

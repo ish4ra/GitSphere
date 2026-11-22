@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/BD.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/BD.json">JSON</a> |
 
 </div>
 
@@ -34,9 +34,27 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/Taanveer22"><img src="https://avatars.githubusercontent.com/u/125088986?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Taanveer22"><b>Md. Taanveer Islam</b></a><br><sub>&#64;Taanveer22 · 654 followers</sub></td>
+<td align="right"><b>893</b></td>
+<td align="right">819</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/abdulmazidakash"><img src="https://avatars.githubusercontent.com/u/148373644?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdulmazidakash"><b>Abdul Mazid Akash</b></a><br><sub>&#64;abdulmazidakash · 1,106 followers</sub></td>
 <td align="right"><b>298</b></td>
 <td align="right">279</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/hasanmonsur"><img src="https://avatars.githubusercontent.com/u/10324303?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hasanmonsur"><b>Md. Hasan Monsur</b></a><br><sub>&#64;hasanmonsur · 566 followers</sub></td>
+<td align="right"><b>210</b></td>
+<td align="right">179</td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
@@ -48,7 +66,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 2 of 405 discovered developers (403 awaiting measurement).
+- **Measured:** 4 of 487 discovered developers (483 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 173 in round 1.

@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | :---: |
 | 🟠 Stale | **100** | 16 Oct 2026 | <a href="../data/MO.json">JSON</a> |
 
-> **Not yet re-verified.** 99 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 98 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -32,10 +32,10 @@
 </tr>
 <tr>
 <td align="right">2</td>
-<td><img src="https://github.com/ken0225.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ken0225/RIS-Codes-Collection"><b>ken0225/RIS-Codes-Collection</b></a></td>
-<td align="right"><b>1,507</b></td>
-<td align="right">267</td>
-<td>—</td>
+<td><img src="https://github.com/spiritLHLS.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spiritLHLS/Oracle-server-keep-alive-script"><b>spiritLHLS/Oracle-server-keep-alive-script</b></a><br><sub>服务器资源占用脚本(甲骨文服务器保活脚本)(Oracle Server Keep Alive Script)</sub></td>
+<td align="right"><b>2,472</b></td>
+<td align="right">511</td>
+<td>Shell</td>
 </tr>
 <tr>
 <td align="right">3</td>
@@ -732,8 +732,8 @@
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 9 stars; 149 attributed candidates are tracked.
-- 99 entries were carried over from the previous dataset and are pending revalidation.
-- 150 multi-repository owners are queued for expansion.
+- 98 entries were carried over from the previous dataset and are pending revalidation.
+- 149 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

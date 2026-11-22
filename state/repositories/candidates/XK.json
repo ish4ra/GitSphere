@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"XK","name":"Kosovo","slug":"kosovo"},
-"count": 150,
+"count": 149,
 "repositories": [
-  {"name":"arddluma/awesome-list-rpc-nodes-providers","stars":916,"forks":243,"archived":false,"createdAt":"2021-07-05T09:33:49Z","pushedAt":"2025-08-28T14:42:04Z","owner":{"login":"arddluma","type":"User","name":"AArdian","location":"Kosovo"},"attribution":{"code":"XK","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T22:11:01.736Z","id":"legacy:arddluma/awesome-list-rpc-nodes-providers","legacy":true},
   {"name":"kujtimiihoxha/kit","stars":725,"forks":155,"language":"Go","license":"MIT","archived":false,"createdAt":"2017-09-19T12:04:52Z","pushedAt":"2025-12-05T02:29:56Z","owner":{"login":"kujtimiihoxha","type":"User","name":"Kujtim Hoxha","location":"Prishtina, Kosovo"},"attribution":{"code":"XK","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-16T14:20:40.697Z","id":"legacy:kujtimiihoxha/kit","legacy":true},
   {"name":"kutia-software-company/larafirebase","stars":370,"forks":81,"language":"PHP","license":"MIT","archived":false,"createdAt":"2021-01-28T22:24:24Z","pushedAt":"2026-06-28T10:08:37Z","owner":{"login":"kutia-software-company","type":"Organization","name":"Kutia Software Company","location":"Rruga Anton Cetta Nr.5, Prishtine, Kosove"},"attribution":{"code":"XK","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-16T14:20:40.697Z","id":"legacy:kutia-software-company/larafirebase","legacy":true},
   {"name":"godd0t/django-docker-quickstart","stars":247,"forks":35,"language":"Python","license":"MIT","archived":false,"createdAt":"2023-05-10T07:00:30Z","pushedAt":"2025-02-11T22:31:51Z","owner":{"login":"godd0t","type":"User","name":"Lir Shala","location":"Kosovo"},"attribution":{"code":"XK","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T22:11:01.736Z","id":"legacy:godd0t/django-docker-quickstart","legacy":true},
