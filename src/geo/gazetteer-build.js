@@ -153,7 +153,14 @@ export function buildGazetteers({ csc, catalog, cities500 = null, admin1 = null,
       rows.push(columns);
     }
     const rank = (columns) => (/^PPL(?:C|A\d?|G)$/.test(columns[7]) ? 1 : 0);
-    rows.sort((a, b) => rank(b) - rank(a) || (Number(b[14]) || 0) - (Number(a[14]) || 0) || a[1].localeCompare(b[1]));
+    // Notability: admin seats first, then population, then how many alternate
+    // names GeoNames records (well-known towns have native-script names).
+    const alternates = (columns) => (columns[3] ? columns[3].split(',').length : 0);
+    rows.sort((a, b) =>
+      rank(b) - rank(a) ||
+      (Number(b[14]) || 0) - (Number(a[14]) || 0) ||
+      alternates(b) - alternates(a) ||
+      a[1].localeCompare(b[1]));
     for (const columns of rows.slice(0, SUPPLEMENT_PLACE_LIMIT)) {
       const name = cleanTerm(columns[1]);
       if (!name) continue;
@@ -165,6 +172,10 @@ export function buildGazetteers({ csc, catalog, cities500 = null, admin1 = null,
       place.featureCode = place.featureCode || columns[7];
       const ascii = cleanTerm(columns[2]);
       if (ascii) place.names.add(ascii);
+      for (const raw of (columns[3] ? columns[3].split(',') : []).slice(0, 8)) {
+        const alt = cleanTerm(raw);
+        if (alt && alt.length >= 3 && !/^[A-Z0-9]{2,4}$/.test(alt)) place.names.add(alt);
+      }
       if (!existed) target.counts.geonamesSupplementPlaces += 1;
     }
   }

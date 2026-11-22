@@ -167,3 +167,12 @@ export const SCHEMA_INTROSPECTION = `
     ${RATE_LIMIT}
   }
 `;
+
+/** Aliased lookups that resolve legacy (name-only) records to node IDs. */
+export function repositoriesByName(names) {
+  const fields = names.map((name, index) => {
+    const [owner, repo] = name.split('/');
+    return `r${index}: repository(owner: ${JSON.stringify(owner)}, name: ${JSON.stringify(repo)}) { ...GitSphereRepository }`;
+  });
+  return `query GitSphereRepositoriesByName { ${fields.join('\n')} ${RATE_LIMIT} } ${REPOSITORY_FIELDS}`;
+}

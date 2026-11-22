@@ -195,6 +195,26 @@ export function createGlobalLocationResolver({ countries = COUNTRIES, gazetteers
     if (foreignAdmin || foreignMajorPlace) weakCountryNames.add(key);
   }
 
+  // Candidate discovery terms per country: names, subdivisions and the most
+  // populous places. Filtered lazily through resolve() so only terms that
+  // this resolver itself attributes to the country are ever searched.
+  const termCandidates = new Map();
+  for (const gazetteer of gazetteers) {
+    const code = gazetteer.country.code;
+    const catalog = countries.find((country) => country.code === code);
+    const places = (gazetteer.places || [])
+      .filter((place) => place[0] >= 1000 || /^PPL(?:C|A\d?)$/.test(place[2]))
+      .slice(0, 160)
+      .map((place) => place[3]);
+    termCandidates.set(code, [
+      catalog?.name,
+      ...(catalog?.aliases || []),
+      ...(gazetteer.names || []).slice(0, 40),
+      ...(gazetteer.admins || []).map((admin) => admin[2]),
+      ...places,
+    ].filter(Boolean));
+  }
+
   const cache = new Map();
 
   function analyzeSegment(norm, raw) {
@@ -494,6 +514,23 @@ export function createGlobalLocationResolver({ countries = COUNTRIES, gazetteers
     },
     isCountryName(value, code) {
       return Boolean(countryNames.get(normalizeLocation(value))?.has(code));
+    },
+    discoveryTerms(code, { limit = 220 } = {}) {
+      const terms = [];
+      const seen = new Set();
+      for (const term of termCandidates.get(code) || []) {
+        const key = normalizeLocation(term);
+        if (!key || key.length < 3 || seen.has(key)) continue;
+        seen.add(key);
+        if (NON_GEOGRAPHIC_TERMS.has(key) || SUPRANATIONAL_TERMS.has(key)) continue;
+        // GitHub location search is token-based: "Kalutara" already matches
+        // "Kalutara South", so terms containing an earlier term are skipped.
+        if (terms.some((item) => (` ${key} `).includes(` ${item.key} `))) continue;
+        const result = this.resolve(term);
+        if (result.accepted && result.countryCode === code) terms.push({ key, term: String(term).replace(/["\\]/g, '') });
+        if (terms.length >= limit) break;
+      }
+      return terms.map((item) => item.term);
     },
     countryNameTerms(code) {
       const terms = [];

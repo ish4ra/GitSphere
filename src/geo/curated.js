@@ -25,7 +25,7 @@ export const NON_GEOGRAPHIC_TERMS = new Set([
 // Continents and supranational regions: real places, but not countries.
 export const SUPRANATIONAL_TERMS = new Set([
   'europe', 'eu', 'european union', 'asia', 'africa', 'north america', 'south america',
-  'latin america', 'latam', 'central america', 'americas', 'the americas', 'oceania', 'antarctica',
+  'latin america', 'latam', 'central america', 'americas', 'the americas', 'oceania',
   'middle east', 'mena', 'emea', 'apac', 'asia pacific', 'southeast asia', 'south east asia',
   'east asia', 'south asia', 'central asia', 'western europe', 'eastern europe', 'northern europe',
   'southern europe', 'central europe', 'scandinavia', 'nordics', 'nordic', 'balkans', 'baltics',
