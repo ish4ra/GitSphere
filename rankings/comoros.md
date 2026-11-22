@@ -12,9 +12,11 @@
 
 <div align="center">
 
-| Status | Repositories | Last update | Data |
+| Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **44** | 22 Nov 2026 | <a href="../data/KM.json">JSON</a> |
+| 🟠 Stale | **44** | 04 Nov 2026 | <a href="../data/KM.json">JSON</a> |
+
+> **Not yet re-verified.** 44 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 

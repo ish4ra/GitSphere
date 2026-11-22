@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
-  "startedAt": "2026-11-22T08:43:58.875Z",
-  "finishedAt": "2026-11-22T08:44:00.572Z",
+  "startedAt": "2026-11-22T10:11:10.383Z",
+  "finishedAt": "2026-11-22T10:11:12.173Z",
   "stopReason": null,
   "steps": {},
   "failures": [],
@@ -24,10 +24,18 @@
     "accountsRemoved": 0,
     "renamed": 0
   },
+  "health": {
+    "ok": true,
+    "issues": []
+  },
+  "progress": {
+    "ok": true,
+    "reason": "api-skipped"
+  },
   "publication": {
     "changed": {
       "data": 0,
-      "pages": 1
+      "pages": 0
     },
     "counts": {
       "repositories": {
@@ -64,9 +72,5 @@
       "contributors": 0
     }
   },
-  "runtimeSeconds": 10,
-  "progress": {
-    "ok": true,
-    "reason": "api-skipped"
-  }
+  "runtimeSeconds": 11
 }

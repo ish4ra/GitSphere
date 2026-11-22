@@ -12,9 +12,11 @@
 
 <div align="center">
 
-| Status | Repositories | Last update | Data |
+| Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **53** | 22 Nov 2026 | <a href="../data/LC.json">JSON</a> |
+| 🟠 Stale | **53** | 03 Nov 2026 | <a href="../data/LC.json">JSON</a> |
+
+> **Not yet re-verified.** 53 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 

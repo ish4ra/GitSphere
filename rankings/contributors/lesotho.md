@@ -12,9 +12,9 @@
 
 <div align="center">
 
-| Status | Contributors | Last update | Data |
+| Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🔵 Building | **0** | 22 Nov 2026 | <a href="../../data/contributors/LS.json">JSON</a> |
+| 🔵 Building | **0** | — | <a href="../../data/contributors/LS.json">JSON</a> |
 
 </div>
 

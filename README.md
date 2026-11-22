@@ -58,7 +58,7 @@ Explore GitHub repositories and developers by country, ranked by stars, follower
 
 <div align="center">
 
-<sub>Data refreshed <b>22 Nov 2026</b> · 250 countries and territories · Star scan verified to <b>—</b> · Follower scan verified to <b>—</b></sub>
+<sub><b>Awaiting first live refresh</b> — current rankings were carried over from the previous dataset and are pending revalidation · 250 countries and territories · Star scan verified to <b>—</b> · Follower scan verified to <b>—</b></sub>
 
 </div>
 

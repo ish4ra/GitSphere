@@ -12,9 +12,11 @@
 
 <div align="center">
 
-| Status | Repositories | Last update | Data |
+| Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **55** | 22 Nov 2026 | <a href="../data/AX.json">JSON</a> |
+| 🟠 Stale | **55** | 03 Nov 2026 | <a href="../data/AX.json">JSON</a> |
+
+> **Not yet re-verified.** 55 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 

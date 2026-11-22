@@ -12,9 +12,11 @@
 
 <div align="center">
 
-| Status | Repositories | Last update | Data |
+| Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **10** | 22 Nov 2026 | <a href="../data/NU.json">JSON</a> |
+| 🟠 Stale | **10** | 30 Oct 2026 | <a href="../data/NU.json">JSON</a> |
+
+> **Not yet re-verified.** 10 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 

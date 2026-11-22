@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "methodologyVersion": "1.0.0",
-  "generatedAt": "2026-11-22T08:43:58.962Z",
+  "generatedAt": "2026-11-22T10:08:15.706Z",
   "scans": {
     "repositories": {
       "cycle": 0,
@@ -16,12 +16,8 @@
       "countriesWithCompletedRound": 0
     }
   },
-  "lastRun": {
-    "startedAt": "2026-11-22T08:41:14.125Z",
-    "requests": 0,
-    "stopReason": null,
-    "failures": 0
-  },
+  "lastRun": null,
+  "lastSuccessfulRefresh": null,
   "modes": {
     "repositories": {
       "counts": {

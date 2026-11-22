@@ -12,9 +12,9 @@
 
 <div align="center">
 
-| Status | Developers | Last update | Data |
+| Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🔵 Building | **0** | 22 Nov 2026 | <a href="../../data/developers/PH.json">JSON</a> |
+| 🔵 Building | **0** | — | <a href="../../data/developers/PH.json">JSON</a> |
 
 </div>
 

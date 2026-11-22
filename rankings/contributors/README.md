@@ -16,378 +16,378 @@ Discover GitHub users ranked by public contribution activity.
 
 ### A
 
-| Country | Status | Contributors | Leader | Updated |
+| Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇦🇫 [Afghanistan](./afghanistan.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇦🇽 [Åland Islands](./aland-islands.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇦🇱 [Albania](./albania.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇩🇿 [Algeria](./algeria.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇦🇸 [American Samoa](./american-samoa.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇦🇩 [Andorra](./andorra.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇦🇴 [Angola](./angola.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇦🇮 [Anguilla](./anguilla.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇦🇶 [Antarctica](./antarctica.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇦🇬 [Antigua &amp; Barbuda](./antigua-barbuda.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇦🇷 [Argentina](./argentina.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇦🇲 [Armenia](./armenia.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇦🇼 [Aruba](./aruba.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇦🇺 [Australia](./australia.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇦🇹 [Austria](./austria.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇦🇿 [Azerbaijan](./azerbaijan.md) | 🔵 Building | — | — | 22 Nov 2026 |
+| 🇦🇫 [Afghanistan](./afghanistan.md) | 🔵 Building | — | — | — |
+| 🇦🇽 [Åland Islands](./aland-islands.md) | 🔵 Building | — | — | — |
+| 🇦🇱 [Albania](./albania.md) | 🔵 Building | — | — | — |
+| 🇩🇿 [Algeria](./algeria.md) | 🔵 Building | — | — | — |
+| 🇦🇸 [American Samoa](./american-samoa.md) | 🔵 Building | — | — | — |
+| 🇦🇩 [Andorra](./andorra.md) | 🔵 Building | — | — | — |
+| 🇦🇴 [Angola](./angola.md) | 🔵 Building | — | — | — |
+| 🇦🇮 [Anguilla](./anguilla.md) | 🔵 Building | — | — | — |
+| 🇦🇶 [Antarctica](./antarctica.md) | 🔵 Building | — | — | — |
+| 🇦🇬 [Antigua &amp; Barbuda](./antigua-barbuda.md) | 🔵 Building | — | — | — |
+| 🇦🇷 [Argentina](./argentina.md) | 🔵 Building | — | — | — |
+| 🇦🇲 [Armenia](./armenia.md) | 🔵 Building | — | — | — |
+| 🇦🇼 [Aruba](./aruba.md) | 🔵 Building | — | — | — |
+| 🇦🇺 [Australia](./australia.md) | 🔵 Building | — | — | — |
+| 🇦🇹 [Austria](./austria.md) | 🔵 Building | — | — | — |
+| 🇦🇿 [Azerbaijan](./azerbaijan.md) | 🔵 Building | — | — | — |
 
 ### B
 
-| Country | Status | Contributors | Leader | Updated |
+| Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇧🇸 [Bahamas](./bahamas.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇧🇭 [Bahrain](./bahrain.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇧🇩 [Bangladesh](./bangladesh.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇧🇧 [Barbados](./barbados.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇧🇾 [Belarus](./belarus.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇧🇪 [Belgium](./belgium.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇧🇿 [Belize](./belize.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇧🇯 [Benin](./benin.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇧🇲 [Bermuda](./bermuda.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇧🇹 [Bhutan](./bhutan.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇧🇴 [Bolivia](./bolivia.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇧🇦 [Bosnia &amp; Herzegovina](./bosnia-herzegovina.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇧🇼 [Botswana](./botswana.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇧🇻 [Bouvet Island](./bouvet-island.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇧🇷 [Brazil](./brazil.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇮🇴 [British Indian Ocean Territory](./british-indian-ocean-territory.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇻🇬 [British Virgin Islands](./british-virgin-islands.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇧🇳 [Brunei](./brunei.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇧🇬 [Bulgaria](./bulgaria.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇧🇫 [Burkina Faso](./burkina-faso.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇧🇮 [Burundi](./burundi.md) | 🔵 Building | — | — | 22 Nov 2026 |
+| 🇧🇸 [Bahamas](./bahamas.md) | 🔵 Building | — | — | — |
+| 🇧🇭 [Bahrain](./bahrain.md) | 🔵 Building | — | — | — |
+| 🇧🇩 [Bangladesh](./bangladesh.md) | 🔵 Building | — | — | — |
+| 🇧🇧 [Barbados](./barbados.md) | 🔵 Building | — | — | — |
+| 🇧🇾 [Belarus](./belarus.md) | 🔵 Building | — | — | — |
+| 🇧🇪 [Belgium](./belgium.md) | 🔵 Building | — | — | — |
+| 🇧🇿 [Belize](./belize.md) | 🔵 Building | — | — | — |
+| 🇧🇯 [Benin](./benin.md) | 🔵 Building | — | — | — |
+| 🇧🇲 [Bermuda](./bermuda.md) | 🔵 Building | — | — | — |
+| 🇧🇹 [Bhutan](./bhutan.md) | 🔵 Building | — | — | — |
+| 🇧🇴 [Bolivia](./bolivia.md) | 🔵 Building | — | — | — |
+| 🇧🇦 [Bosnia &amp; Herzegovina](./bosnia-herzegovina.md) | 🔵 Building | — | — | — |
+| 🇧🇼 [Botswana](./botswana.md) | 🔵 Building | — | — | — |
+| 🇧🇻 [Bouvet Island](./bouvet-island.md) | 🔵 Building | — | — | — |
+| 🇧🇷 [Brazil](./brazil.md) | 🔵 Building | — | — | — |
+| 🇮🇴 [British Indian Ocean Territory](./british-indian-ocean-territory.md) | 🔵 Building | — | — | — |
+| 🇻🇬 [British Virgin Islands](./british-virgin-islands.md) | 🔵 Building | — | — | — |
+| 🇧🇳 [Brunei](./brunei.md) | 🔵 Building | — | — | — |
+| 🇧🇬 [Bulgaria](./bulgaria.md) | 🔵 Building | — | — | — |
+| 🇧🇫 [Burkina Faso](./burkina-faso.md) | 🔵 Building | — | — | — |
+| 🇧🇮 [Burundi](./burundi.md) | 🔵 Building | — | — | — |
 
 ### C
 
-| Country | Status | Contributors | Leader | Updated |
+| Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇰🇭 [Cambodia](./cambodia.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇨🇲 [Cameroon](./cameroon.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇨🇦 [Canada](./canada.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇨🇻 [Cape Verde](./cape-verde.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇧🇶 [Caribbean Netherlands](./caribbean-netherlands.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇰🇾 [Cayman Islands](./cayman-islands.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇨🇫 [Central African Republic](./central-african-republic.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇹🇩 [Chad](./chad.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇨🇱 [Chile](./chile.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇨🇳 [China](./china.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇨🇽 [Christmas Island](./christmas-island.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇨🇨 [Cocos (Keeling) Islands](./cocos-keeling-islands.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇨🇴 [Colombia](./colombia.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇰🇲 [Comoros](./comoros.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇨🇰 [Cook Islands](./cook-islands.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇨🇷 [Costa Rica](./costa-rica.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇨🇮 [Côte d&#39;Ivoire](./cote-d-ivoire.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇭🇷 [Croatia](./croatia.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇨🇺 [Cuba](./cuba.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇨🇼 [Curaçao](./curacao.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇨🇾 [Cyprus](./cyprus.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇨🇿 [Czechia](./czechia.md) | 🔵 Building | — | — | 22 Nov 2026 |
+| 🇰🇭 [Cambodia](./cambodia.md) | 🔵 Building | — | — | — |
+| 🇨🇲 [Cameroon](./cameroon.md) | 🔵 Building | — | — | — |
+| 🇨🇦 [Canada](./canada.md) | 🔵 Building | — | — | — |
+| 🇨🇻 [Cape Verde](./cape-verde.md) | 🔵 Building | — | — | — |
+| 🇧🇶 [Caribbean Netherlands](./caribbean-netherlands.md) | 🔵 Building | — | — | — |
+| 🇰🇾 [Cayman Islands](./cayman-islands.md) | 🔵 Building | — | — | — |
+| 🇨🇫 [Central African Republic](./central-african-republic.md) | 🔵 Building | — | — | — |
+| 🇹🇩 [Chad](./chad.md) | 🔵 Building | — | — | — |
+| 🇨🇱 [Chile](./chile.md) | 🔵 Building | — | — | — |
+| 🇨🇳 [China](./china.md) | 🔵 Building | — | — | — |
+| 🇨🇽 [Christmas Island](./christmas-island.md) | 🔵 Building | — | — | — |
+| 🇨🇨 [Cocos (Keeling) Islands](./cocos-keeling-islands.md) | 🔵 Building | — | — | — |
+| 🇨🇴 [Colombia](./colombia.md) | 🔵 Building | — | — | — |
+| 🇰🇲 [Comoros](./comoros.md) | 🔵 Building | — | — | — |
+| 🇨🇰 [Cook Islands](./cook-islands.md) | 🔵 Building | — | — | — |
+| 🇨🇷 [Costa Rica](./costa-rica.md) | 🔵 Building | — | — | — |
+| 🇨🇮 [Côte d&#39;Ivoire](./cote-d-ivoire.md) | 🔵 Building | — | — | — |
+| 🇭🇷 [Croatia](./croatia.md) | 🔵 Building | — | — | — |
+| 🇨🇺 [Cuba](./cuba.md) | 🔵 Building | — | — | — |
+| 🇨🇼 [Curaçao](./curacao.md) | 🔵 Building | — | — | — |
+| 🇨🇾 [Cyprus](./cyprus.md) | 🔵 Building | — | — | — |
+| 🇨🇿 [Czechia](./czechia.md) | 🔵 Building | — | — | — |
 
 ### D
 
-| Country | Status | Contributors | Leader | Updated |
+| Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇩🇰 [Denmark](./denmark.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇩🇯 [Djibouti](./djibouti.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇩🇲 [Dominica](./dominica.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇩🇴 [Dominican Republic](./dominican-republic.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇨🇩 [DR Congo](./dr-congo.md) | 🔵 Building | — | — | 22 Nov 2026 |
+| 🇩🇰 [Denmark](./denmark.md) | 🔵 Building | — | — | — |
+| 🇩🇯 [Djibouti](./djibouti.md) | 🔵 Building | — | — | — |
+| 🇩🇲 [Dominica](./dominica.md) | 🔵 Building | — | — | — |
+| 🇩🇴 [Dominican Republic](./dominican-republic.md) | 🔵 Building | — | — | — |
+| 🇨🇩 [DR Congo](./dr-congo.md) | 🔵 Building | — | — | — |
 
 ### E
 
-| Country | Status | Contributors | Leader | Updated |
+| Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇪🇨 [Ecuador](./ecuador.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇪🇬 [Egypt](./egypt.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇸🇻 [El Salvador](./el-salvador.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇬🇶 [Equatorial Guinea](./equatorial-guinea.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇪🇷 [Eritrea](./eritrea.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇪🇪 [Estonia](./estonia.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇸🇿 [Eswatini](./eswatini.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇪🇹 [Ethiopia](./ethiopia.md) | 🔵 Building | — | — | 22 Nov 2026 |
+| 🇪🇨 [Ecuador](./ecuador.md) | 🔵 Building | — | — | — |
+| 🇪🇬 [Egypt](./egypt.md) | 🔵 Building | — | — | — |
+| 🇸🇻 [El Salvador](./el-salvador.md) | 🔵 Building | — | — | — |
+| 🇬🇶 [Equatorial Guinea](./equatorial-guinea.md) | 🔵 Building | — | — | — |
+| 🇪🇷 [Eritrea](./eritrea.md) | 🔵 Building | — | — | — |
+| 🇪🇪 [Estonia](./estonia.md) | 🔵 Building | — | — | — |
+| 🇸🇿 [Eswatini](./eswatini.md) | 🔵 Building | — | — | — |
+| 🇪🇹 [Ethiopia](./ethiopia.md) | 🔵 Building | — | — | — |
 
 ### F
 
-| Country | Status | Contributors | Leader | Updated |
+| Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇫🇰 [Falkland Islands](./falkland-islands.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇫🇴 [Faroe Islands](./faroe-islands.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇫🇯 [Fiji](./fiji.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇫🇮 [Finland](./finland.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇫🇷 [France](./france.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇬🇫 [French Guiana](./french-guiana.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇵🇫 [French Polynesia](./french-polynesia.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇹🇫 [French Southern Territories](./french-southern-territories.md) | 🔵 Building | — | — | 22 Nov 2026 |
+| 🇫🇰 [Falkland Islands](./falkland-islands.md) | 🔵 Building | — | — | — |
+| 🇫🇴 [Faroe Islands](./faroe-islands.md) | 🔵 Building | — | — | — |
+| 🇫🇯 [Fiji](./fiji.md) | 🔵 Building | — | — | — |
+| 🇫🇮 [Finland](./finland.md) | 🔵 Building | — | — | — |
+| 🇫🇷 [France](./france.md) | 🔵 Building | — | — | — |
+| 🇬🇫 [French Guiana](./french-guiana.md) | 🔵 Building | — | — | — |
+| 🇵🇫 [French Polynesia](./french-polynesia.md) | 🔵 Building | — | — | — |
+| 🇹🇫 [French Southern Territories](./french-southern-territories.md) | 🔵 Building | — | — | — |
 
 ### G
 
-| Country | Status | Contributors | Leader | Updated |
+| Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇬🇦 [Gabon](./gabon.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇬🇲 [Gambia](./gambia.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇬🇪 [Georgia](./georgia.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇩🇪 [Germany](./germany.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇬🇭 [Ghana](./ghana.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇬🇮 [Gibraltar](./gibraltar.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇬🇷 [Greece](./greece.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇬🇱 [Greenland](./greenland.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇬🇩 [Grenada](./grenada.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇬🇵 [Guadeloupe](./guadeloupe.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇬🇺 [Guam](./guam.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇬🇹 [Guatemala](./guatemala.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇬🇬 [Guernsey](./guernsey.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇬🇳 [Guinea](./guinea.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇬🇼 [Guinea-Bissau](./guinea-bissau.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇬🇾 [Guyana](./guyana.md) | 🔵 Building | — | — | 22 Nov 2026 |
+| 🇬🇦 [Gabon](./gabon.md) | 🔵 Building | — | — | — |
+| 🇬🇲 [Gambia](./gambia.md) | 🔵 Building | — | — | — |
+| 🇬🇪 [Georgia](./georgia.md) | 🔵 Building | — | — | — |
+| 🇩🇪 [Germany](./germany.md) | 🔵 Building | — | — | — |
+| 🇬🇭 [Ghana](./ghana.md) | 🔵 Building | — | — | — |
+| 🇬🇮 [Gibraltar](./gibraltar.md) | 🔵 Building | — | — | — |
+| 🇬🇷 [Greece](./greece.md) | 🔵 Building | — | — | — |
+| 🇬🇱 [Greenland](./greenland.md) | 🔵 Building | — | — | — |
+| 🇬🇩 [Grenada](./grenada.md) | 🔵 Building | — | — | — |
+| 🇬🇵 [Guadeloupe](./guadeloupe.md) | 🔵 Building | — | — | — |
+| 🇬🇺 [Guam](./guam.md) | 🔵 Building | — | — | — |
+| 🇬🇹 [Guatemala](./guatemala.md) | 🔵 Building | — | — | — |
+| 🇬🇬 [Guernsey](./guernsey.md) | 🔵 Building | — | — | — |
+| 🇬🇳 [Guinea](./guinea.md) | 🔵 Building | — | — | — |
+| 🇬🇼 [Guinea-Bissau](./guinea-bissau.md) | 🔵 Building | — | — | — |
+| 🇬🇾 [Guyana](./guyana.md) | 🔵 Building | — | — | — |
 
 ### H
 
-| Country | Status | Contributors | Leader | Updated |
+| Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇭🇹 [Haiti](./haiti.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇭🇲 [Heard &amp; McDonald Islands](./heard-mcdonald-islands.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇭🇳 [Honduras](./honduras.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇭🇰 [Hong Kong](./hong-kong.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇭🇺 [Hungary](./hungary.md) | 🔵 Building | — | — | 22 Nov 2026 |
+| 🇭🇹 [Haiti](./haiti.md) | 🔵 Building | — | — | — |
+| 🇭🇲 [Heard &amp; McDonald Islands](./heard-mcdonald-islands.md) | 🔵 Building | — | — | — |
+| 🇭🇳 [Honduras](./honduras.md) | 🔵 Building | — | — | — |
+| 🇭🇰 [Hong Kong](./hong-kong.md) | 🔵 Building | — | — | — |
+| 🇭🇺 [Hungary](./hungary.md) | 🔵 Building | — | — | — |
 
 ### I
 
-| Country | Status | Contributors | Leader | Updated |
+| Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇮🇸 [Iceland](./iceland.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇮🇳 [India](./india.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇮🇩 [Indonesia](./indonesia.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇮🇷 [Iran](./iran.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇮🇶 [Iraq](./iraq.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇮🇪 [Ireland](./ireland.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇮🇲 [Isle of Man](./isle-of-man.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇮🇱 [Israel](./israel.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇮🇹 [Italy](./italy.md) | 🔵 Building | — | — | 22 Nov 2026 |
+| 🇮🇸 [Iceland](./iceland.md) | 🔵 Building | — | — | — |
+| 🇮🇳 [India](./india.md) | 🔵 Building | — | — | — |
+| 🇮🇩 [Indonesia](./indonesia.md) | 🔵 Building | — | — | — |
+| 🇮🇷 [Iran](./iran.md) | 🔵 Building | — | — | — |
+| 🇮🇶 [Iraq](./iraq.md) | 🔵 Building | — | — | — |
+| 🇮🇪 [Ireland](./ireland.md) | 🔵 Building | — | — | — |
+| 🇮🇲 [Isle of Man](./isle-of-man.md) | 🔵 Building | — | — | — |
+| 🇮🇱 [Israel](./israel.md) | 🔵 Building | — | — | — |
+| 🇮🇹 [Italy](./italy.md) | 🔵 Building | — | — | — |
 
 ### J
 
-| Country | Status | Contributors | Leader | Updated |
+| Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇯🇲 [Jamaica](./jamaica.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇯🇵 [Japan](./japan.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇯🇪 [Jersey](./jersey.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇯🇴 [Jordan](./jordan.md) | 🔵 Building | — | — | 22 Nov 2026 |
+| 🇯🇲 [Jamaica](./jamaica.md) | 🔵 Building | — | — | — |
+| 🇯🇵 [Japan](./japan.md) | 🔵 Building | — | — | — |
+| 🇯🇪 [Jersey](./jersey.md) | 🔵 Building | — | — | — |
+| 🇯🇴 [Jordan](./jordan.md) | 🔵 Building | — | — | — |
 
 ### K
 
-| Country | Status | Contributors | Leader | Updated |
+| Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇰🇿 [Kazakhstan](./kazakhstan.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇰🇪 [Kenya](./kenya.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇰🇮 [Kiribati](./kiribati.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇽🇰 [Kosovo](./kosovo.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇰🇼 [Kuwait](./kuwait.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇰🇬 [Kyrgyzstan](./kyrgyzstan.md) | 🔵 Building | — | — | 22 Nov 2026 |
+| 🇰🇿 [Kazakhstan](./kazakhstan.md) | 🔵 Building | — | — | — |
+| 🇰🇪 [Kenya](./kenya.md) | 🔵 Building | — | — | — |
+| 🇰🇮 [Kiribati](./kiribati.md) | 🔵 Building | — | — | — |
+| 🇽🇰 [Kosovo](./kosovo.md) | 🔵 Building | — | — | — |
+| 🇰🇼 [Kuwait](./kuwait.md) | 🔵 Building | — | — | — |
+| 🇰🇬 [Kyrgyzstan](./kyrgyzstan.md) | 🔵 Building | — | — | — |
 
 ### L
 
-| Country | Status | Contributors | Leader | Updated |
+| Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇱🇦 [Laos](./laos.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇱🇻 [Latvia](./latvia.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇱🇧 [Lebanon](./lebanon.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇱🇸 [Lesotho](./lesotho.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇱🇷 [Liberia](./liberia.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇱🇾 [Libya](./libya.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇱🇮 [Liechtenstein](./liechtenstein.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇱🇹 [Lithuania](./lithuania.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇱🇺 [Luxembourg](./luxembourg.md) | 🔵 Building | — | — | 22 Nov 2026 |
+| 🇱🇦 [Laos](./laos.md) | 🔵 Building | — | — | — |
+| 🇱🇻 [Latvia](./latvia.md) | 🔵 Building | — | — | — |
+| 🇱🇧 [Lebanon](./lebanon.md) | 🔵 Building | — | — | — |
+| 🇱🇸 [Lesotho](./lesotho.md) | 🔵 Building | — | — | — |
+| 🇱🇷 [Liberia](./liberia.md) | 🔵 Building | — | — | — |
+| 🇱🇾 [Libya](./libya.md) | 🔵 Building | — | — | — |
+| 🇱🇮 [Liechtenstein](./liechtenstein.md) | 🔵 Building | — | — | — |
+| 🇱🇹 [Lithuania](./lithuania.md) | 🔵 Building | — | — | — |
+| 🇱🇺 [Luxembourg](./luxembourg.md) | 🔵 Building | — | — | — |
 
 ### M
 
-| Country | Status | Contributors | Leader | Updated |
+| Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇲🇴 [Macao](./macao.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇲🇬 [Madagascar](./madagascar.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇲🇼 [Malawi](./malawi.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇲🇾 [Malaysia](./malaysia.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇲🇻 [Maldives](./maldives.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇲🇱 [Mali](./mali.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇲🇹 [Malta](./malta.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇲🇭 [Marshall Islands](./marshall-islands.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇲🇶 [Martinique](./martinique.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇲🇷 [Mauritania](./mauritania.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇲🇺 [Mauritius](./mauritius.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇾🇹 [Mayotte](./mayotte.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇲🇽 [Mexico](./mexico.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇫🇲 [Micronesia](./micronesia.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇲🇩 [Moldova](./moldova.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇲🇨 [Monaco](./monaco.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇲🇳 [Mongolia](./mongolia.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇲🇪 [Montenegro](./montenegro.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇲🇸 [Montserrat](./montserrat.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇲🇦 [Morocco](./morocco.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇲🇿 [Mozambique](./mozambique.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇲🇲 [Myanmar (Burma)](./myanmar-burma.md) | 🔵 Building | — | — | 22 Nov 2026 |
+| 🇲🇴 [Macao](./macao.md) | 🔵 Building | — | — | — |
+| 🇲🇬 [Madagascar](./madagascar.md) | 🔵 Building | — | — | — |
+| 🇲🇼 [Malawi](./malawi.md) | 🔵 Building | — | — | — |
+| 🇲🇾 [Malaysia](./malaysia.md) | 🔵 Building | — | — | — |
+| 🇲🇻 [Maldives](./maldives.md) | 🔵 Building | — | — | — |
+| 🇲🇱 [Mali](./mali.md) | 🔵 Building | — | — | — |
+| 🇲🇹 [Malta](./malta.md) | 🔵 Building | — | — | — |
+| 🇲🇭 [Marshall Islands](./marshall-islands.md) | 🔵 Building | — | — | — |
+| 🇲🇶 [Martinique](./martinique.md) | 🔵 Building | — | — | — |
+| 🇲🇷 [Mauritania](./mauritania.md) | 🔵 Building | — | — | — |
+| 🇲🇺 [Mauritius](./mauritius.md) | 🔵 Building | — | — | — |
+| 🇾🇹 [Mayotte](./mayotte.md) | 🔵 Building | — | — | — |
+| 🇲🇽 [Mexico](./mexico.md) | 🔵 Building | — | — | — |
+| 🇫🇲 [Micronesia](./micronesia.md) | 🔵 Building | — | — | — |
+| 🇲🇩 [Moldova](./moldova.md) | 🔵 Building | — | — | — |
+| 🇲🇨 [Monaco](./monaco.md) | 🔵 Building | — | — | — |
+| 🇲🇳 [Mongolia](./mongolia.md) | 🔵 Building | — | — | — |
+| 🇲🇪 [Montenegro](./montenegro.md) | 🔵 Building | — | — | — |
+| 🇲🇸 [Montserrat](./montserrat.md) | 🔵 Building | — | — | — |
+| 🇲🇦 [Morocco](./morocco.md) | 🔵 Building | — | — | — |
+| 🇲🇿 [Mozambique](./mozambique.md) | 🔵 Building | — | — | — |
+| 🇲🇲 [Myanmar (Burma)](./myanmar-burma.md) | 🔵 Building | — | — | — |
 
 ### N
 
-| Country | Status | Contributors | Leader | Updated |
+| Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇳🇦 [Namibia](./namibia.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇳🇷 [Nauru](./nauru.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇳🇵 [Nepal](./nepal.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇳🇱 [Netherlands](./netherlands.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇳🇨 [New Caledonia](./new-caledonia.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇳🇿 [New Zealand](./new-zealand.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇳🇮 [Nicaragua](./nicaragua.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇳🇪 [Niger](./niger.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇳🇬 [Nigeria](./nigeria.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇳🇺 [Niue](./niue.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇳🇫 [Norfolk Island](./norfolk-island.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇰🇵 [North Korea](./north-korea.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇲🇰 [North Macedonia](./north-macedonia.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇲🇵 [Northern Mariana Islands](./northern-mariana-islands.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇳🇴 [Norway](./norway.md) | 🔵 Building | — | — | 22 Nov 2026 |
+| 🇳🇦 [Namibia](./namibia.md) | 🔵 Building | — | — | — |
+| 🇳🇷 [Nauru](./nauru.md) | 🔵 Building | — | — | — |
+| 🇳🇵 [Nepal](./nepal.md) | 🔵 Building | — | — | — |
+| 🇳🇱 [Netherlands](./netherlands.md) | 🔵 Building | — | — | — |
+| 🇳🇨 [New Caledonia](./new-caledonia.md) | 🔵 Building | — | — | — |
+| 🇳🇿 [New Zealand](./new-zealand.md) | 🔵 Building | — | — | — |
+| 🇳🇮 [Nicaragua](./nicaragua.md) | 🔵 Building | — | — | — |
+| 🇳🇪 [Niger](./niger.md) | 🔵 Building | — | — | — |
+| 🇳🇬 [Nigeria](./nigeria.md) | 🔵 Building | — | — | — |
+| 🇳🇺 [Niue](./niue.md) | 🔵 Building | — | — | — |
+| 🇳🇫 [Norfolk Island](./norfolk-island.md) | 🔵 Building | — | — | — |
+| 🇰🇵 [North Korea](./north-korea.md) | 🔵 Building | — | — | — |
+| 🇲🇰 [North Macedonia](./north-macedonia.md) | 🔵 Building | — | — | — |
+| 🇲🇵 [Northern Mariana Islands](./northern-mariana-islands.md) | 🔵 Building | — | — | — |
+| 🇳🇴 [Norway](./norway.md) | 🔵 Building | — | — | — |
 
 ### O
 
-| Country | Status | Contributors | Leader | Updated |
+| Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇴🇲 [Oman](./oman.md) | 🔵 Building | — | — | 22 Nov 2026 |
+| 🇴🇲 [Oman](./oman.md) | 🔵 Building | — | — | — |
 
 ### P
 
-| Country | Status | Contributors | Leader | Updated |
+| Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇵🇰 [Pakistan](./pakistan.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇵🇼 [Palau](./palau.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇵🇸 [Palestine](./palestine.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇵🇦 [Panama](./panama.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇵🇬 [Papua New Guinea](./papua-new-guinea.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇵🇾 [Paraguay](./paraguay.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇵🇪 [Peru](./peru.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇵🇭 [Philippines](./philippines.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇵🇳 [Pitcairn Islands](./pitcairn-islands.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇵🇱 [Poland](./poland.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇵🇹 [Portugal](./portugal.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇵🇷 [Puerto Rico](./puerto-rico.md) | 🔵 Building | — | — | 22 Nov 2026 |
+| 🇵🇰 [Pakistan](./pakistan.md) | 🔵 Building | — | — | — |
+| 🇵🇼 [Palau](./palau.md) | 🔵 Building | — | — | — |
+| 🇵🇸 [Palestine](./palestine.md) | 🔵 Building | — | — | — |
+| 🇵🇦 [Panama](./panama.md) | 🔵 Building | — | — | — |
+| 🇵🇬 [Papua New Guinea](./papua-new-guinea.md) | 🔵 Building | — | — | — |
+| 🇵🇾 [Paraguay](./paraguay.md) | 🔵 Building | — | — | — |
+| 🇵🇪 [Peru](./peru.md) | 🔵 Building | — | — | — |
+| 🇵🇭 [Philippines](./philippines.md) | 🔵 Building | — | — | — |
+| 🇵🇳 [Pitcairn Islands](./pitcairn-islands.md) | 🔵 Building | — | — | — |
+| 🇵🇱 [Poland](./poland.md) | 🔵 Building | — | — | — |
+| 🇵🇹 [Portugal](./portugal.md) | 🔵 Building | — | — | — |
+| 🇵🇷 [Puerto Rico](./puerto-rico.md) | 🔵 Building | — | — | — |
 
 ### Q
 
-| Country | Status | Contributors | Leader | Updated |
+| Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇶🇦 [Qatar](./qatar.md) | 🔵 Building | — | — | 22 Nov 2026 |
+| 🇶🇦 [Qatar](./qatar.md) | 🔵 Building | — | — | — |
 
 ### R
 
-| Country | Status | Contributors | Leader | Updated |
+| Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇨🇬 [Republic of the Congo](./republic-of-the-congo.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇷🇪 [Réunion](./reunion.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇷🇴 [Romania](./romania.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇷🇺 [Russia](./russia.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇷🇼 [Rwanda](./rwanda.md) | 🔵 Building | — | — | 22 Nov 2026 |
+| 🇨🇬 [Republic of the Congo](./republic-of-the-congo.md) | 🔵 Building | — | — | — |
+| 🇷🇪 [Réunion](./reunion.md) | 🔵 Building | — | — | — |
+| 🇷🇴 [Romania](./romania.md) | 🔵 Building | — | — | — |
+| 🇷🇺 [Russia](./russia.md) | 🔵 Building | — | — | — |
+| 🇷🇼 [Rwanda](./rwanda.md) | 🔵 Building | — | — | — |
 
 ### S
 
-| Country | Status | Contributors | Leader | Updated |
+| Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇼🇸 [Samoa](./samoa.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇸🇲 [San Marino](./san-marino.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇸🇹 [São Tomé &amp; Príncipe](./sao-tome-principe.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇸🇦 [Saudi Arabia](./saudi-arabia.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇸🇳 [Senegal](./senegal.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇷🇸 [Serbia](./serbia.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇸🇨 [Seychelles](./seychelles.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇸🇱 [Sierra Leone](./sierra-leone.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇸🇬 [Singapore](./singapore.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇸🇽 [Sint Maarten](./sint-maarten.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇸🇰 [Slovakia](./slovakia.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇸🇮 [Slovenia](./slovenia.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇸🇧 [Solomon Islands](./solomon-islands.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇸🇴 [Somalia](./somalia.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇿🇦 [South Africa](./south-africa.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇬🇸 [South Georgia &amp; South Sandwich Islands](./south-georgia-south-sandwich-islands.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇰🇷 [South Korea](./south-korea.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇸🇸 [South Sudan](./south-sudan.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇪🇸 [Spain](./spain.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇱🇰 [Sri Lanka](./sri-lanka.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇧🇱 [St. Barthélemy](./st-barthelemy.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇸🇭 [St. Helena](./st-helena.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇰🇳 [St. Kitts &amp; Nevis](./st-kitts-nevis.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇱🇨 [St. Lucia](./st-lucia.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇲🇫 [St. Martin](./st-martin.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇵🇲 [St. Pierre &amp; Miquelon](./st-pierre-miquelon.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇻🇨 [St. Vincent &amp; Grenadines](./st-vincent-grenadines.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇸🇩 [Sudan](./sudan.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇸🇷 [Suriname](./suriname.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇸🇯 [Svalbard &amp; Jan Mayen](./svalbard-jan-mayen.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇸🇪 [Sweden](./sweden.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇨🇭 [Switzerland](./switzerland.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇸🇾 [Syria](./syria.md) | 🔵 Building | — | — | 22 Nov 2026 |
+| 🇼🇸 [Samoa](./samoa.md) | 🔵 Building | — | — | — |
+| 🇸🇲 [San Marino](./san-marino.md) | 🔵 Building | — | — | — |
+| 🇸🇹 [São Tomé &amp; Príncipe](./sao-tome-principe.md) | 🔵 Building | — | — | — |
+| 🇸🇦 [Saudi Arabia](./saudi-arabia.md) | 🔵 Building | — | — | — |
+| 🇸🇳 [Senegal](./senegal.md) | 🔵 Building | — | — | — |
+| 🇷🇸 [Serbia](./serbia.md) | 🔵 Building | — | — | — |
+| 🇸🇨 [Seychelles](./seychelles.md) | 🔵 Building | — | — | — |
+| 🇸🇱 [Sierra Leone](./sierra-leone.md) | 🔵 Building | — | — | — |
+| 🇸🇬 [Singapore](./singapore.md) | 🔵 Building | — | — | — |
+| 🇸🇽 [Sint Maarten](./sint-maarten.md) | 🔵 Building | — | — | — |
+| 🇸🇰 [Slovakia](./slovakia.md) | 🔵 Building | — | — | — |
+| 🇸🇮 [Slovenia](./slovenia.md) | 🔵 Building | — | — | — |
+| 🇸🇧 [Solomon Islands](./solomon-islands.md) | 🔵 Building | — | — | — |
+| 🇸🇴 [Somalia](./somalia.md) | 🔵 Building | — | — | — |
+| 🇿🇦 [South Africa](./south-africa.md) | 🔵 Building | — | — | — |
+| 🇬🇸 [South Georgia &amp; South Sandwich Islands](./south-georgia-south-sandwich-islands.md) | 🔵 Building | — | — | — |
+| 🇰🇷 [South Korea](./south-korea.md) | 🔵 Building | — | — | — |
+| 🇸🇸 [South Sudan](./south-sudan.md) | 🔵 Building | — | — | — |
+| 🇪🇸 [Spain](./spain.md) | 🔵 Building | — | — | — |
+| 🇱🇰 [Sri Lanka](./sri-lanka.md) | 🔵 Building | — | — | — |
+| 🇧🇱 [St. Barthélemy](./st-barthelemy.md) | 🔵 Building | — | — | — |
+| 🇸🇭 [St. Helena](./st-helena.md) | 🔵 Building | — | — | — |
+| 🇰🇳 [St. Kitts &amp; Nevis](./st-kitts-nevis.md) | 🔵 Building | — | — | — |
+| 🇱🇨 [St. Lucia](./st-lucia.md) | 🔵 Building | — | — | — |
+| 🇲🇫 [St. Martin](./st-martin.md) | 🔵 Building | — | — | — |
+| 🇵🇲 [St. Pierre &amp; Miquelon](./st-pierre-miquelon.md) | 🔵 Building | — | — | — |
+| 🇻🇨 [St. Vincent &amp; Grenadines](./st-vincent-grenadines.md) | 🔵 Building | — | — | — |
+| 🇸🇩 [Sudan](./sudan.md) | 🔵 Building | — | — | — |
+| 🇸🇷 [Suriname](./suriname.md) | 🔵 Building | — | — | — |
+| 🇸🇯 [Svalbard &amp; Jan Mayen](./svalbard-jan-mayen.md) | 🔵 Building | — | — | — |
+| 🇸🇪 [Sweden](./sweden.md) | 🔵 Building | — | — | — |
+| 🇨🇭 [Switzerland](./switzerland.md) | 🔵 Building | — | — | — |
+| 🇸🇾 [Syria](./syria.md) | 🔵 Building | — | — | — |
 
 ### T
 
-| Country | Status | Contributors | Leader | Updated |
+| Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇹🇼 [Taiwan](./taiwan.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇹🇯 [Tajikistan](./tajikistan.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇹🇿 [Tanzania](./tanzania.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇹🇭 [Thailand](./thailand.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇹🇱 [Timor-Leste](./timor-leste.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇹🇬 [Togo](./togo.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇹🇰 [Tokelau](./tokelau.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇹🇴 [Tonga](./tonga.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇹🇹 [Trinidad &amp; Tobago](./trinidad-tobago.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇹🇳 [Tunisia](./tunisia.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇹🇷 [Türkiye](./turkiye.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇹🇲 [Turkmenistan](./turkmenistan.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇹🇨 [Turks &amp; Caicos Islands](./turks-caicos-islands.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇹🇻 [Tuvalu](./tuvalu.md) | 🔵 Building | — | — | 22 Nov 2026 |
+| 🇹🇼 [Taiwan](./taiwan.md) | 🔵 Building | — | — | — |
+| 🇹🇯 [Tajikistan](./tajikistan.md) | 🔵 Building | — | — | — |
+| 🇹🇿 [Tanzania](./tanzania.md) | 🔵 Building | — | — | — |
+| 🇹🇭 [Thailand](./thailand.md) | 🔵 Building | — | — | — |
+| 🇹🇱 [Timor-Leste](./timor-leste.md) | 🔵 Building | — | — | — |
+| 🇹🇬 [Togo](./togo.md) | 🔵 Building | — | — | — |
+| 🇹🇰 [Tokelau](./tokelau.md) | 🔵 Building | — | — | — |
+| 🇹🇴 [Tonga](./tonga.md) | 🔵 Building | — | — | — |
+| 🇹🇹 [Trinidad &amp; Tobago](./trinidad-tobago.md) | 🔵 Building | — | — | — |
+| 🇹🇳 [Tunisia](./tunisia.md) | 🔵 Building | — | — | — |
+| 🇹🇷 [Türkiye](./turkiye.md) | 🔵 Building | — | — | — |
+| 🇹🇲 [Turkmenistan](./turkmenistan.md) | 🔵 Building | — | — | — |
+| 🇹🇨 [Turks &amp; Caicos Islands](./turks-caicos-islands.md) | 🔵 Building | — | — | — |
+| 🇹🇻 [Tuvalu](./tuvalu.md) | 🔵 Building | — | — | — |
 
 ### U
 
-| Country | Status | Contributors | Leader | Updated |
+| Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇺🇲 [U.S. Outlying Islands](./u-s-outlying-islands.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇻🇮 [U.S. Virgin Islands](./u-s-virgin-islands.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇺🇬 [Uganda](./uganda.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇺🇦 [Ukraine](./ukraine.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇦🇪 [United Arab Emirates](./united-arab-emirates.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇬🇧 [United Kingdom](./united-kingdom.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇺🇸 [United States](./united-states.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇺🇾 [Uruguay](./uruguay.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇺🇿 [Uzbekistan](./uzbekistan.md) | 🔵 Building | — | — | 22 Nov 2026 |
+| 🇺🇲 [U.S. Outlying Islands](./u-s-outlying-islands.md) | 🔵 Building | — | — | — |
+| 🇻🇮 [U.S. Virgin Islands](./u-s-virgin-islands.md) | 🔵 Building | — | — | — |
+| 🇺🇬 [Uganda](./uganda.md) | 🔵 Building | — | — | — |
+| 🇺🇦 [Ukraine](./ukraine.md) | 🔵 Building | — | — | — |
+| 🇦🇪 [United Arab Emirates](./united-arab-emirates.md) | 🔵 Building | — | — | — |
+| 🇬🇧 [United Kingdom](./united-kingdom.md) | 🔵 Building | — | — | — |
+| 🇺🇸 [United States](./united-states.md) | 🔵 Building | — | — | — |
+| 🇺🇾 [Uruguay](./uruguay.md) | 🔵 Building | — | — | — |
+| 🇺🇿 [Uzbekistan](./uzbekistan.md) | 🔵 Building | — | — | — |
 
 ### V
 
-| Country | Status | Contributors | Leader | Updated |
+| Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇻🇺 [Vanuatu](./vanuatu.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇻🇦 [Vatican City](./vatican-city.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇻🇪 [Venezuela](./venezuela.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇻🇳 [Vietnam](./vietnam.md) | 🔵 Building | — | — | 22 Nov 2026 |
+| 🇻🇺 [Vanuatu](./vanuatu.md) | 🔵 Building | — | — | — |
+| 🇻🇦 [Vatican City](./vatican-city.md) | 🔵 Building | — | — | — |
+| 🇻🇪 [Venezuela](./venezuela.md) | 🔵 Building | — | — | — |
+| 🇻🇳 [Vietnam](./vietnam.md) | 🔵 Building | — | — | — |
 
 ### W
 
-| Country | Status | Contributors | Leader | Updated |
+| Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇼🇫 [Wallis &amp; Futuna](./wallis-futuna.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇪🇭 [Western Sahara](./western-sahara.md) | 🔵 Building | — | — | 22 Nov 2026 |
+| 🇼🇫 [Wallis &amp; Futuna](./wallis-futuna.md) | 🔵 Building | — | — | — |
+| 🇪🇭 [Western Sahara](./western-sahara.md) | 🔵 Building | — | — | — |
 
 ### Y
 
-| Country | Status | Contributors | Leader | Updated |
+| Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇾🇪 [Yemen](./yemen.md) | 🔵 Building | — | — | 22 Nov 2026 |
+| 🇾🇪 [Yemen](./yemen.md) | 🔵 Building | — | — | — |
 
 ### Z
 
-| Country | Status | Contributors | Leader | Updated |
+| Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇿🇲 [Zambia](./zambia.md) | 🔵 Building | — | — | 22 Nov 2026 |
-| 🇿🇼 [Zimbabwe](./zimbabwe.md) | 🔵 Building | — | — | 22 Nov 2026 |
+| 🇿🇲 [Zambia](./zambia.md) | 🔵 Building | — | — | — |
+| 🇿🇼 [Zimbabwe](./zimbabwe.md) | 🔵 Building | — | — | — |
 
 <details>
 <summary><b>Status definitions</b></summary>
