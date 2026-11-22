@@ -23,6 +23,7 @@ import {
   repositoryScanStep,
 } from './steps.js';
 import { publishAll } from '../publish/publish.js';
+import { evaluateHealth } from './health.js';
 
 export const DEFAULT_SETTINGS = Object.freeze({
   maxRequests: 900,
@@ -49,6 +50,17 @@ export const DEFAULT_SETTINGS = Object.freeze({
     contributions: 80,
   },
 });
+
+/**
+ * Deadline for step `index`: its share of the remaining runtime in
+ * proportion to its request budget among this and all later steps. Time a
+ * step leaves unused flows to the steps after it.
+ */
+export function stepDeadline({ now, runtimeEnd, budgets, names, index }) {
+  const budget = budgets[names[index]] ?? 0;
+  const remainingBudget = names.slice(index).reduce((sum, name) => sum + (budgets[name] ?? 0), 0);
+  return now + Math.max(0, runtimeEnd - now) * (budget / Math.max(1, remainingBudget));
+}
 
 export function settingsFromEnv(env = process.env) {
   const int = (name, fallback, min, max) => {
@@ -124,6 +136,7 @@ export async function runPipeline({
       if (!force && Date.now() - lastPersist < 15_000) return;
       lastPersist = Date.now();
       await registry.flush();
+      await ownerCandidates.save();
       if (write) await write();
     },
   };
@@ -153,8 +166,7 @@ export async function runPipeline({
       if (!budget || report.stopReason) continue;
       // Each step gets a share of the remaining runtime proportional to its
       // request budget, so slow early steps cannot starve later ones.
-      const remainingBudget = steps.slice(index).reduce((sum, [other]) => sum + (settings.budgets[other] ?? 0), 0);
-      context.stepDeadline = Date.now() + Math.max(0, runtimeEnd - Date.now()) * (budget / Math.max(1, remainingBudget));
+      context.stepDeadline = stepDeadline({ now: Date.now(), runtimeEnd, budgets: settings.budgets, names: steps.map(([other]) => other), index });
       if (!context.canContinue()) {
         if (Date.now() >= runtimeEnd) {
           report.stopReason = 'runtime-budget';
@@ -192,10 +204,17 @@ export async function runPipeline({
   await registry.flush();
   await ownerCandidates.save();
   report.registryEvents = { ...registry.events };
+  // Progress is assessed before publication so that only a run that made
+  // real progress is ever labelled as a successful refresh.
+  report.health = evaluateHealth({
+    repositoryScan: await readJson(path.join(stateDir, 'repositories', 'scan.json'), null),
+    followerScan: await readJson(path.join(stateDir, 'users', 'scan.json'), null),
+    now: now(),
+  });
+  report.progress = assessProgress(report, settings, skipApi);
   report.publication = await publishAll({ root, stateDir, registry, ownerCandidates, now, report });
   report.finishedAt = now();
   report.runtimeSeconds = Math.round((Date.now() - startedAtMs) / 1000);
-  report.progress = assessProgress(report, settings, skipApi);
   await writeJson(path.join(stateDir, 'run.json'), report, { compact: false });
   return report;
 }
@@ -214,6 +233,19 @@ export function assessProgress(report, settings, skipApi) {
     (step.pages || 0) + (step.checked || 0) + (step.measured || 0) + (step.ownersExpanded || 0) + (step.resolved || 0) + (step.removed || 0) > 0,
   );
   if (!advanced && !rateLimited) return { ok: false, reason: 'requests-without-progress' };
+  if (!rateLimited) {
+    // Perpetual scans always have work; any step with a backlog must spend.
+    for (const [name, step] of Object.entries(report.steps)) {
+      if (step.stopped || step.failed) continue;
+      // Global scans always have work (a finished cycle starts the next);
+      // other steps are idle only if they had a backlog.
+      const perpetual = ['repositories', 'followers'].includes(name);
+      if ((step.requests || 0) === 0 && (perpetual || (step.backlog || 0) > 0)) {
+        return { ok: false, reason: `idle-step:${name}` };
+      }
+    }
+  }
+  if (report.health && !report.health.ok) return { ok: false, reason: `health:${report.health.issues[0]}` };
   return { ok: true, reason: rateLimited ? 'rate-limited-after-progress' : 'progress' };
 }
 

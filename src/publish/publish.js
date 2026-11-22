@@ -50,7 +50,7 @@ export async function publishAll({ root, stateDir, registry, ownerCandidates, no
       const document = toDataDocument(ranking, previous, timestamp);
       if (await writeJson(dataPath, document)) changed.data += 1;
       perCountry.set(country.code, { updatedAt: document.updatedAt, verifiedOn: document.verifiedOn });
-      const page = renderCountryPage(ranking, { updatedAt: document.updatedAt });
+      const page = renderCountryPage(ranking, { verifiedOn: document.verifiedOn });
       if (await writeText(path.join(root, MODE_META[mode].page(country.slug)), `${page}\n`)) changed.pages += 1;
     }
     if (await writeText(path.join(root, MODE_META[mode].directory), `${renderDirectory(mode, rankings[mode], { summary: perCountry })}\n`)) {
@@ -72,6 +72,10 @@ export async function publishAll({ root, stateDir, registry, ownerCandidates, no
 
   const summaryPath = path.join(root, 'data', 'summary.json');
   const previousSummary = await readJson(summaryPath, null);
+  const apiRun = Boolean(report && !report.api?.skipped && (report.api?.requests || 0) > 0);
+  // Discard any earlier record of a run that made no API requests.
+  const previousRun = previousSummary?.lastRun?.requests > 0 ? previousSummary.lastRun : null;
+  const previousSuccess = previousRun ? previousSummary.lastSuccessfulRefresh || null : null;
   const summary = {
     schemaVersion: 3,
     methodologyVersion: RANKING_METHODOLOGY_VERSION,
@@ -84,17 +88,22 @@ export async function publishAll({ root, stateDir, registry, ownerCandidates, no
         countriesWithCompletedRound: [...locationStates.values()].filter((state) => state?.completedRounds?.length).length,
       },
     },
-    lastRun: report && !report.api?.skipped ? {
+    // Only real API runs count as a refresh. Offline publication or
+    // migration never updates these fields.
+    lastRun: apiRun ? {
       startedAt: report.startedAt,
-      requests: report.api?.requests || 0,
+      requests: report.api.requests,
+      progress: report.progress?.reason || null,
+      ok: Boolean(report.progress?.ok),
       stopReason: report.stopReason,
       failures: report.failures.length,
-    } : previousSummary?.lastRun || null,
+    } : previousRun,
+    lastSuccessfulRefresh: apiRun && report.progress?.ok ? report.startedAt : previousSuccess,
     modes: summaries,
   };
   // Avoid rewriting the summary when only the run timestamp changed.
-  const comparable = (value) => JSON.stringify({ ...value, generatedAt: null, lastRun: null });
-  if (!previousSummary || comparable(previousSummary) !== comparable(summary) || report) {
+  const comparable = (value) => JSON.stringify({ ...value, generatedAt: null });
+  if (!previousSummary || comparable(previousSummary) !== comparable(summary) || apiRun) {
     await writeJson(summaryPath, summary, { compact: false });
   }
   if (await writeText(path.join(root, 'README.md'), `${renderRootReadme(summary)}\n`)) changed.pages += 1;
@@ -226,7 +235,6 @@ function publicEntry(mode, entry, rank) {
         reviews: c.reviews,
         issues: c.issues,
         repositories: c.repositories,
-        restrictedExcluded: c.restricted,
         windowFrom: c.from,
         windowTo: c.to,
         measuredOn: isoDate(c.measuredAt),

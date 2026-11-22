@@ -66,7 +66,8 @@ test('contributors are ranked independently of followers and only with public ac
 test('public contributions exclude restricted counts; the window is one year', () => {
   const record = contributionRecord({ contributionCalendar: { totalContributions: 900 }, restrictedContributionsCount: 150, totalCommitContributions: 500, startedAt: 'a', endedAt: 'b' }, now);
   assert.equal(record.public, 750);
-  assert.equal(record.restricted, 150);
+  assert.equal('restricted' in record, false, 'private contribution counts are not persisted');
+  assert.equal('calendarTotal' in record, false, 'calendar total (which reveals private counts) is not persisted');
   const window = contributionWindow('2026-11-22T13:45:10Z');
   assert.equal(window.to, '2026-11-22T13:00:00.000Z');
   assert.equal(window.from, '2025-11-22T13:00:00.000Z');
@@ -88,5 +89,21 @@ test('a run that spends nothing with budget available is a stall, not success', 
   assert.equal(assessProgress({ api: { requests: 0 }, steps: {}, failures: [], stopReason: null }, settings).ok, false);
   assert.equal(assessProgress({ api: { requests: 5 }, steps: { repositories: { pages: 0 } }, failures: [], stopReason: null }, settings).reason, 'requests-without-progress');
   assert.equal(assessProgress({ api: { requests: 0 }, steps: {}, failures: [], stopReason: 'primary-rate-limit' }, settings).ok, true);
-  assert.equal(assessProgress({ api: { requests: 9 }, steps: { repositories: { pages: 9 } }, failures: [], stopReason: null }, settings).ok, true);
+  assert.equal(assessProgress({ api: { requests: 9 }, steps: { repositories: { requests: 9, pages: 9 } }, failures: [], stopReason: null }, settings).ok, true);
+});
+
+test('idle steps and overdue cycles fail the run even when other steps progress', async () => {
+  const { evaluateHealth } = await import('../src/pipeline/health.js');
+  const settings = { maxRequests: 900 };
+  const base = { api: { requests: 50 }, failures: [], stopReason: null };
+  assert.equal(assessProgress({ ...base, steps: { repositories: { requests: 0, pages: 0 }, locations: { requests: 50, pages: 50 } } }, settings).reason, 'idle-step:repositories');
+  assert.equal(assessProgress({ ...base, steps: { contributions: { requests: 0, measured: 0, backlog: 30 }, locations: { requests: 50, pages: 50 } } }, settings).reason, 'idle-step:contributions');
+  assert.equal(assessProgress({ ...base, steps: { contributions: { requests: 0, backlog: 0 }, locations: { requests: 50, pages: 50 } } }, settings).ok, true);
+  assert.equal(assessProgress({ ...base, steps: { repositories: { requests: 50, pages: 50 }, locations: { requests: 0, backlog: 0 } } }, settings).ok, true, 'all countries resting is not a stall');
+  assert.equal(assessProgress({ ...base, steps: { repositories: { requests: 50, pages: 50 }, locations: { requests: 0, backlog: 12 } } }, settings).reason, 'idle-step:locations');
+  const overdue = evaluateHealth({ repositoryScan: { cycle: 3, cycleStartedAt: '2026-10-01T00:00:00Z', queue: [{}], completedCycles: [] }, followerScan: null, now });
+  assert.equal(overdue.ok, false);
+  assert.match(overdue.issues[0], /repositories-cycle-overdue/);
+  assert.match(assessProgress({ ...base, steps: { repositories: { requests: 50, pages: 50 } }, health: overdue }, settings).reason, /^health:repositories-cycle-overdue/);
+  assert.equal(evaluateHealth({ repositoryScan: { cycle: 1, cycleStartedAt: '2026-11-20T00:00:00Z', queue: [{}], completedCycles: [] }, now }).ok, true);
 });

@@ -38,6 +38,9 @@ jobs:
         run: npm run check
 
       - name: Discover, refresh and publish
+        id: pipeline
+        # Own timeout so a hang still leaves time to commit checkpoints.
+        timeout-minutes: 47
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITSPHERE_MAX_REQUESTS: ${{ inputs.max_requests || '900' }}
@@ -45,9 +48,16 @@ jobs:
         run: npm run pipeline
 
       - name: Secret guard
+        id: secrets
+        # Runs even if the pipeline failed, so its checkpoints can be kept.
+        if: always() && steps.pipeline.outcome != 'skipped'
         run: node scripts/scan-secrets.js data state rankings README.md
 
       - name: Commit progress
+        # Checkpoints are written atomically and in order (registry before
+        # scan state), so they are safe to keep after a failed or timed-out
+        # pipeline step. Never commits if the secret guard did not pass.
+        if: always() && steps.secrets.outcome == 'success'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -72,7 +82,9 @@ jobs:
           echo "::error::Push failed after retries."
           exit 1
 
-      - name: Fail on stalled run
+      - name: Fail on stalled run or unhealthy scans
         # Committed first so checkpoints are kept; then a run that made no
-        # useful progress is reported as a failure, not a green no-op.
+        # useful progress, left a step idle, or whose scan cycles are
+        # overdue is reported as a failure, never as a green no-op.
+        if: always() && steps.pipeline.outcome == 'success'
         run: node scripts/assert-progress.js

@@ -64,6 +64,12 @@ const json = async (root, file) => JSON.parse(await readFile(path.join(root, fil
 test('full pipeline: discovery, attribution, three rankings, refresh and publication', { timeout: 240_000 }, async () => {
   const root = await mkdtemp(path.join(os.tmpdir(), 'gitsphere-e2e-'));
   const fake = createFakeGitHub(fixture());
+
+  // Offline publication (as after a migration) must not claim a refresh.
+  await runPipeline({ root, token: 'test', settings, skipApi: true, now: () => '2026-11-19T00:00:00.000Z', log: quiet });
+  assert.equal((await json(root, 'data/summary.json')).lastSuccessfulRefresh, null);
+  assert.ok((await readFile(path.join(root, 'README.md'), 'utf8')).includes('Awaiting first live refresh'));
+
   const report = await run(root, fake, '2026-11-20T00:00:00.000Z');
 
   assert.equal(report.failures.length, 0, JSON.stringify(report.failures));
@@ -92,6 +98,11 @@ test('full pipeline: discovery, attribution, three rankings, refresh and publica
   assert.deepEqual(contributors.users.map((user) => user.login), ['quiet-builder', 'kalutara-dev', 'famous-lk'], 'independent contributions ranking');
   assert.equal(contributors.users[1].contributions.public, 800, 'calendar total minus restricted');
   assert.equal(contributors.users[0].followers, 0, 'zero-follower developer still ranked');
+  const leaks = /restricted|calendarTotal/;
+  assert.doesNotMatch(JSON.stringify(contributors), leaks, 'no private contribution counts published');
+  assert.doesNotMatch(await readFile(path.join(root, 'state/accounts/LK.json'), 'utf8'), leaks, 'no private contribution counts persisted');
+  assert.equal((await json(root, 'data/summary.json')).lastSuccessfulRefresh, '2026-11-20T00:00:00.000Z');
+  assert.ok((await readFile(path.join(root, 'README.md'), 'utf8')).includes('Last successful refresh <b>20 Nov 2026</b>'));
 
   const br = await json(root, 'data/developers/BR.json');
   assert.deepEqual(br.users.map((user) => user.login), ['colombo-br']);
@@ -128,6 +139,7 @@ test('full pipeline: discovery, attribution, three rankings, refresh and publica
   const updatedAtBefore = (await json(root, 'data/TV.json')).updatedAt;
 
   const second = await run(root, fake, '2026-11-21T00:00:00.000Z');
+  assert.ok(second.progress.ok, second.progress.reason);
   assert.equal(second.failures.length, 0, JSON.stringify(second.failures));
   const lk2 = (await json(root, 'data/LK.json')).repositories.map((repo) => repo.nameWithOwner);
   assert.ok(lk2.includes('famous-lk/framework-renamed') && !lk2.includes('famous-lk/framework'), 'rename followed by node ID');
@@ -138,4 +150,9 @@ test('full pipeline: discovery, attribution, three rankings, refresh and publica
   assert.ok(!dev2.includes('kalutara-dev') && !dev2.includes('quiet-builder'), 'relocated and deleted users removed');
   assert.ok((await json(root, 'data/developers/JP.json')).users.some((user) => user.login === 'kalutara-dev'), 'relocated user moved');
   assert.equal((await json(root, 'data/TV.json')).updatedAt, updatedAtBefore, 'unchanged rankings keep their timestamp');
+
+  // A later offline publication keeps the last real refresh date.
+  await runPipeline({ root, token: 'test', settings, skipApi: true, now: () => '2026-11-25T00:00:00.000Z', log: quiet });
+  assert.equal((await json(root, 'data/summary.json')).lastSuccessfulRefresh, '2026-11-21T00:00:00.000Z');
+  assert.ok((await readFile(path.join(root, 'README.md'), 'utf8')).includes('Last successful refresh <b>21 Nov 2026</b>'));
 });

@@ -6,6 +6,7 @@ export function renderJobSummary(report) {
     `- Progress: **${report.progress?.ok ? 'yes' : 'NO'}** (${report.progress?.reason})`,
     `- API requests: **${report.api?.requests ?? 0}**, points used: ${report.api?.pointsUsed ?? 0}, remaining: ${report.api?.remaining ?? '—'}`,
     `- Stop reason: ${report.stopReason || 'steps completed'}`,
+    `- Health: ${report.health?.ok === false ? `**${report.health.issues.join('; ')}**` : 'ok'}`,
     `- Runtime: ${report.runtimeSeconds}s`,
     '',
     '| Step | Result |',

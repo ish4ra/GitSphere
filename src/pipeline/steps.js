@@ -154,6 +154,7 @@ export async function locationScanStep(context, budget) {
   const fetchPage = searchAccountsPage(context.client, { withTopRepository: true });
   const touched = new Set();
   let visited = 0;
+  let due = 0;
   const owners = context.ownerCandidates;
 
   while (context.canContinue() && context.client.stats.requests - start < budget && visited < codes.length) {
@@ -175,6 +176,7 @@ export async function locationScanStep(context, budget) {
       continue;
     }
     if (!isRestDue(state, now(), settings.locationRefreshDays)) continue;
+    due += 1;
 
     const used = await advanceLocationScan({
       state,
@@ -206,7 +208,8 @@ export async function locationScanStep(context, budget) {
   }
   await writeJson(indexFile, index);
   const requests = context.client.stats.requests - start;
-  return { requests, pages: requests, countries: touched.size, pointer: index.pointer };
+  // `backlog`: countries that were due for discovery (not resting) this run.
+  return { requests, pages: requests, countries: touched.size, pointer: index.pointer, backlog: due };
 }
 
 /** Expands multi-repository owners whose top repository could rank. */
@@ -329,11 +332,15 @@ export function selectContributionCandidates(registry, { now, refreshDays, limit
   const staleBefore = Date.parse(now) - refreshDays * 86_400_000;
   const perCountry = COUNTRIES.map((country) => {
     const users = registry.accounts(country.code);
+    // Accounts whose measurement failed are deferred with exponential
+    // backoff (never dropped), so one problematic account cannot consume
+    // every run's budget, and is retried once its backoff expires.
+    const due = (user) => !user.contributionFailure || !(Date.parse(user.contributionFailure.retryAt) > Date.parse(now));
     const unmeasured = users
-      .filter((user) => !user.contributions)
+      .filter((user) => !user.contributions && due(user))
       .sort((a, b) => (b.publicRepos || 0) - (a.publicRepos || 0) || (b.followers || 0) - (a.followers || 0) || a.login.localeCompare(b.login));
     const stale = users
-      .filter((user) => user.contributions && !(Date.parse(user.contributions.measuredAt) > staleBefore))
+      .filter((user) => user.contributions && due(user) && !(Date.parse(user.contributions.measuredAt) > staleBefore))
       .sort((a, b) => (b.contributions.public || 0) - (a.contributions.public || 0));
     return [...unmeasured, ...stale];
   });
@@ -354,12 +361,13 @@ export function selectContributionCandidates(registry, { now, refreshDays, limit
 
 export function contributionRecord(collection, measuredAt) {
   if (!collection) return null;
+  // Only public activity is persisted. The calendar total and GitHub's
+  // restricted (private) contribution count are used to compute the public
+  // figure and then discarded: neither is stored nor published.
   const total = collection.contributionCalendar?.totalContributions || 0;
   const restricted = collection.restrictedContributionsCount || 0;
   return {
     public: Math.max(0, total - restricted),
-    calendarTotal: total,
-    restricted,
     commits: collection.totalCommitContributions || 0,
     issues: collection.totalIssueContributions || 0,
     pullRequests: collection.totalPullRequestContributions || 0,
@@ -371,6 +379,12 @@ export function contributionRecord(collection, measuredAt) {
   };
 }
 
+/** Exponential retry backoff for accounts whose measurement keeps failing. */
+export function contributionRetryAt(nowIso, failures) {
+  const days = Math.min(30, 2 ** Math.max(0, failures - 1));
+  return new Date(Date.parse(nowIso) + days * 86_400_000).toISOString();
+}
+
 export async function contributionStep(context, budget) {
   const { client, registry, now, settings, log } = context;
   const start = client.stats.requests;
@@ -380,7 +394,7 @@ export async function contributionStep(context, budget) {
     refreshDays: settings.contributionRefreshDays,
     limit: budget * settings.contributionBatch,
   });
-  const result = { requests: 0, measured: 0, removed: 0, failedBatches: 0, window };
+  const result = { requests: 0, measured: 0, removed: 0, failedBatches: 0, deferredAccounts: 0, window };
   let batchSize = settings.contributionBatch;
   while (candidates.length && context.canContinue() && client.stats.requests - start < budget) {
     const batch = candidates.splice(0, batchSize);
@@ -394,8 +408,9 @@ export async function contributionStep(context, budget) {
         }
         const ingested = ingestAccount(context, node, 'contributions');
         if (ingested?.record && registry.account(node.id)) {
-          registry.updateAccount(node.id, { contributions: contributionRecord(node.contributionsCollection, now()) });
-          result.measured += 1;
+          const record = contributionRecord(node.contributionsCollection, now());
+          registry.updateAccount(node.id, { ...(record ? { contributions: record } : {}), contributionFailure: undefined });
+          if (record) result.measured += 1;
         }
       });
       batchSize = Math.min(settings.contributionBatch, batchSize + 2);
@@ -403,7 +418,17 @@ export async function contributionStep(context, budget) {
       if (error?.name === 'GitHubBudgetError') throw error;
       // Contribution queries can time out on very active accounts: halve.
       result.failedBatches += 1;
-      if (batch.length > 1) candidates.unshift(...batch);
+      if (batch.length > 1) {
+        candidates.unshift(...batch);
+      } else {
+        // Isolated failing account: record it and defer with backoff.
+        const account = registry.account(batch[0].id);
+        if (account) {
+          const failures = (account.contributionFailure?.count || 0) + 1;
+          registry.updateAccount(account.id, { contributionFailure: { count: failures, lastAt: now(), retryAt: contributionRetryAt(now(), failures) } });
+          result.deferredAccounts += 1;
+        }
+      }
       batchSize = Math.max(1, Math.floor(batch.length / 2));
       log.warn?.(`Contribution batch of ${batch.length} failed (${safeErrorMessage(error)}); retrying with ${batchSize}.`);
     }

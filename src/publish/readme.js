@@ -7,10 +7,22 @@ import { formatDate, formatNumber, MODE_META, STATUS_LABELS } from './format.js'
 
 const CARDS = ['repositories', 'developers', 'contributors'];
 
+/**
+ * Freshness is derived only from real API runs. Offline publication and the
+ * one-time migration never count as a refresh.
+ */
+export function freshness(summary) {
+  const success = summary?.lastSuccessfulRefresh;
+  const last = summary?.lastRun;
+  if (!success) return '<b>Awaiting first live refresh</b> — current rankings were carried over from the previous dataset and are pending revalidation';
+  const text = `Last successful refresh <b>${formatDate(success)}</b>`;
+  if (last && !last.ok && Date.parse(last.startedAt) > Date.parse(success)) return `${text} · ⚠️ latest run made no progress (${last.progress})`;
+  return text;
+}
+
 export function renderRootReadme(summary) {
   const modes = summary?.modes || {};
   const scans = summary?.scans || {};
-  const lastRun = summary?.lastRun || null;
 
   const card = (mode) => {
     const meta = MODE_META[mode];
@@ -63,7 +75,7 @@ export function renderRootReadme(summary) {
     '',
     '<div align="center">',
     '',
-    `<sub>Data refreshed ${lastRun?.startedAt ? `<b>${formatDate(lastRun.startedAt)}</b>` : '—'} · ${formatNumber(COUNTRIES.length)} countries and territories · Star scan verified to <b>${scans.repositories?.verifiedFloor != null ? `${formatNumber(scans.repositories.verifiedFloor)}★` : '—'}</b> · Follower scan verified to <b>${scans.followers?.verifiedFloor != null ? formatNumber(scans.followers.verifiedFloor) : '—'}</b></sub>`,
+    `<sub>${freshness(summary)} · ${formatNumber(COUNTRIES.length)} countries and territories · Star scan verified to <b>${scans.repositories?.verifiedFloor != null ? `${formatNumber(scans.repositories.verifiedFloor)}★` : '—'}</b> · Follower scan verified to <b>${scans.followers?.verifiedFloor != null ? formatNumber(scans.followers.verifiedFloor) : '—'}</b></sub>`,
     '',
     '</div>',
     '',

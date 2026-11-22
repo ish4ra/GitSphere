@@ -58,10 +58,13 @@ function summaryLine(ranking, published) {
   return [
     '<div align="center">',
     '',
-    `| Status | ${meta.noun[0].toUpperCase()}${meta.noun.slice(1)} | Last update | Data |`,
+    `| Status | ${meta.noun[0].toUpperCase()}${meta.noun.slice(1)} | Oldest verification | Data |`,
     '| :---: | :---: | :---: | :---: |',
-    `| ${statusText(ranking.status)} | **${formatNumber(ranking.entries.length)}** | ${formatDate(published.updatedAt)} | <a href="${published.dataLink}">JSON</a> |`,
+    `| ${statusText(ranking.status)} | **${formatNumber(ranking.entries.length)}** | ${published.verifiedOn ? formatDate(published.verifiedOn) : '—'} | <a href="${published.dataLink}">JSON</a> |`,
     '',
+    ...(ranking.coverage.legacyEntriesPendingRevalidation
+      ? [`> **Not yet re-verified.** ${formatNumber(ranking.coverage.legacyEntriesPendingRevalidation)} of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.`, '']
+      : []),
     '</div>',
     '',
   ];
@@ -257,12 +260,12 @@ export function renderDirectory(mode, rankings, { summary }) {
   ];
 
   for (const letter of letters) {
-    lines.push(`### ${letter}`, '', `| Country | Status | ${meta.noun[0].toUpperCase()}${meta.noun.slice(1)} | Leader | Updated |`, '| :-- | :-- | --: | :-- | :-- |');
+    lines.push(`### ${letter}`, '', `| Country | Status | ${meta.noun[0].toUpperCase()}${meta.noun.slice(1)} | Leader | Verified |`, '| :-- | :-- | --: | :-- | :-- |');
     for (const country of groups.get(letter)) {
       const ranking = rankings.get(country.code);
       const published = summary.get(country.code) || {};
       lines.push(
-        `| ${country.flag} [${escapeHtml(country.name)}](${relative(file, meta.page(country.slug))}) | ${statusText(ranking.status)} | ${ranking.entries.length ? formatNumber(ranking.entries.length) : '—'} | ${leaderCell(mode, ranking)} | ${published.updatedAt ? formatDate(published.updatedAt) : '—'} |`,
+        `| ${country.flag} [${escapeHtml(country.name)}](${relative(file, meta.page(country.slug))}) | ${statusText(ranking.status)} | ${ranking.entries.length ? formatNumber(ranking.entries.length) : '—'} | ${leaderCell(mode, ranking)} | ${published.verifiedOn ? formatDate(published.verifiedOn) : '—'} |`,
       );
     }
     lines.push('');

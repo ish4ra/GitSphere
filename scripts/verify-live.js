@@ -143,9 +143,13 @@ await section('Public contributions (rolling 12 months)', async () => {
   const ids = (await client.graphql(idQuery)).data;
   const { data } = await client.graphql(CONTRIBUTIONS, { ids: [ids.a.id, ids.b.id], ...window });
   for (const node of data.nodes) {
-    const record = contributionRecord(node.contributionsCollection, new Date().toISOString());
-    lines.push(`- **@${node.login}**: public=${record.public} (calendar ${record.calendarTotal} − restricted ${record.restricted}); commits ${record.commits}, PRs ${record.pullRequests}, reviews ${record.reviews}, issues ${record.issues}; window ${record.from} → ${record.to}`);
-    check(record.public <= record.calendarTotal, `@${node.login} public contributions never exceed the calendar total`);
+    const collection = node.contributionsCollection;
+    const record = contributionRecord(collection, new Date().toISOString());
+    // Private (restricted) counts are used only for the invariant check and
+    // are never printed or stored.
+    lines.push(`- **@${node.login}**: public contributions ${record.public} (commits ${record.commits}, PRs ${record.pullRequests}, reviews ${record.reviews}, issues ${record.issues}); window ${record.from} → ${record.to}`);
+    check(record.public <= (collection.contributionCalendar?.totalContributions || 0), `@${node.login} public contributions never exceed the calendar total`);
+    check(!('restricted' in record) && !('calendarTotal' in record), `@${node.login} record holds no private contribution counts`);
   }
 });
 
