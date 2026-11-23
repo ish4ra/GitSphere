@@ -5,12 +5,13 @@
 "country": {"code":"MQ","name":"Martinique","slug":"martinique"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":109,"measuredAccounts":2,"measurementBacklog":107,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":108,"measuredAccounts":3,"measurementBacklog":105,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjQyODE0NTgw","login":"aldofwi","name":"Λldo","url":"https://github.com/aldofwi","avatarUrl":"https://avatars.githubusercontent.com/u/42814580?s=80&v=4","followers":1,"publicRepos":15,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":55,"commits":55,"pullRequests":0,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjQyODE0NTgw","login":"aldofwi","name":"Λldo","url":"https://github.com/aldofwi","avatarUrl":"https://avatars.githubusercontent.com/u/42814580?s=80&v=4","followers":1,"publicRepos":15,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":55,"commits":55,"pullRequests":0,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjY0NzY1MTA5","login":"anthony-nosibor","name":"Anthony nosibor","url":"https://github.com/anthony-nosibor","avatarUrl":"https://avatars.githubusercontent.com/u/64765109?s=80&v=4","followers":7,"publicRepos":17,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":24,"commits":17,"pullRequests":5,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "325294709b47643f",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "9903f08ad1f66805",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

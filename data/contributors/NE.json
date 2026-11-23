@@ -5,12 +5,12 @@
 "country": {"code":"NE","name":"Niger","slug":"niger"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":284,"measuredAccounts":2,"measurementBacklog":282,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":284,"measuredAccounts":4,"measurementBacklog":280,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOBm_ZJg","login":"kodjodevf","name":"Moustapha Kodjo Amadou","url":"https://github.com/kodjodevf","avatarUrl":"https://avatars.githubusercontent.com/u/107993382?s=80&v=4","followers":239,"publicRepos":23,"location":"Niamey,Niger","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-22","contributions":{"public":1444,"commits":1120,"pullRequests":65,"reviews":248,"issues":0,"repositories":11,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "2cf61e4f3cd186d1",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "234f280476420d10",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

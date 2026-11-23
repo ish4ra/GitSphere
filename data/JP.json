@@ -5,7 +5,7 @@
 "country": {"code":"JP","name":"Japan","slug":"japan"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":5532,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":128,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":5532,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":128,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":162,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkyMzE4NjU3MDU=","name":"ChinaTextbook","nameWithOwner":"TapXWorld/ChinaTextbook","url":"https://github.com/TapXWorld/ChinaTextbook","description":"所有小初高、大学PDF教材。","stars":84881,"forks":19305,"primaryLanguage":null,"license":null,"createdAt":"2020-01-05T04:11:06Z","pushedAt":"2026-10-26T07:05:48Z","archived":false,"owner":{"login":"TapXWorld","name":null,"type":"User","url":"https://github.com/TapXWorld","location":"Tokyo","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkyODQyODcyOQ==","name":"awesome-android-ui","nameWithOwner":"wasabeef/awesome-android-ui","url":"https://github.com/wasabeef/awesome-android-ui","description":"A curated list of awesome Android UI/UX libraries","stars":58612,"forks":10240,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2014-12-24T01:45:03Z","pushedAt":"2026-06-05T05:39:52Z","archived":false,"owner":{"login":"wasabeef","name":"Daichi Furiya","type":"User","url":"https://github.com/wasabeef","location":"Tokyo, Japan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"MDEwOlJlcG9zaXRvcnkzNTI3MjUzODU=","name":"innernet","nameWithOwner":"tonarino/innernet","url":"https://github.com/tonarino/innernet","description":"A private network system that uses WireGuard under the hood.","stars":5587,"forks":219,"primaryLanguage":"Rust","license":{"spdxId":"MIT"},"createdAt":"2021-03-29T17:17:27Z","pushedAt":"2026-11-11T12:50:53Z","archived":false,"owner":{"login":"tonarino","name":"Tonari, Inc","type":"Organization","url":"https://github.com/tonarino","location":"Tokyo, Japan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
   {"rank":100,"id":"MDEwOlJlcG9zaXRvcnkyNTg3MzA0MQ==","name":"awesome-android-libraries","nameWithOwner":"wasabeef/awesome-android-libraries","url":"https://github.com/wasabeef/awesome-android-libraries","description":"This is an alphabetical list of libraries for Android development, the majority being actively maintained.","stars":5532,"forks":1221,"primaryLanguage":null,"license":null,"createdAt":"2014-10-28T14:22:59Z","pushedAt":"2023-08-29T05:35:31Z","archived":false,"owner":{"login":"wasabeef","name":"Daichi Furiya","type":"User","url":"https://github.com/wasabeef","location":"Tokyo, Japan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "f04a60f5a9c5a8c0",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "bb0a2884706bd10e",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

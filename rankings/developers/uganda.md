@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/developers/UG.json">JSON</a> |
+| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/developers/UG.json">JSON</a> |
 
 </div>
 
@@ -65,6 +65,20 @@
 </tr>
 <tr>
 <td align="right">7</td>
+<td><a href="https://github.com/ConradPB"><img src="https://avatars.githubusercontent.com/u/6654866?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ConradPB"><b>Conrad P.B</b></a><br><sub>&#64;ConradPB</sub></td>
+<td align="right"><b>550</b></td>
+<td align="right">56</td>
+<td><sub>Kampala</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/ABAASA-BYOONA"><img src="https://avatars.githubusercontent.com/u/205238180?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ABAASA-BYOONA"><b>ABAASA</b></a><br><sub>&#64;ABAASA-BYOONA</sub></td>
+<td align="right"><b>513</b></td>
+<td align="right">17</td>
+<td><sub>kampala</sub></td>
+</tr>
+<tr>
+<td align="right">9</td>
 <td><a href="https://github.com/has2k1"><img src="https://avatars.githubusercontent.com/u/780341?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/has2k1"><b>Hassan Kibirige</b></a><br><sub>&#64;has2k1</sub></td>
 <td align="right"><b>300</b></td>
 <td align="right">0</td>
@@ -78,7 +92,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 7 attributed developers are tracked; the cutoff is 300 followers.
+- Organizations are excluded. 9 attributed developers are tracked; the cutoff is 300 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

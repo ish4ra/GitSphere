@@ -5,13 +5,14 @@
 "country": {"code":"MQ","name":"Martinique","slug":"martinique"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":1,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":1,"candidates":3,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDOBhbgRw","login":"972Olivier","name":"Olivier","url":"https://github.com/972Olivier","avatarUrl":"https://avatars.githubusercontent.com/u/102162503?s=80&v=4","followers":1,"publicRepos":18,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"MDQ6VXNlcjQyODE0NTgw","login":"aldofwi","name":"Λldo","url":"https://github.com/aldofwi","avatarUrl":"https://avatars.githubusercontent.com/u/42814580?s=80&v=4","followers":1,"publicRepos":15,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"MDQ6VXNlcjY0NzY1MTA5","login":"anthony-nosibor","name":"Anthony nosibor","url":"https://github.com/anthony-nosibor","avatarUrl":"https://avatars.githubusercontent.com/u/64765109?s=80&v=4","followers":7,"publicRepos":17,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":2,"id":"U_kgDOBhbgRw","login":"972Olivier","name":"Olivier","url":"https://github.com/972Olivier","avatarUrl":"https://avatars.githubusercontent.com/u/102162503?s=80&v=4","followers":1,"publicRepos":18,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjQyODE0NTgw","login":"aldofwi","name":"Λldo","url":"https://github.com/aldofwi","avatarUrl":"https://avatars.githubusercontent.com/u/42814580?s=80&v=4","followers":1,"publicRepos":15,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "f46d5e266f837bc0",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "cdebbc44a530ae3e",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

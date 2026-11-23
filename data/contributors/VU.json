@@ -5,12 +5,13 @@
 "country": {"code":"VU","name":"Vanuatu","slug":"vanuatu"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":46,"measuredAccounts":2,"measurementBacklog":44,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":46,"measuredAccounts":3,"measurementBacklog":43,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"U_kgDOCyHR8A","login":"yjulio","name":"Julio Yaruel","url":"https://github.com/yjulio","avatarUrl":"https://avatars.githubusercontent.com/u/186765808?s=80&v=4","followers":0,"publicRepos":19,"location":"Port-Vila Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":145,"commits":135,"pullRequests":0,"reviews":0,"issues":0,"repositories":10,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjEwMDQwMTcw","login":"alfnitacoder","name":"AlffieGeorge","url":"https://github.com/alfnitacoder","avatarUrl":"https://avatars.githubusercontent.com/u/10040170?s=80&v=4","followers":16,"publicRepos":17,"location":"Port Vila","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23","contributions":{"public":207,"commits":164,"pullRequests":37,"reviews":0,"issues":0,"repositories":6,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":2,"id":"U_kgDOCyHR8A","login":"yjulio","name":"Julio Yaruel","url":"https://github.com/yjulio","avatarUrl":"https://avatars.githubusercontent.com/u/186765808?s=80&v=4","followers":0,"publicRepos":19,"location":"Port-Vila Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":145,"commits":135,"pullRequests":0,"reviews":0,"issues":0,"repositories":10,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "98cebb8b6f1739f4",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "d1c522e46998d743",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

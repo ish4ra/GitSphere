@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/TJ.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/TJ.json">JSON</a> |
 
 </div>
 
@@ -23,13 +23,27 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/abdullokhonz"><img src="https://avatars.githubusercontent.com/u/153506949?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdullokhonz"><b>Abdullokhon Ghaibulloev</b></a><br><sub>&#64;abdullokhonz</sub></td>
+<td align="right"><b>428</b></td>
+<td align="right">23</td>
+<td><sub>Khujand, Tajikistan</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/2406Bilal"><img src="https://avatars.githubusercontent.com/u/125570126?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/2406Bilal"><b>Bilal Ismonov</b></a><br><sub>&#64;2406Bilal</sub></td>
+<td align="right"><b>13</b></td>
+<td align="right">20</td>
+<td><sub>Tajikistan Dushanbe</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/1e0nard0"><img src="https://avatars.githubusercontent.com/u/68204060?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/1e0nard0"><b>Dilshod</b></a><br><sub>&#64;1e0nard0</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Tajikistan</sub></td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">4</td>
 <td><a href="https://github.com/22409934"><img src="https://avatars.githubusercontent.com/u/106756955?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/22409934"><b>Razackov Firuz</b></a><br><sub>&#64;22409934</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
@@ -43,7 +57,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

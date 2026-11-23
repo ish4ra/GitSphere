@@ -5,7 +5,7 @@
 "country": {"code":"SC","name":"Seychelles","slug":"seychelles"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":148,"candidates":147,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":147,"candidates":147,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"google_inception_v3_for_caffe","nameWithOwner":"smichalowski/google_inception_v3_for_caffe","url":"https://github.com/smichalowski/google_inception_v3_for_caffe","description":null,"stars":160,"forks":108,"primaryLanguage":null,"license":null,"createdAt":"2016-03-04T14:52:53Z","pushedAt":"2016-07-05T19:53:10Z","archived":false,"owner":{"login":"smichalowski","name":"Sebastian Michalowski","type":"User","url":"https://github.com/smichalowski","location":"Victoria, Seychelles","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Safejumper-for-iOS","nameWithOwner":"proxysh/Safejumper-for-iOS","url":"https://github.com/proxysh/Safejumper-for-iOS","description":null,"stars":60,"forks":20,"primaryLanguage":"Swift","license":{"spdxId":"GPL-2.0"},"createdAt":"2015-08-27T20:57:00Z","pushedAt":"2015-10-15T15:28:17Z","archived":false,"owner":{"login":"proxysh","name":"Proxy.sh","type":"User","url":"https://github.com/proxysh","location":"Seychelles","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"localusdt-hq","nameWithOwner":"localusdt-hq/localusdt-hq","url":"https://github.com/localusdt-hq/localusdt-hq","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-05-25T16:09:32Z","pushedAt":"2026-05-26T04:18:56Z","archived":false,"owner":{"login":"localusdt-hq","name":"LocalUSDT","type":"User","url":"https://github.com/localusdt-hq","location":"Seychelles","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"lotus-nft","nameWithOwner":"lotus-starknet/lotus-nft","url":"https://github.com/lotus-starknet/lotus-nft","description":null,"stars":0,"forks":0,"primaryLanguage":"Cairo","license":null,"createdAt":"2023-06-06T00:26:32Z","pushedAt":"2023-07-05T10:13:50Z","archived":false,"owner":{"login":"lotus-starknet","name":"Lotus","type":"User","url":"https://github.com/lotus-starknet","location":"Seychelles","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "235e19d6cdd577e9",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "ddb90ab924fc294a",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

@@ -5,13 +5,14 @@
 "country": {"code":"GG","name":"Guernsey","slug":"guernsey"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":79,"measuredAccounts":2,"measurementBacklog":77,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":145,"measuredAccounts":4,"measurementBacklog":141,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":24,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjE4NDQ0MzAy","login":"tris203","name":"Tristan Knight","url":"https://github.com/tris203","avatarUrl":"https://avatars.githubusercontent.com/u/18444302?s=80&v=4","followers":44,"publicRepos":74,"location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":538,"commits":258,"pullRequests":194,"reviews":26,"issues":46,"repositories":10,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":2,"id":"MDQ6VXNlcjE5NzI2OTc2","login":"RicLeP","name":"Ric Le Poidevin","url":"https://github.com/RicLeP","avatarUrl":"https://avatars.githubusercontent.com/u/19726976?s=80&v=4","followers":15,"publicRepos":72,"location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":99,"commits":62,"pullRequests":34,"reviews":0,"issues":0,"repositories":3,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjE4NDQ0MzAy","login":"tris203","name":"Tristan Knight","url":"https://github.com/tris203","avatarUrl":"https://avatars.githubusercontent.com/u/18444302?s=80&v=4","followers":44,"publicRepos":74,"location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":538,"commits":258,"pullRequests":194,"reviews":26,"issues":46,"repositories":10,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjE5NzI2OTc2","login":"RicLeP","name":"Ric Le Poidevin","url":"https://github.com/RicLeP","avatarUrl":"https://avatars.githubusercontent.com/u/19726976?s=80&v=4","followers":15,"publicRepos":72,"location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":99,"commits":62,"pullRequests":34,"reviews":0,"issues":0,"repositories":3,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":3,"id":"MDQ6VXNlcjgzMDE0MjE4","login":"Elania-Marvers","name":"Elania","url":"https://github.com/Elania-Marvers","avatarUrl":"https://avatars.githubusercontent.com/u/83014218?s=80&v=4","followers":30,"publicRepos":61,"location":"Guernesey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":56,"commits":37,"pullRequests":10,"reviews":0,"issues":1,"repositories":8,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "0df5f1ea5f4755fc",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "5b7b6b0cb9fc821d",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

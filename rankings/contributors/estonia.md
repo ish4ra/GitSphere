@@ -14,17 +14,26 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/contributors/EE.json">JSON</a> |
+| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/EE.json">JSON</a> |
 
 </div>
 
-<p align="center"><sub>Public contributions from <b>22 Nov 2025</b> to <b>22 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
+<p align="center"><sub>Public contributions from <b>23 Nov 2025</b> to <b>23 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
 
 <table>
 <thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Public contributions</th><th align="right">Commits</th><th align="right">PRs</th><th align="right">Reviews</th><th align="right">Issues</th></tr></thead>
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/ersinkoc"><img src="https://avatars.githubusercontent.com/u/408479?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ersinkoc"><b>Ersin KOÇ</b></a><br><sub>&#64;ersinkoc · 921 followers</sub></td>
+<td align="right"><b>41,986</b></td>
+<td align="right">38,001</td>
+<td align="right">3,586</td>
+<td align="right">149</td>
+<td align="right">173</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/visualGravitySense"><img src="https://avatars.githubusercontent.com/u/26278690?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/visualGravitySense"><b>Dmitri Gornakov</b></a><br><sub>&#64;visualGravitySense · 3,902 followers</sub></td>
 <td align="right"><b>578</b></td>
 <td align="right">412</td>
@@ -33,7 +42,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">3</td>
+<td><a href="https://github.com/Zverik"><img src="https://avatars.githubusercontent.com/u/766031?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Zverik"><b>Ilya Zverev</b></a><br><sub>&#64;Zverik · 262 followers</sub></td>
+<td align="right"><b>412</b></td>
+<td align="right">329</td>
+<td align="right">25</td>
+<td align="right">12</td>
+<td align="right">24</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/vvscode"><img src="https://avatars.githubusercontent.com/u/6904368?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vvscode"><b>Vasiliy Vanchuk</b></a><br><sub>&#64;vvscode · 501 followers</sub></td>
 <td align="right"><b>164</b></td>
 <td align="right">60</td>
@@ -42,7 +60,7 @@
 <td align="right">3</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">5</td>
 <td><a href="https://github.com/Dew25"><img src="https://avatars.githubusercontent.com/u/14212728?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dew25"><b>Dew25</b></a><br><sub>&#64;Dew25 · 160 followers</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">18</td>
@@ -57,7 +75,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 3 of 405 discovered developers (402 awaiting measurement).
+- **Measured:** 5 of 408 discovered developers (403 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 142 in round 1.

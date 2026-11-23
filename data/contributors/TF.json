@@ -5,10 +5,10 @@
 "country": {"code":"TF","name":"French Southern Territories","slug":"french-southern-territories"},
 "status": "building",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":8,"measuredAccounts":2,"measurementBacklog":6,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":8,"measuredAccounts":4,"measurementBacklog":4,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [],
-"contentHash": "1e7ad10fe90d39a6",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "6b176f01c8be5942",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": null,
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

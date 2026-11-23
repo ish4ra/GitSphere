@@ -5,13 +5,14 @@
 "country": {"code":"TG","name":"Togo","slug":"togo"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":1,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":1,"candidates":3,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDOCOBXdA","login":"0xbignuel","name":"Emmanuel AHIABOR","url":"https://github.com/0xbignuel","avatarUrl":"https://avatars.githubusercontent.com/u/148920180?s=80&v=4","followers":3,"publicRepos":20,"location":"Cacaveli, Lomé-TOGO","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"MDQ6VXNlcjg2MTgwMDI=","login":"19r3ka","name":"Yem Ahiatsi","url":"https://github.com/19r3ka","avatarUrl":"https://avatars.githubusercontent.com/u/8618002?s=80&v=4","followers":1,"publicRepos":15,"location":"Togo","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"U_kgDODMyCJw","login":"L0VES1CKk","name":"‹ ︎ ✦ 𓏻 Pomaru ’ ◟ 🌱","url":"https://github.com/L0VES1CKk","avatarUrl":"https://avatars.githubusercontent.com/u/214729255?s=80&v=4","followers":467,"publicRepos":2,"location":"YUMESHIPPER!! F/o's are: tigress (kung fu panda), himiko toga (my hero academia), mafioso (forsaken), pierrot (the frea…","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":2,"id":"U_kgDOCOBXdA","login":"0xbignuel","name":"Emmanuel AHIABOR","url":"https://github.com/0xbignuel","avatarUrl":"https://avatars.githubusercontent.com/u/148920180?s=80&v=4","followers":3,"publicRepos":20,"location":"Cacaveli, Lomé-TOGO","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjg2MTgwMDI=","login":"19r3ka","name":"Yem Ahiatsi","url":"https://github.com/19r3ka","avatarUrl":"https://avatars.githubusercontent.com/u/8618002?s=80&v=4","followers":1,"publicRepos":15,"location":"Togo","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "2f5debed99f2e016",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "e36a34d2b2c311c4",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

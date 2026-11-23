@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/developers/MM.json">JSON</a> |
+| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/developers/MM.json">JSON</a> |
 
 </div>
 
@@ -70,6 +70,20 @@
 <td align="right">14</td>
 <td><sub>Yangon</sub></td>
 </tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/winhtut"><img src="https://avatars.githubusercontent.com/u/29735267?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/winhtut"><b>WinHtut</b></a><br><sub>&#64;winhtut</sub></td>
+<td align="right"><b>426</b></td>
+<td align="right">107</td>
+<td><sub>Pyin Oo Lwin</sub></td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/KhunHtetzNaing"><img src="https://avatars.githubusercontent.com/u/12862097?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KhunHtetzNaing"><b>Khun Htetz Naing</b></a><br><sub>&#64;KhunHtetzNaing</sub></td>
+<td align="right"><b>415</b></td>
+<td align="right">152</td>
+<td><sub>HsiHseng, Myanmar</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -78,7 +92,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 7 attributed developers are tracked; the cutoff is 687 followers.
+- Organizations are excluded. 9 attributed developers are tracked; the cutoff is 415 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

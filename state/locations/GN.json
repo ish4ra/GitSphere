@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"country": "GN",
+"round": 1,
+"roundStartedAt": "2026-11-23T02:58:13.585Z",
+"terms": {"count":76,"fingerprint":"76:54ecce33"},
+"termIndex": 0,
+"specIndex": 0,
+"active": {"term":"Guinea","kind":"users","queue":[{"metric":[0,100000000],"created":null,"cursor":"Y3Vyc29yOjMwMA==","page":7,"retrieved":300,"attempts":0}],"unresolved":[],"cycleStartedAt":"2026-11-23T02:58:13.585Z","stats":{"pages":6}},
+"unresolved": [],
+"completedRounds": [],
+"stats": {"requests":6,"pages":6,"accounts":300},
+"updatedAt": "2026-11-23T02:58:13.585Z"
+}

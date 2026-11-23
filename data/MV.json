@@ -5,7 +5,7 @@
 "country": {"code":"MV","name":"Maldives","slug":"maldives"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":3,"legacyEntriesPendingRevalidation":99,"ownerExpansionBacklog":149,"candidates":149,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":3,"legacyEntriesPendingRevalidation":99,"ownerExpansionBacklog":148,"candidates":149,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOG-LsGA","name":"seerr","nameWithOwner":"seerr-team/seerr","url":"https://github.com/seerr-team/seerr","description":"Open-source media request and discovery manager for Jellyfin, Plex, and Emby.","stars":13314,"forks":1161,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2022-03-09T09:18:22Z","pushedAt":"2026-11-22T10:06:29Z","archived":false,"owner":{"login":"seerr-team","name":"Seerr Team","type":"Organization","url":"https://github.com/seerr-team","location":"Maldives","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":null,"name":"filament-logger","nameWithOwner":"Z3d0X/filament-logger","url":"https://github.com/Z3d0X/filament-logger","description":null,"stars":388,"forks":75,"primaryLanguage":"PHP","license":{"spdxId":"MIT"},"createdAt":"2022-04-25T14:36:53Z","pushedAt":"2026-03-16T12:22:13Z","archived":true,"owner":{"login":"Z3d0X","name":"ZedoX","type":"User","url":"https://github.com/Z3d0X","location":"Maldives","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-12","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"multi-scraper","nameWithOwner":"Usagi5677/multi-scraper","url":"https://github.com/Usagi5677/multi-scraper","description":null,"stars":3,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2023-06-14T06:32:56Z","pushedAt":"2023-06-16T07:08:25Z","archived":false,"owner":{"login":"Usagi5677","name":"Naish","type":"User","url":"https://github.com/Usagi5677","location":"Maldives","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"blender-pixel-art-scaler","nameWithOwner":"wuksoy/blender-pixel-art-scaler","url":"https://github.com/wuksoy/blender-pixel-art-scaler","description":null,"stars":3,"forks":0,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2025-04-19T09:34:15Z","pushedAt":"2025-04-20T04:28:02Z","archived":false,"owner":{"login":"wuksoy","name":"Mohamed Wishan","type":"User","url":"https://github.com/wuksoy","location":"Maldives","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "fbfb9e591b22351d",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "c8bad094315f5bad",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-10-12",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

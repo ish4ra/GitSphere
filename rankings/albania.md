@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | :---: |
 | 🟠 Stale | **100** | 16 Oct 2026 | <a href="../data/AL.json">JSON</a> |
 
-> **Not yet re-verified.** 99 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 98 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -32,10 +32,10 @@
 </tr>
 <tr>
 <td align="right">2</td>
-<td><img src="https://github.com/klendi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/klendi/react-top-loading-bar"><b>klendi/react-top-loading-bar</b></a></td>
-<td align="right"><b>749</b></td>
-<td align="right">65</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/4lbH4cker.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/4lbH4cker/ALHacking"><b>4lbH4cker/ALHacking</b></a><br><sub>Albanian Hacking Tool!! Tools to help you with ethical hacking, Social media hack, phone info, Gmail attack, phone numb…</sub></td>
+<td align="right"><b>1,694</b></td>
+<td align="right">367</td>
+<td>Shell</td>
 </tr>
 <tr>
 <td align="right">3</td>
@@ -732,8 +732,8 @@
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 2 stars; 148 attributed candidates are tracked.
-- 99 entries were carried over from the previous dataset and are pending revalidation.
-- 150 multi-repository owners are queued for expansion.
+- 98 entries were carried over from the previous dataset and are pending revalidation.
+- 147 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 141 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

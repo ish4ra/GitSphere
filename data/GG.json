@@ -5,7 +5,7 @@
 "country": {"code":"GG","name":"Guernsey","slug":"guernsey"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":88,"ownerExpansionBacklog":89,"candidates":88,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":88,"ownerExpansionBacklog":91,"candidates":88,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":24,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"DamienGKit","nameWithOwner":"damieng/DamienGKit","url":"https://github.com/damieng/DamienGKit","description":null,"stars":264,"forks":159,"primaryLanguage":"C#","license":{"spdxId":"NOASSERTION"},"createdAt":"2011-05-24T04:49:03Z","pushedAt":"2026-05-21T14:09:06Z","archived":false,"owner":{"login":"damieng","name":"Damien Guard","type":"User","url":"https://github.com/damieng","location":"Guernsey, CI","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-29","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"anki_german_a1_vocab","nameWithOwner":"patsytau/anki_german_a1_vocab","url":"https://github.com/patsytau/anki_german_a1_vocab","description":null,"stars":238,"forks":42,"primaryLanguage":null,"license":null,"createdAt":"2021-12-30T17:54:17Z","pushedAt":"2026-10-04T11:44:03Z","archived":true,"owner":{"login":"patsytau","name":null,"type":"User","url":"https://github.com/patsytau","location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-29","pendingRevalidation":true},
@@ -96,8 +96,8 @@
   {"rank":87,"id":null,"name":"groupprojectquiz","nameWithOwner":"VictoriaBrouard/groupprojectquiz","url":"https://github.com/VictoriaBrouard/groupprojectquiz","description":null,"stars":0,"forks":0,"primaryLanguage":"Ruby","license":null,"createdAt":"2016-02-03T08:32:33Z","pushedAt":"2016-02-03T14:31:16Z","archived":false,"owner":{"login":"VictoriaBrouard","name":"Victoria Brouard","type":"User","url":"https://github.com/VictoriaBrouard","location":"Guernsey, Channel Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-29","pendingRevalidation":true},
   {"rank":88,"id":null,"name":"protect","nameWithOwner":"xenopathie/protect","url":"https://github.com/xenopathie/protect","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-03-02T18:45:16Z","pushedAt":"2026-03-02T18:45:16Z","archived":false,"owner":{"login":"xenopathie","name":"Guest","type":"User","url":"https://github.com/xenopathie","location":"Guernesey","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-29","pendingRevalidation":true}
 ],
-"contentHash": "efbe915a13a7bb05",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "1a56bede6195f109",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-10-29",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

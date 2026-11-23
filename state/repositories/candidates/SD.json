@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"SD","name":"Sudan","slug":"sudan"},
-"count": 150,
+"count": 149,
 "repositories": [
-  {"name":"wadgamaraldeen/My-Hunting-Methodology-","stars":452,"forks":84,"archived":false,"createdAt":"2024-01-19T16:08:39Z","pushedAt":"2026-09-22T01:18:31Z","owner":{"login":"wadgamaraldeen","type":"User","name":"Mustafa Adam Gamaraldin Abdalla","location":"Sudan"},"attribution":{"code":"SD","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T14:26:30.321Z","id":"legacy:wadgamaraldeen/my-hunting-methodology-","legacy":true},
   {"name":"the94air/laravel-ajax-crud","stars":87,"forks":15,"language":"PHP","license":"MIT","archived":true,"createdAt":"2019-01-15T14:25:51Z","pushedAt":"2022-07-01T18:37:13Z","owner":{"login":"the94air","type":"User","name":"Abdalla Arbab","location":"Khartoum, Sudan"},"attribution":{"code":"SD","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-03T14:26:30.321Z","id":"legacy:the94air/laravel-ajax-crud","legacy":true},
   {"name":"motaz/turbobird","stars":67,"forks":27,"language":"Pascal","archived":false,"createdAt":"2011-12-27T17:44:43Z","pushedAt":"2025-11-24T15:39:16Z","owner":{"login":"motaz","type":"User","name":"Motaz Abdel Azeem","location":"Sudan, Khartoum"},"attribution":{"code":"SD","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-03T14:26:30.321Z","id":"legacy:motaz/turbobird","legacy":true},
   {"name":"galalen/btail","stars":57,"forks":1,"language":"Go","license":"MIT","archived":false,"createdAt":"2024-05-22T18:17:38Z","pushedAt":"2026-03-02T15:19:14Z","owner":{"login":"galalen","type":"User","name":"Mohammed Galalen","location":"Sudan"},"attribution":{"code":"SD","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T14:26:30.321Z","id":"legacy:galalen/btail","legacy":true},

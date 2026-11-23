@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **5** | 14 Oct 2026 | <a href="../data/BJ.json">JSON</a> |
+| 🟠 Stale | **4** | 14 Oct 2026 | <a href="../data/BJ.json">JSON</a> |
 
-> **Not yet re-verified.** 4 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 1 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -32,27 +32,20 @@
 </tr>
 <tr>
 <td align="right">2</td>
-<td><img src="https://github.com/onesine.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/onesine/react-tailwindcss-datepicker"><b>onesine/react-tailwindcss-datepicker</b></a></td>
-<td align="right"><b>609</b></td>
-<td align="right">209</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/JideGuru.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JideGuru/FlutterSocialAppUIKit"><b>JideGuru/FlutterSocialAppUIKit</b></a><br><sub>Flutter representation of a Social App Concept.</sub></td>
+<td align="right"><b>1,979</b></td>
+<td align="right">504</td>
+<td>Dart</td>
 </tr>
 <tr>
 <td align="right">3</td>
-<td><img src="https://github.com/JideGuru.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JideGuru/FlutterFurnitureAppUI"><b>JideGuru/FlutterFurnitureAppUI</b></a></td>
-<td align="right"><b>511</b></td>
-<td align="right">147</td>
+<td><img src="https://github.com/JideGuru.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JideGuru/FlutterFoodybite"><b>JideGuru/FlutterFoodybite</b></a><br><sub>Flutter representation of a Restaurant app UI.</sub></td>
+<td align="right"><b>1,717</b></td>
+<td align="right">477</td>
 <td>Dart</td>
 </tr>
 <tr>
 <td align="right">4</td>
-<td><img src="https://github.com/JideGuru.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JideGuru/FileX"><b>JideGuru/FileX</b></a> <sub>archived</sub></td>
-<td align="right"><b>477</b></td>
-<td align="right">123</td>
-<td>Dart</td>
-</tr>
-<tr>
-<td align="right">5</td>
 <td><img src="https://github.com/JideGuru.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JideGuru/flutter_drawing_board"><b>JideGuru/flutter&#95;drawing&#95;board</b></a></td>
 <td align="right"><b>341</b></td>
 <td align="right">96</td>
@@ -66,8 +59,8 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 341 stars; 5 attributed candidates are tracked.
-- 4 entries were carried over from the previous dataset and are pending revalidation.
+- **Cutoff:** the last listed repository has 341 stars; 4 attributed candidates are tracked.
+- 1 entries were carried over from the previous dataset and are pending revalidation.
 - **Location discovery:** term 0 of 86 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

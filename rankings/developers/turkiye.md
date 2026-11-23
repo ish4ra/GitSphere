@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **190** | 22 Nov 2026 | <a href="../../data/developers/TR.json">JSON</a> |
+| 🟡 Provisional | **282** | 22 Nov 2026 | <a href="../../data/developers/TR.json">JSON</a> |
 
 </div>
 
@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/helallao"><img src="https://avatars.githubusercontent.com/u/78656003?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/helallao"><b>Ali Yaşar</b></a><br><sub>&#64;helallao</sub></td>
-<td align="right"><b>17,540</b></td>
+<td align="right"><b>17,528</b></td>
 <td align="right">3</td>
 <td><sub>Adana, Turkey</sub></td>
 </tr>
@@ -52,7 +52,7 @@
 <tr>
 <td align="right">5</td>
 <td><a href="https://github.com/f"><img src="https://avatars.githubusercontent.com/u/196477?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/f"><b>Fatih Kadir Akın</b></a><br><sub>&#64;f</sub></td>
-<td align="right"><b>11,773</b></td>
+<td align="right"><b>11,774</b></td>
 <td align="right">313</td>
 <td><sub>Istanbul, Turkey</sub></td>
 </tr>
@@ -346,7 +346,7 @@
 <tr>
 <td align="right">47</td>
 <td><a href="https://github.com/mstrYoda"><img src="https://avatars.githubusercontent.com/u/12763626?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mstrYoda"><b>Emre Savcı</b></a><br><sub>&#64;mstrYoda</sub></td>
-<td align="right"><b>1,603</b></td>
+<td align="right"><b>1,602</b></td>
 <td align="right">119</td>
 <td><sub>Turkey</sub></td>
 </tr>
@@ -976,7 +976,7 @@
 <tr>
 <td align="right">137</td>
 <td><a href="https://github.com/reisxd"><img src="https://avatars.githubusercontent.com/u/29177546?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/reisxd"><b>Reis Can</b></a><br><sub>&#64;reisxd</sub></td>
-<td align="right"><b>682</b></td>
+<td align="right"><b>681</b></td>
 <td align="right">33</td>
 <td><sub>Turkey</sub></td>
 </tr>
@@ -1136,220 +1136,864 @@
 </tr>
 <tr>
 <td align="right">160</td>
-<td><a href="https://github.com/mertJF"><img src="https://avatars.githubusercontent.com/u/34642289?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mertJF"><b>Mert Cukuren</b></a><br><sub>&#64;mertJF</sub></td>
-<td align="right"><b>537</b></td>
-<td align="right">0</td>
-<td><sub>Turkey, İzmir</sub></td>
+<td><a href="https://github.com/cemdrk"><img src="https://avatars.githubusercontent.com/u/40267199?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cemdrk"><b>Cem DURAK</b></a><br><sub>&#64;cemdrk</sub></td>
+<td align="right"><b>559</b></td>
+<td align="right">122</td>
+<td><sub>Turkey</sub></td>
 </tr>
 <tr>
 <td align="right">161</td>
-<td><a href="https://github.com/arslanbilal"><img src="https://avatars.githubusercontent.com/u/5616595?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arslanbilal"><b>Bilal Arslan</b></a><br><sub>&#64;arslanbilal</sub></td>
-<td align="right"><b>530</b></td>
-<td align="right">0</td>
-<td><sub>Istanbul</sub></td>
+<td><a href="https://github.com/berkayvuran"><img src="https://avatars.githubusercontent.com/u/60464044?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/berkayvuran"><b>berkay Vuran</b></a><br><sub>&#64;berkayvuran</sub></td>
+<td align="right"><b>558</b></td>
+<td align="right">26</td>
+<td><sub>Ankara, Turkey</sub></td>
 </tr>
 <tr>
 <td align="right">162</td>
-<td><a href="https://github.com/alpkeskin"><img src="https://avatars.githubusercontent.com/u/49457057?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alpkeskin"><b>Alp</b></a><br><sub>&#64;alpkeskin</sub></td>
-<td align="right"><b>471</b></td>
-<td align="right">0</td>
-<td><sub>Turkey</sub></td>
+<td><a href="https://github.com/erkansirin78"><img src="https://avatars.githubusercontent.com/u/22098313?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/erkansirin78"><b>Erkan ŞİRİN</b></a><br><sub>&#64;erkansirin78</sub></td>
+<td align="right"><b>558</b></td>
+<td align="right">25</td>
+<td><sub>İstanbul</sub></td>
 </tr>
 <tr>
 <td align="right">163</td>
-<td><a href="https://github.com/ignis-sec"><img src="https://avatars.githubusercontent.com/u/16636092?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ignis-sec"><b>Ata Hakçıl</b></a><br><sub>&#64;ignis-sec</sub></td>
-<td align="right"><b>466</b></td>
-<td align="right">0</td>
-<td><sub>Turkey</sub></td>
+<td><a href="https://github.com/dribrahimfurkansarkim"><img src="https://avatars.githubusercontent.com/u/279401293?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dribrahimfurkansarkim"><b>İbrahim Furkan Sarkım</b></a><br><sub>&#64;dribrahimfurkansarkim</sub></td>
+<td align="right"><b>556</b></td>
+<td align="right">41</td>
+<td><sub>Turkiye</sub></td>
 </tr>
 <tr>
 <td align="right">164</td>
+<td><a href="https://github.com/yakintech"><img src="https://avatars.githubusercontent.com/u/16878108?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yakintech"><b>yakintech</b></a><br><sub>&#64;yakintech</sub></td>
+<td align="right"><b>551</b></td>
+<td align="right">326</td>
+<td><sub>İstanbul</sub></td>
+</tr>
+<tr>
+<td align="right">165</td>
+<td><a href="https://github.com/erkamesen"><img src="https://avatars.githubusercontent.com/u/120065120?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/erkamesen"><b>Erkam Esen</b></a><br><sub>&#64;erkamesen</sub></td>
+<td align="right"><b>551</b></td>
+<td align="right">46</td>
+<td><sub>Karabuk/Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">166</td>
+<td><a href="https://github.com/aliorhun"><img src="https://avatars.githubusercontent.com/u/260880?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aliorhun"><b>Ali Orhun Akkirman</b></a><br><sub>&#64;aliorhun</sub></td>
+<td align="right"><b>549</b></td>
+<td align="right">35</td>
+<td><sub>Ankara, Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">167</td>
+<td><a href="https://github.com/cemolcay"><img src="https://avatars.githubusercontent.com/u/2419578?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cemolcay"><b>Cem Olcay</b></a><br><sub>&#64;cemolcay</sub></td>
+<td align="right"><b>548</b></td>
+<td align="right">118</td>
+<td><sub>Istanbul</sub></td>
+</tr>
+<tr>
+<td align="right">168</td>
+<td><a href="https://github.com/BerattCelikk"><img src="https://avatars.githubusercontent.com/u/138959468?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BerattCelikk"><b>Berat Erol ÇELİK</b></a><br><sub>&#64;BerattCelikk</sub></td>
+<td align="right"><b>547</b></td>
+<td align="right">121</td>
+<td><sub>Istanbul, Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">169</td>
+<td><a href="https://github.com/ismcagdas"><img src="https://avatars.githubusercontent.com/u/4133525?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ismcagdas"><b>İsmail ÇAĞDAŞ</b></a><br><sub>&#64;ismcagdas</sub></td>
+<td align="right"><b>545</b></td>
+<td align="right">16</td>
+<td><sub>Istanbul, Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">170</td>
+<td><a href="https://github.com/ozaksuty"><img src="https://avatars.githubusercontent.com/u/11349626?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ozaksuty"><b>Yiğit</b></a><br><sub>&#64;ozaksuty</sub></td>
+<td align="right"><b>537</b></td>
+<td align="right">31</td>
+<td><sub>İstanbul</sub></td>
+</tr>
+<tr>
+<td align="right">171</td>
+<td><a href="https://github.com/mertJF"><img src="https://avatars.githubusercontent.com/u/34642289?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mertJF"><b>Mert Cukuren</b></a><br><sub>&#64;mertJF</sub></td>
+<td align="right"><b>537</b></td>
+<td align="right">4</td>
+<td><sub>Turkey, İzmir</sub></td>
+</tr>
+<tr>
+<td align="right">172</td>
+<td><a href="https://github.com/ozlerhakan"><img src="https://avatars.githubusercontent.com/u/1964927?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ozlerhakan"><b>Hakan Özler</b></a><br><sub>&#64;ozlerhakan</sub></td>
+<td align="right"><b>536</b></td>
+<td align="right">62</td>
+<td><sub>Izmir, Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">173</td>
+<td><a href="https://github.com/husamql3"><img src="https://avatars.githubusercontent.com/u/111576185?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/husamql3"><b>Hüsam</b></a><br><sub>&#64;husamql3</sub></td>
+<td align="right"><b>532</b></td>
+<td align="right">94</td>
+<td><sub>İstanbul, Türkiye</sub></td>
+</tr>
+<tr>
+<td align="right">174</td>
+<td><a href="https://github.com/BrkSe"><img src="https://avatars.githubusercontent.com/u/2557098?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BrkSe"><b>Burak Kutbay</b></a><br><sub>&#64;BrkSe</sub></td>
+<td align="right"><b>531</b></td>
+<td align="right">100</td>
+<td><sub>Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">175</td>
+<td><a href="https://github.com/baharucar"><img src="https://avatars.githubusercontent.com/u/74768752?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/baharucar"><b>Bahar Uçar</b></a><br><sub>&#64;baharucar</sub></td>
+<td align="right"><b>531</b></td>
+<td align="right">7</td>
+<td><sub>Istanbul/Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">176</td>
+<td><a href="https://github.com/arslanbilal"><img src="https://avatars.githubusercontent.com/u/5616595?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arslanbilal"><b>Bilal Arslan</b></a><br><sub>&#64;arslanbilal</sub></td>
+<td align="right"><b>530</b></td>
+<td align="right">15</td>
+<td><sub>Istanbul</sub></td>
+</tr>
+<tr>
+<td align="right">177</td>
+<td><a href="https://github.com/enderahmetyurt"><img src="https://avatars.githubusercontent.com/u/447588?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/enderahmetyurt"><b>Ender Ahmet Yurt</b></a><br><sub>&#64;enderahmetyurt</sub></td>
+<td align="right"><b>527</b></td>
+<td align="right">112</td>
+<td><sub>Ünye/Ordu/Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">178</td>
+<td><a href="https://github.com/hakanozer"><img src="https://avatars.githubusercontent.com/u/10389876?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hakanozer"><b>Hakan ÖZER</b></a><br><sub>&#64;hakanozer</sub></td>
+<td align="right"><b>526</b></td>
+<td align="right">119</td>
+<td><sub>İstanbul</sub></td>
+</tr>
+<tr>
+<td align="right">179</td>
+<td><a href="https://github.com/muffafa"><img src="https://avatars.githubusercontent.com/u/62511949?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/muffafa"><b>Muhammed Mustafa (muffafa) Savar</b></a><br><sub>&#64;muffafa</sub></td>
+<td align="right"><b>524</b></td>
+<td align="right">91</td>
+<td><sub>Adana, Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">180</td>
+<td><a href="https://github.com/ozgekaral"><img src="https://avatars.githubusercontent.com/u/83587786?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ozgekaral"><b>Özge Karalı</b></a><br><sub>&#64;ozgekaral</sub></td>
+<td align="right"><b>524</b></td>
+<td align="right">19</td>
+<td><sub>Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">181</td>
+<td><a href="https://github.com/fulyaertay"><img src="https://avatars.githubusercontent.com/u/56890438?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fulyaertay"><b>Fulya Ertay</b></a><br><sub>&#64;fulyaertay</sub></td>
+<td align="right"><b>523</b></td>
+<td align="right">85</td>
+<td><sub>İzmir, Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">182</td>
+<td><a href="https://github.com/alicaglayan"><img src="https://avatars.githubusercontent.com/u/5114628?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alicaglayan"><b>Ali İhsan ÇAĞLAYAN</b></a><br><sub>&#64;alicaglayan</sub></td>
+<td align="right"><b>517</b></td>
+<td align="right">17</td>
+<td><sub>İstanbul</sub></td>
+</tr>
+<tr>
+<td align="right">183</td>
+<td><a href="https://github.com/VonHumbolt"><img src="https://avatars.githubusercontent.com/u/79381882?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VonHumbolt"><b>Kaan Kaplan</b></a><br><sub>&#64;VonHumbolt</sub></td>
+<td align="right"><b>516</b></td>
+<td align="right">33</td>
+<td><sub>Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">184</td>
+<td><a href="https://github.com/ezranbayantemur"><img src="https://avatars.githubusercontent.com/u/42299721?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ezranbayantemur"><b>Ezran Bayantemur</b></a><br><sub>&#64;ezranbayantemur</sub></td>
+<td align="right"><b>514</b></td>
+<td align="right">19</td>
+<td><sub>İzmir, Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">185</td>
+<td><a href="https://github.com/aerdem4"><img src="https://avatars.githubusercontent.com/u/24624210?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aerdem4"><b>Ahmet Erdem</b></a><br><sub>&#64;aerdem4</sub></td>
+<td align="right"><b>511</b></td>
+<td align="right">22</td>
+<td><sub>Istanbul</sub></td>
+</tr>
+<tr>
+<td align="right">186</td>
+<td><a href="https://github.com/Gadaffi508"><img src="https://avatars.githubusercontent.com/u/121219831?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Gadaffi508"><b>Yusuf</b></a><br><sub>&#64;Gadaffi508</sub></td>
+<td align="right"><b>508</b></td>
+<td align="right">85</td>
+<td><sub>Türkiye, Samsun</sub></td>
+</tr>
+<tr>
+<td align="right">187</td>
+<td><a href="https://github.com/AltintoprakBeyza"><img src="https://avatars.githubusercontent.com/u/77847774?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AltintoprakBeyza"><b>Beyza Altıntoprak</b></a><br><sub>&#64;AltintoprakBeyza</sub></td>
+<td align="right"><b>498</b></td>
+<td align="right">22</td>
+<td><sub>Kocaeli,Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">188</td>
+<td><a href="https://github.com/gorkemsandikci"><img src="https://avatars.githubusercontent.com/u/88813223?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gorkemsandikci"><b>Gorkem Sandikci</b></a><br><sub>&#64;gorkemsandikci</sub></td>
+<td align="right"><b>497</b></td>
+<td align="right">53</td>
+<td><sub>Istanbul</sub></td>
+</tr>
+<tr>
+<td align="right">189</td>
+<td><a href="https://github.com/monatis"><img src="https://avatars.githubusercontent.com/u/18634956?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/monatis"><b>M. Yusuf Sarıgöz</b></a><br><sub>&#64;monatis</sub></td>
+<td align="right"><b>497</b></td>
+<td align="right">52</td>
+<td><sub>Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">190</td>
+<td><a href="https://github.com/pelinhangisi"><img src="https://avatars.githubusercontent.com/u/96151920?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pelinhangisi"><b>Pelin Hangişi</b></a><br><sub>&#64;pelinhangisi</sub></td>
+<td align="right"><b>497</b></td>
+<td align="right">20</td>
+<td><sub>Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">191</td>
+<td><a href="https://github.com/melihbodur"><img src="https://avatars.githubusercontent.com/u/75432070?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/melihbodur"><b>Melih Bodur</b></a><br><sub>&#64;melihbodur</sub></td>
+<td align="right"><b>497</b></td>
+<td align="right">11</td>
+<td><sub>İstanbul</sub></td>
+</tr>
+<tr>
+<td align="right">192</td>
+<td><a href="https://github.com/alerque"><img src="https://avatars.githubusercontent.com/u/173595?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alerque"><b>Caleb Maclennan</b></a><br><sub>&#64;alerque</sub></td>
+<td align="right"><b>494</b></td>
+<td align="right">551</td>
+<td><sub>İzmir, Türkiye</sub></td>
+</tr>
+<tr>
+<td align="right">193</td>
+<td><a href="https://github.com/ahmetaa"><img src="https://avatars.githubusercontent.com/u/2437047?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahmetaa"><b>Ahmet A. Akın</b></a><br><sub>&#64;ahmetaa</sub></td>
+<td align="right"><b>494</b></td>
+<td align="right">35</td>
+<td><sub>Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">194</td>
+<td><a href="https://github.com/ademduran"><img src="https://avatars.githubusercontent.com/u/96865261?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ademduran"><b>Adem Duran</b></a><br><sub>&#64;ademduran</sub></td>
+<td align="right"><b>485</b></td>
+<td align="right">7</td>
+<td><sub>Türkiye, Ankara</sub></td>
+</tr>
+<tr>
+<td align="right">195</td>
+<td><a href="https://github.com/SelimEminoglu61"><img src="https://avatars.githubusercontent.com/u/56717476?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SelimEminoglu61"><b>Selim Eminoğlu</b></a><br><sub>&#64;SelimEminoglu61</sub></td>
+<td align="right"><b>483</b></td>
+<td align="right">22</td>
+<td><sub>İzmir,Torbalı</sub></td>
+</tr>
+<tr>
+<td align="right">196</td>
+<td><a href="https://github.com/burakberber"><img src="https://avatars.githubusercontent.com/u/25597808?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/burakberber"><b>Burak Berber</b></a><br><sub>&#64;burakberber</sub></td>
+<td align="right"><b>481</b></td>
+<td align="right">13</td>
+<td><sub>izmir</sub></td>
+</tr>
+<tr>
+<td align="right">197</td>
+<td><a href="https://github.com/SELIMCNR"><img src="https://avatars.githubusercontent.com/u/90525336?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SELIMCNR"><b>Selim Çınar</b></a><br><sub>&#64;SELIMCNR</sub></td>
+<td align="right"><b>480</b></td>
+<td align="right">352</td>
+<td><sub>Kahramanmaraş/Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">198</td>
+<td><a href="https://github.com/waroi"><img src="https://avatars.githubusercontent.com/u/3173292?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/waroi"><b>Varol Maksutoğlu</b></a><br><sub>&#64;waroi</sub></td>
+<td align="right"><b>480</b></td>
+<td align="right">88</td>
+<td><sub>İstanbul</sub></td>
+</tr>
+<tr>
+<td align="right">199</td>
+<td><a href="https://github.com/mq1n"><img src="https://avatars.githubusercontent.com/u/22681718?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mq1n"><b>Koray</b></a><br><sub>&#64;mq1n</sub></td>
+<td align="right"><b>479</b></td>
+<td align="right">54</td>
+<td><sub>Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">200</td>
+<td><a href="https://github.com/zinkxx"><img src="https://avatars.githubusercontent.com/u/129689978?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zinkxx"><b>Said Kaya</b></a><br><sub>&#64;zinkxx</sub></td>
+<td align="right"><b>479</b></td>
+<td align="right">27</td>
+<td><sub>Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">201</td>
+<td><a href="https://github.com/a0m0rajab"><img src="https://avatars.githubusercontent.com/u/18273833?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/a0m0rajab"><b>Abdurrahman Rajab</b></a><br><sub>&#64;a0m0rajab</sub></td>
+<td align="right"><b>475</b></td>
+<td align="right">191</td>
+<td><sub>Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">202</td>
+<td><a href="https://github.com/alpkeskin"><img src="https://avatars.githubusercontent.com/u/49457057?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alpkeskin"><b>Alp</b></a><br><sub>&#64;alpkeskin</sub></td>
+<td align="right"><b>471</b></td>
+<td align="right">22</td>
+<td><sub>Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">203</td>
+<td><a href="https://github.com/meyusufdemirci"><img src="https://avatars.githubusercontent.com/u/15861353?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/meyusufdemirci"><b>Yusuf Demirci</b></a><br><sub>&#64;meyusufdemirci</sub></td>
+<td align="right"><b>470</b></td>
+<td align="right">25</td>
+<td><sub>Istanbul, Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">204</td>
+<td><a href="https://github.com/onuratakan"><img src="https://avatars.githubusercontent.com/u/41792982?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/onuratakan"><b>Onur ULUSOY</b></a><br><sub>&#64;onuratakan</sub></td>
+<td align="right"><b>469</b></td>
+<td align="right">711</td>
+<td><sub>Istanbul</sub></td>
+</tr>
+<tr>
+<td align="right">205</td>
+<td><a href="https://github.com/ramazansancar"><img src="https://avatars.githubusercontent.com/u/8878055?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ramazansancar"><b>Ramazan Sancar</b></a><br><sub>&#64;ramazansancar</sub></td>
+<td align="right"><b>469</b></td>
+<td align="right">357</td>
+<td><sub>Manisa, Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">206</td>
+<td><a href="https://github.com/kalismeras61"><img src="https://avatars.githubusercontent.com/u/246747?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kalismeras61"><b>Yasin ilhan</b></a><br><sub>&#64;kalismeras61</sub></td>
+<td align="right"><b>466</b></td>
+<td align="right">123</td>
+<td><sub>Istanbul</sub></td>
+</tr>
+<tr>
+<td align="right">207</td>
+<td><a href="https://github.com/ignis-sec"><img src="https://avatars.githubusercontent.com/u/16636092?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ignis-sec"><b>Ata Hakçıl</b></a><br><sub>&#64;ignis-sec</sub></td>
+<td align="right"><b>466</b></td>
+<td align="right">58</td>
+<td><sub>Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">208</td>
+<td><a href="https://github.com/3nesdeniz"><img src="https://avatars.githubusercontent.com/u/142517728?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/3nesdeniz"><b>Enes Deniz</b></a><br><sub>&#64;3nesdeniz</sub></td>
+<td align="right"><b>466</b></td>
+<td align="right">43</td>
+<td><sub>Türkiye</sub></td>
+</tr>
+<tr>
+<td align="right">209</td>
+<td><a href="https://github.com/besimaltnok"><img src="https://avatars.githubusercontent.com/u/4296962?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/besimaltnok"><b>Besim ALTINOK</b></a><br><sub>&#64;besimaltnok</sub></td>
+<td align="right"><b>463</b></td>
+<td align="right">83</td>
+<td><sub>Ankara</sub></td>
+</tr>
+<tr>
+<td align="right">210</td>
+<td><a href="https://github.com/ugurarici"><img src="https://avatars.githubusercontent.com/u/3079639?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ugurarici"><b>Uğur Arıcı</b></a><br><sub>&#64;ugurarici</sub></td>
+<td align="right"><b>462</b></td>
+<td align="right">63</td>
+<td><sub>İstanbul, Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">211</td>
+<td><a href="https://github.com/canbula"><img src="https://avatars.githubusercontent.com/u/5307181?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/canbula"><b>Bora Canbula</b></a><br><sub>&#64;canbula</sub></td>
+<td align="right"><b>460</b></td>
+<td align="right">33</td>
+<td><sub>Manisa, Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">212</td>
+<td><a href="https://github.com/EnginKARATAS"><img src="https://avatars.githubusercontent.com/u/43602725?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EnginKARATAS"><b>Engin Karataş</b></a><br><sub>&#64;EnginKARATAS</sub></td>
+<td align="right"><b>455</b></td>
+<td align="right">120</td>
+<td><sub>Gebze, Kocaeli, Turkiye</sub></td>
+</tr>
+<tr>
+<td align="right">213</td>
+<td><a href="https://github.com/alikoker"><img src="https://avatars.githubusercontent.com/u/3333453?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alikoker"><b>Muhammet Ali Köker</b></a><br><sub>&#64;alikoker</sub></td>
+<td align="right"><b>455</b></td>
+<td align="right">23</td>
+<td><sub>Ankara, Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">214</td>
+<td><a href="https://github.com/enespolat25"><img src="https://avatars.githubusercontent.com/u/37534266?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/enespolat25"><b>Enes Polat</b></a><br><sub>&#64;enespolat25</sub></td>
+<td align="right"><b>452</b></td>
+<td align="right">341</td>
+<td><sub>Erzurum</sub></td>
+</tr>
+<tr>
+<td align="right">215</td>
+<td><a href="https://github.com/jonhealy1"><img src="https://avatars.githubusercontent.com/u/19381236?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jonhealy1"><b>Jonathan Healy</b></a><br><sub>&#64;jonhealy1</sub></td>
+<td align="right"><b>451</b></td>
+<td align="right">91</td>
+<td><sub>Antalya</sub></td>
+</tr>
+<tr>
+<td align="right">216</td>
+<td><a href="https://github.com/mkiziltay"><img src="https://avatars.githubusercontent.com/u/85419797?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mkiziltay"><b>Mustafa KIZILTAY</b></a><br><sub>&#64;mkiziltay</sub></td>
+<td align="right"><b>448</b></td>
+<td align="right">44</td>
+<td><sub>Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">217</td>
+<td><a href="https://github.com/nuranferhan"><img src="https://avatars.githubusercontent.com/u/180338337?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nuranferhan"><b>Ferhan</b></a><br><sub>&#64;nuranferhan</sub></td>
+<td align="right"><b>447</b></td>
+<td align="right">37</td>
+<td><sub>Istanbul, Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">218</td>
+<td><a href="https://github.com/utkuali"><img src="https://avatars.githubusercontent.com/u/57073765?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/utkuali"><b>utkuali</b></a><br><sub>&#64;utkuali</sub></td>
+<td align="right"><b>444</b></td>
+<td align="right">26</td>
+<td><sub>Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">219</td>
+<td><a href="https://github.com/sinanurun"><img src="https://avatars.githubusercontent.com/u/16632800?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sinanurun"><b>Sinan URUN</b></a><br><sub>&#64;sinanurun</sub></td>
+<td align="right"><b>443</b></td>
+<td align="right">90</td>
+<td><sub>izmir</sub></td>
+</tr>
+<tr>
+<td align="right">220</td>
+<td><a href="https://github.com/enesbayyram"><img src="https://avatars.githubusercontent.com/u/81428286?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/enesbayyram"><b>Enes Bayram</b></a><br><sub>&#64;enesbayyram</sub></td>
+<td align="right"><b>437</b></td>
+<td align="right">23</td>
+<td><sub>İstanbul</sub></td>
+</tr>
+<tr>
+<td align="right">221</td>
+<td><a href="https://github.com/Mariam-amhan"><img src="https://avatars.githubusercontent.com/u/198496532?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mariam-amhan"><b>Mariam Amhan</b></a><br><sub>&#64;Mariam-amhan</sub></td>
+<td align="right"><b>437</b></td>
+<td align="right">5</td>
+<td><sub>Mersin, Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">222</td>
+<td><a href="https://github.com/okannako"><img src="https://avatars.githubusercontent.com/u/73176377?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/okannako"><b>NakoTurk</b></a><br><sub>&#64;okannako</sub></td>
+<td align="right"><b>434</b></td>
+<td align="right">132</td>
+<td><sub>Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">223</td>
+<td><a href="https://github.com/ihsandagci"><img src="https://avatars.githubusercontent.com/u/67709028?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ihsandagci"><b>İHSAN DAĞCI</b></a><br><sub>&#64;ihsandagci</sub></td>
+<td align="right"><b>434</b></td>
+<td align="right">1</td>
+<td><sub>ÇORUM TURKEY</sub></td>
+</tr>
+<tr>
+<td align="right">224</td>
+<td><a href="https://github.com/hwpplayer1"><img src="https://avatars.githubusercontent.com/u/9614451?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hwpplayer1"><b>Mert Gör 🇹🇷🦋☝</b></a><br><sub>&#64;hwpplayer1</sub></td>
+<td align="right"><b>431</b></td>
+<td align="right">116</td>
+<td><sub>İstanbul , Türkiye</sub></td>
+</tr>
+<tr>
+<td align="right">225</td>
+<td><a href="https://github.com/roktas"><img src="https://avatars.githubusercontent.com/u/47842?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/roktas"><b>Recai Oktaş</b></a><br><sub>&#64;roktas</sub></td>
+<td align="right"><b>430</b></td>
+<td align="right">35</td>
+<td><sub>Türkiye</sub></td>
+</tr>
+<tr>
+<td align="right">226</td>
+<td><a href="https://github.com/barissaslan"><img src="https://avatars.githubusercontent.com/u/16521421?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/barissaslan"><b>Barış Aslan</b></a><br><sub>&#64;barissaslan</sub></td>
+<td align="right"><b>428</b></td>
+<td align="right">33</td>
+<td><sub>Istanbul</sub></td>
+</tr>
+<tr>
+<td align="right">227</td>
+<td><a href="https://github.com/muratkazma0"><img src="https://avatars.githubusercontent.com/u/154098001?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/muratkazma0"><b>Murat Kazma</b></a><br><sub>&#64;muratkazma0</sub></td>
+<td align="right"><b>428</b></td>
+<td align="right">23</td>
+<td><sub>Istanbul</sub></td>
+</tr>
+<tr>
+<td align="right">228</td>
+<td><a href="https://github.com/the-teacher"><img src="https://avatars.githubusercontent.com/u/496713?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/the-teacher"><b>Ilya N. Zykin</b></a><br><sub>&#64;the-teacher</sub></td>
+<td align="right"><b>427</b></td>
+<td align="right">48</td>
+<td><sub>Istanbul</sub></td>
+</tr>
+<tr>
+<td align="right">229</td>
+<td><a href="https://github.com/mgmetehan"><img src="https://avatars.githubusercontent.com/u/41691766?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mgmetehan"><b>Metehan Gültekin</b></a><br><sub>&#64;mgmetehan</sub></td>
+<td align="right"><b>425</b></td>
+<td align="right">83</td>
+<td><sub>Istanbul</sub></td>
+</tr>
+<tr>
+<td align="right">230</td>
+<td><a href="https://github.com/delirehberi"><img src="https://avatars.githubusercontent.com/u/803964?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/delirehberi"><b>Emre YILMAZ</b></a><br><sub>&#64;delirehberi</sub></td>
+<td align="right"><b>425</b></td>
+<td align="right">54</td>
+<td><sub>Izmir, Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">231</td>
+<td><a href="https://github.com/Ardakilic"><img src="https://avatars.githubusercontent.com/u/2063957?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ardakilic"><b>Arda Kılıçdağı</b></a><br><sub>&#64;Ardakilic</sub></td>
+<td align="right"><b>424</b></td>
+<td align="right">191</td>
+<td><sub>Istanbul</sub></td>
+</tr>
+<tr>
+<td align="right">232</td>
+<td><a href="https://github.com/enestoy"><img src="https://avatars.githubusercontent.com/u/79420918?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/enestoy"><b>enes</b></a><br><sub>&#64;enestoy</sub></td>
+<td align="right"><b>424</b></td>
+<td align="right">76</td>
+<td><sub>Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">233</td>
+<td><a href="https://github.com/hootanht"><img src="https://avatars.githubusercontent.com/u/27281206?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hootanht"><b>Hootan Hemmati</b></a><br><sub>&#64;hootanht</sub></td>
+<td align="right"><b>423</b></td>
+<td align="right">113</td>
+<td><sub>kutahya</sub></td>
+</tr>
+<tr>
+<td align="right">234</td>
+<td><a href="https://github.com/sercaneraslan"><img src="https://avatars.githubusercontent.com/u/330566?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sercaneraslan"><b>Sercan Eraslan</b></a><br><sub>&#64;sercaneraslan</sub></td>
+<td align="right"><b>423</b></td>
+<td align="right">19</td>
+<td><sub>Istanbul / Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">235</td>
+<td><a href="https://github.com/Adem68"><img src="https://avatars.githubusercontent.com/u/21019611?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Adem68"><b>Adem Özcan</b></a><br><sub>&#64;Adem68</sub></td>
+<td align="right"><b>421</b></td>
+<td align="right">20</td>
+<td><sub>Istanbul, Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">236</td>
+<td><a href="https://github.com/nisaefendioglu"><img src="https://avatars.githubusercontent.com/u/48391281?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nisaefendioglu"><b>Nisa Efendioğlu</b></a><br><sub>&#64;nisaefendioglu</sub></td>
+<td align="right"><b>420</b></td>
+<td align="right">61</td>
+<td><sub>Istanbul, Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">237</td>
+<td><a href="https://github.com/fuatkina"><img src="https://avatars.githubusercontent.com/u/47318027?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fuatkina"><b>M. Fuat Kına</b></a><br><sub>&#64;fuatkina</sub></td>
+<td align="right"><b>420</b></td>
+<td align="right">19</td>
+<td><sub>İstanbul</sub></td>
+</tr>
+<tr>
+<td align="right">238</td>
+<td><a href="https://github.com/mesutpiskin"><img src="https://avatars.githubusercontent.com/u/3519662?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mesutpiskin"><b>Mesut Pişkin</b></a><br><sub>&#64;mesutpiskin</sub></td>
+<td align="right"><b>416</b></td>
+<td align="right">42</td>
+<td><sub>Istanbul</sub></td>
+</tr>
+<tr>
+<td align="right">239</td>
+<td><a href="https://github.com/AlicanAkkus"><img src="https://avatars.githubusercontent.com/u/6232654?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlicanAkkus"><b>Alican Akkuş</b></a><br><sub>&#64;AlicanAkkus</sub></td>
+<td align="right"><b>414</b></td>
+<td align="right">166</td>
+<td><sub>Istanbul</sub></td>
+</tr>
+<tr>
+<td align="right">240</td>
+<td><a href="https://github.com/furkanevin"><img src="https://avatars.githubusercontent.com/u/109925130?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/furkanevin"><b>Furkan Evin</b></a><br><sub>&#64;furkanevin</sub></td>
+<td align="right"><b>412</b></td>
+<td align="right">68</td>
+<td><sub>İzmir</sub></td>
+</tr>
+<tr>
+<td align="right">241</td>
+<td><a href="https://github.com/ezgiturali"><img src="https://avatars.githubusercontent.com/u/59027030?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ezgiturali"><b>Ezgi Turalı</b></a><br><sub>&#64;ezgiturali</sub></td>
+<td align="right"><b>412</b></td>
+<td align="right">14</td>
+<td><sub>Istanbul, Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">242</td>
+<td><a href="https://github.com/stalhakaradayi"><img src="https://avatars.githubusercontent.com/u/77502778?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stalhakaradayi"><b>Şükrü Talha Karadayı</b></a><br><sub>&#64;stalhakaradayi</sub></td>
+<td align="right"><b>411</b></td>
+<td align="right">7</td>
+<td><sub>İstanbul</sub></td>
+</tr>
+<tr>
+<td align="right">243</td>
 <td><a href="https://github.com/Taiizor"><img src="https://avatars.githubusercontent.com/u/41683699?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Taiizor"><b>Taiizor</b></a><br><sub>&#64;Taiizor</sub></td>
 <td align="right"><b>336</b></td>
 <td align="right">0</td>
 <td><sub>Turkey</sub></td>
 </tr>
 <tr>
-<td align="right">165</td>
+<td align="right">244</td>
 <td><a href="https://github.com/frknkrc44"><img src="https://avatars.githubusercontent.com/u/45714956?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/frknkrc44"><b>Furkan Karcıoğlu</b></a><br><sub>&#64;frknkrc44</sub></td>
 <td align="right"><b>335</b></td>
 <td align="right">0</td>
 <td><sub>Türkiye</sub></td>
 </tr>
 <tr>
-<td align="right">166</td>
+<td align="right">245</td>
+<td><a href="https://github.com/Cutta"><img src="https://avatars.githubusercontent.com/u/6698793?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Cutta"><b>Cüneyt Çarıkçi</b></a><br><sub>&#64;Cutta</sub></td>
+<td align="right"><b>324</b></td>
+<td align="right">0</td>
+<td><sub>Ankara</sub></td>
+</tr>
+<tr>
+<td align="right">246</td>
+<td><a href="https://github.com/smkplus"><img src="https://avatars.githubusercontent.com/u/16706911?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/smkplus"><b>Seyed Morteza Kamali</b></a><br><sub>&#64;smkplus</sub></td>
+<td align="right"><b>324</b></td>
+<td align="right">0</td>
+<td><sub>Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">247</td>
 <td><a href="https://github.com/sarperavci"><img src="https://avatars.githubusercontent.com/u/50243344?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sarperavci"><b>Sarper AVCI</b></a><br><sub>&#64;sarperavci</sub></td>
 <td align="right"><b>320</b></td>
 <td align="right">0</td>
 <td><sub>Ankara, Turkey</sub></td>
 </tr>
 <tr>
-<td align="right">167</td>
+<td align="right">248</td>
 <td><a href="https://github.com/hasaneyldrm"><img src="https://avatars.githubusercontent.com/u/28005450?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hasaneyldrm"><b>Hasan Emir Yıldırım</b></a><br><sub>&#64;hasaneyldrm</sub></td>
 <td align="right"><b>309</b></td>
 <td align="right">0</td>
 <td><sub>Istanbul</sub></td>
 </tr>
 <tr>
-<td align="right">168</td>
+<td align="right">249</td>
+<td><a href="https://github.com/onokumus"><img src="https://avatars.githubusercontent.com/u/742498?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/onokumus"><b>Osman Nuri Okumuş</b></a><br><sub>&#64;onokumus</sub></td>
+<td align="right"><b>305</b></td>
+<td align="right">0</td>
+<td><sub>Kutahya, Kütahya, Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">250</td>
 <td><a href="https://github.com/hsnaydd"><img src="https://avatars.githubusercontent.com/u/2880893?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hsnaydd"><b>Hasan Aydoğdu</b></a><br><sub>&#64;hsnaydd</sub></td>
 <td align="right"><b>300</b></td>
 <td align="right">0</td>
 <td><sub>İzmir, Turkey</sub></td>
 </tr>
 <tr>
-<td align="right">169</td>
+<td align="right">251</td>
 <td><a href="https://github.com/agmmnn"><img src="https://avatars.githubusercontent.com/u/16024979?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/agmmnn"><b>Gökçe</b></a><br><sub>&#64;agmmnn</sub></td>
 <td align="right"><b>296</b></td>
 <td align="right">0</td>
 <td><sub>Ankara</sub></td>
 </tr>
 <tr>
-<td align="right">170</td>
+<td align="right">252</td>
 <td><a href="https://github.com/mbrn"><img src="https://avatars.githubusercontent.com/u/7895451?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mbrn"><b>Mehmet Baran</b></a><br><sub>&#64;mbrn</sub></td>
 <td align="right"><b>289</b></td>
 <td align="right">0</td>
 <td><sub>Istanbul, Turkey</sub></td>
 </tr>
 <tr>
-<td align="right">171</td>
+<td align="right">253</td>
 <td><a href="https://github.com/gokcehan"><img src="https://avatars.githubusercontent.com/u/1835672?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gokcehan"><b>Gökçehan Kara</b></a><br><sub>&#64;gokcehan</sub></td>
 <td align="right"><b>258</b></td>
 <td align="right">0</td>
 <td><sub>Istanbul, Turkey</sub></td>
 </tr>
 <tr>
-<td align="right">172</td>
+<td align="right">254</td>
 <td><a href="https://github.com/xdan"><img src="https://avatars.githubusercontent.com/u/794318?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xdan"><b>Valerii</b></a><br><sub>&#64;xdan</sub></td>
 <td align="right"><b>254</b></td>
 <td align="right">0</td>
 <td><sub>Turkey, Manavgat</sub></td>
 </tr>
 <tr>
-<td align="right">173</td>
+<td align="right">255</td>
+<td><a href="https://github.com/ycd"><img src="https://avatars.githubusercontent.com/u/62724709?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ycd"><b>Yagiz Degirmenci</b></a><br><sub>&#64;ycd</sub></td>
+<td align="right"><b>254</b></td>
+<td align="right">0</td>
+<td><sub>Istanbul, Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">256</td>
 <td><a href="https://github.com/gurayyarar"><img src="https://avatars.githubusercontent.com/u/8344559?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gurayyarar"><b>Güray Yarar</b></a><br><sub>&#64;gurayyarar</sub></td>
 <td align="right"><b>252</b></td>
 <td align="right">0</td>
 <td><sub>Antalya</sub></td>
 </tr>
 <tr>
-<td align="right">174</td>
+<td align="right">257</td>
+<td><a href="https://github.com/cyweb"><img src="https://avatars.githubusercontent.com/u/6407261?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cyweb"><b>Can Yalçın</b></a><br><sub>&#64;cyweb</sub></td>
+<td align="right"><b>249</b></td>
+<td align="right">0</td>
+<td><sub>Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">258</td>
 <td><a href="https://github.com/mewebstudio"><img src="https://avatars.githubusercontent.com/u/2125733?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mewebstudio"><b>MeWebStudio - Muharrem ERİN</b></a><br><sub>&#64;mewebstudio</sub></td>
 <td align="right"><b>246</b></td>
 <td align="right">0</td>
 <td><sub>Türkiye</sub></td>
 </tr>
 <tr>
-<td align="right">175</td>
+<td align="right">259</td>
 <td><a href="https://github.com/atilaahmettaner"><img src="https://avatars.githubusercontent.com/u/67838093?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/atilaahmettaner"><b>Ahmet Taner Atila</b></a><br><sub>&#64;atilaahmettaner</sub></td>
 <td align="right"><b>233</b></td>
 <td align="right">0</td>
 <td><sub>Turkey</sub></td>
 </tr>
 <tr>
-<td align="right">176</td>
+<td align="right">260</td>
+<td><a href="https://github.com/faruktoptas"><img src="https://avatars.githubusercontent.com/u/1595227?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/faruktoptas"><b>Faruk Toptaş</b></a><br><sub>&#64;faruktoptas</sub></td>
+<td align="right"><b>223</b></td>
+<td align="right">0</td>
+<td><sub>Istanbul</sub></td>
+</tr>
+<tr>
+<td align="right">261</td>
 <td><a href="https://github.com/korcankaraokcu"><img src="https://avatars.githubusercontent.com/u/5638719?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/korcankaraokcu"><b>Korcan Karaokçu</b></a><br><sub>&#64;korcankaraokcu</sub></td>
 <td align="right"><b>222</b></td>
 <td align="right">0</td>
 <td><sub>Çanakkale, Turkey</sub></td>
 </tr>
 <tr>
-<td align="right">177</td>
+<td align="right">262</td>
 <td><a href="https://github.com/erkamyaman"><img src="https://avatars.githubusercontent.com/u/88717125?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/erkamyaman"><b>erKam</b></a><br><sub>&#64;erkamyaman</sub></td>
 <td align="right"><b>219</b></td>
 <td align="right">0</td>
 <td><sub>Istanbul 🇹🇷</sub></td>
 </tr>
 <tr>
-<td align="right">178</td>
+<td align="right">263</td>
 <td><a href="https://github.com/halilb"><img src="https://avatars.githubusercontent.com/u/2227041?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/halilb"><b>Halil Bilir</b></a><br><sub>&#64;halilb</sub></td>
 <td align="right"><b>217</b></td>
 <td align="right">0</td>
 <td><sub>Mersin, Turkey</sub></td>
 </tr>
 <tr>
-<td align="right">179</td>
+<td align="right">264</td>
 <td><a href="https://github.com/onury"><img src="https://avatars.githubusercontent.com/u/3665990?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/onury"><b>Onur Yıldırım</b></a><br><sub>&#64;onury</sub></td>
 <td align="right"><b>208</b></td>
 <td align="right">0</td>
 <td><sub>İstanbul, Turkey</sub></td>
 </tr>
 <tr>
-<td align="right">180</td>
+<td align="right">265</td>
 <td><a href="https://github.com/owerdogan"><img src="https://avatars.githubusercontent.com/u/59175356?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/owerdogan"><b>Ömer Doğan</b></a><br><sub>&#64;owerdogan</sub></td>
 <td align="right"><b>207</b></td>
 <td align="right">0</td>
 <td><sub>Turkey</sub></td>
 </tr>
 <tr>
-<td align="right">181</td>
+<td align="right">266</td>
+<td><a href="https://github.com/ozgrozer"><img src="https://avatars.githubusercontent.com/u/651938?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ozgrozer"><b>Ozgur Ozer</b></a><br><sub>&#64;ozgrozer</sub></td>
+<td align="right"><b>201</b></td>
+<td align="right">0</td>
+<td><sub>Antalya, Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">267</td>
 <td><a href="https://github.com/bisguzar"><img src="https://avatars.githubusercontent.com/u/8844753?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bisguzar"><b>buğra</b></a><br><sub>&#64;bisguzar</sub></td>
 <td align="right"><b>154</b></td>
 <td align="right">0</td>
 <td><sub>Turkey/Istanbul</sub></td>
 </tr>
 <tr>
-<td align="right">182</td>
+<td align="right">268</td>
+<td><a href="https://github.com/kutlugsahin"><img src="https://avatars.githubusercontent.com/u/4080691?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kutlugsahin"><b>Kutlu Sahin</b></a><br><sub>&#64;kutlugsahin</sub></td>
+<td align="right"><b>145</b></td>
+<td align="right">0</td>
+<td><sub>Ankara</sub></td>
+</tr>
+<tr>
+<td align="right">269</td>
+<td><a href="https://github.com/sumerc"><img src="https://avatars.githubusercontent.com/u/136531?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sumerc"><b>Sümer Cip</b></a><br><sub>&#64;sumerc</sub></td>
+<td align="right"><b>130</b></td>
+<td align="right">0</td>
+<td><sub>Istanbul</sub></td>
+</tr>
+<tr>
+<td align="right">270</td>
+<td><a href="https://github.com/turkenh"><img src="https://avatars.githubusercontent.com/u/9900707?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/turkenh"><b>Hasan Turken</b></a><br><sub>&#64;turkenh</sub></td>
+<td align="right"><b>117</b></td>
+<td align="right">0</td>
+<td><sub>istanbul</sub></td>
+</tr>
+<tr>
+<td align="right">271</td>
 <td><a href="https://github.com/amorey"><img src="https://avatars.githubusercontent.com/u/75881?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amorey"><b>Andres Morey</b></a><br><sub>&#64;amorey</sub></td>
 <td align="right"><b>116</b></td>
 <td align="right">0</td>
 <td><sub>Istanbul, Turkey</sub></td>
 </tr>
 <tr>
-<td align="right">183</td>
+<td align="right">272</td>
 <td><a href="https://github.com/tezc"><img src="https://avatars.githubusercontent.com/u/17865367?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tezc"><b>Ozan Tezcan</b></a><br><sub>&#64;tezc</sub></td>
 <td align="right"><b>114</b></td>
 <td align="right">0</td>
 <td><sub>Istanbul, Turkey</sub></td>
 </tr>
 <tr>
-<td align="right">184</td>
+<td align="right">273</td>
 <td><a href="https://github.com/ahmetbersoz"><img src="https://avatars.githubusercontent.com/u/5254173?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahmetbersoz"><b>Ahmet Ersoz</b></a><br><sub>&#64;ahmetbersoz</sub></td>
 <td align="right"><b>108</b></td>
 <td align="right">0</td>
 <td><sub>METU/Turkey</sub></td>
 </tr>
 <tr>
-<td align="right">185</td>
+<td align="right">274</td>
 <td><a href="https://github.com/sarpstar"><img src="https://avatars.githubusercontent.com/u/56429320?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sarpstar"><b>sarpstar</b></a><br><sub>&#64;sarpstar</sub></td>
 <td align="right"><b>93</b></td>
 <td align="right">0</td>
 <td><sub>Istanbul</sub></td>
 </tr>
 <tr>
-<td align="right">186</td>
+<td align="right">275</td>
 <td><a href="https://github.com/KhazP"><img src="https://avatars.githubusercontent.com/u/108902852?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KhazP"><b>Alp Yalay</b></a><br><sub>&#64;KhazP</sub></td>
 <td align="right"><b>80</b></td>
 <td align="right">0</td>
 <td><sub>Istanbul</sub></td>
 </tr>
 <tr>
-<td align="right">187</td>
+<td align="right">276</td>
 <td><a href="https://github.com/TolgaTatli"><img src="https://avatars.githubusercontent.com/u/70089207?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TolgaTatli"><b>Tolga Tatlı</b></a><br><sub>&#64;TolgaTatli</sub></td>
 <td align="right"><b>77</b></td>
 <td align="right">0</td>
 <td><sub>Ankara</sub></td>
 </tr>
 <tr>
-<td align="right">188</td>
+<td align="right">277</td>
+<td><a href="https://github.com/cancng"><img src="https://avatars.githubusercontent.com/u/13858549?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cancng"><b>Mahmut Can Çıngı</b></a><br><sub>&#64;cancng</sub></td>
+<td align="right"><b>67</b></td>
+<td align="right">0</td>
+<td><sub>Adana/Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">278</td>
 <td><a href="https://github.com/gkngkc"><img src="https://avatars.githubusercontent.com/u/4940008?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gkngkc"><b>Gökhan Gökçe</b></a><br><sub>&#64;gkngkc</sub></td>
 <td align="right"><b>60</b></td>
 <td align="right">0</td>
 <td><sub>Istanbul</sub></td>
 </tr>
 <tr>
-<td align="right">189</td>
+<td align="right">279</td>
 <td><a href="https://github.com/fixin0"><img src="https://avatars.githubusercontent.com/u/85369831?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fixin0"><b>Fixin</b></a><br><sub>&#64;fixin0</sub></td>
 <td align="right"><b>53</b></td>
 <td align="right">20</td>
 <td><sub>Istanbul, TR</sub></td>
 </tr>
 <tr>
-<td align="right">190</td>
+<td align="right">280</td>
+<td><a href="https://github.com/flyngmt"><img src="https://avatars.githubusercontent.com/u/266733517?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/flyngmt"><b>FlyingMeta</b></a><br><sub>&#64;flyngmt</sub></td>
+<td align="right"><b>33</b></td>
+<td align="right">0</td>
+<td><sub>Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">281</td>
 <td><a href="https://github.com/Tasshack"><img src="https://avatars.githubusercontent.com/u/19640547?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tasshack"><b>Tasshack</b></a><br><sub>&#64;Tasshack</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">0</td>
 <td><sub>Turkey</sub></td>
+</tr>
+<tr>
+<td align="right">282</td>
+<td><a href="https://github.com/ibrahimsn98"><img src="https://avatars.githubusercontent.com/u/9117082?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ibrahimsn98"><b>İbrahim Süren</b></a><br><sub>&#64;ibrahimsn98</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Ankara, Turkey</sub></td>
 </tr>
 </tbody>
 </table>
@@ -1359,7 +2003,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 190 attributed developers are tracked; the cutoff is 7 followers.
+- Organizations are excluded. 282 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **92** | 22 Nov 2026 | <a href="../../data/developers/PK.json">JSON</a> |
+| 🟡 Provisional | **143** | 22 Nov 2026 | <a href="../../data/developers/PK.json">JSON</a> |
 
 </div>
 
@@ -45,7 +45,7 @@
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/FareedKhan-dev"><img src="https://avatars.githubusercontent.com/u/63067900?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FareedKhan-dev"><b>Fareed Khan</b></a><br><sub>&#64;FareedKhan-dev</sub></td>
-<td align="right"><b>3,231</b></td>
+<td align="right"><b>3,234</b></td>
 <td align="right">193</td>
 <td><sub>Karachi, Pakistan</sub></td>
 </tr>
@@ -157,7 +157,7 @@
 <tr>
 <td align="right">20</td>
 <td><a href="https://github.com/evildevill"><img src="https://avatars.githubusercontent.com/u/66058079?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/evildevill"><b>Waseem Akram</b></a><br><sub>&#64;evildevill</sub></td>
-<td align="right"><b>1,332</b></td>
+<td align="right"><b>1,334</b></td>
 <td align="right">68</td>
 <td><sub>Pakistan</sub></td>
 </tr>
@@ -535,7 +535,7 @@
 <tr>
 <td align="right">74</td>
 <td><a href="https://github.com/ammarahm-ed"><img src="https://avatars.githubusercontent.com/u/40239442?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ammarahm-ed"><b>Ammar Ahmed</b></a><br><sub>&#64;ammarahm-ed</sub></td>
-<td align="right"><b>635</b></td>
+<td align="right"><b>634</b></td>
 <td align="right">136</td>
 <td><sub>Pakistan</sub></td>
 </tr>
@@ -639,27 +639,384 @@
 </tr>
 <tr>
 <td align="right">89</td>
-<td><a href="https://github.com/tkarim45"><img src="https://avatars.githubusercontent.com/u/86923612?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tkarim45"><b>Taimour Abdul Karim</b></a><br><sub>&#64;tkarim45</sub></td>
-<td align="right"><b>546</b></td>
-<td align="right">0</td>
-<td><sub>lahore</sub></td>
+<td><a href="https://github.com/SilentProgrammer-max"><img src="https://avatars.githubusercontent.com/u/193732801?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SilentProgrammer-max"><b>Takreem Ayesha</b></a><br><sub>&#64;SilentProgrammer-max</sub></td>
+<td align="right"><b>561</b></td>
+<td align="right">22</td>
+<td><sub>Pakistan</sub></td>
 </tr>
 <tr>
 <td align="right">90</td>
+<td><a href="https://github.com/BilalWaris2008"><img src="https://avatars.githubusercontent.com/u/234163531?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BilalWaris2008"><b>M.Bilal Waris</b></a><br><sub>&#64;BilalWaris2008</sub></td>
+<td align="right"><b>560</b></td>
+<td align="right">52</td>
+<td><sub>Karachi, Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><a href="https://github.com/uqutub"><img src="https://avatars.githubusercontent.com/u/12484707?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/uqutub"><b>Yousuf Qutubuddin</b></a><br><sub>&#64;uqutub</sub></td>
+<td align="right"><b>558</b></td>
+<td align="right">65</td>
+<td><sub>Karachi - Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><a href="https://github.com/Faizan-khan144"><img src="https://avatars.githubusercontent.com/u/212717009?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Faizan-khan144"><b>Muhammad Faizan Khan</b></a><br><sub>&#64;Faizan-khan144</sub></td>
+<td align="right"><b>554</b></td>
+<td align="right">50</td>
+<td><sub>Pakstan,karachi</sub></td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><a href="https://github.com/tkarim45"><img src="https://avatars.githubusercontent.com/u/86923612?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tkarim45"><b>Taimour Abdul Karim</b></a><br><sub>&#64;tkarim45</sub></td>
+<td align="right"><b>546</b></td>
+<td align="right">74</td>
+<td><sub>lahore</sub></td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><a href="https://github.com/imafzalakram"><img src="https://avatars.githubusercontent.com/u/77921765?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/imafzalakram"><b>Muhammad Afzal</b></a><br><sub>&#64;imafzalakram</sub></td>
+<td align="right"><b>546</b></td>
+<td align="right">13</td>
+<td><sub>Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><a href="https://github.com/fahadashiq12"><img src="https://avatars.githubusercontent.com/u/44393684?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fahadashiq12"><b>Fahad Ashiq ⚡</b></a><br><sub>&#64;fahadashiq12</sub></td>
+<td align="right"><b>539</b></td>
+<td align="right">194</td>
+<td><sub>Lahore, Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><a href="https://github.com/naveed-ahmad"><img src="https://avatars.githubusercontent.com/u/701567?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/naveed-ahmad"><b>Naveed Ahmad</b></a><br><sub>&#64;naveed-ahmad</sub></td>
+<td align="right"><b>536</b></td>
+<td align="right">261</td>
+<td><sub>Lahore,Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><a href="https://github.com/hash3liZer"><img src="https://avatars.githubusercontent.com/u/29171692?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hash3liZer"><b>Shameer Kashif (Shiri)</b></a><br><sub>&#64;hash3liZer</sub></td>
+<td align="right"><b>530</b></td>
+<td align="right">41</td>
+<td><sub>Islamabad, Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><a href="https://github.com/AKING110"><img src="https://avatars.githubusercontent.com/u/98144321?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AKING110"><b>IMTIAZ AKING</b></a><br><sub>&#64;AKING110</sub></td>
+<td align="right"><b>529</b></td>
+<td align="right">20</td>
+<td><sub>Sindh</sub></td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><a href="https://github.com/BazilSuhail"><img src="https://avatars.githubusercontent.com/u/129619936?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BazilSuhail"><b>Bazil Suhail</b></a><br><sub>&#64;BazilSuhail</sub></td>
+<td align="right"><b>523</b></td>
+<td align="right">62</td>
+<td><sub>Lahore, Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><a href="https://github.com/hasan-aftab"><img src="https://avatars.githubusercontent.com/u/105713976?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hasan-aftab"><b>Hasan Aftab</b></a><br><sub>&#64;hasan-aftab</sub></td>
+<td align="right"><b>514</b></td>
+<td align="right">9</td>
+<td><sub>Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">101</td>
+<td><a href="https://github.com/Muhammad-qureshi1"><img src="https://avatars.githubusercontent.com/u/186413565?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Muhammad-qureshi1"><b>&quot;Muhammad&quot;</b></a><br><sub>&#64;Muhammad-qureshi1</sub></td>
+<td align="right"><b>511</b></td>
+<td align="right">50</td>
+<td><sub>Karachi, Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">102</td>
+<td><a href="https://github.com/themaaz32"><img src="https://avatars.githubusercontent.com/u/50517157?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/themaaz32"><b>Maaz Aftab</b></a><br><sub>&#64;themaaz32</sub></td>
+<td align="right"><b>510</b></td>
+<td align="right">75</td>
+<td><sub>Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">103</td>
+<td><a href="https://github.com/ahmmikun"><img src="https://avatars.githubusercontent.com/u/140977479?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahmmikun"><b>Salman Ahmad</b></a><br><sub>&#64;ahmmikun</sub></td>
+<td align="right"><b>508</b></td>
+<td align="right">42</td>
+<td><sub>Lahore, Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">104</td>
+<td><a href="https://github.com/mianihtisham99"><img src="https://avatars.githubusercontent.com/u/222287760?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mianihtisham99"><b>Mian Ihtisham</b></a><br><sub>&#64;mianihtisham99</sub></td>
+<td align="right"><b>507</b></td>
+<td align="right">3</td>
+<td><sub>Faisalabad, Punjab, Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">105</td>
+<td><a href="https://github.com/commswithsaqlain"><img src="https://avatars.githubusercontent.com/u/129774784?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/commswithsaqlain"><b>M Saqlain</b></a><br><sub>&#64;commswithsaqlain</sub></td>
+<td align="right"><b>504</b></td>
+<td align="right">15</td>
+<td><sub>Lahore Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">106</td>
+<td><a href="https://github.com/JaffarAman"><img src="https://avatars.githubusercontent.com/u/65033254?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JaffarAman"><b>Jaffar Aman</b></a><br><sub>&#64;JaffarAman</sub></td>
+<td align="right"><b>503</b></td>
+<td align="right">150</td>
+<td><sub>Karachi</sub></td>
+</tr>
+<tr>
+<td align="right">107</td>
+<td><a href="https://github.com/daniyalnagori"><img src="https://avatars.githubusercontent.com/u/15701883?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/daniyalnagori"><b>Daniyal Nagori</b></a><br><sub>&#64;daniyalnagori</sub></td>
+<td align="right"><b>502</b></td>
+<td align="right">198</td>
+<td><sub>Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">108</td>
+<td><a href="https://github.com/mubaidr"><img src="https://avatars.githubusercontent.com/u/2222702?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mubaidr"><b>Muhammad Ubaid Raza</b></a><br><sub>&#64;mubaidr</sub></td>
+<td align="right"><b>498</b></td>
+<td align="right">528</td>
+<td><sub>Rawalpindi, Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">109</td>
+<td><a href="https://github.com/srehanuddin"><img src="https://avatars.githubusercontent.com/u/1668868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/srehanuddin"><b>Syed Rehanuddin</b></a><br><sub>&#64;srehanuddin</sub></td>
+<td align="right"><b>497</b></td>
+<td align="right">62</td>
+<td><sub>Karachi, Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">110</td>
+<td><a href="https://github.com/RameezRS16"><img src="https://avatars.githubusercontent.com/u/200852637?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RameezRS16"><b>Rameez Raja Soomro</b></a><br><sub>&#64;RameezRS16</sub></td>
+<td align="right"><b>496</b></td>
+<td align="right">2</td>
+<td><sub>karachi Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">111</td>
+<td><a href="https://github.com/mfurqaniftikhar"><img src="https://avatars.githubusercontent.com/u/213227825?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mfurqaniftikhar"><b>Muhammad furqan</b></a><br><sub>&#64;mfurqaniftikhar</sub></td>
+<td align="right"><b>487</b></td>
+<td align="right">60</td>
+<td><sub>Pakistan &#124; Karachi</sub></td>
+</tr>
+<tr>
+<td align="right">112</td>
+<td><a href="https://github.com/mafzaalwb01-dev"><img src="https://avatars.githubusercontent.com/u/276902642?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mafzaalwb01-dev"><b>Muhammad Afzaal Khan</b></a><br><sub>&#64;mafzaalwb01-dev</sub></td>
+<td align="right"><b>475</b></td>
+<td align="right">13</td>
+<td><sub>Pakistan , KPK , Nowshera</sub></td>
+</tr>
+<tr>
+<td align="right">113</td>
+<td><a href="https://github.com/jawwad-ali"><img src="https://avatars.githubusercontent.com/u/33836051?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jawwad-ali"><b>Ali jawwad</b></a><br><sub>&#64;jawwad-ali</sub></td>
+<td align="right"><b>474</b></td>
+<td align="right">46</td>
+<td><sub>Karachi, Pakistan 🇵🇰</sub></td>
+</tr>
+<tr>
+<td align="right">114</td>
+<td><a href="https://github.com/Rubix982"><img src="https://avatars.githubusercontent.com/u/41635766?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rubix982"><b>Saif Ul Islam</b></a><br><sub>&#64;Rubix982</sub></td>
+<td align="right"><b>468</b></td>
+<td align="right">285</td>
+<td><sub>Karachi</sub></td>
+</tr>
+<tr>
+<td align="right">115</td>
+<td><a href="https://github.com/Rashidkhan1234567"><img src="https://avatars.githubusercontent.com/u/156903496?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rashidkhan1234567"><b>RASHID KHAN</b></a><br><sub>&#64;Rashidkhan1234567</sub></td>
+<td align="right"><b>468</b></td>
+<td align="right">86</td>
+<td><sub>Karchi,Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">116</td>
+<td><a href="https://github.com/Gulshid"><img src="https://avatars.githubusercontent.com/u/168548952?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Gulshid"><b>Gulshid Zada</b></a><br><sub>&#64;Gulshid</sub></td>
+<td align="right"><b>464</b></td>
+<td align="right">95</td>
+<td><sub>Peshawar,Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">117</td>
+<td><a href="https://github.com/mtayyabrawan"><img src="https://avatars.githubusercontent.com/u/115396843?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mtayyabrawan"><b>Muhammad Tayyab</b></a><br><sub>&#64;mtayyabrawan</sub></td>
+<td align="right"><b>462</b></td>
+<td align="right">60</td>
+<td><sub>Islamabad, Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">118</td>
+<td><a href="https://github.com/mrsaeeddev"><img src="https://avatars.githubusercontent.com/u/17095740?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrsaeeddev"><b>Saeed Ahmad</b></a><br><sub>&#64;mrsaeeddev</sub></td>
+<td align="right"><b>455</b></td>
+<td align="right">204</td>
+<td><sub>Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">119</td>
+<td><a href="https://github.com/smkamranqadri"><img src="https://avatars.githubusercontent.com/u/13115396?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/smkamranqadri"><b>Kamran Qadri</b></a><br><sub>&#64;smkamranqadri</sub></td>
+<td align="right"><b>454</b></td>
+<td align="right">155</td>
+<td><sub>Karachi</sub></td>
+</tr>
+<tr>
+<td align="right">120</td>
+<td><a href="https://github.com/arsltech"><img src="https://avatars.githubusercontent.com/u/47860539?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arsltech"><b>Arslan Ali</b></a><br><sub>&#64;arsltech</sub></td>
+<td align="right"><b>454</b></td>
+<td align="right">30</td>
+<td><sub>Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">121</td>
+<td><a href="https://github.com/noshluk2"><img src="https://avatars.githubusercontent.com/u/29896241?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/noshluk2"><b>Muhammad Luqman</b></a><br><sub>&#64;noshluk2</sub></td>
+<td align="right"><b>451</b></td>
+<td align="right">84</td>
+<td><sub>Jhelum,Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">122</td>
+<td><a href="https://github.com/MustajabAhmed"><img src="https://avatars.githubusercontent.com/u/110374771?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MustajabAhmed"><b>Mustajab Ahmed</b></a><br><sub>&#64;MustajabAhmed</sub></td>
+<td align="right"><b>451</b></td>
+<td align="right">54</td>
+<td><sub>Islamabad, Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">123</td>
+<td><a href="https://github.com/G-Mustafa1"><img src="https://avatars.githubusercontent.com/u/157616503?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/G-Mustafa1"><b>Ghulam Mustafa</b></a><br><sub>&#64;G-Mustafa1</sub></td>
+<td align="right"><b>447</b></td>
+<td align="right">102</td>
+<td><sub>Karachi,Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">124</td>
+<td><a href="https://github.com/ghulamabbas2"><img src="https://avatars.githubusercontent.com/u/60650799?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ghulamabbas2"><b>Ghulam Abbas</b></a><br><sub>&#64;ghulamabbas2</sub></td>
+<td align="right"><b>447</b></td>
+<td align="right">52</td>
+<td><sub>Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">125</td>
+<td><a href="https://github.com/waleedcodes"><img src="https://avatars.githubusercontent.com/u/110061477?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/waleedcodes"><b>Waleed Ishfaq</b></a><br><sub>&#64;waleedcodes</sub></td>
+<td align="right"><b>433</b></td>
+<td align="right">81</td>
+<td><sub>Abbottabad, Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">126</td>
+<td><a href="https://github.com/maqibraja"><img src="https://avatars.githubusercontent.com/u/41727537?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maqibraja"><b>Aaqib</b></a><br><sub>&#64;maqibraja</sub></td>
+<td align="right"><b>433</b></td>
+<td align="right">6</td>
+<td><sub>Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">127</td>
+<td><a href="https://github.com/meerabsiddique"><img src="https://avatars.githubusercontent.com/u/301352919?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/meerabsiddique"><b>meerabsiddique</b></a><br><sub>&#64;meerabsiddique</sub></td>
+<td align="right"><b>430</b></td>
+<td align="right">16</td>
+<td><sub>Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">128</td>
+<td><a href="https://github.com/Akbar-Ali10"><img src="https://avatars.githubusercontent.com/u/180856094?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Akbar-Ali10"><b>Akbar-Ali</b></a><br><sub>&#64;Akbar-Ali10</sub></td>
+<td align="right"><b>429</b></td>
+<td align="right">154</td>
+<td><sub>Pakistan - Karachi</sub></td>
+</tr>
+<tr>
+<td align="right">129</td>
+<td><a href="https://github.com/mashhoodr"><img src="https://avatars.githubusercontent.com/u/890800?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mashhoodr"><b>Mashhood Rastgar</b></a><br><sub>&#64;mashhoodr</sub></td>
+<td align="right"><b>429</b></td>
+<td align="right">54</td>
+<td><sub>Karachi, Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">130</td>
+<td><a href="https://github.com/AleeDe"><img src="https://avatars.githubusercontent.com/u/122118041?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AleeDe"><b>Muhammad Ali</b></a><br><sub>&#64;AleeDe</sub></td>
+<td align="right"><b>428</b></td>
+<td align="right">90</td>
+<td><sub>Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">131</td>
+<td><a href="https://github.com/gavanwp"><img src="https://avatars.githubusercontent.com/u/101090289?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gavanwp"><b>Gavan Kumar</b></a><br><sub>&#64;gavanwp</sub></td>
+<td align="right"><b>426</b></td>
+<td align="right">27</td>
+<td><sub>karachi</sub></td>
+</tr>
+<tr>
+<td align="right">132</td>
+<td><a href="https://github.com/Abdullah321Umar"><img src="https://avatars.githubusercontent.com/u/209007056?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abdullah321Umar"><b>Abdullah Umar</b></a><br><sub>&#64;Abdullah321Umar</sub></td>
+<td align="right"><b>425</b></td>
+<td align="right">41</td>
+<td><sub>Lahore, Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">133</td>
+<td><a href="https://github.com/AyeshaSahar"><img src="https://avatars.githubusercontent.com/u/83140034?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AyeshaSahar"><b>Ayesha Sahar</b></a><br><sub>&#64;AyeshaSahar</sub></td>
+<td align="right"><b>425</b></td>
+<td align="right">34</td>
+<td><sub>Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">134</td>
+<td><a href="https://github.com/ahmedabbas52233-a11y"><img src="https://avatars.githubusercontent.com/u/257159063?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahmedabbas52233-a11y"><b>Ahmad Abbas Hussain</b></a><br><sub>&#64;ahmedabbas52233-a11y</sub></td>
+<td align="right"><b>425</b></td>
+<td align="right">24</td>
+<td><sub>Lahore, Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">135</td>
+<td><a href="https://github.com/munawerdev"><img src="https://avatars.githubusercontent.com/u/117267127?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/munawerdev"><b>Munawer</b></a><br><sub>&#64;munawerdev</sub></td>
+<td align="right"><b>424</b></td>
+<td align="right">30</td>
+<td><sub>Pakistan, Karachi</sub></td>
+</tr>
+<tr>
+<td align="right">136</td>
+<td><a href="https://github.com/urwahkhalid00"><img src="https://avatars.githubusercontent.com/u/169333890?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/urwahkhalid00"><b>Urwah Khalid</b></a><br><sub>&#64;urwahkhalid00</sub></td>
+<td align="right"><b>419</b></td>
+<td align="right">17</td>
+<td><sub>Faisalabad, Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">137</td>
+<td><a href="https://github.com/samade747"><img src="https://avatars.githubusercontent.com/u/132301326?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/samade747"><b>SAMAD</b></a><br><sub>&#64;samade747</sub></td>
+<td align="right"><b>417</b></td>
+<td align="right">357</td>
+<td><sub>Karachi</sub></td>
+</tr>
+<tr>
+<td align="right">138</td>
+<td><a href="https://github.com/thecodrr"><img src="https://avatars.githubusercontent.com/u/7473959?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thecodrr"><b>Abdullah Atta</b></a><br><sub>&#64;thecodrr</sub></td>
+<td align="right"><b>385</b></td>
+<td align="right">0</td>
+<td><sub>Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">139</td>
 <td><a href="https://github.com/Ovi"><img src="https://avatars.githubusercontent.com/u/23533420?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ovi"><b>Muhammad</b></a><br><sub>&#64;Ovi</sub></td>
 <td align="right"><b>350</b></td>
 <td align="right">0</td>
 <td><sub>Karachi, Pakistan</sub></td>
 </tr>
 <tr>
-<td align="right">91</td>
+<td align="right">140</td>
+<td><a href="https://github.com/MTK911"><img src="https://avatars.githubusercontent.com/u/7070604?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MTK911"><b>Muhammad Talha Khan</b></a><br><sub>&#64;MTK911</sub></td>
+<td align="right"><b>200</b></td>
+<td align="right">0</td>
+<td><sub>Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">141</td>
+<td><a href="https://github.com/shahraizali"><img src="https://avatars.githubusercontent.com/u/15216270?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shahraizali"><b>shahraiz ali</b></a><br><sub>&#64;shahraizali</sub></td>
+<td align="right"><b>153</b></td>
+<td align="right">0</td>
+<td><sub>Lahore Pakistan</sub></td>
+</tr>
+<tr>
+<td align="right">142</td>
 <td><a href="https://github.com/saifyxpro"><img src="https://avatars.githubusercontent.com/u/226754837?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/saifyxpro"><b>Saifullah Channa</b></a><br><sub>&#64;saifyxpro</sub></td>
 <td align="right"><b>72</b></td>
 <td align="right">0</td>
 <td><sub>Sukkur, Sindh</sub></td>
 </tr>
 <tr>
-<td align="right">92</td>
+<td align="right">143</td>
 <td><a href="https://github.com/haris-musa"><img src="https://avatars.githubusercontent.com/u/79357181?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/haris-musa"><b>Haris</b></a><br><sub>&#64;haris-musa</sub></td>
 <td align="right"><b>58</b></td>
 <td align="right">0</td>
@@ -673,7 +1030,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 92 attributed developers are tracked; the cutoff is 58 followers.
+- Organizations are excluded. 143 attributed developers are tracked; the cutoff is 58 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -3,12 +3,14 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"TJ","name":"Tajikistan","slug":"tajikistan"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":399,"measuredAccounts":2,"measurementBacklog":397,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "e1c3870c9000a753",
-"updatedAt": "2026-11-22T22:28:05.466Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"coverage": {"basis":"partial","discoveredAccounts":399,"measuredAccounts":4,"measurementBacklog":395,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"U_kgDOCSZUhQ","login":"abdullokhonz","name":"Abdullokhon Ghaibulloev","url":"https://github.com/abdullokhonz","avatarUrl":"https://avatars.githubusercontent.com/u/153506949?s=80&v=4","followers":428,"publicRepos":23,"location":"Khujand, Tajikistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":150,"commits":142,"pullRequests":1,"reviews":1,"issues":0,"repositories":5,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
+],
+"contentHash": "d5b4b9c8514bb0b1",
+"updatedAt": "2026-11-23T03:24:49.438Z",
+"verifiedOn": "2026-11-23",
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

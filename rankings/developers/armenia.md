@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/developers/AM.json">JSON</a> |
+| 🟡 Provisional | **19** | 22 Nov 2026 | <a href="../../data/developers/AM.json">JSON</a> |
 
 </div>
 
@@ -93,31 +93,66 @@
 </tr>
 <tr>
 <td align="right">11</td>
+<td><a href="https://github.com/AndreiMaz"><img src="https://avatars.githubusercontent.com/u/5019111?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AndreiMaz"><b>Andrei Mazulnitsyn</b></a><br><sub>&#64;AndreiMaz</sub></td>
+<td align="right"><b>478</b></td>
+<td align="right">0</td>
+<td><sub>Armenia</sub></td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><a href="https://github.com/vahan-sahakyan"><img src="https://avatars.githubusercontent.com/u/52359994?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vahan-sahakyan"><b>Vahan Sahakyan</b></a><br><sub>&#64;vahan-sahakyan</sub></td>
+<td align="right"><b>474</b></td>
+<td align="right">61</td>
+<td><sub>Yerevan, Armenia</sub></td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><a href="https://github.com/armcha"><img src="https://avatars.githubusercontent.com/u/15573237?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/armcha"><b>Arman</b></a><br><sub>&#64;armcha</sub></td>
+<td align="right"><b>428</b></td>
+<td align="right">54</td>
+<td><sub>Armenia</sub></td>
+</tr>
+<tr>
+<td align="right">14</td>
 <td><a href="https://github.com/suren-atoyan"><img src="https://avatars.githubusercontent.com/u/13118722?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/suren-atoyan"><b>Suren Atoyan</b></a><br><sub>&#64;suren-atoyan</sub></td>
 <td align="right"><b>340</b></td>
 <td align="right">0</td>
 <td><sub>Yerevan, Armenia</sub></td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">15</td>
 <td><a href="https://github.com/ivbeg"><img src="https://avatars.githubusercontent.com/u/203209?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ivbeg"><b>Ivan Begtin</b></a><br><sub>&#64;ivbeg</sub></td>
 <td align="right"><b>336</b></td>
 <td align="right">0</td>
 <td><sub>Armenia</sub></td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">16</td>
 <td><a href="https://github.com/khoren93"><img src="https://avatars.githubusercontent.com/u/11523360?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/khoren93"><b>Khoren Markosyan</b></a><br><sub>&#64;khoren93</sub></td>
 <td align="right"><b>250</b></td>
 <td align="right">0</td>
 <td><sub>Yerevan, Armenia</sub></td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">17</td>
 <td><a href="https://github.com/NarHakobyan"><img src="https://avatars.githubusercontent.com/u/1781506?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NarHakobyan"><b>Narek Hakobyan</b></a><br><sub>&#64;NarHakobyan</sub></td>
 <td align="right"><b>223</b></td>
 <td align="right">0</td>
 <td><sub>Armenia</sub></td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><a href="https://github.com/vtereshkov"><img src="https://avatars.githubusercontent.com/u/52492460?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vtereshkov"><b>Vasiliy Tereshkov</b></a><br><sub>&#64;vtereshkov</sub></td>
+<td align="right"><b>179</b></td>
+<td align="right">0</td>
+<td><sub>Yerevan, Armenia</sub></td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><a href="https://github.com/Vagr9K"><img src="https://avatars.githubusercontent.com/u/5121786?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Vagr9K"><b>Ruben Harutyunyan</b></a><br><sub>&#64;Vagr9K</sub></td>
+<td align="right"><b>102</b></td>
+<td align="right">0</td>
+<td><sub>Yerevan, Armenia</sub></td>
 </tr>
 </tbody>
 </table>
@@ -127,7 +162,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 14 attributed developers are tracked; the cutoff is 223 followers.
+- Organizations are excluded. 19 attributed developers are tracked; the cutoff is 102 followers.
 - **Location discovery:** term 0 of 135 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

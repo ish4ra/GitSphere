@@ -3,12 +3,14 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"PA","name":"Panama","slug":"panama"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":2,"measurementBacklog":398,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "3b30b42db73dc581",
-"updatedAt": "2026-11-22T22:28:05.466Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":4,"measurementBacklog":396,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"U_kgDOB9IeDw","login":"152as","name":"Simon Becerra","url":"https://github.com/152as","avatarUrl":"https://avatars.githubusercontent.com/u/131210767?s=80&v=4","followers":0,"publicRepos":5,"location":"Panama oeste La chorrera","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-23","contributions":{"public":30,"commits":25,"pullRequests":0,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
+],
+"contentHash": "15ccb74dd13e20ae",
+"updatedAt": "2026-11-23T03:24:49.438Z",
+"verifiedOn": "2026-11-23",
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

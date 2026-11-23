@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"LI","name":"Liechtenstein","slug":"liechtenstein"},
-"count": 148,
+"count": 146,
 "repositories": [
-  {"name":"ParetoSecurity/pareto-mac","stars":458,"forks":28,"language":"Swift","license":"GPL-3.0","archived":false,"createdAt":"2021-07-14T09:54:07Z","pushedAt":"2026-10-06T06:59:02Z","owner":{"login":"ParetoSecurity","type":"Organization","name":"Pareto Security","location":"Liechtenstein"},"attribution":{"code":"LI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-17T01:38:20.216Z","id":"legacy:paretosecurity/pareto-mac","legacy":true},
-  {"name":"byteball/obyte-gui-wallet","stars":429,"forks":169,"language":"JavaScript","license":"MIT","archived":false,"createdAt":"2016-09-05T11:14:53Z","pushedAt":"2026-10-10T16:04:40Z","owner":{"login":"byteball","type":"Organization","name":"Obyte","location":"Liechtenstein"},"attribution":{"code":"LI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-17T01:38:20.216Z","id":"legacy:byteball/obyte-gui-wallet","legacy":true},
   {"name":"danheron/Heron.MudCalendar","stars":332,"forks":67,"language":"C#","license":"MIT","archived":false,"createdAt":"2022-11-12T07:49:50Z","pushedAt":"2026-08-26T06:26:42Z","owner":{"login":"danheron","type":"User","name":"Dan Heron","location":"Liechtenstein"},"attribution":{"code":"LI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-17T01:38:20.216Z","id":"legacy:danheron/heron.mudcalendar","legacy":true},
   {"name":"TOLDOTECHNIK/buildroot-webkit","stars":265,"forks":56,"language":"Shell","archived":true,"createdAt":"2018-11-21T07:34:11Z","pushedAt":"2024-10-22T10:10:59Z","owner":{"login":"TOLDOTECHNIK","type":"User","location":"Vaduz"},"attribution":{"code":"LI","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-17T01:38:20.216Z","id":"legacy:toldotechnik/buildroot-webkit","legacy":true},
   {"name":"aeternity/aepp-sdk-js","stars":255,"forks":56,"language":"TypeScript","license":"ISC","archived":false,"createdAt":"2018-02-09T18:05:18Z","pushedAt":"2026-10-12T11:05:20Z","owner":{"login":"aeternity","type":"Organization","name":"æternity","location":"Liechtenstein"},"attribution":{"code":"LI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-17T01:38:20.216Z","id":"legacy:aeternity/aepp-sdk-js","legacy":true},

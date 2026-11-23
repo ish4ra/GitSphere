@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/SS.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/SS.json">JSON</a> |
 
 </div>
 
@@ -30,10 +30,24 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/Maiz27"><img src="https://avatars.githubusercontent.com/u/91534137?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Maiz27"><b>Maged Faiz</b></a><br><sub>&#64;Maiz27</sub></td>
+<td align="right"><b>437</b></td>
+<td align="right">9</td>
+<td><sub>Juba, South Sudan</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/in0finite"><img src="https://avatars.githubusercontent.com/u/22325861?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/in0finite"><b>in0finite</b></a><br><sub>&#64;in0finite</sub></td>
 <td align="right"><b>95</b></td>
 <td align="right">31</td>
 <td><sub>/opt/Unity/Editor/</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/AndreaFabbri4L"><img src="https://avatars.githubusercontent.com/u/245835993?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AndreaFabbri4L"><b>Andrea</b></a><br><sub>&#64;AndreaFabbri4L</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">7</td>
+<td><sub>Sud Sudan☂💥</sub></td>
 </tr>
 </tbody>
 </table>
@@ -43,7 +57,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 95 followers.
+- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 2 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

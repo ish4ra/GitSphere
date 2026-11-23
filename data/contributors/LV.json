@@ -5,13 +5,15 @@
 "country": {"code":"LV","name":"Latvia","slug":"latvia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":404,"measuredAccounts":2,"measurementBacklog":402,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":405,"measuredAccounts":4,"measurementBacklog":401,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"U_kgDODXhUCA","login":"Mistrust12","name":"Stay forever","url":"https://github.com/Mistrust12","avatarUrl":"https://avatars.githubusercontent.com/u/225989640?s=80&v=4","followers":1148,"publicRepos":55,"location":"Riga","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22","contributions":{"public":777,"commits":664,"pullRequests":58,"reviews":0,"issues":0,"repositories":55,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":2,"id":"MDQ6VXNlcjUwNjIxMDA3","login":"kj89","name":"kjnodes","url":"https://github.com/kj89","avatarUrl":"https://avatars.githubusercontent.com/u/50621007?s=80&v=4","followers":602,"publicRepos":90,"location":"Latvia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":10,"commits":4,"pullRequests":4,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjY0Njk0Mg==","login":"bodrovis","name":"Elijah S. Krukowski","url":"https://github.com/bodrovis","avatarUrl":"https://avatars.githubusercontent.com/u/646942?s=80&v=4","followers":534,"publicRepos":83,"location":"Riga","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23","contributions":{"public":1185,"commits":1142,"pullRequests":28,"reviews":3,"issues":0,"repositories":11,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":2,"id":"U_kgDODXhUCA","login":"Mistrust12","name":"Stay forever","url":"https://github.com/Mistrust12","avatarUrl":"https://avatars.githubusercontent.com/u/225989640?s=80&v=4","followers":1148,"publicRepos":55,"location":"Riga","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22","contributions":{"public":777,"commits":664,"pullRequests":58,"reviews":0,"issues":0,"repositories":55,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":3,"id":"MDQ6VXNlcjExNTA2Mzk=","login":"wonderwhy-er","name":"Eduard Ruzga","url":"https://github.com/wonderwhy-er","avatarUrl":"https://avatars.githubusercontent.com/u/1150639?s=80&v=4","followers":485,"publicRepos":63,"location":"Riga","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23","contributions":{"public":613,"commits":483,"pullRequests":98,"reviews":15,"issues":0,"repositories":12,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":4,"id":"MDQ6VXNlcjUwNjIxMDA3","login":"kj89","name":"kjnodes","url":"https://github.com/kj89","avatarUrl":"https://avatars.githubusercontent.com/u/50621007?s=80&v=4","followers":602,"publicRepos":90,"location":"Latvia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":10,"commits":4,"pullRequests":4,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "818e7c4f6b7d5000",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "0697f1e8418960cd",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

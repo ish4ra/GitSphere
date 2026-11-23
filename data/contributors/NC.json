@@ -5,13 +5,15 @@
 "country": {"code":"NC","name":"New Caledonia","slug":"new-caledonia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":127,"measuredAccounts":2,"measurementBacklog":125,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":127,"measuredAccounts":4,"measurementBacklog":123,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjQyODY3MDE=","login":"120dev","name":"120","url":"https://github.com/120dev","avatarUrl":"https://avatars.githubusercontent.com/u/4286701?s=80&v=4","followers":3,"publicRepos":28,"location":"NEW CALEDONIA","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":13,"commits":9,"pullRequests":0,"reviews":0,"issues":0,"repositories":4,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":2,"id":"U_kgDOBrroaw","login":"5048tea","name":"Mara","url":"https://github.com/5048tea","avatarUrl":"https://avatars.githubusercontent.com/u/112912491?s=80&v=4","followers":0,"publicRepos":1,"location":"New-Caledonia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":3,"commits":2,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjUyMzUxMjc=","login":"adriens","name":"SALES","url":"https://github.com/adriens","avatarUrl":"https://avatars.githubusercontent.com/u/5235127?s=80&v=4","followers":82,"publicRepos":305,"location":"Nouméa, New-Caledonia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":3350,"commits":2773,"pullRequests":293,"reviews":15,"issues":235,"repositories":24,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":2,"id":"MDQ6VXNlcjI2MTQwMDMw","login":"6pheR","name":"CipheR_","url":"https://github.com/6pheR","avatarUrl":"https://avatars.githubusercontent.com/u/26140030?s=80&v=4","followers":7,"publicRepos":9,"location":"New Caledonia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":21,"commits":20,"pullRequests":1,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":3,"id":"MDQ6VXNlcjQyODY3MDE=","login":"120dev","name":"120","url":"https://github.com/120dev","avatarUrl":"https://avatars.githubusercontent.com/u/4286701?s=80&v=4","followers":3,"publicRepos":28,"location":"NEW CALEDONIA","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":13,"commits":9,"pullRequests":0,"reviews":0,"issues":0,"repositories":4,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":4,"id":"U_kgDOBrroaw","login":"5048tea","name":"Mara","url":"https://github.com/5048tea","avatarUrl":"https://avatars.githubusercontent.com/u/112912491?s=80&v=4","followers":0,"publicRepos":1,"location":"New-Caledonia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":3,"commits":2,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "2c2a6d08ab64eebb",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "94547caa89887476",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/developers/BJ.json">JSON</a> |
+| 🟡 Provisional | **5** | 23 Nov 2026 | <a href="../../data/developers/BJ.json">JSON</a> |
 
 </div>
 
@@ -28,6 +28,34 @@
 <td align="right">105</td>
 <td><sub>Cotonou, Benin.</sub></td>
 </tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/yusions"><img src="https://avatars.githubusercontent.com/u/223691277?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yusions"><b>not very active rn / check new strawp</b></a><br><sub>&#64;yusions</sub></td>
+<td align="right"><b>562</b></td>
+<td align="right">1</td>
+<td><sub>・・・・・ hi im ley / cinna / holli</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/AvineDev"><img src="https://avatars.githubusercontent.com/u/133253126?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AvineDev"><b>Avine Dev</b></a><br><sub>&#64;AvineDev</sub></td>
+<td align="right"><b>463</b></td>
+<td align="right">8</td>
+<td><sub>Benin</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/rakviyem"><img src="https://avatars.githubusercontent.com/u/205751150?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rakviyem"><b>the entity&#39;s #1 fan</b></a><br><sub>&#64;rakviyem</sub></td>
+<td align="right"><b>455</b></td>
+<td align="right">1</td>
+<td><sub>almost always (semi) near the bakery.</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/Houessou1"><img src="https://avatars.githubusercontent.com/u/111100989?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Houessou1"><b>François-Xavier ALLA HOUESSOU</b></a><br><sub>&#64;Houessou1</sub></td>
+<td align="right"><b>439</b></td>
+<td align="right">11</td>
+<td><sub>Benin 🇧🇯</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -36,7 +64,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 1 attributed developers are tracked; the cutoff is 2,196 followers.
+- Organizations are excluded. 5 attributed developers are tracked; the cutoff is 439 followers.
 - **Location discovery:** term 0 of 86 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -5,15 +5,18 @@
 "country": {"code":"MK","name":"North Macedonia","slug":"north-macedonia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":216,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":173,"candidates":7,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"U_kgDOCLt4NQ","login":"yutomiwana","name":"Yuto","url":"https://github.com/yutomiwana","avatarUrl":"https://avatars.githubusercontent.com/u/146503733?s=80&v=4","followers":1254,"publicRepos":46,"location":"Skopje","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjE4MzUzOTc=","login":"henryruhs","name":"Henry Ruhs","url":"https://github.com/henryruhs","avatarUrl":"https://avatars.githubusercontent.com/u/1835397?s=80&v=4","followers":649,"publicRepos":11,"location":"North Macedonia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":3,"id":"MDQ6VXNlcjcxOTI1Mzk=","login":"ZoranPandovski","name":"Zoran Pandovski","url":"https://github.com/ZoranPandovski","avatarUrl":"https://avatars.githubusercontent.com/u/7192539?s=80&v=4","followers":605,"publicRepos":47,"location":"Bitola, North Macedonia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":4,"id":"MDQ6VXNlcjc1MDEwMTI=","login":"MTrajK","name":"Meto Trajkovski","url":"https://github.com/MTrajK","avatarUrl":"https://avatars.githubusercontent.com/u/7501012?s=80&v=4","followers":216,"publicRepos":null,"location":"Skopje","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"}
+  {"rank":4,"id":"MDQ6VXNlcjQyODMzNjA=","login":"jaggedsoft","name":"jagged","url":"https://github.com/jaggedsoft","avatarUrl":"https://avatars.githubusercontent.com/u/4283360?s=80&v=4","followers":467,"publicRepos":1083,"location":"North Macedonia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":5,"id":"MDQ6VXNlcjY0MzcyNTk=","login":"trajchevska","name":"Katerina Trajchevska","url":"https://github.com/trajchevska","avatarUrl":"https://avatars.githubusercontent.com/u/6437259?s=80&v=4","followers":460,"publicRepos":12,"location":"Skopje Macedonia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":6,"id":"MDQ6VXNlcjc1MDEwMTI=","login":"MTrajK","name":"Meto Trajkovski","url":"https://github.com/MTrajK","avatarUrl":"https://avatars.githubusercontent.com/u/7501012?s=80&v=4","followers":216,"location":"Skopje","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
+  {"rank":7,"id":"MDQ6VXNlcjIyNjgwNzg1","login":"eritislami","name":"Erit Islami","url":"https://github.com/eritislami","avatarUrl":"https://avatars.githubusercontent.com/u/22680785?s=80&v=4","followers":173,"location":"Struga, North Macedonia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "b808bca7c573840d",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "e082f3333d09fd12",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

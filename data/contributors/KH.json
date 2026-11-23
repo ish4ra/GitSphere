@@ -5,13 +5,14 @@
 "country": {"code":"KH","name":"Cambodia","slug":"cambodia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":4,"measurementBacklog":396,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":6,"measurementBacklog":394,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":174,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjU4MjQ1OTI2","login":"DJ-Raven","name":"Raven Laing","url":"https://github.com/DJ-Raven","avatarUrl":"https://avatars.githubusercontent.com/u/58245926?s=80&v=4","followers":1208,"publicRepos":178,"location":"Cambodia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":270,"commits":249,"pullRequests":15,"reviews":0,"issues":2,"repositories":3,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":2,"id":"MDQ6VXNlcjUyMjMyNTc5","login":"Chensokheng","name":"Chensokheng","url":"https://github.com/Chensokheng","avatarUrl":"https://avatars.githubusercontent.com/u/52232579?s=80&v=4","followers":967,"publicRepos":129,"location":"Cambodia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":80,"commits":68,"pullRequests":0,"reviews":0,"issues":3,"repositories":9,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjE1Mjc3MjMz","login":"seanghay","name":"Seanghay Yath","url":"https://github.com/seanghay","avatarUrl":"https://avatars.githubusercontent.com/u/15277233?s=80&v=4","followers":412,"publicRepos":50,"location":"Cambodia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":515,"commits":475,"pullRequests":14,"reviews":7,"issues":4,"repositories":15,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":2,"id":"MDQ6VXNlcjU4MjQ1OTI2","login":"DJ-Raven","name":"Raven Laing","url":"https://github.com/DJ-Raven","avatarUrl":"https://avatars.githubusercontent.com/u/58245926?s=80&v=4","followers":1208,"publicRepos":178,"location":"Cambodia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":270,"commits":249,"pullRequests":15,"reviews":0,"issues":2,"repositories":3,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":3,"id":"MDQ6VXNlcjUyMjMyNTc5","login":"Chensokheng","name":"Chensokheng","url":"https://github.com/Chensokheng","avatarUrl":"https://avatars.githubusercontent.com/u/52232579?s=80&v=4","followers":967,"publicRepos":129,"location":"Cambodia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":80,"commits":68,"pullRequests":0,"reviews":0,"issues":3,"repositories":9,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "e1b7b08fc20d27b0",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "54737cd38987b5cc",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

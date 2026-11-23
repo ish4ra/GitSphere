@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **97** | 03 Nov 2026 | <a href="../data/UA.json">JSON</a> |
-
-> **Not yet re-verified.** 5 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/UA.json">JSON</a> |
 
 </div>
 
@@ -669,38 +667,59 @@
 </tr>
 <tr>
 <td align="right">93</td>
-<td><img src="https://github.com/javadev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/javadev/underscore-java"><b>javadev/underscore-java</b></a></td>
-<td align="right"><b>552</b></td>
-<td align="right">82</td>
-<td>Java</td>
+<td><img src="https://github.com/sersavan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sersavan/shadcn-multi-select-component"><b>sersavan/shadcn-multi-select-component</b></a><br><sub>A multi-select component designed with shadcn/ui</sub></td>
+<td align="right"><b>2,209</b></td>
+<td align="right">95</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">94</td>
-<td><img src="https://github.com/xanf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xanf/vuex-shared-mutations"><b>xanf/vuex-shared-mutations</b></a></td>
-<td align="right"><b>545</b></td>
-<td align="right">36</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/Yalantis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Yalantis/Euclid"><b>Yalantis/Euclid</b></a><br><sub>User Profile Interface Animation</sub></td>
+<td align="right"><b>2,206</b></td>
+<td align="right">542</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">95</td>
-<td><img src="https://github.com/Jaammerr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Jaammerr/The-Dawn-Bot"><b>Jaammerr/The-Dawn-Bot</b></a></td>
-<td align="right"><b>507</b></td>
-<td align="right">201</td>
-<td>Python</td>
+<td><img src="https://github.com/Devlight.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Devlight/NavigationTabStrip"><b>Devlight/NavigationTabStrip</b></a><br><sub>Navigation tab strip with smooth interaction.</sub></td>
+<td align="right"><b>2,206</b></td>
+<td align="right">309</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">96</td>
-<td><img src="https://github.com/diia-open-source.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/diia-open-source/android-diia"><b>diia-open-source/android-diia</b></a></td>
-<td align="right"><b>501</b></td>
-<td align="right">64</td>
-<td>Kotlin</td>
+<td><img src="https://github.com/MasterDevX.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MasterDevX/Termux-ADB"><b>MasterDevX/Termux-ADB</b></a><br><sub>Install ADB &amp; FastBoot Tools in Termux!</sub></td>
+<td align="right"><b>2,191</b></td>
+<td align="right">334</td>
+<td>Shell</td>
 </tr>
 <tr>
 <td align="right">97</td>
-<td><img src="https://github.com/sansolovyov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sansolovyov/twinspark-js"><b>sansolovyov/twinspark-js</b></a></td>
-<td align="right"><b>470</b></td>
-<td align="right">20</td>
+<td><img src="https://github.com/SergeyPirogov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SergeyPirogov/webdriver_manager"><b>SergeyPirogov/webdriver&#95;manager</b></a></td>
+<td align="right"><b>2,177</b></td>
+<td align="right">483</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/roman01la.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/roman01la/html-to-react-components"><b>roman01la/html-to-react-components</b></a><br><sub>Converts HTML pages into React components</sub></td>
+<td align="right"><b>2,177</b></td>
+<td align="right">137</td>
 <td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/VolodymyrBaydalka.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/VolodymyrBaydalka/docxjs"><b>VolodymyrBaydalka/docxjs</b></a><br><sub>Docx rendering library</sub></td>
+<td align="right"><b>2,160</b></td>
+<td align="right">305</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/trunkmaster.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/trunkmaster/nextspace"><b>trunkmaster/nextspace</b></a><br><sub>NeXTSTEP-like desktop environment for Linux</sub></td>
+<td align="right"><b>2,137</b></td>
+<td align="right">87</td>
+<td>Objective-C</td>
 </tr>
 </tbody>
 </table>
@@ -708,11 +727,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 470 stars; 97 attributed candidates are tracked.
-- 5 entries were carried over from the previous dataset and are pending revalidation.
-- 136 multi-repository owners are queued for expansion.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 2,137 stars; 150 attributed candidates are tracked.
+- 133 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

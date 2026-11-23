@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **22** | 22 Nov 2026 | <a href="../../data/developers/TN.json">JSON</a> |
+| 🟡 Provisional | **29** | 22 Nov 2026 | <a href="../../data/developers/TN.json">JSON</a> |
 
 </div>
 
@@ -163,17 +163,66 @@
 </tr>
 <tr>
 <td align="right">21</td>
+<td><a href="https://github.com/zied-snoussi"><img src="https://avatars.githubusercontent.com/u/74665047?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zied-snoussi"><b>Zied Snoussi</b></a><br><sub>&#64;zied-snoussi</sub></td>
+<td align="right"><b>498</b></td>
+<td align="right">37</td>
+<td><sub>Tunis, Tunisia</sub></td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><a href="https://github.com/machour"><img src="https://avatars.githubusercontent.com/u/304450?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/machour"><b>Mehdi Achour</b></a><br><sub>&#64;machour</sub></td>
+<td align="right"><b>484</b></td>
+<td align="right">160</td>
+<td><sub>Tunisia</sub></td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td><a href="https://github.com/01JAMIL"><img src="https://avatars.githubusercontent.com/u/82522763?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/01JAMIL"><b>Jamil Ben Brahim</b></a><br><sub>&#64;01JAMIL</sub></td>
+<td align="right"><b>461</b></td>
+<td align="right">22</td>
+<td><sub>Tunisia</sub></td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td><a href="https://github.com/3imed-jaberi"><img src="https://avatars.githubusercontent.com/u/43971542?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/3imed-jaberi"><b>Imed Jaberi</b></a><br><sub>&#64;3imed-jaberi</sub></td>
+<td align="right"><b>459</b></td>
+<td align="right">192</td>
+<td><sub>Tunis, Tunisia</sub></td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td><a href="https://github.com/Ademking"><img src="https://avatars.githubusercontent.com/u/12462188?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ademking"><b>Adem Kouki</b></a><br><sub>&#64;Ademking</sub></td>
+<td align="right"><b>432</b></td>
+<td align="right">161</td>
+<td><sub>Tunisia</sub></td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td><a href="https://github.com/anouarbensaad"><img src="https://avatars.githubusercontent.com/u/23563528?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anouarbensaad"><b>Anouar Ben Saad</b></a><br><sub>&#64;anouarbensaad</sub></td>
+<td align="right"><b>356</b></td>
+<td align="right">0</td>
+<td><sub>Tunisia</sub></td>
+</tr>
+<tr>
+<td align="right">27</td>
 <td><a href="https://github.com/rayenghanmi"><img src="https://avatars.githubusercontent.com/u/108760398?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rayenghanmi"><b>Rayen Ghanmi</b></a><br><sub>&#64;rayenghanmi</sub></td>
 <td align="right"><b>112</b></td>
 <td align="right">0</td>
 <td><sub>Tunisia</sub></td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">28</td>
 <td><a href="https://github.com/Adembc"><img src="https://avatars.githubusercontent.com/u/71262172?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Adembc"><b>Adem Baccara</b></a><br><sub>&#64;Adembc</sub></td>
 <td align="right"><b>104</b></td>
 <td align="right">0</td>
 <td><sub>Tunisia</sub></td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td><a href="https://github.com/Fakerr"><img src="https://avatars.githubusercontent.com/u/10001592?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Fakerr"><b>Walid Berrahal</b></a><br><sub>&#64;Fakerr</sub></td>
+<td align="right"><b>52</b></td>
+<td align="right">0</td>
+<td><sub>Tunis, Tunisia</sub></td>
 </tr>
 </tbody>
 </table>
@@ -183,7 +232,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 22 attributed developers are tracked; the cutoff is 104 followers.
+- Organizations are excluded. 29 attributed developers are tracked; the cutoff is 52 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/developers/TZ.json">JSON</a> |
+| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/developers/TZ.json">JSON</a> |
 
 </div>
 
@@ -45,7 +45,7 @@
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/karimshaban01"><img src="https://avatars.githubusercontent.com/u/94116967?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/karimshaban01"><b>Karim S. Haruna</b></a><br><sub>&#64;karimshaban01</sub></td>
-<td align="right"><b>1,064</b></td>
+<td align="right"><b>1,063</b></td>
 <td align="right">52</td>
 <td><sub>ARUSHA, TANZANIA</sub></td>
 </tr>
@@ -63,6 +63,34 @@
 <td align="right">243</td>
 <td><sub>Dar es Salaam , Tanzania</sub></td>
 </tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/isaka-james"><img src="https://avatars.githubusercontent.com/u/76619967?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/isaka-james"><b>masterplan</b></a><br><sub>&#64;isaka-james</sub></td>
+<td align="right"><b>552</b></td>
+<td align="right">15</td>
+<td><sub>Dodoma, Tanzania</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/tarxemo"><img src="https://avatars.githubusercontent.com/u/183597077?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tarxemo"><b>TarXemo</b></a><br><sub>&#64;tarxemo</sub></td>
+<td align="right"><b>461</b></td>
+<td align="right">134</td>
+<td><sub>Dodoma-Tanzania</sub></td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/gernest"><img src="https://avatars.githubusercontent.com/u/6039952?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gernest"><b>Geofrey Ernest</b></a><br><sub>&#64;gernest</sub></td>
+<td align="right"><b>409</b></td>
+<td align="right">0</td>
+<td><sub>Arusha, Tanzania</sub></td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/thysultan"><img src="https://avatars.githubusercontent.com/u/810601?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thysultan"><b>Sultan</b></a><br><sub>&#64;thysultan</sub></td>
+<td align="right"><b>179</b></td>
+<td align="right">0</td>
+<td><sub>DSM, TZ</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -71,7 +99,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 6 attributed developers are tracked; the cutoff is 967 followers.
+- Organizations are excluded. 10 attributed developers are tracked; the cutoff is 179 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -12,8 +12,8 @@
   {"rank":3,"id":"MDQ6VXNlcjI1Mjc5ODAw","login":"sunnyerteit","name":"S🌞nny","url":"https://github.com/sunnyerteit","avatarUrl":"https://avatars.githubusercontent.com/u/25279800?s=80&v=4","followers":11,"publicRepos":33,"location":"Longyearbyen","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
   {"rank":4,"id":"MDQ6VXNlcjM0ODIxNTM=","login":"Rainbowed","name":"Cake","url":"https://github.com/Rainbowed","avatarUrl":"https://avatars.githubusercontent.com/u/3482153?s=80&v=4","followers":9,"publicRepos":9,"location":"Longyearbyen, Svalbard","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":5,"id":"U_kgDODhz3Pg","login":"SantiChoped","name":"Santiago Gonzalez","url":"https://github.com/SantiChoped","avatarUrl":"https://avatars.githubusercontent.com/u/236779326?s=80&v=4","followers":3,"publicRepos":1,"location":"Longyearbyen","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
-  {"rank":6,"id":"MDQ6VXNlcjI1MzA3MDY=","login":"ngvrnd","name":"Nick Caruso","url":"https://github.com/ngvrnd","avatarUrl":"https://avatars.githubusercontent.com/u/2530706?s=80&v=4","followers":2,"publicRepos":22,"location":"Svalbard and Jan Mayen","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":7,"id":"MDQ6VXNlcjIwNTA5MzQ=","login":"slipeer","name":"Pavel","url":"https://github.com/slipeer","avatarUrl":"https://avatars.githubusercontent.com/u/2050934?s=80&v=4","followers":2,"publicRepos":13,"location":"Barentsburg, Svalbard og Jan Mayen","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":6,"id":"MDQ6VXNlcjI1MzA3MDY=","login":"ngvrnd","name":"Nick Caruso","url":"https://github.com/ngvrnd","avatarUrl":"https://avatars.githubusercontent.com/u/2530706?s=80&v=4","followers":2,"publicRepos":22,"location":"Svalbard and Jan Mayen","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":7,"id":"MDQ6VXNlcjIwNTA5MzQ=","login":"slipeer","name":"Pavel","url":"https://github.com/slipeer","avatarUrl":"https://avatars.githubusercontent.com/u/2050934?s=80&v=4","followers":2,"publicRepos":13,"location":"Barentsburg, Svalbard og Jan Mayen","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":8,"id":"U_kgDOBl__kA","login":"elden-l0rd","name":null,"url":"https://github.com/elden-l0rd","avatarUrl":"https://avatars.githubusercontent.com/u/106954640?s=80&v=4","followers":2,"publicRepos":8,"location":"Longyearbyen","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
   {"rank":9,"id":"MDQ6VXNlcjU0MDQ2MDcx","login":"danavitski","name":"Daan Kivits","url":"https://github.com/danavitski","avatarUrl":"https://avatars.githubusercontent.com/u/54046071?s=80&v=4","followers":1,"publicRepos":8,"location":"Longyearbyen, Svalbard","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":10,"id":"U_kgDOC3HAtA","login":"SimplyHero-dev","name":null,"url":"https://github.com/SimplyHero-dev","avatarUrl":"https://avatars.githubusercontent.com/u/192004276?s=80&v=4","followers":1,"publicRepos":2,"location":"Longyearbyen, Svalbar","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
@@ -25,8 +25,8 @@
   {"rank":16,"id":"U_kgDOCtzTEg","login":"sexyguylublukust","name":null,"url":"https://github.com/sexyguylublukust","avatarUrl":"https://avatars.githubusercontent.com/u/182244114?s=80&v=4","followers":0,"publicRepos":1,"location":"Svalbard & Jan Mayen (SJ)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":17,"id":"U_kgDOCarhAw","login":"YTHEDOGKING","name":"Short Giraffe 😞","url":"https://github.com/YTHEDOGKING","avatarUrl":"https://avatars.githubusercontent.com/u/162193667?s=80&v=4","followers":0,"publicRepos":1,"location":"Olonkinbyen","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "c2c6cc74e7dcc069",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "c9a599b30679e318",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

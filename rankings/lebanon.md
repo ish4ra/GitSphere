@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | :---: |
 | 🟠 Stale | **100** | 01 Nov 2026 | <a href="../data/LB.json">JSON</a> |
 
-> **Not yet re-verified.** 99 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 97 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -32,17 +32,17 @@
 </tr>
 <tr>
 <td align="right">2</td>
-<td><img src="https://github.com/KABBOUCHI.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KABBOUCHI/vue-tippy"><b>KABBOUCHI/vue-tippy</b></a></td>
-<td align="right"><b>790</b></td>
-<td align="right">95</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/FouadRaheb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FouadRaheb/Watusi-for-WhatsApp"><b>FouadRaheb/Watusi-for-WhatsApp</b></a><br><sub>Your all-in-one tweak for WhatsApp Messenger!</sub></td>
+<td align="right"><b>2,023</b></td>
+<td align="right">189</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">3</td>
-<td><img src="https://github.com/aub-mind.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aub-mind/arabert"><b>aub-mind/arabert</b></a></td>
-<td align="right"><b>734</b></td>
-<td align="right">150</td>
-<td>Python</td>
+<td><img src="https://github.com/shahednasser.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shahednasser/awesome-resources"><b>shahednasser/awesome-resources</b></a><br><sub>:sunglasses: List of helpful resources added by the community for the community!</sub></td>
+<td align="right"><b>1,974</b></td>
+<td align="right">618</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td align="right">4</td>
@@ -732,8 +732,8 @@
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 1 stars; 148 attributed candidates are tracked.
-- 99 entries were carried over from the previous dataset and are pending revalidation.
-- 149 multi-repository owners are queued for expansion.
+- 97 entries were carried over from the previous dataset and are pending revalidation.
+- 145 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

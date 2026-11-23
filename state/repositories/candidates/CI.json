@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"CI","name":"Côte d'Ivoire","slug":"cote-d-ivoire"},
-"count": 150,
+"count": 148,
 "repositories": [
-  {"name":"angebagui/medium-textview","stars":486,"forks":62,"language":"Java","archived":false,"createdAt":"2016-08-14T19:50:35Z","pushedAt":"2016-10-06T15:30:03Z","owner":{"login":"angebagui","type":"User","name":"Ange Bagui","location":"Abidjan"},"attribution":{"code":"CI","confidence":"medium","evidence":"dominant-place"},"seenAt":"2026-10-17T01:38:20.172Z","id":"legacy:angebagui/medium-textview","legacy":true},
-  {"name":"finlandhl/kali-ios","stars":467,"forks":83,"license":"MIT","archived":false,"createdAt":"2024-02-11T04:52:27Z","pushedAt":"2024-07-03T23:19:39Z","owner":{"login":"finlandhl","type":"User","name":"Finland L.","location":"Abidjan"},"attribution":{"code":"CI","confidence":"medium","evidence":"dominant-place"},"seenAt":"2026-10-17T01:38:20.172Z","id":"legacy:finlandhl/kali-ios","legacy":true},
   {"name":"catchain/tonscan","stars":214,"forks":68,"language":"Vue","license":"NOASSERTION","archived":false,"createdAt":"2022-03-08T15:09:12Z","pushedAt":"2026-10-10T23:19:39Z","owner":{"login":"catchain","type":"Organization","name":"CAT","location":"Côte d'Ivoire"},"attribution":{"code":"CI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:54:12.911Z","id":"legacy:catchain/tonscan","legacy":true},
   {"name":"eliseekn/laravel-metrics","stars":138,"forks":8,"language":"PHP","license":"MIT","archived":false,"createdAt":"2021-09-25T10:24:37Z","pushedAt":"2026-06-09T07:07:45Z","owner":{"login":"eliseekn","type":"User","name":"Elisée K. N'Guessan","location":"Côte d'Ivoire, Abidjan"},"attribution":{"code":"CI","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:54:12.911Z","id":"legacy:eliseekn/laravel-metrics","legacy":true},
   {"name":"agazinakou/AngularPos","stars":90,"forks":49,"language":"CSS","license":"MIT","archived":false,"createdAt":"2018-07-09T17:38:49Z","pushedAt":"2023-03-07T05:40:41Z","owner":{"login":"agazinakou","type":"User","name":"Lamine AZINAKOU","location":"Abidjan, Côte d'ivoire"},"attribution":{"code":"CI","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:54:12.911Z","id":"legacy:agazinakou/angularpos","legacy":true},

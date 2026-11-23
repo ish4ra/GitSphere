@@ -5,11 +5,11 @@
 "country": {"code":"GT","name":"Guatemala","slug":"guatemala"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":400,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":400,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":115,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjM5ODE2OQ==","login":"ykro","name":"Adrián Catalán","url":"https://github.com/ykro","avatarUrl":"https://avatars.githubusercontent.com/u/398169?s=80&v=4","followers":437,"publicRepos":188,"location":"Guatemala","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":1,"id":"MDQ6VXNlcjM5ODE2OQ==","login":"ykro","name":"Adrián Catalán","url":"https://github.com/ykro","avatarUrl":"https://avatars.githubusercontent.com/u/398169?s=80&v=4","followers":438,"publicRepos":192,"location":"Guatemala","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":2,"id":"MDQ6VXNlcjcwOTIzMjEz","login":"jorge-luis-perez-canto","name":"Jorge Luis Pérez Canto","url":"https://github.com/jorge-luis-perez-canto","avatarUrl":"https://avatars.githubusercontent.com/u/70923213?s=80&v=4","followers":332,"publicRepos":120,"location":"Guatemala","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":3,"id":"MDQ6VXNlcjQ4NzQxNjk5","login":"robertodevs","name":"Roberto Juarez","url":"https://github.com/robertodevs","avatarUrl":"https://avatars.githubusercontent.com/u/48741699?s=80&v=4","followers":304,"publicRepos":24,"location":"Guatemala","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjQ4NzQxNjk5","login":"robertodevs","name":"Roberto Juarez","url":"https://github.com/robertodevs","avatarUrl":"https://avatars.githubusercontent.com/u/48741699?s=80&v=4","followers":304,"publicRepos":24,"location":"Guatemala","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":4,"id":"MDQ6VXNlcjEyNjU4MA==","login":"tuxtor","name":"Víctor Orozco","url":"https://github.com/tuxtor","avatarUrl":"https://avatars.githubusercontent.com/u/126580?s=80&v=4","followers":299,"publicRepos":107,"location":"Guatemala","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":5,"id":"MDQ6VXNlcjgxNDAwMzMy","login":"bryan967132","name":"Bryan Tejaxún","url":"https://github.com/bryan967132","avatarUrl":"https://avatars.githubusercontent.com/u/81400332?s=80&v=4","followers":272,"publicRepos":73,"location":"Guatemala","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":6,"id":"MDQ6VXNlcjY4NjkyOTE=","login":"micromasterandroid","name":"amoraleschan","url":"https://github.com/micromasterandroid","avatarUrl":"https://avatars.githubusercontent.com/u/6869291?s=80&v=4","followers":216,"publicRepos":9,"location":"Guatemala","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
@@ -37,7 +37,7 @@
   {"rank":28,"id":"MDQ6VXNlcjcxOTM3MDg=","login":"josejuanqm","name":"Jose Quintero","url":"https://github.com/josejuanqm","avatarUrl":"https://avatars.githubusercontent.com/u/7193708?s=80&v=4","followers":83,"publicRepos":44,"location":"Guatemala","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":29,"id":"MDQ6VXNlcjEyNjgyNjg=","login":"jonathansamines","name":"Jonathan Samines","url":"https://github.com/jonathansamines","avatarUrl":"https://avatars.githubusercontent.com/u/1268268?s=80&v=4","followers":81,"publicRepos":145,"location":"Guatemala","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":30,"id":"U_kgDOBtaFmQ","login":"ArguetaE","name":"Jose Argueta","url":"https://github.com/ArguetaE","avatarUrl":"https://avatars.githubusercontent.com/u/114722201?s=80&v=4","followers":79,"publicRepos":9,"location":"Guatemala","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":31,"id":"MDQ6VXNlcjEyNTEyMzI=","login":"dougbutner","name":"Douglas Butner 🜛 Gudasol","url":"https://github.com/dougbutner","avatarUrl":"https://avatars.githubusercontent.com/u/1251232?s=80&v=4","followers":77,"publicRepos":175,"location":"Maryland -> Medellín / Guatemala","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":31,"id":"MDQ6VXNlcjEyNTEyMzI=","login":"dougbutner","name":"Douglas Butner 🜛 Gudasol","url":"https://github.com/dougbutner","avatarUrl":"https://avatars.githubusercontent.com/u/1251232?s=80&v=4","followers":77,"publicRepos":175,"location":"Maryland -> Medellín / Guatemala","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":32,"id":"U_kgDOB8i-ZA","login":"GlendyT","name":"Glendy Tuyuc","url":"https://github.com/GlendyT","avatarUrl":"https://avatars.githubusercontent.com/u/130596452?s=80&v=4","followers":77,"publicRepos":113,"location":"Guatemala","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":33,"id":"MDQ6VXNlcjkwMjMzOTI=","login":"Guerra24","name":"Lili","url":"https://github.com/Guerra24","avatarUrl":"https://avatars.githubusercontent.com/u/9023392?s=80&v=4","followers":76,"publicRepos":43,"location":"Guatemala","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":34,"id":"MDQ6VXNlcjUyMjA5MDY3","login":"euqueme","name":"Maria Eugenia Quemé Peña","url":"https://github.com/euqueme","avatarUrl":"https://avatars.githubusercontent.com/u/52209067?s=80&v=4","followers":75,"publicRepos":43,"location":"Guatemala","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
@@ -408,8 +408,8 @@
   {"rank":399,"id":"MDQ6VXNlcjQ2NTc5NzI2","login":"tangramgt","name":"Tangram Guatemala","url":"https://github.com/tangramgt","avatarUrl":"https://avatars.githubusercontent.com/u/46579726?s=80&v=4","followers":0,"publicRepos":1,"location":"Guatemala, Central America","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":400,"id":"MDQ6VXNlcjczNTM5NzE5","login":"WILLFMERIDA8","name":null,"url":"https://github.com/WILLFMERIDA8","avatarUrl":"https://avatars.githubusercontent.com/u/73539719?s=80&v=4","followers":0,"publicRepos":1,"location":"Guatemala","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "b14371d9e9958b9b",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "cdf8783da24827ac",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

@@ -14,17 +14,35 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/ME.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/ME.json">JSON</a> |
 
 </div>
 
-<p align="center"><sub>Public contributions from <b>22 Nov 2025</b> to <b>22 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
+<p align="center"><sub>Public contributions from <b>23 Nov 2025</b> to <b>23 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
 
 <table>
 <thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Public contributions</th><th align="right">Commits</th><th align="right">PRs</th><th align="right">Reviews</th><th align="right">Issues</th></tr></thead>
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/1v4n4"><img src="https://avatars.githubusercontent.com/u/65791349?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/1v4n4"><b>1v4n4</b></a><br><sub>&#64;1v4n4 · 498 followers</sub></td>
+<td align="right"><b>487</b></td>
+<td align="right">425</td>
+<td align="right">35</td>
+<td align="right">7</td>
+<td align="right">19</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/dchest"><img src="https://avatars.githubusercontent.com/u/52677?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dchest"><b>Dmitry Chestnykh</b></a><br><sub>&#64;dchest · 554 followers</sub></td>
+<td align="right"><b>81</b></td>
+<td align="right">69</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/Const-me"><img src="https://avatars.githubusercontent.com/u/925112?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Const-me"><b>Konstantin</b></a><br><sub>&#64;Const-me · 364 followers</sub></td>
 <td align="right"><b>52</b></td>
 <td align="right">47</td>
@@ -33,7 +51,7 @@
 <td align="right">3</td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">4</td>
 <td><a href="https://github.com/therustmonk"><img src="https://avatars.githubusercontent.com/u/418920?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/therustmonk"><b>Denis Kolodin</b></a><br><sub>&#64;therustmonk · 798 followers</sub></td>
 <td align="right"><b>35</b></td>
 <td align="right">9</td>
@@ -48,7 +66,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 2 of 400 discovered developers (398 awaiting measurement).
+- **Measured:** 4 of 400 discovered developers (396 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

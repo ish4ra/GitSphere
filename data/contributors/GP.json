@@ -5,12 +5,14 @@
 "country": {"code":"GP","name":"Guadeloupe","slug":"guadeloupe"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":151,"measuredAccounts":2,"measurementBacklog":149,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":259,"measuredAccounts":4,"measurementBacklog":255,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":25,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"U_kgDOC9GjsQ","login":"Sylv1Vip","name":null,"url":"https://github.com/Sylv1Vip","avatarUrl":"https://avatars.githubusercontent.com/u/198288305?s=80&v=4","followers":0,"publicRepos":80,"location":"Guadeloupe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":88,"commits":12,"pullRequests":0,"reviews":0,"issues":0,"repositories":76,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjQ1MzI0MTM=","login":"xgueret","name":"GUERET Xavier(HIX)","url":"https://github.com/xgueret","avatarUrl":"https://avatars.githubusercontent.com/u/4532413?s=80&v=4","followers":11,"publicRepos":62,"location":"Guadeloupe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":2789,"commits":2284,"pullRequests":435,"reviews":15,"issues":48,"repositories":7,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":2,"id":"MDQ6VXNlcjQ0MTgwNjE=","login":"shaneal972","name":"David JACQUA","url":"https://github.com/shaneal972","avatarUrl":"https://avatars.githubusercontent.com/u/4418061?s=80&v=4","followers":0,"publicRepos":46,"location":"Guadeloupe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":128,"commits":126,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":3,"id":"U_kgDOC9GjsQ","login":"Sylv1Vip","name":null,"url":"https://github.com/Sylv1Vip","avatarUrl":"https://avatars.githubusercontent.com/u/198288305?s=80&v=4","followers":0,"publicRepos":80,"location":"Guadeloupe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":88,"commits":12,"pullRequests":0,"reviews":0,"issues":0,"repositories":76,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "44ab66795239c209",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "b3c7285106b1d5e5",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

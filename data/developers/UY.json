@@ -5,16 +5,22 @@
 "country": {"code":"UY","name":"Uruguay","slug":"uruguay"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":179,"candidates":5,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":85,"candidates":11,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjU2MDAzNDE=","login":"diegomura","name":"Diego Muracciole","url":"https://github.com/diegomura","avatarUrl":"https://avatars.githubusercontent.com/u/5600341?s=80&v=4","followers":1780,"publicRepos":33,"location":"Montevideo, Uruguay","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjUyNjQy","login":"spastorino","name":"Santiago Pastorino","url":"https://github.com/spastorino","avatarUrl":"https://avatars.githubusercontent.com/u/52642?s=80&v=4","followers":1152,"publicRepos":113,"location":"Montevideo, Uruguay","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":3,"id":"MDQ6VXNlcjkxMDIy","login":"omab","name":"Matías Aguirre","url":"https://github.com/omab","avatarUrl":"https://avatars.githubusercontent.com/u/91022?s=80&v=4","followers":420,"location":"Montevideo, Uruguay","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":4,"id":"MDQ6VXNlcjY0MTU2","login":"titoBouzout","name":"Tito","url":"https://github.com/titoBouzout","avatarUrl":"https://avatars.githubusercontent.com/u/64156?s=80&v=4","followers":226,"location":"Montevideo, Uruguay","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":5,"id":"MDQ6VXNlcjQ3OTI4NTA0","login":"davidmonterocrespo24","name":"David Montero Crespo","url":"https://github.com/davidmonterocrespo24","avatarUrl":"https://avatars.githubusercontent.com/u/47928504?s=80&v=4","followers":179,"location":"Uruguay","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":3,"id":"MDQ6VXNlcjExNTgyNTM=","login":"ElMassimo","name":"Máximo Mussini","url":"https://github.com/ElMassimo","avatarUrl":"https://avatars.githubusercontent.com/u/1158253?s=80&v=4","followers":535,"publicRepos":117,"location":"Colonia del Sacramento","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23"},
+  {"rank":4,"id":"U_kgDOBcglCQ","login":"fedegonc","name":"federico goncalvez","url":"https://github.com/fedegonc","avatarUrl":"https://avatars.githubusercontent.com/u/97002761?s=80&v=4","followers":503,"publicRepos":94,"location":"Rivera / Uruguay","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":5,"id":"MDQ6VXNlcjMyNjkzNzky","login":"damiansire","name":"Damian Sire","url":"https://github.com/damiansire","avatarUrl":"https://avatars.githubusercontent.com/u/32693792?s=80&v=4","followers":474,"publicRepos":23,"location":"Uruguay","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":6,"id":"U_kgDOBwDD6Q","login":"Maypoo","name":"Mauro","url":"https://github.com/Maypoo","avatarUrl":"https://avatars.githubusercontent.com/u/117490665?s=80&v=4","followers":438,"publicRepos":5,"location":"Uruguay","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":7,"id":"MDQ6VXNlcjkxMDIy","login":"omab","name":"Matías Aguirre","url":"https://github.com/omab","avatarUrl":"https://avatars.githubusercontent.com/u/91022?s=80&v=4","followers":420,"publicRepos":58,"location":"Montevideo, Uruguay","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":8,"id":"MDQ6VXNlcjY0MTU2","login":"titoBouzout","name":"Tito","url":"https://github.com/titoBouzout","avatarUrl":"https://avatars.githubusercontent.com/u/64156?s=80&v=4","followers":226,"location":"Montevideo, Uruguay","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":9,"id":"MDQ6VXNlcjQ3OTI4NTA0","login":"davidmonterocrespo24","name":"David Montero Crespo","url":"https://github.com/davidmonterocrespo24","avatarUrl":"https://avatars.githubusercontent.com/u/47928504?s=80&v=4","followers":179,"location":"Uruguay","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":10,"id":"MDQ6VXNlcjg2MDAzNg==","login":"itaybre","name":"Itay Brenner","url":"https://github.com/itaybre","avatarUrl":"https://avatars.githubusercontent.com/u/860036?s=80&v=4","followers":141,"location":"Montevideo, Uruguay","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":11,"id":"U_kgDOBeUkXw","login":"yossdotpro","name":"Yoannis Sánchez Soto","url":"https://github.com/yossdotpro","avatarUrl":"https://avatars.githubusercontent.com/u/98903135?s=80&v=4","followers":85,"publicRepos":null,"location":"Uruguay","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "95489c6e0ebe31d7",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "a071cb3c4ae1a42f",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

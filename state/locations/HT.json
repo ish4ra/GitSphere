@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"country": "HT",
+"round": 1,
+"roundStartedAt": "2026-11-23T03:00:24.929Z",
+"terms": {"count":92,"fingerprint":"92:dad1a1f7"},
+"termIndex": 0,
+"specIndex": 0,
+"active": {"term":"Haiti","kind":"users","queue":[{"metric":[0,100000000],"created":null,"cursor":"Y3Vyc29yOjMwMA==","page":7,"retrieved":300,"attempts":0}],"unresolved":[],"cycleStartedAt":"2026-11-23T03:00:24.930Z","stats":{"pages":6}},
+"unresolved": [],
+"completedRounds": [],
+"stats": {"requests":6,"pages":6,"accounts":300},
+"updatedAt": "2026-11-23T03:00:24.929Z"
+}

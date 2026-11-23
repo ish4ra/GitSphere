@@ -3,12 +3,14 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"GU","name":"Guam","slug":"guam"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":91,"measuredAccounts":2,"measurementBacklog":89,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "2d50601c31c1047b",
-"updatedAt": "2026-11-22T22:28:05.466Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"coverage": {"basis":"partial","discoveredAccounts":179,"measuredAccounts":4,"measurementBacklog":175,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":34,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"U_kgDOBXZoSw","login":"ReyBan82","name":"Renante B Baniaga","url":"https://github.com/ReyBan82","avatarUrl":"https://avatars.githubusercontent.com/u/91646027?s=80&v=4","followers":67,"publicRepos":147,"location":"Guam, United, States","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":11,"commits":0,"pullRequests":3,"reviews":0,"issues":1,"repositories":7,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
+],
+"contentHash": "adc98b0f3a1991cb",
+"updatedAt": "2026-11-23T03:24:49.438Z",
+"verifiedOn": "2026-11-23",
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

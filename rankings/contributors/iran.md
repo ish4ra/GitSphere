@@ -14,17 +14,26 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/IR.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/IR.json">JSON</a> |
 
 </div>
 
-<p align="center"><sub>Public contributions from <b>22 Nov 2025</b> to <b>22 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
+<p align="center"><sub>Public contributions from <b>23 Nov 2025</b> to <b>23 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
 
 <table>
 <thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Public contributions</th><th align="right">Commits</th><th align="right">PRs</th><th align="right">Reviews</th><th align="right">Issues</th></tr></thead>
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/bugbounted"><img src="https://avatars.githubusercontent.com/u/104225186?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bugbounted"><b>Mohamad Samardeh Haghighi Fard</b></a><br><sub>&#64;bugbounted · 933 followers</sub></td>
+<td align="right"><b>496,474</b></td>
+<td align="right">496,461</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/MahanRajabi80"><img src="https://avatars.githubusercontent.com/u/105061018?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MahanRajabi80"><b>MahanRajabi80</b></a><br><sub>&#64;MahanRajabi80 · 1,271 followers</sub></td>
 <td align="right"><b>120</b></td>
 <td align="right">111</td>
@@ -33,7 +42,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">3</td>
+<td><a href="https://github.com/sorooshrabet"><img src="https://avatars.githubusercontent.com/u/143717347?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sorooshrabet"><b>soroosh rabet</b></a><br><sub>&#64;sorooshrabet · 963 followers</sub></td>
+<td align="right"><b>18</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/ghaseminya"><img src="https://avatars.githubusercontent.com/u/937340?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ghaseminya"><b>j2eedev</b></a><br><sub>&#64;ghaseminya · 680 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
@@ -48,10 +66,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 2 of 463 discovered developers (461 awaiting measurement).
+- **Measured:** 4 of 507 discovered developers (503 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 159 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

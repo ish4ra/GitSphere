@@ -5,13 +5,15 @@
 "country": {"code":"MO","name":"Macao","slug":"macao"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":20,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDOBimpNw","login":"spiritLHLS","name":"spiritlhl","url":"https://github.com/spiritLHLS","avatarUrl":"https://avatars.githubusercontent.com/u/103393591?s=80&v=4","followers":406,"publicRepos":64,"location":"Macau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"MDQ6VXNlcjMzNjQ3NDc=","login":"002301","name":"airmn","url":"https://github.com/002301","avatarUrl":"https://avatars.githubusercontent.com/u/3364747?s=80&v=4","followers":20,"publicRepos":37,"location":"3703 ,Errol Islands ,Gerryfort ,Wisconsin ,Macao","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"MDQ6VXNlcjYxNTgzMzI0","login":"ken0225","name":"Ke\"Ken\"WANG","url":"https://github.com/ken0225","avatarUrl":"https://avatars.githubusercontent.com/u/61583324?s=80&v=4","followers":426,"publicRepos":12,"location":"Macau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":2,"id":"U_kgDOBimpNw","login":"spiritLHLS","name":"spiritlhl","url":"https://github.com/spiritLHLS","avatarUrl":"https://avatars.githubusercontent.com/u/103393591?s=80&v=4","followers":406,"publicRepos":64,"location":"Macau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjMzNjQ3NDc=","login":"002301","name":"airmn","url":"https://github.com/002301","avatarUrl":"https://avatars.githubusercontent.com/u/3364747?s=80&v=4","followers":20,"publicRepos":37,"location":"3703 ,Errol Islands ,Gerryfort ,Wisconsin ,Macao","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"MDQ6VXNlcjg4OTYxNTE2","login":"0113121050","name":"QingyeHuang","url":"https://github.com/0113121050","avatarUrl":"https://avatars.githubusercontent.com/u/88961516?s=80&v=4","followers":0,"publicRepos":3,"location":"Macau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "13d9906130a5f40f",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "16465081d3ffa3e0",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

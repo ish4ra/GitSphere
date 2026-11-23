@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **51** | 22 Nov 2026 | <a href="../../data/developers/NZ.json">JSON</a> |
+| 🟡 Provisional | **87** | 22 Nov 2026 | <a href="../../data/developers/NZ.json">JSON</a> |
 
 </div>
 
@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/ageron"><img src="https://avatars.githubusercontent.com/u/76661?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ageron"><b>Aurélien Geron</b></a><br><sub>&#64;ageron</sub></td>
-<td align="right"><b>18,031</b></td>
+<td align="right"><b>18,032</b></td>
 <td align="right">110</td>
 <td><sub>Auckland</sub></td>
 </tr>
@@ -45,7 +45,7 @@
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/RichardLitt"><img src="https://avatars.githubusercontent.com/u/910753?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RichardLitt"><b>Richard Littauer</b></a><br><sub>&#64;RichardLitt</sub></td>
-<td align="right"><b>3,491</b></td>
+<td align="right"><b>3,492</b></td>
 <td align="right">815</td>
 <td><sub>Pōneke Wellington, Aotearoa New Zealand</sub></td>
 </tr>
@@ -275,108 +275,360 @@
 </tr>
 <tr>
 <td align="right">37</td>
-<td><a href="https://github.com/ashmind"><img src="https://avatars.githubusercontent.com/u/166396?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ashmind"><b>Andrey Shchekin</b></a><br><sub>&#64;ashmind</sub></td>
-<td align="right"><b>553</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/ryanbr"><img src="https://avatars.githubusercontent.com/u/1659004?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ryanbr"><b>Fanboynz</b></a><br><sub>&#64;ryanbr</sub></td>
+<td align="right"><b>555</b></td>
+<td align="right">43</td>
 <td><sub>New Zealand</sub></td>
 </tr>
 <tr>
 <td align="right">38</td>
-<td><a href="https://github.com/brentvollebregt"><img src="https://avatars.githubusercontent.com/u/19944838?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brentvollebregt"><b>Brent Vollebregt</b></a><br><sub>&#64;brentvollebregt</sub></td>
-<td align="right"><b>524</b></td>
-<td align="right">0</td>
-<td><sub>Wellington, New Zealand</sub></td>
+<td><a href="https://github.com/robertjpayne"><img src="https://avatars.githubusercontent.com/u/214288?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/robertjpayne"><b>Robert Payne</b></a><br><sub>&#64;robertjpayne</sub></td>
+<td align="right"><b>555</b></td>
+<td align="right">3</td>
+<td><sub>Auckland, New Zealand</sub></td>
 </tr>
 <tr>
 <td align="right">39</td>
-<td><a href="https://github.com/acaudwell"><img src="https://avatars.githubusercontent.com/u/125186?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/acaudwell"><b>Andrew Caudwell</b></a><br><sub>&#64;acaudwell</sub></td>
-<td align="right"><b>460</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/ashmind"><img src="https://avatars.githubusercontent.com/u/166396?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ashmind"><b>Andrey Shchekin</b></a><br><sub>&#64;ashmind</sub></td>
+<td align="right"><b>553</b></td>
+<td align="right">117</td>
 <td><sub>New Zealand</sub></td>
 </tr>
 <tr>
 <td align="right">40</td>
-<td><a href="https://github.com/mikespook"><img src="https://avatars.githubusercontent.com/u/675230?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikespook"><b>Xing</b></a><br><sub>&#64;mikespook</sub></td>
-<td align="right"><b>444</b></td>
-<td align="right">0</td>
-<td><sub>Auckland, NZ</sub></td>
+<td><a href="https://github.com/hieudku"><img src="https://avatars.githubusercontent.com/u/121607212?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hieudku"><b>Hieu</b></a><br><sub>&#64;hieudku</sub></td>
+<td align="right"><b>547</b></td>
+<td align="right">46</td>
+<td><sub>New Zealand</sub></td>
 </tr>
 <tr>
 <td align="right">41</td>
-<td><a href="https://github.com/VeNoMouS"><img src="https://avatars.githubusercontent.com/u/597545?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VeNoMouS"><b>VeNoMouS</b></a><br><sub>&#64;VeNoMouS</sub></td>
-<td align="right"><b>430</b></td>
-<td align="right">0</td>
-<td><sub>New Zealand</sub></td>
+<td><a href="https://github.com/brentvollebregt"><img src="https://avatars.githubusercontent.com/u/19944838?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brentvollebregt"><b>Brent Vollebregt</b></a><br><sub>&#64;brentvollebregt</sub></td>
+<td align="right"><b>524</b></td>
+<td align="right">18</td>
+<td><sub>Wellington, New Zealand</sub></td>
 </tr>
 <tr>
 <td align="right">42</td>
-<td><a href="https://github.com/edgurgel"><img src="https://avatars.githubusercontent.com/u/30873?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/edgurgel"><b>Eduardo Gurgel</b></a><br><sub>&#64;edgurgel</sub></td>
-<td align="right"><b>424</b></td>
-<td align="right">0</td>
-<td><sub>New Zealand</sub></td>
+<td><a href="https://github.com/meshcollider"><img src="https://avatars.githubusercontent.com/u/3211283?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/meshcollider"><b>Samuel Dobson</b></a><br><sub>&#64;meshcollider</sub></td>
+<td align="right"><b>507</b></td>
+<td align="right">24</td>
+<td><sub>Aotearoa &#124; New Zealand</sub></td>
 </tr>
 <tr>
 <td align="right">43</td>
-<td><a href="https://github.com/ketoo"><img src="https://avatars.githubusercontent.com/u/5752768?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ketoo"><b>kytooooo</b></a><br><sub>&#64;ketoo</sub></td>
-<td align="right"><b>419</b></td>
+<td><a href="https://github.com/CyrisXD"><img src="https://avatars.githubusercontent.com/u/3248638?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CyrisXD"><b>Cyris</b></a><br><sub>&#64;CyrisXD</sub></td>
+<td align="right"><b>502</b></td>
+<td align="right">34</td>
+<td><sub>New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><a href="https://github.com/lukemurraynz"><img src="https://avatars.githubusercontent.com/u/24467442?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lukemurraynz"><b>Luke Murray</b></a><br><sub>&#64;lukemurraynz</sub></td>
+<td align="right"><b>500</b></td>
+<td align="right">254</td>
+<td><sub>Hamilton, New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">45</td>
+<td><a href="https://github.com/dribnet"><img src="https://avatars.githubusercontent.com/u/945979?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dribnet"><b>tom white</b></a><br><sub>&#64;dribnet</sub></td>
+<td align="right"><b>488</b></td>
+<td align="right">181</td>
+<td><sub>Wellington, NZ</sub></td>
+</tr>
+<tr>
+<td align="right">46</td>
+<td><a href="https://github.com/boydm"><img src="https://avatars.githubusercontent.com/u/176561?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/boydm"><b>Boyd Multerer</b></a><br><sub>&#64;boydm</sub></td>
+<td align="right"><b>480</b></td>
+<td align="right">35</td>
+<td><sub>Wellington, New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">47</td>
+<td><a href="https://github.com/thomasmansencal"><img src="https://avatars.githubusercontent.com/u/99779?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thomasmansencal"><b>Thomas Mansencal</b></a><br><sub>&#64;thomasmansencal</sub></td>
+<td align="right"><b>473</b></td>
+<td align="right">49</td>
+<td><sub>New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><a href="https://github.com/AmirulAndalib"><img src="https://avatars.githubusercontent.com/u/86344856?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AmirulAndalib"><b>M Amirul</b></a><br><sub>&#64;AmirulAndalib</sub></td>
+<td align="right"><b>471</b></td>
+<td align="right">5,045</td>
+<td><sub>New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><a href="https://github.com/ZeroX-DG"><img src="https://avatars.githubusercontent.com/u/12984316?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ZeroX-DG"><b>Nguyen Viet Hung</b></a><br><sub>&#64;ZeroX-DG</sub></td>
+<td align="right"><b>471</b></td>
+<td align="right">122</td>
+<td><sub>New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><a href="https://github.com/acaudwell"><img src="https://avatars.githubusercontent.com/u/125186?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/acaudwell"><b>Andrew Caudwell</b></a><br><sub>&#64;acaudwell</sub></td>
+<td align="right"><b>460</b></td>
+<td align="right">9</td>
+<td><sub>New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">51</td>
+<td><a href="https://github.com/parndt"><img src="https://avatars.githubusercontent.com/u/10128?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/parndt"><b>Philip Arndt</b></a><br><sub>&#64;parndt</sub></td>
+<td align="right"><b>456</b></td>
+<td align="right">340</td>
+<td><sub>🇳🇿 Aotearoa New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><a href="https://github.com/minggo"><img src="https://avatars.githubusercontent.com/u/488203?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/minggo"><b>minggo</b></a><br><sub>&#64;minggo</sub></td>
+<td align="right"><b>448</b></td>
+<td align="right">74</td>
+<td><sub>Auckland, New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><a href="https://github.com/RyanBlundell"><img src="https://avatars.githubusercontent.com/u/18232558?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RyanBlundell"><b>Ryan Blundell</b></a><br><sub>&#64;RyanBlundell</sub></td>
+<td align="right"><b>446</b></td>
 <td align="right">0</td>
 <td><sub>Auckland</sub></td>
 </tr>
 <tr>
-<td align="right">44</td>
+<td align="right">54</td>
+<td><a href="https://github.com/mikespook"><img src="https://avatars.githubusercontent.com/u/675230?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikespook"><b>Xing</b></a><br><sub>&#64;mikespook</sub></td>
+<td align="right"><b>444</b></td>
+<td align="right">78</td>
+<td><sub>Auckland, NZ</sub></td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><a href="https://github.com/carlcook"><img src="https://avatars.githubusercontent.com/u/5437091?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/carlcook"><b>Carl Cook</b></a><br><sub>&#64;carlcook</sub></td>
+<td align="right"><b>442</b></td>
+<td align="right">20</td>
+<td><sub>New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><a href="https://github.com/jesserockz"><img src="https://avatars.githubusercontent.com/u/3060199?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jesserockz"><b>Jesse Hills</b></a><br><sub>&#64;jesserockz</sub></td>
+<td align="right"><b>439</b></td>
+<td align="right">166</td>
+<td><sub>Wellington, New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><a href="https://github.com/Richienb"><img src="https://avatars.githubusercontent.com/u/29491356?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Richienb"><b>Richie Bendall</b></a><br><sub>&#64;Richienb</sub></td>
+<td align="right"><b>431</b></td>
+<td align="right">1,614</td>
+<td><sub>Auckland, New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><a href="https://github.com/SmileyChris"><img src="https://avatars.githubusercontent.com/u/109951?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SmileyChris"><b>Chris Beaven</b></a><br><sub>&#64;SmileyChris</sub></td>
+<td align="right"><b>430</b></td>
+<td align="right">93</td>
+<td><sub>New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><a href="https://github.com/VeNoMouS"><img src="https://avatars.githubusercontent.com/u/597545?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VeNoMouS"><b>VeNoMouS</b></a><br><sub>&#64;VeNoMouS</sub></td>
+<td align="right"><b>430</b></td>
+<td align="right">14</td>
+<td><sub>New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><a href="https://github.com/edgurgel"><img src="https://avatars.githubusercontent.com/u/30873?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/edgurgel"><b>Eduardo Gurgel</b></a><br><sub>&#64;edgurgel</sub></td>
+<td align="right"><b>424</b></td>
+<td align="right">43</td>
+<td><sub>New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><a href="https://github.com/ketoo"><img src="https://avatars.githubusercontent.com/u/5752768?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ketoo"><b>kytooooo</b></a><br><sub>&#64;ketoo</sub></td>
+<td align="right"><b>419</b></td>
+<td align="right">173</td>
+<td><sub>Auckland</sub></td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><a href="https://github.com/hellodigua"><img src="https://avatars.githubusercontent.com/u/9943164?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hellodigua"><b>digua</b></a><br><sub>&#64;hellodigua</sub></td>
+<td align="right"><b>361</b></td>
+<td align="right">0</td>
+<td><sub>Auckland</sub></td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><a href="https://github.com/yeungon"><img src="https://avatars.githubusercontent.com/u/3062418?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yeungon"><b>Vuong Nguyen</b></a><br><sub>&#64;yeungon</sub></td>
+<td align="right"><b>357</b></td>
+<td align="right">0</td>
+<td><sub>Auckland, New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">64</td>
 <td><a href="https://github.com/elalish"><img src="https://avatars.githubusercontent.com/u/1649964?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elalish"><b>Emmett Lalish</b></a><br><sub>&#64;elalish</sub></td>
 <td align="right"><b>337</b></td>
 <td align="right">0</td>
 <td><sub>Wellington, NZ</sub></td>
 </tr>
 <tr>
-<td align="right">45</td>
+<td align="right">65</td>
+<td><a href="https://github.com/thenickdude"><img src="https://avatars.githubusercontent.com/u/1921411?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thenickdude"><b>Nicholas Sherlock</b></a><br><sub>&#64;thenickdude</sub></td>
+<td align="right"><b>320</b></td>
+<td align="right">0</td>
+<td><sub>Dunedin, New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><a href="https://github.com/Windos"><img src="https://avatars.githubusercontent.com/u/6955786?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Windos"><b>Josh King</b></a><br><sub>&#64;Windos</sub></td>
+<td align="right"><b>275</b></td>
+<td align="right">0</td>
+<td><sub>New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><a href="https://github.com/bitshifter"><img src="https://avatars.githubusercontent.com/u/135700?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bitshifter"><b>Cameron Hart</b></a><br><sub>&#64;bitshifter</sub></td>
+<td align="right"><b>224</b></td>
+<td align="right">0</td>
+<td><sub>Wellington, New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><a href="https://github.com/hardbyte"><img src="https://avatars.githubusercontent.com/u/855189?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hardbyte"><b>Brian Thorne</b></a><br><sub>&#64;hardbyte</sub></td>
+<td align="right"><b>218</b></td>
+<td align="right">0</td>
+<td><sub>Christchurch, New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">69</td>
 <td><a href="https://github.com/Taiko2k"><img src="https://avatars.githubusercontent.com/u/17271572?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Taiko2k"><b>James</b></a><br><sub>&#64;Taiko2k</sub></td>
 <td align="right"><b>211</b></td>
 <td align="right">0</td>
 <td><sub>New Zealand</sub></td>
 </tr>
 <tr>
-<td align="right">46</td>
+<td align="right">70</td>
 <td><a href="https://github.com/axllent"><img src="https://avatars.githubusercontent.com/u/1463435?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/axllent"><b>Ralph Slooten</b></a><br><sub>&#64;axllent</sub></td>
 <td align="right"><b>209</b></td>
 <td align="right">0</td>
 <td><sub>New Zealand</sub></td>
 </tr>
 <tr>
-<td align="right">47</td>
+<td align="right">71</td>
+<td><a href="https://github.com/Zaneham"><img src="https://avatars.githubusercontent.com/u/222171382?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Zaneham"><b>Zane Hambly</b></a><br><sub>&#64;Zaneham</sub></td>
+<td align="right"><b>205</b></td>
+<td align="right">0</td>
+<td><sub>Auckland, New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><a href="https://github.com/jesselau76"><img src="https://avatars.githubusercontent.com/u/40444824?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jesselau76"><b>jesselau76</b></a><br><sub>&#64;jesselau76</sub></td>
+<td align="right"><b>203</b></td>
+<td align="right">0</td>
+<td><sub>New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><a href="https://github.com/yackermann"><img src="https://avatars.githubusercontent.com/u/1636116?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yackermann"><b>Ackermann Yuriy</b></a><br><sub>&#64;yackermann</sub></td>
+<td align="right"><b>190</b></td>
+<td align="right">0</td>
+<td><sub>Aotearoa / NZ</sub></td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><a href="https://github.com/jchanvfx"><img src="https://avatars.githubusercontent.com/u/7546915?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jchanvfx"><b>Johnny Chan</b></a><br><sub>&#64;jchanvfx</sub></td>
+<td align="right"><b>163</b></td>
+<td align="right">0</td>
+<td><sub>Wellington, New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><a href="https://github.com/jsdecena"><img src="https://avatars.githubusercontent.com/u/2285625?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jsdecena"><b>Jeff Decena</b></a><br><sub>&#64;jsdecena</sub></td>
+<td align="right"><b>155</b></td>
+<td align="right">0</td>
+<td><sub>New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">76</td>
 <td><a href="https://github.com/alangrainger"><img src="https://avatars.githubusercontent.com/u/16197738?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alangrainger"><b>Alan Grainger</b></a><br><sub>&#64;alangrainger</sub></td>
 <td align="right"><b>122</b></td>
 <td align="right">0</td>
 <td><sub>New Zealand</sub></td>
 </tr>
 <tr>
-<td align="right">48</td>
+<td align="right">77</td>
+<td><a href="https://github.com/laher"><img src="https://avatars.githubusercontent.com/u/125845?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/laher"><b>Amir Laher</b></a><br><sub>&#64;laher</sub></td>
+<td align="right"><b>108</b></td>
+<td align="right">0</td>
+<td><sub>Auckland</sub></td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><a href="https://github.com/madeleineostoja"><img src="https://avatars.githubusercontent.com/u/6374876?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/madeleineostoja"><b>Mads</b></a><br><sub>&#64;madeleineostoja</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">0</td>
+<td><sub>Auckland, New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">79</td>
 <td><a href="https://github.com/rusq"><img src="https://avatars.githubusercontent.com/u/16064414?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rusq"><b>Rustam</b></a><br><sub>&#64;rusq</sub></td>
 <td align="right"><b>94</b></td>
 <td align="right">0</td>
 <td><sub>New Zealand</sub></td>
 </tr>
 <tr>
-<td align="right">49</td>
+<td align="right">80</td>
 <td><a href="https://github.com/zeman"><img src="https://avatars.githubusercontent.com/u/204268?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zeman"><b>Mark Zeman</b></a><br><sub>&#64;zeman</sub></td>
 <td align="right"><b>85</b></td>
 <td align="right">0</td>
 <td><sub>Auckland, New Zealand</sub></td>
 </tr>
 <tr>
-<td align="right">50</td>
+<td align="right">81</td>
 <td><a href="https://github.com/sideshow"><img src="https://avatars.githubusercontent.com/u/137756?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sideshow"><b>Adam Jones</b></a><br><sub>&#64;sideshow</sub></td>
 <td align="right"><b>80</b></td>
 <td align="right">0</td>
 <td><sub>Wellington, New Zealand</sub></td>
 </tr>
 <tr>
-<td align="right">51</td>
+<td align="right">82</td>
+<td><a href="https://github.com/mwh"><img src="https://avatars.githubusercontent.com/u/118498?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mwh"><b>Michael Homer</b></a><br><sub>&#64;mwh</sub></td>
+<td align="right"><b>63</b></td>
+<td align="right">0</td>
+<td><sub>Wellington, NZ</sub></td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><a href="https://github.com/avkonst"><img src="https://avatars.githubusercontent.com/u/3971413?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/avkonst"><b>Andrey</b></a><br><sub>&#64;avkonst</sub></td>
+<td align="right"><b>56</b></td>
+<td align="right">0</td>
+<td><sub>New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><a href="https://github.com/brendon"><img src="https://avatars.githubusercontent.com/u/81871?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brendon"><b>Brendon Muir</b></a><br><sub>&#64;brendon</sub></td>
+<td align="right"><b>56</b></td>
+<td align="right">0</td>
+<td><sub>Hamilton, New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">85</td>
+<td><a href="https://github.com/severity1"><img src="https://avatars.githubusercontent.com/u/1973846?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/severity1"><b>John Reilly Pospos</b></a><br><sub>&#64;severity1</sub></td>
+<td align="right"><b>54</b></td>
+<td align="right">0</td>
+<td><sub>Auckland, New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">86</td>
 <td><a href="https://github.com/paulkinzett"><img src="https://avatars.githubusercontent.com/u/1943617?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/paulkinzett"><b>Paul Kinzett</b></a><br><sub>&#64;paulkinzett</sub></td>
 <td align="right"><b>28</b></td>
 <td align="right">0</td>
 <td><sub>Wellington, New Zealand</sub></td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><a href="https://github.com/drjccoetzee"><img src="https://avatars.githubusercontent.com/u/185832971?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/drjccoetzee"><b>drjc coetzee</b></a><br><sub>&#64;drjccoetzee</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>1 Gibraltar Crescent, Parnell, Auckland 1052, N…</sub></td>
 </tr>
 </tbody>
 </table>
@@ -386,7 +638,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 51 attributed developers are tracked; the cutoff is 28 followers.
+- Organizations are excluded. 87 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

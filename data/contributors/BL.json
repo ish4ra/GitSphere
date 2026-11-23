@@ -3,12 +3,15 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"BL","name":"St. Barthélemy","slug":"st-barthelemy"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":11,"measuredAccounts":2,"measurementBacklog":9,"window":null,"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":14,"unresolved":0}},
-"users": [],
-"contentHash": "7213b5135c1f3510",
-"updatedAt": "2026-11-22T22:28:05.466Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"coverage": {"basis":"partial","discoveredAccounts":11,"measuredAccounts":4,"measurementBacklog":7,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":14,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"U_kgDOFM8obA","login":"hvrijhof1-glitch","name":"Hugo-Vrijhof","url":"https://github.com/hvrijhof1-glitch","avatarUrl":"https://avatars.githubusercontent.com/u/349120620?s=80&v=4","followers":0,"publicRepos":3,"location":"40 Montée St Barthélemy, 69 321 Lyon Cedex 05","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":19,"commits":15,"pullRequests":0,"reviews":0,"issues":0,"repositories":3,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":2,"id":"MDQ6VXNlcjM0NDcyNzI=","login":"cadiou","name":"Baptiste Cadiou","url":"https://github.com/cadiou","avatarUrl":"https://avatars.githubusercontent.com/u/3447272?s=80&v=4","followers":7,"publicRepos":4,"location":"Saint-Barthélemy","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":1,"commits":1,"pullRequests":0,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
+],
+"contentHash": "0868e8a22ee90fca",
+"updatedAt": "2026-11-23T03:24:49.438Z",
+"verifiedOn": "2026-11-23",
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

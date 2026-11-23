@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/developers/EC.json">JSON</a> |
+| 🟡 Provisional | **12** | 22 Nov 2026 | <a href="../../data/developers/EC.json">JSON</a> |
 
 </div>
 
@@ -58,17 +58,52 @@
 </tr>
 <tr>
 <td align="right">6</td>
+<td><a href="https://github.com/stsewd"><img src="https://avatars.githubusercontent.com/u/4975310?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stsewd"><b>Santos Gallegos</b></a><br><sub>&#64;stsewd</sub></td>
+<td align="right"><b>536</b></td>
+<td align="right">113</td>
+<td><sub>Ecuador</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/asantibanez"><img src="https://avatars.githubusercontent.com/u/5126648?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asantibanez"><b>Andrés Santibáñez</b></a><br><sub>&#64;asantibanez</sub></td>
+<td align="right"><b>514</b></td>
+<td align="right">62</td>
+<td><sub>Guayaquil, Ecuador</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/mleyvaz"><img src="https://avatars.githubusercontent.com/u/7613816?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mleyvaz"><b>Maikel Leyva</b></a><br><sub>&#64;mleyvaz</sub></td>
+<td align="right"><b>465</b></td>
+<td align="right">129</td>
+<td><sub>Guayaquil</sub></td>
+</tr>
+<tr>
+<td align="right">9</td>
 <td><a href="https://github.com/eythaann"><img src="https://avatars.githubusercontent.com/u/76607907?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eythaann"><b>Eythan David</b></a><br><sub>&#64;eythaann</sub></td>
 <td align="right"><b>409</b></td>
 <td align="right">0</td>
 <td><sub>Ecuador</sub></td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">10</td>
 <td><a href="https://github.com/jxlarrea"><img src="https://avatars.githubusercontent.com/u/309902?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jxlarrea"><b>Xavier Larrea</b></a><br><sub>&#64;jxlarrea</sub></td>
 <td align="right"><b>169</b></td>
 <td align="right">0</td>
 <td><sub>Ecuador</sub></td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/bayasdev"><img src="https://avatars.githubusercontent.com/u/49411169?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bayasdev"><b>Victor Bayas</b></a><br><sub>&#64;bayasdev</sub></td>
+<td align="right"><b>96</b></td>
+<td align="right">0</td>
+<td><sub>Quito</sub></td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><a href="https://github.com/Carlos487"><img src="https://avatars.githubusercontent.com/u/1598555?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Carlos487"><b>Carlos Fabara</b></a><br><sub>&#64;Carlos487</sub></td>
+<td align="right"><b>24</b></td>
+<td align="right">0</td>
+<td><sub>Quito, Ecuador</sub></td>
 </tr>
 </tbody>
 </table>
@@ -78,7 +113,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 7 attributed developers are tracked; the cutoff is 169 followers.
+- Organizations are excluded. 12 attributed developers are tracked; the cutoff is 24 followers.
 - **Location discovery:** term 0 of 117 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

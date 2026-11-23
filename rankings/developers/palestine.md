@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/developers/PS.json">JSON</a> |
+| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/developers/PS.json">JSON</a> |
 
 </div>
 
@@ -42,6 +42,20 @@
 <td align="right">59</td>
 <td><sub>𝐒𝐚𝐥𝐟𝐢𝐭&#95;𝐏𝐚𝐥𝐞𝐬𝐭𝐢𝐧𝐞</sub></td>
 </tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/msafadi"><img src="https://avatars.githubusercontent.com/u/301707?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/msafadi"><b>Mohammed Safadi</b></a><br><sub>&#64;msafadi</sub></td>
+<td align="right"><b>494</b></td>
+<td align="right">43</td>
+<td><sub>Gaza, Palestine</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/sunnyfoggy"><img src="https://avatars.githubusercontent.com/u/191257357?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sunnyfoggy"><b>Sunny</b></a><br><sub>&#64;sunnyfoggy</sub></td>
+<td align="right"><b>480</b></td>
+<td align="right">2</td>
+<td><sub>Free Palestine. 🇵🇸 ⠀⠀ ⠀⠀I&#39;m not always at the…</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -50,7 +64,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 3 attributed developers are tracked; the cutoff is 645 followers.
+- Organizations are excluded. 5 attributed developers are tracked; the cutoff is 480 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

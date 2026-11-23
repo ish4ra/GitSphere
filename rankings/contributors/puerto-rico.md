@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/PR.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/PR.json">JSON</a> |
 
 </div>
 
@@ -41,6 +41,24 @@
 <td align="right">0</td>
 <td align="right">0</td>
 </tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/gcollazo"><img src="https://avatars.githubusercontent.com/u/61048?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gcollazo"><b>Giovanni Collazo</b></a><br><sub>&#64;gcollazo · 454 followers</sub></td>
+<td align="right"><b>24</b></td>
+<td align="right">18</td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/Sparragus"><img src="https://avatars.githubusercontent.com/u/80982?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sparragus"><b>Richard B. Kaufman-López</b></a><br><sub>&#64;Sparragus · 691 followers</sub></td>
+<td align="right"><b>4</b></td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
 </tbody>
 </table>
 
@@ -48,7 +66,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 2 of 402 discovered developers (400 awaiting measurement).
+- **Measured:** 4 of 402 discovered developers (398 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

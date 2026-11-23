@@ -5,15 +5,17 @@
 "country": {"code":"AO","name":"Angola","slug":"angola"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":4,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":134,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":6,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":134,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjE0MTEyNjkw","login":"ismaely","name":"Gunza Ismael","url":"https://github.com/ismaely","avatarUrl":"https://avatars.githubusercontent.com/u/14112690?s=80&v=4","followers":1089,"publicRepos":29,"location":"Luanda - Angola","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjI5OTUyNTA4","login":"MarcioQuimbundo","name":"Márcio Quimbundo","url":"https://github.com/MarcioQuimbundo","avatarUrl":"https://avatars.githubusercontent.com/u/29952508?s=80&v=4","followers":604,"publicRepos":168,"location":"Luanda, Angola","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":3,"id":"MDQ6VXNlcjQ2MzQ1NTg1","login":"kurogai","name":"Héber Júlio","url":"https://github.com/kurogai","avatarUrl":"https://avatars.githubusercontent.com/u/46345585?s=80&v=4","followers":475,"publicRepos":84,"location":"Luanda / Angola","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":4,"id":"U_kgDOCCqFrg","login":"01Prim","name":"Mário Daniel Moisés","url":"https://github.com/01Prim","avatarUrl":"https://avatars.githubusercontent.com/u/137004462?s=80&v=4","followers":0,"publicRepos":1,"location":"Angola","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":3,"id":"U_kgDOCZv6Zg","login":"EmenegildoMarques0","name":"Emenegildo Marques","url":"https://github.com/EmenegildoMarques0","avatarUrl":"https://avatars.githubusercontent.com/u/161217126?s=80&v=4","followers":531,"publicRepos":26,"location":"Angola, Luanda","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":4,"id":"MDQ6VXNlcjQ2MzQ1NTg1","login":"kurogai","name":"Héber Júlio","url":"https://github.com/kurogai","avatarUrl":"https://avatars.githubusercontent.com/u/46345585?s=80&v=4","followers":475,"publicRepos":84,"location":"Luanda / Angola","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":5,"id":"U_kgDOCgyKQQ","login":"03232003","name":"Sabino José","url":"https://github.com/03232003","avatarUrl":"https://avatars.githubusercontent.com/u/168593985?s=80&v=4","followers":0,"publicRepos":4,"location":"Angola","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":6,"id":"U_kgDOCCqFrg","login":"01Prim","name":"Mário Daniel Moisés","url":"https://github.com/01Prim","avatarUrl":"https://avatars.githubusercontent.com/u/137004462?s=80&v=4","followers":0,"publicRepos":1,"location":"Angola","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "8244cfe367cc34a3",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "826116fad344d912",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

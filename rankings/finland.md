@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **100** | 01 Nov 2026 | <a href="../data/FI.json">JSON</a> |
-
-> **Not yet re-verified.** 21 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/FI.json">JSON</a> |
 
 </div>
 
@@ -578,150 +576,150 @@
 </tr>
 <tr>
 <td align="right">80</td>
-<td><img src="https://github.com/ekknod.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ekknod/pcileech-wifi"><b>ekknod/pcileech-wifi</b></a></td>
-<td align="right"><b>794</b></td>
-<td align="right">182</td>
-<td>Verilog</td>
+<td><img src="https://github.com/kijai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kijai/ComfyUI-LivePortraitKJ"><b>kijai/ComfyUI-LivePortraitKJ</b></a><br><sub>ComfyUI nodes for LivePortrait</sub></td>
+<td align="right"><b>2,209</b></td>
+<td align="right">176</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">81</td>
-<td><img src="https://github.com/anisul-Islam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anisul-Islam/react-assignment-1-products-listing-app"><b>anisul-Islam/react-assignment-1-products-listing-app</b></a></td>
-<td align="right"><b>771</b></td>
-<td align="right">747</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/jarikomppa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jarikomppa/soloud"><b>jarikomppa/soloud</b></a><br><sub>Free, easy, portable audio engine for games</sub></td>
+<td align="right"><b>2,199</b></td>
+<td align="right">356</td>
+<td>C</td>
 </tr>
 <tr>
 <td align="right">82</td>
-<td><img src="https://github.com/unitycoder.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/unitycoder/UnityLauncherPro"><b>unitycoder/UnityLauncherPro</b></a></td>
-<td align="right"><b>710</b></td>
-<td align="right">76</td>
+<td><img src="https://github.com/andrumak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/andrumak/MyBox"><b>andrumak/MyBox</b></a><br><sub>MyBox is a set of attributes, tools and extensions for Unity</sub></td>
+<td align="right"><b>2,195</b></td>
+<td align="right">248</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">83</td>
-<td><img src="https://github.com/luxas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/luxas/kubeadm-workshop"><b>luxas/kubeadm-workshop</b></a></td>
-<td align="right"><b>678</b></td>
-<td align="right">187</td>
-<td>Makefile</td>
+<td><img src="https://github.com/arielsalminen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arielsalminen/vue-design-system"><b>arielsalminen/vue-design-system</b></a><br><sub>An open source tool for building UI Design Systems with Vue.js</sub></td>
+<td align="right"><b>2,194</b></td>
+<td align="right">211</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">84</td>
-<td><img src="https://github.com/pkainulainen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pkainulainen/spring-data-jpa-examples"><b>pkainulainen/spring-data-jpa-examples</b></a></td>
-<td align="right"><b>655</b></td>
-<td align="right">709</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">85</td>
-<td><img src="https://github.com/teropa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/teropa/build-your-own-angularjs"><b>teropa/build-your-own-angularjs</b></a></td>
-<td align="right"><b>602</b></td>
-<td align="right">152</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">86</td>
-<td><img src="https://github.com/bisqwit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bisqwit/compiler_series"><b>bisqwit/compiler&#95;series</b></a></td>
-<td align="right"><b>569</b></td>
-<td align="right">62</td>
-<td>Yacc</td>
-</tr>
-<tr>
-<td align="right">87</td>
-<td><img src="https://github.com/jeffhammond.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jeffhammond/STREAM"><b>jeffhammond/STREAM</b></a></td>
-<td align="right"><b>552</b></td>
-<td align="right">188</td>
-<td>C</td>
-</tr>
-<tr>
-<td align="right">88</td>
-<td><img src="https://github.com/pakastin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pakastin/car"><b>pakastin/car</b></a></td>
-<td align="right"><b>488</b></td>
-<td align="right">45</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">89</td>
-<td><img src="https://github.com/windytan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/windytan/redsea"><b>windytan/redsea</b></a></td>
-<td align="right"><b>443</b></td>
-<td align="right">42</td>
+<td><img src="https://github.com/marzer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/marzer/tomlplusplus"><b>marzer/tomlplusplus</b></a><br><sub>Header-only TOML config file parser and serializer for C++17.</sub></td>
+<td align="right"><b>2,187</b></td>
+<td align="right">227</td>
 <td>C++</td>
 </tr>
 <tr>
+<td align="right">85</td>
+<td><img src="https://github.com/memononen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/memononen/nanosvg"><b>memononen/nanosvg</b></a><br><sub>Simple stupid SVG parser</sub></td>
+<td align="right"><b>2,040</b></td>
+<td align="right">425</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/CoderGamester.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CoderGamester/mcp-unity"><b>CoderGamester/mcp-unity</b></a><br><sub>Model Context Protocol (MCP) plugin to connect with Unity Editor — designed for Cursor, Claude Code, Codex, Windsurf an…</sub></td>
+<td align="right"><b>2,018</b></td>
+<td align="right">249</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><img src="https://github.com/imcvampire.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/imcvampire/vue-axios"><b>imcvampire/vue-axios</b></a><br><sub>A small wrapper for integrating axios to Vuejs</sub></td>
+<td align="right"><b>1,998</b></td>
+<td align="right">173</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><img src="https://github.com/charto.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/charto/nbind"><b>charto/nbind</b></a><br><sub>:sparkles: Magical headers that make your C++ library accessible from JavaScript :rocket:</sub></td>
+<td align="right"><b>1,998</b></td>
+<td align="right">121</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><img src="https://github.com/vhakulinen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vhakulinen/gnvim"><b>vhakulinen/gnvim</b></a><br><sub>GUI for neovim, without any web bloat</sub></td>
+<td align="right"><b>1,962</b></td>
+<td align="right">74</td>
+<td>Rust</td>
+</tr>
+<tr>
 <td align="right">90</td>
-<td><img src="https://github.com/n1tr00-10.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/n1tr00-10/tiktok-signature"><b>n1tr00-10/tiktok-signature</b></a></td>
-<td align="right"><b>401</b></td>
-<td align="right">7</td>
-<td>Python</td>
+<td><img src="https://github.com/flowplayer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/flowplayer/flowplayer"><b>flowplayer/flowplayer</b></a> <sub>archived</sub><br><sub>The HTML5 video player for the web</sub></td>
+<td align="right"><b>1,908</b></td>
+<td align="right">459</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">91</td>
-<td><img src="https://github.com/freetonik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/freetonik/castlemacs"><b>freetonik/castlemacs</b></a></td>
-<td align="right"><b>360</b></td>
-<td align="right">27</td>
-<td>Emacs Lisp</td>
+<td><img src="https://github.com/Vexu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Vexu/arocc"><b>Vexu/arocc</b></a><br><sub>A modern fully featured C compiler.</sub></td>
+<td align="right"><b>1,869</b></td>
+<td align="right">119</td>
+<td>Zig</td>
 </tr>
 <tr>
 <td align="right">92</td>
-<td><img src="https://github.com/hugovk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hugovk/em-keyboard"><b>hugovk/em-keyboard</b></a></td>
-<td align="right"><b>336</b></td>
-<td align="right">31</td>
-<td>Python</td>
+<td><img src="https://github.com/vergoh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vergoh/vnstat"><b>vergoh/vnstat</b></a><br><sub>vnStat - a network traffic monitor for Linux and BSD</sub></td>
+<td align="right"><b>1,810</b></td>
+<td align="right">143</td>
+<td>C</td>
 </tr>
 <tr>
 <td align="right">93</td>
-<td><img src="https://github.com/Ttl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ttl/fmcw3"><b>Ttl/fmcw3</b></a></td>
-<td align="right"><b>320</b></td>
-<td align="right">117</td>
-<td>VHDL</td>
+<td><img src="https://github.com/Asabeneh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Asabeneh/10-days-of-git-and-github"><b>Asabeneh/10-days-of-git-and-github</b></a><br><sub>Some video lessons on YouTube: This videos may help too: https://www.youtube.com/watch?v=9cCApTLb&#95;Io&amp;t=3s&amp;ab&#95;channel=Wa…</sub></td>
+<td align="right"><b>1,805</b></td>
+<td align="right">416</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td align="right">94</td>
-<td><img src="https://github.com/phadej.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/phadej/igbinary"><b>phadej/igbinary</b></a></td>
-<td align="right"><b>259</b></td>
-<td align="right">101</td>
-<td>C</td>
+<td><img src="https://github.com/harskish.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/harskish/ganspace"><b>harskish/ganspace</b></a><br><sub>Discovering Interpretable GAN Controls &#91;NeurIPS 2020&#93;</sub></td>
+<td align="right"><b>1,796</b></td>
+<td align="right">263</td>
+<td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">95</td>
-<td><img src="https://github.com/nikodemus.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nikodemus/screamer"><b>nikodemus/screamer</b></a></td>
-<td align="right"><b>256</b></td>
-<td align="right">35</td>
-<td>Common Lisp</td>
+<td><img src="https://github.com/agronholm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/agronholm/typeguard"><b>agronholm/typeguard</b></a><br><sub>Run-time type checker for Python</sub></td>
+<td align="right"><b>1,795</b></td>
+<td align="right">159</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">96</td>
-<td><img src="https://github.com/HollowMan6.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HollowMan6/TinyML-ESP32"><b>HollowMan6/TinyML-ESP32</b></a></td>
-<td align="right"><b>214</b></td>
-<td align="right">49</td>
-<td>C</td>
+<td><img src="https://github.com/jquerytools.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jquerytools/jquerytools"><b>jquerytools/jquerytools</b></a><br><sub>The missing UI library for the Web</sub></td>
+<td align="right"><b>1,775</b></td>
+<td align="right">510</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">97</td>
-<td><img src="https://github.com/sahava.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sahava/GoogleTagManagerTemplates"><b>sahava/GoogleTagManagerTemplates</b></a></td>
-<td align="right"><b>209</b></td>
-<td align="right">76</td>
-<td>Smarty</td>
+<td><img src="https://github.com/metosin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/metosin/malli"><b>metosin/malli</b></a><br><sub>High-performance data-driven data specification library for Clojure/Script.</sub></td>
+<td align="right"><b>1,775</b></td>
+<td align="right">247</td>
+<td>Clojure</td>
 </tr>
 <tr>
 <td align="right">98</td>
-<td><img src="https://github.com/mstahv.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mstahv/spring-boot-spatial-example"><b>mstahv/spring-boot-spatial-example</b></a></td>
-<td align="right"><b>144</b></td>
-<td align="right">58</td>
-<td>Java</td>
+<td><img src="https://github.com/jaukia.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jaukia/zoomooz"><b>jaukia/zoomooz</b></a><br><sub>An easy-to-use jQuery plugin for making zooming web pages.</sub></td>
+<td align="right"><b>1,769</b></td>
+<td align="right">266</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">99</td>
-<td><img src="https://github.com/calmjm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/calmjm/tojota"><b>calmjm/tojota</b></a></td>
-<td align="right"><b>83</b></td>
-<td align="right">13</td>
+<td><img src="https://github.com/kijai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kijai/ComfyUI-Florence2"><b>kijai/ComfyUI-Florence2</b></a><br><sub>Inference Microsoft Florence2 VLM</sub></td>
+<td align="right"><b>1,764</b></td>
+<td align="right">140</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">100</td>
-<td><img src="https://github.com/MoneroDiamond.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MoneroDiamond/MoneroDiamond"><b>MoneroDiamond/MoneroDiamond</b></a></td>
-<td align="right"><b>53</b></td>
-<td align="right">9</td>
-<td>—</td>
+<td><img src="https://github.com/sebbbi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sebbbi/NoGraphicsAPI"><b>sebbbi/NoGraphicsAPI</b></a><br><sub>Minimal graphics API. Built on top of latest Vulkan extensions. As close as possibly to my &quot;No Graphics API&quot; blog post…</sub></td>
+<td align="right"><b>1,745</b></td>
+<td align="right">64</td>
+<td>C++</td>
 </tr>
 </tbody>
 </table>
@@ -729,10 +727,9 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 53 stars; 106 attributed candidates are tracked.
-- 21 entries were carried over from the previous dataset and are pending revalidation.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 1,745 stars; 139 attributed candidates are tracked.
 - 131 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 176 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

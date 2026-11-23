@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"GL","name":"Greenland","slug":"greenland"},
-"count": 124,
+"count": 123,
 "repositories": [
-  {"name":"MicroPythonOS/MicroPythonOS","stars":772,"forks":98,"language":"Python","license":"MIT","archived":false,"createdAt":"2025-04-30T11:20:07Z","pushedAt":"2026-09-28T20:18:37Z","owner":{"login":"MicroPythonOS","type":"Organization","name":"MicroPythonOS","location":"Greenland"},"attribution":{"code":"GL","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:35.660Z","id":"legacy:micropythonos/micropythonos","legacy":true},
   {"name":"Nelson-Cheung/latex-book-template","stars":63,"forks":21,"language":"TeX","license":"GPL-3.0","archived":false,"createdAt":"2021-12-18T05:29:13Z","pushedAt":"2021-12-18T12:20:23Z","owner":{"login":"Nelson-Cheung","type":"User","name":"Nelson Cheung","location":"Greenland"},"attribution":{"code":"GL","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:35.660Z","id":"legacy:nelson-cheung/latex-book-template","legacy":true},
   {"name":"PennyHow/PyTrx","stars":48,"forks":25,"language":"Python","license":"MIT","archived":false,"createdAt":"2017-05-17T08:01:03Z","pushedAt":"2026-04-15T22:41:05Z","owner":{"login":"PennyHow","type":"User","name":"Penny How","location":"Nuuk, Greenland"},"attribution":{"code":"GL","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T13:36:35.660Z","id":"legacy:pennyhow/pytrx","legacy":true},
   {"name":"aantoooon/TorusWallet","stars":36,"forks":2,"language":"TypeScript","license":"MIT","archived":false,"createdAt":"2025-08-02T20:28:56Z","pushedAt":"2025-08-02T20:30:02Z","owner":{"login":"aantoooon","type":"User","name":"anton","location":"Greenland"},"attribution":{"code":"GL","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:35.660Z","id":"legacy:aantoooon/toruswallet","legacy":true},

@@ -5,14 +5,14 @@
 "country": {"code":"BV","name":"Bouvet Island","slug":"bouvet-island"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":17,"measuredAccounts":4,"measurementBacklog":13,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":20,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":17,"measuredAccounts":6,"measurementBacklog":11,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":20,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOBc8NwA","login":"hexahigh","name":"Simon Bråten","url":"https://github.com/hexahigh","avatarUrl":"https://avatars.githubusercontent.com/u/97455552?s=80&v=4","followers":11,"publicRepos":124,"location":"Bouvet Island","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":525,"commits":486,"pullRequests":8,"reviews":0,"issues":18,"repositories":12,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":2,"id":"MDQ6VXNlcjY1MDIyNjYx","login":"PythonshellDebugwindow","name":null,"url":"https://github.com/PythonshellDebugwindow","avatarUrl":"https://avatars.githubusercontent.com/u/65022661?s=80&v=4","followers":13,"publicRepos":6,"location":"Bouvet Island","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":56,"commits":56,"pullRequests":0,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":3,"id":"U_kgDOC0rpfQ","login":"bijaybartaula","name":"Bijay Bartaula","url":"https://github.com/bijaybartaula","avatarUrl":"https://avatars.githubusercontent.com/u/189458813?s=80&v=4","followers":5,"publicRepos":5,"location":"Bouvet Island","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":12,"commits":11,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "b86abca1638904ff",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "e8f3d8cce7438b51",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

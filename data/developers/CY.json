@@ -5,7 +5,7 @@
 "country": {"code":"CY","name":"Cyprus","slug":"cyprus"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":283,"candidates":9,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":105,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":166,"candidates":13,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":105,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjIyMTM2ODI=","login":"zloirock","name":"Denis Pushkarev","url":"https://github.com/zloirock","avatarUrl":"https://avatars.githubusercontent.com/u/2213682?s=80&v=4","followers":7507,"publicRepos":10,"location":"Cyprus, Larnaca","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"U_kgDOBiEl_g","login":"beytekindavut","name":"Davut BEYTEKIN","url":"https://github.com/beytekindavut","avatarUrl":"https://avatars.githubusercontent.com/u/102835710?s=80&v=4","followers":3150,"publicRepos":9,"location":"Cyprus - Mağosa","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
@@ -14,11 +14,15 @@
   {"rank":5,"id":"MDQ6VXNlcjc3MTE1NzU5","login":"lyushher","name":"Firdevs Akbayır","url":"https://github.com/lyushher","avatarUrl":"https://avatars.githubusercontent.com/u/77115759?s=80&v=4","followers":1057,"publicRepos":38,"location":"Northern Cyprus","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":6,"id":"MDQ6VXNlcjE2NTA4MTUw","login":"mozafarimanesh","name":"Reza Mozafari Manesh","url":"https://github.com/mozafarimanesh","avatarUrl":"https://avatars.githubusercontent.com/u/16508150?s=80&v=4","followers":696,"publicRepos":0,"location":"Republic Of Cyprus","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":7,"id":"MDQ6VXNlcjMzNTczODM=","login":"zakirullin","name":"Artem Zakirullin","url":"https://github.com/zakirullin","avatarUrl":"https://avatars.githubusercontent.com/u/3357383?s=80&v=4","followers":571,"publicRepos":20,"location":"Limassol, Cyprus","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":8,"id":"MDQ6VXNlcjQ1NDcxOA==","login":"gosom","name":"Georgios Komninos","url":"https://github.com/gosom","avatarUrl":"https://avatars.githubusercontent.com/u/454718?s=80&v=4","followers":287,"location":"Cyprus","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":9,"id":"MDQ6VXNlcjQzMzQ4NA==","login":"atercattus","name":"Aleksey Akulovich","url":"https://github.com/atercattus","avatarUrl":"https://avatars.githubusercontent.com/u/433484?s=80&v=4","followers":283,"publicRepos":70,"location":"Pafos, Cyprus","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+  {"rank":8,"id":"MDQ6VXNlcjI5ODUyMQ==","login":"bravit","name":"Vitaly Bragilevsky","url":"https://github.com/bravit","avatarUrl":"https://avatars.githubusercontent.com/u/298521?s=80&v=4","followers":543,"publicRepos":57,"location":"Larnaca, Cyprus","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":9,"id":"MDQ6VXNlcjExOTY1NjU=","login":"FZambia","name":"Alexander Emelin","url":"https://github.com/FZambia","avatarUrl":"https://avatars.githubusercontent.com/u/1196565?s=80&v=4","followers":474,"publicRepos":93,"location":"Limassol, Cyprus","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":10,"id":"MDQ6VXNlcjEyMDk1NTQ=","login":"KaterinaPetrova","name":"Ekaterina Petrova","url":"https://github.com/KaterinaPetrova","avatarUrl":"https://avatars.githubusercontent.com/u/1209554?s=80&v=4","followers":436,"publicRepos":30,"location":"Nicosia, Cyprus","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":11,"id":"MDQ6VXNlcjQ1NDcxOA==","login":"gosom","name":"Georgios Komninos","url":"https://github.com/gosom","avatarUrl":"https://avatars.githubusercontent.com/u/454718?s=80&v=4","followers":287,"location":"Cyprus","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":12,"id":"MDQ6VXNlcjQzMzQ4NA==","login":"atercattus","name":"Aleksey Akulovich","url":"https://github.com/atercattus","avatarUrl":"https://avatars.githubusercontent.com/u/433484?s=80&v=4","followers":283,"publicRepos":70,"location":"Pafos, Cyprus","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":13,"id":"MDQ6VXNlcjU1MDE2NTc=","login":"iamolegga","name":null,"url":"https://github.com/iamolegga","avatarUrl":"https://avatars.githubusercontent.com/u/5501657?s=80&v=4","followers":166,"publicRepos":null,"location":"Λεμεσός, Κύπρος","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "fe8b9889daabc879",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "9e2a4faba6ae4663",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

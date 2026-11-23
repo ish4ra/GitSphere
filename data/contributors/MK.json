@@ -5,13 +5,14 @@
 "country": {"code":"MK","name":"North Macedonia","slug":"north-macedonia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":402,"measuredAccounts":2,"measurementBacklog":400,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":403,"measuredAccounts":4,"measurementBacklog":399,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjcxOTI1Mzk=","login":"ZoranPandovski","name":"Zoran Pandovski","url":"https://github.com/ZoranPandovski","avatarUrl":"https://avatars.githubusercontent.com/u/7192539?s=80&v=4","followers":605,"publicRepos":47,"location":"Bitola, North Macedonia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":1511,"commits":971,"pullRequests":204,"reviews":332,"issues":2,"repositories":2,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":2,"id":"U_kgDOCLt4NQ","login":"yutomiwana","name":"Yuto","url":"https://github.com/yutomiwana","avatarUrl":"https://avatars.githubusercontent.com/u/146503733?s=80&v=4","followers":1254,"publicRepos":46,"location":"Skopje","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22","contributions":{"public":539,"commits":451,"pullRequests":42,"reviews":0,"issues":0,"repositories":46,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":2,"id":"U_kgDOCLt4NQ","login":"yutomiwana","name":"Yuto","url":"https://github.com/yutomiwana","avatarUrl":"https://avatars.githubusercontent.com/u/146503733?s=80&v=4","followers":1254,"publicRepos":46,"location":"Skopje","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22","contributions":{"public":539,"commits":451,"pullRequests":42,"reviews":0,"issues":0,"repositories":46,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":3,"id":"MDQ6VXNlcjQyODMzNjA=","login":"jaggedsoft","name":"jagged","url":"https://github.com/jaggedsoft","avatarUrl":"https://avatars.githubusercontent.com/u/4283360?s=80&v=4","followers":467,"publicRepos":1083,"location":"North Macedonia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":119,"commits":15,"pullRequests":2,"reviews":0,"issues":1,"repositories":101,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "b483eb7cd1185b21",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "8ae2809b8a576c40",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

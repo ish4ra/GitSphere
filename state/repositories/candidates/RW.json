@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"RW","name":"Rwanda","slug":"rwanda"},
-"count": 150,
+"count": 149,
 "repositories": [
-  {"name":"DivinPrince/quickinbox","stars":419,"forks":63,"language":"TypeScript","license":"MIT","archived":false,"createdAt":"2026-07-29T11:36:14Z","pushedAt":"2026-10-07T00:19:36Z","owner":{"login":"DivinPrince","type":"User","name":"Divin Prince","location":"Rwanda"},"attribution":{"code":"RW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T05:04:40.451Z","id":"legacy:divinprince/quickinbox","legacy":true},
   {"name":"david-legend/foodybite","stars":325,"forks":88,"language":"Dart","license":"BSD-3-Clause","archived":false,"createdAt":"2019-12-14T19:53:03Z","pushedAt":"2022-08-05T16:05:58Z","owner":{"login":"david-legend","type":"User","name":"David-Legend","location":"Rwanda"},"attribution":{"code":"RW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T05:04:40.451Z","id":"legacy:david-legend/foodybite","legacy":true},
   {"name":"vixalien/muzika","stars":317,"forks":17,"language":"TypeScript","license":"GPL-3.0","archived":true,"createdAt":"2023-05-24T08:02:55Z","pushedAt":"2025-07-20T18:25:42Z","owner":{"login":"vixalien","type":"User","name":"Angelo Verlain","location":"Kigali, Rwanda"},"attribution":{"code":"RW","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-16T05:04:40.451Z","id":"legacy:vixalien/muzika","legacy":true},
   {"name":"david-legend/flutter_catalog","stars":302,"forks":77,"language":"Dart","license":"BSD-3-Clause","archived":false,"createdAt":"2020-06-02T06:58:20Z","pushedAt":"2022-08-11T13:53:34Z","owner":{"login":"david-legend","type":"User","name":"David-Legend","location":"Rwanda"},"attribution":{"code":"RW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T05:04:40.451Z","id":"legacy:david-legend/flutter_catalog","legacy":true},

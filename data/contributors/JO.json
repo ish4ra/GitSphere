@@ -5,13 +5,15 @@
 "country": {"code":"JO","name":"Jordan","slug":"jordan"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":399,"measuredAccounts":2,"measurementBacklog":397,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":397,"measuredAccounts":4,"measurementBacklog":393,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":106,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"U_kgDOCieh9A","login":"waelodeh98","name":"Wael Samer | Software Engineer","url":"https://github.com/waelodeh98","avatarUrl":"https://avatars.githubusercontent.com/u/170369524?s=80&v=4","followers":1144,"publicRepos":8,"location":"Amman , Jordan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":79,"commits":71,"pullRequests":0,"reviews":0,"issues":0,"repositories":8,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":2,"id":"MDQ6VXNlcjMxMTQ0MzE=","login":"tjoudeh","name":"Taiseer Joudeh","url":"https://github.com/tjoudeh","avatarUrl":"https://avatars.githubusercontent.com/u/3114431?s=80&v=4","followers":693,"publicRepos":39,"location":"Jordan-Amman","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":19,"commits":11,"pullRequests":1,"reviews":1,"issues":2,"repositories":4,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjExNzQzMzg5","login":"omar-dulaimi","name":"Omar Dulaimi","url":"https://github.com/omar-dulaimi","avatarUrl":"https://avatars.githubusercontent.com/u/11743389?s=80&v=4","followers":198,"publicRepos":173,"location":"Jordan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":1875,"commits":1627,"pullRequests":225,"reviews":1,"issues":3,"repositories":16,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":2,"id":"MDQ6VXNlcjM2MjEwNzIz","login":"nancyalaswad90","name":"Ms. Nancy Al Aswad","url":"https://github.com/nancyalaswad90","avatarUrl":"https://avatars.githubusercontent.com/u/36210723?s=80&v=4","followers":330,"publicRepos":154,"location":"Jordan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":537,"commits":527,"pullRequests":0,"reviews":0,"issues":0,"repositories":10,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":3,"id":"U_kgDOCieh9A","login":"waelodeh98","name":"Wael Samer | Software Engineer","url":"https://github.com/waelodeh98","avatarUrl":"https://avatars.githubusercontent.com/u/170369524?s=80&v=4","followers":1144,"publicRepos":8,"location":"Amman , Jordan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":79,"commits":71,"pullRequests":0,"reviews":0,"issues":0,"repositories":8,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":4,"id":"MDQ6VXNlcjMxMTQ0MzE=","login":"tjoudeh","name":"Taiseer Joudeh","url":"https://github.com/tjoudeh","avatarUrl":"https://avatars.githubusercontent.com/u/3114431?s=80&v=4","followers":693,"publicRepos":39,"location":"Jordan-Amman","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":19,"commits":11,"pullRequests":1,"reviews":1,"issues":2,"repositories":4,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "2f1889063fccf45d",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "5a866747340a0008",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

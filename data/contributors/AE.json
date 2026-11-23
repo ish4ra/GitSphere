@@ -3,12 +3,14 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"AE","name":"United Arab Emirates","slug":"united-arab-emirates"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":438,"measuredAccounts":2,"measurementBacklog":436,"window":null,"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":98,"unresolved":0}},
-"users": [],
-"contentHash": "04f9d7e5927d3d16",
-"updatedAt": "2026-11-22T22:28:05.466Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"coverage": {"basis":"partial","discoveredAccounts":455,"measuredAccounts":3,"measurementBacklog":452,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":98,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjM1MzQ4ODcx","login":"techwithtim","name":"Tim Ruscica","url":"https://github.com/techwithtim","avatarUrl":"https://avatars.githubusercontent.com/u/35348871?s=80&v=4","followers":25329,"publicRepos":232,"location":"Dubai","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-23","contributions":{"public":49,"commits":26,"pullRequests":1,"reviews":0,"issues":2,"repositories":20,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
+],
+"contentHash": "d6641f00a852791f",
+"updatedAt": "2026-11-23T03:24:49.438Z",
+"verifiedOn": "2026-11-23",
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

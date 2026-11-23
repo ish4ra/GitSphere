@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/MN.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/MN.json">JSON</a> |
 
 </div>
 
@@ -30,6 +30,20 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/doljko"><img src="https://avatars.githubusercontent.com/u/12738721?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/doljko"><b>Enkhbayar Doljinsuren</b></a><br><sub>&#64;doljko</sub></td>
+<td align="right"><b>507</b></td>
+<td align="right">10</td>
+<td><sub>Ulaanbaatar, Mongolia</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/0xallblue0x"><img src="https://avatars.githubusercontent.com/u/136306274?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xallblue0x"><b>Allblue</b></a><br><sub>&#64;0xallblue0x</sub></td>
+<td align="right"><b>4</b></td>
+<td align="right">4</td>
+<td><sub>mongolia</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/0Orchlon"><img src="https://avatars.githubusercontent.com/u/171538596?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0Orchlon"><b>Orchlon</b></a><br><sub>&#64;0Orchlon</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">15</td>
@@ -43,7 +57,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 1 followers.
+- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 1 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

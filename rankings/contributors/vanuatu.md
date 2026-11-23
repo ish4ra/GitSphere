@@ -14,17 +14,26 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/contributors/VU.json">JSON</a> |
+| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/VU.json">JSON</a> |
 
 </div>
 
-<p align="center"><sub>Public contributions from <b>22 Nov 2025</b> to <b>22 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
+<p align="center"><sub>Public contributions from <b>23 Nov 2025</b> to <b>23 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
 
 <table>
 <thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Public contributions</th><th align="right">Commits</th><th align="right">PRs</th><th align="right">Reviews</th><th align="right">Issues</th></tr></thead>
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/alfnitacoder"><img src="https://avatars.githubusercontent.com/u/10040170?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alfnitacoder"><b>AlffieGeorge</b></a><br><sub>&#64;alfnitacoder · 16 followers</sub></td>
+<td align="right"><b>207</b></td>
+<td align="right">164</td>
+<td align="right">37</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/yjulio"><img src="https://avatars.githubusercontent.com/u/186765808?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yjulio"><b>Julio Yaruel</b></a><br><sub>&#64;yjulio · 0 followers</sub></td>
 <td align="right"><b>145</b></td>
 <td align="right">135</td>
@@ -39,7 +48,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 2 of 46 discovered developers (44 awaiting measurement).
+- **Measured:** 3 of 46 discovered developers (43 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

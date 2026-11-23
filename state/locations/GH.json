@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"country": "GH",
+"round": 1,
+"roundStartedAt": "2026-11-23T02:57:18.458Z",
+"terms": {"count":107,"fingerprint":"107:ddf42995"},
+"termIndex": 0,
+"specIndex": 0,
+"active": {"term":"Ghana","kind":"users","queue":[{"metric":[0,12500000],"created":null,"cursor":null,"page":1}],"unresolved":[],"cycleStartedAt":"2026-11-23T02:57:18.458Z","stats":{"splits":3,"leaves":3,"pages":3}},
+"unresolved": [],
+"completedRounds": [],
+"stats": {"requests":6,"pages":3,"accounts":0},
+"updatedAt": "2026-11-23T02:57:18.458Z"
+}

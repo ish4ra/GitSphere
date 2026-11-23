@@ -5,7 +5,7 @@
 "country": {"code":"HT","name":"Haiti","slug":"haiti"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":99,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":99,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":92,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk4NDE4MzAy","name":"icheck","nameWithOwner":"drgullin/icheck","url":"https://github.com/drgullin/icheck","description":"Highly customizable checkboxes and radio buttons (jQuery & Zepto)","stars":7277,"forks":1572,"primaryLanguage":"CSS","license":null,"createdAt":"2013-02-25T21:09:25Z","pushedAt":"2020-12-19T03:59:54Z","archived":false,"owner":{"login":"drgullin","name":"Damir Gubaidullin","type":"User","url":"https://github.com/drgullin","location":"Source","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":null,"name":"CommLinkUSB","nameWithOwner":"gpoteau/CommLinkUSB","url":"https://github.com/gpoteau/CommLinkUSB","description":null,"stars":36,"forks":3,"primaryLanguage":"Eagle","license":null,"createdAt":"2015-06-26T03:19:26Z","pushedAt":"2018-07-20T21:31:00Z","archived":false,"owner":{"login":"gpoteau","name":"Gregory POTEAU","type":"User","url":"https://github.com/gpoteau","location":"Port-au-Prince, HAITI","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"devhaiti.github.io","nameWithOwner":"devhaiti/devhaiti.github.io","url":"https://github.com/devhaiti/devhaiti.github.io","description":null,"stars":1,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2019-11-03T16:54:56Z","pushedAt":"2019-11-03T16:56:00Z","archived":false,"owner":{"login":"devhaiti","name":"/dev/haiti","type":"Organization","url":"https://github.com/devhaiti","location":"Haiti","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"packageAPPpython","nameWithOwner":"djefferson-saintilus/packageAPPpython","url":"https://github.com/djefferson-saintilus/packageAPPpython","description":null,"stars":1,"forks":0,"primaryLanguage":"Shell","license":null,"createdAt":"2025-08-03T13:22:58Z","pushedAt":"2025-09-02T14:45:04Z","archived":false,"owner":{"login":"djefferson-saintilus","name":"Djefferson Saintilus","type":"User","url":"https://github.com/djefferson-saintilus","location":"haiti","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "1ad2c6b6d97c246b",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "43eea897756b431f",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

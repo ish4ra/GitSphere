@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"CV","name":"Cape Verde","slug":"cape-verde"},
-"count": 128,
+"count": 127,
 "repositories": [
-  {"name":"arthurhenrique/cookiecutter-fastapi","stars":707,"forks":75,"language":"Python","license":"MIT","archived":false,"createdAt":"2020-01-12T21:51:22Z","pushedAt":"2025-08-25T15:58:56Z","owner":{"login":"arthurhenrique","type":"User","name":"Arthur Henrique","location":"são paulo, br"},"attribution":{"code":"CV","confidence":"medium","evidence":"consistent-places"},"seenAt":"2026-10-16T23:48:11.037Z","id":"legacy:arthurhenrique/cookiecutter-fastapi","legacy":true},
   {"name":"NOSiCode-CV/IGRP-Framework","stars":85,"forks":19,"language":"JavaScript","license":"Apache-2.0","archived":false,"createdAt":"2017-04-12T12:17:47Z","pushedAt":"2026-10-02T14:12:18Z","owner":{"login":"NOSiCode-CV","type":"Organization","name":"NOSiCode","location":"Cape Verde"},"attribution":{"code":"CV","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:51:43.826Z","id":"legacy:nosicode-cv/igrp-framework","legacy":true},
   {"name":"akira-io/laravel-qrcode","stars":49,"forks":1,"language":"PHP","license":"MIT","archived":false,"createdAt":"2025-11-10T21:12:30Z","pushedAt":"2026-09-28T17:45:07Z","owner":{"login":"akira-io","type":"Organization","name":"Akira Corporation","location":"Cape Verde"},"attribution":{"code":"CV","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:51:43.826Z","id":"legacy:akira-io/laravel-qrcode","legacy":true},
   {"name":"faxi-online/sisp-php","stars":11,"forks":4,"language":"PHP","license":"MIT","archived":false,"createdAt":"2022-03-25T20:52:19Z","pushedAt":"2022-05-17T17:56:19Z","owner":{"login":"faxi-online","type":"Organization","name":"Faxi","location":"Cape Verde"},"attribution":{"code":"CV","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:51:43.826Z","id":"legacy:faxi-online/sisp-php","legacy":true},

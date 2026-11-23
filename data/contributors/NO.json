@@ -5,13 +5,15 @@
 "country": {"code":"NO","name":"Norway","slug":"norway"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":438,"measuredAccounts":2,"measurementBacklog":436,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":475,"measuredAccounts":4,"measurementBacklog":471,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjUyODEz","login":"xyproto","name":"Alexander F. Rødseth","url":"https://github.com/xyproto","avatarUrl":"https://avatars.githubusercontent.com/u/52813?s=80&v=4","followers":669,"publicRepos":624,"location":"Oslo","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-22","contributions":{"public":5617,"commits":5570,"pullRequests":11,"reviews":3,"issues":6,"repositories":27,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":2,"id":"MDQ6VXNlcjQyNTIyOTc=","login":"kimocoder","name":"Christian <kimo> B.","url":"https://github.com/kimocoder","avatarUrl":"https://avatars.githubusercontent.com/u/4252297?s=80&v=4","followers":1455,"publicRepos":844,"location":"Norway","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":563,"commits":395,"pullRequests":129,"reviews":0,"issues":4,"repositories":35,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":2,"id":"MDQ6VXNlcjM5NDM4Mg==","login":"bep","name":"Bjørn Erik Pedersen","url":"https://github.com/bep","avatarUrl":"https://avatars.githubusercontent.com/u/394382?s=80&v=4","followers":2527,"publicRepos":367,"location":"Norway","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":2928,"commits":2049,"pullRequests":629,"reviews":45,"issues":173,"repositories":30,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":3,"id":"MDQ6VXNlcjQyNTIyOTc=","login":"kimocoder","name":"Christian <kimo> B.","url":"https://github.com/kimocoder","avatarUrl":"https://avatars.githubusercontent.com/u/4252297?s=80&v=4","followers":1455,"publicRepos":844,"location":"Norway","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":563,"commits":395,"pullRequests":129,"reviews":0,"issues":4,"repositories":35,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":4,"id":"MDQ6VXNlcjEzODAyNDA4","login":"comradekingu","name":"Allan Nordhøy","url":"https://github.com/comradekingu","avatarUrl":"https://avatars.githubusercontent.com/u/13802408?s=80&v=4","followers":430,"publicRepos":765,"location":"Trondheim, Norway","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":66,"commits":64,"pullRequests":0,"reviews":0,"issues":1,"repositories":0,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "0e288ab9f3331c8e",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "bada4ee10d66004e",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

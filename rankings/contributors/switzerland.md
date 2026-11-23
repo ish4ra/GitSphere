@@ -14,17 +14,26 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/CH.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/CH.json">JSON</a> |
 
 </div>
 
-<p align="center"><sub>Public contributions from <b>22 Nov 2025</b> to <b>22 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
+<p align="center"><sub>Public contributions from <b>23 Nov 2025</b> to <b>23 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
 
 <table>
 <thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Public contributions</th><th align="right">Commits</th><th align="right">PRs</th><th align="right">Reviews</th><th align="right">Issues</th></tr></thead>
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/denysvitali"><img src="https://avatars.githubusercontent.com/u/4939519?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/denysvitali"><b>Denys Vitali</b></a><br><sub>&#64;denysvitali · 548 followers</sub></td>
+<td align="right"><b>7,653</b></td>
+<td align="right">7,532</td>
+<td align="right">43</td>
+<td align="right">17</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/cclauss"><img src="https://avatars.githubusercontent.com/u/3709715?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cclauss"><b>Christian Clauss</b></a><br><sub>&#64;cclauss · 5,526 followers</sub></td>
 <td align="right"><b>3,052</b></td>
 <td align="right">1,194</td>
@@ -33,13 +42,22 @@
 <td align="right">81</td>
 </tr>
 <tr>
-<td align="right">2</td>
-<td><a href="https://github.com/mafintosh"><img src="https://avatars.githubusercontent.com/u/376661?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mafintosh"><b>Mathias Buus</b></a><br><sub>&#64;mafintosh · 6,392 followers</sub></td>
+<td align="right">3</td>
+<td><a href="https://github.com/mafintosh"><img src="https://avatars.githubusercontent.com/u/376661?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mafintosh"><b>Mathias Buus</b></a><br><sub>&#64;mafintosh · 6,393 followers</sub></td>
 <td align="right"><b>2,442</b></td>
 <td align="right">1,559</td>
 <td align="right">402</td>
 <td align="right">470</td>
 <td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/vorburger"><img src="https://avatars.githubusercontent.com/u/298598?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vorburger"><b>Michael Vorburger</b></a><br><sub>&#64;vorburger · 523 followers</sub></td>
+<td align="right"><b>1,673</b></td>
+<td align="right">1,266</td>
+<td align="right">151</td>
+<td align="right">119</td>
+<td align="right">108</td>
 </tr>
 </tbody>
 </table>
@@ -48,7 +66,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 2 of 500 discovered developers (498 awaiting measurement).
+- **Measured:** 4 of 599 discovered developers (595 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 151 in round 1.

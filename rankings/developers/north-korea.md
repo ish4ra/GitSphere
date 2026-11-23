@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/KP.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/KP.json">JSON</a> |
 
 </div>
 
@@ -30,7 +30,21 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/0x4f53"><img src="https://avatars.githubusercontent.com/u/71916237?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0x4f53"><b>Owais Shaikh</b></a><br><sub>&#64;0x4f53</sub></td>
+<td align="right"><b>67</b></td>
+<td align="right">32</td>
+<td><sub>🇰🇵 Pyongyang, North Korea</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/0w3nKn1ght"><img src="https://avatars.githubusercontent.com/u/189679245?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0w3nKn1ght"><b>Owen Knight</b></a><br><sub>&#64;0w3nKn1ght</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>North Korea</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/1017x"><img src="https://avatars.githubusercontent.com/u/71620789?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/1017x"><b>1017x</b></a><br><sub>&#64;1017x</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>North Korea</sub></td>
@@ -43,7 +57,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

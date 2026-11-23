@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/developers/AZ.json">JSON</a> |
+| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/developers/AZ.json">JSON</a> |
 
 </div>
 
@@ -72,6 +72,41 @@
 </tr>
 <tr>
 <td align="right">8</td>
+<td><a href="https://github.com/MuradIsazade777"><img src="https://avatars.githubusercontent.com/u/202436042?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MuradIsazade777"><b>Murad</b></a><br><sub>&#64;MuradIsazade777</sub></td>
+<td align="right"><b>524</b></td>
+<td align="right">38</td>
+<td><sub>Baku, Azerbaijan</sub></td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/orkhan-muradov-dev"><img src="https://avatars.githubusercontent.com/u/182366040?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/orkhan-muradov-dev"><b>Orkhan</b></a><br><sub>&#64;orkhan-muradov-dev</sub></td>
+<td align="right"><b>516</b></td>
+<td align="right">3</td>
+<td><sub>Baku, Azerbaijan</sub></td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/TuralSuleymani"><img src="https://avatars.githubusercontent.com/u/4170281?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TuralSuleymani"><b>Tural Suleymani</b></a><br><sub>&#64;TuralSuleymani</sub></td>
+<td align="right"><b>492</b></td>
+<td align="right">40</td>
+<td><sub>Baku</sub></td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/khanjanov"><img src="https://avatars.githubusercontent.com/u/114681364?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/khanjanov"><b>Karim</b></a><br><sub>&#64;khanjanov</sub></td>
+<td align="right"><b>439</b></td>
+<td align="right">45</td>
+<td><sub>Azerbaijan, Baku</sub></td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><a href="https://github.com/kamranbekirovyz"><img src="https://avatars.githubusercontent.com/u/59581562?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kamranbekirovyz"><b>Kamran Bekirov</b></a><br><sub>&#64;kamranbekirovyz</sub></td>
+<td align="right"><b>425</b></td>
+<td align="right">12</td>
+<td><sub>Baku, Azerbaijan</sub></td>
+</tr>
+<tr>
+<td align="right">13</td>
 <td><a href="https://github.com/al1abb"><img src="https://avatars.githubusercontent.com/u/60220042?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/al1abb"><b>Ali Abbasov</b></a><br><sub>&#64;al1abb</sub></td>
 <td align="right"><b>206</b></td>
 <td align="right">0</td>
@@ -85,7 +120,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 8 attributed developers are tracked; the cutoff is 206 followers.
+- Organizations are excluded. 13 attributed developers are tracked; the cutoff is 206 followers.
 - **Location discovery:** term 0 of 185 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

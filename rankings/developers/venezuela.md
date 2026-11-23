@@ -32,7 +32,7 @@
 <td align="right">2</td>
 <td><a href="https://github.com/samuelmarina"><img src="https://avatars.githubusercontent.com/u/59328925?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/samuelmarina"><b>Samuel Mariña</b></a><br><sub>&#64;samuelmarina</sub></td>
 <td align="right"><b>343</b></td>
-<td align="right">0</td>
+<td align="right">29</td>
 <td><sub>Venezuela</sub></td>
 </tr>
 <tr>

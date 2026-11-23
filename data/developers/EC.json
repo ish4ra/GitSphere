@@ -5,18 +5,23 @@
 "country": {"code":"EC","name":"Ecuador","slug":"ecuador"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":169,"candidates":7,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":117,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":24,"candidates":12,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":117,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjYxMTIxMTU4","login":"Darkmux","name":"Darkmux","url":"https://github.com/Darkmux","avatarUrl":"https://avatars.githubusercontent.com/u/61121158?s=80&v=4","followers":1542,"publicRepos":48,"location":"Ecuador","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjc4MjcwNA==","login":"mikehardy","name":"Mike Hardy","url":"https://github.com/mikehardy","avatarUrl":"https://avatars.githubusercontent.com/u/782704?s=80&v=4","followers":1278,"publicRepos":39,"location":"Cuenca, Ecuador","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":3,"id":"MDQ6VXNlcjMyNjYyMTMz","login":"monster555","name":"Daniel Coyula","url":"https://github.com/monster555","avatarUrl":"https://avatars.githubusercontent.com/u/32662133?s=80&v=4","followers":628,"publicRepos":25,"location":"Guayaquil - Ecuador","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":4,"id":"MDQ6VXNlcjYxNTg=","login":"olabini","name":"Ola Bini","url":"https://github.com/olabini","avatarUrl":"https://avatars.githubusercontent.com/u/6158?s=80&v=4","followers":621,"publicRepos":50,"location":"Quito, Ecuador","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":5,"id":"U_kgDOBbysBQ","login":"GataNina-Li","name":"Gata Dios","url":"https://github.com/GataNina-Li","avatarUrl":"https://avatars.githubusercontent.com/u/96250885?s=80&v=4","followers":588,"publicRepos":14,"location":"Ecuador","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":6,"id":"MDQ6VXNlcjc2NjA3OTA3","login":"eythaann","name":"Eythan David","url":"https://github.com/eythaann","avatarUrl":"https://avatars.githubusercontent.com/u/76607907?s=80&v=4","followers":409,"location":"Ecuador","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":7,"id":"MDQ6VXNlcjMwOTkwMg==","login":"jxlarrea","name":"Xavier Larrea","url":"https://github.com/jxlarrea","avatarUrl":"https://avatars.githubusercontent.com/u/309902?s=80&v=4","followers":169,"location":"Ecuador","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":6,"id":"MDQ6VXNlcjQ5NzUzMTA=","login":"stsewd","name":"Santos Gallegos","url":"https://github.com/stsewd","avatarUrl":"https://avatars.githubusercontent.com/u/4975310?s=80&v=4","followers":536,"publicRepos":113,"location":"Ecuador","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":7,"id":"MDQ6VXNlcjUxMjY2NDg=","login":"asantibanez","name":"Andrés Santibáñez","url":"https://github.com/asantibanez","avatarUrl":"https://avatars.githubusercontent.com/u/5126648?s=80&v=4","followers":514,"publicRepos":62,"location":"Guayaquil, Ecuador","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":8,"id":"MDQ6VXNlcjc2MTM4MTY=","login":"mleyvaz","name":"Maikel Leyva","url":"https://github.com/mleyvaz","avatarUrl":"https://avatars.githubusercontent.com/u/7613816?s=80&v=4","followers":465,"publicRepos":129,"location":"Guayaquil","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-23"},
+  {"rank":9,"id":"MDQ6VXNlcjc2NjA3OTA3","login":"eythaann","name":"Eythan David","url":"https://github.com/eythaann","avatarUrl":"https://avatars.githubusercontent.com/u/76607907?s=80&v=4","followers":409,"location":"Ecuador","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":10,"id":"MDQ6VXNlcjMwOTkwMg==","login":"jxlarrea","name":"Xavier Larrea","url":"https://github.com/jxlarrea","avatarUrl":"https://avatars.githubusercontent.com/u/309902?s=80&v=4","followers":169,"location":"Ecuador","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":11,"id":"MDQ6VXNlcjQ5NDExMTY5","login":"bayasdev","name":"Victor Bayas","url":"https://github.com/bayasdev","avatarUrl":"https://avatars.githubusercontent.com/u/49411169?s=80&v=4","followers":96,"publicRepos":null,"location":"Quito","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-23"},
+  {"rank":12,"id":"MDQ6VXNlcjE1OTg1NTU=","login":"Carlos487","name":"Carlos Fabara","url":"https://github.com/Carlos487","avatarUrl":"https://avatars.githubusercontent.com/u/1598555?s=80&v=4","followers":24,"publicRepos":null,"location":"Quito, Ecuador","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "b0794d9e9a86a3f7",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "0cf402db9cf5065b",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

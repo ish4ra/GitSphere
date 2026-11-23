@@ -8,7 +8,7 @@ Discover the most-starred GitHub repositories by country.
 
 <sub><b>Top Repositories</b> &nbsp;·&nbsp; <a href="./developers/README.md">Top Developers</a> &nbsp;·&nbsp; <a href="./contributors/README.md">Top Contributors</a></sub>
 
-**250** countries and territories · 🟢 19 published · 🟡 2 provisional · 🟠 229 stale
+**250** countries and territories · 🟢 28 published · 🟠 222 stale
 
 <sub><a href="#a">A</a> <a href="#b">B</a> <a href="#c">C</a> <a href="#d">D</a> <a href="#e">E</a> <a href="#f">F</a> <a href="#g">G</a> <a href="#h">H</a> <a href="#i">I</a> <a href="#j">J</a> <a href="#k">K</a> <a href="#l">L</a> <a href="#m">M</a> <a href="#n">N</a> <a href="#o">O</a> <a href="#p">P</a> <a href="#q">Q</a> <a href="#r">R</a> <a href="#s">S</a> <a href="#t">T</a> <a href="#u">U</a> <a href="#v">V</a> <a href="#w">W</a> <a href="#y">Y</a> <a href="#z">Z</a></sub>
 
@@ -18,21 +18,21 @@ Discover the most-starred GitHub repositories by country.
 
 | Country | Status | Repositories | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇦🇫 [Afghanistan](./afghanistan.md) | 🟠 Stale | 100 | <sub>AntiCope/meteor-rejects · ★ 681</sub> | 16 Oct 2026 |
+| 🇦🇫 [Afghanistan](./afghanistan.md) | 🟠 Stale | 100 | <sub>openlibrecommunity/olcrtc · ★ 2.0k</sub> | 16 Oct 2026 |
 | 🇦🇽 [Åland Islands](./aland-islands.md) | 🟠 Stale | 55 | <sub>jesjos/active&#95;record&#95;upsert · ★ 207</sub> | 03 Nov 2026 |
 | 🇦🇱 [Albania](./albania.md) | 🟠 Stale | 100 | <sub>deniscerri/ytdlnis · ★ 11k</sub> | 16 Oct 2026 |
 | 🇩🇿 [Algeria](./algeria.md) | 🟠 Stale | 100 | <sub>Manisso/fsociety · ★ 12k</sub> | 16 Oct 2026 |
-| 🇦🇸 [American Samoa](./american-samoa.md) | 🟠 Stale | 23 | <sub>neoclide/coc.nvim · ★ 25k</sub> | 17 Oct 2026 |
+| 🇦🇸 [American Samoa](./american-samoa.md) | 🟠 Stale | 15 | <sub>neoclide/coc.nvim · ★ 25k</sub> | 17 Oct 2026 |
 | 🇦🇩 [Andorra](./andorra.md) | 🟠 Stale | 100 | <sub>John-Lluch/SWRevealViewController · ★ 4.5k</sub> | 16 Oct 2026 |
 | 🇦🇴 [Angola](./angola.md) | 🟠 Stale | 100 | <sub>kurogai/100-redteam-projects · ★ 2.9k</sub> | 14 Oct 2026 |
 | 🇦🇮 [Anguilla](./anguilla.md) | 🟠 Stale | 25 | <sub>datahaven-net/epp-python-client · ★ 20</sub> | 28 Oct 2026 |
 | 🇦🇶 [Antarctica](./antarctica.md) | 🟠 Stale | 100 | <sub>MarlinFirmware/Marlin · ★ 18k</sub> | 16 Oct 2026 |
-| 🇦🇬 [Antigua &amp; Barbuda](./antigua-barbuda.md) | 🟠 Stale | 54 | <sub>saveourtool/diktat · ★ 570</sub> | 10 Oct 2026 |
+| 🇦🇬 [Antigua &amp; Barbuda](./antigua-barbuda.md) | 🟠 Stale | 53 | <sub>MeshaMakes/PenNote · ★ 13</sub> | 03 Nov 2026 |
 | 🇦🇷 [Argentina](./argentina.md) | 🟠 Stale | 100 | <sub>aseprite/aseprite · ★ 41k</sub> | 16 Oct 2026 |
-| 🇦🇲 [Armenia](./armenia.md) | 🟠 Stale | 100 | <sub>nopSolutions/nopCommerce · ★ 10k</sub> | 16 Oct 2026 |
+| 🇦🇲 [Armenia](./armenia.md) | 🟠 Stale | 100 | <sub>nopSolutions/nopCommerce · ★ 10k</sub> | 17 Oct 2026 |
 | 🇦🇼 [Aruba](./aruba.md) | 🟠 Stale | 100 | <sub>heavenaruba/codified-prompt-rule-en… · ★ 123</sub> | 25 Oct 2026 |
 | 🇦🇺 [Australia](./australia.md) | 🟢 Published | 100 | <sub>jesseduffield/lazygit · ★ 84k</sub> | 22 Nov 2026 |
-| 🇦🇹 [Austria](./austria.md) | 🟠 Stale | 100 | <sub>earendil-works/pi · ★ 123k</sub> | 16 Oct 2026 |
+| 🇦🇹 [Austria](./austria.md) | 🟢 Published | 100 | <sub>earendil-works/pi · ★ 123k</sub> | 22 Nov 2026 |
 | 🇦🇿 [Azerbaijan](./azerbaijan.md) | 🟠 Stale | 100 | <sub>al1abb/invoify · ★ 6.4k</sub> | 16 Oct 2026 |
 
 ### B
@@ -42,12 +42,12 @@ Discover the most-starred GitHub repositories by country.
 | 🇧🇸 [Bahamas](./bahamas.md) | 🟠 Stale | 100 | <sub>XileHUD/poe&#95;overlay · ★ 146</sub> | 04 Nov 2026 |
 | 🇧🇭 [Bahrain](./bahrain.md) | 🟠 Stale | 100 | <sub>walidshaari/Kubernetes-Certified-Ad… · ★ 4.5k</sub> | 16 Oct 2026 |
 | 🇧🇩 [Bangladesh](./bangladesh.md) | 🟠 Stale | 100 | <sub>htr-tech/zphisher · ★ 17k</sub> | 16 Oct 2026 |
-| 🇧🇧 [Barbados](./barbados.md) | 🟠 Stale | 100 | <sub>kaku2015/WeatherAlarmClock · ★ 547</sub> | 10 Oct 2026 |
+| 🇧🇧 [Barbados](./barbados.md) | 🟠 Stale | 100 | <sub>adevbuildingstuff/ethereum-solidity… · ★ 188</sub> | 28 Oct 2026 |
 | 🇧🇾 [Belarus](./belarus.md) | 🟠 Stale | 100 | <sub>boykopovar/AnyPS5 · ★ 60k</sub> | 17 Oct 2026 |
-| 🇧🇪 [Belgium](./belgium.md) | 🟠 Stale | 100 | <sub>CorentinJ/Real-Time-Voice-Cloning · ★ 60k</sub> | 16 Oct 2026 |
+| 🇧🇪 [Belgium](./belgium.md) | 🟢 Published | 100 | <sub>CorentinJ/Real-Time-Voice-Cloning · ★ 60k</sub> | 22 Nov 2026 |
 | 🇧🇿 [Belize](./belize.md) | 🟠 Stale | 100 | <sub>wagerr/wagerr · ★ 69</sub> | 04 Nov 2026 |
-| 🇧🇯 [Benin](./benin.md) | 🟠 Stale | 5 | <sub>JideGuru/FlutterEbookApp · ★ 3.3k</sub> | 14 Oct 2026 |
-| 🇧🇲 [Bermuda](./bermuda.md) | 🟠 Stale | 100 | <sub>DesktopECHO/Pi-hole-for-Android · ★ 656</sub> | 13 Oct 2026 |
+| 🇧🇯 [Benin](./benin.md) | 🟠 Stale | 4 | <sub>JideGuru/FlutterEbookApp · ★ 3.3k</sub> | 14 Oct 2026 |
+| 🇧🇲 [Bermuda](./bermuda.md) | 🟠 Stale | 100 | <sub>OwshenNetwork/owshen · ★ 2.0k</sub> | 13 Oct 2026 |
 | 🇧🇹 [Bhutan](./bhutan.md) | 🟠 Stale | 100 | <sub>bhutanio/anon.to · ★ 118</sub> | 04 Nov 2026 |
 | 🇧🇴 [Bolivia](./bolivia.md) | 🟠 Stale | 100 | <sub>ospfranco/sol · ★ 3.2k</sub> | 04 Nov 2026 |
 | 🇧🇦 [Bosnia &amp; Herzegovina](./bosnia-herzegovina.md) | 🟠 Stale | 100 | <sub>adnanh/webhook · ★ 12k</sub> | 16 Oct 2026 |
@@ -55,9 +55,9 @@ Discover the most-starred GitHub repositories by country.
 | 🇧🇻 [Bouvet Island](./bouvet-island.md) | 🟠 Stale | 19 | <sub>KirarinSnow/Google-Code-Jam · ★ 83</sub> | 25 Oct 2026 |
 | 🇧🇷 [Brazil](./brazil.md) | 🟢 Published | 100 | <sub>avelino/awesome-go · ★ 195k</sub> | 22 Nov 2026 |
 | 🇮🇴 [British Indian Ocean Territory](./british-indian-ocean-territory.md) | 🟠 Stale | 17 | <sub>LixvYang/Writing-a-Interpreter-in-G… · ★ 103</sub> | 25 Oct 2026 |
-| 🇻🇬 [British Virgin Islands](./british-virgin-islands.md) | 🟠 Stale | 100 | <sub>justmoon/node-bignum · ★ 417</sub> | 13 Oct 2026 |
+| 🇻🇬 [British Virgin Islands](./british-virgin-islands.md) | 🟠 Stale | 100 | <sub>justmoon/node-extend · ★ 342</sub> | 13 Oct 2026 |
 | 🇧🇳 [Brunei](./brunei.md) | 🟠 Stale | 100 | <sub>Qoyyuum/mcp-metatrader5-server · ★ 231</sub> | 16 Oct 2026 |
-| 🇧🇬 [Bulgaria](./bulgaria.md) | 🟠 Stale | 95 | <sub>bobeff/open-source-games · ★ 19k</sub> | 17 Oct 2026 |
+| 🇧🇬 [Bulgaria](./bulgaria.md) | 🟠 Stale | 69 | <sub>bobeff/open-source-games · ★ 19k</sub> | 04 Nov 2026 |
 | 🇧🇫 [Burkina Faso](./burkina-faso.md) | 🟠 Stale | 17 | <sub>prototypeX-sys/Cyberia-Project · ★ 3</sub> | 04 Nov 2026 |
 | 🇧🇮 [Burundi](./burundi.md) | 🟠 Stale | 100 | <sub>srugano/kivy&#95;watsapp · ★ 11</sub> | 04 Nov 2026 |
 
@@ -65,37 +65,37 @@ Discover the most-starred GitHub repositories by country.
 
 | Country | Status | Repositories | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇰🇭 [Cambodia](./cambodia.md) | 🟠 Stale | 100 | <sub>amosjyng/langchain-visualizer · ★ 737</sub> | 16 Oct 2026 |
+| 🇰🇭 [Cambodia](./cambodia.md) | 🟠 Stale | 100 | <sub>0x1iii1ii/PPPwn-Luckfox · ★ 391</sub> | 16 Oct 2026 |
 | 🇨🇲 [Cameroon](./cameroon.md) | 🟠 Stale | 100 | <sub>ln-dev7/circle · ★ 4.8k</sub> | 16 Oct 2026 |
 | 🇨🇦 [Canada](./canada.md) | 🟢 Published | 100 | <sub>ultraworkers/claw-code · ★ 195k</sub> | 22 Nov 2026 |
-| 🇨🇻 [Cape Verde](./cape-verde.md) | 🟠 Stale | 100 | <sub>arthurhenrique/cookiecutter-fastapi · ★ 707</sub> | 16 Oct 2026 |
+| 🇨🇻 [Cape Verde](./cape-verde.md) | 🟠 Stale | 100 | <sub>NOSiCode-CV/IGRP-Framework · ★ 85</sub> | 04 Nov 2026 |
 | 🇧🇶 [Caribbean Netherlands](./caribbean-netherlands.md) | 🟠 Stale | 14 | <sub>inversepolarity/ZYT · ★ 62</sub> | 28 Oct 2026 |
-| 🇰🇾 [Cayman Islands](./cayman-islands.md) | 🟠 Stale | 100 | <sub>guhhhhaa/4675-scifi · ★ 478</sub> | 16 Oct 2026 |
+| 🇰🇾 [Cayman Islands](./cayman-islands.md) | 🟠 Stale | 100 | <sub>gitcoinco/web · ★ 1.8k</sub> | 16 Oct 2026 |
 | 🇨🇫 [Central African Republic](./central-african-republic.md) | 🟠 Stale | 19 | <sub>platine-php/docx-template · ★ 4</sub> | 04 Nov 2026 |
 | 🇹🇩 [Chad](./chad.md) | 🟠 Stale | 100 | <sub>Trusted-AI/adversarial-robustness-t… · ★ 6.3k</sub> | 04 Nov 2026 |
 | 🇨🇱 [Chile](./chile.md) | 🟠 Stale | 100 | <sub>chaskiq/chaskiq · ★ 3.6k</sub> | 16 Oct 2026 |
 | 🇨🇳 [China](./china.md) | 🟢 Published | 100 | <sub>521xueweihan/HelloGitHub · ★ 190k</sub> | 22 Nov 2026 |
-| 🇨🇽 [Christmas Island](./christmas-island.md) | 🟠 Stale | 75 | <sub>MateriiApps/Gloom · ★ 790</sub> | 08 Oct 2026 |
+| 🇨🇽 [Christmas Island](./christmas-island.md) | 🟠 Stale | 74 | <sub>dee-dee-catorce/desksaw · ★ 202</sub> | 25 Oct 2026 |
 | 🇨🇨 [Cocos (Keeling) Islands](./cocos-keeling-islands.md) | 🟠 Stale | 7 | <sub>rohwid/auto-nvidia-cuda-driver · ★ 6</sub> | 25 Oct 2026 |
 | 🇨🇴 [Colombia](./colombia.md) | 🟠 Stale | 100 | <sub>nodesource/distributions · ★ 14k</sub> | 16 Oct 2026 |
 | 🇰🇲 [Comoros](./comoros.md) | 🟠 Stale | 44 | <sub>faustfizz/footup · ★ 9</sub> | 04 Nov 2026 |
 | 🇨🇰 [Cook Islands](./cook-islands.md) | 🟠 Stale | 33 | <sub>cacamelio/fatality-source-fixed · ★ 23</sub> | 25 Oct 2026 |
-| 🇨🇷 [Costa Rica](./costa-rica.md) | 🟠 Stale | 100 | <sub>Klerith/mas-talento · ★ 718</sub> | 16 Oct 2026 |
-| 🇨🇮 [Côte d&#39;Ivoire](./cote-d-ivoire.md) | 🟠 Stale | 100 | <sub>angebagui/medium-textview · ★ 486</sub> | 17 Oct 2026 |
-| 🇭🇷 [Croatia](./croatia.md) | 🟠 Stale | 76 | <sub>stamparm/maltrail · ★ 8.7k</sub> | 17 Oct 2026 |
+| 🇨🇷 [Costa Rica](./costa-rica.md) | 🟠 Stale | 100 | <sub>glittercowboy/taches-cc-resources · ★ 2.0k</sub> | 04 Nov 2026 |
+| 🇨🇮 [Côte d&#39;Ivoire](./cote-d-ivoire.md) | 🟠 Stale | 100 | <sub>catchain/tonscan · ★ 214</sub> | 04 Nov 2026 |
+| 🇭🇷 [Croatia](./croatia.md) | 🟠 Stale | 65 | <sub>stamparm/maltrail · ★ 8.7k</sub> | 04 Nov 2026 |
 | 🇨🇺 [Cuba](./cuba.md) | 🟠 Stale | 100 | <sub>GamerHack/GamerHack.github.io · ★ 263</sub> | 04 Nov 2026 |
 | 🇨🇼 [Curaçao](./curacao.md) | 🟠 Stale | 71 | <sub>schroef/AnimDessin2 · ★ 106</sub> | 25 Oct 2026 |
-| 🇨🇾 [Cyprus](./cyprus.md) | 🟠 Stale | 100 | <sub>AdguardTeam/AdGuardHome · ★ 39k</sub> | 16 Oct 2026 |
-| 🇨🇿 [Czechia](./czechia.md) | 🟠 Stale | 72 | <sub>agent0ai/agent-zero · ★ 20k</sub> | 16 Oct 2026 |
+| 🇨🇾 [Cyprus](./cyprus.md) | 🟠 Stale | 96 | <sub>AdguardTeam/AdGuardHome · ★ 39k</sub> | 16 Oct 2026 |
+| 🇨🇿 [Czechia](./czechia.md) | 🟠 Stale | 100 | <sub>agent0ai/agent-zero · ★ 20k</sub> | 16 Oct 2026 |
 
 ### D
 
 | Country | Status | Repositories | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇩🇰 [Denmark](./denmark.md) | 🟡 Provisional | 73 | <sub>Unity-Technologies/ml-agents · ★ 20k</sub> | 22 Nov 2026 |
+| 🇩🇰 [Denmark](./denmark.md) | 🟢 Published | 100 | <sub>Unity-Technologies/ml-agents · ★ 20k</sub> | 22 Nov 2026 |
 | 🇩🇯 [Djibouti](./djibouti.md) | 🟠 Stale | 100 | <sub>moustapha-aden/sakinah · ★ 10</sub> | 04 Nov 2026 |
 | 🇩🇲 [Dominica](./dominica.md) | 🟠 Stale | 63 | <sub>bigmountainideas/socializr · ★ 12</sub> | 25 Oct 2026 |
-| 🇩🇴 [Dominican Republic](./dominican-republic.md) | 🟠 Stale | 100 | <sub>javisperez/tailwindcolorshades · ★ 764</sub> | 16 Oct 2026 |
+| 🇩🇴 [Dominican Republic](./dominican-republic.md) | 🟠 Stale | 100 | <sub>CrossGeeks/FirebasePushNotification… · ★ 387</sub> | 16 Oct 2026 |
 | 🇨🇩 [DR Congo](./dr-congo.md) | 🟠 Stale | 100 | <sub>foocker/deeplearningtheory · ★ 278</sub> | 15 Oct 2026 |
 
 ### E
@@ -107,7 +107,7 @@ Discover the most-starred GitHub repositories by country.
 | 🇸🇻 [El Salvador](./el-salvador.md) | 🟠 Stale | 100 | <sub>binux/pyspider · ★ 17k</sub> | 04 Nov 2026 |
 | 🇬🇶 [Equatorial Guinea](./equatorial-guinea.md) | 🟠 Stale | 42 | <sub>alexis-ngoyi/linkih-app · ★ 2</sub> | 01 Nov 2026 |
 | 🇪🇷 [Eritrea](./eritrea.md) | 🟠 Stale | 21 | <sub>ituknown/GitBook · ★ 4</sub> | 04 Nov 2026 |
-| 🇪🇪 [Estonia](./estonia.md) | 🟠 Stale | 100 | <sub>AvaloniaUI/Avalonia · ★ 32k</sub> | 16 Oct 2026 |
+| 🇪🇪 [Estonia](./estonia.md) | 🟠 Stale | 57 | <sub>AvaloniaUI/Avalonia · ★ 32k</sub> | 16 Oct 2026 |
 | 🇸🇿 [Eswatini](./eswatini.md) | 🟠 Stale | 100 | <sub>Njabulo240/InventorySystem · ★ 38</sub> | 01 Nov 2026 |
 | 🇪🇹 [Ethiopia](./ethiopia.md) | 🟠 Stale | 100 | <sub>frectonz/sql-studio · ★ 3.7k</sub> | 16 Oct 2026 |
 
@@ -117,11 +117,11 @@ Discover the most-starred GitHub repositories by country.
 | :-- | :-- | --: | :-- | :-- |
 | 🇫🇰 [Falkland Islands](./falkland-islands.md) | 🟠 Stale | 15 | <sub>hewn-py/hewn · ★ 2</sub> | 25 Oct 2026 |
 | 🇫🇴 [Faroe Islands](./faroe-islands.md) | 🟠 Stale | 100 | <sub>kruseio/hygg · ★ 360</sub> | 13 Oct 2026 |
-| 🇫🇯 [Fiji](./fiji.md) | 🟠 Stale | 100 | <sub>mucsbr/ppt-agent-workflow-san · ★ 651</sub> | 01 Nov 2026 |
-| 🇫🇮 [Finland](./finland.md) | 🟠 Stale | 100 | <sub>iluwatar/java-design-patterns · ★ 95k</sub> | 01 Nov 2026 |
+| 🇫🇯 [Fiji](./fiji.md) | 🟠 Stale | 100 | <sub>GeekTR/PrivacySpace · ★ 272</sub> | 01 Nov 2026 |
+| 🇫🇮 [Finland](./finland.md) | 🟢 Published | 100 | <sub>iluwatar/java-design-patterns · ★ 95k</sub> | 22 Nov 2026 |
 | 🇫🇷 [France](./france.md) | 🟢 Published | 100 | <sub>rtk-ai/rtk · ★ 87k</sub> | 22 Nov 2026 |
-| 🇬🇫 [French Guiana](./french-guiana.md) | 🟠 Stale | 66 | <sub>drainerw/Advanced-Family-Personal-W… · ★ 19</sub> | 01 Nov 2026 |
-| 🇵🇫 [French Polynesia](./french-polynesia.md) | 🟠 Stale | 89 | <sub>ch4mpy/spring-addons · ★ 673</sub> | 09 Oct 2026 |
+| 🇬🇫 [French Guiana](./french-guiana.md) | 🟠 Stale | 67 | <sub>Equim-chan/Mortal · ★ 1.6k</sub> | 01 Nov 2026 |
+| 🇵🇫 [French Polynesia](./french-polynesia.md) | 🟠 Stale | 88 | <sub>syllebra/bilbox-comfyui · ★ 145</sub> | 01 Nov 2026 |
 | 🇹🇫 [French Southern Territories](./french-southern-territories.md) | 🟠 Stale | 8 | <sub>litmus-ritten/slurpy · ★ 2</sub> | 01 Nov 2026 |
 
 ### G
@@ -132,14 +132,14 @@ Discover the most-starred GitHub repositories by country.
 | 🇬🇲 [Gambia](./gambia.md) | 🟠 Stale | 100 | <sub>PaAmatJow/awwwards-landing-page-nex… · ★ 19</sub> | 01 Nov 2026 |
 | 🇬🇪 [Georgia](./georgia.md) | 🟠 Stale | 100 | <sub>databasus/databasus · ★ 9.3k</sub> | 16 Oct 2026 |
 | 🇩🇪 [Germany](./germany.md) | 🟢 Published | 100 | <sub>n8n-io/n8n · ★ 212k</sub> | 22 Nov 2026 |
-| 🇬🇭 [Ghana](./ghana.md) | 🟠 Stale | 100 | <sub>kossisoroyce/timber · ★ 689</sub> | 16 Oct 2026 |
-| 🇬🇮 [Gibraltar](./gibraltar.md) | 🟠 Stale | 100 | <sub>ivpn/ios-app · ★ 573</sub> | 29 Oct 2026 |
+| 🇬🇭 [Ghana](./ghana.md) | 🟠 Stale | 100 | <sub>Williano/Final-Senior-Year-Project- · ★ 339</sub> | 16 Oct 2026 |
+| 🇬🇮 [Gibraltar](./gibraltar.md) | 🟠 Stale | 100 | <sub>miohtama/python-Levenshtein · ★ 392</sub> | 29 Oct 2026 |
 | 🇬🇷 [Greece](./greece.md) | 🟠 Stale | 100 | <sub>Chalarangelo/30-seconds-of-code · ★ 130k</sub> | 17 Oct 2026 |
-| 🇬🇱 [Greenland](./greenland.md) | 🟠 Stale | 100 | <sub>MicroPythonOS/MicroPythonOS · ★ 772</sub> | 01 Nov 2026 |
-| 🇬🇩 [Grenada](./grenada.md) | 🟠 Stale | 75 | <sub>rubenlagus/TelegramBots · ★ 5.6k</sub> | 25 Oct 2026 |
-| 🇬🇵 [Guadeloupe](./guadeloupe.md) | 🟠 Stale | 100 | <sub>sboli/twmn · ★ 533</sub> | 01 Nov 2026 |
+| 🇬🇱 [Greenland](./greenland.md) | 🟠 Stale | 100 | <sub>Nelson-Cheung/latex-book-template · ★ 63</sub> | 01 Nov 2026 |
+| 🇬🇩 [Grenada](./grenada.md) | 🟠 Stale | 76 | <sub>rubenlagus/TelegramBots · ★ 5.6k</sub> | 25 Oct 2026 |
+| 🇬🇵 [Guadeloupe](./guadeloupe.md) | 🟠 Stale | 100 | <sub>sarinkhan/openWheel · ★ 32</sub> | 01 Nov 2026 |
 | 🇬🇺 [Guam](./guam.md) | 🟠 Stale | 100 | <sub>ThaumX/Accidental-Woman-Public · ★ 13</sub> | 01 Nov 2026 |
-| 🇬🇹 [Guatemala](./guatemala.md) | 🟠 Stale | 100 | <sub>TaTo30/vue-pdf · ★ 692</sub> | 15 Oct 2026 |
+| 🇬🇹 [Guatemala](./guatemala.md) | 🟠 Stale | 100 | <sub>robertodevs/flutter&#95;ecommerce&#95;templ… · ★ 1.6k</sub> | 15 Oct 2026 |
 | 🇬🇬 [Guernsey](./guernsey.md) | 🟠 Stale | 88 | <sub>damieng/DamienGKit · ★ 264</sub> | 29 Oct 2026 |
 | 🇬🇳 [Guinea](./guinea.md) | 🟠 Stale | 100 | <sub>sitatec/Taluxi-Open-Source · ★ 98</sub> | 01 Nov 2026 |
 | 🇬🇼 [Guinea-Bissau](./guinea-bissau.md) | 🟠 Stale | 12 | <sub>abduramanedjalo06/Boutique&#95;Control · ★ 1</sub> | 01 Nov 2026 |
@@ -151,9 +151,9 @@ Discover the most-starred GitHub repositories by country.
 | :-- | :-- | --: | :-- | :-- |
 | 🇭🇹 [Haiti](./haiti.md) | 🟠 Stale | 100 | <sub>drgullin/icheck · ★ 7.3k</sub> | 01 Nov 2026 |
 | 🇭🇲 [Heard &amp; McDonald Islands](./heard-mcdonald-islands.md) | 🟠 Stale | 27 | <sub>WildChickenUniversity/WildChickenUn… · ★ 126</sub> | 26 Oct 2026 |
-| 🇭🇳 [Honduras](./honduras.md) | 🟠 Stale | 100 | <sub>Siumauricio/landing-template-nextui · ★ 399</sub> | 16 Oct 2026 |
+| 🇭🇳 [Honduras](./honduras.md) | 🟠 Stale | 100 | <sub>dansiegel/Mobile.BuildTools · ★ 224</sub> | 16 Oct 2026 |
 | 🇭🇰 [Hong Kong](./hong-kong.md) | 🟢 Published | 100 | <sub>Anduin2017/HowToCook · ★ 104k</sub> | 22 Nov 2026 |
-| 🇭🇺 [Hungary](./hungary.md) | 🟠 Stale | 100 | <sub>HelloZeroNet/ZeroNet · ★ 19k</sub> | 17 Oct 2026 |
+| 🇭🇺 [Hungary](./hungary.md) | 🟠 Stale | 60 | <sub>HelloZeroNet/ZeroNet · ★ 19k</sub> | 01 Nov 2026 |
 
 ### I
 
@@ -161,12 +161,12 @@ Discover the most-starred GitHub repositories by country.
 | :-- | :-- | --: | :-- | :-- |
 | 🇮🇸 [Iceland](./iceland.md) | 🟠 Stale | 100 | <sub>asgeirtj/system&#95;prompts&#95;leaks · ★ 72k</sub> | 17 Oct 2026 |
 | 🇮🇳 [India](./india.md) | 🟢 Published | 100 | <sub>TheAlgorithms/Python · ★ 226k</sub> | 22 Nov 2026 |
-| 🇮🇩 [Indonesia](./indonesia.md) | 🟠 Stale | 68 | <sub>HunxByts/GhostTrack · ★ 21k</sub> | 17 Oct 2026 |
-| 🇮🇷 [Iran](./iran.md) | 🟠 Stale | 100 | <sub>amir1376/ab-download-manager · ★ 19k</sub> | 17 Oct 2026 |
+| 🇮🇩 [Indonesia](./indonesia.md) | 🟠 Stale | 70 | <sub>HunxByts/GhostTrack · ★ 21k</sub> | 01 Nov 2026 |
+| 🇮🇷 [Iran](./iran.md) | 🟠 Stale | 75 | <sub>amir1376/ab-download-manager · ★ 19k</sub> | 17 Oct 2026 |
 | 🇮🇶 [Iraq](./iraq.md) | 🟠 Stale | 100 | <sub>PawanOsman/OpenCursor · ★ 6.0k</sub> | 13 Oct 2026 |
 | 🇮🇪 [Ireland](./ireland.md) | 🟠 Stale | 100 | <sub>MunGell/awesome-for-beginners · ★ 92k</sub> | 16 Oct 2026 |
 | 🇮🇲 [Isle of Man](./isle-of-man.md) | 🟠 Stale | 100 | <sub>braydie/HowToBeAProgrammer · ★ 16k</sub> | 16 Oct 2026 |
-| 🇮🇱 [Israel](./israel.md) | 🟠 Stale | 93 | <sub>goldbergyoni/nodebestpractices · ★ 106k</sub> | 01 Nov 2026 |
+| 🇮🇱 [Israel](./israel.md) | 🟠 Stale | 100 | <sub>goldbergyoni/nodebestpractices · ★ 106k</sub> | 01 Nov 2026 |
 | 🇮🇹 [Italy](./italy.md) | 🟢 Published | 100 | <sub>FiloSottile/mkcert · ★ 60k</sub> | 22 Nov 2026 |
 
 ### J
@@ -175,7 +175,7 @@ Discover the most-starred GitHub repositories by country.
 | :-- | :-- | --: | :-- | :-- |
 | 🇯🇲 [Jamaica](./jamaica.md) | 🟠 Stale | 100 | <sub>HotCakeX/Harden-Windows-Security · ★ 4.9k</sub> | 14 Oct 2026 |
 | 🇯🇵 [Japan](./japan.md) | 🟢 Published | 100 | <sub>TapXWorld/ChinaTextbook · ★ 85k</sub> | 22 Nov 2026 |
-| 🇯🇪 [Jersey](./jersey.md) | 🟠 Stale | 64 | <sub>structurizr/cli · ★ 565</sub> | 16 Oct 2026 |
+| 🇯🇪 [Jersey](./jersey.md) | 🟠 Stale | 62 | <sub>structurizr/lite · ★ 383</sub> | 16 Oct 2026 |
 | 🇯🇴 [Jordan](./jordan.md) | 🟠 Stale | 100 | <sub>RightNow-AI/openfang · ★ 18k</sub> | 15 Oct 2026 |
 
 ### K
@@ -185,9 +185,9 @@ Discover the most-starred GitHub repositories by country.
 | 🇰🇿 [Kazakhstan](./kazakhstan.md) | 🟠 Stale | 100 | <sub>0xAX/linux-insides · ★ 34k</sub> | 16 Oct 2026 |
 | 🇰🇪 [Kenya](./kenya.md) | 🟠 Stale | 100 | <sub>maxwellito/vivus · ★ 15k</sub> | 16 Oct 2026 |
 | 🇰🇮 [Kiribati](./kiribati.md) | 🟠 Stale | 24 | <sub>PAJO-egg/ancient&#95;defense · ★ 4</sub> | 01 Nov 2026 |
-| 🇽🇰 [Kosovo](./kosovo.md) | 🟠 Stale | 100 | <sub>kujtimiihoxha/kit · ★ 725</sub> | 16 Oct 2026 |
+| 🇽🇰 [Kosovo](./kosovo.md) | 🟠 Stale | 100 | <sub>kutia-software-company/larafirebase · ★ 370</sub> | 16 Oct 2026 |
 | 🇰🇼 [Kuwait](./kuwait.md) | 🟠 Stale | 100 | <sub>obytes/react-native-template-obytes · ★ 4.4k</sub> | 16 Oct 2026 |
-| 🇰🇬 [Kyrgyzstan](./kyrgyzstan.md) | 🟠 Stale | 100 | <sub>dontsovcmc/waterius · ★ 680</sub> | 16 Oct 2026 |
+| 🇰🇬 [Kyrgyzstan](./kyrgyzstan.md) | 🟠 Stale | 100 | <sub>teimurjan/blazediff · ★ 352</sub> | 16 Oct 2026 |
 
 ### L
 
@@ -198,10 +198,10 @@ Discover the most-starred GitHub repositories by country.
 | 🇱🇧 [Lebanon](./lebanon.md) | 🟠 Stale | 100 | <sub>anasty17/mirror-leech-telegram-bot · ★ 4.4k</sub> | 01 Nov 2026 |
 | 🇱🇸 [Lesotho](./lesotho.md) | 🟠 Stale | 100 | <sub>tshakalekholoane/bat · ★ 376</sub> | 12 Oct 2026 |
 | 🇱🇷 [Liberia](./liberia.md) | 🟠 Stale | 100 | <sub>fhteam/laravel-amqp · ★ 28</sub> | 01 Nov 2026 |
-| 🇱🇾 [Libya](./libya.md) | 🟠 Stale | 100 | <sub>mohn93/AdvancedPageControl · ★ 655</sub> | 16 Oct 2026 |
-| 🇱🇮 [Liechtenstein](./liechtenstein.md) | 🟠 Stale | 100 | <sub>ParetoSecurity/pareto-mac · ★ 458</sub> | 17 Oct 2026 |
+| 🇱🇾 [Libya](./libya.md) | 🟠 Stale | 100 | <sub>tahaak67/Farhan · ★ 216</sub> | 16 Oct 2026 |
+| 🇱🇮 [Liechtenstein](./liechtenstein.md) | 🟠 Stale | 100 | <sub>danheron/Heron.MudCalendar · ★ 332</sub> | 17 Oct 2026 |
 | 🇱🇹 [Lithuania](./lithuania.md) | 🟠 Stale | 100 | <sub>epicmaxco/vuestic-admin · ★ 11k</sub> | 17 Oct 2026 |
-| 🇱🇺 [Luxembourg](./luxembourg.md) | 🟠 Stale | 100 | <sub>RunaCapital/awesome-oss-alternatives · ★ 20k</sub> | 11 Oct 2026 |
+| 🇱🇺 [Luxembourg](./luxembourg.md) | 🟠 Stale | 100 | <sub>RunaCapital/awesome-oss-alternatives · ★ 20k</sub> | 01 Nov 2026 |
 
 ### M
 
@@ -214,10 +214,10 @@ Discover the most-starred GitHub repositories by country.
 | 🇲🇻 [Maldives](./maldives.md) | 🟠 Stale | 100 | <sub>seerr-team/seerr · ★ 13k</sub> | 12 Oct 2026 |
 | 🇲🇱 [Mali](./mali.md) | 🟠 Stale | 100 | <sub>mkantem/tikzedt · ★ 26</sub> | 02 Nov 2026 |
 | 🇲🇹 [Malta](./malta.md) | 🟠 Stale | 100 | <sub>ripienaar/free-for-dev · ★ 143k</sub> | 14 Oct 2026 |
-| 🇲🇭 [Marshall Islands](./marshall-islands.md) | 🟠 Stale | 55 | <sub>hashgraph-online/awesome-ai-plugins · ★ 518</sub> | 14 Oct 2026 |
+| 🇲🇭 [Marshall Islands](./marshall-islands.md) | 🟠 Stale | 53 | <sub>hashgraph-online/awesome-codex-plug… · ★ 1.6k</sub> | 14 Oct 2026 |
 | 🇲🇶 [Martinique](./martinique.md) | 🟠 Stale | 100 | <sub>blazux/qwen3.8-Flash-DGX · ★ 398</sub> | 02 Nov 2026 |
 | 🇲🇷 [Mauritania](./mauritania.md) | 🟠 Stale | 100 | <sub>Ziyadsk/scc · ★ 124</sub> | 02 Nov 2026 |
-| 🇲🇺 [Mauritius](./mauritius.md) | 🟠 Stale | 100 | <sub>thatstraw/Cybersecurity-Roadmap · ★ 739</sub> | 16 Oct 2026 |
+| 🇲🇺 [Mauritius](./mauritius.md) | 🟠 Stale | 100 | <sub>giriss/comfy-image-saver · ★ 348</sub> | 16 Oct 2026 |
 | 🇾🇹 [Mayotte](./mayotte.md) | 🟠 Stale | 49 | <sub>ssrb/mega-structure · ★ 18</sub> | 02 Nov 2026 |
 | 🇲🇽 [Mexico](./mexico.md) | 🟠 Stale | 100 | <sub>FavioVazquez/ds-cheatsheets · ★ 16k</sub> | 17 Oct 2026 |
 | 🇫🇲 [Micronesia](./micronesia.md) | 🟠 Stale | 19 | <sub>heyesr/rgraph · ★ 59</sub> | 02 Nov 2026 |
@@ -228,19 +228,19 @@ Discover the most-starred GitHub repositories by country.
 | 🇲🇸 [Montserrat](./montserrat.md) | 🟠 Stale | 66 | <sub>MagicStarTrace/xiaomi&#95;cloud · ★ 24</sub> | 03 Oct 2026 |
 | 🇲🇦 [Morocco](./morocco.md) | 🟠 Stale | 100 | <sub>NawfalMotii79/PLFM&#95;RADAR · ★ 27k</sub> | 16 Oct 2026 |
 | 🇲🇿 [Mozambique](./mozambique.md) | 🟠 Stale | 100 | <sub>DandelionSprout/adfilt · ★ 2.3k</sub> | 02 Nov 2026 |
-| 🇲🇲 [Myanmar (Burma)](./myanmar-burma.md) | 🟠 Stale | 100 | <sub>ronaldaug/gramateria · ★ 679</sub> | 15 Oct 2026 |
+| 🇲🇲 [Myanmar (Burma)](./myanmar-burma.md) | 🟠 Stale | 100 | <sub>eimg/rsd25 · ★ 396</sub> | 15 Oct 2026 |
 
 ### N
 
 | Country | Status | Repositories | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇳🇦 [Namibia](./namibia.md) | 🟠 Stale | 100 | <sub>Eckhardt-D/blanq · ★ 72</sub> | 02 Nov 2026 |
+| 🇳🇦 [Namibia](./namibia.md) | 🟠 Stale | 100 | <sub>dolotech/ebook · ★ 2.1k</sub> | 02 Nov 2026 |
 | 🇳🇷 [Nauru](./nauru.md) | 🟠 Stale | 14 | <sub>Melonbwead/lucky-zsh-theme · ★ 11</sub> | 02 Nov 2026 |
 | 🇳🇵 [Nepal](./nepal.md) | 🟠 Stale | 100 | <sub>lohanidamodar/flutter&#95;ui&#95;challenges · ★ 4.7k</sub> | 16 Oct 2026 |
 | 🇳🇱 [Netherlands](./netherlands.md) | 🟢 Published | 100 | <sub>JuliusBrussee/caveman · ★ 122k</sub> | 22 Nov 2026 |
 | 🇳🇨 [New Caledonia](./new-caledonia.md) | 🟠 Stale | 100 | <sub>TooFuW/ShortMoji · ★ 37</sub> | 02 Nov 2026 |
-| 🇳🇿 [New Zealand](./new-zealand.md) | 🟠 Stale | 65 | <sub>portainer/portainer · ★ 39k</sub> | 02 Nov 2026 |
-| 🇳🇮 [Nicaragua](./nicaragua.md) | 🟠 Stale | 100 | <sub>miaru3d/FacebookBot · ★ 409</sub> | 16 Oct 2026 |
+| 🇳🇿 [New Zealand](./new-zealand.md) | 🟠 Stale | 93 | <sub>portainer/portainer · ★ 39k</sub> | 02 Nov 2026 |
+| 🇳🇮 [Nicaragua](./nicaragua.md) | 🟠 Stale | 100 | <sub>franccesco/getaltname · ★ 390</sub> | 16 Oct 2026 |
 | 🇳🇪 [Niger](./niger.md) | 🟠 Stale | 100 | <sub>kodjodevf/mangayomi · ★ 4.5k</sub> | 13 Oct 2026 |
 | 🇳🇬 [Nigeria](./nigeria.md) | 🟠 Stale | 100 | <sub>abiosoft/colima · ★ 32k</sub> | 17 Oct 2026 |
 | 🇳🇺 [Niue](./niue.md) | 🟠 Stale | 10 | <sub>ggai3/contrib-pool-3-346 · ★ 5</sub> | 30 Oct 2026 |
@@ -248,46 +248,46 @@ Discover the most-starred GitHub repositories by country.
 | 🇰🇵 [North Korea](./north-korea.md) | 🟠 Stale | 100 | <sub>EwingYangs/awesome-open-gpt · ★ 6.1k</sub> | 16 Oct 2026 |
 | 🇲🇰 [North Macedonia](./north-macedonia.md) | 🟠 Stale | 100 | <sub>usekaneo/kaneo · ★ 9.9k</sub> | 16 Oct 2026 |
 | 🇲🇵 [Northern Mariana Islands](./northern-mariana-islands.md) | 🟠 Stale | 19 | <sub>raipay/chronik · ★ 5</sub> | 30 Oct 2026 |
-| 🇳🇴 [Norway](./norway.md) | 🟠 Stale | 88 | <sub>sherlock-project/sherlock · ★ 116k</sub> | 02 Nov 2026 |
+| 🇳🇴 [Norway](./norway.md) | 🟢 Published | 100 | <sub>sherlock-project/sherlock · ★ 116k</sub> | 22 Nov 2026 |
 
 ### O
 
 | Country | Status | Repositories | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇴🇲 [Oman](./oman.md) | 🟠 Stale | 100 | <sub>shihabal3amri/DiPlay · ★ 14k</sub> | 09 Oct 2026 |
+| 🇴🇲 [Oman](./oman.md) | 🟠 Stale | 100 | <sub>shihabal3amri/DiPlay · ★ 14k</sub> | 02 Nov 2026 |
 
 ### P
 
 | Country | Status | Repositories | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇵🇰 [Pakistan](./pakistan.md) | 🟠 Stale | 100 | <sub>shanraisshan/claude-code-best-pract… · ★ 69k</sub> | 16 Oct 2026 |
+| 🇵🇰 [Pakistan](./pakistan.md) | 🟠 Stale | 99 | <sub>shanraisshan/claude-code-best-pract… · ★ 69k</sub> | 16 Oct 2026 |
 | 🇵🇼 [Palau](./palau.md) | 🟠 Stale | 16 | <sub>tekinged/missing · ★ 8</sub> | 02 Nov 2026 |
-| 🇵🇸 [Palestine](./palestine.md) | 🟠 Stale | 100 | <sub>shadeed/headers-css · ★ 518</sub> | 10 Oct 2026 |
+| 🇵🇸 [Palestine](./palestine.md) | 🟠 Stale | 100 | <sub>izadoesdev/keypal · ★ 206</sub> | 02 Nov 2026 |
 | 🇵🇦 [Panama](./panama.md) | 🟠 Stale | 100 | <sub>vAPI-Network/vapi-network · ★ 5.5k</sub> | 02 Nov 2026 |
 | 🇵🇬 [Papua New Guinea](./papua-new-guinea.md) | 🟠 Stale | 14 | <sub>aiposnem400-Candycruz/bakeysalce · ★ 1</sub> | 01 Nov 2026 |
 | 🇵🇾 [Paraguay](./paraguay.md) | 🟠 Stale | 100 | <sub>PavelDoGreat/WebGL-Fluid-Simulation · ★ 17k</sub> | 14 Oct 2026 |
 | 🇵🇪 [Peru](./peru.md) | 🟠 Stale | 100 | <sub>hpneo/gmaps · ★ 7.0k</sub> | 16 Oct 2026 |
-| 🇵🇭 [Philippines](./philippines.md) | 🟠 Stale | 100 | <sub>audreyfeldroy/favicon-cheat-sheet · ★ 9.9k</sub> | 16 Oct 2026 |
+| 🇵🇭 [Philippines](./philippines.md) | 🟠 Stale | 87 | <sub>audreyfeldroy/favicon-cheat-sheet · ★ 9.9k</sub> | 16 Oct 2026 |
 | 🇵🇳 [Pitcairn Islands](./pitcairn-islands.md) | 🟠 Stale | 5 | <sub>Hi30MC/hipster-rom-generator · ★ 2</sub> | 27 Oct 2026 |
 | 🇵🇱 [Poland](./poland.md) | 🟢 Published | 100 | <sub>trimstray/the-book-of-secret-knowle… · ★ 260k</sub> | 22 Nov 2026 |
-| 🇵🇹 [Portugal](./portugal.md) | 🟠 Stale | 78 | <sub>jonasschmedtmann/complete-javascrip… · ★ 17k</sub> | 02 Nov 2026 |
+| 🇵🇹 [Portugal](./portugal.md) | 🟠 Stale | 100 | <sub>jonasschmedtmann/complete-javascrip… · ★ 17k</sub> | 02 Nov 2026 |
 | 🇵🇷 [Puerto Rico](./puerto-rico.md) | 🟠 Stale | 100 | <sub>EsotericSoftware/kryo · ★ 6.6k</sub> | 16 Oct 2026 |
 
 ### Q
 
 | Country | Status | Repositories | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇶🇦 [Qatar](./qatar.md) | 🟠 Stale | 100 | <sub>Offensive-Panda/ShadowDumper · ★ 588</sub> | 16 Oct 2026 |
+| 🇶🇦 [Qatar](./qatar.md) | 🟠 Stale | 100 | <sub>yusuf-musleh/mmar · ★ 311</sub> | 16 Oct 2026 |
 
 ### R
 
 | Country | Status | Repositories | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
 | 🇨🇬 [Republic of the Congo](./republic-of-the-congo.md) | 🟠 Stale | 34 | <sub>nathanbangwa243/learning-odoo-17 · ★ 18</sub> | 03 Nov 2026 |
-| 🇷🇪 [Réunion](./reunion.md) | 🟠 Stale | 100 | <sub>edouard-claude/snip · ★ 464</sub> | 03 Nov 2026 |
-| 🇷🇴 [Romania](./romania.md) | 🟠 Stale | 91 | <sub>florinpop17/app-ideas · ★ 99k</sub> | 17 Oct 2026 |
-| 🇷🇺 [Russia](./russia.md) | 🟡 Provisional | 65 | <sub>ValdikSS/GoodbyeDPI · ★ 29k</sub> | 22 Nov 2026 |
-| 🇷🇼 [Rwanda](./rwanda.md) | 🟠 Stale | 100 | <sub>DivinPrince/quickinbox · ★ 419</sub> | 16 Oct 2026 |
+| 🇷🇪 [Réunion](./reunion.md) | 🟠 Stale | 100 | <sub>PhilDL/react-router-gospel-stack · ★ 229</sub> | 03 Nov 2026 |
+| 🇷🇴 [Romania](./romania.md) | 🟠 Stale | 74 | <sub>florinpop17/app-ideas · ★ 99k</sub> | 03 Nov 2026 |
+| 🇷🇺 [Russia](./russia.md) | 🟢 Published | 100 | <sub>ValdikSS/GoodbyeDPI · ★ 29k</sub> | 22 Nov 2026 |
+| 🇷🇼 [Rwanda](./rwanda.md) | 🟠 Stale | 100 | <sub>david-legend/foodybite · ★ 325</sub> | 16 Oct 2026 |
 
 ### S
 
@@ -298,29 +298,29 @@ Discover the most-starred GitHub repositories by country.
 | 🇸🇹 [São Tomé &amp; Príncipe](./sao-tome-principe.md) | 🟠 Stale | 18 | <sub>benildebonfim/Proj&#95;Apresentacao · ★ 2</sub> | 03 Nov 2026 |
 | 🇸🇦 [Saudi Arabia](./saudi-arabia.md) | 🟠 Stale | 100 | <sub>orangci/walls-catppuccin-mocha · ★ 3.0k</sub> | 16 Oct 2026 |
 | 🇸🇳 [Senegal](./senegal.md) | 🟠 Stale | 100 | <sub>iib0011/omni-tools · ★ 11k</sub> | 15 Oct 2026 |
-| 🇷🇸 [Serbia](./serbia.md) | 🟠 Stale | 94 | <sub>milanm/DevOps-Roadmap · ★ 21k</sub> | 16 Oct 2026 |
+| 🇷🇸 [Serbia](./serbia.md) | 🟠 Stale | 47 | <sub>milanm/DevOps-Roadmap · ★ 21k</sub> | 16 Oct 2026 |
 | 🇸🇨 [Seychelles](./seychelles.md) | 🟠 Stale | 100 | <sub>smichalowski/google&#95;inception&#95;v3&#95;fo… · ★ 160</sub> | 03 Nov 2026 |
 | 🇸🇱 [Sierra Leone](./sierra-leone.md) | 🟠 Stale | 100 | <sub>gokoururi/homepage · ★ 131</sub> | 03 Nov 2026 |
 | 🇸🇬 [Singapore](./singapore.md) | 🟢 Published | 100 | <sub>rustdesk/rustdesk · ★ 131k</sub> | 22 Nov 2026 |
 | 🇸🇽 [Sint Maarten](./sint-maarten.md) | 🟠 Stale | 23 | <sub>SxMAbel/web&#95;vulnerabilities&#95;checker · ★ 7</sub> | 24 Oct 2026 |
-| 🇸🇰 [Slovakia](./slovakia.md) | 🟠 Stale | 100 | <sub>haad/proxychains · ★ 8.0k</sub> | 16 Oct 2026 |
+| 🇸🇰 [Slovakia](./slovakia.md) | 🟠 Stale | 82 | <sub>haad/proxychains · ★ 8.0k</sub> | 16 Oct 2026 |
 | 🇸🇮 [Slovenia](./slovenia.md) | 🟠 Stale | 100 | <sub>Niko1221/Strata · ★ 47k</sub> | 16 Oct 2026 |
 | 🇸🇧 [Solomon Islands](./solomon-islands.md) | 🟠 Stale | 49 | <sub>h-a-s-k/clewd · ★ 123</sub> | 03 Nov 2026 |
 | 🇸🇴 [Somalia](./somalia.md) | 🟠 Stale | 100 | <sub>Cabdulahi/pish · ★ 260</sub> | 16 Oct 2026 |
-| 🇿🇦 [South Africa](./south-africa.md) | 🟠 Stale | 100 | <sub>cobusgreyling/loop-engineering · ★ 12k</sub> | 17 Oct 2026 |
-| 🇬🇸 [South Georgia &amp; South Sandwich Islands](./south-georgia-south-sandwich-islands.md) | 🟠 Stale | 2 | <sub>Autossh/autossh · ★ 627</sub> | 09 Oct 2026 |
+| 🇿🇦 [South Africa](./south-africa.md) | 🟠 Stale | 90 | <sub>cobusgreyling/loop-engineering · ★ 12k</sub> | 17 Oct 2026 |
+| 🇬🇸 [South Georgia &amp; South Sandwich Islands](./south-georgia-south-sandwich-islands.md) | 🟠 Stale | 1 | <sub>60928375092815/Mainstay&#95;interest · ★ 0</sub> | 27 Oct 2026 |
 | 🇰🇷 [South Korea](./south-korea.md) | 🟢 Published | 100 | <sub>code-yeongyu/oh-my-openagent · ★ 71k</sub> | 22 Nov 2026 |
 | 🇸🇸 [South Sudan](./south-sudan.md) | 🟠 Stale | 9 | <sub>samccone/bundle-buddy · ★ 2.9k</sub> | 03 Nov 2026 |
 | 🇪🇸 [Spain](./spain.md) | 🟢 Published | 100 | <sub>x1xhlol/system-prompts-and-models-o… · ★ 145k</sub> | 22 Nov 2026 |
 | 🇱🇰 [Sri Lanka](./sri-lanka.md) | 🟠 Stale | 100 | <sub>neutralinojs/neutralinojs · ★ 8.7k</sub> | 03 Oct 2026 |
 | 🇧🇱 [St. Barthélemy](./st-barthelemy.md) | 🟠 Stale | 4 | <sub>bambinafrankriver/bambinafrankriver · ★ 0</sub> | 24 Oct 2026 |
 | 🇸🇭 [St. Helena](./st-helena.md) | 🟠 Stale | 14 | <sub>Gabegi/entity-framework-core-reposi… · ★ 34</sub> | 27 Oct 2026 |
-| 🇰🇳 [St. Kitts &amp; Nevis](./st-kitts-nevis.md) | 🟠 Stale | 46 | <sub>RaoFoundation/subtensor · ★ 393</sub> | 12 Oct 2026 |
+| 🇰🇳 [St. Kitts &amp; Nevis](./st-kitts-nevis.md) | 🟠 Stale | 47 | <sub>cake-tech/cake&#95;wallet · ★ 2.0k</sub> | 12 Oct 2026 |
 | 🇱🇨 [St. Lucia](./st-lucia.md) | 🟠 Stale | 53 | <sub>SiyuLiu0329/python-3d-image-augment… · ★ 20</sub> | 03 Nov 2026 |
 | 🇲🇫 [St. Martin](./st-martin.md) | 🟠 Stale | 6 | <sub>Active-Outre-Mer-Dev/sxm-quiz · ★ 1</sub> | 24 Oct 2026 |
 | 🇵🇲 [St. Pierre &amp; Miquelon](./st-pierre-miquelon.md) | 🟠 Stale | 14 | <sub>bitopblogger/bitopblogger · ★ 0</sub> | 27 Oct 2026 |
 | 🇻🇨 [St. Vincent &amp; Grenadines](./st-vincent-grenadines.md) | 🟠 Stale | 35 | <sub>findonflow/find · ★ 33</sub> | 03 Nov 2026 |
-| 🇸🇩 [Sudan](./sudan.md) | 🟠 Stale | 100 | <sub>wadgamaraldeen/My-Hunting-Methodolo… · ★ 452</sub> | 03 Nov 2026 |
+| 🇸🇩 [Sudan](./sudan.md) | 🟠 Stale | 100 | <sub>the94air/laravel-ajax-crud · ★ 87</sub> | 03 Nov 2026 |
 | 🇸🇷 [Suriname](./suriname.md) | 🟠 Stale | 100 | <sub>giannisanni/pulsar · ★ 229</sub> | 16 Oct 2026 |
 | 🇸🇯 [Svalbard &amp; Jan Mayen](./svalbard-jan-mayen.md) | 🟠 Stale | 29 | <sub>loathers/autoscend · ★ 53</sub> | 27 Oct 2026 |
 | 🇸🇪 [Sweden](./sweden.md) | 🟢 Published | 100 | <sub>grafana/grafana · ★ 78k</sub> | 22 Nov 2026 |
@@ -331,17 +331,17 @@ Discover the most-starred GitHub repositories by country.
 
 | Country | Status | Repositories | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇹🇼 [Taiwan](./taiwan.md) | 🟠 Stale | 100 | <sub>vinta/awesome-python · ★ 336k</sub> | 16 Oct 2026 |
+| 🇹🇼 [Taiwan](./taiwan.md) | 🟢 Published | 100 | <sub>vinta/awesome-python · ★ 336k</sub> | 22 Nov 2026 |
 | 🇹🇯 [Tajikistan](./tajikistan.md) | 🟠 Stale | 100 | <sub>shukkkur/VolleyVision · ★ 329</sub> | 13 Oct 2026 |
 | 🇹🇿 [Tanzania](./tanzania.md) | 🟠 Stale | 100 | <sub>NASA-AMMOS/3DTilesRendererJS · ★ 2.5k</sub> | 17 Oct 2026 |
-| 🇹🇭 [Thailand](./thailand.md) | 🟠 Stale | 100 | <sub>elysiajs/elysia · ★ 19k</sub> | 17 Oct 2026 |
+| 🇹🇭 [Thailand](./thailand.md) | 🟠 Stale | 97 | <sub>elysiajs/elysia · ★ 19k</sub> | 03 Nov 2026 |
 | 🇹🇱 [Timor-Leste](./timor-leste.md) | 🟠 Stale | 14 | <sub>Celio-err/Team-Project-SJD · ★ 1</sub> | 03 Nov 2026 |
 | 🇹🇬 [Togo](./togo.md) | 🟠 Stale | 100 | <sub>Is-Daouda/is-Engine · ★ 235</sub> | 16 Oct 2026 |
 | 🇹🇰 [Tokelau](./tokelau.md) | 🟠 Stale | 11 | <sub>duboviy/minicache · ★ 79</sub> | 24 Oct 2026 |
-| 🇹🇴 [Tonga](./tonga.md) | 🟠 Stale | 43 | <sub>Cartus/Automated-Fact-Checking-Reso… · ★ 580</sub> | 03 Nov 2026 |
+| 🇹🇴 [Tonga](./tonga.md) | 🟠 Stale | 42 | <sub>12john123/Deep-generative-adversari… · ★ 10</sub> | 03 Nov 2026 |
 | 🇹🇹 [Trinidad &amp; Tobago](./trinidad-tobago.md) | 🟠 Stale | 100 | <sub>labstack/echo · ★ 33k</sub> | 16 Oct 2026 |
 | 🇹🇳 [Tunisia](./tunisia.md) | 🟠 Stale | 100 | <sub>rayenghanmi/RyTuneX · ★ 5.6k</sub> | 17 Oct 2026 |
-| 🇹🇷 [Türkiye](./turkiye.md) | 🟠 Stale | 83 | <sub>f/prompts.chat · ★ 178k</sub> | 03 Nov 2026 |
+| 🇹🇷 [Türkiye](./turkiye.md) | 🟢 Published | 100 | <sub>f/prompts.chat · ★ 178k</sub> | 22 Nov 2026 |
 | 🇹🇲 [Turkmenistan](./turkmenistan.md) | 🟠 Stale | 100 | <sub>vbauerster/mpb · ★ 2.5k</sub> | 16 Oct 2026 |
 | 🇹🇨 [Turks &amp; Caicos Islands](./turks-caicos-islands.md) | 🟠 Stale | 26 | <sub>doobeh/Flask-S3-Uploader · ★ 97</sub> | 31 Oct 2026 |
 | 🇹🇻 [Tuvalu](./tuvalu.md) | 🟠 Stale | 22 | <sub>maid-zone/soundcloak · ★ 25</sub> | 03 Nov 2026 |
@@ -353,8 +353,8 @@ Discover the most-starred GitHub repositories by country.
 | 🇺🇲 [U.S. Outlying Islands](./u-s-outlying-islands.md) | 🟠 Stale | 8 | <sub>realjarvis69/NintenDeck · ★ 21</sub> | 27 Oct 2026 |
 | 🇻🇮 [U.S. Virgin Islands](./u-s-virgin-islands.md) | 🟠 Stale | 14 | <sub>CousinRicky/POV-SpectralRender-mods · ★ 3</sub> | 31 Oct 2026 |
 | 🇺🇬 [Uganda](./uganda.md) | 🟠 Stale | 100 | <sub>has2k1/plotnine · ★ 4.8k</sub> | 15 Oct 2026 |
-| 🇺🇦 [Ukraine](./ukraine.md) | 🟠 Stale | 97 | <sub>serhii-londar/open-source-mac-os-ap… · ★ 51k</sub> | 03 Nov 2026 |
-| 🇦🇪 [United Arab Emirates](./united-arab-emirates.md) | 🟠 Stale | 100 | <sub>vxcontrol/pentagi · ★ 35k</sub> | 17 Oct 2026 |
+| 🇺🇦 [Ukraine](./ukraine.md) | 🟢 Published | 100 | <sub>serhii-londar/open-source-mac-os-ap… · ★ 51k</sub> | 22 Nov 2026 |
+| 🇦🇪 [United Arab Emirates](./united-arab-emirates.md) | 🟠 Stale | 81 | <sub>vxcontrol/pentagi · ★ 35k</sub> | 03 Nov 2026 |
 | 🇬🇧 [United Kingdom](./united-kingdom.md) | 🟢 Published | 100 | <sub>nilbuild/developer-roadmap · ★ 373k</sub> | 22 Nov 2026 |
 | 🇺🇸 [United States](./united-states.md) | 🟢 Published | 100 | <sub>codecrafters-io/build-your-own-x · ★ 565k</sub> | 22 Nov 2026 |
 | 🇺🇾 [Uruguay](./uruguay.md) | 🟠 Stale | 100 | <sub>diegomura/react-pdf · ★ 17k</sub> | 16 Oct 2026 |
@@ -367,7 +367,7 @@ Discover the most-starred GitHub repositories by country.
 | 🇻🇺 [Vanuatu](./vanuatu.md) | 🟠 Stale | 56 | <sub>alfnitacoder/FB-AutoPasswordGen-Bru… · ★ 31</sub> | 27 Oct 2026 |
 | 🇻🇦 [Vatican City](./vatican-city.md) | 🟠 Stale | 59 | <sub>Liturgical-Calendar/LiturgicalCalen… · ★ 107</sub> | 27 Oct 2026 |
 | 🇻🇪 [Venezuela](./venezuela.md) | 🟠 Stale | 100 | <sub>lusaxweb/vuesax · ★ 5.6k</sub> | 16 Oct 2026 |
-| 🇻🇳 [Vietnam](./vietnam.md) | 🟠 Stale | 100 | <sub>nextlevelbuilder/ui-ux-pro-max-skill · ★ 153k</sub> | 17 Oct 2026 |
+| 🇻🇳 [Vietnam](./vietnam.md) | 🟠 Stale | 75 | <sub>nextlevelbuilder/ui-ux-pro-max-skill · ★ 153k</sub> | 17 Oct 2026 |
 
 ### W
 
@@ -380,14 +380,14 @@ Discover the most-starred GitHub repositories by country.
 
 | Country | Status | Repositories | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇾🇪 [Yemen](./yemen.md) | 🟠 Stale | 100 | <sub>AhmedSaadi0/NibrasShell · ★ 773</sub> | 15 Oct 2026 |
+| 🇾🇪 [Yemen](./yemen.md) | 🟠 Stale | 100 | <sub>aymanalhattami/filament-page-with-s… · ★ 273</sub> | 15 Oct 2026 |
 
 ### Z
 
 | Country | Status | Repositories | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
 | 🇿🇲 [Zambia](./zambia.md) | 🟠 Stale | 100 | <sub>malgamves/CommunityWriterPrograms · ★ 4.2k</sub> | 15 Oct 2026 |
-| 🇿🇼 [Zimbabwe](./zimbabwe.md) | 🟠 Stale | 100 | <sub>mrxdking/star-xd · ★ 629</sub> | 16 Oct 2026 |
+| 🇿🇼 [Zimbabwe](./zimbabwe.md) | 🟠 Stale | 100 | <sub>MalvinTechInfo/MALVIN-XD · ★ 1.6k</sub> | 16 Oct 2026 |
 
 <details>
 <summary><b>Status definitions</b></summary>

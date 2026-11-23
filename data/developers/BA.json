@@ -5,16 +5,19 @@
 "country": {"code":"BA","name":"Bosnia & Herzegovina","slug":"bosnia-herzegovina"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":82,"candidates":5,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":123,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":82,"candidates":8,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":123,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjYxNDY0MjY3","login":"marjanovicbrane","name":"Brane Marjanovic","url":"https://github.com/marjanovicbrane","avatarUrl":"https://avatars.githubusercontent.com/u/61464267?s=80&v=4","followers":975,"publicRepos":17,"location":"Banja Luka, Serb Republic","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjQ4OTA1NDg=","login":"inputsh","name":"Aleksandar Todorović","url":"https://github.com/inputsh","avatarUrl":"https://avatars.githubusercontent.com/u/4890548?s=80&v=4","followers":742,"publicRepos":100,"location":"Sarajevo, Bosnia & Herzegovina","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":3,"id":"MDQ6VXNlcjgyMzY3","login":"adnanh","name":"Adnan Hajdarević","url":"https://github.com/adnanh","avatarUrl":"https://avatars.githubusercontent.com/u/82367?s=80&v=4","followers":229,"publicRepos":42,"location":"Sarajevo, Bosnia & Herzegovina","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":4,"id":"MDQ6VXNlcjEyNzk2MDQ=","login":"borisdj","name":"Boris Djurdjevic","url":"https://github.com/borisdj","avatarUrl":"https://avatars.githubusercontent.com/u/1279604?s=80&v=4","followers":129,"publicRepos":32,"location":"Banja Luka, Bosnia and Herzegovina","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":5,"id":"MDQ6VXNlcjIwMjI3MzM0","login":"elvirbrk","name":"Elvir Brkić","url":"https://github.com/elvirbrk","avatarUrl":"https://avatars.githubusercontent.com/u/20227334?s=80&v=4","followers":82,"publicRepos":null,"location":"Sarajevo","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"}
+  {"rank":3,"id":"MDQ6VXNlcjg5MDUxMzgx","login":"BenjaminMahmic","name":"Benjamin Mahmić","url":"https://github.com/BenjaminMahmic","avatarUrl":"https://avatars.githubusercontent.com/u/89051381?s=80&v=4","followers":460,"publicRepos":18,"location":"Zenica, Bosnia and Herzegovina","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":4,"id":"MDQ6VXNlcjExODA3NjAw","login":"enisdenjo","name":"Denis Badurina","url":"https://github.com/enisdenjo","avatarUrl":"https://avatars.githubusercontent.com/u/11807600?s=80&v=4","followers":235,"publicRepos":66,"location":"Sarajevo","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23"},
+  {"rank":5,"id":"MDQ6VXNlcjgyMzY3","login":"adnanh","name":"Adnan Hajdarević","url":"https://github.com/adnanh","avatarUrl":"https://avatars.githubusercontent.com/u/82367?s=80&v=4","followers":229,"publicRepos":42,"location":"Sarajevo, Bosnia & Herzegovina","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":6,"id":"MDQ6VXNlcjU0MDM3MDA=","login":"ribice","name":"Emir Ribić","url":"https://github.com/ribice","avatarUrl":"https://avatars.githubusercontent.com/u/5403700?s=80&v=4","followers":221,"publicRepos":null,"location":"Sarajevo","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23"},
+  {"rank":7,"id":"MDQ6VXNlcjEyNzk2MDQ=","login":"borisdj","name":"Boris Djurdjevic","url":"https://github.com/borisdj","avatarUrl":"https://avatars.githubusercontent.com/u/1279604?s=80&v=4","followers":129,"publicRepos":32,"location":"Banja Luka, Bosnia and Herzegovina","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":8,"id":"MDQ6VXNlcjIwMjI3MzM0","login":"elvirbrk","name":"Elvir Brkić","url":"https://github.com/elvirbrk","avatarUrl":"https://avatars.githubusercontent.com/u/20227334?s=80&v=4","followers":82,"location":"Sarajevo","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "0df4eaa96b154604",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "4c8ae73e0ba3e7e5",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

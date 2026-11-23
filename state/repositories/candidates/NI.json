@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"NI","name":"Nicaragua","slug":"nicaragua"},
-"count": 150,
+"count": 149,
 "repositories": [
-  {"name":"miaru3d/FacebookBot","stars":409,"forks":122,"language":"Python","license":"Apache-2.0","archived":false,"createdAt":"2016-01-29T15:20:09Z","pushedAt":"2024-03-19T12:08:36Z","owner":{"login":"miaru3d","type":"User","name":"Miaru3d","location":"Nicaragua"},"attribution":{"code":"NI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T18:16:11.587Z","id":"legacy:miaru3d/facebookbot","legacy":true},
   {"name":"franccesco/getaltname","stars":390,"forks":71,"language":"Python","license":"MIT","archived":false,"createdAt":"2017-11-13T03:28:10Z","pushedAt":"2026-09-01T06:58:34Z","owner":{"login":"franccesco","type":"User","name":"Franccesco Orozco","location":"Nicaragua"},"attribution":{"code":"NI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T18:16:11.587Z","id":"legacy:franccesco/getaltname","legacy":true},
   {"name":"JezerM/web-greeter","stars":271,"forks":19,"language":"Python","license":"GPL-3.0","archived":false,"createdAt":"2021-06-17T05:28:34Z","pushedAt":"2026-09-06T03:56:33Z","owner":{"login":"JezerM","type":"User","name":"Jezer Mejía","location":"Nicaragua"},"attribution":{"code":"NI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T18:16:11.587Z","id":"legacy:jezerm/web-greeter","legacy":true},
   {"name":"gdgmanagua/jekyll-mdl","stars":227,"forks":152,"language":"HTML","license":"Apache-2.0","archived":false,"createdAt":"2015-07-11T17:08:43Z","pushedAt":"2021-07-19T10:55:06Z","owner":{"login":"gdgmanagua","type":"Organization","name":"GDG Managua","location":"Managua, Nicaragua"},"attribution":{"code":"NI","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-16T18:16:11.587Z","id":"legacy:gdgmanagua/jekyll-mdl","legacy":true},

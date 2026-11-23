@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"MU","name":"Mauritius","slug":"mauritius"},
-"count": 149,
+"count": 147,
 "repositories": [
-  {"name":"thatstraw/Cybersecurity-Roadmap","stars":739,"forks":68,"license":"GPL-2.0","archived":false,"createdAt":"2022-01-02T16:44:47Z","pushedAt":"2024-09-24T16:15:57Z","owner":{"login":"thatstraw","type":"User","name":"Traw","location":"Mauritius"},"attribution":{"code":"MU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T18:16:11.583Z","id":"legacy:thatstraw/cybersecurity-roadmap","legacy":true},
-  {"name":"SiZapPaaiGwat/inhuman-cpc.github.io","stars":430,"forks":91,"language":"JavaScript","archived":false,"createdAt":"2012-09-08T01:27:04Z","pushedAt":"2018-04-18T03:51:58Z","owner":{"login":"SiZapPaaiGwat","type":"User","name":"饭食钢","location":"China town"},"attribution":{"code":"MU","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-16T18:16:11.583Z","id":"legacy:sizappaaigwat/inhuman-cpc.github.io","legacy":true},
   {"name":"giriss/comfy-image-saver","stars":348,"forks":80,"language":"Python","license":"MIT","archived":false,"createdAt":"2023-08-15T08:39:14Z","pushedAt":"2026-07-17T17:09:23Z","owner":{"login":"giriss","type":"User","name":"Girish Gopaul","location":"Mauritius"},"attribution":{"code":"MU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T18:16:11.583Z","id":"legacy:giriss/comfy-image-saver","legacy":true},
   {"name":"Abdur-rahmaanJ/shopcube","stars":277,"forks":133,"language":"HTML","license":"NOASSERTION","archived":false,"createdAt":"2019-06-26T19:44:29Z","pushedAt":"2026-07-21T12:45:22Z","owner":{"login":"Abdur-rahmaanJ","type":"User","name":"Abdur-Rahmaan Janhangeer","location":"Mauritius"},"attribution":{"code":"MU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T18:16:11.583Z","id":"legacy:abdur-rahmaanj/shopcube","legacy":true},
   {"name":"yuvraj108c/ComfyUI-Whisper","stars":276,"forks":43,"language":"Python","license":"NOASSERTION","archived":false,"createdAt":"2024-01-24T07:03:58Z","pushedAt":"2026-06-07T04:56:41Z","owner":{"login":"yuvraj108c","type":"User","name":"Yuvraj Seegolam","location":"Mauritius"},"attribution":{"code":"MU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T18:16:11.583Z","id":"legacy:yuvraj108c/comfyui-whisper","legacy":true},

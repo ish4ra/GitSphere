@@ -5,13 +5,15 @@
 "country": {"code":"WS","name":"Samoa","slug":"samoa"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":6,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjExNjYyMzk5","login":"ainsofs","name":"Ainsof So'o","url":"https://github.com/ainsofs","avatarUrl":"https://avatars.githubusercontent.com/u/11662399?s=80&v=4","followers":13,"publicRepos":73,"location":"Samoa","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"U_kgDOBXa96A","login":"5thAttemptCode","name":"Henry","url":"https://github.com/5thAttemptCode","avatarUrl":"https://avatars.githubusercontent.com/u/91667944?s=80&v=4","followers":6,"publicRepos":46,"location":"Apia, Samoa","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+  {"rank":2,"id":"U_kgDOBXa96A","login":"5thAttemptCode","name":"Henry","url":"https://github.com/5thAttemptCode","avatarUrl":"https://avatars.githubusercontent.com/u/91667944?s=80&v=4","followers":6,"publicRepos":46,"location":"Apia, Samoa","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"U_kgDOCtMvAw","login":"camemorningsun","name":null,"url":"https://github.com/camemorningsun","avatarUrl":"https://avatars.githubusercontent.com/u/181612291?s=80&v=4","followers":0,"publicRepos":2,"location":"Samoa (WS)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":4,"id":"MDQ6VXNlcjYwNzkzNzU=","login":"Alchemista","name":"Alchemista","url":"https://github.com/Alchemista","avatarUrl":"https://avatars.githubusercontent.com/u/6079375?s=80&v=4","followers":0,"publicRepos":1,"location":"Samoa","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "d0bf48e29f8d362f",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "e94d8bc693318dae",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

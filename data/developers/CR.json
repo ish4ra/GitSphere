@@ -5,15 +5,19 @@
 "country": {"code":"CR","name":"Costa Rica","slug":"costa-rica"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":773,"candidates":4,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":58,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":181,"candidates":8,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":58,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjM0Mzg1MDM=","login":"Klerith","name":"Fernando Herrera","url":"https://github.com/Klerith","avatarUrl":"https://avatars.githubusercontent.com/u/3438503?s=80&v=4","followers":15634,"publicRepos":579,"location":"Costa Rica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"U_kgDOCxYo9w","login":"glittercowboy","name":"TÂCHES","url":"https://github.com/glittercowboy","avatarUrl":"https://avatars.githubusercontent.com/u/186001655?s=80&v=4","followers":1284,"publicRepos":28,"location":"Costa Rica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"U_kgDOCxYo9w","login":"glittercowboy","name":"TÂCHES","url":"https://github.com/glittercowboy","avatarUrl":"https://avatars.githubusercontent.com/u/186001655?s=80&v=4","followers":1284,"publicRepos":28,"location":"Costa Rica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":3,"id":"U_kgDODKleEg","login":"miguelestradam3","name":"Miguel Estrada","url":"https://github.com/miguelestradam3","avatarUrl":"https://avatars.githubusercontent.com/u/212426258?s=80&v=4","followers":1130,"publicRepos":89,"location":"Costa Rica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":4,"id":"MDQ6VXNlcjMwMTY0NDQ3","login":"jorneycr","name":"Jorney Lopez","url":"https://github.com/jorneycr","avatarUrl":"https://avatars.githubusercontent.com/u/30164447?s=80&v=4","followers":773,"publicRepos":110,"location":"Costa Rica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":4,"id":"MDQ6VXNlcjMwMTY0NDQ3","login":"jorneycr","name":"Jorney Lopez","url":"https://github.com/jorneycr","avatarUrl":"https://avatars.githubusercontent.com/u/30164447?s=80&v=4","followers":773,"publicRepos":110,"location":"Costa Rica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":5,"id":"MDQ6VXNlcjM3OTA0","login":"tito","name":"Mathieu Virbel","url":"https://github.com/tito","avatarUrl":"https://avatars.githubusercontent.com/u/37904?s=80&v=4","followers":534,"publicRepos":132,"location":"Costa Rica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":6,"id":"MDQ6VXNlcjc5MTk4Mg==","login":"siddharta1337","name":"Carlos Solis","url":"https://github.com/siddharta1337","avatarUrl":"https://avatars.githubusercontent.com/u/791982?s=80&v=4","followers":491,"publicRepos":63,"location":"Costa Rica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":7,"id":"MDQ6VXNlcjU1NzYwMDI0","login":"r0r0x-xx","name":"r0r0x","url":"https://github.com/r0r0x-xx","avatarUrl":"https://avatars.githubusercontent.com/u/55760024?s=80&v=4","followers":460,"publicRepos":21,"location":"Costa Rica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":8,"id":"MDQ6VXNlcjY5MjI0MzIy","login":"Jeffser","name":"Jeffry Samuel","url":"https://github.com/Jeffser","avatarUrl":"https://avatars.githubusercontent.com/u/69224322?s=80&v=4","followers":181,"location":"Costa Rica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "99b4f9bdb86f1727",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "2fd4e6a815f01879",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

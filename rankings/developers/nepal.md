@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **29** | 22 Nov 2026 | <a href="../../data/developers/NP.json">JSON</a> |
+| 🟡 Provisional | **34** | 22 Nov 2026 | <a href="../../data/developers/NP.json">JSON</a> |
 
 </div>
 
@@ -73,7 +73,7 @@
 <tr>
 <td align="right">8</td>
 <td><a href="https://github.com/devsargam"><img src="https://avatars.githubusercontent.com/u/76874341?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/devsargam"><b>Sargam</b></a><br><sub>&#64;devsargam</sub></td>
-<td align="right"><b>2,016</b></td>
+<td align="right"><b>2,017</b></td>
 <td align="right">138</td>
 <td><sub>Nepal</sub></td>
 </tr>
@@ -198,27 +198,62 @@
 </tr>
 <tr>
 <td align="right">26</td>
+<td><a href="https://github.com/prabinpanta0"><img src="https://avatars.githubusercontent.com/u/87630026?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/prabinpanta0"><b>Prabin Panta</b></a><br><sub>&#64;prabinpanta0</sub></td>
+<td align="right"><b>561</b></td>
+<td align="right">60</td>
+<td><sub>Nepal</sub></td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td><a href="https://github.com/prabhashj07"><img src="https://avatars.githubusercontent.com/u/76786287?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/prabhashj07"><b>Prabhash Kumar Jha</b></a><br><sub>&#64;prabhashj07</sub></td>
+<td align="right"><b>550</b></td>
+<td align="right">51</td>
+<td><sub>Kathmandu, Nepal</sub></td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td><a href="https://github.com/TheBinitGhimire"><img src="https://avatars.githubusercontent.com/u/20013689?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TheBinitGhimire"><b>Binit Ghimire</b></a><br><sub>&#64;TheBinitGhimire</sub></td>
+<td align="right"><b>485</b></td>
+<td align="right">40</td>
+<td><sub>Bharatpur-9, Milanchowk, Chitwan, Nepal</sub></td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td><a href="https://github.com/isarojdahal"><img src="https://avatars.githubusercontent.com/u/30316193?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/isarojdahal"><b>Saroj Dahal</b></a><br><sub>&#64;isarojdahal</sub></td>
+<td align="right"><b>482</b></td>
+<td align="right">76</td>
+<td><sub>Lokanthali, Bhaktapur</sub></td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td><a href="https://github.com/sarbagyastha"><img src="https://avatars.githubusercontent.com/u/9782008?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sarbagyastha"><b>Sarbagya Dhaubanjar</b></a><br><sub>&#64;sarbagyastha</sub></td>
+<td align="right"><b>418</b></td>
+<td align="right">68</td>
+<td><sub>Kathmandu, Nepal</sub></td>
+</tr>
+<tr>
+<td align="right">31</td>
 <td><a href="https://github.com/erluxman"><img src="https://avatars.githubusercontent.com/u/6260014?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/erluxman"><b>Laxman Bhattarai</b></a><br><sub>&#64;erluxman</sub></td>
 <td align="right"><b>266</b></td>
 <td align="right">0</td>
 <td><sub>Kathmandu Nepal</sub></td>
 </tr>
 <tr>
-<td align="right">27</td>
+<td align="right">32</td>
 <td><a href="https://github.com/casualsnek"><img src="https://avatars.githubusercontent.com/u/76276047?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/casualsnek"><b>Casu Al Snek</b></a><br><sub>&#64;casualsnek</sub></td>
 <td align="right"><b>223</b></td>
 <td align="right">0</td>
 <td><sub>Nepal</sub></td>
 </tr>
 <tr>
-<td align="right">28</td>
+<td align="right">33</td>
 <td><a href="https://github.com/prajwalch"><img src="https://avatars.githubusercontent.com/u/42384293?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/prajwalch"><b>Prajwal Chapagain</b></a><br><sub>&#64;prajwalch</sub></td>
 <td align="right"><b>90</b></td>
 <td align="right">0</td>
 <td><sub>Damak, Jhapa, Nepal</sub></td>
 </tr>
 <tr>
-<td align="right">29</td>
+<td align="right">34</td>
 <td><a href="https://github.com/xandemon"><img src="https://avatars.githubusercontent.com/u/89733181?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xandemon"><b>Sandesh Katwal</b></a><br><sub>&#64;xandemon</sub></td>
 <td align="right"><b>64</b></td>
 <td align="right">0</td>
@@ -232,7 +267,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 29 attributed developers are tracked; the cutoff is 64 followers.
+- Organizations are excluded. 34 attributed developers are tracked; the cutoff is 64 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

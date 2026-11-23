@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **100** | 16 Oct 2026 | <a href="../data/TW.json">JSON</a> |
-
-> **Not yet re-verified.** 31 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/TW.json">JSON</a> |
 
 </div>
 
@@ -508,220 +506,220 @@
 </tr>
 <tr>
 <td align="right">70</td>
-<td><img src="https://github.com/kaochenlong.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kaochenlong/spectra-app"><b>kaochenlong/spectra-app</b></a></td>
-<td align="right"><b>748</b></td>
-<td align="right">33</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/AllenFang.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AllenFang/react-bootstrap-table"><b>AllenFang/react-bootstrap-table</b></a><br><sub>A Bootstrap table built with React.js</sub></td>
+<td align="right"><b>2,204</b></td>
+<td align="right">752</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">71</td>
-<td><img src="https://github.com/roberthsu2003.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/roberthsu2003/python"><b>roberthsu2003/python</b></a></td>
-<td align="right"><b>722</b></td>
-<td align="right">36</td>
+<td><img src="https://github.com/erhwenkuo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/erhwenkuo/deep-learning-with-keras-notebooks"><b>erhwenkuo/deep-learning-with-keras-notebooks</b></a><br><sub>Jupyter notebooks for using &amp; learning Keras</sub></td>
+<td align="right"><b>2,197</b></td>
+<td align="right">671</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">72</td>
-<td><img src="https://github.com/liangjingkanji.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/liangjingkanji/StateLayout"><b>liangjingkanji/StateLayout</b></a></td>
-<td align="right"><b>705</b></td>
-<td align="right">54</td>
-<td>Kotlin</td>
+<td><img src="https://github.com/cjo4m06.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cjo4m06/mcp-shrimp-task-manager"><b>cjo4m06/mcp-shrimp-task-manager</b></a><br><sub>Shrimp Task Manager is a task tool built for AI Agents, emphasizing chain-of-thought, reflection, and style consistency…</sub></td>
+<td align="right"><b>2,153</b></td>
+<td align="right">258</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">73</td>
-<td><img src="https://github.com/liangjingkanji.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/liangjingkanji/spannable"><b>liangjingkanji/spannable</b></a></td>
-<td align="right"><b>667</b></td>
-<td align="right">58</td>
-<td>Kotlin</td>
+<td><img src="https://github.com/ButTaiwan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ButTaiwan/iansui"><b>ButTaiwan/iansui</b></a><br><sub>芫荽，基於 Klee One 改造的學習用台灣繁體字型</sub></td>
+<td align="right"><b>2,146</b></td>
+<td align="right">73</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">74</td>
-<td><img src="https://github.com/PeterDaveHello.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PeterDaveHello/tor-socks-proxy"><b>PeterDaveHello/tor-socks-proxy</b></a></td>
-<td align="right"><b>652</b></td>
-<td align="right">134</td>
-<td>Dockerfile</td>
+<td><img src="https://github.com/AWeirdDev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AWeirdDev/flights"><b>AWeirdDev/flights</b></a><br><sub>Fast, robust Google Flights scraper (API) for Python. (Probably)</sub></td>
+<td align="right"><b>2,137</b></td>
+<td align="right">260</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">75</td>
-<td><img src="https://github.com/morris821028.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/morris821028/UVa"><b>morris821028/UVa</b></a></td>
-<td align="right"><b>582</b></td>
-<td align="right">263</td>
-<td>C++</td>
+<td><img src="https://github.com/jhen0409.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jhen0409/react-chrome-extension-boilerplate"><b>jhen0409/react-chrome-extension-boilerplate</b></a><br><sub>Boilerplate for Chrome Extension React.js project</sub></td>
+<td align="right"><b>2,136</b></td>
+<td align="right">378</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">76</td>
-<td><img src="https://github.com/max32002.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/max32002/naikaifont"><b>max32002/naikaifont</b></a></td>
-<td align="right"><b>561</b></td>
-<td align="right">32</td>
-<td>—</td>
+<td><img src="https://github.com/topjohnwu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/topjohnwu/libsu"><b>topjohnwu/libsu</b></a><br><sub>A complete solution for apps using root permissions</sub></td>
+<td align="right"><b>2,126</b></td>
+<td align="right">416</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">77</td>
-<td><img src="https://github.com/yenlung.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yenlung/Python-3-Data-Analysis-Basics"><b>yenlung/Python-3-Data-Analysis-Basics</b></a></td>
-<td align="right"><b>509</b></td>
-<td align="right">367</td>
-<td>Jupyter Notebook</td>
+<td><img src="https://github.com/edenfunf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/edenfunf/reelmimic"><b>edenfunf/reelmimic</b></a><br><sub>Open-source AI video style cloning for 2D animation. Give it a reference video or YouTube link; Claude Code or Codex ag…</sub></td>
+<td align="right"><b>2,107</b></td>
+<td align="right">107</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">78</td>
-<td><img src="https://github.com/ywchiu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ywchiu/largitdata"><b>ywchiu/largitdata</b></a></td>
-<td align="right"><b>387</b></td>
-<td align="right">312</td>
-<td>Jupyter Notebook</td>
+<td><img src="https://github.com/riddleling.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/riddleling/iOS-OCR-Server"><b>riddleling/iOS-OCR-Server</b></a><br><sub>An iOS OCR Server Using Apple’s Vision Framework</sub></td>
+<td align="right"><b>2,102</b></td>
+<td align="right">192</td>
+<td>Swift</td>
 </tr>
 <tr>
 <td align="right">79</td>
-<td><img src="https://github.com/liangjingkanji.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/liangjingkanji/Channel"><b>liangjingkanji/Channel</b></a></td>
-<td align="right"><b>387</b></td>
-<td align="right">25</td>
+<td><img src="https://github.com/plateaukao.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/plateaukao/einkbro"><b>plateaukao/einkbro</b></a><br><sub>A small, fast web browser based on Android WebView. It&#39;s tailored for E-Ink devices but also works great on normal andr…</sub></td>
+<td align="right"><b>2,067</b></td>
+<td align="right">137</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">80</td>
-<td><img src="https://github.com/ming053l.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ming053l/DRCT"><b>ming053l/DRCT</b></a></td>
-<td align="right"><b>365</b></td>
-<td align="right">39</td>
-<td>Jupyter Notebook</td>
+<td><img src="https://github.com/chentsulin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chentsulin/awesome-react-renderer"><b>chentsulin/awesome-react-renderer</b></a><br><sub>Awesome list of React Renderer</sub></td>
+<td align="right"><b>2,062</b></td>
+<td align="right">146</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">81</td>
-<td><img src="https://github.com/PCMan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PCMan/gtk3-nocsd"><b>PCMan/gtk3-nocsd</b></a></td>
-<td align="right"><b>355</b></td>
-<td align="right">40</td>
-<td>C</td>
-</tr>
-<tr>
-<td align="right">82</td>
-<td><img src="https://github.com/liangjingkanji.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/liangjingkanji/soft-input-event"><b>liangjingkanji/soft-input-event</b></a></td>
-<td align="right"><b>333</b></td>
-<td align="right">39</td>
+<td><img src="https://github.com/liangjingkanji.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/liangjingkanji/Net"><b>liangjingkanji/Net</b></a><br><sub>&#91;永久维护&#93; Android 基于协程/OkHttp网络请求工具</sub></td>
+<td align="right"><b>2,033</b></td>
+<td align="right">241</td>
 <td>Kotlin</td>
 </tr>
 <tr>
+<td align="right">82</td>
+<td><img src="https://github.com/kevingo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kevingo/coding-interview-university-zh-tw"><b>kevingo/coding-interview-university-zh-tw</b></a><br><sub>coding-interview-university 繁體中文翻譯計畫。原作者：https://github.com/jwasham/coding-interview-university</sub></td>
+<td align="right"><b>2,021</b></td>
+<td align="right">384</td>
+<td>—</td>
+</tr>
+<tr>
 <td align="right">83</td>
-<td><img src="https://github.com/Yubo0826.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Yubo0826/88mall"><b>Yubo0826/88mall</b></a></td>
-<td align="right"><b>321</b></td>
-<td align="right">2</td>
-<td>Vue</td>
+<td><img src="https://github.com/luc-github.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/luc-github/ESP3D"><b>luc-github/ESP3D</b></a><br><sub>FW for ESP8266/ESP8285/ESP32 used with 3D printer</sub></td>
+<td align="right"><b>2,009</b></td>
+<td align="right">498</td>
+<td>C</td>
 </tr>
 <tr>
 <td align="right">84</td>
-<td><img src="https://github.com/Yubo0826.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Yubo0826/TCOD--"><b>Yubo0826/TCOD--</b></a></td>
-<td align="right"><b>320</b></td>
-<td align="right">0</td>
-<td>C#</td>
+<td><img src="https://github.com/ranile.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ranile/gloo"><b>ranile/gloo</b></a><br><sub>A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM</sub></td>
+<td align="right"><b>2,005</b></td>
+<td align="right">167</td>
+<td>Rust</td>
 </tr>
 <tr>
 <td align="right">85</td>
-<td><img src="https://github.com/Yubo0826.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Yubo0826/line-bot-covid19-tracker"><b>Yubo0826/line-bot-covid19-tracker</b></a></td>
-<td align="right"><b>314</b></td>
-<td align="right">0</td>
+<td><img src="https://github.com/Music-and-Culture-Technology-Lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Music-and-Culture-Technology-Lab/omnizart"><b>Music-and-Culture-Technology-Lab/omnizart</b></a><br><sub>Omniscient Mozart, being able to transcribe everything in the music, including vocal, drum, chord, beat, instruments, a…</sub></td>
+<td align="right"><b>2,004</b></td>
+<td align="right">137</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">86</td>
-<td><img src="https://github.com/Yubo0826.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Yubo0826/Todolist_express"><b>Yubo0826/Todolist&#95;express</b></a></td>
-<td align="right"><b>314</b></td>
-<td align="right">0</td>
-<td>—</td>
+<td><img src="https://github.com/WeiChiaChang.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/WeiChiaChang/stacks-cli"><b>WeiChiaChang/stacks-cli</b></a><br><sub>📊 Analyze website stack from the terminal 💻</sub></td>
+<td align="right"><b>2,000</b></td>
+<td align="right">70</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">87</td>
-<td><img src="https://github.com/liangjingkanji.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/liangjingkanji/StatusBar"><b>liangjingkanji/StatusBar</b></a></td>
-<td align="right"><b>299</b></td>
-<td align="right">20</td>
-<td>Kotlin</td>
+<td><img src="https://github.com/master-co.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/master-co/css"><b>master-co/css</b></a><br><sub>A markup-driven CSS orchestration language for developers and AI agents.</sub></td>
+<td align="right"><b>1,955</b></td>
+<td align="right">44</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">88</td>
-<td><img src="https://github.com/rogeraabbccdd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rogeraabbccdd/Fadacai-Generator"><b>rogeraabbccdd/Fadacai-Generator</b></a></td>
-<td align="right"><b>293</b></td>
-<td align="right">50</td>
-<td>Vue</td>
+<td><img src="https://github.com/bhnddowinf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bhnddowinf/vuejs-learn"><b>bhnddowinf/vuejs-learn</b></a><br><sub>(vue.js official website tutorials ，contains video , codes, baudi yun, youtube) 网路上有很多 VUE 综合应用的视频，但大部份的视频 ，都当你已经了解官网 所…</sub></td>
+<td align="right"><b>1,954</b></td>
+<td align="right">462</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">89</td>
-<td><img src="https://github.com/pjchender.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pjchender/pronounce-correctly-for-taiwanese-programmer"><b>pjchender/pronounce-correctly-for-taiwanese-programmer</b></a></td>
-<td align="right"><b>286</b></td>
-<td align="right">8</td>
-<td>—</td>
+<td><img src="https://github.com/hsuanyi-chou.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hsuanyi-chou/shadcn-ui-expansions"><b>hsuanyi-chou/shadcn-ui-expansions</b></a><br><sub>More components built on top of shadcn-ui.</sub></td>
+<td align="right"><b>1,943</b></td>
+<td align="right">85</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">90</td>
-<td><img src="https://github.com/uranusjr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/uranusjr/django-tutorial-for-programmers"><b>uranusjr/django-tutorial-for-programmers</b></a></td>
-<td align="right"><b>285</b></td>
-<td align="right">91</td>
-<td>Python</td>
+<td><img src="https://github.com/miaomiaosoft.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/miaomiaosoft/PandaOCR.Pro"><b>miaomiaosoft/PandaOCR.Pro</b></a><br><sub>多功能多引擎OCR文字识别、翻译、朗读、语音合成、日漫游戏机翻汉化、验证码识别、图床上传、以图搜图、扫码工具</sub></td>
+<td align="right"><b>1,934</b></td>
+<td align="right">130</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">91</td>
-<td><img src="https://github.com/moskytw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/moskytw/zipcodetw"><b>moskytw/zipcodetw</b></a></td>
-<td align="right"><b>283</b></td>
-<td align="right">65</td>
+<td><img src="https://github.com/Yvictor.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Yvictor/TradingGym"><b>Yvictor/TradingGym</b></a><br><sub>Trading and Backtesting environment for training reinforcement learning agent or simple rule base algo.</sub></td>
+<td align="right"><b>1,932</b></td>
+<td align="right">374</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">92</td>
-<td><img src="https://github.com/chusiang.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chusiang/automate-with-ansible"><b>chusiang/automate-with-ansible</b></a></td>
-<td align="right"><b>280</b></td>
-<td align="right">71</td>
-<td>Jinja</td>
-</tr>
-<tr>
-<td align="right">93</td>
-<td><img src="https://github.com/zonble.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zonble/ykk_installer"><b>zonble/ykk&#95;installer</b></a> <sub>archived</sub></td>
-<td align="right"><b>269</b></td>
-<td align="right">50</td>
-<td>C++</td>
-</tr>
-<tr>
-<td align="right">94</td>
-<td><img src="https://github.com/XiaoPuOuO.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/XiaoPuOuO/openchatx-mcp"><b>XiaoPuOuO/openchatx-mcp</b></a></td>
-<td align="right"><b>261</b></td>
-<td align="right">19</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">95</td>
-<td><img src="https://github.com/liangjingkanji.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/liangjingkanji/Serialize"><b>liangjingkanji/Serialize</b></a></td>
-<td align="right"><b>249</b></td>
-<td align="right">22</td>
-<td>Kotlin</td>
-</tr>
-<tr>
-<td align="right">96</td>
-<td><img src="https://github.com/parkghost.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/parkghost/gohttpbench"><b>parkghost/gohttpbench</b></a></td>
-<td align="right"><b>226</b></td>
-<td align="right">41</td>
-<td>Go</td>
-</tr>
-<tr>
-<td align="right">97</td>
-<td><img src="https://github.com/pykao.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pykao/Modified-3D-UNet-Pytorch"><b>pykao/Modified-3D-UNet-Pytorch</b></a></td>
-<td align="right"><b>222</b></td>
-<td align="right">49</td>
+<td><img src="https://github.com/twtrubiks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/twtrubiks/docker-tutorial"><b>twtrubiks/docker-tutorial</b></a><br><sub>Docker 基本教學 - 從無到有 Docker-Beginners-Guide 教你用 Docker 建立 Django + PostgreSQL 📝</sub></td>
+<td align="right"><b>1,892</b></td>
+<td align="right">303</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">98</td>
-<td><img src="https://github.com/niclin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/niclin/nic_meta"><b>niclin/nic&#95;meta</b></a></td>
-<td align="right"><b>135</b></td>
-<td align="right">108</td>
-<td>Solidity</td>
+<td align="right">93</td>
+<td><img src="https://github.com/f2etw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/f2etw/jobs"><b>f2etw/jobs</b></a><br><sub>Our jobs board.</sub></td>
+<td align="right"><b>1,871</b></td>
+<td align="right">74</td>
+<td>—</td>
 </tr>
 <tr>
-<td align="right">99</td>
-<td><img src="https://github.com/yuaanlin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yuaanlin/pick-time.io"><b>yuaanlin/pick-time.io</b></a></td>
-<td align="right"><b>104</b></td>
-<td align="right">8</td>
+<td align="right">94</td>
+<td><img src="https://github.com/maple3142.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maple3142/GDIndex"><b>maple3142/GDIndex</b></a><br><sub>A Google Drive Index built with Vue Running on CloudFlare Workers</sub></td>
+<td align="right"><b>1,870</b></td>
+<td align="right">1,072</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/realdennis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/realdennis/md2pdf"><b>realdennis/md2pdf</b></a><br><sub>Offline markdown to pdf, choose -&gt; edit -&gt; transform 🥂</sub></td>
+<td align="right"><b>1,846</b></td>
+<td align="right">192</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/Naetw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Naetw/CTF-pwn-tips"><b>Naetw/CTF-pwn-tips</b></a><br><sub>Here record some tips about pwn. Something is obsoleted and won&#39;t be updated. Sorry about that.</sub></td>
+<td align="right"><b>1,833</b></td>
+<td align="right">232</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/CatxFish.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CatxFish/obs-virtual-cam"><b>CatxFish/obs-virtual-cam</b></a> <sub>archived</sub><br><sub>obs-studio plugin to simulate a directshow webcam</sub></td>
+<td align="right"><b>1,828</b></td>
+<td align="right">348</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/OpenAgentPlatform.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/OpenAgentPlatform/Dive"><b>OpenAgentPlatform/Dive</b></a><br><sub>Dive is an open-source MCP Host Desktop Application that seamlessly integrates with any LLMs supporting function callin…</sub></td>
+<td align="right"><b>1,823</b></td>
+<td align="right">172</td>
 <td>TypeScript</td>
 </tr>
 <tr>
+<td align="right">99</td>
+<td><img src="https://github.com/zi-yue-1129.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zi-yue-1129/DATAGEN"><b>zi-yue-1129/DATAGEN</b></a><br><sub>DATAGEN: AI-driven multi-agent research assistant automating hypothesis generation, data analysis, and report writing.</sub></td>
+<td align="right"><b>1,817</b></td>
+<td align="right">260</td>
+<td>Python</td>
+</tr>
+<tr>
 <td align="right">100</td>
-<td><img src="https://github.com/ihower.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ihower/facebox_render"><b>ihower/facebox&#95;render</b></a></td>
-<td align="right"><b>94</b></td>
-<td align="right">7</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/jkjung-avt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jkjung-avt/tensorrt_demos"><b>jkjung-avt/tensorrt&#95;demos</b></a><br><sub>TensorRT MODNet, YOLOv4, YOLOv3, SSD, MTCNN, and GoogLeNet</sub></td>
+<td align="right"><b>1,793</b></td>
+<td align="right">538</td>
+<td>Python</td>
 </tr>
 </tbody>
 </table>
@@ -729,11 +727,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 94 stars; 139 attributed candidates are tracked.
-- 31 entries were carried over from the previous dataset and are pending revalidation.
-- 134 multi-repository owners are queued for expansion.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 1,793 stars; 142 attributed candidates are tracked.
+- 132 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

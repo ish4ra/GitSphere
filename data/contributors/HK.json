@@ -5,13 +5,15 @@
 "country": {"code":"HK","name":"Hong Kong","slug":"hong-kong"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":435,"measuredAccounts":2,"measurementBacklog":433,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":477,"measuredAccounts":4,"measurementBacklog":473,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":142,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjEyMDc5NTk=","login":"Akagi201","name":"Bob Liu","url":"https://github.com/Akagi201","avatarUrl":"https://avatars.githubusercontent.com/u/1207959?s=80&v=4","followers":885,"publicRepos":309,"location":"Hong Kong","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":2354,"commits":2297,"pullRequests":34,"reviews":2,"issues":19,"repositories":2,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":2,"id":"MDQ6VXNlcjcyODkx","login":"andelf","name":"Andelf","url":"https://github.com/andelf","avatarUrl":"https://avatars.githubusercontent.com/u/72891?s=80&v=4","followers":1645,"publicRepos":292,"location":"HKSAR","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":1343,"commits":1033,"pullRequests":230,"reviews":54,"issues":6,"repositories":20,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":2,"id":"MDQ6VXNlcjcyODkx","login":"andelf","name":"Andelf","url":"https://github.com/andelf","avatarUrl":"https://avatars.githubusercontent.com/u/72891?s=80&v=4","followers":1645,"publicRepos":292,"location":"HKSAR","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":1343,"commits":1033,"pullRequests":230,"reviews":54,"issues":6,"repositories":20,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":3,"id":"MDQ6VXNlcjE3MTUyMTE=","login":"maxvint","name":"Max","url":"https://github.com/maxvint","avatarUrl":"https://avatars.githubusercontent.com/u/1715211?s=80&v=4","followers":744,"publicRepos":218,"location":"HongKong","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":1068,"commits":649,"pullRequests":336,"reviews":1,"issues":78,"repositories":4,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":4,"id":"MDQ6VXNlcjY4ODI5NzE=","login":"ssghost","name":"Stardustclub","url":"https://github.com/ssghost","avatarUrl":"https://avatars.githubusercontent.com/u/6882971?s=80&v=4","followers":444,"publicRepos":2366,"location":"Hong Kong","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":379,"commits":272,"pullRequests":7,"reviews":0,"issues":0,"repositories":100,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "4cdb1acbd1cf233e",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "8125d4e0eeebef85",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

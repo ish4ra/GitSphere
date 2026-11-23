@@ -7,13 +7,13 @@
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
 "coverage": {"basis":"partial","cutoffFollowers":0,"candidates":71,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjEwMjYyMw==","login":"agustingianni","name":"Agustin Gianni","url":"https://github.com/agustingianni","avatarUrl":"https://avatars.githubusercontent.com/u/102623?s=80&v=4","followers":217,"publicRepos":59,"location":"San Marino","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":1,"id":"MDQ6VXNlcjEwMjYyMw==","login":"agustingianni","name":"Agustin Gianni","url":"https://github.com/agustingianni","avatarUrl":"https://avatars.githubusercontent.com/u/102623?s=80&v=4","followers":217,"publicRepos":59,"location":"San Marino","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":2,"id":"MDQ6VXNlcjI5MDYyMzQ=","login":"nicorsm","name":"Nicola Giancecchi","url":"https://github.com/nicorsm","avatarUrl":"https://avatars.githubusercontent.com/u/2906234?s=80&v=4","followers":36,"publicRepos":49,"location":"San Marino","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":3,"id":"MDQ6VXNlcjk5NDQzMTA=","login":"AleRiccardi","name":"Alessandro Riccardi","url":"https://github.com/AleRiccardi","avatarUrl":"https://avatars.githubusercontent.com/u/9944310?s=80&v=4","followers":32,"publicRepos":15,"location":"San Marino","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":4,"id":"U_kgDOBXu5aQ","login":"stfDeveloper","name":null,"url":"https://github.com/stfDeveloper","avatarUrl":"https://avatars.githubusercontent.com/u/91994473?s=80&v=4","followers":27,"publicRepos":68,"location":"San Marino","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":5,"id":"MDQ6VXNlcjE2NjI3MTc1","login":"Llandy3d","name":"Llandy Riveron Del Risco","url":"https://github.com/Llandy3d","avatarUrl":"https://avatars.githubusercontent.com/u/16627175?s=80&v=4","followers":18,"publicRepos":27,"location":"San Marino","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":6,"id":"MDQ6VXNlcjE3NDQ4NjE=","login":"ellenico77","name":"Lorenzo Nicoletti","url":"https://github.com/ellenico77","avatarUrl":"https://avatars.githubusercontent.com/u/1744861?s=80&v=4","followers":18,"publicRepos":21,"location":"San Marino","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":7,"id":"MDQ6VXNlcjE2OTAzMTY=","login":"nukedbit","name":"Sebastian Faltoni","url":"https://github.com/nukedbit","avatarUrl":"https://avatars.githubusercontent.com/u/1690316?s=80&v=4","followers":17,"publicRepos":60,"location":"San Marino","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":7,"id":"MDQ6VXNlcjE2OTAzMTY=","login":"nukedbit","name":"Sebastian Faltoni","url":"https://github.com/nukedbit","avatarUrl":"https://avatars.githubusercontent.com/u/1690316?s=80&v=4","followers":17,"publicRepos":60,"location":"San Marino","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":8,"id":"MDQ6VXNlcjUyNDQzNDg=","login":"gcardi","name":"Giuliano Cardinali","url":"https://github.com/gcardi","avatarUrl":"https://avatars.githubusercontent.com/u/5244348?s=80&v=4","followers":16,"publicRepos":44,"location":"Republic of San Marino","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":9,"id":"MDQ6VXNlcjI5MTM0MzU=","login":"giacomobartoli","name":"Giacomo Bartoli","url":"https://github.com/giacomobartoli","avatarUrl":"https://avatars.githubusercontent.com/u/2913435?s=80&v=4","followers":16,"publicRepos":27,"location":"San Marino, SMR","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":10,"id":"MDQ6VXNlcjE5MjE1MjYw","login":"v1rx","name":"v1r","url":"https://github.com/v1rx","avatarUrl":"https://avatars.githubusercontent.com/u/19215260?s=80&v=4","followers":16,"publicRepos":13,"location":"San Marino","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
@@ -79,8 +79,8 @@
   {"rank":70,"id":"MDQ6VXNlcjExNDU1NTAy","login":"Uff182","name":"Andrea Candini","url":"https://github.com/Uff182","avatarUrl":"https://avatars.githubusercontent.com/u/11455502?s=80&v=4","followers":0,"publicRepos":1,"location":"San Marino","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":71,"id":"MDQ6VXNlcjc0MTcxMDQ1","login":"Xiangxiang-Li","name":"Xiangxiang Li","url":"https://github.com/Xiangxiang-Li","avatarUrl":"https://avatars.githubusercontent.com/u/74171045?s=80&v=4","followers":0,"publicRepos":1,"location":"San Marino","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "094cdf305b674cd6",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "174c4e87701a16e7",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

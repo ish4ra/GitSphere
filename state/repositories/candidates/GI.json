@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"GI","name":"Gibraltar","slug":"gibraltar"},
-"count": 148,
+"count": 146,
 "repositories": [
-  {"name":"ivpn/ios-app","stars":573,"forks":113,"language":"Swift","license":"GPL-3.0","archived":false,"createdAt":"2020-02-10T09:39:20Z","pushedAt":"2026-09-02T07:21:57Z","owner":{"login":"ivpn","type":"Organization","name":"IVPN","location":"Gibraltar"},"attribution":{"code":"GI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-29T05:57:52.934Z","id":"legacy:ivpn/ios-app","legacy":true},
-  {"name":"PeterKottas/DotNetCore.WindowsService","stars":568,"forks":145,"language":"C#","license":"MIT","archived":false,"createdAt":"2016-12-27T12:49:14Z","pushedAt":"2021-07-15T17:44:27Z","owner":{"login":"PeterKottas","type":"User","name":"Peter Kottas","location":"Gibraltar"},"attribution":{"code":"GI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-29T05:57:52.934Z","id":"legacy:peterkottas/dotnetcore.windowsservice","legacy":true},
   {"name":"miohtama/python-Levenshtein","stars":392,"forks":224,"language":"C","license":"GPL-2.0","archived":false,"createdAt":"2010-09-13T15:07:21Z","pushedAt":"2022-09-17T21:31:10Z","owner":{"login":"miohtama","type":"User","name":"Mikko Ohtamaa","location":"Gibraltar"},"attribution":{"code":"GI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-29T05:57:52.934Z","id":"legacy:miohtama/python-levenshtein","legacy":true},
   {"name":"cdharris/react-app-rewire-hot-loader","stars":211,"forks":14,"language":"JavaScript","license":"MIT","archived":false,"createdAt":"2017-11-21T10:38:59Z","pushedAt":"2019-04-15T07:58:54Z","owner":{"login":"cdharris","type":"User","name":"Chris Harris","location":"Berlin / Europe / Gibraltar"},"attribution":{"code":"GI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-29T05:57:52.934Z","id":"legacy:cdharris/react-app-rewire-hot-loader","legacy":true},
   {"name":"Holo-Host/web-sdk","stars":175,"forks":5,"language":"TypeScript","archived":false,"createdAt":"2020-04-02T13:50:06Z","pushedAt":"2024-10-07T18:02:53Z","owner":{"login":"Holo-Host","type":"Organization","name":"Holo","location":"Gibraltar"},"attribution":{"code":"GI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-29T05:57:52.934Z","id":"legacy:holo-host/web-sdk","legacy":true},

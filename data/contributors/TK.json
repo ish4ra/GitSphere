@@ -5,12 +5,12 @@
 "country": {"code":"TK","name":"Tokelau","slug":"tokelau"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":9,"measuredAccounts":2,"measurementBacklog":7,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":9,"measuredAccounts":3,"measurementBacklog":6,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjUyMzEyNDcy","login":"cheguang","name":"guangche","url":"https://github.com/cheguang","avatarUrl":"https://avatars.githubusercontent.com/u/52312472?s=80&v=4","followers":0,"publicRepos":5,"location":"7439 ,Kling Track ,North Ken ,Alabama ,Tokelau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":1,"repositories":0,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "7f1c4694b0a93e1a",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "94667e604b0574ae",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

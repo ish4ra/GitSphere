@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/SB.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/SB.json">JSON</a> |
 
 </div>
 
@@ -30,10 +30,24 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/aelantek6-eng"><img src="https://avatars.githubusercontent.com/u/263503873?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aelantek6-eng"><b>AELANTEK SOLUTIONS</b></a><br><sub>&#64;aelantek6-eng</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>HONIARA</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/62crook"><img src="https://avatars.githubusercontent.com/u/31922412?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/62crook"><b>eddy crook</b></a><br><sub>&#64;62crook</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Solomon Islands/ Honiara</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/AARAHA"><img src="https://avatars.githubusercontent.com/u/94809811?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AARAHA"><b>Andrew Araha</b></a><br><sub>&#64;AARAHA</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Solomon Islands</sub></td>
 </tr>
 </tbody>
 </table>
@@ -43,7 +57,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

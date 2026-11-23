@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/LI.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/LI.json">JSON</a> |
 
 </div>
 
@@ -23,17 +23,31 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/Akinou"><img src="https://avatars.githubusercontent.com/u/62407014?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Akinou"><b>Akan</b></a><br><sub>&#64;Akinou</sub></td>
+<td align="right"><b>6</b></td>
+<td align="right">57</td>
+<td><sub>Liechtenstein</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/AHaldner"><img src="https://avatars.githubusercontent.com/u/88372994?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AHaldner"><b>Andrin Haldner</b></a><br><sub>&#64;AHaldner</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">26</td>
 <td><sub>Liechtenstein</sub></td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">3</td>
 <td><a href="https://github.com/502BadGatewayFL"><img src="https://avatars.githubusercontent.com/u/195455464?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/502BadGatewayFL"><b>502 Bad Gateway</b></a><br><sub>&#64;502BadGatewayFL</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">5</td>
 <td><sub>Liechtenstein</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/alexmoldovanbv"><img src="https://avatars.githubusercontent.com/u/9467757?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexmoldovanbv"><b>Alexandru Moldovan</b></a><br><sub>&#64;alexmoldovanbv</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">9</td>
+<td><sub>Vaduz, Liechtenstein</sub></td>
 </tr>
 </tbody>
 </table>
@@ -43,7 +57,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 3 followers.
+- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 2 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

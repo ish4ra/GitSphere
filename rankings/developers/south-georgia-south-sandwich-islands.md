@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/developers/GS.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/GS.json">JSON</a> |
 
 </div>
 
@@ -23,6 +23,27 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/Voblit"><img src="https://avatars.githubusercontent.com/u/246580686?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Voblit"><b>Voblit</b></a><br><sub>&#64;Voblit</sub></td>
+<td align="right"><b>7</b></td>
+<td align="right">25</td>
+<td><sub>SIQQ 1ZZ, South Georgia &amp; South Sandwich Islands</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/goobersmustik"><img src="https://avatars.githubusercontent.com/u/183317999?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/goobersmustik"><b>goobersmustik</b></a><br><sub>&#64;goobersmustik</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">5</td>
+<td><sub>South Georgia &amp; South Sandwich Islands (GS)</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/sweetgermanakxo"><img src="https://avatars.githubusercontent.com/u/182475147?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sweetgermanakxo"><b>sweetgermanakxo</b></a><br><sub>&#64;sweetgermanakxo</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>South Georgia &amp; South Sandwich Islands (GS)</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/60928375092815"><img src="https://avatars.githubusercontent.com/u/103327796?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/60928375092815"><b>60928375092815</b></a><br><sub>&#64;60928375092815</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
@@ -36,8 +57,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 1 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 3 of 22 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

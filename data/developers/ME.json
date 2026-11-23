@@ -5,13 +5,15 @@
 "country": {"code":"ME","name":"Montenegro","slug":"montenegro"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":364,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":364,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjQxODkyMA==","login":"therustmonk","name":"Denis Kolodin","url":"https://github.com/therustmonk","avatarUrl":"https://avatars.githubusercontent.com/u/418920?s=80&v=4","followers":798,"publicRepos":464,"location":"Montenegro","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"MDQ6VXNlcjkyNTExMg==","login":"Const-me","name":"Konstantin","url":"https://github.com/Const-me","avatarUrl":"https://avatars.githubusercontent.com/u/925112?s=80&v=4","followers":364,"publicRepos":48,"location":"Tivat, Montenegro","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+  {"rank":2,"id":"MDQ6VXNlcjUyNjc3","login":"dchest","name":"Dmitry Chestnykh","url":"https://github.com/dchest","avatarUrl":"https://avatars.githubusercontent.com/u/52677?s=80&v=4","followers":554,"publicRepos":212,"location":"Montenegro","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":3,"id":"MDQ6VXNlcjY1NzkxMzQ5","login":"1v4n4","name":null,"url":"https://github.com/1v4n4","avatarUrl":"https://avatars.githubusercontent.com/u/65791349?s=80&v=4","followers":498,"publicRepos":32,"location":"Montenegro","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":4,"id":"MDQ6VXNlcjkyNTExMg==","login":"Const-me","name":"Konstantin","url":"https://github.com/Const-me","avatarUrl":"https://avatars.githubusercontent.com/u/925112?s=80&v=4","followers":364,"publicRepos":48,"location":"Tivat, Montenegro","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "a0cf4f25eb017d64",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "54c6f8c74d83096c",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **61** | 22 Nov 2026 | <a href="../../data/developers/EG.json">JSON</a> |
+| 🟡 Provisional | **89** | 22 Nov 2026 | <a href="../../data/developers/EG.json">JSON</a> |
 
 </div>
 
@@ -45,7 +45,7 @@
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/D4Vinci"><img src="https://avatars.githubusercontent.com/u/20604835?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/D4Vinci"><b>Karim shoair</b></a><br><sub>&#64;D4Vinci</sub></td>
-<td align="right"><b>4,188</b></td>
+<td align="right"><b>4,193</b></td>
 <td align="right">45</td>
 <td><sub>Egypt</sub></td>
 </tr>
@@ -401,48 +401,244 @@
 </tr>
 <tr>
 <td align="right">55</td>
+<td><a href="https://github.com/amrbashir"><img src="https://avatars.githubusercontent.com/u/48618675?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amrbashir"><b>Amr Bashir</b></a><br><sub>&#64;amrbashir</sub></td>
+<td align="right"><b>535</b></td>
+<td align="right">43</td>
+<td><sub>Egypt</sub></td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><a href="https://github.com/revolover00"><img src="https://avatars.githubusercontent.com/u/263253198?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/revolover00"><b>patrick jane</b></a><br><sub>&#64;revolover00</sub></td>
+<td align="right"><b>527</b></td>
+<td align="right">10</td>
+<td><sub>Cairo</sub></td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><a href="https://github.com/yshalsager"><img src="https://avatars.githubusercontent.com/u/17043808?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yshalsager"><b>Youssif Shaaban Alsager</b></a><br><sub>&#64;yshalsager</sub></td>
+<td align="right"><b>526</b></td>
+<td align="right">127</td>
+<td><sub>Cairo, Egypt</sub></td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><a href="https://github.com/Abdo-Mohammed-10"><img src="https://avatars.githubusercontent.com/u/125462586?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abdo-Mohammed-10"><b>Abdulrahman Mohammed</b></a><br><sub>&#64;Abdo-Mohammed-10</sub></td>
+<td align="right"><b>523</b></td>
+<td align="right">31</td>
+<td><sub>Egypt</sub></td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><a href="https://github.com/Omarelsherif010"><img src="https://avatars.githubusercontent.com/u/43929183?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Omarelsherif010"><b>Omar Elsherif</b></a><br><sub>&#64;Omarelsherif010</sub></td>
+<td align="right"><b>518</b></td>
+<td align="right">90</td>
+<td><sub>Egypt</sub></td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><a href="https://github.com/SirBugs"><img src="https://avatars.githubusercontent.com/u/37689994?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SirBugs"><b>Fares W. Muhammed</b></a><br><sub>&#64;SirBugs</sub></td>
+<td align="right"><b>518</b></td>
+<td align="right">11</td>
+<td><sub>Alexandria, Egypt</sub></td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><a href="https://github.com/hatemhosny"><img src="https://avatars.githubusercontent.com/u/10176547?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hatemhosny"><b>Hatem Hosny</b></a><br><sub>&#64;hatemhosny</sub></td>
+<td align="right"><b>512</b></td>
+<td align="right">252</td>
+<td><sub>Egypt</sub></td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><a href="https://github.com/Boghdady"><img src="https://avatars.githubusercontent.com/u/18363332?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Boghdady"><b>Ahmed Boghdady</b></a><br><sub>&#64;Boghdady</sub></td>
+<td align="right"><b>510</b></td>
+<td align="right">138</td>
+<td><sub>Egypt</sub></td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><a href="https://github.com/MennaSayed46"><img src="https://avatars.githubusercontent.com/u/167047195?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MennaSayed46"><b>Menna Sayed</b></a><br><sub>&#64;MennaSayed46</sub></td>
+<td align="right"><b>482</b></td>
+<td align="right">29</td>
+<td><sub>Giza,Egypt</sub></td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><a href="https://github.com/hasssanezzz"><img src="https://avatars.githubusercontent.com/u/50561287?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hasssanezzz"><b>Hassan Ezz</b></a><br><sub>&#64;hasssanezzz</sub></td>
+<td align="right"><b>473</b></td>
+<td align="right">27</td>
+<td><sub>Suez, Egypt</sub></td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><a href="https://github.com/john0isaac"><img src="https://avatars.githubusercontent.com/u/64026625?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/john0isaac"><b>John Aziz</b></a><br><sub>&#64;john0isaac</sub></td>
+<td align="right"><b>472</b></td>
+<td align="right">121</td>
+<td><sub>Cairo, Egypt</sub></td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><a href="https://github.com/imohamedsayed"><img src="https://avatars.githubusercontent.com/u/77249736?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/imohamedsayed"><b>Mohamed Sayed</b></a><br><sub>&#64;imohamedsayed</sub></td>
+<td align="right"><b>458</b></td>
+<td align="right">71</td>
+<td><sub>Assiut, Assiut, Egypt</sub></td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><a href="https://github.com/SamDozer"><img src="https://avatars.githubusercontent.com/u/77494584?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SamDozer"><b>Hossam</b></a><br><sub>&#64;SamDozer</sub></td>
+<td align="right"><b>458</b></td>
+<td align="right">16</td>
+<td><sub>Egypt</sub></td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><a href="https://github.com/codeawy"><img src="https://avatars.githubusercontent.com/u/109562935?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codeawy"><b>Muhammad Naga</b></a><br><sub>&#64;codeawy</sub></td>
+<td align="right"><b>455</b></td>
+<td align="right">2</td>
+<td><sub>Giza, Egypt</sub></td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><a href="https://github.com/amaelftah"><img src="https://avatars.githubusercontent.com/u/17250137?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amaelftah"><b>Ahmed Mohamed Abd El Ftah</b></a><br><sub>&#64;amaelftah</sub></td>
+<td align="right"><b>453</b></td>
+<td align="right">75</td>
+<td><sub>Alexandria , Egypt</sub></td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><a href="https://github.com/moelzanaty3"><img src="https://avatars.githubusercontent.com/u/16934778?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/moelzanaty3"><b>Mohammed Elzanaty</b></a><br><sub>&#64;moelzanaty3</sub></td>
+<td align="right"><b>450</b></td>
+<td align="right">131</td>
+<td><sub>Cairo, Egypt</sub></td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><a href="https://github.com/FaresAhmed23"><img src="https://avatars.githubusercontent.com/u/153539187?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FaresAhmed23"><b>Fares Ahmed Mohamed Abd El Salam</b></a><br><sub>&#64;FaresAhmed23</sub></td>
+<td align="right"><b>448</b></td>
+<td align="right">45</td>
+<td><sub>Minya, Egypt</sub></td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><a href="https://github.com/MahmoudMabrok"><img src="https://avatars.githubusercontent.com/u/13488900?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MahmoudMabrok"><b>Mahmoud Mabrok Fouad</b></a><br><sub>&#64;MahmoudMabrok</sub></td>
+<td align="right"><b>440</b></td>
+<td align="right">362</td>
+<td><sub>Egypt</sub></td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><a href="https://github.com/devmohamedamr"><img src="https://avatars.githubusercontent.com/u/21077439?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/devmohamedamr"><b>Mohamed Amr</b></a><br><sub>&#64;devmohamedamr</sub></td>
+<td align="right"><b>438</b></td>
+<td align="right">180</td>
+<td><sub>Giza, Egypt</sub></td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><a href="https://github.com/MahmoudReda11"><img src="https://avatars.githubusercontent.com/u/115508120?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MahmoudReda11"><b>Mahmoud Reda</b></a><br><sub>&#64;MahmoudReda11</sub></td>
+<td align="right"><b>436</b></td>
+<td align="right">46</td>
+<td><sub>Egypt</sub></td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><a href="https://github.com/malak-sisar"><img src="https://avatars.githubusercontent.com/u/213843759?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/malak-sisar"><b>malak abu al roos 🇵🇸</b></a><br><sub>&#64;malak-sisar</sub></td>
+<td align="right"><b>434</b></td>
+<td align="right">7</td>
+<td><sub>Gaza ,PalestineI currently live in Cairo, Egypt</sub></td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><a href="https://github.com/Mo7ammedd"><img src="https://avatars.githubusercontent.com/u/128194288?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mo7ammedd"><b>Mohammed Mostafa</b></a><br><sub>&#64;Mo7ammedd</sub></td>
+<td align="right"><b>425</b></td>
+<td align="right">70</td>
+<td><sub>Egypt</sub></td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><a href="https://github.com/dahabdev"><img src="https://avatars.githubusercontent.com/u/284535?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dahabdev"><b>Ahmed Abu Eldahab</b></a><br><sub>&#64;dahabdev</sub></td>
+<td align="right"><b>417</b></td>
+<td align="right">790</td>
+<td><sub>Egypt · Gulf</sub></td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><a href="https://github.com/BitTheByte"><img src="https://avatars.githubusercontent.com/u/16452985?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BitTheByte"><b>Ahmed Ezzat</b></a><br><sub>&#64;BitTheByte</sub></td>
+<td align="right"><b>416</b></td>
+<td align="right">40</td>
+<td><sub>Cairo , Egypt</sub></td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><a href="https://github.com/Muhammad-Magdi"><img src="https://avatars.githubusercontent.com/u/22976625?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Muhammad-Magdi"><b>Muhammad Magdi</b></a><br><sub>&#64;Muhammad-Magdi</sub></td>
+<td align="right"><b>415</b></td>
+<td align="right">27</td>
+<td><sub>Cairo, Egypt</sub></td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><a href="https://github.com/aminallam"><img src="https://avatars.githubusercontent.com/u/7063111?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aminallam"><b>Amin Allam</b></a><br><sub>&#64;aminallam</sub></td>
+<td align="right"><b>413</b></td>
+<td align="right">6</td>
+<td><sub>Egypt</sub></td>
+</tr>
+<tr>
+<td align="right">81</td>
 <td><a href="https://github.com/AhmadIbrahiim"><img src="https://avatars.githubusercontent.com/u/17949497?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AhmadIbrahiim"><b>Ahmed Ibrahim</b></a><br><sub>&#64;AhmadIbrahiim</sub></td>
 <td align="right"><b>364</b></td>
 <td align="right">0</td>
 <td><sub>Cairo, Egypt</sub></td>
 </tr>
 <tr>
-<td align="right">56</td>
+<td align="right">82</td>
 <td><a href="https://github.com/moudey"><img src="https://avatars.githubusercontent.com/u/39198?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/moudey"><b>Mahmoud Gomaa</b></a><br><sub>&#64;moudey</sub></td>
 <td align="right"><b>204</b></td>
 <td align="right">0</td>
 <td><sub>Egypt</sub></td>
 </tr>
 <tr>
-<td align="right">57</td>
+<td align="right">83</td>
 <td><a href="https://github.com/mhss1"><img src="https://avatars.githubusercontent.com/u/58703865?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mhss1"><b>Mohamed Shaaban</b></a><br><sub>&#64;mhss1</sub></td>
 <td align="right"><b>156</b></td>
 <td align="right">0</td>
 <td><sub>Mansoura, Egypt</sub></td>
 </tr>
 <tr>
-<td align="right">58</td>
+<td align="right">84</td>
 <td><a href="https://github.com/moazbuilds"><img src="https://avatars.githubusercontent.com/u/109697407?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/moazbuilds"><b>moaz 👾</b></a><br><sub>&#64;moazbuilds</sub></td>
 <td align="right"><b>129</b></td>
 <td align="right">0</td>
 <td><sub>Cairo, Egypt</sub></td>
 </tr>
 <tr>
-<td align="right">59</td>
+<td align="right">85</td>
 <td><a href="https://github.com/M-Abozaid"><img src="https://avatars.githubusercontent.com/u/23200283?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/M-Abozaid"><b>Zed</b></a><br><sub>&#64;M-Abozaid</sub></td>
 <td align="right"><b>93</b></td>
 <td align="right">0</td>
 <td><sub>Egypt</sub></td>
 </tr>
 <tr>
-<td align="right">60</td>
+<td align="right">86</td>
+<td><a href="https://github.com/ahegazy0"><img src="https://avatars.githubusercontent.com/u/224766807?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahegazy0"><b>Abdulrahman Hegazy</b></a><br><sub>&#64;ahegazy0</sub></td>
+<td align="right"><b>86</b></td>
+<td align="right">0</td>
+<td><sub>Egypt</sub></td>
+</tr>
+<tr>
+<td align="right">87</td>
 <td><a href="https://github.com/TarekRaafat"><img src="https://avatars.githubusercontent.com/u/3501930?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TarekRaafat"><b>Tarek</b></a><br><sub>&#64;TarekRaafat</sub></td>
 <td align="right"><b>86</b></td>
 <td align="right">0</td>
 <td><sub>Egypt</sub></td>
 </tr>
 <tr>
-<td align="right">61</td>
+<td align="right">88</td>
+<td><a href="https://github.com/Abdelrhman-AK"><img src="https://avatars.githubusercontent.com/u/59510211?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abdelrhman-AK"><b>Abdelrhman-AK</b></a><br><sub>&#64;Abdelrhman-AK</sub></td>
+<td align="right"><b>78</b></td>
+<td align="right">0</td>
+<td><sub>Egypt</sub></td>
+</tr>
+<tr>
+<td align="right">89</td>
 <td><a href="https://github.com/w4po"><img src="https://avatars.githubusercontent.com/u/6666887?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/w4po"><b>AbdAlrahman Ghanem</b></a><br><sub>&#64;w4po</sub></td>
 <td align="right"><b>45</b></td>
 <td align="right">0</td>
@@ -456,7 +652,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 61 attributed developers are tracked; the cutoff is 45 followers.
+- Organizations are excluded. 89 attributed developers are tracked; the cutoff is 45 followers.
 - **Location discovery:** term 0 of 153 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

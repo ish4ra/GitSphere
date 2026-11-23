@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/NR.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/NR.json">JSON</a> |
 
 </div>
 
@@ -23,17 +23,31 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/ensonfun"><img src="https://avatars.githubusercontent.com/u/2123100?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ensonfun"><b>ensonfun</b></a><br><sub>&#64;ensonfun</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">13</td>
+<td><sub>Verse</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/01LuckyStrike10"><img src="https://avatars.githubusercontent.com/u/154454979?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/01LuckyStrike10"><b>01LuckyStrike10</b></a><br><sub>&#64;01LuckyStrike10</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Nauru</sub></td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">3</td>
 <td><a href="https://github.com/bonifacyfirefly"><img src="https://avatars.githubusercontent.com/u/183396170?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bonifacyfirefly"><b>bonifacyfirefly</b></a><br><sub>&#64;bonifacyfirefly</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Nauru (NR)</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/I3lackExo"><img src="https://avatars.githubusercontent.com/u/93016443?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/I3lackExo"><b>I3lackExo.</b></a><br><sub>&#64;I3lackExo</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Ewa, Nauru</sub></td>
 </tr>
 </tbody>
 </table>
@@ -43,7 +57,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

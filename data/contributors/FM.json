@@ -3,12 +3,14 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"FM","name":"Micronesia","slug":"micronesia"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":24,"measuredAccounts":2,"measurementBacklog":22,"window":null,"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":59,"unresolved":0}},
-"users": [],
-"contentHash": "6d905f3c40789ea5",
-"updatedAt": "2026-11-22T22:28:05.466Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"coverage": {"basis":"partial","discoveredAccounts":24,"measuredAccounts":4,"measurementBacklog":20,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":59,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjY5NTYwNzAy","login":"micronesianmacarthur","name":"Mac","url":"https://github.com/micronesianmacarthur","avatarUrl":"https://avatars.githubusercontent.com/u/69560702?s=80&v=4","followers":0,"publicRepos":37,"location":"Micronesia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":49,"commits":5,"pullRequests":1,"reviews":0,"issues":30,"repositories":13,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
+],
+"contentHash": "d0c5eec2c14838aa",
+"updatedAt": "2026-11-23T03:24:49.438Z",
+"verifiedOn": "2026-11-23",
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

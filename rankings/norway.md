@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **88** | 02 Nov 2026 | <a href="../data/NO.json">JSON</a> |
-
-> **Not yet re-verified.** 9 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/NO.json">JSON</a> |
 
 </div>
 
@@ -578,65 +576,149 @@
 </tr>
 <tr>
 <td align="right">80</td>
-<td><img src="https://github.com/bep.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bep/docuapi"><b>bep/docuapi</b></a></td>
-<td align="right"><b>784</b></td>
-<td align="right">195</td>
-<td>HTML</td>
+<td><img src="https://github.com/jonhoo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jonhoo/inferno"><b>jonhoo/inferno</b></a><br><sub>A Rust port of FlameGraph</sub></td>
+<td align="right"><b>2,183</b></td>
+<td align="right">162</td>
+<td>Rust</td>
 </tr>
 <tr>
 <td align="right">81</td>
-<td><img src="https://github.com/yupferris.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yupferris/rustendo64"><b>yupferris/rustendo64</b></a> <sub>archived</sub></td>
-<td align="right"><b>653</b></td>
-<td align="right">45</td>
+<td><img src="https://github.com/0Chencc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0Chencc/CTFCrackTools"><b>0Chencc/CTFCrackTools</b></a><br><sub>The next-generation CTF Swiss Army Knife powered by Rust &amp; Tauri. Features a visual node-based workflow and local AI in…</sub></td>
+<td align="right"><b>2,170</b></td>
+<td align="right">304</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">82</td>
-<td><img src="https://github.com/kgolid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kgolid/p5ycho"><b>kgolid/p5ycho</b></a></td>
-<td align="right"><b>614</b></td>
-<td align="right">69</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/haraldk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/haraldk/TwelveMonkeys"><b>haraldk/TwelveMonkeys</b></a><br><sub>TwelveMonkeys ImageIO: Additional plug-ins and extensions for Java&#39;s ImageIO</sub></td>
+<td align="right"><b>2,156</b></td>
+<td align="right">337</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">83</td>
-<td><img src="https://github.com/ludeeus.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ludeeus/integration_blueprint"><b>ludeeus/integration&#95;blueprint</b></a></td>
-<td align="right"><b>608</b></td>
-<td align="right">212</td>
+<td><img src="https://github.com/thebjorn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thebjorn/pydeps"><b>thebjorn/pydeps</b></a><br><sub>Python Module Dependency graphs</sub></td>
+<td align="right"><b>2,120</b></td>
+<td align="right">134</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">84</td>
-<td><img src="https://github.com/AlexFlipnote.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AlexFlipnote/discord_bot.py"><b>AlexFlipnote/discord&#95;bot.py</b></a></td>
-<td align="right"><b>588</b></td>
-<td align="right">190</td>
-<td>Python</td>
+<td><img src="https://github.com/bensadeh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bensadeh/circumflex"><b>bensadeh/circumflex</b></a><br><sub>🌿 It&#39;s Hacker News in your terminal</sub></td>
+<td align="right"><b>2,110</b></td>
+<td align="right">49</td>
+<td>Go</td>
 </tr>
 <tr>
 <td align="right">85</td>
-<td><img src="https://github.com/equinor.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/equinor/segyio"><b>equinor/segyio</b></a></td>
-<td align="right"><b>583</b></td>
-<td align="right">227</td>
+<td><img src="https://github.com/shcherbak-ai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shcherbak-ai/contextgem"><b>shcherbak-ai/contextgem</b></a><br><sub>Extract structured data and insights from documents using LLMs and decision models</sub></td>
+<td align="right"><b>2,097</b></td>
+<td align="right">188</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">86</td>
-<td><img src="https://github.com/mengskysama.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mengskysama/shadowsocks-rm"><b>mengskysama/shadowsocks-rm</b></a></td>
-<td align="right"><b>420</b></td>
-<td align="right">427</td>
-<td>Python</td>
+<td><img src="https://github.com/jonhoo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jonhoo/fantoccini"><b>jonhoo/fantoccini</b></a><br><sub>A high-level API for programmatically interacting with web pages through WebDriver.</sub></td>
+<td align="right"><b>2,034</b></td>
+<td align="right">136</td>
+<td>Rust</td>
 </tr>
 <tr>
 <td align="right">87</td>
-<td><img src="https://github.com/mhadaily.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mhadaily/flutter-architecture-ddd"><b>mhadaily/flutter-architecture-ddd</b></a></td>
-<td align="right"><b>410</b></td>
-<td align="right">98</td>
-<td>Dart</td>
+<td><img src="https://github.com/onmyway133.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/onmyway133/DeepDiff"><b>onmyway133/DeepDiff</b></a> <sub>archived</sub><br><sub>🦀Amazingly incredible extraordinary lightning fast diffing in Swift</sub></td>
+<td align="right"><b>2,020</b></td>
+<td align="right">142</td>
+<td>Swift</td>
 </tr>
 <tr>
 <td align="right">88</td>
-<td><img src="https://github.com/NordicSemiconductor.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NordicSemiconductor/pc-nrfutil"><b>NordicSemiconductor/pc-nrfutil</b></a> <sub>archived</sub></td>
-<td align="right"><b>408</b></td>
-<td align="right">280</td>
+<td><img src="https://github.com/JackHack96.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JackHack96/EasyEffects-Presets"><b>JackHack96/EasyEffects-Presets</b></a><br><sub>Collection of PulseEffects presets</sub></td>
+<td align="right"><b>2,019</b></td>
+<td align="right">145</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><img src="https://github.com/davda54.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/davda54/sam"><b>davda54/sam</b></a><br><sub>SAM: Sharpness-Aware Minimization (PyTorch)</sub></td>
+<td align="right"><b>1,984</b></td>
+<td align="right">209</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><img src="https://github.com/kimjoar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kimjoar/writings"><b>kimjoar/writings</b></a><br><sub>My blog posts</sub></td>
+<td align="right"><b>1,977</b></td>
+<td align="right">114</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/Themaister.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Themaister/Granite"><b>Themaister/Granite</b></a><br><sub>My personal Vulkan renderer</sub></td>
+<td align="right"><b>1,970</b></td>
+<td align="right">176</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/atmoz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/atmoz/sftp"><b>atmoz/sftp</b></a><br><sub>Securely share your files</sub></td>
+<td align="right"><b>1,919</b></td>
+<td align="right">830</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/notro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/notro/fbtft"><b>notro/fbtft</b></a> <sub>archived</sub><br><sub>Linux Framebuffer drivers for small TFT LCD display modules. Development has moved to https://git.kernel.org/cgit/linux…</sub></td>
+<td align="right"><b>1,874</b></td>
+<td align="right">486</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/domenicosolazzo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/domenicosolazzo/awesome-okr"><b>domenicosolazzo/awesome-okr</b></a><br><sub>A curated list about OKR (Objective - Key Results)</sub></td>
+<td align="right"><b>1,819</b></td>
+<td align="right">187</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/vadymmarkov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vadymmarkov/Fakery"><b>vadymmarkov/Fakery</b></a><br><sub>:alien: Swift fake data generator</sub></td>
+<td align="right"><b>1,815</b></td>
+<td align="right">185</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/jenslys.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jenslys/opencode-gemini-auth"><b>jenslys/opencode-gemini-auth</b></a><br><sub>Gemini auth plugin for opencode</sub></td>
+<td align="right"><b>1,777</b></td>
+<td align="right">120</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/gnab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gnab/rtl8812au"><b>gnab/rtl8812au</b></a><br><sub>Realtek 802.11n WLAN Adapter Linux driver</sub></td>
+<td align="right"><b>1,746</b></td>
+<td align="right">551</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/magnars.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/magnars/dash.el"><b>magnars/dash.el</b></a><br><sub>A modern list library for Emacs</sub></td>
+<td align="right"><b>1,746</b></td>
+<td align="right">138</td>
+<td>Emacs Lisp</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/hyperoslo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hyperoslo/Lightbox"><b>hyperoslo/Lightbox</b></a><br><sub>:milky&#95;way: A convenient and easy to use image viewer for your iOS app</sub></td>
+<td align="right"><b>1,742</b></td>
+<td align="right">331</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/olalie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/olalie/tapmap"><b>olalie/tapmap</b></a><br><sub>Watch your computer connect across the internet in real time. Discover the world behind your apps.</sub></td>
+<td align="right"><b>1,732</b></td>
+<td align="right">106</td>
 <td>Python</td>
 </tr>
 </tbody>
@@ -645,11 +727,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 408 stars; 88 attributed candidates are tracked.
-- 9 entries were carried over from the previous dataset and are pending revalidation.
-- 129 multi-repository owners are queued for expansion.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 1,732 stars; 114 attributed candidates are tracked.
+- 127 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

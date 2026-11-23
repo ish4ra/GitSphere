@@ -5,7 +5,7 @@
 "country": {"code":"CH","name":"Switzerland","slug":"switzerland"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":3122,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":129,"candidates":148,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":151,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":3122,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":129,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":151,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOMT5TYA","name":"docling","nameWithOwner":"docling-project/docling","url":"https://github.com/docling-project/docling","description":"Get your documents ready for gen AI","stars":70868,"forks":5391,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2024-07-09T07:50:26Z","pushedAt":"2026-11-22T01:23:19Z","archived":false,"owner":{"login":"docling-project","name":"Docling Project","type":"Organization","url":"https://github.com/docling-project","location":"Switzerland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkzMTE2ODMzOTA=","name":"ImHex","nameWithOwner":"WerWolv/ImHex","url":"https://github.com/WerWolv/ImHex","description":"🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.","stars":56000,"forks":2644,"primaryLanguage":"C++","license":{"spdxId":"GPL-2.0"},"createdAt":"2020-11-10T14:27:00Z","pushedAt":"2026-11-17T08:54:39Z","archived":false,"owner":{"login":"WerWolv","name":"Nik","type":"User","url":"https://github.com/WerWolv","location":"Switzerland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"MDEwOlJlcG9zaXRvcnk5OTU4OTE5MQ==","name":"tusk","nameWithOwner":"klaudiosinani/tusk","url":"https://github.com/klaudiosinani/tusk","description":"Refined Evernote desktop app","stars":3153,"forks":241,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2017-08-07T14:52:35Z","pushedAt":"2026-06-24T12:24:58Z","archived":false,"owner":{"login":"klaudiosinani","name":"Klaudio Sinani","type":"User","url":"https://github.com/klaudiosinani","location":"Zurich, Switzerland","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
   {"rank":100,"id":"MDEwOlJlcG9zaXRvcnkxMjM1NjUwMjM=","name":"pyGAT","nameWithOwner":"diegoantognini/pyGAT","url":"https://github.com/diegoantognini/pyGAT","description":"Pytorch implementation of the Graph Attention Network model by Veličković et. al (2017, https://arxiv.org/abs/1710.10903)","stars":3122,"forks":699,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2018-03-02T10:20:26Z","pushedAt":"2023-07-06T21:23:03Z","archived":false,"owner":{"login":"diegoantognini","name":"Diego Antognini","type":"User","url":"https://github.com/diegoantognini","location":"Switzerland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "407b3f5db19ad211",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "c20288a0f5e375f5",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

@@ -5,13 +5,15 @@
 "country": {"code":"IT","name":"Italy","slug":"italy"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":525,"measuredAccounts":2,"measurementBacklog":523,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":606,"measuredAccounts":4,"measurementBacklog":602,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":171,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjMxMzIxMTg4","login":"remorses","name":"Tommy D. Rossi","url":"https://github.com/remorses","avatarUrl":"https://avatars.githubusercontent.com/u/31321188?s=80&v=4","followers":1182,"publicRepos":680,"location":"italy","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":9923,"commits":9520,"pullRequests":217,"reviews":11,"issues":97,"repositories":68,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":2,"id":"MDQ6VXNlcjQ2MjQxMTM=","login":"Magicianred","name":"Simone Paolucci","url":"https://github.com/Magicianred","avatarUrl":"https://avatars.githubusercontent.com/u/4624113?s=80&v=4","followers":5810,"publicRepos":1726,"location":"Italy","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":6,"commits":4,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":2,"id":"MDQ6VXNlcjUyMTk1","login":"mcollina","name":"Matteo Collina","url":"https://github.com/mcollina","avatarUrl":"https://avatars.githubusercontent.com/u/52195?s=80&v=4","followers":11477,"publicRepos":662,"location":"Forlì, Italy","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":6630,"commits":2564,"pullRequests":1505,"reviews":2272,"issues":236,"repositories":49,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":3,"id":"MDQ6VXNlcjE2MzMzMw==","login":"loretoparisi","name":"Loreto Parisi","url":"https://github.com/loretoparisi","avatarUrl":"https://avatars.githubusercontent.com/u/163333?s=80&v=4","followers":475,"publicRepos":742,"location":"Italy, Bologna","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":50,"commits":27,"pullRequests":0,"reviews":0,"issues":9,"repositories":14,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":4,"id":"MDQ6VXNlcjQ2MjQxMTM=","login":"Magicianred","name":"Simone Paolucci","url":"https://github.com/Magicianred","avatarUrl":"https://avatars.githubusercontent.com/u/4624113?s=80&v=4","followers":5810,"publicRepos":1726,"location":"Italy","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":6,"commits":4,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "845fcc5ee9149361",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "a12fdeabf98cb3c7",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

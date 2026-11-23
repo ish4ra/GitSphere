@@ -5,12 +5,14 @@
 "country": {"code":"SO","name":"Somalia","slug":"somalia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":402,"measuredAccounts":2,"measurementBacklog":400,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":402,"measuredAccounts":4,"measurementBacklog":398,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"U_kgDOB7MQEg","login":"omartood","name":"Omar Tood","url":"https://github.com/omartood","avatarUrl":"https://avatars.githubusercontent.com/u/129175570?s=80&v=4","followers":603,"publicRepos":137,"location":"Somalia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":920,"commits":526,"pullRequests":12,"reviews":352,"issues":16,"repositories":14,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"U_kgDOB7MQEg","login":"omartood","name":"Omar Tood","url":"https://github.com/omartood","avatarUrl":"https://avatars.githubusercontent.com/u/129175570?s=80&v=4","followers":603,"publicRepos":137,"location":"Somalia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":920,"commits":526,"pullRequests":12,"reviews":352,"issues":16,"repositories":14,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"U_kgDOCAzZ4Q","login":"Sharmasheeno","name":"Sharmake Hassan","url":"https://github.com/Sharmasheeno","avatarUrl":"https://avatars.githubusercontent.com/u/135059937?s=80&v=4","followers":541,"publicRepos":75,"location":"Somalia-Mogadishu","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":515,"commits":488,"pullRequests":6,"reviews":0,"issues":0,"repositories":21,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":3,"id":"U_kgDOCAwxKg","login":"rihhanna","name":"Rehana Hassan Muhumed","url":"https://github.com/rihhanna","avatarUrl":"https://avatars.githubusercontent.com/u/135016746?s=80&v=4","followers":664,"publicRepos":58,"location":"Hargeisa/Somaliland","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23","contributions":{"public":305,"commits":256,"pullRequests":30,"reviews":0,"issues":4,"repositories":15,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "1093922b846152f2",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "218bca49a9082023",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

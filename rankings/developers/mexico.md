@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **45** | 22 Nov 2026 | <a href="../../data/developers/MX.json">JSON</a> |
+| 🟡 Provisional | **85** | 22 Nov 2026 | <a href="../../data/developers/MX.json">JSON</a> |
 
 </div>
 
@@ -310,27 +310,307 @@
 </tr>
 <tr>
 <td align="right">42</td>
-<td><a href="https://github.com/JuanCrg90"><img src="https://avatars.githubusercontent.com/u/2718753?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JuanCrg90"><b>Juan Carlos Ruiz</b></a><br><sub>&#64;JuanCrg90</sub></td>
-<td align="right"><b>446</b></td>
-<td align="right">0</td>
-<td><sub>Leon, Gto. Mexico</sub></td>
+<td><a href="https://github.com/Siedrix"><img src="https://avatars.githubusercontent.com/u/188538?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Siedrix"><b>Siedrix Zavala</b></a><br><sub>&#64;Siedrix</sub></td>
+<td align="right"><b>558</b></td>
+<td align="right">8</td>
+<td><sub>Mexico</sub></td>
 </tr>
 <tr>
 <td align="right">43</td>
+<td><a href="https://github.com/ivam3"><img src="https://avatars.githubusercontent.com/u/27752315?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ivam3"><b>Milton Mújica</b></a><br><sub>&#64;ivam3</sub></td>
+<td align="right"><b>555</b></td>
+<td align="right">15</td>
+<td><sub>Mexico</sub></td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><a href="https://github.com/ernestognw"><img src="https://avatars.githubusercontent.com/u/33379285?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ernestognw"><b>Ernesto García</b></a><br><sub>&#64;ernestognw</sub></td>
+<td align="right"><b>547</b></td>
+<td align="right">206</td>
+<td><sub>Mexico City</sub></td>
+</tr>
+<tr>
+<td align="right">45</td>
+<td><a href="https://github.com/ranon-rat"><img src="https://avatars.githubusercontent.com/u/66473662?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ranon-rat"><b>ranon rat</b></a><br><sub>&#64;ranon-rat</sub></td>
+<td align="right"><b>536</b></td>
+<td align="right">119</td>
+<td><sub>Mexico/Cdmx</sub></td>
+</tr>
+<tr>
+<td align="right">46</td>
+<td><a href="https://github.com/hectormenendez"><img src="https://avatars.githubusercontent.com/u/154102?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hectormenendez"><b>Hector Menendez</b></a><br><sub>&#64;hectormenendez</sub></td>
+<td align="right"><b>518</b></td>
+<td align="right">8</td>
+<td><sub>Merida, Mexico</sub></td>
+</tr>
+<tr>
+<td align="right">47</td>
+<td><a href="https://github.com/SofiDevO"><img src="https://avatars.githubusercontent.com/u/102200061?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SofiDevO"><b>Angela Sofia Osorio</b></a><br><sub>&#64;SofiDevO</sub></td>
+<td align="right"><b>506</b></td>
+<td align="right">135</td>
+<td><sub>Mexico City</sub></td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><a href="https://github.com/HarlandLohora"><img src="https://avatars.githubusercontent.com/u/26666489?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HarlandLohora"><b>Harland Lohora</b></a><br><sub>&#64;HarlandLohora</sub></td>
+<td align="right"><b>494</b></td>
+<td align="right">228</td>
+<td><sub>Mexico</sub></td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><a href="https://github.com/Elisaelias02"><img src="https://avatars.githubusercontent.com/u/109936224?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Elisaelias02"><b>Elisa Elias</b></a><br><sub>&#64;Elisaelias02</sub></td>
+<td align="right"><b>494</b></td>
+<td align="right">31</td>
+<td><sub>Guadalajara, Jalisco.</sub></td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><a href="https://github.com/diegogallegof"><img src="https://avatars.githubusercontent.com/u/20131917?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/diegogallegof"><b>DonDiego</b></a><br><sub>&#64;diegogallegof</sub></td>
+<td align="right"><b>490</b></td>
+<td align="right">20</td>
+<td><sub>Mexico</sub></td>
+</tr>
+<tr>
+<td align="right">51</td>
+<td><a href="https://github.com/Josephglz"><img src="https://avatars.githubusercontent.com/u/29137137?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Josephglz"><b>Joseph Gonzalez</b></a><br><sub>&#64;Josephglz</sub></td>
+<td align="right"><b>482</b></td>
+<td align="right">78</td>
+<td><sub>Tamaulipas, México</sub></td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><a href="https://github.com/christianroman"><img src="https://avatars.githubusercontent.com/u/461021?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/christianroman"><b>Christian Roman</b></a><br><sub>&#64;christianroman</sub></td>
+<td align="right"><b>473</b></td>
+<td align="right">36</td>
+<td><sub>Mexico</sub></td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><a href="https://github.com/elf-pavlik"><img src="https://avatars.githubusercontent.com/u/876431?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elf-pavlik"><b>elf Pavlik</b></a><br><sub>&#64;elf-pavlik</sub></td>
+<td align="right"><b>472</b></td>
+<td align="right">296</td>
+<td><sub>Tepoztlán, Mesoamerica</sub></td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><a href="https://github.com/carlosjaime"><img src="https://avatars.githubusercontent.com/u/5743626?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/carlosjaime"><b>Carlos Jaime López Martínez (JIMMY)</b></a><br><sub>&#64;carlosjaime</sub></td>
+<td align="right"><b>468</b></td>
+<td align="right">317</td>
+<td><sub>Hidalgo,Mexico</sub></td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><a href="https://github.com/cogitovsmachina"><img src="https://avatars.githubusercontent.com/u/290864?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cogitovsmachina"><b>Kike Diaz</b></a><br><sub>&#64;cogitovsmachina</sub></td>
+<td align="right"><b>466</b></td>
+<td align="right">358</td>
+<td><sub>Mexico City</sub></td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><a href="https://github.com/coderdiaz"><img src="https://avatars.githubusercontent.com/u/1901273?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/coderdiaz"><b>Javier Diaz</b></a><br><sub>&#64;coderdiaz</sub></td>
+<td align="right"><b>451</b></td>
+<td align="right">388</td>
+<td><sub>Mexico City</sub></td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><a href="https://github.com/beduExpert"><img src="https://avatars.githubusercontent.com/u/49173908?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/beduExpert"><b>Bedu</b></a><br><sub>&#64;beduExpert</sub></td>
+<td align="right"><b>450</b></td>
+<td align="right">145</td>
+<td><sub>Mexico</sub></td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><a href="https://github.com/miguelraz"><img src="https://avatars.githubusercontent.com/u/13056181?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/miguelraz"><b>Miguel Raz Guzmán Macedo</b></a><br><sub>&#64;miguelraz</sub></td>
+<td align="right"><b>448</b></td>
+<td align="right">318</td>
+<td><sub>UNAM, Mexico</sub></td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><a href="https://github.com/JuanCrg90"><img src="https://avatars.githubusercontent.com/u/2718753?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JuanCrg90"><b>Juan Carlos Ruiz</b></a><br><sub>&#64;JuanCrg90</sub></td>
+<td align="right"><b>446</b></td>
+<td align="right">35</td>
+<td><sub>Leon, Gto. Mexico</sub></td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><a href="https://github.com/anacunha"><img src="https://avatars.githubusercontent.com/u/1771610?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anacunha"><b>Ana Cunha</b></a><br><sub>&#64;anacunha</sub></td>
+<td align="right"><b>445</b></td>
+<td align="right">88</td>
+<td><sub>Mexico City</sub></td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><a href="https://github.com/Rzva03"><img src="https://avatars.githubusercontent.com/u/75653961?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rzva03"><b>Víctor Rodríguez</b></a><br><sub>&#64;Rzva03</sub></td>
+<td align="right"><b>433</b></td>
+<td align="right">31</td>
+<td><sub>Oaxaca, México</sub></td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><a href="https://github.com/yenerm"><img src="https://avatars.githubusercontent.com/u/715370?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yenerm"><b>Murat Yener</b></a><br><sub>&#64;yenerm</sub></td>
+<td align="right"><b>428</b></td>
+<td align="right">6</td>
+<td><sub>Monterey</sub></td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><a href="https://github.com/RetaxMaster"><img src="https://avatars.githubusercontent.com/u/48848312?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RetaxMaster"><b>Carlos Gómez</b></a><br><sub>&#64;RetaxMaster</sub></td>
+<td align="right"><b>418</b></td>
+<td align="right">118</td>
+<td><sub>Ciudad de México, México</sub></td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><a href="https://github.com/nancynsalazar"><img src="https://avatars.githubusercontent.com/u/8849495?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nancynsalazar"><b>Nancy Salazar</b></a><br><sub>&#64;nancynsalazar</sub></td>
+<td align="right"><b>414</b></td>
+<td align="right">53</td>
+<td><sub>México</sub></td>
+</tr>
+<tr>
+<td align="right">65</td>
 <td><a href="https://github.com/gh0stzk"><img src="https://avatars.githubusercontent.com/u/67278339?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gh0stzk"><b>gh0stzk</b></a><br><sub>&#64;gh0stzk</sub></td>
 <td align="right"><b>409</b></td>
 <td align="right">0</td>
 <td><sub>Mexico City</sub></td>
 </tr>
 <tr>
-<td align="right">44</td>
+<td align="right">66</td>
+<td><a href="https://github.com/AdrMXR"><img src="https://avatars.githubusercontent.com/u/54054887?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AdrMXR"><b>Adrián Guillermo</b></a><br><sub>&#64;AdrMXR</sub></td>
+<td align="right"><b>316</b></td>
+<td align="right">0</td>
+<td><sub>MX</sub></td>
+</tr>
+<tr>
+<td align="right">67</td>
 <td><a href="https://github.com/thepirat000"><img src="https://avatars.githubusercontent.com/u/9836380?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thepirat000"><b>Federico Daniel Colombo</b></a><br><sub>&#64;thepirat000</sub></td>
 <td align="right"><b>214</b></td>
 <td align="right">0</td>
 <td><sub>México</sub></td>
 </tr>
 <tr>
-<td align="right">45</td>
+<td align="right">68</td>
+<td><a href="https://github.com/alfonsobries"><img src="https://avatars.githubusercontent.com/u/17262776?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alfonsobries"><b>Alfonso Bribiesca</b></a><br><sub>&#64;alfonsobries</sub></td>
+<td align="right"><b>146</b></td>
+<td align="right">0</td>
+<td><sub>Mérida Yucatán</sub></td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><a href="https://github.com/herrkrueger"><img src="https://avatars.githubusercontent.com/u/891408?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/herrkrueger"><b>Arne Krueger</b></a><br><sub>&#64;herrkrueger</sub></td>
+<td align="right"><b>19</b></td>
+<td align="right">5</td>
+<td><sub>Berlin, German</sub></td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><a href="https://github.com/gDev95"><img src="https://avatars.githubusercontent.com/u/14252400?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gDev95"><b>gDev95</b></a><br><sub>&#64;gDev95</sub></td>
+<td align="right"><b>18</b></td>
+<td align="right">9</td>
+<td><sub>Berlin, German</sub></td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><a href="https://github.com/BirdBoxCode"><img src="https://avatars.githubusercontent.com/u/114867966?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BirdBoxCode"><b>Chris McCarthy</b></a><br><sub>&#64;BirdBoxCode</sub></td>
+<td align="right"><b>15</b></td>
+<td align="right">14</td>
+<td><sub>Berlin, German</sub></td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><a href="https://github.com/Mateus224"><img src="https://avatars.githubusercontent.com/u/24302453?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mateus224"><b>Mateus</b></a><br><sub>&#64;Mateus224</sub></td>
+<td align="right"><b>6</b></td>
+<td align="right">16</td>
+<td><sub>German, Bremen</sub></td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><a href="https://github.com/javidaslan"><img src="https://avatars.githubusercontent.com/u/22868546?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/javidaslan"><b>Javid Aslanov</b></a><br><sub>&#64;javidaslan</sub></td>
+<td align="right"><b>5</b></td>
+<td align="right">41</td>
+<td><sub>Berlin, German</sub></td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><a href="https://github.com/lucent1090"><img src="https://avatars.githubusercontent.com/u/16771853?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lucent1090"><b>lucent1090</b></a><br><sub>&#64;lucent1090</sub></td>
+<td align="right"><b>3</b></td>
+<td align="right">27</td>
+<td><sub>Berlin, German</sub></td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><a href="https://github.com/jacekzawisza"><img src="https://avatars.githubusercontent.com/u/24357284?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jacekzawisza"><b>Prof. Dr.-Ing. Jacek Zawisza</b></a><br><sub>&#64;jacekzawisza</sub></td>
+<td align="right"><b>3</b></td>
+<td align="right">3</td>
+<td><sub>Berlin, German</sub></td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><a href="https://github.com/ArseLupin"><img src="https://avatars.githubusercontent.com/u/87295032?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ArseLupin"><b>Arséne Lupin</b></a><br><sub>&#64;ArseLupin</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">6</td>
+<td><sub>German, Berlin</sub></td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><a href="https://github.com/turkkat284-ui"><img src="https://avatars.githubusercontent.com/u/228516668?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/turkkat284-ui"><b>Yiğit cemil Kadıoğlu</b></a><br><sub>&#64;turkkat284-ui</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">9</td>
+<td><sub>German, Berlin</sub></td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><a href="https://github.com/cptthura-alt"><img src="https://avatars.githubusercontent.com/u/227908499?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cptthura-alt"><b>ThuraNyunt</b></a><br><sub>&#64;cptthura-alt</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">293</td>
+<td><sub>German, Berlin</sub></td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><a href="https://github.com/maki42mono"><img src="https://avatars.githubusercontent.com/u/19363607?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maki42mono"><b>Maxim Pukh</b></a><br><sub>&#64;maki42mono</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">14</td>
+<td><sub>Berlin, German</sub></td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><a href="https://github.com/JTookey"><img src="https://avatars.githubusercontent.com/u/5412098?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JTookey"><b>James</b></a><br><sub>&#64;JTookey</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">8</td>
+<td><sub>Berlin, German</sub></td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><a href="https://github.com/BumIgo"><img src="https://avatars.githubusercontent.com/u/122147246?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BumIgo"><b>Ihar Bumazhenka</b></a><br><sub>&#64;BumIgo</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>German/Berlin</sub></td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><a href="https://github.com/atal-wardak"><img src="https://avatars.githubusercontent.com/u/58425921?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/atal-wardak"><b>Ahmad Farhad Wardak</b></a><br><sub>&#64;atal-wardak</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Berlin, German</sub></td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><a href="https://github.com/marco16022011"><img src="https://avatars.githubusercontent.com/u/3754815?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marco16022011"><b>Ayyaz munir</b></a><br><sub>&#64;marco16022011</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>German,Berlin</sub></td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><a href="https://github.com/Yaraveooo"><img src="https://avatars.githubusercontent.com/u/177500144?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Yaraveooo"><b>Vee</b></a><br><sub>&#64;Yaraveooo</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>German, Berlin</sub></td>
+</tr>
+<tr>
+<td align="right">85</td>
 <td><a href="https://github.com/sstephenson"><img src="https://avatars.githubusercontent.com/u/2603?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sstephenson"><b>Sam Stephenson</b></a><br><sub>&#64;sstephenson</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -344,7 +624,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 45 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 85 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

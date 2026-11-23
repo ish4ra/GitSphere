@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/NA.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/NA.json">JSON</a> |
 
 </div>
 
@@ -23,16 +23,30 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/dolotech"><img src="https://avatars.githubusercontent.com/u/1314793?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dolotech"><b>photo</b></a><br><sub>&#64;dolotech</sub></td>
+<td align="right"><b>185</b></td>
+<td align="right">89</td>
+<td><sub>photo</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/007Wesley007"><img src="https://avatars.githubusercontent.com/u/83217085?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/007Wesley007"><b>Wesley</b></a><br><sub>&#64;007Wesley007</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">8</td>
 <td><sub>Namibia, Windhoek</sub></td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">3</td>
 <td><a href="https://github.com/01alicia03"><img src="https://avatars.githubusercontent.com/u/126119740?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/01alicia03"><b>Tjeripo Alicia Rukoro</b></a><br><sub>&#64;01alicia03</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
+<td><sub>Namibia</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/081Vernon"><img src="https://avatars.githubusercontent.com/u/219795001?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/081Vernon"><b>Sal3000</b></a><br><sub>&#64;081Vernon</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
 <td><sub>Namibia</sub></td>
 </tr>
 </tbody>
@@ -43,7 +57,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

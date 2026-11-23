@@ -5,13 +5,15 @@
 "country": {"code":"VC","name":"St. Vincent & Grenadines","slug":"st-vincent-grenadines"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDOCZ83mg","login":"AitikChain","name":"AitikChain","url":"https://github.com/AitikChain","avatarUrl":"https://avatars.githubusercontent.com/u/161429402?s=80&v=4","followers":3,"publicRepos":3,"location":"Saint Vincent and the Grenadines","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"MDQ6VXNlcjU5MDg5NTc3","login":"3rdeye784","name":"3rdEye784","url":"https://github.com/3rdeye784","avatarUrl":"https://avatars.githubusercontent.com/u/59089577?s=80&v=4","followers":0,"publicRepos":2,"location":"Saint Vincent and the Grenadines","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"MDQ6VXNlcjQyNDg4MzEz","login":"azeldaniel","name":"Azel Daniel","url":"https://github.com/azeldaniel","avatarUrl":"https://avatars.githubusercontent.com/u/42488313?s=80&v=4","followers":10,"publicRepos":12,"location":"Saint Vincent and the Grenadines","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":2,"id":"U_kgDOCZ83mg","login":"AitikChain","name":"AitikChain","url":"https://github.com/AitikChain","avatarUrl":"https://avatars.githubusercontent.com/u/161429402?s=80&v=4","followers":3,"publicRepos":3,"location":"Saint Vincent and the Grenadines","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"U_kgDODyJuqA","login":"aku1234567890","name":"aku","url":"https://github.com/aku1234567890","avatarUrl":"https://avatars.githubusercontent.com/u/253914792?s=80&v=4","followers":0,"publicRepos":6,"location":"Saint Vincent and the Grenadines","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":4,"id":"MDQ6VXNlcjU5MDg5NTc3","login":"3rdeye784","name":"3rdEye784","url":"https://github.com/3rdeye784","avatarUrl":"https://avatars.githubusercontent.com/u/59089577?s=80&v=4","followers":0,"publicRepos":2,"location":"Saint Vincent and the Grenadines","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "2d8867b8404a7ba3",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "40e6cbf74d387df2",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

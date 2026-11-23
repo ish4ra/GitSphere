@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"country": "IL",
+"round": 1,
+"roundStartedAt": "2026-11-23T03:01:20.446Z",
+"terms": {"count":150,"fingerprint":"150:aabe95c2"},
+"termIndex": 0,
+"specIndex": 0,
+"active": {"term":"Israel","kind":"users","queue":[{"metric":[0,12500000],"created":null,"cursor":null,"page":1}],"unresolved":[],"cycleStartedAt":"2026-11-23T03:01:20.446Z","stats":{"splits":3,"leaves":3,"pages":3}},
+"unresolved": [],
+"completedRounds": [],
+"stats": {"requests":6,"pages":3,"accounts":0},
+"updatedAt": "2026-11-23T03:01:20.446Z"
+}

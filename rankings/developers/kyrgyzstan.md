@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/KG.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/KG.json">JSON</a> |
 
 </div>
 
@@ -35,6 +35,20 @@
 <td align="right">40</td>
 <td><sub>Bishkek, Kyrgyzstan</sub></td>
 </tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/0iskak"><img src="https://avatars.githubusercontent.com/u/57086286?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0iskak"><b>Iskak</b></a><br><sub>&#64;0iskak</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">44</td>
+<td><sub>Bishkek, Kyrgyzstan</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/0mnitrix"><img src="https://avatars.githubusercontent.com/u/173600536?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0mnitrix"><b>iskener</b></a><br><sub>&#64;0mnitrix</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">7</td>
+<td><sub>Kyrgyzstan. Bishkek</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -43,8 +57,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 690 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 0 of 89 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

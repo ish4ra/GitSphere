@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **100** | 16 Oct 2026 | <a href="../data/BE.json">JSON</a> |
-
-> **Not yet re-verified.** 32 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/BE.json">JSON</a> |
 
 </div>
 
@@ -501,227 +499,227 @@
 </tr>
 <tr>
 <td align="right">69</td>
-<td><img src="https://github.com/devoxx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/devoxx/JavaRoadmap"><b>devoxx/JavaRoadmap</b></a></td>
-<td align="right"><b>793</b></td>
-<td align="right">63</td>
-<td>—</td>
+<td><img src="https://github.com/spatie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spatie/data-transfer-object"><b>spatie/data-transfer-object</b></a> <sub>archived</sub><br><sub>Data transfer objects with batteries included</sub></td>
+<td align="right"><b>2,220</b></td>
+<td align="right">187</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">70</td>
-<td><img src="https://github.com/fniessen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fniessen/emacs-leuven-theme"><b>fniessen/emacs-leuven-theme</b></a></td>
-<td align="right"><b>770</b></td>
-<td align="right">57</td>
-<td>Emacs Lisp</td>
+<td><img src="https://github.com/dreeveapp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dreeveapp/dreeve"><b>dreeveapp/dreeve</b></a><br><sub>Dreeve is a self-hosted, open-source dashboard for your sports and fitness data</sub></td>
+<td align="right"><b>2,220</b></td>
+<td align="right">147</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">71</td>
-<td><img src="https://github.com/eu-digital-identity-wallet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework"><b>eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework</b></a></td>
-<td align="right"><b>764</b></td>
+<td><img src="https://github.com/scambier.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/scambier/obsidian-omnisearch"><b>scambier/obsidian-omnisearch</b></a><br><sub>A search engine that &quot;just works&quot; for Obsidian.</sub></td>
+<td align="right"><b>2,201</b></td>
 <td align="right">122</td>
-<td>Python</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">72</td>
-<td><img src="https://github.com/AndrewRadev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AndrewRadev/switch.vim"><b>AndrewRadev/switch.vim</b></a></td>
-<td align="right"><b>763</b></td>
-<td align="right">31</td>
-<td>Ruby</td>
-</tr>
-<tr>
-<td align="right">73</td>
-<td><img src="https://github.com/frederikme.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/frederikme/TinderBotz"><b>frederikme/TinderBotz</b></a></td>
-<td align="right"><b>703</b></td>
-<td align="right">168</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">74</td>
-<td><img src="https://github.com/devoxx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/devoxx/DevoxxGenieIDEAPlugin"><b>devoxx/DevoxxGenieIDEAPlugin</b></a></td>
-<td align="right"><b>684</b></td>
-<td align="right">103</td>
+<td><img src="https://github.com/JorenSix.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JorenSix/TarsosDSP"><b>JorenSix/TarsosDSP</b></a><br><sub>A Real-Time Audio Processing Framework in Java</sub></td>
+<td align="right"><b>2,193</b></td>
+<td align="right">494</td>
 <td>Java</td>
 </tr>
 <tr>
+<td align="right">73</td>
+<td><img src="https://github.com/folke.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/folke/zen-mode.nvim"><b>folke/zen-mode.nvim</b></a><br><sub>🧘 Distraction-free coding for Neovim</sub></td>
+<td align="right"><b>2,166</b></td>
+<td align="right">77</td>
+<td>Lua</td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/probberechts.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/probberechts/soccerdata"><b>probberechts/soccerdata</b></a><br><sub>⛏⚽ Scrape soccer data from Club Elo, ESPN, FBref, Football-Data.co.uk, Sofascore, SoFIFA, Understat and WhoScored.</sub></td>
+<td align="right"><b>2,149</b></td>
+<td align="right">334</td>
+<td>Python</td>
+</tr>
+<tr>
 <td align="right">75</td>
-<td><img src="https://github.com/fniessen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fniessen/refcard-org-mode"><b>fniessen/refcard-org-mode</b></a></td>
-<td align="right"><b>672</b></td>
-<td align="right">115</td>
-<td>—</td>
+<td><img src="https://github.com/nicoverbruggen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nicoverbruggen/libron"><b>nicoverbruggen/libron</b></a><br><sub>A manually tuned font revision of Readerly, with reduced and altered serifs, optimized for digital reading and e-reader…</sub></td>
+<td align="right"><b>2,088</b></td>
+<td align="right">22</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">76</td>
-<td><img src="https://github.com/Smile4ever.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Smile4ever/Neat-URL"><b>Smile4ever/Neat-URL</b></a></td>
-<td align="right"><b>663</b></td>
-<td align="right">35</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/francoismassart.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/francoismassart/eslint-plugin-tailwindcss"><b>francoismassart/eslint-plugin-tailwindcss</b></a><br><sub>ESLint plugin for Tailwind CSS usage</sub></td>
+<td align="right"><b>2,072</b></td>
+<td align="right">117</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">77</td>
-<td><img src="https://github.com/lucafaggianelli.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lucafaggianelli/plombery"><b>lucafaggianelli/plombery</b></a></td>
-<td align="right"><b>661</b></td>
-<td align="right">98</td>
-<td>Python</td>
+<td><img src="https://github.com/jenssegers.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jenssegers/imagehash"><b>jenssegers/imagehash</b></a><br><sub>🌄 Perceptual image hashing for PHP</sub></td>
+<td align="right"><b>2,060</b></td>
+<td align="right">173</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">78</td>
-<td><img src="https://github.com/aertslab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aertslab/pySCENIC"><b>aertslab/pySCENIC</b></a></td>
-<td align="right"><b>642</b></td>
-<td align="right">210</td>
-<td>Python</td>
+<td><img src="https://github.com/tcoopman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tcoopman/image-webpack-loader"><b>tcoopman/image-webpack-loader</b></a> <sub>archived</sub><br><sub>Image loader module for webpack</sub></td>
+<td align="right"><b>2,007</b></td>
+<td align="right">126</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">79</td>
-<td><img src="https://github.com/BartVandewoestyne.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/BartVandewoestyne/Effective-Modern-Cpp"><b>BartVandewoestyne/Effective-Modern-Cpp</b></a></td>
-<td align="right"><b>618</b></td>
-<td align="right">178</td>
-<td>C++</td>
+<td><img src="https://github.com/folke.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/folke/neodev.nvim"><b>folke/neodev.nvim</b></a> <sub>archived</sub><br><sub>💻 Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.</sub></td>
+<td align="right"><b>1,983</b></td>
+<td align="right">47</td>
+<td>Lua</td>
 </tr>
 <tr>
 <td align="right">80</td>
-<td><img src="https://github.com/brendt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/brendt/aggregate.stitcher.io"><b>brendt/aggregate.stitcher.io</b></a> <sub>archived</sub></td>
-<td align="right"><b>608</b></td>
-<td align="right">80</td>
-<td>PHP</td>
+<td><img src="https://github.com/gotcha.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gotcha/ipdb"><b>gotcha/ipdb</b></a><br><sub>Integration of IPython pdb</sub></td>
+<td align="right"><b>1,974</b></td>
+<td align="right">153</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">81</td>
-<td><img src="https://github.com/dheijl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dheijl/swyh-rs"><b>dheijl/swyh-rs</b></a></td>
-<td align="right"><b>605</b></td>
-<td align="right">35</td>
-<td>Rust</td>
+<td><img src="https://github.com/AndrewRadev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AndrewRadev/splitjoin.vim"><b>AndrewRadev/splitjoin.vim</b></a><br><sub>Switch between single-line and multiline forms of code</sub></td>
+<td align="right"><b>1,970</b></td>
+<td align="right">91</td>
+<td>Vim Script</td>
 </tr>
 <tr>
 <td align="right">82</td>
-<td><img src="https://github.com/entropitor.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/entropitor/dotenv-cli"><b>entropitor/dotenv-cli</b></a></td>
-<td align="right"><b>602</b></td>
-<td align="right">56</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">83</td>
-<td><img src="https://github.com/jsebrech.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jsebrech/plainvanilla"><b>jsebrech/plainvanilla</b></a></td>
-<td align="right"><b>555</b></td>
-<td align="right">24</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">84</td>
-<td><img src="https://github.com/ixudra.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ixudra/curl"><b>ixudra/curl</b></a></td>
-<td align="right"><b>554</b></td>
-<td align="right">128</td>
+<td><img src="https://github.com/spatie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spatie/dashboard.spatie.be"><b>spatie/dashboard.spatie.be</b></a><br><sub>The source code of dashboard.spatie.be</sub></td>
+<td align="right"><b>1,959</b></td>
+<td align="right">408</td>
 <td>PHP</td>
 </tr>
 <tr>
-<td align="right">85</td>
-<td><img src="https://github.com/jonathanslenders.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jonathanslenders/asyncio-redis"><b>jonathanslenders/asyncio-redis</b></a></td>
-<td align="right"><b>549</b></td>
-<td align="right">73</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">86</td>
-<td><img src="https://github.com/maartenba.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maartenba/MvcSiteMapProvider"><b>maartenba/MvcSiteMapProvider</b></a></td>
-<td align="right"><b>533</b></td>
-<td align="right">215</td>
+<td align="right">83</td>
+<td><img src="https://github.com/itext.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/itext/itext-dotnet"><b>itext/itext-dotnet</b></a><br><sub>iText for .NET is the .NET version of the iText library, formerly known as iTextSharp, which it replaces. iText represe…</sub></td>
+<td align="right"><b>1,941</b></td>
+<td align="right">346</td>
 <td>C#</td>
 </tr>
 <tr>
+<td align="right">84</td>
+<td><img src="https://github.com/AikidoSec.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AikidoSec/safe-chain"><b>AikidoSec/safe-chain</b></a><br><sub>Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Fre…</sub></td>
+<td align="right"><b>1,920</b></td>
+<td align="right">127</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">85</td>
+<td><img src="https://github.com/sleeyax.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sleeyax/burp-awesome-tls"><b>sleeyax/burp-awesome-tls</b></a><br><sub>Burp extension to evade TLS fingerprinting. Bypass WAF, spoof any browser.</sub></td>
+<td align="right"><b>1,918</b></td>
+<td align="right">120</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/spatie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spatie/laravel-collection-macros"><b>spatie/laravel-collection-macros</b></a><br><sub>A set of useful Laravel collection macros</sub></td>
+<td align="right"><b>1,915</b></td>
+<td align="right">142</td>
+<td>PHP</td>
+</tr>
+<tr>
 <td align="right">87</td>
-<td><img src="https://github.com/brechtm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/brechtm/rinohtype"><b>brechtm/rinohtype</b></a></td>
-<td align="right"><b>528</b></td>
-<td align="right">63</td>
-<td>Python</td>
+<td><img src="https://github.com/spatie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spatie/laravel-fractal"><b>spatie/laravel-fractal</b></a><br><sub>An easy to use Fractal wrapper built for Laravel and Lumen applications</sub></td>
+<td align="right"><b>1,902</b></td>
+<td align="right">182</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">88</td>
-<td><img src="https://github.com/AlexandreDecan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AlexandreDecan/portion"><b>AlexandreDecan/portion</b></a></td>
-<td align="right"><b>521</b></td>
-<td align="right">41</td>
+<td><img src="https://github.com/corelan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/corelan/mona"><b>corelan/mona</b></a> <sub>archived</sub><br><sub>Corelan Repository for mona.py</sub></td>
+<td align="right"><b>1,896</b></td>
+<td align="right">603</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">89</td>
-<td><img src="https://github.com/jeroendesloovere.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jeroendesloovere/vcard"><b>jeroendesloovere/vcard</b></a></td>
-<td align="right"><b>517</b></td>
-<td align="right">196</td>
-<td>PHP</td>
+<td><img src="https://github.com/TimefoldAI.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TimefoldAI/timefold-solver"><b>TimefoldAI/timefold-solver</b></a><br><sub>The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, em…</sub></td>
+<td align="right"><b>1,879</b></td>
+<td align="right">244</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">90</td>
-<td><img src="https://github.com/obonaventure.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/obonaventure/cnp3"><b>obonaventure/cnp3</b></a></td>
-<td align="right"><b>513</b></td>
-<td align="right">90</td>
-<td>Python</td>
+<td><img src="https://github.com/KasperZutterman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KasperZutterman/Second-Brain"><b>KasperZutterman/Second-Brain</b></a><br><sub>A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱</sub></td>
+<td align="right"><b>1,864</b></td>
+<td align="right">102</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">91</td>
-<td><img src="https://github.com/AndrewRadev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AndrewRadev/linediff.vim"><b>AndrewRadev/linediff.vim</b></a></td>
-<td align="right"><b>509</b></td>
-<td align="right">24</td>
-<td>Vim Script</td>
-</tr>
-<tr>
-<td align="right">92</td>
-<td><img src="https://github.com/aertslab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aertslab/SCENIC"><b>aertslab/SCENIC</b></a></td>
-<td align="right"><b>497</b></td>
-<td align="right">100</td>
-<td>HTML</td>
-</tr>
-<tr>
-<td align="right">93</td>
-<td><img src="https://github.com/AndrewRadev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AndrewRadev/sideways.vim"><b>AndrewRadev/sideways.vim</b></a></td>
-<td align="right"><b>488</b></td>
-<td align="right">8</td>
-<td>Ruby</td>
-</tr>
-<tr>
-<td align="right">94</td>
-<td><img src="https://github.com/tvcutsem.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tvcutsem/harmony-reflect"><b>tvcutsem/harmony-reflect</b></a></td>
-<td align="right"><b>482</b></td>
-<td align="right">46</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">95</td>
-<td><img src="https://github.com/jovanbulck.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jovanbulck/sgx-step"><b>jovanbulck/sgx-step</b></a></td>
-<td align="right"><b>480</b></td>
-<td align="right">94</td>
+<td><img src="https://github.com/emweb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/emweb/wt"><b>emweb/wt</b></a><br><sub>Wt, C++ Web Toolkit</sub></td>
+<td align="right"><b>1,858</b></td>
+<td align="right">391</td>
 <td>C</td>
 </tr>
 <tr>
-<td align="right">96</td>
-<td><img src="https://github.com/radu-matei.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/radu-matei/websocket-manager"><b>radu-matei/websocket-manager</b></a></td>
-<td align="right"><b>454</b></td>
-<td align="right">183</td>
-<td>C#</td>
-</tr>
-<tr>
-<td align="right">97</td>
-<td><img src="https://github.com/holly-hacker.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/holly-hacker/EazFixer"><b>holly-hacker/EazFixer</b></a></td>
-<td align="right"><b>452</b></td>
-<td align="right">137</td>
-<td>C#</td>
-</tr>
-<tr>
-<td align="right">98</td>
-<td><img src="https://github.com/ML-KULeuven.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ML-KULeuven/problog"><b>ML-KULeuven/problog</b></a></td>
-<td align="right"><b>426</b></td>
-<td align="right">49</td>
+<td align="right">92</td>
+<td><img src="https://github.com/thygate.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thygate/stable-diffusion-webui-depthmap-script"><b>thygate/stable-diffusion-webui-depthmap-script</b></a><br><sub>High Resolution Depth Maps for Stable Diffusion WebUI</sub></td>
+<td align="right"><b>1,856</b></td>
+<td align="right">161</td>
 <td>Python</td>
 </tr>
 <tr>
+<td align="right">93</td>
+<td><img src="https://github.com/kubb-labs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kubb-labs/kubb"><b>kubb-labs/kubb</b></a><br><sub>🧡 Turn your API spec into type-safe code. Generate TypeScript types, API clients, hooks, validators and mocks from a s…</sub></td>
+<td align="right"><b>1,853</b></td>
+<td align="right">152</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/spatie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spatie/laravel-data"><b>spatie/laravel-data</b></a><br><sub>Powerful data objects for Laravel</sub></td>
+<td align="right"><b>1,802</b></td>
+<td align="right">292</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/belgattitude.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/belgattitude/nextjs-monorepo-example"><b>belgattitude/nextjs-monorepo-example</b></a><br><sub>Collection of monorepo tips &amp; tricks</sub></td>
+<td align="right"><b>1,802</b></td>
+<td align="right">225</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/jenssegers.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jenssegers/date"><b>jenssegers/date</b></a><br><sub>🗓 A library to help you work with dates in multiple languages, based on Carbon.</sub></td>
+<td align="right"><b>1,795</b></td>
+<td align="right">250</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/intika.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/intika/Librefox"><b>intika/Librefox</b></a><br><sub>Librefox: Firefox with privacy enhancements</sub></td>
+<td align="right"><b>1,783</b></td>
+<td align="right">85</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/Savjee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Savjee/SavjeeCoin"><b>Savjee/SavjeeCoin</b></a><br><sub>A simple blockchain in Javascript. For educational purposes only.</sub></td>
+<td align="right"><b>1,772</b></td>
+<td align="right">735</td>
+<td>JavaScript</td>
+</tr>
+<tr>
 <td align="right">99</td>
-<td><img src="https://github.com/mydnic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mydnic/volet"><b>mydnic/volet</b></a></td>
-<td align="right"><b>419</b></td>
-<td align="right">37</td>
+<td><img src="https://github.com/hugues-m.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hugues-m/phpunit-vw"><b>hugues-m/phpunit-vw</b></a><br><sub>VW PHPUnit extension makes your failing test cases succeed under CI tools scrutiny</sub></td>
+<td align="right"><b>1,758</b></td>
+<td align="right">40</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">100</td>
-<td><img src="https://github.com/RobinMalfait.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RobinMalfait/lazy-collections"><b>RobinMalfait/lazy-collections</b></a></td>
-<td align="right"><b>419</b></td>
-<td align="right">25</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/spatie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spatie/laravel-tags"><b>spatie/laravel-tags</b></a><br><sub>Add tags and taggable behaviour to your Laravel app</sub></td>
+<td align="right"><b>1,748</b></td>
+<td align="right">283</td>
+<td>PHP</td>
 </tr>
 </tbody>
 </table>
@@ -729,11 +727,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 419 stars; 131 attributed candidates are tracked.
-- 32 entries were carried over from the previous dataset and are pending revalidation.
-- 138 multi-repository owners are queued for expansion.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 1,748 stars; 123 attributed candidates are tracked.
+- 136 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 151 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

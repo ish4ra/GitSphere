@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/developers/HR.json">JSON</a> |
+| 🟡 Provisional | **22** | 22 Nov 2026 | <a href="../../data/developers/HR.json">JSON</a> |
 
 </div>
 
@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/adrianhajdin"><img src="https://avatars.githubusercontent.com/u/24898559?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adrianhajdin"><b>Adrian Hajdin - JS Mastery</b></a><br><sub>&#64;adrianhajdin</sub></td>
-<td align="right"><b>37,579</b></td>
+<td align="right"><b>37,580</b></td>
 <td align="right">172</td>
 <td><sub>Croatia</sub></td>
 </tr>
@@ -114,24 +114,66 @@
 </tr>
 <tr>
 <td align="right">14</td>
+<td><a href="https://github.com/Raxone"><img src="https://avatars.githubusercontent.com/u/1832084?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Raxone"><b>RaleGale</b></a><br><sub>&#64;Raxone</sub></td>
+<td align="right"><b>454</b></td>
+<td align="right">19</td>
+<td><sub>Croatia</sub></td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><a href="https://github.com/silvenon"><img src="https://avatars.githubusercontent.com/u/471278?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/silvenon"><b>Matija Marohnić</b></a><br><sub>&#64;silvenon</sub></td>
+<td align="right"><b>419</b></td>
+<td align="right">106</td>
+<td><sub>Zagreb, Croatia</sub></td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><a href="https://github.com/filbabic"><img src="https://avatars.githubusercontent.com/u/17215808?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/filbabic"><b>Filip Babic</b></a><br><sub>&#64;filbabic</sub></td>
+<td align="right"><b>415</b></td>
+<td align="right">32</td>
+<td><sub>Osijek, Croatia</sub></td>
+</tr>
+<tr>
+<td align="right">17</td>
 <td><a href="https://github.com/nibzard"><img src="https://avatars.githubusercontent.com/u/6250945?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nibzard"><b>Nikola Balic</b></a><br><sub>&#64;nibzard</sub></td>
 <td align="right"><b>315</b></td>
 <td align="right">0</td>
 <td><sub>Split, Croatia</sub></td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">18</td>
 <td><a href="https://github.com/ivpusic"><img src="https://avatars.githubusercontent.com/u/450140?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ivpusic"><b>Ivan Pusic</b></a><br><sub>&#64;ivpusic</sub></td>
 <td align="right"><b>265</b></td>
 <td align="right">0</td>
 <td><sub>Zagreb, Croatia</sub></td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">19</td>
 <td><a href="https://github.com/Tinche"><img src="https://avatars.githubusercontent.com/u/1909233?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tinche"><b>Tin Tvrtković</b></a><br><sub>&#64;Tinche</sub></td>
 <td align="right"><b>204</b></td>
 <td align="right">0</td>
 <td><sub>Zagreb, Croatia</sub></td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><a href="https://github.com/dmilicic"><img src="https://avatars.githubusercontent.com/u/3181172?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dmilicic"><b>Dario Miličić</b></a><br><sub>&#64;dmilicic</sub></td>
+<td align="right"><b>158</b></td>
+<td align="right">0</td>
+<td><sub>Croatia</sub></td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><a href="https://github.com/aerkalov"><img src="https://avatars.githubusercontent.com/u/1003989?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aerkalov"><b>Aleksandar Erkalović</b></a><br><sub>&#64;aerkalov</sub></td>
+<td align="right"><b>70</b></td>
+<td align="right">0</td>
+<td><sub>Zagreb, Croatia</sub></td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><a href="https://github.com/tomislav"><img src="https://avatars.githubusercontent.com/u/656?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tomislav"><b>Tomislav Filipcic</b></a><br><sub>&#64;tomislav</sub></td>
+<td align="right"><b>51</b></td>
+<td align="right">0</td>
+<td><sub>Croatia</sub></td>
 </tr>
 </tbody>
 </table>
@@ -141,8 +183,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 16 attributed developers are tracked; the cutoff is 204 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 22 attributed developers are tracked; the cutoff is 51 followers.
+- **Location discovery:** term 0 of 145 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

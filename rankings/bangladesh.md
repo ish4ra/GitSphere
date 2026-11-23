@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | :---: |
 | 🟠 Stale | **100** | 16 Oct 2026 | <a href="../data/BD.json">JSON</a> |
 
-> **Not yet re-verified.** 83 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 72 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -144,80 +144,80 @@
 </tr>
 <tr>
 <td align="right">18</td>
-<td><img src="https://github.com/farukalamai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/farukalamai/advanced-machine-learning-engineer-roadmap-2024"><b>farukalamai/advanced-machine-learning-engineer-roadmap-2024</b></a></td>
-<td align="right"><b>703</b></td>
-<td align="right">87</td>
-<td>—</td>
+<td><img src="https://github.com/thedevsaddam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thedevsaddam/gojsonq"><b>thedevsaddam/gojsonq</b></a><br><sub>A simple Go package for querying over JSON, YAML, XML, and CSV data.</sub></td>
+<td align="right"><b>2,218</b></td>
+<td align="right">144</td>
+<td>Go</td>
 </tr>
 <tr>
 <td align="right">19</td>
-<td><img src="https://github.com/mdgaziur.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mdgaziur/findex"><b>mdgaziur/findex</b></a></td>
-<td align="right"><b>666</b></td>
-<td align="right">28</td>
-<td>Rust</td>
+<td><img src="https://github.com/MunifTanjim.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MunifTanjim/nui.nvim"><b>MunifTanjim/nui.nvim</b></a><br><sub>UI Component Library for Neovim.</sub></td>
+<td align="right"><b>2,134</b></td>
+<td align="right">85</td>
+<td>Lua</td>
 </tr>
 <tr>
 <td align="right">20</td>
-<td><img src="https://github.com/mrhm-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mrhm-dev/full-stack-army"><b>mrhm-dev/full-stack-army</b></a></td>
-<td align="right"><b>652</b></td>
-<td align="right">353</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/me-shaon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/me-shaon/bangla-programming-resources"><b>me-shaon/bangla-programming-resources</b></a><br><sub>Bangla tutorial, reference and resource list on programming topics</sub></td>
+<td align="right"><b>2,021</b></td>
+<td align="right">1,539</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">21</td>
-<td><img src="https://github.com/Rafiquzzaman420.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Rafiquzzaman420/Free-Programming-Books"><b>Rafiquzzaman420/Free-Programming-Books</b></a></td>
-<td align="right"><b>545</b></td>
-<td align="right">170</td>
-<td>—</td>
+<td><img src="https://github.com/thesabbir.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thesabbir/simple-line-icons"><b>thesabbir/simple-line-icons</b></a><br><sub>Simple and Minimal Line Icons</sub></td>
+<td align="right"><b>1,857</b></td>
+<td align="right">813</td>
+<td>CSS</td>
 </tr>
 <tr>
 <td align="right">22</td>
-<td><img src="https://github.com/devxhub.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/devxhub/awesome-book-collection"><b>devxhub/awesome-book-collection</b></a></td>
-<td align="right"><b>538</b></td>
-<td align="right">112</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">23</td>
-<td><img src="https://github.com/Rafiquzzaman420.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Rafiquzzaman420/Math-Books"><b>Rafiquzzaman420/Math-Books</b></a></td>
-<td align="right"><b>517</b></td>
-<td align="right">113</td>
+<td><img src="https://github.com/eendroroy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eendroroy/alacritty-theme"><b>eendroroy/alacritty-theme</b></a> <sub>archived</sub><br><sub>Collection of Alacritty color schemes</sub></td>
+<td align="right"><b>1,849</b></td>
+<td align="right">215</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">24</td>
-<td><img src="https://github.com/wasi-master.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wasi-master/wmkeyboard"><b>wasi-master/wmkeyboard</b></a></td>
-<td align="right"><b>509</b></td>
 <td align="right">23</td>
-<td>Kotlin</td>
-</tr>
-<tr>
-<td align="right">25</td>
-<td><img src="https://github.com/hasancse91.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hasancse91/flutter_getx_template"><b>hasancse91/flutter&#95;getx&#95;template</b></a></td>
-<td align="right"><b>442</b></td>
-<td align="right">155</td>
+<td><img src="https://github.com/ZhFahim.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ZhFahim/anchor"><b>ZhFahim/anchor</b></a><br><sub>Offline first, self hostable note taking application</sub></td>
+<td align="right"><b>1,812</b></td>
+<td align="right">77</td>
 <td>Dart</td>
 </tr>
 <tr>
+<td align="right">24</td>
+<td><img src="https://github.com/MShawon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MShawon/YouTube-Viewer"><b>MShawon/YouTube-Viewer</b></a><br><sub>A multithreaded view bot for YouTube</sub></td>
+<td align="right"><b>1,681</b></td>
+<td align="right">794</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td><img src="https://github.com/Agontuk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Agontuk/react-native-geolocation-service"><b>Agontuk/react-native-geolocation-service</b></a><br><sub>React native geolocation service for iOS and android</sub></td>
+<td align="right"><b>1,665</b></td>
+<td align="right">294</td>
+<td>Java</td>
+</tr>
+<tr>
 <td align="right">26</td>
-<td><img src="https://github.com/Quincunx33.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Quincunx33/Ai-jailbreak"><b>Quincunx33/Ai-jailbreak</b></a></td>
-<td align="right"><b>437</b></td>
-<td align="right">73</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/codewithsadee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/codewithsadee/anon-ecommerce-website"><b>codewithsadee/anon-ecommerce-website</b></a><br><sub>Fully responsive ecommerce website, built using HTML CSS and JavaScript.</sub></td>
+<td align="right"><b>1,636</b></td>
+<td align="right">1,104</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td align="right">27</td>
-<td><img src="https://github.com/haruncpi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/haruncpi/laravel-user-activity"><b>haruncpi/laravel-user-activity</b></a></td>
-<td align="right"><b>425</b></td>
-<td align="right">53</td>
-<td>—</td>
+<td><img src="https://github.com/nahid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nahid/talk"><b>nahid/talk</b></a><br><sub>Talk is a real-time users messaging and chatting system for Laravel.</sub></td>
+<td align="right"><b>1,619</b></td>
+<td align="right">311</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">28</td>
-<td><img src="https://github.com/problemsolvewithridoy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/problemsolvewithridoy/Phone-number-location-tracker-using-python"><b>problemsolvewithridoy/Phone-number-location-tracker-using-python</b></a></td>
-<td align="right"><b>411</b></td>
-<td align="right">143</td>
-<td>HTML</td>
+<td><img src="https://github.com/faahim.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/faahim/happy-birthday"><b>faahim/happy-birthday</b></a><br><sub>Wish your friend/loved-ones happy birthday in a nerdy way.</sub></td>
+<td align="right"><b>1,560</b></td>
+<td align="right">2,430</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">29</td>
@@ -731,9 +731,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 3 stars; 146 attributed candidates are tracked.
-- 83 entries were carried over from the previous dataset and are pending revalidation.
-- 147 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 3 stars; 139 attributed candidates are tracked.
+- 72 entries were carried over from the previous dataset and are pending revalidation.
+- 144 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 173 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

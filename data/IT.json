@@ -5,7 +5,7 @@
 "country": {"code":"IT","name":"Italy","slug":"italy"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":3207,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":130,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":3207,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":130,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":171,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxMzg1NDc3OTc=","name":"mkcert","nameWithOwner":"FiloSottile/mkcert","url":"https://github.com/FiloSottile/mkcert","description":"A simple zero-config tool to make locally trusted development certificates with any names you'd like.","stars":59896,"forks":3182,"primaryLanguage":"Go","license":{"spdxId":"BSD-3-Clause"},"createdAt":"2018-06-25T05:33:03Z","pushedAt":"2024-08-13T13:37:46Z","archived":false,"owner":{"login":"FiloSottile","name":"Filippo Valsorda","type":"User","url":"https://github.com/FiloSottile","location":"Rome, Italy","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"R_kgDOJLVrdQ","name":"LocalAI","nameWithOwner":"mudler/LocalAI","url":"https://github.com/mudler/LocalAI","description":"LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.","stars":50496,"forks":4634,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2023-03-18T22:58:02Z","pushedAt":"2026-11-22T09:28:13Z","archived":false,"owner":{"login":"mudler","name":"Ettore Di Giacinto","type":"User","url":"https://github.com/mudler","location":"Italy","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"R_kgDONK22AQ","name":"demos","nameWithOwner":"enzomanuelmangano/demos","url":"https://github.com/enzomanuelmangano/demos","description":"An ongoing collection of React Native animations crafted with Reanimated, Gesture Handler, and Skia.","stars":3247,"forks":296,"primaryLanguage":"TypeScript","license":{"spdxId":"NOASSERTION"},"createdAt":"2024-11-05T15:38:16Z","pushedAt":"2026-11-22T21:41:59Z","archived":false,"owner":{"login":"enzomanuelmangano","name":"Enzo Manuel Mangano","type":"User","url":"https://github.com/enzomanuelmangano","location":"Milan, Italy","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
   {"rank":100,"id":"MDEwOlJlcG9zaXRvcnkxNjM1MDU2OTE=","name":"kitty-themes","nameWithOwner":"dexpota/kitty-themes","url":"https://github.com/dexpota/kitty-themes","description":"A collection of themes for kitty terminal 😻","stars":3207,"forks":214,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2018-12-29T11:28:24Z","pushedAt":"2026-09-16T15:37:14Z","archived":false,"owner":{"login":"dexpota","name":"Fabrizio Destro","type":"User","url":"https://github.com/dexpota","location":"Italy","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "1644378666f5674a",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "37fbb60bd6524b2a",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

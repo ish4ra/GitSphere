@@ -5,13 +5,15 @@
 "country": {"code":"LI","name":"Liechtenstein","slug":"liechtenstein"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":3,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":2,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjg4MzcyOTk0","login":"AHaldner","name":"Andrin Haldner","url":"https://github.com/AHaldner","avatarUrl":"https://avatars.githubusercontent.com/u/88372994?s=80&v=4","followers":5,"publicRepos":26,"location":"Liechtenstein","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"U_kgDOC6Zp6A","login":"502BadGatewayFL","name":"502 Bad Gateway","url":"https://github.com/502BadGatewayFL","avatarUrl":"https://avatars.githubusercontent.com/u/195455464?s=80&v=4","followers":3,"publicRepos":5,"location":"Liechtenstein","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"MDQ6VXNlcjYyNDA3MDE0","login":"Akinou","name":"Akan","url":"https://github.com/Akinou","avatarUrl":"https://avatars.githubusercontent.com/u/62407014?s=80&v=4","followers":6,"publicRepos":57,"location":"Liechtenstein","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":2,"id":"MDQ6VXNlcjg4MzcyOTk0","login":"AHaldner","name":"Andrin Haldner","url":"https://github.com/AHaldner","avatarUrl":"https://avatars.githubusercontent.com/u/88372994?s=80&v=4","followers":5,"publicRepos":26,"location":"Liechtenstein","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"U_kgDOC6Zp6A","login":"502BadGatewayFL","name":"502 Bad Gateway","url":"https://github.com/502BadGatewayFL","avatarUrl":"https://avatars.githubusercontent.com/u/195455464?s=80&v=4","followers":3,"publicRepos":5,"location":"Liechtenstein","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"MDQ6VXNlcjk0Njc3NTc=","login":"alexmoldovanbv","name":"Alexandru Moldovan","url":"https://github.com/alexmoldovanbv","avatarUrl":"https://avatars.githubusercontent.com/u/9467757?s=80&v=4","followers":2,"publicRepos":9,"location":"Vaduz, Liechtenstein","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "a9acb78c12d0ceff",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "33e96eedeba9a22a",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

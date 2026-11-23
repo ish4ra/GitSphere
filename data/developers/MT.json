@@ -5,14 +5,19 @@
 "country": {"code":"MT","name":"Malta","slug":"malta"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":609,"candidates":3,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":296,"candidates":8,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjgyMzQy","login":"ripienaar","name":"R.I.Pienaar","url":"https://github.com/ripienaar","avatarUrl":"https://avatars.githubusercontent.com/u/82342?s=80&v=4","followers":4062,"publicRepos":138,"location":"Malta","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjQ5NTM2NTI5","login":"CarlBugeja","name":"Carl Bugeja","url":"https://github.com/CarlBugeja","avatarUrl":"https://avatars.githubusercontent.com/u/49536529?s=80&v=4","followers":660,"publicRepos":14,"location":"Malta","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":3,"id":"MDQ6VXNlcjM1MjQyODcy","login":"nothingismagick","name":null,"url":"https://github.com/nothingismagick","avatarUrl":"https://avatars.githubusercontent.com/u/35242872?s=80&v=4","followers":609,"publicRepos":113,"location":"Malta","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":3,"id":"MDQ6VXNlcjM1MjQyODcy","login":"nothingismagick","name":null,"url":"https://github.com/nothingismagick","avatarUrl":"https://avatars.githubusercontent.com/u/35242872?s=80&v=4","followers":609,"publicRepos":113,"location":"Malta","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"MDQ6VXNlcjE1OTc0MzIw","login":"ChintanTrivedi","name":"Chintan Trivedi","url":"https://github.com/ChintanTrivedi","avatarUrl":"https://avatars.githubusercontent.com/u/15974320?s=80&v=4","followers":553,"publicRepos":12,"location":"University of Malta","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":5,"id":"MDQ6VXNlcjY2MDc2OTkx","login":"ethernity-cloud","name":"Ethernity CLOUD","url":"https://github.com/ethernity-cloud","avatarUrl":"https://avatars.githubusercontent.com/u/66076991?s=80&v=4","followers":523,"publicRepos":16,"location":"St. Julians, Malta","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":6,"id":"MDQ6VXNlcjE1NTk3NTY=","login":"xiaocong","name":"xiaocong","url":"https://github.com/xiaocong","avatarUrl":"https://avatars.githubusercontent.com/u/1559756?s=80&v=4","followers":475,"publicRepos":94,"location":"Malta","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":7,"id":"MDQ6VXNlcjc3MDgwMzE=","login":"camilamacedo86","name":"Camila Macedo","url":"https://github.com/camilamacedo86","avatarUrl":"https://avatars.githubusercontent.com/u/7708031?s=80&v=4","followers":445,"publicRepos":60,"location":"Malta","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":8,"id":"MDQ6VXNlcjExNzk2Ng==","login":"mbj","name":"Markus Schirp","url":"https://github.com/mbj","avatarUrl":"https://avatars.githubusercontent.com/u/117966?s=80&v=4","followers":296,"location":"Malta","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "ff974599ed891bb5",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "97e3ecb05c6c99db",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

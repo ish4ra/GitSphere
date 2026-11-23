@@ -5,13 +5,15 @@
 "country": {"code":"FJ","name":"Fiji","slug":"fiji"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":3,"measurementBacklog":397,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":32,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":5,"measurementBacklog":395,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":32,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjI5MDMxNzE1","login":"heyyyss","name":"heyyy","url":"https://github.com/heyyyss","avatarUrl":"https://avatars.githubusercontent.com/u/29031715?s=80&v=4","followers":9,"publicRepos":144,"location":"588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":102,"commits":5,"pullRequests":0,"reviews":0,"issues":0,"repositories":97,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":2,"id":"MDQ6VXNlcjMwMzI0NjM=","login":"xizil","name":"sam","url":"https://github.com/xizil","avatarUrl":"https://avatars.githubusercontent.com/u/3032463?s=80&v=4","followers":1,"publicRepos":254,"location":"0466 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":100,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":100,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":2,"id":"MDQ6VXNlcjMwMzI0NjM=","login":"xizil","name":"sam","url":"https://github.com/xizil","avatarUrl":"https://avatars.githubusercontent.com/u/3032463?s=80&v=4","followers":1,"publicRepos":254,"location":"0466 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":100,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":100,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":3,"id":"MDQ6VXNlcjE1NzE1NTg0","login":"Iapa","name":"Ava Niu","url":"https://github.com/Iapa","avatarUrl":"https://avatars.githubusercontent.com/u/15715584?s=80&v=4","followers":38,"publicRepos":132,"location":"0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":48,"commits":31,"pullRequests":3,"reviews":0,"issues":1,"repositories":13,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":4,"id":"MDQ6VXNlcjE5NTQ2Mzcx","login":"lei1996","name":"lei1996","url":"https://github.com/lei1996","avatarUrl":"https://avatars.githubusercontent.com/u/19546371?s=80&v=4","followers":9,"publicRepos":141,"location":"0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":2,"commits":0,"pullRequests":1,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "fc91d8f6fe567e7d",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "27f645e41160ff19",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **65** | 22 Nov 2026 | <a href="../data/RU.json">JSON</a> |
+| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/RU.json">JSON</a> |
 
 </div>
 
@@ -476,15 +476,260 @@
 <td align="right">496</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">66</td>
+<td><img src="https://github.com/Prototik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Prototik/HoloEverywhere"><b>Prototik/HoloEverywhere</b></a> <sub>archived</sub><br><sub>NO LONGER MAINTAINED. DEVELOP FOR 4.X+ DUDE.</sub></td>
+<td align="right"><b>2,202</b></td>
+<td align="right">589</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><img src="https://github.com/Imangazaliev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Imangazaliev/DiDOM"><b>Imangazaliev/DiDOM</b></a><br><sub>Simple and fast HTML and XML parser</sub></td>
+<td align="right"><b>2,191</b></td>
+<td align="right">196</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><img src="https://github.com/dreddsa5dies.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dreddsa5dies/goHackTools"><b>dreddsa5dies/goHackTools</b></a><br><sub>Hacker tools on Go (Golang)</sub></td>
+<td align="right"><b>2,190</b></td>
+<td align="right">373</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><img src="https://github.com/KEV0143.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KEV0143/KEV0143"><b>KEV0143/KEV0143</b></a><br><sub>⚡ Первоначальный блок GitHub</sub></td>
+<td align="right"><b>2,156</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/red-prig.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/red-prig/fpPS4"><b>red-prig/fpPS4</b></a><br><sub>PS4 compatibility layer (emulator) on Free Pascal</sub></td>
+<td align="right"><b>2,127</b></td>
+<td align="right">152</td>
+<td>Pascal</td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/milabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/milabs/awesome-linux-rootkits"><b>milabs/awesome-linux-rootkits</b></a><br><sub>awesome-linux-rootkits</sub></td>
+<td align="right"><b>2,117</b></td>
+<td align="right">264</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><img src="https://github.com/KEV0143.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KEV0143/Telegram-MedicalBot"><b>KEV0143/Telegram-MedicalBot</b></a><br><sub>Система поддержки пользователей в Telegram: обработка пользовательских вопросов через тикет-систему и генерация ответов…</sub></td>
+<td align="right"><b>2,109</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><img src="https://github.com/shivaya-dav.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shivaya-dav/DogeRat"><b>shivaya-dav/DogeRat</b></a><br><sub>A multifunctional Telegram based Android RAT without port forwarding.</sub></td>
+<td align="right"><b>2,108</b></td>
+<td align="right">1,735</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/VladislavEremeev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/VladislavEremeev/QA_bible"><b>VladislavEremeev/QA&#95;bible</b></a><br><sub>“Библия QA” - это обновляемая база знаний объемом 560+ страниц</sub></td>
+<td align="right"><b>2,108</b></td>
+<td align="right">722</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/mpeterv.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mpeterv/luacheck"><b>mpeterv/luacheck</b></a><br><sub>A tool for linting and static analysis of Lua code.</sub></td>
+<td align="right"><b>2,056</b></td>
+<td align="right">336</td>
+<td>Lua</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/KEV0143.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KEV0143/Telegram-Software-SMM"><b>KEV0143/Telegram-Software-SMM</b></a><br><sub>Универсальная SMM-платформа для Telegram: сегментированные рассылки, интеллектуальная проверка пользователей, автоматиз…</sub></td>
+<td align="right"><b>2,044</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/pConst.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pConst/basic_verilog"><b>pConst/basic&#95;verilog</b></a><br><sub>Must-have verilog systemverilog modules</sub></td>
+<td align="right"><b>2,035</b></td>
+<td align="right">423</td>
+<td>Verilog</td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/tazjin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tazjin/nixery"><b>tazjin/nixery</b></a><br><sub>Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.…</sub></td>
+<td align="right"><b>2,023</b></td>
+<td align="right">81</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/unlight.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/unlight/tailwind-components"><b>unlight/tailwind-components</b></a><br><sub>Collection of components found on the internet</sub></td>
+<td align="right"><b>2,020</b></td>
+<td align="right">231</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/nsf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nsf/termbox"><b>nsf/termbox</b></a><br><sub>Library for writing text-based user interfaces</sub></td>
+<td align="right"><b>2,004</b></td>
+<td align="right">186</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/mancj.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mancj/MaterialSearchBar"><b>mancj/MaterialSearchBar</b></a><br><sub>Material Design Search Bar for Android</sub></td>
+<td align="right"><b>2,002</b></td>
+<td align="right">322</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/KEV0143.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KEV0143/Parser-Chitai-Gorod"><b>KEV0143/Parser-Chitai-Gorod</b></a><br><sub>Интеллектуальный парсер для каталога «Читай-город». Высокоскоростной сбор и структурирование данных по любым заданным п…</sub></td>
+<td align="right"><b>1,979</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><img src="https://github.com/RD17.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RD17/ambar"><b>RD17/ambar</b></a> <sub>archived</sub><br><sub>:mag: Ambar: Document Search Engine</sub></td>
+<td align="right"><b>1,944</b></td>
+<td align="right">362</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><img src="https://github.com/m4dEngi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/m4dEngi/RemotePlayWhatever"><b>m4dEngi/RemotePlayWhatever</b></a><br><sub>Tiny application that lets you force remote play together any game you have in your steam library including non-steam o…</sub></td>
+<td align="right"><b>1,939</b></td>
+<td align="right">69</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">85</td>
+<td><img src="https://github.com/rekryt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rekryt/iplist"><b>rekryt/iplist</b></a><br><sub>IP Address Collection and Management Service with multiple output formats: mikrotik, json, text, ipset, nfset, clashx,…</sub></td>
+<td align="right"><b>1,939</b></td>
+<td align="right">59</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/massivemadness.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/massivemadness/Squircle-CE"><b>massivemadness/Squircle-CE</b></a><br><sub>👨💻 Squircle CE is a fast and free multi-language code editor for Android</sub></td>
+<td align="right"><b>1,906</b></td>
+<td align="right">172</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><img src="https://github.com/ktaranov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ktaranov/naming-convention"><b>ktaranov/naming-convention</b></a><br><sub>Templates for naming convention - TSQL, JavaScript, C#, R, Python, Powershell</sub></td>
+<td align="right"><b>1,884</b></td>
+<td align="right">526</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><img src="https://github.com/nmikhailov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nmikhailov/Validity90"><b>nmikhailov/Validity90</b></a><br><sub>Reverse engineering of Validity/Synaptics 138a:0090, 138a:0094, 138a:0097, 06cb:0081, 06cb:009a fingerprint readers pro…</sub></td>
+<td align="right"><b>1,875</b></td>
+<td align="right">113</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><img src="https://github.com/KEV0143.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KEV0143/MIREA_Procedural-programming"><b>KEV0143/MIREA&#95;Procedural-programming</b></a><br><sub>🔥 Процедурное программирование, 1 семестр, РТУ МИРЭА</sub></td>
+<td align="right"><b>1,861</b></td>
+<td align="right">0</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><img src="https://github.com/KEV0143.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KEV0143/Direct-memory-access-CS2-DMA"><b>KEV0143/Direct-memory-access-CS2-DMA</b></a><br><sub>Low-level Direct Memory Access (DMA) framework for CS2, designed for memory acquisition, entity-state parsing, synchron…</sub></td>
+<td align="right"><b>1,854</b></td>
+<td align="right">5</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/n0a.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/n0a/telegram-get-remote-ip"><b>n0a/telegram-get-remote-ip</b></a><br><sub>Get IP address on other side audio call in Telegram.</sub></td>
+<td align="right"><b>1,849</b></td>
+<td align="right">220</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/shuchkin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shuchkin/simplexlsx"><b>shuchkin/simplexlsx</b></a><br><sub>Parse and retrieve data from Excel XLSx files</sub></td>
+<td align="right"><b>1,829</b></td>
+<td align="right">483</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/HoShiMin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HoShiMin/Kernel-Bridge"><b>HoShiMin/Kernel-Bridge</b></a><br><sub>Windows kernel hacking framework, driver template, hypervisor and API written on C++</sub></td>
+<td align="right"><b>1,825</b></td>
+<td align="right">400</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/KEV0143.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KEV0143/Education-Rating-System"><b>KEV0143/Education-Rating-System</b></a><br><sub>Информационная система для поддержки образовательного процесса, обеспечивающая создание и администрирование учебных кур…</sub></td>
+<td align="right"><b>1,823</b></td>
+<td align="right">1</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/OBenner.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/OBenner/data-engineering-interview-questions"><b>OBenner/data-engineering-interview-questions</b></a><br><sub>More than 2000+ Data engineer interview questions.</sub></td>
+<td align="right"><b>1,817</b></td>
+<td align="right">580</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/strongself.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/strongself/Generamba"><b>strongself/Generamba</b></a><br><sub>This codegenerator is too brilliant to be real!</sub></td>
+<td align="right"><b>1,805</b></td>
+<td align="right">176</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/mishamyrt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mishamyrt/Lilex"><b>mishamyrt/Lilex</b></a><br><sub>🤘Open source programming font</sub></td>
+<td align="right"><b>1,804</b></td>
+<td align="right">26</td>
+<td>Astro</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/disintegration.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/disintegration/gift"><b>disintegration/gift</b></a><br><sub>Go Image Filtering Toolkit</sub></td>
+<td align="right"><b>1,798</b></td>
+<td align="right">125</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/vm03.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vm03/payload_dumper"><b>vm03/payload&#95;dumper</b></a><br><sub>Android OTA payload dumper</sub></td>
+<td align="right"><b>1,797</b></td>
+<td align="right">323</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/yandexdataschool.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yandexdataschool/Practical_DL"><b>yandexdataschool/Practical&#95;DL</b></a><br><sub>DL course co-developed by YSDA, HSE and Skoltech</sub></td>
+<td align="right"><b>1,789</b></td>
+<td align="right">658</td>
+<td>Jupyter Notebook</td>
+</tr>
 </tbody>
 </table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 2,235 stars; 65 attributed candidates are tracked.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 1,789 stars; 125 attributed candidates are tracked.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

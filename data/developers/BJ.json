@@ -5,12 +5,16 @@
 "country": {"code":"BJ","name":"Benin","slug":"benin"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":2196,"candidates":1,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":86,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":439,"candidates":5,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":86,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjI0MzIzNTgx","login":"JideGuru","name":"Festus Olusegun","url":"https://github.com/JideGuru","avatarUrl":"https://avatars.githubusercontent.com/u/24323581?s=80&v=4","followers":2196,"publicRepos":105,"location":"Cotonou, Benin.","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"MDQ6VXNlcjI0MzIzNTgx","login":"JideGuru","name":"Festus Olusegun","url":"https://github.com/JideGuru","avatarUrl":"https://avatars.githubusercontent.com/u/24323581?s=80&v=4","followers":2196,"publicRepos":105,"location":"Cotonou, Benin.","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-23"},
+  {"rank":2,"id":"U_kgDODVVCDQ","login":"yusions","name":"not very active rn / check new strawp","url":"https://github.com/yusions","avatarUrl":"https://avatars.githubusercontent.com/u/223691277?s=80&v=4","followers":562,"publicRepos":1,"location":"・・・・・ hi im ley / cinna / holli","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23"},
+  {"rank":3,"id":"U_kgDOB_FIBg","login":"AvineDev","name":"Avine Dev","url":"https://github.com/AvineDev","avatarUrl":"https://avatars.githubusercontent.com/u/133253126?s=80&v=4","followers":463,"publicRepos":8,"location":"Benin","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-23"},
+  {"rank":4,"id":"U_kgDODEODbg","login":"rakviyem","name":"the entity's #1 fan","url":"https://github.com/rakviyem","avatarUrl":"https://avatars.githubusercontent.com/u/205751150?s=80&v=4","followers":455,"publicRepos":1,"location":"almost always (semi) near the bakery.","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23"},
+  {"rank":5,"id":"U_kgDOBp9EPQ","login":"Houessou1","name":"François-Xavier ALLA HOUESSOU","url":"https://github.com/Houessou1","avatarUrl":"https://avatars.githubusercontent.com/u/111100989?s=80&v=4","followers":439,"publicRepos":11,"location":"Benin 🇧🇯","attribution":{"confidence":"high","evidence":"flag-emoji"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "9179ef8dd3bfd0dd",
-"updatedAt": "2026-11-22T11:14:57.063Z",
-"verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"contentHash": "299243121a64f0ad",
+"updatedAt": "2026-11-23T03:24:49.438Z",
+"verifiedOn": "2026-11-23",
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

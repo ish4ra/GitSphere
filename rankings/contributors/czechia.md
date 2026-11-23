@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/CZ.json">JSON</a> |
+| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/CZ.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,24 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/Youssef1313"><img src="https://avatars.githubusercontent.com/u/31348972?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Youssef1313"><b>Youssef Fahmy</b></a><br><sub>&#64;Youssef1313 · 431 followers</sub></td>
+<td align="right"><b>2,309</b></td>
+<td align="right">823</td>
+<td align="right">534</td>
+<td align="right">676</td>
+<td align="right">233</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/encukou"><img src="https://avatars.githubusercontent.com/u/302922?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/encukou"><b>Petr Viktorin</b></a><br><sub>&#64;encukou · 433 followers</sub></td>
+<td align="right"><b>1,170</b></td>
+<td align="right">498</td>
+<td align="right">280</td>
+<td align="right">311</td>
+<td align="right">71</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/icebeam7"><img src="https://avatars.githubusercontent.com/u/6038239?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/icebeam7"><b>Luis Beltran</b></a><br><sub>&#64;icebeam7 · 591 followers</sub></td>
 <td align="right"><b>370</b></td>
 <td align="right">291</td>
@@ -51,7 +69,7 @@
 <td align="right">9</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">6</td>
 <td><a href="https://github.com/catalinmiron"><img src="https://avatars.githubusercontent.com/u/2805320?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/catalinmiron"><b>Catalin Miron</b></a><br><sub>&#64;catalinmiron · 2,862 followers</sub></td>
 <td align="right"><b>83</b></td>
 <td align="right">79</td>
@@ -66,7 +84,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 4 of 455 discovered developers (451 awaiting measurement).
+- **Measured:** 6 of 484 discovered developers (478 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 178 in round 1.

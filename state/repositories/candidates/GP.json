@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"GP","name":"Guadeloupe","slug":"guadeloupe"},
-"count": 149,
+"count": 148,
 "repositories": [
-  {"name":"sboli/twmn","stars":533,"forks":46,"language":"C++","license":"LGPL-3.0","archived":false,"createdAt":"2011-08-16T18:17:09Z","pushedAt":"2025-10-23T11:07:05Z","owner":{"login":"sboli","type":"User","name":"Bolivar Stephen","location":"Guadeloupe"},"attribution":{"code":"GP","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:37.145Z","id":"legacy:sboli/twmn","legacy":true},
   {"name":"sarinkhan/openWheel","stars":32,"forks":2,"language":"OpenSCAD","license":"GPL-3.0","archived":false,"createdAt":"2016-04-17T18:15:50Z","pushedAt":"2021-03-30T22:56:58Z","owner":{"login":"sarinkhan","type":"User","name":"Audrey Robinel","location":"Guadeloupe"},"attribution":{"code":"GP","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:37.145Z","id":"legacy:sarinkhan/openwheel","legacy":true},
   {"name":"teddy-dubal/weez-zpl","stars":26,"forks":10,"language":"PHP","archived":false,"createdAt":"2016-07-15T00:07:12Z","pushedAt":"2023-07-29T01:02:17Z","owner":{"login":"teddy-dubal","type":"User","name":"Teddy","location":"Guadeloupe"},"attribution":{"code":"GP","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:37.145Z","id":"legacy:teddy-dubal/weez-zpl","legacy":true},
   {"name":"GwadaLUG/pico-read-speaker","stars":22,"forks":13,"language":"Python","license":"GPL-3.0","archived":false,"createdAt":"2014-02-11T13:39:02Z","pushedAt":"2020-12-31T17:21:35Z","owner":{"login":"GwadaLUG","type":"Organization","name":"GwadaLUG","location":"Guadeloupe (French West Indies)"},"attribution":{"code":"GP","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:37.145Z","id":"legacy:gwadalug/pico-read-speaker","legacy":true},

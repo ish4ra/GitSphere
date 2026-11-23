@@ -1,8 +1,9 @@
 {
 "schemaVersion": 3,
 "country": {"code":"GF","name":"French Guiana","slug":"french-guiana"},
-"count": 66,
+"count": 67,
 "repositories": [
+  {"id":"MDEwOlJlcG9zaXRvcnkzODg4NDAzNTE=","name":"Equim-chan/Mortal","stars":1620,"forks":235,"language":"Rust","license":"AGPL-3.0","description":"🚀🀄️ A fast and strong AI for riichi mahjong, powered by Rust and deep reinforcement learning.","archived":false,"createdAt":"2021-07-23T15:08:48Z","pushedAt":"2025-09-28T14:29:24Z","owner":{"id":"MDQ6VXNlcjE3Nzk1ODQ1","login":"Equim-chan","type":"User","name":"Equim","location":"GF(2)"},"attribution":{"code":"GF","confidence":"medium","evidence":"country-code"},"seenAt":"2026-11-23T02:52:32.174Z","verifiedAt":"2026-11-23T02:52:32.174Z","cycle":1},
   {"name":"drainerw/Advanced-Family-Personal-Warehouse-Storage-RedAge-v3-","stars":19,"forks":0,"language":"C#","archived":false,"createdAt":"2026-04-20T09:30:36Z","pushedAt":"2026-06-18T16:20:57Z","owner":{"login":"drainerw","type":"User","location":"French Guiana"},"attribution":{"code":"GF","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T06:23:53.151Z","id":"legacy:drainerw/advanced-family-personal-warehouse-storage-redage-v3-","legacy":true},
   {"name":"Xeiron/sndfile.rs","stars":10,"forks":7,"language":"Rust","license":"MIT","archived":false,"createdAt":"2020-04-05T16:45:15Z","pushedAt":"2023-04-02T07:09:50Z","owner":{"login":"Xeiron","type":"Organization","name":"Xeiron Industries Co., Ltd","location":"Carbet Toukan, French Guiana"},"attribution":{"code":"GF","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T06:23:53.151Z","id":"legacy:xeiron/sndfile.rs","legacy":true},
   {"name":"Primo-Studio/openclaw-memoria","stars":7,"forks":1,"language":"TypeScript","license":"Apache-2.0","archived":false,"createdAt":"2026-03-25T18:47:34Z","pushedAt":"2026-08-31T12:11:30Z","owner":{"login":"Primo-Studio","type":"Organization","name":"Primo Studio","location":"French Guiana"},"attribution":{"code":"GF","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T06:23:53.151Z","id":"legacy:primo-studio/openclaw-memoria","legacy":true},

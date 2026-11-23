@@ -5,13 +5,15 @@
 "country": {"code":"ML","name":"Mali","slug":"mali"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDOCh-yAw","login":"abbgoesghost","name":"Aboubacar","url":"https://github.com/abbgoesghost","avatarUrl":"https://avatars.githubusercontent.com/u/169849347?s=80&v=4","followers":9,"publicRepos":6,"location":"Mali","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"MDQ6VXNlcjYxMjMxNzQy","login":"1963-a11y","name":"Adama SANOGO","url":"https://github.com/1963-a11y","avatarUrl":"https://avatars.githubusercontent.com/u/61231742?s=80&v=4","followers":0,"publicRepos":2,"location":"Mali","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"MDQ6VXNlcjY5MTM4NjI1","login":"Abbv75","name":"Younouss Boré","url":"https://github.com/Abbv75","avatarUrl":"https://avatars.githubusercontent.com/u/69138625?s=80&v=4","followers":12,"publicRepos":55,"location":"Bamako, telecel GBS","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-23"},
+  {"rank":2,"id":"U_kgDOCh-yAw","login":"abbgoesghost","name":"Aboubacar","url":"https://github.com/abbgoesghost","avatarUrl":"https://avatars.githubusercontent.com/u/169849347?s=80&v=4","followers":9,"publicRepos":6,"location":"Mali","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"U_kgDODcxLQQ","login":"abdelkane-dev","name":"Aken","url":"https://github.com/abdelkane-dev","avatarUrl":"https://avatars.githubusercontent.com/u/231492417?s=80&v=4","followers":3,"publicRepos":8,"location":"Bamako, Mali","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-23"},
+  {"rank":4,"id":"MDQ6VXNlcjYxMjMxNzQy","login":"1963-a11y","name":"Adama SANOGO","url":"https://github.com/1963-a11y","avatarUrl":"https://avatars.githubusercontent.com/u/61231742?s=80&v=4","followers":0,"publicRepos":2,"location":"Mali","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "30d85b18b6bfdace",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "b32e04c6f898020e",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

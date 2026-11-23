@@ -5,13 +5,14 @@
 "country": {"code":"MA","name":"Morocco","slug":"morocco"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":406,"measuredAccounts":2,"measurementBacklog":404,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":409,"measuredAccounts":4,"measurementBacklog":405,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjIzOTQ3MDM=","login":"seuros","name":"Abdelkader Boudih","url":"https://github.com/seuros","avatarUrl":"https://avatars.githubusercontent.com/u/2394703?s=80&v=4","followers":652,"publicRepos":511,"location":"Tangier, Morocco","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":7048,"commits":5920,"pullRequests":941,"reviews":73,"issues":21,"repositories":91,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":2,"id":"MDQ6VXNlcjExMTM3OTQ0","login":"yjose","name":"Youssouf EL AZIZI","url":"https://github.com/yjose","avatarUrl":"https://avatars.githubusercontent.com/u/11137944?s=80&v=4","followers":1135,"publicRepos":94,"location":"Casablanca, Morocco","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":144,"commits":123,"pullRequests":17,"reviews":2,"issues":1,"repositories":1,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":2,"id":"MDQ6VXNlcjMzMTI2Njg1","login":"ali-eljerrari","name":"Ali_Eljerrari","url":"https://github.com/ali-eljerrari","avatarUrl":"https://avatars.githubusercontent.com/u/33126685?s=80&v=4","followers":582,"publicRepos":342,"location":"Morocco","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":205,"commits":22,"pullRequests":132,"reviews":0,"issues":2,"repositories":49,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":3,"id":"MDQ6VXNlcjExMTM3OTQ0","login":"yjose","name":"Youssouf EL AZIZI","url":"https://github.com/yjose","avatarUrl":"https://avatars.githubusercontent.com/u/11137944?s=80&v=4","followers":1135,"publicRepos":94,"location":"Casablanca, Morocco","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":144,"commits":123,"pullRequests":17,"reviews":2,"issues":1,"repositories":1,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "6a6628e2fa1dc180",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "f78a67d4e720d2f5",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

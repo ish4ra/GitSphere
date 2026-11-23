@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/developers/ZW.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/ZW.json">JSON</a> |
 
 </div>
 
@@ -38,9 +38,16 @@
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/nelsonnzou-crypt"><img src="https://avatars.githubusercontent.com/u/259183177?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nelsonnzou-crypt"><b>Tapiwanashe Nelson Nzou</b></a><br><sub>&#64;nelsonnzou-crypt</sub></td>
-<td align="right"><b>607</b></td>
+<td align="right"><b>606</b></td>
 <td align="right">43</td>
 <td><sub>Zimbabwe</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/KnowledgeSeeker101-bit"><img src="https://avatars.githubusercontent.com/u/102947003?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KnowledgeSeeker101-bit"><b>Nyashadzaishe Masvongo</b></a><br><sub>&#64;KnowledgeSeeker101-bit</sub></td>
+<td align="right"><b>465</b></td>
+<td align="right">9</td>
+<td><sub>harare Zimbabwe</sub></td>
 </tr>
 </tbody>
 </table>
@@ -50,7 +57,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 3 attributed developers are tracked; the cutoff is 607 followers.
+- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 465 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

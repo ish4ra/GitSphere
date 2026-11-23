@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/CM.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/developers/CM.json">JSON</a> |
 
 </div>
 
@@ -49,6 +49,27 @@
 <td align="right">129</td>
 <td><sub>Cameroon</sub></td>
 </tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/bonzum"><img src="https://avatars.githubusercontent.com/u/42089624?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bonzum"><b>Mark legend</b></a><br><sub>&#64;bonzum</sub></td>
+<td align="right"><b>553</b></td>
+<td align="right">12</td>
+<td><sub>Cameroon</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/Arielpetit"><img src="https://avatars.githubusercontent.com/u/111531313?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Arielpetit"><b>arielpetit</b></a><br><sub>&#64;Arielpetit</sub></td>
+<td align="right"><b>526</b></td>
+<td align="right">68</td>
+<td><sub>cameroon</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/djonmaila"><img src="https://avatars.githubusercontent.com/u/165961723?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/djonmaila"><b>DJONMAILA PYTHAGORE</b></a><br><sub>&#64;djonmaila</sub></td>
+<td align="right"><b>490</b></td>
+<td align="right">14</td>
+<td><sub>Cameroon</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -57,7 +78,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 699 followers.
+- Organizations are excluded. 7 attributed developers are tracked; the cutoff is 490 followers.
 - **Location discovery:** term 0 of 115 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

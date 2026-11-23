@@ -5,13 +5,15 @@
 "country": {"code":"KG","name":"Kyrgyzstan","slug":"kyrgyzstan"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":690,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":4,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":89,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjc5MjQ1MTc0","login":"temirovazat","name":"Temirov Azat","url":"https://github.com/temirovazat","avatarUrl":"https://avatars.githubusercontent.com/u/79245174?s=80&v=4","followers":2216,"publicRepos":18,"location":"Bishkek, Kyrgyzstan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"MDQ6VXNlcjE0NDUxMg==","login":"SergeyBiryukov","name":"Sergey Biryukov","url":"https://github.com/SergeyBiryukov","avatarUrl":"https://avatars.githubusercontent.com/u/144512?s=80&v=4","followers":690,"publicRepos":40,"location":"Bishkek, Kyrgyzstan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+  {"rank":2,"id":"MDQ6VXNlcjE0NDUxMg==","login":"SergeyBiryukov","name":"Sergey Biryukov","url":"https://github.com/SergeyBiryukov","avatarUrl":"https://avatars.githubusercontent.com/u/144512?s=80&v=4","followers":690,"publicRepos":40,"location":"Bishkek, Kyrgyzstan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"MDQ6VXNlcjU3MDg2Mjg2","login":"0iskak","name":"Iskak","url":"https://github.com/0iskak","avatarUrl":"https://avatars.githubusercontent.com/u/57086286?s=80&v=4","followers":0,"publicRepos":44,"location":"Bishkek, Kyrgyzstan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":4,"id":"U_kgDOCljvGA","login":"0mnitrix","name":"iskener","url":"https://github.com/0mnitrix","avatarUrl":"https://avatars.githubusercontent.com/u/173600536?s=80&v=4","followers":0,"publicRepos":7,"location":"Kyrgyzstan. Bishkek","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "4c8bc5985116b8c0",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "5fa49c0bdcc3242d",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

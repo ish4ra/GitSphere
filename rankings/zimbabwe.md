@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | :---: |
 | 🟠 Stale | **100** | 16 Oct 2026 | <a href="../data/ZW.json">JSON</a> |
 
-> **Not yet re-verified.** 100 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 99 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -25,10 +25,10 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><img src="https://github.com/mrxdking.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mrxdking/star-xd"><b>mrxdking/star-xd</b></a></td>
-<td align="right"><b>629</b></td>
-<td align="right">1,389</td>
-<td>Python</td>
+<td><img src="https://github.com/MalvinTechInfo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MalvinTechInfo/MALVIN-XD"><b>MalvinTechInfo/MALVIN-XD</b></a><br><sub>MALVIN XD Whatsapp Bot &#124; World Best Whatsapp Bot &#124; Made In Zimbabwe ɓy Malvin King</sub></td>
+<td align="right"><b>1,590</b></td>
+<td align="right">3,754</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">2</td>
@@ -732,7 +732,7 @@
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 1 stars; 149 attributed candidates are tracked.
-- 100 entries were carried over from the previous dataset and are pending revalidation.
+- 99 entries were carried over from the previous dataset and are pending revalidation.
 - 150 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

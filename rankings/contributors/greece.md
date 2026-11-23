@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/contributors/GR.json">JSON</a> |
+| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/contributors/GR.json">JSON</a> |
 
 </div>
 
@@ -32,6 +32,24 @@
 <td align="right">114</td>
 <td align="right">97</td>
 </tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/mandarini"><img src="https://avatars.githubusercontent.com/u/6603745?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mandarini"><b>Katerina Skroumpelou</b></a><br><sub>&#64;mandarini · 551 followers</sub></td>
+<td align="right"><b>2,377</b></td>
+<td align="right">950</td>
+<td align="right">574</td>
+<td align="right">821</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/EleftheriaBatsou"><img src="https://avatars.githubusercontent.com/u/17240273?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EleftheriaBatsou"><b>Eleftheria Batsou</b></a><br><sub>&#64;EleftheriaBatsou · 808 followers</sub></td>
+<td align="right"><b>109</b></td>
+<td align="right">53</td>
+<td align="right">26</td>
+<td align="right">1</td>
+<td align="right">3</td>
+</tr>
 </tbody>
 </table>
 
@@ -39,10 +57,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 2 of 413 discovered developers (411 awaiting measurement).
+- **Measured:** 4 of 420 discovered developers (416 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 149 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

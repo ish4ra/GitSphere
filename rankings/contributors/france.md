@@ -14,17 +14,35 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/contributors/FR.json">JSON</a> |
+| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/contributors/FR.json">JSON</a> |
 
 </div>
 
-<p align="center"><sub>Public contributions from <b>22 Nov 2025</b> to <b>22 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
+<p align="center"><sub>Public contributions from <b>23 Nov 2025</b> to <b>23 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
 
 <table>
 <thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Public contributions</th><th align="right">Commits</th><th align="right">PRs</th><th align="right">Reviews</th><th align="right">Issues</th></tr></thead>
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/stof"><img src="https://avatars.githubusercontent.com/u/439401?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stof"><b>Christophe Coevoet</b></a><br><sub>&#64;stof · 2,144 followers</sub></td>
+<td align="right"><b>1,574</b></td>
+<td align="right">313</td>
+<td align="right">134</td>
+<td align="right">972</td>
+<td align="right">131</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/Haroenv"><img src="https://avatars.githubusercontent.com/u/6270048?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Haroenv"><b>Haroen Viaene</b></a><br><sub>&#64;Haroenv · 633 followers</sub></td>
+<td align="right"><b>1,163</b></td>
+<td align="right">629</td>
+<td align="right">177</td>
+<td align="right">347</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/noraj"><img src="https://avatars.githubusercontent.com/u/16578570?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/noraj"><b>Alexandre ZANNI</b></a><br><sub>&#64;noraj · 2,412 followers</sub></td>
 <td align="right"><b>823</b></td>
 <td align="right">426</td>
@@ -39,7 +57,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 2 of 489 discovered developers (487 awaiting measurement).
+- **Measured:** 4 of 733 discovered developers (729 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 195 in round 1.

@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **100** | 16 Oct 2026 | <a href="../data/AT.json">JSON</a> |
-
-> **Not yet re-verified.** 8 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/AT.json">JSON</a> |
 
 </div>
 
@@ -669,59 +667,59 @@
 </tr>
 <tr>
 <td align="right">93</td>
-<td><img src="https://github.com/NeuralNine.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NeuralNine/youtube-tutorials"><b>NeuralNine/youtube-tutorials</b></a></td>
-<td align="right"><b>739</b></td>
-<td align="right">266</td>
-<td>Jupyter Notebook</td>
+<td><img src="https://github.com/NX-AI.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NX-AI/xlstm"><b>NX-AI/xlstm</b></a><br><sub>Official repository of the xLSTM.</sub></td>
+<td align="right"><b>2,219</b></td>
+<td align="right">188</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">94</td>
-<td><img src="https://github.com/nimaltd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nimaltd/spif"><b>nimaltd/spif</b></a></td>
-<td align="right"><b>719</b></td>
-<td align="right">174</td>
-<td>C</td>
+<td><img src="https://github.com/fr3ts0n.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fr3ts0n/AndrOBD"><b>fr3ts0n/AndrOBD</b></a><br><sub>Android OBD diagnostics with any ELM327 adapter</sub></td>
+<td align="right"><b>2,202</b></td>
+<td align="right">427</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">95</td>
-<td><img src="https://github.com/Grarak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Grarak/KernelAdiutor"><b>Grarak/KernelAdiutor</b></a> <sub>archived</sub></td>
-<td align="right"><b>632</b></td>
-<td align="right">369</td>
-<td>Java</td>
+<td><img src="https://github.com/githubharald.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/githubharald/SimpleHTR"><b>githubharald/SimpleHTR</b></a><br><sub>Handwritten Text Recognition (HTR) system implemented with TensorFlow.</sub></td>
+<td align="right"><b>2,193</b></td>
+<td align="right">910</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">96</td>
-<td><img src="https://github.com/webmozart.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/webmozart/path-util"><b>webmozart/path-util</b></a></td>
-<td align="right"><b>469</b></td>
-<td align="right">27</td>
-<td>PHP</td>
-</tr>
-<tr>
-<td align="right">97</td>
-<td><img src="https://github.com/okonet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/okonet/react-scroll-sync"><b>okonet/react-scroll-sync</b></a></td>
-<td align="right"><b>441</b></td>
-<td align="right">62</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">98</td>
-<td><img src="https://github.com/christophrumpel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/christophrumpel/laravel-factories-reloaded"><b>christophrumpel/laravel-factories-reloaded</b></a></td>
-<td align="right"><b>380</b></td>
-<td align="right">19</td>
-<td>PHP</td>
-</tr>
-<tr>
-<td align="right">99</td>
-<td><img src="https://github.com/lukstei.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lukstei/trading-backtest"><b>lukstei/trading-backtest</b></a></td>
-<td align="right"><b>352</b></td>
-<td align="right">140</td>
+<td><img src="https://github.com/markushi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/markushi/android-ui"><b>markushi/android-ui</b></a><br><sub>Android UI library.</sub></td>
+<td align="right"><b>2,183</b></td>
+<td align="right">419</td>
 <td>Java</td>
 </tr>
 <tr>
+<td align="right">97</td>
+<td><img src="https://github.com/aschuch.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aschuch/StatefulViewController"><b>aschuch/StatefulViewController</b></a><br><sub>Placeholder views based on content, loading, error or empty states</sub></td>
+<td align="right"><b>2,103</b></td>
+<td align="right">143</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/glennreyes.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/glennreyes/react-countup"><b>glennreyes/react-countup</b></a><br><sub>💫 A configurable React component wrapper around CountUp.js</sub></td>
+<td align="right"><b>2,072</b></td>
+<td align="right">138</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/mherrmann.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mherrmann/fbs-tutorial"><b>mherrmann/fbs-tutorial</b></a><br><sub>Tutorial for creating Python/Qt GUIs with fbs</sub></td>
+<td align="right"><b>2,044</b></td>
+<td align="right">152</td>
+<td>Python</td>
+</tr>
+<tr>
 <td align="right">100</td>
-<td><img src="https://github.com/rstropek.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rstropek/Samples"><b>rstropek/Samples</b></a></td>
-<td align="right"><b>339</b></td>
-<td align="right">288</td>
-<td>C#</td>
+<td><img src="https://github.com/nezhar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nezhar/wordpress-docker-compose"><b>nezhar/wordpress-docker-compose</b></a><br><sub>Easy Wordpress development with Docker and Docker Compose</sub></td>
+<td align="right"><b>2,035</b></td>
+<td align="right">1,360</td>
+<td>Shell</td>
 </tr>
 </tbody>
 </table>
@@ -729,11 +727,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 339 stars; 109 attributed candidates are tracked.
-- 8 entries were carried over from the previous dataset and are pending revalidation.
-- 130 multi-repository owners are queued for expansion.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 2,035 stars; 148 attributed candidates are tracked.
+- 129 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 148 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

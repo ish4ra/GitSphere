@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/contributors/SV.json">JSON</a> |
+| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/SV.json">JSON</a> |
 
 </div>
 
@@ -50,6 +50,24 @@
 <td align="right">6</td>
 <td align="right">5</td>
 </tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/max"><img src="https://avatars.githubusercontent.com/u/111631?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/max"><b>Max Schoening</b></a><br><sub>&#64;max · 676 followers</sub></td>
+<td align="right"><b>38</b></td>
+<td align="right">27</td>
+<td align="right">4</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/sosedoff"><img src="https://avatars.githubusercontent.com/u/71051?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sosedoff"><b>Dan Sosedoff</b></a><br><sub>&#64;sosedoff · 557 followers</sub></td>
+<td align="right"><b>23</b></td>
+<td align="right">12</td>
+<td align="right">9</td>
+<td align="right">2</td>
+<td align="right">0</td>
+</tr>
 </tbody>
 </table>
 
@@ -57,7 +75,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 3 of 411 discovered developers (408 awaiting measurement).
+- **Measured:** 5 of 413 discovered developers (408 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

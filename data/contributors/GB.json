@@ -5,13 +5,14 @@
 "country": {"code":"GB","name":"United Kingdom","slug":"united-kingdom"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":945,"measuredAccounts":2,"measurementBacklog":943,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":192,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":1300,"measuredAccounts":3,"measurementBacklog":1297,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":192,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjEyOTUyNQ==","login":"silky","name":"Noon van der Silk","url":"https://github.com/silky","avatarUrl":"https://avatars.githubusercontent.com/u/129525?s=80&v=4","followers":672,"publicRepos":4299,"location":"Edinburgh, UK","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":347,"commits":229,"pullRequests":12,"reviews":1,"issues":38,"repositories":67,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":2,"id":"MDQ6VXNlcjI2MjAzMjQ2","login":"valeman","name":"valeman","url":"https://github.com/valeman","avatarUrl":"https://avatars.githubusercontent.com/u/26203246?s=80&v=4","followers":1948,"publicRepos":2147,"location":"London, UK","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":231,"commits":149,"pullRequests":8,"reviews":2,"issues":6,"repositories":66,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":2,"id":"MDQ6VXNlcjI2MjAzMjQ2","login":"valeman","name":"valeman","url":"https://github.com/valeman","avatarUrl":"https://avatars.githubusercontent.com/u/26203246?s=80&v=4","followers":1948,"publicRepos":2147,"location":"London, UK","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":231,"commits":149,"pullRequests":8,"reviews":2,"issues":6,"repositories":66,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":3,"id":"MDQ6VXNlcjM4MTg=","login":"EdwardBetts","name":"Edward Betts","url":"https://github.com/EdwardBetts","avatarUrl":"https://avatars.githubusercontent.com/u/3818?s=80&v=4","followers":429,"publicRepos":1470,"location":"Bristol, UK","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":141,"commits":89,"pullRequests":21,"reviews":0,"issues":11,"repositories":20,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "17eae93d0739fc49",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "836efceffd6856aa",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

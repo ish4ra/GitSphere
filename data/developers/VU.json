@@ -7,7 +7,7 @@
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
 "coverage": {"basis":"partial","cutoffFollowers":0,"candidates":46,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjEwMDQwMTcw","login":"alfnitacoder","name":"AlffieGeorge","url":"https://github.com/alfnitacoder","avatarUrl":"https://avatars.githubusercontent.com/u/10040170?s=80&v=4","followers":16,"publicRepos":17,"location":"Port Vila","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
+  {"rank":1,"id":"MDQ6VXNlcjEwMDQwMTcw","login":"alfnitacoder","name":"AlffieGeorge","url":"https://github.com/alfnitacoder","avatarUrl":"https://avatars.githubusercontent.com/u/10040170?s=80&v=4","followers":16,"publicRepos":17,"location":"Port Vila","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23"},
   {"rank":2,"id":"MDQ6VXNlcjUzMzU2","login":"Pharm2Phork","name":"Pharm2phork Project","url":"https://github.com/Pharm2Phork","avatarUrl":"https://avatars.githubusercontent.com/u/53356?s=80&v=4","followers":9,"publicRepos":4,"location":"Port Vila, Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":3,"id":"MDQ6VXNlcjY5Njg2OTA1","login":"opalcoinnet","name":"OpalCoin","url":"https://github.com/opalcoinnet","avatarUrl":"https://avatars.githubusercontent.com/u/69686905?s=80&v=4","followers":5,"publicRepos":3,"location":"Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":4,"id":"MDQ6VXNlcjE1ODE3MjYz","login":"angeu4","name":"Angelus Eutherius","url":"https://github.com/angeu4","avatarUrl":"https://avatars.githubusercontent.com/u/15817263?s=80&v=4","followers":4,"publicRepos":5,"location":"Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
@@ -54,8 +54,8 @@
   {"rank":45,"id":"U_kgDOCTi1Qg","login":"tortorcarnifexcause","name":"tortorcarnifexcause","url":"https://github.com/tortorcarnifexcause","avatarUrl":"https://avatars.githubusercontent.com/u/154711362?s=80&v=4","followers":0,"publicRepos":1,"location":"Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":46,"id":"MDQ6VXNlcjI3NzA5NDAy","login":"Yair-Tendler","name":"Yair Tendler","url":"https://github.com/Yair-Tendler","avatarUrl":"https://avatars.githubusercontent.com/u/27709402?s=80&v=4","followers":0,"publicRepos":1,"location":"Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "ca766c9850f2aae2",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "d5f67812e8bf0fc8",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

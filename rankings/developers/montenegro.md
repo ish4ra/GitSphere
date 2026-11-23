@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/ME.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/ME.json">JSON</a> |
 
 </div>
 
@@ -30,6 +30,20 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/dchest"><img src="https://avatars.githubusercontent.com/u/52677?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dchest"><b>Dmitry Chestnykh</b></a><br><sub>&#64;dchest</sub></td>
+<td align="right"><b>554</b></td>
+<td align="right">212</td>
+<td><sub>Montenegro</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/1v4n4"><img src="https://avatars.githubusercontent.com/u/65791349?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/1v4n4"><b>1v4n4</b></a><br><sub>&#64;1v4n4</sub></td>
+<td align="right"><b>498</b></td>
+<td align="right">32</td>
+<td><sub>Montenegro</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/Const-me"><img src="https://avatars.githubusercontent.com/u/925112?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Const-me"><b>Konstantin</b></a><br><sub>&#64;Const-me</sub></td>
 <td align="right"><b>364</b></td>
 <td align="right">48</td>
@@ -43,7 +57,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 364 followers.
+- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 364 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

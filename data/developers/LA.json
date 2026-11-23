@@ -5,13 +5,15 @@
 "country": {"code":"LA","name":"Laos","slug":"laos"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":1,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"U_kgDOCrFZJQ","login":"esticrayon","name":". 𝒚𝟑𝒐𝒉𝒘𝒂𝟕 ๑","url":"https://github.com/esticrayon","avatarUrl":"https://avatars.githubusercontent.com/u/179394853?s=80&v=4","followers":602,"publicRepos":2,"location":"𝚟𝚒𝚎𝚝>𝚜𝚊𝚏𝚎; 𝚙𝚕𝚜 𝚍𝚘𝚗𝚝 𝚌𝚘𝚙𝚢 𝚖𝚎 𝚗 𝚖𝚢 𝚋𝚞𝚍𝚍𝚢 𝚘𝚛 𝚞'𝚕𝚕 𝚐𝚎𝚝 𝚋𝚕𝚘𝚌𝚔𝚎𝚍..","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"U_kgDODdX3Bg","login":"0101240207164","name":"BAISEE RM","url":"https://github.com/0101240207164","avatarUrl":"https://avatars.githubusercontent.com/u/232126214?s=80&v=4","followers":1,"publicRepos":3,"location":"LAOS","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":2,"id":"U_kgDODsYOEQ","login":"18maynak-gif","name":"Phetsamai Phoutthavong","url":"https://github.com/18maynak-gif","avatarUrl":"https://avatars.githubusercontent.com/u/247860753?s=80&v=4","followers":2,"publicRepos":1,"location":"Laos","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":3,"id":"U_kgDODdX3Bg","login":"0101240207164","name":"BAISEE RM","url":"https://github.com/0101240207164","avatarUrl":"https://avatars.githubusercontent.com/u/232126214?s=80&v=4","followers":1,"publicRepos":3,"location":"LAOS","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"MDQ6VXNlcjgzNjI5MDA2","login":"0xJ0cKkY","name":"Vilaysone Chanthavong","url":"https://github.com/0xJ0cKkY","avatarUrl":"https://avatars.githubusercontent.com/u/83629006?s=80&v=4","followers":0,"publicRepos":23,"location":"Lao PDR","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "f6ade2c298661e77",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "ff0072c7608fa917",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

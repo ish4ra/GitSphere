@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/CR.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/developers/CR.json">JSON</a> |
 
 </div>
 
@@ -49,6 +49,34 @@
 <td align="right">110</td>
 <td><sub>Costa Rica</sub></td>
 </tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/tito"><img src="https://avatars.githubusercontent.com/u/37904?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tito"><b>Mathieu Virbel</b></a><br><sub>&#64;tito</sub></td>
+<td align="right"><b>534</b></td>
+<td align="right">132</td>
+<td><sub>Costa Rica</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/siddharta1337"><img src="https://avatars.githubusercontent.com/u/791982?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/siddharta1337"><b>Carlos Solis</b></a><br><sub>&#64;siddharta1337</sub></td>
+<td align="right"><b>491</b></td>
+<td align="right">63</td>
+<td><sub>Costa Rica</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/r0r0x-xx"><img src="https://avatars.githubusercontent.com/u/55760024?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/r0r0x-xx"><b>r0r0x</b></a><br><sub>&#64;r0r0x-xx</sub></td>
+<td align="right"><b>460</b></td>
+<td align="right">21</td>
+<td><sub>Costa Rica</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/Jeffser"><img src="https://avatars.githubusercontent.com/u/69224322?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jeffser"><b>Jeffry Samuel</b></a><br><sub>&#64;Jeffser</sub></td>
+<td align="right"><b>181</b></td>
+<td align="right">0</td>
+<td><sub>Costa Rica</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -57,7 +85,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 773 followers.
+- Organizations are excluded. 8 attributed developers are tracked; the cutoff is 181 followers.
 - **Location discovery:** term 0 of 58 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

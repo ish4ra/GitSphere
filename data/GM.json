@@ -5,7 +5,7 @@
 "country": {"code":"GM","name":"Gambia","slug":"gambia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":108,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"awwwards-landing-page-next-framermotion-gsap","nameWithOwner":"PaAmatJow/awwwards-landing-page-next-framermotion-gsap","url":"https://github.com/PaAmatJow/awwwards-landing-page-next-framermotion-gsap","description":null,"stars":19,"forks":1,"primaryLanguage":"TypeScript","license":null,"createdAt":"2024-01-05T13:46:42Z","pushedAt":"2024-01-05T13:47:21Z","archived":false,"owner":{"login":"PaAmatJow","name":"Pa Amat Jow","type":"User","url":"https://github.com/PaAmatJow","location":"Banjul, The Gambia.","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"plan-and-build","nameWithOwner":"jattanjie21/plan-and-build","url":"https://github.com/jattanjie21/plan-and-build","description":null,"stars":17,"forks":6,"primaryLanguage":"Shell","license":null,"createdAt":"2026-04-19T20:37:45Z","pushedAt":"2026-05-05T14:43:50Z","archived":false,"owner":{"login":"jattanjie21","name":"Modou Lamin","type":"User","url":"https://github.com/jattanjie21","location":"The Gambia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"finalprojectict","nameWithOwner":"abdounjie/finalprojectict","url":"https://github.com/abdounjie/finalprojectict","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2026-07-03T14:54:36Z","pushedAt":"2026-07-03T14:54:41Z","archived":false,"owner":{"login":"abdounjie","name":"Abdoulie Njie","type":"User","url":"https://github.com/abdounjie","location":"The Gambia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"AbdouSamad","nameWithOwner":"AbdouSamad/AbdouSamad","url":"https://github.com/AbdouSamad/AbdouSamad","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2021-06-22T03:04:02Z","pushedAt":"2021-06-22T03:04:14Z","archived":false,"owner":{"login":"AbdouSamad","name":"Abdou Samad Hydara","type":"User","url":"https://github.com/AbdouSamad","location":"Darsilamdth, The Gambia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "4b4fa51200bbff26",
-"updatedAt": "2026-11-22T08:41:14.246Z",
+"contentHash": "c71c4c0146c260e7",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

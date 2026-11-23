@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/LR.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/LR.json">JSON</a> |
 
 </div>
 
@@ -30,6 +30,20 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/0880033609"><img src="https://avatars.githubusercontent.com/u/25112178?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0880033609"><b>Francis Yelorbah</b></a><br><sub>&#64;0880033609</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Oldest Congo Town, Monrovia, Liberia</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/123chri"><img src="https://avatars.githubusercontent.com/u/130510186?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/123chri"><b>Christine Sweede</b></a><br><sub>&#64;123chri</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Airfield, Monrovia, Liberia</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/0555262479"><img src="https://avatars.githubusercontent.com/u/154336238?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0555262479"><b>Ebenezer Teto Jacobs</b></a><br><sub>&#64;0555262479</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
@@ -43,7 +57,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

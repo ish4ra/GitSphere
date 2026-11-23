@@ -5,13 +5,15 @@
 "country": {"code":"SB","name":"Solomon Islands","slug":"solomon-islands"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjMxOTEzODY2","login":"7EX1U5","name":null,"url":"https://github.com/7EX1U5","avatarUrl":"https://avatars.githubusercontent.com/u/31913866?s=80&v=4","followers":0,"publicRepos":2,"location":"Honiara, Solomon Islands","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"MDQ6VXNlcjMxOTIyNDEy","login":"62crook","name":"eddy crook","url":"https://github.com/62crook","avatarUrl":"https://avatars.githubusercontent.com/u/31922412?s=80&v=4","followers":0,"publicRepos":1,"location":"Solomon Islands/ Honiara","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+  {"rank":2,"id":"U_kgDOD7TAAQ","login":"aelantek6-eng","name":"AELANTEK SOLUTIONS","url":"https://github.com/aelantek6-eng","avatarUrl":"https://avatars.githubusercontent.com/u/263503873?s=80&v=4","followers":0,"publicRepos":2,"location":"HONIARA","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23"},
+  {"rank":3,"id":"MDQ6VXNlcjMxOTIyNDEy","login":"62crook","name":"eddy crook","url":"https://github.com/62crook","avatarUrl":"https://avatars.githubusercontent.com/u/31922412?s=80&v=4","followers":0,"publicRepos":1,"location":"Solomon Islands/ Honiara","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"U_kgDOBaau0w","login":"AARAHA","name":"Andrew Araha","url":"https://github.com/AARAHA","avatarUrl":"https://avatars.githubusercontent.com/u/94809811?s=80&v=4","followers":0,"publicRepos":1,"location":"Solomon Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "847d2fa9a331fd82",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "a2b18c02c60ae9af",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

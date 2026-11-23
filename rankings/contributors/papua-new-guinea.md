@@ -14,23 +14,41 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/contributors/PG.json">JSON</a> |
+| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/contributors/PG.json">JSON</a> |
 
 </div>
 
-<p align="center"><sub>Public contributions from <b>22 Nov 2025</b> to <b>22 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
+<p align="center"><sub>Public contributions from <b>23 Nov 2025</b> to <b>23 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
 
 <table>
 <thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Public contributions</th><th align="right">Commits</th><th align="right">PRs</th><th align="right">Reviews</th><th align="right">Issues</th></tr></thead>
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/chrisaugu"><img src="https://avatars.githubusercontent.com/u/30349879?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chrisaugu"><b>Christian Augustyn</b></a><br><sub>&#64;chrisaugu · 29 followers</sub></td>
+<td align="right"><b>150</b></td>
+<td align="right">127</td>
+<td align="right">12</td>
+<td align="right">5</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/mohsinalimat"><img src="https://avatars.githubusercontent.com/u/973676?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mohsinalimat"><b>MohsinAli</b></a><br><sub>&#64;mohsinalimat · 652 followers</sub></td>
 <td align="right"><b>150</b></td>
 <td align="right">13</td>
 <td align="right">14</td>
 <td align="right">3</td>
 <td align="right">25</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/sylvery"><img src="https://avatars.githubusercontent.com/u/6283107?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sylvery"><b>Sylver Yagi</b></a><br><sub>&#64;sylvery · 12 followers</sub></td>
+<td align="right"><b>14</b></td>
+<td align="right">7</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
 </tr>
 </tbody>
 </table>
@@ -39,7 +57,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 2 of 15 discovered developers (13 awaiting measurement).
+- **Measured:** 4 of 205 discovered developers (201 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

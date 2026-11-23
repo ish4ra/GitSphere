@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/SD.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/SD.json">JSON</a> |
 
 </div>
 
@@ -23,17 +23,31 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/sealsoro"><img src="https://avatars.githubusercontent.com/u/190374577?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sealsoro"><b>kino / soro , FROGGYDUDE&#39;S NUMBER #1 GLAZER</b></a><br><sub>&#64;sealsoro</sub></td>
+<td align="right"><b>419</b></td>
+<td align="right">9</td>
+<td><sub>DW, FSKN, MCYT, or with oomfs °0°</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/01011994vbntrustingod"><img src="https://avatars.githubusercontent.com/u/105881076?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/01011994vbntrustingod"><b>MUHANNED</b></a><br><sub>&#64;01011994vbntrustingod</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">3</td>
 <td><a href="https://github.com/0xlong-sd"><img src="https://avatars.githubusercontent.com/u/193998182?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xlong-sd"><b>Yassin.sd</b></a><br><sub>&#64;0xlong-sd</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>sudan</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/0xTarig"><img src="https://avatars.githubusercontent.com/u/240476682?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xTarig"><b>Tarig</b></a><br><sub>&#64;0xTarig</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Sudan</sub></td>
 </tr>
 </tbody>
 </table>
@@ -43,7 +57,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

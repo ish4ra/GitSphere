@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/developers/DO.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/developers/DO.json">JSON</a> |
 
 </div>
 
@@ -63,6 +63,13 @@
 <td align="right">75</td>
 <td><sub>Dominican Republic</sub></td>
 </tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/rmariuzzo"><img src="https://avatars.githubusercontent.com/u/439839?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rmariuzzo"><b>Rubens Mariuzzo</b></a><br><sub>&#64;rmariuzzo</sub></td>
+<td align="right"><b>425</b></td>
+<td align="right">197</td>
+<td><sub>Dominican Republic</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -71,7 +78,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 6 attributed developers are tracked; the cutoff is 565 followers.
+- Organizations are excluded. 7 attributed developers are tracked; the cutoff is 425 followers.
 - **Location discovery:** term 0 of 134 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

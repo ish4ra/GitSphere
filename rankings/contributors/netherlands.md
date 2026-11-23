@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/NL.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/NL.json">JSON</a> |
 
 </div>
 
@@ -25,7 +25,7 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><a href="https://github.com/frenck"><img src="https://avatars.githubusercontent.com/u/195327?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/frenck"><b>Franck Nijhof</b></a><br><sub>&#64;frenck · 5,215 followers</sub></td>
+<td><a href="https://github.com/frenck"><img src="https://avatars.githubusercontent.com/u/195327?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/frenck"><b>Franck Nijhof</b></a><br><sub>&#64;frenck · 5,216 followers</sub></td>
 <td align="right"><b>17,155</b></td>
 <td align="right">1,466</td>
 <td align="right">5,234</td>
@@ -34,12 +34,30 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/WyriHaximus"><img src="https://avatars.githubusercontent.com/u/147145?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/WyriHaximus"><b>Cees-Jan Kiewiet</b></a><br><sub>&#64;WyriHaximus · 659 followers</sub></td>
+<td align="right"><b>4,607</b></td>
+<td align="right">3,639</td>
+<td align="right">688</td>
+<td align="right">264</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/urish"><img src="https://avatars.githubusercontent.com/u/892318?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/urish"><b>Uri Shaked</b></a><br><sub>&#64;urish · 1,474 followers</sub></td>
 <td align="right"><b>2,096</b></td>
 <td align="right">2,020</td>
 <td align="right">15</td>
 <td align="right">7</td>
 <td align="right">24</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/raboof"><img src="https://avatars.githubusercontent.com/u/131856?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/raboof"><b>Arnout Engelen</b></a><br><sub>&#64;raboof · 474 followers</sub></td>
+<td align="right"><b>1,985</b></td>
+<td align="right">604</td>
+<td align="right">367</td>
+<td align="right">786</td>
+<td align="right">174</td>
 </tr>
 </tbody>
 </table>
@@ -48,7 +66,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 2 of 602 discovered developers (600 awaiting measurement).
+- **Measured:** 4 of 731 discovered developers (727 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

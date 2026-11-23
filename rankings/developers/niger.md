@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/NE.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/NE.json">JSON</a> |
 
 </div>
 
@@ -35,6 +35,20 @@
 <td align="right">23</td>
 <td><sub>Niamey,Niger</sub></td>
 </tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/227Mahaman"><img src="https://avatars.githubusercontent.com/u/49451967?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/227Mahaman"><b>227Mahaman</b></a><br><sub>&#64;227Mahaman</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">25</td>
+<td><sub>Niamey, Niger</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/1Dini"><img src="https://avatars.githubusercontent.com/u/113864716?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/1Dini"><b>Chamsoudine</b></a><br><sub>&#64;1Dini</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Niger Maradi</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -43,7 +57,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 239 followers.
+- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **32** | 22 Nov 2026 | <a href="../../data/developers/MA.json">JSON</a> |
+| 🟡 Provisional | **45** | 22 Nov 2026 | <a href="../../data/developers/MA.json">JSON</a> |
 
 </div>
 
@@ -219,27 +219,118 @@
 </tr>
 <tr>
 <td align="right">29</td>
+<td><a href="https://github.com/Zizwar"><img src="https://avatars.githubusercontent.com/u/1431864?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Zizwar"><b>Ibrahim BIDI</b></a><br><sub>&#64;Zizwar</sub></td>
+<td align="right"><b>556</b></td>
+<td align="right">254</td>
+<td><sub>Casablanca</sub></td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td><a href="https://github.com/arbaouimehdi"><img src="https://avatars.githubusercontent.com/u/2392987?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arbaouimehdi"><b>Arbaoui Mehdi</b></a><br><sub>&#64;arbaouimehdi</sub></td>
+<td align="right"><b>537</b></td>
+<td align="right">102</td>
+<td><sub>Morocco</sub></td>
+</tr>
+<tr>
+<td align="right">31</td>
+<td><a href="https://github.com/medyo"><img src="https://avatars.githubusercontent.com/u/2389584?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/medyo"><b>Mehdi Sakout</b></a><br><sub>&#64;medyo</sub></td>
+<td align="right"><b>524</b></td>
+<td align="right">25</td>
+<td><sub>Morocco</sub></td>
+</tr>
+<tr>
+<td align="right">32</td>
+<td><a href="https://github.com/jamaoui"><img src="https://avatars.githubusercontent.com/u/18069380?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jamaoui"><b>Mouad JAMAOUI</b></a><br><sub>&#64;jamaoui</sub></td>
+<td align="right"><b>514</b></td>
+<td align="right">24</td>
+<td><sub>Rabat , Morocco</sub></td>
+</tr>
+<tr>
+<td align="right">33</td>
+<td><a href="https://github.com/branGitfox"><img src="https://avatars.githubusercontent.com/u/135463036?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/branGitfox"><b>Brandon Fidelin Ravomanana</b></a><br><sub>&#64;branGitfox</sub></td>
+<td align="right"><b>506</b></td>
+<td align="right">38</td>
+<td><sub>Casablanca, Morocco</sub></td>
+</tr>
+<tr>
+<td align="right">34</td>
+<td><a href="https://github.com/acharkizakaria"><img src="https://avatars.githubusercontent.com/u/6684599?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/acharkizakaria"><b>Zakaria Acharki</b></a><br><sub>&#64;acharkizakaria</sub></td>
+<td align="right"><b>481</b></td>
+<td align="right">39</td>
+<td><sub>Tangier, Morocco</sub></td>
+</tr>
+<tr>
+<td align="right">35</td>
+<td><a href="https://github.com/abdelkarimhajji"><img src="https://avatars.githubusercontent.com/u/92029974?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdelkarimhajji"><b>Abdelkarim Hajji</b></a><br><sub>&#64;abdelkarimhajji</sub></td>
+<td align="right"><b>472</b></td>
+<td align="right">80</td>
+<td><sub>Morroco, Tangier</sub></td>
+</tr>
+<tr>
+<td align="right">36</td>
+<td><a href="https://github.com/aboualine"><img src="https://avatars.githubusercontent.com/u/117946238?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aboualine"><b>ABOUALINE MOHAMED</b></a><br><sub>&#64;aboualine</sub></td>
+<td align="right"><b>455</b></td>
+<td align="right">26</td>
+<td><sub>Chichaoua ,Morocco</sub></td>
+</tr>
+<tr>
+<td align="right">37</td>
+<td><a href="https://github.com/Mohammedcha"><img src="https://avatars.githubusercontent.com/u/40530012?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mohammedcha"><b>Mohammed cha</b></a><br><sub>&#64;Mohammedcha</sub></td>
+<td align="right"><b>442</b></td>
+<td align="right">15</td>
+<td><sub>Morocco - Casa Lbayda &lt;3</sub></td>
+</tr>
+<tr>
+<td align="right">38</td>
+<td><a href="https://github.com/48d31kh413k"><img src="https://avatars.githubusercontent.com/u/65833007?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/48d31kh413k"><b>48d31kh413k</b></a><br><sub>&#64;48d31kh413k</sub></td>
+<td align="right"><b>439</b></td>
+<td align="right">31</td>
+<td><sub>Casablanca, Morocco</sub></td>
+</tr>
+<tr>
+<td align="right">39</td>
+<td><a href="https://github.com/pborreli"><img src="https://avatars.githubusercontent.com/u/77759?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pborreli"><b>Pascal Borreli</b></a><br><sub>&#64;pborreli</sub></td>
+<td align="right"><b>428</b></td>
+<td align="right">971</td>
+<td><sub>Oujda, Morocco</sub></td>
+</tr>
+<tr>
+<td align="right">40</td>
+<td><a href="https://github.com/aka76bm"><img src="https://avatars.githubusercontent.com/u/233129553?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aka76bm"><b>MUSTAPHA BARKI</b></a><br><sub>&#64;aka76bm</sub></td>
+<td align="right"><b>424</b></td>
+<td align="right">134</td>
+<td><sub>MOROCCO</sub></td>
+</tr>
+<tr>
+<td align="right">41</td>
 <td><a href="https://github.com/Abdenasser"><img src="https://avatars.githubusercontent.com/u/8364240?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abdenasser"><b>Abdenasser Elidrissi</b></a><br><sub>&#64;Abdenasser</sub></td>
 <td align="right"><b>290</b></td>
 <td align="right">0</td>
 <td><sub>Casablanca, Morocco</sub></td>
 </tr>
 <tr>
-<td align="right">30</td>
+<td align="right">42</td>
 <td><a href="https://github.com/wassim249"><img src="https://avatars.githubusercontent.com/u/62564480?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wassim249"><b>Wassim EL BAKKOURI</b></a><br><sub>&#64;wassim249</sub></td>
 <td align="right"><b>162</b></td>
 <td align="right">0</td>
 <td><sub>Kenitra , Morocco</sub></td>
 </tr>
 <tr>
-<td align="right">31</td>
+<td align="right">43</td>
+<td><a href="https://github.com/melbahja"><img src="https://avatars.githubusercontent.com/u/8259014?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/melbahja"><b>Mohamed El Bahja</b></a><br><sub>&#64;melbahja</sub></td>
+<td align="right"><b>121</b></td>
+<td align="right">0</td>
+<td><sub>Morocco</sub></td>
+</tr>
+<tr>
+<td align="right">44</td>
 <td><a href="https://github.com/yassinebenaid"><img src="https://avatars.githubusercontent.com/u/101285507?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yassinebenaid"><b>Yassine Benaid</b></a><br><sub>&#64;yassinebenaid</sub></td>
 <td align="right"><b>102</b></td>
 <td align="right">0</td>
 <td><sub>Morocco</sub></td>
 </tr>
 <tr>
-<td align="right">32</td>
+<td align="right">45</td>
 <td><a href="https://github.com/Adama101"><img src="https://avatars.githubusercontent.com/u/70521563?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Adama101"><b>Adama Jarju</b></a><br><sub>&#64;Adama101</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">39</td>
@@ -253,7 +344,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 32 attributed developers are tracked; the cutoff is 2 followers.
+- Organizations are excluded. 45 attributed developers are tracked; the cutoff is 2 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

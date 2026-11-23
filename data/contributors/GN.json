@@ -3,12 +3,15 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"GN","name":"Guinea","slug":"guinea"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":288,"measuredAccounts":2,"measurementBacklog":286,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "b701508ead22cb69",
-"updatedAt": "2026-11-22T22:28:05.466Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"coverage": {"basis":"partial","discoveredAccounts":307,"measuredAccounts":4,"measurementBacklog":303,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":76,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjM2MzMzNTY1","login":"hadpro24","name":"Harouna Diallo","url":"https://github.com/hadpro24","avatarUrl":"https://avatars.githubusercontent.com/u/36333565?s=80&v=4","followers":77,"publicRepos":130,"location":"Guinée, Conakry, GN","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":62,"commits":48,"pullRequests":10,"reviews":0,"issues":0,"repositories":4,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":2,"id":"MDQ6VXNlcjY3ODEyMjY3","login":"aradradev","name":"Abdourahmane Jalloh","url":"https://github.com/aradradev","avatarUrl":"https://avatars.githubusercontent.com/u/67812267?s=80&v=4","followers":66,"publicRepos":109,"location":"Conakry","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23","contributions":{"public":9,"commits":5,"pullRequests":0,"reviews":0,"issues":0,"repositories":4,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
+],
+"contentHash": "aca319c5d8c23b4f",
+"updatedAt": "2026-11-23T03:24:49.438Z",
+"verifiedOn": "2026-11-23",
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

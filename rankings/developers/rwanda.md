@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/developers/RW.json">JSON</a> |
+| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/developers/RW.json">JSON</a> |
 
 </div>
 
@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/Edouard144"><img src="https://avatars.githubusercontent.com/u/182372855?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Edouard144"><b>Edouard</b></a><br><sub>&#64;Edouard144</sub></td>
-<td align="right"><b>1,842</b></td>
+<td align="right"><b>1,841</b></td>
 <td align="right">92</td>
 <td><sub>Kigali, Rwanda</sub></td>
 </tr>
@@ -73,7 +73,7 @@
 <tr>
 <td align="right">8</td>
 <td><a href="https://github.com/ProgrammerDATCH"><img src="https://avatars.githubusercontent.com/u/128073754?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ProgrammerDATCH"><b>Mr. David</b></a><br><sub>&#64;ProgrammerDATCH</sub></td>
-<td align="right"><b>890</b></td>
+<td align="right"><b>891</b></td>
 <td align="right">120</td>
 <td><sub>Kigali Rwanda</sub></td>
 </tr>
@@ -91,6 +91,27 @@
 <td align="right">5</td>
 <td><sub>Rwanda / Kigali City</sub></td>
 </tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/AlineHub-tech"><img src="https://avatars.githubusercontent.com/u/218368977?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlineHub-tech"><b>Umugwaneza Aline</b></a><br><sub>&#64;AlineHub-tech</sub></td>
+<td align="right"><b>519</b></td>
+<td align="right">46</td>
+<td><sub>Kigali, Rwanda</sub></td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><a href="https://github.com/david-legend"><img src="https://avatars.githubusercontent.com/u/17256271?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/david-legend"><b>David-Legend</b></a><br><sub>&#64;david-legend</sub></td>
+<td align="right"><b>513</b></td>
+<td align="right">41</td>
+<td><sub>Rwanda</sub></td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><a href="https://github.com/uwenayoallain"><img src="https://avatars.githubusercontent.com/u/66881609?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/uwenayoallain"><b>Alain Pacifique UWENAYO</b></a><br><sub>&#64;uwenayoallain</sub></td>
+<td align="right"><b>430</b></td>
+<td align="right">45</td>
+<td><sub>Kigali,Rwanda</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -99,7 +120,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 10 attributed developers are tracked; the cutoff is 610 followers.
+- Organizations are excluded. 13 attributed developers are tracked; the cutoff is 430 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

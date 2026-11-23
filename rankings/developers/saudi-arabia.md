@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/developers/SA.json">JSON</a> |
+| 🟡 Provisional | **27** | 22 Nov 2026 | <a href="../../data/developers/SA.json">JSON</a> |
 
 </div>
 
@@ -121,6 +121,90 @@
 </tr>
 <tr>
 <td align="right">15</td>
+<td><a href="https://github.com/Nxploited"><img src="https://avatars.githubusercontent.com/u/188819918?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nxploited"><b>Khaled Alenazi</b></a><br><sub>&#64;Nxploited</sub></td>
+<td align="right"><b>559</b></td>
+<td align="right">167</td>
+<td><sub>KSA</sub></td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><a href="https://github.com/Matrix07ksa"><img src="https://avatars.githubusercontent.com/u/33636578?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Matrix07ksa"><b>Matrix</b></a><br><sub>&#64;Matrix07ksa</sub></td>
+<td align="right"><b>525</b></td>
+<td align="right">19</td>
+<td><sub>Saudi arabia</sub></td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><a href="https://github.com/Sol0420"><img src="https://avatars.githubusercontent.com/u/276679400?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sol0420"><b>Senior Backend &amp; Distributed Systems Engineer &#124; Senior AI/ML Software Engineer</b></a><br><sub>&#64;Sol0420</sub></td>
+<td align="right"><b>484</b></td>
+<td align="right">9</td>
+<td><sub>Riyadh, Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><a href="https://github.com/obahareth"><img src="https://avatars.githubusercontent.com/u/3428118?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/obahareth"><b>Omar Bahareth</b></a><br><sub>&#64;obahareth</sub></td>
+<td align="right"><b>481</b></td>
+<td align="right">152</td>
+<td><sub>Riyadh, Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><a href="https://github.com/alhazmy13"><img src="https://avatars.githubusercontent.com/u/4659608?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alhazmy13"><b>Abdullah Alhazmy</b></a><br><sub>&#64;alhazmy13</sub></td>
+<td align="right"><b>476</b></td>
+<td align="right">117</td>
+<td><sub>Riyadh, Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><a href="https://github.com/u0pattern"><img src="https://avatars.githubusercontent.com/u/21009276?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/u0pattern"><b>Mohammed</b></a><br><sub>&#64;u0pattern</sub></td>
+<td align="right"><b>472</b></td>
+<td align="right">60</td>
+<td><sub>Kingdom Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><a href="https://github.com/YazeedAlKhalaf"><img src="https://avatars.githubusercontent.com/u/41989385?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YazeedAlKhalaf"><b>yazeed</b></a><br><sub>&#64;YazeedAlKhalaf</sub></td>
+<td align="right"><b>465</b></td>
+<td align="right">158</td>
+<td><sub>Riyadh, Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><a href="https://github.com/madahetooo"><img src="https://avatars.githubusercontent.com/u/28203059?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/madahetooo"><b>Eslam Medhat</b></a><br><sub>&#64;madahetooo</sub></td>
+<td align="right"><b>461</b></td>
+<td align="right">124</td>
+<td><sub>Riyadh, Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td><a href="https://github.com/davidrpugh"><img src="https://avatars.githubusercontent.com/u/2219562?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davidrpugh"><b>David R. Pugh</b></a><br><sub>&#64;davidrpugh</sub></td>
+<td align="right"><b>460</b></td>
+<td align="right">66</td>
+<td><sub>Thuwal, Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td><a href="https://github.com/vectozavr"><img src="https://avatars.githubusercontent.com/u/60608292?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vectozavr"><b>Ivan Ilin</b></a><br><sub>&#64;vectozavr</sub></td>
+<td align="right"><b>454</b></td>
+<td align="right">28</td>
+<td><sub>Thuwal, KSA</sub></td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td><a href="https://github.com/mo9a7i"><img src="https://avatars.githubusercontent.com/u/1753262?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mo9a7i"><b>Mohannad Faihan Otaibi</b></a><br><sub>&#64;mo9a7i</sub></td>
+<td align="right"><b>435</b></td>
+<td align="right">53</td>
+<td><sub>Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td><a href="https://github.com/ialhashim"><img src="https://avatars.githubusercontent.com/u/2434978?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ialhashim"><b>Ibraheem Alhashim</b></a><br><sub>&#64;ialhashim</sub></td>
+<td align="right"><b>212</b></td>
+<td align="right">0</td>
+<td><sub>Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">27</td>
 <td><a href="https://github.com/orangci"><img src="https://avatars.githubusercontent.com/u/90866414?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/orangci"><b>orangci</b></a><br><sub>&#64;orangci</sub></td>
 <td align="right"><b>189</b></td>
 <td align="right">0</td>
@@ -134,7 +218,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 15 attributed developers are tracked; the cutoff is 189 followers.
+- Organizations are excluded. 27 attributed developers are tracked; the cutoff is 189 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

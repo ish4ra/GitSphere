@@ -5,13 +5,15 @@
 "country": {"code":"MN","name":"Mongolia","slug":"mongolia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":1,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":1,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjkyNTcyMjc=","login":"tortuvshin","name":"Turtuvshin Byambaa","url":"https://github.com/tortuvshin","avatarUrl":"https://avatars.githubusercontent.com/u/9257227?s=80&v=4","followers":1661,"publicRepos":49,"location":"Mongolia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"U_kgDOCjl4pA","login":"0Orchlon","name":"Orchlon","url":"https://github.com/0Orchlon","avatarUrl":"https://avatars.githubusercontent.com/u/171538596?s=80&v=4","followers":1,"publicRepos":15,"location":"Mongolia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":2,"id":"MDQ6VXNlcjEyNzM4NzIx","login":"doljko","name":"Enkhbayar Doljinsuren","url":"https://github.com/doljko","avatarUrl":"https://avatars.githubusercontent.com/u/12738721?s=80&v=4","followers":507,"publicRepos":10,"location":"Ulaanbaatar, Mongolia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":3,"id":"U_kgDOCB_eYg","login":"0xallblue0x","name":"Allblue","url":"https://github.com/0xallblue0x","avatarUrl":"https://avatars.githubusercontent.com/u/136306274?s=80&v=4","followers":4,"publicRepos":4,"location":"mongolia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":4,"id":"U_kgDOCjl4pA","login":"0Orchlon","name":"Orchlon","url":"https://github.com/0Orchlon","avatarUrl":"https://avatars.githubusercontent.com/u/171538596?s=80&v=4","followers":1,"publicRepos":15,"location":"Mongolia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "1f5e32c4791e195d",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "5d8b93c5e33db16a",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

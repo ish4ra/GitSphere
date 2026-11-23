@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **17** | 22 Nov 2026 | <a href="../../data/developers/MY.json">JSON</a> |
+| 🟡 Provisional | **27** | 22 Nov 2026 | <a href="../../data/developers/MY.json">JSON</a> |
 
 </div>
 
@@ -121,24 +121,94 @@
 </tr>
 <tr>
 <td align="right">15</td>
+<td><a href="https://github.com/iChun"><img src="https://avatars.githubusercontent.com/u/2298444?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iChun"><b>iChun</b></a><br><sub>&#64;iChun</sub></td>
+<td align="right"><b>511</b></td>
+<td align="right">58</td>
+<td><sub>Malaysia</sub></td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><a href="https://github.com/zhamri"><img src="https://avatars.githubusercontent.com/u/24503750?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zhamri"><b>Zhamri Che Ani</b></a><br><sub>&#64;zhamri</sub></td>
+<td align="right"><b>505</b></td>
+<td align="right">150</td>
+<td><sub>Malaysia</sub></td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><a href="https://github.com/ahmadhanis"><img src="https://avatars.githubusercontent.com/u/36687333?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahmadhanis"><b>Ahmad Hanis</b></a><br><sub>&#64;ahmadhanis</sub></td>
+<td align="right"><b>487</b></td>
+<td align="right">63</td>
+<td><sub>UUM Sintok, Kedah, Malaysia</sub></td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><a href="https://github.com/JasonKhew96"><img src="https://avatars.githubusercontent.com/u/29531167?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JasonKhew96"><b>Js0n</b></a><br><sub>&#64;JasonKhew96</sub></td>
+<td align="right"><b>478</b></td>
+<td align="right">108</td>
+<td><sub>Malaysia, Negeri Sembilan</sub></td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><a href="https://github.com/syarief02"><img src="https://avatars.githubusercontent.com/u/105992338?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/syarief02"><b>Syarief Azman</b></a><br><sub>&#64;syarief02</sub></td>
+<td align="right"><b>477</b></td>
+<td align="right">66</td>
+<td><sub>Malaysia</sub></td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><a href="https://github.com/Zeyad-Azima"><img src="https://avatars.githubusercontent.com/u/62406753?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Zeyad-Azima"><b>Zer0verflow</b></a><br><sub>&#64;Zeyad-Azima</sub></td>
+<td align="right"><b>450</b></td>
+<td align="right">80</td>
+<td><sub>Malaysia</sub></td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><a href="https://github.com/slapperwan"><img src="https://avatars.githubusercontent.com/u/573807?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/slapperwan"><b>Azwan Adli</b></a><br><sub>&#64;slapperwan</sub></td>
+<td align="right"><b>222</b></td>
+<td align="right">0</td>
+<td><sub>Kuala Lumpur, Malaysia</sub></td>
+</tr>
+<tr>
+<td align="right">22</td>
 <td><a href="https://github.com/subbarayudu-j"><img src="https://avatars.githubusercontent.com/u/49110958?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/subbarayudu-j"><b>Subba Rayudu</b></a><br><sub>&#64;subbarayudu-j</sub></td>
 <td align="right"><b>139</b></td>
 <td align="right">0</td>
 <td><sub>Malaysia</sub></td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">23</td>
 <td><a href="https://github.com/kitloong"><img src="https://avatars.githubusercontent.com/u/7660346?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kitloong"><b>Kit Loong</b></a><br><sub>&#64;kitloong</sub></td>
 <td align="right"><b>124</b></td>
 <td align="right">0</td>
 <td><sub>Kuala Lumpur, Malaysia</sub></td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">24</td>
 <td><a href="https://github.com/fathulfahmy"><img src="https://avatars.githubusercontent.com/u/100550389?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fathulfahmy"><b>Fathul Fahmy</b></a><br><sub>&#64;fathulfahmy</sub></td>
 <td align="right"><b>117</b></td>
 <td align="right">0</td>
 <td><sub>Malaysia</sub></td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td><a href="https://github.com/salimi-my"><img src="https://avatars.githubusercontent.com/u/55532224?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/salimi-my"><b>Salimi</b></a><br><sub>&#64;salimi-my</sub></td>
+<td align="right"><b>103</b></td>
+<td align="right">0</td>
+<td><sub>Malaysia</sub></td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td><a href="https://github.com/shadany7824"><img src="https://avatars.githubusercontent.com/u/183978316?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shadany7824"><b>shadany7824</b></a><br><sub>&#64;shadany7824</sub></td>
+<td align="right"><b>89</b></td>
+<td align="right">0</td>
+<td><sub>Kuala Lumpur, Malaysia</sub></td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td><a href="https://github.com/efemkay"><img src="https://avatars.githubusercontent.com/u/42369515?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/efemkay"><b>Faiz Khuzaimah</b></a><br><sub>&#64;efemkay</sub></td>
+<td align="right"><b>45</b></td>
+<td align="right">0</td>
+<td><sub>Kuala Lumpur, Malaysia</sub></td>
 </tr>
 </tbody>
 </table>
@@ -148,7 +218,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 17 attributed developers are tracked; the cutoff is 117 followers.
+- Organizations are excluded. 27 attributed developers are tracked; the cutoff is 45 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

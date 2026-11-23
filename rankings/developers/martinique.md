@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/MQ.json">JSON</a> |
+| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/developers/MQ.json">JSON</a> |
 
 </div>
 
@@ -23,13 +23,20 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/anthony-nosibor"><img src="https://avatars.githubusercontent.com/u/64765109?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anthony-nosibor"><b>Anthony nosibor</b></a><br><sub>&#64;anthony-nosibor</sub></td>
+<td align="right"><b>7</b></td>
+<td align="right">17</td>
+<td><sub>Martinique</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/972Olivier"><img src="https://avatars.githubusercontent.com/u/102162503?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/972Olivier"><b>Olivier</b></a><br><sub>&#64;972Olivier</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">18</td>
 <td><sub>Martinique</sub></td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">3</td>
 <td><a href="https://github.com/aldofwi"><img src="https://avatars.githubusercontent.com/u/42814580?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aldofwi"><b>Λldo</b></a><br><sub>&#64;aldofwi</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">15</td>
@@ -43,7 +50,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 1 followers.
+- Organizations are excluded. 3 attributed developers are tracked; the cutoff is 1 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

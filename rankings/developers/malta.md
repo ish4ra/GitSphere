@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/developers/MT.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/developers/MT.json">JSON</a> |
 
 </div>
 
@@ -42,6 +42,41 @@
 <td align="right">113</td>
 <td><sub>Malta</sub></td>
 </tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/ChintanTrivedi"><img src="https://avatars.githubusercontent.com/u/15974320?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ChintanTrivedi"><b>Chintan Trivedi</b></a><br><sub>&#64;ChintanTrivedi</sub></td>
+<td align="right"><b>553</b></td>
+<td align="right">12</td>
+<td><sub>University of Malta</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/ethernity-cloud"><img src="https://avatars.githubusercontent.com/u/66076991?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ethernity-cloud"><b>Ethernity CLOUD</b></a><br><sub>&#64;ethernity-cloud</sub></td>
+<td align="right"><b>523</b></td>
+<td align="right">16</td>
+<td><sub>St. Julians, Malta</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/xiaocong"><img src="https://avatars.githubusercontent.com/u/1559756?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xiaocong"><b>xiaocong</b></a><br><sub>&#64;xiaocong</sub></td>
+<td align="right"><b>475</b></td>
+<td align="right">94</td>
+<td><sub>Malta</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/camilamacedo86"><img src="https://avatars.githubusercontent.com/u/7708031?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/camilamacedo86"><b>Camila Macedo</b></a><br><sub>&#64;camilamacedo86</sub></td>
+<td align="right"><b>445</b></td>
+<td align="right">60</td>
+<td><sub>Malta</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/mbj"><img src="https://avatars.githubusercontent.com/u/117966?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mbj"><b>Markus Schirp</b></a><br><sub>&#64;mbj</sub></td>
+<td align="right"><b>296</b></td>
+<td align="right">0</td>
+<td><sub>Malta</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -50,7 +85,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 3 attributed developers are tracked; the cutoff is 609 followers.
+- Organizations are excluded. 8 attributed developers are tracked; the cutoff is 296 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

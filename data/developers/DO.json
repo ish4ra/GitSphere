@@ -5,17 +5,18 @@
 "country": {"code":"DO","name":"Dominican Republic","slug":"dominican-republic"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":565,"candidates":6,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":134,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":425,"candidates":7,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":134,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjUyMjM0NA==","login":"alanhamlett","name":"Alan Hamlett","url":"https://github.com/alanhamlett","avatarUrl":"https://avatars.githubusercontent.com/u/522344?s=80&v=4","followers":5137,"publicRepos":122,"location":"Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjI1MTY0MDc=","login":"gavilanch","name":"Felipe Gavilán","url":"https://github.com/gavilanch","avatarUrl":"https://avatars.githubusercontent.com/u/2516407?s=80&v=4","followers":1279,"publicRepos":168,"location":"República Dominicana","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":3,"id":"U_kgDOCNChrw","login":"johansitoweb","name":"Johan Antonio","url":"https://github.com/johansitoweb","avatarUrl":"https://avatars.githubusercontent.com/u/147890607?s=80&v=4","followers":939,"publicRepos":1024,"location":"Dominican republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":4,"id":"MDQ6VXNlcjIzNzQ1Njc4","login":"sgermosen","name":"Starling Germosen","url":"https://github.com/sgermosen","avatarUrl":"https://avatars.githubusercontent.com/u/23745678?s=80&v=4","followers":728,"publicRepos":46,"location":"Santo Domingo, Republica Dominicana","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":5,"id":"MDQ6VXNlcjIzNDE0MTUz","login":"Magtimus","name":"Magtimus","url":"https://github.com/Magtimus","avatarUrl":"https://avatars.githubusercontent.com/u/23414153?s=80&v=4","followers":630,"publicRepos":120,"location":"La Romana Republica Dominicana","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":6,"id":"MDQ6VXNlcjM1OTQwNTk0","login":"LeomarisReyes","name":"Leomaris Reyes","url":"https://github.com/LeomarisReyes","avatarUrl":"https://avatars.githubusercontent.com/u/35940594?s=80&v=4","followers":565,"publicRepos":75,"location":"Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":5,"id":"MDQ6VXNlcjIzNDE0MTUz","login":"Magtimus","name":"Magtimus","url":"https://github.com/Magtimus","avatarUrl":"https://avatars.githubusercontent.com/u/23414153?s=80&v=4","followers":630,"publicRepos":120,"location":"La Romana Republica Dominicana","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":6,"id":"MDQ6VXNlcjM1OTQwNTk0","login":"LeomarisReyes","name":"Leomaris Reyes","url":"https://github.com/LeomarisReyes","avatarUrl":"https://avatars.githubusercontent.com/u/35940594?s=80&v=4","followers":565,"publicRepos":75,"location":"Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":7,"id":"MDQ6VXNlcjQzOTgzOQ==","login":"rmariuzzo","name":"Rubens Mariuzzo","url":"https://github.com/rmariuzzo","avatarUrl":"https://avatars.githubusercontent.com/u/439839?s=80&v=4","followers":425,"publicRepos":197,"location":"Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "15c38d04b14628e0",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "3ceeb5ee91e0d5e3",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

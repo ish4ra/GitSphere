@@ -5,15 +5,21 @@
 "country": {"code":"NI","name":"Nicaragua","slug":"nicaragua"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":1,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":1,"candidates":10,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"U_kgDOBlXdYA","login":"CrisLottz","name":"Cris Lottz","url":"https://github.com/CrisLottz","avatarUrl":"https://avatars.githubusercontent.com/u/106290528?s=80&v=4","followers":2157,"publicRepos":11,"location":"Nicaragua","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"U_kgDOBvoBpA","login":"Bryan18-Alvarado","name":"Bryan_Alvarado","url":"https://github.com/Bryan18-Alvarado","avatarUrl":"https://avatars.githubusercontent.com/u/117047716?s=80&v=4","followers":7,"publicRepos":47,"location":"Nueva Guinea","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
-  {"rank":3,"id":"U_kgDOCHjPrg","login":"codigomaestro01","name":"Programador Maestro","url":"https://github.com/codigomaestro01","avatarUrl":"https://avatars.githubusercontent.com/u/142135214?s=80&v=4","followers":6,"publicRepos":23,"location":"Nueva Guinea","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
-  {"rank":4,"id":"U_kgDOCICC9Q","login":"Wendell-Jarquin","name":"TECNOJAR","url":"https://github.com/Wendell-Jarquin","avatarUrl":"https://avatars.githubusercontent.com/u/142639861?s=80&v=4","followers":1,"publicRepos":30,"location":"Nueva Guinea - Zelaya Central","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"}
+  {"rank":2,"id":"MDQ6VXNlcjE4MDYyMzI=","login":"darwinsalinas","name":"Darwin Salinas","url":"https://github.com/darwinsalinas","avatarUrl":"https://avatars.githubusercontent.com/u/1806232?s=80&v=4","followers":41,"publicRepos":116,"location":"Nueva Guinea, Nicaragua","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":3,"id":"MDQ6VXNlcjc1NTk2MzIy","login":"teo009","name":"Teodoro Obando","url":"https://github.com/teo009","avatarUrl":"https://avatars.githubusercontent.com/u/75596322?s=80&v=4","followers":32,"publicRepos":19,"location":"Nueva Guinea, Nicaragua","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":4,"id":"MDQ6VXNlcjMyMjQ5NDU1","login":"gabriel14silva","name":"José Gabriel Griffin Silva","url":"https://github.com/gabriel14silva","avatarUrl":"https://avatars.githubusercontent.com/u/32249455?s=80&v=4","followers":15,"publicRepos":36,"location":"Nicaragua, RACS, Nueva Guinea","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":5,"id":"MDQ6VXNlcjg4MjQ3MTMw","login":"Elliam-Sanchez510","name":"Elliam Sánchez","url":"https://github.com/Elliam-Sanchez510","avatarUrl":"https://avatars.githubusercontent.com/u/88247130?s=80&v=4","followers":12,"publicRepos":48,"location":"Nueva Guinea, Nicaragua","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":6,"id":"U_kgDOBvoBpA","login":"Bryan18-Alvarado","name":"Bryan_Alvarado","url":"https://github.com/Bryan18-Alvarado","avatarUrl":"https://avatars.githubusercontent.com/u/117047716?s=80&v=4","followers":7,"publicRepos":47,"location":"Nueva Guinea","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23"},
+  {"rank":7,"id":"U_kgDOBa0x0Q","login":"Requenez-Diaz","name":"Requenez","url":"https://github.com/Requenez-Diaz","avatarUrl":"https://avatars.githubusercontent.com/u/95236561?s=80&v=4","followers":6,"publicRepos":51,"location":"Nueva Guinea, RAAS, Nicaragua","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":8,"id":"U_kgDOCHjPrg","login":"codigomaestro01","name":"Programador Maestro","url":"https://github.com/codigomaestro01","avatarUrl":"https://avatars.githubusercontent.com/u/142135214?s=80&v=4","followers":6,"publicRepos":23,"location":"Nueva Guinea","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23"},
+  {"rank":9,"id":"U_kgDOBxkXVg","login":"JaderObando22","name":"Jader Obando","url":"https://github.com/JaderObando22","avatarUrl":"https://avatars.githubusercontent.com/u/119084886?s=80&v=4","followers":2,"publicRepos":25,"location":"Nueva Guinea, Nicaragua","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":10,"id":"U_kgDOCICC9Q","login":"Wendell-Jarquin","name":"TECNOJAR","url":"https://github.com/Wendell-Jarquin","avatarUrl":"https://avatars.githubusercontent.com/u/142639861?s=80&v=4","followers":1,"publicRepos":30,"location":"Nueva Guinea - Zelaya Central","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "35874b5aa5987782",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "0d1b26ab9383943a",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

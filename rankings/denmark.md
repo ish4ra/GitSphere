@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **73** | 22 Nov 2026 | <a href="../data/DK.json">JSON</a> |
+| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/DK.json">JSON</a> |
 
 </div>
 
@@ -532,16 +532,205 @@
 <td align="right">202</td>
 <td>Go</td>
 </tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/andsens.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/andsens/homeshick"><b>andsens/homeshick</b></a><br><sub>git dotfiles synchronizer written in bash</sub></td>
+<td align="right"><b>2,195</b></td>
+<td align="right">146</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/andersbll.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/andersbll/neural_artistic_style"><b>andersbll/neural&#95;artistic&#95;style</b></a><br><sub>Neural Artistic Style in Python</sub></td>
+<td align="right"><b>2,167</b></td>
+<td align="right">470</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/Unity-Technologies.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Unity-Technologies/VisualEffectGraph-Samples"><b>Unity-Technologies/VisualEffectGraph-Samples</b></a><br><sub>Visual Effect Graph - Samples Project</sub></td>
+<td align="right"><b>2,142</b></td>
+<td align="right">432</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/terrymun.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/terrymun/Fluidbox"><b>terrymun/Fluidbox</b></a> <sub>archived</sub><br><sub>Replicating and improving the lightbox module seen on Medium with fluid transitions.</sub></td>
+<td align="right"><b>2,129</b></td>
+<td align="right">163</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/mountebank-testing.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mountebank-testing/mountebank"><b>mountebank-testing/mountebank</b></a><br><sub>Over the wire test doubles</sub></td>
+<td align="right"><b>2,109</b></td>
+<td align="right">294</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/tyilo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tyilo/insert_dylib"><b>tyilo/insert&#95;dylib</b></a><br><sub>Command line utility for inserting a dylib load command into a Mach-O binary</sub></td>
+<td align="right"><b>2,108</b></td>
+<td align="right">379</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/rosenbjerg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rosenbjerg/FFMpegCore"><b>rosenbjerg/FFMpegCore</b></a><br><sub>A .NET FFMpeg/FFProbe wrapper for easily integrating media analysis and conversion into your C# applications</sub></td>
+<td align="right"><b>2,107</b></td>
+<td align="right">346</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/SebLague.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SebLague/Path-Creator"><b>SebLague/Path-Creator</b></a><br><sub>Path creation asset for Unity game development</sub></td>
+<td align="right"><b>2,100</b></td>
+<td align="right">332</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/klauspost.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/klauspost/reedsolomon"><b>klauspost/reedsolomon</b></a><br><sub>Reed-Solomon Erasure Coding in Go</sub></td>
+<td align="right"><b>2,099</b></td>
+<td align="right">281</td>
+<td>Assembly</td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><img src="https://github.com/Muddz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Muddz/StyleableToast"><b>Muddz/StyleableToast</b></a><br><sub>Android library that takes the standard toast to the next level with many styling options. Works on all Android version…</sub></td>
+<td align="right"><b>2,061</b></td>
+<td align="right">264</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><img src="https://github.com/Unity-Technologies.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Unity-Technologies/AutoLOD"><b>Unity-Technologies/AutoLOD</b></a><br><sub>Automatic LOD generation + scene optimization</sub></td>
+<td align="right"><b>2,060</b></td>
+<td align="right">224</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">85</td>
+<td><img src="https://github.com/Unity-Technologies.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop"><b>Unity-Technologies/com.unity.multiplayer.samples.coop</b></a><br><sub>A small-scale cooperative game sample built on the new, Unity networking framework to teach developers about creating a…</sub></td>
+<td align="right"><b>2,006</b></td>
+<td align="right">606</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/thomasp85.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thomasp85/gganimate"><b>thomasp85/gganimate</b></a><br><sub>A Grammar of Animated Graphics</sub></td>
+<td align="right"><b>1,984</b></td>
+<td align="right">316</td>
+<td>R</td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><img src="https://github.com/TKJElectronics.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TKJElectronics/KalmanFilter"><b>TKJElectronics/KalmanFilter</b></a><br><sub>This is a Kalman filter used to calculate the angle, rate and bias from from the input of an accelerometer/magnetometer…</sub></td>
+<td align="right"><b>1,951</b></td>
+<td align="right">739</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><img src="https://github.com/PhilipK.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PhilipK/BoilR"><b>PhilipK/BoilR</b></a><br><sub>Synchronize games from other platforms into your Steam library</sub></td>
+<td align="right"><b>1,940</b></td>
+<td align="right">74</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><img src="https://github.com/maragudk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maragudk/gomponents"><b>maragudk/gomponents</b></a><br><sub>HTML components in pure Go.</sub></td>
+<td align="right"><b>1,924</b></td>
+<td align="right">60</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><img src="https://github.com/mikependon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mikependon/RepoDB"><b>mikependon/RepoDB</b></a><br><sub>A production-ready data access platform for .NET applications.</sub></td>
+<td align="right"><b>1,911</b></td>
+<td align="right">139</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/DanielLavrushin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DanielLavrushin/b4"><b>DanielLavrushin/b4</b></a><br><sub>Network packet processor with a friendly UI for circumventing Deep Packet Inspection (DPI) systems.</sub></td>
+<td align="right"><b>1,898</b></td>
+<td align="right">80</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/larsenwork.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/larsenwork/Gidole"><b>larsenwork/Gidole</b></a><br><sub>Gidole - Open Source Modern DIN</sub></td>
+<td align="right"><b>1,896</b></td>
+<td align="right">69</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/Inochi2D.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Inochi2D/inochi2d"><b>Inochi2D/inochi2d</b></a><br><sub>Inochi2D SDK - Bring your characters to life</sub></td>
+<td align="right"><b>1,885</b></td>
+<td align="right">76</td>
+<td>D</td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/mickhansen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mickhansen/graphql-sequelize"><b>mickhansen/graphql-sequelize</b></a><br><sub>GraphQL &amp; Relay for MySQL &amp; Postgres via Sequelize</sub></td>
+<td align="right"><b>1,881</b></td>
+<td align="right">156</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/playdeadgames.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/playdeadgames/temporal"><b>playdeadgames/temporal</b></a><br><sub>Temporal Reprojection Anti-Aliasing for Unity 5.0+</sub></td>
+<td align="right"><b>1,877</b></td>
+<td align="right">190</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/pixop.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pixop/video-compare"><b>pixop/video-compare</b></a><br><sub>Split-screen video comparison tool using FFmpeg and SDL2</sub></td>
+<td align="right"><b>1,825</b></td>
+<td align="right">78</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/ashleydw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ashleydw/lightbox"><b>ashleydw/lightbox</b></a> <sub>archived</sub><br><sub>A lightbox gallery plugin for Bootstrap</sub></td>
+<td align="right"><b>1,817</b></td>
+<td align="right">1,245</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/Unity-Technologies.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Unity-Technologies/VolumetricLighting"><b>Unity-Technologies/VolumetricLighting</b></a><br><sub>Lighting effects implemented for the Adam demo: volumetric fog, area lights and tube lights</sub></td>
+<td align="right"><b>1,797</b></td>
+<td align="right">252</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/troldal.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/troldal/OpenXLSX"><b>troldal/OpenXLSX</b></a><br><sub>A C++ library for reading, writing, creating and modifying Microsoft Excel® (.xlsx) files.</sub></td>
+<td align="right"><b>1,788</b></td>
+<td align="right">392</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/Unity-Technologies.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Unity-Technologies/Animation-Instancing"><b>Unity-Technologies/Animation-Instancing</b></a><br><sub>This technique is designed to instance Characters(SkinnedMeshRender).</sub></td>
+<td align="right"><b>1,788</b></td>
+<td align="right">307</td>
+<td>C#</td>
+</tr>
 </tbody>
 </table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 2,227 stars; 73 attributed candidates are tracked.
-- 129 multi-repository owners are queued for expansion.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 1,788 stars; 124 attributed candidates are tracked.
+- 128 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 154 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

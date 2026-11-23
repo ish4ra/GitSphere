@@ -7,12 +7,12 @@
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
 "coverage": {"basis":"partial","cutoffFollowers":0,"candidates":84,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":16,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjE3MzM3Mg==","login":"BalusC","name":"Bauke Scholtz","url":"https://github.com/BalusC","avatarUrl":"https://avatars.githubusercontent.com/u/173372?s=80&v=4","followers":448,"publicRepos":13,"location":"Willemstad, Curaçao","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"MDQ6VXNlcjY5MjMwMDg=","login":"schroef","name":null,"url":"https://github.com/schroef","avatarUrl":"https://avatars.githubusercontent.com/u/6923008?s=80&v=4","followers":67,"publicRepos":43,"location":"Curaçao, Dutch Caribbean","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":1,"id":"MDQ6VXNlcjE3MzM3Mg==","login":"BalusC","name":"Bauke Scholtz","url":"https://github.com/BalusC","avatarUrl":"https://avatars.githubusercontent.com/u/173372?s=80&v=4","followers":448,"publicRepos":13,"location":"Willemstad, Curaçao","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":2,"id":"MDQ6VXNlcjY5MjMwMDg=","login":"schroef","name":null,"url":"https://github.com/schroef","avatarUrl":"https://avatars.githubusercontent.com/u/6923008?s=80&v=4","followers":67,"publicRepos":43,"location":"Curaçao, Dutch Caribbean","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":3,"id":"MDQ6VXNlcjE4NDAyNg==","login":"dwarfland","name":"marc hoffman","url":"https://github.com/dwarfland","avatarUrl":"https://avatars.githubusercontent.com/u/184026?s=80&v=4","followers":63,"publicRepos":24,"location":"Curaçao","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":4,"id":"MDQ6VXNlcjc3OTE4Mw==","login":"plopezbarbosa","name":"Pierre López Barbosa","url":"https://github.com/plopezbarbosa","avatarUrl":"https://avatars.githubusercontent.com/u/779183?s=80&v=4","followers":60,"publicRepos":1,"location":"Curaçao","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":5,"id":"MDQ6VXNlcjcwNDk=","login":"weyert","name":"Weyert de Boer","url":"https://github.com/weyert","avatarUrl":"https://avatars.githubusercontent.com/u/7049?s=80&v=4","followers":43,"publicRepos":269,"location":"London, Curaçao","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":6,"id":"MDQ6VXNlcjI3NjQ1OA==","login":"rascoop","name":"Richard Scoop","url":"https://github.com/rascoop","avatarUrl":"https://avatars.githubusercontent.com/u/276458?s=80&v=4","followers":34,"publicRepos":41,"location":"Curaçao, Dutch Caribbean","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":6,"id":"MDQ6VXNlcjI3NjQ1OA==","login":"rascoop","name":"Richard Scoop","url":"https://github.com/rascoop","avatarUrl":"https://avatars.githubusercontent.com/u/276458?s=80&v=4","followers":34,"publicRepos":41,"location":"Curaçao, Dutch Caribbean","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":7,"id":"MDQ6VXNlcjQxNjMwMw==","login":"jentanbernardus","name":"Jentan Bernardus","url":"https://github.com/jentanbernardus","avatarUrl":"https://avatars.githubusercontent.com/u/416303?s=80&v=4","followers":26,"publicRepos":422,"location":"Curaçao","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":8,"id":"MDQ6VXNlcjU5NjEx","login":"frankgeerlings","name":"Frank Geerlings","url":"https://github.com/frankgeerlings","avatarUrl":"https://avatars.githubusercontent.com/u/59611?s=80&v=4","followers":22,"publicRepos":35,"location":"Curaçao","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":9,"id":"MDQ6VXNlcjM0NjA0MQ==","login":"r3c4ll","name":"Ali Moreno","url":"https://github.com/r3c4ll","avatarUrl":"https://avatars.githubusercontent.com/u/346041?s=80&v=4","followers":13,"publicRepos":15,"location":"Willemstad, Curaçao.","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
@@ -92,8 +92,8 @@
   {"rank":83,"id":"U_kgDOD1kDZw","login":"wsueducw","name":"Western State University (WSU)","url":"https://github.com/wsueducw","avatarUrl":"https://avatars.githubusercontent.com/u/257491815?s=80&v=4","followers":0,"publicRepos":0,"location":"Western State University Cas Coraweg 105 Curaçao, Kingdom of the Netherlands Postal Code: CW0001","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":84,"id":"U_kgDODH_8jA","login":"Zenzi-Zunder","name":"Zenzi Zunder","url":"https://github.com/Zenzi-Zunder","avatarUrl":"https://avatars.githubusercontent.com/u/209714316?s=80&v=4","followers":0,"publicRepos":0,"location":"Willemstad, Curaçao","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "10aba027fbb81026",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "2f01c46c928a39e6",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

@@ -5,12 +5,14 @@
 "country": {"code":"SS","name":"South Sudan","slug":"south-sudan"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":9,"measuredAccounts":2,"measurementBacklog":7,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":10,"measuredAccounts":4,"measurementBacklog":6,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjg4MzEyNg==","login":"samccone","name":"Sam Saccone","url":"https://github.com/samccone","avatarUrl":"https://avatars.githubusercontent.com/u/883126?s=80&v=4","followers":2262,"publicRepos":415,"location":"∆∆∆<script>alert(prompt('why'))</script>","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22","contributions":{"public":55,"commits":35,"pullRequests":11,"reviews":1,"issues":0,"repositories":8,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"U_kgDOBXSzOQ","login":"Maiz27","name":"Maged Faiz","url":"https://github.com/Maiz27","avatarUrl":"https://avatars.githubusercontent.com/u/91534137?s=80&v=4","followers":437,"publicRepos":9,"location":"Juba, South Sudan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":1256,"commits":1102,"pullRequests":76,"reviews":3,"issues":74,"repositories":1,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":2,"id":"MDQ6VXNlcjg4MzEyNg==","login":"samccone","name":"Sam Saccone","url":"https://github.com/samccone","avatarUrl":"https://avatars.githubusercontent.com/u/883126?s=80&v=4","followers":2262,"publicRepos":415,"location":"∆∆∆<script>alert(prompt('why'))</script>","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22","contributions":{"public":55,"commits":35,"pullRequests":11,"reviews":1,"issues":0,"repositories":8,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":3,"id":"U_kgDODqco2Q","login":"AndreaFabbri4L","name":"Andrea","url":"https://github.com/AndreaFabbri4L","avatarUrl":"https://avatars.githubusercontent.com/u/245835993?s=80&v=4","followers":2,"publicRepos":7,"location":"Sud Sudan☂💥","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":40,"commits":32,"pullRequests":0,"reviews":0,"issues":0,"repositories":7,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "992e2e062aa983dc",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "0f865c0500c7c6e5",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

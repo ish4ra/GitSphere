@@ -5,15 +5,18 @@
 "country": {"code":"CM","name":"Cameroon","slug":"cameroon"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":699,"candidates":4,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":115,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":490,"candidates":7,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":115,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"U_kgDOCsl9RA","login":"JOELNATHAN544","name":"Joel Nathan Wanko","url":"https://github.com/JOELNATHAN544","avatarUrl":"https://avatars.githubusercontent.com/u/180976964?s=80&v=4","followers":1371,"publicRepos":46,"location":"Cameroon, Bangangté","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjYyMjY5Njkz","login":"ln-dev7","name":"LN","url":"https://github.com/ln-dev7","avatarUrl":"https://avatars.githubusercontent.com/u/62269693?s=80&v=4","followers":1257,"publicRepos":280,"location":"Cameroon","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":3,"id":"MDQ6VXNlcjMxNDgzMTk=","login":"elliottminns","name":"Elliott Minns","url":"https://github.com/elliottminns","avatarUrl":"https://avatars.githubusercontent.com/u/3148319?s=80&v=4","followers":1192,"publicRepos":134,"location":"About","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
-  {"rank":4,"id":"U_kgDOCsl80Q","login":"chojuninengu","name":"JU-NINE NGU CHO","url":"https://github.com/chojuninengu","avatarUrl":"https://avatars.githubusercontent.com/u/180976849?s=80&v=4","followers":699,"publicRepos":129,"location":"Cameroon","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":4,"id":"U_kgDOCsl80Q","login":"chojuninengu","name":"JU-NINE NGU CHO","url":"https://github.com/chojuninengu","avatarUrl":"https://avatars.githubusercontent.com/u/180976849?s=80&v=4","followers":699,"publicRepos":129,"location":"Cameroon","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":5,"id":"MDQ6VXNlcjQyMDg5NjI0","login":"bonzum","name":"Mark legend","url":"https://github.com/bonzum","avatarUrl":"https://avatars.githubusercontent.com/u/42089624?s=80&v=4","followers":553,"publicRepos":12,"location":"Cameroon","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":6,"id":"U_kgDOBqXVMQ","login":"Arielpetit","name":"arielpetit","url":"https://github.com/Arielpetit","avatarUrl":"https://avatars.githubusercontent.com/u/111531313?s=80&v=4","followers":526,"publicRepos":68,"location":"cameroon","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":7,"id":"U_kgDOCeRf-w","login":"djonmaila","name":"DJONMAILA PYTHAGORE","url":"https://github.com/djonmaila","avatarUrl":"https://avatars.githubusercontent.com/u/165961723?s=80&v=4","followers":490,"publicRepos":14,"location":"Cameroon","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "9c40d36cdf872fc3",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "fddf4849959483b9",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

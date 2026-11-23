@@ -5,14 +5,14 @@
 "country": {"code":"DM","name":"Dominica","slug":"dominica"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":91,"measuredAccounts":3,"measurementBacklog":88,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":18,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":91,"measuredAccounts":5,"measurementBacklog":86,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":18,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDODaxhJA","login":"Ph03nix-T3ars","name":"Ph03nix-T3ars (Ph03nix-T3ars)","url":"https://github.com/Ph03nix-T3ars","avatarUrl":"https://avatars.githubusercontent.com/u/229400868?s=80&v=4","followers":1,"publicRepos":157,"location":"Dominica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":89,"commits":2,"pullRequests":0,"reviews":0,"issues":0,"repositories":87,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":2,"id":"MDQ6VXNlcjY0NzUwMTA4","login":"Nexxus-LMT","name":"WaitukuNexx","url":"https://github.com/Nexxus-LMT","avatarUrl":"https://avatars.githubusercontent.com/u/64750108?s=80&v=4","followers":2,"publicRepos":209,"location":"Dominica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":12,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":12,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":3,"id":"MDQ6VXNlcjg2ODUzMjEx","login":"josuejs23","name":null,"url":"https://github.com/josuejs23","avatarUrl":"https://avatars.githubusercontent.com/u/86853211?s=80&v=4","followers":20,"publicRepos":53,"location":"Dominica Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "cc6e2cbb87cd7d48",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "fb33340a4db9107e",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

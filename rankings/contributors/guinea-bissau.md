@@ -14,17 +14,35 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/contributors/GW.json">JSON</a> |
+| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/contributors/GW.json">JSON</a> |
 
 </div>
 
-<p align="center"><sub>Public contributions from <b>22 Nov 2025</b> to <b>22 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
+<p align="center"><sub>Public contributions from <b>23 Nov 2025</b> to <b>23 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
 
 <table>
 <thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Public contributions</th><th align="right">Commits</th><th align="right">PRs</th><th align="right">Reviews</th><th align="right">Issues</th></tr></thead>
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/atchutchi"><img src="https://avatars.githubusercontent.com/u/127081619?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/atchutchi"><b>Atchutchi B Ferreira</b></a><br><sub>&#64;atchutchi · 8 followers</sub></td>
+<td align="right"><b>788</b></td>
+<td align="right">664</td>
+<td align="right">102</td>
+<td align="right">0</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/USFCodes"><img src="https://avatars.githubusercontent.com/u/256746257?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/USFCodes"><b>Yusuf O. Yisa</b></a><br><sub>&#64;USFCodes · 1 followers</sub></td>
+<td align="right"><b>99</b></td>
+<td align="right">83</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/abduramanedjalo06"><img src="https://avatars.githubusercontent.com/u/313614596?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abduramanedjalo06"><b>Abduramane Djaló</b></a><br><sub>&#64;abduramanedjalo06 · 0 followers</sub></td>
 <td align="right"><b>48</b></td>
 <td align="right">46</td>
@@ -39,10 +57,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 2 of 12 discovered developers (10 awaiting measurement).
+- **Measured:** 4 of 30 discovered developers (26 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 3 of 49 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

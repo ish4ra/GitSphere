@@ -5,7 +5,7 @@
 "country": {"code":"HK","name":"Hong Kong","slug":"hong-kong"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":2590,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":131,"candidates":136,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":2590,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":131,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":142,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkyNDM5NTA0MDg=","name":"HowToCook","nameWithOwner":"Anduin2017/HowToCook","url":"https://github.com/Anduin2017/HowToCook","description":"Programmer's guide about how to cook at home.","stars":104183,"forks":11232,"primaryLanguage":null,"license":{"spdxId":"Unlicense"},"createdAt":"2020-02-29T10:43:49Z","pushedAt":"2026-11-17T15:15:21Z","archived":false,"owner":{"login":"Anduin2017","name":"Anduin Xue","type":"User","url":"https://github.com/Anduin2017","location":"Hong Kong SAR","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkzODI0OTYzNjE=","name":"uptime-kuma","nameWithOwner":"louislam/uptime-kuma","url":"https://github.com/louislam/uptime-kuma","description":"A fancy self-hosted monitoring tool","stars":94758,"forks":8867,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2021-07-03T01:02:42Z","pushedAt":"2026-11-22T07:50:56Z","archived":false,"owner":{"login":"louislam","name":"Louis Lam","type":"User","url":"https://github.com/louislam","location":"Hong Kong","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"R_kgDOSJuUpg","name":"MingLi-Bench","nameWithOwner":"DestinyLinker/MingLi-Bench","url":"https://github.com/DestinyLinker/MingLi-Bench","description":"A benchmark for evaluating LLMs on Chinese traditional fortune telling — Bazi (八字) and Ziwei Doushu (紫微斗数).","stars":2615,"forks":370,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2026-04-22T15:32:29Z","pushedAt":"2026-05-09T17:49:34Z","archived":false,"owner":{"login":"DestinyLinker","name":"Destinylinker","type":"Organization","url":"https://github.com/DestinyLinker","location":"Hong Kong","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
   {"rank":100,"id":"R_kgDOHHMDFg","name":"conform","nameWithOwner":"edmundhung/conform","url":"https://github.com/edmundhung/conform","description":"Progressively enhance HTML forms with React. Build resilient, type-safe forms with no hassle using web standards.","stars":2590,"forks":146,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2022-04-03T09:53:43Z","pushedAt":"2026-11-15T23:03:31Z","archived":false,"owner":{"login":"edmundhung","name":"Edmund Hung","type":"User","url":"https://github.com/edmundhung","location":"Hong Kong","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "2704217f7e2ddd2f",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "8f3a5e143be7e214",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/BW.json">JSON</a> |
+| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/developers/BW.json">JSON</a> |
 
 </div>
 
@@ -23,27 +23,41 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/Abel-Moremi"><img src="https://avatars.githubusercontent.com/u/28807232?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abel-Moremi"><b>Abel Moremi</b></a><br><sub>&#64;Abel-Moremi</sub></td>
+<td align="right"><b>26</b></td>
+<td align="right">32</td>
+<td><sub>Gaborone, Botswana</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/24blac"><img src="https://avatars.githubusercontent.com/u/81078724?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/24blac"><b>Mopati</b></a><br><sub>&#64;24blac</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">4</td>
 <td><sub>Botswana</sub></td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">3</td>
 <td><a href="https://github.com/4tlas-Mokgotle"><img src="https://avatars.githubusercontent.com/u/196611138?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/4tlas-Mokgotle"><b>Bongani Bigboy Otsile Mokgotle</b></a><br><sub>&#64;4tlas-Mokgotle</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
 <td><sub>Gaborone, Botswana</sub></td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
+<td><a href="https://github.com/abc23-006"><img src="https://avatars.githubusercontent.com/u/161313617?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abc23-006"><b>Thuo Rolf Setima</b></a><br><sub>&#64;abc23-006</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">1</td>
+<td><sub>Fairgrounds, Gaborone Botswana</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/0126FinGuy"><img src="https://avatars.githubusercontent.com/u/130290220?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0126FinGuy"><b>Oteng Boitshepo Olaetse</b></a><br><sub>&#64;0126FinGuy</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Gaborone, Botswana</sub></td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">6</td>
 <td><a href="https://github.com/aaronaase090-blip"><img src="https://avatars.githubusercontent.com/u/269562075?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aaronaase090-blip"><b>aase aaron</b></a><br><sub>&#64;aaronaase090-blip</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
@@ -57,7 +71,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 6 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 118 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

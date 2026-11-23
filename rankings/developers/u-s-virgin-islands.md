@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/Rotgarg"><img src="https://avatars.githubusercontent.com/u/127252407?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rotgarg"><b>rotgang</b></a><br><sub>&#64;Rotgarg</sub></td>
-<td align="right"><b>15</b></td>
+<td align="right"><b>14</b></td>
 <td align="right">3</td>
 <td><sub>Little Saint James, U.S. Virgin Islands</sub></td>
 </tr>

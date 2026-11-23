@@ -5,7 +5,7 @@
 "country": {"code":"IN","name":"India","slug":"india"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":7297,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":136,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":7297,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":136,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":185,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk2MzQ3NjMzNw==","name":"Python","nameWithOwner":"TheAlgorithms/Python","url":"https://github.com/TheAlgorithms/Python","description":"All Algorithms implemented in Python","stars":226383,"forks":51342,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2016-07-16T09:44:01Z","pushedAt":"2026-11-13T04:28:36Z","archived":false,"owner":{"login":"TheAlgorithms","name":"The Algorithms","type":"Organization","url":"https://github.com/TheAlgorithms","location":"India","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnk1NTA3NjA2Mw==","name":"Awesome-Hacking","nameWithOwner":"Hack-with-Github/Awesome-Hacking","url":"https://github.com/Hack-with-Github/Awesome-Hacking","description":"A collection of various awesome lists for hackers, pentesters and security researchers","stars":126200,"forks":11034,"primaryLanguage":null,"license":{"spdxId":"CC0-1.0"},"createdAt":"2016-03-30T15:47:10Z","pushedAt":"2026-10-27T01:45:58Z","archived":false,"owner":{"login":"Hack-with-Github","name":"Hack with GitHub","type":"Organization","url":"https://github.com/Hack-with-Github","location":"Bangalore, India","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"MDEwOlJlcG9zaXRvcnk0ODk1Mzc3NQ==","name":"52-technologies-in-2016","nameWithOwner":"shekhargulati/52-technologies-in-2016","url":"https://github.com/shekhargulati/52-technologies-in-2016","description":"Let's learn a new technology every week. A new technology blog every Sunday in 2016.","stars":7341,"forks":586,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2016-01-03T17:06:03Z","pushedAt":"2022-10-18T03:18:26Z","archived":false,"owner":{"login":"shekhargulati","name":"Shekhar Gulati","type":"User","url":"https://github.com/shekhargulati","location":"India","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
   {"rank":100,"id":"R_kgDOKoVDhw","name":"next-shadcn-dashboard-starter","nameWithOwner":"Kiranism/next-shadcn-dashboard-starter","url":"https://github.com/Kiranism/next-shadcn-dashboard-starter","description":"Free, open source, AI-first admin dashboard template built with Next.js 16, shadcn/ui, Tailwind CSS, and TypeScript. Production-ready tables, forms, auth, and…","stars":7297,"forks":1629,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2023-11-02T11:54:38Z","pushedAt":"2026-11-15T23:20:59Z","archived":false,"owner":{"login":"Kiranism","name":"K I R A N","type":"User","url":"https://github.com/Kiranism","location":"Remote, Kerala 🌴","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "46bc710954c8c22f",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "b7a1aabc3091f15e",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

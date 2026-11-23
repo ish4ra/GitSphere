@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"PS","name":"Palestine","slug":"palestine"},
-"count": 149,
+"count": 148,
 "repositories": [
-  {"name":"shadeed/headers-css","stars":518,"forks":80,"language":"HTML","archived":false,"createdAt":"2020-08-22T19:47:35Z","pushedAt":"2020-11-01T10:01:01Z","owner":{"login":"shadeed","type":"User","name":"Ahmad Shadeed","location":"Tulkarm, Palestine"},"attribution":{"code":"PS","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-10T14:48:45.642Z","id":"legacy:shadeed/headers-css","legacy":true},
   {"name":"izadoesdev/keypal","stars":206,"forks":13,"language":"TypeScript","license":"MIT","archived":false,"createdAt":"2025-10-23T11:02:44Z","pushedAt":"2026-04-21T18:41:37Z","owner":{"login":"izadoesdev","type":"User","name":"iza","location":"Palestine"},"attribution":{"code":"PS","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T16:18:32.580Z","id":"legacy:izadoesdev/keypal","legacy":true},
   {"name":"MrM8BRH/SuperLibrary","stars":180,"forks":44,"language":"Python","archived":false,"createdAt":"2020-07-01T10:15:42Z","pushedAt":"2026-02-08T05:04:32Z","owner":{"login":"MrM8BRH","type":"User","location":"Palestine"},"attribution":{"code":"PS","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T16:18:32.580Z","id":"legacy:mrm8brh/superlibrary","legacy":true},
   {"name":"msafadi/laravel-eloquent-join-with","stars":166,"forks":6,"language":"PHP","license":"MIT","archived":false,"createdAt":"2024-05-18T12:16:18Z","pushedAt":"2025-12-03T21:29:15Z","owner":{"login":"msafadi","type":"User","name":"Mohammed Safadi","location":"Gaza, Palestine"},"attribution":{"code":"PS","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-02T16:18:32.580Z","id":"legacy:msafadi/laravel-eloquent-join-with","legacy":true},

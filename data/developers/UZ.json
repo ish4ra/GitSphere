@@ -5,7 +5,7 @@
 "country": {"code":"UZ","name":"Uzbekistan","slug":"uzbekistan"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":116,"candidates":10,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":76,"candidates":18,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjI0NjkyNjY3","login":"anvarnarz","name":"Anvar Narzullaev","url":"https://github.com/anvarnarz","avatarUrl":"https://avatars.githubusercontent.com/u/24692667?s=80&v=4","followers":2609,"publicRepos":36,"location":"Tashkent","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"U_kgDOCN2Tgw","login":"Iqbolshoh","name":"Iqbolshoh Ilhomjonov","url":"https://github.com/Iqbolshoh","avatarUrl":"https://avatars.githubusercontent.com/u/148738947?s=80&v=4","followers":2284,"publicRepos":113,"location":"Uzbekistan, Samarqand city","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
@@ -16,10 +16,18 @@
   {"rank":7,"id":"U_kgDOBuXMpw","login":"the-coder-o","name":"The Coder 🧑🏼💻","url":"https://github.com/the-coder-o","avatarUrl":"https://avatars.githubusercontent.com/u/115723431?s=80&v=4","followers":823,"publicRepos":59,"location":"Uzbekistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":8,"id":"U_kgDOBsGjUg","login":"AbdullohRazzoqov","name":"Abdulloh (Shohjahon)","url":"https://github.com/AbdullohRazzoqov","avatarUrl":"https://avatars.githubusercontent.com/u/113353554?s=80&v=4","followers":785,"publicRepos":42,"location":"Samarqand, Uzbekistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":9,"id":"MDQ6VXNlcjQ0NjQ0MjA=","login":"dFarkhod","name":"Farkhod Dadajanov","url":"https://github.com/dFarkhod","avatarUrl":"https://avatars.githubusercontent.com/u/4464420?s=80&v=4","followers":590,"publicRepos":89,"location":"Tashkent, Uzbekistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":10,"id":"MDQ6VXNlcjE5Mjk0MDQ=","login":"keylase","name":"Keylase","url":"https://github.com/keylase","avatarUrl":"https://avatars.githubusercontent.com/u/1929404?s=80&v=4","followers":116,"location":"Tashkent","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"}
+  {"rank":10,"id":"MDQ6VXNlcjg0ODY2Mzky","login":"KhasanMeliev","name":"Khasan Meliev","url":"https://github.com/KhasanMeliev","avatarUrl":"https://avatars.githubusercontent.com/u/84866392?s=80&v=4","followers":540,"publicRepos":77,"location":"Samarkand, Uzbekistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":11,"id":"MDQ6VXNlcjg3MTc5OTcy","login":"sasomiddinov1","name":"Sayfiddin","url":"https://github.com/sasomiddinov1","avatarUrl":"https://avatars.githubusercontent.com/u/87179972?s=80&v=4","followers":524,"publicRepos":84,"location":"Tashkent/Uzbekistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":12,"id":"MDQ6VXNlcjIyMDI0MzI3","login":"Rakhimjon","name":"Rakhim Abdullayev","url":"https://github.com/Rakhimjon","avatarUrl":"https://avatars.githubusercontent.com/u/22024327?s=80&v=4","followers":502,"publicRepos":285,"location":"Tashkent","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23"},
+  {"rank":13,"id":"U_kgDOCnZn0w","login":"codeby-umar","name":"Muhammad Umar","url":"https://github.com/codeby-umar","avatarUrl":"https://avatars.githubusercontent.com/u/175531987?s=80&v=4","followers":475,"publicRepos":27,"location":"Uzbekistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":14,"id":"MDQ6VXNlcjY3Mjc1Mzkx","login":"Zukhrik","name":"Зухриддин Камильжанов","url":"https://github.com/Zukhrik","avatarUrl":"https://avatars.githubusercontent.com/u/67275391?s=80&v=4","followers":414,"publicRepos":20,"location":"Uzbekistan, Tashkent","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":15,"id":"U_kgDOBxnf1A","login":"AHEKOT","name":"MiuProject","url":"https://github.com/AHEKOT","avatarUrl":"https://avatars.githubusercontent.com/u/119136212?s=80&v=4","followers":117,"publicRepos":null,"location":"Uzbekistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":16,"id":"MDQ6VXNlcjE5Mjk0MDQ=","login":"keylase","name":"Keylase","url":"https://github.com/keylase","avatarUrl":"https://avatars.githubusercontent.com/u/1929404?s=80&v=4","followers":116,"location":"Tashkent","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
+  {"rank":17,"id":"MDQ6VXNlcjY1OTczNjEx","login":"arsLan4k1390","name":"Arslan Khadjibudinov","url":"https://github.com/arsLan4k1390","avatarUrl":"https://avatars.githubusercontent.com/u/65973611?s=80&v=4","followers":113,"publicRepos":null,"location":"Samarkand, Uzbekistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":18,"id":"MDQ6VXNlcjE0MDAx","login":"dilshod","name":"Dilshod Temirkhodja","url":"https://github.com/dilshod","avatarUrl":"https://avatars.githubusercontent.com/u/14001?s=80&v=4","followers":76,"publicRepos":null,"location":"Tashkent, Uzbekistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "16e33e45f54cd19d",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "43091c6722ef1530",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

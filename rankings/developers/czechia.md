@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **63** | 22 Nov 2026 | <a href="../../data/developers/CZ.json">JSON</a> |
+| 🟡 Provisional | **95** | 22 Nov 2026 | <a href="../../data/developers/CZ.json">JSON</a> |
 
 </div>
 
@@ -282,181 +282,405 @@
 </tr>
 <tr>
 <td align="right">38</td>
-<td><a href="https://github.com/skoruba"><img src="https://avatars.githubusercontent.com/u/35664089?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/skoruba"><b>Jan Škoruba</b></a><br><sub>&#64;skoruba</sub></td>
-<td align="right"><b>524</b></td>
-<td align="right">0</td>
-<td><sub>Prague, Czech Republic</sub></td>
+<td><a href="https://github.com/jirutka"><img src="https://avatars.githubusercontent.com/u/949228?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jirutka"><b>Jakub Jirutka</b></a><br><sub>&#64;jirutka</sub></td>
+<td align="right"><b>556</b></td>
+<td align="right">322</td>
+<td><sub>Prague</sub></td>
 </tr>
 <tr>
 <td align="right">39</td>
+<td><a href="https://github.com/scholzj"><img src="https://avatars.githubusercontent.com/u/5658439?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/scholzj"><b>Jakub Scholz</b></a><br><sub>&#64;scholzj</sub></td>
+<td align="right"><b>543</b></td>
+<td align="right">213</td>
+<td><sub>Prague, Czech Republic</sub></td>
+</tr>
+<tr>
+<td align="right">40</td>
+<td><a href="https://github.com/B4nan"><img src="https://avatars.githubusercontent.com/u/615580?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/B4nan"><b>Martin Adámek</b></a><br><sub>&#64;B4nan</sub></td>
+<td align="right"><b>538</b></td>
+<td align="right">63</td>
+<td><sub>Prague</sub></td>
+</tr>
+<tr>
+<td align="right">41</td>
+<td><a href="https://github.com/tsattler"><img src="https://avatars.githubusercontent.com/u/6096794?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tsattler"><b>Torsten Sattler</b></a><br><sub>&#64;tsattler</sub></td>
+<td align="right"><b>530</b></td>
+<td align="right">21</td>
+<td><sub>Prague, Czech Republic</sub></td>
+</tr>
+<tr>
+<td align="right">42</td>
+<td><a href="https://github.com/dwelle"><img src="https://avatars.githubusercontent.com/u/5153846?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dwelle"><b>David Luzar</b></a><br><sub>&#64;dwelle</sub></td>
+<td align="right"><b>528</b></td>
+<td align="right">79</td>
+<td><sub>Brno, Czech Republic</sub></td>
+</tr>
+<tr>
+<td align="right">43</td>
+<td><a href="https://github.com/skoruba"><img src="https://avatars.githubusercontent.com/u/35664089?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/skoruba"><b>Jan Škoruba</b></a><br><sub>&#64;skoruba</sub></td>
+<td align="right"><b>524</b></td>
+<td align="right">18</td>
+<td><sub>Prague, Czech Republic</sub></td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><a href="https://github.com/bajtos"><img src="https://avatars.githubusercontent.com/u/1140553?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bajtos"><b>Miroslav Bajtoš</b></a><br><sub>&#64;bajtos</sub></td>
+<td align="right"><b>523</b></td>
+<td align="right">72</td>
+<td><sub>Czech Republic, Hradec Králové</sub></td>
+</tr>
+<tr>
+<td align="right">45</td>
+<td><a href="https://github.com/ElaMoscicka"><img src="https://avatars.githubusercontent.com/u/12166779?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ElaMoscicka"><b>ElaMoscicka</b></a><br><sub>&#64;ElaMoscicka</sub></td>
+<td align="right"><b>516</b></td>
+<td align="right">16</td>
+<td><sub>Prague</sub></td>
+</tr>
+<tr>
+<td align="right">46</td>
+<td><a href="https://github.com/HappyCerberus"><img src="https://avatars.githubusercontent.com/u/545596?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HappyCerberus"><b>RNDr. Simon Toth</b></a><br><sub>&#64;HappyCerberus</sub></td>
+<td align="right"><b>504</b></td>
+<td align="right">79</td>
+<td><sub>Brno, Czech Republic</sub></td>
+</tr>
+<tr>
+<td align="right">47</td>
+<td><a href="https://github.com/instafluff"><img src="https://avatars.githubusercontent.com/u/35773245?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/instafluff"><b>Instafluff</b></a><br><sub>&#64;instafluff</sub></td>
+<td align="right"><b>497</b></td>
+<td align="right">176</td>
+<td><sub>Prague, Czech Republic</sub></td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><a href="https://github.com/filiptronicek"><img src="https://avatars.githubusercontent.com/u/29888641?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/filiptronicek"><b>Filip Troníček</b></a><br><sub>&#64;filiptronicek</sub></td>
+<td align="right"><b>494</b></td>
+<td align="right">204</td>
+<td><sub>Prague, Czechia</sub></td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><a href="https://github.com/knopp"><img src="https://avatars.githubusercontent.com/u/96958?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/knopp"><b>Matej Knopp</b></a><br><sub>&#64;knopp</sub></td>
+<td align="right"><b>481</b></td>
+<td align="right">60</td>
+<td><sub>Prague</sub></td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><a href="https://github.com/nijel"><img src="https://avatars.githubusercontent.com/u/212189?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nijel"><b>Michal Čihař</b></a><br><sub>&#64;nijel</sub></td>
+<td align="right"><b>478</b></td>
+<td align="right">113</td>
+<td><sub>Czechia</sub></td>
+</tr>
+<tr>
+<td align="right">51</td>
+<td><a href="https://github.com/luboslenco"><img src="https://avatars.githubusercontent.com/u/3685704?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/luboslenco"><b>Lubos Lenco</b></a><br><sub>&#64;luboslenco</sub></td>
+<td align="right"><b>474</b></td>
+<td align="right">14</td>
+<td><sub>Prague</sub></td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><a href="https://github.com/yaqwsx"><img src="https://avatars.githubusercontent.com/u/1590880?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yaqwsx"><b>Jan Mrázek</b></a><br><sub>&#64;yaqwsx</sub></td>
+<td align="right"><b>464</b></td>
+<td align="right">81</td>
+<td><sub>Czech republic</sub></td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><a href="https://github.com/Hotell"><img src="https://avatars.githubusercontent.com/u/1223799?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hotell"><b>Martin Hochel</b></a><br><sub>&#64;Hotell</sub></td>
+<td align="right"><b>455</b></td>
+<td align="right">89</td>
+<td><sub>Prague, Czech Republic</sub></td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><a href="https://github.com/slush0"><img src="https://avatars.githubusercontent.com/u/565341?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/slush0"><b>Slush</b></a><br><sub>&#64;slush0</sub></td>
+<td align="right"><b>438</b></td>
+<td align="right">48</td>
+<td><sub>Prague, Czech Republic</sub></td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><a href="https://github.com/encukou"><img src="https://avatars.githubusercontent.com/u/302922?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/encukou"><b>Petr Viktorin</b></a><br><sub>&#64;encukou</sub></td>
+<td align="right"><b>433</b></td>
+<td align="right">439</td>
+<td><sub>Czech Republic</sub></td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><a href="https://github.com/Youssef1313"><img src="https://avatars.githubusercontent.com/u/31348972?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Youssef1313"><b>Youssef Fahmy</b></a><br><sub>&#64;Youssef1313</sub></td>
+<td align="right"><b>431</b></td>
+<td align="right">449</td>
+<td><sub>Prague, Czech Republic</sub></td>
+</tr>
+<tr>
+<td align="right">57</td>
 <td><a href="https://github.com/sottlmarek"><img src="https://avatars.githubusercontent.com/u/40571887?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sottlmarek"><b>Marek Šottl</b></a><br><sub>&#64;sottlmarek</sub></td>
 <td align="right"><b>395</b></td>
 <td align="right">0</td>
 <td><sub>Prague</sub></td>
 </tr>
 <tr>
-<td align="right">40</td>
+<td align="right">58</td>
 <td><a href="https://github.com/pasky"><img src="https://avatars.githubusercontent.com/u/18439?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pasky"><b>Petr Baudis</b></a><br><sub>&#64;pasky</sub></td>
 <td align="right"><b>392</b></td>
 <td align="right">0</td>
 <td><sub>Prague, Czech Republic</sub></td>
 </tr>
 <tr>
-<td align="right">41</td>
+<td align="right">59</td>
 <td><a href="https://github.com/jankotek"><img src="https://avatars.githubusercontent.com/u/359021?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jankotek"><b>Jan Kotek</b></a><br><sub>&#64;jankotek</sub></td>
 <td align="right"><b>382</b></td>
 <td align="right">0</td>
 <td><sub>Prague, Czech Republic</sub></td>
 </tr>
 <tr>
-<td align="right">42</td>
+<td align="right">60</td>
 <td><a href="https://github.com/xotahal"><img src="https://avatars.githubusercontent.com/u/3531955?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xotahal"><b>Jiří Otáhal</b></a><br><sub>&#64;xotahal</sub></td>
 <td align="right"><b>358</b></td>
 <td align="right">0</td>
 <td><sub>Brno, Czech Republic</sub></td>
 </tr>
 <tr>
-<td align="right">43</td>
+<td align="right">61</td>
 <td><a href="https://github.com/PatrikH0lop"><img src="https://avatars.githubusercontent.com/u/30255618?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PatrikH0lop"><b>Patrik Holop</b></a><br><sub>&#64;PatrikH0lop</sub></td>
 <td align="right"><b>349</b></td>
 <td align="right">0</td>
 <td><sub>Brno</sub></td>
 </tr>
 <tr>
-<td align="right">44</td>
+<td align="right">62</td>
+<td><a href="https://github.com/MichaelGrafnetter"><img src="https://avatars.githubusercontent.com/u/8986376?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MichaelGrafnetter"><b>Michael Grafnetter</b></a><br><sub>&#64;MichaelGrafnetter</sub></td>
+<td align="right"><b>335</b></td>
+<td align="right">0</td>
+<td><sub>Prague, Czech Republic</sub></td>
+</tr>
+<tr>
+<td align="right">63</td>
 <td><a href="https://github.com/vslavik"><img src="https://avatars.githubusercontent.com/u/145881?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vslavik"><b>Václav Slavík</b></a><br><sub>&#64;vslavik</sub></td>
 <td align="right"><b>332</b></td>
 <td align="right">0</td>
 <td><sub>Prague</sub></td>
 </tr>
 <tr>
-<td align="right">45</td>
+<td align="right">64</td>
 <td><a href="https://github.com/dvorka"><img src="https://avatars.githubusercontent.com/u/2090143?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dvorka"><b>Martin Dvorak</b></a><br><sub>&#64;dvorka</sub></td>
 <td align="right"><b>321</b></td>
 <td align="right">0</td>
 <td><sub>Prague, Czech Republic</sub></td>
 </tr>
 <tr>
-<td align="right">46</td>
+<td align="right">65</td>
+<td><a href="https://github.com/minexew"><img src="https://avatars.githubusercontent.com/u/1880105?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/minexew"><b>Minexew</b></a><br><sub>&#64;minexew</sub></td>
+<td align="right"><b>320</b></td>
+<td align="right">0</td>
+<td><sub>Czech Republic</sub></td>
+</tr>
+<tr>
+<td align="right">66</td>
 <td><a href="https://github.com/Disassembler0"><img src="https://avatars.githubusercontent.com/u/5568046?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Disassembler0"><b>Disassembler0</b></a><br><sub>&#64;Disassembler0</sub></td>
 <td align="right"><b>308</b></td>
 <td align="right">0</td>
 <td><sub>Brno, Czech Republic</sub></td>
 </tr>
 <tr>
-<td align="right">47</td>
+<td align="right">67</td>
 <td><a href="https://github.com/Chlumsky"><img src="https://avatars.githubusercontent.com/u/18639794?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Chlumsky"><b>Viktor Chlumský</b></a><br><sub>&#64;Chlumsky</sub></td>
 <td align="right"><b>280</b></td>
 <td align="right">0</td>
 <td><sub>Czech Republic</sub></td>
 </tr>
 <tr>
-<td align="right">48</td>
+<td align="right">68</td>
+<td><a href="https://github.com/swift502"><img src="https://avatars.githubusercontent.com/u/24359130?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/swift502"><b>Jan Bláha</b></a><br><sub>&#64;swift502</sub></td>
+<td align="right"><b>275</b></td>
+<td align="right">0</td>
+<td><sub>Czech republic</sub></td>
+</tr>
+<tr>
+<td align="right">69</td>
 <td><a href="https://github.com/coells"><img src="https://avatars.githubusercontent.com/u/10402316?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/coells"><b>Tomáš Bouda</b></a><br><sub>&#64;coells</sub></td>
 <td align="right"><b>271</b></td>
 <td align="right">0</td>
 <td><sub>Prague, Czech Republic</sub></td>
 </tr>
 <tr>
-<td align="right">49</td>
+<td align="right">70</td>
+<td><a href="https://github.com/zk00006"><img src="https://avatars.githubusercontent.com/u/482912?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zk00006"><b>Zdenek Kalal</b></a><br><sub>&#64;zk00006</sub></td>
+<td align="right"><b>262</b></td>
+<td align="right">0</td>
+<td><sub>Czech Republic</sub></td>
+</tr>
+<tr>
+<td align="right">71</td>
 <td><a href="https://github.com/jindrapetrik"><img src="https://avatars.githubusercontent.com/u/5204823?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jindrapetrik"><b>Jindra Petřík</b></a><br><sub>&#64;jindrapetrik</sub></td>
 <td align="right"><b>259</b></td>
 <td align="right">0</td>
 <td><sub>Czech Republic</sub></td>
 </tr>
 <tr>
-<td align="right">50</td>
+<td align="right">72</td>
+<td><a href="https://github.com/Mimino666"><img src="https://avatars.githubusercontent.com/u/1270393?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mimino666"><b>Michal Danilák</b></a><br><sub>&#64;Mimino666</sub></td>
+<td align="right"><b>259</b></td>
+<td align="right">0</td>
+<td><sub>Czechia</sub></td>
+</tr>
+<tr>
+<td align="right">73</td>
 <td><a href="https://github.com/TheR1D"><img src="https://avatars.githubusercontent.com/u/16740832?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TheR1D"><b>Farkhod Sadykov</b></a><br><sub>&#64;TheR1D</sub></td>
 <td align="right"><b>259</b></td>
 <td align="right">0</td>
 <td><sub>Prague, Czech Republic</sub></td>
 </tr>
 <tr>
-<td align="right">51</td>
+<td align="right">74</td>
 <td><a href="https://github.com/jnv"><img src="https://avatars.githubusercontent.com/u/616767?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jnv"><b>Jan Vlnas</b></a><br><sub>&#64;jnv</sub></td>
 <td align="right"><b>253</b></td>
 <td align="right">0</td>
 <td><sub>Prague, Czech Republic</sub></td>
 </tr>
 <tr>
-<td align="right">52</td>
+<td align="right">75</td>
 <td><a href="https://github.com/jpochyla"><img src="https://avatars.githubusercontent.com/u/1055497?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jpochyla"><b>Jan Pochyla</b></a><br><sub>&#64;jpochyla</sub></td>
 <td align="right"><b>217</b></td>
 <td align="right">0</td>
 <td><sub>Prague</sub></td>
 </tr>
 <tr>
-<td align="right">53</td>
+<td align="right">76</td>
 <td><a href="https://github.com/patriksimek"><img src="https://avatars.githubusercontent.com/u/1000058?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/patriksimek"><b>Patrik Simek</b></a><br><sub>&#64;patriksimek</sub></td>
 <td align="right"><b>204</b></td>
 <td align="right">0</td>
 <td><sub>Prague, Czechia</sub></td>
 </tr>
 <tr>
-<td align="right">54</td>
+<td align="right">77</td>
 <td><a href="https://github.com/moneytoo"><img src="https://avatars.githubusercontent.com/u/1071643?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/moneytoo"><b>Marcel Dopita</b></a><br><sub>&#64;moneytoo</sub></td>
 <td align="right"><b>203</b></td>
 <td align="right">0</td>
 <td><sub>Czech Republic</sub></td>
 </tr>
 <tr>
-<td align="right">55</td>
+<td align="right">78</td>
 <td><a href="https://github.com/okbob"><img src="https://avatars.githubusercontent.com/u/546675?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/okbob"><b>Pavel Stehule</b></a><br><sub>&#64;okbob</sub></td>
 <td align="right"><b>192</b></td>
 <td align="right">0</td>
 <td><sub>Benesov, Czech Republic</sub></td>
 </tr>
 <tr>
-<td align="right">56</td>
+<td align="right">79</td>
 <td><a href="https://github.com/JakubOnderka"><img src="https://avatars.githubusercontent.com/u/163343?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JakubOnderka"><b>Jakub Onderka</b></a><br><sub>&#64;JakubOnderka</sub></td>
 <td align="right"><b>173</b></td>
 <td align="right">0</td>
 <td><sub>Brno, Czechia</sub></td>
 </tr>
 <tr>
-<td align="right">57</td>
+<td align="right">80</td>
 <td><a href="https://github.com/martinrotter"><img src="https://avatars.githubusercontent.com/u/1255302?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/martinrotter"><b>martinrotter</b></a><br><sub>&#64;martinrotter</sub></td>
 <td align="right"><b>155</b></td>
 <td align="right">0</td>
 <td><sub>Svésedlice, Czech Republic</sub></td>
 </tr>
 <tr>
-<td align="right">58</td>
+<td align="right">81</td>
 <td><a href="https://github.com/josefadamcik"><img src="https://avatars.githubusercontent.com/u/192896?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/josefadamcik"><b>Josef Adamčík</b></a><br><sub>&#64;josefadamcik</sub></td>
 <td align="right"><b>146</b></td>
 <td align="right">0</td>
 <td><sub>Prague, Czechia</sub></td>
 </tr>
 <tr>
-<td align="right">59</td>
+<td align="right">82</td>
+<td><a href="https://github.com/mity"><img src="https://avatars.githubusercontent.com/u/873269?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mity"><b>Martin Mitáš</b></a><br><sub>&#64;mity</sub></td>
+<td align="right"><b>146</b></td>
+<td align="right">0</td>
+<td><sub>Prague, Czech Republic</sub></td>
+</tr>
+<tr>
+<td align="right">83</td>
 <td><a href="https://github.com/fikovnik"><img src="https://avatars.githubusercontent.com/u/374674?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fikovnik"><b>Filip Krikava</b></a><br><sub>&#64;fikovnik</sub></td>
 <td align="right"><b>121</b></td>
 <td align="right">0</td>
 <td><sub>Czech Republic</sub></td>
 </tr>
 <tr>
-<td align="right">60</td>
+<td align="right">84</td>
 <td><a href="https://github.com/dundee"><img src="https://avatars.githubusercontent.com/u/27106?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dundee"><b>Daniel Milde</b></a><br><sub>&#64;dundee</sub></td>
 <td align="right"><b>120</b></td>
 <td align="right">0</td>
 <td><sub>Prague</sub></td>
 </tr>
 <tr>
-<td align="right">61</td>
+<td align="right">85</td>
 <td><a href="https://github.com/elendirx"><img src="https://avatars.githubusercontent.com/u/2829620?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elendirx"><b>Michal Spicka</b></a><br><sub>&#64;elendirx</sub></td>
 <td align="right"><b>110</b></td>
 <td align="right">0</td>
 <td><sub>Prague</sub></td>
 </tr>
 <tr>
-<td align="right">62</td>
+<td align="right">86</td>
+<td><a href="https://github.com/Chleba"><img src="https://avatars.githubusercontent.com/u/202436?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Chleba"><b>Chleba</b></a><br><sub>&#64;Chleba</sub></td>
+<td align="right"><b>109</b></td>
+<td align="right">0</td>
+<td><sub>Prague</sub></td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><a href="https://github.com/lapism"><img src="https://avatars.githubusercontent.com/u/8614327?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lapism"><b>Martin Lapiš</b></a><br><sub>&#64;lapism</sub></td>
+<td align="right"><b>106</b></td>
+<td align="right">0</td>
+<td><sub>Ostrava, Czech Republic</sub></td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><a href="https://github.com/coofcookie"><img src="https://avatars.githubusercontent.com/u/43541350?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/coofcookie"><b>Michal Doubek</b></a><br><sub>&#64;coofcookie</sub></td>
+<td align="right"><b>70</b></td>
+<td align="right">0</td>
+<td><sub>Czech Republic</sub></td>
+</tr>
+<tr>
+<td align="right">89</td>
 <td><a href="https://github.com/adelsz"><img src="https://avatars.githubusercontent.com/u/761605?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adelsz"><b>Adel Salakh</b></a><br><sub>&#64;adelsz</sub></td>
 <td align="right"><b>65</b></td>
 <td align="right">0</td>
 <td><sub>Prague</sub></td>
 </tr>
 <tr>
-<td align="right">63</td>
+<td align="right">90</td>
+<td><a href="https://github.com/JakubMelka"><img src="https://avatars.githubusercontent.com/u/11367048?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JakubMelka"><b>Jakub Melka</b></a><br><sub>&#64;JakubMelka</sub></td>
+<td align="right"><b>60</b></td>
+<td align="right">0</td>
+<td><sub>Prague, Czech Republic</sub></td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><a href="https://github.com/infi-pc"><img src="https://avatars.githubusercontent.com/u/2264725?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/infi-pc"><b>Michael Musil</b></a><br><sub>&#64;infi-pc</sub></td>
+<td align="right"><b>50</b></td>
+<td align="right">0</td>
+<td><sub>Brno</sub></td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><a href="https://github.com/sakalond"><img src="https://avatars.githubusercontent.com/u/211764964?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sakalond"><b>sakalond</b></a><br><sub>&#64;sakalond</sub></td>
+<td align="right"><b>43</b></td>
+<td align="right">0</td>
+<td><sub>Prague, Czechia</sub></td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><a href="https://github.com/ocetnik"><img src="https://avatars.githubusercontent.com/u/3819177?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ocetnik"><b>Dávid Ocetník</b></a><br><sub>&#64;ocetnik</sub></td>
+<td align="right"><b>34</b></td>
+<td align="right">0</td>
+<td><sub>Prague, Czech Republic</sub></td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><a href="https://github.com/Martz90"><img src="https://avatars.githubusercontent.com/u/31363880?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Martz90"><b>Martin Kníže</b></a><br><sub>&#64;Martz90</sub></td>
+<td align="right"><b>21</b></td>
+<td align="right">0</td>
+<td><sub>Prague, Czech Republic</sub></td>
+</tr>
+<tr>
+<td align="right">95</td>
 <td><a href="https://github.com/JosefNemec"><img src="https://avatars.githubusercontent.com/u/3874087?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JosefNemec"><b>Josef Nemec</b></a><br><sub>&#64;JosefNemec</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -470,7 +694,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 63 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 95 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 178 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -5,13 +5,15 @@
 "country": {"code":"LS","name":"Lesotho","slug":"lesotho"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"U_kgDOBjmR-g","login":"1923k","name":"Kefuoe Sole","url":"https://github.com/1923k","avatarUrl":"https://avatars.githubusercontent.com/u/104436218?s=80&v=4","followers":6,"publicRepos":36,"location":"Lesotho","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"U_kgDOBevZmg","login":"1421K","name":null,"url":"https://github.com/1421K","avatarUrl":"https://avatars.githubusercontent.com/u/99342746?s=80&v=4","followers":0,"publicRepos":1,"location":"Maseru","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"}
+  {"rank":2,"id":"U_kgDODB1HNA","login":"AcGunship","name":"Motlatsi Michael Pita","url":"https://github.com/AcGunship","avatarUrl":"https://avatars.githubusercontent.com/u/203245364?s=80&v=4","followers":1,"publicRepos":2,"location":"Maseru Lesotho","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":3,"id":"U_kgDOCThGUA","login":"396Bluecrocodilestandard","name":"396Bluecrocodilestandard","url":"https://github.com/396Bluecrocodilestandard","avatarUrl":"https://avatars.githubusercontent.com/u/154682960?s=80&v=4","followers":0,"publicRepos":5,"location":"Maseru","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23"},
+  {"rank":4,"id":"U_kgDOBevZmg","login":"1421K","name":null,"url":"https://github.com/1421K","avatarUrl":"https://avatars.githubusercontent.com/u/99342746?s=80&v=4","followers":0,"publicRepos":1,"location":"Maseru","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "d10302d7e09b279a",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "412582735a4fdb2a",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/NO.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/NO.json">JSON</a> |
 
 </div>
 
@@ -34,12 +34,30 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/bep"><img src="https://avatars.githubusercontent.com/u/394382?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bep"><b>Bjørn Erik Pedersen</b></a><br><sub>&#64;bep · 2,527 followers</sub></td>
+<td align="right"><b>2,928</b></td>
+<td align="right">2,049</td>
+<td align="right">629</td>
+<td align="right">45</td>
+<td align="right">173</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/kimocoder"><img src="https://avatars.githubusercontent.com/u/4252297?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kimocoder"><b>Christian &lt;kimo&gt; B.</b></a><br><sub>&#64;kimocoder · 1,455 followers</sub></td>
 <td align="right"><b>563</b></td>
 <td align="right">395</td>
 <td align="right">129</td>
 <td align="right">0</td>
 <td align="right">4</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/comradekingu"><img src="https://avatars.githubusercontent.com/u/13802408?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/comradekingu"><b>Allan Nordhøy</b></a><br><sub>&#64;comradekingu · 430 followers</sub></td>
+<td align="right"><b>66</b></td>
+<td align="right">64</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">1</td>
 </tr>
 </tbody>
 </table>
@@ -48,7 +66,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 2 of 438 discovered developers (436 awaiting measurement).
+- **Measured:** 4 of 475 discovered developers (471 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

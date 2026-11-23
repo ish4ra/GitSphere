@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/contributors/FO.json">JSON</a> |
+| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/FO.json">JSON</a> |
 
 </div>
 
@@ -34,6 +34,15 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/olavurellefsen"><img src="https://avatars.githubusercontent.com/u/2902110?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/olavurellefsen"><b>Olavur Ellefsen</b></a><br><sub>&#64;olavurellefsen · 7 followers</sub></td>
+<td align="right"><b>293</b></td>
+<td align="right">224</td>
+<td align="right">64</td>
+<td align="right">4</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/ahjohannessen"><img src="https://avatars.githubusercontent.com/u/153607?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahjohannessen"><b>Alex Henning Johannessen</b></a><br><sub>&#64;ahjohannessen · 45 followers</sub></td>
 <td align="right"><b>277</b></td>
 <td align="right">215</td>
@@ -42,7 +51,16 @@
 <td align="right">7</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
+<td><a href="https://github.com/samal-rasmussen"><img src="https://avatars.githubusercontent.com/u/1503031?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/samal-rasmussen"><b>Sámal Rasmussen</b></a><br><sub>&#64;samal-rasmussen · 13 followers</sub></td>
+<td align="right"><b>136</b></td>
+<td align="right">109</td>
+<td align="right">7</td>
+<td align="right">0</td>
+<td align="right">12</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/eydunn"><img src="https://avatars.githubusercontent.com/u/9845199?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eydunn"><b>Eyðun Nielsen</b></a><br><sub>&#64;eydunn · 12 followers</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">8</td>
@@ -57,7 +75,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 3 of 119 discovered developers (116 awaiting measurement).
+- **Measured:** 5 of 119 discovered developers (114 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 2 of 50 in round 1.

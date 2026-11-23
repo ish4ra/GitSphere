@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"PF","name":"French Polynesia","slug":"french-polynesia"},
-"count": 89,
+"count": 88,
 "repositories": [
-  {"name":"ch4mpy/spring-addons","stars":673,"forks":97,"language":"Java","license":"Apache-2.0","archived":false,"createdAt":"2019-04-29T13:37:17Z","pushedAt":"2026-10-05T22:07:37Z","owner":{"login":"ch4mpy","type":"User","name":"Jérôme Wacongne","location":"Papeete, French Polynesia"},"attribution":{"code":"PF","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-09T05:59:22.599Z","id":"legacy:ch4mpy/spring-addons","legacy":true},
   {"name":"syllebra/bilbox-comfyui","stars":145,"forks":11,"language":"JavaScript","license":"MIT","archived":false,"createdAt":"2023-08-16T19:57:29Z","pushedAt":"2025-09-17T19:49:51Z","owner":{"login":"syllebra","type":"User","name":"BilboX","location":"French Polynesia"},"attribution":{"code":"PF","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T06:23:57.762Z","id":"legacy:syllebra/bilbox-comfyui","legacy":true},
   {"name":"Chelsea486MHz/SENPAI","stars":137,"forks":17,"language":"C","license":"GPL-3.0","archived":false,"createdAt":"2018-06-20T17:46:51Z","pushedAt":"2023-06-25T11:12:32Z","owner":{"login":"Chelsea486MHz","type":"User","name":"Chelsea Murgia","location":"Mo'orea, French Polynesia"},"attribution":{"code":"PF","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T06:23:57.762Z","id":"legacy:chelsea486mhz/senpai","legacy":true},
   {"name":"jalik/meteor-jalik-ufs","stars":100,"forks":28,"language":"JavaScript","license":"MIT","archived":true,"createdAt":"2015-07-26T02:30:45Z","pushedAt":"2022-03-19T01:05:52Z","owner":{"login":"jalik","type":"User","name":"Karl Stein","location":"French Polynesia"},"attribution":{"code":"PF","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T06:23:57.762Z","id":"legacy:jalik/meteor-jalik-ufs","legacy":true},

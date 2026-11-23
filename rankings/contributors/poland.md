@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/PL.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/PL.json">JSON</a> |
 
 </div>
 
@@ -41,6 +41,24 @@
 <td align="right">517</td>
 <td align="right">9</td>
 </tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/pplonski"><img src="https://avatars.githubusercontent.com/u/6959032?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pplonski"><b>Piotr</b></a><br><sub>&#64;pplonski · 540 followers</sub></td>
+<td align="right"><b>708</b></td>
+<td align="right">594</td>
+<td align="right">0</td>
+<td align="right">8</td>
+<td align="right">96</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/sheerun"><img src="https://avatars.githubusercontent.com/u/292365?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sheerun"><b>Adam Stankiewicz</b></a><br><sub>&#64;sheerun · 549 followers</sub></td>
+<td align="right"><b>41</b></td>
+<td align="right">35</td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
 </tbody>
 </table>
 
@@ -48,7 +66,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 2 of 534 discovered developers (532 awaiting measurement).
+- **Measured:** 4 of 631 discovered developers (627 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

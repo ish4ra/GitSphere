@@ -5,13 +5,15 @@
 "country": {"code":"LR","name":"Liberia","slug":"liberia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjY4OTUyMTQw","login":"0770220919","name":"Tennyson Tamba","url":"https://github.com/0770220919","avatarUrl":"https://avatars.githubusercontent.com/u/68952140?s=80&v=4","followers":0,"publicRepos":4,"location":"Monrovia , Liberia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"U_kgDOCTL77g","login":"0555262479","name":"Ebenezer Teto Jacobs","url":"https://github.com/0555262479","avatarUrl":"https://avatars.githubusercontent.com/u/154336238?s=80&v=4","followers":0,"publicRepos":1,"location":"Liberia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":2,"id":"MDQ6VXNlcjI1MTEyMTc4","login":"0880033609","name":"Francis Yelorbah","url":"https://github.com/0880033609","avatarUrl":"https://avatars.githubusercontent.com/u/25112178?s=80&v=4","followers":0,"publicRepos":2,"location":"Oldest Congo Town, Monrovia, Liberia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":3,"id":"U_kgDOB8dtag","login":"123chri","name":"Christine Sweede","url":"https://github.com/123chri","avatarUrl":"https://avatars.githubusercontent.com/u/130510186?s=80&v=4","followers":0,"publicRepos":2,"location":"Airfield, Monrovia, Liberia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":4,"id":"U_kgDOCTL77g","login":"0555262479","name":"Ebenezer Teto Jacobs","url":"https://github.com/0555262479","avatarUrl":"https://avatars.githubusercontent.com/u/154336238?s=80&v=4","followers":0,"publicRepos":1,"location":"Liberia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "dea23c7d5ee0b058",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "1a7b4ee8f078bca4",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

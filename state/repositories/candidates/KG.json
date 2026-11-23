@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"KG","name":"Kyrgyzstan","slug":"kyrgyzstan"},
-"count": 148,
+"count": 147,
 "repositories": [
-  {"name":"dontsovcmc/waterius","stars":680,"forks":118,"language":"C++","license":"LGPL-3.0","archived":false,"createdAt":"2018-01-13T23:51:04Z","pushedAt":"2026-10-07T13:14:57Z","owner":{"login":"dontsovcmc","type":"User","name":"Evgeny Dontsov","location":"Bishkek, Kyrgyzstan"},"attribution":{"code":"KG","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-16T18:16:11.570Z","id":"legacy:dontsovcmc/waterius","legacy":true},
   {"name":"teimurjan/blazediff","stars":352,"forks":5,"language":"Rust","license":"MIT","archived":false,"createdAt":"2025-08-29T10:59:23Z","pushedAt":"2026-09-21T04:18:54Z","owner":{"login":"teimurjan","type":"User","name":"Teimur Gasanov","location":"Bishkek, Kyrgyzstan"},"attribution":{"code":"KG","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-16T18:16:11.570Z","id":"legacy:teimurjan/blazediff","legacy":true},
   {"name":"buzzySmile/qBreakpad","stars":330,"forks":119,"language":"C++","license":"LGPL-3.0","archived":false,"createdAt":"2016-03-28T12:34:07Z","pushedAt":"2022-06-12T04:27:58Z","owner":{"login":"buzzySmile","type":"User","name":"Alexander Makarov","location":"Bishkek City, Kyrgyzstan"},"attribution":{"code":"KG","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-16T18:16:11.570Z","id":"legacy:buzzysmile/qbreakpad","legacy":true},
   {"name":"intelliants/subrion","stars":284,"forks":118,"language":"PHP","license":"GPL-3.0","archived":false,"createdAt":"2013-01-29T06:57:00Z","pushedAt":"2023-08-24T14:49:52Z","owner":{"login":"intelliants","type":"Organization","name":"Intelliants","location":"Bishkek, KG"},"attribution":{"code":"KG","confidence":"medium","evidence":"consistent-places"},"seenAt":"2026-10-16T18:16:11.570Z","id":"legacy:intelliants/subrion","legacy":true},

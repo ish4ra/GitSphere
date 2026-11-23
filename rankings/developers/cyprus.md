@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/developers/CY.json">JSON</a> |
+| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/developers/CY.json">JSON</a> |
 
 </div>
 
@@ -72,17 +72,45 @@
 </tr>
 <tr>
 <td align="right">8</td>
+<td><a href="https://github.com/bravit"><img src="https://avatars.githubusercontent.com/u/298521?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bravit"><b>Vitaly Bragilevsky</b></a><br><sub>&#64;bravit</sub></td>
+<td align="right"><b>543</b></td>
+<td align="right">57</td>
+<td><sub>Larnaca, Cyprus</sub></td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/FZambia"><img src="https://avatars.githubusercontent.com/u/1196565?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FZambia"><b>Alexander Emelin</b></a><br><sub>&#64;FZambia</sub></td>
+<td align="right"><b>474</b></td>
+<td align="right">93</td>
+<td><sub>Limassol, Cyprus</sub></td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/KaterinaPetrova"><img src="https://avatars.githubusercontent.com/u/1209554?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KaterinaPetrova"><b>Ekaterina Petrova</b></a><br><sub>&#64;KaterinaPetrova</sub></td>
+<td align="right"><b>436</b></td>
+<td align="right">30</td>
+<td><sub>Nicosia, Cyprus</sub></td>
+</tr>
+<tr>
+<td align="right">11</td>
 <td><a href="https://github.com/gosom"><img src="https://avatars.githubusercontent.com/u/454718?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gosom"><b>Georgios Komninos</b></a><br><sub>&#64;gosom</sub></td>
 <td align="right"><b>287</b></td>
 <td align="right">0</td>
 <td><sub>Cyprus</sub></td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">12</td>
 <td><a href="https://github.com/atercattus"><img src="https://avatars.githubusercontent.com/u/433484?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/atercattus"><b>Aleksey Akulovich</b></a><br><sub>&#64;atercattus</sub></td>
 <td align="right"><b>283</b></td>
 <td align="right">70</td>
 <td><sub>Pafos, Cyprus</sub></td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><a href="https://github.com/iamolegga"><img src="https://avatars.githubusercontent.com/u/5501657?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iamolegga"><b>iamolegga</b></a><br><sub>&#64;iamolegga</sub></td>
+<td align="right"><b>166</b></td>
+<td align="right">0</td>
+<td><sub>Λεμεσός, Κύπρος</sub></td>
 </tr>
 </tbody>
 </table>
@@ -92,7 +120,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 9 attributed developers are tracked; the cutoff is 283 followers.
+- Organizations are excluded. 13 attributed developers are tracked; the cutoff is 166 followers.
 - **Location discovery:** term 0 of 105 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

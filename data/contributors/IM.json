@@ -5,13 +5,15 @@
 "country": {"code":"IM","name":"Isle of Man","slug":"isle-of-man"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":206,"measuredAccounts":2,"measurementBacklog":204,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":316,"measuredAccounts":4,"measurementBacklog":312,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":39,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjE2NTEwMDg=","login":"braydie","name":"Braydie Grove","url":"https://github.com/braydie","avatarUrl":"https://avatars.githubusercontent.com/u/1651008?s=80&v=4","followers":366,"publicRepos":24,"location":"Isle of Man","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":5,"commits":4,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":2,"id":"MDQ6VXNlcjU5Nzk3","login":"jackmoore","name":"Jack Moore","url":"https://github.com/jackmoore","avatarUrl":"https://avatars.githubusercontent.com/u/59797?s=80&v=4","followers":1902,"publicRepos":64,"location":"Florida, man","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":3,"commits":1,"pullRequests":1,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"U_kgDOBcsT5g","login":"umicom-foundation","name":"Umicom Foundation","url":"https://github.com/umicom-foundation","avatarUrl":"https://avatars.githubusercontent.com/u/97194982?s=80&v=4","followers":67,"publicRepos":416,"location":"Isle of Man","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":186,"commits":182,"pullRequests":0,"reviews":0,"issues":0,"repositories":4,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":2,"id":"MDQ6VXNlcjE2NTEwMDg=","login":"braydie","name":"Braydie Grove","url":"https://github.com/braydie","avatarUrl":"https://avatars.githubusercontent.com/u/1651008?s=80&v=4","followers":366,"publicRepos":24,"location":"Isle of Man","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":5,"commits":4,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":3,"id":"MDQ6VXNlcjU5Nzk3","login":"jackmoore","name":"Jack Moore","url":"https://github.com/jackmoore","avatarUrl":"https://avatars.githubusercontent.com/u/59797?s=80&v=4","followers":1902,"publicRepos":64,"location":"Florida, man","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":3,"commits":1,"pullRequests":1,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":4,"id":"U_kgDOCG0c2w","login":"andyheggs","name":"Andy Heggs","url":"https://github.com/andyheggs","avatarUrl":"https://avatars.githubusercontent.com/u/141368539?s=80&v=4","followers":1,"publicRepos":160,"location":"Isle of Man","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":2,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "52f3859db8aa9de7",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "83aba144f7aee45c",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

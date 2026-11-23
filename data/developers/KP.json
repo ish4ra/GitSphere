@@ -5,13 +5,15 @@
 "country": {"code":"KP","name":"North Korea","slug":"north-korea"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjI0Nzg3NjAw","login":"EwingYangs","name":"Ewing","url":"https://github.com/EwingYangs","avatarUrl":"https://avatars.githubusercontent.com/u/24787600?s=80&v=4","followers":95,"publicRepos":49,"location":"Guang Dong","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"U_kgDOC05GjQ","login":"0w3nKn1ght","name":"Owen Knight","url":"https://github.com/0w3nKn1ght","avatarUrl":"https://avatars.githubusercontent.com/u/189679245?s=80&v=4","followers":0,"publicRepos":1,"location":"North Korea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":2,"id":"MDQ6VXNlcjcxOTE2MjM3","login":"0x4f53","name":"Owais Shaikh","url":"https://github.com/0x4f53","avatarUrl":"https://avatars.githubusercontent.com/u/71916237?s=80&v=4","followers":67,"publicRepos":32,"location":"🇰🇵 Pyongyang, North Korea","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":3,"id":"U_kgDOC05GjQ","login":"0w3nKn1ght","name":"Owen Knight","url":"https://github.com/0w3nKn1ght","avatarUrl":"https://avatars.githubusercontent.com/u/189679245?s=80&v=4","followers":0,"publicRepos":1,"location":"North Korea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"MDQ6VXNlcjcxNjIwNzg5","login":"1017x","name":null,"url":"https://github.com/1017x","avatarUrl":"https://avatars.githubusercontent.com/u/71620789?s=80&v=4","followers":0,"publicRepos":1,"location":"North Korea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "d134232a23f0fd38",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "b496a735af7a081c",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

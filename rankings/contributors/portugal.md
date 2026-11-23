@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/PT.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/PT.json">JSON</a> |
 
 </div>
 
@@ -41,6 +41,24 @@
 <td align="right">0</td>
 <td align="right">0</td>
 </tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/rochacbruno"><img src="https://avatars.githubusercontent.com/u/458654?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rochacbruno"><b>Bruno Rocha</b></a><br><sub>&#64;rochacbruno · 4,709 followers</sub></td>
+<td align="right"><b>699</b></td>
+<td align="right">442</td>
+<td align="right">135</td>
+<td align="right">76</td>
+<td align="right">19</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/waldyrious"><img src="https://avatars.githubusercontent.com/u/478237?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/waldyrious"><b>Waldir Pimenta</b></a><br><sub>&#64;waldyrious · 483 followers</sub></td>
+<td align="right"><b>447</b></td>
+<td align="right">222</td>
+<td align="right">86</td>
+<td align="right">15</td>
+<td align="right">84</td>
+</tr>
 </tbody>
 </table>
 
@@ -48,7 +66,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 2 of 432 discovered developers (430 awaiting measurement).
+- **Measured:** 4 of 468 discovered developers (464 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

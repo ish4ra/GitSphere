@@ -5,13 +5,14 @@
 "country": {"code":"TM","name":"Turkmenistan","slug":"turkmenistan"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":3,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjIyMDY1MzM=","login":"vbauerster","name":"Vladimir Bauer","url":"https://github.com/vbauerster","avatarUrl":"https://avatars.githubusercontent.com/u/2206533?s=80&v=4","followers":65,"publicRepos":143,"location":"Turkmenistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"MDQ6VXNlcjQ5OTE2MTE2","login":"0rthhb","name":"joji","url":"https://github.com/0rthhb","avatarUrl":"https://avatars.githubusercontent.com/u/49916116?s=80&v=4","followers":0,"publicRepos":2,"location":"Turkmenistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":2,"id":"U_kgDOCsi1UA","login":"0xEZIZ","name":"Eziz Ysmailov","url":"https://github.com/0xEZIZ","avatarUrl":"https://avatars.githubusercontent.com/u/180925776?s=80&v=4","followers":4,"publicRepos":6,"location":"Ashgabat, Turkmenistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":3,"id":"MDQ6VXNlcjQ5OTE2MTE2","login":"0rthhb","name":"joji","url":"https://github.com/0rthhb","avatarUrl":"https://avatars.githubusercontent.com/u/49916116?s=80&v=4","followers":0,"publicRepos":2,"location":"Turkmenistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "3074a239c550fcf9",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "8a24d35bc1e51898",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

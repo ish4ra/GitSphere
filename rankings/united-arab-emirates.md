@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **100** | 17 Oct 2026 | <a href="../data/AE.json">JSON</a> |
+| 🟠 Stale | **81** | 03 Nov 2026 | <a href="../data/AE.json">JSON</a> |
 
-> **Not yet re-verified.** 76 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 44 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -193,535 +193,402 @@
 </tr>
 <tr>
 <td align="right">25</td>
-<td><img src="https://github.com/archisvaze.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/archisvaze/liquid-glass"><b>archisvaze/liquid-glass</b></a></td>
-<td align="right"><b>791</b></td>
-<td align="right">61</td>
-<td>HTML</td>
+<td><img src="https://github.com/fityanos.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fityanos/awesome-quality-assurance-roadmap"><b>fityanos/awesome-quality-assurance-roadmap</b></a><br><sub>:books: The starting point of your career as a Software Quality Assurance Engineer &#124; Quality Automation Engineer :books:</sub></td>
+<td align="right"><b>2,214</b></td>
+<td align="right">363</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">26</td>
-<td><img src="https://github.com/mathusiast.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mathusiast/jquery.hotkeys"><b>mathusiast/jquery.hotkeys</b></a></td>
-<td align="right"><b>786</b></td>
-<td align="right">625</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/themsaid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/themsaid/ibis"><b>themsaid/ibis</b></a><br><sub>A PHP tool that helps you write eBooks in markdown and convert to PDF.</sub></td>
+<td align="right"><b>2,007</b></td>
+<td align="right">159</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">27</td>
-<td><img src="https://github.com/tiiuae.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tiiuae/Falcon-Perception"><b>tiiuae/Falcon-Perception</b></a></td>
-<td align="right"><b>779</b></td>
-<td align="right">77</td>
+<td><img src="https://github.com/mpatacchiola.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mpatacchiola/deepgaze"><b>mpatacchiola/deepgaze</b></a><br><sub>Computer Vision library for human-computer interaction. It implements Head Pose and Gaze Direction Estimation Using Con…</sub></td>
+<td align="right"><b>1,889</b></td>
+<td align="right">479</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">28</td>
-<td><img src="https://github.com/jublo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jublo/codebird-php"><b>jublo/codebird-php</b></a></td>
-<td align="right"><b>773</b></td>
-<td align="right">228</td>
-<td>PHP</td>
+<td><img src="https://github.com/perlin-network.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/perlin-network/noise"><b>perlin-network/noise</b></a><br><sub>A decentralized P2P networking stack written in Go.</sub></td>
+<td align="right"><b>1,834</b></td>
+<td align="right">207</td>
+<td>Go</td>
 </tr>
 <tr>
 <td align="right">29</td>
-<td><img src="https://github.com/HavenDV.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HavenDV/H.NotifyIcon"><b>HavenDV/H.NotifyIcon</b></a></td>
-<td align="right"><b>768</b></td>
-<td align="right">59</td>
-<td>C#</td>
+<td><img src="https://github.com/kumailht.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kumailht/flakes"><b>kumailht/flakes</b></a><br><sub>Flakes is an Admin Template Framework. A combination of CSS Libraries, JavaScript Libraries and Design files that help…</sub></td>
+<td align="right"><b>1,805</b></td>
+<td align="right">79</td>
+<td>CSS</td>
 </tr>
 <tr>
 <td align="right">30</td>
-<td><img src="https://github.com/echo724.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/echo724/notion2md"><b>echo724/notion2md</b></a></td>
-<td align="right"><b>758</b></td>
-<td align="right">62</td>
-<td>Python</td>
+<td><img src="https://github.com/namshi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/namshi/jose"><b>namshi/jose</b></a><br><sub>JSON Object Signing and Encryption library for PHP.</sub></td>
+<td align="right"><b>1,801</b></td>
+<td align="right">129</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">31</td>
-<td><img src="https://github.com/acmbpdc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/acmbpdc/openlib.cs"><b>acmbpdc/openlib.cs</b></a></td>
-<td align="right"><b>735</b></td>
-<td align="right">130</td>
-<td>Python</td>
+<td><img src="https://github.com/miromannino.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/miromannino/Justified-Gallery"><b>miromannino/Justified-Gallery</b></a><br><sub>Javascript library to help creating high quality justified galleries of images. Used by thousands of websites as well a…</sub></td>
+<td align="right"><b>1,746</b></td>
+<td align="right">291</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">32</td>
-<td><img src="https://github.com/ironcev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ironcev/awesome-roslyn"><b>ironcev/awesome-roslyn</b></a></td>
-<td align="right"><b>734</b></td>
-<td align="right">62</td>
-<td>—</td>
+<td><img src="https://github.com/rinvex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rinvex/countries"><b>rinvex/countries</b></a><br><sub>Rinvex Country is a simple and lightweight package for retrieving country details with flexibility. A whole bunch of da…</sub></td>
+<td align="right"><b>1,743</b></td>
+<td align="right">211</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">33</td>
-<td><img src="https://github.com/knqyf263.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/knqyf263/go-plugin"><b>knqyf263/go-plugin</b></a></td>
-<td align="right"><b>733</b></td>
-<td align="right">39</td>
-<td>Go</td>
+<td><img src="https://github.com/maddada.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maddada/Ghostex"><b>maddada/Ghostex</b></a><br><sub>The Best Native Agents Workspace. Fully Rust &amp; GPUI based. Mobile apps. 20+ agents. Native Ghostty.</sub></td>
+<td align="right"><b>1,725</b></td>
+<td align="right">141</td>
+<td>Rust</td>
 </tr>
 <tr>
 <td align="right">34</td>
-<td><img src="https://github.com/rinvex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rinvex/laravel-subscriptions"><b>rinvex/laravel-subscriptions</b></a> <sub>archived</sub></td>
-<td align="right"><b>720</b></td>
-<td align="right">341</td>
-<td>PHP</td>
+<td><img src="https://github.com/onsails.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/onsails/lspkind.nvim"><b>onsails/lspkind.nvim</b></a><br><sub>VS Code–style pictograms for Neovim completion items</sub></td>
+<td align="right"><b>1,692</b></td>
+<td align="right">42</td>
+<td>Lua</td>
 </tr>
 <tr>
 <td align="right">35</td>
-<td><img src="https://github.com/graninas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/graninas/cpp_functional_programming"><b>graninas/cpp&#95;functional&#95;programming</b></a></td>
-<td align="right"><b>714</b></td>
-<td align="right">64</td>
-<td>—</td>
+<td><img src="https://github.com/perlin-network.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/perlin-network/life"><b>perlin-network/life</b></a><br><sub>A secure WebAssembly VM catered for decentralized applications.</sub></td>
+<td align="right"><b>1,691</b></td>
+<td align="right">112</td>
+<td>Go</td>
 </tr>
 <tr>
 <td align="right">36</td>
-<td><img src="https://github.com/furqanZafar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/furqanZafar/react-selectize"><b>furqanZafar/react-selectize</b></a></td>
-<td align="right"><b>700</b></td>
-<td align="right">131</td>
-<td>LiveScript</td>
+<td><img src="https://github.com/codeaprendiz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/codeaprendiz/learn-devops"><b>codeaprendiz/learn-devops</b></a><br><sub>I am using this repository to document my devops journey. I follow the process of learning everything by tasks. Every t…</sub></td>
+<td align="right"><b>1,597</b></td>
+<td align="right">257</td>
+<td>HCL</td>
 </tr>
 <tr>
 <td align="right">37</td>
-<td><img src="https://github.com/NajiElKotob.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NajiElKotob/Awesome-Power-BI"><b>NajiElKotob/Awesome-Power-BI</b></a></td>
-<td align="right"><b>673</b></td>
-<td align="right">210</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">38</td>
-<td><img src="https://github.com/rinvex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rinvex/laravel-repositories"><b>rinvex/laravel-repositories</b></a> <sub>archived</sub></td>
-<td align="right"><b>669</b></td>
-<td align="right">111</td>
-<td>PHP</td>
-</tr>
-<tr>
-<td align="right">39</td>
-<td><img src="https://github.com/Vinelab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Vinelab/NeoEloquent"><b>Vinelab/NeoEloquent</b></a></td>
-<td align="right"><b>657</b></td>
-<td align="right">194</td>
-<td>PHP</td>
-</tr>
-<tr>
-<td align="right">40</td>
-<td><img src="https://github.com/abdelrahmaan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abdelrahmaan/Financial-aid-on-coursera-"><b>abdelrahmaan/Financial-aid-on-coursera-</b></a></td>
-<td align="right"><b>652</b></td>
-<td align="right">138</td>
-<td>HTML</td>
-</tr>
-<tr>
-<td align="right">41</td>
-<td><img src="https://github.com/sevenlabs-hq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sevenlabs-hq/carbon"><b>sevenlabs-hq/carbon</b></a></td>
-<td align="right"><b>631</b></td>
-<td align="right">196</td>
-<td>Rust</td>
-</tr>
-<tr>
-<td align="right">42</td>
-<td><img src="https://github.com/leonhartyao.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/leonhartyao/gazebo_models_worlds_collection"><b>leonhartyao/gazebo&#95;models&#95;worlds&#95;collection</b></a></td>
-<td align="right"><b>630</b></td>
-<td align="right">130</td>
-<td>GLSL</td>
-</tr>
-<tr>
-<td align="right">43</td>
-<td><img src="https://github.com/amrlabib.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/amrlabib/react-timer-hook"><b>amrlabib/react-timer-hook</b></a></td>
-<td align="right"><b>623</b></td>
-<td align="right">115</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">44</td>
-<td><img src="https://github.com/abutaha.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abutaha/aws-es-proxy"><b>abutaha/aws-es-proxy</b></a></td>
-<td align="right"><b>603</b></td>
-<td align="right">199</td>
-<td>Go</td>
-</tr>
-<tr>
-<td align="right">45</td>
-<td><img src="https://github.com/FahimF.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FahimF/SQLiteDB"><b>FahimF/SQLiteDB</b></a></td>
-<td align="right"><b>590</b></td>
-<td align="right">149</td>
-<td>Swift</td>
-</tr>
-<tr>
-<td align="right">46</td>
-<td><img src="https://github.com/CAMeL-Lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CAMeL-Lab/camel_tools"><b>CAMeL-Lab/camel&#95;tools</b></a></td>
-<td align="right"><b>582</b></td>
-<td align="right">96</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">47</td>
-<td><img src="https://github.com/dfl-rlab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dfl-rlab/dddmr_navigation"><b>dfl-rlab/dddmr&#95;navigation</b></a></td>
-<td align="right"><b>577</b></td>
-<td align="right">81</td>
-<td>C++</td>
-</tr>
-<tr>
-<td align="right">48</td>
-<td><img src="https://github.com/louisowen6.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/louisowen6/NLP_bahasa_resources"><b>louisowen6/NLP&#95;bahasa&#95;resources</b></a></td>
-<td align="right"><b>576</b></td>
-<td align="right">144</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">49</td>
-<td><img src="https://github.com/TechRate.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TechRate/Smart-Contract-Audits"><b>TechRate/Smart-Contract-Audits</b></a></td>
-<td align="right"><b>575</b></td>
-<td align="right">140</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">50</td>
-<td><img src="https://github.com/0xsauby.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0xsauby/yasuo"><b>0xsauby/yasuo</b></a></td>
-<td align="right"><b>573</b></td>
-<td align="right">138</td>
-<td>Ruby</td>
-</tr>
-<tr>
-<td align="right">51</td>
-<td><img src="https://github.com/guilyx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/guilyx/guilyx"><b>guilyx/guilyx</b></a></td>
-<td align="right"><b>571</b></td>
-<td align="right">254</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">52</td>
-<td><img src="https://github.com/mersinvald.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mersinvald/aquamarine"><b>mersinvald/aquamarine</b></a></td>
-<td align="right"><b>562</b></td>
-<td align="right">31</td>
-<td>Rust</td>
-</tr>
-<tr>
-<td align="right">53</td>
-<td><img src="https://github.com/kelindar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kelindar/search"><b>kelindar/search</b></a></td>
-<td align="right"><b>560</b></td>
-<td align="right">24</td>
-<td>Go</td>
-</tr>
-<tr>
-<td align="right">54</td>
-<td><img src="https://github.com/kelindar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kelindar/event"><b>kelindar/event</b></a></td>
-<td align="right"><b>559</b></td>
-<td align="right">10</td>
-<td>Go</td>
-</tr>
-<tr>
-<td align="right">55</td>
-<td><img src="https://github.com/namshi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/namshi/docker-smtp"><b>namshi/docker-smtp</b></a></td>
-<td align="right"><b>554</b></td>
-<td align="right">190</td>
-<td>Shell</td>
-</tr>
-<tr>
-<td align="right">56</td>
-<td><img src="https://github.com/kesslernity.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kesslernity/awesome-microsoft-copilot-prompts"><b>kesslernity/awesome-microsoft-copilot-prompts</b></a></td>
-<td align="right"><b>546</b></td>
-<td align="right">80</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">57</td>
-<td><img src="https://github.com/Amshaker.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Amshaker/unetr_plus_plus"><b>Amshaker/unetr&#95;plus&#95;plus</b></a></td>
-<td align="right"><b>536</b></td>
-<td align="right">59</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">58</td>
-<td><img src="https://github.com/graninas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/graninas/Functional-Design-and-Architecture"><b>graninas/Functional-Design-and-Architecture</b></a></td>
-<td align="right"><b>533</b></td>
-<td align="right">38</td>
-<td>Haskell</td>
-</tr>
-<tr>
-<td align="right">59</td>
-<td><img src="https://github.com/VILA-Lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/VILA-Lab/FigMirror"><b>VILA-Lab/FigMirror</b></a></td>
-<td align="right"><b>521</b></td>
-<td align="right">40</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">60</td>
-<td><img src="https://github.com/kesslernity.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kesslernity/awesome-copilot-studio-agents"><b>kesslernity/awesome-copilot-studio-agents</b></a></td>
-<td align="right"><b>520</b></td>
-<td align="right">52</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">61</td>
-<td><img src="https://github.com/IINemo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/IINemo/lm-polygraph"><b>IINemo/lm-polygraph</b></a></td>
-<td align="right"><b>519</b></td>
-<td align="right">77</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">62</td>
-<td><img src="https://github.com/mkevac.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mkevac/debugcharts"><b>mkevac/debugcharts</b></a></td>
-<td align="right"><b>512</b></td>
-<td align="right">57</td>
-<td>Go</td>
-</tr>
-<tr>
-<td align="right">63</td>
-<td><img src="https://github.com/0xKarl-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0xKarl-dev/claw-codes"><b>0xKarl-dev/claw-codes</b></a></td>
-<td align="right"><b>504</b></td>
-<td align="right">563</td>
-<td>Rust</td>
-</tr>
-<tr>
-<td align="right">64</td>
-<td><img src="https://github.com/emadeldeen24.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/emadeldeen24/TS-TCC"><b>emadeldeen24/TS-TCC</b></a></td>
-<td align="right"><b>499</b></td>
-<td align="right">125</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">65</td>
-<td><img src="https://github.com/MarSaKi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MarSaKi/ETPNav"><b>MarSaKi/ETPNav</b></a></td>
-<td align="right"><b>496</b></td>
-<td align="right">39</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">66</td>
-<td><img src="https://github.com/collabute.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/collabute/ossdotnow"><b>collabute/ossdotnow</b></a></td>
-<td align="right"><b>484</b></td>
-<td align="right">83</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">67</td>
-<td><img src="https://github.com/yaroslav.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yaroslav/russian"><b>yaroslav/russian</b></a></td>
-<td align="right"><b>481</b></td>
-<td align="right">132</td>
-<td>Ruby</td>
-</tr>
-<tr>
-<td align="right">68</td>
-<td><img src="https://github.com/orefalo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/orefalo/svelte-splitpanes"><b>orefalo/svelte-splitpanes</b></a></td>
-<td align="right"><b>481</b></td>
-<td align="right">22</td>
-<td>Svelte</td>
-</tr>
-<tr>
+<td><img src="https://github.com/kelindar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kelindar/column"><b>kelindar/column</b></a><br><sub>High-performance, columnar, in-memory store with bitmap indexing in Go</sub></td>
+<td align="right"><b>1,515</b></td>
 <td align="right">69</td>
-<td><img src="https://github.com/youngrichu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/youngrichu/frp-freedom"><b>youngrichu/frp-freedom</b></a></td>
-<td align="right"><b>477</b></td>
-<td align="right">184</td>
-<td>Python</td>
+<td>Go</td>
 </tr>
 <tr>
-<td align="right">70</td>
-<td><img src="https://github.com/kh4sh3i.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kh4sh3i/CVE-2025-32463"><b>kh4sh3i/CVE-2025-32463</b></a></td>
-<td align="right"><b>476</b></td>
-<td align="right">61</td>
-<td>Shell</td>
-</tr>
-<tr>
-<td align="right">71</td>
-<td><img src="https://github.com/AlanBinu007.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AlanBinu007/Spring-Boot-Advanced-Projects"><b>AlanBinu007/Spring-Boot-Advanced-Projects</b></a></td>
-<td align="right"><b>471</b></td>
-<td align="right">189</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">72</td>
-<td><img src="https://github.com/Laxcorp-Research.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Laxcorp-Research/project-raven"><b>Laxcorp-Research/project-raven</b></a></td>
-<td align="right"><b>421</b></td>
-<td align="right">425</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">73</td>
+<td align="right">38</td>
 <td><img src="https://github.com/Abedalkareem.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Abedalkareem/LanguageManager-iOS"><b>Abedalkareem/LanguageManager-iOS</b></a></td>
 <td align="right"><b>399</b></td>
 <td align="right">66</td>
 <td>Swift</td>
 </tr>
 <tr>
-<td align="right">74</td>
+<td align="right">39</td>
 <td><img src="https://github.com/venom-blockchain.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/venom-blockchain/awesome-venom"><b>venom-blockchain/awesome-venom</b></a></td>
 <td align="right"><b>390</b></td>
 <td align="right">15</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">75</td>
+<td align="right">40</td>
 <td><img src="https://github.com/Mohammed-Abdelhady.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mohammed-Abdelhady/nextjs-nestjs-oauth-rbac-boilerplate"><b>Mohammed-Abdelhady/nextjs-nestjs-oauth-rbac-boilerplate</b></a></td>
 <td align="right"><b>293</b></td>
 <td align="right">135</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">76</td>
+<td align="right">41</td>
 <td><img src="https://github.com/haseeb-heaven.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/haseeb-heaven/open-agent"><b>haseeb-heaven/open-agent</b></a></td>
 <td align="right"><b>278</b></td>
 <td align="right">44</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">77</td>
+<td align="right">42</td>
 <td><img src="https://github.com/TorBox-App.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TorBox-App/torbox-media-center"><b>TorBox-App/torbox-media-center</b></a></td>
 <td align="right"><b>277</b></td>
 <td align="right">38</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">78</td>
+<td align="right">43</td>
 <td><img src="https://github.com/itzmeanjan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/itzmeanjan/ette"><b>itzmeanjan/ette</b></a> <sub>archived</sub></td>
 <td align="right"><b>275</b></td>
 <td align="right">75</td>
 <td>Go</td>
 </tr>
 <tr>
-<td align="right">79</td>
+<td align="right">44</td>
 <td><img src="https://github.com/yusufusta.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yusufusta/WhatsAsena"><b>yusufusta/WhatsAsena</b></a> <sub>archived</sub></td>
 <td align="right"><b>269</b></td>
 <td align="right">526</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">80</td>
+<td align="right">45</td>
 <td><img src="https://github.com/mustfaibra.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mustfaibra/RoFFu"><b>mustfaibra/RoFFu</b></a></td>
 <td align="right"><b>268</b></td>
 <td align="right">39</td>
 <td>Kotlin</td>
 </tr>
 <tr>
-<td align="right">81</td>
+<td align="right">46</td>
 <td><img src="https://github.com/khalby786.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/khalby786/REHeader"><b>khalby786/REHeader</b></a></td>
 <td align="right"><b>236</b></td>
 <td align="right">16</td>
 <td>HTML</td>
 </tr>
 <tr>
-<td align="right">82</td>
+<td align="right">47</td>
 <td><img src="https://github.com/tuomaskivioja.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tuomaskivioja/3-Simple-Python-Projects"><b>tuomaskivioja/3-Simple-Python-Projects</b></a></td>
 <td align="right"><b>201</b></td>
 <td align="right">117</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">83</td>
+<td align="right">48</td>
 <td><img src="https://github.com/btc-vision.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/btc-vision/example-contracts"><b>btc-vision/example-contracts</b></a></td>
 <td align="right"><b>200</b></td>
 <td align="right">422</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">84</td>
+<td align="right">49</td>
 <td><img src="https://github.com/LaqiraProtocol.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LaqiraProtocol/Laqira-Collectibles-and-NFT-Marketplace"><b>LaqiraProtocol/Laqira-Collectibles-and-NFT-Marketplace</b></a></td>
 <td align="right"><b>186</b></td>
 <td align="right">204</td>
 <td>Solidity</td>
 </tr>
 <tr>
-<td align="right">85</td>
+<td align="right">50</td>
 <td><img src="https://github.com/joshuajbouw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/joshuajbouw/bevy_tilemap"><b>joshuajbouw/bevy&#95;tilemap</b></a> <sub>archived</sub></td>
 <td align="right"><b>183</b></td>
 <td align="right">44</td>
 <td>Rust</td>
 </tr>
 <tr>
-<td align="right">86</td>
+<td align="right">51</td>
 <td><img src="https://github.com/HiddenCodeDevs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HiddenCodeDevs/BlumTelegramBot"><b>HiddenCodeDevs/BlumTelegramBot</b></a></td>
 <td align="right"><b>178</b></td>
 <td align="right">72</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">87</td>
+<td align="right">52</td>
 <td><img src="https://github.com/ski043.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ski043/marshal-ui-yt"><b>ski043/marshal-ui-yt</b></a></td>
 <td align="right"><b>149</b></td>
 <td align="right">85</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">88</td>
+<td align="right">53</td>
 <td><img src="https://github.com/prashanth-sams.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/prashanth-sams/pytest-html-reporter"><b>prashanth-sams/pytest-html-reporter</b></a></td>
 <td align="right"><b>128</b></td>
 <td align="right">44</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">89</td>
+<td align="right">54</td>
 <td><img src="https://github.com/Muhammadatef.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Muhammadatef/Data-Engineering-Roadmap-For-Arabic-Speaker"><b>Muhammadatef/Data-Engineering-Roadmap-For-Arabic-Speaker</b></a></td>
 <td align="right"><b>127</b></td>
 <td align="right">5</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">90</td>
+<td align="right">55</td>
 <td><img src="https://github.com/ChainGPT-org.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ChainGPT-org/CGPT_Token"><b>ChainGPT-org/CGPT&#95;Token</b></a></td>
 <td align="right"><b>113</b></td>
 <td align="right">13</td>
 <td>Solidity</td>
 </tr>
 <tr>
-<td align="right">91</td>
+<td align="right">56</td>
 <td><img src="https://github.com/yehia-mamdouh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yehia-mamdouh/ZeroProbe"><b>yehia-mamdouh/ZeroProbe</b></a></td>
 <td align="right"><b>107</b></td>
 <td align="right">19</td>
 <td>PowerShell</td>
 </tr>
 <tr>
-<td align="right">92</td>
+<td align="right">57</td>
 <td><img src="https://github.com/FrayxRulez.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FrayxRulez/SwipeListView"><b>FrayxRulez/SwipeListView</b></a></td>
 <td align="right"><b>99</b></td>
 <td align="right">29</td>
 <td>C#</td>
 </tr>
 <tr>
-<td align="right">93</td>
+<td align="right">58</td>
 <td><img src="https://github.com/di37.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/di37/running-llms-locally"><b>di37/running-llms-locally</b></a></td>
 <td align="right"><b>97</b></td>
 <td align="right">12</td>
 <td>Markdown</td>
 </tr>
 <tr>
-<td align="right">94</td>
+<td align="right">59</td>
 <td><img src="https://github.com/dodopizza.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dodopizza/ai-pizza"><b>dodopizza/ai-pizza</b></a></td>
 <td align="right"><b>90</b></td>
 <td align="right">12</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
-<td align="right">95</td>
+<td align="right">60</td>
 <td><img src="https://github.com/Ahmed-Adel-Ismail.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ahmed-Adel-Ismail/Open-Weather-Maps"><b>Ahmed-Adel-Ismail/Open-Weather-Maps</b></a></td>
 <td align="right"><b>61</b></td>
 <td align="right">14</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">96</td>
+<td align="right">61</td>
 <td><img src="https://github.com/careem.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/careem/mockingbird"><b>careem/mockingbird</b></a> <sub>archived</sub></td>
 <td align="right"><b>60</b></td>
 <td align="right">2</td>
 <td>Kotlin</td>
 </tr>
 <tr>
-<td align="right">97</td>
+<td align="right">62</td>
 <td><img src="https://github.com/tschm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tschm/pyhrp"><b>tschm/pyhrp</b></a></td>
 <td align="right"><b>55</b></td>
 <td align="right">23</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">98</td>
+<td align="right">63</td>
 <td><img src="https://github.com/mintlayer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mintlayer/mintlayer-core"><b>mintlayer/mintlayer-core</b></a></td>
 <td align="right"><b>52</b></td>
 <td align="right">35</td>
 <td>Rust</td>
 </tr>
 <tr>
-<td align="right">99</td>
+<td align="right">64</td>
 <td><img src="https://github.com/yerdaulet-damir.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yerdaulet-damir/langgraph-sales-agent"><b>yerdaulet-damir/langgraph-sales-agent</b></a></td>
 <td align="right"><b>47</b></td>
 <td align="right">5</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">100</td>
+<td align="right">65</td>
 <td><img src="https://github.com/Cyborg-Network.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Cyborg-Network/cyborg-parachain"><b>Cyborg-Network/cyborg-parachain</b></a></td>
 <td align="right"><b>43</b></td>
 <td align="right">3</td>
 <td>Rust</td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><img src="https://github.com/raonyguimaraes.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/raonyguimaraes/mendelmd"><b>raonyguimaraes/mendelmd</b></a></td>
+<td align="right"><b>36</b></td>
+<td align="right">10</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><img src="https://github.com/soheiltehranipour.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/soheiltehranipour/Practical-Machine-Learning"><b>soheiltehranipour/Practical-Machine-Learning</b></a></td>
+<td align="right"><b>35</b></td>
+<td align="right">7</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><img src="https://github.com/nhatkhangcs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nhatkhangcs/synthetic_generator"><b>nhatkhangcs/synthetic&#95;generator</b></a></td>
+<td align="right"><b>34</b></td>
+<td align="right">3</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><img src="https://github.com/anantcodes.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anantcodes/CryptoX"><b>anantcodes/CryptoX</b></a></td>
+<td align="right"><b>31</b></td>
+<td align="right">1</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/PanPip.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PanPip/AlphaZero_trader"><b>PanPip/AlphaZero&#95;trader</b></a></td>
+<td align="right"><b>27</b></td>
+<td align="right">17</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/AhmedEzzatG.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmedEzzatG/competitiveProgramming"><b>AhmedEzzatG/competitiveProgramming</b></a></td>
+<td align="right"><b>27</b></td>
+<td align="right">4</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><img src="https://github.com/Huzaifaahmed20.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Huzaifaahmed20/flutter_fire_chat_app"><b>Huzaifaahmed20/flutter&#95;fire&#95;chat&#95;app</b></a></td>
+<td align="right"><b>26</b></td>
+<td align="right">8</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><img src="https://github.com/NdekoCode.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NdekoCode/spotify-app"><b>NdekoCode/spotify-app</b></a></td>
+<td align="right"><b>16</b></td>
+<td align="right">1</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/cr2007.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cr2007/whatsapp-voice-ai-assistant"><b>cr2007/whatsapp-voice-ai-assistant</b></a></td>
+<td align="right"><b>15</b></td>
+<td align="right">2</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/1cucer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/1cucer/Chess"><b>1cucer/Chess</b></a></td>
+<td align="right"><b>14</b></td>
+<td align="right">321</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/TadesseDev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TadesseDev/150_MIU-MUM_sample_questions_and_answers"><b>TadesseDev/150&#95;MIU-MUM&#95;sample&#95;questions&#95;and&#95;answers</b></a></td>
+<td align="right"><b>14</b></td>
+<td align="right">1</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/ibrahim-kukash.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ibrahim-kukash/thesis-writer"><b>ibrahim-kukash/thesis-writer</b></a></td>
+<td align="right"><b>14</b></td>
+<td align="right">0</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/delovoyhomie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/delovoyhomie/description-config-for-TON-Blockchain"><b>delovoyhomie/description-config-for-TON-Blockchain</b></a></td>
+<td align="right"><b>12</b></td>
+<td align="right">6</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/kilamaelie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kilamaelie/build-and-deploy-reactApp-to-aws-ec2-via-github-actions"><b>kilamaelie/build-and-deploy-reactApp-to-aws-ec2-via-github-actions</b></a></td>
+<td align="right"><b>9</b></td>
+<td align="right">5</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/menacedjava.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/menacedjava/menacedjava"><b>menacedjava/menacedjava</b></a></td>
+<td align="right"><b>9</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/evalexdy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/evalexdy/Keywords-Generator"><b>evalexdy/Keywords-Generator</b></a></td>
+<td align="right"><b>8</b></td>
+<td align="right">6</td>
+<td>JavaScript</td>
 </tr>
 </tbody>
 </table>
@@ -731,9 +598,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 43 stars; 116 attributed candidates are tracked.
-- 76 entries were carried over from the previous dataset and are pending revalidation.
-- 147 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 8 stars; 81 attributed candidates are tracked.
+- 44 entries were carried over from the previous dataset and are pending revalidation.
+- 140 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 98 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

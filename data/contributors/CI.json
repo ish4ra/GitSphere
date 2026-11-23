@@ -3,12 +3,14 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"CI","name":"Côte d'Ivoire","slug":"cote-d-ivoire"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":401,"measuredAccounts":4,"measurementBacklog":397,"window":null,"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":151,"unresolved":0}},
-"users": [],
-"contentHash": "029ec5cde61a438f",
-"updatedAt": "2026-11-22T22:28:05.466Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"coverage": {"basis":"partial","discoveredAccounts":401,"measuredAccounts":6,"measurementBacklog":395,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":151,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjY4OTc1NTQ1","login":"07Manfaily","name":"Manfaily Roland Yao","url":"https://github.com/07Manfaily","avatarUrl":"https://avatars.githubusercontent.com/u/68975545?s=80&v=4","followers":3,"publicRepos":15,"location":"Côte d'Ivoire (Abidjan)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":89,"commits":83,"pullRequests":0,"reviews":0,"issues":0,"repositories":6,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
+],
+"contentHash": "06758ba4b816084c",
+"updatedAt": "2026-11-23T03:24:49.438Z",
+"verifiedOn": "2026-11-23",
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }

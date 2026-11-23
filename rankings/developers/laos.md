@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/developers/LA.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/LA.json">JSON</a> |
 
 </div>
 
@@ -30,10 +30,24 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/18maynak-gif"><img src="https://avatars.githubusercontent.com/u/247860753?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/18maynak-gif"><b>Phetsamai Phoutthavong</b></a><br><sub>&#64;18maynak-gif</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">1</td>
+<td><sub>Laos</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/0101240207164"><img src="https://avatars.githubusercontent.com/u/232126214?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0101240207164"><b>BAISEE RM</b></a><br><sub>&#64;0101240207164</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">3</td>
 <td><sub>LAOS</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/0xJ0cKkY"><img src="https://avatars.githubusercontent.com/u/83629006?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xJ0cKkY"><b>Vilaysone Chanthavong</b></a><br><sub>&#64;0xJ0cKkY</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">23</td>
+<td><sub>Lao PDR</sub></td>
 </tr>
 </tbody>
 </table>
@@ -43,7 +57,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 2 attributed developers are tracked; the cutoff is 1 followers.
+- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

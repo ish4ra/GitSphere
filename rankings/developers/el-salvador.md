@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/developers/SV.json">JSON</a> |
+| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/developers/SV.json">JSON</a> |
 
 </div>
 
@@ -74,25 +74,53 @@
 <td align="right">8</td>
 <td><a href="https://github.com/sosedoff"><img src="https://avatars.githubusercontent.com/u/71051?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sosedoff"><b>Dan Sosedoff</b></a><br><sub>&#64;sosedoff</sub></td>
 <td align="right"><b>557</b></td>
-<td align="right">0</td>
+<td align="right">160</td>
 <td><sub>California, US</sub></td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><a href="https://github.com/anthonyshort"><img src="https://avatars.githubusercontent.com/u/36125?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anthonyshort"><b>Anthony Short</b></a><br><sub>&#64;anthonyshort</sub></td>
 <td align="right"><b>534</b></td>
-<td align="right">0</td>
+<td align="right">142</td>
 <td><sub>San Francisco, US</sub></td>
 </tr>
 <tr>
 <td align="right">10</td>
-<td><a href="https://github.com/mars"><img src="https://avatars.githubusercontent.com/u/17164?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mars"><b>Mars Hall</b></a><br><sub>&#64;mars</sub></td>
-<td align="right"><b>435</b></td>
-<td align="right">0</td>
-<td><sub>California, US</sub></td>
+<td><a href="https://github.com/gokceneraslan"><img src="https://avatars.githubusercontent.com/u/1140359?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gokceneraslan"><b>Gökçen Eraslan</b></a><br><sub>&#64;gokceneraslan</sub></td>
+<td align="right"><b>500</b></td>
+<td align="right">105</td>
+<td><sub>San Francisco, US</sub></td>
 </tr>
 <tr>
 <td align="right">11</td>
+<td><a href="https://github.com/MelvinAguilar"><img src="https://avatars.githubusercontent.com/u/90595158?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MelvinAguilar"><b>Melvin Aguilar</b></a><br><sub>&#64;MelvinAguilar</sub></td>
+<td align="right"><b>490</b></td>
+<td align="right">52</td>
+<td><sub>El Salvador</sub></td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><a href="https://github.com/mars"><img src="https://avatars.githubusercontent.com/u/17164?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mars"><b>Mars Hall</b></a><br><sub>&#64;mars</sub></td>
+<td align="right"><b>435</b></td>
+<td align="right">99</td>
+<td><sub>California, US</sub></td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><a href="https://github.com/auguwu"><img src="https://avatars.githubusercontent.com/u/27751995?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/auguwu"><b>Chris (Noel)</b></a><br><sub>&#64;auguwu</sub></td>
+<td align="right"><b>417</b></td>
+<td align="right">20</td>
+<td><sub>California, US</sub></td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><a href="https://github.com/deviantfero"><img src="https://avatars.githubusercontent.com/u/11150153?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/deviantfero"><b>Fernando Vásquez</b></a><br><sub>&#64;deviantfero</sub></td>
+<td align="right"><b>57</b></td>
+<td align="right">0</td>
+<td><sub>Santa Tecla, El Salvador</sub></td>
+</tr>
+<tr>
+<td align="right">15</td>
 <td><a href="https://github.com/mvp"><img src="https://avatars.githubusercontent.com/u/17501?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mvp"><b>mvp</b></a><br><sub>&#64;mvp</sub></td>
 <td align="right"><b>48</b></td>
 <td align="right">0</td>
@@ -106,7 +134,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 11 attributed developers are tracked; the cutoff is 48 followers.
+- Organizations are excluded. 15 attributed developers are tracked; the cutoff is 48 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -5,15 +5,17 @@
 "country": {"code":"TD","name":"Chad","slug":"chad"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":6,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjU5NDQ0MTI1","login":"Abakar-B","name":null,"url":"https://github.com/Abakar-B","avatarUrl":"https://avatars.githubusercontent.com/u/59444125?s=80&v=4","followers":2,"publicRepos":2,"location":"chad","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"U_kgDOCT8txw","login":"1KadenDev","name":"Kaden","url":"https://github.com/1KadenDev","avatarUrl":"https://avatars.githubusercontent.com/u/155135431?s=80&v=4","followers":1,"publicRepos":2,"location":"Chad","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":3,"id":"MDQ6VXNlcjkwMjcwMTYy","login":"6308-75-II2-TheMostAdvancedNameToDate","name":"Chad","url":"https://github.com/6308-75-II2-TheMostAdvancedNameToDate","avatarUrl":"https://avatars.githubusercontent.com/u/90270162?s=80&v=4","followers":1,"publicRepos":2,"location":"Chad","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":4,"id":"U_kgDOCIIqVA","login":"01Hassa","name":"Hassa","url":"https://github.com/01Hassa","avatarUrl":"https://avatars.githubusercontent.com/u/142748244?s=80&v=4","followers":0,"publicRepos":1,"location":"Chad","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":4,"id":"MDQ6VXNlcjM1Mzk3NTYw","login":"abdelrahim01","name":"Abdelrahim Senoussi","url":"https://github.com/abdelrahim01","avatarUrl":"https://avatars.githubusercontent.com/u/35397560?s=80&v=4","followers":1,"publicRepos":1,"location":"Chad","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":5,"id":"U_kgDOCIIqVA","login":"01Hassa","name":"Hassa","url":"https://github.com/01Hassa","avatarUrl":"https://avatars.githubusercontent.com/u/142748244?s=80&v=4","followers":0,"publicRepos":1,"location":"Chad","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":6,"id":"U_kgDOEkiG1Q","login":"abdoulayeibniabdoulayemahamat","name":"Abdoulaye Ibni Abdoulaye Mahamat","url":"https://github.com/abdoulayeibniabdoulayemahamat","avatarUrl":"https://avatars.githubusercontent.com/u/306742997?s=80&v=4","followers":0,"publicRepos":1,"location":"N'djamena , chad","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "f2bf6d4ae52293f4",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "8eae8a350124d1fc",
+"updatedAt": "2026-11-23T03:24:49.438Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-23T03:24:49.438Z"
 }
