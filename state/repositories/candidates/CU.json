@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"CU","name":"Cuba","slug":"cuba"},
-"count": 150,
+"count": 149,
 "repositories": [
-  {"name":"GamerHack/GamerHack.github.io","stars":263,"forks":196,"language":"HTML","archived":false,"createdAt":"2022-04-15T03:36:41Z","pushedAt":"2026-11-04T02:56:01Z","owner":{"login":"GamerHack","type":"User","location":"Cuba"},"attribution":{"code":"CU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:54:51.535Z","id":"legacy:gamerhack/gamerhack.github.io","legacy":true},
   {"name":"geobarrod/KDE-Services","stars":107,"forks":21,"language":"Shell","license":"BSD-3-Clause","archived":false,"createdAt":"2013-06-22T02:55:35Z","pushedAt":"2026-10-03T04:33:39Z","owner":{"login":"geobarrod","type":"User","name":"Geo B.R.","location":"Havana, Cuba"},"attribution":{"code":"CU","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:54:51.535Z","id":"legacy:geobarrod/kde-services","legacy":true},
   {"name":"apiad/auditorium","stars":87,"forks":15,"language":"Python","archived":false,"createdAt":"2019-11-27T21:00:22Z","pushedAt":"2026-08-27T19:24:45Z","owner":{"login":"apiad","type":"User","name":"Alejandro Piad","location":"Cuba"},"attribution":{"code":"CU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:54:51.535Z","id":"legacy:apiad/auditorium","legacy":true},
   {"name":"matcom/programming","stars":85,"forks":38,"language":"C#","archived":false,"createdAt":"2021-12-11T04:34:20Z","pushedAt":"2026-09-25T18:24:31Z","owner":{"login":"matcom","type":"Organization","name":"School of Math and Computer Science, UH","location":"La Habana, Cuba"},"attribution":{"code":"CU","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:54:51.535Z","id":"legacy:matcom/programming","legacy":true},

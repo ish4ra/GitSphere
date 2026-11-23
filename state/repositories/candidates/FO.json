@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"FO","name":"Faroe Islands","slug":"faroe-islands"},
-"count": 103,
+"count": 102,
 "repositories": [
-  {"name":"kruseio/hygg","stars":360,"forks":17,"language":"Rust","license":"AGPL-3.0","archived":false,"createdAt":"2024-06-13T16:51:05Z","pushedAt":"2026-10-03T01:56:02Z","owner":{"login":"kruseio","type":"User","name":"Ragnar Kruse","location":"Faroe Islands"},"attribution":{"code":"FO","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-13T01:18:49.373Z","id":"legacy:kruseio/hygg","legacy":true},
   {"name":"QODIO/selectator","stars":88,"forks":43,"language":"JavaScript","license":"MIT","archived":true,"createdAt":"2013-12-13T09:52:37Z","pushedAt":"2020-12-15T05:11:37Z","owner":{"login":"QODIO","type":"Organization","name":"KODIO","location":"Faroe Islands"},"attribution":{"code":"FO","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T06:23:03.305Z","id":"legacy:qodio/selectator","legacy":true},
   {"name":"bardurt/odontograma","stars":77,"forks":37,"language":"JavaScript","license":"MIT","archived":false,"createdAt":"2018-02-02T20:01:03Z","pushedAt":"2024-09-21T04:03:40Z","owner":{"login":"bardurt","type":"User","name":"Barthur Thomsen","location":"Faroe Islands"},"attribution":{"code":"FO","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T06:23:03.305Z","id":"legacy:bardurt/odontograma","legacy":true},
   {"name":"Brian-ED/rayed-bqn","stars":53,"forks":10,"language":"BQN","license":"MIT","archived":false,"createdAt":"2023-03-14T22:12:04Z","pushedAt":"2026-09-27T09:28:21Z","owner":{"login":"Brian-ED","type":"User","name":"Brian E","location":"Faroe Islands"},"attribution":{"code":"FO","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T06:23:03.305Z","id":"legacy:brian-ed/rayed-bqn","legacy":true},

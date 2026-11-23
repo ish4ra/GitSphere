@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/GA.json">JSON</a> |
+| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/GA.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,15 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/OkeBenoitHub"><img src="https://avatars.githubusercontent.com/u/74135034?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OkeBenoitHub"><b>Presly Benoit Ndong Oke</b></a><br><sub>&#64;OkeBenoitHub · 1 followers</sub></td>
+<td align="right"><b>261</b></td>
+<td align="right">258</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/Yusufibin"><img src="https://avatars.githubusercontent.com/u/71589435?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Yusufibin"><b>Youssouf ⚜️</b></a><br><sub>&#64;Yusufibin · 16 followers</sub></td>
 <td align="right"><b>231</b></td>
 <td align="right">188</td>
@@ -51,7 +60,16 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
+<td><a href="https://github.com/El-GeorgesW"><img src="https://avatars.githubusercontent.com/u/35881726?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/El-GeorgesW"><b>El Georges William</b></a><br><sub>&#64;El-GeorgesW · 34 followers</sub></td>
+<td align="right"><b>10</b></td>
+<td align="right">2</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/stoneC0der"><img src="https://avatars.githubusercontent.com/u/11365636?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stoneC0der"><b>Cedric Megnie N.</b></a><br><sub>&#64;stoneC0der · 33 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">2</td>
@@ -66,7 +84,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 4 of 332 discovered developers (328 awaiting measurement).
+- **Measured:** 6 of 332 discovered developers (326 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 45 in round 1.

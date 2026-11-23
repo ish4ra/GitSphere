@@ -5,15 +5,16 @@
 "country": {"code":"NE","name":"Niger","slug":"niger"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":5,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjI2ODk4Mjk=","login":"petrozavodsky","name":"Vladimir Petrozavodsky","url":"https://github.com/petrozavodsky","avatarUrl":"https://avatars.githubusercontent.com/u/2689829?s=80&v=4","followers":1161,"publicRepos":170,"location":"Niger","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"U_kgDOBm_ZJg","login":"kodjodevf","name":"Moustapha Kodjo Amadou","url":"https://github.com/kodjodevf","avatarUrl":"https://avatars.githubusercontent.com/u/107993382?s=80&v=4","followers":239,"publicRepos":23,"location":"Niamey,Niger","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-22"},
   {"rank":3,"id":"MDQ6VXNlcjQ5NDUxOTY3","login":"227Mahaman","name":null,"url":"https://github.com/227Mahaman","avatarUrl":"https://avatars.githubusercontent.com/u/49451967?s=80&v=4","followers":2,"publicRepos":25,"location":"Niamey, Niger","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-23"},
-  {"rank":4,"id":"U_kgDOBslwDA","login":"1Dini","name":"Chamsoudine","url":"https://github.com/1Dini","avatarUrl":"https://avatars.githubusercontent.com/u/113864716?s=80&v=4","followers":0,"publicRepos":1,"location":"Niger Maradi","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-23"}
+  {"rank":4,"id":"U_kgDODnKjkA","login":"5gmx7878th-a11y","name":"Mousto_MG","url":"https://github.com/5gmx7878th-a11y","avatarUrl":"https://avatars.githubusercontent.com/u/242394000?s=80&v=4","followers":0,"publicRepos":3,"location":"Niger","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-23"},
+  {"rank":5,"id":"U_kgDOBslwDA","login":"1Dini","name":"Chamsoudine","url":"https://github.com/1Dini","avatarUrl":"https://avatars.githubusercontent.com/u/113864716?s=80&v=4","followers":0,"publicRepos":1,"location":"Niger Maradi","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "c5c840368b1c527b",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "adb03155929f8a98",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

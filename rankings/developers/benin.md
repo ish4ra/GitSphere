@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 23 Nov 2026 | <a href="../../data/developers/BJ.json">JSON</a> |
+| 🟡 Provisional | **7** | 23 Nov 2026 | <a href="../../data/developers/BJ.json">JSON</a> |
 
 </div>
 
@@ -56,6 +56,20 @@
 <td align="right">11</td>
 <td><sub>Benin 🇧🇯</sub></td>
 </tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/kevindegila"><img src="https://avatars.githubusercontent.com/u/54590771?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kevindegila"><b>Kevin Degila</b></a><br><sub>&#64;kevindegila</sub></td>
+<td align="right"><b>389</b></td>
+<td align="right">41</td>
+<td><sub>Cotonou, Bénin</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/MikeCHOKKI"><img src="https://avatars.githubusercontent.com/u/76479445?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MikeCHOKKI"><b>&#64;Ekim&#39;s</b></a><br><sub>&#64;MikeCHOKKI</sub></td>
+<td align="right"><b>380</b></td>
+<td align="right">11</td>
+<td><sub>Bénin</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -64,7 +78,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 5 attributed developers are tracked; the cutoff is 439 followers.
+- Organizations are excluded. 7 attributed developers are tracked; the cutoff is 380 followers.
 - **Location discovery:** term 0 of 86 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

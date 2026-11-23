@@ -1,8 +1,9 @@
 {
 "schemaVersion": 3,
 "country": {"code":"BB","name":"Barbados","slug":"barbados"},
-"count": 148,
+"count": 149,
 "repositories": [
+  {"id":"MDEwOlJlcG9zaXRvcnk1OTQ4ODg5Ng==","name":"kaku2015/ColorfulNews","stars":1295,"forks":412,"language":"Java","description":"A news-reading App (MVP+Dagger2+RxJava+Retrofit2+Material Design)","archived":false,"createdAt":"2016-05-23T14:19:17Z","pushedAt":"2016-10-30T12:31:14Z","owner":{"id":"MDQ6VXNlcjEyMTg1NDY1","login":"kaku2015","type":"User","name":"FishingNet","location":"Barbados"},"attribution":{"code":"BB","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-23T12:34:58.277Z","verifiedAt":"2026-11-23T12:34:58.277Z","cycle":1},
   {"name":"adevbuildingstuff/ethereum-solidity-course-updated-code","stars":188,"forks":80,"language":"JavaScript","archived":true,"createdAt":"2019-12-28T00:49:37Z","pushedAt":"2024-09-16T16:27:05Z","owner":{"login":"adevbuildingstuff","type":"User","name":"Owan Hunte","location":"Barbados"},"attribution":{"code":"BB","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-28T05:56:18.357Z","id":"legacy:adevbuildingstuff/ethereum-solidity-course-updated-code","legacy":true},
   {"name":"lukehefson/ex-githubber-companies","stars":125,"forks":10,"archived":false,"createdAt":"2023-05-24T20:01:57Z","pushedAt":"2026-05-18T20:39:07Z","owner":{"login":"lukehefson","type":"User","name":"Luke Hefson","location":"Barbados"},"attribution":{"code":"BB","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-28T05:56:18.357Z","id":"legacy:lukehefson/ex-githubber-companies","legacy":true},
   {"name":"iRoachie/react-native-material-tabs","stars":122,"forks":54,"language":"TypeScript","license":"MIT","archived":false,"createdAt":"2017-01-22T14:39:57Z","pushedAt":"2021-03-29T06:12:26Z","owner":{"login":"iRoachie","type":"User","name":"Kyle Roach","location":"Barbados"},"attribution":{"code":"BB","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-28T05:56:18.357Z","id":"legacy:iroachie/react-native-material-tabs","legacy":true},

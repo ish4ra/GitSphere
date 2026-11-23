@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/developers/DO.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/developers/DO.json">JSON</a> |
 
 </div>
 
@@ -70,6 +70,13 @@
 <td align="right">197</td>
 <td><sub>Dominican Republic</sub></td>
 </tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/adonismendozaperez"><img src="https://avatars.githubusercontent.com/u/15876642?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adonismendozaperez"><b>Adonis Mendoza</b></a><br><sub>&#64;adonismendozaperez</sub></td>
+<td align="right"><b>117</b></td>
+<td align="right">0</td>
+<td><sub>Dominican Republic</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -78,7 +85,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 7 attributed developers are tracked; the cutoff is 425 followers.
+- Organizations are excluded. 8 attributed developers are tracked; the cutoff is 117 followers.
 - **Location discovery:** term 0 of 134 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

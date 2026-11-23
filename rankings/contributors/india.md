@@ -14,18 +14,27 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/IN.json">JSON</a> |
+| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/IN.json">JSON</a> |
 
 </div>
 
-<p align="center"><sub>Public contributions from <b>22 Nov 2025</b> to <b>22 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
+<p align="center"><sub>Public contributions from <b>23 Nov 2025</b> to <b>23 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
 
 <table>
 <thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Public contributions</th><th align="right">Commits</th><th align="right">PRs</th><th align="right">Reviews</th><th align="right">Issues</th></tr></thead>
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><a href="https://github.com/ashishpatel26"><img src="https://avatars.githubusercontent.com/u/3095771?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ashishpatel26"><b>Ashish Patel</b></a><br><sub>&#64;ashishpatel26 · 12,652 followers</sub></td>
+<td><a href="https://github.com/ajeetraina"><img src="https://avatars.githubusercontent.com/u/313480?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ajeetraina"><b>Ajeet Singh Raina, Docker Captain, ARM Innovator,</b></a><br><sub>&#64;ajeetraina · 994 followers</sub></td>
+<td align="right"><b>4,235</b></td>
+<td align="right">3,206</td>
+<td align="right">316</td>
+<td align="right">25</td>
+<td align="right">595</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/ashishpatel26"><img src="https://avatars.githubusercontent.com/u/3095771?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ashishpatel26"><b>Ashish Patel</b></a><br><sub>&#64;ashishpatel26 · 12,660 followers</sub></td>
 <td align="right"><b>719</b></td>
 <td align="right">464</td>
 <td align="right">149</td>
@@ -33,7 +42,7 @@
 <td align="right">3</td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">3</td>
 <td><a href="https://github.com/tkmagesh"><img src="https://avatars.githubusercontent.com/u/136293?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tkmagesh"><b>Magesh</b></a><br><sub>&#64;tkmagesh · 597 followers</sub></td>
 <td align="right"><b>304</b></td>
 <td align="right">287</td>
@@ -42,7 +51,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/manjunath5496"><img src="https://avatars.githubusercontent.com/u/19967403?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/manjunath5496"><b>Manjunath.R</b></a><br><sub>&#64;manjunath5496 · 5,124 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">2</td>
@@ -51,7 +60,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/pranavlathigara"><img src="https://avatars.githubusercontent.com/u/6948067?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pranavlathigara"><b>Pranav Lathigara</b></a><br><sub>&#64;pranavlathigara · 1,372 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -66,7 +75,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 4 of 1,300 discovered developers (1,296 awaiting measurement).
+- **Measured:** 5 of 1,301 discovered developers (1,296 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 185 in round 1.

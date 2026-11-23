@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/PS.json">JSON</a> |
+| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/PS.json">JSON</a> |
 
 </div>
 
@@ -52,6 +52,15 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/sunnyfoggy"><img src="https://avatars.githubusercontent.com/u/191257357?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sunnyfoggy"><b>Sunny</b></a><br><sub>&#64;sunnyfoggy · 480 followers</sub></td>
+<td align="right"><b>36</b></td>
+<td align="right">34</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/shadeed"><img src="https://avatars.githubusercontent.com/u/8038659?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shadeed"><b>Ahmad Shadeed</b></a><br><sub>&#64;shadeed · 1,857 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
@@ -66,7 +75,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 4 of 402 discovered developers (398 awaiting measurement).
+- **Measured:** 5 of 402 discovered developers (397 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

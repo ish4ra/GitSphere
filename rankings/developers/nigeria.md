@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **70** | 22 Nov 2026 | <a href="../../data/developers/NG.json">JSON</a> |
+| 🟡 Provisional | **94** | 22 Nov 2026 | <a href="../../data/developers/NG.json">JSON</a> |
 
 </div>
 
@@ -478,34 +478,202 @@
 </tr>
 <tr>
 <td align="right">66</td>
+<td><a href="https://github.com/DataScienceNigeria"><img src="https://avatars.githubusercontent.com/u/40419106?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DataScienceNigeria"><b>DataScience Nigeria</b></a><br><sub>&#64;DataScienceNigeria</sub></td>
+<td align="right"><b>405</b></td>
+<td align="right">71</td>
+<td><sub>Lagos, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><a href="https://github.com/Solex202"><img src="https://avatars.githubusercontent.com/u/94827649?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Solex202"><b>the&#95;lotachukwu</b></a><br><sub>&#64;Solex202</sub></td>
+<td align="right"><b>401</b></td>
+<td align="right">59</td>
+<td><sub>lagos</sub></td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><a href="https://github.com/DavidCyrilTech"><img src="https://avatars.githubusercontent.com/u/207528589?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DavidCyrilTech"><b>David Cyril</b></a><br><sub>&#64;DavidCyrilTech</sub></td>
+<td align="right"><b>401</b></td>
+<td align="right">20</td>
+<td><sub>Abuja, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><a href="https://github.com/Horlawhumy-dev"><img src="https://avatars.githubusercontent.com/u/60175418?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Horlawhumy-dev"><b>ARAFAT OLAYIWOLA</b></a><br><sub>&#64;Horlawhumy-dev</sub></td>
+<td align="right"><b>397</b></td>
+<td align="right">213</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><a href="https://github.com/Bigsnack7"><img src="https://avatars.githubusercontent.com/u/287245995?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bigsnack7"><b>Oludemi Joshua</b></a><br><sub>&#64;Bigsnack7</sub></td>
+<td align="right"><b>396</b></td>
+<td align="right">7</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><a href="https://github.com/JoshuaIgho"><img src="https://avatars.githubusercontent.com/u/170576900?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JoshuaIgho"><b>Joshua Igho Efe</b></a><br><sub>&#64;JoshuaIgho</sub></td>
+<td align="right"><b>394</b></td>
+<td align="right">34</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><a href="https://github.com/influx6"><img src="https://avatars.githubusercontent.com/u/131629?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/influx6"><b>Ewetumo Alexander</b></a><br><sub>&#64;influx6</sub></td>
+<td align="right"><b>387</b></td>
+<td align="right">745</td>
+<td><sub>Lagos, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><a href="https://github.com/dohoudaniel"><img src="https://avatars.githubusercontent.com/u/106144737?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dohoudaniel"><b>Daniel Favour Dohou</b></a><br><sub>&#64;dohoudaniel</sub></td>
+<td align="right"><b>375</b></td>
+<td align="right">155</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><a href="https://github.com/andreyscott"><img src="https://avatars.githubusercontent.com/u/62455784?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andreyscott"><b>Andrew Irorere</b></a><br><sub>&#64;andreyscott</sub></td>
+<td align="right"><b>365</b></td>
+<td align="right">236</td>
+<td><sub>Lagos</sub></td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><a href="https://github.com/segunajibola"><img src="https://avatars.githubusercontent.com/u/74687658?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/segunajibola"><b>Segun Ajibola</b></a><br><sub>&#64;segunajibola</sub></td>
+<td align="right"><b>363</b></td>
+<td align="right">197</td>
+<td><sub>Lagos, Nigeria.</sub></td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><a href="https://github.com/unclebay143"><img src="https://avatars.githubusercontent.com/u/58919619?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/unclebay143"><b>Ayodele Samuel Adebayo</b></a><br><sub>&#64;unclebay143</sub></td>
+<td align="right"><b>362</b></td>
+<td align="right">209</td>
+<td><sub>Kwara</sub></td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><a href="https://github.com/IbroTao"><img src="https://avatars.githubusercontent.com/u/137963603?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IbroTao"><b>Ibrahim Taofeek</b></a><br><sub>&#64;IbroTao</sub></td>
+<td align="right"><b>359</b></td>
+<td align="right">48</td>
+<td><sub>Abuja, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><a href="https://github.com/Mastersam07"><img src="https://avatars.githubusercontent.com/u/31275429?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mastersam07"><b>Samuel Abada</b></a><br><sub>&#64;Mastersam07</sub></td>
+<td align="right"><b>355</b></td>
+<td align="right">101</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><a href="https://github.com/danielikechukwu"><img src="https://avatars.githubusercontent.com/u/93231944?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danielikechukwu"><b>Daniel Okwukwe Ikechukwu</b></a><br><sub>&#64;danielikechukwu</sub></td>
+<td align="right"><b>352</b></td>
+<td align="right">126</td>
+<td><sub>Abuja (FCT), Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><a href="https://github.com/Nwokike"><img src="https://avatars.githubusercontent.com/u/194400238?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nwokike"><b>Onyeka Nwokike</b></a><br><sub>&#64;Nwokike</sub></td>
+<td align="right"><b>352</b></td>
+<td align="right">30</td>
+<td><sub>Enugu, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><a href="https://github.com/Irenimoyan2"><img src="https://avatars.githubusercontent.com/u/122874674?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Irenimoyan2"><b>Irenimoyan2</b></a><br><sub>&#64;Irenimoyan2</sub></td>
+<td align="right"><b>352</b></td>
+<td align="right">9</td>
+<td><sub>Lagos, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><a href="https://github.com/Youngestdev"><img src="https://avatars.githubusercontent.com/u/31009679?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Youngestdev"><b>Abdulazeez Abdulazeez Adeshina</b></a><br><sub>&#64;Youngestdev</sub></td>
+<td align="right"><b>351</b></td>
+<td align="right">146</td>
+<td><sub>Lagos, Nigeria.</sub></td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><a href="https://github.com/Boluwatife2904"><img src="https://avatars.githubusercontent.com/u/49585353?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Boluwatife2904"><b>Victor Sanusi</b></a><br><sub>&#64;Boluwatife2904</sub></td>
+<td align="right"><b>351</b></td>
+<td align="right">70</td>
+<td><sub>Lagos, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><a href="https://github.com/Adeyinka-hub"><img src="https://avatars.githubusercontent.com/u/55559465?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Adeyinka-hub"><b>Adeyinka Michael Sotunde</b></a><br><sub>&#64;Adeyinka-hub</sub></td>
+<td align="right"><b>349</b></td>
+<td align="right">371</td>
+<td><sub>LAGOS, NIGERIA.</sub></td>
+</tr>
+<tr>
+<td align="right">85</td>
+<td><a href="https://github.com/NwabuezeFranklin"><img src="https://avatars.githubusercontent.com/u/99493414?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NwabuezeFranklin"><b>Nwabueze Franklin</b></a><br><sub>&#64;NwabuezeFranklin</sub></td>
+<td align="right"><b>348</b></td>
+<td align="right">67</td>
+<td><sub>Lagos Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><a href="https://github.com/othreecodes"><img src="https://avatars.githubusercontent.com/u/18391371?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/othreecodes"><b>Obi Uchenna David</b></a><br><sub>&#64;othreecodes</sub></td>
+<td align="right"><b>344</b></td>
+<td align="right">153</td>
+<td><sub>Lagos, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><a href="https://github.com/goodnesskay"><img src="https://avatars.githubusercontent.com/u/16525886?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/goodnesskay"><b>Goodness Kayode</b></a><br><sub>&#64;goodnesskay</sub></td>
+<td align="right"><b>304</b></td>
+<td align="right">0</td>
+<td><sub>Abuja,Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">88</td>
 <td><a href="https://github.com/libracoder"><img src="https://avatars.githubusercontent.com/u/32944039?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/libracoder"><b>Precious Okwu</b></a><br><sub>&#64;libracoder</sub></td>
 <td align="right"><b>271</b></td>
 <td align="right">0</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">67</td>
+<td align="right">89</td>
+<td><a href="https://github.com/FeezyHendrix"><img src="https://avatars.githubusercontent.com/u/27918971?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FeezyHendrix"><b>HNDRX</b></a><br><sub>&#64;FeezyHendrix</sub></td>
+<td align="right"><b>242</b></td>
+<td align="right">0</td>
+<td><sub>Lagos, Nigeria.</sub></td>
+</tr>
+<tr>
+<td align="right">90</td>
 <td><a href="https://github.com/JayWebtech"><img src="https://avatars.githubusercontent.com/u/45628811?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JayWebtech"><b>Adamu Jethro</b></a><br><sub>&#64;JayWebtech</sub></td>
 <td align="right"><b>197</b></td>
 <td align="right">0</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">68</td>
+<td align="right">91</td>
 <td><a href="https://github.com/AIEraDev"><img src="https://avatars.githubusercontent.com/u/80651195?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AIEraDev"><b>Abdulkabir Musa</b></a><br><sub>&#64;AIEraDev</sub></td>
 <td align="right"><b>148</b></td>
 <td align="right">0</td>
 <td><sub>Nigeria.</sub></td>
 </tr>
 <tr>
-<td align="right">69</td>
+<td align="right">92</td>
+<td><a href="https://github.com/damms005"><img src="https://avatars.githubusercontent.com/u/9839355?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/damms005"><b>Damilola Emmanuel Olowookere</b></a><br><sub>&#64;damms005</sub></td>
+<td align="right"><b>115</b></td>
+<td align="right">0</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">93</td>
 <td><a href="https://github.com/panshak"><img src="https://avatars.githubusercontent.com/u/15835693?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/panshak"><b>Panshak Solomon</b></a><br><sub>&#64;panshak</sub></td>
 <td align="right"><b>108</b></td>
 <td align="right">0</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">70</td>
+<td align="right">94</td>
 <td><a href="https://github.com/kadickUrhoboIntegratedBank"><img src="https://avatars.githubusercontent.com/u/131571630?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kadickUrhoboIntegratedBank"><b>Urhobocentral</b></a><br><sub>&#64;kadickUrhoboIntegratedBank</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
@@ -519,7 +687,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 70 attributed developers are tracked; the cutoff is 1 followers.
+- Organizations are excluded. 94 attributed developers are tracked; the cutoff is 1 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

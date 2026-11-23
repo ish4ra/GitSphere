@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/AU.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/AU.json">JSON</a> |
 
 </div>
 
@@ -52,6 +52,15 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/RichardScottOZ"><img src="https://avatars.githubusercontent.com/u/72196131?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RichardScottOZ"><b>RichardScottOZ</b></a><br><sub>&#64;RichardScottOZ · 353 followers</sub></td>
+<td align="right"><b>1,923</b></td>
+<td align="right">1,778</td>
+<td align="right">13</td>
+<td align="right">39</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/johndpope"><img src="https://avatars.githubusercontent.com/u/289994?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/johndpope"><b>John D. Pope</b></a><br><sub>&#64;johndpope · 1,336 followers</sub></td>
 <td align="right"><b>842</b></td>
 <td align="right">563</td>
@@ -60,7 +69,7 @@
 <td align="right">100</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/jayvdb"><img src="https://avatars.githubusercontent.com/u/15092?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jayvdb"><b>John Vandenberg</b></a><br><sub>&#64;jayvdb · 603 followers</sub></td>
 <td align="right"><b>701</b></td>
 <td align="right">286</td>
@@ -69,7 +78,16 @@
 <td align="right">43</td>
 </tr>
 <tr>
+<td align="right">7</td>
+<td><a href="https://github.com/mvandermeulen"><img src="https://avatars.githubusercontent.com/u/14543143?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mvandermeulen"><b>Mark</b></a><br><sub>&#64;mvandermeulen · 348 followers</sub></td>
+<td align="right"><b>132</b></td>
+<td align="right">33</td>
 <td align="right">6</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">8</td>
 <td><a href="https://github.com/drnic"><img src="https://avatars.githubusercontent.com/u/108?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/drnic"><b>Dr Nic Williams</b></a><br><sub>&#64;drnic · 1,855 followers</sub></td>
 <td align="right"><b>72</b></td>
 <td align="right">42</td>
@@ -84,7 +102,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 6 of 822 discovered developers (816 awaiting measurement).
+- **Measured:** 8 of 943 discovered developers (935 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 124 in round 1.

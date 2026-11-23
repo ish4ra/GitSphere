@@ -5,16 +5,20 @@
 "country": {"code":"YE","name":"Yemen","slug":"yemen"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":598,"candidates":5,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":355,"candidates":9,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"U_kgDOCqd51g","login":"mbahomaid","name":"Mustafa Bahomaid","url":"https://github.com/mbahomaid","avatarUrl":"https://avatars.githubusercontent.com/u/178747862?s=80&v=4","followers":7528,"publicRepos":75,"location":"Yemen","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjQzNTI2NjI4","login":"OsamaAlmamri","name":"Osama Al-mamari","url":"https://github.com/OsamaAlmamri","avatarUrl":"https://avatars.githubusercontent.com/u/43526628?s=80&v=4","followers":922,"publicRepos":131,"location":"Sana'a ,Yemen","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":3,"id":"U_kgDOB4F3BA","login":"SaraAhmed1999","name":"Sara Ahmed","url":"https://github.com/SaraAhmed1999","avatarUrl":"https://avatars.githubusercontent.com/u/125925124?s=80&v=4","followers":894,"publicRepos":1,"location":"Yemen","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":4,"id":"U_kgDOBeQ20A","login":"Asbaharoon","name":"Abdullah Baharoon","url":"https://github.com/Asbaharoon","avatarUrl":"https://avatars.githubusercontent.com/u/98842320?s=80&v=4","followers":689,"publicRepos":1371,"location":"Yemen","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":5,"id":"MDQ6VXNlcjczMDgxMjU2","login":"AbdulrhmanBashammmakh","name":"AB238","url":"https://github.com/AbdulrhmanBashammmakh","avatarUrl":"https://avatars.githubusercontent.com/u/73081256?s=80&v=4","followers":598,"publicRepos":50,"location":"Sanaa Yemen","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+  {"rank":5,"id":"MDQ6VXNlcjczMDgxMjU2","login":"AbdulrhmanBashammmakh","name":"AB238","url":"https://github.com/AbdulrhmanBashammmakh","avatarUrl":"https://avatars.githubusercontent.com/u/73081256?s=80&v=4","followers":598,"publicRepos":50,"location":"Sanaa Yemen","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":6,"id":"MDQ6VXNlcjI0ODM4Mjc0","login":"WatheqAlshowaiter","name":"Watheq Alshowaiter","url":"https://github.com/WatheqAlshowaiter","avatarUrl":"https://avatars.githubusercontent.com/u/24838274?s=80&v=4","followers":407,"publicRepos":501,"location":"Yemen","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":7,"id":"MDQ6VXNlcjcyMTMwMzI0","login":"AhmadHRai","name":"Ahmad Alrai","url":"https://github.com/AhmadHRai","avatarUrl":"https://avatars.githubusercontent.com/u/72130324?s=80&v=4","followers":397,"publicRepos":35,"location":"Yemen","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":8,"id":"MDQ6VXNlcjI1NDM5NDk4","login":"omaralalwi","name":"Omar Alalwi","url":"https://github.com/omaralalwi","avatarUrl":"https://avatars.githubusercontent.com/u/25439498?s=80&v=4","followers":387,"publicRepos":37,"location":"sana'a Yemen","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":9,"id":"U_kgDOB5Pp_A","login":"CS2487","name":"Farea AL-Dhela'a","url":"https://github.com/CS2487","avatarUrl":"https://avatars.githubusercontent.com/u/127134204?s=80&v=4","followers":355,"publicRepos":48,"location":"Yemen, Sana’a,a","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "5d2b0d65b5635b0f",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "2e80d752c2ce2e82",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

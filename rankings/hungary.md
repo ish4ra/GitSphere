@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | :---: |
 | 🟠 Stale | **60** | 01 Nov 2026 | <a href="../data/HU.json">JSON</a> |
 
-> **Not yet re-verified.** 26 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 17 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -263,66 +263,66 @@
 </tr>
 <tr>
 <td align="right">35</td>
-<td><img src="https://github.com/Geri-Borbas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Geri-Borbas/Unity.Library.eppz.Geometry"><b>Geri-Borbas/Unity.Library.eppz.Geometry</b></a></td>
-<td align="right"><b>335</b></td>
-<td align="right">59</td>
-<td>C#</td>
+<td><img src="https://github.com/icebob.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/icebob/fastest-validator"><b>icebob/fastest-validator</b></a><br><sub>:zap: The fastest JS validator library for NodeJS</sub></td>
+<td align="right"><b>1,461</b></td>
+<td align="right">99</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">36</td>
-<td><img src="https://github.com/daroczig.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/daroczig/logger"><b>daroczig/logger</b></a></td>
-<td align="right"><b>323</b></td>
-<td align="right">46</td>
-<td>HTML</td>
+<td><img src="https://github.com/Zhuinden.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Zhuinden/simple-stack"><b>Zhuinden/simple-stack</b></a><br><sub>&#91;ACTIVE&#93; Simple Stack, a backstack library / navigation framework for simpler navigation and state management (for frag…</sub></td>
+<td align="right"><b>1,376</b></td>
+<td align="right">76</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">37</td>
-<td><img src="https://github.com/stribika.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stribika/stribika.github.io"><b>stribika/stribika.github.io</b></a></td>
-<td align="right"><b>307</b></td>
-<td align="right">33</td>
-<td>SCSS</td>
-</tr>
-<tr>
-<td align="right">38</td>
-<td><img src="https://github.com/icza.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/icza/gowut"><b>icza/gowut</b></a></td>
-<td align="right"><b>303</b></td>
-<td align="right">34</td>
-<td>Go</td>
-</tr>
-<tr>
-<td align="right">39</td>
-<td><img src="https://github.com/jabbalaci.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jabbalaci/PythonEXE"><b>jabbalaci/PythonEXE</b></a></td>
-<td align="right"><b>280</b></td>
-<td align="right">30</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">40</td>
-<td><img src="https://github.com/0l1v3rr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0l1v3rr/github-readme-tech-stack"><b>0l1v3rr/github-readme-tech-stack</b></a></td>
-<td align="right"><b>260</b></td>
-<td align="right">46</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">41</td>
-<td><img src="https://github.com/tib.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tib/practical-server-side-swift"><b>tib/practical-server-side-swift</b></a></td>
-<td align="right"><b>256</b></td>
-<td align="right">37</td>
-<td>Swift</td>
-</tr>
-<tr>
-<td align="right">42</td>
-<td><img src="https://github.com/HomeKidd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HomeKidd/Homekit-WS2812B-controller"><b>HomeKidd/Homekit-WS2812B-controller</b></a></td>
-<td align="right"><b>252</b></td>
-<td align="right">36</td>
+<td><img src="https://github.com/szenergy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/szenergy/awesome-lidar"><b>szenergy/awesome-lidar</b></a><br><sub>😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud…</sub></td>
+<td align="right"><b>1,375</b></td>
+<td align="right">138</td>
 <td>—</td>
 </tr>
 <tr>
+<td align="right">38</td>
+<td><img src="https://github.com/csutorasa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/csutorasa/XOutput"><b>csutorasa/XOutput</b></a> <sub>archived</sub><br><sub>DirectInput to XInput wrapper</sub></td>
+<td align="right"><b>1,345</b></td>
+<td align="right">117</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">39</td>
+<td><img src="https://github.com/Zhuinden.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Zhuinden/guide-to-kotlin"><b>Zhuinden/guide-to-kotlin</b></a><br><sub>&#91;GUIDE&#93; This tutorial assumes all you know is Java, but you want to learn Kotlin.</sub></td>
+<td align="right"><b>1,321</b></td>
+<td align="right">96</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">40</td>
+<td><img src="https://github.com/NagyD.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NagyD/SDLPoP"><b>NagyD/SDLPoP</b></a><br><sub>An open-source port of Prince of Persia, based on the disassembly of the DOS version.</sub></td>
+<td align="right"><b>1,318</b></td>
+<td align="right">180</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">41</td>
+<td><img src="https://github.com/milgra.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/milgra/macmediakeyforwarder"><b>milgra/macmediakeyforwarder</b></a><br><sub>Media Key Forwarder for iTunes and Spotify</sub></td>
+<td align="right"><b>1,283</b></td>
+<td align="right">107</td>
+<td>Objective-C</td>
+</tr>
+<tr>
+<td align="right">42</td>
+<td><img src="https://github.com/gimlet-io.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gimlet-io/capacitor"><b>gimlet-io/capacitor</b></a><br><sub>A general purpose UI for FluxCD.</sub></td>
+<td align="right"><b>1,201</b></td>
+<td align="right">47</td>
+<td>TypeScript</td>
+</tr>
+<tr>
 <td align="right">43</td>
-<td><img src="https://github.com/gabors-data-analysis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gabors-data-analysis/da_case_studies"><b>gabors-data-analysis/da&#95;case&#95;studies</b></a></td>
-<td align="right"><b>250</b></td>
-<td align="right">212</td>
-<td>Jupyter Notebook</td>
+<td><img src="https://github.com/sequenceiq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sequenceiq/hadoop-docker"><b>sequenceiq/hadoop-docker</b></a> <sub>archived</sub><br><sub>Hadoop docker image</sub></td>
+<td align="right"><b>1,196</b></td>
+<td align="right">543</td>
+<td>Dockerfile</td>
 </tr>
 <tr>
 <td align="right">44</td>
@@ -452,8 +452,8 @@
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 9 stars; 60 attributed candidates are tracked.
-- 26 entries were carried over from the previous dataset and are pending revalidation.
-- 136 multi-repository owners are queued for expansion.
+- 17 entries were carried over from the previous dataset and are pending revalidation.
+- 133 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 153 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

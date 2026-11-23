@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **74** | 03 Nov 2026 | <a href="../data/RO.json">JSON</a> |
+| 🟠 Stale | **87** | 03 Nov 2026 | <a href="../data/RO.json">JSON</a> |
 
-> **Not yet re-verified.** 24 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 21 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -375,167 +375,258 @@
 </tr>
 <tr>
 <td align="right">51</td>
-<td><img src="https://github.com/bpoplauschi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bpoplauschi/BPForms"><b>bpoplauschi/BPForms</b></a></td>
-<td align="right"><b>386</b></td>
-<td align="right">52</td>
-<td>Objective-C</td>
+<td><img src="https://github.com/zalog.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zalog/placeholder-loading"><b>zalog/placeholder-loading</b></a><br><sub>Simple and flexible, css only, content placeholder loading animation. https://zalog.github.io/placeholder-loading/</sub></td>
+<td align="right"><b>1,480</b></td>
+<td align="right">145</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td align="right">52</td>
-<td><img src="https://github.com/cleanunicorn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cleanunicorn/theo"><b>cleanunicorn/theo</b></a></td>
-<td align="right"><b>349</b></td>
-<td align="right">93</td>
-<td>Python</td>
+<td><img src="https://github.com/uxfront-com.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/uxfront-com/inkline"><b>uxfront-com/inkline</b></a><br><sub>Inkline is the intuitive UI Components library that gives you a developer-friendly foundation for building high-quality…</sub></td>
+<td align="right"><b>1,467</b></td>
+<td align="right">77</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">53</td>
-<td><img src="https://github.com/tzyganu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tzyganu/UMC1.9"><b>tzyganu/UMC1.9</b></a></td>
-<td align="right"><b>239</b></td>
-<td align="right">85</td>
-<td>PHP</td>
+<td><img src="https://github.com/ionelmc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ionelmc/pytest-benchmark"><b>ionelmc/pytest-benchmark</b></a><br><sub>pytest fixture for benchmarking code</sub></td>
+<td align="right"><b>1,460</b></td>
+<td align="right">141</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">54</td>
+<td><img src="https://github.com/NytroRST.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NytroRST/NetRipper"><b>NytroRST/NetRipper</b></a><br><sub>NetRipper - Smart traffic sniffing for penetration testers</sub></td>
+<td align="right"><b>1,384</b></td>
+<td align="right">304</td>
+<td>PowerShell</td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/AnghelLeonard.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AnghelLeonard/Hibernate-SpringBoot"><b>AnghelLeonard/Hibernate-SpringBoot</b></a><br><sub>Collection of 300+ best practices for Java persistence performance in Spring Boot applications</sub></td>
+<td align="right"><b>1,372</b></td>
+<td align="right">530</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><img src="https://github.com/imgbot.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/imgbot/Imgbot"><b>imgbot/Imgbot</b></a><br><sub>An Azure Function solution to crawl through all of your image files in GitHub and losslessly compress them. This will m…</sub></td>
+<td align="right"><b>1,359</b></td>
+<td align="right">290</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><img src="https://github.com/tiberiuzuld.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tiberiuzuld/angular-gridster2"><b>tiberiuzuld/angular-gridster2</b></a><br><sub>Angular gridster 2</sub></td>
+<td align="right"><b>1,347</b></td>
+<td align="right">386</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><img src="https://github.com/Bloggify.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Bloggify/github-calendar"><b>Bloggify/github-calendar</b></a><br><sub>:bar&#95;chart: Embed your GitHub calendar everywhere.</sub></td>
+<td align="right"><b>1,311</b></td>
+<td align="right">215</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><img src="https://github.com/ionelmc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ionelmc/cookiecutter-pylibrary"><b>ionelmc/cookiecutter-pylibrary</b></a><br><sub>Enhanced cookiecutter template for Python libraries.</sub></td>
+<td align="right"><b>1,299</b></td>
+<td align="right">207</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><img src="https://github.com/icflorescu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/icflorescu/mantine-datatable"><b>icflorescu/mantine-datatable</b></a><br><sub>The table component for your Mantine data-rich applications, supporting asynchronous data loading, column sorting, cust…</sub></td>
+<td align="right"><b>1,261</b></td>
+<td align="right">106</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><img src="https://github.com/danburzo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/danburzo/culori"><b>danburzo/culori</b></a><br><sub>A comprehensive color library for JavaScript.</sub></td>
+<td align="right"><b>1,258</b></td>
+<td align="right">44</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><img src="https://github.com/mustvlad.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mustvlad/ChatGPT-System-Prompts"><b>mustvlad/ChatGPT-System-Prompts</b></a><br><sub>This repository contains a collection of the best system prompts for ChatGPT, a conversational AI model developed by Op…</sub></td>
+<td align="right"><b>1,237</b></td>
+<td align="right">143</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/Codeinwp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Codeinwp/Nivo-Slider-jQuery"><b>Codeinwp/Nivo-Slider-jQuery</b></a> <sub>archived</sub><br><sub>Nivo Slider - The Most Awesome jQuery Image Slider</sub></td>
+<td align="right"><b>1,231</b></td>
+<td align="right">582</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><img src="https://github.com/vladmihalcea.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vladmihalcea/flexy-pool"><b>vladmihalcea/flexy-pool</b></a><br><sub>FlexyPool adds metrics and failover strategies to a given Connection Pool, allowing it to resize on demand.</sub></td>
+<td align="right"><b>1,181</b></td>
+<td align="right">128</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><img src="https://github.com/AndyTheFactory.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AndyTheFactory/newspaper4k"><b>AndyTheFactory/newspaper4k</b></a><br><sub>📰 Newspaper4k a fork of the beloved Newspaper3k. Extraction of articles, titles, and metadata from news websites.</sub></td>
+<td align="right"><b>1,170</b></td>
+<td align="right">121</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><img src="https://github.com/NytroRST.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NytroRST/ShellcodeCompiler"><b>NytroRST/ShellcodeCompiler</b></a><br><sub>Shellcode Compiler</sub></td>
+<td align="right"><b>1,159</b></td>
+<td align="right">279</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">67</td>
 <td><img src="https://github.com/catalinpit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/catalinpit/JS-Tips-And-Tricks"><b>catalinpit/JS-Tips-And-Tricks</b></a></td>
 <td align="right"><b>183</b></td>
 <td align="right">18</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">55</td>
+<td align="right">68</td>
 <td><img src="https://github.com/aromanro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aromanro/RayTracer"><b>aromanro/RayTracer</b></a></td>
 <td align="right"><b>139</b></td>
 <td align="right">18</td>
 <td>C++</td>
 </tr>
 <tr>
-<td align="right">56</td>
+<td align="right">69</td>
 <td><img src="https://github.com/Whapi-Cloud.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Whapi-Cloud/python-whatsapp-chatbot"><b>Whapi-Cloud/python-whatsapp-chatbot</b></a></td>
 <td align="right"><b>79</b></td>
 <td align="right">22</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">57</td>
+<td align="right">70</td>
 <td><img src="https://github.com/TibixDev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TibixDev/sai2-guide"><b>TibixDev/sai2-guide</b></a></td>
 <td align="right"><b>78</b></td>
 <td align="right">3</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">58</td>
+<td align="right">71</td>
 <td><img src="https://github.com/MAJigsaw77.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MAJigsaw77/hxvlc"><b>MAJigsaw77/hxvlc</b></a></td>
 <td align="right"><b>73</b></td>
 <td align="right">28</td>
 <td>C</td>
 </tr>
 <tr>
-<td align="right">59</td>
+<td align="right">72</td>
 <td><img src="https://github.com/cojocaru-david.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cojocaru-david/cojocarudavid.me"><b>cojocaru-david/cojocarudavid.me</b></a></td>
 <td align="right"><b>73</b></td>
 <td align="right">19</td>
 <td>Astro</td>
 </tr>
 <tr>
-<td align="right">60</td>
+<td align="right">73</td>
 <td><img src="https://github.com/victorrentea.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/victorrentea/intellij-tips"><b>victorrentea/intellij-tips</b></a></td>
 <td align="right"><b>62</b></td>
 <td align="right">19</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">61</td>
+<td align="right">74</td>
 <td><img src="https://github.com/Gagniuc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Gagniuc/Malware-Scanner"><b>Gagniuc/Malware-Scanner</b></a></td>
 <td align="right"><b>53</b></td>
 <td align="right">0</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">62</td>
+<td align="right">75</td>
 <td><img src="https://github.com/code4romania.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/code4romania/covid-19-date-la-zi"><b>code4romania/covid-19-date-la-zi</b></a></td>
 <td align="right"><b>40</b></td>
 <td align="right">25</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">63</td>
+<td align="right">76</td>
 <td><img src="https://github.com/eddyb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eddyb/sobek"><b>eddyb/sobek</b></a></td>
 <td align="right"><b>36</b></td>
 <td align="right">2</td>
 <td>Rust</td>
 </tr>
 <tr>
-<td align="right">64</td>
+<td align="right">77</td>
 <td><img src="https://github.com/Silviu-Marian.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Silviu-Marian/reedux"><b>Silviu-Marian/reedux</b></a></td>
 <td align="right"><b>33</b></td>
 <td align="right">1</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">65</td>
+<td align="right">78</td>
 <td><img src="https://github.com/0-vortex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0-vortex/cf-workers-url-shortener"><b>0-vortex/cf-workers-url-shortener</b></a></td>
 <td align="right"><b>29</b></td>
 <td align="right">11</td>
 <td>Handlebars</td>
 </tr>
 <tr>
-<td align="right">66</td>
+<td align="right">79</td>
 <td><img src="https://github.com/vladfrangu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vladfrangu/SimplyStats"><b>vladfrangu/SimplyStats</b></a></td>
 <td align="right"><b>28</b></td>
 <td align="right">2</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">67</td>
+<td align="right">80</td>
 <td><img src="https://github.com/0xcryptosei.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0xcryptosei/robinhood-pons-sniping-bot"><b>0xcryptosei/robinhood-pons-sniping-bot</b></a></td>
 <td align="right"><b>22</b></td>
 <td align="right">3</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">68</td>
+<td align="right">81</td>
 <td><img src="https://github.com/Alexejhero.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Alexejhero/Neurosama-Subnautica-Mod"><b>Alexejhero/Neurosama-Subnautica-Mod</b></a> <sub>archived</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">9</td>
 <td>C#</td>
 </tr>
 <tr>
-<td align="right">69</td>
+<td align="right">82</td>
 <td><img src="https://github.com/TOPDEV99999.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TOPDEV99999/AI-codepilot"><b>TOPDEV99999/AI-codepilot</b></a></td>
 <td align="right"><b>19</b></td>
 <td align="right">2</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">70</td>
+<td align="right">83</td>
 <td><img src="https://github.com/ltorje.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ltorje/XamarinWrapper"><b>ltorje/XamarinWrapper</b></a></td>
 <td align="right"><b>18</b></td>
 <td align="right">0</td>
 <td>Objective-C</td>
 </tr>
 <tr>
-<td align="right">71</td>
+<td align="right">84</td>
 <td><img src="https://github.com/razvand.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/razvand/snippets"><b>razvand/snippets</b></a></td>
 <td align="right"><b>17</b></td>
 <td align="right">3</td>
 <td>C</td>
 </tr>
 <tr>
-<td align="right">72</td>
+<td align="right">85</td>
 <td><img src="https://github.com/alexlobaza.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexlobaza/TikTokStreamingToolkit"><b>alexlobaza/TikTokStreamingToolkit</b></a></td>
 <td align="right"><b>13</b></td>
 <td align="right">2</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">73</td>
+<td align="right">86</td>
 <td><img src="https://github.com/besciualex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/besciualex/FacebookPixelConversionApi"><b>besciualex/FacebookPixelConversionApi</b></a></td>
 <td align="right"><b>12</b></td>
 <td align="right">3</td>
 <td>PHP</td>
 </tr>
 <tr>
-<td align="right">74</td>
+<td align="right">87</td>
 <td><img src="https://github.com/lazarnarcis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lazarnarcis/chat"><b>lazarnarcis/chat</b></a></td>
 <td align="right"><b>11</b></td>
 <td align="right">1</td>
@@ -549,9 +640,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 11 stars; 74 attributed candidates are tracked.
-- 24 entries were carried over from the previous dataset and are pending revalidation.
-- 129 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 11 stars; 87 attributed candidates are tracked.
+- 21 entries were carried over from the previous dataset and are pending revalidation.
+- 124 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

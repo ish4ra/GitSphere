@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/PA.json">JSON</a> |
+| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/developers/PA.json">JSON</a> |
 
 </div>
 
@@ -23,27 +23,34 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/alebeta06"><img src="https://avatars.githubusercontent.com/u/94909757?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alebeta06"><b>Alejandro Betancourt</b></a><br><sub>&#64;alebeta06</sub></td>
+<td align="right"><b>355</b></td>
+<td align="right">64</td>
+<td><sub>Panamá</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/21Ginko"><img src="https://avatars.githubusercontent.com/u/25889910?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/21Ginko"><b>Joseph González</b></a><br><sub>&#64;21Ginko</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">7</td>
 <td><sub>Chiriqui, Panama</sub></td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">3</td>
 <td><a href="https://github.com/061017liz"><img src="https://avatars.githubusercontent.com/u/203359799?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/061017liz"><b>LIZETH ESPINO</b></a><br><sub>&#64;061017liz</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/152as"><img src="https://avatars.githubusercontent.com/u/131210767?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/152as"><b>Simon Becerra</b></a><br><sub>&#64;152as</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Panama oeste La chorrera</sub></td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/0xCryp7icX"><img src="https://avatars.githubusercontent.com/u/44118188?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xCryp7icX"><b>0xCryp7icX</b></a><br><sub>&#64;0xCryp7icX</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
@@ -57,7 +64,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 5 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

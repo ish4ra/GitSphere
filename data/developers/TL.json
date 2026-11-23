@@ -5,15 +5,16 @@
 "country": {"code":"TL","name":"Timor-Leste","slug":"timor-leste"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":5,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"U_kgDODj_mCQ","login":"Celio-err","name":"Celio Sousa Silva","url":"https://github.com/Celio-err","avatarUrl":"https://avatars.githubusercontent.com/u/239068681?s=80&v=4","followers":3,"publicRepos":10,"location":"Dili, East Timor","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"U_kgDOBkpNvg","login":"Delvio12345","name":"Delvio Soares De Sales, S.kom","url":"https://github.com/Delvio12345","avatarUrl":"https://avatars.githubusercontent.com/u/105532862?s=80&v=4","followers":0,"publicRepos":4,"location":"Dili/Becora","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-23"},
   {"rank":3,"id":"U_kgDOBYaeDQ","login":"ajesantos","name":"Aje Santos","url":"https://github.com/ajesantos","avatarUrl":"https://avatars.githubusercontent.com/u/92708365?s=80&v=4","followers":0,"publicRepos":1,"location":"Aileu, Aitoin-Mantane","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
-  {"rank":4,"id":"U_kgDOCiovGA","login":"jaimitoxavierguterresdasilva","name":"Jaimito Xavier Guterres da Silva","url":"https://github.com/jaimitoxavierguterresdasilva","avatarUrl":"https://avatars.githubusercontent.com/u/170536728?s=80&v=4","followers":0,"publicRepos":1,"location":"Dili, East Timor","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"}
+  {"rank":4,"id":"U_kgDOCiovGA","login":"jaimitoxavierguterresdasilva","name":"Jaimito Xavier Guterres da Silva","url":"https://github.com/jaimitoxavierguterresdasilva","avatarUrl":"https://avatars.githubusercontent.com/u/170536728?s=80&v=4","followers":0,"publicRepos":1,"location":"Dili, East Timor","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":5,"id":"MDQ6VXNlcjQ4OTg4MjA3","login":"JoelGomesTavares","name":"Joel Gomes","url":"https://github.com/JoelGomesTavares","avatarUrl":"https://avatars.githubusercontent.com/u/48988207?s=80&v=4","followers":0,"publicRepos":1,"location":"Dili, East Timor","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "cdec428d3d97877c",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "083e220844eb5e95",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

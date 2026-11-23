@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/contributors/DM.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/DM.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,15 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/jaheemprevost"><img src="https://avatars.githubusercontent.com/u/90372798?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jaheemprevost"><b>Jaheem Prevost</b></a><br><sub>&#64;jaheemprevost · 3 followers</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/josuejs23"><img src="https://avatars.githubusercontent.com/u/86853211?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/josuejs23"><b>josuejs23</b></a><br><sub>&#64;josuejs23 · 20 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -57,7 +66,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 5 of 91 discovered developers (86 awaiting measurement).
+- **Measured:** 7 of 91 discovered developers (84 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 2 of 18 in round 1.

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/ME.json">JSON</a> |
+| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/developers/ME.json">JSON</a> |
 
 </div>
 
@@ -49,6 +49,13 @@
 <td align="right">48</td>
 <td><sub>Tivat, Montenegro</sub></td>
 </tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/1000001rtem"><img src="https://avatars.githubusercontent.com/u/36985510?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/1000001rtem"><b>Artem Eremin</b></a><br><sub>&#64;1000001rtem</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">26</td>
+<td><sub>Montenegro</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -57,8 +64,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 364 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 5 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 0 of 44 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

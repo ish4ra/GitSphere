@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **100** | 02 Nov 2026 | <a href="../data/PT.json">JSON</a> |
-
-> **Not yet re-verified.** 10 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/PT.json">JSON</a> |
 
 </div>
 
@@ -655,73 +653,73 @@
 </tr>
 <tr>
 <td align="right">91</td>
-<td><img src="https://github.com/pgte.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pgte/fugue"><b>pgte/fugue</b></a></td>
-<td align="right"><b>391</b></td>
-<td align="right">11</td>
+<td><img src="https://github.com/ruimarinho.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ruimarinho/google-libphonenumber"><b>ruimarinho/google-libphonenumber</b></a><br><sub>The up-to-date and reliable Google&#39;s libphonenumber package for node.js.</sub></td>
+<td align="right"><b>1,490</b></td>
+<td align="right">153</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">92</td>
-<td><img src="https://github.com/sgolemon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sgolemon/table-flip"><b>sgolemon/table-flip</b></a></td>
-<td align="right"><b>340</b></td>
-<td align="right">8</td>
-<td>PHP</td>
+<td><img src="https://github.com/0x00-0x00.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0x00-0x00/ShellPop"><b>0x00-0x00/ShellPop</b></a><br><sub>Pop shells like a master.</sub></td>
+<td align="right"><b>1,486</b></td>
+<td align="right">231</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">93</td>
-<td><img src="https://github.com/cusspvz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cusspvz/node.docker"><b>cusspvz/node.docker</b></a></td>
-<td align="right"><b>335</b></td>
-<td align="right">28</td>
-<td>Makefile</td>
+<td><img src="https://github.com/vasturiano.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vasturiano/react-globe.gl"><b>vasturiano/react-globe.gl</b></a><br><sub>React component for Globe Data Visualization using ThreeJS/WebGL</sub></td>
+<td align="right"><b>1,468</b></td>
+<td align="right">194</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td align="right">94</td>
-<td><img src="https://github.com/snipe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/snipe/banbuilder"><b>snipe/banbuilder</b></a></td>
-<td align="right"><b>329</b></td>
-<td align="right">98</td>
-<td>PHP</td>
+<td><img src="https://github.com/marmottajr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/marmottajr/habblaud"><b>marmottajr/habblaud</b></a></td>
+<td align="right"><b>1,461</b></td>
+<td align="right">356</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">95</td>
-<td><img src="https://github.com/renancaraujo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/renancaraujo/watchsteroids"><b>renancaraujo/watchsteroids</b></a></td>
-<td align="right"><b>281</b></td>
-<td align="right">20</td>
-<td>Dart</td>
+<td><img src="https://github.com/joaotavora.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/joaotavora/sly"><b>joaotavora/sly</b></a><br><sub>Sylvester the Cat&#39;s Common Lisp IDE</sub></td>
+<td align="right"><b>1,447</b></td>
+<td align="right">159</td>
+<td>Common Lisp</td>
 </tr>
 <tr>
 <td align="right">96</td>
-<td><img src="https://github.com/fidalgodev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fidalgodev/movie-library-react"><b>fidalgodev/movie-library-react</b></a></td>
-<td align="right"><b>279</b></td>
-<td align="right">112</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/m1guelpf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/m1guelpf/yt-whisper"><b>m1guelpf/yt-whisper</b></a><br><sub>Using OpenAI&#39;s Whisper to automatically generate YouTube subtitles</sub></td>
+<td align="right"><b>1,441</b></td>
+<td align="right">144</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">97</td>
-<td><img src="https://github.com/Vazkii.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Vazkii/CMPDL"><b>Vazkii/CMPDL</b></a> <sub>archived</sub></td>
-<td align="right"><b>219</b></td>
-<td align="right">56</td>
+<td><img src="https://github.com/voxivoid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/voxivoid/recipe-lab-sony-pmca"><b>voxivoid/recipe-lab-sony-pmca</b></a></td>
+<td align="right"><b>1,421</b></td>
+<td align="right">82</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">98</td>
-<td><img src="https://github.com/macabeus.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/macabeus/js-proposal-algebraic-effects"><b>macabeus/js-proposal-algebraic-effects</b></a></td>
-<td align="right"><b>182</b></td>
-<td align="right">3</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/lavary.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lavary/crunz"><b>lavary/crunz</b></a><br><sub>A PHP-based job scheduler</sub></td>
+<td align="right"><b>1,412</b></td>
+<td align="right">135</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">99</td>
-<td><img src="https://github.com/gabrieldejesus.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gabrieldejesus/git-commands"><b>gabrieldejesus/git-commands</b></a></td>
-<td align="right"><b>169</b></td>
-<td align="right">16</td>
-<td>—</td>
+<td><img src="https://github.com/imaginary-cloud.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/imaginary-cloud/CameraManager"><b>imaginary-cloud/CameraManager</b></a><br><sub>Simple Swift class to provide all the configurations you need to create custom camera view in your app</sub></td>
+<td align="right"><b>1,391</b></td>
+<td align="right">319</td>
+<td>Swift</td>
 </tr>
 <tr>
 <td align="right">100</td>
-<td><img src="https://github.com/guithepc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/guithepc/mentor-prompt"><b>guithepc/mentor-prompt</b></a></td>
-<td align="right"><b>147</b></td>
-<td align="right">1</td>
-<td>—</td>
+<td><img src="https://github.com/0xacb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0xacb/recollapse"><b>0xacb/recollapse</b></a><br><sub>REcollapse is a helper tool for black-box regex fuzzing to bypass validations and discover normalizations in web applic…</sub></td>
+<td align="right"><b>1,387</b></td>
+<td align="right">151</td>
+<td>Python</td>
 </tr>
 </tbody>
 </table>
@@ -729,10 +727,9 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 147 stars; 107 attributed candidates are tracked.
-- 10 entries were carried over from the previous dataset and are pending revalidation.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 1,387 stars; 128 attributed candidates are tracked.
 - 126 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

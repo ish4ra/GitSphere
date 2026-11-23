@@ -5,7 +5,7 @@
 "country": {"code":"KR","name":"South Korea","slug":"south-korea"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":3011,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":136,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":3011,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":136,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":152,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOQheEEQ","name":"oh-my-openagent","nameWithOwner":"code-yeongyu/oh-my-openagent","url":"https://github.com/code-yeongyu/oh-my-openagent","description":"OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.","stars":71052,"forks":5834,"primaryLanguage":"TypeScript","license":{"spdxId":"NOASSERTION"},"createdAt":"2025-12-03T01:40:05Z","pushedAt":"2026-11-22T10:32:54Z","archived":false,"owner":{"login":"code-yeongyu","name":"YeonGyu-Kim","type":"User","url":"https://github.com/code-yeongyu","location":"Seoul","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkyMzc3OTEwNzc=","name":"diagrams","nameWithOwner":"mingrammer/diagrams","url":"https://github.com/mingrammer/diagrams","description":":art: Diagram as Code for prototyping cloud system architectures","stars":42827,"forks":2729,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2020-02-02T15:23:24Z","pushedAt":"2026-11-02T11:15:24Z","archived":false,"owner":{"login":"mingrammer","name":"MinJae Kwon","type":"User","url":"https://github.com/mingrammer","location":"South Korea","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"R_kgDOJGCMhQ","name":"GPTQ-for-LLaMa","nameWithOwner":"qwopqwop200/GPTQ-for-LLaMa","url":"https://github.com/qwopqwop200/GPTQ-for-LLaMa","description":"4 bits quantization of LLaMA using GPTQ","stars":3069,"forks":446,"primaryLanguage":"Python","license":{"spdxId":"Apache-2.0"},"createdAt":"2023-03-06T14:09:39Z","pushedAt":"2024-07-13T04:45:28Z","archived":false,"owner":{"login":"qwopqwop200","name":null,"type":"User","url":"https://github.com/qwopqwop200","location":"Seoul, South Korea","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
   {"rank":100,"id":"MDEwOlJlcG9zaXRvcnkxMDU5NzkxNjI=","name":"nlp_tasks","nameWithOwner":"Kyubyong/nlp_tasks","url":"https://github.com/Kyubyong/nlp_tasks","description":"Natural Language Processing Tasks and References","stars":3011,"forks":533,"primaryLanguage":null,"license":{"spdxId":"Apache-2.0"},"createdAt":"2017-10-06T07:40:53Z","pushedAt":"2018-09-20T03:10:58Z","archived":false,"owner":{"login":"Kyubyong","name":"Kyubyong Park","type":"User","url":"https://github.com/Kyubyong","location":"Seoul, Korea","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "dce0eb9774ea05a8",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "5e8ca72806812c9a",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

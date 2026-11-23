@@ -19,7 +19,7 @@
   {"rank":10,"id":"MDQ6VXNlcjM5NDQyMzk0","login":"AleksanderAleksander","name":null,"url":"https://github.com/AleksanderAleksander","avatarUrl":"https://avatars.githubusercontent.com/u/39442394?s=80&v=4","followers":1,"publicRepos":2,"location":"Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":11,"id":"U_kgDOD87MFw","login":"etanijela-web","name":"Nijela","url":"https://github.com/etanijela-web","avatarUrl":"https://avatars.githubusercontent.com/u/265210903?s=80&v=4","followers":1,"publicRepos":2,"location":"Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":12,"id":"U_kgDOCyHR8A","login":"yjulio","name":"Julio Yaruel","url":"https://github.com/yjulio","avatarUrl":"https://avatars.githubusercontent.com/u/186765808?s=80&v=4","followers":0,"publicRepos":19,"location":"Port-Vila Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":13,"id":"MDQ6VXNlcjM4MTQ1NTYy","login":"gtauanearu","name":null,"url":"https://github.com/gtauanearu","avatarUrl":"https://avatars.githubusercontent.com/u/38145562?s=80&v=4","followers":0,"publicRepos":14,"location":"Port Vila Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":13,"id":"MDQ6VXNlcjM4MTQ1NTYy","login":"gtauanearu","name":null,"url":"https://github.com/gtauanearu","avatarUrl":"https://avatars.githubusercontent.com/u/38145562?s=80&v=4","followers":0,"publicRepos":14,"location":"Port Vila Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":14,"id":"MDQ6VXNlcjE5ODk1MjY2","login":"Kalztar","name":"Griffith Kalpokas","url":"https://github.com/Kalztar","avatarUrl":"https://avatars.githubusercontent.com/u/19895266?s=80&v=4","followers":0,"publicRepos":8,"location":"Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":15,"id":"U_kgDOCtN1HQ","login":"jdynsmalldoll","name":null,"url":"https://github.com/jdynsmalldoll","avatarUrl":"https://avatars.githubusercontent.com/u/181630237?s=80&v=4","followers":0,"publicRepos":7,"location":"Vanuatu (VU)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":16,"id":"MDQ6VXNlcjM3NTAzNTE=","login":"SolaFide","name":"Michael Smith","url":"https://github.com/SolaFide","avatarUrl":"https://avatars.githubusercontent.com/u/3750351?s=80&v=4","followers":0,"publicRepos":6,"location":"Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
@@ -54,8 +54,8 @@
   {"rank":45,"id":"U_kgDOCTi1Qg","login":"tortorcarnifexcause","name":"tortorcarnifexcause","url":"https://github.com/tortorcarnifexcause","avatarUrl":"https://avatars.githubusercontent.com/u/154711362?s=80&v=4","followers":0,"publicRepos":1,"location":"Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":46,"id":"MDQ6VXNlcjI3NzA5NDAy","login":"Yair-Tendler","name":"Yair Tendler","url":"https://github.com/Yair-Tendler","avatarUrl":"https://avatars.githubusercontent.com/u/27709402?s=80&v=4","followers":0,"publicRepos":1,"location":"Vanuatu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "d5f67812e8bf0fc8",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "2c1b7524e2bc49ae",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

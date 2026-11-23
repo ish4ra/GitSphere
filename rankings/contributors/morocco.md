@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/contributors/MA.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/MA.json">JSON</a> |
 
 </div>
 
@@ -34,6 +34,15 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/Zizwar"><img src="https://avatars.githubusercontent.com/u/1431864?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Zizwar"><b>Ibrahim BIDI</b></a><br><sub>&#64;Zizwar · 556 followers</sub></td>
+<td align="right"><b>386</b></td>
+<td align="right">325</td>
+<td align="right">32</td>
+<td align="right">7</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/ali-eljerrari"><img src="https://avatars.githubusercontent.com/u/33126685?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ali-eljerrari"><b>Ali&#95;Eljerrari</b></a><br><sub>&#64;ali-eljerrari · 582 followers</sub></td>
 <td align="right"><b>205</b></td>
 <td align="right">22</td>
@@ -42,7 +51,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/yjose"><img src="https://avatars.githubusercontent.com/u/11137944?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yjose"><b>Youssouf EL AZIZI</b></a><br><sub>&#64;yjose · 1,135 followers</sub></td>
 <td align="right"><b>144</b></td>
 <td align="right">123</td>
@@ -57,10 +66,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 4 of 409 discovered developers (405 awaiting measurement).
+- **Measured:** 5 of 419 discovered developers (414 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 173 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

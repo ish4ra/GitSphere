@@ -5,12 +5,14 @@
 "country": {"code":"LR","name":"Liberia","slug":"liberia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":4,"measurementBacklog":396,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":515,"measuredAccounts":6,"measurementBacklog":509,"window":{"from":"2025-11-23T13:00:00Z","to":"2026-11-23T13:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":42,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"U_kgDOB8dtag","login":"123chri","name":"Christine Sweede","url":"https://github.com/123chri","avatarUrl":"https://avatars.githubusercontent.com/u/130510186?s=80&v=4","followers":0,"publicRepos":2,"location":"Airfield, Monrovia, Liberia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":21,"commits":19,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
+  {"rank":1,"id":"MDQ6VXNlcjIwNTE0OTIw","login":"RA9","name":"Carlos S. Nah","url":"https://github.com/RA9","avatarUrl":"https://avatars.githubusercontent.com/u/20514920?s=80&v=4","followers":99,"publicRepos":138,"location":"Liberia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":420,"commits":370,"pullRequests":10,"reviews":3,"issues":34,"repositories":3,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":2,"id":"MDQ6VXNlcjIwMzU3NTA1","login":"1989shack","name":"Martin M Sheriff","url":"https://github.com/1989shack","avatarUrl":"https://avatars.githubusercontent.com/u/20357505?s=80&v=4","followers":157,"publicRepos":856,"location":"Monrovia, Liberia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":191,"commits":57,"pullRequests":34,"reviews":0,"issues":3,"repositories":97,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":3,"id":"U_kgDOB8dtag","login":"123chri","name":"Christine Sweede","url":"https://github.com/123chri","avatarUrl":"https://avatars.githubusercontent.com/u/130510186?s=80&v=4","followers":0,"publicRepos":2,"location":"Airfield, Monrovia, Liberia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":21,"commits":19,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "3926830ab15950c1",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "0bf7396a9e48d148",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

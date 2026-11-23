@@ -5,13 +5,15 @@
 "country": {"code":"BJ","name":"Benin","slug":"benin"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":5,"measuredAccounts":3,"measurementBacklog":2,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":86,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":7,"measuredAccounts":5,"measurementBacklog":2,"window":{"from":"2025-11-23T13:00:00Z","to":"2026-11-23T13:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":86,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjI0MzIzNTgx","login":"JideGuru","name":"Festus Olusegun","url":"https://github.com/JideGuru","avatarUrl":"https://avatars.githubusercontent.com/u/24323581?s=80&v=4","followers":2196,"publicRepos":105,"location":"Cotonou, Benin.","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-23","contributions":{"public":39,"commits":35,"pullRequests":3,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":2,"id":"U_kgDOBp9EPQ","login":"Houessou1","name":"François-Xavier ALLA HOUESSOU","url":"https://github.com/Houessou1","avatarUrl":"https://avatars.githubusercontent.com/u/111100989?s=80&v=4","followers":439,"publicRepos":11,"location":"Benin 🇧🇯","attribution":{"confidence":"high","evidence":"flag-emoji"},"verifiedOn":"2026-11-23","contributions":{"public":11,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":11,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
+  {"rank":1,"id":"MDQ6VXNlcjc2NDc5NDQ1","login":"MikeCHOKKI","name":"@Ekim's","url":"https://github.com/MikeCHOKKI","avatarUrl":"https://avatars.githubusercontent.com/u/76479445?s=80&v=4","followers":380,"publicRepos":11,"location":"Bénin","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-23","contributions":{"public":678,"commits":499,"pullRequests":119,"reviews":0,"issues":52,"repositories":8,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":2,"id":"MDQ6VXNlcjI0MzIzNTgx","login":"JideGuru","name":"Festus Olusegun","url":"https://github.com/JideGuru","avatarUrl":"https://avatars.githubusercontent.com/u/24323581?s=80&v=4","followers":2196,"publicRepos":105,"location":"Cotonou, Benin.","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-23","contributions":{"public":39,"commits":35,"pullRequests":3,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":3,"id":"MDQ6VXNlcjU0NTkwNzcx","login":"kevindegila","name":"Kevin Degila","url":"https://github.com/kevindegila","avatarUrl":"https://avatars.githubusercontent.com/u/54590771?s=80&v=4","followers":389,"publicRepos":41,"location":"Cotonou, Bénin","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-23","contributions":{"public":33,"commits":22,"pullRequests":3,"reviews":0,"issues":0,"repositories":8,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":4,"id":"U_kgDOBp9EPQ","login":"Houessou1","name":"François-Xavier ALLA HOUESSOU","url":"https://github.com/Houessou1","avatarUrl":"https://avatars.githubusercontent.com/u/111100989?s=80&v=4","followers":439,"publicRepos":11,"location":"Benin 🇧🇯","attribution":{"confidence":"high","evidence":"flag-emoji"},"verifiedOn":"2026-11-23","contributions":{"public":11,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":11,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "b9d86fac9d525153",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "d1a4ddeaf874453f",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

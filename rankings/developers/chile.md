@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **27** | 22 Nov 2026 | <a href="../../data/developers/CL.json">JSON</a> |
+| 🟡 Provisional | **33** | 22 Nov 2026 | <a href="../../data/developers/CL.json">JSON</a> |
 
 </div>
 
@@ -184,27 +184,69 @@
 </tr>
 <tr>
 <td align="right">24</td>
-<td><a href="https://github.com/michelson"><img src="https://avatars.githubusercontent.com/u/11976?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/michelson"><b>Miguel Michelson Martinez</b></a><br><sub>&#64;michelson</sub></td>
-<td align="right"><b>387</b></td>
-<td align="right">0</td>
-<td><sub>Santiago, Chile</sub></td>
+<td><a href="https://github.com/xThreeh"><img src="https://avatars.githubusercontent.com/u/16139465?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xThreeh"><b>Franco Ceballos Rastello</b></a><br><sub>&#64;xThreeh</sub></td>
+<td align="right"><b>396</b></td>
+<td align="right">9</td>
+<td><sub>Chile</sub></td>
 </tr>
 <tr>
 <td align="right">25</td>
+<td><a href="https://github.com/michelson"><img src="https://avatars.githubusercontent.com/u/11976?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/michelson"><b>Miguel Michelson Martinez</b></a><br><sub>&#64;michelson</sub></td>
+<td align="right"><b>387</b></td>
+<td align="right">138</td>
+<td><sub>Santiago, Chile</sub></td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td><a href="https://github.com/bastianolea"><img src="https://avatars.githubusercontent.com/u/3477437?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bastianolea"><b>Bastián Olea Herera</b></a><br><sub>&#64;bastianolea</sub></td>
+<td align="right"><b>380</b></td>
+<td align="right">119</td>
+<td><sub>Santiago, Chile</sub></td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td><a href="https://github.com/byron-villegas"><img src="https://avatars.githubusercontent.com/u/96267011?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/byron-villegas"><b>Byron Villegas Moya</b></a><br><sub>&#64;byron-villegas</sub></td>
+<td align="right"><b>365</b></td>
+<td align="right">37</td>
+<td><sub>Santiago, Chile</sub></td>
+</tr>
+<tr>
+<td align="right">28</td>
 <td><a href="https://github.com/nicolaslopezj"><img src="https://avatars.githubusercontent.com/u/2042567?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nicolaslopezj"><b>Nicolás López Jullian</b></a><br><sub>&#64;nicolaslopezj</sub></td>
 <td align="right"><b>285</b></td>
 <td align="right">0</td>
 <td><sub>Santiago, Chile</sub></td>
 </tr>
 <tr>
-<td align="right">26</td>
+<td align="right">29</td>
+<td><a href="https://github.com/jlobos"><img src="https://avatars.githubusercontent.com/u/11975868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jlobos"><b>Lobito</b></a><br><sub>&#64;jlobos</sub></td>
+<td align="right"><b>192</b></td>
+<td align="right">0</td>
+<td><sub>Chile</sub></td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td><a href="https://github.com/TriForceX"><img src="https://avatars.githubusercontent.com/u/16083854?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TriForceX"><b>TriForce</b></a><br><sub>&#64;TriForceX</sub></td>
+<td align="right"><b>182</b></td>
+<td align="right">0</td>
+<td><sub>Santiago, Chile</sub></td>
+</tr>
+<tr>
+<td align="right">31</td>
 <td><a href="https://github.com/ignaciocastro"><img src="https://avatars.githubusercontent.com/u/7141944?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ignaciocastro"><b>Ignacio Castro</b></a><br><sub>&#64;ignaciocastro</sub></td>
 <td align="right"><b>90</b></td>
 <td align="right">0</td>
 <td><sub>Chile</sub></td>
 </tr>
 <tr>
-<td align="right">27</td>
+<td align="right">32</td>
+<td><a href="https://github.com/adleroliveira"><img src="https://avatars.githubusercontent.com/u/713256?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adleroliveira"><b>Adler Oliveira</b></a><br><sub>&#64;adleroliveira</sub></td>
+<td align="right"><b>48</b></td>
+<td align="right">0</td>
+<td><sub>Chile</sub></td>
+</tr>
+<tr>
+<td align="right">33</td>
 <td><a href="https://github.com/Lord-Kamina"><img src="https://avatars.githubusercontent.com/u/6446892?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lord-Kamina"><b>Gregorio Litenstein</b></a><br><sub>&#64;Lord-Kamina</sub></td>
 <td align="right"><b>39</b></td>
 <td align="right">0</td>
@@ -218,7 +260,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 27 attributed developers are tracked; the cutoff is 39 followers.
+- Organizations are excluded. 33 attributed developers are tracked; the cutoff is 39 followers.
 - **Location discovery:** term 0 of 113 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

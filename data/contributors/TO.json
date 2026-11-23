@@ -5,13 +5,14 @@
 "country": {"code":"TO","name":"Tonga","slug":"tonga"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":35,"measuredAccounts":3,"measurementBacklog":32,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":35,"measuredAccounts":4,"measurementBacklog":31,"window":{"from":"2025-11-23T13:00:00Z","to":"2026-11-23T13:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"U_kgDOE-_M-A","login":"byte315","name":"Cyber","url":"https://github.com/byte315","avatarUrl":"https://avatars.githubusercontent.com/u/334482680?s=80&v=4","followers":0,"publicRepos":2,"location":"Tonga","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":7,"commits":4,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
-  {"rank":2,"id":"U_kgDOE-uTOA","login":"brobertson89","name":"Bradley Robertson","url":"https://github.com/brobertson89","avatarUrl":"https://avatars.githubusercontent.com/u/334205752?s=80&v=4","followers":1,"publicRepos":1,"location":"Birdhaven, Tonga","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":3,"commits":1,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjg1MDkzNjg=","login":"Cartus","name":"Zhijiang","url":"https://github.com/Cartus","avatarUrl":"https://avatars.githubusercontent.com/u/8509368?s=80&v=4","followers":130,"publicRepos":8,"location":"Tonga","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":129,"commits":129,"pullRequests":0,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":2,"id":"U_kgDOE-_M-A","login":"byte315","name":"Cyber","url":"https://github.com/byte315","avatarUrl":"https://avatars.githubusercontent.com/u/334482680?s=80&v=4","followers":0,"publicRepos":2,"location":"Tonga","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":7,"commits":4,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":3,"id":"U_kgDOE-uTOA","login":"brobertson89","name":"Bradley Robertson","url":"https://github.com/brobertson89","avatarUrl":"https://avatars.githubusercontent.com/u/334205752?s=80&v=4","followers":1,"publicRepos":1,"location":"Birdhaven, Tonga","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":3,"commits":1,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "d1888a29de55b565",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "3c2baaafb46d3c97",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

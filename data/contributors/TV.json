@@ -5,10 +5,10 @@
 "country": {"code":"TV","name":"Tuvalu","slug":"tuvalu"},
 "status": "building",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":18,"measuredAccounts":3,"measurementBacklog":15,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":18,"measuredAccounts":4,"measurementBacklog":14,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [],
-"contentHash": "a586537cadb071f1",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "e450f0b367c93d7d",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": null,
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

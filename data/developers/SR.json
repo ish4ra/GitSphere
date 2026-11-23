@@ -5,15 +5,16 @@
 "country": {"code":"SR","name":"Suriname","slug":"suriname"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":5,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjg2MTcwNjk0","login":"addiellucena94","name":"Addiel","url":"https://github.com/addiellucena94","avatarUrl":"https://avatars.githubusercontent.com/u/86170694?s=80&v=4","followers":2,"publicRepos":8,"location":"Suriname","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"U_kgDODQX-Zw","login":"99syukhi","name":"Jo-Melly Amatbahrowi","url":"https://github.com/99syukhi","avatarUrl":"https://avatars.githubusercontent.com/u/218496615?s=80&v=4","followers":2,"publicRepos":4,"location":"Suriname","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":3,"id":"U_kgDOEH2HSQ","login":"Adventurekid14","name":"Sushil Ramlal","url":"https://github.com/Adventurekid14","avatarUrl":"https://avatars.githubusercontent.com/u/276662089?s=80&v=4","followers":0,"publicRepos":2,"location":"Suriname","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
-  {"rank":4,"id":"U_kgDODQi-Aw","login":"AethiQs-Shiwani","name":null,"url":"https://github.com/AethiQs-Shiwani","avatarUrl":"https://avatars.githubusercontent.com/u/218676739?s=80&v=4","followers":0,"publicRepos":1,"location":"Paramaribo, Suriname","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"}
+  {"rank":1,"id":"MDQ6VXNlcjMyMzE0Mzk3","login":"Alleyanto","name":"Alleyanto Arga","url":"https://github.com/Alleyanto","avatarUrl":"https://avatars.githubusercontent.com/u/32314397?s=80&v=4","followers":14,"publicRepos":13,"location":"Suriname","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":2,"id":"MDQ6VXNlcjg2MTcwNjk0","login":"addiellucena94","name":"Addiel","url":"https://github.com/addiellucena94","avatarUrl":"https://avatars.githubusercontent.com/u/86170694?s=80&v=4","followers":2,"publicRepos":8,"location":"Suriname","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"U_kgDODQX-Zw","login":"99syukhi","name":"Jo-Melly Amatbahrowi","url":"https://github.com/99syukhi","avatarUrl":"https://avatars.githubusercontent.com/u/218496615?s=80&v=4","followers":2,"publicRepos":4,"location":"Suriname","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"U_kgDOEH2HSQ","login":"Adventurekid14","name":"Sushil Ramlal","url":"https://github.com/Adventurekid14","avatarUrl":"https://avatars.githubusercontent.com/u/276662089?s=80&v=4","followers":0,"publicRepos":2,"location":"Suriname","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":5,"id":"U_kgDODQi-Aw","login":"AethiQs-Shiwani","name":null,"url":"https://github.com/AethiQs-Shiwani","avatarUrl":"https://avatars.githubusercontent.com/u/218676739?s=80&v=4","followers":0,"publicRepos":1,"location":"Paramaribo, Suriname","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "c8038cfd855760eb",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "5b8088024896b896",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

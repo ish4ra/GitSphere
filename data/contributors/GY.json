@@ -5,14 +5,15 @@
 "country": {"code":"GY","name":"Guyana","slug":"guyana"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":250,"measuredAccounts":4,"measurementBacklog":246,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":36,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":251,"measuredAccounts":6,"measurementBacklog":245,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":36,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjY2MTAwNjUy","login":"ktappdev","name":"Ken Andrew Taylor","url":"https://github.com/ktappdev","avatarUrl":"https://avatars.githubusercontent.com/u/66100652?s=80&v=4","followers":6,"publicRepos":136,"location":"Guyana","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":1540,"commits":1451,"pullRequests":14,"reviews":0,"issues":17,"repositories":57,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":2,"id":"MDQ6VXNlcjk1MzI1ODc=","login":"blackMastery","name":"kevon Cadogan","url":"https://github.com/blackMastery","avatarUrl":"https://avatars.githubusercontent.com/u/9532587?s=80&v=4","followers":7,"publicRepos":111,"location":"Guyana","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":627,"commits":606,"pullRequests":2,"reviews":0,"issues":0,"repositories":19,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
-  {"rank":3,"id":"MDQ6VXNlcjc0ODI5MjAw","login":"codedbychavez","name":"Chavez Harris","url":"https://github.com/codedbychavez","avatarUrl":"https://avatars.githubusercontent.com/u/74829200?s=80&v=4","followers":36,"publicRepos":152,"location":"Guyana","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":239,"commits":186,"pullRequests":48,"reviews":2,"issues":0,"repositories":3,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":3,"id":"MDQ6VXNlcjc0ODI5MjAw","login":"codedbychavez","name":"Chavez Harris","url":"https://github.com/codedbychavez","avatarUrl":"https://avatars.githubusercontent.com/u/74829200?s=80&v=4","followers":36,"publicRepos":152,"location":"Guyana","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":239,"commits":186,"pullRequests":48,"reviews":2,"issues":0,"repositories":3,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":4,"id":"MDQ6VXNlcjU3Njk0MjU=","login":"rayonhunte","name":"Rayon Hunte","url":"https://github.com/rayonhunte","avatarUrl":"https://avatars.githubusercontent.com/u/5769425?s=80&v=4","followers":5,"publicRepos":68,"location":"Georgetown Guyana","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":169,"commits":102,"pullRequests":59,"reviews":2,"issues":2,"repositories":4,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "e5c53fc74cda6353",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "203cb1cc6790e813",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

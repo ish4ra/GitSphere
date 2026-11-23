@@ -5,13 +5,14 @@
 "country": {"code":"LC","name":"St. Lucia","slug":"st-lucia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":51,"measuredAccounts":4,"measurementBacklog":47,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":184,"measuredAccounts":5,"measurementBacklog":179,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":30,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjY0Nzg3MDU3","login":"Ad-vaith13","name":"Advaith Das Maharana","url":"https://github.com/Ad-vaith13","avatarUrl":"https://avatars.githubusercontent.com/u/64787057?s=80&v=4","followers":1,"publicRepos":5,"location":"St. Lucia, Brisbane","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":17,"commits":12,"pullRequests":0,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":2,"id":"MDQ6VXNlcjI1MTI4ODI2","login":"bBankert","name":"Brandon Bankert","url":"https://github.com/bBankert","avatarUrl":"https://avatars.githubusercontent.com/u/25128826?s=80&v=4","followers":0,"publicRepos":14,"location":"St Lucia, QLD","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":4,"commits":2,"pullRequests":2,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
+  {"rank":1,"id":"MDQ6VXNlcjY0Nzg3MDU3","login":"Ad-vaith13","name":"Advaith Das Maharana","url":"https://github.com/Ad-vaith13","avatarUrl":"https://avatars.githubusercontent.com/u/64787057?s=80&v=4","followers":1,"publicRepos":5,"location":"St. Lucia, Brisbane","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":17,"commits":12,"pullRequests":0,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjUxMjY0MTE2","login":"swelanauguste","name":"Swelan R. Auguste","url":"https://github.com/swelanauguste","avatarUrl":"https://avatars.githubusercontent.com/u/51264116?s=80&v=4","followers":9,"publicRepos":105,"location":"Saint Lucia","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-23","contributions":{"public":15,"commits":13,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":3,"id":"MDQ6VXNlcjI1MTI4ODI2","login":"bBankert","name":"Brandon Bankert","url":"https://github.com/bBankert","avatarUrl":"https://avatars.githubusercontent.com/u/25128826?s=80&v=4","followers":0,"publicRepos":14,"location":"St Lucia, QLD","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":4,"commits":2,"pullRequests":2,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "66eddb6b31b20a15",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "b89700220932d46a",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

@@ -7,7 +7,7 @@
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
 "coverage": {"basis":"partial","cutoffFollowers":0,"candidates":17,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDOCRHzvw","login":"JennyJohnsby","name":"Jenny Johnsby","url":"https://github.com/JennyJohnsby","avatarUrl":"https://avatars.githubusercontent.com/u/152171455?s=80&v=4","followers":13,"publicRepos":11,"location":"Longyearbyen","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
+  {"rank":1,"id":"U_kgDOCRHzvw","login":"JennyJohnsby","name":"Jenny Johnsby","url":"https://github.com/JennyJohnsby","avatarUrl":"https://avatars.githubusercontent.com/u/152171455?s=80&v=4","followers":13,"publicRepos":11,"location":"Longyearbyen","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23"},
   {"rank":2,"id":"U_kgDOBgRaCw","login":"encrize","name":"encrize","url":"https://github.com/encrize","avatarUrl":"https://avatars.githubusercontent.com/u/100948491?s=80&v=4","followers":12,"publicRepos":45,"location":"Svalbard og Jan Mayen","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":3,"id":"MDQ6VXNlcjI1Mjc5ODAw","login":"sunnyerteit","name":"S🌞nny","url":"https://github.com/sunnyerteit","avatarUrl":"https://avatars.githubusercontent.com/u/25279800?s=80&v=4","followers":11,"publicRepos":33,"location":"Longyearbyen","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
   {"rank":4,"id":"MDQ6VXNlcjM0ODIxNTM=","login":"Rainbowed","name":"Cake","url":"https://github.com/Rainbowed","avatarUrl":"https://avatars.githubusercontent.com/u/3482153?s=80&v=4","followers":9,"publicRepos":9,"location":"Longyearbyen, Svalbard","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
@@ -25,8 +25,8 @@
   {"rank":16,"id":"U_kgDOCtzTEg","login":"sexyguylublukust","name":null,"url":"https://github.com/sexyguylublukust","avatarUrl":"https://avatars.githubusercontent.com/u/182244114?s=80&v=4","followers":0,"publicRepos":1,"location":"Svalbard & Jan Mayen (SJ)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":17,"id":"U_kgDOCarhAw","login":"YTHEDOGKING","name":"Short Giraffe 😞","url":"https://github.com/YTHEDOGKING","avatarUrl":"https://avatars.githubusercontent.com/u/162193667?s=80&v=4","followers":0,"publicRepos":1,"location":"Olonkinbyen","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "c9a599b30679e318",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "b5358b879832c038",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

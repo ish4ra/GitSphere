@@ -5,7 +5,7 @@
 "country": {"code":"BE","name":"Belgium","slug":"belgium"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":1748,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":136,"candidates":123,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":151,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":1748,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":136,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":151,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxODg2NjA2NjM=","name":"Real-Time-Voice-Cloning","nameWithOwner":"CorentinJ/Real-Time-Voice-Cloning","url":"https://github.com/CorentinJ/Real-Time-Voice-Cloning","description":"Clone a voice in 5 seconds to generate arbitrary speech in real-time","stars":60248,"forks":9361,"primaryLanguage":"Python","license":{"spdxId":"NOASSERTION"},"createdAt":"2019-05-26T08:56:15Z","pushedAt":"2026-03-09T10:31:58Z","archived":false,"owner":{"login":"CorentinJ","name":"Corentin Jemine","type":"User","url":"https://github.com/CorentinJ","location":"Belgium","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkxOTc0NTAwNA==","name":"odoo","nameWithOwner":"odoo/odoo","url":"https://github.com/odoo/odoo","description":"Odoo. Open Source Apps To Grow Your Business.","stars":56016,"forks":34391,"primaryLanguage":"Python","license":{"spdxId":"NOASSERTION"},"createdAt":"2014-05-13T15:38:58Z","pushedAt":"2026-11-22T10:28:56Z","archived":false,"owner":{"login":"odoo","name":"Odoo","type":"Organization","url":"https://github.com/odoo","location":"Belgium","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"MDEwOlJlcG9zaXRvcnk0MzMxNTAzMQ==","name":"phpunit-vw","nameWithOwner":"hugues-m/phpunit-vw","url":"https://github.com/hugues-m/phpunit-vw","description":"VW PHPUnit extension makes your failing test cases succeed under CI tools scrutiny","stars":1758,"forks":40,"primaryLanguage":"PHP","license":{"spdxId":"MIT"},"createdAt":"2015-09-28T17:14:48Z","pushedAt":"2018-01-31T13:19:16Z","archived":false,"owner":{"login":"hugues-m","name":"Hugues Maignol","type":"User","url":"https://github.com/hugues-m","location":"Brussels","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-23"},
   {"rank":100,"id":"MDEwOlJlcG9zaXRvcnk3MTMzNTQyNw==","name":"laravel-tags","nameWithOwner":"spatie/laravel-tags","url":"https://github.com/spatie/laravel-tags","description":"Add tags and taggable behaviour to your Laravel app","stars":1748,"forks":283,"primaryLanguage":"PHP","license":{"spdxId":"MIT"},"createdAt":"2016-10-19T08:28:05Z","pushedAt":"2026-11-05T10:47:33Z","archived":false,"owner":{"login":"spatie","name":"Spatie","type":"Organization","url":"https://github.com/spatie","location":"Antwerp, Belgium","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "a84adc8d59f75ec5",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "3c1d32e8bfe1696c",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

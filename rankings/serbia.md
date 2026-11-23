@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **47** | 16 Oct 2026 | <a href="../data/RS.json">JSON</a> |
-
-> **Not yet re-verified.** 21 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **31** | 22 Nov 2026 | <a href="../data/RS.json">JSON</a> |
 
 </div>
 
@@ -207,149 +205,37 @@
 </tr>
 <tr>
 <td align="right">27</td>
-<td><img src="https://github.com/m-jovanovic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/m-jovanovic/event-reminder"><b>m-jovanovic/event-reminder</b></a></td>
-<td align="right"><b>394</b></td>
+<td><img src="https://github.com/valignatev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/valignatev/ddd-dynamic"><b>valignatev/ddd-dynamic</b></a><br><sub>Domain Driven Design in Python, Ruby and other dynamic languages resources</sub></td>
+<td align="right"><b>1,399</b></td>
 <td align="right">123</td>
-<td>C#</td>
-</tr>
-<tr>
-<td align="right">28</td>
-<td><img src="https://github.com/Mitrichius.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mitrichius/hugo-theme-anubis"><b>Mitrichius/hugo-theme-anubis</b></a> <sub>archived</sub></td>
-<td align="right"><b>391</b></td>
-<td align="right">142</td>
-<td>HTML</td>
-</tr>
-<tr>
-<td align="right">29</td>
-<td><img src="https://github.com/OpenSource03.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/OpenSource03/harnss"><b>OpenSource03/harnss</b></a></td>
-<td align="right"><b>384</b></td>
-<td align="right">43</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">30</td>
-<td><img src="https://github.com/gen2brain.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gen2brain/dlgs"><b>gen2brain/dlgs</b></a> <sub>archived</sub></td>
-<td align="right"><b>384</b></td>
-<td align="right">42</td>
-<td>Go</td>
-</tr>
-<tr>
-<td align="right">31</td>
-<td><img src="https://github.com/valentinajemuovic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/valentinajemuovic/banking-kata-java"><b>valentinajemuovic/banking-kata-java</b></a></td>
-<td align="right"><b>380</b></td>
-<td align="right">95</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">32</td>
-<td><img src="https://github.com/ubavic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ubavic/bas-celik"><b>ubavic/bas-celik</b></a></td>
-<td align="right"><b>378</b></td>
-<td align="right">33</td>
-<td>Go</td>
-</tr>
-<tr>
-<td align="right">33</td>
-<td><img src="https://github.com/valignatev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/valignatev/hitboxer"><b>valignatev/hitboxer</b></a></td>
-<td align="right"><b>377</b></td>
-<td align="right">31</td>
-<td>Jai</td>
-</tr>
-<tr>
-<td align="right">34</td>
-<td><img src="https://github.com/deltarocks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/deltarocks/jrsonnet"><b>deltarocks/jrsonnet</b></a></td>
-<td align="right"><b>375</b></td>
-<td align="right">45</td>
-<td>Rust</td>
-</tr>
-<tr>
-<td align="right">35</td>
-<td><img src="https://github.com/Anbeeld.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Anbeeld/WRITING.md"><b>Anbeeld/WRITING.md</b></a></td>
-<td align="right"><b>375</b></td>
-<td align="right">24</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">36</td>
-<td><img src="https://github.com/gzigzigzeo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gzigzigzeo/sidekiq-grouping"><b>gzigzigzeo/sidekiq-grouping</b></a></td>
-<td align="right"><b>374</b></td>
-<td align="right">60</td>
-<td>Ruby</td>
+<td align="right">28</td>
+<td><img src="https://github.com/xelaj.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xelaj/mtproto"><b>xelaj/mtproto</b></a><br><sub>🦋 Full-native go implementation of Telegram API</sub></td>
+<td align="right"><b>1,348</b></td>
+<td align="right">134</td>
+<td>Go</td>
 </tr>
 <tr>
-<td align="right">37</td>
-<td><img src="https://github.com/mrven.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mrven/Blender-Asset-Creation-Toolset"><b>mrven/Blender-Asset-Creation-Toolset</b></a></td>
-<td align="right"><b>370</b></td>
+<td align="right">29</td>
+<td><img src="https://github.com/volotat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/volotat/mini-AGI"><b>volotat/mini-AGI</b></a><br><sub>Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data.</sub></td>
+<td align="right"><b>1,321</b></td>
+<td align="right">205</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td><img src="https://github.com/AlexeyBelezeko.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AlexeyBelezeko/TBIconTransitionKit"><b>AlexeyBelezeko/TBIconTransitionKit</b></a><br><sub>TBIconTransitionKit is an easy to use icon transition kit that allows to smoothly change from one shape to another.</sub></td>
+<td align="right"><b>1,233</b></td>
+<td align="right">146</td>
+<td>Swift</td>
+</tr>
+<tr>
 <td align="right">31</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">38</td>
-<td><img src="https://github.com/savely-krasovsky.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/savely-krasovsky/antizapret-sing-box"><b>savely-krasovsky/antizapret-sing-box</b></a></td>
-<td align="right"><b>364</b></td>
-<td align="right">16</td>
-<td>Go</td>
-</tr>
-<tr>
-<td align="right">39</td>
-<td><img src="https://github.com/idugalic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/idugalic/micro-company"><b>idugalic/micro-company</b></a></td>
-<td align="right"><b>362</b></td>
-<td align="right">140</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">40</td>
-<td><img src="https://github.com/neuroph.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neuroph/neuroph"><b>neuroph/neuroph</b></a></td>
-<td align="right"><b>359</b></td>
-<td align="right">171</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">41</td>
-<td><img src="https://github.com/whaleyxbt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/whaleyxbt/claude-motion"><b>whaleyxbt/claude-motion</b></a></td>
-<td align="right"><b>359</b></td>
-<td align="right">40</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">42</td>
-<td><img src="https://github.com/idugalic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/idugalic/micro-ecommerce"><b>idugalic/micro-ecommerce</b></a></td>
-<td align="right"><b>356</b></td>
-<td align="right">187</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">43</td>
-<td><img src="https://github.com/Lolomgrofl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Lolomgrofl/fastapi-genesis"><b>Lolomgrofl/fastapi-genesis</b></a></td>
-<td align="right"><b>353</b></td>
-<td align="right">22</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">44</td>
-<td><img src="https://github.com/gen2brain.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gen2brain/cbconvert"><b>gen2brain/cbconvert</b></a></td>
-<td align="right"><b>353</b></td>
-<td align="right">19</td>
-<td>Go</td>
-</tr>
-<tr>
-<td align="right">45</td>
-<td><img src="https://github.com/volotat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/volotat/Anagnorisis"><b>volotat/Anagnorisis</b></a></td>
-<td align="right"><b>351</b></td>
-<td align="right">22</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">46</td>
-<td><img src="https://github.com/mladenplavsic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mladenplavsic/css-ripple-effect"><b>mladenplavsic/css-ripple-effect</b></a></td>
-<td align="right"><b>346</b></td>
-<td align="right">110</td>
-<td>CSS</td>
-</tr>
-<tr>
-<td align="right">47</td>
-<td><img src="https://github.com/nilic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nilic/kubectl-netshoot"><b>nilic/kubectl-netshoot</b></a></td>
-<td align="right"><b>223</b></td>
-<td align="right">9</td>
+<td><img src="https://github.com/gen2brain.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gen2brain/cam2ip"><b>gen2brain/cam2ip</b></a><br><sub>Turn any webcam into an IP camera</sub></td>
+<td align="right"><b>1,181</b></td>
+<td align="right">120</td>
 <td>Go</td>
 </tr>
 </tbody>
@@ -358,10 +244,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 223 stars; 47 attributed candidates are tracked.
-- 21 entries were carried over from the previous dataset and are pending revalidation.
+- **Cutoff:** the last listed repository has 1,181 stars; 31 attributed candidates are tracked.
+- 1 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

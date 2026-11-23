@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/developers/AO.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/developers/AO.json">JSON</a> |
 
 </div>
 
@@ -51,14 +51,28 @@
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/JoseCage"><img src="https://avatars.githubusercontent.com/u/4200487?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JoseCage"><b>José Cage</b></a><br><sub>&#64;JoseCage</sub></td>
+<td align="right"><b>406</b></td>
+<td align="right">40</td>
+<td><sub>Luanda, Angola</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/03232003"><img src="https://avatars.githubusercontent.com/u/168593985?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/03232003"><b>Sabino José</b></a><br><sub>&#64;03232003</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Angola</sub></td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/01Prim"><img src="https://avatars.githubusercontent.com/u/137004462?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/01Prim"><b>Mário Daniel Moisés</b></a><br><sub>&#64;01Prim</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Angola</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/041191"><img src="https://avatars.githubusercontent.com/u/157545236?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/041191"><b>CIS HARD SOFT</b></a><br><sub>&#64;041191</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Angola</sub></td>
@@ -71,7 +85,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 6 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 8 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 134 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

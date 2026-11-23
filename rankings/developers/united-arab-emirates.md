@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **67** | 22 Nov 2026 | <a href="../../data/developers/AE.json">JSON</a> |
+| 🟡 Provisional | **95** | 22 Nov 2026 | <a href="../../data/developers/AE.json">JSON</a> |
 
 </div>
 
@@ -80,7 +80,7 @@
 <tr>
 <td align="right">9</td>
 <td><a href="https://github.com/leap71"><img src="https://avatars.githubusercontent.com/u/147378246?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leap71"><b>LEAP 71</b></a><br><sub>&#64;leap71</sub></td>
-<td align="right"><b>1,236</b></td>
+<td align="right"><b>1,237</b></td>
 <td align="right">21</td>
 <td><sub>Dubai, United Arab Emirates</sub></td>
 </tr>
@@ -396,99 +396,295 @@
 <td align="right">54</td>
 <td><a href="https://github.com/saleem-hadad"><img src="https://avatars.githubusercontent.com/u/12780866?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/saleem-hadad"><b>Saleem Hadad سليم حداد</b></a><br><sub>&#64;saleem-hadad</sub></td>
 <td align="right"><b>408</b></td>
-<td align="right">0</td>
+<td align="right">21</td>
 <td><sub>Dubai, UAE</sub></td>
 </tr>
 <tr>
 <td align="right">55</td>
-<td><a href="https://github.com/garylab"><img src="https://avatars.githubusercontent.com/u/3072379?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/garylab"><b>Gary Meng</b></a><br><sub>&#64;garylab</sub></td>
-<td align="right"><b>374</b></td>
-<td align="right">0</td>
-<td><sub>Abu Dhabi, UAE</sub></td>
+<td><a href="https://github.com/d35ha"><img src="https://avatars.githubusercontent.com/u/43878201?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/d35ha"><b>Mustafa Nasser</b></a><br><sub>&#64;d35ha</sub></td>
+<td align="right"><b>405</b></td>
+<td align="right">21</td>
+<td><sub>UAE</sub></td>
 </tr>
 <tr>
 <td align="right">56</td>
-<td><a href="https://github.com/arasatasaygin"><img src="https://avatars.githubusercontent.com/u/2171796?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arasatasaygin"><b>aras</b></a><br><sub>&#64;arasatasaygin</sub></td>
-<td align="right"><b>370</b></td>
-<td align="right">0</td>
-<td><sub>Dubai</sub></td>
+<td><a href="https://github.com/techking11"><img src="https://avatars.githubusercontent.com/u/106249220?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/techking11"><b>Tech King</b></a><br><sub>&#64;techking11</sub></td>
+<td align="right"><b>401</b></td>
+<td align="right">64</td>
+<td><sub>Abu Dhabi, United Arab Emirates</sub></td>
 </tr>
 <tr>
 <td align="right">57</td>
-<td><a href="https://github.com/Ahmed-Ali"><img src="https://avatars.githubusercontent.com/u/5157350?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ahmed-Ali"><b>Ahmed Ali</b></a><br><sub>&#64;Ahmed-Ali</sub></td>
-<td align="right"><b>363</b></td>
-<td align="right">0</td>
-<td><sub>Abu Dhabi</sub></td>
+<td><a href="https://github.com/abxhr"><img src="https://avatars.githubusercontent.com/u/42249391?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abxhr"><b>Abshar Mohammed Aslam</b></a><br><sub>&#64;abxhr</sub></td>
+<td align="right"><b>400</b></td>
+<td align="right">47</td>
+<td><sub>Dubai, United Arab Emirates</sub></td>
 </tr>
 <tr>
 <td align="right">58</td>
+<td><a href="https://github.com/FrayxRulez"><img src="https://avatars.githubusercontent.com/u/8152849?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FrayxRulez"><b>Fela</b></a><br><sub>&#64;FrayxRulez</sub></td>
+<td align="right"><b>399</b></td>
+<td align="right">32</td>
+<td><sub>Dubai, United Arab Emirates</sub></td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><a href="https://github.com/iltercengiz"><img src="https://avatars.githubusercontent.com/u/1618181?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iltercengiz"><b>Ilter Cengiz</b></a><br><sub>&#64;iltercengiz</sub></td>
+<td align="right"><b>398</b></td>
+<td align="right">53</td>
+<td><sub>Dubai, UAE</sub></td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><a href="https://github.com/developer-junaid"><img src="https://avatars.githubusercontent.com/u/41704159?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/developer-junaid"><b>Developer Junaid</b></a><br><sub>&#64;developer-junaid</sub></td>
+<td align="right"><b>397</b></td>
+<td align="right">122</td>
+<td><sub>UAE</sub></td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><a href="https://github.com/Kirstenumali"><img src="https://avatars.githubusercontent.com/u/146112540?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kirstenumali"><b>carper&#95;wiske</b></a><br><sub>&#64;Kirstenumali</sub></td>
+<td align="right"><b>396</b></td>
+<td align="right">55</td>
+<td><sub>Dubai</sub></td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><a href="https://github.com/SHAHFAISAL80"><img src="https://avatars.githubusercontent.com/u/127482423?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SHAHFAISAL80"><b>shah faisal</b></a><br><sub>&#64;SHAHFAISAL80</sub></td>
+<td align="right"><b>393</b></td>
+<td align="right">94</td>
+<td><sub>INOA Building the future today Holding Companie…</sub></td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><a href="https://github.com/EslamKamel89"><img src="https://avatars.githubusercontent.com/u/157636887?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EslamKamel89"><b>Eslam Kamel</b></a><br><sub>&#64;EslamKamel89</sub></td>
+<td align="right"><b>392</b></td>
+<td align="right">264</td>
+<td><sub>Dubai</sub></td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><a href="https://github.com/sohidulIslam353"><img src="https://avatars.githubusercontent.com/u/19671113?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sohidulIslam353"><b>Sohidul Islam</b></a><br><sub>&#64;sohidulIslam353</sub></td>
+<td align="right"><b>384</b></td>
+<td align="right">102</td>
+<td><sub>Dubai</sub></td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><a href="https://github.com/kh4sh3i"><img src="https://avatars.githubusercontent.com/u/64693844?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kh4sh3i"><b>mohsen khashei</b></a><br><sub>&#64;kh4sh3i</sub></td>
+<td align="right"><b>379</b></td>
+<td align="right">94</td>
+<td><sub>United Arab Emirates</sub></td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><a href="https://github.com/tschm"><img src="https://avatars.githubusercontent.com/u/2046079?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tschm"><b>Thomas Schmelzer</b></a><br><sub>&#64;tschm</sub></td>
+<td align="right"><b>376</b></td>
+<td align="right">103</td>
+<td><sub>Abu Dhabi, United Arab Emirates</sub></td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><a href="https://github.com/s1ddok"><img src="https://avatars.githubusercontent.com/u/6384566?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/s1ddok"><b>Andrey Volodin</b></a><br><sub>&#64;s1ddok</sub></td>
+<td align="right"><b>376</b></td>
+<td align="right">62</td>
+<td><sub>Dubai</sub></td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><a href="https://github.com/garylab"><img src="https://avatars.githubusercontent.com/u/3072379?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/garylab"><b>Gary Meng</b></a><br><sub>&#64;garylab</sub></td>
+<td align="right"><b>374</b></td>
+<td align="right">63</td>
+<td><sub>Abu Dhabi, UAE</sub></td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><a href="https://github.com/xONEIROS"><img src="https://avatars.githubusercontent.com/u/174752031?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xONEIROS"><b>ONEIROS</b></a><br><sub>&#64;xONEIROS</sub></td>
+<td align="right"><b>374</b></td>
+<td align="right">41</td>
+<td><sub>UAE</sub></td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><a href="https://github.com/dipu-bd"><img src="https://avatars.githubusercontent.com/u/5158124?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dipu-bd"><b>Sudipto Chandra</b></a><br><sub>&#64;dipu-bd</sub></td>
+<td align="right"><b>373</b></td>
+<td align="right">81</td>
+<td><sub>Dubai, UAE</sub></td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><a href="https://github.com/arasatasaygin"><img src="https://avatars.githubusercontent.com/u/2171796?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arasatasaygin"><b>aras</b></a><br><sub>&#64;arasatasaygin</sub></td>
+<td align="right"><b>370</b></td>
+<td align="right">6</td>
+<td><sub>Dubai</sub></td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><a href="https://github.com/shaz13"><img src="https://avatars.githubusercontent.com/u/24438869?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shaz13"><b>Shahebaz Mohammad</b></a><br><sub>&#64;shaz13</sub></td>
+<td align="right"><b>365</b></td>
+<td align="right">180</td>
+<td><sub>Dubai</sub></td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><a href="https://github.com/nursnaaz"><img src="https://avatars.githubusercontent.com/u/18391640?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nursnaaz"><b>Mohamed Noordeen Alaudeen</b></a><br><sub>&#64;nursnaaz</sub></td>
+<td align="right"><b>364</b></td>
+<td align="right">155</td>
+<td><sub>Dubai</sub></td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><a href="https://github.com/anton-trunov"><img src="https://avatars.githubusercontent.com/u/2316541?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anton-trunov"><b>Anton Trunov</b></a><br><sub>&#64;anton-trunov</sub></td>
+<td align="right"><b>363</b></td>
+<td align="right">60</td>
+<td><sub>Dubai</sub></td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><a href="https://github.com/yaroslav"><img src="https://avatars.githubusercontent.com/u/4277?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yaroslav"><b>Yaroslav Markin</b></a><br><sub>&#64;yaroslav</sub></td>
+<td align="right"><b>363</b></td>
+<td align="right">24</td>
+<td><sub>DXB</sub></td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><a href="https://github.com/Ahmed-Ali"><img src="https://avatars.githubusercontent.com/u/5157350?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ahmed-Ali"><b>Ahmed Ali</b></a><br><sub>&#64;Ahmed-Ali</sub></td>
+<td align="right"><b>362</b></td>
+<td align="right">435</td>
+<td><sub>Abu Dhabi</sub></td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><a href="https://github.com/yusufusta"><img src="https://avatars.githubusercontent.com/u/46392667?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yusufusta"><b>Yusuf Usta</b></a><br><sub>&#64;yusufusta</sub></td>
+<td align="right"><b>358</b></td>
+<td align="right">48</td>
+<td><sub>Dubai, United Arab Emirates</sub></td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><a href="https://github.com/moelhaj"><img src="https://avatars.githubusercontent.com/u/22400576?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/moelhaj"><b>Mohamed Elhaj</b></a><br><sub>&#64;moelhaj</sub></td>
+<td align="right"><b>355</b></td>
+<td align="right">32</td>
+<td><sub>Dubai</sub></td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><a href="https://github.com/tanishq-ctrl"><img src="https://avatars.githubusercontent.com/u/69796497?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tanishq-ctrl"><b>CodeWithTanishq</b></a><br><sub>&#64;tanishq-ctrl</sub></td>
+<td align="right"><b>345</b></td>
+<td align="right">26</td>
+<td><sub>Dubai</sub></td>
+</tr>
+<tr>
+<td align="right">80</td>
 <td><a href="https://github.com/Gaurav-Gosain"><img src="https://avatars.githubusercontent.com/u/55647468?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Gaurav-Gosain"><b>Gaurav Gosain</b></a><br><sub>&#64;Gaurav-Gosain</sub></td>
 <td align="right"><b>335</b></td>
 <td align="right">0</td>
 <td><sub>Abu Dhabi, United Arab Emirates</sub></td>
 </tr>
 <tr>
-<td align="right">59</td>
+<td align="right">81</td>
 <td><a href="https://github.com/fityanos"><img src="https://avatars.githubusercontent.com/u/16471809?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fityanos"><b>Anas</b></a><br><sub>&#64;fityanos</sub></td>
 <td align="right"><b>285</b></td>
 <td align="right">0</td>
 <td><sub>Dubai, United Arab Emirates</sub></td>
 </tr>
 <tr>
-<td align="right">60</td>
+<td align="right">82</td>
 <td><a href="https://github.com/onsails"><img src="https://avatars.githubusercontent.com/u/107261?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/onsails"><b>Andrey Kuznetsov</b></a><br><sub>&#64;onsails</sub></td>
 <td align="right"><b>272</b></td>
 <td align="right">0</td>
 <td><sub>Dubai, UAE</sub></td>
 </tr>
 <tr>
-<td align="right">61</td>
+<td align="right">83</td>
 <td><a href="https://github.com/robinebers"><img src="https://avatars.githubusercontent.com/u/16515780?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/robinebers"><b>Robin Ebers</b></a><br><sub>&#64;robinebers</sub></td>
 <td align="right"><b>248</b></td>
 <td align="right">0</td>
 <td><sub>Dubai</sub></td>
 </tr>
 <tr>
-<td align="right">62</td>
+<td align="right">84</td>
 <td><a href="https://github.com/codeaprendiz"><img src="https://avatars.githubusercontent.com/u/18071639?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codeaprendiz"><b>Ankit</b></a><br><sub>&#64;codeaprendiz</sub></td>
 <td align="right"><b>224</b></td>
 <td align="right">0</td>
 <td><sub>Dubai</sub></td>
 </tr>
 <tr>
-<td align="right">63</td>
+<td align="right">85</td>
 <td><a href="https://github.com/kumailht"><img src="https://avatars.githubusercontent.com/u/763012?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kumailht"><b>Kumail Hunaid</b></a><br><sub>&#64;kumailht</sub></td>
 <td align="right"><b>217</b></td>
 <td align="right">0</td>
 <td><sub>Dubai, UAE</sub></td>
 </tr>
 <tr>
-<td align="right">64</td>
+<td align="right">86</td>
+<td><a href="https://github.com/reiniscimurs"><img src="https://avatars.githubusercontent.com/u/33617541?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/reiniscimurs"><b>Reinis Cimurs</b></a><br><sub>&#64;reiniscimurs</sub></td>
+<td align="right"><b>206</b></td>
+<td align="right">0</td>
+<td><sub>UAE</sub></td>
+</tr>
+<tr>
+<td align="right">87</td>
 <td><a href="https://github.com/wa0x6e"><img src="https://avatars.githubusercontent.com/u/495709?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wa0x6e"><b>Wan</b></a><br><sub>&#64;wa0x6e</sub></td>
 <td align="right"><b>206</b></td>
 <td align="right">0</td>
 <td><sub>Dubai, UAE</sub></td>
 </tr>
 <tr>
-<td align="right">65</td>
+<td align="right">88</td>
 <td><a href="https://github.com/Manavarya09"><img src="https://avatars.githubusercontent.com/u/144777973?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Manavarya09"><b>Manav Arya Singh</b></a><br><sub>&#64;Manavarya09</sub></td>
 <td align="right"><b>148</b></td>
 <td align="right">0</td>
 <td><sub>Dubai</sub></td>
 </tr>
 <tr>
-<td align="right">66</td>
+<td align="right">89</td>
+<td><a href="https://github.com/anastr"><img src="https://avatars.githubusercontent.com/u/15258783?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anastr"><b>Anas Altair</b></a><br><sub>&#64;anastr</sub></td>
+<td align="right"><b>120</b></td>
+<td align="right">0</td>
+<td><sub>UAE, Dubai</sub></td>
+</tr>
+<tr>
+<td align="right">90</td>
 <td><a href="https://github.com/miromannino"><img src="https://avatars.githubusercontent.com/u/160922?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/miromannino"><b>Miro Mannino</b></a><br><sub>&#64;miromannino</sub></td>
 <td align="right"><b>109</b></td>
 <td align="right">0</td>
 <td><sub>Dubai</sub></td>
 </tr>
 <tr>
-<td align="right">67</td>
+<td align="right">91</td>
+<td><a href="https://github.com/FahimF"><img src="https://avatars.githubusercontent.com/u/181110?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FahimF"><b>Fahim Farook</b></a><br><sub>&#64;FahimF</sub></td>
+<td align="right"><b>90</b></td>
+<td align="right">0</td>
+<td><sub>Sharjah, UAE</sub></td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><a href="https://github.com/hugeicons"><img src="https://avatars.githubusercontent.com/u/130147052?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hugeicons"><b>Hugeicons</b></a><br><sub>&#64;hugeicons</sub></td>
+<td align="right"><b>85</b></td>
+<td align="right">0</td>
+<td><sub>Dubai</sub></td>
+</tr>
+<tr>
+<td align="right">93</td>
 <td><a href="https://github.com/maddada"><img src="https://avatars.githubusercontent.com/u/1892053?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maddada"><b>Mohamad Yahia</b></a><br><sub>&#64;maddada</sub></td>
 <td align="right"><b>78</b></td>
 <td align="right">0</td>
 <td><sub>Dubai, United Arab Emirates.</sub></td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><a href="https://github.com/Massad"><img src="https://avatars.githubusercontent.com/u/3076722?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Massad"><b>Omar Masad</b></a><br><sub>&#64;Massad</sub></td>
+<td align="right"><b>49</b></td>
+<td align="right">0</td>
+<td><sub>United Arab Emirates, Dubai</sub></td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><a href="https://github.com/ayoubfathi"><img src="https://avatars.githubusercontent.com/u/17505972?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ayoubfathi"><b>Ayoub FATHI</b></a><br><sub>&#64;ayoubfathi</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Dubai - UAE</sub></td>
 </tr>
 </tbody>
 </table>
@@ -498,7 +694,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 67 attributed developers are tracked; the cutoff is 78 followers.
+- Organizations are excluded. 95 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 98 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

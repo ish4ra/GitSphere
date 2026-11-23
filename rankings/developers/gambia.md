@@ -340,7 +340,7 @@
 <td align="right">46</td>
 <td><a href="https://github.com/Dion-verse"><img src="https://avatars.githubusercontent.com/u/246143059?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dion-verse"><b>Dawda Mbowe</b></a><br><sub>&#64;Dion-verse</sub></td>
 <td align="right"><b>6</b></td>
-<td align="right">90</td>
+<td align="right">81</td>
 <td><sub>gambia</sub></td>
 </tr>
 <tr>

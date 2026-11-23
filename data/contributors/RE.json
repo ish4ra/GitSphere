@@ -5,12 +5,13 @@
 "country": {"code":"RE","name":"Réunion","slug":"reunion"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":272,"measuredAccounts":4,"measurementBacklog":268,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":272,"measuredAccounts":5,"measurementBacklog":267,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"U_kgDODcQ1GQ","login":"777-fr","name":"Raphaël BAPTISTE","url":"https://github.com/777-fr","avatarUrl":"https://avatars.githubusercontent.com/u/230962457?s=80&v=4","followers":0,"publicRepos":1,"location":"La Réunion","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":16,"commits":15,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"U_kgDODcQ1GQ","login":"777-fr","name":"Raphaël BAPTISTE","url":"https://github.com/777-fr","avatarUrl":"https://avatars.githubusercontent.com/u/230962457?s=80&v=4","followers":0,"publicRepos":1,"location":"La Réunion","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":16,"commits":15,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjEyMDA1MjU=","login":"aboire","name":"Thomas Craipeau","url":"https://github.com/aboire","avatarUrl":"https://avatars.githubusercontent.com/u/1200525?s=80&v=4","followers":16,"publicRepos":77,"location":"La réunion","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":4,"commits":0,"pullRequests":2,"reviews":0,"issues":2,"repositories":0,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "cea3c612af705ea8",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "fee1338470e7c7fe",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

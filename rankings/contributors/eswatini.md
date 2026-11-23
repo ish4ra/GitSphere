@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/SZ.json">JSON</a> |
+| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/contributors/SZ.json">JSON</a> |
 
 </div>
 
@@ -34,6 +34,15 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/sicelo"><img src="https://avatars.githubusercontent.com/u/3158319?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sicelo"><b>Sicelo</b></a><br><sub>&#64;sicelo · 21 followers</sub></td>
+<td align="right"><b>60</b></td>
+<td align="right">29</td>
+<td align="right">12</td>
+<td align="right">1</td>
+<td align="right">13</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/phume03"><img src="https://avatars.githubusercontent.com/u/96667636?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/phume03"><b>Phumelela Mdluli</b></a><br><sub>&#64;phume03 · 26 followers</sub></td>
 <td align="right"><b>26</b></td>
 <td align="right">10</td>
@@ -48,7 +57,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 5 of 277 discovered developers (272 awaiting measurement).
+- **Measured:** 7 of 277 discovered developers (270 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

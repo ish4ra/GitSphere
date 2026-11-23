@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **282** | 22 Nov 2026 | <a href="../../data/developers/PL.json">JSON</a> |
+| 🟡 Provisional | **347** | 22 Nov 2026 | <a href="../../data/developers/PL.json">JSON</a> |
 
 </div>
 
@@ -52,7 +52,7 @@
 <tr>
 <td align="right">5</td>
 <td><a href="https://github.com/trimstray"><img src="https://avatars.githubusercontent.com/u/31127917?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/trimstray"><b>Michał Ży</b></a><br><sub>&#64;trimstray</sub></td>
-<td align="right"><b>5,986</b></td>
+<td align="right"><b>5,989</b></td>
 <td align="right">17</td>
 <td><sub>Poland</sub></td>
 </tr>
@@ -108,7 +108,7 @@
 <tr>
 <td align="right">13</td>
 <td><a href="https://github.com/piomin"><img src="https://avatars.githubusercontent.com/u/2892502?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/piomin"><b>Piotr Mińkowski</b></a><br><sub>&#64;piomin</sub></td>
-<td align="right"><b>2,942</b></td>
+<td align="right"><b>2,943</b></td>
 <td align="right">175</td>
 <td><sub>Warsaw</sub></td>
 </tr>
@@ -486,7 +486,7 @@
 <tr>
 <td align="right">67</td>
 <td><a href="https://github.com/ku1ik"><img src="https://avatars.githubusercontent.com/u/17589?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ku1ik"><b>Marcin Kulik</b></a><br><sub>&#64;ku1ik</sub></td>
-<td align="right"><b>835</b></td>
+<td align="right"><b>834</b></td>
 <td align="right">123</td>
 <td><sub>Poland</sub></td>
 </tr>
@@ -724,7 +724,7 @@
 <tr>
 <td align="right">101</td>
 <td><a href="https://github.com/pawurb"><img src="https://avatars.githubusercontent.com/u/1131944?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pawurb"><b>Paweł Urbanek</b></a><br><sub>&#64;pawurb</sub></td>
-<td align="right"><b>631</b></td>
+<td align="right"><b>629</b></td>
 <td align="right">116</td>
 <td><sub>Poland</sub></td>
 </tr>
@@ -1243,753 +1243,1208 @@
 <td align="right">175</td>
 <td><a href="https://github.com/wojciech-kulik"><img src="https://avatars.githubusercontent.com/u/3128467?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wojciech-kulik"><b>Wojciech Kulik</b></a><br><sub>&#64;wojciech-kulik</sub></td>
 <td align="right"><b>409</b></td>
-<td align="right">0</td>
+<td align="right">54</td>
 <td><sub>Wrocław, Poland</sub></td>
 </tr>
 <tr>
 <td align="right">176</td>
-<td><a href="https://github.com/cztomczak"><img src="https://avatars.githubusercontent.com/u/1187415?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cztomczak"><b>Czarek Tomczak</b></a><br><sub>&#64;cztomczak</sub></td>
-<td align="right"><b>397</b></td>
-<td align="right">0</td>
-<td><sub>Poland</sub></td>
+<td><a href="https://github.com/mgorny"><img src="https://avatars.githubusercontent.com/u/110765?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mgorny"><b>Michał Górny</b></a><br><sub>&#64;mgorny</sub></td>
+<td align="right"><b>406</b></td>
+<td align="right">949</td>
+<td><sub>Greater Poland, PL</sub></td>
 </tr>
 <tr>
 <td align="right">177</td>
-<td><a href="https://github.com/jpudysz"><img src="https://avatars.githubusercontent.com/u/9088288?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jpudysz"><b>Jacek Pudysz</b></a><br><sub>&#64;jpudysz</sub></td>
-<td align="right"><b>397</b></td>
-<td align="right">0</td>
-<td><sub>Poland, Rzeszow</sub></td>
-</tr>
-<tr>
-<td align="right">178</td>
-<td><a href="https://github.com/vi"><img src="https://avatars.githubusercontent.com/u/173219?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vi"><b>Vitaly Shukela</b></a><br><sub>&#64;vi</sub></td>
-<td align="right"><b>396</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/Ys-sudo"><img src="https://avatars.githubusercontent.com/u/57189926?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ys-sudo"><b>George Lazaridis</b></a><br><sub>&#64;Ys-sudo</sub></td>
+<td align="right"><b>405</b></td>
+<td align="right">32</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
+<td align="right">178</td>
+<td><a href="https://github.com/blipinsk"><img src="https://avatars.githubusercontent.com/u/6371716?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/blipinsk"><b>Bartek Lipinski</b></a><br><sub>&#64;blipinsk</sub></td>
+<td align="right"><b>403</b></td>
+<td align="right">41</td>
+<td><sub>Warsaw, Poland</sub></td>
+</tr>
+<tr>
 <td align="right">179</td>
-<td><a href="https://github.com/sentialx"><img src="https://avatars.githubusercontent.com/u/11065386?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sentialx"><b>Eryk Rakowski</b></a><br><sub>&#64;sentialx</sub></td>
-<td align="right"><b>386</b></td>
-<td align="right">0</td>
-<td><sub>Gdańsk, Poland</sub></td>
+<td><a href="https://github.com/viashchuk"><img src="https://avatars.githubusercontent.com/u/22917917?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/viashchuk"><b>Viki</b></a><br><sub>&#64;viashchuk</sub></td>
+<td align="right"><b>401</b></td>
+<td align="right">12</td>
+<td><sub>Kraków, Poland</sub></td>
 </tr>
 <tr>
 <td align="right">180</td>
-<td><a href="https://github.com/webhdx"><img src="https://avatars.githubusercontent.com/u/10212760?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/webhdx"><b>Maciej Kobus</b></a><br><sub>&#64;webhdx</sub></td>
-<td align="right"><b>382</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/vi"><img src="https://avatars.githubusercontent.com/u/173219?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vi"><b>Vitaly Shukela</b></a><br><sub>&#64;vi</sub></td>
+<td align="right"><b>397</b></td>
+<td align="right">254</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
 <td align="right">181</td>
-<td><a href="https://github.com/elceef"><img src="https://avatars.githubusercontent.com/u/8627380?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elceef"><b>Marcin Ulikowski</b></a><br><sub>&#64;elceef</sub></td>
-<td align="right"><b>375</b></td>
-<td align="right">0</td>
-<td><sub>Poland</sub></td>
+<td><a href="https://github.com/jpudysz"><img src="https://avatars.githubusercontent.com/u/9088288?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jpudysz"><b>Jacek Pudysz</b></a><br><sub>&#64;jpudysz</sub></td>
+<td align="right"><b>397</b></td>
+<td align="right">41</td>
+<td><sub>Poland, Rzeszow</sub></td>
 </tr>
 <tr>
 <td align="right">182</td>
-<td><a href="https://github.com/m1entus"><img src="https://avatars.githubusercontent.com/u/1565368?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/m1entus"><b>Michał Zaborowski</b></a><br><sub>&#64;m1entus</sub></td>
-<td align="right"><b>373</b></td>
-<td align="right">0</td>
-<td><sub>Cracow, Poland</sub></td>
+<td><a href="https://github.com/cztomczak"><img src="https://avatars.githubusercontent.com/u/1187415?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cztomczak"><b>Czarek Tomczak</b></a><br><sub>&#64;cztomczak</sub></td>
+<td align="right"><b>397</b></td>
+<td align="right">25</td>
+<td><sub>Poland</sub></td>
 </tr>
 <tr>
 <td align="right">183</td>
-<td><a href="https://github.com/mpusz"><img src="https://avatars.githubusercontent.com/u/506260?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mpusz"><b>Mateusz Pusz</b></a><br><sub>&#64;mpusz</sub></td>
-<td align="right"><b>367</b></td>
-<td align="right">0</td>
-<td><sub>Gdańsk, Poland</sub></td>
+<td><a href="https://github.com/ecler"><img src="https://avatars.githubusercontent.com/u/2544319?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ecler"><b>Paweł Białecki</b></a><br><sub>&#64;ecler</sub></td>
+<td align="right"><b>397</b></td>
+<td align="right">7</td>
+<td><sub>Bogatynia, Poland</sub></td>
 </tr>
 <tr>
 <td align="right">184</td>
-<td><a href="https://github.com/piotrplenik"><img src="https://avatars.githubusercontent.com/u/674766?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/piotrplenik"><b>Piotr Plenik</b></a><br><sub>&#64;piotrplenik</sub></td>
-<td align="right"><b>365</b></td>
-<td align="right">0</td>
-<td><sub>Warsaw, Poland</sub></td>
+<td><a href="https://github.com/kacperkapusciak"><img src="https://avatars.githubusercontent.com/u/39658211?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kacperkapusciak"><b>Kacper Kapuściak</b></a><br><sub>&#64;kacperkapusciak</sub></td>
+<td align="right"><b>396</b></td>
+<td align="right">101</td>
+<td><sub>Kraków, Poland</sub></td>
 </tr>
 <tr>
 <td align="right">185</td>
-<td><a href="https://github.com/FractalFir"><img src="https://avatars.githubusercontent.com/u/75212430?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FractalFir"><b>Fractal Fir(Michał Kostrubiec)</b></a><br><sub>&#64;FractalFir</sub></td>
-<td align="right"><b>358</b></td>
-<td align="right">0</td>
-<td><sub>Szczecin, Poland, EU</sub></td>
+<td><a href="https://github.com/HuckleR2003"><img src="https://avatars.githubusercontent.com/u/64114763?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HuckleR2003"><b>Marcin &quot;HuckleR&quot; Firmuga</b></a><br><sub>&#64;HuckleR2003</sub></td>
+<td align="right"><b>390</b></td>
+<td align="right">9</td>
+<td><sub>Poland</sub></td>
 </tr>
 <tr>
 <td align="right">186</td>
-<td><a href="https://github.com/ptrkrysik"><img src="https://avatars.githubusercontent.com/u/4154399?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ptrkrysik"><b>Piotr Krysik</b></a><br><sub>&#64;ptrkrysik</sub></td>
-<td align="right"><b>352</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/v-fidelusaleksander"><img src="https://avatars.githubusercontent.com/u/63016446?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/v-fidelusaleksander"><b>Aleksander Fidelus</b></a><br><sub>&#64;v-fidelusaleksander</sub></td>
+<td align="right"><b>388</b></td>
+<td align="right">76</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
 <td align="right">187</td>
-<td><a href="https://github.com/pkolaczk"><img src="https://avatars.githubusercontent.com/u/1352795?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pkolaczk"><b>Piotr Kołaczkowski</b></a><br><sub>&#64;pkolaczk</sub></td>
-<td align="right"><b>348</b></td>
-<td align="right">0</td>
-<td><sub>Warszawa, Poland</sub></td>
+<td><a href="https://github.com/sentialx"><img src="https://avatars.githubusercontent.com/u/11065386?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sentialx"><b>Eryk Rakowski</b></a><br><sub>&#64;sentialx</sub></td>
+<td align="right"><b>386</b></td>
+<td align="right">49</td>
+<td><sub>Gdańsk, Poland</sub></td>
 </tr>
 <tr>
 <td align="right">188</td>
-<td><a href="https://github.com/stalniy"><img src="https://avatars.githubusercontent.com/u/1159966?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stalniy"><b>Serhii Stotskyi</b></a><br><sub>&#64;stalniy</sub></td>
-<td align="right"><b>346</b></td>
-<td align="right">0</td>
-<td><sub>Poland, Krakow</sub></td>
+<td><a href="https://github.com/mensfeld"><img src="https://avatars.githubusercontent.com/u/392754?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mensfeld"><b>Maciej Mensfeld</b></a><br><sub>&#64;mensfeld</sub></td>
+<td align="right"><b>384</b></td>
+<td align="right">76</td>
+<td><sub>Cracow</sub></td>
 </tr>
 <tr>
 <td align="right">189</td>
+<td><a href="https://github.com/webhdx"><img src="https://avatars.githubusercontent.com/u/10212760?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/webhdx"><b>Maciej Kobus</b></a><br><sub>&#64;webhdx</sub></td>
+<td align="right"><b>382</b></td>
+<td align="right">92</td>
+<td><sub>Poland</sub></td>
+</tr>
+<tr>
+<td align="right">190</td>
+<td><a href="https://github.com/roblaszczak"><img src="https://avatars.githubusercontent.com/u/5737091?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/roblaszczak"><b>Robert Laszczak</b></a><br><sub>&#64;roblaszczak</sub></td>
+<td align="right"><b>379</b></td>
+<td align="right">40</td>
+<td><sub>Cracow, Poland</sub></td>
+</tr>
+<tr>
+<td align="right">191</td>
+<td><a href="https://github.com/pkarw"><img src="https://avatars.githubusercontent.com/u/211899?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pkarw"><b>Piotr Karwatka</b></a><br><sub>&#64;pkarw</sub></td>
+<td align="right"><b>377</b></td>
+<td align="right">16</td>
+<td><sub>Wroclaw</sub></td>
+</tr>
+<tr>
+<td align="right">192</td>
+<td><a href="https://github.com/44past4"><img src="https://avatars.githubusercontent.com/u/6388530?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/44past4"><b>Paweł Kępka</b></a><br><sub>&#64;44past4</sub></td>
+<td align="right"><b>376</b></td>
+<td align="right">14</td>
+<td><sub>Warsaw, Poland</sub></td>
+</tr>
+<tr>
+<td align="right">193</td>
+<td><a href="https://github.com/elceef"><img src="https://avatars.githubusercontent.com/u/8627380?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elceef"><b>Marcin Ulikowski</b></a><br><sub>&#64;elceef</sub></td>
+<td align="right"><b>375</b></td>
+<td align="right">13</td>
+<td><sub>Poland</sub></td>
+</tr>
+<tr>
+<td align="right">194</td>
+<td><a href="https://github.com/filrak"><img src="https://avatars.githubusercontent.com/u/15185752?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/filrak"><b>Filip Rakowski</b></a><br><sub>&#64;filrak</sub></td>
+<td align="right"><b>374</b></td>
+<td align="right">40</td>
+<td><sub>Wrocław</sub></td>
+</tr>
+<tr>
+<td align="right">195</td>
+<td><a href="https://github.com/patrys"><img src="https://avatars.githubusercontent.com/u/81205?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/patrys"><b>Patryk Zawadzki</b></a><br><sub>&#64;patrys</sub></td>
+<td align="right"><b>373</b></td>
+<td align="right">77</td>
+<td><sub>Wrocław, Poland</sub></td>
+</tr>
+<tr>
+<td align="right">196</td>
+<td><a href="https://github.com/m1entus"><img src="https://avatars.githubusercontent.com/u/1565368?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/m1entus"><b>Michał Zaborowski</b></a><br><sub>&#64;m1entus</sub></td>
+<td align="right"><b>373</b></td>
+<td align="right">47</td>
+<td><sub>Cracow, Poland</sub></td>
+</tr>
+<tr>
+<td align="right">197</td>
+<td><a href="https://github.com/zefhemel"><img src="https://avatars.githubusercontent.com/u/59073?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zefhemel"><b>Zef Hemel</b></a><br><sub>&#64;zefhemel</sub></td>
+<td align="right"><b>372</b></td>
+<td align="right">100</td>
+<td><sub>Poznań, Poland</sub></td>
+</tr>
+<tr>
+<td align="right">198</td>
+<td><a href="https://github.com/jhomlala"><img src="https://avatars.githubusercontent.com/u/1329033?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jhomlala"><b>Jakub Homlala</b></a><br><sub>&#64;jhomlala</sub></td>
+<td align="right"><b>372</b></td>
+<td align="right">48</td>
+<td><sub>Poland , Zielona Góra</sub></td>
+</tr>
+<tr>
+<td align="right">199</td>
+<td><a href="https://github.com/Albert221"><img src="https://avatars.githubusercontent.com/u/4085280?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Albert221"><b>Albert Wolszon</b></a><br><sub>&#64;Albert221</sub></td>
+<td align="right"><b>369</b></td>
+<td align="right">55</td>
+<td><sub>Warsaw, Poland</sub></td>
+</tr>
+<tr>
+<td align="right">200</td>
+<td><a href="https://github.com/mpusz"><img src="https://avatars.githubusercontent.com/u/506260?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mpusz"><b>Mateusz Pusz</b></a><br><sub>&#64;mpusz</sub></td>
+<td align="right"><b>367</b></td>
+<td align="right">43</td>
+<td><sub>Gdańsk, Poland</sub></td>
+</tr>
+<tr>
+<td align="right">201</td>
+<td><a href="https://github.com/MarczakIO"><img src="https://avatars.githubusercontent.com/u/32310272?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MarczakIO"><b>Adam Marczak</b></a><br><sub>&#64;MarczakIO</sub></td>
+<td align="right"><b>366</b></td>
+<td align="right">26</td>
+<td><sub>Warsaw</sub></td>
+</tr>
+<tr>
+<td align="right">202</td>
+<td><a href="https://github.com/piotrplenik"><img src="https://avatars.githubusercontent.com/u/674766?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/piotrplenik"><b>Piotr Plenik</b></a><br><sub>&#64;piotrplenik</sub></td>
+<td align="right"><b>365</b></td>
+<td align="right">92</td>
+<td><sub>Warsaw, Poland</sub></td>
+</tr>
+<tr>
+<td align="right">203</td>
+<td><a href="https://github.com/FatimaTasnim"><img src="https://avatars.githubusercontent.com/u/13839518?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FatimaTasnim"><b>Tasnim</b></a><br><sub>&#64;FatimaTasnim</sub></td>
+<td align="right"><b>365</b></td>
+<td align="right">45</td>
+<td><sub>Poland</sub></td>
+</tr>
+<tr>
+<td align="right">204</td>
+<td><a href="https://github.com/juliuszlosinski"><img src="https://avatars.githubusercontent.com/u/72278818?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/juliuszlosinski"><b>Juliusz Łosiński</b></a><br><sub>&#64;juliuszlosinski</sub></td>
+<td align="right"><b>360</b></td>
+<td align="right">46</td>
+<td><sub>Poland</sub></td>
+</tr>
+<tr>
+<td align="right">205</td>
+<td><a href="https://github.com/MichalZalecki"><img src="https://avatars.githubusercontent.com/u/3136577?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MichalZalecki"><b>Michał Załęcki</b></a><br><sub>&#64;MichalZalecki</sub></td>
+<td align="right"><b>358</b></td>
+<td align="right">106</td>
+<td><sub>Wrocław, Poland</sub></td>
+</tr>
+<tr>
+<td align="right">206</td>
+<td><a href="https://github.com/FractalFir"><img src="https://avatars.githubusercontent.com/u/75212430?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FractalFir"><b>Fractal Fir(Michał Kostrubiec)</b></a><br><sub>&#64;FractalFir</sub></td>
+<td align="right"><b>358</b></td>
+<td align="right">49</td>
+<td><sub>Szczecin, Poland, EU</sub></td>
+</tr>
+<tr>
+<td align="right">207</td>
+<td><a href="https://github.com/kamilogorek"><img src="https://avatars.githubusercontent.com/u/1523305?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kamilogorek"><b>Kamil Ogórek</b></a><br><sub>&#64;kamilogorek</sub></td>
+<td align="right"><b>358</b></td>
+<td align="right">35</td>
+<td><sub>Kraków, Poland</sub></td>
+</tr>
+<tr>
+<td align="right">208</td>
+<td><a href="https://github.com/keradus"><img src="https://avatars.githubusercontent.com/u/2716794?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/keradus"><b>Dariusz Rumiński</b></a><br><sub>&#64;keradus</sub></td>
+<td align="right"><b>357</b></td>
+<td align="right">144</td>
+<td><sub>Szczecin, Poland</sub></td>
+</tr>
+<tr>
+<td align="right">209</td>
+<td><a href="https://github.com/manuel12"><img src="https://avatars.githubusercontent.com/u/4129325?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/manuel12"><b>Manuel</b></a><br><sub>&#64;manuel12</sub></td>
+<td align="right"><b>357</b></td>
+<td align="right">94</td>
+<td><sub>Krakow, Poland</sub></td>
+</tr>
+<tr>
+<td align="right">210</td>
+<td><a href="https://github.com/SKGleba"><img src="https://avatars.githubusercontent.com/u/30833773?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SKGleba"><b>Sebastian Kubala</b></a><br><sub>&#64;SKGleba</sub></td>
+<td align="right"><b>356</b></td>
+<td align="right">48</td>
+<td><sub>Warsaw</sub></td>
+</tr>
+<tr>
+<td align="right">211</td>
+<td><a href="https://github.com/JanWilczek"><img src="https://avatars.githubusercontent.com/u/24981875?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JanWilczek"><b>Jan Wilczek</b></a><br><sub>&#64;JanWilczek</sub></td>
+<td align="right"><b>353</b></td>
+<td align="right">47</td>
+<td><sub>Poland</sub></td>
+</tr>
+<tr>
+<td align="right">212</td>
+<td><a href="https://github.com/jirafey"><img src="https://avatars.githubusercontent.com/u/97115044?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jirafey"><b>Jirafey</b></a><br><sub>&#64;jirafey</sub></td>
+<td align="right"><b>353</b></td>
+<td align="right">19</td>
+<td><sub>Poland</sub></td>
+</tr>
+<tr>
+<td align="right">213</td>
+<td><a href="https://github.com/ptrkrysik"><img src="https://avatars.githubusercontent.com/u/4154399?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ptrkrysik"><b>Piotr Krysik</b></a><br><sub>&#64;ptrkrysik</sub></td>
+<td align="right"><b>352</b></td>
+<td align="right">12</td>
+<td><sub>Poland</sub></td>
+</tr>
+<tr>
+<td align="right">214</td>
+<td><a href="https://github.com/hauleth"><img src="https://avatars.githubusercontent.com/u/291639?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hauleth"><b>Łukasz Jan Niemier</b></a><br><sub>&#64;hauleth</sub></td>
+<td align="right"><b>351</b></td>
+<td align="right">187</td>
+<td><sub>Poznań, Poland</sub></td>
+</tr>
+<tr>
+<td align="right">215</td>
+<td><a href="https://github.com/lowleveldesign"><img src="https://avatars.githubusercontent.com/u/6109268?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lowleveldesign"><b>Sebastian Solnica</b></a><br><sub>&#64;lowleveldesign</sub></td>
+<td align="right"><b>351</b></td>
+<td align="right">29</td>
+<td><sub>Poland</sub></td>
+</tr>
+<tr>
+<td align="right">216</td>
+<td><a href="https://github.com/drbenasmah"><img src="https://avatars.githubusercontent.com/u/113874303?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/drbenasmah"><b>Ben Asmah</b></a><br><sub>&#64;drbenasmah</sub></td>
+<td align="right"><b>350</b></td>
+<td align="right">58</td>
+<td><sub>Poland</sub></td>
+</tr>
+<tr>
+<td align="right">217</td>
+<td><a href="https://github.com/kolorobot"><img src="https://avatars.githubusercontent.com/u/1202934?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kolorobot"><b>Rafal Borowiec</b></a><br><sub>&#64;kolorobot</sub></td>
+<td align="right"><b>348</b></td>
+<td align="right">36</td>
+<td><sub>Poland</sub></td>
+</tr>
+<tr>
+<td align="right">218</td>
+<td><a href="https://github.com/pkolaczk"><img src="https://avatars.githubusercontent.com/u/1352795?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pkolaczk"><b>Piotr Kołaczkowski</b></a><br><sub>&#64;pkolaczk</sub></td>
+<td align="right"><b>348</b></td>
+<td align="right">31</td>
+<td><sub>Warszawa, Poland</sub></td>
+</tr>
+<tr>
+<td align="right">219</td>
+<td><a href="https://github.com/stalniy"><img src="https://avatars.githubusercontent.com/u/1159966?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stalniy"><b>Serhii Stotskyi</b></a><br><sub>&#64;stalniy</sub></td>
+<td align="right"><b>346</b></td>
+<td align="right">102</td>
+<td><sub>Poland, Krakow</sub></td>
+</tr>
+<tr>
+<td align="right">220</td>
 <td><a href="https://github.com/sarxos"><img src="https://avatars.githubusercontent.com/u/472658?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sarxos"><b>Bartosz Firyn</b></a><br><sub>&#64;sarxos</sub></td>
 <td align="right"><b>339</b></td>
 <td align="right">0</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
-<td align="right">190</td>
+<td align="right">221</td>
 <td><a href="https://github.com/przemyslawzaworski"><img src="https://avatars.githubusercontent.com/u/22749729?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/przemyslawzaworski"><b>Przemyslaw Zaworski</b></a><br><sub>&#64;przemyslawzaworski</sub></td>
 <td align="right"><b>331</b></td>
 <td align="right">0</td>
 <td><sub>Poland - Lodz (Łódź)</sub></td>
 </tr>
 <tr>
-<td align="right">191</td>
+<td align="right">222</td>
 <td><a href="https://github.com/pawelsalawa"><img src="https://avatars.githubusercontent.com/u/481846?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pawelsalawa"><b>Paweł Salawa</b></a><br><sub>&#64;pawelsalawa</sub></td>
 <td align="right"><b>327</b></td>
 <td align="right">0</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
-<td align="right">192</td>
+<td align="right">223</td>
 <td><a href="https://github.com/cube2222"><img src="https://avatars.githubusercontent.com/u/7013055?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cube2222"><b>Kuba Martin</b></a><br><sub>&#64;cube2222</sub></td>
 <td align="right"><b>325</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">193</td>
+<td align="right">224</td>
 <td><a href="https://github.com/tporadowski"><img src="https://avatars.githubusercontent.com/u/6212622?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tporadowski"><b>Tomasz Poradowski</b></a><br><sub>&#64;tporadowski</sub></td>
 <td align="right"><b>325</b></td>
 <td align="right">0</td>
 <td><sub>Bielsko-Biała, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">194</td>
+<td align="right">225</td>
 <td><a href="https://github.com/dzikoysk"><img src="https://avatars.githubusercontent.com/u/4235722?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dzikoysk"><b>dzikoysk</b></a><br><sub>&#64;dzikoysk</sub></td>
 <td align="right"><b>323</b></td>
 <td align="right">0</td>
 <td><sub>Poland, Warsaw</sub></td>
 </tr>
 <tr>
-<td align="right">195</td>
+<td align="right">226</td>
 <td><a href="https://github.com/GetPublii"><img src="https://avatars.githubusercontent.com/u/24809704?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GetPublii"><b>Publii</b></a><br><sub>&#64;GetPublii</sub></td>
 <td align="right"><b>321</b></td>
 <td align="right">0</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
-<td align="right">196</td>
+<td align="right">227</td>
 <td><a href="https://github.com/piotrkulpinski"><img src="https://avatars.githubusercontent.com/u/358412?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/piotrkulpinski"><b>Piotr Kulpinski</b></a><br><sub>&#64;piotrkulpinski</sub></td>
 <td align="right"><b>303</b></td>
 <td align="right">0</td>
 <td><sub>Krakow, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">197</td>
+<td align="right">228</td>
 <td><a href="https://github.com/mthenw"><img src="https://avatars.githubusercontent.com/u/455261?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mthenw"><b>Maciej Winnicki</b></a><br><sub>&#64;mthenw</sub></td>
 <td align="right"><b>291</b></td>
 <td align="right">0</td>
 <td><sub>Poznań, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">198</td>
+<td align="right">229</td>
 <td><a href="https://github.com/rafalp"><img src="https://avatars.githubusercontent.com/u/750553?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rafalp"><b>Rafał Pitoń</b></a><br><sub>&#64;rafalp</sub></td>
 <td align="right"><b>280</b></td>
 <td align="right">0</td>
 <td><sub>Poland/Wrocław</sub></td>
 </tr>
 <tr>
-<td align="right">199</td>
+<td align="right">230</td>
 <td><a href="https://github.com/dbacinski"><img src="https://avatars.githubusercontent.com/u/454414?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dbacinski"><b>Dariusz Baciński</b></a><br><sub>&#64;dbacinski</sub></td>
 <td align="right"><b>279</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw</sub></td>
 </tr>
 <tr>
-<td align="right">200</td>
+<td align="right">231</td>
 <td><a href="https://github.com/Idered"><img src="https://avatars.githubusercontent.com/u/230404?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Idered"><b>Kasper Mikiewicz</b></a><br><sub>&#64;Idered</sub></td>
 <td align="right"><b>269</b></td>
 <td align="right">0</td>
 <td><sub>Białystok, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">201</td>
+<td align="right">232</td>
 <td><a href="https://github.com/ZieIony"><img src="https://avatars.githubusercontent.com/u/10180628?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ZieIony"><b>ZieIony</b></a><br><sub>&#64;ZieIony</sub></td>
 <td align="right"><b>267</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw</sub></td>
 </tr>
 <tr>
-<td align="right">202</td>
+<td align="right">233</td>
 <td><a href="https://github.com/wolfgarbe"><img src="https://avatars.githubusercontent.com/u/7057583?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wolfgarbe"><b>Wolf Garbe</b></a><br><sub>&#64;wolfgarbe</sub></td>
 <td align="right"><b>265</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">203</td>
+<td align="right">234</td>
 <td><a href="https://github.com/jezen"><img src="https://avatars.githubusercontent.com/u/1926747?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jezen"><b>Jezen Thomas</b></a><br><sub>&#64;jezen</sub></td>
 <td align="right"><b>258</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">204</td>
+<td align="right">235</td>
 <td><a href="https://github.com/karolpiczak"><img src="https://avatars.githubusercontent.com/u/215618?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/karolpiczak"><b>Karol Piczak</b></a><br><sub>&#64;karolpiczak</sub></td>
 <td align="right"><b>256</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">205</td>
+<td align="right">236</td>
 <td><a href="https://github.com/Air14"><img src="https://avatars.githubusercontent.com/u/34422030?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Air14"><b>Air</b></a><br><sub>&#64;Air14</sub></td>
 <td align="right"><b>254</b></td>
 <td align="right">0</td>
 <td><sub>Poland, Wrocław</sub></td>
 </tr>
 <tr>
-<td align="right">206</td>
+<td align="right">237</td>
 <td><a href="https://github.com/mcharmas"><img src="https://avatars.githubusercontent.com/u/57128?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mcharmas"><b>Michał Charmas</b></a><br><sub>&#64;mcharmas</sub></td>
 <td align="right"><b>252</b></td>
 <td align="right">0</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
-<td align="right">207</td>
+<td align="right">238</td>
 <td><a href="https://github.com/veelenga"><img src="https://avatars.githubusercontent.com/u/3624712?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/veelenga"><b>Vitalii Elenhaupt</b></a><br><sub>&#64;veelenga</sub></td>
 <td align="right"><b>249</b></td>
 <td align="right">0</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
-<td align="right">208</td>
+<td align="right">239</td>
 <td><a href="https://github.com/lutfumertceylan"><img src="https://avatars.githubusercontent.com/u/53023641?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lutfumertceylan"><b>Lütfü Mert Ceylan</b></a><br><sub>&#64;lutfumertceylan</sub></td>
 <td align="right"><b>242</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw</sub></td>
 </tr>
 <tr>
-<td align="right">209</td>
+<td align="right">240</td>
 <td><a href="https://github.com/aradzie"><img src="https://avatars.githubusercontent.com/u/44386?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aradzie"><b>Aliaksandr Radzivanovich</b></a><br><sub>&#64;aradzie</sub></td>
 <td align="right"><b>237</b></td>
 <td align="right">0</td>
 <td><sub>Kraków, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">210</td>
+<td align="right">241</td>
+<td><a href="https://github.com/w84death"><img src="https://avatars.githubusercontent.com/u/2567162?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/w84death"><b>Krzysztof Krystian Jankowski</b></a><br><sub>&#64;w84death</sub></td>
+<td align="right"><b>234</b></td>
+<td align="right">0</td>
+<td><sub>Poland</sub></td>
+</tr>
+<tr>
+<td align="right">242</td>
 <td><a href="https://github.com/nabijaczleweli"><img src="https://avatars.githubusercontent.com/u/6709544?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nabijaczleweli"><b>наб</b></a><br><sub>&#64;nabijaczleweli</sub></td>
 <td align="right"><b>232</b></td>
 <td align="right">0</td>
 <td><sub>Kraków, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">211</td>
+<td align="right">243</td>
+<td><a href="https://github.com/pepe2k"><img src="https://avatars.githubusercontent.com/u/2934612?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pepe2k"><b>Piotr Dymacz</b></a><br><sub>&#64;pepe2k</sub></td>
+<td align="right"><b>227</b></td>
+<td align="right">0</td>
+<td><sub>Warsaw, Poland</sub></td>
+</tr>
+<tr>
+<td align="right">244</td>
 <td><a href="https://github.com/kmkolasinski"><img src="https://avatars.githubusercontent.com/u/10145864?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kmkolasinski"><b>Krzysztof Kolasinski</b></a><br><sub>&#64;kmkolasinski</sub></td>
 <td align="right"><b>225</b></td>
 <td align="right">0</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
-<td align="right">212</td>
+<td align="right">245</td>
 <td><a href="https://github.com/AgaMiko"><img src="https://avatars.githubusercontent.com/u/20025059?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AgaMiko"><b>Agnieszka Mikołajczyk</b></a><br><sub>&#64;AgaMiko</sub></td>
 <td align="right"><b>224</b></td>
 <td align="right">0</td>
 <td><sub>Gdańsk</sub></td>
 </tr>
 <tr>
-<td align="right">213</td>
+<td align="right">246</td>
+<td><a href="https://github.com/mobily"><img src="https://avatars.githubusercontent.com/u/1467712?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mobily"><b>Marcin Dziewulski</b></a><br><sub>&#64;mobily</sub></td>
+<td align="right"><b>224</b></td>
+<td align="right">0</td>
+<td><sub>Warsaw</sub></td>
+</tr>
+<tr>
+<td align="right">247</td>
 <td><a href="https://github.com/ashleve"><img src="https://avatars.githubusercontent.com/u/43458894?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ashleve"><b>ashleve</b></a><br><sub>&#64;ashleve</sub></td>
 <td align="right"><b>221</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw</sub></td>
 </tr>
 <tr>
-<td align="right">214</td>
+<td align="right">248</td>
 <td><a href="https://github.com/t3chnoboy"><img src="https://avatars.githubusercontent.com/u/2552790?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/t3chnoboy"><b>Dmitry Mazuro</b></a><br><sub>&#64;t3chnoboy</sub></td>
 <td align="right"><b>217</b></td>
 <td align="right">0</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
-<td align="right">215</td>
+<td align="right">249</td>
 <td><a href="https://github.com/MichalDanielDobrzanski"><img src="https://avatars.githubusercontent.com/u/16417787?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MichalDanielDobrzanski"><b>Michał Dobrzanski</b></a><br><sub>&#64;MichalDanielDobrzanski</sub></td>
 <td align="right"><b>213</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">216</td>
+<td align="right">250</td>
 <td><a href="https://github.com/alufers"><img src="https://avatars.githubusercontent.com/u/5400940?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alufers"><b>Albert Koczy</b></a><br><sub>&#64;alufers</sub></td>
 <td align="right"><b>208</b></td>
 <td align="right">0</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
-<td align="right">217</td>
+<td align="right">251</td>
 <td><a href="https://github.com/Nadrin"><img src="https://avatars.githubusercontent.com/u/615654?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nadrin"><b>Michał Siejak</b></a><br><sub>&#64;Nadrin</sub></td>
 <td align="right"><b>206</b></td>
 <td align="right">0</td>
 <td><sub>Poznań, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">218</td>
+<td align="right">252</td>
+<td><a href="https://github.com/michalchudziak"><img src="https://avatars.githubusercontent.com/u/7837457?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/michalchudziak"><b>Michał Chudziak</b></a><br><sub>&#64;michalchudziak</sub></td>
+<td align="right"><b>203</b></td>
+<td align="right">0</td>
+<td><sub>Wrocław</sub></td>
+</tr>
+<tr>
+<td align="right">253</td>
 <td><a href="https://github.com/Noniv"><img src="https://avatars.githubusercontent.com/u/80125277?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Noniv"><b>Maksymilian Dendura</b></a><br><sub>&#64;Noniv</sub></td>
 <td align="right"><b>195</b></td>
 <td align="right">0</td>
 <td><sub>Rzeszów</sub></td>
 </tr>
 <tr>
-<td align="right">219</td>
+<td align="right">254</td>
 <td><a href="https://github.com/ciembor"><img src="https://avatars.githubusercontent.com/u/702108?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ciembor"><b>Maciej Ciemborowicz</b></a><br><sub>&#64;ciembor</sub></td>
 <td align="right"><b>193</b></td>
 <td align="right">0</td>
 <td><sub>Kraków, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">220</td>
+<td align="right">255</td>
 <td><a href="https://github.com/feimosi"><img src="https://avatars.githubusercontent.com/u/5721520?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/feimosi"><b>Marek Grzybek</b></a><br><sub>&#64;feimosi</sub></td>
 <td align="right"><b>193</b></td>
 <td align="right">0</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
-<td align="right">221</td>
+<td align="right">256</td>
 <td><a href="https://github.com/Psyhackological"><img src="https://avatars.githubusercontent.com/u/47569716?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Psyhackological"><b>Konrad Konieczny</b></a><br><sub>&#64;Psyhackological</sub></td>
 <td align="right"><b>192</b></td>
 <td align="right">0</td>
 <td><sub>Wrocław, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">222</td>
+<td align="right">257</td>
+<td><a href="https://github.com/ad-m"><img src="https://avatars.githubusercontent.com/u/3618479?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ad-m"><b>Adam Dobrawy</b></a><br><sub>&#64;ad-m</sub></td>
+<td align="right"><b>190</b></td>
+<td align="right">0</td>
+<td><sub>Warsaw, Poland</sub></td>
+</tr>
+<tr>
+<td align="right">258</td>
 <td><a href="https://github.com/krzjoa"><img src="https://avatars.githubusercontent.com/u/17183113?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/krzjoa"><b>Krzysztof Joachimiak</b></a><br><sub>&#64;krzjoa</sub></td>
 <td align="right"><b>187</b></td>
 <td align="right">0</td>
 <td><sub>Poznań, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">223</td>
+<td align="right">259</td>
+<td><a href="https://github.com/Polprzewodnikowy"><img src="https://avatars.githubusercontent.com/u/3756990?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Polprzewodnikowy"><b>Mateusz Faderewski</b></a><br><sub>&#64;Polprzewodnikowy</sub></td>
+<td align="right"><b>185</b></td>
+<td align="right">0</td>
+<td><sub>Poland, Warsaw</sub></td>
+</tr>
+<tr>
+<td align="right">260</td>
 <td><a href="https://github.com/av"><img src="https://avatars.githubusercontent.com/u/38184623?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/av"><b>Ivan Charapanau</b></a><br><sub>&#64;av</sub></td>
 <td align="right"><b>184</b></td>
 <td align="right">0</td>
 <td><sub>Warszawa</sub></td>
 </tr>
 <tr>
-<td align="right">224</td>
+<td align="right">261</td>
+<td><a href="https://github.com/retyui"><img src="https://avatars.githubusercontent.com/u/4661784?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/retyui"><b>Davyd NRB</b></a><br><sub>&#64;retyui</sub></td>
+<td align="right"><b>184</b></td>
+<td align="right">0</td>
+<td><sub>Poland</sub></td>
+</tr>
+<tr>
+<td align="right">262</td>
+<td><a href="https://github.com/ExeinfoASL"><img src="https://avatars.githubusercontent.com/u/58791357?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ExeinfoASL"><b>ASL</b></a><br><sub>&#64;ExeinfoASL</sub></td>
+<td align="right"><b>179</b></td>
+<td align="right">0</td>
+<td><sub>Poland</sub></td>
+</tr>
+<tr>
+<td align="right">263</td>
 <td><a href="https://github.com/awawa-dev"><img src="https://avatars.githubusercontent.com/u/69086569?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/awawa-dev"><b>Awawa</b></a><br><sub>&#64;awawa-dev</sub></td>
 <td align="right"><b>176</b></td>
 <td align="right">0</td>
 <td><sub>Poland, Warszawa</sub></td>
 </tr>
 <tr>
-<td align="right">225</td>
+<td align="right">264</td>
 <td><a href="https://github.com/szwacz"><img src="https://avatars.githubusercontent.com/u/4573903?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/szwacz"><b>Jakub Szwacz</b></a><br><sub>&#64;szwacz</sub></td>
 <td align="right"><b>175</b></td>
 <td align="right">0</td>
 <td><sub>Kraków, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">226</td>
+<td align="right">265</td>
 <td><a href="https://github.com/aleksanderwozniak"><img src="https://avatars.githubusercontent.com/u/22658673?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aleksanderwozniak"><b>Aleksander Woźniak</b></a><br><sub>&#64;aleksanderwozniak</sub></td>
 <td align="right"><b>173</b></td>
 <td align="right">0</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
-<td align="right">227</td>
+<td align="right">266</td>
 <td><a href="https://github.com/f1xpl"><img src="https://avatars.githubusercontent.com/u/20688442?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/f1xpl"><b>Michal Szwaj</b></a><br><sub>&#64;f1xpl</sub></td>
 <td align="right"><b>171</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">228</td>
+<td align="right">267</td>
 <td><a href="https://github.com/pch"><img src="https://avatars.githubusercontent.com/u/9818?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pch"><b>Piotr Chmolowski</b></a><br><sub>&#64;pch</sub></td>
 <td align="right"><b>171</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">229</td>
+<td align="right">268</td>
+<td><a href="https://github.com/xFFFFF"><img src="https://avatars.githubusercontent.com/u/35547536?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xFFFFF"><b>Filip la Gre</b></a><br><sub>&#64;xFFFFF</sub></td>
+<td align="right"><b>167</b></td>
+<td align="right">0</td>
+<td><sub>Poland</sub></td>
+</tr>
+<tr>
+<td align="right">269</td>
 <td><a href="https://github.com/mimecorg"><img src="https://avatars.githubusercontent.com/u/36986002?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mimecorg"><b>Michał Męciński</b></a><br><sub>&#64;mimecorg</sub></td>
 <td align="right"><b>165</b></td>
 <td align="right">0</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
-<td align="right">230</td>
+<td align="right">270</td>
 <td><a href="https://github.com/mikolajdobrucki"><img src="https://avatars.githubusercontent.com/u/5467602?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikolajdobrucki"><b>Mikolaj Dobrucki</b></a><br><sub>&#64;mikolajdobrucki</sub></td>
 <td align="right"><b>163</b></td>
 <td align="right">0</td>
 <td><sub>Kraków, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">231</td>
+<td align="right">271</td>
 <td><a href="https://github.com/mpiorowski"><img src="https://avatars.githubusercontent.com/u/26543876?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mpiorowski"><b>Mateusz Piórowski</b></a><br><sub>&#64;mpiorowski</sub></td>
 <td align="right"><b>160</b></td>
 <td align="right">0</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
-<td align="right">232</td>
+<td align="right">272</td>
 <td><a href="https://github.com/YaroslavGaponov"><img src="https://avatars.githubusercontent.com/u/1457386?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YaroslavGaponov"><b>Yaroslav Gaponov</b></a><br><sub>&#64;YaroslavGaponov</sub></td>
 <td align="right"><b>159</b></td>
 <td align="right">0</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
-<td align="right">233</td>
+<td align="right">273</td>
+<td><a href="https://github.com/wende"><img src="https://avatars.githubusercontent.com/u/4634386?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wende"><b>Krzysztof Wende</b></a><br><sub>&#64;wende</sub></td>
+<td align="right"><b>158</b></td>
+<td align="right">0</td>
+<td><sub>Kraków, Poland</sub></td>
+</tr>
+<tr>
+<td align="right">274</td>
+<td><a href="https://github.com/damian-kolakowski"><img src="https://avatars.githubusercontent.com/u/492449?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/damian-kolakowski"><b>Damian Kołakowski</b></a><br><sub>&#64;damian-kolakowski</sub></td>
+<td align="right"><b>156</b></td>
+<td align="right">0</td>
+<td><sub>Warsaw, Poland</sub></td>
+</tr>
+<tr>
+<td align="right">275</td>
 <td><a href="https://github.com/mczachurski"><img src="https://avatars.githubusercontent.com/u/6191974?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mczachurski"><b>Marcin Czachurski</b></a><br><sub>&#64;mczachurski</sub></td>
 <td align="right"><b>155</b></td>
 <td align="right">0</td>
 <td><sub>Wrocław, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">234</td>
+<td align="right">276</td>
+<td><a href="https://github.com/kgabis"><img src="https://avatars.githubusercontent.com/u/635855?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kgabis"><b>Krzysztof Gabis</b></a><br><sub>&#64;kgabis</sub></td>
+<td align="right"><b>152</b></td>
+<td align="right">0</td>
+<td><sub>Warsaw, Poland</sub></td>
+</tr>
+<tr>
+<td align="right">277</td>
+<td><a href="https://github.com/desowin"><img src="https://avatars.githubusercontent.com/u/1053087?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/desowin"><b>Tomasz Moń</b></a><br><sub>&#64;desowin</sub></td>
+<td align="right"><b>147</b></td>
+<td align="right">0</td>
+<td><sub>Wrocław, Poland</sub></td>
+</tr>
+<tr>
+<td align="right">278</td>
+<td><a href="https://github.com/tegnike"><img src="https://avatars.githubusercontent.com/u/35606144?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tegnike"><b>ニケちゃん / nikechan</b></a><br><sub>&#64;tegnike</sub></td>
+<td align="right"><b>147</b></td>
+<td align="right">0</td>
+<td><sub>Poland</sub></td>
+</tr>
+<tr>
+<td align="right">279</td>
 <td><a href="https://github.com/Friz-zy"><img src="https://avatars.githubusercontent.com/u/870618?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Friz-zy"><b>Filipp Frizzy</b></a><br><sub>&#64;Friz-zy</sub></td>
 <td align="right"><b>146</b></td>
 <td align="right">0</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
-<td align="right">235</td>
+<td align="right">280</td>
 <td><a href="https://github.com/klonyyy"><img src="https://avatars.githubusercontent.com/u/10755893?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/klonyyy"><b>Piotr Wasilewski</b></a><br><sub>&#64;klonyyy</sub></td>
 <td align="right"><b>142</b></td>
 <td align="right">0</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
-<td align="right">236</td>
+<td align="right">281</td>
+<td><a href="https://github.com/zaps166"><img src="https://avatars.githubusercontent.com/u/6239090?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zaps166"><b>Błażej Szczygieł</b></a><br><sub>&#64;zaps166</sub></td>
+<td align="right"><b>138</b></td>
+<td align="right">0</td>
+<td><sub>Poland</sub></td>
+</tr>
+<tr>
+<td align="right">282</td>
 <td><a href="https://github.com/niespodd"><img src="https://avatars.githubusercontent.com/u/746448?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/niespodd"><b>Dariusz Niespodziany</b></a><br><sub>&#64;niespodd</sub></td>
 <td align="right"><b>133</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">237</td>
+<td align="right">283</td>
 <td><a href="https://github.com/neuronetio"><img src="https://avatars.githubusercontent.com/u/25027696?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/neuronetio"><b>neuronet</b></a><br><sub>&#64;neuronetio</sub></td>
 <td align="right"><b>131</b></td>
 <td align="right">0</td>
 <td><sub>Poland, Kalisz</sub></td>
 </tr>
 <tr>
-<td align="right">238</td>
+<td align="right">284</td>
 <td><a href="https://github.com/razorjack"><img src="https://avatars.githubusercontent.com/u/26290?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/razorjack"><b>Jacek Galanciak</b></a><br><sub>&#64;razorjack</sub></td>
 <td align="right"><b>131</b></td>
 <td align="right">0</td>
 <td><sub>Poland, Łódź</sub></td>
 </tr>
 <tr>
-<td align="right">239</td>
+<td align="right">285</td>
 <td><a href="https://github.com/the-moonwitch"><img src="https://avatars.githubusercontent.com/u/35173529?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/the-moonwitch"><b>samhain</b></a><br><sub>&#64;the-moonwitch</sub></td>
 <td align="right"><b>130</b></td>
 <td align="right">0</td>
 <td><sub>Wrocław, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">240</td>
+<td align="right">286</td>
+<td><a href="https://github.com/trekawek"><img src="https://avatars.githubusercontent.com/u/142138?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/trekawek"><b>Tomek Rekawek</b></a><br><sub>&#64;trekawek</sub></td>
+<td align="right"><b>128</b></td>
+<td align="right">0</td>
+<td><sub>Poznań, Polska</sub></td>
+</tr>
+<tr>
+<td align="right">287</td>
 <td><a href="https://github.com/66HEX"><img src="https://avatars.githubusercontent.com/u/168720167?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/66HEX"><b>Marek Jóźwiak</b></a><br><sub>&#64;66HEX</sub></td>
 <td align="right"><b>126</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw</sub></td>
 </tr>
 <tr>
-<td align="right">241</td>
+<td align="right">288</td>
+<td><a href="https://github.com/bernii"><img src="https://avatars.githubusercontent.com/u/778717?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bernii"><b>Bernard Kobos</b></a><br><sub>&#64;bernii</sub></td>
+<td align="right"><b>126</b></td>
+<td align="right">0</td>
+<td><sub>Warsaw, Poland</sub></td>
+</tr>
+<tr>
+<td align="right">289</td>
 <td><a href="https://github.com/mkrl"><img src="https://avatars.githubusercontent.com/u/18409292?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mkrl"><b>Misha</b></a><br><sub>&#64;mkrl</sub></td>
 <td align="right"><b>124</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">242</td>
+<td align="right">290</td>
 <td><a href="https://github.com/TheLastGimbus"><img src="https://avatars.githubusercontent.com/u/40139196?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TheLastGimbus"><b>Mateusz Soszyński</b></a><br><sub>&#64;TheLastGimbus</sub></td>
 <td align="right"><b>122</b></td>
 <td align="right">0</td>
 <td><sub>Poland, Wrocław</sub></td>
 </tr>
 <tr>
-<td align="right">243</td>
+<td align="right">291</td>
 <td><a href="https://github.com/wuub"><img src="https://avatars.githubusercontent.com/u/588857?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wuub"><b>Wojciech Bederski</b></a><br><sub>&#64;wuub</sub></td>
 <td align="right"><b>119</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">244</td>
+<td align="right">292</td>
 <td><a href="https://github.com/SpacingBat3"><img src="https://avatars.githubusercontent.com/u/57194920?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SpacingBat3"><b>SpacingBat3</b></a><br><sub>&#64;SpacingBat3</sub></td>
 <td align="right"><b>118</b></td>
 <td align="right">0</td>
 <td><sub>🇵🇱️ Poland</sub></td>
 </tr>
 <tr>
-<td align="right">245</td>
+<td align="right">293</td>
+<td><a href="https://github.com/cyberspacedk"><img src="https://avatars.githubusercontent.com/u/44088176?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cyberspacedk"><b>Dmytro</b></a><br><sub>&#64;cyberspacedk</sub></td>
+<td align="right"><b>117</b></td>
+<td align="right">0</td>
+<td><sub>Poland</sub></td>
+</tr>
+<tr>
+<td align="right">294</td>
 <td><a href="https://github.com/rexdex"><img src="https://avatars.githubusercontent.com/u/8012205?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rexdex"><b>Rex Dex</b></a><br><sub>&#64;rexdex</sub></td>
 <td align="right"><b>111</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">246</td>
+<td align="right">295</td>
 <td><a href="https://github.com/jacklul"><img src="https://avatars.githubusercontent.com/u/8418678?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jacklul"><b>Jack&#39;lul</b></a><br><sub>&#64;jacklul</sub></td>
 <td align="right"><b>110</b></td>
 <td align="right">0</td>
 <td><sub>Katowice, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">247</td>
+<td align="right">296</td>
 <td><a href="https://github.com/burczyk"><img src="https://avatars.githubusercontent.com/u/1155763?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/burczyk"><b>Kamil Burczyk</b></a><br><sub>&#64;burczyk</sub></td>
 <td align="right"><b>109</b></td>
 <td align="right">0</td>
 <td><sub>Kraków, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">248</td>
+<td align="right">297</td>
+<td><a href="https://github.com/rjaros"><img src="https://avatars.githubusercontent.com/u/5646804?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rjaros"><b>Robert Jaros</b></a><br><sub>&#64;rjaros</sub></td>
+<td align="right"><b>108</b></td>
+<td align="right">0</td>
+<td><sub>Poland</sub></td>
+</tr>
+<tr>
+<td align="right">298</td>
 <td><a href="https://github.com/mciastek"><img src="https://avatars.githubusercontent.com/u/3169629?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mciastek"><b>Mirek Ciastek</b></a><br><sub>&#64;mciastek</sub></td>
 <td align="right"><b>107</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw</sub></td>
 </tr>
 <tr>
-<td align="right">249</td>
+<td align="right">299</td>
 <td><a href="https://github.com/amis92"><img src="https://avatars.githubusercontent.com/u/2671396?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amis92"><b>Amadeusz Sadowski</b></a><br><sub>&#64;amis92</sub></td>
 <td align="right"><b>106</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw, Poland, EU</sub></td>
 </tr>
 <tr>
-<td align="right">250</td>
+<td align="right">300</td>
 <td><a href="https://github.com/bkaankose"><img src="https://avatars.githubusercontent.com/u/12009960?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bkaankose"><b>Burak Kaan Köse</b></a><br><sub>&#64;bkaankose</sub></td>
 <td align="right"><b>102</b></td>
 <td align="right">0</td>
 <td><sub>Wroclaw, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">251</td>
+<td align="right">301</td>
+<td><a href="https://github.com/damklis"><img src="https://avatars.githubusercontent.com/u/43547278?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/damklis"><b>damklis</b></a><br><sub>&#64;damklis</sub></td>
+<td align="right"><b>99</b></td>
+<td align="right">0</td>
+<td><sub>Poland</sub></td>
+</tr>
+<tr>
+<td align="right">302</td>
 <td><a href="https://github.com/bblimke"><img src="https://avatars.githubusercontent.com/u/15547?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bblimke"><b>Bartosz Blimke</b></a><br><sub>&#64;bblimke</sub></td>
 <td align="right"><b>95</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw</sub></td>
 </tr>
 <tr>
-<td align="right">252</td>
+<td align="right">303</td>
+<td><a href="https://github.com/ecosse3"><img src="https://avatars.githubusercontent.com/u/17691791?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ecosse3"><b>Łukasz Kurpiewski</b></a><br><sub>&#64;ecosse3</sub></td>
+<td align="right"><b>94</b></td>
+<td align="right">0</td>
+<td><sub>Warsaw, Poland</sub></td>
+</tr>
+<tr>
+<td align="right">304</td>
 <td><a href="https://github.com/szczyglis-dev"><img src="https://avatars.githubusercontent.com/u/61396542?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/szczyglis-dev"><b>Marcin Szczygliński</b></a><br><sub>&#64;szczyglis-dev</sub></td>
 <td align="right"><b>94</b></td>
 <td align="right">0</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
-<td align="right">253</td>
+<td align="right">305</td>
 <td><a href="https://github.com/tsayen"><img src="https://avatars.githubusercontent.com/u/1733236?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tsayen"><b>Anatolii Saienko</b></a><br><sub>&#64;tsayen</sub></td>
 <td align="right"><b>93</b></td>
 <td align="right">0</td>
 <td><sub>Wroclaw, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">254</td>
+<td align="right">306</td>
 <td><a href="https://github.com/bartblast"><img src="https://avatars.githubusercontent.com/u/1173965?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bartblast"><b>Bart Blast</b></a><br><sub>&#64;bartblast</sub></td>
 <td align="right"><b>92</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">255</td>
+<td align="right">307</td>
 <td><a href="https://github.com/konradhalas"><img src="https://avatars.githubusercontent.com/u/101077?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/konradhalas"><b>Konrad Hałas</b></a><br><sub>&#64;konradhalas</sub></td>
 <td align="right"><b>91</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">256</td>
+<td align="right">308</td>
+<td><a href="https://github.com/mikigal"><img src="https://avatars.githubusercontent.com/u/10632503?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikigal"><b>Mikołaj Gałązka</b></a><br><sub>&#64;mikigal</sub></td>
+<td align="right"><b>90</b></td>
+<td align="right">0</td>
+<td><sub>Poland</sub></td>
+</tr>
+<tr>
+<td align="right">309</td>
+<td><a href="https://github.com/panrafal"><img src="https://avatars.githubusercontent.com/u/1268900?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/panrafal"><b>Rafał Lindemann</b></a><br><sub>&#64;panrafal</sub></td>
+<td align="right"><b>90</b></td>
+<td align="right">0</td>
+<td><sub>Warsaw, Poland</sub></td>
+</tr>
+<tr>
+<td align="right">310</td>
 <td><a href="https://github.com/Toni77777"><img src="https://avatars.githubusercontent.com/u/16867601?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Toni77777"><b>Anton Paliakov</b></a><br><sub>&#64;Toni77777</sub></td>
 <td align="right"><b>88</b></td>
 <td align="right">0</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
-<td align="right">257</td>
+<td align="right">311</td>
+<td><a href="https://github.com/asapach"><img src="https://avatars.githubusercontent.com/u/1755336?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asapach"><b>Aliaksei Sapach</b></a><br><sub>&#64;asapach</sub></td>
+<td align="right"><b>82</b></td>
+<td align="right">0</td>
+<td><sub>Krakow, Poland</sub></td>
+</tr>
+<tr>
+<td align="right">312</td>
 <td><a href="https://github.com/pawelmalak"><img src="https://avatars.githubusercontent.com/u/24780509?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pawelmalak"><b>pawelmalak</b></a><br><sub>&#64;pawelmalak</sub></td>
 <td align="right"><b>72</b></td>
 <td align="right">0</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
-<td align="right">258</td>
+<td align="right">313</td>
 <td><a href="https://github.com/Kruszoneq"><img src="https://avatars.githubusercontent.com/u/83231322?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kruszoneq"><b>Krystian Pierz</b></a><br><sub>&#64;Kruszoneq</sub></td>
 <td align="right"><b>71</b></td>
 <td align="right">0</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
-<td align="right">259</td>
+<td align="right">314</td>
 <td><a href="https://github.com/lysyi3m"><img src="https://avatars.githubusercontent.com/u/1247371?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lysyi3m"><b>Emil Kashkevich</b></a><br><sub>&#64;lysyi3m</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">260</td>
+<td align="right">315</td>
 <td><a href="https://github.com/Scony"><img src="https://avatars.githubusercontent.com/u/1207385?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Scony"><b>Pawel Lampe</b></a><br><sub>&#64;Scony</sub></td>
 <td align="right"><b>68</b></td>
 <td align="right">0</td>
 <td><sub>Wroclaw, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">261</td>
+<td align="right">316</td>
+<td><a href="https://github.com/marcinz606"><img src="https://avatars.githubusercontent.com/u/99659443?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marcinz606"><b>marcinz606</b></a><br><sub>&#64;marcinz606</sub></td>
+<td align="right"><b>65</b></td>
+<td align="right">0</td>
+<td><sub>Poland</sub></td>
+</tr>
+<tr>
+<td align="right">317</td>
 <td><a href="https://github.com/markondej"><img src="https://avatars.githubusercontent.com/u/11423986?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/markondej"><b>Marcin Kondej</b></a><br><sub>&#64;markondej</sub></td>
 <td align="right"><b>65</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw</sub></td>
 </tr>
 <tr>
-<td align="right">262</td>
+<td align="right">318</td>
 <td><a href="https://github.com/wowu"><img src="https://avatars.githubusercontent.com/u/6865958?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wowu"><b>Karol Musur</b></a><br><sub>&#64;wowu</sub></td>
 <td align="right"><b>64</b></td>
 <td align="right">0</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
-<td align="right">263</td>
+<td align="right">319</td>
+<td><a href="https://github.com/raznem"><img src="https://avatars.githubusercontent.com/u/43044718?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/raznem"><b>Misha Zanka</b></a><br><sub>&#64;raznem</sub></td>
+<td align="right"><b>59</b></td>
+<td align="right">0</td>
+<td><sub>Warsaw</sub></td>
+</tr>
+<tr>
+<td align="right">320</td>
 <td><a href="https://github.com/CezaryKopacz"><img src="https://avatars.githubusercontent.com/u/5426060?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CezaryKopacz"><b>Cezary Kopacz</b></a><br><sub>&#64;CezaryKopacz</sub></td>
 <td align="right"><b>58</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw</sub></td>
 </tr>
 <tr>
-<td align="right">264</td>
+<td align="right">321</td>
 <td><a href="https://github.com/toddams"><img src="https://avatars.githubusercontent.com/u/6703574?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/toddams"><b>Ivan Balan</b></a><br><sub>&#64;toddams</sub></td>
 <td align="right"><b>54</b></td>
 <td align="right">0</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
-<td align="right">265</td>
+<td align="right">322</td>
 <td><a href="https://github.com/arimger"><img src="https://avatars.githubusercontent.com/u/38333645?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arimger"><b>Miłosz Matkowski</b></a><br><sub>&#64;arimger</sub></td>
 <td align="right"><b>52</b></td>
 <td align="right">0</td>
 <td><sub>Wrocław, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">266</td>
+<td align="right">323</td>
+<td><a href="https://github.com/lukaszflorczak"><img src="https://avatars.githubusercontent.com/u/1818979?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lukaszflorczak"><b>Łukasz Florczak</b></a><br><sub>&#64;lukaszflorczak</sub></td>
+<td align="right"><b>51</b></td>
+<td align="right">0</td>
+<td><sub>Poland</sub></td>
+</tr>
+<tr>
+<td align="right">324</td>
 <td><a href="https://github.com/ApmeM"><img src="https://avatars.githubusercontent.com/u/669434?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ApmeM"><b>Artem Votintsev</b></a><br><sub>&#64;ApmeM</sub></td>
 <td align="right"><b>50</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">267</td>
+<td align="right">325</td>
 <td><a href="https://github.com/witoldsz"><img src="https://avatars.githubusercontent.com/u/544581?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/witoldsz"><b>Witold Szczerba</b></a><br><sub>&#64;witoldsz</sub></td>
 <td align="right"><b>50</b></td>
 <td align="right">0</td>
 <td><sub>Poznań, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">268</td>
+<td align="right">326</td>
+<td><a href="https://github.com/robertwijas"><img src="https://avatars.githubusercontent.com/u/154113?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/robertwijas"><b>Robert Wijas</b></a><br><sub>&#64;robertwijas</sub></td>
+<td align="right"><b>49</b></td>
+<td align="right">0</td>
+<td><sub>Poland</sub></td>
+</tr>
+<tr>
+<td align="right">327</td>
+<td><a href="https://github.com/seniv"><img src="https://avatars.githubusercontent.com/u/18112951?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/seniv"><b>Ivan Seniv</b></a><br><sub>&#64;seniv</sub></td>
+<td align="right"><b>47</b></td>
+<td align="right">0</td>
+<td><sub>Katowice, Poland</sub></td>
+</tr>
+<tr>
+<td align="right">328</td>
 <td><a href="https://github.com/kffl"><img src="https://avatars.githubusercontent.com/u/34161459?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kffl"><b>Paweł Kuffel</b></a><br><sub>&#64;kffl</sub></td>
 <td align="right"><b>45</b></td>
 <td align="right">0</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
-<td align="right">269</td>
+<td align="right">329</td>
 <td><a href="https://github.com/velesin"><img src="https://avatars.githubusercontent.com/u/241243?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/velesin"><b>Wojciech Zawistowski</b></a><br><sub>&#64;velesin</sub></td>
 <td align="right"><b>45</b></td>
 <td align="right">0</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
-<td align="right">270</td>
+<td align="right">330</td>
+<td><a href="https://github.com/sc0ty"><img src="https://avatars.githubusercontent.com/u/1812478?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sc0ty"><b>Mike Szymaniak</b></a><br><sub>&#64;sc0ty</sub></td>
+<td align="right"><b>44</b></td>
+<td align="right">0</td>
+<td><sub>Poland</sub></td>
+</tr>
+<tr>
+<td align="right">331</td>
 <td><a href="https://github.com/goniszewski"><img src="https://avatars.githubusercontent.com/u/43510122?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/goniszewski"><b>Robert Goniszewski</b></a><br><sub>&#64;goniszewski</sub></td>
 <td align="right"><b>42</b></td>
 <td align="right">0</td>
 <td><sub>Gdańsk</sub></td>
 </tr>
 <tr>
-<td align="right">271</td>
+<td align="right">332</td>
 <td><a href="https://github.com/tstanislawek"><img src="https://avatars.githubusercontent.com/u/10701089?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tstanislawek"><b>Tomasz Stanislawek</b></a><br><sub>&#64;tstanislawek</sub></td>
 <td align="right"><b>42</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw</sub></td>
 </tr>
 <tr>
-<td align="right">272</td>
+<td align="right">333</td>
+<td><a href="https://github.com/thisredone"><img src="https://avatars.githubusercontent.com/u/1191844?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thisredone"><b>redka</b></a><br><sub>&#64;thisredone</sub></td>
+<td align="right"><b>41</b></td>
+<td align="right">0</td>
+<td><sub>Poland</sub></td>
+</tr>
+<tr>
+<td align="right">334</td>
 <td><a href="https://github.com/thedevelobear"><img src="https://avatars.githubusercontent.com/u/29607890?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thedevelobear"><b>Jakub Szewczyk</b></a><br><sub>&#64;thedevelobear</sub></td>
 <td align="right"><b>40</b></td>
 <td align="right">0</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
-<td align="right">273</td>
+<td align="right">335</td>
 <td><a href="https://github.com/vashpan"><img src="https://avatars.githubusercontent.com/u/32440456?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vashpan"><b>Konrad Kołakowski</b></a><br><sub>&#64;vashpan</sub></td>
 <td align="right"><b>38</b></td>
 <td align="right">0</td>
 <td><sub>Gdańsk, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">274</td>
+<td align="right">336</td>
 <td><a href="https://github.com/ThePhaseless"><img src="https://avatars.githubusercontent.com/u/33990351?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ThePhaseless"><b>Jakub Orchowski</b></a><br><sub>&#64;ThePhaseless</sub></td>
 <td align="right"><b>37</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">275</td>
+<td align="right">337</td>
 <td><a href="https://github.com/mariuszostrowski"><img src="https://avatars.githubusercontent.com/u/11059670?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mariuszostrowski"><b>Mariusz Ostrowski</b></a><br><sub>&#64;mariuszostrowski</sub></td>
 <td align="right"><b>36</b></td>
 <td align="right">0</td>
 <td><sub>Milanówek, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">276</td>
+<td align="right">338</td>
 <td><a href="https://github.com/sergey-pimenov"><img src="https://avatars.githubusercontent.com/u/15109701?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sergey-pimenov"><b>Sergey Pimenov</b></a><br><sub>&#64;sergey-pimenov</sub></td>
 <td align="right"><b>34</b></td>
 <td align="right">0</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
-<td align="right">277</td>
+<td align="right">339</td>
+<td><a href="https://github.com/AdisonCavani"><img src="https://avatars.githubusercontent.com/u/76855180?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AdisonCavani"><b>Adrian Środoń</b></a><br><sub>&#64;AdisonCavani</sub></td>
+<td align="right"><b>30</b></td>
+<td align="right">0</td>
+<td><sub>Cracow, Poland</sub></td>
+</tr>
+<tr>
+<td align="right">340</td>
+<td><a href="https://github.com/mtymek"><img src="https://avatars.githubusercontent.com/u/777893?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mtymek"><b>Mateusz Tymek</b></a><br><sub>&#64;mtymek</sub></td>
+<td align="right"><b>30</b></td>
+<td align="right">0</td>
+<td><sub>Poznań, Poland</sub></td>
+</tr>
+<tr>
+<td align="right">341</td>
 <td><a href="https://github.com/vonzosten"><img src="https://avatars.githubusercontent.com/u/131958672?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vonzosten"><b>Victor von Sohsten</b></a><br><sub>&#64;vonzosten</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">0</td>
 <td><sub>Wrocław, Poland</sub></td>
 </tr>
 <tr>
-<td align="right">278</td>
+<td align="right">342</td>
 <td><a href="https://github.com/owu"><img src="https://avatars.githubusercontent.com/u/16047778?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/owu"><b>owu</b></a><br><sub>&#64;owu</sub></td>
 <td align="right"><b>28</b></td>
 <td align="right">0</td>
 <td><sub>South Pole</sub></td>
 </tr>
 <tr>
-<td align="right">279</td>
+<td align="right">343</td>
 <td><a href="https://github.com/pmizio"><img src="https://avatars.githubusercontent.com/u/4346598?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pmizio"><b>Paweł Mizio</b></a><br><sub>&#64;pmizio</sub></td>
 <td align="right"><b>27</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw, PL</sub></td>
 </tr>
 <tr>
-<td align="right">280</td>
+<td align="right">344</td>
+<td><a href="https://github.com/hitrov"><img src="https://avatars.githubusercontent.com/u/26094610?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hitrov"><b>Alexander Hitrov</b></a><br><sub>&#64;hitrov</sub></td>
+<td align="right"><b>23</b></td>
+<td align="right">0</td>
+<td><sub>Warsaw, Poland</sub></td>
+</tr>
+<tr>
+<td align="right">345</td>
 <td><a href="https://github.com/kawre"><img src="https://avatars.githubusercontent.com/u/69250723?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kawre"><b>Marcin</b></a><br><sub>&#64;kawre</sub></td>
 <td align="right"><b>21</b></td>
 <td align="right">0</td>
 <td><sub>Warsaw</sub></td>
 </tr>
 <tr>
-<td align="right">281</td>
+<td align="right">346</td>
 <td><a href="https://github.com/mkubaczyk"><img src="https://avatars.githubusercontent.com/u/12384536?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mkubaczyk"><b>Mateusz Kubaczyk</b></a><br><sub>&#64;mkubaczyk</sub></td>
 <td align="right"><b>15</b></td>
 <td align="right">0</td>
 <td><sub>Poland</sub></td>
 </tr>
 <tr>
-<td align="right">282</td>
+<td align="right">347</td>
 <td><a href="https://github.com/notscuffed"><img src="https://avatars.githubusercontent.com/u/47509036?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/notscuffed"><b>notscuffed</b></a><br><sub>&#64;notscuffed</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -2003,7 +2458,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 282 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 347 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

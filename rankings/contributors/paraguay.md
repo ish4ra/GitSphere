@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/PY.json">JSON</a> |
+| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/PY.json">JSON</a> |
 
 </div>
 
@@ -34,6 +34,15 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/melizeche"><img src="https://avatars.githubusercontent.com/u/484773?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/melizeche"><b>Marcelo Elizeche Landó</b></a><br><sub>&#64;melizeche · 392 followers</sub></td>
+<td align="right"><b>932</b></td>
+<td align="right">410</td>
+<td align="right">391</td>
+<td align="right">113</td>
+<td align="right">14</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/lexzer42"><img src="https://avatars.githubusercontent.com/u/134535937?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lexzer42"><b>Oscar Rojas</b></a><br><sub>&#64;lexzer42 · 564 followers</sub></td>
 <td align="right"><b>338</b></td>
 <td align="right">334</td>
@@ -42,7 +51,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/biagiola"><img src="https://avatars.githubusercontent.com/u/41311088?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/biagiola"><b>David Biagiola</b></a><br><sub>&#64;biagiola · 588 followers</sub></td>
 <td align="right"><b>61</b></td>
 <td align="right">54</td>
@@ -51,7 +60,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/PavelDoGreat"><img src="https://avatars.githubusercontent.com/u/24439787?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PavelDoGreat"><b>Pavel Dobryakov</b></a><br><sub>&#64;PavelDoGreat · 1,369 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
@@ -66,7 +75,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 4 of 402 discovered developers (398 awaiting measurement).
+- **Measured:** 5 of 403 discovered developers (398 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

@@ -5,13 +5,14 @@
 "country": {"code":"UM","name":"U.S. Outlying Islands","slug":"u-s-outlying-islands"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":7,"measuredAccounts":3,"measurementBacklog":4,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":7,"measuredAccounts":4,"measurementBacklog":3,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDODWplYA","login":"realjarvis69","name":"real_jarvis","url":"https://github.com/realjarvis69","avatarUrl":"https://avatars.githubusercontent.com/u/225076576?s=80&v=4","followers":3,"publicRepos":4,"location":"Jarvis Island","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23","contributions":{"public":139,"commits":134,"pullRequests":0,"reviews":0,"issues":1,"repositories":4,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
-  {"rank":2,"id":"MDQ6VXNlcjcyNjE4ODg=","login":"OgJAkFy8","name":"Erik JA","url":"https://github.com/OgJAkFy8","avatarUrl":"https://avatars.githubusercontent.com/u/7261888?s=80&v=4","followers":4,"publicRepos":9,"location":"Navassa Island","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22","contributions":{"public":7,"commits":4,"pullRequests":3,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":2,"id":"U_kgDOBmhfAg","login":"BakingLiberteZ","name":"LibertéZ Baker","url":"https://github.com/BakingLiberteZ","avatarUrl":"https://avatars.githubusercontent.com/u/107503362?s=80&v=4","followers":4,"publicRepos":2,"location":"Baker Island","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23","contributions":{"public":63,"commits":55,"pullRequests":6,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":3,"id":"MDQ6VXNlcjcyNjE4ODg=","login":"OgJAkFy8","name":"Erik JA","url":"https://github.com/OgJAkFy8","avatarUrl":"https://avatars.githubusercontent.com/u/7261888?s=80&v=4","followers":4,"publicRepos":9,"location":"Navassa Island","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22","contributions":{"public":7,"commits":4,"pullRequests":3,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "ac016af68980a70a",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "238c7ba1a8b22d53",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

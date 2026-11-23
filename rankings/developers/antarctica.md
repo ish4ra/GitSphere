@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/developers/AQ.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/developers/AQ.json">JSON</a> |
 
 </div>
 
@@ -51,14 +51,28 @@
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/0nionman"><img src="https://avatars.githubusercontent.com/u/179656674?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0nionman"><b>onion</b></a><br><sub>&#64;0nionman</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">2</td>
+<td><sub>antarctica</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/0385mrcoolman"><img src="https://avatars.githubusercontent.com/u/136465858?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0385mrcoolman"><b>0385mrcoolman</b></a><br><sub>&#64;0385mrcoolman</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Antarctica</sub></td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/01tobori"><img src="https://avatars.githubusercontent.com/u/231967466?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/01tobori"><b>Irobot10</b></a><br><sub>&#64;01tobori</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Antarctica</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/0DamI0"><img src="https://avatars.githubusercontent.com/u/85436247?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0DamI0"><b>DamI</b></a><br><sub>&#64;0DamI0</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Antarctica</sub></td>
@@ -71,7 +85,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 6 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 8 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 14 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

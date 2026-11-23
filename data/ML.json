@@ -5,7 +5,7 @@
 "country": {"code":"ML","name":"Mali","slug":"mali"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":80,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"tikzedt","nameWithOwner":"mkantem/tikzedt","url":"https://github.com/mkantem/tikzedt","description":null,"stars":26,"forks":4,"primaryLanguage":"C#","license":null,"createdAt":"2016-03-15T03:24:03Z","pushedAt":"2020-07-09T13:45:02Z","archived":false,"owner":{"login":"mkantem","name":"Kante Mahamadou","type":"User","url":"https://github.com/mkantem","location":"Mali","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"journey_world","nameWithOwner":"minato223/journey_world","url":"https://github.com/minato223/journey_world","description":null,"stars":24,"forks":4,"primaryLanguage":"Dart","license":null,"createdAt":"2024-09-18T16:00:14Z","pushedAt":"2024-09-19T16:44:48Z","archived":false,"owner":{"login":"minato223","name":"Lamine Diarra","type":"User","url":"https://github.com/minato223","location":"Bamako | Mali","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"shopping-cart","nameWithOwner":"dmbaye/shopping-cart","url":"https://github.com/dmbaye/shopping-cart","description":null,"stars":1,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2019-02-18T13:19:52Z","pushedAt":"2023-01-05T03:39:22Z","archived":false,"owner":{"login":"dmbaye","name":"Djibril M'Baye","type":"User","url":"https://github.com/dmbaye","location":"Mali","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"IkaAutoEcoleWordPress","nameWithOwner":"Dmchez33/IkaAutoEcoleWordPress","url":"https://github.com/Dmchez33/IkaAutoEcoleWordPress","description":null,"stars":1,"forks":0,"primaryLanguage":"PHP","license":{"spdxId":"NOASSERTION"},"createdAt":"2023-02-16T06:42:22Z","pushedAt":"2023-02-16T06:46:24Z","archived":false,"owner":{"login":"Dmchez33","name":"Idrissa DEMBELE","type":"User","url":"https://github.com/Dmchez33","location":"Bamako","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "f9a40c36c98df9c9",
-"updatedAt": "2026-11-22T08:41:14.246Z",
+"contentHash": "37135d7e381fad20",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

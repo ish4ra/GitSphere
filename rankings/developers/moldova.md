@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/MD.json">JSON</a> |
+| 🟡 Provisional | **7** | 23 Nov 2026 | <a href="../../data/developers/MD.json">JSON</a> |
 
 </div>
 
@@ -44,6 +44,27 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/messsimo"><img src="https://avatars.githubusercontent.com/u/163902601?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/messsimo"><b>Daniel Mihai</b></a><br><sub>&#64;messsimo</sub></td>
+<td align="right"><b>353</b></td>
+<td align="right">33</td>
+<td><sub>Republic of Moldova</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/nickmessing"><img src="https://avatars.githubusercontent.com/u/1633826?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nickmessing"><b>Nick Messing</b></a><br><sub>&#64;nickmessing</sub></td>
+<td align="right"><b>348</b></td>
+<td align="right">60</td>
+<td><sub>Chisinau, Moldova</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/sighook"><img src="https://avatars.githubusercontent.com/u/1980640?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sighook"><b>Alex Savca</b></a><br><sub>&#64;sighook</sub></td>
+<td align="right"><b>209</b></td>
+<td align="right">0</td>
+<td><sub>Moldova</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/Rudolf-Barbu"><img src="https://avatars.githubusercontent.com/u/64309120?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rudolf-Barbu"><b>Rudolf Barbu</b></a><br><sub>&#64;Rudolf-Barbu</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">3</td>
@@ -57,8 +78,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 10 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 7 attributed developers are tracked; the cutoff is 10 followers.
+- **Location discovery:** term 0 of 84 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

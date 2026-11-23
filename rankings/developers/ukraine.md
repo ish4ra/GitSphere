@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **142** | 22 Nov 2026 | <a href="../../data/developers/UA.json">JSON</a> |
+| 🟡 Provisional | **179** | 22 Nov 2026 | <a href="../../data/developers/UA.json">JSON</a> |
 
 </div>
 
@@ -59,14 +59,14 @@
 <tr>
 <td align="right">6</td>
 <td><a href="https://github.com/mishakorzik"><img src="https://avatars.githubusercontent.com/u/68460974?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mishakorzik"><b>He1Zen</b></a><br><sub>&#64;mishakorzik</sub></td>
-<td align="right"><b>3,163</b></td>
+<td align="right"><b>3,166</b></td>
 <td align="right">54</td>
 <td><sub>Україна (Ukraine)</sub></td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><a href="https://github.com/denysdovhan"><img src="https://avatars.githubusercontent.com/u/3459374?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/denysdovhan"><b>Denys Dovhan</b></a><br><sub>&#64;denysdovhan</sub></td>
-<td align="right"><b>3,024</b></td>
+<td align="right"><b>3,023</b></td>
 <td align="right">88</td>
 <td><sub>Kyiv, Ukraine</sub></td>
 </tr>
@@ -660,356 +660,615 @@
 </tr>
 <tr>
 <td align="right">92</td>
-<td><a href="https://github.com/msoedov"><img src="https://avatars.githubusercontent.com/u/1958116?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/msoedov"><b>Alexander Myasoedov</b></a><br><sub>&#64;msoedov</sub></td>
-<td align="right"><b>399</b></td>
-<td align="right">0</td>
-<td><sub>Ukraine</sub></td>
+<td><a href="https://github.com/Snawoot"><img src="https://avatars.githubusercontent.com/u/3524671?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Snawoot"><b>Vladislav Yarmak</b></a><br><sub>&#64;Snawoot</sub></td>
+<td align="right"><b>409</b></td>
+<td align="right">42</td>
+<td><sub>Odesa, Ukraine</sub></td>
 </tr>
 <tr>
 <td align="right">93</td>
-<td><a href="https://github.com/Mak5er"><img src="https://avatars.githubusercontent.com/u/98599732?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mak5er"><b>Mak5er</b></a><br><sub>&#64;Mak5er</sub></td>
-<td align="right"><b>368</b></td>
-<td align="right">0</td>
-<td><sub>Lviv, Ukraine</sub></td>
+<td><a href="https://github.com/irevenko"><img src="https://avatars.githubusercontent.com/u/44785096?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/irevenko"><b>Illia Revenko</b></a><br><sub>&#64;irevenko</sub></td>
+<td align="right"><b>403</b></td>
+<td align="right">31</td>
+<td><sub>Ukraine, Kharkiv</sub></td>
 </tr>
 <tr>
 <td align="right">94</td>
-<td><a href="https://github.com/slvDev"><img src="https://avatars.githubusercontent.com/u/15254847?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/slvDev"><b>Slava S.</b></a><br><sub>&#64;slvDev</sub></td>
-<td align="right"><b>358</b></td>
-<td align="right">0</td>
-<td><sub>Ukraine, Odessa</sub></td>
+<td><a href="https://github.com/5HT"><img src="https://avatars.githubusercontent.com/u/144776?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/5HT"><b>Ericsson Sakazaki</b></a><br><sub>&#64;5HT</sub></td>
+<td align="right"><b>401</b></td>
+<td align="right">151</td>
+<td><sub>Kyiv, Ukraine</sub></td>
 </tr>
 <tr>
 <td align="right">95</td>
-<td><a href="https://github.com/igorkasyanchuk"><img src="https://avatars.githubusercontent.com/u/11101?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/igorkasyanchuk"><b>Igor Kasyanchuk</b></a><br><sub>&#64;igorkasyanchuk</sub></td>
-<td align="right"><b>352</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/msoedov"><img src="https://avatars.githubusercontent.com/u/1958116?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/msoedov"><b>Alexander Myasoedov</b></a><br><sub>&#64;msoedov</sub></td>
+<td align="right"><b>399</b></td>
+<td align="right">63</td>
 <td><sub>Ukraine</sub></td>
 </tr>
 <tr>
 <td align="right">96</td>
+<td><a href="https://github.com/VictorKmin"><img src="https://avatars.githubusercontent.com/u/36957183?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VictorKmin"><b>Victor Kmin</b></a><br><sub>&#64;VictorKmin</sub></td>
+<td align="right"><b>396</b></td>
+<td align="right">89</td>
+<td><sub>Lviv, Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><a href="https://github.com/anton-martyniuk"><img src="https://avatars.githubusercontent.com/u/13573181?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anton-martyniuk"><b>Anton Martyniuk</b></a><br><sub>&#64;anton-martyniuk</sub></td>
+<td align="right"><b>392</b></td>
+<td align="right">7</td>
+<td><sub>Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><a href="https://github.com/koorchik"><img src="https://avatars.githubusercontent.com/u/189374?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/koorchik"><b>Viktor Turskyi</b></a><br><sub>&#64;koorchik</sub></td>
+<td align="right"><b>391</b></td>
+<td align="right">117</td>
+<td><sub>Kyiv, Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><a href="https://github.com/SinlessDevil"><img src="https://avatars.githubusercontent.com/u/83553523?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SinlessDevil"><b>SinlessDevil</b></a><br><sub>&#64;SinlessDevil</sub></td>
+<td align="right"><b>391</b></td>
+<td align="right">44</td>
+<td><sub>Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><a href="https://github.com/creotiv"><img src="https://avatars.githubusercontent.com/u/250125?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/creotiv"><b>Andrey Nikishaev</b></a><br><sub>&#64;creotiv</sub></td>
+<td align="right"><b>388</b></td>
+<td align="right">188</td>
+<td><sub>Ukraine, Kiev UTC +03:00</sub></td>
+</tr>
+<tr>
+<td align="right">101</td>
+<td><a href="https://github.com/YuriyGuts"><img src="https://avatars.githubusercontent.com/u/2750531?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YuriyGuts"><b>Yuriy Guts</b></a><br><sub>&#64;YuriyGuts</sub></td>
+<td align="right"><b>386</b></td>
+<td align="right">47</td>
+<td><sub>Lviv, Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">102</td>
+<td><a href="https://github.com/krikzz"><img src="https://avatars.githubusercontent.com/u/27894092?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/krikzz"><b>krikzz</b></a><br><sub>&#64;krikzz</sub></td>
+<td align="right"><b>384</b></td>
+<td align="right">18</td>
+<td><sub>Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">103</td>
+<td><a href="https://github.com/DK22Pac"><img src="https://avatars.githubusercontent.com/u/6964404?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DK22Pac"><b>Dmitri</b></a><br><sub>&#64;DK22Pac</sub></td>
+<td align="right"><b>381</b></td>
+<td align="right">22</td>
+<td><sub>Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">104</td>
+<td><a href="https://github.com/maksimKorzh"><img src="https://avatars.githubusercontent.com/u/34242153?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maksimKorzh"><b>Code Monkey King</b></a><br><sub>&#64;maksimKorzh</sub></td>
+<td align="right"><b>377</b></td>
+<td align="right">247</td>
+<td><sub>Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">105</td>
+<td><a href="https://github.com/elitmor"><img src="https://avatars.githubusercontent.com/u/52796683?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elitmor"><b>Vitaliy Krykun</b></a><br><sub>&#64;elitmor</sub></td>
+<td align="right"><b>372</b></td>
+<td align="right">11</td>
+<td><sub>Odessa, Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">106</td>
+<td><a href="https://github.com/Mak5er"><img src="https://avatars.githubusercontent.com/u/98599732?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mak5er"><b>Mak5er</b></a><br><sub>&#64;Mak5er</sub></td>
+<td align="right"><b>368</b></td>
+<td align="right">28</td>
+<td><sub>Lviv, Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">107</td>
+<td><a href="https://github.com/UniBreakfast"><img src="https://avatars.githubusercontent.com/u/19654456?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/UniBreakfast"><b>Mykhailo &quot;Ninin&quot; Velykoselskyi</b></a><br><sub>&#64;UniBreakfast</sub></td>
+<td align="right"><b>363</b></td>
+<td align="right">515</td>
+<td><sub>Kyiv, Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">108</td>
+<td><a href="https://github.com/MenosGrante"><img src="https://avatars.githubusercontent.com/u/2765109?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MenosGrante"><b>Pavlo Rekun</b></a><br><sub>&#64;MenosGrante</sub></td>
+<td align="right"><b>361</b></td>
+<td align="right">4</td>
+<td><sub>Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">109</td>
+<td><a href="https://github.com/valorkin"><img src="https://avatars.githubusercontent.com/u/1107171?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/valorkin"><b>Dmitriy Shekhovtsov</b></a><br><sub>&#64;valorkin</sub></td>
+<td align="right"><b>359</b></td>
+<td align="right">62</td>
+<td><sub>Kharkov</sub></td>
+</tr>
+<tr>
+<td align="right">110</td>
+<td><a href="https://github.com/slvDev"><img src="https://avatars.githubusercontent.com/u/15254847?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/slvDev"><b>Slava S.</b></a><br><sub>&#64;slvDev</sub></td>
+<td align="right"><b>359</b></td>
+<td align="right">35</td>
+<td><sub>Ukraine, Odessa</sub></td>
+</tr>
+<tr>
+<td align="right">111</td>
+<td><a href="https://github.com/igorkasyanchuk"><img src="https://avatars.githubusercontent.com/u/11101?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/igorkasyanchuk"><b>Igor Kasyanchuk</b></a><br><sub>&#64;igorkasyanchuk</sub></td>
+<td align="right"><b>351</b></td>
+<td align="right">182</td>
+<td><sub>Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">112</td>
+<td><a href="https://github.com/terrysahaidak"><img src="https://avatars.githubusercontent.com/u/7809008?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/terrysahaidak"><b>Terry Sahaidak</b></a><br><sub>&#64;terrysahaidak</sub></td>
+<td align="right"><b>349</b></td>
+<td align="right">88</td>
+<td><sub>Ternopil, Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">113</td>
+<td><a href="https://github.com/sasha240100"><img src="https://avatars.githubusercontent.com/u/7657429?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sasha240100"><b>Alexander Buzin 🇺🇦</b></a><br><sub>&#64;sasha240100</sub></td>
+<td align="right"><b>349</b></td>
+<td align="right">82</td>
+<td><sub>Kiev, Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">114</td>
 <td><a href="https://github.com/danylovolokh"><img src="https://avatars.githubusercontent.com/u/2686355?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danylovolokh"><b>Danylo Volokh</b></a><br><sub>&#64;danylovolokh</sub></td>
 <td align="right"><b>339</b></td>
 <td align="right">0</td>
 <td><sub>Ukraine, Lviv</sub></td>
 </tr>
 <tr>
-<td align="right">97</td>
+<td align="right">115</td>
 <td><a href="https://github.com/glushchenko"><img src="https://avatars.githubusercontent.com/u/1089917?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/glushchenko"><b>glushchenko</b></a><br><sub>&#64;glushchenko</sub></td>
 <td align="right"><b>322</b></td>
 <td align="right">0</td>
 <td><sub>Ukraine, Kharkiv</sub></td>
 </tr>
 <tr>
-<td align="right">98</td>
+<td align="right">116</td>
 <td><a href="https://github.com/inlife"><img src="https://avatars.githubusercontent.com/u/2182108?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/inlife"><b>Vladyslav Hrytsenko</b></a><br><sub>&#64;inlife</sub></td>
 <td align="right"><b>313</b></td>
 <td align="right">0</td>
 <td><sub>Kyiv, Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">99</td>
+<td align="right">117</td>
 <td><a href="https://github.com/yglukhov"><img src="https://avatars.githubusercontent.com/u/6962409?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yglukhov"><b>Yuriy Glukhov</b></a><br><sub>&#64;yglukhov</sub></td>
 <td align="right"><b>312</b></td>
 <td align="right">0</td>
 <td><sub>Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">100</td>
+<td align="right">118</td>
 <td><a href="https://github.com/RomanHotsiy"><img src="https://avatars.githubusercontent.com/u/3975738?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RomanHotsiy"><b>Roman Hotsiy</b></a><br><sub>&#64;RomanHotsiy</sub></td>
 <td align="right"><b>273</b></td>
 <td align="right">0</td>
 <td><sub>Lviv, Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">101</td>
+<td align="right">119</td>
 <td><a href="https://github.com/foobnix"><img src="https://avatars.githubusercontent.com/u/432440?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/foobnix"><b>Ivan Ivanenko</b></a><br><sub>&#64;foobnix</sub></td>
 <td align="right"><b>269</b></td>
 <td align="right">0</td>
 <td><sub>Ukraine, Kyiv</sub></td>
 </tr>
 <tr>
-<td align="right">102</td>
+<td align="right">120</td>
 <td><a href="https://github.com/romandanylyk"><img src="https://avatars.githubusercontent.com/u/7407504?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/romandanylyk"><b>Roman Danylyk</b></a><br><sub>&#64;romandanylyk</sub></td>
 <td align="right"><b>268</b></td>
 <td align="right">0</td>
 <td><sub>Lviv, Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">103</td>
+<td align="right">121</td>
 <td><a href="https://github.com/PaulTaykalo"><img src="https://avatars.githubusercontent.com/u/119268?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PaulTaykalo"><b>Paul Taykalo</b></a><br><sub>&#64;PaulTaykalo</sub></td>
 <td align="right"><b>262</b></td>
 <td align="right">0</td>
 <td><sub>Kyiv, Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">104</td>
+<td align="right">122</td>
 <td><a href="https://github.com/tucnak"><img src="https://avatars.githubusercontent.com/u/934682?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tucnak"><b>Ilya</b></a><br><sub>&#64;tucnak</sub></td>
 <td align="right"><b>258</b></td>
 <td align="right">0</td>
 <td><sub>Kyiv</sub></td>
 </tr>
 <tr>
-<td align="right">105</td>
+<td align="right">123</td>
 <td><a href="https://github.com/nortikin"><img src="https://avatars.githubusercontent.com/u/5783432?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nortikin"><b>nikitron</b></a><br><sub>&#64;nortikin</sub></td>
 <td align="right"><b>255</b></td>
 <td align="right">0</td>
 <td><sub>out of Fascistic Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">106</td>
+<td align="right">124</td>
 <td><a href="https://github.com/RevenantX"><img src="https://avatars.githubusercontent.com/u/825465?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RevenantX"><b>Ruslan Pyrch</b></a><br><sub>&#64;RevenantX</sub></td>
 <td align="right"><b>240</b></td>
 <td align="right">0</td>
 <td><sub>Kyiv, Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">107</td>
+<td align="right">125</td>
 <td><a href="https://github.com/aNNiMON"><img src="https://avatars.githubusercontent.com/u/1321838?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aNNiMON"><b>Victor Melnik</b></a><br><sub>&#64;aNNiMON</sub></td>
 <td align="right"><b>228</b></td>
 <td align="right">0</td>
 <td><sub>Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">108</td>
+<td align="right">126</td>
+<td><a href="https://github.com/sudodoki"><img src="https://avatars.githubusercontent.com/u/1506905?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sudodoki"><b>Джон, просто Джон</b></a><br><sub>&#64;sudodoki</sub></td>
+<td align="right"><b>220</b></td>
+<td align="right">0</td>
+<td><sub>Kyiv, Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">127</td>
 <td><a href="https://github.com/samoshkin"><img src="https://avatars.githubusercontent.com/u/768858?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/samoshkin"><b>Alexey Samoshkin</b></a><br><sub>&#64;samoshkin</sub></td>
 <td align="right"><b>219</b></td>
 <td align="right">0</td>
 <td><sub>Ukraine, Kharkiv</sub></td>
 </tr>
 <tr>
-<td align="right">109</td>
+<td align="right">128</td>
+<td><a href="https://github.com/tb0hdan"><img src="https://avatars.githubusercontent.com/u/201715?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tb0hdan"><b>Bohdan Turkynevych</b></a><br><sub>&#64;tb0hdan</sub></td>
+<td align="right"><b>218</b></td>
+<td align="right">0</td>
+<td><sub>Ukraine, Kyiv</sub></td>
+</tr>
+<tr>
+<td align="right">129</td>
 <td><a href="https://github.com/leits"><img src="https://avatars.githubusercontent.com/u/12017826?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leits"><b>Andrii Leitsius</b></a><br><sub>&#64;leits</sub></td>
 <td align="right"><b>212</b></td>
 <td align="right">0</td>
 <td><sub>Lviv, Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">110</td>
+<td align="right">130</td>
 <td><a href="https://github.com/EvgenyKarkan"><img src="https://avatars.githubusercontent.com/u/2069158?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EvgenyKarkan"><b>Evgeny Karkan</b></a><br><sub>&#64;EvgenyKarkan</sub></td>
 <td align="right"><b>206</b></td>
 <td align="right">0</td>
 <td><sub>Kharkiv, Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">111</td>
+<td align="right">131</td>
+<td><a href="https://github.com/arriven"><img src="https://avatars.githubusercontent.com/u/20084245?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arriven"><b>Bohdan Ivashko</b></a><br><sub>&#64;arriven</sub></td>
+<td align="right"><b>186</b></td>
+<td align="right">0</td>
+<td><sub>Kyiv, Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">132</td>
 <td><a href="https://github.com/retspen"><img src="https://avatars.githubusercontent.com/u/688722?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/retspen"><b>Anatoliy Guskov</b></a><br><sub>&#64;retspen</sub></td>
 <td align="right"><b>186</b></td>
 <td align="right">0</td>
 <td><sub>Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">112</td>
+<td align="right">133</td>
+<td><a href="https://github.com/vladbat00"><img src="https://avatars.githubusercontent.com/u/2943388?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vladbat00"><b>Vladyslav Batyrenko</b></a><br><sub>&#64;vladbat00</sub></td>
+<td align="right"><b>186</b></td>
+<td align="right">0</td>
+<td><sub>Kyiv, Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">134</td>
 <td><a href="https://github.com/uriyyo"><img src="https://avatars.githubusercontent.com/u/32038156?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/uriyyo"><b>Yurii Karabas</b></a><br><sub>&#64;uriyyo</sub></td>
 <td align="right"><b>183</b></td>
 <td align="right">0</td>
 <td><sub>Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">113</td>
+<td align="right">135</td>
 <td><a href="https://github.com/dkrivoruchko"><img src="https://avatars.githubusercontent.com/u/10741551?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dkrivoruchko"><b>Dmytro Kryvoruchko</b></a><br><sub>&#64;dkrivoruchko</sub></td>
 <td align="right"><b>181</b></td>
 <td align="right">0</td>
 <td><sub>Kyiv</sub></td>
 </tr>
 <tr>
-<td align="right">114</td>
+<td align="right">136</td>
 <td><a href="https://github.com/SergiusTheBest"><img src="https://avatars.githubusercontent.com/u/4660722?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SergiusTheBest"><b>Sergey Podobry</b></a><br><sub>&#64;SergiusTheBest</sub></td>
 <td align="right"><b>175</b></td>
 <td align="right">0</td>
 <td><sub>Kyiv, Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">115</td>
+<td align="right">137</td>
+<td><a href="https://github.com/bacher09"><img src="https://avatars.githubusercontent.com/u/1330898?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bacher09"><b>Slava</b></a><br><sub>&#64;bacher09</sub></td>
+<td align="right"><b>169</b></td>
+<td align="right">0</td>
+<td><sub>Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">138</td>
 <td><a href="https://github.com/cawa-93"><img src="https://avatars.githubusercontent.com/u/1662812?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cawa-93"><b>Alex Kozack</b></a><br><sub>&#64;cawa-93</sub></td>
 <td align="right"><b>160</b></td>
 <td align="right">0</td>
 <td><sub>Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">116</td>
+<td align="right">139</td>
 <td><a href="https://github.com/werman"><img src="https://avatars.githubusercontent.com/u/3993671?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/werman"><b>Danylo</b></a><br><sub>&#64;werman</sub></td>
 <td align="right"><b>159</b></td>
 <td align="right">0</td>
 <td><sub>Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">117</td>
+<td align="right">140</td>
+<td><a href="https://github.com/PavelTorgashov"><img src="https://avatars.githubusercontent.com/u/3595317?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PavelTorgashov"><b>Pavlo Torhashov</b></a><br><sub>&#64;PavelTorgashov</sub></td>
+<td align="right"><b>150</b></td>
+<td align="right">0</td>
+<td><sub>Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">141</td>
+<td><a href="https://github.com/LekKit"><img src="https://avatars.githubusercontent.com/u/50500857?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LekKit"><b>LekKit</b></a><br><sub>&#64;LekKit</sub></td>
+<td align="right"><b>145</b></td>
+<td align="right">0</td>
+<td><sub>Zhytomyr, Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">142</td>
 <td><a href="https://github.com/SnosMe"><img src="https://avatars.githubusercontent.com/u/4292308?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SnosMe"><b>Alexander Drozdov</b></a><br><sub>&#64;SnosMe</sub></td>
 <td align="right"><b>140</b></td>
 <td align="right">0</td>
 <td><sub>Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">118</td>
+<td align="right">143</td>
+<td><a href="https://github.com/sdex"><img src="https://avatars.githubusercontent.com/u/3196011?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sdex"><b>Yurii Mysochenko</b></a><br><sub>&#64;sdex</sub></td>
+<td align="right"><b>138</b></td>
+<td align="right">0</td>
+<td><sub>Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">144</td>
 <td><a href="https://github.com/devMEremenko"><img src="https://avatars.githubusercontent.com/u/12719029?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/devMEremenko"><b>Maksym Yeromenko</b></a><br><sub>&#64;devMEremenko</sub></td>
 <td align="right"><b>135</b></td>
 <td align="right">0</td>
 <td><sub>Kharkiv, Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">119</td>
+<td align="right">145</td>
+<td><a href="https://github.com/ShiftHackZ"><img src="https://avatars.githubusercontent.com/u/41302477?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ShiftHackZ"><b>Dmitriy Moroz</b></a><br><sub>&#64;ShiftHackZ</sub></td>
+<td align="right"><b>129</b></td>
+<td align="right">0</td>
+<td><sub>UA</sub></td>
+</tr>
+<tr>
+<td align="right">146</td>
 <td><a href="https://github.com/esvit"><img src="https://avatars.githubusercontent.com/u/1222467?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/esvit"><b>Vitalii Savchuk</b></a><br><sub>&#64;esvit</sub></td>
 <td align="right"><b>127</b></td>
 <td align="right">0</td>
 <td><sub>Ukraine, Vinnitsa</sub></td>
 </tr>
 <tr>
-<td align="right">120</td>
+<td align="right">147</td>
 <td><a href="https://github.com/semanser"><img src="https://avatars.githubusercontent.com/u/4020045?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/semanser"><b>Andriy Semenets</b></a><br><sub>&#64;semanser</sub></td>
 <td align="right"><b>119</b></td>
 <td align="right">0</td>
 <td><sub>Lutsk, Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">121</td>
+<td align="right">148</td>
 <td><a href="https://github.com/trunkmaster"><img src="https://avatars.githubusercontent.com/u/23114975?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/trunkmaster"><b>Sergii Stoian</b></a><br><sub>&#64;trunkmaster</sub></td>
 <td align="right"><b>118</b></td>
 <td align="right">0</td>
 <td><sub>Kyiv, Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">122</td>
+<td align="right">149</td>
 <td><a href="https://github.com/ssleptsov"><img src="https://avatars.githubusercontent.com/u/1238318?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ssleptsov"><b>Serhii</b></a><br><sub>&#64;ssleptsov</sub></td>
 <td align="right"><b>116</b></td>
 <td align="right">0</td>
 <td><sub>Kyiv, Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">123</td>
+<td align="right">150</td>
 <td><a href="https://github.com/galetahub"><img src="https://avatars.githubusercontent.com/u/50163?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/galetahub"><b>Igor Galeta</b></a><br><sub>&#64;galetahub</sub></td>
 <td align="right"><b>107</b></td>
 <td align="right">0</td>
 <td><sub>Ukraine, Kiev</sub></td>
 </tr>
 <tr>
-<td align="right">124</td>
+<td align="right">151</td>
 <td><a href="https://github.com/truefedex"><img src="https://avatars.githubusercontent.com/u/1333872?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/truefedex"><b>Fedir Tsapana</b></a><br><sub>&#64;truefedex</sub></td>
 <td align="right"><b>106</b></td>
 <td align="right">0</td>
 <td><sub>Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">125</td>
+<td align="right">152</td>
 <td><a href="https://github.com/msoap"><img src="https://avatars.githubusercontent.com/u/844117?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/msoap"><b>Serhii Mudryk</b></a><br><sub>&#64;msoap</sub></td>
 <td align="right"><b>100</b></td>
 <td align="right">0</td>
 <td><sub>Kyiv, Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">126</td>
+<td align="right">153</td>
+<td><a href="https://github.com/DmytroLitvinov"><img src="https://avatars.githubusercontent.com/u/16066485?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DmytroLitvinov"><b>Dmytro Litvinov</b></a><br><sub>&#64;DmytroLitvinov</sub></td>
+<td align="right"><b>99</b></td>
+<td align="right">0</td>
+<td><sub>Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">154</td>
+<td><a href="https://github.com/ArtFeel"><img src="https://avatars.githubusercontent.com/u/502063?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ArtFeel"><b>Philip Vasilchenko</b></a><br><sub>&#64;ArtFeel</sub></td>
+<td align="right"><b>93</b></td>
+<td align="right">0</td>
+<td><sub>Ukraine, Kyiv</sub></td>
+</tr>
+<tr>
+<td align="right">155</td>
 <td><a href="https://github.com/kozakdenys"><img src="https://avatars.githubusercontent.com/u/10772491?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kozakdenys"><b>Denys Kozak</b></a><br><sub>&#64;kozakdenys</sub></td>
 <td align="right"><b>93</b></td>
 <td align="right">0</td>
 <td><sub>Lviv</sub></td>
 </tr>
 <tr>
-<td align="right">127</td>
+<td align="right">156</td>
+<td><a href="https://github.com/Arvtesh"><img src="https://avatars.githubusercontent.com/u/22732458?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Arvtesh"><b>Arvtesh</b></a><br><sub>&#64;Arvtesh</sub></td>
+<td align="right"><b>92</b></td>
+<td align="right">0</td>
+<td><sub>Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">157</td>
+<td><a href="https://github.com/marchellodev"><img src="https://avatars.githubusercontent.com/u/61112084?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marchellodev"><b>Mark Motliuk</b></a><br><sub>&#64;marchellodev</sub></td>
+<td align="right"><b>91</b></td>
+<td align="right">0</td>
+<td><sub>Kyiv, Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">158</td>
 <td><a href="https://github.com/MaximKotliar"><img src="https://avatars.githubusercontent.com/u/17856739?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MaximKotliar"><b>Maksym Kotliar</b></a><br><sub>&#64;MaximKotliar</sub></td>
 <td align="right"><b>81</b></td>
 <td align="right">0</td>
 <td><sub>Kyiv, Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">128</td>
+<td align="right">159</td>
 <td><a href="https://github.com/boo1ean"><img src="https://avatars.githubusercontent.com/u/566869?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/boo1ean"><b>Єgor Gumeniuk</b></a><br><sub>&#64;boo1ean</sub></td>
 <td align="right"><b>78</b></td>
 <td align="right">0</td>
 <td><sub>Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">129</td>
+<td align="right">160</td>
 <td><a href="https://github.com/easymodo"><img src="https://avatars.githubusercontent.com/u/5484275?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/easymodo"><b>easymodo</b></a><br><sub>&#64;easymodo</sub></td>
 <td align="right"><b>77</b></td>
 <td align="right">0</td>
 <td><sub>Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">130</td>
+<td align="right">161</td>
 <td><a href="https://github.com/RealPeha"><img src="https://avatars.githubusercontent.com/u/26817340?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RealPeha"><b>Stas</b></a><br><sub>&#64;RealPeha</sub></td>
 <td align="right"><b>76</b></td>
 <td align="right">0</td>
 <td><sub>Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">131</td>
+<td align="right">162</td>
+<td><a href="https://github.com/Acclorite"><img src="https://avatars.githubusercontent.com/u/140836141?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Acclorite"><b>Acclorite</b></a><br><sub>&#64;Acclorite</sub></td>
+<td align="right"><b>75</b></td>
+<td align="right">0</td>
+<td><sub>Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">163</td>
 <td><a href="https://github.com/brabadu"><img src="https://avatars.githubusercontent.com/u/177366?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brabadu"><b>Boryslav Larin</b></a><br><sub>&#64;brabadu</sub></td>
 <td align="right"><b>75</b></td>
 <td align="right">0</td>
 <td><sub>Kyiv, Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">132</td>
+<td align="right">164</td>
+<td><a href="https://github.com/Drive4ik"><img src="https://avatars.githubusercontent.com/u/7843031?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Drive4ik"><b>Drive4ik</b></a><br><sub>&#64;Drive4ik</sub></td>
+<td align="right"><b>75</b></td>
+<td align="right">0</td>
+<td><sub>Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">165</td>
+<td><a href="https://github.com/irzyxa"><img src="https://avatars.githubusercontent.com/u/5119360?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/irzyxa"><b>Alexandr Irza</b></a><br><sub>&#64;irzyxa</sub></td>
+<td align="right"><b>72</b></td>
+<td align="right">0</td>
+<td><sub>Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">166</td>
 <td><a href="https://github.com/hxehex"><img src="https://avatars.githubusercontent.com/u/227055331?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hxehex"><b>hxehex.real</b></a><br><sub>&#64;hxehex</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">0</td>
 <td><sub>Greater Ukraine, Moscow</sub></td>
 </tr>
 <tr>
-<td align="right">133</td>
+<td align="right">167</td>
 <td><a href="https://github.com/ukrbublik"><img src="https://avatars.githubusercontent.com/u/3238637?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ukrbublik"><b>Denys Oblohin</b></a><br><sub>&#64;ukrbublik</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">0</td>
 <td><sub>Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">134</td>
+<td align="right">168</td>
 <td><a href="https://github.com/ec-"><img src="https://avatars.githubusercontent.com/u/6439984?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ec-"><b>Eugene</b></a><br><sub>&#64;ec-</sub></td>
 <td align="right"><b>68</b></td>
 <td align="right">0</td>
 <td><sub>Ukraine, Dnipro</sub></td>
 </tr>
 <tr>
-<td align="right">135</td>
+<td align="right">169</td>
 <td><a href="https://github.com/kosmos"><img src="https://avatars.githubusercontent.com/u/380631?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kosmos"><b>kosmos</b></a><br><sub>&#64;kosmos</sub></td>
 <td align="right"><b>64</b></td>
 <td align="right">0</td>
 <td><sub>Kyiv, Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">136</td>
+<td align="right">170</td>
 <td><a href="https://github.com/artyshko"><img src="https://avatars.githubusercontent.com/u/18666846?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/artyshko"><b>Artyshko Mykola</b></a><br><sub>&#64;artyshko</sub></td>
 <td align="right"><b>63</b></td>
 <td align="right">0</td>
 <td><sub>Lviv</sub></td>
 </tr>
 <tr>
-<td align="right">137</td>
+<td align="right">171</td>
 <td><a href="https://github.com/Lumid-Off"><img src="https://avatars.githubusercontent.com/u/100797807?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lumid-Off"><b>Dmytro</b></a><br><sub>&#64;Lumid-Off</sub></td>
 <td align="right"><b>59</b></td>
 <td align="right">0</td>
 <td><sub>Lutsk, Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">138</td>
+<td align="right">172</td>
 <td><a href="https://github.com/pFarb"><img src="https://avatars.githubusercontent.com/u/25198373?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pFarb"><b>Pavlo Farb</b></a><br><sub>&#64;pFarb</sub></td>
 <td align="right"><b>59</b></td>
 <td align="right">0</td>
 <td><sub>Kyiv</sub></td>
 </tr>
 <tr>
-<td align="right">139</td>
+<td align="right">173</td>
 <td><a href="https://github.com/croffasia"><img src="https://avatars.githubusercontent.com/u/696180?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/croffasia"><b>Croff</b></a><br><sub>&#64;croffasia</sub></td>
 <td align="right"><b>57</b></td>
 <td align="right">0</td>
 <td><sub>Ukraine, Kyiv</sub></td>
 </tr>
 <tr>
-<td align="right">140</td>
+<td align="right">174</td>
+<td><a href="https://github.com/Hummer12007"><img src="https://avatars.githubusercontent.com/u/4984813?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hummer12007"><b>Hummer12007</b></a><br><sub>&#64;Hummer12007</sub></td>
+<td align="right"><b>49</b></td>
+<td align="right">0</td>
+<td><sub>Kyiv, Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">175</td>
 <td><a href="https://github.com/sersavan"><img src="https://avatars.githubusercontent.com/u/3727722?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sersavan"><b>sersavan</b></a><br><sub>&#64;sersavan</sub></td>
 <td align="right"><b>47</b></td>
 <td align="right">0</td>
 <td><sub>Kyiv, Ukraine</sub></td>
 </tr>
 <tr>
-<td align="right">141</td>
+<td align="right">176</td>
+<td><a href="https://github.com/sunra"><img src="https://avatars.githubusercontent.com/u/635370?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sunra"><b>sunra</b></a><br><sub>&#64;sunra</sub></td>
+<td align="right"><b>45</b></td>
+<td align="right">0</td>
+<td><sub>Kiev, Ukraine</sub></td>
+</tr>
+<tr>
+<td align="right">177</td>
+<td><a href="https://github.com/odrick"><img src="https://avatars.githubusercontent.com/u/3988659?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/odrick"><b>Oleksandr Norynchak</b></a><br><sub>&#64;odrick</sub></td>
+<td align="right"><b>42</b></td>
+<td align="right">0</td>
+<td><sub>Kyiv</sub></td>
+</tr>
+<tr>
+<td align="right">178</td>
 <td><a href="https://github.com/jalkoby"><img src="https://avatars.githubusercontent.com/u/484327?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jalkoby"><b>Sergii P</b></a><br><sub>&#64;jalkoby</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">0</td>
 <td><sub>Ukraine, Kyiv</sub></td>
 </tr>
 <tr>
-<td align="right">142</td>
+<td align="right">179</td>
 <td><a href="https://github.com/VolodymyrBaydalka"><img src="https://avatars.githubusercontent.com/u/1528799?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VolodymyrBaydalka"><b>Volodymyr Baydalka</b></a><br><sub>&#64;VolodymyrBaydalka</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">0</td>
@@ -1023,7 +1282,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 142 attributed developers are tracked; the cutoff is 30 followers.
+- Organizations are excluded. 179 attributed developers are tracked; the cutoff is 30 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

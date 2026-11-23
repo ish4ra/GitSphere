@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"LS","name":"Lesotho","slug":"lesotho"},
-"count": 150,
+"count": 149,
 "repositories": [
-  {"name":"tshakalekholoane/bat","stars":376,"forks":28,"language":"Go","license":"MIT","archived":false,"createdAt":"2021-01-13T18:02:46Z","pushedAt":"2026-09-14T03:15:27Z","owner":{"login":"tshakalekholoane","type":"User","name":"Tshaka Lekholoane","location":"Maseru, Lesotho"},"attribution":{"code":"LS","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-12T18:58:51.846Z","id":"legacy:tshakalekholoane/bat","legacy":true},
   {"name":"ramoletane/real_estate","stars":26,"forks":15,"language":"Python","license":"NOASSERTION","archived":false,"createdAt":"2019-09-12T13:39:58Z","pushedAt":"2020-03-24T12:04:02Z","owner":{"login":"ramoletane","type":"User","name":"Ramoletane Lekhanya","location":"Maseru, Lesotho"},"attribution":{"code":"LS","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T22:12:34.760Z","id":"legacy:ramoletane/real_estate","legacy":true},
   {"name":"MissPurrple/claw-code-swipe","stars":20,"forks":15,"language":"Rust","archived":false,"createdAt":"2026-04-02T14:05:58Z","pushedAt":"2026-04-02T14:15:17Z","owner":{"login":"MissPurrple","type":"User","name":"Miss Purple","location":"Lesotho"},"attribution":{"code":"LS","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T22:12:34.760Z","id":"legacy:misspurrple/claw-code-swipe","legacy":true},
   {"name":"letele/playing-cards","stars":7,"forks":3,"language":"JavaScript","license":"CC0-1.0","archived":false,"createdAt":"2023-08-02T06:57:42Z","pushedAt":"2023-08-18T15:27:43Z","owner":{"login":"letele","type":"User","location":"HaNelese, Maseru, Lesotho"},"attribution":{"code":"LS","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T22:12:34.760Z","id":"legacy:letele/playing-cards","legacy":true},

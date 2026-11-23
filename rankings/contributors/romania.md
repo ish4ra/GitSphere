@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/RO.json">JSON</a> |
+| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/RO.json">JSON</a> |
 
 </div>
 
@@ -34,6 +34,15 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/alin23"><img src="https://avatars.githubusercontent.com/u/3819725?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alin23"><b>Alin Panaitiu</b></a><br><sub>&#64;alin23 · 768 followers</sub></td>
+<td align="right"><b>1,367</b></td>
+<td align="right">1,358</td>
+<td align="right">5</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/Bogdanp"><img src="https://avatars.githubusercontent.com/u/43347?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bogdanp"><b>Bogdan Popa</b></a><br><sub>&#64;Bogdanp · 878 followers</sub></td>
 <td align="right"><b>805</b></td>
 <td align="right">757</td>
@@ -42,7 +51,7 @@
 <td align="right">7</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/dlsniper"><img src="https://avatars.githubusercontent.com/u/607868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dlsniper"><b>Florin Pățan</b></a><br><sub>&#64;dlsniper · 442 followers</sub></td>
 <td align="right"><b>407</b></td>
 <td align="right">212</td>
@@ -51,7 +60,7 @@
 <td align="right">72</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/ionelmc"><img src="https://avatars.githubusercontent.com/u/129501?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ionelmc"><b>Ionel Cristian Mărieș</b></a><br><sub>&#64;ionelmc · 516 followers</sub></td>
 <td align="right"><b>100</b></td>
 <td align="right">90</td>
@@ -66,7 +75,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 4 of 426 discovered developers (422 awaiting measurement).
+- **Measured:** 5 of 433 discovered developers (428 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

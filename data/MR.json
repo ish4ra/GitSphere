@@ -5,7 +5,7 @@
 "country": {"code":"MR","name":"Mauritania","slug":"mauritania"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":104,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"scc","nameWithOwner":"Ziyadsk/scc","url":"https://github.com/Ziyadsk/scc","description":null,"stars":124,"forks":14,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2018-09-25T20:18:29Z","pushedAt":"2020-05-02T07:39:50Z","archived":false,"owner":{"login":"Ziyadsk","name":"Ziyad","type":"User","url":"https://github.com/Ziyadsk","location":"Nouakchott, Mauritania","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"laravel-deadlock","nameWithOwner":"medmahmoudhdaya/laravel-deadlock","url":"https://github.com/medmahmoudhdaya/laravel-deadlock","description":null,"stars":100,"forks":2,"primaryLanguage":"PHP","license":{"spdxId":"MIT"},"createdAt":"2025-12-30T17:33:53Z","pushedAt":"2026-09-09T16:48:04Z","archived":false,"owner":{"login":"medmahmoudhdaya","name":"med mahmoud hdaya","type":"User","url":"https://github.com/medmahmoudhdaya","location":"nouakchott mauritania","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"market","nameWithOwner":"ajbarly/market","url":"https://github.com/ajbarly/market","description":null,"stars":0,"forks":0,"primaryLanguage":"Astro","license":null,"createdAt":"2024-09-18T21:13:40Z","pushedAt":"2026-05-21T15:12:49Z","archived":false,"owner":{"login":"ajbarly","name":"Ajbarly","type":"Organization","url":"https://github.com/ajbarly","location":"Mauritania","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"angular-first-draft","nameWithOwner":"alycoo/angular-first-draft","url":"https://github.com/alycoo/angular-first-draft","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2021-05-18T18:53:44Z","pushedAt":"2021-05-18T18:53:44Z","archived":false,"owner":{"login":"alycoo","name":"Aly","type":"User","url":"https://github.com/alycoo","location":"Nouakchott-Mauritania","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "4c8bd2a15d34c663",
-"updatedAt": "2026-11-22T08:41:14.246Z",
+"contentHash": "0ee535e4a5e0f0eb",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

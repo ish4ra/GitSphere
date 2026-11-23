@@ -5,7 +5,7 @@
 "country": {"code":"MS","name":"Montserrat","slug":"montserrat"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":66,"ownerExpansionBacklog":16,"candidates":66,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":66,"ownerExpansionBacklog":16,"candidates":66,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":8,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"xiaomi_cloud","nameWithOwner":"MagicStarTrace/xiaomi_cloud","url":"https://github.com/MagicStarTrace/xiaomi_cloud","description":null,"stars":24,"forks":1,"primaryLanguage":"Python","license":null,"createdAt":"2025-04-30T07:59:00Z","pushedAt":"2026-04-12T12:27:26Z","archived":false,"owner":{"login":"MagicStarTrace","name":"Magic","type":"User","url":"https://github.com/MagicStarTrace","location":"0008 ,Mayer Pike ,Port Lesaborough ,Arkansas ,Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"huawei_cloud","nameWithOwner":"MagicStarTrace/huawei_cloud","url":"https://github.com/MagicStarTrace/huawei_cloud","description":null,"stars":14,"forks":1,"primaryLanguage":"Python","license":null,"createdAt":"2026-02-13T10:53:41Z","pushedAt":"2026-02-26T08:44:00Z","archived":false,"owner":{"login":"MagicStarTrace","name":"Magic","type":"User","url":"https://github.com/MagicStarTrace","location":"0008 ,Mayer Pike ,Port Lesaborough ,Arkansas ,Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-03","pendingRevalidation":true},
@@ -74,8 +74,8 @@
   {"rank":65,"id":null,"name":"Vanya993","nameWithOwner":"Vanya993/Vanya993","url":"https://github.com/Vanya993/Vanya993","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-01-18T00:30:37Z","pushedAt":"2024-01-18T00:31:43Z","archived":false,"owner":{"login":"Vanya993","name":"Vanessa O. V. Mark","type":"User","url":"https://github.com/Vanya993","location":"Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-23","pendingRevalidation":true},
   {"rank":66,"id":null,"name":"a","nameWithOwner":"wake-up-sluts/a","url":"https://github.com/wake-up-sluts/a","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-06-25T05:59:27Z","pushedAt":"2026-08-06T10:56:09Z","archived":false,"owner":{"login":"wake-up-sluts","name":"Cosmosnaut","type":"User","url":"https://github.com/wake-up-sluts","location":"Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-23","pendingRevalidation":true}
 ],
-"contentHash": "fd21495afaed2d6a",
-"updatedAt": "2026-11-22T08:41:14.246Z",
+"contentHash": "e2aceb4336e3868d",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-10-03",
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"AX","name":"Åland Islands","slug":"aland-islands"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":55,"ownerExpansionBacklog":109,"candidates":55,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":33,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":55,"ownerExpansionBacklog":108,"candidates":55,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":33,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"active_record_upsert","nameWithOwner":"jesjos/active_record_upsert","url":"https://github.com/jesjos/active_record_upsert","description":null,"stars":207,"forks":49,"primaryLanguage":"Ruby","license":{"spdxId":"MIT"},"createdAt":"2016-02-18T15:13:01Z","pushedAt":"2026-07-29T07:49:08Z","archived":false,"owner":{"login":"jesjos","name":"Jesper Josefsson","type":"User","url":"https://github.com/jesjos","location":"Mariehamn, Åland","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Terraform-Topics","nameWithOwner":"rahulwagh/Terraform-Topics","url":"https://github.com/rahulwagh/Terraform-Topics","description":null,"stars":198,"forks":769,"primaryLanguage":"HCL","license":null,"createdAt":"2021-08-27T20:16:32Z","pushedAt":"2024-02-27T08:17:02Z","archived":false,"owner":{"login":"rahulwagh","name":"Rahul Wagh","type":"User","url":"https://github.com/rahulwagh","location":"Mariehamn, Åland","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -63,8 +63,8 @@
   {"rank":54,"id":null,"name":"hello-world","nameWithOwner":"wileri/hello-world","url":"https://github.com/wileri/hello-world","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2019-10-14T08:10:31Z","pushedAt":"2020-08-12T05:50:50Z","archived":false,"owner":{"login":"wileri","name":"William Eriksson","type":"User","url":"https://github.com/wileri","location":"Mariehamn, Åland","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":55,"id":null,"name":"youngstermrgamefun","nameWithOwner":"youngstermrgamefun/youngstermrgamefun","url":"https://github.com/youngstermrgamefun/youngstermrgamefun","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-29T01:24:33Z","pushedAt":"2024-09-29T01:25:01Z","archived":false,"owner":{"login":"youngstermrgamefun","name":null,"type":"User","url":"https://github.com/youngstermrgamefun","location":"Åland Islands (AX)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "bf4244bc87b1392a",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "942180a3e1229709",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

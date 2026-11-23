@@ -5,12 +5,12 @@
 "country": {"code":"EH","name":"Western Sahara","slug":"western-sahara"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":17,"measuredAccounts":3,"measurementBacklog":14,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":34,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":17,"measuredAccounts":4,"measurementBacklog":13,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":34,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjYwODE3ODc1","login":"suzuya1331","name":"Hassan mansour","url":"https://github.com/suzuya1331","avatarUrl":"https://avatars.githubusercontent.com/u/60817875?s=80&v=4","followers":30,"publicRepos":36,"location":"Laayoune, Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":192,"commits":149,"pullRequests":11,"reviews":0,"issues":10,"repositories":22,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "57ecad56deb997f3",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "9b9993c8371ec266",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

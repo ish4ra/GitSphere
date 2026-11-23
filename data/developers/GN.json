@@ -7,7 +7,7 @@
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
 "coverage": {"basis":"partial","cutoffFollowers":0,"candidates":306,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":76,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDOBpn7Gw","login":"SouleymaneSy7","name":"Souleymane Sy","url":"https://github.com/SouleymaneSy7","avatarUrl":"https://avatars.githubusercontent.com/u/110754587?s=80&v=4","followers":459,"publicRepos":91,"location":"Guinée, Conakry","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":1,"id":"U_kgDOBpn7Gw","login":"SouleymaneSy7","name":"Souleymane Sy","url":"https://github.com/SouleymaneSy7","avatarUrl":"https://avatars.githubusercontent.com/u/110754587?s=80&v=4","followers":460,"publicRepos":91,"location":"Guinée, Conakry","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":2,"id":"MDQ6VXNlcjQ2ODI3Nw==","login":"evanxg852000","name":"Evance Soumaoro","url":"https://github.com/evanxg852000","avatarUrl":"https://avatars.githubusercontent.com/u/468277?s=80&v=4","followers":88,"publicRepos":82,"location":"Conakry - Guinea","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":3,"id":"MDQ6VXNlcjI1MzIxNzQ5","login":"camara94","name":"Laby Damaro CAMARA","url":"https://github.com/camara94","avatarUrl":"https://avatars.githubusercontent.com/u/25321749?s=80&v=4","followers":87,"publicRepos":375,"location":"Conakry, Guinée","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":4,"id":"MDQ6VXNlcjM2MzMzNTY1","login":"hadpro24","name":"Harouna Diallo","url":"https://github.com/hadpro24","avatarUrl":"https://avatars.githubusercontent.com/u/36333565?s=80&v=4","followers":77,"publicRepos":130,"location":"Guinée, Conakry, GN","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
@@ -314,8 +314,8 @@
   {"rank":305,"id":"MDQ6VXNlcjUyODQyMzI2","login":"Smnils","name":"Hakim Konaté","url":"https://github.com/Smnils","avatarUrl":"https://avatars.githubusercontent.com/u/52842326?s=80&v=4","followers":0,"publicRepos":1,"location":"Guinea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":306,"id":"U_kgDODxVTfA","login":"yuhtechmultiservices-rgb","name":"YUHTECH-MULTISERVICES","url":"https://github.com/yuhtechmultiservices-rgb","avatarUrl":"https://avatars.githubusercontent.com/u/253055868?s=80&v=4","followers":0,"publicRepos":0,"location":"MALABO EQUATORIAL GUINEA","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "1105058878ef461a",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "c07bf1bb9f70e568",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

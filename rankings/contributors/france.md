@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/contributors/FR.json">JSON</a> |
+| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/FR.json">JSON</a> |
 
 </div>
 
@@ -25,6 +25,15 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/Calinou"><img src="https://avatars.githubusercontent.com/u/180032?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Calinou"><b>Hugo Locurcio</b></a><br><sub>&#64;Calinou · 1,657 followers</sub></td>
+<td align="right"><b>2,593</b></td>
+<td align="right">882</td>
+<td align="right">424</td>
+<td align="right">1,177</td>
+<td align="right">102</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/stof"><img src="https://avatars.githubusercontent.com/u/439401?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stof"><b>Christophe Coevoet</b></a><br><sub>&#64;stof · 2,144 followers</sub></td>
 <td align="right"><b>1,574</b></td>
 <td align="right">313</td>
@@ -33,7 +42,7 @@
 <td align="right">131</td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">3</td>
 <td><a href="https://github.com/Haroenv"><img src="https://avatars.githubusercontent.com/u/6270048?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Haroenv"><b>Haroen Viaene</b></a><br><sub>&#64;Haroenv · 633 followers</sub></td>
 <td align="right"><b>1,163</b></td>
 <td align="right">629</td>
@@ -42,13 +51,22 @@
 <td align="right">5</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/noraj"><img src="https://avatars.githubusercontent.com/u/16578570?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/noraj"><b>Alexandre ZANNI</b></a><br><sub>&#64;noraj · 2,412 followers</sub></td>
 <td align="right"><b>823</b></td>
 <td align="right">426</td>
 <td align="right">87</td>
 <td align="right">199</td>
 <td align="right">87</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/dymafr"><img src="https://avatars.githubusercontent.com/u/32801166?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dymafr"><b>Dyma</b></a><br><sub>&#64;dymafr · 353 followers</sub></td>
+<td align="right"><b>74</b></td>
+<td align="right">26</td>
+<td align="right">29</td>
+<td align="right">0</td>
+<td align="right">2</td>
 </tr>
 </tbody>
 </table>
@@ -57,7 +75,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 4 of 733 discovered developers (729 awaiting measurement).
+- **Measured:** 6 of 956 discovered developers (950 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 195 in round 1.

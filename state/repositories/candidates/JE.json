@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"JE","name":"Jersey","slug":"jersey"},
-"count": 62,
+"count": 60,
 "repositories": [
-  {"name":"structurizr/lite","stars":383,"forks":61,"language":"Java","license":"MIT","archived":true,"createdAt":"2022-09-04T09:29:18Z","pushedAt":"2026-02-01T14:25:09Z","owner":{"login":"structurizr","type":"Organization","name":"Structurizr","location":"Jersey, Channel Islands"},"attribution":{"code":"JE","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T21:29:26.493Z","id":"legacy:structurizr/lite","legacy":true},
-  {"name":"structurizr/onpremises","stars":222,"forks":76,"language":"Java","license":"MIT","archived":true,"createdAt":"2022-09-04T09:31:24Z","pushedAt":"2026-03-27T17:05:30Z","owner":{"login":"structurizr","type":"Organization","name":"Structurizr","location":"Jersey, Channel Islands"},"attribution":{"code":"JE","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-16T21:29:26.493Z","id":"legacy:structurizr/onpremises","legacy":true},
   {"name":"simonbrowndotje/c4model","stars":102,"forks":39,"language":"JavaScript","archived":false,"createdAt":"2017-08-01T20:51:59Z","pushedAt":"2026-09-15T12:02:18Z","owner":{"login":"simonbrowndotje","type":"User","name":"Simon Brown","location":"Jersey, Channel Islands"},"attribution":{"code":"JE","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T22:09:51.888Z","id":"legacy:simonbrowndotje/c4model","legacy":true},
   {"name":"digitalbuddha/RxStarter","stars":74,"forks":5,"language":"Java","archived":false,"createdAt":"2015-03-27T11:48:26Z","pushedAt":"2017-02-11T06:09:22Z","owner":{"login":"digitalbuddha","type":"User","name":"Mike Nakhimovich","location":"The dirty (jersey)"},"attribution":{"code":"JE","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T22:09:51.888Z","id":"legacy:digitalbuddha/rxstarter","legacy":true},
   {"name":"alexriley/Cache2SSD","stars":2,"forks":0,"language":"Python","license":"GPL-2.0","archived":false,"createdAt":"2015-02-22T20:16:05Z","pushedAt":"2015-03-03T22:27:35Z","owner":{"login":"alexriley","type":"User","name":"Alex Riley","location":"South Jersey (Greater Philadelphia)"},"attribution":{"code":"JE","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T22:09:51.888Z","id":"legacy:alexriley/cache2ssd","legacy":true},

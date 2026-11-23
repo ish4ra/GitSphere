@@ -34,7 +34,7 @@
   {"rank":25,"id":"U_kgDODoyCnw","login":"Degrace15","name":"Degrace","url":"https://github.com/Degrace15","avatarUrl":"https://avatars.githubusercontent.com/u/244089503?s=80&v=4","followers":11,"publicRepos":7,"location":"Congo, Brazzaville","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":26,"id":"MDQ6VXNlcjg0MDgyNDI3","login":"jlerocher","name":"jlerocher","url":"https://github.com/jlerocher","avatarUrl":"https://avatars.githubusercontent.com/u/84082427?s=80&v=4","followers":10,"publicRepos":17,"location":"Brazzaville - Congo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":27,"id":"MDQ6VXNlcjg4OTc0NzU1","login":"SedeoLeos","name":"Slaega","url":"https://github.com/SedeoLeos","avatarUrl":"https://avatars.githubusercontent.com/u/88974755?s=80&v=4","followers":9,"publicRepos":103,"location":"Brazzaville congo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
-  {"rank":28,"id":"U_kgDOBw0-og","login":"sancty007","name":"sanctifier Yaw-Mensah","url":"https://github.com/sancty007","avatarUrl":"https://avatars.githubusercontent.com/u/118308514?s=80&v=4","followers":9,"publicRepos":87,"location":"Congo Brazzaville","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":28,"id":"U_kgDOBw0-og","login":"sancty007","name":"sanctifier Yaw-Mensah","url":"https://github.com/sancty007","avatarUrl":"https://avatars.githubusercontent.com/u/118308514?s=80&v=4","followers":9,"publicRepos":87,"location":"Congo Brazzaville","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":29,"id":"MDQ6VXNlcjMxNzg0NDU1","login":"didiamuri","name":"Didierson AMURI","url":"https://github.com/didiamuri","avatarUrl":"https://avatars.githubusercontent.com/u/31784455?s=80&v=4","followers":9,"publicRepos":65,"location":"Kinshasa, Congo DR","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":30,"id":"MDQ6VXNlcjEwNzgwNjg2","login":"lepresk","name":"Logan CodeMaker","url":"https://github.com/lepresk","avatarUrl":"https://avatars.githubusercontent.com/u/10780686?s=80&v=4","followers":9,"publicRepos":44,"location":"Brazzaville, Congo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":31,"id":"U_kgDOC2s3ng","login":"JBixx","name":"HIRWA Jean Baptiste","url":"https://github.com/JBixx","avatarUrl":"https://avatars.githubusercontent.com/u/191575966?s=80&v=4","followers":9,"publicRepos":38,"location":"Brazzaville, Republic of the Congo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
@@ -213,8 +213,8 @@
   {"rank":204,"id":"MDQ6VXNlcjc4MDI5MTM1","login":"ProvidenceBara3","name":"Providencia","url":"https://github.com/ProvidenceBara3","avatarUrl":"https://avatars.githubusercontent.com/u/78029135?s=80&v=4","followers":0,"publicRepos":0,"location":"Goma- DR CONGO","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":205,"id":"U_kgDOELpyrA","login":"SJL-Ambassadeur","name":"Monsieur l'Ambassadeur Joyeux Aurel Précieux BOUKAKA.","url":"https://github.com/SJL-Ambassadeur","avatarUrl":"https://avatars.githubusercontent.com/u/280654508?s=80&v=4","followers":0,"publicRepos":0,"location":"Brazzaville, Republic of the Congo.","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "1032444a4ddf93c3",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "020f9789b310a3f4",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

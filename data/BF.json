@@ -5,7 +5,7 @@
 "country": {"code":"BF","name":"Burkina Faso","slug":"burkina-faso"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":17,"ownerExpansionBacklog":150,"candidates":17,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":115,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":17,"ownerExpansionBacklog":149,"candidates":17,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":115,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Cyberia-Project","nameWithOwner":"prototypeX-sys/Cyberia-Project","url":"https://github.com/prototypeX-sys/Cyberia-Project","description":null,"stars":3,"forks":0,"primaryLanguage":null,"license":{"spdxId":"NOASSERTION"},"createdAt":"2026-07-16T13:19:11Z","pushedAt":"2026-08-02T14:24:12Z","archived":false,"owner":{"login":"prototypeX-sys","name":"SANOGO TA JOSAPHAT","type":"User","url":"https://github.com/prototypeX-sys","location":"BOBO-DIOULASSO","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Site-web-Nexus-Maths","nameWithOwner":"65257576/Site-web-Nexus-Maths","url":"https://github.com/65257576/Site-web-Nexus-Maths","description":null,"stars":1,"forks":0,"primaryLanguage":"CSS","license":{"spdxId":"MIT"},"createdAt":"2025-08-26T16:46:35Z","pushedAt":"2025-08-29T20:44:59Z","archived":false,"owner":{"login":"65257576","name":"COULIBALY Tiecoura Ismael","type":"User","url":"https://github.com/65257576","location":"Bobo-Dioulasso","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -25,8 +25,8 @@
   {"rank":16,"id":null,"name":"github-final-project","nameWithOwner":"syounoussa/github-final-project","url":"https://github.com/syounoussa/github-final-project","description":null,"stars":0,"forks":0,"primaryLanguage":"Shell","license":{"spdxId":"Apache-2.0"},"createdAt":"2025-03-27T11:26:50Z","pushedAt":"2025-03-27T11:50:28Z","archived":false,"owner":{"login":"syounoussa","name":"SIDIBE YOUNOUSSA","type":"User","url":"https://github.com/syounoussa","location":"Bobo Dioulasso","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":17,"id":null,"name":"UrbanStyleBF","nameWithOwner":"UrbanStyleBF/UrbanStyleBF","url":"https://github.com/UrbanStyleBF/UrbanStyleBF","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-10-17T16:43:14Z","pushedAt":"2026-10-19T14:53:18Z","archived":false,"owner":{"login":"UrbanStyleBF","name":"UrbanStyleBF","type":"User","url":"https://github.com/UrbanStyleBF","location":"Bobo Dioulasso","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "4d0a8c49d39b5dc0",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "ec725e70d2034e35",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-04",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

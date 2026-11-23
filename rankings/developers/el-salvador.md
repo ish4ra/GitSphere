@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/developers/SV.json">JSON</a> |
+| 🟡 Provisional | **18** | 22 Nov 2026 | <a href="../../data/developers/SV.json">JSON</a> |
 
 </div>
 
@@ -114,13 +114,34 @@
 </tr>
 <tr>
 <td align="right">14</td>
+<td><a href="https://github.com/Carlos007007"><img src="https://avatars.githubusercontent.com/u/16469548?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Carlos007007"><b>Carlos Alfaro</b></a><br><sub>&#64;Carlos007007</sub></td>
+<td align="right"><b>404</b></td>
+<td align="right">39</td>
+<td><sub>El Salvador</sub></td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><a href="https://github.com/xeraa"><img src="https://avatars.githubusercontent.com/u/432211?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xeraa"><b>Philipp Krenn</b></a><br><sub>&#64;xeraa</sub></td>
+<td align="right"><b>357</b></td>
+<td align="right">58</td>
+<td><sub>San Francisco, US</sub></td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><a href="https://github.com/stnguyen90"><img src="https://avatars.githubusercontent.com/u/1477010?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stnguyen90"><b>Steven Nguyen</b></a><br><sub>&#64;stnguyen90</sub></td>
+<td align="right"><b>350</b></td>
+<td align="right">69</td>
+<td><sub>California, US</sub></td>
+</tr>
+<tr>
+<td align="right">17</td>
 <td><a href="https://github.com/deviantfero"><img src="https://avatars.githubusercontent.com/u/11150153?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/deviantfero"><b>Fernando Vásquez</b></a><br><sub>&#64;deviantfero</sub></td>
 <td align="right"><b>57</b></td>
 <td align="right">0</td>
 <td><sub>Santa Tecla, El Salvador</sub></td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">18</td>
 <td><a href="https://github.com/mvp"><img src="https://avatars.githubusercontent.com/u/17501?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mvp"><b>mvp</b></a><br><sub>&#64;mvp</sub></td>
 <td align="right"><b>48</b></td>
 <td align="right">0</td>
@@ -134,7 +155,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 15 attributed developers are tracked; the cutoff is 48 followers.
+- Organizations are excluded. 18 attributed developers are tracked; the cutoff is 48 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/TD.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/TD.json">JSON</a> |
 
 </div>
 
@@ -25,6 +25,24 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/adoumouangnamouemmanuel"><img src="https://avatars.githubusercontent.com/u/125479958?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adoumouangnamouemmanuel"><b>Emmanuel Adoum</b></a><br><sub>&#64;adoumouangnamouemmanuel · 28 followers</sub></td>
+<td align="right"><b>1,297</b></td>
+<td align="right">1,230</td>
+<td align="right">9</td>
+<td align="right">1</td>
+<td align="right">42</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/abelmohsinmahamat-crypto"><img src="https://avatars.githubusercontent.com/u/266070729?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abelmohsinmahamat-crypto"><b>ABDELMOHSIN MAHAMAT</b></a><br><sub>&#64;abelmohsinmahamat-crypto · 1 followers</sub></td>
+<td align="right"><b>117</b></td>
+<td align="right">61</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/abdoulayeibniabdoulayemahamat"><img src="https://avatars.githubusercontent.com/u/306742997?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdoulayeibniabdoulayemahamat"><b>Abdoulaye Ibni Abdoulaye Mahamat</b></a><br><sub>&#64;abdoulayeibniabdoulayemahamat · 0 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">2</td>
@@ -33,7 +51,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">4</td>
 <td><a href="https://github.com/01Hassa"><img src="https://avatars.githubusercontent.com/u/142748244?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/01Hassa"><b>Hassa</b></a><br><sub>&#64;01Hassa · 0 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
@@ -48,7 +66,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 6 of 106 discovered developers (100 awaiting measurement).
+- **Measured:** 8 of 106 discovered developers (98 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

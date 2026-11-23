@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/VG.json">JSON</a> |
+| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/VG.json">JSON</a> |
 
 </div>
 
@@ -52,6 +52,15 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/ChengZhu-Science-Repository"><img src="https://avatars.githubusercontent.com/u/239911136?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ChengZhu-Science-Repository"><b>Liu Huan</b></a><br><sub>&#64;ChengZhu-Science-Repository · 1 followers</sub></td>
+<td align="right"><b>28</b></td>
+<td align="right">28</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/bluelink-os"><img src="https://avatars.githubusercontent.com/u/345057346?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bluelink-os"><b>BlueLink OS</b></a><br><sub>&#64;bluelink-os · 0 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">2</td>
@@ -66,7 +75,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 6 of 45 discovered developers (39 awaiting measurement).
+- **Measured:** 8 of 45 discovered developers (37 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

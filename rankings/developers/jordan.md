@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **397** | 22 Nov 2026 | <a href="../../data/developers/JO.json">JSON</a> |
+| 🟡 Provisional | **398** | 22 Nov 2026 | <a href="../../data/developers/JO.json">JSON</a> |
 
 </div>
 
@@ -2326,475 +2326,482 @@
 </tr>
 <tr>
 <td align="right">330</td>
+<td><a href="https://github.com/AhmadMTR88"><img src="https://avatars.githubusercontent.com/u/107460097?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AhmadMTR88"><b>Ahmad Mattar</b></a><br><sub>&#64;AhmadMTR88</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Jordan</sub></td>
+</tr>
+<tr>
+<td align="right">331</td>
 <td><a href="https://github.com/ahmadsawalha7"><img src="https://avatars.githubusercontent.com/u/58442689?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahmadsawalha7"><b>Ahmad Sawalha</b></a><br><sub>&#64;ahmadsawalha7</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Irbid- Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">331</td>
+<td align="right">332</td>
 <td><a href="https://github.com/ahmadshkour"><img src="https://avatars.githubusercontent.com/u/26706840?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahmadshkour"><b>Ahmad Shakour</b></a><br><sub>&#64;ahmadshkour</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Amman,Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">332</td>
+<td align="right">333</td>
 <td><a href="https://github.com/AhmadTayseer"><img src="https://avatars.githubusercontent.com/u/100962844?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AhmadTayseer"><b>AhmadTaha</b></a><br><sub>&#64;AhmadTayseer</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Amman - Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">333</td>
+<td align="right">334</td>
 <td><a href="https://github.com/Ahmed-albahbahani"><img src="https://avatars.githubusercontent.com/u/162690210?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ahmed-albahbahani"><b>Ahmed</b></a><br><sub>&#64;Ahmed-albahbahani</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Amman, Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">334</td>
+<td align="right">335</td>
 <td><a href="https://github.com/AhmedAl-Ajlouni"><img src="https://avatars.githubusercontent.com/u/135014780?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AhmedAl-Ajlouni"><b>Ahmed M. Al-Ajlouni</b></a><br><sub>&#64;AhmedAl-Ajlouni</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Amman, Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">335</td>
+<td align="right">336</td>
 <td><a href="https://github.com/ahmedalhloul97"><img src="https://avatars.githubusercontent.com/u/87477925?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahmedalhloul97"><b>Eng. Ahmed M. Al-Hloul</b></a><br><sub>&#64;ahmedalhloul97</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Amman - Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">336</td>
+<td align="right">337</td>
 <td><a href="https://github.com/Aizen-Design"><img src="https://avatars.githubusercontent.com/u/174198361?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aizen-Design"><b>Aizen Sousuke</b></a><br><sub>&#64;Aizen-Design</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Sahaab. Amman. Jordan.</sub></td>
 </tr>
 <tr>
-<td align="right">337</td>
+<td align="right">338</td>
 <td><a href="https://github.com/Ala-Hanoun"><img src="https://avatars.githubusercontent.com/u/92582033?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ala-Hanoun"><b>Ala&#39; Hanoun</b></a><br><sub>&#64;Ala-Hanoun</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">338</td>
+<td align="right">339</td>
 <td><a href="https://github.com/Alaa-Alkbereet"><img src="https://avatars.githubusercontent.com/u/50852902?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alaa-Alkbereet"><b>عـلاء الكبيـريت</b></a><br><sub>&#64;Alaa-Alkbereet</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan, mafraq</sub></td>
 </tr>
 <tr>
-<td align="right">339</td>
+<td align="right">340</td>
 <td><a href="https://github.com/Alaa-Asfa-21"><img src="https://avatars.githubusercontent.com/u/192267193?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alaa-Asfa-21"><b>3laa&#95;3sfa</b></a><br><sub>&#64;Alaa-Asfa-21</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan-Irbid</sub></td>
 </tr>
 <tr>
-<td align="right">340</td>
+<td align="right">341</td>
 <td><a href="https://github.com/AlaaFarahid"><img src="https://avatars.githubusercontent.com/u/1629273?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlaaFarahid"><b>Alaa Farahid</b></a><br><sub>&#64;AlaaFarahid</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>jordan</sub></td>
 </tr>
 <tr>
-<td align="right">341</td>
+<td align="right">342</td>
 <td><a href="https://github.com/AlaaIDS"><img src="https://avatars.githubusercontent.com/u/30799752?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlaaIDS"><b>Alaa</b></a><br><sub>&#64;AlaaIDS</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">342</td>
+<td align="right">343</td>
 <td><a href="https://github.com/Alamosh89"><img src="https://avatars.githubusercontent.com/u/55674691?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alamosh89"><b>Mohammad Alamosh</b></a><br><sub>&#64;Alamosh89</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan zarqa</sub></td>
 </tr>
 <tr>
-<td align="right">343</td>
+<td align="right">344</td>
 <td><a href="https://github.com/ali-it1"><img src="https://avatars.githubusercontent.com/u/140090522?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ali-it1"><b>Ali Al Zoubi</b></a><br><sub>&#64;ali-it1</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">344</td>
+<td align="right">345</td>
 <td><a href="https://github.com/AliaAbuAmireh"><img src="https://avatars.githubusercontent.com/u/95093856?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AliaAbuAmireh"><b>Alia AbuAmireh</b></a><br><sub>&#64;AliaAbuAmireh</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>As-Salt - Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">345</td>
+<td align="right">346</td>
 <td><a href="https://github.com/aliishyu"><img src="https://avatars.githubusercontent.com/u/150002939?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aliishyu"><b>aloosh</b></a><br><sub>&#64;aliishyu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>jordan</sub></td>
 </tr>
 <tr>
-<td align="right">346</td>
+<td align="right">347</td>
 <td><a href="https://github.com/Alkhateeb-Ghaith"><img src="https://avatars.githubusercontent.com/u/163314259?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alkhateeb-Ghaith"><b>Ghaith M Al-khateeb</b></a><br><sub>&#64;Alkhateeb-Ghaith</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Amman-Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">347</td>
+<td align="right">348</td>
 <td><a href="https://github.com/almajdsoft"><img src="https://avatars.githubusercontent.com/u/86717820?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/almajdsoft"><b>Almajdsoft</b></a><br><sub>&#64;almajdsoft</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Amman-Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">348</td>
+<td align="right">349</td>
 <td><a href="https://github.com/alsheikh813"><img src="https://avatars.githubusercontent.com/u/47327428?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alsheikh813"><b>Ashraf Hasan Alsheikh</b></a><br><sub>&#64;alsheikh813</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Amman, Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">349</td>
+<td align="right">350</td>
 <td><a href="https://github.com/Altarawneh93"><img src="https://avatars.githubusercontent.com/u/119481187?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Altarawneh93"><b>Mohammad Salah Altarawneh</b></a><br><sub>&#64;Altarawneh93</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">350</td>
+<td align="right">351</td>
 <td><a href="https://github.com/amah3r"><img src="https://avatars.githubusercontent.com/u/18531003?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amah3r"><b>Amanda</b></a><br><sub>&#64;amah3r</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Amman, Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">351</td>
+<td align="right">352</td>
 <td><a href="https://github.com/AMERALORAN"><img src="https://avatars.githubusercontent.com/u/96674294?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AMERALORAN"><b>ameraloran</b></a><br><sub>&#64;AMERALORAN</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">352</td>
+<td align="right">353</td>
 <td><a href="https://github.com/amjadSalameh"><img src="https://avatars.githubusercontent.com/u/9988210?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amjadSalameh"><b>Amjad Salameh</b></a><br><sub>&#64;amjadSalameh</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Amman, Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">353</td>
+<td align="right">354</td>
 <td><a href="https://github.com/ammargh-4"><img src="https://avatars.githubusercontent.com/u/145271289?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ammargh-4"><b>Ammar</b></a><br><sub>&#64;ammargh-4</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>jordan</sub></td>
 </tr>
 <tr>
-<td align="right">354</td>
+<td align="right">355</td>
 <td><a href="https://github.com/AmmarOdeh0012"><img src="https://avatars.githubusercontent.com/u/58253403?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AmmarOdeh0012"><b>Ammar Odeh</b></a><br><sub>&#64;AmmarOdeh0012</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">355</td>
+<td align="right">356</td>
 <td><a href="https://github.com/ammarorieq"><img src="https://avatars.githubusercontent.com/u/33268972?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ammarorieq"><b>Ammarorieq</b></a><br><sub>&#64;ammarorieq</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan - Amman</sub></td>
 </tr>
 <tr>
-<td align="right">356</td>
+<td align="right">357</td>
 <td><a href="https://github.com/AmmarSukkareah"><img src="https://avatars.githubusercontent.com/u/38703476?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AmmarSukkareah"><b>Ammar Sukkareah</b></a><br><sub>&#64;AmmarSukkareah</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">357</td>
+<td align="right">358</td>
 <td><a href="https://github.com/Amro-Shawarbeh"><img src="https://avatars.githubusercontent.com/u/121385732?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Amro-Shawarbeh"><b>Amro Al-shawarbeh</b></a><br><sub>&#64;Amro-Shawarbeh</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>jordan</sub></td>
 </tr>
 <tr>
-<td align="right">358</td>
+<td align="right">359</td>
 <td><a href="https://github.com/anaalawi"><img src="https://avatars.githubusercontent.com/u/59293030?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anaalawi"><b>ali</b></a><br><sub>&#64;anaalawi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>jordan</sub></td>
 </tr>
 <tr>
-<td align="right">359</td>
+<td align="right">360</td>
 <td><a href="https://github.com/anasjbour"><img src="https://avatars.githubusercontent.com/u/91135989?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anasjbour"><b>Anas Al Jbour</b></a><br><sub>&#64;anasjbour</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Amman Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">360</td>
+<td align="right">361</td>
 <td><a href="https://github.com/AnasNaamneh"><img src="https://avatars.githubusercontent.com/u/93840867?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AnasNaamneh"><b>Anas Naamneh</b></a><br><sub>&#64;AnasNaamneh</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">361</td>
+<td align="right">362</td>
 <td><a href="https://github.com/anassailik92"><img src="https://avatars.githubusercontent.com/u/139059063?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anassailik92"><b>Anas Sailik</b></a><br><sub>&#64;anassailik92</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Amman/Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">362</td>
+<td align="right">363</td>
 <td><a href="https://github.com/anisnazer"><img src="https://avatars.githubusercontent.com/u/16527188?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anisnazer"><b>Anis Nazer</b></a><br><sub>&#64;anisnazer</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Amman, Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">363</td>
+<td align="right">364</td>
 <td><a href="https://github.com/anstupase-rgb"><img src="https://avatars.githubusercontent.com/u/269610251?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anstupase-rgb"><b>Anas tupase</b></a><br><sub>&#64;anstupase-rgb</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Amman, Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">364</td>
+<td align="right">365</td>
 <td><a href="https://github.com/Aoful"><img src="https://avatars.githubusercontent.com/u/95742088?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aoful"><b>Ash</b></a><br><sub>&#64;Aoful</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Amman, Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">365</td>
+<td align="right">366</td>
 <td><a href="https://github.com/arab-dev"><img src="https://avatars.githubusercontent.com/u/63979726?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arab-dev"><b>arab-dev</b></a><br><sub>&#64;arab-dev</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Amman, Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">366</td>
+<td align="right">367</td>
 <td><a href="https://github.com/asaedsaed"><img src="https://avatars.githubusercontent.com/u/242671911?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asaedsaed"><b>Asaed Faisal Saeed</b></a><br><sub>&#64;asaedsaed</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Amman, Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">367</td>
+<td align="right">368</td>
 <td><a href="https://github.com/Asem-shbatat"><img src="https://avatars.githubusercontent.com/u/102439693?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Asem-shbatat"><b>Asem - Shbatat</b></a><br><sub>&#64;Asem-shbatat</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Amman - Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">368</td>
+<td align="right">369</td>
 <td><a href="https://github.com/ashrafj96"><img src="https://avatars.githubusercontent.com/u/48738898?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ashrafj96"><b>ashrafj96</b></a><br><sub>&#64;ashrafj96</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Amman/Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">369</td>
+<td align="right">370</td>
 <td><a href="https://github.com/Asim239"><img src="https://avatars.githubusercontent.com/u/81054146?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Asim239"><b>Asim Abualrub</b></a><br><sub>&#64;Asim239</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">370</td>
+<td align="right">371</td>
 <td><a href="https://github.com/auktubli"><img src="https://avatars.githubusercontent.com/u/207355268?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/auktubli"><b>Nahdah</b></a><br><sub>&#64;auktubli</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">371</td>
+<td align="right">372</td>
 <td><a href="https://github.com/ayah989"><img src="https://avatars.githubusercontent.com/u/112970757?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ayah989"><b>Ayah Alomar</b></a><br><sub>&#64;ayah989</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>jordan</sub></td>
 </tr>
 <tr>
-<td align="right">372</td>
+<td align="right">373</td>
 <td><a href="https://github.com/BENZIAD98"><img src="https://avatars.githubusercontent.com/u/90534636?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BENZIAD98"><b>TAREQ ZIAD</b></a><br><sub>&#64;BENZIAD98</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>AM-JORDAN</sub></td>
 </tr>
 <tr>
-<td align="right">373</td>
+<td align="right">374</td>
 <td><a href="https://github.com/daliaalrousan"><img src="https://avatars.githubusercontent.com/u/98903837?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/daliaalrousan"><b>Dalia Q. Al-Rousan</b></a><br><sub>&#64;daliaalrousan</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">374</td>
+<td align="right">375</td>
 <td><a href="https://github.com/Dev-Hamode"><img src="https://avatars.githubusercontent.com/u/8156269?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dev-Hamode"><b>Dev-Hamode</b></a><br><sub>&#64;Dev-Hamode</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan-Amman</sub></td>
 </tr>
 <tr>
-<td align="right">375</td>
+<td align="right">376</td>
 <td><a href="https://github.com/Eliasmain"><img src="https://avatars.githubusercontent.com/u/167146944?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Eliasmain"><b>RendezvousWOL</b></a><br><sub>&#64;Eliasmain</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">376</td>
+<td align="right">377</td>
 <td><a href="https://github.com/EthicsHZM"><img src="https://avatars.githubusercontent.com/u/43281531?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EthicsHZM"><b>Hazem Abu Adaiq</b></a><br><sub>&#64;EthicsHZM</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">377</td>
+<td align="right">378</td>
 <td><a href="https://github.com/GLITCH28JO"><img src="https://avatars.githubusercontent.com/u/150447561?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GLITCH28JO"><b>glitch.&#95;.jo</b></a><br><sub>&#64;GLITCH28JO</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">378</td>
+<td align="right">379</td>
 <td><a href="https://github.com/HadEel-Alkhalailah"><img src="https://avatars.githubusercontent.com/u/36044549?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HadEel-Alkhalailah"><b>HadEel</b></a><br><sub>&#64;HadEel-Alkhalailah</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">379</td>
+<td align="right">380</td>
 <td><a href="https://github.com/hadeelaljamal"><img src="https://avatars.githubusercontent.com/u/61201394?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hadeelaljamal"><b>hadeel aljamal</b></a><br><sub>&#64;hadeelaljamal</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">380</td>
+<td align="right">381</td>
 <td><a href="https://github.com/haninmaltii"><img src="https://avatars.githubusercontent.com/u/133718140?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/haninmaltii"><b>haninmaltii</b></a><br><sub>&#64;haninmaltii</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>jordan</sub></td>
 </tr>
 <tr>
-<td align="right">381</td>
+<td align="right">382</td>
 <td><a href="https://github.com/khalidnobani"><img src="https://avatars.githubusercontent.com/u/2097432?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/khalidnobani"><b>khalid nobani</b></a><br><sub>&#64;khalidnobani</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Amman, Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">382</td>
+<td align="right">383</td>
 <td><a href="https://github.com/KoofArbab"><img src="https://avatars.githubusercontent.com/u/108668045?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KoofArbab"><b>Koof</b></a><br><sub>&#64;KoofArbab</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>jordan</sub></td>
 </tr>
 <tr>
-<td align="right">383</td>
+<td align="right">384</td>
 <td><a href="https://github.com/LoaiAlqatanani"><img src="https://avatars.githubusercontent.com/u/108497174?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LoaiAlqatanani"><b>Loai Alqatanani</b></a><br><sub>&#64;LoaiAlqatanani</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">384</td>
+<td align="right">385</td>
 <td><a href="https://github.com/maralbaba"><img src="https://avatars.githubusercontent.com/u/56701696?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maralbaba"><b>Marwan Albaba</b></a><br><sub>&#64;maralbaba</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>jordan</sub></td>
 </tr>
 <tr>
-<td align="right">385</td>
+<td align="right">386</td>
 <td><a href="https://github.com/MO-JA-SH"><img src="https://avatars.githubusercontent.com/u/155194217?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MO-JA-SH"><b>MOHAMMED ALSHOUHA</b></a><br><sub>&#64;MO-JA-SH</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>JORDAN</sub></td>
 </tr>
 <tr>
-<td align="right">386</td>
+<td align="right">387</td>
 <td><a href="https://github.com/mohammadalzaghal1997"><img src="https://avatars.githubusercontent.com/u/162658429?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mohammadalzaghal1997"><b>MOHAMMAD ALZAGHAL</b></a><br><sub>&#64;mohammadalzaghal1997</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">387</td>
+<td align="right">388</td>
 <td><a href="https://github.com/mohammeddhoon"><img src="https://avatars.githubusercontent.com/u/1063099?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mohammeddhoon"><b>mohammed dhoon</b></a><br><sub>&#64;mohammeddhoon</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">388</td>
+<td align="right">389</td>
 <td><a href="https://github.com/Mqous-1992"><img src="https://avatars.githubusercontent.com/u/80676829?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mqous-1992"><b>Mohammad Alqous</b></a><br><sub>&#64;Mqous-1992</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">389</td>
+<td align="right">390</td>
 <td><a href="https://github.com/RanaMahmoudAbo-fodeh"><img src="https://avatars.githubusercontent.com/u/69196884?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RanaMahmoudAbo-fodeh"><b>Rana Mahmoud Abo-fodeh</b></a><br><sub>&#64;RanaMahmoudAbo-fodeh</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>jordan</sub></td>
 </tr>
 <tr>
-<td align="right">390</td>
+<td align="right">391</td>
 <td><a href="https://github.com/Shaban110"><img src="https://avatars.githubusercontent.com/u/88607924?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Shaban110"><b>Shaban Alkalili</b></a><br><sub>&#64;Shaban110</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Zarqa, Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">391</td>
+<td align="right">392</td>
 <td><a href="https://github.com/sortechs-dev"><img src="https://avatars.githubusercontent.com/u/32306904?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sortechs-dev"><b>Sortechs</b></a><br><sub>&#64;sortechs-dev</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">392</td>
+<td align="right">393</td>
 <td><a href="https://github.com/talaosama223"><img src="https://avatars.githubusercontent.com/u/119880153?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/talaosama223"><b>Yasmein Amer</b></a><br><sub>&#64;talaosama223</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">393</td>
+<td align="right">394</td>
 <td><a href="https://github.com/victorfiji"><img src="https://avatars.githubusercontent.com/u/62067793?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/victorfiji"><b>victorfiji</b></a><br><sub>&#64;victorfiji</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">394</td>
+<td align="right">395</td>
 <td><a href="https://github.com/yazanm2005"><img src="https://avatars.githubusercontent.com/u/46199486?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yazanm2005"><b>Yazan Maswadeh</b></a><br><sub>&#64;yazanm2005</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan - Amman</sub></td>
 </tr>
 <tr>
-<td align="right">395</td>
+<td align="right">396</td>
 <td><a href="https://github.com/z3bdo"><img src="https://avatars.githubusercontent.com/u/47240471?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/z3bdo"><b>zuhdi</b></a><br><sub>&#64;z3bdo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jordan - Amman</sub></td>
 </tr>
 <tr>
-<td align="right">396</td>
+<td align="right">397</td>
 <td><a href="https://github.com/zaidkamal"><img src="https://avatars.githubusercontent.com/u/1113642?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zaidkamal"><b>Zaid Kamal</b></a><br><sub>&#64;zaidkamal</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Amman, Jordan</sub></td>
 </tr>
 <tr>
-<td align="right">397</td>
+<td align="right">398</td>
 <td><a href="https://github.com/ZAYD82"><img src="https://avatars.githubusercontent.com/u/187128503?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ZAYD82"><b>Zayd Al-Khasawneh</b></a><br><sub>&#64;ZAYD82</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
@@ -2808,7 +2815,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 397 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 398 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 106 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

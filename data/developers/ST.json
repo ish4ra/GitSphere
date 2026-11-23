@@ -5,15 +5,16 @@
 "country": {"code":"ST","name":"São Tomé & Príncipe","slug":"sao-tome-principe"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":5,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"U_kgDOBZNghw","login":"benildebonfim","name":"Benilde","url":"https://github.com/benildebonfim","avatarUrl":"https://avatars.githubusercontent.com/u/93544583?s=80&v=4","followers":47,"publicRepos":14,"location":"São Tomé e Príncipe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":2,"id":"MDQ6VXNlcjcyODgwNTcx","login":"abdulay-cusodio","name":"Abdulay custódio","url":"https://github.com/abdulay-cusodio","avatarUrl":"https://avatars.githubusercontent.com/u/72880571?s=80&v=4","followers":1,"publicRepos":2,"location":"São Tomé and Príncipe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":3,"id":"U_kgDOCtKRpw","login":"bigdaddydobby","name":null,"url":"https://github.com/bigdaddydobby","avatarUrl":"https://avatars.githubusercontent.com/u/181572007?s=80&v=4","followers":0,"publicRepos":5,"location":"São Tomé & Príncipe (ST)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
-  {"rank":4,"id":"U_kgDODx8pOA","login":"alekssanderquintas","name":"Alekssander Costa","url":"https://github.com/alekssanderquintas","avatarUrl":"https://avatars.githubusercontent.com/u/253700408?s=80&v=4","followers":0,"publicRepos":1,"location":"São Tomé e Príncipe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":4,"id":"U_kgDODx8pOA","login":"alekssanderquintas","name":"Alekssander Costa","url":"https://github.com/alekssanderquintas","avatarUrl":"https://avatars.githubusercontent.com/u/253700408?s=80&v=4","followers":0,"publicRepos":1,"location":"São Tomé e Príncipe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":5,"id":"MDQ6VXNlcjQwMzg4MTI1","login":"danielneto81","name":"Daniel Neto","url":"https://github.com/danielneto81","avatarUrl":"https://avatars.githubusercontent.com/u/40388125?s=80&v=4","followers":0,"publicRepos":1,"location":"São Tomé e Príncipe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "25fda2d0066d274e",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "5fd327024ad62781",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

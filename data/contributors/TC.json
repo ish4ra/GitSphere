@@ -5,12 +5,12 @@
 "country": {"code":"TC","name":"Turks & Caicos Islands","slug":"turks-caicos-islands"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":22,"measuredAccounts":3,"measurementBacklog":19,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":22,"measuredAccounts":4,"measurementBacklog":18,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjE3ODk0NDc3","login":"bdanny2","name":"Andrew Dunbar","url":"https://github.com/bdanny2","avatarUrl":"https://avatars.githubusercontent.com/u/17894477?s=80&v=4","followers":0,"publicRepos":20,"location":"Turks and Caicos Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":3,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":3,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "50239d5f7899b0f4",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "8fbd73ba44a22490",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

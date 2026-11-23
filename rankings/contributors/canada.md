@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/CA.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/CA.json">JSON</a> |
 
 </div>
 
@@ -61,6 +61,15 @@
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/n1ckfg"><img src="https://avatars.githubusercontent.com/u/771175?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/n1ckfg"><b>Nick Fox-Gieg</b></a><br><sub>&#64;n1ckfg · 398 followers</sub></td>
+<td align="right"><b>1,407</b></td>
+<td align="right">1,320</td>
+<td align="right">4</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/nschonni"><img src="https://avatars.githubusercontent.com/u/1297909?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nschonni"><b>Nick Schonning</b></a><br><sub>&#64;nschonni · 713 followers</sub></td>
 <td align="right"><b>778</b></td>
 <td align="right">271</td>
@@ -69,7 +78,16 @@
 <td align="right">14</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
+<td><a href="https://github.com/magnologan"><img src="https://avatars.githubusercontent.com/u/1558043?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/magnologan"><b>Magno Logan</b></a><br><sub>&#64;magnologan · 401 followers</sub></td>
+<td align="right"><b>185</b></td>
+<td align="right">89</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">8</td>
 <td><a href="https://github.com/slamj1"><img src="https://avatars.githubusercontent.com/u/912224?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/slamj1"><b>Sam Morreel</b></a><br><sub>&#64;slamj1 · 504 followers</sub></td>
 <td align="right"><b>104</b></td>
 <td align="right">1</td>
@@ -84,7 +102,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 6 of 1,169 discovered developers (1,163 awaiting measurement).
+- **Measured:** 8 of 1,300 discovered developers (1,292 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 103 in round 1.

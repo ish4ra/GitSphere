@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **27** | 22 Nov 2026 | <a href="../../data/developers/MY.json">JSON</a> |
+| 🟡 Provisional | **34** | 22 Nov 2026 | <a href="../../data/developers/MY.json">JSON</a> |
 
 </div>
 
@@ -163,48 +163,97 @@
 </tr>
 <tr>
 <td align="right">21</td>
+<td><a href="https://github.com/RamadhanAmizudin"><img src="https://avatars.githubusercontent.com/u/2631784?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RamadhanAmizudin"><b>Ramadhan Amizudin</b></a><br><sub>&#64;RamadhanAmizudin</sub></td>
+<td align="right"><b>405</b></td>
+<td align="right">55</td>
+<td><sub>Malaysia</sub></td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><a href="https://github.com/shuvonsec"><img src="https://avatars.githubusercontent.com/u/83355567?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shuvonsec"><b>Md Shariar Shanaz Shuvon</b></a><br><sub>&#64;shuvonsec</sub></td>
+<td align="right"><b>398</b></td>
+<td align="right">86</td>
+<td><sub>Malaysia</sub></td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td><a href="https://github.com/farhan-helmy"><img src="https://avatars.githubusercontent.com/u/59960562?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/farhan-helmy"><b>Farhan Helmy</b></a><br><sub>&#64;farhan-helmy</sub></td>
+<td align="right"><b>381</b></td>
+<td align="right">131</td>
+<td><sub>Malaysia</sub></td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td><a href="https://github.com/dennislamcv1"><img src="https://avatars.githubusercontent.com/u/39684447?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dennislamcv1"><b>Dennis Lam</b></a><br><sub>&#64;dennislamcv1</sub></td>
+<td align="right"><b>379</b></td>
+<td align="right">656</td>
+<td><sub>Malaysia</sub></td>
+</tr>
+<tr>
+<td align="right">25</td>
 <td><a href="https://github.com/slapperwan"><img src="https://avatars.githubusercontent.com/u/573807?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/slapperwan"><b>Azwan Adli</b></a><br><sub>&#64;slapperwan</sub></td>
 <td align="right"><b>222</b></td>
 <td align="right">0</td>
 <td><sub>Kuala Lumpur, Malaysia</sub></td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">26</td>
 <td><a href="https://github.com/subbarayudu-j"><img src="https://avatars.githubusercontent.com/u/49110958?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/subbarayudu-j"><b>Subba Rayudu</b></a><br><sub>&#64;subbarayudu-j</sub></td>
 <td align="right"><b>139</b></td>
 <td align="right">0</td>
 <td><sub>Malaysia</sub></td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">27</td>
+<td><a href="https://github.com/rocketscream"><img src="https://avatars.githubusercontent.com/u/822826?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rocketscream"><b>rocketscream</b></a><br><sub>&#64;rocketscream</sub></td>
+<td align="right"><b>133</b></td>
+<td align="right">0</td>
+<td><sub>Malaysia</sub></td>
+</tr>
+<tr>
+<td align="right">28</td>
 <td><a href="https://github.com/kitloong"><img src="https://avatars.githubusercontent.com/u/7660346?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kitloong"><b>Kit Loong</b></a><br><sub>&#64;kitloong</sub></td>
 <td align="right"><b>124</b></td>
 <td align="right">0</td>
 <td><sub>Kuala Lumpur, Malaysia</sub></td>
 </tr>
 <tr>
-<td align="right">24</td>
+<td align="right">29</td>
 <td><a href="https://github.com/fathulfahmy"><img src="https://avatars.githubusercontent.com/u/100550389?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fathulfahmy"><b>Fathul Fahmy</b></a><br><sub>&#64;fathulfahmy</sub></td>
 <td align="right"><b>117</b></td>
 <td align="right">0</td>
 <td><sub>Malaysia</sub></td>
 </tr>
 <tr>
-<td align="right">25</td>
+<td align="right">30</td>
 <td><a href="https://github.com/salimi-my"><img src="https://avatars.githubusercontent.com/u/55532224?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/salimi-my"><b>Salimi</b></a><br><sub>&#64;salimi-my</sub></td>
 <td align="right"><b>103</b></td>
 <td align="right">0</td>
 <td><sub>Malaysia</sub></td>
 </tr>
 <tr>
-<td align="right">26</td>
+<td align="right">31</td>
+<td><a href="https://github.com/asyraffff"><img src="https://avatars.githubusercontent.com/u/58986949?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asyraffff"><b>Amirul Asyraf</b></a><br><sub>&#64;asyraffff</sub></td>
+<td align="right"><b>92</b></td>
+<td align="right">0</td>
+<td><sub>Malaysia</sub></td>
+</tr>
+<tr>
+<td align="right">32</td>
 <td><a href="https://github.com/shadany7824"><img src="https://avatars.githubusercontent.com/u/183978316?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shadany7824"><b>shadany7824</b></a><br><sub>&#64;shadany7824</sub></td>
 <td align="right"><b>89</b></td>
 <td align="right">0</td>
 <td><sub>Kuala Lumpur, Malaysia</sub></td>
 </tr>
 <tr>
-<td align="right">27</td>
+<td align="right">33</td>
+<td><a href="https://github.com/lamarios"><img src="https://avatars.githubusercontent.com/u/1192563?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lamarios"><b>Paul Fauchon</b></a><br><sub>&#64;lamarios</sub></td>
+<td align="right"><b>83</b></td>
+<td align="right">0</td>
+<td><sub>Kuala Lumpur, Malaysia</sub></td>
+</tr>
+<tr>
+<td align="right">34</td>
 <td><a href="https://github.com/efemkay"><img src="https://avatars.githubusercontent.com/u/42369515?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/efemkay"><b>Faiz Khuzaimah</b></a><br><sub>&#64;efemkay</sub></td>
 <td align="right"><b>45</b></td>
 <td align="right">0</td>
@@ -218,8 +267,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 27 attributed developers are tracked; the cutoff is 45 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 34 attributed developers are tracked; the cutoff is 45 followers.
+- **Location discovery:** term 0 of 155 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

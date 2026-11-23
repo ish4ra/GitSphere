@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **100** | 01 Nov 2026 | <a href="../data/IL.json">JSON</a> |
-
-> **Not yet re-verified.** 7 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/IL.json">JSON</a> |
 
 </div>
 
@@ -676,52 +674,52 @@
 </tr>
 <tr>
 <td align="right">94</td>
-<td><img src="https://github.com/ayende.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ayende/rhino-licensing"><b>ayende/rhino-licensing</b></a></td>
-<td align="right"><b>337</b></td>
-<td align="right">163</td>
-<td>C#</td>
+<td><img src="https://github.com/orlangure.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/orlangure/gnomock"><b>orlangure/gnomock</b></a><br><sub>Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple line…</sub></td>
+<td align="right"><b>1,487</b></td>
+<td align="right">81</td>
+<td>Go</td>
 </tr>
 <tr>
 <td align="right">95</td>
-<td><img src="https://github.com/hoodini.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hoodini/ai-agents-skills"><b>hoodini/ai-agents-skills</b></a></td>
-<td align="right"><b>281</b></td>
-<td align="right">67</td>
-<td>Python</td>
+<td><img src="https://github.com/ealush.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ealush/emoji-picker-react"><b>ealush/emoji-picker-react</b></a><br><sub>The most popular emoji picker for React — plug and play out of the box, or bring your own style system (Tailwind, shadc…</sub></td>
+<td align="right"><b>1,477</b></td>
+<td align="right">212</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">96</td>
-<td><img src="https://github.com/benjamingr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/benjamingr/favicon-bug"><b>benjamingr/favicon-bug</b></a></td>
-<td align="right"><b>242</b></td>
-<td align="right">10</td>
+<td><img src="https://github.com/liady.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/liady/ChatGPT-pdf"><b>liady/ChatGPT-pdf</b></a><br><sub>A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link</sub></td>
+<td align="right"><b>1,476</b></td>
+<td align="right">155</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">97</td>
-<td><img src="https://github.com/borisf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/borisf/classyshark-user-guide"><b>borisf/classyshark-user-guide</b></a></td>
-<td align="right"><b>217</b></td>
-<td align="right">27</td>
-<td>—</td>
+<td><img src="https://github.com/tontinton.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tontinton/maki"><b>tontinton/maki</b></a><br><sub>An efficient AI coding agent extendable by neovim-like Lua plugins</sub></td>
+<td align="right"><b>1,455</b></td>
+<td align="right">230</td>
+<td>Rust</td>
 </tr>
 <tr>
 <td align="right">98</td>
-<td><img src="https://github.com/EladBezalel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EladBezalel/material2-start"><b>EladBezalel/material2-start</b></a></td>
-<td align="right"><b>210</b></td>
-<td align="right">69</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/cyberark.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cyberark/KubiScan"><b>cyberark/KubiScan</b></a><br><sub>A tool to scan Kubernetes cluster for risky permissions</sub></td>
+<td align="right"><b>1,438</b></td>
+<td align="right">144</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">99</td>
-<td><img src="https://github.com/tabnine.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tabnine/tabnine-xcode"><b>tabnine/tabnine-xcode</b></a> <sub>archived</sub></td>
-<td align="right"><b>187</b></td>
-<td align="right">3</td>
-<td>—</td>
+<td><img src="https://github.com/creotip.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/creotip/vue-particles"><b>creotip/vue-particles</b></a><br><sub>Vue.js component for particles backgrounds ✨</sub></td>
+<td align="right"><b>1,432</b></td>
+<td align="right">189</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">100</td>
-<td><img src="https://github.com/giltayar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/giltayar/bilt"><b>giltayar/bilt</b></a></td>
-<td align="right"><b>137</b></td>
-<td align="right">21</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/donno2048.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/donno2048/snake"><b>donno2048/snake</b></a><br><sub>A 54 bytes snake game in x86 assembly</sub></td>
+<td align="right"><b>1,430</b></td>
+<td align="right">44</td>
+<td>Assembly</td>
 </tr>
 </tbody>
 </table>
@@ -729,10 +727,9 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 137 stars; 107 attributed candidates are tracked.
-- 7 entries were carried over from the previous dataset and are pending revalidation.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 1,430 stars; 132 attributed candidates are tracked.
 - 117 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 150 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

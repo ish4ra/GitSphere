@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | :---: |
 | 🟠 Stale | **100** | 29 Oct 2026 | <a href="../data/GI.json">JSON</a> |
 
-> **Not yet re-verified.** 100 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 99 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -25,10 +25,10 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><img src="https://github.com/miohtama.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/miohtama/python-Levenshtein"><b>miohtama/python-Levenshtein</b></a></td>
-<td align="right"><b>392</b></td>
-<td align="right">224</td>
-<td>C</td>
+<td><img src="https://github.com/TokenMarketNet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TokenMarketNet/smart-contracts"><b>TokenMarketNet/smart-contracts</b></a><br><sub>Ethereum smart contracts for security and utility tokens</sub></td>
+<td align="right"><b>1,321</b></td>
+<td align="right">555</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">2</td>
@@ -732,8 +732,8 @@
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 0 stars; 146 attributed candidates are tracked.
-- 100 entries were carried over from the previous dataset and are pending revalidation.
-- 148 multi-repository owners are queued for expansion.
+- 99 entries were carried over from the previous dataset and are pending revalidation.
+- 145 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 14 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

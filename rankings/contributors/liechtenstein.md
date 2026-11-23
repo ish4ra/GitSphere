@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/LI.json">JSON</a> |
+| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/contributors/LI.json">JSON</a> |
 
 </div>
 
@@ -34,6 +34,15 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/vad-babushkin"><img src="https://avatars.githubusercontent.com/u/9576572?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vad-babushkin"><b>vad babushkin</b></a><br><sub>&#64;vad-babushkin · 54 followers</sub></td>
+<td align="right"><b>12</b></td>
+<td align="right">7</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/502BadGatewayFL"><img src="https://avatars.githubusercontent.com/u/195455464?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/502BadGatewayFL"><b>502 Bad Gateway</b></a><br><sub>&#64;502BadGatewayFL · 3 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">5</td>
@@ -48,10 +57,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 4 of 137 discovered developers (133 awaiting measurement).
+- **Measured:** 5 of 254 discovered developers (249 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 24 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

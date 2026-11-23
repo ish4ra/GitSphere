@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/contributors/NZ.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/NZ.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,15 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/ahdinosaur"><img src="https://avatars.githubusercontent.com/u/719605?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahdinosaur"><b>Mikey</b></a><br><sub>&#64;ahdinosaur · 664 followers</sub></td>
+<td align="right"><b>699</b></td>
+<td align="right">559</td>
+<td align="right">80</td>
+<td align="right">7</td>
+<td align="right">50</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/Richienb"><img src="https://avatars.githubusercontent.com/u/29491356?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Richienb"><b>Richie Bendall</b></a><br><sub>&#64;Richienb · 431 followers</sub></td>
 <td align="right"><b>141</b></td>
 <td align="right">38</td>
@@ -57,7 +66,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 4 of 438 discovered developers (434 awaiting measurement).
+- **Measured:** 5 of 465 discovered developers (460 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **22** | 22 Nov 2026 | <a href="../../data/developers/HR.json">JSON</a> |
+| 🟡 Provisional | **33** | 22 Nov 2026 | <a href="../../data/developers/HR.json">JSON</a> |
 
 </div>
 
@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/adrianhajdin"><img src="https://avatars.githubusercontent.com/u/24898559?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adrianhajdin"><b>Adrian Hajdin - JS Mastery</b></a><br><sub>&#64;adrianhajdin</sub></td>
-<td align="right"><b>37,580</b></td>
+<td align="right"><b>37,578</b></td>
 <td align="right">172</td>
 <td><sub>Croatia</sub></td>
 </tr>
@@ -135,45 +135,122 @@
 </tr>
 <tr>
 <td align="right">17</td>
+<td><a href="https://github.com/Martinsos"><img src="https://avatars.githubusercontent.com/u/1536647?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Martinsos"><b>Martin Šošić</b></a><br><sub>&#64;Martinsos</sub></td>
+<td align="right"><b>408</b></td>
+<td align="right">89</td>
+<td><sub>Croatia</sub></td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><a href="https://github.com/loboris"><img src="https://avatars.githubusercontent.com/u/6280349?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/loboris"><b>Boris Lovosevic</b></a><br><sub>&#64;loboris</sub></td>
+<td align="right"><b>407</b></td>
+<td align="right">111</td>
+<td><sub>Zagreb, Croatia</sub></td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><a href="https://github.com/bruno-"><img src="https://avatars.githubusercontent.com/u/1042682?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bruno-"><b>Bruno Sutic</b></a><br><sub>&#64;bruno-</sub></td>
+<td align="right"><b>366</b></td>
+<td align="right">31</td>
+<td><sub>Zagreb, Croatia</sub></td>
+</tr>
+<tr>
+<td align="right">20</td>
 <td><a href="https://github.com/nibzard"><img src="https://avatars.githubusercontent.com/u/6250945?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nibzard"><b>Nikola Balic</b></a><br><sub>&#64;nibzard</sub></td>
 <td align="right"><b>315</b></td>
 <td align="right">0</td>
 <td><sub>Split, Croatia</sub></td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">21</td>
 <td><a href="https://github.com/ivpusic"><img src="https://avatars.githubusercontent.com/u/450140?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ivpusic"><b>Ivan Pusic</b></a><br><sub>&#64;ivpusic</sub></td>
 <td align="right"><b>265</b></td>
 <td align="right">0</td>
 <td><sub>Zagreb, Croatia</sub></td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">22</td>
 <td><a href="https://github.com/Tinche"><img src="https://avatars.githubusercontent.com/u/1909233?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tinche"><b>Tin Tvrtković</b></a><br><sub>&#64;Tinche</sub></td>
 <td align="right"><b>204</b></td>
 <td align="right">0</td>
 <td><sub>Zagreb, Croatia</sub></td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">23</td>
 <td><a href="https://github.com/dmilicic"><img src="https://avatars.githubusercontent.com/u/3181172?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dmilicic"><b>Dario Miličić</b></a><br><sub>&#64;dmilicic</sub></td>
 <td align="right"><b>158</b></td>
 <td align="right">0</td>
 <td><sub>Croatia</sub></td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">24</td>
+<td><a href="https://github.com/ihabunek"><img src="https://avatars.githubusercontent.com/u/482138?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ihabunek"><b>Ivan Habunek</b></a><br><sub>&#64;ihabunek</sub></td>
+<td align="right"><b>156</b></td>
+<td align="right">0</td>
+<td><sub>Zagreb, Croatia</sub></td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td><a href="https://github.com/nmdias"><img src="https://avatars.githubusercontent.com/u/2228069?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nmdias"><b>Nuno Dias</b></a><br><sub>&#64;nmdias</sub></td>
+<td align="right"><b>97</b></td>
+<td align="right">0</td>
+<td><sub>Zagreb</sub></td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td><a href="https://github.com/jurkovic-nikola"><img src="https://avatars.githubusercontent.com/u/1388673?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jurkovic-nikola"><b>Nikola</b></a><br><sub>&#64;jurkovic-nikola</sub></td>
+<td align="right"><b>77</b></td>
+<td align="right">0</td>
+<td><sub>Croatia</sub></td>
+</tr>
+<tr>
+<td align="right">27</td>
 <td><a href="https://github.com/aerkalov"><img src="https://avatars.githubusercontent.com/u/1003989?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aerkalov"><b>Aleksandar Erkalović</b></a><br><sub>&#64;aerkalov</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">0</td>
 <td><sub>Zagreb, Croatia</sub></td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">28</td>
+<td><a href="https://github.com/MarkoMilos"><img src="https://avatars.githubusercontent.com/u/4303492?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MarkoMilos"><b>Marko Milos</b></a><br><sub>&#64;MarkoMilos</sub></td>
+<td align="right"><b>70</b></td>
+<td align="right">0</td>
+<td><sub>Zagreb, Croatia</sub></td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td><a href="https://github.com/dgrubelic"><img src="https://avatars.githubusercontent.com/u/1304876?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dgrubelic"><b>Davor Grubelić</b></a><br><sub>&#64;dgrubelic</sub></td>
+<td align="right"><b>53</b></td>
+<td align="right">0</td>
+<td><sub>Osijek, Croatia</sub></td>
+</tr>
+<tr>
+<td align="right">30</td>
 <td><a href="https://github.com/tomislav"><img src="https://avatars.githubusercontent.com/u/656?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tomislav"><b>Tomislav Filipcic</b></a><br><sub>&#64;tomislav</sub></td>
 <td align="right"><b>51</b></td>
 <td align="right">0</td>
 <td><sub>Croatia</sub></td>
+</tr>
+<tr>
+<td align="right">31</td>
+<td><a href="https://github.com/ivankokan"><img src="https://avatars.githubusercontent.com/u/1058211?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ivankokan"><b>Ivan Kokan</b></a><br><sub>&#64;ivankokan</sub></td>
+<td align="right"><b>28</b></td>
+<td align="right">0</td>
+<td><sub>Zagreb, Croatia</sub></td>
+</tr>
+<tr>
+<td align="right">32</td>
+<td><a href="https://github.com/jakovidulic"><img src="https://avatars.githubusercontent.com/u/28816123?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jakovidulic"><b>Jakov Vidulić</b></a><br><sub>&#64;jakovidulic</sub></td>
+<td align="right"><b>3</b></td>
+<td align="right">0</td>
+<td><sub>Mali Lošinj, Croatia</sub></td>
+</tr>
+<tr>
+<td align="right">33</td>
+<td><a href="https://github.com/elvirasng"><img src="https://avatars.githubusercontent.com/u/116371001?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elvirasng"><b>Elvira Djuraskovic</b></a><br><sub>&#64;elvirasng</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td><sub>Mali Lošinj</sub></td>
 </tr>
 </tbody>
 </table>
@@ -183,7 +260,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 22 attributed developers are tracked; the cutoff is 51 followers.
+- Organizations are excluded. 33 attributed developers are tracked; the cutoff is 1 followers.
 - **Location discovery:** term 0 of 145 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

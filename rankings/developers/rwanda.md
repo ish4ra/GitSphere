@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/developers/RW.json">JSON</a> |
+| 🟡 Provisional | **17** | 22 Nov 2026 | <a href="../../data/developers/RW.json">JSON</a> |
 
 </div>
 
@@ -112,6 +112,34 @@
 <td align="right">45</td>
 <td><sub>Kigali,Rwanda</sub></td>
 </tr>
+<tr>
+<td align="right">14</td>
+<td><a href="https://github.com/neoscratchteam"><img src="https://avatars.githubusercontent.com/u/264497402?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/neoscratchteam"><b>NeoScratch</b></a><br><sub>&#64;neoscratchteam</sub></td>
+<td align="right"><b>402</b></td>
+<td align="right">2</td>
+<td><sub>Kigali, Rwanda</sub></td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><a href="https://github.com/Mucyo-chris"><img src="https://avatars.githubusercontent.com/u/183734587?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mucyo-chris"><b>Christian MUCYO</b></a><br><sub>&#64;Mucyo-chris</sub></td>
+<td align="right"><b>388</b></td>
+<td align="right">20</td>
+<td><sub>KIGALI-RWANDA</sub></td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><a href="https://github.com/Goal651"><img src="https://avatars.githubusercontent.com/u/151470917?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Goal651"><b>Wilson Goal BUGIRI</b></a><br><sub>&#64;Goal651</sub></td>
+<td align="right"><b>373</b></td>
+<td align="right">59</td>
+<td><sub>Rwanda-Kigali</sub></td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><a href="https://github.com/regis-mucyo"><img src="https://avatars.githubusercontent.com/u/176018348?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/regis-mucyo"><b>Regis Mucyo</b></a><br><sub>&#64;regis-mucyo</sub></td>
+<td align="right"><b>357</b></td>
+<td align="right">32</td>
+<td><sub>Kigali, Rwanda</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -120,7 +148,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 13 attributed developers are tracked; the cutoff is 430 followers.
+- Organizations are excluded. 17 attributed developers are tracked; the cutoff is 357 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -5,7 +5,7 @@
 "country": {"code":"PF","name":"French Polynesia","slug":"french-polynesia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":88,"ownerExpansionBacklog":89,"candidates":88,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":88,"ownerExpansionBacklog":88,"candidates":88,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"bilbox-comfyui","nameWithOwner":"syllebra/bilbox-comfyui","url":"https://github.com/syllebra/bilbox-comfyui","description":null,"stars":145,"forks":11,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2023-08-16T19:57:29Z","pushedAt":"2025-09-17T19:49:51Z","archived":false,"owner":{"login":"syllebra","name":"BilboX","type":"User","url":"https://github.com/syllebra","location":"French Polynesia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"SENPAI","nameWithOwner":"Chelsea486MHz/SENPAI","url":"https://github.com/Chelsea486MHz/SENPAI","description":null,"stars":137,"forks":17,"primaryLanguage":"C","license":{"spdxId":"GPL-3.0"},"createdAt":"2018-06-20T17:46:51Z","pushedAt":"2023-06-25T11:12:32Z","archived":false,"owner":{"login":"Chelsea486MHz","name":"Chelsea Murgia","type":"User","url":"https://github.com/Chelsea486MHz","location":"Mo'orea, French Polynesia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -96,8 +96,8 @@
   {"rank":87,"id":null,"name":"poker-planning","nameWithOwner":"yannkb/poker-planning","url":"https://github.com/yannkb/poker-planning","description":null,"stars":0,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2026-06-09T21:54:13Z","pushedAt":"2026-07-17T22:09:38Z","archived":false,"owner":{"login":"yannkb","name":"Yann Bouchereau","type":"User","url":"https://github.com/yannkb","location":"Papeete, French Polynesia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":88,"id":null,"name":"codesamples","nameWithOwner":"zozolito/codesamples","url":"https://github.com/zozolito/codesamples","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":{"spdxId":"MIT"},"createdAt":"2026-05-15T03:23:15Z","pushedAt":"2026-09-15T22:43:35Z","archived":false,"owner":{"login":"zozolito","name":"Teura ORBECK","type":"User","url":"https://github.com/zozolito","location":"French Polynesia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "ae6c2e664e030391",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "f3f6c079bd4b3bd8",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

@@ -5,14 +5,16 @@
 "country": {"code":"GT","name":"Guatemala","slug":"guatemala"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":4,"measurementBacklog":396,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":115,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":6,"measurementBacklog":394,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":115,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjM5ODE2OQ==","login":"ykro","name":"Adrián Catalán","url":"https://github.com/ykro","avatarUrl":"https://avatars.githubusercontent.com/u/398169?s=80&v=4","followers":438,"publicRepos":192,"location":"Guatemala","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":1726,"commits":1616,"pullRequests":13,"reviews":0,"issues":36,"repositories":61,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":2,"id":"MDQ6VXNlcjEyNTEyMzI=","login":"dougbutner","name":"Douglas Butner 🜛 Gudasol","url":"https://github.com/dougbutner","avatarUrl":"https://avatars.githubusercontent.com/u/1251232?s=80&v=4","followers":77,"publicRepos":175,"location":"Maryland -> Medellín / Guatemala","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":553,"commits":492,"pullRequests":12,"reviews":0,"issues":6,"repositories":43,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
-  {"rank":3,"id":"MDQ6VXNlcjMxOTcxMDc0","login":"ArielMejiaDev","name":"ArielMejiaDev","url":"https://github.com/ArielMejiaDev","avatarUrl":"https://avatars.githubusercontent.com/u/31971074?s=80&v=4","followers":99,"publicRepos":315,"location":"Guatemala","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":169,"commits":132,"pullRequests":17,"reviews":0,"issues":1,"repositories":18,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":3,"id":"MDQ6VXNlcjEyNjgyNjg=","login":"jonathansamines","name":"Jonathan Samines","url":"https://github.com/jonathansamines","avatarUrl":"https://avatars.githubusercontent.com/u/1268268?s=80&v=4","followers":81,"publicRepos":145,"location":"Guatemala","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":210,"commits":102,"pullRequests":89,"reviews":15,"issues":0,"repositories":4,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":4,"id":"MDQ6VXNlcjMxOTcxMDc0","login":"ArielMejiaDev","name":"ArielMejiaDev","url":"https://github.com/ArielMejiaDev","avatarUrl":"https://avatars.githubusercontent.com/u/31971074?s=80&v=4","followers":99,"publicRepos":315,"location":"Guatemala","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":169,"commits":132,"pullRequests":17,"reviews":0,"issues":1,"repositories":18,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":5,"id":"MDQ6VXNlcjg0MTkyODIx","login":"bl33h","name":"sara","url":"https://github.com/bl33h","avatarUrl":"https://avatars.githubusercontent.com/u/84192821?s=80&v=4","followers":73,"publicRepos":141,"location":"Guatemala","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":5,"commits":4,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "bcbfa6e359d5399b",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "6a5918ee55fef876",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

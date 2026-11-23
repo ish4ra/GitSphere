@@ -5,13 +5,13 @@
 "country": {"code":"VC","name":"St. Vincent & Grenadines","slug":"st-vincent-grenadines"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":24,"measuredAccounts":4,"measurementBacklog":20,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":24,"measuredAccounts":5,"measurementBacklog":19,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDODyJuqA","login":"aku1234567890","name":"aku","url":"https://github.com/aku1234567890","avatarUrl":"https://avatars.githubusercontent.com/u/253914792?s=80&v=4","followers":0,"publicRepos":6,"location":"Saint Vincent and the Grenadines","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":83,"commits":74,"pullRequests":1,"reviews":0,"issues":0,"repositories":6,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":2,"id":"MDQ6VXNlcjU5MDg5NTc3","login":"3rdeye784","name":"3rdEye784","url":"https://github.com/3rdeye784","avatarUrl":"https://avatars.githubusercontent.com/u/59089577?s=80&v=4","followers":0,"publicRepos":2,"location":"Saint Vincent and the Grenadines","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "0144b92d6cfc29f2",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "aabbf25b433116fe",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

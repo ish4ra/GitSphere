@@ -5,7 +5,7 @@
 "country": {"code":"FI","name":"Finland","slug":"finland"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":1745,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":131,"candidates":139,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":176,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":1745,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":131,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":176,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkyMjc5MDQ4OA==","name":"java-design-patterns","nameWithOwner":"iluwatar/java-design-patterns","url":"https://github.com/iluwatar/java-design-patterns","description":"Design patterns implemented in Java","stars":94897,"forks":27317,"primaryLanguage":"Java","license":{"spdxId":"NOASSERTION"},"createdAt":"2014-08-09T16:45:18Z","pushedAt":"2026-10-08T12:44:21Z","archived":false,"owner":{"login":"iluwatar","name":"Ilkka Seppälä","type":"User","url":"https://github.com/iluwatar","location":"Finland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkyMjI3NTExMzE=","name":"30-Days-Of-Python","nameWithOwner":"Asabeneh/30-Days-Of-Python","url":"https://github.com/Asabeneh/30-Days-Of-Python","description":"The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100…","stars":79293,"forks":14199,"primaryLanguage":"Python","license":null,"createdAt":"2019-11-19T17:24:16Z","pushedAt":"2026-09-30T08:10:34Z","archived":false,"owner":{"login":"Asabeneh","name":"Asabeneh","type":"User","url":"https://github.com/Asabeneh","location":"Helsinki, Finland","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"R_kgDOMLkkuQ","name":"ComfyUI-Florence2","nameWithOwner":"kijai/ComfyUI-Florence2","url":"https://github.com/kijai/ComfyUI-Florence2","description":"Inference Microsoft Florence2 VLM","stars":1764,"forks":140,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2024-06-19T17:58:14Z","pushedAt":"2026-05-06T09:00:47Z","archived":false,"owner":{"login":"kijai","name":"Jukka Seppänen","type":"User","url":"https://github.com/kijai","location":"Finland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-23"},
   {"rank":100,"id":"R_kgDOUJ1paw","name":"NoGraphicsAPI","nameWithOwner":"sebbbi/NoGraphicsAPI","url":"https://github.com/sebbbi/NoGraphicsAPI","description":"Minimal graphics API. Built on top of latest Vulkan extensions. As close as possibly to my \"No Graphics API\" blog post and the SIGGRAPH talk.","stars":1745,"forks":64,"primaryLanguage":"C++","license":{"spdxId":"MIT"},"createdAt":"2026-08-31T14:14:12Z","pushedAt":"2026-11-18T20:39:02Z","archived":false,"owner":{"login":"sebbbi","name":"Sebastian Aaltonen","type":"User","url":"https://github.com/sebbbi","location":"Helsinki","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "5f5efb1a1c85666d",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "7a549f140f0aa664",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

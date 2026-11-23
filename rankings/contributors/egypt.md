@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/EG.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/EG.json">JSON</a> |
 
 </div>
 
@@ -34,6 +34,15 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/hatemhosny"><img src="https://avatars.githubusercontent.com/u/10176547?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hatemhosny"><b>Hatem Hosny</b></a><br><sub>&#64;hatemhosny · 512 followers</sub></td>
+<td align="right"><b>1,764</b></td>
+<td align="right">1,544</td>
+<td align="right">154</td>
+<td align="right">5</td>
+<td align="right">23</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/alash3al"><img src="https://avatars.githubusercontent.com/u/3078292?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alash3al"><b>Mohammed Al Ashaal</b></a><br><sub>&#64;alash3al · 574 followers</sub></td>
 <td align="right"><b>403</b></td>
 <td align="right">398</td>
@@ -42,7 +51,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/dahabdev"><img src="https://avatars.githubusercontent.com/u/284535?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dahabdev"><b>Ahmed Abu Eldahab</b></a><br><sub>&#64;dahabdev · 417 followers</sub></td>
 <td align="right"><b>135</b></td>
 <td align="right">131</td>
@@ -51,7 +60,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
+<td><a href="https://github.com/ahmed0saber"><img src="https://avatars.githubusercontent.com/u/64714761?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahmed0saber"><b>Ahmed Saber</b></a><br><sub>&#64;ahmed0saber · 346 followers</sub></td>
+<td align="right"><b>106</b></td>
+<td align="right">98</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/mohamedtamer0"><img src="https://avatars.githubusercontent.com/u/51374446?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mohamedtamer0"><b>Mohamed Tamer</b></a><br><sub>&#64;mohamedtamer0 · 1,071 followers</sub></td>
 <td align="right"><b>100</b></td>
 <td align="right">99</td>
@@ -60,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">7</td>
 <td><a href="https://github.com/emadshanab"><img src="https://avatars.githubusercontent.com/u/10281631?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/emadshanab"><b>Emad Shanab</b></a><br><sub>&#64;emadshanab · 736 followers</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">5</td>
@@ -75,7 +93,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 5 of 443 discovered developers (438 awaiting measurement).
+- **Measured:** 7 of 477 discovered developers (470 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 153 in round 1.

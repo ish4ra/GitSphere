@@ -9,8 +9,8 @@
 "users": [
   {"rank":1,"id":"U_kgDOB5Mckw","login":"atchutchi","name":"Atchutchi B Ferreira","url":"https://github.com/atchutchi","avatarUrl":"https://avatars.githubusercontent.com/u/127081619?s=80&v=4","followers":8,"publicRepos":61,"location":"Bissau, Guinea-Bissau","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":2,"id":"MDQ6VXNlcjIzMTcxNDI0","login":"augoju","name":"Augusto Gomes Júnior","url":"https://github.com/augoju","avatarUrl":"https://avatars.githubusercontent.com/u/23171424?s=80&v=4","followers":4,"publicRepos":7,"location":"Guiné-Bissau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":3,"id":"U_kgDOCHXg2A","login":"Samsilva64","name":"Daltonsilva","url":"https://github.com/Samsilva64","avatarUrl":"https://avatars.githubusercontent.com/u/141943000?s=80&v=4","followers":4,"publicRepos":7,"location":"Guiné-bissau/pluba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":4,"id":"U_kgDOD_s13g","login":"baribucirio-cmyk","name":"Bucirio Bari","url":"https://github.com/baribucirio-cmyk","avatarUrl":"https://avatars.githubusercontent.com/u/268121566?s=80&v=4","followers":2,"publicRepos":6,"location":"Guiné-Bissau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"U_kgDOCHXg2A","login":"Samsilva64","name":"Daltonsilva","url":"https://github.com/Samsilva64","avatarUrl":"https://avatars.githubusercontent.com/u/141943000?s=80&v=4","followers":4,"publicRepos":7,"location":"Guiné-bissau/pluba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":4,"id":"U_kgDOD_s13g","login":"baribucirio-cmyk","name":"Bucirio Bari","url":"https://github.com/baribucirio-cmyk","avatarUrl":"https://avatars.githubusercontent.com/u/268121566?s=80&v=4","followers":2,"publicRepos":6,"location":"Guiné-Bissau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":5,"id":"U_kgDOCW6quQ","login":"losbagos","name":"los bagos","url":"https://github.com/losbagos","avatarUrl":"https://avatars.githubusercontent.com/u/158247609?s=80&v=4","followers":2,"publicRepos":0,"location":"guinea bissau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":6,"id":"U_kgDOD02jEQ","login":"USFCodes","name":"Yusuf O. Yisa","url":"https://github.com/USFCodes","avatarUrl":"https://avatars.githubusercontent.com/u/256746257?s=80&v=4","followers":1,"publicRepos":14,"location":"Guinea-Bissau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":7,"id":"MDQ6VXNlcjYzNzU5NzY2","login":"ibanora","name":"Idrissa Banora","url":"https://github.com/ibanora","avatarUrl":"https://avatars.githubusercontent.com/u/63759766?s=80&v=4","followers":1,"publicRepos":2,"location":"Guiné Bissau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
@@ -38,8 +38,8 @@
   {"rank":29,"id":"U_kgDOCbpSqA","login":"jailsonpeti","name":"jailsonpeti","url":"https://github.com/jailsonpeti","avatarUrl":"https://avatars.githubusercontent.com/u/163205800?s=80&v=4","followers":0,"publicRepos":0,"location":"Bissau, Guinea Bissau","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":30,"id":"U_kgDODNm1Tw","login":"Marcio966-boop","name":"Marcio","url":"https://github.com/Marcio966-boop","avatarUrl":"https://avatars.githubusercontent.com/u/215594319?s=80&v=4","followers":0,"publicRepos":0,"location":"Guinea-Bissau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "3c82045a174c2442",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "1bde8d1b86ad1828",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

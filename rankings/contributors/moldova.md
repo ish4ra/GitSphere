@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/contributors/MD.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/MD.json">JSON</a> |
 
 </div>
 
@@ -50,6 +50,15 @@
 <td align="right">0</td>
 <td align="right">3</td>
 </tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/nickmessing"><img src="https://avatars.githubusercontent.com/u/1633826?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nickmessing"><b>Nick Messing</b></a><br><sub>&#64;nickmessing · 348 followers</sub></td>
+<td align="right"><b>146</b></td>
+<td align="right">109</td>
+<td align="right">17</td>
+<td align="right">4</td>
+<td align="right">6</td>
+</tr>
 </tbody>
 </table>
 
@@ -57,10 +66,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 4 of 401 discovered developers (397 awaiting measurement).
+- **Measured:** 5 of 401 discovered developers (396 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 84 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

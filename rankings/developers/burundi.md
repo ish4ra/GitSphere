@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/JovinMtl"><img src="https://avatars.githubusercontent.com/u/57398530?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JovinMtl"><b>Nsanzumukiza Thierry</b></a><br><sub>&#64;JovinMtl</sub></td>
-<td align="right"><b>369</b></td>
+<td align="right"><b>370</b></td>
 <td align="right">34</td>
 <td><sub>Bujumbura, Burundi</sub></td>
 </tr>

@@ -14,17 +14,26 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/LY.json">JSON</a> |
+| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/contributors/LY.json">JSON</a> |
 
 </div>
 
-<p align="center"><sub>Public contributions from <b>22 Nov 2025</b> to <b>22 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
+<p align="center"><sub>Public contributions from <b>23 Nov 2025</b> to <b>23 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
 
 <table>
 <thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Public contributions</th><th align="right">Commits</th><th align="right">PRs</th><th align="right">Reviews</th><th align="right">Issues</th></tr></thead>
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/asonni"><img src="https://avatars.githubusercontent.com/u/11818560?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asonni"><b>Aladdin Sonni</b></a><br><sub>&#64;asonni · 58 followers</sub></td>
+<td align="right"><b>138</b></td>
+<td align="right">117</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/00Adnan00"><img src="https://avatars.githubusercontent.com/u/73912783?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/00Adnan00"><b>Adnan Aljafri</b></a><br><sub>&#64;00Adnan00 · 5 followers</sub></td>
 <td align="right"><b>29</b></td>
 <td align="right">19</td>
@@ -33,7 +42,7 @@
 <td align="right">4</td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">3</td>
 <td><a href="https://github.com/0xmahmoudaldali"><img src="https://avatars.githubusercontent.com/u/210597073?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xmahmoudaldali"><b>Mahmoud Aldali</b></a><br><sub>&#64;0xmahmoudaldali · 1 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">4</td>
@@ -48,10 +57,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 4 of 400 discovered developers (396 awaiting measurement).
+- **Measured:** 5 of 398 discovered developers (393 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 108 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

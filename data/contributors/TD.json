@@ -5,13 +5,15 @@
 "country": {"code":"TD","name":"Chad","slug":"chad"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":106,"measuredAccounts":6,"measurementBacklog":100,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":106,"measuredAccounts":8,"measurementBacklog":98,"window":{"from":"2025-11-23T13:00:00Z","to":"2026-11-23T13:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"U_kgDOEkiG1Q","login":"abdoulayeibniabdoulayemahamat","name":"Abdoulaye Ibni Abdoulaye Mahamat","url":"https://github.com/abdoulayeibniabdoulayemahamat","avatarUrl":"https://avatars.githubusercontent.com/u/306742997?s=80&v=4","followers":0,"publicRepos":1,"location":"N'djamena , chad","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":4,"commits":2,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
-  {"rank":2,"id":"U_kgDOCIIqVA","login":"01Hassa","name":"Hassa","url":"https://github.com/01Hassa","avatarUrl":"https://avatars.githubusercontent.com/u/142748244?s=80&v=4","followers":0,"publicRepos":1,"location":"Chad","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":3,"commits":2,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"U_kgDOB3qsFg","login":"adoumouangnamouemmanuel","name":"Emmanuel Adoum","url":"https://github.com/adoumouangnamouemmanuel","avatarUrl":"https://avatars.githubusercontent.com/u/125479958?s=80&v=4","followers":28,"publicRepos":59,"location":"Chad","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":1297,"commits":1230,"pullRequests":9,"reviews":1,"issues":42,"repositories":15,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":2,"id":"U_kgDOD9vqyQ","login":"abelmohsinmahamat-crypto","name":"ABDELMOHSIN MAHAMAT","url":"https://github.com/abelmohsinmahamat-crypto","avatarUrl":"https://avatars.githubusercontent.com/u/266070729?s=80&v=4","followers":1,"publicRepos":55,"location":"Chad","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":117,"commits":61,"pullRequests":0,"reviews":0,"issues":0,"repositories":55,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":3,"id":"U_kgDOEkiG1Q","login":"abdoulayeibniabdoulayemahamat","name":"Abdoulaye Ibni Abdoulaye Mahamat","url":"https://github.com/abdoulayeibniabdoulayemahamat","avatarUrl":"https://avatars.githubusercontent.com/u/306742997?s=80&v=4","followers":0,"publicRepos":1,"location":"N'djamena , chad","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":4,"commits":2,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":4,"id":"U_kgDOCIIqVA","login":"01Hassa","name":"Hassa","url":"https://github.com/01Hassa","avatarUrl":"https://avatars.githubusercontent.com/u/142748244?s=80&v=4","followers":0,"publicRepos":1,"location":"Chad","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":3,"commits":2,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "d978641d1783a403",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "9955d9fc8fc5267c",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

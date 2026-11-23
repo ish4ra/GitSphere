@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/developers/UY.json">JSON</a> |
+| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/developers/UY.json">JSON</a> |
 
 </div>
 
@@ -72,27 +72,62 @@
 </tr>
 <tr>
 <td align="right">8</td>
+<td><a href="https://github.com/daedalus"><img src="https://avatars.githubusercontent.com/u/115175?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/daedalus"><b>Darío Clavijo</b></a><br><sub>&#64;daedalus</sub></td>
+<td align="right"><b>394</b></td>
+<td align="right">510</td>
+<td><sub>Montevideo, Uruguay</sub></td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/dangra"><img src="https://avatars.githubusercontent.com/u/37369?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dangra"><b>Daniel Graña</b></a><br><sub>&#64;dangra</sub></td>
+<td align="right"><b>394</b></td>
+<td align="right">88</td>
+<td><sub>La Paloma, Rocha, Uruguay</sub></td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/tchnorider"><img src="https://avatars.githubusercontent.com/u/14133083?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tchnorider"><b>Laura L.</b></a><br><sub>&#64;tchnorider</sub></td>
+<td align="right"><b>366</b></td>
+<td align="right">28</td>
+<td><sub>Montevideo, Uruguay</sub></td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/georginapuig"><img src="https://avatars.githubusercontent.com/u/62922437?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/georginapuig"><b>Georgina</b></a><br><sub>&#64;georginapuig</sub></td>
+<td align="right"><b>345</b></td>
+<td align="right">47</td>
+<td><sub>uruguay</sub></td>
+</tr>
+<tr>
+<td align="right">12</td>
 <td><a href="https://github.com/titoBouzout"><img src="https://avatars.githubusercontent.com/u/64156?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/titoBouzout"><b>Tito</b></a><br><sub>&#64;titoBouzout</sub></td>
 <td align="right"><b>226</b></td>
 <td align="right">0</td>
 <td><sub>Montevideo, Uruguay</sub></td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">13</td>
 <td><a href="https://github.com/davidmonterocrespo24"><img src="https://avatars.githubusercontent.com/u/47928504?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davidmonterocrespo24"><b>David Montero Crespo</b></a><br><sub>&#64;davidmonterocrespo24</sub></td>
 <td align="right"><b>179</b></td>
 <td align="right">0</td>
 <td><sub>Uruguay</sub></td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">14</td>
+<td><a href="https://github.com/pote"><img src="https://avatars.githubusercontent.com/u/132684?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pote"><b>pote</b></a><br><sub>&#64;pote</sub></td>
+<td align="right"><b>163</b></td>
+<td align="right">0</td>
+<td><sub>Montevideo, Uruguay</sub></td>
+</tr>
+<tr>
+<td align="right">15</td>
 <td><a href="https://github.com/itaybre"><img src="https://avatars.githubusercontent.com/u/860036?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/itaybre"><b>Itay Brenner</b></a><br><sub>&#64;itaybre</sub></td>
 <td align="right"><b>141</b></td>
 <td align="right">0</td>
 <td><sub>Montevideo, Uruguay</sub></td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">16</td>
 <td><a href="https://github.com/yossdotpro"><img src="https://avatars.githubusercontent.com/u/98903135?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yossdotpro"><b>Yoannis Sánchez Soto</b></a><br><sub>&#64;yossdotpro</sub></td>
 <td align="right"><b>85</b></td>
 <td align="right">0</td>
@@ -106,7 +141,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 11 attributed developers are tracked; the cutoff is 85 followers.
+- Organizations are excluded. 16 attributed developers are tracked; the cutoff is 85 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

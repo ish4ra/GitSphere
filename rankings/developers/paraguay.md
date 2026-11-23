@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/developers/PY.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/developers/PY.json">JSON</a> |
 
 </div>
 
@@ -51,10 +51,31 @@
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/blaszorrilla"><img src="https://avatars.githubusercontent.com/u/37028794?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/blaszorrilla"><b>Blas Zorrilla</b></a><br><sub>&#64;blaszorrilla</sub></td>
+<td align="right"><b>402</b></td>
+<td align="right">26</td>
+<td><sub>Paraguay</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/melizeche"><img src="https://avatars.githubusercontent.com/u/484773?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/melizeche"><b>Marcelo Elizeche Landó</b></a><br><sub>&#64;melizeche</sub></td>
+<td align="right"><b>392</b></td>
+<td align="right">63</td>
+<td><sub>Paraguay</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/tchx84"><img src="https://avatars.githubusercontent.com/u/481418?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tchx84"><b>Martin Abente Lahaye</b></a><br><sub>&#64;tchx84</sub></td>
 <td align="right"><b>265</b></td>
 <td align="right">0</td>
 <td><sub>Paraguay</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/mullwar"><img src="https://avatars.githubusercontent.com/u/988769?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mullwar"><b>mullwar</b></a><br><sub>&#64;mullwar</sub></td>
+<td align="right"><b>29</b></td>
+<td align="right">0</td>
+<td><sub>Earth, Cosmos</sub></td>
 </tr>
 </tbody>
 </table>
@@ -64,7 +85,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 5 attributed developers are tracked; the cutoff is 265 followers.
+- Organizations are excluded. 8 attributed developers are tracked; the cutoff is 29 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

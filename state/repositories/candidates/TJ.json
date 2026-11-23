@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"TJ","name":"Tajikistan","slug":"tajikistan"},
-"count": 150,
+"count": 149,
 "repositories": [
-  {"name":"shukkkur/VolleyVision","stars":329,"forks":59,"language":"Python","license":"AGPL-3.0","archived":false,"createdAt":"2022-09-10T05:47:56Z","pushedAt":"2025-06-20T04:17:07Z","owner":{"login":"shukkkur","type":"User","name":"Shakhansho Shukur Sabzaliev","location":"Khorog, Gorno-Badakhshan"},"attribution":{"code":"TJ","confidence":"high","evidence":"place-with-subdivision"},"seenAt":"2026-10-13T21:14:41.931Z","id":"legacy:shukkkur/volleyvision","legacy":true},
   {"name":"bakhtiyor/leetcode-challenge","stars":68,"forks":0,"language":"PHP","archived":false,"createdAt":"2022-10-02T19:54:39Z","pushedAt":"2023-10-11T18:35:41Z","owner":{"login":"bakhtiyor","type":"User","name":"Bakhtiyor Bahritidinov","location":"Khujand, Tajikistan"},"attribution":{"code":"TJ","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-03T14:28:20.127Z","id":"legacy:bakhtiyor/leetcode-challenge","legacy":true},
   {"name":"veyxov/qanata","stars":56,"forks":1,"language":"Rust","license":"GPL-3.0","archived":false,"createdAt":"2023-07-19T17:55:12Z","pushedAt":"2026-03-30T11:06:16Z","owner":{"login":"veyxov","type":"User","name":"Shekhov Ismoil","location":"Tajikistan"},"attribution":{"code":"TJ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T14:28:20.127Z","id":"legacy:veyxov/qanata","legacy":true},
   {"name":"abdullokhonz/Bookkeeping","stars":47,"forks":6,"language":"C#","license":"MIT","archived":false,"createdAt":"2026-03-21T16:48:35Z","pushedAt":"2026-07-31T13:33:03Z","owner":{"login":"abdullokhonz","type":"User","name":"Abdullokhon Ghaibulloev","location":"Khujand, Tajikistan"},"attribution":{"code":"TJ","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-03T14:28:20.127Z","id":"legacy:abdullokhonz/bookkeeping","legacy":true},

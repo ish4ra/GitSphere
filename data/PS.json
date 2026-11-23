@@ -5,7 +5,7 @@
 "country": {"code":"PS","name":"Palestine","slug":"palestine"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":149,"candidates":148,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":148,"candidates":148,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"keypal","nameWithOwner":"izadoesdev/keypal","url":"https://github.com/izadoesdev/keypal","description":null,"stars":206,"forks":13,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2025-10-23T11:02:44Z","pushedAt":"2026-04-21T18:41:37Z","archived":false,"owner":{"login":"izadoesdev","name":"iza","type":"User","url":"https://github.com/izadoesdev","location":"Palestine","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"SuperLibrary","nameWithOwner":"MrM8BRH/SuperLibrary","url":"https://github.com/MrM8BRH/SuperLibrary","description":null,"stars":180,"forks":44,"primaryLanguage":"Python","license":null,"createdAt":"2020-07-01T10:15:42Z","pushedAt":"2026-02-08T05:04:32Z","archived":false,"owner":{"login":"MrM8BRH","name":null,"type":"User","url":"https://github.com/MrM8BRH","location":"Palestine","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"SHIVA-WebScanner","nameWithOwner":"ahmadhamad970/SHIVA-WebScanner","url":"https://github.com/ahmadhamad970/SHIVA-WebScanner","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-05-06T07:30:36Z","pushedAt":"2026-05-06T07:55:14Z","archived":false,"owner":{"login":"ahmadhamad970","name":"Ahmad Hamad","type":"User","url":"https://github.com/ahmadhamad970","location":"Palestine","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"SmartBank","nameWithOwner":"ahmadissa-dev/SmartBank","url":"https://github.com/ahmadissa-dev/SmartBank","description":null,"stars":1,"forks":0,"primaryLanguage":"C#","license":null,"createdAt":"2026-07-02T07:02:37Z","pushedAt":"2026-09-28T08:13:58Z","archived":false,"owner":{"login":"ahmadissa-dev","name":"Ahmad Issa","type":"User","url":"https://github.com/ahmadissa-dev","location":"Palestine","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "798a4da486c66f6a",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "c56096fb166836bd",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

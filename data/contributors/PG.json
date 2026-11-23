@@ -5,14 +5,15 @@
 "country": {"code":"PG","name":"Papua New Guinea","slug":"papua-new-guinea"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":205,"measuredAccounts":4,"measurementBacklog":201,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":205,"measuredAccounts":5,"measurementBacklog":200,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjMwMzQ5ODc5","login":"chrisaugu","name":"Christian Augustyn","url":"https://github.com/chrisaugu","avatarUrl":"https://avatars.githubusercontent.com/u/30349879?s=80&v=4","followers":29,"publicRepos":71,"location":"Madang, Papua New Guinea","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":150,"commits":127,"pullRequests":12,"reviews":5,"issues":2,"repositories":4,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":2,"id":"MDQ6VXNlcjk3MzY3Ng==","login":"mohsinalimat","name":"MohsinAli","url":"https://github.com/mohsinalimat","avatarUrl":"https://avatars.githubusercontent.com/u/973676?s=80&v=4","followers":652,"publicRepos":11511,"location":"ilol","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22","contributions":{"public":150,"commits":13,"pullRequests":14,"reviews":3,"issues":25,"repositories":95,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":3,"id":"MDQ6VXNlcjYyODMxMDc=","login":"sylvery","name":"Sylver Yagi","url":"https://github.com/sylvery","avatarUrl":"https://avatars.githubusercontent.com/u/6283107?s=80&v=4","followers":12,"publicRepos":54,"location":"Papua New Guinea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":14,"commits":7,"pullRequests":2,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
+  {"rank":3,"id":"MDQ6VXNlcjgxNzkyMjI=","login":"papuamart","name":"papuamart","url":"https://github.com/papuamart","avatarUrl":"https://avatars.githubusercontent.com/u/8179222?s=80&v=4","followers":2,"publicRepos":48,"location":"Port Moresby, Papua New Guinea","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":23,"commits":10,"pullRequests":0,"reviews":0,"issues":0,"repositories":13,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":4,"id":"MDQ6VXNlcjYyODMxMDc=","login":"sylvery","name":"Sylver Yagi","url":"https://github.com/sylvery","avatarUrl":"https://avatars.githubusercontent.com/u/6283107?s=80&v=4","followers":12,"publicRepos":54,"location":"Papua New Guinea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":14,"commits":7,"pullRequests":2,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "658113ff7ceda8a6",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "7325e4a191e8cd8b",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

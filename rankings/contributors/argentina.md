@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/AR.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/AR.json">JSON</a> |
 
 </div>
 
@@ -34,6 +34,15 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/kzu"><img src="https://avatars.githubusercontent.com/u/169707?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kzu"><b>Daniel Cazzulino</b></a><br><sub>&#64;kzu · 459 followers</sub></td>
+<td align="right"><b>3,566</b></td>
+<td align="right">2,080</td>
+<td align="right">998</td>
+<td align="right">34</td>
+<td align="right">171</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/HectorDanielAyarachiFuentes"><img src="https://avatars.githubusercontent.com/u/135895299?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HectorDanielAyarachiFuentes"><b>Ayarachi Fuentes Hector Daniel</b></a><br><sub>&#64;HectorDanielAyarachiFuentes · 2,216 followers</sub></td>
 <td align="right"><b>1,835</b></td>
 <td align="right">1,734</td>
@@ -42,7 +51,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
+<td><a href="https://github.com/jpromanonet"><img src="https://avatars.githubusercontent.com/u/35672464?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jpromanonet"><b>Juan P. Romano</b></a><br><sub>&#64;jpromanonet · 381 followers</sub></td>
+<td align="right"><b>492</b></td>
+<td align="right">464</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/valpackett"><img src="https://avatars.githubusercontent.com/u/208340?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/valpackett"><b>Val Packett</b></a><br><sub>&#64;valpackett · 582 followers</sub></td>
 <td align="right"><b>199</b></td>
 <td align="right">80</td>
@@ -51,7 +69,7 @@
 <td align="right">48</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">6</td>
 <td><a href="https://github.com/goncy"><img src="https://avatars.githubusercontent.com/u/6494462?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/goncy"><b>Gonzalo Pozzo</b></a><br><sub>&#64;goncy · 5,105 followers</sub></td>
 <td align="right"><b>142</b></td>
 <td align="right">118</td>
@@ -60,7 +78,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">7</td>
 <td><a href="https://github.com/bevacqua"><img src="https://avatars.githubusercontent.com/u/934293?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bevacqua"><b>Nicolás Bevacqua</b></a><br><sub>&#64;bevacqua · 4,830 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -75,7 +93,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 6 of 453 discovered developers (447 awaiting measurement).
+- **Measured:** 8 of 483 discovered developers (475 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 109 in round 1.

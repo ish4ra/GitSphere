@@ -5,17 +5,19 @@
 "country": {"code":"BW","name":"Botswana","slug":"botswana"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":6,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":118,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":8,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":118,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjI4ODA3MjMy","login":"Abel-Moremi","name":"Abel Moremi","url":"https://github.com/Abel-Moremi","avatarUrl":"https://avatars.githubusercontent.com/u/28807232?s=80&v=4","followers":26,"publicRepos":32,"location":"Gaborone, Botswana","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
-  {"rank":2,"id":"MDQ6VXNlcjgxMDc4NzI0","login":"24blac","name":"Mopati","url":"https://github.com/24blac","avatarUrl":"https://avatars.githubusercontent.com/u/81078724?s=80&v=4","followers":2,"publicRepos":4,"location":"Botswana","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":3,"id":"U_kgDOC7gMQg","login":"4tlas-Mokgotle","name":"Bongani Bigboy Otsile Mokgotle","url":"https://github.com/4tlas-Mokgotle","avatarUrl":"https://avatars.githubusercontent.com/u/196611138?s=80&v=4","followers":2,"publicRepos":1,"location":"Gaborone, Botswana","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":4,"id":"U_kgDOCZ1zUQ","login":"abc23-006","name":"Thuo Rolf Setima","url":"https://github.com/abc23-006","avatarUrl":"https://avatars.githubusercontent.com/u/161313617?s=80&v=4","followers":1,"publicRepos":1,"location":"Fairgrounds, Gaborone Botswana","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
-  {"rank":5,"id":"U_kgDOB8QSLA","login":"0126FinGuy","name":"Oteng Boitshepo Olaetse","url":"https://github.com/0126FinGuy","avatarUrl":"https://avatars.githubusercontent.com/u/130290220?s=80&v=4","followers":0,"publicRepos":2,"location":"Gaborone, Botswana","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":6,"id":"U_kgDOEBEw2w","login":"aaronaase090-blip","name":"aase aaron","url":"https://github.com/aaronaase090-blip","avatarUrl":"https://avatars.githubusercontent.com/u/269562075?s=80&v=4","followers":0,"publicRepos":1,"location":"botswana","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":2,"id":"MDQ6VXNlcjg2NjUxNjg3","login":"Abel3047","name":"Abel Ange Ntite Tshimbalanga","url":"https://github.com/Abel3047","avatarUrl":"https://avatars.githubusercontent.com/u/86651687?s=80&v=4","followers":8,"publicRepos":4,"location":"Botswana","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":3,"id":"MDQ6VXNlcjgxMDc4NzI0","login":"24blac","name":"Mopati","url":"https://github.com/24blac","avatarUrl":"https://avatars.githubusercontent.com/u/81078724?s=80&v=4","followers":2,"publicRepos":4,"location":"Botswana","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"U_kgDOC7gMQg","login":"4tlas-Mokgotle","name":"Bongani Bigboy Otsile Mokgotle","url":"https://github.com/4tlas-Mokgotle","avatarUrl":"https://avatars.githubusercontent.com/u/196611138?s=80&v=4","followers":2,"publicRepos":1,"location":"Gaborone, Botswana","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":5,"id":"U_kgDOCZ1zUQ","login":"abc23-006","name":"Thuo Rolf Setima","url":"https://github.com/abc23-006","avatarUrl":"https://avatars.githubusercontent.com/u/161313617?s=80&v=4","followers":1,"publicRepos":1,"location":"Fairgrounds, Gaborone Botswana","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":6,"id":"U_kgDOB8QSLA","login":"0126FinGuy","name":"Oteng Boitshepo Olaetse","url":"https://github.com/0126FinGuy","avatarUrl":"https://avatars.githubusercontent.com/u/130290220?s=80&v=4","followers":0,"publicRepos":2,"location":"Gaborone, Botswana","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":7,"id":"U_kgDOEBEw2w","login":"aaronaase090-blip","name":"aase aaron","url":"https://github.com/aaronaase090-blip","avatarUrl":"https://avatars.githubusercontent.com/u/269562075?s=80&v=4","followers":0,"publicRepos":1,"location":"botswana","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":8,"id":"U_kgDOC8Ax_w","login":"Abysinia-Thathana","name":"AbysiniaThathana","url":"https://github.com/Abysinia-Thathana","avatarUrl":"https://avatars.githubusercontent.com/u/197145087?s=80&v=4","followers":0,"publicRepos":1,"location":"gaborone,botswana","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "45bb5267a2e67772",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "fc3e7e239eb688e2",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

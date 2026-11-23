@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **119** | 22 Nov 2026 | <a href="../../data/developers/PT.json">JSON</a> |
+| 🟡 Provisional | **144** | 22 Nov 2026 | <a href="../../data/developers/PT.json">JSON</a> |
 
 </div>
 
@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/nunomaduro"><img src="https://avatars.githubusercontent.com/u/5457236?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nunomaduro"><b>nunomaduro</b></a><br><sub>&#64;nunomaduro</sub></td>
-<td align="right"><b>9,514</b></td>
+<td align="right"><b>9,515</b></td>
 <td align="right">329</td>
 <td><sub>Portugal</sub></td>
 </tr>
@@ -311,7 +311,7 @@
 <tr>
 <td align="right">42</td>
 <td><a href="https://github.com/joaotavora"><img src="https://avatars.githubusercontent.com/u/387011?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joaotavora"><b>João Távora</b></a><br><sub>&#64;joaotavora</sub></td>
-<td align="right"><b>772</b></td>
+<td align="right"><b>773</b></td>
 <td align="right">148</td>
 <td><sub>Portugal</sub></td>
 </tr>
@@ -674,181 +674,356 @@
 </tr>
 <tr>
 <td align="right">94</td>
-<td><a href="https://github.com/tentone"><img src="https://avatars.githubusercontent.com/u/9158354?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tentone"><b>José Ferrão</b></a><br><sub>&#64;tentone</sub></td>
-<td align="right"><b>393</b></td>
-<td align="right">0</td>
-<td><sub>Portugal</sub></td>
+<td><a href="https://github.com/dgomes"><img src="https://avatars.githubusercontent.com/u/137684?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dgomes"><b>Diogo Gomes</b></a><br><sub>&#64;dgomes</sub></td>
+<td align="right"><b>410</b></td>
+<td align="right">114</td>
+<td><sub>Aveiro, Portugal</sub></td>
 </tr>
 <tr>
 <td align="right">95</td>
-<td><a href="https://github.com/apocas"><img src="https://avatars.githubusercontent.com/u/597413?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/apocas"><b>Pedro Dias</b></a><br><sub>&#64;apocas</sub></td>
-<td align="right"><b>355</b></td>
-<td align="right">0</td>
-<td><sub>Portugal</sub></td>
+<td><a href="https://github.com/joaomatossilva"><img src="https://avatars.githubusercontent.com/u/381718?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joaomatossilva"><b>Joao Matos Silva</b></a><br><sub>&#64;joaomatossilva</sub></td>
+<td align="right"><b>394</b></td>
+<td align="right">119</td>
+<td><sub>Lisbon, Portugal</sub></td>
 </tr>
 <tr>
 <td align="right">96</td>
+<td><a href="https://github.com/tentone"><img src="https://avatars.githubusercontent.com/u/9158354?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tentone"><b>José Ferrão</b></a><br><sub>&#64;tentone</sub></td>
+<td align="right"><b>393</b></td>
+<td align="right">52</td>
+<td><sub>Portugal</sub></td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><a href="https://github.com/luigicfilho"><img src="https://avatars.githubusercontent.com/u/67793599?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/luigicfilho"><b>Luigi C. Filho</b></a><br><sub>&#64;luigicfilho</sub></td>
+<td align="right"><b>385</b></td>
+<td align="right">16</td>
+<td><sub>Portugal</sub></td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><a href="https://github.com/methodmissing"><img src="https://avatars.githubusercontent.com/u/379?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/methodmissing"><b>Lourens Naudé</b></a><br><sub>&#64;methodmissing</sub></td>
+<td align="right"><b>377</b></td>
+<td align="right">110</td>
+<td><sub>Funchal, Madeira, Portugal</sub></td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><a href="https://github.com/searadacunha"><img src="https://avatars.githubusercontent.com/u/224324153?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/searadacunha"><b>benjamindacunha</b></a><br><sub>&#64;searadacunha</sub></td>
+<td align="right"><b>377</b></td>
+<td align="right">9</td>
+<td><sub>Cascais, Portugal</sub></td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><a href="https://github.com/caiodev"><img src="https://avatars.githubusercontent.com/u/20802238?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/caiodev"><b>Caio Costa 🇧🇷🇵🇹</b></a><br><sub>&#64;caiodev</sub></td>
+<td align="right"><b>376</b></td>
+<td align="right">8</td>
+<td><sub>Portugal</sub></td>
+</tr>
+<tr>
+<td align="right">101</td>
+<td><a href="https://github.com/andresilva"><img src="https://avatars.githubusercontent.com/u/123550?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andresilva"><b>André Silva</b></a><br><sub>&#64;andresilva</sub></td>
+<td align="right"><b>374</b></td>
+<td align="right">152</td>
+<td><sub>Porto, Portugal</sub></td>
+</tr>
+<tr>
+<td align="right">102</td>
+<td><a href="https://github.com/DaniilBaida"><img src="https://avatars.githubusercontent.com/u/88986327?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DaniilBaida"><b>Daniil Baida</b></a><br><sub>&#64;DaniilBaida</sub></td>
+<td align="right"><b>373</b></td>
+<td align="right">3</td>
+<td><sub>Barreiro, Portugal</sub></td>
+</tr>
+<tr>
+<td align="right">103</td>
+<td><a href="https://github.com/rmarinho"><img src="https://avatars.githubusercontent.com/u/1235097?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rmarinho"><b>Rui Marinho</b></a><br><sub>&#64;rmarinho</sub></td>
+<td align="right"><b>371</b></td>
+<td align="right">171</td>
+<td><sub>Portugal</sub></td>
+</tr>
+<tr>
+<td align="right">104</td>
+<td><a href="https://github.com/radcortez"><img src="https://avatars.githubusercontent.com/u/5796305?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/radcortez"><b>Roberto Cortez</b></a><br><sub>&#64;radcortez</sub></td>
+<td align="right"><b>367</b></td>
+<td align="right">149</td>
+<td><sub>Coimbra, Portugal</sub></td>
+</tr>
+<tr>
+<td align="right">105</td>
+<td><a href="https://github.com/alcides"><img src="https://avatars.githubusercontent.com/u/7089?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alcides"><b>Alcides Fonseca</b></a><br><sub>&#64;alcides</sub></td>
+<td align="right"><b>358</b></td>
+<td align="right">126</td>
+<td><sub>Lisboa, Portugal</sub></td>
+</tr>
+<tr>
+<td align="right">106</td>
+<td><a href="https://github.com/apocas"><img src="https://avatars.githubusercontent.com/u/597413?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/apocas"><b>Pedro Dias</b></a><br><sub>&#64;apocas</sub></td>
+<td align="right"><b>355</b></td>
+<td align="right">91</td>
+<td><sub>Portugal</sub></td>
+</tr>
+<tr>
+<td align="right">107</td>
+<td><a href="https://github.com/a2u"><img src="https://avatars.githubusercontent.com/u/1529979?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/a2u"><b>Vitalii Rudnykh</b></a><br><sub>&#64;a2u</sub></td>
+<td align="right"><b>351</b></td>
+<td align="right">11</td>
+<td><sub>Portugal</sub></td>
+</tr>
+<tr>
+<td align="right">108</td>
+<td><a href="https://github.com/e200"><img src="https://avatars.githubusercontent.com/u/20504726?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/e200"><b>E L E A N D R O</b></a><br><sub>&#64;e200</sub></td>
+<td align="right"><b>350</b></td>
+<td align="right">45</td>
+<td><sub>Bragança, Portugal</sub></td>
+</tr>
+<tr>
+<td align="right">109</td>
+<td><a href="https://github.com/JarbasAl"><img src="https://avatars.githubusercontent.com/u/33701864?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JarbasAl"><b>JarbasAI</b></a><br><sub>&#64;JarbasAl</sub></td>
+<td align="right"><b>345</b></td>
+<td align="right">40</td>
+<td><sub>Portugal</sub></td>
+</tr>
+<tr>
+<td align="right">110</td>
+<td><a href="https://github.com/MichelPomerantzeff"><img src="https://avatars.githubusercontent.com/u/96065240?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MichelPomerantzeff"><b>Michel Pomerantzeff</b></a><br><sub>&#64;MichelPomerantzeff</sub></td>
+<td align="right"><b>344</b></td>
+<td align="right">30</td>
+<td><sub>Paços de Ferreira, Portugal</sub></td>
+</tr>
+<tr>
+<td align="right">111</td>
 <td><a href="https://github.com/digoarthur"><img src="https://avatars.githubusercontent.com/u/59892368?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/digoarthur"><b>Diego Arthur</b></a><br><sub>&#64;digoarthur</sub></td>
 <td align="right"><b>341</b></td>
 <td align="right">0</td>
 <td><sub>Portugal</sub></td>
 </tr>
 <tr>
-<td align="right">97</td>
+<td align="right">112</td>
+<td><a href="https://github.com/brunomikoski"><img src="https://avatars.githubusercontent.com/u/600419?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brunomikoski"><b>Bruno Mikoski</b></a><br><sub>&#64;brunomikoski</sub></td>
+<td align="right"><b>318</b></td>
+<td align="right">0</td>
+<td><sub>Lisbon - Portugal</sub></td>
+</tr>
+<tr>
+<td align="right">113</td>
 <td><a href="https://github.com/joaocarvalhoopen"><img src="https://avatars.githubusercontent.com/u/6319988?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joaocarvalhoopen"><b>João Nuno Carvalho</b></a><br><sub>&#64;joaocarvalhoopen</sub></td>
 <td align="right"><b>298</b></td>
 <td align="right">0</td>
 <td><sub>Portugal - Lisbon</sub></td>
 </tr>
 <tr>
-<td align="right">98</td>
+<td align="right">114</td>
 <td><a href="https://github.com/raamcosta"><img src="https://avatars.githubusercontent.com/u/80427734?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/raamcosta"><b>Rafael Costa</b></a><br><sub>&#64;raamcosta</sub></td>
 <td align="right"><b>294</b></td>
 <td align="right">0</td>
 <td><sub>Leiria, Portugal</sub></td>
 </tr>
 <tr>
-<td align="right">99</td>
+<td align="right">115</td>
+<td><a href="https://github.com/ruimarinho"><img src="https://avatars.githubusercontent.com/u/288709?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ruimarinho"><b>Rui Marinho</b></a><br><sub>&#64;ruimarinho</sub></td>
+<td align="right"><b>293</b></td>
+<td align="right">0</td>
+<td><sub>Portugal</sub></td>
+</tr>
+<tr>
+<td align="right">116</td>
 <td><a href="https://github.com/alixaxel"><img src="https://avatars.githubusercontent.com/u/262782?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alixaxel"><b>Alix Axel</b></a><br><sub>&#64;alixaxel</sub></td>
 <td align="right"><b>283</b></td>
 <td align="right">0</td>
 <td><sub>Portugal</sub></td>
 </tr>
 <tr>
-<td align="right">100</td>
+<td align="right">117</td>
 <td><a href="https://github.com/kevinchappell"><img src="https://avatars.githubusercontent.com/u/1457540?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kevinchappell"><b>Kevin Chappell</b></a><br><sub>&#64;kevinchappell</sub></td>
 <td align="right"><b>279</b></td>
 <td align="right">0</td>
 <td><sub>Madeira, PT</sub></td>
 </tr>
 <tr>
-<td align="right">101</td>
+<td align="right">118</td>
 <td><a href="https://github.com/psenough"><img src="https://avatars.githubusercontent.com/u/808571?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/psenough"><b>Filipe Cruz</b></a><br><sub>&#64;psenough</sub></td>
 <td align="right"><b>258</b></td>
 <td align="right">0</td>
 <td><sub>Almada, Portugal</sub></td>
 </tr>
 <tr>
-<td align="right">102</td>
+<td align="right">119</td>
 <td><a href="https://github.com/rawfilejson"><img src="https://avatars.githubusercontent.com/u/68239032?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rawfilejson"><b>Demetre Metreveli</b></a><br><sub>&#64;rawfilejson</sub></td>
 <td align="right"><b>226</b></td>
 <td align="right">0</td>
 <td><sub>Portugal</sub></td>
 </tr>
 <tr>
-<td align="right">103</td>
+<td align="right">120</td>
 <td><a href="https://github.com/anfreire"><img src="https://avatars.githubusercontent.com/u/100360644?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anfreire"><b>André Freire Ferreira</b></a><br><sub>&#64;anfreire</sub></td>
 <td align="right"><b>224</b></td>
 <td align="right">0</td>
 <td><sub>Portugal</sub></td>
 </tr>
 <tr>
-<td align="right">104</td>
+<td align="right">121</td>
 <td><a href="https://github.com/arainho"><img src="https://avatars.githubusercontent.com/u/9482434?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arainho"><b>André Rainho</b></a><br><sub>&#64;arainho</sub></td>
 <td align="right"><b>213</b></td>
 <td align="right">0</td>
 <td><sub>Aveiro - Portugal</sub></td>
 </tr>
 <tr>
-<td align="right">105</td>
+<td align="right">122</td>
 <td><a href="https://github.com/nunocoracao"><img src="https://avatars.githubusercontent.com/u/3803196?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nunocoracao"><b>Nuno C.</b></a><br><sub>&#64;nunocoracao</sub></td>
 <td align="right"><b>211</b></td>
 <td align="right">0</td>
 <td><sub>Lisbon, Portugal</sub></td>
 </tr>
 <tr>
-<td align="right">106</td>
+<td align="right">123</td>
 <td><a href="https://github.com/dresende"><img src="https://avatars.githubusercontent.com/u/157494?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dresende"><b>Diogo Resende</b></a><br><sub>&#64;dresende</sub></td>
 <td align="right"><b>191</b></td>
 <td align="right">0</td>
 <td><sub>Aveiro, PT</sub></td>
 </tr>
 <tr>
-<td align="right">107</td>
+<td align="right">124</td>
 <td><a href="https://github.com/sn4k3"><img src="https://avatars.githubusercontent.com/u/113281?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sn4k3"><b>Tiago Conceição</b></a><br><sub>&#64;sn4k3</sub></td>
 <td align="right"><b>189</b></td>
 <td align="right">0</td>
 <td><sub>Portugal</sub></td>
 </tr>
 <tr>
-<td align="right">108</td>
+<td align="right">125</td>
 <td><a href="https://github.com/feremabraz"><img src="https://avatars.githubusercontent.com/u/71205864?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/feremabraz"><b>Fernando Braz</b></a><br><sub>&#64;feremabraz</sub></td>
 <td align="right"><b>188</b></td>
 <td align="right">0</td>
 <td><sub>Portugal</sub></td>
 </tr>
 <tr>
-<td align="right">109</td>
+<td align="right">126</td>
 <td><a href="https://github.com/marmelo"><img src="https://avatars.githubusercontent.com/u/247440?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marmelo"><b>Rafael Marmelo</b></a><br><sub>&#64;marmelo</sub></td>
 <td align="right"><b>180</b></td>
 <td align="right">0</td>
 <td><sub>Lisbon, Portugal</sub></td>
 </tr>
 <tr>
-<td align="right">110</td>
+<td align="right">127</td>
 <td><a href="https://github.com/rafaelvcaetano"><img src="https://avatars.githubusercontent.com/u/9086379?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rafaelvcaetano"><b>Rafael Caetano</b></a><br><sub>&#64;rafaelvcaetano</sub></td>
 <td align="right"><b>177</b></td>
 <td align="right">0</td>
 <td><sub>Portugal</sub></td>
 </tr>
 <tr>
-<td align="right">111</td>
+<td align="right">128</td>
 <td><a href="https://github.com/sandroasp"><img src="https://avatars.githubusercontent.com/u/1318263?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sandroasp"><b>Sandro Pereira</b></a><br><sub>&#64;sandroasp</sub></td>
 <td align="right"><b>174</b></td>
 <td align="right">0</td>
 <td><sub>Porto, Portugal</sub></td>
 </tr>
 <tr>
-<td align="right">112</td>
+<td align="right">129</td>
 <td><a href="https://github.com/brunnolou"><img src="https://avatars.githubusercontent.com/u/2729225?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brunnolou"><b>Bruno Lourenço</b></a><br><sub>&#64;brunnolou</sub></td>
 <td align="right"><b>144</b></td>
 <td align="right">0</td>
 <td><sub>Braga, Portugal</sub></td>
 </tr>
 <tr>
-<td align="right">113</td>
+<td align="right">130</td>
 <td><a href="https://github.com/tomaspinho"><img src="https://avatars.githubusercontent.com/u/7602844?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tomaspinho"><b>Tomás Pinho</b></a><br><sub>&#64;tomaspinho</sub></td>
 <td align="right"><b>130</b></td>
 <td align="right">0</td>
 <td><sub>Portugal</sub></td>
 </tr>
 <tr>
-<td align="right">114</td>
+<td align="right">131</td>
+<td><a href="https://github.com/flixlix"><img src="https://avatars.githubusercontent.com/u/61006057?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/flixlix"><b>Luca Félix</b></a><br><sub>&#64;flixlix</sub></td>
+<td align="right"><b>122</b></td>
+<td align="right">0</td>
+<td><sub>Lisbon, Portugal</sub></td>
+</tr>
+<tr>
+<td align="right">132</td>
+<td><a href="https://github.com/Suzie1"><img src="https://avatars.githubusercontent.com/u/42118269?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Suzie1"><b>Akatsuzi</b></a><br><sub>&#64;Suzie1</sub></td>
+<td align="right"><b>122</b></td>
+<td align="right">0</td>
+<td><sub>Portugal</sub></td>
+</tr>
+<tr>
+<td align="right">133</td>
 <td><a href="https://github.com/franciscoBSalgueiro"><img src="https://avatars.githubusercontent.com/u/92053465?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/franciscoBSalgueiro"><b>Francisco Salgueiro</b></a><br><sub>&#64;franciscoBSalgueiro</sub></td>
 <td align="right"><b>104</b></td>
 <td align="right">0</td>
 <td><sub>Portugal</sub></td>
 </tr>
 <tr>
-<td align="right">115</td>
+<td align="right">134</td>
+<td><a href="https://github.com/lavary"><img src="https://avatars.githubusercontent.com/u/4816516?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lavary"><b>Reza Lavarian</b></a><br><sub>&#64;lavary</sub></td>
+<td align="right"><b>103</b></td>
+<td align="right">0</td>
+<td><sub>Lisboa, Portugal</sub></td>
+</tr>
+<tr>
+<td align="right">135</td>
+<td><a href="https://github.com/marmottajr"><img src="https://avatars.githubusercontent.com/u/1506977?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marmottajr"><b>Márcio Junior</b></a><br><sub>&#64;marmottajr</sub></td>
+<td align="right"><b>103</b></td>
+<td align="right">0</td>
+<td><sub>Portugal</sub></td>
+</tr>
+<tr>
+<td align="right">136</td>
+<td><a href="https://github.com/ivnvxd"><img src="https://avatars.githubusercontent.com/u/97749666?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ivnvxd"><b>Andrey Ivanov</b></a><br><sub>&#64;ivnvxd</sub></td>
+<td align="right"><b>84</b></td>
+<td align="right">0</td>
+<td><sub>Lisbon, Portugal</sub></td>
+</tr>
+<tr>
+<td align="right">137</td>
 <td><a href="https://github.com/pakerwreah"><img src="https://avatars.githubusercontent.com/u/803954?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pakerwreah"><b>Carlos Enumo</b></a><br><sub>&#64;pakerwreah</sub></td>
 <td align="right"><b>77</b></td>
 <td align="right">0</td>
 <td><sub>Coimbra, Portugal</sub></td>
 </tr>
 <tr>
-<td align="right">116</td>
+<td align="right">138</td>
 <td><a href="https://github.com/cakeslice"><img src="https://avatars.githubusercontent.com/u/7516142?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cakeslice"><b>José Guerreiro</b></a><br><sub>&#64;cakeslice</sub></td>
 <td align="right"><b>64</b></td>
 <td align="right">0</td>
 <td><sub>Portugal</sub></td>
 </tr>
 <tr>
-<td align="right">117</td>
+<td align="right">139</td>
 <td><a href="https://github.com/BMSVieira"><img src="https://avatars.githubusercontent.com/u/26009435?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BMSVieira"><b>Bruno Vieira</b></a><br><sub>&#64;BMSVieira</sub></td>
 <td align="right"><b>63</b></td>
 <td align="right">0</td>
 <td><sub>Portugal</sub></td>
 </tr>
 <tr>
-<td align="right">118</td>
+<td align="right">140</td>
+<td><a href="https://github.com/weirdNox"><img src="https://avatars.githubusercontent.com/u/3155049?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/weirdNox"><b>Gonçalo Santos</b></a><br><sub>&#64;weirdNox</sub></td>
+<td align="right"><b>63</b></td>
+<td align="right">0</td>
+<td><sub>Porto, Portugal</sub></td>
+</tr>
+<tr>
+<td align="right">141</td>
 <td><a href="https://github.com/ruipgil"><img src="https://avatars.githubusercontent.com/u/952530?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ruipgil"><b>Rui Gil</b></a><br><sub>&#64;ruipgil</sub></td>
 <td align="right"><b>61</b></td>
 <td align="right">0</td>
 <td><sub>Portugal</sub></td>
 </tr>
 <tr>
-<td align="right">119</td>
+<td align="right">142</td>
+<td><a href="https://github.com/voxivoid"><img src="https://avatars.githubusercontent.com/u/7469472?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/voxivoid"><b>André Domingues</b></a><br><sub>&#64;voxivoid</sub></td>
+<td align="right"><b>58</b></td>
+<td align="right">0</td>
+<td><sub>Portugal</sub></td>
+</tr>
+<tr>
+<td align="right">143</td>
+<td><a href="https://github.com/hsousa"><img src="https://avatars.githubusercontent.com/u/2064882?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hsousa"><b>Hugo Sousa</b></a><br><sub>&#64;hsousa</sub></td>
+<td align="right"><b>45</b></td>
+<td align="right">0</td>
+<td><sub>Lisbon, Portugal</sub></td>
+</tr>
+<tr>
+<td align="right">144</td>
 <td><a href="https://github.com/almeidapaulopt"><img src="https://avatars.githubusercontent.com/u/22657407?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/almeidapaulopt"><b>Paulo Almeida</b></a><br><sub>&#64;almeidapaulopt</sub></td>
 <td align="right"><b>26</b></td>
 <td align="right">0</td>
@@ -862,7 +1037,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 119 attributed developers are tracked; the cutoff is 26 followers.
+- Organizations are excluded. 144 attributed developers are tracked; the cutoff is 26 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

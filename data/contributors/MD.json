@@ -5,14 +5,15 @@
 "country": {"code":"MD","name":"Moldova","slug":"moldova"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":401,"measuredAccounts":4,"measurementBacklog":397,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":401,"measuredAccounts":5,"measurementBacklog":396,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":84,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjE2MDg5NA==","login":"CyberShadow","name":"Vladimir Panteleev","url":"https://github.com/CyberShadow","avatarUrl":"https://avatars.githubusercontent.com/u/160894?s=80&v=4","followers":520,"publicRepos":437,"location":"Moldova, Eastern Europe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":1623,"commits":1511,"pullRequests":47,"reviews":24,"issues":20,"repositories":21,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
-  {"rank":2,"id":"MDQ6VXNlcjI5MDk3Ng==","login":"vmihailenco","name":"Vladimir Mihailenco","url":"https://github.com/vmihailenco","avatarUrl":"https://avatars.githubusercontent.com/u/290976?s=80&v=4","followers":1381,"publicRepos":74,"location":"Moldova","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":479,"commits":380,"pullRequests":70,"reviews":11,"issues":15,"repositories":2,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":3,"id":"MDQ6VXNlcjY5MTY4MTU0","login":"face-hh","name":"Face","url":"https://github.com/face-hh","avatarUrl":"https://avatars.githubusercontent.com/u/69168154?s=80&v=4","followers":2279,"publicRepos":39,"location":"Moldova","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":338,"commits":309,"pullRequests":26,"reviews":0,"issues":3,"repositories":0,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":2,"id":"MDQ6VXNlcjI5MDk3Ng==","login":"vmihailenco","name":"Vladimir Mihailenco","url":"https://github.com/vmihailenco","avatarUrl":"https://avatars.githubusercontent.com/u/290976?s=80&v=4","followers":1381,"publicRepos":74,"location":"Moldova","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":479,"commits":380,"pullRequests":70,"reviews":11,"issues":15,"repositories":2,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":3,"id":"MDQ6VXNlcjY5MTY4MTU0","login":"face-hh","name":"Face","url":"https://github.com/face-hh","avatarUrl":"https://avatars.githubusercontent.com/u/69168154?s=80&v=4","followers":2279,"publicRepos":39,"location":"Moldova","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":338,"commits":309,"pullRequests":26,"reviews":0,"issues":3,"repositories":0,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":4,"id":"MDQ6VXNlcjE2MzM4MjY=","login":"nickmessing","name":"Nick Messing","url":"https://github.com/nickmessing","avatarUrl":"https://avatars.githubusercontent.com/u/1633826?s=80&v=4","followers":348,"publicRepos":60,"location":"Chisinau, Moldova","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":146,"commits":109,"pullRequests":17,"reviews":4,"issues":6,"repositories":10,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "24cb6e8fb5e965b5",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "cd84ebc2bd6451af",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

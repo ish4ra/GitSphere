@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"CD","name":"DR Congo","slug":"dr-congo"},
-"count": 150,
+"count": 148,
 "repositories": [
-  {"name":"foocker/deeplearningtheory","stars":278,"forks":26,"license":"Apache-2.0","archived":false,"createdAt":"2021-04-01T02:14:18Z","pushedAt":"2026-03-14T03:39:20Z","owner":{"login":"foocker","type":"User","name":"fq","location":"CD"},"attribution":{"code":"CD","confidence":"medium","evidence":"country-code"},"seenAt":"2026-10-15T00:42:49.936Z","id":"legacy:foocker/deeplearningtheory","legacy":true},
-  {"name":"donmbelembe/vue-dragscroll","stars":264,"forks":33,"language":"Vue","license":"MIT","archived":false,"createdAt":"2017-09-10T17:18:28Z","pushedAt":"2026-09-14T08:07:17Z","owner":{"login":"donmbelembe","type":"User","location":"Kinshasa, DRC"},"attribution":{"code":"CD","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:56:52.250Z","id":"legacy:donmbelembe/vue-dragscroll","legacy":true},
   {"name":"JonathanMonga/flutter_gradients","stars":184,"forks":29,"language":"Dart","license":"MIT","archived":false,"createdAt":"2020-02-11T23:46:40Z","pushedAt":"2024-08-26T08:35:46Z","owner":{"login":"JonathanMonga","type":"User","name":"Jomo","location":"Lubumbashi, Katanga, DR Congo"},"attribution":{"code":"CD","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:56:52.250Z","id":"legacy:jonathanmonga/flutter_gradients","legacy":true},
   {"name":"Johnkat-Mj/podcas-landing-page","stars":75,"forks":27,"language":"Vue","archived":false,"createdAt":"2023-01-31T10:14:15Z","pushedAt":"2023-06-14T20:47:38Z","owner":{"login":"Johnkat-Mj","type":"User","name":"Johnkat Mj","location":"Lubumbashi DRC"},"attribution":{"code":"CD","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:56:52.250Z","id":"legacy:johnkat-mj/podcas-landing-page","legacy":true},
   {"name":"ljoboy/happy-birthday","stars":35,"forks":23,"language":"JavaScript","archived":false,"createdAt":"2022-07-15T19:55:35Z","pushedAt":"2022-07-15T19:58:46Z","owner":{"login":"ljoboy","type":"User","name":"Jonathan Yombo Bosemwa","location":"Lubumbashi-DRC"},"attribution":{"code":"CD","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:56:52.250Z","id":"legacy:ljoboy/happy-birthday","legacy":true},

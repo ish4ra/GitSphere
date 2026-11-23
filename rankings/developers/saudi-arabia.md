@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **27** | 22 Nov 2026 | <a href="../../data/developers/SA.json">JSON</a> |
+| 🟡 Provisional | **29** | 22 Nov 2026 | <a href="../../data/developers/SA.json">JSON</a> |
 
 </div>
 
@@ -143,7 +143,7 @@
 <tr>
 <td align="right">18</td>
 <td><a href="https://github.com/obahareth"><img src="https://avatars.githubusercontent.com/u/3428118?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/obahareth"><b>Omar Bahareth</b></a><br><sub>&#64;obahareth</sub></td>
-<td align="right"><b>481</b></td>
+<td align="right"><b>480</b></td>
 <td align="right">152</td>
 <td><sub>Riyadh, Saudi Arabia</sub></td>
 </tr>
@@ -198,13 +198,27 @@
 </tr>
 <tr>
 <td align="right">26</td>
+<td><a href="https://github.com/minafarideleia"><img src="https://avatars.githubusercontent.com/u/57396105?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/minafarideleia"><b>minafarideleia</b></a><br><sub>&#64;minafarideleia</sub></td>
+<td align="right"><b>373</b></td>
+<td align="right">6</td>
+<td><sub>Riyadh, KSA</sub></td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td><a href="https://github.com/Safiullahgithub"><img src="https://avatars.githubusercontent.com/u/141447767?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Safiullahgithub"><b>Safi Ullah Khan</b></a><br><sub>&#64;Safiullahgithub</sub></td>
+<td align="right"><b>357</b></td>
+<td align="right">44</td>
+<td><sub>Riyadh, Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">28</td>
 <td><a href="https://github.com/ialhashim"><img src="https://avatars.githubusercontent.com/u/2434978?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ialhashim"><b>Ibraheem Alhashim</b></a><br><sub>&#64;ialhashim</sub></td>
 <td align="right"><b>212</b></td>
 <td align="right">0</td>
 <td><sub>Saudi Arabia</sub></td>
 </tr>
 <tr>
-<td align="right">27</td>
+<td align="right">29</td>
 <td><a href="https://github.com/orangci"><img src="https://avatars.githubusercontent.com/u/90866414?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/orangci"><b>orangci</b></a><br><sub>&#64;orangci</sub></td>
 <td align="right"><b>189</b></td>
 <td align="right">0</td>
@@ -218,7 +232,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 27 attributed developers are tracked; the cutoff is 189 followers.
+- Organizations are excluded. 29 attributed developers are tracked; the cutoff is 189 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **65** | 04 Nov 2026 | <a href="../data/HR.json">JSON</a> |
+| 🟠 Stale | **79** | 04 Nov 2026 | <a href="../data/HR.json">JSON</a> |
 
-> **Not yet re-verified.** 22 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 13 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -326,153 +326,251 @@
 </tr>
 <tr>
 <td align="right">44</td>
-<td><img src="https://github.com/simevidas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/simevidas/web-dev-feeds"><b>simevidas/web-dev-feeds</b></a></td>
-<td align="right"><b>376</b></td>
-<td align="right">28</td>
-<td>—</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/nike_landing_page"><b>adrianhajdin/nike&#95;landing&#95;page</b></a><br><sub>Dive into the world of Tailwind CSS, build a Nike website, and join top-tier organizations like OpenAI, Shopify, and NA…</sub></td>
+<td align="right"><b>1,489</b></td>
+<td align="right">389</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">45</td>
-<td><img src="https://github.com/blakadder.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/blakadder/templates"><b>blakadder/templates</b></a></td>
-<td align="right"><b>359</b></td>
-<td align="right">1,310</td>
-<td>HTML</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_modern_ui_ux_restaurant"><b>adrianhajdin/project&#95;modern&#95;ui&#95;ux&#95;restaurant</b></a><br><sub>This is a code repository for the corresponding video tutorial. In this video, we&#39;re going to build a Modern UI/UX Rest…</sub></td>
+<td align="right"><b>1,466</b></td>
+<td align="right">366</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">46</td>
-<td><img src="https://github.com/nbqofficial.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nbqofficial/norsefire"><b>nbqofficial/norsefire</b></a></td>
-<td align="right"><b>357</b></td>
-<td align="right">68</td>
-<td>C++</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_youtube_clone"><b>adrianhajdin/project&#95;youtube&#95;clone</b></a><br><sub>Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5</sub></td>
+<td align="right"><b>1,465</b></td>
+<td align="right">1,660</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">47</td>
-<td><img src="https://github.com/stsrki.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stsrki/KeepAliveHD"><b>stsrki/KeepAliveHD</b></a></td>
-<td align="right"><b>346</b></td>
-<td align="right">24</td>
-<td>C#</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_corona_tracker"><b>adrianhajdin/project&#95;corona&#95;tracker</b></a><br><sub>This is a code repository for the corresponding YouTube video. In this tutorial, we are going to build and deploy a cor…</sub></td>
+<td align="right"><b>1,465</b></td>
+<td align="right">514</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">48</td>
-<td><img src="https://github.com/SolderedElectronics.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SolderedElectronics/Inkplate-Arduino-library"><b>SolderedElectronics/Inkplate-Arduino-library</b></a></td>
-<td align="right"><b>308</b></td>
-<td align="right">97</td>
-<td>C</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_graphql_blog"><b>adrianhajdin/project&#95;graphql&#95;blog</b></a><br><sub>With featured and recent posts, categories. full markdown articles, author information, comments, and much more, this f…</sub></td>
+<td align="right"><b>1,463</b></td>
+<td align="right">344</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">49</td>
-<td><img src="https://github.com/ivanmeler.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ivanmeler/SamFirm_Reborn"><b>ivanmeler/SamFirm&#95;Reborn</b></a></td>
-<td align="right"><b>285</b></td>
-<td align="right">44</td>
-<td>C#</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/ecommerce"><b>adrianhajdin/ecommerce</b></a><br><sub>Learn how to build an incredible e-commerce webshop with an admin dashboard and CMS using Next 14, Stripe, TypeScript,…</sub></td>
+<td align="right"><b>1,444</b></td>
+<td align="right">483</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">50</td>
-<td><img src="https://github.com/JazzyGrim.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JazzyGrim/dotfiles"><b>JazzyGrim/dotfiles</b></a></td>
-<td align="right"><b>245</b></td>
-<td align="right">37</td>
-<td>Lua</td>
+<td><img src="https://github.com/nmdias.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nmdias/DefaultsKit"><b>nmdias/DefaultsKit</b></a><br><sub>Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS</sub></td>
+<td align="right"><b>1,441</b></td>
+<td align="right">91</td>
+<td>Swift</td>
 </tr>
 <tr>
 <td align="right">51</td>
-<td><img src="https://github.com/mat1jaczyyy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mat1jaczyyy/apollo-studio"><b>mat1jaczyyy/apollo-studio</b></a></td>
-<td align="right"><b>226</b></td>
-<td align="right">26</td>
-<td>C#</td>
+<td><img src="https://github.com/ivankokan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ivankokan/Excel2LaTeX"><b>ivankokan/Excel2LaTeX</b></a><br><sub>The Excel add-in for creating LaTeX tables</sub></td>
+<td align="right"><b>1,429</b></td>
+<td align="right">146</td>
+<td>VBA</td>
 </tr>
 <tr>
 <td align="right">52</td>
-<td><img src="https://github.com/narimiran.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/narimiran/tably"><b>narimiran/tably</b></a></td>
-<td align="right"><b>225</b></td>
-<td align="right">14</td>
-<td>Python</td>
+<td><img src="https://github.com/dgrubelic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dgrubelic/vue-authenticate"><b>dgrubelic/vue-authenticate</b></a><br><sub>Simple Vue.js authentication library</sub></td>
+<td align="right"><b>1,419</b></td>
+<td align="right">236</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">53</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_openai_codex"><b>adrianhajdin/project&#95;openai&#95;codex</b></a><br><sub>Build and Deploy Your Own ChatGPT AI Application That Will Help You Code</sub></td>
+<td align="right"><b>1,417</b></td>
+<td align="right">720</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/ai_saas_app"><b>adrianhajdin/ai&#95;saas&#95;app</b></a><br><sub>Build a REAL Software-as-a-Service app with AI features and payments &amp; credits system that you might even turn into a s…</sub></td>
+<td align="right"><b>1,367</b></td>
+<td align="right">423</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_cryptoverse"><b>adrianhajdin/project&#95;cryptoverse</b></a><br><sub>Cryptocurrency App powered by RapidAPI</sub></td>
+<td align="right"><b>1,360</b></td>
+<td align="right">413</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><img src="https://github.com/nmdias.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nmdias/FeedKit"><b>nmdias/FeedKit</b></a><br><sub>FeedKit is a Swift library for Reading and Generating RSS, Atom, and JSON feeds.</sub></td>
+<td align="right"><b>1,360</b></td>
+<td align="right">203</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/3D_portfolio"><b>adrianhajdin/3D&#95;portfolio</b></a><br><sub>Let&#39;s build a cool 3D website together! You&#39;ll learn how to make a portfolio with fun interactive parts, like a floatin…</sub></td>
+<td align="right"><b>1,359</b></td>
+<td align="right">312</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><img src="https://github.com/MarkoMilos.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MarkoMilos/Paginate"><b>MarkoMilos/Paginate</b></a><br><sub>Library for creating simple pagination functionality upon RecyclerView and AbsListView</sub></td>
+<td align="right"><b>1,338</b></td>
+<td align="right">217</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><img src="https://github.com/ihabunek.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ihabunek/toot"><b>ihabunek/toot</b></a><br><sub>toot - Mastodon CLI &amp; TUI</sub></td>
+<td align="right"><b>1,330</b></td>
+<td align="right">126</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/projects_realestate"><b>adrianhajdin/projects&#95;realestate</b></a><br><sub>Build and Deploy a Real Estate React &amp; Next.js Application</sub></td>
+<td align="right"><b>1,325</b></td>
+<td align="right">477</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><img src="https://github.com/jurkovic-nikola.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jurkovic-nikola/OpenLinkHub"><b>jurkovic-nikola/OpenLinkHub</b></a><br><sub>Open source interface for iCUE LINK Hub and other Corsair AIOs, Hubs for Linux. Manage RGB lighting, fan speeds, system…</sub></td>
+<td align="right"><b>1,275</b></td>
+<td align="right">134</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/figma_clone"><b>adrianhajdin/figma&#95;clone</b></a><br><sub>Figma Clone using Next.js, Fabric.js and Liveblocks in TypeScript</sub></td>
+<td align="right"><b>1,265</b></td>
+<td align="right">332</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/chat_application"><b>adrianhajdin/chat&#95;application</b></a><br><sub>This is a code repository for the corresponding YouTube video. In this tutorial, we are going to build and deploy a rea…</sub></td>
+<td align="right"><b>1,209</b></td>
+<td align="right">586</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_ai_mern_image_generation"><b>adrianhajdin/project&#95;ai&#95;mern&#95;image&#95;generation</b></a><br><sub>Build and Deploy a Full Stack MERN AI Image Generation App MidJourney &amp; DALL E Clone</sub></td>
+<td align="right"><b>1,198</b></td>
+<td align="right">338</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_fitness_app"><b>adrianhajdin/project&#95;fitness&#95;app</b></a></td>
+<td align="right"><b>1,180</b></td>
+<td align="right">426</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/zoom-clone"><b>adrianhajdin/zoom-clone</b></a><br><sub>Learn to develop a professional enterprise-ready video conferencing app in hours using Next.js 14, Stream, and Tailwind…</sub></td>
+<td align="right"><b>1,155</b></td>
+<td align="right">456</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">67</td>
 <td><img src="https://github.com/Swader.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Swader/nofw"><b>Swader/nofw</b></a></td>
 <td align="right"><b>212</b></td>
 <td align="right">13</td>
 <td>PHP</td>
 </tr>
 <tr>
-<td align="right">54</td>
+<td align="right">68</td>
 <td><img src="https://github.com/xan1242.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xan1242/NFS-XtendedInput"><b>xan1242/NFS-XtendedInput</b></a></td>
 <td align="right"><b>210</b></td>
 <td align="right">16</td>
 <td>C++</td>
 </tr>
 <tr>
-<td align="right">55</td>
+<td align="right">69</td>
 <td><img src="https://github.com/AntonioErdeljac.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AntonioErdeljac/python-tensorflow-google"><b>AntonioErdeljac/python-tensorflow-google</b></a></td>
 <td align="right"><b>203</b></td>
 <td align="right">32</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">56</td>
+<td align="right">70</td>
 <td><img src="https://github.com/ivandoric.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ivandoric/Making-Websites-With-October-CMS"><b>ivandoric/Making-Websites-With-October-CMS</b></a></td>
 <td align="right"><b>161</b></td>
 <td align="right">50</td>
 <td>PHP</td>
 </tr>
 <tr>
-<td align="right">57</td>
+<td align="right">71</td>
 <td><img src="https://github.com/TheGreatSimon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TheGreatSimon/AnvilCSG"><b>TheGreatSimon/AnvilCSG</b></a></td>
 <td align="right"><b>160</b></td>
 <td align="right">1</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">58</td>
+<td align="right">72</td>
 <td><img src="https://github.com/bruno-.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bruno-/fiber_scheduler"><b>bruno-/fiber&#95;scheduler</b></a></td>
 <td align="right"><b>128</b></td>
 <td align="right">4</td>
 <td>Ruby</td>
 </tr>
 <tr>
-<td align="right">59</td>
+<td align="right">73</td>
 <td><img src="https://github.com/dpavlin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dpavlin/android-command-line"><b>dpavlin/android-command-line</b></a></td>
 <td align="right"><b>118</b></td>
 <td align="right">33</td>
 <td>Shell</td>
 </tr>
 <tr>
-<td align="right">60</td>
+<td align="right">74</td>
 <td><img src="https://github.com/silvenon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/silvenon/vscode-mdx"><b>silvenon/vscode-mdx</b></a></td>
 <td align="right"><b>110</b></td>
 <td align="right">9</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">61</td>
+<td align="right">75</td>
 <td><img src="https://github.com/NikolaBreznjak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NikolaBreznjak/AndroidCallBlockingTestDemo"><b>NikolaBreznjak/AndroidCallBlockingTestDemo</b></a></td>
 <td align="right"><b>71</b></td>
 <td align="right">28</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">62</td>
+<td align="right">76</td>
 <td><img src="https://github.com/avail.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/avail/UnityAssemblyInjector"><b>avail/UnityAssemblyInjector</b></a></td>
 <td align="right"><b>70</b></td>
 <td align="right">9</td>
 <td>C++</td>
 </tr>
 <tr>
-<td align="right">63</td>
+<td align="right">77</td>
 <td><img src="https://github.com/lmacan1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lmacan1/talktype"><b>lmacan1/talktype</b></a></td>
 <td align="right"><b>60</b></td>
 <td align="right">14</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">64</td>
+<td align="right">78</td>
 <td><img src="https://github.com/filbabic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/filbabic/FlexibleAdapter"><b>filbabic/FlexibleAdapter</b></a></td>
 <td align="right"><b>48</b></td>
 <td align="right">4</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">65</td>
+<td align="right">79</td>
 <td><img src="https://github.com/PCrnjak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PCrnjak/S-Drive-Firmware"><b>PCrnjak/S-Drive-Firmware</b></a></td>
 <td align="right"><b>43</b></td>
 <td align="right">10</td>
@@ -486,9 +584,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 43 stars; 65 attributed candidates are tracked.
-- 22 entries were carried over from the previous dataset and are pending revalidation.
-- 138 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 43 stars; 79 attributed candidates are tracked.
+- 13 entries were carried over from the previous dataset and are pending revalidation.
+- 131 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 145 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

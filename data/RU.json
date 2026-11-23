@@ -5,7 +5,7 @@
 "country": {"code":"RU","name":"Russia","slug":"russia"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":1789,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":0,"candidates":125,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":1789,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":0,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk5MTQ5MzA4OA==","name":"GoodbyeDPI","nameWithOwner":"ValdikSS/GoodbyeDPI","url":"https://github.com/ValdikSS/GoodbyeDPI","description":"GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)","stars":28886,"forks":2264,"primaryLanguage":"C","license":{"spdxId":"Apache-2.0"},"createdAt":"2017-05-16T18:48:52Z","pushedAt":"2026-01-19T12:59:23Z","archived":false,"owner":{"login":"ValdikSS","name":"ValdikSS","type":"User","url":"https://github.com/ValdikSS","location":"Russia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkyNTYwOTA4Ng==","name":"rdpwrap","nameWithOwner":"stascorp/rdpwrap","url":"https://github.com/stascorp/rdpwrap","description":"RDP Wrapper Library","stars":17008,"forks":4064,"primaryLanguage":"Pascal","license":{"spdxId":"Apache-2.0"},"createdAt":"2014-10-22T23:18:28Z","pushedAt":"2024-06-18T15:08:33Z","archived":false,"owner":{"login":"stascorp","name":"Stas'M Corp.","type":"Organization","url":"https://github.com/stascorp","location":"Russia, Moscow","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"MDEwOlJlcG9zaXRvcnkyMDMzNzgwNTE=","name":"payload_dumper","nameWithOwner":"vm03/payload_dumper","url":"https://github.com/vm03/payload_dumper","description":"Android OTA payload dumper","stars":1797,"forks":323,"primaryLanguage":"Python","license":null,"createdAt":"2019-08-20T13:05:46Z","pushedAt":"2025-04-18T14:21:13Z","archived":false,"owner":{"login":"vm03","name":"Vasya","type":"User","url":"https://github.com/vm03","location":"Russia, Odintsovo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-23"},
   {"rank":100,"id":"MDEwOlJlcG9zaXRvcnk2ODI4NTg3MA==","name":"Practical_DL","nameWithOwner":"yandexdataschool/Practical_DL","url":"https://github.com/yandexdataschool/Practical_DL","description":"DL course co-developed by YSDA, HSE and Skoltech","stars":1789,"forks":658,"primaryLanguage":"Jupyter Notebook","license":{"spdxId":"MIT"},"createdAt":"2016-09-15T10:43:08Z","pushedAt":"2026-11-20T15:03:27Z","archived":false,"owner":{"login":"yandexdataschool","name":"Yandex School of Data Analysis","type":"Organization","url":"https://github.com/yandexdataschool","location":"Moscow, Russia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "3efe8c7171e518b2",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "37cedde052a2d70c",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

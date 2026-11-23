@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/developers/AZ.json">JSON</a> |
+| 🟡 Provisional | **17** | 22 Nov 2026 | <a href="../../data/developers/AZ.json">JSON</a> |
 
 </div>
 
@@ -107,10 +107,38 @@
 </tr>
 <tr>
 <td align="right">13</td>
+<td><a href="https://github.com/sarkhanrasullu"><img src="https://avatars.githubusercontent.com/u/6942099?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sarkhanrasullu"><b>Sarkhan Rasullu</b></a><br><sub>&#64;sarkhanrasullu</sub></td>
+<td align="right"><b>408</b></td>
+<td align="right">64</td>
+<td><sub>Azerbaijan</sub></td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><a href="https://github.com/nurullaibadov"><img src="https://avatars.githubusercontent.com/u/151769024?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nurullaibadov"><b>Nurulla Ibadov</b></a><br><sub>&#64;nurullaibadov</sub></td>
+<td align="right"><b>363</b></td>
+<td align="right">164</td>
+<td><sub>Azerbaijan,Baku</sub></td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><a href="https://github.com/KhanbalaRashidov"><img src="https://avatars.githubusercontent.com/u/50279392?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KhanbalaRashidov"><b>Khanbala Rashidov</b></a><br><sub>&#64;KhanbalaRashidov</sub></td>
+<td align="right"><b>359</b></td>
+<td align="right">185</td>
+<td><sub>Baku/Azerbaijan</sub></td>
+</tr>
+<tr>
+<td align="right">16</td>
 <td><a href="https://github.com/al1abb"><img src="https://avatars.githubusercontent.com/u/60220042?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/al1abb"><b>Ali Abbasov</b></a><br><sub>&#64;al1abb</sub></td>
 <td align="right"><b>206</b></td>
 <td align="right">0</td>
 <td><sub>Azerbaijan</sub></td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><a href="https://github.com/mearashadowfax"><img src="https://avatars.githubusercontent.com/u/125820963?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mearashadowfax"><b>Emil Gulamov</b></a><br><sub>&#64;mearashadowfax</sub></td>
+<td align="right"><b>117</b></td>
+<td align="right">0</td>
+<td><sub>Baku, Azerbaijan</sub></td>
 </tr>
 </tbody>
 </table>
@@ -120,7 +148,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 13 attributed developers are tracked; the cutoff is 206 followers.
+- Organizations are excluded. 17 attributed developers are tracked; the cutoff is 117 followers.
 - **Location discovery:** term 0 of 185 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

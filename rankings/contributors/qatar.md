@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/QA.json">JSON</a> |
+| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/QA.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,15 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/mrpaziresh"><img src="https://avatars.githubusercontent.com/u/90142173?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrpaziresh"><b>Ali Reza Paziresh</b></a><br><sub>&#64;mrpaziresh · 3,118 followers</sub></td>
+<td align="right"><b>47</b></td>
+<td align="right">46</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/TarikKaanKoc"><img src="https://avatars.githubusercontent.com/u/83168207?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TarikKaanKoc"><b>Tarık Kaan Koç</b></a><br><sub>&#64;TarikKaanKoc · 564 followers</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">8</td>
@@ -51,7 +60,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/vahid-nejad"><img src="https://avatars.githubusercontent.com/u/7630781?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vahid-nejad"><b>Vahid Nejad</b></a><br><sub>&#64;vahid-nejad · 480 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
@@ -66,7 +75,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 4 of 400 discovered developers (396 awaiting measurement).
+- **Measured:** 5 of 400 discovered developers (395 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

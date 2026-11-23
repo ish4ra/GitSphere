@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/AT.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/AT.json">JSON</a> |
 
 </div>
 
@@ -25,7 +25,7 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><a href="https://github.com/mitsuhiko"><img src="https://avatars.githubusercontent.com/u/7396?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mitsuhiko"><b>Armin Ronacher</b></a><br><sub>&#64;mitsuhiko · 26,746 followers</sub></td>
+<td><a href="https://github.com/mitsuhiko"><img src="https://avatars.githubusercontent.com/u/7396?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mitsuhiko"><b>Armin Ronacher</b></a><br><sub>&#64;mitsuhiko · 26,751 followers</sub></td>
 <td align="right"><b>9,178</b></td>
 <td align="right">8,838</td>
 <td align="right">207</td>
@@ -61,6 +61,15 @@
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/peacekeeper"><img src="https://avatars.githubusercontent.com/u/290941?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/peacekeeper"><b>Markus Sabadello</b></a><br><sub>&#64;peacekeeper · 414 followers</sub></td>
+<td align="right"><b>1,293</b></td>
+<td align="right">1,171</td>
+<td align="right">21</td>
+<td align="right">53</td>
+<td align="right">32</td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/untitaker"><img src="https://avatars.githubusercontent.com/u/837573?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/untitaker"><b>Markus Unterwaditzer</b></a><br><sub>&#64;untitaker · 748 followers</sub></td>
 <td align="right"><b>1,243</b></td>
 <td align="right">422</td>
@@ -69,8 +78,17 @@
 <td align="right">50</td>
 </tr>
 <tr>
-<td align="right">6</td>
-<td><a href="https://github.com/manfredsteyer"><img src="https://avatars.githubusercontent.com/u/1573728?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/manfredsteyer"><b>Manfred Steyer</b></a><br><sub>&#64;manfredsteyer · 2,689 followers</sub></td>
+<td align="right">7</td>
+<td><a href="https://github.com/reitermarkus"><img src="https://avatars.githubusercontent.com/u/1309829?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/reitermarkus"><b>Markus Reiter</b></a><br><sub>&#64;reitermarkus · 367 followers</sub></td>
+<td align="right"><b>1,047</b></td>
+<td align="right">568</td>
+<td align="right">162</td>
+<td align="right">282</td>
+<td align="right">11</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/manfredsteyer"><img src="https://avatars.githubusercontent.com/u/1573728?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/manfredsteyer"><b>Manfred Steyer</b></a><br><sub>&#64;manfredsteyer · 2,691 followers</sub></td>
 <td align="right"><b>462</b></td>
 <td align="right">410</td>
 <td align="right">11</td>
@@ -84,7 +102,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 6 of 489 discovered developers (483 awaiting measurement).
+- **Measured:** 8 of 532 discovered developers (524 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 148 in round 1.

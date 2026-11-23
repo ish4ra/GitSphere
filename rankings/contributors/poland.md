@@ -14,17 +14,26 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/PL.json">JSON</a> |
+| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/PL.json">JSON</a> |
 
 </div>
 
-<p align="center"><sub>Public contributions from <b>22 Nov 2025</b> to <b>22 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
+<p align="center"><sub>Public contributions from <b>23 Nov 2025</b> to <b>23 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
 
 <table>
 <thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Public contributions</th><th align="right">Commits</th><th align="right">PRs</th><th align="right">Reviews</th><th align="right">Issues</th></tr></thead>
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/mgorny"><img src="https://avatars.githubusercontent.com/u/110765?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mgorny"><b>Michał Górny</b></a><br><sub>&#64;mgorny · 406 followers</sub></td>
+<td align="right"><b>37,692</b></td>
+<td align="right">36,427</td>
+<td align="right">559</td>
+<td align="right">285</td>
+<td align="right">316</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/mrexodia"><img src="https://avatars.githubusercontent.com/u/2458265?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrexodia"><b>Duncan Ogilvie</b></a><br><sub>&#64;mrexodia · 4,045 followers</sub></td>
 <td align="right"><b>3,234</b></td>
 <td align="right">2,639</td>
@@ -33,7 +42,7 @@
 <td align="right">133</td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">3</td>
 <td><a href="https://github.com/Andarist"><img src="https://avatars.githubusercontent.com/u/9800850?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Andarist"><b>Mateusz Burzyński</b></a><br><sub>&#64;Andarist · 2,325 followers</sub></td>
 <td align="right"><b>1,897</b></td>
 <td align="right">551</td>
@@ -42,7 +51,7 @@
 <td align="right">9</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/pplonski"><img src="https://avatars.githubusercontent.com/u/6959032?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pplonski"><b>Piotr</b></a><br><sub>&#64;pplonski · 540 followers</sub></td>
 <td align="right"><b>708</b></td>
 <td align="right">594</td>
@@ -51,7 +60,7 @@
 <td align="right">96</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/sheerun"><img src="https://avatars.githubusercontent.com/u/292365?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sheerun"><b>Adam Stankiewicz</b></a><br><sub>&#64;sheerun · 549 followers</sub></td>
 <td align="right"><b>41</b></td>
 <td align="right">35</td>
@@ -66,7 +75,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 4 of 631 discovered developers (627 awaiting measurement).
+- **Measured:** 5 of 696 discovered developers (691 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

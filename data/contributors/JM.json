@@ -5,13 +5,15 @@
 "country": {"code":"JM","name":"Jamaica","slug":"jamaica"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":402,"measuredAccounts":4,"measurementBacklog":398,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":70,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":403,"measuredAccounts":6,"measurementBacklog":397,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":70,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjQ3NjIyODM=","login":"trevoirwilliams","name":"Trevoir Williams","url":"https://github.com/trevoirwilliams","avatarUrl":"https://avatars.githubusercontent.com/u/4762283?s=80&v=4","followers":1477,"publicRepos":95,"location":"Jamaica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":447,"commits":350,"pullRequests":69,"reviews":0,"issues":1,"repositories":27,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":2,"id":"MDQ6VXNlcjQ2ODM1Mjk=","login":"rbramwell","name":"Rory Bramwell","url":"https://github.com/rbramwell","avatarUrl":"https://avatars.githubusercontent.com/u/4683529?s=80&v=4","followers":63,"publicRepos":1524,"location":"Montego Bay, Jamaica","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":7,"commits":0,"pullRequests":1,"reviews":0,"issues":1,"repositories":5,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
+  {"rank":2,"id":"MDQ6VXNlcjU3NjkxMDk=","login":"dramalcolm","name":"Douglas A. Malcolm","url":"https://github.com/dramalcolm","avatarUrl":"https://avatars.githubusercontent.com/u/5769109?s=80&v=4","followers":19,"publicRepos":230,"location":"Jamaica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":15,"commits":0,"pullRequests":8,"reviews":0,"issues":0,"repositories":7,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":3,"id":"MDQ6VXNlcjQ2ODM1Mjk=","login":"rbramwell","name":"Rory Bramwell","url":"https://github.com/rbramwell","avatarUrl":"https://avatars.githubusercontent.com/u/4683529?s=80&v=4","followers":63,"publicRepos":1524,"location":"Montego Bay, Jamaica","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":7,"commits":0,"pullRequests":1,"reviews":0,"issues":1,"repositories":5,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":4,"id":"MDQ6VXNlcjM2NjY0MDU=","login":"JordanMicahBennett","name":"Cosmos Bennett","url":"https://github.com/JordanMicahBennett","avatarUrl":"https://avatars.githubusercontent.com/u/3666405?s=80&v=4","followers":92,"publicRepos":237,"location":"Jamaica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":1,"commits":1,"pullRequests":0,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "49f0ab70ed10453b",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "6953b612702b59d4",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

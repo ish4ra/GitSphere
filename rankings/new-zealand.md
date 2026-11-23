@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **93** | 02 Nov 2026 | <a href="../data/NZ.json">JSON</a> |
+| 🟠 Stale | **100** | 02 Nov 2026 | <a href="../data/NZ.json">JSON</a> |
 
-> **Not yet re-verified.** 17 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 1 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -557,122 +557,171 @@
 </tr>
 <tr>
 <td align="right">77</td>
-<td><img src="https://github.com/ryanbr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ryanbr/fanboy-adblock"><b>ryanbr/fanboy-adblock</b></a></td>
-<td align="right"><b>364</b></td>
-<td align="right">63</td>
-<td>Shell</td>
+<td><img src="https://github.com/meganz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/meganz/sdk"><b>meganz/sdk</b></a><br><sub>MEGA C++ SDK</sub></td>
+<td align="right"><b>1,480</b></td>
+<td align="right">602</td>
+<td>C++</td>
 </tr>
 <tr>
 <td align="right">78</td>
-<td><img src="https://github.com/odow.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/odow/SDDP.jl"><b>odow/SDDP.jl</b></a></td>
-<td align="right"><b>358</b></td>
-<td align="right">72</td>
-<td>Julia</td>
+<td><img src="https://github.com/denandz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/denandz/sourcemapper"><b>denandz/sourcemapper</b></a><br><sub>Extract JavaScript source trees from Sourcemap files</sub></td>
+<td align="right"><b>1,475</b></td>
+<td align="right">145</td>
+<td>Go</td>
 </tr>
 <tr>
 <td align="right">79</td>
-<td><img src="https://github.com/sivers.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sivers/store"><b>sivers/store</b></a></td>
-<td align="right"><b>275</b></td>
-<td align="right">21</td>
-<td>Ruby</td>
-</tr>
-<tr>
-<td align="right">80</td>
-<td><img src="https://github.com/boydm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/boydm/phoenix_integration"><b>boydm/phoenix&#95;integration</b></a></td>
-<td align="right"><b>220</b></td>
-<td align="right">27</td>
-<td>Elixir</td>
-</tr>
-<tr>
-<td align="right">81</td>
-<td><img src="https://github.com/dilumdesilva.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dilumdesilva/cs-student-starter-pack"><b>dilumdesilva/cs-student-starter-pack</b></a></td>
-<td align="right"><b>214</b></td>
-<td align="right">57</td>
+<td><img src="https://github.com/ElementZoom.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard"><b>ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard</b></a> <sub>archived</sub><br><sub>Dynamic, adaptive Material Design 3 dashboard for Home Assistant with a transparent, modern aesthetic</sub></td>
+<td align="right"><b>1,463</b></td>
+<td align="right">46</td>
 <td>—</td>
 </tr>
 <tr>
+<td align="right">80</td>
+<td><img src="https://github.com/SamJoan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SamJoan/droopescan"><b>SamJoan/droopescan</b></a><br><sub>A plugin-based scanner that aids security researchers in identifying issues with several CMSs, mainly Drupal &amp; Silverst…</sub></td>
+<td align="right"><b>1,454</b></td>
+<td align="right">268</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/scottmckendry.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/scottmckendry/cyberdream.nvim"><b>scottmckendry/cyberdream.nvim</b></a><br><sub>🤖💤 High-contrast, Futuristic &amp; Vibrant Neovim Colorscheme</sub></td>
+<td align="right"><b>1,433</b></td>
+<td align="right">62</td>
+<td>Lua</td>
+</tr>
+<tr>
 <td align="right">82</td>
-<td><img src="https://github.com/CyrisXD.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CyrisXD/Pwnagetty"><b>CyrisXD/Pwnagetty</b></a></td>
-<td align="right"><b>207</b></td>
-<td align="right">29</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/qfgaohao.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/qfgaohao/pytorch-ssd"><b>qfgaohao/pytorch-ssd</b></a><br><sub>MobileNetV1, MobileNetV2, VGG based SSD/SSD-lite implementation in Pytorch 1.0 / Pytorch 0.4. Out-of-box support for re…</sub></td>
+<td align="right"><b>1,429</b></td>
+<td align="right">539</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">83</td>
-<td><img src="https://github.com/ahdinosaur.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ahdinosaur/inu-2016"><b>ahdinosaur/inu-2016</b></a></td>
-<td align="right"><b>207</b></td>
-<td align="right">6</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/jonnnnyw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jonnnnyw/php-phantomjs"><b>jonnnnyw/php-phantomjs</b></a> <sub>archived</sub><br><sub>Execute PhantomJS commands through PHP</sub></td>
+<td align="right"><b>1,424</b></td>
+<td align="right">419</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">84</td>
-<td><img src="https://github.com/AmirulAndalib.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AmirulAndalib/TL-GD"><b>AmirulAndalib/TL-GD</b></a> <sub>archived</sub></td>
-<td align="right"><b>204</b></td>
-<td align="right">417</td>
+<td><img src="https://github.com/SmileyChris.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SmileyChris/easy-thumbnails"><b>SmileyChris/easy-thumbnails</b></a><br><sub>Easy thumbnails for Django</sub></td>
+<td align="right"><b>1,408</b></td>
+<td align="right">325</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">85</td>
-<td><img src="https://github.com/ioquatix.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ioquatix/relaxo"><b>ioquatix/relaxo</b></a></td>
-<td align="right"><b>181</b></td>
-<td align="right">6</td>
-<td>Ruby</td>
+<td><img src="https://github.com/midarrlabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/midarrlabs/midarr-server"><b>midarrlabs/midarr-server</b></a><br><sub>🔥Midarr, the minimal lightweight media server.</sub></td>
+<td align="right"><b>1,403</b></td>
+<td align="right">39</td>
+<td>Elixir</td>
 </tr>
 <tr>
 <td align="right">86</td>
-<td><img src="https://github.com/rnpy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rnpy/ShimmerLayout"><b>rnpy/ShimmerLayout</b></a></td>
-<td align="right"><b>106</b></td>
-<td align="right">9</td>
-<td>Kotlin</td>
+<td><img src="https://github.com/liamcottle.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/liamcottle/reticulum-meshchat"><b>liamcottle/reticulum-meshchat</b></a><br><sub>A simple mesh network communications app powered by the Reticulum Network Stack.</sub></td>
+<td align="right"><b>1,332</b></td>
+<td align="right">177</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">87</td>
-<td><img src="https://github.com/jesserockz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jesserockz/wizmote-esphome"><b>jesserockz/wizmote-esphome</b></a></td>
-<td align="right"><b>99</b></td>
-<td align="right">44</td>
-<td>C++</td>
+<td><img src="https://github.com/BigBadaboom.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/BigBadaboom/androidsvg"><b>BigBadaboom/androidsvg</b></a><br><sub>SVG rendering library for Android</sub></td>
+<td align="right"><b>1,323</b></td>
+<td align="right">255</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td align="right">88</td>
-<td><img src="https://github.com/oieduardorabelo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/oieduardorabelo/node-typescript"><b>oieduardorabelo/node-typescript</b></a></td>
-<td align="right"><b>81</b></td>
-<td align="right">14</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/martynsmith.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/martynsmith/node-irc"><b>martynsmith/node-irc</b></a><br><sub>NodeJS IRC client library</sub></td>
+<td align="right"><b>1,319</b></td>
+<td align="right">416</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">89</td>
-<td><img src="https://github.com/parndt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/parndt/seo_meta"><b>parndt/seo&#95;meta</b></a></td>
-<td align="right"><b>47</b></td>
-<td align="right">26</td>
-<td>Ruby</td>
+<td><img src="https://github.com/dominictarr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dominictarr/scuttlebutt"><b>dominictarr/scuttlebutt</b></a><br><sub>peer-to-peer replicatable data structure</sub></td>
+<td align="right"><b>1,316</b></td>
+<td align="right">66</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">90</td>
-<td><img src="https://github.com/Tyler-Barham.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Tyler-Barham/floating-help.nvim"><b>Tyler-Barham/floating-help.nvim</b></a></td>
-<td align="right"><b>45</b></td>
-<td align="right">4</td>
-<td>Lua</td>
+<td><img src="https://github.com/hadynz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hadynz/obsidian-kindle-plugin"><b>hadynz/obsidian-kindle-plugin</b></a><br><sub>Sync your Kindle notes and highlights directly into your Obsidian vault</sub></td>
+<td align="right"><b>1,300</b></td>
+<td align="right">99</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">91</td>
-<td><img src="https://github.com/carlcook.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/carlcook/variadicLogging"><b>carlcook/variadicLogging</b></a></td>
-<td align="right"><b>40</b></td>
-<td align="right">15</td>
-<td>C++</td>
+<td><img src="https://github.com/sebastien.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sebastien/cuisine"><b>sebastien/cuisine</b></a><br><sub>Chef-like functionality for Fabric</sub></td>
+<td align="right"><b>1,264</b></td>
+<td align="right">157</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">92</td>
-<td><img src="https://github.com/benbishopnz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/benbishopnz/godot-credits"><b>benbishopnz/godot-credits</b></a></td>
-<td align="right"><b>31</b></td>
-<td align="right">15</td>
-<td>GDScript</td>
+<td><img src="https://github.com/jaedb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jaedb/Iris"><b>jaedb/Iris</b></a><br><sub>Discover, explore and manage your music library across multiple sources with this beautiful web-based interface. Iris i…</sub></td>
+<td align="right"><b>1,239</b></td>
+<td align="right">155</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">93</td>
-<td><img src="https://github.com/thomasmansencal.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thomasmansencal/sIBL_GUI"><b>thomasmansencal/sIBL&#95;GUI</b></a> <sub>archived</sub></td>
-<td align="right"><b>28</b></td>
-<td align="right">6</td>
+<td><img src="https://github.com/sl1pm4t.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sl1pm4t/k2tf"><b>sl1pm4t/k2tf</b></a><br><sub>Kubernetes YAML to Terraform HCL converter</sub></td>
+<td align="right"><b>1,230</b></td>
+<td align="right">107</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/aizhimou.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aizhimou/pigeon-pod"><b>aizhimou/pigeon-pod</b></a><br><sub>Listen to YouTube &amp; Bilibili. Anywhere.</sub></td>
+<td align="right"><b>1,217</b></td>
+<td align="right">106</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/yo-WASSUP.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yo-WASSUP/Good-Badminton"><b>yo-WASSUP/Good-Badminton</b></a><br><sub>🏸 AI Badminton Hawk-Eye System</sub></td>
+<td align="right"><b>1,188</b></td>
+<td align="right">306</td>
 <td>Python</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/wseagar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wseagar/eight-dollars"><b>wseagar/eight-dollars</b></a><br><sub>A browser extension that shows twitter blue vs real verified users</sub></td>
+<td align="right"><b>1,183</b></td>
+<td align="right">64</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/jeansfish.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jeansfish/RFC6749.zh-cn"><b>jeansfish/RFC6749.zh-cn</b></a><br><sub>A translation of simplified chinese for RFC 6749-The OAuth 2.0 Authorization Framework. RFC 6749 - OAuth 2.0授权框架简体中文翻译。</sub></td>
+<td align="right"><b>1,160</b></td>
+<td align="right">351</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/maknz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maknz/slack"><b>maknz/slack</b></a><br><sub>A simple PHP package for sending messages to Slack, with a focus on ease of use and elegant syntax.</sub></td>
+<td align="right"><b>1,157</b></td>
+<td align="right">205</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/Arachnid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Arachnid/solidity-stringutils"><b>Arachnid/solidity-stringutils</b></a><br><sub>Basic string utilities for Solidity</sub></td>
+<td align="right"><b>1,156</b></td>
+<td align="right">372</td>
+<td>Solidity</td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/dilumdesilva.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dilumdesilva/cs-student-starter-pack"><b>dilumdesilva/cs-student-starter-pack</b></a></td>
+<td align="right"><b>214</b></td>
+<td align="right">57</td>
+<td>—</td>
 </tr>
 </tbody>
 </table>
@@ -682,9 +731,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 28 stars; 93 attributed candidates are tracked.
-- 17 entries were carried over from the previous dataset and are pending revalidation.
-- 126 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 214 stars; 112 attributed candidates are tracked.
+- 1 entries were carried over from the previous dataset and are pending revalidation.
+- 122 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

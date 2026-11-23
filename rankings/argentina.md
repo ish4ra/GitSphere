@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **100** | 16 Oct 2026 | <a href="../data/AR.json">JSON</a> |
+| 🟠 Stale | **100** | 03 Nov 2026 | <a href="../data/AR.json">JSON</a> |
 
-> **Not yet re-verified.** 60 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 44 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -305,114 +305,114 @@
 </tr>
 <tr>
 <td align="right">41</td>
-<td><img src="https://github.com/jhewt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jhewt/gumer-psn"><b>jhewt/gumer-psn</b></a> <sub>archived</sub></td>
-<td align="right"><b>348</b></td>
-<td align="right">69</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">42</td>
-<td><img src="https://github.com/leotorrez.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/leotorrez/LeoTools"><b>leotorrez/LeoTools</b></a></td>
-<td align="right"><b>335</b></td>
-<td align="right">41</td>
+<td><img src="https://github.com/programa-stic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/programa-stic/barf-project"><b>programa-stic/barf-project</b></a><br><sub>BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework</sub></td>
+<td align="right"><b>1,455</b></td>
+<td align="right">170</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">43</td>
-<td><img src="https://github.com/roxsross.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/roxsross/roxs-devops-project90"><b>roxsross/roxs-devops-project90</b></a></td>
-<td align="right"><b>331</b></td>
-<td align="right">58</td>
-<td>HTML</td>
-</tr>
-<tr>
-<td align="right">44</td>
-<td><img src="https://github.com/fitoprincipe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fitoprincipe/geetools-code-editor"><b>fitoprincipe/geetools-code-editor</b></a></td>
-<td align="right"><b>323</b></td>
-<td align="right">113</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">45</td>
-<td><img src="https://github.com/nsanta.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nsanta/fbgraph"><b>nsanta/fbgraph</b></a></td>
-<td align="right"><b>321</b></td>
-<td align="right">37</td>
-<td>Ruby</td>
-</tr>
-<tr>
-<td align="right">46</td>
-<td><img src="https://github.com/janoamaral.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/janoamaral/Xresources-themes"><b>janoamaral/Xresources-themes</b></a></td>
-<td align="right"><b>316</b></td>
-<td align="right">37</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">47</td>
-<td><img src="https://github.com/leotorrez.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/leotorrez/ZZ-Model-Importer"><b>leotorrez/ZZ-Model-Importer</b></a></td>
-<td align="right"><b>295</b></td>
-<td align="right">11</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">48</td>
-<td><img src="https://github.com/villoren.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/villoren/KalmanLocationManager"><b>villoren/KalmanLocationManager</b></a></td>
-<td align="right"><b>276</b></td>
-<td align="right">65</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">49</td>
-<td><img src="https://github.com/eternauta1337.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eternauta1337/pocketh"><b>eternauta1337/pocketh</b></a></td>
-<td align="right"><b>259</b></td>
-<td align="right">44</td>
+<td align="right">42</td>
+<td><img src="https://github.com/facundoolano.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/facundoolano/app-store-scraper"><b>facundoolano/app-store-scraper</b></a><br><sub>scrape data from the itunes app store</sub></td>
+<td align="right"><b>1,451</b></td>
+<td align="right">302</td>
 <td>JavaScript</td>
 </tr>
 <tr>
+<td align="right">43</td>
+<td><img src="https://github.com/epidemian.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/epidemian/snake"><b>epidemian/snake</b></a><br><sub>A silly snake game on the browser URL</sub></td>
+<td align="right"><b>1,398</b></td>
+<td align="right">111</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><img src="https://github.com/marcosnils.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/marcosnils/bin"><b>marcosnils/bin</b></a><br><sub>Effortless binary manager</sub></td>
+<td align="right"><b>1,324</b></td>
+<td align="right">78</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">45</td>
+<td><img src="https://github.com/leandr0ck.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/leandr0ck/phaser-es6-webpack"><b>leandr0ck/phaser-es6-webpack</b></a><br><sub>A bootstrap project for create games with Phaser + ES6 + Webpack.</sub></td>
+<td align="right"><b>1,279</b></td>
+<td align="right">301</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">46</td>
+<td><img src="https://github.com/valpackett.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/valpackett/awesome-gtk"><b>valpackett/awesome-gtk</b></a><br><sub>List of awesome GTK (3/4) applications</sub></td>
+<td align="right"><b>1,279</b></td>
+<td align="right">69</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">47</td>
+<td><img src="https://github.com/summanlp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/summanlp/textrank"><b>summanlp/textrank</b></a><br><sub>TextRank implementation for Python 3.</sub></td>
+<td align="right"><b>1,269</b></td>
+<td align="right">245</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><img src="https://github.com/CharlesWiltgen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CharlesWiltgen/Axiom"><b>CharlesWiltgen/Axiom</b></a><br><sub>Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development</sub></td>
+<td align="right"><b>1,267</b></td>
+<td align="right">90</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><img src="https://github.com/andresriancho.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/andresriancho/enumerate-iam"><b>andresriancho/enumerate-iam</b></a><br><sub>Enumerate the permissions associated with AWS credential set</sub></td>
+<td align="right"><b>1,264</b></td>
+<td align="right">197</td>
+<td>Python</td>
+</tr>
+<tr>
 <td align="right">50</td>
-<td><img src="https://github.com/pablokbs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pablokbs/plex-rpi"><b>pablokbs/plex-rpi</b></a> <sub>archived</sub></td>
-<td align="right"><b>253</b></td>
-<td align="right">140</td>
-<td>Shell</td>
+<td><img src="https://github.com/codedgar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/codedgar/Puppertino"><b>codedgar/Puppertino</b></a><br><sub>A CSS framework based on Human Guidelines from apple</sub></td>
+<td align="right"><b>1,219</b></td>
+<td align="right">49</td>
+<td>MDX</td>
 </tr>
 <tr>
 <td align="right">51</td>
-<td><img src="https://github.com/GEJ1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/GEJ1/Recursos-neuro"><b>GEJ1/Recursos-neuro</b></a></td>
-<td align="right"><b>253</b></td>
-<td align="right">61</td>
-<td>—</td>
+<td><img src="https://github.com/koalazak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/koalazak/dorita980"><b>koalazak/dorita980</b></a><br><sub>Unofficial iRobot Roomba and Braava (i7/i7+, 980, 960, 900, e5, 690, 675, m6, etc) node.js library (SDK) to control you…</sub></td>
+<td align="right"><b>1,211</b></td>
+<td align="right">178</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">52</td>
-<td><img src="https://github.com/goncy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/goncy/pency"><b>goncy/pency</b></a></td>
-<td align="right"><b>249</b></td>
-<td align="right">70</td>
+<td><img src="https://github.com/mlomb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mlomb/chat-analytics"><b>mlomb/chat-analytics</b></a><br><sub>Generate interactive, beautiful and insightful chat analysis reports</sub></td>
+<td align="right"><b>1,198</b></td>
+<td align="right">81</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">53</td>
-<td><img src="https://github.com/AgusMayol.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AgusMayol/optics"><b>AgusMayol/optics</b></a></td>
-<td align="right"><b>234</b></td>
-<td align="right">22</td>
+<td><img src="https://github.com/bevacqua.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bevacqua/promisees"><b>bevacqua/promisees</b></a><br><sub>:incoming&#95;envelope: Promise visualization playground for the adventurous</sub></td>
+<td align="right"><b>1,195</b></td>
+<td align="right">46</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">54</td>
-<td><img src="https://github.com/jrgarciadev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jrgarciadev/dev-cover"><b>jrgarciadev/dev-cover</b></a></td>
-<td align="right"><b>232</b></td>
-<td align="right">22</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/geedmo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/geedmo/yamm3"><b>geedmo/yamm3</b></a><br><sub>Yet another megamenu for Bootstrap 3</sub></td>
+<td align="right"><b>1,189</b></td>
+<td align="right">172</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td align="right">55</td>
-<td><img src="https://github.com/luchog01.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/luchog01/minimalistic-fastapi-template"><b>luchog01/minimalistic-fastapi-template</b></a></td>
-<td align="right"><b>231</b></td>
-<td align="right">23</td>
-<td>Python</td>
+<td><img src="https://github.com/bevacqua.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bevacqua/horsey"><b>bevacqua/horsey</b></a><br><sub>:horse: Progressive and customizable autocomplete component</sub></td>
+<td align="right"><b>1,177</b></td>
+<td align="right">97</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">56</td>
-<td><img src="https://github.com/MarianoVilla.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MarianoVilla/Oloraculo"><b>MarianoVilla/Oloraculo</b></a></td>
-<td align="right"><b>221</b></td>
-<td align="right">31</td>
+<td><img src="https://github.com/MarcosMeli.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MarcosMeli/FileHelpers"><b>MarcosMeli/FileHelpers</b></a><br><sub>The FileHelpers are a free and easy to use .NET library to read/write data from fixed length or delimited records in fi…</sub></td>
+<td align="right"><b>1,151</b></td>
+<td align="right">340</td>
 <td>C#</td>
 </tr>
 <tr>
@@ -731,9 +731,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 2 stars; 141 attributed candidates are tracked.
-- 60 entries were carried over from the previous dataset and are pending revalidation.
-- 136 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 2 stars; 134 attributed candidates are tracked.
+- 44 entries were carried over from the previous dataset and are pending revalidation.
+- 134 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 109 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

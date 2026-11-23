@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/CL.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/CL.json">JSON</a> |
 
 </div>
 
@@ -52,6 +52,15 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/agucova"><img src="https://avatars.githubusercontent.com/u/4694408?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/agucova"><b>Agustín Covarrubias</b></a><br><sub>&#64;agucova · 428 followers</sub></td>
+<td align="right"><b>451</b></td>
+<td align="right">428</td>
+<td align="right">6</td>
+<td align="right">0</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/breadsk"><img src="https://avatars.githubusercontent.com/u/38256427?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/breadsk"><b>Nicolas</b></a><br><sub>&#64;breadsk · 522 followers</sub></td>
 <td align="right"><b>377</b></td>
 <td align="right">295</td>
@@ -60,7 +69,7 @@
 <td align="right">5</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/tyronejosee"><img src="https://avatars.githubusercontent.com/u/132106425?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tyronejosee"><b>Tyrone José</b></a><br><sub>&#64;tyronejosee · 583 followers</sub></td>
 <td align="right"><b>168</b></td>
 <td align="right">156</td>
@@ -69,7 +78,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
+<td><a href="https://github.com/korbek99"><img src="https://avatars.githubusercontent.com/u/35240264?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/korbek99"><b>Jose Bustos</b></a><br><sub>&#64;korbek99 · 419 followers</sub></td>
+<td align="right"><b>93</b></td>
+<td align="right">83</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">8</td>
 <td><a href="https://github.com/bluuweb"><img src="https://avatars.githubusercontent.com/u/28485235?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bluuweb"><b>bluuweb</b></a><br><sub>&#64;bluuweb · 1,499 followers</sub></td>
 <td align="right"><b>75</b></td>
 <td align="right">65</td>
@@ -84,7 +102,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 6 of 404 discovered developers (398 awaiting measurement).
+- **Measured:** 8 of 408 discovered developers (400 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 113 in round 1.

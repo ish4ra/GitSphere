@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **63** | 22 Nov 2026 | <a href="../../data/developers/RO.json">JSON</a> |
+| 🟡 Provisional | **79** | 22 Nov 2026 | <a href="../../data/developers/RO.json">JSON</a> |
 
 </div>
 
@@ -38,7 +38,7 @@
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/vladmihalcea"><img src="https://avatars.githubusercontent.com/u/5571399?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vladmihalcea"><b>Vlad Mihalcea</b></a><br><sub>&#64;vladmihalcea</sub></td>
-<td align="right"><b>4,244</b></td>
+<td align="right"><b>4,245</b></td>
 <td align="right">47</td>
 <td><sub>Cluj-Napoca, Romania</sub></td>
 </tr>
@@ -338,129 +338,241 @@
 </tr>
 <tr>
 <td align="right">46</td>
+<td><a href="https://github.com/NytroRST"><img src="https://avatars.githubusercontent.com/u/13242689?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NytroRST"><b>Ionut Popescu</b></a><br><sub>&#64;NytroRST</sub></td>
+<td align="right"><b>408</b></td>
+<td align="right">8</td>
+<td><sub>Romania</sub></td>
+</tr>
+<tr>
+<td align="right">47</td>
+<td><a href="https://github.com/Alexejhero"><img src="https://avatars.githubusercontent.com/u/32238504?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alexejhero"><b>alexvoid</b></a><br><sub>&#64;Alexejhero</sub></td>
+<td align="right"><b>402</b></td>
+<td align="right">14</td>
+<td><sub>Romania</sub></td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><a href="https://github.com/ilg-ul"><img src="https://avatars.githubusercontent.com/u/362732?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ilg-ul"><b>Liviu Grigore Ionescu</b></a><br><sub>&#64;ilg-ul</sub></td>
+<td align="right"><b>399</b></td>
+<td align="right">14</td>
+<td><sub>Bucharest, Romania</sub></td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><a href="https://github.com/0-vortex"><img src="https://avatars.githubusercontent.com/u/237133?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0-vortex"><b>TED Vortex (Teodor-Eugen Duțulescu)</b></a><br><sub>&#64;0-vortex</sub></td>
+<td align="right"><b>381</b></td>
+<td align="right">148</td>
+<td><sub>Romania</sub></td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><a href="https://github.com/TibixDev"><img src="https://avatars.githubusercontent.com/u/21055141?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TibixDev"><b>Tibix</b></a><br><sub>&#64;TibixDev</sub></td>
+<td align="right"><b>380</b></td>
+<td align="right">48</td>
+<td><sub>Romania</sub></td>
+</tr>
+<tr>
+<td align="right">51</td>
+<td><a href="https://github.com/aromanro"><img src="https://avatars.githubusercontent.com/u/16321322?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aromanro"><b>Adrian Roman</b></a><br><sub>&#64;aromanro</sub></td>
+<td align="right"><b>362</b></td>
+<td align="right">29</td>
+<td><sub>Romania</sub></td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><a href="https://github.com/lor6"><img src="https://avatars.githubusercontent.com/u/18684932?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lor6"><b>Loredana Crusoveanu</b></a><br><sub>&#64;lor6</sub></td>
+<td align="right"><b>362</b></td>
+<td align="right">20</td>
+<td><sub>Bucharest</sub></td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><a href="https://github.com/icflorescu"><img src="https://avatars.githubusercontent.com/u/581999?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/icflorescu"><b>Ionut-Cristian Florescu</b></a><br><sub>&#64;icflorescu</sub></td>
+<td align="right"><b>359</b></td>
+<td align="right">91</td>
+<td><sub>Bucharest, Romania</sub></td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><a href="https://github.com/Demon000"><img src="https://avatars.githubusercontent.com/u/12939434?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Demon000"><b>Cosmin Tanislav</b></a><br><sub>&#64;Demon000</sub></td>
+<td align="right"><b>357</b></td>
+<td align="right">111</td>
+<td><sub>Cluj-Napoca, România</sub></td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><a href="https://github.com/gabrielpreda"><img src="https://avatars.githubusercontent.com/u/4171005?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gabrielpreda"><b>Gabriel Preda</b></a><br><sub>&#64;gabrielpreda</sub></td>
+<td align="right"><b>355</b></td>
+<td align="right">51</td>
+<td><sub>Bucharest</sub></td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><a href="https://github.com/razvand"><img src="https://avatars.githubusercontent.com/u/232418?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/razvand"><b>Razvan Deaconescu</b></a><br><sub>&#64;razvand</sub></td>
+<td align="right"><b>346</b></td>
+<td align="right">78</td>
+<td><sub>Bucharest, Romania</sub></td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><a href="https://github.com/limitwebdesign"><img src="https://avatars.githubusercontent.com/u/57817430?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/limitwebdesign"><b>Viorel Brisc</b></a><br><sub>&#64;limitwebdesign</sub></td>
+<td align="right"><b>345</b></td>
+<td align="right">5</td>
+<td><sub>Romania</sub></td>
+</tr>
+<tr>
+<td align="right">58</td>
 <td><a href="https://github.com/kleampa"><img src="https://avatars.githubusercontent.com/u/1394512?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kleampa"><b>Dragoi Ciprian</b></a><br><sub>&#64;kleampa</sub></td>
 <td align="right"><b>336</b></td>
 <td align="right">0</td>
 <td><sub>Bucharest</sub></td>
 </tr>
 <tr>
-<td align="right">47</td>
+<td align="right">59</td>
 <td><a href="https://github.com/serbanghita"><img src="https://avatars.githubusercontent.com/u/1106849?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/serbanghita"><b>Serban Ghita</b></a><br><sub>&#64;serbanghita</sub></td>
 <td align="right"><b>327</b></td>
 <td align="right">0</td>
 <td><sub>Bucureşti, Romania</sub></td>
 </tr>
 <tr>
-<td align="right">48</td>
+<td align="right">60</td>
 <td><a href="https://github.com/iRaul"><img src="https://avatars.githubusercontent.com/u/6464945?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iRaul"><b>Dronca Raul</b></a><br><sub>&#64;iRaul</sub></td>
 <td align="right"><b>313</b></td>
 <td align="right">0</td>
 <td><sub>Romania, Arad</sub></td>
 </tr>
 <tr>
-<td align="right">49</td>
+<td align="right">61</td>
 <td><a href="https://github.com/danburzo"><img src="https://avatars.githubusercontent.com/u/205375?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danburzo"><b>Dan Burzo</b></a><br><sub>&#64;danburzo</sub></td>
 <td align="right"><b>275</b></td>
 <td align="right">0</td>
 <td><sub>Cluj, Romania</sub></td>
 </tr>
 <tr>
-<td align="right">50</td>
+<td align="right">62</td>
 <td><a href="https://github.com/stefangabos"><img src="https://avatars.githubusercontent.com/u/741165?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stefangabos"><b>Stefan Gabos</b></a><br><sub>&#64;stefangabos</sub></td>
 <td align="right"><b>253</b></td>
 <td align="right">0</td>
 <td><sub>Bucharest, Romania</sub></td>
 </tr>
 <tr>
-<td align="right">51</td>
+<td align="right">63</td>
 <td><a href="https://github.com/3rd"><img src="https://avatars.githubusercontent.com/u/59587503?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/3rd"><b>Andrei Neculaesei</b></a><br><sub>&#64;3rd</sub></td>
 <td align="right"><b>236</b></td>
 <td align="right">0</td>
 <td><sub>Romania</sub></td>
 </tr>
 <tr>
-<td align="right">52</td>
+<td align="right">64</td>
 <td><a href="https://github.com/long1eu"><img src="https://avatars.githubusercontent.com/u/9283414?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/long1eu"><b>Razvan Lung</b></a><br><sub>&#64;long1eu</sub></td>
 <td align="right"><b>198</b></td>
 <td align="right">0</td>
 <td><sub>România</sub></td>
 </tr>
 <tr>
-<td align="right">53</td>
+<td align="right">65</td>
 <td><a href="https://github.com/wmariuss"><img src="https://avatars.githubusercontent.com/u/6131115?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wmariuss"><b>Marius Stanca</b></a><br><sub>&#64;wmariuss</sub></td>
 <td align="right"><b>197</b></td>
 <td align="right">0</td>
 <td><sub>Bucharest</sub></td>
 </tr>
 <tr>
-<td align="right">54</td>
+<td align="right">66</td>
 <td><a href="https://github.com/aistrate"><img src="https://avatars.githubusercontent.com/u/170662?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aistrate"><b>Adrian Istrate</b></a><br><sub>&#64;aistrate</sub></td>
 <td align="right"><b>170</b></td>
 <td align="right">0</td>
 <td><sub>Romania</sub></td>
 </tr>
 <tr>
-<td align="right">55</td>
+<td align="right">67</td>
 <td><a href="https://github.com/RoliSoft"><img src="https://avatars.githubusercontent.com/u/119426?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RoliSoft"><b>Roland Bogosi</b></a><br><sub>&#64;RoliSoft</sub></td>
 <td align="right"><b>152</b></td>
 <td align="right">0</td>
 <td><sub>Târgu Mureș, Romania</sub></td>
 </tr>
 <tr>
-<td align="right">56</td>
+<td align="right">68</td>
 <td><a href="https://github.com/rdragos"><img src="https://avatars.githubusercontent.com/u/708809?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rdragos"><b>Dragoș Rotaru</b></a><br><sub>&#64;rdragos</sub></td>
 <td align="right"><b>126</b></td>
 <td align="right">0</td>
 <td><sub>Bucharest, Romania</sub></td>
 </tr>
 <tr>
-<td align="right">57</td>
+<td align="right">69</td>
 <td><a href="https://github.com/micku7zu"><img src="https://avatars.githubusercontent.com/u/3103859?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/micku7zu"><b>Șandor Sergiu</b></a><br><sub>&#64;micku7zu</sub></td>
 <td align="right"><b>100</b></td>
 <td align="right">0</td>
 <td><sub>Cluj-Napoca</sub></td>
 </tr>
 <tr>
-<td align="right">58</td>
+<td align="right">70</td>
 <td><a href="https://github.com/cthackers"><img src="https://avatars.githubusercontent.com/u/210514?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cthackers"><b>The Brain</b></a><br><sub>&#64;cthackers</sub></td>
 <td align="right"><b>73</b></td>
 <td align="right">0</td>
 <td><sub>Cluj-Napoca, Romania</sub></td>
 </tr>
 <tr>
-<td align="right">59</td>
+<td align="right">71</td>
 <td><a href="https://github.com/axnsan12"><img src="https://avatars.githubusercontent.com/u/6382979?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/axnsan12"><b>Cristi Vîjdea</b></a><br><sub>&#64;axnsan12</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">0</td>
 <td><sub>Timișoara</sub></td>
 </tr>
 <tr>
-<td align="right">60</td>
+<td align="right">72</td>
+<td><a href="https://github.com/zalog"><img src="https://avatars.githubusercontent.com/u/985838?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zalog"><b>Catalin Zalog</b></a><br><sub>&#64;zalog</sub></td>
+<td align="right"><b>67</b></td>
+<td align="right">0</td>
+<td><sub>Bucharest, Romania</sub></td>
+</tr>
+<tr>
+<td align="right">73</td>
 <td><a href="https://github.com/mihaifm"><img src="https://avatars.githubusercontent.com/u/981184?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mihaifm"><b>Mihai Ciuraru</b></a><br><sub>&#64;mihaifm</sub></td>
 <td align="right"><b>64</b></td>
 <td align="right">0</td>
 <td><sub>Bucharest, Romania</sub></td>
 </tr>
 <tr>
-<td align="right">61</td>
+<td align="right">74</td>
 <td><a href="https://github.com/petruisfan"><img src="https://avatars.githubusercontent.com/u/4135621?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/petruisfan"><b>Petru Isfan</b></a><br><sub>&#64;petruisfan</sub></td>
 <td align="right"><b>62</b></td>
 <td align="right">0</td>
 <td><sub>Timisoara, RO</sub></td>
 </tr>
 <tr>
-<td align="right">62</td>
+<td align="right">75</td>
 <td><a href="https://github.com/razvandimescu"><img src="https://avatars.githubusercontent.com/u/168745?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/razvandimescu"><b>Razvan Dimescu</b></a><br><sub>&#64;razvandimescu</sub></td>
 <td align="right"><b>61</b></td>
 <td align="right">0</td>
 <td><sub>Craiova, Romania</sub></td>
 </tr>
 <tr>
-<td align="right">63</td>
+<td align="right">76</td>
+<td><a href="https://github.com/tiberiuzuld"><img src="https://avatars.githubusercontent.com/u/15310395?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tiberiuzuld"><b>Tiberiu Zuld</b></a><br><sub>&#64;tiberiuzuld</sub></td>
+<td align="right"><b>55</b></td>
+<td align="right">0</td>
+<td><sub>Romania</sub></td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><a href="https://github.com/mustvlad"><img src="https://avatars.githubusercontent.com/u/2644474?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mustvlad"><b>Vlad Mustiata</b></a><br><sub>&#64;mustvlad</sub></td>
+<td align="right"><b>48</b></td>
+<td align="right">0</td>
+<td><sub>Bucharest</sub></td>
+</tr>
+<tr>
+<td align="right">78</td>
 <td><a href="https://github.com/filipdutescu"><img src="https://avatars.githubusercontent.com/u/46979062?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/filipdutescu"><b>Filip Dutescu</b></a><br><sub>&#64;filipdutescu</sub></td>
 <td align="right"><b>46</b></td>
 <td align="right">0</td>
 <td><sub>Bucharest, Romania</sub></td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><a href="https://github.com/AndyTheFactory"><img src="https://avatars.githubusercontent.com/u/863810?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AndyTheFactory"><b>Andrei Paraschiv</b></a><br><sub>&#64;AndyTheFactory</sub></td>
+<td align="right"><b>41</b></td>
+<td align="right">0</td>
+<td><sub>Bucharest</sub></td>
 </tr>
 </tbody>
 </table>
@@ -470,7 +582,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 63 attributed developers are tracked; the cutoff is 46 followers.
+- Organizations are excluded. 79 attributed developers are tracked; the cutoff is 41 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

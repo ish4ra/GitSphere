@@ -5,12 +5,12 @@
 "country": {"code":"PN","name":"Pitcairn Islands","slug":"pitcairn-islands"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":5,"measuredAccounts":4,"measurementBacklog":1,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":5,"measuredAccounts":5,"measurementBacklog":0,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjYzMTE2Nzg4","login":"Hi30MC","name":"Ash Duimstra","url":"https://github.com/Hi30MC","avatarUrl":"https://avatars.githubusercontent.com/u/63116788?s=80&v=4","followers":4,"publicRepos":20,"location":"WVGX+WJQ, Adamstown PCRN 1ZZ, Pitcairn Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":227,"commits":218,"pullRequests":1,"reviews":0,"issues":0,"repositories":8,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "c8f2b420b04ba257",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "70064d01ad543a3e",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

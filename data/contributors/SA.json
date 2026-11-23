@@ -5,15 +5,16 @@
 "country": {"code":"SA","name":"Saudi Arabia","slug":"saudi-arabia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":406,"measuredAccounts":4,"measurementBacklog":402,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":408,"measuredAccounts":5,"measurementBacklog":403,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjE1NjY3NzE0","login":"zaidalyafeai","name":"Zaid Alyafeai","url":"https://github.com/zaidalyafeai","avatarUrl":"https://avatars.githubusercontent.com/u/15667714?s=80&v=4","followers":642,"publicRepos":118,"location":"Dhahran","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22","contributions":{"public":769,"commits":520,"pullRequests":7,"reviews":234,"issues":4,"repositories":4,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":2,"id":"MDQ6VXNlcjg0NjIxNTQ3","login":"shakiliitju","name":"Md. Shakil Hossain","url":"https://github.com/shakiliitju","avatarUrl":"https://avatars.githubusercontent.com/u/84621547?s=80&v=4","followers":1389,"publicRepos":77,"location":"Buraydah, Kingdom of Saudi Arabia (KSA)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":710,"commits":678,"pullRequests":27,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":3,"id":"MDQ6VXNlcjQxOTg5Mzg1","login":"YazeedAlKhalaf","name":"yazeed","url":"https://github.com/YazeedAlKhalaf","avatarUrl":"https://avatars.githubusercontent.com/u/41989385?s=80&v=4","followers":465,"publicRepos":158,"location":"Riyadh, Saudi Arabia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":407,"commits":393,"pullRequests":9,"reviews":0,"issues":2,"repositories":3,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
-  {"rank":4,"id":"U_kgDOC0Epzg","login":"Nxploited","name":"Khaled Alenazi","url":"https://github.com/Nxploited","avatarUrl":"https://avatars.githubusercontent.com/u/188819918?s=80&v=4","followers":559,"publicRepos":167,"location":"KSA","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":174,"commits":131,"pullRequests":0,"reviews":0,"issues":0,"repositories":43,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
+  {"rank":4,"id":"U_kgDOC0Epzg","login":"Nxploited","name":"Khaled Alenazi","url":"https://github.com/Nxploited","avatarUrl":"https://avatars.githubusercontent.com/u/188819918?s=80&v=4","followers":559,"publicRepos":167,"location":"KSA","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":174,"commits":131,"pullRequests":0,"reviews":0,"issues":0,"repositories":43,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":5,"id":"MDQ6VXNlcjM0MjgxMTg=","login":"obahareth","name":"Omar Bahareth","url":"https://github.com/obahareth","avatarUrl":"https://avatars.githubusercontent.com/u/3428118?s=80&v=4","followers":480,"publicRepos":152,"location":"Riyadh, Saudi Arabia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":42,"commits":21,"pullRequests":5,"reviews":0,"issues":4,"repositories":12,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "feafc74f4223dca9",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "1fa38252fb8974a5",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

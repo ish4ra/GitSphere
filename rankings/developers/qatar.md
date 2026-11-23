@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/developers/QA.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/developers/QA.json">JSON</a> |
 
 </div>
 
@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/mrpaziresh"><img src="https://avatars.githubusercontent.com/u/90142173?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrpaziresh"><b>Ali Reza Paziresh</b></a><br><sub>&#64;mrpaziresh</sub></td>
-<td align="right"><b>3,119</b></td>
+<td align="right"><b>3,118</b></td>
 <td align="right">20</td>
 <td><sub>Doha, Qatar</sub></td>
 </tr>
@@ -70,6 +70,13 @@
 <td align="right">82</td>
 <td><sub>Qatar</sub></td>
 </tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/noumanmhd"><img src="https://avatars.githubusercontent.com/u/46532439?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/noumanmhd"><b>Nouman Mahmood</b></a><br><sub>&#64;noumanmhd</sub></td>
+<td align="right"><b>359</b></td>
+<td align="right">1</td>
+<td><sub>Qatar</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -78,7 +85,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 7 attributed developers are tracked; the cutoff is 480 followers.
+- Organizations are excluded. 8 attributed developers are tracked; the cutoff is 359 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

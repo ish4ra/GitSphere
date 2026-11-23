@@ -5,14 +5,15 @@
 "country": {"code":"MT","name":"Malta","slug":"malta"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":4,"measurementBacklog":396,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":5,"measurementBacklog":395,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":104,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjgyMzQy","login":"ripienaar","name":"R.I.Pienaar","url":"https://github.com/ripienaar","avatarUrl":"https://avatars.githubusercontent.com/u/82342?s=80&v=4","followers":4062,"publicRepos":138,"location":"Malta","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":4068,"commits":2721,"pullRequests":716,"reviews":394,"issues":233,"repositories":2,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":2,"id":"MDQ6VXNlcjc3MDgwMzE=","login":"camilamacedo86","name":"Camila Macedo","url":"https://github.com/camilamacedo86","avatarUrl":"https://avatars.githubusercontent.com/u/7708031?s=80&v=4","followers":445,"publicRepos":60,"location":"Malta","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":2545,"commits":1182,"pullRequests":359,"reviews":752,"issues":239,"repositories":8,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
-  {"rank":3,"id":"MDQ6VXNlcjE1NTk3NTY=","login":"xiaocong","name":"xiaocong","url":"https://github.com/xiaocong","avatarUrl":"https://avatars.githubusercontent.com/u/1559756?s=80&v=4","followers":475,"publicRepos":94,"location":"Malta","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":3,"commits":2,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
+  {"rank":3,"id":"U_kgDOBm-1aA","login":"mandyfarrugia","name":"Mandy Farrugia","url":"https://github.com/mandyfarrugia","avatarUrl":"https://avatars.githubusercontent.com/u/107984232?s=80&v=4","followers":369,"publicRepos":57,"location":"Malta","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":387,"commits":371,"pullRequests":0,"reviews":0,"issues":0,"repositories":16,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":4,"id":"MDQ6VXNlcjE1NTk3NTY=","login":"xiaocong","name":"xiaocong","url":"https://github.com/xiaocong","avatarUrl":"https://avatars.githubusercontent.com/u/1559756?s=80&v=4","followers":475,"publicRepos":94,"location":"Malta","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":3,"commits":2,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "077ddd4a379695d8",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "8212129300dc9081",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

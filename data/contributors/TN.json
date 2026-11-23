@@ -5,14 +5,15 @@
 "country": {"code":"TN","name":"Tunisia","slug":"tunisia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":406,"measuredAccounts":3,"measurementBacklog":403,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":407,"measuredAccounts":4,"measurementBacklog":403,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjYxMzkzNzAw","login":"AzizBenIsmail","name":"Mohamed Aziz Ben Ismail","url":"https://github.com/AzizBenIsmail","avatarUrl":"https://avatars.githubusercontent.com/u/61393700?s=80&v=4","followers":571,"publicRepos":134,"location":"Tunisia, Djerba","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":1527,"commits":1494,"pullRequests":2,"reviews":0,"issues":0,"repositories":31,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":2,"id":"MDQ6VXNlcjMxNjAzNzkz","login":"ahmnouira","name":"Ahmed Nouira","url":"https://github.com/ahmnouira","avatarUrl":"https://avatars.githubusercontent.com/u/31603793?s=80&v=4","followers":1255,"publicRepos":116,"location":"Monastir, Tunisia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":207,"commits":186,"pullRequests":8,"reviews":0,"issues":2,"repositories":9,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":3,"id":"MDQ6VXNlcjQzOTcxNTQy","login":"3imed-jaberi","name":"Imed Jaberi","url":"https://github.com/3imed-jaberi","avatarUrl":"https://avatars.githubusercontent.com/u/43971542?s=80&v=4","followers":459,"publicRepos":192,"location":"Tunis, Tunisia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":84,"commits":67,"pullRequests":2,"reviews":14,"issues":0,"repositories":1,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
+  {"rank":2,"id":"MDQ6VXNlcjEyNDYyMTg4","login":"Ademking","name":"Adem Kouki","url":"https://github.com/Ademking","avatarUrl":"https://avatars.githubusercontent.com/u/12462188?s=80&v=4","followers":432,"publicRepos":160,"location":"Tunisia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":228,"commits":194,"pullRequests":11,"reviews":0,"issues":3,"repositories":18,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":3,"id":"MDQ6VXNlcjMxNjAzNzkz","login":"ahmnouira","name":"Ahmed Nouira","url":"https://github.com/ahmnouira","avatarUrl":"https://avatars.githubusercontent.com/u/31603793?s=80&v=4","followers":1255,"publicRepos":116,"location":"Monastir, Tunisia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":207,"commits":186,"pullRequests":8,"reviews":0,"issues":2,"repositories":9,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":4,"id":"MDQ6VXNlcjQzOTcxNTQy","login":"3imed-jaberi","name":"Imed Jaberi","url":"https://github.com/3imed-jaberi","avatarUrl":"https://avatars.githubusercontent.com/u/43971542?s=80&v=4","followers":459,"publicRepos":192,"location":"Tunis, Tunisia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":84,"commits":67,"pullRequests":2,"reviews":14,"issues":0,"repositories":1,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "78a6fbf5e827aa2a",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "94661fef12cdf881",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

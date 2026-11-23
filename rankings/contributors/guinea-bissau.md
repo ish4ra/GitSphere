@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/contributors/GW.json">JSON</a> |
+| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/GW.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,24 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/Samsilva64"><img src="https://avatars.githubusercontent.com/u/141943000?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Samsilva64"><b>Daltonsilva</b></a><br><sub>&#64;Samsilva64 · 4 followers</sub></td>
+<td align="right"><b>66</b></td>
+<td align="right">61</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/baribucirio-cmyk"><img src="https://avatars.githubusercontent.com/u/268121566?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/baribucirio-cmyk"><b>Bucirio Bari</b></a><br><sub>&#64;baribucirio-cmyk · 2 followers</sub></td>
+<td align="right"><b>57</b></td>
+<td align="right">50</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/abduramanedjalo06"><img src="https://avatars.githubusercontent.com/u/313614596?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abduramanedjalo06"><b>Abduramane Djaló</b></a><br><sub>&#64;abduramanedjalo06 · 0 followers</sub></td>
 <td align="right"><b>48</b></td>
 <td align="right">46</td>
@@ -57,7 +75,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 4 of 30 discovered developers (26 awaiting measurement).
+- **Measured:** 6 of 30 discovered developers (24 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 3 of 49 in round 1.

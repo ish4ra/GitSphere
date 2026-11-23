@@ -297,7 +297,7 @@
 <tr>
 <td align="right">40</td>
 <td><a href="https://github.com/Dagic-zewdu"><img src="https://avatars.githubusercontent.com/u/68595873?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dagic-zewdu"><b>Dagmawi zewdu</b></a><br><sub>&#64;Dagic-zewdu</sub></td>
-<td align="right"><b>250</b></td>
+<td align="right"><b>249</b></td>
 <td align="right">89</td>
 <td><sub>Ethiopia, Addis Ababa</sub></td>
 </tr>

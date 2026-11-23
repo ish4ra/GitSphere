@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/VE.json">JSON</a> |
+| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/developers/VE.json">JSON</a> |
 
 </div>
 
@@ -30,20 +30,34 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/lalan21j"><img src="https://avatars.githubusercontent.com/u/14109534?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lalan21j"><b>Luis Mata</b></a><br><sub>&#64;lalan21j</sub></td>
+<td align="right"><b>387</b></td>
+<td align="right">16</td>
+<td><sub>Caracas - Venezuela</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/jacksonpf1"><img src="https://avatars.githubusercontent.com/u/83138568?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jacksonpf1"><b>Jackson Paredes Ferranti</b></a><br><sub>&#64;jacksonpf1</sub></td>
+<td align="right"><b>383</b></td>
+<td align="right">19</td>
+<td><sub>Venezuela</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/samuelmarina"><img src="https://avatars.githubusercontent.com/u/59328925?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/samuelmarina"><b>Samuel Mariña</b></a><br><sub>&#64;samuelmarina</sub></td>
 <td align="right"><b>343</b></td>
 <td align="right">29</td>
 <td><sub>Venezuela</sub></td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">5</td>
 <td><a href="https://github.com/VonHeikemen"><img src="https://avatars.githubusercontent.com/u/20980671?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VonHeikemen"><b>Heiker</b></a><br><sub>&#64;VonHeikemen</sub></td>
 <td align="right"><b>217</b></td>
 <td align="right">0</td>
 <td><sub>Venezuela</sub></td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">6</td>
 <td><a href="https://github.com/13uLrr5JR63p8TrEkqhABMTHFBdihaFCWE"><img src="https://avatars.githubusercontent.com/u/30270664?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/13uLrr5JR63p8TrEkqhABMTHFBdihaFCWE"><b>Frank Vera</b></a><br><sub>&#64;13uLrr5JR63p8TrEkqhABMTHFBdihaFCWE</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
@@ -57,7 +71,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 6 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

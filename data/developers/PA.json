@@ -5,15 +5,16 @@
 "country": {"code":"PA","name":"Panama","slug":"panama"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":5,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjI1ODg5OTEw","login":"21Ginko","name":"Joseph González","url":"https://github.com/21Ginko","avatarUrl":"https://avatars.githubusercontent.com/u/25889910?s=80&v=4","followers":0,"publicRepos":7,"location":"Chiriqui, Panama","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
-  {"rank":2,"id":"U_kgDODB8GNw","login":"061017liz","name":"LIZETH ESPINO","url":"https://github.com/061017liz","avatarUrl":"https://avatars.githubusercontent.com/u/203359799?s=80&v=4","followers":0,"publicRepos":5,"location":"Panama","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":3,"id":"U_kgDOB9IeDw","login":"152as","name":"Simon Becerra","url":"https://github.com/152as","avatarUrl":"https://avatars.githubusercontent.com/u/131210767?s=80&v=4","followers":0,"publicRepos":5,"location":"Panama oeste La chorrera","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-23"},
-  {"rank":4,"id":"MDQ6VXNlcjQ0MTE4MTg4","login":"0xCryp7icX","name":"0xCryp7icX","url":"https://github.com/0xCryp7icX","avatarUrl":"https://avatars.githubusercontent.com/u/44118188?s=80&v=4","followers":0,"publicRepos":1,"location":"Panama","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"U_kgDOBag1PQ","login":"alebeta06","name":"Alejandro Betancourt","url":"https://github.com/alebeta06","avatarUrl":"https://avatars.githubusercontent.com/u/94909757?s=80&v=4","followers":355,"publicRepos":64,"location":"Panamá","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":2,"id":"MDQ6VXNlcjI1ODg5OTEw","login":"21Ginko","name":"Joseph González","url":"https://github.com/21Ginko","avatarUrl":"https://avatars.githubusercontent.com/u/25889910?s=80&v=4","followers":0,"publicRepos":7,"location":"Chiriqui, Panama","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":3,"id":"U_kgDODB8GNw","login":"061017liz","name":"LIZETH ESPINO","url":"https://github.com/061017liz","avatarUrl":"https://avatars.githubusercontent.com/u/203359799?s=80&v=4","followers":0,"publicRepos":5,"location":"Panama","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":4,"id":"U_kgDOB9IeDw","login":"152as","name":"Simon Becerra","url":"https://github.com/152as","avatarUrl":"https://avatars.githubusercontent.com/u/131210767?s=80&v=4","followers":0,"publicRepos":5,"location":"Panama oeste La chorrera","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-23"},
+  {"rank":5,"id":"MDQ6VXNlcjQ0MTE4MTg4","login":"0xCryp7icX","name":"0xCryp7icX","url":"https://github.com/0xCryp7icX","avatarUrl":"https://avatars.githubusercontent.com/u/44118188?s=80&v=4","followers":0,"publicRepos":1,"location":"Panama","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "5d930cb7d7021821",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "1074a896ee2b20e8",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

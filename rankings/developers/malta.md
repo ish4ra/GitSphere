@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/developers/MT.json">JSON</a> |
+| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/developers/MT.json">JSON</a> |
 
 </div>
 
@@ -72,6 +72,13 @@
 </tr>
 <tr>
 <td align="right">8</td>
+<td><a href="https://github.com/mandyfarrugia"><img src="https://avatars.githubusercontent.com/u/107984232?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mandyfarrugia"><b>Mandy Farrugia</b></a><br><sub>&#64;mandyfarrugia</sub></td>
+<td align="right"><b>369</b></td>
+<td align="right">57</td>
+<td><sub>Malta</sub></td>
+</tr>
+<tr>
+<td align="right">9</td>
 <td><a href="https://github.com/mbj"><img src="https://avatars.githubusercontent.com/u/117966?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mbj"><b>Markus Schirp</b></a><br><sub>&#64;mbj</sub></td>
 <td align="right"><b>296</b></td>
 <td align="right">0</td>
@@ -85,8 +92,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 8 attributed developers are tracked; the cutoff is 296 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 9 attributed developers are tracked; the cutoff is 296 followers.
+- **Location discovery:** term 0 of 104 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

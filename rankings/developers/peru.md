@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **32** | 22 Nov 2026 | <a href="../../data/developers/PE.json">JSON</a> |
+| 🟡 Provisional | **38** | 22 Nov 2026 | <a href="../../data/developers/PE.json">JSON</a> |
 
 </div>
 
@@ -219,27 +219,69 @@
 </tr>
 <tr>
 <td align="right">29</td>
-<td><a href="https://github.com/hpneo"><img src="https://avatars.githubusercontent.com/u/611699?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hpneo"><b>Gustavo Leon</b></a><br><sub>&#64;hpneo</sub></td>
-<td align="right"><b>363</b></td>
-<td align="right">0</td>
-<td><sub>Lima - Perú</sub></td>
+<td><a href="https://github.com/BracoZS"><img src="https://avatars.githubusercontent.com/u/100613002?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BracoZS"><b>BracoZS</b></a><br><sub>&#64;BracoZS</sub></td>
+<td align="right"><b>405</b></td>
+<td align="right">30</td>
+<td><sub>Peru</sub></td>
 </tr>
 <tr>
 <td align="right">30</td>
+<td><a href="https://github.com/jhondevcode"><img src="https://avatars.githubusercontent.com/u/74926296?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jhondevcode"><b>Jhon Fernandez</b></a><br><sub>&#64;jhondevcode</sub></td>
+<td align="right"><b>368</b></td>
+<td align="right">39</td>
+<td><sub>Perú</sub></td>
+</tr>
+<tr>
+<td align="right">31</td>
+<td><a href="https://github.com/hpneo"><img src="https://avatars.githubusercontent.com/u/611699?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hpneo"><b>Gustavo Leon</b></a><br><sub>&#64;hpneo</sub></td>
+<td align="right"><b>363</b></td>
+<td align="right">161</td>
+<td><sub>Lima - Perú</sub></td>
+</tr>
+<tr>
+<td align="right">32</td>
+<td><a href="https://github.com/marco-soria"><img src="https://avatars.githubusercontent.com/u/138739751?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marco-soria"><b>Marco Antonio</b></a><br><sub>&#64;marco-soria</sub></td>
+<td align="right"><b>360</b></td>
+<td align="right">221</td>
+<td><sub>Huancayo, Peru</sub></td>
+</tr>
+<tr>
+<td align="right">33</td>
+<td><a href="https://github.com/linder3hs"><img src="https://avatars.githubusercontent.com/u/20673011?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/linder3hs"><b>Linder Hassinger</b></a><br><sub>&#64;linder3hs</sub></td>
+<td align="right"><b>359</b></td>
+<td align="right">286</td>
+<td><sub>Lima, Perú</sub></td>
+</tr>
+<tr>
+<td align="right">34</td>
+<td><a href="https://github.com/gustarting"><img src="https://avatars.githubusercontent.com/u/89204234?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gustarting"><b>Gustavo Mamani</b></a><br><sub>&#64;gustarting</sub></td>
+<td align="right"><b>359</b></td>
+<td align="right">33</td>
+<td><sub>Arequipa, Peru</sub></td>
+</tr>
+<tr>
+<td align="right">35</td>
 <td><a href="https://github.com/rafaelmardojai"><img src="https://avatars.githubusercontent.com/u/6210397?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rafaelmardojai"><b>Rafael Mardojai CM</b></a><br><sub>&#64;rafaelmardojai</sub></td>
 <td align="right"><b>319</b></td>
 <td align="right">0</td>
 <td><sub>Perú</sub></td>
 </tr>
 <tr>
-<td align="right">31</td>
+<td align="right">36</td>
 <td><a href="https://github.com/CristianOlivera1"><img src="https://avatars.githubusercontent.com/u/171596250?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CristianOlivera1"><b>Cristian Olivera Chávez</b></a><br><sub>&#64;CristianOlivera1</sub></td>
 <td align="right"><b>153</b></td>
 <td align="right">0</td>
 <td><sub>Peru</sub></td>
 </tr>
 <tr>
-<td align="right">32</td>
+<td align="right">37</td>
+<td><a href="https://github.com/leviarista"><img src="https://avatars.githubusercontent.com/u/13615937?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leviarista"><b>Leví Arista</b></a><br><sub>&#64;leviarista</sub></td>
+<td align="right"><b>80</b></td>
+<td align="right">0</td>
+<td><sub>Perú</sub></td>
+</tr>
+<tr>
+<td align="right">38</td>
 <td><a href="https://github.com/hespejob"><img src="https://avatars.githubusercontent.com/u/41070497?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hespejob"><b>Ing. CIP Hugo Espejo</b></a><br><sub>&#64;hespejob</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">8</td>
@@ -253,7 +295,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 32 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 38 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

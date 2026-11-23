@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **70** | 01 Nov 2026 | <a href="../data/ID.json">JSON</a> |
+| 🟠 Stale | **94** | 01 Nov 2026 | <a href="../data/ID.json">JSON</a> |
 
 > **Not yet re-verified.** 14 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
@@ -417,97 +417,265 @@
 </tr>
 <tr>
 <td align="right">57</td>
+<td><img src="https://github.com/dikiaap.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dikiaap/dotfiles"><b>dikiaap/dotfiles</b></a><br><sub>Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.</sub></td>
+<td align="right"><b>1,485</b></td>
+<td align="right">172</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><img src="https://github.com/ctrlplusb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ctrlplusb/react-async-component"><b>ctrlplusb/react-async-component</b></a><br><sub>Resolve components asynchronously, with support for code splitting and advanced server side rendering use cases.</sub></td>
+<td align="right"><b>1,434</b></td>
+<td align="right">61</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><img src="https://github.com/ifindev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ifindev/fullstack-next-cloudflare"><b>ifindev/fullstack-next-cloudflare</b></a><br><sub>🚀 Full-stack Next.js 15 + Cloudflare Workers template with D1 database, R2 storage, Better Auth, and Server Actions. P…</sub></td>
+<td align="right"><b>1,423</b></td>
+<td align="right">230</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><img src="https://github.com/wustho.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wustho/epr"><b>wustho/epr</b></a><br><sub>CLI Epub Reader</sub></td>
+<td align="right"><b>1,418</b></td>
+<td align="right">61</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><img src="https://github.com/danpros.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/danpros/htmly"><b>danpros/htmly</b></a><br><sub>Simple and fast databaseless PHP blogging platform, and Flat-File CMS</sub></td>
+<td align="right"><b>1,368</b></td>
+<td align="right">307</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><img src="https://github.com/anton46.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anton46/Android-StepsView"><b>anton46/Android-StepsView</b></a><br><sub>Android-StepsView</sub></td>
+<td align="right"><b>1,351</b></td>
+<td align="right">258</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/mathdroid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mathdroid/covid-19-api"><b>mathdroid/covid-19-api</b></a><br><sub>COVID-19 global data (from JHU CSSE for now) as-a-service</sub></td>
+<td align="right"><b>1,348</b></td>
+<td align="right">273</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><img src="https://github.com/cahyadsn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cahyadsn/wilayah"><b>cahyadsn/wilayah</b></a><br><sub>Kode dan Data Wilayah Administrasi &amp; Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025 dengan PHP+MySQL+AJa…</sub></td>
+<td align="right"><b>1,345</b></td>
+<td align="right">433</td>
+<td>SQL</td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><img src="https://github.com/pwnesia.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pwnesia/ssb"><b>pwnesia/ssb</b></a><br><sub>Secure Shell Bruteforcer — A faster &amp; simpler way to bruteforce SSH server</sub></td>
+<td align="right"><b>1,342</b></td>
+<td align="right">103</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><img src="https://github.com/soheilpro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/soheilpro/catj"><b>soheilpro/catj</b></a><br><sub>Displays JSON files in a flat format.</sub></td>
+<td align="right"><b>1,320</b></td>
+<td align="right">19</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><img src="https://github.com/dwisiswant0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dwisiswant0/go-dork"><b>dwisiswant0/go-dork</b></a><br><sub>The fastest dork scanner written in Go.</sub></td>
+<td align="right"><b>1,311</b></td>
+<td align="right">140</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><img src="https://github.com/go2ismail.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System"><b>go2ismail/Asp.Net-Core-Inventory-Order-Management-System</b></a><br><sub>Now upgraded to .NET 10, this project is a super-fast, completely headless API powered by Clean Architecture, CQRS, and…</sub></td>
+<td align="right"><b>1,307</b></td>
+<td align="right">666</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><img src="https://github.com/aishalih.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aishalih/sfwin"><b>aishalih/sfwin</b></a><br><sub>SFWin — San Francisco Fonts for Windows 10 and non-Apple Platform.</sub></td>
+<td align="right"><b>1,280</b></td>
+<td align="right">296</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/LOoLzeC.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LOoLzeC/ASU"><b>LOoLzeC/ASU</b></a><br><sub>facebook hacking toolkit</sub></td>
+<td align="right"><b>1,265</b></td>
+<td align="right">250</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/davidhsianturi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/davidhsianturi/laravel-compass"><b>davidhsianturi/laravel-compass</b></a><br><sub>A REST client inside your Laravel app</sub></td>
+<td align="right"><b>1,264</b></td>
+<td align="right">108</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><img src="https://github.com/gigahidjrikaaa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gigahidjrikaaa/Engineering-Books"><b>gigahidjrikaaa/Engineering-Books</b></a><br><sub>Softcopy of Engineering Books. If you want a book{s} to be taken down, please contact me.</sub></td>
+<td align="right"><b>1,258</b></td>
+<td align="right">315</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><img src="https://github.com/breakdowns.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/breakdowns/slam-mirrorbot"><b>breakdowns/slam-mirrorbot</b></a> <sub>archived</sub><br><sub>Aria/qBittorrent Telegram Mirror/Leech Bot.</sub></td>
+<td align="right"><b>1,255</b></td>
+<td align="right">4,126</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/uasoft-indonesia.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/uasoft-indonesia/badaso"><b>uasoft-indonesia/badaso</b></a><br><sub>Laravel Vue headless CMS / admin panel / dashboard / builder / API CRUD generator, anything !</sub></td>
+<td align="right"><b>1,255</b></td>
+<td align="right">226</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/warifp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/warifp/FacebookToolkit"><b>warifp/FacebookToolkit</b></a><br><sub>a tool to get Facebook data, and some Facebook bots, and extra tools found on Facebook Toolkit ++.</sub></td>
+<td align="right"><b>1,254</b></td>
+<td align="right">348</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/khairul169.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/khairul169/garage-webui"><b>khairul169/garage-webui</b></a> <sub>archived</sub><br><sub>WebUI for Garage Object Storage Service</sub></td>
+<td align="right"><b>1,248</b></td>
+<td align="right">96</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/ardha27.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ardha27/AI-Song-Cover-RVC"><b>ardha27/AI-Song-Cover-RVC</b></a><br><sub>All-in-one RVC song cover toolkit for Google Colab: pull audio from YouTube, separate vocals, train a model, and run in…</sub></td>
+<td align="right"><b>1,239</b></td>
+<td align="right">162</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/OpenSID.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/OpenSID/OpenSID"><b>OpenSID/OpenSID</b></a><br><sub>Sistem Informasi Desa (SID) yang sengaja dibuat terbuka agar dapat dikembangkan secara bersama-sama oleh komunitas pedu…</sub></td>
+<td align="right"><b>1,234</b></td>
+<td align="right">1,197</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/wustho.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wustho/epy"><b>wustho/epy</b></a><br><sub>CLI Ebook (epub2, epub3, fb2, mobi) Reader</sub></td>
+<td align="right"><b>1,233</b></td>
+<td align="right">76</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/parlay96.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/parlay96/pl-table"><b>parlay96/pl-table</b></a><br><sub>A table based on element, Perfectly solve the problem of lag in rendering data of tens of thousands of levels</sub></td>
+<td align="right"><b>1,147</b></td>
+<td align="right">232</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">81</td>
 <td><img src="https://github.com/deaafrizal.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/deaafrizal/cuyuniverse-forum"><b>deaafrizal/cuyuniverse-forum</b></a></td>
 <td align="right"><b>212</b></td>
 <td align="right">121</td>
 <td>PHP</td>
 </tr>
 <tr>
-<td align="right">58</td>
+<td align="right">82</td>
 <td><img src="https://github.com/elianiva.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/elianiva/dotfiles"><b>elianiva/dotfiles</b></a></td>
 <td align="right"><b>204</b></td>
 <td align="right">9</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">59</td>
+<td align="right">83</td>
 <td><img src="https://github.com/bahrie127.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bahrie127/fic_flutter_basic"><b>bahrie127/fic&#95;flutter&#95;basic</b></a></td>
 <td align="right"><b>192</b></td>
 <td align="right">42</td>
 <td>Dart</td>
 </tr>
 <tr>
-<td align="right">60</td>
+<td align="right">84</td>
 <td><img src="https://github.com/RozhakDev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RozhakDev/PyInstaCrack"><b>RozhakDev/PyInstaCrack</b></a></td>
 <td align="right"><b>187</b></td>
 <td align="right">38</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">61</td>
+<td align="right">85</td>
 <td><img src="https://github.com/endymuhardin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/endymuhardin/belajarGit"><b>endymuhardin/belajarGit</b></a></td>
 <td align="right"><b>179</b></td>
 <td align="right">306</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">62</td>
+<td align="right">86</td>
 <td><img src="https://github.com/dicodingacademy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dicodingacademy/a51-android-pemula-labs"><b>dicodingacademy/a51-android-pemula-labs</b></a></td>
 <td align="right"><b>154</b></td>
 <td align="right">760</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">63</td>
+<td align="right">87</td>
 <td><img src="https://github.com/r17x.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/r17x/universe"><b>r17x/universe</b></a></td>
 <td align="right"><b>151</b></td>
 <td align="right">12</td>
 <td>Nix</td>
 </tr>
 <tr>
-<td align="right">64</td>
+<td align="right">88</td>
 <td><img src="https://github.com/mhaidarhanif.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mhaidarhanif/rewinds"><b>mhaidarhanif/rewinds</b></a> <sub>archived</sub></td>
 <td align="right"><b>123</b></td>
 <td align="right">4</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">65</td>
+<td align="right">89</td>
 <td><img src="https://github.com/wahyudesu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wahyudesu/Fastapi-AI-Production-Template"><b>wahyudesu/Fastapi-AI-Production-Template</b></a></td>
 <td align="right"><b>114</b></td>
 <td align="right">14</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
-<td align="right">66</td>
+<td align="right">90</td>
 <td><img src="https://github.com/rasidi3112.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rasidi3112/Quantum-Machine-Learning"><b>rasidi3112/Quantum-Machine-Learning</b></a></td>
 <td align="right"><b>111</b></td>
 <td align="right">14</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">67</td>
+<td align="right">91</td>
 <td><img src="https://github.com/Zlkcyber.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Zlkcyber/LedgeBot"><b>Zlkcyber/LedgeBot</b></a></td>
 <td align="right"><b>96</b></td>
 <td align="right">37</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">68</td>
+<td align="right">92</td>
 <td><img src="https://github.com/samsonasik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/samsonasik/ci4-album"><b>samsonasik/ci4-album</b></a></td>
 <td align="right"><b>94</b></td>
 <td align="right">21</td>
 <td>PHP</td>
 </tr>
 <tr>
-<td align="right">69</td>
+<td align="right">93</td>
 <td><img src="https://github.com/theodevoid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/theodevoid/wilayah-nusantara"><b>theodevoid/wilayah-nusantara</b></a></td>
 <td align="right"><b>94</b></td>
 <td align="right">8</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">70</td>
+<td align="right">94</td>
 <td><img src="https://github.com/hangga.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hangga/delvelin"><b>hangga/delvelin</b></a></td>
 <td align="right"><b>93</b></td>
 <td align="right">2</td>
@@ -521,9 +689,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 93 stars; 70 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 93 stars; 94 attributed candidates are tracked.
 - 14 entries were carried over from the previous dataset and are pending revalidation.
-- 138 multi-repository owners are queued for expansion.
+- 127 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 183 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -5,15 +5,16 @@
 "country": {"code":"MZ","name":"Mozambique","slug":"mozambique"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":2,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":5,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":92,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjIyNzgwNjgz","login":"DandelionSprout","name":"Imre Eilertsen","url":"https://github.com/DandelionSprout","avatarUrl":"https://avatars.githubusercontent.com/u/22780683?s=80&v=4","followers":449,"publicRepos":224,"location":"A chair.","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-23"},
   {"rank":2,"id":"MDQ6VXNlcjQwMjI0NzYy","login":"JoneBulande","name":"Jone","url":"https://github.com/JoneBulande","avatarUrl":"https://avatars.githubusercontent.com/u/40224762?s=80&v=4","followers":449,"publicRepos":14,"location":"Maputo, Mozambique","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":3,"id":"U_kgDOCKY4vg","login":"34sea","name":"Martinho Macovere Domingos","url":"https://github.com/34sea","avatarUrl":"https://avatars.githubusercontent.com/u/145111230?s=80&v=4","followers":3,"publicRepos":52,"location":"Mozambique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":4,"id":"U_kgDOCgwLuA","login":"6Kazer","name":"Eros Kaioh","url":"https://github.com/6Kazer","avatarUrl":"https://avatars.githubusercontent.com/u/168561592?s=80&v=4","followers":2,"publicRepos":5,"location":"Mozambique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
+  {"rank":4,"id":"U_kgDOCgwLuA","login":"6Kazer","name":"Eros Kaioh","url":"https://github.com/6Kazer","avatarUrl":"https://avatars.githubusercontent.com/u/168561592?s=80&v=4","followers":2,"publicRepos":5,"location":"Mozambique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":5,"id":"U_kgDOBwRyjA","login":"izildomulima","name":"IZILDO MULIMA","url":"https://github.com/izildomulima","avatarUrl":"https://avatars.githubusercontent.com/u/117731980?s=80&v=4","followers":0,"publicRepos":5,"location":"MABOTE, INHAMBANE, MOÇAMBIQUE","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "60c6504ac5fb9b56",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "1862b41f6ffd7336",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

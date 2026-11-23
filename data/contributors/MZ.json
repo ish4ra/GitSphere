@@ -5,14 +5,14 @@
 "country": {"code":"MZ","name":"Mozambique","slug":"mozambique"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":401,"measuredAccounts":4,"measurementBacklog":397,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":401,"measuredAccounts":5,"measurementBacklog":396,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":92,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjIyNzgwNjgz","login":"DandelionSprout","name":"Imre Eilertsen","url":"https://github.com/DandelionSprout","avatarUrl":"https://avatars.githubusercontent.com/u/22780683?s=80&v=4","followers":449,"publicRepos":224,"location":"A chair.","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-23","contributions":{"public":6436,"commits":3603,"pullRequests":2278,"reviews":60,"issues":442,"repositories":49,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":2,"id":"MDQ6VXNlcjQwMjI0NzYy","login":"JoneBulande","name":"Jone","url":"https://github.com/JoneBulande","avatarUrl":"https://avatars.githubusercontent.com/u/40224762?s=80&v=4","followers":449,"publicRepos":14,"location":"Maputo, Mozambique","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":34,"commits":30,"pullRequests":0,"reviews":0,"issues":0,"repositories":4,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":3,"id":"U_kgDOCKY4vg","login":"34sea","name":"Martinho Macovere Domingos","url":"https://github.com/34sea","avatarUrl":"https://avatars.githubusercontent.com/u/145111230?s=80&v=4","followers":3,"publicRepos":52,"location":"Mozambique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":18,"commits":11,"pullRequests":0,"reviews":0,"issues":0,"repositories":7,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "922f0b92f63b7e74",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "0952bac07d270534",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

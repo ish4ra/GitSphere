@@ -8,7 +8,7 @@
 "coverage": {"basis":"partial","cutoffFollowers":0,"candidates":13,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjU3NTk2NjQx","login":"Gabegi","name":"Downloading","url":"https://github.com/Gabegi","avatarUrl":"https://avatars.githubusercontent.com/u/57596641?s=80&v=4","followers":28,"publicRepos":45,"location":"Cat Hill St Helena, Ascension and Tristan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"MDQ6VXNlcjU0Mjc4NTEw","login":"hendrik-j-roux-nl","name":"Hendriekus","url":"https://github.com/hendrik-j-roux-nl","avatarUrl":"https://avatars.githubusercontent.com/u/54278510?s=80&v=4","followers":1,"publicRepos":4,"location":"St Helena","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjU0Mjc4NTEw","login":"hendrik-j-roux-nl","name":"Hendriekus","url":"https://github.com/hendrik-j-roux-nl","avatarUrl":"https://avatars.githubusercontent.com/u/54278510?s=80&v=4","followers":1,"publicRepos":4,"location":"St Helena","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":3,"id":"U_kgDOBaO8Yw","login":"selenegough","name":"Selene Gough","url":"https://github.com/selenegough","avatarUrl":"https://avatars.githubusercontent.com/u/94616675?s=80&v=4","followers":1,"publicRepos":1,"location":"Jamestown, St Helena","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":4,"id":"U_kgDOCn9HqQ","login":"Deeannpva7","name":"Liam Mnchhoff","url":"https://github.com/Deeannpva7","avatarUrl":"https://avatars.githubusercontent.com/u/176113577?s=80&v=4","followers":0,"publicRepos":11,"location":"Sint-Helena (SH)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":5,"id":"U_kgDOCuPN4A","login":"shyguynicknameter","name":null,"url":"https://github.com/shyguynicknameter","avatarUrl":"https://avatars.githubusercontent.com/u/182701536?s=80&v=4","followers":0,"publicRepos":6,"location":"St. Helena (SH)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
@@ -21,8 +21,8 @@
   {"rank":12,"id":"U_kgDOBYOTtQ","login":"joruhan","name":"Joruhan de wit","url":"https://github.com/joruhan","avatarUrl":"https://avatars.githubusercontent.com/u/92509109?s=80&v=4","followers":0,"publicRepos":1,"location":"St Helena Bay","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":13,"id":"U_kgDOBapVgQ","login":"NapoleonOfTheNow","name":null,"url":"https://github.com/NapoleonOfTheNow","avatarUrl":"https://avatars.githubusercontent.com/u/95049089?s=80&v=4","followers":0,"publicRepos":1,"location":"St. Helena","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "cc717eb0b3cdc89f",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "be49e7b5d843f61c",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

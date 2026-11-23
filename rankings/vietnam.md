@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **75** | 17 Oct 2026 | <a href="../data/VN.json">JSON</a> |
-
-> **Not yet re-verified.** 10 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **82** | 22 Nov 2026 | <a href="../data/VN.json">JSON</a> |
 
 </div>
 
@@ -480,73 +478,122 @@
 </tr>
 <tr>
 <td align="right">66</td>
-<td><img src="https://github.com/ViegPhunt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ViegPhunt/Arch-Hyprland"><b>ViegPhunt/Arch-Hyprland</b></a></td>
-<td align="right"><b>397</b></td>
-<td align="right">11</td>
-<td>Shell</td>
+<td><img src="https://github.com/viettranx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/viettranx/3dviz-pro-max"><b>viettranx/3dviz-pro-max</b></a><br><sub>Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Co…</sub></td>
+<td align="right"><b>1,477</b></td>
+<td align="right">169</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">67</td>
-<td><img src="https://github.com/tue-savvy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tue-savvy/SimulatorManager"><b>tue-savvy/SimulatorManager</b></a></td>
-<td align="right"><b>394</b></td>
-<td align="right">32</td>
-<td>Objective-C</td>
-</tr>
-<tr>
-<td align="right">68</td>
-<td><img src="https://github.com/develbranch.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/develbranch/TinyAntivirus"><b>develbranch/TinyAntivirus</b></a></td>
-<td align="right"><b>392</b></td>
-<td align="right">113</td>
-<td>C++</td>
-</tr>
-<tr>
-<td align="right">69</td>
-<td><img src="https://github.com/tunguyenn99.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tunguyenn99/thu_vien_cua_xom_data"><b>tunguyenn99/thu&#95;vien&#95;cua&#95;xom&#95;data</b></a></td>
-<td align="right"><b>392</b></td>
-<td align="right">109</td>
+<td><img src="https://github.com/thinh-vu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thinh-vu/vnstock"><b>thinh-vu/vnstock</b></a><br><sub>A beginner-friendly yet powerful Python toolkit for financial analysis and automation — built to make modern investing…</sub></td>
+<td align="right"><b>1,423</b></td>
+<td align="right">294</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">70</td>
-<td><img src="https://github.com/tuanpmt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tuanpmt/espduino"><b>tuanpmt/espduino</b></a></td>
-<td align="right"><b>391</b></td>
-<td align="right">121</td>
-<td>C++</td>
-</tr>
-<tr>
-<td align="right">71</td>
-<td><img src="https://github.com/hoangtien2k3.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hoangtien2k3/ecommerce-microservices"><b>hoangtien2k3/ecommerce-microservices</b></a></td>
-<td align="right"><b>390</b></td>
-<td align="right">189</td>
+<td align="right">68</td>
+<td><img src="https://github.com/hoang8f.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hoang8f/android-flat-button"><b>hoang8f/android-flat-button</b></a><br><sub>FButton - a flat button library for Android</sub></td>
+<td align="right"><b>1,388</b></td>
+<td align="right">315</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">72</td>
-<td><img src="https://github.com/JSLancerTeam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JSLancerTeam/crystal-dashboard"><b>JSLancerTeam/crystal-dashboard</b></a></td>
-<td align="right"><b>389</b></td>
-<td align="right">135</td>
-<td>JavaScript</td>
+<td align="right">69</td>
+<td><img src="https://github.com/chnirt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chnirt/nestjs-graphql-best-practice"><b>chnirt/nestjs-graphql-best-practice</b></a> <sub>archived</sub><br><sub>NestJS (Express + TypeORM + GraphQL + MongoDB) codebase containing real world examples (CRUD, auth, advanced patterns,…</sub></td>
+<td align="right"><b>1,371</b></td>
+<td align="right">240</td>
+<td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">73</td>
-<td><img src="https://github.com/quanhua92.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/quanhua92/human-pose-estimation-opencv"><b>quanhua92/human-pose-estimation-opencv</b></a></td>
-<td align="right"><b>384</b></td>
-<td align="right">155</td>
+<td align="right">70</td>
+<td><img src="https://github.com/thangchung.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thangchung/clean-architecture-dotnet"><b>thangchung/clean-architecture-dotnet</b></a><br><sub>🕸 Yet Another .NET Clean Architecture, but for Microservices project. It uses Minimal Clean Architecture with DDD-lite…</sub></td>
+<td align="right"><b>1,362</b></td>
+<td align="right">288</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/versenilvis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/versenilvis/IRIS"><b>versenilvis/IRIS</b></a><br><sub>A shell auto-completion tool for your terminal</sub></td>
+<td align="right"><b>1,336</b></td>
+<td align="right">54</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><img src="https://github.com/maudzung.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maudzung/Complex-YOLOv4-Pytorch"><b>maudzung/Complex-YOLOv4-Pytorch</b></a><br><sub>The PyTorch Implementation based on YOLOv4 of the paper: &quot;Complex-YOLO: Real-time 3D Object Detection on Point Clouds&quot;</sub></td>
+<td align="right"><b>1,332</b></td>
+<td align="right">267</td>
 <td>Python</td>
 </tr>
 <tr>
+<td align="right">73</td>
+<td><img src="https://github.com/favadi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/favadi/protoc-go-inject-tag"><b>favadi/protoc-go-inject-tag</b></a><br><sub>Inject custom tags to protobuf golang struct</sub></td>
+<td align="right"><b>1,263</b></td>
+<td align="right">160</td>
+<td>Go</td>
+</tr>
+<tr>
 <td align="right">74</td>
-<td><img src="https://github.com/thangngoc89.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thangngoc89/react-howler"><b>thangngoc89/react-howler</b></a></td>
-<td align="right"><b>377</b></td>
-<td align="right">80</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/wpmetabox.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wpmetabox/meta-box"><b>wpmetabox/meta-box</b></a><br><sub>The best plugin for WordPress custom fields and custom meta boxes</sub></td>
+<td align="right"><b>1,248</b></td>
+<td align="right">407</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">75</td>
-<td><img src="https://github.com/tuan188.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tuan188/CleanArchitecture"><b>tuan188/CleanArchitecture</b></a></td>
-<td align="right"><b>375</b></td>
-<td align="right">57</td>
-<td>Swift</td>
+<td><img src="https://github.com/aiko-chan-ai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aiko-chan-ai/discord.js-selfbot-v13"><b>aiko-chan-ai/discord.js-selfbot-v13</b></a> <sub>archived</sub><br><sub>An unofficial discord.js fork for creating selfbots</sub></td>
+<td align="right"><b>1,232</b></td>
+<td align="right">284</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/dungngminh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dungngminh/simutil"><b>dungngminh/simutil</b></a><br><sub>Utilities for Android emulators, iOS simulators and real devices: launch, stream, control, record and automate them fro…</sub></td>
+<td align="right"><b>1,226</b></td>
+<td align="right">142</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/KhoaSuperman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KhoaSuperman/findseat"><b>KhoaSuperman/findseat</b></a><br><sub>A Completed Functional Flutter App - FindSeat (BLoC + Json API + Unit Test + Firebase Auth)</sub></td>
+<td align="right"><b>1,212</b></td>
+<td align="right">357</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/vechai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vechai/vechaiui"><b>vechai/vechaiui</b></a> <sub>archived</sub><br><sub>A set of high-quality accessible React UI components with the built-in dark mode using Tailwind CSS. Pre-designed headl…</sub></td>
+<td align="right"><b>1,207</b></td>
+<td align="right">64</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/heyhuynhgiabuu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/heyhuynhgiabuu/proxypal"><b>heyhuynhgiabuu/proxypal</b></a><br><sub>A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. W…</sub></td>
+<td align="right"><b>1,198</b></td>
+<td align="right">227</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/ChatbotXIO.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ChatbotXIO/ChatbotX"><b>ChatbotXIO/ChatbotX</b></a><br><sub>Open-source ManyChat alternative, built for AI. Omnichannel marketing across WhatsApp, TikTok, Facebook, Instagram, Tel…</sub></td>
+<td align="right"><b>1,182</b></td>
+<td align="right">353</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/tuanpmt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tuanpmt/esp_mqtt"><b>tuanpmt/esp&#95;mqtt</b></a><br><sub>MQTT client library for ESP8266</sub></td>
+<td align="right"><b>1,171</b></td>
+<td align="right">396</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/vndee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vndee/llm-sandbox"><b>vndee/llm-sandbox</b></a><br><sub>Lightweight and portable LLM sandbox runtime (code interpreter) Python library.</sub></td>
+<td align="right"><b>1,147</b></td>
+<td align="right">107</td>
+<td>Python</td>
 </tr>
 </tbody>
 </table>
@@ -554,11 +601,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 375 stars; 75 attributed candidates are tracked.
-- 10 entries were carried over from the previous dataset and are pending revalidation.
-- 125 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 1,147 stars; 82 attributed candidates are tracked.
+- 119 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

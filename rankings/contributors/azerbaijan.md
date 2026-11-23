@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/AZ.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/AZ.json">JSON</a> |
 
 </div>
 
@@ -34,6 +34,15 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/nurullaibadov"><img src="https://avatars.githubusercontent.com/u/151769024?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nurullaibadov"><b>Nurulla Ibadov</b></a><br><sub>&#64;nurullaibadov · 363 followers</sub></td>
+<td align="right"><b>5,899</b></td>
+<td align="right">5,720</td>
+<td align="right">88</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/eldarlrd"><img src="https://avatars.githubusercontent.com/u/95304986?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eldarlrd"><b>Eldar Paşazadə</b></a><br><sub>&#64;eldarlrd · 1,154 followers</sub></td>
 <td align="right"><b>227</b></td>
 <td align="right">220</td>
@@ -42,7 +51,16 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
+<td><a href="https://github.com/KhanbalaRashidov"><img src="https://avatars.githubusercontent.com/u/50279392?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KhanbalaRashidov"><b>Khanbala Rashidov</b></a><br><sub>&#64;KhanbalaRashidov · 359 followers</sub></td>
+<td align="right"><b>223</b></td>
+<td align="right">208</td>
+<td align="right">5</td>
+<td align="right">1</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/hasanbakhtiar"><img src="https://avatars.githubusercontent.com/u/52384595?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hasanbakhtiar"><b>Hasan</b></a><br><sub>&#64;hasanbakhtiar · 588 followers</sub></td>
 <td align="right"><b>174</b></td>
 <td align="right">169</td>
@@ -51,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">6</td>
 <td><a href="https://github.com/TuralSuleymani"><img src="https://avatars.githubusercontent.com/u/4170281?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TuralSuleymani"><b>Tural Suleymani</b></a><br><sub>&#64;TuralSuleymani · 492 followers</sub></td>
 <td align="right"><b>67</b></td>
 <td align="right">50</td>
@@ -60,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">7</td>
 <td><a href="https://github.com/EminHaziyev"><img src="https://avatars.githubusercontent.com/u/113848558?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EminHaziyev"><b>emin</b></a><br><sub>&#64;EminHaziyev · 601 followers</sub></td>
 <td align="right"><b>29</b></td>
 <td align="right">25</td>
@@ -69,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">8</td>
 <td><a href="https://github.com/khanjanov"><img src="https://avatars.githubusercontent.com/u/114681364?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/khanjanov"><b>Karim</b></a><br><sub>&#64;khanjanov · 439 followers</sub></td>
 <td align="right"><b>14</b></td>
 <td align="right">11</td>
@@ -84,7 +102,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 6 of 403 discovered developers (397 awaiting measurement).
+- **Measured:** 8 of 404 discovered developers (396 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 185 in round 1.

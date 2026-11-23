@@ -5,12 +5,13 @@
 "country": {"code":"PA","name":"Panama","slug":"panama"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":4,"measurementBacklog":396,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":401,"measuredAccounts":5,"measurementBacklog":396,"window":{"from":"2025-11-23T13:00:00Z","to":"2026-11-23T13:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"U_kgDOB9IeDw","login":"152as","name":"Simon Becerra","url":"https://github.com/152as","avatarUrl":"https://avatars.githubusercontent.com/u/131210767?s=80&v=4","followers":0,"publicRepos":5,"location":"Panama oeste La chorrera","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-23","contributions":{"public":30,"commits":25,"pullRequests":0,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
+  {"rank":1,"id":"U_kgDOBag1PQ","login":"alebeta06","name":"Alejandro Betancourt","url":"https://github.com/alebeta06","avatarUrl":"https://avatars.githubusercontent.com/u/94909757?s=80&v=4","followers":355,"publicRepos":64,"location":"Panamá","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":804,"commits":789,"pullRequests":0,"reviews":0,"issues":0,"repositories":15,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":2,"id":"U_kgDOB9IeDw","login":"152as","name":"Simon Becerra","url":"https://github.com/152as","avatarUrl":"https://avatars.githubusercontent.com/u/131210767?s=80&v=4","followers":0,"publicRepos":5,"location":"Panama oeste La chorrera","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-23","contributions":{"public":30,"commits":25,"pullRequests":0,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "15ccb74dd13e20ae",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "680175752724e6ff",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

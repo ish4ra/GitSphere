@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/developers/CM.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/developers/CM.json">JSON</a> |
 
 </div>
 
@@ -70,6 +70,34 @@
 <td align="right">14</td>
 <td><sub>Cameroon</sub></td>
 </tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/sangafabrice"><img src="https://avatars.githubusercontent.com/u/69244030?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sangafabrice"><b>Fabrice Sanga</b></a><br><sub>&#64;sangafabrice</sub></td>
+<td align="right"><b>356</b></td>
+<td align="right">75</td>
+<td><sub>Yaoundé, CM</sub></td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/Nkwenti-Severian-Ndongtsop"><img src="https://avatars.githubusercontent.com/u/180976800?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nkwenti-Severian-Ndongtsop"><b>&#64;Nkwenti &#64;Severian</b></a><br><sub>&#64;Nkwenti-Severian-Ndongtsop</sub></td>
+<td align="right"><b>355</b></td>
+<td align="right">63</td>
+<td><sub>Cameroon, Bangangte</sub></td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/NgamiBaruch"><img src="https://avatars.githubusercontent.com/u/150728460?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NgamiBaruch"><b>NgamiBaruch</b></a><br><sub>&#64;NgamiBaruch</sub></td>
+<td align="right"><b>355</b></td>
+<td align="right">24</td>
+<td><sub>Douala Cameroun</sub></td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/Blair2004"><img src="https://avatars.githubusercontent.com/u/5265663?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Blair2004"><b>Blair Jersyer</b></a><br><sub>&#64;Blair2004</sub></td>
+<td align="right"><b>177</b></td>
+<td align="right">0</td>
+<td><sub>Cameroon. Yaoundé</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -78,7 +106,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 7 attributed developers are tracked; the cutoff is 490 followers.
+- Organizations are excluded. 11 attributed developers are tracked; the cutoff is 177 followers.
 - **Location discovery:** term 0 of 115 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

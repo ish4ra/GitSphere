@@ -5,15 +5,16 @@
 "country": {"code":"MX","name":"Mexico","slug":"mexico"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":425,"measuredAccounts":4,"measurementBacklog":421,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":446,"measuredAccounts":5,"measurementBacklog":441,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":153,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjMzMQ==","login":"vic","name":"Victor Borja","url":"https://github.com/vic","avatarUrl":"https://avatars.githubusercontent.com/u/331?s=80&v=4","followers":763,"publicRepos":406,"location":"Mexico City","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22","contributions":{"public":3366,"commits":2401,"pullRequests":574,"reviews":122,"issues":175,"repositories":30,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":2,"id":"MDQ6VXNlcjEzMDU4MjM0","login":"holasoymalva","name":"Leon Martin","url":"https://github.com/holasoymalva","avatarUrl":"https://avatars.githubusercontent.com/u/13058234?s=80&v=4","followers":2278,"publicRepos":295,"location":"CDMX - Mexico.","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":2113,"commits":1521,"pullRequests":523,"reviews":4,"issues":0,"repositories":65,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":3,"id":"MDQ6VXNlcjE5MDEyNzM=","login":"coderdiaz","name":"Javier Diaz","url":"https://github.com/coderdiaz","avatarUrl":"https://avatars.githubusercontent.com/u/1901273?s=80&v=4","followers":451,"publicRepos":388,"location":"Mexico City","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23","contributions":{"public":115,"commits":80,"pullRequests":11,"reviews":12,"issues":5,"repositories":7,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
-  {"rank":4,"id":"MDQ6VXNlcjI5MDg2NA==","login":"cogitovsmachina","name":"Kike Diaz","url":"https://github.com/cogitovsmachina","avatarUrl":"https://avatars.githubusercontent.com/u/290864?s=80&v=4","followers":466,"publicRepos":358,"location":"Mexico City","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23","contributions":{"public":101,"commits":75,"pullRequests":1,"reviews":0,"issues":0,"repositories":25,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
+  {"rank":4,"id":"MDQ6VXNlcjI5MDg2NA==","login":"cogitovsmachina","name":"Kike Diaz","url":"https://github.com/cogitovsmachina","avatarUrl":"https://avatars.githubusercontent.com/u/290864?s=80&v=4","followers":466,"publicRepos":358,"location":"Mexico City","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23","contributions":{"public":101,"commits":75,"pullRequests":1,"reviews":0,"issues":0,"repositories":25,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":5,"id":"MDQ6VXNlcjEyNTY2Nzg=","login":"mikenieva","name":"Mike Nieva","url":"https://github.com/mikenieva","avatarUrl":"https://avatars.githubusercontent.com/u/1256678?s=80&v=4","followers":903,"publicRepos":328,"location":"Mexico City","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23","contributions":{"public":16,"commits":12,"pullRequests":3,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "3221f0169900e50b",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "7ec2981f5070bf85",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

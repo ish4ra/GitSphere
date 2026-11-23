@@ -5,15 +5,16 @@
 "country": {"code":"RE","name":"Réunion","slug":"reunion"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":5,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDOClwGaw","login":"440Steven","name":"Steven","url":"https://github.com/440Steven","avatarUrl":"https://avatars.githubusercontent.com/u/173803115?s=80&v=4","followers":0,"publicRepos":5,"location":"Réunion","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"U_kgDOBhdUQw","login":"abdoulahadlokhat","name":"Abdoul-Ahad Lokhat","url":"https://github.com/abdoulahadlokhat","avatarUrl":"https://avatars.githubusercontent.com/u/102192195?s=80&v=4","followers":0,"publicRepos":2,"location":"La Réunion","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
-  {"rank":3,"id":"MDQ6VXNlcjg3OTM0NDY2","login":"AbirCS","name":"AbirCS","url":"https://github.com/AbirCS","avatarUrl":"https://avatars.githubusercontent.com/u/87934466?s=80&v=4","followers":0,"publicRepos":2,"location":"La Réunion","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
-  {"rank":4,"id":"U_kgDODcQ1GQ","login":"777-fr","name":"Raphaël BAPTISTE","url":"https://github.com/777-fr","avatarUrl":"https://avatars.githubusercontent.com/u/230962457?s=80&v=4","followers":0,"publicRepos":1,"location":"La Réunion","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"MDQ6VXNlcjEyMDA1MjU=","login":"aboire","name":"Thomas Craipeau","url":"https://github.com/aboire","avatarUrl":"https://avatars.githubusercontent.com/u/1200525?s=80&v=4","followers":16,"publicRepos":77,"location":"La réunion","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":2,"id":"U_kgDOClwGaw","login":"440Steven","name":"Steven","url":"https://github.com/440Steven","avatarUrl":"https://avatars.githubusercontent.com/u/173803115?s=80&v=4","followers":0,"publicRepos":5,"location":"Réunion","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"U_kgDOBhdUQw","login":"abdoulahadlokhat","name":"Abdoul-Ahad Lokhat","url":"https://github.com/abdoulahadlokhat","avatarUrl":"https://avatars.githubusercontent.com/u/102192195?s=80&v=4","followers":0,"publicRepos":2,"location":"La Réunion","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":4,"id":"MDQ6VXNlcjg3OTM0NDY2","login":"AbirCS","name":"AbirCS","url":"https://github.com/AbirCS","avatarUrl":"https://avatars.githubusercontent.com/u/87934466?s=80&v=4","followers":0,"publicRepos":2,"location":"La Réunion","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":5,"id":"U_kgDODcQ1GQ","login":"777-fr","name":"Raphaël BAPTISTE","url":"https://github.com/777-fr","avatarUrl":"https://avatars.githubusercontent.com/u/230962457?s=80&v=4","followers":0,"publicRepos":1,"location":"La Réunion","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "ce5e67de847c6bb0",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "2ef079e60eba3530",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

@@ -5,15 +5,16 @@
 "country": {"code":"TW","name":"Taiwan","slug":"taiwan"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":518,"measuredAccounts":4,"measurementBacklog":514,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":571,"measuredAccounts":5,"measurementBacklog":566,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjkwMjE3NDc=","login":"peter279k","name":"Chun-Sheng, Li","url":"https://github.com/peter279k","avatarUrl":"https://avatars.githubusercontent.com/u/9021747?s=80&v=4","followers":2324,"publicRepos":1007,"location":"Taipei, Taiwan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":12684,"commits":12581,"pullRequests":45,"reviews":4,"issues":25,"repositories":29,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":2,"id":"MDQ6VXNlcjg4OTgx","login":"doggy8088","name":"Will 保哥","url":"https://github.com/doggy8088","avatarUrl":"https://avatars.githubusercontent.com/u/88981?s=80&v=4","followers":4633,"publicRepos":859,"location":"Taipei, Taiwan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":4093,"commits":3590,"pullRequests":225,"reviews":27,"issues":213,"repositories":21,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":3,"id":"MDQ6VXNlcjM4OTQyNzk=","login":"kkpan11","name":"Gianni Hong","url":"https://github.com/kkpan11","avatarUrl":"https://avatars.githubusercontent.com/u/3894279?s=80&v=4","followers":413,"publicRepos":4246,"location":"Taipei, Taiwan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":422,"commits":325,"pullRequests":0,"reviews":0,"issues":0,"repositories":97,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
-  {"rank":4,"id":"MDQ6VXNlcjIxMjg1NzA=","login":"strategist922","name":"James Chang","url":"https://github.com/strategist922","avatarUrl":"https://avatars.githubusercontent.com/u/2128570?s=80&v=4","followers":919,"publicRepos":9293,"location":"Taipei, Taiwan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":103,"commits":0,"pullRequests":0,"reviews":0,"issues":2,"repositories":101,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":4,"id":"MDQ6VXNlcjIxMjg1NzA=","login":"strategist922","name":"James Chang","url":"https://github.com/strategist922","avatarUrl":"https://avatars.githubusercontent.com/u/2128570?s=80&v=4","followers":919,"publicRepos":9293,"location":"Taipei, Taiwan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":103,"commits":0,"pullRequests":0,"reviews":0,"issues":2,"repositories":101,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":5,"id":"MDQ6VXNlcjU3MjMwMDk=","login":"brucetsao","name":"建國老師","url":"https://github.com/brucetsao","avatarUrl":"https://avatars.githubusercontent.com/u/5723009?s=80&v=4","followers":394,"publicRepos":1035,"location":"Taichung,Taiwan, R.O.C.","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":70,"commits":65,"pullRequests":0,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "12231e90d12ffcf4",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "f987319373400a9d",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

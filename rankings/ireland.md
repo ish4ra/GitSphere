@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **100** | 16 Oct 2026 | <a href="../data/IE.json">JSON</a> |
-
-> **Not yet re-verified.** 15 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/IE.json">JSON</a> |
 
 </div>
 
@@ -620,108 +618,108 @@
 </tr>
 <tr>
 <td align="right">86</td>
-<td><img src="https://github.com/mrfearless.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mrfearless/RadASM2"><b>mrfearless/RadASM2</b></a></td>
-<td align="right"><b>379</b></td>
-<td align="right">76</td>
-<td>Assembly</td>
+<td><img src="https://github.com/fermoya.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fermoya/SwiftUIPager"><b>fermoya/SwiftUIPager</b></a><br><sub>Native Pager in SwiftUI</sub></td>
+<td align="right"><b>1,471</b></td>
+<td align="right">196</td>
+<td>Swift</td>
 </tr>
 <tr>
 <td align="right">87</td>
-<td><img src="https://github.com/JPeetz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JPeetz/Hermes-Studio"><b>JPeetz/Hermes-Studio</b></a></td>
-<td align="right"><b>371</b></td>
-<td align="right">79</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/eoinfogarty.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eoinfogarty/Onboarding"><b>eoinfogarty/Onboarding</b></a><br><sub>A beautiful way to introduce users to your app</sub></td>
+<td align="right"><b>1,467</b></td>
+<td align="right">137</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">88</td>
-<td><img src="https://github.com/garmeeh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/garmeeh/local-cors-proxy"><b>garmeeh/local-cors-proxy</b></a></td>
-<td align="right"><b>345</b></td>
-<td align="right">82</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/0xnobody.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0xnobody/vmpdump"><b>0xnobody/vmpdump</b></a><br><sub>A dynamic VMP dumper and import fixer, powered by VTIL.</sub></td>
+<td align="right"><b>1,450</b></td>
+<td align="right">231</td>
+<td>C++</td>
 </tr>
 <tr>
 <td align="right">89</td>
-<td><img src="https://github.com/remojansen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/remojansen/TsUML"><b>remojansen/TsUML</b></a> <sub>archived</sub></td>
-<td align="right"><b>341</b></td>
-<td align="right">43</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/cesanta.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cesanta/v7"><b>cesanta/v7</b></a><br><sub>Embedded JavaScript engine for C/C++</sub></td>
+<td align="right"><b>1,450</b></td>
+<td align="right">181</td>
+<td>C</td>
 </tr>
 <tr>
 <td align="right">90</td>
-<td><img src="https://github.com/ZorinOS.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ZorinOS/zorin-desktop-themes"><b>ZorinOS/zorin-desktop-themes</b></a></td>
-<td align="right"><b>340</b></td>
-<td align="right">53</td>
-<td>CSS</td>
+<td><img src="https://github.com/urschrei.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/urschrei/pyzotero"><b>urschrei/pyzotero</b></a><br><sub>Pyzotero: a Python client for the Zotero API</sub></td>
+<td align="right"><b>1,441</b></td>
+<td align="right">133</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">91</td>
-<td><img src="https://github.com/markhorgan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/markhorgan/click-thru-prototype"><b>markhorgan/click-thru-prototype</b></a></td>
-<td align="right"><b>327</b></td>
-<td align="right">34</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/fandreuz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fandreuz/TUI-ConsoleLauncher"><b>fandreuz/TUI-ConsoleLauncher</b></a><br><sub>Linux CLI Launcher for Android</sub></td>
+<td align="right"><b>1,438</b></td>
+<td align="right">324</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">92</td>
-<td><img src="https://github.com/AIDevGTM.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AIDevGTM/gtm-cofounder"><b>AIDevGTM/gtm-cofounder</b></a></td>
-<td align="right"><b>316</b></td>
-<td align="right">31</td>
-<td>—</td>
+<td><img src="https://github.com/redacted.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/redacted/XKCD-password-generator"><b>redacted/XKCD-password-generator</b></a><br><sub>Generate secure multiword passwords/passphrases, inspired by XKCD</sub></td>
+<td align="right"><b>1,437</b></td>
+<td align="right">191</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">93</td>
-<td><img src="https://github.com/cleder.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cleder/awesome-python-testing"><b>cleder/awesome-python-testing</b></a></td>
-<td align="right"><b>315</b></td>
-<td align="right">60</td>
-<td>—</td>
+<td><img src="https://github.com/WeebLabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/WeebLabs/DSPi"><b>WeebLabs/DSPi</b></a><br><sub>A fully featured audio DSP firmware for the Raspberry Pi Pico (RP2040) and Pico 2 (RP2350). Official Discord: https://d…</sub></td>
+<td align="right"><b>1,425</b></td>
+<td align="right">102</td>
+<td>C</td>
 </tr>
 <tr>
 <td align="right">94</td>
-<td><img src="https://github.com/AnikSarker.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AnikSarker/ACM-Library"><b>AnikSarker/ACM-Library</b></a></td>
-<td align="right"><b>306</b></td>
-<td align="right">120</td>
-<td>C++</td>
+<td><img src="https://github.com/cdpierse.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cdpierse/transformers-interpret"><b>cdpierse/transformers-interpret</b></a><br><sub>Model explainability that works seamlessly with 🤗 transformers. Explain your transformers model in just 2 lines of cod…</sub></td>
+<td align="right"><b>1,418</b></td>
+<td align="right">99</td>
+<td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">95</td>
-<td><img src="https://github.com/filipesilva.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/filipesilva/angular-quickstart-lib"><b>filipesilva/angular-quickstart-lib</b></a></td>
-<td align="right"><b>303</b></td>
-<td align="right">73</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/miguelgrinberg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/miguelgrinberg/flask-video-streaming"><b>miguelgrinberg/flask-video-streaming</b></a><br><sub>Supporting code for my article on video streaming with Flask.</sub></td>
+<td align="right"><b>1,417</b></td>
+<td align="right">514</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">96</td>
-<td><img src="https://github.com/vitaly-t.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vitaly-t/pg-promise-demo"><b>vitaly-t/pg-promise-demo</b></a></td>
-<td align="right"><b>282</b></td>
-<td align="right">81</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/usablica.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/usablica/kissui.scrollanim"><b>usablica/kissui.scrollanim</b></a><br><sub>CSS3 scroll animation library</sub></td>
+<td align="right"><b>1,401</b></td>
+<td align="right">125</td>
+<td>CSS</td>
 </tr>
 <tr>
 <td align="right">97</td>
-<td><img src="https://github.com/bbusschots.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bbusschots/hsxkpasswd"><b>bbusschots/hsxkpasswd</b></a></td>
-<td align="right"><b>280</b></td>
-<td align="right">45</td>
-<td>Perl</td>
+<td><img src="https://github.com/maK-.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maK-/parameth"><b>maK-/parameth</b></a> <sub>archived</sub><br><sub>This tool can be used to brute discover GET and POST parameters</sub></td>
+<td align="right"><b>1,394</b></td>
+<td align="right">193</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">98</td>
-<td><img src="https://github.com/ned14.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ned14/nedtries"><b>ned14/nedtries</b></a> <sub>archived</sub></td>
-<td align="right"><b>276</b></td>
-<td align="right">18</td>
-<td>C++</td>
+<td><img src="https://github.com/cesanta.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cesanta/docker_auth"><b>cesanta/docker&#95;auth</b></a><br><sub>Authentication server for Docker Registry 2</sub></td>
+<td align="right"><b>1,372</b></td>
+<td align="right">309</td>
+<td>Go</td>
 </tr>
 <tr>
 <td align="right">99</td>
-<td><img src="https://github.com/damienmaguire.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/damienmaguire/Stm32-vcu"><b>damienmaguire/Stm32-vcu</b></a></td>
-<td align="right"><b>261</b></td>
-<td align="right">120</td>
-<td>C++</td>
+<td><img src="https://github.com/Arnklit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Arnklit/Waterways"><b>Arnklit/Waterways</b></a><br><sub>A tool to generate river meshes with flow and foam maps based on bezier curves.</sub></td>
+<td align="right"><b>1,355</b></td>
+<td align="right">94</td>
+<td>GDScript</td>
 </tr>
 <tr>
 <td align="right">100</td>
-<td><img src="https://github.com/cleder.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cleder/fastkml"><b>cleder/fastkml</b></a></td>
-<td align="right"><b>255</b></td>
-<td align="right">101</td>
-<td>Python</td>
+<td><img src="https://github.com/adriancooney.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adriancooney/puppeteer-heap-snapshot"><b>adriancooney/puppeteer-heap-snapshot</b></a><br><sub>API and CLI tool to fetch and query Chome DevTools heap snapshots.</sub></td>
+<td align="right"><b>1,346</b></td>
+<td align="right">65</td>
+<td>TypeScript</td>
 </tr>
 </tbody>
 </table>
@@ -729,10 +727,9 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 255 stars; 132 attributed candidates are tracked.
-- 15 entries were carried over from the previous dataset and are pending revalidation.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 1,346 stars; 127 attributed candidates are tracked.
 - 128 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 135 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

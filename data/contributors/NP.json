@@ -5,14 +5,15 @@
 "country": {"code":"NP","name":"Nepal","slug":"nepal"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":406,"measuredAccounts":4,"measurementBacklog":402,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":408,"measuredAccounts":5,"measurementBacklog":403,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjYzNjAyMTY=","login":"lohanidamodar","name":"Damodar Lohani","url":"https://github.com/lohanidamodar","avatarUrl":"https://avatars.githubusercontent.com/u/6360216?s=80&v=4","followers":2096,"publicRepos":199,"location":"Kathmandu, Nepal","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":7940,"commits":7432,"pullRequests":379,"reviews":103,"issues":0,"repositories":26,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
-  {"rank":2,"id":"MDQ6VXNlcjc2ODc0MzQx","login":"devsargam","name":"Sargam","url":"https://github.com/devsargam","avatarUrl":"https://avatars.githubusercontent.com/u/76874341?s=80&v=4","followers":2017,"publicRepos":138,"location":"Nepal","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":569,"commits":530,"pullRequests":18,"reviews":2,"issues":0,"repositories":19,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
-  {"rank":3,"id":"MDQ6VXNlcjcwMTk2NDYy","login":"maheshbasnet089","name":"Manish Basnet","url":"https://github.com/maheshbasnet089","avatarUrl":"https://avatars.githubusercontent.com/u/70196462?s=80&v=4","followers":829,"publicRepos":201,"location":"Itahari, Sunsari, Nepal","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":9,"commits":8,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":2,"id":"MDQ6VXNlcjQ2NTYyMjEy","login":"twlite","name":"Twilight","url":"https://github.com/twlite","avatarUrl":"https://avatars.githubusercontent.com/u/46562212?s=80&v=4","followers":369,"publicRepos":491,"location":"Bhaktapur, Nepal","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":1944,"commits":1738,"pullRequests":117,"reviews":51,"issues":17,"repositories":18,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":3,"id":"MDQ6VXNlcjc2ODc0MzQx","login":"devsargam","name":"Sargam","url":"https://github.com/devsargam","avatarUrl":"https://avatars.githubusercontent.com/u/76874341?s=80&v=4","followers":2017,"publicRepos":138,"location":"Nepal","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":569,"commits":530,"pullRequests":18,"reviews":2,"issues":0,"repositories":19,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":4,"id":"MDQ6VXNlcjcwMTk2NDYy","login":"maheshbasnet089","name":"Manish Basnet","url":"https://github.com/maheshbasnet089","avatarUrl":"https://avatars.githubusercontent.com/u/70196462?s=80&v=4","followers":829,"publicRepos":201,"location":"Itahari, Sunsari, Nepal","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":9,"commits":8,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "bb857a822da5d83f",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "c6164ea2b065cabc",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

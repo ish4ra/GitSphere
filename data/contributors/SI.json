@@ -5,15 +5,16 @@
 "country": {"code":"SI","name":"Slovenia","slug":"slovenia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":404,"measuredAccounts":4,"measurementBacklog":400,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":407,"measuredAccounts":5,"measurementBacklog":402,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjYyODE3MDQ=","login":"igorpecovnik","name":"Igor","url":"https://github.com/igorpecovnik","avatarUrl":"https://avatars.githubusercontent.com/u/6281704?s=80&v=4","followers":937,"publicRepos":83,"location":"Ljubljana","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23","contributions":{"public":7443,"commits":3999,"pullRequests":1776,"reviews":1619,"issues":42,"repositories":7,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":2,"id":"MDQ6VXNlcjY0NjU5OQ==","login":"andrejbauer","name":"Andrej Bauer","url":"https://github.com/andrejbauer","avatarUrl":"https://avatars.githubusercontent.com/u/646599?s=80&v=4","followers":938,"publicRepos":103,"location":"Slovenia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":520,"commits":513,"pullRequests":0,"reviews":0,"issues":0,"repositories":7,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":3,"id":"MDQ6VXNlcjgyMzU4MQ==","login":"luksa","name":"Marko Lukša","url":"https://github.com/luksa","avatarUrl":"https://avatars.githubusercontent.com/u/823581?s=80&v=4","followers":1123,"publicRepos":161,"location":"Slovenia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":68,"commits":67,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
-  {"rank":4,"id":"MDQ6VXNlcjEyNTA4OA==","login":"Kami","name":"Tomaz Muraus","url":"https://github.com/Kami","avatarUrl":"https://avatars.githubusercontent.com/u/125088?s=80&v=4","followers":618,"publicRepos":276,"location":"Ljubljana, Slovenia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":6,"commits":4,"pullRequests":1,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":4,"id":"MDQ6VXNlcjM5MjQyMjQ=","login":"maticzav","name":"Matic Zavadlal","url":"https://github.com/maticzav","avatarUrl":"https://avatars.githubusercontent.com/u/3924224?s=80&v=4","followers":391,"publicRepos":69,"location":"Ljubljana, Slovenia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":30,"commits":29,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":5,"id":"MDQ6VXNlcjEyNTA4OA==","login":"Kami","name":"Tomaz Muraus","url":"https://github.com/Kami","avatarUrl":"https://avatars.githubusercontent.com/u/125088?s=80&v=4","followers":618,"publicRepos":276,"location":"Ljubljana, Slovenia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":6,"commits":4,"pullRequests":1,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "28b2762453a992c4",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "4e732e9c90e45c69",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

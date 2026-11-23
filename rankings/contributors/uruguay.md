@@ -14,17 +14,26 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/contributors/UY.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/UY.json">JSON</a> |
 
 </div>
 
-<p align="center"><sub>Public contributions from <b>22 Nov 2025</b> to <b>22 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
+<p align="center"><sub>Public contributions from <b>23 Nov 2025</b> to <b>23 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
 
 <table>
 <thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Public contributions</th><th align="right">Commits</th><th align="right">PRs</th><th align="right">Reviews</th><th align="right">Issues</th></tr></thead>
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/daedalus"><img src="https://avatars.githubusercontent.com/u/115175?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/daedalus"><b>Darío Clavijo</b></a><br><sub>&#64;daedalus · 394 followers</sub></td>
+<td align="right"><b>6,758</b></td>
+<td align="right">6,169</td>
+<td align="right">483</td>
+<td align="right">11</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/diegomura"><img src="https://avatars.githubusercontent.com/u/5600341?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/diegomura"><b>Diego Muracciole</b></a><br><sub>&#64;diegomura · 1,780 followers</sub></td>
 <td align="right"><b>369</b></td>
 <td align="right">188</td>
@@ -33,7 +42,7 @@
 <td align="right">4</td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">3</td>
 <td><a href="https://github.com/ElMassimo"><img src="https://avatars.githubusercontent.com/u/1158253?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ElMassimo"><b>Máximo Mussini</b></a><br><sub>&#64;ElMassimo · 535 followers</sub></td>
 <td align="right"><b>229</b></td>
 <td align="right">176</td>
@@ -42,7 +51,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/spastorino"><img src="https://avatars.githubusercontent.com/u/52642?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/spastorino"><b>Santiago Pastorino</b></a><br><sub>&#64;spastorino · 1,152 followers</sub></td>
 <td align="right"><b>38</b></td>
 <td align="right">23</td>
@@ -57,7 +66,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 3 of 402 discovered developers (399 awaiting measurement).
+- **Measured:** 4 of 402 discovered developers (398 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

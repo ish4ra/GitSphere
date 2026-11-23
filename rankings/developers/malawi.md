@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/developers/MW.json">JSON</a> |
+| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/developers/MW.json">JSON</a> |
 
 </div>
 
@@ -56,6 +56,13 @@
 <td align="right">45</td>
 <td><sub>Lilongwe, Malawi</sub></td>
 </tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/Cardkess-SG"><img src="https://avatars.githubusercontent.com/u/143350874?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Cardkess-SG"><b>Blessings Chidambe</b></a><br><sub>&#64;Cardkess-SG</sub></td>
+<td align="right"><b>374</b></td>
+<td align="right">1</td>
+<td><sub>Blantyre, MALAWI</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -64,8 +71,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 5 attributed developers are tracked; the cutoff is 496 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 6 attributed developers are tracked; the cutoff is 374 followers.
+- **Location discovery:** term 0 of 46 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

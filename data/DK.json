@@ -5,7 +5,7 @@
 "country": {"code":"DK","name":"Denmark","slug":"denmark"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":1788,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":128,"candidates":124,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":154,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":1788,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":128,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":154,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxMDI5MDQ2MTM=","name":"ml-agents","nameWithOwner":"Unity-Technologies/ml-agents","url":"https://github.com/Unity-Technologies/ml-agents","description":"The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intell…","stars":19891,"forks":4523,"primaryLanguage":"C#","license":{"spdxId":"NOASSERTION"},"createdAt":"2017-09-08T21:09:04Z","pushedAt":"2026-11-21T01:30:11Z","archived":false,"owner":{"login":"Unity-Technologies","name":"Unity Technologies","type":"Organization","url":"https://github.com/Unity-Technologies","location":"Copenhagen, Denmark","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkxNjQ3MzU4NQ==","name":"subtitleedit","nameWithOwner":"SubtitleEdit/subtitleedit","url":"https://github.com/SubtitleEdit/subtitleedit","description":"the subtitle editor :)","stars":15094,"forks":1393,"primaryLanguage":"C#","license":{"spdxId":"MIT"},"createdAt":"2014-02-03T08:17:41Z","pushedAt":"2026-11-22T10:08:44Z","archived":false,"owner":{"login":"SubtitleEdit","name":"SubtitleEdit","type":"Organization","url":"https://github.com/SubtitleEdit","location":"Denmark","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"MDEwOlJlcG9zaXRvcnkxMjY3MTA0NTE=","name":"OpenXLSX","nameWithOwner":"troldal/OpenXLSX","url":"https://github.com/troldal/OpenXLSX","description":"A C++ library for reading, writing, creating and modifying Microsoft Excel® (.xlsx) files.","stars":1788,"forks":392,"primaryLanguage":"C++","license":{"spdxId":"BSD-3-Clause"},"createdAt":"2018-03-25T15:16:41Z","pushedAt":"2026-06-15T15:27:22Z","archived":false,"owner":{"login":"troldal","name":"Kenneth Troldal Balslev","type":"User","url":"https://github.com/troldal","location":"Nakskov, Denmark","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-23"},
   {"rank":100,"id":"MDEwOlJlcG9zaXRvcnkxMjQ5Nzc2NDY=","name":"Animation-Instancing","nameWithOwner":"Unity-Technologies/Animation-Instancing","url":"https://github.com/Unity-Technologies/Animation-Instancing","description":"This technique is designed to instance Characters(SkinnedMeshRender).","stars":1788,"forks":307,"primaryLanguage":"C#","license":{"spdxId":"NOASSERTION"},"createdAt":"2018-03-13T02:04:25Z","pushedAt":"2024-03-06T08:22:22Z","archived":false,"owner":{"login":"Unity-Technologies","name":"Unity Technologies","type":"Organization","url":"https://github.com/Unity-Technologies","location":"Copenhagen, Denmark","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "86ecc191540813cd",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "22950c6b16094f80",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

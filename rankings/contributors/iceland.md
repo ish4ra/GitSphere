@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/IS.json">JSON</a> |
+| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/IS.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,15 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/gusthavosouza"><img src="https://avatars.githubusercontent.com/u/2455276?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gusthavosouza"><b>Gustavo De Souza</b></a><br><sub>&#64;gusthavosouza · 69 followers</sub></td>
+<td align="right"><b>1,698</b></td>
+<td align="right">674</td>
+<td align="right">371</td>
+<td align="right">188</td>
+<td align="right">464</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/koddsson"><img src="https://avatars.githubusercontent.com/u/318208?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/koddsson"><b>Kristján Oddsson</b></a><br><sub>&#64;koddsson · 484 followers</sub></td>
 <td align="right"><b>1,022</b></td>
 <td align="right">556</td>
@@ -51,13 +60,22 @@
 <td align="right">199</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/IcelandicCenterArtificialIntelligence"><img src="https://avatars.githubusercontent.com/u/170871719?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IcelandicCenterArtificialIntelligence"><b>ICAI Icelandic Center for Artificial Intelligence</b></a><br><sub>&#64;IcelandicCenterArtificialIntelligence · 2 followers</sub></td>
 <td align="right"><b>54</b></td>
 <td align="right">2</td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">3</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/kevien"><img src="https://avatars.githubusercontent.com/u/3909737?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kevien"><b>K3vin</b></a><br><sub>&#64;kevien · 202 followers</sub></td>
+<td align="right"><b>8</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
 </tr>
 </tbody>
 </table>
@@ -66,7 +84,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 4 of 413 discovered developers (409 awaiting measurement).
+- **Measured:** 6 of 420 discovered developers (414 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 107 in round 1.
