@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/CV.json">JSON</a> |
+| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/CV.json">JSON</a> |
 
 </div>
 
@@ -79,6 +79,15 @@
 </tr>
 <tr>
 <td align="right">7</td>
+<td><a href="https://github.com/pinheiroanifa5"><img src="https://avatars.githubusercontent.com/u/63198620?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pinheiroanifa5"><b>Anifa Pinheiro</b></a><br><sub>&#64;pinheiroanifa5 · 24 followers</sub></td>
+<td align="right"><b>23</b></td>
+<td align="right">14</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">8</td>
 <td><a href="https://github.com/Shipow"><img src="https://avatars.githubusercontent.com/u/976175?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Shipow"><b>Kevin Granger</b></a><br><sub>&#64;Shipow · 907 followers</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">8</td>
@@ -87,11 +96,20 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/japsancha"><img src="https://avatars.githubusercontent.com/u/435622?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/japsancha"><b>Joaquim Sancha</b></a><br><sub>&#64;japsancha · 1 followers</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">6</td>
 <td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/Pavankunchala"><img src="https://avatars.githubusercontent.com/u/39479635?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Pavankunchala"><b>Pavan Kunchala</b></a><br><sub>&#64;Pavankunchala · 291 followers</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td align="right">2</td>
 <td align="right">0</td>
 <td align="right">0</td>
 </tr>
@@ -102,7 +120,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 11 of 185 discovered developers (174 awaiting measurement).
+- **Measured:** 13 of 186 discovered developers (173 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 1 of 120 in round 1.

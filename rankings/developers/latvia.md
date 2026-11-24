@@ -130,7 +130,7 @@
 <td align="right">16</td>
 <td><a href="https://github.com/arthepsy"><img src="https://avatars.githubusercontent.com/u/7356025?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arthepsy"><b>Andris Raugulis</b></a><br><sub>&#64;arthepsy</sub></td>
 <td align="right"><b>254</b></td>
-<td align="right">0</td>
+<td align="right">66</td>
 <td><sub>Latvia</sub></td>
 </tr>
 <tr>
@@ -332,7 +332,7 @@
 <tr>
 <td align="right">45</td>
 <td><a href="https://github.com/rabestro"><img src="https://avatars.githubusercontent.com/u/52966251?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rabestro"><b>Jegors Čemisovs</b></a><br><sub>&#64;rabestro</sub></td>
-<td align="right"><b>117</b></td>
+<td align="right"><b>116</b></td>
 <td align="right">153</td>
 <td><sub>Latvia</sub></td>
 </tr>

@@ -5,7 +5,7 @@
 "country": {"code":"NZ","name":"New Zealand","slug":"new-zealand"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":1146,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":122,"candidates":128,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":123,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":1146,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":122,"candidates":148,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":123,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk1OTIzOTM0Nw==","name":"portainer","nameWithOwner":"portainer/portainer","url":"https://github.com/portainer/portainer","description":"Making Docker and Kubernetes management easy.","stars":38886,"forks":2945,"primaryLanguage":"TypeScript","license":{"spdxId":"Zlib"},"createdAt":"2016-05-19T20:15:28Z","pushedAt":"2026-11-20T13:01:25Z","archived":false,"owner":{"login":"portainer","name":"Portainer.io","type":"Organization","url":"https://github.com/portainer","location":"Auckland, New Zealand","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkxNjQ1NTQ4MzI=","name":"handson-ml2","nameWithOwner":"ageron/handson-ml2","url":"https://github.com/ageron/handson-ml2","description":"⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 or handson-mlp instead.","stars":29946,"forks":13117,"primaryLanguage":"Jupyter Notebook","license":{"spdxId":"Apache-2.0"},"createdAt":"2019-01-08T03:49:07Z","pushedAt":"2026-05-19T23:02:20Z","archived":false,"owner":{"login":"ageron","name":"Aurélien Geron","type":"User","url":"https://github.com/ageron","location":"Auckland","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"MDEwOlJlcG9zaXRvcnk1NjM5MzA1Nw==","name":"solidity-stringutils","nameWithOwner":"Arachnid/solidity-stringutils","url":"https://github.com/Arachnid/solidity-stringutils","description":"Basic string utilities for Solidity","stars":1156,"forks":372,"primaryLanguage":"Solidity","license":{"spdxId":"Apache-2.0"},"createdAt":"2016-04-16T16:11:57Z","pushedAt":"2023-08-21T09:57:36Z","archived":false,"owner":{"login":"Arachnid","name":"Nick Johnson","type":"User","url":"https://github.com/Arachnid","location":"Christchurch, New Zealand","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-23"},
   {"rank":100,"id":"R_kgDOVeqKbQ","name":"claude-animation-skills","nameWithOwner":"artemnovitckii/claude-animation-skills","url":"https://github.com/artemnovitckii/claude-animation-skills","description":"Eleven Claude Code skills that make animations for reels, no footage needed: low-poly, Minecraft-style voxel, 3D cartoon explainer, Kurzgesagt-style space, Dan…","stars":1146,"forks":164,"primaryLanguage":"JavaScript","license":{"spdxId":"NOASSERTION"},"createdAt":"2026-11-01T02:53:31Z","pushedAt":"2026-11-17T10:15:03Z","archived":false,"owner":{"login":"artemnovitckii","name":"Artem Novitckii","type":"User","url":"https://github.com/artemnovitckii","location":"Auckland, New Zealand","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "66cf126f8d72280e",
-"updatedAt": "2026-11-24T01:31:49.018Z",
+"contentHash": "2b405f4042eff9bf",
+"updatedAt": "2026-11-24T11:36:56.631Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T01:31:49.018Z"
+"generatedAt": "2026-11-24T11:36:56.631Z"
 }

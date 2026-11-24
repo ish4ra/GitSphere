@@ -5,7 +5,7 @@
 "country": {"code":"TR","name":"Türkiye","slug":"turkiye"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":1593,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":147,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":1593,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":147,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":169,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOIj6G7A","name":"prompts.chat","nameWithOwner":"f/prompts.chat","url":"https://github.com/f/prompts.chat","description":"f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete p…","stars":178229,"forks":22732,"primaryLanguage":"MDX","license":{"spdxId":"NOASSERTION"},"createdAt":"2022-12-05T13:54:13Z","pushedAt":"2026-11-22T03:13:47Z","archived":false,"owner":{"login":"f","name":"Fatih Kadir Akın","type":"User","url":"https://github.com/f","location":"Istanbul, Turkey","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"R_kgDOGwsu2A","name":"jsoncrack.com","nameWithOwner":"AykutSarac/jsoncrack.com","url":"https://github.com/AykutSarac/jsoncrack.com","description":"✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.","stars":44603,"forks":3586,"primaryLanguage":"TypeScript","license":{"spdxId":"Apache-2.0"},"createdAt":"2022-01-30T15:25:18Z","pushedAt":"2026-09-14T15:39:27Z","archived":false,"owner":{"login":"AykutSarac","name":"Aykut Saraç","type":"User","url":"https://github.com/AykutSarac","location":"Turkey","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"R_kgDORisV-A","name":"Nookery","nameWithOwner":"flyngmt/Nookery","url":"https://github.com/flyngmt/Nookery","description":"Unofficial Windows/Linux/macOS/Android/iOS Port of Animal Crossing Gamecube","stars":1597,"forks":147,"primaryLanguage":"C","license":{"spdxId":"NOASSERTION"},"createdAt":"2026-03-09T20:31:09Z","pushedAt":"2026-11-08T19:47:02Z","archived":false,"owner":{"login":"flyngmt","name":"FlyingMeta","type":"User","url":"https://github.com/flyngmt","location":"Turkey","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-23"},
   {"rank":100,"id":"MDEwOlJlcG9zaXRvcnkzNDczMDAyMTU=","name":"fonts","nameWithOwner":"cancng/fonts","url":"https://github.com/cancng/fonts","description":null,"stars":1593,"forks":13,"primaryLanguage":"Shell","license":null,"createdAt":"2021-03-13T07:11:15Z","pushedAt":"2024-08-15T22:18:47Z","archived":false,"owner":{"login":"cancng","name":"Mahmut Can Çıngı","type":"User","url":"https://github.com/cancng","location":"Adana/Turkey","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "744f9e4806d813b4",
-"updatedAt": "2026-11-24T01:31:49.018Z",
+"contentHash": "f678070f7643b6fd",
+"updatedAt": "2026-11-24T11:36:56.631Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T01:31:49.018Z"
+"generatedAt": "2026-11-24T11:36:56.631Z"
 }

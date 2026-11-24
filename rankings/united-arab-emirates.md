@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **75** | 03 Nov 2026 | <a href="../data/AE.json">JSON</a> |
+| 🟠 Stale | **87** | 03 Nov 2026 | <a href="../data/AE.json">JSON</a> |
 
-> **Not yet re-verified.** 13 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 3 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -459,90 +459,174 @@
 </tr>
 <tr>
 <td align="right">63</td>
-<td><img src="https://github.com/anantcodes.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anantcodes/CryptoX"><b>anantcodes/CryptoX</b></a></td>
-<td align="right"><b>31</b></td>
-<td align="right">1</td>
-<td>Swift</td>
+<td><img src="https://github.com/finom.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/finom/matreshka"><b>finom/matreshka</b></a><br><sub>An old-school framework, maintained since 2013: two-way data binding for the HTML you already have.</sub></td>
+<td align="right"><b>894</b></td>
+<td align="right">66</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">64</td>
-<td><img src="https://github.com/PanPip.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PanPip/AlphaZero_trader"><b>PanPip/AlphaZero&#95;trader</b></a></td>
-<td align="right"><b>27</b></td>
-<td align="right">17</td>
-<td>Jupyter Notebook</td>
+<td><img src="https://github.com/hieuvp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hieuvp/react-native-fingerprint-scanner"><b>hieuvp/react-native-fingerprint-scanner</b></a><br><sub>Provide Fingerprint, Touch ID, and Face ID Scanner for React Native (Compatible with both Android and iOS)</sub></td>
+<td align="right"><b>888</b></td>
+<td align="right">298</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">65</td>
-<td><img src="https://github.com/AhmedEzzatG.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmedEzzatG/competitiveProgramming"><b>AhmedEzzatG/competitiveProgramming</b></a></td>
-<td align="right"><b>27</b></td>
-<td align="right">4</td>
-<td>C++</td>
+<td><img src="https://github.com/themsaid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/themsaid/laravel-langman"><b>themsaid/laravel-langman</b></a><br><sub>Language files manager in your artisan console.</sub></td>
+<td align="right"><b>871</b></td>
+<td align="right">164</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">66</td>
-<td><img src="https://github.com/Huzaifaahmed20.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Huzaifaahmed20/flutter_fire_chat_app"><b>Huzaifaahmed20/flutter&#95;fire&#95;chat&#95;app</b></a></td>
-<td align="right"><b>26</b></td>
-<td align="right">8</td>
-<td>Dart</td>
+<td><img src="https://github.com/yukinarit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yukinarit/pyserde"><b>yukinarit/pyserde</b></a><br><sub>Yet another serialization library on top of dataclasses, inspired by serde-rs.</sub></td>
+<td align="right"><b>854</b></td>
+<td align="right">68</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">67</td>
-<td><img src="https://github.com/NdekoCode.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NdekoCode/spotify-app"><b>NdekoCode/spotify-app</b></a></td>
-<td align="right"><b>16</b></td>
-<td align="right">1</td>
+<td><img src="https://github.com/creativeaura.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/creativeaura/threesixty-slider"><b>creativeaura/threesixty-slider</b></a><br><sub>jQuery 360 image slider plugin</sub></td>
+<td align="right"><b>851</b></td>
+<td align="right">224</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">68</td>
-<td><img src="https://github.com/cr2007.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cr2007/whatsapp-voice-ai-assistant"><b>cr2007/whatsapp-voice-ai-assistant</b></a></td>
-<td align="right"><b>15</b></td>
-<td align="right">2</td>
-<td>Go</td>
-</tr>
-<tr>
-<td align="right">69</td>
-<td><img src="https://github.com/1cucer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/1cucer/Chess"><b>1cucer/Chess</b></a></td>
-<td align="right"><b>14</b></td>
-<td align="right">321</td>
-<td>Kotlin</td>
-</tr>
-<tr>
-<td align="right">70</td>
-<td><img src="https://github.com/TadesseDev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TadesseDev/150_MIU-MUM_sample_questions_and_answers"><b>TadesseDev/150&#95;MIU-MUM&#95;sample&#95;questions&#95;and&#95;answers</b></a></td>
-<td align="right"><b>14</b></td>
-<td align="right">1</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">71</td>
-<td><img src="https://github.com/ibrahim-kukash.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ibrahim-kukash/thesis-writer"><b>ibrahim-kukash/thesis-writer</b></a></td>
-<td align="right"><b>14</b></td>
-<td align="right">0</td>
+<td><img src="https://github.com/haonan-li.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/haonan-li/CMMLU"><b>haonan-li/CMMLU</b></a><br><sub>CMMLU: Measuring massive multitask language understanding in Chinese</sub></td>
+<td align="right"><b>840</b></td>
+<td align="right">66</td>
 <td>Python</td>
 </tr>
 <tr>
+<td align="right">69</td>
+<td><img src="https://github.com/alexander-zuev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexander-zuev/supabase-mcp-server"><b>alexander-zuev/supabase-mcp-server</b></a><br><sub>Query MCP enables end-to-end management of Supabase via chat interface: read &amp; write query executions, management API s…</sub></td>
+<td align="right"><b>837</b></td>
+<td align="right">103</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/mohabouje.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mohabouje/WinToast"><b>mohabouje/WinToast</b></a><br><sub>WinToast is a lightly library written in C++ which brings a complete integration of the modern toast notifications of W…</sub></td>
+<td align="right"><b>834</b></td>
+<td align="right">150</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/carlonzo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/carlonzo/StikkyHeader"><b>carlonzo/StikkyHeader</b></a><br><sub>This is a very simple library for Android that allows you to stick an header to a scrollable view and easily apply anim…</sub></td>
+<td align="right"><b>829</b></td>
+<td align="right">175</td>
+<td>Java</td>
+</tr>
+<tr>
 <td align="right">72</td>
-<td><img src="https://github.com/delovoyhomie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/delovoyhomie/description-config-for-TON-Blockchain"><b>delovoyhomie/description-config-for-TON-Blockchain</b></a></td>
-<td align="right"><b>12</b></td>
-<td align="right">6</td>
-<td>—</td>
+<td><img src="https://github.com/mythxn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mythxn/designcode-swiftui"><b>mythxn/designcode-swiftui</b></a><br><sub>📱 an app fully written in swiftui showcasing beautiful design and animations</sub></td>
+<td align="right"><b>828</b></td>
+<td align="right">95</td>
+<td>Swift</td>
 </tr>
 <tr>
 <td align="right">73</td>
+<td><img src="https://github.com/ematvey.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ematvey/pybacktest"><b>ematvey/pybacktest</b></a><br><sub>Vectorized backtesting framework in Python / pandas, designed to make your backtesting easier — compact, simple and fast</sub></td>
+<td align="right"><b>825</b></td>
+<td align="right">239</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/MohmmedAshraf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MohmmedAshraf/laravel-translations"><b>MohmmedAshraf/laravel-translations</b></a><br><sub>Laravel Translations UI package provides a user-friendly interface for managing translations in your Laravel applicatio…</sub></td>
+<td align="right"><b>820</b></td>
+<td align="right">114</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/mbzuai-nlp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mbzuai-nlp/LaMini-LM"><b>mbzuai-nlp/LaMini-LM</b></a><br><sub>LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions</sub></td>
+<td align="right"><b>820</b></td>
+<td align="right">49</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/alexal1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexal1/Insomniac"><b>alexal1/Insomniac</b></a> <sub>archived</sub><br><sub>Instagram bot for automated Instagram interaction using Android device via ADB</sub></td>
+<td align="right"><b>815</b></td>
+<td align="right">170</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/2captcha.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/2captcha/2captcha-python"><b>2captcha/2captcha-python</b></a><br><sub>Python 3 package for easy integration with the API of 2captcha captcha solving service to bypass recaptcha, сloudflare…</sub></td>
+<td align="right"><b>815</b></td>
+<td align="right">143</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/JBZoo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JBZoo/Utils"><b>JBZoo/Utils</b></a><br><sub>Collection of useful PHP functions, mini-classes, and snippets for every day.</sub></td>
+<td align="right"><b>811</b></td>
+<td align="right">71</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/tiiuae.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tiiuae/Falcon-Perception"><b>tiiuae/Falcon-Perception</b></a><br><sub>Inference repo for Falcon-Perception and Falcon-OCR model, early-fusion, natively multimodal, dense Autoregressive Tran…</sub></td>
+<td align="right"><b>800</b></td>
+<td align="right">80</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/techwithtim.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/techwithtim/NEAT-Flappy-Bird"><b>techwithtim/NEAT-Flappy-Bird</b></a><br><sub>An AI that plays flappy bird! Using the NEAT python module.</sub></td>
+<td align="right"><b>789</b></td>
+<td align="right">488</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/mathusiast.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mathusiast/jquery.hotkeys"><b>mathusiast/jquery.hotkeys</b></a><br><sub>jquery.hotkeys plugin lets you easily add and remove handlers for keyboard events anywhere in your code supporting almo…</sub></td>
+<td align="right"><b>785</b></td>
+<td align="right">625</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/HavenDV.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HavenDV/H.NotifyIcon"><b>HavenDV/H.NotifyIcon</b></a><br><sub>TrayIcon for WPF/WinUI/Uno/MAUI</sub></td>
+<td align="right"><b>771</b></td>
+<td align="right">57</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><img src="https://github.com/jublo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jublo/codebird-php"><b>jublo/codebird-php</b></a><br><sub>Easy access to the Twitter REST API, Direct Messages API, Account Activity API, TON (Object Nest) API and Twitter Ads A…</sub></td>
+<td align="right"><b>770</b></td>
+<td align="right">227</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><img src="https://github.com/echo724.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/echo724/notion2md"><b>echo724/notion2md</b></a><br><sub>Notion Markdown Exporter with Python Cli</sub></td>
+<td align="right"><b>760</b></td>
+<td align="right">61</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">85</td>
 <td><img src="https://github.com/kilamaelie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kilamaelie/build-and-deploy-reactApp-to-aws-ec2-via-github-actions"><b>kilamaelie/build-and-deploy-reactApp-to-aws-ec2-via-github-actions</b></a></td>
 <td align="right"><b>9</b></td>
 <td align="right">5</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">74</td>
+<td align="right">86</td>
 <td><img src="https://github.com/menacedjava.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/menacedjava/menacedjava"><b>menacedjava/menacedjava</b></a></td>
 <td align="right"><b>9</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">75</td>
+<td align="right">87</td>
 <td><img src="https://github.com/evalexdy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/evalexdy/Keywords-Generator"><b>evalexdy/Keywords-Generator</b></a></td>
 <td align="right"><b>8</b></td>
 <td align="right">6</td>
@@ -556,9 +640,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 8 stars; 75 attributed candidates are tracked.
-- 13 entries were carried over from the previous dataset and are pending revalidation.
-- 124 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 8 stars; 87 attributed candidates are tracked.
+- 3 entries were carried over from the previous dataset and are pending revalidation.
+- 119 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 98 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

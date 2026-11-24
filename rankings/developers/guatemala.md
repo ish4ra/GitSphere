@@ -52,7 +52,7 @@
 <tr>
 <td align="right">5</td>
 <td><a href="https://github.com/bryan967132"><img src="https://avatars.githubusercontent.com/u/81400332?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bryan967132"><b>Bryan Tejaxún</b></a><br><sub>&#64;bryan967132</sub></td>
-<td align="right"><b>272</b></td>
+<td align="right"><b>273</b></td>
 <td align="right">73</td>
 <td><sub>Guatemala</sub></td>
 </tr>
@@ -142,17 +142,17 @@
 </tr>
 <tr>
 <td align="right">18</td>
-<td><a href="https://github.com/elmergustavo"><img src="https://avatars.githubusercontent.com/u/42653934?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elmergustavo"><b>Gustavo (tavcode)</b></a><br><sub>&#64;elmergustavo</sub></td>
-<td align="right"><b>118</b></td>
-<td align="right">112</td>
-<td><sub>Quetzaltenango, Guatemala</sub></td>
-</tr>
-<tr>
-<td align="right">19</td>
 <td><a href="https://github.com/cms"><img src="https://avatars.githubusercontent.com/u/130128?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cms"><b>Christian C. Salvadó</b></a><br><sub>&#64;cms</sub></td>
 <td align="right"><b>118</b></td>
 <td align="right">31</td>
 <td><sub>Guatemala</sub></td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><a href="https://github.com/elmergustavo"><img src="https://avatars.githubusercontent.com/u/42653934?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elmergustavo"><b>Gustavo (tavcode)</b></a><br><sub>&#64;elmergustavo</sub></td>
+<td align="right"><b>117</b></td>
+<td align="right">112</td>
+<td><sub>Quetzaltenango, Guatemala</sub></td>
 </tr>
 <tr>
 <td align="right">20</td>

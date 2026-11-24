@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/PL.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/PL.json">JSON</a> |
 
 </div>
 
@@ -43,7 +43,7 @@
 </tr>
 <tr>
 <td align="right">3</td>
-<td><a href="https://github.com/mrexodia"><img src="https://avatars.githubusercontent.com/u/2458265?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrexodia"><b>Duncan Ogilvie</b></a><br><sub>&#64;mrexodia · 4,045 followers</sub></td>
+<td><a href="https://github.com/mrexodia"><img src="https://avatars.githubusercontent.com/u/2458265?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrexodia"><b>Duncan Ogilvie</b></a><br><sub>&#64;mrexodia · 4,048 followers</sub></td>
 <td align="right"><b>3,234</b></td>
 <td align="right">2,639</td>
 <td align="right">305</td>
@@ -79,6 +79,15 @@
 </tr>
 <tr>
 <td align="right">7</td>
+<td><a href="https://github.com/peterblazejewicz"><img src="https://avatars.githubusercontent.com/u/14539?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/peterblazejewicz"><b>Piotr Błażejewicz (Peter Blazejewicz)</b></a><br><sub>&#64;peterblazejewicz · 273 followers</sub></td>
+<td align="right"><b>156</b></td>
+<td align="right">130</td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">8</td>
 <td><a href="https://github.com/sheerun"><img src="https://avatars.githubusercontent.com/u/292365?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sheerun"><b>Adam Stankiewicz</b></a><br><sub>&#64;sheerun · 549 followers</sub></td>
 <td align="right"><b>41</b></td>
 <td align="right">35</td>
@@ -93,7 +102,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 7 of 782 discovered developers (775 awaiting measurement).
+- **Measured:** 9 of 854 discovered developers (845 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 170 in round 1.

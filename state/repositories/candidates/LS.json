@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"LS","name":"Lesotho","slug":"lesotho"},
-"count": 149,
+"count": 147,
 "repositories": [
-  {"name":"ramoletane/real_estate","stars":26,"forks":15,"language":"Python","license":"NOASSERTION","archived":false,"createdAt":"2019-09-12T13:39:58Z","pushedAt":"2020-03-24T12:04:02Z","owner":{"login":"ramoletane","type":"User","name":"Ramoletane Lekhanya","location":"Maseru, Lesotho"},"attribution":{"code":"LS","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T22:12:34.760Z","id":"legacy:ramoletane/real_estate","legacy":true},
-  {"name":"MissPurrple/claw-code-swipe","stars":20,"forks":15,"language":"Rust","archived":false,"createdAt":"2026-04-02T14:05:58Z","pushedAt":"2026-04-02T14:15:17Z","owner":{"login":"MissPurrple","type":"User","name":"Miss Purple","location":"Lesotho"},"attribution":{"code":"LS","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T22:12:34.760Z","id":"legacy:misspurrple/claw-code-swipe","legacy":true},
   {"name":"letele/playing-cards","stars":7,"forks":3,"language":"JavaScript","license":"CC0-1.0","archived":false,"createdAt":"2023-08-02T06:57:42Z","pushedAt":"2023-08-18T15:27:43Z","owner":{"login":"letele","type":"User","location":"HaNelese, Maseru, Lesotho"},"attribution":{"code":"LS","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T22:12:34.760Z","id":"legacy:letele/playing-cards","legacy":true},
   {"name":"nkalait/mamela-audiobook-player-open","stars":7,"forks":0,"language":"Go","archived":false,"createdAt":"2024-01-24T10:28:53Z","pushedAt":"2025-11-03T07:26:45Z","owner":{"login":"nkalait","type":"User","name":"Tsepo Nkalai","location":"Maseru, Lesotho"},"attribution":{"code":"LS","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T22:12:34.760Z","id":"legacy:nkalait/mamela-audiobook-player-open","legacy":true},
   {"name":"ntholi/fivedays-prototype","stars":7,"forks":0,"language":"TypeScript","archived":false,"createdAt":"2023-05-12T06:40:11Z","pushedAt":"2023-11-01T21:11:38Z","owner":{"login":"ntholi","type":"User","name":"Ntholi Nkhatho","location":"Maseru"},"attribution":{"code":"LS","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-01T22:12:34.760Z","id":"legacy:ntholi/fivedays-prototype","legacy":true},

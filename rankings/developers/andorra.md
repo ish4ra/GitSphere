@@ -80,7 +80,7 @@
 <tr>
 <td align="right">9</td>
 <td><a href="https://github.com/matchilling"><img src="https://avatars.githubusercontent.com/u/9844253?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/matchilling"><b>Matías J. Schilling</b></a><br><sub>&#64;matchilling</sub></td>
-<td align="right"><b>129</b></td>
+<td align="right"><b>128</b></td>
 <td align="right">85</td>
 <td><sub>Andorra</sub></td>
 </tr>
@@ -122,7 +122,7 @@
 <tr>
 <td align="right">15</td>
 <td><a href="https://github.com/XaviTorello"><img src="https://avatars.githubusercontent.com/u/8709244?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/XaviTorello"><b>Xavi Torelló</b></a><br><sub>&#64;XaviTorello</sub></td>
-<td align="right"><b>89</b></td>
+<td align="right"><b>88</b></td>
 <td align="right">83</td>
 <td><sub>Andorra</sub></td>
 </tr>

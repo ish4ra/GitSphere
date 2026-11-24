@@ -5,7 +5,7 @@
 "country": {"code":"VN","name":"Vietnam","slug":"vietnam"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":905,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":119,"candidates":101,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":905,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":119,"candidates":126,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOQfttOw","name":"ui-ux-pro-max-skill","nameWithOwner":"nextlevelbuilder/ui-ux-pro-max-skill","url":"https://github.com/nextlevelbuilder/ui-ux-pro-max-skill","description":"An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.","stars":152639,"forks":16094,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2025-11-30T11:36:31Z","pushedAt":"2026-11-22T04:08:27Z","archived":false,"owner":{"login":"nextlevelbuilder","name":"Next Level Builder","type":"Organization","url":"https://github.com/nextlevelbuilder","location":"Vietnam","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnk3MDQzMTEwNg==","name":"machine-learning-for-software-engineers","nameWithOwner":"ZuzooVn/machine-learning-for-software-engineers","url":"https://github.com/ZuzooVn/machine-learning-for-software-engineers","description":"A complete daily plan for studying to become a machine learning engineer.","stars":28880,"forks":6136,"primaryLanguage":null,"license":{"spdxId":"CC-BY-SA-4.0"},"createdAt":"2016-10-09T21:20:25Z","pushedAt":"2024-06-11T04:49:29Z","archived":false,"owner":{"login":"ZuzooVn","name":"Nam Vu","type":"User","url":"https://github.com/ZuzooVn","location":"Vietnam","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"R_kgDOVBiftw","name":"crucible","nameWithOwner":"codepawl/crucible","url":"https://github.com/codepawl/crucible","description":"3D engine that AI agents drive","stars":915,"forks":84,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2026-10-08T20:06:27Z","pushedAt":"2026-11-23T21:35:52Z","archived":false,"owner":{"login":"codepawl","name":"CodePawl","type":"Organization","url":"https://github.com/codepawl","location":"Vietnam","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-24"},
   {"rank":100,"id":"R_kgDOTHrQdQ","name":"javis-os","nameWithOwner":"blogminhquy/javis-os","url":"https://github.com/blogminhquy/javis-os","description":null,"stars":905,"forks":286,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2026-06-28T15:07:57Z","pushedAt":"2026-11-24T00:52:20Z","archived":false,"owner":{"login":"blogminhquy","name":"Nguyễn Minh Quý","type":"User","url":"https://github.com/blogminhquy","location":"Việt Nam","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "f2970f9640f1a4fa",
-"updatedAt": "2026-11-24T01:31:49.018Z",
+"contentHash": "54ce2336c71ab550",
+"updatedAt": "2026-11-24T11:36:56.631Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T01:31:49.018Z"
+"generatedAt": "2026-11-24T11:36:56.631Z"
 }

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/TN.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/TN.json">JSON</a> |
 
 </div>
 
@@ -70,12 +70,30 @@
 </tr>
 <tr>
 <td align="right">6</td>
+<td><a href="https://github.com/abdennour"><img src="https://avatars.githubusercontent.com/u/1788384?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdennour"><b>abdennour</b></a><br><sub>&#64;abdennour · 272 followers</sub></td>
+<td align="right"><b>67</b></td>
+<td align="right">56</td>
+<td align="right">2</td>
+<td align="right">1</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/machour"><img src="https://avatars.githubusercontent.com/u/304450?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/machour"><b>Mehdi Achour</b></a><br><sub>&#64;machour · 484 followers</sub></td>
 <td align="right"><b>54</b></td>
 <td align="right">18</td>
 <td align="right">15</td>
 <td align="right">1</td>
 <td align="right">12</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/SelimHorri"><img src="https://avatars.githubusercontent.com/u/40203497?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SelimHorri"><b>Selim Horri</b></a><br><sub>&#64;SelimHorri · 2,291 followers</sub></td>
+<td align="right"><b>24</b></td>
+<td align="right">23</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
 </tr>
 </tbody>
 </table>
@@ -84,10 +102,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 6 of 412 discovered developers (406 awaiting measurement).
+- **Measured:** 8 of 412 discovered developers (404 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 154 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"CK","name":"Cook Islands","slug":"cook-islands"},
-"count": 33,
+"count": 32,
 "repositories": [
-  {"name":"cacamelio/fatality-source-fixed","stars":23,"forks":8,"language":"C++","archived":false,"createdAt":"2025-08-13T17:06:13Z","pushedAt":"2026-07-12T08:58:29Z","owner":{"login":"cacamelio","type":"User","location":"Aitutaki, Cook Islands"},"attribution":{"code":"CK","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-25T16:32:23.797Z","id":"legacy:cacamelio/fatality-source-fixed","legacy":true},
   {"name":"D-Unity-dotnet-framework/DofusUnity.Plugins.BepInEx","stars":10,"forks":0,"language":"C#","license":"GPL-3.0","archived":false,"createdAt":"2024-08-17T13:29:31Z","pushedAt":"2024-08-23T16:00:05Z","owner":{"login":"D-Unity-dotnet-framework","type":"Organization","name":"Dofus Unity .NET framework","location":"Cook Islands"},"attribution":{"code":"CK","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T16:32:23.797Z","id":"legacy:d-unity-dotnet-framework/dofusunity.plugins.bepinex","legacy":true},
   {"name":"kortizol2/contrib-pool-3-694","stars":5,"forks":0,"archived":false,"createdAt":"2025-10-23T16:49:23Z","pushedAt":"2025-10-23T16:52:01Z","owner":{"login":"kortizol2","type":"User","name":"Joshua Harris","location":"North Megantown, Cook Islands"},"attribution":{"code":"CK","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T16:32:23.797Z","id":"legacy:kortizol2/contrib-pool-3-694","legacy":true},
   {"name":"Freakybob-Team-Games/MurderBob","stars":3,"forks":0,"language":"Java","archived":false,"createdAt":"2024-12-07T02:45:15Z","pushedAt":"2025-03-01T14:09:17Z","owner":{"login":"Freakybob-Team-Games","type":"Organization","name":"Freakybob Team Games","location":"Cook Islands"},"attribution":{"code":"CK","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T16:32:23.797Z","id":"legacy:freakybob-team-games/murderbob","legacy":true},

@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **43** | 02 Nov 2026 | <a href="../data/MY.json">JSON</a> |
+| 🟠 Stale | **45** | 02 Nov 2026 | <a href="../data/MY.json">JSON</a> |
 
-> **Not yet re-verified.** 16 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 8 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -214,111 +214,125 @@
 </tr>
 <tr>
 <td align="right">28</td>
-<td><img src="https://github.com/zulhfreelancer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zulhfreelancer/aws-codepipeline-action"><b>zulhfreelancer/aws-codepipeline-action</b></a></td>
-<td align="right"><b>23</b></td>
-<td align="right">13</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/kha7iq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kha7iq/pingme"><b>kha7iq/pingme</b></a><br><sub>PingMe - A unified CLI and web service for sending notifications across multiple messaging platforms</sub></td>
+<td align="right"><b>874</b></td>
+<td align="right">47</td>
+<td>Go</td>
 </tr>
 <tr>
 <td align="right">29</td>
-<td><img src="https://github.com/Shamim-Al-Mamun.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Shamim-Al-Mamun/Modern-Portfolio-NextJS-Framer-Motion"><b>Shamim-Al-Mamun/Modern-Portfolio-NextJS-Framer-Motion</b></a></td>
-<td align="right"><b>23</b></td>
-<td align="right">4</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/zernonia.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zernonia/supabase-schema"><b>zernonia/supabase-schema</b></a><br><sub>Secured &amp; Simple Supabase Schema Visualizer</sub></td>
+<td align="right"><b>861</b></td>
+<td align="right">53</td>
+<td>Vue</td>
 </tr>
 <tr>
 <td align="right">30</td>
-<td><img src="https://github.com/zhamri.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zhamri/MyClass-STIW3054"><b>zhamri/MyClass-STIW3054</b></a></td>
-<td align="right"><b>22</b></td>
-<td align="right">19</td>
-<td>Java</td>
+<td><img src="https://github.com/fahidattique55.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fahidattique55/FAPanels"><b>fahidattique55/FAPanels</b></a><br><sub>FAPanels - Swift</sub></td>
+<td align="right"><b>841</b></td>
+<td align="right">87</td>
+<td>Swift</td>
 </tr>
 <tr>
 <td align="right">31</td>
-<td><img src="https://github.com/glx-technologies.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/glx-technologies/meter-dlt645"><b>glx-technologies/meter-dlt645</b></a></td>
-<td align="right"><b>22</b></td>
-<td align="right">14</td>
-<td>Python</td>
+<td><img src="https://github.com/zernonia.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zernonia/vue0"><b>zernonia/vue0</b></a><br><sub>Vue version open source alternative for v0.dev</sub></td>
+<td align="right"><b>820</b></td>
+<td align="right">95</td>
+<td>Vue</td>
 </tr>
 <tr>
 <td align="right">32</td>
-<td><img src="https://github.com/barzin144.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/barzin144/FlappyBird"><b>barzin144/FlappyBird</b></a></td>
-<td align="right"><b>17</b></td>
-<td align="right">7</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/joscha.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/joscha/play-authenticate"><b>joscha/play-authenticate</b></a> <sub>archived</sub><br><sub>An authentication plugin for Play Framework 2.x (Java)</sub></td>
+<td align="right"><b>804</b></td>
+<td align="right">347</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">33</td>
-<td><img src="https://github.com/aditiapratama.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aditiapratama/cycles-octane-converter"><b>aditiapratama/cycles-octane-converter</b></a></td>
-<td align="right"><b>14</b></td>
-<td align="right">4</td>
-<td>Python</td>
+<td><img src="https://github.com/mkhairi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mkhairi/materialize-sass"><b>mkhairi/materialize-sass</b></a><br><sub>Materializecss rubygem for Rails Asset Pipeline / Sprockets</sub></td>
+<td align="right"><b>800</b></td>
+<td align="right">240</td>
+<td>Ruby</td>
 </tr>
 <tr>
 <td align="right">34</td>
-<td><img src="https://github.com/shuvonsec.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shuvonsec/bug-bounty-report-generator"><b>shuvonsec/bug-bounty-report-generator</b></a></td>
-<td align="right"><b>12</b></td>
-<td align="right">6</td>
-<td>Python</td>
+<td><img src="https://github.com/pearlxcore.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pearlxcore/PS4PKGTool"><b>pearlxcore/PS4PKGTool</b></a><br><sub>Manage and perform various operations on PS4 PKG.</sub></td>
+<td align="right"><b>784</b></td>
+<td align="right">67</td>
+<td>C#</td>
 </tr>
 <tr>
 <td align="right">35</td>
-<td><img src="https://github.com/emomeni.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/emomeni/pyATS_add_vlan"><b>emomeni/pyATS&#95;add&#95;vlan</b></a></td>
-<td align="right"><b>12</b></td>
-<td align="right">2</td>
-<td>Python</td>
+<td><img src="https://github.com/ruben2020.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ruben2020/codequery"><b>ruben2020/codequery</b></a><br><sub>A code-understanding, code-browsing or code-search tool. This is a tool to index, then query or search C, C++, Java, Py…</sub></td>
+<td align="right"><b>778</b></td>
+<td align="right">88</td>
+<td>C++</td>
 </tr>
 <tr>
 <td align="right">36</td>
+<td><img src="https://github.com/mfrashad.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mfrashad/text2art"><b>mfrashad/text2art</b></a><br><sub>AI-powered Text-to-Art Generator - Text2Art.com</sub></td>
+<td align="right"><b>770</b></td>
+<td align="right">192</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">37</td>
+<td><img src="https://github.com/cs-chan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cs-chan/Total-Text-Dataset"><b>cs-chan/Total-Text-Dataset</b></a><br><sub>Total Text Dataset. It consists of 1555 images with more than 3 different text orientations: Horizontal, Multi-Oriented…</sub></td>
+<td align="right"><b>768</b></td>
+<td align="right">138</td>
+<td>MATLAB</td>
+</tr>
+<tr>
+<td align="right">38</td>
 <td><img src="https://github.com/jipsterious.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jipsterious/jipsterious_help"><b>jipsterious/jipsterious&#95;help</b></a></td>
 <td align="right"><b>11</b></td>
 <td align="right">3</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">37</td>
+<td align="right">39</td>
 <td><img src="https://github.com/syarief02.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/syarief02/EA_Budak_Ubat"><b>syarief02/EA&#95;Budak&#95;Ubat</b></a></td>
 <td align="right"><b>10</b></td>
 <td align="right">1</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">38</td>
+<td align="right">40</td>
 <td><img src="https://github.com/ahmadhanis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ahmadhanis/FlutterA192"><b>ahmadhanis/FlutterA192</b></a></td>
 <td align="right"><b>9</b></td>
 <td align="right">8</td>
 <td>Dart</td>
 </tr>
 <tr>
-<td align="right">39</td>
+<td align="right">41</td>
 <td><img src="https://github.com/amirahnasihah.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/amirahnasihah/frontend-development"><b>amirahnasihah/frontend-development</b></a></td>
 <td align="right"><b>8</b></td>
 <td align="right">0</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">40</td>
+<td align="right">42</td>
 <td><img src="https://github.com/JMan7777.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JMan7777/Mitsubishi-Aircon-SmartThings"><b>JMan7777/Mitsubishi-Aircon-SmartThings</b></a></td>
 <td align="right"><b>8</b></td>
 <td align="right">0</td>
 <td>C++</td>
 </tr>
 <tr>
-<td align="right">41</td>
+<td align="right">43</td>
 <td><img src="https://github.com/datomnurdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/datomnurdin/larablog"><b>datomnurdin/larablog</b></a></td>
 <td align="right"><b>7</b></td>
 <td align="right">6</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">42</td>
+<td align="right">44</td>
 <td><img src="https://github.com/mohdsubhi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mohdsubhi/myFood11"><b>mohdsubhi/myFood11</b></a></td>
 <td align="right"><b>6</b></td>
 <td align="right">3</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">43</td>
+<td align="right">45</td>
 <td><img src="https://github.com/crynobone.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/crynobone/mailtracker"><b>crynobone/mailtracker</b></a></td>
 <td align="right"><b>6</b></td>
 <td align="right">1</td>
@@ -332,9 +346,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 6 stars; 43 attributed candidates are tracked.
-- 16 entries were carried over from the previous dataset and are pending revalidation.
-- 128 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 6 stars; 45 attributed candidates are tracked.
+- 8 entries were carried over from the previous dataset and are pending revalidation.
+- 125 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 155 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

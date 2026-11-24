@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **536** | 22 Nov 2026 | <a href="../../data/developers/ES.json">JSON</a> |
+| 🟡 Provisional | **631** | 22 Nov 2026 | <a href="../../data/developers/ES.json">JSON</a> |
 
 </div>
 
@@ -24,14 +24,14 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/mouredev"><img src="https://avatars.githubusercontent.com/u/17043402?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mouredev"><b>Brais Moure</b></a><br><sub>&#64;mouredev</sub></td>
-<td align="right"><b>38,125</b></td>
+<td align="right"><b>38,129</b></td>
 <td align="right">53</td>
 <td><sub>Building software with ♥ from Galicia (Spain) t…</sub></td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/ai"><img src="https://avatars.githubusercontent.com/u/19343?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ai"><b>Andrey Sitnik</b></a><br><sub>&#64;ai</sub></td>
-<td align="right"><b>10,195</b></td>
+<td align="right"><b>10,197</b></td>
 <td align="right">103</td>
 <td><sub>Barcelona, Spain</sub></td>
 </tr>
@@ -66,7 +66,7 @@
 <tr>
 <td align="right">7</td>
 <td><a href="https://github.com/ArisGuimera"><img src="https://avatars.githubusercontent.com/u/16361358?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ArisGuimera"><b>AristiDevs</b></a><br><sub>&#64;ArisGuimera</sub></td>
-<td align="right"><b>5,415</b></td>
+<td align="right"><b>5,417</b></td>
 <td align="right">59</td>
 <td><sub>Canarias/Madrid</sub></td>
 </tr>
@@ -94,7 +94,7 @@
 <tr>
 <td align="right">11</td>
 <td><a href="https://github.com/santifer"><img src="https://avatars.githubusercontent.com/u/256850418?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/santifer"><b>Santiago Fernández de Valderrama Aparicio</b></a><br><sub>&#64;santifer</sub></td>
-<td align="right"><b>3,392</b></td>
+<td align="right"><b>3,399</b></td>
 <td align="right">34</td>
 <td><sub>Seville, Spain</sub></td>
 </tr>
@@ -290,7 +290,7 @@
 <tr>
 <td align="right">39</td>
 <td><a href="https://github.com/Kikobeats"><img src="https://avatars.githubusercontent.com/u/2096101?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kikobeats"><b>Jose Francisco &#39;Kiko&#39; Verdú Gambín</b></a><br><sub>&#64;Kikobeats</sub></td>
-<td align="right"><b>1,751</b></td>
+<td align="right"><b>1,749</b></td>
 <td align="right">547</td>
 <td><sub>Murcia, Spain</sub></td>
 </tr>
@@ -801,8 +801,8 @@
 <tr>
 <td align="right">112</td>
 <td><a href="https://github.com/mattvenn"><img src="https://avatars.githubusercontent.com/u/634220?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mattvenn"><b>Matt Venn</b></a><br><sub>&#64;mattvenn</sub></td>
-<td align="right"><b>778</b></td>
-<td align="right">507</td>
+<td align="right"><b>777</b></td>
+<td align="right">509</td>
 <td><sub>Valencia, Spain</sub></td>
 </tr>
 <tr>
@@ -1284,7 +1284,7 @@
 <tr>
 <td align="right">181</td>
 <td><a href="https://github.com/rubiojr"><img src="https://avatars.githubusercontent.com/u/10998?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rubiojr"><b>Sergio Rubio</b></a><br><sub>&#64;rubiojr</sub></td>
-<td align="right"><b>539</b></td>
+<td align="right"><b>538</b></td>
 <td align="right">446</td>
 <td><sub>Barcelona, Spain</sub></td>
 </tr>
@@ -2648,1126 +2648,1791 @@
 </tr>
 <tr>
 <td align="right">376</td>
-<td><a href="https://github.com/HeyNina101"><img src="https://avatars.githubusercontent.com/u/177672927?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HeyNina101"><b>Nina Duran</b></a><br><sub>&#64;HeyNina101</sub></td>
-<td align="right"><b>279</b></td>
-<td align="right">0</td>
-<td><sub>Madrid</sub></td>
+<td><a href="https://github.com/alexruperez"><img src="https://avatars.githubusercontent.com/u/297950?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexruperez"><b>Alex Rupérez</b></a><br><sub>&#64;alexruperez</sub></td>
+<td align="right"><b>284</b></td>
+<td align="right">125</td>
+<td><sub>Madrid, Spain</sub></td>
 </tr>
 <tr>
 <td align="right">377</td>
-<td><a href="https://github.com/mesquidar"><img src="https://avatars.githubusercontent.com/u/16049893?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mesquidar"><b>Ruben Mesquida</b></a><br><sub>&#64;mesquidar</sub></td>
-<td align="right"><b>273</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/4tomik"><img src="https://avatars.githubusercontent.com/u/79726194?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/4tomik"><b>4tomik</b></a><br><sub>&#64;4tomik</sub></td>
+<td align="right"><b>284</b></td>
+<td align="right">6</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
 <td align="right">378</td>
-<td><a href="https://github.com/methodofaction"><img src="https://avatars.githubusercontent.com/u/51445?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/methodofaction"><b>Mark MacKay</b></a><br><sub>&#64;methodofaction</sub></td>
-<td align="right"><b>250</b></td>
-<td align="right">0</td>
-<td><sub>Madrid, Spain</sub></td>
+<td><a href="https://github.com/phproberto"><img src="https://avatars.githubusercontent.com/u/1119272?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/phproberto"><b>Roberto Segura</b></a><br><sub>&#64;phproberto</sub></td>
+<td align="right"><b>283</b></td>
+<td align="right">40</td>
+<td><sub>Valencia - Spain</sub></td>
 </tr>
 <tr>
 <td align="right">379</td>
+<td><a href="https://github.com/rolfbjarne"><img src="https://avatars.githubusercontent.com/u/249268?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rolfbjarne"><b>Rolf Bjarne Kvinge</b></a><br><sub>&#64;rolfbjarne</sub></td>
+<td align="right"><b>282</b></td>
+<td align="right">181</td>
+<td><sub>Madrid, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">380</td>
+<td><a href="https://github.com/midesweb"><img src="https://avatars.githubusercontent.com/u/281585?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/midesweb"><b>Miguel Angel Alvarez</b></a><br><sub>&#64;midesweb</sub></td>
+<td align="right"><b>282</b></td>
+<td align="right">104</td>
+<td><sub>Spain</sub></td>
+</tr>
+<tr>
+<td align="right">381</td>
+<td><a href="https://github.com/PajaritoCantor"><img src="https://avatars.githubusercontent.com/u/157131868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PajaritoCantor"><b>PajaritoCantor</b></a><br><sub>&#64;PajaritoCantor</sub></td>
+<td align="right"><b>282</b></td>
+<td align="right">15</td>
+<td><sub>Madrid</sub></td>
+</tr>
+<tr>
+<td align="right">382</td>
+<td><a href="https://github.com/terceranexus6"><img src="https://avatars.githubusercontent.com/u/9094121?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/terceranexus6"><b>Paula</b></a><br><sub>&#64;terceranexus6</sub></td>
+<td align="right"><b>281</b></td>
+<td align="right">121</td>
+<td><sub>Madrid</sub></td>
+</tr>
+<tr>
+<td align="right">383</td>
+<td><a href="https://github.com/rompelhd"><img src="https://avatars.githubusercontent.com/u/75935831?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rompelhd"><b>Hectorete</b></a><br><sub>&#64;rompelhd</sub></td>
+<td align="right"><b>281</b></td>
+<td align="right">32</td>
+<td><sub>Gijón</sub></td>
+</tr>
+<tr>
+<td align="right">384</td>
+<td><a href="https://github.com/Alotor"><img src="https://avatars.githubusercontent.com/u/3418223?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alotor"><b>Alonso Torres</b></a><br><sub>&#64;Alotor</sub></td>
+<td align="right"><b>280</b></td>
+<td align="right">77</td>
+<td><sub>Madrid</sub></td>
+</tr>
+<tr>
+<td align="right">385</td>
+<td><a href="https://github.com/butschster"><img src="https://avatars.githubusercontent.com/u/773481?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/butschster"><b>Pavel Buchnev</b></a><br><sub>&#64;butschster</sub></td>
+<td align="right"><b>280</b></td>
+<td align="right">39</td>
+<td><sub>Spain</sub></td>
+</tr>
+<tr>
+<td align="right">386</td>
+<td><a href="https://github.com/gonzalezgouveia"><img src="https://avatars.githubusercontent.com/u/20340577?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gonzalezgouveia"><b>Rafael Gonzalez Gouveia</b></a><br><sub>&#64;gonzalezgouveia</sub></td>
+<td align="right"><b>280</b></td>
+<td align="right">27</td>
+<td><sub>Madrid</sub></td>
+</tr>
+<tr>
+<td align="right">387</td>
+<td><a href="https://github.com/hyperandroid"><img src="https://avatars.githubusercontent.com/u/525597?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hyperandroid"><b>Ibon Tolosana</b></a><br><sub>&#64;hyperandroid</sub></td>
+<td align="right"><b>280</b></td>
+<td align="right">24</td>
+<td><sub>Spain</sub></td>
+</tr>
+<tr>
+<td align="right">388</td>
+<td><a href="https://github.com/merlox"><img src="https://avatars.githubusercontent.com/u/13392096?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/merlox"><b>merlox</b></a><br><sub>&#64;merlox</sub></td>
+<td align="right"><b>279</b></td>
+<td align="right">171</td>
+<td><sub>Madrid, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">389</td>
+<td><a href="https://github.com/tzayadet"><img src="https://avatars.githubusercontent.com/u/105277293?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tzayadet"><b>ⅠИ𐌔ⅠǤHŦ𐌔ΞΞҜƎƦ</b></a><br><sub>&#64;tzayadet</sub></td>
+<td align="right"><b>279</b></td>
+<td align="right">83</td>
+<td><sub>Spain</sub></td>
+</tr>
+<tr>
+<td align="right">390</td>
+<td><a href="https://github.com/kaikcreator"><img src="https://avatars.githubusercontent.com/u/7058118?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kaikcreator"><b>-kaik-</b></a><br><sub>&#64;kaikcreator</sub></td>
+<td align="right"><b>279</b></td>
+<td align="right">56</td>
+<td><sub>Barcelona (SPAIN)</sub></td>
+</tr>
+<tr>
+<td align="right">391</td>
+<td><a href="https://github.com/Josue87"><img src="https://avatars.githubusercontent.com/u/16885065?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Josue87"><b>Josué Encinar</b></a><br><sub>&#64;Josue87</sub></td>
+<td align="right"><b>279</b></td>
+<td align="right">27</td>
+<td><sub>Spain</sub></td>
+</tr>
+<tr>
+<td align="right">392</td>
+<td><a href="https://github.com/HeyNina101"><img src="https://avatars.githubusercontent.com/u/177672927?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HeyNina101"><b>Nina Duran</b></a><br><sub>&#64;HeyNina101</sub></td>
+<td align="right"><b>279</b></td>
+<td align="right">5</td>
+<td><sub>Madrid</sub></td>
+</tr>
+<tr>
+<td align="right">393</td>
+<td><a href="https://github.com/Xh4H"><img src="https://avatars.githubusercontent.com/u/20613820?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Xh4H"><b>Xh4H</b></a><br><sub>&#64;Xh4H</sub></td>
+<td align="right"><b>277</b></td>
+<td align="right">84</td>
+<td><sub>Basque Country</sub></td>
+</tr>
+<tr>
+<td align="right">394</td>
+<td><a href="https://github.com/JavierOlmedo"><img src="https://avatars.githubusercontent.com/u/15904748?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JavierOlmedo"><b>Javier Olmedo</b></a><br><sub>&#64;JavierOlmedo</sub></td>
+<td align="right"><b>277</b></td>
+<td align="right">42</td>
+<td><sub>Toledo, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">395</td>
+<td><a href="https://github.com/alce65"><img src="https://avatars.githubusercontent.com/u/14248054?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alce65"><b>Alejandro Cerezo</b></a><br><sub>&#64;alce65</sub></td>
+<td align="right"><b>276</b></td>
+<td align="right">185</td>
+<td><sub>Madrid, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">396</td>
+<td><a href="https://github.com/alorma"><img src="https://avatars.githubusercontent.com/u/887462?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alorma"><b>Bernat Borrás Paronella</b></a><br><sub>&#64;alorma</sub></td>
+<td align="right"><b>275</b></td>
+<td align="right">9</td>
+<td><sub>Barcelona, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">397</td>
+<td><a href="https://github.com/OrdinaryMagician"><img src="https://avatars.githubusercontent.com/u/2286785?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OrdinaryMagician"><b>Mari the Deer</b></a><br><sub>&#64;OrdinaryMagician</sub></td>
+<td align="right"><b>275</b></td>
+<td align="right">0</td>
+<td><sub>Vigo, Galicia, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">398</td>
+<td><a href="https://github.com/Franc1sco"><img src="https://avatars.githubusercontent.com/u/5090660?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Franc1sco"><b>Franc1sco Franug</b></a><br><sub>&#64;Franc1sco</sub></td>
+<td align="right"><b>274</b></td>
+<td align="right">207</td>
+<td><sub>Spain (Madrid)</sub></td>
+</tr>
+<tr>
+<td align="right">399</td>
+<td><a href="https://github.com/NovoaDev"><img src="https://avatars.githubusercontent.com/u/21259250?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NovoaDev"><b>Antonio Novoa</b></a><br><sub>&#64;NovoaDev</sub></td>
+<td align="right"><b>274</b></td>
+<td align="right">50</td>
+<td><sub>Orense - España</sub></td>
+</tr>
+<tr>
+<td align="right">400</td>
+<td><a href="https://github.com/danielfernandez"><img src="https://avatars.githubusercontent.com/u/1492299?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danielfernandez"><b>Daniel Fernández</b></a><br><sub>&#64;danielfernandez</sub></td>
+<td align="right"><b>274</b></td>
+<td align="right">33</td>
+<td><sub>Galicia, Spain, European Union</sub></td>
+</tr>
+<tr>
+<td align="right">401</td>
+<td><a href="https://github.com/sunil-sandhu"><img src="https://avatars.githubusercontent.com/u/19417441?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sunil-sandhu"><b>Sunil Sandhu</b></a><br><sub>&#64;sunil-sandhu</sub></td>
+<td align="right"><b>273</b></td>
+<td align="right">70</td>
+<td><sub>Barcelona, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">402</td>
+<td><a href="https://github.com/j1elo"><img src="https://avatars.githubusercontent.com/u/1824582?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/j1elo"><b>Juan Navarro</b></a><br><sub>&#64;j1elo</sub></td>
+<td align="right"><b>273</b></td>
+<td align="right">25</td>
+<td><sub>Madrid, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">403</td>
+<td><a href="https://github.com/mesquidar"><img src="https://avatars.githubusercontent.com/u/16049893?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mesquidar"><b>Ruben Mesquida</b></a><br><sub>&#64;mesquidar</sub></td>
+<td align="right"><b>273</b></td>
+<td align="right">18</td>
+<td><sub>Spain</sub></td>
+</tr>
+<tr>
+<td align="right">404</td>
+<td><a href="https://github.com/atomms"><img src="https://avatars.githubusercontent.com/u/6057682?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/atomms"><b>Ernesto Ramiro</b></a><br><sub>&#64;atomms</sub></td>
+<td align="right"><b>272</b></td>
+<td align="right">110</td>
+<td><sub>Madrid</sub></td>
+</tr>
+<tr>
+<td align="right">405</td>
+<td><a href="https://github.com/0xDanielLopez"><img src="https://avatars.githubusercontent.com/u/10616960?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xDanielLopez"><b>Daniel López</b></a><br><sub>&#64;0xDanielLopez</sub></td>
+<td align="right"><b>272</b></td>
+<td align="right">30</td>
+<td><sub>Sevilla, España</sub></td>
+</tr>
+<tr>
+<td align="right">406</td>
+<td><a href="https://github.com/timriffe"><img src="https://avatars.githubusercontent.com/u/904603?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/timriffe"><b>Tim Riffe</b></a><br><sub>&#64;timriffe</sub></td>
+<td align="right"><b>270</b></td>
+<td align="right">158</td>
+<td><sub>Leioa, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">407</td>
+<td><a href="https://github.com/acelaya"><img src="https://avatars.githubusercontent.com/u/2719332?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/acelaya"><b>Alejandro Celaya</b></a><br><sub>&#64;acelaya</sub></td>
+<td align="right"><b>270</b></td>
+<td align="right">22</td>
+<td><sub>Zaragoza, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">408</td>
+<td><a href="https://github.com/r2d2-coder-git"><img src="https://avatars.githubusercontent.com/u/35840182?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/r2d2-coder-git"><b>Arturo Lorenzo</b></a><br><sub>&#64;r2d2-coder-git</sub></td>
+<td align="right"><b>270</b></td>
+<td align="right">9</td>
+<td><sub>Spain</sub></td>
+</tr>
+<tr>
+<td align="right">409</td>
+<td><a href="https://github.com/cmendible"><img src="https://avatars.githubusercontent.com/u/266546?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cmendible"><b>Carlos Mendible</b></a><br><sub>&#64;cmendible</sub></td>
+<td align="right"><b>269</b></td>
+<td align="right">177</td>
+<td><sub>Madrid, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">410</td>
+<td><a href="https://github.com/caio546"><img src="https://avatars.githubusercontent.com/u/49529159?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/caio546"><b>Caio Mendes</b></a><br><sub>&#64;caio546</sub></td>
+<td align="right"><b>269</b></td>
+<td align="right">34</td>
+<td><sub>Madrid, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">411</td>
+<td><a href="https://github.com/sdelamo"><img src="https://avatars.githubusercontent.com/u/864788?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sdelamo"><b>Sergio del Amo</b></a><br><sub>&#64;sdelamo</sub></td>
+<td align="right"><b>267</b></td>
+<td align="right">233</td>
+<td><sub>Guadalajara, Spain (Remote)</sub></td>
+</tr>
+<tr>
+<td align="right">412</td>
+<td><a href="https://github.com/yceruto"><img src="https://avatars.githubusercontent.com/u/2028198?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yceruto"><b>Yonel Ceruto</b></a><br><sub>&#64;yceruto</sub></td>
+<td align="right"><b>267</b></td>
+<td align="right">99</td>
+<td><sub>Madrid</sub></td>
+</tr>
+<tr>
+<td align="right">413</td>
+<td><a href="https://github.com/fmvilas"><img src="https://avatars.githubusercontent.com/u/242119?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fmvilas"><b>Fran Méndez</b></a><br><sub>&#64;fmvilas</sub></td>
+<td align="right"><b>266</b></td>
+<td align="right">125</td>
+<td><sub>Badajoz, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">414</td>
+<td><a href="https://github.com/acacha"><img src="https://avatars.githubusercontent.com/u/4015406?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/acacha"><b>Sergi Tur Badenas</b></a><br><sub>&#64;acacha</sub></td>
+<td align="right"><b>265</b></td>
+<td align="right">417</td>
+<td><sub>Tortosa, Tarragona, Catalunya</sub></td>
+</tr>
+<tr>
+<td align="right">415</td>
+<td><a href="https://github.com/danielesteban"><img src="https://avatars.githubusercontent.com/u/806111?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danielesteban"><b>Daniel Esteban Nombela</b></a><br><sub>&#64;danielesteban</sub></td>
+<td align="right"><b>265</b></td>
+<td align="right">129</td>
+<td><sub>Spain</sub></td>
+</tr>
+<tr>
+<td align="right">416</td>
+<td><a href="https://github.com/elaheh-dastan"><img src="https://avatars.githubusercontent.com/u/36500888?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elaheh-dastan"><b>Elaheh Dastan</b></a><br><sub>&#64;elaheh-dastan</sub></td>
+<td align="right"><b>265</b></td>
+<td align="right">87</td>
+<td><sub>Barcelona, Spain 🇪🇸</sub></td>
+</tr>
+<tr>
+<td align="right">417</td>
+<td><a href="https://github.com/apenfe"><img src="https://avatars.githubusercontent.com/u/59702475?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/apenfe"><b>Adrian Peñalver</b></a><br><sub>&#64;apenfe</sub></td>
+<td align="right"><b>263</b></td>
+<td align="right">53</td>
+<td><sub>Spain</sub></td>
+</tr>
+<tr>
+<td align="right">418</td>
+<td><a href="https://github.com/rothiotome"><img src="https://avatars.githubusercontent.com/u/137085727?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rothiotome"><b>Rothio Tome</b></a><br><sub>&#64;rothiotome</sub></td>
+<td align="right"><b>263</b></td>
+<td align="right">13</td>
+<td><sub>Madrid, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">419</td>
+<td><a href="https://github.com/joansola"><img src="https://avatars.githubusercontent.com/u/2467261?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joansola"><b>Joan Solà</b></a><br><sub>&#64;joansola</sub></td>
+<td align="right"><b>263</b></td>
+<td align="right">8</td>
+<td><sub>Barcelona - Catalonia</sub></td>
+</tr>
+<tr>
+<td align="right">420</td>
+<td><a href="https://github.com/am-kantox"><img src="https://avatars.githubusercontent.com/u/11388982?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/am-kantox"><b>Aleksei Matiushkin</b></a><br><sub>&#64;am-kantox</sub></td>
+<td align="right"><b>262</b></td>
+<td align="right">142</td>
+<td><sub>Barcelona, España</sub></td>
+</tr>
+<tr>
+<td align="right">421</td>
+<td><a href="https://github.com/surister"><img src="https://avatars.githubusercontent.com/u/37985796?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/surister"><b>Ivan</b></a><br><sub>&#64;surister</sub></td>
+<td align="right"><b>262</b></td>
+<td align="right">120</td>
+<td><sub>Spain</sub></td>
+</tr>
+<tr>
+<td align="right">422</td>
+<td><a href="https://github.com/Albertoimpl"><img src="https://avatars.githubusercontent.com/u/405869?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Albertoimpl"><b>Alberto C. Ríos</b></a><br><sub>&#64;Albertoimpl</sub></td>
+<td align="right"><b>261</b></td>
+<td align="right">113</td>
+<td><sub>Sevilla, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">423</td>
+<td><a href="https://github.com/gootyfer"><img src="https://avatars.githubusercontent.com/u/759396?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gootyfer"><b>Israel Gutiérrez</b></a><br><sub>&#64;gootyfer</sub></td>
+<td align="right"><b>261</b></td>
+<td align="right">58</td>
+<td><sub>Madrid</sub></td>
+</tr>
+<tr>
+<td align="right">424</td>
+<td><a href="https://github.com/kecoma1"><img src="https://avatars.githubusercontent.com/u/47478959?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kecoma1"><b>Kevin</b></a><br><sub>&#64;kecoma1</sub></td>
+<td align="right"><b>261</b></td>
+<td align="right">48</td>
+<td><sub>Madrid, Manchester and London</sub></td>
+</tr>
+<tr>
+<td align="right">425</td>
+<td><a href="https://github.com/dianavile"><img src="https://avatars.githubusercontent.com/u/25930085?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dianavile"><b>&#64;dianavile</b></a><br><sub>&#64;dianavile</sub></td>
+<td align="right"><b>260</b></td>
+<td align="right">196</td>
+<td><sub>Barcelona, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">426</td>
+<td><a href="https://github.com/pabpereza"><img src="https://avatars.githubusercontent.com/u/7291983?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pabpereza"><b>Pablo Pérez-Aradros</b></a><br><sub>&#64;pabpereza</sub></td>
+<td align="right"><b>260</b></td>
+<td align="right">41</td>
+<td><sub>La Rioja, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">427</td>
+<td><a href="https://github.com/mcreel"><img src="https://avatars.githubusercontent.com/u/1552462?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mcreel"><b>Michael Creel</b></a><br><sub>&#64;mcreel</sub></td>
+<td align="right"><b>260</b></td>
+<td align="right">12</td>
+<td><sub>Barcelona, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">428</td>
+<td><a href="https://github.com/janoglezcampos"><img src="https://avatars.githubusercontent.com/u/47823818?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/janoglezcampos"><b>Yxel</b></a><br><sub>&#64;janoglezcampos</sub></td>
+<td align="right"><b>260</b></td>
+<td align="right">9</td>
+<td><sub>Vigo, Galicia, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">429</td>
+<td><a href="https://github.com/Manu343726"><img src="https://avatars.githubusercontent.com/u/1561197?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Manu343726"><b>Manu Sánchez</b></a><br><sub>&#64;Manu343726</sub></td>
+<td align="right"><b>259</b></td>
+<td align="right">189</td>
+<td><sub>Madrid, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">430</td>
+<td><a href="https://github.com/Egorand"><img src="https://avatars.githubusercontent.com/u/1186186?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Egorand"><b>Egor Andreevich</b></a><br><sub>&#64;Egorand</sub></td>
+<td align="right"><b>259</b></td>
+<td align="right">128</td>
+<td><sub>Barcelona, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">431</td>
+<td><a href="https://github.com/FrancescAlted"><img src="https://avatars.githubusercontent.com/u/314521?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FrancescAlted"><b>Francesc Alted</b></a><br><sub>&#64;FrancescAlted</sub></td>
+<td align="right"><b>257</b></td>
+<td align="right">63</td>
+<td><sub>Castelló de la Plana, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">432</td>
+<td><a href="https://github.com/Rumomo"><img src="https://avatars.githubusercontent.com/u/26388833?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rumomo"><b>Ruymán Mora</b></a><br><sub>&#64;Rumomo</sub></td>
+<td align="right"><b>257</b></td>
+<td align="right">30</td>
+<td><sub>Adeje, S/C de Tenerife</sub></td>
+</tr>
+<tr>
+<td align="right">433</td>
+<td><a href="https://github.com/sjmog"><img src="https://avatars.githubusercontent.com/u/1960230?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sjmog"><b>Sam Morgan</b></a><br><sub>&#64;sjmog</sub></td>
+<td align="right"><b>256</b></td>
+<td align="right">313</td>
+<td><sub>Valencia, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">434</td>
+<td><a href="https://github.com/bameda"><img src="https://avatars.githubusercontent.com/u/877218?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bameda"><b>David Barragán Merino</b></a><br><sub>&#64;bameda</sub></td>
+<td align="right"><b>256</b></td>
+<td align="right">123</td>
+<td><sub>Madrid &#124; Mamrolejo, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">435</td>
+<td><a href="https://github.com/oslugr"><img src="https://avatars.githubusercontent.com/u/3056540?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/oslugr"><b>Oficina de Software Libre de la Universidad de Granada</b></a><br><sub>&#64;oslugr</sub></td>
+<td align="right"><b>256</b></td>
+<td align="right">79</td>
+<td><sub>Granada, SPAIN</sub></td>
+</tr>
+<tr>
+<td align="right">436</td>
+<td><a href="https://github.com/fraguada"><img src="https://avatars.githubusercontent.com/u/1014562?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fraguada"><b>Luis E. Fraguada</b></a><br><sub>&#64;fraguada</sub></td>
+<td align="right"><b>256</b></td>
+<td align="right">70</td>
+<td><sub>Barcelona, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">437</td>
+<td><a href="https://github.com/VenancioFuentes"><img src="https://avatars.githubusercontent.com/u/20627476?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VenancioFuentes"><b>Venancio Fuentes</b></a><br><sub>&#64;VenancioFuentes</sub></td>
+<td align="right"><b>256</b></td>
+<td align="right">0</td>
+<td><sub>Las Palmas de Gran Canaria, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">438</td>
+<td><a href="https://github.com/StringManolo"><img src="https://avatars.githubusercontent.com/u/56775178?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/StringManolo"><b>StringManolo</b></a><br><sub>&#64;StringManolo</sub></td>
+<td align="right"><b>255</b></td>
+<td align="right">162</td>
+<td><sub>Spain</sub></td>
+</tr>
+<tr>
+<td align="right">439</td>
+<td><a href="https://github.com/jecrespo"><img src="https://avatars.githubusercontent.com/u/1539718?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jecrespo"><b>Enrique Crespo</b></a><br><sub>&#64;jecrespo</sub></td>
+<td align="right"><b>255</b></td>
+<td align="right">136</td>
+<td><sub>Logroño, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">440</td>
+<td><a href="https://github.com/JavierIH"><img src="https://avatars.githubusercontent.com/u/5154251?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JavierIH"><b>Javier Isabel Hernandez</b></a><br><sub>&#64;JavierIH</sub></td>
+<td align="right"><b>255</b></td>
+<td align="right">109</td>
+<td><sub>Madrid / Toledo (SPAIN)</sub></td>
+</tr>
+<tr>
+<td align="right">441</td>
+<td><a href="https://github.com/jordienr"><img src="https://avatars.githubusercontent.com/u/37541088?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jordienr"><b>Jordi Enric</b></a><br><sub>&#64;jordienr</sub></td>
+<td align="right"><b>255</b></td>
+<td align="right">83</td>
+<td><sub>Palma, Illes Balears, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">442</td>
+<td><a href="https://github.com/blyxyas"><img src="https://avatars.githubusercontent.com/u/73757586?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/blyxyas"><b>Alejandra González</b></a><br><sub>&#64;blyxyas</sub></td>
+<td align="right"><b>254</b></td>
+<td align="right">95</td>
+<td><sub>Vigo, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">443</td>
+<td><a href="https://github.com/JoanFM"><img src="https://avatars.githubusercontent.com/u/19825685?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JoanFM"><b>Joan Fontanals</b></a><br><sub>&#64;JoanFM</sub></td>
+<td align="right"><b>253</b></td>
+<td align="right">109</td>
+<td><sub>Barcelona, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">444</td>
+<td><a href="https://github.com/oscarperpinan"><img src="https://avatars.githubusercontent.com/u/1321370?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/oscarperpinan"><b>Oscar Perpiñán Lamigueiro</b></a><br><sub>&#64;oscarperpinan</sub></td>
+<td align="right"><b>251</b></td>
+<td align="right">38</td>
+<td><sub>Madrid, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">445</td>
+<td><a href="https://github.com/AndreMiras"><img src="https://avatars.githubusercontent.com/u/24973?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AndreMiras"><b>Andre Miras</b></a><br><sub>&#64;AndreMiras</sub></td>
+<td align="right"><b>250</b></td>
+<td align="right">189</td>
+<td><sub>Barcelona, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">446</td>
+<td><a href="https://github.com/methodofaction"><img src="https://avatars.githubusercontent.com/u/51445?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/methodofaction"><b>Mark MacKay</b></a><br><sub>&#64;methodofaction</sub></td>
+<td align="right"><b>250</b></td>
+<td align="right">25</td>
+<td><sub>Madrid, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">447</td>
+<td><a href="https://github.com/crguezl"><img src="https://avatars.githubusercontent.com/u/1142554?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/crguezl"><b>Casiano Rodriguez-Leon</b></a><br><sub>&#64;crguezl</sub></td>
+<td align="right"><b>249</b></td>
+<td align="right">412</td>
+<td><sub>La Laguna. Tenerife</sub></td>
+</tr>
+<tr>
+<td align="right">448</td>
+<td><a href="https://github.com/jfy133"><img src="https://avatars.githubusercontent.com/u/17950287?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jfy133"><b>James A. Fellows Yates</b></a><br><sub>&#64;jfy133</sub></td>
+<td align="right"><b>249</b></td>
+<td align="right">66</td>
+<td><sub>Catalunya, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">449</td>
 <td><a href="https://github.com/bogdan"><img src="https://avatars.githubusercontent.com/u/122436?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bogdan"><b>Bogdan Gusiev</b></a><br><sub>&#64;bogdan</sub></td>
 <td align="right"><b>244</b></td>
 <td align="right">0</td>
 <td><sub>Barcelona, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">380</td>
+<td align="right">450</td>
 <td><a href="https://github.com/DarkMatterCore"><img src="https://avatars.githubusercontent.com/u/5520707?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DarkMatterCore"><b>Pablo Curiel</b></a><br><sub>&#64;DarkMatterCore</sub></td>
 <td align="right"><b>244</b></td>
 <td align="right">0</td>
 <td><sub>Madrid, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">381</td>
+<td align="right">451</td>
 <td><a href="https://github.com/jaimeiniesta"><img src="https://avatars.githubusercontent.com/u/2629?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jaimeiniesta"><b>Jaime Iniesta</b></a><br><sub>&#64;jaimeiniesta</sub></td>
 <td align="right"><b>244</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">382</td>
+<td align="right">452</td>
 <td><a href="https://github.com/mtrebi"><img src="https://avatars.githubusercontent.com/u/6329747?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mtrebi"><b>mtrebi</b></a><br><sub>&#64;mtrebi</sub></td>
 <td align="right"><b>241</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">383</td>
+<td align="right">453</td>
 <td><a href="https://github.com/elrumo"><img src="https://avatars.githubusercontent.com/u/36299870?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elrumo"><b>Elias</b></a><br><sub>&#64;elrumo</sub></td>
 <td align="right"><b>239</b></td>
 <td align="right">0</td>
 <td><sub>Madrid</sub></td>
 </tr>
 <tr>
-<td align="right">384</td>
+<td align="right">454</td>
 <td><a href="https://github.com/lab52io"><img src="https://avatars.githubusercontent.com/u/55835878?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lab52io"><b>lab52.io</b></a><br><sub>&#64;lab52io</sub></td>
 <td align="right"><b>236</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">385</td>
+<td align="right">455</td>
 <td><a href="https://github.com/wesammustafa"><img src="https://avatars.githubusercontent.com/u/33235742?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wesammustafa"><b>Wesam Abousaid</b></a><br><sub>&#64;wesammustafa</sub></td>
 <td align="right"><b>235</b></td>
 <td align="right">0</td>
 <td><sub>Madrid, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">386</td>
+<td align="right">456</td>
 <td><a href="https://github.com/mgonzs13"><img src="https://avatars.githubusercontent.com/u/25979134?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mgonzs13"><b>Miguel Ángel González Santamarta</b></a><br><sub>&#64;mgonzs13</sub></td>
 <td align="right"><b>234</b></td>
 <td align="right">0</td>
 <td><sub>León, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">387</td>
+<td align="right">457</td>
 <td><a href="https://github.com/dreamingechoes"><img src="https://avatars.githubusercontent.com/u/4928335?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dreamingechoes"><b>Iván González Sáiz</b></a><br><sub>&#64;dreamingechoes</sub></td>
 <td align="right"><b>233</b></td>
 <td align="right">0</td>
 <td><sub>Gijón, Asturias</sub></td>
 </tr>
 <tr>
-<td align="right">388</td>
+<td align="right">458</td>
 <td><a href="https://github.com/mysticaltech"><img src="https://avatars.githubusercontent.com/u/518555?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mysticaltech"><b>K. N.</b></a><br><sub>&#64;mysticaltech</sub></td>
 <td align="right"><b>230</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">389</td>
+<td align="right">459</td>
 <td><a href="https://github.com/Zeta36"><img src="https://avatars.githubusercontent.com/u/17341905?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Zeta36"><b>Samuel</b></a><br><sub>&#64;Zeta36</sub></td>
 <td align="right"><b>223</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">390</td>
+<td align="right">460</td>
 <td><a href="https://github.com/lmenezes"><img src="https://avatars.githubusercontent.com/u/750074?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lmenezes"><b>Leonardo Menezes</b></a><br><sub>&#64;lmenezes</sub></td>
 <td align="right"><b>219</b></td>
 <td align="right">0</td>
 <td><sub>Gijón, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">391</td>
+<td align="right">461</td>
 <td><a href="https://github.com/rabbitstack"><img src="https://avatars.githubusercontent.com/u/11174375?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rabbitstack"><b>Nedim Šabić²</b></a><br><sub>&#64;rabbitstack</sub></td>
 <td align="right"><b>219</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">392</td>
+<td align="right">462</td>
 <td><a href="https://github.com/jesusrp98"><img src="https://avatars.githubusercontent.com/u/8961959?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jesusrp98"><b>Jesús Rodríguez</b></a><br><sub>&#64;jesusrp98</sub></td>
 <td align="right"><b>214</b></td>
 <td align="right">0</td>
 <td><sub>Córdoba, Spain.</sub></td>
 </tr>
 <tr>
-<td align="right">393</td>
+<td align="right">463</td>
 <td><a href="https://github.com/rootkit-io"><img src="https://avatars.githubusercontent.com/u/70624375?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rootkit-io"><b>Aditya Singh</b></a><br><sub>&#64;rootkit-io</sub></td>
 <td align="right"><b>210</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">394</td>
+<td align="right">464</td>
 <td><a href="https://github.com/ivmartel"><img src="https://avatars.githubusercontent.com/u/398905?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ivmartel"><b>ivmartel</b></a><br><sub>&#64;ivmartel</sub></td>
 <td align="right"><b>198</b></td>
 <td align="right">0</td>
 <td><sub>Barcelona, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">395</td>
+<td align="right">465</td>
 <td><a href="https://github.com/mrmans0n"><img src="https://avatars.githubusercontent.com/u/534307?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrmans0n"><b>Nacho Lopez</b></a><br><sub>&#64;mrmans0n</sub></td>
 <td align="right"><b>197</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">396</td>
+<td align="right">466</td>
 <td><a href="https://github.com/quobit"><img src="https://avatars.githubusercontent.com/u/5762822?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/quobit"><b>José Carlos García</b></a><br><sub>&#64;quobit</sub></td>
 <td align="right"><b>192</b></td>
 <td align="right">0</td>
 <td><sub>Valencia, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">397</td>
+<td align="right">467</td>
 <td><a href="https://github.com/Serchinastico"><img src="https://avatars.githubusercontent.com/u/3116415?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Serchinastico"><b>Sergio Gutiérrez</b></a><br><sub>&#64;Serchinastico</sub></td>
 <td align="right"><b>192</b></td>
 <td align="right">0</td>
 <td><sub>Madrid</sub></td>
 </tr>
 <tr>
-<td align="right">398</td>
+<td align="right">468</td>
 <td><a href="https://github.com/theypsilon"><img src="https://avatars.githubusercontent.com/u/852246?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/theypsilon"><b>José Manuel Barroso Galindo</b></a><br><sub>&#64;theypsilon</sub></td>
 <td align="right"><b>191</b></td>
 <td align="right">0</td>
 <td><sub>Cádiz, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">399</td>
+<td align="right">469</td>
 <td><a href="https://github.com/educlopez"><img src="https://avatars.githubusercontent.com/u/13372238?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/educlopez"><b>Edu Calvo</b></a><br><sub>&#64;educlopez</sub></td>
 <td align="right"><b>190</b></td>
 <td align="right">0</td>
 <td><sub>Madrid/Spain</sub></td>
 </tr>
 <tr>
-<td align="right">400</td>
+<td align="right">470</td>
+<td><a href="https://github.com/teticio"><img src="https://avatars.githubusercontent.com/u/44233095?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/teticio"><b>Robert Dargavel Smith</b></a><br><sub>&#64;teticio</sub></td>
+<td align="right"><b>188</b></td>
+<td align="right">0</td>
+<td><sub>Madrid, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">471</td>
 <td><a href="https://github.com/lobuhi"><img src="https://avatars.githubusercontent.com/u/37011545?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lobuhi"><b>Luis Toro (&#64;lobuhisec)</b></a><br><sub>&#64;lobuhi</sub></td>
 <td align="right"><b>186</b></td>
 <td align="right">0</td>
 <td><sub>Barcelona, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">401</td>
+<td align="right">472</td>
 <td><a href="https://github.com/andrewekhalel"><img src="https://avatars.githubusercontent.com/u/12964750?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andrewekhalel"><b>Andrew Khalel</b></a><br><sub>&#64;andrewekhalel</sub></td>
 <td align="right"><b>184</b></td>
 <td align="right">0</td>
 <td><sub>Madrid</sub></td>
 </tr>
 <tr>
-<td align="right">402</td>
+<td align="right">473</td>
 <td><a href="https://github.com/tombatossals"><img src="https://avatars.githubusercontent.com/u/124169?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tombatossals"><b>David Rubert</b></a><br><sub>&#64;tombatossals</sub></td>
 <td align="right"><b>183</b></td>
 <td align="right">0</td>
 <td><sub>Benicàssim</sub></td>
 </tr>
 <tr>
-<td align="right">403</td>
+<td align="right">474</td>
 <td><a href="https://github.com/fcsonline"><img src="https://avatars.githubusercontent.com/u/135988?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fcsonline"><b>Ferran Basora</b></a><br><sub>&#64;fcsonline</sub></td>
 <td align="right"><b>181</b></td>
 <td align="right">0</td>
 <td><sub>Barcelona, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">404</td>
+<td align="right">475</td>
 <td><a href="https://github.com/albfan"><img src="https://avatars.githubusercontent.com/u/220968?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/albfan"><b>Alberto Fanjul</b></a><br><sub>&#64;albfan</sub></td>
 <td align="right"><b>174</b></td>
 <td align="right">0</td>
 <td><sub>Gijón, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">405</td>
+<td align="right">476</td>
 <td><a href="https://github.com/aperezdc"><img src="https://avatars.githubusercontent.com/u/723451?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aperezdc"><b>Adrian Perez</b></a><br><sub>&#64;aperezdc</sub></td>
 <td align="right"><b>174</b></td>
 <td align="right">0</td>
 <td><sub>Sunny Central Spain</sub></td>
 </tr>
 <tr>
-<td align="right">406</td>
+<td align="right">477</td>
+<td><a href="https://github.com/arget13"><img src="https://avatars.githubusercontent.com/u/44529046?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arget13"><b>Yago</b></a><br><sub>&#64;arget13</sub></td>
+<td align="right"><b>172</b></td>
+<td align="right">0</td>
+<td><sub>Madrid, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">478</td>
 <td><a href="https://github.com/jlmd"><img src="https://avatars.githubusercontent.com/u/6186326?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jlmd"><b>José Luis Martín</b></a><br><sub>&#64;jlmd</sub></td>
 <td align="right"><b>169</b></td>
 <td align="right">0</td>
 <td><sub>Murcia, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">407</td>
+<td align="right">479</td>
 <td><a href="https://github.com/AngelLM"><img src="https://avatars.githubusercontent.com/u/7718505?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AngelLM"><b>AngelLM</b></a><br><sub>&#64;AngelLM</sub></td>
 <td align="right"><b>168</b></td>
 <td align="right">0</td>
 <td><sub>Madrid, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">408</td>
+<td align="right">480</td>
 <td><a href="https://github.com/robotshell"><img src="https://avatars.githubusercontent.com/u/51330800?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/robotshell"><b>Robotshell</b></a><br><sub>&#64;robotshell</sub></td>
 <td align="right"><b>166</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">409</td>
+<td align="right">481</td>
 <td><a href="https://github.com/klaufel"><img src="https://avatars.githubusercontent.com/u/1427623?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/klaufel"><b>Juan Carlos Ruiz</b></a><br><sub>&#64;klaufel</sub></td>
 <td align="right"><b>165</b></td>
 <td align="right">0</td>
 <td><sub>Barcelona, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">410</td>
+<td align="right">482</td>
 <td><a href="https://github.com/MrTuxx"><img src="https://avatars.githubusercontent.com/u/48191819?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MrTuxx"><b>MrTux</b></a><br><sub>&#64;MrTuxx</sub></td>
 <td align="right"><b>164</b></td>
 <td align="right">0</td>
 <td><sub>Canary Islands</sub></td>
 </tr>
 <tr>
-<td align="right">411</td>
+<td align="right">483</td>
 <td><a href="https://github.com/emcrisostomo"><img src="https://avatars.githubusercontent.com/u/6645610?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/emcrisostomo"><b>Enrico Maria Crisostomo</b></a><br><sub>&#64;emcrisostomo</sub></td>
 <td align="right"><b>162</b></td>
 <td align="right">0</td>
 <td><sub>Madrid, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">412</td>
+<td align="right">484</td>
 <td><a href="https://github.com/adon90"><img src="https://avatars.githubusercontent.com/u/7115563?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adon90"><b>aDoN</b></a><br><sub>&#64;adon90</sub></td>
 <td align="right"><b>161</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">413</td>
+<td align="right">485</td>
 <td><a href="https://github.com/felHR85"><img src="https://avatars.githubusercontent.com/u/2222321?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/felHR85"><b>Felipe Herranz</b></a><br><sub>&#64;felHR85</sub></td>
 <td align="right"><b>159</b></td>
 <td align="right">0</td>
 <td><sub>Madrid, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">414</td>
+<td align="right">486</td>
 <td><a href="https://github.com/jacoborus"><img src="https://avatars.githubusercontent.com/u/829859?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jacoborus"><b>Jacobo Tabernero Rey</b></a><br><sub>&#64;jacoborus</sub></td>
 <td align="right"><b>159</b></td>
 <td align="right">0</td>
 <td><sub>A Coruña, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">415</td>
-<td><a href="https://github.com/juliomrqz"><img src="https://avatars.githubusercontent.com/u/1911993?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/juliomrqz"><b>Julio Marquez</b></a><br><sub>&#64;juliomrqz</sub></td>
-<td align="right"><b>158</b></td>
+<td align="right">487</td>
+<td><a href="https://github.com/truizlop"><img src="https://avatars.githubusercontent.com/u/2371603?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/truizlop"><b>Tomás Ruiz-López</b></a><br><sub>&#64;truizlop</sub></td>
+<td align="right"><b>159</b></td>
 <td align="right">0</td>
-<td><sub>Spain</sub></td>
+<td><sub>Madrid, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">416</td>
+<td align="right">488</td>
 <td><a href="https://github.com/cbovis"><img src="https://avatars.githubusercontent.com/u/34132?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cbovis"><b>Craig Bovis</b></a><br><sub>&#64;cbovis</sub></td>
 <td align="right"><b>157</b></td>
 <td align="right">0</td>
 <td><sub>Barcelona, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">417</td>
+<td align="right">489</td>
 <td><a href="https://github.com/javieraviles"><img src="https://avatars.githubusercontent.com/u/8101719?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/javieraviles"><b>Javier Aviles</b></a><br><sub>&#64;javieraviles</sub></td>
 <td align="right"><b>157</b></td>
 <td align="right">0</td>
 <td><sub>Murcia, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">418</td>
+<td align="right">490</td>
+<td><a href="https://github.com/juliomrqz"><img src="https://avatars.githubusercontent.com/u/1911993?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/juliomrqz"><b>Julio Marquez</b></a><br><sub>&#64;juliomrqz</sub></td>
+<td align="right"><b>157</b></td>
+<td align="right">0</td>
+<td><sub>Spain</sub></td>
+</tr>
+<tr>
+<td align="right">491</td>
+<td><a href="https://github.com/sdesalas"><img src="https://avatars.githubusercontent.com/u/534414?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sdesalas"><b>Steven de Salas</b></a><br><sub>&#64;sdesalas</sub></td>
+<td align="right"><b>153</b></td>
+<td align="right">0</td>
+<td><sub>Madrid</sub></td>
+</tr>
+<tr>
+<td align="right">492</td>
 <td><a href="https://github.com/guumaster"><img src="https://avatars.githubusercontent.com/u/765396?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/guumaster"><b>Gustavo Marin</b></a><br><sub>&#64;guumaster</sub></td>
 <td align="right"><b>151</b></td>
 <td align="right">0</td>
 <td><sub>Madrid, España</sub></td>
 </tr>
 <tr>
-<td align="right">419</td>
+<td align="right">493</td>
 <td><a href="https://github.com/joedicastro"><img src="https://avatars.githubusercontent.com/u/390964?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joedicastro"><b>joe di castro</b></a><br><sub>&#64;joedicastro</sub></td>
 <td align="right"><b>151</b></td>
 <td align="right">0</td>
 <td><sub>A Coruña, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">420</td>
+<td align="right">494</td>
 <td><a href="https://github.com/gabotechs"><img src="https://avatars.githubusercontent.com/u/45515538?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gabotechs"><b>Gabriel</b></a><br><sub>&#64;gabotechs</sub></td>
 <td align="right"><b>148</b></td>
 <td align="right">0</td>
 <td><sub>Madrid, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">421</td>
+<td align="right">495</td>
 <td><a href="https://github.com/reneargento"><img src="https://avatars.githubusercontent.com/u/3593362?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/reneargento"><b>Rene Argento</b></a><br><sub>&#64;reneargento</sub></td>
 <td align="right"><b>147</b></td>
 <td align="right">0</td>
 <td><sub>Barcelona, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">422</td>
+<td align="right">496</td>
 <td><a href="https://github.com/CristianQiu"><img src="https://avatars.githubusercontent.com/u/10924243?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CristianQiu"><b>Cristian Qiu</b></a><br><sub>&#64;CristianQiu</sub></td>
 <td align="right"><b>145</b></td>
 <td align="right">0</td>
 <td><sub>Zaragoza, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">423</td>
+<td align="right">497</td>
 <td><a href="https://github.com/nuxsmin"><img src="https://avatars.githubusercontent.com/u/1775774?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nuxsmin"><b>RubénD</b></a><br><sub>&#64;nuxsmin</sub></td>
 <td align="right"><b>144</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">424</td>
+<td align="right">498</td>
+<td><a href="https://github.com/AlvaroFranco"><img src="https://avatars.githubusercontent.com/u/1408186?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlvaroFranco"><b>Álvaro Franco</b></a><br><sub>&#64;AlvaroFranco</sub></td>
+<td align="right"><b>141</b></td>
+<td align="right">0</td>
+<td><sub>Spain</sub></td>
+</tr>
+<tr>
+<td align="right">499</td>
+<td><a href="https://github.com/FireZenk"><img src="https://avatars.githubusercontent.com/u/1595403?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FireZenk"><b>Jorge Garrido</b></a><br><sub>&#64;FireZenk</sub></td>
+<td align="right"><b>141</b></td>
+<td align="right">0</td>
+<td><sub>Ciudad Quesada, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">500</td>
+<td><a href="https://github.com/tciuro"><img src="https://avatars.githubusercontent.com/u/412899?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tciuro"><b>Tito Ciuro</b></a><br><sub>&#64;tciuro</sub></td>
+<td align="right"><b>141</b></td>
+<td align="right">0</td>
+<td><sub>Barcelona, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">501</td>
 <td><a href="https://github.com/Josee9988"><img src="https://avatars.githubusercontent.com/u/38838976?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Josee9988"><b>Jose Gracia Berenguer</b></a><br><sub>&#64;Josee9988</sub></td>
 <td align="right"><b>138</b></td>
 <td align="right">0</td>
 <td><sub>Alcoy, Alicante, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">425</td>
+<td align="right">502</td>
 <td><a href="https://github.com/ravens"><img src="https://avatars.githubusercontent.com/u/104708?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ravens"><b>Yan Grunenberger</b></a><br><sub>&#64;ravens</sub></td>
 <td align="right"><b>136</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">426</td>
+<td align="right">503</td>
 <td><a href="https://github.com/phynet"><img src="https://avatars.githubusercontent.com/u/724536?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/phynet"><b>Sofia Swidarowicz</b></a><br><sub>&#64;phynet</sub></td>
 <td align="right"><b>134</b></td>
 <td align="right">0</td>
 <td><sub>Madrid</sub></td>
 </tr>
 <tr>
-<td align="right">427</td>
+<td align="right">504</td>
 <td><a href="https://github.com/dev-xo"><img src="https://avatars.githubusercontent.com/u/82425492?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dev-xo"><b>Daniel Kanem</b></a><br><sub>&#64;dev-xo</sub></td>
 <td align="right"><b>133</b></td>
 <td align="right">0</td>
 <td><sub>Madrid, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">428</td>
+<td align="right">505</td>
 <td><a href="https://github.com/jonan"><img src="https://avatars.githubusercontent.com/u/1110193?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jonan"><b>Jon Ander Peñalba</b></a><br><sub>&#64;jonan</sub></td>
 <td align="right"><b>133</b></td>
 <td align="right">0</td>
 <td><sub>Bilbao, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">429</td>
+<td align="right">506</td>
 <td><a href="https://github.com/angelolloqui"><img src="https://avatars.githubusercontent.com/u/1382659?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/angelolloqui"><b>Angel G. Olloqui</b></a><br><sub>&#64;angelolloqui</sub></td>
 <td align="right"><b>130</b></td>
 <td align="right">0</td>
 <td><sub>Madrid, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">430</td>
+<td align="right">507</td>
 <td><a href="https://github.com/chenflux"><img src="https://avatars.githubusercontent.com/u/59290222?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chenflux"><b>chenflux</b></a><br><sub>&#64;chenflux</sub></td>
 <td align="right"><b>130</b></td>
 <td align="right">0</td>
 <td><sub>sea</sub></td>
 </tr>
 <tr>
-<td align="right">431</td>
+<td align="right">508</td>
 <td><a href="https://github.com/lucasviola"><img src="https://avatars.githubusercontent.com/u/3988101?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lucasviola"><b>Lucas</b></a><br><sub>&#64;lucasviola</sub></td>
 <td align="right"><b>130</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">432</td>
+<td align="right">509</td>
+<td><a href="https://github.com/osopromadze"><img src="https://avatars.githubusercontent.com/u/20339349?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/osopromadze"><b>Omari Sopromadze</b></a><br><sub>&#64;osopromadze</sub></td>
+<td align="right"><b>130</b></td>
+<td align="right">0</td>
+<td><sub>Santander, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">510</td>
+<td><a href="https://github.com/Sefford"><img src="https://avatars.githubusercontent.com/u/878293?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sefford"><b>Saúl Díaz</b></a><br><sub>&#64;Sefford</sub></td>
+<td align="right"><b>128</b></td>
+<td align="right">0</td>
+<td><sub>Spain</sub></td>
+</tr>
+<tr>
+<td align="right">511</td>
 <td><a href="https://github.com/Ereza"><img src="https://avatars.githubusercontent.com/u/285008?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ereza"><b>Eduard Ereza Martínez</b></a><br><sub>&#64;Ereza</sub></td>
 <td align="right"><b>127</b></td>
 <td align="right">0</td>
 <td><sub>Barcelona / L&#39;Espluga Calba, Catalonia</sub></td>
 </tr>
 <tr>
-<td align="right">433</td>
+<td align="right">512</td>
 <td><a href="https://github.com/pablouser1"><img src="https://avatars.githubusercontent.com/u/17802865?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pablouser1"><b>Pablo Ferreiro</b></a><br><sub>&#64;pablouser1</sub></td>
 <td align="right"><b>126</b></td>
 <td align="right">0</td>
 <td><sub>Málaga, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">434</td>
+<td align="right">513</td>
 <td><a href="https://github.com/atomashpolskiy"><img src="https://avatars.githubusercontent.com/u/3748998?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/atomashpolskiy"><b>Andrei Tomashpolskiy</b></a><br><sub>&#64;atomashpolskiy</sub></td>
 <td align="right"><b>123</b></td>
 <td align="right">0</td>
 <td><sub>Malaga, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">435</td>
+<td align="right">514</td>
 <td><a href="https://github.com/aleixrodriala"><img src="https://avatars.githubusercontent.com/u/11310358?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aleixrodriala"><b>arodriala</b></a><br><sub>&#64;aleixrodriala</sub></td>
 <td align="right"><b>122</b></td>
 <td align="right">0</td>
 <td><sub>Barcelona, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">436</td>
+<td align="right">515</td>
 <td><a href="https://github.com/savsgio"><img src="https://avatars.githubusercontent.com/u/13466135?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/savsgio"><b>Sergio VS</b></a><br><sub>&#64;savsgio</sub></td>
 <td align="right"><b>122</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">437</td>
+<td align="right">516</td>
 <td><a href="https://github.com/jiep"><img src="https://avatars.githubusercontent.com/u/414463?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jiep"><b>José Ignacio Escribano</b></a><br><sub>&#64;jiep</sub></td>
 <td align="right"><b>120</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">438</td>
+<td align="right">517</td>
 <td><a href="https://github.com/Aljullu"><img src="https://avatars.githubusercontent.com/u/3616980?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aljullu"><b>Albert Juhé Lluveras</b></a><br><sub>&#64;Aljullu</sub></td>
 <td align="right"><b>119</b></td>
 <td align="right">0</td>
 <td><sub>Barcelona, Catalonia</sub></td>
 </tr>
 <tr>
-<td align="right">439</td>
+<td align="right">518</td>
+<td><a href="https://github.com/Microck"><img src="https://avatars.githubusercontent.com/u/45483921?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Microck"><b>Microck</b></a><br><sub>&#64;Microck</sub></td>
+<td align="right"><b>118</b></td>
+<td align="right">0</td>
+<td><sub>Spain</sub></td>
+</tr>
+<tr>
+<td align="right">519</td>
 <td><a href="https://github.com/Nazariglez"><img src="https://avatars.githubusercontent.com/u/1929191?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nazariglez"><b>Nazarí González</b></a><br><sub>&#64;Nazariglez</sub></td>
 <td align="right"><b>118</b></td>
 <td align="right">0</td>
 <td><sub>Tenerife, Canary Islands</sub></td>
 </tr>
 <tr>
-<td align="right">440</td>
+<td align="right">520</td>
+<td><a href="https://github.com/ronnylt"><img src="https://avatars.githubusercontent.com/u/24546?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ronnylt"><b>Ronny López</b></a><br><sub>&#64;ronnylt</sub></td>
+<td align="right"><b>118</b></td>
+<td align="right">0</td>
+<td><sub>Barcelona, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">521</td>
 <td><a href="https://github.com/mawrkus"><img src="https://avatars.githubusercontent.com/u/600256?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mawrkus"><b>Marc Mignonsin</b></a><br><sub>&#64;mawrkus</sub></td>
 <td align="right"><b>117</b></td>
 <td align="right">0</td>
 <td><sub>Barcelona, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">441</td>
+<td align="right">522</td>
 <td><a href="https://github.com/ipazc"><img src="https://avatars.githubusercontent.com/u/6841743?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ipazc"><b>Iván de Paz Centeno</b></a><br><sub>&#64;ipazc</sub></td>
 <td align="right"><b>116</b></td>
 <td align="right">0</td>
 <td><sub>León, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">442</td>
+<td align="right">523</td>
 <td><a href="https://github.com/lemunozm"><img src="https://avatars.githubusercontent.com/u/15687891?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lemunozm"><b>Luis Enrique Muñoz Martín</b></a><br><sub>&#64;lemunozm</sub></td>
 <td align="right"><b>114</b></td>
 <td align="right">0</td>
 <td><sub>Madrid</sub></td>
 </tr>
 <tr>
-<td align="right">443</td>
+<td align="right">524</td>
 <td><a href="https://github.com/xk"><img src="https://avatars.githubusercontent.com/u/96355?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xk"><b>xk</b></a><br><sub>&#64;xk</sub></td>
 <td align="right"><b>114</b></td>
 <td align="right">0</td>
 <td><sub>España</sub></td>
 </tr>
 <tr>
-<td align="right">444</td>
+<td align="right">525</td>
+<td><a href="https://github.com/joanhey"><img src="https://avatars.githubusercontent.com/u/249085?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joanhey"><b>Joan Miquel</b></a><br><sub>&#64;joanhey</sub></td>
+<td align="right"><b>113</b></td>
+<td align="right">0</td>
+<td><sub>Mallorca, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">526</td>
 <td><a href="https://github.com/guigrpa"><img src="https://avatars.githubusercontent.com/u/2129481?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/guigrpa"><b>Guillermo Grau Panea</b></a><br><sub>&#64;guigrpa</sub></td>
 <td align="right"><b>112</b></td>
 <td align="right">0</td>
 <td><sub>Barcelona, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">445</td>
+<td align="right">527</td>
 <td><a href="https://github.com/Rapsssito"><img src="https://avatars.githubusercontent.com/u/44206249?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rapsssito"><b>Rodrigo Martín</b></a><br><sub>&#64;Rapsssito</sub></td>
 <td align="right"><b>111</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">446</td>
+<td align="right">528</td>
 <td><a href="https://github.com/Almamu"><img src="https://avatars.githubusercontent.com/u/751307?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Almamu"><b>Alexis Maiquez</b></a><br><sub>&#64;Almamu</sub></td>
 <td align="right"><b>109</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">447</td>
+<td align="right">529</td>
 <td><a href="https://github.com/sneako"><img src="https://avatars.githubusercontent.com/u/7762396?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sneako"><b>nico piderman</b></a><br><sub>&#64;sneako</sub></td>
 <td align="right"><b>109</b></td>
 <td align="right">0</td>
 <td><sub>Barcelona, ES</sub></td>
 </tr>
 <tr>
-<td align="right">448</td>
+<td align="right">530</td>
 <td><a href="https://github.com/blob42"><img src="https://avatars.githubusercontent.com/u/210457?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/blob42"><b>Chakib Benziane</b></a><br><sub>&#64;blob42</sub></td>
 <td align="right"><b>104</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">449</td>
+<td align="right">531</td>
 <td><a href="https://github.com/fsquillace"><img src="https://avatars.githubusercontent.com/u/1221843?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fsquillace"><b>Filippo Squillace</b></a><br><sub>&#64;fsquillace</sub></td>
 <td align="right"><b>102</b></td>
 <td align="right">0</td>
 <td><sub>Valencia, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">450</td>
+<td align="right">532</td>
 <td><a href="https://github.com/just-jeb"><img src="https://avatars.githubusercontent.com/u/9823087?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/just-jeb"><b>JeB</b></a><br><sub>&#64;just-jeb</sub></td>
 <td align="right"><b>101</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">451</td>
+<td align="right">533</td>
 <td><a href="https://github.com/RafaelGB"><img src="https://avatars.githubusercontent.com/u/11924043?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RafaelGB"><b>Rafael Gómez Bermejo</b></a><br><sub>&#64;RafaelGB</sub></td>
 <td align="right"><b>100</b></td>
 <td align="right">0</td>
 <td><sub>Madrid</sub></td>
 </tr>
 <tr>
-<td align="right">452</td>
+<td align="right">534</td>
 <td><a href="https://github.com/rebelytics"><img src="https://avatars.githubusercontent.com/u/261660926?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rebelytics"><b>Eoghan Henn</b></a><br><sub>&#64;rebelytics</sub></td>
 <td align="right"><b>100</b></td>
 <td align="right">0</td>
 <td><sub>Santiago de Compostela</sub></td>
 </tr>
 <tr>
-<td align="right">453</td>
+<td align="right">535</td>
 <td><a href="https://github.com/domferr"><img src="https://avatars.githubusercontent.com/u/14203981?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/domferr"><b>Domenico</b></a><br><sub>&#64;domferr</sub></td>
 <td align="right"><b>98</b></td>
 <td align="right">0</td>
 <td><sub>Madrid</sub></td>
 </tr>
 <tr>
-<td align="right">454</td>
+<td align="right">536</td>
 <td><a href="https://github.com/aluismoya"><img src="https://avatars.githubusercontent.com/u/3020026?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aluismoya"><b>Angel Luis Moya</b></a><br><sub>&#64;aluismoya</sub></td>
 <td align="right"><b>97</b></td>
 <td align="right">0</td>
 <td><sub>Madrid</sub></td>
 </tr>
 <tr>
-<td align="right">455</td>
+<td align="right">537</td>
 <td><a href="https://github.com/NotRequiem"><img src="https://avatars.githubusercontent.com/u/114197630?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NotRequiem"><b>Requiem</b></a><br><sub>&#64;NotRequiem</sub></td>
 <td align="right"><b>96</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">456</td>
+<td align="right">538</td>
 <td><a href="https://github.com/pedroCabrera"><img src="https://avatars.githubusercontent.com/u/16350438?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pedroCabrera"><b>Pedrito</b></a><br><sub>&#64;pedroCabrera</sub></td>
 <td align="right"><b>95</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">457</td>
+<td align="right">539</td>
 <td><a href="https://github.com/moritz-wundke"><img src="https://avatars.githubusercontent.com/u/414077?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/moritz-wundke"><b>Moritz Wundke</b></a><br><sub>&#64;moritz-wundke</sub></td>
 <td align="right"><b>93</b></td>
 <td align="right">0</td>
 <td><sub>Palma de Mallorca (Spain)</sub></td>
 </tr>
 <tr>
-<td align="right">458</td>
+<td align="right">540</td>
+<td><a href="https://github.com/xavysp"><img src="https://avatars.githubusercontent.com/u/3678862?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xavysp"><b>Xavier Soria Poma</b></a><br><sub>&#64;xavysp</sub></td>
+<td align="right"><b>93</b></td>
+<td align="right">0</td>
+<td><sub>Spain</sub></td>
+</tr>
+<tr>
+<td align="right">541</td>
 <td><a href="https://github.com/scambra"><img src="https://avatars.githubusercontent.com/u/20515?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/scambra"><b>Sergio Cambra</b></a><br><sub>&#64;scambra</sub></td>
 <td align="right"><b>91</b></td>
 <td align="right">0</td>
 <td><sub>Zaragoza, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">459</td>
+<td align="right">542</td>
 <td><a href="https://github.com/x2bool"><img src="https://avatars.githubusercontent.com/u/892945?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/x2bool"><b>Sergey Khabibullin</b></a><br><sub>&#64;x2bool</sub></td>
 <td align="right"><b>91</b></td>
 <td align="right">0</td>
 <td><sub>Barcelona, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">460</td>
+<td align="right">543</td>
 <td><a href="https://github.com/nico2sh"><img src="https://avatars.githubusercontent.com/u/6094153?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nico2sh"><b>Nico Hormazábal</b></a><br><sub>&#64;nico2sh</sub></td>
 <td align="right"><b>90</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">461</td>
+<td align="right">544</td>
 <td><a href="https://github.com/EdyJ"><img src="https://avatars.githubusercontent.com/u/6773528?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EdyJ"><b>Angel &quot;Edy&quot; García</b></a><br><sub>&#64;EdyJ</sub></td>
 <td align="right"><b>86</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">462</td>
+<td align="right">545</td>
 <td><a href="https://github.com/jmcerrejon"><img src="https://avatars.githubusercontent.com/u/1942431?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jmcerrejon"><b>Jose Cerrejon</b></a><br><sub>&#64;jmcerrejon</sub></td>
 <td align="right"><b>86</b></td>
 <td align="right">0</td>
 <td><sub>Huelva, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">463</td>
+<td align="right">546</td>
 <td><a href="https://github.com/moncho"><img src="https://avatars.githubusercontent.com/u/50428?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/moncho"><b>moncho</b></a><br><sub>&#64;moncho</sub></td>
 <td align="right"><b>86</b></td>
 <td align="right">0</td>
 <td><sub>Madrid</sub></td>
 </tr>
 <tr>
-<td align="right">464</td>
+<td align="right">547</td>
 <td><a href="https://github.com/crystian"><img src="https://avatars.githubusercontent.com/u/3886806?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/crystian"><b>Crystian</b></a><br><sub>&#64;crystian</sub></td>
 <td align="right"><b>85</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">465</td>
+<td align="right">548</td>
 <td><a href="https://github.com/beltransen"><img src="https://avatars.githubusercontent.com/u/2643936?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/beltransen"><b>Jorge Beltrán de la Cita</b></a><br><sub>&#64;beltransen</sub></td>
 <td align="right"><b>84</b></td>
 <td align="right">0</td>
 <td><sub>Madrid</sub></td>
 </tr>
 <tr>
-<td align="right">466</td>
+<td align="right">549</td>
+<td><a href="https://github.com/SegoCode"><img src="https://avatars.githubusercontent.com/u/35817798?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SegoCode"><b>SegoCode</b></a><br><sub>&#64;SegoCode</sub></td>
+<td align="right"><b>83</b></td>
+<td align="right">0</td>
+<td><sub>Spain</sub></td>
+</tr>
+<tr>
+<td align="right">550</td>
 <td><a href="https://github.com/Plortinus"><img src="https://avatars.githubusercontent.com/u/20693993?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Plortinus"><b>Plortinus</b></a><br><sub>&#64;Plortinus</sub></td>
 <td align="right"><b>82</b></td>
 <td align="right">0</td>
 <td><sub>Madrid</sub></td>
 </tr>
 <tr>
-<td align="right">467</td>
+<td align="right">551</td>
 <td><a href="https://github.com/vicajilau"><img src="https://avatars.githubusercontent.com/u/34163765?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vicajilau"><b>Victor Carreras</b></a><br><sub>&#64;vicajilau</sub></td>
 <td align="right"><b>82</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">468</td>
+<td align="right">552</td>
 <td><a href="https://github.com/javierbrea"><img src="https://avatars.githubusercontent.com/u/983381?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/javierbrea"><b>Javier Brea</b></a><br><sub>&#64;javierbrea</sub></td>
 <td align="right"><b>81</b></td>
 <td align="right">0</td>
 <td><sub>Madrid, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">469</td>
+<td align="right">553</td>
 <td><a href="https://github.com/mikaku"><img src="https://avatars.githubusercontent.com/u/829885?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikaku"><b>Jordi Sanfeliu i Font</b></a><br><sub>&#64;mikaku</sub></td>
 <td align="right"><b>81</b></td>
 <td align="right">0</td>
 <td><sub>Catalonia</sub></td>
 </tr>
 <tr>
-<td align="right">470</td>
+<td align="right">554</td>
 <td><a href="https://github.com/BluestormDNA"><img src="https://avatars.githubusercontent.com/u/28767885?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BluestormDNA"><b>Pedro Cortés</b></a><br><sub>&#64;BluestormDNA</sub></td>
 <td align="right"><b>80</b></td>
 <td align="right">0</td>
 <td><sub>Barcelona, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">471</td>
+<td align="right">555</td>
 <td><a href="https://github.com/Morantron"><img src="https://avatars.githubusercontent.com/u/3304507?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Morantron"><b>Morantron</b></a><br><sub>&#64;Morantron</sub></td>
 <td align="right"><b>79</b></td>
 <td align="right">0</td>
 <td><sub>Barcelona, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">472</td>
+<td align="right">556</td>
 <td><a href="https://github.com/sandrohanea"><img src="https://avatars.githubusercontent.com/u/40202887?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sandrohanea"><b>Sandro Hanea</b></a><br><sub>&#64;sandrohanea</sub></td>
 <td align="right"><b>79</b></td>
 <td align="right">0</td>
 <td><sub>Barcelona 🇪🇸</sub></td>
 </tr>
 <tr>
-<td align="right">473</td>
+<td align="right">557</td>
 <td><a href="https://github.com/dmunozv04"><img src="https://avatars.githubusercontent.com/u/39565245?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dmunozv04"><b>David</b></a><br><sub>&#64;dmunozv04</sub></td>
 <td align="right"><b>78</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">474</td>
+<td align="right">558</td>
 <td><a href="https://github.com/schenkd"><img src="https://avatars.githubusercontent.com/u/7011623?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/schenkd"><b>David Schenk</b></a><br><sub>&#64;schenkd</sub></td>
 <td align="right"><b>78</b></td>
 <td align="right">0</td>
 <td><sub>Granada, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">475</td>
+<td align="right">559</td>
+<td><a href="https://github.com/viti95"><img src="https://avatars.githubusercontent.com/u/8323882?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/viti95"><b>Victor Nieto</b></a><br><sub>&#64;viti95</sub></td>
+<td align="right"><b>78</b></td>
+<td align="right">0</td>
+<td><sub>Getafe, Madrid</sub></td>
+</tr>
+<tr>
+<td align="right">560</td>
 <td><a href="https://github.com/AIRLegend"><img src="https://avatars.githubusercontent.com/u/9653892?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AIRLegend"><b>Alvaro</b></a><br><sub>&#64;AIRLegend</sub></td>
 <td align="right"><b>77</b></td>
 <td align="right">0</td>
 <td><sub>Madrid, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">476</td>
+<td align="right">561</td>
 <td><a href="https://github.com/arcadefire"><img src="https://avatars.githubusercontent.com/u/3945083?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arcadefire"><b>Angelo Marchesin</b></a><br><sub>&#64;arcadefire</sub></td>
 <td align="right"><b>77</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">477</td>
+<td align="right">562</td>
 <td><a href="https://github.com/eliasgranderubio"><img src="https://avatars.githubusercontent.com/u/11569255?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eliasgranderubio"><b>Elías Grande</b></a><br><sub>&#64;eliasgranderubio</sub></td>
 <td align="right"><b>76</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">478</td>
+<td align="right">563</td>
 <td><a href="https://github.com/juruen"><img src="https://avatars.githubusercontent.com/u/11424?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/juruen"><b>Javier Uruen Val</b></a><br><sub>&#64;juruen</sub></td>
 <td align="right"><b>76</b></td>
 <td align="right">0</td>
 <td><sub>Zaragoza, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">479</td>
+<td align="right">564</td>
 <td><a href="https://github.com/DesarrolloAntonio"><img src="https://avatars.githubusercontent.com/u/7002198?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DesarrolloAntonio"><b>Antonio Corrales</b></a><br><sub>&#64;DesarrolloAntonio</sub></td>
 <td align="right"><b>75</b></td>
 <td align="right">0</td>
 <td><sub>Madrid</sub></td>
 </tr>
 <tr>
-<td align="right">480</td>
+<td align="right">565</td>
 <td><a href="https://github.com/magmax"><img src="https://avatars.githubusercontent.com/u/584026?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/magmax"><b>Miguel Ángel García</b></a><br><sub>&#64;magmax</sub></td>
 <td align="right"><b>75</b></td>
 <td align="right">0</td>
 <td><sub>Ciudad Real</sub></td>
 </tr>
 <tr>
-<td align="right">481</td>
+<td align="right">566</td>
 <td><a href="https://github.com/BadChoice"><img src="https://avatars.githubusercontent.com/u/93900?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BadChoice"><b>Jordi Puigdellívol</b></a><br><sub>&#64;BadChoice</sub></td>
 <td align="right"><b>73</b></td>
 <td align="right">0</td>
 <td><sub>Manresa (Barcelona, Catalunya)</sub></td>
 </tr>
 <tr>
-<td align="right">482</td>
+<td align="right">567</td>
 <td><a href="https://github.com/desko27"><img src="https://avatars.githubusercontent.com/u/4168389?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/desko27"><b>Ismael Ramon</b></a><br><sub>&#64;desko27</sub></td>
 <td align="right"><b>73</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">483</td>
+<td align="right">568</td>
 <td><a href="https://github.com/mattogodoy"><img src="https://avatars.githubusercontent.com/u/1627178?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mattogodoy"><b>Matias Godoy</b></a><br><sub>&#64;mattogodoy</sub></td>
 <td align="right"><b>72</b></td>
 <td align="right">0</td>
 <td><sub>Madrid, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">484</td>
+<td align="right">569</td>
 <td><a href="https://github.com/tmgthb"><img src="https://avatars.githubusercontent.com/u/46755670?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tmgthb"><b>Teemu Maatta</b></a><br><sub>&#64;tmgthb</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">0</td>
 <td><sub>Madrid</sub></td>
 </tr>
 <tr>
-<td align="right">485</td>
+<td align="right">570</td>
 <td><a href="https://github.com/romenrg"><img src="https://avatars.githubusercontent.com/u/1831480?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/romenrg"><b>Romén Rodríguez-Gil</b></a><br><sub>&#64;romenrg</sub></td>
 <td align="right"><b>67</b></td>
 <td align="right">0</td>
 <td><sub>Tenerife, Canary Islands, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">486</td>
+<td align="right">571</td>
 <td><a href="https://github.com/cprcrack"><img src="https://avatars.githubusercontent.com/u/650925?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cprcrack"><b>Cristian Perez</b></a><br><sub>&#64;cprcrack</sub></td>
 <td align="right"><b>65</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">487</td>
+<td align="right">572</td>
+<td><a href="https://github.com/mm2"><img src="https://avatars.githubusercontent.com/u/199618?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mm2"><b>Marti Maria</b></a><br><sub>&#64;mm2</sub></td>
+<td align="right"><b>65</b></td>
+<td align="right">0</td>
+<td><sub>Catalonia</sub></td>
+</tr>
+<tr>
+<td align="right">573</td>
+<td><a href="https://github.com/mmolero"><img src="https://avatars.githubusercontent.com/u/3868004?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mmolero"><b>Miguel Molero</b></a><br><sub>&#64;mmolero</sub></td>
+<td align="right"><b>65</b></td>
+<td align="right">0</td>
+<td><sub>Madrid, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">574</td>
+<td><a href="https://github.com/ozeranskii"><img src="https://avatars.githubusercontent.com/u/1898297?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ozeranskii"><b>Sergei Ozeranskii</b></a><br><sub>&#64;ozeranskii</sub></td>
+<td align="right"><b>64</b></td>
+<td align="right">0</td>
+<td><sub>Spain, Valencia</sub></td>
+</tr>
+<tr>
+<td align="right">575</td>
 <td><a href="https://github.com/megamarc"><img src="https://avatars.githubusercontent.com/u/14149983?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/megamarc"><b>megamarc</b></a><br><sub>&#64;megamarc</sub></td>
 <td align="right"><b>62</b></td>
 <td align="right">0</td>
 <td><sub>Barcelona, Catalonia</sub></td>
 </tr>
 <tr>
-<td align="right">488</td>
+<td align="right">576</td>
 <td><a href="https://github.com/pladaria"><img src="https://avatars.githubusercontent.com/u/579417?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pladaria"><b>Pedro Ladaria</b></a><br><sub>&#64;pladaria</sub></td>
 <td align="right"><b>61</b></td>
 <td align="right">0</td>
 <td><sub>Madrid, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">489</td>
+<td align="right">577</td>
 <td><a href="https://github.com/YabataDesign"><img src="https://avatars.githubusercontent.com/u/945188?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YabataDesign"><b>José María Clemente</b></a><br><sub>&#64;YabataDesign</sub></td>
 <td align="right"><b>59</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">490</td>
+<td align="right">578</td>
 <td><a href="https://github.com/danielcgilibert"><img src="https://avatars.githubusercontent.com/u/44746462?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danielcgilibert"><b>Daniel</b></a><br><sub>&#64;danielcgilibert</sub></td>
 <td align="right"><b>58</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">491</td>
+<td align="right">579</td>
 <td><a href="https://github.com/guiqui"><img src="https://avatars.githubusercontent.com/u/14245134?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/guiqui"><b>Guillermo Quiros</b></a><br><sub>&#64;guiqui</sub></td>
 <td align="right"><b>58</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">492</td>
+<td align="right">580</td>
 <td><a href="https://github.com/franmontiel"><img src="https://avatars.githubusercontent.com/u/9967103?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/franmontiel"><b>Fran Montiel</b></a><br><sub>&#64;franmontiel</sub></td>
 <td align="right"><b>55</b></td>
 <td align="right">0</td>
 <td><sub>Málaga, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">493</td>
+<td align="right">581</td>
 <td><a href="https://github.com/imablanco"><img src="https://avatars.githubusercontent.com/u/11585737?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/imablanco"><b>Álvaro Blanco</b></a><br><sub>&#64;imablanco</sub></td>
 <td align="right"><b>54</b></td>
 <td align="right">0</td>
 <td><sub>Madrid, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">494</td>
+<td align="right">582</td>
 <td><a href="https://github.com/mariomka"><img src="https://avatars.githubusercontent.com/u/1822472?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mariomka"><b>Mario Juárez</b></a><br><sub>&#64;mariomka</sub></td>
 <td align="right"><b>54</b></td>
 <td align="right">0</td>
 <td><sub>Ávila (Spain)</sub></td>
 </tr>
 <tr>
-<td align="right">495</td>
+<td align="right">583</td>
 <td><a href="https://github.com/fferrin"><img src="https://avatars.githubusercontent.com/u/7387552?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fferrin"><b>Facundo Ferrín</b></a><br><sub>&#64;fferrin</sub></td>
 <td align="right"><b>53</b></td>
 <td align="right">0</td>
 <td><sub>Galicia, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">496</td>
+<td align="right">584</td>
+<td><a href="https://github.com/zoddDev"><img src="https://avatars.githubusercontent.com/u/47508538?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zoddDev"><b>Jose Sierra</b></a><br><sub>&#64;zoddDev</sub></td>
+<td align="right"><b>51</b></td>
+<td align="right">0</td>
+<td><sub>Málaga, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">585</td>
 <td><a href="https://github.com/guillevc"><img src="https://avatars.githubusercontent.com/u/13879763?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/guillevc"><b>guille</b></a><br><sub>&#64;guillevc</sub></td>
 <td align="right"><b>50</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">497</td>
+<td align="right">586</td>
 <td><a href="https://github.com/gamosoft"><img src="https://avatars.githubusercontent.com/u/9968384?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gamosoft"><b>Guillermo Villar</b></a><br><sub>&#64;gamosoft</sub></td>
 <td align="right"><b>48</b></td>
 <td align="right">0</td>
 <td><sub>Madrid, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">498</td>
+<td align="right">587</td>
 <td><a href="https://github.com/koeqaife"><img src="https://avatars.githubusercontent.com/u/83244543?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/koeqaife"><b>Koeqaife</b></a><br><sub>&#64;koeqaife</sub></td>
 <td align="right"><b>47</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">499</td>
+<td align="right">588</td>
+<td><a href="https://github.com/CieNTi"><img src="https://avatars.githubusercontent.com/u/5205702?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CieNTi"><b>CieNTi</b></a><br><sub>&#64;CieNTi</sub></td>
+<td align="right"><b>46</b></td>
+<td align="right">0</td>
+<td><sub>Sevilla, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">589</td>
 <td><a href="https://github.com/guillermolg00"><img src="https://avatars.githubusercontent.com/u/85084558?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/guillermolg00"><b>Guillermo López</b></a><br><sub>&#64;guillermolg00</sub></td>
 <td align="right"><b>46</b></td>
 <td align="right">0</td>
 <td><sub>Granada, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">500</td>
+<td align="right">590</td>
 <td><a href="https://github.com/scinos"><img src="https://avatars.githubusercontent.com/u/975703?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/scinos"><b>Sergio Cinos</b></a><br><sub>&#64;scinos</sub></td>
 <td align="right"><b>46</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">501</td>
+<td align="right">591</td>
 <td><a href="https://github.com/celebdor"><img src="https://avatars.githubusercontent.com/u/619423?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/celebdor"><b>Antoni Segura Puimedon</b></a><br><sub>&#64;celebdor</sub></td>
 <td align="right"><b>44</b></td>
 <td align="right">96</td>
 <td><sub>Olesa de Montserrat</sub></td>
 </tr>
 <tr>
-<td align="right">502</td>
+<td align="right">592</td>
 <td><a href="https://github.com/ehlesp"><img src="https://avatars.githubusercontent.com/u/26085340?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ehlesp"><b>Eduardo Higueras Ledesma</b></a><br><sub>&#64;ehlesp</sub></td>
 <td align="right"><b>43</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">503</td>
+<td align="right">593</td>
 <td><a href="https://github.com/isteven"><img src="https://avatars.githubusercontent.com/u/5432100?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/isteven"><b>Steven</b></a><br><sub>&#64;isteven</sub></td>
 <td align="right"><b>43</b></td>
 <td align="right">0</td>
 <td><sub>SEA</sub></td>
 </tr>
 <tr>
-<td align="right">504</td>
+<td align="right">594</td>
 <td><a href="https://github.com/ollm"><img src="https://avatars.githubusercontent.com/u/18549191?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ollm"><b>Oleguer Llopart</b></a><br><sub>&#64;ollm</sub></td>
 <td align="right"><b>43</b></td>
 <td align="right">0</td>
 <td><sub>España</sub></td>
 </tr>
 <tr>
-<td align="right">505</td>
+<td align="right">595</td>
 <td><a href="https://github.com/pablogila"><img src="https://avatars.githubusercontent.com/u/63462062?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pablogila"><b>Pablo Gila-Herranz</b></a><br><sub>&#64;pablogila</sub></td>
 <td align="right"><b>43</b></td>
 <td align="right">0</td>
 <td><sub>Donostia San Sebastián, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">506</td>
+<td align="right">596</td>
 <td><a href="https://github.com/etrepat"><img src="https://avatars.githubusercontent.com/u/148851?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/etrepat"><b>Estanislau Trepat</b></a><br><sub>&#64;etrepat</sub></td>
 <td align="right"><b>41</b></td>
 <td align="right">0</td>
 <td><sub>Lleida, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">507</td>
+<td align="right">597</td>
+<td><a href="https://github.com/luskaner"><img src="https://avatars.githubusercontent.com/u/1903842?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/luskaner"><b>David Fernández Aldana</b></a><br><sub>&#64;luskaner</sub></td>
+<td align="right"><b>41</b></td>
+<td align="right">0</td>
+<td><sub>Barcelona, Catalonia, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">598</td>
 <td><a href="https://github.com/Kablex"><img src="https://avatars.githubusercontent.com/u/3852567?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kablex"><b>Óscar Bernárdez</b></a><br><sub>&#64;Kablex</sub></td>
 <td align="right"><b>36</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">508</td>
+<td align="right">599</td>
 <td><a href="https://github.com/eduardfrigola"><img src="https://avatars.githubusercontent.com/u/7095844?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eduardfrigola"><b>Eduard Frigola</b></a><br><sub>&#64;eduardfrigola</sub></td>
 <td align="right"><b>35</b></td>
 <td align="right">21</td>
 <td><sub>Palau-Sator</sub></td>
 </tr>
 <tr>
-<td align="right">509</td>
+<td align="right">600</td>
+<td><a href="https://github.com/GeekDetour"><img src="https://avatars.githubusercontent.com/u/201973305?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GeekDetour"><b>Everson Siqueira</b></a><br><sub>&#64;GeekDetour</sub></td>
+<td align="right"><b>35</b></td>
+<td align="right">0</td>
+<td><sub>Madrid</sub></td>
+</tr>
+<tr>
+<td align="right">601</td>
 <td><a href="https://github.com/ifsnop"><img src="https://avatars.githubusercontent.com/u/967656?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ifsnop"><b>diego torres</b></a><br><sub>&#64;ifsnop</sub></td>
 <td align="right"><b>35</b></td>
 <td align="right">0</td>
 <td><sub>Madrid / Spain</sub></td>
 </tr>
 <tr>
-<td align="right">510</td>
+<td align="right">602</td>
 <td><a href="https://github.com/BansheeTech"><img src="https://avatars.githubusercontent.com/u/164439782?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BansheeTech"><b>Banshee</b></a><br><sub>&#64;BansheeTech</sub></td>
 <td align="right"><b>32</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">511</td>
+<td align="right">603</td>
 <td><a href="https://github.com/rugarciap"><img src="https://avatars.githubusercontent.com/u/3028855?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rugarciap"><b>Rubén García Pérez</b></a><br><sub>&#64;rugarciap</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">0</td>
 <td><sub>Vigo (Spain)</sub></td>
 </tr>
 <tr>
-<td align="right">512</td>
+<td align="right">604</td>
 <td><a href="https://github.com/agraboso"><img src="https://avatars.githubusercontent.com/u/7795093?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/agraboso"><b>Alicia Garcia-Raboso</b></a><br><sub>&#64;agraboso</sub></td>
 <td align="right"><b>29</b></td>
 <td align="right">0</td>
 <td><sub>Madrid, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">513</td>
+<td align="right">605</td>
+<td><a href="https://github.com/felipebasurto"><img src="https://avatars.githubusercontent.com/u/62935664?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/felipebasurto"><b>Felipe Basurto</b></a><br><sub>&#64;felipebasurto</sub></td>
+<td align="right"><b>29</b></td>
+<td align="right">0</td>
+<td><sub>Madrid</sub></td>
+</tr>
+<tr>
+<td align="right">606</td>
 <td><a href="https://github.com/lasantosr"><img src="https://avatars.githubusercontent.com/u/5946707?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lasantosr"><b>Luis</b></a><br><sub>&#64;lasantosr</sub></td>
 <td align="right"><b>26</b></td>
 <td align="right">0</td>
 <td><sub>Alicante, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">514</td>
+<td align="right">607</td>
 <td><a href="https://github.com/asans-go"><img src="https://avatars.githubusercontent.com/u/145647416?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asans-go"><b>Alba Sans Gonell</b></a><br><sub>&#64;asans-go</sub></td>
 <td align="right"><b>25</b></td>
 <td align="right">2</td>
 <td><sub>Olesa de Montserrat</sub></td>
 </tr>
 <tr>
-<td align="right">515</td>
+<td align="right">608</td>
 <td><a href="https://github.com/CSolanaM"><img src="https://avatars.githubusercontent.com/u/9338271?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CSolanaM"><b>Carlos Solana Martínez</b></a><br><sub>&#64;CSolanaM</sub></td>
 <td align="right"><b>21</b></td>
 <td align="right">0</td>
 <td><sub>Barcelona, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">516</td>
+<td align="right">609</td>
+<td><a href="https://github.com/xfrr"><img src="https://avatars.githubusercontent.com/u/35836929?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xfrr"><b>Fran</b></a><br><sub>&#64;xfrr</sub></td>
+<td align="right"><b>21</b></td>
+<td align="right">0</td>
+<td><sub>Málaga, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">610</td>
 <td><a href="https://github.com/oalfonso-o"><img src="https://avatars.githubusercontent.com/u/9935204?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/oalfonso-o"><b>Oriol Alfonso</b></a><br><sub>&#64;oalfonso-o</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">46</td>
 <td><sub>Palau-solità i Plegamans</sub></td>
 </tr>
 <tr>
-<td align="right">517</td>
+<td align="right">611</td>
+<td><a href="https://github.com/joseluis9595"><img src="https://avatars.githubusercontent.com/u/29345499?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joseluis9595"><b>Jose Luis Álvarez</b></a><br><sub>&#64;joseluis9595</sub></td>
+<td align="right"><b>12</b></td>
+<td align="right">0</td>
+<td><sub>Galicia, Spain</sub></td>
+</tr>
+<tr>
+<td align="right">612</td>
 <td><a href="https://github.com/ddasilva64"><img src="https://avatars.githubusercontent.com/u/78996740?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ddasilva64"><b>Daniel da Silva Jarque</b></a><br><sub>&#64;ddasilva64</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">20</td>
 <td><sub>Olesa de Montserrat</sub></td>
 </tr>
 <tr>
-<td align="right">518</td>
+<td align="right">613</td>
 <td><a href="https://github.com/MarcRodriguezzz"><img src="https://avatars.githubusercontent.com/u/239593949?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MarcRodriguezzz"><b>Marc Rodriguez</b></a><br><sub>&#64;MarcRodriguezzz</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
 <td><sub>Olesa de Montserrat</sub></td>
 </tr>
 <tr>
-<td align="right">519</td>
+<td align="right">614</td>
 <td><a href="https://github.com/monchito007"><img src="https://avatars.githubusercontent.com/u/3443037?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/monchito007"><b>Moisés Aguilar</b></a><br><sub>&#64;monchito007</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">22</td>
 <td><sub>Olesa de Montserrat</sub></td>
 </tr>
 <tr>
-<td align="right">520</td>
+<td align="right">615</td>
 <td><a href="https://github.com/festivaljocmontserrati"><img src="https://avatars.githubusercontent.com/u/248458803?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/festivaljocmontserrati"><b>Festival del Joc del Montserratí</b></a><br><sub>&#64;festivaljocmontserrati</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Olesa de Montserrat</sub></td>
 </tr>
 <tr>
-<td align="right">521</td>
+<td align="right">616</td>
 <td><a href="https://github.com/thinkink"><img src="https://avatars.githubusercontent.com/u/3516168?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thinkink"><b>Pere Thinkink</b></a><br><sub>&#64;thinkink</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">29</td>
 <td><sub>Monistrol de Montserrat - Barcelona</sub></td>
 </tr>
 <tr>
-<td align="right">522</td>
+<td align="right">617</td>
 <td><a href="https://github.com/VictorVictus"><img src="https://avatars.githubusercontent.com/u/52170746?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VictorVictus"><b>Víctor Puche i Alonso</b></a><br><sub>&#64;VictorVictus</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Palau-Solità i Plegamans</sub></td>
 </tr>
 <tr>
-<td align="right">523</td>
+<td align="right">618</td>
 <td><a href="https://github.com/Davidson-Tavares"><img src="https://avatars.githubusercontent.com/u/151482360?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Davidson-Tavares"><b>Davidson-Tavares</b></a><br><sub>&#64;Davidson-Tavares</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Olesa de Montserrat / ES</sub></td>
 </tr>
 <tr>
-<td align="right">524</td>
+<td align="right">619</td>
 <td><a href="https://github.com/jmura2020crn"><img src="https://avatars.githubusercontent.com/u/73556149?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jmura2020crn"><b>Jud&#39;s Murà Calamardo</b></a><br><sub>&#64;jmura2020crn</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Olesa de Montserrat</sub></td>
 </tr>
 <tr>
-<td align="right">525</td>
+<td align="right">620</td>
 <td><a href="https://github.com/SteIarNetwork"><img src="https://avatars.githubusercontent.com/u/204035371?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SteIarNetwork"><b>SteIarNetwork</b></a><br><sub>&#64;SteIarNetwork</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Olesa de Montserrat</sub></td>
 </tr>
 <tr>
-<td align="right">526</td>
+<td align="right">621</td>
 <td><a href="https://github.com/CodeSoftSystems"><img src="https://avatars.githubusercontent.com/u/203880860?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CodeSoftSystems"><b>CodeSoft Systems</b></a><br><sub>&#64;CodeSoftSystems</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Olesa de Montserrat</sub></td>
 </tr>
 <tr>
-<td align="right">527</td>
+<td align="right">622</td>
 <td><a href="https://github.com/jordilario"><img src="https://avatars.githubusercontent.com/u/57086035?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jordilario"><b>jordilario</b></a><br><sub>&#64;jordilario</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Palau solità i plegamans</sub></td>
 </tr>
 <tr>
-<td align="right">528</td>
+<td align="right">623</td>
 <td><a href="https://github.com/X2GianGerard"><img src="https://avatars.githubusercontent.com/u/203694677?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/X2GianGerard"><b>X2GianGerard</b></a><br><sub>&#64;X2GianGerard</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Olesa de Montserrat</sub></td>
 </tr>
 <tr>
-<td align="right">529</td>
+<td align="right">624</td>
 <td><a href="https://github.com/adriadam10"><img src="https://avatars.githubusercontent.com/u/57327458?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adriadam10"><b>Adrià</b></a><br><sub>&#64;adriadam10</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">530</td>
+<td align="right">625</td>
 <td><a href="https://github.com/aleksandr-b"><img src="https://avatars.githubusercontent.com/u/2846171?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aleksandr-b"><b>aleksandr-b</b></a><br><sub>&#64;aleksandr-b</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Olesa de Montserrat</sub></td>
 </tr>
 <tr>
-<td align="right">531</td>
+<td align="right">626</td>
 <td><a href="https://github.com/fdzsergio"><img src="https://avatars.githubusercontent.com/u/557580?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fdzsergio"><b>Sergio Fernández</b></a><br><sub>&#64;fdzsergio</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Madrid</sub></td>
 </tr>
 <tr>
-<td align="right">532</td>
+<td align="right">627</td>
 <td><a href="https://github.com/joanbusquet-mango"><img src="https://avatars.githubusercontent.com/u/90615690?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joanbusquet-mango"><b>Joan Busquet MANGO</b></a><br><sub>&#64;joanbusquet-mango</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Palau-solità i Plegamans</sub></td>
 </tr>
 <tr>
-<td align="right">533</td>
+<td align="right">628</td>
 <td><a href="https://github.com/JordiMaciaSarda"><img src="https://avatars.githubusercontent.com/u/114059790?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JordiMaciaSarda"><b>Jordi Macià Sardà</b></a><br><sub>&#64;JordiMaciaSarda</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>El Palau d&#39;Anglesola</sub></td>
 </tr>
 <tr>
-<td align="right">534</td>
+<td align="right">629</td>
 <td><a href="https://github.com/makeable"><img src="https://avatars.githubusercontent.com/u/95680?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/makeable"><b>Matt Williams</b></a><br><sub>&#64;makeable</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Spain</sub></td>
 </tr>
 <tr>
-<td align="right">535</td>
+<td align="right">630</td>
 <td><a href="https://github.com/nakiostudio"><img src="https://avatars.githubusercontent.com/u/1814571?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nakiostudio"><b>Carlos Vidal</b></a><br><sub>&#64;nakiostudio</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Madrid, Spain</sub></td>
 </tr>
 <tr>
-<td align="right">536</td>
+<td align="right">631</td>
 <td><a href="https://github.com/saulmm"><img src="https://avatars.githubusercontent.com/u/3531999?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/saulmm"><b>Saul Molinero</b></a><br><sub>&#64;saulmm</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -3781,7 +4446,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 536 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 631 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 125 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/developers/PR.json">JSON</a> |
+| 🟡 Provisional | **12** | 22 Nov 2026 | <a href="../../data/developers/PR.json">JSON</a> |
 
 </div>
 
@@ -86,6 +86,20 @@
 </tr>
 <tr>
 <td align="right">10</td>
+<td><a href="https://github.com/FrenzyExists"><img src="https://avatars.githubusercontent.com/u/47986470?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FrenzyExists"><b>Detective Pikachu</b></a><br><sub>&#64;FrenzyExists</sub></td>
+<td align="right"><b>196</b></td>
+<td align="right">0</td>
+<td><sub>Aguadilla, Puerto Rico</sub></td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/jgmdev"><img src="https://avatars.githubusercontent.com/u/1702572?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jgmdev"><b>Jefferson González</b></a><br><sub>&#64;jgmdev</sub></td>
+<td align="right"><b>107</b></td>
+<td align="right">0</td>
+<td><sub>Puerto Rico</sub></td>
+</tr>
+<tr>
+<td align="right">12</td>
 <td><a href="https://github.com/sodiray"><img src="https://avatars.githubusercontent.com/u/15269623?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sodiray"><b>Ray Epps</b></a><br><sub>&#64;sodiray</sub></td>
 <td align="right"><b>88</b></td>
 <td align="right">0</td>
@@ -99,7 +113,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 10 attributed developers are tracked; the cutoff is 88 followers.
+- Organizations are excluded. 12 attributed developers are tracked; the cutoff is 88 followers.
 - **Location discovery:** term 0 of 84 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

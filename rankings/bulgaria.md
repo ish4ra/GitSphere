@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **95** | 04 Nov 2026 | <a href="../data/BG.json">JSON</a> |
-
-> **Not yet re-verified.** 14 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **90** | 22 Nov 2026 | <a href="../data/BG.json">JSON</a> |
 
 </div>
 
@@ -592,101 +590,66 @@
 </tr>
 <tr>
 <td align="right">82</td>
-<td><img src="https://github.com/spytheman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spytheman/simple_kernel_module_in_v"><b>spytheman/simple&#95;kernel&#95;module&#95;in&#95;v</b></a></td>
-<td align="right"><b>28</b></td>
-<td align="right">2</td>
-<td>Makefile</td>
+<td><img src="https://github.com/djlastnight.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/djlastnight/KeyboardSplitterXbox"><b>djlastnight/KeyboardSplitterXbox</b></a><br><sub>Creates up to 4 virtual xbox 360 controllers and feeds them via one or more keyboards.</sub></td>
+<td align="right"><b>888</b></td>
+<td align="right">72</td>
+<td>C#</td>
 </tr>
 <tr>
 <td align="right">83</td>
-<td><img src="https://github.com/luchob.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/luchob/softuni-feb2023"><b>luchob/softuni-feb2023</b></a></td>
-<td align="right"><b>25</b></td>
-<td align="right">14</td>
-<td>Java</td>
+<td><img src="https://github.com/bbatsov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bbatsov/solarized-emacs"><b>bbatsov/solarized-emacs</b></a><br><sub>The Solarized colour theme, ported to Emacs.</sub></td>
+<td align="right"><b>863</b></td>
+<td align="right">175</td>
+<td>Emacs Lisp</td>
 </tr>
 <tr>
 <td align="right">84</td>
-<td><img src="https://github.com/sis0k0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sis0k0/lazyNinjas"><b>sis0k0/lazyNinjas</b></a></td>
-<td align="right"><b>25</b></td>
-<td align="right">6</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/eNMS-automation.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eNMS-automation/eNMS"><b>eNMS-automation/eNMS</b></a><br><sub>An enterprise-grade vendor-agnostic network automation platform.</sub></td>
+<td align="right"><b>847</b></td>
+<td align="right">160</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">85</td>
-<td><img src="https://github.com/narfbg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/narfbg/SimpleEncryption"><b>narfbg/SimpleEncryption</b></a></td>
-<td align="right"><b>22</b></td>
-<td align="right">6</td>
+<td><img src="https://github.com/erusev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/erusev/parsedown-extra"><b>erusev/parsedown-extra</b></a><br><sub>Markdown Extra Extension for Parsedown</sub></td>
+<td align="right"><b>843</b></td>
+<td align="right">132</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">86</td>
-<td><img src="https://github.com/siffash.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/siffash/cookie-fucker"><b>siffash/cookie-fucker</b></a> <sub>archived</sub></td>
-<td align="right"><b>22</b></td>
-<td align="right">0</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/hkdobrev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hkdobrev/cleanmac"><b>hkdobrev/cleanmac</b></a> <sub>archived</sub><br><sub>Clean your macOS with a script, not an expensive app</sub></td>
+<td align="right"><b>820</b></td>
+<td align="right">58</td>
+<td>Shell</td>
 </tr>
 <tr>
 <td align="right">87</td>
-<td><img src="https://github.com/iskalchev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/iskalchev/ThermoBeacon"><b>iskalchev/ThermoBeacon</b></a></td>
-<td align="right"><b>21</b></td>
-<td align="right">6</td>
-<td>Python</td>
+<td><img src="https://github.com/asual.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/asual/jquery-address"><b>asual/jquery-address</b></a><br><sub>jQuery Address - Deep linking for the masses</sub></td>
+<td align="right"><b>804</b></td>
+<td align="right">168</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">88</td>
-<td><img src="https://github.com/stamo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stamo/HouseRentingSystem"><b>stamo/HouseRentingSystem</b></a></td>
-<td align="right"><b>21</b></td>
-<td align="right">0</td>
-<td>C#</td>
+<td><img src="https://github.com/me-no-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/me-no-dev/AsyncTCP"><b>me-no-dev/AsyncTCP</b></a> <sub>archived</sub><br><sub>Async TCP Library for ESP32</sub></td>
+<td align="right"><b>800</b></td>
+<td align="right">489</td>
+<td>C++</td>
 </tr>
 <tr>
 <td align="right">89</td>
-<td><img src="https://github.com/milaabl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/milaabl/readme-chess"><b>milaabl/readme-chess</b></a></td>
-<td align="right"><b>20</b></td>
-<td align="right">0</td>
-<td>Python</td>
+<td><img src="https://github.com/me-no-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/me-no-dev/ESPAsyncTCP"><b>me-no-dev/ESPAsyncTCP</b></a> <sub>archived</sub><br><sub>Async TCP Library for ESP8266</sub></td>
+<td align="right"><b>784</b></td>
+<td align="right">415</td>
+<td>C++</td>
 </tr>
 <tr>
 <td align="right">90</td>
-<td><img src="https://github.com/bankin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bankin/2023-jan-java-advanced"><b>bankin/2023-jan-java-advanced</b></a></td>
-<td align="right"><b>19</b></td>
-<td align="right">0</td>
-<td>Java</td>
-</tr>
-<tr>
+<td><img src="https://github.com/krasimir.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/krasimir/gifffer"><b>krasimir/gifffer</b></a><br><sub>A tiny JavaScript library that prevents the autoplaying of the animated Gifs</sub></td>
+<td align="right"><b>778</b></td>
 <td align="right">91</td>
-<td><img src="https://github.com/lanastasov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lanastasov/mt-mql"><b>lanastasov/mt-mql</b></a></td>
-<td align="right"><b>18</b></td>
-<td align="right">5</td>
-<td>MQL5</td>
-</tr>
-<tr>
-<td align="right">92</td>
-<td><img src="https://github.com/alexmehandzhiyska.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexmehandzhiyska/js-fundamentals-correction-tasks"><b>alexmehandzhiyska/js-fundamentals-correction-tasks</b></a></td>
-<td align="right"><b>18</b></td>
-<td align="right">2</td>
 <td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">93</td>
-<td><img src="https://github.com/elenadimitrova.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/elenadimitrova/ContractFactory"><b>elenadimitrova/ContractFactory</b></a></td>
-<td align="right"><b>14</b></td>
-<td align="right">9</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">94</td>
-<td><img src="https://github.com/ivailopapazov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ivailopapazov/softuni-cubicle-may-2023"><b>ivailopapazov/softuni-cubicle-may-2023</b></a></td>
-<td align="right"><b>14</b></td>
-<td align="right">5</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">95</td>
-<td><img src="https://github.com/ivandortulov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ivandortulov/godot-ps2"><b>ivandortulov/godot-ps2</b></a></td>
-<td align="right"><b>11</b></td>
-<td align="right">1</td>
-<td>Dockerfile</td>
 </tr>
 </tbody>
 </table>
@@ -694,11 +657,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 11 stars; 95 attributed candidates are tracked.
-- 14 entries were carried over from the previous dataset and are pending revalidation.
-- 124 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 778 stars; 90 attributed candidates are tracked.
+- 121 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 140 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

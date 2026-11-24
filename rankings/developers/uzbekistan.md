@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **31** | 22 Nov 2026 | <a href="../../data/developers/UZ.json">JSON</a> |
+| 🟡 Provisional | **44** | 22 Nov 2026 | <a href="../../data/developers/UZ.json">JSON</a> |
 
 </div>
 
@@ -212,31 +212,122 @@
 </tr>
 <tr>
 <td align="right">28</td>
+<td><a href="https://github.com/OybekKayumov"><img src="https://avatars.githubusercontent.com/u/85465559?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OybekKayumov"><b>Oybek Kayumov</b></a><br><sub>&#64;OybekKayumov</sub></td>
+<td align="right"><b>283</b></td>
+<td align="right">121</td>
+<td><sub>Uzbekistan</sub></td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td><a href="https://github.com/dotnetgoo"><img src="https://avatars.githubusercontent.com/u/75162831?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dotnetgoo"><b>Mukhammadkarim Tukhtaboev</b></a><br><sub>&#64;dotnetgoo</sub></td>
+<td align="right"><b>282</b></td>
+<td align="right">15</td>
+<td><sub>Uzbekistan</sub></td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td><a href="https://github.com/mukhriddin-dev"><img src="https://avatars.githubusercontent.com/u/66181316?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mukhriddin-dev"><b>Mukhriddin Khodiev</b></a><br><sub>&#64;mukhriddin-dev</sub></td>
+<td align="right"><b>280</b></td>
+<td align="right">322</td>
+<td><sub>Toshkent</sub></td>
+</tr>
+<tr>
+<td align="right">31</td>
+<td><a href="https://github.com/aeshakhzod"><img src="https://avatars.githubusercontent.com/u/37299109?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aeshakhzod"><b>Shakhzod Kudratov</b></a><br><sub>&#64;aeshakhzod</sub></td>
+<td align="right"><b>278</b></td>
+<td align="right">56</td>
+<td><sub>Tashkent, Uzbekistan</sub></td>
+</tr>
+<tr>
+<td align="right">32</td>
+<td><a href="https://github.com/KhujamovCodes"><img src="https://avatars.githubusercontent.com/u/151366013?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KhujamovCodes"><b>Khujamov Codes</b></a><br><sub>&#64;KhujamovCodes</sub></td>
+<td align="right"><b>277</b></td>
+<td align="right">57</td>
+<td><sub>Uzbekistan</sub></td>
+</tr>
+<tr>
+<td align="right">33</td>
+<td><a href="https://github.com/ShoiraTa"><img src="https://avatars.githubusercontent.com/u/77038610?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ShoiraTa"><b>Shoira</b></a><br><sub>&#64;ShoiraTa</sub></td>
+<td align="right"><b>275</b></td>
+<td align="right">67</td>
+<td><sub>Tashkent, Uzbekistan</sub></td>
+</tr>
+<tr>
+<td align="right">34</td>
+<td><a href="https://github.com/python019"><img src="https://avatars.githubusercontent.com/u/82611064?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/python019"><b>subux</b></a><br><sub>&#64;python019</sub></td>
+<td align="right"><b>269</b></td>
+<td align="right">67</td>
+<td><sub>Navoi, Uzbekistan</sub></td>
+</tr>
+<tr>
+<td align="right">35</td>
+<td><a href="https://github.com/Azizbek432"><img src="https://avatars.githubusercontent.com/u/217930423?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Azizbek432"><b>Azizbek Abdullayev</b></a><br><sub>&#64;Azizbek432</sub></td>
+<td align="right"><b>265</b></td>
+<td align="right">51</td>
+<td><sub>Uzbekistan, Khorezm, Khanka</sub></td>
+</tr>
+<tr>
+<td align="right">36</td>
+<td><a href="https://github.com/akbariin"><img src="https://avatars.githubusercontent.com/u/122404466?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akbariin"><b>Akbar Fayzen</b></a><br><sub>&#64;akbariin</sub></td>
+<td align="right"><b>262</b></td>
+<td align="right">9</td>
+<td><sub>Uzbekistan</sub></td>
+</tr>
+<tr>
+<td align="right">37</td>
+<td><a href="https://github.com/kurbanovxurshidbek"><img src="https://avatars.githubusercontent.com/u/10227536?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kurbanovxurshidbek"><b>Xurshidbek Kurbanov</b></a><br><sub>&#64;kurbanovxurshidbek</sub></td>
+<td align="right"><b>261</b></td>
+<td align="right">138</td>
+<td><sub>Tashkent, Uzbekistan</sub></td>
+</tr>
+<tr>
+<td align="right">38</td>
+<td><a href="https://github.com/ElbekDeveloper"><img src="https://avatars.githubusercontent.com/u/52498074?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ElbekDeveloper"><b>Elbek</b></a><br><sub>&#64;ElbekDeveloper</sub></td>
+<td align="right"><b>259</b></td>
+<td align="right">38</td>
+<td><sub>Uzbekistan</sub></td>
+</tr>
+<tr>
+<td align="right">39</td>
+<td><a href="https://github.com/ibragimov-owner"><img src="https://avatars.githubusercontent.com/u/233426522?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ibragimov-owner"><b>Ibragimov Muhammadali</b></a><br><sub>&#64;ibragimov-owner</sub></td>
+<td align="right"><b>259</b></td>
+<td align="right">16</td>
+<td><sub>Uzbekistan</sub></td>
+</tr>
+<tr>
+<td align="right">40</td>
 <td><a href="https://github.com/AHEKOT"><img src="https://avatars.githubusercontent.com/u/119136212?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AHEKOT"><b>MiuProject</b></a><br><sub>&#64;AHEKOT</sub></td>
 <td align="right"><b>117</b></td>
 <td align="right">0</td>
 <td><sub>Uzbekistan</sub></td>
 </tr>
 <tr>
-<td align="right">29</td>
+<td align="right">41</td>
 <td><a href="https://github.com/keylase"><img src="https://avatars.githubusercontent.com/u/1929404?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/keylase"><b>Keylase</b></a><br><sub>&#64;keylase</sub></td>
 <td align="right"><b>116</b></td>
 <td align="right">0</td>
 <td><sub>Tashkent</sub></td>
 </tr>
 <tr>
-<td align="right">30</td>
+<td align="right">42</td>
 <td><a href="https://github.com/arsLan4k1390"><img src="https://avatars.githubusercontent.com/u/65973611?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arsLan4k1390"><b>Arslan Khadjibudinov</b></a><br><sub>&#64;arsLan4k1390</sub></td>
 <td align="right"><b>113</b></td>
 <td align="right">0</td>
 <td><sub>Samarkand, Uzbekistan</sub></td>
 </tr>
 <tr>
-<td align="right">31</td>
+<td align="right">43</td>
 <td><a href="https://github.com/dilshod"><img src="https://avatars.githubusercontent.com/u/14001?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dilshod"><b>Dilshod Temirkhodja</b></a><br><sub>&#64;dilshod</sub></td>
 <td align="right"><b>76</b></td>
 <td align="right">0</td>
 <td><sub>Tashkent, Uzbekistan</sub></td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><a href="https://github.com/Maxmudjon"><img src="https://avatars.githubusercontent.com/u/23142922?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Maxmudjon"><b>Maxmudjon</b></a><br><sub>&#64;Maxmudjon</sub></td>
+<td align="right"><b>60</b></td>
+<td align="right">0</td>
+<td><sub>Uzbekistan, Tashkent</sub></td>
 </tr>
 </tbody>
 </table>
@@ -246,8 +337,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 31 attributed developers are tracked; the cutoff is 76 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 44 attributed developers are tracked; the cutoff is 60 followers.
+- **Location discovery:** term 0 of 147 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

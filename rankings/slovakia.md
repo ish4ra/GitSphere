@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **41** | 03 Nov 2026 | <a href="../data/SK.json">JSON</a> |
+| 🟠 Stale | **43** | 03 Nov 2026 | <a href="../data/SK.json">JSON</a> |
 
-> **Not yet re-verified.** 12 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 8 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -228,83 +228,97 @@
 </tr>
 <tr>
 <td align="right">30</td>
-<td><img src="https://github.com/vojto.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vojto/atmos2"><b>vojto/atmos2</b></a></td>
-<td align="right"><b>23</b></td>
-<td align="right">2</td>
-<td>CoffeeScript</td>
+<td><img src="https://github.com/SimpleMobileTools.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SimpleMobileTools/Simple-Notes"><b>SimpleMobileTools/Simple-Notes</b></a><br><sub>A simple textfield for adding quick notes without ads.</sub></td>
+<td align="right"><b>874</b></td>
+<td align="right">283</td>
+<td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">31</td>
-<td><img src="https://github.com/zpl-zak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zpl-zak/rurik"><b>zpl-zak/rurik</b></a></td>
-<td align="right"><b>19</b></td>
-<td align="right">1</td>
-<td>Go</td>
+<td><img src="https://github.com/adrianmihalko.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianmihalko/raspberrypiwireguard"><b>adrianmihalko/raspberrypiwireguard</b></a><br><sub>Install and configure WireGuard on Raspberry Pi (and others)</sub></td>
+<td align="right"><b>856</b></td>
+<td align="right">76</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">32</td>
-<td><img src="https://github.com/xitop.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xitop/clex"><b>xitop/clex</b></a></td>
-<td align="right"><b>17</b></td>
-<td align="right">1</td>
-<td>C</td>
+<td><img src="https://github.com/slatinsky.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/slatinsky/DiscordChatExporter-frontend"><b>slatinsky/DiscordChatExporter-frontend</b></a><br><sub>Browse json files exported by Tyrrrz/DiscordChatExporter in familiar discord like user interface</sub></td>
+<td align="right"><b>842</b></td>
+<td align="right">47</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">33</td>
-<td><img src="https://github.com/valrak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/valrak/AquariumRL"><b>valrak/AquariumRL</b></a></td>
-<td align="right"><b>12</b></td>
-<td align="right">0</td>
-<td>Python</td>
+<td><img src="https://github.com/SimpleMobileTools.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SimpleMobileTools/Simple-Contacts"><b>SimpleMobileTools/Simple-Contacts</b></a><br><sub>Easy and quick contact management with no ads, handles groups and favorites too.</sub></td>
+<td align="right"><b>828</b></td>
+<td align="right">258</td>
+<td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">34</td>
+<td><img src="https://github.com/SimpleMobileTools.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SimpleMobileTools/Simple-Camera"><b>SimpleMobileTools/Simple-Camera</b></a><br><sub>Quick photo and video camera with a flash, customizable aspect ratio.</sub></td>
+<td align="right"><b>807</b></td>
+<td align="right">286</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">35</td>
+<td><img src="https://github.com/obeli-sk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/obeli-sk/obelisk"><b>obeli-sk/obelisk</b></a><br><sub>Durable &amp; Deterministic Workflow Runtime</sub></td>
+<td align="right"><b>768</b></td>
+<td align="right">19</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">36</td>
 <td><img src="https://github.com/radovankavicky.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/radovankavicky/github-stickers-octodex"><b>radovankavicky/github-stickers-octodex</b></a></td>
 <td align="right"><b>7</b></td>
 <td align="right">2</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">35</td>
+<td align="right">37</td>
 <td><img src="https://github.com/Gumeny.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Gumeny/modbus-rtu-serial-qt"><b>Gumeny/modbus-rtu-serial-qt</b></a></td>
 <td align="right"><b>7</b></td>
 <td align="right">1</td>
 <td>Makefile</td>
 </tr>
 <tr>
-<td align="right">36</td>
+<td align="right">38</td>
 <td><img src="https://github.com/PatrikHudak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PatrikHudak/project_sonar_ssl"><b>PatrikHudak/project&#95;sonar&#95;ssl</b></a></td>
 <td align="right"><b>7</b></td>
 <td align="right">0</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">37</td>
+<td align="right">39</td>
 <td><img src="https://github.com/schnidi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/schnidi/venvhub"><b>schnidi/venvhub</b></a></td>
 <td align="right"><b>7</b></td>
 <td align="right">0</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">38</td>
+<td align="right">40</td>
 <td><img src="https://github.com/fossilmfc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fossilmfc/terraform-provider-websupportsk"><b>fossilmfc/terraform-provider-websupportsk</b></a></td>
 <td align="right"><b>6</b></td>
 <td align="right">2</td>
 <td>Go</td>
 </tr>
 <tr>
-<td align="right">39</td>
+<td align="right">41</td>
 <td><img src="https://github.com/KollarM.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KollarM/WebAPIWithIdentityServerIntegrationTest"><b>KollarM/WebAPIWithIdentityServerIntegrationTest</b></a></td>
 <td align="right"><b>6</b></td>
 <td align="right">1</td>
 <td>C#</td>
 </tr>
 <tr>
-<td align="right">40</td>
+<td align="right">42</td>
 <td><img src="https://github.com/LANCER245.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LANCER245/Tiny-T_Sidepack"><b>LANCER245/Tiny-T&#95;Sidepack</b></a></td>
 <td align="right"><b>6</b></td>
 <td align="right">1</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">41</td>
+<td align="right">43</td>
 <td><img src="https://github.com/MatejBendik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MatejBendik/promptzone"><b>MatejBendik/promptzone</b></a></td>
 <td align="right"><b>5</b></td>
 <td align="right">0</td>
@@ -318,10 +332,10 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 5 stars; 41 attributed candidates are tracked.
-- 12 entries were carried over from the previous dataset and are pending revalidation.
-- 122 multi-repository owners are queued for expansion.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Cutoff:** the last listed repository has 5 stars; 43 attributed candidates are tracked.
+- 8 entries were carried over from the previous dataset and are pending revalidation.
+- 121 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 150 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 22 Nov 2026 | <a href="../../data/contributors/SX.json">JSON</a> |
+| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/contributors/SX.json">JSON</a> |
 
 </div>
 
@@ -34,6 +34,15 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/repro-code"><img src="https://avatars.githubusercontent.com/u/114733774?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/repro-code"><b>Maarten Plonk</b></a><br><sub>&#64;repro-code · 3 followers</sub></td>
+<td align="right"><b>125</b></td>
+<td align="right">46</td>
+<td align="right">60</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/SxMAbel"><img src="https://avatars.githubusercontent.com/u/90580222?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SxMAbel"><b>SXM&#95;ABEL</b></a><br><sub>&#64;SxMAbel · 9 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
@@ -48,10 +57,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 7 of 19 discovered developers (12 awaiting measurement).
+- **Measured:** 9 of 27 discovered developers (18 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 3 of 10 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

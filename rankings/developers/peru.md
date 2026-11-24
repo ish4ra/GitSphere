@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **52** | 22 Nov 2026 | <a href="../../data/developers/PE.json">JSON</a> |
+| 🟡 Provisional | **57** | 22 Nov 2026 | <a href="../../data/developers/PE.json">JSON</a> |
 
 </div>
 
@@ -359,27 +359,62 @@
 </tr>
 <tr>
 <td align="right">49</td>
+<td><a href="https://github.com/ivandevp"><img src="https://avatars.githubusercontent.com/u/9284690?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ivandevp"><b>Ivan Medina</b></a><br><sub>&#64;ivandevp</sub></td>
+<td align="right"><b>268</b></td>
+<td align="right">294</td>
+<td><sub>Borned in Lima, Peru</sub></td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><a href="https://github.com/ambarja"><img src="https://avatars.githubusercontent.com/u/23284899?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ambarja"><b>Antony Barja</b></a><br><sub>&#64;ambarja</sub></td>
+<td align="right"><b>267</b></td>
+<td align="right">197</td>
+<td><sub>Lima, Peru</sub></td>
+</tr>
+<tr>
+<td align="right">51</td>
+<td><a href="https://github.com/UltiRequiem"><img src="https://avatars.githubusercontent.com/u/71897736?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/UltiRequiem"><b>Eliaz Bobadilla</b></a><br><sub>&#64;UltiRequiem</sub></td>
+<td align="right"><b>266</b></td>
+<td align="right">328</td>
+<td><sub>Lima, Perú</sub></td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><a href="https://github.com/eyllanesc"><img src="https://avatars.githubusercontent.com/u/4896200?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eyllanesc"><b>Edwin Yllanes</b></a><br><sub>&#64;eyllanesc</sub></td>
+<td align="right"><b>261</b></td>
+<td align="right">47</td>
+<td><sub>Lima-Perú</sub></td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><a href="https://github.com/edelveart"><img src="https://avatars.githubusercontent.com/u/106992045?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/edelveart"><b>Edgar Delgado Vega</b></a><br><sub>&#64;edelveart</sub></td>
+<td align="right"><b>256</b></td>
+<td align="right">15</td>
+<td><sub>Perú</sub></td>
+</tr>
+<tr>
+<td align="right">54</td>
 <td><a href="https://github.com/marcelo-earth"><img src="https://avatars.githubusercontent.com/u/47821093?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marcelo-earth"><b>Marcelo</b></a><br><sub>&#64;marcelo-earth</sub></td>
 <td align="right"><b>175</b></td>
 <td align="right">0</td>
 <td><sub>Peru</sub></td>
 </tr>
 <tr>
-<td align="right">50</td>
+<td align="right">55</td>
 <td><a href="https://github.com/CristianOlivera1"><img src="https://avatars.githubusercontent.com/u/171596250?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CristianOlivera1"><b>Cristian Olivera Chávez</b></a><br><sub>&#64;CristianOlivera1</sub></td>
 <td align="right"><b>153</b></td>
 <td align="right">0</td>
 <td><sub>Peru</sub></td>
 </tr>
 <tr>
-<td align="right">51</td>
+<td align="right">56</td>
 <td><a href="https://github.com/leviarista"><img src="https://avatars.githubusercontent.com/u/13615937?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leviarista"><b>Leví Arista</b></a><br><sub>&#64;leviarista</sub></td>
 <td align="right"><b>80</b></td>
 <td align="right">0</td>
 <td><sub>Perú</sub></td>
 </tr>
 <tr>
-<td align="right">52</td>
+<td align="right">57</td>
 <td><a href="https://github.com/hespejob"><img src="https://avatars.githubusercontent.com/u/41070497?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hespejob"><b>Ing. CIP Hugo Espejo</b></a><br><sub>&#64;hespejob</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">8</td>
@@ -393,7 +428,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 52 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 57 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 118 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

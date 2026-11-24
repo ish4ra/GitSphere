@@ -33,8 +33,8 @@
   {"rank":24,"id":"MDQ6VXNlcjQ0NDEwMDc=","login":"OddmarDam","name":"Oddmar Dam","url":"https://github.com/OddmarDam","avatarUrl":"https://avatars.githubusercontent.com/u/4441007?s=80&v=4","followers":6,"publicRepos":7,"location":"Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":25,"id":"MDQ6VXNlcjI3NzkyNzcx","login":"krvi","name":null,"url":"https://github.com/krvi","avatarUrl":"https://avatars.githubusercontent.com/u/27792771?s=80&v=4","followers":6,"publicRepos":4,"location":"Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":26,"id":"MDQ6VXNlcjM1MjE5MDU2","login":"martindidriksen","name":"Martin Didriksen","url":"https://github.com/martindidriksen","avatarUrl":"https://avatars.githubusercontent.com/u/35219056?s=80&v=4","followers":6,"publicRepos":3,"location":"Klaksvík, Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":27,"id":"MDQ6VXNlcjI2NzU3NTc=","login":"olavurmortensen","name":"Ólavur Mortensen","url":"https://github.com/olavurmortensen","avatarUrl":"https://avatars.githubusercontent.com/u/2675757?s=80&v=4","followers":5,"publicRepos":37,"location":"Tórshavn, Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":28,"id":"MDQ6VXNlcjI4MDAzMzgx","login":"bxtal-lsn","name":"Bartal Læarsson","url":"https://github.com/bxtal-lsn","avatarUrl":"https://avatars.githubusercontent.com/u/28003381?s=80&v=4","followers":5,"publicRepos":36,"location":"Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":27,"id":"MDQ6VXNlcjI2NzU3NTc=","login":"olavurmortensen","name":"Ólavur Mortensen","url":"https://github.com/olavurmortensen","avatarUrl":"https://avatars.githubusercontent.com/u/2675757?s=80&v=4","followers":5,"publicRepos":37,"location":"Tórshavn, Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":28,"id":"MDQ6VXNlcjI4MDAzMzgx","login":"bxtal-lsn","name":"Bartal Læarsson","url":"https://github.com/bxtal-lsn","avatarUrl":"https://avatars.githubusercontent.com/u/28003381?s=80&v=4","followers":5,"publicRepos":36,"location":"Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":29,"id":"MDQ6VXNlcjEwODQ5MTU3","login":"bardurt","name":"Barthur Thomsen","url":"https://github.com/bardurt","avatarUrl":"https://avatars.githubusercontent.com/u/10849157?s=80&v=4","followers":5,"publicRepos":32,"location":"Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":30,"id":"U_kgDOBdnDSA","login":"BergurDavidsen","name":null,"url":"https://github.com/BergurDavidsen","avatarUrl":"https://avatars.githubusercontent.com/u/98157384?s=80&v=4","followers":5,"publicRepos":28,"location":"Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":31,"id":"MDQ6VXNlcjcwMDA3MDg=","login":"slang123","name":"Tummas Joensen","url":"https://github.com/slang123","avatarUrl":"https://avatars.githubusercontent.com/u/7000708?s=80&v=4","followers":5,"publicRepos":23,"location":"Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
@@ -127,8 +127,8 @@
   {"rank":118,"id":"MDQ6VXNlcjIyNDE0MzU0","login":"shadhahn","name":"Joanny","url":"https://github.com/shadhahn","avatarUrl":"https://avatars.githubusercontent.com/u/22414354?s=80&v=4","followers":0,"publicRepos":0,"location":"Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":119,"id":"MDQ6VXNlcjE4NzE3MzU4","login":"TorbjornN","name":"Torbjörn Nyström","url":"https://github.com/TorbjornN","avatarUrl":"https://avatars.githubusercontent.com/u/18717358?s=80&v=4","followers":0,"publicRepos":0,"location":"Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "eb6a67e400243d0b",
-"updatedAt": "2026-11-24T01:31:49.018Z",
+"contentHash": "dbbaddb32361c51a",
+"updatedAt": "2026-11-24T11:36:56.631Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T01:31:49.018Z"
+"generatedAt": "2026-11-24T11:36:56.631Z"
 }

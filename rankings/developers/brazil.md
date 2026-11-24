@@ -52,7 +52,7 @@
 <tr>
 <td align="right">5</td>
 <td><a href="https://github.com/akitaonrails"><img src="https://avatars.githubusercontent.com/u/2840?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akitaonrails"><b>Fabio Akita</b></a><br><sub>&#64;akitaonrails</sub></td>
-<td align="right"><b>23,263</b></td>
+<td align="right"><b>23,281</b></td>
 <td align="right">213</td>
 <td><sub>Brazil</sub></td>
 </tr>
@@ -227,7 +227,7 @@
 <tr>
 <td align="right">30</td>
 <td><a href="https://github.com/JoasASantos"><img src="https://avatars.githubusercontent.com/u/34966120?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JoasASantos"><b>Joas A Santos</b></a><br><sub>&#64;JoasASantos</sub></td>
-<td align="right"><b>5,719</b></td>
+<td align="right"><b>5,720</b></td>
 <td align="right">324</td>
 <td><sub>Brasil</sub></td>
 </tr>
@@ -430,7 +430,7 @@
 <tr>
 <td align="right">59</td>
 <td><a href="https://github.com/JVictorDias"><img src="https://avatars.githubusercontent.com/u/32246598?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JVictorDias"><b>Victor Dias</b></a><br><sub>&#64;JVictorDias</sub></td>
-<td align="right"><b>3,260</b></td>
+<td align="right"><b>3,259</b></td>
 <td align="right">11</td>
 <td><sub>Rio de Janeiro, Brasil</sub></td>
 </tr>
@@ -640,7 +640,7 @@
 <tr>
 <td align="right">89</td>
 <td><a href="https://github.com/zanfranceschi"><img src="https://avatars.githubusercontent.com/u/1862567?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zanfranceschi"><b>Francisco Zanfranceschi</b></a><br><sub>&#64;zanfranceschi</sub></td>
-<td align="right"><b>2,369</b></td>
+<td align="right"><b>2,370</b></td>
 <td align="right">36</td>
 <td><sub>São Paulo - Brasil</sub></td>
 </tr>
@@ -689,7 +689,7 @@
 <tr>
 <td align="right">96</td>
 <td><a href="https://github.com/alinebastos"><img src="https://avatars.githubusercontent.com/u/387470?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alinebastos"><b>Aline Bastos</b></a><br><sub>&#64;alinebastos</sub></td>
-<td align="right"><b>2,192</b></td>
+<td align="right"><b>2,193</b></td>
 <td align="right">94</td>
 <td><sub>Porto Alegre/RS</sub></td>
 </tr>
@@ -884,17 +884,17 @@
 </tr>
 <tr>
 <td align="right">124</td>
+<td><a href="https://github.com/soumatheusgomes"><img src="https://avatars.githubusercontent.com/u/11700039?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/soumatheusgomes"><b>Matheus Gomes</b></a><br><sub>&#64;soumatheusgomes</sub></td>
+<td align="right"><b>1,725</b></td>
+<td align="right">9</td>
+<td><sub>Cuiabá</sub></td>
+</tr>
+<tr>
+<td align="right">125</td>
 <td><a href="https://github.com/paulo-magls"><img src="https://avatars.githubusercontent.com/u/104034043?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/paulo-magls"><b>Paulo Magalhães</b></a><br><sub>&#64;paulo-magls</sub></td>
 <td align="right"><b>1,721</b></td>
 <td align="right">44</td>
 <td><sub>São Paulo, Brasil</sub></td>
-</tr>
-<tr>
-<td align="right">125</td>
-<td><a href="https://github.com/soumatheusgomes"><img src="https://avatars.githubusercontent.com/u/11700039?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/soumatheusgomes"><b>Matheus Gomes</b></a><br><sub>&#64;soumatheusgomes</sub></td>
-<td align="right"><b>1,702</b></td>
-<td align="right">9</td>
-<td><sub>Cuiabá</sub></td>
 </tr>
 <tr>
 <td align="right">126</td>
@@ -913,7 +913,7 @@
 <tr>
 <td align="right">128</td>
 <td><a href="https://github.com/vsouza"><img src="https://avatars.githubusercontent.com/u/484656?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vsouza"><b>Vinicius Souza</b></a><br><sub>&#64;vsouza</sub></td>
-<td align="right"><b>1,684</b></td>
+<td align="right"><b>1,685</b></td>
 <td align="right">47</td>
 <td><sub>Brazil</sub></td>
 </tr>
@@ -976,7 +976,7 @@
 <tr>
 <td align="right">137</td>
 <td><a href="https://github.com/daltonmenezes"><img src="https://avatars.githubusercontent.com/u/1149845?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/daltonmenezes"><b>Dalton Menezes</b></a><br><sub>&#64;daltonmenezes</sub></td>
-<td align="right"><b>1,625</b></td>
+<td align="right"><b>1,624</b></td>
 <td align="right">45</td>
 <td><sub>Cansanção, Bahia, Brazil</sub></td>
 </tr>
@@ -1403,7 +1403,7 @@
 <tr>
 <td align="right">198</td>
 <td><a href="https://github.com/josemalcher"><img src="https://avatars.githubusercontent.com/u/914913?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/josemalcher"><b>José Malcher Jr.</b></a><br><sub>&#64;josemalcher</sub></td>
-<td align="right"><b>1,237</b></td>
+<td align="right"><b>1,238</b></td>
 <td align="right">677</td>
 <td><sub>Brazil</sub></td>
 </tr>
@@ -3621,17 +3621,17 @@
 </tr>
 <tr>
 <td align="right">515</td>
+<td><a href="https://github.com/arthurfiorette"><img src="https://avatars.githubusercontent.com/u/47537704?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arthurfiorette"><b>Arthur Fiorette</b></a><br><sub>&#64;arthurfiorette</sub></td>
+<td align="right"><b>608</b></td>
+<td align="right">80</td>
+<td><sub>Santa Catarina, Brazil ✈️</sub></td>
+</tr>
+<tr>
+<td align="right">516</td>
 <td><a href="https://github.com/leandronsp"><img src="https://avatars.githubusercontent.com/u/385640?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leandronsp"><b>Leandro Proença</b></a><br><sub>&#64;leandronsp</sub></td>
 <td align="right"><b>607</b></td>
 <td align="right">93</td>
 <td><sub>Brazil</sub></td>
-</tr>
-<tr>
-<td align="right">516</td>
-<td><a href="https://github.com/arthurfiorette"><img src="https://avatars.githubusercontent.com/u/47537704?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arthurfiorette"><b>Arthur Fiorette</b></a><br><sub>&#64;arthurfiorette</sub></td>
-<td align="right"><b>607</b></td>
-<td align="right">80</td>
-<td><sub>Santa Catarina, Brazil ✈️</sub></td>
 </tr>
 <tr>
 <td align="right">517</td>
@@ -3642,31 +3642,31 @@
 </tr>
 <tr>
 <td align="right">518</td>
+<td><a href="https://github.com/Dovyski"><img src="https://avatars.githubusercontent.com/u/512405?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dovyski"><b>Fernando Bevilacqua</b></a><br><sub>&#64;Dovyski</sub></td>
+<td align="right"><b>607</b></td>
+<td align="right">62</td>
+<td><sub>Chapecó, Brazil</sub></td>
+</tr>
+<tr>
+<td align="right">519</td>
 <td><a href="https://github.com/carsimoes"><img src="https://avatars.githubusercontent.com/u/4956055?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/carsimoes"><b>Carlos Renato Simões</b></a><br><sub>&#64;carsimoes</sub></td>
 <td align="right"><b>607</b></td>
 <td align="right">57</td>
 <td><sub>Curitiba, Paraná</sub></td>
 </tr>
 <tr>
-<td align="right">519</td>
+<td align="right">520</td>
 <td><a href="https://github.com/bdlukaa"><img src="https://avatars.githubusercontent.com/u/45696119?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bdlukaa"><b>Bruno D&#39;Luka</b></a><br><sub>&#64;bdlukaa</sub></td>
 <td align="right"><b>607</b></td>
 <td align="right">17</td>
 <td><sub>Brazil</sub></td>
 </tr>
 <tr>
-<td align="right">520</td>
+<td align="right">521</td>
 <td><a href="https://github.com/danieldsf"><img src="https://avatars.githubusercontent.com/u/7511789?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danieldsf"><b>Daniel Farias</b></a><br><sub>&#64;danieldsf</sub></td>
 <td align="right"><b>607</b></td>
 <td align="right">6</td>
 <td><sub>Parnaíba - PI - Brazil</sub></td>
-</tr>
-<tr>
-<td align="right">521</td>
-<td><a href="https://github.com/Dovyski"><img src="https://avatars.githubusercontent.com/u/512405?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dovyski"><b>Fernando Bevilacqua</b></a><br><sub>&#64;Dovyski</sub></td>
-<td align="right"><b>606</b></td>
-<td align="right">62</td>
-<td><sub>Chapecó, Brazil</sub></td>
 </tr>
 <tr>
 <td align="right">522</td>
@@ -4461,31 +4461,31 @@
 </tr>
 <tr>
 <td align="right">635</td>
+<td><a href="https://github.com/douglasjunior"><img src="https://avatars.githubusercontent.com/u/1512341?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/douglasjunior"><b>Douglas Nassif Roma Junior</b></a><br><sub>&#64;douglasjunior</sub></td>
+<td align="right"><b>517</b></td>
+<td align="right">200</td>
+<td><sub>Campo Mourão, PR, Brazil</sub></td>
+</tr>
+<tr>
+<td align="right">636</td>
 <td><a href="https://github.com/juancito-dev"><img src="https://avatars.githubusercontent.com/u/12957692?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/juancito-dev"><b>juancito</b></a><br><sub>&#64;juancito-dev</sub></td>
 <td align="right"><b>517</b></td>
 <td align="right">64</td>
 <td><sub>Sp</sub></td>
 </tr>
 <tr>
-<td align="right">636</td>
+<td align="right">637</td>
 <td><a href="https://github.com/camilatigre"><img src="https://avatars.githubusercontent.com/u/13002348?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/camilatigre"><b>Camila Tigre</b></a><br><sub>&#64;camilatigre</sub></td>
 <td align="right"><b>517</b></td>
 <td align="right">51</td>
 <td><sub>Brazil</sub></td>
 </tr>
 <tr>
-<td align="right">637</td>
+<td align="right">638</td>
 <td><a href="https://github.com/gabrieltsants"><img src="https://avatars.githubusercontent.com/u/146135815?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gabrieltsants"><b>Gabriel Santos</b></a><br><sub>&#64;gabrieltsants</sub></td>
 <td align="right"><b>517</b></td>
 <td align="right">17</td>
 <td><sub>Brazil</sub></td>
-</tr>
-<tr>
-<td align="right">638</td>
-<td><a href="https://github.com/douglasjunior"><img src="https://avatars.githubusercontent.com/u/1512341?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/douglasjunior"><b>Douglas Nassif Roma Junior</b></a><br><sub>&#64;douglasjunior</sub></td>
-<td align="right"><b>515</b></td>
-<td align="right">200</td>
-<td><sub>Campo Mourão, PR, Brazil</sub></td>
 </tr>
 <tr>
 <td align="right">639</td>
@@ -7029,7 +7029,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global follower scan — every developer above this cutoff has been enumerated.
-- Organizations are excluded. 1,392 attributed developers are tracked; the cutoff is 377 followers.
+- Organizations are excluded. 1,518 attributed developers are tracked; the cutoff is 377 followers.
 - **Location discovery:** term 0 of 156 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

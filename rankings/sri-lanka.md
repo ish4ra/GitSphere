@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **45** | 03 Nov 2026 | <a href="../data/LK.json">JSON</a> |
+| 🟠 Stale | **35** | 03 Nov 2026 | <a href="../data/LK.json">JSON</a> |
 
-> **Not yet re-verified.** 24 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 10 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -172,167 +172,97 @@
 </tr>
 <tr>
 <td align="right">22</td>
-<td><img src="https://github.com/BlackAmda.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/BlackAmda/QueenAmdi-Installer-1.0.7"><b>BlackAmda/QueenAmdi-Installer-1.0.7</b></a> <sub>archived</sub></td>
-<td align="right"><b>32</b></td>
-<td align="right">237</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/sameerasw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sameerasw/airsync-mac"><b>sameerasw/airsync-mac</b></a><br><sub>AirSync macOS - Bring the forbidden macOS continuity to Android</sub></td>
+<td align="right"><b>890</b></td>
+<td align="right">98</td>
+<td>Swift</td>
 </tr>
 <tr>
 <td align="right">23</td>
-<td><img src="https://github.com/Thizh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Thizh/Thizh"><b>Thizh/Thizh</b></a></td>
-<td align="right"><b>30</b></td>
-<td align="right">12</td>
-<td>—</td>
+<td><img src="https://github.com/mhdzumair.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mhdzumair/mediaflow-proxy"><b>mhdzumair/mediaflow-proxy</b></a><br><sub>A high-performance proxy server for streaming media, supporting HTTP(S), HLS, and MPEG-DASH with real-time DRM decrypti…</sub></td>
+<td align="right"><b>839</b></td>
+<td align="right">552</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">24</td>
-<td><img src="https://github.com/cusaldmsr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cusaldmsr/Cusaldmsr"><b>cusaldmsr/Cusaldmsr</b></a></td>
-<td align="right"><b>28</b></td>
-<td align="right">1</td>
-<td>—</td>
+<td><img src="https://github.com/nbbb15092.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nbbb15092/abc"><b>nbbb15092/abc</b></a></td>
+<td align="right"><b>788</b></td>
+<td align="right">4,099</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">25</td>
-<td><img src="https://github.com/shenald-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shenald-dev/one-api"><b>shenald-dev/one-api</b></a></td>
-<td align="right"><b>27</b></td>
-<td align="right">5</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/ravindu644.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ravindu644/Android-Kernel-Tutorials"><b>ravindu644/Android-Kernel-Tutorials</b></a><br><sub>Kernel building tutorials for Any device for newbies..! 🎉</sub></td>
+<td align="right"><b>761</b></td>
+<td align="right">140</td>
+<td>Shell</td>
 </tr>
 <tr>
 <td align="right">26</td>
-<td><img src="https://github.com/ksenginew.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ksenginew/WSocket"><b>ksenginew/WSocket</b></a></td>
-<td align="right"><b>26</b></td>
-<td align="right">3</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">27</td>
-<td><img src="https://github.com/Scar1109.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Scar1109/Y2S1-OOP-Lab-Sheet-Tutorial-PastPaper-Answers"><b>Scar1109/Y2S1-OOP-Lab-Sheet-Tutorial-PastPaper-Answers</b></a></td>
-<td align="right"><b>24</b></td>
-<td align="right">3</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">28</td>
-<td><img src="https://github.com/Virajana.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Virajana/Design-resourses-for-Developers"><b>Virajana/Design-resourses-for-Developers</b></a></td>
-<td align="right"><b>24</b></td>
-<td align="right">1</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">29</td>
-<td><img src="https://github.com/finusha.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/finusha/python-buddy-system"><b>finusha/python-buddy-system</b></a></td>
-<td align="right"><b>23</b></td>
-<td align="right">0</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">30</td>
-<td><img src="https://github.com/sasmithx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sasmithx/sasmithx"><b>sasmithx/sasmithx</b></a></td>
-<td align="right"><b>22</b></td>
-<td align="right">1</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">31</td>
-<td><img src="https://github.com/ChanithaAbey.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ChanithaAbey/AI-Agent-for-Stock-Prediction"><b>ChanithaAbey/AI-Agent-for-Stock-Prediction</b></a></td>
-<td align="right"><b>21</b></td>
-<td align="right">9</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">32</td>
-<td><img src="https://github.com/ThiroshMadhusha.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ThiroshMadhusha/ThiroshMadhusha"><b>ThiroshMadhusha/ThiroshMadhusha</b></a></td>
-<td align="right"><b>20</b></td>
-<td align="right">3</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">33</td>
-<td><img src="https://github.com/hirushavinushka99.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hirushavinushka99/React-Millionaire-Quiz-App"><b>hirushavinushka99/React-Millionaire-Quiz-App</b></a></td>
-<td align="right"><b>19</b></td>
-<td align="right">1</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">34</td>
-<td><img src="https://github.com/YoshithaRathnayake.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/YoshithaRathnayake/NEW-YOSHITHA-WEBSITE"><b>YoshithaRathnayake/NEW-YOSHITHA-WEBSITE</b></a></td>
-<td align="right"><b>16</b></td>
-<td align="right">29</td>
-<td>CSS</td>
-</tr>
-<tr>
-<td align="right">35</td>
-<td><img src="https://github.com/mnpsnuwan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mnpsnuwan/machine-learning"><b>mnpsnuwan/machine-learning</b></a></td>
-<td align="right"><b>12</b></td>
-<td align="right">0</td>
-<td>Jupyter Notebook</td>
-</tr>
-<tr>
-<td align="right">36</td>
 <td><img src="https://github.com/naduncalcey.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/naduncalcey/pokemon-tcg-app"><b>naduncalcey/pokemon-tcg-app</b></a></td>
 <td align="right"><b>10</b></td>
 <td align="right">7</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">37</td>
+<td align="right">27</td>
 <td><img src="https://github.com/hussainm5252.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hussainm5252/RestaurantRecommendationSystem"><b>hussainm5252/RestaurantRecommendationSystem</b></a></td>
 <td align="right"><b>10</b></td>
 <td align="right">1</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">38</td>
+<td align="right">28</td>
 <td><img src="https://github.com/Nimith-Nimeshana.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Nimith-Nimeshana/MovieStreamingApp"><b>Nimith-Nimeshana/MovieStreamingApp</b></a></td>
 <td align="right"><b>10</b></td>
 <td align="right">0</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">39</td>
+<td align="right">29</td>
 <td><img src="https://github.com/IT21257568.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/IT21257568/Vehicle-service-and-agro-machinery-management-system"><b>IT21257568/Vehicle-service-and-agro-machinery-management-system</b></a></td>
 <td align="right"><b>9</b></td>
 <td align="right">4</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">40</td>
+<td align="right">30</td>
 <td><img src="https://github.com/SAVINDU-DESHAN.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SAVINDU-DESHAN/WhAtSaPp-BaN"><b>SAVINDU-DESHAN/WhAtSaPp-BaN</b></a></td>
 <td align="right"><b>9</b></td>
 <td align="right">4</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">41</td>
+<td align="right">31</td>
 <td><img src="https://github.com/kcvabeysinghe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kcvabeysinghe/EasyTDlib"><b>kcvabeysinghe/EasyTDlib</b></a></td>
 <td align="right"><b>9</b></td>
 <td align="right">2</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">42</td>
+<td align="right">32</td>
 <td><img src="https://github.com/sachithdh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sachithdh/WPA2Hunter"><b>sachithdh/WPA2Hunter</b></a></td>
 <td align="right"><b>9</b></td>
 <td align="right">2</td>
 <td>Shell</td>
 </tr>
 <tr>
-<td align="right">43</td>
+<td align="right">33</td>
 <td><img src="https://github.com/ashenishanka.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ashenishanka/MQTT-Android-Java-Example"><b>ashenishanka/MQTT-Android-Java-Example</b></a></td>
 <td align="right"><b>8</b></td>
 <td align="right">3</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">44</td>
+<td align="right">34</td>
 <td><img src="https://github.com/pasankodi2018.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pasankodi2018/TOZED-S12-Pro-OpenWrt-Firmware-Build"><b>pasankodi2018/TOZED-S12-Pro-OpenWrt-Firmware-Build</b></a></td>
 <td align="right"><b>8</b></td>
 <td align="right">3</td>
 <td>Shell</td>
 </tr>
 <tr>
-<td align="right">45</td>
+<td align="right">35</td>
 <td><img src="https://github.com/thedevilhimselfcodes.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thedevilhimselfcodes/guardog"><b>thedevilhimselfcodes/guardog</b></a></td>
 <td align="right"><b>8</b></td>
 <td align="right">0</td>
@@ -346,9 +276,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 8 stars; 45 attributed candidates are tracked.
-- 24 entries were carried over from the previous dataset and are pending revalidation.
-- 140 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 8 stars; 35 attributed candidates are tracked.
+- 10 entries were carried over from the previous dataset and are pending revalidation.
+- 137 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 95 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/KR.json">JSON</a> |
+| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/KR.json">JSON</a> |
 
 </div>
 
@@ -52,6 +52,15 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/tmdgusya"><img src="https://avatars.githubusercontent.com/u/57784077?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tmdgusya"><b>roach</b></a><br><sub>&#64;tmdgusya · 253 followers</sub></td>
+<td align="right"><b>2,517</b></td>
+<td align="right">2,284</td>
+<td align="right">144</td>
+<td align="right">3</td>
+<td align="right">30</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/cometkim"><img src="https://avatars.githubusercontent.com/u/9696352?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cometkim"><b>Hyeseong Kim</b></a><br><sub>&#64;cometkim · 884 followers</sub></td>
 <td align="right"><b>657</b></td>
 <td align="right">501</td>
@@ -60,7 +69,7 @@
 <td align="right">31</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/honux77"><img src="https://avatars.githubusercontent.com/u/2168702?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/honux77"><b>Hoyoung Jung</b></a><br><sub>&#64;honux77 · 490 followers</sub></td>
 <td align="right"><b>541</b></td>
 <td align="right">464</td>
@@ -69,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/pjt3591oo"><img src="https://avatars.githubusercontent.com/u/12229295?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pjt3591oo"><b>JeongTae Park</b></a><br><sub>&#64;pjt3591oo · 394 followers</sub></td>
 <td align="right"><b>383</b></td>
 <td align="right">280</td>
@@ -78,13 +87,22 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/curieuxjy"><img src="https://avatars.githubusercontent.com/u/40867411?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/curieuxjy"><b>Jung Yeon Lee</b></a><br><sub>&#64;curieuxjy · 307 followers</sub></td>
 <td align="right"><b>143</b></td>
 <td align="right">117</td>
 <td align="right">8</td>
 <td align="right">0</td>
 <td align="right">3</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/rheehot"><img src="https://avatars.githubusercontent.com/u/7463532?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rheehot"><b>Peter Lee Jong Woo</b></a><br><sub>&#64;rheehot · 271 followers</sub></td>
+<td align="right"><b>41</b></td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">1</td>
 </tr>
 </tbody>
 </table>
@@ -93,7 +111,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 7 of 818 discovered developers (811 awaiting measurement).
+- **Measured:** 9 of 897 discovered developers (888 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 152 in round 1.

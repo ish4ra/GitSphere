@@ -5,15 +5,15 @@
 "cycle": 1,
 "cycleStartedAt": "2026-11-22T10:32:48.200Z",
 "queue": [
-  {"metric":[831,900],"created":null,"cursor":null,"page":1},
-  {"metric":[760,830],"created":null,"cursor":null,"page":1},
-  {"metric":[307,759],"created":null,"cursor":null,"page":1},
+  {"metric":[647,759],"created":null,"cursor":null,"page":1},
+  {"metric":[534,646],"created":null,"cursor":null,"page":1},
+  {"metric":[307,533],"created":null,"cursor":null,"page":1},
   {"metric":[50,306],"created":null,"cursor":null,"page":1}
 ],
 "unresolved": [],
-"stats": {"pages":789,"splits":109,"leaves":106,"nodes":73495,"cyclePages":898,"cycleNodes":73495},
+"stats": {"pages":925,"splits":125,"leaves":122,"nodes":86267,"cyclePages":1050,"cycleNodes":86267},
 "completedCycles": [],
 "createdAt": "2026-11-22T10:32:48.200Z",
-"updatedAt": "2026-11-24T01:02:13.102Z",
+"updatedAt": "2026-11-24T11:07:10.858Z",
 "nextFloor": 50
 }

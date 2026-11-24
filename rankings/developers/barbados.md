@@ -45,7 +45,7 @@
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/lukehefson"><img src="https://avatars.githubusercontent.com/u/1469659?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lukehefson"><b>Luke Hefson</b></a><br><sub>&#64;lukehefson</sub></td>
-<td align="right"><b>273</b></td>
+<td align="right"><b>272</b></td>
 <td align="right">23</td>
 <td><sub>Barbados</sub></td>
 </tr>
@@ -387,184 +387,184 @@
 </tr>
 <tr>
 <td align="right">53</td>
-<td><a href="https://github.com/SProga"><img src="https://avatars.githubusercontent.com/u/25225940?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SProga"><b>Shane Proverbs</b></a><br><sub>&#64;SProga</sub></td>
-<td align="right"><b>3</b></td>
-<td align="right">46</td>
-<td><sub>Barbados</sub></td>
-</tr>
-<tr>
-<td align="right">54</td>
 <td><a href="https://github.com/YekimCodez"><img src="https://avatars.githubusercontent.com/u/118180798?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YekimCodez"><b>Michael Doughty</b></a><br><sub>&#64;YekimCodez</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">38</td>
 <td><sub>Barbados</sub></td>
 </tr>
 <tr>
-<td align="right">55</td>
+<td align="right">54</td>
 <td><a href="https://github.com/caritechsolutions"><img src="https://avatars.githubusercontent.com/u/20524583?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/caritechsolutions"><b>caritechsolutions</b></a><br><sub>&#64;caritechsolutions</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">34</td>
 <td><sub>Barbados</sub></td>
 </tr>
 <tr>
-<td align="right">56</td>
+<td align="right">55</td>
 <td><a href="https://github.com/ianhambleton"><img src="https://avatars.githubusercontent.com/u/14220962?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ianhambleton"><b>Ian Hambleton</b></a><br><sub>&#64;ianhambleton</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">26</td>
 <td><sub>Barbados</sub></td>
 </tr>
 <tr>
-<td align="right">57</td>
+<td align="right">56</td>
 <td><a href="https://github.com/AlexanderPatrick"><img src="https://avatars.githubusercontent.com/u/3377458?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlexanderPatrick"><b>Alexander Patrick</b></a><br><sub>&#64;AlexanderPatrick</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">24</td>
 <td><sub>Barbados</sub></td>
 </tr>
 <tr>
-<td align="right">58</td>
+<td align="right">57</td>
 <td><a href="https://github.com/jlayne246"><img src="https://avatars.githubusercontent.com/u/159025400?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jlayne246"><b>Joshua Layne</b></a><br><sub>&#64;jlayne246</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">19</td>
 <td><sub>Bridgetown, Barbados</sub></td>
 </tr>
 <tr>
-<td align="right">59</td>
+<td align="right">58</td>
 <td><a href="https://github.com/PrinceJoshua"><img src="https://avatars.githubusercontent.com/u/23250284?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PrinceJoshua"><b>Joshua</b></a><br><sub>&#64;PrinceJoshua</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">15</td>
 <td><sub>Barbados</sub></td>
 </tr>
 <tr>
-<td align="right">60</td>
+<td align="right">59</td>
 <td><a href="https://github.com/baebranch"><img src="https://avatars.githubusercontent.com/u/66740223?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/baebranch"><b>Brian Branch</b></a><br><sub>&#64;baebranch</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">14</td>
 <td><sub>Barbados</sub></td>
 </tr>
 <tr>
-<td align="right">61</td>
+<td align="right">60</td>
 <td><a href="https://github.com/javonwebster"><img src="https://avatars.githubusercontent.com/u/17675880?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/javonwebster"><b>Javon Webster</b></a><br><sub>&#64;javonwebster</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">14</td>
 <td><sub>Barbados</sub></td>
 </tr>
 <tr>
-<td align="right">62</td>
+<td align="right">61</td>
 <td><a href="https://github.com/clemjfrancis"><img src="https://avatars.githubusercontent.com/u/53152319?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/clemjfrancis"><b>Clem &quot;CJ&quot; Francis</b></a><br><sub>&#64;clemjfrancis</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">11</td>
 <td><sub>Barbados</sub></td>
 </tr>
 <tr>
-<td align="right">63</td>
+<td align="right">62</td>
 <td><a href="https://github.com/IvanC00"><img src="https://avatars.githubusercontent.com/u/4825826?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IvanC00"><b>Ivan</b></a><br><sub>&#64;IvanC00</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">10</td>
 <td><sub>Barbados</sub></td>
 </tr>
 <tr>
-<td align="right">64</td>
+<td align="right">63</td>
 <td><a href="https://github.com/AzielJust"><img src="https://avatars.githubusercontent.com/u/131375723?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AzielJust"><b>Aziel Hoyte</b></a><br><sub>&#64;AzielJust</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">8</td>
 <td><sub>Barbados</sub></td>
 </tr>
 <tr>
-<td align="right">65</td>
+<td align="right">64</td>
 <td><a href="https://github.com/mediapolis"><img src="https://avatars.githubusercontent.com/u/3419673?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mediapolis"><b>Michael Rhodes</b></a><br><sub>&#64;mediapolis</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">5</td>
 <td><sub>NYC, Boston, Barbados</sub></td>
 </tr>
 <tr>
-<td align="right">66</td>
+<td align="right">65</td>
 <td><a href="https://github.com/ProgrammingJosh"><img src="https://avatars.githubusercontent.com/u/99920039?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ProgrammingJosh"><b>Josh Griffith</b></a><br><sub>&#64;ProgrammingJosh</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">5</td>
 <td><sub>Barbados</sub></td>
 </tr>
 <tr>
-<td align="right">67</td>
+<td align="right">66</td>
 <td><a href="https://github.com/adefreitas246"><img src="https://avatars.githubusercontent.com/u/222717204?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adefreitas246"><b>Adde Defreitas</b></a><br><sub>&#64;adefreitas246</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">4</td>
 <td><sub>Barbados</sub></td>
 </tr>
 <tr>
-<td align="right">68</td>
+<td align="right">67</td>
 <td><a href="https://github.com/gsequera"><img src="https://avatars.githubusercontent.com/u/5026191?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gsequera"><b>Gelvis Sequera</b></a><br><sub>&#64;gsequera</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
 <td><sub>Barbados</sub></td>
 </tr>
 <tr>
-<td align="right">69</td>
+<td align="right">68</td>
 <td><a href="https://github.com/kcrtr"><img src="https://avatars.githubusercontent.com/u/75222674?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kcrtr"><b>Karry</b></a><br><sub>&#64;kcrtr</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
 <td><sub>Barbados</sub></td>
 </tr>
 <tr>
-<td align="right">70</td>
+<td align="right">69</td>
 <td><a href="https://github.com/latifahwood"><img src="https://avatars.githubusercontent.com/u/198597606?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/latifahwood"><b>Latifah</b></a><br><sub>&#64;latifahwood</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
 <td><sub>Barbados</sub></td>
 </tr>
 <tr>
-<td align="right">71</td>
+<td align="right">70</td>
 <td><a href="https://github.com/minexmr2"><img src="https://avatars.githubusercontent.com/u/112060189?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/minexmr2"><b>MineXMR2 Pool Owner</b></a><br><sub>&#64;minexmr2</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">1</td>
 <td><sub>Barbados</sub></td>
 </tr>
 <tr>
-<td align="right">72</td>
+<td align="right">71</td>
 <td><a href="https://github.com/Siamakhasani"><img src="https://avatars.githubusercontent.com/u/107795577?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Siamakhasani"><b>Siama khasani</b></a><br><sub>&#64;Siamakhasani</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">1</td>
 <td><sub>Barbados</sub></td>
 </tr>
 <tr>
-<td align="right">73</td>
+<td align="right">72</td>
 <td><a href="https://github.com/chad-kirton"><img src="https://avatars.githubusercontent.com/u/44986408?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chad-kirton"><b>chad-kirton</b></a><br><sub>&#64;chad-kirton</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
 <td><sub>Barbados</sub></td>
 </tr>
 <tr>
-<td align="right">74</td>
+<td align="right">73</td>
 <td><a href="https://github.com/codebykeoma"><img src="https://avatars.githubusercontent.com/u/25121397?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codebykeoma"><b>Keoma Mallett</b></a><br><sub>&#64;codebykeoma</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
 <td><sub>Barbados</sub></td>
 </tr>
 <tr>
-<td align="right">75</td>
+<td align="right">74</td>
 <td><a href="https://github.com/positivelymade"><img src="https://avatars.githubusercontent.com/u/11082948?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/positivelymade"><b>Philip Belgrave-Herbert</b></a><br><sub>&#64;positivelymade</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
 <td><sub>Barbados</sub></td>
 </tr>
 <tr>
-<td align="right">76</td>
+<td align="right">75</td>
 <td><a href="https://github.com/damanimccaskie"><img src="https://avatars.githubusercontent.com/u/47030714?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/damanimccaskie"><b>Damani McCaskie</b></a><br><sub>&#64;damanimccaskie</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">81</td>
 <td><sub>Barbados</sub></td>
 </tr>
 <tr>
-<td align="right">77</td>
+<td align="right">76</td>
 <td><a href="https://github.com/nakeshialorde"><img src="https://avatars.githubusercontent.com/u/24622014?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nakeshialorde"><b>Nakeshia Lorde</b></a><br><sub>&#64;nakeshialorde</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">67</td>
 <td><sub>Bridgetown, Barbados</sub></td>
 </tr>
 <tr>
-<td align="right">78</td>
+<td align="right">77</td>
 <td><a href="https://github.com/princebazawule"><img src="https://avatars.githubusercontent.com/u/578763?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/princebazawule"><b>prince bazawule</b></a><br><sub>&#64;princebazawule</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">48</td>
+<td><sub>Barbados</sub></td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><a href="https://github.com/SProga"><img src="https://avatars.githubusercontent.com/u/25225940?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SProga"><b>Shane Proverbs</b></a><br><sub>&#64;SProga</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">46</td>
 <td><sub>Barbados</sub></td>
 </tr>
 <tr>

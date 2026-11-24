@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/XK.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/XK.json">JSON</a> |
 
 </div>
 
@@ -34,6 +34,15 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/behark"><img src="https://avatars.githubusercontent.com/u/206588944?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/behark"><b>Behar Kabashi</b></a><br><sub>&#64;behark · 0 followers</sub></td>
+<td align="right"><b>824</b></td>
+<td align="right">765</td>
+<td align="right">23</td>
+<td align="right">1</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/kujtimiihoxha"><img src="https://avatars.githubusercontent.com/u/14311743?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kujtimiihoxha"><b>Kujtim Hoxha</b></a><br><sub>&#64;kujtimiihoxha · 594 followers</sub></td>
 <td align="right"><b>345</b></td>
 <td align="right">165</td>
@@ -42,7 +51,7 @@
 <td align="right">4</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/naimsulejmani"><img src="https://avatars.githubusercontent.com/u/12331526?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/naimsulejmani"><b>Naim Sulejmani</b></a><br><sub>&#64;naimsulejmani · 86 followers</sub></td>
 <td align="right"><b>152</b></td>
 <td align="right">108</td>
@@ -51,7 +60,7 @@
 <td align="right">4</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/arditbe"><img src="https://avatars.githubusercontent.com/u/88629825?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arditbe"><b>ardit</b></a><br><sub>&#64;arditbe · 147 followers</sub></td>
 <td align="right"><b>65</b></td>
 <td align="right">37</td>
@@ -60,7 +69,16 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
+<td><a href="https://github.com/GzimAsani"><img src="https://avatars.githubusercontent.com/u/62705947?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GzimAsani"><b>Gzim Asani</b></a><br><sub>&#64;GzimAsani · 47 followers</sub></td>
+<td align="right"><b>5</b></td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/gentw"><img src="https://avatars.githubusercontent.com/u/4513831?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gentw"><b>Gentian (Gex) Nuka</b></a><br><sub>&#64;gentw · 1 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
@@ -69,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">8</td>
 <td><a href="https://github.com/vjanz"><img src="https://avatars.githubusercontent.com/u/25842655?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vjanz"><b>Valon Januzaj</b></a><br><sub>&#64;vjanz · 8,983 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -84,7 +102,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 8 of 400 discovered developers (392 awaiting measurement).
+- **Measured:** 10 of 400 discovered developers (390 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/developers/SO.json">JSON</a> |
+| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/developers/SO.json">JSON</a> |
 
 </div>
 
@@ -65,6 +65,27 @@
 </tr>
 <tr>
 <td align="right">7</td>
+<td><a href="https://github.com/Cabdulahi"><img src="https://avatars.githubusercontent.com/u/33965166?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Cabdulahi"><b>Cabdulahi Sharif</b></a><br><sub>&#64;Cabdulahi</sub></td>
+<td align="right"><b>283</b></td>
+<td align="right">14</td>
+<td><sub>Mogadishu</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/LibanMoo"><img src="https://avatars.githubusercontent.com/u/189236186?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LibanMoo"><b>Liban Hussein</b></a><br><sub>&#64;LibanMoo</sub></td>
+<td align="right"><b>256</b></td>
+<td align="right">12</td>
+<td><sub>Somalia</sub></td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/halac"><img src="https://avatars.githubusercontent.com/u/5058076?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/halac"><b>Abdirisak Mohamed</b></a><br><sub>&#64;halac</sub></td>
+<td align="right"><b>251</b></td>
+<td align="right">17</td>
+<td><sub>Hargeisa, Somaliland</sub></td>
+</tr>
+<tr>
+<td align="right">10</td>
 <td><a href="https://github.com/00252615212320"><img src="https://avatars.githubusercontent.com/u/63036994?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/00252615212320"><b>Mohamed Abdirahman</b></a><br><sub>&#64;00252615212320</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
@@ -78,8 +99,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 7 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 10 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 0 of 99 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

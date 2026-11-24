@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 24 Nov 2026 | <a href="../../data/contributors/TV.json">JSON</a> |
+| 🟡 Provisional | **3** | 24 Nov 2026 | <a href="../../data/contributors/TV.json">JSON</a> |
 
 </div>
 
@@ -25,6 +25,24 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/xubeiyan"><img src="https://avatars.githubusercontent.com/u/4469398?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xubeiyan"><b>xubeiyan</b></a><br><sub>&#64;xubeiyan · 20 followers</sub></td>
+<td align="right"><b>97</b></td>
+<td align="right">77</td>
+<td align="right">18</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/enaros"><img src="https://avatars.githubusercontent.com/u/4212467?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/enaros"><b>Emiliano</b></a><br><sub>&#64;enaros · 20 followers</sub></td>
+<td align="right"><b>12</b></td>
+<td align="right">11</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/Dan-Creative"><img src="https://avatars.githubusercontent.com/u/140185189?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dan-Creative"><b>Доктор Кал</b></a><br><sub>&#64;Dan-Creative · 0 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -39,10 +57,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 6 of 18 discovered developers (12 awaiting measurement).
+- **Measured:** 8 of 26 discovered developers (18 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 3 of 21 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

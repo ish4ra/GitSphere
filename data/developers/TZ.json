@@ -5,13 +5,13 @@
 "country": {"code":"TZ","name":"Tanzania","slug":"tanzania"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":179,"candidates":13,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":179,"candidates":14,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":145,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjkwMjE2ODM3","login":"dexflare","name":"Dexflare Network","url":"https://github.com/dexflare","avatarUrl":"https://avatars.githubusercontent.com/u/90216837?s=80&v=4","followers":2492,"publicRepos":5,"location":"Tanzania","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"U_kgDOB-OB2A","login":"nyenza","name":"Agrey Nyenza","url":"https://github.com/nyenza","avatarUrl":"https://avatars.githubusercontent.com/u/132350424?s=80&v=4","followers":1504,"publicRepos":8,"location":"Iringa, Tanzania","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":3,"id":"MDQ6VXNlcjE2MTA4NTc=","login":"lykmapipo","name":"lally elias","url":"https://github.com/lykmapipo","avatarUrl":"https://avatars.githubusercontent.com/u/1610857?s=80&v=4","followers":1116,"publicRepos":273,"location":"Dar es salaam, Tanzania","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":4,"id":"U_kgDOBZwcZw","login":"karimshaban01","name":"Karim S. Haruna","url":"https://github.com/karimshaban01","avatarUrl":"https://avatars.githubusercontent.com/u/94116967?s=80&v=4","followers":1063,"publicRepos":52,"location":"ARUSHA, TANZANIA","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
-  {"rank":5,"id":"U_kgDOCSKiCA","login":"avict18","name":"Aaron Vic","url":"https://github.com/avict18","avatarUrl":"https://avatars.githubusercontent.com/u/153264648?s=80&v=4","followers":1038,"publicRepos":48,"location":"Tanzania","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":5,"id":"U_kgDOCSKiCA","login":"avict18","name":"Aaron Vic","url":"https://github.com/avict18","avatarUrl":"https://avatars.githubusercontent.com/u/153264648?s=80&v=4","followers":1036,"publicRepos":48,"location":"Tanzania","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":6,"id":"MDQ6VXNlcjQxNzkxOTgz","login":"Kalebu","name":"Jordan Kalebu","url":"https://github.com/Kalebu","avatarUrl":"https://avatars.githubusercontent.com/u/41791983?s=80&v=4","followers":967,"publicRepos":243,"location":"Dar es Salaam , Tanzania","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":7,"id":"MDQ6VXNlcjc2NjE5OTY3","login":"isaka-james","name":"masterplan","url":"https://github.com/isaka-james","avatarUrl":"https://avatars.githubusercontent.com/u/76619967?s=80&v=4","followers":552,"publicRepos":15,"location":"Dodoma, Tanzania","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":8,"id":"U_kgDOCvF4FQ","login":"tarxemo","name":"TarXemo","url":"https://github.com/tarxemo","avatarUrl":"https://avatars.githubusercontent.com/u/183597077?s=80&v=4","followers":461,"publicRepos":134,"location":"Dodoma-Tanzania","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
@@ -19,10 +19,11 @@
   {"rank":10,"id":"MDQ6VXNlcjg1MjAzNjY3","login":"TheCollinsByte","name":"Collins Boniface","url":"https://github.com/TheCollinsByte","avatarUrl":"https://avatars.githubusercontent.com/u/85203667?s=80&v=4","followers":395,"publicRepos":16,"location":"Arusha, Tanzania","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":11,"id":"MDQ6VXNlcjg0ODQxNjY5","login":"benny-png","name":"Benjamin Maziku Mashimba","url":"https://github.com/benny-png","avatarUrl":"https://avatars.githubusercontent.com/u/84841669?s=80&v=4","followers":381,"publicRepos":229,"location":"Dar Es Salaam, TANZANIA","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":12,"id":"MDQ6VXNlcjY4MzMyMTM3","login":"TripleHat","name":null,"url":"https://github.com/TripleHat","avatarUrl":"https://avatars.githubusercontent.com/u/68332137?s=80&v=4","followers":307,"publicRepos":62,"location":"Tanzania","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
-  {"rank":13,"id":"MDQ6VXNlcjgxMDYwMQ==","login":"thysultan","name":"Sultan","url":"https://github.com/thysultan","avatarUrl":"https://avatars.githubusercontent.com/u/810601?s=80&v=4","followers":179,"location":"DSM, TZ","attribution":{"confidence":"medium","evidence":"country-code"},"verifiedOn":"2026-11-23"}
+  {"rank":13,"id":"U_kgDOB8BLQA","login":"UtpalCoding","name":"Utpal Coding","url":"https://github.com/UtpalCoding","avatarUrl":"https://avatars.githubusercontent.com/u/130042688?s=80&v=4","followers":266,"publicRepos":17,"location":"Nasa","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-24"},
+  {"rank":14,"id":"MDQ6VXNlcjgxMDYwMQ==","login":"thysultan","name":"Sultan","url":"https://github.com/thysultan","avatarUrl":"https://avatars.githubusercontent.com/u/810601?s=80&v=4","followers":179,"location":"DSM, TZ","attribution":{"confidence":"medium","evidence":"country-code"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "88a674f4cbca9310",
-"updatedAt": "2026-11-24T01:31:49.018Z",
+"contentHash": "05d71875058da269",
+"updatedAt": "2026-11-24T11:36:56.631Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T01:31:49.018Z"
+"generatedAt": "2026-11-24T11:36:56.631Z"
 }

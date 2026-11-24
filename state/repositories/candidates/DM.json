@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"DM","name":"Dominica","slug":"dominica"},
-"count": 63,
+"count": 62,
 "repositories": [
-  {"name":"bigmountainideas/socializr","stars":12,"forks":1,"language":"JavaScript","license":"MIT","archived":false,"createdAt":"2014-03-08T15:57:31Z","pushedAt":"2015-05-04T21:06:15Z","owner":{"login":"bigmountainideas","type":"Organization","name":"Big Mountain Solutions","location":"Toronto/ Dominica"},"attribution":{"code":"DM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T16:34:50.678Z","id":"legacy:bigmountainideas/socializr","legacy":true},
   {"name":"AdrielMinyety/Login-PHP-MySQL","stars":7,"forks":3,"language":"PHP","archived":false,"createdAt":"2019-02-06T06:52:29Z","pushedAt":"2019-08-20T21:34:28Z","owner":{"login":"AdrielMinyety","type":"User","name":"Adriel Minyety Gonzalez","location":"República Dominica/ Santo Domingo"},"attribution":{"code":"DM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T16:34:50.678Z","id":"legacy:adrielminyety/login-php-mysql","legacy":true},
   {"name":"Clatasha/Clatasha-HUD","stars":7,"forks":0,"language":"C++","license":"GPL-2.0","archived":false,"createdAt":"2026-09-19T17:16:32Z","pushedAt":"2026-10-03T11:26:56Z","owner":{"login":"Clatasha","type":"User","name":"Clatasha","location":"Portsmouth,Dominica"},"attribution":{"code":"DM","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-25T16:34:50.678Z","id":"legacy:clatasha/clatasha-hud","legacy":true},
   {"name":"xeno3dev/atlas","stars":7,"forks":0,"language":"Python","license":"MIT","archived":false,"createdAt":"2026-07-01T02:12:04Z","pushedAt":"2026-07-03T23:53:44Z","owner":{"login":"xeno3dev","type":"User","name":"Aylon Johnson","location":"Dominica"},"attribution":{"code":"DM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T16:34:50.678Z","id":"legacy:xeno3dev/atlas","legacy":true},

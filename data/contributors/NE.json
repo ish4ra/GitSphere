@@ -5,14 +5,15 @@
 "country": {"code":"NE","name":"Niger","slug":"niger"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":318,"measuredAccounts":7,"measurementBacklog":311,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":65,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":315,"measuredAccounts":9,"measurementBacklog":306,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":65,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOBm_ZJg","login":"kodjodevf","name":"Moustapha Kodjo Amadou","url":"https://github.com/kodjodevf","avatarUrl":"https://avatars.githubusercontent.com/u/107993382?s=80&v=4","followers":239,"publicRepos":23,"location":"Niamey,Niger","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-24","contributions":{"public":1444,"commits":1120,"pullRequests":65,"reviews":248,"issues":0,"repositories":11,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":2,"id":"MDQ6VXNlcjQzMzgwNzE1","login":"feyroozecode","name":"Ibrahim Ahmad (feyroozecode)","url":"https://github.com/feyroozecode","avatarUrl":"https://avatars.githubusercontent.com/u/43380715?s=80&v=4","followers":113,"publicRepos":402,"location":"Niger","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-24","contributions":{"public":135,"commits":96,"pullRequests":2,"reviews":0,"issues":0,"repositories":37,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
-  {"rank":3,"id":"MDQ6VXNlcjc3ODk2NzEx","login":"HamaBarhamou","name":"HAMA Barhamou","url":"https://github.com/HamaBarhamou","avatarUrl":"https://avatars.githubusercontent.com/u/77896711?s=80&v=4","followers":47,"publicRepos":125,"location":"Niger","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-24","contributions":{"public":38,"commits":33,"pullRequests":0,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}}
+  {"rank":3,"id":"MDQ6VXNlcjc3ODk2NzEx","login":"HamaBarhamou","name":"HAMA Barhamou","url":"https://github.com/HamaBarhamou","avatarUrl":"https://avatars.githubusercontent.com/u/77896711?s=80&v=4","followers":47,"publicRepos":125,"location":"Niger","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-24","contributions":{"public":38,"commits":33,"pullRequests":0,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
+  {"rank":4,"id":"MDQ6VXNlcjg0NTcyODkx","login":"Yacoubou-seidou","name":"Yacos","url":"https://github.com/Yacoubou-seidou","avatarUrl":"https://avatars.githubusercontent.com/u/84572891?s=80&v=4","followers":65,"publicRepos":114,"location":"Niamey/Niger","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-24","contributions":{"public":14,"commits":12,"pullRequests":1,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "f9e6fa243e7d740f",
-"updatedAt": "2026-11-24T01:31:49.018Z",
+"contentHash": "dca28931442cca7d",
+"updatedAt": "2026-11-24T11:36:56.631Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T01:31:49.018Z"
+"generatedAt": "2026-11-24T11:36:56.631Z"
 }

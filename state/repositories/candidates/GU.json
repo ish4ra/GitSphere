@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"GU","name":"Guam","slug":"guam"},
-"count": 102,
+"count": 101,
 "repositories": [
-  {"name":"ThaumX/Accidental-Woman-Public","stars":13,"forks":3,"language":"TypeScript","license":"NOASSERTION","archived":false,"createdAt":"2017-11-10T11:38:19Z","pushedAt":"2021-09-15T00:07:27Z","owner":{"login":"ThaumX","type":"User","name":"ThaumX","location":"Guam"},"attribution":{"code":"GU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:41.126Z","id":"legacy:thaumx/accidental-woman-public","legacy":true},
   {"name":"Disav0wed/BuildVariantMapsDemo","stars":8,"forks":1,"language":"Kotlin","archived":false,"createdAt":"2020-05-13T03:17:53Z","pushedAt":"2021-03-04T12:47:16Z","owner":{"login":"Disav0wed","type":"User","name":"Ibrahim R Serpici","location":"Guam"},"attribution":{"code":"GU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:41.126Z","id":"legacy:disav0wed/buildvariantmapsdemo","legacy":true},
   {"name":"jasonsalas/TrendingTimeForAndroidWear","stars":6,"forks":4,"language":"Java","archived":false,"createdAt":"2015-01-23T01:43:08Z","pushedAt":"2015-01-29T06:11:31Z","owner":{"login":"jasonsalas","type":"User","name":"Jason Salas","location":"Guam"},"attribution":{"code":"GU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:41.126Z","id":"legacy:jasonsalas/trendingtimeforandroidwear","legacy":true},
   {"name":"mandoiwanaga/codewars_unfollow_allies","stars":4,"forks":2,"language":"Jupyter Notebook","archived":false,"createdAt":"2019-08-15T22:49:53Z","pushedAt":"2019-08-16T20:43:25Z","owner":{"login":"mandoiwanaga","type":"User","name":"Mando Iwanaga","location":"Guam"},"attribution":{"code":"GU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:41.126Z","id":"legacy:mandoiwanaga/codewars_unfollow_allies","legacy":true},

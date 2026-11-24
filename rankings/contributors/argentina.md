@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/AR.json">JSON</a> |
+| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/contributors/AR.json">JSON</a> |
 
 </div>
 
@@ -79,6 +79,24 @@
 </tr>
 <tr>
 <td align="right">7</td>
+<td><a href="https://github.com/salrashid123"><img src="https://avatars.githubusercontent.com/u/11149054?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/salrashid123"><b>salrashid123</b></a><br><sub>&#64;salrashid123 · 274 followers</sub></td>
+<td align="right"><b>447</b></td>
+<td align="right">398</td>
+<td align="right">7</td>
+<td align="right">2</td>
+<td align="right">14</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/jfromaniello"><img src="https://avatars.githubusercontent.com/u/178512?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jfromaniello"><b>José F. Romaniello</b></a><br><sub>&#64;jfromaniello · 281 followers</sub></td>
+<td align="right"><b>428</b></td>
+<td align="right">374</td>
+<td align="right">32</td>
+<td align="right">5</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">9</td>
 <td><a href="https://github.com/valpackett"><img src="https://avatars.githubusercontent.com/u/208340?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/valpackett"><b>Val Packett</b></a><br><sub>&#64;valpackett · 582 followers</sub></td>
 <td align="right"><b>199</b></td>
 <td align="right">80</td>
@@ -87,7 +105,7 @@
 <td align="right">48</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">10</td>
 <td><a href="https://github.com/juancarlospaco"><img src="https://avatars.githubusercontent.com/u/1189414?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/juancarlospaco"><b>Juan Carlos</b></a><br><sub>&#64;juancarlospaco · 378 followers</sub></td>
 <td align="right"><b>179</b></td>
 <td align="right">170</td>
@@ -96,7 +114,7 @@
 <td align="right">5</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">11</td>
 <td><a href="https://github.com/goncy"><img src="https://avatars.githubusercontent.com/u/6494462?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/goncy"><b>Gonzalo Pozzo</b></a><br><sub>&#64;goncy · 5,105 followers</sub></td>
 <td align="right"><b>142</b></td>
 <td align="right">118</td>
@@ -105,7 +123,16 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">12</td>
+<td><a href="https://github.com/JonatanSalas"><img src="https://avatars.githubusercontent.com/u/7697196?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JonatanSalas"><b>Jonatan E. Salas</b></a><br><sub>&#64;JonatanSalas · 257 followers</sub></td>
+<td align="right"><b>126</b></td>
+<td align="right">104</td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">13</td>
 <td><a href="https://github.com/bevacqua"><img src="https://avatars.githubusercontent.com/u/934293?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bevacqua"><b>Nicolás Bevacqua</b></a><br><sub>&#64;bevacqua · 4,830 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -120,7 +147,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 11 of 513 discovered developers (502 awaiting measurement).
+- **Measured:** 14 of 554 discovered developers (540 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 109 in round 1.

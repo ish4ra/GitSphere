@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **18** | 22 Nov 2026 | <a href="../../data/developers/EC.json">JSON</a> |
+| 🟡 Provisional | **19** | 22 Nov 2026 | <a href="../../data/developers/EC.json">JSON</a> |
 
 </div>
 
@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/mikehardy"><img src="https://avatars.githubusercontent.com/u/782704?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikehardy"><b>Mike Hardy</b></a><br><sub>&#64;mikehardy</sub></td>
-<td align="right"><b>1,278</b></td>
+<td align="right"><b>1,277</b></td>
 <td align="right">39</td>
 <td><sub>Cuenca, Ecuador</sub></td>
 </tr>
@@ -135,13 +135,20 @@
 </tr>
 <tr>
 <td align="right">17</td>
+<td><a href="https://github.com/Eddycrack864"><img src="https://avatars.githubusercontent.com/u/89285504?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Eddycrack864"><b>Eddycrack 864</b></a><br><sub>&#64;Eddycrack864</sub></td>
+<td align="right"><b>66</b></td>
+<td align="right">0</td>
+<td><sub>Guayaquil, Ecuador</sub></td>
+</tr>
+<tr>
+<td align="right">18</td>
 <td><a href="https://github.com/AngelJumbo"><img src="https://avatars.githubusercontent.com/u/31261193?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AngelJumbo"><b>AngelJumbo</b></a><br><sub>&#64;AngelJumbo</sub></td>
 <td align="right"><b>32</b></td>
 <td align="right">0</td>
 <td><sub>Ecuador</sub></td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">19</td>
 <td><a href="https://github.com/Carlos487"><img src="https://avatars.githubusercontent.com/u/1598555?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Carlos487"><b>Carlos Fabara</b></a><br><sub>&#64;Carlos487</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">0</td>
@@ -155,7 +162,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 18 attributed developers are tracked; the cutoff is 24 followers.
+- Organizations are excluded. 19 attributed developers are tracked; the cutoff is 24 followers.
 - **Location discovery:** term 0 of 117 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

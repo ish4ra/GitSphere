@@ -5,7 +5,7 @@
 "country": {"code":"SV","name":"El Salvador","slug":"el-salvador"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":18,"candidates":20,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":18,"candidates":20,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":71,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjY0NjQ1MQ==","login":"binux","name":"Roy Binux","url":"https://github.com/binux","avatarUrl":"https://avatars.githubusercontent.com/u/646451?s=80&v=4","followers":2795,"publicRepos":26,"location":"San Jose, US","attribution":{"confidence":"high","evidence":"place-with-subdivision"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjYxMzk0Mw==","login":"huytd","name":"Huy","url":"https://github.com/huytd","avatarUrl":"https://avatars.githubusercontent.com/u/613943?s=80&v=4","followers":1891,"publicRepos":441,"location":"California, US","attribution":{"confidence":"high","evidence":"place-with-subdivision"},"verifiedOn":"2026-11-23"},
@@ -21,15 +21,15 @@
   {"rank":12,"id":"MDQ6VXNlcjE3MTY0","login":"mars","name":"Mars Hall","url":"https://github.com/mars","avatarUrl":"https://avatars.githubusercontent.com/u/17164?s=80&v=4","followers":435,"publicRepos":99,"location":"California, US","attribution":{"confidence":"high","evidence":"place-with-subdivision"},"verifiedOn":"2026-11-24"},
   {"rank":13,"id":"MDQ6VXNlcjI3NzUxOTk1","login":"auguwu","name":"Chris (Noel)","url":"https://github.com/auguwu","avatarUrl":"https://avatars.githubusercontent.com/u/27751995?s=80&v=4","followers":417,"publicRepos":20,"location":"California, US","attribution":{"confidence":"high","evidence":"place-with-subdivision"},"verifiedOn":"2026-11-23"},
   {"rank":14,"id":"MDQ6VXNlcjE2NDY5NTQ4","login":"Carlos007007","name":"Carlos Alfaro","url":"https://github.com/Carlos007007","avatarUrl":"https://avatars.githubusercontent.com/u/16469548?s=80&v=4","followers":404,"publicRepos":39,"location":"El Salvador","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
-  {"rank":15,"id":"MDQ6VXNlcjQzMjIxMQ==","login":"xeraa","name":"Philipp Krenn","url":"https://github.com/xeraa","avatarUrl":"https://avatars.githubusercontent.com/u/432211?s=80&v=4","followers":357,"publicRepos":58,"location":"San Francisco, US","attribution":{"confidence":"high","evidence":"place-with-subdivision"},"verifiedOn":"2026-11-23"},
-  {"rank":16,"id":"MDQ6VXNlcjE0NzcwMTA=","login":"stnguyen90","name":"Steven Nguyen","url":"https://github.com/stnguyen90","avatarUrl":"https://avatars.githubusercontent.com/u/1477010?s=80&v=4","followers":350,"publicRepos":69,"location":"California, US","attribution":{"confidence":"high","evidence":"place-with-subdivision"},"verifiedOn":"2026-11-23"},
+  {"rank":15,"id":"MDQ6VXNlcjQzMjIxMQ==","login":"xeraa","name":"Philipp Krenn","url":"https://github.com/xeraa","avatarUrl":"https://avatars.githubusercontent.com/u/432211?s=80&v=4","followers":357,"publicRepos":58,"location":"San Francisco, US","attribution":{"confidence":"high","evidence":"place-with-subdivision"},"verifiedOn":"2026-11-24"},
+  {"rank":16,"id":"MDQ6VXNlcjE0NzcwMTA=","login":"stnguyen90","name":"Steven Nguyen","url":"https://github.com/stnguyen90","avatarUrl":"https://avatars.githubusercontent.com/u/1477010?s=80&v=4","followers":350,"publicRepos":69,"location":"California, US","attribution":{"confidence":"high","evidence":"place-with-subdivision"},"verifiedOn":"2026-11-24"},
   {"rank":17,"id":"MDQ6VXNlcjM5MjY3ODU=","login":"honghaoz","name":"Honghao","url":"https://github.com/honghaoz","avatarUrl":"https://avatars.githubusercontent.com/u/3926785?s=80&v=4","followers":337,"publicRepos":97,"location":"California, US","attribution":{"confidence":"high","evidence":"place-with-subdivision"},"verifiedOn":"2026-11-24"},
   {"rank":18,"id":"MDQ6VXNlcjExMTUwMTUz","login":"deviantfero","name":"Fernando Vásquez","url":"https://github.com/deviantfero","avatarUrl":"https://avatars.githubusercontent.com/u/11150153?s=80&v=4","followers":57,"location":"Santa Tecla, El Salvador","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":19,"id":"MDQ6VXNlcjE3NTAx","login":"mvp","name":null,"url":"https://github.com/mvp","avatarUrl":"https://avatars.githubusercontent.com/u/17501?s=80&v=4","followers":48,"location":"California, US","attribution":{"confidence":"high","evidence":"place-with-subdivision"},"verifiedOn":"2026-11-22"},
-  {"rank":20,"id":"MDQ6VXNlcjEzNDYxOTQ2","login":"deltaphc","name":"Paul Clement","url":"https://github.com/deltaphc","avatarUrl":"https://avatars.githubusercontent.com/u/13461946?s=80&v=4","followers":18,"publicRepos":null,"location":"California, US","attribution":{"confidence":"high","evidence":"place-with-subdivision"},"verifiedOn":"2026-11-24"}
+  {"rank":20,"id":"MDQ6VXNlcjEzNDYxOTQ2","login":"deltaphc","name":"Paul Clement","url":"https://github.com/deltaphc","avatarUrl":"https://avatars.githubusercontent.com/u/13461946?s=80&v=4","followers":18,"location":"California, US","attribution":{"confidence":"high","evidence":"place-with-subdivision"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "01c0e182cd581aa8",
-"updatedAt": "2026-11-24T01:31:49.018Z",
+"contentHash": "163c8416ac80eb3f",
+"updatedAt": "2026-11-24T11:36:56.631Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T01:31:49.018Z"
+"generatedAt": "2026-11-24T11:36:56.631Z"
 }

@@ -5,17 +5,19 @@
 "country": {"code":"TG","name":"Togo","slug":"togo"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":1,"candidates":6,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":8,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":37,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"U_kgDODMyCJw","login":"L0VES1CKk","name":"‹ ︎ ✦ 𓏻 Pomaru ’ ◟ 🌱","url":"https://github.com/L0VES1CKk","avatarUrl":"https://avatars.githubusercontent.com/u/214729255?s=80&v=4","followers":467,"publicRepos":2,"location":"YUMESHIPPER!! F/o's are: tigress (kung fu panda), himiko toga (my hero academia), mafioso (forsaken), pierrot (the frea…","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":2,"id":"U_kgDOBkHfUg","login":"bekmarc","name":"K. Marco BEKOUTARE","url":"https://github.com/bekmarc","avatarUrl":"https://avatars.githubusercontent.com/u/104980306?s=80&v=4","followers":380,"publicRepos":124,"location":"Togo","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":3,"id":"U_kgDOBe8b_A","login":"1Edmond","name":"Edmond","url":"https://github.com/1Edmond","avatarUrl":"https://avatars.githubusercontent.com/u/99556348?s=80&v=4","followers":15,"publicRepos":45,"location":"TOGO","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
-  {"rank":4,"id":"U_kgDOCnfQSQ","login":"70-DIDIER","name":"guinwogbegno koffi","url":"https://github.com/70-DIDIER","avatarUrl":"https://avatars.githubusercontent.com/u/175624265?s=80&v=4","followers":13,"publicRepos":95,"location":"Lomé Togo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
-  {"rank":5,"id":"U_kgDOCOBXdA","login":"0xbignuel","name":"Emmanuel AHIABOR","url":"https://github.com/0xbignuel","avatarUrl":"https://avatars.githubusercontent.com/u/148920180?s=80&v=4","followers":3,"publicRepos":20,"location":"Cacaveli, Lomé-TOGO","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":6,"id":"MDQ6VXNlcjg2MTgwMDI=","login":"19r3ka","name":"Yem Ahiatsi","url":"https://github.com/19r3ka","avatarUrl":"https://avatars.githubusercontent.com/u/8618002?s=80&v=4","followers":1,"publicRepos":15,"location":"Togo","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":4,"id":"U_kgDOCQZK7w","login":"Abdou-Jabar","name":"ᴀʙᴅᴏᴜ-ᴊᴀʙᴀʀ MIKAILOU","url":"https://github.com/Abdou-Jabar","avatarUrl":"https://avatars.githubusercontent.com/u/151407343?s=80&v=4","followers":15,"publicRepos":19,"location":"Togo","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":5,"id":"U_kgDOCnfQSQ","login":"70-DIDIER","name":"guinwogbegno koffi","url":"https://github.com/70-DIDIER","avatarUrl":"https://avatars.githubusercontent.com/u/175624265?s=80&v=4","followers":13,"publicRepos":95,"location":"Lomé Togo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":6,"id":"U_kgDOCOBXdA","login":"0xbignuel","name":"Emmanuel AHIABOR","url":"https://github.com/0xbignuel","avatarUrl":"https://avatars.githubusercontent.com/u/148920180?s=80&v=4","followers":3,"publicRepos":20,"location":"Cacaveli, Lomé-TOGO","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":7,"id":"MDQ6VXNlcjg2MTgwMDI=","login":"19r3ka","name":"Yem Ahiatsi","url":"https://github.com/19r3ka","avatarUrl":"https://avatars.githubusercontent.com/u/8618002?s=80&v=4","followers":1,"publicRepos":15,"location":"Togo","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":8,"id":"U_kgDOD40Z5g","login":"abdoulridwan2-commits","name":"Abdoulaye ridwan","url":"https://github.com/abdoulridwan2-commits","avatarUrl":"https://avatars.githubusercontent.com/u/260905446?s=80&v=4","followers":0,"publicRepos":44,"location":"Kara, Togo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "12d2a3d49be0ef6a",
-"updatedAt": "2026-11-24T01:31:49.018Z",
+"contentHash": "b65a6c9d4375d199",
+"updatedAt": "2026-11-24T11:36:56.631Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T01:31:49.018Z"
+"generatedAt": "2026-11-24T11:36:56.631Z"
 }

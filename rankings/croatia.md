@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **86** | 22 Nov 2026 | <a href="../data/HR.json">JSON</a> |
+| 🟡 Provisional | **99** | 22 Nov 2026 | <a href="../data/HR.json">JSON</a> |
 
 </div>
 
@@ -623,6 +623,97 @@
 <td align="right">73</td>
 <td>Elixir</td>
 </tr>
+<tr>
+<td align="right">87</td>
+<td><img src="https://github.com/stamparm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stamparm/DSVW"><b>stamparm/DSVW</b></a><br><sub>Damn Small Vulnerable Web</sub></td>
+<td align="right"><b>887</b></td>
+<td align="right">380</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><img src="https://github.com/stamparm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stamparm/DSSS"><b>stamparm/DSSS</b></a><br><sub>Damn Small SQLi Scanner</sub></td>
+<td align="right"><b>883</b></td>
+<td align="right">201</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_video_chat"><b>adrianhajdin/project&#95;video&#95;chat</b></a><br><sub>This is a code repository for the corresponding YouTube video. In this tutorial, we&#39;re going to build and deploy a Reac…</sub></td>
+<td align="right"><b>878</b></td>
+<td align="right">411</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><img src="https://github.com/loboris.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo"><b>loboris/MicroPython&#95;ESP32&#95;psRAM&#95;LoBo</b></a><br><sub>MicroPython for ESP32 with psRAM support</sub></td>
+<td align="right"><b>875</b></td>
+<td align="right">348</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/travel_ui_ux"><b>adrianhajdin/travel&#95;ui&#95;ux</b></a><br><sub>Build and Deploy a Fully Responsive Modern UI/UX Website, React.js, Next.js 13, Tailwind CSS</sub></td>
+<td align="right"><b>867</b></td>
+<td align="right">224</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/jcavar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jcavar/refresher"><b>jcavar/refresher</b></a><br><sub>DEPRECATED: Pull to refresh in Swift</sub></td>
+<td align="right"><b>859</b></td>
+<td align="right">94</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_metaverse"><b>adrianhajdin/project&#95;metaverse</b></a><br><sub>Build and Deploy a Modern Next 13 Website With Framer Motion &amp; Tailwind CSS</sub></td>
+<td align="right"><b>854</b></td>
+<td align="right">299</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/ivan-sincek.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ivan-sincek/penetration-testing-cheat-sheet"><b>ivan-sincek/penetration-testing-cheat-sheet</b></a><br><sub>Work in progress...</sub></td>
+<td align="right"><b>853</b></td>
+<td align="right">166</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/ai-resume-analyzer"><b>adrianhajdin/ai-resume-analyzer</b></a><br><sub>AI-powered Resume Analyzer built with React &amp; Puter.js. Includes seamless auth, upload and store resumes, and match can…</sub></td>
+<td align="right"><b>828</b></td>
+<td align="right">215</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/ditdot-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ditdot-dev/vue-flow-form"><b>ditdot-dev/vue-flow-form</b></a><br><sub>Create conversational conditional-logic forms with Vue.js.</sub></td>
+<td align="right"><b>804</b></td>
+<td align="right">173</td>
+<td>Vue</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/react-native-movie-app"><b>adrianhajdin/react-native-movie-app</b></a><br><sub>Get hands-on with React Native and Expo in this crash course! Build a mobile movie app from scratch, and learn essentia…</sub></td>
+<td align="right"><b>789</b></td>
+<td align="right">240</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_crowdfunding"><b>adrianhajdin/project&#95;crowdfunding</b></a><br><sub>With a stunning design, connected to the blockchain, metamask pairing, interaction with smart contracts, sending Ethere…</sub></td>
+<td align="right"><b>781</b></td>
+<td align="right">399</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/podcastr"><b>adrianhajdin/podcastr</b></a></td>
+<td align="right"><b>775</b></td>
+<td align="right">150</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -631,8 +722,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 926 stars; 86 attributed candidates are tracked.
-- 119 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 775 stars; 99 attributed candidates are tracked.
+- 115 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 145 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

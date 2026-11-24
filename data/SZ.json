@@ -5,7 +5,7 @@
 "country": {"code":"SZ","name":"Eswatini","slug":"eswatini"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":149,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":149,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":36,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"crawler","nameWithOwner":"crypto-jobs-fyi/crawler","url":"https://github.com/crypto-jobs-fyi/crawler","description":null,"stars":8,"forks":2,"primaryLanguage":"Python","license":{"spdxId":"Apache-2.0"},"createdAt":"2023-04-19T10:18:36Z","pushedAt":"2026-10-03T13:15:35Z","archived":false,"owner":{"login":"crypto-jobs-fyi","name":"crypto-jobs","type":"Organization","url":"https://github.com/crypto-jobs-fyi","location":"Swaziland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"wifi-hacker-advanced","nameWithOwner":"allGhostAnon/wifi-hacker-advanced","url":"https://github.com/allGhostAnon/wifi-hacker-advanced","description":null,"stars":7,"forks":3,"primaryLanguage":"Shell","license":{"spdxId":"MIT"},"createdAt":"2017-10-08T15:32:13Z","pushedAt":"2017-10-08T15:58:01Z","archived":false,"owner":{"login":"allGhostAnon","name":"Lwazi Dlamini","type":"User","url":"https://github.com/allGhostAnon","location":"Mbabane, Swaziland","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"farm-planner","nameWithOwner":"Bheki12/farm-planner","url":"https://github.com/Bheki12/farm-planner","description":null,"stars":0,"forks":0,"primaryLanguage":"Python","license":{"spdxId":"GPL-3.0"},"createdAt":"2026-01-11T17:47:39Z","pushedAt":"2026-01-11T17:58:14Z","archived":false,"owner":{"login":"Bheki12","name":"Bhekisisa Dlamini","type":"User","url":"https://github.com/Bheki12","location":"Eswatini","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"yolo","nameWithOwner":"bhekie/yolo","url":"https://github.com/bhekie/yolo","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2016-06-18T05:25:25Z","pushedAt":"2016-06-18T05:25:26Z","archived":false,"owner":{"login":"bhekie","name":"Bhekie","type":"User","url":"https://github.com/bhekie","location":"Swaziland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "39aeff33b1f43334",
-"updatedAt": "2026-11-24T01:31:49.018Z",
+"contentHash": "0ce9d88222ecaf18",
+"updatedAt": "2026-11-24T11:36:56.631Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-24T01:31:49.018Z"
+"generatedAt": "2026-11-24T11:36:56.631Z"
 }

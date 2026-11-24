@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/SY.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/SY.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,24 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/Loay-zeid"><img src="https://avatars.githubusercontent.com/u/157035301?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Loay-zeid"><b>Loay zeid</b></a><br><sub>&#64;Loay-zeid · 277 followers</sub></td>
+<td align="right"><b>201</b></td>
+<td align="right">188</td>
+<td align="right">8</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/jamilhelal37"><img src="https://avatars.githubusercontent.com/u/239214190?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jamilhelal37"><b>Jamil Helal</b></a><br><sub>&#64;jamilhelal37 · 318 followers</sub></td>
+<td align="right"><b>129</b></td>
+<td align="right">92</td>
+<td align="right">24</td>
+<td align="right">1</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/evoiz"><img src="https://avatars.githubusercontent.com/u/22682669?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/evoiz"><b>Elias Al-bittar</b></a><br><sub>&#64;evoiz · 99 followers</sub></td>
 <td align="right"><b>45</b></td>
 <td align="right">30</td>
@@ -51,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">6</td>
 <td><a href="https://github.com/20AhmadAlfadi20"><img src="https://avatars.githubusercontent.com/u/271405050?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/20AhmadAlfadi20"><b>Ahmad Ahmad</b></a><br><sub>&#64;20AhmadAlfadi20 · 0 followers</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">16</td>
@@ -60,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">7</td>
 <td><a href="https://github.com/meory101"><img src="https://avatars.githubusercontent.com/u/113821964?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/meory101"><b>Nour Othman</b></a><br><sub>&#64;meory101 · 719 followers</sub></td>
 <td align="right"><b>15</b></td>
 <td align="right">11</td>
@@ -69,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">8</td>
 <td><a href="https://github.com/123hasanalyaseen-cmd"><img src="https://avatars.githubusercontent.com/u/268205970?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/123hasanalyaseen-cmd"><b>HASAN ALYASEEN</b></a><br><sub>&#64;123hasanalyaseen-cmd · 0 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">3</td>
@@ -84,10 +102,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 7 of 400 discovered developers (393 awaiting measurement).
+- **Measured:** 9 of 401 discovered developers (392 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 136 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

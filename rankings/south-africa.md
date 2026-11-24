@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **41** | 03 Nov 2026 | <a href="../data/ZA.json">JSON</a> |
+| 🟠 Stale | **42** | 03 Nov 2026 | <a href="../data/ZA.json">JSON</a> |
 
-> **Not yet re-verified.** 15 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 7 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -207,104 +207,111 @@
 </tr>
 <tr>
 <td align="right">27</td>
-<td><img src="https://github.com/KabeloM13.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KabeloM13/kabeloM13"><b>KabeloM13/kabeloM13</b></a></td>
-<td align="right"><b>29</b></td>
-<td align="right">1</td>
-<td>—</td>
+<td><img src="https://github.com/fluffypony.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fluffypony/dothething"><b>fluffypony/dothething</b></a><br><sub>an autonomous AI agent: you describe the thing, it does the thing.</sub></td>
+<td align="right"><b>871</b></td>
+<td align="right">139</td>
+<td>Shell</td>
 </tr>
 <tr>
 <td align="right">28</td>
-<td><img src="https://github.com/Raphasha27.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Raphasha27/Raphasha27"><b>Raphasha27/Raphasha27</b></a></td>
-<td align="right"><b>24</b></td>
-<td align="right">4</td>
-<td>Python</td>
+<td><img src="https://github.com/stevedonovan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stevedonovan/gentle-intro"><b>stevedonovan/gentle-intro</b></a><br><sub>A gentle Rust tutorial</sub></td>
+<td align="right"><b>849</b></td>
+<td align="right">112</td>
+<td>Rust</td>
 </tr>
 <tr>
 <td align="right">29</td>
-<td><img src="https://github.com/mikechiloane.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mikechiloane/invoice-generator"><b>mikechiloane/invoice-generator</b></a></td>
-<td align="right"><b>22</b></td>
-<td align="right">0</td>
-<td>Java</td>
+<td><img src="https://github.com/akserg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/akserg/ng2-dnd"><b>akserg/ng2-dnd</b></a><br><sub>Angular 2 Drag-and-Drop without dependencies</sub></td>
+<td align="right"><b>829</b></td>
+<td align="right">243</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">30</td>
-<td><img src="https://github.com/Uwami-Mgxekwa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Uwami-Mgxekwa/ScreenshotToCode"><b>Uwami-Mgxekwa/ScreenshotToCode</b></a></td>
-<td align="right"><b>17</b></td>
-<td align="right">1</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/InitRoot.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/InitRoot/BurpJSLinkFinder"><b>InitRoot/BurpJSLinkFinder</b></a><br><sub>Burp Extension for a passive scanning JS files for endpoint links.</sub></td>
+<td align="right"><b>818</b></td>
+<td align="right">111</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">31</td>
-<td><img src="https://github.com/bright-spark.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bright-spark/bolt.replit"><b>bright-spark/bolt.replit</b></a></td>
-<td align="right"><b>16</b></td>
-<td align="right">15</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/ubikron.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ubikron/Awesome-AI-OSINT"><b>ubikron/Awesome-AI-OSINT</b></a><br><sub>A list of articles, videos, and tools related to the use of AI for OSINT.</sub></td>
+<td align="right"><b>808</b></td>
+<td align="right">121</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">32</td>
-<td><img src="https://github.com/leonard1thecoder.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/leonard1thecoder/goTel"><b>leonard1thecoder/goTel</b></a></td>
-<td align="right"><b>14</b></td>
-<td align="right">0</td>
-<td>Java</td>
+<td><img src="https://github.com/micah5.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/micah5/PSone.css"><b>micah5/PSone.css</b></a><br><sub>🎮 PS1 style CSS Framework, inspired by NES.css</sub></td>
+<td align="right"><b>802</b></td>
+<td align="right">35</td>
+<td>CSS</td>
 </tr>
 <tr>
 <td align="right">33</td>
-<td><img src="https://github.com/lafras-h.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lafras-h/JavaPrintooth"><b>lafras-h/JavaPrintooth</b></a></td>
-<td align="right"><b>12</b></td>
-<td align="right">9</td>
-<td>Java</td>
+<td><img src="https://github.com/fluffypony.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fluffypony/yojam"><b>fluffypony/yojam</b></a><br><sub>open links on macOS in whatever browser, app, or profile you need - whatever yo jam is</sub></td>
+<td align="right"><b>797</b></td>
+<td align="right">409</td>
+<td>Swift</td>
 </tr>
 <tr>
 <td align="right">34</td>
-<td><img src="https://github.com/pjtfernandes.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pjtfernandes/PayUTestApp"><b>pjtfernandes/PayUTestApp</b></a></td>
-<td align="right"><b>12</b></td>
-<td align="right">6</td>
-<td>Java</td>
+<td><img src="https://github.com/micah5.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/micah5/ace-attorney-reddit-bot"><b>micah5/ace-attorney-reddit-bot</b></a><br><sub>👨🏼⚖️ reddit bot that turns comment chains into ace attorney scenes</sub></td>
+<td align="right"><b>770</b></td>
+<td align="right">56</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">35</td>
+<td><img src="https://github.com/laurenwaller.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/laurenwaller/cssco"><b>laurenwaller/cssco</b></a><br><sub>Photographic filters made with CSS, inspired by VSCO and CSSgram</sub></td>
+<td align="right"><b>763</b></td>
+<td align="right">29</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">36</td>
 <td><img src="https://github.com/CrispenGari.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CrispenGari/chatbot"><b>CrispenGari/chatbot</b></a></td>
 <td align="right"><b>11</b></td>
 <td align="right">2</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">36</td>
+<td align="right">37</td>
 <td><img src="https://github.com/dc9993.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dc9993/win-10-virtual-desktop-enhancer"><b>dc9993/win-10-virtual-desktop-enhancer</b></a></td>
 <td align="right"><b>11</b></td>
 <td align="right">2</td>
 <td>AutoHotkey</td>
 </tr>
 <tr>
-<td align="right">37</td>
+<td align="right">38</td>
 <td><img src="https://github.com/jordan-arenstein.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jordan-arenstein/oni-plugin-touchbar"><b>jordan-arenstein/oni-plugin-touchbar</b></a> <sub>archived</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">0</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">38</td>
+<td align="right">39</td>
 <td><img src="https://github.com/nophora.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nophora/Datasets"><b>nophora/Datasets</b></a></td>
 <td align="right"><b>10</b></td>
 <td align="right">0</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">39</td>
+<td align="right">40</td>
 <td><img src="https://github.com/karlie-moyo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/karlie-moyo/low_level_programming"><b>karlie-moyo/low&#95;level&#95;programming</b></a></td>
 <td align="right"><b>9</b></td>
 <td align="right">10</td>
 <td>C</td>
 </tr>
 <tr>
-<td align="right">40</td>
+<td align="right">41</td>
 <td><img src="https://github.com/NickiMash17.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NickiMash17/TodoListApp"><b>NickiMash17/TodoListApp</b></a></td>
 <td align="right"><b>8</b></td>
 <td align="right">1</td>
 <td>C#</td>
 </tr>
 <tr>
-<td align="right">41</td>
+<td align="right">42</td>
 <td><img src="https://github.com/lefajmofokeng.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lefajmofokeng/Maluti-College"><b>lefajmofokeng/Maluti-College</b></a></td>
 <td align="right"><b>8</b></td>
 <td align="right">0</td>
@@ -318,9 +325,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 8 stars; 41 attributed candidates are tracked.
-- 15 entries were carried over from the previous dataset and are pending revalidation.
-- 128 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 8 stars; 42 attributed candidates are tracked.
+- 7 entries were carried over from the previous dataset and are pending revalidation.
+- 125 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

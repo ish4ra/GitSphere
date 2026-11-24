@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"CG","name":"Republic of the Congo","slug":"republic-of-the-congo"},
-"count": 34,
+"count": 33,
 "repositories": [
-  {"name":"nathanbangwa243/learning-odoo-17","stars":18,"forks":16,"language":"Python","license":"MIT","archived":false,"createdAt":"2024-04-05T09:50:26Z","pushedAt":"2024-07-30T21:08:30Z","owner":{"login":"nathanbangwa243","type":"User","name":"NATHAN I.L. BANGWA","location":"Lubumbashi, Congo DR"},"attribution":{"code":"CG","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:56:52.250Z","id":"legacy:nathanbangwa243/learning-odoo-17","legacy":true},
   {"name":"glody007/agentic-memory-from-scratch","stars":5,"forks":2,"language":"TypeScript","archived":false,"createdAt":"2025-08-06T18:58:55Z","pushedAt":"2026-05-03T07:39:17Z","owner":{"login":"glody007","type":"User","name":"glody lubaba mbutwile","location":"Lubumbashi City in the Democratic Republic of the Congo"},"attribution":{"code":"CG","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:56:52.250Z","id":"legacy:glody007/agentic-memory-from-scratch","legacy":true},
   {"name":"BenCodeurr/login_buttons","stars":4,"forks":0,"language":"Dart","license":"MIT","archived":false,"createdAt":"2025-01-24T13:48:56Z","pushedAt":"2025-01-24T21:48:04Z","owner":{"login":"BenCodeurr","type":"User","name":"Ben Mukanirwa","location":"Bunia, Democratic Republic Of Congo"},"attribution":{"code":"CG","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:56:52.250Z","id":"legacy:bencodeurr/login_buttons","legacy":true},
   {"name":"didiamuri/vc-instagram-clone","stars":2,"forks":2,"language":"JavaScript","archived":false,"createdAt":"2021-11-08T15:46:58Z","pushedAt":"2021-12-05T02:19:58Z","owner":{"login":"didiamuri","type":"User","name":"Didierson AMURI","location":"Kinshasa, Congo DR"},"attribution":{"code":"CG","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:56:52.250Z","id":"legacy:didiamuri/vc-instagram-clone","legacy":true},

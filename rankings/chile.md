@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | :---: |
 | 🟠 Stale | **100** | 04 Nov 2026 | <a href="../data/CL.json">JSON</a> |
 
-> **Not yet re-verified.** 78 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 71 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -179,52 +179,52 @@
 </tr>
 <tr>
 <td align="right">23</td>
-<td><img src="https://github.com/NachoOFC.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NachoOFC/nachoOFC"><b>NachoOFC/nachoOFC</b></a></td>
-<td align="right"><b>31</b></td>
-<td align="right">0</td>
-<td>—</td>
+<td><img src="https://github.com/rvera.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rvera/image-picker"><b>rvera/image-picker</b></a><br><sub>Image Picker is a simple jQuery plugin that transforms a select element into a more user friendly graphical interface.</sub></td>
+<td align="right"><b>898</b></td>
+<td align="right">210</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">24</td>
-<td><img src="https://github.com/christianestay.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/christianestay/claude-code-base-project"><b>christianestay/claude-code-base-project</b></a></td>
-<td align="right"><b>23</b></td>
-<td align="right">5</td>
-<td>—</td>
+<td><img src="https://github.com/z411.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/z411/trackma"><b>z411/trackma</b></a><br><sub>Open multi-site list manager for Unix-like systems. (ex-wMAL)</sub></td>
+<td align="right"><b>888</b></td>
+<td align="right">93</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">25</td>
-<td><img src="https://github.com/javier-mora.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/javier-mora/pptx-to-html"><b>javier-mora/pptx-to-html</b></a></td>
-<td align="right"><b>15</b></td>
-<td align="right">9</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/asystat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/asystat/Final-Android-Resizer"><b>asystat/Final-Android-Resizer</b></a><br><sub>A simple yet powerful resizer for Android Image resources</sub></td>
+<td align="right"><b>858</b></td>
+<td align="right">304</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">26</td>
-<td><img src="https://github.com/frontendchile.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/frontendchile/javascript"><b>frontendchile/javascript</b></a></td>
-<td align="right"><b>14</b></td>
-<td align="right">6</td>
-<td>—</td>
+<td><img src="https://github.com/EFTEC.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EFTEC/BladeOne"><b>EFTEC/BladeOne</b></a><br><sub>The standalone version Blade Template Engine without Laravel in a single php file and without dependencies</sub></td>
+<td align="right"><b>831</b></td>
+<td align="right">125</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">27</td>
-<td><img src="https://github.com/clsource.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/clsource/lsdj-songs"><b>clsource/lsdj-songs</b></a></td>
-<td align="right"><b>14</b></td>
-<td align="right">1</td>
-<td>—</td>
+<td><img src="https://github.com/hollowstrawberry.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hollowstrawberry/kohya-colab"><b>hollowstrawberry/kohya-colab</b></a><br><sub>Accessible Google Colab notebooks for Stable Diffusion Lora training, based on the work of kohya-ss and Linaqruf</sub></td>
+<td align="right"><b>822</b></td>
+<td align="right">138</td>
+<td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">28</td>
-<td><img src="https://github.com/tyronejosee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tyronejosee/project_new_store"><b>tyronejosee/project&#95;new&#95;store</b></a></td>
-<td align="right"><b>12</b></td>
-<td align="right">3</td>
-<td>Python</td>
+<td><img src="https://github.com/jsgrrchg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jsgrrchg/NeverWrite"><b>jsgrrchg/NeverWrite</b></a><br><sub>Your ultimate agentic markdown workspace</sub></td>
+<td align="right"><b>801</b></td>
+<td align="right">75</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">29</td>
-<td><img src="https://github.com/Blandskron.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Blandskron/curso-hacking-etico-en-aplicativos-web"><b>Blandskron/curso-hacking-etico-en-aplicativos-web</b></a></td>
-<td align="right"><b>11</b></td>
-<td align="right">3</td>
-<td>Python</td>
+<td><img src="https://github.com/platanus.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/platanus/activeadmin_addons"><b>platanus/activeadmin&#95;addons</b></a><br><sub>Extends ActiveAdmin to enable a set of great optional UX improving add-ons</sub></td>
+<td align="right"><b>777</b></td>
+<td align="right">287</td>
+<td>Ruby</td>
 </tr>
 <tr>
 <td align="right">30</td>
@@ -732,8 +732,8 @@
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 1 stars; 129 attributed candidates are tracked.
-- 78 entries were carried over from the previous dataset and are pending revalidation.
-- 131 multi-repository owners are queued for expansion.
+- 71 entries were carried over from the previous dataset and are pending revalidation.
+- 130 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 113 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

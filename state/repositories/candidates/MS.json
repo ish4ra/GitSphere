@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"MS","name":"Montserrat","slug":"montserrat"},
-"count": 66,
+"count": 64,
 "repositories": [
-  {"name":"MagicStarTrace/xiaomi_cloud","stars":24,"forks":1,"language":"Python","archived":false,"createdAt":"2025-04-30T07:59:00Z","pushedAt":"2026-04-12T12:27:26Z","owner":{"login":"MagicStarTrace","type":"User","name":"Magic","location":"0008 ,Mayer Pike ,Port Lesaborough ,Arkansas ,Montserrat"},"attribution":{"code":"MS","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-03T20:10:46.005Z","id":"legacy:magicstartrace/xiaomi_cloud","legacy":true},
-  {"name":"MagicStarTrace/huawei_cloud","stars":14,"forks":1,"language":"Python","archived":false,"createdAt":"2026-02-13T10:53:41Z","pushedAt":"2026-02-26T08:44:00Z","owner":{"login":"MagicStarTrace","type":"User","name":"Magic","location":"0008 ,Mayer Pike ,Port Lesaborough ,Arkansas ,Montserrat"},"attribution":{"code":"MS","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-03T20:10:46.005Z","id":"legacy:magicstartrace/huawei_cloud","legacy":true},
   {"name":"Belkworks/tape","stars":10,"forks":0,"language":"TypeScript","archived":false,"createdAt":"2021-09-21T21:33:34Z","pushedAt":"2023-05-01T15:04:26Z","owner":{"login":"Belkworks","type":"Organization","name":"BELKER","location":"Montserrat"},"attribution":{"code":"MS","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-03T20:10:46.005Z","id":"legacy:belkworks/tape","legacy":true},
   {"name":"MagicStarTrace/ha_traccar","stars":9,"forks":3,"language":"Python","archived":false,"createdAt":"2025-07-27T12:04:46Z","pushedAt":"2025-07-27T12:05:31Z","owner":{"login":"MagicStarTrace","type":"User","name":"Magic","location":"0008 ,Mayer Pike ,Port Lesaborough ,Arkansas ,Montserrat"},"attribution":{"code":"MS","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-03T20:10:46.005Z","id":"legacy:magicstartrace/ha_traccar","legacy":true},
   {"name":"manishval/pearl","stars":8,"forks":3,"language":"Ruby","license":"MIT","archived":false,"createdAt":"2013-03-05T03:36:13Z","pushedAt":"2013-06-03T02:42:06Z","owner":{"login":"manishval","type":"User","location":"Montserrat"},"attribution":{"code":"MS","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-03T20:10:46.005Z","id":"legacy:manishval/pearl","legacy":true},

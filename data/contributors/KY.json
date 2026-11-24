@@ -5,7 +5,7 @@
 "country": {"code":"KY","name":"Cayman Islands","slug":"cayman-islands"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":285,"measuredAccounts":11,"measurementBacklog":274,"window":{"from":"2025-11-24T01:00:00Z","to":"2026-11-24T01:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":67,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":285,"measuredAccounts":13,"measurementBacklog":272,"window":{"from":"2025-11-24T01:00:00Z","to":"2026-11-24T01:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":67,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjQ4NjAzMTk0","login":"pjdurden","name":"Prajjwal Chittori","url":"https://github.com/pjdurden","avatarUrl":"https://avatars.githubusercontent.com/u/48603194?s=80&v=4","followers":146,"publicRepos":165,"location":"Cayman Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":1942,"commits":1588,"pullRequests":273,"reviews":0,"issues":6,"repositories":75,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":2,"id":"U_kgDOBmow8A","login":"0xpanicError","name":"Yash Saraswat","url":"https://github.com/0xpanicError","avatarUrl":"https://avatars.githubusercontent.com/u/107622640?s=80&v=4","followers":83,"publicRepos":38,"location":"Cayman Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":735,"commits":620,"pullRequests":75,"reviews":37,"issues":0,"repositories":3,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
@@ -16,8 +16,8 @@
   {"rank":7,"id":"U_kgDOCpW89Q","login":"0xaander","name":"Xander","url":"https://github.com/0xaander","avatarUrl":"https://avatars.githubusercontent.com/u/177585397?s=80&v=4","followers":4,"publicRepos":3,"location":"Cayman Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":15,"commits":12,"pullRequests":1,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":8,"id":"MDQ6VXNlcjUyNDk1Nzk4","login":"345dave","name":"David Clark","url":"https://github.com/345dave","avatarUrl":"https://avatars.githubusercontent.com/u/52495798?s=80&v=4","followers":0,"publicRepos":2,"location":"Cayman Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":6,"commits":3,"pullRequests":0,"reviews":0,"issues":1,"repositories":2,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "4724f71db889f52c",
-"updatedAt": "2026-11-24T01:31:49.018Z",
+"contentHash": "2ec5c2fa26ebb8e2",
+"updatedAt": "2026-11-24T11:36:56.631Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T01:31:49.018Z"
+"generatedAt": "2026-11-24T11:36:56.631Z"
 }

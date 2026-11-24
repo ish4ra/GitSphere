@@ -5,18 +5,21 @@
 "country": {"code":"PS","name":"Palestine","slug":"palestine"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":7,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":141,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":10,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":141,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjgwMzg2NTk=","login":"shadeed","name":"Ahmad Shadeed","url":"https://github.com/shadeed","avatarUrl":"https://avatars.githubusercontent.com/u/8038659?s=80&v=4","followers":1857,"publicRepos":24,"location":"Tulkarm, Palestine","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjY1MTUxNzAx","login":"sondosaabed","name":"Sondos Ahmad Aabed","url":"https://github.com/sondosaabed","avatarUrl":"https://avatars.githubusercontent.com/u/65151701?s=80&v=4","followers":819,"publicRepos":127,"location":"Code for Palestine, Al-Bireh","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":3,"id":"U_kgDOCcETMg","login":"heba-mustafa59","name":"Heba Jalil ☆","url":"https://github.com/heba-mustafa59","avatarUrl":"https://avatars.githubusercontent.com/u/163648306?s=80&v=4","followers":645,"publicRepos":59,"location":"𝐒𝐚𝐥𝐟𝐢𝐭_𝐏𝐚𝐥𝐞𝐬𝐭𝐢𝐧𝐞","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":4,"id":"MDQ6VXNlcjMwMTcwNw==","login":"msafadi","name":"Mohammed Safadi","url":"https://github.com/msafadi","avatarUrl":"https://avatars.githubusercontent.com/u/301707?s=80&v=4","followers":494,"publicRepos":43,"location":"Gaza, Palestine","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":5,"id":"U_kgDOC2ZbDQ","login":"sunnyfoggy","name":"Sunny","url":"https://github.com/sunnyfoggy","avatarUrl":"https://avatars.githubusercontent.com/u/191257357?s=80&v=4","followers":480,"publicRepos":2,"location":"Free Palestine. 🇵🇸 ⠀⠀ ⠀⠀I'm not always at the same location but usually at usmp area or wherever my friends are","attribution":{"confidence":"high","evidence":"flag-emoji"},"verifiedOn":"2026-11-23"},
-  {"rank":6,"id":"U_kgDOBcBaCQ","login":"11abed","name":"GOLDEN ROCK GROUP","url":"https://github.com/11abed","avatarUrl":"https://avatars.githubusercontent.com/u/96492041?s=80&v=4","followers":0,"publicRepos":27,"location":"Palestine","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
-  {"rank":7,"id":"U_kgDOEYq8Hg","login":"1242890-pixel","name":"ahmed idkadiek","url":"https://github.com/1242890-pixel","avatarUrl":"https://avatars.githubusercontent.com/u/294304798?s=80&v=4","followers":0,"publicRepos":9,"location":"palestine","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
+  {"rank":6,"id":"MDQ6VXNlcjU5ODI4MDgy","login":"izadoesdev","name":"iza","url":"https://github.com/izadoesdev","avatarUrl":"https://avatars.githubusercontent.com/u/59828082?s=80&v=4","followers":273,"publicRepos":62,"location":"Palestine","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":7,"id":"U_kgDOCzWOiQ","login":"Hadi-Badran","name":"Hadi Badran","url":"https://github.com/Hadi-Badran","avatarUrl":"https://avatars.githubusercontent.com/u/188059273?s=80&v=4","followers":273,"publicRepos":11,"location":"Palestine-Tulkarm","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":8,"id":"MDQ6VXNlcjM2NzA4MTA=","login":"skmail","name":null,"url":"https://github.com/skmail","avatarUrl":"https://avatars.githubusercontent.com/u/3670810?s=80&v=4","followers":107,"location":"Palestine","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":9,"id":"U_kgDOBcBaCQ","login":"11abed","name":"GOLDEN ROCK GROUP","url":"https://github.com/11abed","avatarUrl":"https://avatars.githubusercontent.com/u/96492041?s=80&v=4","followers":0,"publicRepos":27,"location":"Palestine","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":10,"id":"U_kgDOEYq8Hg","login":"1242890-pixel","name":"ahmed idkadiek","url":"https://github.com/1242890-pixel","avatarUrl":"https://avatars.githubusercontent.com/u/294304798?s=80&v=4","followers":0,"publicRepos":9,"location":"palestine","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "f9b20e575af11aae",
-"updatedAt": "2026-11-24T01:31:49.018Z",
+"contentHash": "e8ddbae3dbeef1cc",
+"updatedAt": "2026-11-24T11:36:56.631Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T01:31:49.018Z"
+"generatedAt": "2026-11-24T11:36:56.631Z"
 }

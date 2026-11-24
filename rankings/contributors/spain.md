@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/ES.json">JSON</a> |
+| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/ES.json">JSON</a> |
 
 </div>
 
@@ -34,7 +34,7 @@
 </tr>
 <tr>
 <td align="right">2</td>
-<td><a href="https://github.com/Kikobeats"><img src="https://avatars.githubusercontent.com/u/2096101?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kikobeats"><b>Jose Francisco &#39;Kiko&#39; Verdú Gambín</b></a><br><sub>&#64;Kikobeats · 1,751 followers</sub></td>
+<td><a href="https://github.com/Kikobeats"><img src="https://avatars.githubusercontent.com/u/2096101?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kikobeats"><b>Jose Francisco &#39;Kiko&#39; Verdú Gambín</b></a><br><sub>&#64;Kikobeats · 1,749 followers</sub></td>
 <td align="right"><b>7,310</b></td>
 <td align="right">5,648</td>
 <td align="right">1,606</td>
@@ -70,6 +70,15 @@
 </tr>
 <tr>
 <td align="right">6</td>
+<td><a href="https://github.com/userquin"><img src="https://avatars.githubusercontent.com/u/6311119?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/userquin"><b>Joaquín Sánchez</b></a><br><sub>&#64;userquin · 575 followers</sub></td>
+<td align="right"><b>1,448</b></td>
+<td align="right">808</td>
+<td align="right">367</td>
+<td align="right">203</td>
+<td align="right">51</td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/NghiaTranUIT"><img src="https://avatars.githubusercontent.com/u/5878421?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NghiaTranUIT"><b>Noah Tran</b></a><br><sub>&#64;NghiaTranUIT · 1,544 followers</sub></td>
 <td align="right"><b>1,198</b></td>
 <td align="right">835</td>
@@ -78,7 +87,16 @@
 <td align="right">197</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
+<td><a href="https://github.com/mattvenn"><img src="https://avatars.githubusercontent.com/u/634220?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mattvenn"><b>Matt Venn</b></a><br><sub>&#64;mattvenn · 777 followers</sub></td>
+<td align="right"><b>887</b></td>
+<td align="right">791</td>
+<td align="right">18</td>
+<td align="right">15</td>
+<td align="right">31</td>
+</tr>
+<tr>
+<td align="right">9</td>
 <td><a href="https://github.com/ajsb85"><img src="https://avatars.githubusercontent.com/u/663460?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ajsb85"><b>Alexander Salas Bastidas</b></a><br><sub>&#64;ajsb85 · 1,230 followers</sub></td>
 <td align="right"><b>680</b></td>
 <td align="right">659</td>
@@ -93,7 +111,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 7 of 888 discovered developers (881 awaiting measurement).
+- **Measured:** 9 of 983 discovered developers (974 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 125 in round 1.

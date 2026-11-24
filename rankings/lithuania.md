@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **39** | 01 Nov 2026 | <a href="../data/LT.json">JSON</a> |
-
-> **Not yet re-verified.** 12 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **30** | 22 Nov 2026 | <a href="../data/LT.json">JSON</a> |
 
 </div>
 
@@ -214,87 +212,24 @@
 </tr>
 <tr>
 <td align="right">28</td>
-<td><img src="https://github.com/Gillmog.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Gillmog/spriterGM"><b>Gillmog/spriterGM</b></a></td>
-<td align="right"><b>29</b></td>
-<td align="right">7</td>
-<td>C++</td>
-</tr>
-<tr>
-<td align="right">29</td>
-<td><img src="https://github.com/irenemmassy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/irenemmassy/send-email-using-nodejs"><b>irenemmassy/send-email-using-nodejs</b></a></td>
-<td align="right"><b>28</b></td>
-<td align="right">6</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">30</td>
-<td><img src="https://github.com/mjudeikis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mjudeikis/redis-openshift"><b>mjudeikis/redis-openshift</b></a></td>
-<td align="right"><b>27</b></td>
-<td align="right">61</td>
-<td>Shell</td>
-</tr>
-<tr>
-<td align="right">31</td>
-<td><img src="https://github.com/GiedriusS.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/GiedriusS/TwitchNotifier"><b>GiedriusS/TwitchNotifier</b></a></td>
-<td align="right"><b>27</b></td>
-<td align="right">4</td>
+<td><img src="https://github.com/mgedmin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mgedmin/objgraph"><b>mgedmin/objgraph</b></a><br><sub>Visually explore Python object graphs</sub></td>
+<td align="right"><b>840</b></td>
+<td align="right">73</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">32</td>
-<td><img src="https://github.com/ton31337.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ton31337/tools"><b>ton31337/tools</b></a></td>
-<td align="right"><b>26</b></td>
-<td align="right">3</td>
-<td>C</td>
+<td align="right">29</td>
+<td><img src="https://github.com/boxbilling.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/boxbilling/boxbilling"><b>boxbilling/boxbilling</b></a> <sub>archived</sub><br><sub>BoxBilling - Open source billing and client management software</sub></td>
+<td align="right"><b>834</b></td>
+<td align="right">368</td>
+<td>PHP</td>
 </tr>
 <tr>
-<td align="right">33</td>
-<td><img src="https://github.com/defoebrand.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/defoebrand/Alien-Invasion"><b>defoebrand/Alien-Invasion</b></a></td>
-<td align="right"><b>22</b></td>
-<td align="right">1</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">34</td>
-<td><img src="https://github.com/kiprasmel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kiprasmel/git-stacked-rebase"><b>kiprasmel/git-stacked-rebase</b></a></td>
-<td align="right"><b>19</b></td>
-<td align="right">0</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">35</td>
-<td><img src="https://github.com/arukompas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arukompas/better-log-viewer"><b>arukompas/better-log-viewer</b></a> <sub>archived</sub></td>
-<td align="right"><b>16</b></td>
-<td align="right">2</td>
-<td>Vue</td>
-</tr>
-<tr>
-<td align="right">36</td>
-<td><img src="https://github.com/giedriusStan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/giedriusStan/argos-mpris"><b>giedriusStan/argos-mpris</b></a></td>
-<td align="right"><b>15</b></td>
-<td align="right">7</td>
-<td>Shell</td>
-</tr>
-<tr>
-<td align="right">37</td>
-<td><img src="https://github.com/elijusgust.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/elijusgust/irb-drawing-interface"><b>elijusgust/irb-drawing-interface</b></a></td>
-<td align="right"><b>14</b></td>
-<td align="right">2</td>
-<td>C#</td>
-</tr>
-<tr>
-<td align="right">38</td>
-<td><img src="https://github.com/keith-hall.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/keith-hall/reactive-animation"><b>keith-hall/reactive-animation</b></a></td>
-<td align="right"><b>14</b></td>
-<td align="right">1</td>
-<td>C#</td>
-</tr>
-<tr>
-<td align="right">39</td>
-<td><img src="https://github.com/sunfit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sunfit/jest-summary-reporter"><b>sunfit/jest-summary-reporter</b></a></td>
-<td align="right"><b>12</b></td>
-<td align="right">6</td>
-<td>JavaScript</td>
+<td align="right">30</td>
+<td><img src="https://github.com/vkuznecovas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vkuznecovas/mouthful"><b>vkuznecovas/mouthful</b></a><br><sub>Mouthful is a self-hosted alternative to Disqus</sub></td>
+<td align="right"><b>777</b></td>
+<td align="right">41</td>
+<td>Go</td>
 </tr>
 </tbody>
 </table>
@@ -302,11 +237,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 12 stars; 39 attributed candidates are tracked.
-- 12 entries were carried over from the previous dataset and are pending revalidation.
-- 126 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 777 stars; 30 attributed candidates are tracked.
+- 123 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 135 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

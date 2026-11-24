@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **67** | 01 Nov 2026 | <a href="../data/HU.json">JSON</a> |
+| 🟠 Stale | **75** | 01 Nov 2026 | <a href="../data/HU.json">JSON</a> |
 
-> **Not yet re-verified.** 7 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 1 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -445,48 +445,104 @@
 </tr>
 <tr>
 <td align="right">61</td>
-<td><img src="https://github.com/KindsonTheGenius.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KindsonTheGenius/fleetms-v2"><b>KindsonTheGenius/fleetms-v2</b></a></td>
-<td align="right"><b>30</b></td>
-<td align="right">35</td>
-<td>HTML</td>
-</tr>
-<tr>
-<td align="right">62</td>
-<td><img src="https://github.com/kisvegabor.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kisvegabor/misc"><b>kisvegabor/misc</b></a></td>
-<td align="right"><b>26</b></td>
-<td align="right">14</td>
-<td>C</td>
-</tr>
-<tr>
-<td align="right">63</td>
-<td><img src="https://github.com/jpacsai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jpacsai/LearningPath"><b>jpacsai/LearningPath</b></a></td>
-<td align="right"><b>23</b></td>
-<td align="right">6</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">64</td>
-<td><img src="https://github.com/conan513.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/conan513/spp-legion-patch"><b>conan513/spp-legion-patch</b></a></td>
-<td align="right"><b>21</b></td>
-<td align="right">30</td>
-<td>TSQL</td>
-</tr>
-<tr>
-<td align="right">65</td>
-<td><img src="https://github.com/NoNameProvided.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NoNameProvided/cordova-plugin-webview-checker"><b>NoNameProvided/cordova-plugin-webview-checker</b></a></td>
-<td align="right"><b>16</b></td>
-<td align="right">9</td>
+<td><img src="https://github.com/everit-org.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/everit-org/json-schema"><b>everit-org/json-schema</b></a><br><sub>JSON Schema validator for java, based on the org.json API</sub></td>
+<td align="right"><b>896</b></td>
+<td align="right">278</td>
 <td>Java</td>
 </tr>
 <tr>
+<td align="right">62</td>
+<td><img src="https://github.com/akarnokd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/akarnokd/RxJavaInterop"><b>akarnokd/RxJavaInterop</b></a><br><sub>Library to convert between RxJava 1.x and 2.x/3.x reactive types, schedulers and resource handles.</sub></td>
+<td align="right"><b>858</b></td>
+<td align="right">57</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/rdbende.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rdbende/Azure-ttk-theme"><b>rdbende/Azure-ttk-theme</b></a><br><sub>A stunning modern theme for ttk inspired by Fluent Design 💠</sub></td>
+<td align="right"><b>852</b></td>
+<td align="right">142</td>
+<td>Tcl</td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><img src="https://github.com/xobotyi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xobotyi/react-scrollbars-custom"><b>xobotyi/react-scrollbars-custom</b></a> <sub>archived</sub><br><sub>The best React custom scrollbars component</sub></td>
+<td align="right"><b>852</b></td>
+<td align="right">72</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><img src="https://github.com/theevilbit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/theevilbit/injection"><b>theevilbit/injection</b></a></td>
+<td align="right"><b>830</b></td>
+<td align="right">200</td>
+<td>C++</td>
+</tr>
+<tr>
 <td align="right">66</td>
-<td><img src="https://github.com/gozmozdony.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gozmozdony/twitchSmartTV"><b>gozmozdony/twitchSmartTV</b></a></td>
-<td align="right"><b>12</b></td>
-<td align="right">1</td>
-<td>Vue</td>
+<td><img src="https://github.com/hidasib.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hidasib/GRU4Rec"><b>hidasib/GRU4Rec</b></a><br><sub>GRU4Rec is the original Theano implementation of the algorithm in &quot;Session-based Recommendations with Recurrent Neural…</sub></td>
+<td align="right"><b>818</b></td>
+<td align="right">227</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">67</td>
+<td><img src="https://github.com/patrikx3.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/patrikx3/redis-ui"><b>patrikx3/redis-ui</b></a><br><sub>📡 P3X Redis UI: A highly functional and convenient database GUI that fits in your pocket, accessible on both responsiv…</sub></td>
+<td align="right"><b>810</b></td>
+<td align="right">75</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><img src="https://github.com/gulyasm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gulyasm/jsonui"><b>gulyasm/jsonui</b></a> <sub>archived</sub><br><sub>jsonui is an interactive JSON explorer on your command line</sub></td>
+<td align="right"><b>805</b></td>
+<td align="right">39</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><img src="https://github.com/Hexworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Hexworks/zircon"><b>Hexworks/zircon</b></a><br><sub>Zircon is an extensible and user-friendly, multiplatform tile engine.</sub></td>
+<td align="right"><b>797</b></td>
+<td align="right">134</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/banzaicloud.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/banzaicloud/koperator"><b>banzaicloud/koperator</b></a> <sub>archived</sub><br><sub>Oh no! Yet another Apache Kafka operator for Kubernetes</sub></td>
+<td align="right"><b>787</b></td>
+<td align="right">197</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/raszi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/raszi/node-tmp"><b>raszi/node-tmp</b></a><br><sub>Temporary file and directory creator for node.js</sub></td>
+<td align="right"><b>775</b></td>
+<td align="right">105</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><img src="https://github.com/UltimateHackingKeyboard.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/UltimateHackingKeyboard/agent"><b>UltimateHackingKeyboard/agent</b></a><br><sub>Ultimate Hacking Keyboard configurator</sub></td>
+<td align="right"><b>775</b></td>
+<td align="right">99</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><img src="https://github.com/asciimoo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/asciimoo/cssplot"><b>asciimoo/cssplot</b></a><br><sub>Pure CSS charts</sub></td>
+<td align="right"><b>774</b></td>
+<td align="right">44</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/omnetpp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/omnetpp/omnetpp"><b>omnetpp/omnetpp</b></a><br><sub>OMNeT++ Discrete Event Simulator</sub></td>
+<td align="right"><b>770</b></td>
+<td align="right">179</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">75</td>
 <td><img src="https://github.com/ferencb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ferencb/jqlistbox"><b>ferencb/jqlistbox</b></a></td>
 <td align="right"><b>9</b></td>
 <td align="right">7</td>
@@ -500,9 +556,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 9 stars; 67 attributed candidates are tracked.
-- 7 entries were carried over from the previous dataset and are pending revalidation.
-- 123 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 9 stars; 75 attributed candidates are tracked.
+- 1 entries were carried over from the previous dataset and are pending revalidation.
+- 122 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 153 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

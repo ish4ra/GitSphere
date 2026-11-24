@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/developers/AL.json">JSON</a> |
+| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/developers/AL.json">JSON</a> |
 
 </div>
 
@@ -86,17 +86,38 @@
 </tr>
 <tr>
 <td align="right">10</td>
+<td><a href="https://github.com/12florinda"><img src="https://avatars.githubusercontent.com/u/142095500?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/12florinda"><b>12florinda</b></a><br><sub>&#64;12florinda</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">5</td>
+<td><sub>Tirane Albania</sub></td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/554960"><img src="https://avatars.githubusercontent.com/u/252391242?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/554960"><b>sharey</b></a><br><sub>&#64;554960</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">7</td>
+<td><sub>Albania</sub></td>
+</tr>
+<tr>
+<td align="right">12</td>
 <td><a href="https://github.com/0xdbh"><img src="https://avatars.githubusercontent.com/u/192295831?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xdbh"><b>iDev77</b></a><br><sub>&#64;0xdbh</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Vlorë, Albania</sub></td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">13</td>
 <td><a href="https://github.com/0xermis"><img src="https://avatars.githubusercontent.com/u/58916563?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xermis"><b>Ermis Braka</b></a><br><sub>&#64;0xermis</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Tirana, Albania</sub></td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><a href="https://github.com/1klajdipriska"><img src="https://avatars.githubusercontent.com/u/47832393?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/1klajdipriska"><b>Klajdi Priska</b></a><br><sub>&#64;1klajdipriska</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Albania</sub></td>
 </tr>
 </tbody>
 </table>
@@ -106,7 +127,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 11 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 14 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 141 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

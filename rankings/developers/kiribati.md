@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/Lambdius"><img src="https://avatars.githubusercontent.com/u/108626255?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lambdius"><b>Daniil</b></a><br><sub>&#64;Lambdius</sub></td>
-<td align="right"><b>29</b></td>
+<td align="right"><b>30</b></td>
 <td align="right">7</td>
 <td><sub>Kiribati</sub></td>
 </tr>

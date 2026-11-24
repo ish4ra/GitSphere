@@ -195,7 +195,7 @@
 - **Cutoff:** the last listed repository has 0 stars; 23 attributed candidates are tracked.
 - 23 entries were carried over from the previous dataset and are pending revalidation.
 - 23 multi-repository owners are queued for expansion.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 3 of 10 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"UM","name":"U.S. Outlying Islands","slug":"u-s-outlying-islands"},
-"count": 8,
+"count": 7,
 "repositories": [
-  {"name":"realjarvis69/NintenDeck","stars":21,"forks":0,"language":"Python","archived":false,"createdAt":"2026-04-28T17:27:18Z","pushedAt":"2026-09-08T18:09:14Z","owner":{"login":"realjarvis69","type":"User","name":"real_jarvis","location":"Jarvis Island"},"attribution":{"code":"UM","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-27T22:21:43.553Z","id":"legacy:realjarvis69/nintendeck","legacy":true},
   {"name":"BakingLiberteZ/tui_tools","stars":4,"forks":0,"language":"Python","license":"MIT","archived":false,"createdAt":"2026-01-20T21:14:02Z","pushedAt":"2026-04-13T07:19:07Z","owner":{"login":"BakingLiberteZ","type":"User","name":"LibertéZ Baker","location":"Baker Island"},"attribution":{"code":"UM","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-27T22:21:43.553Z","id":"legacy:bakinglibertez/tui_tools","legacy":true},
   {"name":"mijail73/Introduccion-al-Desarrollo-de-Programas-con-Java","stars":2,"forks":0,"language":"Java","archived":false,"createdAt":"2017-04-16T18:18:46Z","pushedAt":"2017-11-28T05:35:55Z","owner":{"login":"mijail73","type":"User","name":"Mijail","location":"Wake Island"},"attribution":{"code":"UM","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-27T22:21:43.553Z","id":"legacy:mijail73/introduccion-al-desarrollo-de-programas-con-java","legacy":true},
   {"name":"OgJAkFy8/Mad-Libs","stars":1,"forks":1,"language":"Python","archived":false,"createdAt":"2017-09-15T11:13:33Z","pushedAt":"2025-06-20T11:02:27Z","owner":{"login":"OgJAkFy8","type":"User","name":"Erik JA","location":"Navassa Island"},"attribution":{"code":"UM","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-27T22:21:43.553Z","id":"legacy:ogjakfy8/mad-libs","legacy":true},

@@ -5,7 +5,7 @@
 "country": {"code":"IE","name":"Ireland","slug":"ireland"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":1346,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":128,"candidates":142,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":135,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":1346,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":128,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":135,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk0NDg4MjIwMQ==","name":"awesome-for-beginners","nameWithOwner":"MunGell/awesome-for-beginners","url":"https://github.com/MunGell/awesome-for-beginners","description":"A list of awesome beginners-friendly projects.","stars":91664,"forks":8070,"primaryLanguage":null,"license":null,"createdAt":"2015-10-24T19:53:36Z","pushedAt":"2026-10-01T14:58:51Z","archived":false,"owner":{"login":"MunGell","name":"Shmavon Gazanchyan","type":"User","url":"https://github.com/MunGell","location":"Ireland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"R_kgDOSIqPOQ","name":"freellmapi","nameWithOwner":"tashfeenahmed/freellmapi","url":"https://github.com/tashfeenahmed/freellmapi","description":"10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smar…","stars":56403,"forks":8048,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2026-04-21T13:38:59Z","pushedAt":"2026-11-22T01:02:03Z","archived":false,"owner":{"login":"tashfeenahmed","name":"Tashfeen","type":"User","url":"https://github.com/tashfeenahmed","location":"Dublin","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"MDEwOlJlcG9zaXRvcnkzMTE3MzA4MzM=","name":"Waterways","nameWithOwner":"Arnklit/Waterways","url":"https://github.com/Arnklit/Waterways","description":"A tool to generate river meshes with flow and foam maps based on bezier curves.","stars":1355,"forks":94,"primaryLanguage":"GDScript","license":{"spdxId":"MIT"},"createdAt":"2020-11-10T17:11:11Z","pushedAt":"2025-12-17T03:14:45Z","archived":false,"owner":{"login":"Arnklit","name":"Kasper Arnklit Frandsen","type":"User","url":"https://github.com/Arnklit","location":"Ireland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-23"},
   {"rank":100,"id":"R_kgDOHOqJIA","name":"puppeteer-heap-snapshot","nameWithOwner":"adriancooney/puppeteer-heap-snapshot","url":"https://github.com/adriancooney/puppeteer-heap-snapshot","description":"API and CLI tool to fetch and query Chome DevTools heap snapshots.","stars":1346,"forks":65,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2022-04-24T20:27:16Z","pushedAt":"2023-07-18T08:03:55Z","archived":false,"owner":{"login":"adriancooney","name":"Adrian Cooney","type":"User","url":"https://github.com/adriancooney","location":"Ireland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "b0559430ec7b0dfc",
-"updatedAt": "2026-11-24T01:31:49.018Z",
+"contentHash": "4128b340953e84ac",
+"updatedAt": "2026-11-24T11:36:56.631Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T01:31:49.018Z"
+"generatedAt": "2026-11-24T11:36:56.631Z"
 }

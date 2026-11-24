@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"VU","name":"Vanuatu","slug":"vanuatu"},
-"count": 56,
+"count": 55,
 "repositories": [
-  {"name":"alfnitacoder/FB-AutoPasswordGen-Brutforce","stars":31,"forks":13,"language":"Python","archived":false,"createdAt":"2020-01-29T07:57:53Z","pushedAt":"2025-10-07T01:06:20Z","owner":{"login":"alfnitacoder","type":"User","name":"AlffieGeorge","location":"Port Vila"},"attribution":{"code":"VU","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-27T22:24:24.660Z","id":"legacy:alfnitacoder/fb-autopasswordgen-brutforce","legacy":true},
   {"name":"fayrlight/huawei_bootloader_phone_reversal_bruter","stars":4,"forks":0,"language":"Python","archived":false,"createdAt":"2021-05-22T17:39:36Z","pushedAt":"2021-05-22T17:42:48Z","owner":{"login":"fayrlight","type":"User","name":"fairlight of wyvern","location":"Vanuatu"},"attribution":{"code":"VU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-27T22:24:24.660Z","id":"legacy:fayrlight/huawei_bootloader_phone_reversal_bruter","legacy":true},
   {"name":"Vanuatu-National-Statistics-Office/climate-change-natural-disasters","stars":3,"forks":1,"language":"Jupyter Notebook","license":"CC-BY-4.0","archived":false,"createdAt":"2024-10-10T05:52:30Z","pushedAt":"2026-02-09T22:23:18Z","owner":{"login":"Vanuatu-National-Statistics-Office","type":"Organization","name":"Vanuatu Bureau of Statistics","location":"Vanuatu"},"attribution":{"code":"VU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-27T22:24:24.660Z","id":"legacy:vanuatu-national-statistics-office/climate-change-natural-disasters","legacy":true},
   {"name":"worthlesspixels/smart_swap","stars":3,"forks":1,"language":"TypeScript","archived":false,"createdAt":"2023-02-21T15:23:13Z","pushedAt":"2023-02-21T15:44:57Z","owner":{"login":"worthlesspixels","type":"Organization","name":"worthless pixels","location":"Vanuatu"},"attribution":{"code":"VU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-27T22:24:24.660Z","id":"legacy:worthlesspixels/smart_swap","legacy":true},

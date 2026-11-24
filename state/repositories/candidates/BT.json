@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"BT","name":"Bhutan","slug":"bhutan"},
-"count": 147,
+"count": 145,
 "repositories": [
-  {"name":"jigmeloday/chatWithPDF","stars":22,"forks":0,"language":"TypeScript","archived":false,"createdAt":"2022-10-02T05:26:52Z","pushedAt":"2024-09-30T06:08:52Z","owner":{"login":"jigmeloday","type":"User","name":"Jigme Lodey","location":"Thimphu Bhutan"},"attribution":{"code":"BT","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T06:40:19.431Z","id":"legacy:jigmeloday/chatwithpdf","legacy":true},
-  {"name":"yesheytenzin/live-wallpaper","stars":16,"forks":0,"language":"Shell","license":"MIT","archived":false,"createdAt":"2026-08-19T12:07:16Z","pushedAt":"2026-09-03T05:05:02Z","owner":{"login":"yesheytenzin","type":"User","name":"tenz","location":"Thimphu, Bhutan"},"attribution":{"code":"BT","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T06:40:19.431Z","id":"legacy:yesheytenzin/live-wallpaper","legacy":true},
   {"name":"cybertronbaka/loki","stars":9,"forks":0,"language":"Dart","license":"MIT","archived":false,"createdAt":"2023-10-23T05:16:57Z","pushedAt":"2023-11-03T18:28:44Z","owner":{"login":"cybertronbaka","type":"User","name":"Dorji Gyeltshen","location":"Thimphu, Bhutan"},"attribution":{"code":"BT","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T06:40:19.431Z","id":"legacy:cybertronbaka/loki","legacy":true},
   {"name":"devdgna/didcomm-mediator-artillery","stars":9,"forks":0,"language":"JavaScript","archived":false,"createdAt":"2025-07-10T06:28:02Z","pushedAt":"2025-11-18T03:23:36Z","owner":{"login":"devdgna","type":"User","name":"Dev","location":"Kingdom of Bhutan"},"attribution":{"code":"BT","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T06:40:19.431Z","id":"legacy:devdgna/didcomm-mediator-artillery","legacy":true},
   {"name":"kashgurung/drukyul-themes","stars":8,"forks":0,"license":"MIT","archived":false,"createdAt":"2023-10-04T10:57:27Z","pushedAt":"2025-12-06T21:21:12Z","owner":{"login":"kashgurung","type":"User","name":"Bikash Gurung","location":"Thimphu Bhutan"},"attribution":{"code":"BT","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T06:40:19.431Z","id":"legacy:kashgurung/drukyul-themes","legacy":true},

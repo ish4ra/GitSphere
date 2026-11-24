@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/GR.json">JSON</a> |
+| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/GR.json">JSON</a> |
 
 </div>
 
@@ -25,7 +25,7 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><a href="https://github.com/gakonst"><img src="https://avatars.githubusercontent.com/u/17802178?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gakonst"><b>Georgios Konstantopoulos</b></a><br><sub>&#64;gakonst · 5,691 followers</sub></td>
+<td><a href="https://github.com/gakonst"><img src="https://avatars.githubusercontent.com/u/17802178?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gakonst"><b>Georgios Konstantopoulos</b></a><br><sub>&#64;gakonst · 5,692 followers</sub></td>
 <td align="right"><b>15,794</b></td>
 <td align="right">12,283</td>
 <td align="right">3,231</td>
@@ -52,6 +52,15 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/annakrystalli"><img src="https://avatars.githubusercontent.com/u/5583057?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/annakrystalli"><b>Anna Krystalli</b></a><br><sub>&#64;annakrystalli · 295 followers</sub></td>
+<td align="right"><b>2,343</b></td>
+<td align="right">1,477</td>
+<td align="right">346</td>
+<td align="right">142</td>
+<td align="right">368</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/skorokithakis"><img src="https://avatars.githubusercontent.com/u/23648?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/skorokithakis"><b>Stavros Korokithakis</b></a><br><sub>&#64;skorokithakis · 946 followers</sub></td>
 <td align="right"><b>2,054</b></td>
 <td align="right">1,847</td>
@@ -60,7 +69,7 @@
 <td align="right">41</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/berkus"><img src="https://avatars.githubusercontent.com/u/80306?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/berkus"><b>Berkus Decker</b></a><br><sub>&#64;berkus · 294 followers</sub></td>
 <td align="right"><b>712</b></td>
 <td align="right">593</td>
@@ -69,7 +78,7 @@
 <td align="right">38</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/EleftheriaBatsou"><img src="https://avatars.githubusercontent.com/u/17240273?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EleftheriaBatsou"><b>Eleftheria Batsou</b></a><br><sub>&#64;EleftheriaBatsou · 808 followers</sub></td>
 <td align="right"><b>109</b></td>
 <td align="right">53</td>
@@ -78,13 +87,22 @@
 <td align="right">3</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/stjordanis"><img src="https://avatars.githubusercontent.com/u/4212985?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stjordanis"><b>STYLIANOS IORDANIS</b></a><br><sub>&#64;stjordanis · 327 followers</sub></td>
 <td align="right"><b>102</b></td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">1</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/admariner"><img src="https://avatars.githubusercontent.com/u/8210250?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/admariner"><b>Periklis Papanikolaou</b></a><br><sub>&#64;admariner · 260 followers</sub></td>
+<td align="right"><b>56</b></td>
+<td align="right">3</td>
+<td align="right">2</td>
+<td align="right">1</td>
+<td align="right">0</td>
 </tr>
 </tbody>
 </table>
@@ -93,7 +111,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 9 of 445 discovered developers (436 awaiting measurement).
+- **Measured:** 11 of 461 discovered developers (450 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 149 in round 1.

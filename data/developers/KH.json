@@ -5,7 +5,7 @@
 "country": {"code":"KH","name":"Cambodia","slug":"cambodia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":13,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":174,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":15,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":174,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjU4MjQ1OTI2","login":"DJ-Raven","name":"Raven Laing","url":"https://github.com/DJ-Raven","avatarUrl":"https://avatars.githubusercontent.com/u/58245926?s=80&v=4","followers":1208,"publicRepos":178,"location":"Cambodia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjUyMjMyNTc5","login":"Chensokheng","name":"Chensokheng","url":"https://github.com/Chensokheng","avatarUrl":"https://avatars.githubusercontent.com/u/52232579?s=80&v=4","followers":967,"publicRepos":129,"location":"Cambodia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
@@ -16,13 +16,15 @@
   {"rank":7,"id":"MDQ6VXNlcjQ1Mzk2NTM=","login":"invisal","name":"Visal .In","url":"https://github.com/invisal","avatarUrl":"https://avatars.githubusercontent.com/u/4539653?s=80&v=4","followers":374,"publicRepos":53,"location":"Cambodia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":8,"id":"MDQ6VXNlcjg3NDAzMzYz","login":"Parameow3","name":"Tan Bunchhay","url":"https://github.com/Parameow3","avatarUrl":"https://avatars.githubusercontent.com/u/87403363?s=80&v=4","followers":351,"publicRepos":62,"location":"Phnom Penh","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23"},
   {"rank":9,"id":"MDQ6VXNlcjQzNjM4NTc=","login":"socheatsok78","name":"Socheat","url":"https://github.com/socheatsok78","avatarUrl":"https://avatars.githubusercontent.com/u/4363857?s=80&v=4","followers":317,"publicRepos":246,"location":"Cambodia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
-  {"rank":10,"id":"MDQ6VXNlcjI5Njg0Njgz","login":"theachoem","name":"Thea Choem","url":"https://github.com/theachoem","avatarUrl":"https://avatars.githubusercontent.com/u/29684683?s=80&v=4","followers":143,"location":"Phnom Penh, Cambodia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
-  {"rank":11,"id":"MDQ6VXNlcjI4MDU0OTIx","login":"nysamnang","name":"NY Samnang","url":"https://github.com/nysamnang","avatarUrl":"https://avatars.githubusercontent.com/u/28054921?s=80&v=4","followers":70,"location":"Phnom Penh, Cambodia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
-  {"rank":12,"id":"MDQ6VXNlcjYwOTEwMjQx","login":"0967711867","name":"Phou Varun","url":"https://github.com/0967711867","avatarUrl":"https://avatars.githubusercontent.com/u/60910241?s=80&v=4","followers":0,"publicRepos":2,"location":"Cambodia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":13,"id":"U_kgDOBj2gZA","login":"0975638311","name":"Chan Cambodia","url":"https://github.com/0975638311","avatarUrl":"https://avatars.githubusercontent.com/u/104702052?s=80&v=4","followers":0,"publicRepos":1,"location":"Cambodia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":10,"id":"MDQ6VXNlcjI3Nzk2NDg2","login":"KimangKhenng","name":"Kheang Kimang","url":"https://github.com/KimangKhenng","avatarUrl":"https://avatars.githubusercontent.com/u/27796486?s=80&v=4","followers":261,"publicRepos":133,"location":"Phnom Penh, Cambodia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":11,"id":"MDQ6VXNlcjI5Njg0Njgz","login":"theachoem","name":"Thea Choem","url":"https://github.com/theachoem","avatarUrl":"https://avatars.githubusercontent.com/u/29684683?s=80&v=4","followers":143,"publicRepos":20,"location":"Phnom Penh, Cambodia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":12,"id":"MDQ6VXNlcjI4MDU0OTIx","login":"nysamnang","name":"NY Samnang","url":"https://github.com/nysamnang","avatarUrl":"https://avatars.githubusercontent.com/u/28054921?s=80&v=4","followers":70,"location":"Phnom Penh, Cambodia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":13,"id":"MDQ6VXNlcjEyNzU4Mw==","login":"dwilkie","name":"David Wilkie","url":"https://github.com/dwilkie","avatarUrl":"https://avatars.githubusercontent.com/u/127583?s=80&v=4","followers":69,"location":"Phnom Penh, Cambodia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":14,"id":"MDQ6VXNlcjYwOTEwMjQx","login":"0967711867","name":"Phou Varun","url":"https://github.com/0967711867","avatarUrl":"https://avatars.githubusercontent.com/u/60910241?s=80&v=4","followers":0,"publicRepos":2,"location":"Cambodia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":15,"id":"U_kgDOBj2gZA","login":"0975638311","name":"Chan Cambodia","url":"https://github.com/0975638311","avatarUrl":"https://avatars.githubusercontent.com/u/104702052?s=80&v=4","followers":0,"publicRepos":1,"location":"Cambodia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "f634cf739d34ff22",
-"updatedAt": "2026-11-24T01:31:49.018Z",
+"contentHash": "afd1c4fea45d8065",
+"updatedAt": "2026-11-24T11:36:56.631Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T01:31:49.018Z"
+"generatedAt": "2026-11-24T11:36:56.631Z"
 }

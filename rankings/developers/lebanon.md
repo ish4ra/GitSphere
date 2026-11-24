@@ -59,7 +59,7 @@
 <tr>
 <td align="right">6</td>
 <td><a href="https://github.com/KhaledSaeed18"><img src="https://avatars.githubusercontent.com/u/147975926?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KhaledSaeed18"><b>Khaled Saeed</b></a><br><sub>&#64;KhaledSaeed18</sub></td>
-<td align="right"><b>405</b></td>
+<td align="right"><b>404</b></td>
 <td align="right">89</td>
 <td><sub>Lebanon</sub></td>
 </tr>
@@ -108,7 +108,7 @@
 <tr>
 <td align="right">13</td>
 <td><a href="https://github.com/KABBOUCHI"><img src="https://avatars.githubusercontent.com/u/9212274?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KABBOUCHI"><b>Georges KABBOUCHI</b></a><br><sub>&#64;KABBOUCHI</sub></td>
-<td align="right"><b>153</b></td>
+<td align="right"><b>154</b></td>
 <td align="right">265</td>
 <td><sub>Lebanon</sub></td>
 </tr>

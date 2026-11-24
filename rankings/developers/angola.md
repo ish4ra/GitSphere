@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/developers/AO.json">JSON</a> |
+| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/developers/AO.json">JSON</a> |
 
 </div>
 
@@ -72,28 +72,49 @@
 </tr>
 <tr>
 <td align="right">8</td>
+<td><a href="https://github.com/braulio94"><img src="https://avatars.githubusercontent.com/u/20057010?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/braulio94"><b>Braulio Cassule</b></a><br><sub>&#64;braulio94</sub></td>
+<td align="right"><b>270</b></td>
+<td align="right">55</td>
+<td><sub>Luanda, Angola</sub></td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/matheus-x91q"><img src="https://avatars.githubusercontent.com/u/80291248?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/matheus-x91q"><b>Matheus Manuel</b></a><br><sub>&#64;matheus-x91q</sub></td>
+<td align="right"><b>261</b></td>
+<td align="right">63</td>
+<td><sub>Angola/Luanda</sub></td>
+</tr>
+<tr>
+<td align="right">10</td>
 <td><a href="https://github.com/03232003"><img src="https://avatars.githubusercontent.com/u/168593985?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/03232003"><b>Sabino José</b></a><br><sub>&#64;03232003</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Angola</sub></td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">11</td>
 <td><a href="https://github.com/123Faustino"><img src="https://avatars.githubusercontent.com/u/135993455?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/123Faustino"><b>FAUSTINO JC</b></a><br><sub>&#64;123Faustino</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Angola, Luanda.</sub></td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">12</td>
 <td><a href="https://github.com/01Prim"><img src="https://avatars.githubusercontent.com/u/137004462?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/01Prim"><b>Mário Daniel Moisés</b></a><br><sub>&#64;01Prim</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Angola</sub></td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">13</td>
 <td><a href="https://github.com/041191"><img src="https://avatars.githubusercontent.com/u/157545236?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/041191"><b>CIS HARD SOFT</b></a><br><sub>&#64;041191</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Angola</sub></td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><a href="https://github.com/123Lukeny"><img src="https://avatars.githubusercontent.com/u/214558438?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/123Lukeny"><b>Lukeny King</b></a><br><sub>&#64;123Lukeny</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Angola</sub></td>
@@ -106,7 +127,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 11 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 14 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 134 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

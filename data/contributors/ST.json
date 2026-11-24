@@ -5,14 +5,14 @@
 "country": {"code":"ST","name":"São Tomé & Príncipe","slug":"sao-tome-principe"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":18,"measuredAccounts":7,"measurementBacklog":11,"window":{"from":"2025-11-24T01:00:00Z","to":"2026-11-24T01:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":20,"measuredAccounts":9,"measurementBacklog":11,"window":{"from":"2025-11-24T01:00:00Z","to":"2026-11-24T01:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":33,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjg1MjMzMDk1","login":"EdmyPenhor","name":"Edmilson Penhor","url":"https://github.com/EdmyPenhor","avatarUrl":"https://avatars.githubusercontent.com/u/85233095?s=80&v=4","followers":0,"publicRepos":3,"location":"São Tomé e Príncipe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":41,"commits":38,"pullRequests":0,"reviews":0,"issues":0,"repositories":3,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
-  {"rank":2,"id":"U_kgDOBZNghw","login":"benildebonfim","name":"Benilde","url":"https://github.com/benildebonfim","avatarUrl":"https://avatars.githubusercontent.com/u/93544583?s=80&v=4","followers":47,"publicRepos":14,"location":"São Tomé e Príncipe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":3,"commits":2,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
-  {"rank":3,"id":"U_kgDODx8pOA","login":"alekssanderquintas","name":"Alekssander Costa","url":"https://github.com/alekssanderquintas","avatarUrl":"https://avatars.githubusercontent.com/u/253700408?s=80&v=4","followers":0,"publicRepos":1,"location":"São Tomé e Príncipe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":3,"commits":1,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":2,"id":"U_kgDOBZNghw","login":"benildebonfim","name":"Benilde","url":"https://github.com/benildebonfim","avatarUrl":"https://avatars.githubusercontent.com/u/93544583?s=80&v=4","followers":47,"publicRepos":14,"location":"São Tomé e Príncipe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":3,"commits":2,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":3,"id":"U_kgDODx8pOA","login":"alekssanderquintas","name":"Alekssander Costa","url":"https://github.com/alekssanderquintas","avatarUrl":"https://avatars.githubusercontent.com/u/253700408?s=80&v=4","followers":0,"publicRepos":1,"location":"São Tomé e Príncipe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":3,"commits":1,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "4c9da9ac4dca0eec",
-"updatedAt": "2026-11-24T01:31:49.018Z",
+"contentHash": "13fe3f4b74f0b7d8",
+"updatedAt": "2026-11-24T11:36:56.631Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T01:31:49.018Z"
+"generatedAt": "2026-11-24T11:36:56.631Z"
 }

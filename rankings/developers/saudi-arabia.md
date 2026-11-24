@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **35** | 22 Nov 2026 | <a href="../../data/developers/SA.json">JSON</a> |
+| 🟡 Provisional | **41** | 22 Nov 2026 | <a href="../../data/developers/SA.json">JSON</a> |
 
 </div>
 
@@ -247,24 +247,66 @@
 </tr>
 <tr>
 <td align="right">33</td>
-<td><a href="https://github.com/REVENGE977"><img src="https://avatars.githubusercontent.com/u/32039975?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/REVENGE977"><b>REVENGE</b></a><br><sub>&#64;REVENGE977</sub></td>
-<td align="right"><b>265</b></td>
-<td align="right">0</td>
-<td><sub>Kingdom of Saudi Arabia</sub></td>
+<td><a href="https://github.com/mznmel"><img src="https://avatars.githubusercontent.com/u/41561?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mznmel"><b>Mazen Abdullah</b></a><br><sub>&#64;mznmel</sub></td>
+<td align="right"><b>281</b></td>
+<td align="right">12</td>
+<td><sub>Riyadh, Saudi Arabia</sub></td>
 </tr>
 <tr>
 <td align="right">34</td>
+<td><a href="https://github.com/rn0x"><img src="https://avatars.githubusercontent.com/u/76129163?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rn0x"><b>rn0x</b></a><br><sub>&#64;rn0x</sub></td>
+<td align="right"><b>280</b></td>
+<td align="right">58</td>
+<td><sub>I&#39;m From Saudi Arabia , Makkah</sub></td>
+</tr>
+<tr>
+<td align="right">35</td>
+<td><a href="https://github.com/SajjadArifGul"><img src="https://avatars.githubusercontent.com/u/10654904?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SajjadArifGul"><b>Sajjad Gul</b></a><br><sub>&#64;SajjadArifGul</sub></td>
+<td align="right"><b>266</b></td>
+<td align="right">46</td>
+<td><sub>Jeddah, Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">36</td>
+<td><a href="https://github.com/REVENGE977"><img src="https://avatars.githubusercontent.com/u/32039975?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/REVENGE977"><b>REVENGE</b></a><br><sub>&#64;REVENGE977</sub></td>
+<td align="right"><b>265</b></td>
+<td align="right">164</td>
+<td><sub>Kingdom of Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">37</td>
+<td><a href="https://github.com/0xwal"><img src="https://avatars.githubusercontent.com/u/20063083?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xwal"><b>0xwal</b></a><br><sub>&#64;0xwal</sub></td>
+<td align="right"><b>259</b></td>
+<td align="right">104</td>
+<td><sub>Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">38</td>
 <td><a href="https://github.com/ialhashim"><img src="https://avatars.githubusercontent.com/u/2434978?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ialhashim"><b>Ibraheem Alhashim</b></a><br><sub>&#64;ialhashim</sub></td>
 <td align="right"><b>212</b></td>
 <td align="right">0</td>
 <td><sub>Saudi Arabia</sub></td>
 </tr>
 <tr>
-<td align="right">35</td>
+<td align="right">39</td>
 <td><a href="https://github.com/orangci"><img src="https://avatars.githubusercontent.com/u/90866414?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/orangci"><b>orangci</b></a><br><sub>&#64;orangci</sub></td>
 <td align="right"><b>189</b></td>
 <td align="right">0</td>
 <td><sub>Riyadh, Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">40</td>
+<td><a href="https://github.com/abarrak"><img src="https://avatars.githubusercontent.com/u/20784990?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abarrak"><b>Abdullah Barrak</b></a><br><sub>&#64;abarrak</sub></td>
+<td align="right"><b>109</b></td>
+<td align="right">0</td>
+<td><sub>Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">41</td>
+<td><a href="https://github.com/AqeelahMakki"><img src="https://avatars.githubusercontent.com/u/86732926?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AqeelahMakki"><b>Aqeelah Makki</b></a><br><sub>&#64;AqeelahMakki</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">4</td>
+<td><sub>KSA, Eastern province, Anak</sub></td>
 </tr>
 </tbody>
 </table>
@@ -274,7 +316,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 35 attributed developers are tracked; the cutoff is 189 followers.
+- Organizations are excluded. 41 attributed developers are tracked; the cutoff is 1 followers.
 - **Location discovery:** term 0 of 141 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -45,7 +45,7 @@
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/wycliffecomputerdoc"><img src="https://avatars.githubusercontent.com/u/171879088?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wycliffecomputerdoc"><b>Wycliffe Kwame GYAMBIBI</b></a><br><sub>&#64;wycliffecomputerdoc</sub></td>
-<td align="right"><b>602</b></td>
+<td align="right"><b>603</b></td>
 <td align="right">106</td>
 <td><sub>Ghana</sub></td>
 </tr>
@@ -171,21 +171,21 @@
 <tr>
 <td align="right">22</td>
 <td><a href="https://github.com/abudusamad"><img src="https://avatars.githubusercontent.com/u/82134715?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abudusamad"><b>Mastech</b></a><br><sub>&#64;abudusamad</sub></td>
-<td align="right"><b>279</b></td>
+<td align="right"><b>278</b></td>
 <td align="right">35</td>
 <td><sub>Accra- Ghana</sub></td>
 </tr>
 <tr>
 <td align="right">23</td>
 <td><a href="https://github.com/Randynot"><img src="https://avatars.githubusercontent.com/u/201289103?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Randynot"><b>Caleb Agyemang Prempeh</b></a><br><sub>&#64;Randynot</sub></td>
-<td align="right"><b>276</b></td>
+<td align="right"><b>275</b></td>
 <td align="right">20</td>
 <td><sub>Kumasi,Ghana</sub></td>
 </tr>
 <tr>
 <td align="right">24</td>
 <td><a href="https://github.com/topboyasante"><img src="https://avatars.githubusercontent.com/u/73991180?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/topboyasante"><b>Nana K.</b></a><br><sub>&#64;topboyasante</sub></td>
-<td align="right"><b>272</b></td>
+<td align="right"><b>273</b></td>
 <td align="right">34</td>
 <td><sub>Accra, Ghana</sub></td>
 </tr>
@@ -199,7 +199,7 @@
 <tr>
 <td align="right">26</td>
 <td><a href="https://github.com/eyedol"><img src="https://avatars.githubusercontent.com/u/73175?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eyedol"><b>Henry Addo</b></a><br><sub>&#64;eyedol</sub></td>
-<td align="right"><b>255</b></td>
+<td align="right"><b>254</b></td>
 <td align="right">74</td>
 <td><sub>Accra, Ghana</sub></td>
 </tr>

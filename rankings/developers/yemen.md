@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/developers/YE.json">JSON</a> |
+| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/developers/YE.json">JSON</a> |
 
 </div>
 
@@ -80,7 +80,7 @@
 <tr>
 <td align="right">9</td>
 <td><a href="https://github.com/CS2487"><img src="https://avatars.githubusercontent.com/u/127134204?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CS2487"><b>Farea AL-Dhela&#39;a</b></a><br><sub>&#64;CS2487</sub></td>
-<td align="right"><b>355</b></td>
+<td align="right"><b>354</b></td>
 <td align="right">48</td>
 <td><sub>Yemen, Sana’a,a</sub></td>
 </tr>
@@ -98,6 +98,27 @@
 <td align="right">2</td>
 <td><sub>Yemen , Sana&#39;a</sub></td>
 </tr>
+<tr>
+<td align="right">12</td>
+<td><a href="https://github.com/doctor-he"><img src="https://avatars.githubusercontent.com/u/109459992?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/doctor-he"><b>Dr. He</b></a><br><sub>&#64;doctor-he</sub></td>
+<td align="right"><b>271</b></td>
+<td align="right">8</td>
+<td><sub>Yemen, Sanaa</sub></td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><a href="https://github.com/AymanAltairi73"><img src="https://avatars.githubusercontent.com/u/163068438?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AymanAltairi73"><b>Ayman Ahmed Altairi</b></a><br><sub>&#64;AymanAltairi73</sub></td>
+<td align="right"><b>268</b></td>
+<td align="right">103</td>
+<td><sub>Yemen/Mukalla</sub></td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><a href="https://github.com/AhmedSaadi0"><img src="https://avatars.githubusercontent.com/u/68832470?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AhmedSaadi0"><b>Ahmed Alsaadi</b></a><br><sub>&#64;AhmedSaadi0</sub></td>
+<td align="right"><b>53</b></td>
+<td align="right">0</td>
+<td><sub>Sanaa, Yemen</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -106,7 +127,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 11 attributed developers are tracked; the cutoff is 284 followers.
+- Organizations are excluded. 14 attributed developers are tracked; the cutoff is 53 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

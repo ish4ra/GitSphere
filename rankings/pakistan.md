@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **78** | 22 Nov 2026 | <a href="../data/PK.json">JSON</a> |
+| 🟡 Provisional | **88** | 22 Nov 2026 | <a href="../data/PK.json">JSON</a> |
 
 </div>
 
@@ -567,6 +567,76 @@
 <td align="right">62</td>
 <td>CSS</td>
 </tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/uzairfarooq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/uzairfarooq/arrive"><b>uzairfarooq/arrive</b></a><br><sub>Watch for DOM elements creation and removal</sub></td>
+<td align="right"><b>900</b></td>
+<td align="right">94</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/gdm-settings.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gdm-settings/gdm-settings"><b>gdm-settings/gdm-settings</b></a><br><sub>A settings app for GNOME&#39;s Login Manager, GDM</sub></td>
+<td align="right"><b>872</b></td>
+<td align="right">47</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/bc160201983.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port"><b>bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port</b></a><br><sub>Uncharted: The Nathan Drake Collection PC port (no game files)</sub></td>
+<td align="right"><b>859</b></td>
+<td align="right">29</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/quantumcore.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/quantumcore/paradoxiaRAT"><b>quantumcore/paradoxiaRAT</b></a><br><sub>ParadoxiaRat : Native Windows Remote access Tool.</sub></td>
+<td align="right"><b>834</b></td>
+<td align="right">155</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><img src="https://github.com/wajahatkarim3.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wajahatkarim3/EasyFlipViewPager"><b>wajahatkarim3/EasyFlipViewPager</b></a><br><sub>📖 The library for creating book and card flip animations in ViewPager in Android</sub></td>
+<td align="right"><b>820</b></td>
+<td align="right">98</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><img src="https://github.com/FareedKhan-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FareedKhan-dev/train-deepseek-r1"><b>FareedKhan-dev/train-deepseek-r1</b></a><br><sub>Building DeepSeek R1 from Scratch</sub></td>
+<td align="right"><b>809</b></td>
+<td align="right">134</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">85</td>
+<td><img src="https://github.com/1hanzla100.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/1hanzla100/developer-portfolio"><b>1hanzla100/developer-portfolio</b></a> <sub>archived</sub><br><sub>Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and s…</sub></td>
+<td align="right"><b>807</b></td>
+<td align="right">479</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/mubaidr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mubaidr/vite-vue3-browser-extension-v3"><b>mubaidr/vite-vue3-browser-extension-v3</b></a><br><sub>Another vite powered web extension (chrome, firefox, etc.) starter template.</sub></td>
+<td align="right"><b>790</b></td>
+<td align="right">92</td>
+<td>Vue</td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><img src="https://github.com/byted-technologies.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/byted-technologies/github_"><b>byted-technologies/github&#95;</b></a><br><sub>Official Fractal Compute Orchestrations ecosystem hub (v3.1 non-commercial source-available): FractalWorkspace, Fractal…</sub></td>
+<td align="right"><b>773</b></td>
+<td align="right">0</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><img src="https://github.com/msrbuilds.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/msrbuilds/elementor-mcp"><b>msrbuilds/elementor-mcp</b></a><br><sub>WordPress MCP server with 234 Free tools and 547 total with Pro for building pages, managing content, and operating you…</sub></td>
+<td align="right"><b>772</b></td>
+<td align="right">163</td>
+<td>PHP</td>
+</tr>
 </tbody>
 </table>
 
@@ -575,8 +645,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 909 stars; 78 attributed candidates are tracked.
-- 139 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 772 stars; 88 attributed candidates are tracked.
+- 135 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 147 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

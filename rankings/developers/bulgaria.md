@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **79** | 22 Nov 2026 | <a href="../../data/developers/BG.json">JSON</a> |
+| 🟡 Provisional | **90** | 22 Nov 2026 | <a href="../../data/developers/BG.json">JSON</a> |
 
 </div>
 
@@ -59,7 +59,7 @@
 <tr>
 <td align="right">6</td>
 <td><a href="https://github.com/me-no-dev"><img src="https://avatars.githubusercontent.com/u/12663778?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/me-no-dev"><b>Me No Dev</b></a><br><sub>&#64;me-no-dev</sub></td>
-<td align="right"><b>3,245</b></td>
+<td align="right"><b>3,246</b></td>
 <td align="right">56</td>
 <td><sub>Bulgaria</sub></td>
 </tr>
@@ -227,7 +227,7 @@
 <tr>
 <td align="right">30</td>
 <td><a href="https://github.com/erusev"><img src="https://avatars.githubusercontent.com/u/184170?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/erusev"><b>Emanuil Rusev</b></a><br><sub>&#64;erusev</sub></td>
-<td align="right"><b>427</b></td>
+<td align="right"><b>428</b></td>
 <td align="right">25</td>
 <td><sub>Sofia, Bulgaria</sub></td>
 </tr>
@@ -408,167 +408,244 @@
 </tr>
 <tr>
 <td align="right">56</td>
+<td><a href="https://github.com/hkdobrev"><img src="https://avatars.githubusercontent.com/u/506129?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hkdobrev"><b>Harry Dobrev</b></a><br><sub>&#64;hkdobrev</sub></td>
+<td align="right"><b>280</b></td>
+<td align="right">74</td>
+<td><sub>Sofia, Bulgaria</sub></td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><a href="https://github.com/yshashi"><img src="https://avatars.githubusercontent.com/u/21971232?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yshashi"><b>Sashikumar Yadav</b></a><br><sub>&#64;yshashi</sub></td>
+<td align="right"><b>279</b></td>
+<td align="right">115</td>
+<td><sub>Sofia, Bulgaria</sub></td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><a href="https://github.com/tyxla"><img src="https://avatars.githubusercontent.com/u/8436925?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tyxla"><b>Marin Atanasov</b></a><br><sub>&#64;tyxla</sub></td>
+<td align="right"><b>275</b></td>
+<td align="right">74</td>
+<td><sub>Varna, Bulgaria</sub></td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><a href="https://github.com/Martin322s"><img src="https://avatars.githubusercontent.com/u/117728421?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Martin322s"><b>Martin Sofroniev</b></a><br><sub>&#64;Martin322s</sub></td>
+<td align="right"><b>274</b></td>
+<td align="right">111</td>
+<td><sub>Sofia, Bulgaria</sub></td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><a href="https://github.com/miglen"><img src="https://avatars.githubusercontent.com/u/1589883?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/miglen"><b>Miglen Evlogiev</b></a><br><sub>&#64;miglen</sub></td>
+<td align="right"><b>269</b></td>
+<td align="right">56</td>
+<td><sub>Sofia, Bulgaria</sub></td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><a href="https://github.com/angelovstanton"><img src="https://avatars.githubusercontent.com/u/7361065?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/angelovstanton"><b>Anton Stanislavov Angelov</b></a><br><sub>&#64;angelovstanton</sub></td>
+<td align="right"><b>266</b></td>
+<td align="right">11</td>
+<td><sub>Sofia, Bulgaria</sub></td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><a href="https://github.com/kalintsenkov"><img src="https://avatars.githubusercontent.com/u/47757405?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kalintsenkov"><b>Kalin Tsenkov</b></a><br><sub>&#64;kalintsenkov</sub></td>
+<td align="right"><b>264</b></td>
+<td align="right">12</td>
+<td><sub>Sofia, Bulgaria</sub></td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><a href="https://github.com/wqweto"><img src="https://avatars.githubusercontent.com/u/987963?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wqweto"><b>Vladimir Vissoultchev</b></a><br><sub>&#64;wqweto</sub></td>
+<td align="right"><b>256</b></td>
+<td align="right">78</td>
+<td><sub>Sofia, Bulgaria</sub></td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><a href="https://github.com/kdankov"><img src="https://avatars.githubusercontent.com/u/147749?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kdankov"><b>Konstantin Dankov</b></a><br><sub>&#64;kdankov</sub></td>
+<td align="right"><b>249</b></td>
+<td align="right">14</td>
+<td><sub>Sofia, Bulgaria</sub></td>
+</tr>
+<tr>
+<td align="right">65</td>
 <td><a href="https://github.com/Tavris1"><img src="https://avatars.githubusercontent.com/u/36665424?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tavris1"><b>ivo</b></a><br><sub>&#64;Tavris1</sub></td>
 <td align="right"><b>246</b></td>
 <td align="right">0</td>
 <td><sub>Sofia, Bulgaria</sub></td>
 </tr>
 <tr>
-<td align="right">57</td>
+<td align="right">66</td>
 <td><a href="https://github.com/deepsyx"><img src="https://avatars.githubusercontent.com/u/4641811?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/deepsyx"><b>Viktor Kirilov</b></a><br><sub>&#64;deepsyx</sub></td>
 <td align="right"><b>238</b></td>
 <td align="right">0</td>
 <td><sub>Sofia, Bulgaria</sub></td>
 </tr>
 <tr>
-<td align="right">58</td>
+<td align="right">67</td>
 <td><a href="https://github.com/dnaeon"><img src="https://avatars.githubusercontent.com/u/242827?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dnaeon"><b>Marin Atanasov Nikolov</b></a><br><sub>&#64;dnaeon</sub></td>
 <td align="right"><b>226</b></td>
 <td align="right">0</td>
 <td><sub>Sofia, Bulgaria</sub></td>
 </tr>
 <tr>
-<td align="right">59</td>
+<td align="right">68</td>
 <td><a href="https://github.com/vakata"><img src="https://avatars.githubusercontent.com/u/146052?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vakata"><b>Ivan Bozhanov</b></a><br><sub>&#64;vakata</sub></td>
 <td align="right"><b>209</b></td>
 <td align="right">0</td>
 <td><sub>Plovdiv, Bulgaria</sub></td>
 </tr>
 <tr>
-<td align="right">60</td>
+<td align="right">69</td>
 <td><a href="https://github.com/robbdimitrov"><img src="https://avatars.githubusercontent.com/u/488891?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/robbdimitrov"><b>Robert Dimitrov</b></a><br><sub>&#64;robbdimitrov</sub></td>
 <td align="right"><b>187</b></td>
 <td align="right">0</td>
 <td><sub>Sofia, Bulgaria</sub></td>
 </tr>
 <tr>
-<td align="right">61</td>
+<td align="right">70</td>
 <td><a href="https://github.com/selfrefactor"><img src="https://avatars.githubusercontent.com/u/2149294?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/selfrefactor"><b>Deyan Totev</b></a><br><sub>&#64;selfrefactor</sub></td>
 <td align="right"><b>184</b></td>
 <td align="right">0</td>
 <td><sub>Sofia, Bulgaria</sub></td>
 </tr>
 <tr>
-<td align="right">62</td>
+<td align="right">71</td>
 <td><a href="https://github.com/uixmat"><img src="https://avatars.githubusercontent.com/u/4294822?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/uixmat"><b>Matt</b></a><br><sub>&#64;uixmat</sub></td>
 <td align="right"><b>178</b></td>
 <td align="right">0</td>
 <td><sub>Bulgaria</sub></td>
 </tr>
 <tr>
-<td align="right">63</td>
+<td align="right">72</td>
 <td><a href="https://github.com/ivan-vasilev"><img src="https://avatars.githubusercontent.com/u/2920675?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ivan-vasilev"><b>Ivan Vasilev</b></a><br><sub>&#64;ivan-vasilev</sub></td>
 <td align="right"><b>160</b></td>
 <td align="right">0</td>
 <td><sub>Sofia, Bulgaria</sub></td>
 </tr>
 <tr>
-<td align="right">64</td>
+<td align="right">73</td>
 <td><a href="https://github.com/tonytomov"><img src="https://avatars.githubusercontent.com/u/79932?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tonytomov"><b>Tony Tomov</b></a><br><sub>&#64;tonytomov</sub></td>
 <td align="right"><b>145</b></td>
 <td align="right">0</td>
 <td><sub>Sofia, Bulgaria</sub></td>
 </tr>
 <tr>
-<td align="right">65</td>
+<td align="right">74</td>
 <td><a href="https://github.com/npocmaka"><img src="https://avatars.githubusercontent.com/u/4533718?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/npocmaka"><b>Vasil Arnaudov</b></a><br><sub>&#64;npocmaka</sub></td>
 <td align="right"><b>134</b></td>
 <td align="right">0</td>
 <td><sub>Sofia,Bulgaria</sub></td>
 </tr>
 <tr>
-<td align="right">66</td>
+<td align="right">75</td>
+<td><a href="https://github.com/asual"><img src="https://avatars.githubusercontent.com/u/98153?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asual"><b>Rostislav Hristov</b></a><br><sub>&#64;asual</sub></td>
+<td align="right"><b>125</b></td>
+<td align="right">0</td>
+<td><sub>Sofia, Bulgaria</sub></td>
+</tr>
+<tr>
+<td align="right">76</td>
 <td><a href="https://github.com/itay-grudev"><img src="https://avatars.githubusercontent.com/u/2123767?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/itay-grudev"><b>Itay Grudev</b></a><br><sub>&#64;itay-grudev</sub></td>
 <td align="right"><b>111</b></td>
 <td align="right">0</td>
 <td><sub>Sofia, Bulgaria</sub></td>
 </tr>
 <tr>
-<td align="right">67</td>
+<td align="right">77</td>
 <td><a href="https://github.com/NepipenkoIgor"><img src="https://avatars.githubusercontent.com/u/7725146?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NepipenkoIgor"><b>Igor Nepipenko</b></a><br><sub>&#64;NepipenkoIgor</sub></td>
 <td align="right"><b>111</b></td>
 <td align="right">0</td>
 <td><sub>Sveti Vlas, Bulgaria</sub></td>
 </tr>
 <tr>
-<td align="right">68</td>
+<td align="right">78</td>
 <td><a href="https://github.com/RumenDamyanov"><img src="https://avatars.githubusercontent.com/u/1458253?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RumenDamyanov"><b>Rumen Damyanov</b></a><br><sub>&#64;RumenDamyanov</sub></td>
 <td align="right"><b>109</b></td>
 <td align="right">0</td>
 <td><sub>Bulgaria (EU)</sub></td>
 </tr>
 <tr>
-<td align="right">69</td>
+<td align="right">79</td>
 <td><a href="https://github.com/YavorGIvanov"><img src="https://avatars.githubusercontent.com/u/8558655?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YavorGIvanov"><b>Yavor Ivanov</b></a><br><sub>&#64;YavorGIvanov</sub></td>
 <td align="right"><b>101</b></td>
 <td align="right">0</td>
 <td><sub>Sofia, Bulgaria</sub></td>
 </tr>
 <tr>
-<td align="right">70</td>
+<td align="right">80</td>
 <td><a href="https://github.com/gigobyte"><img src="https://avatars.githubusercontent.com/u/8791446?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gigobyte"><b>Stanislav Iliev</b></a><br><sub>&#64;gigobyte</sub></td>
 <td align="right"><b>89</b></td>
 <td align="right">0</td>
 <td><sub>Sofia, Bulgaria</sub></td>
 </tr>
 <tr>
-<td align="right">71</td>
+<td align="right">81</td>
 <td><a href="https://github.com/i6mi6"><img src="https://avatars.githubusercontent.com/u/6017721?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/i6mi6"><b>Alexander Vitanov</b></a><br><sub>&#64;i6mi6</sub></td>
 <td align="right"><b>78</b></td>
 <td align="right">0</td>
 <td><sub>Sofia, Bulgaria</sub></td>
 </tr>
 <tr>
-<td align="right">72</td>
+<td align="right">82</td>
 <td><a href="https://github.com/DimitarPetrov"><img src="https://avatars.githubusercontent.com/u/26522214?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DimitarPetrov"><b>Dimitar Petrov</b></a><br><sub>&#64;DimitarPetrov</sub></td>
 <td align="right"><b>74</b></td>
 <td align="right">0</td>
 <td><sub>Sofia, Bulgaria</sub></td>
 </tr>
 <tr>
-<td align="right">73</td>
+<td align="right">83</td>
 <td><a href="https://github.com/ttsvetko"><img src="https://avatars.githubusercontent.com/u/159775?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ttsvetko"><b>Tsvetan Tsvetkov</b></a><br><sub>&#64;ttsvetko</sub></td>
 <td align="right"><b>67</b></td>
 <td align="right">0</td>
 <td><sub>Sofia, Bulgaria</sub></td>
 </tr>
 <tr>
-<td align="right">74</td>
+<td align="right">84</td>
 <td><a href="https://github.com/yyyar"><img src="https://avatars.githubusercontent.com/u/219061?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yyyar"><b>Yaroslav Pogrebnyak</b></a><br><sub>&#64;yyyar</sub></td>
 <td align="right"><b>61</b></td>
 <td align="right">0</td>
 <td><sub>Varna, Bulgaria</sub></td>
 </tr>
 <tr>
-<td align="right">75</td>
+<td align="right">85</td>
 <td><a href="https://github.com/mariostoev"><img src="https://avatars.githubusercontent.com/u/21347113?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mariostoev"><b>mario</b></a><br><sub>&#64;mariostoev</sub></td>
 <td align="right"><b>55</b></td>
 <td align="right">0</td>
 <td><sub>Sofia, Bulgaria</sub></td>
 </tr>
 <tr>
-<td align="right">76</td>
+<td align="right">86</td>
+<td><a href="https://github.com/djlastnight"><img src="https://avatars.githubusercontent.com/u/19281127?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/djlastnight"><b>Ivan Yankov</b></a><br><sub>&#64;djlastnight</sub></td>
+<td align="right"><b>54</b></td>
+<td align="right">0</td>
+<td><sub>Bulgaria</sub></td>
+</tr>
+<tr>
+<td align="right">87</td>
 <td><a href="https://github.com/Whimfoome"><img src="https://avatars.githubusercontent.com/u/42871796?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Whimfoome"><b>Dimitar Dimitrov</b></a><br><sub>&#64;Whimfoome</sub></td>
 <td align="right"><b>45</b></td>
 <td align="right">0</td>
 <td><sub>Bulgaria/Remote</sub></td>
 </tr>
 <tr>
-<td align="right">77</td>
+<td align="right">88</td>
 <td><a href="https://github.com/ivopetkov"><img src="https://avatars.githubusercontent.com/u/13205385?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ivopetkov"><b>Ivo Petkov</b></a><br><sub>&#64;ivopetkov</sub></td>
 <td align="right"><b>43</b></td>
 <td align="right">0</td>
 <td><sub>Bulgaria</sub></td>
 </tr>
 <tr>
-<td align="right">78</td>
+<td align="right">89</td>
 <td><a href="https://github.com/dvmarinoff"><img src="https://avatars.githubusercontent.com/u/7523832?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dvmarinoff"><b>Dimitar Marinov</b></a><br><sub>&#64;dvmarinoff</sub></td>
 <td align="right"><b>42</b></td>
 <td align="right">0</td>
 <td><sub>Sofia, Bulgaria</sub></td>
 </tr>
 <tr>
-<td align="right">79</td>
+<td align="right">90</td>
 <td><a href="https://github.com/ivandokov"><img src="https://avatars.githubusercontent.com/u/2357455?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ivandokov"><b>Ivan Dokov</b></a><br><sub>&#64;ivandokov</sub></td>
 <td align="right"><b>32</b></td>
 <td align="right">0</td>
@@ -582,7 +659,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 79 attributed developers are tracked; the cutoff is 32 followers.
+- Organizations are excluded. 90 attributed developers are tracked; the cutoff is 32 followers.
 - **Location discovery:** term 0 of 140 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

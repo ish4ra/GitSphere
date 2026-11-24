@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **57** | 03 Nov 2026 | <a href="../data/SI.json">JSON</a> |
+| 🟠 Stale | **47** | 03 Nov 2026 | <a href="../data/SI.json">JSON</a> |
 
-> **Not yet re-verified.** 30 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 16 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -214,209 +214,139 @@
 </tr>
 <tr>
 <td align="right">28</td>
-<td><img src="https://github.com/blaztriglav.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/blaztriglav/did-i"><b>blaztriglav/did-i</b></a></td>
-<td align="right"><b>31</b></td>
-<td align="right">4</td>
-<td>Java</td>
+<td><img src="https://github.com/Blarc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Blarc/ai-commits-intellij-plugin"><b>Blarc/ai-commits-intellij-plugin</b></a><br><sub>AI Commits for IntelliJ based IDEs/Android Studio.</sub></td>
+<td align="right"><b>874</b></td>
+<td align="right">70</td>
+<td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">29</td>
-<td><img src="https://github.com/peterzagoranski.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/peterzagoranski/flutter_router"><b>peterzagoranski/flutter&#95;router</b></a></td>
-<td align="right"><b>30</b></td>
-<td align="right">1</td>
-<td>Dart</td>
-</tr>
-<tr>
-<td align="right">30</td>
-<td><img src="https://github.com/martinkorelic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/martinkorelic/joplin-plugin-spoilers"><b>martinkorelic/joplin-plugin-spoilers</b></a></td>
-<td align="right"><b>29</b></td>
-<td align="right">3</td>
+<td><img src="https://github.com/luksa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/luksa/kubernetes-in-action-2nd-edition"><b>luksa/kubernetes-in-action-2nd-edition</b></a><br><sub>Code from the Kubernetes in Action 2nd Edition book</sub></td>
+<td align="right"><b>850</b></td>
+<td align="right">396</td>
 <td>JavaScript</td>
 </tr>
 <tr>
+<td align="right">30</td>
+<td><img src="https://github.com/bokysan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bokysan/docker-postfix"><b>bokysan/docker-postfix</b></a><br><sub>Multi architecture simple SMTP server (postfix null relay) host for your Docker and Kubernetes containers. Based on Deb…</sub></td>
+<td align="right"><b>824</b></td>
+<td align="right">174</td>
+<td>Shell</td>
+</tr>
+<tr>
 <td align="right">31</td>
-<td><img src="https://github.com/jankoslavic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jankoslavic/pypinm"><b>jankoslavic/pypinm</b></a></td>
-<td align="right"><b>27</b></td>
-<td align="right">207</td>
-<td>Jupyter Notebook</td>
+<td><img src="https://github.com/xtrinch.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xtrinch/fcm-django"><b>xtrinch/fcm-django</b></a><br><sub>FCM Django: Send push notifications via django to websites, iOS &amp; android mobile devices through FCM (Firebase Cloud Me…</sub></td>
+<td align="right"><b>796</b></td>
+<td align="right">198</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">32</td>
-<td><img src="https://github.com/aaaaaaaannn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aaaaaaaannn/cd00r.c"><b>aaaaaaaannn/cd00r.c</b></a></td>
-<td align="right"><b>26</b></td>
-<td align="right">16</td>
-<td>C</td>
-</tr>
-<tr>
-<td align="right">33</td>
-<td><img src="https://github.com/benqo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/benqo/python-dhl"><b>benqo/python-dhl</b></a></td>
-<td align="right"><b>18</b></td>
-<td align="right">12</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">34</td>
-<td><img src="https://github.com/nejko.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nejko/claude-focus"><b>nejko/claude-focus</b></a></td>
-<td align="right"><b>18</b></td>
-<td align="right">1</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">35</td>
-<td><img src="https://github.com/DavidKarlas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DavidKarlas/OsmNightWatch"><b>DavidKarlas/OsmNightWatch</b></a></td>
-<td align="right"><b>17</b></td>
-<td align="right">4</td>
-<td>C#</td>
-</tr>
-<tr>
-<td align="right">36</td>
-<td><img src="https://github.com/matjaz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/matjaz/angu-poly"><b>matjaz/angu-poly</b></a></td>
-<td align="right"><b>17</b></td>
-<td align="right">2</td>
-<td>HTML</td>
-</tr>
-<tr>
-<td align="right">37</td>
-<td><img src="https://github.com/mariansiwiak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mariansiwiak/Generative_AI_for_Data_Analytics"><b>mariansiwiak/Generative&#95;AI&#95;for&#95;Data&#95;Analytics</b></a></td>
-<td align="right"><b>15</b></td>
-<td align="right">6</td>
-<td>Jupyter Notebook</td>
-</tr>
-<tr>
-<td align="right">38</td>
-<td><img src="https://github.com/comalnik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/comalnik/instant-ngp-helper"><b>comalnik/instant-ngp-helper</b></a> <sub>archived</sub></td>
-<td align="right"><b>14</b></td>
-<td align="right">7</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">39</td>
-<td><img src="https://github.com/peterropac.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/peterropac/Aegolius"><b>peterropac/Aegolius</b></a></td>
-<td align="right"><b>14</b></td>
-<td align="right">3</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">40</td>
-<td><img src="https://github.com/markosirec.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/markosirec/gls-italy-sdk"><b>markosirec/gls-italy-sdk</b></a></td>
-<td align="right"><b>13</b></td>
-<td align="right">11</td>
-<td>PHP</td>
-</tr>
-<tr>
-<td align="right">41</td>
-<td><img src="https://github.com/vednolacni.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vednolacni/SeerrHA"><b>vednolacni/SeerrHA</b></a></td>
-<td align="right"><b>13</b></td>
-<td align="right">0</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">42</td>
 <td><img src="https://github.com/brodul.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/brodul/ansible-bacula"><b>brodul/ansible-bacula</b></a> <sub>archived</sub></td>
 <td align="right"><b>11</b></td>
 <td align="right">5</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">43</td>
+<td align="right">33</td>
 <td><img src="https://github.com/MatoXD99.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MatoXD99/macOS-on-HP"><b>MatoXD99/macOS-on-HP</b></a></td>
 <td align="right"><b>11</b></td>
 <td align="right">3</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">44</td>
+<td align="right">34</td>
 <td><img src="https://github.com/boris42.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/boris42/booklet"><b>boris42/booklet</b></a></td>
 <td align="right"><b>11</b></td>
 <td align="right">1</td>
 <td>Shell</td>
 </tr>
 <tr>
-<td align="right">45</td>
+<td align="right">35</td>
 <td><img src="https://github.com/maticer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maticer/WooCommerce-Slovenian"><b>maticer/WooCommerce-Slovenian</b></a></td>
 <td align="right"><b>10</b></td>
 <td align="right">8</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">46</td>
+<td align="right">36</td>
 <td><img src="https://github.com/ZanPustoslemsek.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ZanPustoslemsek/a_Waltz_in_SPACE"><b>ZanPustoslemsek/a&#95;Waltz&#95;in&#95;SPACE</b></a></td>
 <td align="right"><b>10</b></td>
 <td align="right">2</td>
 <td>C#</td>
 </tr>
 <tr>
-<td align="right">47</td>
+<td align="right">37</td>
 <td><img src="https://github.com/sunderee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sunderee/carbide"><b>sunderee/carbide</b></a></td>
 <td align="right"><b>10</b></td>
 <td align="right">1</td>
 <td>Dart</td>
 </tr>
 <tr>
-<td align="right">48</td>
+<td align="right">38</td>
 <td><img src="https://github.com/avivosi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/avivosi/QR-Code-API-from-Good-Survey"><b>avivosi/QR-Code-API-from-Good-Survey</b></a></td>
 <td align="right"><b>9</b></td>
 <td align="right">4</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">49</td>
+<td align="right">39</td>
 <td><img src="https://github.com/Samotorcan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Samotorcan/HtmlUi"><b>Samotorcan/HtmlUi</b></a></td>
 <td align="right"><b>9</b></td>
 <td align="right">4</td>
 <td>C#</td>
 </tr>
 <tr>
-<td align="right">50</td>
+<td align="right">40</td>
 <td><img src="https://github.com/marjanmo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/marjanmo/xsection"><b>marjanmo/xsection</b></a></td>
 <td align="right"><b>9</b></td>
 <td align="right">3</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">51</td>
+<td align="right">41</td>
 <td><img src="https://github.com/leamars.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/leamars/PitchBlack"><b>leamars/PitchBlack</b></a></td>
 <td align="right"><b>9</b></td>
 <td align="right">1</td>
 <td>Swift</td>
 </tr>
 <tr>
-<td align="right">52</td>
+<td align="right">42</td>
 <td><img src="https://github.com/kostko.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kostko/dsc-it100"><b>kostko/dsc-it100</b></a></td>
 <td align="right"><b>8</b></td>
 <td align="right">5</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">53</td>
+<td align="right">43</td>
 <td><img src="https://github.com/19Joey85.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/19Joey85/Sentiment-annotated-news-corpus-and-sentiment-lexicon-in-Slovene"><b>19Joey85/Sentiment-annotated-news-corpus-and-sentiment-lexicon-in-Slovene</b></a></td>
 <td align="right"><b>8</b></td>
 <td align="right">3</td>
 <td>R</td>
 </tr>
 <tr>
-<td align="right">54</td>
+<td align="right">44</td>
 <td><img src="https://github.com/PingIsFun.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PingIsFun/HitBoxPlus"><b>PingIsFun/HitBoxPlus</b></a></td>
 <td align="right"><b>7</b></td>
 <td align="right">5</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">55</td>
+<td align="right">45</td>
 <td><img src="https://github.com/ecoralic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ecoralic/emojirand"><b>ecoralic/emojirand</b></a></td>
 <td align="right"><b>7</b></td>
 <td align="right">0</td>
 <td>Go</td>
 </tr>
 <tr>
-<td align="right">56</td>
+<td align="right">46</td>
 <td><img src="https://github.com/zmilan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zmilan/laravel-docker-setup"><b>zmilan/laravel-docker-setup</b></a></td>
 <td align="right"><b>6</b></td>
 <td align="right">2</td>
 <td>Dockerfile</td>
 </tr>
 <tr>
-<td align="right">57</td>
+<td align="right">47</td>
 <td><img src="https://github.com/bizzthemes.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bizzthemes/bizznis"><b>bizzthemes/bizznis</b></a></td>
 <td align="right"><b>6</b></td>
 <td align="right">1</td>
@@ -430,9 +360,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 6 stars; 57 attributed candidates are tracked.
-- 30 entries were carried over from the previous dataset and are pending revalidation.
-- 120 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 6 stars; 47 attributed candidates are tracked.
+- 16 entries were carried over from the previous dataset and are pending revalidation.
+- 115 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 220 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

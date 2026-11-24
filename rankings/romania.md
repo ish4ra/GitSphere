@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **97** | 03 Nov 2026 | <a href="../data/RO.json">JSON</a> |
-
-> **Not yet re-verified.** 10 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/RO.json">JSON</a> |
 
 </div>
 
@@ -634,73 +632,94 @@
 </tr>
 <tr>
 <td align="right">88</td>
-<td><img src="https://github.com/0-vortex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0-vortex/cf-workers-url-shortener"><b>0-vortex/cf-workers-url-shortener</b></a></td>
-<td align="right"><b>29</b></td>
-<td align="right">11</td>
-<td>Handlebars</td>
-</tr>
-<tr>
-<td align="right">89</td>
-<td><img src="https://github.com/vladfrangu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vladfrangu/SimplyStats"><b>vladfrangu/SimplyStats</b></a></td>
-<td align="right"><b>28</b></td>
-<td align="right">2</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">90</td>
-<td><img src="https://github.com/0xcryptosei.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0xcryptosei/robinhood-pons-sniping-bot"><b>0xcryptosei/robinhood-pons-sniping-bot</b></a></td>
-<td align="right"><b>22</b></td>
-<td align="right">3</td>
+<td><img src="https://github.com/imbaniac.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/imbaniac/awesome-blockchain"><b>imbaniac/awesome-blockchain</b></a><br><sub>Curated list of blockchain services and exchanges 🔥🏦🔥🏦🔥🏦🔥</sub></td>
+<td align="right"><b>895</b></td>
+<td align="right">169</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">91</td>
-<td><img src="https://github.com/Alexejhero.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Alexejhero/Neurosama-Subnautica-Mod"><b>Alexejhero/Neurosama-Subnautica-Mod</b></a> <sub>archived</sub></td>
-<td align="right"><b>20</b></td>
-<td align="right">9</td>
-<td>C#</td>
+<td align="right">89</td>
+<td><img src="https://github.com/invergent-ai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/invergent-ai/surogate"><b>invergent-ai/surogate</b></a><br><sub>Train and serve LLMs at extreme speed and massive throughput.</sub></td>
+<td align="right"><b>892</b></td>
+<td align="right">15</td>
+<td>C++</td>
 </tr>
 <tr>
-<td align="right">92</td>
-<td><img src="https://github.com/TOPDEV99999.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TOPDEV99999/AI-codepilot"><b>TOPDEV99999/AI-codepilot</b></a></td>
-<td align="right"><b>19</b></td>
-<td align="right">2</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">93</td>
-<td><img src="https://github.com/ltorje.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ltorje/XamarinWrapper"><b>ltorje/XamarinWrapper</b></a></td>
-<td align="right"><b>18</b></td>
-<td align="right">0</td>
-<td>Objective-C</td>
-</tr>
-<tr>
-<td align="right">94</td>
-<td><img src="https://github.com/razvand.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/razvand/snippets"><b>razvand/snippets</b></a></td>
-<td align="right"><b>17</b></td>
-<td align="right">3</td>
-<td>C</td>
-</tr>
-<tr>
-<td align="right">95</td>
-<td><img src="https://github.com/alexlobaza.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexlobaza/TikTokStreamingToolkit"><b>alexlobaza/TikTokStreamingToolkit</b></a></td>
-<td align="right"><b>13</b></td>
-<td align="right">2</td>
+<td align="right">90</td>
+<td><img src="https://github.com/alexnm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexnm/re-ducks"><b>alexnm/re-ducks</b></a><br><sub>An attempt to extend the original proposal for redux modular architecture: https://github.com/erikras/ducks-modular-red…</sub></td>
+<td align="right"><b>884</b></td>
+<td align="right">58</td>
 <td>JavaScript</td>
 </tr>
 <tr>
+<td align="right">91</td>
+<td><img src="https://github.com/ionelmc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ionelmc/python-hunter"><b>ionelmc/python-hunter</b></a><br><sub>Hunter is a flexible code tracing toolkit.</sub></td>
+<td align="right"><b>873</b></td>
+<td align="right">52</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/cubedro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cubedro/eth-netstats"><b>cubedro/eth-netstats</b></a><br><sub>Ethereum Network Stats</sub></td>
+<td align="right"><b>857</b></td>
+<td align="right">545</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/andreipfeiffer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/andreipfeiffer/css-in-js"><b>andreipfeiffer/css-in-js</b></a><br><sub>A thorough analysis of all the current CSS-in-JS solutions with SSR &amp; TypeScript support for Next.js</sub></td>
+<td align="right"><b>854</b></td>
+<td align="right">24</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/icflorescu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/icflorescu/trpc-sveltekit"><b>icflorescu/trpc-sveltekit</b></a><br><sub>End-to-end typesafe APIs with tRPC.io for your SvelteKit applications.</sub></td>
+<td align="right"><b>833</b></td>
+<td align="right">43</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/CanciuCostin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CanciuCostin/android-spyware"><b>CanciuCostin/android-spyware</b></a><br><sub>Rails c&amp;c web application for spying Android devices</sub></td>
+<td align="right"><b>823</b></td>
+<td align="right">191</td>
+<td>HTML</td>
+</tr>
+<tr>
 <td align="right">96</td>
-<td><img src="https://github.com/besciualex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/besciualex/FacebookPixelConversionApi"><b>besciualex/FacebookPixelConversionApi</b></a></td>
-<td align="right"><b>12</b></td>
-<td align="right">3</td>
-<td>PHP</td>
+<td><img src="https://github.com/cloudbase.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cloudbase/windows-imaging-tools"><b>cloudbase/windows-imaging-tools</b></a><br><sub>Tools to automate the creation of a Windows image for OpenStack, supporting KVM, Hyper-V, ESXi and more.</sub></td>
+<td align="right"><b>795</b></td>
+<td align="right">243</td>
+<td>PowerShell</td>
 </tr>
 <tr>
 <td align="right">97</td>
-<td><img src="https://github.com/lazarnarcis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lazarnarcis/chat"><b>lazarnarcis/chat</b></a></td>
-<td align="right"><b>11</b></td>
-<td align="right">1</td>
-<td>PHP</td>
+<td><img src="https://github.com/peterbuga.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/peterbuga/HASS-sonoff-ewelink"><b>peterbuga/HASS-sonoff-ewelink</b></a> <sub>archived</sub><br><sub>Home Assistant component to control Sonoff/eWeLink devices with original firmware</sub></td>
+<td align="right"><b>790</b></td>
+<td align="right">280</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/ClimenteA.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ClimenteA/flaskwebgui"><b>ClimenteA/flaskwebgui</b></a><br><sub>Create desktop applications with Flask/Django/FastAPI!</sub></td>
+<td align="right"><b>783</b></td>
+<td align="right">75</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/georgebrata.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/georgebrata/html-templates"><b>georgebrata/html-templates</b></a><br><sub>100 simple &amp; elegant HTML templates 💯</sub></td>
+<td align="right"><b>781</b></td>
+<td align="right">130</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/decebals.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/decebals/claude-code-java"><b>decebals/claude-code-java</b></a><br><sub>Reusable AI development infrastructure for Java projects, optimized for Claude Code</sub></td>
+<td align="right"><b>779</b></td>
+<td align="right">153</td>
+<td>Shell</td>
 </tr>
 </tbody>
 </table>
@@ -708,10 +727,9 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 11 stars; 97 attributed candidates are tracked.
-- 10 entries were carried over from the previous dataset and are pending revalidation.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 779 stars; 107 attributed candidates are tracked.
 - 122 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 154 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

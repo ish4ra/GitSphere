@@ -7,7 +7,7 @@
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
 "coverage": {"basis":"partial","cutoffFollowers":0,"candidates":39,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":30,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDOBnmBTw","login":"Lambdius","name":"Daniil","url":"https://github.com/Lambdius","avatarUrl":"https://avatars.githubusercontent.com/u/108626255?s=80&v=4","followers":29,"publicRepos":7,"location":"Kiribati","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":1,"id":"U_kgDOBnmBTw","login":"Lambdius","name":"Daniil","url":"https://github.com/Lambdius","avatarUrl":"https://avatars.githubusercontent.com/u/108626255?s=80&v=4","followers":30,"publicRepos":7,"location":"Kiribati","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":"U_kgDODrEtmQ","login":"bekarakaranabutae-oss","name":"KEVIN TAAKE","url":"https://github.com/bekarakaranabutae-oss","avatarUrl":"https://avatars.githubusercontent.com/u/246492569?s=80&v=4","followers":4,"publicRepos":20,"location":"Kiribati","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":3,"id":"U_kgDOC5MuJg","login":"hola2005kaikai","name":"Kaieata Ioane","url":"https://github.com/hola2005kaikai","avatarUrl":"https://avatars.githubusercontent.com/u/194194982?s=80&v=4","followers":1,"publicRepos":10,"location":"Kiribati, Tarawa","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":4,"id":"MDQ6VXNlcjc2NTYxMjQw","login":"jinxing150","name":"sky","url":"https://github.com/jinxing150","avatarUrl":"https://avatars.githubusercontent.com/u/76561240?s=80&v=4","followers":1,"publicRepos":2,"location":"Kiribati","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
@@ -17,7 +17,7 @@
   {"rank":8,"id":"U_kgDOBw_3kw","login":"truneosprinter","name":"truneosprinter","url":"https://github.com/truneosprinter","avatarUrl":"https://avatars.githubusercontent.com/u/118486931?s=80&v=4","followers":0,"publicRepos":28,"location":"London, Kiribati","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":9,"id":"U_kgDOBcoSPw","login":"Aj-Kazza","name":"Ari-John Katia","url":"https://github.com/Aj-Kazza","avatarUrl":"https://avatars.githubusercontent.com/u/97129023?s=80&v=4","followers":0,"publicRepos":16,"location":"Kiribati","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":10,"id":"MDQ6VXNlcjQ5MTI4OTQ0","login":"lepatriinukast","name":"Kala Kajakas","url":"https://github.com/lepatriinukast","avatarUrl":"https://avatars.githubusercontent.com/u/49128944?s=80&v=4","followers":0,"publicRepos":8,"location":"Tarawa, Kiribati","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
-  {"rank":11,"id":"MDQ6VXNlcjg5OTM4Ng==","login":"wreiher","name":"Wayne Reiher","url":"https://github.com/wreiher","avatarUrl":"https://avatars.githubusercontent.com/u/899386?s=80&v=4","followers":0,"publicRepos":5,"location":"Bairiki, Tarawa, Kiribati","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":11,"id":"MDQ6VXNlcjg5OTM4Ng==","login":"wreiher","name":"Wayne Reiher","url":"https://github.com/wreiher","avatarUrl":"https://avatars.githubusercontent.com/u/899386?s=80&v=4","followers":0,"publicRepos":5,"location":"Bairiki, Tarawa, Kiribati","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":12,"id":"U_kgDOCu0OKQ","login":"jojoramarsexypanda","name":null,"url":"https://github.com/jojoramarsexypanda","avatarUrl":"https://avatars.githubusercontent.com/u/183307817?s=80&v=4","followers":0,"publicRepos":4,"location":"Kiribati (KI)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":13,"id":"U_kgDOCu1l1A","login":"lagerredzilla","name":null,"url":"https://github.com/lagerredzilla","avatarUrl":"https://avatars.githubusercontent.com/u/183330260?s=80&v=4","followers":0,"publicRepos":4,"location":"Kiribati (KI)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":14,"id":"U_kgDOE7fbyA","login":"oricci27184","name":"Amelia","url":"https://github.com/oricci27184","avatarUrl":"https://avatars.githubusercontent.com/u/330816456?s=80&v=4","followers":0,"publicRepos":3,"location":"Nueva Kiribati","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
@@ -47,8 +47,8 @@
   {"rank":38,"id":"MDQ6VXNlcjc2OTI0NjE4","login":"tbenitera","name":"Tabokai Benitera","url":"https://github.com/tbenitera","avatarUrl":"https://avatars.githubusercontent.com/u/76924618?s=80&v=4","followers":0,"publicRepos":0,"location":"Kiribati","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":39,"id":"U_kgDODoGn2A","login":"xyyv","name":"cq","url":"https://github.com/xyyv","avatarUrl":"https://avatars.githubusercontent.com/u/243378136?s=80&v=4","followers":0,"publicRepos":0,"location":"Kiribati","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "30d3b9cd5513df9e",
-"updatedAt": "2026-11-24T01:31:49.018Z",
+"contentHash": "9178397b12079cef",
+"updatedAt": "2026-11-24T11:36:56.631Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T01:31:49.018Z"
+"generatedAt": "2026-11-24T11:36:56.631Z"
 }

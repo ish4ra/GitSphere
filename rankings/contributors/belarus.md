@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/BY.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/BY.json">JSON</a> |
 
 </div>
 
@@ -52,6 +52,15 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/wobqqq"><img src="https://avatars.githubusercontent.com/u/31685258?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wobqqq"><b>Sergey Zakharevich</b></a><br><sub>&#64;wobqqq · 270 followers</sub></td>
+<td align="right"><b>1,271</b></td>
+<td align="right">914</td>
+<td align="right">337</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/BEPb"><img src="https://avatars.githubusercontent.com/u/57312267?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BEPb"><b>Andrej Marinchenko</b></a><br><sub>&#64;BEPb · 28,618 followers</sub></td>
 <td align="right"><b>363</b></td>
 <td align="right">363</td>
@@ -60,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/YauhenKavalchuk"><img src="https://avatars.githubusercontent.com/u/13219936?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YauhenKavalchuk"><b>Yauhen Kavalchuk</b></a><br><sub>&#64;YauhenKavalchuk · 1,930 followers</sub></td>
 <td align="right"><b>249</b></td>
 <td align="right">248</td>
@@ -69,7 +78,16 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
+<td><a href="https://github.com/yzh44yzh"><img src="https://avatars.githubusercontent.com/u/460032?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yzh44yzh"><b>Yuri Zhloba</b></a><br><sub>&#64;yzh44yzh · 267 followers</sub></td>
+<td align="right"><b>165</b></td>
+<td align="right">146</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">14</td>
+</tr>
+<tr>
+<td align="right">8</td>
 <td><a href="https://github.com/nillerusr"><img src="https://avatars.githubusercontent.com/u/42746659?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nillerusr"><b>nillerusr</b></a><br><sub>&#64;nillerusr · 413 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">3</td>
@@ -78,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">9</td>
 <td><a href="https://github.com/Azimka228"><img src="https://avatars.githubusercontent.com/u/71658005?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Azimka228"><b>Dmitriy&#95;Andreevich</b></a><br><sub>&#64;Azimka228 · 1,203 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">0</td>
@@ -87,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">10</td>
 <td><a href="https://github.com/Apleon"><img src="https://avatars.githubusercontent.com/u/75485447?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Apleon"><b>Andrew Sharapov</b></a><br><sub>&#64;Apleon · 969 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
@@ -96,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">11</td>
 <td><a href="https://github.com/saldatCrus"><img src="https://avatars.githubusercontent.com/u/43013151?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/saldatCrus"><b>SaldatCrus Exe</b></a><br><sub>&#64;saldatCrus · 294 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
@@ -111,7 +129,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 11 of 404 discovered developers (393 awaiting measurement).
+- **Measured:** 13 of 404 discovered developers (391 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 159 in round 1.

@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **53** | 01 Nov 2026 | <a href="../data/LV.json">JSON</a> |
+| 🟠 Stale | **46** | 01 Nov 2026 | <a href="../data/LV.json">JSON</a> |
 
-> **Not yet re-verified.** 23 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 11 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -235,160 +235,111 @@
 </tr>
 <tr>
 <td align="right">31</td>
-<td><img src="https://github.com/daGrevis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/daGrevis/Dotfiles"><b>daGrevis/Dotfiles</b></a></td>
-<td align="right"><b>30</b></td>
-<td align="right">2</td>
-<td>Shell</td>
+<td><img src="https://github.com/puikinsh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/puikinsh/sufee-admin-dashboard"><b>puikinsh/sufee-admin-dashboard</b></a><br><sub>A simple yet powerful Bootstrap 5 admin dashboard template.</sub></td>
+<td align="right"><b>899</b></td>
+<td align="right">494</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td align="right">32</td>
-<td><img src="https://github.com/ar2rsawseen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ar2rsawseen/GiderosCodingEasy"><b>ar2rsawseen/GiderosCodingEasy</b></a></td>
-<td align="right"><b>27</b></td>
-<td align="right">6</td>
-<td>Lua</td>
+<td><img src="https://github.com/YahnisElsts.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/YahnisElsts/wp-update-server"><b>YahnisElsts/wp-update-server</b></a><br><sub>A custom update API for WordPress plugins and themes. Intended to be used in conjunction with my plugin-update-checker…</sub></td>
+<td align="right"><b>880</b></td>
+<td align="right">179</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">33</td>
-<td><img src="https://github.com/DEgITx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DEgITx/cpk"><b>DEgITx/cpk</b></a></td>
-<td align="right"><b>23</b></td>
-<td align="right">3</td>
-<td>C++</td>
+<td><img src="https://github.com/Kirlovon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Kirlovon/Tape-Operator"><b>Kirlovon/Tape-Operator</b></a><br><sub>Скрипт, превращающий IMDB, TMDB, Kinopoisk и Letterboxd в бесплатные онлайн - кинотеатры! 🎥</sub></td>
+<td align="right"><b>880</b></td>
+<td align="right">60</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">34</td>
-<td><img src="https://github.com/serzhshakur.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/serzhshakur/sanitarr"><b>serzhshakur/sanitarr</b></a></td>
-<td align="right"><b>21</b></td>
-<td align="right">5</td>
-<td>Rust</td>
+<td><img src="https://github.com/erica-synths.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/erica-synths/diy-eurorack"><b>erica-synths/diy-eurorack</b></a><br><sub>Erica Synths DIY Eurorack Modules</sub></td>
+<td align="right"><b>781</b></td>
+<td align="right">99</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">35</td>
-<td><img src="https://github.com/einars.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/einars/tiny-dropbox"><b>einars/tiny-dropbox</b></a> <sub>archived</sub></td>
-<td align="right"><b>20</b></td>
-<td align="right">5</td>
+<td><img src="https://github.com/ONLYOFFICE.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ONLYOFFICE/onlyoffice-nextcloud"><b>ONLYOFFICE/onlyoffice-nextcloud</b></a><br><sub>The app which enables the users to edit office documents from Nextcloud using ONLYOFFICE Document Server, allows multip…</sub></td>
+<td align="right"><b>762</b></td>
+<td align="right">206</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">36</td>
-<td><img src="https://github.com/TheWhisp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TheWhisp/android_device_samsung_msm7x27a-common"><b>TheWhisp/android&#95;device&#95;samsung&#95;msm7x27a-common</b></a></td>
-<td align="right"><b>19</b></td>
-<td align="right">42</td>
-<td>C++</td>
-</tr>
-<tr>
-<td align="right">37</td>
-<td><img src="https://github.com/tower9.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tower9/hostblock"><b>tower9/hostblock</b></a></td>
-<td align="right"><b>17</b></td>
-<td align="right">5</td>
-<td>C++</td>
-</tr>
-<tr>
-<td align="right">38</td>
-<td><img src="https://github.com/sierpito.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sierpito/demo-ormlite-with-sqlcipher"><b>sierpito/demo-ormlite-with-sqlcipher</b></a></td>
-<td align="right"><b>16</b></td>
-<td align="right">1</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">39</td>
-<td><img src="https://github.com/RobPz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RobPz/ets2-psp-dashboard"><b>RobPz/ets2-psp-dashboard</b></a></td>
-<td align="right"><b>15</b></td>
-<td align="right">0</td>
-<td>C++</td>
-</tr>
-<tr>
-<td align="right">40</td>
-<td><img src="https://github.com/Adhamura.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Adhamura/gitphin"><b>Adhamura/gitphin</b></a></td>
-<td align="right"><b>13</b></td>
-<td align="right">0</td>
-<td>C</td>
-</tr>
-<tr>
-<td align="right">41</td>
-<td><img src="https://github.com/petrenko-alex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/petrenko-alex/ar-nav"><b>petrenko-alex/ar-nav</b></a></td>
-<td align="right"><b>12</b></td>
-<td align="right">5</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">42</td>
-<td><img src="https://github.com/serbinskis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/serbinskis/delphi"><b>serbinskis/delphi</b></a></td>
-<td align="right"><b>12</b></td>
-<td align="right">3</td>
-<td>C</td>
-</tr>
-<tr>
-<td align="right">43</td>
 <td><img src="https://github.com/mx-alex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mx-alex/mx"><b>mx-alex/mx</b></a></td>
 <td align="right"><b>10</b></td>
 <td align="right">7</td>
 <td>ObjectScript</td>
 </tr>
 <tr>
-<td align="right">44</td>
+<td align="right">37</td>
 <td><img src="https://github.com/itsbonsaiborn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/itsbonsaiborn/vitepress-image-viewer"><b>itsbonsaiborn/vitepress-image-viewer</b></a></td>
 <td align="right"><b>10</b></td>
 <td align="right">4</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">45</td>
+<td align="right">38</td>
 <td><img src="https://github.com/karpusa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/karpusa/heroku-react-starter-kit"><b>karpusa/heroku-react-starter-kit</b></a></td>
 <td align="right"><b>10</b></td>
 <td align="right">4</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">46</td>
+<td align="right">39</td>
 <td><img src="https://github.com/LatvianModder.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LatvianModder/Gnome-Bot"><b>LatvianModder/Gnome-Bot</b></a></td>
 <td align="right"><b>9</b></td>
 <td align="right">3</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">47</td>
+<td align="right">40</td>
 <td><img src="https://github.com/oleg-andreyev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/oleg-andreyev/MinkPhpWebDriver"><b>oleg-andreyev/MinkPhpWebDriver</b></a></td>
 <td align="right"><b>8</b></td>
 <td align="right">9</td>
 <td>PHP</td>
 </tr>
 <tr>
-<td align="right">48</td>
+<td align="right">41</td>
 <td><img src="https://github.com/viks77.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/viks77/sire"><b>viks77/sire</b></a></td>
 <td align="right"><b>8</b></td>
 <td align="right">2</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">49</td>
+<td align="right">42</td>
 <td><img src="https://github.com/LightSrc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LightSrc/void-pilot"><b>LightSrc/void-pilot</b></a></td>
 <td align="right"><b>8</b></td>
 <td align="right">0</td>
 <td>Zig</td>
 </tr>
 <tr>
-<td align="right">50</td>
+<td align="right">43</td>
 <td><img src="https://github.com/bettercalltolya.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bettercalltolya/ComposeMultiplatformDemo"><b>bettercalltolya/ComposeMultiplatformDemo</b></a></td>
 <td align="right"><b>7</b></td>
 <td align="right">0</td>
 <td>Kotlin</td>
 </tr>
 <tr>
-<td align="right">51</td>
+<td align="right">44</td>
 <td><img src="https://github.com/jur4x.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jur4x/PHP7-memcahe-dll"><b>jur4x/PHP7-memcahe-dll</b></a></td>
 <td align="right"><b>7</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">52</td>
+<td align="right">45</td>
 <td><img src="https://github.com/andrisdru.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/andrisdru/E2Transcoder"><b>andrisdru/E2Transcoder</b></a></td>
 <td align="right"><b>6</b></td>
 <td align="right">4</td>
 <td>CSS</td>
 </tr>
 <tr>
-<td align="right">53</td>
+<td align="right">46</td>
 <td><img src="https://github.com/Peteris-Zvejnieks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Peteris-Zvejnieks/MHT-X"><b>Peteris-Zvejnieks/MHT-X</b></a></td>
 <td align="right"><b>5</b></td>
 <td align="right">3</td>
@@ -402,9 +353,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 5 stars; 53 attributed candidates are tracked.
-- 23 entries were carried over from the previous dataset and are pending revalidation.
-- 124 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 5 stars; 46 attributed candidates are tracked.
+- 11 entries were carried over from the previous dataset and are pending revalidation.
+- 123 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 136 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

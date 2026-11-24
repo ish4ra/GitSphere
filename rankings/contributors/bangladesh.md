@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/BD.json">JSON</a> |
+| 🟡 Provisional | **12** | 22 Nov 2026 | <a href="../../data/contributors/BD.json">JSON</a> |
 
 </div>
 
@@ -61,6 +61,15 @@
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/parvin528"><img src="https://avatars.githubusercontent.com/u/134922765?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/parvin528"><b>Parvin Akter</b></a><br><sub>&#64;parvin528 · 271 followers</sub></td>
+<td align="right"><b>887</b></td>
+<td align="right">422</td>
+<td align="right">178</td>
+<td align="right">18</td>
+<td align="right">162</td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/bdsazzad3"><img src="https://avatars.githubusercontent.com/u/67178661?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bdsazzad3"><b>Sazzad Chowdhury</b></a><br><sub>&#64;bdsazzad3 · 320 followers</sub></td>
 <td align="right"><b>879</b></td>
 <td align="right">418</td>
@@ -69,7 +78,7 @@
 <td align="right">168</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/farhan-nahid"><img src="https://avatars.githubusercontent.com/u/74184886?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/farhan-nahid"><b>Farhan Ahmed Nahid</b></a><br><sub>&#64;farhan-nahid · 285 followers</sub></td>
 <td align="right"><b>567</b></td>
 <td align="right">408</td>
@@ -78,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/abdulmazidakash"><img src="https://avatars.githubusercontent.com/u/148373644?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdulmazidakash"><b>Abdul Mazid Akash</b></a><br><sub>&#64;abdulmazidakash · 1,106 followers</sub></td>
 <td align="right"><b>298</b></td>
 <td align="right">279</td>
@@ -87,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/jamilxt"><img src="https://avatars.githubusercontent.com/u/18072164?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jamilxt"><b>Md Jamilur Rahman</b></a><br><sub>&#64;jamilxt · 429 followers</sub></td>
 <td align="right"><b>296</b></td>
 <td align="right">256</td>
@@ -96,7 +105,7 @@
 <td align="right">11</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/hasanmonsur"><img src="https://avatars.githubusercontent.com/u/10324303?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hasanmonsur"><b>Md. Hasan Monsur</b></a><br><sub>&#64;hasanmonsur · 566 followers</sub></td>
 <td align="right"><b>210</b></td>
 <td align="right">179</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/ferdouszihad"><img src="https://avatars.githubusercontent.com/u/38307975?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ferdouszihad"><b>Ferdous Zihad</b></a><br><sub>&#64;ferdouszihad · 932 followers</sub></td>
 <td align="right"><b>168</b></td>
 <td align="right">143</td>
@@ -114,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/mnishihan"><img src="https://avatars.githubusercontent.com/u/1173288?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mnishihan"><b>M N Islam Shihan</b></a><br><sub>&#64;mnishihan · 369 followers</sub></td>
 <td align="right"><b>65</b></td>
 <td align="right">64</td>
@@ -129,7 +138,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 11 of 641 discovered developers (630 awaiting measurement).
+- **Measured:** 13 of 689 discovered developers (676 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 173 in round 1.

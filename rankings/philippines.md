@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **50** | 02 Nov 2026 | <a href="../data/PH.json">JSON</a> |
+| 🟠 Stale | **48** | 02 Nov 2026 | <a href="../data/PH.json">JSON</a> |
 
-> **Not yet re-verified.** 17 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 7 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -256,118 +256,104 @@
 </tr>
 <tr>
 <td align="right">34</td>
-<td><img src="https://github.com/rodrigogalura.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rodrigogalura/tuner"><b>rodrigogalura/tuner</b></a></td>
-<td align="right"><b>30</b></td>
-<td align="right">2</td>
-<td>PHP</td>
+<td><img src="https://github.com/sejjy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sejjy/mechabar"><b>sejjy/mechabar</b></a><br><sub>A mecha-themed Waybar configuration</sub></td>
+<td align="right"><b>888</b></td>
+<td align="right">77</td>
+<td>CSS</td>
 </tr>
 <tr>
 <td align="right">35</td>
-<td><img src="https://github.com/Evolution-X-AOSP.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Evolution-X-AOSP/vendor_evolution"><b>Evolution-X-AOSP/vendor&#95;evolution</b></a> <sub>archived</sub></td>
-<td align="right"><b>28</b></td>
-<td align="right">60</td>
-<td>Makefile</td>
+<td><img src="https://github.com/yajra.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yajra/laravel-oci8"><b>yajra/laravel-oci8</b></a><br><sub>Oracle DB driver for Laravel via OCI8</sub></td>
+<td align="right"><b>872</b></td>
+<td align="right">245</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">36</td>
-<td><img src="https://github.com/Hazy019.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Hazy019/youtube-shorts-automation"><b>Hazy019/youtube-shorts-automation</b></a></td>
-<td align="right"><b>27</b></td>
-<td align="right">1</td>
-<td>Python</td>
+<td><img src="https://github.com/kosinix.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kosinix/grafika"><b>kosinix/grafika</b></a><br><sub>An image processing library for PHP</sub></td>
+<td align="right"><b>866</b></td>
+<td align="right">93</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">37</td>
-<td><img src="https://github.com/Etriii.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Etriii/Etriii"><b>Etriii/Etriii</b></a></td>
-<td align="right"><b>17</b></td>
-<td align="right">2</td>
-<td>—</td>
+<td><img src="https://github.com/smoochiee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/smoochiee/Noisy-boy-esp32-Bluetooth-jammer"><b>smoochiee/Noisy-boy-esp32-Bluetooth-jammer</b></a><br><sub>Bluetooth jammer using esp32 with webserver</sub></td>
+<td align="right"><b>841</b></td>
+<td align="right">91</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td align="right">38</td>
-<td><img src="https://github.com/joebertcerezo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/joebertcerezo/NS-Todolist"><b>joebertcerezo/NS-Todolist</b></a></td>
-<td align="right"><b>17</b></td>
-<td align="right">1</td>
-<td>Vue</td>
+<td><img src="https://github.com/jksalcedo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jksalcedo/librefind"><b>jksalcedo/librefind</b></a><br><sub>Discover and replace proprietary apps with FOSS alternatives</sub></td>
+<td align="right"><b>830</b></td>
+<td align="right">21</td>
+<td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">39</td>
-<td><img src="https://github.com/RyannKim327.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RyannKim327/UltimateGuitar-Project"><b>RyannKim327/UltimateGuitar-Project</b></a></td>
-<td align="right"><b>13</b></td>
-<td align="right">1</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/angelofallars.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/angelofallars/htmx-go"><b>angelofallars/htmx-go</b></a><br><sub>&lt;/&gt; Build awesome HTMX + Go projects faster.</sub></td>
+<td align="right"><b>806</b></td>
+<td align="right">22</td>
+<td>Go</td>
 </tr>
 <tr>
 <td align="right">40</td>
-<td><img src="https://github.com/mart-anthony-stark.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mart-anthony-stark/Unnamed.js"><b>mart-anthony-stark/Unnamed.js</b></a></td>
-<td align="right"><b>13</b></td>
-<td align="right">0</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/jantinnerezo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jantinnerezo/livewire-alert"><b>jantinnerezo/livewire-alert</b></a><br><sub>SweetAlert2 integration for Livewire</sub></td>
+<td align="right"><b>804</b></td>
+<td align="right">89</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">41</td>
-<td><img src="https://github.com/jrgabrillo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jrgabrillo/lectures"><b>jrgabrillo/lectures</b></a></td>
-<td align="right"><b>12</b></td>
-<td align="right">7</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">42</td>
-<td><img src="https://github.com/JophilGulane.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JophilGulane/Learn-Data-Structures-and-Algorithms"><b>JophilGulane/Learn-Data-Structures-and-Algorithms</b></a></td>
-<td align="right"><b>12</b></td>
-<td align="right">2</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">43</td>
-<td><img src="https://github.com/Gerald200422.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Gerald200422/Gerald200422"><b>Gerald200422/Gerald200422</b></a></td>
-<td align="right"><b>12</b></td>
-<td align="right">0</td>
+<td><img src="https://github.com/qxb3.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/qxb3/conf"><b>qxb3/conf</b></a><br><sub>My hyprland configurations</sub></td>
+<td align="right"><b>803</b></td>
+<td align="right">16</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">44</td>
+<td align="right">42</td>
 <td><img src="https://github.com/lucifron28.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lucifron28/lucifron28"><b>lucifron28/lucifron28</b></a></td>
 <td align="right"><b>10</b></td>
 <td align="right">1</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">45</td>
+<td align="right">43</td>
 <td><img src="https://github.com/Dojikooo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Dojikooo/Badges"><b>Dojikooo/Badges</b></a></td>
 <td align="right"><b>9</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">46</td>
+<td align="right">44</td>
 <td><img src="https://github.com/aldrin112602.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aldrin112602/aldrin112602"><b>aldrin112602/aldrin112602</b></a></td>
 <td align="right"><b>8</b></td>
 <td align="right">4</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">47</td>
+<td align="right">45</td>
 <td><img src="https://github.com/gpbaculio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gpbaculio/rgr"><b>gpbaculio/rgr</b></a></td>
 <td align="right"><b>8</b></td>
 <td align="right">0</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">48</td>
+<td align="right">46</td>
 <td><img src="https://github.com/ianpurif.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ianpurif/Calculator-using-PHP"><b>ianpurif/Calculator-using-PHP</b></a></td>
 <td align="right"><b>8</b></td>
 <td align="right">0</td>
 <td>PHP</td>
 </tr>
 <tr>
-<td align="right">49</td>
+<td align="right">47</td>
 <td><img src="https://github.com/bonezegei.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bonezegei/Bonezegei-SMS"><b>bonezegei/Bonezegei-SMS</b></a></td>
 <td align="right"><b>7</b></td>
 <td align="right">2</td>
 <td>PHP</td>
 </tr>
 <tr>
-<td align="right">50</td>
+<td align="right">48</td>
 <td><img src="https://github.com/mjoshua97241.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mjoshua97241/finstream-market-risk-data-platform"><b>mjoshua97241/finstream-market-risk-data-platform</b></a></td>
 <td align="right"><b>7</b></td>
 <td align="right">0</td>
@@ -381,9 +367,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 7 stars; 50 attributed candidates are tracked.
-- 17 entries were carried over from the previous dataset and are pending revalidation.
-- 131 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 7 stars; 48 attributed candidates are tracked.
+- 7 entries were carried over from the previous dataset and are pending revalidation.
+- 128 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 210 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

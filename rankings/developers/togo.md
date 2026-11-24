@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/developers/TG.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/developers/TG.json">JSON</a> |
 
 </div>
 
@@ -44,24 +44,38 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/Abdou-Jabar"><img src="https://avatars.githubusercontent.com/u/151407343?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abdou-Jabar"><b>ᴀʙᴅᴏᴜ-ᴊᴀʙᴀʀ MIKAILOU</b></a><br><sub>&#64;Abdou-Jabar</sub></td>
+<td align="right"><b>15</b></td>
+<td align="right">19</td>
+<td><sub>Togo</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/70-DIDIER"><img src="https://avatars.githubusercontent.com/u/175624265?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/70-DIDIER"><b>guinwogbegno koffi</b></a><br><sub>&#64;70-DIDIER</sub></td>
 <td align="right"><b>13</b></td>
 <td align="right">95</td>
 <td><sub>Lomé Togo</sub></td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/0xbignuel"><img src="https://avatars.githubusercontent.com/u/148920180?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xbignuel"><b>Emmanuel AHIABOR</b></a><br><sub>&#64;0xbignuel</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">20</td>
 <td><sub>Cacaveli, Lomé-TOGO</sub></td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/19r3ka"><img src="https://avatars.githubusercontent.com/u/8618002?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/19r3ka"><b>Yem Ahiatsi</b></a><br><sub>&#64;19r3ka</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">15</td>
 <td><sub>Togo</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/abdoulridwan2-commits"><img src="https://avatars.githubusercontent.com/u/260905446?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdoulridwan2-commits"><b>Abdoulaye ridwan</b></a><br><sub>&#64;abdoulridwan2-commits</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">44</td>
+<td><sub>Kara, Togo</sub></td>
 </tr>
 </tbody>
 </table>
@@ -71,8 +85,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 6 attributed developers are tracked; the cutoff is 1 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 8 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 0 of 37 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/developers/PS.json">JSON</a> |
+| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/developers/PS.json">JSON</a> |
 
 </div>
 
@@ -58,13 +58,34 @@
 </tr>
 <tr>
 <td align="right">6</td>
+<td><a href="https://github.com/izadoesdev"><img src="https://avatars.githubusercontent.com/u/59828082?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/izadoesdev"><b>iza</b></a><br><sub>&#64;izadoesdev</sub></td>
+<td align="right"><b>273</b></td>
+<td align="right">62</td>
+<td><sub>Palestine</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/Hadi-Badran"><img src="https://avatars.githubusercontent.com/u/188059273?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hadi-Badran"><b>Hadi Badran</b></a><br><sub>&#64;Hadi-Badran</sub></td>
+<td align="right"><b>273</b></td>
+<td align="right">11</td>
+<td><sub>Palestine-Tulkarm</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/skmail"><img src="https://avatars.githubusercontent.com/u/3670810?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/skmail"><b>skmail</b></a><br><sub>&#64;skmail</sub></td>
+<td align="right"><b>107</b></td>
+<td align="right">0</td>
+<td><sub>Palestine</sub></td>
+</tr>
+<tr>
+<td align="right">9</td>
 <td><a href="https://github.com/11abed"><img src="https://avatars.githubusercontent.com/u/96492041?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/11abed"><b>GOLDEN ROCK GROUP</b></a><br><sub>&#64;11abed</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">27</td>
 <td><sub>Palestine</sub></td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">10</td>
 <td><a href="https://github.com/1242890-pixel"><img src="https://avatars.githubusercontent.com/u/294304798?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/1242890-pixel"><b>ahmed idkadiek</b></a><br><sub>&#64;1242890-pixel</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">9</td>
@@ -78,7 +99,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 7 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 10 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 141 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

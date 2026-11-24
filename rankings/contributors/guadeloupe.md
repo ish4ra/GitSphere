@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/GP.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/GP.json">JSON</a> |
 
 </div>
 
@@ -68,6 +68,24 @@
 <td align="right">0</td>
 <td align="right">3</td>
 </tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/ntxsay"><img src="https://avatars.githubusercontent.com/u/39699697?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ntxsay"><b>Loïc Bastaraud</b></a><br><sub>&#64;ntxsay · 1 followers</sub></td>
+<td align="right"><b>26</b></td>
+<td align="right">22</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/owatte"><img src="https://avatars.githubusercontent.com/u/991136?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/owatte"><b>Oliver Watte</b></a><br><sub>&#64;owatte · 12 followers</sub></td>
+<td align="right"><b>3</b></td>
+<td align="right">0</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
 </tbody>
 </table>
 
@@ -75,7 +93,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 9 of 259 discovered developers (250 awaiting measurement).
+- **Measured:** 11 of 259 discovered developers (248 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 25 in round 1.

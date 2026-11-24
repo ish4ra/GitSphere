@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/TW.json">JSON</a> |
+| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/TW.json">JSON</a> |
 
 </div>
 
@@ -61,6 +61,24 @@
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/JacobLinCool"><img src="https://avatars.githubusercontent.com/u/28478594?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JacobLinCool"><b>JacobLinCool</b></a><br><sub>&#64;JacobLinCool · 467 followers</sub></td>
+<td align="right"><b>2,395</b></td>
+<td align="right">1,931</td>
+<td align="right">227</td>
+<td align="right">11</td>
+<td align="right">156</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/c9s"><img src="https://avatars.githubusercontent.com/u/50894?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/c9s"><b>c9s</b></a><br><sub>&#64;c9s · 2,775 followers</sub></td>
+<td align="right"><b>962</b></td>
+<td align="right">471</td>
+<td align="right">112</td>
+<td align="right">373</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/kkpan11"><img src="https://avatars.githubusercontent.com/u/3894279?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kkpan11"><b>Gianni Hong</b></a><br><sub>&#64;kkpan11 · 413 followers</sub></td>
 <td align="right"><b>422</b></td>
 <td align="right">325</td>
@@ -69,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">8</td>
 <td><a href="https://github.com/strategist922"><img src="https://avatars.githubusercontent.com/u/2128570?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/strategist922"><b>James Chang</b></a><br><sub>&#64;strategist922 · 919 followers</sub></td>
 <td align="right"><b>103</b></td>
 <td align="right">0</td>
@@ -78,7 +96,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">9</td>
 <td><a href="https://github.com/brucetsao"><img src="https://avatars.githubusercontent.com/u/5723009?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brucetsao"><b>建國老師</b></a><br><sub>&#64;brucetsao · 394 followers</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">65</td>
@@ -93,10 +111,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 7 of 629 discovered developers (622 awaiting measurement).
+- **Measured:** 9 of 674 discovered developers (665 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 57 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **20** | 22 Nov 2026 | <a href="../../data/developers/BY.json">JSON</a> |
+| 🟡 Provisional | **23** | 22 Nov 2026 | <a href="../../data/developers/BY.json">JSON</a> |
 
 </div>
 
@@ -100,62 +100,83 @@
 </tr>
 <tr>
 <td align="right">12</td>
-<td><a href="https://github.com/ermig1979"><img src="https://avatars.githubusercontent.com/u/11633100?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ermig1979"><b>Ihar Yermalayeu</b></a><br><sub>&#64;ermig1979</sub></td>
-<td align="right"><b>255</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/wobqqq"><img src="https://avatars.githubusercontent.com/u/31685258?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wobqqq"><b>Sergey Zakharevich</b></a><br><sub>&#64;wobqqq</sub></td>
+<td align="right"><b>270</b></td>
+<td align="right">21</td>
 <td><sub>Minsk, Belarus</sub></td>
 </tr>
 <tr>
 <td align="right">13</td>
+<td><a href="https://github.com/yzh44yzh"><img src="https://avatars.githubusercontent.com/u/460032?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yzh44yzh"><b>Yuri Zhloba</b></a><br><sub>&#64;yzh44yzh</sub></td>
+<td align="right"><b>267</b></td>
+<td align="right">18</td>
+<td><sub>Minsk, Belarus</sub></td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><a href="https://github.com/ermig1979"><img src="https://avatars.githubusercontent.com/u/11633100?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ermig1979"><b>Ihar Yermalayeu</b></a><br><sub>&#64;ermig1979</sub></td>
+<td align="right"><b>256</b></td>
+<td align="right">11</td>
+<td><sub>Minsk, Belarus</sub></td>
+</tr>
+<tr>
+<td align="right">15</td>
 <td><a href="https://github.com/asaskevich"><img src="https://avatars.githubusercontent.com/u/5049590?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asaskevich"><b>Aliaksei (Alex) Saskevich</b></a><br><sub>&#64;asaskevich</sub></td>
 <td align="right"><b>187</b></td>
 <td align="right">0</td>
 <td><sub>Belarus</sub></td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">16</td>
 <td><a href="https://github.com/dillidon"><img src="https://avatars.githubusercontent.com/u/7115804?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dillidon"><b>RV</b></a><br><sub>&#64;dillidon</sub></td>
 <td align="right"><b>185</b></td>
 <td align="right">0</td>
 <td><sub>Belarus</sub></td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">17</td>
+<td><a href="https://github.com/Duff89"><img src="https://avatars.githubusercontent.com/u/66443222?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Duff89"><b>Serhey Davydovich</b></a><br><sub>&#64;Duff89</sub></td>
+<td align="right"><b>175</b></td>
+<td align="right">0</td>
+<td><sub>Brest Belarus</sub></td>
+</tr>
+<tr>
+<td align="right">18</td>
 <td><a href="https://github.com/alexzhirkevich"><img src="https://avatars.githubusercontent.com/u/63979218?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexzhirkevich"><b>Alexander Zhirkevich</b></a><br><sub>&#64;alexzhirkevich</sub></td>
 <td align="right"><b>164</b></td>
 <td align="right">0</td>
 <td><sub>Belarus, Minsk</sub></td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">19</td>
 <td><a href="https://github.com/barbushin"><img src="https://avatars.githubusercontent.com/u/683352?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/barbushin"><b>Sergey</b></a><br><sub>&#64;barbushin</sub></td>
 <td align="right"><b>154</b></td>
 <td align="right">0</td>
 <td><sub>Belarus</sub></td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">20</td>
 <td><a href="https://github.com/Mixaill"><img src="https://avatars.githubusercontent.com/u/704382?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mixaill"><b>Mikhail Paulyshka</b></a><br><sub>&#64;Mixaill</sub></td>
 <td align="right"><b>134</b></td>
 <td align="right">0</td>
 <td><sub>Minsk, Belarus</sub></td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">21</td>
 <td><a href="https://github.com/staniel359"><img src="https://avatars.githubusercontent.com/u/18214933?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/staniel359"><b>Aleksey Shpakovsky</b></a><br><sub>&#64;staniel359</sub></td>
 <td align="right"><b>83</b></td>
 <td align="right">0</td>
 <td><sub>Minsk, Belarus</sub></td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">22</td>
 <td><a href="https://github.com/zhiburt"><img src="https://avatars.githubusercontent.com/u/20165848?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zhiburt"><b>Maxim Zhiburt</b></a><br><sub>&#64;zhiburt</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">0</td>
 <td><sub>Belarus</sub></td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">23</td>
 <td><a href="https://github.com/ptrofimov"><img src="https://avatars.githubusercontent.com/u/867178?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ptrofimov"><b>Peter</b></a><br><sub>&#64;ptrofimov</sub></td>
 <td align="right"><b>60</b></td>
 <td align="right">0</td>
@@ -169,7 +190,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 20 attributed developers are tracked; the cutoff is 60 followers.
+- Organizations are excluded. 23 attributed developers are tracked; the cutoff is 60 followers.
 - **Location discovery:** term 0 of 159 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

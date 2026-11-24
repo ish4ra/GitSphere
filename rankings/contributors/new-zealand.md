@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/NZ.json">JSON</a> |
+| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/NZ.json">JSON</a> |
 
 </div>
 
@@ -34,6 +34,15 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/ndbroadbent"><img src="https://avatars.githubusercontent.com/u/139536?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ndbroadbent"><b>Nathan Broadbent</b></a><br><sub>&#64;ndbroadbent · 361 followers</sub></td>
+<td align="right"><b>3,719</b></td>
+<td align="right">3,350</td>
+<td align="right">219</td>
+<td align="right">2</td>
+<td align="right">98</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/AmirulAndalib"><img src="https://avatars.githubusercontent.com/u/86344856?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AmirulAndalib"><b>M Amirul</b></a><br><sub>&#64;AmirulAndalib · 471 followers</sub></td>
 <td align="right"><b>1,877</b></td>
 <td align="right">1,719</td>
@@ -42,8 +51,8 @@
 <td align="right">5</td>
 </tr>
 <tr>
-<td align="right">3</td>
-<td><a href="https://github.com/RichardLitt"><img src="https://avatars.githubusercontent.com/u/910753?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RichardLitt"><b>Richard Littauer</b></a><br><sub>&#64;RichardLitt · 3,492 followers</sub></td>
+<td align="right">4</td>
+<td><a href="https://github.com/RichardLitt"><img src="https://avatars.githubusercontent.com/u/910753?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RichardLitt"><b>Richard Littauer</b></a><br><sub>&#64;RichardLitt · 3,497 followers</sub></td>
 <td align="right"><b>1,825</b></td>
 <td align="right">1,277</td>
 <td align="right">366</td>
@@ -51,7 +60,7 @@
 <td align="right">162</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/ahdinosaur"><img src="https://avatars.githubusercontent.com/u/719605?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahdinosaur"><b>Mikey</b></a><br><sub>&#64;ahdinosaur · 664 followers</sub></td>
 <td align="right"><b>699</b></td>
 <td align="right">559</td>
@@ -60,7 +69,7 @@
 <td align="right">50</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/Richienb"><img src="https://avatars.githubusercontent.com/u/29491356?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Richienb"><b>Richie Bendall</b></a><br><sub>&#64;Richienb · 431 followers</sub></td>
 <td align="right"><b>141</b></td>
 <td align="right">38</td>
@@ -75,7 +84,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 7 of 499 discovered developers (492 awaiting measurement).
+- **Measured:** 9 of 520 discovered developers (511 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 123 in round 1.

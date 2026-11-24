@@ -123,7 +123,7 @@
 <td align="right">15</td>
 <td><a href="https://github.com/bruxx-6243"><img src="https://avatars.githubusercontent.com/u/81830567?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bruxx-6243"><b>Fariol Blondeau</b></a><br><sub>&#64;bruxx-6243</sub></td>
 <td align="right"><b>18</b></td>
-<td align="right">55</td>
+<td align="right">56</td>
 <td><sub>Brazzaville - Congo</sub></td>
 </tr>
 <tr>
@@ -340,7 +340,7 @@
 <td align="right">46</td>
 <td><a href="https://github.com/nathan-lopez-code"><img src="https://avatars.githubusercontent.com/u/80732671?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nathan-lopez-code"><b>nathan lopez</b></a><br><sub>&#64;nathan-lopez-code</sub></td>
 <td align="right"><b>4</b></td>
-<td align="right">56</td>
+<td align="right">57</td>
 <td><sub>Congo DR</sub></td>
 </tr>
 <tr>

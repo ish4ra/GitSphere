@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **309** | 22 Nov 2026 | <a href="../../data/developers/GN.json">JSON</a> |
+| 🟡 Provisional | **310** | 22 Nov 2026 | <a href="../../data/developers/GN.json">JSON</a> |
 
 </div>
 
@@ -2109,76 +2109,83 @@
 </tr>
 <tr>
 <td align="right">299</td>
+<td><a href="https://github.com/md0883626-sudo"><img src="https://avatars.githubusercontent.com/u/330873987?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/md0883626-sudo"><b>ETS H.T.S</b></a><br><sub>&#64;md0883626-sudo</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Matam, Route du Niger, Etage Dalaba, Conakry, G…</sub></td>
+</tr>
+<tr>
+<td align="right">300</td>
 <td><a href="https://github.com/MMF290"><img src="https://avatars.githubusercontent.com/u/216975195?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MMF290"><b>Morizio Feugas</b></a><br><sub>&#64;MMF290</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Conakry, Guinée</sub></td>
 </tr>
 <tr>
-<td align="right">300</td>
+<td align="right">301</td>
 <td><a href="https://github.com/moussandaw"><img src="https://avatars.githubusercontent.com/u/146111508?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/moussandaw"><b>moussandaw</b></a><br><sub>&#64;moussandaw</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">301</td>
+<td align="right">302</td>
 <td><a href="https://github.com/MSamirDiallo"><img src="https://avatars.githubusercontent.com/u/122014202?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MSamirDiallo"><b>DIALLO Thierno Amadou</b></a><br><sub>&#64;MSamirDiallo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">302</td>
+<td align="right">303</td>
 <td><a href="https://github.com/OziasIsMe"><img src="https://avatars.githubusercontent.com/u/145219215?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OziasIsMe"><b>Ozias</b></a><br><sub>&#64;OziasIsMe</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">303</td>
+<td align="right">304</td>
 <td><a href="https://github.com/QAM2022"><img src="https://avatars.githubusercontent.com/u/97669044?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/QAM2022"><b>Qam Token</b></a><br><sub>&#64;QAM2022</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">304</td>
+<td align="right">305</td>
 <td><a href="https://github.com/rabbit-nextjs-codev3"><img src="https://avatars.githubusercontent.com/u/277021606?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rabbit-nextjs-codev3"><b>Code&#95;NextJS&#95;Rabbit</b></a><br><sub>&#64;rabbit-nextjs-codev3</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinea-Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">305</td>
+<td align="right">306</td>
 <td><a href="https://github.com/Ralph197-hub"><img src="https://avatars.githubusercontent.com/u/185059583?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ralph197-hub"><b>Alpha&#95;C28</b></a><br><sub>&#64;Ralph197-hub</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>conakry</sub></td>
 </tr>
 <tr>
-<td align="right">306</td>
+<td align="right">307</td>
 <td><a href="https://github.com/samuel224-dev"><img src="https://avatars.githubusercontent.com/u/264172720?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/samuel224-dev"><b>Samuel destin</b></a><br><sub>&#64;samuel224-dev</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinée, Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">307</td>
+<td align="right">308</td>
 <td><a href="https://github.com/Smnils"><img src="https://avatars.githubusercontent.com/u/52842326?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Smnils"><b>Hakim Konaté</b></a><br><sub>&#64;Smnils</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">308</td>
+<td align="right">309</td>
 <td><a href="https://github.com/dkjalindu-prog"><img src="https://avatars.githubusercontent.com/u/230053916?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dkjalindu-prog"><b>JALINDU IT SERVICE</b></a><br><sub>&#64;dkjalindu-prog</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Goroka Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">309</td>
+<td align="right">310</td>
 <td><a href="https://github.com/yuhtechmultiservices-rgb"><img src="https://avatars.githubusercontent.com/u/253055868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yuhtechmultiservices-rgb"><b>YUHTECH-MULTISERVICES</b></a><br><sub>&#64;yuhtechmultiservices-rgb</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -2192,7 +2199,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 309 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 310 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 76 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

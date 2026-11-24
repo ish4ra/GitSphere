@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/MC.json">JSON</a> |
+| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/MC.json">JSON</a> |
 
 </div>
 
@@ -34,6 +34,15 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/itsmonaco666"><img src="https://avatars.githubusercontent.com/u/227145412?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/itsmonaco666"><b>Monaco</b></a><br><sub>&#64;itsmonaco666 · 1 followers</sub></td>
+<td align="right"><b>77</b></td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/0kxs"><img src="https://avatars.githubusercontent.com/u/246989939?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0kxs"><b>942</b></a><br><sub>&#64;0kxs · 0 followers</sub></td>
 <td align="right"><b>53</b></td>
 <td align="right">49</td>
@@ -42,7 +51,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/100020001"><img src="https://avatars.githubusercontent.com/u/33481047?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/100020001"><b>Wh1z</b></a><br><sub>&#64;100020001 · 0 followers</sub></td>
 <td align="right"><b>52</b></td>
 <td align="right">50</td>
@@ -51,7 +60,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/0xharuwndr"><img src="https://avatars.githubusercontent.com/u/241241589?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xharuwndr"><b>Haru</b></a><br><sub>&#64;0xharuwndr · 0 followers</sub></td>
 <td align="right"><b>13</b></td>
 <td align="right">8</td>
@@ -66,7 +75,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 7 of 327 discovered developers (320 awaiting measurement).
+- **Measured:** 9 of 327 discovered developers (318 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 23 in round 1.

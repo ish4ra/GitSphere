@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/developers/TZ.json">JSON</a> |
+| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/developers/TZ.json">JSON</a> |
 
 </div>
 
@@ -52,7 +52,7 @@
 <tr>
 <td align="right">5</td>
 <td><a href="https://github.com/avict18"><img src="https://avatars.githubusercontent.com/u/153264648?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/avict18"><b>Aaron Vic</b></a><br><sub>&#64;avict18</sub></td>
-<td align="right"><b>1,038</b></td>
+<td align="right"><b>1,036</b></td>
 <td align="right">48</td>
 <td><sub>Tanzania</sub></td>
 </tr>
@@ -107,6 +107,13 @@
 </tr>
 <tr>
 <td align="right">13</td>
+<td><a href="https://github.com/UtpalCoding"><img src="https://avatars.githubusercontent.com/u/130042688?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/UtpalCoding"><b>Utpal Coding</b></a><br><sub>&#64;UtpalCoding</sub></td>
+<td align="right"><b>266</b></td>
+<td align="right">17</td>
+<td><sub>Nasa</sub></td>
+</tr>
+<tr>
+<td align="right">14</td>
 <td><a href="https://github.com/thysultan"><img src="https://avatars.githubusercontent.com/u/810601?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thysultan"><b>Sultan</b></a><br><sub>&#64;thysultan</sub></td>
 <td align="right"><b>179</b></td>
 <td align="right">0</td>
@@ -120,8 +127,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 13 attributed developers are tracked; the cutoff is 179 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 14 attributed developers are tracked; the cutoff is 179 followers.
+- **Location discovery:** term 0 of 145 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

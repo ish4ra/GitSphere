@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **45** | 22 Nov 2026 | <a href="../data/RS.json">JSON</a> |
+| 🟡 Provisional | **58** | 22 Nov 2026 | <a href="../data/RS.json">JSON</a> |
 
 </div>
 
@@ -336,6 +336,97 @@
 <td align="right">175</td>
 <td>—</td>
 </tr>
+<tr>
+<td align="right">46</td>
+<td><img src="https://github.com/namishh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/namishh/crystal"><b>namishh/crystal</b></a><br><sub>nix dotfiles for chilly people</sub></td>
+<td align="right"><b>890</b></td>
+<td align="right">21</td>
+<td>Nix</td>
+</tr>
+<tr>
+<td align="right">47</td>
+<td><img src="https://github.com/vtr0n.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vtr0n/TelegramTUI"><b>vtr0n/TelegramTUI</b></a><br><sub>Telegram client on your terminal</sub></td>
+<td align="right"><b>858</b></td>
+<td align="right">70</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><img src="https://github.com/YuriSizov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/YuriSizov/boscaceoil-blue"><b>YuriSizov/boscaceoil-blue</b></a><br><sub>A beginner-friendly music making app.</sub></td>
+<td align="right"><b>844</b></td>
+<td align="right">42</td>
+<td>GDScript</td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><img src="https://github.com/gemini-testing.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gemini-testing/testplane"><b>gemini-testing/testplane</b></a><br><sub>Testplane (ex-hermione) browser test runner based on mocha and wdio</sub></td>
+<td align="right"><b>834</b></td>
+<td align="right">80</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><img src="https://github.com/gemini-testing.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gemini-testing/looks-same"><b>gemini-testing/looks-same</b></a><br><sub>Node.js library for comparing images</sub></td>
+<td align="right"><b>827</b></td>
+<td align="right">55</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">51</td>
+<td><img src="https://github.com/volotat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/volotat/SD-CN-Animation"><b>volotat/SD-CN-Animation</b></a><br><sub>This script allows to automate video stylization task using StableDiffusion and ControlNet.</sub></td>
+<td align="right"><b>822</b></td>
+<td align="right">64</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><img src="https://github.com/gorangajic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gorangajic/react-svg-morph"><b>gorangajic/react-svg-morph</b></a> <sub>archived</sub><br><sub>:crystal&#95;ball: morph your svg component one into another other</sub></td>
+<td align="right"><b>819</b></td>
+<td align="right">46</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><img src="https://github.com/kristijanhusak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kristijanhusak/vim-dadbod-completion"><b>kristijanhusak/vim-dadbod-completion</b></a><br><sub>Database autocompletion powered by https://github.com/tpope/vim-dadbod</sub></td>
+<td align="right"><b>802</b></td>
+<td align="right">42</td>
+<td>Vim Script</td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><img src="https://github.com/radianttap.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/radianttap/CardPresentationController"><b>radianttap/CardPresentationController</b></a> <sub>archived</sub><br><sub>Custom UIPresentationController which mimics the behavior of Apple Music UI</sub></td>
+<td align="right"><b>788</b></td>
+<td align="right">40</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/stefanpejcic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stefanpejcic/OpenPanel"><b>stefanpejcic/OpenPanel</b></a><br><sub>Open source web hosting control panel built around containers ✌️</sub></td>
+<td align="right"><b>781</b></td>
+<td align="right">117</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><img src="https://github.com/mr-fatalyst.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mr-fatalyst/oxyde"><b>mr-fatalyst/oxyde</b></a><br><sub>Oxyde ORM is a type-safe, Pydantic-centric asynchronous ORM with a high-performance Rust core designed for clarity, spe…</sub></td>
+<td align="right"><b>780</b></td>
+<td align="right">16</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><img src="https://github.com/nemanja-m.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nemanja-m/gaps"><b>nemanja-m/gaps</b></a><br><sub>A Genetic Algorithm-Based Solver for Jigsaw Puzzles :cyclone:</sub></td>
+<td align="right"><b>769</b></td>
+<td align="right">110</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><img src="https://github.com/shortlink-org.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shortlink-org/shortlink"><b>shortlink-org/shortlink</b></a><br><sub>Shortlink service (Microservice example) ⭐️ Star the repo if you like it!</sub></td>
+<td align="right"><b>766</b></td>
+<td align="right">35</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -344,7 +435,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 934 stars; 45 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 766 stars; 58 attributed candidates are tracked.
 - 1 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 148 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

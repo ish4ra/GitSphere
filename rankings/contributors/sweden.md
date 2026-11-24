@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/SE.json">JSON</a> |
+| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/SE.json">JSON</a> |
 
 </div>
 
@@ -70,6 +70,15 @@
 </tr>
 <tr>
 <td align="right">6</td>
+<td><a href="https://github.com/bittin"><img src="https://avatars.githubusercontent.com/u/43197?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bittin"><b>Luna Jernberg</b></a><br><sub>&#64;bittin · 276 followers</sub></td>
+<td align="right"><b>678</b></td>
+<td align="right">455</td>
+<td align="right">108</td>
+<td align="right">0</td>
+<td align="right">14</td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/jimmywarting"><img src="https://avatars.githubusercontent.com/u/1148376?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jimmywarting"><b>Jimmy Wärting</b></a><br><sub>&#64;jimmywarting · 548 followers</sub></td>
 <td align="right"><b>450</b></td>
 <td align="right">357</td>
@@ -78,13 +87,22 @@
 <td align="right">60</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/Nyholm"><img src="https://avatars.githubusercontent.com/u/1275206?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nyholm"><b>Tobias Nyholm</b></a><br><sub>&#64;Nyholm · 1,344 followers</sub></td>
 <td align="right"><b>360</b></td>
 <td align="right">172</td>
 <td align="right">81</td>
 <td align="right">89</td>
 <td align="right">5</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/sebbekarlsson"><img src="https://avatars.githubusercontent.com/u/6907725?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sebbekarlsson"><b>Sebastian Karlsson (ianertson)</b></a><br><sub>&#64;sebbekarlsson · 394 followers</sub></td>
+<td align="right"><b>202</b></td>
+<td align="right">192</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
 </tr>
 </tbody>
 </table>
@@ -93,7 +111,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 7 of 795 discovered developers (788 awaiting measurement).
+- **Measured:** 9 of 875 discovered developers (866 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 176 in round 1.

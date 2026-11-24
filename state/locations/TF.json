@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"country": "TF",
+"round": 1,
+"roundStartedAt": "2026-11-24T11:11:58.016Z",
+"terms": {"count":27,"fingerprint":"27:787f8a93"},
+"termIndex": 3,
+"specIndex": 0,
+"active": null,
+"unresolved": [],
+"completedRounds": [],
+"stats": {"requests":6,"pages":6,"accounts":7},
+"updatedAt": "2026-11-24T11:12:00.008Z"
+}

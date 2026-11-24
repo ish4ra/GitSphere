@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"GA","name":"Gabon","slug":"gabon"},
-"count": 150,
+"count": 149,
 "repositories": [
-  {"name":"Steeven1995/my_quick_stater_nodejs","stars":15,"forks":6,"language":"JavaScript","archived":false,"createdAt":"2023-01-11T15:17:48Z","pushedAt":"2024-01-24T11:15:41Z","owner":{"login":"Steeven1995","type":"User","name":"Gabin Moundziegou","location":"Libreville, Gabon"},"attribution":{"code":"GA","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T06:24:11.147Z","id":"legacy:steeven1995/my_quick_stater_nodejs","legacy":true},
   {"name":"Crazynotdev/TERRA-XMD","stars":6,"forks":19,"language":"JavaScript","license":"MIT","archived":false,"createdAt":"2025-06-04T23:20:24Z","pushedAt":"2025-06-26T17:31:56Z","owner":{"login":"Crazynotdev","type":"User","name":"ZynXx","location":"Gabon"},"attribution":{"code":"GA","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T06:24:11.147Z","id":"legacy:crazynotdev/terra-xmd","legacy":true},
   {"name":"bibangjoseph/ng-cli-helper","stars":6,"forks":0,"language":"JavaScript","archived":false,"createdAt":"2024-11-05T13:12:40Z","pushedAt":"2026-08-24T22:25:05Z","owner":{"login":"bibangjoseph","type":"User","name":"Joseph Donovan BIBANG BEFENE","location":"Libreville / Gabon"},"attribution":{"code":"GA","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T06:24:11.147Z","id":"legacy:bibangjoseph/ng-cli-helper","legacy":true},
   {"name":"aristideman/MobileTransactionAPI","stars":5,"forks":2,"archived":false,"createdAt":"2015-08-24T22:49:53Z","pushedAt":"2021-01-22T13:39:57Z","owner":{"login":"aristideman","type":"User","name":"Aristide NDIELE","location":"Libreville - GABON"},"attribution":{"code":"GA","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T06:24:11.147Z","id":"legacy:aristideman/mobiletransactionapi","legacy":true},

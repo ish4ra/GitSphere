@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/CW.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/CW.json">JSON</a> |
 
 </div>
 
@@ -25,6 +25,15 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/BalusC"><img src="https://avatars.githubusercontent.com/u/173372?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BalusC"><b>Bauke Scholtz</b></a><br><sub>&#64;BalusC · 448 followers</sub></td>
+<td align="right"><b>3,909</b></td>
+<td align="right">3,043</td>
+<td align="right">591</td>
+<td align="right">41</td>
+<td align="right">220</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/JObersi10"><img src="https://avatars.githubusercontent.com/u/68297002?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JObersi10"><b>JObersi10</b></a><br><sub>&#64;JObersi10 · 2 followers</sub></td>
 <td align="right"><b>712</b></td>
 <td align="right">612</td>
@@ -33,7 +42,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">3</td>
 <td><a href="https://github.com/kloostermanw"><img src="https://avatars.githubusercontent.com/u/50216197?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kloostermanw"><b>Wiebe</b></a><br><sub>&#64;kloostermanw · 2 followers</sub></td>
 <td align="right"><b>603</b></td>
 <td align="right">452</td>
@@ -42,7 +51,7 @@
 <td align="right">68</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/dwarfland"><img src="https://avatars.githubusercontent.com/u/184026?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dwarfland"><b>marc hoffman</b></a><br><sub>&#64;dwarfland · 63 followers</sub></td>
 <td align="right"><b>575</b></td>
 <td align="right">569</td>
@@ -51,7 +60,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/weyert"><img src="https://avatars.githubusercontent.com/u/7049?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/weyert"><b>Weyert de Boer</b></a><br><sub>&#64;weyert · 43 followers</sub></td>
 <td align="right"><b>134</b></td>
 <td align="right">99</td>
@@ -60,7 +69,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/schroef"><img src="https://avatars.githubusercontent.com/u/6923008?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/schroef"><b>schroef</b></a><br><sub>&#64;schroef · 67 followers</sub></td>
 <td align="right"><b>42</b></td>
 <td align="right">19</td>
@@ -69,7 +78,16 @@
 <td align="right">21</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
+<td><a href="https://github.com/AngeloAAB"><img src="https://avatars.githubusercontent.com/u/20714071?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AngeloAAB"><b>Angelo Bartholomeus</b></a><br><sub>&#64;AngeloAAB · 2 followers</sub></td>
+<td align="right"><b>22</b></td>
+<td align="right">20</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">8</td>
 <td><a href="https://github.com/rscoopcur"><img src="https://avatars.githubusercontent.com/u/65142924?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rscoopcur"><b>Richard Scoop</b></a><br><sub>&#64;rscoopcur · 12 followers</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">7</td>
@@ -78,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">9</td>
 <td><a href="https://github.com/rascoop"><img src="https://avatars.githubusercontent.com/u/276458?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rascoop"><b>Richard Scoop</b></a><br><sub>&#64;rascoop · 34 followers</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">3</td>
@@ -87,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">10</td>
 <td><a href="https://github.com/frankgeerlings"><img src="https://avatars.githubusercontent.com/u/59611?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/frankgeerlings"><b>Frank Geerlings</b></a><br><sub>&#64;frankgeerlings · 22 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">1</td>
@@ -96,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">11</td>
 <td><a href="https://github.com/jentanbernardus"><img src="https://avatars.githubusercontent.com/u/416303?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jentanbernardus"><b>Jentan Bernardus</b></a><br><sub>&#64;jentanbernardus · 26 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
@@ -111,7 +129,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 11 of 84 discovered developers (73 awaiting measurement).
+- **Measured:** 13 of 84 discovered developers (71 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 2 of 16 in round 1.

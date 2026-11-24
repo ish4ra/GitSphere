@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/DE.json">JSON</a> |
+| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/DE.json">JSON</a> |
 
 </div>
 
@@ -52,6 +52,15 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/baby636"><img src="https://avatars.githubusercontent.com/u/61610729?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/baby636"><b>kristof kaehler</b></a><br><sub>&#64;baby636 · 266 followers</sub></td>
+<td align="right"><b>3,080</b></td>
+<td align="right">0</td>
+<td align="right">3,080</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/thomasdarimont"><img src="https://avatars.githubusercontent.com/u/314690?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thomasdarimont"><b>Thomas Darimont</b></a><br><sub>&#64;thomasdarimont · 1,334 followers</sub></td>
 <td align="right"><b>1,598</b></td>
 <td align="right">1,291</td>
@@ -60,7 +69,7 @@
 <td align="right">118</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/punker76"><img src="https://avatars.githubusercontent.com/u/658431?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/punker76"><b>Jan Karger ツ ☀</b></a><br><sub>&#64;punker76 · 883 followers</sub></td>
 <td align="right"><b>950</b></td>
 <td align="right">781</td>
@@ -69,7 +78,7 @@
 <td align="right">28</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/juliangruber"><img src="https://avatars.githubusercontent.com/u/10247?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/juliangruber"><b>Julian Gruber</b></a><br><sub>&#64;juliangruber · 1,755 followers</sub></td>
 <td align="right"><b>943</b></td>
 <td align="right">439</td>
@@ -78,7 +87,7 @@
 <td align="right">54</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/SeppPenner"><img src="https://avatars.githubusercontent.com/u/9639361?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SeppPenner"><b>SeppPenner</b></a><br><sub>&#64;SeppPenner · 795 followers</sub></td>
 <td align="right"><b>934</b></td>
 <td align="right">923</td>
@@ -87,13 +96,22 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/Brainhub24"><img src="https://avatars.githubusercontent.com/u/82646429?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Brainhub24"><b>­Jason Prime</b></a><br><sub>&#64;Brainhub24 · 767 followers</sub></td>
 <td align="right"><b>69</b></td>
 <td align="right">4</td>
 <td align="right">4</td>
 <td align="right">0</td>
 <td align="right">0</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/JohannesMilke"><img src="https://avatars.githubusercontent.com/u/44921899?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JohannesMilke"><b>Johannes Milke</b></a><br><sub>&#64;JohannesMilke · 4,888 followers</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">1</td>
 </tr>
 </tbody>
 </table>
@@ -102,7 +120,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 9 of 1,300 discovered developers (1,291 awaiting measurement).
+- **Measured:** 11 of 1,427 discovered developers (1,416 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 137 in round 1.

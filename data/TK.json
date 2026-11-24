@@ -5,7 +5,7 @@
 "country": {"code":"TK","name":"Tokelau","slug":"tokelau"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":10,"ownerExpansionBacklog":11,"candidates":10,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":10,"ownerExpansionBacklog":11,"candidates":10,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":13,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"uStupid","nameWithOwner":"DaczoDenes/uStupid","url":"https://github.com/DaczoDenes/uStupid","description":null,"stars":1,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2021-07-08T21:22:44Z","pushedAt":"2021-07-09T20:16:42Z","archived":false,"owner":{"login":"DaczoDenes","name":null,"type":"User","url":"https://github.com/DaczoDenes","location":"Tokelau","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-24","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"matrix-5858","nameWithOwner":"knukima/matrix-5858","url":"https://github.com/knukima/matrix-5858","description":null,"stars":1,"forks":0,"primaryLanguage":"C","license":null,"createdAt":"2026-09-21T07:01:12Z","pushedAt":"2026-09-21T07:01:31Z","archived":false,"owner":{"login":"knukima","name":"z","type":"User","url":"https://github.com/knukima","location":"Fale, Fakaofo Atoll, Tokelau","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-24","pendingRevalidation":true},
@@ -18,8 +18,8 @@
   {"rank":9,"id":null,"name":"busy","nameWithOwner":"ruvverfmb/busy","url":"https://github.com/ruvverfmb/busy","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2025-10-07T13:37:14Z","pushedAt":"2025-10-07T13:44:39Z","archived":false,"owner":{"login":"ruvverfmb","name":null,"type":"User","url":"https://github.com/ruvverfmb","location":"Tokelau","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-24","pendingRevalidation":true},
   {"rank":10,"id":null,"name":"reverse-geocoding-tiles","nameWithOwner":"spot-work/reverse-geocoding-tiles","url":"https://github.com/spot-work/reverse-geocoding-tiles","description":null,"stars":0,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2025-02-12T09:24:22Z","pushedAt":"2025-02-12T10:36:58Z","archived":false,"owner":{"login":"spot-work","name":"SpotWORK","type":"Organization","url":"https://github.com/spot-work","location":"Tokelau","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-24","pendingRevalidation":true}
 ],
-"contentHash": "879cc1200802afa8",
-"updatedAt": "2026-11-24T01:31:49.018Z",
+"contentHash": "acb4c90e0cec5c97",
+"updatedAt": "2026-11-24T11:36:56.631Z",
 "verifiedOn": "2026-10-24",
-"generatedAt": "2026-11-24T01:31:49.018Z"
+"generatedAt": "2026-11-24T11:36:56.631Z"
 }

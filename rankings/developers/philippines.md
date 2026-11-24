@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **99** | 22 Nov 2026 | <a href="../../data/developers/PH.json">JSON</a> |
+| 🟡 Provisional | **114** | 22 Nov 2026 | <a href="../../data/developers/PH.json">JSON</a> |
 
 </div>
 
@@ -611,104 +611,209 @@
 </tr>
 <tr>
 <td align="right">85</td>
-<td><a href="https://github.com/junedomingo"><img src="https://avatars.githubusercontent.com/u/5106887?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/junedomingo"><b>June Domingo</b></a><br><sub>&#64;junedomingo</sub></td>
-<td align="right"><b>270</b></td>
-<td align="right">0</td>
-<td><sub>Ilagan City, Isabela, Philippines</sub></td>
+<td><a href="https://github.com/AnimMouse"><img src="https://avatars.githubusercontent.com/u/40349541?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AnimMouse"><b>Anim Mouse</b></a><br><sub>&#64;AnimMouse</sub></td>
+<td align="right"><b>275</b></td>
+<td align="right">103</td>
+<td><sub>Caloocan, Philippines</sub></td>
 </tr>
 <tr>
 <td align="right">86</td>
-<td><a href="https://github.com/Lameguy64"><img src="https://avatars.githubusercontent.com/u/10251759?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lameguy64"><b>John &quot;Lameguy&quot; Wilbert Villamor</b></a><br><sub>&#64;Lameguy64</sub></td>
-<td align="right"><b>270</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/markneilcordero"><img src="https://avatars.githubusercontent.com/u/61368246?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/markneilcordero"><b>Mark Neil</b></a><br><sub>&#64;markneilcordero</sub></td>
+<td align="right"><b>272</b></td>
+<td align="right">40</td>
 <td><sub>Philippines</sub></td>
 </tr>
 <tr>
 <td align="right">87</td>
-<td><a href="https://github.com/kleo"><img src="https://avatars.githubusercontent.com/u/13497504?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kleo"><b>kleo</b></a><br><sub>&#64;kleo</sub></td>
-<td align="right"><b>253</b></td>
-<td align="right">0</td>
-<td><sub>Philippines</sub></td>
+<td><a href="https://github.com/junedomingo"><img src="https://avatars.githubusercontent.com/u/5106887?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/junedomingo"><b>June Domingo</b></a><br><sub>&#64;junedomingo</sub></td>
+<td align="right"><b>270</b></td>
+<td align="right">71</td>
+<td><sub>Ilagan City, Isabela, Philippines</sub></td>
 </tr>
 <tr>
 <td align="right">88</td>
+<td><a href="https://github.com/Lameguy64"><img src="https://avatars.githubusercontent.com/u/10251759?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lameguy64"><b>John &quot;Lameguy&quot; Wilbert Villamor</b></a><br><sub>&#64;Lameguy64</sub></td>
+<td align="right"><b>270</b></td>
+<td align="right">23</td>
+<td><sub>Philippines</sub></td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><a href="https://github.com/PinoyFreeCoder"><img src="https://avatars.githubusercontent.com/u/56300842?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PinoyFreeCoder"><b>PinoyFreeCoder</b></a><br><sub>&#64;PinoyFreeCoder</sub></td>
+<td align="right"><b>268</b></td>
+<td align="right">58</td>
+<td><sub>Philippines</sub></td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><a href="https://github.com/jayehernandez"><img src="https://avatars.githubusercontent.com/u/13959651?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jayehernandez"><b>Jaye Hernandez</b></a><br><sub>&#64;jayehernandez</sub></td>
+<td align="right"><b>263</b></td>
+<td align="right">35</td>
+<td><sub>Philippines</sub></td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><a href="https://github.com/isaiah76"><img src="https://avatars.githubusercontent.com/u/136171343?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/isaiah76"><b>Isaiah</b></a><br><sub>&#64;isaiah76</sub></td>
+<td align="right"><b>261</b></td>
+<td align="right">25</td>
+<td><sub>Philippines</sub></td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><a href="https://github.com/johnasblasco"><img src="https://avatars.githubusercontent.com/u/147505768?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/johnasblasco"><b>Johnas Blasco</b></a><br><sub>&#64;johnasblasco</sub></td>
+<td align="right"><b>257</b></td>
+<td align="right">65</td>
+<td><sub>Bulacan, Philippines</sub></td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><a href="https://github.com/AngeloJacobo"><img src="https://avatars.githubusercontent.com/u/87559347?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AngeloJacobo"><b>Angelo Jacobo</b></a><br><sub>&#64;AngeloJacobo</sub></td>
+<td align="right"><b>257</b></td>
+<td align="right">29</td>
+<td><sub>Bulacan, Philippines</sub></td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><a href="https://github.com/TonYacapin"><img src="https://avatars.githubusercontent.com/u/112560488?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TonYacapin"><b>Abakus</b></a><br><sub>&#64;TonYacapin</sub></td>
+<td align="right"><b>256</b></td>
+<td align="right">58</td>
+<td><sub>Baguio City</sub></td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><a href="https://github.com/edrfjk"><img src="https://avatars.githubusercontent.com/u/186201632?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/edrfjk"><b>Eidref Jake</b></a><br><sub>&#64;edrfjk</sub></td>
+<td align="right"><b>256</b></td>
+<td align="right">23</td>
+<td><sub>Philippines</sub></td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><a href="https://github.com/kleo"><img src="https://avatars.githubusercontent.com/u/13497504?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kleo"><b>kleo</b></a><br><sub>&#64;kleo</sub></td>
+<td align="right"><b>253</b></td>
+<td align="right">71</td>
+<td><sub>Philippines</sub></td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><a href="https://github.com/armlynobinguar"><img src="https://avatars.githubusercontent.com/u/65301944?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/armlynobinguar"><b>armlynobinguar</b></a><br><sub>&#64;armlynobinguar</sub></td>
+<td align="right"><b>251</b></td>
+<td align="right">399</td>
+<td><sub>Manila, Philippines</sub></td>
+</tr>
+<tr>
+<td align="right">98</td>
 <td><a href="https://github.com/JefMari"><img src="https://avatars.githubusercontent.com/u/12628112?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JefMari"><b>Jeferson Mari</b></a><br><sub>&#64;JefMari</sub></td>
 <td align="right"><b>225</b></td>
 <td align="right">0</td>
 <td><sub>Manila</sub></td>
 </tr>
 <tr>
-<td align="right">89</td>
+<td align="right">99</td>
 <td><a href="https://github.com/adonespitogo"><img src="https://avatars.githubusercontent.com/u/3839684?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adonespitogo"><b>Adones Pitogo</b></a><br><sub>&#64;adonespitogo</sub></td>
 <td align="right"><b>212</b></td>
 <td align="right">0</td>
 <td><sub>Cebu City, Philippines</sub></td>
 </tr>
 <tr>
-<td align="right">90</td>
+<td align="right">100</td>
 <td><a href="https://github.com/darryldecode"><img src="https://avatars.githubusercontent.com/u/5498919?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/darryldecode"><b>darryl fernandez</b></a><br><sub>&#64;darryldecode</sub></td>
 <td align="right"><b>196</b></td>
 <td align="right">0</td>
 <td><sub>Davao City, Philippines</sub></td>
 </tr>
 <tr>
-<td align="right">91</td>
+<td align="right">101</td>
 <td><a href="https://github.com/SeaDve"><img src="https://avatars.githubusercontent.com/u/64297935?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SeaDve"><b>Dave Patrick</b></a><br><sub>&#64;SeaDve</sub></td>
 <td align="right"><b>196</b></td>
 <td align="right">0</td>
 <td><sub>Central Luzon, Philippines</sub></td>
 </tr>
 <tr>
-<td align="right">92</td>
+<td align="right">102</td>
 <td><a href="https://github.com/janleigh"><img src="https://avatars.githubusercontent.com/u/40911019?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/janleigh"><b>Jan Leigh Muñoz</b></a><br><sub>&#64;janleigh</sub></td>
 <td align="right"><b>147</b></td>
 <td align="right">0</td>
 <td><sub>Aklan, Philippines</sub></td>
 </tr>
 <tr>
-<td align="right">93</td>
+<td align="right">103</td>
 <td><a href="https://github.com/lodev09"><img src="https://avatars.githubusercontent.com/u/6686328?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lodev09"><b>Jovanni Lo</b></a><br><sub>&#64;lodev09</sub></td>
 <td align="right"><b>146</b></td>
 <td align="right">0</td>
 <td><sub>Philippines</sub></td>
 </tr>
 <tr>
-<td align="right">94</td>
+<td align="right">104</td>
 <td><a href="https://github.com/jamesflorentino"><img src="https://avatars.githubusercontent.com/u/458310?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jamesflorentino"><b>James F</b></a><br><sub>&#64;jamesflorentino</sub></td>
 <td align="right"><b>129</b></td>
 <td align="right">0</td>
 <td><sub>Philippines</sub></td>
 </tr>
 <tr>
-<td align="right">95</td>
+<td align="right">105</td>
 <td><a href="https://github.com/markterence"><img src="https://avatars.githubusercontent.com/u/2003215?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/markterence"><b>Mark Terence Tiglao</b></a><br><sub>&#64;markterence</sub></td>
 <td align="right"><b>87</b></td>
 <td align="right">0</td>
 <td><sub>Earth, Asia/Manila</sub></td>
 </tr>
 <tr>
-<td align="right">96</td>
+<td align="right">106</td>
+<td><a href="https://github.com/jksalcedo"><img src="https://avatars.githubusercontent.com/u/196589192?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jksalcedo"><b>Jaressen Kyle Salcedo</b></a><br><sub>&#64;jksalcedo</sub></td>
+<td align="right"><b>66</b></td>
+<td align="right">0</td>
+<td><sub>Camarines Sur, Philippines</sub></td>
+</tr>
+<tr>
+<td align="right">107</td>
+<td><a href="https://github.com/qxb3"><img src="https://avatars.githubusercontent.com/u/59109346?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/qxb3"><b>qxb3</b></a><br><sub>&#64;qxb3</sub></td>
+<td align="right"><b>60</b></td>
+<td align="right">0</td>
+<td><sub>Philippines</sub></td>
+</tr>
+<tr>
+<td align="right">108</td>
+<td><a href="https://github.com/jantinnerezo"><img src="https://avatars.githubusercontent.com/u/29738837?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jantinnerezo"><b>Jantinn Erezo</b></a><br><sub>&#64;jantinnerezo</sub></td>
+<td align="right"><b>54</b></td>
+<td align="right">0</td>
+<td><sub>Cebu City, Philippines</sub></td>
+</tr>
+<tr>
+<td align="right">109</td>
 <td><a href="https://github.com/benborla"><img src="https://avatars.githubusercontent.com/u/22745294?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/benborla"><b>Ben Borla</b></a><br><sub>&#64;benborla</sub></td>
 <td align="right"><b>38</b></td>
 <td align="right">0</td>
 <td><sub>Philippines</sub></td>
 </tr>
 <tr>
-<td align="right">97</td>
+<td align="right">110</td>
+<td><a href="https://github.com/sejjy"><img src="https://avatars.githubusercontent.com/u/158748436?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sejjy"><b>Jesse Mirabel</b></a><br><sub>&#64;sejjy</sub></td>
+<td align="right"><b>36</b></td>
+<td align="right">0</td>
+<td><sub>Philippines</sub></td>
+</tr>
+<tr>
+<td align="right">111</td>
+<td><a href="https://github.com/kosinix"><img src="https://avatars.githubusercontent.com/u/1096465?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kosinix"><b>Kosinix</b></a><br><sub>&#64;kosinix</sub></td>
+<td align="right"><b>35</b></td>
+<td align="right">0</td>
+<td><sub>Philippines</sub></td>
+</tr>
+<tr>
+<td align="right">112</td>
 <td><a href="https://github.com/atenewsdev"><img src="https://avatars.githubusercontent.com/u/74050875?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/atenewsdev"><b>Atenews</b></a><br><sub>&#64;atenewsdev</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">9</td>
 <td><sub>Atenews Office, Ground Floor, Arrupe Hall, Mart…</sub></td>
 </tr>
 <tr>
-<td align="right">98</td>
+<td align="right">113</td>
 <td><a href="https://github.com/mikeric"><img src="https://avatars.githubusercontent.com/u/36068?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikeric"><b>Michael</b></a><br><sub>&#64;mikeric</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>CEB, CNX, YVR</sub></td>
 </tr>
 <tr>
-<td align="right">99</td>
+<td align="right">114</td>
 <td><a href="https://github.com/silverbux"><img src="https://avatars.githubusercontent.com/u/1888261?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/silverbux"><b>Alex Quiambao</b></a><br><sub>&#64;silverbux</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -722,7 +827,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 99 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 114 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 210 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/SG.json">JSON</a> |
+| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/SG.json">JSON</a> |
 
 </div>
 
@@ -34,6 +34,15 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/jellydn"><img src="https://avatars.githubusercontent.com/u/870029?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jellydn"><b>Dung Duc Huynh (Kaka)</b></a><br><sub>&#64;jellydn · 402 followers</sub></td>
+<td align="right"><b>6,513</b></td>
+<td align="right">4,531</td>
+<td align="right">1,213</td>
+<td align="right">84</td>
+<td align="right">585</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/kenken64"><img src="https://avatars.githubusercontent.com/u/631205?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kenken64"><b>Kenken64 (Kenneth)</b></a><br><sub>&#64;kenken64 · 348 followers</sub></td>
 <td align="right"><b>2,819</b></td>
 <td align="right">2,605</td>
@@ -42,7 +51,7 @@
 <td align="right">26</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/happydog-intj"><img src="https://avatars.githubusercontent.com/u/212984?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/happydog-intj"><b>happy dog</b></a><br><sub>&#64;happydog-intj · 4,009 followers</sub></td>
 <td align="right"><b>553</b></td>
 <td align="right">477</td>
@@ -51,7 +60,16 @@
 <td align="right">11</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
+<td><a href="https://github.com/xobs"><img src="https://avatars.githubusercontent.com/u/238325?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xobs"><b>Sean Cross</b></a><br><sub>&#64;xobs · 691 followers</sub></td>
+<td align="right"><b>284</b></td>
+<td align="right">168</td>
+<td align="right">39</td>
+<td align="right">6</td>
+<td align="right">45</td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/chuongmep"><img src="https://avatars.githubusercontent.com/u/31106432?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chuongmep"><b>Chuong Ho</b></a><br><sub>&#64;chuongmep · 671 followers</sub></td>
 <td align="right"><b>212</b></td>
 <td align="right">181</td>
@@ -60,7 +78,7 @@
 <td align="right">9</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">7</td>
 <td><a href="https://github.com/u1i"><img src="https://avatars.githubusercontent.com/u/27874591?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/u1i"><b>Uli</b></a><br><sub>&#64;u1i · 340 followers</sub></td>
 <td align="right"><b>209</b></td>
 <td align="right">181</td>
@@ -69,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">8</td>
 <td><a href="https://github.com/QC-L"><img src="https://avatars.githubusercontent.com/u/13861040?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/QC-L"><b>QiChang Li</b></a><br><sub>&#64;QC-L · 564 followers</sub></td>
 <td align="right"><b>13</b></td>
 <td align="right">12</td>
@@ -78,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">9</td>
 <td><a href="https://github.com/vdt"><img src="https://avatars.githubusercontent.com/u/1792491?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vdt"><b>Vikram Dutt</b></a><br><sub>&#64;vdt · 320 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">1</td>
@@ -93,7 +111,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 7 of 741 discovered developers (734 awaiting measurement).
+- **Measured:** 9 of 803 discovered developers (794 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 109 in round 1.

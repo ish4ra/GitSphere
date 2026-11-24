@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **42** | 01 Nov 2026 | <a href="../data/IR.json">JSON</a> |
+| 🟠 Stale | **30** | 01 Nov 2026 | <a href="../data/IR.json">JSON</a> |
 
-> **Not yet re-verified.** 18 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 1 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -193,125 +193,41 @@
 </tr>
 <tr>
 <td align="right">25</td>
-<td><img src="https://github.com/irvaniamirali.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/irvaniamirali/asyncio-course-fa"><b>irvaniamirali/asyncio-course-fa</b></a></td>
-<td align="right"><b>31</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">26</td>
-<td><img src="https://github.com/mohamadSaleh82.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mohamadSaleh82/Desktop-Hospital-CRM-in-C-Sharp"><b>mohamadSaleh82/Desktop-Hospital-CRM-in-C-Sharp</b></a></td>
-<td align="right"><b>28</b></td>
-<td align="right">18</td>
+<td><img src="https://github.com/ramtinak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ramtinak/InstagramApiSharp"><b>ramtinak/InstagramApiSharp</b></a><br><sub>A complete Private Instagram API for .NET (C#, VB.NET).</sub></td>
+<td align="right"><b>893</b></td>
+<td align="right">242</td>
 <td>C#</td>
 </tr>
 <tr>
+<td align="right">26</td>
+<td><img src="https://github.com/IRNova.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/IRNova/Nova-Proxy-App"><b>IRNova/Nova-Proxy-App</b></a><br><sub>نوا پروکسی - ابزار پروکسی محلی قدرتمند با قابلیتهای GSA (Google Apps Script) با Domain Fronting، تکهتکهسازی TLS، تزریق…</sub></td>
+<td align="right"><b>865</b></td>
+<td align="right">129</td>
+<td>Go</td>
+</tr>
+<tr>
 <td align="right">27</td>
-<td><img src="https://github.com/AmirhoseinHesami.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AmirhoseinHesami/To-Do_App"><b>AmirhoseinHesami/To-Do&#95;App</b></a></td>
-<td align="right"><b>23</b></td>
-<td align="right">4</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/mhbashari.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mhbashari/awesome-persian-nlp-ir"><b>mhbashari/awesome-persian-nlp-ir</b></a><br><sub>Curated List of Persian Natural Language Processing and Information Retrieval Tools and Resources</sub></td>
+<td align="right"><b>773</b></td>
+<td align="right">119</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">28</td>
-<td><img src="https://github.com/abolfazl-shadrouh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abolfazl-shadrouh/cafe-menu"><b>abolfazl-shadrouh/cafe-menu</b></a></td>
-<td align="right"><b>22</b></td>
-<td align="right">4</td>
+<td><img src="https://github.com/junguler.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/junguler/m3u-radio-music-playlists"><b>junguler/m3u-radio-music-playlists</b></a><br><sub>m3u playlists for radio music, sorted by popularity</sub></td>
+<td align="right"><b>768</b></td>
+<td align="right">114</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">29</td>
-<td><img src="https://github.com/HamiParsa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HamiParsa/My-Messenger"><b>HamiParsa/My-Messenger</b></a></td>
-<td align="right"><b>21</b></td>
-<td align="right">0</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/Kamva.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Kamva/mgm"><b>Kamva/mgm</b></a><br><sub>Mongo Go Models (mgm) is a fast and simple MongoDB ODM for Go (based on official Mongo Go Driver)</sub></td>
+<td align="right"><b>763</b></td>
+<td align="right">61</td>
+<td>Go</td>
 </tr>
 <tr>
 <td align="right">30</td>
-<td><img src="https://github.com/Mohsen-malekifard.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mohsen-malekifard/AI-2024"><b>Mohsen-malekifard/AI-2024</b></a> <sub>archived</sub></td>
-<td align="right"><b>21</b></td>
-<td align="right">0</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">31</td>
-<td><img src="https://github.com/CodingWithEnjoy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CodingWithEnjoy/React-Tenzi-Game"><b>CodingWithEnjoy/React-Tenzi-Game</b></a></td>
-<td align="right"><b>20</b></td>
-<td align="right">1</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">32</td>
-<td><img src="https://github.com/AliSabet81.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AliSabet81/creative-portofolio"><b>AliSabet81/creative-portofolio</b></a></td>
-<td align="right"><b>18</b></td>
-<td align="right">5</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">33</td>
-<td><img src="https://github.com/mohammadnabia.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mohammadnabia/Multinomial-nb-Spam-Identifier"><b>mohammadnabia/Multinomial-nb-Spam-Identifier</b></a></td>
-<td align="right"><b>18</b></td>
-<td align="right">3</td>
-<td>Jupyter Notebook</td>
-</tr>
-<tr>
-<td align="right">34</td>
-<td><img src="https://github.com/MrymAj.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MrymAj/kk13-ObliviousTransferExtension-protocol-in-java"><b>MrymAj/kk13-ObliviousTransferExtension-protocol-in-java</b></a></td>
-<td align="right"><b>18</b></td>
-<td align="right">1</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">35</td>
-<td><img src="https://github.com/sirUnchained.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sirUnchained/design-llms"><b>sirUnchained/design-llms</b></a></td>
-<td align="right"><b>18</b></td>
-<td align="right">0</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">36</td>
-<td><img src="https://github.com/armin-panahi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/armin-panahi/nova-calculator"><b>armin-panahi/nova-calculator</b></a></td>
-<td align="right"><b>15</b></td>
-<td align="right">1</td>
-<td>CSS</td>
-</tr>
-<tr>
-<td align="right">37</td>
-<td><img src="https://github.com/ArminHsseini-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ArminHsseini-dev/Boostroyal-Project"><b>ArminHsseini-dev/Boostroyal-Project</b></a></td>
-<td align="right"><b>15</b></td>
-<td align="right">0</td>
-<td>HTML</td>
-</tr>
-<tr>
-<td align="right">38</td>
-<td><img src="https://github.com/zhirodadkhah.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zhirodadkhah/CandleKit"><b>zhirodadkhah/CandleKit</b></a></td>
-<td align="right"><b>12</b></td>
-<td align="right">4</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">39</td>
-<td><img src="https://github.com/HastiNeg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HastiNeg/HastiNeg"><b>HastiNeg/HastiNeg</b></a></td>
-<td align="right"><b>12</b></td>
-<td align="right">2</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">40</td>
-<td><img src="https://github.com/Mehrdadghassabi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mehrdadghassabi/Gaokerena-V"><b>Mehrdadghassabi/Gaokerena-V</b></a></td>
-<td align="right"><b>12</b></td>
-<td align="right">1</td>
-<td>Jupyter Notebook</td>
-</tr>
-<tr>
-<td align="right">41</td>
-<td><img src="https://github.com/FaezehRahimian.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FaezehRahimian/utether"><b>FaezehRahimian/utether</b></a></td>
-<td align="right"><b>12</b></td>
-<td align="right">0</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">42</td>
 <td><img src="https://github.com/abdian.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abdian/widget-usageClaude"><b>abdian/widget-usageClaude</b></a></td>
 <td align="right"><b>11</b></td>
 <td align="right">3</td>
@@ -325,9 +241,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 11 stars; 42 attributed candidates are tracked.
-- 18 entries were carried over from the previous dataset and are pending revalidation.
-- 140 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 11 stars; 30 attributed candidates are tracked.
+- 1 entries were carried over from the previous dataset and are pending revalidation.
+- 137 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 159 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

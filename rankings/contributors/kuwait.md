@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 23 Nov 2026 | <a href="../../data/contributors/KW.json">JSON</a> |
+| 🟡 Provisional | **7** | 23 Nov 2026 | <a href="../../data/contributors/KW.json">JSON</a> |
 
 </div>
 
@@ -34,6 +34,15 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/drhema"><img src="https://avatars.githubusercontent.com/u/8281473?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/drhema"><b>Ibrahim Elsherbiny</b></a><br><sub>&#64;drhema · 43 followers</sub></td>
+<td align="right"><b>447</b></td>
+<td align="right">437</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/AlahmadiQ8"><img src="https://avatars.githubusercontent.com/u/3461501?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlahmadiQ8"><b>Mohammad Asad Alahmadi</b></a><br><sub>&#64;AlahmadiQ8 · 49 followers</sub></td>
 <td align="right"><b>315</b></td>
 <td align="right">251</td>
@@ -42,7 +51,7 @@
 <td align="right">18</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/meshalalsultan"><img src="https://avatars.githubusercontent.com/u/51976236?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/meshalalsultan"><b>Meshal Al-Sultan</b></a><br><sub>&#64;meshalalsultan · 3 followers</sub></td>
 <td align="right"><b>118</b></td>
 <td align="right">109</td>
@@ -51,7 +60,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/ehabest"><img src="https://avatars.githubusercontent.com/u/11926230?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ehabest"><b>Ehab ELKady</b></a><br><sub>&#64;ehabest · 425 followers</sub></td>
 <td align="right"><b>111</b></td>
 <td align="right">109</td>
@@ -60,7 +69,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
+<td><a href="https://github.com/tareqsultan"><img src="https://avatars.githubusercontent.com/u/4695087?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tareqsultan"><b>tareq</b></a><br><sub>&#64;tareqsultan · 0 followers</sub></td>
+<td align="right"><b>62</b></td>
+<td align="right">38</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/zelal-Eizaldeen"><img src="https://avatars.githubusercontent.com/u/39157753?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zelal-Eizaldeen"><b>Zilal</b></a><br><sub>&#64;zelal-Eizaldeen · 3 followers</sub></td>
 <td align="right"><b>37</b></td>
 <td align="right">23</td>
@@ -75,7 +93,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 8 of 397 discovered developers (389 awaiting measurement).
+- **Measured:** 10 of 397 discovered developers (387 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 32 in round 1.

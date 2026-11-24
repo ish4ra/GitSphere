@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **58** | 01 Nov 2026 | <a href="../data/EE.json">JSON</a> |
-
-> **Not yet re-verified.** 6 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **62** | 22 Nov 2026 | <a href="../data/EE.json">JSON</a> |
 
 </div>
 
@@ -389,45 +387,73 @@
 </tr>
 <tr>
 <td align="right">53</td>
-<td><img src="https://github.com/visualGravitySense.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/visualGravitySense/visualGravitySense"><b>visualGravitySense/visualGravitySense</b></a></td>
-<td align="right"><b>29</b></td>
-<td align="right">3</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">54</td>
-<td><img src="https://github.com/asolntsev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/asolntsev/mobileid"><b>asolntsev/mobileid</b></a> <sub>archived</sub></td>
-<td align="right"><b>25</b></td>
-<td align="right">9</td>
-<td>Java</td>
-</tr>
-<tr>
+<td><img src="https://github.com/maciejczyzewski.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maciejczyzewski/hyhyhy"><b>maciejczyzewski/hyhyhy</b></a><br><sub>A tool for creating nice looking HTML5 presentations. :trollface:</sub></td>
+<td align="right"><b>894</b></td>
 <td align="right">55</td>
-<td><img src="https://github.com/sumzary.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sumzary/yt2p"><b>sumzary/yt2p</b></a></td>
-<td align="right"><b>25</b></td>
-<td align="right">4</td>
 <td>JavaScript</td>
 </tr>
 <tr>
+<td align="right">54</td>
+<td><img src="https://github.com/wp-statistics.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wp-statistics/GeoLite2-City"><b>wp-statistics/GeoLite2-City</b></a><br><sub>Free MaxMind GeoLite2-City database for IP geolocation. Auto-updated, served via jsDelivr CDN. No API keys required.</sub></td>
+<td align="right"><b>888</b></td>
+<td align="right">100</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/nordic-institute.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nordic-institute/X-Road"><b>nordic-institute/X-Road</b></a><br><sub>Source code of the X-Road® data exchange layer software</sub></td>
+<td align="right"><b>879</b></td>
+<td align="right">277</td>
+<td>Java</td>
+</tr>
+<tr>
 <td align="right">56</td>
-<td><img src="https://github.com/aivarannamaa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aivarannamaa/pipkin"><b>aivarannamaa/pipkin</b></a></td>
-<td align="right"><b>21</b></td>
-<td align="right">4</td>
-<td>Python</td>
+<td><img src="https://github.com/srcnalt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/srcnalt/OpenAI-Unity"><b>srcnalt/OpenAI-Unity</b></a><br><sub>An unofficial OpenAI Unity Package that aims to help you use OpenAI API directly in Unity Game engine.</sub></td>
+<td align="right"><b>841</b></td>
+<td align="right">169</td>
+<td>C#</td>
 </tr>
 <tr>
 <td align="right">57</td>
-<td><img src="https://github.com/TahaTesser.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TahaTesser/SlidingToggleButton"><b>TahaTesser/SlidingToggleButton</b></a></td>
-<td align="right"><b>19</b></td>
-<td align="right">0</td>
-<td>Swift</td>
+<td><img src="https://github.com/tonl-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tonl-dev/tonl"><b>tonl-dev/tonl</b></a><br><sub>TONL (Token-Optimized Notation Language)</sub></td>
+<td align="right"><b>833</b></td>
+<td align="right">35</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">58</td>
-<td><img src="https://github.com/veskem.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/veskem/femocs"><b>veskem/femocs</b></a></td>
-<td align="right"><b>11</b></td>
-<td align="right">6</td>
-<td>C++</td>
+<td><img src="https://github.com/usetania.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/usetania/tania-core"><b>usetania/tania-core</b></a><br><sub>Tania is a farm management software for the hobbyist and smallholder farmer.</sub></td>
+<td align="right"><b>827</b></td>
+<td align="right">170</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><img src="https://github.com/twirl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/twirl/The-API-Book"><b>twirl/The-API-Book</b></a><br><sub>‘The API’ book by Sergey Konstantinov</sub></td>
+<td align="right"><b>810</b></td>
+<td align="right">49</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><img src="https://github.com/moll.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/moll/vim-node"><b>moll/vim-node</b></a><br><sub>Tools and environment to make Vim superb for developing with Node.js. Like Rails.vim for Node.</sub></td>
+<td align="right"><b>798</b></td>
+<td align="right">58</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><img src="https://github.com/Teamweek.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Teamweek/instadate"><b>Teamweek/instadate</b></a><br><sub>A minimal high performance date library for Node.js and Browser</sub></td>
+<td align="right"><b>786</b></td>
+<td align="right">30</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><img src="https://github.com/carlrannaberg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/carlrannaberg/claudekit"><b>carlrannaberg/claudekit</b></a><br><sub>A toolkit of custom commands, hooks, and utilities for Claude Code</sub></td>
+<td align="right"><b>763</b></td>
+<td align="right">114</td>
+<td>TypeScript</td>
 </tr>
 </tbody>
 </table>
@@ -435,11 +461,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 11 stars; 58 attributed candidates are tracked.
-- 6 entries were carried over from the previous dataset and are pending revalidation.
-- 118 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 763 stars; 62 attributed candidates are tracked.
+- 115 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 142 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

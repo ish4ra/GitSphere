@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"BI","name":"Burundi","slug":"burundi"},
-"count": 150,
+"count": 149,
 "repositories": [
-  {"name":"srugano/kivy_watsapp","stars":11,"forks":4,"language":"Python","license":"MIT","archived":false,"createdAt":"2014-09-09T09:51:26Z","pushedAt":"2019-10-22T12:13:40Z","owner":{"login":"srugano","type":"User","name":"Allan Stockman RUGANO","location":"Burundi"},"attribution":{"code":"BI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T06:42:00.161Z","id":"legacy:srugano/kivy_watsapp","legacy":true},
   {"name":"INGANZAMARUMPU/ZKTeco-API","stars":10,"forks":2,"language":"Python","archived":false,"createdAt":"2020-05-31T12:20:49Z","pushedAt":"2020-06-15T20:28:02Z","owner":{"login":"INGANZAMARUMPU","type":"User","name":"NKURUNZIZA","location":"Bujumbura, Burundi"},"attribution":{"code":"BI","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T06:42:00.161Z","id":"legacy:inganzamarumpu/zkteco-api","legacy":true},
   {"name":"Ace7260/vente_tickets","stars":9,"forks":1,"language":"HTML","license":"MIT","archived":false,"createdAt":"2023-05-15T19:57:50Z","pushedAt":"2024-04-22T15:28:18Z","owner":{"login":"Ace7260","type":"User","name":"Irakoze Eddy Nobel","location":"Bujumbura/Burundi"},"attribution":{"code":"BI","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T06:42:00.161Z","id":"legacy:ace7260/vente_tickets","legacy":true},
   {"name":"Ijwi-ry-Ikirundi-AI/burundi-geo-data","stars":9,"forks":0,"archived":false,"createdAt":"2026-02-23T05:16:10Z","pushedAt":"2026-02-23T05:16:55Z","owner":{"login":"Ijwi-ry-Ikirundi-AI","type":"Organization","name":"Ijwi ry'Ikirundi AI","location":"Burundi"},"attribution":{"code":"BI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T06:42:00.161Z","id":"legacy:ijwi-ry-ikirundi-ai/burundi-geo-data","legacy":true},

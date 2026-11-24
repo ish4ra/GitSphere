@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **30** | 04 Nov 2026 | <a href="../data/CY.json">JSON</a> |
-
-> **Not yet re-verified.** 1 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **35** | 22 Nov 2026 | <a href="../data/CY.json">JSON</a> |
 
 </div>
 
@@ -228,10 +226,45 @@
 </tr>
 <tr>
 <td align="right">30</td>
-<td><img src="https://github.com/spacecodewor.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spacecodewor/fmpcloud-go"><b>spacecodewor/fmpcloud-go</b></a></td>
-<td align="right"><b>30</b></td>
-<td align="right">15</td>
+<td><img src="https://github.com/helmwave.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/helmwave/helmwave"><b>helmwave/helmwave</b></a><br><sub>New 🌊 wave for &#64;helm</sub></td>
+<td align="right"><b>900</b></td>
+<td align="right">48</td>
 <td>Go</td>
+</tr>
+<tr>
+<td align="right">31</td>
+<td><img src="https://github.com/protesilaos.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/protesilaos/denote"><b>protesilaos/denote</b></a><br><sub>Efficient file-naming scheme to organise files and write notes with Emacs</sub></td>
+<td align="right"><b>880</b></td>
+<td align="right">96</td>
+<td>Emacs Lisp</td>
+</tr>
+<tr>
+<td align="right">32</td>
+<td><img src="https://github.com/sudoguy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sudoguy/tiktokpy"><b>sudoguy/tiktokpy</b></a><br><sub>Tool for automated TikTok interactions</sub></td>
+<td align="right"><b>877</b></td>
+<td align="right">165</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">33</td>
+<td><img src="https://github.com/paracycle.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/paracycle/slackthemes"><b>paracycle/slackthemes</b></a><br><sub>A Slack sidebar theme browser</sub></td>
+<td align="right"><b>872</b></td>
+<td align="right">247</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">34</td>
+<td><img src="https://github.com/alexmic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexmic/filtrr"><b>alexmic/filtrr</b></a><br><sub>Instagram-like image filters in pure JavaScript.</sub></td>
+<td align="right"><b>823</b></td>
+<td align="right">86</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">35</td>
+<td><img src="https://github.com/AdguardTeam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AdguardTeam/ContentBlocker"><b>AdguardTeam/ContentBlocker</b></a><br><sub>Content blocking extension for Samsung Internet and Yandex Browser</sub></td>
+<td align="right"><b>774</b></td>
+<td align="right">157</td>
+<td>Java</td>
 </tr>
 </tbody>
 </table>
@@ -239,10 +272,9 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 30 stars; 30 attributed candidates are tracked.
-- 1 entries were carried over from the previous dataset and are pending revalidation.
+- **Cutoff:** the last listed repository has 774 stars; 35 attributed candidates are tracked.
 - 117 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 105 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

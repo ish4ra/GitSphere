@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"country": "VG",
+"round": 1,
+"roundStartedAt": "2026-11-24T11:16:21.916Z",
+"terms": {"count":19,"fingerprint":"19:8a1dcbf6"},
+"termIndex": 1,
+"specIndex": 1,
+"active": null,
+"unresolved": [],
+"completedRounds": [],
+"stats": {"requests":6,"pages":6,"accounts":206},
+"updatedAt": "2026-11-24T11:16:33.002Z"
+}

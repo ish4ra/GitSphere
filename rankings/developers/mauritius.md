@@ -87,7 +87,7 @@
 <tr>
 <td align="right">10</td>
 <td><a href="https://github.com/MrSunshyne"><img src="https://avatars.githubusercontent.com/u/1721611?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MrSunshyne"><b>Sandeep Ramgolam</b></a><br><sub>&#64;MrSunshyne</sub></td>
-<td align="right"><b>111</b></td>
+<td align="right"><b>112</b></td>
 <td align="right">196</td>
 <td><sub>Mauritius</sub></td>
 </tr>

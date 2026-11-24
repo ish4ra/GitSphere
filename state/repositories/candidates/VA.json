@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"VA","name":"Vatican City","slug":"vatican-city"},
-"count": 55,
+"count": 54,
 "repositories": [
-  {"name":"LBreda/costituzione","stars":28,"forks":3,"archived":false,"createdAt":"2016-10-12T20:28:42Z","pushedAt":"2023-10-22T11:09:04Z","owner":{"login":"LBreda","type":"User","name":"Lorenzo Breda","location":"Vatican City State"},"attribution":{"code":"VA","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-27T22:24:26.868Z","id":"legacy:lbreda/costituzione","legacy":true},
   {"name":"meereuk/NMConverter","stars":6,"forks":1,"language":"Python","archived":false,"createdAt":"2021-06-25T20:00:43Z","pushedAt":"2021-06-27T11:01:52Z","owner":{"login":"meereuk","type":"User","name":"KKUL","location":"Vatican City"},"attribution":{"code":"VA","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-27T22:24:26.868Z","id":"legacy:meereuk/nmconverter","legacy":true},
   {"name":"0xSums/SVB","stars":6,"forks":0,"archived":false,"createdAt":"2024-08-11T11:00:24Z","pushedAt":"2024-09-04T15:33:03Z","owner":{"login":"0xSums","type":"User","name":"﷽","location":"Vatican City, Vatican"},"attribution":{"code":"VA","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-27T22:24:26.868Z","id":"legacy:0xsums/svb","legacy":true},
   {"name":"canonlaw/what-year-is-it","stars":4,"forks":2,"language":"PHP","license":"MIT","archived":false,"createdAt":"2021-11-27T17:41:11Z","pushedAt":"2021-12-02T21:21:14Z","owner":{"login":"canonlaw","type":"Organization","name":"Canon Law Ninjas","location":"Vatican City"},"attribution":{"code":"VA","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-27T22:24:26.868Z","id":"legacy:canonlaw/what-year-is-it","legacy":true},

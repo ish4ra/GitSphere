@@ -5,7 +5,7 @@
 "country": {"code":"GW","name":"Guinea-Bissau","slug":"guinea-bissau"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":30,"measuredAccounts":8,"measurementBacklog":22,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":49,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":30,"measuredAccounts":10,"measurementBacklog":20,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":49,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOB5Mckw","login":"atchutchi","name":"Atchutchi B Ferreira","url":"https://github.com/atchutchi","avatarUrl":"https://avatars.githubusercontent.com/u/127081619?s=80&v=4","followers":8,"publicRepos":61,"location":"Bissau, Guinea-Bissau","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":788,"commits":664,"pullRequests":102,"reviews":0,"issues":5,"repositories":17,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":2,"id":"U_kgDOD02jEQ","login":"USFCodes","name":"Yusuf O. Yisa","url":"https://github.com/USFCodes","avatarUrl":"https://avatars.githubusercontent.com/u/256746257?s=80&v=4","followers":1,"publicRepos":14,"location":"Guinea-Bissau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":99,"commits":83,"pullRequests":1,"reviews":0,"issues":0,"repositories":14,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
@@ -15,8 +15,8 @@
   {"rank":6,"id":"MDQ6VXNlcjQ4MjExNzU1","login":"alawysal","name":"Alawy Sal","url":"https://github.com/alawysal","avatarUrl":"https://avatars.githubusercontent.com/u/48211755?s=80&v=4","followers":0,"publicRepos":6,"location":"Bissau, Guinea Bissau","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":19,"commits":14,"pullRequests":0,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":7,"id":"MDQ6VXNlcjMyOTYyMzcz","login":"bruyby","name":"Caitson Canpintam","url":"https://github.com/bruyby","avatarUrl":"https://avatars.githubusercontent.com/u/32962373?s=80&v=4","followers":0,"publicRepos":6,"location":"Guinea-Bissau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "6c6d9c5a75d2d48c",
-"updatedAt": "2026-11-24T01:31:49.018Z",
+"contentHash": "d1f91c33dfece541",
+"updatedAt": "2026-11-24T11:36:56.631Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T01:31:49.018Z"
+"generatedAt": "2026-11-24T11:36:56.631Z"
 }

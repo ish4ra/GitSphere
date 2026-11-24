@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/UZ.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/UZ.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,24 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/kurbanovxurshidbek"><img src="https://avatars.githubusercontent.com/u/10227536?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kurbanovxurshidbek"><b>Xurshidbek Kurbanov</b></a><br><sub>&#64;kurbanovxurshidbek · 261 followers</sub></td>
+<td align="right"><b>37</b></td>
+<td align="right">27</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/mukhriddin-dev"><img src="https://avatars.githubusercontent.com/u/66181316?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mukhriddin-dev"><b>Mukhriddin Khodiev</b></a><br><sub>&#64;mukhriddin-dev · 280 followers</sub></td>
+<td align="right"><b>25</b></td>
+<td align="right">22</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/Rakhimjon"><img src="https://avatars.githubusercontent.com/u/22024327?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rakhimjon"><b>Rakhim Abdullayev</b></a><br><sub>&#64;Rakhimjon · 502 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">0</td>
@@ -51,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">6</td>
 <td><a href="https://github.com/dFarkhod"><img src="https://avatars.githubusercontent.com/u/4464420?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dFarkhod"><b>Farkhod Dadajanov</b></a><br><sub>&#64;dFarkhod · 590 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -60,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">7</td>
 <td><a href="https://github.com/Muhammadjewel"><img src="https://avatars.githubusercontent.com/u/10514327?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Muhammadjewel"><b>Muhammadjavohir</b></a><br><sub>&#64;Muhammadjewel · 353 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -75,10 +93,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 6 of 410 discovered developers (404 awaiting measurement).
+- **Measured:** 8 of 412 discovered developers (404 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 147 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

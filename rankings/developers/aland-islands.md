@@ -193,7 +193,7 @@
 <td align="right">25</td>
 <td><a href="https://github.com/DanielssonThomas"><img src="https://avatars.githubusercontent.com/u/69715206?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DanielssonThomas"><b>Thomas Danielsson</b></a><br><sub>&#64;DanielssonThomas</sub></td>
 <td align="right"><b>6</b></td>
-<td align="right">26</td>
+<td align="right">28</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>

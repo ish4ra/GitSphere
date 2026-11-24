@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/LK.json">JSON</a> |
+| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/LK.json">JSON</a> |
 
 </div>
 
@@ -86,6 +86,24 @@
 <td align="right">0</td>
 <td align="right">0</td>
 </tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/Mindula-Dilthushan"><img src="https://avatars.githubusercontent.com/u/66836116?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mindula-Dilthushan"><b>Mindula Dilthushan Manamperi</b></a><br><sub>&#64;Mindula-Dilthushan · 256 followers</sub></td>
+<td align="right"><b>25</b></td>
+<td align="right">16</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/Nadeera3784"><img src="https://avatars.githubusercontent.com/u/22231476?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nadeera3784"><b>Nadeera Sampath</b></a><br><sub>&#64;Nadeera3784 · 265 followers</sub></td>
+<td align="right"><b>18</b></td>
+<td align="right">7</td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">2</td>
+</tr>
 </tbody>
 </table>
 
@@ -93,7 +111,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 7 of 422 discovered developers (415 awaiting measurement).
+- **Measured:** 9 of 430 discovered developers (421 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 95 in round 1.

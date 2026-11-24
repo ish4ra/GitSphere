@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/developers/CM.json">JSON</a> |
+| 🟡 Provisional | **18** | 22 Nov 2026 | <a href="../../data/developers/CM.json">JSON</a> |
 
 </div>
 
@@ -38,7 +38,7 @@
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/elliottminns"><img src="https://avatars.githubusercontent.com/u/3148319?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elliottminns"><b>Elliott Minns</b></a><br><sub>&#64;elliottminns</sub></td>
-<td align="right"><b>1,192</b></td>
+<td align="right"><b>1,193</b></td>
 <td align="right">134</td>
 <td><sub>About</sub></td>
 </tr>
@@ -107,6 +107,41 @@
 </tr>
 <tr>
 <td align="right">13</td>
+<td><a href="https://github.com/wisdom2608"><img src="https://avatars.githubusercontent.com/u/166314552?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wisdom2608"><b>Julius</b></a><br><sub>&#64;wisdom2608</sub></td>
+<td align="right"><b>283</b></td>
+<td align="right">18</td>
+<td><sub>Buea, Cameroon</sub></td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><a href="https://github.com/tchafros"><img src="https://avatars.githubusercontent.com/u/10420295?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tchafros"><b>Pr.-Dr.-Ing. Franklin Tchakounté</b></a><br><sub>&#64;tchafros</sub></td>
+<td align="right"><b>283</b></td>
+<td align="right">8</td>
+<td><sub>Ngaoundéré</sub></td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><a href="https://github.com/revbukola"><img src="https://avatars.githubusercontent.com/u/36508202?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/revbukola"><b>Bukola Adetayo</b></a><br><sub>&#64;revbukola</sub></td>
+<td align="right"><b>270</b></td>
+<td align="right">2</td>
+<td><sub>West</sub></td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><a href="https://github.com/AssahBismarkabah"><img src="https://avatars.githubusercontent.com/u/134822946?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AssahBismarkabah"><b>Assah Bismark</b></a><br><sub>&#64;AssahBismarkabah</sub></td>
+<td align="right"><b>268</b></td>
+<td align="right">81</td>
+<td><sub>Cameroon</sub></td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><a href="https://github.com/Level237"><img src="https://avatars.githubusercontent.com/u/84333489?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Level237"><b>Balep Martin</b></a><br><sub>&#64;Level237</sub></td>
+<td align="right"><b>258</b></td>
+<td align="right">122</td>
+<td><sub>Douala-Cameroun</sub></td>
+</tr>
+<tr>
+<td align="right">18</td>
 <td><a href="https://github.com/Blair2004"><img src="https://avatars.githubusercontent.com/u/5265663?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Blair2004"><b>Blair Jersyer</b></a><br><sub>&#64;Blair2004</sub></td>
 <td align="right"><b>177</b></td>
 <td align="right">0</td>
@@ -120,7 +155,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 13 attributed developers are tracked; the cutoff is 177 followers.
+- Organizations are excluded. 18 attributed developers are tracked; the cutoff is 177 followers.
 - **Location discovery:** term 0 of 115 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

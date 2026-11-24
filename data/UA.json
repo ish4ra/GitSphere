@@ -5,7 +5,7 @@
 "country": {"code":"UA","name":"Ukraine","slug":"ukraine"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":2137,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":133,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":2137,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":133,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":178,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxMDkzNDMwOTg=","name":"open-source-mac-os-apps","nameWithOwner":"serhii-londar/open-source-mac-os-apps","url":"https://github.com/serhii-londar/open-source-mac-os-apps","description":"🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps","stars":51499,"forks":3453,"primaryLanguage":null,"license":{"spdxId":"CC0-1.0"},"createdAt":"2017-11-03T02:35:33Z","pushedAt":"2026-10-31T07:24:05Z","archived":false,"owner":{"login":"serhii-londar","name":"Serhii Londar","type":"User","url":"https://github.com/serhii-londar","location":"Lviv, Ukraine","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnk5NDA2MTMwNw==","name":"ink","nameWithOwner":"vadimdemedes/ink","url":"https://github.com/vadimdemedes/ink","description":"🌈 React for interactive command-line apps","stars":40316,"forks":1069,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2017-06-12T06:12:28Z","pushedAt":"2026-11-21T17:18:44Z","archived":false,"owner":{"login":"vadimdemedes","name":"Vadim Demedes","type":"User","url":"https://github.com/vadimdemedes","location":"Ukraine","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"MDEwOlJlcG9zaXRvcnk3MTgxMTM1Mw==","name":"docxjs","nameWithOwner":"VolodymyrBaydalka/docxjs","url":"https://github.com/VolodymyrBaydalka/docxjs","description":"Docx rendering library","stars":2160,"forks":305,"primaryLanguage":"TypeScript","license":{"spdxId":"Apache-2.0"},"createdAt":"2016-10-24T16:57:56Z","pushedAt":"2026-09-21T16:43:23Z","archived":false,"owner":{"login":"VolodymyrBaydalka","name":"Volodymyr Baydalka","type":"User","url":"https://github.com/VolodymyrBaydalka","location":"Ukraine","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-23"},
   {"rank":100,"id":"MDEwOlJlcG9zaXRvcnk3MjE4MjQzNw==","name":"nextspace","nameWithOwner":"trunkmaster/nextspace","url":"https://github.com/trunkmaster/nextspace","description":"NeXTSTEP-like desktop environment for Linux","stars":2137,"forks":87,"primaryLanguage":"Objective-C","license":{"spdxId":"GPL-3.0"},"createdAt":"2016-10-28T07:02:49Z","pushedAt":"2026-05-27T11:17:50Z","archived":false,"owner":{"login":"trunkmaster","name":"Sergii Stoian","type":"User","url":"https://github.com/trunkmaster","location":"Kyiv, Ukraine","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "ef312bcd67352c63",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "488897088de5b175",
+"updatedAt": "2026-11-24T11:36:56.631Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-24T11:36:56.631Z"
 }

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/developers/BO.json">JSON</a> |
+| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/developers/BO.json">JSON</a> |
 
 </div>
 
@@ -65,34 +65,48 @@
 </tr>
 <tr>
 <td align="right">7</td>
+<td><a href="https://github.com/antonelladev"><img src="https://avatars.githubusercontent.com/u/118008601?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/antonelladev"><b>Linda Antonella</b></a><br><sub>&#64;antonelladev</sub></td>
+<td align="right"><b>275</b></td>
+<td align="right">29</td>
+<td><sub>Santa Cruz de la Sierra</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/SergioRibera"><img src="https://avatars.githubusercontent.com/u/56278796?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SergioRibera"><b>Sergio Alejandro Ribera Costa</b></a><br><sub>&#64;SergioRibera</sub></td>
+<td align="right"><b>261</b></td>
+<td align="right">182</td>
+<td><sub>Santa Cruz de la Sierra, Bolivia</sub></td>
+</tr>
+<tr>
+<td align="right">9</td>
 <td><a href="https://github.com/mariocesar"><img src="https://avatars.githubusercontent.com/u/25034?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mariocesar"><b>Mario-César</b></a><br><sub>&#64;mariocesar</sub></td>
 <td align="right"><b>176</b></td>
 <td align="right">83</td>
 <td><sub>Santa Cruz de la Sierra, Bolivia</sub></td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">10</td>
 <td><a href="https://github.com/vitiko98"><img src="https://avatars.githubusercontent.com/u/59455966?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vitiko98"><b>Vitiko</b></a><br><sub>&#64;vitiko98</sub></td>
 <td align="right"><b>152</b></td>
 <td align="right">10</td>
 <td><sub>Bolivia</sub></td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">11</td>
 <td><a href="https://github.com/owen2345"><img src="https://avatars.githubusercontent.com/u/1148415?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/owen2345"><b>Owen Peredo Diaz</b></a><br><sub>&#64;owen2345</sub></td>
 <td align="right"><b>92</b></td>
 <td align="right">52</td>
 <td><sub>Cochabamba - Bolivia</sub></td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">12</td>
 <td><a href="https://github.com/cuevhv"><img src="https://avatars.githubusercontent.com/u/10300397?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cuevhv"><b>Hanz</b></a><br><sub>&#64;cuevhv</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">64</td>
 <td><sub>Bolivia</sub></td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">13</td>
 <td><a href="https://github.com/02MariaIsabel"><img src="https://avatars.githubusercontent.com/u/90007080?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/02MariaIsabel"><b>María Isabel</b></a><br><sub>&#64;02MariaIsabel</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
@@ -106,7 +120,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 11 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 13 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 125 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

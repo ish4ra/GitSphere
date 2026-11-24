@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/CO.json">JSON</a> |
+| 🟡 Provisional | **12** | 22 Nov 2026 | <a href="../../data/contributors/CO.json">JSON</a> |
 
 </div>
 
@@ -52,6 +52,15 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/profejuanjosegallego"><img src="https://avatars.githubusercontent.com/u/181095213?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/profejuanjosegallego"><b>Juan José Gallego Mesa</b></a><br><sub>&#64;profejuanjosegallego · 261 followers</sub></td>
+<td align="right"><b>687</b></td>
+<td align="right">569</td>
+<td align="right">33</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/vanessamarely"><img src="https://avatars.githubusercontent.com/u/4331491?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vanessamarely"><b>Vanessa Aristizabal</b></a><br><sub>&#64;vanessamarely · 767 followers</sub></td>
 <td align="right"><b>620</b></td>
 <td align="right">591</td>
@@ -60,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/forero"><img src="https://avatars.githubusercontent.com/u/1848618?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/forero"><b>Jaime Forero-Romero</b></a><br><sub>&#64;forero · 465 followers</sub></td>
 <td align="right"><b>366</b></td>
 <td align="right">334</td>
@@ -69,7 +78,16 @@
 <td align="right">8</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
+<td><a href="https://github.com/urian121"><img src="https://avatars.githubusercontent.com/u/5271446?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/urian121"><b>URIAN VIERA</b></a><br><sub>&#64;urian121 · 257 followers</sub></td>
+<td align="right"><b>362</b></td>
+<td align="right">330</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">8</td>
 <td><a href="https://github.com/gndx"><img src="https://avatars.githubusercontent.com/u/10554486?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gndx"><b>Oscar Barajas Tavares</b></a><br><sub>&#64;gndx · 3,269 followers</sub></td>
 <td align="right"><b>178</b></td>
 <td align="right">144</td>
@@ -78,7 +96,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">9</td>
 <td><a href="https://github.com/alexlondon07"><img src="https://avatars.githubusercontent.com/u/5550470?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexlondon07"><b>Alexander Londoño Espejo</b></a><br><sub>&#64;alexlondon07 · 370 followers</sub></td>
 <td align="right"><b>153</b></td>
 <td align="right">147</td>
@@ -87,7 +105,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">10</td>
 <td><a href="https://github.com/Zulu55"><img src="https://avatars.githubusercontent.com/u/12401602?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Zulu55"><b>Juan Carlos Zuluaga</b></a><br><sub>&#64;Zulu55 · 780 followers</sub></td>
 <td align="right"><b>78</b></td>
 <td align="right">51</td>
@@ -96,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">11</td>
 <td><a href="https://github.com/teffcode"><img src="https://avatars.githubusercontent.com/u/25943655?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/teffcode"><b>Estefany Aguilar</b></a><br><sub>&#64;teffcode · 3,183 followers</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">7</td>
@@ -105,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">12</td>
 <td><a href="https://github.com/alejandronanez"><img src="https://avatars.githubusercontent.com/u/464978?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alejandronanez"><b>Alejandro Ñáñez Ortiz</b></a><br><sub>&#64;alejandronanez · 449 followers</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">6</td>
@@ -120,7 +138,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 11 of 421 discovered developers (410 awaiting measurement).
+- **Measured:** 13 of 433 discovered developers (420 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 119 in round 1.

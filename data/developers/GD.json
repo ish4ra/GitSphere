@@ -8,7 +8,7 @@
 "coverage": {"basis":"partial","cutoffFollowers":0,"candidates":97,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":15,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjQzNzUyMDk=","login":"bukosabino","name":"Darío López Padial","url":"https://github.com/bukosabino","avatarUrl":"https://avatars.githubusercontent.com/u/4375209?s=80&v=4","followers":680,"publicRepos":53,"location":"Granada","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"MDQ6VXNlcjI4NzQzNTI=","login":"rubenlagus","name":"Ruben Bermudez","url":"https://github.com/rubenlagus","avatarUrl":"https://avatars.githubusercontent.com/u/2874352?s=80&v=4","followers":666,"publicRepos":24,"location":"Granada","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjI4NzQzNTI=","login":"rubenlagus","name":"Ruben Bermudez","url":"https://github.com/rubenlagus","avatarUrl":"https://avatars.githubusercontent.com/u/2874352?s=80&v=4","followers":666,"publicRepos":24,"location":"Granada","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-24"},
   {"rank":3,"id":"MDQ6VXNlcjQ5NjM1Njg=","login":"voghDev","name":"Olmo Gallegos","url":"https://github.com/voghDev","avatarUrl":"https://avatars.githubusercontent.com/u/4963568?s=80&v=4","followers":136,"location":"Granada","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-23"},
   {"rank":4,"id":"U_kgDOBzLDKg","login":"AhndreWalters","name":"Ahndre Walters","url":"https://github.com/AhndreWalters","avatarUrl":"https://avatars.githubusercontent.com/u/120767274?s=80&v=4","followers":30,"publicRepos":41,"location":"Grenada, West Indies","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":5,"id":"MDQ6VXNlcjkwNTc1NjI5","login":"al-latte","name":"Karlisha Roberts","url":"https://github.com/al-latte","avatarUrl":"https://avatars.githubusercontent.com/u/90575629?s=80&v=4","followers":25,"publicRepos":19,"location":"Grenada","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
@@ -46,7 +46,7 @@
   {"rank":37,"id":"U_kgDOBxq0yQ","login":"rrhthompson","name":"Sim","url":"https://github.com/rrhthompson","avatarUrl":"https://avatars.githubusercontent.com/u/119190729?s=80&v=4","followers":1,"publicRepos":1,"location":"Grenada","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":38,"id":"U_kgDOB04LAg","login":"Just-in-java","name":"Just-in-Java","url":"https://github.com/Just-in-java","avatarUrl":"https://avatars.githubusercontent.com/u/122555138?s=80&v=4","followers":1,"publicRepos":0,"location":"Grenada","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":39,"id":"MDQ6VXNlcjE4NTYxMjQ2","login":"sandrewjohn86","name":"Stephen John","url":"https://github.com/sandrewjohn86","avatarUrl":"https://avatars.githubusercontent.com/u/18561246?s=80&v=4","followers":0,"publicRepos":39,"location":"Grenada","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
-  {"rank":40,"id":"MDQ6VXNlcjQ1NDYxNzA2","login":"Nazim-dev","name":"Nazim","url":"https://github.com/Nazim-dev","avatarUrl":"https://avatars.githubusercontent.com/u/45461706?s=80&v=4","followers":0,"publicRepos":23,"location":"Grenada","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":40,"id":"MDQ6VXNlcjQ1NDYxNzA2","login":"Nazim-dev","name":"Nazim","url":"https://github.com/Nazim-dev","avatarUrl":"https://avatars.githubusercontent.com/u/45461706?s=80&v=4","followers":0,"publicRepos":23,"location":"Grenada","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":41,"id":"MDQ6VXNlcjQ5ODg0MjA4","login":"jeanbuck","name":"Ingutu Buckmire","url":"https://github.com/jeanbuck","avatarUrl":"https://avatars.githubusercontent.com/u/49884208?s=80&v=4","followers":0,"publicRepos":17,"location":"Grenada","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":42,"id":"MDQ6VXNlcjI1MjExMDg5","login":"mmsacky","name":"Michael Msacky","url":"https://github.com/mmsacky","avatarUrl":"https://avatars.githubusercontent.com/u/25211089?s=80&v=4","followers":0,"publicRepos":13,"location":"Grenada, W.I","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":43,"id":"U_kgDOC-i4IA","login":"Gerronc","name":"Gerron Cudjoe","url":"https://github.com/Gerronc","avatarUrl":"https://avatars.githubusercontent.com/u/199800864?s=80&v=4","followers":0,"publicRepos":12,"location":"Grenada","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
@@ -105,8 +105,8 @@
   {"rank":96,"id":"U_kgDOFMu5_Q","login":"tropiqx9-svg","name":"TropiqX","url":"https://github.com/tropiqx9-svg","avatarUrl":"https://avatars.githubusercontent.com/u/348895741?s=80&v=4","followers":0,"publicRepos":0,"location":"Grand Anse, Grenada","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":97,"id":"U_kgDOCNGtyw","login":"zazps","name":null,"url":"https://github.com/zazps","avatarUrl":"https://avatars.githubusercontent.com/u/147959243?s=80&v=4","followers":0,"publicRepos":0,"location":"Grenada","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "97537b6361b27178",
-"updatedAt": "2026-11-24T01:31:49.018Z",
+"contentHash": "61910743369a3eee",
+"updatedAt": "2026-11-24T11:36:56.631Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T01:31:49.018Z"
+"generatedAt": "2026-11-24T11:36:56.631Z"
 }

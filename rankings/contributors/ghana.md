@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/GH.json">JSON</a> |
+| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/GH.json">JSON</a> |
 
 </div>
 
@@ -70,6 +70,24 @@
 </tr>
 <tr>
 <td align="right">6</td>
+<td><a href="https://github.com/wycliffecomputerdoc"><img src="https://avatars.githubusercontent.com/u/171879088?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wycliffecomputerdoc"><b>Wycliffe Kwame GYAMBIBI</b></a><br><sub>&#64;wycliffecomputerdoc · 603 followers</sub></td>
+<td align="right"><b>110</b></td>
+<td align="right">39</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/blackmann"><img src="https://avatars.githubusercontent.com/u/5024388?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/blackmann"><b>Degreat</b></a><br><sub>&#64;blackmann · 339 followers</sub></td>
+<td align="right"><b>105</b></td>
+<td align="right">95</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">8</td>
 <td><a href="https://github.com/Manasseh-Ankrah"><img src="https://avatars.githubusercontent.com/u/66146297?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Manasseh-Ankrah"><b>Mandev🤓💻❤🔥</b></a><br><sub>&#64;Manasseh-Ankrah · 341 followers</sub></td>
 <td align="right"><b>61</b></td>
 <td align="right">50</td>
@@ -78,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">9</td>
 <td><a href="https://github.com/duhowise"><img src="https://avatars.githubusercontent.com/u/17531922?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/duhowise"><b>Wise Duho</b></a><br><sub>&#64;duhowise · 189 followers</sub></td>
 <td align="right"><b>50</b></td>
 <td align="right">35</td>
@@ -87,7 +105,7 @@
 <td align="right">11</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">10</td>
 <td><a href="https://github.com/ortonb110"><img src="https://avatars.githubusercontent.com/u/32983314?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ortonb110"><b>Bright Kobe Orton</b></a><br><sub>&#64;ortonb110 · 1,574 followers</sub></td>
 <td align="right"><b>35</b></td>
 <td align="right">12</td>
@@ -102,7 +120,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 9 of 401 discovered developers (392 awaiting measurement).
+- **Measured:** 11 of 401 discovered developers (390 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 107 in round 1.

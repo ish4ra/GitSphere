@@ -5,14 +5,16 @@
 "country": {"code":"TJ","name":"Tajikistan","slug":"tajikistan"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":399,"measuredAccounts":7,"measurementBacklog":392,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":399,"measuredAccounts":9,"measurementBacklog":390,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":97,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOCSZUhQ","login":"abdullokhonz","name":"Abdullokhon Ghaibulloev","url":"https://github.com/abdullokhonz","avatarUrl":"https://avatars.githubusercontent.com/u/153506949?s=80&v=4","followers":428,"publicRepos":23,"location":"Khujand, Tajikistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":150,"commits":142,"pullRequests":1,"reviews":1,"issues":0,"repositories":5,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":2,"id":"U_kgDODy6v0Q","login":"abbos2000","name":null,"url":"https://github.com/abbos2000","avatarUrl":"https://avatars.githubusercontent.com/u/254717905?s=80&v=4","followers":5,"publicRepos":66,"location":"Dushanbe Tajikistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":93,"commits":12,"pullRequests":14,"reviews":0,"issues":0,"repositories":66,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
-  {"rank":3,"id":"MDQ6VXNlcjE3NTE5MTY=","login":"a-gabrelian","name":"Amal Gabrelian","url":"https://github.com/a-gabrelian","avatarUrl":"https://avatars.githubusercontent.com/u/1751916?s=80&v=4","followers":0,"publicRepos":1,"location":"Tajikistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":7,"commits":6,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}}
+  {"rank":3,"id":"MDQ6VXNlcjE3NTE5MTY=","login":"a-gabrelian","name":"Amal Gabrelian","url":"https://github.com/a-gabrelian","avatarUrl":"https://avatars.githubusercontent.com/u/1751916?s=80&v=4","followers":0,"publicRepos":1,"location":"Tajikistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":7,"commits":6,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":4,"id":"MDQ6VXNlcjU3NzU5ODAx","login":"abbossm","name":"Abbos","url":"https://github.com/abbossm","avatarUrl":"https://avatars.githubusercontent.com/u/57759801?s=80&v=4","followers":22,"publicRepos":44,"location":"Tajikistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
+  {"rank":5,"id":"U_kgDOE3fRkA","login":"AbbosAbduqodirov","name":"Abbos Abduqodirov","url":"https://github.com/AbbosAbduqodirov","avatarUrl":"https://avatars.githubusercontent.com/u/326619536?s=80&v=4","followers":2,"publicRepos":0,"location":"Hujand, Tajikistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "95b3e6afc3c76365",
-"updatedAt": "2026-11-24T01:31:49.018Z",
+"contentHash": "f1e57ce479aea774",
+"updatedAt": "2026-11-24T11:36:56.631Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-24T01:31:49.018Z"
+"generatedAt": "2026-11-24T11:36:56.631Z"
 }

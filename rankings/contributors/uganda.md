@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/UG.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/UG.json">JSON</a> |
 
 </div>
 
@@ -34,6 +34,24 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/has2k1"><img src="https://avatars.githubusercontent.com/u/780341?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/has2k1"><b>Hassan Kibirige</b></a><br><sub>&#64;has2k1 · 300 followers</sub></td>
+<td align="right"><b>2,585</b></td>
+<td align="right">2,099</td>
+<td align="right">432</td>
+<td align="right">9</td>
+<td align="right">27</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/KubanjaElijahEldred"><img src="https://avatars.githubusercontent.com/u/185238919?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KubanjaElijahEldred"><b>KUBANJA ELIJAH ELDRED</b></a><br><sub>&#64;KubanjaElijahEldred · 325 followers</sub></td>
+<td align="right"><b>844</b></td>
+<td align="right">574</td>
+<td align="right">205</td>
+<td align="right">1</td>
+<td align="right">15</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/uthumany"><img src="https://avatars.githubusercontent.com/u/129793568?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/uthumany"><b>Uthuman Moody</b></a><br><sub>&#64;uthumany · 1,058 followers</sub></td>
 <td align="right"><b>506</b></td>
 <td align="right">415</td>
@@ -42,7 +60,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">5</td>
 <td><a href="https://github.com/jod35"><img src="https://avatars.githubusercontent.com/u/47812529?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jod35"><b>Jonathan Ssali Kiggundu</b></a><br><sub>&#64;jod35 · 737 followers</sub></td>
 <td align="right"><b>317</b></td>
 <td align="right">284</td>
@@ -51,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">6</td>
 <td><a href="https://github.com/codebender828"><img src="https://avatars.githubusercontent.com/u/21237954?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codebender828"><b>Jonathan Bakebwa</b></a><br><sub>&#64;codebender828 · 591 followers</sub></td>
 <td align="right"><b>154</b></td>
 <td align="right">77</td>
@@ -60,7 +78,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">7</td>
 <td><a href="https://github.com/Fresh-Teacher"><img src="https://avatars.githubusercontent.com/u/98003374?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Fresh-Teacher"><b>Fresh Teacher</b></a><br><sub>&#64;Fresh-Teacher · 322 followers</sub></td>
 <td align="right"><b>113</b></td>
 <td align="right">100</td>
@@ -69,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">8</td>
 <td><a href="https://github.com/CryceTruly"><img src="https://avatars.githubusercontent.com/u/20795487?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CryceTruly"><b>cryce truly</b></a><br><sub>&#64;CryceTruly · 757 followers</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">25</td>
@@ -84,10 +102,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 6 of 408 discovered developers (402 awaiting measurement).
+- **Measured:** 8 of 408 discovered developers (400 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 169 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

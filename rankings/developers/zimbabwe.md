@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/developers/ZW.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/developers/ZW.json">JSON</a> |
 
 </div>
 
@@ -51,13 +51,27 @@
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/prjctimg"><img src="https://avatars.githubusercontent.com/u/104896135?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/prjctimg"><b>Dean Tarisai</b></a><br><sub>&#64;prjctimg</sub></td>
+<td align="right"><b>279</b></td>
+<td align="right">15</td>
+<td><sub>Crowhill,ZW</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/mrxdking"><img src="https://avatars.githubusercontent.com/u/206045384?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrxdking"><b>Malvin King</b></a><br><sub>&#64;mrxdking</sub></td>
+<td align="right"><b>258</b></td>
+<td align="right">40</td>
+<td><sub>Zimbabwe</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/0771501771"><img src="https://avatars.githubusercontent.com/u/113898750?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0771501771"><b>Justice Shirichena</b></a><br><sub>&#64;0771501771</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Harare Zimbabwe</sub></td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">8</td>
 <td><a href="https://github.com/0774622896"><img src="https://avatars.githubusercontent.com/u/851431?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0774622896"><b>LUVEVE</b></a><br><sub>&#64;0774622896</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
@@ -71,7 +85,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 6 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 8 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
