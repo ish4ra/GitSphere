@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/CA.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/CA.json">JSON</a> |
 
 </div>
 
@@ -70,6 +70,15 @@
 </tr>
 <tr>
 <td align="right">6</td>
+<td><a href="https://github.com/kdheepak"><img src="https://avatars.githubusercontent.com/u/1813121?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kdheepak"><b>Dheepak Krishnamurthy</b></a><br><sub>&#64;kdheepak · 294 followers</sub></td>
+<td align="right"><b>878</b></td>
+<td align="right">743</td>
+<td align="right">76</td>
+<td align="right">27</td>
+<td align="right">14</td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/nschonni"><img src="https://avatars.githubusercontent.com/u/1297909?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nschonni"><b>Nick Schonning</b></a><br><sub>&#64;nschonni · 713 followers</sub></td>
 <td align="right"><b>778</b></td>
 <td align="right">271</td>
@@ -78,7 +87,16 @@
 <td align="right">14</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
+<td><a href="https://github.com/millette"><img src="https://avatars.githubusercontent.com/u/50741?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/millette"><b>Robin Millette</b></a><br><sub>&#64;millette · 311 followers</sub></td>
+<td align="right"><b>332</b></td>
+<td align="right">197</td>
+<td align="right">15</td>
+<td align="right">0</td>
+<td align="right">24</td>
+</tr>
+<tr>
+<td align="right">9</td>
 <td><a href="https://github.com/magnologan"><img src="https://avatars.githubusercontent.com/u/1558043?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/magnologan"><b>Magno Logan</b></a><br><sub>&#64;magnologan · 401 followers</sub></td>
 <td align="right"><b>185</b></td>
 <td align="right">89</td>
@@ -87,11 +105,20 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">10</td>
 <td><a href="https://github.com/slamj1"><img src="https://avatars.githubusercontent.com/u/912224?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/slamj1"><b>Sam Morreel</b></a><br><sub>&#64;slamj1 · 504 followers</sub></td>
 <td align="right"><b>104</b></td>
 <td align="right">1</td>
 <td align="right">1</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/bonedaddy"><img src="https://avatars.githubusercontent.com/u/17089485?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bonedaddy"><b>bonedaddy</b></a><br><sub>&#64;bonedaddy · 368 followers</sub></td>
+<td align="right"><b>84</b></td>
+<td align="right">58</td>
+<td align="right">5</td>
 <td align="right">0</td>
 <td align="right">1</td>
 </tr>
@@ -102,7 +129,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 8 of 1,300 discovered developers (1,292 awaiting measurement).
+- **Measured:** 11 of 1,300 discovered developers (1,289 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 103 in round 1.

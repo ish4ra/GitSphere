@@ -5,7 +5,7 @@
 "country": {"code":"AL","name":"Albania","slug":"albania"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":158,"candidates":9,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":141,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":11,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":141,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjUwMTE3ODA5","login":"vasilirigels","name":"Vasili Rigels","url":"https://github.com/vasilirigels","avatarUrl":"https://avatars.githubusercontent.com/u/50117809?s=80&v=4","followers":3799,"publicRepos":139,"location":"Tirana, Albania","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjYwMzQ0Mjkw","login":"jbaci","name":"J.Baci","url":"https://github.com/jbaci","avatarUrl":"https://avatars.githubusercontent.com/u/60344290?s=80&v=4","followers":1889,"publicRepos":20,"location":"Tirana, Albania","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
@@ -15,10 +15,12 @@
   {"rank":6,"id":"MDQ6VXNlcjY0OTk3MjQz","login":"deniscerri","name":"Denis Çerri","url":"https://github.com/deniscerri","avatarUrl":"https://avatars.githubusercontent.com/u/64997243?s=80&v=4","followers":734,"publicRepos":26,"location":"Albania","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":7,"id":"U_kgDOBaG1kg","login":"4lbH4cker","name":"4lbH4cker","url":"https://github.com/4lbH4cker","avatarUrl":"https://avatars.githubusercontent.com/u/94483858?s=80&v=4","followers":733,"publicRepos":3,"location":"Albania","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":8,"id":"MDQ6VXNlcjI1Mzk0MzYy","login":"eneajaho","name":"Enea Jahollari","url":"https://github.com/eneajaho","avatarUrl":"https://avatars.githubusercontent.com/u/25394362?s=80&v=4","followers":460,"publicRepos":141,"location":"Albania","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
-  {"rank":9,"id":"MDQ6VXNlcjMzOTkxNA==","login":"banago","name":"Baki Goxhaj","url":"https://github.com/banago","avatarUrl":"https://avatars.githubusercontent.com/u/339914?s=80&v=4","followers":158,"location":"Vlorë, Albania","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"}
+  {"rank":9,"id":"MDQ6VXNlcjMzOTkxNA==","login":"banago","name":"Baki Goxhaj","url":"https://github.com/banago","avatarUrl":"https://avatars.githubusercontent.com/u/339914?s=80&v=4","followers":158,"publicRepos":28,"location":"Vlorë, Albania","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":10,"id":"U_kgDOC3Yzlw","login":"0xdbh","name":"iDev77","url":"https://github.com/0xdbh","avatarUrl":"https://avatars.githubusercontent.com/u/192295831?s=80&v=4","followers":0,"publicRepos":4,"location":"Vlorë, Albania","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":11,"id":"MDQ6VXNlcjU4OTE2NTYz","login":"0xermis","name":"Ermis Braka","url":"https://github.com/0xermis","avatarUrl":"https://avatars.githubusercontent.com/u/58916563?s=80&v=4","followers":0,"publicRepos":2,"location":"Tirana, Albania","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "9f908d48c5a5f2d9",
-"updatedAt": "2026-11-23T13:10:04.236Z",
+"contentHash": "86ee581bc3909b7d",
+"updatedAt": "2026-11-24T01:31:49.018Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T13:10:04.236Z"
+"generatedAt": "2026-11-24T01:31:49.018Z"
 }

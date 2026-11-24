@@ -205,45 +205,45 @@
 </tr>
 <tr>
 <td align="right">27</td>
-<td><a href="https://github.com/Nghalu"><img src="https://avatars.githubusercontent.com/u/202954655?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nghalu"><b>Makhala Lehloenya</b></a><br><sub>&#64;Nghalu</sub></td>
-<td align="right"><b>8</b></td>
-<td align="right">176</td>
-<td><sub>Lesotho</sub></td>
-</tr>
-<tr>
-<td align="right">28</td>
 <td><a href="https://github.com/kgatman"><img src="https://avatars.githubusercontent.com/u/2890883?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kgatman"><b>kgatman</b></a><br><sub>&#64;kgatman</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">44</td>
 <td><sub>Maseru,Lesotho</sub></td>
 </tr>
 <tr>
-<td align="right">29</td>
+<td align="right">28</td>
 <td><a href="https://github.com/lefahla"><img src="https://avatars.githubusercontent.com/u/17886654?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lefahla"><b>Thabo Nthako</b></a><br><sub>&#64;lefahla</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">35</td>
 <td><sub>Lesotho</sub></td>
 </tr>
 <tr>
-<td align="right">30</td>
+<td align="right">29</td>
 <td><a href="https://github.com/MaqhobelaKao"><img src="https://avatars.githubusercontent.com/u/111080777?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MaqhobelaKao"><b>Maqhobela Justins Kao</b></a><br><sub>&#64;MaqhobelaKao</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">18</td>
 <td><sub>Maseru Lesotho</sub></td>
 </tr>
 <tr>
-<td align="right">31</td>
+<td align="right">30</td>
 <td><a href="https://github.com/KuenaMahase"><img src="https://avatars.githubusercontent.com/u/116767569?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KuenaMahase"><b>Kuena Mahase</b></a><br><sub>&#64;KuenaMahase</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">15</td>
 <td><sub>Lesotho</sub></td>
 </tr>
 <tr>
-<td align="right">32</td>
+<td align="right">31</td>
 <td><a href="https://github.com/LNkholise"><img src="https://avatars.githubusercontent.com/u/98850226?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LNkholise"><b>Leonard Nkholise</b></a><br><sub>&#64;LNkholise</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">7</td>
 <td><sub>Maseru, Lesotho</sub></td>
+</tr>
+<tr>
+<td align="right">32</td>
+<td><a href="https://github.com/Nghalu"><img src="https://avatars.githubusercontent.com/u/202954655?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nghalu"><b>Makhala Lehloenya</b></a><br><sub>&#64;Nghalu</sub></td>
+<td align="right"><b>7</b></td>
+<td align="right">176</td>
+<td><sub>Lesotho</sub></td>
 </tr>
 <tr>
 <td align="right">33</td>

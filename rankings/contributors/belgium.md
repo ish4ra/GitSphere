@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/BE.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/BE.json">JSON</a> |
 
 </div>
 
@@ -61,6 +61,24 @@
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/blegat"><img src="https://avatars.githubusercontent.com/u/1048205?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/blegat"><b>Benoît Legat</b></a><br><sub>&#64;blegat · 330 followers</sub></td>
+<td align="right"><b>3,562</b></td>
+<td align="right">2,092</td>
+<td align="right">1,157</td>
+<td align="right">203</td>
+<td align="right">45</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/lrq3000"><img src="https://avatars.githubusercontent.com/u/1118942?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lrq3000"><b>Stephen Karl Larroque</b></a><br><sub>&#64;lrq3000 · 299 followers</sub></td>
+<td align="right"><b>990</b></td>
+<td align="right">845</td>
+<td align="right">75</td>
+<td align="right">2</td>
+<td align="right">31</td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/plexus"><img src="https://avatars.githubusercontent.com/u/32212?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/plexus"><b>Arne Brasseur</b></a><br><sub>&#64;plexus · 520 followers</sub></td>
 <td align="right"><b>646</b></td>
 <td align="right">612</td>
@@ -69,7 +87,7 @@
 <td align="right">3</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">8</td>
 <td><a href="https://github.com/meyskens"><img src="https://avatars.githubusercontent.com/u/1625272?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/meyskens"><b>Maartje Eyskens</b></a><br><sub>&#64;meyskens · 544 followers</sub></td>
 <td align="right"><b>264</b></td>
 <td align="right">250</td>
@@ -78,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">9</td>
 <td><a href="https://github.com/radu-matei"><img src="https://avatars.githubusercontent.com/u/13103165?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/radu-matei"><b>Radu Matei</b></a><br><sub>&#64;radu-matei · 633 followers</sub></td>
 <td align="right"><b>220</b></td>
 <td align="right">128</td>
@@ -87,13 +105,22 @@
 <td align="right">9</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">10</td>
 <td><a href="https://github.com/darobin"><img src="https://avatars.githubusercontent.com/u/38491?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/darobin"><b>Robin Berjon</b></a><br><sub>&#64;darobin · 350 followers</sub></td>
 <td align="right"><b>135</b></td>
 <td align="right">77</td>
 <td align="right">9</td>
 <td align="right">10</td>
 <td align="right">22</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/goffinet"><img src="https://avatars.githubusercontent.com/u/16957043?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/goffinet"><b>goffinet</b></a><br><sub>&#64;goffinet · 335 followers</sub></td>
+<td align="right"><b>50</b></td>
+<td align="right">45</td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">0</td>
 </tr>
 </tbody>
 </table>
@@ -102,7 +129,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 8 of 500 discovered developers (492 awaiting measurement).
+- **Measured:** 11 of 540 discovered developers (529 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 151 in round 1.

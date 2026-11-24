@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **94** | 01 Nov 2026 | <a href="../data/ID.json">JSON</a> |
-
-> **Not yet re-verified.** 14 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/ID.json">JSON</a> |
 
 </div>
 
@@ -585,101 +583,143 @@
 </tr>
 <tr>
 <td align="right">81</td>
-<td><img src="https://github.com/deaafrizal.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/deaafrizal/cuyuniverse-forum"><b>deaafrizal/cuyuniverse-forum</b></a></td>
-<td align="right"><b>212</b></td>
-<td align="right">121</td>
+<td><img src="https://github.com/mdmsoft.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mdmsoft/yii2-admin"><b>mdmsoft/yii2-admin</b></a><br><sub>Auth manager for Yii2 (RBAC Manager)</sub></td>
+<td align="right"><b>1,145</b></td>
+<td align="right">580</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">82</td>
-<td><img src="https://github.com/elianiva.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/elianiva/dotfiles"><b>elianiva/dotfiles</b></a></td>
-<td align="right"><b>204</b></td>
-<td align="right">9</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/tokotype.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tokotype/PlusJakartaSans"><b>tokotype/PlusJakartaSans</b></a><br><sub>+Jakarta Sans is a open-source fonts. Designed for Jakarta &quot;City of collaboration&quot; program in 2020.</sub></td>
+<td align="right"><b>1,139</b></td>
+<td align="right">56</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">83</td>
-<td><img src="https://github.com/bahrie127.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bahrie127/fic_flutter_basic"><b>bahrie127/fic&#95;flutter&#95;basic</b></a></td>
-<td align="right"><b>192</b></td>
-<td align="right">42</td>
-<td>Dart</td>
+<td><img src="https://github.com/esafirm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/esafirm/android-image-picker"><b>esafirm/android-image-picker</b></a> <sub>archived</sub><br><sub>Image Picker for Android 🤖</sub></td>
+<td align="right"><b>1,138</b></td>
+<td align="right">327</td>
+<td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">84</td>
-<td><img src="https://github.com/RozhakDev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RozhakDev/PyInstaCrack"><b>RozhakDev/PyInstaCrack</b></a></td>
-<td align="right"><b>187</b></td>
-<td align="right">38</td>
+<td><img src="https://github.com/ardha27.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ardha27/AI-Waifu-Vtuber"><b>ardha27/AI-Waifu-Vtuber</b></a><br><sub>AI Vtuber for Streaming on Youtube/Twitch</sub></td>
+<td align="right"><b>1,124</b></td>
+<td align="right">179</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">85</td>
-<td><img src="https://github.com/endymuhardin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/endymuhardin/belajarGit"><b>endymuhardin/belajarGit</b></a></td>
-<td align="right"><b>179</b></td>
-<td align="right">306</td>
+<td><img src="https://github.com/sandhikagalih.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sandhikagalih/project-kalian"><b>sandhikagalih/project-kalian</b></a><br><sub>Menyimpan daftar Project Kalian yang sudah disubmit di Discord</sub></td>
+<td align="right"><b>1,122</b></td>
+<td align="right">219</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">86</td>
-<td><img src="https://github.com/dicodingacademy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dicodingacademy/a51-android-pemula-labs"><b>dicodingacademy/a51-android-pemula-labs</b></a></td>
-<td align="right"><b>154</b></td>
-<td align="right">760</td>
-<td>Java</td>
+<td><img src="https://github.com/dimartarmizi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dimartarmizi/map-to-poster"><b>dimartarmizi/map-to-poster</b></a><br><sub>MapToPoster JS is a client-side web app that turns any location into a high-resolution, customizable map poster with va…</sub></td>
+<td align="right"><b>1,110</b></td>
+<td align="right">169</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">87</td>
-<td><img src="https://github.com/r17x.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/r17x/universe"><b>r17x/universe</b></a></td>
-<td align="right"><b>151</b></td>
-<td align="right">12</td>
-<td>Nix</td>
-</tr>
-<tr>
-<td align="right">88</td>
-<td><img src="https://github.com/mhaidarhanif.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mhaidarhanif/rewinds"><b>mhaidarhanif/rewinds</b></a> <sub>archived</sub></td>
-<td align="right"><b>123</b></td>
-<td align="right">4</td>
+<td><img src="https://github.com/jipraks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jipraks/yt-short-clipper"><b>jipraks/yt-short-clipper</b></a><br><sub>Windows desktop app that turns long-form YouTube videos into 9:16 short-form clips — AI highlight detection, face-track…</sub></td>
+<td align="right"><b>1,108</b></td>
+<td align="right">313</td>
 <td>TypeScript</td>
 </tr>
 <tr>
+<td align="right">88</td>
+<td><img src="https://github.com/khannedy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/khannedy/golang-clean-architecture"><b>khannedy/golang-clean-architecture</b></a><br><sub>Go-Lang Clean Architecture</sub></td>
+<td align="right"><b>1,108</b></td>
+<td align="right">279</td>
+<td>Go</td>
+</tr>
+<tr>
 <td align="right">89</td>
-<td><img src="https://github.com/wahyudesu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wahyudesu/Fastapi-AI-Production-Template"><b>wahyudesu/Fastapi-AI-Production-Template</b></a></td>
-<td align="right"><b>114</b></td>
-<td align="right">14</td>
-<td>Jupyter Notebook</td>
+<td><img src="https://github.com/Mafifrizi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mafifrizi/ARES"><b>Mafifrizi/ARES</b></a><br><sub>ARES - authorized red-team engagement automation with dashboard, campaign scope, module orchestration, OPSEC controls,…</sub></td>
+<td align="right"><b>1,107</b></td>
+<td align="right">251</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">90</td>
-<td><img src="https://github.com/rasidi3112.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rasidi3112/Quantum-Machine-Learning"><b>rasidi3112/Quantum-Machine-Learning</b></a></td>
-<td align="right"><b>111</b></td>
-<td align="right">14</td>
+<td><img src="https://github.com/Zyrexnn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Zyrexnn/Cybermes"><b>Zyrexnn/Cybermes</b></a><br><sub>Autonomous Offensive Security, Bug Bounty &amp; Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning…</sub></td>
+<td align="right"><b>1,062</b></td>
+<td align="right">180</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">91</td>
-<td><img src="https://github.com/Zlkcyber.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Zlkcyber/LedgeBot"><b>Zlkcyber/LedgeBot</b></a></td>
-<td align="right"><b>96</b></td>
-<td align="right">37</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/piharpi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/piharpi/jekyll-klise"><b>piharpi/jekyll-klise</b></a><br><sub>:beach&#95;umbrella: Klisé is a minimalist Jekyll theme for running a personal site or blog, light &amp; dark mode support. (ht…</sub></td>
+<td align="right"><b>1,060</b></td>
+<td align="right">403</td>
+<td>SCSS</td>
 </tr>
 <tr>
 <td align="right">92</td>
-<td><img src="https://github.com/samsonasik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/samsonasik/ci4-album"><b>samsonasik/ci4-album</b></a></td>
-<td align="right"><b>94</b></td>
-<td align="right">21</td>
-<td>PHP</td>
+<td><img src="https://github.com/raexera.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/raexera/tokyo"><b>raexera/tokyo</b></a> <sub>archived</sub><br><sub>BSPWM</sub></td>
+<td align="right"><b>1,056</b></td>
+<td align="right">72</td>
+<td>Shell</td>
 </tr>
 <tr>
 <td align="right">93</td>
-<td><img src="https://github.com/theodevoid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/theodevoid/wilayah-nusantara"><b>theodevoid/wilayah-nusantara</b></a></td>
-<td align="right"><b>94</b></td>
-<td align="right">8</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/raymondchins.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/raymondchins/Bridgeplay"><b>raymondchins/Bridgeplay</b></a><br><sub>Free fork of NotProton: Windows Steam games in Mac Steam, on CodeWeavers&#39; Wine and Apple&#39;s Game Porting Toolkit</sub></td>
+<td align="right"><b>1,039</b></td>
+<td align="right">154</td>
+<td>Scala</td>
 </tr>
 <tr>
 <td align="right">94</td>
-<td><img src="https://github.com/hangga.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hangga/delvelin"><b>hangga/delvelin</b></a></td>
-<td align="right"><b>93</b></td>
-<td align="right">2</td>
-<td>Java</td>
+<td><img src="https://github.com/Wikidepia.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Wikidepia/InstaFix"><b>Wikidepia/InstaFix</b></a> <sub>archived</sub><br><sub>Fix Instagram embeds in Discord (and Telegram!)</sub></td>
+<td align="right"><b>1,028</b></td>
+<td align="right">69</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/RioChndr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RioChndr/jaksel-language"><b>RioChndr/jaksel-language</b></a> <sub>archived</sub><br><sub>Jaksel Script, Programming language very modern and Indonesian style</sub></td>
+<td align="right"><b>960</b></td>
+<td align="right">96</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/MrSanZz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MrSanZz/KawaiiGPT"><b>MrSanZz/KawaiiGPT</b></a><br><sub>WormGPT kawaii ver</sub></td>
+<td align="right"><b>959</b></td>
+<td align="right">265</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/ccrsxx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ccrsxx/twitter-clone"><b>ccrsxx/twitter-clone</b></a><br><sub>Twitter clone built in Next.js + TypeScript + Tailwind CSS using Cloud Firestore and Storage</sub></td>
+<td align="right"><b>957</b></td>
+<td align="right">239</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/sunarya-thito.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sunarya-thito/shadcn_flutter"><b>sunarya-thito/shadcn&#95;flutter</b></a><br><sub>A cohesive shadcn/ui ecosystem for Flutter</sub></td>
+<td align="right"><b>957</b></td>
+<td align="right">128</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/mansuf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mansuf/mangadex-downloader"><b>mansuf/mangadex-downloader</b></a><br><sub>A command-line tool to download manga from MangaDex, written in Python.</sub></td>
+<td align="right"><b>940</b></td>
+<td align="right">89</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/onlyphantom.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/onlyphantom/llm-python"><b>onlyphantom/llm-python</b></a><br><sub>Large Language Models (LLMs) tutorials &amp; sample scripts, ft. langchain, openai, llamaindex, gpt, chromadb &amp; pinecone</sub></td>
+<td align="right"><b>932</b></td>
+<td align="right">313</td>
+<td>Jupyter Notebook</td>
 </tr>
 </tbody>
 </table>
@@ -687,10 +727,9 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 93 stars; 94 attributed candidates are tracked.
-- 14 entries were carried over from the previous dataset and are pending revalidation.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 932 stars; 103 attributed candidates are tracked.
 - 127 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 183 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

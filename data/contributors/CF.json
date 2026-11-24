@@ -5,13 +5,13 @@
 "country": {"code":"CF","name":"Central African Republic","slug":"central-african-republic"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":23,"measuredAccounts":8,"measurementBacklog":15,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":59,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":23,"measuredAccounts":11,"measurementBacklog":12,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":59,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOCmAEpA","login":"yadiOs-a-darel","name":"Alphonso Darel","url":"https://github.com/yadiOs-a-darel","avatarUrl":"https://avatars.githubusercontent.com/u/174064804?s=80&v=4","followers":4,"publicRepos":6,"location":"Bangui, Central African Republic","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":11,"commits":8,"pullRequests":1,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":2,"id":"MDQ6VXNlcjY5NzM2MzA1","login":"b-kranthireddy23","name":"Kranthi Reddy","url":"https://github.com/b-kranthireddy23","avatarUrl":"https://avatars.githubusercontent.com/u/69736305?s=80&v=4","followers":0,"publicRepos":1,"location":"Bangui, Central African Republic","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":3,"commits":2,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "526b1a9c3835a0b2",
-"updatedAt": "2026-11-23T13:10:04.236Z",
+"contentHash": "c237792c6d9195f2",
+"updatedAt": "2026-11-24T01:31:49.018Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T13:10:04.236Z"
+"generatedAt": "2026-11-24T01:31:49.018Z"
 }

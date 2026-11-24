@@ -5,16 +5,24 @@
 "country": {"code":"NR","name":"Nauru","slug":"nauru"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":5,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":13,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":21,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjIxMjMxMDA=","login":"ensonfun","name":"ensonfun","url":"https://github.com/ensonfun","avatarUrl":"https://avatars.githubusercontent.com/u/2123100?s=80&v=4","followers":1,"publicRepos":13,"location":"Verse","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23"},
-  {"rank":2,"id":"U_kgDOBhd2vA","login":"ktpnn","name":"sax","url":"https://github.com/ktpnn","avatarUrl":"https://avatars.githubusercontent.com/u/102201020?s=80&v=4","followers":1,"publicRepos":1,"location":"Yaren district, Nauru","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
-  {"rank":3,"id":"U_kgDOCTTLww","login":"01LuckyStrike10","name":"01LuckyStrike10","url":"https://github.com/01LuckyStrike10","avatarUrl":"https://avatars.githubusercontent.com/u/154454979?s=80&v=4","followers":0,"publicRepos":5,"location":"Nauru","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":4,"id":"U_kgDOCu5nSg","login":"bonifacyfirefly","name":null,"url":"https://github.com/bonifacyfirefly","avatarUrl":"https://avatars.githubusercontent.com/u/183396170?s=80&v=4","followers":0,"publicRepos":3,"location":"Nauru (NR)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":5,"id":"U_kgDOBYtRew","login":"I3lackExo","name":"I3lackExo.","url":"https://github.com/I3lackExo","avatarUrl":"https://avatars.githubusercontent.com/u/93016443?s=80&v=4","followers":0,"publicRepos":2,"location":"Ewa, Nauru","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"}
+  {"rank":1,"id":"MDQ6VXNlcjg2MzUyODc4","login":"SatiaLee","name":"SatiaLee","url":"https://github.com/SatiaLee","avatarUrl":"https://avatars.githubusercontent.com/u/86352878?s=80&v=4","followers":2,"publicRepos":10,"location":"Nauru","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":2,"id":"MDQ6VXNlcjIxMjMxMDA=","login":"ensonfun","name":"ensonfun","url":"https://github.com/ensonfun","avatarUrl":"https://avatars.githubusercontent.com/u/2123100?s=80&v=4","followers":1,"publicRepos":13,"location":"Verse","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23"},
+  {"rank":3,"id":"U_kgDOBhd2vA","login":"ktpnn","name":"sax","url":"https://github.com/ktpnn","avatarUrl":"https://avatars.githubusercontent.com/u/102201020?s=80&v=4","followers":1,"publicRepos":1,"location":"Yaren district, Nauru","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":4,"id":"U_kgDODiV_Pw","login":"rejectX","name":"kit","url":"https://github.com/rejectX","avatarUrl":"https://avatars.githubusercontent.com/u/237338431?s=80&v=4","followers":0,"publicRepos":8,"location":"Nauru","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":5,"id":"U_kgDOCuqHDw","login":"poxmetologdwarf","name":null,"url":"https://github.com/poxmetologdwarf","avatarUrl":"https://avatars.githubusercontent.com/u/183142159?s=80&v=4","followers":0,"publicRepos":6,"location":"Nauru (NR)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":6,"id":"U_kgDOCTTLww","login":"01LuckyStrike10","name":"01LuckyStrike10","url":"https://github.com/01LuckyStrike10","avatarUrl":"https://avatars.githubusercontent.com/u/154454979?s=80&v=4","followers":0,"publicRepos":5,"location":"Nauru","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":7,"id":"U_kgDOCu5nSg","login":"bonifacyfirefly","name":null,"url":"https://github.com/bonifacyfirefly","avatarUrl":"https://avatars.githubusercontent.com/u/183396170?s=80&v=4","followers":0,"publicRepos":3,"location":"Nauru (NR)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":8,"id":"U_kgDOBYtRew","login":"I3lackExo","name":"I3lackExo.","url":"https://github.com/I3lackExo","avatarUrl":"https://avatars.githubusercontent.com/u/93016443?s=80&v=4","followers":0,"publicRepos":2,"location":"Ewa, Nauru","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":9,"id":"U_kgDOCtHxrw","login":"rabbitwolfder","name":null,"url":"https://github.com/rabbitwolfder","avatarUrl":"https://avatars.githubusercontent.com/u/181531055?s=80&v=4","followers":0,"publicRepos":1,"location":"Nauru (NR)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":10,"id":"MDQ6VXNlcjY0ODUxNDU5","login":"leoricmybronotte","name":null,"url":"https://github.com/leoricmybronotte","avatarUrl":"https://avatars.githubusercontent.com/u/64851459?s=80&v=4","followers":0,"publicRepos":0,"location":"Uaboe,Nauru","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":11,"id":"U_kgDOD6QzPg","login":"miguelotaola","name":"Miguel","url":"https://github.com/miguelotaola","avatarUrl":"https://avatars.githubusercontent.com/u/262419262?s=80&v=4","followers":0,"publicRepos":0,"location":"Nauru","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":12,"id":"MDQ6VXNlcjgzNDgzNjc3","login":"Phillh56","name":"Phill Hardstaff","url":"https://github.com/Phillh56","avatarUrl":"https://avatars.githubusercontent.com/u/83483677?s=80&v=4","followers":0,"publicRepos":0,"location":"Yaren, Nauru","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":13,"id":"MDQ6VXNlcjY2Mzg5MjAw","login":"Rocky121068","name":"Rocky1968","url":"https://github.com/Rocky121068","avatarUrl":"https://avatars.githubusercontent.com/u/66389200?s=80&v=4","followers":0,"publicRepos":0,"location":"Nauru","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "79ad54cfd8e2e9c8",
-"updatedAt": "2026-11-23T13:10:04.236Z",
-"verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T13:10:04.236Z"
+"contentHash": "8e92e0a63a486704",
+"updatedAt": "2026-11-24T01:31:49.018Z",
+"verifiedOn": "2026-11-23",
+"generatedAt": "2026-11-24T01:31:49.018Z"
 }

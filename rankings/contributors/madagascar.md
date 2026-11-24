@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/MG.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/MG.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,24 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/GasyCoder"><img src="https://avatars.githubusercontent.com/u/34341565?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GasyCoder"><b>BEZARA Florent</b></a><br><sub>&#64;GasyCoder · 67 followers</sub></td>
+<td align="right"><b>1,867</b></td>
+<td align="right">1,751</td>
+<td align="right">60</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/GhosTHaise"><img src="https://avatars.githubusercontent.com/u/68249758?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GhosTHaise"><b>Fitiavana Sambatra</b></a><br><sub>&#64;GhosTHaise · 213 followers</sub></td>
+<td align="right"><b>640</b></td>
+<td align="right">465</td>
+<td align="right">148</td>
+<td align="right">1</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/hatixntsoa"><img src="https://avatars.githubusercontent.com/u/76181981?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hatixntsoa"><b>Hatix Ntsoa</b></a><br><sub>&#64;hatixntsoa · 387 followers</sub></td>
 <td align="right"><b>566</b></td>
 <td align="right">525</td>
@@ -51,7 +69,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">6</td>
 <td><a href="https://github.com/Kenainy-aizen"><img src="https://avatars.githubusercontent.com/u/212337443?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kenainy-aizen"><b>RAVELOMANANA Mahasoa Kelly</b></a><br><sub>&#64;Kenainy-aizen · 1,129 followers</sub></td>
 <td align="right"><b>208</b></td>
 <td align="right">162</td>
@@ -60,7 +78,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">7</td>
 <td><a href="https://github.com/mattnix4"><img src="https://avatars.githubusercontent.com/u/60849130?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mattnix4"><b>Nix Ra</b></a><br><sub>&#64;mattnix4 · 416 followers</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">14</td>
@@ -75,7 +93,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 5 of 401 discovered developers (396 awaiting measurement).
+- **Measured:** 7 of 399 discovered developers (392 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 174 in round 1.

@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **85** | 04 Nov 2026 | <a href="../data/BG.json">JSON</a> |
+| 🟠 Stale | **95** | 04 Nov 2026 | <a href="../data/BG.json">JSON</a> |
 
-> **Not yet re-verified.** 24 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 14 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -452,167 +452,237 @@
 </tr>
 <tr>
 <td align="right">62</td>
-<td><img src="https://github.com/rossysjohnny.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rossysjohnny/GrantDecay"><b>rossysjohnny/GrantDecay</b></a></td>
-<td align="right"><b>198</b></td>
-<td align="right">18</td>
-<td>Python</td>
+<td><img src="https://github.com/me-no-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/me-no-dev/EspExceptionDecoder"><b>me-no-dev/EspExceptionDecoder</b></a><br><sub>Exception Stack Trace Decoder for ESP8266 and ESP32</sub></td>
+<td align="right"><b>1,142</b></td>
+<td align="right">145</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">63</td>
-<td><img src="https://github.com/RStankov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RStankov/SearchObject"><b>RStankov/SearchObject</b></a></td>
-<td align="right"><b>181</b></td>
-<td align="right">17</td>
-<td>Ruby</td>
+<td><img src="https://github.com/telerik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/telerik/UI-For-UWP"><b>telerik/UI-For-UWP</b></a> <sub>archived</sub><br><sub>Telerik UI for Universal Windows Platform (UWP) is no longer supported.</sub></td>
+<td align="right"><b>1,139</b></td>
+<td align="right">226</td>
+<td>C#</td>
 </tr>
 <tr>
 <td align="right">64</td>
-<td><img src="https://github.com/skanev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/skanev/playground"><b>skanev/playground</b></a></td>
-<td align="right"><b>171</b></td>
-<td align="right">78</td>
-<td>Scheme</td>
+<td><img src="https://github.com/bbatsov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bbatsov/emacs-lisp-style-guide"><b>bbatsov/emacs-lisp-style-guide</b></a><br><sub>A community-driven Emacs Lisp style guide</sub></td>
+<td align="right"><b>1,138</b></td>
+<td align="right">54</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">65</td>
-<td><img src="https://github.com/nb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nb/wordpress-tests"><b>nb/wordpress-tests</b></a></td>
-<td align="right"><b>138</b></td>
-<td align="right">30</td>
-<td>PHP</td>
+<td><img src="https://github.com/npocmaka.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/npocmaka/batch.scripts"><b>npocmaka/batch.scripts</b></a><br><sub>batch script utils and examples by npocmaka -</sub></td>
+<td align="right"><b>1,135</b></td>
+<td align="right">870</td>
+<td>Batchfile</td>
 </tr>
 <tr>
 <td align="right">66</td>
-<td><img src="https://github.com/simeon-petrov-5.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/simeon-petrov-5/SoftUni-HTML-CSS-Jan-2023"><b>simeon-petrov-5/SoftUni-HTML-CSS-Jan-2023</b></a></td>
-<td align="right"><b>58</b></td>
-<td align="right">19</td>
+<td><img src="https://github.com/bobbyiliev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bobbyiliev/introduction-to-git-and-github-ebook"><b>bobbyiliev/introduction-to-git-and-github-ebook</b></a><br><sub>Free Introduction to Git and GitHub eBook</sub></td>
+<td align="right"><b>1,124</b></td>
+<td align="right">199</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">67</td>
-<td><img src="https://github.com/ivobul.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ivobul/codewell-solutions"><b>ivobul/codewell-solutions</b></a></td>
-<td align="right"><b>55</b></td>
-<td align="right">11</td>
-<td>HTML</td>
+<td><img src="https://github.com/ivopetkov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ivopetkov/responsively-lazy"><b>ivopetkov/responsively-lazy</b></a><br><sub>Lazy load responsive images and HTML</sub></td>
+<td align="right"><b>1,088</b></td>
+<td align="right">44</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">68</td>
-<td><img src="https://github.com/StoyanShopov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/StoyanShopov/XmlFacade"><b>StoyanShopov/XmlFacade</b></a></td>
-<td align="right"><b>52</b></td>
-<td align="right">0</td>
-<td>C#</td>
+<td><img src="https://github.com/bbatsov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bbatsov/zenburn-emacs"><b>bbatsov/zenburn-emacs</b></a><br><sub>The Zenburn colour theme ported to Emacs</sub></td>
+<td align="right"><b>1,085</b></td>
+<td align="right">265</td>
+<td>Emacs Lisp</td>
 </tr>
 <tr>
 <td align="right">69</td>
-<td><img src="https://github.com/DesislavaTopuzakova.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DesislavaTopuzakova/Java-Fundamentals-January-2023"><b>DesislavaTopuzakova/Java-Fundamentals-January-2023</b></a></td>
-<td align="right"><b>44</b></td>
-<td align="right">7</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">70</td>
-<td><img src="https://github.com/tsvetis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tsvetis/Angular-Oct-2024"><b>tsvetis/Angular-Oct-2024</b></a></td>
-<td align="right"><b>33</b></td>
-<td align="right">2</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">71</td>
-<td><img src="https://github.com/ip681.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ip681/face-recognition-with-correlation-coefficients-and-euclidean-distance"><b>ip681/face-recognition-with-correlation-coefficients-and-euclidean-distance</b></a></td>
-<td align="right"><b>32</b></td>
-<td align="right">6</td>
+<td><img src="https://github.com/curiousily.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/curiousily/Deep-Learning-For-Hackers"><b>curiousily/Deep-Learning-For-Hackers</b></a><br><sub>Machine Learning tutorials with TensorFlow 2 and Keras in Python (Jupyter notebooks included) - (LSTMs, Hyperameter tun…</sub></td>
+<td align="right"><b>1,080</b></td>
+<td align="right">431</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
+<td align="right">70</td>
+<td><img src="https://github.com/dbrizov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dbrizov/Unity-CharacterController"><b>dbrizov/Unity-CharacterController</b></a><br><sub>Third Person Controller for Unity</sub></td>
+<td align="right"><b>1,077</b></td>
+<td align="right">145</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/bbatsov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bbatsov/crux"><b>bbatsov/crux</b></a><br><sub>A Collection of Ridiculously Useful eXtensions for Emacs</sub></td>
+<td align="right"><b>1,048</b></td>
+<td align="right">52</td>
+<td>Emacs Lisp</td>
+</tr>
+<tr>
 <td align="right">72</td>
+<td><img src="https://github.com/Whimfoome.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Whimfoome/godot-FirstPersonStarter"><b>Whimfoome/godot-FirstPersonStarter</b></a><br><sub>FPS (First Person Shooter) controller template for Godot 4 to give starter content for a new or already existing projec…</sub></td>
+<td align="right"><b>1,038</b></td>
+<td align="right">65</td>
+<td>GDScript</td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><img src="https://github.com/ivandokov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ivandokov/phockup"><b>ivandokov/phockup</b></a><br><sub>Media sorting tool to organize photos and videos from your camera in folders by year, month and day.</sub></td>
+<td align="right"><b>1,016</b></td>
+<td align="right">111</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/itay-grudev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/itay-grudev/SingleApplication"><b>itay-grudev/SingleApplication</b></a><br><sub>Replacement of QtSingleApplication for Qt 5 and Qt 6 with support for inter-instance communication.</sub></td>
+<td align="right"><b>1,012</b></td>
+<td align="right">246</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/krasimir.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/krasimir/cssx"><b>krasimir/cssx</b></a><br><sub>CSS in JavaScript</sub></td>
+<td align="right"><b>1,000</b></td>
+<td align="right">36</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/PactInteractive.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PactInteractive/image-downloader"><b>PactInteractive/image-downloader</b></a><br><sub>⬇️ Download images from the web with ease. A browser extension for Google Chrome, Microsoft Edge, and Brave.</sub></td>
+<td align="right"><b>993</b></td>
+<td align="right">326</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/dbrizov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dbrizov/Unity-WaterBuoyancy"><b>dbrizov/Unity-WaterBuoyancy</b></a><br><sub>Water Buoyancy Simulation for Unity</sub></td>
+<td align="right"><b>968</b></td>
+<td align="right">124</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/curiousily.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/curiousily/AI-Bootcamp"><b>curiousily/AI-Bootcamp</b></a><br><sub>Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, Ollama, LLMs, RAGs, LangChain, LangGraph, Fine-tuni…</sub></td>
+<td align="right"><b>960</b></td>
+<td align="right">299</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/HackSoftware.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HackSoftware/Django-Styleguide-Example"><b>HackSoftware/Django-Styleguide-Example</b></a><br><sub>Repository for example styleguide project</sub></td>
+<td align="right"><b>959</b></td>
+<td align="right">145</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/dvmarinoff.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dvmarinoff/Auuki"><b>dvmarinoff/Auuki</b></a><br><sub>Indoor Cycling App for Structured Training</sub></td>
+<td align="right"><b>928</b></td>
+<td align="right">175</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/Erudika.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Erudika/scoold"><b>Erudika/scoold</b></a><br><sub>The Stack Overflow clone for your team (self-hosted or hosted)</sub></td>
+<td align="right"><b>920</b></td>
+<td align="right">226</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">82</td>
 <td><img src="https://github.com/spytheman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spytheman/simple_kernel_module_in_v"><b>spytheman/simple&#95;kernel&#95;module&#95;in&#95;v</b></a></td>
 <td align="right"><b>28</b></td>
 <td align="right">2</td>
 <td>Makefile</td>
 </tr>
 <tr>
-<td align="right">73</td>
+<td align="right">83</td>
 <td><img src="https://github.com/luchob.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/luchob/softuni-feb2023"><b>luchob/softuni-feb2023</b></a></td>
 <td align="right"><b>25</b></td>
 <td align="right">14</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">74</td>
+<td align="right">84</td>
 <td><img src="https://github.com/sis0k0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sis0k0/lazyNinjas"><b>sis0k0/lazyNinjas</b></a></td>
 <td align="right"><b>25</b></td>
 <td align="right">6</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">75</td>
+<td align="right">85</td>
 <td><img src="https://github.com/narfbg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/narfbg/SimpleEncryption"><b>narfbg/SimpleEncryption</b></a></td>
 <td align="right"><b>22</b></td>
 <td align="right">6</td>
 <td>PHP</td>
 </tr>
 <tr>
-<td align="right">76</td>
+<td align="right">86</td>
 <td><img src="https://github.com/siffash.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/siffash/cookie-fucker"><b>siffash/cookie-fucker</b></a> <sub>archived</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">0</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">77</td>
+<td align="right">87</td>
 <td><img src="https://github.com/iskalchev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/iskalchev/ThermoBeacon"><b>iskalchev/ThermoBeacon</b></a></td>
 <td align="right"><b>21</b></td>
 <td align="right">6</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">78</td>
+<td align="right">88</td>
 <td><img src="https://github.com/stamo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stamo/HouseRentingSystem"><b>stamo/HouseRentingSystem</b></a></td>
 <td align="right"><b>21</b></td>
 <td align="right">0</td>
 <td>C#</td>
 </tr>
 <tr>
-<td align="right">79</td>
+<td align="right">89</td>
 <td><img src="https://github.com/milaabl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/milaabl/readme-chess"><b>milaabl/readme-chess</b></a></td>
 <td align="right"><b>20</b></td>
 <td align="right">0</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">80</td>
+<td align="right">90</td>
 <td><img src="https://github.com/bankin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bankin/2023-jan-java-advanced"><b>bankin/2023-jan-java-advanced</b></a></td>
 <td align="right"><b>19</b></td>
 <td align="right">0</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">81</td>
+<td align="right">91</td>
 <td><img src="https://github.com/lanastasov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lanastasov/mt-mql"><b>lanastasov/mt-mql</b></a></td>
 <td align="right"><b>18</b></td>
 <td align="right">5</td>
 <td>MQL5</td>
 </tr>
 <tr>
-<td align="right">82</td>
+<td align="right">92</td>
 <td><img src="https://github.com/alexmehandzhiyska.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexmehandzhiyska/js-fundamentals-correction-tasks"><b>alexmehandzhiyska/js-fundamentals-correction-tasks</b></a></td>
 <td align="right"><b>18</b></td>
 <td align="right">2</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">83</td>
+<td align="right">93</td>
 <td><img src="https://github.com/elenadimitrova.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/elenadimitrova/ContractFactory"><b>elenadimitrova/ContractFactory</b></a></td>
 <td align="right"><b>14</b></td>
 <td align="right">9</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">84</td>
+<td align="right">94</td>
 <td><img src="https://github.com/ivailopapazov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ivailopapazov/softuni-cubicle-may-2023"><b>ivailopapazov/softuni-cubicle-may-2023</b></a></td>
 <td align="right"><b>14</b></td>
 <td align="right">5</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">85</td>
+<td align="right">95</td>
 <td><img src="https://github.com/ivandortulov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ivandortulov/godot-ps2"><b>ivandortulov/godot-ps2</b></a></td>
 <td align="right"><b>11</b></td>
 <td align="right">1</td>
@@ -626,9 +696,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 11 stars; 85 attributed candidates are tracked.
-- 24 entries were carried over from the previous dataset and are pending revalidation.
-- 126 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 11 stars; 95 attributed candidates are tracked.
+- 14 entries were carried over from the previous dataset and are pending revalidation.
+- 124 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 140 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

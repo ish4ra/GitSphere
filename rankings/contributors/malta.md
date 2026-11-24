@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/MT.json">JSON</a> |
+| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/MT.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,15 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/MarkCiliaVincenti"><img src="https://avatars.githubusercontent.com/u/25120736?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MarkCiliaVincenti"><b>Mark Cilia Vincenti</b></a><br><sub>&#64;MarkCiliaVincenti · 66 followers</sub></td>
+<td align="right"><b>561</b></td>
+<td align="right">344</td>
+<td align="right">136</td>
+<td align="right">8</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/mandyfarrugia"><img src="https://avatars.githubusercontent.com/u/107984232?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mandyfarrugia"><b>Mandy Farrugia</b></a><br><sub>&#64;mandyfarrugia · 369 followers</sub></td>
 <td align="right"><b>387</b></td>
 <td align="right">371</td>
@@ -51,7 +60,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
+<td><a href="https://github.com/Geod24"><img src="https://avatars.githubusercontent.com/u/2180215?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Geod24"><b>Mathias LANG</b></a><br><sub>&#64;Geod24 · 72 followers</sub></td>
+<td align="right"><b>168</b></td>
+<td align="right">76</td>
+<td align="right">64</td>
+<td align="right">7</td>
+<td align="right">16</td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/xiaocong"><img src="https://avatars.githubusercontent.com/u/1559756?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xiaocong"><b>xiaocong</b></a><br><sub>&#64;xiaocong · 475 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
@@ -66,7 +84,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 5 of 400 discovered developers (395 awaiting measurement).
+- **Measured:** 7 of 398 discovered developers (391 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 104 in round 1.

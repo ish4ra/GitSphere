@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **205** | 22 Nov 2026 | <a href="../../data/developers/RU.json">JSON</a> |
+| 🟡 Provisional | **264** | 22 Nov 2026 | <a href="../../data/developers/RU.json">JSON</a> |
 
 </div>
 
@@ -905,552 +905,965 @@
 </tr>
 <tr>
 <td align="right">127</td>
-<td><a href="https://github.com/darkk"><img src="https://avatars.githubusercontent.com/u/21046?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/darkk"><b>Leonid Evdokimov</b></a><br><sub>&#64;darkk</sub></td>
-<td align="right"><b>339</b></td>
-<td align="right">0</td>
-<td><sub>Saint Petersburg, Russia</sub></td>
+<td><a href="https://github.com/archercreat"><img src="https://avatars.githubusercontent.com/u/41573188?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/archercreat"><b>Pavel</b></a><br><sub>&#64;archercreat</sub></td>
+<td align="right"><b>342</b></td>
+<td align="right">39</td>
+<td><sub>Moscow</sub></td>
 </tr>
 <tr>
 <td align="right">128</td>
-<td><a href="https://github.com/DmitryTsepelev"><img src="https://avatars.githubusercontent.com/u/842700?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DmitryTsepelev"><b>Dmitry Tsepelev</b></a><br><sub>&#64;DmitryTsepelev</sub></td>
-<td align="right"><b>336</b></td>
-<td align="right">0</td>
-<td><sub>Russia, Vladimir</sub></td>
-</tr>
-<tr>
-<td align="right">129</td>
-<td><a href="https://github.com/n0a"><img src="https://avatars.githubusercontent.com/u/14150948?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/n0a"><b>Denis Simonov</b></a><br><sub>&#64;n0a</sub></td>
-<td align="right"><b>324</b></td>
-<td align="right">0</td>
-<td><sub>Saint-Petersburg</sub></td>
-</tr>
-<tr>
-<td align="right">130</td>
-<td><a href="https://github.com/Smorodov"><img src="https://avatars.githubusercontent.com/u/1816461?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Smorodov"><b>Andrey Smorodov</b></a><br><sub>&#64;Smorodov</sub></td>
-<td align="right"><b>303</b></td>
-<td align="right">0</td>
-<td><sub>Russian Federation</sub></td>
-</tr>
-<tr>
-<td align="right">131</td>
-<td><a href="https://github.com/pConst"><img src="https://avatars.githubusercontent.com/u/949988?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pConst"><b>Konstantin Pavlov</b></a><br><sub>&#64;pConst</sub></td>
-<td align="right"><b>294</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/Nashatyrev"><img src="https://avatars.githubusercontent.com/u/8173857?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nashatyrev"><b>Anton Nashatyrev</b></a><br><sub>&#64;Nashatyrev</sub></td>
+<td align="right"><b>341</b></td>
+<td align="right">41</td>
 <td><sub>Saint-Petersburg, Russia</sub></td>
 </tr>
 <tr>
+<td align="right">129</td>
+<td><a href="https://github.com/darkk"><img src="https://avatars.githubusercontent.com/u/21046?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/darkk"><b>Leonid Evdokimov</b></a><br><sub>&#64;darkk</sub></td>
+<td align="right"><b>339</b></td>
+<td align="right">73</td>
+<td><sub>Saint Petersburg, Russia</sub></td>
+</tr>
+<tr>
+<td align="right">130</td>
+<td><a href="https://github.com/nktnlx"><img src="https://avatars.githubusercontent.com/u/47733508?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nktnlx"><b>Aleksandr Nikitin</b></a><br><sub>&#64;nktnlx</sub></td>
+<td align="right"><b>338</b></td>
+<td align="right">18</td>
+<td><sub>St. Petersburg</sub></td>
+</tr>
+<tr>
+<td align="right">131</td>
+<td><a href="https://github.com/avaneev"><img src="https://avatars.githubusercontent.com/u/11453377?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/avaneev"><b>Aleksey Vaneev</b></a><br><sub>&#64;avaneev</sub></td>
+<td align="right"><b>337</b></td>
+<td align="right">16</td>
+<td><sub>Syktyvkar, Komi</sub></td>
+</tr>
+<tr>
 <td align="right">132</td>
-<td><a href="https://github.com/dreddsa5dies"><img src="https://avatars.githubusercontent.com/u/2690403?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dreddsa5dies"><b>Viktor Solovev</b></a><br><sub>&#64;dreddsa5dies</sub></td>
-<td align="right"><b>290</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/Maks00071"><img src="https://avatars.githubusercontent.com/u/52540515?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Maks00071"><b>Maks Korystov</b></a><br><sub>&#64;Maks00071</sub></td>
+<td align="right"><b>337</b></td>
+<td align="right">15</td>
 <td><sub>Moscow</sub></td>
 </tr>
 <tr>
 <td align="right">133</td>
-<td><a href="https://github.com/lesovsky"><img src="https://avatars.githubusercontent.com/u/953312?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lesovsky"><b>Lesovsky Alexey</b></a><br><sub>&#64;lesovsky</sub></td>
-<td align="right"><b>285</b></td>
-<td align="right">0</td>
-<td><sub>Yekaterinburg, Russian Federation</sub></td>
+<td><a href="https://github.com/DmitryTsepelev"><img src="https://avatars.githubusercontent.com/u/842700?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DmitryTsepelev"><b>Dmitry Tsepelev</b></a><br><sub>&#64;DmitryTsepelev</sub></td>
+<td align="right"><b>336</b></td>
+<td align="right">41</td>
+<td><sub>Russia, Vladimir</sub></td>
 </tr>
 <tr>
 <td align="right">134</td>
+<td><a href="https://github.com/SoberGrim"><img src="https://avatars.githubusercontent.com/u/12745995?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SoberGrim"><b>Alexander Moiseev</b></a><br><sub>&#64;SoberGrim</sub></td>
+<td align="right"><b>333</b></td>
+<td align="right">59</td>
+<td><sub>Russia, Volgograd</sub></td>
+</tr>
+<tr>
+<td align="right">135</td>
+<td><a href="https://github.com/TheNewAttacker64"><img src="https://avatars.githubusercontent.com/u/57035255?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TheNewAttacker64"><b>TheNewAttacker</b></a><br><sub>&#64;TheNewAttacker64</sub></td>
+<td align="right"><b>327</b></td>
+<td align="right">31</td>
+<td><sub>Russia</sub></td>
+</tr>
+<tr>
+<td align="right">136</td>
+<td><a href="https://github.com/jkenix"><img src="https://avatars.githubusercontent.com/u/80328121?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jkenix"><b>Dmitriy</b></a><br><sub>&#64;jkenix</sub></td>
+<td align="right"><b>327</b></td>
+<td align="right">14</td>
+<td><sub>Russia</sub></td>
+</tr>
+<tr>
+<td align="right">137</td>
+<td><a href="https://github.com/n0a"><img src="https://avatars.githubusercontent.com/u/14150948?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/n0a"><b>Denis Simonov</b></a><br><sub>&#64;n0a</sub></td>
+<td align="right"><b>324</b></td>
+<td align="right">40</td>
+<td><sub>Saint-Petersburg</sub></td>
+</tr>
+<tr>
+<td align="right">138</td>
+<td><a href="https://github.com/ac3ss0r"><img src="https://avatars.githubusercontent.com/u/98286101?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ac3ss0r"><b>acessor</b></a><br><sub>&#64;ac3ss0r</sub></td>
+<td align="right"><b>320</b></td>
+<td align="right">22</td>
+<td><sub>Russia, Moscow</sub></td>
+</tr>
+<tr>
+<td align="right">139</td>
+<td><a href="https://github.com/AlexKrutoy"><img src="https://avatars.githubusercontent.com/u/65369825?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlexKrutoy"><b>AlexKrut</b></a><br><sub>&#64;AlexKrutoy</sub></td>
+<td align="right"><b>320</b></td>
+<td align="right">12</td>
+<td><sub>St. Petersburg</sub></td>
+</tr>
+<tr>
+<td align="right">140</td>
+<td><a href="https://github.com/Pyscodes-pro"><img src="https://avatars.githubusercontent.com/u/184492091?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Pyscodes-pro"><b>pyscodes</b></a><br><sub>&#64;Pyscodes-pro</sub></td>
+<td align="right"><b>319</b></td>
+<td align="right">8</td>
+<td><sub>moskow,Russia</sub></td>
+</tr>
+<tr>
+<td align="right">141</td>
+<td><a href="https://github.com/pauljamm"><img src="https://avatars.githubusercontent.com/u/52830945?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pauljamm"><b>Pavel Selivanov</b></a><br><sub>&#64;pauljamm</sub></td>
+<td align="right"><b>315</b></td>
+<td align="right">20</td>
+<td><sub>Russia, Moscow</sub></td>
+</tr>
+<tr>
+<td align="right">142</td>
+<td><a href="https://github.com/AnnaCVrecruitment"><img src="https://avatars.githubusercontent.com/u/64134468?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AnnaCVrecruitment"><b>Kirova Ann</b></a><br><sub>&#64;AnnaCVrecruitment</sub></td>
+<td align="right"><b>314</b></td>
+<td align="right">15</td>
+<td><sub>Moscow</sub></td>
+</tr>
+<tr>
+<td align="right">143</td>
+<td><a href="https://github.com/seregazhuk"><img src="https://avatars.githubusercontent.com/u/9959761?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/seregazhuk"><b>Sergey Zhuk</b></a><br><sub>&#64;seregazhuk</sub></td>
+<td align="right"><b>313</b></td>
+<td align="right">55</td>
+<td><sub>Bryansk, Russia</sub></td>
+</tr>
+<tr>
+<td align="right">144</td>
+<td><a href="https://github.com/olezhek28"><img src="https://avatars.githubusercontent.com/u/13212921?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/olezhek28"><b>Олег Козырев</b></a><br><sub>&#64;olezhek28</sub></td>
+<td align="right"><b>313</b></td>
+<td align="right">10</td>
+<td><sub>Санкт-Петербург</sub></td>
+</tr>
+<tr>
+<td align="right">145</td>
+<td><a href="https://github.com/ddemidov"><img src="https://avatars.githubusercontent.com/u/270503?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ddemidov"><b>Denis Demidov</b></a><br><sub>&#64;ddemidov</sub></td>
+<td align="right"><b>311</b></td>
+<td align="right">52</td>
+<td><sub>Kazan, Russia</sub></td>
+</tr>
+<tr>
+<td align="right">146</td>
+<td><a href="https://github.com/Zoomish"><img src="https://avatars.githubusercontent.com/u/99123419?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Zoomish"><b>Egor Rezvyi</b></a><br><sub>&#64;Zoomish</sub></td>
+<td align="right"><b>311</b></td>
+<td align="right">11</td>
+<td><sub>Russia</sub></td>
+</tr>
+<tr>
+<td align="right">147</td>
+<td><a href="https://github.com/CODeRUS"><img src="https://avatars.githubusercontent.com/u/720601?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CODeRUS"><b>CODeRUS</b></a><br><sub>&#64;CODeRUS</sub></td>
+<td align="right"><b>309</b></td>
+<td align="right">170</td>
+<td><sub>Russia</sub></td>
+</tr>
+<tr>
+<td align="right">148</td>
+<td><a href="https://github.com/webmakaka"><img src="https://avatars.githubusercontent.com/u/10372159?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/webmakaka"><b>Marley</b></a><br><sub>&#64;webmakaka</sub></td>
+<td align="right"><b>307</b></td>
+<td align="right">204</td>
+<td><sub>Russia, Moscow</sub></td>
+</tr>
+<tr>
+<td align="right">149</td>
+<td><a href="https://github.com/obenjiro"><img src="https://avatars.githubusercontent.com/u/1760346?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/obenjiro"><b>Alexey Okhrimenko</b></a><br><sub>&#64;obenjiro</sub></td>
+<td align="right"><b>307</b></td>
+<td align="right">89</td>
+<td><sub>Moscow</sub></td>
+</tr>
+<tr>
+<td align="right">150</td>
+<td><a href="https://github.com/funny-falcon"><img src="https://avatars.githubusercontent.com/u/249427?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/funny-falcon"><b>Sokolov Yura</b></a><br><sub>&#64;funny-falcon</sub></td>
+<td align="right"><b>305</b></td>
+<td align="right">131</td>
+<td><sub>Moscow, Russia</sub></td>
+</tr>
+<tr>
+<td align="right">151</td>
+<td><a href="https://github.com/Webzarium"><img src="https://avatars.githubusercontent.com/u/122037228?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Webzarium"><b>Webzar</b></a><br><sub>&#64;Webzarium</sub></td>
+<td align="right"><b>305</b></td>
+<td align="right">12</td>
+<td><sub>Moscow</sub></td>
+</tr>
+<tr>
+<td align="right">152</td>
+<td><a href="https://github.com/Smorodov"><img src="https://avatars.githubusercontent.com/u/1816461?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Smorodov"><b>Andrey Smorodov</b></a><br><sub>&#64;Smorodov</sub></td>
+<td align="right"><b>303</b></td>
+<td align="right">317</td>
+<td><sub>Russian Federation</sub></td>
+</tr>
+<tr>
+<td align="right">153</td>
+<td><a href="https://github.com/h4ck3r-loverdark"><img src="https://avatars.githubusercontent.com/u/275105802?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/h4ck3r-loverdark"><b>xreqy-qrays</b></a><br><sub>&#64;h4ck3r-loverdark</sub></td>
+<td align="right"><b>302</b></td>
+<td align="right">2</td>
+<td><sub>🇷🇺ı love my githup profil - I LOVE MY FRİENDS…</sub></td>
+</tr>
+<tr>
+<td align="right">154</td>
+<td><a href="https://github.com/EvilBeaver"><img src="https://avatars.githubusercontent.com/u/2657561?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EvilBeaver"><b>Andrei Ovsiankin</b></a><br><sub>&#64;EvilBeaver</sub></td>
+<td align="right"><b>300</b></td>
+<td align="right">72</td>
+<td><sub>Russia</sub></td>
+</tr>
+<tr>
+<td align="right">155</td>
+<td><a href="https://github.com/kushti"><img src="https://avatars.githubusercontent.com/u/1972441?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kushti"><b>Alexander Chepurnoy</b></a><br><sub>&#64;kushti</sub></td>
+<td align="right"><b>300</b></td>
+<td align="right">37</td>
+<td><sub>Russia</sub></td>
+</tr>
+<tr>
+<td align="right">156</td>
+<td><a href="https://github.com/Anton-Sergeev-EA"><img src="https://avatars.githubusercontent.com/u/230155152?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Anton-Sergeev-EA"><b>Anton Sergeev</b></a><br><sub>&#64;Anton-Sergeev-EA</sub></td>
+<td align="right"><b>299</b></td>
+<td align="right">15</td>
+<td><sub>Russian Federation. Saint-Petersburg</sub></td>
+</tr>
+<tr>
+<td align="right">157</td>
+<td><a href="https://github.com/JustS-js"><img src="https://avatars.githubusercontent.com/u/74768376?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JustS-js"><b>Sam</b></a><br><sub>&#64;JustS-js</sub></td>
+<td align="right"><b>298</b></td>
+<td align="right">52</td>
+<td><sub>Russia</sub></td>
+</tr>
+<tr>
+<td align="right">158</td>
+<td><a href="https://github.com/jfferson"><img src="https://avatars.githubusercontent.com/u/12142680?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jfferson"><b>Jeferson de Lemos</b></a><br><sub>&#64;jfferson</sub></td>
+<td align="right"><b>298</b></td>
+<td align="right">3</td>
+<td><sub>Petropolis</sub></td>
+</tr>
+<tr>
+<td align="right">159</td>
+<td><a href="https://github.com/pConst"><img src="https://avatars.githubusercontent.com/u/949988?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pConst"><b>Konstantin Pavlov</b></a><br><sub>&#64;pConst</sub></td>
+<td align="right"><b>294</b></td>
+<td align="right">20</td>
+<td><sub>Saint-Petersburg, Russia</sub></td>
+</tr>
+<tr>
+<td align="right">160</td>
+<td><a href="https://github.com/dreddsa5dies"><img src="https://avatars.githubusercontent.com/u/2690403?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dreddsa5dies"><b>Viktor Solovev</b></a><br><sub>&#64;dreddsa5dies</sub></td>
+<td align="right"><b>290</b></td>
+<td align="right">40</td>
+<td><sub>Moscow</sub></td>
+</tr>
+<tr>
+<td align="right">161</td>
+<td><a href="https://github.com/lesovsky"><img src="https://avatars.githubusercontent.com/u/953312?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lesovsky"><b>Lesovsky Alexey</b></a><br><sub>&#64;lesovsky</sub></td>
+<td align="right"><b>285</b></td>
+<td align="right">25</td>
+<td><sub>Yekaterinburg, Russian Federation</sub></td>
+</tr>
+<tr>
+<td align="right">162</td>
 <td><a href="https://github.com/crashmax-dev"><img src="https://avatars.githubusercontent.com/u/15673111?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/crashmax-dev"><b>Vitalij Ryndin</b></a><br><sub>&#64;crashmax-dev</sub></td>
 <td align="right"><b>279</b></td>
 <td align="right">0</td>
 <td><sub>Russia</sub></td>
 </tr>
 <tr>
-<td align="right">135</td>
+<td align="right">163</td>
 <td><a href="https://github.com/NekR"><img src="https://avatars.githubusercontent.com/u/1189265?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NekR"><b>Arthur Stolyar</b></a><br><sub>&#64;NekR</sub></td>
 <td align="right"><b>279</b></td>
 <td align="right">0</td>
 <td><sub>Russia, St. Petersburg</sub></td>
 </tr>
 <tr>
-<td align="right">136</td>
+<td align="right">164</td>
 <td><a href="https://github.com/artpolikarpov"><img src="https://avatars.githubusercontent.com/u/870859?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/artpolikarpov"><b>Artem Polikarpov</b></a><br><sub>&#64;artpolikarpov</sub></td>
 <td align="right"><b>277</b></td>
 <td align="right">0</td>
 <td><sub>Saint Petersburg, Russia</sub></td>
 </tr>
 <tr>
-<td align="right">137</td>
+<td align="right">165</td>
 <td><a href="https://github.com/vk-com"><img src="https://avatars.githubusercontent.com/u/6718447?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vk-com"><b>VK</b></a><br><sub>&#64;vk-com</sub></td>
 <td align="right"><b>268</b></td>
 <td align="right">0</td>
 <td><sub>St.Petersburg, Russia</sub></td>
 </tr>
 <tr>
-<td align="right">138</td>
+<td align="right">166</td>
+<td><a href="https://github.com/autowp"><img src="https://avatars.githubusercontent.com/u/2299280?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/autowp"><b>Dmitry</b></a><br><sub>&#64;autowp</sub></td>
+<td align="right"><b>265</b></td>
+<td align="right">0</td>
+<td><sub>Moscow</sub></td>
+</tr>
+<tr>
+<td align="right">167</td>
+<td><a href="https://github.com/neon-age"><img src="https://avatars.githubusercontent.com/u/29812914?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/neon-age"><b>Neonage</b></a><br><sub>&#64;neon-age</sub></td>
+<td align="right"><b>259</b></td>
+<td align="right">0</td>
+<td><sub>Novosibirsk, Russia</sub></td>
+</tr>
+<tr>
+<td align="right">168</td>
 <td><a href="https://github.com/dilame"><img src="https://avatars.githubusercontent.com/u/9336742?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dilame"><b>Dmitry</b></a><br><sub>&#64;dilame</sub></td>
 <td align="right"><b>243</b></td>
 <td align="right">0</td>
 <td><sub>Россия, Москва</sub></td>
 </tr>
 <tr>
-<td align="right">139</td>
+<td align="right">169</td>
 <td><a href="https://github.com/sergiomarotco"><img src="https://avatars.githubusercontent.com/u/29877074?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sergiomarotco"><b>sergiomarotco</b></a><br><sub>&#64;sergiomarotco</sub></td>
 <td align="right"><b>241</b></td>
 <td align="right">0</td>
 <td><sub>Russia</sub></td>
 </tr>
 <tr>
-<td align="right">140</td>
+<td align="right">170</td>
 <td><a href="https://github.com/yeriomin"><img src="https://avatars.githubusercontent.com/u/554737?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yeriomin"><b>Sergey Yeriomin</b></a><br><sub>&#64;yeriomin</sub></td>
 <td align="right"><b>241</b></td>
 <td align="right">0</td>
 <td><sub>Saint-Petersburg, Russia</sub></td>
 </tr>
 <tr>
-<td align="right">141</td>
+<td align="right">171</td>
 <td><a href="https://github.com/akopytov"><img src="https://avatars.githubusercontent.com/u/1174709?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akopytov"><b>Alexey Kopytov</b></a><br><sub>&#64;akopytov</sub></td>
 <td align="right"><b>239</b></td>
 <td align="right">0</td>
 <td><sub>Moscow, Russia</sub></td>
 </tr>
 <tr>
-<td align="right">142</td>
+<td align="right">172</td>
 <td><a href="https://github.com/sergree"><img src="https://avatars.githubusercontent.com/u/43672811?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sergree"><b>Сергей Гришаков</b></a><br><sub>&#64;sergree</sub></td>
 <td align="right"><b>228</b></td>
 <td align="right">0</td>
 <td><sub>Москва, Российская Федерация</sub></td>
 </tr>
 <tr>
-<td align="right">143</td>
+<td align="right">173</td>
 <td><a href="https://github.com/foxcpp"><img src="https://avatars.githubusercontent.com/u/37885127?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/foxcpp"><b>Max Mazurov</b></a><br><sub>&#64;foxcpp</sub></td>
 <td align="right"><b>223</b></td>
 <td align="right">0</td>
 <td><sub>Moscow, Russia</sub></td>
 </tr>
 <tr>
-<td align="right">144</td>
+<td align="right">174</td>
 <td><a href="https://github.com/Aleksoid1978"><img src="https://avatars.githubusercontent.com/u/11625603?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aleksoid1978"><b>Aleksoid1978</b></a><br><sub>&#64;Aleksoid1978</sub></td>
 <td align="right"><b>222</b></td>
 <td align="right">0</td>
 <td><sub>Russian Federation</sub></td>
 </tr>
 <tr>
-<td align="right">145</td>
+<td align="right">175</td>
 <td><a href="https://github.com/disintegration"><img src="https://avatars.githubusercontent.com/u/2706839?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/disintegration"><b>Grigory Dryapak</b></a><br><sub>&#64;disintegration</sub></td>
 <td align="right"><b>216</b></td>
 <td align="right">0</td>
 <td><sub>Moscow, Russia</sub></td>
 </tr>
 <tr>
-<td align="right">146</td>
+<td align="right">176</td>
 <td><a href="https://github.com/unlight"><img src="https://avatars.githubusercontent.com/u/301732?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/unlight"><b>Roman Vasilev</b></a><br><sub>&#64;unlight</sub></td>
 <td align="right"><b>215</b></td>
 <td align="right">0</td>
 <td><sub>Saratov, Russia</sub></td>
 </tr>
 <tr>
-<td align="right">147</td>
+<td align="right">177</td>
+<td><a href="https://github.com/3F"><img src="https://avatars.githubusercontent.com/u/3246589?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/3F"><b>Denis Kuzmin</b></a><br><sub>&#64;3F</sub></td>
+<td align="right"><b>208</b></td>
+<td align="right">0</td>
+<td><sub>Moscow, Russia</sub></td>
+</tr>
+<tr>
+<td align="right">178</td>
+<td><a href="https://github.com/n4kz"><img src="https://avatars.githubusercontent.com/u/2055622?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/n4kz"><b>Alexander Nazarov</b></a><br><sub>&#64;n4kz</sub></td>
+<td align="right"><b>207</b></td>
+<td align="right">0</td>
+<td><sub>Moscow, Russia</sub></td>
+</tr>
+<tr>
+<td align="right">179</td>
+<td><a href="https://github.com/SunOner"><img src="https://avatars.githubusercontent.com/u/44489132?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SunOner"><b>SunOne</b></a><br><sub>&#64;SunOner</sub></td>
+<td align="right"><b>204</b></td>
+<td align="right">0</td>
+<td><sub>Moscow</sub></td>
+</tr>
+<tr>
+<td align="right">180</td>
 <td><a href="https://github.com/mancj"><img src="https://avatars.githubusercontent.com/u/6247122?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mancj"><b>Mansour</b></a><br><sub>&#64;mancj</sub></td>
 <td align="right"><b>201</b></td>
 <td align="right">0</td>
 <td><sub>Russia</sub></td>
 </tr>
 <tr>
-<td align="right">148</td>
+<td align="right">181</td>
+<td><a href="https://github.com/evgenkarlson"><img src="https://avatars.githubusercontent.com/u/37370582?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/evgenkarlson"><b>evgenkarlson</b></a><br><sub>&#64;evgenkarlson</sub></td>
+<td align="right"><b>198</b></td>
+<td align="right">0</td>
+<td><sub>Russia.Nizhny&#95;Novgorod</sub></td>
+</tr>
+<tr>
+<td align="right">182</td>
 <td><a href="https://github.com/red-prig"><img src="https://avatars.githubusercontent.com/u/68122101?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/red-prig"><b>Pavel</b></a><br><sub>&#64;red-prig</sub></td>
 <td align="right"><b>194</b></td>
 <td align="right">0</td>
 <td><sub>Russia</sub></td>
 </tr>
 <tr>
-<td align="right">149</td>
+<td align="right">183</td>
+<td><a href="https://github.com/lyusupov"><img src="https://avatars.githubusercontent.com/u/5849637?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lyusupov"><b>Linar Yusupov</b></a><br><sub>&#64;lyusupov</sub></td>
+<td align="right"><b>192</b></td>
+<td align="right">0</td>
+<td><sub>Russian Federation</sub></td>
+</tr>
+<tr>
+<td align="right">184</td>
 <td><a href="https://github.com/InoriRus"><img src="https://avatars.githubusercontent.com/u/7149418?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/InoriRus"><b>Vladimir M</b></a><br><sub>&#64;InoriRus</sub></td>
 <td align="right"><b>190</b></td>
 <td align="right">0</td>
 <td><sub>Vladivostok, Russia</sub></td>
 </tr>
 <tr>
-<td align="right">150</td>
+<td align="right">185</td>
 <td><a href="https://github.com/Daniil-Osokin"><img src="https://avatars.githubusercontent.com/u/2491976?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Daniil-Osokin"><b>Daniil-Osokin</b></a><br><sub>&#64;Daniil-Osokin</sub></td>
 <td align="right"><b>187</b></td>
 <td align="right">0</td>
 <td><sub>Russia, Nizhny Novgorod</sub></td>
 </tr>
 <tr>
-<td align="right">151</td>
+<td align="right">186</td>
+<td><a href="https://github.com/unvoiddd"><img src="https://avatars.githubusercontent.com/u/260057414?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/unvoiddd"><b>unv0id</b></a><br><sub>&#64;unvoiddd</sub></td>
+<td align="right"><b>187</b></td>
+<td align="right">0</td>
+<td><sub>Russia</sub></td>
+</tr>
+<tr>
+<td align="right">187</td>
 <td><a href="https://github.com/caiiiycuk"><img src="https://avatars.githubusercontent.com/u/1727152?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/caiiiycuk"><b>Alexander Guryanov</b></a><br><sub>&#64;caiiiycuk</sub></td>
 <td align="right"><b>186</b></td>
 <td align="right">0</td>
 <td><sub>Novokuznetsk</sub></td>
 </tr>
 <tr>
-<td align="right">152</td>
+<td align="right">188</td>
 <td><a href="https://github.com/reo7sp"><img src="https://avatars.githubusercontent.com/u/1623280?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/reo7sp"><b>Oleg Morozenkov</b></a><br><sub>&#64;reo7sp</sub></td>
 <td align="right"><b>185</b></td>
 <td align="right">0</td>
 <td><sub>Moscow, Russia</sub></td>
 </tr>
 <tr>
-<td align="right">153</td>
+<td align="right">189</td>
 <td><a href="https://github.com/AlexanderPro"><img src="https://avatars.githubusercontent.com/u/8102586?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlexanderPro"><b>Alexander Illarionov</b></a><br><sub>&#64;AlexanderPro</sub></td>
 <td align="right"><b>184</b></td>
 <td align="right">0</td>
 <td><sub>Russia</sub></td>
 </tr>
 <tr>
-<td align="right">154</td>
+<td align="right">190</td>
 <td><a href="https://github.com/laboshinl"><img src="https://avatars.githubusercontent.com/u/2180161?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/laboshinl"><b>Leonid Laboshin</b></a><br><sub>&#64;laboshinl</sub></td>
 <td align="right"><b>181</b></td>
 <td align="right">0</td>
 <td><sub>Saint-Petersburg, Russia</sub></td>
 </tr>
 <tr>
-<td align="right">155</td>
+<td align="right">191</td>
 <td><a href="https://github.com/constverum"><img src="https://avatars.githubusercontent.com/u/5204477?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/constverum"><b>Denis</b></a><br><sub>&#64;constverum</sub></td>
 <td align="right"><b>178</b></td>
 <td align="right">0</td>
 <td><sub>Russia</sub></td>
 </tr>
 <tr>
-<td align="right">156</td>
+<td align="right">192</td>
 <td><a href="https://github.com/zevlg"><img src="https://avatars.githubusercontent.com/u/850077?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zevlg"><b>Zajcev Evgeny</b></a><br><sub>&#64;zevlg</sub></td>
 <td align="right"><b>168</b></td>
 <td align="right">0</td>
 <td><sub>Ulyanovsk, Russia</sub></td>
 </tr>
 <tr>
-<td align="right">157</td>
+<td align="right">193</td>
 <td><a href="https://github.com/GnuriaN"><img src="https://avatars.githubusercontent.com/u/5384215?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GnuriaN"><b>Ruslan Prokhorov</b></a><br><sub>&#64;GnuriaN</sub></td>
 <td align="right"><b>165</b></td>
 <td align="right">0</td>
 <td><sub>Russia, Nizhniy Novgorod</sub></td>
 </tr>
 <tr>
-<td align="right">158</td>
+<td align="right">194</td>
 <td><a href="https://github.com/lazychaser"><img src="https://avatars.githubusercontent.com/u/2094856?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lazychaser"><b>Alexander Kalnoy</b></a><br><sub>&#64;lazychaser</sub></td>
 <td align="right"><b>157</b></td>
 <td align="right">0</td>
 <td><sub>Russia</sub></td>
 </tr>
 <tr>
-<td align="right">159</td>
+<td align="right">195</td>
 <td><a href="https://github.com/svpcom"><img src="https://avatars.githubusercontent.com/u/503830?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/svpcom"><b>Vasily Evseenko</b></a><br><sub>&#64;svpcom</sub></td>
 <td align="right"><b>155</b></td>
 <td align="right">0</td>
 <td><sub>Moscow, Russia</sub></td>
 </tr>
 <tr>
-<td align="right">160</td>
+<td align="right">196</td>
 <td><a href="https://github.com/OBenner"><img src="https://avatars.githubusercontent.com/u/16735569?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OBenner"><b>Oleg Miagkov</b></a><br><sub>&#64;OBenner</sub></td>
 <td align="right"><b>151</b></td>
 <td align="right">0</td>
 <td><sub>Russian Federation</sub></td>
 </tr>
 <tr>
-<td align="right">161</td>
+<td align="right">197</td>
 <td><a href="https://github.com/ImangazalievM"><img src="https://avatars.githubusercontent.com/u/15188126?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ImangazalievM"><b>Mahach Imangazaliev</b></a><br><sub>&#64;ImangazalievM</sub></td>
 <td align="right"><b>148</b></td>
 <td align="right">0</td>
 <td><sub>Russia</sub></td>
 </tr>
 <tr>
-<td align="right">162</td>
+<td align="right">198</td>
+<td><a href="https://github.com/dzavalishin"><img src="https://avatars.githubusercontent.com/u/11458393?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dzavalishin"><b>Dmitry Zavalishin</b></a><br><sub>&#64;dzavalishin</sub></td>
+<td align="right"><b>147</b></td>
+<td align="right">0</td>
+<td><sub>Moscow, Russia</sub></td>
+</tr>
+<tr>
+<td align="right">199</td>
+<td><a href="https://github.com/sochix"><img src="https://avatars.githubusercontent.com/u/1539682?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sochix"><b>Ilia Pirozhenko</b></a><br><sub>&#64;sochix</sub></td>
+<td align="right"><b>146</b></td>
+<td align="right">0</td>
+<td><sub>Moscow</sub></td>
+</tr>
+<tr>
+<td align="right">200</td>
 <td><a href="https://github.com/Waujito"><img src="https://avatars.githubusercontent.com/u/53368344?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Waujito"><b>Vadim Vetrov</b></a><br><sub>&#64;Waujito</sub></td>
 <td align="right"><b>143</b></td>
 <td align="right">0</td>
 <td><sub>Russia</sub></td>
 </tr>
 <tr>
-<td align="right">163</td>
+<td align="right">201</td>
 <td><a href="https://github.com/massivemadness"><img src="https://avatars.githubusercontent.com/u/7825871?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/massivemadness"><b>Dmitrii Mironov</b></a><br><sub>&#64;massivemadness</sub></td>
 <td align="right"><b>141</b></td>
 <td align="right">0</td>
 <td><sub>Russia, Moscow</sub></td>
 </tr>
 <tr>
-<td align="right">164</td>
+<td align="right">202</td>
+<td><a href="https://github.com/Kismuz"><img src="https://avatars.githubusercontent.com/u/24355778?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kismuz"><b>Andrew</b></a><br><sub>&#64;Kismuz</sub></td>
+<td align="right"><b>140</b></td>
+<td align="right">0</td>
+<td><sub>Moscow</sub></td>
+</tr>
+<tr>
+<td align="right">203</td>
+<td><a href="https://github.com/surikov"><img src="https://avatars.githubusercontent.com/u/2798817?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/surikov"><b>Srgy Surkv</b></a><br><sub>&#64;surikov</sub></td>
+<td align="right"><b>140</b></td>
+<td align="right">0</td>
+<td><sub>Nizhniy Novgorod, Russia</sub></td>
+</tr>
+<tr>
+<td align="right">204</td>
 <td><a href="https://github.com/mpeterv"><img src="https://avatars.githubusercontent.com/u/6032370?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mpeterv"><b>Peter Melnichenko</b></a><br><sub>&#64;mpeterv</sub></td>
 <td align="right"><b>139</b></td>
 <td align="right">0</td>
 <td><sub>Moscow</sub></td>
 </tr>
 <tr>
-<td align="right">165</td>
+<td align="right">205</td>
 <td><a href="https://github.com/pvarentsov"><img src="https://avatars.githubusercontent.com/u/30302717?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pvarentsov"><b>Pavel Varentsov</b></a><br><sub>&#64;pvarentsov</sub></td>
 <td align="right"><b>136</b></td>
 <td align="right">0</td>
 <td><sub>Yoshkar-Ola</sub></td>
 </tr>
 <tr>
-<td align="right">166</td>
+<td align="right">206</td>
+<td><a href="https://github.com/13xforever"><img src="https://avatars.githubusercontent.com/u/36445?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/13xforever"><b>Ilya</b></a><br><sub>&#64;13xforever</sub></td>
+<td align="right"><b>133</b></td>
+<td align="right">0</td>
+<td><sub>Russia</sub></td>
+</tr>
+<tr>
+<td align="right">207</td>
 <td><a href="https://github.com/shuchkin"><img src="https://avatars.githubusercontent.com/u/315872?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shuchkin"><b>Sergey Shuchkin</b></a><br><sub>&#64;shuchkin</sub></td>
 <td align="right"><b>131</b></td>
 <td align="right">0</td>
 <td><sub>Russia, Omsk</sub></td>
 </tr>
 <tr>
-<td align="right">167</td>
+<td align="right">208</td>
 <td><a href="https://github.com/nervgh"><img src="https://avatars.githubusercontent.com/u/2478262?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nervgh"><b>Alexandr Zaytsev</b></a><br><sub>&#64;nervgh</sub></td>
 <td align="right"><b>130</b></td>
 <td align="right">0</td>
 <td><sub>Russia, Ryazan</sub></td>
 </tr>
 <tr>
-<td align="right">168</td>
+<td align="right">209</td>
 <td><a href="https://github.com/VadimBoev"><img src="https://avatars.githubusercontent.com/u/33985574?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VadimBoev"><b>Vadim Boev</b></a><br><sub>&#64;VadimBoev</sub></td>
 <td align="right"><b>129</b></td>
 <td align="right">0</td>
 <td><sub>Russia</sub></td>
 </tr>
 <tr>
-<td align="right">169</td>
+<td align="right">210</td>
+<td><a href="https://github.com/pechorin"><img src="https://avatars.githubusercontent.com/u/226270?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pechorin"><b>andrey pechorin</b></a><br><sub>&#64;pechorin</sub></td>
+<td align="right"><b>128</b></td>
+<td align="right">0</td>
+<td><sub>Moscow, Russia</sub></td>
+</tr>
+<tr>
+<td align="right">211</td>
 <td><a href="https://github.com/vm03"><img src="https://avatars.githubusercontent.com/u/1812572?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vm03"><b>Vasya</b></a><br><sub>&#64;vm03</sub></td>
 <td align="right"><b>128</b></td>
 <td align="right">0</td>
 <td><sub>Russia, Odintsovo</sub></td>
 </tr>
 <tr>
-<td align="right">170</td>
+<td align="right">212</td>
 <td><a href="https://github.com/vshulcz"><img src="https://avatars.githubusercontent.com/u/99616188?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vshulcz"><b>Vlad Shulcz</b></a><br><sub>&#64;vshulcz</sub></td>
 <td align="right"><b>128</b></td>
 <td align="right">0</td>
 <td><sub>Moscow</sub></td>
 </tr>
 <tr>
-<td align="right">171</td>
+<td align="right">213</td>
 <td><a href="https://github.com/thest1"><img src="https://avatars.githubusercontent.com/u/816668?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thest1"><b>Fedor Vlasov</b></a><br><sub>&#64;thest1</sub></td>
 <td align="right"><b>127</b></td>
 <td align="right">0</td>
 <td><sub>Perm, Russia</sub></td>
 </tr>
 <tr>
-<td align="right">172</td>
+<td align="right">214</td>
+<td><a href="https://github.com/flyingmutant"><img src="https://avatars.githubusercontent.com/u/73059?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/flyingmutant"><b>Gregory Petrosyan</b></a><br><sub>&#64;flyingmutant</sub></td>
+<td align="right"><b>122</b></td>
+<td align="right">0</td>
+<td><sub>St.-Petersburg, Russia</sub></td>
+</tr>
+<tr>
+<td align="right">215</td>
 <td><a href="https://github.com/developersu"><img src="https://avatars.githubusercontent.com/u/1172602?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/developersu"><b>Dmitry Isaenko</b></a><br><sub>&#64;developersu</sub></td>
 <td align="right"><b>120</b></td>
 <td align="right">0</td>
 <td><sub>Moscow, Russia</sub></td>
 </tr>
 <tr>
-<td align="right">173</td>
+<td align="right">216</td>
+<td><a href="https://github.com/AlexWan"><img src="https://avatars.githubusercontent.com/u/26077466?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlexWan"><b>Alex</b></a><br><sub>&#64;AlexWan</sub></td>
+<td align="right"><b>118</b></td>
+<td align="right">0</td>
+<td><sub>Krasnodar</sub></td>
+</tr>
+<tr>
+<td align="right">217</td>
 <td><a href="https://github.com/F0x1d"><img src="https://avatars.githubusercontent.com/u/39910552?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/F0x1d"><b>Maksim Zoteev</b></a><br><sub>&#64;F0x1d</sub></td>
 <td align="right"><b>116</b></td>
 <td align="right">0</td>
 <td><sub>Russia</sub></td>
 </tr>
 <tr>
-<td align="right">174</td>
+<td align="right">218</td>
 <td><a href="https://github.com/Imangazaliev"><img src="https://avatars.githubusercontent.com/u/11244193?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Imangazaliev"><b>Muhammad Imangazaliev</b></a><br><sub>&#64;Imangazaliev</sub></td>
 <td align="right"><b>113</b></td>
 <td align="right">0</td>
 <td><sub>Dagestan</sub></td>
 </tr>
 <tr>
-<td align="right">175</td>
+<td align="right">219</td>
 <td><a href="https://github.com/nofeletru"><img src="https://avatars.githubusercontent.com/u/12898237?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nofeletru"><b>Alexander</b></a><br><sub>&#64;nofeletru</sub></td>
 <td align="right"><b>113</b></td>
 <td align="right">0</td>
 <td><sub>Moscow</sub></td>
 </tr>
 <tr>
-<td align="right">176</td>
+<td align="right">220</td>
 <td><a href="https://github.com/khizmax"><img src="https://avatars.githubusercontent.com/u/7014966?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/khizmax"><b>Max Khizhinsky</b></a><br><sub>&#64;khizmax</sub></td>
 <td align="right"><b>106</b></td>
 <td align="right">0</td>
 <td><sub>Russia</sub></td>
 </tr>
 <tr>
-<td align="right">177</td>
+<td align="right">221</td>
+<td><a href="https://github.com/mitallast"><img src="https://avatars.githubusercontent.com/u/531623?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mitallast"><b>Alexey Korchevsky</b></a><br><sub>&#64;mitallast</sub></td>
+<td align="right"><b>95</b></td>
+<td align="right">0</td>
+<td><sub>Russia, Moscow</sub></td>
+</tr>
+<tr>
+<td align="right">222</td>
 <td><a href="https://github.com/avevlad"><img src="https://avatars.githubusercontent.com/u/2889662?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/avevlad"><b>Vlad Derzhavin</b></a><br><sub>&#64;avevlad</sub></td>
 <td align="right"><b>93</b></td>
 <td align="right">0</td>
 <td><sub>Moscow</sub></td>
 </tr>
 <tr>
-<td align="right">178</td>
+<td align="right">223</td>
 <td><a href="https://github.com/maypok86"><img src="https://avatars.githubusercontent.com/u/72698179?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maypok86"><b>Alexey Mayshev</b></a><br><sub>&#64;maypok86</sub></td>
 <td align="right"><b>91</b></td>
 <td align="right">0</td>
 <td><sub>St. Petersburg</sub></td>
 </tr>
 <tr>
-<td align="right">179</td>
+<td align="right">224</td>
 <td><a href="https://github.com/t1m0n"><img src="https://avatars.githubusercontent.com/u/1918251?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/t1m0n"><b>Timofey</b></a><br><sub>&#64;t1m0n</sub></td>
 <td align="right"><b>91</b></td>
 <td align="right">0</td>
 <td><sub>Russia</sub></td>
 </tr>
 <tr>
-<td align="right">180</td>
+<td align="right">225</td>
+<td><a href="https://github.com/adonixis"><img src="https://avatars.githubusercontent.com/u/1766863?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adonixis"><b>Ilya Fomenko</b></a><br><sub>&#64;adonixis</sub></td>
+<td align="right"><b>86</b></td>
+<td align="right">0</td>
+<td><sub>Orenburg, Russia</sub></td>
+</tr>
+<tr>
+<td align="right">226</td>
 <td><a href="https://github.com/yuriy-budiyev"><img src="https://avatars.githubusercontent.com/u/11834224?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yuriy-budiyev"><b>Yuriy Budiyev</b></a><br><sub>&#64;yuriy-budiyev</sub></td>
 <td align="right"><b>85</b></td>
 <td align="right">0</td>
 <td><sub>Russian Federation</sub></td>
 </tr>
 <tr>
-<td align="right">181</td>
+<td align="right">227</td>
 <td><a href="https://github.com/nmikhailov"><img src="https://avatars.githubusercontent.com/u/1583368?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nmikhailov"><b>Nikita Mikhailov</b></a><br><sub>&#64;nmikhailov</sub></td>
 <td align="right"><b>82</b></td>
 <td align="right">0</td>
 <td><sub>Novosibirsk, Russia</sub></td>
 </tr>
 <tr>
-<td align="right">182</td>
+<td align="right">228</td>
 <td><a href="https://github.com/Tourenathan-G5organisation"><img src="https://avatars.githubusercontent.com/u/6596467?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tourenathan-G5organisation"><b>Toure Nathan</b></a><br><sub>&#64;Tourenathan-G5organisation</sub></td>
 <td align="right"><b>79</b></td>
 <td align="right">0</td>
 <td><sub>Moscow, Russia</sub></td>
 </tr>
 <tr>
-<td align="right">183</td>
+<td align="right">229</td>
+<td><a href="https://github.com/dext0r"><img src="https://avatars.githubusercontent.com/u/3103856?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dext0r"><b>Artem Sorokin</b></a><br><sub>&#64;dext0r</sub></td>
+<td align="right"><b>71</b></td>
+<td align="right">0</td>
+<td><sub>Kirov, Russia</sub></td>
+</tr>
+<tr>
+<td align="right">230</td>
 <td><a href="https://github.com/ObKo"><img src="https://avatars.githubusercontent.com/u/171339?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ObKo"><b>Konstantin Oblaukhov</b></a><br><sub>&#64;ObKo</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">0</td>
 <td><sub>Novosibirsk, Russia</sub></td>
 </tr>
 <tr>
-<td align="right">184</td>
+<td align="right">231</td>
+<td><a href="https://github.com/winterheart"><img src="https://avatars.githubusercontent.com/u/81112?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/winterheart"><b>Azamat H. Hackimov</b></a><br><sub>&#64;winterheart</sub></td>
+<td align="right"><b>70</b></td>
+<td align="right">0</td>
+<td><sub>Saint Petersburg</sub></td>
+</tr>
+<tr>
+<td align="right">232</td>
 <td><a href="https://github.com/sokolovstas"><img src="https://avatars.githubusercontent.com/u/14689?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sokolovstas"><b>Stanislav</b></a><br><sub>&#64;sokolovstas</sub></td>
 <td align="right"><b>69</b></td>
 <td align="right">0</td>
 <td><sub>Russia</sub></td>
 </tr>
 <tr>
-<td align="right">185</td>
+<td align="right">233</td>
 <td><a href="https://github.com/janvarev"><img src="https://avatars.githubusercontent.com/u/18393788?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/janvarev"><b>Vladislav Janvarev</b></a><br><sub>&#64;janvarev</sub></td>
 <td align="right"><b>66</b></td>
 <td align="right">0</td>
 <td><sub>Moscow, Russia</sub></td>
 </tr>
 <tr>
-<td align="right">186</td>
+<td align="right">234</td>
 <td><a href="https://github.com/logrusorgru"><img src="https://avatars.githubusercontent.com/u/4060258?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/logrusorgru"><b>Konstantin Ivanov</b></a><br><sub>&#64;logrusorgru</sub></td>
 <td align="right"><b>65</b></td>
 <td align="right">0</td>
 <td><sub>Russia</sub></td>
 </tr>
 <tr>
-<td align="right">187</td>
+<td align="right">235</td>
+<td><a href="https://github.com/maximmax42"><img src="https://avatars.githubusercontent.com/u/2225711?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maximmax42"><b>Max</b></a><br><sub>&#64;maximmax42</sub></td>
+<td align="right"><b>65</b></td>
+<td align="right">0</td>
+<td><sub>Russia</sub></td>
+</tr>
+<tr>
+<td align="right">236</td>
 <td><a href="https://github.com/uvarov-frontend"><img src="https://avatars.githubusercontent.com/u/82662379?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/uvarov-frontend"><b>Yury Uvarov</b></a><br><sub>&#64;uvarov-frontend</sub></td>
 <td align="right"><b>62</b></td>
 <td align="right">0</td>
 <td><sub>Russian Federation</sub></td>
 </tr>
 <tr>
-<td align="right">188</td>
+<td align="right">237</td>
+<td><a href="https://github.com/DmitriySalnikov"><img src="https://avatars.githubusercontent.com/u/7782218?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DmitriySalnikov"><b>Дмитрий Сальников</b></a><br><sub>&#64;DmitriySalnikov</sub></td>
+<td align="right"><b>59</b></td>
+<td align="right">0</td>
+<td><sub>Russian Federation</sub></td>
+</tr>
+<tr>
+<td align="right">238</td>
 <td><a href="https://github.com/jwadow"><img src="https://avatars.githubusercontent.com/u/47058724?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jwadow"><b>Max Jwadow</b></a><br><sub>&#64;jwadow</sub></td>
 <td align="right"><b>58</b></td>
 <td align="right">0</td>
 <td><sub>Russia</sub></td>
 </tr>
 <tr>
-<td align="right">189</td>
+<td align="right">239</td>
 <td><a href="https://github.com/ermouth"><img src="https://avatars.githubusercontent.com/u/1540047?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ermouth"><b>ermouth</b></a><br><sub>&#64;ermouth</sub></td>
 <td align="right"><b>57</b></td>
 <td align="right">0</td>
 <td><sub>Arkhangelsk, Russia</sub></td>
 </tr>
 <tr>
-<td align="right">190</td>
+<td align="right">240</td>
 <td><a href="https://github.com/antiden"><img src="https://avatars.githubusercontent.com/u/6802145?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/antiden"><b>antiden</b></a><br><sub>&#64;antiden</sub></td>
 <td align="right"><b>56</b></td>
 <td align="right">0</td>
 <td><sub>Kazan</sub></td>
 </tr>
 <tr>
-<td align="right">191</td>
+<td align="right">241</td>
 <td><a href="https://github.com/mishamyrt"><img src="https://avatars.githubusercontent.com/u/19162401?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mishamyrt"><b>Mikhael Khrustik</b></a><br><sub>&#64;mishamyrt</sub></td>
 <td align="right"><b>56</b></td>
 <td align="right">0</td>
 <td><sub>Armavir, Russia</sub></td>
 </tr>
 <tr>
-<td align="right">192</td>
+<td align="right">242</td>
+<td><a href="https://github.com/AlexeyBoiko"><img src="https://avatars.githubusercontent.com/u/29090032?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlexeyBoiko"><b>Alexey Boyko</b></a><br><sub>&#64;AlexeyBoiko</sub></td>
+<td align="right"><b>55</b></td>
+<td align="right">0</td>
+<td><sub>Russian Federation</sub></td>
+</tr>
+<tr>
+<td align="right">243</td>
 <td><a href="https://github.com/rekryt"><img src="https://avatars.githubusercontent.com/u/181338?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rekryt"><b>Sergey Krupkin</b></a><br><sub>&#64;rekryt</sub></td>
 <td align="right"><b>54</b></td>
 <td align="right">0</td>
 <td><sub>Russia, Krasnogorsk</sub></td>
 </tr>
 <tr>
-<td align="right">193</td>
+<td align="right">244</td>
+<td><a href="https://github.com/devote"><img src="https://avatars.githubusercontent.com/u/367691?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/devote"><b>Dmitrii Pakhtinov</b></a><br><sub>&#64;devote</sub></td>
+<td align="right"><b>51</b></td>
+<td align="right">0</td>
+<td><sub>Russia, Saint-Petersburg</sub></td>
+</tr>
+<tr>
+<td align="right">245</td>
+<td><a href="https://github.com/askerov"><img src="https://avatars.githubusercontent.com/u/1781442?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/askerov"><b>Alex Askerov</b></a><br><sub>&#64;askerov</sub></td>
+<td align="right"><b>50</b></td>
+<td align="right">0</td>
+<td><sub>Saint Petersburg, Russia</sub></td>
+</tr>
+<tr>
+<td align="right">246</td>
+<td><a href="https://github.com/shuhart"><img src="https://avatars.githubusercontent.com/u/5305278?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shuhart"><b>Bogdan Kornev</b></a><br><sub>&#64;shuhart</sub></td>
+<td align="right"><b>50</b></td>
+<td align="right">0</td>
+<td><sub>Kazan</sub></td>
+</tr>
+<tr>
+<td align="right">247</td>
 <td><a href="https://github.com/m4dEngi"><img src="https://avatars.githubusercontent.com/u/8540109?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/m4dEngi"><b>Local Nobody</b></a><br><sub>&#64;m4dEngi</sub></td>
 <td align="right"><b>49</b></td>
 <td align="right">0</td>
 <td><sub>Moscow, Russia</sub></td>
 </tr>
 <tr>
-<td align="right">194</td>
+<td align="right">248</td>
+<td><a href="https://github.com/Pestov"><img src="https://avatars.githubusercontent.com/u/290724?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Pestov"><b>Ilya Pestov</b></a><br><sub>&#64;Pestov</sub></td>
+<td align="right"><b>49</b></td>
+<td align="right">0</td>
+<td><sub>Russia</sub></td>
+</tr>
+<tr>
+<td align="right">249</td>
+<td><a href="https://github.com/LowderPlay"><img src="https://avatars.githubusercontent.com/u/22765741?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LowderPlay"><b>LowderPlay</b></a><br><sub>&#64;LowderPlay</sub></td>
+<td align="right"><b>42</b></td>
+<td align="right">0</td>
+<td><sub>Russia</sub></td>
+</tr>
+<tr>
+<td align="right">250</td>
 <td><a href="https://github.com/un1t"><img src="https://avatars.githubusercontent.com/u/440376?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/un1t"><b>Ilya Shalyapin</b></a><br><sub>&#64;un1t</sub></td>
 <td align="right"><b>40</b></td>
 <td align="right">0</td>
 <td><sub>Ekaterinburg</sub></td>
 </tr>
 <tr>
-<td align="right">195</td>
+<td align="right">251</td>
 <td><a href="https://github.com/yse"><img src="https://avatars.githubusercontent.com/u/1775230?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yse"><b>Sergey Yagovtsev</b></a><br><sub>&#64;yse</sub></td>
 <td align="right"><b>40</b></td>
 <td align="right">0</td>
 <td><sub>Zhukovskiy, Moskovskaya Oblast, Russia</sub></td>
 </tr>
 <tr>
-<td align="right">196</td>
+<td align="right">252</td>
 <td><a href="https://github.com/kriomant"><img src="https://avatars.githubusercontent.com/u/494406?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kriomant"><b>Mikhail Trishchenkov</b></a><br><sub>&#64;kriomant</sub></td>
 <td align="right"><b>39</b></td>
 <td align="right">0</td>
 <td><sub>Novosibirsk, Russia</sub></td>
 </tr>
 <tr>
-<td align="right">197</td>
+<td align="right">253</td>
+<td><a href="https://github.com/BrasD99"><img src="https://avatars.githubusercontent.com/u/36342074?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BrasD99"><b>Denis Braslavskiy</b></a><br><sub>&#64;BrasD99</sub></td>
+<td align="right"><b>38</b></td>
+<td align="right">0</td>
+<td><sub>Moscow, Russia</sub></td>
+</tr>
+<tr>
+<td align="right">254</td>
 <td><a href="https://github.com/kitsuned"><img src="https://avatars.githubusercontent.com/u/80879390?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kitsuned"><b>Andrey Smirnov</b></a><br><sub>&#64;kitsuned</sub></td>
 <td align="right"><b>35</b></td>
 <td align="right">0</td>
 <td><sub>Ekaterinburg, Russia</sub></td>
 </tr>
 <tr>
-<td align="right">198</td>
+<td align="right">255</td>
+<td><a href="https://github.com/ilyashubin"><img src="https://avatars.githubusercontent.com/u/6043481?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ilyashubin"><b>Ilya Shubin</b></a><br><sub>&#64;ilyashubin</sub></td>
+<td align="right"><b>31</b></td>
+<td align="right">0</td>
+<td><sub>Moscow, Russia</sub></td>
+</tr>
+<tr>
+<td align="right">256</td>
 <td><a href="https://github.com/pavelkuligin"><img src="https://avatars.githubusercontent.com/u/27766810?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pavelkuligin"><b>Pavel Kuligin</b></a><br><sub>&#64;pavelkuligin</sub></td>
 <td align="right"><b>28</b></td>
 <td align="right">0</td>
 <td><sub>Saint-Petersburg</sub></td>
 </tr>
 <tr>
-<td align="right">199</td>
+<td align="right">257</td>
 <td><a href="https://github.com/dsmelov"><img src="https://avatars.githubusercontent.com/u/7580271?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dsmelov"><b>Daniil Smelov</b></a><br><sub>&#64;dsmelov</sub></td>
 <td align="right"><b>26</b></td>
 <td align="right">0</td>
 <td><sub>St. Petersburg</sub></td>
 </tr>
 <tr>
-<td align="right">200</td>
+<td align="right">258</td>
 <td><a href="https://github.com/MayersScott"><img src="https://avatars.githubusercontent.com/u/148715834?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MayersScott"><b>Dmitry Vinogradov</b></a><br><sub>&#64;MayersScott</sub></td>
 <td align="right"><b>26</b></td>
 <td align="right">0</td>
 <td><sub>Moscow</sub></td>
 </tr>
 <tr>
-<td align="right">201</td>
+<td align="right">259</td>
 <td><a href="https://github.com/Quenary"><img src="https://avatars.githubusercontent.com/u/39758069?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Quenary"><b>Eugene Savin</b></a><br><sub>&#64;Quenary</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">0</td>
 <td><sub>Saint-Petersburg</sub></td>
 </tr>
 <tr>
-<td align="right">202</td>
+<td align="right">260</td>
 <td><a href="https://github.com/knukima"><img src="https://avatars.githubusercontent.com/u/292435322?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/knukima"><b>Zoya A&#42;</b></a><br><sub>&#64;knukima</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">15</td>
 <td><sub>Tyumen Oblast, Russia</sub></td>
 </tr>
 <tr>
-<td align="right">203</td>
+<td align="right">261</td>
 <td><a href="https://github.com/blackgur"><img src="https://avatars.githubusercontent.com/u/6291267?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/blackgur"><b>blackgur</b></a><br><sub>&#64;blackgur</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Russia</sub></td>
 </tr>
 <tr>
-<td align="right">204</td>
+<td align="right">262</td>
 <td><a href="https://github.com/diimdeep"><img src="https://avatars.githubusercontent.com/u/485713?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/diimdeep"><b>Dmitry Wolf</b></a><br><sub>&#64;diimdeep</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Moscow, Russia</sub></td>
 </tr>
 <tr>
-<td align="right">205</td>
+<td align="right">263</td>
+<td><a href="https://github.com/leonidlebedev"><img src="https://avatars.githubusercontent.com/u/12189820?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leonidlebedev"><b>Leonid Lebedev</b></a><br><sub>&#64;leonidlebedev</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Moscow</sub></td>
+</tr>
+<tr>
+<td align="right">264</td>
 <td><a href="https://github.com/mgarin"><img src="https://avatars.githubusercontent.com/u/2361389?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mgarin"><b>Mikle</b></a><br><sub>&#64;mgarin</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -1464,8 +1877,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 205 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 264 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 0 of 200 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

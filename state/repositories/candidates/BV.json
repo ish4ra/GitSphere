@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"BV","name":"Bouvet Island","slug":"bouvet-island"},
-"count": 19,
+"count": 18,
 "repositories": [
-  {"name":"KirarinSnow/Google-Code-Jam","stars":83,"forks":37,"language":"Python","license":"GPL-3.0","archived":false,"createdAt":"2010-06-12T21:21:00Z","pushedAt":"2014-06-01T21:23:46Z","owner":{"login":"KirarinSnow","type":"User","name":"KirarinSnow","location":"Bouvet Island"},"attribution":{"code":"BV","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T11:44:25.129Z","id":"legacy:kirarinsnow/google-code-jam","legacy":true},
   {"name":"nightwatchjs-community/nightwatch-slack-reporter","stars":18,"forks":11,"language":"JavaScript","license":"MIT","archived":false,"createdAt":"2016-09-14T13:11:44Z","pushedAt":"2018-04-23T12:46:02Z","owner":{"login":"nightwatchjs-community","type":"Organization","name":"Nightwatch.js Community","location":"Bouvet Island"},"attribution":{"code":"BV","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T11:44:25.129Z","id":"legacy:nightwatchjs-community/nightwatch-slack-reporter","legacy":true},
   {"name":"PythonshellDebugwindow/esolangs","stars":8,"forks":1,"language":"JavaScript","license":"MIT","archived":false,"createdAt":"2020-05-08T12:37:09Z","pushedAt":"2026-09-09T07:32:01Z","owner":{"login":"PythonshellDebugwindow","type":"User","location":"Bouvet Island"},"attribution":{"code":"BV","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T11:44:25.129Z","id":"legacy:pythonshelldebugwindow/esolangs","legacy":true},
   {"name":"hexahigh/yapc","stars":4,"forks":0,"language":"Go","license":"MPL-2.0","archived":true,"createdAt":"2024-01-04T08:47:14Z","pushedAt":"2024-08-06T00:20:26Z","owner":{"login":"hexahigh","type":"User","name":"Simon Bråten","location":"Bouvet Island"},"attribution":{"code":"BV","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T11:44:25.129Z","id":"legacy:hexahigh/yapc","legacy":true},

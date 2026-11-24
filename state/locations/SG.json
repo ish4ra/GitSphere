@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"country": "SG",
+"round": 1,
+"roundStartedAt": "2026-11-24T01:10:11.723Z",
+"terms": {"count":109,"fingerprint":"109:af8d672c"},
+"termIndex": 0,
+"specIndex": 0,
+"active": {"term":"Singapore","kind":"users","queue":[{"metric":[0,12500000],"created":null,"cursor":null,"page":1}],"unresolved":[],"cycleStartedAt":"2026-11-24T01:10:11.723Z","stats":{"splits":3,"leaves":3,"pages":3}},
+"unresolved": [],
+"completedRounds": [],
+"stats": {"requests":6,"pages":3,"accounts":0},
+"updatedAt": "2026-11-24T01:10:11.723Z"
+}

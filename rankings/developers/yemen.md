@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/developers/YE.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/developers/YE.json">JSON</a> |
 
 </div>
 
@@ -52,7 +52,7 @@
 <tr>
 <td align="right">5</td>
 <td><a href="https://github.com/AbdulrhmanBashammmakh"><img src="https://avatars.githubusercontent.com/u/73081256?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AbdulrhmanBashammmakh"><b>AB238</b></a><br><sub>&#64;AbdulrhmanBashammmakh</sub></td>
-<td align="right"><b>598</b></td>
+<td align="right"><b>597</b></td>
 <td align="right">50</td>
 <td><sub>Sanaa Yemen</sub></td>
 </tr>
@@ -84,6 +84,20 @@
 <td align="right">48</td>
 <td><sub>Yemen, Sana’a,a</sub></td>
 </tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/hishamco"><img src="https://avatars.githubusercontent.com/u/3237266?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hishamco"><b>Hisham Bin Ateya</b></a><br><sub>&#64;hishamco</sub></td>
+<td align="right"><b>335</b></td>
+<td align="right">142</td>
+<td><sub>Yemen</sub></td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/k-j-alarashi"><img src="https://avatars.githubusercontent.com/u/77218749?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/k-j-alarashi"><b>Khaled Jalal Al-arashi</b></a><br><sub>&#64;k-j-alarashi</sub></td>
+<td align="right"><b>284</b></td>
+<td align="right">2</td>
+<td><sub>Yemen , Sana&#39;a</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -92,7 +106,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 9 attributed developers are tracked; the cutoff is 355 followers.
+- Organizations are excluded. 11 attributed developers are tracked; the cutoff is 284 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

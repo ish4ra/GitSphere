@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/CU.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/CU.json">JSON</a> |
 
 </div>
 
@@ -79,6 +79,15 @@
 </tr>
 <tr>
 <td align="right">7</td>
+<td><a href="https://github.com/acferriol"><img src="https://avatars.githubusercontent.com/u/90471755?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/acferriol"><b>acferriol</b></a><br><sub>&#64;acferriol · 43 followers</sub></td>
+<td align="right"><b>81</b></td>
+<td align="right">67</td>
+<td align="right">6</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">8</td>
 <td><a href="https://github.com/acano99"><img src="https://avatars.githubusercontent.com/u/173047220?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/acano99"><b>Abrahan Cano</b></a><br><sub>&#64;acano99 · 5 followers</sub></td>
 <td align="right"><b>42</b></td>
 <td align="right">39</td>
@@ -87,8 +96,26 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
+<td><a href="https://github.com/acnielwilliams08"><img src="https://avatars.githubusercontent.com/u/139654919?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/acnielwilliams08"><b>Acniel Williams</b></a><br><sub>&#64;acnielwilliams08 · 10 followers</sub></td>
+<td align="right"><b>16</b></td>
+<td align="right">7</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">10</td>
 <td><a href="https://github.com/acanive"><img src="https://avatars.githubusercontent.com/u/3910020?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/acanive"><b>Abel Espinosa</b></a><br><sub>&#64;acanive · 2 followers</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/acm-97"><img src="https://avatars.githubusercontent.com/u/29048839?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/acm-97"><b>Alejandro Cabrera Mena</b></a><br><sub>&#64;acm-97 · 2 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td align="right">0</td>
@@ -102,7 +129,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 8 of 400 discovered developers (392 awaiting measurement).
+- **Measured:** 11 of 400 discovered developers (389 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 90 in round 1.

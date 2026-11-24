@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **60** | 01 Nov 2026 | <a href="../data/HU.json">JSON</a> |
+| 🟠 Stale | **67** | 01 Nov 2026 | <a href="../data/HU.json">JSON</a> |
 
-> **Not yet re-verified.** 17 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 7 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -326,118 +326,167 @@
 </tr>
 <tr>
 <td align="right">44</td>
-<td><img src="https://github.com/MOGI-ROS.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MOGI-ROS/Week-1-2-Introduction-to-ROS2"><b>MOGI-ROS/Week-1-2-Introduction-to-ROS2</b></a></td>
-<td align="right"><b>190</b></td>
-<td align="right">35</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">45</td>
-<td><img src="https://github.com/balinterdi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/balinterdi/rarwe-demo"><b>balinterdi/rarwe-demo</b></a></td>
-<td align="right"><b>178</b></td>
-<td align="right">58</td>
-<td>HTML</td>
-</tr>
-<tr>
-<td align="right">46</td>
-<td><img src="https://github.com/martonlederer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/martonlederer/old-profile-readme"><b>martonlederer/old-profile-readme</b></a></td>
-<td align="right"><b>109</b></td>
-<td align="right">349</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">47</td>
-<td><img src="https://github.com/balika011.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/balika011/DC-M33"><b>balika011/DC-M33</b></a></td>
-<td align="right"><b>106</b></td>
-<td align="right">14</td>
-<td>C</td>
-</tr>
-<tr>
-<td align="right">48</td>
-<td><img src="https://github.com/aksoftware98.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aksoftware98/multilanguages"><b>aksoftware98/multilanguages</b></a></td>
-<td align="right"><b>91</b></td>
-<td align="right">14</td>
-<td>C#</td>
-</tr>
-<tr>
-<td align="right">49</td>
-<td><img src="https://github.com/kocsismate.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kocsismate/php-di-container-benchmarks"><b>kocsismate/php-di-container-benchmarks</b></a></td>
-<td align="right"><b>77</b></td>
-<td align="right">27</td>
+<td><img src="https://github.com/hisorange.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hisorange/browser-detect"><b>hisorange/browser-detect</b></a><br><sub>Browser Detection for Laravel by hisorange!</sub></td>
+<td align="right"><b>1,141</b></td>
+<td align="right">142</td>
 <td>PHP</td>
 </tr>
 <tr>
+<td align="right">45</td>
+<td><img src="https://github.com/fsbolero.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fsbolero/Bolero"><b>fsbolero/Bolero</b></a><br><sub>Bolero brings Blazor to F# developers with an easy to use Model-View-Update architecture, HTML combinators, hot reloade…</sub></td>
+<td align="right"><b>1,138</b></td>
+<td align="right">58</td>
+<td>F#</td>
+</tr>
+<tr>
+<td align="right">46</td>
+<td><img src="https://github.com/foxssake.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/foxssake/netfox"><b>foxssake/netfox</b></a><br><sub>Addons for building multiplayer games with Godot</sub></td>
+<td align="right"><b>1,136</b></td>
+<td align="right">96</td>
+<td>GDScript</td>
+</tr>
+<tr>
+<td align="right">47</td>
+<td><img src="https://github.com/finnhvman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/finnhvman/matter"><b>finnhvman/matter</b></a><br><sub>Material Design Components in Pure CSS. Materializing HTML at just one class per component 🍰</sub></td>
+<td align="right"><b>1,135</b></td>
+<td align="right">80</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><img src="https://github.com/l7mp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/l7mp/stunner"><b>l7mp/stunner</b></a><br><sub>A Kubernetes media gateway for WebRTC. Contact: info&#64;l7mp.io</sub></td>
+<td align="right"><b>1,070</b></td>
+<td align="right">101</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><img src="https://github.com/madbence.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/madbence/node-drawille"><b>madbence/node-drawille</b></a><br><sub>Drawing in terminal with unicode braille characters</sub></td>
+<td align="right"><b>1,032</b></td>
+<td align="right">30</td>
+<td>JavaScript</td>
+</tr>
+<tr>
 <td align="right">50</td>
-<td><img src="https://github.com/0xb4lint.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0xb4lint/targygraf"><b>0xb4lint/targygraf</b></a></td>
-<td align="right"><b>68</b></td>
-<td align="right">43</td>
+<td><img src="https://github.com/GarethManning.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/GarethManning/education-agent-skills"><b>GarethManning/education-agent-skills</b></a><br><sub>165 evidence-grounded AI skills for teachers, school leaders and EdTech builders—pedagogy, learning science, curriculum…</sub></td>
+<td align="right"><b>1,016</b></td>
+<td align="right">144</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">51</td>
-<td><img src="https://github.com/Jones-6199.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Jones-6199/Windows-xp-portfolio"><b>Jones-6199/Windows-xp-portfolio</b></a></td>
-<td align="right"><b>64</b></td>
-<td align="right">6</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/Aylur.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Aylur/astal"><b>Aylur/astal</b></a><br><sub>Building blocks for creating custom desktop shells</sub></td>
+<td align="right"><b>1,006</b></td>
+<td align="right">109</td>
+<td>Vala</td>
 </tr>
 <tr>
 <td align="right">52</td>
-<td><img src="https://github.com/andrasbacsai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/andrasbacsai/github-actions-with-coolify"><b>andrasbacsai/github-actions-with-coolify</b></a></td>
-<td align="right"><b>40</b></td>
-<td align="right">13</td>
-<td>Dockerfile</td>
+<td><img src="https://github.com/vizzuhq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vizzuhq/ipyvizzu"><b>vizzuhq/ipyvizzu</b></a><br><sub>Build animated charts in Jupyter Notebook and similar environments with a simple Python syntax.</sub></td>
+<td align="right"><b>969</b></td>
+<td align="right">80</td>
+<td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">53</td>
-<td><img src="https://github.com/uigitdev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/uigitdev/google-map-gta-style"><b>uigitdev/google-map-gta-style</b></a></td>
-<td align="right"><b>35</b></td>
-<td align="right">4</td>
-<td>—</td>
+<td><img src="https://github.com/soyersoyer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/soyersoyer/cameractrls"><b>soyersoyer/cameractrls</b></a><br><sub>Camera controls for Linux</sub></td>
+<td align="right"><b>964</b></td>
+<td align="right">55</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">54</td>
+<td><img src="https://github.com/asciimoo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/asciimoo/exrex"><b>asciimoo/exrex</b></a><br><sub>Irregular methods on regular expressions</sub></td>
+<td align="right"><b>961</b></td>
+<td align="right">100</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/coderofsalvation.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/coderofsalvation/kanban.bash"><b>coderofsalvation/kanban.bash</b></a><br><sub>commandline asciii kanban board for minimalist productivity hackers &amp; managers (csv-based) #scriptable #nestable #stati…</sub></td>
+<td align="right"><b>958</b></td>
+<td align="right">60</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><img src="https://github.com/janosmiko.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/janosmiko/lfk"><b>janosmiko/lfk</b></a><br><sub>⚡ LFK is a lightning-fast, keyboard-focused, yazi-inspired terminal user interface for navigating and managing Kubernet…</sub></td>
+<td align="right"><b>942</b></td>
+<td align="right">41</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><img src="https://github.com/arpanghosh8453.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arpanghosh8453/fitbit-grafana"><b>arpanghosh8453/fitbit-grafana</b></a><br><sub>A script to fetch data from Fitbit servers using their API and store the data in a local influxdb database and visualiz…</sub></td>
+<td align="right"><b>930</b></td>
+<td align="right">84</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><img src="https://github.com/gdotdesign.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gdotdesign/elm-ui"><b>gdotdesign/elm-ui</b></a><br><sub>UI library for making web applications with Elm</sub></td>
+<td align="right"><b>922</b></td>
+<td align="right">35</td>
+<td>Elm</td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><img src="https://github.com/nxrighthere.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nxrighthere/ENet-CSharp"><b>nxrighthere/ENet-CSharp</b></a><br><sub>Reliable UDP networking library</sub></td>
+<td align="right"><b>912</b></td>
+<td align="right">136</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><img src="https://github.com/bitrise-io.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bitrise-io/bitrise"><b>bitrise-io/bitrise</b></a><br><sub>Bitrise runner CLI - run your automations on your Mac or Linux machine -</sub></td>
+<td align="right"><b>903</b></td>
+<td align="right">133</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">61</td>
 <td><img src="https://github.com/KindsonTheGenius.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KindsonTheGenius/fleetms-v2"><b>KindsonTheGenius/fleetms-v2</b></a></td>
 <td align="right"><b>30</b></td>
 <td align="right">35</td>
 <td>HTML</td>
 </tr>
 <tr>
-<td align="right">55</td>
+<td align="right">62</td>
 <td><img src="https://github.com/kisvegabor.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kisvegabor/misc"><b>kisvegabor/misc</b></a></td>
 <td align="right"><b>26</b></td>
 <td align="right">14</td>
 <td>C</td>
 </tr>
 <tr>
-<td align="right">56</td>
+<td align="right">63</td>
 <td><img src="https://github.com/jpacsai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jpacsai/LearningPath"><b>jpacsai/LearningPath</b></a></td>
 <td align="right"><b>23</b></td>
 <td align="right">6</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">57</td>
+<td align="right">64</td>
 <td><img src="https://github.com/conan513.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/conan513/spp-legion-patch"><b>conan513/spp-legion-patch</b></a></td>
 <td align="right"><b>21</b></td>
 <td align="right">30</td>
 <td>TSQL</td>
 </tr>
 <tr>
-<td align="right">58</td>
+<td align="right">65</td>
 <td><img src="https://github.com/NoNameProvided.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NoNameProvided/cordova-plugin-webview-checker"><b>NoNameProvided/cordova-plugin-webview-checker</b></a></td>
 <td align="right"><b>16</b></td>
 <td align="right">9</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">59</td>
+<td align="right">66</td>
 <td><img src="https://github.com/gozmozdony.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gozmozdony/twitchSmartTV"><b>gozmozdony/twitchSmartTV</b></a></td>
 <td align="right"><b>12</b></td>
 <td align="right">1</td>
 <td>Vue</td>
 </tr>
 <tr>
-<td align="right">60</td>
+<td align="right">67</td>
 <td><img src="https://github.com/ferencb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ferencb/jqlistbox"><b>ferencb/jqlistbox</b></a></td>
 <td align="right"><b>9</b></td>
 <td align="right">7</td>
@@ -451,9 +500,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 9 stars; 60 attributed candidates are tracked.
-- 17 entries were carried over from the previous dataset and are pending revalidation.
-- 133 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 9 stars; 67 attributed candidates are tracked.
+- 7 entries were carried over from the previous dataset and are pending revalidation.
+- 123 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 153 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

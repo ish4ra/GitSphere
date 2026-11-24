@@ -14,17 +14,26 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/KM.json">JSON</a> |
+| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/KM.json">JSON</a> |
 
 </div>
 
-<p align="center"><sub>Public contributions from <b>22 Nov 2025</b> to <b>22 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
+<p align="center"><sub>Public contributions from <b>24 Nov 2025</b> to <b>24 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
 
 <table>
 <thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Public contributions</th><th align="right">Commits</th><th align="right">PRs</th><th align="right">Reviews</th><th align="right">Issues</th></tr></thead>
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/yvssineyh269"><img src="https://avatars.githubusercontent.com/u/125316345?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yvssineyh269"><b>Yassine YH</b></a><br><sub>&#64;yvssineyh269 · 2 followers</sub></td>
+<td align="right"><b>57</b></td>
+<td align="right">48</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/AnkidineIbrahim"><img src="https://avatars.githubusercontent.com/u/162568769?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AnkidineIbrahim"><b>Ankidine Ibrahim</b></a><br><sub>&#64;AnkidineIbrahim · 0 followers</sub></td>
 <td align="right"><b>48</b></td>
 <td align="right">43</td>
@@ -33,7 +42,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">3</td>
 <td><a href="https://github.com/faustfizz"><img src="https://avatars.githubusercontent.com/u/39981884?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/faustfizz"><b>Youssouf Mbaé AS</b></a><br><sub>&#64;faustfizz · 6 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">0</td>
@@ -42,7 +51,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/ANADEN-KM"><img src="https://avatars.githubusercontent.com/u/176988742?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ANADEN-KM"><b>Agence Nationale de Développement du Numérique - Comores</b></a><br><sub>&#64;ANADEN-KM · 0 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
@@ -51,7 +60,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/abdallahsoulaimana"><img src="https://avatars.githubusercontent.com/u/67747492?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdallahsoulaimana"><b>Abdallah Soulaimana</b></a><br><sub>&#64;abdallahsoulaimana · 0 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -66,7 +75,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 8 of 45 discovered developers (37 awaiting measurement).
+- **Measured:** 11 of 45 discovered developers (34 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 3 of 88 in round 1.

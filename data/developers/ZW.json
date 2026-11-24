@@ -5,15 +5,17 @@
 "country": {"code":"ZW","name":"Zimbabwe","slug":"zimbabwe"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":465,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":6,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"U_kgDOCCSyhg","login":"sehmaluva","name":"Malvin T. Machingura","url":"https://github.com/sehmaluva","avatarUrl":"https://avatars.githubusercontent.com/u/136622726?s=80&v=4","followers":1299,"publicRepos":39,"location":"Harare, Zimbabwe","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"U_kgDODElJQQ","login":"mrfr8nk","name":"𝐃𝐀𝐑𝐑𝐄𝐋𝐋 𝐌𝐔𝐂𝐇𝐄𝐑𝐈 ⚡","url":"https://github.com/mrfr8nk","avatarUrl":"https://avatars.githubusercontent.com/u/206129473?s=80&v=4","followers":622,"publicRepos":92,"location":"Zimbabwe, Harare","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":3,"id":"U_kgDOD3LSSQ","login":"nelsonnzou-crypt","name":"Tapiwanashe Nelson Nzou","url":"https://github.com/nelsonnzou-crypt","avatarUrl":"https://avatars.githubusercontent.com/u/259183177?s=80&v=4","followers":606,"publicRepos":43,"location":"Zimbabwe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
-  {"rank":4,"id":"U_kgDOBiLYuw","login":"KnowledgeSeeker101-bit","name":"Nyashadzaishe Masvongo","url":"https://github.com/KnowledgeSeeker101-bit","avatarUrl":"https://avatars.githubusercontent.com/u/102947003?s=80&v=4","followers":465,"publicRepos":9,"location":"harare Zimbabwe","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"}
+  {"rank":4,"id":"U_kgDOBiLYuw","login":"KnowledgeSeeker101-bit","name":"Nyashadzaishe Masvongo","url":"https://github.com/KnowledgeSeeker101-bit","avatarUrl":"https://avatars.githubusercontent.com/u/102947003?s=80&v=4","followers":465,"publicRepos":9,"location":"harare Zimbabwe","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":5,"id":"U_kgDOBsn0_g","login":"0771501771","name":"Justice Shirichena","url":"https://github.com/0771501771","avatarUrl":"https://avatars.githubusercontent.com/u/113898750?s=80&v=4","followers":0,"publicRepos":1,"location":"Harare Zimbabwe","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":6,"id":"MDQ6VXNlcjg1MTQzMQ==","login":"0774622896","name":"LUVEVE","url":"https://github.com/0774622896","avatarUrl":"https://avatars.githubusercontent.com/u/851431?s=80&v=4","followers":0,"publicRepos":1,"location":"ZIMBABWE","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "ddb8b1d64acb6eaa",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "71ac35478cf20ddf",
+"updatedAt": "2026-11-24T01:31:49.018Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-24T01:31:49.018Z"
 }

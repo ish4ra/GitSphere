@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **23** | 22 Nov 2026 | <a href="../../data/developers/SI.json">JSON</a> |
+| 🟡 Provisional | **25** | 22 Nov 2026 | <a href="../../data/developers/SI.json">JSON</a> |
 
 </div>
 
@@ -109,14 +109,14 @@
 <td align="right">13</td>
 <td><a href="https://github.com/dz0ny"><img src="https://avatars.githubusercontent.com/u/239513?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dz0ny"><b>Janez Troha</b></a><br><sub>&#64;dz0ny</sub></td>
 <td align="right"><b>291</b></td>
-<td align="right">0</td>
+<td align="right">429</td>
 <td><sub>Slovenia</sub></td>
 </tr>
 <tr>
 <td align="right">14</td>
 <td><a href="https://github.com/AndrewStetsenko"><img src="https://avatars.githubusercontent.com/u/2838582?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AndrewStetsenko"><b>AndrewStetsenko</b></a><br><sub>&#64;AndrewStetsenko</sub></td>
 <td align="right"><b>286</b></td>
-<td align="right">0</td>
+<td align="right">9</td>
 <td><sub>Slovenia</sub></td>
 </tr>
 <tr>
@@ -170,13 +170,27 @@
 </tr>
 <tr>
 <td align="right">22</td>
+<td><a href="https://github.com/BojanJurca"><img src="https://avatars.githubusercontent.com/u/42709677?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BojanJurca"><b>Bojan Jurca</b></a><br><sub>&#64;BojanJurca</sub></td>
+<td align="right"><b>60</b></td>
+<td align="right">0</td>
+<td><sub>Slovenia</sub></td>
+</tr>
+<tr>
+<td align="right">23</td>
 <td><a href="https://github.com/rdvojmoc"><img src="https://avatars.githubusercontent.com/u/13537823?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rdvojmoc"><b>Rok Dvojmoč</b></a><br><sub>&#64;rdvojmoc</sub></td>
 <td align="right"><b>36</b></td>
 <td align="right">0</td>
 <td><sub>Slovenia</sub></td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">24</td>
+<td><a href="https://github.com/Klemen1337"><img src="https://avatars.githubusercontent.com/u/6691011?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Klemen1337"><b>Klemen Kastelic</b></a><br><sub>&#64;Klemen1337</sub></td>
+<td align="right"><b>32</b></td>
+<td align="right">0</td>
+<td><sub>Ljubljana, Slovenia</sub></td>
+</tr>
+<tr>
+<td align="right">25</td>
 <td><a href="https://github.com/MatejKustec"><img src="https://avatars.githubusercontent.com/u/5469945?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MatejKustec"><b>Matej Kustec</b></a><br><sub>&#64;MatejKustec</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">0</td>
@@ -190,8 +204,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 23 attributed developers are tracked; the cutoff is 24 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 25 attributed developers are tracked; the cutoff is 24 followers.
+- **Location discovery:** term 0 of 220 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

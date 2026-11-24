@@ -3,12 +3,14 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"TV","name":"Tuvalu","slug":"tuvalu"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":18,"measuredAccounts":4,"measurementBacklog":14,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "e450f0b367c93d7d",
-"updatedAt": "2026-11-23T13:10:04.236Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-23T13:10:04.236Z"
+"coverage": {"basis":"partial","discoveredAccounts":18,"measuredAccounts":6,"measurementBacklog":12,"window":{"from":"2025-11-24T01:00:00Z","to":"2026-11-24T01:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"U_kgDOCFsOZQ","login":"Dan-Creative","name":"Доктор Кал","url":"https://github.com/Dan-Creative","avatarUrl":"https://avatars.githubusercontent.com/u/140185189?s=80&v=4","followers":0,"publicRepos":3,"location":"Funafuti","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-24","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":1,"repositories":0,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}}
+],
+"contentHash": "f4fa92b6ec0d4909",
+"updatedAt": "2026-11-24T01:31:49.018Z",
+"verifiedOn": "2026-11-24",
+"generatedAt": "2026-11-24T01:31:49.018Z"
 }

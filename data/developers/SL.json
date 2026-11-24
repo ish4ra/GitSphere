@@ -5,15 +5,17 @@
 "country": {"code":"SL","name":"Sierra Leone","slug":"sierra-leone"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":4,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":6,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"U_kgDOChYhzw","login":"lshariprasad","name":"HARI PRASAD L S","url":"https://github.com/lshariprasad","avatarUrl":"https://avatars.githubusercontent.com/u/169222607?s=80&v=4","followers":1802,"publicRepos":63,"location":"First Floor, 6C, CTA Garden, 1st Ave, Mangadu, Tamil Nadu 600122","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjYxNzM3Nzk3","login":"2020medsellufbc22172","name":"Mohamed Sellu","url":"https://github.com/2020medsellufbc22172","avatarUrl":"https://avatars.githubusercontent.com/u/61737797?s=80&v=4","followers":2,"publicRepos":2,"location":"Freetown, Sierra Leone","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":3,"id":"MDQ6VXNlcjU0MzM2NjY1","login":"19786","name":"Mohamed Bah","url":"https://github.com/19786","avatarUrl":"https://avatars.githubusercontent.com/u/54336665?s=80&v=4","followers":2,"publicRepos":1,"location":"Freetown, Sierra Leone","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
-  {"rank":4,"id":"U_kgDOBYFEuw","login":"1122admin","name":"Mohamed Alie Koroma","url":"https://github.com/1122admin","avatarUrl":"https://avatars.githubusercontent.com/u/92357819?s=80&v=4","followers":0,"publicRepos":1,"location":"Sierra Leone, Freetown, New England, Vile","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"}
+  {"rank":4,"id":"MDQ6VXNlcjc3NjI3ODgw","login":"22Andrew","name":"Alhaji Mohamed Kanu","url":"https://github.com/22Andrew","avatarUrl":"https://avatars.githubusercontent.com/u/77627880?s=80&v=4","followers":0,"publicRepos":4,"location":"Sierra Leone","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":5,"id":"U_kgDOBYFEuw","login":"1122admin","name":"Mohamed Alie Koroma","url":"https://github.com/1122admin","avatarUrl":"https://avatars.githubusercontent.com/u/92357819?s=80&v=4","followers":0,"publicRepos":1,"location":"Sierra Leone, Freetown, New England, Vile","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":6,"id":"U_kgDOBkLStg","login":"3333L","name":"Ambrose Sesay","url":"https://github.com/3333L","avatarUrl":"https://avatars.githubusercontent.com/u/105042614?s=80&v=4","followers":0,"publicRepos":1,"location":"Sierra Leone","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "c809df0713ab61c2",
-"updatedAt": "2026-11-23T13:10:04.236Z",
+"contentHash": "f832a07806b047f1",
+"updatedAt": "2026-11-24T01:31:49.018Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T13:10:04.236Z"
+"generatedAt": "2026-11-24T01:31:49.018Z"
 }

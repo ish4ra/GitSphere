@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/SN.json">JSON</a> |
+| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/SN.json">JSON</a> |
 
 </div>
 
@@ -34,6 +34,15 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/daoodaba975"><img src="https://avatars.githubusercontent.com/u/46088908?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/daoodaba975"><b>Daouda BA</b></a><br><sub>&#64;daoodaba975 · 286 followers</sub></td>
+<td align="right"><b>231</b></td>
+<td align="right">187</td>
+<td align="right">25</td>
+<td align="right">17</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/aimerou"><img src="https://avatars.githubusercontent.com/u/56626060?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aimerou"><b>Aïmérou Ndiaye</b></a><br><sub>&#64;aimerou · 70 followers</sub></td>
 <td align="right"><b>92</b></td>
 <td align="right">80</td>
@@ -42,7 +51,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/49maodo"><img src="https://avatars.githubusercontent.com/u/185433581?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/49maodo"><b>Maodo Ndiaye</b></a><br><sub>&#64;49maodo · 9 followers</sub></td>
 <td align="right"><b>39</b></td>
 <td align="right">27</td>
@@ -51,7 +60,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/134130U"><img src="https://avatars.githubusercontent.com/u/35166259?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/134130U"><b>Mbaye Babou</b></a><br><sub>&#64;134130U · 3 followers</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">11</td>
@@ -60,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/ManuSquall"><img src="https://avatars.githubusercontent.com/u/29026887?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ManuSquall"><b>Charles Emmanuel S. Ndiaye</b></a><br><sub>&#64;ManuSquall · 531 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">3</td>
@@ -75,7 +84,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 5 of 400 discovered developers (395 awaiting measurement).
+- **Measured:** 7 of 401 discovered developers (394 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

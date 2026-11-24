@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | :---: |
 | 🟠 Stale | **100** | 04 Nov 2026 | <a href="../data/BD.json">JSON</a> |
 
-> **Not yet re-verified.** 57 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 43 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -326,101 +326,101 @@
 </tr>
 <tr>
 <td align="right">44</td>
-<td><img src="https://github.com/auvipy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/auvipy/celery-flower"><b>auvipy/celery-flower</b></a></td>
-<td align="right"><b>175</b></td>
-<td align="right">36</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">45</td>
-<td><img src="https://github.com/theanam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/theanam/react-awesome-lightbox"><b>theanam/react-awesome-lightbox</b></a></td>
-<td align="right"><b>169</b></td>
-<td align="right">55</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">46</td>
-<td><img src="https://github.com/masnun.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/masnun/django-orm-standalone"><b>masnun/django-orm-standalone</b></a></td>
-<td align="right"><b>134</b></td>
-<td align="right">25</td>
+<td><img src="https://github.com/LordAmit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LordAmit/Brightness"><b>LordAmit/Brightness</b></a><br><sub>Using Brightness Controller, you can control brightness of both primary and external displays in Linux. Check it out!</sub></td>
+<td align="right"><b>1,138</b></td>
+<td align="right">90</td>
 <td>Python</td>
 </tr>
 <tr>
+<td align="right">45</td>
+<td><img src="https://github.com/abubakarsiddik31.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abubakarsiddik31/claude-skills-collection"><b>abubakarsiddik31/claude-skills-collection</b></a><br><sub>A curated collection of official and community-built Claude Skills – extend Anthropic&#39;s Claude with powerful, modular c…</sub></td>
+<td align="right"><b>1,136</b></td>
+<td align="right">222</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">46</td>
+<td><img src="https://github.com/Tarikul-Islam-Anik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis"><b>Tarikul-Islam-Anik/Animated-Fluent-Emojis</b></a><br><sub>All the Microsoft animated fluent emojis are available in one place and ready to use in your next project or README fil…</sub></td>
+<td align="right"><b>1,108</b></td>
+<td align="right">121</td>
+<td>TypeScript</td>
+</tr>
+<tr>
 <td align="right">47</td>
-<td><img src="https://github.com/rupomsoft.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rupomsoft/mern-x"><b>rupomsoft/mern-x</b></a></td>
-<td align="right"><b>120</b></td>
-<td align="right">17</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/wasi-master.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wasi-master/wmkeyboard"><b>wasi-master/wmkeyboard</b></a><br><sub>A modern, privacy-first Android keyboard: offline intelligence, 600+ languages, themes, tools and an addon ecosystem.</sub></td>
+<td align="right"><b>1,102</b></td>
+<td align="right">71</td>
+<td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">48</td>
-<td><img src="https://github.com/shajibsikder.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shajibsikder/weekmotion-platform"><b>shajibsikder/weekmotion-platform</b></a></td>
-<td align="right"><b>106</b></td>
-<td align="right">11</td>
-<td>Dockerfile</td>
+<td><img src="https://github.com/famiu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/famiu/feline.nvim"><b>famiu/feline.nvim</b></a> <sub>archived</sub><br><sub>A minimal, stylish and customizable statusline for Neovim written in Lua</sub></td>
+<td align="right"><b>1,046</b></td>
+<td align="right">70</td>
+<td>Lua</td>
 </tr>
 <tr>
 <td align="right">49</td>
-<td><img src="https://github.com/md-abu-kayser.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/md-abu-kayser/javascript-1111-problems"><b>md-abu-kayser/javascript-1111-problems</b></a></td>
-<td align="right"><b>104</b></td>
-<td align="right">1</td>
+<td><img src="https://github.com/devsonket.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/devsonket/devsonket.github.io"><b>devsonket/devsonket.github.io</b></a><br><sub>🎨🛠📌 সম্পূর্ণ বাংলায় ডেভেলপার চিটশিট 🎨🛠📌</sub></td>
+<td align="right"><b>1,039</b></td>
+<td align="right">597</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">50</td>
-<td><img src="https://github.com/NazmusSayad.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NazmusSayad/.dotfiles"><b>NazmusSayad/.dotfiles</b></a></td>
-<td align="right"><b>93</b></td>
-<td align="right">5</td>
-<td>Go</td>
+<td><img src="https://github.com/hasan-py.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hasan-py/Hayroo"><b>hasan-py/Hayroo</b></a><br><sub>Full-featured MERN Stack E-commerce platform with payment gateway using React, Node.js, Express, MongoDB, JWT, and Tail…</sub></td>
+<td align="right"><b>1,012</b></td>
+<td align="right">477</td>
+<td>CSS</td>
 </tr>
 <tr>
 <td align="right">51</td>
-<td><img src="https://github.com/phitronio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/phitronio/Batch-4-Introduction-to-C-Programming"><b>phitronio/Batch-4-Introduction-to-C-Programming</b></a></td>
-<td align="right"><b>73</b></td>
-<td align="right">15</td>
-<td>C</td>
+<td><img src="https://github.com/samayun.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/samayun/devbooks"><b>samayun/devbooks</b></a><br><sub>Open Source Resources</sub></td>
+<td align="right"><b>1,006</b></td>
+<td align="right">0</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">52</td>
-<td><img src="https://github.com/MAHADI-143.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MAHADI-143/BDMC"><b>MAHADI-143/BDMC</b></a></td>
-<td align="right"><b>63</b></td>
-<td align="right">33</td>
-<td>Python</td>
+<td><img src="https://github.com/thedevsaddam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thedevsaddam/docgen"><b>thedevsaddam/docgen</b></a><br><sub>Transform your postman collection to HTML/Markdown documentation</sub></td>
+<td align="right"><b>994</b></td>
+<td align="right">132</td>
+<td>Go</td>
 </tr>
 <tr>
 <td align="right">53</td>
-<td><img src="https://github.com/entrptaher.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/entrptaher/puppeteer-web"><b>entrptaher/puppeteer-web</b></a> <sub>archived</sub></td>
-<td align="right"><b>54</b></td>
-<td align="right">12</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/cracker911181.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cracker911181/Cracker-Tool"><b>cracker911181/Cracker-Tool</b></a><br><sub>All in One CRACKER911181&#39;s Tool. This Tool For Hacking and Pentesting. 🎭</sub></td>
+<td align="right"><b>975</b></td>
+<td align="right">130</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">54</td>
-<td><img src="https://github.com/sabbir-noyon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sabbir-noyon/cpp-solutions"><b>sabbir-noyon/cpp-solutions</b></a></td>
-<td align="right"><b>43</b></td>
-<td align="right">7</td>
-<td>C++</td>
+<td><img src="https://github.com/Agontuk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Agontuk/vue-cropperjs"><b>Agontuk/vue-cropperjs</b></a><br><sub>A Vue wrapper component for cropperjs https://github.com/fengyuanchen/cropperjs</sub></td>
+<td align="right"><b>971</b></td>
+<td align="right">222</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">55</td>
-<td><img src="https://github.com/ettisafxrup.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ettisafxrup/CleanWrap"><b>ettisafxrup/CleanWrap</b></a></td>
-<td align="right"><b>36</b></td>
-<td align="right">1</td>
-<td>C++</td>
+<td><img src="https://github.com/saifaustcse.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/saifaustcse/dotnet-developer-roadmap"><b>saifaustcse/dotnet-developer-roadmap</b></a><br><sub>Full-stack .NET Developer Roadmap</sub></td>
+<td align="right"><b>940</b></td>
+<td align="right">117</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">56</td>
-<td><img src="https://github.com/JubayerRiyad.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JubayerRiyad/JubayerRiyad"><b>JubayerRiyad/JubayerRiyad</b></a></td>
-<td align="right"><b>34</b></td>
-<td align="right">12</td>
-<td>—</td>
+<td><img src="https://github.com/hasinhayder.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hasinhayder/hydra"><b>hasinhayder/hydra</b></a><br><sub>Hydra is a zero-config API boilerplate with Laravel 10x + Laravel Sanctum that comes with an excellent user and role ma…</sub></td>
+<td align="right"><b>932</b></td>
+<td align="right">160</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">57</td>
-<td><img src="https://github.com/M-F-Tushar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/M-F-Tushar/Google-Cybersecurity-Professional-Certificate"><b>M-F-Tushar/Google-Cybersecurity-Professional-Certificate</b></a></td>
-<td align="right"><b>33</b></td>
-<td align="right">3</td>
-<td>—</td>
+<td><img src="https://github.com/themefisher.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/themefisher/sleek-bootstrap"><b>themefisher/sleek-bootstrap</b></a><br><sub>Sleek Dashboard - Free Bootstrap Admin Template and UI Kit</sub></td>
+<td align="right"><b>902</b></td>
+<td align="right">178</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td align="right">58</td>
@@ -732,8 +732,8 @@
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 1 stars; 118 attributed candidates are tracked.
-- 57 entries were carried over from the previous dataset and are pending revalidation.
-- 141 multi-repository owners are queued for expansion.
+- 43 entries were carried over from the previous dataset and are pending revalidation.
+- 137 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 173 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

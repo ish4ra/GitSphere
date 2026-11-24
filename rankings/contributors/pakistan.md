@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/PK.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/PK.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,24 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/sarfraznawaz2005"><img src="https://avatars.githubusercontent.com/u/201788?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sarfraznawaz2005"><b>Sarfraz Ahmed</b></a><br><sub>&#64;sarfraznawaz2005 · 293 followers</sub></td>
+<td align="right"><b>1,115</b></td>
+<td align="right">1,065</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/samade747"><img src="https://avatars.githubusercontent.com/u/132301326?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/samade747"><b>SAMAD</b></a><br><sub>&#64;samade747 · 417 followers</sub></td>
+<td align="right"><b>770</b></td>
+<td align="right">713</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/hamzaali81"><img src="https://avatars.githubusercontent.com/u/41760022?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hamzaali81"><b>Hamza Ali</b></a><br><sub>&#64;hamzaali81 · 1,269 followers</sub></td>
 <td align="right"><b>90</b></td>
 <td align="right">49</td>
@@ -51,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">6</td>
 <td><a href="https://github.com/mInzamamMalik"><img src="https://avatars.githubusercontent.com/u/14273842?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mInzamamMalik"><b>Inzamam Malik</b></a><br><sub>&#64;mInzamamMalik · 1,254 followers</sub></td>
 <td align="right"><b>21</b></td>
 <td align="right">19</td>
@@ -60,7 +78,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">7</td>
 <td><a href="https://github.com/usama7628674"><img src="https://avatars.githubusercontent.com/u/29252277?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/usama7628674"><b>Usama Abdul Sattar</b></a><br><sub>&#64;usama7628674 · 371 followers</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">5</td>
@@ -75,10 +93,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 5 of 528 discovered developers (523 awaiting measurement).
+- **Measured:** 7 of 577 discovered developers (570 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 147 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

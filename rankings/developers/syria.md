@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/developers/SY.json">JSON</a> |
+| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/developers/SY.json">JSON</a> |
 
 </div>
 
@@ -30,27 +30,55 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/jamilhelal37"><img src="https://avatars.githubusercontent.com/u/239214190?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jamilhelal37"><b>Jamil Helal</b></a><br><sub>&#64;jamilhelal37</sub></td>
+<td align="right"><b>317</b></td>
+<td align="right">8</td>
+<td><sub>SYRIA - ALEPPO</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/WaelTarabishi"><img src="https://avatars.githubusercontent.com/u/110033974?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/WaelTarabishi"><b>Wael Tarabishi</b></a><br><sub>&#64;WaelTarabishi</sub></td>
+<td align="right"><b>314</b></td>
+<td align="right">61</td>
+<td><sub>Syria</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/SedrAlex"><img src="https://avatars.githubusercontent.com/u/145951659?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SedrAlex"><b>Sedra Mhanna</b></a><br><sub>&#64;SedrAlex</sub></td>
+<td align="right"><b>311</b></td>
+<td align="right">49</td>
+<td><sub>Damascus, Syria</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/Rakwan007"><img src="https://avatars.githubusercontent.com/u/118732869?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rakwan007"><b>Rakwan</b></a><br><sub>&#64;Rakwan007</sub></td>
+<td align="right"><b>305</b></td>
+<td align="right">3</td>
+<td><sub>syria</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/evoiz"><img src="https://avatars.githubusercontent.com/u/22682669?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/evoiz"><b>Elias Al-bittar</b></a><br><sub>&#64;evoiz</sub></td>
 <td align="right"><b>99</b></td>
 <td align="right">31</td>
 <td><sub>Homs, Syria</sub></td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">7</td>
 <td><a href="https://github.com/0993658154"><img src="https://avatars.githubusercontent.com/u/146844027?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0993658154"><b>Khaled Mardini</b></a><br><sub>&#64;0993658154</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">11</td>
 <td><sub>Damascus , Syria</sub></td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">8</td>
 <td><a href="https://github.com/123hasanalyaseen-cmd"><img src="https://avatars.githubusercontent.com/u/268205970?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/123hasanalyaseen-cmd"><b>HASAN ALYASEEN</b></a><br><sub>&#64;123hasanalyaseen-cmd</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Homs Syria</sub></td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">9</td>
 <td><a href="https://github.com/20AhmadAlfadi20"><img src="https://avatars.githubusercontent.com/u/271405050?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/20AhmadAlfadi20"><b>Ahmad Ahmad</b></a><br><sub>&#64;20AhmadAlfadi20</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
@@ -64,7 +92,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 5 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 9 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -46,7 +46,7 @@
 <td align="right">4</td>
 <td><a href="https://github.com/Y4NN777"><img src="https://avatars.githubusercontent.com/u/171065166?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Y4NN777"><b>Ragnang-Newende Yanis Axel DABO</b></a><br><sub>&#64;Y4NN777</sub></td>
 <td align="right"><b>125</b></td>
-<td align="right">87</td>
+<td align="right">88</td>
 <td><sub>Burkina Faso</sub></td>
 </tr>
 <tr>
@@ -368,7 +368,7 @@
 <td align="right">50</td>
 <td><a href="https://github.com/ao627515"><img src="https://avatars.githubusercontent.com/u/104501708?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ao627515"><b>Abdoul Aziz Ouedraogo</b></a><br><sub>&#64;ao627515</sub></td>
 <td align="right"><b>13</b></td>
-<td align="right">77</td>
+<td align="right">78</td>
 <td><sub>Ouagadougou, Burkina Faso</sub></td>
 </tr>
 <tr>

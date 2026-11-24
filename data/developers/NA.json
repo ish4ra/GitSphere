@@ -5,16 +5,18 @@
 "country": {"code":"NA","name":"Namibia","slug":"namibia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":5,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":91,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":7,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":91,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjEzMTQ3OTM=","login":"dolotech","name":"photo","url":"https://github.com/dolotech","avatarUrl":"https://avatars.githubusercontent.com/u/1314793?s=80&v=4","followers":185,"publicRepos":89,"location":"photo","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23"},
-  {"rank":2,"id":"U_kgDOCoVDwQ","login":"13shigwedhamatheus","name":"Shigwedha Matheus","url":"https://github.com/13shigwedhamatheus","avatarUrl":"https://avatars.githubusercontent.com/u/176505793?s=80&v=4","followers":3,"publicRepos":11,"location":"Namibia, Windhoek","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
-  {"rank":3,"id":"MDQ6VXNlcjgzMjE3MDg1","login":"007Wesley007","name":"Wesley","url":"https://github.com/007Wesley007","avatarUrl":"https://avatars.githubusercontent.com/u/83217085?s=80&v=4","followers":0,"publicRepos":8,"location":"Namibia, Windhoek","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":4,"id":"U_kgDOB4RvPA","login":"01alicia03","name":"Tjeripo Alicia Rukoro","url":"https://github.com/01alicia03","avatarUrl":"https://avatars.githubusercontent.com/u/126119740?s=80&v=4","followers":0,"publicRepos":4,"location":"Namibia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":5,"id":"U_kgDODRnOOQ","login":"081Vernon","name":"Sal3000","url":"https://github.com/081Vernon","avatarUrl":"https://avatars.githubusercontent.com/u/219795001?s=80&v=4","followers":0,"publicRepos":1,"location":"Namibia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
+  {"rank":2,"id":"U_kgDOB1HuGw","login":"1932Londe","name":"Londe","url":"https://github.com/1932Londe","avatarUrl":"https://avatars.githubusercontent.com/u/122809883?s=80&v=4","followers":4,"publicRepos":1,"location":"NAMIBIA","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":3,"id":"U_kgDOCoVDwQ","login":"13shigwedhamatheus","name":"Shigwedha Matheus","url":"https://github.com/13shigwedhamatheus","avatarUrl":"https://avatars.githubusercontent.com/u/176505793?s=80&v=4","followers":3,"publicRepos":11,"location":"Namibia, Windhoek","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":4,"id":"MDQ6VXNlcjgzMjE3MDg1","login":"007Wesley007","name":"Wesley","url":"https://github.com/007Wesley007","avatarUrl":"https://avatars.githubusercontent.com/u/83217085?s=80&v=4","followers":0,"publicRepos":8,"location":"Namibia, Windhoek","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":5,"id":"U_kgDOBp_VOw","login":"19950808M","name":"Michael Kanime","url":"https://github.com/19950808M","avatarUrl":"https://avatars.githubusercontent.com/u/111138107?s=80&v=4","followers":0,"publicRepos":8,"location":"Namibia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":6,"id":"U_kgDOB4RvPA","login":"01alicia03","name":"Tjeripo Alicia Rukoro","url":"https://github.com/01alicia03","avatarUrl":"https://avatars.githubusercontent.com/u/126119740?s=80&v=4","followers":0,"publicRepos":4,"location":"Namibia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":7,"id":"U_kgDODRnOOQ","login":"081Vernon","name":"Sal3000","url":"https://github.com/081Vernon","avatarUrl":"https://avatars.githubusercontent.com/u/219795001?s=80&v=4","followers":0,"publicRepos":1,"location":"Namibia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "c066493108e21fba",
-"updatedAt": "2026-11-23T13:10:04.236Z",
+"contentHash": "5c58e494f5ed1041",
+"updatedAt": "2026-11-24T01:31:49.018Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T13:10:04.236Z"
+"generatedAt": "2026-11-24T01:31:49.018Z"
 }

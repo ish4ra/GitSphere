@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **318** | 22 Nov 2026 | <a href="../../data/developers/SG.json">JSON</a> |
+| 🟡 Provisional | **386** | 22 Nov 2026 | <a href="../../data/developers/SG.json">JSON</a> |
 
 </div>
 
@@ -24,14 +24,14 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/yyx990803"><img src="https://avatars.githubusercontent.com/u/499550?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yyx990803"><b>Evan You</b></a><br><sub>&#64;yyx990803</sub></td>
-<td align="right"><b>112,138</b></td>
+<td align="right"><b>112,116</b></td>
 <td align="right">198</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/DIYgod"><img src="https://avatars.githubusercontent.com/u/8266075?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DIYgod"><b>DIYgod</b></a><br><sub>&#64;DIYgod</sub></td>
-<td align="right"><b>16,106</b></td>
+<td align="right"><b>16,109</b></td>
 <td align="right">105</td>
 <td><sub>Singapore</sub></td>
 </tr>
@@ -458,7 +458,7 @@
 <tr>
 <td align="right">63</td>
 <td><a href="https://github.com/kennethleungty"><img src="https://avatars.githubusercontent.com/u/16691614?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kennethleungty"><b>Kenneth Leung</b></a><br><sub>&#64;kennethleungty</sub></td>
-<td align="right"><b>1,180</b></td>
+<td align="right"><b>1,179</b></td>
 <td align="right">66</td>
 <td><sub>Singapore</sub></td>
 </tr>
@@ -1193,7 +1193,7 @@
 <tr>
 <td align="right">168</td>
 <td><a href="https://github.com/yueliu1999"><img src="https://avatars.githubusercontent.com/u/41297969?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yueliu1999"><b>yueliu1999</b></a><br><sub>&#64;yueliu1999</sub></td>
-<td align="right"><b>451</b></td>
+<td align="right"><b>452</b></td>
 <td align="right">66</td>
 <td><sub>Singapore</sub></td>
 </tr>
@@ -1220,52 +1220,52 @@
 </tr>
 <tr>
 <td align="right">172</td>
+<td><a href="https://github.com/justrach"><img src="https://avatars.githubusercontent.com/u/54503978?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/justrach"><b>Rach</b></a><br><sub>&#64;justrach</sub></td>
+<td align="right"><b>437</b></td>
+<td align="right">235</td>
+<td><sub>Singapore / San Francisco</sub></td>
+</tr>
+<tr>
+<td align="right">173</td>
 <td><a href="https://github.com/ziqihuangg"><img src="https://avatars.githubusercontent.com/u/66513392?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ziqihuangg"><b>Ziqi Huang</b></a><br><sub>&#64;ziqihuangg</sub></td>
 <td align="right"><b>437</b></td>
 <td align="right">7</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">173</td>
+<td align="right">174</td>
 <td><a href="https://github.com/m3yevn"><img src="https://avatars.githubusercontent.com/u/26303704?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/m3yevn"><b>Kevin Moe Myint Myat</b></a><br><sub>&#64;m3yevn</sub></td>
 <td align="right"><b>434</b></td>
 <td align="right">29</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">174</td>
+<td align="right">175</td>
 <td><a href="https://github.com/qddegtya"><img src="https://avatars.githubusercontent.com/u/773248?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/qddegtya"><b>Archer</b></a><br><sub>&#64;qddegtya</sub></td>
 <td align="right"><b>433</b></td>
 <td align="right">87</td>
 <td><sub>Singapore / Shanghai</sub></td>
 </tr>
 <tr>
-<td align="right">175</td>
+<td align="right">176</td>
 <td><a href="https://github.com/zhengzangw"><img src="https://avatars.githubusercontent.com/u/30647653?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zhengzangw"><b>Zangwei Zheng</b></a><br><sub>&#64;zhengzangw</sub></td>
 <td align="right"><b>430</b></td>
 <td align="right">48</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">176</td>
+<td align="right">177</td>
 <td><a href="https://github.com/yaooqinn"><img src="https://avatars.githubusercontent.com/u/8326978?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yaooqinn"><b>Kent Yao</b></a><br><sub>&#64;yaooqinn</sub></td>
 <td align="right"><b>427</b></td>
 <td align="right">104</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">177</td>
+<td align="right">178</td>
 <td><a href="https://github.com/SingleZombie"><img src="https://avatars.githubusercontent.com/u/47652064?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SingleZombie"><b>Yifan Zhou</b></a><br><sub>&#64;SingleZombie</sub></td>
 <td align="right"><b>427</b></td>
 <td align="right">32</td>
 <td><sub>Singapore</sub></td>
-</tr>
-<tr>
-<td align="right">178</td>
-<td><a href="https://github.com/justrach"><img src="https://avatars.githubusercontent.com/u/54503978?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/justrach"><b>Rach</b></a><br><sub>&#64;justrach</sub></td>
-<td align="right"><b>426</b></td>
-<td align="right">235</td>
-<td><sub>Singapore / San Francisco</sub></td>
 </tr>
 <tr>
 <td align="right">179</td>
@@ -1479,16 +1479,16 @@
 </tr>
 <tr>
 <td align="right">209</td>
-<td><a href="https://github.com/IceClear"><img src="https://avatars.githubusercontent.com/u/22350795?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IceClear"><b>Jianyi Wang</b></a><br><sub>&#64;IceClear</sub></td>
+<td><a href="https://github.com/pysolanki"><img src="https://avatars.githubusercontent.com/u/187793645?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pysolanki"><b>Abhishek Singh Solanki</b></a><br><sub>&#64;pysolanki</sub></td>
 <td align="right"><b>372</b></td>
-<td align="right">38</td>
+<td align="right">20</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
 <td align="right">210</td>
-<td><a href="https://github.com/pysolanki"><img src="https://avatars.githubusercontent.com/u/187793645?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pysolanki"><b>Abhishek Singh Solanki</b></a><br><sub>&#64;pysolanki</sub></td>
-<td align="right"><b>372</b></td>
-<td align="right">20</td>
+<td><a href="https://github.com/IceClear"><img src="https://avatars.githubusercontent.com/u/22350795?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IceClear"><b>Jianyi Wang</b></a><br><sub>&#64;IceClear</sub></td>
+<td align="right"><b>371</b></td>
+<td align="right">38</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
@@ -1633,615 +1633,1091 @@
 </tr>
 <tr>
 <td align="right">231</td>
-<td><a href="https://github.com/huihongxiao"><img src="https://avatars.githubusercontent.com/u/8307594?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/huihongxiao"><b>HongHui Xiao/肖宏辉</b></a><br><sub>&#64;huihongxiao</sub></td>
-<td align="right"><b>333</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/Jingkang50"><img src="https://avatars.githubusercontent.com/u/17070708?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jingkang50"><b>Jingkang (Jake) Yang</b></a><br><sub>&#64;Jingkang50</sub></td>
+<td align="right"><b>342</b></td>
+<td align="right">12</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
 <td align="right">232</td>
-<td><a href="https://github.com/623637646"><img src="https://avatars.githubusercontent.com/u/5275802?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/623637646"><b>Yanni Wang</b></a><br><sub>&#64;623637646</sub></td>
-<td align="right"><b>332</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/afaqueahmad7117"><img src="https://avatars.githubusercontent.com/u/55380233?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/afaqueahmad7117"><b>Afaque Ahmad</b></a><br><sub>&#64;afaqueahmad7117</sub></td>
+<td align="right"><b>342</b></td>
+<td align="right">10</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
 <td align="right">233</td>
-<td><a href="https://github.com/TalEliyahu"><img src="https://avatars.githubusercontent.com/u/31100945?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TalEliyahu"><b>Tal Eliyahu</b></a><br><sub>&#64;TalEliyahu</sub></td>
-<td align="right"><b>324</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/thorsten-stripe"><img src="https://avatars.githubusercontent.com/u/23213994?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thorsten-stripe"><b>Thor 雷神</b></a><br><sub>&#64;thorsten-stripe</sub></td>
+<td align="right"><b>341</b></td>
+<td align="right">33</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
 <td align="right">234</td>
-<td><a href="https://github.com/horseee"><img src="https://avatars.githubusercontent.com/u/22924514?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/horseee"><b>Ma Xinyin</b></a><br><sub>&#64;horseee</sub></td>
-<td align="right"><b>322</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/u1i"><img src="https://avatars.githubusercontent.com/u/27874591?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/u1i"><b>Uli</b></a><br><sub>&#64;u1i</sub></td>
+<td align="right"><b>340</b></td>
+<td align="right">434</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
 <td align="right">235</td>
-<td><a href="https://github.com/sogko"><img src="https://avatars.githubusercontent.com/u/78585?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sogko"><b>Hafiz Ismail</b></a><br><sub>&#64;sogko</sub></td>
-<td align="right"><b>322</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/mdluo"><img src="https://avatars.githubusercontent.com/u/4597409?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mdluo"><b>Carl Luo</b></a><br><sub>&#64;mdluo</sub></td>
+<td align="right"><b>339</b></td>
+<td align="right">54</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
 <td align="right">236</td>
-<td><a href="https://github.com/jin"><img src="https://avatars.githubusercontent.com/u/347918?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jin"><b>Jin</b></a><br><sub>&#64;jin</sub></td>
-<td align="right"><b>320</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/huihongxiao"><img src="https://avatars.githubusercontent.com/u/8307594?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/huihongxiao"><b>HongHui Xiao/肖宏辉</b></a><br><sub>&#64;huihongxiao</sub></td>
+<td align="right"><b>333</b></td>
+<td align="right">10</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
 <td align="right">237</td>
-<td><a href="https://github.com/Hsury"><img src="https://avatars.githubusercontent.com/u/26821563?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hsury"><b>Ruoyang</b></a><br><sub>&#64;Hsury</sub></td>
-<td align="right"><b>312</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/623637646"><img src="https://avatars.githubusercontent.com/u/5275802?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/623637646"><b>Yanni Wang</b></a><br><sub>&#64;623637646</sub></td>
+<td align="right"><b>332</b></td>
+<td align="right">20</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
 <td align="right">238</td>
-<td><a href="https://github.com/XiaoxinHe"><img src="https://avatars.githubusercontent.com/u/48676630?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/XiaoxinHe"><b>XiaoxinHe</b></a><br><sub>&#64;XiaoxinHe</sub></td>
-<td align="right"><b>312</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/lilien1010"><img src="https://avatars.githubusercontent.com/u/3814966?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lilien1010"><b>Lien Li</b></a><br><sub>&#64;lilien1010</sub></td>
+<td align="right"><b>330</b></td>
+<td align="right">280</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
 <td align="right">239</td>
-<td><a href="https://github.com/7kms"><img src="https://avatars.githubusercontent.com/u/12625342?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/7kms"><b>Liam</b></a><br><sub>&#64;7kms</sub></td>
-<td align="right"><b>310</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/yelinaung"><img src="https://avatars.githubusercontent.com/u/275120?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yelinaung"><b>Ye Lin Aung</b></a><br><sub>&#64;yelinaung</sub></td>
+<td align="right"><b>329</b></td>
+<td align="right">246</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
 <td align="right">240</td>
-<td><a href="https://github.com/kevin-lyn"><img src="https://avatars.githubusercontent.com/u/1491282?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kevin-lyn"><b>Kevin Lin</b></a><br><sub>&#64;kevin-lyn</sub></td>
-<td align="right"><b>309</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/wph95"><img src="https://avatars.githubusercontent.com/u/2732352?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wph95"><b>JustWPH</b></a><br><sub>&#64;wph95</sub></td>
+<td align="right"><b>328</b></td>
+<td align="right">166</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
 <td align="right">241</td>
-<td><a href="https://github.com/pkuliyi2015"><img src="https://avatars.githubusercontent.com/u/59076257?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pkuliyi2015"><b>LightChaser</b></a><br><sub>&#64;pkuliyi2015</sub></td>
-<td align="right"><b>302</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/zwliew"><img src="https://avatars.githubusercontent.com/u/4538946?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zwliew"><b>Zhao Wei Liew</b></a><br><sub>&#64;zwliew</sub></td>
+<td align="right"><b>326</b></td>
+<td align="right">70</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
 <td align="right">242</td>
-<td><a href="https://github.com/gaozhangmin"><img src="https://avatars.githubusercontent.com/u/9278488?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gaozhangmin"><b>Zhangao</b></a><br><sub>&#64;gaozhangmin</sub></td>
-<td align="right"><b>300</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/isuruAb"><img src="https://avatars.githubusercontent.com/u/7692626?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/isuruAb"><b>Isuru Abeywardana</b></a><br><sub>&#64;isuruAb</sub></td>
+<td align="right"><b>325</b></td>
+<td align="right">99</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
 <td align="right">243</td>
-<td><a href="https://github.com/Sierkinhane"><img src="https://avatars.githubusercontent.com/u/41798797?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sierkinhane"><b>Jinheng Xie</b></a><br><sub>&#64;Sierkinhane</sub></td>
-<td align="right"><b>300</b></td>
-<td align="right">0</td>
-<td><sub>Singapore</sub></td>
+<td><a href="https://github.com/shazron"><img src="https://avatars.githubusercontent.com/u/36107?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shazron"><b>Shazron Abdullah</b></a><br><sub>&#64;shazron</sub></td>
+<td align="right"><b>325</b></td>
+<td align="right">54</td>
+<td><sub>Singapore (formerly San Francisco)</sub></td>
 </tr>
 <tr>
 <td align="right">244</td>
-<td><a href="https://github.com/brootware"><img src="https://avatars.githubusercontent.com/u/7734956?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brootware"><b>Oaker Min</b></a><br><sub>&#64;brootware</sub></td>
-<td align="right"><b>299</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/TalEliyahu"><img src="https://avatars.githubusercontent.com/u/31100945?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TalEliyahu"><b>Tal Eliyahu</b></a><br><sub>&#64;TalEliyahu</sub></td>
+<td align="right"><b>324</b></td>
+<td align="right">20</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
 <td align="right">245</td>
-<td><a href="https://github.com/dukedaily"><img src="https://avatars.githubusercontent.com/u/57478150?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dukedaily"><b>dukedu</b></a><br><sub>&#64;dukedaily</sub></td>
-<td align="right"><b>299</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/sogko"><img src="https://avatars.githubusercontent.com/u/78585?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sogko"><b>Hafiz Ismail</b></a><br><sub>&#64;sogko</sub></td>
+<td align="right"><b>322</b></td>
+<td align="right">97</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
 <td align="right">246</td>
-<td><a href="https://github.com/abhivaikar"><img src="https://avatars.githubusercontent.com/u/1690028?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abhivaikar"><b>Abhijeet Vaikar</b></a><br><sub>&#64;abhivaikar</sub></td>
-<td align="right"><b>290</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/horseee"><img src="https://avatars.githubusercontent.com/u/22924514?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/horseee"><b>Ma Xinyin</b></a><br><sub>&#64;horseee</sub></td>
+<td align="right"><b>322</b></td>
+<td align="right">31</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
 <td align="right">247</td>
+<td><a href="https://github.com/yankay"><img src="https://avatars.githubusercontent.com/u/1469319?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yankay"><b>Kay Yan</b></a><br><sub>&#64;yankay</sub></td>
+<td align="right"><b>321</b></td>
+<td align="right">142</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">248</td>
+<td><a href="https://github.com/BenjaminLee-tech"><img src="https://avatars.githubusercontent.com/u/311366625?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BenjaminLee-tech"><b>Benjamin Lee</b></a><br><sub>&#64;BenjaminLee-tech</sub></td>
+<td align="right"><b>321</b></td>
+<td align="right">4</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">249</td>
+<td><a href="https://github.com/vdt"><img src="https://avatars.githubusercontent.com/u/1792491?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vdt"><b>Vikram Dutt</b></a><br><sub>&#64;vdt</sub></td>
+<td align="right"><b>320</b></td>
+<td align="right">1,712</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">250</td>
+<td><a href="https://github.com/jin"><img src="https://avatars.githubusercontent.com/u/347918?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jin"><b>Jin</b></a><br><sub>&#64;jin</sub></td>
+<td align="right"><b>320</b></td>
+<td align="right">164</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">251</td>
+<td><a href="https://github.com/yongfook"><img src="https://avatars.githubusercontent.com/u/30496?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yongfook"><b>Jon Yongfook</b></a><br><sub>&#64;yongfook</sub></td>
+<td align="right"><b>319</b></td>
+<td align="right">36</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">252</td>
+<td><a href="https://github.com/soujanyaporia"><img src="https://avatars.githubusercontent.com/u/40890991?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/soujanyaporia"><b>Soujanya Poria</b></a><br><sub>&#64;soujanyaporia</sub></td>
+<td align="right"><b>317</b></td>
+<td align="right">64</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">253</td>
+<td><a href="https://github.com/project-ubin"><img src="https://avatars.githubusercontent.com/u/33472159?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/project-ubin"><b>Project Ubin</b></a><br><sub>&#64;project-ubin</sub></td>
+<td align="right"><b>317</b></td>
+<td align="right">10</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">254</td>
+<td><a href="https://github.com/temasek"><img src="https://avatars.githubusercontent.com/u/1400864?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/temasek"><b>Janson Kang</b></a><br><sub>&#64;temasek</sub></td>
+<td align="right"><b>315</b></td>
+<td align="right">191</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">255</td>
+<td><a href="https://github.com/Mythologyli"><img src="https://avatars.githubusercontent.com/u/15955880?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mythologyli"><b>Peisheng</b></a><br><sub>&#64;Mythologyli</sub></td>
+<td align="right"><b>312</b></td>
+<td align="right">132</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">256</td>
+<td><a href="https://github.com/Hsury"><img src="https://avatars.githubusercontent.com/u/26821563?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hsury"><b>Ruoyang</b></a><br><sub>&#64;Hsury</sub></td>
+<td align="right"><b>312</b></td>
+<td align="right">33</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">257</td>
+<td><a href="https://github.com/XiaoxinHe"><img src="https://avatars.githubusercontent.com/u/48676630?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/XiaoxinHe"><b>XiaoxinHe</b></a><br><sub>&#64;XiaoxinHe</sub></td>
+<td align="right"><b>312</b></td>
+<td align="right">13</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">258</td>
+<td><a href="https://github.com/7kms"><img src="https://avatars.githubusercontent.com/u/12625342?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/7kms"><b>Liam</b></a><br><sub>&#64;7kms</sub></td>
+<td align="right"><b>310</b></td>
+<td align="right">100</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">259</td>
+<td><a href="https://github.com/Asphaltt"><img src="https://avatars.githubusercontent.com/u/6274610?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Asphaltt"><b>Leon Hwang</b></a><br><sub>&#64;Asphaltt</sub></td>
+<td align="right"><b>310</b></td>
+<td align="right">93</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">260</td>
+<td><a href="https://github.com/kevin-lyn"><img src="https://avatars.githubusercontent.com/u/1491282?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kevin-lyn"><b>Kevin Lin</b></a><br><sub>&#64;kevin-lyn</sub></td>
+<td align="right"><b>309</b></td>
+<td align="right">12</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">261</td>
+<td><a href="https://github.com/jaspershen"><img src="https://avatars.githubusercontent.com/u/13146969?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jaspershen"><b>Xiaotao Shen</b></a><br><sub>&#64;jaspershen</sub></td>
+<td align="right"><b>308</b></td>
+<td align="right">131</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">262</td>
+<td><a href="https://github.com/davidzollo"><img src="https://avatars.githubusercontent.com/u/15833811?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davidzollo"><b>David Zollo</b></a><br><sub>&#64;davidzollo</sub></td>
+<td align="right"><b>308</b></td>
+<td align="right">47</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">263</td>
+<td><a href="https://github.com/AlnurFaisal"><img src="https://avatars.githubusercontent.com/u/5437113?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlnurFaisal"><b>Alnur Faisal</b></a><br><sub>&#64;AlnurFaisal</sub></td>
+<td align="right"><b>308</b></td>
+<td align="right">39</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">264</td>
+<td><a href="https://github.com/kaiwren"><img src="https://avatars.githubusercontent.com/u/19141?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kaiwren"><b>Sidu Ponnappa</b></a><br><sub>&#64;kaiwren</sub></td>
+<td align="right"><b>307</b></td>
+<td align="right">83</td>
+<td><sub>Bengaluru/Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">265</td>
+<td><a href="https://github.com/SachaEpskamp"><img src="https://avatars.githubusercontent.com/u/1207242?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SachaEpskamp"><b>Sacha Epskamp</b></a><br><sub>&#64;SachaEpskamp</sub></td>
+<td align="right"><b>307</b></td>
+<td align="right">37</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">266</td>
+<td><a href="https://github.com/iamgini"><img src="https://avatars.githubusercontent.com/u/4469813?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iamgini"><b>Gineesh Madapparambath</b></a><br><sub>&#64;iamgini</sub></td>
+<td align="right"><b>305</b></td>
+<td align="right">281</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">267</td>
+<td><a href="https://github.com/thebengeu"><img src="https://avatars.githubusercontent.com/u/1154867?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thebengeu"><b>Beng Eu</b></a><br><sub>&#64;thebengeu</sub></td>
+<td align="right"><b>303</b></td>
+<td align="right">27</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">268</td>
+<td><a href="https://github.com/chesterhow"><img src="https://avatars.githubusercontent.com/u/9312956?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chesterhow"><b>Chester How</b></a><br><sub>&#64;chesterhow</sub></td>
+<td align="right"><b>302</b></td>
+<td align="right">34</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">269</td>
+<td><a href="https://github.com/pkuliyi2015"><img src="https://avatars.githubusercontent.com/u/59076257?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pkuliyi2015"><b>LightChaser</b></a><br><sub>&#64;pkuliyi2015</sub></td>
+<td align="right"><b>302</b></td>
+<td align="right">13</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">270</td>
+<td><a href="https://github.com/Sierkinhane"><img src="https://avatars.githubusercontent.com/u/41798797?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sierkinhane"><b>Jinheng Xie</b></a><br><sub>&#64;Sierkinhane</sub></td>
+<td align="right"><b>300</b></td>
+<td align="right">50</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">271</td>
+<td><a href="https://github.com/gaozhangmin"><img src="https://avatars.githubusercontent.com/u/9278488?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gaozhangmin"><b>Zhangao</b></a><br><sub>&#64;gaozhangmin</sub></td>
+<td align="right"><b>300</b></td>
+<td align="right">45</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">272</td>
+<td><a href="https://github.com/Lucas170"><img src="https://avatars.githubusercontent.com/u/7984154?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lucas170"><b>Lucas Liew</b></a><br><sub>&#64;Lucas170</sub></td>
+<td align="right"><b>300</b></td>
+<td align="right">43</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">273</td>
+<td><a href="https://github.com/Martyrsuper"><img src="https://avatars.githubusercontent.com/u/116321786?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Martyrsuper"><b>Martyrsuper</b></a><br><sub>&#64;Martyrsuper</sub></td>
+<td align="right"><b>300</b></td>
+<td align="right">29</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">274</td>
+<td><a href="https://github.com/brootware"><img src="https://avatars.githubusercontent.com/u/7734956?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brootware"><b>Oaker Min</b></a><br><sub>&#64;brootware</sub></td>
+<td align="right"><b>299</b></td>
+<td align="right">116</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">275</td>
+<td><a href="https://github.com/dukedaily"><img src="https://avatars.githubusercontent.com/u/57478150?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dukedaily"><b>dukedu</b></a><br><sub>&#64;dukedaily</sub></td>
+<td align="right"><b>299</b></td>
+<td align="right">84</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">276</td>
+<td><a href="https://github.com/ilyasergey"><img src="https://avatars.githubusercontent.com/u/161937?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ilyasergey"><b>Ilya Sergey</b></a><br><sub>&#64;ilyasergey</sub></td>
+<td align="right"><b>299</b></td>
+<td align="right">60</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">277</td>
+<td><a href="https://github.com/jefferyklass8"><img src="https://avatars.githubusercontent.com/u/194735620?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jefferyklass8"><b>Full-stack Web &amp; AI Developer</b></a><br><sub>&#64;jefferyklass8</sub></td>
+<td align="right"><b>299</b></td>
+<td align="right">15</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">278</td>
+<td><a href="https://github.com/jzlxiaohei"><img src="https://avatars.githubusercontent.com/u/1884248?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jzlxiaohei"><b>zilong</b></a><br><sub>&#64;jzlxiaohei</sub></td>
+<td align="right"><b>298</b></td>
+<td align="right">88</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">279</td>
+<td><a href="https://github.com/kaiwang960112"><img src="https://avatars.githubusercontent.com/u/37533040?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kaiwang960112"><b>Kai Wang (Victor Kai)</b></a><br><sub>&#64;kaiwang960112</sub></td>
+<td align="right"><b>298</b></td>
+<td align="right">45</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">280</td>
+<td><a href="https://github.com/Matheus-Garbelini"><img src="https://avatars.githubusercontent.com/u/6465668?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Matheus-Garbelini"><b>Matheus Eduardo</b></a><br><sub>&#64;Matheus-Garbelini</sub></td>
+<td align="right"><b>295</b></td>
+<td align="right">40</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">281</td>
+<td><a href="https://github.com/jglim"><img src="https://avatars.githubusercontent.com/u/1116555?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jglim"><b>JinGen Lim</b></a><br><sub>&#64;jglim</sub></td>
+<td align="right"><b>294</b></td>
+<td align="right">51</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">282</td>
+<td><a href="https://github.com/jiawei-ren"><img src="https://avatars.githubusercontent.com/u/72253125?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jiawei-ren"><b>Jiawei Ren</b></a><br><sub>&#64;jiawei-ren</sub></td>
+<td align="right"><b>294</b></td>
+<td align="right">8</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">283</td>
+<td><a href="https://github.com/yulu"><img src="https://avatars.githubusercontent.com/u/3497980?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yulu"><b>Yu Lu</b></a><br><sub>&#64;yulu</sub></td>
+<td align="right"><b>291</b></td>
+<td align="right">125</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">284</td>
+<td><a href="https://github.com/lesterchan"><img src="https://avatars.githubusercontent.com/u/355829?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lesterchan"><b>Lester Chan</b></a><br><sub>&#64;lesterchan</sub></td>
+<td align="right"><b>290</b></td>
+<td align="right">44</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">285</td>
+<td><a href="https://github.com/abhivaikar"><img src="https://avatars.githubusercontent.com/u/1690028?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abhivaikar"><b>Abhijeet Vaikar</b></a><br><sub>&#64;abhivaikar</sub></td>
+<td align="right"><b>290</b></td>
+<td align="right">38</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">286</td>
+<td><a href="https://github.com/Peterpan0927"><img src="https://avatars.githubusercontent.com/u/26504662?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Peterpan0927"><b>Peterpan0927</b></a><br><sub>&#64;Peterpan0927</sub></td>
+<td align="right"><b>287</b></td>
+<td align="right">49</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">287</td>
+<td><a href="https://github.com/wjq990112"><img src="https://avatars.githubusercontent.com/u/45777252?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wjq990112"><b>J4ck W4n9</b></a><br><sub>&#64;wjq990112</sub></td>
+<td align="right"><b>287</b></td>
+<td align="right">47</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">288</td>
+<td><a href="https://github.com/93won"><img src="https://avatars.githubusercontent.com/u/38591115?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/93won"><b>Seungwon Choi</b></a><br><sub>&#64;93won</sub></td>
+<td align="right"><b>284</b></td>
+<td align="right">28</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">289</td>
+<td><a href="https://github.com/alyssaq"><img src="https://avatars.githubusercontent.com/u/2819448?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alyssaq"><b>Alyssa Quek</b></a><br><sub>&#64;alyssaq</sub></td>
+<td align="right"><b>284</b></td>
+<td align="right">0</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">290</td>
 <td><a href="https://github.com/lxcid"><img src="https://avatars.githubusercontent.com/u/297156?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lxcid"><b>Stan Chang</b></a><br><sub>&#64;lxcid</sub></td>
 <td align="right"><b>282</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">248</td>
+<td align="right">291</td>
 <td><a href="https://github.com/enzoampil"><img src="https://avatars.githubusercontent.com/u/39557688?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/enzoampil"><b>Lorenzo Ampil</b></a><br><sub>&#64;enzoampil</sub></td>
 <td align="right"><b>278</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">249</td>
+<td align="right">292</td>
 <td><a href="https://github.com/loong"><img src="https://avatars.githubusercontent.com/u/1732217?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/loong"><b>Long Hoang</b></a><br><sub>&#64;loong</sub></td>
 <td align="right"><b>275</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">250</td>
+<td align="right">293</td>
 <td><a href="https://github.com/buaacyw"><img src="https://avatars.githubusercontent.com/u/52091468?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/buaacyw"><b>Yiwen Chen</b></a><br><sub>&#64;buaacyw</sub></td>
 <td align="right"><b>273</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">251</td>
+<td align="right">294</td>
 <td><a href="https://github.com/lyqht"><img src="https://avatars.githubusercontent.com/u/35736525?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lyqht"><b>Estee Tey</b></a><br><sub>&#64;lyqht</sub></td>
 <td align="right"><b>273</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">252</td>
+<td align="right">295</td>
+<td><a href="https://github.com/wubx"><img src="https://avatars.githubusercontent.com/u/320680?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wubx"><b>wubx</b></a><br><sub>&#64;wubx</sub></td>
+<td align="right"><b>273</b></td>
+<td align="right">0</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">296</td>
 <td><a href="https://github.com/Raysmond"><img src="https://avatars.githubusercontent.com/u/4071863?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Raysmond"><b>Raysmond</b></a><br><sub>&#64;Raysmond</sub></td>
 <td align="right"><b>270</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">253</td>
+<td align="right">297</td>
+<td><a href="https://github.com/BinWang28"><img src="https://avatars.githubusercontent.com/u/25280416?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BinWang28"><b>Bin Wang</b></a><br><sub>&#64;BinWang28</sub></td>
+<td align="right"><b>265</b></td>
+<td align="right">0</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">298</td>
 <td><a href="https://github.com/notthetup"><img src="https://avatars.githubusercontent.com/u/553140?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/notthetup"><b>Chinmay Pendharkar</b></a><br><sub>&#64;notthetup</sub></td>
 <td align="right"><b>261</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">254</td>
+<td align="right">299</td>
 <td><a href="https://github.com/XueFuzhao"><img src="https://avatars.githubusercontent.com/u/57164838?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/XueFuzhao"><b>Xue Fuzhao</b></a><br><sub>&#64;XueFuzhao</sub></td>
 <td align="right"><b>255</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">255</td>
+<td align="right">300</td>
+<td><a href="https://github.com/gatariee"><img src="https://avatars.githubusercontent.com/u/79693291?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gatariee"><b>gatari</b></a><br><sub>&#64;gatariee</sub></td>
+<td align="right"><b>251</b></td>
+<td align="right">0</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">301</td>
 <td><a href="https://github.com/Mereithhh"><img src="https://avatars.githubusercontent.com/u/22872368?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mereithhh"><b>WangLu</b></a><br><sub>&#64;Mereithhh</sub></td>
 <td align="right"><b>240</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">256</td>
+<td align="right">302</td>
 <td><a href="https://github.com/dangkhoasdc"><img src="https://avatars.githubusercontent.com/u/3388047?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dangkhoasdc"><b>Le Tan Dang Khoa</b></a><br><sub>&#64;dangkhoasdc</sub></td>
 <td align="right"><b>238</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">257</td>
+<td align="right">303</td>
+<td><a href="https://github.com/jarektkaczyk"><img src="https://avatars.githubusercontent.com/u/6928818?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jarektkaczyk"><b>Jarek Tkaczyk</b></a><br><sub>&#64;jarektkaczyk</sub></td>
+<td align="right"><b>238</b></td>
+<td align="right">0</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">304</td>
+<td><a href="https://github.com/Optixal"><img src="https://avatars.githubusercontent.com/u/19287477?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Optixal"><b>Shawn</b></a><br><sub>&#64;Optixal</sub></td>
+<td align="right"><b>238</b></td>
+<td align="right">0</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">305</td>
 <td><a href="https://github.com/averygan"><img src="https://avatars.githubusercontent.com/u/88895948?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/averygan"><b>Avery Gan</b></a><br><sub>&#64;averygan</sub></td>
 <td align="right"><b>237</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">258</td>
+<td align="right">306</td>
 <td><a href="https://github.com/owenlongbo"><img src="https://avatars.githubusercontent.com/u/7929686?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/owenlongbo"><b>Owen Chen</b></a><br><sub>&#64;owenlongbo</sub></td>
 <td align="right"><b>231</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">259</td>
+<td align="right">307</td>
 <td><a href="https://github.com/jamesrxian"><img src="https://avatars.githubusercontent.com/u/1311188?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jamesrxian"><b>James Xian</b></a><br><sub>&#64;jamesrxian</sub></td>
 <td align="right"><b>227</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">260</td>
+<td align="right">308</td>
 <td><a href="https://github.com/kevinho"><img src="https://avatars.githubusercontent.com/u/546824?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kevinho"><b>Kevin He</b></a><br><sub>&#64;kevinho</sub></td>
 <td align="right"><b>227</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">261</td>
+<td align="right">309</td>
+<td><a href="https://github.com/Wangt-CN"><img src="https://avatars.githubusercontent.com/u/32795963?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Wangt-CN"><b>Wang Tan</b></a><br><sub>&#64;Wangt-CN</sub></td>
+<td align="right"><b>211</b></td>
+<td align="right">0</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">310</td>
+<td><a href="https://github.com/pea3nut"><img src="https://avatars.githubusercontent.com/u/13781420?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pea3nut"><b>花生Peadar</b></a><br><sub>&#64;pea3nut</sub></td>
+<td align="right"><b>201</b></td>
+<td align="right">0</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">311</td>
+<td><a href="https://github.com/gaboolic"><img src="https://avatars.githubusercontent.com/u/3831173?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gaboolic"><b>gaboolic</b></a><br><sub>&#64;gaboolic</sub></td>
+<td align="right"><b>199</b></td>
+<td align="right">0</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">312</td>
 <td><a href="https://github.com/yuewang-cuhk"><img src="https://avatars.githubusercontent.com/u/8224463?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yuewang-cuhk"><b>WANG Yue</b></a><br><sub>&#64;yuewang-cuhk</sub></td>
 <td align="right"><b>199</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">262</td>
+<td align="right">313</td>
 <td><a href="https://github.com/donydchen"><img src="https://avatars.githubusercontent.com/u/5866866?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/donydchen"><b>Donny Chen</b></a><br><sub>&#64;donydchen</sub></td>
 <td align="right"><b>198</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">263</td>
-<td><a href="https://github.com/gaboolic"><img src="https://avatars.githubusercontent.com/u/3831173?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gaboolic"><b>gaboolic</b></a><br><sub>&#64;gaboolic</sub></td>
-<td align="right"><b>198</b></td>
+<td align="right">314</td>
+<td><a href="https://github.com/alanchn31"><img src="https://avatars.githubusercontent.com/u/24425756?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alanchn31"><b>Alan Choon</b></a><br><sub>&#64;alanchn31</sub></td>
+<td align="right"><b>193</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">264</td>
+<td align="right">315</td>
 <td><a href="https://github.com/wan9chi"><img src="https://avatars.githubusercontent.com/u/3612422?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wan9chi"><b>Charles Wang</b></a><br><sub>&#64;wan9chi</sub></td>
 <td align="right"><b>193</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">265</td>
+<td align="right">316</td>
+<td><a href="https://github.com/coldbuffer"><img src="https://avatars.githubusercontent.com/u/289478?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/coldbuffer"><b>Miek</b></a><br><sub>&#64;coldbuffer</sub></td>
+<td align="right"><b>191</b></td>
+<td align="right">0</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">317</td>
+<td><a href="https://github.com/hungpham2511"><img src="https://avatars.githubusercontent.com/u/9715532?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hungpham2511"><b>Hung Pham (Phạm Tiến Hùng)</b></a><br><sub>&#64;hungpham2511</sub></td>
+<td align="right"><b>191</b></td>
+<td align="right">0</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">318</td>
+<td><a href="https://github.com/YifanZhang07"><img src="https://avatars.githubusercontent.com/u/26360112?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YifanZhang07"><b>Yifan Zhang</b></a><br><sub>&#64;YifanZhang07</sub></td>
+<td align="right"><b>191</b></td>
+<td align="right">0</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">319</td>
 <td><a href="https://github.com/atfortes"><img src="https://avatars.githubusercontent.com/u/57639145?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/atfortes"><b>Armando Fortes</b></a><br><sub>&#64;atfortes</sub></td>
 <td align="right"><b>187</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">266</td>
+<td align="right">320</td>
+<td><a href="https://github.com/Junyi-99"><img src="https://avatars.githubusercontent.com/u/14367694?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Junyi-99"><b>Junyi Hou</b></a><br><sub>&#64;Junyi-99</sub></td>
+<td align="right"><b>187</b></td>
+<td align="right">0</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">321</td>
 <td><a href="https://github.com/terryyin"><img src="https://avatars.githubusercontent.com/u/788834?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/terryyin"><b>Terry Yin</b></a><br><sub>&#64;terryyin</sub></td>
 <td align="right"><b>183</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">267</td>
+<td align="right">322</td>
 <td><a href="https://github.com/eltavine"><img src="https://avatars.githubusercontent.com/u/248451253?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eltavine"><b>Eltavine</b></a><br><sub>&#64;eltavine</sub></td>
 <td align="right"><b>181</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">268</td>
+<td align="right">323</td>
+<td><a href="https://github.com/feilipu"><img src="https://avatars.githubusercontent.com/u/3955592?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/feilipu"><b>Phillip Stevens</b></a><br><sub>&#64;feilipu</sub></td>
+<td align="right"><b>175</b></td>
+<td align="right">0</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">324</td>
 <td><a href="https://github.com/Fenng"><img src="https://avatars.githubusercontent.com/u/527391?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Fenng"><b>Fenng</b></a><br><sub>&#64;Fenng</sub></td>
 <td align="right"><b>173</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">269</td>
+<td align="right">325</td>
 <td><a href="https://github.com/tafia"><img src="https://avatars.githubusercontent.com/u/7351502?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tafia"><b>Johann Tuffe</b></a><br><sub>&#64;tafia</sub></td>
 <td align="right"><b>173</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">270</td>
+<td align="right">326</td>
 <td><a href="https://github.com/corollari"><img src="https://avatars.githubusercontent.com/u/32309574?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/corollari"><b>Albert</b></a><br><sub>&#64;corollari</sub></td>
 <td align="right"><b>171</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">271</td>
+<td align="right">327</td>
+<td><a href="https://github.com/joelowj"><img src="https://avatars.githubusercontent.com/u/13001361?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joelowj"><b>Joel Ong</b></a><br><sub>&#64;joelowj</sub></td>
+<td align="right"><b>170</b></td>
+<td align="right">0</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">328</td>
 <td><a href="https://github.com/Anything-of-anything"><img src="https://avatars.githubusercontent.com/u/130584435?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Anything-of-anything"><b>Anything-of-Anything</b></a><br><sub>&#64;Anything-of-anything</sub></td>
 <td align="right"><b>164</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">272</td>
+<td align="right">329</td>
 <td><a href="https://github.com/keithrozario"><img src="https://avatars.githubusercontent.com/u/795867?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/keithrozario"><b>Keith Rozario</b></a><br><sub>&#64;keithrozario</sub></td>
 <td align="right"><b>162</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">273</td>
+<td align="right">330</td>
 <td><a href="https://github.com/vincentneo"><img src="https://avatars.githubusercontent.com/u/23420208?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vincentneo"><b>Vincent Neo</b></a><br><sub>&#64;vincentneo</sub></td>
 <td align="right"><b>162</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">274</td>
+<td align="right">331</td>
 <td><a href="https://github.com/travistangvh"><img src="https://avatars.githubusercontent.com/u/59107903?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/travistangvh"><b>Travis Tang</b></a><br><sub>&#64;travistangvh</sub></td>
 <td align="right"><b>159</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">275</td>
+<td align="right">332</td>
 <td><a href="https://github.com/muzishen"><img src="https://avatars.githubusercontent.com/u/36322670?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/muzishen"><b>Fei Shen</b></a><br><sub>&#64;muzishen</sub></td>
 <td align="right"><b>158</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">276</td>
+<td align="right">333</td>
 <td><a href="https://github.com/sheshbabu"><img src="https://avatars.githubusercontent.com/u/498909?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sheshbabu"><b>Sheshbabu</b></a><br><sub>&#64;sheshbabu</sub></td>
 <td align="right"><b>158</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">277</td>
+<td align="right">334</td>
 <td><a href="https://github.com/rosuH"><img src="https://avatars.githubusercontent.com/u/15865017?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rosuH"><b>rosuH</b></a><br><sub>&#64;rosuH</sub></td>
 <td align="right"><b>157</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">278</td>
+<td align="right">335</td>
+<td><a href="https://github.com/MarioAriasC"><img src="https://avatars.githubusercontent.com/u/4005377?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MarioAriasC"><b>Mario Arias</b></a><br><sub>&#64;MarioAriasC</sub></td>
+<td align="right"><b>156</b></td>
+<td align="right">0</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">336</td>
 <td><a href="https://github.com/amulyakhare"><img src="https://avatars.githubusercontent.com/u/643983?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amulyakhare"><b>Amulya Khare</b></a><br><sub>&#64;amulyakhare</sub></td>
 <td align="right"><b>151</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">279</td>
+<td align="right">337</td>
 <td><a href="https://github.com/d99kris"><img src="https://avatars.githubusercontent.com/u/786150?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/d99kris"><b>Kristofer Berggren</b></a><br><sub>&#64;d99kris</sub></td>
 <td align="right"><b>149</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">280</td>
+<td align="right">338</td>
 <td><a href="https://github.com/Garvit244"><img src="https://avatars.githubusercontent.com/u/6849301?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Garvit244"><b>Garvit Bansal</b></a><br><sub>&#64;Garvit244</sub></td>
 <td align="right"><b>145</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">281</td>
+<td align="right">339</td>
 <td><a href="https://github.com/pq-yang"><img src="https://avatars.githubusercontent.com/u/142089663?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pq-yang"><b>Peiqing Yang</b></a><br><sub>&#64;pq-yang</sub></td>
-<td align="right"><b>141</b></td>
+<td align="right"><b>142</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">282</td>
+<td align="right">340</td>
 <td><a href="https://github.com/manojpramesh"><img src="https://avatars.githubusercontent.com/u/13680648?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/manojpramesh"><b>Manoj P R</b></a><br><sub>&#64;manojpramesh</sub></td>
 <td align="right"><b>140</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">283</td>
+<td align="right">341</td>
 <td><a href="https://github.com/ydyjya"><img src="https://avatars.githubusercontent.com/u/54494706?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ydyjya"><b>Zhenhong Zhou</b></a><br><sub>&#64;ydyjya</sub></td>
 <td align="right"><b>139</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">284</td>
+<td align="right">342</td>
+<td><a href="https://github.com/9emin1"><img src="https://avatars.githubusercontent.com/u/30677210?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/9emin1"><b>9emin1</b></a><br><sub>&#64;9emin1</sub></td>
+<td align="right"><b>135</b></td>
+<td align="right">0</td>
+<td><sub>singapore</sub></td>
+</tr>
+<tr>
+<td align="right">343</td>
 <td><a href="https://github.com/JosephPai"><img src="https://avatars.githubusercontent.com/u/25195733?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JosephPai"><b>Zechen Bai</b></a><br><sub>&#64;JosephPai</sub></td>
 <td align="right"><b>135</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">285</td>
+<td align="right">344</td>
 <td><a href="https://github.com/VienLi"><img src="https://avatars.githubusercontent.com/u/12524696?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VienLi"><b>VienLi</b></a><br><sub>&#64;VienLi</sub></td>
 <td align="right"><b>135</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">286</td>
+<td align="right">345</td>
 <td><a href="https://github.com/Determined22"><img src="https://avatars.githubusercontent.com/u/18478236?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Determined22"><b>Penghui Wei</b></a><br><sub>&#64;Determined22</sub></td>
 <td align="right"><b>130</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">287</td>
+<td align="right">346</td>
 <td><a href="https://github.com/NICEXAI"><img src="https://avatars.githubusercontent.com/u/19580983?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NICEXAI"><b>Ace</b></a><br><sub>&#64;NICEXAI</sub></td>
 <td align="right"><b>129</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">288</td>
+<td align="right">347</td>
 <td><a href="https://github.com/Yuanshi9815"><img src="https://avatars.githubusercontent.com/u/30741358?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Yuanshi9815"><b>Zhenxiong Tan</b></a><br><sub>&#64;Yuanshi9815</sub></td>
 <td align="right"><b>129</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">289</td>
+<td align="right">348</td>
 <td><a href="https://github.com/langfengQ"><img src="https://avatars.githubusercontent.com/u/94028949?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/langfengQ"><b>Lang Feng</b></a><br><sub>&#64;langfengQ</sub></td>
 <td align="right"><b>127</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">290</td>
+<td align="right">349</td>
 <td><a href="https://github.com/erupts"><img src="https://avatars.githubusercontent.com/u/20358088?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/erupts"><b>YuePeng</b></a><br><sub>&#64;erupts</sub></td>
 <td align="right"><b>124</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">291</td>
+<td align="right">350</td>
 <td><a href="https://github.com/cobaltdisco"><img src="https://avatars.githubusercontent.com/u/7610406?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cobaltdisco"><b>fx</b></a><br><sub>&#64;cobaltdisco</sub></td>
 <td align="right"><b>118</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">292</td>
+<td align="right">351</td>
+<td><a href="https://github.com/bobby-lin"><img src="https://avatars.githubusercontent.com/u/12782269?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bobby-lin"><b>Bobby Lin</b></a><br><sub>&#64;bobby-lin</sub></td>
+<td align="right"><b>115</b></td>
+<td align="right">0</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">352</td>
 <td><a href="https://github.com/DachunKai"><img src="https://avatars.githubusercontent.com/u/66354783?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DachunKai"><b>Dachun Kai</b></a><br><sub>&#64;DachunKai</sub></td>
 <td align="right"><b>115</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">293</td>
+<td align="right">353</td>
 <td><a href="https://github.com/tib36"><img src="https://avatars.githubusercontent.com/u/92930034?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tib36"><b>tib36</b></a><br><sub>&#64;tib36</sub></td>
 <td align="right"><b>110</b></td>
 <td align="right">0</td>
 <td><sub>Singapore（新加坡）</sub></td>
 </tr>
 <tr>
-<td align="right">294</td>
+<td align="right">354</td>
 <td><a href="https://github.com/astavonin"><img src="https://avatars.githubusercontent.com/u/889885?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/astavonin"><b>Alexander Stavonin</b></a><br><sub>&#64;astavonin</sub></td>
 <td align="right"><b>109</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">295</td>
+<td align="right">355</td>
 <td><a href="https://github.com/yeojz"><img src="https://avatars.githubusercontent.com/u/429598?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yeojz"><b>Gerald Yeo</b></a><br><sub>&#64;yeojz</sub></td>
 <td align="right"><b>109</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">296</td>
+<td align="right">356</td>
+<td><a href="https://github.com/btzy"><img src="https://avatars.githubusercontent.com/u/6948096?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/btzy"><b>Bernard Teo</b></a><br><sub>&#64;btzy</sub></td>
+<td align="right"><b>108</b></td>
+<td align="right">0</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">357</td>
 <td><a href="https://github.com/yuankunzhang"><img src="https://avatars.githubusercontent.com/u/10398845?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yuankunzhang"><b>Yuankun Zhang</b></a><br><sub>&#64;yuankunzhang</sub></td>
 <td align="right"><b>104</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">297</td>
+<td align="right">358</td>
+<td><a href="https://github.com/supercomputra"><img src="https://avatars.githubusercontent.com/u/17508929?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/supercomputra"><b>Putra Z</b></a><br><sub>&#64;supercomputra</sub></td>
+<td align="right"><b>103</b></td>
+<td align="right">0</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">359</td>
 <td><a href="https://github.com/TermiT"><img src="https://avatars.githubusercontent.com/u/87338?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TermiT"><b>Gennadii Potapov</b></a><br><sub>&#64;TermiT</sub></td>
 <td align="right"><b>103</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">298</td>
+<td align="right">360</td>
 <td><a href="https://github.com/veasion"><img src="https://avatars.githubusercontent.com/u/24989778?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/veasion"><b>Veasion</b></a><br><sub>&#64;veasion</sub></td>
 <td align="right"><b>101</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">299</td>
+<td align="right">361</td>
 <td><a href="https://github.com/JShollaj"><img src="https://avatars.githubusercontent.com/u/50525460?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JShollaj"><b>Xhoni Shollaj</b></a><br><sub>&#64;JShollaj</sub></td>
 <td align="right"><b>98</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">300</td>
+<td align="right">362</td>
 <td><a href="https://github.com/Nayacco"><img src="https://avatars.githubusercontent.com/u/22909744?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nayacco"><b>Nayacco</b></a><br><sub>&#64;Nayacco</sub></td>
 <td align="right"><b>98</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">301</td>
+<td align="right">363</td>
+<td><a href="https://github.com/edwardsamuel"><img src="https://avatars.githubusercontent.com/u/3603637?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/edwardsamuel"><b>Edward Samuel Pasaribu</b></a><br><sub>&#64;edwardsamuel</sub></td>
+<td align="right"><b>93</b></td>
+<td align="right">0</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">364</td>
 <td><a href="https://github.com/ansjdnakjdnajkd"><img src="https://avatars.githubusercontent.com/u/1408055?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ansjdnakjdnajkd"><b>ver 1.2</b></a><br><sub>&#64;ansjdnakjdnajkd</sub></td>
 <td align="right"><b>91</b></td>
 <td align="right">0</td>
 <td><sub>Singapore / 新加坡</sub></td>
 </tr>
 <tr>
-<td align="right">302</td>
+<td align="right">365</td>
+<td><a href="https://github.com/StreetLamb"><img src="https://avatars.githubusercontent.com/u/16421050?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/StreetLamb"><b>Jerron Lim</b></a><br><sub>&#64;StreetLamb</sub></td>
+<td align="right"><b>89</b></td>
+<td align="right">0</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">366</td>
+<td><a href="https://github.com/mutoe"><img src="https://avatars.githubusercontent.com/u/9391981?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mutoe"><b>Dongsen</b></a><br><sub>&#64;mutoe</sub></td>
+<td align="right"><b>87</b></td>
+<td align="right">0</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">367</td>
 <td><a href="https://github.com/liou666"><img src="https://avatars.githubusercontent.com/u/70936517?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/liou666"><b>liou</b></a><br><sub>&#64;liou666</sub></td>
 <td align="right"><b>85</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">303</td>
+<td align="right">368</td>
 <td><a href="https://github.com/Roxasora"><img src="https://avatars.githubusercontent.com/u/3333149?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Roxasora"><b>Fan Bin</b></a><br><sub>&#64;Roxasora</sub></td>
 <td align="right"><b>82</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">304</td>
+<td align="right">369</td>
 <td><a href="https://github.com/cppla"><img src="https://avatars.githubusercontent.com/u/10623809?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cppla"><b>cppla</b></a><br><sub>&#64;cppla</sub></td>
 <td align="right"><b>81</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">305</td>
+<td align="right">370</td>
 <td><a href="https://github.com/BleuBleu"><img src="https://avatars.githubusercontent.com/u/6654334?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BleuBleu"><b>BleuBleu</b></a><br><sub>&#64;BleuBleu</sub></td>
 <td align="right"><b>78</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">306</td>
+<td align="right">371</td>
 <td><a href="https://github.com/K0p1-Git"><img src="https://avatars.githubusercontent.com/u/55252776?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/K0p1-Git"><b>Jason K.</b></a><br><sub>&#64;K0p1-Git</sub></td>
 <td align="right"><b>72</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">307</td>
+<td align="right">372</td>
 <td><a href="https://github.com/iknow4x"><img src="https://avatars.githubusercontent.com/u/7391445?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iknow4x"><b>Jason</b></a><br><sub>&#64;iknow4x</sub></td>
 <td align="right"><b>68</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">308</td>
+<td align="right">373</td>
 <td><a href="https://github.com/wangyongjie-ntu"><img src="https://avatars.githubusercontent.com/u/12019443?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wangyongjie-ntu"><b>Yongjie Wang</b></a><br><sub>&#64;wangyongjie-ntu</sub></td>
 <td align="right"><b>64</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">309</td>
+<td align="right">374</td>
 <td><a href="https://github.com/YS-L"><img src="https://avatars.githubusercontent.com/u/2175543?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YS-L"><b>Yung Siang Liau</b></a><br><sub>&#64;YS-L</sub></td>
 <td align="right"><b>58</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">310</td>
+<td align="right">375</td>
 <td><a href="https://github.com/Justsenger"><img src="https://avatars.githubusercontent.com/u/76653335?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Justsenger"><b>Justsenger</b></a><br><sub>&#64;Justsenger</sub></td>
 <td align="right"><b>54</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">311</td>
+<td align="right">376</td>
 <td><a href="https://github.com/ksami"><img src="https://avatars.githubusercontent.com/u/2187904?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ksami"><b>ksami</b></a><br><sub>&#64;ksami</sub></td>
 <td align="right"><b>54</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">312</td>
+<td align="right">377</td>
 <td><a href="https://github.com/sbycrosz"><img src="https://avatars.githubusercontent.com/u/4867178?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sbycrosz"><b>Sam Aryasa</b></a><br><sub>&#64;sbycrosz</sub></td>
 <td align="right"><b>49</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">313</td>
+<td align="right">378</td>
+<td><a href="https://github.com/tomzaku"><img src="https://avatars.githubusercontent.com/u/19413272?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tomzaku"><b>Zaku</b></a><br><sub>&#64;tomzaku</sub></td>
+<td align="right"><b>49</b></td>
+<td align="right">0</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">379</td>
+<td><a href="https://github.com/octopitus"><img src="https://avatars.githubusercontent.com/u/6346034?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/octopitus"><b>Luy Tran</b></a><br><sub>&#64;octopitus</sub></td>
+<td align="right"><b>48</b></td>
+<td align="right">0</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">380</td>
 <td><a href="https://github.com/nelsontky"><img src="https://avatars.githubusercontent.com/u/7272103?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nelsontky"><b>nelsontky</b></a><br><sub>&#64;nelsontky</sub></td>
 <td align="right"><b>45</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">314</td>
+<td align="right">381</td>
 <td><a href="https://github.com/eastmaple"><img src="https://avatars.githubusercontent.com/u/55907257?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eastmaple"><b>EastMaple</b></a><br><sub>&#64;eastmaple</sub></td>
 <td align="right"><b>27</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">315</td>
+<td align="right">382</td>
 <td><a href="https://github.com/tcchen2026"><img src="https://avatars.githubusercontent.com/u/264924385?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tcchen2026"><b>TC Chen</b></a><br><sub>&#64;tcchen2026</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">0</td>
 <td><sub>Singapore // timezone: UTC+8, trusted: yes</sub></td>
 </tr>
 <tr>
-<td align="right">316</td>
+<td align="right">383</td>
 <td><a href="https://github.com/amhoho"><img src="https://avatars.githubusercontent.com/u/24509574?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amhoho"><b>amhoho</b></a><br><sub>&#64;amhoho</sub></td>
 <td align="right"><b>23</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">317</td>
+<td align="right">384</td>
+<td><a href="https://github.com/TickDB"><img src="https://avatars.githubusercontent.com/u/252287337?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TickDB"><b>TickDB</b></a><br><sub>&#64;TickDB</sub></td>
+<td align="right"><b>23</b></td>
+<td align="right">0</td>
+<td><sub>Singapore</sub></td>
+</tr>
+<tr>
+<td align="right">385</td>
 <td><a href="https://github.com/EEliberto"><img src="https://avatars.githubusercontent.com/u/74881807?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EEliberto"><b>Eliberto</b></a><br><sub>&#64;EEliberto</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Singapore</sub></td>
 </tr>
 <tr>
-<td align="right">318</td>
+<td align="right">386</td>
 <td><a href="https://github.com/filecxx"><img src="https://avatars.githubusercontent.com/u/100348948?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/filecxx"><b>filecxx</b></a><br><sub>&#64;filecxx</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -2255,8 +2731,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 318 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 386 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 0 of 109 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

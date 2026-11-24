@@ -45,7 +45,7 @@
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/gabriel14silva"><img src="https://avatars.githubusercontent.com/u/32249455?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gabriel14silva"><b>José Gabriel Griffin Silva</b></a><br><sub>&#64;gabriel14silva</sub></td>
-<td align="right"><b>15</b></td>
+<td align="right"><b>14</b></td>
 <td align="right">36</td>
 <td><sub>Nicaragua, RACS, Nueva Guinea</sub></td>
 </tr>
@@ -100,7 +100,7 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
 - Organizations are excluded. 10 attributed developers are tracked; the cutoff is 1 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 112 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

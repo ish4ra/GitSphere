@@ -30,8 +30,8 @@
 </tr>
 <tr>
 <td align="right">2</td>
-<td><a href="https://github.com/yusions"><img src="https://avatars.githubusercontent.com/u/223691277?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yusions"><b>not very active rn / check new strawp</b></a><br><sub>&#64;yusions</sub></td>
-<td align="right"><b>562</b></td>
+<td><a href="https://github.com/yusions"><img src="https://avatars.githubusercontent.com/u/223691277?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yusions"><b>not very active rn</b></a><br><sub>&#64;yusions</sub></td>
+<td align="right"><b>566</b></td>
 <td align="right">1</td>
 <td><sub>・・・・・ hi im ley / cinna / holli</sub></td>
 </tr>
@@ -45,7 +45,7 @@
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/rakviyem"><img src="https://avatars.githubusercontent.com/u/205751150?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rakviyem"><b>the entity&#39;s #1 fan</b></a><br><sub>&#64;rakviyem</sub></td>
-<td align="right"><b>455</b></td>
+<td align="right"><b>457</b></td>
 <td align="right">1</td>
 <td><sub>almost always (semi) near the bakery.</sub></td>
 </tr>

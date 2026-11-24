@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/developers/PA.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/developers/PA.json">JSON</a> |
 
 </div>
 
@@ -30,27 +30,41 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/4r13lpch3lp"><img src="https://avatars.githubusercontent.com/u/125678266?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/4r13lpch3lp"><b>spartan&#95;chief&#95;ch1n021</b></a><br><sub>&#64;4r13lpch3lp</sub></td>
+<td align="right"><b>4</b></td>
+<td align="right">4</td>
+<td><sub>Panama</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/21Ginko"><img src="https://avatars.githubusercontent.com/u/25889910?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/21Ginko"><b>Joseph González</b></a><br><sub>&#64;21Ginko</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">7</td>
 <td><sub>Chiriqui, Panama</sub></td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/061017liz"><img src="https://avatars.githubusercontent.com/u/203359799?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/061017liz"><b>LIZETH ESPINO</b></a><br><sub>&#64;061017liz</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/152as"><img src="https://avatars.githubusercontent.com/u/131210767?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/152as"><b>Simon Becerra</b></a><br><sub>&#64;152as</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Panama oeste La chorrera</sub></td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
+<td><a href="https://github.com/4d3-sudo"><img src="https://avatars.githubusercontent.com/u/58711534?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/4d3-sudo"><b>ade.&#95;.lian</b></a><br><sub>&#64;4d3-sudo</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Panama</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/0xCryp7icX"><img src="https://avatars.githubusercontent.com/u/44118188?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xCryp7icX"><b>0xCryp7icX</b></a><br><sub>&#64;0xCryp7icX</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
@@ -64,8 +78,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 5 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 7 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 0 of 81 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

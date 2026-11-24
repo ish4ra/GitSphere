@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/developers/VG.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/developers/VG.json">JSON</a> |
 
 </div>
 
@@ -37,45 +37,66 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/CryptoUnit-blockchain"><img src="https://avatars.githubusercontent.com/u/95914476?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CryptoUnit-blockchain"><b>Cryptounit</b></a><br><sub>&#64;CryptoUnit-blockchain</sub></td>
+<td align="right"><b>22</b></td>
+<td align="right">2</td>
+<td><sub>ABM Chambers, P.O. BOX 2283, Road Town, Tortola…</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/AI-Isaiah"><img src="https://avatars.githubusercontent.com/u/117355363?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AI-Isaiah"><b>AI-Isaiah</b></a><br><sub>&#64;AI-Isaiah</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">26</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/Alcatrax"><img src="https://avatars.githubusercontent.com/u/5949652?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alcatrax"><b>Alcatrax</b></a><br><sub>&#64;Alcatrax</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/ChengZhu-Science-Repository"><img src="https://avatars.githubusercontent.com/u/239911136?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ChengZhu-Science-Repository"><b>Liu Huan</b></a><br><sub>&#64;ChengZhu-Science-Repository</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/Barzillin"><img src="https://avatars.githubusercontent.com/u/82775299?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Barzillin"><b>Rick Harisson</b></a><br><sub>&#64;Barzillin</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">21</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/bluelink-os"><img src="https://avatars.githubusercontent.com/u/345057346?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bluelink-os"><b>BlueLink OS</b></a><br><sub>&#64;bluelink-os</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>1st Floor, Columbus Centre, P.O. Box 2283, Road…</sub></td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
+<td><a href="https://github.com/darklightleon"><img src="https://avatars.githubusercontent.com/u/181548834?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/darklightleon"><b>darklightleon</b></a><br><sub>&#64;darklightleon</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>British Virgin Islands (VG)</sub></td>
+</tr>
+<tr>
+<td align="right">10</td>
 <td><a href="https://github.com/cdzexchange98"><img src="https://avatars.githubusercontent.com/u/86058888?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cdzexchange98"><b>Cdz Exchange</b></a><br><sub>&#64;cdzexchange98</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Vistra Corporate Services Centre, Wickhams Cay…</sub></td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/cryptsurf"><img src="https://avatars.githubusercontent.com/u/287033193?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cryptsurf"><b>CryptSurf VPN</b></a><br><sub>&#64;cryptsurf</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>British Virgin Islands</sub></td>
 </tr>
 </tbody>
 </table>
@@ -85,7 +106,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 8 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 11 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

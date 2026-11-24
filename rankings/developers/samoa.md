@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/developers/WS.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/developers/WS.json">JSON</a> |
 
 </div>
 
@@ -37,24 +37,38 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/duchonic"><img src="https://avatars.githubusercontent.com/u/34117620?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/duchonic"><b>duchonic</b></a><br><sub>&#64;duchonic</sub></td>
+<td align="right"><b>4</b></td>
+<td align="right">24</td>
+<td><sub>samoa</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/camemorningsun"><img src="https://avatars.githubusercontent.com/u/181612291?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/camemorningsun"><b>camemorningsun</b></a><br><sub>&#64;camemorningsun</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Samoa (WS)</sub></td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/Cidni"><img src="https://avatars.githubusercontent.com/u/92680268?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Cidni"><b>Cidni</b></a><br><sub>&#64;Cidni</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Samoa</sub></td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/Alchemista"><img src="https://avatars.githubusercontent.com/u/6079375?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alchemista"><b>Alchemista</b></a><br><sub>&#64;Alchemista</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Samoa</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/drake8c3cr0cc"><img src="https://avatars.githubusercontent.com/u/330946110?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/drake8c3cr0cc"><b>Aku Manu</b></a><br><sub>&#64;drake8c3cr0cc</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Apia, Samoa</sub></td>
 </tr>
 </tbody>
 </table>
@@ -64,7 +78,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 5 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 7 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

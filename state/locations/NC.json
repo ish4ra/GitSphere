@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"country": "NC",
+"round": 1,
+"roundStartedAt": "2026-11-24T01:03:46.046Z",
+"terms": {"count":65,"fingerprint":"65:d3bcff9a"},
+"termIndex": 1,
+"specIndex": 0,
+"active": null,
+"unresolved": [],
+"completedRounds": [],
+"stats": {"requests":6,"pages":6,"accounts":255},
+"updatedAt": "2026-11-24T01:04:00.404Z"
+}

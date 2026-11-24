@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | :---: |
 | 🟠 Stale | **100** | 02 Nov 2026 | <a href="../data/MM.json">JSON</a> |
 
-> **Not yet re-verified.** 100 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 98 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -25,17 +25,17 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><img src="https://github.com/r1skkam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/r1skkam/Some-cheatsheets-notes-and-resources-for-AWS-SAA-C03-exam"><b>r1skkam/Some-cheatsheets-notes-and-resources-for-AWS-SAA-C03-exam</b></a></td>
-<td align="right"><b>77</b></td>
-<td align="right">28</td>
-<td>—</td>
+<td><img src="https://github.com/KhunHtetzNaing.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KhunHtetzNaing/ADB-OTG"><b>KhunHtetzNaing/ADB-OTG</b></a><br><sub>Android Debug Bridge On The Go.</sub></td>
+<td align="right"><b>1,002</b></td>
+<td align="right">430</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">2</td>
-<td><img src="https://github.com/thitlwincoder.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thitlwincoder/direct_link"><b>thitlwincoder/direct&#95;link</b></a></td>
-<td align="right"><b>36</b></td>
-<td align="right">21</td>
-<td>Dart</td>
+<td><img src="https://github.com/netgoat-xyz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/netgoat-xyz/netgoat"><b>netgoat-xyz/netgoat</b></a><br><sub>A Cloudflare alternative for local and cloud use, can be used ontop of cloudflare for cloudflares paid features, but fo…</sub></td>
+<td align="right"><b>903</b></td>
+<td align="right">51</td>
+<td>Go</td>
 </tr>
 <tr>
 <td align="right">3</td>
@@ -732,7 +732,7 @@
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 0 stars; 139 attributed candidates are tracked.
-- 100 entries were carried over from the previous dataset and are pending revalidation.
+- 98 entries were carried over from the previous dataset and are pending revalidation.
 - 150 multi-repository owners are queued for expansion.
 - **Location discovery:** term 1 of 161 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

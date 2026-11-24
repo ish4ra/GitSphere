@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/NO.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/NO.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,24 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/devlinduldulao"><img src="https://avatars.githubusercontent.com/u/22025912?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/devlinduldulao"><b>Devlin Duldulao</b></a><br><sub>&#64;devlinduldulao · 304 followers</sub></td>
+<td align="right"><b>2,005</b></td>
+<td align="right">1,960</td>
+<td align="right">14</td>
+<td align="right">2</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/mikalv"><img src="https://avatars.githubusercontent.com/u/195767?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikalv"><b>Mikal</b></a><br><sub>&#64;mikalv · 308 followers</sub></td>
+<td align="right"><b>1,007</b></td>
+<td align="right">751</td>
+<td align="right">29</td>
+<td align="right">0</td>
+<td align="right">198</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/kimocoder"><img src="https://avatars.githubusercontent.com/u/4252297?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kimocoder"><b>Christian &lt;kimo&gt; B.</b></a><br><sub>&#64;kimocoder · 1,455 followers</sub></td>
 <td align="right"><b>563</b></td>
 <td align="right">395</td>
@@ -51,7 +69,7 @@
 <td align="right">4</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">6</td>
 <td><a href="https://github.com/comradekingu"><img src="https://avatars.githubusercontent.com/u/13802408?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/comradekingu"><b>Allan Nordhøy</b></a><br><sub>&#64;comradekingu · 430 followers</sub></td>
 <td align="right"><b>66</b></td>
 <td align="right">64</td>
@@ -60,7 +78,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">7</td>
 <td><a href="https://github.com/eiriklv"><img src="https://avatars.githubusercontent.com/u/3486317?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eiriklv"><b>Eirik L. Vullum</b></a><br><sub>&#64;eiriklv · 361 followers</sub></td>
 <td align="right"><b>63</b></td>
 <td align="right">63</td>
@@ -75,10 +93,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 5 of 511 discovered developers (506 awaiting measurement).
+- **Measured:** 7 of 557 discovered developers (550 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 167 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

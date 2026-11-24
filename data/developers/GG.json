@@ -7,7 +7,7 @@
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
 "coverage": {"basis":"partial","cutoffFollowers":0,"candidates":145,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":24,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjExODk1MQ==","login":"damieng","name":"Damien Guard","url":"https://github.com/damieng","avatarUrl":"https://avatars.githubusercontent.com/u/118951?s=80&v=4","followers":780,"publicRepos":43,"location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":1,"id":"MDQ6VXNlcjExODk1MQ==","login":"damieng","name":"Damien Guard","url":"https://github.com/damieng","avatarUrl":"https://avatars.githubusercontent.com/u/118951?s=80&v=4","followers":780,"publicRepos":43,"location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":"MDQ6VXNlcjE4NDQ0MzAy","login":"tris203","name":"Tristan Knight","url":"https://github.com/tris203","avatarUrl":"https://avatars.githubusercontent.com/u/18444302?s=80&v=4","followers":44,"publicRepos":74,"location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":3,"id":"MDQ6VXNlcjgzMDE0MjE4","login":"Elania-Marvers","name":"Elania","url":"https://github.com/Elania-Marvers","avatarUrl":"https://avatars.githubusercontent.com/u/83014218?s=80&v=4","followers":30,"publicRepos":61,"location":"Guernesey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":4,"id":"MDQ6VXNlcjEzOTEwMzc0","login":"TheCodingCarlson","name":"Chris Carlson","url":"https://github.com/TheCodingCarlson","avatarUrl":"https://avatars.githubusercontent.com/u/13910374?s=80&v=4","followers":26,"publicRepos":17,"location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
@@ -30,7 +30,7 @@
   {"rank":21,"id":"MDQ6VXNlcjEwNDU0Mzk0","login":"GlennToms","name":"Glenn Toms","url":"https://github.com/GlennToms","avatarUrl":"https://avatars.githubusercontent.com/u/10454394?s=80&v=4","followers":3,"publicRepos":14,"location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":22,"id":"MDQ6VXNlcjIwODA5Njk=","login":"technosight","name":"Ivan Petrov","url":"https://github.com/technosight","avatarUrl":"https://avatars.githubusercontent.com/u/2080969?s=80&v=4","followers":3,"publicRepos":6,"location":"St Peter Port, Guernsey","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":23,"id":"MDQ6VXNlcjc0MjE3MzU4","login":"gsydev191","name":"Dan","url":"https://github.com/gsydev191","avatarUrl":"https://avatars.githubusercontent.com/u/74217358?s=80&v=4","followers":3,"publicRepos":4,"location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
-  {"rank":24,"id":"MDQ6VXNlcjUwNDA1MjM=","login":"adrianritchie","name":null,"url":"https://github.com/adrianritchie","avatarUrl":"https://avatars.githubusercontent.com/u/5040523?s=80&v=4","followers":2,"publicRepos":34,"location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":24,"id":"MDQ6VXNlcjUwNDA1MjM=","login":"adrianritchie","name":null,"url":"https://github.com/adrianritchie","avatarUrl":"https://avatars.githubusercontent.com/u/5040523?s=80&v=4","followers":2,"publicRepos":34,"location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":25,"id":"MDQ6VXNlcjE4NjMxMTA4","login":"charlie-ogier","name":"Charlie Ogier","url":"https://github.com/charlie-ogier","avatarUrl":"https://avatars.githubusercontent.com/u/18631108?s=80&v=4","followers":2,"publicRepos":22,"location":"Guernsey, Channel Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":26,"id":"U_kgDOB4fuSQ","login":"LIHITAB","name":"Like and Code on GitHub","url":"https://github.com/LIHITAB","avatarUrl":"https://avatars.githubusercontent.com/u/126348873?s=80&v=4","followers":2,"publicRepos":19,"location":"Guernsey, CI","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":27,"id":"MDQ6VXNlcjMwOTg3Mjc1","login":"tomupson","name":"Tom Upson","url":"https://github.com/tomupson","avatarUrl":"https://avatars.githubusercontent.com/u/30987275?s=80&v=4","followers":2,"publicRepos":13,"location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
@@ -153,8 +153,8 @@
   {"rank":144,"id":"MDQ6VXNlcjc5ODQzOTI0","login":"WireframeGG","name":"Wireframe Games Guernsey","url":"https://github.com/WireframeGG","avatarUrl":"https://avatars.githubusercontent.com/u/79843924?s=80&v=4","followers":0,"publicRepos":0,"location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":145,"id":"MDQ6VXNlcjI4NzQyOTQ3","login":"WobbleGsy","name":"Phil Trouteaud","url":"https://github.com/WobbleGsy","avatarUrl":"https://avatars.githubusercontent.com/u/28742947?s=80&v=4","followers":0,"publicRepos":0,"location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "52352bf98f807511",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "c682997561eae8b8",
+"updatedAt": "2026-11-24T01:31:49.018Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-24T01:31:49.018Z"
 }

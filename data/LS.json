@@ -5,7 +5,7 @@
 "country": {"code":"LS","name":"Lesotho","slug":"lesotho"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":149,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":47,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":149,"candidates":149,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":47,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"real_estate","nameWithOwner":"ramoletane/real_estate","url":"https://github.com/ramoletane/real_estate","description":null,"stars":26,"forks":15,"primaryLanguage":"Python","license":{"spdxId":"NOASSERTION"},"createdAt":"2019-09-12T13:39:58Z","pushedAt":"2020-03-24T12:04:02Z","archived":false,"owner":{"login":"ramoletane","name":"Ramoletane Lekhanya","type":"User","url":"https://github.com/ramoletane","location":"Maseru, Lesotho","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"claw-code-swipe","nameWithOwner":"MissPurrple/claw-code-swipe","url":"https://github.com/MissPurrple/claw-code-swipe","description":null,"stars":20,"forks":15,"primaryLanguage":"Rust","license":null,"createdAt":"2026-04-02T14:05:58Z","pushedAt":"2026-04-02T14:15:17Z","archived":false,"owner":{"login":"MissPurrple","name":"Miss Purple","type":"User","url":"https://github.com/MissPurrple","location":"Lesotho","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"CS4433QR","nameWithOwner":"TsepoPUT/CS4433QR","url":"https://github.com/TsepoPUT/CS4433QR","description":null,"stars":0,"forks":2,"primaryLanguage":"Java","license":null,"createdAt":"2023-12-19T06:21:02Z","pushedAt":"2023-12-19T16:44:52Z","archived":false,"owner":{"login":"TsepoPUT","name":"Tsepo Putsoane","type":"User","url":"https://github.com/TsepoPUT","location":"Maseru, Lesotho","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"certifications","nameWithOwner":"LM411/certifications","url":"https://github.com/LM411/certifications","description":null,"stars":0,"forks":1,"primaryLanguage":null,"license":{"spdxId":"GPL-3.0"},"createdAt":"2020-10-06T20:53:18Z","pushedAt":"2024-06-13T20:56:13Z","archived":false,"owner":{"login":"LM411","name":"Lehlohonolo Makoti","type":"User","url":"https://github.com/LM411","location":"Maseru, Lesotho","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "df4bcc6523fdd0d4",
-"updatedAt": "2026-11-23T13:10:04.236Z",
+"contentHash": "f2932611590ba585",
+"updatedAt": "2026-11-24T01:31:49.018Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-23T13:10:04.236Z"
+"generatedAt": "2026-11-24T01:31:49.018Z"
 }

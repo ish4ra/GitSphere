@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/developers/DO.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/developers/DO.json">JSON</a> |
 
 </div>
 
@@ -72,6 +72,27 @@
 </tr>
 <tr>
 <td align="right">8</td>
+<td><a href="https://github.com/juliourena"><img src="https://avatars.githubusercontent.com/u/29603107?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/juliourena"><b>Julio Ureña</b></a><br><sub>&#64;juliourena</sub></td>
+<td align="right"><b>320</b></td>
+<td align="right">51</td>
+<td><sub>Dominican Republic</sub></td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/Topdev1234"><img src="https://avatars.githubusercontent.com/u/171462020?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Topdev1234"><b>Topdev</b></a><br><sub>&#64;Topdev1234</sub></td>
+<td align="right"><b>307</b></td>
+<td align="right">3</td>
+<td><sub>Dominican Republic</sub></td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/KevRojo"><img src="https://avatars.githubusercontent.com/u/9065636?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KevRojo"><b>Kevin Rojo</b></a><br><sub>&#64;KevRojo</sub></td>
+<td align="right"><b>217</b></td>
+<td align="right">10</td>
+<td><sub>Dominican Republic</sub></td>
+</tr>
+<tr>
+<td align="right">11</td>
 <td><a href="https://github.com/adonismendozaperez"><img src="https://avatars.githubusercontent.com/u/15876642?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adonismendozaperez"><b>Adonis Mendoza</b></a><br><sub>&#64;adonismendozaperez</sub></td>
 <td align="right"><b>117</b></td>
 <td align="right">0</td>
@@ -85,7 +106,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 8 attributed developers are tracked; the cutoff is 117 followers.
+- Organizations are excluded. 11 attributed developers are tracked; the cutoff is 117 followers.
 - **Location discovery:** term 0 of 134 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

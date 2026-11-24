@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **86** | 16 Oct 2026 | <a href="../data/GE.json">JSON</a> |
+| 🟠 Stale | **86** | 01 Nov 2026 | <a href="../data/GE.json">JSON</a> |
 
-> **Not yet re-verified.** 70 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 67 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -137,24 +137,24 @@
 </tr>
 <tr>
 <td align="right">17</td>
-<td><img src="https://github.com/jkomyno.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jkomyno/react-native-user-inactivity"><b>jkomyno/react-native-user-inactivity</b></a></td>
-<td align="right"><b>216</b></td>
-<td align="right">54</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/shalva97.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shalva97/kde-configuration-files"><b>shalva97/kde-configuration-files</b></a><br><sub>KDE plasma configuration files</sub></td>
+<td align="right"><b>1,073</b></td>
+<td align="right">66</td>
+<td>Shell</td>
 </tr>
 <tr>
 <td align="right">18</td>
-<td><img src="https://github.com/catherineisonline.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/catherineisonline/all-projects-directory"><b>catherineisonline/all-projects-directory</b></a></td>
-<td align="right"><b>154</b></td>
-<td align="right">24</td>
-<td>—</td>
+<td><img src="https://github.com/lukakldiashvili.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lukakldiashvili/Unified-Universal-Blur"><b>lukakldiashvili/Unified-Universal-Blur</b></a><br><sub>UI blur (translucent) effect for Unity.</sub></td>
+<td align="right"><b>991</b></td>
+<td align="right">89</td>
+<td>C#</td>
 </tr>
 <tr>
 <td align="right">19</td>
-<td><img src="https://github.com/atercattus.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/atercattus/highloadcup_tester"><b>atercattus/highloadcup&#95;tester</b></a></td>
-<td align="right"><b>99</b></td>
-<td align="right">8</td>
-<td>Go</td>
+<td><img src="https://github.com/thecmdguy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thecmdguy/Ducky"><b>thecmdguy/Ducky</b></a><br><sub>Ducky is a powerful, open-source, all-in-one desktop application built with Python and PySide6. It is designed to be th…</sub></td>
+<td align="right"><b>924</b></td>
+<td align="right">85</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">20</td>
@@ -634,8 +634,8 @@
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 0 stars; 86 attributed candidates are tracked.
-- 70 entries were carried over from the previous dataset and are pending revalidation.
-- 140 multi-repository owners are queued for expansion.
+- 67 entries were carried over from the previous dataset and are pending revalidation.
+- 138 multi-repository owners are queued for expansion.
 - **Location discovery:** term 3 of 167 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

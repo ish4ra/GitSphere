@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **17** | 22 Nov 2026 | <a href="../../data/developers/RW.json">JSON</a> |
+| 🟡 Provisional | **22** | 22 Nov 2026 | <a href="../../data/developers/RW.json">JSON</a> |
 
 </div>
 
@@ -140,6 +140,41 @@
 <td align="right">32</td>
 <td><sub>Kigali, Rwanda</sub></td>
 </tr>
+<tr>
+<td align="right">18</td>
+<td><a href="https://github.com/descholar-ceo"><img src="https://avatars.githubusercontent.com/u/56886064?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/descholar-ceo"><b>Mugirase Emmanuel</b></a><br><sub>&#64;descholar-ceo</sub></td>
+<td align="right"><b>330</b></td>
+<td align="right">167</td>
+<td><sub>Kigali, Rwanda</sub></td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><a href="https://github.com/alexissengangabo07"><img src="https://avatars.githubusercontent.com/u/55744981?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexissengangabo07"><b>Dr. Code</b></a><br><sub>&#64;alexissengangabo07</sub></td>
+<td align="right"><b>318</b></td>
+<td align="right">63</td>
+<td><sub>Kigali, Rwanda</sub></td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><a href="https://github.com/shemaikuzwe"><img src="https://avatars.githubusercontent.com/u/130182097?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shemaikuzwe"><b>Ikuzwe shema Elie</b></a><br><sub>&#64;shemaikuzwe</sub></td>
+<td align="right"><b>314</b></td>
+<td align="right">67</td>
+<td><sub>rwanda</sub></td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><a href="https://github.com/Manzi-Elvis"><img src="https://avatars.githubusercontent.com/u/141098290?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Manzi-Elvis"><b>Elvis Manzi Rurangirwa</b></a><br><sub>&#64;Manzi-Elvis</sub></td>
+<td align="right"><b>296</b></td>
+<td align="right">100</td>
+<td><sub>Rwanda</sub></td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><a href="https://github.com/NTAGOZERAKevin"><img src="https://avatars.githubusercontent.com/u/186942371?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NTAGOZERAKevin"><b>NTAGOZERA Kevin</b></a><br><sub>&#64;NTAGOZERAKevin</sub></td>
+<td align="right"><b>292</b></td>
+<td align="right">36</td>
+<td><sub>Kigali ,Rwanda</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -148,8 +183,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 17 attributed developers are tracked; the cutoff is 357 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 22 attributed developers are tracked; the cutoff is 292 followers.
+- **Location discovery:** term 0 of 36 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

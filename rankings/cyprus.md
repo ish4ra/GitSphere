@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **46** | 04 Nov 2026 | <a href="../data/CY.json">JSON</a> |
+| 🟠 Stale | **30** | 04 Nov 2026 | <a href="../data/CY.json">JSON</a> |
 
-> **Not yet re-verified.** 22 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 1 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -193,153 +193,41 @@
 </tr>
 <tr>
 <td align="right">25</td>
-<td><img src="https://github.com/knizhnik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/knizhnik/imcs"><b>knizhnik/imcs</b></a></td>
-<td align="right"><b>202</b></td>
-<td align="right">32</td>
-<td>C</td>
+<td><img src="https://github.com/dgutov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dgutov/diff-hl"><b>dgutov/diff-hl</b></a><br><sub>Emacs package for highlighting uncommitted changes</sub></td>
+<td align="right"><b>1,122</b></td>
+<td align="right">74</td>
+<td>Emacs Lisp</td>
 </tr>
 <tr>
 <td align="right">26</td>
-<td><img src="https://github.com/ei-grad.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ei-grad/flask-shell-ipython"><b>ei-grad/flask-shell-ipython</b></a></td>
-<td align="right"><b>194</b></td>
-<td align="right">14</td>
+<td><img src="https://github.com/TezRomacH.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TezRomacH/python-package-template"><b>TezRomacH/python-package-template</b></a> <sub>archived</sub><br><sub>🚀 Your next Python package needs a bleeding-edge project structure.</sub></td>
+<td align="right"><b>1,092</b></td>
+<td align="right">115</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">27</td>
-<td><img src="https://github.com/spotware.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spotware/OpenApiPy"><b>spotware/OpenApiPy</b></a></td>
-<td align="right"><b>193</b></td>
-<td align="right">64</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">28</td>
-<td><img src="https://github.com/openAMRobot.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/openAMRobot/openamr-platform-sw"><b>openAMRobot/openamr-platform-sw</b></a></td>
-<td align="right"><b>193</b></td>
-<td align="right">29</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">29</td>
-<td><img src="https://github.com/kstep.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kstep/rust-mpd"><b>kstep/rust-mpd</b></a></td>
-<td align="right"><b>107</b></td>
-<td align="right">44</td>
-<td>Rust</td>
-</tr>
-<tr>
-<td align="right">30</td>
-<td><img src="https://github.com/coldfumonkeh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/coldfumonkeh/oauth2"><b>coldfumonkeh/oauth2</b></a></td>
-<td align="right"><b>105</b></td>
-<td align="right">163</td>
-<td>ColdFusion</td>
-</tr>
-<tr>
-<td align="right">31</td>
-<td><img src="https://github.com/mdevaev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mdevaev/emonoda"><b>mdevaev/emonoda</b></a></td>
-<td align="right"><b>97</b></td>
-<td align="right">14</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">32</td>
-<td><img src="https://github.com/lonely-lockley.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lonely-lockley/archinsight"><b>lonely-lockley/archinsight</b></a></td>
-<td align="right"><b>91</b></td>
-<td align="right">7</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">33</td>
-<td><img src="https://github.com/amarao.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/amarao/sdled"><b>amarao/sdled</b></a></td>
-<td align="right"><b>67</b></td>
-<td align="right">22</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">34</td>
-<td><img src="https://github.com/dmitriimaksimovdevelop.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dmitriimaksimovdevelop/melisai"><b>dmitriimaksimovdevelop/melisai</b></a></td>
-<td align="right"><b>66</b></td>
-<td align="right">6</td>
+<td><img src="https://github.com/AdguardTeam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AdguardTeam/AdGuardDNS"><b>AdguardTeam/AdGuardDNS</b></a><br><sub>Public DNS resolver that protects you from ad trackers</sub></td>
+<td align="right"><b>970</b></td>
+<td align="right">83</td>
 <td>Go</td>
 </tr>
 <tr>
-<td align="right">35</td>
-<td><img src="https://github.com/NicosNicolaou16.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NicosNicolaou16/ImagePickerAndroid"><b>NicosNicolaou16/ImagePickerAndroid</b></a></td>
-<td align="right"><b>60</b></td>
-<td align="right">7</td>
-<td>Kotlin</td>
+<td align="right">28</td>
+<td><img src="https://github.com/protesilaos.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/protesilaos/modus-themes"><b>protesilaos/modus-themes</b></a><br><sub>Highly accessible themes for GNU Emacs, conforming with the highest standard for colour contrast between background and…</sub></td>
+<td align="right"><b>922</b></td>
+<td align="right">78</td>
+<td>Emacs Lisp</td>
 </tr>
 <tr>
-<td align="right">36</td>
-<td><img src="https://github.com/framp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/framp/zero-knowledge-node"><b>framp/zero-knowledge-node</b></a></td>
-<td align="right"><b>56</b></td>
-<td align="right">5</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">37</td>
-<td><img src="https://github.com/beytekindavut.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/beytekindavut/NASA-Space-Exploration"><b>beytekindavut/NASA-Space-Exploration</b></a></td>
-<td align="right"><b>51</b></td>
-<td align="right">4</td>
-<td>CSS</td>
-</tr>
-<tr>
-<td align="right">38</td>
-<td><img src="https://github.com/Streamatico.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Streamatico/PolymarketViewer"><b>Streamatico/PolymarketViewer</b></a></td>
-<td align="right"><b>50</b></td>
-<td align="right">6</td>
-<td>Kotlin</td>
-</tr>
-<tr>
-<td align="right">39</td>
-<td><img src="https://github.com/YegorStolyarov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/YegorStolyarov/bevy_noise_map"><b>YegorStolyarov/bevy&#95;noise&#95;map</b></a></td>
-<td align="right"><b>49</b></td>
-<td align="right">2</td>
-<td>Rust</td>
-</tr>
-<tr>
-<td align="right">40</td>
-<td><img src="https://github.com/kourouklides.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kourouklides/artificial_neural_networks"><b>kourouklides/artificial&#95;neural&#95;networks</b></a></td>
-<td align="right"><b>41</b></td>
-<td align="right">9</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">41</td>
-<td><img src="https://github.com/ScriptHUBofficial.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ScriptHUBofficial/scriptbullet"><b>ScriptHUBofficial/scriptbullet</b></a></td>
-<td align="right"><b>39</b></td>
-<td align="right">14</td>
+<td align="right">29</td>
+<td><img src="https://github.com/AdguardTeam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AdguardTeam/AdguardForWindows"><b>AdguardTeam/AdguardForWindows</b></a><br><sub>AdGuard for Windows open bug tracker</sub></td>
+<td align="right"><b>911</b></td>
+<td align="right">85</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">42</td>
-<td><img src="https://github.com/KaterinaPetrova.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KaterinaPetrova/kmm-ktor-sample"><b>KaterinaPetrova/kmm-ktor-sample</b></a></td>
-<td align="right"><b>39</b></td>
-<td align="right">12</td>
-<td>Kotlin</td>
-</tr>
-<tr>
-<td align="right">43</td>
-<td><img src="https://github.com/afonja14755.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/afonja14755/ux-select"><b>afonja14755/ux-select</b></a></td>
-<td align="right"><b>36</b></td>
-<td align="right">0</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">44</td>
-<td><img src="https://github.com/Sanaebadi97.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Sanaebadi97/Tour-Flutter-App"><b>Sanaebadi97/Tour-Flutter-App</b></a></td>
-<td align="right"><b>33</b></td>
-<td align="right">12</td>
-<td>Dart</td>
-</tr>
-<tr>
-<td align="right">45</td>
-<td><img src="https://github.com/Luminate-OS.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Luminate-OS/.github"><b>Luminate-OS/.github</b></a></td>
-<td align="right"><b>33</b></td>
-<td align="right">1</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">46</td>
+<td align="right">30</td>
 <td><img src="https://github.com/spacecodewor.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spacecodewor/fmpcloud-go"><b>spacecodewor/fmpcloud-go</b></a></td>
 <td align="right"><b>30</b></td>
 <td align="right">15</td>
@@ -353,9 +241,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 30 stars; 46 attributed candidates are tracked.
-- 22 entries were carried over from the previous dataset and are pending revalidation.
-- 127 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 30 stars; 30 attributed candidates are tracked.
+- 1 entries were carried over from the previous dataset and are pending revalidation.
+- 117 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 105 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

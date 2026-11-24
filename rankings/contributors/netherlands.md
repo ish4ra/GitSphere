@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/NL.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/NL.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,24 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/egonw"><img src="https://avatars.githubusercontent.com/u/26721?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/egonw"><b>Egon Willighagen</b></a><br><sub>&#64;egonw · 329 followers</sub></td>
+<td align="right"><b>3,370</b></td>
+<td align="right">2,872</td>
+<td align="right">201</td>
+<td align="right">31</td>
+<td align="right">213</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/ForNeVeR"><img src="https://avatars.githubusercontent.com/u/92793?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ForNeVeR"><b>Friedrich von Never</b></a><br><sub>&#64;ForNeVeR · 696 followers</sub></td>
+<td align="right"><b>3,112</b></td>
+<td align="right">1,843</td>
+<td align="right">497</td>
+<td align="right">599</td>
+<td align="right">156</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/urish"><img src="https://avatars.githubusercontent.com/u/892318?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/urish"><b>Uri Shaked</b></a><br><sub>&#64;urish · 1,474 followers</sub></td>
 <td align="right"><b>2,096</b></td>
 <td align="right">2,020</td>
@@ -51,7 +69,7 @@
 <td align="right">24</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">6</td>
 <td><a href="https://github.com/raboof"><img src="https://avatars.githubusercontent.com/u/131856?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/raboof"><b>Arnout Engelen</b></a><br><sub>&#64;raboof · 474 followers</sub></td>
 <td align="right"><b>1,985</b></td>
 <td align="right">604</td>
@@ -60,7 +78,7 @@
 <td align="right">174</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">7</td>
 <td><a href="https://github.com/ErikSchierboom"><img src="https://avatars.githubusercontent.com/u/135246?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ErikSchierboom"><b>Erik Schierboom</b></a><br><sub>&#64;ErikSchierboom · 602 followers</sub></td>
 <td align="right"><b>1,424</b></td>
 <td align="right">1,092</td>
@@ -75,10 +93,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 5 of 831 discovered developers (826 awaiting measurement).
+- **Measured:** 7 of 978 discovered developers (971 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 155 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

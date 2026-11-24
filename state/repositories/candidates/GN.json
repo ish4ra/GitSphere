@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"GN","name":"Guinea","slug":"guinea"},
-"count": 150,
+"count": 148,
 "repositories": [
-  {"name":"sitatec/Taluxi-Open-Source","stars":98,"forks":49,"language":"Dart","license":"GPL-3.0","archived":false,"createdAt":"2021-04-02T14:18:38Z","pushedAt":"2024-06-16T20:10:00Z","owner":{"login":"sitatec","type":"User","name":"Sita Bérété","location":"Conakry, Guinea"},"attribution":{"code":"GN","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T13:37:17.837Z","id":"legacy:sitatec/taluxi-open-source","legacy":true},
-  {"name":"sudomarc/NETWATCH","stars":39,"forks":3,"language":"Shell","license":"MIT","archived":false,"createdAt":"2026-05-24T17:57:40Z","pushedAt":"2026-09-10T01:20:28Z","owner":{"login":"sudomarc","type":"User","name":"marco_","location":"Conakry, Guinea"},"attribution":{"code":"GN","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T13:37:17.837Z","id":"legacy:sudomarc/netwatch","legacy":true},
   {"name":"camara94/ms-power-bi","stars":26,"forks":3,"archived":false,"createdAt":"2021-10-15T14:36:53Z","pushedAt":"2021-10-16T21:48:28Z","owner":{"login":"camara94","type":"User","name":"Laby Damaro CAMARA","location":"Conakry, Guinée"},"attribution":{"code":"GN","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T13:37:17.837Z","id":"legacy:camara94/ms-power-bi","legacy":true},
   {"name":"evanxg852000/simpledb-go","stars":22,"forks":1,"language":"Go","archived":false,"createdAt":"2024-06-27T13:51:50Z","pushedAt":"2024-06-27T16:13:19Z","owner":{"login":"evanxg852000","type":"User","name":"Evance Soumaoro","location":"Conakry - Guinea"},"attribution":{"code":"GN","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T13:37:17.837Z","id":"legacy:evanxg852000/simpledb-go","legacy":true},
   {"name":"hadpro24/django-forms-fieldset","stars":12,"forks":6,"language":"CSS","license":"MIT","archived":false,"createdAt":"2021-04-27T17:45:40Z","pushedAt":"2022-07-19T13:28:45Z","owner":{"login":"hadpro24","type":"User","name":"Harouna Diallo","location":"Guinée, Conakry, GN"},"attribution":{"code":"GN","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T13:37:17.837Z","id":"legacy:hadpro24/django-forms-fieldset","legacy":true},

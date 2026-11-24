@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **54** | 17 Oct 2026 | <a href="../data/MY.json">JSON</a> |
+| 🟠 Stale | **43** | 02 Nov 2026 | <a href="../data/MY.json">JSON</a> |
 
-> **Not yet re-verified.** 31 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 16 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -186,216 +186,139 @@
 </tr>
 <tr>
 <td align="right">24</td>
-<td><img src="https://github.com/bluwy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bluwy/vite-plugin-qrcode"><b>bluwy/vite-plugin-qrcode</b></a></td>
-<td align="right"><b>217</b></td>
-<td align="right">7</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/jefferyleo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jefferyleo/f.lux"><b>jefferyleo/f.lux</b></a><br><sub>flux for iOS</sub></td>
+<td align="right"><b>1,080</b></td>
+<td align="right">182</td>
+<td>Objective-C</td>
 </tr>
 <tr>
 <td align="right">25</td>
-<td><img src="https://github.com/bluwy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bluwy/vite-plugin-warmup"><b>bluwy/vite-plugin-warmup</b></a></td>
-<td align="right"><b>216</b></td>
-<td align="right">4</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/drshahizan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/drshahizan/learn-github"><b>drshahizan/learn-github</b></a><br><sub>A step-by-step guide to getting started with Git and GitHub for beginners.</sub></td>
+<td align="right"><b>1,049</b></td>
+<td align="right">693</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">26</td>
-<td><img src="https://github.com/lamarios.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lamarios/monopoly"><b>lamarios/monopoly</b></a></td>
-<td align="right"><b>211</b></td>
-<td align="right">41</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/RavinRau.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RavinRau/Ebooks"><b>RavinRau/Ebooks</b></a><br><sub>A carefully curated collection of life-changing books focused on web technologies, cloud computing, business growth, an…</sub></td>
+<td align="right"><b>1,034</b></td>
+<td align="right">364</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">27</td>
-<td><img src="https://github.com/JasonKhew96.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JasonKhew96/biliroaming-go-server"><b>JasonKhew96/biliroaming-go-server</b></a> <sub>archived</sub></td>
-<td align="right"><b>208</b></td>
-<td align="right">58</td>
-<td>Go</td>
+<td><img src="https://github.com/MoH-Malaysia.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MoH-Malaysia/covid19-public"><b>MoH-Malaysia/covid19-public</b></a><br><sub>Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera.</sub></td>
+<td align="right"><b>972</b></td>
+<td align="right">640</td>
+<td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">28</td>
-<td><img src="https://github.com/limxuan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/limxuan/discord.js-tutorials"><b>limxuan/discord.js-tutorials</b></a></td>
-<td align="right"><b>201</b></td>
-<td align="right">371</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">29</td>
-<td><img src="https://github.com/dennislamcv1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dennislamcv1/IBMFULLSTACK"><b>dennislamcv1/IBMFULLSTACK</b></a></td>
-<td align="right"><b>177</b></td>
-<td align="right">185</td>
-<td>Jupyter Notebook</td>
-</tr>
-<tr>
-<td align="right">30</td>
-<td><img src="https://github.com/iChun.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/iChun/Morph"><b>iChun/Morph</b></a></td>
-<td align="right"><b>161</b></td>
-<td align="right">187</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">31</td>
-<td><img src="https://github.com/data-gov-my.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/data-gov-my/datagovmy-front"><b>data-gov-my/datagovmy-front</b></a></td>
-<td align="right"><b>155</b></td>
-<td align="right">27</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">32</td>
-<td><img src="https://github.com/yennhi95zz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yennhi95zz/machine-learning-cheatsheets"><b>yennhi95zz/machine-learning-cheatsheets</b></a></td>
-<td align="right"><b>73</b></td>
-<td align="right">10</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">33</td>
-<td><img src="https://github.com/farhan-helmy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/farhan-helmy/carisurau"><b>farhan-helmy/carisurau</b></a></td>
-<td align="right"><b>68</b></td>
-<td align="right">36</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">34</td>
-<td><img src="https://github.com/honglov3.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/honglov3/NUC8I7BEH"><b>honglov3/NUC8I7BEH</b></a></td>
-<td align="right"><b>57</b></td>
-<td align="right">11</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">35</td>
-<td><img src="https://github.com/m-s-abeer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/m-s-abeer/vjudge-to-oj"><b>m-s-abeer/vjudge-to-oj</b></a></td>
-<td align="right"><b>57</b></td>
-<td align="right">10</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">36</td>
-<td><img src="https://github.com/dnth.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dnth/yolov5-deepsparse-blogpost"><b>dnth/yolov5-deepsparse-blogpost</b></a></td>
-<td align="right"><b>56</b></td>
-<td align="right">12</td>
-<td>Jupyter Notebook</td>
-</tr>
-<tr>
-<td align="right">37</td>
-<td><img src="https://github.com/dosm-malaysia.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dosm-malaysia/opendosm-front"><b>dosm-malaysia/opendosm-front</b></a></td>
-<td align="right"><b>49</b></td>
-<td align="right">9</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">38</td>
-<td><img src="https://github.com/kidino.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kidino/ith"><b>kidino/ith</b></a></td>
-<td align="right"><b>38</b></td>
-<td align="right">11</td>
-<td>PHP</td>
-</tr>
-<tr>
-<td align="right">39</td>
 <td><img src="https://github.com/zulhfreelancer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zulhfreelancer/aws-codepipeline-action"><b>zulhfreelancer/aws-codepipeline-action</b></a></td>
 <td align="right"><b>23</b></td>
 <td align="right">13</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">40</td>
+<td align="right">29</td>
 <td><img src="https://github.com/Shamim-Al-Mamun.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Shamim-Al-Mamun/Modern-Portfolio-NextJS-Framer-Motion"><b>Shamim-Al-Mamun/Modern-Portfolio-NextJS-Framer-Motion</b></a></td>
 <td align="right"><b>23</b></td>
 <td align="right">4</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">41</td>
+<td align="right">30</td>
 <td><img src="https://github.com/zhamri.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zhamri/MyClass-STIW3054"><b>zhamri/MyClass-STIW3054</b></a></td>
 <td align="right"><b>22</b></td>
 <td align="right">19</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">42</td>
+<td align="right">31</td>
 <td><img src="https://github.com/glx-technologies.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/glx-technologies/meter-dlt645"><b>glx-technologies/meter-dlt645</b></a></td>
 <td align="right"><b>22</b></td>
 <td align="right">14</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">43</td>
+<td align="right">32</td>
 <td><img src="https://github.com/barzin144.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/barzin144/FlappyBird"><b>barzin144/FlappyBird</b></a></td>
 <td align="right"><b>17</b></td>
 <td align="right">7</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">44</td>
+<td align="right">33</td>
 <td><img src="https://github.com/aditiapratama.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aditiapratama/cycles-octane-converter"><b>aditiapratama/cycles-octane-converter</b></a></td>
 <td align="right"><b>14</b></td>
 <td align="right">4</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">45</td>
+<td align="right">34</td>
 <td><img src="https://github.com/shuvonsec.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shuvonsec/bug-bounty-report-generator"><b>shuvonsec/bug-bounty-report-generator</b></a></td>
 <td align="right"><b>12</b></td>
 <td align="right">6</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">46</td>
+<td align="right">35</td>
 <td><img src="https://github.com/emomeni.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/emomeni/pyATS_add_vlan"><b>emomeni/pyATS&#95;add&#95;vlan</b></a></td>
 <td align="right"><b>12</b></td>
 <td align="right">2</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">47</td>
+<td align="right">36</td>
 <td><img src="https://github.com/jipsterious.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jipsterious/jipsterious_help"><b>jipsterious/jipsterious&#95;help</b></a></td>
 <td align="right"><b>11</b></td>
 <td align="right">3</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">48</td>
+<td align="right">37</td>
 <td><img src="https://github.com/syarief02.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/syarief02/EA_Budak_Ubat"><b>syarief02/EA&#95;Budak&#95;Ubat</b></a></td>
 <td align="right"><b>10</b></td>
 <td align="right">1</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">49</td>
+<td align="right">38</td>
 <td><img src="https://github.com/ahmadhanis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ahmadhanis/FlutterA192"><b>ahmadhanis/FlutterA192</b></a></td>
 <td align="right"><b>9</b></td>
 <td align="right">8</td>
 <td>Dart</td>
 </tr>
 <tr>
-<td align="right">50</td>
+<td align="right">39</td>
 <td><img src="https://github.com/amirahnasihah.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/amirahnasihah/frontend-development"><b>amirahnasihah/frontend-development</b></a></td>
 <td align="right"><b>8</b></td>
 <td align="right">0</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">51</td>
+<td align="right">40</td>
 <td><img src="https://github.com/JMan7777.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JMan7777/Mitsubishi-Aircon-SmartThings"><b>JMan7777/Mitsubishi-Aircon-SmartThings</b></a></td>
 <td align="right"><b>8</b></td>
 <td align="right">0</td>
 <td>C++</td>
 </tr>
 <tr>
-<td align="right">52</td>
+<td align="right">41</td>
 <td><img src="https://github.com/datomnurdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/datomnurdin/larablog"><b>datomnurdin/larablog</b></a></td>
 <td align="right"><b>7</b></td>
 <td align="right">6</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">53</td>
+<td align="right">42</td>
 <td><img src="https://github.com/mohdsubhi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mohdsubhi/myFood11"><b>mohdsubhi/myFood11</b></a></td>
 <td align="right"><b>6</b></td>
 <td align="right">3</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">54</td>
+<td align="right">43</td>
 <td><img src="https://github.com/crynobone.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/crynobone/mailtracker"><b>crynobone/mailtracker</b></a></td>
 <td align="right"><b>6</b></td>
 <td align="right">1</td>
@@ -409,9 +332,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 6 stars; 54 attributed candidates are tracked.
-- 31 entries were carried over from the previous dataset and are pending revalidation.
-- 135 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 6 stars; 43 attributed candidates are tracked.
+- 16 entries were carried over from the previous dataset and are pending revalidation.
+- 128 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 155 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

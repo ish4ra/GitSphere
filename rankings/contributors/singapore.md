@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/SG.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/SG.json">JSON</a> |
 
 </div>
 
@@ -61,9 +61,27 @@
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/u1i"><img src="https://avatars.githubusercontent.com/u/27874591?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/u1i"><b>Uli</b></a><br><sub>&#64;u1i · 340 followers</sub></td>
+<td align="right"><b>209</b></td>
+<td align="right">181</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/QC-L"><img src="https://avatars.githubusercontent.com/u/13861040?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/QC-L"><b>QiChang Li</b></a><br><sub>&#64;QC-L · 564 followers</sub></td>
 <td align="right"><b>13</b></td>
 <td align="right">12</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/vdt"><img src="https://avatars.githubusercontent.com/u/1792491?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vdt"><b>Vikram Dutt</b></a><br><sub>&#64;vdt · 320 followers</sub></td>
+<td align="right"><b>3</b></td>
+<td align="right">1</td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
@@ -75,10 +93,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 5 of 673 discovered developers (668 awaiting measurement).
+- **Measured:** 7 of 741 discovered developers (734 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 109 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

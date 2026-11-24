@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **87** | 03 Nov 2026 | <a href="../data/RO.json">JSON</a> |
+| 🟠 Stale | **97** | 03 Nov 2026 | <a href="../data/RO.json">JSON</a> |
 
-> **Not yet re-verified.** 21 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 10 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -487,146 +487,216 @@
 </tr>
 <tr>
 <td align="right">67</td>
-<td><img src="https://github.com/catalinpit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/catalinpit/JS-Tips-And-Tricks"><b>catalinpit/JS-Tips-And-Tricks</b></a></td>
-<td align="right"><b>183</b></td>
-<td align="right">18</td>
-<td>—</td>
+<td><img src="https://github.com/cretueusebiu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cretueusebiu/laravel-nuxt"><b>cretueusebiu/laravel-nuxt</b></a><br><sub>A Laravel-Nuxt starter kit.</sub></td>
+<td align="right"><b>1,142</b></td>
+<td align="right">248</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">68</td>
-<td><img src="https://github.com/aromanro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aromanro/RayTracer"><b>aromanro/RayTracer</b></a></td>
-<td align="right"><b>139</b></td>
-<td align="right">18</td>
-<td>C++</td>
+<td><img src="https://github.com/renoki-co.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/renoki-co/laravel-eloquent-query-cache"><b>renoki-co/laravel-eloquent-query-cache</b></a><br><sub>Adding cache on your Laravel Eloquent queries&#39; results is now a breeze.</sub></td>
+<td align="right"><b>1,120</b></td>
+<td align="right">139</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">69</td>
-<td><img src="https://github.com/Whapi-Cloud.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Whapi-Cloud/python-whatsapp-chatbot"><b>Whapi-Cloud/python-whatsapp-chatbot</b></a></td>
-<td align="right"><b>79</b></td>
-<td align="right">22</td>
-<td>Python</td>
+<td><img src="https://github.com/BinarCode.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/BinarCode/vue-form-wizard"><b>BinarCode/vue-form-wizard</b></a> <sub>archived</sub><br><sub>Vue.js 2 wizard</sub></td>
+<td align="right"><b>1,097</b></td>
+<td align="right">230</td>
+<td>Vue</td>
 </tr>
 <tr>
 <td align="right">70</td>
-<td><img src="https://github.com/TibixDev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TibixDev/sai2-guide"><b>TibixDev/sai2-guide</b></a></td>
-<td align="right"><b>78</b></td>
-<td align="right">3</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">71</td>
-<td><img src="https://github.com/MAJigsaw77.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MAJigsaw77/hxvlc"><b>MAJigsaw77/hxvlc</b></a></td>
-<td align="right"><b>73</b></td>
-<td align="right">28</td>
+<td><img src="https://github.com/bitdefender.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bitdefender/bddisasm"><b>bitdefender/bddisasm</b></a><br><sub>bddisasm is a fast, lightweight, x86/x64 instruction decoder. The project also features a fast, basic, x86/x64 instruct…</sub></td>
+<td align="right"><b>1,093</b></td>
+<td align="right">123</td>
 <td>C</td>
 </tr>
 <tr>
+<td align="right">71</td>
+<td><img src="https://github.com/bitpoke.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bitpoke/mysql-operator"><b>bitpoke/mysql-operator</b></a><br><sub>Asynchronous MySQL Replication on Kubernetes using Percona Server and Openark&#39;s Orchestrator.</sub></td>
+<td align="right"><b>1,091</b></td>
+<td align="right">273</td>
+<td>Go</td>
+</tr>
+<tr>
 <td align="right">72</td>
-<td><img src="https://github.com/cojocaru-david.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cojocaru-david/cojocarudavid.me"><b>cojocaru-david/cojocarudavid.me</b></a></td>
-<td align="right"><b>73</b></td>
-<td align="right">19</td>
-<td>Astro</td>
+<td><img src="https://github.com/laravel-enso.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/laravel-enso/enso"><b>laravel-enso/enso</b></a><br><sub>Laravel Vue SPA, Bulma themed. For demo login use &#96;admin&#64;laravel-enso.com&#96; &amp; &#96;password&#96; -</sub></td>
+<td align="right"><b>1,091</b></td>
+<td align="right">273</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">73</td>
-<td><img src="https://github.com/victorrentea.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/victorrentea/intellij-tips"><b>victorrentea/intellij-tips</b></a></td>
-<td align="right"><b>62</b></td>
-<td align="right">19</td>
-<td>Java</td>
+<td><img src="https://github.com/valinet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/valinet/Win11DisableRoundedCorners"><b>valinet/Win11DisableRoundedCorners</b></a><br><sub>A simple utility that cold patches dwm (uDWM.dll) in order to disable window rounded corners in Windows 11</sub></td>
+<td align="right"><b>1,061</b></td>
+<td align="right">46</td>
+<td>C</td>
 </tr>
 <tr>
 <td align="right">74</td>
-<td><img src="https://github.com/Gagniuc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Gagniuc/Malware-Scanner"><b>Gagniuc/Malware-Scanner</b></a></td>
-<td align="right"><b>53</b></td>
-<td align="right">0</td>
-<td>Python</td>
+<td><img src="https://github.com/carcabot.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/carcabot/tiktok-signature"><b>carcabot/tiktok-signature</b></a><br><sub>Generate tiktok signature token using node</sub></td>
+<td align="right"><b>1,056</b></td>
+<td align="right">345</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">75</td>
-<td><img src="https://github.com/code4romania.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/code4romania/covid-19-date-la-zi"><b>code4romania/covid-19-date-la-zi</b></a></td>
-<td align="right"><b>40</b></td>
-<td align="right">25</td>
+<td><img src="https://github.com/ovidiuch.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ovidiuch/dragdealer"><b>ovidiuch/dragdealer</b></a><br><sub>Drag-based vanilla JS component</sub></td>
+<td align="right"><b>1,041</b></td>
+<td align="right">149</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">76</td>
-<td><img src="https://github.com/eddyb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eddyb/sobek"><b>eddyb/sobek</b></a></td>
-<td align="right"><b>36</b></td>
-<td align="right">2</td>
-<td>Rust</td>
+<td><img src="https://github.com/adrg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrg/xdg"><b>adrg/xdg</b></a><br><sub>Go implementation of the XDG Base Directory Specification and XDG user directories</sub></td>
+<td align="right"><b>1,030</b></td>
+<td align="right">42</td>
+<td>Go</td>
 </tr>
 <tr>
 <td align="right">77</td>
-<td><img src="https://github.com/Silviu-Marian.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Silviu-Marian/reedux"><b>Silviu-Marian/reedux</b></a></td>
-<td align="right"><b>33</b></td>
-<td align="right">1</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/DavidHDev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DavidHDev/haiku"><b>DavidHDev/haiku</b></a><br><sub>A clean &amp; lightweight collection of React Hooks &amp; Utilities!</sub></td>
+<td align="right"><b>1,010</b></td>
+<td align="right">114</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">78</td>
+<td><img src="https://github.com/ovexro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ovexro/dockpanel"><b>ovexro/dockpanel</b></a><br><sub>Modern server management panel built with Rust and React. Sites, databases, Docker apps, Git deploy, mail, DNS, monitor…</sub></td>
+<td align="right"><b>1,003</b></td>
+<td align="right">158</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/robertnisipeanu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/robertnisipeanu/mgu-store"><b>robertnisipeanu/mgu-store</b></a><br><sub>App store for BMW iDrive 7 / iDrive 8 head units: install and update apps from GitHub repos, URLs and USB sticks</sub></td>
+<td align="right"><b>985</b></td>
+<td align="right">133</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/Bogdanp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Bogdanp/molten"><b>Bogdanp/molten</b></a> <sub>archived</sub><br><sub>A minimal, extensible, fast and productive framework for building HTTP APIs with Python 3.6 and later.</sub></td>
+<td align="right"><b>973</b></td>
+<td align="right">31</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/ovidiuch.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ovidiuch/jobs-done"><b>ovidiuch/jobs-done</b></a> <sub>archived</sub><br><sub>Ritual app for ending the work day inspired by Deep Work</sub></td>
+<td align="right"><b>948</b></td>
+<td align="right">46</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/FuzzyIdeas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FuzzyIdeas/Cling"><b>FuzzyIdeas/Cling</b></a><br><sub>Instant fuzzy find any file on macOS</sub></td>
+<td align="right"><b>943</b></td>
+<td align="right">40</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><img src="https://github.com/icebreaker.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/icebreaker/floppybird"><b>icebreaker/floppybird</b></a><br><sub>Floppy Bird (OS)</sub></td>
+<td align="right"><b>935</b></td>
+<td align="right">62</td>
+<td>Assembly</td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><img src="https://github.com/xpirt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xpirt/sdat2img"><b>xpirt/sdat2img</b></a><br><sub>Convert sparse Android data image to filesystem ext4 image</sub></td>
+<td align="right"><b>932</b></td>
+<td align="right">378</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">85</td>
+<td><img src="https://github.com/mariusbancila.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mariusbancila/stduuid"><b>mariusbancila/stduuid</b></a><br><sub>A C++17 cross-platform implementation for UUIDs</sub></td>
+<td align="right"><b>928</b></td>
+<td align="right">132</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/glorand.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/glorand/laravel-model-settings"><b>glorand/laravel-model-settings</b></a><br><sub>Model Settings for your Laravel app</sub></td>
+<td align="right"><b>926</b></td>
+<td align="right">60</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><img src="https://github.com/cosdensolutions.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cosdensolutions/code"><b>cosdensolutions/code</b></a><br><sub>Source code for all Cosden Solutions videos</sub></td>
+<td align="right"><b>914</b></td>
+<td align="right">440</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">88</td>
 <td><img src="https://github.com/0-vortex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0-vortex/cf-workers-url-shortener"><b>0-vortex/cf-workers-url-shortener</b></a></td>
 <td align="right"><b>29</b></td>
 <td align="right">11</td>
 <td>Handlebars</td>
 </tr>
 <tr>
-<td align="right">79</td>
+<td align="right">89</td>
 <td><img src="https://github.com/vladfrangu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vladfrangu/SimplyStats"><b>vladfrangu/SimplyStats</b></a></td>
 <td align="right"><b>28</b></td>
 <td align="right">2</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">80</td>
+<td align="right">90</td>
 <td><img src="https://github.com/0xcryptosei.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0xcryptosei/robinhood-pons-sniping-bot"><b>0xcryptosei/robinhood-pons-sniping-bot</b></a></td>
 <td align="right"><b>22</b></td>
 <td align="right">3</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">81</td>
+<td align="right">91</td>
 <td><img src="https://github.com/Alexejhero.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Alexejhero/Neurosama-Subnautica-Mod"><b>Alexejhero/Neurosama-Subnautica-Mod</b></a> <sub>archived</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">9</td>
 <td>C#</td>
 </tr>
 <tr>
-<td align="right">82</td>
+<td align="right">92</td>
 <td><img src="https://github.com/TOPDEV99999.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TOPDEV99999/AI-codepilot"><b>TOPDEV99999/AI-codepilot</b></a></td>
 <td align="right"><b>19</b></td>
 <td align="right">2</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">83</td>
+<td align="right">93</td>
 <td><img src="https://github.com/ltorje.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ltorje/XamarinWrapper"><b>ltorje/XamarinWrapper</b></a></td>
 <td align="right"><b>18</b></td>
 <td align="right">0</td>
 <td>Objective-C</td>
 </tr>
 <tr>
-<td align="right">84</td>
+<td align="right">94</td>
 <td><img src="https://github.com/razvand.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/razvand/snippets"><b>razvand/snippets</b></a></td>
 <td align="right"><b>17</b></td>
 <td align="right">3</td>
 <td>C</td>
 </tr>
 <tr>
-<td align="right">85</td>
+<td align="right">95</td>
 <td><img src="https://github.com/alexlobaza.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexlobaza/TikTokStreamingToolkit"><b>alexlobaza/TikTokStreamingToolkit</b></a></td>
 <td align="right"><b>13</b></td>
 <td align="right">2</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">86</td>
+<td align="right">96</td>
 <td><img src="https://github.com/besciualex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/besciualex/FacebookPixelConversionApi"><b>besciualex/FacebookPixelConversionApi</b></a></td>
 <td align="right"><b>12</b></td>
 <td align="right">3</td>
 <td>PHP</td>
 </tr>
 <tr>
-<td align="right">87</td>
+<td align="right">97</td>
 <td><img src="https://github.com/lazarnarcis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lazarnarcis/chat"><b>lazarnarcis/chat</b></a></td>
 <td align="right"><b>11</b></td>
 <td align="right">1</td>
@@ -640,10 +710,10 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 11 stars; 87 attributed candidates are tracked.
-- 21 entries were carried over from the previous dataset and are pending revalidation.
-- 124 multi-repository owners are queued for expansion.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Cutoff:** the last listed repository has 11 stars; 97 attributed candidates are tracked.
+- 10 entries were carried over from the previous dataset and are pending revalidation.
+- 122 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 154 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

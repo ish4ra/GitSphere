@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **40** | 22 Nov 2026 | <a href="../../data/developers/NP.json">JSON</a> |
+| 🟡 Provisional | **52** | 22 Nov 2026 | <a href="../../data/developers/NP.json">JSON</a> |
 
 </div>
 
@@ -38,7 +38,7 @@
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/jrohitofficial"><img src="https://avatars.githubusercontent.com/u/84499372?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jrohitofficial"><b>Rohit Jha</b></a><br><sub>&#64;jrohitofficial</sub></td>
-<td align="right"><b>12,408</b></td>
+<td align="right"><b>12,407</b></td>
 <td align="right">130</td>
 <td><sub>Kathmandu, Nepal</sub></td>
 </tr>
@@ -143,7 +143,7 @@
 <tr>
 <td align="right">18</td>
 <td><a href="https://github.com/HeyIamMarasiniAmrit"><img src="https://avatars.githubusercontent.com/u/101445427?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HeyIamMarasiniAmrit"><b>Amrit Marasini</b></a><br><sub>&#64;HeyIamMarasiniAmrit</sub></td>
-<td align="right"><b>839</b></td>
+<td align="right"><b>838</b></td>
 <td align="right">131</td>
 <td><sub>Kathmandu, Nepal</sub></td>
 </tr>
@@ -261,45 +261,129 @@
 </tr>
 <tr>
 <td align="right">35</td>
+<td><a href="https://github.com/kcey-swikriti"><img src="https://avatars.githubusercontent.com/u/58209841?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kcey-swikriti"><b>Swikriti K.C.</b></a><br><sub>&#64;kcey-swikriti</sub></td>
+<td align="right"><b>342</b></td>
+<td align="right">9</td>
+<td><sub>Kathmandu, Nepal</sub></td>
+</tr>
+<tr>
+<td align="right">36</td>
+<td><a href="https://github.com/Prajwal100"><img src="https://avatars.githubusercontent.com/u/29488275?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Prajwal100"><b>Prajwal Rai</b></a><br><sub>&#64;Prajwal100</sub></td>
+<td align="right"><b>339</b></td>
+<td align="right">28</td>
+<td><sub>Kathmandu, Nepal</sub></td>
+</tr>
+<tr>
+<td align="right">37</td>
+<td><a href="https://github.com/springmusk026"><img src="https://avatars.githubusercontent.com/u/85071855?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/springmusk026"><b>Basanta</b></a><br><sub>&#64;springmusk026</sub></td>
+<td align="right"><b>334</b></td>
+<td align="right">72</td>
+<td><sub>Nepal</sub></td>
+</tr>
+<tr>
+<td align="right">38</td>
+<td><a href="https://github.com/abinash019"><img src="https://avatars.githubusercontent.com/u/158123130?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abinash019"><b>abinash019</b></a><br><sub>&#64;abinash019</sub></td>
+<td align="right"><b>332</b></td>
+<td align="right">27</td>
+<td><sub>Kathmandhu, Nepal</sub></td>
+</tr>
+<tr>
+<td align="right">39</td>
+<td><a href="https://github.com/l3lackcurtains"><img src="https://avatars.githubusercontent.com/u/9688803?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/l3lackcurtains"><b>Madhav Poudel</b></a><br><sub>&#64;l3lackcurtains</sub></td>
+<td align="right"><b>305</b></td>
+<td align="right">112</td>
+<td><sub>🇳🇵 Altitude with attitude</sub></td>
+</tr>
+<tr>
+<td align="right">40</td>
+<td><a href="https://github.com/bimsina"><img src="https://avatars.githubusercontent.com/u/29589003?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bimsina"><b>Bibek Timsina</b></a><br><sub>&#64;bimsina</sub></td>
+<td align="right"><b>304</b></td>
+<td align="right">59</td>
+<td><sub>Kathmandu, Nepal</sub></td>
+</tr>
+<tr>
+<td align="right">41</td>
+<td><a href="https://github.com/KrishnaBishowkarma"><img src="https://avatars.githubusercontent.com/u/109271705?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KrishnaBishowkarma"><b>Krishna Bishowkarma</b></a><br><sub>&#64;KrishnaBishowkarma</sub></td>
+<td align="right"><b>297</b></td>
+<td align="right">34</td>
+<td><sub>Nepal</sub></td>
+</tr>
+<tr>
+<td align="right">42</td>
+<td><a href="https://github.com/Sanish73"><img src="https://avatars.githubusercontent.com/u/61194194?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sanish73"><b>Sanish Thapa</b></a><br><sub>&#64;Sanish73</sub></td>
+<td align="right"><b>288</b></td>
+<td align="right">30</td>
+<td><sub>KTM, Nepal</sub></td>
+</tr>
+<tr>
+<td align="right">43</td>
+<td><a href="https://github.com/swikars1"><img src="https://avatars.githubusercontent.com/u/20171676?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/swikars1"><b>Swikar Sharma</b></a><br><sub>&#64;swikars1</sub></td>
+<td align="right"><b>285</b></td>
+<td align="right">105</td>
+<td><sub>Narayangarh, Nepal</sub></td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><a href="https://github.com/ghimiresunil"><img src="https://avatars.githubusercontent.com/u/40186859?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ghimiresunil"><b>Sunil Ghimire</b></a><br><sub>&#64;ghimiresunil</sub></td>
+<td align="right"><b>271</b></td>
+<td align="right">0</td>
+<td><sub>Kathmandu, Nepal</sub></td>
+</tr>
+<tr>
+<td align="right">45</td>
 <td><a href="https://github.com/erluxman"><img src="https://avatars.githubusercontent.com/u/6260014?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/erluxman"><b>Laxman Bhattarai</b></a><br><sub>&#64;erluxman</sub></td>
 <td align="right"><b>266</b></td>
 <td align="right">0</td>
 <td><sub>Kathmandu Nepal</sub></td>
 </tr>
 <tr>
-<td align="right">36</td>
+<td align="right">46</td>
 <td><a href="https://github.com/casualsnek"><img src="https://avatars.githubusercontent.com/u/76276047?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/casualsnek"><b>Casu Al Snek</b></a><br><sub>&#64;casualsnek</sub></td>
 <td align="right"><b>223</b></td>
 <td align="right">0</td>
 <td><sub>Nepal</sub></td>
 </tr>
 <tr>
-<td align="right">37</td>
+<td align="right">47</td>
 <td><a href="https://github.com/Subash"><img src="https://avatars.githubusercontent.com/u/3478693?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Subash"><b>Subash Pathak</b></a><br><sub>&#64;Subash</sub></td>
 <td align="right"><b>207</b></td>
 <td align="right">0</td>
 <td><sub>Nepal</sub></td>
 </tr>
 <tr>
-<td align="right">38</td>
+<td align="right">48</td>
+<td><a href="https://github.com/QaidVoid"><img src="https://avatars.githubusercontent.com/u/12017109?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/QaidVoid"><b>Rabindra Dhakal</b></a><br><sub>&#64;QaidVoid</sub></td>
+<td align="right"><b>113</b></td>
+<td align="right">0</td>
+<td><sub>Nepal</sub></td>
+</tr>
+<tr>
+<td align="right">49</td>
 <td><a href="https://github.com/prajwalch"><img src="https://avatars.githubusercontent.com/u/42384293?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/prajwalch"><b>Prajwal Chapagain</b></a><br><sub>&#64;prajwalch</sub></td>
 <td align="right"><b>90</b></td>
 <td align="right">0</td>
 <td><sub>Damak, Jhapa, Nepal</sub></td>
 </tr>
 <tr>
-<td align="right">39</td>
+<td align="right">50</td>
 <td><a href="https://github.com/xandemon"><img src="https://avatars.githubusercontent.com/u/89733181?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xandemon"><b>Sandesh Katwal</b></a><br><sub>&#64;xandemon</sub></td>
 <td align="right"><b>64</b></td>
 <td align="right">0</td>
 <td><sub>Kathmandu, Nepal</sub></td>
 </tr>
 <tr>
-<td align="right">40</td>
+<td align="right">51</td>
 <td><a href="https://github.com/bishwaghimire"><img src="https://avatars.githubusercontent.com/u/251994533?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bishwaghimire"><b>Bishwa Ghimire</b></a><br><sub>&#64;bishwaghimire</sub></td>
 <td align="right"><b>40</b></td>
 <td align="right">0</td>
 <td><sub>Butwal, Nepal</sub></td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><a href="https://github.com/dondai1234"><img src="https://avatars.githubusercontent.com/u/220873966?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dondai1234"><b>Bishesh Bhandari</b></a><br><sub>&#64;dondai1234</sub></td>
+<td align="right"><b>14</b></td>
+<td align="right">0</td>
+<td><sub>Nepal</sub></td>
 </tr>
 </tbody>
 </table>
@@ -309,8 +393,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 40 attributed developers are tracked; the cutoff is 40 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 52 attributed developers are tracked; the cutoff is 14 followers.
+- **Location discovery:** term 0 of 69 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

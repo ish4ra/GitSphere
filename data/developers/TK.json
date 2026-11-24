@@ -8,17 +8,17 @@
 "coverage": {"basis":"partial","cutoffFollowers":0,"candidates":9,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjY3NDc2NDM=","login":"duboviy","name":"Eugene Duboviy","url":"https://github.com/duboviy","avatarUrl":"https://avatars.githubusercontent.com/u/6747643?s=80&v=4","followers":752,"publicRepos":47,"location":"Tokelau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"MDQ6VXNlcjYzNDE0NjQy","login":"DaczoDenes","name":null,"url":"https://github.com/DaczoDenes","avatarUrl":"https://avatars.githubusercontent.com/u/63414642?s=80&v=4","followers":2,"publicRepos":3,"location":"Tokelau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjYzNDE0NjQy","login":"DaczoDenes","name":null,"url":"https://github.com/DaczoDenes","avatarUrl":"https://avatars.githubusercontent.com/u/63414642?s=80&v=4","followers":2,"publicRepos":3,"location":"Tokelau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":3,"id":"U_kgDOCbnKWg","login":"awise-dorensbach","name":"awise-dorensbach","url":"https://github.com/awise-dorensbach","avatarUrl":"https://avatars.githubusercontent.com/u/163170906?s=80&v=4","followers":1,"publicRepos":1,"location":"Tokelau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":4,"id":"MDQ6VXNlcjUyMzEyNDcy","login":"cheguang","name":"guangche","url":"https://github.com/cheguang","avatarUrl":"https://avatars.githubusercontent.com/u/52312472?s=80&v=4","followers":0,"publicRepos":5,"location":"7439 ,Kling Track ,North Ken ,Alabama ,Tokelau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":5,"id":"U_kgDOCuPUEw","login":"dragonkekofmeister","name":null,"url":"https://github.com/dragonkekofmeister","avatarUrl":"https://avatars.githubusercontent.com/u/182703123?s=80&v=4","followers":0,"publicRepos":5,"location":"Tokelau (TK)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":6,"id":"U_kgDOCurZsg","login":"edingdeadasted","name":null,"url":"https://github.com/edingdeadasted","avatarUrl":"https://avatars.githubusercontent.com/u/183163314?s=80&v=4","followers":0,"publicRepos":4,"location":"Tokelau (TK)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
-  {"rank":7,"id":"U_kgDODe630w","login":"ruvverfmb","name":null,"url":"https://github.com/ruvverfmb","avatarUrl":"https://avatars.githubusercontent.com/u/233748435?s=80&v=4","followers":0,"publicRepos":4,"location":"Tokelau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":7,"id":"U_kgDODe630w","login":"ruvverfmb","name":null,"url":"https://github.com/ruvverfmb","avatarUrl":"https://avatars.githubusercontent.com/u/233748435?s=80&v=4","followers":0,"publicRepos":4,"location":"Tokelau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":8,"id":"U_kgDODTd_Eg","login":"ayratcpp","name":null,"url":"https://github.com/ayratcpp","avatarUrl":"https://avatars.githubusercontent.com/u/221740818?s=80&v=4","followers":0,"publicRepos":2,"location":"Токелау","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":9,"id":"U_kgDODSbvyQ","login":"Mou-tk","name":"Mou","url":"https://github.com/Mou-tk","avatarUrl":"https://avatars.githubusercontent.com/u/220655561?s=80&v=4","followers":0,"publicRepos":1,"location":"Tokelau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "78a8277b7647b640",
-"updatedAt": "2026-11-23T13:10:04.236Z",
+"contentHash": "798726456ac8a4e5",
+"updatedAt": "2026-11-24T01:31:49.018Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T13:10:04.236Z"
+"generatedAt": "2026-11-24T01:31:49.018Z"
 }

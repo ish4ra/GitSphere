@@ -5,7 +5,7 @@
 "country": {"code":"PL","name":"Poland","slug":"poland"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":3520,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":134,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":3520,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":134,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":170,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxMzgzOTMxMzk=","name":"the-book-of-secret-knowledge","nameWithOwner":"trimstray/the-book-of-secret-knowledge","url":"https://github.com/trimstray/the-book-of-secret-knowledge","description":"A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.","stars":260397,"forks":14931,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2018-06-23T10:43:14Z","pushedAt":"2024-11-19T14:00:38Z","archived":false,"owner":{"login":"trimstray","name":"Michał Ży","type":"User","url":"https://github.com/trimstray","location":"Poland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkxODkyODU1NTQ=","name":"stats","nameWithOwner":"exelban/stats","url":"https://github.com/exelban/stats","description":"macOS system monitor in your menu bar","stars":43565,"forks":1641,"primaryLanguage":"Swift","license":{"spdxId":"MIT"},"createdAt":"2019-05-29T19:24:56Z","pushedAt":"2026-11-21T17:04:56Z","archived":false,"owner":{"login":"exelban","name":"Serhiy Mytrovtsiy","type":"User","url":"https://github.com/exelban","location":"Warsaw, Poland","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"R_kgDONslZgg","name":"FlashSpace","nameWithOwner":"wojciech-kulik/FlashSpace","url":"https://github.com/wojciech-kulik/FlashSpace","description":"FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡","stars":3563,"forks":68,"primaryLanguage":"Swift","license":{"spdxId":"GPL-3.0"},"createdAt":"2025-01-19T21:25:42Z","pushedAt":"2026-10-26T15:14:25Z","archived":false,"owner":{"login":"wojciech-kulik","name":"Wojciech Kulik","type":"User","url":"https://github.com/wojciech-kulik","location":"Wrocław, Poland","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
   {"rank":100,"id":"MDEwOlJlcG9zaXRvcnkzMTMzMTI2ODc=","name":"Legcord","nameWithOwner":"Legcord/Legcord","url":"https://github.com/Legcord/Legcord","description":"Legcord is a custom client designed to enhance your Discord experience while keeping everything lightweight.","stars":3520,"forks":160,"primaryLanguage":"TypeScript","license":{"spdxId":"OSL-3.0"},"createdAt":"2020-11-16T13:33:38Z","pushedAt":"2026-11-10T05:40:23Z","archived":false,"owner":{"login":"Legcord","name":"Legcord","type":"Organization","url":"https://github.com/Legcord","location":"Poland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "eb8d812e0935f604",
-"updatedAt": "2026-11-22T22:28:05.466Z",
+"contentHash": "7d74b4557635c26e",
+"updatedAt": "2026-11-24T01:31:49.018Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T22:28:05.466Z"
+"generatedAt": "2026-11-24T01:31:49.018Z"
 }

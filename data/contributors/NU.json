@@ -5,12 +5,12 @@
 "country": {"code":"NU","name":"Niue","slug":"niue"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":9,"measuredAccounts":5,"measurementBacklog":4,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":15,"measuredAccounts":7,"measurementBacklog":8,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":20,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjkwNjEwNzk=","login":"Kasp42","name":"Vladislav Kasperov","url":"https://github.com/Kasp42","avatarUrl":"https://avatars.githubusercontent.com/u/9061079?s=80&v=4","followers":3,"publicRepos":20,"location":"Niue","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":128,"commits":112,"pullRequests":7,"reviews":4,"issues":0,"repositories":5,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjkwNjEwNzk=","login":"Kasp42","name":"Vladislav Kasperov","url":"https://github.com/Kasp42","avatarUrl":"https://avatars.githubusercontent.com/u/9061079?s=80&v=4","followers":3,"publicRepos":20,"location":"Niue","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":128,"commits":112,"pullRequests":7,"reviews":4,"issues":0,"repositories":5,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "36ae0029ae0a8afb",
-"updatedAt": "2026-11-23T13:10:04.236Z",
+"contentHash": "80bce3c2a3144219",
+"updatedAt": "2026-11-24T01:31:49.018Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T13:10:04.236Z"
+"generatedAt": "2026-11-24T01:31:49.018Z"
 }

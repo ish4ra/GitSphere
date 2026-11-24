@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **3** | 23 Nov 2026 | <a href="../../data/contributors/LR.json">JSON</a> |
+| 🟡 Provisional | **5** | 23 Nov 2026 | <a href="../../data/contributors/LR.json">JSON</a> |
 
 </div>
 
@@ -43,9 +43,27 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/boakaidorborkamara"><img src="https://avatars.githubusercontent.com/u/52508120?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/boakaidorborkamara"><b>Boakai Dorbor Kamara</b></a><br><sub>&#64;boakaidorborkamara · 25 followers</sub></td>
+<td align="right"><b>128</b></td>
+<td align="right">120</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/123chri"><img src="https://avatars.githubusercontent.com/u/130510186?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/123chri"><b>Christine Sweede</b></a><br><sub>&#64;123chri · 0 followers</sub></td>
 <td align="right"><b>21</b></td>
 <td align="right">19</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/mysterioux"><img src="https://avatars.githubusercontent.com/u/1122263?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mysterioux"><b>Christian Emenike</b></a><br><sub>&#64;mysterioux · 7 followers</sub></td>
+<td align="right"><b>15</b></td>
+<td align="right">12</td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
@@ -57,7 +75,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 6 of 515 discovered developers (509 awaiting measurement).
+- **Measured:** 8 of 515 discovered developers (507 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 42 in round 1.

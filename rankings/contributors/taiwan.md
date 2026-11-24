@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/TW.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/TW.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,24 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/appleboy"><img src="https://avatars.githubusercontent.com/u/21979?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/appleboy"><b>Bo-Yi Wu</b></a><br><sub>&#64;appleboy · 7,571 followers</sub></td>
+<td align="right"><b>3,687</b></td>
+<td align="right">2,865</td>
+<td align="right">671</td>
+<td align="right">136</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/PeterDaveHello"><img src="https://avatars.githubusercontent.com/u/3691490?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PeterDaveHello"><b>Peter Dave Hello</b></a><br><sub>&#64;PeterDaveHello · 1,894 followers</sub></td>
+<td align="right"><b>2,733</b></td>
+<td align="right">1,258</td>
+<td align="right">1,009</td>
+<td align="right">371</td>
+<td align="right">75</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/kkpan11"><img src="https://avatars.githubusercontent.com/u/3894279?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kkpan11"><b>Gianni Hong</b></a><br><sub>&#64;kkpan11 · 413 followers</sub></td>
 <td align="right"><b>422</b></td>
 <td align="right">325</td>
@@ -51,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">6</td>
 <td><a href="https://github.com/strategist922"><img src="https://avatars.githubusercontent.com/u/2128570?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/strategist922"><b>James Chang</b></a><br><sub>&#64;strategist922 · 919 followers</sub></td>
 <td align="right"><b>103</b></td>
 <td align="right">0</td>
@@ -60,7 +78,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">7</td>
 <td><a href="https://github.com/brucetsao"><img src="https://avatars.githubusercontent.com/u/5723009?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brucetsao"><b>建國老師</b></a><br><sub>&#64;brucetsao · 394 followers</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">65</td>
@@ -75,7 +93,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 5 of 571 discovered developers (566 awaiting measurement).
+- **Measured:** 7 of 629 discovered developers (622 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

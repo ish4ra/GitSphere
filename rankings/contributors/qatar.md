@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/QA.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/QA.json">JSON</a> |
 
 </div>
 
@@ -34,6 +34,15 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/Aymen311"><img src="https://avatars.githubusercontent.com/u/59454072?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aymen311"><b>Aymene Berriche</b></a><br><sub>&#64;Aymen311 · 574 followers</sub></td>
+<td align="right"><b>86</b></td>
+<td align="right">58</td>
+<td align="right">23</td>
+<td align="right">0</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/Offensive-Panda"><img src="https://avatars.githubusercontent.com/u/76246439?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Offensive-Panda"><b>Usman Sikander</b></a><br><sub>&#64;Offensive-Panda · 531 followers</sub></td>
 <td align="right"><b>65</b></td>
 <td align="right">58</td>
@@ -42,7 +51,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/mrpaziresh"><img src="https://avatars.githubusercontent.com/u/90142173?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrpaziresh"><b>Ali Reza Paziresh</b></a><br><sub>&#64;mrpaziresh · 3,118 followers</sub></td>
 <td align="right"><b>47</b></td>
 <td align="right">46</td>
@@ -51,7 +60,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
+<td><a href="https://github.com/maljefairi"><img src="https://avatars.githubusercontent.com/u/45969744?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maljefairi"><b>Mohammed Al-Jefairi</b></a><br><sub>&#64;maljefairi · 577 followers</sub></td>
+<td align="right"><b>27</b></td>
+<td align="right">14</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/TarikKaanKoc"><img src="https://avatars.githubusercontent.com/u/83168207?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TarikKaanKoc"><b>Tarık Kaan Koç</b></a><br><sub>&#64;TarikKaanKoc · 564 followers</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">8</td>
@@ -60,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">7</td>
 <td><a href="https://github.com/vahid-nejad"><img src="https://avatars.githubusercontent.com/u/7630781?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vahid-nejad"><b>Vahid Nejad</b></a><br><sub>&#64;vahid-nejad · 480 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
@@ -75,10 +93,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 5 of 400 discovered developers (395 awaiting measurement).
+- **Measured:** 7 of 400 discovered developers (393 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 43 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

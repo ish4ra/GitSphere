@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **54** | 22 Nov 2026 | <a href="../../data/developers/CO.json">JSON</a> |
+| 🟡 Provisional | **71** | 22 Nov 2026 | <a href="../../data/developers/CO.json">JSON</a> |
 
 </div>
 
@@ -234,7 +234,7 @@
 <tr>
 <td align="right">31</td>
 <td><a href="https://github.com/alejandronanez"><img src="https://avatars.githubusercontent.com/u/464978?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alejandronanez"><b>Alejandro Ñáñez Ortiz</b></a><br><sub>&#64;alejandronanez</sub></td>
-<td align="right"><b>450</b></td>
+<td align="right"><b>449</b></td>
 <td align="right">238</td>
 <td><sub>Colombia</sub></td>
 </tr>
@@ -359,45 +359,164 @@
 </tr>
 <tr>
 <td align="right">49</td>
+<td><a href="https://github.com/davsket"><img src="https://avatars.githubusercontent.com/u/777213?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davsket"><b>David Avellaneda</b></a><br><sub>&#64;davsket</sub></td>
+<td align="right"><b>343</b></td>
+<td align="right">60</td>
+<td><sub>Bogotá, Colombia</sub></td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><a href="https://github.com/germanescobar"><img src="https://avatars.githubusercontent.com/u/166389?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/germanescobar"><b>German Escobar</b></a><br><sub>&#64;germanescobar</sub></td>
+<td align="right"><b>342</b></td>
+<td align="right">253</td>
+<td><sub>Medellín, Colombia</sub></td>
+</tr>
+<tr>
+<td align="right">51</td>
+<td><a href="https://github.com/edwin1113"><img src="https://avatars.githubusercontent.com/u/175374632?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/edwin1113"><b>Edwin Ardila</b></a><br><sub>&#64;edwin1113</sub></td>
+<td align="right"><b>342</b></td>
+<td align="right">2</td>
+<td><sub>Colombia</sub></td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><a href="https://github.com/arcibyte"><img src="https://avatars.githubusercontent.com/u/71716787?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arcibyte"><b>Jhon Arciniegas</b></a><br><sub>&#64;arcibyte</sub></td>
+<td align="right"><b>322</b></td>
+<td align="right">23</td>
+<td><sub>🇨🇴</sub></td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><a href="https://github.com/MichellMurallas"><img src="https://avatars.githubusercontent.com/u/96792398?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MichellMurallas"><b>Miguel Angel</b></a><br><sub>&#64;MichellMurallas</sub></td>
+<td align="right"><b>321</b></td>
+<td align="right">37</td>
+<td><sub>Colombia</sub></td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><a href="https://github.com/davidjose47sudo"><img src="https://avatars.githubusercontent.com/u/78758821?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davidjose47sudo"><b>David Silva</b></a><br><sub>&#64;davidjose47sudo</sub></td>
+<td align="right"><b>313</b></td>
+<td align="right">16</td>
+<td><sub>Barranquilla</sub></td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><a href="https://github.com/edsadr"><img src="https://avatars.githubusercontent.com/u/1189785?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/edsadr"><b>Adrián Estrada</b></a><br><sub>&#64;edsadr</sub></td>
+<td align="right"><b>309</b></td>
+<td align="right">67</td>
+<td><sub>Medellin, Colombia</sub></td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><a href="https://github.com/taller-R"><img src="https://avatars.githubusercontent.com/u/69440432?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/taller-R"><b>Taller de R</b></a><br><sub>&#64;taller-R</sub></td>
+<td align="right"><b>308</b></td>
+<td align="right">6</td>
+<td><sub>Bogotá, Colombia</sub></td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><a href="https://github.com/jgomezpe"><img src="https://avatars.githubusercontent.com/u/10710521?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jgomezpe"><b>Jonatan Gomez Perdomo</b></a><br><sub>&#64;jgomezpe</sub></td>
+<td align="right"><b>294</b></td>
+<td align="right">39</td>
+<td><sub>Bogota, Colombia</sub></td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><a href="https://github.com/vtamara"><img src="https://avatars.githubusercontent.com/u/701221?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vtamara"><b>Vladimir Támara Patiño</b></a><br><sub>&#64;vtamara</sub></td>
+<td align="right"><b>289</b></td>
+<td align="right">310</td>
+<td><sub>Bogotá, Colombia</sub></td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><a href="https://github.com/AnderssonProgramming"><img src="https://avatars.githubusercontent.com/u/158221956?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AnderssonProgramming"><b>ander-ECI</b></a><br><sub>&#64;AnderssonProgramming</sub></td>
+<td align="right"><b>289</b></td>
+<td align="right">85</td>
+<td><sub>Bogotá</sub></td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><a href="https://github.com/CarlosMendez1997Col"><img src="https://avatars.githubusercontent.com/u/132113522?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CarlosMendez1997Col"><b>Carlos Mendez</b></a><br><sub>&#64;CarlosMendez1997Col</sub></td>
+<td align="right"><b>287</b></td>
+<td align="right">23</td>
+<td><sub>Bogotá, Colombia</sub></td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><a href="https://github.com/marcos-rg"><img src="https://avatars.githubusercontent.com/u/138086115?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marcos-rg"><b>Marcos Reyes</b></a><br><sub>&#64;marcos-rg</sub></td>
+<td align="right"><b>284</b></td>
+<td align="right">8</td>
+<td><sub>Colombia</sub></td>
+</tr>
+<tr>
+<td align="right">62</td>
 <td><a href="https://github.com/sdkcarlos"><img src="https://avatars.githubusercontent.com/u/11634719?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sdkcarlos"><b>Carlos Delgado</b></a><br><sub>&#64;sdkcarlos</sub></td>
 <td align="right"><b>259</b></td>
 <td align="right">0</td>
 <td><sub>Bucaramanga, Colombia.</sub></td>
 </tr>
 <tr>
-<td align="right">50</td>
+<td align="right">63</td>
 <td><a href="https://github.com/tomasr"><img src="https://avatars.githubusercontent.com/u/16179?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tomasr"><b>Tomas Restrepo</b></a><br><sub>&#64;tomasr</sub></td>
 <td align="right"><b>169</b></td>
 <td align="right">0</td>
 <td><sub>Colombia</sub></td>
 </tr>
 <tr>
-<td align="right">51</td>
+<td align="right">64</td>
 <td><a href="https://github.com/santigarcor"><img src="https://avatars.githubusercontent.com/u/7565417?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/santigarcor"><b>Santiago García</b></a><br><sub>&#64;santigarcor</sub></td>
 <td align="right"><b>145</b></td>
 <td align="right">0</td>
 <td><sub>Medellín, Colombia</sub></td>
 </tr>
 <tr>
-<td align="right">52</td>
+<td align="right">65</td>
+<td><a href="https://github.com/amro"><img src="https://avatars.githubusercontent.com/u/16900?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amro"><b>Amro Mousa</b></a><br><sub>&#64;amro</sub></td>
+<td align="right"><b>131</b></td>
+<td align="right">0</td>
+<td><sub>ATL</sub></td>
+</tr>
+<tr>
+<td align="right">66</td>
 <td><a href="https://github.com/zarfadev"><img src="https://avatars.githubusercontent.com/u/145287911?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zarfadev"><b>Miguel Villegas</b></a><br><sub>&#64;zarfadev</sub></td>
 <td align="right"><b>111</b></td>
 <td align="right">0</td>
 <td><sub>Colombia</sub></td>
 </tr>
 <tr>
-<td align="right">53</td>
+<td align="right">67</td>
+<td><a href="https://github.com/rohaquinlop"><img src="https://avatars.githubusercontent.com/u/50106623?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rohaquinlop"><b>Robin Quintero</b></a><br><sub>&#64;rohaquinlop</sub></td>
+<td align="right"><b>71</b></td>
+<td align="right">0</td>
+<td><sub>Palmira, Colombia</sub></td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><a href="https://github.com/savq"><img src="https://avatars.githubusercontent.com/u/30883030?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/savq"><b>Sergio Vargas</b></a><br><sub>&#64;savq</sub></td>
+<td align="right"><b>48</b></td>
+<td align="right">0</td>
+<td><sub>Bogotá, Colombia</sub></td>
+</tr>
+<tr>
+<td align="right">69</td>
 <td><a href="https://github.com/GTRONICK"><img src="https://avatars.githubusercontent.com/u/9374846?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GTRONICK"><b>Jaime Quiroga</b></a><br><sub>&#64;GTRONICK</sub></td>
 <td align="right"><b>39</b></td>
 <td align="right">0</td>
 <td><sub>Colombia</sub></td>
 </tr>
 <tr>
-<td align="right">54</td>
+<td align="right">70</td>
 <td><a href="https://github.com/mauriciosantos"><img src="https://avatars.githubusercontent.com/u/1291187?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mauriciosantos"><b>Mauricio Santos</b></a><br><sub>&#64;mauriciosantos</sub></td>
 <td align="right"><b>38</b></td>
 <td align="right">0</td>
 <td><sub>Bogotá, Colombia</sub></td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><a href="https://github.com/Alexander-Renteria-DevMl"><img src="https://avatars.githubusercontent.com/u/183791929?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alexander-Renteria-DevMl"><b>Daniel Alexander Renteria Pino</b></a><br><sub>&#64;Alexander-Renteria-DevMl</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">10</td>
+<td><sub>Medellin</sub></td>
 </tr>
 </tbody>
 </table>
@@ -407,7 +526,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 54 attributed developers are tracked; the cutoff is 38 followers.
+- Organizations are excluded. 71 attributed developers are tracked; the cutoff is 1 followers.
 - **Location discovery:** term 0 of 119 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

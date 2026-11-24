@@ -5,14 +5,16 @@
 "country": {"code":"KW","name":"Kuwait","slug":"kuwait"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":397,"measuredAccounts":6,"measurementBacklog":391,"window":{"from":"2025-11-23T13:00:00Z","to":"2026-11-23T13:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":32,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":397,"measuredAccounts":8,"measurementBacklog":389,"window":{"from":"2025-11-23T13:00:00Z","to":"2026-11-23T13:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":32,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjUzOTU1ODM5","login":"Abdulkader-Safi","name":"Abdulkader Safi","url":"https://github.com/Abdulkader-Safi","avatarUrl":"https://avatars.githubusercontent.com/u/53955839?s=80&v=4","followers":82,"publicRepos":253,"location":"Kuwait","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":2030,"commits":1856,"pullRequests":113,"reviews":0,"issues":4,"repositories":56,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":2,"id":"MDQ6VXNlcjM0NjE1MDE=","login":"AlahmadiQ8","name":"Mohammad Asad Alahmadi","url":"https://github.com/AlahmadiQ8","avatarUrl":"https://avatars.githubusercontent.com/u/3461501?s=80&v=4","followers":49,"publicRepos":201,"location":"Kuwait","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":315,"commits":251,"pullRequests":17,"reviews":2,"issues":18,"repositories":27,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
-  {"rank":3,"id":"MDQ6VXNlcjExOTI2MjMw","login":"ehabest","name":"Ehab ELKady","url":"https://github.com/ehabest","avatarUrl":"https://avatars.githubusercontent.com/u/11926230?s=80&v=4","followers":425,"publicRepos":3,"location":"kuwait","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":111,"commits":109,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
+  {"rank":3,"id":"MDQ6VXNlcjUxOTc2MjM2","login":"meshalalsultan","name":"Meshal Al-Sultan","url":"https://github.com/meshalalsultan","avatarUrl":"https://avatars.githubusercontent.com/u/51976236?s=80&v=4","followers":3,"publicRepos":153,"location":"Kuwait","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":118,"commits":109,"pullRequests":1,"reviews":0,"issues":1,"repositories":7,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
+  {"rank":4,"id":"MDQ6VXNlcjExOTI2MjMw","login":"ehabest","name":"Ehab ELKady","url":"https://github.com/ehabest","avatarUrl":"https://avatars.githubusercontent.com/u/11926230?s=80&v=4","followers":425,"publicRepos":3,"location":"kuwait","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":111,"commits":109,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":5,"id":"MDQ6VXNlcjM5MTU3NzUz","login":"zelal-Eizaldeen","name":"Zilal","url":"https://github.com/zelal-Eizaldeen","avatarUrl":"https://avatars.githubusercontent.com/u/39157753?s=80&v=4","followers":3,"publicRepos":145,"location":"Kuwait","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":37,"commits":23,"pullRequests":1,"reviews":0,"issues":0,"repositories":13,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "e3df7c54e5c3f8f7",
-"updatedAt": "2026-11-23T13:10:04.236Z",
+"contentHash": "0ba0207211db921b",
+"updatedAt": "2026-11-24T01:31:49.018Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-23T13:10:04.236Z"
+"generatedAt": "2026-11-24T01:31:49.018Z"
 }

@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **79** | 04 Nov 2026 | <a href="../data/HR.json">JSON</a> |
-
-> **Not yet re-verified.** 13 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **86** | 22 Nov 2026 | <a href="../data/HR.json">JSON</a> |
 
 </div>
 
@@ -487,94 +485,143 @@
 </tr>
 <tr>
 <td align="right">67</td>
-<td><img src="https://github.com/Swader.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Swader/nofw"><b>Swader/nofw</b></a></td>
-<td align="right"><b>212</b></td>
-<td align="right">13</td>
-<td>PHP</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/award-winning-website"><b>adrianhajdin/award-winning-website</b></a><br><sub>A step-by-step course teaching you how to build an award-winning animated website that became an Awwwards Site Of The M…</sub></td>
+<td align="right"><b>1,145</b></td>
+<td align="right">331</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">68</td>
-<td><img src="https://github.com/xan1242.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xan1242/NFS-XtendedInput"><b>xan1242/NFS-XtendedInput</b></a></td>
-<td align="right"><b>210</b></td>
-<td align="right">16</td>
-<td>C++</td>
+<td><img src="https://github.com/teamtnt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/teamtnt/laravel-scout-tntsearch-driver"><b>teamtnt/laravel-scout-tntsearch-driver</b></a><br><sub>Driver for Laravel Scout search package based on https://github.com/teamtnt/tntsearch</sub></td>
+<td align="right"><b>1,134</b></td>
+<td align="right">142</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">69</td>
-<td><img src="https://github.com/AntonioErdeljac.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AntonioErdeljac/python-tensorflow-google"><b>AntonioErdeljac/python-tensorflow-google</b></a></td>
-<td align="right"><b>203</b></td>
-<td align="right">32</td>
-<td>Python</td>
+<td><img src="https://github.com/judge0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/judge0/ide"><b>judge0/ide</b></a><br><sub>✨ Simple, free and open-source online code editor.</sub></td>
+<td align="right"><b>1,127</b></td>
+<td align="right">410</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">70</td>
-<td><img src="https://github.com/ivandoric.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ivandoric/Making-Websites-With-October-CMS"><b>ivandoric/Making-Websites-With-October-CMS</b></a></td>
-<td align="right"><b>161</b></td>
-<td align="right">50</td>
+<td><img src="https://github.com/karlomikus.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/karlomikus/bar-assistant"><b>karlomikus/bar-assistant</b></a><br><sub>Bar assistant is a all-in-one solution for managing your home bar</sub></td>
+<td align="right"><b>1,118</b></td>
+<td align="right">59</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">71</td>
-<td><img src="https://github.com/TheGreatSimon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TheGreatSimon/AnvilCSG"><b>TheGreatSimon/AnvilCSG</b></a></td>
-<td align="right"><b>160</b></td>
-<td align="right">1</td>
-<td>—</td>
+<td><img src="https://github.com/tkrajina.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tkrajina/gpxpy"><b>tkrajina/gpxpy</b></a><br><sub>gpx-py is a python GPX parser. GPX (GPS eXchange Format) is an XML based file format for GPS tracks.</sub></td>
+<td align="right"><b>1,107</b></td>
+<td align="right">243</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">72</td>
-<td><img src="https://github.com/bruno-.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bruno-/fiber_scheduler"><b>bruno-/fiber&#95;scheduler</b></a></td>
-<td align="right"><b>128</b></td>
-<td align="right">4</td>
-<td>Ruby</td>
+<td><img src="https://github.com/dkorunic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dkorunic/betteralign"><b>dkorunic/betteralign</b></a><br><sub>Detect and fix suboptimal struct field layout in Go: reduces padding and GC pointer bytes, rewrites files while preserv…</sub></td>
+<td align="right"><b>1,089</b></td>
+<td align="right">22</td>
+<td>Go</td>
 </tr>
 <tr>
 <td align="right">73</td>
-<td><img src="https://github.com/dpavlin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dpavlin/android-command-line"><b>dpavlin/android-command-line</b></a></td>
-<td align="right"><b>118</b></td>
-<td align="right">33</td>
-<td>Shell</td>
+<td><img src="https://github.com/borisbabic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/borisbabic/browser_cookie3"><b>borisbabic/browser&#95;cookie3</b></a><br><sub>This is a fork of browser&#95;cookie</sub></td>
+<td align="right"><b>1,085</b></td>
+<td align="right">169</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">74</td>
-<td><img src="https://github.com/silvenon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/silvenon/vscode-mdx"><b>silvenon/vscode-mdx</b></a></td>
-<td align="right"><b>110</b></td>
-<td align="right">9</td>
-<td>—</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_music_player"><b>adrianhajdin/project&#95;music&#95;player</b></a><br><sub>Master modern web development by building an improved version of Spotify. With a modern homepage, fully-fledged music p…</sub></td>
+<td align="right"><b>1,070</b></td>
+<td align="right">302</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">75</td>
-<td><img src="https://github.com/NikolaBreznjak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NikolaBreznjak/AndroidCallBlockingTestDemo"><b>NikolaBreznjak/AndroidCallBlockingTestDemo</b></a></td>
-<td align="right"><b>71</b></td>
-<td align="right">28</td>
+<td><img src="https://github.com/bytechefhq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bytechefhq/bytechef"><b>bytechefhq/bytechef</b></a><br><sub>Open-source AI agents and workflow automation. Self-host or embed in your SaaS. Apache 2.0 alternative to n8n and Zapie…</sub></td>
+<td align="right"><b>1,065</b></td>
+<td align="right">183</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">76</td>
-<td><img src="https://github.com/avail.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/avail/UnityAssemblyInjector"><b>avail/UnityAssemblyInjector</b></a></td>
-<td align="right"><b>70</b></td>
-<td align="right">9</td>
-<td>C++</td>
+<td><img src="https://github.com/niksy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/niksy/throttle-debounce"><b>niksy/throttle-debounce</b></a><br><sub>Throttle and debounce functions.</sub></td>
+<td align="right"><b>1,044</b></td>
+<td align="right">108</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">77</td>
-<td><img src="https://github.com/lmacan1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lmacan1/talktype"><b>lmacan1/talktype</b></a></td>
-<td align="right"><b>60</b></td>
-<td align="right">14</td>
-<td>Python</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/threejs-portfolio"><b>adrianhajdin/threejs-portfolio</b></a><br><sub>Learn how to build 3D websites from scratch with the Three.js Crash Course. It&#39;s a fun and practical way to create a po…</sub></td>
+<td align="right"><b>1,039</b></td>
+<td align="right">234</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">78</td>
-<td><img src="https://github.com/filbabic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/filbabic/FlexibleAdapter"><b>filbabic/FlexibleAdapter</b></a></td>
-<td align="right"><b>48</b></td>
-<td align="right">4</td>
-<td>Java</td>
+<td><img src="https://github.com/sasa1977.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sasa1977/elixir-in-action"><b>sasa1977/elixir-in-action</b></a><br><sub>Code samples for Elixir in Action book</sub></td>
+<td align="right"><b>1,030</b></td>
+<td align="right">201</td>
+<td>Elixir</td>
 </tr>
 <tr>
 <td align="right">79</td>
-<td><img src="https://github.com/PCrnjak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PCrnjak/S-Drive-Firmware"><b>PCrnjak/S-Drive-Firmware</b></a></td>
-<td align="right"><b>43</b></td>
-<td align="right">10</td>
+<td><img src="https://github.com/sasa1977.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sasa1977/boundary"><b>sasa1977/boundary</b></a><br><sub>Manage and restrain cross-module dependencies in Elixir projects</sub></td>
+<td align="right"><b>1,003</b></td>
+<td align="right">35</td>
+<td>Elixir</td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_threejs_ai"><b>adrianhajdin/project&#95;threejs&#95;ai</b></a></td>
+<td align="right"><b>979</b></td>
+<td align="right">304</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/shanteacontrols.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shanteacontrols/OpenDeck"><b>shanteacontrols/OpenDeck</b></a><br><sub>A platform for building interactive control and sensing devices using MIDI and OSC built with Zephyr RTOS.</sub></td>
+<td align="right"><b>968</b></td>
+<td align="right">72</td>
 <td>C++</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/event_platform"><b>adrianhajdin/event&#95;platform</b></a><br><sub>Build an event organization web app like Eventbrite or Meetup with authentication, event management, search, filtering,…</sub></td>
+<td align="right"><b>960</b></td>
+<td align="right">275</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><img src="https://github.com/mariosemes.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mariosemes/PornHub-downloader-python"><b>mariosemes/PornHub-downloader-python</b></a><br><sub>Download stuff from PH the easy way.</sub></td>
+<td align="right"><b>943</b></td>
+<td align="right">227</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/yc_directory"><b>adrianhajdin/yc&#95;directory</b></a><br><sub>This project showcases the latest features of Next.js 15, including Next.js Form for seamless client-side form submissi…</sub></td>
+<td align="right"><b>936</b></td>
+<td align="right">192</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">85</td>
+<td><img src="https://github.com/Source-Robotics.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Source-Robotics/Faze4-Robotic-arm"><b>Source-Robotics/Faze4-Robotic-arm</b></a><br><sub>Faze4: open-source 3D-printed 6-axis robot arm with cycloidal gearboxes and the wiring inside the arm, the files to bui…</sub></td>
+<td align="right"><b>928</b></td>
+<td align="right">156</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/sasa1977.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sasa1977/con_cache"><b>sasa1977/con&#95;cache</b></a><br><sub>ets based key/value cache with row level isolated writes and ttl support</sub></td>
+<td align="right"><b>926</b></td>
+<td align="right">73</td>
+<td>Elixir</td>
 </tr>
 </tbody>
 </table>
@@ -582,11 +629,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 43 stars; 79 attributed candidates are tracked.
-- 13 entries were carried over from the previous dataset and are pending revalidation.
-- 131 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 926 stars; 86 attributed candidates are tracked.
+- 119 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 145 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

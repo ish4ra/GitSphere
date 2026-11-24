@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"BS","name":"Bahamas","slug":"bahamas"},
-"count": 150,
+"count": 148,
 "repositories": [
-  {"name":"XileHUD/poe_overlay","stars":146,"forks":17,"language":"TypeScript","license":"GPL-3.0","archived":false,"createdAt":"2025-09-26T12:07:10Z","pushedAt":"2026-07-28T23:52:49Z","owner":{"login":"XileHUD","type":"Organization","name":"XileHUD","location":"Bahamas"},"attribution":{"code":"BS","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T06:38:51.161Z","id":"legacy:xilehud/poe_overlay","legacy":true},
-  {"name":"ItsSim/fsolauncher","stars":32,"forks":15,"language":"JavaScript","license":"MPL-2.0","archived":true,"createdAt":"2018-03-01T20:06:58Z","pushedAt":"2024-12-29T00:37:08Z","owner":{"login":"ItsSim","type":"User","name":"Sim","location":"Bahamas"},"attribution":{"code":"BS","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T06:38:51.161Z","id":"legacy:itssim/fsolauncher","legacy":true},
   {"name":"steveWDamesJr/html-css-js-capstone","stars":20,"forks":0,"language":"CSS","archived":false,"createdAt":"2022-01-03T08:34:10Z","pushedAt":"2022-04-21T19:54:19Z","owner":{"login":"steveWDamesJr","type":"User","name":"Steve","location":"The Bahamas"},"attribution":{"code":"BS","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T06:38:51.161Z","id":"legacy:stevewdamesjr/html-css-js-capstone","legacy":true},
   {"name":"avantgardefinance/enzyme-bot","stars":18,"forks":11,"language":"TypeScript","license":"MIT","archived":false,"createdAt":"2021-02-11T22:31:54Z","pushedAt":"2022-08-03T13:50:23Z","owner":{"login":"avantgardefinance","type":"Organization","name":"Avantgarde Finance","location":"Bahamas"},"attribution":{"code":"BS","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T06:38:51.161Z","id":"legacy:avantgardefinance/enzyme-bot","legacy":true},
   {"name":"SubTropica/SubTropica","stars":18,"forks":1,"language":"Wolfram Language","license":"MIT","archived":false,"createdAt":"2026-04-19T18:16:48Z","pushedAt":"2026-09-29T03:16:42Z","owner":{"login":"SubTropica","type":"Organization","name":"SubTropica","location":"Bahamas"},"attribution":{"code":"BS","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T06:38:51.161Z","id":"legacy:subtropica/subtropica","legacy":true},

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/IR.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/IR.json">JSON</a> |
 
 </div>
 
@@ -52,6 +52,24 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/omidlmazaheri"><img src="https://avatars.githubusercontent.com/u/18422360?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/omidlmazaheri"><b>Omid Lak Mazaheri</b></a><br><sub>&#64;omidlmazaheri · 501 followers</sub></td>
+<td align="right"><b>107</b></td>
+<td align="right">69</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/ahmadpanah"><img src="https://avatars.githubusercontent.com/u/5393697?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahmadpanah"><b>Hossein</b></a><br><sub>&#64;ahmadpanah · 563 followers</sub></td>
+<td align="right"><b>84</b></td>
+<td align="right">59</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/sorooshrabet"><img src="https://avatars.githubusercontent.com/u/143717347?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sorooshrabet"><b>soroosh rabet</b></a><br><sub>&#64;sorooshrabet · 963 followers</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">0</td>
@@ -60,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">7</td>
 <td><a href="https://github.com/qa1"><img src="https://avatars.githubusercontent.com/u/6631000?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/qa1"><b>qa1</b></a><br><sub>&#64;qa1 · 344 followers</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">0</td>
@@ -69,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">8</td>
 <td><a href="https://github.com/ghaseminya"><img src="https://avatars.githubusercontent.com/u/937340?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ghaseminya"><b>j2eedev</b></a><br><sub>&#64;ghaseminya · 680 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
@@ -84,7 +102,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 6 of 560 discovered developers (554 awaiting measurement).
+- **Measured:** 8 of 627 discovered developers (619 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 159 in round 1.

@@ -27,7 +27,7 @@ Explore GitHub repositories and developers by country, ranked by stars, follower
 <br>
 <a href="./rankings/README.md"><b>Browse 250 countries →</b></a>
 <br>
-<sub>19,687 repositories ranked · 250 countries with results</sub>
+<sub>19,497 repositories ranked · 250 countries with results</sub>
 </td>
 <td width="33%" align="center" valign="top">
 <a href="./rankings/developers/README.md">
@@ -39,7 +39,7 @@ Explore GitHub repositories and developers by country, ranked by stars, follower
 <br>
 <a href="./rankings/developers/README.md"><b>Browse 250 countries →</b></a>
 <br>
-<sub>43,226 developers ranked · 250 countries with results</sub>
+<sub>50,926 developers ranked · 250 countries with results</sub>
 </td>
 <td width="33%" align="center" valign="top">
 <a href="./rankings/contributors/README.md">
@@ -51,14 +51,14 @@ Explore GitHub repositories and developers by country, ranked by stars, follower
 <br>
 <a href="./rankings/contributors/README.md"><b>Browse 250 countries →</b></a>
 <br>
-<sub>1,127 contributors ranked · 247 countries with results</sub>
+<sub>1,550 contributors ranked · 248 countries with results</sub>
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-<sub>Last successful refresh <b>23 Nov 2026</b> · 250 countries and territories · Star scan verified to <b>1,164★</b> · Follower scan verified to <b>346</b></sub>
+<sub>Last successful refresh <b>24 Nov 2026</b> · 250 countries and territories · Star scan verified to <b>901★</b> · Follower scan verified to <b>285</b></sub>
 
 </div>
 
@@ -66,9 +66,9 @@ Explore GitHub repositories and developers by country, ranked by stars, follower
 
 | Ranking | 🟢 Published | 🟡 Provisional | 🔵 Building | 🟠 Stale | ⚪ No attributable results | 🔴 Blocked | Total |
 | :-- | --: | --: | --: | --: | --: | --: | --: |
-| Top Repositories | 32 | 3 | 0 | 215 | 0 | 0 | 250 |
-| Top Developers | 5 | 245 | 0 | 0 | 0 | 0 | 250 |
-| Top Contributors | 0 | 247 | 3 | 0 | 0 | 0 | 250 |
+| Top Repositories | 35 | 4 | 0 | 211 | 0 | 0 | 250 |
+| Top Developers | 6 | 244 | 0 | 0 | 0 | 0 | 250 |
+| Top Contributors | 0 | 248 | 2 | 0 | 0 | 0 | 250 |
 
 Every country has exactly one status per ranking. **Published** means coverage was established by the scans; **Provisional** rankings are verified results while deeper discovery continues. Nothing is presented as complete unless the scan establishes it.
 

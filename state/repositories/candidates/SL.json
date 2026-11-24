@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"SL","name":"Sierra Leone","slug":"sierra-leone"},
-"count": 150,
+"count": 149,
 "repositories": [
-  {"name":"gokoururi/homepage","stars":131,"forks":45,"language":"CSS","license":"NOASSERTION","archived":false,"createdAt":"2014-05-02T21:02:28Z","pushedAt":"2015-01-10T16:17:19Z","owner":{"login":"gokoururi","type":"User","name":"Gokou Ruri","location":"Sierra Leone"},"attribution":{"code":"SL","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T01:05:25.931Z","id":"legacy:gokoururi/homepage","legacy":true},
   {"name":"aempirei/Soundcard-RFID","stars":27,"forks":10,"language":"C","archived":false,"createdAt":"2012-02-10T11:02:29Z","pushedAt":"2016-04-02T09:23:11Z","owner":{"login":"aempirei","type":"User","name":"Christopher Abad","location":"Freetown, Sierra Leone"},"attribution":{"code":"SL","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-03T01:05:25.931Z","id":"legacy:aempirei/soundcard-rfid","legacy":true},
   {"name":"samuelmoiwa/Awesome-books-ES6","stars":19,"forks":0,"language":"JavaScript","archived":false,"createdAt":"2022-09-26T07:57:19Z","pushedAt":"2022-09-26T22:16:00Z","owner":{"login":"samuelmoiwa","type":"User","name":"Moiwa","location":"Sierra Leone"},"attribution":{"code":"SL","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T01:05:25.931Z","id":"legacy:samuelmoiwa/awesome-books-es6","legacy":true},
   {"name":"monimesl/pulserl","stars":16,"forks":10,"language":"Erlang","license":"NOASSERTION","archived":false,"createdAt":"2019-12-01T08:56:48Z","pushedAt":"2024-08-13T22:23:51Z","owner":{"login":"monimesl","type":"Organization","name":"Monime","location":"Sierra Leone"},"attribution":{"code":"SL","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T01:05:25.931Z","id":"legacy:monimesl/pulserl","legacy":true},

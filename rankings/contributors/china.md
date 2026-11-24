@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/CN.json">JSON</a> |
+| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/CN.json">JSON</a> |
 
 </div>
 
@@ -25,7 +25,7 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><a href="https://github.com/felixonmars"><img src="https://avatars.githubusercontent.com/u/1006477?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/felixonmars"><b>Felix Yan</b></a><br><sub>&#64;felixonmars · 3,406 followers</sub></td>
+<td><a href="https://github.com/felixonmars"><img src="https://avatars.githubusercontent.com/u/1006477?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/felixonmars"><b>Felix Yan</b></a><br><sub>&#64;felixonmars · 3,407 followers</sub></td>
 <td align="right"><b>222,739</b></td>
 <td align="right">221,128</td>
 <td align="right">1,518</td>
@@ -70,6 +70,15 @@
 </tr>
 <tr>
 <td align="right">6</td>
+<td><a href="https://github.com/Hengle"><img src="https://avatars.githubusercontent.com/u/12215655?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hengle"><b>Hengel</b></a><br><sub>&#64;Hengle · 317 followers</sub></td>
+<td align="right"><b>101</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/yutiansut"><img src="https://avatars.githubusercontent.com/u/11537812?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yutiansut"><b>Vincent yu</b></a><br><sub>&#64;yutiansut · 1,967 followers</sub></td>
 <td align="right"><b>100</b></td>
 <td align="right">80</td>
@@ -78,13 +87,22 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/junneyang"><img src="https://avatars.githubusercontent.com/u/6802322?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/junneyang"><b>YangJun</b></a><br><sub>&#64;junneyang · 391 followers</sub></td>
 <td align="right"><b>15</b></td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">13</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/wyrover"><img src="https://avatars.githubusercontent.com/u/3905610?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wyrover"><b>wyrover</b></a><br><sub>&#64;wyrover · 308 followers</sub></td>
+<td align="right"><b>6</b></td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
 </tr>
 </tbody>
 </table>
@@ -93,7 +111,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 8 of 1,684 discovered developers (1,676 awaiting measurement).
+- **Measured:** 11 of 1,772 discovered developers (1,761 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 195 in round 1.

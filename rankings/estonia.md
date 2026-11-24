@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | :---: |
 | 🟠 Stale | **58** | 01 Nov 2026 | <a href="../data/EE.json">JSON</a> |
 
-> **Not yet re-verified.** 17 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 6 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -312,80 +312,80 @@
 </tr>
 <tr>
 <td align="right">42</td>
-<td><img src="https://github.com/gpeipman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gpeipman/AspNetCoreMultitenant"><b>gpeipman/AspNetCoreMultitenant</b></a></td>
-<td align="right"><b>204</b></td>
-<td align="right">64</td>
+<td><img src="https://github.com/rebane2001.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rebane2001/xikipedia"><b>rebane2001/xikipedia</b></a><br><sub>Wikipedia as a social media feed</sub></td>
+<td align="right"><b>1,146</b></td>
+<td align="right">77</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">43</td>
+<td><img src="https://github.com/sirWest.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sirWest/AudioSwitch"><b>sirWest/AudioSwitch</b></a><br><sub>Switch between default audio input or output + change volume</sub></td>
+<td align="right"><b>1,122</b></td>
+<td align="right">92</td>
 <td>C#</td>
 </tr>
 <tr>
-<td align="right">43</td>
-<td><img src="https://github.com/girishramnani.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/girishramnani/hacking-tools"><b>girishramnani/hacking-tools</b></a></td>
-<td align="right"><b>181</b></td>
-<td align="right">67</td>
-<td>Python</td>
-</tr>
-<tr>
 <td align="right">44</td>
-<td><img src="https://github.com/kiisu-io.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kiisu-io/kiisu4"><b>kiisu-io/kiisu4</b></a></td>
-<td align="right"><b>146</b></td>
-<td align="right">8</td>
-<td>—</td>
+<td><img src="https://github.com/iconify.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/iconify/icon-sets"><b>iconify/icon-sets</b></a><br><sub>200+ open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically s…</sub></td>
+<td align="right"><b>1,091</b></td>
+<td align="right">98</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">45</td>
-<td><img src="https://github.com/antonarhipov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/antonarhipov/awesome-apm"><b>antonarhipov/awesome-apm</b></a></td>
-<td align="right"><b>145</b></td>
-<td align="right">25</td>
-<td>—</td>
+<td><img src="https://github.com/MayGo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MayGo/tockler"><b>MayGo/tockler</b></a><br><sub>An application that tracks your time by monitoring your active window title and idle time.</sub></td>
+<td align="right"><b>1,078</b></td>
+<td align="right">123</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">46</td>
-<td><img src="https://github.com/marklit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/marklit/whois"><b>marklit/whois</b></a></td>
-<td align="right"><b>105</b></td>
-<td align="right">18</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">47</td>
-<td><img src="https://github.com/mroman42.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mroman42/mikrokosmos"><b>mroman42/mikrokosmos</b></a></td>
-<td align="right"><b>73</b></td>
-<td align="right">8</td>
-<td>Haskell</td>
-</tr>
-<tr>
-<td align="right">48</td>
-<td><img src="https://github.com/madisvain.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/madisvain/vatcomply"><b>madisvain/vatcomply</b></a></td>
-<td align="right"><b>69</b></td>
-<td align="right">7</td>
-<td>Rust</td>
-</tr>
-<tr>
-<td align="right">49</td>
-<td><img src="https://github.com/shelajev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shelajev/Retrofit2SampleApp"><b>shelajev/Retrofit2SampleApp</b></a></td>
-<td align="right"><b>67</b></td>
-<td align="right">43</td>
+<td><img src="https://github.com/martinpaljak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/martinpaljak/GlobalPlatformPro"><b>martinpaljak/GlobalPlatformPro</b></a><br><sub>Manage applets and keys on JavaCard-s like a pro 🌐 🔐</sub></td>
+<td align="right"><b>962</b></td>
+<td align="right">255</td>
 <td>Java</td>
 </tr>
 <tr>
+<td align="right">47</td>
+<td><img src="https://github.com/rebane2001.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rebane2001/x86CSS"><b>rebane2001/x86CSS</b></a><br><sub>x86CSS is a working CSS-only x86 CPU/emulator/computer. No JavaScript required.</sub></td>
+<td align="right"><b>945</b></td>
+<td align="right">24</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><img src="https://github.com/zeroturnaround.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zeroturnaround/zt-exec"><b>zeroturnaround/zt-exec</b></a><br><sub>ZeroTurnaround Process Executor</sub></td>
+<td align="right"><b>919</b></td>
+<td align="right">112</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><img src="https://github.com/emotixco.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/emotixco/claude-skills-founder"><b>emotixco/claude-skills-founder</b></a><br><sub>Claude Code skills for startup founders — product briefs, competitor analysis, pricing strategy, pitch decks, and GTM p…</sub></td>
+<td align="right"><b>919</b></td>
+<td align="right">80</td>
+<td>Markdown</td>
+</tr>
+<tr>
 <td align="right">50</td>
-<td><img src="https://github.com/bepitulaz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bepitulaz/obsidian-multivault-mcp"><b>bepitulaz/obsidian-multivault-mcp</b></a></td>
-<td align="right"><b>62</b></td>
-<td align="right">7</td>
+<td><img src="https://github.com/nodemailer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nodemailer/smtp-server"><b>nodemailer/smtp-server</b></a><br><sub>Create custom SMTP servers on the fly</sub></td>
+<td align="right"><b>918</b></td>
+<td align="right">151</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">51</td>
-<td><img src="https://github.com/rla.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rla/sql-sync"><b>rla/sql-sync</b></a></td>
-<td align="right"><b>61</b></td>
-<td align="right">15</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/zendtech.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zendtech/ZendOptimizerPlus"><b>zendtech/ZendOptimizerPlus</b></a></td>
+<td align="right"><b>910</b></td>
+<td align="right">141</td>
+<td>C</td>
 </tr>
 <tr>
 <td align="right">52</td>
-<td><img src="https://github.com/thomasklemm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thomasklemm/awesome-stars"><b>thomasklemm/awesome-stars</b></a></td>
-<td align="right"><b>40</b></td>
-<td align="right">4</td>
-<td>—</td>
+<td><img src="https://github.com/jpmml.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jpmml/jpmml-evaluator"><b>jpmml/jpmml-evaluator</b></a><br><sub>Java Evaluator API for PMML</sub></td>
+<td align="right"><b>905</b></td>
+<td align="right">253</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">53</td>
@@ -438,8 +438,8 @@
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 11 stars; 58 attributed candidates are tracked.
-- 17 entries were carried over from the previous dataset and are pending revalidation.
-- 127 multi-repository owners are queued for expansion.
+- 6 entries were carried over from the previous dataset and are pending revalidation.
+- 118 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 142 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

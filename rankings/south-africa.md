@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **44** | 03 Nov 2026 | <a href="../data/ZA.json">JSON</a> |
+| 🟠 Stale | **41** | 03 Nov 2026 | <a href="../data/ZA.json">JSON</a> |
 
-> **Not yet re-verified.** 25 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 15 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -158,174 +158,153 @@
 </tr>
 <tr>
 <td align="right">20</td>
-<td><img src="https://github.com/singe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/singe/wifi-frequency-hacker"><b>singe/wifi-frequency-hacker</b></a></td>
-<td align="right"><b>189</b></td>
-<td align="right">35</td>
-<td>Makefile</td>
+<td><img src="https://github.com/AlexvZyl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AlexvZyl/nordic.nvim"><b>AlexvZyl/nordic.nvim</b></a><br><sub>🌒 Nord for Neovim, but warmer and darker. Supports a variety of plugins and other platforms.</sub></td>
+<td align="right"><b>1,077</b></td>
+<td align="right">71</td>
+<td>Lua</td>
 </tr>
 <tr>
 <td align="right">21</td>
-<td><img src="https://github.com/mattleibow.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mattleibow/SkiaSharpFiddle"><b>mattleibow/SkiaSharpFiddle</b></a></td>
-<td align="right"><b>155</b></td>
-<td align="right">31</td>
-<td>C#</td>
+<td><img src="https://github.com/lostpebble.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lostpebble/pullstate"><b>lostpebble/pullstate</b></a><br><sub>Simple state stores using immer and React hooks - re-use parts of your state by pulling it anywhere you like!</sub></td>
+<td align="right"><b>1,069</b></td>
+<td align="right">22</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">22</td>
-<td><img src="https://github.com/cazzwastaken.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cazzwastaken/external-aimbot"><b>cazzwastaken/external-aimbot</b></a> <sub>archived</sub></td>
-<td align="right"><b>137</b></td>
-<td align="right">48</td>
-<td>C++</td>
+<td><img src="https://github.com/Stacked-Org.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Stacked-Org/stacked"><b>Stacked-Org/stacked</b></a><br><sub>A Flutter application architecture created from real world scenarios</sub></td>
+<td align="right"><b>1,037</b></td>
+<td align="right">249</td>
+<td>Dart</td>
 </tr>
 <tr>
 <td align="right">23</td>
-<td><img src="https://github.com/keegancsmith.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/keegancsmith/sqlf"><b>keegancsmith/sqlf</b></a></td>
-<td align="right"><b>125</b></td>
-<td align="right">6</td>
+<td><img src="https://github.com/IzakMarais.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/IzakMarais/reporter"><b>IzakMarais/reporter</b></a><br><sub>Service that generates a PDF report from a Grafana dashboard</sub></td>
+<td align="right"><b>1,021</b></td>
+<td align="right">320</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">24</td>
-<td><img src="https://github.com/assertchris.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/assertchris/tutorial-laravel-4-real-time-chat"><b>assertchris/tutorial-laravel-4-real-time-chat</b></a></td>
-<td align="right"><b>115</b></td>
-<td align="right">60</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/mitchellkrogza.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker"><b>mitchellkrogza/apache-ultimate-bad-bot-blocker</b></a><br><sub>Apache Block Bad Bots, (Referer) Spam Referrer Blocker, Vulnerability Scanners, Malware, Adware, Ransomware, Malicious…</sub></td>
+<td align="right"><b>995</b></td>
+<td align="right">198</td>
+<td>C</td>
 </tr>
 <tr>
 <td align="right">25</td>
-<td><img src="https://github.com/geofmureithi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/geofmureithi/plugy"><b>geofmureithi/plugy</b></a></td>
-<td align="right"><b>78</b></td>
-<td align="right">2</td>
-<td>Rust</td>
+<td><img src="https://github.com/stackworx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stackworx/formik-mui"><b>stackworx/formik-mui</b></a><br><sub>Bindings for using Formik with Material-UI</sub></td>
+<td align="right"><b>972</b></td>
+<td align="right">135</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">26</td>
-<td><img src="https://github.com/abhi18av.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abhi18av/awesome-pdf"><b>abhi18av/awesome-pdf</b></a></td>
-<td align="right"><b>57</b></td>
-<td align="right">79</td>
+<td><img src="https://github.com/limbopro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/limbopro/JichangTuijian"><b>limbopro/JichangTuijian</b></a><br><sub>毒奶博主的自用机场推荐——150GB/14元/月起，Vless/AnyTLS协议支持，透传，IEPL专线加持，稳定低延迟，ChatGPT 等AI工具支持，Netflix等主流流媒体区域限制解锁；</sub></td>
+<td align="right"><b>943</b></td>
+<td align="right">14</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">27</td>
-<td><img src="https://github.com/schalkneethling.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/schalkneethling/dnt-helper"><b>schalkneethling/dnt-helper</b></a> <sub>archived</sub></td>
-<td align="right"><b>46</b></td>
-<td align="right">3</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">28</td>
-<td><img src="https://github.com/Carrington-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Carrington-dev/dj-payfast"><b>Carrington-dev/dj-payfast</b></a></td>
-<td align="right"><b>34</b></td>
-<td align="right">0</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">29</td>
-<td><img src="https://github.com/schalkventer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/schalkventer/frrm"><b>schalkventer/frrm</b></a></td>
-<td align="right"><b>32</b></td>
-<td align="right">0</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">30</td>
 <td><img src="https://github.com/KabeloM13.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KabeloM13/kabeloM13"><b>KabeloM13/kabeloM13</b></a></td>
 <td align="right"><b>29</b></td>
 <td align="right">1</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">31</td>
+<td align="right">28</td>
 <td><img src="https://github.com/Raphasha27.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Raphasha27/Raphasha27"><b>Raphasha27/Raphasha27</b></a></td>
 <td align="right"><b>24</b></td>
 <td align="right">4</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">32</td>
+<td align="right">29</td>
 <td><img src="https://github.com/mikechiloane.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mikechiloane/invoice-generator"><b>mikechiloane/invoice-generator</b></a></td>
 <td align="right"><b>22</b></td>
 <td align="right">0</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">33</td>
+<td align="right">30</td>
 <td><img src="https://github.com/Uwami-Mgxekwa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Uwami-Mgxekwa/ScreenshotToCode"><b>Uwami-Mgxekwa/ScreenshotToCode</b></a></td>
 <td align="right"><b>17</b></td>
 <td align="right">1</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">34</td>
+<td align="right">31</td>
 <td><img src="https://github.com/bright-spark.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bright-spark/bolt.replit"><b>bright-spark/bolt.replit</b></a></td>
 <td align="right"><b>16</b></td>
 <td align="right">15</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">35</td>
+<td align="right">32</td>
 <td><img src="https://github.com/leonard1thecoder.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/leonard1thecoder/goTel"><b>leonard1thecoder/goTel</b></a></td>
 <td align="right"><b>14</b></td>
 <td align="right">0</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">36</td>
+<td align="right">33</td>
 <td><img src="https://github.com/lafras-h.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lafras-h/JavaPrintooth"><b>lafras-h/JavaPrintooth</b></a></td>
 <td align="right"><b>12</b></td>
 <td align="right">9</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">37</td>
+<td align="right">34</td>
 <td><img src="https://github.com/pjtfernandes.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pjtfernandes/PayUTestApp"><b>pjtfernandes/PayUTestApp</b></a></td>
 <td align="right"><b>12</b></td>
 <td align="right">6</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">38</td>
+<td align="right">35</td>
 <td><img src="https://github.com/CrispenGari.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CrispenGari/chatbot"><b>CrispenGari/chatbot</b></a></td>
 <td align="right"><b>11</b></td>
 <td align="right">2</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">39</td>
+<td align="right">36</td>
 <td><img src="https://github.com/dc9993.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dc9993/win-10-virtual-desktop-enhancer"><b>dc9993/win-10-virtual-desktop-enhancer</b></a></td>
 <td align="right"><b>11</b></td>
 <td align="right">2</td>
 <td>AutoHotkey</td>
 </tr>
 <tr>
-<td align="right">40</td>
+<td align="right">37</td>
 <td><img src="https://github.com/jordan-arenstein.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jordan-arenstein/oni-plugin-touchbar"><b>jordan-arenstein/oni-plugin-touchbar</b></a> <sub>archived</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">0</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">41</td>
+<td align="right">38</td>
 <td><img src="https://github.com/nophora.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nophora/Datasets"><b>nophora/Datasets</b></a></td>
 <td align="right"><b>10</b></td>
 <td align="right">0</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">42</td>
+<td align="right">39</td>
 <td><img src="https://github.com/karlie-moyo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/karlie-moyo/low_level_programming"><b>karlie-moyo/low&#95;level&#95;programming</b></a></td>
 <td align="right"><b>9</b></td>
 <td align="right">10</td>
 <td>C</td>
 </tr>
 <tr>
-<td align="right">43</td>
+<td align="right">40</td>
 <td><img src="https://github.com/NickiMash17.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NickiMash17/TodoListApp"><b>NickiMash17/TodoListApp</b></a></td>
 <td align="right"><b>8</b></td>
 <td align="right">1</td>
 <td>C#</td>
 </tr>
 <tr>
-<td align="right">44</td>
+<td align="right">41</td>
 <td><img src="https://github.com/lefajmofokeng.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lefajmofokeng/Maluti-College"><b>lefajmofokeng/Maluti-College</b></a></td>
 <td align="right"><b>8</b></td>
 <td align="right">0</td>
@@ -339,9 +318,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 8 stars; 44 attributed candidates are tracked.
-- 25 entries were carried over from the previous dataset and are pending revalidation.
-- 134 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 8 stars; 41 attributed candidates are tracked.
+- 15 entries were carried over from the previous dataset and are pending revalidation.
+- 128 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

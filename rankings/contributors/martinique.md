@@ -14,17 +14,26 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/contributors/MQ.json">JSON</a> |
+| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/MQ.json">JSON</a> |
 
 </div>
 
-<p align="center"><sub>Public contributions from <b>23 Nov 2025</b> to <b>23 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
+<p align="center"><sub>Public contributions from <b>24 Nov 2025</b> to <b>24 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
 
 <table>
 <thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Public contributions</th><th align="right">Commits</th><th align="right">PRs</th><th align="right">Reviews</th><th align="right">Issues</th></tr></thead>
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/diasjorge"><img src="https://avatars.githubusercontent.com/u/2731?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/diasjorge"><b>Jorge Dias</b></a><br><sub>&#64;diasjorge · 86 followers</sub></td>
+<td align="right"><b>1,359</b></td>
+<td align="right">810</td>
+<td align="right">339</td>
+<td align="right">31</td>
+<td align="right">172</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/vevedh"><img src="https://avatars.githubusercontent.com/u/1430389?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vevedh"><b>Hervé de CHAVIGNY</b></a><br><sub>&#64;vevedh · 5 followers</sub></td>
 <td align="right"><b>227</b></td>
 <td align="right">205</td>
@@ -33,7 +42,7 @@
 <td align="right">3</td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">3</td>
 <td><a href="https://github.com/aldofwi"><img src="https://avatars.githubusercontent.com/u/42814580?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aldofwi"><b>Λldo</b></a><br><sub>&#64;aldofwi · 1 followers</sub></td>
 <td align="right"><b>55</b></td>
 <td align="right">55</td>
@@ -42,11 +51,20 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/anthony-nosibor"><img src="https://avatars.githubusercontent.com/u/64765109?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anthony-nosibor"><b>Anthony nosibor</b></a><br><sub>&#64;anthony-nosibor · 7 followers</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">17</td>
 <td align="right">5</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/tolobial"><img src="https://avatars.githubusercontent.com/u/2273317?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tolobial"><b>Patrick PLACIDE</b></a><br><sub>&#64;tolobial · 2 followers</sub></td>
+<td align="right"><b>23</b></td>
+<td align="right">2</td>
+<td align="right">2</td>
 <td align="right">0</td>
 <td align="right">0</td>
 </tr>
@@ -57,7 +75,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 4 of 171 discovered developers (167 awaiting measurement).
+- **Measured:** 6 of 170 discovered developers (164 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 1 of 23 in round 1.

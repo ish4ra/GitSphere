@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **26** | 22 Nov 2026 | <a href="../../data/developers/SK.json">JSON</a> |
+| 🟡 Provisional | **33** | 22 Nov 2026 | <a href="../../data/developers/SK.json">JSON</a> |
 
 </div>
 
@@ -114,94 +114,143 @@
 </tr>
 <tr>
 <td align="right">14</td>
-<td><a href="https://github.com/ckissi"><img src="https://avatars.githubusercontent.com/u/5107590?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ckissi"><b>Csaba Kissi</b></a><br><sub>&#64;ckissi</sub></td>
-<td align="right"><b>327</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/MatejBendik"><img src="https://avatars.githubusercontent.com/u/75170699?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MatejBendik"><b>Matej Bendík</b></a><br><sub>&#64;MatejBendik</sub></td>
+<td align="right"><b>336</b></td>
+<td align="right">29</td>
 <td><sub>Slovakia</sub></td>
 </tr>
 <tr>
 <td align="right">15</td>
-<td><a href="https://github.com/darsain"><img src="https://avatars.githubusercontent.com/u/538801?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/darsain"><b>darsain</b></a><br><sub>&#64;darsain</sub></td>
-<td align="right"><b>300</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/ckissi"><img src="https://avatars.githubusercontent.com/u/5107590?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ckissi"><b>Csaba Kissi</b></a><br><sub>&#64;ckissi</sub></td>
+<td align="right"><b>327</b></td>
+<td align="right">78</td>
 <td><sub>Slovakia</sub></td>
 </tr>
 <tr>
 <td align="right">16</td>
+<td><a href="https://github.com/xhyrom"><img src="https://avatars.githubusercontent.com/u/56601352?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xhyrom"><b>Jozef Steinhübl</b></a><br><sub>&#64;xhyrom</sub></td>
+<td align="right"><b>324</b></td>
+<td align="right">57</td>
+<td><sub>Slovakia</sub></td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><a href="https://github.com/vlady0712"><img src="https://avatars.githubusercontent.com/u/121418385?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vlady0712"><b>Vlady</b></a><br><sub>&#64;vlady0712</sub></td>
+<td align="right"><b>317</b></td>
+<td align="right">38</td>
+<td><sub>Košice, Slovakia</sub></td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><a href="https://github.com/darsain"><img src="https://avatars.githubusercontent.com/u/538801?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/darsain"><b>darsain</b></a><br><sub>&#64;darsain</sub></td>
+<td align="right"><b>299</b></td>
+<td align="right">44</td>
+<td><sub>Slovakia</sub></td>
+</tr>
+<tr>
+<td align="right">19</td>
 <td><a href="https://github.com/haad"><img src="https://avatars.githubusercontent.com/u/67790?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/haad"><b>Adam Hamsik</b></a><br><sub>&#64;haad</sub></td>
 <td align="right"><b>260</b></td>
 <td align="right">0</td>
 <td><sub>Bratislava Slovakia</sub></td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">20</td>
 <td><a href="https://github.com/michalmalik"><img src="https://avatars.githubusercontent.com/u/1903285?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/michalmalik"><b>Michal Malik</b></a><br><sub>&#64;michalmalik</sub></td>
 <td align="right"><b>234</b></td>
 <td align="right">0</td>
 <td><sub>Bratislava, Slovakia</sub></td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">21</td>
 <td><a href="https://github.com/itsgoingd"><img src="https://avatars.githubusercontent.com/u/821582?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/itsgoingd"><b>its</b></a><br><sub>&#64;itsgoingd</sub></td>
 <td align="right"><b>215</b></td>
 <td align="right">0</td>
 <td><sub>Slovakia</sub></td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">22</td>
 <td><a href="https://github.com/mauron85"><img src="https://avatars.githubusercontent.com/u/359450?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mauron85"><b>Marián Hello</b></a><br><sub>&#64;mauron85</sub></td>
 <td align="right"><b>172</b></td>
 <td align="right">0</td>
 <td><sub>Slovakia</sub></td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">23</td>
 <td><a href="https://github.com/ondrajz"><img src="https://avatars.githubusercontent.com/u/1229233?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ondrajz"><b>Ondrej Fabry</b></a><br><sub>&#64;ondrajz</sub></td>
 <td align="right"><b>159</b></td>
 <td align="right">0</td>
 <td><sub>Bratislava, Slovakia</sub></td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">24</td>
+<td><a href="https://github.com/mkottman"><img src="https://avatars.githubusercontent.com/u/144990?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mkottman"><b>Michal Kottman</b></a><br><sub>&#64;mkottman</sub></td>
+<td align="right"><b>158</b></td>
+<td align="right">0</td>
+<td><sub>Bratislava, Slovakia</sub></td>
+</tr>
+<tr>
+<td align="right">25</td>
 <td><a href="https://github.com/JurajNyiri"><img src="https://avatars.githubusercontent.com/u/5785999?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JurajNyiri"><b>Juraj Nyíri</b></a><br><sub>&#64;JurajNyiri</sub></td>
 <td align="right"><b>118</b></td>
 <td align="right">0</td>
 <td><sub>Slovakia</sub></td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">26</td>
 <td><a href="https://github.com/JakubVojvoda"><img src="https://avatars.githubusercontent.com/u/15220932?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JakubVojvoda"><b>Jakub Vojvoda</b></a><br><sub>&#64;JakubVojvoda</sub></td>
 <td align="right"><b>116</b></td>
 <td align="right">0</td>
 <td><sub>Slovakia</sub></td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">27</td>
+<td><a href="https://github.com/Kin69"><img src="https://avatars.githubusercontent.com/u/109698804?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kin69"><b>Kin</b></a><br><sub>&#64;Kin69</sub></td>
+<td align="right"><b>115</b></td>
+<td align="right">0</td>
+<td><sub>Slovakia, Bratislava</sub></td>
+</tr>
+<tr>
+<td align="right">28</td>
 <td><a href="https://github.com/adrianmihalko"><img src="https://avatars.githubusercontent.com/u/733361?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adrianmihalko"><b>adrianmihalko</b></a><br><sub>&#64;adrianmihalko</sub></td>
 <td align="right"><b>74</b></td>
 <td align="right">0</td>
 <td><sub>Slovakia</sub></td>
 </tr>
 <tr>
-<td align="right">24</td>
+<td align="right">29</td>
 <td><a href="https://github.com/dorny"><img src="https://avatars.githubusercontent.com/u/1588572?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dorny"><b>Michal Dorner</b></a><br><sub>&#64;dorny</sub></td>
 <td align="right"><b>52</b></td>
 <td align="right">0</td>
 <td><sub>Bratislava, Slovakia</sub></td>
 </tr>
 <tr>
-<td align="right">25</td>
+<td align="right">30</td>
+<td><a href="https://github.com/svrcekmichal"><img src="https://avatars.githubusercontent.com/u/9148702?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/svrcekmichal"><b>Michal Svrček</b></a><br><sub>&#64;svrcekmichal</sub></td>
+<td align="right"><b>48</b></td>
+<td align="right">0</td>
+<td><sub>Bratislava, Slovakia</sub></td>
+</tr>
+<tr>
+<td align="right">31</td>
 <td><a href="https://github.com/tomasklaen"><img src="https://avatars.githubusercontent.com/u/47283320?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tomasklaen"><b>Tomas Klaen</b></a><br><sub>&#64;tomasklaen</sub></td>
 <td align="right"><b>43</b></td>
 <td align="right">0</td>
 <td><sub>Slovakia</sub></td>
 </tr>
 <tr>
-<td align="right">26</td>
+<td align="right">32</td>
 <td><a href="https://github.com/madox2"><img src="https://avatars.githubusercontent.com/u/15847857?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/madox2"><b>Martin Bielik</b></a><br><sub>&#64;madox2</sub></td>
 <td align="right"><b>33</b></td>
 <td align="right">0</td>
 <td><sub>Bratislava</sub></td>
+</tr>
+<tr>
+<td align="right">33</td>
+<td><a href="https://github.com/wessamlauf"><img src="https://avatars.githubusercontent.com/u/198474966?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wessamlauf"><b>Wessam Lauf</b></a><br><sub>&#64;wessamlauf</sub></td>
+<td align="right"><b>13</b></td>
+<td align="right">0</td>
+<td><sub>Slovakia</sub></td>
 </tr>
 </tbody>
 </table>
@@ -211,7 +260,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 26 attributed developers are tracked; the cutoff is 33 followers.
+- Organizations are excluded. 33 attributed developers are tracked; the cutoff is 13 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

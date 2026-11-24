@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **221** | 22 Nov 2026 | <a href="../../data/developers/TW.json">JSON</a> |
+| 🟡 Provisional | **279** | 22 Nov 2026 | <a href="../../data/developers/TW.json">JSON</a> |
 
 </div>
 
@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/topjohnwu"><img src="https://avatars.githubusercontent.com/u/7337301?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/topjohnwu"><b>John Wu</b></a><br><sub>&#64;topjohnwu</sub></td>
-<td align="right"><b>12,331</b></td>
+<td align="right"><b>12,334</b></td>
 <td align="right">50</td>
 <td><sub>US / Taiwan</sub></td>
 </tr>
@@ -45,7 +45,7 @@
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/appleboy"><img src="https://avatars.githubusercontent.com/u/21979?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/appleboy"><b>Bo-Yi Wu</b></a><br><sub>&#64;appleboy</sub></td>
-<td align="right"><b>7,572</b></td>
+<td align="right"><b>7,571</b></td>
 <td align="right">609</td>
 <td><sub>Hsinchu, Taiwan</sub></td>
 </tr>
@@ -87,7 +87,7 @@
 <tr>
 <td align="right">10</td>
 <td><a href="https://github.com/FongMi"><img src="https://avatars.githubusercontent.com/u/3471963?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FongMi"><b>FongMi</b></a><br><sub>&#64;FongMi</sub></td>
-<td align="right"><b>2,624</b></td>
+<td align="right"><b>2,635</b></td>
 <td align="right">26</td>
 <td><sub>Taiwan</sub></td>
 </tr>
@@ -136,8 +136,8 @@
 <tr>
 <td align="right">17</td>
 <td><a href="https://github.com/PeterDaveHello"><img src="https://avatars.githubusercontent.com/u/3691490?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PeterDaveHello"><b>Peter Dave Hello</b></a><br><sub>&#64;PeterDaveHello</sub></td>
-<td align="right"><b>1,895</b></td>
-<td align="right">715</td>
+<td align="right"><b>1,894</b></td>
+<td align="right">716</td>
 <td><sub>Taiwan, R.O.C</sub></td>
 </tr>
 <tr>
@@ -1136,433 +1136,839 @@
 </tr>
 <tr>
 <td align="right">160</td>
-<td><a href="https://github.com/WeiChiaChang"><img src="https://avatars.githubusercontent.com/u/13506626?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/WeiChiaChang"><b>WesleyZen</b></a><br><sub>&#64;WeiChiaChang</sub></td>
-<td align="right"><b>340</b></td>
-<td align="right">0</td>
-<td><sub>Tainan, Taiwan</sub></td>
+<td><a href="https://github.com/victorgau"><img src="https://avatars.githubusercontent.com/u/4385309?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/victorgau"><b>Victor Gau</b></a><br><sub>&#64;victorgau</sub></td>
+<td align="right"><b>341</b></td>
+<td align="right">183</td>
+<td><sub>Kaohsiung, Taiwan</sub></td>
 </tr>
 <tr>
 <td align="right">161</td>
-<td><a href="https://github.com/aitjcize"><img src="https://avatars.githubusercontent.com/u/197798?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aitjcize"><b>Wei-Ning Huang</b></a><br><sub>&#64;aitjcize</sub></td>
-<td align="right"><b>328</b></td>
-<td align="right">0</td>
-<td><sub>Taiwan, Taipei</sub></td>
+<td><a href="https://github.com/ivon852"><img src="https://avatars.githubusercontent.com/u/9528184?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ivon852"><b>Ivon Huang</b></a><br><sub>&#64;ivon852</sub></td>
+<td align="right"><b>341</b></td>
+<td align="right">23</td>
+<td><sub>Republic of China (Taiwan)</sub></td>
 </tr>
 <tr>
 <td align="right">162</td>
-<td><a href="https://github.com/Yvictor"><img src="https://avatars.githubusercontent.com/u/8242025?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Yvictor"><b>Yvictor</b></a><br><sub>&#64;Yvictor</sub></td>
-<td align="right"><b>311</b></td>
-<td align="right">0</td>
-<td><sub>Taiwan</sub></td>
+<td><a href="https://github.com/WeiChiaChang"><img src="https://avatars.githubusercontent.com/u/13506626?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/WeiChiaChang"><b>WesleyZen</b></a><br><sub>&#64;WeiChiaChang</sub></td>
+<td align="right"><b>340</b></td>
+<td align="right">200</td>
+<td><sub>Tainan, Taiwan</sub></td>
 </tr>
 <tr>
 <td align="right">163</td>
-<td><a href="https://github.com/lanpa"><img src="https://avatars.githubusercontent.com/u/2005323?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lanpa"><b>Tzu-Wei Huang</b></a><br><sub>&#64;lanpa</sub></td>
-<td align="right"><b>310</b></td>
-<td align="right">0</td>
-<td><sub>Taipei, Taiwan</sub></td>
+<td><a href="https://github.com/YamiOdymel"><img src="https://avatars.githubusercontent.com/u/7308718?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YamiOdymel"><b>Yami Odymel</b></a><br><sub>&#64;YamiOdymel</sub></td>
+<td align="right"><b>340</b></td>
+<td align="right">21</td>
+<td><sub>Taiwan</sub></td>
 </tr>
 <tr>
 <td align="right">164</td>
-<td><a href="https://github.com/rexrainbow"><img src="https://avatars.githubusercontent.com/u/817962?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rexrainbow"><b>Rex</b></a><br><sub>&#64;rexrainbow</sub></td>
-<td align="right"><b>309</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/kucw"><img src="https://avatars.githubusercontent.com/u/10337091?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kucw"><b>古君葳（古古）</b></a><br><sub>&#64;kucw</sub></td>
+<td align="right"><b>340</b></td>
+<td align="right">13</td>
 <td><sub>Taiwan</sub></td>
 </tr>
 <tr>
 <td align="right">165</td>
-<td><a href="https://github.com/vn7n24fzkq"><img src="https://avatars.githubusercontent.com/u/20241522?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vn7n24fzkq"><b>Casper</b></a><br><sub>&#64;vn7n24fzkq</sub></td>
-<td align="right"><b>301</b></td>
-<td align="right">0</td>
-<td><sub>Taiwan</sub></td>
+<td><a href="https://github.com/jackycute"><img src="https://avatars.githubusercontent.com/u/2639151?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jackycute"><b>Max Wu</b></a><br><sub>&#64;jackycute</sub></td>
+<td align="right"><b>338</b></td>
+<td align="right">63</td>
+<td><sub>Taipei, Taiwan</sub></td>
 </tr>
 <tr>
 <td align="right">166</td>
-<td><a href="https://github.com/memochou1993"><img src="https://avatars.githubusercontent.com/u/38420282?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/memochou1993"><b>Memo Chou</b></a><br><sub>&#64;memochou1993</sub></td>
-<td align="right"><b>286</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/jaceju"><img src="https://avatars.githubusercontent.com/u/310474?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jaceju"><b>Jace Ju</b></a><br><sub>&#64;jaceju</sub></td>
+<td align="right"><b>337</b></td>
+<td align="right">90</td>
 <td><sub>Taipei, Taiwan</sub></td>
 </tr>
 <tr>
 <td align="right">167</td>
-<td><a href="https://github.com/Nanako0129"><img src="https://avatars.githubusercontent.com/u/44753291?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nanako0129"><b>Nyanako</b></a><br><sub>&#64;Nanako0129</sub></td>
-<td align="right"><b>285</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/hom-wang"><img src="https://avatars.githubusercontent.com/u/4789358?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hom-wang"><b>kris.wang</b></a><br><sub>&#64;hom-wang</sub></td>
+<td align="right"><b>337</b></td>
+<td align="right">43</td>
 <td><sub>Taiwan</sub></td>
 </tr>
 <tr>
 <td align="right">168</td>
+<td><a href="https://github.com/kuanhsuh"><img src="https://avatars.githubusercontent.com/u/10923300?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kuanhsuh"><b>Danny Huang</b></a><br><sub>&#64;kuanhsuh</sub></td>
+<td align="right"><b>335</b></td>
+<td align="right">116</td>
+<td><sub>Kaohsiung Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">169</td>
+<td><a href="https://github.com/AllanYiin"><img src="https://avatars.githubusercontent.com/u/13088261?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AllanYiin"><b>AllanYiin</b></a><br><sub>&#64;AllanYiin</sub></td>
+<td align="right"><b>335</b></td>
+<td align="right">29</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">170</td>
+<td><a href="https://github.com/ckmarkoh"><img src="https://avatars.githubusercontent.com/u/3319364?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ckmarkoh"><b>Mark Chang</b></a><br><sub>&#64;ckmarkoh</sub></td>
+<td align="right"><b>332</b></td>
+<td align="right">48</td>
+<td><sub>Taipai,Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">171</td>
+<td><a href="https://github.com/Quantum1377"><img src="https://avatars.githubusercontent.com/u/232966859?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Quantum1377"><b>Abner Ananias</b></a><br><sub>&#64;Quantum1377</sub></td>
+<td align="right"><b>332</b></td>
+<td align="right">4</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">172</td>
+<td><a href="https://github.com/eliangcs"><img src="https://avatars.githubusercontent.com/u/740461?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eliangcs"><b>Chang-Hung Liang</b></a><br><sub>&#64;eliangcs</sub></td>
+<td align="right"><b>331</b></td>
+<td align="right">55</td>
+<td><sub>Taipei, Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">173</td>
+<td><a href="https://github.com/thc1006"><img src="https://avatars.githubusercontent.com/u/84045975?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thc1006"><b>秀吉</b></a><br><sub>&#64;thc1006</sub></td>
+<td align="right"><b>330</b></td>
+<td align="right">233</td>
+<td><sub>No. 155, Sec. 2, Linong St. Beitou Dist., Taipe…</sub></td>
+</tr>
+<tr>
+<td align="right">174</td>
+<td><a href="https://github.com/aitjcize"><img src="https://avatars.githubusercontent.com/u/197798?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aitjcize"><b>Wei-Ning Huang</b></a><br><sub>&#64;aitjcize</sub></td>
+<td align="right"><b>328</b></td>
+<td align="right">78</td>
+<td><sub>Taiwan, Taipei</sub></td>
+</tr>
+<tr>
+<td align="right">175</td>
+<td><a href="https://github.com/yan12125"><img src="https://avatars.githubusercontent.com/u/1937689?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yan12125"><b>Chih-Hsuan Yen</b></a><br><sub>&#64;yan12125</sub></td>
+<td align="right"><b>328</b></td>
+<td align="right">36</td>
+<td><sub>Taipei, Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">176</td>
+<td><a href="https://github.com/dandedotdev"><img src="https://avatars.githubusercontent.com/u/106054083?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dandedotdev"><b>Dandelion Huang</b></a><br><sub>&#64;dandedotdev</sub></td>
+<td align="right"><b>327</b></td>
+<td align="right">35</td>
+<td><sub>Taipei, Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">177</td>
+<td><a href="https://github.com/leovincentseles"><img src="https://avatars.githubusercontent.com/u/36748589?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leovincentseles"><b>Yin-Chiuan Chen</b></a><br><sub>&#64;leovincentseles</sub></td>
+<td align="right"><b>325</b></td>
+<td align="right">15</td>
+<td><sub>Taipei, Taiwan (ROC)</sub></td>
+</tr>
+<tr>
+<td align="right">178</td>
+<td><a href="https://github.com/yaojenkuo"><img src="https://avatars.githubusercontent.com/u/12790890?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yaojenkuo"><b>Yao-Jen Kuo</b></a><br><sub>&#64;yaojenkuo</sub></td>
+<td align="right"><b>323</b></td>
+<td align="right">156</td>
+<td><sub>Taipei, Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">179</td>
+<td><a href="https://github.com/Gbuomprisco"><img src="https://avatars.githubusercontent.com/u/3512197?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Gbuomprisco"><b>Giancarlo Buomprisco</b></a><br><sub>&#64;Gbuomprisco</sub></td>
+<td align="right"><b>323</b></td>
+<td align="right">61</td>
+<td><sub>Taipei, Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">180</td>
+<td><a href="https://github.com/sc0Vu"><img src="https://avatars.githubusercontent.com/u/10494397?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sc0Vu"><b>Peter Lai</b></a><br><sub>&#64;sc0Vu</sub></td>
+<td align="right"><b>321</b></td>
+<td align="right">322</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">181</td>
+<td><a href="https://github.com/RuiSiang"><img src="https://avatars.githubusercontent.com/u/49300088?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RuiSiang"><b>RuiSiang</b></a><br><sub>&#64;RuiSiang</sub></td>
+<td align="right"><b>319</b></td>
+<td align="right">44</td>
+<td><sub>Taipei, Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">182</td>
+<td><a href="https://github.com/Zenobia000"><img src="https://avatars.githubusercontent.com/u/40803296?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Zenobia000"><b>Sunnyweng</b></a><br><sub>&#64;Zenobia000</sub></td>
+<td align="right"><b>317</b></td>
+<td align="right">129</td>
+<td><sub>Taiwan, Taipei</sub></td>
+</tr>
+<tr>
+<td align="right">183</td>
+<td><a href="https://github.com/eyesofkids"><img src="https://avatars.githubusercontent.com/u/433742?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eyesofkids"><b>Eddy Chang</b></a><br><sub>&#64;eyesofkids</sub></td>
+<td align="right"><b>317</b></td>
+<td align="right">96</td>
+<td><sub>Taipei, Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">184</td>
+<td><a href="https://github.com/godfat"><img src="https://avatars.githubusercontent.com/u/10416?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/godfat"><b>Lin Jen-Shin (godfat)</b></a><br><sub>&#64;godfat</sub></td>
+<td align="right"><b>315</b></td>
+<td align="right">155</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">185</td>
+<td><a href="https://github.com/supersonictw"><img src="https://avatars.githubusercontent.com/u/13705584?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/supersonictw"><b>不知火 Shiranui</b></a><br><sub>&#64;supersonictw</sub></td>
+<td align="right"><b>313</b></td>
+<td align="right">162</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">186</td>
+<td><a href="https://github.com/Yvictor"><img src="https://avatars.githubusercontent.com/u/8242025?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Yvictor"><b>Yvictor</b></a><br><sub>&#64;Yvictor</sub></td>
+<td align="right"><b>311</b></td>
+<td align="right">150</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">187</td>
+<td><a href="https://github.com/galaxychuck"><img src="https://avatars.githubusercontent.com/u/35130590?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/galaxychuck"><b>galaxychuck</b></a><br><sub>&#64;galaxychuck</sub></td>
+<td align="right"><b>311</b></td>
+<td align="right">17</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">188</td>
+<td><a href="https://github.com/wush978"><img src="https://avatars.githubusercontent.com/u/1252618?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wush978"><b>Wush Wu</b></a><br><sub>&#64;wush978</sub></td>
+<td align="right"><b>310</b></td>
+<td align="right">190</td>
+<td><sub>Taipei</sub></td>
+</tr>
+<tr>
+<td align="right">189</td>
+<td><a href="https://github.com/clonn"><img src="https://avatars.githubusercontent.com/u/347807?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/clonn"><b>Caesar Chi</b></a><br><sub>&#64;clonn</sub></td>
+<td align="right"><b>310</b></td>
+<td align="right">173</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">190</td>
+<td><a href="https://github.com/x213212"><img src="https://avatars.githubusercontent.com/u/9297254?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/x213212"><b>x213212</b></a><br><sub>&#64;x213212</sub></td>
+<td align="right"><b>310</b></td>
+<td align="right">146</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">191</td>
+<td><a href="https://github.com/lanpa"><img src="https://avatars.githubusercontent.com/u/2005323?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lanpa"><b>Tzu-Wei Huang</b></a><br><sub>&#64;lanpa</sub></td>
+<td align="right"><b>310</b></td>
+<td align="right">32</td>
+<td><sub>Taipei, Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">192</td>
+<td><a href="https://github.com/lancetw"><img src="https://avatars.githubusercontent.com/u/61947?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lancetw"><b>Hsin-lin Cheng</b></a><br><sub>&#64;lancetw</sub></td>
+<td align="right"><b>309</b></td>
+<td align="right">298</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">193</td>
+<td><a href="https://github.com/rexrainbow"><img src="https://avatars.githubusercontent.com/u/817962?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rexrainbow"><b>Rex</b></a><br><sub>&#64;rexrainbow</sub></td>
+<td align="right"><b>309</b></td>
+<td align="right">11</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">194</td>
+<td><a href="https://github.com/tse-wei-chen"><img src="https://avatars.githubusercontent.com/u/144909016?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tse-wei-chen"><b>Gary</b></a><br><sub>&#64;tse-wei-chen</sub></td>
+<td align="right"><b>307</b></td>
+<td align="right">22</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">195</td>
+<td><a href="https://github.com/andyyou"><img src="https://avatars.githubusercontent.com/u/665690?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andyyou"><b>andyyou</b></a><br><sub>&#64;andyyou</sub></td>
+<td align="right"><b>305</b></td>
+<td align="right">146</td>
+<td><sub>Taipei</sub></td>
+</tr>
+<tr>
+<td align="right">196</td>
+<td><a href="https://github.com/chungchiehlun"><img src="https://avatars.githubusercontent.com/u/6926451?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chungchiehlun"><b>Jay Chung</b></a><br><sub>&#64;chungchiehlun</sub></td>
+<td align="right"><b>304</b></td>
+<td align="right">0</td>
+<td><sub>Taipei, Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">197</td>
+<td><a href="https://github.com/amobiz"><img src="https://avatars.githubusercontent.com/u/7576114?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amobiz"><b>amobiz</b></a><br><sub>&#64;amobiz</sub></td>
+<td align="right"><b>303</b></td>
+<td align="right">36</td>
+<td><sub>Taipei/Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">198</td>
+<td><a href="https://github.com/yanowo"><img src="https://avatars.githubusercontent.com/u/12916584?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yanowo"><b>Yan</b></a><br><sub>&#64;yanowo</sub></td>
+<td align="right"><b>301</b></td>
+<td align="right">87</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">199</td>
+<td><a href="https://github.com/vn7n24fzkq"><img src="https://avatars.githubusercontent.com/u/20241522?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vn7n24fzkq"><b>Casper</b></a><br><sub>&#64;vn7n24fzkq</sub></td>
+<td align="right"><b>301</b></td>
+<td align="right">62</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">200</td>
+<td><a href="https://github.com/poga"><img src="https://avatars.githubusercontent.com/u/8631?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/poga"><b>Poga Po</b></a><br><sub>&#64;poga</sub></td>
+<td align="right"><b>300</b></td>
+<td align="right">165</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">201</td>
+<td><a href="https://github.com/Lee-W"><img src="https://avatars.githubusercontent.com/u/5144808?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lee-W"><b>Wei Lee</b></a><br><sub>&#64;Lee-W</sub></td>
+<td align="right"><b>300</b></td>
+<td align="right">124</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">202</td>
+<td><a href="https://github.com/marcusschiesser"><img src="https://avatars.githubusercontent.com/u/17126?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marcusschiesser"><b>Marcus Schiesser</b></a><br><sub>&#64;marcusschiesser</sub></td>
+<td align="right"><b>299</b></td>
+<td align="right">163</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">203</td>
+<td><a href="https://github.com/coldnew"><img src="https://avatars.githubusercontent.com/u/39703?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/coldnew"><b>Yen-Chin,Lee</b></a><br><sub>&#64;coldnew</sub></td>
+<td align="right"><b>297</b></td>
+<td align="right">314</td>
+<td><sub>Taipei, Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">204</td>
+<td><a href="https://github.com/pichuang"><img src="https://avatars.githubusercontent.com/u/5253671?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pichuang"><b>Phil Huang</b></a><br><sub>&#64;pichuang</sub></td>
+<td align="right"><b>295</b></td>
+<td align="right">292</td>
+<td><sub>Taipei, Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">205</td>
+<td><a href="https://github.com/tonytonyjan"><img src="https://avatars.githubusercontent.com/u/809410?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tonytonyjan"><b>簡煒航 (Weihang Jian)</b></a><br><sub>&#64;tonytonyjan</sub></td>
+<td align="right"><b>295</b></td>
+<td align="right">192</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">206</td>
+<td><a href="https://github.com/Hzllaga"><img src="https://avatars.githubusercontent.com/u/40329078?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hzllaga"><b>Hzllaga</b></a><br><sub>&#64;Hzllaga</sub></td>
+<td align="right"><b>294</b></td>
+<td align="right">36</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">207</td>
+<td><a href="https://github.com/Still34"><img src="https://avatars.githubusercontent.com/u/5843208?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Still34"><b>Still / Azaka</b></a><br><sub>&#64;Still34</sub></td>
+<td align="right"><b>292</b></td>
+<td align="right">94</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">208</td>
+<td><a href="https://github.com/hlb"><img src="https://avatars.githubusercontent.com/u/4609?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hlb"><b>hlb</b></a><br><sub>&#64;hlb</sub></td>
+<td align="right"><b>291</b></td>
+<td align="right">22</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">209</td>
+<td><a href="https://github.com/ceshine"><img src="https://avatars.githubusercontent.com/u/674501?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ceshine"><b>CeShine Lee</b></a><br><sub>&#64;ceshine</sub></td>
+<td align="right"><b>289</b></td>
+<td align="right">188</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">210</td>
+<td><a href="https://github.com/lltx"><img src="https://avatars.githubusercontent.com/u/50090230?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lltx"><b>leng leng</b></a><br><sub>&#64;lltx</sub></td>
+<td align="right"><b>289</b></td>
+<td align="right">139</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">211</td>
+<td><a href="https://github.com/toomore"><img src="https://avatars.githubusercontent.com/u/121504?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/toomore"><b>Toomore Chiang</b></a><br><sub>&#64;toomore</sub></td>
+<td align="right"><b>289</b></td>
+<td align="right">96</td>
+<td><sub>Taipei, Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">212</td>
+<td><a href="https://github.com/Kantai235"><img src="https://avatars.githubusercontent.com/u/11679504?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kantai235"><b>乾太 ₍₍ ◝(･◡･)◟ ⁾⁾</b></a><br><sub>&#64;Kantai235</sub></td>
+<td align="right"><b>288</b></td>
+<td align="right">40</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">213</td>
+<td><a href="https://github.com/ericsk"><img src="https://avatars.githubusercontent.com/u/10736?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ericsk"><b>Eric ShangKuan</b></a><br><sub>&#64;ericsk</sub></td>
+<td align="right"><b>287</b></td>
+<td align="right">60</td>
+<td><sub>Taipei, Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">214</td>
+<td><a href="https://github.com/memochou1993"><img src="https://avatars.githubusercontent.com/u/38420282?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/memochou1993"><b>Memo Chou</b></a><br><sub>&#64;memochou1993</sub></td>
+<td align="right"><b>286</b></td>
+<td align="right">326</td>
+<td><sub>Taipei, Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">215</td>
+<td><a href="https://github.com/BingHongLi"><img src="https://avatars.githubusercontent.com/u/7921358?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BingHongLi"><b>李秉鴻</b></a><br><sub>&#64;BingHongLi</sub></td>
+<td align="right"><b>286</b></td>
+<td align="right">59</td>
+<td><sub>Taipei</sub></td>
+</tr>
+<tr>
+<td align="right">216</td>
+<td><a href="https://github.com/Nanako0129"><img src="https://avatars.githubusercontent.com/u/44753291?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nanako0129"><b>Nyanako</b></a><br><sub>&#64;Nanako0129</sub></td>
+<td align="right"><b>285</b></td>
+<td align="right">68</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">217</td>
 <td><a href="https://github.com/pionxzh"><img src="https://avatars.githubusercontent.com/u/9910706?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pionxzh"><b>Pionxzh</b></a><br><sub>&#64;pionxzh</sub></td>
 <td align="right"><b>284</b></td>
+<td align="right">62</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">218</td>
+<td><a href="https://github.com/calee0219"><img src="https://avatars.githubusercontent.com/u/12643673?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/calee0219"><b>Chia-An Lee</b></a><br><sub>&#64;calee0219</sub></td>
+<td align="right"><b>241</b></td>
 <td align="right">0</td>
 <td><sub>Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">169</td>
+<td align="right">219</td>
 <td><a href="https://github.com/gnehs"><img src="https://avatars.githubusercontent.com/u/16719720?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gnehs"><b>gnehs</b></a><br><sub>&#64;gnehs</sub></td>
 <td align="right"><b>239</b></td>
 <td align="right">0</td>
 <td><sub>Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">170</td>
+<td align="right">220</td>
+<td><a href="https://github.com/kelp404"><img src="https://avatars.githubusercontent.com/u/1680868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kelp404"><b>Kelp</b></a><br><sub>&#64;kelp404</sub></td>
+<td align="right"><b>237</b></td>
+<td align="right">0</td>
+<td><sub>Taipei, Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">221</td>
 <td><a href="https://github.com/abynim"><img src="https://avatars.githubusercontent.com/u/7082849?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abynim"><b>Aby Nimbalkar</b></a><br><sub>&#64;abynim</sub></td>
 <td align="right"><b>232</b></td>
 <td align="right">0</td>
 <td><sub>Taipei, Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">171</td>
+<td align="right">222</td>
 <td><a href="https://github.com/Jintin"><img src="https://avatars.githubusercontent.com/u/3413874?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jintin"><b>Jintin</b></a><br><sub>&#64;Jintin</sub></td>
 <td align="right"><b>221</b></td>
 <td align="right">0</td>
 <td><sub>Taipei, Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">172</td>
+<td align="right">223</td>
 <td><a href="https://github.com/leolin310148"><img src="https://avatars.githubusercontent.com/u/5039811?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leolin310148"><b>Leo Lin</b></a><br><sub>&#64;leolin310148</sub></td>
 <td align="right"><b>219</b></td>
 <td align="right">0</td>
 <td><sub>Taipei, Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">173</td>
+<td align="right">224</td>
+<td><a href="https://github.com/EragonJ"><img src="https://avatars.githubusercontent.com/u/68322?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EragonJ"><b>Ryu &#124; Chia-Lung Chen</b></a><br><sub>&#64;EragonJ</sub></td>
+<td align="right"><b>217</b></td>
+<td align="right">0</td>
+<td><sub>Taipei, Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">225</td>
 <td><a href="https://github.com/chihming"><img src="https://avatars.githubusercontent.com/u/986087?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chihming"><b>Chih-Ming Chen</b></a><br><sub>&#64;chihming</sub></td>
 <td align="right"><b>214</b></td>
 <td align="right">0</td>
 <td><sub>Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">174</td>
+<td align="right">226</td>
 <td><a href="https://github.com/dannvix"><img src="https://avatars.githubusercontent.com/u/80781?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dannvix"><b>Dan Chen</b></a><br><sub>&#64;dannvix</sub></td>
 <td align="right"><b>210</b></td>
 <td align="right">0</td>
 <td><sub>Taipei, Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">175</td>
+<td align="right">227</td>
 <td><a href="https://github.com/onceupon"><img src="https://avatars.githubusercontent.com/u/7253159?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/onceupon"><b>Bonnie I-Man Ng</b></a><br><sub>&#64;onceupon</sub></td>
 <td align="right"><b>210</b></td>
 <td align="right">0</td>
 <td><sub>Taipei</sub></td>
 </tr>
 <tr>
-<td align="right">176</td>
+<td align="right">228</td>
+<td><a href="https://github.com/jayin92"><img src="https://avatars.githubusercontent.com/u/11909159?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jayin92"><b>李杰穎 (Jie-Ying Lee)</b></a><br><sub>&#64;jayin92</sub></td>
+<td align="right"><b>208</b></td>
+<td align="right">0</td>
+<td><sub>Hsinchu, Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">229</td>
 <td><a href="https://github.com/kevingo"><img src="https://avatars.githubusercontent.com/u/1113954?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kevingo"><b>kevingo</b></a><br><sub>&#64;kevingo</sub></td>
 <td align="right"><b>205</b></td>
 <td align="right">0</td>
 <td><sub>Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">177</td>
+<td align="right">230</td>
 <td><a href="https://github.com/realdennis"><img src="https://avatars.githubusercontent.com/u/26633162?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/realdennis"><b>Dennis</b></a><br><sub>&#64;realdennis</sub></td>
 <td align="right"><b>204</b></td>
 <td align="right">0</td>
 <td><sub>Taipei</sub></td>
 </tr>
 <tr>
-<td align="right">178</td>
+<td align="right">231</td>
 <td><a href="https://github.com/fcwu"><img src="https://avatars.githubusercontent.com/u/165370?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fcwu"><b>Doro Wu</b></a><br><sub>&#64;fcwu</sub></td>
 <td align="right"><b>190</b></td>
 <td align="right">0</td>
 <td><sub>Taipei</sub></td>
 </tr>
 <tr>
-<td align="right">179</td>
+<td align="right">232</td>
 <td><a href="https://github.com/guillaumechereau"><img src="https://avatars.githubusercontent.com/u/107679?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/guillaumechereau"><b>Guillaume Chereau</b></a><br><sub>&#64;guillaumechereau</sub></td>
 <td align="right"><b>184</b></td>
 <td align="right">0</td>
 <td><sub>Taipei, Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">180</td>
+<td align="right">233</td>
 <td><a href="https://github.com/danny0838"><img src="https://avatars.githubusercontent.com/u/531417?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danny0838"><b>Danny Lin</b></a><br><sub>&#64;danny0838</sub></td>
 <td align="right"><b>180</b></td>
 <td align="right">0</td>
 <td><sub>Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">181</td>
+<td align="right">234</td>
 <td><a href="https://github.com/smallcorgi"><img src="https://avatars.githubusercontent.com/u/10387972?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/smallcorgi"><b>Fu-Hsiang Chan</b></a><br><sub>&#64;smallcorgi</sub></td>
 <td align="right"><b>176</b></td>
 <td align="right">0</td>
 <td><sub>Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">182</td>
+<td align="right">235</td>
 <td><a href="https://github.com/ranile"><img src="https://avatars.githubusercontent.com/u/47357913?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ranile"><b>Elina</b></a><br><sub>&#64;ranile</sub></td>
 <td align="right"><b>174</b></td>
 <td align="right">0</td>
 <td><sub>Taipei, Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">183</td>
+<td align="right">236</td>
 <td><a href="https://github.com/asdfghj1237890"><img src="https://avatars.githubusercontent.com/u/21298753?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asdfghj1237890"><b>asdfghj1237890</b></a><br><sub>&#64;asdfghj1237890</sub></td>
 <td align="right"><b>169</b></td>
 <td align="right">0</td>
 <td><sub>Taipei, Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">184</td>
+<td align="right">237</td>
 <td><a href="https://github.com/plateaukao"><img src="https://avatars.githubusercontent.com/u/4084738?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/plateaukao"><b>Daniel Kao</b></a><br><sub>&#64;plateaukao</sub></td>
 <td align="right"><b>164</b></td>
 <td align="right">0</td>
 <td><sub>Taipei</sub></td>
 </tr>
 <tr>
-<td align="right">185</td>
+<td align="right">238</td>
 <td><a href="https://github.com/AndroBugs"><img src="https://avatars.githubusercontent.com/u/7159187?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AndroBugs"><b>Yu-Cheng Lin</b></a><br><sub>&#64;AndroBugs</sub></td>
 <td align="right"><b>142</b></td>
 <td align="right">0</td>
 <td><sub>Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">186</td>
+<td align="right">239</td>
 <td><a href="https://github.com/Naetw"><img src="https://avatars.githubusercontent.com/u/21299767?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Naetw"><b>Naetw</b></a><br><sub>&#64;Naetw</sub></td>
 <td align="right"><b>134</b></td>
 <td align="right">0</td>
 <td><sub>Hsinchu/Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">187</td>
+<td align="right">240</td>
 <td><a href="https://github.com/Ice1187"><img src="https://avatars.githubusercontent.com/u/38059464?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ice1187"><b>Ice1187</b></a><br><sub>&#64;Ice1187</sub></td>
 <td align="right"><b>122</b></td>
 <td align="right">0</td>
 <td><sub>Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">188</td>
+<td align="right">241</td>
 <td><a href="https://github.com/victoresque"><img src="https://avatars.githubusercontent.com/u/23093439?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/victoresque"><b>Victor Huang</b></a><br><sub>&#64;victoresque</sub></td>
 <td align="right"><b>122</b></td>
 <td align="right">0</td>
 <td><sub>Taipei, Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">189</td>
+<td align="right">242</td>
 <td><a href="https://github.com/allenk"><img src="https://avatars.githubusercontent.com/u/1035004?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/allenk"><b>AllenK (kwyshell)</b></a><br><sub>&#64;allenk</sub></td>
 <td align="right"><b>121</b></td>
 <td align="right">0</td>
 <td><sub>Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">190</td>
+<td align="right">243</td>
 <td><a href="https://github.com/charliie-dev"><img src="https://avatars.githubusercontent.com/u/32497323?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/charliie-dev"><b>Charles Chiu</b></a><br><sub>&#64;charliie-dev</sub></td>
 <td align="right"><b>115</b></td>
 <td align="right">0</td>
 <td><sub>Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">191</td>
+<td align="right">244</td>
+<td><a href="https://github.com/stevenshiau"><img src="https://avatars.githubusercontent.com/u/2124129?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stevenshiau"><b>Steven Shiau</b></a><br><sub>&#64;stevenshiau</sub></td>
+<td align="right"><b>115</b></td>
+<td align="right">0</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">245</td>
 <td><a href="https://github.com/Zero6992"><img src="https://avatars.githubusercontent.com/u/89479282?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Zero6992"><b>Zero6992</b></a><br><sub>&#64;Zero6992</sub></td>
 <td align="right"><b>115</b></td>
 <td align="right">0</td>
 <td><sub>Taipei</sub></td>
 </tr>
 <tr>
-<td align="right">192</td>
+<td align="right">246</td>
 <td><a href="https://github.com/christopheradams"><img src="https://avatars.githubusercontent.com/u/60711?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/christopheradams"><b>Christopher Adams</b></a><br><sub>&#64;christopheradams</sub></td>
 <td align="right"><b>114</b></td>
 <td align="right">0</td>
 <td><sub>Taipei</sub></td>
 </tr>
 <tr>
-<td align="right">193</td>
+<td align="right">247</td>
 <td><a href="https://github.com/edenfunf"><img src="https://avatars.githubusercontent.com/u/146086744?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/edenfunf"><b>Eden</b></a><br><sub>&#64;edenfunf</sub></td>
 <td align="right"><b>109</b></td>
 <td align="right">0</td>
 <td><sub>Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">194</td>
+<td align="right">248</td>
 <td><a href="https://github.com/JiaRenChang"><img src="https://avatars.githubusercontent.com/u/11732099?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JiaRenChang"><b>Jia-Ren Chang</b></a><br><sub>&#64;JiaRenChang</sub></td>
 <td align="right"><b>107</b></td>
 <td align="right">0</td>
 <td><sub>Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">195</td>
+<td align="right">249</td>
 <td><a href="https://github.com/FuYaoDe"><img src="https://avatars.githubusercontent.com/u/6357215?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FuYaoDe"><b>FuYaoDe</b></a><br><sub>&#64;FuYaoDe</sub></td>
 <td align="right"><b>101</b></td>
 <td align="right">0</td>
 <td><sub>Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">196</td>
+<td align="right">250</td>
 <td><a href="https://github.com/LittleSurvival"><img src="https://avatars.githubusercontent.com/u/66905920?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LittleSurvival"><b>TheNano</b></a><br><sub>&#64;LittleSurvival</sub></td>
 <td align="right"><b>100</b></td>
 <td align="right">0</td>
 <td><sub>Taipei</sub></td>
 </tr>
 <tr>
-<td align="right">197</td>
+<td align="right">251</td>
 <td><a href="https://github.com/PkmX"><img src="https://avatars.githubusercontent.com/u/610615?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PkmX"><b>Chih-Mao Chen</b></a><br><sub>&#64;PkmX</sub></td>
 <td align="right"><b>100</b></td>
 <td align="right">0</td>
 <td><sub>Taipei, Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">198</td>
+<td align="right">252</td>
 <td><a href="https://github.com/lin-ycv"><img src="https://avatars.githubusercontent.com/u/60565737?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lin-ycv"><b>Lin Yu-Chieh (Victor)</b></a><br><sub>&#64;lin-ycv</sub></td>
 <td align="right"><b>99</b></td>
 <td align="right">0</td>
 <td><sub>Taipei, Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">199</td>
+<td align="right">253</td>
 <td><a href="https://github.com/zi-yue-1129"><img src="https://avatars.githubusercontent.com/u/102524453?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zi-yue-1129"><b>CHAO ZI YUE</b></a><br><sub>&#64;zi-yue-1129</sub></td>
 <td align="right"><b>98</b></td>
 <td align="right">0</td>
 <td><sub>Taipei</sub></td>
 </tr>
 <tr>
-<td align="right">200</td>
+<td align="right">254</td>
 <td><a href="https://github.com/DaxiaK"><img src="https://avatars.githubusercontent.com/u/7134978?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DaxiaK"><b>DA-XIA</b></a><br><sub>&#64;DaxiaK</sub></td>
 <td align="right"><b>97</b></td>
 <td align="right">0</td>
 <td><sub>Kaohsiung , Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">201</td>
+<td align="right">255</td>
 <td><a href="https://github.com/hhhuang"><img src="https://avatars.githubusercontent.com/u/1787950?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hhhuang"><b>Hen-Hsen Huang</b></a><br><sub>&#64;hhhuang</sub></td>
 <td align="right"><b>96</b></td>
 <td align="right">0</td>
 <td><sub>Taipei City, Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">202</td>
+<td align="right">256</td>
 <td><a href="https://github.com/CatxFish"><img src="https://avatars.githubusercontent.com/u/20623538?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CatxFish"><b>Han-Tai Chen</b></a><br><sub>&#64;CatxFish</sub></td>
 <td align="right"><b>92</b></td>
 <td align="right">0</td>
 <td><sub>Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">203</td>
+<td align="right">257</td>
 <td><a href="https://github.com/Minidoracat"><img src="https://avatars.githubusercontent.com/u/11269639?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Minidoracat"><b>Minidoracat</b></a><br><sub>&#64;Minidoracat</sub></td>
 <td align="right"><b>92</b></td>
 <td align="right">0</td>
 <td><sub>Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">204</td>
+<td align="right">258</td>
 <td><a href="https://github.com/sepfy"><img src="https://avatars.githubusercontent.com/u/22016807?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sepfy"><b>sepfy</b></a><br><sub>&#64;sepfy</sub></td>
 <td align="right"><b>91</b></td>
 <td align="right">0</td>
 <td><sub>Taipei, Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">205</td>
+<td align="right">259</td>
 <td><a href="https://github.com/hothero"><img src="https://avatars.githubusercontent.com/u/665345?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hothero"><b>Ronald Hsu (hothero)</b></a><br><sub>&#64;hothero</sub></td>
 <td align="right"><b>90</b></td>
 <td align="right">0</td>
 <td><sub>Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">206</td>
+<td align="right">260</td>
+<td><a href="https://github.com/Augus"><img src="https://avatars.githubusercontent.com/u/1012267?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Augus"><b>Augus</b></a><br><sub>&#64;Augus</sub></td>
+<td align="right"><b>86</b></td>
+<td align="right">0</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">261</td>
 <td><a href="https://github.com/djiangtw"><img src="https://avatars.githubusercontent.com/u/6919372?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/djiangtw"><b>Danny Jiang</b></a><br><sub>&#64;djiangtw</sub></td>
 <td align="right"><b>85</b></td>
 <td align="right">0</td>
 <td><sub>Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">207</td>
+<td align="right">262</td>
 <td><a href="https://github.com/kuanhungchen"><img src="https://avatars.githubusercontent.com/u/43292228?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kuanhungchen"><b>Hank Chen</b></a><br><sub>&#64;kuanhungchen</sub></td>
 <td align="right"><b>76</b></td>
 <td align="right">0</td>
 <td><sub>Taipei, Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">208</td>
+<td align="right">263</td>
 <td><a href="https://github.com/AWeirdDev"><img src="https://avatars.githubusercontent.com/u/90096971?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AWeirdDev"><b>awd</b></a><br><sub>&#64;AWeirdDev</sub></td>
 <td align="right"><b>73</b></td>
 <td align="right">0</td>
 <td><sub>NTPC, Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">209</td>
+<td align="right">264</td>
 <td><a href="https://github.com/riddleling"><img src="https://avatars.githubusercontent.com/u/854397?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/riddleling"><b>Ling, Wei-Cheng 凌偉誠</b></a><br><sub>&#64;riddleling</sub></td>
 <td align="right"><b>73</b></td>
 <td align="right">0</td>
 <td><sub>Kaohsiung, Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">210</td>
+<td align="right">265</td>
 <td><a href="https://github.com/kf99916"><img src="https://avatars.githubusercontent.com/u/6695195?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kf99916"><b>Ke Zheng-Xiang</b></a><br><sub>&#64;kf99916</sub></td>
 <td align="right"><b>71</b></td>
 <td align="right">0</td>
 <td><sub>Taipei, Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">211</td>
+<td align="right">266</td>
+<td><a href="https://github.com/mnicnc404"><img src="https://avatars.githubusercontent.com/u/2225912?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mnicnc404"><b>CNC</b></a><br><sub>&#64;mnicnc404</sub></td>
+<td align="right"><b>68</b></td>
+<td align="right">0</td>
+<td><sub>Taipei, Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">267</td>
 <td><a href="https://github.com/shinkuan"><img src="https://avatars.githubusercontent.com/u/35415788?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shinkuan"><b>shinkuan</b></a><br><sub>&#64;shinkuan</sub></td>
 <td align="right"><b>67</b></td>
 <td align="right">0</td>
 <td><sub>Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">212</td>
+<td align="right">268</td>
 <td><a href="https://github.com/jj811208"><img src="https://avatars.githubusercontent.com/u/25342059?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jj811208"><b>Ryan Chu</b></a><br><sub>&#64;jj811208</sub></td>
 <td align="right"><b>55</b></td>
 <td align="right">0</td>
 <td><sub>Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">213</td>
+<td align="right">269</td>
 <td><a href="https://github.com/hsuanyi-chou"><img src="https://avatars.githubusercontent.com/u/21173302?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hsuanyi-chou"><b>Ryan.Chou-ggl</b></a><br><sub>&#64;hsuanyi-chou</sub></td>
 <td align="right"><b>54</b></td>
 <td align="right">0</td>
 <td><sub>Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">214</td>
+<td align="right">270</td>
 <td><a href="https://github.com/awdr74100"><img src="https://avatars.githubusercontent.com/u/47501692?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/awdr74100"><b>Roya</b></a><br><sub>&#64;awdr74100</sub></td>
 <td align="right"><b>50</b></td>
 <td align="right">0</td>
 <td><sub>Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">215</td>
+<td align="right">271</td>
 <td><a href="https://github.com/ACh-K"><img src="https://avatars.githubusercontent.com/u/98224334?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ACh-K"><b>ACh</b></a><br><sub>&#64;ACh-K</sub></td>
 <td align="right"><b>49</b></td>
 <td align="right">0</td>
 <td><sub>Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">216</td>
+<td align="right">272</td>
+<td><a href="https://github.com/ShawnLin013"><img src="https://avatars.githubusercontent.com/u/1764205?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ShawnLin013"><b>Shawn</b></a><br><sub>&#64;ShawnLin013</sub></td>
+<td align="right"><b>39</b></td>
+<td align="right">0</td>
+<td><sub>Taiwan</sub></td>
+</tr>
+<tr>
+<td align="right">273</td>
 <td><a href="https://github.com/cjo4m06"><img src="https://avatars.githubusercontent.com/u/5926203?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cjo4m06"><b>Siage</b></a><br><sub>&#64;cjo4m06</sub></td>
 <td align="right"><b>34</b></td>
 <td align="right">0</td>
 <td><sub>Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">217</td>
+<td align="right">274</td>
 <td><a href="https://github.com/tanshuai"><img src="https://avatars.githubusercontent.com/u/3947852?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tanshuai"><b>Tan Shuai</b></a><br><sub>&#64;tanshuai</sub></td>
 <td align="right"><b>26</b></td>
 <td align="right">0</td>
 <td><sub>Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">218</td>
+<td align="right">275</td>
+<td><a href="https://github.com/ysde"><img src="https://avatars.githubusercontent.com/u/4714260?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ysde"><b>ArthurYueh</b></a><br><sub>&#64;ysde</sub></td>
+<td align="right"><b>15</b></td>
+<td align="right">0</td>
+<td><sub>Taiwan/Taipei</sub></td>
+</tr>
+<tr>
+<td align="right">276</td>
 <td><a href="https://github.com/shanliuling"><img src="https://avatars.githubusercontent.com/u/83563400?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shanliuling"><b>Cheshire</b></a><br><sub>&#64;shanliuling</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">0</td>
 <td><sub>Taipei</sub></td>
 </tr>
 <tr>
-<td align="right">219</td>
+<td align="right">277</td>
 <td><a href="https://github.com/CreditTone"><img src="https://avatars.githubusercontent.com/u/7986355?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CreditTone"><b>Wang Yalin</b></a><br><sub>&#64;CreditTone</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Taipei</sub></td>
 </tr>
 <tr>
-<td align="right">220</td>
+<td align="right">278</td>
 <td><a href="https://github.com/orangetw"><img src="https://avatars.githubusercontent.com/u/3805558?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/orangetw"><b>Orange Tsai</b></a><br><sub>&#64;orangetw</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Taiwan</sub></td>
 </tr>
 <tr>
-<td align="right">221</td>
+<td align="right">279</td>
 <td><a href="https://github.com/WhatTheBlock"><img src="https://avatars.githubusercontent.com/u/34786954?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/WhatTheBlock"><b>WhatTheBlock</b></a><br><sub>&#64;WhatTheBlock</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -1576,7 +1982,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 221 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 279 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **72** | 02 Nov 2026 | <a href="../data/PK.json">JSON</a> |
-
-> **Not yet re-verified.** 8 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **78** | 22 Nov 2026 | <a href="../data/PK.json">JSON</a> |
 
 </div>
 
@@ -473,59 +471,101 @@
 </tr>
 <tr>
 <td align="right">65</td>
-<td><img src="https://github.com/Ameen-Alam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ameen-Alam/CNC-Docker"><b>Ameen-Alam/CNC-Docker</b></a></td>
-<td align="right"><b>195</b></td>
-<td align="right">101</td>
-<td>Dockerfile</td>
+<td><img src="https://github.com/hash3liZer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hash3liZer/WiFiBroot"><b>hash3liZer/WiFiBroot</b></a><br><sub>A Wireless (WPA/WPA2) Pentest/Cracking tool. Captures &amp; Crack 4-way handshake and PMKID key. Also, supports a deauthent…</sub></td>
+<td align="right"><b>1,139</b></td>
+<td align="right">187</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">66</td>
-<td><img src="https://github.com/AsharibAli.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AsharibAli/100-days-of-code"><b>AsharibAli/100-days-of-code</b></a></td>
-<td align="right"><b>192</b></td>
-<td align="right">31</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/mzeeshanid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mzeeshanid/MZDownloadManager"><b>mzeeshanid/MZDownloadManager</b></a><br><sub>This download manager uses NSURLSession api to download files. It can download multiple files at a time. It can downloa…</sub></td>
+<td align="right"><b>1,116</b></td>
+<td align="right">233</td>
+<td>Swift</td>
 </tr>
 <tr>
 <td align="right">67</td>
-<td><img src="https://github.com/ghousahmed.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ghousahmed/modern-web-and-app-development"><b>ghousahmed/modern-web-and-app-development</b></a></td>
-<td align="right"><b>148</b></td>
-<td align="right">47</td>
-<td>—</td>
+<td><img src="https://github.com/MHaroonBaig.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MHaroonBaig/MotionKit"><b>MHaroonBaig/MotionKit</b></a><br><sub>Get the data from Accelerometer, Gyroscope and Magnetometer in only Two or a few lines of code. CoreMotion now made ins…</sub></td>
+<td align="right"><b>1,080</b></td>
+<td align="right">130</td>
+<td>Swift</td>
 </tr>
 <tr>
 <td align="right">68</td>
-<td><img src="https://github.com/rashidwassan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rashidwassan/My-Ultimate-OSINT-Arsenal"><b>rashidwassan/My-Ultimate-OSINT-Arsenal</b></a></td>
-<td align="right"><b>141</b></td>
-<td align="right">25</td>
-<td>—</td>
+<td><img src="https://github.com/Enclavely.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Enclavely/tailor"><b>Enclavely/tailor</b></a><br><sub>Build beautiful page layouts quickly and easily using your favourite WordPress theme.</sub></td>
+<td align="right"><b>1,032</b></td>
+<td align="right">98</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">69</td>
-<td><img src="https://github.com/EimanTahir027.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EimanTahir027/Python-Programming-Basics-For-Artificial-Intelligence"><b>EimanTahir027/Python-Programming-Basics-For-Artificial-Intelligence</b></a></td>
-<td align="right"><b>132</b></td>
-<td align="right">5</td>
+<td><img src="https://github.com/shanraisshan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shanraisshan/codex-cli-best-practice"><b>shanraisshan/codex-cli-best-practice</b></a><br><sub>from vibe coding to agentic engineering - practice makes codex perfect</sub></td>
+<td align="right"><b>1,030</b></td>
+<td align="right">68</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">70</td>
-<td><img src="https://github.com/ubedshah.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ubedshah/manga-vault-nexus"><b>ubedshah/manga-vault-nexus</b></a></td>
-<td align="right"><b>116</b></td>
-<td align="right">0</td>
-<td>HTML</td>
+<td><img src="https://github.com/FareedKhan-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FareedKhan-dev/production-grade-agentic-system"><b>FareedKhan-dev/production-grade-agentic-system</b></a><br><sub>Core 7 layers of production grade agentic system</sub></td>
+<td align="right"><b>1,024</b></td>
+<td align="right">241</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">71</td>
-<td><img src="https://github.com/MuhammadMohsin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MuhammadMohsin/PanacloudBootcamp2020"><b>MuhammadMohsin/PanacloudBootcamp2020</b></a></td>
-<td align="right"><b>105</b></td>
-<td align="right">82</td>
-<td>HTML</td>
+<td><img src="https://github.com/ranahaani.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ranahaani/GNews"><b>ranahaani/GNews</b></a><br><sub>A Happy and lightweight Python Package that Provides an API to search for articles on Google News and returns a JSON re…</sub></td>
+<td align="right"><b>1,017</b></td>
+<td align="right">150</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">72</td>
-<td><img src="https://github.com/fazeelkhalid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fazeelkhalid/Free-Responsive-Web-UI-Kit---Dashboard-Template-bootstrap"><b>fazeelkhalid/Free-Responsive-Web-UI-Kit---Dashboard-Template-bootstrap</b></a></td>
-<td align="right"><b>97</b></td>
-<td align="right">40</td>
-<td>HTML</td>
+<td><img src="https://github.com/Rykode.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Rykode/GodotHub"><b>Rykode/GodotHub</b></a><br><sub>What if Unity Hub and GitHub Desktop had a Baby but its Adopted? Yeah..</sub></td>
+<td align="right"><b>995</b></td>
+<td align="right">44</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><img src="https://github.com/evildevill.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/evildevill/Devil"><b>evildevill/Devil</b></a><br><sub>Devil is a tool that is basically made for facebook to Hack target accounts , BruteForce Attack , grab friendlist accou…</sub></td>
+<td align="right"><b>986</b></td>
+<td align="right">140</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/meerilahi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/meerilahi/Books-Collection"><b>meerilahi/Books-Collection</b></a><br><sub>This repository contains a collection of books I have downloaded related to &#42;&#42;Mathematics&#42;&#42;, &#42;&#42;Artificial Intelligence…</sub></td>
+<td align="right"><b>966</b></td>
+<td align="right">340</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/naqashafzal.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/naqashafzal/AI-Content-Studio"><b>naqashafzal/AI-Content-Studio</b></a><br><sub>A 100% free &amp; open-source AI Content Automation Tool that writes scripts, generates voiceovers, creates videos, and upl…</sub></td>
+<td align="right"><b>964</b></td>
+<td align="right">234</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/streetwriters.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/streetwriters/notesnook-sync-server"><b>streetwriters/notesnook-sync-server</b></a><br><sub>Sync server for Notesnook (self-hosting in alpha)</sub></td>
+<td align="right"><b>958</b></td>
+<td align="right">79</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/hash3liZer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hash3liZer/SillyRAT"><b>hash3liZer/SillyRAT</b></a><br><sub>A Python based RAT 🐀 (Remote Access Trojan) for getting reverse shell 🖥️</sub></td>
+<td align="right"><b>944</b></td>
+<td align="right">176</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/ahmad9059.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ahmad9059/HyprFlux"><b>ahmad9059/HyprFlux</b></a><br><sub>HyprFlux : Minimal, productive, elegant, and fast</sub></td>
+<td align="right"><b>909</b></td>
+<td align="right">62</td>
+<td>CSS</td>
 </tr>
 </tbody>
 </table>
@@ -533,12 +573,11 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 97 stars; 72 attributed candidates are tracked.
-- 8 entries were carried over from the previous dataset and are pending revalidation.
-- 142 multi-repository owners are queued for expansion.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Cutoff:** the last listed repository has 909 stars; 78 attributed candidates are tracked.
+- 139 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 147 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

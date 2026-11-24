@@ -5,10 +5,10 @@
 "country": {"code":"PM","name":"St. Pierre & Miquelon","slug":"st-pierre-miquelon"},
 "status": "building",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":14,"measuredAccounts":5,"measurementBacklog":9,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":18,"measuredAccounts":7,"measurementBacklog":11,"window":null,"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":22,"unresolved":0}},
 "users": [],
-"contentHash": "997c90bea6096186",
-"updatedAt": "2026-11-23T13:10:04.236Z",
+"contentHash": "e5731d8f7a752d58",
+"updatedAt": "2026-11-24T01:31:49.018Z",
 "verifiedOn": null,
-"generatedAt": "2026-11-23T13:10:04.236Z"
+"generatedAt": "2026-11-24T01:31:49.018Z"
 }

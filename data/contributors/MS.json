@@ -5,12 +5,13 @@
 "country": {"code":"MS","name":"Montserrat","slug":"montserrat"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":18,"measuredAccounts":5,"measurementBacklog":13,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":8,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":18,"measuredAccounts":7,"measurementBacklog":11,"window":{"from":"2025-11-24T01:00:00Z","to":"2026-11-24T01:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":8,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjE1Njg1Mzc2","login":"MagicStarTrace","name":"Magic","url":"https://github.com/MagicStarTrace","avatarUrl":"https://avatars.githubusercontent.com/u/15685376?s=80&v=4","followers":6,"publicRepos":22,"location":"0008 ,Mayer Pike ,Port Lesaborough ,Arkansas ,Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":21,"commits":9,"pullRequests":0,"reviews":0,"issues":11,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjc3NjI1Njg=","login":"SpicePayne","name":"Sasha Payne","url":"https://github.com/SpicePayne","avatarUrl":"https://avatars.githubusercontent.com/u/7762568?s=80&v=4","followers":0,"publicRepos":5,"location":"Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":25,"commits":22,"pullRequests":3,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
+  {"rank":2,"id":"MDQ6VXNlcjE1Njg1Mzc2","login":"MagicStarTrace","name":"Magic","url":"https://github.com/MagicStarTrace","avatarUrl":"https://avatars.githubusercontent.com/u/15685376?s=80&v=4","followers":6,"publicRepos":22,"location":"0008 ,Mayer Pike ,Port Lesaborough ,Arkansas ,Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":21,"commits":9,"pullRequests":0,"reviews":0,"issues":11,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "1a8d4694c05aa37d",
-"updatedAt": "2026-11-23T13:10:04.236Z",
+"contentHash": "5570437eeb8295b4",
+"updatedAt": "2026-11-24T01:31:49.018Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T13:10:04.236Z"
+"generatedAt": "2026-11-24T01:31:49.018Z"
 }

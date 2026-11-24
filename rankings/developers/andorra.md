@@ -59,7 +59,7 @@
 <tr>
 <td align="right">6</td>
 <td><a href="https://github.com/jorge07"><img src="https://avatars.githubusercontent.com/u/4022187?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jorge07"><b>Jorge Arco</b></a><br><sub>&#64;jorge07</sub></td>
-<td align="right"><b>254</b></td>
+<td align="right"><b>253</b></td>
 <td align="right">121</td>
 <td><sub>Escaldes, Andorra</sub></td>
 </tr>

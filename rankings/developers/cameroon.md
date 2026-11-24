@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/developers/CM.json">JSON</a> |
+| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/developers/CM.json">JSON</a> |
 
 </div>
 
@@ -87,12 +87,26 @@
 <tr>
 <td align="right">10</td>
 <td><a href="https://github.com/NgamiBaruch"><img src="https://avatars.githubusercontent.com/u/150728460?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NgamiBaruch"><b>NgamiBaruch</b></a><br><sub>&#64;NgamiBaruch</sub></td>
-<td align="right"><b>355</b></td>
+<td align="right"><b>354</b></td>
 <td align="right">24</td>
 <td><sub>Douala Cameroun</sub></td>
 </tr>
 <tr>
 <td align="right">11</td>
+<td><a href="https://github.com/donaldte"><img src="https://avatars.githubusercontent.com/u/81464575?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/donaldte"><b>donald programmeur</b></a><br><sub>&#64;donaldte</sub></td>
+<td align="right"><b>327</b></td>
+<td align="right">190</td>
+<td><sub>Bamenda/Cameroon</sub></td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><a href="https://github.com/kenrique100"><img src="https://avatars.githubusercontent.com/u/72971484?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kenrique100"><b>Kenrique &#95;Ngwa</b></a><br><sub>&#64;kenrique100</sub></td>
+<td align="right"><b>285</b></td>
+<td align="right">107</td>
+<td><sub>Cameroon</sub></td>
+</tr>
+<tr>
+<td align="right">13</td>
 <td><a href="https://github.com/Blair2004"><img src="https://avatars.githubusercontent.com/u/5265663?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Blair2004"><b>Blair Jersyer</b></a><br><sub>&#64;Blair2004</sub></td>
 <td align="right"><b>177</b></td>
 <td align="right">0</td>
@@ -106,7 +120,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 11 attributed developers are tracked; the cutoff is 177 followers.
+- Organizations are excluded. 13 attributed developers are tracked; the cutoff is 177 followers.
 - **Location discovery:** term 0 of 115 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

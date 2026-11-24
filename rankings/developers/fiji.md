@@ -1460,7 +1460,7 @@
 <td align="right">206</td>
 <td><a href="https://github.com/jashwinsingh11"><img src="https://avatars.githubusercontent.com/u/111979486?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jashwinsingh11"><b>Jashwin Singh</b></a><br><sub>&#64;jashwinsingh11</sub></td>
 <td align="right"><b>0</b></td>
-<td align="right">106</td>
+<td align="right">107</td>
 <td><sub>Suva Fiji</sub></td>
 </tr>
 <tr>

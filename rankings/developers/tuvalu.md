@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/developers/TV.json">JSON</a> |
+| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/developers/TV.json">JSON</a> |
 
 </div>
 
@@ -30,20 +30,34 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/deltaost"><img src="https://avatars.githubusercontent.com/u/123672744?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/deltaost"><b>deltaost</b></a><br><sub>&#64;deltaost</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">1</td>
+<td><sub>Funafuti, Tuvalu</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/binge-inc"><img src="https://avatars.githubusercontent.com/u/180054935?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/binge-inc"><b>Binge Watch Incorporated</b></a><br><sub>&#64;binge-inc</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Tuvalu</sub></td>
 </tr>
 <tr>
+<td align="right">4</td>
+<td><a href="https://github.com/Dan-Creative"><img src="https://avatars.githubusercontent.com/u/140185189?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dan-Creative"><b>Доктор Кал</b></a><br><sub>&#64;Dan-Creative</sub></td>
+<td align="right"><b>0</b></td>
 <td align="right">3</td>
+<td><sub>Funafuti</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/alessandroocapa"><img src="https://avatars.githubusercontent.com/u/124882769?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alessandroocapa"><b>Randall Flagg</b></a><br><sub>&#64;alessandroocapa</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>tuvalu</sub></td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">6</td>
 <td><a href="https://github.com/apfour"><img src="https://avatars.githubusercontent.com/u/83987724?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/apfour"><b>Ap4</b></a><br><sub>&#64;apfour</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
@@ -57,7 +71,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 4 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 6 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

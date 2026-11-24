@@ -5,7 +5,7 @@
 "country": {"code":"CZ","name":"Czechia","slug":"czechia"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":1471,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":134,"candidates":136,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":178,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":1471,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":134,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":178,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOMHUFFA","name":"agent-zero","nameWithOwner":"agent0ai/agent-zero","url":"https://github.com/agent0ai/agent-zero","description":"Agent Zero AI framework","stars":19947,"forks":3897,"primaryLanguage":"Python","license":{"spdxId":"NOASSERTION"},"createdAt":"2024-06-10T09:10:45Z","pushedAt":"2026-11-22T09:47:21Z","archived":false,"owner":{"login":"agent0ai","name":"Agent Zero","type":"Organization","url":"https://github.com/agent0ai","location":"Czech Republic","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnk4NjE4MjQ5MA==","name":"Playnite","nameWithOwner":"JosefNemec/Playnite","url":"https://github.com/JosefNemec/Playnite","description":"Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.","stars":14565,"forks":715,"primaryLanguage":"C#","license":{"spdxId":"MIT"},"createdAt":"2017-03-25T19:16:06Z","pushedAt":"2026-11-18T20:41:10Z","archived":false,"owner":{"login":"JosefNemec","name":"Josef Nemec","type":"User","url":"https://github.com/JosefNemec","location":"Czech Republic","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"MDEwOlJlcG9zaXRvcnk0ODMyMzA5MA==","name":"coding-standard","nameWithOwner":"slevomat/coding-standard","url":"https://github.com/slevomat/coding-standard","description":"Slevomat Coding Standard for PHP_CodeSniffer provides many useful sniffs","stars":1478,"forks":200,"primaryLanguage":"PHP","license":{"spdxId":"MIT"},"createdAt":"2015-12-20T14:06:43Z","pushedAt":"2026-11-17T18:20:44Z","archived":false,"owner":{"login":"slevomat","name":"Slevomat","type":"Organization","url":"https://github.com/slevomat","location":"Prague, Czech Republic","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-23"},
   {"rank":100,"id":"MDEwOlJlcG9zaXRvcnkzNjE4Mjg0NTI=","name":"Systemizer","nameWithOwner":"honzaap/Systemizer","url":"https://github.com/honzaap/Systemizer","description":"A system design tool that allows you to simulate data flow of distributed systems.","stars":1471,"forks":93,"primaryLanguage":"TypeScript","license":{"spdxId":"GPL-3.0"},"createdAt":"2021-04-26T17:00:21Z","pushedAt":"2026-09-10T19:26:04Z","archived":false,"owner":{"login":"honzaap","name":"Jan Pánek","type":"User","url":"https://github.com/honzaap","location":"Liberec","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "0ac9c047216ab61b",
-"updatedAt": "2026-11-23T13:10:04.236Z",
+"contentHash": "60001e1ff38295d9",
+"updatedAt": "2026-11-24T01:31:49.018Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T13:10:04.236Z"
+"generatedAt": "2026-11-24T01:31:49.018Z"
 }

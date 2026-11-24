@@ -14,17 +14,26 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/TH.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/TH.json">JSON</a> |
 
 </div>
 
-<p align="center"><sub>Public contributions from <b>22 Nov 2025</b> to <b>22 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
+<p align="center"><sub>Public contributions from <b>24 Nov 2025</b> to <b>24 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
 
 <table>
 <thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Public contributions</th><th align="right">Commits</th><th align="right">PRs</th><th align="right">Reviews</th><th align="right">Issues</th></tr></thead>
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/nazt"><img src="https://avatars.githubusercontent.com/u/89108?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nazt"><b>Nat</b></a><br><sub>&#64;nazt · 328 followers</sub></td>
+<td align="right"><b>21,031</b></td>
+<td align="right">13,176</td>
+<td align="right">5,157</td>
+<td align="right">92</td>
+<td align="right">2,481</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/dtinth"><img src="https://avatars.githubusercontent.com/u/193136?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dtinth"><b>Thai Pangsakulyanont</b></a><br><sub>&#64;dtinth · 2,159 followers</sub></td>
 <td align="right"><b>3,767</b></td>
 <td align="right">3,357</td>
@@ -33,7 +42,7 @@
 <td align="right">88</td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">3</td>
 <td><a href="https://github.com/up1"><img src="https://avatars.githubusercontent.com/u/25113?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/up1"><b>Somkiat Puisungnoen</b></a><br><sub>&#64;up1 · 958 followers</sub></td>
 <td align="right"><b>1,729</b></td>
 <td align="right">1,623</td>
@@ -42,7 +51,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/un4ckn0wl3z"><img src="https://avatars.githubusercontent.com/u/16059320?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/un4ckn0wl3z"><b>unacknowledged¹³³⁷</b></a><br><sub>&#64;un4ckn0wl3z · 619 followers</sub></td>
 <td align="right"><b>1,022</b></td>
 <td align="right">938</td>
@@ -51,7 +60,16 @@
 <td align="right">3</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
+<td><a href="https://github.com/zkan"><img src="https://avatars.githubusercontent.com/u/704794?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zkan"><b>Kan Ouivirach</b></a><br><sub>&#64;zkan · 493 followers</sub></td>
+<td align="right"><b>677</b></td>
+<td align="right">593</td>
+<td align="right">36</td>
+<td align="right">5</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/lebrancconvas"><img src="https://avatars.githubusercontent.com/u/33986491?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lebrancconvas"><b>Poom Yimyuean</b></a><br><sub>&#64;lebrancconvas · 577 followers</sub></td>
 <td align="right"><b>268</b></td>
 <td align="right">236</td>
@@ -60,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">7</td>
 <td><a href="https://github.com/masterUNG"><img src="https://avatars.githubusercontent.com/u/4507287?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/masterUNG"><b>มาสเตอร์ อึ่ง</b></a><br><sub>&#64;masterUNG · 384 followers</sub></td>
 <td align="right"><b>127</b></td>
 <td align="right">114</td>
@@ -75,7 +93,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 5 of 433 discovered developers (428 awaiting measurement).
+- **Measured:** 7 of 446 discovered developers (439 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

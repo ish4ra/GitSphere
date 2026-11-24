@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **38** | 22 Nov 2026 | <a href="../../data/developers/PE.json">JSON</a> |
+| 🟡 Provisional | **52** | 22 Nov 2026 | <a href="../../data/developers/PE.json">JSON</a> |
 
 </div>
 
@@ -261,27 +261,125 @@
 </tr>
 <tr>
 <td align="right">35</td>
-<td><a href="https://github.com/rafaelmardojai"><img src="https://avatars.githubusercontent.com/u/6210397?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rafaelmardojai"><b>Rafael Mardojai CM</b></a><br><sub>&#64;rafaelmardojai</sub></td>
-<td align="right"><b>319</b></td>
-<td align="right">0</td>
-<td><sub>Perú</sub></td>
+<td><a href="https://github.com/luismayta"><img src="https://avatars.githubusercontent.com/u/833664?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/luismayta"><b>Lucho</b></a><br><sub>&#64;luismayta</sub></td>
+<td align="right"><b>338</b></td>
+<td align="right">442</td>
+<td><sub>Lima, Peru</sub></td>
 </tr>
 <tr>
 <td align="right">36</td>
+<td><a href="https://github.com/gianbdev"><img src="https://avatars.githubusercontent.com/u/174745552?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gianbdev"><b>Giancarlo Silva</b></a><br><sub>&#64;gianbdev</sub></td>
+<td align="right"><b>333</b></td>
+<td align="right">36</td>
+<td><sub>Peru</sub></td>
+</tr>
+<tr>
+<td align="right">37</td>
+<td><a href="https://github.com/jorgejacinto9701"><img src="https://avatars.githubusercontent.com/u/18623184?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jorgejacinto9701"><b>jorge jacinto gutarra</b></a><br><sub>&#64;jorgejacinto9701</sub></td>
+<td align="right"><b>323</b></td>
+<td align="right">528</td>
+<td><sub>Lima</sub></td>
+</tr>
+<tr>
+<td align="right">38</td>
+<td><a href="https://github.com/gcoronelc"><img src="https://avatars.githubusercontent.com/u/3131952?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gcoronelc"><b>Eric Gustavo Coronel Castillo</b></a><br><sub>&#64;gcoronelc</sub></td>
+<td align="right"><b>321</b></td>
+<td align="right">314</td>
+<td><sub>PERU</sub></td>
+</tr>
+<tr>
+<td align="right">39</td>
+<td><a href="https://github.com/programacionparaaprender"><img src="https://avatars.githubusercontent.com/u/8290696?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/programacionparaaprender"><b>Programación para aprender</b></a><br><sub>&#64;programacionparaaprender</sub></td>
+<td align="right"><b>321</b></td>
+<td align="right">290</td>
+<td><sub>Cercado Lima - Lima - Perú</sub></td>
+</tr>
+<tr>
+<td align="right">40</td>
+<td><a href="https://github.com/rafaelmardojai"><img src="https://avatars.githubusercontent.com/u/6210397?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rafaelmardojai"><b>Rafael Mardojai CM</b></a><br><sub>&#64;rafaelmardojai</sub></td>
+<td align="right"><b>318</b></td>
+<td align="right">35</td>
+<td><sub>Perú</sub></td>
+</tr>
+<tr>
+<td align="right">41</td>
+<td><a href="https://github.com/MineiToshio"><img src="https://avatars.githubusercontent.com/u/38053554?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MineiToshio"><b>Sergio Toshio Minei</b></a><br><sub>&#64;MineiToshio</sub></td>
+<td align="right"><b>311</b></td>
+<td align="right">53</td>
+<td><sub>Lima / Perú</sub></td>
+</tr>
+<tr>
+<td align="right">42</td>
+<td><a href="https://github.com/enzoftware"><img src="https://avatars.githubusercontent.com/u/22333076?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/enzoftware"><b>Enzo Lizama Paredes</b></a><br><sub>&#64;enzoftware</sub></td>
+<td align="right"><b>308</b></td>
+<td align="right">76</td>
+<td><sub>Lima, Perú</sub></td>
+</tr>
+<tr>
+<td align="right">43</td>
+<td><a href="https://github.com/Anders87x"><img src="https://avatars.githubusercontent.com/u/20407819?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Anders87x"><b>AnderCode</b></a><br><sub>&#64;Anders87x</sub></td>
+<td align="right"><b>307</b></td>
+<td align="right">115</td>
+<td><sub>Peru</sub></td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><a href="https://github.com/elliotgaramendi"><img src="https://avatars.githubusercontent.com/u/62267772?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elliotgaramendi"><b>Elliot Leo Garamendi Sarmiento</b></a><br><sub>&#64;elliotgaramendi</sub></td>
+<td align="right"><b>306</b></td>
+<td align="right">25</td>
+<td><sub>Perú, Lima</sub></td>
+</tr>
+<tr>
+<td align="right">45</td>
+<td><a href="https://github.com/Frave07"><img src="https://avatars.githubusercontent.com/u/76232843?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Frave07"><b>Frave Developer</b></a><br><sub>&#64;Frave07</sub></td>
+<td align="right"><b>303</b></td>
+<td align="right">22</td>
+<td><sub>Perú</sub></td>
+</tr>
+<tr>
+<td align="right">46</td>
+<td><a href="https://github.com/Lamk-S"><img src="https://avatars.githubusercontent.com/u/173479017?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lamk-S"><b>Melvin López</b></a><br><sub>&#64;Lamk-S</sub></td>
+<td align="right"><b>297</b></td>
+<td align="right">18</td>
+<td><sub>Trujillo/La Libertad</sub></td>
+</tr>
+<tr>
+<td align="right">47</td>
+<td><a href="https://github.com/LuisMaldonado-py"><img src="https://avatars.githubusercontent.com/u/85284891?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LuisMaldonado-py"><b>Luis Maldonado de la Torre</b></a><br><sub>&#64;LuisMaldonado-py</sub></td>
+<td align="right"><b>297</b></td>
+<td align="right">10</td>
+<td><sub>Perú</sub></td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><a href="https://github.com/tonykevin"><img src="https://avatars.githubusercontent.com/u/3784449?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tonykevin"><b>Tony kevin &#124; Backend Developer</b></a><br><sub>&#64;tonykevin</sub></td>
+<td align="right"><b>289</b></td>
+<td align="right">21</td>
+<td><sub>Perú</sub></td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><a href="https://github.com/marcelo-earth"><img src="https://avatars.githubusercontent.com/u/47821093?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marcelo-earth"><b>Marcelo</b></a><br><sub>&#64;marcelo-earth</sub></td>
+<td align="right"><b>175</b></td>
+<td align="right">0</td>
+<td><sub>Peru</sub></td>
+</tr>
+<tr>
+<td align="right">50</td>
 <td><a href="https://github.com/CristianOlivera1"><img src="https://avatars.githubusercontent.com/u/171596250?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CristianOlivera1"><b>Cristian Olivera Chávez</b></a><br><sub>&#64;CristianOlivera1</sub></td>
 <td align="right"><b>153</b></td>
 <td align="right">0</td>
 <td><sub>Peru</sub></td>
 </tr>
 <tr>
-<td align="right">37</td>
+<td align="right">51</td>
 <td><a href="https://github.com/leviarista"><img src="https://avatars.githubusercontent.com/u/13615937?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leviarista"><b>Leví Arista</b></a><br><sub>&#64;leviarista</sub></td>
 <td align="right"><b>80</b></td>
 <td align="right">0</td>
 <td><sub>Perú</sub></td>
 </tr>
 <tr>
-<td align="right">38</td>
+<td align="right">52</td>
 <td><a href="https://github.com/hespejob"><img src="https://avatars.githubusercontent.com/u/41070497?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hespejob"><b>Ing. CIP Hugo Espejo</b></a><br><sub>&#64;hespejob</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">8</td>
@@ -295,8 +393,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 38 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 52 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 0 of 118 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

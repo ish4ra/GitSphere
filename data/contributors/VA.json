@@ -5,14 +5,16 @@
 "country": {"code":"VA","name":"Vatican City","slug":"vatican-city"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":31,"measuredAccounts":4,"measurementBacklog":27,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":31,"measuredAccounts":6,"measurementBacklog":25,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjYzMzc4Mw==","login":"LBreda","name":"Lorenzo Breda","url":"https://github.com/LBreda","avatarUrl":"https://avatars.githubusercontent.com/u/633783?s=80&v=4","followers":24,"publicRepos":39,"location":"Vatican City State","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22","contributions":{"public":25,"commits":21,"pullRequests":1,"reviews":0,"issues":0,"repositories":3,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":2,"id":"MDQ6VXNlcjc1ODgyNDU3","login":"NOPR9D","name":"NOPR9D ☄️","url":"https://github.com/NOPR9D","avatarUrl":"https://avatars.githubusercontent.com/u/75882457?s=80&v=4","followers":16,"publicRepos":28,"location":"Vatican City State (Holy See)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":15,"commits":14,"pullRequests":0,"reviews":0,"issues":1,"repositories":0,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
-  {"rank":3,"id":"U_kgDOBdeJiw","login":"dru91ce","name":"dru91ce","url":"https://github.com/dru91ce","avatarUrl":"https://avatars.githubusercontent.com/u/98011531?s=80&v=4","followers":4,"publicRepos":11,"location":"Vatican City (Holy See)","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":5,"commits":2,"pullRequests":0,"reviews":0,"issues":2,"repositories":1,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}}
+  {"rank":3,"id":"MDQ6VXNlcjgwMTQzODY3","login":"EddCova11","name":"Eduardo Cova","url":"https://github.com/EddCova11","avatarUrl":"https://avatars.githubusercontent.com/u/80143867?s=80&v=4","followers":1,"publicRepos":9,"location":"Vatican City","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":5,"commits":4,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
+  {"rank":4,"id":"U_kgDOBdeJiw","login":"dru91ce","name":"dru91ce","url":"https://github.com/dru91ce","avatarUrl":"https://avatars.githubusercontent.com/u/98011531?s=80&v=4","followers":4,"publicRepos":11,"location":"Vatican City (Holy See)","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":5,"commits":2,"pullRequests":0,"reviews":0,"issues":2,"repositories":1,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":5,"id":"MDQ6VXNlcjYwOTE4MDcw","login":"kubonnt","name":null,"url":"https://github.com/kubonnt","avatarUrl":"https://avatars.githubusercontent.com/u/60918070?s=80&v=4","followers":15,"publicRepos":8,"location":"Vatican City","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":2,"commits":1,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "6e6be0605ae2dab3",
-"updatedAt": "2026-11-23T13:10:04.236Z",
+"contentHash": "c593cac12c9aff77",
+"updatedAt": "2026-11-24T01:31:49.018Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T13:10:04.236Z"
+"generatedAt": "2026-11-24T01:31:49.018Z"
 }

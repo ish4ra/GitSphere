@@ -5,17 +5,18 @@
 "country": {"code":"SO","name":"Somalia","slug":"somalia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":6,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":7,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDOC1i0XA","login":"CanoGel","name":"Ahmad Isse Farah","url":"https://github.com/CanoGel","avatarUrl":"https://avatars.githubusercontent.com/u/190362716?s=80&v=4","followers":785,"publicRepos":22,"location":"Mogadishu","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
+  {"rank":1,"id":"U_kgDOC1i0XA","login":"CanoGel","name":"Ahmad Isse Farah","url":"https://github.com/CanoGel","avatarUrl":"https://avatars.githubusercontent.com/u/190362716?s=80&v=4","followers":785,"publicRepos":22,"location":"Mogadishu","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":"U_kgDOCAwxKg","login":"rihhanna","name":"Rehana Hassan Muhumed","url":"https://github.com/rihhanna","avatarUrl":"https://avatars.githubusercontent.com/u/135016746?s=80&v=4","followers":664,"publicRepos":58,"location":"Hargeisa/Somaliland","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23"},
   {"rank":3,"id":"U_kgDOB7MQEg","login":"omartood","name":"Omar Tood","url":"https://github.com/omartood","avatarUrl":"https://avatars.githubusercontent.com/u/129175570?s=80&v=4","followers":603,"publicRepos":137,"location":"Somalia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":4,"id":"U_kgDOCAzZ4Q","login":"Sharmasheeno","name":"Sharmake Hassan","url":"https://github.com/Sharmasheeno","avatarUrl":"https://avatars.githubusercontent.com/u/135059937?s=80&v=4","followers":541,"publicRepos":75,"location":"Somalia-Mogadishu","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":5,"id":"MDQ6VXNlcjczNTE3MDI0","login":"ahmed-moha","name":"Ahmed Mohamed Abdulkadir","url":"https://github.com/ahmed-moha","avatarUrl":"https://avatars.githubusercontent.com/u/73517024?s=80&v=4","followers":345,"publicRepos":48,"location":"Mogadishu, Somalia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
-  {"rank":6,"id":"MDQ6VXNlcjYzMDM2OTk0","login":"00252615212320","name":"Mohamed Abdirahman","url":"https://github.com/00252615212320","avatarUrl":"https://avatars.githubusercontent.com/u/63036994?s=80&v=4","followers":0,"publicRepos":3,"location":"Mogadishu/Somalia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+  {"rank":6,"id":"MDQ6VXNlcjg2NzA4Nzcx","login":"MohamedAbdiaziz","name":"Mohamed Abdiaziz","url":"https://github.com/MohamedAbdiaziz","avatarUrl":"https://avatars.githubusercontent.com/u/86708771?s=80&v=4","followers":334,"publicRepos":54,"location":"Somalia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":7,"id":"MDQ6VXNlcjYzMDM2OTk0","login":"00252615212320","name":"Mohamed Abdirahman","url":"https://github.com/00252615212320","avatarUrl":"https://avatars.githubusercontent.com/u/63036994?s=80&v=4","followers":0,"publicRepos":3,"location":"Mogadishu/Somalia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "bda068e33d2a23c8",
-"updatedAt": "2026-11-23T13:10:04.236Z",
+"contentHash": "e3f403cac81b2d3c",
+"updatedAt": "2026-11-24T01:31:49.018Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T13:10:04.236Z"
+"generatedAt": "2026-11-24T01:31:49.018Z"
 }

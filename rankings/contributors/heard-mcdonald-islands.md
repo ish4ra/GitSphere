@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/HM.json">JSON</a> |
+| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/HM.json">JSON</a> |
 
 </div>
 
@@ -34,6 +34,15 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/ilikeshiny"><img src="https://avatars.githubusercontent.com/u/264210120?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ilikeshiny"><b>ilikeshiny</b></a><br><sub>&#64;ilikeshiny · 0 followers</sub></td>
+<td align="right"><b>17</b></td>
+<td align="right">15</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/ygbnocap"><img src="https://avatars.githubusercontent.com/u/134435723?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ygbnocap"><b>Роберт Александр III</b></a><br><sub>&#64;ygbnocap · 1 followers</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">13</td>
@@ -42,7 +51,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/CoderRoyale"><img src="https://avatars.githubusercontent.com/u/109058089?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CoderRoyale"><b>Bernard Chang</b></a><br><sub>&#64;CoderRoyale · 2 followers</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">0</td>
@@ -51,7 +60,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/zero-width-space"><img src="https://avatars.githubusercontent.com/u/198437315?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zero-width-space"><b>zwsp</b></a><br><sub>&#64;zero-width-space · 5 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
@@ -60,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/cwabbatron"><img src="https://avatars.githubusercontent.com/u/160288202?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cwabbatron"><b>cwab</b></a><br><sub>&#64;cwabbatron · 0 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -75,7 +84,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 6 of 13 discovered developers (7 awaiting measurement).
+- **Measured:** 8 of 13 discovered developers (5 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 3 of 20 in round 1.

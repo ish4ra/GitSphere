@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **29** | 22 Nov 2026 | <a href="../../data/developers/SA.json">JSON</a> |
+| 🟡 Provisional | **35** | 22 Nov 2026 | <a href="../../data/developers/SA.json">JSON</a> |
 
 </div>
 
@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/0xfff0800"><img src="https://avatars.githubusercontent.com/u/55315423?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xfff0800"><b>FaLaH</b></a><br><sub>&#64;0xfff0800</sub></td>
-<td align="right"><b>1,463</b></td>
+<td align="right"><b>1,462</b></td>
 <td align="right">26</td>
 <td><sub>Saudi Arabia</sub></td>
 </tr>
@@ -212,13 +212,55 @@
 </tr>
 <tr>
 <td align="right">28</td>
+<td><a href="https://github.com/Filza2"><img src="https://avatars.githubusercontent.com/u/69265406?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Filza2"><b>Rayan</b></a><br><sub>&#64;Filza2</sub></td>
+<td align="right"><b>331</b></td>
+<td align="right">78</td>
+<td><sub>Kingdom of Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td><a href="https://github.com/singer-yang"><img src="https://avatars.githubusercontent.com/u/25293821?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/singer-yang"><b>Xinge Yang</b></a><br><sub>&#64;singer-yang</sub></td>
+<td align="right"><b>324</b></td>
+<td align="right">29</td>
+<td><sub>Thuwal, Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td><a href="https://github.com/KarimEbrahemAbdelaziz"><img src="https://avatars.githubusercontent.com/u/24304313?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KarimEbrahemAbdelaziz"><b>Karim Ebrahem</b></a><br><sub>&#64;KarimEbrahemAbdelaziz</sub></td>
+<td align="right"><b>312</b></td>
+<td align="right">337</td>
+<td><sub>Riyadh, Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">31</td>
+<td><a href="https://github.com/Paula-Moraga"><img src="https://avatars.githubusercontent.com/u/25888724?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Paula-Moraga"><b>Paula Moraga</b></a><br><sub>&#64;Paula-Moraga</sub></td>
+<td align="right"><b>312</b></td>
+<td align="right">5</td>
+<td><sub>KSA</sub></td>
+</tr>
+<tr>
+<td align="right">32</td>
+<td><a href="https://github.com/vinayakumarr"><img src="https://avatars.githubusercontent.com/u/18217467?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vinayakumarr"><b>Vinayakumar Ravi</b></a><br><sub>&#64;vinayakumarr</sub></td>
+<td align="right"><b>310</b></td>
+<td align="right">90</td>
+<td><sub>Khobar, Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">33</td>
+<td><a href="https://github.com/REVENGE977"><img src="https://avatars.githubusercontent.com/u/32039975?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/REVENGE977"><b>REVENGE</b></a><br><sub>&#64;REVENGE977</sub></td>
+<td align="right"><b>265</b></td>
+<td align="right">0</td>
+<td><sub>Kingdom of Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">34</td>
 <td><a href="https://github.com/ialhashim"><img src="https://avatars.githubusercontent.com/u/2434978?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ialhashim"><b>Ibraheem Alhashim</b></a><br><sub>&#64;ialhashim</sub></td>
 <td align="right"><b>212</b></td>
 <td align="right">0</td>
 <td><sub>Saudi Arabia</sub></td>
 </tr>
 <tr>
-<td align="right">29</td>
+<td align="right">35</td>
 <td><a href="https://github.com/orangci"><img src="https://avatars.githubusercontent.com/u/90866414?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/orangci"><b>orangci</b></a><br><sub>&#64;orangci</sub></td>
 <td align="right"><b>189</b></td>
 <td align="right">0</td>
@@ -232,8 +274,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 29 attributed developers are tracked; the cutoff is 189 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 35 attributed developers are tracked; the cutoff is 189 followers.
+- **Location discovery:** term 0 of 141 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

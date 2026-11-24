@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **21** | 22 Nov 2026 | <a href="../../data/developers/CY.json">JSON</a> |
+| 🟡 Provisional | **28** | 22 Nov 2026 | <a href="../../data/developers/CY.json">JSON</a> |
 
 </div>
 
@@ -135,38 +135,87 @@
 </tr>
 <tr>
 <td align="right">17</td>
-<td><a href="https://github.com/gosom"><img src="https://avatars.githubusercontent.com/u/454718?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gosom"><b>Georgios Komninos</b></a><br><sub>&#64;gosom</sub></td>
-<td align="right"><b>287</b></td>
-<td align="right">0</td>
-<td><sub>Cyprus</sub></td>
+<td><a href="https://github.com/GrigoriiTarasov"><img src="https://avatars.githubusercontent.com/u/20603530?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GrigoriiTarasov"><b>GrigoriiTarasov</b></a><br><sub>&#64;GrigoriiTarasov</sub></td>
+<td align="right"><b>338</b></td>
+<td align="right">10</td>
+<td><sub>Cyprus, Limassol</sub></td>
 </tr>
 <tr>
 <td align="right">18</td>
+<td><a href="https://github.com/unsaldemircioglu"><img src="https://avatars.githubusercontent.com/u/142059934?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/unsaldemircioglu"><b>Ünsal Demircioğlu</b></a><br><sub>&#64;unsaldemircioglu</sub></td>
+<td align="right"><b>333</b></td>
+<td align="right">125</td>
+<td><sub>Cyprus</sub></td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><a href="https://github.com/merikbest"><img src="https://avatars.githubusercontent.com/u/56604599?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/merikbest"><b>Miroslav Khotinskiy</b></a><br><sub>&#64;merikbest</sub></td>
+<td align="right"><b>302</b></td>
+<td align="right">12</td>
+<td><sub>Cyprus</sub></td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><a href="https://github.com/paracycle"><img src="https://avatars.githubusercontent.com/u/224488?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/paracycle"><b>Ufuk Kayserilioglu</b></a><br><sub>&#64;paracycle</sub></td>
+<td align="right"><b>300</b></td>
+<td align="right">133</td>
+<td><sub>Nicosia, Cyprus</sub></td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><a href="https://github.com/gosom"><img src="https://avatars.githubusercontent.com/u/454718?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gosom"><b>Georgios Komninos</b></a><br><sub>&#64;gosom</sub></td>
+<td align="right"><b>287</b></td>
+<td align="right">147</td>
+<td><sub>Cyprus</sub></td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><a href="https://github.com/shahules786"><img src="https://avatars.githubusercontent.com/u/25312635?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shahules786"><b>ikka</b></a><br><sub>&#64;shahules786</sub></td>
+<td align="right"><b>284</b></td>
+<td align="right">96</td>
+<td><sub>Terra</sub></td>
+</tr>
+<tr>
+<td align="right">23</td>
 <td><a href="https://github.com/atercattus"><img src="https://avatars.githubusercontent.com/u/433484?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/atercattus"><b>Aleksey Akulovich</b></a><br><sub>&#64;atercattus</sub></td>
 <td align="right"><b>283</b></td>
 <td align="right">70</td>
 <td><sub>Pafos, Cyprus</sub></td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">24</td>
 <td><a href="https://github.com/polterguy"><img src="https://avatars.githubusercontent.com/u/8466933?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/polterguy"><b>Thomas Hansen</b></a><br><sub>&#64;polterguy</sub></td>
 <td align="right"><b>245</b></td>
 <td align="right">0</td>
 <td><sub>Cyprus</sub></td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">25</td>
+<td><a href="https://github.com/TezRomacH"><img src="https://avatars.githubusercontent.com/u/7549587?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TezRomacH"><b>Roman Tezikov</b></a><br><sub>&#64;TezRomacH</sub></td>
+<td align="right"><b>189</b></td>
+<td align="right">0</td>
+<td><sub>Limassol, Cyprus</sub></td>
+</tr>
+<tr>
+<td align="right">26</td>
 <td><a href="https://github.com/iamolegga"><img src="https://avatars.githubusercontent.com/u/5501657?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iamolegga"><b>iamolegga</b></a><br><sub>&#64;iamolegga</sub></td>
 <td align="right"><b>166</b></td>
 <td align="right">0</td>
 <td><sub>Λεμεσός, Κύπρος</sub></td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">27</td>
 <td><a href="https://github.com/bjornd"><img src="https://avatars.githubusercontent.com/u/939401?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bjornd"><b>Kirill Lebedev</b></a><br><sub>&#64;bjornd</sub></td>
 <td align="right"><b>88</b></td>
 <td align="right">0</td>
 <td><sub>Cyprus</sub></td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td><a href="https://github.com/LucasCFXHosting"><img src="https://avatars.githubusercontent.com/u/114596925?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LucasCFXHosting"><b>Lucas</b></a><br><sub>&#64;LucasCFXHosting</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">11</td>
+<td><sub>Limassol, Cyprus</sub></td>
 </tr>
 </tbody>
 </table>
@@ -176,7 +225,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 21 attributed developers are tracked; the cutoff is 88 followers.
+- Organizations are excluded. 28 attributed developers are tracked; the cutoff is 2 followers.
 - **Location discovery:** term 0 of 105 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

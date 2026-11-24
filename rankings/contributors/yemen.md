@@ -14,17 +14,26 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/contributors/YE.json">JSON</a> |
+| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/YE.json">JSON</a> |
 
 </div>
 
-<p align="center"><sub>Public contributions from <b>23 Nov 2025</b> to <b>23 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
+<p align="center"><sub>Public contributions from <b>24 Nov 2025</b> to <b>24 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
 
 <table>
 <thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Public contributions</th><th align="right">Commits</th><th align="right">PRs</th><th align="right">Reviews</th><th align="right">Issues</th></tr></thead>
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/hishamco"><img src="https://avatars.githubusercontent.com/u/3237266?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hishamco"><b>Hisham Bin Ateya</b></a><br><sub>&#64;hishamco · 335 followers</sub></td>
+<td align="right"><b>1,256</b></td>
+<td align="right">652</td>
+<td align="right">358</td>
+<td align="right">157</td>
+<td align="right">81</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/OsamaAlmamri"><img src="https://avatars.githubusercontent.com/u/43526628?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OsamaAlmamri"><b>Osama Al-mamari</b></a><br><sub>&#64;OsamaAlmamri · 922 followers</sub></td>
 <td align="right"><b>463</b></td>
 <td align="right">459</td>
@@ -33,7 +42,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">3</td>
 <td><a href="https://github.com/WatheqAlshowaiter"><img src="https://avatars.githubusercontent.com/u/24838274?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/WatheqAlshowaiter"><b>Watheq Alshowaiter</b></a><br><sub>&#64;WatheqAlshowaiter · 407 followers</sub></td>
 <td align="right"><b>208</b></td>
 <td align="right">160</td>
@@ -42,7 +51,16 @@
 <td align="right">1</td>
 </tr>
 <tr>
+<td align="right">4</td>
+<td><a href="https://github.com/AbdulrhmanBashammmakh"><img src="https://avatars.githubusercontent.com/u/73081256?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AbdulrhmanBashammmakh"><b>AB238</b></a><br><sub>&#64;AbdulrhmanBashammmakh · 597 followers</sub></td>
+<td align="right"><b>9</b></td>
 <td align="right">3</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/mbahomaid"><img src="https://avatars.githubusercontent.com/u/178747862?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mbahomaid"><b>Mustafa Bahomaid</b></a><br><sub>&#64;mbahomaid · 7,528 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">2</td>
@@ -57,7 +75,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 4 of 401 discovered developers (397 awaiting measurement).
+- **Measured:** 6 of 401 discovered developers (395 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

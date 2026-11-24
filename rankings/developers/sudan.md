@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/developers/SD.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/developers/SD.json">JSON</a> |
 
 </div>
 
@@ -37,24 +37,38 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/Sapsfi"><img src="https://avatars.githubusercontent.com/u/159664792?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sapsfi"><b>Sapsfi</b></a><br><sub>&#64;Sapsfi</sub></td>
+<td align="right"><b>332</b></td>
+<td align="right">3</td>
+<td><sub>Spanish + Eng ノ mcyt/ DW / jjk /roblox ⠀ ⠀⠀⠀ ⠀⠀…</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/01011994vbntrustingod"><img src="https://avatars.githubusercontent.com/u/105881076?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/01011994vbntrustingod"><b>MUHANNED</b></a><br><sub>&#64;01011994vbntrustingod</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/0xlong-sd"><img src="https://avatars.githubusercontent.com/u/193998182?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xlong-sd"><b>Yassin.sd</b></a><br><sub>&#64;0xlong-sd</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>sudan</sub></td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/0xTarig"><img src="https://avatars.githubusercontent.com/u/240476682?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xTarig"><b>Tarig</b></a><br><sub>&#64;0xTarig</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Sudan</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/11ahmed"><img src="https://avatars.githubusercontent.com/u/17174885?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/11ahmed"><b>a7med</b></a><br><sub>&#64;11ahmed</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>sudan-kh</sub></td>
 </tr>
 </tbody>
 </table>
@@ -64,8 +78,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 5 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 7 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 0 of 106 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

@@ -52,7 +52,7 @@
 <tr>
 <td align="right">5</td>
 <td><a href="https://github.com/BANARIBA"><img src="https://avatars.githubusercontent.com/u/218331702?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BANARIBA"><b>ARIEL ANARIBA</b></a><br><sub>&#64;BANARIBA</sub></td>
-<td align="right"><b>315</b></td>
+<td align="right"><b>314</b></td>
 <td align="right">10</td>
 <td><sub>Honduras</sub></td>
 </tr>

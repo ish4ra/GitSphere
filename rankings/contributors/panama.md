@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **2** | 23 Nov 2026 | <a href="../../data/contributors/PA.json">JSON</a> |
+| 🟡 Provisional | **4** | 23 Nov 2026 | <a href="../../data/contributors/PA.json">JSON</a> |
 
 </div>
 
@@ -41,6 +41,24 @@
 <td align="right">0</td>
 <td align="right">0</td>
 </tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/4d3-sudo"><img src="https://avatars.githubusercontent.com/u/58711534?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/4d3-sudo"><b>ade.&#95;.lian</b></a><br><sub>&#64;4d3-sudo · 0 followers</sub></td>
+<td align="right"><b>7</b></td>
+<td align="right">5</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/4r13lpch3lp"><img src="https://avatars.githubusercontent.com/u/125678266?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/4r13lpch3lp"><b>spartan&#95;chief&#95;ch1n021</b></a><br><sub>&#64;4r13lpch3lp · 4 followers</sub></td>
+<td align="right"><b>5</b></td>
+<td align="right">4</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
 </tbody>
 </table>
 
@@ -48,10 +66,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 5 of 401 discovered developers (396 awaiting measurement).
+- **Measured:** 7 of 401 discovered developers (394 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 81 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

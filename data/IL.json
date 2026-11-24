@@ -5,7 +5,7 @@
 "country": {"code":"IL","name":"Israel","slug":"israel"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":1430,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":117,"candidates":132,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":150,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":1430,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":117,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":150,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxMDM2MzM5ODQ=","name":"nodebestpractices","nameWithOwner":"goldbergyoni/nodebestpractices","url":"https://github.com/goldbergyoni/nodebestpractices","description":"✅ The Node.js best practices list (July 2026)","stars":105765,"forks":10717,"primaryLanguage":"Dockerfile","license":{"spdxId":"CC-BY-SA-4.0"},"createdAt":"2017-09-15T08:33:19Z","pushedAt":"2026-06-15T11:41:04Z","archived":false,"owner":{"login":"goldbergyoni","name":"Yoni Goldberg","type":"User","url":"https://github.com/goldbergyoni","location":"Israel","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkxMzYwNjIyNDA=","name":"awesome-design-patterns","nameWithOwner":"DovAmir/awesome-design-patterns","url":"https://github.com/DovAmir/awesome-design-patterns","description":"A curated list of software and architecture related design patterns.","stars":49852,"forks":3313,"primaryLanguage":null,"license":null,"createdAt":"2018-06-04T17:47:48Z","pushedAt":"2024-10-25T19:57:00Z","archived":false,"owner":{"login":"DovAmir","name":"Dov Amir","type":"User","url":"https://github.com/DovAmir","location":"Israel","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"MDEwOlJlcG9zaXRvcnk4OTU2MjMxNg==","name":"vue-particles","nameWithOwner":"creotip/vue-particles","url":"https://github.com/creotip/vue-particles","description":"Vue.js component for particles backgrounds ✨","stars":1432,"forks":189,"primaryLanguage":"JavaScript","license":null,"createdAt":"2017-04-27T06:14:38Z","pushedAt":"2024-03-16T15:58:36Z","archived":false,"owner":{"login":"creotip","name":"Creotip","type":"User","url":"https://github.com/creotip","location":"Hadera, Israel","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-23"},
   {"rank":100,"id":"MDEwOlJlcG9zaXRvcnkzNDQ2MTcwMjY=","name":"snake","nameWithOwner":"donno2048/snake","url":"https://github.com/donno2048/snake","description":"A 54 bytes snake game in x86 assembly","stars":1430,"forks":44,"primaryLanguage":"Assembly","license":{"spdxId":"MIT"},"createdAt":"2021-03-04T21:41:07Z","pushedAt":"2026-10-03T17:06:09Z","archived":false,"owner":{"login":"donno2048","name":"Elisha Hollander","type":"User","url":"https://github.com/donno2048","location":"Israel","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "e65616f88ac0b0f0",
-"updatedAt": "2026-11-23T13:10:04.236Z",
+"contentHash": "0ece73fa732c7fab",
+"updatedAt": "2026-11-24T01:31:49.018Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T13:10:04.236Z"
+"generatedAt": "2026-11-24T01:31:49.018Z"
 }

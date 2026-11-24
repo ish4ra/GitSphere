@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/developers/UY.json">JSON</a> |
+| 🟡 Provisional | **20** | 22 Nov 2026 | <a href="../../data/developers/UY.json">JSON</a> |
 
 </div>
 
@@ -100,36 +100,64 @@
 </tr>
 <tr>
 <td align="right">12</td>
+<td><a href="https://github.com/gerfagerfa"><img src="https://avatars.githubusercontent.com/u/14057984?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gerfagerfa"><b>Germán Fajardo Sanchez</b></a><br><sub>&#64;gerfagerfa</sub></td>
+<td align="right"><b>311</b></td>
+<td align="right">22</td>
+<td><sub>Montevideo, Uruguay.</sub></td>
+</tr>
+<tr>
+<td align="right">13</td>
 <td><a href="https://github.com/titoBouzout"><img src="https://avatars.githubusercontent.com/u/64156?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/titoBouzout"><b>Tito</b></a><br><sub>&#64;titoBouzout</sub></td>
 <td align="right"><b>226</b></td>
 <td align="right">0</td>
 <td><sub>Montevideo, Uruguay</sub></td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/davidmonterocrespo24"><img src="https://avatars.githubusercontent.com/u/47928504?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davidmonterocrespo24"><b>David Montero Crespo</b></a><br><sub>&#64;davidmonterocrespo24</sub></td>
 <td align="right"><b>179</b></td>
 <td align="right">0</td>
 <td><sub>Uruguay</sub></td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/pote"><img src="https://avatars.githubusercontent.com/u/132684?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pote"><b>pote</b></a><br><sub>&#64;pote</sub></td>
 <td align="right"><b>163</b></td>
 <td align="right">0</td>
 <td><sub>Montevideo, Uruguay</sub></td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><a href="https://github.com/itaybre"><img src="https://avatars.githubusercontent.com/u/860036?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/itaybre"><b>Itay Brenner</b></a><br><sub>&#64;itaybre</sub></td>
 <td align="right"><b>141</b></td>
 <td align="right">0</td>
 <td><sub>Montevideo, Uruguay</sub></td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">17</td>
+<td><a href="https://github.com/gmonce"><img src="https://avatars.githubusercontent.com/u/4460484?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gmonce"><b>Guillermo Moncecchi</b></a><br><sub>&#64;gmonce</sub></td>
+<td align="right"><b>118</b></td>
+<td align="right">0</td>
+<td><sub>Montevideo, Uruguay</sub></td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><a href="https://github.com/hernansartorio"><img src="https://avatars.githubusercontent.com/u/1617198?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hernansartorio"><b>Hernán Sartorio</b></a><br><sub>&#64;hernansartorio</sub></td>
+<td align="right"><b>98</b></td>
+<td align="right">0</td>
+<td><sub>Uruguay</sub></td>
+</tr>
+<tr>
+<td align="right">19</td>
 <td><a href="https://github.com/yossdotpro"><img src="https://avatars.githubusercontent.com/u/98903135?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yossdotpro"><b>Yoannis Sánchez Soto</b></a><br><sub>&#64;yossdotpro</sub></td>
 <td align="right"><b>85</b></td>
+<td align="right">0</td>
+<td><sub>Uruguay</sub></td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><a href="https://github.com/marcosfede"><img src="https://avatars.githubusercontent.com/u/16232610?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marcosfede"><b>Federico Marcos</b></a><br><sub>&#64;marcosfede</sub></td>
+<td align="right"><b>83</b></td>
 <td align="right">0</td>
 <td><sub>Uruguay</sub></td>
 </tr>
@@ -141,7 +169,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 16 attributed developers are tracked; the cutoff is 85 followers.
+- Organizations are excluded. 20 attributed developers are tracked; the cutoff is 83 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/developers/TD.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/developers/TD.json">JSON</a> |
 
 </div>
 
@@ -30,48 +30,69 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/AliMoussa10"><img src="https://avatars.githubusercontent.com/u/138847373?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AliMoussa10"><b>AliMoussa10</b></a><br><sub>&#64;AliMoussa10</sub></td>
+<td align="right"><b>5</b></td>
+<td align="right">22</td>
+<td><sub>N&#39;Djamena, Chad</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/Abakar-B"><img src="https://avatars.githubusercontent.com/u/59444125?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abakar-B"><b>Abakar-B</b></a><br><sub>&#64;Abakar-B</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">2</td>
 <td><sub>chad</sub></td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/abelmohsinmahamat-crypto"><img src="https://avatars.githubusercontent.com/u/266070729?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abelmohsinmahamat-crypto"><b>ABDELMOHSIN MAHAMAT</b></a><br><sub>&#64;abelmohsinmahamat-crypto</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">55</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
+<td><a href="https://github.com/aguidiweidegue"><img src="https://avatars.githubusercontent.com/u/65353760?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aguidiweidegue"><b>Aguidi Weidegue Tabah</b></a><br><sub>&#64;aguidiweidegue</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">3</td>
+<td><sub>Chad</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/1KadenDev"><img src="https://avatars.githubusercontent.com/u/155135431?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/1KadenDev"><b>Kaden</b></a><br><sub>&#64;1KadenDev</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">7</td>
 <td><a href="https://github.com/6308-75-II2-TheMostAdvancedNameToDate"><img src="https://avatars.githubusercontent.com/u/90270162?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/6308-75-II2-TheMostAdvancedNameToDate"><b>Chad</b></a><br><sub>&#64;6308-75-II2-TheMostAdvancedNameToDate</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">8</td>
 <td><a href="https://github.com/abdelrahim01"><img src="https://avatars.githubusercontent.com/u/35397560?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdelrahim01"><b>Abdelrahim Senoussi</b></a><br><sub>&#64;abdelrahim01</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">9</td>
+<td><a href="https://github.com/ahmedkondas"><img src="https://avatars.githubusercontent.com/u/59375640?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahmedkondas"><b>Ahmed Hussein</b></a><br><sub>&#64;ahmedkondas</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">1</td>
+<td><sub>chad</sub></td>
+</tr>
+<tr>
+<td align="right">10</td>
 <td><a href="https://github.com/01Hassa"><img src="https://avatars.githubusercontent.com/u/142748244?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/01Hassa"><b>Hassa</b></a><br><sub>&#64;01Hassa</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">11</td>
 <td><a href="https://github.com/abdoulayeibniabdoulayemahamat"><img src="https://avatars.githubusercontent.com/u/306742997?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdoulayeibniabdoulayemahamat"><b>Abdoulaye Ibni Abdoulaye Mahamat</b></a><br><sub>&#64;abdoulayeibniabdoulayemahamat</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
@@ -85,7 +106,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 8 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 11 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

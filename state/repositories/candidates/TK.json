@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"TK","name":"Tokelau","slug":"tokelau"},
-"count": 11,
+"count": 10,
 "repositories": [
-  {"name":"duboviy/minicache","stars":79,"forks":12,"language":"Python","license":"MIT","archived":false,"createdAt":"2016-10-08T15:01:52Z","pushedAt":"2026-04-13T16:44:13Z","owner":{"login":"duboviy","type":"User","name":"Eugene Duboviy","location":"Tokelau"},"attribution":{"code":"TK","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-24T16:06:58.810Z","id":"legacy:duboviy/minicache","legacy":true},
   {"name":"DaczoDenes/uStupid","stars":1,"forks":0,"language":"HTML","archived":false,"createdAt":"2021-07-08T21:22:44Z","pushedAt":"2021-07-09T20:16:42Z","owner":{"login":"DaczoDenes","type":"User","location":"Tokelau"},"attribution":{"code":"TK","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-24T16:06:58.810Z","id":"legacy:daczodenes/ustupid","legacy":true},
   {"name":"knukima/matrix-5858","stars":1,"forks":0,"language":"C","archived":false,"createdAt":"2026-09-21T07:01:12Z","pushedAt":"2026-09-21T07:01:31Z","owner":{"login":"knukima","type":"User","name":"z","location":"Fale, Fakaofo Atoll, Tokelau"},"attribution":{"code":"TK","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-24T16:06:58.810Z","id":"legacy:knukima/matrix-5858","legacy":true},
   {"name":"awise-dorensbach/awise-paulo","stars":0,"forks":0,"archived":false,"createdAt":"2024-03-12T17:07:22Z","pushedAt":"2024-03-12T17:07:32Z","owner":{"login":"awise-dorensbach","type":"User","name":"awise-dorensbach","location":"Tokelau"},"attribution":{"code":"TK","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-24T16:06:58.810Z","id":"legacy:awise-dorensbach/awise-paulo","legacy":true},

@@ -5,12 +5,13 @@
 "country": {"code":"NF","name":"Norfolk Island","slug":"norfolk-island"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":3,"measuredAccounts":3,"measurementBacklog":0,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":6,"measuredAccounts":5,"measurementBacklog":1,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":19,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjI2MzMxMDc3","login":"mark-ssd","name":"Mark SSD","url":"https://github.com/mark-ssd","avatarUrl":"https://avatars.githubusercontent.com/u/26331077?s=80&v=4","followers":5,"publicRepos":14,"location":"Norfolk Island","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":835,"commits":826,"pullRequests":0,"reviews":0,"issues":0,"repositories":9,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjI2MzMxMDc3","login":"mark-ssd","name":"Mark SSD","url":"https://github.com/mark-ssd","avatarUrl":"https://avatars.githubusercontent.com/u/26331077?s=80&v=4","followers":5,"publicRepos":14,"location":"Norfolk Island","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":835,"commits":826,"pullRequests":0,"reviews":0,"issues":0,"repositories":9,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjg2NjMzNjE4","login":"FoxerMoxer","name":"FoxerMoxer","url":"https://github.com/FoxerMoxer","avatarUrl":"https://avatars.githubusercontent.com/u/86633618?s=80&v=4","followers":1,"publicRepos":6,"location":"Norfolk Island","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":2,"commits":1,"pullRequests":0,"reviews":0,"issues":1,"repositories":0,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "0148f12c58e76e00",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "b89eaf0eb6931a69",
+"updatedAt": "2026-11-24T01:31:49.018Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-24T01:31:49.018Z"
 }

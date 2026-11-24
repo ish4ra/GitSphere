@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"SZ","name":"Eswatini","slug":"eswatini"},
-"count": 150,
+"count": 149,
 "repositories": [
-  {"name":"Njabulo240/InventorySystem","stars":38,"forks":23,"language":"C#","license":"MIT","archived":false,"createdAt":"2024-07-09T03:50:30Z","pushedAt":"2024-07-25T12:43:48Z","owner":{"login":"Njabulo240","type":"User","name":"Njabulo Mamba","location":"Eswatini, Manzini"},"attribution":{"code":"SZ","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T06:22:36.088Z","id":"legacy:njabulo240/inventorysystem","legacy":true},
   {"name":"crypto-jobs-fyi/crawler","stars":8,"forks":2,"language":"Python","license":"Apache-2.0","archived":false,"createdAt":"2023-04-19T10:18:36Z","pushedAt":"2026-10-03T13:15:35Z","owner":{"login":"crypto-jobs-fyi","type":"Organization","name":"crypto-jobs","location":"Swaziland"},"attribution":{"code":"SZ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T06:22:36.088Z","id":"legacy:crypto-jobs-fyi/crawler","legacy":true},
   {"name":"allGhostAnon/wifi-hacker-advanced","stars":7,"forks":3,"language":"Shell","license":"MIT","archived":false,"createdAt":"2017-10-08T15:32:13Z","pushedAt":"2017-10-08T15:58:01Z","owner":{"login":"allGhostAnon","type":"User","name":"Lwazi Dlamini","location":"Mbabane, Swaziland"},"attribution":{"code":"SZ","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T06:22:36.088Z","id":"legacy:allghostanon/wifi-hacker-advanced","legacy":true},
   {"name":"SiveMdluli/My-Portfolio","stars":7,"forks":1,"language":"CSS","license":"MIT","archived":false,"createdAt":"2023-03-23T14:20:04Z","pushedAt":"2023-04-22T12:50:45Z","owner":{"login":"SiveMdluli","type":"User","name":"Sive Mdluli","location":"ESwatini, Mbabane"},"attribution":{"code":"SZ","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T06:22:36.088Z","id":"legacy:sivemdluli/my-portfolio","legacy":true},

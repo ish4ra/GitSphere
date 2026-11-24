@@ -5,7 +5,7 @@
 "country": {"code":"PT","name":"Portugal","slug":"portugal"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":1387,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":126,"candidates":128,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":1387,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":126,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":108,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxMzczODkyMjk=","name":"complete-javascript-course","nameWithOwner":"jonasschmedtmann/complete-javascript-course","url":"https://github.com/jonasschmedtmann/complete-javascript-course","description":"Starter files, final projects, and FAQ for my Complete JavaScript course","stars":17288,"forks":17402,"primaryLanguage":"JavaScript","license":null,"createdAt":"2018-06-14T17:33:47Z","pushedAt":"2024-12-10T11:38:06Z","archived":false,"owner":{"login":"jonasschmedtmann","name":"Jonas Schmedtmann","type":"User","url":"https://github.com/jonasschmedtmann","location":"Faro, Portugal","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnk4NzA4Mzk0","name":"whoops","nameWithOwner":"filp/whoops","url":"https://github.com/filp/whoops","description":"PHP errors for cool kids","stars":13230,"forks":600,"primaryLanguage":"PHP","license":{"spdxId":"MIT"},"createdAt":"2013-03-11T16:58:27Z","pushedAt":"2026-11-09T23:32:37Z","archived":false,"owner":{"login":"filp","name":"Filipe Dobreira","type":"User","url":"https://github.com/filp","location":"Lisbon, Portugal","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"MDEwOlJlcG9zaXRvcnkyNTA0NTc3Mg==","name":"CameraManager","nameWithOwner":"imaginary-cloud/CameraManager","url":"https://github.com/imaginary-cloud/CameraManager","description":"Simple Swift class to provide all the configurations you need to create custom camera view in your app","stars":1391,"forks":319,"primaryLanguage":"Swift","license":{"spdxId":"MIT"},"createdAt":"2014-10-10T17:28:06Z","pushedAt":"2024-07-19T13:58:45Z","archived":false,"owner":{"login":"imaginary-cloud","name":"Imaginary Cloud","type":"Organization","url":"https://github.com/imaginary-cloud","location":"Portugal","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-23"},
   {"rank":100,"id":"R_kgDOIbINvg","name":"recollapse","nameWithOwner":"0xacb/recollapse","url":"https://github.com/0xacb/recollapse","description":"REcollapse is a helper tool for black-box regex fuzzing to bypass validations and discover normalizations in web applications","stars":1387,"forks":151,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2022-11-13T02:03:37Z","pushedAt":"2025-08-07T19:23:50Z","archived":false,"owner":{"login":"0xacb","name":"André Baptista","type":"User","url":"https://github.com/0xacb","location":"Portugal","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "755955d6d446ba89",
-"updatedAt": "2026-11-23T13:10:04.236Z",
+"contentHash": "dcf10acc6edd0c8c",
+"updatedAt": "2026-11-24T01:31:49.018Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T13:10:04.236Z"
+"generatedAt": "2026-11-24T01:31:49.018Z"
 }

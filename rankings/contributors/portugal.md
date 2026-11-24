@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/PT.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/PT.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,24 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/rgl"><img src="https://avatars.githubusercontent.com/u/43356?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rgl"><b>Rui Lopes</b></a><br><sub>&#64;rgl · 310 followers</sub></td>
+<td align="right"><b>4,526</b></td>
+<td align="right">4,371</td>
+<td align="right">10</td>
+<td align="right">1</td>
+<td align="right">99</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/JoseRFJuniorLLMs"><img src="https://avatars.githubusercontent.com/u/488409?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JoseRFJuniorLLMs"><b>Jose RF Junior</b></a><br><sub>&#64;JoseRFJuniorLLMs · 300 followers</sub></td>
+<td align="right"><b>4,331</b></td>
+<td align="right">3,767</td>
+<td align="right">311</td>
+<td align="right">9</td>
+<td align="right">167</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/rochacbruno"><img src="https://avatars.githubusercontent.com/u/458654?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rochacbruno"><b>Bruno Rocha</b></a><br><sub>&#64;rochacbruno · 4,709 followers</sub></td>
 <td align="right"><b>699</b></td>
 <td align="right">442</td>
@@ -51,7 +69,7 @@
 <td align="right">19</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">6</td>
 <td><a href="https://github.com/waldyrious"><img src="https://avatars.githubusercontent.com/u/478237?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/waldyrious"><b>Waldir Pimenta</b></a><br><sub>&#64;waldyrious · 483 followers</sub></td>
 <td align="right"><b>447</b></td>
 <td align="right">222</td>
@@ -60,7 +78,7 @@
 <td align="right">84</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">7</td>
 <td><a href="https://github.com/peterpt"><img src="https://avatars.githubusercontent.com/u/7487321?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/peterpt"><b>peterpt</b></a><br><sub>&#64;peterpt · 419 followers</sub></td>
 <td align="right"><b>222</b></td>
 <td align="right">201</td>
@@ -75,10 +93,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 5 of 493 discovered developers (488 awaiting measurement).
+- **Measured:** 7 of 537 discovered developers (530 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 108 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

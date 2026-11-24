@@ -73,7 +73,7 @@
 <tr>
 <td align="right">8</td>
 <td><a href="https://github.com/Burkifa23"><img src="https://avatars.githubusercontent.com/u/97257798?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Burkifa23"><b>Frank Kwizera</b></a><br><sub>&#64;Burkifa23</sub></td>
-<td align="right"><b>437</b></td>
+<td align="right"><b>435</b></td>
 <td align="right">116</td>
 <td><sub>Ghana, Berekuso</sub></td>
 </tr>
@@ -121,17 +121,17 @@
 </tr>
 <tr>
 <td align="right">15</td>
-<td><a href="https://github.com/Cedric-Raichand"><img src="https://avatars.githubusercontent.com/u/172207564?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Cedric-Raichand"><b>DZODZODZI CEDRICK</b></a><br><sub>&#64;Cedric-Raichand</sub></td>
-<td align="right"><b>345</b></td>
-<td align="right">48</td>
-<td><sub>Ghana</sub></td>
-</tr>
-<tr>
-<td align="right">16</td>
 <td><a href="https://github.com/codeoverdoze"><img src="https://avatars.githubusercontent.com/u/33605796?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codeoverdoze"><b>Codeoverdoze</b></a><br><sub>&#64;codeoverdoze</sub></td>
 <td align="right"><b>345</b></td>
 <td align="right">21</td>
 <td><sub>Accra, Ghana</sub></td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><a href="https://github.com/Cedric-Raichand"><img src="https://avatars.githubusercontent.com/u/172207564?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Cedric-Raichand"><b>DZODZODZI CEDRICK</b></a><br><sub>&#64;Cedric-Raichand</sub></td>
+<td align="right"><b>342</b></td>
+<td align="right">48</td>
+<td><sub>Ghana</sub></td>
 </tr>
 <tr>
 <td align="right">17</td>
@@ -157,7 +157,7 @@
 <tr>
 <td align="right">20</td>
 <td><a href="https://github.com/sedegah"><img src="https://avatars.githubusercontent.com/u/171694895?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sedegah"><b>Kimathi Sedegah</b></a><br><sub>&#64;sedegah</sub></td>
-<td align="right"><b>309</b></td>
+<td align="right"><b>310</b></td>
 <td align="right">96</td>
 <td><sub>Ghana</sub></td>
 </tr>

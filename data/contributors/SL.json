@@ -5,12 +5,13 @@
 "country": {"code":"SL","name":"Sierra Leone","slug":"sierra-leone"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":4,"measurementBacklog":396,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":6,"measurementBacklog":394,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"U_kgDOChYhzw","login":"lshariprasad","name":"HARI PRASAD L S","url":"https://github.com/lshariprasad","avatarUrl":"https://avatars.githubusercontent.com/u/169222607?s=80&v=4","followers":1802,"publicRepos":63,"location":"First Floor, 6C, CTA Garden, 1st Ave, Mangadu, Tamil Nadu 600122","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22","contributions":{"public":830,"commits":729,"pullRequests":46,"reviews":3,"issues":3,"repositories":49,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"U_kgDOChYhzw","login":"lshariprasad","name":"HARI PRASAD L S","url":"https://github.com/lshariprasad","avatarUrl":"https://avatars.githubusercontent.com/u/169222607?s=80&v=4","followers":1802,"publicRepos":63,"location":"First Floor, 6C, CTA Garden, 1st Ave, Mangadu, Tamil Nadu 600122","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22","contributions":{"public":830,"commits":729,"pullRequests":46,"reviews":3,"issues":3,"repositories":49,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjc3NjI3ODgw","login":"22Andrew","name":"Alhaji Mohamed Kanu","url":"https://github.com/22Andrew","avatarUrl":"https://avatars.githubusercontent.com/u/77627880?s=80&v=4","followers":0,"publicRepos":4,"location":"Sierra Leone","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":64,"commits":62,"pullRequests":1,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "2b707307045fd4dd",
-"updatedAt": "2026-11-23T13:10:04.236Z",
+"contentHash": "82a615078033eca3",
+"updatedAt": "2026-11-24T01:31:49.018Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T13:10:04.236Z"
+"generatedAt": "2026-11-24T01:31:49.018Z"
 }

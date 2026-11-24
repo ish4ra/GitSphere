@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/CG.json">JSON</a> |
+| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/CG.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,15 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/glody007"><img src="https://avatars.githubusercontent.com/u/25279896?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/glody007"><b>glody lubaba mbutwile</b></a><br><sub>&#64;glody007 · 28 followers</sub></td>
+<td align="right"><b>84</b></td>
+<td align="right">74</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/destino92"><img src="https://avatars.githubusercontent.com/u/11931357?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/destino92"><b>Destino Dello</b></a><br><sub>&#64;destino92 · 13 followers</sub></td>
 <td align="right"><b>50</b></td>
 <td align="right">36</td>
@@ -51,7 +60,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/sancty007"><img src="https://avatars.githubusercontent.com/u/118308514?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sancty007"><b>sanctifier Yaw-Mensah</b></a><br><sub>&#64;sancty007 · 9 followers</sub></td>
 <td align="right"><b>37</b></td>
 <td align="right">11</td>
@@ -60,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/didiamuri"><img src="https://avatars.githubusercontent.com/u/31784455?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/didiamuri"><b>Didierson AMURI</b></a><br><sub>&#64;didiamuri · 9 followers</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">2</td>
@@ -75,7 +84,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 5 of 212 discovered developers (207 awaiting measurement).
+- **Measured:** 7 of 212 discovered developers (205 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 1 of 46 in round 1.

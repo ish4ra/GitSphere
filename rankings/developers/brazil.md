@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/gustavoguanabara"><img src="https://avatars.githubusercontent.com/u/8683378?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gustavoguanabara"><b>Gustavo Guanabara</b></a><br><sub>&#64;gustavoguanabara</sub></td>
-<td align="right"><b>117,424</b></td>
+<td align="right"><b>117,454</b></td>
 <td align="right">15</td>
 <td><sub>Rio de Janeiro, Brazil</sub></td>
 </tr>
@@ -94,7 +94,7 @@
 <tr>
 <td align="right">11</td>
 <td><a href="https://github.com/ErickWendel"><img src="https://avatars.githubusercontent.com/u/8060102?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ErickWendel"><b>Erick Wendel</b></a><br><sub>&#64;ErickWendel</sub></td>
-<td align="right"><b>11,382</b></td>
+<td align="right"><b>11,384</b></td>
 <td align="right">339</td>
 <td><sub>São Paulo - Brazil</sub></td>
 </tr>
@@ -122,7 +122,7 @@
 <tr>
 <td align="right">15</td>
 <td><a href="https://github.com/Fernanda-Kipper"><img src="https://avatars.githubusercontent.com/u/61896274?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Fernanda-Kipper"><b>Fernanda Kipper</b></a><br><sub>&#64;Fernanda-Kipper</sub></td>
-<td align="right"><b>9,088</b></td>
+<td align="right"><b>9,089</b></td>
 <td align="right">84</td>
 <td><sub>Brazil</sub></td>
 </tr>
@@ -143,7 +143,7 @@
 <tr>
 <td align="right">18</td>
 <td><a href="https://github.com/cami-la"><img src="https://avatars.githubusercontent.com/u/64323124?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cami-la"><b>Camila Cavalcante</b></a><br><sub>&#64;cami-la</sub></td>
-<td align="right"><b>8,093</b></td>
+<td align="right"><b>8,092</b></td>
 <td align="right">163</td>
 <td><sub>Pernambuco, Brazil</sub></td>
 </tr>
@@ -178,14 +178,14 @@
 <tr>
 <td align="right">23</td>
 <td><a href="https://github.com/rodrigobranas"><img src="https://avatars.githubusercontent.com/u/7491283?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rodrigobranas"><b>Rodrigo Branas</b></a><br><sub>&#64;rodrigobranas</sub></td>
-<td align="right"><b>7,036</b></td>
+<td align="right"><b>7,037</b></td>
 <td align="right">395</td>
 <td><sub>Florianópolis, Brazil</sub></td>
 </tr>
 <tr>
 <td align="right">24</td>
 <td><a href="https://github.com/VictorTaelin"><img src="https://avatars.githubusercontent.com/u/13090166?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VictorTaelin"><b>Victor Taelin</b></a><br><sub>&#64;VictorTaelin</sub></td>
-<td align="right"><b>7,024</b></td>
+<td align="right"><b>7,022</b></td>
 <td align="right">262</td>
 <td><sub>Rio de Janeiro, Brazil</sub></td>
 </tr>
@@ -227,7 +227,7 @@
 <tr>
 <td align="right">30</td>
 <td><a href="https://github.com/JoasASantos"><img src="https://avatars.githubusercontent.com/u/34966120?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JoasASantos"><b>Joas A Santos</b></a><br><sub>&#64;JoasASantos</sub></td>
-<td align="right"><b>5,717</b></td>
+<td align="right"><b>5,719</b></td>
 <td align="right">324</td>
 <td><sub>Brasil</sub></td>
 </tr>
@@ -241,7 +241,7 @@
 <tr>
 <td align="right">32</td>
 <td><a href="https://github.com/insidegui"><img src="https://avatars.githubusercontent.com/u/67184?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/insidegui"><b>Guilherme Rambo</b></a><br><sub>&#64;insidegui</sub></td>
-<td align="right"><b>4,985</b></td>
+<td align="right"><b>4,986</b></td>
 <td align="right">236</td>
 <td><sub>Brazil</sub></td>
 </tr>
@@ -584,7 +584,7 @@
 <tr>
 <td align="right">81</td>
 <td><a href="https://github.com/sandeco"><img src="https://avatars.githubusercontent.com/u/3765602?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sandeco"><b>Sandeco</b></a><br><sub>&#64;sandeco</sub></td>
-<td align="right"><b>2,562</b></td>
+<td align="right"><b>2,564</b></td>
 <td align="right">79</td>
 <td><sub>Brazil</sub></td>
 </tr>
@@ -633,7 +633,7 @@
 <tr>
 <td align="right">88</td>
 <td><a href="https://github.com/turicas"><img src="https://avatars.githubusercontent.com/u/186126?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/turicas"><b>Álvaro Justen</b></a><br><sub>&#64;turicas</sub></td>
-<td align="right"><b>2,386</b></td>
+<td align="right"><b>2,385</b></td>
 <td align="right">162</td>
 <td><sub>São Paulo, Brazil</sub></td>
 </tr>
@@ -906,7 +906,7 @@
 <tr>
 <td align="right">127</td>
 <td><a href="https://github.com/Wanderson-Magalhaes"><img src="https://avatars.githubusercontent.com/u/60605512?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Wanderson-Magalhaes"><b>Wanderson M. Pimenta</b></a><br><sub>&#64;Wanderson-Magalhaes</sub></td>
-<td align="right"><b>1,696</b></td>
+<td align="right"><b>1,697</b></td>
 <td align="right">29</td>
 <td><sub>Brazil</sub></td>
 </tr>
@@ -1991,7 +1991,7 @@
 <tr>
 <td align="right">282</td>
 <td><a href="https://github.com/kelvins"><img src="https://avatars.githubusercontent.com/u/1009397?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kelvins"><b>Kelvin S. do Prado</b></a><br><sub>&#64;kelvins</sub></td>
-<td align="right"><b>943</b></td>
+<td align="right"><b>941</b></td>
 <td align="right">44</td>
 <td><sub>Santa Catarina, Brazil</sub></td>
 </tr>
@@ -3187,24 +3187,24 @@
 </tr>
 <tr>
 <td align="right">453</td>
-<td><a href="https://github.com/danhpaiva"><img src="https://avatars.githubusercontent.com/u/54754150?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danhpaiva"><b>Daniel Paiva</b></a><br><sub>&#64;danhpaiva</sub></td>
-<td align="right"><b>660</b></td>
-<td align="right">760</td>
-<td><sub>Brazil</sub></td>
-</tr>
-<tr>
-<td align="right">454</td>
 <td><a href="https://github.com/gegen07"><img src="https://avatars.githubusercontent.com/u/26390780?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gegen07"><b>Germano Barcelos</b></a><br><sub>&#64;gegen07</sub></td>
 <td align="right"><b>660</b></td>
 <td align="right">61</td>
 <td><sub>Juatuba, Minas Gerais</sub></td>
 </tr>
 <tr>
-<td align="right">455</td>
+<td align="right">454</td>
 <td><a href="https://github.com/guidocerqueira"><img src="https://avatars.githubusercontent.com/u/31373108?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/guidocerqueira"><b>Guido Cerqueira</b></a><br><sub>&#64;guidocerqueira</sub></td>
 <td align="right"><b>660</b></td>
 <td align="right">33</td>
 <td><sub>Salvador - BA</sub></td>
+</tr>
+<tr>
+<td align="right">455</td>
+<td><a href="https://github.com/danhpaiva"><img src="https://avatars.githubusercontent.com/u/54754150?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danhpaiva"><b>Daniel Paiva</b></a><br><sub>&#64;danhpaiva</sub></td>
+<td align="right"><b>659</b></td>
+<td align="right">760</td>
+<td><sub>Brazil</sub></td>
 </tr>
 <tr>
 <td align="right">456</td>
@@ -4483,7 +4483,7 @@
 <tr>
 <td align="right">638</td>
 <td><a href="https://github.com/douglasjunior"><img src="https://avatars.githubusercontent.com/u/1512341?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/douglasjunior"><b>Douglas Nassif Roma Junior</b></a><br><sub>&#64;douglasjunior</sub></td>
-<td align="right"><b>516</b></td>
+<td align="right"><b>515</b></td>
 <td align="right">200</td>
 <td><sub>Campo Mourão, PR, Brazil</sub></td>
 </tr>
@@ -7029,7 +7029,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global follower scan — every developer above this cutoff has been enumerated.
-- Organizations are excluded. 1,221 attributed developers are tracked; the cutoff is 377 followers.
+- Organizations are excluded. 1,392 attributed developers are tracked; the cutoff is 377 followers.
 - **Location discovery:** term 0 of 156 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

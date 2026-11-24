@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"GY","name":"Guyana","slug":"guyana"},
-"count": 150,
+"count": 148,
 "repositories": [
-  {"name":"JoshuaKissoon/Kademlia","stars":198,"forks":71,"language":"Java","license":"MIT","archived":false,"createdAt":"2014-02-18T20:35:43Z","pushedAt":"2018-12-13T15:50:52Z","owner":{"login":"JoshuaKissoon","type":"User","name":"Joshua Kissoon","location":"Georgetown, Guyana"},"attribution":{"code":"GY","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T13:37:39.558Z","id":"legacy:joshuakissoon/kademlia","legacy":true},
-  {"name":"rob-miller/rTracker","stars":48,"forks":17,"language":"Objective-C","license":"NOASSERTION","archived":false,"createdAt":"2016-04-14T10:34:47Z","pushedAt":"2025-03-21T17:20:45Z","owner":{"login":"rob-miller","type":"User","name":"Rob Miller","location":"Georgetown, Guyana"},"attribution":{"code":"GY","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T13:37:39.558Z","id":"legacy:rob-miller/rtracker","legacy":true},
   {"name":"MichaelATang/CSE2102","stars":29,"forks":15,"language":"PHP","archived":false,"createdAt":"2018-09-14T18:35:38Z","pushedAt":"2019-11-18T13:06:37Z","owner":{"login":"MichaelATang","type":"User","name":"Michael Tang","location":"Guyana"},"attribution":{"code":"GY","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:39.558Z","id":"legacy:michaelatang/cse2102","legacy":true},
   {"name":"dominicbraam/.dotfiles","stars":19,"forks":2,"language":"Shell","archived":false,"createdAt":"2021-03-20T20:49:08Z","pushedAt":"2026-09-08T16:38:47Z","owner":{"login":"dominicbraam","type":"User","name":"Dominic Braam","location":"Guyana"},"attribution":{"code":"GY","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:39.558Z","id":"legacy:dominicbraam/.dotfiles","legacy":true},
   {"name":"sandogeorge/webtalk","stars":12,"forks":7,"language":"Logtalk","license":"GPL-3.0","archived":true,"createdAt":"2017-10-17T15:52:03Z","pushedAt":"2023-04-12T08:32:50Z","owner":{"login":"sandogeorge","type":"User","name":"Sando George","location":"Guyana, South America"},"attribution":{"code":"GY","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:37:39.558Z","id":"legacy:sandogeorge/webtalk","legacy":true},

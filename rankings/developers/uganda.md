@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/developers/UG.json">JSON</a> |
+| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/developers/UG.json">JSON</a> |
 
 </div>
 
@@ -86,9 +86,51 @@
 </tr>
 <tr>
 <td align="right">10</td>
+<td><a href="https://github.com/muganga-charles"><img src="https://avatars.githubusercontent.com/u/104686307?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/muganga-charles"><b>Muganga Charles</b></a><br><sub>&#64;muganga-charles</sub></td>
+<td align="right"><b>333</b></td>
+<td align="right">82</td>
+<td><sub>Kampala</sub></td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/KubanjaElijahEldred"><img src="https://avatars.githubusercontent.com/u/185238919?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KubanjaElijahEldred"><b>KUBANJA ELIJAH ELDRED</b></a><br><sub>&#64;KubanjaElijahEldred</sub></td>
+<td align="right"><b>325</b></td>
+<td align="right">125</td>
+<td><sub>UGANDA</sub></td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><a href="https://github.com/Fresh-Teacher"><img src="https://avatars.githubusercontent.com/u/98003374?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Fresh-Teacher"><b>Fresh Teacher</b></a><br><sub>&#64;Fresh-Teacher</sub></td>
+<td align="right"><b>322</b></td>
+<td align="right">613</td>
+<td><sub>Kampala</sub></td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><a href="https://github.com/aivan2798"><img src="https://avatars.githubusercontent.com/u/77699614?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aivan2798"><b>aivan2798</b></a><br><sub>&#64;aivan2798</sub></td>
+<td align="right"><b>320</b></td>
+<td align="right">52</td>
+<td><sub>Kampala</sub></td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><a href="https://github.com/MUKE-coder"><img src="https://avatars.githubusercontent.com/u/64189841?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MUKE-coder"><b>MUKE JOHNBAPTIST</b></a><br><sub>&#64;MUKE-coder</sub></td>
+<td align="right"><b>319</b></td>
+<td align="right">257</td>
+<td><sub>KAMPALA -UGANDA</sub></td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><a href="https://github.com/kidde60"><img src="https://avatars.githubusercontent.com/u/95461386?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kidde60"><b>GEORGE WILLIAM KIDDE</b></a><br><sub>&#64;kidde60</sub></td>
+<td align="right"><b>317</b></td>
+<td align="right">74</td>
+<td><sub>KAMPALA, UGANDA</sub></td>
+</tr>
+<tr>
+<td align="right">16</td>
 <td><a href="https://github.com/has2k1"><img src="https://avatars.githubusercontent.com/u/780341?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/has2k1"><b>Hassan Kibirige</b></a><br><sub>&#64;has2k1</sub></td>
 <td align="right"><b>300</b></td>
-<td align="right">0</td>
+<td align="right">100</td>
 <td><sub>Kampala, Uganda</sub></td>
 </tr>
 </tbody>
@@ -99,7 +141,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 10 attributed developers are tracked; the cutoff is 300 followers.
+- Organizations are excluded. 16 attributed developers are tracked; the cutoff is 300 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

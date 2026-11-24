@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/SA.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/SA.json">JSON</a> |
 
 </div>
 
@@ -68,6 +68,24 @@
 <td align="right">0</td>
 <td align="right">4</td>
 </tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/KarimEbrahemAbdelaziz"><img src="https://avatars.githubusercontent.com/u/24304313?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KarimEbrahemAbdelaziz"><b>Karim Ebrahem</b></a><br><sub>&#64;KarimEbrahemAbdelaziz · 312 followers</sub></td>
+<td align="right"><b>24</b></td>
+<td align="right">9</td>
+<td align="right">2</td>
+<td align="right">2</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/madahetooo"><img src="https://avatars.githubusercontent.com/u/28203059?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/madahetooo"><b>Eslam Medhat</b></a><br><sub>&#64;madahetooo · 461 followers</sub></td>
+<td align="right"><b>22</b></td>
+<td align="right">18</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
 </tbody>
 </table>
 
@@ -75,10 +93,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 5 of 408 discovered developers (403 awaiting measurement).
+- **Measured:** 7 of 409 discovered developers (402 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 141 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/developers/SS.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/developers/SS.json">JSON</a> |
 
 </div>
 
@@ -51,10 +51,24 @@
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/lasuba"><img src="https://avatars.githubusercontent.com/u/29671386?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lasuba"><b>Mawa Zephaniah Isaac</b></a><br><sub>&#64;lasuba</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">2</td>
+<td><sub>Juba, SSD</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/gopherstud"><img src="https://avatars.githubusercontent.com/u/124481088?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gopherstud"><b>gopher student</b></a><br><sub>&#64;gopherstud</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">16</td>
 <td><sub>Kafia Kingi</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/JacobDhieu"><img src="https://avatars.githubusercontent.com/u/85789721?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JacobDhieu"><b>JacobDhieu</b></a><br><sub>&#64;JacobDhieu</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Juba, SSD</sub></td>
 </tr>
 </tbody>
 </table>
@@ -64,7 +78,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 5 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 7 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

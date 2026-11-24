@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **12** | 22 Nov 2026 | <a href="../../data/developers/TZ.json">JSON</a> |
+| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/developers/TZ.json">JSON</a> |
 
 </div>
 
@@ -100,6 +100,13 @@
 </tr>
 <tr>
 <td align="right">12</td>
+<td><a href="https://github.com/TripleHat"><img src="https://avatars.githubusercontent.com/u/68332137?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TripleHat"><b>TripleHat</b></a><br><sub>&#64;TripleHat</sub></td>
+<td align="right"><b>307</b></td>
+<td align="right">62</td>
+<td><sub>Tanzania</sub></td>
+</tr>
+<tr>
+<td align="right">13</td>
 <td><a href="https://github.com/thysultan"><img src="https://avatars.githubusercontent.com/u/810601?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thysultan"><b>Sultan</b></a><br><sub>&#64;thysultan</sub></td>
 <td align="right"><b>179</b></td>
 <td align="right">0</td>
@@ -113,7 +120,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 12 attributed developers are tracked; the cutoff is 179 followers.
+- Organizations are excluded. 13 attributed developers are tracked; the cutoff is 179 followers.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/contributors/US.json">JSON</a> |
+| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/US.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,24 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/bryant1410"><img src="https://avatars.githubusercontent.com/u/3905501?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bryant1410"><b>Santiago Castro</b></a><br><sub>&#64;bryant1410 · 765 followers</sub></td>
+<td align="right"><b>169</b></td>
+<td align="right">158</td>
+<td align="right">0</td>
+<td align="right">2</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/Surfndez"><img src="https://avatars.githubusercontent.com/u/11703698?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Surfndez"><b>Dez</b></a><br><sub>&#64;Surfndez · 392 followers</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/seanwallawalla"><img src="https://avatars.githubusercontent.com/u/71748021?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/seanwallawalla"><b>Seanpm2001 Alt account</b></a><br><sub>&#64;seanwallawalla · 626 followers</sub></td>
 <td align="right"><b>101</b></td>
 <td align="right">0</td>
@@ -57,7 +75,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 4 of 1,874 discovered developers (1,870 awaiting measurement).
+- **Measured:** 6 of 1,908 discovered developers (1,902 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 0 in round 1.

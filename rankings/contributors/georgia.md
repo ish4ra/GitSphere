@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/GE.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/GE.json">JSON</a> |
 
 </div>
 
@@ -34,6 +34,24 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/tornikegomareli"><img src="https://avatars.githubusercontent.com/u/24585160?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tornikegomareli"><b>Tornike Gomareli</b></a><br><sub>&#64;tornikegomareli · 317 followers</sub></td>
+<td align="right"><b>4,503</b></td>
+<td align="right">3,979</td>
+<td align="right">365</td>
+<td align="right">23</td>
+<td align="right">81</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/akalongman"><img src="https://avatars.githubusercontent.com/u/423050?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akalongman"><b>Avtandil Kikabidze</b></a><br><sub>&#64;akalongman · 263 followers</sub></td>
+<td align="right"><b>1,279</b></td>
+<td align="right">1,206</td>
+<td align="right">31</td>
+<td align="right">0</td>
+<td align="right">23</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/bumbeishvili"><img src="https://avatars.githubusercontent.com/u/6873202?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bumbeishvili"><b>David Bumbeishvili</b></a><br><sub>&#64;bumbeishvili · 413 followers</sub></td>
 <td align="right"><b>990</b></td>
 <td align="right">965</td>
@@ -42,7 +60,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">5</td>
 <td><a href="https://github.com/andreyvit"><img src="https://avatars.githubusercontent.com/u/5364?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andreyvit"><b>Andrey Tarantsov</b></a><br><sub>&#64;andreyvit · 299 followers</sub></td>
 <td align="right"><b>548</b></td>
 <td align="right">535</td>
@@ -51,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">6</td>
 <td><a href="https://github.com/kristina-makalatia"><img src="https://avatars.githubusercontent.com/u/33975427?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kristina-makalatia"><b>Kristina</b></a><br><sub>&#64;kristina-makalatia · 474 followers</sub></td>
 <td align="right"><b>90</b></td>
 <td align="right">66</td>
@@ -60,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">7</td>
 <td><a href="https://github.com/riseansmal"><img src="https://avatars.githubusercontent.com/u/6877737?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/riseansmal"><b>Ri Sean Smal</b></a><br><sub>&#64;riseansmal · 2,618 followers</sub></td>
 <td align="right"><b>28</b></td>
 <td align="right">8</td>
@@ -69,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">8</td>
 <td><a href="https://github.com/rlidwka"><img src="https://avatars.githubusercontent.com/u/999113?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rlidwka"><b>Alex Kocharin</b></a><br><sub>&#64;rlidwka · 481 followers</sub></td>
 <td align="right"><b>21</b></td>
 <td align="right">18</td>
@@ -84,7 +102,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 6 of 271 discovered developers (265 awaiting measurement).
+- **Measured:** 9 of 275 discovered developers (266 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 3 of 167 in round 1.

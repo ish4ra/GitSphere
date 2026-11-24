@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **31** | 22 Nov 2026 | <a href="../data/RS.json">JSON</a> |
+| 🟡 Provisional | **45** | 22 Nov 2026 | <a href="../data/RS.json">JSON</a> |
 
 </div>
 
@@ -238,6 +238,104 @@
 <td align="right">120</td>
 <td>Go</td>
 </tr>
+<tr>
+<td align="right">32</td>
+<td><img src="https://github.com/ClusterM.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ClusterM/wg-obfuscator"><b>ClusterM/wg-obfuscator</b></a><br><sub>WireGuard Obfuscator - simple obfuscator for WireGuard. Useful if your ISP/government blocks WireGuard traffic.</sub></td>
+<td align="right"><b>1,086</b></td>
+<td align="right">70</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">33</td>
+<td><img src="https://github.com/dreikanter.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dreikanter/sublime-bookmarks"><b>dreikanter/sublime-bookmarks</b></a><br><sub>Sublime Text essential plugins and resources</sub></td>
+<td align="right"><b>1,076</b></td>
+<td align="right">69</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">34</td>
+<td><img src="https://github.com/nikolalsvk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nikolalsvk/render_async"><b>nikolalsvk/render&#95;async</b></a><br><sub>render&#95;async lets you include pages asynchronously with AJAX</sub></td>
+<td align="right"><b>1,068</b></td>
+<td align="right">70</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">35</td>
+<td><img src="https://github.com/whaleyxbt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/whaleyxbt/claude-motion"><b>whaleyxbt/claude-motion</b></a><br><sub>A motion design toolkit for coding agents.</sub></td>
+<td align="right"><b>1,045</b></td>
+<td align="right">137</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">36</td>
+<td><img src="https://github.com/tadija.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tadija/AEXML"><b>tadija/AEXML</b></a><br><sub>Swift minion for simple and lightweight XML parsing</sub></td>
+<td align="right"><b>1,037</b></td>
+<td align="right">202</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">37</td>
+<td><img src="https://github.com/filiparag.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/filiparag/wikiman"><b>filiparag/wikiman</b></a><br><sub>Wikiman is a universal offline documentation search engine for manual pages, tldr-pages, ArchWiki, Gentoo Wiki, DevDocs…</sub></td>
+<td align="right"><b>1,036</b></td>
+<td align="right">27</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">38</td>
+<td><img src="https://github.com/DNedic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DNedic/lockfree"><b>DNedic/lockfree</b></a><br><sub>A collection of lock-free data structures written in standard C++11</sub></td>
+<td align="right"><b>990</b></td>
+<td align="right">61</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">39</td>
+<td><img src="https://github.com/Wlada.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Wlada/vue-carousel-3d"><b>Wlada/vue-carousel-3d</b></a><br><sub>Vue Carousel 3D - Beautiful, flexible and touch supported 3D Carousel for Vue.js</sub></td>
+<td align="right"><b>977</b></td>
+<td align="right">204</td>
+<td>Vue</td>
+</tr>
+<tr>
+<td align="right">40</td>
+<td><img src="https://github.com/BugiDev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/BugiDev/react-native-calendar-strip"><b>BugiDev/react-native-calendar-strip</b></a><br><sub>Easy to use and visually stunning calendar component for React Native.</sub></td>
+<td align="right"><b>973</b></td>
+<td align="right">335</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">41</td>
+<td><img src="https://github.com/petrovicstefanrs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/petrovicstefanrs/30_seconds_of_knowledge"><b>petrovicstefanrs/30&#95;seconds&#95;of&#95;knowledge</b></a><br><sub>Google Chrome Extension that lets you gain new developer skills, every time you open a New Tab.</sub></td>
+<td align="right"><b>964</b></td>
+<td align="right">119</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">42</td>
+<td><img src="https://github.com/StefanTheCode.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/StefanTheCode/dotnet_interview_questions"><b>StefanTheCode/dotnet&#95;interview&#95;questions</b></a></td>
+<td align="right"><b>955</b></td>
+<td align="right">275</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">43</td>
+<td><img src="https://github.com/kutovoys.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kutovoys/xray-checker"><b>kutovoys/xray-checker</b></a><br><sub>Xray Checker: A Prometheus exporter for monitoring Xray proxies</sub></td>
+<td align="right"><b>951</b></td>
+<td align="right">98</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><img src="https://github.com/jocicmarko.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jocicmarko/ultrasound-nerve-segmentation"><b>jocicmarko/ultrasound-nerve-segmentation</b></a><br><sub>Deep Learning Tutorial for Kaggle Ultrasound Nerve Segmentation competition, using Keras</sub></td>
+<td align="right"><b>946</b></td>
+<td align="right">327</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">45</td>
+<td><img src="https://github.com/milanm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/milanm/Cloud-Product-Mapping"><b>milanm/Cloud-Product-Mapping</b></a><br><sub>All major services between AWS, Azure, and GCP are mapped with links pointing to product home pages.</sub></td>
+<td align="right"><b>934</b></td>
+<td align="right">175</td>
+<td>—</td>
+</tr>
 </tbody>
 </table>
 
@@ -246,9 +344,9 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 1,181 stars; 31 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 934 stars; 45 attributed candidates are tracked.
 - 1 multi-repository owners are queued for expansion.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 148 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

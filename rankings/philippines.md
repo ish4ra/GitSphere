@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **52** | 02 Nov 2026 | <a href="../data/PH.json">JSON</a> |
+| 🟠 Stale | **50** | 02 Nov 2026 | <a href="../data/PH.json">JSON</a> |
 
-> **Not yet re-verified.** 26 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 17 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -207,181 +207,167 @@
 </tr>
 <tr>
 <td align="right">27</td>
-<td><img src="https://github.com/morepancakestacks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/morepancakestacks/CS211-OOP-samples"><b>morepancakestacks/CS211-OOP-samples</b></a></td>
-<td align="right"><b>180</b></td>
-<td align="right">6</td>
-<td>Java</td>
+<td><img src="https://github.com/vue-stripe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vue-stripe/vue-stripe"><b>vue-stripe/vue-stripe</b></a><br><sub>Stripe Elements and Checkout as Vue components</sub></td>
+<td align="right"><b>1,124</b></td>
+<td align="right">140</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">28</td>
-<td><img src="https://github.com/marksteve.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/marksteve/dtmb"><b>marksteve/dtmb</b></a></td>
-<td align="right"><b>173</b></td>
-<td align="right">89</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/smoochiee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/smoochiee/Bluetooth-jammer-esp32"><b>smoochiee/Bluetooth-jammer-esp32</b></a> <sub>archived</sub><br><sub>Bluetooth jamming esp32 with nrf24l01</sub></td>
+<td align="right"><b>1,115</b></td>
+<td align="right">238</td>
+<td>C++</td>
 </tr>
 <tr>
 <td align="right">29</td>
-<td><img src="https://github.com/Elite588.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Elite588/machine-learning-for-trading"><b>Elite588/machine-learning-for-trading</b></a></td>
-<td align="right"><b>137</b></td>
-<td align="right">12</td>
-<td>Jupyter Notebook</td>
+<td><img src="https://github.com/adonespitogo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adonespitogo/AdoBot"><b>adonespitogo/AdoBot</b></a><br><sub>Open-source android spyware</sub></td>
+<td align="right"><b>1,076</b></td>
+<td align="right">327</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">30</td>
-<td><img src="https://github.com/marksantiago290.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/marksantiago290/ERC20-Token-Presale-Smart-Contract"><b>marksantiago290/ERC20-Token-Presale-Smart-Contract</b></a></td>
-<td align="right"><b>114</b></td>
-<td align="right">43</td>
-<td>Solidity</td>
+<td><img src="https://github.com/markterence.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/markterence/discord-quest-completer"><b>markterence/discord-quest-completer</b></a><br><sub>A Windows desktop application to complete quests on Discord without installing the full actual games.</sub></td>
+<td align="right"><b>1,011</b></td>
+<td align="right">99</td>
+<td>Vue</td>
 </tr>
 <tr>
 <td align="right">31</td>
-<td><img src="https://github.com/six519.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/six519/PastebinPython"><b>six519/PastebinPython</b></a></td>
-<td align="right"><b>89</b></td>
-<td align="right">46</td>
-<td>Python</td>
+<td><img src="https://github.com/janleigh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/janleigh/dotfiles"><b>janleigh/dotfiles</b></a> <sub>archived</sub><br><sub>My desktop configuration files.</sub></td>
+<td align="right"><b>936</b></td>
+<td align="right">30</td>
+<td>Shell</td>
 </tr>
 <tr>
 <td align="right">32</td>
-<td><img src="https://github.com/Evolution-X.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Evolution-X/manifest"><b>Evolution-X/manifest</b></a></td>
-<td align="right"><b>84</b></td>
-<td align="right">82</td>
-<td>—</td>
+<td><img src="https://github.com/eromatiya.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eromatiya/blurredfox"><b>eromatiya/blurredfox</b></a><br><sub>A sleek, modern and elegant Firefox CSS theme</sub></td>
+<td align="right"><b>924</b></td>
+<td align="right">43</td>
+<td>CSS</td>
 </tr>
 <tr>
 <td align="right">33</td>
-<td><img src="https://github.com/constROD.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/constROD/template-hono-prisma-kysely"><b>constROD/template-hono-prisma-kysely</b></a></td>
-<td align="right"><b>61</b></td>
-<td align="right">16</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/silverbux.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/silverbux/laravel-angular-admin"><b>silverbux/laravel-angular-admin</b></a> <sub>archived</sub><br><sub>Laravel + Angularjs + Bootstrap + AdminLTE binded by Gulp workflow Admin Dashboard Boilerplate / Starter.</sub></td>
+<td align="right"><b>919</b></td>
+<td align="right">403</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td align="right">34</td>
-<td><img src="https://github.com/zshaian.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zshaian/snipshelf"><b>zshaian/snipshelf</b></a></td>
-<td align="right"><b>58</b></td>
-<td align="right">12</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">35</td>
-<td><img src="https://github.com/xchanmolx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xchanmolx/E-CommerceApp"><b>xchanmolx/E-CommerceApp</b></a></td>
-<td align="right"><b>49</b></td>
-<td align="right">2</td>
-<td>C#</td>
-</tr>
-<tr>
-<td align="right">36</td>
 <td><img src="https://github.com/rodrigogalura.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rodrigogalura/tuner"><b>rodrigogalura/tuner</b></a></td>
 <td align="right"><b>30</b></td>
 <td align="right">2</td>
 <td>PHP</td>
 </tr>
 <tr>
-<td align="right">37</td>
+<td align="right">35</td>
 <td><img src="https://github.com/Evolution-X-AOSP.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Evolution-X-AOSP/vendor_evolution"><b>Evolution-X-AOSP/vendor&#95;evolution</b></a> <sub>archived</sub></td>
 <td align="right"><b>28</b></td>
 <td align="right">60</td>
 <td>Makefile</td>
 </tr>
 <tr>
-<td align="right">38</td>
+<td align="right">36</td>
 <td><img src="https://github.com/Hazy019.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Hazy019/youtube-shorts-automation"><b>Hazy019/youtube-shorts-automation</b></a></td>
 <td align="right"><b>27</b></td>
 <td align="right">1</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">39</td>
+<td align="right">37</td>
 <td><img src="https://github.com/Etriii.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Etriii/Etriii"><b>Etriii/Etriii</b></a></td>
 <td align="right"><b>17</b></td>
 <td align="right">2</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">40</td>
+<td align="right">38</td>
 <td><img src="https://github.com/joebertcerezo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/joebertcerezo/NS-Todolist"><b>joebertcerezo/NS-Todolist</b></a></td>
 <td align="right"><b>17</b></td>
 <td align="right">1</td>
 <td>Vue</td>
 </tr>
 <tr>
-<td align="right">41</td>
+<td align="right">39</td>
 <td><img src="https://github.com/RyannKim327.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RyannKim327/UltimateGuitar-Project"><b>RyannKim327/UltimateGuitar-Project</b></a></td>
 <td align="right"><b>13</b></td>
 <td align="right">1</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">42</td>
+<td align="right">40</td>
 <td><img src="https://github.com/mart-anthony-stark.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mart-anthony-stark/Unnamed.js"><b>mart-anthony-stark/Unnamed.js</b></a></td>
 <td align="right"><b>13</b></td>
 <td align="right">0</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">43</td>
+<td align="right">41</td>
 <td><img src="https://github.com/jrgabrillo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jrgabrillo/lectures"><b>jrgabrillo/lectures</b></a></td>
 <td align="right"><b>12</b></td>
 <td align="right">7</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">44</td>
+<td align="right">42</td>
 <td><img src="https://github.com/JophilGulane.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JophilGulane/Learn-Data-Structures-and-Algorithms"><b>JophilGulane/Learn-Data-Structures-and-Algorithms</b></a></td>
 <td align="right"><b>12</b></td>
 <td align="right">2</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">45</td>
+<td align="right">43</td>
 <td><img src="https://github.com/Gerald200422.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Gerald200422/Gerald200422"><b>Gerald200422/Gerald200422</b></a></td>
 <td align="right"><b>12</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">46</td>
+<td align="right">44</td>
 <td><img src="https://github.com/lucifron28.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lucifron28/lucifron28"><b>lucifron28/lucifron28</b></a></td>
 <td align="right"><b>10</b></td>
 <td align="right">1</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">47</td>
+<td align="right">45</td>
 <td><img src="https://github.com/Dojikooo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Dojikooo/Badges"><b>Dojikooo/Badges</b></a></td>
 <td align="right"><b>9</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">48</td>
+<td align="right">46</td>
 <td><img src="https://github.com/aldrin112602.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aldrin112602/aldrin112602"><b>aldrin112602/aldrin112602</b></a></td>
 <td align="right"><b>8</b></td>
 <td align="right">4</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">49</td>
+<td align="right">47</td>
 <td><img src="https://github.com/gpbaculio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gpbaculio/rgr"><b>gpbaculio/rgr</b></a></td>
 <td align="right"><b>8</b></td>
 <td align="right">0</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">50</td>
+<td align="right">48</td>
 <td><img src="https://github.com/ianpurif.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ianpurif/Calculator-using-PHP"><b>ianpurif/Calculator-using-PHP</b></a></td>
 <td align="right"><b>8</b></td>
 <td align="right">0</td>
 <td>PHP</td>
 </tr>
 <tr>
-<td align="right">51</td>
+<td align="right">49</td>
 <td><img src="https://github.com/bonezegei.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bonezegei/Bonezegei-SMS"><b>bonezegei/Bonezegei-SMS</b></a></td>
 <td align="right"><b>7</b></td>
 <td align="right">2</td>
 <td>PHP</td>
 </tr>
 <tr>
-<td align="right">52</td>
+<td align="right">50</td>
 <td><img src="https://github.com/mjoshua97241.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mjoshua97241/finstream-market-risk-data-platform"><b>mjoshua97241/finstream-market-risk-data-platform</b></a></td>
 <td align="right"><b>7</b></td>
 <td align="right">0</td>
@@ -395,10 +381,10 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 7 stars; 52 attributed candidates are tracked.
-- 26 entries were carried over from the previous dataset and are pending revalidation.
-- 137 multi-repository owners are queued for expansion.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Cutoff:** the last listed repository has 7 stars; 50 attributed candidates are tracked.
+- 17 entries were carried over from the previous dataset and are pending revalidation.
+- 131 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 210 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

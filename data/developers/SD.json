@@ -5,16 +5,18 @@
 "country": {"code":"SD","name":"Sudan","slug":"sudan"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":5,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":7,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":106,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"U_kgDOC1jisQ","login":"sealsoro","name":"kino / soro , FROGGYDUDE'S NUMBER #1 GLAZER","url":"https://github.com/sealsoro","avatarUrl":"https://avatars.githubusercontent.com/u/190374577?s=80&v=4","followers":419,"publicRepos":9,"location":"DW, FSKN, MCYT, or with oomfs °0°","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23"},
   {"rank":2,"id":"U_kgDODn-Gzw","login":"demonbell3","name":"🌈 . 𝓒𝓱𝓪𝓻𝓵𝓸𝓽𝓽𝓮 ⸝⸝ >ᴗ<","url":"https://github.com/demonbell3","avatarUrl":"https://avatars.githubusercontent.com/u/243238607?s=80&v=4","followers":357,"publicRepos":3,"location":"Hellaverse, Forsaken/DW, CRK or Fnaf ! | 🌈","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23"},
-  {"rank":3,"id":"U_kgDOBk-d9A","login":"01011994vbntrustingod","name":"MUHANNED","url":"https://github.com/01011994vbntrustingod","avatarUrl":"https://avatars.githubusercontent.com/u/105881076?s=80&v=4","followers":0,"publicRepos":5,"location":"Sudan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":4,"id":"U_kgDOC5AtZg","login":"0xlong-sd","name":"Yassin.sd","url":"https://github.com/0xlong-sd","avatarUrl":"https://avatars.githubusercontent.com/u/193998182?s=80&v=4","followers":0,"publicRepos":2,"location":"sudan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":5,"id":"U_kgDODlViCg","login":"0xTarig","name":"Tarig","url":"https://github.com/0xTarig","avatarUrl":"https://avatars.githubusercontent.com/u/240476682?s=80&v=4","followers":0,"publicRepos":1,"location":"Sudan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
+  {"rank":3,"id":"U_kgDOCYRKmA","login":"Sapsfi","name":null,"url":"https://github.com/Sapsfi","avatarUrl":"https://avatars.githubusercontent.com/u/159664792?s=80&v=4","followers":332,"publicRepos":3,"location":"Spanish + Eng ノ mcyt/ DW / jjk /roblox ⠀ ⠀⠀⠀ ⠀⠀⠀⠀⠀ ⠀⠀⠀ ⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀ ⠀⠀⠀⠀Delighted to follow you, free c+h, I love my ent…","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-24"},
+  {"rank":4,"id":"U_kgDOBk-d9A","login":"01011994vbntrustingod","name":"MUHANNED","url":"https://github.com/01011994vbntrustingod","avatarUrl":"https://avatars.githubusercontent.com/u/105881076?s=80&v=4","followers":0,"publicRepos":5,"location":"Sudan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":5,"id":"U_kgDOC5AtZg","login":"0xlong-sd","name":"Yassin.sd","url":"https://github.com/0xlong-sd","avatarUrl":"https://avatars.githubusercontent.com/u/193998182?s=80&v=4","followers":0,"publicRepos":2,"location":"sudan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":6,"id":"U_kgDODlViCg","login":"0xTarig","name":"Tarig","url":"https://github.com/0xTarig","avatarUrl":"https://avatars.githubusercontent.com/u/240476682?s=80&v=4","followers":0,"publicRepos":1,"location":"Sudan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":7,"id":"MDQ6VXNlcjE3MTc0ODg1","login":"11ahmed","name":"a7med","url":"https://github.com/11ahmed","avatarUrl":"https://avatars.githubusercontent.com/u/17174885?s=80&v=4","followers":0,"publicRepos":1,"location":"sudan-kh","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "b30ee8d4f58172c6",
-"updatedAt": "2026-11-23T13:10:04.236Z",
+"contentHash": "83bf251b53aa6e4d",
+"updatedAt": "2026-11-24T01:31:49.018Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T13:10:04.236Z"
+"generatedAt": "2026-11-24T01:31:49.018Z"
 }

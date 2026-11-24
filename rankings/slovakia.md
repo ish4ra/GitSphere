@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **46** | 03 Nov 2026 | <a href="../data/SK.json">JSON</a> |
+| 🟠 Stale | **41** | 03 Nov 2026 | <a href="../data/SK.json">JSON</a> |
 
-> **Not yet re-verified.** 23 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 12 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -186,160 +186,125 @@
 </tr>
 <tr>
 <td align="right">24</td>
-<td><img src="https://github.com/pshtif.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pshtif/Genome2D"><b>pshtif/Genome2D</b></a></td>
-<td align="right"><b>217</b></td>
-<td align="right">39</td>
-<td>—</td>
+<td><img src="https://github.com/mkottman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mkottman/AndroLua"><b>mkottman/AndroLua</b></a><br><sub>Lua and LuaJava ported to Android</sub></td>
+<td align="right"><b>1,115</b></td>
+<td align="right">303</td>
+<td>C</td>
 </tr>
 <tr>
 <td align="right">25</td>
-<td><img src="https://github.com/amoledwatchfaces.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/amoledwatchfaces/Complications-Suite-Wear-OS"><b>amoledwatchfaces/Complications-Suite-Wear-OS</b></a></td>
-<td align="right"><b>130</b></td>
-<td align="right">11</td>
+<td><img src="https://github.com/Kin69.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Kin69/EasyNotes"><b>Kin69/EasyNotes</b></a><br><sub>EasyNotes: Jetpack Compose MVVM for seamless note-taking. Effortless creation, editing, and organization.</sub></td>
+<td align="right"><b>1,105</b></td>
+<td align="right">76</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">26</td>
-<td><img src="https://github.com/deathbeam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/deathbeam/dotfiles"><b>deathbeam/dotfiles</b></a></td>
-<td align="right"><b>112</b></td>
-<td align="right">4</td>
-<td>GLSL</td>
+<td><img src="https://github.com/AlephNullSK.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AlephNullSK/dnsgen"><b>AlephNullSK/dnsgen</b></a><br><sub>DNSGen is a powerful and flexible DNS name permutation tool designed for security researchers and penetration testers.…</sub></td>
+<td align="right"><b>1,083</b></td>
+<td align="right">131</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">27</td>
-<td><img src="https://github.com/Jerga99.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Jerga99/portfolio-jerga"><b>Jerga99/portfolio-jerga</b></a></td>
-<td align="right"><b>100</b></td>
-<td align="right">45</td>
+<td><img src="https://github.com/wessamlauf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wessamlauf/homeassistant-frosted-glass-themes"><b>wessamlauf/homeassistant-frosted-glass-themes</b></a><br><sub>✨ Beautiful and modern Theme for Home Assistant</sub></td>
+<td align="right"><b>1,078</b></td>
+<td align="right">29</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">28</td>
-<td><img src="https://github.com/LOM-instruments.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LOM-instruments/Priezor"><b>LOM-instruments/Priezor</b></a></td>
-<td align="right"><b>98</b></td>
-<td align="right">8</td>
-<td>—</td>
+<td><img src="https://github.com/MartinHeinz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MartinHeinz/python-project-blueprint"><b>MartinHeinz/python-project-blueprint</b></a><br><sub>Blueprint/Boilerplate For Python Projects</sub></td>
+<td align="right"><b>972</b></td>
+<td align="right">227</td>
+<td>Makefile</td>
 </tr>
 <tr>
 <td align="right">29</td>
-<td><img src="https://github.com/gamelaster.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gamelaster/ArduinoGamepad"><b>gamelaster/ArduinoGamepad</b></a></td>
-<td align="right"><b>95</b></td>
-<td align="right">21</td>
-<td>C++</td>
+<td><img src="https://github.com/svrcekmichal.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/svrcekmichal/redux-axios-middleware"><b>svrcekmichal/redux-axios-middleware</b></a><br><sub>Redux middleware for fetching data with axios HTTP client</sub></td>
+<td align="right"><b>906</b></td>
+<td align="right">93</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">30</td>
-<td><img src="https://github.com/mfojtik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mfojtik/sinatra-rabbit"><b>mfojtik/sinatra-rabbit</b></a></td>
-<td align="right"><b>84</b></td>
-<td align="right">3</td>
-<td>Ruby</td>
-</tr>
-<tr>
-<td align="right">31</td>
-<td><img src="https://github.com/markub3327.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/markub3327/HAR-Transformer"><b>markub3327/HAR-Transformer</b></a></td>
-<td align="right"><b>78</b></td>
-<td align="right">16</td>
-<td>Jupyter Notebook</td>
-</tr>
-<tr>
-<td align="right">32</td>
-<td><img src="https://github.com/karpolan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/karpolan/react-typescript-mui-with-auth-starter"><b>karpolan/react-typescript-mui-with-auth-starter</b></a></td>
-<td align="right"><b>55</b></td>
-<td align="right">20</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">33</td>
-<td><img src="https://github.com/ingbrzy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ingbrzy/Xiaomi.eu-MIUIv12-XML-Compare"><b>ingbrzy/Xiaomi.eu-MIUIv12-XML-Compare</b></a></td>
-<td align="right"><b>45</b></td>
-<td align="right">28</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">34</td>
-<td><img src="https://github.com/ivanahuckova.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ivanahuckova/avocado_monitoring"><b>ivanahuckova/avocado&#95;monitoring</b></a></td>
-<td align="right"><b>37</b></td>
-<td align="right">5</td>
-<td>C++</td>
-</tr>
-<tr>
-<td align="right">35</td>
 <td><img src="https://github.com/vojto.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vojto/atmos2"><b>vojto/atmos2</b></a></td>
 <td align="right"><b>23</b></td>
 <td align="right">2</td>
 <td>CoffeeScript</td>
 </tr>
 <tr>
-<td align="right">36</td>
+<td align="right">31</td>
 <td><img src="https://github.com/zpl-zak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zpl-zak/rurik"><b>zpl-zak/rurik</b></a></td>
 <td align="right"><b>19</b></td>
 <td align="right">1</td>
 <td>Go</td>
 </tr>
 <tr>
-<td align="right">37</td>
+<td align="right">32</td>
 <td><img src="https://github.com/xitop.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xitop/clex"><b>xitop/clex</b></a></td>
 <td align="right"><b>17</b></td>
 <td align="right">1</td>
 <td>C</td>
 </tr>
 <tr>
-<td align="right">38</td>
+<td align="right">33</td>
 <td><img src="https://github.com/valrak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/valrak/AquariumRL"><b>valrak/AquariumRL</b></a></td>
 <td align="right"><b>12</b></td>
 <td align="right">0</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">39</td>
+<td align="right">34</td>
 <td><img src="https://github.com/radovankavicky.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/radovankavicky/github-stickers-octodex"><b>radovankavicky/github-stickers-octodex</b></a></td>
 <td align="right"><b>7</b></td>
 <td align="right">2</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">40</td>
+<td align="right">35</td>
 <td><img src="https://github.com/Gumeny.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Gumeny/modbus-rtu-serial-qt"><b>Gumeny/modbus-rtu-serial-qt</b></a></td>
 <td align="right"><b>7</b></td>
 <td align="right">1</td>
 <td>Makefile</td>
 </tr>
 <tr>
-<td align="right">41</td>
+<td align="right">36</td>
 <td><img src="https://github.com/PatrikHudak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PatrikHudak/project_sonar_ssl"><b>PatrikHudak/project&#95;sonar&#95;ssl</b></a></td>
 <td align="right"><b>7</b></td>
 <td align="right">0</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">42</td>
+<td align="right">37</td>
 <td><img src="https://github.com/schnidi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/schnidi/venvhub"><b>schnidi/venvhub</b></a></td>
 <td align="right"><b>7</b></td>
 <td align="right">0</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">43</td>
+<td align="right">38</td>
 <td><img src="https://github.com/fossilmfc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fossilmfc/terraform-provider-websupportsk"><b>fossilmfc/terraform-provider-websupportsk</b></a></td>
 <td align="right"><b>6</b></td>
 <td align="right">2</td>
 <td>Go</td>
 </tr>
 <tr>
-<td align="right">44</td>
+<td align="right">39</td>
 <td><img src="https://github.com/KollarM.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KollarM/WebAPIWithIdentityServerIntegrationTest"><b>KollarM/WebAPIWithIdentityServerIntegrationTest</b></a></td>
 <td align="right"><b>6</b></td>
 <td align="right">1</td>
 <td>C#</td>
 </tr>
 <tr>
-<td align="right">45</td>
+<td align="right">40</td>
 <td><img src="https://github.com/LANCER245.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LANCER245/Tiny-T_Sidepack"><b>LANCER245/Tiny-T&#95;Sidepack</b></a></td>
 <td align="right"><b>6</b></td>
 <td align="right">1</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">46</td>
+<td align="right">41</td>
 <td><img src="https://github.com/MatejBendik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MatejBendik/promptzone"><b>MatejBendik/promptzone</b></a></td>
 <td align="right"><b>5</b></td>
 <td align="right">0</td>
@@ -353,9 +318,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 5 stars; 46 attributed candidates are tracked.
-- 23 entries were carried over from the previous dataset and are pending revalidation.
-- 130 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 5 stars; 41 attributed candidates are tracked.
+- 12 entries were carried over from the previous dataset and are pending revalidation.
+- 122 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 0 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

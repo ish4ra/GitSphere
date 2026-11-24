@@ -52,7 +52,7 @@
 <tr>
 <td align="right">5</td>
 <td><a href="https://github.com/404name"><img src="https://avatars.githubusercontent.com/u/56631419?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/404name"><b>404name</b></a><br><sub>&#64;404name</sub></td>
-<td align="right"><b>195</b></td>
+<td align="right"><b>194</b></td>
 <td align="right">67</td>
 <td><sub>Bermuda Triangle</sub></td>
 </tr>
@@ -73,7 +73,7 @@
 <tr>
 <td align="right">8</td>
 <td><a href="https://github.com/amypeniston"><img src="https://avatars.githubusercontent.com/u/3029878?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amypeniston"><b>amy</b></a><br><sub>&#64;amypeniston</sub></td>
-<td align="right"><b>58</b></td>
+<td align="right"><b>57</b></td>
 <td align="right">77</td>
 <td><sub>Bermuda</sub></td>
 </tr>

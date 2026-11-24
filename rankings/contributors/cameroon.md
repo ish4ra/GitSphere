@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/CM.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/CM.json">JSON</a> |
 
 </div>
 
@@ -61,6 +61,15 @@
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/kenrique100"><img src="https://avatars.githubusercontent.com/u/72971484?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kenrique100"><b>Kenrique &#95;Ngwa</b></a><br><sub>&#64;kenrique100 · 285 followers</sub></td>
+<td align="right"><b>1,025</b></td>
+<td align="right">922</td>
+<td align="right">96</td>
+<td align="right">2</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/sangafabrice"><img src="https://avatars.githubusercontent.com/u/69244030?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sangafabrice"><b>Fabrice Sanga</b></a><br><sub>&#64;sangafabrice · 356 followers</sub></td>
 <td align="right"><b>724</b></td>
 <td align="right">691</td>
@@ -69,7 +78,7 @@
 <td align="right">10</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/Nkwenti-Severian-Ndongtsop"><img src="https://avatars.githubusercontent.com/u/180976800?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nkwenti-Severian-Ndongtsop"><b>&#64;Nkwenti &#64;Severian</b></a><br><sub>&#64;Nkwenti-Severian-Ndongtsop · 355 followers</sub></td>
 <td align="right"><b>475</b></td>
 <td align="right">307</td>
@@ -78,7 +87,7 @@
 <td align="right">24</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/elliottminns"><img src="https://avatars.githubusercontent.com/u/3148319?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elliottminns"><b>Elliott Minns</b></a><br><sub>&#64;elliottminns · 1,192 followers</sub></td>
 <td align="right"><b>348</b></td>
 <td align="right">339</td>
@@ -87,7 +96,25 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
+<td><a href="https://github.com/donaldte"><img src="https://avatars.githubusercontent.com/u/81464575?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/donaldte"><b>donald programmeur</b></a><br><sub>&#64;donaldte · 327 followers</sub></td>
+<td align="right"><b>340</b></td>
+<td align="right">288</td>
+<td align="right">38</td>
+<td align="right">1</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/NgamiBaruch"><img src="https://avatars.githubusercontent.com/u/150728460?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NgamiBaruch"><b>NgamiBaruch</b></a><br><sub>&#64;NgamiBaruch · 354 followers</sub></td>
+<td align="right"><b>23</b></td>
+<td align="right">14</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">11</td>
 <td><a href="https://github.com/djonmaila"><img src="https://avatars.githubusercontent.com/u/165961723?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/djonmaila"><b>DJONMAILA PYTHAGORE</b></a><br><sub>&#64;djonmaila · 490 followers</sub></td>
 <td align="right"><b>14</b></td>
 <td align="right">13</td>
@@ -102,7 +129,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 8 of 403 discovered developers (395 awaiting measurement).
+- **Measured:** 11 of 403 discovered developers (392 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 115 in round 1.

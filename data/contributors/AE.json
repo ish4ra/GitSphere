@@ -5,13 +5,15 @@
 "country": {"code":"AE","name":"United Arab Emirates","slug":"united-arab-emirates"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":477,"measuredAccounts":4,"measurementBacklog":473,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":98,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":492,"measuredAccounts":6,"measurementBacklog":486,"window":{"from":"2025-11-24T01:00:00Z","to":"2026-11-24T01:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":98,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjM1MzQ4ODcx","login":"techwithtim","name":"Tim Ruscica","url":"https://github.com/techwithtim","avatarUrl":"https://avatars.githubusercontent.com/u/35348871?s=80&v=4","followers":25329,"publicRepos":232,"location":"Dubai","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-23","contributions":{"public":49,"commits":26,"pullRequests":1,"reviews":0,"issues":2,"repositories":20,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
-  {"rank":2,"id":"MDQ6VXNlcjUxNTczNTA=","login":"Ahmed-Ali","name":"Ahmed Ali","url":"https://github.com/Ahmed-Ali","avatarUrl":"https://avatars.githubusercontent.com/u/5157350?s=80&v=4","followers":362,"publicRepos":435,"location":"Abu Dhabi","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23","contributions":{"public":36,"commits":23,"pullRequests":0,"reviews":0,"issues":3,"repositories":10,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}}
+  {"rank":1,"id":"MDQ6VXNlcjIyNTM2OTI=","login":"knqyf263","name":"Teppei Fukuda","url":"https://github.com/knqyf263","avatarUrl":"https://avatars.githubusercontent.com/u/2253692?s=80&v=4","followers":1007,"publicRepos":224,"location":"Dubai, UAE","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":2690,"commits":2222,"pullRequests":91,"reviews":327,"issues":37,"repositories":4,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
+  {"rank":2,"id":"U_kgDOCWVZFw","login":"EslamKamel89","name":"Eslam Kamel","url":"https://github.com/EslamKamel89","avatarUrl":"https://avatars.githubusercontent.com/u/157636887?s=80&v=4","followers":391,"publicRepos":264,"location":"Dubai","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-24","contributions":{"public":359,"commits":267,"pullRequests":0,"reviews":0,"issues":0,"repositories":92,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
+  {"rank":3,"id":"MDQ6VXNlcjM1MzQ4ODcx","login":"techwithtim","name":"Tim Ruscica","url":"https://github.com/techwithtim","avatarUrl":"https://avatars.githubusercontent.com/u/35348871?s=80&v=4","followers":25330,"publicRepos":232,"location":"Dubai","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-24","contributions":{"public":49,"commits":26,"pullRequests":1,"reviews":0,"issues":2,"repositories":20,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":4,"id":"MDQ6VXNlcjUxNTczNTA=","login":"Ahmed-Ali","name":"Ahmed Ali","url":"https://github.com/Ahmed-Ali","avatarUrl":"https://avatars.githubusercontent.com/u/5157350?s=80&v=4","followers":362,"publicRepos":435,"location":"Abu Dhabi","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23","contributions":{"public":36,"commits":23,"pullRequests":0,"reviews":0,"issues":3,"repositories":10,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "2e859378c9078678",
-"updatedAt": "2026-11-23T13:10:04.236Z",
+"contentHash": "4aeadcc09703d5f1",
+"updatedAt": "2026-11-24T01:31:49.018Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-23T13:10:04.236Z"
+"generatedAt": "2026-11-24T01:31:49.018Z"
 }

@@ -130,14 +130,14 @@
 <td align="right">16</td>
 <td><a href="https://github.com/suren-atoyan"><img src="https://avatars.githubusercontent.com/u/13118722?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/suren-atoyan"><b>Suren Atoyan</b></a><br><sub>&#64;suren-atoyan</sub></td>
 <td align="right"><b>340</b></td>
-<td align="right">0</td>
+<td align="right">79</td>
 <td><sub>Yerevan, Armenia</sub></td>
 </tr>
 <tr>
 <td align="right">17</td>
 <td><a href="https://github.com/ivbeg"><img src="https://avatars.githubusercontent.com/u/203209?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ivbeg"><b>Ivan Begtin</b></a><br><sub>&#64;ivbeg</sub></td>
 <td align="right"><b>336</b></td>
-<td align="right">0</td>
+<td align="right">75</td>
 <td><sub>Armenia</sub></td>
 </tr>
 <tr>

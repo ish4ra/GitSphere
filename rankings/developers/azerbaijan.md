@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **17** | 22 Nov 2026 | <a href="../../data/developers/AZ.json">JSON</a> |
+| 🟡 Provisional | **21** | 22 Nov 2026 | <a href="../../data/developers/AZ.json">JSON</a> |
 
 </div>
 
@@ -73,7 +73,7 @@
 <tr>
 <td align="right">8</td>
 <td><a href="https://github.com/MuradIsazade777"><img src="https://avatars.githubusercontent.com/u/202436042?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MuradIsazade777"><b>Murad</b></a><br><sub>&#64;MuradIsazade777</sub></td>
-<td align="right"><b>524</b></td>
+<td align="right"><b>522</b></td>
 <td align="right">38</td>
 <td><sub>Baku, Azerbaijan</sub></td>
 </tr>
@@ -128,17 +128,45 @@
 </tr>
 <tr>
 <td align="right">16</td>
+<td><a href="https://github.com/NijatZeynalov"><img src="https://avatars.githubusercontent.com/u/31247506?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NijatZeynalov"><b>Nijat Zeynalov</b></a><br><sub>&#64;NijatZeynalov</sub></td>
+<td align="right"><b>330</b></td>
+<td align="right">101</td>
+<td><sub>Azerbaijan</sub></td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><a href="https://github.com/samirkarimov"><img src="https://avatars.githubusercontent.com/u/24611841?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/samirkarimov"><b>Samir Karimov</b></a><br><sub>&#64;samirkarimov</sub></td>
+<td align="right"><b>305</b></td>
+<td align="right">2</td>
+<td><sub>Azerbaijan</sub></td>
+</tr>
+<tr>
+<td align="right">18</td>
 <td><a href="https://github.com/al1abb"><img src="https://avatars.githubusercontent.com/u/60220042?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/al1abb"><b>Ali Abbasov</b></a><br><sub>&#64;al1abb</sub></td>
 <td align="right"><b>206</b></td>
 <td align="right">0</td>
 <td><sub>Azerbaijan</sub></td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">19</td>
+<td><a href="https://github.com/sabuhish"><img src="https://avatars.githubusercontent.com/u/46589585?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sabuhish"><b>Sabuhi</b></a><br><sub>&#64;sabuhish</sub></td>
+<td align="right"><b>148</b></td>
+<td align="right">0</td>
+<td><sub>Baku Azerbaijan</sub></td>
+</tr>
+<tr>
+<td align="right">20</td>
 <td><a href="https://github.com/mearashadowfax"><img src="https://avatars.githubusercontent.com/u/125820963?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mearashadowfax"><b>Emil Gulamov</b></a><br><sub>&#64;mearashadowfax</sub></td>
 <td align="right"><b>117</b></td>
 <td align="right">0</td>
 <td><sub>Baku, Azerbaijan</sub></td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><a href="https://github.com/Theyka"><img src="https://avatars.githubusercontent.com/u/34212813?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Theyka"><b>Theyka</b></a><br><sub>&#64;Theyka</sub></td>
+<td align="right"><b>74</b></td>
+<td align="right">0</td>
+<td><sub>Azerbaijan</sub></td>
 </tr>
 </tbody>
 </table>
@@ -148,7 +176,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 17 attributed developers are tracked; the cutoff is 117 followers.
+- Organizations are excluded. 21 attributed developers are tracked; the cutoff is 74 followers.
 - **Location discovery:** term 0 of 185 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

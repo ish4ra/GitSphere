@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"MQ","name":"Martinique","slug":"martinique"},
-"count": 119,
+"count": 117,
 "repositories": [
-  {"name":"alexandreelise/j4x-api-collection","stars":72,"forks":30,"license":"GPL-2.0","archived":false,"createdAt":"2019-11-10T18:34:38Z","pushedAt":"2026-05-05T20:01:20Z","owner":{"login":"alexandreelise","type":"User","name":"Mr Alexandre J-S William ELISÉ","location":"Martinique"},"attribution":{"code":"MQ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:21:38.853Z","id":"legacy:alexandreelise/j4x-api-collection","legacy":true},
-  {"name":"diasjorge/redmine-cli","stars":67,"forks":15,"language":"Ruby","license":"MIT","archived":false,"createdAt":"2010-10-24T20:10:18Z","pushedAt":"2015-08-11T10:06:27Z","owner":{"login":"diasjorge","type":"User","name":"Jorge Dias","location":"Martinique"},"attribution":{"code":"MQ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:21:38.853Z","id":"legacy:diasjorge/redmine-cli","legacy":true},
   {"name":"thetispro/laravel5-setting","stars":24,"forks":5,"language":"PHP","license":"MIT","archived":false,"createdAt":"2015-08-08T21:58:45Z","pushedAt":"2017-03-04T15:42:18Z","owner":{"login":"thetispro","type":"User","name":"Leroy Eric","location":"Martinique"},"attribution":{"code":"MQ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:21:38.853Z","id":"legacy:thetispro/laravel5-setting","legacy":true},
   {"name":"b1nj/b1njTimeline","stars":20,"forks":5,"language":"HTML","archived":false,"createdAt":"2013-07-11T23:28:28Z","pushedAt":"2016-07-22T17:52:06Z","owner":{"login":"b1nj","type":"User","name":"B1nj","location":"Martinique"},"attribution":{"code":"MQ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:21:38.853Z","id":"legacy:b1nj/b1njtimeline","legacy":true},
   {"name":"esrid/colorterm","stars":15,"forks":0,"language":"TypeScript","license":"MIT","archived":false,"createdAt":"2026-03-14T13:57:02Z","pushedAt":"2026-03-25T21:33:31Z","owner":{"login":"esrid","type":"User","name":"ADS","location":"Martinique"},"attribution":{"code":"MQ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:21:38.853Z","id":"legacy:esrid/colorterm","legacy":true},

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/NI.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/NI.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,15 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/Wendell-Jarquin"><img src="https://avatars.githubusercontent.com/u/142639861?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Wendell-Jarquin"><b>TECNOJAR</b></a><br><sub>&#64;Wendell-Jarquin · 1 followers</sub></td>
+<td align="right"><b>197</b></td>
+<td align="right">142</td>
+<td align="right">26</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/Requenez-Diaz"><img src="https://avatars.githubusercontent.com/u/95236561?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Requenez-Diaz"><b>Requenez</b></a><br><sub>&#64;Requenez-Diaz · 6 followers</sub></td>
 <td align="right"><b>183</b></td>
 <td align="right">150</td>
@@ -51,7 +60,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/Elliam-Sanchez510"><img src="https://avatars.githubusercontent.com/u/88247130?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Elliam-Sanchez510"><b>Elliam Sánchez</b></a><br><sub>&#64;Elliam-Sanchez510 · 12 followers</sub></td>
 <td align="right"><b>102</b></td>
 <td align="right">94</td>
@@ -60,7 +69,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
+<td align="right">6</td>
+<td><a href="https://github.com/gabriel14silva"><img src="https://avatars.githubusercontent.com/u/32249455?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gabriel14silva"><b>José Gabriel Griffin Silva</b></a><br><sub>&#64;gabriel14silva · 14 followers</sub></td>
+<td align="right"><b>7</b></td>
 <td align="right">5</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/darwinsalinas"><img src="https://avatars.githubusercontent.com/u/1806232?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/darwinsalinas"><b>Darwin Salinas</b></a><br><sub>&#64;darwinsalinas · 41 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">3</td>
@@ -75,10 +93,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 5 of 406 discovered developers (401 awaiting measurement).
+- **Measured:** 7 of 406 discovered developers (399 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 112 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

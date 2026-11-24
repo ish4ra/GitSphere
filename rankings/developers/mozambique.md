@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/developers/MZ.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/developers/MZ.json">JSON</a> |
 
 </div>
 
@@ -37,20 +37,34 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/gmahota"><img src="https://avatars.githubusercontent.com/u/5019560?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gmahota"><b>Guimaraes Mahota Jr.</b></a><br><sub>&#64;gmahota</sub></td>
+<td align="right"><b>319</b></td>
+<td align="right">194</td>
+<td><sub>Maputo, Mozambique</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/EdgarJFA"><img src="https://avatars.githubusercontent.com/u/62776977?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EdgarJFA"><b>Edgar Amado</b></a><br><sub>&#64;EdgarJFA</sub></td>
+<td align="right"><b>298</b></td>
+<td align="right">35</td>
+<td><sub>Mozambique</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/34sea"><img src="https://avatars.githubusercontent.com/u/145111230?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/34sea"><b>Martinho Macovere Domingos</b></a><br><sub>&#64;34sea</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">52</td>
 <td><sub>Mozambique</sub></td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">6</td>
 <td><a href="https://github.com/6Kazer"><img src="https://avatars.githubusercontent.com/u/168561592?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/6Kazer"><b>Eros Kaioh</b></a><br><sub>&#64;6Kazer</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">5</td>
 <td><sub>Mozambique</sub></td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">7</td>
 <td><a href="https://github.com/izildomulima"><img src="https://avatars.githubusercontent.com/u/117731980?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/izildomulima"><b>IZILDO MULIMA</b></a><br><sub>&#64;izildomulima</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
@@ -64,7 +78,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 5 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 7 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 92 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

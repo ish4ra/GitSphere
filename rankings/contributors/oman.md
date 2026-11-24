@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/OM.json">JSON</a> |
+| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/OM.json">JSON</a> |
 
 </div>
 
@@ -68,6 +68,15 @@
 <td align="right">50</td>
 <td align="right">1</td>
 </tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/sweelam"><img src="https://avatars.githubusercontent.com/u/8615066?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sweelam"><b>Sweelam</b></a><br><sub>&#64;sweelam · 387 followers</sub></td>
+<td align="right"><b>98</b></td>
+<td align="right">88</td>
+<td align="right">3</td>
+<td align="right">1</td>
+<td align="right">1</td>
+</tr>
 </tbody>
 </table>
 
@@ -75,10 +84,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 5 of 402 discovered developers (397 awaiting measurement).
+- **Measured:** 7 of 402 discovered developers (395 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 41 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>
