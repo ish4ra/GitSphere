@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"AI","name":"Anguilla","slug":"anguilla"},
-"count": 24,
+"count": 22,
 "repositories": [
-  {"name":"KarmaApp/eos-karma-tokens","stars":7,"forks":3,"language":"C++","license":"MIT","archived":false,"createdAt":"2018-07-01T13:49:07Z","pushedAt":"2018-12-17T09:09:05Z","owner":{"login":"KarmaApp","type":"Organization","name":"KARMA","location":"Anguilla"},"attribution":{"code":"AI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-28T05:53:15.041Z","id":"legacy:karmaapp/eos-karma-tokens","legacy":true},
-  {"name":"LandslideNetwork/slide-sdk","stars":6,"forks":1,"language":"Go","license":"NOASSERTION","archived":false,"createdAt":"2024-02-22T07:55:51Z","pushedAt":"2025-05-22T22:28:33Z","owner":{"login":"LandslideNetwork","type":"Organization","name":"Landslide Network","location":"Anguilla"},"attribution":{"code":"AI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-28T05:53:15.041Z","id":"legacy:landslidenetwork/slide-sdk","legacy":true},
   {"name":"Ideora2026/CrashTools","stars":3,"forks":0,"language":"Objective-C","license":"MIT","archived":false,"createdAt":"2017-03-08T07:46:12Z","pushedAt":"2017-03-09T02:03:30Z","owner":{"login":"Ideora2026","type":"User","name":"Ideora","location":"Anguilla"},"attribution":{"code":"AI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-28T05:53:15.041Z","id":"legacy:ideora2026/crashtools","legacy":true},
   {"name":"TheSittingPenguin96/Waydroid-on-Halium-14","stars":2,"forks":0,"language":"Python","archived":false,"createdAt":"2026-08-12T13:19:30Z","pushedAt":"2026-08-14T10:37:45Z","owner":{"login":"TheSittingPenguin96","type":"User","location":"Anguilla"},"attribution":{"code":"AI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-28T05:53:15.041Z","id":"legacy:thesittingpenguin96/waydroid-on-halium-14","legacy":true},
   {"name":"ttalkkag/i-got-fired","stars":2,"forks":0,"language":"Makefile","license":"MIT","archived":false,"createdAt":"2026-05-23T14:31:26Z","pushedAt":"2026-05-25T16:45:47Z","owner":{"login":"ttalkkag","type":"Organization","name":"딸깍","location":"Anguilla"},"attribution":{"code":"AI","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-28T05:53:15.041Z","id":"legacy:ttalkkag/i-got-fired","legacy":true},

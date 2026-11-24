@@ -108,7 +108,7 @@
 <tr>
 <td align="right">13</td>
 <td><a href="https://github.com/EdManDev"><img src="https://avatars.githubusercontent.com/u/29899463?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EdManDev"><b>EdManDev</b></a><br><sub>&#64;EdManDev</sub></td>
-<td align="right"><b>44</b></td>
+<td align="right"><b>43</b></td>
 <td align="right">185</td>
 <td><sub>Haiti</sub></td>
 </tr>

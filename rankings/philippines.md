@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **48** | 02 Nov 2026 | <a href="../data/PH.json">JSON</a> |
-
-> **Not yet re-verified.** 7 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **54** | 22 Nov 2026 | <a href="../data/PH.json">JSON</a> |
 
 </div>
 
@@ -312,52 +310,94 @@
 </tr>
 <tr>
 <td align="right">42</td>
-<td><img src="https://github.com/lucifron28.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lucifron28/lucifron28"><b>lucifron28/lucifron28</b></a></td>
-<td align="right"><b>10</b></td>
-<td align="right">1</td>
-<td>—</td>
+<td><img src="https://github.com/baudm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/baudm/parseq"><b>baudm/parseq</b></a><br><sub>Scene Text Recognition with Permuted Autoregressive Sequence Models (ECCV 2022)</sub></td>
+<td align="right"><b>749</b></td>
+<td align="right">161</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">43</td>
-<td><img src="https://github.com/Dojikooo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Dojikooo/Badges"><b>Dojikooo/Badges</b></a></td>
-<td align="right"><b>9</b></td>
-<td align="right">0</td>
-<td>—</td>
+<td><img src="https://github.com/lxsmnsyc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lxsmnsyc/seroval"><b>lxsmnsyc/seroval</b></a><br><sub>Stringify JS values</sub></td>
+<td align="right"><b>744</b></td>
+<td align="right">20</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">44</td>
-<td><img src="https://github.com/aldrin112602.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aldrin112602/aldrin112602"><b>aldrin112602/aldrin112602</b></a></td>
-<td align="right"><b>8</b></td>
-<td align="right">4</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">45</td>
-<td><img src="https://github.com/gpbaculio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gpbaculio/rgr"><b>gpbaculio/rgr</b></a></td>
-<td align="right"><b>8</b></td>
-<td align="right">0</td>
+<td><img src="https://github.com/bfintal.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bfintal/Counter-Up"><b>bfintal/Counter-Up</b></a> <sub>archived</sub><br><sub>Counter-Up is a lightweight jQuery plugin that counts up to a targeted number when the number becomes visible.</sub></td>
+<td align="right"><b>737</b></td>
+<td align="right">687</td>
 <td>JavaScript</td>
 </tr>
 <tr>
+<td align="right">45</td>
+<td><img src="https://github.com/Blapples.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Blapples/SekaiPop"><b>Blapples/SekaiPop</b></a><br><sub>a project sekai inspired quickshell rice</sub></td>
+<td align="right"><b>731</b></td>
+<td align="right">53</td>
+<td>QML</td>
+</tr>
+<tr>
 <td align="right">46</td>
-<td><img src="https://github.com/ianpurif.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ianpurif/Calculator-using-PHP"><b>ianpurif/Calculator-using-PHP</b></a></td>
-<td align="right"><b>8</b></td>
-<td align="right">0</td>
-<td>PHP</td>
+<td><img src="https://github.com/pacholoamit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pacholoamit/chatgpt-prompts"><b>pacholoamit/chatgpt-prompts</b></a><br><sub>A NodeJS ChatGPT prompts library that contains more than 140+ awesome prompts</sub></td>
+<td align="right"><b>719</b></td>
+<td align="right">80</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">47</td>
-<td><img src="https://github.com/bonezegei.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bonezegei/Bonezegei-SMS"><b>bonezegei/Bonezegei-SMS</b></a></td>
-<td align="right"><b>7</b></td>
-<td align="right">2</td>
-<td>PHP</td>
+<td><img src="https://github.com/lxsmnsyc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lxsmnsyc/terracotta"><b>lxsmnsyc/terracotta</b></a><br><sub>Headless UI for SolidJS</sub></td>
+<td align="right"><b>713</b></td>
+<td align="right">21</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">48</td>
-<td><img src="https://github.com/mjoshua97241.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mjoshua97241/finstream-market-risk-data-platform"><b>mjoshua97241/finstream-market-risk-data-platform</b></a></td>
-<td align="right"><b>7</b></td>
-<td align="right">0</td>
-<td>Python</td>
+<td><img src="https://github.com/dominicstop.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dominicstop/react-native-ios-context-menu"><b>dominicstop/react-native-ios-context-menu</b></a><br><sub>A react-native component to use context menu&#39;s (UIMenu) on iOS 13/14+</sub></td>
+<td align="right"><b>698</b></td>
+<td align="right">46</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><img src="https://github.com/dyu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dyu/ffi-overhead"><b>dyu/ffi-overhead</b></a><br><sub>comparing the c ffi (foreign function interface) overhead on various programming languages</sub></td>
+<td align="right"><b>698</b></td>
+<td align="right">45</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><img src="https://github.com/icedman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/icedman/search-light"><b>icedman/search-light</b></a><br><sub>Gnome Extension to bring macOS&#39;s Spotlight functionality</sub></td>
+<td align="right"><b>693</b></td>
+<td align="right">86</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">51</td>
+<td><img src="https://github.com/chrisbjr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chrisbjr/api-guard"><b>chrisbjr/api-guard</b></a><br><sub>A simple way of authenticating your RESTful APIs with API keys using Laravel</sub></td>
+<td align="right"><b>690</b></td>
+<td align="right">139</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><img src="https://github.com/paulopmx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/paulopmx/Flexigrid"><b>paulopmx/Flexigrid</b></a><br><sub>Lightweight but rich data grid with resizable columns and a scrolling data to match the headers, plus an ability to con…</sub></td>
+<td align="right"><b>681</b></td>
+<td align="right">519</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><img src="https://github.com/bailabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bailabs/tailpos"><b>bailabs/tailpos</b></a><br><sub>TailPOS an Offline First Open Source POS for ERPNext</sub></td>
+<td align="right"><b>674</b></td>
+<td align="right">251</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><img src="https://github.com/dhuertas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dhuertas/AES"><b>dhuertas/AES</b></a><br><sub>AES algorithm implementation in C</sub></td>
+<td align="right"><b>659</b></td>
+<td align="right">317</td>
+<td>C</td>
 </tr>
 </tbody>
 </table>
@@ -365,11 +405,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 7 stars; 48 attributed candidates are tracked.
-- 7 entries were carried over from the previous dataset and are pending revalidation.
-- 128 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 659 stars; 54 attributed candidates are tracked.
+- 125 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 210 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

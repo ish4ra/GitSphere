@@ -5,7 +5,7 @@
 "country": {"code":"GG","name":"Guernsey","slug":"guernsey"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":145,"measuredAccounts":10,"measurementBacklog":135,"window":{"from":"2025-11-24T01:00:00Z","to":"2026-11-24T01:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":24,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":145,"measuredAccounts":11,"measurementBacklog":134,"window":{"from":"2025-11-24T01:00:00Z","to":"2026-11-24T01:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":24,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjExODk1MQ==","login":"damieng","name":"Damien Guard","url":"https://github.com/damieng","avatarUrl":"https://avatars.githubusercontent.com/u/118951?s=80&v=4","followers":780,"publicRepos":43,"location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":2640,"commits":2362,"pullRequests":173,"reviews":95,"issues":5,"repositories":4,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":2,"id":"MDQ6VXNlcjE4NDQ0MzAy","login":"tris203","name":"Tristan Knight","url":"https://github.com/tris203","avatarUrl":"https://avatars.githubusercontent.com/u/18444302?s=80&v=4","followers":44,"publicRepos":74,"location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":538,"commits":258,"pullRequests":194,"reviews":26,"issues":46,"repositories":10,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
@@ -16,8 +16,8 @@
   {"rank":7,"id":"MDQ6VXNlcjIzMDYzMDI0","login":"NoobleMcScrunchkin","name":"Riley Aslett","url":"https://github.com/NoobleMcScrunchkin","avatarUrl":"https://avatars.githubusercontent.com/u/23063024?s=80&v=4","followers":0,"publicRepos":28,"location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":21,"commits":16,"pullRequests":0,"reviews":0,"issues":1,"repositories":4,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":8,"id":"MDQ6VXNlcjIwOTkyOTI=","login":"gilbertbw","name":"Gilbert Bishop-White","url":"https://github.com/gilbertbw","avatarUrl":"https://avatars.githubusercontent.com/u/2099292?s=80&v=4","followers":3,"publicRepos":48,"location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":9,"commits":4,"pullRequests":2,"reviews":0,"issues":0,"repositories":3,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "5ec2b1bc564b2238",
-"updatedAt": "2026-11-24T11:36:56.631Z",
+"contentHash": "828505c821976939",
+"updatedAt": "2026-11-24T21:53:00.965Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T11:36:56.631Z"
+"generatedAt": "2026-11-24T21:53:00.965Z"
 }

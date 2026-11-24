@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **88** | 22 Nov 2026 | <a href="../data/PK.json">JSON</a> |
+| 🟡 Provisional | **93** | 22 Nov 2026 | <a href="../data/PK.json">JSON</a> |
 
 </div>
 
@@ -637,6 +637,41 @@
 <td align="right">163</td>
 <td>PHP</td>
 </tr>
+<tr>
+<td align="right">89</td>
+<td><img src="https://github.com/thsnkhn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thsnkhn/harbor"><b>thsnkhn/harbor</b></a><br><sub>Beautiful native macOS download manager for direct links, magnets, and torrents.</sub></td>
+<td align="right"><b>724</b></td>
+<td align="right">33</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><img src="https://github.com/rehmatworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rehmatworks/gplaydl"><b>rehmatworks/gplaydl</b></a><br><sub>Command Line Google Play APK downloader. Download APK files to your PC directly from Google Play Store.</sub></td>
+<td align="right"><b>711</b></td>
+<td align="right">84</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/mahrtayyab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mahrtayyab/tweety"><b>mahrtayyab/tweety</b></a><br><sub>Twitter Scraper</sub></td>
+<td align="right"><b>674</b></td>
+<td align="right">100</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/mwajeeh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mwajeeh/AnimationsPlayground"><b>mwajeeh/AnimationsPlayground</b></a><br><sub>This repo is an attempt to implement a complex animation</sub></td>
+<td align="right"><b>669</b></td>
+<td align="right">106</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/RizwanMunawar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RizwanMunawar/yolov7-object-tracking"><b>RizwanMunawar/yolov7-object-tracking</b></a><br><sub>YOLOv7 Object Tracking Using PyTorch, OpenCV and Sort Tracking</sub></td>
+<td align="right"><b>653</b></td>
+<td align="right">175</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -645,8 +680,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 772 stars; 88 attributed candidates are tracked.
-- 135 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 653 stars; 93 attributed candidates are tracked.
+- 131 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 147 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

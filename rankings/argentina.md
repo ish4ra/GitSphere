@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **100** | 03 Nov 2026 | <a href="../data/AR.json">JSON</a> |
-
-> **Not yet re-verified.** 5 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/AR.json">JSON</a> |
 
 </div>
 
@@ -690,38 +688,38 @@
 </tr>
 <tr>
 <td align="right">96</td>
-<td><img src="https://github.com/daemons88.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/daemons88/ngx-custom-material-file-input"><b>daemons88/ngx-custom-material-file-input</b></a></td>
-<td align="right"><b>10</b></td>
-<td align="right">1</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/silvestreh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/silvestreh/onScreen"><b>silvestreh/onScreen</b></a> <sub>archived</sub><br><sub>A light library that does stuff when the matched elements enter or leave the viewport</sub></td>
+<td align="right"><b>752</b></td>
+<td align="right">265</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">97</td>
-<td><img src="https://github.com/alonsebastian.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alonsebastian/simple-nosql-db"><b>alonsebastian/simple-nosql-db</b></a></td>
-<td align="right"><b>10</b></td>
-<td align="right">0</td>
+<td><img src="https://github.com/fedecaccia.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fedecaccia/avellaneda-stoikov"><b>fedecaccia/avellaneda-stoikov</b></a><br><sub>Avellaneda-Stoikov HFT market making algorithm implementation</sub></td>
+<td align="right"><b>741</b></td>
+<td align="right">179</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">98</td>
-<td><img src="https://github.com/lsecreto.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lsecreto/python-webserver-cgi"><b>lsecreto/python-webserver-cgi</b></a></td>
-<td align="right"><b>10</b></td>
-<td align="right">0</td>
-<td>Python</td>
+<td><img src="https://github.com/lambdaclass.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lambdaclass/lambdaworks"><b>lambdaclass/lambdaworks</b></a><br><sub>lambdaworks offers implementations for both SNARKs and STARKs provers, along with the flexibility to leverage their ind…</sub></td>
+<td align="right"><b>739</b></td>
+<td align="right">194</td>
+<td>Rust</td>
 </tr>
 <tr>
 <td align="right">99</td>
-<td><img src="https://github.com/imlauera.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/imlauera/imlauera.github.io"><b>imlauera/imlauera.github.io</b></a></td>
-<td align="right"><b>9</b></td>
-<td align="right">2</td>
-<td>HTML</td>
+<td><img src="https://github.com/bevacqua.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bevacqua/shots"><b>bevacqua/shots</b></a><br><sub>:gun: pull down the entire Internet into a single animated gif.</sub></td>
+<td align="right"><b>723</b></td>
+<td align="right">16</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">100</td>
-<td><img src="https://github.com/tellex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tellex/findComplex"><b>tellex/findComplex</b></a></td>
-<td align="right"><b>8</b></td>
-<td align="right">5</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/valpackett.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/valpackett/httpotion"><b>valpackett/httpotion</b></a><br><sub>&#91;Deprecated because ibrowse is not maintained&#93; HTTP client for Elixir (use Tesla please)</sub></td>
+<td align="right"><b>719</b></td>
+<td align="right">99</td>
+<td>Elixir</td>
 </tr>
 </tbody>
 </table>
@@ -729,10 +727,9 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 8 stars; 141 attributed candidates are tracked.
-- 5 entries were carried over from the previous dataset and are pending revalidation.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 719 stars; 142 attributed candidates are tracked.
 - 120 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 109 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

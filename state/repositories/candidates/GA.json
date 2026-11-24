@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"GA","name":"Gabon","slug":"gabon"},
-"count": 149,
+"count": 147,
 "repositories": [
-  {"name":"Crazynotdev/TERRA-XMD","stars":6,"forks":19,"language":"JavaScript","license":"MIT","archived":false,"createdAt":"2025-06-04T23:20:24Z","pushedAt":"2025-06-26T17:31:56Z","owner":{"login":"Crazynotdev","type":"User","name":"ZynXx","location":"Gabon"},"attribution":{"code":"GA","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T06:24:11.147Z","id":"legacy:crazynotdev/terra-xmd","legacy":true},
-  {"name":"bibangjoseph/ng-cli-helper","stars":6,"forks":0,"language":"JavaScript","archived":false,"createdAt":"2024-11-05T13:12:40Z","pushedAt":"2026-08-24T22:25:05Z","owner":{"login":"bibangjoseph","type":"User","name":"Joseph Donovan BIBANG BEFENE","location":"Libreville / Gabon"},"attribution":{"code":"GA","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T06:24:11.147Z","id":"legacy:bibangjoseph/ng-cli-helper","legacy":true},
   {"name":"aristideman/MobileTransactionAPI","stars":5,"forks":2,"archived":false,"createdAt":"2015-08-24T22:49:53Z","pushedAt":"2021-01-22T13:39:57Z","owner":{"login":"aristideman","type":"User","name":"Aristide NDIELE","location":"Libreville - GABON"},"attribution":{"code":"GA","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T06:24:11.147Z","id":"legacy:aristideman/mobiletransactionapi","legacy":true},
   {"name":"bangaromaric/spring-ai","stars":5,"forks":1,"language":"Java","archived":false,"createdAt":"2025-02-21T18:01:42Z","pushedAt":"2025-03-15T15:51:22Z","owner":{"login":"bangaromaric","type":"User","name":"BANGA","location":"Libreville, Gabon"},"attribution":{"code":"GA","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T06:24:11.147Z","id":"legacy:bangaromaric/spring-ai","legacy":true},
   {"name":"Ggboykxz/APEX","stars":5,"forks":0,"language":"Python","license":"NOASSERTION","archived":false,"createdAt":"2026-05-08T22:16:38Z","pushedAt":"2026-10-05T02:25:26Z","owner":{"login":"Ggboykxz","type":"User","name":"Mr. ROBOT","location":"Gabon"},"attribution":{"code":"GA","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T06:24:11.147Z","id":"legacy:ggboykxz/apex","legacy":true},

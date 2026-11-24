@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/AU.json">JSON</a> |
+| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/contributors/AU.json">JSON</a> |
 
 </div>
 
@@ -52,7 +52,7 @@
 </tr>
 <tr>
 <td align="right">4</td>
-<td><a href="https://github.com/ghuntley"><img src="https://avatars.githubusercontent.com/u/127353?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ghuntley"><b>Geoffrey Huntley</b></a><br><sub>&#64;ghuntley · 3,047 followers</sub></td>
+<td><a href="https://github.com/ghuntley"><img src="https://avatars.githubusercontent.com/u/127353?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ghuntley"><b>Geoffrey Huntley</b></a><br><sub>&#64;ghuntley · 3,046 followers</sub></td>
 <td align="right"><b>3,453</b></td>
 <td align="right">3,382</td>
 <td align="right">12</td>
@@ -88,7 +88,16 @@
 </tr>
 <tr>
 <td align="right">8</td>
-<td><a href="https://github.com/rstacruz"><img src="https://avatars.githubusercontent.com/u/74385?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rstacruz"><b>Rico Sta. Cruz</b></a><br><sub>&#64;rstacruz · 6,735 followers</sub></td>
+<td><a href="https://github.com/tmcgilchrist"><img src="https://avatars.githubusercontent.com/u/170937?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tmcgilchrist"><b>Tim McGilchrist</b></a><br><sub>&#64;tmcgilchrist · 237 followers</sub></td>
+<td align="right"><b>1,226</b></td>
+<td align="right">851</td>
+<td align="right">270</td>
+<td align="right">31</td>
+<td align="right">44</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/rstacruz"><img src="https://avatars.githubusercontent.com/u/74385?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rstacruz"><b>Rico Sta. Cruz</b></a><br><sub>&#64;rstacruz · 6,737 followers</sub></td>
 <td align="right"><b>1,200</b></td>
 <td align="right">743</td>
 <td align="right">280</td>
@@ -96,7 +105,7 @@
 <td align="right">27</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/johndpope"><img src="https://avatars.githubusercontent.com/u/289994?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/johndpope"><b>John D. Pope</b></a><br><sub>&#64;johndpope · 1,336 followers</sub></td>
 <td align="right"><b>842</b></td>
 <td align="right">563</td>
@@ -105,7 +114,7 @@
 <td align="right">100</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/jayvdb"><img src="https://avatars.githubusercontent.com/u/15092?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jayvdb"><b>John Vandenberg</b></a><br><sub>&#64;jayvdb · 603 followers</sub></td>
 <td align="right"><b>701</b></td>
 <td align="right">286</td>
@@ -114,7 +123,7 @@
 <td align="right">43</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/mvandermeulen"><img src="https://avatars.githubusercontent.com/u/14543143?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mvandermeulen"><b>Mark</b></a><br><sub>&#64;mvandermeulen · 348 followers</sub></td>
 <td align="right"><b>132</b></td>
 <td align="right">33</td>
@@ -123,7 +132,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/Aria-Dolatabadian"><img src="https://avatars.githubusercontent.com/u/74664712?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aria-Dolatabadian"><b>Aria Dolatabadian</b></a><br><sub>&#64;Aria-Dolatabadian · 520 followers</sub></td>
 <td align="right"><b>94</b></td>
 <td align="right">71</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/drnic"><img src="https://avatars.githubusercontent.com/u/108?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/drnic"><b>Dr Nic Williams</b></a><br><sub>&#64;drnic · 1,854 followers</sub></td>
 <td align="right"><b>72</b></td>
 <td align="right">42</td>
@@ -141,7 +150,16 @@
 <td align="right">6</td>
 </tr>
 <tr>
+<td align="right">15</td>
+<td><a href="https://github.com/timgates42"><img src="https://avatars.githubusercontent.com/u/47873678?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/timgates42"><b>Tim Gates</b></a><br><sub>&#64;timgates42 · 232 followers</sub></td>
+<td align="right"><b>22</b></td>
 <td align="right">14</td>
+<td align="right">3</td>
+<td align="right">1</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">16</td>
 <td><a href="https://github.com/stevemao"><img src="https://avatars.githubusercontent.com/u/6316590?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stevemao"><b>Steve Mao</b></a><br><sub>&#64;stevemao · 1,051 followers</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">15</td>
@@ -156,7 +174,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 14 of 1,212 discovered developers (1,198 awaiting measurement).
+- **Measured:** 16 of 1,300 discovered developers (1,284 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 124 in round 1.

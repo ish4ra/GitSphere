@@ -5,7 +5,7 @@
 "country": {"code":"CM","name":"Cameroon","slug":"cameroon"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":177,"candidates":18,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":115,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":122,"candidates":25,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":115,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"U_kgDOCsl9RA","login":"JOELNATHAN544","name":"Joel Nathan Wanko","url":"https://github.com/JOELNATHAN544","avatarUrl":"https://avatars.githubusercontent.com/u/180976964?s=80&v=4","followers":1371,"publicRepos":46,"location":"Cameroon, Bangangté","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjYyMjY5Njkz","login":"ln-dev7","name":"LN","url":"https://github.com/ln-dev7","avatarUrl":"https://avatars.githubusercontent.com/u/62269693?s=80&v=4","followers":1257,"publicRepos":280,"location":"Cameroon","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
@@ -24,10 +24,17 @@
   {"rank":15,"id":"MDQ6VXNlcjM2NTA4MjAy","login":"revbukola","name":"Bukola Adetayo","url":"https://github.com/revbukola","avatarUrl":"https://avatars.githubusercontent.com/u/36508202?s=80&v=4","followers":270,"publicRepos":2,"location":"West","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-24"},
   {"rank":16,"id":"U_kgDOCAk8Ig","login":"AssahBismarkabah","name":"Assah Bismark","url":"https://github.com/AssahBismarkabah","avatarUrl":"https://avatars.githubusercontent.com/u/134822946?s=80&v=4","followers":268,"publicRepos":81,"location":"Cameroon","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":17,"id":"MDQ6VXNlcjg0MzMzNDg5","login":"Level237","name":"Balep Martin","url":"https://github.com/Level237","avatarUrl":"https://avatars.githubusercontent.com/u/84333489?s=80&v=4","followers":258,"publicRepos":122,"location":"Douala-Cameroun","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
-  {"rank":18,"id":"MDQ6VXNlcjUyNjU2NjM=","login":"Blair2004","name":"Blair Jersyer","url":"https://github.com/Blair2004","avatarUrl":"https://avatars.githubusercontent.com/u/5265663?s=80&v=4","followers":177,"location":"Cameroon. Yaoundé","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"}
+  {"rank":18,"id":"U_kgDOCsmC6g","login":"tegha-romeo","name":"tegha-romeo","url":"https://github.com/tegha-romeo","avatarUrl":"https://avatars.githubusercontent.com/u/180978410?s=80&v=4","followers":235,"publicRepos":37,"location":"Bangante, Cameroon","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":19,"id":"U_kgDOBdPWtA","login":"Kanjo-Elkamira-Ndi","name":"Alchemy Codes","url":"https://github.com/Kanjo-Elkamira-Ndi","avatarUrl":"https://avatars.githubusercontent.com/u/97769140?s=80&v=4","followers":234,"publicRepos":60,"location":"Yaoundé Cameroon","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":20,"id":"U_kgDOCGLFlA","login":"patrick-thadeus01","name":"Ichu Thadeus N.","url":"https://github.com/patrick-thadeus01","avatarUrl":"https://avatars.githubusercontent.com/u/140690836?s=80&v=4","followers":231,"publicRepos":37,"location":"Douala Cameroon","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":21,"id":"MDQ6VXNlcjYwMzIwMjQ2","login":"Daniel-TheProgrammer","name":"Nji Daniel","url":"https://github.com/Daniel-TheProgrammer","avatarUrl":"https://avatars.githubusercontent.com/u/60320246?s=80&v=4","followers":226,"publicRepos":225,"location":"Buea,Cameroon","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":22,"id":"MDQ6VXNlcjU3NDkzNjEz","login":"yunweneric","name":"Yunweneric","url":"https://github.com/yunweneric","avatarUrl":"https://avatars.githubusercontent.com/u/57493613?s=80&v=4","followers":224,"publicRepos":55,"location":"Douala, Cameroon","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":23,"id":"MDQ6VXNlcjQ4NzI1NjE=","login":"xSavitar","name":"Derick Alangi","url":"https://github.com/xSavitar","avatarUrl":"https://avatars.githubusercontent.com/u/4872561?s=80&v=4","followers":224,"publicRepos":26,"location":"Buea, Cameroon","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":24,"id":"MDQ6VXNlcjUyNjU2NjM=","login":"Blair2004","name":"Blair Jersyer","url":"https://github.com/Blair2004","avatarUrl":"https://avatars.githubusercontent.com/u/5265663?s=80&v=4","followers":177,"location":"Cameroon. Yaoundé","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":25,"id":"MDQ6VXNlcjIzMTYyMTQ1","login":"RMPR","name":"Paul Mairo","url":"https://github.com/RMPR","avatarUrl":"https://avatars.githubusercontent.com/u/23162145?s=80&v=4","followers":122,"location":"Cameroon","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "a32c09ad5ed6884c",
-"updatedAt": "2026-11-24T11:36:56.631Z",
+"contentHash": "f56b561278b08e6c",
+"updatedAt": "2026-11-24T21:53:00.965Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T11:36:56.631Z"
+"generatedAt": "2026-11-24T21:53:00.965Z"
 }

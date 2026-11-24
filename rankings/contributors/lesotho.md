@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/LS.json">JSON</a> |
+| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/LS.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,15 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/Polokopule"><img src="https://avatars.githubusercontent.com/u/96343216?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Polokopule"><b>BD-SCHOOL-OF-CREATION</b></a><br><sub>&#64;Polokopule · 2 followers</sub></td>
+<td align="right"><b>49</b></td>
+<td align="right">48</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/Nghalu"><img src="https://avatars.githubusercontent.com/u/202954655?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nghalu"><b>Makhala Lehloenya</b></a><br><sub>&#64;Nghalu · 7 followers</sub></td>
 <td align="right"><b>19</b></td>
 <td align="right">12</td>
@@ -51,7 +60,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/KabeloLebitsa"><img src="https://avatars.githubusercontent.com/u/114739922?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KabeloLebitsa"><b>Kabelo Lebitsa</b></a><br><sub>&#64;KabeloLebitsa · 2 followers</sub></td>
 <td align="right"><b>19</b></td>
 <td align="right">2</td>
@@ -60,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/AtomLaw"><img src="https://avatars.githubusercontent.com/u/3714732?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AtomLaw"><b>Hlompho</b></a><br><sub>&#64;AtomLaw · 30 followers</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">0</td>
@@ -69,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/AcGunship"><img src="https://avatars.githubusercontent.com/u/203245364?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AcGunship"><b>Motlatsi Michael Pita</b></a><br><sub>&#64;AcGunship · 1 followers</sub></td>
 <td align="right"><b>11</b></td>
 <td align="right">9</td>
@@ -78,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/NoebejaraPaul"><img src="https://avatars.githubusercontent.com/u/106059139?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NoebejaraPaul"><b>Noebejara</b></a><br><sub>&#64;NoebejaraPaul · 2 followers</sub></td>
 <td align="right"><b>11</b></td>
 <td align="right">5</td>
@@ -87,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/1923k"><img src="https://avatars.githubusercontent.com/u/104436218?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/1923k"><b>Kefuoe Sole</b></a><br><sub>&#64;1923k · 6 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">3</td>
@@ -102,7 +111,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 10 of 472 discovered developers (462 awaiting measurement).
+- **Measured:** 11 of 472 discovered developers (461 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 47 in round 1.

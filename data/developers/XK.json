@@ -5,10 +5,10 @@
 "country": {"code":"XK","name":"Kosovo","slug":"kosovo"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":400,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":400,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":54,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjI1ODQyNjU1","login":"vjanz","name":"Valon Januzaj","url":"https://github.com/vjanz","avatarUrl":"https://avatars.githubusercontent.com/u/25842655?s=80&v=4","followers":8983,"publicRepos":20,"location":"Prishtina, Kosovo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"MDQ6VXNlcjE0MzExNzQz","login":"kujtimiihoxha","name":"Kujtim Hoxha","url":"https://github.com/kujtimiihoxha","avatarUrl":"https://avatars.githubusercontent.com/u/14311743?s=80&v=4","followers":594,"publicRepos":80,"location":"Prishtina, Kosovo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjE0MzExNzQz","login":"kujtimiihoxha","name":"Kujtim Hoxha","url":"https://github.com/kujtimiihoxha","avatarUrl":"https://avatars.githubusercontent.com/u/14311743?s=80&v=4","followers":594,"publicRepos":80,"location":"Prishtina, Kosovo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":3,"id":"MDQ6VXNlcjE4NTA0Nzk4","login":"Eltion","name":"Eltion","url":"https://github.com/Eltion","avatarUrl":"https://avatars.githubusercontent.com/u/18504798?s=80&v=4","followers":562,"publicRepos":8,"location":"Kosovo","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":4,"id":"MDQ6VXNlcjM0MzE3NjI4","login":"arddluma","name":"AArdian","url":"https://github.com/arddluma","avatarUrl":"https://avatars.githubusercontent.com/u/34317628?s=80&v=4","followers":152,"publicRepos":68,"location":"Kosovo","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":5,"id":"MDQ6VXNlcjg4NjI5ODI1","login":"arditbe","name":"ardit","url":"https://github.com/arditbe","avatarUrl":"https://avatars.githubusercontent.com/u/88629825?s=80&v=4","followers":147,"publicRepos":84,"location":"Kosovo, Ferizaj","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
@@ -98,7 +98,7 @@
   {"rank":89,"id":"MDQ6VXNlcjM2ODk1MTEy","login":"AlbosHajdari","name":"Albos Hajdari","url":"https://github.com/AlbosHajdari","avatarUrl":"https://avatars.githubusercontent.com/u/36895112?s=80&v=4","followers":15,"publicRepos":14,"location":"Fushë Kosovë, Kosovo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":90,"id":"MDQ6VXNlcjc0MTk3NTQ2","login":"tnt-freskim-veliu","name":"Freskim Veliu","url":"https://github.com/tnt-freskim-veliu","avatarUrl":"https://avatars.githubusercontent.com/u/74197546?s=80&v=4","followers":15,"publicRepos":8,"location":"Pristina, Kosovo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":91,"id":"U_kgDOBe2oKw","login":"Jertt","name":"Jeart Thaqi","url":"https://github.com/Jertt","avatarUrl":"https://avatars.githubusercontent.com/u/99461163?s=80&v=4","followers":15,"publicRepos":4,"location":"Pristina, Kosovo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
-  {"rank":92,"id":"MDQ6VXNlcjc3MTA4NDA=","login":"mentorkadriu","name":"Mentor Kadriu","url":"https://github.com/mentorkadriu","avatarUrl":"https://avatars.githubusercontent.com/u/7710840?s=80&v=4","followers":14,"publicRepos":69,"location":"Prishtine, Republic of Kosovo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":92,"id":"MDQ6VXNlcjc3MTA4NDA=","login":"mentorkadriu","name":"Mentor Kadriu","url":"https://github.com/mentorkadriu","avatarUrl":"https://avatars.githubusercontent.com/u/7710840?s=80&v=4","followers":14,"publicRepos":69,"location":"Prishtine, Republic of Kosovo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":93,"id":"MDQ6VXNlcjE2OTA2Njc5","login":"dhurataK","name":"Dhurata Kamberi","url":"https://github.com/dhurataK","avatarUrl":"https://avatars.githubusercontent.com/u/16906679?s=80&v=4","followers":14,"publicRepos":42,"location":"Prishtina, Kosovo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":94,"id":"MDQ6VXNlcjc1MDk3MzY1","login":"OsmanBytyqi","name":null,"url":"https://github.com/OsmanBytyqi","avatarUrl":"https://avatars.githubusercontent.com/u/75097365?s=80&v=4","followers":14,"publicRepos":33,"location":"Kosovo","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":95,"id":"MDQ6VXNlcjgyMDA2NjIz","login":"amiraliuks","name":"Amir Aliu","url":"https://github.com/amiraliuks","avatarUrl":"https://avatars.githubusercontent.com/u/82006623?s=80&v=4","followers":14,"publicRepos":32,"location":"Kosovo","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
@@ -408,8 +408,8 @@
   {"rank":399,"id":"U_kgDOBcBuxw","login":"Kryeziu1234","name":"Antigona","url":"https://github.com/Kryeziu1234","avatarUrl":"https://avatars.githubusercontent.com/u/96497351?s=80&v=4","followers":0,"publicRepos":1,"location":"Kosovo","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":400,"id":"MDQ6VXNlcjgwMDQ2MDYy","login":"vullkan-topanica","name":null,"url":"https://github.com/vullkan-topanica","avatarUrl":"https://avatars.githubusercontent.com/u/80046062?s=80&v=4","followers":0,"publicRepos":1,"location":"Pristina, Kosovo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "93469b81d77a6dcd",
-"updatedAt": "2026-11-24T11:36:56.631Z",
+"contentHash": "f1e402e270642576",
+"updatedAt": "2026-11-24T21:53:00.965Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T11:36:56.631Z"
+"generatedAt": "2026-11-24T21:53:00.965Z"
 }

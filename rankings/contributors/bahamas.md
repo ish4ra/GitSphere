@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/BS.json">JSON</a> |
+| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/BS.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,15 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/gtsbahamas"><img src="https://avatars.githubusercontent.com/u/164244816?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gtsbahamas"><b>Ty Wells</b></a><br><sub>&#64;gtsbahamas · 6 followers</sub></td>
+<td align="right"><b>376</b></td>
+<td align="right">346</td>
+<td align="right">20</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/dorson755"><img src="https://avatars.githubusercontent.com/u/68614535?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dorson755"><b>Dorson Williams</b></a><br><sub>&#64;dorson755 · 7 followers</sub></td>
 <td align="right"><b>165</b></td>
 <td align="right">162</td>
@@ -51,7 +60,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/Johndiddles"><img src="https://avatars.githubusercontent.com/u/48492384?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Johndiddles"><b>Johndiddles</b></a><br><sub>&#64;Johndiddles · 37 followers</sub></td>
 <td align="right"><b>107</b></td>
 <td align="right">100</td>
@@ -60,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/amcollie"><img src="https://avatars.githubusercontent.com/u/1966219?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amcollie"><b>Alexandros Collie</b></a><br><sub>&#64;amcollie · 5 followers</sub></td>
 <td align="right"><b>75</b></td>
 <td align="right">65</td>
@@ -69,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/Clearwood"><img src="https://avatars.githubusercontent.com/u/11144110?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Clearwood"><b>Clearwood</b></a><br><sub>&#64;Clearwood · 87 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">3</td>
@@ -78,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/amci1203"><img src="https://avatars.githubusercontent.com/u/17077820?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amci1203"><b>Allen A. McIntosh II</b></a><br><sub>&#64;amci1203 · 12 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
@@ -87,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/aulbytj"><img src="https://avatars.githubusercontent.com/u/15934054?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aulbytj"><b>Aulbourn Knowles</b></a><br><sub>&#64;aulbytj · 16 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/balasubramanian-rengasamy"><img src="https://avatars.githubusercontent.com/u/12533223?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/balasubramanian-rengasamy"><b>Bala</b></a><br><sub>&#64;balasubramanian-rengasamy · 6 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -111,7 +120,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 13 of 339 discovered developers (326 awaiting measurement).
+- **Measured:** 15 of 339 discovered developers (324 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 61 in round 1.

@@ -5,7 +5,7 @@
 "country": {"code":"JE","name":"Jersey","slug":"jersey"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":58,"ownerExpansionBacklog":61,"candidates":59,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":17,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":58,"ownerExpansionBacklog":59,"candidates":59,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":17,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkyMDY1NjAzMg==","name":"java","nameWithOwner":"structurizr/java","url":"https://github.com/structurizr/java","description":"Structurizr for Java","stars":1135,"forks":320,"primaryLanguage":"Java","license":{"spdxId":"Apache-2.0"},"createdAt":"2014-06-09T17:44:57Z","pushedAt":"2026-02-01T14:29:40Z","archived":true,"owner":{"login":"structurizr","name":"Structurizr","type":"Organization","url":"https://github.com/structurizr","location":"Jersey, Channel Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":null,"name":"Cache2SSD","nameWithOwner":"alexriley/Cache2SSD","url":"https://github.com/alexriley/Cache2SSD","description":null,"stars":2,"forks":0,"primaryLanguage":"Python","license":{"spdxId":"GPL-2.0"},"createdAt":"2015-02-22T20:16:05Z","pushedAt":"2015-03-03T22:27:35Z","archived":false,"owner":{"login":"alexriley","name":"Alex Riley","type":"User","url":"https://github.com/alexriley","location":"South Jersey (Greater Philadelphia)","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -67,8 +67,8 @@
   {"rank":58,"id":null,"name":"dice-game","nameWithOwner":"theleviathan75/dice-game","url":"https://github.com/theleviathan75/dice-game","description":null,"stars":0,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2021-02-12T01:51:58Z","pushedAt":"2021-02-22T06:20:59Z","archived":false,"owner":{"login":"theleviathan75","name":"Levi Adoptante","type":"User","url":"https://github.com/theleviathan75","location":"Central Jersey, New Jersey","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":59,"id":null,"name":"Weatherba0","nameWithOwner":"Weatherba0/Weatherba0","url":"https://github.com/Weatherba0/Weatherba0","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2021-06-24T02:17:24Z","pushedAt":"2021-10-21T15:31:29Z","archived":false,"owner":{"login":"Weatherba0","name":"Andrew","type":"User","url":"https://github.com/Weatherba0","location":"Jersey","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "fd41859c35e5b1ca",
-"updatedAt": "2026-11-24T01:31:49.018Z",
+"contentHash": "01b327d7046fcc77",
+"updatedAt": "2026-11-24T21:53:00.965Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-24T01:31:49.018Z"
+"generatedAt": "2026-11-24T21:53:00.965Z"
 }

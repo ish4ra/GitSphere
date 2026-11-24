@@ -143,14 +143,14 @@
 <tr>
 <td align="right">18</td>
 <td><a href="https://github.com/omarnasser199789"><img src="https://avatars.githubusercontent.com/u/22509641?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/omarnasser199789"><b>Omar Nasser</b></a><br><sub>&#64;omarnasser199789</sub></td>
-<td align="right"><b>228</b></td>
+<td align="right"><b>226</b></td>
 <td align="right">71</td>
 <td><sub>Iraq-Erbil</sub></td>
 </tr>
 <tr>
 <td align="right">19</td>
 <td><a href="https://github.com/ShahramShakiba"><img src="https://avatars.githubusercontent.com/u/110089830?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ShahramShakiba"><b>Shahram Shakiba</b></a><br><sub>&#64;ShahramShakiba</sub></td>
-<td align="right"><b>224</b></td>
+<td align="right"><b>223</b></td>
 <td align="right">51</td>
 <td><sub>Erbil, Erbil Governorate, Iraq</sub></td>
 </tr>

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **9** | 03 Nov 2026 | <a href="../data/AS.json">JSON</a> |
+| 🟠 Stale | **10** | 03 Nov 2026 | <a href="../data/AS.json">JSON</a> |
 
 > **Not yet re-verified.** 3 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
@@ -67,20 +67,27 @@
 </tr>
 <tr>
 <td align="right">7</td>
+<td><img src="https://github.com/KitionAI.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KitionAI/kition"><b>KitionAI/kition</b></a><br><sub>Kition: the open pro suite for AI. Notes, tables, boards and professional editors in one desktop workspace, edited by y…</sub></td>
+<td align="right"><b>694</b></td>
+<td align="right">45</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">8</td>
 <td><img src="https://github.com/breepinkpiggys.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/breepinkpiggys/breepinkpiggys"><b>breepinkpiggys/breepinkpiggys</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><img src="https://github.com/https-example.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/https-example/sturdy-octo-tribble"><b>https-example/sturdy-octo-tribble</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><img src="https://github.com/sweetypieredhulk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sweetypieredhulk/sweetypieredhulk"><b>sweetypieredhulk/sweetypieredhulk</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -94,10 +101,10 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 0 stars; 9 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 0 stars; 10 attributed candidates are tracked.
 - 3 entries were carried over from the previous dataset and are pending revalidation.
 - 52 multi-repository owners are queued for expansion.
-- **Location discovery:** term 1 of 34 in round 1.
+- **Location discovery:** term 4 of 34 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

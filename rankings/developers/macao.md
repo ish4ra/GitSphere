@@ -150,7 +150,7 @@
 <tr>
 <td align="right">19</td>
 <td><a href="https://github.com/Boom5426"><img src="https://avatars.githubusercontent.com/u/83391363?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Boom5426"><b>Bo li (李波)</b></a><br><sub>&#64;Boom5426</sub></td>
-<td align="right"><b>70</b></td>
+<td align="right"><b>71</b></td>
 <td align="right">24</td>
 <td><sub>Macau</sub></td>
 </tr>

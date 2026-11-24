@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **76** | 22 Nov 2026 | <a href="../../data/developers/ZA.json">JSON</a> |
+| 🟡 Provisional | **96** | 22 Nov 2026 | <a href="../../data/developers/ZA.json">JSON</a> |
 
 </div>
 
@@ -416,7 +416,7 @@
 <tr>
 <td align="right">57</td>
 <td><a href="https://github.com/tiaanduplessis"><img src="https://avatars.githubusercontent.com/u/18066992?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tiaanduplessis"><b>Tiaan</b></a><br><sub>&#64;tiaanduplessis</sub></td>
-<td align="right"><b>289</b></td>
+<td align="right"><b>290</b></td>
 <td align="right">324</td>
 <td><sub>Cape Town, South Africa</sub></td>
 </tr>
@@ -450,104 +450,244 @@
 </tr>
 <tr>
 <td align="right">62</td>
-<td><a href="https://github.com/olivernn"><img src="https://avatars.githubusercontent.com/u/35913?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/olivernn"><b>Oliver Nightingale</b></a><br><sub>&#64;olivernn</sub></td>
-<td align="right"><b>242</b></td>
-<td align="right">0</td>
-<td><sub>Cape Town</sub></td>
+<td><a href="https://github.com/ashleykleynhans"><img src="https://avatars.githubusercontent.com/u/886709?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ashleykleynhans"><b>Ashley Kleynhans</b></a><br><sub>&#64;ashleykleynhans</sub></td>
+<td align="right"><b>247</b></td>
+<td align="right">136</td>
+<td><sub>South Africa</sub></td>
 </tr>
 <tr>
 <td align="right">63</td>
+<td><a href="https://github.com/QuentinWatt"><img src="https://avatars.githubusercontent.com/u/8065969?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/QuentinWatt"><b>Quentin Watt</b></a><br><sub>&#64;QuentinWatt</sub></td>
+<td align="right"><b>244</b></td>
+<td align="right">26</td>
+<td><sub>Cape Town</sub></td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><a href="https://github.com/MLnick"><img src="https://avatars.githubusercontent.com/u/1036807?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MLnick"><b>Nick Pentreath</b></a><br><sub>&#64;MLnick</sub></td>
+<td align="right"><b>243</b></td>
+<td align="right">40</td>
+<td><sub>Cape Town, South Africa</sub></td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><a href="https://github.com/olivernn"><img src="https://avatars.githubusercontent.com/u/35913?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/olivernn"><b>Oliver Nightingale</b></a><br><sub>&#64;olivernn</sub></td>
+<td align="right"><b>242</b></td>
+<td align="right">78</td>
+<td><sub>Cape Town</sub></td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><a href="https://github.com/suprememoocow"><img src="https://avatars.githubusercontent.com/u/594566?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/suprememoocow"><b>Andrew Newdigate</b></a><br><sub>&#64;suprememoocow</sub></td>
+<td align="right"><b>238</b></td>
+<td align="right">120</td>
+<td><sub>Cape Town, South Africa</sub></td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><a href="https://github.com/ontiyonke"><img src="https://avatars.githubusercontent.com/u/980756?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ontiyonke"><b>Olwethu Ntiyonke</b></a><br><sub>&#64;ontiyonke</sub></td>
+<td align="right"><b>236</b></td>
+<td align="right">269</td>
+<td><sub>Western Cape, Cape Town</sub></td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><a href="https://github.com/StuartGordonReid"><img src="https://avatars.githubusercontent.com/u/7847409?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/StuartGordonReid"><b>Stuart Gordon Reid</b></a><br><sub>&#64;StuartGordonReid</sub></td>
+<td align="right"><b>234</b></td>
+<td align="right">10</td>
+<td><sub>South Africa</sub></td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><a href="https://github.com/Passion-Over-Pain"><img src="https://avatars.githubusercontent.com/u/193404105?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Passion-Over-Pain"><b>Tino Mhedziso</b></a><br><sub>&#64;Passion-Over-Pain</sub></td>
+<td align="right"><b>232</b></td>
+<td align="right">43</td>
+<td><sub>South Africa</sub></td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><a href="https://github.com/siyabuilds"><img src="https://avatars.githubusercontent.com/u/110550090?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/siyabuilds"><b>Siyabonga Samson Lukhele</b></a><br><sub>&#64;siyabuilds</sub></td>
+<td align="right"><b>231</b></td>
+<td align="right">54</td>
+<td><sub>South Africa</sub></td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><a href="https://github.com/kamikazechaser"><img src="https://avatars.githubusercontent.com/u/18488025?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kamikazechaser"><b>Mohamed Sohail</b></a><br><sub>&#64;kamikazechaser</sub></td>
+<td align="right"><b>227</b></td>
+<td align="right">170</td>
+<td><sub>Cape Town, South Africa</sub></td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><a href="https://github.com/GregSithole"><img src="https://avatars.githubusercontent.com/u/18423188?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GregSithole"><b>Greg Sithole</b></a><br><sub>&#64;GregSithole</sub></td>
+<td align="right"><b>225</b></td>
+<td align="right">28</td>
+<td><sub>Midrand, Gauteng</sub></td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><a href="https://github.com/ncthbrt"><img src="https://avatars.githubusercontent.com/u/8688217?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ncthbrt"><b>Natalie Cuthbert</b></a><br><sub>&#64;ncthbrt</sub></td>
+<td align="right"><b>224</b></td>
+<td align="right">135</td>
+<td><sub>Cape Town, South Africa</sub></td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><a href="https://github.com/tobykurien"><img src="https://avatars.githubusercontent.com/u/972315?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tobykurien"><b>Toby Kurien</b></a><br><sub>&#64;tobykurien</sub></td>
+<td align="right"><b>211</b></td>
+<td align="right">0</td>
+<td><sub>Johannesburg, South Africa</sub></td>
+</tr>
+<tr>
+<td align="right">75</td>
 <td><a href="https://github.com/InitRoot"><img src="https://avatars.githubusercontent.com/u/954507?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/InitRoot"><b>InitRoot</b></a><br><sub>&#64;InitRoot</sub></td>
 <td align="right"><b>192</b></td>
 <td align="right">0</td>
 <td><sub>South Africa</sub></td>
 </tr>
 <tr>
-<td align="right">64</td>
+<td align="right">76</td>
 <td><a href="https://github.com/micah5"><img src="https://avatars.githubusercontent.com/u/40206415?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/micah5"><b>micah5</b></a><br><sub>&#64;micah5</sub></td>
 <td align="right"><b>192</b></td>
 <td align="right">0</td>
 <td><sub>cape town</sub></td>
 </tr>
 <tr>
-<td align="right">65</td>
+<td align="right">77</td>
 <td><a href="https://github.com/akserg"><img src="https://avatars.githubusercontent.com/u/1400409?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akserg"><b>akserg</b></a><br><sub>&#64;akserg</sub></td>
 <td align="right"><b>189</b></td>
 <td align="right">0</td>
 <td><sub>Cape Town, South Africa</sub></td>
 </tr>
 <tr>
-<td align="right">66</td>
+<td align="right">78</td>
 <td><a href="https://github.com/sannies"><img src="https://avatars.githubusercontent.com/u/168975?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sannies"><b>Sebastian Annies</b></a><br><sub>&#64;sannies</sub></td>
 <td align="right"><b>177</b></td>
 <td align="right">0</td>
 <td><sub>Cape Town</sub></td>
 </tr>
 <tr>
-<td align="right">67</td>
+<td align="right">79</td>
 <td><a href="https://github.com/ubikron"><img src="https://avatars.githubusercontent.com/u/217203690?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ubikron"><b>Ubikron</b></a><br><sub>&#64;ubikron</sub></td>
 <td align="right"><b>163</b></td>
 <td align="right">0</td>
 <td><sub>South Africa</sub></td>
 </tr>
 <tr>
-<td align="right">68</td>
+<td align="right">80</td>
 <td><a href="https://github.com/rossmacarthur"><img src="https://avatars.githubusercontent.com/u/17109887?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rossmacarthur"><b>Ross MacArthur</b></a><br><sub>&#64;rossmacarthur</sub></td>
 <td align="right"><b>126</b></td>
 <td align="right">0</td>
 <td><sub>Cape Town, South Africa, Earth, Milky Way</sub></td>
 </tr>
 <tr>
-<td align="right">69</td>
+<td align="right">81</td>
+<td><a href="https://github.com/VernonGrant"><img src="https://avatars.githubusercontent.com/u/5819017?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VernonGrant"><b>Vernon Grant</b></a><br><sub>&#64;VernonGrant</sub></td>
+<td align="right"><b>95</b></td>
+<td align="right">0</td>
+<td><sub>Cape Town</sub></td>
+</tr>
+<tr>
+<td align="right">82</td>
 <td><a href="https://github.com/lostpebble"><img src="https://avatars.githubusercontent.com/u/1508863?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lostpebble"><b>Paul Myburgh</b></a><br><sub>&#64;lostpebble</sub></td>
 <td align="right"><b>86</b></td>
 <td align="right">0</td>
 <td><sub>Paris &lt;-&gt; Cape Town</sub></td>
 </tr>
 <tr>
-<td align="right">70</td>
+<td align="right">83</td>
 <td><a href="https://github.com/AlexvZyl"><img src="https://avatars.githubusercontent.com/u/81622310?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlexvZyl"><b>Alexander van Zyl</b></a><br><sub>&#64;AlexvZyl</sub></td>
 <td align="right"><b>78</b></td>
 <td align="right">0</td>
 <td><sub>Western Cape, South Africa</sub></td>
 </tr>
 <tr>
-<td align="right">71</td>
+<td align="right">84</td>
 <td><a href="https://github.com/laurenwaller"><img src="https://avatars.githubusercontent.com/u/1502903?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/laurenwaller"><b>Lauren Waller</b></a><br><sub>&#64;laurenwaller</sub></td>
 <td align="right"><b>75</b></td>
 <td align="right">0</td>
 <td><sub>Cape Town</sub></td>
 </tr>
 <tr>
-<td align="right">72</td>
+<td align="right">85</td>
+<td><a href="https://github.com/ckurtm"><img src="https://avatars.githubusercontent.com/u/620912?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ckurtm"><b>Kurt Mbanje</b></a><br><sub>&#64;ckurtm</sub></td>
+<td align="right"><b>49</b></td>
+<td align="right">0</td>
+<td><sub>South Africa</sub></td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><a href="https://github.com/ej52"><img src="https://avatars.githubusercontent.com/u/6298706?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ej52"><b>Elton Renda</b></a><br><sub>&#64;ej52</sub></td>
+<td align="right"><b>48</b></td>
+<td align="right">0</td>
+<td><sub>Cape Town, South Africa</sub></td>
+</tr>
+<tr>
+<td align="right">87</td>
 <td><a href="https://github.com/IzakMarais"><img src="https://avatars.githubusercontent.com/u/8266640?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IzakMarais"><b>Izak Marais</b></a><br><sub>&#64;IzakMarais</sub></td>
 <td align="right"><b>47</b></td>
 <td align="right">0</td>
 <td><sub>South Africa</sub></td>
 </tr>
 <tr>
-<td align="right">73</td>
+<td align="right">88</td>
+<td><a href="https://github.com/jcass77"><img src="https://avatars.githubusercontent.com/u/10268911?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jcass77"><b>John Cass</b></a><br><sub>&#64;jcass77</sub></td>
+<td align="right"><b>29</b></td>
+<td align="right">0</td>
+<td><sub>Cape Town, South Africa</sub></td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><a href="https://github.com/davidfraser"><img src="https://avatars.githubusercontent.com/u/356451?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davidfraser"><b>David Fraser</b></a><br><sub>&#64;davidfraser</sub></td>
+<td align="right"><b>28</b></td>
+<td align="right">0</td>
+<td><sub>Cape Town, South Africa</sub></td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><a href="https://github.com/goccmack"><img src="https://avatars.githubusercontent.com/u/11737139?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/goccmack"><b>Marius Ackerman</b></a><br><sub>&#64;goccmack</sub></td>
+<td align="right"><b>28</b></td>
+<td align="right">0</td>
+<td><sub>Western Cape, South Africa</sub></td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><a href="https://github.com/mvniekerk"><img src="https://avatars.githubusercontent.com/u/1570687?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mvniekerk"><b>Michael van Niekerk</b></a><br><sub>&#64;mvniekerk</sub></td>
+<td align="right"><b>22</b></td>
+<td align="right">0</td>
+<td><sub>Pretoria, RSA</sub></td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><a href="https://github.com/smarzban"><img src="https://avatars.githubusercontent.com/u/12737577?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/smarzban"><b>Saeed</b></a><br><sub>&#64;smarzban</sub></td>
+<td align="right"><b>13</b></td>
+<td align="right">0</td>
+<td><sub>Cape Town</sub></td>
+</tr>
+<tr>
+<td align="right">93</td>
 <td><a href="https://github.com/JancoNel"><img src="https://avatars.githubusercontent.com/u/99132925?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JancoNel"><b>Janco Nel</b></a><br><sub>&#64;JancoNel</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">34</td>
 <td><sub>South Africa</sub></td>
 </tr>
 <tr>
-<td align="right">74</td>
+<td align="right">94</td>
 <td><a href="https://github.com/Nathan-C99"><img src="https://avatars.githubusercontent.com/u/109769350?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nathan-C99"><b>Willies Chauke</b></a><br><sub>&#64;Nathan-C99</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>10 St Helena Rd, Beacon Bay North, East London,…</sub></td>
 </tr>
 <tr>
-<td align="right">75</td>
+<td align="right">95</td>
 <td><a href="https://github.com/sandileallenmsezane"><img src="https://avatars.githubusercontent.com/u/129226414?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sandileallenmsezane"><b>Sandile Allen Msezane</b></a><br><sub>&#64;sandileallenmsezane</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">6</td>
 <td><sub>St Lucia, Mtubatuba, KwaZulu-Natal, South Africa</sub></td>
 </tr>
 <tr>
-<td align="right">76</td>
+<td align="right">96</td>
 <td><a href="https://github.com/danielputra"><img src="https://avatars.githubusercontent.com/u/25551731?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danielputra"><b>Daniel Putra</b></a><br><sub>&#64;danielputra</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
@@ -561,8 +701,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 76 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 96 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 0 of 144 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

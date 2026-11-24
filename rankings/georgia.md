@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | :---: |
 | 🟠 Stale | **84** | 01 Nov 2026 | <a href="../data/GE.json">JSON</a> |
 
-> **Not yet re-verified.** 63 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 58 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -172,38 +172,38 @@
 </tr>
 <tr>
 <td align="right">22</td>
-<td><img src="https://github.com/riseansmal.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/riseansmal/riseansmal"><b>riseansmal/riseansmal</b></a></td>
-<td align="right"><b>10</b></td>
-<td align="right">1</td>
-<td>—</td>
+<td><img src="https://github.com/Giorgi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Giorgi/DuckDB.NET"><b>Giorgi/DuckDB.NET</b></a><br><sub>Bindings and ADO.NET Provider for DuckDB</sub></td>
+<td align="right"><b>729</b></td>
+<td align="right">97</td>
+<td>C#</td>
 </tr>
 <tr>
 <td align="right">23</td>
-<td><img src="https://github.com/muladz3gio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/muladz3gio/python-voice-assistant"><b>muladz3gio/python-voice-assistant</b></a></td>
-<td align="right"><b>8</b></td>
-<td align="right">0</td>
-<td>Python</td>
+<td><img src="https://github.com/thecodeholic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thecodeholic/laravel-vue-ecommerce"><b>thecodeholic/laravel-vue-ecommerce</b></a><br><sub>E-commerce project with Laravel and Vue.js</sub></td>
+<td align="right"><b>701</b></td>
+<td align="right">211</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">24</td>
-<td><img src="https://github.com/enthusiastdev121.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/enthusiastdev121/NEXTSEO"><b>enthusiastdev121/NEXTSEO</b></a></td>
-<td align="right"><b>7</b></td>
-<td align="right">0</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/andy-landy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/andy-landy/traceback_with_variables"><b>andy-landy/traceback&#95;with&#95;variables</b></a><br><sub>Adds variables to python traceback. Simple, lightweight, controllable. Customize formats and colors. Debug reasons of e…</sub></td>
+<td align="right"><b>699</b></td>
+<td align="right">31</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">25</td>
-<td><img src="https://github.com/Smotritsky78.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Smotritsky78/altium-library-loader-fix"><b>Smotritsky78/altium-library-loader-fix</b></a></td>
-<td align="right"><b>6</b></td>
-<td align="right">2</td>
-<td>VBScript</td>
+<td><img src="https://github.com/Giorgi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Giorgi/EFCore.Visualizer"><b>Giorgi/EFCore.Visualizer</b></a><br><sub>Entity Framework Core queries debugger visualizer for Visual Studio, VS Code, Rider and LINQPad.</sub></td>
+<td align="right"><b>699</b></td>
+<td align="right">23</td>
+<td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">26</td>
-<td><img src="https://github.com/heinodendal.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/heinodendal/heinodendal"><b>heinodendal/heinodendal</b></a></td>
-<td align="right"><b>6</b></td>
-<td align="right">0</td>
-<td>—</td>
+<td><img src="https://github.com/RtlZeroMemory.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RtlZeroMemory/Rezi"><b>RtlZeroMemory/Rezi</b></a><br><sub>Build TypeScript TUI backed by fast native rendering engine</sub></td>
+<td align="right"><b>678</b></td>
+<td align="right">16</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">27</td>
@@ -620,8 +620,8 @@
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 0 stars; 84 attributed candidates are tracked.
-- 63 entries were carried over from the previous dataset and are pending revalidation.
-- 137 multi-repository owners are queued for expansion.
+- 58 entries were carried over from the previous dataset and are pending revalidation.
+- 136 multi-repository owners are queued for expansion.
 - **Location discovery:** term 3 of 167 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/SJ.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/SJ.json">JSON</a> |
 
 </div>
 
@@ -61,6 +61,15 @@
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/BillLoic"><img src="https://avatars.githubusercontent.com/u/102415819?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BillLoic"><b>billloic</b></a><br><sub>&#64;BillLoic · 2 followers</sub></td>
+<td align="right"><b>27</b></td>
+<td align="right">22</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/ngvrnd"><img src="https://avatars.githubusercontent.com/u/2530706?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ngvrnd"><b>Nick Caruso</b></a><br><sub>&#64;ngvrnd · 2 followers</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">17</td>
@@ -69,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/elden-l0rd"><img src="https://avatars.githubusercontent.com/u/106954640?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elden-l0rd"><b>elden-l0rd</b></a><br><sub>&#64;elden-l0rd · 2 followers</sub></td>
 <td align="right"><b>13</b></td>
 <td align="right">12</td>
@@ -78,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/slipeer"><img src="https://avatars.githubusercontent.com/u/2050934?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/slipeer"><b>Pavel</b></a><br><sub>&#64;slipeer · 2 followers</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">2</td>
@@ -93,7 +102,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 9 of 57 discovered developers (48 awaiting measurement).
+- **Measured:** 10 of 57 discovered developers (47 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 2 of 13 in round 1.

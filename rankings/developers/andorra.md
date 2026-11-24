@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **294** | 22 Nov 2026 | <a href="../../data/developers/AD.json">JSON</a> |
+| 🟡 Provisional | **480** | 22 Nov 2026 | <a href="../../data/developers/AD.json">JSON</a> |
 
 </div>
 
@@ -1423,658 +1423,1960 @@
 </tr>
 <tr>
 <td align="right">201</td>
-<td><a href="https://github.com/madharoce-web"><img src="https://avatars.githubusercontent.com/u/300911076?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/madharoce-web"><b>Miguel de Haro</b></a><br><sub>&#64;madharoce-web</sub></td>
-<td align="right"><b>1</b></td>
-<td align="right">3</td>
-<td><sub>Andorra</sub></td>
-</tr>
-<tr>
-<td align="right">202</td>
 <td><a href="https://github.com/TKuzmenko-EPS"><img src="https://avatars.githubusercontent.com/u/205192481?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TKuzmenko-EPS"><b>Tanya</b></a><br><sub>&#64;TKuzmenko-EPS</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">3</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">203</td>
+<td align="right">202</td>
 <td><a href="https://github.com/AnnaTramun"><img src="https://avatars.githubusercontent.com/u/72796577?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AnnaTramun"><b>AnnaTramun</b></a><br><sub>&#64;AnnaTramun</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">204</td>
+<td align="right">203</td>
 <td><a href="https://github.com/bbecker88"><img src="https://avatars.githubusercontent.com/u/436021?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bbecker88"><b>Boris Herrera</b></a><br><sub>&#64;bbecker88</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Principality of Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">205</td>
+<td align="right">204</td>
 <td><a href="https://github.com/julietafq"><img src="https://avatars.githubusercontent.com/u/147579845?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/julietafq"><b>Julieta Fernandez Queiro</b></a><br><sub>&#64;julietafq</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">206</td>
+<td align="right">205</td>
 <td><a href="https://github.com/kramgalera"><img src="https://avatars.githubusercontent.com/u/107694760?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kramgalera"><b>MarcKram</b></a><br><sub>&#64;kramgalera</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">207</td>
+<td align="right">206</td>
 <td><a href="https://github.com/Maco04"><img src="https://avatars.githubusercontent.com/u/105484544?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Maco04"><b>Maco Magsael</b></a><br><sub>&#64;Maco04</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">208</td>
+<td align="right">207</td>
 <td><a href="https://github.com/mricartx"><img src="https://avatars.githubusercontent.com/u/26459972?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mricartx"><b>Marc Ricart</b></a><br><sub>&#64;mricartx</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>ANDORRA</sub></td>
 </tr>
 <tr>
-<td align="right">209</td>
+<td align="right">208</td>
 <td><a href="https://github.com/OrbyCode"><img src="https://avatars.githubusercontent.com/u/167002224?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OrbyCode"><b>OrbyCode</b></a><br><sub>&#64;OrbyCode</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">210</td>
+<td align="right">209</td>
 <td><a href="https://github.com/rocioscagliola"><img src="https://avatars.githubusercontent.com/u/146830079?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rocioscagliola"><b>Rocío</b></a><br><sub>&#64;rocioscagliola</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">211</td>
+<td align="right">210</td>
 <td><a href="https://github.com/Soupato"><img src="https://avatars.githubusercontent.com/u/94533723?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Soupato"><b>Soumaya Sghyar</b></a><br><sub>&#64;Soupato</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">212</td>
+<td align="right">211</td>
 <td><a href="https://github.com/yunasch"><img src="https://avatars.githubusercontent.com/u/131686241?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yunasch"><b>Yuna</b></a><br><sub>&#64;yunasch</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Andorra la Vella</sub></td>
 </tr>
 <tr>
-<td align="right">213</td>
+<td align="right">212</td>
 <td><a href="https://github.com/antonluu"><img src="https://avatars.githubusercontent.com/u/42918587?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/antonluu"><b>inertg</b></a><br><sub>&#64;antonluu</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">214</td>
+<td align="right">213</td>
 <td><a href="https://github.com/Dinis-17"><img src="https://avatars.githubusercontent.com/u/194348735?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dinis-17"><b>Dinis Medeiros</b></a><br><sub>&#64;Dinis-17</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">215</td>
+<td align="right">214</td>
 <td><a href="https://github.com/DPHidalgo"><img src="https://avatars.githubusercontent.com/u/13915466?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DPHidalgo"><b>Daniel Palacios</b></a><br><sub>&#64;DPHidalgo</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">216</td>
+<td align="right">215</td>
 <td><a href="https://github.com/KUK15"><img src="https://avatars.githubusercontent.com/u/126067904?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KUK15"><b>Xavier Ruiz</b></a><br><sub>&#64;KUK15</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">217</td>
+<td align="right">216</td>
 <td><a href="https://github.com/mayaaie"><img src="https://avatars.githubusercontent.com/u/183886764?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mayaaie"><b>Maya Cendikia</b></a><br><sub>&#64;mayaaie</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Andorra la Vella, Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">218</td>
+<td align="right">217</td>
 <td><a href="https://github.com/neo2005"><img src="https://avatars.githubusercontent.com/u/4352954?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/neo2005"><b>Francisco José Díaz</b></a><br><sub>&#64;neo2005</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">219</td>
+<td align="right">218</td>
 <td><a href="https://github.com/odeslad"><img src="https://avatars.githubusercontent.com/u/44289847?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/odeslad"><b>Ruben L.</b></a><br><sub>&#64;odeslad</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">220</td>
+<td align="right">219</td>
 <td><a href="https://github.com/sucasuc"><img src="https://avatars.githubusercontent.com/u/85689693?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sucasuc"><b>Sucasuc</b></a><br><sub>&#64;sucasuc</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">221</td>
+<td align="right">220</td>
 <td><a href="https://github.com/travesset"><img src="https://avatars.githubusercontent.com/u/22983425?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/travesset"><b>Oriol Travesset-Baro</b></a><br><sub>&#64;travesset</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">222</td>
+<td align="right">221</td>
 <td><a href="https://github.com/Valaex"><img src="https://avatars.githubusercontent.com/u/109312090?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Valaex"><b>Jérôme Knops</b></a><br><sub>&#64;Valaex</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">223</td>
+<td align="right">222</td>
 <td><a href="https://github.com/ciberseguret"><img src="https://avatars.githubusercontent.com/u/209025101?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ciberseguret"><b>Ciberseguretat</b></a><br><sub>&#64;ciberseguret</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">224</td>
+<td align="right">223</td>
 <td><a href="https://github.com/EvAA-mAzzy"><img src="https://avatars.githubusercontent.com/u/115089441?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EvAA-mAzzy"><b>EvAA • m/\zzy</b></a><br><sub>&#64;EvAA-mAzzy</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">225</td>
+<td align="right">224</td>
 <td><a href="https://github.com/Felipepelaez"><img src="https://avatars.githubusercontent.com/u/2857212?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Felipepelaez"><b>Felipe Peláez</b></a><br><sub>&#64;Felipepelaez</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">226</td>
+<td align="right">225</td>
 <td><a href="https://github.com/josselin8"><img src="https://avatars.githubusercontent.com/u/5095742?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/josselin8"><b>Joss</b></a><br><sub>&#64;josselin8</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">227</td>
+<td align="right">226</td>
 <td><a href="https://github.com/lomie107"><img src="https://avatars.githubusercontent.com/u/74588937?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lomie107"><b>Loes</b></a><br><sub>&#64;lomie107</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">228</td>
+<td align="right">227</td>
 <td><a href="https://github.com/mark-laufentac"><img src="https://avatars.githubusercontent.com/u/102256595?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mark-laufentac"><b>marklauf</b></a><br><sub>&#64;mark-laufentac</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Andorra la Vella, Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">229</td>
+<td align="right">228</td>
 <td><a href="https://github.com/mfoix"><img src="https://avatars.githubusercontent.com/u/266093389?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mfoix"><b>Marc Foix</b></a><br><sub>&#64;mfoix</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">230</td>
+<td align="right">229</td>
 <td><a href="https://github.com/securepeak"><img src="https://avatars.githubusercontent.com/u/215604266?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/securepeak"><b>Alex Terrats Terrats</b></a><br><sub>&#64;securepeak</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
+<td align="right">230</td>
+<td><a href="https://github.com/Cinderella-Man"><img src="https://avatars.githubusercontent.com/u/1019893?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Cinderella-Man"><b>Kamil Skowron</b></a><br><sub>&#64;Cinderella-Man</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">128</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
 <td align="right">231</td>
+<td><a href="https://github.com/MrMaxpasa"><img src="https://avatars.githubusercontent.com/u/195481225?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MrMaxpasa"><b>Max Padulo</b></a><br><sub>&#64;MrMaxpasa</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">40</td>
+<td><sub>Andorra · Barcelona</sub></td>
+</tr>
+<tr>
+<td align="right">232</td>
+<td><a href="https://github.com/zhmailikvadim"><img src="https://avatars.githubusercontent.com/u/56409854?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zhmailikvadim"><b>SB</b></a><br><sub>&#64;zhmailikvadim</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">33</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">233</td>
 <td><a href="https://github.com/guillesrl"><img src="https://avatars.githubusercontent.com/u/151261720?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/guillesrl"><b>guillesrl</b></a><br><sub>&#64;guillesrl</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">18</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">232</td>
+<td align="right">234</td>
+<td><a href="https://github.com/MarekPrim"><img src="https://avatars.githubusercontent.com/u/59203712?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MarekPrim"><b>MarekPrim</b></a><br><sub>&#64;MarekPrim</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">16</td>
+<td><sub>Andorra, La Massana</sub></td>
+</tr>
+<tr>
+<td align="right">235</td>
+<td><a href="https://github.com/lmfaogotdeleted"><img src="https://avatars.githubusercontent.com/u/103111817?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lmfaogotdeleted"><b>J4Vi</b></a><br><sub>&#64;lmfaogotdeleted</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">15</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">236</td>
+<td><a href="https://github.com/Kannen"><img src="https://avatars.githubusercontent.com/u/11684303?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kannen"><b>Olivier</b></a><br><sub>&#64;Kannen</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">14</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">237</td>
+<td><a href="https://github.com/malisima"><img src="https://avatars.githubusercontent.com/u/76229566?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/malisima"><b>Malísima</b></a><br><sub>&#64;malisima</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">12</td>
+<td><sub>Andorra La Vella</sub></td>
+</tr>
+<tr>
+<td align="right">238</td>
+<td><a href="https://github.com/SPCL0UD"><img src="https://avatars.githubusercontent.com/u/167889499?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SPCL0UD"><b>SPCLOUD HOSTING</b></a><br><sub>&#64;SPCL0UD</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">12</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">239</td>
+<td><a href="https://github.com/lloydganal"><img src="https://avatars.githubusercontent.com/u/1667595?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lloydganal"><b>Lloyd Ganal</b></a><br><sub>&#64;lloydganal</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">10</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">240</td>
 <td><a href="https://github.com/M-Exley"><img src="https://avatars.githubusercontent.com/u/157834976?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/M-Exley"><b>M-Exley</b></a><br><sub>&#64;M-Exley</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">10</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">233</td>
+<td align="right">241</td>
+<td><a href="https://github.com/nahuel10pm"><img src="https://avatars.githubusercontent.com/u/56485436?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nahuel10pm"><b>Nahuel</b></a><br><sub>&#64;nahuel10pm</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">10</td>
+<td><sub>Andorra la Vella, Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">242</td>
+<td><a href="https://github.com/Charlio94"><img src="https://avatars.githubusercontent.com/u/31783065?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Charlio94"><b>Charlio94</b></a><br><sub>&#64;Charlio94</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">9</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">243</td>
+<td><a href="https://github.com/Justdanielfloyd"><img src="https://avatars.githubusercontent.com/u/13768341?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Justdanielfloyd"><b>Daniel Pinzón</b></a><br><sub>&#64;Justdanielfloyd</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">9</td>
+<td><sub>Andorra La Vella</sub></td>
+</tr>
+<tr>
+<td align="right">244</td>
+<td><a href="https://github.com/kenopk"><img src="https://avatars.githubusercontent.com/u/87307385?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kenopk"><b>kenopk</b></a><br><sub>&#64;kenopk</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">9</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">245</td>
+<td><a href="https://github.com/nunuhoms"><img src="https://avatars.githubusercontent.com/u/130580636?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nunuhoms"><b>Nuria Homs Duró</b></a><br><sub>&#64;nunuhoms</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">9</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">246</td>
+<td><a href="https://github.com/seavba"><img src="https://avatars.githubusercontent.com/u/42515759?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/seavba"><b>Sergio Sans</b></a><br><sub>&#64;seavba</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">9</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">247</td>
+<td><a href="https://github.com/cordeliasguy"><img src="https://avatars.githubusercontent.com/u/74499090?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cordeliasguy"><b>Daniel A. Caballero</b></a><br><sub>&#64;cordeliasguy</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">8</td>
+<td><sub>Sant Julia de Loria, Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">248</td>
 <td><a href="https://github.com/Kest3"><img src="https://avatars.githubusercontent.com/u/170255919?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kest3"><b>Kevin Stiven Guzmán Ovalle</b></a><br><sub>&#64;Kest3</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">8</td>
 <td><sub>Escaldes-Engordany, Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">234</td>
+<td align="right">249</td>
+<td><a href="https://github.com/miquelcvcvcv"><img src="https://avatars.githubusercontent.com/u/61110942?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/miquelcvcvcv"><b>Miquel Cabrera</b></a><br><sub>&#64;miquelcvcvcv</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">8</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">250</td>
+<td><a href="https://github.com/rtorres89"><img src="https://avatars.githubusercontent.com/u/167857387?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rtorres89"><b>Raul torres</b></a><br><sub>&#64;rtorres89</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">8</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">251</td>
+<td><a href="https://github.com/Diizer"><img src="https://avatars.githubusercontent.com/u/23100906?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Diizer"><b>Dmitry Zeleniak</b></a><br><sub>&#64;Diizer</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">7</td>
+<td><sub>Andorra, La Massana UTC +02:00</sub></td>
+</tr>
+<tr>
+<td align="right">252</td>
 <td><a href="https://github.com/IzanDev2007"><img src="https://avatars.githubusercontent.com/u/185335539?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IzanDev2007"><b>izan García</b></a><br><sub>&#64;IzanDev2007</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">7</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">235</td>
+<td align="right">253</td>
+<td><a href="https://github.com/javisnow"><img src="https://avatars.githubusercontent.com/u/12116618?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/javisnow"><b>javisnow</b></a><br><sub>&#64;javisnow</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">7</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">254</td>
+<td><a href="https://github.com/pabloosmo"><img src="https://avatars.githubusercontent.com/u/129858617?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pabloosmo"><b>Pablo N. Oshiro Mondoñedo</b></a><br><sub>&#64;pabloosmo</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">7</td>
+<td><sub>Encamp, Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">255</td>
 <td><a href="https://github.com/thodur"><img src="https://avatars.githubusercontent.com/u/33260385?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thodur"><b>thodur</b></a><br><sub>&#64;thodur</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">7</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">236</td>
+<td align="right">256</td>
 <td><a href="https://github.com/Virginiamichavi"><img src="https://avatars.githubusercontent.com/u/170120363?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Virginiamichavi"><b>Virginia Mara de Almeida</b></a><br><sub>&#64;Virginiamichavi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">7</td>
 <td><sub>Andorra la Vella</sub></td>
 </tr>
 <tr>
-<td align="right">237</td>
+<td align="right">257</td>
+<td><a href="https://github.com/whiteblackamaep"><img src="https://avatars.githubusercontent.com/u/182267234?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/whiteblackamaep"><b>whiteblackamaep</b></a><br><sub>&#64;whiteblackamaep</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">7</td>
+<td><sub>Andorra (AD)</sub></td>
+</tr>
+<tr>
+<td align="right">258</td>
 <td><a href="https://github.com/xpique"><img src="https://avatars.githubusercontent.com/u/7466228?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xpique"><b>Sira</b></a><br><sub>&#64;xpique</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">7</td>
 <td><sub>Ordino, Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">238</td>
+<td align="right">259</td>
+<td><a href="https://github.com/alanwardubuntu"><img src="https://avatars.githubusercontent.com/u/36382962?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alanwardubuntu"><b>alanwardubuntu</b></a><br><sub>&#64;alanwardubuntu</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">6</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">260</td>
 <td><a href="https://github.com/cmarintoro10"><img src="https://avatars.githubusercontent.com/u/140277076?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cmarintoro10"><b>Karl&#39;z Denise</b></a><br><sub>&#64;cmarintoro10</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">6</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">239</td>
+<td align="right">261</td>
+<td><a href="https://github.com/DevDuck67"><img src="https://avatars.githubusercontent.com/u/321608588?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DevDuck67"><b>Dev Duck</b></a><br><sub>&#64;DevDuck67</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">6</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">262</td>
 <td><a href="https://github.com/diegovalentini"><img src="https://avatars.githubusercontent.com/u/239020052?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/diegovalentini"><b>DiegoValentini</b></a><br><sub>&#64;diegovalentini</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">6</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">240</td>
+<td align="right">263</td>
+<td><a href="https://github.com/hinkoulabs"><img src="https://avatars.githubusercontent.com/u/144789391?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hinkoulabs"><b>Hinkou Labs</b></a><br><sub>&#64;hinkoulabs</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">6</td>
+<td><sub>Andorra La Vella, Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">264</td>
+<td><a href="https://github.com/russianboydollar"><img src="https://avatars.githubusercontent.com/u/181617828?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/russianboydollar"><b>russianboydollar</b></a><br><sub>&#64;russianboydollar</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">6</td>
+<td><sub>Andorra (AD)</sub></td>
+</tr>
+<tr>
+<td align="right">265</td>
 <td><a href="https://github.com/gmdavid91"><img src="https://avatars.githubusercontent.com/u/4077206?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gmdavid91"><b>David Gutiérrez Maroto</b></a><br><sub>&#64;gmdavid91</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Andorra la Vella</sub></td>
 </tr>
 <tr>
-<td align="right">241</td>
+<td align="right">266</td>
+<td><a href="https://github.com/Momoinsanity"><img src="https://avatars.githubusercontent.com/u/82360846?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Momoinsanity"><b>Momoi Sanity</b></a><br><sub>&#64;Momoinsanity</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">5</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">267</td>
+<td><a href="https://github.com/MXKS3"><img src="https://avatars.githubusercontent.com/u/137383941?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MXKS3"><b>Qbachi</b></a><br><sub>&#64;MXKS3</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">5</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">268</td>
 <td><a href="https://github.com/davidmartinezbosch45"><img src="https://avatars.githubusercontent.com/u/102800844?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davidmartinezbosch45"><b>david</b></a><br><sub>&#64;davidmartinezbosch45</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">242</td>
+<td align="right">269</td>
+<td><a href="https://github.com/hugollatafotografia-dot"><img src="https://avatars.githubusercontent.com/u/250873552?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hugollatafotografia-dot"><b>Hugo Llata Rodriguez</b></a><br><sub>&#64;hugollatafotografia-dot</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Andorra la Vella</sub></td>
+</tr>
+<tr>
+<td align="right">270</td>
+<td><a href="https://github.com/nofreshejykbtanke"><img src="https://avatars.githubusercontent.com/u/183161409?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nofreshejykbtanke"><b>nofreshejykbtanke</b></a><br><sub>&#64;nofreshejykbtanke</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Andorra (AD)</sub></td>
+</tr>
+<tr>
+<td align="right">271</td>
 <td><a href="https://github.com/unitedrights"><img src="https://avatars.githubusercontent.com/u/83614719?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/unitedrights"><b>United Rights ORG</b></a><br><sub>&#64;unitedrights</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">243</td>
+<td align="right">272</td>
+<td><a href="https://github.com/XFonty"><img src="https://avatars.githubusercontent.com/u/141143676?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/XFonty"><b>Xavi</b></a><br><sub>&#64;XFonty</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">273</td>
+<td><a href="https://github.com/YortxMonteiro"><img src="https://avatars.githubusercontent.com/u/86853559?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YortxMonteiro"><b>Jorge Monteiro</b></a><br><sub>&#64;YortxMonteiro</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">274</td>
+<td><a href="https://github.com/alandergimenez"><img src="https://avatars.githubusercontent.com/u/82914806?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alandergimenez"><b>Alander Gimenez</b></a><br><sub>&#64;alandergimenez</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">275</td>
 <td><a href="https://github.com/cristiancunha-ad"><img src="https://avatars.githubusercontent.com/u/234659559?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cristiancunha-ad"><b>Cristian Garcia</b></a><br><sub>&#64;cristiancunha-ad</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Andorra la Vella</sub></td>
 </tr>
 <tr>
-<td align="right">244</td>
+<td align="right">276</td>
+<td><a href="https://github.com/fernandogsosa"><img src="https://avatars.githubusercontent.com/u/112387259?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fernandogsosa"><b>fernandogsosa</b></a><br><sub>&#64;fernandogsosa</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Andorra, La Vella</sub></td>
+</tr>
+<tr>
+<td align="right">277</td>
 <td><a href="https://github.com/GilSR"><img src="https://avatars.githubusercontent.com/u/49453147?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GilSR"><b>Gil SR</b></a><br><sub>&#64;GilSR</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">245</td>
+<td align="right">278</td>
+<td><a href="https://github.com/kikemf"><img src="https://avatars.githubusercontent.com/u/3902447?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kikemf"><b>Enrique Muñoz Fernández</b></a><br><sub>&#64;kikemf</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">279</td>
+<td><a href="https://github.com/konstantinosyilmaz06965"><img src="https://avatars.githubusercontent.com/u/330822502?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/konstantinosyilmaz06965"><b>Dalia Bueno</b></a><br><sub>&#64;konstantinosyilmaz06965</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Nueva Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">280</td>
+<td><a href="https://github.com/lae1983"><img src="https://avatars.githubusercontent.com/u/80587571?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lae1983"><b>Lucas Estevez Bejarano</b></a><br><sub>&#64;lae1983</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">281</td>
+<td><a href="https://github.com/madharoce-web"><img src="https://avatars.githubusercontent.com/u/300911076?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/madharoce-web"><b>Miguel de Haro</b></a><br><sub>&#64;madharoce-web</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">282</td>
+<td><a href="https://github.com/nikolaev83"><img src="https://avatars.githubusercontent.com/u/89398431?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nikolaev83"><b>Nikolaev Benique</b></a><br><sub>&#64;nikolaev83</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">283</td>
+<td><a href="https://github.com/nuriarichergusano"><img src="https://avatars.githubusercontent.com/u/176916352?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nuriarichergusano"><b>Nuria Richer Gusano</b></a><br><sub>&#64;nuriarichergusano</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">284</td>
+<td><a href="https://github.com/sginkov"><img src="https://avatars.githubusercontent.com/u/2507390?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sginkov"><b>Siarhei Hinkou</b></a><br><sub>&#64;sginkov</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">285</td>
 <td><a href="https://github.com/Smokanci"><img src="https://avatars.githubusercontent.com/u/2140040?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Smokanci"><b>Smokanci</b></a><br><sub>&#64;Smokanci</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">246</td>
+<td align="right">286</td>
+<td><a href="https://github.com/abausili"><img src="https://avatars.githubusercontent.com/u/125553839?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abausili"><b>Adrià Bausili</b></a><br><sub>&#64;abausili</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">287</td>
+<td><a href="https://github.com/borjateleco"><img src="https://avatars.githubusercontent.com/u/98977870?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/borjateleco"><b>Borja J. Rodrigo</b></a><br><sub>&#64;borjateleco</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Andorra la Vella</sub></td>
+</tr>
+<tr>
+<td align="right">288</td>
 <td><a href="https://github.com/bvjkf"><img src="https://avatars.githubusercontent.com/u/85309921?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bvjkf"><b>bvjkf</b></a><br><sub>&#64;bvjkf</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">247</td>
+<td align="right">289</td>
+<td><a href="https://github.com/carlospsfni"><img src="https://avatars.githubusercontent.com/u/136785807?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/carlospsfni"><b>Carlos Jimenez</b></a><br><sub>&#64;carlospsfni</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">290</td>
+<td><a href="https://github.com/damarnez-poly"><img src="https://avatars.githubusercontent.com/u/281873126?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/damarnez-poly"><b>Daniel Martín Jiménez</b></a><br><sub>&#64;damarnez-poly</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">291</td>
+<td><a href="https://github.com/ITSMOUTA"><img src="https://avatars.githubusercontent.com/u/77035629?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ITSMOUTA"><b>Mouta</b></a><br><sub>&#64;ITSMOUTA</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">292</td>
+<td><a href="https://github.com/javier-erro"><img src="https://avatars.githubusercontent.com/u/186809482?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/javier-erro"><b>Javier Erro</b></a><br><sub>&#64;javier-erro</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">293</td>
+<td><a href="https://github.com/jennywfo"><img src="https://avatars.githubusercontent.com/u/114223410?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jennywfo"><b>jenny</b></a><br><sub>&#64;jennywfo</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">294</td>
+<td><a href="https://github.com/kokocan"><img src="https://avatars.githubusercontent.com/u/101976120?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kokocan"><b>Paula</b></a><br><sub>&#64;kokocan</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">295</td>
 <td><a href="https://github.com/Korfak"><img src="https://avatars.githubusercontent.com/u/144683975?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Korfak"><b>Marc</b></a><br><sub>&#64;Korfak</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">248</td>
+<td align="right">296</td>
+<td><a href="https://github.com/lele50"><img src="https://avatars.githubusercontent.com/u/26385233?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lele50"><b>Daniel Masotti</b></a><br><sub>&#64;lele50</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">297</td>
+<td><a href="https://github.com/Maxximus007"><img src="https://avatars.githubusercontent.com/u/6471025?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Maxximus007"><b>Ivar</b></a><br><sub>&#64;Maxximus007</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">298</td>
+<td><a href="https://github.com/mdbep"><img src="https://avatars.githubusercontent.com/u/234622517?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mdbep"><b>Enrique</b></a><br><sub>&#64;mdbep</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Escaldes-Engordany, Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">299</td>
 <td><a href="https://github.com/mibock"><img src="https://avatars.githubusercontent.com/u/1178468?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mibock"><b>Michael Bock</b></a><br><sub>&#64;mibock</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">249</td>
+<td align="right">300</td>
 <td><a href="https://github.com/nachoaguirrealvarez"><img src="https://avatars.githubusercontent.com/u/247351487?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nachoaguirrealvarez"><b>José Ignacio (Nacho) Aguirre Álvarez</b></a><br><sub>&#64;nachoaguirrealvarez</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Madrid · Andorra · Luxembourg</sub></td>
 </tr>
 <tr>
-<td align="right">250</td>
+<td align="right">301</td>
+<td><a href="https://github.com/oxkis"><img src="https://avatars.githubusercontent.com/u/31482134?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/oxkis"><b>Vikoxkis</b></a><br><sub>&#64;oxkis</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">302</td>
+<td><a href="https://github.com/Sattores"><img src="https://avatars.githubusercontent.com/u/246770251?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sattores"><b>Boris Gertsovsky</b></a><br><sub>&#64;Sattores</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">303</td>
 <td><a href="https://github.com/sergibuendia"><img src="https://avatars.githubusercontent.com/u/221373444?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sergibuendia"><b>Sergi Buendia</b></a><br><sub>&#64;sergibuendia</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Barcelona / Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">251</td>
+<td align="right">304</td>
 <td><a href="https://github.com/Susana-Gouveia"><img src="https://avatars.githubusercontent.com/u/69088488?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Susana-Gouveia"><b>Susana-Gouveia</b></a><br><sub>&#64;Susana-Gouveia</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">252</td>
+<td align="right">305</td>
 <td><a href="https://github.com/teamquadforge"><img src="https://avatars.githubusercontent.com/u/335504054?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/teamquadforge"><b>QuadForge</b></a><br><sub>&#64;teamquadforge</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">253</td>
+<td align="right">306</td>
 <td><a href="https://github.com/vefects"><img src="https://avatars.githubusercontent.com/u/84630565?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vefects"><b>Vefects</b></a><br><sub>&#64;vefects</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">254</td>
+<td align="right">307</td>
+<td><a href="https://github.com/xoelriby"><img src="https://avatars.githubusercontent.com/u/35419454?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xoelriby"><b>Joel Ribera</b></a><br><sub>&#64;xoelriby</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">308</td>
 <td><a href="https://github.com/xRaionx"><img src="https://avatars.githubusercontent.com/u/35484909?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xRaionx"><b>Andre Filipe Sousa Morais</b></a><br><sub>&#64;xRaionx</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Andorra La Vella</sub></td>
 </tr>
 <tr>
-<td align="right">255</td>
+<td align="right">309</td>
+<td><a href="https://github.com/zapherymk"><img src="https://avatars.githubusercontent.com/u/335437107?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zapherymk"><b>zapherymk</b></a><br><sub>&#64;zapherymk</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">310</td>
+<td><a href="https://github.com/albertolruizz"><img src="https://avatars.githubusercontent.com/u/282313927?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/albertolruizz"><b>Alberto Luján Ruiz</b></a><br><sub>&#64;albertolruizz</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">311</td>
+<td><a href="https://github.com/all-andorra"><img src="https://avatars.githubusercontent.com/u/23032184?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/all-andorra"><b>all-andorra</b></a><br><sub>&#64;all-andorra</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">312</td>
 <td><a href="https://github.com/andorradelany"><img src="https://avatars.githubusercontent.com/u/54380573?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andorradelany"><b>Andorrà de l&#39;any</b></a><br><sub>&#64;andorradelany</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">256</td>
+<td align="right">313</td>
+<td><a href="https://github.com/bcarvalhob"><img src="https://avatars.githubusercontent.com/u/206083304?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bcarvalhob"><b>Bruno Carvalho</b></a><br><sub>&#64;bcarvalhob</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra, Andorra la Vella</sub></td>
+</tr>
+<tr>
+<td align="right">314</td>
+<td><a href="https://github.com/BeNexeAndorra"><img src="https://avatars.githubusercontent.com/u/152173806?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BeNexeAndorra"><b>Marcel Tomas</b></a><br><sub>&#64;BeNexeAndorra</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">315</td>
+<td><a href="https://github.com/Bracque"><img src="https://avatars.githubusercontent.com/u/8986949?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bracque"><b>Olivier</b></a><br><sub>&#64;Bracque</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">316</td>
+<td><a href="https://github.com/Cithery"><img src="https://avatars.githubusercontent.com/u/104677894?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Cithery"><b>Cithery</b></a><br><sub>&#64;Cithery</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">317</td>
+<td><a href="https://github.com/clowdray"><img src="https://avatars.githubusercontent.com/u/46500919?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/clowdray"><b>Miquel Giné</b></a><br><sub>&#64;clowdray</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">318</td>
+<td><a href="https://github.com/CursedGirl"><img src="https://avatars.githubusercontent.com/u/201828530?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CursedGirl"><b>CursedGirl</b></a><br><sub>&#64;CursedGirl</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">319</td>
+<td><a href="https://github.com/davidpeyronne"><img src="https://avatars.githubusercontent.com/u/62553531?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davidpeyronne"><b>David PEYRONNE</b></a><br><sub>&#64;davidpeyronne</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">320</td>
+<td><a href="https://github.com/Diego9912"><img src="https://avatars.githubusercontent.com/u/145098521?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Diego9912"><b>Diego Nunes De Carvalho</b></a><br><sub>&#64;Diego9912</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">321</td>
+<td><a href="https://github.com/DragonForceQueen"><img src="https://avatars.githubusercontent.com/u/102378315?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DragonForceQueen"><b>Mia Whitewood</b></a><br><sub>&#64;DragonForceQueen</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">322</td>
+<td><a href="https://github.com/elhijodelfonk"><img src="https://avatars.githubusercontent.com/u/1113154?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elhijodelfonk"><b>Josu Adanez</b></a><br><sub>&#64;elhijodelfonk</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">323</td>
+<td><a href="https://github.com/EliteAtleta"><img src="https://avatars.githubusercontent.com/u/174859891?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EliteAtleta"><b>Oscar Hurtado</b></a><br><sub>&#64;EliteAtleta</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">324</td>
+<td><a href="https://github.com/endaco"><img src="https://avatars.githubusercontent.com/u/24453359?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/endaco"><b>endaco</b></a><br><sub>&#64;endaco</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">325</td>
+<td><a href="https://github.com/ferran13"><img src="https://avatars.githubusercontent.com/u/103309812?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ferran13"><b>FERRAN MARTINEZ</b></a><br><sub>&#64;ferran13</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">326</td>
+<td><a href="https://github.com/gbarios"><img src="https://avatars.githubusercontent.com/u/32736077?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gbarios"><b>Gabriel Barios</b></a><br><sub>&#64;gbarios</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">327</td>
+<td><a href="https://github.com/helapie"><img src="https://avatars.githubusercontent.com/u/204901697?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/helapie"><b>helapie&#95;GitH</b></a><br><sub>&#64;helapie</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra La Vella, Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">328</td>
+<td><a href="https://github.com/iyimawk"><img src="https://avatars.githubusercontent.com/u/223874811?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iyimawk"><b>Maya Brooks</b></a><br><sub>&#64;iyimawk</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra la Vella</sub></td>
+</tr>
+<tr>
+<td align="right">329</td>
 <td><a href="https://github.com/JgomesAT"><img src="https://avatars.githubusercontent.com/u/138443888?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JgomesAT"><b>Jorge Gomes</b></a><br><sub>&#64;JgomesAT</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Santa Coloma, Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">257</td>
+<td align="right">330</td>
+<td><a href="https://github.com/jreina30"><img src="https://avatars.githubusercontent.com/u/90251659?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jreina30"><b>Jose A. Reina</b></a><br><sub>&#64;jreina30</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">331</td>
+<td><a href="https://github.com/jrguillaumet"><img src="https://avatars.githubusercontent.com/u/188852608?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jrguillaumet"><b>jrguillaumet</b></a><br><sub>&#64;jrguillaumet</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">332</td>
 <td><a href="https://github.com/Kalimero704"><img src="https://avatars.githubusercontent.com/u/31041944?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kalimero704"><b>Jaime Ontoria Arauzo</b></a><br><sub>&#64;Kalimero704</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">258</td>
+<td align="right">333</td>
 <td><a href="https://github.com/KARPIFY-GITHUB"><img src="https://avatars.githubusercontent.com/u/84549287?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KARPIFY-GITHUB"><b>Karpify</b></a><br><sub>&#64;KARPIFY-GITHUB</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">259</td>
+<td align="right">334</td>
 <td><a href="https://github.com/katgramnt"><img src="https://avatars.githubusercontent.com/u/50767353?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/katgramnt"><b>Katlyn Agramunt</b></a><br><sub>&#64;katgramnt</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Encamp, Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">260</td>
+<td align="right">335</td>
+<td><a href="https://github.com/kennethzhang0106"><img src="https://avatars.githubusercontent.com/u/121867033?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kennethzhang0106"><b>Kenneth Zhang</b></a><br><sub>&#64;kennethzhang0106</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">336</td>
 <td><a href="https://github.com/Lopskos"><img src="https://avatars.githubusercontent.com/u/217720110?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lopskos"><b>Jordi Bit24</b></a><br><sub>&#64;Lopskos</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">261</td>
+<td align="right">337</td>
+<td><a href="https://github.com/ltrapero"><img src="https://avatars.githubusercontent.com/u/72495766?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ltrapero"><b>ltrapero</b></a><br><sub>&#64;ltrapero</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">338</td>
+<td><a href="https://github.com/luihwgefiyt72ir"><img src="https://avatars.githubusercontent.com/u/251797527?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/luihwgefiyt72ir"><b>Mario</b></a><br><sub>&#64;luihwgefiyt72ir</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">339</td>
+<td><a href="https://github.com/mortegaj"><img src="https://avatars.githubusercontent.com/u/16175986?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mortegaj"><b>Marc Ortega</b></a><br><sub>&#64;mortegaj</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">340</td>
 <td><a href="https://github.com/napoleon-dynamite"><img src="https://avatars.githubusercontent.com/u/21985106?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/napoleon-dynamite"><b>Napoleon Dynamite</b></a><br><sub>&#64;napoleon-dynamite</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">262</td>
+<td align="right">341</td>
+<td><a href="https://github.com/olivierdheur"><img src="https://avatars.githubusercontent.com/u/16079606?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/olivierdheur"><b>Olivier</b></a><br><sub>&#64;olivierdheur</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Ordino, Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">342</td>
 <td><a href="https://github.com/rg-softwares"><img src="https://avatars.githubusercontent.com/u/71969137?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rg-softwares"><b>rg-softwares</b></a><br><sub>&#64;rg-softwares</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">263</td>
+<td align="right">343</td>
+<td><a href="https://github.com/Ryu-Studio"><img src="https://avatars.githubusercontent.com/u/302453215?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ryu-Studio"><b>Meritxell Ruiz</b></a><br><sub>&#64;Ryu-Studio</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">344</td>
+<td><a href="https://github.com/Samuel1366"><img src="https://avatars.githubusercontent.com/u/84028980?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Samuel1366"><b>Samuel Pimenta</b></a><br><sub>&#64;Samuel1366</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">345</td>
 <td><a href="https://github.com/SteveRackley"><img src="https://avatars.githubusercontent.com/u/35538120?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SteveRackley"><b>Steve Rackley</b></a><br><sub>&#64;SteveRackley</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">264</td>
+<td align="right">346</td>
+<td><a href="https://github.com/StoneWarrior"><img src="https://avatars.githubusercontent.com/u/47830277?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/StoneWarrior"><b>DAVID MARTIN</b></a><br><sub>&#64;StoneWarrior</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>ANDORRA</sub></td>
+</tr>
+<tr>
+<td align="right">347</td>
 <td><a href="https://github.com/SverreRojgard"><img src="https://avatars.githubusercontent.com/u/183022511?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SverreRojgard"><b>SverreRojgard</b></a><br><sub>&#64;SverreRojgard</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Andorra, the city of dreams 🤠</sub></td>
 </tr>
 <tr>
-<td align="right">265</td>
+<td align="right">348</td>
+<td><a href="https://github.com/SysSolucions"><img src="https://avatars.githubusercontent.com/u/115070547?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SysSolucions"><b>Solucions EV</b></a><br><sub>&#64;SysSolucions</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">349</td>
+<td><a href="https://github.com/tikalsk"><img src="https://avatars.githubusercontent.com/u/53571110?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tikalsk"><b>Tikalsk</b></a><br><sub>&#64;tikalsk</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">350</td>
+<td><a href="https://github.com/VirginiaMara"><img src="https://avatars.githubusercontent.com/u/108297358?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VirginiaMara"><b>VirgiMary</b></a><br><sub>&#64;VirginiaMara</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">351</td>
+<td><a href="https://github.com/Xkrox67"><img src="https://avatars.githubusercontent.com/u/275166904?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Xkrox67"><b>Xkrox67</b></a><br><sub>&#64;Xkrox67</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">352</td>
+<td><a href="https://github.com/0l3n4mkrov"><img src="https://avatars.githubusercontent.com/u/169453097?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0l3n4mkrov"><b>Oleg Makarova</b></a><br><sub>&#64;0l3n4mkrov</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">353</td>
+<td><a href="https://github.com/4autism"><img src="https://avatars.githubusercontent.com/u/103632984?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/4autism"><b>autism</b></a><br><sub>&#64;4autism</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">354</td>
+<td><a href="https://github.com/adriaaprats"><img src="https://avatars.githubusercontent.com/u/209384120?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adriaaprats"><b>Adria Lechantre prats</b></a><br><sub>&#64;adriaaprats</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">355</td>
+<td><a href="https://github.com/afuste12"><img src="https://avatars.githubusercontent.com/u/150446063?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/afuste12"><b>Anna</b></a><br><sub>&#64;afuste12</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">356</td>
 <td><a href="https://github.com/alayadavis"><img src="https://avatars.githubusercontent.com/u/47692498?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alayadavis"><b>Alaya Davis</b></a><br><sub>&#64;alayadavis</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Andorra la Vella</sub></td>
 </tr>
 <tr>
-<td align="right">266</td>
+<td align="right">357</td>
+<td><a href="https://github.com/AlbertoAgora"><img src="https://avatars.githubusercontent.com/u/115148324?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlbertoAgora"><b>AlbertoAgora</b></a><br><sub>&#64;AlbertoAgora</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>andorra</sub></td>
+</tr>
+<tr>
+<td align="right">358</td>
+<td><a href="https://github.com/alexboyes3000"><img src="https://avatars.githubusercontent.com/u/36004609?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexboyes3000"><b>alexboyes3000</b></a><br><sub>&#64;alexboyes3000</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">359</td>
+<td><a href="https://github.com/alexxsavina"><img src="https://avatars.githubusercontent.com/u/304467278?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexxsavina"><b>Alex</b></a><br><sub>&#64;alexxsavina</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">360</td>
+<td><a href="https://github.com/alfonsmiralles"><img src="https://avatars.githubusercontent.com/u/25978915?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alfonsmiralles"><b>AlfonsMiralles</b></a><br><sub>&#64;alfonsmiralles</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">361</td>
+<td><a href="https://github.com/amirodev"><img src="https://avatars.githubusercontent.com/u/132662026?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amirodev"><b>amirodev</b></a><br><sub>&#64;amirodev</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>ANDORRA</sub></td>
+</tr>
+<tr>
+<td align="right">362</td>
+<td><a href="https://github.com/andrewagmi"><img src="https://avatars.githubusercontent.com/u/107405691?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andrewagmi"><b>André Caçador</b></a><br><sub>&#64;andrewagmi</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">363</td>
+<td><a href="https://github.com/androsani"><img src="https://avatars.githubusercontent.com/u/223129883?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/androsani"><b>Andro Sani</b></a><br><sub>&#64;androsani</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>andorra</sub></td>
+</tr>
+<tr>
+<td align="right">364</td>
+<td><a href="https://github.com/Arcady-qunundrum"><img src="https://avatars.githubusercontent.com/u/270218358?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Arcady-qunundrum"><b>Arcady-qunundrum</b></a><br><sub>&#64;Arcady-qunundrum</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">365</td>
+<td><a href="https://github.com/asegarra-countellis"><img src="https://avatars.githubusercontent.com/u/251996618?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asegarra-countellis"><b>ASegarra</b></a><br><sub>&#64;asegarra-countellis</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>ANDORRA</sub></td>
+</tr>
+<tr>
+<td align="right">366</td>
 <td><a href="https://github.com/asptecnic"><img src="https://avatars.githubusercontent.com/u/217071940?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asptecnic"><b>Philippe Barre</b></a><br><sub>&#64;asptecnic</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">267</td>
+<td align="right">367</td>
 <td><a href="https://github.com/ast3388"><img src="https://avatars.githubusercontent.com/u/91605500?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ast3388"><b>asegarra</b></a><br><sub>&#64;ast3388</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">268</td>
+<td align="right">368</td>
+<td><a href="https://github.com/astCountellis"><img src="https://avatars.githubusercontent.com/u/188102513?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/astCountellis"><b>astCountellis</b></a><br><sub>&#64;astCountellis</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">369</td>
 <td><a href="https://github.com/aurora-kwapso"><img src="https://avatars.githubusercontent.com/u/312514539?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aurora-kwapso"><b>Aurora &#64; Kwapso</b></a><br><sub>&#64;aurora-kwapso</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">269</td>
+<td align="right">370</td>
+<td><a href="https://github.com/avizoreyesoftware-cloud"><img src="https://avatars.githubusercontent.com/u/273078630?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/avizoreyesoftware-cloud"><b>Marc Vinyes</b></a><br><sub>&#64;avizoreyesoftware-cloud</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">371</td>
+<td><a href="https://github.com/bertellojs"><img src="https://avatars.githubusercontent.com/u/87075368?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bertellojs"><b>JuniorBD</b></a><br><sub>&#64;bertellojs</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">372</td>
+<td><a href="https://github.com/Bitwise12"><img src="https://avatars.githubusercontent.com/u/257216097?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bitwise12"><b>Bitwise12</b></a><br><sub>&#64;Bitwise12</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">373</td>
+<td><a href="https://github.com/Bladeck16"><img src="https://avatars.githubusercontent.com/u/47220104?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bladeck16"><b>Joao Santos</b></a><br><sub>&#64;Bladeck16</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">374</td>
 <td><a href="https://github.com/bloodyroar02"><img src="https://avatars.githubusercontent.com/u/90080118?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bloodyroar02"><b>bloodyroar02</b></a><br><sub>&#64;bloodyroar02</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>La Massana, Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">270</td>
+<td align="right">375</td>
+<td><a href="https://github.com/bnj2789"><img src="https://avatars.githubusercontent.com/u/39466176?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bnj2789"><b>Benjy</b></a><br><sub>&#64;bnj2789</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">376</td>
+<td><a href="https://github.com/Bobbysou"><img src="https://avatars.githubusercontent.com/u/152893635?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bobbysou"><b>CAPTAIN BOB</b></a><br><sub>&#64;Bobbysou</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">377</td>
+<td><a href="https://github.com/BracqueOlivier"><img src="https://avatars.githubusercontent.com/u/189354870?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BracqueOlivier"><b>BracqueOlivier</b></a><br><sub>&#64;BracqueOlivier</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">378</td>
+<td><a href="https://github.com/BrauStorm26"><img src="https://avatars.githubusercontent.com/u/161394788?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BrauStorm26"><b>BrauStorm26</b></a><br><sub>&#64;BrauStorm26</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">379</td>
+<td><a href="https://github.com/brunoNFTn"><img src="https://avatars.githubusercontent.com/u/98585978?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brunoNFTn"><b>Bruno G.</b></a><br><sub>&#64;brunoNFTn</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">380</td>
+<td><a href="https://github.com/bytepitch-ruben-cordeiro"><img src="https://avatars.githubusercontent.com/u/312597827?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bytepitch-ruben-cordeiro"><b>Ruben Cordeiro</b></a><br><sub>&#64;bytepitch-ruben-cordeiro</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">381</td>
 <td><a href="https://github.com/CarlosRinconMarin"><img src="https://avatars.githubusercontent.com/u/289378167?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CarlosRinconMarin"><b>Carlos Rincón Marin</b></a><br><sub>&#64;CarlosRinconMarin</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">271</td>
+<td align="right">382</td>
+<td><a href="https://github.com/CDCCAD"><img src="https://avatars.githubusercontent.com/u/155752583?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CDCCAD"><b>CDCC</b></a><br><sub>&#64;CDCCAD</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">383</td>
 <td><a href="https://github.com/cellabregenera"><img src="https://avatars.githubusercontent.com/u/275798644?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cellabregenera"><b>Cellab CDMO</b></a><br><sub>&#64;cellabregenera</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">272</td>
+<td align="right">384</td>
+<td><a href="https://github.com/charliecub3"><img src="https://avatars.githubusercontent.com/u/195120585?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/charliecub3"><b>Charlie Quetstroey</b></a><br><sub>&#64;charliecub3</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">385</td>
+<td><a href="https://github.com/claudi-amorim"><img src="https://avatars.githubusercontent.com/u/205952526?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/claudi-amorim"><b>Claudi Amorim</b></a><br><sub>&#64;claudi-amorim</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra La Vella</sub></td>
+</tr>
+<tr>
+<td align="right">386</td>
+<td><a href="https://github.com/cmunmas"><img src="https://avatars.githubusercontent.com/u/65285985?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cmunmas"><b>Carlos Mun</b></a><br><sub>&#64;cmunmas</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">387</td>
+<td><a href="https://github.com/cotxeandorra-bot"><img src="https://avatars.githubusercontent.com/u/120956370?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cotxeandorra-bot"><b>CotxeAndorra</b></a><br><sub>&#64;cotxeandorra-bot</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">388</td>
+<td><a href="https://github.com/davidcastillop"><img src="https://avatars.githubusercontent.com/u/357857421?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davidcastillop"><b>David Castillo</b></a><br><sub>&#64;davidcastillop</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">389</td>
+<td><a href="https://github.com/DevPaloSeco"><img src="https://avatars.githubusercontent.com/u/294228122?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DevPaloSeco"><b>Palo Seco</b></a><br><sub>&#64;DevPaloSeco</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">390</td>
+<td><a href="https://github.com/dfernandezmartinez1"><img src="https://avatars.githubusercontent.com/u/57329051?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dfernandezmartinez1"><b>David Fernandez</b></a><br><sub>&#64;dfernandezmartinez1</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra la Vella</sub></td>
+</tr>
+<tr>
+<td align="right">391</td>
+<td><a href="https://github.com/dox-nerazim"><img src="https://avatars.githubusercontent.com/u/99420765?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dox-nerazim"><b>DoX</b></a><br><sub>&#64;dox-nerazim</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra la Vella</sub></td>
+</tr>
+<tr>
+<td align="right">392</td>
+<td><a href="https://github.com/DueGlobal"><img src="https://avatars.githubusercontent.com/u/5264251?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DueGlobal"><b>Morten Due</b></a><br><sub>&#64;DueGlobal</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">393</td>
+<td><a href="https://github.com/ealbavich"><img src="https://avatars.githubusercontent.com/u/172918521?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ealbavich"><b>Eric Alba</b></a><br><sub>&#64;ealbavich</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra la Vella, Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">394</td>
+<td><a href="https://github.com/eleven360"><img src="https://avatars.githubusercontent.com/u/300528242?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eleven360"><b>Eleven360</b></a><br><sub>&#64;eleven360</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">395</td>
+<td><a href="https://github.com/epagesr"><img src="https://avatars.githubusercontent.com/u/5525884?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/epagesr"><b>Eduard Pagès Riberaygua</b></a><br><sub>&#64;epagesr</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">396</td>
+<td><a href="https://github.com/ericjeanaegis"><img src="https://avatars.githubusercontent.com/u/176311734?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ericjeanaegis"><b>Eric JEAN</b></a><br><sub>&#64;ericjeanaegis</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>ANDORRA</sub></td>
+</tr>
+<tr>
+<td align="right">397</td>
 <td><a href="https://github.com/Etelatar-Innovation"><img src="https://avatars.githubusercontent.com/u/100614205?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Etelatar-Innovation"><b>Etelätär Innovation</b></a><br><sub>&#64;Etelatar-Innovation</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Tallinn, Brussels, Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">273</td>
+<td align="right">398</td>
+<td><a href="https://github.com/Eti-Canons"><img src="https://avatars.githubusercontent.com/u/182437318?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Eti-Canons"><b>Etienne</b></a><br><sub>&#64;Eti-Canons</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">399</td>
+<td><a href="https://github.com/EtienneGELAS"><img src="https://avatars.githubusercontent.com/u/86690884?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EtienneGELAS"><b>Etienne G.</b></a><br><sub>&#64;EtienneGELAS</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra La Vella</sub></td>
+</tr>
+<tr>
+<td align="right">400</td>
 <td><a href="https://github.com/FarmaciaGuerrero"><img src="https://avatars.githubusercontent.com/u/75982284?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FarmaciaGuerrero"><b>Farmacia Guerrero</b></a><br><sub>&#64;FarmaciaGuerrero</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">274</td>
+<td align="right">401</td>
+<td><a href="https://github.com/fisagol"><img src="https://avatars.githubusercontent.com/u/11616481?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fisagol"><b>Joan Marc Fisa Gol</b></a><br><sub>&#64;fisagol</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">402</td>
 <td><a href="https://github.com/genimac"><img src="https://avatars.githubusercontent.com/u/10963265?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/genimac"><b>genimac</b></a><br><sub>&#64;genimac</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">275</td>
+<td align="right">403</td>
+<td><a href="https://github.com/GilbertoCv"><img src="https://avatars.githubusercontent.com/u/72774943?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GilbertoCv"><b>GilbertoCv</b></a><br><sub>&#64;GilbertoCv</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">404</td>
 <td><a href="https://github.com/Gokotoba"><img src="https://avatars.githubusercontent.com/u/91635460?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Gokotoba"><b>Gonza</b></a><br><sub>&#64;Gokotoba</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">276</td>
+<td align="right">405</td>
+<td><a href="https://github.com/GoldvTV"><img src="https://avatars.githubusercontent.com/u/147774701?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GoldvTV"><b>GoldvTV</b></a><br><sub>&#64;GoldvTV</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">406</td>
 <td><a href="https://github.com/Gracza"><img src="https://avatars.githubusercontent.com/u/111815299?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Gracza"><b>Ghost</b></a><br><sub>&#64;Gracza</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">277</td>
+<td align="right">407</td>
 <td><a href="https://github.com/GrupoNovoDavid"><img src="https://avatars.githubusercontent.com/u/184384661?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GrupoNovoDavid"><b>David Saborido Pérez</b></a><br><sub>&#64;GrupoNovoDavid</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">278</td>
+<td align="right">408</td>
+<td><a href="https://github.com/GTAZoneHub"><img src="https://avatars.githubusercontent.com/u/195034469?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GTAZoneHub"><b>GTAZoneHub</b></a><br><sub>&#64;GTAZoneHub</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">409</td>
+<td><a href="https://github.com/hardadams2-ops"><img src="https://avatars.githubusercontent.com/u/300931540?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hardadams2-ops"><b>Adel</b></a><br><sub>&#64;hardadams2-ops</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">410</td>
+<td><a href="https://github.com/Harlock-cyb"><img src="https://avatars.githubusercontent.com/u/206522296?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Harlock-cyb"><b>Adrià Ferran Fernández Laxio</b></a><br><sub>&#64;Harlock-cyb</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">411</td>
 <td><a href="https://github.com/hectorprincipat"><img src="https://avatars.githubusercontent.com/u/348282361?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hectorprincipat"><b>Hèctor</b></a><br><sub>&#64;hectorprincipat</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">279</td>
+<td align="right">412</td>
+<td><a href="https://github.com/hmirandajr"><img src="https://avatars.githubusercontent.com/u/8492221?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hmirandajr"><b>Helio</b></a><br><sub>&#64;hmirandajr</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">413</td>
+<td><a href="https://github.com/hsad10"><img src="https://avatars.githubusercontent.com/u/35855750?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hsad10"><b>Hugo Sadofschi</b></a><br><sub>&#64;hsad10</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">414</td>
 <td><a href="https://github.com/ignasi-git"><img src="https://avatars.githubusercontent.com/u/156231060?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ignasi-git"><b>ignasi-git</b></a><br><sub>&#64;ignasi-git</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">280</td>
+<td align="right">415</td>
+<td><a href="https://github.com/IndraOtsu"><img src="https://avatars.githubusercontent.com/u/58169568?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IndraOtsu"><b>Marcos</b></a><br><sub>&#64;IndraOtsu</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">416</td>
+<td><a href="https://github.com/inspotAndorra"><img src="https://avatars.githubusercontent.com/u/230833660?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/inspotAndorra"><b>Artem Samoylov</b></a><br><sub>&#64;inspotAndorra</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">417</td>
+<td><a href="https://github.com/internationalyachtscharterandbroekrage"><img src="https://avatars.githubusercontent.com/u/269695307?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/internationalyachtscharterandbroekrage"><b>Internationalyachtscharterandbrokerage</b></a><br><sub>&#64;internationalyachtscharterandbroekrage</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">418</td>
+<td><a href="https://github.com/ivanfc"><img src="https://avatars.githubusercontent.com/u/16852498?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ivanfc"><b>Iván Fresneda</b></a><br><sub>&#64;ivanfc</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra la Vella</sub></td>
+</tr>
+<tr>
+<td align="right">419</td>
+<td><a href="https://github.com/JaimeMolina87"><img src="https://avatars.githubusercontent.com/u/20339304?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JaimeMolina87"><b>Jaime Molina</b></a><br><sub>&#64;JaimeMolina87</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra la Vella</sub></td>
+</tr>
+<tr>
+<td align="right">420</td>
+<td><a href="https://github.com/jaredvillanueva"><img src="https://avatars.githubusercontent.com/u/32225318?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jaredvillanueva"><b>Jared Villanueva</b></a><br><sub>&#64;jaredvillanueva</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">421</td>
 <td><a href="https://github.com/jjrecort"><img src="https://avatars.githubusercontent.com/u/25830543?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jjrecort"><b>Jordi J. Recort</b></a><br><sub>&#64;jjrecort</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Ordino, Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">281</td>
+<td align="right">422</td>
+<td><a href="https://github.com/JordiBlancoSinzerAD"><img src="https://avatars.githubusercontent.com/u/185233025?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JordiBlancoSinzerAD"><b>Jordi Blanco Lopez</b></a><br><sub>&#64;JordiBlancoSinzerAD</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">423</td>
+<td><a href="https://github.com/josearh30"><img src="https://avatars.githubusercontent.com/u/31337942?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/josearh30"><b>Jose A Reina</b></a><br><sub>&#64;josearh30</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">424</td>
+<td><a href="https://github.com/jpamvdd"><img src="https://avatars.githubusercontent.com/u/5726133?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jpamvdd"><b>VBF PRO</b></a><br><sub>&#64;jpamvdd</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>andorra</sub></td>
+</tr>
+<tr>
+<td align="right">425</td>
 <td><a href="https://github.com/jperezl18"><img src="https://avatars.githubusercontent.com/u/99468153?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jperezl18"><b>Jorge D. Pérez López</b></a><br><sub>&#64;jperezl18</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Santa Coloma, Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">282</td>
+<td align="right">426</td>
+<td><a href="https://github.com/Kakapox"><img src="https://avatars.githubusercontent.com/u/288573588?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kakapox"><b>Kakapox</b></a><br><sub>&#64;Kakapox</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">427</td>
+<td><a href="https://github.com/Kationz17"><img src="https://avatars.githubusercontent.com/u/259740802?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kationz17"><b>Kationz</b></a><br><sub>&#64;Kationz17</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">428</td>
+<td><a href="https://github.com/KEDECS"><img src="https://avatars.githubusercontent.com/u/83509716?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KEDECS"><b>KEDECS</b></a><br><sub>&#64;KEDECS</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">429</td>
 <td><a href="https://github.com/korfak-qvasar"><img src="https://avatars.githubusercontent.com/u/333903751?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/korfak-qvasar"><b>Marc Obregon Pantebre</b></a><br><sub>&#64;korfak-qvasar</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">283</td>
+<td align="right">430</td>
 <td><a href="https://github.com/Latitud42"><img src="https://avatars.githubusercontent.com/u/284363854?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Latitud42"><b>Latitud42</b></a><br><sub>&#64;Latitud42</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">284</td>
+<td align="right">431</td>
+<td><a href="https://github.com/LimbitIO"><img src="https://avatars.githubusercontent.com/u/100922854?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LimbitIO"><b>Limbit.io</b></a><br><sub>&#64;LimbitIO</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra / Barcelona</sub></td>
+</tr>
+<tr>
+<td align="right">432</td>
 <td><a href="https://github.com/MarcosJAmorimLima"><img src="https://avatars.githubusercontent.com/u/138446146?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MarcosJAmorimLima"><b>Marcos Junior Amorim Lima</b></a><br><sub>&#64;MarcosJAmorimLima</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">285</td>
+<td align="right">433</td>
+<td><a href="https://github.com/marcotorguet"><img src="https://avatars.githubusercontent.com/u/166648031?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marcotorguet"><b>Marco T</b></a><br><sub>&#64;marcotorguet</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">434</td>
+<td><a href="https://github.com/MariusBudin-Beat"><img src="https://avatars.githubusercontent.com/u/84316384?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MariusBudin-Beat"><b>Marius Budin</b></a><br><sub>&#64;MariusBudin-Beat</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">435</td>
+<td><a href="https://github.com/Markiniii"><img src="https://avatars.githubusercontent.com/u/167549099?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Markiniii"><b>Markiniii</b></a><br><sub>&#64;Markiniii</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">436</td>
+<td><a href="https://github.com/martialbert02-collab"><img src="https://avatars.githubusercontent.com/u/358843845?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/martialbert02-collab"><b>Martí Albert</b></a><br><sub>&#64;martialbert02-collab</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra / Barcelona</sub></td>
+</tr>
+<tr>
+<td align="right">437</td>
+<td><a href="https://github.com/Merkaxat"><img src="https://avatars.githubusercontent.com/u/137392844?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Merkaxat"><b>Merkaxat</b></a><br><sub>&#64;Merkaxat</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">438</td>
+<td><a href="https://github.com/MesXMenys"><img src="https://avatars.githubusercontent.com/u/320608177?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MesXMenys"><b>Mes X Menys, SL</b></a><br><sub>&#64;MesXMenys</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Encamp, Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">439</td>
+<td><a href="https://github.com/MidnightSmarts"><img src="https://avatars.githubusercontent.com/u/271808361?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MidnightSmarts"><b>Goran Vidakovic</b></a><br><sub>&#64;MidnightSmarts</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">440</td>
+<td><a href="https://github.com/Mileneko"><img src="https://avatars.githubusercontent.com/u/107112182?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mileneko"><b>Mile</b></a><br><sub>&#64;Mileneko</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">441</td>
+<td><a href="https://github.com/Murdockone"><img src="https://avatars.githubusercontent.com/u/61431147?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Murdockone"><b>Alex Hevia</b></a><br><sub>&#64;Murdockone</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>ANDORRA</sub></td>
+</tr>
+<tr>
+<td align="right">442</td>
+<td><a href="https://github.com/mzzy-x"><img src="https://avatars.githubusercontent.com/u/84640734?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mzzy-x"><b>m/\zzy</b></a><br><sub>&#64;mzzy-x</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">443</td>
 <td><a href="https://github.com/nbonet"><img src="https://avatars.githubusercontent.com/u/22811026?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nbonet"><b>Núria Bonet i Rafart</b></a><br><sub>&#64;nbonet</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Solsona · Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">286</td>
+<td align="right">444</td>
+<td><a href="https://github.com/NDioWealthAmp"><img src="https://avatars.githubusercontent.com/u/24862760?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NDioWealthAmp"><b>Napoleon Dynamite</b></a><br><sub>&#64;NDioWealthAmp</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">445</td>
+<td><a href="https://github.com/neilwebers"><img src="https://avatars.githubusercontent.com/u/318665665?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/neilwebers"><b>Aidecis</b></a><br><sub>&#64;neilwebers</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">446</td>
 <td><a href="https://github.com/nexavisionai"><img src="https://avatars.githubusercontent.com/u/189803936?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nexavisionai"><b>Nexa Vision</b></a><br><sub>&#64;nexavisionai</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">287</td>
+<td align="right">447</td>
+<td><a href="https://github.com/Nii2116"><img src="https://avatars.githubusercontent.com/u/73007143?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nii2116"><b>Wacho</b></a><br><sub>&#64;Nii2116</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">448</td>
+<td><a href="https://github.com/NixHugo"><img src="https://avatars.githubusercontent.com/u/262396976?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NixHugo"><b>NixHugo</b></a><br><sub>&#64;NixHugo</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">449</td>
 <td><a href="https://github.com/NovaskAyaSA"><img src="https://avatars.githubusercontent.com/u/66620987?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NovaskAyaSA"><b>Novask Aya Global SA</b></a><br><sub>&#64;NovaskAyaSA</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">288</td>
+<td align="right">450</td>
+<td><a href="https://github.com/OliverBocanegraMM"><img src="https://avatars.githubusercontent.com/u/202267123?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OliverBocanegraMM"><b>Oliver Bocanegra</b></a><br><sub>&#64;OliverBocanegraMM</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">451</td>
+<td><a href="https://github.com/OliverTOP"><img src="https://avatars.githubusercontent.com/u/215564759?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OliverTOP"><b>Oliver Bocanegra</b></a><br><sub>&#64;OliverTOP</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">452</td>
 <td><a href="https://github.com/ops824"><img src="https://avatars.githubusercontent.com/u/263669420?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ops824"><b>Fit Generation Ops</b></a><br><sub>&#64;ops824</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Andorra la Vella</sub></td>
 </tr>
 <tr>
-<td align="right">289</td>
+<td align="right">453</td>
+<td><a href="https://github.com/Prospef"><img src="https://avatars.githubusercontent.com/u/151372131?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Prospef"><b>Owen Kellogg</b></a><br><sub>&#64;Prospef</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">454</td>
+<td><a href="https://github.com/putogithub"><img src="https://avatars.githubusercontent.com/u/22996462?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/putogithub"><b>Ninguna</b></a><br><sub>&#64;putogithub</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">455</td>
+<td><a href="https://github.com/rbausili-intecom"><img src="https://avatars.githubusercontent.com/u/227799419?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rbausili-intecom"><b>Ricard</b></a><br><sub>&#64;rbausili-intecom</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">456</td>
+<td><a href="https://github.com/RealSrYisuS"><img src="https://avatars.githubusercontent.com/u/76258234?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RealSrYisuS"><b>Yisus.</b></a><br><sub>&#64;RealSrYisuS</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">457</td>
 <td><a href="https://github.com/remintuu"><img src="https://avatars.githubusercontent.com/u/220876011?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/remintuu"><b>remintuu</b></a><br><sub>&#64;remintuu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Andorra, Carrer dels Barrers, 40, Санта Колома,…</sub></td>
 </tr>
 <tr>
-<td align="right">290</td>
+<td align="right">458</td>
+<td><a href="https://github.com/rl-soadco"><img src="https://avatars.githubusercontent.com/u/75838107?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rl-soadco"><b>rl-soadco</b></a><br><sub>&#64;rl-soadco</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">459</td>
+<td><a href="https://github.com/SamuelPimenta1988"><img src="https://avatars.githubusercontent.com/u/86826495?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SamuelPimenta1988"><b>Samuel Pimenta</b></a><br><sub>&#64;SamuelPimenta1988</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">460</td>
+<td><a href="https://github.com/santeloi-gerardsentis"><img src="https://avatars.githubusercontent.com/u/260630301?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/santeloi-gerardsentis"><b>Gerard Sentís</b></a><br><sub>&#64;santeloi-gerardsentis</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">461</td>
 <td><a href="https://github.com/ShiroMakoo"><img src="https://avatars.githubusercontent.com/u/159023169?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ShiroMakoo"><b>Shiro Makoo</b></a><br><sub>&#64;ShiroMakoo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">291</td>
+<td align="right">462</td>
+<td><a href="https://github.com/soadco-developers"><img src="https://avatars.githubusercontent.com/u/80386152?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/soadco-developers"><b>SOADCO S.L.</b></a><br><sub>&#64;soadco-developers</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">463</td>
+<td><a href="https://github.com/spbm"><img src="https://avatars.githubusercontent.com/u/75979892?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/spbm"><b>Stanislav B.</b></a><br><sub>&#64;spbm</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra la Vella</sub></td>
+</tr>
+<tr>
+<td align="right">464</td>
+<td><a href="https://github.com/suprimeeccc"><img src="https://avatars.githubusercontent.com/u/328159457?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/suprimeeccc"><b>Gabriel Hernandez</b></a><br><sub>&#64;suprimeeccc</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">465</td>
 <td><a href="https://github.com/tabmagroup"><img src="https://avatars.githubusercontent.com/u/286360550?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tabmagroup"><b>TABMA, S.A.</b></a><br><sub>&#64;tabmagroup</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">292</td>
+<td align="right">466</td>
+<td><a href="https://github.com/TeoriaDiagonal"><img src="https://avatars.githubusercontent.com/u/58988671?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TeoriaDiagonal"><b>Teoria Diagonal</b></a><br><sub>&#64;TeoriaDiagonal</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">467</td>
 <td><a href="https://github.com/the-segler"><img src="https://avatars.githubusercontent.com/u/28461708?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/the-segler"><b>Michael Freitag</b></a><br><sub>&#64;the-segler</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">293</td>
+<td align="right">468</td>
+<td><a href="https://github.com/Ticand-dev"><img src="https://avatars.githubusercontent.com/u/122706406?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ticand-dev"><b>Ticand</b></a><br><sub>&#64;Ticand-dev</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">469</td>
 <td><a href="https://github.com/TortillaVoladora"><img src="https://avatars.githubusercontent.com/u/338577126?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TortillaVoladora"><b>TortillaVoladora</b></a><br><sub>&#64;TortillaVoladora</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
 </tr>
 <tr>
-<td align="right">294</td>
+<td align="right">470</td>
+<td><a href="https://github.com/ValeriYukka"><img src="https://avatars.githubusercontent.com/u/134014333?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ValeriYukka"><b>Valeri</b></a><br><sub>&#64;ValeriYukka</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">471</td>
 <td><a href="https://github.com/vicente-nieto"><img src="https://avatars.githubusercontent.com/u/132224827?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vicente-nieto"><b>Vicente Nieto</b></a><br><sub>&#64;vicente-nieto</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">472</td>
+<td><a href="https://github.com/vicente86nr"><img src="https://avatars.githubusercontent.com/u/40067161?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vicente86nr"><b>Vicente Nieto</b></a><br><sub>&#64;vicente86nr</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">473</td>
+<td><a href="https://github.com/Viro-Major"><img src="https://avatars.githubusercontent.com/u/70526084?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Viro-Major"><b>Viro Major</b></a><br><sub>&#64;Viro-Major</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>La Massana, Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">474</td>
+<td><a href="https://github.com/wisesam323"><img src="https://avatars.githubusercontent.com/u/121028997?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wisesam323"><b>wisesam323</b></a><br><sub>&#64;wisesam323</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">475</td>
+<td><a href="https://github.com/Wouter-Montandor"><img src="https://avatars.githubusercontent.com/u/212529332?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Wouter-Montandor"><b>Wouter Meijboom</b></a><br><sub>&#64;Wouter-Montandor</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">476</td>
+<td><a href="https://github.com/wSycro"><img src="https://avatars.githubusercontent.com/u/178681752?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wSycro"><b>Simon Sidorov</b></a><br><sub>&#64;wSycro</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra la Vella</sub></td>
+</tr>
+<tr>
+<td align="right">477</td>
+<td><a href="https://github.com/xboya1"><img src="https://avatars.githubusercontent.com/u/110185236?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xboya1"><b>Xus Boya</b></a><br><sub>&#64;xboya1</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">478</td>
+<td><a href="https://github.com/yanisitax"><img src="https://avatars.githubusercontent.com/u/233624697?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yanisitax"><b>Yani</b></a><br><sub>&#64;yanisitax</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra</sub></td>
+</tr>
+<tr>
+<td align="right">479</td>
+<td><a href="https://github.com/ZennyFuuko"><img src="https://avatars.githubusercontent.com/u/150452301?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ZennyFuuko"><b>PowerIsEdible</b></a><br><sub>&#64;ZennyFuuko</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Andorra La Vella</sub></td>
+</tr>
+<tr>
+<td align="right">480</td>
+<td><a href="https://github.com/Zerodevpro"><img src="https://avatars.githubusercontent.com/u/82226897?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Zerodevpro"><b>Zero</b></a><br><sub>&#64;Zerodevpro</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Andorra</sub></td>
@@ -2087,7 +3389,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 294 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 480 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 23 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

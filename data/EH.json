@@ -5,7 +5,7 @@
 "country": {"code":"EH","name":"Western Sahara","slug":"western-sahara"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":18,"ownerExpansionBacklog":21,"candidates":18,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":34,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":18,"ownerExpansionBacklog":20,"candidates":18,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":34,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"contrib-pool-3-756","nameWithOwner":"Omebran/contrib-pool-3-756","url":"https://github.com/Omebran/contrib-pool-3-756","description":null,"stars":5,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2025-10-27T17:55:13Z","pushedAt":"2025-10-27T17:57:50Z","archived":false,"owner":{"login":"Omebran","name":null,"type":"User","url":"https://github.com/Omebran","location":"East Annaton, Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"engine","nameWithOwner":"DariusTheGreate/engine","url":"https://github.com/DariusTheGreate/engine","description":null,"stars":2,"forks":0,"primaryLanguage":"C++","license":null,"createdAt":"2021-02-17T18:03:32Z","pushedAt":"2026-06-21T13:52:34Z","archived":false,"owner":{"login":"DariusTheGreate","name":"Kotovshikov Sergei Vladimirovich","type":"User","url":"https://github.com/DariusTheGreate","location":"الصحراء الغربية","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -26,8 +26,8 @@
   {"rank":17,"id":null,"name":"w-2","nameWithOwner":"saflyy/w-2","url":"https://github.com/saflyy/w-2","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2021-04-30T20:51:35Z","pushedAt":"2021-04-30T20:53:24Z","archived":false,"owner":{"login":"saflyy","name":"saflyy","type":"User","url":"https://github.com/saflyy","location":"western sahara","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":18,"id":null,"name":"next-netlify-starter","nameWithOwner":"suzuya1331/next-netlify-starter","url":"https://github.com/suzuya1331/next-netlify-starter","description":null,"stars":0,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2023-05-16T12:17:06Z","pushedAt":"2023-05-16T12:18:58Z","archived":false,"owner":{"login":"suzuya1331","name":"Hassan mansour","type":"User","url":"https://github.com/suzuya1331","location":"Laayoune, Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "ad5d46073cdebe18",
-"updatedAt": "2026-11-24T11:36:56.631Z",
+"contentHash": "0342f21c7790c18a",
+"updatedAt": "2026-11-24T21:53:00.965Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-24T11:36:56.631Z"
+"generatedAt": "2026-11-24T21:53:00.965Z"
 }

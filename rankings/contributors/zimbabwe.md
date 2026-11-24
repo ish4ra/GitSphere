@@ -14,17 +14,26 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/ZW.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/ZW.json">JSON</a> |
 
 </div>
 
-<p align="center"><sub>Public contributions from <b>22 Nov 2025</b> to <b>22 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
+<p align="center"><sub>Public contributions from <b>24 Nov 2025</b> to <b>24 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
 
 <table>
 <thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Public contributions</th><th align="right">Commits</th><th align="right">PRs</th><th align="right">Reviews</th><th align="right">Issues</th></tr></thead>
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/iamngoni"><img src="https://avatars.githubusercontent.com/u/38191932?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iamngoni"><b>Ngonidzashe Mangudya</b></a><br><sub>&#64;iamngoni · 234 followers</sub></td>
+<td align="right"><b>4,690</b></td>
+<td align="right">3,742</td>
+<td align="right">668</td>
+<td align="right">7</td>
+<td align="right">209</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/mrfr8nk"><img src="https://avatars.githubusercontent.com/u/206129473?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrfr8nk"><b>𝐃𝐀𝐑𝐑𝐄𝐋𝐋 𝐌𝐔𝐂𝐇𝐄𝐑𝐈 ⚡</b></a><br><sub>&#64;mrfr8nk · 622 followers</sub></td>
 <td align="right"><b>4,196</b></td>
 <td align="right">4,153</td>
@@ -33,7 +42,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">3</td>
 <td><a href="https://github.com/prjctimg"><img src="https://avatars.githubusercontent.com/u/104896135?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/prjctimg"><b>Dean Tarisai</b></a><br><sub>&#64;prjctimg · 279 followers</sub></td>
 <td align="right"><b>2,362</b></td>
 <td align="right">2,277</td>
@@ -42,7 +51,7 @@
 <td align="right">19</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/sehmaluva"><img src="https://avatars.githubusercontent.com/u/136622726?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sehmaluva"><b>Malvin T. Machingura</b></a><br><sub>&#64;sehmaluva · 1,299 followers</sub></td>
 <td align="right"><b>945</b></td>
 <td align="right">587</td>
@@ -51,7 +60,7 @@
 <td align="right">53</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/mrxdking"><img src="https://avatars.githubusercontent.com/u/206045384?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrxdking"><b>Malvin King</b></a><br><sub>&#64;mrxdking · 258 followers</sub></td>
 <td align="right"><b>191</b></td>
 <td align="right">183</td>
@@ -60,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/nelsonnzou-crypt"><img src="https://avatars.githubusercontent.com/u/259183177?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nelsonnzou-crypt"><b>Tapiwanashe Nelson Nzou</b></a><br><sub>&#64;nelsonnzou-crypt · 606 followers</sub></td>
 <td align="right"><b>156</b></td>
 <td align="right">112</td>
@@ -69,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/KnowledgeSeeker101-bit"><img src="https://avatars.githubusercontent.com/u/102947003?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KnowledgeSeeker101-bit"><b>Nyashadzaishe Masvongo</b></a><br><sub>&#64;KnowledgeSeeker101-bit · 465 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
@@ -84,10 +93,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 8 of 401 discovered developers (393 awaiting measurement).
+- **Measured:** 9 of 402 discovered developers (393 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 66 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

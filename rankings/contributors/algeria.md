@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/DZ.json">JSON</a> |
+| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/contributors/DZ.json">JSON</a> |
 
 </div>
 
@@ -70,6 +70,15 @@
 </tr>
 <tr>
 <td align="right">6</td>
+<td><a href="https://github.com/WalaEddine01"><img src="https://avatars.githubusercontent.com/u/135642375?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/WalaEddine01"><b>Wala Eddine</b></a><br><sub>&#64;WalaEddine01 · 228 followers</sub></td>
+<td align="right"><b>84</b></td>
+<td align="right">48</td>
+<td align="right">14</td>
+<td align="right">3</td>
+<td align="right">15</td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/linuxscout"><img src="https://avatars.githubusercontent.com/u/450792?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/linuxscout"><b>Taha Zerrouki (طه زروقي )</b></a><br><sub>&#64;linuxscout · 1,441 followers</sub></td>
 <td align="right"><b>79</b></td>
 <td align="right">48</td>
@@ -78,7 +87,7 @@
 <td align="right">21</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/z-sohaib"><img src="https://avatars.githubusercontent.com/u/58574326?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/z-sohaib"><b>Zouambia Sohaib</b></a><br><sub>&#64;z-sohaib · 635 followers</sub></td>
 <td align="right"><b>67</b></td>
 <td align="right">53</td>
@@ -87,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/nacerkraa"><img src="https://avatars.githubusercontent.com/u/79715038?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nacerkraa"><b>nacer kraa</b></a><br><sub>&#64;nacerkraa · 625 followers</sub></td>
 <td align="right"><b>48</b></td>
 <td align="right">35</td>
@@ -96,7 +105,7 @@
 <td align="right">6</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/ipenywis"><img src="https://avatars.githubusercontent.com/u/13965825?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ipenywis"><b>Islem Maboud</b></a><br><sub>&#64;ipenywis · 3,070 followers</sub></td>
 <td align="right"><b>42</b></td>
 <td align="right">20</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/Lookingfor00"><img src="https://avatars.githubusercontent.com/u/74411135?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lookingfor00"><b>Allassane Dicko</b></a><br><sub>&#64;Lookingfor00 · 69 followers</sub></td>
 <td align="right"><b>25</b></td>
 <td align="right">23</td>
@@ -114,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/Hmida71"><img src="https://avatars.githubusercontent.com/u/69757558?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hmida71"><b>Hmida71</b></a><br><sub>&#64;Hmida71 · 749 followers</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">9</td>
@@ -123,7 +132,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/WissalManseri"><img src="https://avatars.githubusercontent.com/u/135167709?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/WissalManseri"><b>WISSAL MN</b></a><br><sub>&#64;WissalManseri · 583 followers</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">9</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/cybdom"><img src="https://avatars.githubusercontent.com/u/6316995?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cybdom"><b>Cybdom</b></a><br><sub>&#64;cybdom · 503 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">4</td>
@@ -141,7 +150,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/hocinebouarara"><img src="https://avatars.githubusercontent.com/u/47678189?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hocinebouarara"><b>hocine bouarara</b></a><br><sub>&#64;hocinebouarara · 1,490 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">2</td>
@@ -156,7 +165,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 14 of 406 discovered developers (392 awaiting measurement).
+- **Measured:** 16 of 419 discovered developers (403 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 154 in round 1.

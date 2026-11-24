@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/MA.json">JSON</a> |
+| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/MA.json">JSON</a> |
 
 </div>
 
@@ -52,6 +52,15 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/saadazghour"><img src="https://avatars.githubusercontent.com/u/33766249?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/saadazghour"><b>Saad Azghour</b></a><br><sub>&#64;saadazghour · 407 followers</sub></td>
+<td align="right"><b>221</b></td>
+<td align="right">122</td>
+<td align="right">8</td>
+<td align="right">1</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/ali-eljerrari"><img src="https://avatars.githubusercontent.com/u/33126685?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ali-eljerrari"><b>Ali&#95;Eljerrari</b></a><br><sub>&#64;ali-eljerrari · 582 followers</sub></td>
 <td align="right"><b>205</b></td>
 <td align="right">22</td>
@@ -60,7 +69,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/yjose"><img src="https://avatars.githubusercontent.com/u/11137944?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yjose"><b>Youssouf EL AZIZI</b></a><br><sub>&#64;yjose · 1,135 followers</sub></td>
 <td align="right"><b>144</b></td>
 <td align="right">123</td>
@@ -69,7 +78,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/AyoubM490"><img src="https://avatars.githubusercontent.com/u/95053734?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AyoubM490"><b>Ayoub Chahir</b></a><br><sub>&#64;AyoubM490 · 595 followers</sub></td>
 <td align="right"><b>39</b></td>
 <td align="right">31</td>
@@ -78,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/MrMugiwara"><img src="https://avatars.githubusercontent.com/u/7062695?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MrMugiwara"><b>Soufiane Boussali</b></a><br><sub>&#64;MrMugiwara · 304 followers</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">0</td>
@@ -87,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/alma4rebi"><img src="https://avatars.githubusercontent.com/u/9637475?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alma4rebi"><b>AlmaGrebi</b></a><br><sub>&#64;alma4rebi · 332 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">0</td>
@@ -102,7 +111,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 9 of 460 discovered developers (451 awaiting measurement).
+- **Measured:** 10 of 474 discovered developers (464 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 173 in round 1.

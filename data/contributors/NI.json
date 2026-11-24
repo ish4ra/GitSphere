@@ -5,7 +5,7 @@
 "country": {"code":"NI","name":"Nicaragua","slug":"nicaragua"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":405,"measuredAccounts":9,"measurementBacklog":396,"window":{"from":"2025-11-24T11:00:00Z","to":"2026-11-24T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":112,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":405,"measuredAccounts":10,"measurementBacklog":395,"window":{"from":"2025-11-24T11:00:00Z","to":"2026-11-24T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":112,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjE4MTUzMw==","login":"paulomcnally","name":"Paulo McNally","url":"https://github.com/paulomcnally","avatarUrl":"https://avatars.githubusercontent.com/u/181533?s=80&v=4","followers":212,"publicRepos":376,"location":"Mangua, Nicaragua","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":2416,"commits":2136,"pullRequests":37,"reviews":0,"issues":224,"repositories":19,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":2,"id":"MDQ6VXNlcjc3Mjc0OTg=","login":"Crdzbird","name":"Luis Cardoza Bird","url":"https://github.com/Crdzbird","avatarUrl":"https://avatars.githubusercontent.com/u/7727498?s=80&v=4","followers":52,"publicRepos":192,"location":"Managua,Nicaragua","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":1220,"commits":1154,"pullRequests":32,"reviews":0,"issues":9,"repositories":25,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
@@ -17,8 +17,8 @@
   {"rank":8,"id":"MDQ6VXNlcjMyMjQ5NDU1","login":"gabriel14silva","name":"José Gabriel Griffin Silva","url":"https://github.com/gabriel14silva","avatarUrl":"https://avatars.githubusercontent.com/u/32249455?s=80&v=4","followers":14,"publicRepos":36,"location":"Nicaragua, RACS, Nueva Guinea","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":7,"commits":5,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":9,"id":"MDQ6VXNlcjE4MDYyMzI=","login":"darwinsalinas","name":"Darwin Salinas","url":"https://github.com/darwinsalinas","avatarUrl":"https://avatars.githubusercontent.com/u/1806232?s=80&v=4","followers":41,"publicRepos":116,"location":"Nueva Guinea, Nicaragua","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":3,"commits":3,"pullRequests":0,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "4cabd1429e3f309e",
-"updatedAt": "2026-11-24T11:36:56.631Z",
+"contentHash": "7fbdb6c5f65f7e6d",
+"updatedAt": "2026-11-24T21:53:00.965Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T11:36:56.631Z"
+"generatedAt": "2026-11-24T21:53:00.965Z"
 }

@@ -24,8 +24,8 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/KamoheloKoali"><img src="https://avatars.githubusercontent.com/u/152155388?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KamoheloKoali"><b>Kamohelo Koali</b></a><br><sub>&#64;KamoheloKoali</sub></td>
-<td align="right"><b>249</b></td>
-<td align="right">44</td>
+<td align="right"><b>248</b></td>
+<td align="right">43</td>
 <td><sub>Lesotho</sub></td>
 </tr>
 <tr>

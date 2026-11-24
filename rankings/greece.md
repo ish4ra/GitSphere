@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **100** | 01 Nov 2026 | <a href="../data/GR.json">JSON</a> |
-
-> **Not yet re-verified.** 13 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/GR.json">JSON</a> |
 
 </div>
 
@@ -634,94 +632,94 @@
 </tr>
 <tr>
 <td align="right">88</td>
-<td><img src="https://github.com/SpyrosPac.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SpyrosPac/frontend-files-uglifier"><b>SpyrosPac/frontend-files-uglifier</b></a></td>
-<td align="right"><b>8</b></td>
-<td align="right">1</td>
-<td>Java</td>
+<td><img src="https://github.com/d3vilh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/d3vilh/openvpn-ui"><b>d3vilh/openvpn-ui</b></a><br><sub>Web User Interface for OpenVPN</sub></td>
+<td align="right"><b>756</b></td>
+<td align="right">168</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">89</td>
-<td><img src="https://github.com/obouzos.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/obouzos/mfCNNCRF"><b>obouzos/mfCNNCRF</b></a></td>
-<td align="right"><b>8</b></td>
-<td align="right">0</td>
-<td>MATLAB</td>
+<td><img src="https://github.com/Lovely-Sim-Racing.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Lovely-Sim-Racing/lovely-dashboard"><b>Lovely-Sim-Racing/lovely-dashboard</b></a><br><sub>A multifunctional feature packed SimHub Dashboard (DDU) and a matching Stream Overlay.</sub></td>
+<td align="right"><b>753</b></td>
+<td align="right">52</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">90</td>
-<td><img src="https://github.com/margaritavit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/margaritavit/min_order_picking_path"><b>margaritavit/min&#95;order&#95;picking&#95;path</b></a></td>
-<td align="right"><b>7</b></td>
-<td align="right">2</td>
-<td>Jupyter Notebook</td>
+<td><img src="https://github.com/Ilias1988.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ilias1988/Hacking-Cheatsheets"><b>Ilias1988/Hacking-Cheatsheets</b></a><br><sub>A comprehensive collection of penetration testing cheatsheets, guides, and tools.</sub></td>
+<td align="right"><b>744</b></td>
+<td align="right">100</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">91</td>
-<td><img src="https://github.com/yannispsarras.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yannispsarras/DKIM-AlternativeViews"><b>yannispsarras/DKIM-AlternativeViews</b></a></td>
-<td align="right"><b>7</b></td>
-<td align="right">2</td>
-<td>C#</td>
+<td><img src="https://github.com/malwarepad.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/malwarepad/cavOS"><b>malwarepad/cavOS</b></a><br><sub>💾 Amd64 operating system in C. Trying to make a full OS, with a simple and readable codebase!</sub></td>
+<td align="right"><b>737</b></td>
+<td align="right">52</td>
+<td>C</td>
 </tr>
 <tr>
 <td align="right">92</td>
-<td><img src="https://github.com/yiangos.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yiangos/python-text-to-brainfuck"><b>yiangos/python-text-to-brainfuck</b></a></td>
-<td align="right"><b>7</b></td>
-<td align="right">1</td>
-<td>Python</td>
+<td><img src="https://github.com/abatsakidis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abatsakidis/PDFDeSecure"><b>abatsakidis/PDFDeSecure</b></a><br><sub>An easy-to-use PDF Unlocker. Remove copy-protection from PDF files.</sub></td>
+<td align="right"><b>732</b></td>
+<td align="right">68</td>
+<td>C#</td>
 </tr>
 <tr>
 <td align="right">93</td>
-<td><img src="https://github.com/Antreas-Strb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Antreas-Strb/glanceflow"><b>Antreas-Strb/glanceflow</b></a></td>
-<td align="right"><b>7</b></td>
-<td align="right">0</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/AmmarkoV.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AmmarkoV/SAM3DBody-cpp"><b>AmmarkoV/SAM3DBody-cpp</b></a><br><sub>Real-time 3D full-body reconstruction from a single camera, Multiperson BVH output, Pure C++ runtime, ONNX + ggml, 70-j…</sub></td>
+<td align="right"><b>724</b></td>
+<td align="right">103</td>
+<td>C++</td>
 </tr>
 <tr>
 <td align="right">94</td>
-<td><img src="https://github.com/edisleka.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/edisleka/workout-tracker"><b>edisleka/workout-tracker</b></a></td>
-<td align="right"><b>7</b></td>
-<td align="right">0</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">95</td>
-<td><img src="https://github.com/30-seconds.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/30-seconds/.github"><b>30-seconds/.github</b></a> <sub>archived</sub></td>
-<td align="right"><b>6</b></td>
-<td align="right">2</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">96</td>
-<td><img src="https://github.com/tsoukase.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tsoukase/Greek-AADE-myDATA-Client-for-Doctors"><b>tsoukase/Greek-AADE-myDATA-Client-for-Doctors</b></a></td>
-<td align="right"><b>6</b></td>
-<td align="right">2</td>
+<td><img src="https://github.com/k4m4.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/k4m4/onioff"><b>k4m4/onioff</b></a><br><sub>🌰 An onion url inspector for inspecting deep web links.</sub></td>
+<td align="right"><b>723</b></td>
+<td align="right">130</td>
 <td>Python</td>
 </tr>
 <tr>
+<td align="right">95</td>
+<td><img src="https://github.com/OFFTKP.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/OFFTKP/felix86"><b>OFFTKP/felix86</b></a><br><sub>Run x86 and x86-64 games on RISC‑V Linux</sub></td>
+<td align="right"><b>715</b></td>
+<td align="right">37</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/iris-contrib.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/iris-contrib/examples"><b>iris-contrib/examples</b></a><br><sub>This repository contains small and practical examples for the Iris Web Framework.</sub></td>
+<td align="right"><b>712</b></td>
+<td align="right">169</td>
+<td>Go</td>
+</tr>
+<tr>
 <td align="right">97</td>
-<td><img src="https://github.com/Manchson.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Manchson/basis33"><b>Manchson/basis33</b></a></td>
-<td align="right"><b>6</b></td>
-<td align="right">1</td>
-<td>—</td>
+<td><img src="https://github.com/orfeasel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/orfeasel/UE4-Cpp-Tutorials"><b>orfeasel/UE4-Cpp-Tutorials</b></a><br><sub>This repository contains all the code I&#39;ve written in my website tutorials regarding the implementation of Game Systems…</sub></td>
+<td align="right"><b>703</b></td>
+<td align="right">200</td>
+<td>C++</td>
 </tr>
 <tr>
 <td align="right">98</td>
-<td><img src="https://github.com/Pizzaboi87.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Pizzaboi87/car-rental-next-js-mastery"><b>Pizzaboi87/car-rental-next-js-mastery</b></a></td>
-<td align="right"><b>5</b></td>
-<td align="right">2</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/3ct0s.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/3ct0s/dystopia-c2"><b>3ct0s/dystopia-c2</b></a><br><sub>Windows Remote Administration Tool that uses Discord, Telegram and GitHub as C2s</sub></td>
+<td align="right"><b>702</b></td>
+<td align="right">157</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">99</td>
-<td><img src="https://github.com/ktsaou.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ktsaou/ollama-templates"><b>ktsaou/ollama-templates</b></a></td>
-<td align="right"><b>5</b></td>
-<td align="right">0</td>
+<td><img src="https://github.com/makdosx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/makdosx/mip22"><b>makdosx/mip22</b></a><br><sub>:computer: :iphone: mip22 is a advanced phishing tool</sub></td>
+<td align="right"><b>695</b></td>
+<td align="right">142</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">100</td>
-<td><img src="https://github.com/PeterMay.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PeterMay/mas-for-7"><b>PeterMay/mas-for-7</b></a></td>
-<td align="right"><b>5</b></td>
-<td align="right">0</td>
-<td>C#</td>
+<td><img src="https://github.com/klipitkas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/klipitkas/tunnl.gg"><b>klipitkas/tunnl.gg</b></a><br><sub>A minimal SSH tunneling service. Expose your local apps to the internet with a single command.</sub></td>
+<td align="right"><b>693</b></td>
+<td align="right">53</td>
+<td>Go</td>
 </tr>
 </tbody>
 </table>
@@ -729,10 +727,9 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 5 stars; 128 attributed candidates are tracked.
-- 13 entries were carried over from the previous dataset and are pending revalidation.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 693 stars; 137 attributed candidates are tracked.
 - 123 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 149 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

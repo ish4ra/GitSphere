@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/KE.json">JSON</a> |
+| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/KE.json">JSON</a> |
 
 </div>
 
@@ -70,6 +70,15 @@
 </tr>
 <tr>
 <td align="right">6</td>
+<td><a href="https://github.com/Oclemy"><img src="https://avatars.githubusercontent.com/u/15258559?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Oclemy"><b>Clement Ochieng</b></a><br><sub>&#64;Oclemy · 252 followers</sub></td>
+<td align="right"><b>238</b></td>
+<td align="right">225</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/xtiankisutsa"><img src="https://avatars.githubusercontent.com/u/7021125?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xtiankisutsa"><b>Christian Kisutsa</b></a><br><sub>&#64;xtiankisutsa · 302 followers</sub></td>
 <td align="right"><b>61</b></td>
 <td align="right">0</td>
@@ -78,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/profnandaa"><img src="https://avatars.githubusercontent.com/u/261265?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/profnandaa"><b>Anthony Nandaa</b></a><br><sub>&#64;profnandaa · 596 followers</sub></td>
 <td align="right"><b>27</b></td>
 <td align="right">18</td>
@@ -87,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/imhilla"><img src="https://avatars.githubusercontent.com/u/58479445?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/imhilla"><b>Hillary Kiptoo</b></a><br><sub>&#64;imhilla · 456 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">0</td>
@@ -102,7 +111,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 10 of 540 discovered developers (530 awaiting measurement).
+- **Measured:** 11 of 580 discovered developers (569 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 144 in round 1.

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/TZ.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/TZ.json">JSON</a> |
 
 </div>
 
@@ -52,6 +52,15 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/massoudhamad"><img src="https://avatars.githubusercontent.com/u/6734503?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/massoudhamad"><b>Masoud Hamad</b></a><br><sub>&#64;massoudhamad · 228 followers</sub></td>
+<td align="right"><b>56</b></td>
+<td align="right">48</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/karimshaban01"><img src="https://avatars.githubusercontent.com/u/94116967?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/karimshaban01"><b>Karim S. Haruna</b></a><br><sub>&#64;karimshaban01 · 1,063 followers</sub></td>
 <td align="right"><b>45</b></td>
 <td align="right">37</td>
@@ -60,7 +69,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/gernest"><img src="https://avatars.githubusercontent.com/u/6039952?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gernest"><b>Geofrey Ernest</b></a><br><sub>&#64;gernest · 409 followers</sub></td>
 <td align="right"><b>40</b></td>
 <td align="right">33</td>
@@ -69,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/Kalebu"><img src="https://avatars.githubusercontent.com/u/41791983?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kalebu"><b>Jordan Kalebu</b></a><br><sub>&#64;Kalebu · 967 followers</sub></td>
 <td align="right"><b>13</b></td>
 <td align="right">10</td>
@@ -78,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/avict18"><img src="https://avatars.githubusercontent.com/u/153264648?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/avict18"><b>Aaron Vic</b></a><br><sub>&#64;avict18 · 1,036 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
@@ -93,7 +102,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 9 of 402 discovered developers (393 awaiting measurement).
+- **Measured:** 10 of 404 discovered developers (394 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 145 in round 1.

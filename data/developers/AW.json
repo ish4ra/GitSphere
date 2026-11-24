@@ -5,7 +5,7 @@
 "country": {"code":"AW","name":"Aruba","slug":"aruba"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":156,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":20,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":156,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":20,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjQ2MzE0NDY5","login":"EstherPlomp","name":"Esther Plomp","url":"https://github.com/EstherPlomp","avatarUrl":"https://avatars.githubusercontent.com/u/46314469?s=80&v=4","followers":69,"publicRepos":66,"location":"Aruba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":2,"id":"MDQ6VXNlcjYzMTc1MDI=","login":"waterkip","name":"Wesley Schwengle","url":"https://github.com/waterkip","avatarUrl":"https://avatars.githubusercontent.com/u/6317502?s=80&v=4","followers":18,"publicRepos":161,"location":"Aruba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
@@ -13,7 +13,7 @@
   {"rank":4,"id":"MDQ6VXNlcjQ1MzAwMTYz","login":"JunTechPC","name":"Juny Engelhart (JunTech)","url":"https://github.com/JunTechPC","avatarUrl":"https://avatars.githubusercontent.com/u/45300163?s=80&v=4","followers":11,"publicRepos":1,"location":"Oranjestad, Aruba","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":5,"id":"MDQ6VXNlcjEwNjY4NzMy","login":"rendell","name":"Rendell de Kort","url":"https://github.com/rendell","avatarUrl":"https://avatars.githubusercontent.com/u/10668732?s=80&v=4","followers":9,"publicRepos":75,"location":"Aruba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":6,"id":"MDQ6VXNlcjE2ODMzNDk2","login":"Rhynco297","name":"Rhynco297","url":"https://github.com/Rhynco297","avatarUrl":"https://avatars.githubusercontent.com/u/16833496?s=80&v=4","followers":9,"publicRepos":3,"location":"Aruba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":7,"id":"MDQ6VXNlcjQyMDU0MjQ=","login":"flacle","name":"Francis Laclé","url":"https://github.com/flacle","avatarUrl":"https://avatars.githubusercontent.com/u/4205424?s=80&v=4","followers":8,"publicRepos":8,"location":"Aruba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":7,"id":"MDQ6VXNlcjQyMDU0MjQ=","login":"flacle","name":"Francis Laclé","url":"https://github.com/flacle","avatarUrl":"https://avatars.githubusercontent.com/u/4205424?s=80&v=4","followers":8,"publicRepos":8,"location":"Aruba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":8,"id":"MDQ6VXNlcjQ4MzYxNDE=","login":"orson1282","name":"Orson","url":"https://github.com/orson1282","avatarUrl":"https://avatars.githubusercontent.com/u/4836141?s=80&v=4","followers":7,"publicRepos":9,"location":"Aruba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":9,"id":"MDQ6VXNlcjI2MDkwMjk3","login":"azaandam","name":"André Zaandam","url":"https://github.com/azaandam","avatarUrl":"https://avatars.githubusercontent.com/u/26090297?s=80&v=4","followers":7,"publicRepos":3,"location":"Aruba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":10,"id":"U_kgDOBy08aw","login":"QVault","name":"Quincent","url":"https://github.com/QVault","avatarUrl":"https://avatars.githubusercontent.com/u/120405099?s=80&v=4","followers":7,"publicRepos":1,"location":"Aruba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
@@ -37,7 +37,7 @@
   {"rank":28,"id":"MDQ6VXNlcjExOTYzMDU=","login":"trzczy","name":"Janusz","url":"https://github.com/trzczy","avatarUrl":"https://avatars.githubusercontent.com/u/1196305?s=80&v=4","followers":1,"publicRepos":28,"location":"Aruba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":29,"id":"U_kgDODfL2MQ","login":"alejandraco0109","name":null,"url":"https://github.com/alejandraco0109","avatarUrl":"https://avatars.githubusercontent.com/u/234026545?s=80&v=4","followers":1,"publicRepos":11,"location":"Aruba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":30,"id":"MDQ6VXNlcjU3ODk4MTY5","login":"thiel3","name":"Edwin Thiel","url":"https://github.com/thiel3","avatarUrl":"https://avatars.githubusercontent.com/u/57898169?s=80&v=4","followers":1,"publicRepos":9,"location":"Aruba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
-  {"rank":31,"id":"MDQ6VXNlcjE5MzU2MDYw","login":"aarends","name":"Alan A.","url":"https://github.com/aarends","avatarUrl":"https://avatars.githubusercontent.com/u/19356060?s=80&v=4","followers":1,"publicRepos":8,"location":"Aruba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":31,"id":"MDQ6VXNlcjE5MzU2MDYw","login":"aarends","name":"Alan A.","url":"https://github.com/aarends","avatarUrl":"https://avatars.githubusercontent.com/u/19356060?s=80&v=4","followers":1,"publicRepos":8,"location":"Aruba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":32,"id":"MDQ6VXNlcjYyMjE4MDQy","login":"GeraldR12","name":"Nathan R","url":"https://github.com/GeraldR12","avatarUrl":"https://avatars.githubusercontent.com/u/62218042?s=80&v=4","followers":1,"publicRepos":8,"location":"Aruba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":33,"id":"MDQ6VXNlcjQ1MzIyMzE2","login":"piedraplat","name":null,"url":"https://github.com/piedraplat","avatarUrl":"https://avatars.githubusercontent.com/u/45322316?s=80&v=4","followers":1,"publicRepos":7,"location":"Aruba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":34,"id":"MDQ6VXNlcjc3NDAzNzI2","login":"IzaroHH","name":"Izaro","url":"https://github.com/IzaroHH","avatarUrl":"https://avatars.githubusercontent.com/u/77403726?s=80&v=4","followers":1,"publicRepos":4,"location":"Aruba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
@@ -164,8 +164,8 @@
   {"rank":155,"id":"MDQ6VXNlcjQ3MjkxOTQx","login":"xXhanxy","name":"MrOxygen","url":"https://github.com/xXhanxy","avatarUrl":"https://avatars.githubusercontent.com/u/47291941?s=80&v=4","followers":0,"publicRepos":0,"location":"Aruba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":156,"id":"MDQ6VXNlcjE2OTIzOTEw","login":"yjaruba","name":"Geert van Mil","url":"https://github.com/yjaruba","avatarUrl":"https://avatars.githubusercontent.com/u/16923910?s=80&v=4","followers":0,"publicRepos":0,"location":"Aruba","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "5a40183a1020b043",
-"updatedAt": "2026-11-24T11:36:56.631Z",
+"contentHash": "ff88d26351767319",
+"updatedAt": "2026-11-24T21:53:00.965Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T11:36:56.631Z"
+"generatedAt": "2026-11-24T21:53:00.965Z"
 }

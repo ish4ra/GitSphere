@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"DJ","name":"Djibouti","slug":"djibouti"},
-"count": 150,
+"count": 149,
 "repositories": [
-  {"name":"moustapha-aden/sakinah","stars":10,"forks":0,"language":"TypeScript","archived":false,"createdAt":"2025-12-29T12:33:25Z","pushedAt":"2026-07-16T06:23:53Z","owner":{"login":"moustapha-aden","type":"User","name":"MOUSTAPHA ADEN DIRIYEH","location":"Djibouti Dj"},"attribution":{"code":"DJ","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:56:09.231Z","id":"legacy:moustapha-aden/sakinah","legacy":true},
   {"name":"inamkhosa/csharpdiameterstack","stars":5,"forks":2,"language":"C#","archived":false,"createdAt":"2013-10-26T18:55:05Z","pushedAt":"2017-05-29T11:33:41Z","owner":{"login":"inamkhosa","type":"User","name":"Inam","location":"Dubai, Islamabad, Djibouti"},"attribution":{"code":"DJ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:56:09.231Z","id":"legacy:inamkhosa/csharpdiameterstack","legacy":true},
   {"name":"nabolitains/plasma","stars":5,"forks":1,"language":"HTML","archived":false,"createdAt":"2025-06-07T14:39:49Z","pushedAt":"2025-06-07T17:46:18Z","owner":{"login":"nabolitains","type":"User","name":"Charko M.","location":"Djibouti"},"attribution":{"code":"DJ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:56:09.231Z","id":"legacy:nabolitains/plasma","legacy":true},
   {"name":"YACIN-DEV-100/YACIN-DEV-100","stars":4,"forks":1,"archived":false,"createdAt":"2026-04-19T18:08:12Z","pushedAt":"2026-10-02T06:30:40Z","owner":{"login":"YACIN-DEV-100","type":"User","name":"YACIN YOUSSOUF","location":"Djibouti"},"attribution":{"code":"DJ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:56:09.231Z","id":"legacy:yacin-dev-100/yacin-dev-100","legacy":true},

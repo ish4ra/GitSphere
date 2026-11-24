@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/ML.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/ML.json">JSON</a> |
 
 </div>
 
@@ -34,6 +34,15 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/SekouSallah"><img src="https://avatars.githubusercontent.com/u/125995875?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SekouSallah"><b>Sékou Sow</b></a><br><sub>&#64;SekouSallah · 7 followers</sub></td>
+<td align="right"><b>215</b></td>
+<td align="right">151</td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/abdelkane-dev"><img src="https://avatars.githubusercontent.com/u/231492417?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdelkane-dev"><b>Aken</b></a><br><sub>&#64;abdelkane-dev · 3 followers</sub></td>
 <td align="right"><b>67</b></td>
 <td align="right">55</td>
@@ -42,7 +51,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/abbgoesghost"><img src="https://avatars.githubusercontent.com/u/169849347?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abbgoesghost"><b>Aboubacar</b></a><br><sub>&#64;abbgoesghost · 9 followers</sub></td>
 <td align="right"><b>38</b></td>
 <td align="right">30</td>
@@ -51,7 +60,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/ibrahimkelly"><img src="https://avatars.githubusercontent.com/u/94073143?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ibrahimkelly"><b>I-K(&#42;&#42;&#42;)Y</b></a><br><sub>&#64;ibrahimkelly · 197 followers</sub></td>
 <td align="right"><b>15</b></td>
 <td align="right">5</td>
@@ -60,7 +69,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/diackbuaer"><img src="https://avatars.githubusercontent.com/u/66320391?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/diackbuaer"><b>DIAKARIDIA KANTE</b></a><br><sub>&#64;diackbuaer · 3 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">2</td>
@@ -69,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/amaduasko"><img src="https://avatars.githubusercontent.com/u/29061622?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amaduasko"><b>Amadu Askofare</b></a><br><sub>&#64;amaduasko · 13 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
@@ -84,7 +93,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 9 of 482 discovered developers (473 awaiting measurement).
+- **Measured:** 10 of 482 discovered developers (472 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 80 in round 1.

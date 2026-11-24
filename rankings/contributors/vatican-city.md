@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/VA.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/VA.json">JSON</a> |
 
 </div>
 
@@ -34,6 +34,15 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/Czuowuek-SOS"><img src="https://avatars.githubusercontent.com/u/91487506?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Czuowuek-SOS"><b>amogus</b></a><br><sub>&#64;Czuowuek-SOS · 3 followers</sub></td>
+<td align="right"><b>203</b></td>
+<td align="right">198</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/pdasilva11"><img src="https://avatars.githubusercontent.com/u/50679298?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pdasilva11"><b>pdasilva11</b></a><br><sub>&#64;pdasilva11 · 0 followers</sub></td>
 <td align="right"><b>196</b></td>
 <td align="right">183</td>
@@ -42,7 +51,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/LBreda"><img src="https://avatars.githubusercontent.com/u/633783?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LBreda"><b>Lorenzo Breda</b></a><br><sub>&#64;LBreda · 24 followers</sub></td>
 <td align="right"><b>25</b></td>
 <td align="right">21</td>
@@ -51,7 +60,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/NOPR9D"><img src="https://avatars.githubusercontent.com/u/75882457?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NOPR9D"><b>NOPR9D ☄️</b></a><br><sub>&#64;NOPR9D · 16 followers</sub></td>
 <td align="right"><b>15</b></td>
 <td align="right">14</td>
@@ -60,7 +69,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/EddCova11"><img src="https://avatars.githubusercontent.com/u/80143867?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EddCova11"><b>Eduardo Cova</b></a><br><sub>&#64;EddCova11 · 1 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">4</td>
@@ -69,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/dru91ce"><img src="https://avatars.githubusercontent.com/u/98011531?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dru91ce"><b>dru91ce</b></a><br><sub>&#64;dru91ce · 4 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">2</td>
@@ -78,7 +87,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/kubonnt"><img src="https://avatars.githubusercontent.com/u/60918070?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kubonnt"><b>kubonnt</b></a><br><sub>&#64;kubonnt · 15 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
@@ -93,7 +102,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 8 of 95 discovered developers (87 awaiting measurement).
+- **Measured:** 9 of 95 discovered developers (86 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 1 of 17 in round 1.

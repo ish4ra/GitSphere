@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **12** | 22 Nov 2026 | <a href="../../data/contributors/BD.json">JSON</a> |
+| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/BD.json">JSON</a> |
 
 </div>
 
@@ -25,7 +25,7 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><a href="https://github.com/hasinhayder"><img src="https://avatars.githubusercontent.com/u/490779?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hasinhayder"><b>Hasin Hayder</b></a><br><sub>&#64;hasinhayder · 6,436 followers</sub></td>
+<td><a href="https://github.com/hasinhayder"><img src="https://avatars.githubusercontent.com/u/490779?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hasinhayder"><b>Hasin Hayder</b></a><br><sub>&#64;hasinhayder · 6,435 followers</sub></td>
 <td align="right"><b>1,263</b></td>
 <td align="right">1,240</td>
 <td align="right">2</td>
@@ -79,6 +79,15 @@
 </tr>
 <tr>
 <td align="right">7</td>
+<td><a href="https://github.com/tanzinabd23"><img src="https://avatars.githubusercontent.com/u/135050964?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tanzinabd23"><b>Tanzina Akter</b></a><br><sub>&#64;tanzinabd23 · 283 followers</sub></td>
+<td align="right"><b>821</b></td>
+<td align="right">422</td>
+<td align="right">141</td>
+<td align="right">28</td>
+<td align="right">122</td>
+</tr>
+<tr>
+<td align="right">8</td>
 <td><a href="https://github.com/farhan-nahid"><img src="https://avatars.githubusercontent.com/u/74184886?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/farhan-nahid"><b>Farhan Ahmed Nahid</b></a><br><sub>&#64;farhan-nahid · 285 followers</sub></td>
 <td align="right"><b>567</b></td>
 <td align="right">408</td>
@@ -87,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/abdulmazidakash"><img src="https://avatars.githubusercontent.com/u/148373644?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdulmazidakash"><b>Abdul Mazid Akash</b></a><br><sub>&#64;abdulmazidakash · 1,106 followers</sub></td>
 <td align="right"><b>298</b></td>
 <td align="right">279</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/jamilxt"><img src="https://avatars.githubusercontent.com/u/18072164?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jamilxt"><b>Md Jamilur Rahman</b></a><br><sub>&#64;jamilxt · 429 followers</sub></td>
 <td align="right"><b>296</b></td>
 <td align="right">256</td>
@@ -105,7 +114,7 @@
 <td align="right">11</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/hasanmonsur"><img src="https://avatars.githubusercontent.com/u/10324303?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hasanmonsur"><b>Md. Hasan Monsur</b></a><br><sub>&#64;hasanmonsur · 566 followers</sub></td>
 <td align="right"><b>210</b></td>
 <td align="right">179</td>
@@ -114,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/ferdouszihad"><img src="https://avatars.githubusercontent.com/u/38307975?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ferdouszihad"><b>Ferdous Zihad</b></a><br><sub>&#64;ferdouszihad · 932 followers</sub></td>
 <td align="right"><b>168</b></td>
 <td align="right">143</td>
@@ -123,7 +132,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
+<td><a href="https://github.com/Muntasir101"><img src="https://avatars.githubusercontent.com/u/13697856?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Muntasir101"><b>Muntasir Abdullah Mizan</b></a><br><sub>&#64;Muntasir101 · 224 followers</sub></td>
+<td align="right"><b>97</b></td>
+<td align="right">78</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">14</td>
 <td><a href="https://github.com/mnishihan"><img src="https://avatars.githubusercontent.com/u/1173288?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mnishihan"><b>M N Islam Shihan</b></a><br><sub>&#64;mnishihan · 369 followers</sub></td>
 <td align="right"><b>65</b></td>
 <td align="right">64</td>
@@ -138,7 +156,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 13 of 689 discovered developers (676 awaiting measurement).
+- **Measured:** 15 of 741 discovered developers (726 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 173 in round 1.

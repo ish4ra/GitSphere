@@ -5,14 +5,14 @@
 "country": {"code":"MF","name":"St. Martin","slug":"st-martin"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":26,"measuredAccounts":9,"measurementBacklog":17,"window":{"from":"2025-11-24T01:00:00Z","to":"2026-11-24T01:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":12,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":26,"measuredAccounts":10,"measurementBacklog":16,"window":{"from":"2025-11-24T01:00:00Z","to":"2026-11-24T01:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":12,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOCCj2pw","login":"maham-kayani","name":"Maham Fatima Kayani","url":"https://github.com/maham-kayani","avatarUrl":"https://avatars.githubusercontent.com/u/136902311?s=80&v=4","followers":1,"publicRepos":19,"location":"292 Rue Saint-Martin, 75003 Paris","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":62,"commits":56,"pullRequests":0,"reviews":0,"issues":0,"repositories":6,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":2,"id":"U_kgDODy0IVw","login":"smerlinm","name":"smerlinm","url":"https://github.com/smerlinm","avatarUrl":"https://avatars.githubusercontent.com/u/254609495?s=80&v=4","followers":0,"publicRepos":5,"location":"St Martin","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-23","contributions":{"public":25,"commits":19,"pullRequests":0,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":3,"id":"U_kgDOBXhAgA","login":"bluepnwage","name":"Agis Carty","url":"https://github.com/bluepnwage","avatarUrl":"https://avatars.githubusercontent.com/u/91766912?s=80&v=4","followers":4,"publicRepos":14,"location":"Saint Martin","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":10,"commits":8,"pullRequests":2,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "940ededc99584811",
-"updatedAt": "2026-11-24T11:36:56.631Z",
+"contentHash": "777b65c877433039",
+"updatedAt": "2026-11-24T21:53:00.965Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T11:36:56.631Z"
+"generatedAt": "2026-11-24T21:53:00.965Z"
 }

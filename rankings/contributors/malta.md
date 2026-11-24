@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/MT.json">JSON</a> |
+| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/MT.json">JSON</a> |
 
 </div>
 
@@ -25,7 +25,7 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><a href="https://github.com/ripienaar"><img src="https://avatars.githubusercontent.com/u/82342?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ripienaar"><b>R.I.Pienaar</b></a><br><sub>&#64;ripienaar · 4,062 followers</sub></td>
+<td><a href="https://github.com/ripienaar"><img src="https://avatars.githubusercontent.com/u/82342?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ripienaar"><b>R.I.Pienaar</b></a><br><sub>&#64;ripienaar · 4,074 followers</sub></td>
 <td align="right"><b>4,068</b></td>
 <td align="right">2,721</td>
 <td align="right">716</td>
@@ -79,6 +79,15 @@
 </tr>
 <tr>
 <td align="right">7</td>
+<td><a href="https://github.com/cybernerdie"><img src="https://avatars.githubusercontent.com/u/52431939?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cybernerdie"><b>Joshua Paul</b></a><br><sub>&#64;cybernerdie · 100 followers</sub></td>
+<td align="right"><b>256</b></td>
+<td align="right">230</td>
+<td align="right">4</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">8</td>
 <td><a href="https://github.com/Geod24"><img src="https://avatars.githubusercontent.com/u/2180215?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Geod24"><b>Mathias LANG</b></a><br><sub>&#64;Geod24 · 72 followers</sub></td>
 <td align="right"><b>168</b></td>
 <td align="right">76</td>
@@ -87,7 +96,7 @@
 <td align="right">16</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/xiaocong"><img src="https://avatars.githubusercontent.com/u/1559756?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xiaocong"><b>xiaocong</b></a><br><sub>&#64;xiaocong · 475 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
@@ -102,7 +111,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 9 of 398 discovered developers (389 awaiting measurement).
+- **Measured:** 10 of 398 discovered developers (388 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 104 in round 1.

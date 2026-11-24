@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/tahaelfitouri"><img src="https://avatars.githubusercontent.com/u/232692906?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tahaelfitouri"><b>Taha Elfitouri</b></a><br><sub>&#64;tahaelfitouri</sub></td>
-<td align="right"><b>235</b></td>
+<td align="right"><b>233</b></td>
 <td align="right">1</td>
 <td><sub>Tripoli, Libya</sub></td>
 </tr>

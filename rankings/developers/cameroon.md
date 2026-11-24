@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **18** | 22 Nov 2026 | <a href="../../data/developers/CM.json">JSON</a> |
+| 🟡 Provisional | **25** | 22 Nov 2026 | <a href="../../data/developers/CM.json">JSON</a> |
 
 </div>
 
@@ -142,10 +142,59 @@
 </tr>
 <tr>
 <td align="right">18</td>
+<td><a href="https://github.com/tegha-romeo"><img src="https://avatars.githubusercontent.com/u/180978410?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tegha-romeo"><b>tegha-romeo</b></a><br><sub>&#64;tegha-romeo</sub></td>
+<td align="right"><b>235</b></td>
+<td align="right">37</td>
+<td><sub>Bangante, Cameroon</sub></td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><a href="https://github.com/Kanjo-Elkamira-Ndi"><img src="https://avatars.githubusercontent.com/u/97769140?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kanjo-Elkamira-Ndi"><b>Alchemy Codes</b></a><br><sub>&#64;Kanjo-Elkamira-Ndi</sub></td>
+<td align="right"><b>234</b></td>
+<td align="right">60</td>
+<td><sub>Yaoundé Cameroon</sub></td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><a href="https://github.com/patrick-thadeus01"><img src="https://avatars.githubusercontent.com/u/140690836?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/patrick-thadeus01"><b>Ichu Thadeus N.</b></a><br><sub>&#64;patrick-thadeus01</sub></td>
+<td align="right"><b>231</b></td>
+<td align="right">37</td>
+<td><sub>Douala Cameroon</sub></td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><a href="https://github.com/Daniel-TheProgrammer"><img src="https://avatars.githubusercontent.com/u/60320246?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Daniel-TheProgrammer"><b>Nji Daniel</b></a><br><sub>&#64;Daniel-TheProgrammer</sub></td>
+<td align="right"><b>226</b></td>
+<td align="right">225</td>
+<td><sub>Buea,Cameroon</sub></td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><a href="https://github.com/yunweneric"><img src="https://avatars.githubusercontent.com/u/57493613?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yunweneric"><b>Yunweneric</b></a><br><sub>&#64;yunweneric</sub></td>
+<td align="right"><b>224</b></td>
+<td align="right">55</td>
+<td><sub>Douala, Cameroon</sub></td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td><a href="https://github.com/xSavitar"><img src="https://avatars.githubusercontent.com/u/4872561?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xSavitar"><b>Derick Alangi</b></a><br><sub>&#64;xSavitar</sub></td>
+<td align="right"><b>224</b></td>
+<td align="right">26</td>
+<td><sub>Buea, Cameroon</sub></td>
+</tr>
+<tr>
+<td align="right">24</td>
 <td><a href="https://github.com/Blair2004"><img src="https://avatars.githubusercontent.com/u/5265663?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Blair2004"><b>Blair Jersyer</b></a><br><sub>&#64;Blair2004</sub></td>
 <td align="right"><b>177</b></td>
 <td align="right">0</td>
 <td><sub>Cameroon. Yaoundé</sub></td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td><a href="https://github.com/RMPR"><img src="https://avatars.githubusercontent.com/u/23162145?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RMPR"><b>Paul Mairo</b></a><br><sub>&#64;RMPR</sub></td>
+<td align="right"><b>122</b></td>
+<td align="right">0</td>
+<td><sub>Cameroon</sub></td>
 </tr>
 </tbody>
 </table>
@@ -155,7 +204,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 18 attributed developers are tracked; the cutoff is 177 followers.
+- Organizations are excluded. 25 attributed developers are tracked; the cutoff is 122 followers.
 - **Location discovery:** term 0 of 115 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

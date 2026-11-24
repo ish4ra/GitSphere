@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/YE.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/YE.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,15 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/suaad997"><img src="https://avatars.githubusercontent.com/u/78461539?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/suaad997"><b>SuadAljuaid</b></a><br><sub>&#64;suaad997 · 243 followers</sub></td>
+<td align="right"><b>380</b></td>
+<td align="right">103</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">262</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/WatheqAlshowaiter"><img src="https://avatars.githubusercontent.com/u/24838274?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/WatheqAlshowaiter"><b>Watheq Alshowaiter</b></a><br><sub>&#64;WatheqAlshowaiter · 407 followers</sub></td>
 <td align="right"><b>208</b></td>
 <td align="right">160</td>
@@ -51,7 +60,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/AymanAltairi73"><img src="https://avatars.githubusercontent.com/u/163068438?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AymanAltairi73"><b>Ayman Ahmed Altairi</b></a><br><sub>&#64;AymanAltairi73 · 268 followers</sub></td>
 <td align="right"><b>200</b></td>
 <td align="right">184</td>
@@ -60,7 +69,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/CS2487"><img src="https://avatars.githubusercontent.com/u/127134204?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CS2487"><b>Farea AL-Dhela&#39;a</b></a><br><sub>&#64;CS2487 · 354 followers</sub></td>
 <td align="right"><b>140</b></td>
 <td align="right">132</td>
@@ -69,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/AbdulrhmanBashammmakh"><img src="https://avatars.githubusercontent.com/u/73081256?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AbdulrhmanBashammmakh"><b>AB238</b></a><br><sub>&#64;AbdulrhmanBashammmakh · 597 followers</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">3</td>
@@ -78,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/mbahomaid"><img src="https://avatars.githubusercontent.com/u/178747862?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mbahomaid"><b>Mustafa Bahomaid</b></a><br><sub>&#64;mbahomaid · 7,528 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">2</td>
@@ -93,10 +102,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 8 of 403 discovered developers (395 awaiting measurement).
+- **Measured:** 9 of 403 discovered developers (394 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 131 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

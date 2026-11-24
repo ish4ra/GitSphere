@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **99** | 22 Nov 2026 | <a href="../data/HR.json">JSON</a> |
+| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/HR.json">JSON</a> |
 
 </div>
 
@@ -714,15 +714,22 @@
 <td align="right">150</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/ihabunek.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ihabunek/twitch-dl"><b>ihabunek/twitch-dl</b></a><br><sub>CLI tool for downloading videos from Twitch.</sub></td>
+<td align="right"><b>759</b></td>
+<td align="right">79</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 775 stars; 99 attributed candidates are tracked.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 759 stars; 114 attributed candidates are tracked.
 - 115 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 145 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

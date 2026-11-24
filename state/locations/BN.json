@@ -4,11 +4,11 @@
 "round": 1,
 "roundStartedAt": "2026-11-22T10:51:59.408Z",
 "terms": {"count":47,"fingerprint":"47:224951a7"},
-"termIndex": 0,
-"specIndex": 0,
-"active": {"term":"Brunei","kind":"users","queue":[{"metric":[0,100000000],"created":null,"cursor":"Y3Vyc29yOjMwMA==","page":7,"retrieved":300,"attempts":0}],"unresolved":[],"cycleStartedAt":"2026-11-22T10:51:59.408Z","stats":{"pages":6}},
+"termIndex": 2,
+"specIndex": 1,
+"active": null,
 "unresolved": [],
 "completedRounds": [],
-"stats": {"requests":6,"pages":6,"accounts":300},
-"updatedAt": "2026-11-22T10:51:59.408Z"
+"stats": {"requests":12,"pages":12,"accounts":402},
+"updatedAt": "2026-11-24T21:31:07.653Z"
 }

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/developers/SN.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/developers/SN.json">JSON</a> |
 
 </div>
 
@@ -51,34 +51,48 @@
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/elias-ba"><img src="https://avatars.githubusercontent.com/u/86059666?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elias-ba"><b>Elias Waly Ba</b></a><br><sub>&#64;elias-ba</sub></td>
+<td align="right"><b>235</b></td>
+<td align="right">19</td>
+<td><sub>Dakar, Senegal</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/EpsilonCoder"><img src="https://avatars.githubusercontent.com/u/68117410?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EpsilonCoder"><b>Epsilon</b></a><br><sub>&#64;EpsilonCoder</sub></td>
+<td align="right"><b>226</b></td>
+<td align="right">140</td>
+<td><sub>Dakar ,Senegal</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/iib0011"><img src="https://avatars.githubusercontent.com/u/58892076?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iib0011"><b>Ibrahima G. Coulibaly</b></a><br><sub>&#64;iib0011</sub></td>
 <td align="right"><b>120</b></td>
 <td align="right">60</td>
 <td><sub>Senegal</sub></td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">8</td>
 <td><a href="https://github.com/aimerou"><img src="https://avatars.githubusercontent.com/u/56626060?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aimerou"><b>Aïmérou Ndiaye</b></a><br><sub>&#64;aimerou</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">10</td>
 <td><sub>Senegal</sub></td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">9</td>
 <td><a href="https://github.com/99mass"><img src="https://avatars.githubusercontent.com/u/88273908?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/99mass"><b>Samba Diop</b></a><br><sub>&#64;99mass</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">70</td>
 <td><sub>Dakar,Senegal</sub></td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">10</td>
 <td><a href="https://github.com/49maodo"><img src="https://avatars.githubusercontent.com/u/185433581?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/49maodo"><b>Maodo Ndiaye</b></a><br><sub>&#64;49maodo</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">52</td>
 <td><sub>Dakar, Senegal</sub></td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">11</td>
 <td><a href="https://github.com/134130U"><img src="https://avatars.githubusercontent.com/u/35166259?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/134130U"><b>Mbaye Babou</b></a><br><sub>&#64;134130U</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">91</td>
@@ -92,7 +106,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 9 attributed developers are tracked; the cutoff is 3 followers.
+- Organizations are excluded. 11 attributed developers are tracked; the cutoff is 3 followers.
 - **Location discovery:** term 0 of 124 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

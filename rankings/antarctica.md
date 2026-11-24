@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **19** | 22 Nov 2026 | <a href="../data/AQ.json">JSON</a> |
+| 🟡 Provisional | **21** | 22 Nov 2026 | <a href="../data/AQ.json">JSON</a> |
 
 </div>
 
@@ -154,6 +154,20 @@
 <td align="right">27</td>
 <td>Go</td>
 </tr>
+<tr>
+<td align="right">20</td>
+<td><img src="https://github.com/ublue-os.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ublue-os/main"><b>ublue-os/main</b></a><br><sub>OCI base images of Fedora with batteries included</sub></td>
+<td align="right"><b>707</b></td>
+<td align="right">87</td>
+<td>Just</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><img src="https://github.com/ublue-os.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ublue-os/ucore"><b>ublue-os/ucore</b></a><br><sub>An OCI base image of Fedora CoreOS with batteries included</sub></td>
+<td align="right"><b>706</b></td>
+<td align="right">62</td>
+<td>Shell</td>
+</tr>
 </tbody>
 </table>
 
@@ -162,8 +176,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 813 stars; 19 attributed candidates are tracked.
-- 108 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 706 stars; 21 attributed candidates are tracked.
+- 90 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 14 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

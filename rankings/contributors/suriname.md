@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/SR.json">JSON</a> |
+| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/SR.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,15 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/Fuseteam"><img src="https://avatars.githubusercontent.com/u/10421851?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Fuseteam"><b>Rahammetoela Toekiman</b></a><br><sub>&#64;Fuseteam · 37 followers</sub></td>
+<td align="right"><b>117</b></td>
+<td align="right">91</td>
+<td align="right">10</td>
+<td align="right">0</td>
+<td align="right">11</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/99syukhi"><img src="https://avatars.githubusercontent.com/u/218496615?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/99syukhi"><b>Jo-Melly Amatbahrowi</b></a><br><sub>&#64;99syukhi · 2 followers</sub></td>
 <td align="right"><b>101</b></td>
 <td align="right">96</td>
@@ -51,7 +60,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/addiellucena94"><img src="https://avatars.githubusercontent.com/u/86170694?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/addiellucena94"><b>Addiel</b></a><br><sub>&#64;addiellucena94 · 2 followers</sub></td>
 <td align="right"><b>19</b></td>
 <td align="right">17</td>
@@ -60,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/Adventurekid14"><img src="https://avatars.githubusercontent.com/u/276662089?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Adventurekid14"><b>Sushil Ramlal</b></a><br><sub>&#64;Adventurekid14 · 0 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">1</td>
@@ -75,7 +84,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 8 of 258 discovered developers (250 awaiting measurement).
+- **Measured:** 9 of 258 discovered developers (249 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 1 of 33 in round 1.

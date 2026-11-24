@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **45** | 02 Nov 2026 | <a href="../data/MY.json">JSON</a> |
-
-> **Not yet re-verified.** 8 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **40** | 22 Nov 2026 | <a href="../data/MY.json">JSON</a> |
 
 </div>
 
@@ -284,59 +282,24 @@
 </tr>
 <tr>
 <td align="right">38</td>
-<td><img src="https://github.com/jipsterious.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jipsterious/jipsterious_help"><b>jipsterious/jipsterious&#95;help</b></a></td>
-<td align="right"><b>11</b></td>
-<td align="right">3</td>
-<td>—</td>
+<td><img src="https://github.com/kitloong.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kitloong/nextjs-dashboard"><b>kitloong/nextjs-dashboard</b></a><br><sub>A Next.JS boilerplate with the famous Open Source Boostrap Admin Template, CoreUI.</sub></td>
+<td align="right"><b>683</b></td>
+<td align="right">239</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">39</td>
-<td><img src="https://github.com/syarief02.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/syarief02/EA_Budak_Ubat"><b>syarief02/EA&#95;Budak&#95;Ubat</b></a></td>
-<td align="right"><b>10</b></td>
-<td align="right">1</td>
-<td>—</td>
+<td><img src="https://github.com/yccheok.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yccheok/jstock"><b>yccheok/jstock</b></a><br><sub>JStock is a free stock market software for 28 countries.</sub></td>
+<td align="right"><b>682</b></td>
+<td align="right">352</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td align="right">40</td>
-<td><img src="https://github.com/ahmadhanis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ahmadhanis/FlutterA192"><b>ahmadhanis/FlutterA192</b></a></td>
-<td align="right"><b>9</b></td>
-<td align="right">8</td>
-<td>Dart</td>
-</tr>
-<tr>
-<td align="right">41</td>
-<td><img src="https://github.com/amirahnasihah.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/amirahnasihah/frontend-development"><b>amirahnasihah/frontend-development</b></a></td>
-<td align="right"><b>8</b></td>
-<td align="right">0</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">42</td>
-<td><img src="https://github.com/JMan7777.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JMan7777/Mitsubishi-Aircon-SmartThings"><b>JMan7777/Mitsubishi-Aircon-SmartThings</b></a></td>
-<td align="right"><b>8</b></td>
-<td align="right">0</td>
-<td>C++</td>
-</tr>
-<tr>
-<td align="right">43</td>
-<td><img src="https://github.com/datomnurdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/datomnurdin/larablog"><b>datomnurdin/larablog</b></a></td>
-<td align="right"><b>7</b></td>
-<td align="right">6</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">44</td>
-<td><img src="https://github.com/mohdsubhi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mohdsubhi/myFood11"><b>mohdsubhi/myFood11</b></a></td>
-<td align="right"><b>6</b></td>
-<td align="right">3</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">45</td>
-<td><img src="https://github.com/crynobone.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/crynobone/mailtracker"><b>crynobone/mailtracker</b></a></td>
-<td align="right"><b>6</b></td>
-<td align="right">1</td>
-<td>PHP</td>
+<td><img src="https://github.com/cs-chan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cs-chan/Exclusively-Dark-Image-Dataset"><b>cs-chan/Exclusively-Dark-Image-Dataset</b></a><br><sub>Exclusively Dark (ExDARK) dataset which to the best of our knowledge, is the largest collection of low-light images tak…</sub></td>
+<td align="right"><b>658</b></td>
+<td align="right">116</td>
+<td>MATLAB</td>
 </tr>
 </tbody>
 </table>
@@ -344,11 +307,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 6 stars; 45 attributed candidates are tracked.
-- 8 entries were carried over from the previous dataset and are pending revalidation.
-- 125 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 658 stars; 40 attributed candidates are tracked.
+- 123 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 155 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

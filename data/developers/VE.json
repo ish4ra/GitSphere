@@ -5,7 +5,7 @@
 "country": {"code":"VE","name":"Venezuela","slug":"venezuela"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":12,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":127,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":15,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":127,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjI2Mjg3NjA2","login":"luisdgd07","name":"Luis Gonzalez","url":"https://github.com/luisdgd07","avatarUrl":"https://avatars.githubusercontent.com/u/26287606?s=80&v=4","followers":574,"publicRepos":33,"location":"Venezuela","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjE0MTA5NTM0","login":"lalan21j","name":"Luis Mata","url":"https://github.com/lalan21j","avatarUrl":"https://avatars.githubusercontent.com/u/14109534?s=80&v=4","followers":387,"publicRepos":16,"location":"Caracas - Venezuela","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
@@ -15,13 +15,16 @@
   {"rank":6,"id":"MDQ6VXNlcjQ5Nzk4NDEz","login":"alexanyernas","name":"Alexanyer Naranjo","url":"https://github.com/alexanyernas","avatarUrl":"https://avatars.githubusercontent.com/u/49798413?s=80&v=4","followers":294,"publicRepos":37,"location":"Venezuela","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":7,"id":"MDQ6VXNlcjQ1MjIxNTI4","login":"joakor89","name":"Joaco L.","url":"https://github.com/joakor89","avatarUrl":"https://avatars.githubusercontent.com/u/45221528?s=80&v=4","followers":289,"publicRepos":70,"location":"Caracas","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-24"},
   {"rank":8,"id":"MDQ6VXNlcjMxNzM3Mjcz","login":"danestves","name":"Daniel Esteves","url":"https://github.com/danestves","avatarUrl":"https://avatars.githubusercontent.com/u/31737273?s=80&v=4","followers":261,"publicRepos":63,"location":"Venezuela","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
-  {"rank":9,"id":"MDQ6VXNlcjIwOTgwNjcx","login":"VonHeikemen","name":"Heiker","url":"https://github.com/VonHeikemen","avatarUrl":"https://avatars.githubusercontent.com/u/20980671?s=80&v=4","followers":217,"location":"Venezuela","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":10,"id":"MDQ6VXNlcjU2MzI4MDUz","login":"marsidev","name":"Luis Marsiglia","url":"https://github.com/marsidev","avatarUrl":"https://avatars.githubusercontent.com/u/56328053?s=80&v=4","followers":67,"publicRepos":null,"location":"Venezuela","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
-  {"rank":11,"id":"MDQ6VXNlcjc1Mjg2NjQ5","login":"newmanls","name":"Newman Sánchez","url":"https://github.com/newmanls","avatarUrl":"https://avatars.githubusercontent.com/u/75286649?s=80&v=4","followers":31,"location":"Caracas, Venezuela","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
-  {"rank":12,"id":"MDQ6VXNlcjMwMjcwNjY0","login":"13uLrr5JR63p8TrEkqhABMTHFBdihaFCWE","name":"Frank Vera","url":"https://github.com/13uLrr5JR63p8TrEkqhABMTHFBdihaFCWE","avatarUrl":"https://avatars.githubusercontent.com/u/30270664?s=80&v=4","followers":0,"publicRepos":1,"location":"Venezuela","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":9,"id":"MDQ6VXNlcjExNDcwOTI3","login":"JellyBitz","name":"Engels Quintero","url":"https://github.com/JellyBitz","avatarUrl":"https://avatars.githubusercontent.com/u/11470927?s=80&v=4","followers":237,"publicRepos":24,"location":"Venezuela","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":10,"id":"MDQ6VXNlcjg0NjA3MzY=","login":"AlexR1712","name":"Alexander J. Rodriguez D.","url":"https://github.com/AlexR1712","avatarUrl":"https://avatars.githubusercontent.com/u/8460736?s=80&v=4","followers":230,"publicRepos":196,"location":"Barquisimeto, Lara, Venezuela","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":11,"id":"MDQ6VXNlcjIwOTgwNjcx","login":"VonHeikemen","name":"Heiker","url":"https://github.com/VonHeikemen","avatarUrl":"https://avatars.githubusercontent.com/u/20980671?s=80&v=4","followers":217,"location":"Venezuela","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":12,"id":"U_kgDOBn_uYw","login":"maxsteeel","name":"Max","url":"https://github.com/maxsteeel","avatarUrl":"https://avatars.githubusercontent.com/u/109047395?s=80&v=4","followers":112,"publicRepos":null,"location":"Venezuela","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":13,"id":"MDQ6VXNlcjU2MzI4MDUz","login":"marsidev","name":"Luis Marsiglia","url":"https://github.com/marsidev","avatarUrl":"https://avatars.githubusercontent.com/u/56328053?s=80&v=4","followers":67,"location":"Venezuela","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":14,"id":"MDQ6VXNlcjc1Mjg2NjQ5","login":"newmanls","name":"Newman Sánchez","url":"https://github.com/newmanls","avatarUrl":"https://avatars.githubusercontent.com/u/75286649?s=80&v=4","followers":31,"location":"Caracas, Venezuela","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":15,"id":"MDQ6VXNlcjMwMjcwNjY0","login":"13uLrr5JR63p8TrEkqhABMTHFBdihaFCWE","name":"Frank Vera","url":"https://github.com/13uLrr5JR63p8TrEkqhABMTHFBdihaFCWE","avatarUrl":"https://avatars.githubusercontent.com/u/30270664?s=80&v=4","followers":0,"publicRepos":1,"location":"Venezuela","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "8329042c09c39fbb",
-"updatedAt": "2026-11-24T11:36:56.631Z",
+"contentHash": "35a3a9f2da6783f3",
+"updatedAt": "2026-11-24T21:53:00.965Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T11:36:56.631Z"
+"generatedAt": "2026-11-24T21:53:00.965Z"
 }

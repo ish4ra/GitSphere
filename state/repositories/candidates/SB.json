@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"SB","name":"Solomon Islands","slug":"solomon-islands"},
-"count": 45,
+"count": 44,
 "repositories": [
-  {"name":"laloe74/rime-settings","stars":9,"forks":1,"language":"Lua","archived":false,"createdAt":"2024-08-26T11:44:56Z","pushedAt":"2026-09-27T01:16:28Z","owner":{"login":"laloe74","type":"User","location":"Solomon Islands"},"attribution":{"code":"SB","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T01:06:34.633Z","id":"legacy:laloe74/rime-settings","legacy":true},
   {"name":"masachi/LearnNote","stars":4,"forks":1,"archived":false,"createdAt":"2021-11-24T08:08:14Z","pushedAt":"2022-02-12T13:09:16Z","owner":{"login":"masachi","type":"User","name":"YukinoshitaKyaru","location":"Solomon Islands"},"attribution":{"code":"SB","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T01:06:34.633Z","id":"legacy:masachi/learnnote","legacy":true},
   {"name":"anikwai/CCNA-200-301","stars":3,"forks":4,"license":"GPL-3.0","archived":false,"createdAt":"2024-01-08T05:03:11Z","pushedAt":"2024-02-12T21:18:14Z","owner":{"login":"anikwai","type":"User","name":"Watson Cyrus Anikwai","location":"Solomon Islands"},"attribution":{"code":"SB","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T01:06:34.633Z","id":"legacy:anikwai/ccna-200-301","legacy":true},
   {"name":"rebays/rebays-website","stars":2,"forks":0,"language":"HTML","archived":false,"createdAt":"2025-05-07T13:13:01Z","pushedAt":"2026-08-14T05:04:43Z","owner":{"login":"rebays","type":"Organization","name":"rebays","location":"Solomon Islands"},"attribution":{"code":"SB","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T01:06:34.633Z","id":"legacy:rebays/rebays-website","legacy":true},

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **219** | 22 Nov 2026 | <a href="../../data/developers/DK.json">JSON</a> |
+| 🟡 Provisional | **250** | 22 Nov 2026 | <a href="../../data/developers/DK.json">JSON</a> |
 
 </div>
 
@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/jdah"><img src="https://avatars.githubusercontent.com/u/20308439?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jdah"><b>jdh</b></a><br><sub>&#64;jdah</sub></td>
-<td align="right"><b>7,273</b></td>
+<td align="right"><b>7,274</b></td>
 <td align="right">18</td>
 <td><sub>Denmark</sub></td>
 </tr>
@@ -1031,524 +1031,741 @@
 </tr>
 <tr>
 <td align="right">145</td>
-<td><a href="https://github.com/jakobhoeg"><img src="https://avatars.githubusercontent.com/u/114422072?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jakobhoeg"><b>Jakob Hoeg Mørk</b></a><br><sub>&#64;jakobhoeg</sub></td>
+<td><a href="https://github.com/ekim197711"><img src="https://avatars.githubusercontent.com/u/1532233?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ekim197711"><b>Mike Møller Nielsen</b></a><br><sub>&#64;ekim197711</sub></td>
 <td align="right"><b>247</b></td>
-<td align="right">0</td>
+<td align="right">282</td>
 <td><sub>Denmark</sub></td>
 </tr>
 <tr>
 <td align="right">146</td>
 <td><a href="https://github.com/mortennobel"><img src="https://avatars.githubusercontent.com/u/330722?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mortennobel"><b>Morten Nobel-Jørgensen</b></a><br><sub>&#64;mortennobel</sub></td>
 <td align="right"><b>246</b></td>
-<td align="right">0</td>
+<td align="right">50</td>
 <td><sub>Copenhagen, Denmark</sub></td>
 </tr>
 <tr>
 <td align="right">147</td>
-<td><a href="https://github.com/duemunk"><img src="https://avatars.githubusercontent.com/u/489138?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/duemunk"><b>Tobias Due Munk</b></a><br><sub>&#64;duemunk</sub></td>
-<td align="right"><b>237</b></td>
-<td align="right">0</td>
-<td><sub>Copenhagen</sub></td>
+<td><a href="https://github.com/jakobhoeg"><img src="https://avatars.githubusercontent.com/u/114422072?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jakobhoeg"><b>Jakob Hoeg Mørk</b></a><br><sub>&#64;jakobhoeg</sub></td>
+<td align="right"><b>246</b></td>
+<td align="right">36</td>
+<td><sub>Denmark</sub></td>
 </tr>
 <tr>
 <td align="right">148</td>
-<td><a href="https://github.com/mortbopet"><img src="https://avatars.githubusercontent.com/u/16338943?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mortbopet"><b>Morten Borup Petersen</b></a><br><sub>&#64;mortbopet</sub></td>
-<td align="right"><b>237</b></td>
-<td align="right">0</td>
-<td><sub>Copenhagen, Denmark</sub></td>
+<td><a href="https://github.com/smbache"><img src="https://avatars.githubusercontent.com/u/6285210?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/smbache"><b>Stefan Milton Bache</b></a><br><sub>&#64;smbache</sub></td>
+<td align="right"><b>245</b></td>
+<td align="right">24</td>
+<td><sub>Denmark</sub></td>
 </tr>
 <tr>
 <td align="right">149</td>
-<td><a href="https://github.com/madsmtm"><img src="https://avatars.githubusercontent.com/u/10577181?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/madsmtm"><b>Mads Marquart</b></a><br><sub>&#64;madsmtm</sub></td>
-<td align="right"><b>225</b></td>
-<td align="right">0</td>
-<td><sub>Copenhagen, Denmark</sub></td>
+<td><a href="https://github.com/Xiaranest"><img src="https://avatars.githubusercontent.com/u/16979890?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Xiaranest"><b>Xiaranest</b></a><br><sub>&#64;Xiaranest</sub></td>
+<td align="right"><b>243</b></td>
+<td align="right">6</td>
+<td><sub>Denmark</sub></td>
 </tr>
 <tr>
 <td align="right">150</td>
+<td><a href="https://github.com/liphwang"><img src="https://avatars.githubusercontent.com/u/21019793?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/liphwang"><b>liphwang</b></a><br><sub>&#64;liphwang</sub></td>
+<td align="right"><b>242</b></td>
+<td align="right">6</td>
+<td><sub>Copenhagen</sub></td>
+</tr>
+<tr>
+<td align="right">151</td>
+<td><a href="https://github.com/Verasl"><img src="https://avatars.githubusercontent.com/u/9811576?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Verasl"><b>Andre McGrail</b></a><br><sub>&#64;Verasl</sub></td>
+<td align="right"><b>242</b></td>
+<td align="right">3</td>
+<td><sub>Copenhagen, Denmark</sub></td>
+</tr>
+<tr>
+<td align="right">152</td>
+<td><a href="https://github.com/scopesfromdenmarkv2"><img src="https://avatars.githubusercontent.com/u/89036053?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/scopesfromdenmarkv2"><b>Scopes</b></a><br><sub>&#64;scopesfromdenmarkv2</sub></td>
+<td align="right"><b>239</b></td>
+<td align="right">8</td>
+<td><sub>Danmark</sub></td>
+</tr>
+<tr>
+<td align="right">153</td>
+<td><a href="https://github.com/duemunk"><img src="https://avatars.githubusercontent.com/u/489138?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/duemunk"><b>Tobias Due Munk</b></a><br><sub>&#64;duemunk</sub></td>
+<td align="right"><b>237</b></td>
+<td align="right">77</td>
+<td><sub>Copenhagen</sub></td>
+</tr>
+<tr>
+<td align="right">154</td>
+<td><a href="https://github.com/mortbopet"><img src="https://avatars.githubusercontent.com/u/16338943?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mortbopet"><b>Morten Borup Petersen</b></a><br><sub>&#64;mortbopet</sub></td>
+<td align="right"><b>237</b></td>
+<td align="right">36</td>
+<td><sub>Copenhagen, Denmark</sub></td>
+</tr>
+<tr>
+<td align="right">155</td>
+<td><a href="https://github.com/robertaboukhalil"><img src="https://avatars.githubusercontent.com/u/2009870?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/robertaboukhalil"><b>Robert Aboukhalil</b></a><br><sub>&#64;robertaboukhalil</sub></td>
+<td align="right"><b>236</b></td>
+<td align="right">19</td>
+<td><sub>Copenhagen</sub></td>
+</tr>
+<tr>
+<td align="right">156</td>
+<td><a href="https://github.com/AgnerF"><img src="https://avatars.githubusercontent.com/u/19837494?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AgnerF"><b>Agner Fog</b></a><br><sub>&#64;AgnerF</sub></td>
+<td align="right"><b>236</b></td>
+<td align="right">4</td>
+<td><sub>Denmark</sub></td>
+</tr>
+<tr>
+<td align="right">157</td>
+<td><a href="https://github.com/jakobnissen"><img src="https://avatars.githubusercontent.com/u/23193950?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jakobnissen"><b>Jakob Nybo Andersen</b></a><br><sub>&#64;jakobnissen</sub></td>
+<td align="right"><b>235</b></td>
+<td align="right">179</td>
+<td><sub>Copenhagen, Denmark</sub></td>
+</tr>
+<tr>
+<td align="right">158</td>
+<td><a href="https://github.com/mindplay-dk"><img src="https://avatars.githubusercontent.com/u/103348?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mindplay-dk"><b>Rasmus Schultz</b></a><br><sub>&#64;mindplay-dk</sub></td>
+<td align="right"><b>234</b></td>
+<td align="right">183</td>
+<td><sub>Denmark</sub></td>
+</tr>
+<tr>
+<td align="right">159</td>
+<td><a href="https://github.com/AndersDeleuran"><img src="https://avatars.githubusercontent.com/u/2339067?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AndersDeleuran"><b>Anders Holden Deleuran</b></a><br><sub>&#64;AndersDeleuran</sub></td>
+<td align="right"><b>233</b></td>
+<td align="right">5</td>
+<td><sub>Copenhagen, Denmark</sub></td>
+</tr>
+<tr>
+<td align="right">160</td>
+<td><a href="https://github.com/tohojo"><img src="https://avatars.githubusercontent.com/u/396657?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tohojo"><b>Toke Høiland-Jørgensen</b></a><br><sub>&#64;tohojo</sub></td>
+<td align="right"><b>227</b></td>
+<td align="right">110</td>
+<td><sub>Denmark</sub></td>
+</tr>
+<tr>
+<td align="right">161</td>
+<td><a href="https://github.com/lassejlv"><img src="https://avatars.githubusercontent.com/u/77295879?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lassejlv"><b>Lasse</b></a><br><sub>&#64;lassejlv</sub></td>
+<td align="right"><b>227</b></td>
+<td align="right">79</td>
+<td><sub>Denmark</sub></td>
+</tr>
+<tr>
+<td align="right">162</td>
+<td><a href="https://github.com/corradio"><img src="https://avatars.githubusercontent.com/u/1655848?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/corradio"><b>Olivier Corradi</b></a><br><sub>&#64;corradio</sub></td>
+<td align="right"><b>226</b></td>
+<td align="right">21</td>
+<td><sub>Copenhagen</sub></td>
+</tr>
+<tr>
+<td align="right">163</td>
+<td><a href="https://github.com/madsmtm"><img src="https://avatars.githubusercontent.com/u/10577181?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/madsmtm"><b>Mads Marquart</b></a><br><sub>&#64;madsmtm</sub></td>
+<td align="right"><b>225</b></td>
+<td align="right">211</td>
+<td><sub>Copenhagen, Denmark</sub></td>
+</tr>
+<tr>
+<td align="right">164</td>
+<td><a href="https://github.com/fnielsen"><img src="https://avatars.githubusercontent.com/u/484028?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fnielsen"><b>Finn Årup Nielsen</b></a><br><sub>&#64;fnielsen</sub></td>
+<td align="right"><b>225</b></td>
+<td align="right">78</td>
+<td><sub>Kongens Lyngby, Denmark</sub></td>
+</tr>
+<tr>
+<td align="right">165</td>
+<td><a href="https://github.com/kasperjunge"><img src="https://avatars.githubusercontent.com/u/39537120?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kasperjunge"><b>Kasper Junge</b></a><br><sub>&#64;kasperjunge</sub></td>
+<td align="right"><b>225</b></td>
+<td align="right">43</td>
+<td><sub>Copenhagen, Denmark</sub></td>
+</tr>
+<tr>
+<td align="right">166</td>
+<td><a href="https://github.com/SimonLarsen"><img src="https://avatars.githubusercontent.com/u/295299?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SimonLarsen"><b>Simon Larsen</b></a><br><sub>&#64;SimonLarsen</sub></td>
+<td align="right"><b>224</b></td>
+<td align="right">104</td>
+<td><sub>Odense, Denmark</sub></td>
+</tr>
+<tr>
+<td align="right">167</td>
+<td><a href="https://github.com/andreasjhkarlsson"><img src="https://avatars.githubusercontent.com/u/2092469?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andreasjhkarlsson"><b>Andreas Karlsson</b></a><br><sub>&#64;andreasjhkarlsson</sub></td>
+<td align="right"><b>222</b></td>
+<td align="right">30</td>
+<td><sub>Copenhagen, Denmark</sub></td>
+</tr>
+<tr>
+<td align="right">168</td>
+<td><a href="https://github.com/logicguy1"><img src="https://avatars.githubusercontent.com/u/56993729?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/logicguy1"><b>Logicguy</b></a><br><sub>&#64;logicguy1</sub></td>
+<td align="right"><b>221</b></td>
+<td align="right">79</td>
+<td><sub>Denmark, Copenhagen</sub></td>
+</tr>
+<tr>
+<td align="right">169</td>
 <td><a href="https://github.com/wandenberg"><img src="https://avatars.githubusercontent.com/u/89909?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wandenberg"><b>Wandenberg Peixoto</b></a><br><sub>&#64;wandenberg</sub></td>
 <td align="right"><b>216</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen</sub></td>
 </tr>
 <tr>
-<td align="right">151</td>
+<td align="right">170</td>
 <td><a href="https://github.com/kennylevinsen"><img src="https://avatars.githubusercontent.com/u/176245?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kennylevinsen"><b>Kenny Levinsen</b></a><br><sub>&#64;kennylevinsen</sub></td>
 <td align="right"><b>203</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">152</td>
+<td align="right">171</td>
+<td><a href="https://github.com/floe"><img src="https://avatars.githubusercontent.com/u/90756?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/floe"><b>Florian Echtler</b></a><br><sub>&#64;floe</sub></td>
+<td align="right"><b>197</b></td>
+<td align="right">0</td>
+<td><sub>Aalborg, Denmark</sub></td>
+</tr>
+<tr>
+<td align="right">172</td>
 <td><a href="https://github.com/Berkanktk"><img src="https://avatars.githubusercontent.com/u/68930825?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Berkanktk"><b>Berkan Kütük</b></a><br><sub>&#64;Berkanktk</sub></td>
 <td align="right"><b>187</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">153</td>
+<td align="right">173</td>
 <td><a href="https://github.com/Baekalfen"><img src="https://avatars.githubusercontent.com/u/5528170?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Baekalfen"><b>Mads Ynddal</b></a><br><sub>&#64;Baekalfen</sub></td>
 <td align="right"><b>182</b></td>
 <td align="right">0</td>
 <td><sub>Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">154</td>
+<td align="right">174</td>
 <td><a href="https://github.com/nietras"><img src="https://avatars.githubusercontent.com/u/10798831?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nietras"><b>nietras</b></a><br><sub>&#64;nietras</sub></td>
 <td align="right"><b>177</b></td>
 <td align="right">0</td>
 <td><sub>Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">155</td>
+<td align="right">175</td>
 <td><a href="https://github.com/jseidelin"><img src="https://avatars.githubusercontent.com/u/39787?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jseidelin"><b>Jacob Seidelin</b></a><br><sub>&#64;jseidelin</sub></td>
 <td align="right"><b>175</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">156</td>
+<td align="right">176</td>
 <td><a href="https://github.com/halfzebra"><img src="https://avatars.githubusercontent.com/u/3983879?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/halfzebra"><b>Eduard Kyvenko</b></a><br><sub>&#64;halfzebra</sub></td>
 <td align="right"><b>171</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">157</td>
+<td align="right">177</td>
 <td><a href="https://github.com/thebuilder"><img src="https://avatars.githubusercontent.com/u/3764345?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thebuilder"><b>Daniel Schmidt</b></a><br><sub>&#64;thebuilder</sub></td>
 <td align="right"><b>168</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen</sub></td>
 </tr>
 <tr>
-<td align="right">158</td>
+<td align="right">178</td>
 <td><a href="https://github.com/skovhus"><img src="https://avatars.githubusercontent.com/u/1260305?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/skovhus"><b>Kenneth Skovhus</b></a><br><sub>&#64;skovhus</sub></td>
 <td align="right"><b>156</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">159</td>
+<td align="right">179</td>
 <td><a href="https://github.com/Bottelet"><img src="https://avatars.githubusercontent.com/u/15610490?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bottelet"><b>Casper Bottelet</b></a><br><sub>&#64;Bottelet</sub></td>
 <td align="right"><b>150</b></td>
 <td align="right">0</td>
 <td><sub>Denmark - Copenhagen</sub></td>
 </tr>
 <tr>
-<td align="right">160</td>
+<td align="right">180</td>
 <td><a href="https://github.com/pnkraemer"><img src="https://avatars.githubusercontent.com/u/45484438?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pnkraemer"><b>Nicholas Krämer</b></a><br><sub>&#64;pnkraemer</sub></td>
 <td align="right"><b>145</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen</sub></td>
 </tr>
 <tr>
-<td align="right">161</td>
+<td align="right">181</td>
 <td><a href="https://github.com/DanielLavrushin"><img src="https://avatars.githubusercontent.com/u/9305095?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DanielLavrushin"><b>Daniel Lavrushin</b></a><br><sub>&#64;DanielLavrushin</sub></td>
 <td align="right"><b>144</b></td>
 <td align="right">0</td>
 <td><sub>Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">162</td>
+<td align="right">182</td>
+<td><a href="https://github.com/jshellen"><img src="https://avatars.githubusercontent.com/u/20787207?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jshellen"><b>Juha Hellén</b></a><br><sub>&#64;jshellen</sub></td>
+<td align="right"><b>139</b></td>
+<td align="right">0</td>
+<td><sub>Copenhagen</sub></td>
+</tr>
+<tr>
+<td align="right">183</td>
 <td><a href="https://github.com/saebekassebil"><img src="https://avatars.githubusercontent.com/u/118532?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/saebekassebil"><b>Jakob Miland</b></a><br><sub>&#64;saebekassebil</sub></td>
 <td align="right"><b>137</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">163</td>
+<td align="right">184</td>
 <td><a href="https://github.com/ukdtom"><img src="https://avatars.githubusercontent.com/u/4699449?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ukdtom"><b>Tommy Mikkelsen</b></a><br><sub>&#64;ukdtom</sub></td>
 <td align="right"><b>136</b></td>
 <td align="right">0</td>
 <td><sub>Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">164</td>
+<td align="right">185</td>
 <td><a href="https://github.com/ios12checker"><img src="https://avatars.githubusercontent.com/u/47921430?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ios12checker"><b>Lil&#95;Batti</b></a><br><sub>&#64;ios12checker</sub></td>
 <td align="right"><b>133</b></td>
 <td align="right">0</td>
 <td><sub>Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">165</td>
+<td align="right">186</td>
 <td><a href="https://github.com/mauran"><img src="https://avatars.githubusercontent.com/u/282398?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mauran"><b>Mauran Muthiah</b></a><br><sub>&#64;mauran</sub></td>
 <td align="right"><b>132</b></td>
 <td align="right">0</td>
 <td><sub>Aarhus, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">166</td>
+<td align="right">187</td>
+<td><a href="https://github.com/madslundt"><img src="https://avatars.githubusercontent.com/u/550313?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/madslundt"><b>Mads Engel Lundt</b></a><br><sub>&#64;madslundt</sub></td>
+<td align="right"><b>127</b></td>
+<td align="right">0</td>
+<td><sub>Copenhagen</sub></td>
+</tr>
+<tr>
+<td align="right">188</td>
 <td><a href="https://github.com/MizzleDK"><img src="https://avatars.githubusercontent.com/u/1175953?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MizzleDK"><b>Michell Bak</b></a><br><sub>&#64;MizzleDK</sub></td>
 <td align="right"><b>127</b></td>
 <td align="right">0</td>
 <td><sub>Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">167</td>
+<td align="right">189</td>
 <td><a href="https://github.com/hoovercj"><img src="https://avatars.githubusercontent.com/u/2957173?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hoovercj"><b>Cody Hoover</b></a><br><sub>&#64;hoovercj</sub></td>
 <td align="right"><b>126</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">168</td>
+<td align="right">190</td>
 <td><a href="https://github.com/ecederstrand"><img src="https://avatars.githubusercontent.com/u/559151?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ecederstrand"><b>Erik Cederstrand</b></a><br><sub>&#64;ecederstrand</sub></td>
 <td align="right"><b>125</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen, DK</sub></td>
 </tr>
 <tr>
-<td align="right">169</td>
+<td align="right">191</td>
+<td><a href="https://github.com/Genbox"><img src="https://avatars.githubusercontent.com/u/657616?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Genbox"><b>Ian Qvist</b></a><br><sub>&#64;Genbox</sub></td>
+<td align="right"><b>124</b></td>
+<td align="right">0</td>
+<td><sub>Denmark</sub></td>
+</tr>
+<tr>
+<td align="right">192</td>
 <td><a href="https://github.com/MathiasGruber"><img src="https://avatars.githubusercontent.com/u/7893509?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MathiasGruber"><b>Mathias Gruber</b></a><br><sub>&#64;MathiasGruber</sub></td>
 <td align="right"><b>124</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">170</td>
+<td align="right">193</td>
 <td><a href="https://github.com/rhummelmose"><img src="https://avatars.githubusercontent.com/u/620878?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rhummelmose"><b>Rasmus Høhndorf Hummelmose</b></a><br><sub>&#64;rhummelmose</sub></td>
 <td align="right"><b>122</b></td>
 <td align="right">0</td>
 <td><sub>Aarhus, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">171</td>
+<td align="right">194</td>
 <td><a href="https://github.com/woylie"><img src="https://avatars.githubusercontent.com/u/13847569?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/woylie"><b>Mathias Polligkeit</b></a><br><sub>&#64;woylie</sub></td>
 <td align="right"><b>114</b></td>
 <td align="right">0</td>
 <td><sub>Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">172</td>
+<td align="right">195</td>
 <td><a href="https://github.com/terrymun"><img src="https://avatars.githubusercontent.com/u/5593067?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/terrymun"><b>Terry Mun-Andersen</b></a><br><sub>&#64;terrymun</sub></td>
 <td align="right"><b>111</b></td>
 <td align="right">0</td>
 <td><sub>Aarhus, DK</sub></td>
 </tr>
 <tr>
-<td align="right">173</td>
+<td align="right">196</td>
 <td><a href="https://github.com/asny"><img src="https://avatars.githubusercontent.com/u/4253442?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asny"><b>Asger Nyman Christiansen</b></a><br><sub>&#64;asny</sub></td>
 <td align="right"><b>110</b></td>
 <td align="right">0</td>
 <td><sub>Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">174</td>
+<td align="right">197</td>
 <td><a href="https://github.com/HEnquist"><img src="https://avatars.githubusercontent.com/u/6504678?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HEnquist"><b>Henrik Enquist</b></a><br><sub>&#64;HEnquist</sub></td>
 <td align="right"><b>110</b></td>
 <td align="right">0</td>
 <td><sub>Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">175</td>
+<td align="right">198</td>
 <td><a href="https://github.com/JessicaTegner"><img src="https://avatars.githubusercontent.com/u/7127848?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JessicaTegner"><b>Jessica Tegner</b></a><br><sub>&#64;JessicaTegner</sub></td>
 <td align="right"><b>105</b></td>
 <td align="right">0</td>
 <td><sub>Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">176</td>
+<td align="right">199</td>
 <td><a href="https://github.com/ashleydw"><img src="https://avatars.githubusercontent.com/u/844437?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ashleydw"><b>Ashley White</b></a><br><sub>&#64;ashleydw</sub></td>
 <td align="right"><b>103</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen</sub></td>
 </tr>
 <tr>
-<td align="right">177</td>
+<td align="right">200</td>
 <td><a href="https://github.com/mikependon"><img src="https://avatars.githubusercontent.com/u/591015?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikependon"><b>Michael Camara Pendon</b></a><br><sub>&#64;mikependon</sub></td>
 <td align="right"><b>99</b></td>
 <td align="right">0</td>
 <td><sub>Gentofte, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">178</td>
+<td align="right">201</td>
 <td><a href="https://github.com/ellioman"><img src="https://avatars.githubusercontent.com/u/225349?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ellioman"><b>Elvar Örn Unnþórsson</b></a><br><sub>&#64;ellioman</sub></td>
 <td align="right"><b>98</b></td>
 <td align="right">0</td>
 <td><sub>Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">179</td>
+<td align="right">202</td>
 <td><a href="https://github.com/runestubbe"><img src="https://avatars.githubusercontent.com/u/22775506?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/runestubbe"><b>Rune Stubbe</b></a><br><sub>&#64;runestubbe</sub></td>
 <td align="right"><b>98</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen - Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">180</td>
+<td align="right">203</td>
 <td><a href="https://github.com/emilbaehr"><img src="https://avatars.githubusercontent.com/u/1547766?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/emilbaehr"><b>emilbaehr</b></a><br><sub>&#64;emilbaehr</sub></td>
 <td align="right"><b>93</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen</sub></td>
 </tr>
 <tr>
-<td align="right">181</td>
+<td align="right">204</td>
 <td><a href="https://github.com/AlbertMN"><img src="https://avatars.githubusercontent.com/u/11600207?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlbertMN"><b>Albert Møller Nielsen</b></a><br><sub>&#64;AlbertMN</sub></td>
 <td align="right"><b>83</b></td>
 <td align="right">0</td>
 <td><sub>Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">182</td>
+<td align="right">205</td>
 <td><a href="https://github.com/DanielEverland"><img src="https://avatars.githubusercontent.com/u/5272590?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DanielEverland"><b>Daniel Everland</b></a><br><sub>&#64;DanielEverland</sub></td>
 <td align="right"><b>83</b></td>
 <td align="right">0</td>
 <td><sub>Danmark</sub></td>
 </tr>
 <tr>
-<td align="right">183</td>
+<td align="right">206</td>
 <td><a href="https://github.com/nicholassm"><img src="https://avatars.githubusercontent.com/u/171919?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nicholassm"><b>Nicholas Schultz-Møller</b></a><br><sub>&#64;nicholassm</sub></td>
 <td align="right"><b>80</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">184</td>
+<td align="right">207</td>
 <td><a href="https://github.com/troldal"><img src="https://avatars.githubusercontent.com/u/1604351?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/troldal"><b>Kenneth Troldal Balslev</b></a><br><sub>&#64;troldal</sub></td>
 <td align="right"><b>80</b></td>
 <td align="right">0</td>
 <td><sub>Nakskov, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">185</td>
+<td align="right">208</td>
 <td><a href="https://github.com/sestoft"><img src="https://avatars.githubusercontent.com/u/731152?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sestoft"><b>Peter Sestoft</b></a><br><sub>&#64;sestoft</sub></td>
 <td align="right"><b>78</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">186</td>
+<td align="right">209</td>
 <td><a href="https://github.com/andsens"><img src="https://avatars.githubusercontent.com/u/342823?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andsens"><b>Anders</b></a><br><sub>&#64;andsens</sub></td>
 <td align="right"><b>75</b></td>
 <td align="right">0</td>
 <td><sub>Aarhus, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">187</td>
+<td align="right">210</td>
 <td><a href="https://github.com/kristiandupont"><img src="https://avatars.githubusercontent.com/u/847742?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kristiandupont"><b>Kristian Dupont</b></a><br><sub>&#64;kristiandupont</sub></td>
 <td align="right"><b>72</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen</sub></td>
 </tr>
 <tr>
-<td align="right">188</td>
+<td align="right">211</td>
 <td><a href="https://github.com/Muddz"><img src="https://avatars.githubusercontent.com/u/14817640?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Muddz"><b>Muddi Walid</b></a><br><sub>&#64;Muddz</sub></td>
 <td align="right"><b>72</b></td>
 <td align="right">0</td>
 <td><sub>Aarhus, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">189</td>
+<td align="right">212</td>
 <td><a href="https://github.com/elisescu"><img src="https://avatars.githubusercontent.com/u/1008776?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elisescu"><b>Elis Popescu</b></a><br><sub>&#64;elisescu</sub></td>
 <td align="right"><b>71</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">190</td>
+<td align="right">213</td>
+<td><a href="https://github.com/nombersDev"><img src="https://avatars.githubusercontent.com/u/98760010?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nombersDev"><b>Sebastian Ellermann</b></a><br><sub>&#64;nombersDev</sub></td>
+<td align="right"><b>70</b></td>
+<td align="right">0</td>
+<td><sub>Copenhagen, Denmark</sub></td>
+</tr>
+<tr>
+<td align="right">214</td>
 <td><a href="https://github.com/osteslag"><img src="https://avatars.githubusercontent.com/u/62719?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/osteslag"><b>Joachim Bondo</b></a><br><sub>&#64;osteslag</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">0</td>
 <td><sub>East Coast, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">191</td>
+<td align="right">215</td>
 <td><a href="https://github.com/tympanix"><img src="https://avatars.githubusercontent.com/u/9674814?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tympanix"><b>tympanix</b></a><br><sub>&#64;tympanix</sub></td>
 <td align="right"><b>68</b></td>
 <td align="right">0</td>
 <td><sub>Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">192</td>
+<td align="right">216</td>
 <td><a href="https://github.com/ramokz"><img src="https://avatars.githubusercontent.com/u/5159399?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ramokz"><b>Marcus Skov</b></a><br><sub>&#64;ramokz</sub></td>
 <td align="right"><b>67</b></td>
 <td align="right">0</td>
 <td><sub>Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">193</td>
+<td align="right">217</td>
+<td><a href="https://github.com/Tobee1406"><img src="https://avatars.githubusercontent.com/u/171347221?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tobee1406"><b>Tobee&#95;GG</b></a><br><sub>&#64;Tobee1406</sub></td>
+<td align="right"><b>67</b></td>
+<td align="right">0</td>
+<td><sub>Denmark</sub></td>
+</tr>
+<tr>
+<td align="right">218</td>
 <td><a href="https://github.com/Ruben2776"><img src="https://avatars.githubusercontent.com/u/4200419?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ruben2776"><b>Ruben</b></a><br><sub>&#64;Ruben2776</sub></td>
 <td align="right"><b>64</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">194</td>
+<td align="right">219</td>
 <td><a href="https://github.com/rosenbjerg"><img src="https://avatars.githubusercontent.com/u/11181960?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rosenbjerg"><b>Malte Rosenbjerg</b></a><br><sub>&#64;rosenbjerg</sub></td>
 <td align="right"><b>63</b></td>
 <td align="right">0</td>
 <td><sub>Aalborg</sub></td>
 </tr>
 <tr>
-<td align="right">195</td>
+<td align="right">220</td>
 <td><a href="https://github.com/tommyjepsen"><img src="https://avatars.githubusercontent.com/u/5646646?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tommyjepsen"><b>Tommy Jepsen</b></a><br><sub>&#64;tommyjepsen</sub></td>
 <td align="right"><b>63</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">196</td>
+<td align="right">221</td>
+<td><a href="https://github.com/piqoni"><img src="https://avatars.githubusercontent.com/u/3144671?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/piqoni"><b>EP</b></a><br><sub>&#64;piqoni</sub></td>
+<td align="right"><b>62</b></td>
+<td align="right">0</td>
+<td><sub>Copenhagen</sub></td>
+</tr>
+<tr>
+<td align="right">222</td>
 <td><a href="https://github.com/komarserjio"><img src="https://avatars.githubusercontent.com/u/297514?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/komarserjio"><b>Serhii Komar</b></a><br><sub>&#64;komarserjio</sub></td>
 <td align="right"><b>59</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">197</td>
+<td align="right">223</td>
 <td><a href="https://github.com/mogenslund"><img src="https://avatars.githubusercontent.com/u/7754224?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mogenslund"><b>Mogens Brødsgaard Lund</b></a><br><sub>&#64;mogenslund</sub></td>
 <td align="right"><b>59</b></td>
 <td align="right">0</td>
 <td><sub>Aarhus, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">198</td>
+<td align="right">224</td>
 <td><a href="https://github.com/pmadruga"><img src="https://avatars.githubusercontent.com/u/3617636?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pmadruga"><b>Pedro Madruga</b></a><br><sub>&#64;pmadruga</sub></td>
 <td align="right"><b>58</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen, Denmark.</sub></td>
 </tr>
 <tr>
-<td align="right">199</td>
+<td align="right">225</td>
 <td><a href="https://github.com/debois"><img src="https://avatars.githubusercontent.com/u/187042?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/debois"><b>Søren Debois</b></a><br><sub>&#64;debois</sub></td>
 <td align="right"><b>57</b></td>
 <td align="right">0</td>
 <td><sub>Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">200</td>
+<td align="right">226</td>
 <td><a href="https://github.com/madsbangh"><img src="https://avatars.githubusercontent.com/u/2969321?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/madsbangh"><b>Mads</b></a><br><sub>&#64;madsbangh</sub></td>
 <td align="right"><b>56</b></td>
 <td align="right">0</td>
 <td><sub>Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">201</td>
+<td align="right">227</td>
 <td><a href="https://github.com/lassebunk"><img src="https://avatars.githubusercontent.com/u/106146?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lassebunk"><b>Lasse Bunk</b></a><br><sub>&#64;lassebunk</sub></td>
 <td align="right"><b>53</b></td>
 <td align="right">0</td>
 <td><sub>Odense, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">202</td>
+<td align="right">228</td>
 <td><a href="https://github.com/PhilipK"><img src="https://avatars.githubusercontent.com/u/544652?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PhilipK"><b>Philip Kristoffersen</b></a><br><sub>&#64;PhilipK</sub></td>
 <td align="right"><b>53</b></td>
 <td align="right">0</td>
 <td><sub>Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">203</td>
+<td align="right">229</td>
 <td><a href="https://github.com/larsch"><img src="https://avatars.githubusercontent.com/u/15712?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/larsch"><b>Lars Christensen</b></a><br><sub>&#64;larsch</sub></td>
 <td align="right"><b>52</b></td>
 <td align="right">0</td>
 <td><sub>Aalborg, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">204</td>
+<td align="right">230</td>
+<td><a href="https://github.com/skipperbent"><img src="https://avatars.githubusercontent.com/u/634762?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/skipperbent"><b>Simon Sessingø</b></a><br><sub>&#64;skipperbent</sub></td>
+<td align="right"><b>52</b></td>
+<td align="right">0</td>
+<td><sub>Denmark</sub></td>
+</tr>
+<tr>
+<td align="right">231</td>
 <td><a href="https://github.com/firecow"><img src="https://avatars.githubusercontent.com/u/973602?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/firecow"><b>Mads Jon Nielsen</b></a><br><sub>&#64;firecow</sub></td>
 <td align="right"><b>51</b></td>
 <td align="right">0</td>
 <td><sub>Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">205</td>
+<td align="right">232</td>
 <td><a href="https://github.com/grych"><img src="https://avatars.githubusercontent.com/u/101086?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/grych"><b>Tomek Gryszkiewicz</b></a><br><sub>&#64;grych</sub></td>
 <td align="right"><b>50</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen/Denmark; Warsaw/Poland</sub></td>
 </tr>
 <tr>
-<td align="right">206</td>
+<td align="right">233</td>
 <td><a href="https://github.com/jonasmr"><img src="https://avatars.githubusercontent.com/u/774229?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jonasmr"><b>Jonas Meyer</b></a><br><sub>&#64;jonasmr</sub></td>
 <td align="right"><b>47</b></td>
 <td align="right">0</td>
 <td><sub>Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">207</td>
+<td align="right">234</td>
 <td><a href="https://github.com/rhardih"><img src="https://avatars.githubusercontent.com/u/124250?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rhardih"><b>René Hansen</b></a><br><sub>&#64;rhardih</sub></td>
 <td align="right"><b>47</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">208</td>
+<td align="right">235</td>
 <td><a href="https://github.com/dag-andersen"><img src="https://avatars.githubusercontent.com/u/47752045?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dag-andersen"><b>Dag Andersen</b></a><br><sub>&#64;dag-andersen</sub></td>
 <td align="right"><b>45</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">209</td>
+<td align="right">236</td>
 <td><a href="https://github.com/Minibrams"><img src="https://avatars.githubusercontent.com/u/8108085?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Minibrams"><b>Anders Brams</b></a><br><sub>&#64;Minibrams</sub></td>
 <td align="right"><b>45</b></td>
 <td align="right">0</td>
 <td><sub>Birkerød, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">210</td>
+<td align="right">237</td>
+<td><a href="https://github.com/diegoddox"><img src="https://avatars.githubusercontent.com/u/2768497?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/diegoddox"><b>Diego Oliveira</b></a><br><sub>&#64;diegoddox</sub></td>
+<td align="right"><b>43</b></td>
+<td align="right">0</td>
+<td><sub>Denmark</sub></td>
+</tr>
+<tr>
+<td align="right">238</td>
 <td><a href="https://github.com/ka-weihe"><img src="https://avatars.githubusercontent.com/u/16865900?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ka-weihe"><b>ka-weihe</b></a><br><sub>&#64;ka-weihe</sub></td>
 <td align="right"><b>38</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">211</td>
+<td align="right">239</td>
 <td><a href="https://github.com/Wramberg"><img src="https://avatars.githubusercontent.com/u/5647756?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Wramberg"><b>Jesper Wramberg</b></a><br><sub>&#64;Wramberg</sub></td>
 <td align="right"><b>38</b></td>
 <td align="right">0</td>
 <td><sub>Aalborg, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">212</td>
+<td align="right">240</td>
+<td><a href="https://github.com/mhattingpete"><img src="https://avatars.githubusercontent.com/u/22622299?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mhattingpete"><b>mhattingpete</b></a><br><sub>&#64;mhattingpete</sub></td>
+<td align="right"><b>35</b></td>
+<td align="right">0</td>
+<td><sub>Denmark</sub></td>
+</tr>
+<tr>
+<td align="right">241</td>
 <td><a href="https://github.com/jamieholst"><img src="https://avatars.githubusercontent.com/u/58019?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jamieholst"><b>Jamie Holst</b></a><br><sub>&#64;jamieholst</sub></td>
 <td align="right"><b>32</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">213</td>
+<td align="right">242</td>
 <td><a href="https://github.com/johanohly"><img src="https://avatars.githubusercontent.com/u/64006750?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/johanohly"><b>Johan Ohly</b></a><br><sub>&#64;johanohly</sub></td>
 <td align="right"><b>32</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">214</td>
+<td align="right">243</td>
 <td><a href="https://github.com/Snoothy"><img src="https://avatars.githubusercontent.com/u/873381?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Snoothy"><b>Kai Ejler Rasmussen</b></a><br><sub>&#64;Snoothy</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">0</td>
 <td><sub>Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">215</td>
+<td align="right">244</td>
+<td><a href="https://github.com/johanvts"><img src="https://avatars.githubusercontent.com/u/1846239?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/johanvts"><b>Johan von Tangen Sivertsen</b></a><br><sub>&#64;johanvts</sub></td>
+<td align="right"><b>25</b></td>
+<td align="right">0</td>
+<td><sub>Denmark</sub></td>
+</tr>
+<tr>
+<td align="right">245</td>
 <td><a href="https://github.com/kvakulo"><img src="https://avatars.githubusercontent.com/u/359614?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kvakulo"><b>Regin Larsen</b></a><br><sub>&#64;kvakulo</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">216</td>
+<td align="right">246</td>
 <td><a href="https://github.com/raskrebs"><img src="https://avatars.githubusercontent.com/u/98907657?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/raskrebs"><b>Rasmus Krebs</b></a><br><sub>&#64;raskrebs</sub></td>
 <td align="right"><b>19</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">217</td>
+<td align="right">247</td>
 <td><a href="https://github.com/pressure679"><img src="https://avatars.githubusercontent.com/u/5124260?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pressure679"><b>Vittus Mikiassen</b></a><br><sub>&#64;pressure679</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">28</td>
 <td><sub>Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">218</td>
+<td align="right">248</td>
+<td><a href="https://github.com/PaulDanielML"><img src="https://avatars.githubusercontent.com/u/60855843?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PaulDanielML"><b>Paul Daniel</b></a><br><sub>&#64;PaulDanielML</sub></td>
+<td align="right"><b>15</b></td>
+<td align="right">0</td>
+<td><sub>Copenhagen, DK</sub></td>
+</tr>
+<tr>
+<td align="right">249</td>
 <td><a href="https://github.com/alfhen"><img src="https://avatars.githubusercontent.com/u/5700924?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alfhen"><b>Alf</b></a><br><sub>&#64;alfhen</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">0</td>
 <td><sub>Copenhagen, Denmark</sub></td>
 </tr>
 <tr>
-<td align="right">219</td>
+<td align="right">250</td>
 <td><a href="https://github.com/ruixiangcui"><img src="https://avatars.githubusercontent.com/u/49371869?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ruixiangcui"><b>Ruixiang Cui</b></a><br><sub>&#64;ruixiangcui</sub></td>
 <td align="right"><b>11</b></td>
 <td align="right">0</td>
@@ -1562,7 +1779,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 219 attributed developers are tracked; the cutoff is 11 followers.
+- Organizations are excluded. 250 attributed developers are tracked; the cutoff is 11 followers.
 - **Location discovery:** term 0 of 154 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

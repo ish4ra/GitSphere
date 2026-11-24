@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/GE.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/GE.json">JSON</a> |
 
 </div>
 
@@ -61,6 +61,15 @@
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/Giorgi"><img src="https://avatars.githubusercontent.com/u/580749?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Giorgi"><b>Giorgi Dalakishvili</b></a><br><sub>&#64;Giorgi · 409 followers</sub></td>
+<td align="right"><b>814</b></td>
+<td align="right">767</td>
+<td align="right">15</td>
+<td align="right">5</td>
+<td align="right">17</td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/andreyvit"><img src="https://avatars.githubusercontent.com/u/5364?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andreyvit"><b>Andrey Tarantsov</b></a><br><sub>&#64;andreyvit · 299 followers</sub></td>
 <td align="right"><b>548</b></td>
 <td align="right">535</td>
@@ -69,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/7rulnik"><img src="https://avatars.githubusercontent.com/u/5969049?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/7rulnik"><b>Valentin Semirulnik</b></a><br><sub>&#64;7rulnik · 369 followers</sub></td>
 <td align="right"><b>184</b></td>
 <td align="right">66</td>
@@ -78,7 +87,7 @@
 <td align="right">20</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/kristina-makalatia"><img src="https://avatars.githubusercontent.com/u/33975427?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kristina-makalatia"><b>Kristina</b></a><br><sub>&#64;kristina-makalatia · 474 followers</sub></td>
 <td align="right"><b>90</b></td>
 <td align="right">66</td>
@@ -87,8 +96,8 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
-<td><a href="https://github.com/thecodeholic"><img src="https://avatars.githubusercontent.com/u/4627922?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thecodeholic"><b>TheCodeholic</b></a><br><sub>&#64;thecodeholic · 3,766 followers</sub></td>
+<td align="right">9</td>
+<td><a href="https://github.com/thecodeholic"><img src="https://avatars.githubusercontent.com/u/4627922?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thecodeholic"><b>TheCodeholic</b></a><br><sub>&#64;thecodeholic · 3,767 followers</sub></td>
 <td align="right"><b>46</b></td>
 <td align="right">42</td>
 <td align="right">0</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/riseansmal"><img src="https://avatars.githubusercontent.com/u/6877737?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/riseansmal"><b>Ri Sean Smal</b></a><br><sub>&#64;riseansmal · 2,618 followers</sub></td>
 <td align="right"><b>28</b></td>
 <td align="right">8</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/rlidwka"><img src="https://avatars.githubusercontent.com/u/999113?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rlidwka"><b>Alex Kocharin</b></a><br><sub>&#64;rlidwka · 481 followers</sub></td>
 <td align="right"><b>21</b></td>
 <td align="right">18</td>
@@ -120,7 +129,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 11 of 278 discovered developers (267 awaiting measurement).
+- **Measured:** 12 of 284 discovered developers (272 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 3 of 167 in round 1.

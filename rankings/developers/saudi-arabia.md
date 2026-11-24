@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **41** | 22 Nov 2026 | <a href="../../data/developers/SA.json">JSON</a> |
+| 🟡 Provisional | **48** | 22 Nov 2026 | <a href="../../data/developers/SA.json">JSON</a> |
 
 </div>
 
@@ -115,7 +115,7 @@
 <tr>
 <td align="right">14</td>
 <td><a href="https://github.com/zaidalyafeai"><img src="https://avatars.githubusercontent.com/u/15667714?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zaidalyafeai"><b>Zaid Alyafeai</b></a><br><sub>&#64;zaidalyafeai</sub></td>
-<td align="right"><b>642</b></td>
+<td align="right"><b>643</b></td>
 <td align="right">118</td>
 <td><sub>Dhahran</sub></td>
 </tr>
@@ -282,27 +282,76 @@
 </tr>
 <tr>
 <td align="right">38</td>
+<td><a href="https://github.com/ibrasho"><img src="https://avatars.githubusercontent.com/u/188776?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ibrasho"><b>Ibrahim AshShohail</b></a><br><sub>&#64;ibrasho</sub></td>
+<td align="right"><b>246</b></td>
+<td align="right">24</td>
+<td><sub>Riyadh, Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">39</td>
+<td><a href="https://github.com/smashah"><img src="https://avatars.githubusercontent.com/u/5903821?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/smashah"><b>smashah</b></a><br><sub>&#64;smashah</sub></td>
+<td align="right"><b>240</b></td>
+<td align="right">77</td>
+<td><sub>LHR/JED</sub></td>
+</tr>
+<tr>
+<td align="right">40</td>
+<td><a href="https://github.com/4bdul4ziz"><img src="https://avatars.githubusercontent.com/u/66479632?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/4bdul4ziz"><b>Abdul Aziz A.B</b></a><br><sub>&#64;4bdul4ziz</sub></td>
+<td align="right"><b>239</b></td>
+<td align="right">30</td>
+<td><sub>Riyadh, Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">41</td>
+<td><a href="https://github.com/ketch"><img src="https://avatars.githubusercontent.com/u/697763?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ketch"><b>David Ketcheson</b></a><br><sub>&#64;ketch</sub></td>
+<td align="right"><b>238</b></td>
+<td align="right">111</td>
+<td><sub>Thuwal, Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">42</td>
+<td><a href="https://github.com/devmsh"><img src="https://avatars.githubusercontent.com/u/9499808?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/devmsh"><b>Mohammed S Shurrab</b></a><br><sub>&#64;devmsh</sub></td>
+<td align="right"><b>231</b></td>
+<td align="right">42</td>
+<td><sub>Jeddah, Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">43</td>
+<td><a href="https://github.com/ma7dev"><img src="https://avatars.githubusercontent.com/u/17136125?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ma7dev"><b>Mazen — sa/acc</b></a><br><sub>&#64;ma7dev</sub></td>
+<td align="right"><b>227</b></td>
+<td align="right">76</td>
+<td><sub>Riyadh, Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">44</td>
 <td><a href="https://github.com/ialhashim"><img src="https://avatars.githubusercontent.com/u/2434978?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ialhashim"><b>Ibraheem Alhashim</b></a><br><sub>&#64;ialhashim</sub></td>
 <td align="right"><b>212</b></td>
 <td align="right">0</td>
 <td><sub>Saudi Arabia</sub></td>
 </tr>
 <tr>
-<td align="right">39</td>
+<td align="right">45</td>
 <td><a href="https://github.com/orangci"><img src="https://avatars.githubusercontent.com/u/90866414?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/orangci"><b>orangci</b></a><br><sub>&#64;orangci</sub></td>
 <td align="right"><b>189</b></td>
 <td align="right">0</td>
 <td><sub>Riyadh, Saudi Arabia</sub></td>
 </tr>
 <tr>
-<td align="right">40</td>
+<td align="right">46</td>
 <td><a href="https://github.com/abarrak"><img src="https://avatars.githubusercontent.com/u/20784990?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abarrak"><b>Abdullah Barrak</b></a><br><sub>&#64;abarrak</sub></td>
 <td align="right"><b>109</b></td>
 <td align="right">0</td>
 <td><sub>Saudi Arabia</sub></td>
 </tr>
 <tr>
-<td align="right">41</td>
+<td align="right">47</td>
+<td><a href="https://github.com/paulgavrikov"><img src="https://avatars.githubusercontent.com/u/9333587?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/paulgavrikov"><b>Paul Gavrikov</b></a><br><sub>&#64;paulgavrikov</sub></td>
+<td align="right"><b>97</b></td>
+<td align="right">0</td>
+<td><sub>Saudi Arabia</sub></td>
+</tr>
+<tr>
+<td align="right">48</td>
 <td><a href="https://github.com/AqeelahMakki"><img src="https://avatars.githubusercontent.com/u/86732926?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AqeelahMakki"><b>Aqeelah Makki</b></a><br><sub>&#64;AqeelahMakki</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">4</td>
@@ -316,7 +365,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 41 attributed developers are tracked; the cutoff is 1 followers.
+- Organizations are excluded. 48 attributed developers are tracked; the cutoff is 1 followers.
 - **Location discovery:** term 0 of 141 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -5,14 +5,14 @@
 "country": {"code":"SX","name":"Sint Maarten","slug":"sint-maarten"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":27,"measuredAccounts":9,"measurementBacklog":18,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":10,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":27,"measuredAccounts":10,"measurementBacklog":17,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":10,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjI2MzgzMDI5","login":"ccnicholls99","name":"Craig Nicholls","url":"https://github.com/ccnicholls99","avatarUrl":"https://avatars.githubusercontent.com/u/26383029?s=80&v=4","followers":0,"publicRepos":8,"location":"Sint Maarten","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":130,"commits":128,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":2,"id":"U_kgDOBtayzg","login":"repro-code","name":"Maarten Plonk","url":"https://github.com/repro-code","avatarUrl":"https://avatars.githubusercontent.com/u/114733774?s=80&v=4","followers":3,"publicRepos":18,"location":"Sint Maarten","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":125,"commits":46,"pullRequests":60,"reviews":0,"issues":1,"repositories":18,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":3,"id":"MDQ6VXNlcjkwNTgwMjIy","login":"SxMAbel","name":"SXM_ABEL","url":"https://github.com/SxMAbel","avatarUrl":"https://avatars.githubusercontent.com/u/90580222?s=80&v=4","followers":9,"publicRepos":19,"location":"Philipsburg, Sint Maarten","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":3,"commits":2,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "7809d22409a5cf0f",
-"updatedAt": "2026-11-24T11:36:56.631Z",
+"contentHash": "479d3d79fa74d5fd",
+"updatedAt": "2026-11-24T21:53:00.965Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T11:36:56.631Z"
+"generatedAt": "2026-11-24T21:53:00.965Z"
 }

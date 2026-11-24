@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **81** | 22 Nov 2026 | <a href="../../data/developers/LK.json">JSON</a> |
+| 🟡 Provisional | **94** | 22 Nov 2026 | <a href="../../data/developers/LK.json">JSON</a> |
 
 </div>
 
@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/arunoda"><img src="https://avatars.githubusercontent.com/u/50838?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arunoda"><b>Arunoda Susiripala</b></a><br><sub>&#64;arunoda</sub></td>
-<td align="right"><b>2,630</b></td>
+<td align="right"><b>2,629</b></td>
 <td align="right">300</td>
 <td><sub>Colombo, Sri Lanka</sub></td>
 </tr>
@@ -507,7 +507,7 @@
 <tr>
 <td align="right">70</td>
 <td><a href="https://github.com/Gimsara2004"><img src="https://avatars.githubusercontent.com/u/221732120?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Gimsara2004"><b>Gimsara Pieris</b></a><br><sub>&#64;Gimsara2004</sub></td>
-<td align="right"><b>251</b></td>
+<td align="right"><b>249</b></td>
 <td align="right">22</td>
 <td><sub>Gampaha</sub></td>
 </tr>
@@ -515,78 +515,169 @@
 <td align="right">71</td>
 <td><a href="https://github.com/mhdzumair"><img src="https://avatars.githubusercontent.com/u/44891939?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mhdzumair"><b>Mohamed Zumair</b></a><br><sub>&#64;mhdzumair</sub></td>
 <td align="right"><b>248</b></td>
-<td align="right">0</td>
+<td align="right">87</td>
 <td><sub>Sri lanka</sub></td>
 </tr>
 <tr>
 <td align="right">72</td>
-<td><a href="https://github.com/chanakaudaya"><img src="https://avatars.githubusercontent.com/u/6091917?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chanakaudaya"><b>Chanaka Fernando</b></a><br><sub>&#64;chanakaudaya</sub></td>
-<td align="right"><b>227</b></td>
-<td align="right">0</td>
-<td><sub>Sri Lanka</sub></td>
+<td><a href="https://github.com/Damantha126"><img src="https://avatars.githubusercontent.com/u/77870723?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Damantha126"><b>Damantha Jasinghe</b></a><br><sub>&#64;Damantha126</sub></td>
+<td align="right"><b>247</b></td>
+<td align="right">23</td>
+<td><sub>Matara, Sri Lanka</sub></td>
 </tr>
 <tr>
 <td align="right">73</td>
+<td><a href="https://github.com/dewmal"><img src="https://avatars.githubusercontent.com/u/499015?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dewmal"><b>dewmal</b></a><br><sub>&#64;dewmal</sub></td>
+<td align="right"><b>239</b></td>
+<td align="right">240</td>
+<td><sub>Sri Lanka</sub></td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><a href="https://github.com/tsuresh"><img src="https://avatars.githubusercontent.com/u/3047253?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tsuresh"><b>Suresh Peiris</b></a><br><sub>&#64;tsuresh</sub></td>
+<td align="right"><b>236</b></td>
+<td align="right">74</td>
+<td><sub>Colombo, Sri Lanka</sub></td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><a href="https://github.com/chanakaudaya"><img src="https://avatars.githubusercontent.com/u/6091917?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chanakaudaya"><b>Chanaka Fernando</b></a><br><sub>&#64;chanakaudaya</sub></td>
+<td align="right"><b>227</b></td>
+<td align="right">180</td>
+<td><sub>Sri Lanka</sub></td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><a href="https://github.com/lakmalrupasinghe"><img src="https://avatars.githubusercontent.com/u/7529618?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lakmalrupasinghe"><b>Lakmal Rupasinghe</b></a><br><sub>&#64;lakmalrupasinghe</sub></td>
+<td align="right"><b>224</b></td>
+<td align="right">253</td>
+<td><sub>Malabe, Sri Lanka</sub></td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><a href="https://github.com/R-Tharanka"><img src="https://avatars.githubusercontent.com/u/150226449?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/R-Tharanka"><b>Ruchira Tharanka</b></a><br><sub>&#64;R-Tharanka</sub></td>
+<td align="right"><b>224</b></td>
+<td align="right">42</td>
+<td><sub>Malabe, Sri Lanka</sub></td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><a href="https://github.com/Eranda724"><img src="https://avatars.githubusercontent.com/u/169965407?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Eranda724"><b>Eranda Jayasinghe</b></a><br><sub>&#64;Eranda724</sub></td>
+<td align="right"><b>223</b></td>
+<td align="right">68</td>
+<td><sub>Sri Lanka</sub></td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><a href="https://github.com/thenuka99"><img src="https://avatars.githubusercontent.com/u/65975721?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thenuka99"><b>Janith Thenuka Herath</b></a><br><sub>&#64;thenuka99</sub></td>
+<td align="right"><b>223</b></td>
+<td align="right">54</td>
+<td><sub>Dehiwala-Mount Lavinia ,Sri Lanka</sub></td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><a href="https://github.com/chamithgithub"><img src="https://avatars.githubusercontent.com/u/101160440?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chamithgithub"><b>A.C.Dilshan</b></a><br><sub>&#64;chamithgithub</sub></td>
+<td align="right"><b>221</b></td>
+<td align="right">61</td>
+<td><sub>Kalutara,Srilanka</sub></td>
+</tr>
+<tr>
+<td align="right">81</td>
 <td><a href="https://github.com/lakinduakash"><img src="https://avatars.githubusercontent.com/u/12690013?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lakinduakash"><b>Lakindu Akash</b></a><br><sub>&#64;lakinduakash</sub></td>
 <td align="right"><b>202</b></td>
 <td align="right">0</td>
 <td><sub>Colombo,Sri Lanka</sub></td>
 </tr>
 <tr>
-<td align="right">74</td>
+<td align="right">82</td>
 <td><a href="https://github.com/xCuri0"><img src="https://avatars.githubusercontent.com/u/29529557?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xCuri0"><b>Curi0</b></a><br><sub>&#64;xCuri0</sub></td>
 <td align="right"><b>179</b></td>
 <td align="right">0</td>
 <td><sub>Colombo, Sri Lanka</sub></td>
 </tr>
 <tr>
-<td align="right">75</td>
+<td align="right">83</td>
 <td><a href="https://github.com/Oshan96"><img src="https://avatars.githubusercontent.com/u/28568277?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Oshan96"><b>Oshan Mendis</b></a><br><sub>&#64;Oshan96</sub></td>
 <td align="right"><b>137</b></td>
 <td align="right">0</td>
 <td><sub>Sri Lanka</sub></td>
 </tr>
 <tr>
-<td align="right">76</td>
+<td align="right">84</td>
 <td><a href="https://github.com/mmz-001"><img src="https://avatars.githubusercontent.com/u/70096033?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mmz-001"><b>Sasmitha</b></a><br><sub>&#64;mmz-001</sub></td>
 <td align="right"><b>120</b></td>
 <td align="right">0</td>
 <td><sub>Sri Lanka</sub></td>
 </tr>
 <tr>
-<td align="right">77</td>
+<td align="right">85</td>
 <td><a href="https://github.com/Sandakan"><img src="https://avatars.githubusercontent.com/u/45460443?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sandakan"><b>Sandakan Nipunajith</b></a><br><sub>&#64;Sandakan</sub></td>
 <td align="right"><b>66</b></td>
 <td align="right">0</td>
 <td><sub>Colombo, Sri Lanka</sub></td>
 </tr>
 <tr>
-<td align="right">78</td>
+<td align="right">86</td>
 <td><a href="https://github.com/shakee93"><img src="https://avatars.githubusercontent.com/u/14835725?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shakee93"><b>Shakeeb Sadikeen</b></a><br><sub>&#64;shakee93</sub></td>
 <td align="right"><b>65</b></td>
 <td align="right">0</td>
 <td><sub>Colombo, Sri Lanka</sub></td>
 </tr>
 <tr>
-<td align="right">79</td>
+<td align="right">87</td>
 <td><a href="https://github.com/nbbb15092"><img src="https://avatars.githubusercontent.com/u/207063793?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nbbb15092"><b>Mr Asitha 🔥</b></a><br><sub>&#64;nbbb15092</sub></td>
 <td align="right"><b>61</b></td>
 <td align="right">0</td>
 <td><sub>Kurunegala, Sri Lanka 🇱🇰</sub></td>
 </tr>
 <tr>
-<td align="right">80</td>
+<td align="right">88</td>
+<td><a href="https://github.com/gamonoid"><img src="https://avatars.githubusercontent.com/u/15065045?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gamonoid"><b>Gamonoid</b></a><br><sub>&#64;gamonoid</sub></td>
+<td align="right"><b>60</b></td>
+<td align="right">0</td>
+<td><sub>Colombo, Sri Lanka</sub></td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><a href="https://github.com/IsuruMaduranga"><img src="https://avatars.githubusercontent.com/u/36605514?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IsuruMaduranga"><b>Isuru Wijesiri</b></a><br><sub>&#64;IsuruMaduranga</sub></td>
+<td align="right"><b>50</b></td>
+<td align="right">0</td>
+<td><sub>Sri Lanka</sub></td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><a href="https://github.com/nimsandu"><img src="https://avatars.githubusercontent.com/u/57834844?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nimsandu"><b>Nimsandu Kottage</b></a><br><sub>&#64;nimsandu</sub></td>
+<td align="right"><b>39</b></td>
+<td align="right">0</td>
+<td><sub>Sri lanka</sub></td>
+</tr>
+<tr>
+<td align="right">91</td>
 <td><a href="https://github.com/Dakkshin"><img src="https://avatars.githubusercontent.com/u/155803241?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dakkshin"><b>Dax Perera</b></a><br><sub>&#64;Dakkshin</sub></td>
 <td align="right"><b>26</b></td>
 <td align="right">0</td>
 <td><sub>Sri Lanka</sub></td>
 </tr>
 <tr>
-<td align="right">81</td>
+<td align="right">92</td>
 <td><a href="https://github.com/thusvill"><img src="https://avatars.githubusercontent.com/u/87165098?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thusvill"><b>Bios Thusvill</b></a><br><sub>&#64;thusvill</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">0</td>
 <td><sub>Sri Lanka</sub></td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><a href="https://github.com/safrazik"><img src="https://avatars.githubusercontent.com/u/3174706?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/safrazik"><b>Safraz Razik</b></a><br><sub>&#64;safrazik</sub></td>
+<td align="right"><b>16</b></td>
+<td align="right">0</td>
+<td><sub>Puttalam, Sri Lanka</sub></td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><a href="https://github.com/khr898"><img src="https://avatars.githubusercontent.com/u/177010562?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/khr898"><b>khr898</b></a><br><sub>&#64;khr898</sub></td>
+<td align="right"><b>15</b></td>
+<td align="right">0</td>
+<td><sub>Matara, Sri Lanka</sub></td>
 </tr>
 </tbody>
 </table>
@@ -596,7 +687,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 81 attributed developers are tracked; the cutoff is 20 followers.
+- Organizations are excluded. 94 attributed developers are tracked; the cutoff is 15 followers.
 - **Location discovery:** term 0 of 95 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

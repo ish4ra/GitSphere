@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/RE.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/RE.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,15 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/rodeofly"><img src="https://avatars.githubusercontent.com/u/575999?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rodeofly"><b>Florian Tobé</b></a><br><sub>&#64;rodeofly · 5 followers</sub></td>
+<td align="right"><b>124</b></td>
+<td align="right">94</td>
+<td align="right">18</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/frozar"><img src="https://avatars.githubusercontent.com/u/1025244?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/frozar"><b>ROZAR Fabien</b></a><br><sub>&#64;frozar · 9 followers</sub></td>
 <td align="right"><b>92</b></td>
 <td align="right">80</td>
@@ -51,7 +60,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/JulienVICTORINE"><img src="https://avatars.githubusercontent.com/u/44629863?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JulienVICTORINE"><b>Julien</b></a><br><sub>&#64;JulienVICTORINE · 1 followers</sub></td>
 <td align="right"><b>55</b></td>
 <td align="right">50</td>
@@ -60,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/777-fr"><img src="https://avatars.githubusercontent.com/u/230962457?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/777-fr"><b>Raphaël BAPTISTE</b></a><br><sub>&#64;777-fr · 0 followers</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">15</td>
@@ -69,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/aboire"><img src="https://avatars.githubusercontent.com/u/1200525?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aboire"><b>Thomas Craipeau</b></a><br><sub>&#64;aboire · 16 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">0</td>
@@ -84,7 +93,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 9 of 340 discovered developers (331 awaiting measurement).
+- **Measured:** 10 of 340 discovered developers (330 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 24 in round 1.

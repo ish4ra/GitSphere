@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/developers/SO.json">JSON</a> |
+| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/developers/SO.json">JSON</a> |
 
 </div>
 
@@ -86,6 +86,27 @@
 </tr>
 <tr>
 <td align="right">10</td>
+<td><a href="https://github.com/munniomer"><img src="https://avatars.githubusercontent.com/u/42119461?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/munniomer"><b>Munira Omar</b></a><br><sub>&#64;munniomer</sub></td>
+<td align="right"><b>243</b></td>
+<td align="right">310</td>
+<td><sub>Mogadishu, Somalia</sub></td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/enghassan8"><img src="https://avatars.githubusercontent.com/u/190366845?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/enghassan8"><b>Eng Hassan Abdi Yusuf</b></a><br><sub>&#64;enghassan8</sub></td>
+<td align="right"><b>233</b></td>
+<td align="right">54</td>
+<td><sub>mogadisho</sub></td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><a href="https://github.com/sadaqhassan"><img src="https://avatars.githubusercontent.com/u/190603625?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sadaqhassan"><b>Sadak Hassan Ahmed</b></a><br><sub>&#64;sadaqhassan</sub></td>
+<td align="right"><b>226</b></td>
+<td align="right">45</td>
+<td><sub>mogadishu-somalia</sub></td>
+</tr>
+<tr>
+<td align="right">13</td>
 <td><a href="https://github.com/00252615212320"><img src="https://avatars.githubusercontent.com/u/63036994?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/00252615212320"><b>Mohamed Abdirahman</b></a><br><sub>&#64;00252615212320</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
@@ -99,7 +120,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 10 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 13 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 99 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

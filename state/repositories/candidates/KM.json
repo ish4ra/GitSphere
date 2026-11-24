@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"KM","name":"Comoros","slug":"comoros"},
-"count": 44,
+"count": 43,
 "repositories": [
-  {"name":"faustfizz/footup","stars":9,"forks":1,"language":"PHP","license":"BSD-3-Clause","archived":false,"createdAt":"2021-12-18T11:07:39Z","pushedAt":"2026-08-24T17:32:31Z","owner":{"login":"faustfizz","type":"User","name":"Youssouf Mbaé AS","location":"Comoros"},"attribution":{"code":"KM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:53:30.677Z","id":"legacy:faustfizz/footup","legacy":true},
   {"name":"SanyaKRY/automation-training","stars":2,"forks":0,"language":"Java","archived":false,"createdAt":"2019-05-04T20:44:17Z","pushedAt":"2023-05-09T18:41:47Z","owner":{"login":"SanyaKRY","type":"User","name":"SanyaKRY","location":"Comoros"},"attribution":{"code":"KM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:53:30.677Z","id":"legacy:sanyakry/automation-training","legacy":true},
   {"name":"AnkidineIbrahim/PlatfIne","stars":1,"forks":0,"language":"PHP","archived":false,"createdAt":"2024-10-15T13:04:38Z","pushedAt":"2025-03-12T09:37:35Z","owner":{"login":"AnkidineIbrahim","type":"User","name":"Ankidine Ibrahim","location":"Mouzdalifa, Moindzaza Mboini, Grande Comore, Comores"},"attribution":{"code":"KM","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T19:53:30.677Z","id":"legacy:ankidineibrahim/platfine","legacy":true},
   {"name":"azad-YM/learn-go-by-tdd","stars":1,"forks":0,"language":"Go","archived":false,"createdAt":"2025-11-09T09:42:23Z","pushedAt":"2026-03-25T05:21:17Z","owner":{"login":"azad-YM","type":"User","name":"Abdoul-wahid","location":"Comores"},"attribution":{"code":"KM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:53:30.677Z","id":"legacy:azad-ym/learn-go-by-tdd","legacy":true},

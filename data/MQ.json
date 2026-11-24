@@ -5,7 +5,7 @@
 "country": {"code":"MQ","name":"Martinique","slug":"martinique"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":129,"candidates":113,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":23,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":127,"candidates":113,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":23,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"jks","nameWithOwner":"yannou788/jks","url":"https://github.com/yannou788/jks","description":null,"stars":4,"forks":2,"primaryLanguage":"Python","license":null,"createdAt":"2024-02-22T16:11:48Z","pushedAt":"2025-07-01T14:30:33Z","archived":false,"owner":{"login":"yannou788","name":"Luccin","type":"User","url":"https://github.com/yannou788","location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Sitemap-Generator","nameWithOwner":"webmonster-community/Sitemap-Generator","url":"https://github.com/webmonster-community/Sitemap-Generator","description":null,"stars":4,"forks":0,"primaryLanguage":"PHP","license":{"spdxId":"GPL-3.0"},"createdAt":"2022-08-07T02:38:36Z","pushedAt":"2022-10-24T05:23:34Z","archived":false,"owner":{"login":"webmonster-community","name":"Webmonster Community","type":"Organization","url":"https://github.com/webmonster-community","location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Optimmo-Dom","nameWithOwner":"senegal972/Optimmo-Dom","url":"https://github.com/senegal972/Optimmo-Dom","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2026-06-18T02:59:53Z","pushedAt":"2026-06-23T04:23:39Z","archived":false,"owner":{"login":"senegal972","name":"FRANCK FIDI","type":"User","url":"https://github.com/senegal972","location":"martinique","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"LAB-AD-2","nameWithOwner":"SKYS-IT/LAB-AD-2","url":"https://github.com/SKYS-IT/LAB-AD-2","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-09-16T16:41:34Z","pushedAt":"2026-09-16T17:23:58Z","archived":false,"owner":{"login":"SKYS-IT","name":null,"type":"User","url":"https://github.com/SKYS-IT","location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "012923ff9d846313",
-"updatedAt": "2026-11-24T11:36:56.631Z",
+"contentHash": "8825497512b6de0c",
+"updatedAt": "2026-11-24T21:53:00.965Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-24T11:36:56.631Z"
+"generatedAt": "2026-11-24T21:53:00.965Z"
 }

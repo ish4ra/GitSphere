@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **35** | 03 Nov 2026 | <a href="../data/LK.json">JSON</a> |
-
-> **Not yet re-verified.** 10 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **31** | 22 Nov 2026 | <a href="../data/LK.json">JSON</a> |
 
 </div>
 
@@ -200,73 +198,45 @@
 </tr>
 <tr>
 <td align="right">26</td>
-<td><img src="https://github.com/naduncalcey.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/naduncalcey/pokemon-tcg-app"><b>naduncalcey/pokemon-tcg-app</b></a></td>
-<td align="right"><b>10</b></td>
-<td align="right">7</td>
+<td><img src="https://github.com/gamonoid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gamonoid/icehrm"><b>gamonoid/icehrm</b></a><br><sub>Manage your employees easily with a robust and efficient Human Resource Management System</sub></td>
+<td align="right"><b>742</b></td>
+<td align="right">428</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">27</td>
-<td><img src="https://github.com/hussainm5252.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hussainm5252/RestaurantRecommendationSystem"><b>hussainm5252/RestaurantRecommendationSystem</b></a></td>
-<td align="right"><b>10</b></td>
-<td align="right">1</td>
-<td>Python</td>
+<td><img src="https://github.com/safrazik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/safrazik/vue-file-agent"><b>safrazik/vue-file-agent</b></a><br><sub>The most beautiful and full featured file upload component for Vue JS</sub></td>
+<td align="right"><b>725</b></td>
+<td align="right">86</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">28</td>
-<td><img src="https://github.com/Nimith-Nimeshana.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Nimith-Nimeshana/MovieStreamingApp"><b>Nimith-Nimeshana/MovieStreamingApp</b></a></td>
-<td align="right"><b>10</b></td>
-<td align="right">0</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">29</td>
-<td><img src="https://github.com/IT21257568.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/IT21257568/Vehicle-service-and-agro-machinery-management-system"><b>IT21257568/Vehicle-service-and-agro-machinery-management-system</b></a></td>
-<td align="right"><b>9</b></td>
-<td align="right">4</td>
+<td><img src="https://github.com/arunoda.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arunoda/react-komposer"><b>arunoda/react-komposer</b></a><br><sub>Feed data into React components by composing containers.</sub></td>
+<td align="right"><b>723</b></td>
+<td align="right">69</td>
 <td>JavaScript</td>
 </tr>
 <tr>
+<td align="right">29</td>
+<td><img src="https://github.com/nimsandu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nimsandu/spicetify-bloom"><b>nimsandu/spicetify-bloom</b></a><br><sub>Spicetify theme inspired by Microsoft&#39;s Fluent Design, Always up-to-date!, A Powerful Theme to Calm your Eyes While Lis…</sub></td>
+<td align="right"><b>681</b></td>
+<td align="right">54</td>
+<td>CSS</td>
+</tr>
+<tr>
 <td align="right">30</td>
-<td><img src="https://github.com/SAVINDU-DESHAN.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SAVINDU-DESHAN/WhAtSaPp-BaN"><b>SAVINDU-DESHAN/WhAtSaPp-BaN</b></a></td>
-<td align="right"><b>9</b></td>
-<td align="right">4</td>
+<td><img src="https://github.com/IsuruMaduranga.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/IsuruMaduranga/harness-engineering-101"><b>IsuruMaduranga/harness-engineering-101</b></a><br><sub>Harness Engineering 101 — building AI agents from first principles. The LLM is the brain; the harness is the body.</sub></td>
+<td align="right"><b>662</b></td>
+<td align="right">69</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">31</td>
-<td><img src="https://github.com/kcvabeysinghe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kcvabeysinghe/EasyTDlib"><b>kcvabeysinghe/EasyTDlib</b></a></td>
-<td align="right"><b>9</b></td>
-<td align="right">2</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">32</td>
-<td><img src="https://github.com/sachithdh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sachithdh/WPA2Hunter"><b>sachithdh/WPA2Hunter</b></a></td>
-<td align="right"><b>9</b></td>
-<td align="right">2</td>
-<td>Shell</td>
-</tr>
-<tr>
-<td align="right">33</td>
-<td><img src="https://github.com/ashenishanka.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ashenishanka/MQTT-Android-Java-Example"><b>ashenishanka/MQTT-Android-Java-Example</b></a></td>
-<td align="right"><b>8</b></td>
-<td align="right">3</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">34</td>
-<td><img src="https://github.com/pasankodi2018.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pasankodi2018/TOZED-S12-Pro-OpenWrt-Firmware-Build"><b>pasankodi2018/TOZED-S12-Pro-OpenWrt-Firmware-Build</b></a></td>
-<td align="right"><b>8</b></td>
-<td align="right">3</td>
-<td>Shell</td>
-</tr>
-<tr>
-<td align="right">35</td>
-<td><img src="https://github.com/thedevilhimselfcodes.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thedevilhimselfcodes/guardog"><b>thedevilhimselfcodes/guardog</b></a></td>
-<td align="right"><b>8</b></td>
-<td align="right">0</td>
-<td>Python</td>
+<td><img src="https://github.com/khr898.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/khr898/ntfsmac"><b>khr898/ntfsmac</b></a><br><sub>NTFS read/write on Apple Silicon macOS — no kernel extension, no SIP modification.</sub></td>
+<td align="right"><b>656</b></td>
+<td align="right">22</td>
+<td>Swift</td>
 </tr>
 </tbody>
 </table>
@@ -274,11 +244,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 8 stars; 35 attributed candidates are tracked.
-- 10 entries were carried over from the previous dataset and are pending revalidation.
-- 137 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 656 stars; 31 attributed candidates are tracked.
+- 136 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 95 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

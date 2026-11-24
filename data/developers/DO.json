@@ -5,7 +5,7 @@
 "country": {"code":"DO","name":"Dominican Republic","slug":"dominican-republic"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":98,"candidates":14,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":134,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":37,"candidates":16,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":134,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjUyMjM0NA==","login":"alanhamlett","name":"Alan Hamlett","url":"https://github.com/alanhamlett","avatarUrl":"https://avatars.githubusercontent.com/u/522344?s=80&v=4","followers":5137,"publicRepos":122,"location":"Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjI1MTY0MDc=","login":"gavilanch","name":"Felipe Gavilán","url":"https://github.com/gavilanch","avatarUrl":"https://avatars.githubusercontent.com/u/2516407?s=80&v=4","followers":1279,"publicRepos":168,"location":"República Dominicana","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
@@ -18,12 +18,14 @@
   {"rank":9,"id":"U_kgDOCjhNhA","login":"Topdev1234","name":"Topdev","url":"https://github.com/Topdev1234","avatarUrl":"https://avatars.githubusercontent.com/u/171462020?s=80&v=4","followers":307,"publicRepos":3,"location":"Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":10,"id":"MDQ6VXNlcjU1OTc3ODI=","login":"Char0394","name":"Charlin Agramonte","url":"https://github.com/Char0394","avatarUrl":"https://avatars.githubusercontent.com/u/5597782?s=80&v=4","followers":275,"publicRepos":23,"location":"Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":11,"id":"MDQ6VXNlcjU0NjAzNjU=","login":"DannyFeliz","name":"Danny Feliz","url":"https://github.com/DannyFeliz","avatarUrl":"https://avatars.githubusercontent.com/u/5460365?s=80&v=4","followers":262,"publicRepos":247,"location":"Santo Domingo, Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
-  {"rank":12,"id":"MDQ6VXNlcjkwNjU2MzY=","login":"KevRojo","name":"Kevin Rojo","url":"https://github.com/KevRojo","avatarUrl":"https://avatars.githubusercontent.com/u/9065636?s=80&v=4","followers":217,"publicRepos":10,"location":"Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
-  {"rank":13,"id":"MDQ6VXNlcjE1ODc2NjQy","login":"adonismendozaperez","name":"Adonis Mendoza","url":"https://github.com/adonismendozaperez","avatarUrl":"https://avatars.githubusercontent.com/u/15876642?s=80&v=4","followers":117,"location":"Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
-  {"rank":14,"id":"MDQ6VXNlcjQ3NjY1NzA=","login":"javisperez","name":"Javis V. Pérez","url":"https://github.com/javisperez","avatarUrl":"https://avatars.githubusercontent.com/u/4766570?s=80&v=4","followers":98,"location":"Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
+  {"rank":12,"id":"MDQ6VXNlcjI1NDc3NTE=","login":"rdelrosario","name":"Rendy Del Rosario","url":"https://github.com/rdelrosario","avatarUrl":"https://avatars.githubusercontent.com/u/2547751?s=80&v=4","followers":225,"publicRepos":43,"location":"Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":13,"id":"MDQ6VXNlcjkwNjU2MzY=","login":"KevRojo","name":"Kevin Rojo","url":"https://github.com/KevRojo","avatarUrl":"https://avatars.githubusercontent.com/u/9065636?s=80&v=4","followers":217,"publicRepos":10,"location":"Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":14,"id":"MDQ6VXNlcjE1ODc2NjQy","login":"adonismendozaperez","name":"Adonis Mendoza","url":"https://github.com/adonismendozaperez","avatarUrl":"https://avatars.githubusercontent.com/u/15876642?s=80&v=4","followers":117,"publicRepos":10,"location":"Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":15,"id":"MDQ6VXNlcjQ3NjY1NzA=","login":"javisperez","name":"Javis V. Pérez","url":"https://github.com/javisperez","avatarUrl":"https://avatars.githubusercontent.com/u/4766570?s=80&v=4","followers":98,"location":"Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":16,"id":"MDQ6VXNlcjUxMzM3MjQ3","login":"xhit","name":"Santiago De la Cruz","url":"https://github.com/xhit","avatarUrl":"https://avatars.githubusercontent.com/u/51337247?s=80&v=4","followers":37,"publicRepos":null,"location":"Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "4656348400917150",
-"updatedAt": "2026-11-24T11:36:56.631Z",
+"contentHash": "88a52827b28a3310",
+"updatedAt": "2026-11-24T21:53:00.965Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T11:36:56.631Z"
+"generatedAt": "2026-11-24T21:53:00.965Z"
 }

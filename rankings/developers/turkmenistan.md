@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/Kemalstudio"><img src="https://avatars.githubusercontent.com/u/175585453?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kemalstudio"><b>Kemal Atayev</b></a><br><sub>&#64;Kemalstudio</sub></td>
-<td align="right"><b>249</b></td>
+<td align="right"><b>247</b></td>
 <td align="right">27</td>
 <td><sub>Turkmenistan / Ashgabat</sub></td>
 </tr>
@@ -192,7 +192,7 @@
 <tr>
 <td align="right">25</td>
 <td><a href="https://github.com/northernwolf00"><img src="https://avatars.githubusercontent.com/u/95754874?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/northernwolf00"><b>Googa Dev</b></a><br><sub>&#64;northernwolf00</sub></td>
-<td align="right"><b>47</b></td>
+<td align="right"><b>46</b></td>
 <td align="right">105</td>
 <td><sub>Turkmenistan</sub></td>
 </tr>

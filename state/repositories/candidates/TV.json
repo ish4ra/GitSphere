@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"TV","name":"Tuvalu","slug":"tuvalu"},
-"count": 21,
+"count": 20,
 "repositories": [
-  {"name":"xubeiyan/Nscripter2-API","stars":7,"forks":2,"language":"HTML","license":"Apache-2.0","archived":false,"createdAt":"2014-02-18T13:31:05Z","pushedAt":"2022-07-19T08:46:21Z","owner":{"login":"xubeiyan","type":"User","name":"xubeiyan","location":"Chenhai, Tuvalu(图瓦卢，辰海市)"},"attribution":{"code":"TV","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T14:30:59.717Z","id":"legacy:xubeiyan/nscripter2-api","legacy":true},
   {"name":"Bubblingo0/http2socks5","stars":1,"forks":0,"language":"C++","archived":false,"createdAt":"2019-12-11T11:39:35Z","pushedAt":"2019-12-11T11:46:20Z","owner":{"login":"Bubblingo0","type":"User","location":"Tuvalu"},"attribution":{"code":"TV","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T14:30:59.717Z","id":"legacy:bubblingo0/http2socks5","legacy":true},
   {"name":"CasualModernPGM/ModernMaps","stars":1,"forks":0,"archived":false,"createdAt":"2025-12-27T19:03:28Z","pushedAt":"2026-04-08T17:45:29Z","owner":{"login":"CasualModernPGM","type":"Organization","name":"Casual Modern PGM","location":"Tuvalu"},"attribution":{"code":"TV","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T14:30:59.717Z","id":"legacy:casualmodernpgm/modernmaps","legacy":true},
   {"name":"Dan-Creative/godot-3D-carousel-menu","stars":1,"forks":0,"language":"GDScript","license":"MIT","archived":false,"createdAt":"2025-01-30T14:03:13Z","pushedAt":"2025-01-30T14:08:47Z","owner":{"login":"Dan-Creative","type":"User","name":"Доктор Кал","location":"Funafuti"},"attribution":{"code":"TV","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-03T14:30:59.717Z","id":"legacy:dan-creative/godot-3d-carousel-menu","legacy":true},

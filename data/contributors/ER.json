@@ -5,15 +5,16 @@
 "country": {"code":"ER","name":"Eritrea","slug":"eritrea"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":28,"measuredAccounts":12,"measurementBacklog":16,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":34,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":28,"measuredAccounts":14,"measurementBacklog":14,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":34,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOChvimg","login":"AbelNebay","name":"Abel Nebay","url":"https://github.com/AbelNebay","avatarUrl":"https://avatars.githubusercontent.com/u/169599642?s=80&v=4","followers":0,"publicRepos":13,"location":"Eritrea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":64,"commits":53,"pullRequests":0,"reviews":0,"issues":0,"repositories":11,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":2,"id":"MDQ6VXNlcjY0Njc3MDc0","login":"rami-star","name":"ራሚኖ","url":"https://github.com/rami-star","avatarUrl":"https://avatars.githubusercontent.com/u/64677074?s=80&v=4","followers":0,"publicRepos":7,"location":"Eritrea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":28,"commits":26,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":3,"id":"U_kgDOCICS8Q","login":"Utikeles","name":null,"url":"https://github.com/Utikeles","avatarUrl":"https://avatars.githubusercontent.com/u/142643953?s=80&v=4","followers":0,"publicRepos":7,"location":"Eritrea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":22,"commits":21,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
-  {"rank":4,"id":"U_kgDOElaNow","login":"Yuri4423","name":"Georgina","url":"https://github.com/Yuri4423","avatarUrl":"https://avatars.githubusercontent.com/u/307662243?s=80&v=4","followers":0,"publicRepos":5,"location":"Nueva Eritrea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":13,"commits":7,"pullRequests":0,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}}
+  {"rank":4,"id":"U_kgDOElaNow","login":"Yuri4423","name":"Georgina","url":"https://github.com/Yuri4423","avatarUrl":"https://avatars.githubusercontent.com/u/307662243?s=80&v=4","followers":0,"publicRepos":5,"location":"Nueva Eritrea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":13,"commits":7,"pullRequests":0,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":5,"id":"U_kgDOB7kx_A","login":"elpewpew","name":null,"url":"https://github.com/elpewpew","avatarUrl":"https://avatars.githubusercontent.com/u/129577468?s=80&v=4","followers":0,"publicRepos":2,"location":"Eritrea, papua nueva guinea 3","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":4,"commits":3,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T21:00:00Z","windowTo":"2026-11-24T21:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "eac8e1e41e18501c",
-"updatedAt": "2026-11-24T11:36:56.631Z",
+"contentHash": "53c54817889be436",
+"updatedAt": "2026-11-24T21:53:00.965Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T11:36:56.631Z"
+"generatedAt": "2026-11-24T21:53:00.965Z"
 }

@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | :---: |
 | 🟠 Stale | **100** | 02 Nov 2026 | <a href="../data/PE.json">JSON</a> |
 
-> **Not yet re-verified.** 82 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 78 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -151,31 +151,31 @@
 </tr>
 <tr>
 <td align="right">19</td>
-<td><img src="https://github.com/marsam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/marsam/cheatsheets"><b>marsam/cheatsheets</b></a></td>
-<td align="right"><b>9</b></td>
-<td align="right">5</td>
-<td>—</td>
+<td><img src="https://github.com/PieroCastillo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PieroCastillo/Aura.UI"><b>PieroCastillo/Aura.UI</b></a><br><sub>A Library with a lot of Controls for AvaloniaUI</sub></td>
+<td align="right"><b>725</b></td>
+<td align="right">52</td>
+<td>C#</td>
 </tr>
 <tr>
 <td align="right">20</td>
-<td><img src="https://github.com/ivandevp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ivandevp/vanillajs-to-a-framework"><b>ivandevp/vanillajs-to-a-framework</b></a></td>
-<td align="right"><b>9</b></td>
-<td align="right">0</td>
-<td>—</td>
+<td><img src="https://github.com/sergiodxa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sergiodxa/remix-i18next"><b>sergiodxa/remix-i18next</b></a><br><sub>The easiest way to translate your React Router framework mode apps</sub></td>
+<td align="right"><b>710</b></td>
+<td align="right">54</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">21</td>
-<td><img src="https://github.com/yakashiro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yakashiro/calendario"><b>yakashiro/calendario</b></a></td>
-<td align="right"><b>9</b></td>
-<td align="right">0</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/godofredoninja.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/godofredoninja/simply"><b>godofredoninja/simply</b></a><br><sub>Theme for Ghost inspired on Medium</sub></td>
+<td align="right"><b>704</b></td>
+<td align="right">203</td>
+<td>Handlebars</td>
 </tr>
 <tr>
 <td align="right">22</td>
-<td><img src="https://github.com/JoseMascaros.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JoseMascaros/Progra-2-2022-1"><b>JoseMascaros/Progra-2-2022-1</b></a></td>
-<td align="right"><b>7</b></td>
-<td align="right">9</td>
-<td>C++</td>
+<td><img src="https://github.com/elliotgaramendi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/elliotgaramendi/learning-git"><b>elliotgaramendi/learning-git</b></a><br><sub>Linea de aprendizaje de Git desde 0.</sub></td>
+<td align="right"><b>678</b></td>
+<td align="right">156</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td align="right">23</td>
@@ -732,8 +732,8 @@
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 1 stars; 125 attributed candidates are tracked.
-- 82 entries were carried over from the previous dataset and are pending revalidation.
-- 136 multi-repository owners are queued for expansion.
+- 78 entries were carried over from the previous dataset and are pending revalidation.
+- 134 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 118 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

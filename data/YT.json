@@ -5,7 +5,7 @@
 "country": {"code":"YT","name":"Mayotte","slug":"mayotte"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":48,"ownerExpansionBacklog":49,"candidates":48,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":48,"ownerExpansionBacklog":50,"candidates":48,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":56,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"contrib-pool-3-984","nameWithOwner":"nuthered/contrib-pool-3-984","url":"https://github.com/nuthered/contrib-pool-3-984","description":null,"stars":5,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2025-10-27T17:59:40Z","pushedAt":"2025-10-27T18:02:19Z","archived":false,"owner":{"login":"nuthered","name":null,"type":"User","url":"https://github.com/nuthered","location":"East Kevinbury, Mayotte","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"gpsd-client","nameWithOwner":"nykopol/gpsd-client","url":"https://github.com/nykopol/gpsd-client","description":null,"stars":4,"forks":0,"primaryLanguage":"PHP","license":{"spdxId":"LGPL-3.0"},"createdAt":"2014-11-11T05:01:15Z","pushedAt":"2019-07-09T17:32:32Z","archived":false,"owner":{"login":"nykopol","name":null,"type":"User","url":"https://github.com/nykopol","location":"Mayotte","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -56,8 +56,8 @@
   {"rank":47,"id":null,"name":"portailV3","nameWithOwner":"w6srgsssbs-ai/portailV3","url":"https://github.com/w6srgsssbs-ai/portailV3","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-03-20T14:28:56Z","pushedAt":"2026-03-20T14:28:57Z","archived":false,"owner":{"login":"w6srgsssbs-ai","name":"ALTER6","type":"User","url":"https://github.com/w6srgsssbs-ai","location":"Mayotte","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":48,"id":null,"name":"sayna-Commentinternetfonctionne-Entrainementnternet","nameWithOwner":"ysirus/sayna-Commentinternetfonctionne-Entrainementnternet","url":"https://github.com/ysirus/sayna-Commentinternetfonctionne-Entrainementnternet","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-08-23T19:23:43Z","pushedAt":"2023-08-23T19:54:51Z","archived":false,"owner":{"login":"ysirus","name":"student sayna","type":"User","url":"https://github.com/ysirus","location":"mayotte","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "b0febeb7c81116e9",
-"updatedAt": "2026-11-24T11:36:56.631Z",
+"contentHash": "db473ab17732b0d9",
+"updatedAt": "2026-11-24T21:53:00.965Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-24T11:36:56.631Z"
+"generatedAt": "2026-11-24T21:53:00.965Z"
 }

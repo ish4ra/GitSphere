@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **87** | 03 Nov 2026 | <a href="../data/AE.json">JSON</a> |
-
-> **Not yet re-verified.** 3 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **100** | 22 Nov 2026 | <a href="../data/AE.json">JSON</a> |
 
 </div>
 
@@ -613,24 +611,115 @@
 </tr>
 <tr>
 <td align="right">85</td>
-<td><img src="https://github.com/kilamaelie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kilamaelie/build-and-deploy-reactApp-to-aws-ec2-via-github-actions"><b>kilamaelie/build-and-deploy-reactApp-to-aws-ec2-via-github-actions</b></a></td>
-<td align="right"><b>9</b></td>
-<td align="right">5</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/acmbpdc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/acmbpdc/openlib.cs"><b>acmbpdc/openlib.cs</b></a><br><sub>📚 A Collection of Free &amp; Open Resources for University Coursework in Computer Science.</sub></td>
+<td align="right"><b>743</b></td>
+<td align="right">130</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">86</td>
-<td><img src="https://github.com/menacedjava.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/menacedjava/menacedjava"><b>menacedjava/menacedjava</b></a></td>
-<td align="right"><b>9</b></td>
-<td align="right">0</td>
-<td>—</td>
+<td><img src="https://github.com/Patrick-Kladek.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Patrick-Kladek/ScreenshotFramer"><b>Patrick-Kladek/ScreenshotFramer</b></a><br><sub>Create localized App Store screenshots</sub></td>
+<td align="right"><b>740</b></td>
+<td align="right">42</td>
+<td>Swift</td>
 </tr>
 <tr>
 <td align="right">87</td>
-<td><img src="https://github.com/evalexdy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/evalexdy/Keywords-Generator"><b>evalexdy/Keywords-Generator</b></a></td>
-<td align="right"><b>8</b></td>
-<td align="right">6</td>
+<td><img src="https://github.com/knqyf263.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/knqyf263/go-plugin"><b>knqyf263/go-plugin</b></a><br><sub>Go Plugin System over WebAssembly</sub></td>
+<td align="right"><b>734</b></td>
+<td align="right">39</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><img src="https://github.com/ironcev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ironcev/awesome-roslyn"><b>ironcev/awesome-roslyn</b></a><br><sub>Curated list of awesome Roslyn books, tutorials, open-source projects, analyzers, code fixes, refactorings, and source…</sub></td>
+<td align="right"><b>733</b></td>
+<td align="right">62</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><img src="https://github.com/anup-a.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anup-a/svgwave"><b>anup-a/svgwave</b></a><br><sub>SVG Wave is a tiny, free and beautiful SVG gradient waves generator for your next design.</sub></td>
+<td align="right"><b>727</b></td>
+<td align="right">74</td>
 <td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><img src="https://github.com/techwithtim.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/techwithtim/Sudoku-GUI-Solver"><b>techwithtim/Sudoku-GUI-Solver</b></a><br><sub>This is a sudoku solver using the backtracking algorithm. It includes a graphical GUI as well as a text based version.</sub></td>
+<td align="right"><b>721</b></td>
+<td align="right">338</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/rinvex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rinvex/laravel-subscriptions"><b>rinvex/laravel-subscriptions</b></a> <sub>archived</sub><br><sub>⚠️ &#91;ABANDONED&#93; Rinvex Subscribable is a flexible plans and subscription management system for Laravel, with the require…</sub></td>
+<td align="right"><b>720</b></td>
+<td align="right">341</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/DenizParlak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DenizParlak/Zeus"><b>DenizParlak/Zeus</b></a><br><sub>AWS Auditing &amp; Hardening Tool</sub></td>
+<td align="right"><b>716</b></td>
+<td align="right">93</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/graninas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/graninas/cpp_functional_programming"><b>graninas/cpp&#95;functional&#95;programming</b></a><br><sub>List of materials about functional programming in C++</sub></td>
+<td align="right"><b>714</b></td>
+<td align="right">64</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/QuantJourneyOrg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/QuantJourneyOrg/quantjourney-bt"><b>QuantJourneyOrg/quantjourney-bt</b></a><br><sub>QuantJourney Backtester</sub></td>
+<td align="right"><b>713</b></td>
+<td align="right">272</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/furqanZafar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/furqanZafar/react-selectize"><b>furqanZafar/react-selectize</b></a></td>
+<td align="right"><b>701</b></td>
+<td align="right">131</td>
+<td>LiveScript</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/anmol098.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anmol098/anmol098"><b>anmol098/anmol098</b></a><br><sub>If you are forking please do not forget to star the repo</sub></td>
+<td align="right"><b>696</b></td>
+<td align="right">814</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/NajiElKotob.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NajiElKotob/Awesome-Power-BI"><b>NajiElKotob/Awesome-Power-BI</b></a><br><sub>Awesome Power BI</sub></td>
+<td align="right"><b>676</b></td>
+<td align="right">216</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/alizahid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alizahid/slinky"><b>alizahid/slinky</b></a><br><sub>A light-weight, responsive, mobile-like navigation menu plugin</sub></td>
+<td align="right"><b>671</b></td>
+<td align="right">101</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/rinvex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rinvex/laravel-repositories"><b>rinvex/laravel-repositories</b></a> <sub>archived</sub><br><sub>⚠️ &#91;ABANDONED&#93; Rinvex Repository is a simple, intuitive, and smart implementation of Active Repository with extremely f…</sub></td>
+<td align="right"><b>666</b></td>
+<td align="right">110</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/Vinelab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Vinelab/NeoEloquent"><b>Vinelab/NeoEloquent</b></a><br><sub>The Neo4j OGM for Laravel</sub></td>
+<td align="right"><b>654</b></td>
+<td align="right">193</td>
+<td>PHP</td>
 </tr>
 </tbody>
 </table>
@@ -638,10 +727,9 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 8 stars; 87 attributed candidates are tracked.
-- 3 entries were carried over from the previous dataset and are pending revalidation.
+- **Cutoff:** the last listed repository has 654 stars; 101 attributed candidates are tracked.
 - 119 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 98 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

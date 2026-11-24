@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **62** | 22 Nov 2026 | <a href="../data/EE.json">JSON</a> |
+| 🟡 Provisional | **76** | 22 Nov 2026 | <a href="../data/EE.json">JSON</a> |
 
 </div>
 
@@ -455,6 +455,104 @@
 <td align="right">114</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/mrts.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mrts/docker-postgresql-multiple-databases"><b>mrts/docker-postgresql-multiple-databases</b></a><br><sub>Using multiple databases with the official PostgreSQL Docker image</sub></td>
+<td align="right"><b>752</b></td>
+<td align="right">266</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><img src="https://github.com/joshuaalpuerto.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/joshuaalpuerto/node-ddd-boilerplate"><b>joshuaalpuerto/node-ddd-boilerplate</b></a><br><sub>Node DDD Boilerplate</sub></td>
+<td align="right"><b>745</b></td>
+<td align="right">144</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><img src="https://github.com/Braffolk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Braffolk/fable5-world-demo"><b>Braffolk/fable5-world-demo</b></a><br><sub>Laas: 3D world built by Claude Fable 5 to test its capabilities using three.js</sub></td>
+<td align="right"><b>744</b></td>
+<td align="right">118</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><img src="https://github.com/jpmml.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jpmml/sklearn2pmml"><b>jpmml/sklearn2pmml</b></a><br><sub>Python library for converting Scikit-Learn pipelines to PMML</sub></td>
+<td align="right"><b>705</b></td>
+<td align="right">111</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><img src="https://github.com/rubygarage.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rubygarage/collection-view-layouts"><b>rubygarage/collection-view-layouts</b></a><br><sub>A library that implements custom flow layouts for iOS apps</sub></td>
+<td align="right"><b>686</b></td>
+<td align="right">86</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><img src="https://github.com/ersinkoc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ersinkoc/AI-Video-Factory"><b>ersinkoc/AI-Video-Factory</b></a><br><sub>AI video factory: from one topic to a finished, multilingual YouTube video. Claude agents write, plan, draw and review;…</sub></td>
+<td align="right"><b>682</b></td>
+<td align="right">95</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><img src="https://github.com/janesmae.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/janesmae/awesome-drones"><b>janesmae/awesome-drones</b></a><br><sub>A curated list of Awesome Drones resources</sub></td>
+<td align="right"><b>680</b></td>
+<td align="right">107</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/moll.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/moll/vim-bbye"><b>moll/vim-bbye</b></a><br><sub>Delete buffers and close files in Vim without closing your windows or messing up your layout. Like Bclose.vim, but rewr…</sub></td>
+<td align="right"><b>676</b></td>
+<td align="right">38</td>
+<td>Vim Script</td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/AvaloniaUI.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AvaloniaUI/Avalonia.Templates"><b>AvaloniaUI/Avalonia.Templates</b></a><br><sub>Avalonia Templates for &#96;dotnet new&#96;</sub></td>
+<td align="right"><b>674</b></td>
+<td align="right">100</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><img src="https://github.com/zone-eu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zone-eu/zone-mta"><b>zone-eu/zone-mta</b></a><br><sub>📤 Modern outbound MTA cross platform and extendable server application</sub></td>
+<td align="right"><b>673</b></td>
+<td align="right">110</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><img src="https://github.com/dullgiulio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dullgiulio/pingo"><b>dullgiulio/pingo</b></a><br><sub>Plugins for Go</sub></td>
+<td align="right"><b>667</b></td>
+<td align="right">42</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/transferwise.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/transferwise/pipelinewise"><b>transferwise/pipelinewise</b></a><br><sub>Data Pipeline Framework using the singer.io spec</sub></td>
+<td align="right"><b>663</b></td>
+<td align="right">141</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/moll.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/moll/node-mitm"><b>moll/node-mitm</b></a><br><sub>Intercept and mock outgoing Node.js network TCP connections and HTTP requests for testing. Intercepts and gives you a N…</sub></td>
+<td align="right"><b>657</b></td>
+<td align="right">50</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/rrebase.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rrebase/knboard"><b>rrebase/knboard</b></a> <sub>archived</sub><br><sub>Kanban boards with React &amp; Django.</sub></td>
+<td align="right"><b>656</b></td>
+<td align="right">181</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -463,8 +561,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 763 stars; 62 attributed candidates are tracked.
-- 115 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 656 stars; 76 attributed candidates are tracked.
+- 111 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 142 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

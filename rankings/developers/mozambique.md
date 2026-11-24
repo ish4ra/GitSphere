@@ -59,7 +59,7 @@
 <tr>
 <td align="right">6</td>
 <td><a href="https://github.com/gabrielmjr"><img src="https://avatars.githubusercontent.com/u/89402675?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gabrielmjr"><b>Gabriel Mucacho Júnior</b></a><br><sub>&#64;gabrielmjr</sub></td>
-<td align="right"><b>223</b></td>
+<td align="right"><b>222</b></td>
 <td align="right">7</td>
 <td><sub>Maputo/Mozambique</sub></td>
 </tr>

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **26** | 22 Nov 2026 | <a href="../../data/developers/RW.json">JSON</a> |
+| 🟡 Provisional | **29** | 22 Nov 2026 | <a href="../../data/developers/RW.json">JSON</a> |
 
 </div>
 
@@ -185,7 +185,7 @@
 <tr>
 <td align="right">24</td>
 <td><a href="https://github.com/ABDUSALIMSUBAHIELBASHI"><img src="https://avatars.githubusercontent.com/u/217039418?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ABDUSALIMSUBAHIELBASHI"><b>Abdu Salim &#91; Mr push &#93;</b></a><br><sub>&#64;ABDUSALIMSUBAHIELBASHI</sub></td>
-<td align="right"><b>256</b></td>
+<td align="right"><b>255</b></td>
 <td align="right">71</td>
 <td><sub>Rwanda 🇷🇼 Kigali</sub></td>
 </tr>
@@ -199,9 +199,30 @@
 <tr>
 <td align="right">26</td>
 <td><a href="https://github.com/12ELICHA34"><img src="https://avatars.githubusercontent.com/u/196159169?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/12ELICHA34"><b>Ishema Elicha promesse</b></a><br><sub>&#64;12ELICHA34</sub></td>
-<td align="right"><b>249</b></td>
+<td align="right"><b>248</b></td>
 <td align="right">2</td>
 <td><sub>kicukiro</sub></td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td><a href="https://github.com/IMENAKING"><img src="https://avatars.githubusercontent.com/u/197406005?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IMENAKING"><b>IMENA KING</b></a><br><sub>&#64;IMENAKING</sub></td>
+<td align="right"><b>235</b></td>
+<td align="right">3</td>
+<td><sub>rwanda</sub></td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td><a href="https://github.com/Jadoiconic"><img src="https://avatars.githubusercontent.com/u/86121130?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jadoiconic"><b>NIZEYIMANA Jean de Dieu</b></a><br><sub>&#64;Jadoiconic</sub></td>
+<td align="right"><b>225</b></td>
+<td align="right">28</td>
+<td><sub>Kigali</sub></td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td><a href="https://github.com/API-Imperfect"><img src="https://avatars.githubusercontent.com/u/3863497?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/API-Imperfect"><b>Alpha Omondi Ogilo</b></a><br><sub>&#64;API-Imperfect</sub></td>
+<td align="right"><b>222</b></td>
+<td align="right">44</td>
+<td><sub>Kigali,Rwanda</sub></td>
 </tr>
 </tbody>
 </table>
@@ -211,7 +232,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 26 attributed developers are tracked; the cutoff is 249 followers.
+- Organizations are excluded. 29 attributed developers are tracked; the cutoff is 222 followers.
 - **Location discovery:** term 0 of 36 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

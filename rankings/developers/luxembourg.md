@@ -94,7 +94,7 @@
 <tr>
 <td align="right">11</td>
 <td><a href="https://github.com/fmind"><img src="https://avatars.githubusercontent.com/u/3929438?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fmind"><b>Médéric Hurier (Fmind)</b></a><br><sub>&#64;fmind</sub></td>
-<td align="right"><b>313</b></td>
+<td align="right"><b>315</b></td>
 <td align="right">172</td>
 <td><sub>Luxembourg</sub></td>
 </tr>
@@ -150,7 +150,7 @@
 <tr>
 <td align="right">19</td>
 <td><a href="https://github.com/AndrejOrsula"><img src="https://avatars.githubusercontent.com/u/22929099?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AndrejOrsula"><b>Andrej Orsula</b></a><br><sub>&#64;AndrejOrsula</sub></td>
-<td align="right"><b>225</b></td>
+<td align="right"><b>226</b></td>
 <td align="right">84</td>
 <td><sub>Luxembourg</sub></td>
 </tr>

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/developers/UG.json">JSON</a> |
+| 🟡 Provisional | **17** | 22 Nov 2026 | <a href="../../data/developers/UG.json">JSON</a> |
 
 </div>
 
@@ -80,7 +80,7 @@
 <tr>
 <td align="right">9</td>
 <td><a href="https://github.com/jesar-enl"><img src="https://avatars.githubusercontent.com/u/85540701?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jesar-enl"><b>Jesse Kyambadde</b></a><br><sub>&#64;jesar-enl</sub></td>
-<td align="right"><b>378</b></td>
+<td align="right"><b>377</b></td>
 <td align="right">96</td>
 <td><sub>Uganda</sub></td>
 </tr>
@@ -133,6 +133,13 @@
 <td align="right">100</td>
 <td><sub>Kampala, Uganda</sub></td>
 </tr>
+<tr>
+<td align="right">17</td>
+<td><a href="https://github.com/chardso"><img src="https://avatars.githubusercontent.com/u/71114711?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chardso"><b>&#64;chardso (CTO hardware org)</b></a><br><sub>&#64;chardso</sub></td>
+<td align="right"><b>231</b></td>
+<td align="right">94</td>
+<td><sub>Adjumani uganda</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -141,7 +148,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 16 attributed developers are tracked; the cutoff is 300 followers.
+- Organizations are excluded. 17 attributed developers are tracked; the cutoff is 231 followers.
 - **Location discovery:** term 0 of 169 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

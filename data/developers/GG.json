@@ -14,7 +14,7 @@
   {"rank":5,"id":"MDQ6VXNlcjE5NzI2OTc2","login":"RicLeP","name":"Ric Le Poidevin","url":"https://github.com/RicLeP","avatarUrl":"https://avatars.githubusercontent.com/u/19726976?s=80&v=4","followers":15,"publicRepos":72,"location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":6,"id":"MDQ6VXNlcjI5ODE1NA==","login":"thebutler12","name":"Matt Ball","url":"https://github.com/thebutler12","avatarUrl":"https://avatars.githubusercontent.com/u/298154?s=80&v=4","followers":14,"publicRepos":2,"location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":7,"id":"MDQ6VXNlcjU0NzUwOA==","login":"jasemagee","name":"Jason","url":"https://github.com/jasemagee","avatarUrl":"https://avatars.githubusercontent.com/u/547508?s=80&v=4","followers":13,"publicRepos":21,"location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
-  {"rank":8,"id":"MDQ6VXNlcjYxNzQwNjg=","login":"MattJamesChampion","name":"Matt \"Danny\" Champion","url":"https://github.com/MattJamesChampion","avatarUrl":"https://avatars.githubusercontent.com/u/6174068?s=80&v=4","followers":11,"publicRepos":22,"location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":8,"id":"MDQ6VXNlcjYxNzQwNjg=","login":"MattJamesChampion","name":"Matt \"Danny\" Champion","url":"https://github.com/MattJamesChampion","avatarUrl":"https://avatars.githubusercontent.com/u/6174068?s=80&v=4","followers":11,"publicRepos":22,"location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":9,"id":"MDQ6VXNlcjM1MTY2","login":"wooki","name":"James Rowe","url":"https://github.com/wooki","avatarUrl":"https://avatars.githubusercontent.com/u/35166?s=80&v=4","followers":9,"publicRepos":13,"location":"Guernsey, Channel Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":10,"id":"MDQ6VXNlcjYzMDU0MQ==","login":"mike-wade","name":"Michael Wade","url":"https://github.com/mike-wade","avatarUrl":"https://avatars.githubusercontent.com/u/630541?s=80&v=4","followers":9,"publicRepos":12,"location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":11,"id":"MDQ6VXNlcjY2Mjg2MTY3","login":"TobyDHKing","name":"Toby King","url":"https://github.com/TobyDHKing","avatarUrl":"https://avatars.githubusercontent.com/u/66286167?s=80&v=4","followers":7,"publicRepos":7,"location":"Guernsey, Channel Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
@@ -153,8 +153,8 @@
   {"rank":144,"id":"MDQ6VXNlcjc5ODQzOTI0","login":"WireframeGG","name":"Wireframe Games Guernsey","url":"https://github.com/WireframeGG","avatarUrl":"https://avatars.githubusercontent.com/u/79843924?s=80&v=4","followers":0,"publicRepos":0,"location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":145,"id":"MDQ6VXNlcjI4NzQyOTQ3","login":"WobbleGsy","name":"Phil Trouteaud","url":"https://github.com/WobbleGsy","avatarUrl":"https://avatars.githubusercontent.com/u/28742947?s=80&v=4","followers":0,"publicRepos":0,"location":"Guernsey","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "8e831c8e0a25dafc",
-"updatedAt": "2026-11-24T11:36:56.631Z",
+"contentHash": "52954bc2fc411921",
+"updatedAt": "2026-11-24T21:53:00.965Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T11:36:56.631Z"
+"generatedAt": "2026-11-24T21:53:00.965Z"
 }

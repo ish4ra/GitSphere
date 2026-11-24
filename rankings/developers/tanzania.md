@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/developers/TZ.json">JSON</a> |
+| 🟡 Provisional | **18** | 22 Nov 2026 | <a href="../../data/developers/TZ.json">JSON</a> |
 
 </div>
 
@@ -114,6 +114,34 @@
 </tr>
 <tr>
 <td align="right">14</td>
+<td><a href="https://github.com/gilbertmunuotz"><img src="https://avatars.githubusercontent.com/u/128461895?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gilbertmunuotz"><b>Gilbert Munuo</b></a><br><sub>&#64;gilbertmunuotz</sub></td>
+<td align="right"><b>247</b></td>
+<td align="right">29</td>
+<td><sub>Tanzania</sub></td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><a href="https://github.com/mwijay12"><img src="https://avatars.githubusercontent.com/u/165444351?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mwijay12"><b>Mwijay Davie</b></a><br><sub>&#64;mwijay12</sub></td>
+<td align="right"><b>231</b></td>
+<td align="right">42</td>
+<td><sub>Dar es Salaam, Tanzania</sub></td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><a href="https://github.com/massoudhamad"><img src="https://avatars.githubusercontent.com/u/6734503?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/massoudhamad"><b>Masoud Hamad</b></a><br><sub>&#64;massoudhamad</sub></td>
+<td align="right"><b>228</b></td>
+<td align="right">81</td>
+<td><sub>Zanzibar Tanzania</sub></td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><a href="https://github.com/ms3c"><img src="https://avatars.githubusercontent.com/u/37941160?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ms3c"><b>Mohamed Singano</b></a><br><sub>&#64;ms3c</sub></td>
+<td align="right"><b>226</b></td>
+<td align="right">79</td>
+<td><sub>Dar es salaam</sub></td>
+</tr>
+<tr>
+<td align="right">18</td>
 <td><a href="https://github.com/thysultan"><img src="https://avatars.githubusercontent.com/u/810601?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thysultan"><b>Sultan</b></a><br><sub>&#64;thysultan</sub></td>
 <td align="right"><b>179</b></td>
 <td align="right">0</td>
@@ -127,7 +155,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 14 attributed developers are tracked; the cutoff is 179 followers.
+- Organizations are excluded. 18 attributed developers are tracked; the cutoff is 179 followers.
 - **Location discovery:** term 0 of 145 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

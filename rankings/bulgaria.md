@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **90** | 22 Nov 2026 | <a href="../data/BG.json">JSON</a> |
+| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/BG.json">JSON</a> |
 
 </div>
 
@@ -651,15 +651,85 @@
 <td align="right">91</td>
 <td>JavaScript</td>
 </tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/skaslev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/skaslev/gl3w"><b>skaslev/gl3w</b></a><br><sub>Simple OpenGL core profile loading</sub></td>
+<td align="right"><b>750</b></td>
+<td align="right">164</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/ivaylokenov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ivaylokenov/MyTested.WebApi"><b>ivaylokenov/MyTested.WebApi</b></a><br><sub>Fluent testing framework for ASP.NET Web API 2.</sub></td>
+<td align="right"><b>749</b></td>
+<td align="right">81</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/irusanov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/irusanov/ZenTimings"><b>irusanov/ZenTimings</b></a></td>
+<td align="right"><b>743</b></td>
+<td align="right">35</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/Roobyx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Roobyx/awesome-game-design"><b>Roobyx/awesome-game-design</b></a><br><sub>A comprehensive list of Game Design related learning materials, examples and tools.</sub></td>
+<td align="right"><b>723</b></td>
+<td align="right">57</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/vydimitrov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vydimitrov/react-countdown-circle-timer"><b>vydimitrov/react-countdown-circle-timer</b></a><br><sub>Lightweight React/React Native countdown timer component with color and progress animation based on SVG</sub></td>
+<td align="right"><b>716</b></td>
+<td align="right">88</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/arvigeus.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arvigeus/AZ-204"><b>arvigeus/AZ-204</b></a> <sub>archived</sub><br><sub>Study materials for Developing Solutions for Microsoft Azure</sub></td>
+<td align="right"><b>715</b></td>
+<td align="right">211</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/abdonkov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abdonkov/DSA"><b>abdonkov/DSA</b></a><br><sub>Data structures and algorithms in C#</sub></td>
+<td align="right"><b>710</b></td>
+<td align="right">118</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/me-no-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/me-no-dev/arduino-esp32fs-plugin"><b>me-no-dev/arduino-esp32fs-plugin</b></a><br><sub>Arduino plugin for uploading files to ESP32 file system</sub></td>
+<td align="right"><b>699</b></td>
+<td align="right">167</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/iboB.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/iboB/dynamix"><b>iboB/dynamix</b></a><br><sub>:fish&#95;cake: A new take on polymorphism</sub></td>
+<td align="right"><b>693</b></td>
+<td align="right">48</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/AlexanderDzhoganov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AlexanderDzhoganov/ComfyTextures"><b>AlexanderDzhoganov/ComfyTextures</b></a><br><sub>Unreal Engine ⚔️ ComfyUI - Automatic texturing using generative diffusion models</sub></td>
+<td align="right"><b>691</b></td>
+<td align="right">86</td>
+<td>C++</td>
+</tr>
 </tbody>
 </table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 778 stars; 90 attributed candidates are tracked.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 691 stars; 104 attributed candidates are tracked.
 - 121 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 140 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

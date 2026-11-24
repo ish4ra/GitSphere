@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **19** | 22 Nov 2026 | <a href="../../data/developers/EC.json">JSON</a> |
+| 🟡 Provisional | **21** | 22 Nov 2026 | <a href="../../data/developers/EC.json">JSON</a> |
 
 </div>
 
@@ -107,48 +107,62 @@
 </tr>
 <tr>
 <td align="right">13</td>
+<td><a href="https://github.com/cromewar"><img src="https://avatars.githubusercontent.com/u/20199180?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cromewar"><b>Vasiliy Kirochka</b></a><br><sub>&#64;cromewar</sub></td>
+<td align="right"><b>247</b></td>
+<td align="right">119</td>
+<td><sub>Ecuador</sub></td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><a href="https://github.com/CondorCoders"><img src="https://avatars.githubusercontent.com/u/123217980?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CondorCoders"><b>Condor Coders</b></a><br><sub>&#64;CondorCoders</sub></td>
+<td align="right"><b>227</b></td>
+<td align="right">27</td>
+<td><sub>Ecuador</sub></td>
+</tr>
+<tr>
+<td align="right">15</td>
 <td><a href="https://github.com/jxlarrea"><img src="https://avatars.githubusercontent.com/u/309902?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jxlarrea"><b>Xavier Larrea</b></a><br><sub>&#64;jxlarrea</sub></td>
 <td align="right"><b>171</b></td>
 <td align="right">0</td>
 <td><sub>Ecuador</sub></td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">16</td>
 <td><a href="https://github.com/sauljabin"><img src="https://avatars.githubusercontent.com/u/5039802?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sauljabin"><b>Saúl Piña</b></a><br><sub>&#64;sauljabin</sub></td>
 <td align="right"><b>103</b></td>
 <td align="right">0</td>
 <td><sub>Quito, Ecuador</sub></td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">17</td>
 <td><a href="https://github.com/bayasdev"><img src="https://avatars.githubusercontent.com/u/49411169?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bayasdev"><b>Victor Bayas</b></a><br><sub>&#64;bayasdev</sub></td>
 <td align="right"><b>96</b></td>
 <td align="right">0</td>
 <td><sub>Quito</sub></td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">18</td>
 <td><a href="https://github.com/vargasjona"><img src="https://avatars.githubusercontent.com/u/23468720?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vargasjona"><b>Jonathan Vargas</b></a><br><sub>&#64;vargasjona</sub></td>
 <td align="right"><b>86</b></td>
 <td align="right">0</td>
 <td><sub>Quito, Ecuador</sub></td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">19</td>
 <td><a href="https://github.com/Eddycrack864"><img src="https://avatars.githubusercontent.com/u/89285504?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Eddycrack864"><b>Eddycrack 864</b></a><br><sub>&#64;Eddycrack864</sub></td>
 <td align="right"><b>66</b></td>
 <td align="right">0</td>
 <td><sub>Guayaquil, Ecuador</sub></td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">20</td>
 <td><a href="https://github.com/AngelJumbo"><img src="https://avatars.githubusercontent.com/u/31261193?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AngelJumbo"><b>AngelJumbo</b></a><br><sub>&#64;AngelJumbo</sub></td>
 <td align="right"><b>32</b></td>
 <td align="right">0</td>
 <td><sub>Ecuador</sub></td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">21</td>
 <td><a href="https://github.com/Carlos487"><img src="https://avatars.githubusercontent.com/u/1598555?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Carlos487"><b>Carlos Fabara</b></a><br><sub>&#64;Carlos487</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">0</td>
@@ -162,7 +176,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 19 attributed developers are tracked; the cutoff is 24 followers.
+- Organizations are excluded. 21 attributed developers are tracked; the cutoff is 24 followers.
 - **Location discovery:** term 0 of 117 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

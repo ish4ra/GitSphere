@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/GM.json">JSON</a> |
+| 🟡 Provisional | **12** | 22 Nov 2026 | <a href="../../data/contributors/GM.json">JSON</a> |
 
 </div>
 
@@ -61,6 +61,15 @@
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/ansuofficial"><img src="https://avatars.githubusercontent.com/u/135176526?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ansuofficial"><b>Ansu</b></a><br><sub>&#64;ansuofficial · 37 followers</sub></td>
+<td align="right"><b>92</b></td>
+<td align="right">58</td>
+<td align="right">12</td>
+<td align="right">0</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/ModouLaminJagne"><img src="https://avatars.githubusercontent.com/u/89850614?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ModouLaminJagne"><b>Modou Lamin Jagne</b></a><br><sub>&#64;ModouLaminJagne · 9 followers</sub></td>
 <td align="right"><b>84</b></td>
 <td align="right">71</td>
@@ -69,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/Konteh"><img src="https://avatars.githubusercontent.com/u/60412669?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Konteh"><b>konteh.gm</b></a><br><sub>&#64;Konteh · 2 followers</sub></td>
 <td align="right"><b>81</b></td>
 <td align="right">73</td>
@@ -78,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/sheriff-gaye"><img src="https://avatars.githubusercontent.com/u/72280294?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sheriff-gaye"><b>Sheriff Gaye</b></a><br><sub>&#64;sheriff-gaye · 15 followers</sub></td>
 <td align="right"><b>43</b></td>
 <td align="right">33</td>
@@ -87,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/FrancisMario"><img src="https://avatars.githubusercontent.com/u/23318448?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FrancisMario"><b>Marxlo</b></a><br><sub>&#64;FrancisMario · 7 followers</sub></td>
 <td align="right"><b>33</b></td>
 <td align="right">29</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/geniuskidkanyi"><img src="https://avatars.githubusercontent.com/u/14014310?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/geniuskidkanyi"><b>muhammed kanyi</b></a><br><sub>&#64;geniuskidkanyi · 3 followers</sub></td>
 <td align="right"><b>26</b></td>
 <td align="right">20</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/Dion-verse"><img src="https://avatars.githubusercontent.com/u/246143059?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dion-verse"><b>Dawda Mbowe</b></a><br><sub>&#64;Dion-verse · 6 followers</sub></td>
 <td align="right"><b>23</b></td>
 <td align="right">21</td>
@@ -114,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/almamarie"><img src="https://avatars.githubusercontent.com/u/32139122?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/almamarie"><b>Louis Marie Atoluko Ayariga</b></a><br><sub>&#64;almamarie · 2 followers</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">14</td>
@@ -129,7 +138,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 11 of 388 discovered developers (377 awaiting measurement).
+- **Measured:** 12 of 388 discovered developers (376 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 108 in round 1.

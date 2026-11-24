@@ -5,7 +5,7 @@
 "country": {"code":"ID","name":"Indonesia","slug":"indonesia"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":932,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":127,"candidates":137,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":183,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":932,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":127,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":183,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOJXFz5Q","name":"GhostTrack","nameWithOwner":"HunxByts/GhostTrack","url":"https://github.com/HunxByts/GhostTrack","description":"Useful tool to track location or mobile number","stars":20837,"forks":2816,"primaryLanguage":"Python","license":null,"createdAt":"2023-04-15T07:20:47Z","pushedAt":"2024-01-11T15:36:46Z","archived":false,"owner":{"login":"HunxByts","name":"K1LLU","type":"User","url":"https://github.com/HunxByts","location":"Kaltimantan, Indonesia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"R_kgDORGyANg","name":"OpenWA","nameWithOwner":"rmyndharis/OpenWA","url":"https://github.com/rmyndharis/OpenWA","description":"Free, Open Source, Self-Hosted WhatsApp API Gateway","stars":17183,"forks":4017,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2026-02-02T12:14:45Z","pushedAt":"2026-11-21T03:54:17Z","archived":false,"owner":{"login":"rmyndharis","name":"Yudhi Armyndharis","type":"User","url":"https://github.com/rmyndharis","location":"Batam, Indonesia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"MDEwOlJlcG9zaXRvcnkzMzMxNDk4MTM=","name":"mangadex-downloader","nameWithOwner":"mansuf/mangadex-downloader","url":"https://github.com/mansuf/mangadex-downloader","description":"A command-line tool to download manga from MangaDex, written in Python.","stars":940,"forks":89,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2021-01-26T16:43:57Z","pushedAt":"2026-02-07T13:51:49Z","archived":false,"owner":{"login":"mansuf","name":"Rahman Yusuf","type":"User","url":"https://github.com/mansuf","location":"Bekasi, Indonesia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-24"},
   {"rank":100,"id":"R_kgDOJTfr5g","name":"llm-python","nameWithOwner":"onlyphantom/llm-python","url":"https://github.com/onlyphantom/llm-python","description":"Large Language Models (LLMs) tutorials & sample scripts, ft. langchain, openai, llamaindex, gpt, chromadb & pinecone","stars":932,"forks":313,"primaryLanguage":"Jupyter Notebook","license":{"spdxId":"MIT"},"createdAt":"2023-04-06T12:38:17Z","pushedAt":"2026-11-13T09:54:14Z","archived":false,"owner":{"login":"onlyphantom","name":"Samuel Chan","type":"User","url":"https://github.com/onlyphantom","location":"Indonesia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "f4582c276bc58050",
-"updatedAt": "2026-11-24T11:36:56.631Z",
+"contentHash": "71416b958d310427",
+"updatedAt": "2026-11-24T21:53:00.965Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T11:36:56.631Z"
+"generatedAt": "2026-11-24T21:53:00.965Z"
 }

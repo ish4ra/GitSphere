@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **23** | 22 Nov 2026 | <a href="../../data/developers/AS.json">JSON</a> |
+| 🟡 Provisional | **26** | 24 Nov 2026 | <a href="../../data/developers/AS.json">JSON</a> |
 
 </div>
 
@@ -114,69 +114,90 @@
 </tr>
 <tr>
 <td align="right">14</td>
+<td><a href="https://github.com/breepinkpiggys"><img src="https://avatars.githubusercontent.com/u/183134195?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/breepinkpiggys"><b>breepinkpiggys</b></a><br><sub>&#64;breepinkpiggys</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Amerikaans-Samoa (AS)</sub></td>
+</tr>
+<tr>
+<td align="right">15</td>
 <td><a href="https://github.com/oplbbs"><img src="https://avatars.githubusercontent.com/u/317838155?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/oplbbs"><b>oplbbs</b></a><br><sub>&#64;oplbbs</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>American Samoa</sub></td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
+<td><a href="https://github.com/sweetypieredhulk"><img src="https://avatars.githubusercontent.com/u/181569321?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sweetypieredhulk"><b>sweetypieredhulk</b></a><br><sub>&#64;sweetypieredhulk</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Amerikaans-Samoa (AS)</sub></td>
+</tr>
+<tr>
+<td align="right">17</td>
 <td><a href="https://github.com/godanvoyager"><img src="https://avatars.githubusercontent.com/u/33988885?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/godanvoyager"><b>Voyager Arts</b></a><br><sub>&#64;godanvoyager</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Dallas, American Samoa</sub></td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">18</td>
 <td><a href="https://github.com/KCOMPER"><img src="https://avatars.githubusercontent.com/u/317842503?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KCOMPER"><b>KCOMPER</b></a><br><sub>&#64;KCOMPER</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>American Samoa</sub></td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">19</td>
 <td><a href="https://github.com/matcin"><img src="https://avatars.githubusercontent.com/u/219917177?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/matcin"><b>Marcello Matcin</b></a><br><sub>&#64;matcin</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>American Samoa</sub></td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">20</td>
 <td><a href="https://github.com/qrcodedi"><img src="https://avatars.githubusercontent.com/u/311732831?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/qrcodedi"><b>qrcodedi</b></a><br><sub>&#64;qrcodedi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>American Samoa</sub></td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">21</td>
 <td><a href="https://github.com/adberq"><img src="https://avatars.githubusercontent.com/u/1996204?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adberq"><b>Andrew D. Berquist</b></a><br><sub>&#64;adberq</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>American Samoa</sub></td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">22</td>
 <td><a href="https://github.com/asapswiki"><img src="https://avatars.githubusercontent.com/u/258975001?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asapswiki"><b>Sweetie R. Tufele</b></a><br><sub>&#64;asapswiki</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>American Samoa</sub></td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">23</td>
 <td><a href="https://github.com/OreNoImouto"><img src="https://avatars.githubusercontent.com/u/100583202?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OreNoImouto"><b>Geno</b></a><br><sub>&#64;OreNoImouto</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Pago Pago, American Samoa</sub></td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">24</td>
+<td><a href="https://github.com/stoner448"><img src="https://avatars.githubusercontent.com/u/360251557?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stoner448"><b>stoner</b></a><br><sub>&#64;stoner448</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>American Samoa</sub></td>
+</tr>
+<tr>
+<td align="right">25</td>
 <td><a href="https://github.com/tamasamoa684"><img src="https://avatars.githubusercontent.com/u/76517287?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tamasamoa684"><b>Howard Helg</b></a><br><sub>&#64;tamasamoa684</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>American Samoa</sub></td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">26</td>
 <td><a href="https://github.com/utulainamaenetafaese"><img src="https://avatars.githubusercontent.com/u/126843830?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/utulainamaenetafaese"><b>Utulaina Maene Tafaese</b></a><br><sub>&#64;utulainamaenetafaese</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -190,8 +211,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 23 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 1 of 34 in round 1.
+- Organizations are excluded. 26 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 4 of 34 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

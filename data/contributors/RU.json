@@ -5,7 +5,7 @@
 "country": {"code":"RU","name":"Russia","slug":"russia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":316,"measuredAccounts":9,"measurementBacklog":307,"window":{"from":"2025-11-24T11:00:00Z","to":"2026-11-24T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":200,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":386,"measuredAccounts":10,"measurementBacklog":376,"window":{"from":"2025-11-24T11:00:00Z","to":"2026-11-24T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":200,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjM2NTA4OQ==","login":"floatdrop","name":"Vsevolod Strukchinsky","url":"https://github.com/floatdrop","avatarUrl":"https://avatars.githubusercontent.com/u/365089?s=80&v=4","followers":530,"publicRepos":172,"location":"Russia, Yekaterinburg","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":4146,"commits":3033,"pullRequests":893,"reviews":4,"issues":188,"repositories":27,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":2,"id":"MDQ6VXNlcjEwMzcyMTU5","login":"webmakaka","name":"Marley","url":"https://github.com/webmakaka","avatarUrl":"https://avatars.githubusercontent.com/u/10372159?s=80&v=4","followers":307,"publicRepos":204,"location":"Russia, Moscow","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":2146,"commits":2080,"pullRequests":13,"reviews":0,"issues":2,"repositories":51,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
@@ -17,8 +17,8 @@
   {"rank":8,"id":"MDQ6VXNlcjE4MTY0NjE=","login":"Smorodov","name":"Andrey Smorodov","url":"https://github.com/Smorodov","avatarUrl":"https://avatars.githubusercontent.com/u/1816461?s=80&v=4","followers":303,"publicRepos":317,"location":"Russian Federation","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":73,"commits":60,"pullRequests":0,"reviews":0,"issues":0,"repositories":13,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":9,"id":"MDQ6VXNlcjY0NjA3MjY=","login":"ktaranov","name":"Konstantin Taranov","url":"https://github.com/ktaranov","avatarUrl":"https://avatars.githubusercontent.com/u/6460726?s=80&v=4","followers":430,"publicRepos":866,"location":"Moscow","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-23","contributions":{"public":18,"commits":7,"pullRequests":0,"reviews":0,"issues":0,"repositories":11,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "8b317183f3e7eaf9",
-"updatedAt": "2026-11-24T11:36:56.631Z",
+"contentHash": "f5fb9862653b66e9",
+"updatedAt": "2026-11-24T21:53:00.965Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T11:36:56.631Z"
+"generatedAt": "2026-11-24T21:53:00.965Z"
 }

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/OM.json">JSON</a> |
+| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/OM.json">JSON</a> |
 
 </div>
 
@@ -61,6 +61,15 @@
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/foxoman"><img src="https://avatars.githubusercontent.com/u/5356677?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/foxoman"><b>Sultan Al Isaiee</b></a><br><sub>&#64;foxoman · 102 followers</sub></td>
+<td align="right"><b>657</b></td>
+<td align="right">651</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/pylover"><img src="https://avatars.githubusercontent.com/u/1302253?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pylover"><b>Vahid</b></a><br><sub>&#64;pylover · 426 followers</sub></td>
 <td align="right"><b>593</b></td>
 <td align="right">579</td>
@@ -69,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/sanjeed5"><img src="https://avatars.githubusercontent.com/u/40694326?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sanjeed5"><b>Sanjeed</b></a><br><sub>&#64;sanjeed5 · 134 followers</sub></td>
 <td align="right"><b>526</b></td>
 <td align="right">358</td>
@@ -78,7 +87,7 @@
 <td align="right">8</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/Aslemammad"><img src="https://avatars.githubusercontent.com/u/37929992?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aslemammad"><b>Mohammad Bagher Abiyat</b></a><br><sub>&#64;Aslemammad · 893 followers</sub></td>
 <td align="right"><b>116</b></td>
 <td align="right">56</td>
@@ -87,7 +96,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/sweelam"><img src="https://avatars.githubusercontent.com/u/8615066?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sweelam"><b>Sweelam</b></a><br><sub>&#64;sweelam · 387 followers</sub></td>
 <td align="right"><b>98</b></td>
 <td align="right">88</td>
@@ -102,7 +111,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 9 of 400 discovered developers (391 awaiting measurement).
+- **Measured:** 10 of 398 discovered developers (388 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 41 in round 1.

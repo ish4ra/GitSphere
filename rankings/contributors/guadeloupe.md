@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/GP.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/GP.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,15 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/macojaune"><img src="https://avatars.githubusercontent.com/u/5950142?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/macojaune"><b>macojaune</b></a><br><sub>&#64;macojaune · 15 followers</sub></td>
+<td align="right"><b>428</b></td>
+<td align="right">343</td>
+<td align="right">78</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/shaneal972"><img src="https://avatars.githubusercontent.com/u/4418061?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shaneal972"><b>David JACQUA</b></a><br><sub>&#64;shaneal972 · 0 followers</sub></td>
 <td align="right"><b>128</b></td>
 <td align="right">126</td>
@@ -51,7 +60,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/Sylv1Vip"><img src="https://avatars.githubusercontent.com/u/198288305?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sylv1Vip"><b>Sylv1Vip</b></a><br><sub>&#64;Sylv1Vip · 0 followers</sub></td>
 <td align="right"><b>88</b></td>
 <td align="right">12</td>
@@ -60,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/RomainLAU"><img src="https://avatars.githubusercontent.com/u/91966189?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RomainLAU"><b>Romain LAURENT</b></a><br><sub>&#64;RomainLAU · 9 followers</sub></td>
 <td align="right"><b>55</b></td>
 <td align="right">48</td>
@@ -69,7 +78,7 @@
 <td align="right">3</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/ntxsay"><img src="https://avatars.githubusercontent.com/u/39699697?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ntxsay"><b>Loïc Bastaraud</b></a><br><sub>&#64;ntxsay · 1 followers</sub></td>
 <td align="right"><b>26</b></td>
 <td align="right">22</td>
@@ -78,7 +87,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/owatte"><img src="https://avatars.githubusercontent.com/u/991136?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/owatte"><b>Oliver Watte</b></a><br><sub>&#64;owatte · 12 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
@@ -93,7 +102,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 11 of 259 discovered developers (248 awaiting measurement).
+- **Measured:** 12 of 259 discovered developers (247 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 25 in round 1.

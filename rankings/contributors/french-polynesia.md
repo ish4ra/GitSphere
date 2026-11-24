@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/PF.json">JSON</a> |
+| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/PF.json">JSON</a> |
 
 </div>
 
@@ -52,6 +52,15 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/N1coc4colA"><img src="https://avatars.githubusercontent.com/u/50690360?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/N1coc4colA"><b>N1coc4colA</b></a><br><sub>&#64;N1coc4colA · 21 followers</sub></td>
+<td align="right"><b>323</b></td>
+<td align="right">300</td>
+<td align="right">19</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/jaffadog"><img src="https://avatars.githubusercontent.com/u/5514342?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jaffadog"><b>Jeremy Waters</b></a><br><sub>&#64;jaffadog · 2 followers</sub></td>
 <td align="right"><b>309</b></td>
 <td align="right">280</td>
@@ -60,7 +69,7 @@
 <td align="right">14</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/syllebra"><img src="https://avatars.githubusercontent.com/u/15978413?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/syllebra"><b>BilboX</b></a><br><sub>&#64;syllebra · 5 followers</sub></td>
 <td align="right"><b>213</b></td>
 <td align="right">187</td>
@@ -69,7 +78,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/aneopsy"><img src="https://avatars.githubusercontent.com/u/1937813?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aneopsy"><b>AneoPsy</b></a><br><sub>&#64;aneopsy · 27 followers</sub></td>
 <td align="right"><b>188</b></td>
 <td align="right">138</td>
@@ -78,7 +87,7 @@
 <td align="right">25</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/jalik"><img src="https://avatars.githubusercontent.com/u/1948429?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jalik"><b>Karl Stein</b></a><br><sub>&#64;jalik · 27 followers</sub></td>
 <td align="right"><b>138</b></td>
 <td align="right">135</td>
@@ -87,7 +96,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/paraita"><img src="https://avatars.githubusercontent.com/u/1413759?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/paraita"><b>Paraita Wohler</b></a><br><sub>&#64;paraita · 23 followers</sub></td>
 <td align="right"><b>96</b></td>
 <td align="right">90</td>
@@ -96,7 +105,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/MartinBINARD"><img src="https://avatars.githubusercontent.com/u/78610464?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MartinBINARD"><b>Martin Binard</b></a><br><sub>&#64;MartinBINARD · 7 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">7</td>
@@ -111,7 +120,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 11 of 125 discovered developers (114 awaiting measurement).
+- **Measured:** 12 of 125 discovered developers (113 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 2 of 55 in round 1.

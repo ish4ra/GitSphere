@@ -7,7 +7,7 @@
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
 "coverage": {"basis":"partial","cutoffFollowers":0,"candidates":398,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":104,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjgyMzQy","login":"ripienaar","name":"R.I.Pienaar","url":"https://github.com/ripienaar","avatarUrl":"https://avatars.githubusercontent.com/u/82342?s=80&v=4","followers":4062,"publicRepos":138,"location":"Malta","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":1,"id":"MDQ6VXNlcjgyMzQy","login":"ripienaar","name":"R.I.Pienaar","url":"https://github.com/ripienaar","avatarUrl":"https://avatars.githubusercontent.com/u/82342?s=80&v=4","followers":4074,"publicRepos":138,"location":"Malta","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":"MDQ6VXNlcjQ5NTM2NTI5","login":"CarlBugeja","name":"Carl Bugeja","url":"https://github.com/CarlBugeja","avatarUrl":"https://avatars.githubusercontent.com/u/49536529?s=80&v=4","followers":660,"publicRepos":14,"location":"Malta","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":3,"id":"MDQ6VXNlcjM1MjQyODcy","login":"nothingismagick","name":null,"url":"https://github.com/nothingismagick","avatarUrl":"https://avatars.githubusercontent.com/u/35242872?s=80&v=4","followers":609,"publicRepos":113,"location":"Malta","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":4,"id":"MDQ6VXNlcjE1OTc0MzIw","login":"ChintanTrivedi","name":"Chintan Trivedi","url":"https://github.com/ChintanTrivedi","avatarUrl":"https://avatars.githubusercontent.com/u/15974320?s=80&v=4","followers":553,"publicRepos":12,"location":"University of Malta","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
@@ -406,8 +406,8 @@
   {"rank":397,"id":"U_kgDOC-C7nA","login":"UncleVortan","name":"GaleaAutomation","url":"https://github.com/UncleVortan","avatarUrl":"https://avatars.githubusercontent.com/u/199277468?s=80&v=4","followers":0,"publicRepos":1,"location":"Malta","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":398,"id":"U_kgDOBxKegg","login":"WildWebWizard","name":"Wild Web Wizard","url":"https://github.com/WildWebWizard","avatarUrl":"https://avatars.githubusercontent.com/u/118660738?s=80&v=4","followers":0,"publicRepos":1,"location":"Malta","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "a2aa0295167980dc",
-"updatedAt": "2026-11-24T01:31:49.018Z",
+"contentHash": "e1d064d398e8cf3f",
+"updatedAt": "2026-11-24T21:53:00.965Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T01:31:49.018Z"
+"generatedAt": "2026-11-24T21:53:00.965Z"
 }

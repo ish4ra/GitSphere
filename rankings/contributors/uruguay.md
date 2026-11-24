@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/UY.json">JSON</a> |
+| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/UY.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,15 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/titoBouzout"><img src="https://avatars.githubusercontent.com/u/64156?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/titoBouzout"><b>Tito</b></a><br><sub>&#64;titoBouzout · 226 followers</sub></td>
+<td align="right"><b>684</b></td>
+<td align="right">650</td>
+<td align="right">29</td>
+<td align="right">1</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/fedegonc"><img src="https://avatars.githubusercontent.com/u/97002761?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fedegonc"><b>federico goncalvez</b></a><br><sub>&#64;fedegonc · 503 followers</sub></td>
 <td align="right"><b>613</b></td>
 <td align="right">598</td>
@@ -51,7 +60,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/diegomura"><img src="https://avatars.githubusercontent.com/u/5600341?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/diegomura"><b>Diego Muracciole</b></a><br><sub>&#64;diegomura · 1,780 followers</sub></td>
 <td align="right"><b>369</b></td>
 <td align="right">188</td>
@@ -60,7 +69,7 @@
 <td align="right">4</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/ElMassimo"><img src="https://avatars.githubusercontent.com/u/1158253?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ElMassimo"><b>Máximo Mussini</b></a><br><sub>&#64;ElMassimo · 535 followers</sub></td>
 <td align="right"><b>229</b></td>
 <td align="right">176</td>
@@ -69,7 +78,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/omab"><img src="https://avatars.githubusercontent.com/u/91022?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/omab"><b>Matías Aguirre</b></a><br><sub>&#64;omab · 420 followers</sub></td>
 <td align="right"><b>165</b></td>
 <td align="right">162</td>
@@ -78,7 +87,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/djabif"><img src="https://avatars.githubusercontent.com/u/1735814?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/djabif"><b>Dayana Jabif</b></a><br><sub>&#64;djabif · 278 followers</sub></td>
 <td align="right"><b>105</b></td>
 <td align="right">53</td>
@@ -87,7 +96,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/spastorino"><img src="https://avatars.githubusercontent.com/u/52642?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/spastorino"><b>Santiago Pastorino</b></a><br><sub>&#64;spastorino · 1,152 followers</sub></td>
 <td align="right"><b>38</b></td>
 <td align="right">23</td>
@@ -102,7 +111,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 8 of 408 discovered developers (400 awaiting measurement).
+- **Measured:** 9 of 410 discovered developers (401 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 80 in round 1.

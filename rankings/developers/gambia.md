@@ -59,7 +59,7 @@
 <tr>
 <td align="right">6</td>
 <td><a href="https://github.com/ansuofficial"><img src="https://avatars.githubusercontent.com/u/135176526?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ansuofficial"><b>Ansu</b></a><br><sub>&#64;ansuofficial</sub></td>
-<td align="right"><b>38</b></td>
+<td align="right"><b>37</b></td>
 <td align="right">73</td>
 <td><sub>The Gambia</sub></td>
 </tr>

@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **75** | 01 Nov 2026 | <a href="../data/HU.json">JSON</a> |
-
-> **Not yet re-verified.** 1 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **91** | 22 Nov 2026 | <a href="../data/HU.json">JSON</a> |
 
 </div>
 
@@ -543,9 +541,121 @@
 </tr>
 <tr>
 <td align="right">75</td>
-<td><img src="https://github.com/ferencb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ferencb/jqlistbox"><b>ferencb/jqlistbox</b></a></td>
-<td align="right"><b>9</b></td>
-<td align="right">7</td>
+<td><img src="https://github.com/sequenceiq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sequenceiq/docker-spark"><b>sequenceiq/docker-spark</b></a></td>
+<td align="right"><b>757</b></td>
+<td align="right">276</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/tevelee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tevelee/SwiftUI-Flow"><b>tevelee/SwiftUI-Flow</b></a><br><sub>Flow Layout implemented in SwiftUI</sub></td>
+<td align="right"><b>748</b></td>
+<td align="right">67</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/azazdeaz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/azazdeaz/react-gsap-enhancer"><b>azazdeaz/react-gsap-enhancer</b></a><br><sub>Use the full power of React and GSAP together</sub></td>
+<td align="right"><b>731</b></td>
+<td align="right">37</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/soyersoyer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/soyersoyer/SwCrypt"><b>soyersoyer/SwCrypt</b></a><br><sub>RSA public/private key generation, RSA, AES encryption/decryption, RSA sign/verify in Swift with CommonCrypto in iOS an…</sub></td>
+<td align="right"><b>730</b></td>
+<td align="right">119</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/Roverr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Roverr/rtsp-stream"><b>Roverr/rtsp-stream</b></a> <sub>archived</sub><br><sub>Out of box solution for RTSP - HLS live stream transcoding. Makes RTSP easy to play in browsers.</sub></td>
+<td align="right"><b>721</b></td>
+<td align="right">168</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/RobertoBenjami.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RobertoBenjami/stm32_graphics_display_drivers"><b>RobertoBenjami/stm32&#95;graphics&#95;display&#95;drivers</b></a><br><sub>STM32 LCD drivers (currently: spi(dma), gpio, fsmc(dma), st7735, st7783, ili9325, ili9328, ili9341, ili9486, ili9488, h…</sub></td>
+<td align="right"><b>703</b></td>
+<td align="right">123</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/softwaretailoring.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/softwaretailoring/wheelnav"><b>softwaretailoring/wheelnav</b></a><br><sub>Animated wheel navigation JavaScript library based on Raphaël.js (SVG/VML). It can be a pie menu (radial menu, circular…</sub></td>
+<td align="right"><b>703</b></td>
+<td align="right">98</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/pinterf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pinterf/xy-VSFilter"><b>pinterf/xy-VSFilter</b></a><br><sub>xy-VSFilter</sub></td>
+<td align="right"><b>703</b></td>
+<td align="right">29</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><img src="https://github.com/vbence.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vbence/stream-m"><b>vbence/stream-m</b></a><br><sub>An HTML5-compatible live streaming server supporting the WebM and H.264 formats.</sub></td>
+<td align="right"><b>698</b></td>
+<td align="right">139</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><img src="https://github.com/adamtheone.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adamtheone/canDrive"><b>adamtheone/canDrive</b></a><br><sub>Tools for hacking your car</sub></td>
+<td align="right"><b>696</b></td>
+<td align="right">180</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">85</td>
+<td><img src="https://github.com/balzss.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/balzss/luxbar"><b>balzss/luxbar</b></a> <sub>archived</sub><br><sub>:cocktail: Featherweight, Responsive, CSS Only Navigation Bar</sub></td>
+<td align="right"><b>693</b></td>
+<td align="right">57</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/ZeeCoder.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ZeeCoder/use-resize-observer"><b>ZeeCoder/use-resize-observer</b></a><br><sub>A React hook that allows you to use a ResizeObserver to measure an element&#39;s size.</sub></td>
+<td align="right"><b>681</b></td>
+<td align="right">43</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><img src="https://github.com/akarnokd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/akarnokd/RxJavaExtensions"><b>akarnokd/RxJavaExtensions</b></a><br><sub>RxJava 4.x extra sources, operators and components and ports of many 1.x companion libraries.</sub></td>
+<td align="right"><b>680</b></td>
+<td align="right">50</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><img src="https://github.com/mirzemehdi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mirzemehdi/KMPNotifier"><b>mirzemehdi/KMPNotifier</b></a><br><sub>Kotlin Multiplatform Push Notification Library targetting android, iOS, Desktop and Web (JS and Wasm)</sub></td>
+<td align="right"><b>672</b></td>
+<td align="right">48</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><img src="https://github.com/asciimoo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/asciimoo/omnom"><b>asciimoo/omnom</b></a><br><sub>A web content preservation service</sub></td>
+<td align="right"><b>669</b></td>
+<td align="right">41</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><img src="https://github.com/Hacklone.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Hacklone/private-bower"><b>Hacklone/private-bower</b></a><br><sub>A simple private bower registry</sub></td>
+<td align="right"><b>659</b></td>
+<td align="right">127</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/kovacsv.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kovacsv/JSModeler"><b>kovacsv/JSModeler</b></a><br><sub>A JavaScript framework to create and visualize 3D models.</sub></td>
+<td align="right"><b>652</b></td>
+<td align="right">123</td>
 <td>JavaScript</td>
 </tr>
 </tbody>
@@ -554,11 +664,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 9 stars; 75 attributed candidates are tracked.
-- 1 entries were carried over from the previous dataset and are pending revalidation.
-- 122 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 652 stars; 91 attributed candidates are tracked.
+- 117 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 153 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"SJ","name":"Svalbard & Jan Mayen","slug":"svalbard-jan-mayen"},
-"count": 26,
+"count": 25,
 "repositories": [
-  {"name":"encrize/fukOS","stars":7,"forks":0,"language":"C","license":"GPL-2.0","archived":false,"createdAt":"2026-07-12T07:47:53Z","pushedAt":"2026-08-21T14:01:53Z","owner":{"login":"encrize","type":"User","name":"encrize","location":"Svalbard og Jan Mayen"},"attribution":{"code":"SJ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-27T18:07:29.866Z","id":"legacy:encrize/fukos","legacy":true},
   {"name":"Rainbowed/TemplateEditor","stars":3,"forks":2,"language":"PHP","archived":false,"createdAt":"2014-07-06T19:13:56Z","pushedAt":"2014-07-06T19:16:25Z","owner":{"login":"Rainbowed","type":"User","name":"Cake","location":"Longyearbyen, Svalbard"},"attribution":{"code":"SJ","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-27T18:07:29.866Z","id":"legacy:rainbowed/templateeditor","legacy":true},
   {"name":"slipeer/synapse-ldap-password-provider","stars":2,"forks":2,"language":"Python","license":"Apache-2.0","archived":false,"createdAt":"2017-05-31T10:54:07Z","pushedAt":"2018-05-17T11:53:22Z","owner":{"login":"slipeer","type":"User","name":"Pavel","location":"Barentsburg, Svalbard og Jan Mayen"},"attribution":{"code":"SJ","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-27T18:07:29.866Z","id":"legacy:slipeer/synapse-ldap-password-provider","legacy":true},
   {"name":"ThawingLYR/monitoring-portal","stars":2,"forks":1,"language":"Python","license":"EUPL-1.2","archived":false,"createdAt":"2026-05-05T09:58:51Z","pushedAt":"2026-10-05T12:35:30Z","owner":{"login":"ThawingLYR","type":"Organization","name":"UNIS - ThawingLYR","location":"Svalbard and Jan Mayen Islands"},"attribution":{"code":"SJ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-27T18:07:29.866Z","id":"legacy:thawinglyr/monitoring-portal","legacy":true},

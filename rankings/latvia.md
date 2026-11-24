@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **46** | 01 Nov 2026 | <a href="../data/LV.json">JSON</a> |
+| 🟠 Stale | **42** | 01 Nov 2026 | <a href="../data/LV.json">JSON</a> |
 
-> **Not yet re-verified.** 11 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 1 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -270,76 +270,48 @@
 </tr>
 <tr>
 <td align="right">36</td>
-<td><img src="https://github.com/mx-alex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mx-alex/mx"><b>mx-alex/mx</b></a></td>
-<td align="right"><b>10</b></td>
-<td align="right">7</td>
-<td>ObjectScript</td>
+<td><img src="https://github.com/puikinsh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/puikinsh/concept"><b>puikinsh/concept</b></a><br><sub>Free Bootstrap 5 admin dashboard template with Vite build process</sub></td>
+<td align="right"><b>731</b></td>
+<td align="right">377</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td align="right">37</td>
-<td><img src="https://github.com/itsbonsaiborn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/itsbonsaiborn/vitepress-image-viewer"><b>itsbonsaiborn/vitepress-image-viewer</b></a></td>
-<td align="right"><b>10</b></td>
-<td align="right">4</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/containerum.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/containerum/containerum"><b>containerum/containerum</b></a><br><sub>Web UI for Kubernetes with teamwork and CI/CD support</sub></td>
+<td align="right"><b>719</b></td>
+<td align="right">51</td>
+<td>Smarty</td>
 </tr>
 <tr>
 <td align="right">38</td>
-<td><img src="https://github.com/karpusa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/karpusa/heroku-react-starter-kit"><b>karpusa/heroku-react-starter-kit</b></a></td>
-<td align="right"><b>10</b></td>
-<td align="right">4</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">39</td>
-<td><img src="https://github.com/LatvianModder.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LatvianModder/Gnome-Bot"><b>LatvianModder/Gnome-Bot</b></a></td>
-<td align="right"><b>9</b></td>
-<td align="right">3</td>
+<td><img src="https://github.com/attenzione.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/attenzione/android-ColorPickerPreference"><b>attenzione/android-ColorPickerPreference</b></a><br><sub>ColorPickerPreference for android to create color picker in preferences. Project created as Library</sub></td>
+<td align="right"><b>706</b></td>
+<td align="right">288</td>
 <td>Java</td>
 </tr>
 <tr>
+<td align="right">39</td>
+<td><img src="https://github.com/evanca.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/evanca/flutter-ai-rules"><b>evanca/flutter-ai-rules</b></a><br><sub>Flutter AI Skills and Rules for Claude, Codex, Cursor, and Other AI-Powered IDEs</sub></td>
+<td align="right"><b>675</b></td>
+<td align="right">67</td>
+<td>Shell</td>
+</tr>
+<tr>
 <td align="right">40</td>
-<td><img src="https://github.com/oleg-andreyev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/oleg-andreyev/MinkPhpWebDriver"><b>oleg-andreyev/MinkPhpWebDriver</b></a></td>
-<td align="right"><b>8</b></td>
-<td align="right">9</td>
+<td><img src="https://github.com/nuovo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nuovo/spreadsheet-reader"><b>nuovo/spreadsheet-reader</b></a><br><sub>A PHP spreadsheet reader (Excel XLS and XLSX, OpenOffice ODS, and variously separated text files) with a singular goal…</sub></td>
+<td align="right"><b>664</b></td>
+<td align="right">481</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">41</td>
-<td><img src="https://github.com/viks77.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/viks77/sire"><b>viks77/sire</b></a></td>
-<td align="right"><b>8</b></td>
-<td align="right">2</td>
-<td>Java</td>
+<td><img src="https://github.com/yarlson.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yarlson/lnk"><b>yarlson/lnk</b></a><br><sub>🔗 Git-native dotfiles management that doesn&#39;t suck.</sub></td>
+<td align="right"><b>656</b></td>
+<td align="right">16</td>
+<td>Go</td>
 </tr>
 <tr>
 <td align="right">42</td>
-<td><img src="https://github.com/LightSrc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LightSrc/void-pilot"><b>LightSrc/void-pilot</b></a></td>
-<td align="right"><b>8</b></td>
-<td align="right">0</td>
-<td>Zig</td>
-</tr>
-<tr>
-<td align="right">43</td>
-<td><img src="https://github.com/bettercalltolya.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bettercalltolya/ComposeMultiplatformDemo"><b>bettercalltolya/ComposeMultiplatformDemo</b></a></td>
-<td align="right"><b>7</b></td>
-<td align="right">0</td>
-<td>Kotlin</td>
-</tr>
-<tr>
-<td align="right">44</td>
-<td><img src="https://github.com/jur4x.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jur4x/PHP7-memcahe-dll"><b>jur4x/PHP7-memcahe-dll</b></a></td>
-<td align="right"><b>7</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">45</td>
-<td><img src="https://github.com/andrisdru.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/andrisdru/E2Transcoder"><b>andrisdru/E2Transcoder</b></a></td>
-<td align="right"><b>6</b></td>
-<td align="right">4</td>
-<td>CSS</td>
-</tr>
-<tr>
-<td align="right">46</td>
 <td><img src="https://github.com/Peteris-Zvejnieks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Peteris-Zvejnieks/MHT-X"><b>Peteris-Zvejnieks/MHT-X</b></a></td>
 <td align="right"><b>5</b></td>
 <td align="right">3</td>
@@ -353,9 +325,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 5 stars; 46 attributed candidates are tracked.
-- 11 entries were carried over from the previous dataset and are pending revalidation.
-- 123 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 5 stars; 42 attributed candidates are tracked.
+- 1 entries were carried over from the previous dataset and are pending revalidation.
+- 119 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 136 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

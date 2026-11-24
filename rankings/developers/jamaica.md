@@ -87,7 +87,7 @@
 <tr>
 <td align="right">10</td>
 <td><a href="https://github.com/m-oniqu3"><img src="https://avatars.githubusercontent.com/u/55692227?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/m-oniqu3"><b>monique</b></a><br><sub>&#64;m-oniqu3</sub></td>
-<td align="right"><b>222</b></td>
+<td align="right"><b>221</b></td>
 <td align="right">116</td>
 <td><sub>Jamaica</sub></td>
 </tr>

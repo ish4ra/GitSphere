@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **7** | 25 Oct 2026 | <a href="../data/CC.json">JSON</a> |
+| 🟠 Stale | **6** | 25 Oct 2026 | <a href="../data/CC.json">JSON</a> |
 
-> **Not yet re-verified.** 7 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 6 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -25,48 +25,41 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><img src="https://github.com/rohwid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rohwid/auto-nvidia-cuda-driver"><b>rohwid/auto-nvidia-cuda-driver</b></a></td>
-<td align="right"><b>6</b></td>
-<td align="right">3</td>
-<td>Shell</td>
-</tr>
-<tr>
-<td align="right">2</td>
 <td><img src="https://github.com/Justct.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Justct/justct.github.io"><b>Justct/justct.github.io</b></a></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
 <td>HTML</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">2</td>
 <td><img src="https://github.com/ImminentDisasterTeam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ImminentDisasterTeam/gmtk-jam-2021-project"><b>ImminentDisasterTeam/gmtk-jam-2021-project</b></a></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
 <td>C#</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">3</td>
 <td><img src="https://github.com/zklaunch-app.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zklaunch-app/data-handler"><b>zklaunch-app/data-handler</b></a></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">4</td>
 <td><img src="https://github.com/defiocean-io.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/defiocean-io/bell-platforms"><b>defiocean-io/bell-platforms</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">5</td>
 <td><img src="https://github.com/epichelloguy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/epichelloguy/deepjazz"><b>epichelloguy/deepjazz</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">6</td>
 <td><img src="https://github.com/funproxy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/funproxy/Documents"><b>funproxy/Documents</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -80,8 +73,8 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 0 stars; 7 attributed candidates are tracked.
-- 7 entries were carried over from the previous dataset and are pending revalidation.
+- **Cutoff:** the last listed repository has 0 stars; 6 attributed candidates are tracked.
+- 6 entries were carried over from the previous dataset and are pending revalidation.
 - 8 multi-repository owners are queued for expansion.
 - **Location discovery:** term 3 of 21 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

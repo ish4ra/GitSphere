@@ -87,7 +87,7 @@
 <tr>
 <td align="right">10</td>
 <td><a href="https://github.com/sangayt1997"><img src="https://avatars.githubusercontent.com/u/59992112?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sangayt1997"><b>Sangay Thinley</b></a><br><sub>&#64;sangayt1997</sub></td>
-<td align="right"><b>33</b></td>
+<td align="right"><b>32</b></td>
 <td align="right">49</td>
 <td><sub>Thimphu, Bhutan</sub></td>
 </tr>

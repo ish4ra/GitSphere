@@ -5,7 +5,7 @@
 "country": {"code":"SD","name":"Sudan","slug":"sudan"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":457,"measuredAccounts":9,"measurementBacklog":448,"window":{"from":"2025-11-24T11:00:00Z","to":"2026-11-24T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":106,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":457,"measuredAccounts":10,"measurementBacklog":447,"window":{"from":"2025-11-24T11:00:00Z","to":"2026-11-24T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":106,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOBnKvbg","login":"JohnMarit","name":"John Marit","url":"https://github.com/JohnMarit","avatarUrl":"https://avatars.githubusercontent.com/u/108179310?s=80&v=4","followers":36,"publicRepos":31,"location":"Juba-South Sudan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":452,"commits":429,"pullRequests":14,"reviews":0,"issues":0,"repositories":9,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":2,"id":"U_kgDOBfBcmQ","login":"John-Tongun","name":"John Tongun Wani","url":"https://github.com/John-Tongun","avatarUrl":"https://avatars.githubusercontent.com/u/99638425?s=80&v=4","followers":2,"publicRepos":70,"location":"Juba South Sudan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":333,"commits":260,"pullRequests":5,"reviews":0,"issues":3,"repositories":65,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
@@ -15,8 +15,8 @@
   {"rank":6,"id":"U_kgDODlViCg","login":"0xTarig","name":"Tarig","url":"https://github.com/0xTarig","avatarUrl":"https://avatars.githubusercontent.com/u/240476682?s=80&v=4","followers":0,"publicRepos":1,"location":"Sudan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":8,"commits":7,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":7,"id":"U_kgDOC5AtZg","login":"0xlong-sd","name":"Yassin.sd","url":"https://github.com/0xlong-sd","avatarUrl":"https://avatars.githubusercontent.com/u/193998182?s=80&v=4","followers":0,"publicRepos":2,"location":"sudan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "bed044ae53200517",
-"updatedAt": "2026-11-24T11:36:56.631Z",
+"contentHash": "f3f9119dac12a640",
+"updatedAt": "2026-11-24T21:53:00.965Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T11:36:56.631Z"
+"generatedAt": "2026-11-24T21:53:00.965Z"
 }

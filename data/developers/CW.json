@@ -20,8 +20,8 @@
   {"rank":11,"id":"MDQ6VXNlcjU5NTM3MjQ4","login":"LuukDAO","name":"LuukDAO","url":"https://github.com/LuukDAO","avatarUrl":"https://avatars.githubusercontent.com/u/59537248?s=80&v=4","followers":7,"publicRepos":3,"location":"Curaçao","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":12,"id":"MDQ6VXNlcjI2MjM4NTAz","login":"drosalia","name":"Darrell Rosalia","url":"https://github.com/drosalia","avatarUrl":"https://avatars.githubusercontent.com/u/26238503?s=80&v=4","followers":6,"publicRepos":2,"location":"Curaçao","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":13,"id":"MDQ6VXNlcjg4NjI0NTIw","login":"michaelfinies","name":"Michelangelo Finies","url":"https://github.com/michaelfinies","avatarUrl":"https://avatars.githubusercontent.com/u/88624520?s=80&v=4","followers":6,"publicRepos":1,"location":"Curaçao","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":14,"id":"MDQ6VXNlcjM4OTkxNTgx","login":"theowlsden","name":"Shaquil Maria","url":"https://github.com/theowlsden","avatarUrl":"https://avatars.githubusercontent.com/u/38991581?s=80&v=4","followers":5,"publicRepos":8,"location":"Curaçao","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":15,"id":"MDQ6VXNlcjE1OTMwNTU0","login":"RubenCUR","name":null,"url":"https://github.com/RubenCUR","avatarUrl":"https://avatars.githubusercontent.com/u/15930554?s=80&v=4","followers":5,"publicRepos":7,"location":"Curaçao","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":14,"id":"MDQ6VXNlcjM4OTkxNTgx","login":"theowlsden","name":"Shaquil Maria","url":"https://github.com/theowlsden","avatarUrl":"https://avatars.githubusercontent.com/u/38991581?s=80&v=4","followers":5,"publicRepos":8,"location":"Curaçao","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":15,"id":"MDQ6VXNlcjE1OTMwNTU0","login":"RubenCUR","name":null,"url":"https://github.com/RubenCUR","avatarUrl":"https://avatars.githubusercontent.com/u/15930554?s=80&v=4","followers":5,"publicRepos":7,"location":"Curaçao","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":16,"id":"MDQ6VXNlcjEyMTUzNzkz","login":"Nashmod","name":"Nashmod","url":"https://github.com/Nashmod","avatarUrl":"https://avatars.githubusercontent.com/u/12153793?s=80&v=4","followers":4,"publicRepos":7,"location":"Curaçao","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":17,"id":"MDQ6VXNlcjY0NDMxMDg3","login":"05v","name":"Vlad Verheij","url":"https://github.com/05v","avatarUrl":"https://avatars.githubusercontent.com/u/64431087?s=80&v=4","followers":4,"publicRepos":5,"location":"Curaçao","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":18,"id":"MDQ6VXNlcjM0NTEzMDMw","login":"coinversus","name":"CoinVersus","url":"https://github.com/coinversus","avatarUrl":"https://avatars.githubusercontent.com/u/34513030?s=80&v=4","followers":4,"publicRepos":0,"location":"Curaçao","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
@@ -92,8 +92,8 @@
   {"rank":83,"id":"U_kgDOD1kDZw","login":"wsueducw","name":"Western State University (WSU)","url":"https://github.com/wsueducw","avatarUrl":"https://avatars.githubusercontent.com/u/257491815?s=80&v=4","followers":0,"publicRepos":0,"location":"Western State University Cas Coraweg 105 Curaçao, Kingdom of the Netherlands Postal Code: CW0001","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":84,"id":"U_kgDODH_8jA","login":"Zenzi-Zunder","name":"Zenzi Zunder","url":"https://github.com/Zenzi-Zunder","avatarUrl":"https://avatars.githubusercontent.com/u/209714316?s=80&v=4","followers":0,"publicRepos":0,"location":"Willemstad, Curaçao","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "c6b5efc591c35ffc",
-"updatedAt": "2026-11-24T11:36:56.631Z",
+"contentHash": "c522daac8a190dd8",
+"updatedAt": "2026-11-24T21:53:00.965Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T11:36:56.631Z"
+"generatedAt": "2026-11-24T21:53:00.965Z"
 }

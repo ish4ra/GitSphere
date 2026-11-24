@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **42** | 03 Nov 2026 | <a href="../data/ZA.json">JSON</a> |
-
-> **Not yet re-verified.** 7 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **48** | 22 Nov 2026 | <a href="../data/ZA.json">JSON</a> |
 
 </div>
 
@@ -270,52 +268,94 @@
 </tr>
 <tr>
 <td align="right">36</td>
-<td><img src="https://github.com/CrispenGari.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CrispenGari/chatbot"><b>CrispenGari/chatbot</b></a></td>
-<td align="right"><b>11</b></td>
-<td align="right">2</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/ckurtm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ckurtm/FabButton"><b>ckurtm/FabButton</b></a> <sub>archived</sub><br><sub>Android Floating ActionButton with a progress indicator ring</sub></td>
+<td align="right"><b>756</b></td>
+<td align="right">149</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">37</td>
-<td><img src="https://github.com/dc9993.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dc9993/win-10-virtual-desktop-enhancer"><b>dc9993/win-10-virtual-desktop-enhancer</b></a></td>
-<td align="right"><b>11</b></td>
-<td align="right">2</td>
-<td>AutoHotkey</td>
+<td><img src="https://github.com/mvniekerk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mvniekerk/tokio-cron-scheduler"><b>mvniekerk/tokio-cron-scheduler</b></a><br><sub>Schedule tasks on Tokio using cron-like annotation</sub></td>
+<td align="right"><b>744</b></td>
+<td align="right">84</td>
+<td>Rust</td>
 </tr>
 <tr>
 <td align="right">38</td>
-<td><img src="https://github.com/jordan-arenstein.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jordan-arenstein/oni-plugin-touchbar"><b>jordan-arenstein/oni-plugin-touchbar</b></a> <sub>archived</sub></td>
-<td align="right"><b>10</b></td>
-<td align="right">0</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/smarzban.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/smarzban/herdr-file-viewer"><b>smarzban/herdr-file-viewer</b></a><br><sub>A git-aware, read-only file viewer for herdr. Mouse friendly, keyboard-driven TUI: tree + content pane with diffs, rend…</sub></td>
+<td align="right"><b>725</b></td>
+<td align="right">66</td>
+<td>Rust</td>
 </tr>
 <tr>
 <td align="right">39</td>
-<td><img src="https://github.com/nophora.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nophora/Datasets"><b>nophora/Datasets</b></a></td>
-<td align="right"><b>10</b></td>
-<td align="right">0</td>
-<td>Python</td>
+<td><img src="https://github.com/bookdash.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bookdash/bookdash-android-app"><b>bookdash/bookdash-android-app</b></a><br><sub>An Android app that lets you download free children&#39;s books in different languages from non-profit publisher Book Dash</sub></td>
+<td align="right"><b>711</b></td>
+<td align="right">257</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">40</td>
-<td><img src="https://github.com/karlie-moyo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/karlie-moyo/low_level_programming"><b>karlie-moyo/low&#95;level&#95;programming</b></a></td>
-<td align="right"><b>9</b></td>
-<td align="right">10</td>
-<td>C</td>
+<td><img src="https://github.com/jcass77.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jcass77/django-apscheduler"><b>jcass77/django-apscheduler</b></a><br><sub>APScheduler for Django</sub></td>
+<td align="right"><b>711</b></td>
+<td align="right">102</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">41</td>
-<td><img src="https://github.com/NickiMash17.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NickiMash17/TodoListApp"><b>NickiMash17/TodoListApp</b></a></td>
-<td align="right"><b>8</b></td>
-<td align="right">1</td>
-<td>C#</td>
+<td><img src="https://github.com/davidfraser.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/davidfraser/pyan"><b>davidfraser/pyan</b></a> <sub>archived</sub><br><sub>pyan is a Python module that performs static analysis of Python code to determine a call dependency graph between funct…</sub></td>
+<td align="right"><b>709</b></td>
+<td align="right">128</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">42</td>
-<td><img src="https://github.com/lefajmofokeng.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lefajmofokeng/Maluti-College"><b>lefajmofokeng/Maluti-College</b></a></td>
-<td align="right"><b>8</b></td>
-<td align="right">0</td>
-<td>HTML</td>
+<td><img src="https://github.com/tobykurien.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tobykurien/rpi_lcars"><b>tobykurien/rpi&#95;lcars</b></a> <sub>archived</sub><br><sub>Star Trek LCARS interface for Raspberry Pi using Pygame</sub></td>
+<td align="right"><b>697</b></td>
+<td align="right">144</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">43</td>
+<td><img src="https://github.com/VernonGrant.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/VernonGrant/gnu-c-language-manual"><b>VernonGrant/gnu-c-language-manual</b></a><br><sub>This is a mirror of Richard Stallman&#39;s GNU C Language Intro and Reference, available in Markdown and PDF.</sub></td>
+<td align="right"><b>695</b></td>
+<td align="right">44</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><img src="https://github.com/tiaanduplessis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tiaanduplessis/awesome-react-talks"><b>tiaanduplessis/awesome-react-talks</b></a><br><sub>:sunglasses: A curated list of talks about React or topics related to React</sub></td>
+<td align="right"><b>684</b></td>
+<td align="right">42</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">45</td>
+<td><img src="https://github.com/tiaanduplessis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tiaanduplessis/wenk"><b>tiaanduplessis/wenk</b></a><br><sub>:wink: Lightweight pure CSS tooltip for the greater good</sub></td>
+<td align="right"><b>683</b></td>
+<td align="right">41</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">46</td>
+<td><img src="https://github.com/AbsaOSS.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AbsaOSS/spline"><b>AbsaOSS/spline</b></a><br><sub>Data Lineage Tracking And Visualization Solution</sub></td>
+<td align="right"><b>669</b></td>
+<td align="right">154</td>
+<td>Scala</td>
+</tr>
+<tr>
+<td align="right">47</td>
+<td><img src="https://github.com/goccmack.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/goccmack/gocc"><b>goccmack/gocc</b></a><br><sub>Parser / Scanner Generator</sub></td>
+<td align="right"><b>665</b></td>
+<td align="right">50</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><img src="https://github.com/ej52.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ej52/proxmox-scripts"><b>ej52/proxmox-scripts</b></a></td>
+<td align="right"><b>663</b></td>
+<td align="right">306</td>
+<td>Shell</td>
 </tr>
 </tbody>
 </table>
@@ -323,12 +363,11 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 8 stars; 42 attributed candidates are tracked.
-- 7 entries were carried over from the previous dataset and are pending revalidation.
-- 125 multi-repository owners are queued for expansion.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Cutoff:** the last listed repository has 663 stars; 48 attributed candidates are tracked.
+- 123 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 144 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

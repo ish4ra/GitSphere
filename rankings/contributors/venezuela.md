@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/VE.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/VE.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,15 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/AlexR1712"><img src="https://avatars.githubusercontent.com/u/8460736?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlexR1712"><b>Alexander J. Rodriguez D.</b></a><br><sub>&#64;AlexR1712 · 230 followers</sub></td>
+<td align="right"><b>169</b></td>
+<td align="right">136</td>
+<td align="right">20</td>
+<td align="right">0</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/alexanyernas"><img src="https://avatars.githubusercontent.com/u/49798413?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexanyernas"><b>Alexanyer Naranjo</b></a><br><sub>&#64;alexanyernas · 294 followers</sub></td>
 <td align="right"><b>63</b></td>
 <td align="right">56</td>
@@ -51,7 +60,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/luisdgd07"><img src="https://avatars.githubusercontent.com/u/26287606?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/luisdgd07"><b>Luis Gonzalez</b></a><br><sub>&#64;luisdgd07 · 574 followers</sub></td>
 <td align="right"><b>15</b></td>
 <td align="right">11</td>
@@ -60,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/jacksonpf1"><img src="https://avatars.githubusercontent.com/u/83138568?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jacksonpf1"><b>Jackson Paredes Ferranti</b></a><br><sub>&#64;jacksonpf1 · 383 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">3</td>
@@ -69,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/jestevez"><img src="https://avatars.githubusercontent.com/u/775669?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jestevez"><b>Jose Luis Estevez</b></a><br><sub>&#64;jestevez · 322 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -84,7 +93,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 8 of 403 discovered developers (395 awaiting measurement).
+- **Measured:** 9 of 403 discovered developers (394 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 127 in round 1.

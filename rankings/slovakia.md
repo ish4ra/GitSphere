@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **43** | 03 Nov 2026 | <a href="../data/SK.json">JSON</a> |
+| 🟠 Stale | **46** | 03 Nov 2026 | <a href="../data/SK.json">JSON</a> |
 
-> **Not yet re-verified.** 8 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 4 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -270,55 +270,76 @@
 </tr>
 <tr>
 <td align="right">36</td>
-<td><img src="https://github.com/radovankavicky.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/radovankavicky/github-stickers-octodex"><b>radovankavicky/github-stickers-octodex</b></a></td>
-<td align="right"><b>7</b></td>
-<td align="right">2</td>
+<td><img src="https://github.com/RobinCsl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RobinCsl/awesome-js-tooling-not-in-js"><b>RobinCsl/awesome-js-tooling-not-in-js</b></a><br><sub>A curated list of JavaScript tooling not written in JavaScript</sub></td>
+<td align="right"><b>751</b></td>
+<td align="right">17</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">37</td>
-<td><img src="https://github.com/Gumeny.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Gumeny/modbus-rtu-serial-qt"><b>Gumeny/modbus-rtu-serial-qt</b></a></td>
-<td align="right"><b>7</b></td>
-<td align="right">1</td>
-<td>Makefile</td>
+<td><img src="https://github.com/Kin69.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Kin69/Athena"><b>Kin69/Athena</b></a><br><sub>Athena is a Material You (Material 3) firewall and ad blocker that works seamlessly on both rooted and non-rooted devic…</sub></td>
+<td align="right"><b>749</b></td>
+<td align="right">43</td>
+<td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">38</td>
-<td><img src="https://github.com/PatrikHudak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PatrikHudak/project_sonar_ssl"><b>PatrikHudak/project&#95;sonar&#95;ssl</b></a></td>
-<td align="right"><b>7</b></td>
-<td align="right">0</td>
-<td>Python</td>
+<td><img src="https://github.com/darsain.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/darsain/motio"><b>darsain/motio</b></a><br><sub>Small JavaScript library for sprite based animations and panning.</sub></td>
+<td align="right"><b>746</b></td>
+<td align="right">86</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">39</td>
-<td><img src="https://github.com/schnidi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/schnidi/venvhub"><b>schnidi/venvhub</b></a></td>
-<td align="right"><b>7</b></td>
-<td align="right">0</td>
-<td>Python</td>
+<td><img src="https://github.com/lalinsky.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lalinsky/zio"><b>lalinsky/zio</b></a><br><sub>Async I/O framework for Zig</sub></td>
+<td align="right"><b>708</b></td>
+<td align="right">53</td>
+<td>Zig</td>
 </tr>
 <tr>
 <td align="right">40</td>
+<td><img src="https://github.com/SimpleMobileTools.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SimpleMobileTools/Simple-Dialer"><b>SimpleMobileTools/Simple-Dialer</b></a><br><sub>A handy phone call manager with phonebook, number blocking and multi-SIM support</sub></td>
+<td align="right"><b>702</b></td>
+<td align="right">275</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">41</td>
+<td><img src="https://github.com/SimpleMobileTools.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SimpleMobileTools/Simple-SMS-Messenger"><b>SimpleMobileTools/Simple-SMS-Messenger</b></a><br><sub>An easy and quick way of managing SMS and MMS messages without ads.</sub></td>
+<td align="right"><b>671</b></td>
+<td align="right">228</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">42</td>
+<td><img src="https://github.com/henrichg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/henrichg/PhoneProfilesPlus"><b>henrichg/PhoneProfilesPlus</b></a><br><sub>Profile manager for Android - event triggered</sub></td>
+<td align="right"><b>668</b></td>
+<td align="right">36</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">43</td>
 <td><img src="https://github.com/fossilmfc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fossilmfc/terraform-provider-websupportsk"><b>fossilmfc/terraform-provider-websupportsk</b></a></td>
 <td align="right"><b>6</b></td>
 <td align="right">2</td>
 <td>Go</td>
 </tr>
 <tr>
-<td align="right">41</td>
+<td align="right">44</td>
 <td><img src="https://github.com/KollarM.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KollarM/WebAPIWithIdentityServerIntegrationTest"><b>KollarM/WebAPIWithIdentityServerIntegrationTest</b></a></td>
 <td align="right"><b>6</b></td>
 <td align="right">1</td>
 <td>C#</td>
 </tr>
 <tr>
-<td align="right">42</td>
+<td align="right">45</td>
 <td><img src="https://github.com/LANCER245.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LANCER245/Tiny-T_Sidepack"><b>LANCER245/Tiny-T&#95;Sidepack</b></a></td>
 <td align="right"><b>6</b></td>
 <td align="right">1</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">43</td>
+<td align="right">46</td>
 <td><img src="https://github.com/MatejBendik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MatejBendik/promptzone"><b>MatejBendik/promptzone</b></a></td>
 <td align="right"><b>5</b></td>
 <td align="right">0</td>
@@ -332,9 +353,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 5 stars; 43 attributed candidates are tracked.
-- 8 entries were carried over from the previous dataset and are pending revalidation.
-- 121 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 5 stars; 46 attributed candidates are tracked.
+- 4 entries were carried over from the previous dataset and are pending revalidation.
+- 115 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 150 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

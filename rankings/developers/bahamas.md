@@ -101,7 +101,7 @@
 <tr>
 <td align="right">12</td>
 <td><a href="https://github.com/travismillerweb"><img src="https://avatars.githubusercontent.com/u/1420233?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/travismillerweb"><b>Travis Miller</b></a><br><sub>&#64;travismillerweb</sub></td>
-<td align="right"><b>30</b></td>
+<td align="right"><b>29</b></td>
 <td align="right">37</td>
 <td><sub>Bahamas</sub></td>
 </tr>

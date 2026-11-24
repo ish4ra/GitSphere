@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **30** | 22 Nov 2026 | <a href="../../data/developers/AM.json">JSON</a> |
+| 🟡 Provisional | **36** | 22 Nov 2026 | <a href="../../data/developers/AM.json">JSON</a> |
 
 </div>
 
@@ -170,62 +170,104 @@
 </tr>
 <tr>
 <td align="right">22</td>
-<td><a href="https://github.com/NarHakobyan"><img src="https://avatars.githubusercontent.com/u/1781506?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NarHakobyan"><b>Narek Hakobyan</b></a><br><sub>&#64;NarHakobyan</sub></td>
-<td align="right"><b>223</b></td>
-<td align="right">0</td>
-<td><sub>Armenia</sub></td>
+<td><a href="https://github.com/nightwing"><img src="https://avatars.githubusercontent.com/u/341801?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nightwing"><b>Harutyun Amirjanyan</b></a><br><sub>&#64;nightwing</sub></td>
+<td align="right"><b>234</b></td>
+<td align="right">69</td>
+<td><sub>Yerevan, Armenia</sub></td>
 </tr>
 <tr>
 <td align="right">23</td>
+<td><a href="https://github.com/norayr"><img src="https://avatars.githubusercontent.com/u/11881650?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/norayr"><b>Norayr Chilingarian</b></a><br><sub>&#64;norayr</sub></td>
+<td align="right"><b>233</b></td>
+<td align="right">349</td>
+<td><sub>Yerevan, Armenia</sub></td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td><a href="https://github.com/amirhosein2015"><img src="https://avatars.githubusercontent.com/u/96079905?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amirhosein2015"><b>Abdollah</b></a><br><sub>&#64;amirhosein2015</sub></td>
+<td align="right"><b>230</b></td>
+<td align="right">14</td>
+<td><sub>Armenia</sub></td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td><a href="https://github.com/armdev"><img src="https://avatars.githubusercontent.com/u/467183?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/armdev"><b>Armen</b></a><br><sub>&#64;armdev</sub></td>
+<td align="right"><b>225</b></td>
+<td align="right">423</td>
+<td><sub>Armenia, Yerevan</sub></td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td><a href="https://github.com/NarHakobyan"><img src="https://avatars.githubusercontent.com/u/1781506?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NarHakobyan"><b>Narek Hakobyan</b></a><br><sub>&#64;NarHakobyan</sub></td>
+<td align="right"><b>223</b></td>
+<td align="right">77</td>
+<td><sub>Armenia</sub></td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td><a href="https://github.com/hayrapetyansami"><img src="https://avatars.githubusercontent.com/u/32421202?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hayrapetyansami"><b>Samvel Hayrapetyan &#91;Sami&#93;</b></a><br><sub>&#64;hayrapetyansami</sub></td>
+<td align="right"><b>222</b></td>
+<td align="right">39</td>
+<td><sub>Armenian, Yerevan</sub></td>
+</tr>
+<tr>
+<td align="right">28</td>
 <td><a href="https://github.com/robertlevonyan"><img src="https://avatars.githubusercontent.com/u/4151242?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/robertlevonyan"><b>Robert Levonyan</b></a><br><sub>&#64;robertlevonyan</sub></td>
 <td align="right"><b>199</b></td>
 <td align="right">0</td>
 <td><sub>Yerevan, Armenia</sub></td>
 </tr>
 <tr>
-<td align="right">24</td>
+<td align="right">29</td>
 <td><a href="https://github.com/vtereshkov"><img src="https://avatars.githubusercontent.com/u/52492460?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vtereshkov"><b>Vasiliy Tereshkov</b></a><br><sub>&#64;vtereshkov</sub></td>
 <td align="right"><b>179</b></td>
 <td align="right">0</td>
 <td><sub>Yerevan, Armenia</sub></td>
 </tr>
 <tr>
-<td align="right">25</td>
+<td align="right">30</td>
 <td><a href="https://github.com/shahen94"><img src="https://avatars.githubusercontent.com/u/13334788?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shahen94"><b>Shahen Hovhannisyan</b></a><br><sub>&#64;shahen94</sub></td>
 <td align="right"><b>155</b></td>
 <td align="right">0</td>
 <td><sub>Yerevan, Armenia</sub></td>
 </tr>
 <tr>
-<td align="right">26</td>
+<td align="right">31</td>
 <td><a href="https://github.com/Vagr9K"><img src="https://avatars.githubusercontent.com/u/5121786?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Vagr9K"><b>Ruben Harutyunyan</b></a><br><sub>&#64;Vagr9K</sub></td>
 <td align="right"><b>102</b></td>
 <td align="right">0</td>
 <td><sub>Yerevan, Armenia</sub></td>
 </tr>
 <tr>
-<td align="right">27</td>
+<td align="right">32</td>
 <td><a href="https://github.com/JaneySprings"><img src="https://avatars.githubusercontent.com/u/48021947?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JaneySprings"><b>Nikita Romanov</b></a><br><sub>&#64;JaneySprings</sub></td>
 <td align="right"><b>72</b></td>
 <td align="right">0</td>
 <td><sub>Yerevan</sub></td>
 </tr>
 <tr>
-<td align="right">28</td>
+<td align="right">33</td>
 <td><a href="https://github.com/m0n0x41d"><img src="https://avatars.githubusercontent.com/u/78234165?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/m0n0x41d"><b>ivan zakutni</b></a><br><sub>&#64;m0n0x41d</sub></td>
 <td align="right"><b>71</b></td>
 <td align="right">0</td>
 <td><sub>Armenia</sub></td>
 </tr>
 <tr>
-<td align="right">29</td>
+<td align="right">34</td>
+<td><a href="https://github.com/vpashkov"><img src="https://avatars.githubusercontent.com/u/1384378?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vpashkov"><b>Vadim Pashkov</b></a><br><sub>&#64;vpashkov</sub></td>
+<td align="right"><b>52</b></td>
+<td align="right">0</td>
+<td><sub>Yerevan</sub></td>
+</tr>
+<tr>
+<td align="right">35</td>
 <td><a href="https://github.com/sergeyksv"><img src="https://avatars.githubusercontent.com/u/1007040?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sergeyksv"><b>Sergey Korotkov</b></a><br><sub>&#64;sergeyksv</sub></td>
 <td align="right"><b>48</b></td>
 <td align="right">0</td>
 <td><sub>Yerevan, Armenia</sub></td>
 </tr>
 <tr>
-<td align="right">30</td>
+<td align="right">36</td>
 <td><a href="https://github.com/khanamiryan"><img src="https://avatars.githubusercontent.com/u/6542341?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/khanamiryan"><b>Ashot Khanamiryan</b></a><br><sub>&#64;khanamiryan</sub></td>
 <td align="right"><b>28</b></td>
 <td align="right">0</td>
@@ -239,7 +281,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 30 attributed developers are tracked; the cutoff is 28 followers.
+- Organizations are excluded. 36 attributed developers are tracked; the cutoff is 28 followers.
 - **Location discovery:** term 0 of 135 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

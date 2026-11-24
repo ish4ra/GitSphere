@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **30** | 01 Nov 2026 | <a href="../data/IR.json">JSON</a> |
-
-> **Not yet re-verified.** 1 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **36** | 22 Nov 2026 | <a href="../data/IR.json">JSON</a> |
 
 </div>
 
@@ -228,10 +226,52 @@
 </tr>
 <tr>
 <td align="right">30</td>
-<td><img src="https://github.com/abdian.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abdian/widget-usageClaude"><b>abdian/widget-usageClaude</b></a></td>
-<td align="right"><b>11</b></td>
-<td align="right">3</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/ultrasecurity.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ultrasecurity/webkiller"><b>ultrasecurity/webkiller</b></a><br><sub>Tool Information Gathering Write By Python.</sub></td>
+<td align="right"><b>751</b></td>
+<td align="right">177</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">31</td>
+<td><img src="https://github.com/niyumard.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/niyumard/Doom-Emacs-Cheat-Sheet"><b>niyumard/Doom-Emacs-Cheat-Sheet</b></a><br><sub>This is a cheat sheet for doom emacs, mostly from the guides I see online.</sub></td>
+<td align="right"><b>745</b></td>
+<td align="right">72</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">32</td>
+<td><img src="https://github.com/MatinGhanbari.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MatinGhanbari/v2ray-configs"><b>MatinGhanbari/v2ray-configs</b></a><br><sub>♾️ Free V2ray Configs, Updating Every 15 minutes.</sub></td>
+<td align="right"><b>719</b></td>
+<td align="right">84</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">33</td>
+<td><img src="https://github.com/vfarid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vfarid/v2ray-worker-sub"><b>vfarid/v2ray-worker-sub</b></a> <sub>archived</sub><br><sub>A Cloudflare&#39;s Worker script to gather free v2ray configs and mix them with worker in order to make them work over filt…</sub></td>
+<td align="right"><b>708</b></td>
+<td align="right">293</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">34</td>
+<td><img src="https://github.com/kavaan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kavaan/clean-architecture-solution-template"><b>kavaan/clean-architecture-solution-template</b></a><br><sub>You don&#39;t always need to start over; consider utilizing the existing infrastructure!</sub></td>
+<td align="right"><b>688</b></td>
+<td align="right">129</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">35</td>
+<td><img src="https://github.com/VahidN.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/VahidN/iTextSharp.LGPLv2.Core"><b>VahidN/iTextSharp.LGPLv2.Core</b></a><br><sub>iTextSharp.LGPLv2.Core is an unofficial port of the last LGPL version of the iTextSharp (V4.1.6) to .NET Core</sub></td>
+<td align="right"><b>678</b></td>
+<td align="right">167</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">36</td>
+<td><img src="https://github.com/majidh1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/majidh1/JalaliDatePicker"><b>majidh1/JalaliDatePicker</b></a><br><sub>A lightweight and simple jalali datepicker. powerful javascript datepicker with no dependencies</sub></td>
+<td align="right"><b>667</b></td>
+<td align="right">90</td>
+<td>TypeScript</td>
 </tr>
 </tbody>
 </table>
@@ -239,11 +279,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 11 stars; 30 attributed candidates are tracked.
-- 1 entries were carried over from the previous dataset and are pending revalidation.
-- 137 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 667 stars; 36 attributed candidates are tracked.
+- 131 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 159 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -5,7 +5,7 @@
 "country": {"code":"RW","name":"Rwanda","slug":"rwanda"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":249,"candidates":26,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":36,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":222,"candidates":29,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":36,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"U_kgDOCt7J9w","login":"Edouard144","name":"Edouard","url":"https://github.com/Edouard144","avatarUrl":"https://avatars.githubusercontent.com/u/182372855?s=80&v=4","followers":1841,"publicRepos":92,"location":"Kigali, Rwanda","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":2,"id":"U_kgDOCbjvbQ","login":"ikuzweelisa","name":"Ikuzwe","url":"https://github.com/ikuzweelisa","avatarUrl":"https://avatars.githubusercontent.com/u/163114861?s=80&v=4","followers":1667,"publicRepos":29,"location":"Rwanda","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
@@ -30,12 +30,15 @@
   {"rank":21,"id":"U_kgDOCGj9Mg","login":"Manzi-Elvis","name":"Elvis Manzi Rurangirwa","url":"https://github.com/Manzi-Elvis","avatarUrl":"https://avatars.githubusercontent.com/u/141098290?s=80&v=4","followers":296,"publicRepos":100,"location":"Rwanda","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":22,"id":"U_kgDOCySDow","login":"NTAGOZERAKevin","name":"NTAGOZERA Kevin","url":"https://github.com/NTAGOZERAKevin","avatarUrl":"https://avatars.githubusercontent.com/u/186942371?s=80&v=4","followers":292,"publicRepos":36,"location":"Kigali ,Rwanda","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":23,"id":"U_kgDOBvi8cA","login":"PATRICKNDIZEYE","name":null,"url":"https://github.com/PATRICKNDIZEYE","avatarUrl":"https://avatars.githubusercontent.com/u/116964464?s=80&v=4","followers":277,"publicRepos":74,"location":"rwanda","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
-  {"rank":24,"id":"U_kgDODO_COg","login":"ABDUSALIMSUBAHIELBASHI","name":"Abdu Salim [ Mr push ]","url":"https://github.com/ABDUSALIMSUBAHIELBASHI","avatarUrl":"https://avatars.githubusercontent.com/u/217039418?s=80&v=4","followers":256,"publicRepos":71,"location":"Rwanda 🇷🇼 Kigali","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":24,"id":"U_kgDODO_COg","login":"ABDUSALIMSUBAHIELBASHI","name":"Abdu Salim [ Mr push ]","url":"https://github.com/ABDUSALIMSUBAHIELBASHI","avatarUrl":"https://avatars.githubusercontent.com/u/217039418?s=80&v=4","followers":255,"publicRepos":71,"location":"Rwanda 🇷🇼 Kigali","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":25,"id":"MDQ6VXNlcjExMjU2NDgx","login":"Timtech4u","name":"Timothy Olaleke","url":"https://github.com/Timtech4u","avatarUrl":"https://avatars.githubusercontent.com/u/11256481?s=80&v=4","followers":251,"publicRepos":461,"location":"Kigali, Rwanda","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
-  {"rank":26,"id":"U_kgDOC7EmwQ","login":"12ELICHA34","name":"Ishema Elicha promesse","url":"https://github.com/12ELICHA34","avatarUrl":"https://avatars.githubusercontent.com/u/196159169?s=80&v=4","followers":249,"publicRepos":2,"location":"kicukiro","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-24"}
+  {"rank":26,"id":"U_kgDOC7EmwQ","login":"12ELICHA34","name":"Ishema Elicha promesse","url":"https://github.com/12ELICHA34","avatarUrl":"https://avatars.githubusercontent.com/u/196159169?s=80&v=4","followers":248,"publicRepos":2,"location":"kicukiro","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-24"},
+  {"rank":27,"id":"U_kgDOC8QtNQ","login":"IMENAKING","name":"IMENA KING","url":"https://github.com/IMENAKING","avatarUrl":"https://avatars.githubusercontent.com/u/197406005?s=80&v=4","followers":235,"publicRepos":3,"location":"rwanda","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":28,"id":"MDQ6VXNlcjg2MTIxMTMw","login":"Jadoiconic","name":"NIZEYIMANA Jean de Dieu","url":"https://github.com/Jadoiconic","avatarUrl":"https://avatars.githubusercontent.com/u/86121130?s=80&v=4","followers":225,"publicRepos":28,"location":"Kigali","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-24"},
+  {"rank":29,"id":"MDQ6VXNlcjM4NjM0OTc=","login":"API-Imperfect","name":"Alpha Omondi Ogilo","url":"https://github.com/API-Imperfect","avatarUrl":"https://avatars.githubusercontent.com/u/3863497?s=80&v=4","followers":222,"publicRepos":44,"location":"Kigali,Rwanda","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "7f31f58a4b61e3b0",
-"updatedAt": "2026-11-24T11:36:56.631Z",
+"contentHash": "c6c5d7f797d963a6",
+"updatedAt": "2026-11-24T21:53:00.965Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T11:36:56.631Z"
+"generatedAt": "2026-11-24T21:53:00.965Z"
 }

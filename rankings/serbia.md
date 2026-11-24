@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **58** | 22 Nov 2026 | <a href="../data/RS.json">JSON</a> |
+| 🟡 Provisional | **68** | 22 Nov 2026 | <a href="../data/RS.json">JSON</a> |
 
 </div>
 
@@ -427,6 +427,76 @@
 <td align="right">35</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">59</td>
+<td><img src="https://github.com/svlada.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/svlada/springboot-security-jwt"><b>svlada/springboot-security-jwt</b></a><br><sub>Token-based authentication using Spring Boot and JWT.</sub></td>
+<td align="right"><b>739</b></td>
+<td align="right">359</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><img src="https://github.com/milanm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/milanm/azure-cheat-sheet"><b>milanm/azure-cheat-sheet</b></a><br><sub>Every product, feature and service in the Azure family.</sub></td>
+<td align="right"><b>725</b></td>
+<td align="right">160</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><img src="https://github.com/kornrunner.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kornrunner/php-blurhash"><b>kornrunner/php-blurhash</b></a><br><sub>Pure PHP implementation of Blurhash (https://github.com/woltapp/blurhash)</sub></td>
+<td align="right"><b>712</b></td>
+<td align="right">19</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><img src="https://github.com/radianttap.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/radianttap/Coordinator"><b>radianttap/Coordinator</b></a><br><sub>Implementation of Coordinators app design pattern.</sub></td>
+<td align="right"><b>709</b></td>
+<td align="right">47</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/StefanKovac.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/StefanKovac/flex-layout-attribute"><b>StefanKovac/flex-layout-attribute</b></a><br><sub>HTML layout helper based on CSS flexbox specification —</sub></td>
+<td align="right"><b>706</b></td>
+<td align="right">57</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><img src="https://github.com/stojanovic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stojanovic/scottyjs"><b>stojanovic/scottyjs</b></a> <sub>archived</sub><br><sub>Deploy static websites and single page apps to AWS S3 and CloudFront with a single command</sub></td>
+<td align="right"><b>703</b></td>
+<td align="right">33</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><img src="https://github.com/ognjengt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ognjengt/founder-skills"><b>ognjengt/founder-skills</b></a><br><sub>Claude skills for founders</sub></td>
+<td align="right"><b>702</b></td>
+<td align="right">99</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><img src="https://github.com/sevdokimov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sevdokimov/log-viewer"><b>sevdokimov/log-viewer</b></a><br><sub>Web UI for viewing logs</sub></td>
+<td align="right"><b>701</b></td>
+<td align="right">139</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><img src="https://github.com/ynwarcs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ynwarcs/CVE-2024-38063"><b>ynwarcs/CVE-2024-38063</b></a><br><sub>poc for CVE-2024-38063 (RCE in tcpip.sys)</sub></td>
+<td align="right"><b>690</b></td>
+<td align="right">123</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><img src="https://github.com/artginzburg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/artginzburg/sudo-touchid"><b>artginzburg/sudo-touchid</b></a><br><sub> Permanent TouchID support 👆 for &#96;sudo&#96;.</sub></td>
+<td align="right"><b>688</b></td>
+<td align="right">16</td>
+<td>Shell</td>
+</tr>
 </tbody>
 </table>
 
@@ -435,7 +505,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 766 stars; 58 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 688 stars; 68 attributed candidates are tracked.
 - 1 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 148 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

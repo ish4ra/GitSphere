@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **47** | 03 Nov 2026 | <a href="../data/SI.json">JSON</a> |
+| 🟠 Stale | **43** | 03 Nov 2026 | <a href="../data/SI.json">JSON</a> |
 
-> **Not yet re-verified.** 16 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 2 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -242,111 +242,83 @@
 </tr>
 <tr>
 <td align="right">32</td>
-<td><img src="https://github.com/brodul.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/brodul/ansible-bacula"><b>brodul/ansible-bacula</b></a> <sub>archived</sub></td>
-<td align="right"><b>11</b></td>
-<td align="right">5</td>
-<td>Python</td>
+<td><img src="https://github.com/blazsolar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/blazsolar/FlowLayout"><b>blazsolar/FlowLayout</b></a><br><sub>Android implementation of FlowLayout. Layout arranges its children in multiple rows depending on their width.</sub></td>
+<td align="right"><b>744</b></td>
+<td align="right">144</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">33</td>
-<td><img src="https://github.com/MatoXD99.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MatoXD99/macOS-on-HP"><b>MatoXD99/macOS-on-HP</b></a></td>
-<td align="right"><b>11</b></td>
-<td align="right">3</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">34</td>
-<td><img src="https://github.com/boris42.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/boris42/booklet"><b>boris42/booklet</b></a></td>
-<td align="right"><b>11</b></td>
-<td align="right">1</td>
+<td><img src="https://github.com/gto76.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gto76/linux-cheatsheet"><b>gto76/linux-cheatsheet</b></a><br><sub>Comprehensive Linux Cheatsheet</sub></td>
+<td align="right"><b>732</b></td>
+<td align="right">223</td>
 <td>Shell</td>
 </tr>
 <tr>
+<td align="right">34</td>
+<td><img src="https://github.com/jzbontar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jzbontar/mc-cnn"><b>jzbontar/mc-cnn</b></a><br><sub>Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches</sub></td>
+<td align="right"><b>729</b></td>
+<td align="right">225</td>
+<td>Cuda</td>
+</tr>
+<tr>
 <td align="right">35</td>
-<td><img src="https://github.com/maticer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maticer/WooCommerce-Slovenian"><b>maticer/WooCommerce-Slovenian</b></a></td>
-<td align="right"><b>10</b></td>
-<td align="right">8</td>
-<td>—</td>
+<td><img src="https://github.com/Legoless.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Legoless/Alpha"><b>Legoless/Alpha</b></a><br><sub>Next generation debugging framework for iOS</sub></td>
+<td align="right"><b>729</b></td>
+<td align="right">43</td>
+<td>Objective-C</td>
 </tr>
 <tr>
 <td align="right">36</td>
-<td><img src="https://github.com/ZanPustoslemsek.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ZanPustoslemsek/a_Waltz_in_SPACE"><b>ZanPustoslemsek/a&#95;Waltz&#95;in&#95;SPACE</b></a></td>
-<td align="right"><b>10</b></td>
-<td align="right">2</td>
-<td>C#</td>
+<td><img src="https://github.com/aksonov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aksonov/react-native-tabs"><b>aksonov/react-native-tabs</b></a><br><sub>React Native platform-independent tabs. Could be used for bottom tab bars as well as sectioned views (with tab buttons)</sub></td>
+<td align="right"><b>725</b></td>
+<td align="right">112</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">37</td>
-<td><img src="https://github.com/sunderee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sunderee/carbide"><b>sunderee/carbide</b></a></td>
-<td align="right"><b>10</b></td>
-<td align="right">1</td>
-<td>Dart</td>
+<td><img src="https://github.com/alekseykulikov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alekseykulikov/backbone-offline"><b>alekseykulikov/backbone-offline</b></a><br><sub>&#91;Deprecated&#93; Allows your Backbone.js app to work offline</sub></td>
+<td align="right"><b>714</b></td>
+<td align="right">48</td>
+<td>CoffeeScript</td>
 </tr>
 <tr>
 <td align="right">38</td>
-<td><img src="https://github.com/avivosi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/avivosi/QR-Code-API-from-Good-Survey"><b>avivosi/QR-Code-API-from-Good-Survey</b></a></td>
-<td align="right"><b>9</b></td>
-<td align="right">4</td>
-<td>—</td>
+<td><img src="https://github.com/refaktor.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/refaktor/rye"><b>refaktor/rye</b></a><br><sub>Programming and interaction language. Flexible about syntax, strict about state.</sub></td>
+<td align="right"><b>711</b></td>
+<td align="right">33</td>
+<td>Go</td>
 </tr>
 <tr>
 <td align="right">39</td>
-<td><img src="https://github.com/Samotorcan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Samotorcan/HtmlUi"><b>Samotorcan/HtmlUi</b></a></td>
-<td align="right"><b>9</b></td>
-<td align="right">4</td>
+<td><img src="https://github.com/Jinjinov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Jinjinov/Hardware.Info"><b>Jinjinov/Hardware.Info</b></a><br><sub>Battery, BIOS, CPU - processor, storage drive, keyboard, RAM - memory, monitor, motherboard, mouse, NIC - network adapt…</sub></td>
+<td align="right"><b>708</b></td>
+<td align="right">104</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">40</td>
-<td><img src="https://github.com/marjanmo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/marjanmo/xsection"><b>marjanmo/xsection</b></a></td>
-<td align="right"><b>9</b></td>
-<td align="right">3</td>
+<td><img src="https://github.com/GregaVrbancic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/GregaVrbancic/fastapi-celery"><b>GregaVrbancic/fastapi-celery</b></a><br><sub>Minimal example utilizing fastapi and celery with RabbitMQ for task queue, Redis for celery backend and flower for moni…</sub></td>
+<td align="right"><b>663</b></td>
+<td align="right">112</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">41</td>
-<td><img src="https://github.com/leamars.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/leamars/PitchBlack"><b>leamars/PitchBlack</b></a></td>
-<td align="right"><b>9</b></td>
-<td align="right">1</td>
-<td>Swift</td>
+<td><img src="https://github.com/metayeti.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/metayeti/mINI"><b>metayeti/mINI</b></a><br><sub>INI file reader and writer</sub></td>
+<td align="right"><b>661</b></td>
+<td align="right">120</td>
+<td>C++</td>
 </tr>
 <tr>
 <td align="right">42</td>
-<td><img src="https://github.com/kostko.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kostko/dsc-it100"><b>kostko/dsc-it100</b></a></td>
-<td align="right"><b>8</b></td>
-<td align="right">5</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">43</td>
-<td><img src="https://github.com/19Joey85.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/19Joey85/Sentiment-annotated-news-corpus-and-sentiment-lexicon-in-Slovene"><b>19Joey85/Sentiment-annotated-news-corpus-and-sentiment-lexicon-in-Slovene</b></a></td>
-<td align="right"><b>8</b></td>
-<td align="right">3</td>
-<td>R</td>
-</tr>
-<tr>
-<td align="right">44</td>
-<td><img src="https://github.com/PingIsFun.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PingIsFun/HitBoxPlus"><b>PingIsFun/HitBoxPlus</b></a></td>
-<td align="right"><b>7</b></td>
-<td align="right">5</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">45</td>
-<td><img src="https://github.com/ecoralic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ecoralic/emojirand"><b>ecoralic/emojirand</b></a></td>
-<td align="right"><b>7</b></td>
-<td align="right">0</td>
-<td>Go</td>
-</tr>
-<tr>
-<td align="right">46</td>
 <td><img src="https://github.com/zmilan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zmilan/laravel-docker-setup"><b>zmilan/laravel-docker-setup</b></a></td>
 <td align="right"><b>6</b></td>
 <td align="right">2</td>
 <td>Dockerfile</td>
 </tr>
 <tr>
-<td align="right">47</td>
+<td align="right">43</td>
 <td><img src="https://github.com/bizzthemes.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bizzthemes/bizznis"><b>bizzthemes/bizznis</b></a></td>
 <td align="right"><b>6</b></td>
 <td align="right">1</td>
@@ -360,9 +332,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 6 stars; 47 attributed candidates are tracked.
-- 16 entries were carried over from the previous dataset and are pending revalidation.
-- 115 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 6 stars; 43 attributed candidates are tracked.
+- 2 entries were carried over from the previous dataset and are pending revalidation.
+- 111 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 220 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

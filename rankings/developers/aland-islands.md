@@ -66,7 +66,7 @@
 <tr>
 <td align="right">7</td>
 <td><a href="https://github.com/reneselander"><img src="https://avatars.githubusercontent.com/u/50113423?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/reneselander"><b>René Selander</b></a><br><sub>&#64;reneselander</sub></td>
-<td align="right"><b>24</b></td>
+<td align="right"><b>23</b></td>
 <td align="right">24</td>
 <td><sub>Åland</sub></td>
 </tr>
@@ -702,7 +702,7 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
 - Organizations are excluded. 96 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 1 of 33 in round 1.
+- **Location discovery:** term 4 of 33 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

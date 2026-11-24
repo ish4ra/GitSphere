@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **35** | 22 Nov 2026 | <a href="../data/CY.json">JSON</a> |
+| 🟡 Provisional | **41** | 22 Nov 2026 | <a href="../data/CY.json">JSON</a> |
 
 </div>
 
@@ -266,6 +266,48 @@
 <td align="right">157</td>
 <td>Java</td>
 </tr>
+<tr>
+<td align="right">36</td>
+<td><img src="https://github.com/dmsl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dmsl/anyplace"><b>dmsl/anyplace</b></a><br><sub>A free and open Indoor Navigation Service with superb accuracy!</sub></td>
+<td align="right"><b>752</b></td>
+<td align="right">317</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">37</td>
+<td><img src="https://github.com/silentsokolov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/silentsokolov/django-admin-rangefilter"><b>silentsokolov/django-admin-rangefilter</b></a><br><sub>A Django app that lets you filter data by date range and numeric range in the admin UI</sub></td>
+<td align="right"><b>744</b></td>
+<td align="right">110</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">38</td>
+<td><img src="https://github.com/blitzarx1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/blitzarx1/egui_graphs"><b>blitzarx1/egui&#95;graphs</b></a><br><sub>Interactive graph visualization widget for rust powered by egui and petgraph</sub></td>
+<td align="right"><b>716</b></td>
+<td align="right">76</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">39</td>
+<td><img src="https://github.com/stachenov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stachenov/quazip"><b>stachenov/quazip</b></a><br><sub>Qt/C++ wrapper over minizip</sub></td>
+<td align="right"><b>700</b></td>
+<td align="right">251</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">40</td>
+<td><img src="https://github.com/arkntools.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arkntools/arknights-toolbox"><b>arkntools/arknights-toolbox</b></a><br><sub>请前往 https://gitlab.com/arkntools/arknights-toolbox &#124; 🔨 Arknights Toolbox, all servers are supported. 明日方舟工具箱，全服支持</sub></td>
+<td align="right"><b>698</b></td>
+<td align="right">76</td>
+<td>Vue</td>
+</tr>
+<tr>
+<td align="right">41</td>
+<td><img src="https://github.com/FZambia.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FZambia/centrifuge"><b>FZambia/centrifuge</b></a> <sub>archived</sub><br><sub>Migrated to Go language, see https://github.com/centrifugal/centrifugo</sub></td>
+<td align="right"><b>672</b></td>
+<td align="right">35</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -274,8 +316,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 774 stars; 35 attributed candidates are tracked.
-- 117 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 672 stars; 41 attributed candidates are tracked.
+- 112 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 105 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
