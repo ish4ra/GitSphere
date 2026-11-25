@@ -14,20 +14,107 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🔵 Building | **0** | — | <a href="../../data/contributors/GY.json">JSON</a> |
+| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/GY.json">JSON</a> |
 
 </div>
 
-> Discovery for this country is still running. Results appear here automatically as soon as attributable entries are found and verified.
+<p align="center"><sub>Public contributions from <b>23 Nov 2025</b> to <b>23 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
+
+<table>
+<thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Public contributions</th><th align="right">Commits</th><th align="right">PRs</th><th align="right">Reviews</th><th align="right">Issues</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><a href="https://github.com/ktappdev"><img src="https://avatars.githubusercontent.com/u/66100652?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ktappdev"><b>Ken Andrew Taylor</b></a><br><sub>&#64;ktappdev · 6 followers</sub></td>
+<td align="right"><b>1,540</b></td>
+<td align="right">1,451</td>
+<td align="right">14</td>
+<td align="right">0</td>
+<td align="right">17</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/blackMastery"><img src="https://avatars.githubusercontent.com/u/9532587?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/blackMastery"><b>kevon Cadogan</b></a><br><sub>&#64;blackMastery · 7 followers</sub></td>
+<td align="right"><b>627</b></td>
+<td align="right">606</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/aG00Dtime"><img src="https://avatars.githubusercontent.com/u/77511476?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aG00Dtime"><b>David Henry</b></a><br><sub>&#64;aG00Dtime · 1 followers</sub></td>
+<td align="right"><b>317</b></td>
+<td align="right">301</td>
+<td align="right">4</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/barnwell"><img src="https://avatars.githubusercontent.com/u/3860678?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/barnwell"><b>Jason Barnwell</b></a><br><sub>&#64;barnwell · 9 followers</sub></td>
+<td align="right"><b>291</b></td>
+<td align="right">252</td>
+<td align="right">34</td>
+<td align="right">2</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/codedbychavez"><img src="https://avatars.githubusercontent.com/u/74829200?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codedbychavez"><b>Chavez Harris</b></a><br><sub>&#64;codedbychavez · 36 followers</sub></td>
+<td align="right"><b>239</b></td>
+<td align="right">186</td>
+<td align="right">48</td>
+<td align="right">2</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/rayonhunte"><img src="https://avatars.githubusercontent.com/u/5769425?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rayonhunte"><b>Rayon Hunte</b></a><br><sub>&#64;rayonhunte · 5 followers</sub></td>
+<td align="right"><b>169</b></td>
+<td align="right">102</td>
+<td align="right">59</td>
+<td align="right">2</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/Sa-YoorHeadley"><img src="https://avatars.githubusercontent.com/u/63974410?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sa-YoorHeadley"><b>Sa-Yoor Headley</b></a><br><sub>&#64;Sa-YoorHeadley · 3 followers</sub></td>
+<td align="right"><b>64</b></td>
+<td align="right">63</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/deonthomasgy"><img src="https://avatars.githubusercontent.com/u/150036?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/deonthomasgy"><b>Deon Thomas</b></a><br><sub>&#64;deonthomasgy · 18 followers</sub></td>
+<td align="right"><b>62</b></td>
+<td align="right">47</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/RolexAlexander"><img src="https://avatars.githubusercontent.com/u/102192701?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RolexAlexander"><b>Rolex Alexander</b></a><br><sub>&#64;RolexAlexander · 2 followers</sub></td>
+<td align="right"><b>47</b></td>
+<td align="right">32</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+</tbody>
+</table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Building. 
-- **Measured:** 1 of 156 discovered developers (155 awaiting measurement).
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
+- **Measured:** 12 of 257 discovered developers (245 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 36 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

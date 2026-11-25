@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/developers/VE.json">JSON</a> |
+| 🟡 Provisional | **20** | 22 Nov 2026 | <a href="../../data/developers/VE.json">JSON</a> |
 
 </div>
 
@@ -23,6 +23,139 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/luisdgd07"><img src="https://avatars.githubusercontent.com/u/26287606?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/luisdgd07"><b>Luis Gonzalez</b></a><br><sub>&#64;luisdgd07</sub></td>
+<td align="right"><b>574</b></td>
+<td align="right">33</td>
+<td><sub>Venezuela</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/lalan21j"><img src="https://avatars.githubusercontent.com/u/14109534?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lalan21j"><b>Luis Mata</b></a><br><sub>&#64;lalan21j</sub></td>
+<td align="right"><b>387</b></td>
+<td align="right">16</td>
+<td><sub>Caracas - Venezuela</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/jacksonpf1"><img src="https://avatars.githubusercontent.com/u/83138568?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jacksonpf1"><b>Jackson Paredes Ferranti</b></a><br><sub>&#64;jacksonpf1</sub></td>
+<td align="right"><b>383</b></td>
+<td align="right">19</td>
+<td><sub>Venezuela</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/samuelmarina"><img src="https://avatars.githubusercontent.com/u/59328925?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/samuelmarina"><b>Samuel Mariña</b></a><br><sub>&#64;samuelmarina</sub></td>
+<td align="right"><b>343</b></td>
+<td align="right">29</td>
+<td><sub>Venezuela</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/jestevez"><img src="https://avatars.githubusercontent.com/u/775669?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jestevez"><b>Jose Luis Estevez</b></a><br><sub>&#64;jestevez</sub></td>
+<td align="right"><b>322</b></td>
+<td align="right">166</td>
+<td><sub>Caracas - Venezuela</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/alexanyernas"><img src="https://avatars.githubusercontent.com/u/49798413?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexanyernas"><b>Alexanyer Naranjo</b></a><br><sub>&#64;alexanyernas</sub></td>
+<td align="right"><b>294</b></td>
+<td align="right">37</td>
+<td><sub>Venezuela</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/joakor89"><img src="https://avatars.githubusercontent.com/u/45221528?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joakor89"><b>Joaco L.</b></a><br><sub>&#64;joakor89</sub></td>
+<td align="right"><b>289</b></td>
+<td align="right">70</td>
+<td><sub>Caracas</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/danestves"><img src="https://avatars.githubusercontent.com/u/31737273?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danestves"><b>Daniel Esteves</b></a><br><sub>&#64;danestves</sub></td>
+<td align="right"><b>261</b></td>
+<td align="right">63</td>
+<td><sub>Venezuela</sub></td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/JellyBitz"><img src="https://avatars.githubusercontent.com/u/11470927?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JellyBitz"><b>Engels Quintero</b></a><br><sub>&#64;JellyBitz</sub></td>
+<td align="right"><b>237</b></td>
+<td align="right">24</td>
+<td><sub>Venezuela</sub></td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/AlexR1712"><img src="https://avatars.githubusercontent.com/u/8460736?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlexR1712"><b>Alexander J. Rodriguez D.</b></a><br><sub>&#64;AlexR1712</sub></td>
+<td align="right"><b>230</b></td>
+<td align="right">196</td>
+<td><sub>Barquisimeto, Lara, Venezuela</sub></td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/jaimeirazabal1"><img src="https://avatars.githubusercontent.com/u/3135301?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jaimeirazabal1"><b>Jaime Irazabal</b></a><br><sub>&#64;jaimeirazabal1</sub></td>
+<td align="right"><b>219</b></td>
+<td align="right">269</td>
+<td><sub>Venezuela</sub></td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><a href="https://github.com/VonHeikemen"><img src="https://avatars.githubusercontent.com/u/20980671?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VonHeikemen"><b>Heiker</b></a><br><sub>&#64;VonHeikemen</sub></td>
+<td align="right"><b>217</b></td>
+<td align="right">55</td>
+<td><sub>Venezuela</sub></td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><a href="https://github.com/thevacs"><img src="https://avatars.githubusercontent.com/u/8504550?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thevacs"><b>Juan Rivas</b></a><br><sub>&#64;thevacs</sub></td>
+<td align="right"><b>216</b></td>
+<td align="right">7</td>
+<td><sub>La Guaira, Venezuela</sub></td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><a href="https://github.com/GaboInsane6489"><img src="https://avatars.githubusercontent.com/u/218426526?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GaboInsane6489"><b>Gabriel González</b></a><br><sub>&#64;GaboInsane6489</sub></td>
+<td align="right"><b>202</b></td>
+<td align="right">28</td>
+<td><sub>Venezuela, Distrito Capital</sub></td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><a href="https://github.com/mardous"><img src="https://avatars.githubusercontent.com/u/37917778?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mardous"><b>Christian</b></a><br><sub>&#64;mardous</sub></td>
+<td align="right"><b>171</b></td>
+<td align="right">0</td>
+<td><sub>Venezuela</sub></td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><a href="https://github.com/maxsteeel"><img src="https://avatars.githubusercontent.com/u/109047395?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maxsteeel"><b>Max</b></a><br><sub>&#64;maxsteeel</sub></td>
+<td align="right"><b>112</b></td>
+<td align="right">0</td>
+<td><sub>Venezuela</sub></td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><a href="https://github.com/Th3-822"><img src="https://avatars.githubusercontent.com/u/1194200?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Th3-822"><b>Hedel Nasser</b></a><br><sub>&#64;Th3-822</sub></td>
+<td align="right"><b>85</b></td>
+<td align="right">0</td>
+<td><sub>Venezuela</sub></td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><a href="https://github.com/marsidev"><img src="https://avatars.githubusercontent.com/u/56328053?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marsidev"><b>Luis Marsiglia</b></a><br><sub>&#64;marsidev</sub></td>
+<td align="right"><b>67</b></td>
+<td align="right">0</td>
+<td><sub>Venezuela</sub></td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><a href="https://github.com/newmanls"><img src="https://avatars.githubusercontent.com/u/75286649?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/newmanls"><b>Newman Sánchez</b></a><br><sub>&#64;newmanls</sub></td>
+<td align="right"><b>31</b></td>
+<td align="right">0</td>
+<td><sub>Caracas, Venezuela</sub></td>
+</tr>
+<tr>
+<td align="right">20</td>
 <td><a href="https://github.com/13uLrr5JR63p8TrEkqhABMTHFBdihaFCWE"><img src="https://avatars.githubusercontent.com/u/30270664?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/13uLrr5JR63p8TrEkqhABMTHFBdihaFCWE"><b>Frank Vera</b></a><br><sub>&#64;13uLrr5JR63p8TrEkqhABMTHFBdihaFCWE</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
@@ -36,8 +169,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 1 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 20 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 0 of 127 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

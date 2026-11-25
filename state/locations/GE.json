@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"country": "GE",
+"round": 1,
+"roundStartedAt": "2026-11-22T22:06:25.081Z",
+"terms": {"count":167,"fingerprint":"167:a27649f5"},
+"termIndex": 3,
+"specIndex": 0,
+"active": null,
+"unresolved": [],
+"completedRounds": [],
+"stats": {"requests":6,"pages":6,"accounts":4},
+"updatedAt": "2026-11-22T22:06:27.406Z"
+}

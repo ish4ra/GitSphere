@@ -3,12 +3,20 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"IQ","name":"Iraq","slug":"iraq"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":1,"measurementBacklog":399,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "a7b046d4ddd030a6",
-"updatedAt": "2026-11-22T11:14:57.063Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"coverage": {"basis":"partial","discoveredAccounts":403,"measuredAccounts":12,"measurementBacklog":391,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":148,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"U_kgDOBp1f3w","login":"sajjad-salam","name":"sajjad_salam","url":"https://github.com/sajjad-salam","avatarUrl":"https://avatars.githubusercontent.com/u/110976991?s=80&v=4","followers":2989,"publicRepos":75,"location":"iraq-baghdad","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":173,"commits":124,"pullRequests":25,"reviews":0,"issues":13,"repositories":11,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"MDQ6VXNlcjU5NTM3ODY3","login":"aahmedahmed","name":"Ari Ahmed Ibrahim","url":"https://github.com/aahmedahmed","avatarUrl":"https://avatars.githubusercontent.com/u/59537867?s=80&v=4","followers":97,"publicRepos":469,"location":"Iraq","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":99,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":99,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":3,"id":"MDQ6VXNlcjgyNzMzNTg3","login":"RawandDev","name":"Rawand","url":"https://github.com/RawandDev","avatarUrl":"https://avatars.githubusercontent.com/u/82733587?s=80&v=4","followers":89,"publicRepos":77,"location":"Sulaymaniyah, Iraq","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":13,"commits":4,"pullRequests":4,"reviews":0,"issues":1,"repositories":4,"windowFrom":"2025-11-24T21:00:00Z","windowTo":"2026-11-24T21:00:00Z","measuredOn":"2026-11-24"}},
+  {"rank":4,"id":"MDQ6VXNlcjEyOTg4NTUx","login":"wisammechano","name":"Wisam Naji","url":"https://github.com/wisammechano","avatarUrl":"https://avatars.githubusercontent.com/u/12988551?s=80&v=4","followers":102,"publicRepos":120,"location":"Iraq, Erbil","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":12,"commits":7,"pullRequests":0,"reviews":0,"issues":2,"repositories":3,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":5,"id":"MDQ6VXNlcjQ0Njk3MDA0","login":"somarkn99","name":"Somar Kesen","url":"https://github.com/somarkn99","avatarUrl":"https://avatars.githubusercontent.com/u/44697004?s=80&v=4","followers":119,"publicRepos":75,"location":"Iraq, Erbil","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-25","contributions":{"public":7,"commits":4,"pullRequests":0,"reviews":0,"issues":1,"repositories":2,"windowFrom":"2025-11-25T04:00:00Z","windowTo":"2026-11-25T04:00:00Z","measuredOn":"2026-11-25"}},
+  {"rank":6,"id":"MDQ6VXNlcjUyNDIwMTI=","login":"falahgs","name":"Falah Gate Salieh","url":"https://github.com/falahgs","avatarUrl":"https://avatars.githubusercontent.com/u/5242012?s=80&v=4","followers":116,"publicRepos":302,"location":"Iraq Baghdad","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":7,"id":"MDQ6VXNlcjU5Njg2ODg3","login":"en-taha-saad","name":"Taha Saad","url":"https://github.com/en-taha-saad","avatarUrl":"https://avatars.githubusercontent.com/u/59686887?s=80&v=4","followers":104,"publicRepos":89,"location":"Iraq, Baghdad","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}}
+],
+"contentHash": "ddd39190f02d963a",
+"updatedAt": "2026-11-25T04:54:26.707Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

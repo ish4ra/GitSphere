@@ -4,11 +4,11 @@
 "round": 1,
 "roundStartedAt": "2026-11-22T10:53:36.976Z",
 "terms": {"count":48,"fingerprint":"48:5f52386"},
-"termIndex": 0,
+"termIndex": 2,
 "specIndex": 0,
-"active": {"term":"Belize","kind":"users","queue":[{"metric":[0,100000000],"created":null,"cursor":"Y3Vyc29yOjMwMA==","page":7,"retrieved":300,"attempts":0}],"unresolved":[],"cycleStartedAt":"2026-11-22T10:53:36.976Z","stats":{"pages":6}},
+"active": null,
 "unresolved": [],
 "completedRounds": [],
-"stats": {"requests":6,"pages":6,"accounts":300},
-"updatedAt": "2026-11-22T10:53:36.976Z"
+"stats": {"requests":12,"pages":12,"accounts":441},
+"updatedAt": "2026-11-25T04:27:23.536Z"
 }

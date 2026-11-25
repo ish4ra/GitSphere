@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/contributors/ER.json">JSON</a> |
+| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/ER.json">JSON</a> |
 
 </div>
 
@@ -32,6 +32,51 @@
 <td align="right">0</td>
 <td align="right">0</td>
 </tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/rami-star"><img src="https://avatars.githubusercontent.com/u/64677074?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rami-star"><b>ራሚኖ</b></a><br><sub>&#64;rami-star · 0 followers</sub></td>
+<td align="right"><b>28</b></td>
+<td align="right">26</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/Utikeles"><img src="https://avatars.githubusercontent.com/u/142643953?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Utikeles"><b>Utikeles</b></a><br><sub>&#64;Utikeles · 0 followers</sub></td>
+<td align="right"><b>22</b></td>
+<td align="right">21</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/SiemMeb"><img src="https://avatars.githubusercontent.com/u/322962789?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SiemMeb"><b>Siem Mebrahtu</b></a><br><sub>&#64;SiemMeb · 0 followers</sub></td>
+<td align="right"><b>14</b></td>
+<td align="right">10</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/Yuri4423"><img src="https://avatars.githubusercontent.com/u/307662243?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Yuri4423"><b>Georgina</b></a><br><sub>&#64;Yuri4423 · 0 followers</sub></td>
+<td align="right"><b>13</b></td>
+<td align="right">7</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/elpewpew"><img src="https://avatars.githubusercontent.com/u/129577468?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elpewpew"><b>elpewpew</b></a><br><sub>&#64;elpewpew · 0 followers</sub></td>
+<td align="right"><b>4</b></td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
 </tbody>
 </table>
 
@@ -39,10 +84,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 1 of 16 discovered developers (15 awaiting measurement).
+- **Measured:** 15 of 28 discovered developers (13 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 6 of 34 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

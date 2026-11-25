@@ -66,7 +66,7 @@
 <tr>
 <td align="right">7</td>
 <td><a href="https://github.com/reneselander"><img src="https://avatars.githubusercontent.com/u/50113423?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/reneselander"><b>René Selander</b></a><br><sub>&#64;reneselander</sub></td>
-<td align="right"><b>24</b></td>
+<td align="right"><b>23</b></td>
 <td align="right">24</td>
 <td><sub>Åland</sub></td>
 </tr>
@@ -109,7 +109,7 @@
 <td align="right">13</td>
 <td><a href="https://github.com/mareerray"><img src="https://avatars.githubusercontent.com/u/61106679?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mareerray"><b>Mayuree Reunsati</b></a><br><sub>&#64;mareerray</sub></td>
 <td align="right"><b>16</b></td>
-<td align="right">34</td>
+<td align="right">35</td>
 <td><sub>Mariehamn, Åland</sub></td>
 </tr>
 <tr>
@@ -121,17 +121,17 @@
 </tr>
 <tr>
 <td align="right">15</td>
+<td><a href="https://github.com/fatemekh78"><img src="https://avatars.githubusercontent.com/u/169391217?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fatemekh78"><b>Fatemeh</b></a><br><sub>&#64;fatemekh78</sub></td>
+<td align="right"><b>16</b></td>
+<td align="right">20</td>
+<td><sub>Mariehamn, Åland islands</sub></td>
+</tr>
+<tr>
+<td align="right">16</td>
 <td><a href="https://github.com/adrian-lui"><img src="https://avatars.githubusercontent.com/u/113538395?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adrian-lui"><b>Adrian Lui</b></a><br><sub>&#64;adrian-lui</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">14</td>
 <td><sub>Åland</sub></td>
-</tr>
-<tr>
-<td align="right">16</td>
-<td><a href="https://github.com/fatemekh78"><img src="https://avatars.githubusercontent.com/u/169391217?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fatemekh78"><b>Fatemeh</b></a><br><sub>&#64;fatemekh78</sub></td>
-<td align="right"><b>15</b></td>
-<td align="right">20</td>
-<td><sub>Mariehamn, Åland islands</sub></td>
 </tr>
 <tr>
 <td align="right">17</td>
@@ -193,7 +193,7 @@
 <td align="right">25</td>
 <td><a href="https://github.com/DanielssonThomas"><img src="https://avatars.githubusercontent.com/u/69715206?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DanielssonThomas"><b>Thomas Danielsson</b></a><br><sub>&#64;DanielssonThomas</sub></td>
 <td align="right"><b>6</b></td>
-<td align="right">26</td>
+<td align="right">28</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
@@ -702,7 +702,7 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
 - Organizations are excluded. 96 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 1 of 33 in round 1.
+- **Location discovery:** term 4 of 33 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

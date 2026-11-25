@@ -3,12 +3,16 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"TV","name":"Tuvalu","slug":"tuvalu"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":18,"measuredAccounts":1,"measurementBacklog":17,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "dc6acb328d9d2988",
-"updatedAt": "2026-11-22T11:14:57.063Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"coverage": {"basis":"partial","discoveredAccounts":26,"measuredAccounts":10,"measurementBacklog":16,"window":{"from":"2025-11-24T11:00:00Z","to":"2026-11-24T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":21,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjQ0NjkzOTg=","login":"xubeiyan","name":"xubeiyan","url":"https://github.com/xubeiyan","avatarUrl":"https://avatars.githubusercontent.com/u/4469398?s=80&v=4","followers":20,"publicRepos":35,"location":"Chenhai, Tuvalu(图瓦卢，辰海市)","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":97,"commits":77,"pullRequests":18,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
+  {"rank":2,"id":"MDQ6VXNlcjQyMTI0Njc=","login":"enaros","name":"Emiliano","url":"https://github.com/enaros","avatarUrl":"https://avatars.githubusercontent.com/u/4212467?s=80&v=4","followers":20,"publicRepos":55,"location":"Tuvalu","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":12,"commits":11,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
+  {"rank":3,"id":"U_kgDOCFsOZQ","login":"Dan-Creative","name":"Доктор Кал","url":"https://github.com/Dan-Creative","avatarUrl":"https://avatars.githubusercontent.com/u/140185189?s=80&v=4","followers":0,"publicRepos":3,"location":"Funafuti","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-24","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":1,"repositories":0,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}}
+],
+"contentHash": "20e562be03001cbc",
+"updatedAt": "2026-11-25T04:54:26.707Z",
+"verifiedOn": "2026-11-24",
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

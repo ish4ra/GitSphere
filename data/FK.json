@@ -5,7 +5,7 @@
 "country": {"code":"FK","name":"Falkland Islands","slug":"falkland-islands"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":15,"ownerExpansionBacklog":15,"candidates":15,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":15,"ownerExpansionBacklog":15,"candidates":15,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":20,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"hewn","nameWithOwner":"hewn-py/hewn","url":"https://github.com/hewn-py/hewn","description":null,"stars":2,"forks":0,"primaryLanguage":null,"license":{"spdxId":"ISC"},"createdAt":"2026-06-09T11:25:56Z","pushedAt":"2026-06-10T13:00:10Z","archived":false,"owner":{"login":"hewn-py","name":"Hewn","type":"Organization","url":"https://github.com/hewn-py","location":"Falkland Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"notes-winui3","nameWithOwner":"trrt54999/notes-winui3","url":"https://github.com/trrt54999/notes-winui3","description":null,"stars":2,"forks":0,"primaryLanguage":"C#","license":null,"createdAt":"2025-04-10T16:23:25Z","pushedAt":"2025-05-11T15:07:23Z","archived":false,"owner":{"login":"trrt54999","name":"trrt54999","type":"User","url":"https://github.com/trrt54999","location":"Falkland Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
@@ -23,8 +23,8 @@
   {"rank":14,"id":null,"name":"sphinx_rtd_theme","nameWithOwner":"TipsetFalseBan/sphinx_rtd_theme","url":"https://github.com/TipsetFalseBan/sphinx_rtd_theme","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-12-18T20:58:31Z","pushedAt":"2023-12-18T20:58:31Z","archived":false,"owner":{"login":"TipsetFalseBan","name":"TipsetFalseBan","type":"User","url":"https://github.com/TipsetFalseBan","location":"Falkland Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
   {"rank":15,"id":null,"name":"warpathprostfrost","nameWithOwner":"warpathprostfrost/warpathprostfrost","url":"https://github.com/warpathprostfrost/warpathprostfrost","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-25T00:40:46Z","pushedAt":"2024-09-25T00:40:59Z","archived":false,"owner":{"login":"warpathprostfrost","name":null,"type":"User","url":"https://github.com/warpathprostfrost","location":"Falkland Islands (FK)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-25","pendingRevalidation":true}
 ],
-"contentHash": "b955c6748bfda4b2",
-"updatedAt": "2026-11-22T08:41:14.246Z",
+"contentHash": "4e24762ab6f5dda5",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-10-25",
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

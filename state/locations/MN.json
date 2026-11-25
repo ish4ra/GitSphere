@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"country": "MN",
+"round": 1,
+"roundStartedAt": "2026-11-23T12:49:19.219Z",
+"terms": {"count":152,"fingerprint":"152:80a2b438"},
+"termIndex": 0,
+"specIndex": 0,
+"active": {"term":"Mongolia","kind":"users","queue":[{"metric":[0,12500000],"created":null,"cursor":null,"page":1}],"unresolved":[],"cycleStartedAt":"2026-11-23T12:49:19.219Z","stats":{"splits":3,"leaves":3,"pages":3}},
+"unresolved": [],
+"completedRounds": [],
+"stats": {"requests":6,"pages":3,"accounts":0},
+"updatedAt": "2026-11-23T12:49:19.219Z"
+}

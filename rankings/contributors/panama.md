@@ -14,20 +14,80 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🔵 Building | **0** | — | <a href="../../data/contributors/PA.json">JSON</a> |
+| 🟡 Provisional | **6** | 23 Nov 2026 | <a href="../../data/contributors/PA.json">JSON</a> |
 
 </div>
 
-> Discovery for this country is still running. Results appear here automatically as soon as attributable entries are found and verified.
+<p align="center"><sub>Public contributions from <b>23 Nov 2025</b> to <b>23 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
+
+<table>
+<thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Public contributions</th><th align="right">Commits</th><th align="right">PRs</th><th align="right">Reviews</th><th align="right">Issues</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><a href="https://github.com/alebeta06"><img src="https://avatars.githubusercontent.com/u/94909757?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alebeta06"><b>Alejandro Betancourt</b></a><br><sub>&#64;alebeta06 · 355 followers</sub></td>
+<td align="right"><b>804</b></td>
+<td align="right">789</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/MantisWare"><img src="https://avatars.githubusercontent.com/u/5867336?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MantisWare"><b>Waldo Marais</b></a><br><sub>&#64;MantisWare · 4 followers</sub></td>
+<td align="right"><b>165</b></td>
+<td align="right">56</td>
+<td align="right">22</td>
+<td align="right">0</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/gluneau"><img src="https://avatars.githubusercontent.com/u/2903505?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gluneau"><b>Gregory Luneau</b></a><br><sub>&#64;gluneau · 45 followers</sub></td>
+<td align="right"><b>52</b></td>
+<td align="right">29</td>
+<td align="right">17</td>
+<td align="right">0</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/152as"><img src="https://avatars.githubusercontent.com/u/131210767?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/152as"><b>Simon Becerra</b></a><br><sub>&#64;152as · 0 followers</sub></td>
+<td align="right"><b>30</b></td>
+<td align="right">25</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/4d3-sudo"><img src="https://avatars.githubusercontent.com/u/58711534?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/4d3-sudo"><b>ade.&#95;.lian</b></a><br><sub>&#64;4d3-sudo · 0 followers</sub></td>
+<td align="right"><b>7</b></td>
+<td align="right">5</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/4r13lpch3lp"><img src="https://avatars.githubusercontent.com/u/125678266?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/4r13lpch3lp"><b>spartan&#95;chief&#95;ch1n021</b></a><br><sub>&#64;4r13lpch3lp · 4 followers</sub></td>
+<td align="right"><b>5</b></td>
+<td align="right">4</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+</tbody>
+</table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Building. 
-- **Measured:** 1 of 400 discovered developers (399 awaiting measurement).
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
+- **Measured:** 11 of 401 discovered developers (390 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 81 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

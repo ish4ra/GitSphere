@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"country": "CZ",
+"round": 1,
+"roundStartedAt": "2026-11-22T22:02:20.933Z",
+"terms": {"count":178,"fingerprint":"178:21bebcf3"},
+"termIndex": 0,
+"specIndex": 0,
+"active": {"term":"Czechia","kind":"users","queue":[{"metric":[0,1562500],"created":null,"cursor":null,"page":1}],"unresolved":[],"cycleStartedAt":"2026-11-22T22:02:20.933Z","stats":{"splits":6,"leaves":6,"pages":6}},
+"unresolved": [],
+"completedRounds": [],
+"stats": {"requests":12,"pages":6,"accounts":0},
+"updatedAt": "2026-11-22T22:02:20.933Z"
+}

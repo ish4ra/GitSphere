@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **73** | 03 Nov 2026 | <a href="../data/ES.json">JSON</a> |
-
-> **Not yet re-verified.** 4 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/ES.json">JSON</a> |
 
 </div>
 
@@ -508,31 +506,220 @@
 </tr>
 <tr>
 <td align="right">70</td>
-<td><img src="https://github.com/NghiaTranUIT.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NghiaTranUIT/FeSpinner"><b>NghiaTranUIT/FeSpinner</b></a></td>
-<td align="right"><b>1,459</b></td>
-<td align="right">267</td>
-<td>Objective-C</td>
+<td><img src="https://github.com/qustavo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/qustavo/httplab"><b>qustavo/httplab</b></a><br><sub>The interactive web server</sub></td>
+<td align="right"><b>4,139</b></td>
+<td align="right">122</td>
+<td>Go</td>
 </tr>
 <tr>
 <td align="right">71</td>
-<td><img src="https://github.com/nucliweb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nucliweb/webperf-snippets"><b>nucliweb/webperf-snippets</b></a></td>
-<td align="right"><b>1,448</b></td>
-<td align="right">87</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/IAHispano.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/IAHispano/Applio"><b>IAHispano/Applio</b></a><br><sub>A simple, high-quality voice conversion tool focused on ease of use and performance.</sub></td>
+<td align="right"><b>4,057</b></td>
+<td align="right">637</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">72</td>
-<td><img src="https://github.com/carlosazaustre.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/carlosazaustre/tenacitOS"><b>carlosazaustre/tenacitOS</b></a></td>
-<td align="right"><b>1,255</b></td>
-<td align="right">236</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/mcuadros.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mcuadros/ofelia"><b>mcuadros/ofelia</b></a><br><sub>A docker job scheduler (aka. crontab for docker)</sub></td>
+<td align="right"><b>4,037</b></td>
+<td align="right">211</td>
+<td>Go</td>
 </tr>
 <tr>
 <td align="right">73</td>
-<td><img src="https://github.com/imranhsayed.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/imranhsayed/aquila"><b>imranhsayed/aquila</b></a></td>
-<td align="right"><b>1,057</b></td>
-<td align="right">210</td>
-<td>PHP</td>
+<td><img src="https://github.com/rebelytics.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rebelytics/one-skill-to-rule-them-all"><b>rebelytics/one-skill-to-rule-them-all</b></a><br><sub>The meta-skill that improves your skills, including itself. Turns the corrections, judgement calls and repeated workflo…</sub></td>
+<td align="right"><b>3,999</b></td>
+<td align="right">397</td>
+<td>Markdown</td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/mysticaltech.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mysticaltech/terraform-hcloud-kube-hetzner"><b>mysticaltech/terraform-hcloud-kube-hetzner</b></a><br><sub>Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!</sub></td>
+<td align="right"><b>3,949</b></td>
+<td align="right">557</td>
+<td>HCL</td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/a0rtega.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/a0rtega/pafish"><b>a0rtega/pafish</b></a> <sub>archived</sub><br><sub>Pafish is a testing tool that uses different techniques to detect virtual machines and malware analysis environments in…</sub></td>
+<td align="right"><b>3,947</b></td>
+<td align="right">500</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/gonzalezreal.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gonzalezreal/swift-markdown-ui"><b>gonzalezreal/swift-markdown-ui</b></a><br><sub>Maintenance mode — new development in Textual: https://github.com/gonzalezreal/textual</sub></td>
+<td align="right"><b>3,937</b></td>
+<td align="right">559</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/diego-vicente.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/diego-vicente/som-tsp"><b>diego-vicente/som-tsp</b></a><br><sub>Solving the Traveling Salesman Problem using Self-Organizing Maps</sub></td>
+<td align="right"><b>3,931</b></td>
+<td align="right">596</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/pwntester.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pwntester/ysoserial.net"><b>pwntester/ysoserial.net</b></a><br><sub>Deserialization payload generator for a variety of .NET formatters</sub></td>
+<td align="right"><b>3,810</b></td>
+<td align="right">526</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/MiguelCatalan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MiguelCatalan/MaterialSearchView"><b>MiguelCatalan/MaterialSearchView</b></a><br><sub>Cute library to implement SearchView in a Material Design Approach</sub></td>
+<td align="right"><b>3,800</b></td>
+<td align="right">617</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/Ereza.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ereza/CustomActivityOnCrash"><b>Ereza/CustomActivityOnCrash</b></a><br><sub>Android library that allows launching a custom activity when your app crashes, instead of showing the hated &quot;Unfortunat…</sub></td>
+<td align="right"><b>3,750</b></td>
+<td align="right">539</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/AtalayaLabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AtalayaLabs/OxiCloud"><b>AtalayaLabs/OxiCloud</b></a><br><sub>☁️ Ultra-fast, secure &amp; lightweight self-hosted cloud storage — your files, photos, calendars &amp; contacts, all in one pl…</sub></td>
+<td align="right"><b>3,739</b></td>
+<td align="right">196</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/ctubio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ctubio/Krypto-trading-bot"><b>ctubio/Krypto-trading-bot</b></a><br><sub>Self-hosted crypto trading bot (automated high frequency market making) written in C++</sub></td>
+<td align="right"><b>3,735</b></td>
+<td align="right">828</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><img src="https://github.com/wesammustafa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wesammustafa/Claude-Code-Quest"><b>wesammustafa/Claude-Code-Quest</b></a><br><sub>Claude Code guide in three levels, Beginner to Advanced: hands-on lessons with checked exercises, every volatile fact c…</sub></td>
+<td align="right"><b>3,721</b></td>
+<td align="right">418</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><img src="https://github.com/dreamingechoes.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dreamingechoes/awesome-mental-health"><b>dreamingechoes/awesome-mental-health</b></a><br><sub>A curated list of awesome articles, websites and resources about mental health in the software industry.</sub></td>
+<td align="right"><b>3,696</b></td>
+<td align="right">221</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">85</td>
+<td><img src="https://github.com/D3Ext.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/D3Ext/aesthetic-wallpapers"><b>D3Ext/aesthetic-wallpapers</b></a><br><sub>An awesome collection of aesthetic wallpapers</sub></td>
+<td align="right"><b>3,686</b></td>
+<td align="right">176</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/httptoolkit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/httptoolkit/httptoolkit"><b>httptoolkit/httptoolkit</b></a><br><sub>HTTP Toolkit is a beautiful &amp; open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux &amp; Mac…</sub></td>
+<td align="right"><b>3,677</b></td>
+<td align="right">123</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><img src="https://github.com/girafe-ai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/girafe-ai/ml-course"><b>girafe-ai/ml-course</b></a><br><sub>Open Machine Learning course</sub></td>
+<td align="right"><b>3,603</b></td>
+<td align="right">1,307</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><img src="https://github.com/panzerdp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/panzerdp/voca"><b>panzerdp/voca</b></a><br><sub>The ultimate JavaScript string library</sub></td>
+<td align="right"><b>3,584</b></td>
+<td align="right">134</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><img src="https://github.com/mrcodedev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mrcodedev/frontend-developer-resources"><b>mrcodedev/frontend-developer-resources</b></a><br><sub>Recursos gratuitos para empezar a ser un Frontend Developer o ampliar conocimientos</sub></td>
+<td align="right"><b>3,527</b></td>
+<td align="right">466</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><img src="https://github.com/krakjoe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/krakjoe/pthreads"><b>krakjoe/pthreads</b></a> <sub>archived</sub><br><sub>Threading for PHP - Share Nothing, Do Everything :)</sub></td>
+<td align="right"><b>3,441</b></td>
+<td align="right">493</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/axel-download-accelerator.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/axel-download-accelerator/axel"><b>axel-download-accelerator/axel</b></a><br><sub>Lightweight CLI download accelerator</sub></td>
+<td align="right"><b>3,431</b></td>
+<td align="right">311</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/pwntester.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pwntester/octo.nvim"><b>pwntester/octo.nvim</b></a><br><sub>Edit and review GitHub issues and pull requests from the comfort of your favorite editor</sub></td>
+<td align="right"><b>3,410</b></td>
+<td align="right">254</td>
+<td>Lua</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/marc2332.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/marc2332/freya"><b>marc2332/freya</b></a><br><sub>Cross-platform native GUI library for 🦀 Rust</sub></td>
+<td align="right"><b>3,396</b></td>
+<td align="right">156</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/deivid-rodriguez.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/deivid-rodriguez/byebug"><b>deivid-rodriguez/byebug</b></a><br><sub>Debugging in Ruby</sub></td>
+<td align="right"><b>3,355</b></td>
+<td align="right">329</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/aleixrodriala.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aleixrodriala/wa-tunnel"><b>aleixrodriala/wa-tunnel</b></a><br><sub>Tunneling Internet traffic over Whatsapp</sub></td>
+<td align="right"><b>3,346</b></td>
+<td align="right">166</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/six2dez.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/six2dez/OneListForAll"><b>six2dez/OneListForAll</b></a><br><sub>Rockyou for web fuzzing</sub></td>
+<td align="right"><b>3,298</b></td>
+<td align="right">545</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/moncho.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/moncho/dry"><b>moncho/dry</b></a><br><sub>dry - A Docker manager for the terminal &#64;</sub></td>
+<td align="right"><b>3,279</b></td>
+<td align="right">104</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/D3Ext.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/D3Ext/WEF"><b>D3Ext/WEF</b></a><br><sub>Wi-Fi Exploitation Framework</sub></td>
+<td align="right"><b>3,241</b></td>
+<td align="right">319</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/guillermolg00.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/guillermolg00/morphicons"><b>guillermolg00/morphicons</b></a><br><sub>Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 K…</sub></td>
+<td align="right"><b>3,239</b></td>
+<td align="right">101</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/TheCruZ.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TheCruZ/kdmapper"><b>TheCruZ/kdmapper</b></a><br><sub>KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory</sub></td>
+<td align="right"><b>3,218</b></td>
+<td align="right">679</td>
+<td>C++</td>
 </tr>
 </tbody>
 </table>
@@ -540,12 +727,11 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 1,057 stars; 73 attributed candidates are tracked.
-- 4 entries were carried over from the previous dataset and are pending revalidation.
-- 139 multi-repository owners are queued for expansion.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 3,218 stars; 150 attributed candidates are tracked.
+- 134 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 125 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

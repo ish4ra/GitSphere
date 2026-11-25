@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **100** | 16 Oct 2026 | <a href="../data/NZ.json">JSON</a> |
-
-> **Not yet re-verified.** 82 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/NZ.json">JSON</a> |
 
 </div>
 
@@ -151,577 +149,577 @@
 </tr>
 <tr>
 <td align="right">19</td>
-<td><img src="https://github.com/jesselau76.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jesselau76/ebook-GPT-translator"><b>jesselau76/ebook-GPT-translator</b></a></td>
-<td align="right"><b>1,734</b></td>
-<td align="right">208</td>
-<td>Python</td>
+<td><img src="https://github.com/ketoo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ketoo/NoahGameFrame"><b>ketoo/NoahGameFrame</b></a><br><sub>A fast, scalable, distributed game server engine/framework for C++, include the actor library, network library, can be…</sub></td>
+<td align="right"><b>4,170</b></td>
+<td align="right">1,110</td>
+<td>C++</td>
 </tr>
 <tr>
 <td align="right">20</td>
-<td><img src="https://github.com/lukemurraynz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lukemurraynz/awesome-azure-architecture"><b>lukemurraynz/awesome-azure-architecture</b></a></td>
-<td align="right"><b>1,730</b></td>
-<td align="right">354</td>
-<td>—</td>
+<td><img src="https://github.com/nrc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nrc/r4cppp"><b>nrc/r4cppp</b></a><br><sub>Rust for C++ programmers</sub></td>
+<td align="right"><b>3,895</b></td>
+<td align="right">299</td>
+<td>Rust</td>
 </tr>
 <tr>
 <td align="right">21</td>
-<td><img src="https://github.com/mikespook.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mikespook/gorbac"><b>mikespook/gorbac</b></a></td>
-<td align="right"><b>1,674</b></td>
-<td align="right">180</td>
-<td>Go</td>
+<td><img src="https://github.com/zeman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zeman/perfmap"><b>zeman/perfmap</b></a><br><sub>Front-end performance heatmap bookmarklet.</sub></td>
+<td align="right"><b>3,753</b></td>
+<td align="right">126</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">22</td>
-<td><img src="https://github.com/laher.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/laher/goxc"><b>laher/goxc</b></a> <sub>archived</sub></td>
-<td align="right"><b>1,661</b></td>
-<td align="right">78</td>
+<td><img src="https://github.com/cortesi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cortesi/devd"><b>cortesi/devd</b></a><br><sub>A local webserver for developers</sub></td>
+<td align="right"><b>3,469</b></td>
+<td align="right">147</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">23</td>
-<td><img src="https://github.com/nathanpeck.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nathanpeck/clui"><b>nathanpeck/clui</b></a></td>
-<td align="right"><b>1,659</b></td>
-<td align="right">40</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">24</td>
-<td><img src="https://github.com/avkonst.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/avkonst/hookstate"><b>avkonst/hookstate</b></a></td>
-<td align="right"><b>1,651</b></td>
-<td align="right">106</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">25</td>
-<td><img src="https://github.com/thenickdude.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thenickdude/wacom-driver-fix"><b>thenickdude/wacom-driver-fix</b></a></td>
-<td align="right"><b>1,607</b></td>
-<td align="right">70</td>
-<td>Makefile</td>
-</tr>
-<tr>
-<td align="right">26</td>
-<td><img src="https://github.com/hardbyte.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hardbyte/python-can"><b>hardbyte/python-can</b></a></td>
-<td align="right"><b>1,603</b></td>
-<td align="right">700</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">27</td>
-<td><img src="https://github.com/yeungon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yeungon/In-JavaScript-we-trust"><b>yeungon/In-JavaScript-we-trust</b></a></td>
-<td align="right"><b>1,547</b></td>
-<td align="right">317</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">28</td>
-<td><img src="https://github.com/avored.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/avored/laravel-ecommerce"><b>avored/laravel-ecommerce</b></a></td>
-<td align="right"><b>1,545</b></td>
-<td align="right">541</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">29</td>
-<td><img src="https://github.com/hellodigua.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hellodigua/code996-web"><b>hellodigua/code996-web</b></a> <sub>archived</sub></td>
-<td align="right"><b>1,533</b></td>
-<td align="right">55</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">30</td>
-<td><img src="https://github.com/ChenYilong.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ChenYilong/CollectionViewClassifyMenu"><b>ChenYilong/CollectionViewClassifyMenu</b></a></td>
-<td align="right"><b>1,529</b></td>
-<td align="right">359</td>
-<td>Objective-C</td>
-</tr>
-<tr>
-<td align="right">31</td>
-<td><img src="https://github.com/SmileyChris.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SmileyChris/django-countries"><b>SmileyChris/django-countries</b></a></td>
-<td align="right"><b>1,529</b></td>
-<td align="right">300</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">32</td>
-<td><img src="https://github.com/urbanadventurer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/urbanadventurer/username-anarchy"><b>urbanadventurer/username-anarchy</b></a></td>
-<td align="right"><b>1,481</b></td>
-<td align="right">167</td>
-<td>Ruby</td>
-</tr>
-<tr>
-<td align="right">33</td>
-<td><img src="https://github.com/meganz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/meganz/sdk"><b>meganz/sdk</b></a></td>
-<td align="right"><b>1,475</b></td>
-<td align="right">601</td>
-<td>C++</td>
-</tr>
-<tr>
-<td align="right">34</td>
-<td><img src="https://github.com/ElementZoom.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard"><b>ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard</b></a> <sub>archived</sub></td>
-<td align="right"><b>1,469</b></td>
-<td align="right">46</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">35</td>
-<td><img src="https://github.com/denandz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/denandz/sourcemapper"><b>denandz/sourcemapper</b></a></td>
-<td align="right"><b>1,461</b></td>
-<td align="right">144</td>
+<td><img src="https://github.com/sideshow.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sideshow/apns2"><b>sideshow/apns2</b></a><br><sub>⚡ HTTP/2 Apple Push Notification Service (APNs) push provider for Go — Send push notifications to iOS, tvOS, Safari and…</sub></td>
+<td align="right"><b>3,191</b></td>
+<td align="right">356</td>
 <td>Go</td>
 </tr>
 <tr>
-<td align="right">36</td>
-<td><img src="https://github.com/SamJoan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SamJoan/droopescan"><b>SamJoan/droopescan</b></a></td>
-<td align="right"><b>1,451</b></td>
-<td align="right">270</td>
-<td>HTML</td>
+<td align="right">24</td>
+<td><img src="https://github.com/benhoyt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/benhoyt/inih"><b>benhoyt/inih</b></a><br><sub>Simple .INI file parser in C, good for embedded systems</sub></td>
+<td align="right"><b>3,070</b></td>
+<td align="right">584</td>
+<td>C++</td>
 </tr>
 <tr>
-<td align="right">37</td>
-<td><img src="https://github.com/jonnnnyw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jonnnnyw/php-phantomjs"><b>jonnnnyw/php-phantomjs</b></a> <sub>archived</sub></td>
-<td align="right"><b>1,426</b></td>
-<td align="right">423</td>
-<td>PHP</td>
+<td align="right">25</td>
+<td><img src="https://github.com/kyrolabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kyrolabs/awesome-agents"><b>kyrolabs/awesome-agents</b></a><br><sub>🤖 Awesome list of AI Agents</sub></td>
+<td align="right"><b>3,014</b></td>
+<td align="right">1,017</td>
+<td>—</td>
 </tr>
 <tr>
-<td align="right">38</td>
-<td><img src="https://github.com/scottmckendry.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/scottmckendry/cyberdream.nvim"><b>scottmckendry/cyberdream.nvim</b></a></td>
-<td align="right"><b>1,413</b></td>
-<td align="right">59</td>
-<td>Lua</td>
+<td align="right">26</td>
+<td><img src="https://github.com/ashmind.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ashmind/SharpLab"><b>ashmind/SharpLab</b></a><br><sub>.NET language playground</sub></td>
+<td align="right"><b>2,993</b></td>
+<td align="right">224</td>
+<td>C#</td>
 </tr>
 <tr>
-<td align="right">39</td>
-<td><img src="https://github.com/SmileyChris.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SmileyChris/easy-thumbnails"><b>SmileyChris/easy-thumbnails</b></a></td>
-<td align="right"><b>1,409</b></td>
-<td align="right">325</td>
+<td align="right">27</td>
+<td><img src="https://github.com/Taiko2k.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Taiko2k/Tauon"><b>Taiko2k/Tauon</b></a><br><sub>Music player from another galaxy :milky&#95;way:</sub></td>
+<td align="right"><b>2,988</b></td>
+<td align="right">165</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">40</td>
-<td><img src="https://github.com/midarrlabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/midarrlabs/midarr-server"><b>midarrlabs/midarr-server</b></a></td>
-<td align="right"><b>1,408</b></td>
-<td align="right">39</td>
+<td align="right">28</td>
+<td><img src="https://github.com/cortesi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cortesi/modd"><b>cortesi/modd</b></a><br><sub>A flexible developer tool that runs processes and responds to filesystem changes</sub></td>
+<td align="right"><b>2,968</b></td>
+<td align="right">136</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td><img src="https://github.com/nathanpeck.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nathanpeck/awesome-ecs"><b>nathanpeck/awesome-ecs</b></a><br><sub>A curated list of awesome ECS guides, development tools, and resources</sub></td>
+<td align="right"><b>2,899</b></td>
+<td align="right">311</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td><img src="https://github.com/rusq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rusq/slackdump"><b>rusq/slackdump</b></a><br><sub>Save or export your private and public Slack messages, threads, files, and users locally without admin privileges.</sub></td>
+<td align="right"><b>2,875</b></td>
+<td align="right">179</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">31</td>
+<td><img src="https://github.com/ChenYilong.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ChenYilong/ParseSourceCodeStudy"><b>ChenYilong/ParseSourceCodeStudy</b></a><br><sub>Facebook开源的Parse源码分析【系列】</sub></td>
+<td align="right"><b>2,843</b></td>
+<td align="right">528</td>
+<td>Objective-C</td>
+</tr>
+<tr>
+<td align="right">32</td>
+<td><img src="https://github.com/mikespook.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mikespook/Learning-Go-zh-cn"><b>mikespook/Learning-Go-zh-cn</b></a><br><sub>一本学习 Go 语言的免费电子书。</sub></td>
+<td align="right"><b>2,638</b></td>
+<td align="right">530</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">33</td>
+<td><img src="https://github.com/loomio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/loomio/loomio"><b>loomio/loomio</b></a><br><sub>Loomio is a collaborative decision-making tool</sub></td>
+<td align="right"><b>2,634</b></td>
+<td align="right">710</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">34</td>
+<td><img src="https://github.com/ahwootech.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ahwootech/BRUTAL"><b>ahwootech/BRUTAL</b></a><br><sub>A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, wi…</sub></td>
+<td align="right"><b>2,541</b></td>
+<td align="right">175</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">35</td>
+<td><img src="https://github.com/alangrainger.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alangrainger/immich-public-proxy"><b>alangrainger/immich-public-proxy</b></a><br><sub>Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.</sub></td>
+<td align="right"><b>2,456</b></td>
+<td align="right">98</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">36</td>
+<td><img src="https://github.com/elalish.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/elalish/manifold"><b>elalish/manifold</b></a><br><sub>Geometry library for topological robustness</sub></td>
+<td align="right"><b>2,434</b></td>
+<td align="right">291</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">37</td>
+<td><img src="https://github.com/SwiftLaTeX.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SwiftLaTeX/SwiftLaTeX"><b>SwiftLaTeX/SwiftLaTeX</b></a><br><sub>SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor</sub></td>
+<td align="right"><b>2,320</b></td>
+<td align="right">144</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">38</td>
+<td><img src="https://github.com/edgurgel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/edgurgel/httpoison"><b>edgurgel/httpoison</b></a><br><sub>Yet Another HTTP client for Elixir powered by hackney</sub></td>
+<td align="right"><b>2,285</b></td>
+<td align="right">351</td>
 <td>Elixir</td>
 </tr>
 <tr>
-<td align="right">41</td>
-<td><img src="https://github.com/martynsmith.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/martynsmith/node-irc"><b>martynsmith/node-irc</b></a></td>
-<td align="right"><b>1,318</b></td>
-<td align="right">417</td>
+<td align="right">39</td>
+<td><img src="https://github.com/ageron.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ageron/handson-mlp"><b>ageron/handson-mlp</b></a><br><sub>A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python us…</sub></td>
+<td align="right"><b>2,270</b></td>
+<td align="right">707</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">40</td>
+<td><img src="https://github.com/paulkinzett.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/paulkinzett/toolbar"><b>paulkinzett/toolbar</b></a><br><sub>A tooltip style toolbar jQuery plugin</sub></td>
+<td align="right"><b>2,267</b></td>
+<td align="right">311</td>
 <td>JavaScript</td>
 </tr>
 <tr>
+<td align="right">41</td>
+<td><img src="https://github.com/meganz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/meganz/MEGAcmd"><b>meganz/MEGAcmd</b></a><br><sub>Command Line Interactive and Scriptable Application to access MEGA</sub></td>
+<td align="right"><b>2,234</b></td>
+<td align="right">429</td>
+<td>C++</td>
+</tr>
+<tr>
 <td align="right">42</td>
-<td><img src="https://github.com/dominictarr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dominictarr/scuttlebutt"><b>dominictarr/scuttlebutt</b></a></td>
-<td align="right"><b>1,317</b></td>
-<td align="right">66</td>
+<td><img src="https://github.com/dominictarr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dominictarr/event-stream"><b>dominictarr/event-stream</b></a> <sub>archived</sub><br><sub>EventStream is like functional programming meets IO</sub></td>
+<td align="right"><b>2,170</b></td>
+<td align="right">147</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">43</td>
-<td><img src="https://github.com/liamcottle.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/liamcottle/reticulum-meshchat"><b>liamcottle/reticulum-meshchat</b></a></td>
-<td align="right"><b>1,291</b></td>
-<td align="right">162</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">44</td>
-<td><img src="https://github.com/hadynz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hadynz/obsidian-kindle-plugin"><b>hadynz/obsidian-kindle-plugin</b></a></td>
-<td align="right"><b>1,286</b></td>
-<td align="right">94</td>
+<td><img src="https://github.com/hellodigua.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hellodigua/code996"><b>hellodigua/code996</b></a><br><sub>统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度。 Analyzes the commit time distribution of Git projects to infer coding work inten…</sub></td>
+<td align="right"><b>2,155</b></td>
+<td align="right">85</td>
 <td>TypeScript</td>
 </tr>
 <tr>
+<td align="right">44</td>
+<td><img src="https://github.com/bitshifter.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bitshifter/glam-rs"><b>bitshifter/glam-rs</b></a><br><sub>A simple and fast linear algebra library for games and graphics</sub></td>
+<td align="right"><b>2,099</b></td>
+<td align="right">209</td>
+<td>Rust</td>
+</tr>
+<tr>
 <td align="right">45</td>
-<td><img src="https://github.com/sebastien.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sebastien/cuisine"><b>sebastien/cuisine</b></a></td>
-<td align="right"><b>1,265</b></td>
+<td><img src="https://github.com/brendon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/brendon/acts_as_list"><b>brendon/acts&#95;as&#95;list</b></a><br><sub>An ActiveRecord plugin for managing lists.</sub></td>
+<td align="right"><b>2,077</b></td>
+<td align="right">357</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">46</td>
+<td><img src="https://github.com/benhoyt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/benhoyt/goawk"><b>benhoyt/goawk</b></a><br><sub>A POSIX-compliant AWK interpreter written in Go, with CSV support</sub></td>
+<td align="right"><b>2,072</b></td>
+<td align="right">105</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">47</td>
+<td><img src="https://github.com/ScenicFramework.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ScenicFramework/scenic"><b>ScenicFramework/scenic</b></a><br><sub>Core Scenic library</sub></td>
+<td align="right"><b>2,061</b></td>
+<td align="right">138</td>
+<td>Elixir</td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><img src="https://github.com/jsdecena.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jsdecena/laracom"><b>jsdecena/laracom</b></a><br><sub>Laravel FREE E-Commerce Software</sub></td>
+<td align="right"><b>2,040</b></td>
+<td align="right">854</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><img src="https://github.com/dominictarr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dominictarr/JSON.sh"><b>dominictarr/JSON.sh</b></a><br><sub>a pipeable JSON parser written in Bash</sub></td>
+<td align="right"><b>2,024</b></td>
+<td align="right">264</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><img src="https://github.com/severity1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/severity1/claude-code-prompt-improver"><b>severity1/claude-code-prompt-improver</b></a><br><sub>Intelligent prompt improver hook for Claude Code. Type vibes, ship precision.</sub></td>
+<td align="right"><b>1,972</b></td>
 <td align="right">157</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">46</td>
-<td><img src="https://github.com/jaedb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jaedb/Iris"><b>jaedb/Iris</b></a></td>
-<td align="right"><b>1,239</b></td>
-<td align="right">153</td>
+<td align="right">51</td>
+<td><img src="https://github.com/meganz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/meganz/MEGAsync"><b>meganz/MEGAsync</b></a><br><sub>Easy automated syncing between your computers and your MEGA Cloud Drive</sub></td>
+<td align="right"><b>1,929</b></td>
+<td align="right">312</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><img src="https://github.com/dominictarr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dominictarr/JSONStream"><b>dominictarr/JSONStream</b></a> <sub>archived</sub><br><sub>rawStream.pipe(JSONStream.parse()).pipe(streamOfObjects)</sub></td>
+<td align="right"><b>1,928</b></td>
+<td align="right">163</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">47</td>
-<td><img src="https://github.com/sl1pm4t.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sl1pm4t/k2tf"><b>sl1pm4t/k2tf</b></a></td>
+<td align="right">53</td>
+<td><img src="https://github.com/ageron.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ageron/tf2_course"><b>ageron/tf2&#95;course</b></a><br><sub>Notebooks for my &quot;Deep Learning with TensorFlow 2 and Keras&quot; course</sub></td>
+<td align="right"><b>1,907</b></td>
+<td align="right">528</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><img src="https://github.com/meganz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/meganz/android"><b>meganz/android</b></a><br><sub>MEGA Android App</sub></td>
+<td align="right"><b>1,900</b></td>
+<td align="right">409</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/yackermann.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yackermann/awesome-webauthn"><b>yackermann/awesome-webauthn</b></a><br><sub>🔐 A curated list of awesome WebAuthn and Passkey resources</sub></td>
+<td align="right"><b>1,862</b></td>
+<td align="right">156</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><img src="https://github.com/jchanvfx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jchanvfx/NodeGraphQt"><b>jchanvfx/NodeGraphQt</b></a><br><sub>A node graph UI framework written in python using Qt.</sub></td>
+<td align="right"><b>1,839</b></td>
+<td align="right">346</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><img src="https://github.com/madeleineostoja.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/madeleineostoja/rucksack"><b>madeleineostoja/rucksack</b></a><br><sub>A little bag of CSS superpowers, built on PostCSS</sub></td>
+<td align="right"><b>1,816</b></td>
+<td align="right">46</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><img src="https://github.com/acaudwell.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/acaudwell/Logstalgia"><b>acaudwell/Logstalgia</b></a><br><sub>replay or stream website access logs as a retro arcade game</sub></td>
+<td align="right"><b>1,807</b></td>
+<td align="right">171</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><img src="https://github.com/Zaneham.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Zaneham/Booth"><b>Zaneham/Booth</b></a><br><sub>Open-source CUDA, Triton and HIP compiler targeting multiple GPU and CPU architectures.</sub></td>
+<td align="right"><b>1,759</b></td>
+<td align="right">92</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><img src="https://github.com/lukemurraynz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lukemurraynz/awesome-azure-architecture"><b>lukemurraynz/awesome-azure-architecture</b></a><br><sub>AWESOME-Azure-Architecture - https://aka.ms/AwesomeAzureArchitecture</sub></td>
+<td align="right"><b>1,737</b></td>
+<td align="right">358</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><img src="https://github.com/jesselau76.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jesselau76/ebook-GPT-translator"><b>jesselau76/ebook-GPT-translator</b></a><br><sub>Enjoy reading with your favorite style.</sub></td>
+<td align="right"><b>1,736</b></td>
+<td align="right">206</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><img src="https://github.com/Windos.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Windos/BurntToast"><b>Windos/BurntToast</b></a> <sub>archived</sub><br><sub>Module for creating and displaying Toast Notifications on Microsoft Windows 10.</sub></td>
+<td align="right"><b>1,731</b></td>
+<td align="right">126</td>
+<td>PowerShell</td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/mikespook.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mikespook/gorbac"><b>mikespook/gorbac</b></a><br><sub>goRBAC provides a lightweight role-based access control (RBAC) implementation in Golang.</sub></td>
+<td align="right"><b>1,676</b></td>
+<td align="right">180</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><img src="https://github.com/laher.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/laher/goxc"><b>laher/goxc</b></a> <sub>archived</sub><br><sub>a build tool for Go, with a focus on cross-compiling, packaging and deployment</sub></td>
+<td align="right"><b>1,661</b></td>
+<td align="right">76</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><img src="https://github.com/nathanpeck.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nathanpeck/clui"><b>nathanpeck/clui</b></a><br><sub>Command Line UI toolkit for Node.js</sub></td>
+<td align="right"><b>1,659</b></td>
+<td align="right">39</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><img src="https://github.com/avkonst.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/avkonst/hookstate"><b>avkonst/hookstate</b></a><br><sub>The simple but very powerful and incredibly fast state management for React that is based on hooks</sub></td>
+<td align="right"><b>1,648</b></td>
+<td align="right">106</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><img src="https://github.com/RichardLitt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RichardLitt/awesome-fantasy"><b>RichardLitt/awesome-fantasy</b></a><br><sub>:european&#95;castle: Fantasy literature worth reading</sub></td>
+<td align="right"><b>1,624</b></td>
+<td align="right">164</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><img src="https://github.com/thenickdude.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thenickdude/wacom-driver-fix"><b>thenickdude/wacom-driver-fix</b></a><br><sub>Fixes the Wacom Bamboo, Graphire, Intuos 1+2+3 and Cintiq 1st gen tablet drivers for macOS Catalina, Big Sur, Monterey…</sub></td>
+<td align="right"><b>1,618</b></td>
+<td align="right">70</td>
+<td>Makefile</td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><img src="https://github.com/hardbyte.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hardbyte/python-can"><b>hardbyte/python-can</b></a><br><sub>The can package provides controller area network support for Python developers</sub></td>
+<td align="right"><b>1,616</b></td>
+<td align="right">713</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/mwh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mwh/dragon"><b>mwh/dragon</b></a><br><sub>Drag and drop source/target for X</sub></td>
+<td align="right"><b>1,572</b></td>
+<td align="right">50</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/yeungon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yeungon/In-JavaScript-we-trust"><b>yeungon/In-JavaScript-we-trust</b></a><br><sub>Embrace JavaScript naturally and confidently with coding challenges crafted not only for beginners but for JavaScript l…</sub></td>
+<td align="right"><b>1,544</b></td>
+<td align="right">314</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><img src="https://github.com/avored.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/avored/laravel-ecommerce"><b>avored/laravel-ecommerce</b></a><br><sub>AvoRed an Open Source Laravel Shopping Cart</sub></td>
+<td align="right"><b>1,539</b></td>
+<td align="right">539</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><img src="https://github.com/ChenYilong.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ChenYilong/CollectionViewClassifyMenu"><b>ChenYilong/CollectionViewClassifyMenu</b></a><br><sub>CollectionView做的两级菜单，可以折叠第二级菜单</sub></td>
+<td align="right"><b>1,531</b></td>
+<td align="right">358</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/SmileyChris.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SmileyChris/django-countries"><b>SmileyChris/django-countries</b></a><br><sub>A Django application that provides country choices for use with forms, flag icons static files, and a country field for…</sub></td>
+<td align="right"><b>1,528</b></td>
+<td align="right">300</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/hellodigua.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hellodigua/code996-web"><b>hellodigua/code996-web</b></a> <sub>archived</sub><br><sub>code996 web端实现</sub></td>
+<td align="right"><b>1,527</b></td>
+<td align="right">55</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/urbanadventurer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/urbanadventurer/username-anarchy"><b>urbanadventurer/username-anarchy</b></a><br><sub>Username tools for penetration testing</sub></td>
+<td align="right"><b>1,502</b></td>
+<td align="right">165</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/meganz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/meganz/sdk"><b>meganz/sdk</b></a><br><sub>MEGA C++ SDK</sub></td>
+<td align="right"><b>1,480</b></td>
+<td align="right">602</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/denandz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/denandz/sourcemapper"><b>denandz/sourcemapper</b></a><br><sub>Extract JavaScript source trees from Sourcemap files</sub></td>
+<td align="right"><b>1,475</b></td>
+<td align="right">145</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/ElementZoom.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard"><b>ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard</b></a> <sub>archived</sub><br><sub>Dynamic, adaptive Material Design 3 dashboard for Home Assistant with a transparent, modern aesthetic</sub></td>
+<td align="right"><b>1,463</b></td>
+<td align="right">46</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/SamJoan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SamJoan/droopescan"><b>SamJoan/droopescan</b></a><br><sub>A plugin-based scanner that aids security researchers in identifying issues with several CMSs, mainly Drupal &amp; Silverst…</sub></td>
+<td align="right"><b>1,454</b></td>
+<td align="right">268</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/scottmckendry.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/scottmckendry/cyberdream.nvim"><b>scottmckendry/cyberdream.nvim</b></a><br><sub>🤖💤 High-contrast, Futuristic &amp; Vibrant Neovim Colorscheme</sub></td>
+<td align="right"><b>1,433</b></td>
+<td align="right">62</td>
+<td>Lua</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/qfgaohao.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/qfgaohao/pytorch-ssd"><b>qfgaohao/pytorch-ssd</b></a><br><sub>MobileNetV1, MobileNetV2, VGG based SSD/SSD-lite implementation in Pytorch 1.0 / Pytorch 0.4. Out-of-box support for re…</sub></td>
+<td align="right"><b>1,429</b></td>
+<td align="right">539</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><img src="https://github.com/jonnnnyw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jonnnnyw/php-phantomjs"><b>jonnnnyw/php-phantomjs</b></a> <sub>archived</sub><br><sub>Execute PhantomJS commands through PHP</sub></td>
+<td align="right"><b>1,424</b></td>
+<td align="right">419</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><img src="https://github.com/SmileyChris.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SmileyChris/easy-thumbnails"><b>SmileyChris/easy-thumbnails</b></a><br><sub>Easy thumbnails for Django</sub></td>
+<td align="right"><b>1,408</b></td>
+<td align="right">325</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">85</td>
+<td><img src="https://github.com/midarrlabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/midarrlabs/midarr-server"><b>midarrlabs/midarr-server</b></a><br><sub>🔥Midarr, the minimal lightweight media server.</sub></td>
+<td align="right"><b>1,403</b></td>
+<td align="right">39</td>
+<td>Elixir</td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/liamcottle.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/liamcottle/reticulum-meshchat"><b>liamcottle/reticulum-meshchat</b></a><br><sub>A simple mesh network communications app powered by the Reticulum Network Stack.</sub></td>
+<td align="right"><b>1,332</b></td>
+<td align="right">177</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><img src="https://github.com/BigBadaboom.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/BigBadaboom/androidsvg"><b>BigBadaboom/androidsvg</b></a><br><sub>SVG rendering library for Android</sub></td>
+<td align="right"><b>1,323</b></td>
+<td align="right">255</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><img src="https://github.com/martynsmith.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/martynsmith/node-irc"><b>martynsmith/node-irc</b></a><br><sub>NodeJS IRC client library</sub></td>
+<td align="right"><b>1,319</b></td>
+<td align="right">416</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><img src="https://github.com/dominictarr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dominictarr/scuttlebutt"><b>dominictarr/scuttlebutt</b></a><br><sub>peer-to-peer replicatable data structure</sub></td>
+<td align="right"><b>1,316</b></td>
+<td align="right">66</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><img src="https://github.com/hadynz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hadynz/obsidian-kindle-plugin"><b>hadynz/obsidian-kindle-plugin</b></a><br><sub>Sync your Kindle notes and highlights directly into your Obsidian vault</sub></td>
+<td align="right"><b>1,300</b></td>
+<td align="right">99</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/sebastien.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sebastien/cuisine"><b>sebastien/cuisine</b></a><br><sub>Chef-like functionality for Fabric</sub></td>
+<td align="right"><b>1,264</b></td>
+<td align="right">157</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/jaedb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jaedb/Iris"><b>jaedb/Iris</b></a><br><sub>Discover, explore and manage your music library across multiple sources with this beautiful web-based interface. Iris i…</sub></td>
+<td align="right"><b>1,239</b></td>
+<td align="right">155</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/sl1pm4t.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sl1pm4t/k2tf"><b>sl1pm4t/k2tf</b></a><br><sub>Kubernetes YAML to Terraform HCL converter</sub></td>
 <td align="right"><b>1,230</b></td>
 <td align="right">107</td>
 <td>Go</td>
 </tr>
 <tr>
-<td align="right">48</td>
-<td><img src="https://github.com/aizhimou.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aizhimou/pigeon-pod"><b>aizhimou/pigeon-pod</b></a></td>
-<td align="right"><b>1,190</b></td>
-<td align="right">103</td>
+<td align="right">94</td>
+<td><img src="https://github.com/aizhimou.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aizhimou/pigeon-pod"><b>aizhimou/pigeon-pod</b></a><br><sub>Listen to YouTube &amp; Bilibili. Anywhere.</sub></td>
+<td align="right"><b>1,217</b></td>
+<td align="right">106</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">49</td>
-<td><img src="https://github.com/wseagar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wseagar/eight-dollars"><b>wseagar/eight-dollars</b></a></td>
-<td align="right"><b>1,182</b></td>
+<td align="right">95</td>
+<td><img src="https://github.com/yo-WASSUP.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yo-WASSUP/Good-Badminton"><b>yo-WASSUP/Good-Badminton</b></a><br><sub>🏸 AI Badminton Hawk-Eye System</sub></td>
+<td align="right"><b>1,188</b></td>
+<td align="right">306</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/wseagar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wseagar/eight-dollars"><b>wseagar/eight-dollars</b></a><br><sub>A browser extension that shows twitter blue vs real verified users</sub></td>
+<td align="right"><b>1,183</b></td>
 <td align="right">64</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">50</td>
-<td><img src="https://github.com/jeansfish.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jeansfish/RFC6749.zh-cn"><b>jeansfish/RFC6749.zh-cn</b></a></td>
+<td align="right">97</td>
+<td><img src="https://github.com/jeansfish.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jeansfish/RFC6749.zh-cn"><b>jeansfish/RFC6749.zh-cn</b></a><br><sub>A translation of simplified chinese for RFC 6749-The OAuth 2.0 Authorization Framework. RFC 6749 - OAuth 2.0授权框架简体中文翻译。</sub></td>
 <td align="right"><b>1,160</b></td>
-<td align="right">350</td>
+<td align="right">351</td>
 <td>Go</td>
 </tr>
 <tr>
-<td align="right">51</td>
-<td><img src="https://github.com/maknz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maknz/slack"><b>maknz/slack</b></a></td>
-<td align="right"><b>1,160</b></td>
+<td align="right">98</td>
+<td><img src="https://github.com/maknz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maknz/slack"><b>maknz/slack</b></a><br><sub>A simple PHP package for sending messages to Slack, with a focus on ease of use and elegant syntax.</sub></td>
+<td align="right"><b>1,157</b></td>
 <td align="right">205</td>
 <td>PHP</td>
 </tr>
 <tr>
-<td align="right">52</td>
-<td><img src="https://github.com/Arachnid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Arachnid/solidity-stringutils"><b>Arachnid/solidity-stringutils</b></a></td>
-<td align="right"><b>1,155</b></td>
-<td align="right">371</td>
+<td align="right">99</td>
+<td><img src="https://github.com/Arachnid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Arachnid/solidity-stringutils"><b>Arachnid/solidity-stringutils</b></a><br><sub>Basic string utilities for Solidity</sub></td>
+<td align="right"><b>1,156</b></td>
+<td align="right">372</td>
 <td>Solidity</td>
 </tr>
 <tr>
-<td align="right">53</td>
-<td><img src="https://github.com/meganz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/meganz/webclient"><b>meganz/webclient</b></a></td>
-<td align="right"><b>1,141</b></td>
-<td align="right">311</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">54</td>
-<td><img src="https://github.com/ChenYilong.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ChenYilong/iOSBlog"><b>ChenYilong/iOSBlog</b></a></td>
-<td align="right"><b>1,119</b></td>
-<td align="right">184</td>
-<td>Objective-C</td>
-</tr>
-<tr>
-<td align="right">55</td>
-<td><img src="https://github.com/edsrzf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/edsrzf/mmap-go"><b>edsrzf/mmap-go</b></a></td>
-<td align="right"><b>1,114</b></td>
-<td align="right">136</td>
-<td>Go</td>
-</tr>
-<tr>
-<td align="right">56</td>
-<td><img src="https://github.com/brendon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/brendon/ranked-model"><b>brendon/ranked-model</b></a></td>
-<td align="right"><b>1,094</b></td>
-<td align="right">134</td>
-<td>Ruby</td>
-</tr>
-<tr>
-<td align="right">57</td>
-<td><img src="https://github.com/edgurgel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/edgurgel/poxa"><b>edgurgel/poxa</b></a></td>
-<td align="right"><b>1,086</b></td>
-<td align="right">99</td>
-<td>Elixir</td>
-</tr>
-<tr>
-<td align="right">58</td>
-<td><img src="https://github.com/utdemir.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/utdemir/nix-tree"><b>utdemir/nix-tree</b></a></td>
-<td align="right"><b>1,081</b></td>
-<td align="right">22</td>
-<td>Haskell</td>
-</tr>
-<tr>
-<td align="right">59</td>
-<td><img src="https://github.com/lachlan2k.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lachlan2k/React2Shell-CVE-2025-55182-original-poc"><b>lachlan2k/React2Shell-CVE-2025-55182-original-poc</b></a></td>
-<td align="right"><b>1,063</b></td>
-<td align="right">109</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">60</td>
-<td><img src="https://github.com/phenomnomnominal.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/phenomnomnominal/tsquery"><b>phenomnomnominal/tsquery</b></a></td>
-<td align="right"><b>1,057</b></td>
-<td align="right">34</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">61</td>
-<td><img src="https://github.com/samcook.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/samcook/RedLock.net"><b>samcook/RedLock.net</b></a></td>
-<td align="right"><b>1,053</b></td>
-<td align="right">168</td>
-<td>C#</td>
-</tr>
-<tr>
-<td align="right">62</td>
-<td><img src="https://github.com/xenolightning.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xenolightning/AudioSwitcher_v1"><b>xenolightning/AudioSwitcher&#95;v1</b></a></td>
-<td align="right"><b>1,046</b></td>
-<td align="right">116</td>
-<td>C#</td>
-</tr>
-<tr>
-<td align="right">63</td>
-<td><img src="https://github.com/denandz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/denandz/KeeFarce"><b>denandz/KeeFarce</b></a></td>
-<td align="right"><b>1,031</b></td>
-<td align="right">133</td>
-<td>C++</td>
-</tr>
-<tr>
-<td align="right">64</td>
-<td><img src="https://github.com/dominictarr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dominictarr/rc"><b>dominictarr/rc</b></a></td>
-<td align="right"><b>1,022</b></td>
-<td align="right">99</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">65</td>
-<td><img src="https://github.com/dlbeer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dlbeer/quirc"><b>dlbeer/quirc</b></a></td>
-<td align="right"><b>1,011</b></td>
-<td align="right">314</td>
-<td>C</td>
-</tr>
-<tr>
-<td align="right">66</td>
-<td><img src="https://github.com/Nition.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Nition/UnityOctree"><b>Nition/UnityOctree</b></a> <sub>archived</sub></td>
-<td align="right"><b>1,008</b></td>
-<td align="right">238</td>
-<td>C#</td>
-</tr>
-<tr>
-<td align="right">67</td>
-<td><img src="https://github.com/yangzhongke.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yangzhongke/NETBookMaterials"><b>yangzhongke/NETBookMaterials</b></a></td>
-<td align="right"><b>993</b></td>
-<td align="right">418</td>
-<td>C#</td>
-</tr>
-<tr>
-<td align="right">68</td>
-<td><img src="https://github.com/yo-WASSUP.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yo-WASSUP/Good-Badminton"><b>yo-WASSUP/Good-Badminton</b></a></td>
-<td align="right"><b>982</b></td>
-<td align="right">275</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">69</td>
-<td><img src="https://github.com/meld-cp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/meld-cp/obsidian-encrypt"><b>meld-cp/obsidian-encrypt</b></a></td>
-<td align="right"><b>982</b></td>
-<td align="right">88</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">70</td>
-<td><img src="https://github.com/customd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/customd/jquery-visible"><b>customd/jquery-visible</b></a></td>
-<td align="right"><b>978</b></td>
-<td align="right">352</td>
-<td>HTML</td>
-</tr>
-<tr>
-<td align="right">71</td>
-<td><img src="https://github.com/ndbroadbent.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ndbroadbent/turbo-sprockets-rails3"><b>ndbroadbent/turbo-sprockets-rails3</b></a></td>
-<td align="right"><b>970</b></td>
-<td align="right">71</td>
-<td>Ruby</td>
-</tr>
-<tr>
-<td align="right">72</td>
-<td><img src="https://github.com/JasonMortonNZ.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JasonMortonNZ/bs3-sublime-plugin"><b>JasonMortonNZ/bs3-sublime-plugin</b></a></td>
-<td align="right"><b>963</b></td>
-<td align="right">266</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">73</td>
-<td><img src="https://github.com/Tom-Alexander.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Tom-Alexander/regression-js"><b>Tom-Alexander/regression-js</b></a></td>
-<td align="right"><b>950</b></td>
-<td align="right">122</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">74</td>
-<td><img src="https://github.com/halfer53.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/halfer53/winix"><b>halfer53/winix</b></a></td>
-<td align="right"><b>945</b></td>
-<td align="right">50</td>
-<td>C</td>
-</tr>
-<tr>
-<td align="right">75</td>
-<td><img src="https://github.com/matt-auckland.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/matt-auckland/retro-css"><b>matt-auckland/retro-css</b></a></td>
-<td align="right"><b>942</b></td>
-<td align="right">26</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">76</td>
-<td><img src="https://github.com/ghiden.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ghiden/angucomplete-alt"><b>ghiden/angucomplete-alt</b></a> <sub>archived</sub></td>
-<td align="right"><b>939</b></td>
-<td align="right">479</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">77</td>
-<td><img src="https://github.com/andrewchambers.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/andrewchambers/bupstash"><b>andrewchambers/bupstash</b></a></td>
-<td align="right"><b>924</b></td>
-<td align="right">32</td>
-<td>Rust</td>
-</tr>
-<tr>
-<td align="right">78</td>
-<td><img src="https://github.com/js-kyle.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/js-kyle/connect-assets"><b>js-kyle/connect-assets</b></a></td>
-<td align="right"><b>912</b></td>
-<td align="right">166</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">79</td>
-<td><img src="https://github.com/hyperfocalHQ.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hyperfocalHQ/pollen"><b>hyperfocalHQ/pollen</b></a></td>
-<td align="right"><b>908</b></td>
-<td align="right">13</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">80</td>
-<td><img src="https://github.com/ChenYilong.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ChenYilong/CYLTableViewPlaceHolder"><b>ChenYilong/CYLTableViewPlaceHolder</b></a></td>
-<td align="right"><b>888</b></td>
-<td align="right">161</td>
-<td>Objective-C</td>
-</tr>
-<tr>
-<td align="right">81</td>
-<td><img src="https://github.com/mikedilger.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mikedilger/gossip"><b>mikedilger/gossip</b></a></td>
-<td align="right"><b>885</b></td>
-<td align="right">101</td>
-<td>Rust</td>
-</tr>
-<tr>
-<td align="right">82</td>
-<td><img src="https://github.com/tanem.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tanem/react-svg"><b>tanem/react-svg</b></a></td>
-<td align="right"><b>882</b></td>
-<td align="right">94</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">83</td>
-<td><img src="https://github.com/aizhimou.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aizhimou/javranking-extension"><b>aizhimou/javranking-extension</b></a></td>
-<td align="right"><b>861</b></td>
-<td align="right">55</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">84</td>
-<td><img src="https://github.com/ZeroX-DG.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ZeroX-DG/SnippetStore"><b>ZeroX-DG/SnippetStore</b></a> <sub>archived</sub></td>
-<td align="right"><b>854</b></td>
-<td align="right">75</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">85</td>
-<td><img src="https://github.com/ClusterWS.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ClusterWS/ClusterWS"><b>ClusterWS/ClusterWS</b></a> <sub>archived</sub></td>
-<td align="right"><b>838</b></td>
-<td align="right">43</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">86</td>
-<td><img src="https://github.com/mmckegg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mmckegg/loop-drop-app"><b>mmckegg/loop-drop-app</b></a></td>
-<td align="right"><b>836</b></td>
-<td align="right">74</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">87</td>
-<td><img src="https://github.com/dominictarr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dominictarr/crdt"><b>dominictarr/crdt</b></a> <sub>archived</sub></td>
-<td align="right"><b>834</b></td>
-<td align="right">43</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">88</td>
-<td><img src="https://github.com/TradeMe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TradeMe/MapMe"><b>TradeMe/MapMe</b></a></td>
-<td align="right"><b>831</b></td>
-<td align="right">73</td>
-<td>Kotlin</td>
-</tr>
-<tr>
-<td align="right">89</td>
-<td><img src="https://github.com/pamidur.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pamidur/aspect-injector"><b>pamidur/aspect-injector</b></a></td>
-<td align="right"><b>830</b></td>
-<td align="right">120</td>
-<td>C#</td>
-</tr>
-<tr>
-<td align="right">90</td>
-<td><img src="https://github.com/brehaut.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/brehaut/color-js"><b>brehaut/color-js</b></a> <sub>archived</sub></td>
-<td align="right"><b>829</b></td>
-<td align="right">92</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">91</td>
-<td><img src="https://github.com/tim-smart.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tim-smart/effect-atom"><b>tim-smart/effect-atom</b></a></td>
-<td align="right"><b>798</b></td>
-<td align="right">50</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">92</td>
-<td><img src="https://github.com/hamsternz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hamsternz/FPGA_Webserver"><b>hamsternz/FPGA&#95;Webserver</b></a></td>
-<td align="right"><b>796</b></td>
-<td align="right">45</td>
-<td>VHDL</td>
-</tr>
-<tr>
-<td align="right">93</td>
-<td><img src="https://github.com/sophiajt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sophiajt/june"><b>sophiajt/june</b></a> <sub>archived</sub></td>
-<td align="right"><b>787</b></td>
-<td align="right">30</td>
-<td>Rust</td>
-</tr>
-<tr>
-<td align="right">94</td>
-<td><img src="https://github.com/jamezmca.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jamezmca/backend-full-course"><b>jamezmca/backend-full-course</b></a></td>
-<td align="right"><b>649</b></td>
-<td align="right">64</td>
-<td>CSS</td>
-</tr>
-<tr>
-<td align="right">95</td>
-<td><img src="https://github.com/memN0ps.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/memN0ps/redlotus-rs"><b>memN0ps/redlotus-rs</b></a> <sub>archived</sub></td>
-<td align="right"><b>581</b></td>
-<td align="right">85</td>
-<td>Rust</td>
-</tr>
-<tr>
-<td align="right">96</td>
-<td><img src="https://github.com/matthuisman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/matthuisman/i.mjh.nz"><b>matthuisman/i.mjh.nz</b></a></td>
-<td align="right"><b>474</b></td>
-<td align="right">87</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">97</td>
-<td><img src="https://github.com/timClicks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/timClicks/slate"><b>timClicks/slate</b></a></td>
-<td align="right"><b>425</b></td>
-<td align="right">140</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">98</td>
-<td><img src="https://github.com/ryanbr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ryanbr/fanboy-adblock"><b>ryanbr/fanboy-adblock</b></a></td>
-<td align="right"><b>364</b></td>
-<td align="right">63</td>
-<td>Shell</td>
-</tr>
-<tr>
-<td align="right">99</td>
-<td><img src="https://github.com/odow.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/odow/SDDP.jl"><b>odow/SDDP.jl</b></a></td>
-<td align="right"><b>358</b></td>
-<td align="right">72</td>
-<td>Julia</td>
-</tr>
-<tr>
 <td align="right">100</td>
-<td><img src="https://github.com/sivers.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sivers/store"><b>sivers/store</b></a></td>
-<td align="right"><b>275</b></td>
-<td align="right">21</td>
-<td>Ruby</td>
+<td><img src="https://github.com/artemnovitckii.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/artemnovitckii/claude-animation-skills"><b>artemnovitckii/claude-animation-skills</b></a><br><sub>Eleven Claude Code skills that make animations for reels, no footage needed: low-poly, Minecraft-style voxel, 3D cartoo…</sub></td>
+<td align="right"><b>1,146</b></td>
+<td align="right">164</td>
+<td>JavaScript</td>
 </tr>
 </tbody>
 </table>
@@ -729,12 +727,11 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 275 stars; 114 attributed candidates are tracked.
-- 82 entries were carried over from the previous dataset and are pending revalidation.
-- 145 multi-repository owners are queued for expansion.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 1,146 stars; 150 attributed candidates are tracked.
+- 122 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 123 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

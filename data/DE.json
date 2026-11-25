@@ -5,7 +5,7 @@
 "country": {"code":"DE","name":"Germany","slug":"germany"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":12278,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":136,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":12278,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":136,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":137,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxOTMyMTU1NTQ=","name":"n8n","nameWithOwner":"n8n-io/n8n","url":"https://github.com/n8n-io/n8n","description":"Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.","stars":211738,"forks":61614,"primaryLanguage":"TypeScript","license":{"spdxId":"NOASSERTION"},"createdAt":"2019-06-22T09:24:21Z","pushedAt":"2026-11-22T03:11:20Z","archived":false,"owner":{"login":"n8n-io","name":"n8n - Workflow Automation","type":"Organization","url":"https://github.com/n8n-io","location":"Germany","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"R_kgDORUQ5bw","name":"taste-skill","nameWithOwner":"Leonxlnx/taste-skill","url":"https://github.com/Leonxlnx/taste-skill","description":"Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages","stars":119881,"forks":8034,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2026-02-19T21:44:05Z","pushedAt":"2026-11-22T10:31:51Z","archived":false,"owner":{"login":"Leonxlnx","name":"Leon Lin","type":"User","url":"https://github.com/Leonxlnx","location":"Munich","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"MDEwOlJlcG9zaXRvcnkzMDc3NTYyODU=","name":"obsidian-git","nameWithOwner":"Vinzent03/obsidian-git","url":"https://github.com/Vinzent03/obsidian-git","description":"Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md","stars":12306,"forks":677,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2020-10-27T16:08:16Z","pushedAt":"2026-11-19T18:00:25Z","archived":false,"owner":{"login":"Vinzent03","name":"Vinzent","type":"User","url":"https://github.com/Vinzent03","location":"Aachen, Germany","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
   {"rank":100,"id":"MDEwOlJlcG9zaXRvcnkxMjU2NDI4ODU=","name":"night","nameWithOwner":"talkgo/night","url":"https://github.com/talkgo/night","description":"Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。","stars":12278,"forks":1155,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2018-03-17T15:28:14Z","pushedAt":"2026-09-15T11:32:25Z","archived":false,"owner":{"login":"talkgo","name":"TalkGo","type":"Organization","url":"https://github.com/talkgo","location":"China && Germany","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "46d15640d7e9e7e2",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "2fa35247df5c00f9",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/developers/MP.json">JSON</a> |
+| 🟡 Provisional | **17** | 22 Nov 2026 | <a href="../../data/developers/MP.json">JSON</a> |
 
 </div>
 
@@ -112,6 +112,34 @@
 <td align="right">3</td>
 <td><sub>Saipan, Northern Mariana Islands</sub></td>
 </tr>
+<tr>
+<td align="right">14</td>
+<td><a href="https://github.com/raccoonrevolution"><img src="https://avatars.githubusercontent.com/u/32853902?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/raccoonrevolution"><b>raccoonrevolution</b></a><br><sub>&#64;raccoonrevolution</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Northern Mariana Islands</sub></td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><a href="https://github.com/FutureScienceAndTechnology"><img src="https://avatars.githubusercontent.com/u/28288550?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FutureScienceAndTechnology"><b>Elden Reichel</b></a><br><sub>&#64;FutureScienceAndTechnology</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>4291 ,Prohaska Ridges ,South Broderick ,North D…</sub></td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><a href="https://github.com/Oceania-The-Queen"><img src="https://avatars.githubusercontent.com/u/70286512?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Oceania-The-Queen"><b>Oceania-The-Queen</b></a><br><sub>&#64;Oceania-The-Queen</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Northern Mariana Islands</sub></td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><a href="https://github.com/SajalKeshari"><img src="https://avatars.githubusercontent.com/u/219097543?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SajalKeshari"><b>Sajal Keshari</b></a><br><sub>&#64;SajalKeshari</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Northern Mariana Islands</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -120,8 +148,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 13 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 17 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 3 of 26 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

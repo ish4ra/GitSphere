@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **100** | 16 Oct 2026 | <a href="../data/EG.json">JSON</a> |
-
-> **Not yet re-verified.** 92 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/EG.json">JSON</a> |
 
 </div>
 
@@ -81,647 +79,647 @@
 </tr>
 <tr>
 <td align="right">9</td>
-<td><img src="https://github.com/emadshanab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/emadshanab/Nuclei-Templates-Collection"><b>emadshanab/Nuclei-Templates-Collection</b></a></td>
-<td align="right"><b>1,228</b></td>
-<td align="right">297</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">10</td>
-<td><img src="https://github.com/alash3al.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alash3al/redix"><b>alash3al/redix</b></a></td>
-<td align="right"><b>1,223</b></td>
-<td align="right">76</td>
-<td>Go</td>
-</tr>
-<tr>
-<td align="right">11</td>
-<td><img src="https://github.com/abdullahtarek.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abdullahtarek/football_analysis"><b>abdullahtarek/football&#95;analysis</b></a></td>
-<td align="right"><b>1,016</b></td>
-<td align="right">343</td>
-<td>Jupyter Notebook</td>
-</tr>
-<tr>
-<td align="right">12</td>
-<td><img src="https://github.com/alash3al.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alash3al/stash"><b>alash3al/stash</b></a></td>
-<td align="right"><b>770</b></td>
-<td align="right">47</td>
-<td>Go</td>
-</tr>
-<tr>
-<td align="right">13</td>
-<td><img src="https://github.com/ahmedbna.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ahmedbna/ui"><b>ahmedbna/ui</b></a></td>
-<td align="right"><b>739</b></td>
-<td align="right">59</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">14</td>
-<td><img src="https://github.com/bakrianoo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bakrianoo/mini-rag"><b>bakrianoo/mini-rag</b></a></td>
-<td align="right"><b>724</b></td>
-<td align="right">331</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">15</td>
-<td><img src="https://github.com/A-Hemeda.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/A-Hemeda/Remote-Jobs-List"><b>A-Hemeda/Remote-Jobs-List</b></a></td>
-<td align="right"><b>718</b></td>
-<td align="right">42</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">16</td>
-<td><img src="https://github.com/h9-tect.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/h9-tect/ML-DL_Roadmap."><b>h9-tect/ML-DL&#95;Roadmap.</b></a></td>
-<td align="right"><b>613</b></td>
-<td align="right">75</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">17</td>
-<td><img src="https://github.com/alash3al.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alash3al/smtp2http"><b>alash3al/smtp2http</b></a></td>
-<td align="right"><b>558</b></td>
-<td align="right">91</td>
-<td>Go</td>
-</tr>
-<tr>
-<td align="right">18</td>
-<td><img src="https://github.com/alash3al.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alash3al/wsify"><b>alash3al/wsify</b></a></td>
-<td align="right"><b>524</b></td>
-<td align="right">53</td>
-<td>Go</td>
-</tr>
-<tr>
-<td align="right">19</td>
-<td><img src="https://github.com/Pythondeveloper6.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Pythondeveloper6/Awesome-MLOPS"><b>Pythondeveloper6/Awesome-MLOPS</b></a></td>
-<td align="right"><b>383</b></td>
-<td align="right">64</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">20</td>
-<td><img src="https://github.com/abdullahmansss.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abdullahmansss/udemy"><b>abdullahmansss/udemy</b></a></td>
-<td align="right"><b>292</b></td>
-<td align="right">188</td>
-<td>Dart</td>
-</tr>
-<tr>
-<td align="right">21</td>
-<td><img src="https://github.com/MohammadAboulEla.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MohammadAboulEla/ComfyUI-iTools"><b>MohammadAboulEla/ComfyUI-iTools</b></a></td>
-<td align="right"><b>242</b></td>
-<td align="right">25</td>
+<td><img src="https://github.com/TarekRaafat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TarekRaafat/autoComplete.js"><b>TarekRaafat/autoComplete.js</b></a><br><sub>Simple autocomplete pure vanilla Javascript library.</sub></td>
+<td align="right"><b>4,038</b></td>
+<td align="right">246</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">22</td>
-<td><img src="https://github.com/KL13NT.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KL13NT/badeel"><b>KL13NT/badeel</b></a></td>
-<td align="right"><b>232</b></td>
-<td align="right">20</td>
+<td align="right">10</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/llm-awq"><b>mit-han-lab/llm-awq</b></a><br><sub>&#91;MLSys 2024 Best Paper Award&#93; AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration</sub></td>
+<td align="right"><b>3,667</b></td>
+<td align="right">327</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/M-Abozaid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/M-Abozaid/esp32-c3-adblock"><b>M-Abozaid/esp32-c3-adblock</b></a><br><sub>Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searche…</sub></td>
+<td align="right"><b>3,639</b></td>
+<td align="right">414</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/efficientvit"><b>mit-han-lab/efficientvit</b></a><br><sub>Efficient vision foundation models for high-resolution generation and perception.</sub></td>
+<td align="right"><b>3,377</b></td>
+<td align="right">261</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/bevfusion"><b>mit-han-lab/bevfusion</b></a> <sub>archived</sub><br><sub>&#91;ICRA&#39;23&#93; BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird&#39;s-Eye View Representation</sub></td>
+<td align="right"><b>3,234</b></td>
+<td align="right">625</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/w4po.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/w4po/ExplorerTabUtility"><b>w4po/ExplorerTabUtility</b></a><br><sub>🚀 Supercharge Windows 11&#39;s File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen closed ones, and more!</sub></td>
+<td align="right"><b>3,055</b></td>
+<td align="right">109</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><img src="https://github.com/amElnagdy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/amElnagdy/delegate-skills"><b>amElnagdy/delegate-skills</b></a><br><sub>Delegate a coding task to a separate coding agent CLI, review the diff, land the commit yourself — one per implementer.</sub></td>
+<td align="right"><b>2,651</b></td>
+<td align="right">226</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><img src="https://github.com/chemprop.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chemprop/chemprop"><b>chemprop/chemprop</b></a><br><sub>Message Passing Neural Networks for Molecule Property Prediction</sub></td>
+<td align="right"><b>2,535</b></td>
+<td align="right">765</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><img src="https://github.com/moazbuilds.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/moazbuilds/CodeMachine-CLI"><b>moazbuilds/CodeMachine-CLI</b></a><br><sub>CodeMachine is an open-source tool that orchestrates AI coding agents into repeatable, long-running workflows. ⚡️</sub></td>
+<td align="right"><b>2,517</b></td>
+<td align="right">234</td>
 <td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><img src="https://github.com/AhmadElsagheer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmadElsagheer/Competitive-programming-library"><b>AhmadElsagheer/Competitive-programming-library</b></a><br><sub>Code library for competitive programming purposes.</sub></td>
+<td align="right"><b>2,486</b></td>
+<td align="right">474</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><img src="https://github.com/mhss1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mhss1/MyBrain"><b>mhss1/MyBrain</b></a><br><sub>All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.</sub></td>
+<td align="right"><b>2,242</b></td>
+<td align="right">196</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/temporal-shift-module"><b>mit-han-lab/temporal-shift-module</b></a><br><sub>&#91;ICCV 2019&#93; TSM: Temporal Shift Module for Efficient Video Understanding</sub></td>
+<td align="right"><b>2,229</b></td>
+<td align="right">422</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><img src="https://github.com/D4Vinci.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/D4Vinci/Cr3dOv3r"><b>D4Vinci/Cr3dOv3r</b></a><br><sub>Know the dangers of credential reuse attacks.</sub></td>
+<td align="right"><b>2,169</b></td>
+<td align="right">410</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><img src="https://github.com/abanoub-asaad.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abanoub-asaad/Java-Backend"><b>abanoub-asaad/Java-Backend</b></a><br><sub>These are resources, roadmaps, links to learn Java Backend :)</sub></td>
+<td align="right"><b>2,161</b></td>
+<td align="right">305</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">23</td>
-<td><img src="https://github.com/kerolloz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kerolloz/go-installer"><b>kerolloz/go-installer</b></a></td>
-<td align="right"><b>223</b></td>
-<td align="right">24</td>
-<td>Shell</td>
+<td><img src="https://github.com/alash3al.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alash3al/sqler"><b>alash3al/sqler</b></a><br><sub>write APIs using direct SQL queries with no hassle, let&#39;s rethink about SQL</sub></td>
+<td align="right"><b>2,067</b></td>
+<td align="right">118</td>
+<td>Go</td>
 </tr>
 <tr>
 <td align="right">24</td>
-<td><img src="https://github.com/7oSkaaa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/7oSkaaa/Competitive-Programming-Session-Content"><b>7oSkaaa/Competitive-Programming-Session-Content</b></a></td>
-<td align="right"><b>222</b></td>
-<td align="right">15</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/once-for-all"><b>mit-han-lab/once-for-all</b></a><br><sub>&#91;ICLR 2020&#93; Once for All: Train One Network and Specialize it for Efficient Deployment</sub></td>
+<td align="right"><b>1,956</b></td>
+<td align="right">345</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">25</td>
-<td><img src="https://github.com/usamaaelgendy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/usamaaelgendy/Ecommerce_App"><b>usamaaelgendy/Ecommerce&#95;App</b></a></td>
-<td align="right"><b>210</b></td>
-<td align="right">60</td>
-<td>Dart</td>
+<td><img src="https://github.com/gaitco.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gaitco/quran-database"><b>gaitco/quran-database</b></a><br><sub>A complete, structured Quran database — verses, translations and metadata, free for any project.</sub></td>
+<td align="right"><b>1,950</b></td>
+<td align="right">336</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">26</td>
-<td><img src="https://github.com/ayatoullah.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ayatoullah/MacchineLeaningnterviewQ-A"><b>ayatoullah/MacchineLeaningnterviewQ-A</b></a></td>
-<td align="right"><b>170</b></td>
-<td align="right">17</td>
+<td><img src="https://github.com/ahegazy0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ahegazy0/linux-basics-for-hackers-notes"><b>ahegazy0/linux-basics-for-hackers-notes</b></a><br><sub>A structured course built from personal study notes of the book Linux Basics for Hackers by OccupyTheWeb.</sub></td>
+<td align="right"><b>1,935</b></td>
+<td align="right">169</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">27</td>
-<td><img src="https://github.com/0xRick.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0xRick/0xRick.github.io"><b>0xRick/0xRick.github.io</b></a></td>
-<td align="right"><b>144</b></td>
-<td align="right">35</td>
-<td>HTML</td>
+<td><img src="https://github.com/Abdelrhman-AK.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Abdelrhman-AK/WinPaletter"><b>Abdelrhman-AK/WinPaletter</b></a><br><sub>Advanced Windows Appearance Editor</sub></td>
+<td align="right"><b>1,924</b></td>
+<td align="right">72</td>
+<td>C#</td>
 </tr>
 <tr>
 <td align="right">28</td>
-<td><img src="https://github.com/AbdallahHemdan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AbdallahHemdan/Orchestra"><b>AbdallahHemdan/Orchestra</b></a></td>
-<td align="right"><b>144</b></td>
-<td align="right">22</td>
+<td><img src="https://github.com/D4Vinci.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/D4Vinci/One-Lin3r"><b>D4Vinci/One-Lin3r</b></a><br><sub>Gives you one-liners that aids in penetration testing operations, privilege escalation and more</sub></td>
+<td align="right"><b>1,796</b></td>
+<td align="right">301</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">29</td>
-<td><img src="https://github.com/TarekAlabd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TarekAlabd/Flutter-Steps-Tracker"><b>TarekAlabd/Flutter-Steps-Tracker</b></a></td>
-<td align="right"><b>118</b></td>
-<td align="right">45</td>
-<td>Dart</td>
+<td><img src="https://github.com/mbadry1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mbadry1/Top-Deep-Learning"><b>mbadry1/Top-Deep-Learning</b></a><br><sub>Top 200 deep learning Github repositories sorted by the number of stars.</sub></td>
+<td align="right"><b>1,777</b></td>
+<td align="right">438</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">30</td>
-<td><img src="https://github.com/helghareeb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/helghareeb/DSA20"><b>helghareeb/DSA20</b></a> <sub>archived</sub></td>
-<td align="right"><b>96</b></td>
-<td align="right">42</td>
-<td>—</td>
+<td><img src="https://github.com/mit-cml.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-cml/appinventor-sources"><b>mit-cml/appinventor-sources</b></a><br><sub>MIT App Inventor Public Open Source</sub></td>
+<td align="right"><b>1,758</b></td>
+<td align="right">2,351</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">31</td>
-<td><img src="https://github.com/muhammadelhelaly.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/muhammadelhelaly/RepositoryPatternWithUOWInDotNetCore6"><b>muhammadelhelaly/RepositoryPatternWithUOWInDotNetCore6</b></a></td>
-<td align="right"><b>91</b></td>
-<td align="right">32</td>
-<td>C#</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/smoothquant"><b>mit-han-lab/smoothquant</b></a><br><sub>&#91;ICML 2023&#93; SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models</sub></td>
+<td align="right"><b>1,706</b></td>
+<td align="right">207</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">32</td>
-<td><img src="https://github.com/ahmadalfy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ahmadalfy/frontend-notes"><b>ahmadalfy/frontend-notes</b></a></td>
-<td align="right"><b>89</b></td>
-<td align="right">11</td>
-<td>—</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/torchquantum"><b>mit-han-lab/torchquantum</b></a><br><sub>A PyTorch-based framework for Quantum Classical Simulation, Quantum Machine Learning, Quantum Neural Networks, Paramete…</sub></td>
+<td align="right"><b>1,681</b></td>
+<td align="right">266</td>
+<td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">33</td>
-<td><img src="https://github.com/Abdullah4345.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Abdullah4345/BioCrypt"><b>Abdullah4345/BioCrypt</b></a></td>
-<td align="right"><b>78</b></td>
-<td align="right">15</td>
+<td><img src="https://github.com/mbadry1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mbadry1/CS231n-2017-Summary"><b>mbadry1/CS231n-2017-Summary</b></a><br><sub>After watching all the videos of the famous Standford&#39;s CS231n course that took place in 2017, i decided to take summar…</sub></td>
+<td align="right"><b>1,588</b></td>
+<td align="right">453</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">34</td>
-<td><img src="https://github.com/AbdeenM.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AbdeenM/react-native-expo-kit"><b>AbdeenM/react-native-expo-kit</b></a> <sub>archived</sub></td>
-<td align="right"><b>74</b></td>
-<td align="right">12</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/alielsokary.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alielsokary/CaskHub"><b>alielsokary/CaskHub</b></a><br><sub>Native GUI for Homebrew Casks</sub></td>
+<td align="right"><b>1,486</b></td>
+<td align="right">63</td>
+<td>Swift</td>
 </tr>
 <tr>
 <td align="right">35</td>
-<td><img src="https://github.com/mohamedtamer0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mohamedtamer0/DesignPatterns-Kotlin"><b>mohamedtamer0/DesignPatterns-Kotlin</b></a></td>
-<td align="right"><b>70</b></td>
-<td align="right">13</td>
-<td>Kotlin</td>
-</tr>
-<tr>
-<td align="right">36</td>
-<td><img src="https://github.com/Eyadhamza.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Eyadhamza/LaravelRoadmap"><b>Eyadhamza/LaravelRoadmap</b></a> <sub>archived</sub></td>
-<td align="right"><b>69</b></td>
-<td align="right">14</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">37</td>
-<td><img src="https://github.com/Mohamed20384.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mohamed20384/machine-learning-from-scratch"><b>Mohamed20384/machine-learning-from-scratch</b></a></td>
-<td align="right"><b>69</b></td>
-<td align="right">5</td>
-<td>Jupyter Notebook</td>
-</tr>
-<tr>
-<td align="right">38</td>
-<td><img src="https://github.com/noorgx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/noorgx/form-forge"><b>noorgx/form-forge</b></a></td>
-<td align="right"><b>69</b></td>
-<td align="right">1</td>
+<td><img src="https://github.com/D4Vinci.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/D4Vinci/Dr0p1t-Framework"><b>D4Vinci/Dr0p1t-Framework</b></a> <sub>archived</sub><br><sub>A framework that create an advanced stealthy dropper that bypass most AVs and have a lot of tricks</sub></td>
+<td align="right"><b>1,479</b></td>
+<td align="right">381</td>
 <td>Python</td>
 </tr>
 <tr>
+<td align="right">36</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/torchsparse"><b>mit-han-lab/torchsparse</b></a><br><sub>&#91;MICRO&#39;23, MLSys&#39;22&#93; TorchSparse: Efficient Training and Inference Framework for Sparse Convolution on GPUs.</sub></td>
+<td align="right"><b>1,477</b></td>
+<td align="right">192</td>
+<td>Cuda</td>
+</tr>
+<tr>
+<td align="right">37</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/proxylessnas"><b>mit-han-lab/proxylessnas</b></a><br><sub>&#91;ICLR 2019&#93; ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware</sub></td>
+<td align="right"><b>1,450</b></td>
+<td align="right">280</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">38</td>
+<td><img src="https://github.com/MomenSherif.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MomenSherif/react-oauth"><b>MomenSherif/react-oauth</b></a><br><sub>Google OAuth2 using the new Google Identity Services SDK for React 🚀</sub></td>
+<td align="right"><b>1,339</b></td>
+<td align="right">160</td>
+<td>TypeScript</td>
+</tr>
+<tr>
 <td align="right">39</td>
-<td><img src="https://github.com/SameerBadriddinov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SameerBadriddinov/vuejs-vuex-application"><b>SameerBadriddinov/vuejs-vuex-application</b></a></td>
-<td align="right"><b>49</b></td>
-<td align="right">1</td>
-<td>Vue</td>
+<td><img src="https://github.com/moazbuilds.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/moazbuilds/claudeclaw"><b>moazbuilds/claudeclaw</b></a><br><sub>A lightweight, open-source OpenClaw version built into your Claude Code.</sub></td>
+<td align="right"><b>1,333</b></td>
+<td align="right">240</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">40</td>
-<td><img src="https://github.com/AhmedDabish.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmedDabish/AhmedDabish"><b>AhmedDabish/AhmedDabish</b></a></td>
-<td align="right"><b>42</b></td>
-<td align="right">6</td>
+<td><img src="https://github.com/amElnagdy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/amElnagdy/guard-skills"><b>amElnagdy/guard-skills</b></a><br><sub>Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs</sub></td>
+<td align="right"><b>1,320</b></td>
+<td align="right">139</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">41</td>
-<td><img src="https://github.com/Maher-Elmair.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Maher-Elmair/Maher-Elmair"><b>Maher-Elmair/Maher-Elmair</b></a></td>
-<td align="right"><b>29</b></td>
-<td align="right">3</td>
-<td>—</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/data-efficient-gans"><b>mit-han-lab/data-efficient-gans</b></a><br><sub>&#91;NeurIPS 2020&#93; Differentiable Augmentation for Data-Efficient GAN Training</sub></td>
+<td align="right"><b>1,310</b></td>
+<td align="right">173</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">42</td>
-<td><img src="https://github.com/SayedAlesawy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SayedAlesawy/Distributed-File-System-and-Database"><b>SayedAlesawy/Distributed-File-System-and-Database</b></a></td>
-<td align="right"><b>26</b></td>
-<td align="right">1</td>
-<td>Go</td>
+<td><img src="https://github.com/otaha178.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/otaha178/Emotion-recognition"><b>otaha178/Emotion-recognition</b></a><br><sub>Real time emotion recognition</sub></td>
+<td align="right"><b>1,240</b></td>
+<td align="right">369</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">43</td>
-<td><img src="https://github.com/mohamedelmougy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mohamedelmougy/horizon-banking"><b>mohamedelmougy/horizon-banking</b></a></td>
-<td align="right"><b>18</b></td>
-<td align="right">2</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/tinyml"><b>mit-han-lab/tinyml</b></a></td>
+<td align="right"><b>1,236</b></td>
+<td align="right">170</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">44</td>
-<td><img src="https://github.com/YoussefMoHlemyAlpha.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/YoussefMoHlemyAlpha/YoussefMoHlemyAlpha"><b>YoussefMoHlemyAlpha/YoussefMoHlemyAlpha</b></a></td>
-<td align="right"><b>16</b></td>
-<td align="right">3</td>
-<td>—</td>
+<td><img src="https://github.com/emadshanab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/emadshanab/Nuclei-Templates-Collection"><b>emadshanab/Nuclei-Templates-Collection</b></a><br><sub>Nuclei Templates Collection</sub></td>
+<td align="right"><b>1,224</b></td>
+<td align="right">296</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">45</td>
-<td><img src="https://github.com/mohamed-sayed-elmahdy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mohamed-sayed-elmahdy/Frontend-Forge-Platform"><b>mohamed-sayed-elmahdy/Frontend-Forge-Platform</b></a></td>
-<td align="right"><b>16</b></td>
-<td align="right">2</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/alash3al.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alash3al/redix"><b>alash3al/redix</b></a><br><sub>a very simple pure key =&gt; value storage system that speaks Redis protocol with Postgres as storage engine and more</sub></td>
+<td align="right"><b>1,221</b></td>
+<td align="right">76</td>
+<td>Go</td>
 </tr>
 <tr>
 <td align="right">46</td>
-<td><img src="https://github.com/SaadAbdElGhaffar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SaadAbdElGhaffar/tennis-analysis-system"><b>SaadAbdElGhaffar/tennis-analysis-system</b></a></td>
-<td align="right"><b>13</b></td>
-<td align="right">4</td>
-<td>Jupyter Notebook</td>
+<td><img src="https://github.com/harryadel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/harryadel/AI-ML-Driven-Companies-In-Egypt"><b>harryadel/AI-ML-Driven-Companies-In-Egypt</b></a><br><sub>A list of AI/ML driven companies in Egypt</sub></td>
+<td align="right"><b>1,141</b></td>
+<td align="right">88</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">47</td>
-<td><img src="https://github.com/el-hassan-othman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/el-hassan-othman/8-Essential-Python-Tips-Every-Developer-Should-Know"><b>el-hassan-othman/8-Essential-Python-Tips-Every-Developer-Should-Know</b></a></td>
-<td align="right"><b>13</b></td>
-<td align="right">2</td>
-<td>Jupyter Notebook</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/streaming-vlm"><b>mit-han-lab/streaming-vlm</b></a><br><sub>StreamingVLM: Real-Time Understanding for Infinite Video Streams</sub></td>
+<td align="right"><b>1,116</b></td>
+<td align="right">69</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">48</td>
-<td><img src="https://github.com/khloudcode.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/khloudcode/Booking-an-appointment-for-a-doctor-is-just-simple"><b>khloudcode/Booking-an-appointment-for-a-doctor-is-just-simple</b></a></td>
-<td align="right"><b>8</b></td>
-<td align="right">1</td>
-<td>HTML</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/gan-compression"><b>mit-han-lab/gan-compression</b></a><br><sub>&#91;CVPR 2020&#93; GAN Compression: Efficient Architectures for Interactive Conditional GANs</sub></td>
+<td align="right"><b>1,114</b></td>
+<td align="right">149</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">49</td>
-<td><img src="https://github.com/hkotb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hkotb/xprotcas"><b>hkotb/xprotcas</b></a></td>
-<td align="right"><b>8</b></td>
-<td align="right">0</td>
-<td>Python</td>
+<td><img src="https://github.com/voodooattack.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/voodooattack/nexusjs"><b>voodooattack/nexusjs</b></a> <sub>archived</sub><br><sub>Nexus.js - The next-gen JavaScript platform</sub></td>
+<td align="right"><b>1,088</b></td>
+<td align="right">18</td>
+<td>C++</td>
 </tr>
 <tr>
 <td align="right">50</td>
-<td><img src="https://github.com/Abdullahsaleh203.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Abdullahsaleh203/Django_RESTAPI"><b>Abdullahsaleh203/Django&#95;RESTAPI</b></a></td>
-<td align="right"><b>7</b></td>
-<td align="right">1</td>
-<td>Python</td>
+<td><img src="https://github.com/abdullahtarek.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abdullahtarek/football_analysis"><b>abdullahtarek/football&#95;analysis</b></a><br><sub>This repository contains a comprehensive computer vision/machine learning football project that uses YOLO for object de…</sub></td>
+<td align="right"><b>1,032</b></td>
+<td align="right">345</td>
+<td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">51</td>
-<td><img src="https://github.com/OmniaHussain92.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/OmniaHussain92/CustomIconButton"><b>OmniaHussain92/CustomIconButton</b></a></td>
-<td align="right"><b>7</b></td>
-<td align="right">1</td>
-<td>C#</td>
+<td><img src="https://github.com/mohammed-bahumaish.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mohammed-bahumaish/prisma-editor"><b>mohammed-bahumaish/prisma-editor</b></a><br><sub>Prisma Editor - A powerful tool to visualize and edit Prisma Schema.</sub></td>
+<td align="right"><b>1,032</b></td>
+<td align="right">84</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">52</td>
-<td><img src="https://github.com/MahmoudEsmail404.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MahmoudEsmail404/readit"><b>MahmoudEsmail404/readit</b></a></td>
-<td align="right"><b>7</b></td>
-<td align="right">0</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/MadryLab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MadryLab/photoguard"><b>MadryLab/photoguard</b></a><br><sub>Raising the Cost of Malicious AI-Powered Image Editing</sub></td>
+<td align="right"><b>1,004</b></td>
+<td align="right">94</td>
+<td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">53</td>
-<td><img src="https://github.com/johnfort.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/johnfort/elFinder.themes"><b>johnfort/elFinder.themes</b></a></td>
-<td align="right"><b>6</b></td>
-<td align="right">5</td>
-<td>CSS</td>
+<td><img src="https://github.com/D4Vinci.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/D4Vinci/elpscrk"><b>D4Vinci/elpscrk</b></a><br><sub>An Intelligent wordlist generator based on user profiling, permutations, and statistics. (Named after the same tool in…</sub></td>
+<td align="right"><b>974</b></td>
+<td align="right">136</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">54</td>
-<td><img src="https://github.com/mostafaalagamy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mostafaalagamy/mostafaalagamy.github.io"><b>mostafaalagamy/mostafaalagamy.github.io</b></a></td>
-<td align="right"><b>6</b></td>
-<td align="right">2</td>
-<td>HTML</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/TinyChatEngine"><b>mit-han-lab/TinyChatEngine</b></a><br><sub>TinyChatEngine: On-Device LLM Inference Library</sub></td>
+<td align="right"><b>973</b></td>
+<td align="right">102</td>
+<td>C++</td>
 </tr>
 <tr>
 <td align="right">55</td>
-<td><img src="https://github.com/AhmedZayedSalem.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmedZayedSalem/spree_multi_stores"><b>AhmedZayedSalem/spree&#95;multi&#95;stores</b></a></td>
-<td align="right"><b>5</b></td>
-<td align="right">4</td>
-<td>HTML</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/tinyengine"><b>mit-han-lab/tinyengine</b></a><br><sub>&#91;NeurIPS 2020&#93; MCUNet: Tiny Deep Learning on IoT Devices; &#91;NeurIPS 2021&#93; MCUNetV2: Memory-Efficient Patch-based Inferen…</sub></td>
+<td align="right"><b>969</b></td>
+<td align="right">164</td>
+<td>C</td>
 </tr>
 <tr>
 <td align="right">56</td>
-<td><img src="https://github.com/MohamedTarek.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MohamedTarek/laravel-stampede-guard"><b>MohamedTarek/laravel-stampede-guard</b></a></td>
-<td align="right"><b>5</b></td>
-<td align="right">1</td>
-<td>PHP</td>
+<td><img src="https://github.com/Tiramisu-Compiler.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Tiramisu-Compiler/tiramisu"><b>Tiramisu-Compiler/tiramisu</b></a><br><sub>A polyhedral compiler for expressing fast and portable data parallel algorithms</sub></td>
+<td align="right"><b>963</b></td>
+<td align="right">141</td>
+<td>C++</td>
 </tr>
 <tr>
 <td align="right">57</td>
-<td><img src="https://github.com/SaraKhamisMostafa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SaraKhamisMostafa/ToDo"><b>SaraKhamisMostafa/ToDo</b></a></td>
-<td align="right"><b>5</b></td>
-<td align="right">0</td>
-<td>HTML</td>
+<td><img src="https://github.com/MadryLab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MadryLab/robustness"><b>MadryLab/robustness</b></a><br><sub>A library for experimenting with, training and evaluating neural networks, with a focus on adversarial robustness.</sub></td>
+<td align="right"><b>952</b></td>
+<td align="right">179</td>
+<td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">58</td>
-<td><img src="https://github.com/fadynabil10.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fadynabil10/Build-a-Portfolio-Site"><b>fadynabil10/Build-a-Portfolio-Site</b></a></td>
-<td align="right"><b>4</b></td>
-<td align="right">2</td>
-<td>HTML</td>
+<td><img src="https://github.com/laramint.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/laramint/laravel-brain"><b>laramint/laravel-brain</b></a><br><sub>Visualize your Laravel request lifecycle as an interactive graph</sub></td>
+<td align="right"><b>941</b></td>
+<td align="right">53</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">59</td>
-<td><img src="https://github.com/Asmaa-Kohla.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Asmaa-Kohla/iOSChatLib"><b>Asmaa-Kohla/iOSChatLib</b></a></td>
-<td align="right"><b>4</b></td>
-<td align="right">1</td>
-<td>Objective-C</td>
-</tr>
-<tr>
-<td align="right">60</td>
-<td><img src="https://github.com/rameznady25.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rameznady25/Decompressing-For-LJPEG-image"><b>rameznady25/Decompressing-For-LJPEG-image</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">2</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">61</td>
-<td><img src="https://github.com/mfouadegy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mfouadegy/gamify-app-ui"><b>mfouadegy/gamify-app-ui</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">1</td>
-<td>Dart</td>
-</tr>
-<tr>
-<td align="right">62</td>
-<td><img src="https://github.com/EmanKamalNasr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EmanKamalNasr/News"><b>EmanKamalNasr/News</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">0</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">63</td>
-<td><img src="https://github.com/Islam412.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Islam412/Add-student-name"><b>Islam412/Add-student-name</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">0</td>
-<td>HTML</td>
-</tr>
-<tr>
-<td align="right">64</td>
-<td><img src="https://github.com/mustafa1991.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mustafa1991/native-php-app"><b>mustafa1991/native-php-app</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">0</td>
-<td>PHP</td>
-</tr>
-<tr>
-<td align="right">65</td>
-<td><img src="https://github.com/Ramyromel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ramyromel/luxionex"><b>Ramyromel/luxionex</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">0</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">66</td>
-<td><img src="https://github.com/TiroYehia.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TiroYehia/woocommerce-headless"><b>TiroYehia/woocommerce-headless</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">0</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">67</td>
-<td><img src="https://github.com/zArchitect.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zArchitect/Sketch2MultipleGUIs"><b>zArchitect/Sketch2MultipleGUIs</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">1</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">68</td>
-<td><img src="https://github.com/Awad-Ahmed.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Awad-Ahmed/Image-Labeling"><b>Awad-Ahmed/Image-Labeling</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
+<td><img src="https://github.com/EslaMx7.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EslaMx7/ScreenTask"><b>EslaMx7/ScreenTask</b></a><br><sub>🔥 v2 is here - Screen sharing made easy! Share your screen across local devices without internet.</sub></td>
+<td align="right"><b>930</b></td>
+<td align="right">246</td>
 <td>C#</td>
 </tr>
 <tr>
-<td align="right">69</td>
-<td><img src="https://github.com/Ayman2015.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ayman2015/Ayman2015"><b>Ayman2015/Ayman2015</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
-<td>—</td>
+<td align="right">60</td>
+<td><img src="https://github.com/abdullahtarek.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abdullahtarek/tennis_analysis"><b>abdullahtarek/tennis&#95;analysis</b></a><br><sub>This project analyzes Tennis players in a video to measure their speed, ball shot speed and number of shots. This proje…</sub></td>
+<td align="right"><b>911</b></td>
+<td align="right">281</td>
+<td>Jupyter Notebook</td>
 </tr>
 <tr>
-<td align="right">70</td>
-<td><img src="https://github.com/mahmoud-sampa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mahmoud-sampa/stripe-ach-poc"><b>mahmoud-sampa/stripe-ach-poc</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
+<td align="right">61</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/omniserve"><b>mit-han-lab/omniserve</b></a><br><sub>&#91;MLSys&#39;25&#93; QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving; &#91;MLSys&#39;25&#93; LServe: Efficient Lo…</sub></td>
+<td align="right"><b>868</b></td>
+<td align="right">75</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/pear"><b>mit-han-lab/pear</b></a><br><sub>Training Reasoning Models in Simulation to Natively Use Real Robots</sub></td>
+<td align="right"><b>840</b></td>
+<td align="right">55</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/ctf0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ctf0/Laravel-Media-Manager"><b>ctf0/Laravel-Media-Manager</b></a> <sub>archived</sub><br><sub>A &quot;Vuejs &amp; Laravel&quot; Media Manager With Tons of Features</sub></td>
+<td align="right"><b>837</b></td>
+<td align="right">180</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">71</td>
-<td><img src="https://github.com/Mo7aMeD-Adel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mo7aMeD-Adel/CFD"><b>Mo7aMeD-Adel/CFD</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
-<td>MATLAB</td>
+<td align="right">64</td>
+<td><img src="https://github.com/EslaMx7.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EslaMx7/PasteIntoFile"><b>EslaMx7/PasteIntoFile</b></a><br><sub>Paste Clipboard Contents Into Files Directly (New Version Released 🔥)</sub></td>
+<td align="right"><b>821</b></td>
+<td align="right">61</td>
+<td>C#</td>
 </tr>
 <tr>
-<td align="right">72</td>
-<td><img src="https://github.com/ShiftDigitalSolutions.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ShiftDigitalSolutions/Authentication-Android"><b>ShiftDigitalSolutions/Authentication-Android</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
-<td>Java</td>
+<td align="right">65</td>
+<td><img src="https://github.com/CATReloaded.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CATReloaded/CATReloaded-Circles-Roadmaps"><b>CATReloaded/CATReloaded-Circles-Roadmaps</b></a><br><sub>Roadmaps for CAT Reloaded across seasons and years.</sub></td>
+<td align="right"><b>809</b></td>
+<td align="right">75</td>
+<td>—</td>
 </tr>
 <tr>
-<td align="right">73</td>
-<td><img src="https://github.com/sphinxeg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sphinxeg/cerberusx-vscode"><b>sphinxeg/cerberusx-vscode</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
+<td align="right">66</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/anycost-gan"><b>mit-han-lab/anycost-gan</b></a><br><sub>&#91;CVPR 2021&#93; Anycost GANs for Interactive Image Synthesis and Editing</sub></td>
+<td align="right"><b>779</b></td>
+<td align="right">98</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><img src="https://github.com/mohyware.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mohyware/clip-js"><b>mohyware/clip-js</b></a><br><sub>online video editor built with nextjs, remotion and ffmpeg (web assembly port) for render.</sub></td>
+<td align="right"><b>776</b></td>
+<td align="right">94</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">74</td>
-<td><img src="https://github.com/taitanic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/taitanic/ngoooom"><b>taitanic/ngoooom</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
+<td align="right">68</td>
+<td><img src="https://github.com/alash3al.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alash3al/stash"><b>alash3al/stash</b></a><br><sub>Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server incl…</sub></td>
+<td align="right"><b>771</b></td>
+<td align="right">46</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><img src="https://github.com/bakrianoo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bakrianoo/mini-rag"><b>bakrianoo/mini-rag</b></a><br><sub>An Educational Project (step by step) to teach how to build a production-ready app for RAG application.</sub></td>
+<td align="right"><b>766</b></td>
+<td align="right">350</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/MadryLab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MadryLab/mnist_challenge"><b>MadryLab/mnist&#95;challenge</b></a><br><sub>A challenge to explore adversarial robustness of neural networks on MNIST.</sub></td>
+<td align="right"><b>759</b></td>
+<td align="right">180</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/A-Hemeda.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/A-Hemeda/Remote-Jobs-List"><b>A-Hemeda/Remote-Jobs-List</b></a></td>
+<td align="right"><b>755</b></td>
+<td align="right">44</td>
 <td>—</td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><img src="https://github.com/ahmedbna.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ahmedbna/ui"><b>ahmedbna/ui</b></a><br><sub>BNA UI - Expo, React Native components library</sub></td>
+<td align="right"><b>742</b></td>
+<td align="right">57</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><img src="https://github.com/ctf0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ctf0/Seti_ST3"><b>ctf0/Seti&#95;ST3</b></a> <sub>archived</sub><br><sub>Seti&#95;UI Port for ST3.</sub></td>
+<td align="right"><b>738</b></td>
+<td align="right">142</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/AhmedLSayed9.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmedLSayed9/deliverzler"><b>AhmedLSayed9/deliverzler</b></a><br><sub>Delivery App for Restaurants built on Flutter using Domain-Driven Design (DDD) and Layered Architecture along with Rive…</sub></td>
+<td align="right"><b>735</b></td>
+<td align="right">196</td>
+<td>Dart</td>
 </tr>
 <tr>
 <td align="right">75</td>
-<td><img src="https://github.com/yusuf-madkour.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yusuf-madkour/PWN0S"><b>yusuf-madkour/PWN0S</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">61</td>
-<td>HTML</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/distrifuser"><b>mit-han-lab/distrifuser</b></a><br><sub>&#91;CVPR 2024 Highlight&#93; DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models</sub></td>
+<td align="right"><b>731</b></td>
+<td align="right">33</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">76</td>
-<td><img src="https://github.com/ABOSEHAM.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ABOSEHAM/ABOSEHAM.github.io"><b>ABOSEHAM/ABOSEHAM.github.io</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>Io</td>
+<td><img src="https://github.com/MinaSamir11.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MinaSamir11/react-native-in-app-review"><b>MinaSamir11/react-native-in-app-review</b></a><br><sub>The Google Play In-App Review API, App store rating API lets you prompt users to submit Play Store or App store ratings…</sub></td>
+<td align="right"><b>727</b></td>
+<td align="right">76</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">77</td>
-<td><img src="https://github.com/deadly-coder.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/deadly-coder/TheHawk-GameStoreTemplate"><b>deadly-coder/TheHawk-GameStoreTemplate</b></a> <sub>archived</sub></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>HTML</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/mcunet"><b>mit-han-lab/mcunet</b></a><br><sub>&#91;NeurIPS 2020&#93; MCUNet: Tiny Deep Learning on IoT Devices; &#91;NeurIPS 2021&#93; MCUNetV2: Memory-Efficient Patch-based Inferen…</sub></td>
+<td align="right"><b>725</b></td>
+<td align="right">111</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">78</td>
-<td><img src="https://github.com/ezzine.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ezzine/Yemen-Data"><b>ezzine/Yemen-Data</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>—</td>
+<td><img src="https://github.com/aashrafh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aashrafh/Mozart"><b>aashrafh/Mozart</b></a><br><sub>An optical music recognition (OMR) system. Converts sheet music to a machine-readable version.</sub></td>
+<td align="right"><b>716</b></td>
+<td align="right">105</td>
+<td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">79</td>
-<td><img src="https://github.com/Mohamed1981997.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mohamed1981997/Cybersecurity-Capstone-Project-master"><b>Mohamed1981997/Cybersecurity-Capstone-Project-master</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>PHP</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/fastcomposer"><b>mit-han-lab/fastcomposer</b></a><br><sub>&#91;IJCV&#93; FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention</sub></td>
+<td align="right"><b>713</b></td>
+<td align="right">43</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">80</td>
-<td><img src="https://github.com/MohamedDiaaEl-DIn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MohamedDiaaEl-DIn/Pinerium"><b>MohamedDiaaEl-DIn/Pinerium</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>—</td>
+<td><img src="https://github.com/mbadry1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mbadry1/Trending-Deep-Learning"><b>mbadry1/Trending-Deep-Learning</b></a><br><sub>Top 100 trending deep learning repositories sorted by the number of stars gained on a specific day.</sub></td>
+<td align="right"><b>712</b></td>
+<td align="right">218</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">81</td>
-<td><img src="https://github.com/Mustafa-Alaaelden.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mustafa-Alaaelden/schrodinger-chat"><b>Mustafa-Alaaelden/schrodinger-chat</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>HTML</td>
+<td><img src="https://github.com/baianat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/baianat/hooper"><b>baianat/hooper</b></a><br><sub>🎠 A customizable accessible carousel slider optimized for Vue</sub></td>
+<td align="right"><b>703</b></td>
+<td align="right">130</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">82</td>
-<td><img src="https://github.com/mustaphametwally.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mustaphametwally/getbootstrapped"><b>mustaphametwally/getbootstrapped</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">83</td>
-<td><img src="https://github.com/3amrSaad.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/3amrSaad/3amrSaad.github.io"><b>3amrSaad/3amrSaad.github.io</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
+<td><img src="https://github.com/Kamona-WD.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Kamona-WD/kwd-dashboard"><b>Kamona-WD/kwd-dashboard</b></a><br><sub>Fully responsive dashboard template built with tailwindcss &amp; alpinejs</sub></td>
+<td align="right"><b>698</b></td>
+<td align="right">192</td>
 <td>HTML</td>
 </tr>
 <tr>
+<td align="right">83</td>
+<td><img src="https://github.com/AhmedElywa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmedElywa/prisma-tools"><b>AhmedElywa/prisma-tools</b></a><br><sub>Prisma tools to help you generate CRUD system for GraphQL servers</sub></td>
+<td align="right"><b>696</b></td>
+<td align="right">61</td>
+<td>TypeScript</td>
+</tr>
+<tr>
 <td align="right">84</td>
-<td><img src="https://github.com/5os.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/5os/WhatsAPI"><b>5os/WhatsAPI</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
+<td><img src="https://github.com/dinaashraf20003.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dinaashraf20003/Software-Internship-Guide"><b>dinaashraf20003/Software-Internship-Guide</b></a><br><sub>Software Internship Guide for Egyptian Undergraduates</sub></td>
+<td align="right"><b>694</b></td>
+<td align="right">20</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">85</td>
-<td><img src="https://github.com/A-Nour.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/A-Nour/Planning"><b>A-Nour/Planning</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>C++</td>
+<td><img src="https://github.com/mabbas007.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mabbas007/TagsEditText"><b>mabbas007/TagsEditText</b></a><br><sub>Android EditText for view tags or chips</sub></td>
+<td align="right"><b>687</b></td>
+<td align="right">122</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">86</td>
-<td><img src="https://github.com/a3del.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/a3del/AI-Prompt"><b>a3del/AI-Prompt</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
+<td><img src="https://github.com/MindPatch.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MindPatch/scant3r"><b>MindPatch/scant3r</b></a><br><sub>ScanT3r - Module based Bug Bounty Automation Tool ( use Lotus instead github.com/bugBlocker/lotus )</sub></td>
+<td align="right"><b>684</b></td>
+<td align="right">148</td>
+<td>Rust</td>
 </tr>
 <tr>
 <td align="right">87</td>
-<td><img src="https://github.com/Abdellatief.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Abdellatief/TelyPro"><b>Abdellatief/TelyPro</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/pvcnn"><b>mit-han-lab/pvcnn</b></a> <sub>archived</sub><br><sub>&#91;NeurIPS 2019, Spotlight&#93; Point-Voxel CNN for Efficient 3D Deep Learning</sub></td>
+<td align="right"><b>678</b></td>
+<td align="right">128</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">88</td>
-<td><img src="https://github.com/abdelmawla.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abdelmawla/Consolidated-Database"><b>abdelmawla/Consolidated-Database</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>C#</td>
+<td><img src="https://github.com/marcozakaria.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/marcozakaria/URP-LWRP-Shaders"><b>marcozakaria/URP-LWRP-Shaders</b></a><br><sub>A Collection of Shader For URP(LWRP) Render Pipeline</sub></td>
+<td align="right"><b>655</b></td>
+<td align="right">64</td>
+<td>ShaderLab</td>
 </tr>
 <tr>
 <td align="right">89</td>
-<td><img src="https://github.com/Abdelrahman281.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Abdelrahman281/TCP_SocketLayer"><b>Abdelrahman281/TCP&#95;SocketLayer</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>Swift</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/hart"><b>mit-han-lab/hart</b></a><br><sub>HART: Efficient Visual Generation with Hybrid Autoregressive Transformer</sub></td>
+<td align="right"><b>651</b></td>
+<td align="right">44</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">90</td>
-<td><img src="https://github.com/abdullah191298.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abdullah191298/web-a98"><b>abdullah191298/web-a98</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>HTML</td>
+<td><img src="https://github.com/Davenchy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Davenchy/live-torrent"><b>Davenchy/live-torrent</b></a> <sub>archived</sub><br><sub>Torrent Web Client</sub></td>
+<td align="right"><b>633</b></td>
+<td align="right">201</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">91</td>
-<td><img src="https://github.com/Abunagy1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Abunagy1/next-app"><b>Abunagy1/next-app</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/ywmaa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ywmaa/Advanced-Movement-System-Godot"><b>ywmaa/Advanced-Movement-System-Godot</b></a><br><sub>This project is a template for creating advanced Third/First Person movement in GODOT</sub></td>
+<td align="right"><b>628</b></td>
+<td align="right">51</td>
+<td>GDScript</td>
 </tr>
 <tr>
 <td align="right">92</td>
-<td><img src="https://github.com/AdvancedDevelopers.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AdvancedDevelopers/ChatSignalR"><b>AdvancedDevelopers/ChatSignalR</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/spvnas"><b>mit-han-lab/spvnas</b></a> <sub>archived</sub><br><sub>&#91;ECCV 2020&#93; Searching Efficient 3D Architectures with Sparse Point-Voxel Convolution</sub></td>
+<td align="right"><b>622</b></td>
+<td align="right">114</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">93</td>
-<td><img src="https://github.com/aessamm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aessamm/mission-mods"><b>aessamm/mission-mods</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">94</td>
-<td><img src="https://github.com/ahmadnegm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ahmadnegm/Publishers.EF.CodeFirst.Repository.UnitOfWork.Demo"><b>ahmadnegm/Publishers.EF.CodeFirst.Repository.UnitOfWork.Demo</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>C#</td>
-</tr>
-<tr>
-<td align="right">95</td>
-<td><img src="https://github.com/ahmed-sayed.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ahmed-sayed/Computational-Geometry-Package"><b>ahmed-sayed/Computational-Geometry-Package</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>C#</td>
-</tr>
-<tr>
-<td align="right">96</td>
-<td><img src="https://github.com/AhmedBdier.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmedBdier/Facebook"><b>AhmedBdier/Facebook</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
+<td><img src="https://github.com/h9-tect.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/h9-tect/ML-DL_Roadmap."><b>h9-tect/ML-DL&#95;Roadmap.</b></a></td>
+<td align="right"><b>620</b></td>
+<td align="right">74</td>
 <td>—</td>
 </tr>
 <tr>
+<td align="right">94</td>
+<td><img src="https://github.com/donn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/donn/nudelta"><b>donn/nudelta</b></a><br><sub>Open source NuPhy Console alternative</sub></td>
+<td align="right"><b>611</b></td>
+<td align="right">30</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/radial-attention"><b>mit-han-lab/radial-attention</b></a><br><sub>&#91;NeurIPS 2025&#93; Radial Attention: O(nlogn) Sparse Attention with Energy Decay for Long Video Generation</sub></td>
+<td align="right"><b>610</b></td>
+<td align="right">36</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/lite-transformer"><b>mit-han-lab/lite-transformer</b></a> <sub>archived</sub><br><sub>&#91;ICLR 2020&#93; Lite Transformer with Long-Short Range Attention</sub></td>
+<td align="right"><b>609</b></td>
+<td align="right">83</td>
+<td>Python</td>
+</tr>
+<tr>
 <td align="right">97</td>
-<td><img src="https://github.com/AhmedKasban.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmedKasban/kasban.github.io"><b>AhmedKasban/kasban.github.io</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>HTML</td>
+<td><img src="https://github.com/baianat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/baianat/vuse"><b>baianat/vuse</b></a><br><sub>🚧 Build web pages with Vuse, the next-gen interactive page builder powered with Vue.js.</sub></td>
+<td align="right"><b>605</b></td>
+<td align="right">135</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">98</td>
-<td><img src="https://github.com/AhmedMansey.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmedMansey/finance"><b>AhmedMansey/finance</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
+<td><img src="https://github.com/linkeddata.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/linkeddata/rdflib.js"><b>linkeddata/rdflib.js</b></a><br><sub>Linked Data API for JavaScript</sub></td>
+<td align="right"><b>599</b></td>
+<td align="right">147</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">99</td>
-<td><img src="https://github.com/AhmedYahia2000.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmedYahia2000/IMAM"><b>AhmedYahia2000/IMAM</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
+<td><img src="https://github.com/a7medev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/a7medev/react-native-ml-kit"><b>a7medev/react-native-ml-kit</b></a><br><sub>React Native On-Device Machine Learning w/ Google ML Kit</sub></td>
+<td align="right"><b>588</b></td>
+<td align="right">86</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">100</td>
-<td><img src="https://github.com/amiralex32.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/amiralex32/SAeroRP"><b>amiralex32/SAeroRP</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>C++</td>
+<td><img src="https://github.com/mkassm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mkassm/References_Books"><b>mkassm/References&#95;Books</b></a><br><sub>My awseome reference books library</sub></td>
+<td align="right"><b>585</b></td>
+<td align="right">27</td>
+<td>HTML</td>
 </tr>
 </tbody>
 </table>
@@ -729,12 +727,11 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 1 stars; 146 attributed candidates are tracked.
-- 92 entries were carried over from the previous dataset and are pending revalidation.
-- 148 multi-repository owners are queued for expansion.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 585 stars; 145 attributed candidates are tracked.
+- 120 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 153 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

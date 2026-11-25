@@ -14,21 +14,111 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/contributors/MR.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/MR.json">JSON</a> |
 
 </div>
 
-<p align="center"><sub>Public contributions from <b>22 Nov 2025</b> to <b>22 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
+<p align="center"><sub>Public contributions from <b>24 Nov 2025</b> to <b>24 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
 
 <table>
 <thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Public contributions</th><th align="right">Commits</th><th align="right">PRs</th><th align="right">Reviews</th><th align="right">Issues</th></tr></thead>
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/mohameden19961"><img src="https://avatars.githubusercontent.com/u/205305118?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mohameden19961"><b>abdy mohameden</b></a><br><sub>&#64;mohameden19961 · 7 followers</sub></td>
+<td align="right"><b>4,121</b></td>
+<td align="right">3,886</td>
+<td align="right">161</td>
+<td align="right">0</td>
+<td align="right">22</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/visola777"><img src="https://avatars.githubusercontent.com/u/235709474?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/visola777"><b>visola777</b></a><br><sub>&#64;visola777 · 48 followers</sub></td>
+<td align="right"><b>600</b></td>
+<td align="right">524</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/12ahm-c"><img src="https://avatars.githubusercontent.com/u/206128620?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/12ahm-c"><b>ahmed ismail</b></a><br><sub>&#64;12ahm-c · 2 followers</sub></td>
 <td align="right"><b>381</b></td>
 <td align="right">337</td>
 <td align="right">12</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/aadeina"><img src="https://avatars.githubusercontent.com/u/100243770?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aadeina"><b>Amar</b></a><br><sub>&#64;aadeina · 15 followers</sub></td>
+<td align="right"><b>150</b></td>
+<td align="right">103</td>
+<td align="right">38</td>
+<td align="right">1</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/AB-060"><img src="https://avatars.githubusercontent.com/u/192884991?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AB-060"><b>Abdallahi</b></a><br><sub>&#64;AB-060 · 3 followers</sub></td>
+<td align="right"><b>69</b></td>
+<td align="right">54</td>
+<td align="right">8</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/drBenanyMM"><img src="https://avatars.githubusercontent.com/u/9400070?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/drBenanyMM"><b>Dr. EL BENANY Mohamed Mahmoud</b></a><br><sub>&#64;drBenanyMM · 19 followers</sub></td>
+<td align="right"><b>67</b></td>
+<td align="right">23</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/BechirAhmed"><img src="https://avatars.githubusercontent.com/u/18298101?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BechirAhmed"><b>Bechir Ahmed</b></a><br><sub>&#64;BechirAhmed · 25 followers</sub></td>
+<td align="right"><b>41</b></td>
+<td align="right">31</td>
+<td align="right">6</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/justmamadou"><img src="https://avatars.githubusercontent.com/u/66375343?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/justmamadou"><b>iam&#95;mamadou</b></a><br><sub>&#64;justmamadou · 1 followers</sub></td>
+<td align="right"><b>37</b></td>
+<td align="right">30</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/leloufadel"><img src="https://avatars.githubusercontent.com/u/122641237?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leloufadel"><b>Lala Aicha El Vadel</b></a><br><sub>&#64;leloufadel · 47 followers</sub></td>
+<td align="right"><b>29</b></td>
+<td align="right">27</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/7assen-coder"><img src="https://avatars.githubusercontent.com/u/86810094?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/7assen-coder"><b>Mohammed Hassen</b></a><br><sub>&#64;7assen-coder · 7 followers</sub></td>
+<td align="right"><b>12</b></td>
+<td align="right">10</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/muhamedoufi"><img src="https://avatars.githubusercontent.com/u/59662683?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/muhamedoufi"><b>Muhamedou Fi</b></a><br><sub>&#64;muhamedoufi · 7 followers</sub></td>
+<td align="right"><b>5</b></td>
+<td align="right">2</td>
+<td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
 </tr>
@@ -39,10 +129,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 1 of 191 discovered developers (190 awaiting measurement).
+- **Measured:** 11 of 255 discovered developers (244 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 104 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

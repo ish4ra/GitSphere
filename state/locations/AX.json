@@ -4,11 +4,11 @@
 "round": 1,
 "roundStartedAt": "2026-11-22T10:49:18.364Z",
 "terms": {"count":33,"fingerprint":"33:fd31b5de"},
-"termIndex": 1,
-"specIndex": 1,
-"active": {"term":"Åland","kind":"organizations","queue":[{"metric":[0,100000000],"created":null,"cursor":"Y3Vyc29yOjUw","page":2,"retrieved":50,"attempts":0}],"unresolved":[],"cycleStartedAt":"2026-11-22T10:49:28.201Z","stats":{"pages":1}},
+"termIndex": 4,
+"specIndex": 0,
+"active": null,
 "unresolved": [],
 "completedRounds": [],
-"stats": {"requests":6,"pages":6,"accounts":207},
-"updatedAt": "2026-11-22T10:49:28.201Z"
+"stats": {"requests":12,"pages":12,"accounts":262},
+"updatedAt": "2026-11-24T21:28:41.459Z"
 }

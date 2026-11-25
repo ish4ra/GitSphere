@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/developers/TK.json">JSON</a> |
+| 🟡 Provisional | **13** | 24 Nov 2026 | <a href="../../data/developers/TK.json">JSON</a> |
 
 </div>
 
@@ -84,6 +84,34 @@
 <td align="right">1</td>
 <td><sub>Tokelau</sub></td>
 </tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/k400r"><img src="https://avatars.githubusercontent.com/u/8430757?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/k400r"><b>K400r</b></a><br><sub>&#64;k400r</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Tokelau-Tk</sub></td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/p4c1f1cu5"><img src="https://avatars.githubusercontent.com/u/123193558?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/p4c1f1cu5"><b>p4c1f1cu5</b></a><br><sub>&#64;p4c1f1cu5</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Nukunonu, Tokelau</sub></td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><a href="https://github.com/tokelautk"><img src="https://avatars.githubusercontent.com/u/47704165?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tokelautk"><b>Tokelau देख</b></a><br><sub>&#64;tokelautk</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Tokelau</sub></td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><a href="https://github.com/u2mbeu3jab"><img src="https://avatars.githubusercontent.com/u/321612636?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/u2mbeu3jab"><b>Judith Powell</b></a><br><sub>&#64;u2mbeu3jab</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Smithberg, Tokelau</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -92,8 +120,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 9 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 13 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 3 of 13 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

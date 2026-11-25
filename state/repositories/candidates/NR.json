@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"NR","name":"Nauru","slug":"nauru"},
-"count": 14,
+"count": 13,
 "repositories": [
-  {"name":"Melonbwead/lucky-zsh-theme","stars":11,"forks":1,"language":"Shell","archived":false,"createdAt":"2023-07-13T14:19:02Z","pushedAt":"2023-07-14T12:53:57Z","owner":{"login":"Melonbwead","type":"User","name":"Melon","location":"Verse"},"attribution":{"code":"NR","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-02T06:24:58.181Z","id":"legacy:melonbwead/lucky-zsh-theme","legacy":true},
   {"name":"nauru-jp/nauru","stars":2,"forks":1,"language":"HTML","license":"MIT","archived":false,"createdAt":"2022-12-01T11:51:50Z","pushedAt":"2022-12-01T11:52:48Z","owner":{"login":"nauru-jp","type":"Organization","name":"Nauru Japan","location":"Nauru"},"attribution":{"code":"NR","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:24:58.181Z","id":"legacy:nauru-jp/nauru","legacy":true},
   {"name":"ensonfun/ensonfun.github.io","stars":2,"forks":0,"language":"HTML","archived":false,"createdAt":"2023-05-22T08:29:19Z","pushedAt":"2026-04-26T07:12:03Z","owner":{"login":"ensonfun","type":"User","name":"ensonfun","location":"Verse"},"attribution":{"code":"NR","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-02T06:24:58.181Z","id":"legacy:ensonfun/ensonfun.github.io","legacy":true},
   {"name":"nutsi/rust-mysql","stars":1,"forks":2,"language":"Rust","archived":false,"createdAt":"2013-11-08T09:24:18Z","pushedAt":"2013-11-28T08:58:55Z","owner":{"login":"nutsi","type":"User","location":"Yaren"},"attribution":{"code":"NR","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-11-02T06:24:58.181Z","id":"legacy:nutsi/rust-mysql","legacy":true},

@@ -5,12 +5,24 @@
 "country": {"code":"EH","name":"Western Sahara","slug":"western-sahara"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":1,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":13,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":34,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjEyMDE4NjU2","login":"abbouh","name":"Abbouh","url":"https://github.com/abbouh","avatarUrl":"https://avatars.githubusercontent.com/u/12018656?s=80&v=4","followers":0,"publicRepos":2,"location":"Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":1,"id":"MDQ6VXNlcjYwODE3ODc1","login":"suzuya1331","name":"Hassan mansour","url":"https://github.com/suzuya1331","avatarUrl":"https://avatars.githubusercontent.com/u/60817875?s=80&v=4","followers":30,"publicRepos":36,"location":"Laayoune, Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"MDQ6VXNlcjE4MjYwMTYz","login":"ob-aion","name":"OB","url":"https://github.com/ob-aion","avatarUrl":"https://avatars.githubusercontent.com/u/18260163?s=80&v=4","followers":7,"publicRepos":6,"location":"Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":3,"id":"U_kgDOBu4y1Q","login":"Agaoudi","name":"Mohamed Elamine Gaoudi","url":"https://github.com/Agaoudi","avatarUrl":"https://avatars.githubusercontent.com/u/116273877?s=80&v=4","followers":5,"publicRepos":0,"location":"Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
+  {"rank":4,"id":"MDQ6VXNlcjU5NjM1Nzc=","login":"Omebran","name":null,"url":"https://github.com/Omebran","avatarUrl":"https://avatars.githubusercontent.com/u/5963577?s=80&v=4","followers":4,"publicRepos":16,"location":"East Annaton, Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":5,"id":"U_kgDOBsI4uA","login":"LevKotly","name":"Lev","url":"https://github.com/LevKotly","avatarUrl":"https://avatars.githubusercontent.com/u/113391800?s=80&v=4","followers":1,"publicRepos":0,"location":"Laayoune, Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":6,"id":"MDQ6VXNlcjQ3NjcyNzkz","login":"Brahim-Ezzahraoui","name":"Brahim Ezzahraoui","url":"https://github.com/Brahim-Ezzahraoui","avatarUrl":"https://avatars.githubusercontent.com/u/47672793?s=80&v=4","followers":0,"publicRepos":10,"location":"Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":7,"id":"MDQ6VXNlcjEyMDE4NjU2","login":"abbouh","name":"Abbouh","url":"https://github.com/abbouh","avatarUrl":"https://avatars.githubusercontent.com/u/12018656?s=80&v=4","followers":0,"publicRepos":2,"location":"Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":8,"id":"U_kgDOBbVmeA","login":"devprivatlie","name":"PRV","url":"https://github.com/devprivatlie","avatarUrl":"https://avatars.githubusercontent.com/u/95774328?s=80&v=4","followers":0,"publicRepos":2,"location":"Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":9,"id":"MDQ6VXNlcjgzMzgxMDIw","login":"saflyy","name":"saflyy","url":"https://github.com/saflyy","avatarUrl":"https://avatars.githubusercontent.com/u/83381020?s=80&v=4","followers":0,"publicRepos":2,"location":"western sahara","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":10,"id":"U_kgDOCMfdaQ","login":"mBghost26","name":"Moussa Breh","url":"https://github.com/mBghost26","avatarUrl":"https://avatars.githubusercontent.com/u/147316073?s=80&v=4","followers":0,"publicRepos":1,"location":"laayoune western sahara","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":11,"id":"MDQ6VXNlcjcwOTgzMjM4","login":"NajemeZaidan","name":"Najem","url":"https://github.com/NajemeZaidan","avatarUrl":"https://avatars.githubusercontent.com/u/70983238?s=80&v=4","followers":0,"publicRepos":1,"location":"Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":12,"id":"MDQ6VXNlcjIzNTA2NDM2","login":"unastamm","name":"Orlo Hickle V","url":"https://github.com/unastamm","avatarUrl":"https://avatars.githubusercontent.com/u/23506436?s=80&v=4","followers":0,"publicRepos":0,"location":"Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":13,"id":"MDQ6VXNlcjg1MzA5MDA=","login":"yen-mi","name":null,"url":"https://github.com/yen-mi","avatarUrl":"https://avatars.githubusercontent.com/u/8530900?s=80&v=4","followers":0,"publicRepos":0,"location":"Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "26f188e683aa5ad8",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "f06fca5a2046f70f",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

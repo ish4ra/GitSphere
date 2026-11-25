@@ -191,17 +191,17 @@
 </tr>
 <tr>
 <td align="right">25</td>
+<td><a href="https://github.com/Javonte268"><img src="https://avatars.githubusercontent.com/u/77419624?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Javonte268"><b>Javonte J. ANTHONY</b></a><br><sub>&#64;Javonte268</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">9</td>
+<td><sub>Antigua and Barbuda</sub></td>
+</tr>
+<tr>
+<td align="right">26</td>
 <td><a href="https://github.com/Rickysue"><img src="https://avatars.githubusercontent.com/u/67427063?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rickysue"><b>Rickysue</b></a><br><sub>&#64;Rickysue</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">9</td>
 <td><sub>19267 ,MacGyver Key ,North Jamalbury ,Massachus…</sub></td>
-</tr>
-<tr>
-<td align="right">26</td>
-<td><a href="https://github.com/Javonte268"><img src="https://avatars.githubusercontent.com/u/77419624?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Javonte268"><b>Javonte J. ANTHONY</b></a><br><sub>&#64;Javonte268</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">8</td>
-<td><sub>Antigua and Barbuda</sub></td>
 </tr>
 <tr>
 <td align="right">27</td>
@@ -450,7 +450,7 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
 - Organizations are excluded. 60 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 2 of 34 in round 1.
+- **Location discovery:** term 5 of 34 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

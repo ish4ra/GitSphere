@@ -5,13 +5,13 @@
 "country": {"code":"GS","name":"South Georgia & South Sandwich Islands","slug":"south-georgia-south-sandwich-islands"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":2,"ownerExpansionBacklog":1,"candidates":2,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":1,"ownerExpansionBacklog":8,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":22,"unresolved":0},"exhaustive":false},
 "repositories": [
-  {"rank":1,"id":null,"name":"autossh","nameWithOwner":"Autossh/autossh","url":"https://github.com/Autossh/autossh","description":null,"stars":627,"forks":45,"primaryLanguage":"C","license":null,"createdAt":"2021-04-02T14:13:00Z","pushedAt":"2024-07-20T14:21:49Z","archived":false,"owner":{"login":"Autossh","name":"Autossh","type":"Organization","url":"https://github.com/Autossh","location":"South Georgia and South Sandwich Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-09","pendingRevalidation":true},
+  {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkzNTQwMzg5NjY=","name":"autossh","nameWithOwner":"Autossh/autossh","url":"https://github.com/Autossh/autossh","description":"This is an unofficial image,If you are the owner, you can apply for ownership.","stars":634,"forks":46,"primaryLanguage":"C","license":null,"createdAt":"2021-04-02T14:13:00Z","pushedAt":"2024-07-20T14:21:49Z","archived":false,"owner":{"login":"Autossh","name":"Autossh","type":"Organization","url":"https://github.com/Autossh","location":"South Georgia and South Sandwich Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":null,"name":"Mainstay_interest","nameWithOwner":"60928375092815/Mainstay_interest","url":"https://github.com/60928375092815/Mainstay_interest","description":null,"stars":0,"forks":0,"primaryLanguage":"Roff","license":null,"createdAt":"2024-02-21T09:24:40Z","pushedAt":"2024-02-21T09:48:39Z","archived":false,"owner":{"login":"60928375092815","name":"60928375092815","type":"User","url":"https://github.com/60928375092815","location":"Grytviken","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-27","pendingRevalidation":true}
 ],
-"contentHash": "e0a63e5331fbeb11",
-"updatedAt": "2026-11-22T08:41:14.246Z",
-"verifiedOn": "2026-10-09",
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"contentHash": "6e93804017d3018e",
+"updatedAt": "2026-11-25T04:54:26.707Z",
+"verifiedOn": "2026-10-27",
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

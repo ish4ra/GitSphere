@@ -3,12 +3,16 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"MS","name":"Montserrat","slug":"montserrat"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":13,"measuredAccounts":1,"measurementBacklog":12,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "4d1122c8391e20be",
-"updatedAt": "2026-11-22T11:14:57.063Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"coverage": {"basis":"partial","discoveredAccounts":18,"measuredAccounts":11,"measurementBacklog":7,"window":{"from":"2025-11-24T01:00:00Z","to":"2026-11-24T01:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":8,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"MDQ6VXNlcjc3NjI1Njg=","login":"SpicePayne","name":"Sasha Payne","url":"https://github.com/SpicePayne","avatarUrl":"https://avatars.githubusercontent.com/u/7762568?s=80&v=4","followers":0,"publicRepos":5,"location":"Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":25,"commits":22,"pullRequests":3,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
+  {"rank":2,"id":"MDQ6VXNlcjE1Njg1Mzc2","login":"MagicStarTrace","name":"Magic","url":"https://github.com/MagicStarTrace","avatarUrl":"https://avatars.githubusercontent.com/u/15685376?s=80&v=4","followers":6,"publicRepos":22,"location":"0008 ,Mayer Pike ,Port Lesaborough ,Arkansas ,Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":21,"commits":9,"pullRequests":0,"reviews":0,"issues":11,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":3,"id":"MDQ6VXNlcjc4NTA3Mjcw","login":"copcaress","name":"Nikita Copcar","url":"https://github.com/copcaress","avatarUrl":"https://avatars.githubusercontent.com/u/78507270?s=80&v=4","followers":0,"publicRepos":2,"location":"Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":6,"commits":5,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T21:00:00Z","windowTo":"2026-11-24T21:00:00Z","measuredOn":"2026-11-24"}}
+],
+"contentHash": "3a9a54ec3a168f27",
+"updatedAt": "2026-11-25T04:54:26.707Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

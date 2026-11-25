@@ -14,20 +14,62 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🔵 Building | **0** | — | <a href="../../data/contributors/VU.json">JSON</a> |
+| 🟡 Provisional | **4** | 22 Nov 2026 | <a href="../../data/contributors/VU.json">JSON</a> |
 
 </div>
 
-> Discovery for this country is still running. Results appear here automatically as soon as attributable entries are found and verified.
+<p align="center"><sub>Public contributions from <b>23 Nov 2025</b> to <b>23 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
+
+<table>
+<thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Public contributions</th><th align="right">Commits</th><th align="right">PRs</th><th align="right">Reviews</th><th align="right">Issues</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><a href="https://github.com/alfnitacoder"><img src="https://avatars.githubusercontent.com/u/10040170?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alfnitacoder"><b>AlffieGeorge</b></a><br><sub>&#64;alfnitacoder · 16 followers</sub></td>
+<td align="right"><b>207</b></td>
+<td align="right">164</td>
+<td align="right">37</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/yjulio"><img src="https://avatars.githubusercontent.com/u/186765808?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yjulio"><b>Julio Yaruel</b></a><br><sub>&#64;yjulio · 0 followers</sub></td>
+<td align="right"><b>145</b></td>
+<td align="right">135</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/Kalztar"><img src="https://avatars.githubusercontent.com/u/19895266?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kalztar"><b>Griffith Kalpokas</b></a><br><sub>&#64;Kalztar · 0 followers</sub></td>
+<td align="right"><b>10</b></td>
+<td align="right">1</td>
+<td align="right">5</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/SolaFide"><img src="https://avatars.githubusercontent.com/u/3750351?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SolaFide"><b>Michael Smith</b></a><br><sub>&#64;SolaFide · 0 followers</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+</tbody>
+</table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Building. 
-- **Measured:** 1 of 46 discovered developers (45 awaiting measurement).
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
+- **Measured:** 10 of 78 discovered developers (68 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 2 of 21 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

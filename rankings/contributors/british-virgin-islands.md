@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/contributors/VG.json">JSON</a> |
+| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/VG.json">JSON</a> |
 
 </div>
 
@@ -32,6 +32,87 @@
 <td align="right">0</td>
 <td align="right">43</td>
 </tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/justmoon"><img src="https://avatars.githubusercontent.com/u/53233?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/justmoon"><b>Stefan Thomas</b></a><br><sub>&#64;justmoon · 557 followers</sub></td>
+<td align="right"><b>1,848</b></td>
+<td align="right">1,848</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/BazaarsBZR"><img src="https://avatars.githubusercontent.com/u/102147094?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BazaarsBZR"><b>Bazaars</b></a><br><sub>&#64;BazaarsBZR · 86 followers</sub></td>
+<td align="right"><b>114</b></td>
+<td align="right">112</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/dlichota"><img src="https://avatars.githubusercontent.com/u/8918442?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dlichota"><b>Dietmar Lichota</b></a><br><sub>&#64;dlichota · 1 followers</sub></td>
+<td align="right"><b>57</b></td>
+<td align="right">48</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/melbo-io"><img src="https://avatars.githubusercontent.com/u/345136656?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/melbo-io"><b>Melbo</b></a><br><sub>&#64;melbo-io · 0 followers</sub></td>
+<td align="right"><b>46</b></td>
+<td align="right">6</td>
+<td align="right">19</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/ChengZhu-Science-Repository"><img src="https://avatars.githubusercontent.com/u/239911136?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ChengZhu-Science-Repository"><b>Liu Huan</b></a><br><sub>&#64;ChengZhu-Science-Repository · 1 followers</sub></td>
+<td align="right"><b>28</b></td>
+<td align="right">28</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/na3er-faraji"><img src="https://avatars.githubusercontent.com/u/5822701?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/na3er-faraji"><b>naser</b></a><br><sub>&#64;na3er-faraji · 2 followers</sub></td>
+<td align="right"><b>27</b></td>
+<td align="right">25</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/Dener1111"><img src="https://avatars.githubusercontent.com/u/47250868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dener1111"><b>DK</b></a><br><sub>&#64;Dener1111 · 9 followers</sub></td>
+<td align="right"><b>15</b></td>
+<td align="right">15</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/bluelink-os"><img src="https://avatars.githubusercontent.com/u/345057346?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bluelink-os"><b>BlueLink OS</b></a><br><sub>&#64;bluelink-os · 0 followers</sub></td>
+<td align="right"><b>5</b></td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/cryptsurf"><img src="https://avatars.githubusercontent.com/u/287033193?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cryptsurf"><b>CryptSurf VPN</b></a><br><sub>&#64;cryptsurf · 0 followers</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
 </tbody>
 </table>
 
@@ -39,10 +120,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 2 of 45 discovered developers (43 awaiting measurement).
+- **Measured:** 17 of 86 discovered developers (69 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 1 of 19 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/contributors/NO.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/NO.json">JSON</a> |
 
 </div>
 
@@ -25,12 +25,102 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/xyproto"><img src="https://avatars.githubusercontent.com/u/52813?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xyproto"><b>Alexander F. Rødseth</b></a><br><sub>&#64;xyproto · 668 followers</sub></td>
+<td align="right"><b>5,617</b></td>
+<td align="right">5,570</td>
+<td align="right">11</td>
+<td align="right">3</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/bep"><img src="https://avatars.githubusercontent.com/u/394382?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bep"><b>Bjørn Erik Pedersen</b></a><br><sub>&#64;bep · 2,527 followers</sub></td>
+<td align="right"><b>2,928</b></td>
+<td align="right">2,049</td>
+<td align="right">629</td>
+<td align="right">45</td>
+<td align="right">173</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/devlinduldulao"><img src="https://avatars.githubusercontent.com/u/22025912?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/devlinduldulao"><b>Devlin Duldulao</b></a><br><sub>&#64;devlinduldulao · 304 followers</sub></td>
+<td align="right"><b>2,005</b></td>
+<td align="right">1,960</td>
+<td align="right">14</td>
+<td align="right">2</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/bvssvni"><img src="https://avatars.githubusercontent.com/u/1743862?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bvssvni"><b>Sven Nilsen</b></a><br><sub>&#64;bvssvni · 331 followers</sub></td>
+<td align="right"><b>1,372</b></td>
+<td align="right">980</td>
+<td align="right">350</td>
+<td align="right">0</td>
+<td align="right">41</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/mikalv"><img src="https://avatars.githubusercontent.com/u/195767?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikalv"><b>Mikal</b></a><br><sub>&#64;mikalv · 308 followers</sub></td>
+<td align="right"><b>1,007</b></td>
+<td align="right">751</td>
+<td align="right">29</td>
+<td align="right">0</td>
+<td align="right">198</td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/kimocoder"><img src="https://avatars.githubusercontent.com/u/4252297?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kimocoder"><b>Christian &lt;kimo&gt; B.</b></a><br><sub>&#64;kimocoder · 1,455 followers</sub></td>
 <td align="right"><b>563</b></td>
 <td align="right">395</td>
 <td align="right">129</td>
 <td align="right">0</td>
 <td align="right">4</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/andreped"><img src="https://avatars.githubusercontent.com/u/29090665?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andreped"><b>André Pedersen</b></a><br><sub>&#64;andreped · 208 followers</sub></td>
+<td align="right"><b>337</b></td>
+<td align="right">204</td>
+<td align="right">121</td>
+<td align="right">0</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/comradekingu"><img src="https://avatars.githubusercontent.com/u/13802408?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/comradekingu"><b>Allan Nordhøy</b></a><br><sub>&#64;comradekingu · 430 followers</sub></td>
+<td align="right"><b>66</b></td>
+<td align="right">64</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/eiriklv"><img src="https://avatars.githubusercontent.com/u/3486317?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eiriklv"><b>Eirik L. Vullum</b></a><br><sub>&#64;eiriklv · 361 followers</sub></td>
+<td align="right"><b>63</b></td>
+<td align="right">63</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/domenicosolazzo"><img src="https://avatars.githubusercontent.com/u/387012?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/domenicosolazzo"><b>Domenico Solazzo</b></a><br><sub>&#64;domenicosolazzo · 236 followers</sub></td>
+<td align="right"><b>5</b></td>
+<td align="right">5</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/ellen2015"><img src="https://avatars.githubusercontent.com/u/11596914?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ellen2015"><b>ElementDemons</b></a><br><sub>&#64;ellen2015 · 268 followers</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
 </tr>
 </tbody>
 </table>
@@ -39,10 +129,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 1 of 418 discovered developers (417 awaiting measurement).
+- **Measured:** 11 of 649 discovered developers (638 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 167 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

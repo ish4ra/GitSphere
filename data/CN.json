@@ -5,7 +5,7 @@
 "country": {"code":"CN","name":"China","slug":"china"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":30357,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":129,"candidates":150,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":30357,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":129,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":195,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk1ODAyODAzOA==","name":"HelloGitHub","nameWithOwner":"521xueweihan/HelloGitHub","url":"https://github.com/521xueweihan/HelloGitHub","description":":octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.","stars":190469,"forks":13347,"primaryLanguage":"Python","license":null,"createdAt":"2016-05-04T06:24:11Z","pushedAt":"2026-10-31T18:08:05Z","archived":false,"owner":{"login":"521xueweihan","name":"削微寒","type":"User","url":"https://github.com/521xueweihan","location":"Beijing, China","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkxMjM0NTg1NTE=","name":"Python-100-Days","nameWithOwner":"jackfrued/Python-100-Days","url":"https://github.com/jackfrued/Python-100-Days","description":"Python - 100天从新手到大师","stars":187973,"forks":55689,"primaryLanguage":"Jupyter Notebook","license":null,"createdAt":"2018-03-01T16:05:52Z","pushedAt":"2026-07-29T15:18:29Z","archived":false,"owner":{"login":"jackfrued","name":"骆昊","type":"User","url":"https://github.com/jackfrued","location":"Chengdu Sichuan, China","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"MDEwOlJlcG9zaXRvcnk4MjM1OTkxMA==","name":"Tvlist-awesome-m3u-m3u8","nameWithOwner":"imDazui/Tvlist-awesome-m3u-m3u8","url":"https://github.com/imDazui/Tvlist-awesome-m3u-m3u8","description":"直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵","stars":30420,"forks":3476,"primaryLanguage":null,"license":null,"createdAt":"2017-02-18T03:59:25Z","pushedAt":"2025-11-14T10:50:50Z","archived":false,"owner":{"login":"imDazui","name":"Dazui","type":"User","url":"https://github.com/imDazui","location":"Beijing","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-22"},
   {"rank":100,"id":"MDEwOlJlcG9zaXRvcnkyNjM1NTYwNTg=","name":"GitHub520","nameWithOwner":"521xueweihan/GitHub520","url":"https://github.com/521xueweihan/GitHub520","description":":kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）","stars":30357,"forks":2775,"primaryLanguage":"Python","license":null,"createdAt":"2020-05-13T07:25:21Z","pushedAt":"2026-11-22T10:08:32Z","archived":false,"owner":{"login":"521xueweihan","name":"削微寒","type":"User","url":"https://github.com/521xueweihan","location":"Beijing, China","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "4d8c8dc37300be10",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "012d734353f420ab",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

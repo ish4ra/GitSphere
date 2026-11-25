@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"country": "ID",
+"round": 1,
+"roundStartedAt": "2026-11-23T03:00:55.748Z",
+"terms": {"count":183,"fingerprint":"183:10d8cb5e"},
+"termIndex": 0,
+"specIndex": 0,
+"active": {"term":"Indonesia","kind":"users","queue":[{"metric":[0,12500000],"created":null,"cursor":null,"page":1}],"unresolved":[],"cycleStartedAt":"2026-11-23T03:00:55.748Z","stats":{"splits":3,"leaves":3,"pages":3}},
+"unresolved": [],
+"completedRounds": [],
+"stats": {"requests":6,"pages":3,"accounts":0},
+"updatedAt": "2026-11-23T03:00:55.748Z"
+}

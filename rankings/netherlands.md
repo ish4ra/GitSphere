@@ -729,9 +729,9 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 4,422 stars; 110 attributed candidates are tracked.
-- 133 multi-repository owners are queued for expansion.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Cutoff:** the last listed repository has 4,422 stars; 150 attributed candidates are tracked.
+- 129 multi-repository owners are queued for expansion.
+- **Location discovery:** term 0 of 155 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

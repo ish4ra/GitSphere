@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/contributors/MN.json">JSON</a> |
+| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/MN.json">JSON</a> |
 
 </div>
 
@@ -32,6 +32,87 @@
 <td align="right">24</td>
 <td align="right">49</td>
 </tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/erdenekhuu-bot"><img src="https://avatars.githubusercontent.com/u/131874258?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/erdenekhuu-bot"><b>erdenee</b></a><br><sub>&#64;erdenekhuu-bot · 365 followers</sub></td>
+<td align="right"><b>272</b></td>
+<td align="right">230</td>
+<td align="right">15</td>
+<td align="right">0</td>
+<td align="right">14</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/sharavsambuu"><img src="https://avatars.githubusercontent.com/u/148336?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sharavsambuu"><b>sharavsambuu</b></a><br><sub>&#64;sharavsambuu · 216 followers</sub></td>
+<td align="right"><b>201</b></td>
+<td align="right">191</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/buyaka"><img src="https://avatars.githubusercontent.com/u/36476?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/buyaka"><b>buyaka</b></a><br><sub>&#64;buyaka · 47 followers</sub></td>
+<td align="right"><b>105</b></td>
+<td align="right">5</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/EnvyGod-dev"><img src="https://avatars.githubusercontent.com/u/74611130?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EnvyGod-dev"><b>Yako</b></a><br><sub>&#64;EnvyGod-dev · 2 followers</sub></td>
+<td align="right"><b>99</b></td>
+<td align="right">49</td>
+<td align="right">47</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/0Orchlon"><img src="https://avatars.githubusercontent.com/u/171538596?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0Orchlon"><b>Orchlon</b></a><br><sub>&#64;0Orchlon · 1 followers</sub></td>
+<td align="right"><b>71</b></td>
+<td align="right">66</td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/anhbaysgalan1"><img src="https://avatars.githubusercontent.com/u/31855776?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anhbaysgalan1"><b>Ankhbayasgalan Davaadorj</b></a><br><sub>&#64;anhbaysgalan1 · 39 followers</sub></td>
+<td align="right"><b>60</b></td>
+<td align="right">52</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/KInGATiLLa"><img src="https://avatars.githubusercontent.com/u/17881842?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KInGATiLLa"><b>KInGATiLLa</b></a><br><sub>&#64;KInGATiLLa · 99 followers</sub></td>
+<td align="right"><b>19</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/mnkhod"><img src="https://avatars.githubusercontent.com/u/46494779?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mnkhod"><b>Munkh-Od</b></a><br><sub>&#64;mnkhod · 202 followers</sub></td>
+<td align="right"><b>4</b></td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/doljko"><img src="https://avatars.githubusercontent.com/u/12738721?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/doljko"><b>Enkhbayar Doljinsuren</b></a><br><sub>&#64;doljko · 507 followers</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
 </tbody>
 </table>
 
@@ -39,10 +120,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 1 of 400 discovered developers (399 awaiting measurement).
+- **Measured:** 11 of 399 discovered developers (388 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 152 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

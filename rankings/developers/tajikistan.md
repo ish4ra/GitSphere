@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/developers/TJ.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/developers/TJ.json">JSON</a> |
 
 </div>
 
@@ -23,10 +23,80 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/abdullokhonz"><img src="https://avatars.githubusercontent.com/u/153506949?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdullokhonz"><b>Abdullokhon Ghaibulloev</b></a><br><sub>&#64;abdullokhonz</sub></td>
+<td align="right"><b>428</b></td>
+<td align="right">23</td>
+<td><sub>Khujand, Tajikistan</sub></td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/RahimovAbdurahmon"><img src="https://avatars.githubusercontent.com/u/142809002?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RahimovAbdurahmon"><b>RahimovAbdurahmon</b></a><br><sub>&#64;RahimovAbdurahmon</sub></td>
+<td align="right"><b>239</b></td>
+<td align="right">31</td>
+<td><sub>Tajikistan, Dushanbe</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/abbossm"><img src="https://avatars.githubusercontent.com/u/57759801?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abbossm"><b>Abbos</b></a><br><sub>&#64;abbossm</sub></td>
+<td align="right"><b>22</b></td>
+<td align="right">44</td>
+<td><sub>Tajikistan</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/2406Bilal"><img src="https://avatars.githubusercontent.com/u/125570126?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/2406Bilal"><b>Bilal Ismonov</b></a><br><sub>&#64;2406Bilal</sub></td>
+<td align="right"><b>13</b></td>
+<td align="right">20</td>
+<td><sub>Tajikistan Dushanbe</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/abbos2000"><img src="https://avatars.githubusercontent.com/u/254717905?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abbos2000"><b>abbos2000</b></a><br><sub>&#64;abbos2000</sub></td>
+<td align="right"><b>5</b></td>
+<td align="right">66</td>
+<td><sub>Dushanbe Tajikistan</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/AbbosAbduqodirov"><img src="https://avatars.githubusercontent.com/u/326619536?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AbbosAbduqodirov"><b>Abbos Abduqodirov</b></a><br><sub>&#64;AbbosAbduqodirov</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td><sub>Hujand, Tajikistan</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/1e0nard0"><img src="https://avatars.githubusercontent.com/u/68204060?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/1e0nard0"><b>Dilshod</b></a><br><sub>&#64;1e0nard0</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Tajikistan</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/22409934"><img src="https://avatars.githubusercontent.com/u/106756955?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/22409934"><b>Razackov Firuz</b></a><br><sub>&#64;22409934</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Tajikistan</sub></td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/a-gabrelian"><img src="https://avatars.githubusercontent.com/u/1751916?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/a-gabrelian"><b>Amal Gabrelian</b></a><br><sub>&#64;a-gabrelian</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Tajikistan</sub></td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/AbadTech"><img src="https://avatars.githubusercontent.com/u/103097246?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AbadTech"><b>Sumbulmo</b></a><br><sub>&#64;AbadTech</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Dushanbe, Tajikistan</sub></td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/Abdizayi"><img src="https://avatars.githubusercontent.com/u/271435211?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abdizayi"><b>Abdizayi</b></a><br><sub>&#64;Abdizayi</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Khujand, Tajikistan</sub></td>
 </tr>
 </tbody>
 </table>
@@ -36,8 +106,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 1 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 11 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 0 of 97 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

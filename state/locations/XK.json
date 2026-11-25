@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"country": "XK",
+"round": 1,
+"roundStartedAt": "2026-11-24T21:25:22.697Z",
+"terms": {"count":54,"fingerprint":"54:b9ca21fd"},
+"termIndex": 0,
+"specIndex": 0,
+"active": {"term":"Kosovo","kind":"users","queue":[{"metric":[0,12500000],"created":null,"cursor":null,"page":1}],"unresolved":[],"cycleStartedAt":"2026-11-24T21:25:22.697Z","stats":{"splits":3,"leaves":3,"pages":3}},
+"unresolved": [],
+"completedRounds": [],
+"stats": {"requests":6,"pages":3,"accounts":0},
+"updatedAt": "2026-11-24T21:25:22.697Z"
+}

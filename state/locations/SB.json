@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"country": "SB",
+"round": 1,
+"roundStartedAt": "2026-11-24T01:09:30.424Z",
+"terms": {"count":37,"fingerprint":"37:7fdd8e8b"},
+"termIndex": 2,
+"specIndex": 1,
+"active": null,
+"unresolved": [],
+"completedRounds": [],
+"stats": {"requests":6,"pages":6,"accounts":85},
+"updatedAt": "2026-11-24T01:09:36.155Z"
+}

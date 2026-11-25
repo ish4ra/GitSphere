@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **294** | 22 Nov 2026 | <a href="../../data/developers/BI.json">JSON</a> |
+| 🟡 Provisional | **494** | 22 Nov 2026 | <a href="../../data/developers/BI.json">JSON</a> |
 
 </div>
 
@@ -24,14 +24,14 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/JovinMtl"><img src="https://avatars.githubusercontent.com/u/57398530?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JovinMtl"><b>Nsanzumukiza Thierry</b></a><br><sub>&#64;JovinMtl</sub></td>
-<td align="right"><b>369</b></td>
+<td align="right"><b>370</b></td>
 <td align="right">34</td>
 <td><sub>Bujumbura, Burundi</sub></td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/liberatricebaizer"><img src="https://avatars.githubusercontent.com/u/92096502?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/liberatricebaizer"><b>liberatrice bayizere</b></a><br><sub>&#64;liberatricebaizer</sub></td>
-<td align="right"><b>195</b></td>
+<td align="right"><b>198</b></td>
 <td align="right">19</td>
 <td><sub>Bujumbura Burundi</sub></td>
 </tr>
@@ -408,17 +408,17 @@
 </tr>
 <tr>
 <td align="right">56</td>
+<td><a href="https://github.com/demuk"><img src="https://avatars.githubusercontent.com/u/13274711?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/demuk"><b>Kiptoo Dennis</b></a><br><sub>&#64;demuk</sub></td>
+<td align="right"><b>14</b></td>
+<td align="right">64</td>
+<td><sub>Gitega, Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">57</td>
 <td><a href="https://github.com/tutubunso"><img src="https://avatars.githubusercontent.com/u/70760225?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tutubunso"><b>Butungane Aymard</b></a><br><sub>&#64;tutubunso</sub></td>
 <td align="right"><b>14</b></td>
 <td align="right">7</td>
 <td><sub>Bujumbura,Burundi</sub></td>
-</tr>
-<tr>
-<td align="right">57</td>
-<td><a href="https://github.com/demuk"><img src="https://avatars.githubusercontent.com/u/13274711?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/demuk"><b>Kiptoo Dennis</b></a><br><sub>&#64;demuk</sub></td>
-<td align="right"><b>13</b></td>
-<td align="right">64</td>
-<td><sub>Gitega, Burundi</sub></td>
 </tr>
 <tr>
 <td align="right">58</td>
@@ -2060,21 +2060,1421 @@
 </tr>
 <tr>
 <td align="right">292</td>
+<td><a href="https://github.com/Jean-Lionel"><img src="https://avatars.githubusercontent.com/u/43615104?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jean-Lionel"><b>Jean Lionel</b></a><br><sub>&#64;Jean-Lionel</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">161</td>
+<td><sub>Bujumbura-Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">293</td>
+<td><a href="https://github.com/Check-karim"><img src="https://avatars.githubusercontent.com/u/71732374?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Check-karim"><b>Abdoul Karim</b></a><br><sub>&#64;Check-karim</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">52</td>
+<td><sub>BURUNDI,Bujumbura</sub></td>
+</tr>
+<tr>
+<td align="right">294</td>
+<td><a href="https://github.com/amosndayikeza-dev"><img src="https://avatars.githubusercontent.com/u/237403306?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amosndayikeza-dev"><b>Amos NDAYIKEZA</b></a><br><sub>&#64;amosndayikeza-dev</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">41</td>
+<td><sub>Bujumbura,Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">295</td>
+<td><a href="https://github.com/Expendadeur"><img src="https://avatars.githubusercontent.com/u/184646559?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Expendadeur"><b>NZAMBIMANA Janvier</b></a><br><sub>&#64;Expendadeur</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">26</td>
+<td><sub>Burundi-Kanyosha</sub></td>
+</tr>
+<tr>
+<td align="right">296</td>
+<td><a href="https://github.com/VincentDobingar"><img src="https://avatars.githubusercontent.com/u/33218243?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VincentDobingar"><b>Dobingar Vincent</b></a><br><sub>&#64;VincentDobingar</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">24</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">297</td>
+<td><a href="https://github.com/irankunda-Steve"><img src="https://avatars.githubusercontent.com/u/180602675?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/irankunda-Steve"><b>Irankunda Steve</b></a><br><sub>&#64;irankunda-Steve</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">21</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">298</td>
+<td><a href="https://github.com/CodeLearner2024"><img src="https://avatars.githubusercontent.com/u/179207325?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CodeLearner2024"><b>NDIHOKUBWAYO Eric</b></a><br><sub>&#64;CodeLearner2024</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">19</td>
+<td><sub>Bujumbura, Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">299</td>
+<td><a href="https://github.com/BlazeRUMARIZA"><img src="https://avatars.githubusercontent.com/u/156286605?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BlazeRUMARIZA"><b>Blaze RUMARIZA</b></a><br><sub>&#64;BlazeRUMARIZA</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">18</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">300</td>
+<td><a href="https://github.com/Willy-Dev239"><img src="https://avatars.githubusercontent.com/u/163860011?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Willy-Dev239"><b>Willy Niyuru</b></a><br><sub>&#64;Willy-Dev239</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">17</td>
+<td><sub>Bujumbura, Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">301</td>
+<td><a href="https://github.com/Ndayike"><img src="https://avatars.githubusercontent.com/u/202061712?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ndayike"><b>Ndayikeze Apollinaire</b></a><br><sub>&#64;Ndayike</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">15</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">302</td>
+<td><a href="https://github.com/Fod-Team"><img src="https://avatars.githubusercontent.com/u/229515884?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Fod-Team"><b>Mr Simon FodubuCommunity</b></a><br><sub>&#64;Fod-Team</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">13</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">303</td>
+<td><a href="https://github.com/moise156"><img src="https://avatars.githubusercontent.com/u/65081275?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/moise156"><b>Moise Nsonsa</b></a><br><sub>&#64;moise156</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">12</td>
+<td><sub>congo kinshasa mais actuellement au Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">304</td>
+<td><a href="https://github.com/DieudonneManir"><img src="https://avatars.githubusercontent.com/u/72622096?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DieudonneManir"><b>Manirambona</b></a><br><sub>&#64;DieudonneManir</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">11</td>
+<td><sub>Bujumbura, Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">305</td>
+<td><a href="https://github.com/duduel"><img src="https://avatars.githubusercontent.com/u/39193162?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/duduel"><b>Eliel Dushime</b></a><br><sub>&#64;duduel</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">11</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">306</td>
+<td><a href="https://github.com/mufasa-cybercode"><img src="https://avatars.githubusercontent.com/u/202074541?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mufasa-cybercode"><b>Ntwari Joshua</b></a><br><sub>&#64;mufasa-cybercode</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">11</td>
+<td><sub>BURUNDI</sub></td>
+</tr>
+<tr>
+<td align="right">307</td>
+<td><a href="https://github.com/Audaby"><img src="https://avatars.githubusercontent.com/u/211959748?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Audaby"><b>Audace Irivuzimana</b></a><br><sub>&#64;Audaby</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">10</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">308</td>
+<td><a href="https://github.com/Franc324"><img src="https://avatars.githubusercontent.com/u/154766024?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Franc324"><b>François</b></a><br><sub>&#64;Franc324</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">10</td>
+<td><sub>Mutakura/Bujumbura-Mairie/Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">309</td>
+<td><a href="https://github.com/jeanluc-BIZIMANA"><img src="https://avatars.githubusercontent.com/u/144067223?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jeanluc-BIZIMANA"><b>LucasTekno.dev</b></a><br><sub>&#64;jeanluc-BIZIMANA</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">10</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">310</td>
+<td><a href="https://github.com/Hypolityhe"><img src="https://avatars.githubusercontent.com/u/218102677?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hypolityhe"><b>NAHABAKOMEYE Hypolithe</b></a><br><sub>&#64;Hypolityhe</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">9</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">311</td>
+<td><a href="https://github.com/ndiwi2013"><img src="https://avatars.githubusercontent.com/u/62575418?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ndiwi2013"><b>NDIKURIYO Willy</b></a><br><sub>&#64;ndiwi2013</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">8</td>
+<td><sub>Burundi bujumbura</sub></td>
+</tr>
+<tr>
+<td align="right">312</td>
+<td><a href="https://github.com/Anzoiid"><img src="https://avatars.githubusercontent.com/u/196527927?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Anzoiid"><b>Anzoiid</b></a><br><sub>&#64;Anzoiid</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">7</td>
+<td><sub>Bujumbura/Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">313</td>
+<td><a href="https://github.com/cherissaiteriteka32-netizen"><img src="https://avatars.githubusercontent.com/u/240878835?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cherissaiteriteka32-netizen"><b>CHERISSA ITERITEKA</b></a><br><sub>&#64;cherissaiteriteka32-netizen</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">7</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">314</td>
+<td><a href="https://github.com/Jacob-zouma"><img src="https://avatars.githubusercontent.com/u/174392499?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jacob-zouma"><b>REHEMA MUGISA</b></a><br><sub>&#64;Jacob-zouma</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">7</td>
+<td><sub>Bujumbura, Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">315</td>
+<td><a href="https://github.com/mukunde800"><img src="https://avatars.githubusercontent.com/u/153305666?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mukunde800"><b>Mukunde Bienvenu</b></a><br><sub>&#64;mukunde800</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">7</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">316</td>
+<td><a href="https://github.com/niyo2014"><img src="https://avatars.githubusercontent.com/u/94742666?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/niyo2014"><b>Gustave Niyonzima</b></a><br><sub>&#64;niyo2014</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">7</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">317</td>
+<td><a href="https://github.com/igelv"><img src="https://avatars.githubusercontent.com/u/25202307?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/igelv"><b>Elvis Igirimbabazi</b></a><br><sub>&#64;igelv</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">6</td>
+<td><sub>Burundi, Bujumbura</sub></td>
+</tr>
+<tr>
+<td align="right">318</td>
+<td><a href="https://github.com/jeanluckashindidev"><img src="https://avatars.githubusercontent.com/u/236868700?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jeanluckashindidev"><b>Jean-luc Kashindi Nestor</b></a><br><sub>&#64;jeanluckashindidev</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">6</td>
+<td><sub>Burundi, Bujumbura</sub></td>
+</tr>
+<tr>
+<td align="right">319</td>
+<td><a href="https://github.com/Ruphin406"><img src="https://avatars.githubusercontent.com/u/253753474?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ruphin406"><b>Ruphin Deluna</b></a><br><sub>&#64;Ruphin406</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">6</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">320</td>
+<td><a href="https://github.com/aug-mx"><img src="https://avatars.githubusercontent.com/u/67476257?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aug-mx"><b>Augustin NDUWIMANA</b></a><br><sub>&#64;aug-mx</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">5</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">321</td>
+<td><a href="https://github.com/BorisHkl"><img src="https://avatars.githubusercontent.com/u/50394278?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BorisHkl"><b>Hkl</b></a><br><sub>&#64;BorisHkl</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">5</td>
+<td><sub>Bujumbura, Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">322</td>
+<td><a href="https://github.com/MigadaroStudio"><img src="https://avatars.githubusercontent.com/u/248950183?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MigadaroStudio"><b>Migadaro Studio™</b></a><br><sub>&#64;MigadaroStudio</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">5</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">323</td>
+<td><a href="https://github.com/NdihokubwayoJeanBosco"><img src="https://avatars.githubusercontent.com/u/147035338?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NdihokubwayoJeanBosco"><b>Jean Bosco NDIHOKUBWAYO</b></a><br><sub>&#64;NdihokubwayoJeanBosco</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">5</td>
+<td><sub>Gitega, Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">324</td>
+<td><a href="https://github.com/wilirambona-byte"><img src="https://avatars.githubusercontent.com/u/243224035?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wilirambona-byte"><b>Wilfried Irambona</b></a><br><sub>&#64;wilirambona-byte</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">5</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">325</td>
+<td><a href="https://github.com/Celestin-Developper"><img src="https://avatars.githubusercontent.com/u/179944591?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Celestin-Developper"><b>Celestin</b></a><br><sub>&#64;Celestin-Developper</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Burundi/Bujumbura/Ngagara Q3</sub></td>
+</tr>
+<tr>
+<td align="right">326</td>
+<td><a href="https://github.com/chercify"><img src="https://avatars.githubusercontent.com/u/234191156?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chercify"><b>Chercy Itangiteka</b></a><br><sub>&#64;chercify</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Bujumbura,Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">327</td>
+<td><a href="https://github.com/franckj-hub"><img src="https://avatars.githubusercontent.com/u/233320509?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/franckj-hub"><b>Franck Junior MURERANTWARI</b></a><br><sub>&#64;franckj-hub</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Burundi, Bujumbura</sub></td>
+</tr>
+<tr>
+<td align="right">328</td>
+<td><a href="https://github.com/gazos-one"><img src="https://avatars.githubusercontent.com/u/74292579?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gazos-one"><b>Ntwari Raoul</b></a><br><sub>&#64;gazos-one</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Bujumbura Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">329</td>
+<td><a href="https://github.com/Jkay21"><img src="https://avatars.githubusercontent.com/u/81597646?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jkay21"><b>Jean Arnaud Kira</b></a><br><sub>&#64;Jkay21</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Burundi-Bujumbura</sub></td>
+</tr>
+<tr>
+<td align="right">330</td>
+<td><a href="https://github.com/juve257"><img src="https://avatars.githubusercontent.com/u/205067797?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/juve257"><b>Mar Ju Jax</b></a><br><sub>&#64;juve257</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">331</td>
+<td><a href="https://github.com/MAudrry"><img src="https://avatars.githubusercontent.com/u/90390811?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MAudrry"><b>MUNEZERO Audry</b></a><br><sub>&#64;MAudrry</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Bujumbura, Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">332</td>
+<td><a href="https://github.com/MoseBlack"><img src="https://avatars.githubusercontent.com/u/47914437?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MoseBlack"><b>Moses</b></a><br><sub>&#64;MoseBlack</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">333</td>
+<td><a href="https://github.com/ntwari-siempre"><img src="https://avatars.githubusercontent.com/u/80815044?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ntwari-siempre"><b>NTWARI Siempre</b></a><br><sub>&#64;ntwari-siempre</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Bujumbura, Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">334</td>
+<td><a href="https://github.com/Wahshiyu"><img src="https://avatars.githubusercontent.com/u/117695278?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Wahshiyu"><b>S.A.W TECH</b></a><br><sub>&#64;Wahshiyu</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Gitega burundi</sub></td>
+</tr>
+<tr>
+<td align="right">335</td>
+<td><a href="https://github.com/62389303"><img src="https://avatars.githubusercontent.com/u/219815860?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/62389303"><b>Alain NGENZI</b></a><br><sub>&#64;62389303</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">336</td>
+<td><a href="https://github.com/adequat-bi"><img src="https://avatars.githubusercontent.com/u/6561657?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adequat-bi"><b>Luc</b></a><br><sub>&#64;adequat-bi</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">337</td>
+<td><a href="https://github.com/audace1010"><img src="https://avatars.githubusercontent.com/u/191006311?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/audace1010"><b>Audace Niyonzima</b></a><br><sub>&#64;audace1010</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">338</td>
+<td><a href="https://github.com/basabegithub"><img src="https://avatars.githubusercontent.com/u/130975370?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/basabegithub"><b>Japhet NSENGIYUMVA</b></a><br><sub>&#64;basabegithub</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Bujumbura , Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">339</td>
+<td><a href="https://github.com/cardinalMansa"><img src="https://avatars.githubusercontent.com/u/109595543?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cardinalMansa"><b>cardinalMansa</b></a><br><sub>&#64;cardinalMansa</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>BUJUMBURA-BURUNDI</sub></td>
+</tr>
+<tr>
+<td align="right">340</td>
+<td><a href="https://github.com/Cherrubin"><img src="https://avatars.githubusercontent.com/u/111532148?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Cherrubin"><b>Cherrubin Key Batumubwira</b></a><br><sub>&#64;Cherrubin</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">341</td>
+<td><a href="https://github.com/Davidhaston"><img src="https://avatars.githubusercontent.com/u/171453152?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Davidhaston"><b>David NISHIMWE</b></a><br><sub>&#64;Davidhaston</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>BURUNDI</sub></td>
+</tr>
+<tr>
+<td align="right">342</td>
+<td><a href="https://github.com/Domg14"><img src="https://avatars.githubusercontent.com/u/231141586?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Domg14"><b>Don de Dieu Iradukunda</b></a><br><sub>&#64;Domg14</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Bujumbura Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">343</td>
+<td><a href="https://github.com/emilesong"><img src="https://avatars.githubusercontent.com/u/194174239?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/emilesong"><b>Emilesong</b></a><br><sub>&#64;emilesong</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">344</td>
 <td><a href="https://github.com/emmanuel1-dot"><img src="https://avatars.githubusercontent.com/u/242577934?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/emmanuel1-dot"><b>Kirandage Emmanuel</b></a><br><sub>&#64;emmanuel1-dot</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Bujumbura - Burundi</sub></td>
 </tr>
 <tr>
-<td align="right">293</td>
+<td align="right">345</td>
+<td><a href="https://github.com/mezimorel"><img src="https://avatars.githubusercontent.com/u/222864207?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mezimorel"><b>Bebeto</b></a><br><sub>&#64;mezimorel</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>J9FG+HFJ, 4ème Ave, Bujumbura, Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">346</td>
+<td><a href="https://github.com/niyonz"><img src="https://avatars.githubusercontent.com/u/80349869?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/niyonz"><b>Niyonzima King</b></a><br><sub>&#64;niyonz</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">347</td>
+<td><a href="https://github.com/Ntdieu02"><img src="https://avatars.githubusercontent.com/u/205486109?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ntdieu02"><b>NDASHUKIRA TUMANI Dieudonné</b></a><br><sub>&#64;Ntdieu02</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">348</td>
+<td><a href="https://github.com/peter-ISSA"><img src="https://avatars.githubusercontent.com/u/213504453?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/peter-ISSA"><b>peter-ISSA</b></a><br><sub>&#64;peter-ISSA</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">349</td>
+<td><a href="https://github.com/Schamgar45"><img src="https://avatars.githubusercontent.com/u/214745522?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Schamgar45"><b>Schamgar Mbiya</b></a><br><sub>&#64;Schamgar45</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Bujumbura/Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">350</td>
+<td><a href="https://github.com/ThierryStatPro111"><img src="https://avatars.githubusercontent.com/u/312948055?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ThierryStatPro111"><b>Thierry NIYOKWIZIGIRWA</b></a><br><sub>&#64;ThierryStatPro111</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>BUJUMBURA-BURUNDI</sub></td>
+</tr>
+<tr>
+<td align="right">351</td>
+<td><a href="https://github.com/ameer786"><img src="https://avatars.githubusercontent.com/u/51421951?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ameer786"><b>Ameer Bizimana</b></a><br><sub>&#64;ameer786</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Burundi Makamba</sub></td>
+</tr>
+<tr>
+<td align="right">352</td>
+<td><a href="https://github.com/blaisenahishakiye8-art"><img src="https://avatars.githubusercontent.com/u/253426605?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/blaisenahishakiye8-art"><b>Blaise Director</b></a><br><sub>&#64;blaisenahishakiye8-art</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Burundi 🇧🇮 bujumbura</sub></td>
+</tr>
+<tr>
+<td align="right">353</td>
+<td><a href="https://github.com/D4-A"><img src="https://avatars.githubusercontent.com/u/79573399?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/D4-A"><b>DIGITAL 4 AFRICA</b></a><br><sub>&#64;D4-A</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">354</td>
+<td><a href="https://github.com/danichatup-stack"><img src="https://avatars.githubusercontent.com/u/354881222?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danichatup-stack"><b>ALi Golden</b></a><br><sub>&#64;danichatup-stack</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Burundi, Bujumbura</sub></td>
+</tr>
+<tr>
+<td align="right">355</td>
+<td><a href="https://github.com/Daniel-bin-sadiki"><img src="https://avatars.githubusercontent.com/u/120182930?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Daniel-bin-sadiki"><b>SADIKI Daniel</b></a><br><sub>&#64;Daniel-bin-sadiki</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Bujumbura, Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">356</td>
+<td><a href="https://github.com/flymugisha"><img src="https://avatars.githubusercontent.com/u/75114368?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/flymugisha"><b>Mugisha Fleury</b></a><br><sub>&#64;flymugisha</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Burundi Bujumbura</sub></td>
+</tr>
+<tr>
+<td align="right">357</td>
+<td><a href="https://github.com/hakiza1"><img src="https://avatars.githubusercontent.com/u/203933607?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hakiza1"><b>Olivier HAKIZIMANA</b></a><br><sub>&#64;hakiza1</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>BURUNDI</sub></td>
+</tr>
+<tr>
+<td align="right">358</td>
+<td><a href="https://github.com/Iradukunda-toussaint"><img src="https://avatars.githubusercontent.com/u/92671937?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Iradukunda-toussaint"><b>2saint&#95;coder</b></a><br><sub>&#64;Iradukunda-toussaint</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Bujumbura , Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">359</td>
+<td><a href="https://github.com/iteritekajoelle8-rgb"><img src="https://avatars.githubusercontent.com/u/357405110?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iteritekajoelle8-rgb"><b>Iteriteka</b></a><br><sub>&#64;iteritekajoelle8-rgb</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Bujumbura burundi</sub></td>
+</tr>
+<tr>
+<td align="right">360</td>
+<td><a href="https://github.com/kudrashabani"><img src="https://avatars.githubusercontent.com/u/63446386?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kudrashabani"><b>KUDRA SHABANI</b></a><br><sub>&#64;kudrashabani</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Bujumbura, BURUNDI</sub></td>
+</tr>
+<tr>
+<td align="right">361</td>
+<td><a href="https://github.com/kwakuvovota"><img src="https://avatars.githubusercontent.com/u/212094518?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kwakuvovota"><b>vovota devs</b></a><br><sub>&#64;kwakuvovota</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>burundi</sub></td>
+</tr>
+<tr>
+<td align="right">362</td>
+<td><a href="https://github.com/levygaeln-ux"><img src="https://avatars.githubusercontent.com/u/252752173?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/levygaeln-ux"><b>Levy Gael</b></a><br><sub>&#64;levygaeln-ux</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Bujumbura, Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">363</td>
+<td><a href="https://github.com/lysabinja14-saly"><img src="https://avatars.githubusercontent.com/u/247190060?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lysabinja14-saly"><b>Binja Lysa</b></a><br><sub>&#64;lysabinja14-saly</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">364</td>
+<td><a href="https://github.com/Malachie03"><img src="https://avatars.githubusercontent.com/u/301030234?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Malachie03"><b>Manoti Care Agency</b></a><br><sub>&#64;Malachie03</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Burundi, Bujumbura</sub></td>
+</tr>
+<tr>
+<td align="right">365</td>
+<td><a href="https://github.com/mariella-dev-bi"><img src="https://avatars.githubusercontent.com/u/332163274?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mariella-dev-bi"><b>Mariella</b></a><br><sub>&#64;mariella-dev-bi</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Bujumbura, Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">366</td>
+<td><a href="https://github.com/Masabo19"><img src="https://avatars.githubusercontent.com/u/78733686?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Masabo19"><b>Thierry Irambona</b></a><br><sub>&#64;Masabo19</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Bujumbura Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">367</td>
+<td><a href="https://github.com/mraud2000"><img src="https://avatars.githubusercontent.com/u/282297454?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mraud2000"><b>mraud2000</b></a><br><sub>&#64;mraud2000</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Bujumbura, Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">368</td>
+<td><a href="https://github.com/nzeyija"><img src="https://avatars.githubusercontent.com/u/32615077?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nzeyija"><b>NZEYIMANA Janvier</b></a><br><sub>&#64;nzeyija</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Bujumbura, Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">369</td>
+<td><a href="https://github.com/PF-SURL"><img src="https://avatars.githubusercontent.com/u/178671149?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PF-SURL"><b>PENDO &amp; FAMILLE SURL</b></a><br><sub>&#64;PF-SURL</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Bujumbura, Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">370</td>
+<td><a href="https://github.com/ramydevv"><img src="https://avatars.githubusercontent.com/u/329514959?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ramydevv"><b>Ramy Dev</b></a><br><sub>&#64;ramydevv</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">371</td>
+<td><a href="https://github.com/reverien"><img src="https://avatars.githubusercontent.com/u/6231600?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/reverien"><b>NDABOROHEYE</b></a><br><sub>&#64;reverien</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">372</td>
+<td><a href="https://github.com/savin-PDG"><img src="https://avatars.githubusercontent.com/u/112158155?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/savin-PDG"><b>Savin CONAYISAVYE</b></a><br><sub>&#64;savin-PDG</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">373</td>
+<td><a href="https://github.com/scottocaf"><img src="https://avatars.githubusercontent.com/u/209071429?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/scottocaf"><b>Alex Irakoze</b></a><br><sub>&#64;scottocaf</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">374</td>
+<td><a href="https://github.com/tao-business"><img src="https://avatars.githubusercontent.com/u/71751855?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tao-business"><b>Tao Business</b></a><br><sub>&#64;tao-business</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Burundi, BUJUMBURA</sub></td>
+</tr>
+<tr>
+<td align="right">375</td>
+<td><a href="https://github.com/79861422"><img src="https://avatars.githubusercontent.com/u/198487551?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/79861422"><b>ABAD ENTREPRISE</b></a><br><sub>&#64;79861422</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Burundi, Bujumbura,Q.Asiatique avenue des paysa…</sub></td>
+</tr>
+<tr>
+<td align="right">376</td>
+<td><a href="https://github.com/alainderrick-tech"><img src="https://avatars.githubusercontent.com/u/228895087?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alainderrick-tech"><b>IRADUKUNDA Alain derrick</b></a><br><sub>&#64;alainderrick-tech</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>bujumbura-Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">377</td>
+<td><a href="https://github.com/Albatros-ux"><img src="https://avatars.githubusercontent.com/u/220000573?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Albatros-ux"><b>Ir Cossam</b></a><br><sub>&#64;Albatros-ux</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">378</td>
+<td><a href="https://github.com/Albertnshimi"><img src="https://avatars.githubusercontent.com/u/99311306?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Albertnshimi"><b>albert</b></a><br><sub>&#64;Albertnshimi</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Burundi-Ngozi</sub></td>
+</tr>
+<tr>
+<td align="right">379</td>
+<td><a href="https://github.com/andyspaink"><img src="https://avatars.githubusercontent.com/u/191835861?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andyspaink"><b>NIHEZAGIRE ANDY</b></a><br><sub>&#64;andyspaink</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Bujumbura, Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">380</td>
+<td><a href="https://github.com/barbenoir203"><img src="https://avatars.githubusercontent.com/u/68942699?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/barbenoir203"><b>barbe noir</b></a><br><sub>&#64;barbenoir203</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>burundi</sub></td>
+</tr>
+<tr>
+<td align="right">381</td>
+<td><a href="https://github.com/Bellakaneza"><img src="https://avatars.githubusercontent.com/u/71352462?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bellakaneza"><b>Bella&#95;kcb</b></a><br><sub>&#64;Bellakaneza</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">382</td>
+<td><a href="https://github.com/bienvenubig"><img src="https://avatars.githubusercontent.com/u/8734496?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bienvenubig"><b>big</b></a><br><sub>&#64;bienvenubig</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>burundi</sub></td>
+</tr>
+<tr>
+<td align="right">383</td>
+<td><a href="https://github.com/bimemile"><img src="https://avatars.githubusercontent.com/u/267495835?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bimemile"><b>Emile Bimenyimana</b></a><br><sub>&#64;bimemile</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">384</td>
+<td><a href="https://github.com/biwepdev"><img src="https://avatars.githubusercontent.com/u/230153902?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/biwepdev"><b>BI-WEP</b></a><br><sub>&#64;biwepdev</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>BUJUMBURA BURUNDI</sub></td>
+</tr>
+<tr>
+<td align="right">385</td>
+<td><a href="https://github.com/Boi2026"><img src="https://avatars.githubusercontent.com/u/322953291?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Boi2026"><b>Burundi Optimization &amp; Intelligence (BOI)</b></a><br><sub>&#64;Boi2026</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">386</td>
+<td><a href="https://github.com/BOKELO-SERGE"><img src="https://avatars.githubusercontent.com/u/213107567?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BOKELO-SERGE"><b>Serge</b></a><br><sub>&#64;BOKELO-SERGE</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">387</td>
+<td><a href="https://github.com/BrhunDev"><img src="https://avatars.githubusercontent.com/u/100120101?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BrhunDev"><b>BrhumDev</b></a><br><sub>&#64;BrhunDev</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Bujumbura-Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">388</td>
+<td><a href="https://github.com/BriyacoYouth"><img src="https://avatars.githubusercontent.com/u/227556568?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BriyacoYouth"><b>BriyacoYouth</b></a><br><sub>&#64;BriyacoYouth</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>bujumbura burundi</sub></td>
+</tr>
+<tr>
+<td align="right">389</td>
+<td><a href="https://github.com/btcshule"><img src="https://avatars.githubusercontent.com/u/219655778?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/btcshule"><b>BTC Shule</b></a><br><sub>&#64;btcshule</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">390</td>
+<td><a href="https://github.com/cadeaunim"><img src="https://avatars.githubusercontent.com/u/227623734?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cadeaunim"><b>cadeaunim</b></a><br><sub>&#64;cadeaunim</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">391</td>
+<td><a href="https://github.com/carson-design"><img src="https://avatars.githubusercontent.com/u/116306438?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/carson-design"><b>Delicia Bigirimana</b></a><br><sub>&#64;carson-design</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Gasenyi,Bujumbura,Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">392</td>
+<td><a href="https://github.com/cedrart"><img src="https://avatars.githubusercontent.com/u/97119660?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cedrart"><b>IRADUKUNDA Cedric Delix</b></a><br><sub>&#64;cedrart</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Bujumbura,Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">393</td>
+<td><a href="https://github.com/Christian-Rukeza"><img src="https://avatars.githubusercontent.com/u/115432549?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Christian-Rukeza"><b>Christian Rukeza</b></a><br><sub>&#64;Christian-Rukeza</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>BURUNDI/Bujumbura</sub></td>
+</tr>
+<tr>
+<td align="right">394</td>
+<td><a href="https://github.com/cniyomwungere-dot"><img src="https://avatars.githubusercontent.com/u/270587180?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cniyomwungere-dot"><b>Christian</b></a><br><sub>&#64;cniyomwungere-dot</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">395</td>
+<td><a href="https://github.com/Desire-dentiboy"><img src="https://avatars.githubusercontent.com/u/260280405?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Desire-dentiboy"><b>Desire</b></a><br><sub>&#64;Desire-dentiboy</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">396</td>
+<td><a href="https://github.com/Diallo002"><img src="https://avatars.githubusercontent.com/u/80883763?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Diallo002"><b>Gloire Diallo</b></a><br><sub>&#64;Diallo002</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Burundi/Bujumbura</sub></td>
+</tr>
+<tr>
+<td align="right">397</td>
+<td><a href="https://github.com/dieudonnearthur278-maker"><img src="https://avatars.githubusercontent.com/u/297259578?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dieudonnearthur278-maker"><b>Dieudonné Bazika Arthur</b></a><br><sub>&#64;dieudonnearthur278-maker</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Bujumbura, Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">398</td>
+<td><a href="https://github.com/Eloi-Rukundo"><img src="https://avatars.githubusercontent.com/u/332107539?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Eloi-Rukundo"><b>Eloi Rukundo</b></a><br><sub>&#64;Eloi-Rukundo</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>burundi</sub></td>
+</tr>
+<tr>
+<td align="right">399</td>
+<td><a href="https://github.com/elvisprogrammer1-lgtm"><img src="https://avatars.githubusercontent.com/u/266444847?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elvisprogrammer1-lgtm"><b>Elvis programmer</b></a><br><sub>&#64;elvisprogrammer1-lgtm</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Bujumbura,Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">400</td>
+<td><a href="https://github.com/emaburukiwr"><img src="https://avatars.githubusercontent.com/u/86595868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/emaburukiwr"><b>Maburuki Ephraim Petit</b></a><br><sub>&#64;emaburukiwr</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Bujumbura, Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">401</td>
+<td><a href="https://github.com/FABROHAB"><img src="https://avatars.githubusercontent.com/u/24990582?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FABROHAB"><b>Fabrice Habonimana</b></a><br><sub>&#64;FABROHAB</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">402</td>
+<td><a href="https://github.com/felinkeng"><img src="https://avatars.githubusercontent.com/u/215384279?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/felinkeng"><b>felinkeng</b></a><br><sub>&#64;felinkeng</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Bujumbura Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">403</td>
+<td><a href="https://github.com/Flipodos"><img src="https://avatars.githubusercontent.com/u/55300064?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Flipodos"><b>Filip</b></a><br><sub>&#64;Flipodos</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">404</td>
+<td><a href="https://github.com/gildanet"><img src="https://avatars.githubusercontent.com/u/226635449?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gildanet"><b>Gildas Cimpaye</b></a><br><sub>&#64;gildanet</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">405</td>
+<td><a href="https://github.com/imujimbereaubin-ui"><img src="https://avatars.githubusercontent.com/u/275166497?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/imujimbereaubin-ui"><b>Aubin IMUJIMBERE</b></a><br><sub>&#64;imujimbereaubin-ui</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Bujumbura - Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">406</td>
+<td><a href="https://github.com/IrFlorensberht"><img src="https://avatars.githubusercontent.com/u/267252635?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IrFlorensberht"><b>Ir Floribert DUHAYIMANA</b></a><br><sub>&#64;IrFlorensberht</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">407</td>
+<td><a href="https://github.com/IrFloribert"><img src="https://avatars.githubusercontent.com/u/208933842?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IrFloribert"><b>Florensberht</b></a><br><sub>&#64;IrFloribert</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Bujumbura, Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">408</td>
+<td><a href="https://github.com/Jirampaye"><img src="https://avatars.githubusercontent.com/u/180475699?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jirampaye"><b>IRAMPAYE Jean Marie</b></a><br><sub>&#64;Jirampaye</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">409</td>
+<td><a href="https://github.com/Kairosstudiofrommuyange-stack"><img src="https://avatars.githubusercontent.com/u/289640330?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kairosstudiofrommuyange-stack"><b>Jean Claude Ntoranwa</b></a><br><sub>&#64;Kairosstudiofrommuyange-stack</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Muyange-Mutimbuzi, Bujumbura-Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">410</td>
+<td><a href="https://github.com/kellybreezy17"><img src="https://avatars.githubusercontent.com/u/178595062?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kellybreezy17"><b>Kelly Design</b></a><br><sub>&#64;kellybreezy17</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">411</td>
+<td><a href="https://github.com/Kenny257"><img src="https://avatars.githubusercontent.com/u/108724028?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kenny257"><b>Kenny Daniel</b></a><br><sub>&#64;Kenny257</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Burundi-Bujumbura</sub></td>
+</tr>
+<tr>
+<td align="right">412</td>
+<td><a href="https://github.com/Landry1024"><img src="https://avatars.githubusercontent.com/u/202352089?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Landry1024"><b>Landry1224</b></a><br><sub>&#64;Landry1024</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">413</td>
+<td><a href="https://github.com/LandryNDAYIZEYE"><img src="https://avatars.githubusercontent.com/u/240418188?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LandryNDAYIZEYE"><b>NDAYIZEYE Landry</b></a><br><sub>&#64;LandryNDAYIZEYE</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Bujumbura , Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">414</td>
+<td><a href="https://github.com/Leothel2002"><img src="https://avatars.githubusercontent.com/u/136320571?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Leothel2002"><b>Leothel</b></a><br><sub>&#64;Leothel2002</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">415</td>
+<td><a href="https://github.com/me1be2"><img src="https://avatars.githubusercontent.com/u/195881966?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/me1be2"><b>Ricky Morel Gaciyubwenge</b></a><br><sub>&#64;me1be2</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>BURUNDI-Bujumbura</sub></td>
+</tr>
+<tr>
+<td align="right">416</td>
+<td><a href="https://github.com/MUTONI956"><img src="https://avatars.githubusercontent.com/u/193695881?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MUTONI956"><b>IRANKUNDA MUTONI</b></a><br><sub>&#64;MUTONI956</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>burundi</sub></td>
+</tr>
+<tr>
+<td align="right">417</td>
+<td><a href="https://github.com/Naacs32"><img src="https://avatars.githubusercontent.com/u/194077375?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Naacs32"><b>Naacs Creative</b></a><br><sub>&#64;Naacs32</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">418</td>
+<td><a href="https://github.com/ndayikezeapo"><img src="https://avatars.githubusercontent.com/u/208588675?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ndayikezeapo"><b>Ndayikeze Apollinaire</b></a><br><sub>&#64;ndayikezeapo</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">419</td>
+<td><a href="https://github.com/Nduwi20"><img src="https://avatars.githubusercontent.com/u/184943204?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nduwi20"><b>NDUWIMANA Noé Chrétien</b></a><br><sub>&#64;Nduwi20</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Bujumbura, Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">420</td>
+<td><a href="https://github.com/Nobel-pro"><img src="https://avatars.githubusercontent.com/u/119061655?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nobel-pro"><b>Othon Nobel ISHIMWE</b></a><br><sub>&#64;Nobel-pro</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">421</td>
+<td><a href="https://github.com/paggy-ai-engineer-allwork"><img src="https://avatars.githubusercontent.com/u/289152613?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/paggy-ai-engineer-allwork"><b>Hypax</b></a><br><sub>&#64;paggy-ai-engineer-allwork</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">422</td>
+<td><a href="https://github.com/papakiam"><img src="https://avatars.githubusercontent.com/u/16459382?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/papakiam"><b>franck kavakure</b></a><br><sub>&#64;papakiam</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Bujumbura, Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">423</td>
+<td><a href="https://github.com/Proshavy"><img src="https://avatars.githubusercontent.com/u/47922366?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Proshavy"><b>Prosper Havyarimana</b></a><br><sub>&#64;Proshavy</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Bujumbura, Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">424</td>
+<td><a href="https://github.com/SaCoDeBurundi"><img src="https://avatars.githubusercontent.com/u/117514271?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SaCoDeBurundi"><b>SaCoDe Burundi</b></a><br><sub>&#64;SaCoDeBurundi</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Bujumbura, Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">425</td>
+<td><a href="https://github.com/sam12767"><img src="https://avatars.githubusercontent.com/u/223266133?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sam12767"><b>samuel</b></a><br><sub>&#64;sam12767</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">426</td>
+<td><a href="https://github.com/thaf12"><img src="https://avatars.githubusercontent.com/u/209755492?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thaf12"><b>Gscoffee</b></a><br><sub>&#64;thaf12</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">427</td>
+<td><a href="https://github.com/vianney6595man"><img src="https://avatars.githubusercontent.com/u/275308441?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vianney6595man"><b>manirakz</b></a><br><sub>&#64;vianney6595man</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>burundi</sub></td>
+</tr>
+<tr>
+<td align="right">428</td>
+<td><a href="https://github.com/zebedenderagakura"><img src="https://avatars.githubusercontent.com/u/189599183?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zebedenderagakura"><b>ZEN ZEBEDEE</b></a><br><sub>&#64;zebedenderagakura</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">429</td>
+<td><a href="https://github.com/AbbuhXP"><img src="https://avatars.githubusercontent.com/u/278256252?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AbbuhXP"><b>AbbuhXP</b></a><br><sub>&#64;AbbuhXP</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">430</td>
+<td><a href="https://github.com/aboumarook"><img src="https://avatars.githubusercontent.com/u/69498913?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aboumarook"><b>Abou Marook</b></a><br><sub>&#64;aboumarook</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Bujumbura, Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">431</td>
+<td><a href="https://github.com/ahmadbenab"><img src="https://avatars.githubusercontent.com/u/346875795?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahmadbenab"><b>Ahmad Benab</b></a><br><sub>&#64;ahmadbenab</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Bujumbura - Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">432</td>
+<td><a href="https://github.com/Amrani10"><img src="https://avatars.githubusercontent.com/u/73092742?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Amrani10"><b>CastaMob</b></a><br><sub>&#64;Amrani10</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Kanyosha, Bujumbura - Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">433</td>
+<td><a href="https://github.com/ArshalUnique"><img src="https://avatars.githubusercontent.com/u/96488413?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ArshalUnique"><b>Sind. Ariel Shalom</b></a><br><sub>&#64;ArshalUnique</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Bujumbura / Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">434</td>
+<td><a href="https://github.com/Banyankiye82"><img src="https://avatars.githubusercontent.com/u/55651303?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Banyankiye82"><b>Banyankiye82</b></a><br><sub>&#64;Banyankiye82</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">435</td>
+<td><a href="https://github.com/baruanijacques5-cyber"><img src="https://avatars.githubusercontent.com/u/255597189?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/baruanijacques5-cyber"><b>Mulanga Baruani Jcques</b></a><br><sub>&#64;baruanijacques5-cyber</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">436</td>
+<td><a href="https://github.com/Belphegor1er"><img src="https://avatars.githubusercontent.com/u/216733253?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Belphegor1er"><b>TCHOUBOU Cylvain</b></a><br><sub>&#64;Belphegor1er</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">437</td>
+<td><a href="https://github.com/bethelEngineer"><img src="https://avatars.githubusercontent.com/u/200731235?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bethelEngineer"><b>Niyongabo Bethel</b></a><br><sub>&#64;bethelEngineer</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Bujumbura Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">438</td>
+<td><a href="https://github.com/burundijobs-group"><img src="https://avatars.githubusercontent.com/u/355920448?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/burundijobs-group"><b>BurundiJobs Group</b></a><br><sub>&#64;burundijobs-group</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">439</td>
+<td><a href="https://github.com/CedNeb"><img src="https://avatars.githubusercontent.com/u/221491614?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CedNeb"><b>Cedric NDAYIKENGURUKIYE</b></a><br><sub>&#64;CedNeb</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>BURUNDI</sub></td>
+</tr>
+<tr>
+<td align="right">440</td>
+<td><a href="https://github.com/chriskikind"><img src="https://avatars.githubusercontent.com/u/4931499?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chriskikind"><b>Christian Ndayisaba</b></a><br><sub>&#64;chriskikind</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Bujumbura Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">441</td>
+<td><a href="https://github.com/DanyBlue210"><img src="https://avatars.githubusercontent.com/u/209857182?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DanyBlue210"><b>Dany Hervé NTWARI</b></a><br><sub>&#64;DanyBlue210</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">442</td>
+<td><a href="https://github.com/DavisKati"><img src="https://avatars.githubusercontent.com/u/39843703?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DavisKati"><b>Davis Katihabwa</b></a><br><sub>&#64;DavisKati</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi, Bujumbura</sub></td>
+</tr>
+<tr>
+<td align="right">443</td>
+<td><a href="https://github.com/degcedev"><img src="https://avatars.githubusercontent.com/u/235157749?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/degcedev"><b>DEGCE AI</b></a><br><sub>&#64;degcedev</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">444</td>
+<td><a href="https://github.com/DevBakend-Ezechias"><img src="https://avatars.githubusercontent.com/u/93986083?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DevBakend-Ezechias"><b>King Ezechias</b></a><br><sub>&#64;DevBakend-Ezechias</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">445</td>
+<td><a href="https://github.com/dusabesun2025"><img src="https://avatars.githubusercontent.com/u/231001542?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dusabesun2025"><b>Dusabe sun</b></a><br><sub>&#64;dusabesun2025</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Bujumbura , Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">446</td>
+<td><a href="https://github.com/elieirumva399-hash"><img src="https://avatars.githubusercontent.com/u/234175080?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elieirumva399-hash"><b>Elie Irumva</b></a><br><sub>&#64;elieirumva399-hash</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">447</td>
+<td><a href="https://github.com/elvisprogrammer01"><img src="https://avatars.githubusercontent.com/u/200096308?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elvisprogrammer01"><b>Elvis Programmer</b></a><br><sub>&#64;elvisprogrammer01</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Bujumbura,Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">448</td>
+<td><a href="https://github.com/Eraste257"><img src="https://avatars.githubusercontent.com/u/221997429?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Eraste257"><b>Eraste</b></a><br><sub>&#64;Eraste257</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">449</td>
+<td><a href="https://github.com/Evomaganga"><img src="https://avatars.githubusercontent.com/u/89002058?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Evomaganga"><b>Evo maganga</b></a><br><sub>&#64;Evomaganga</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi/Bujumbura</sub></td>
+</tr>
+<tr>
+<td align="right">450</td>
+<td><a href="https://github.com/fgfgtygf"><img src="https://avatars.githubusercontent.com/u/58368190?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fgfgtygf"><b>Kaferic</b></a><br><sub>&#64;fgfgtygf</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">451</td>
+<td><a href="https://github.com/fiston49"><img src="https://avatars.githubusercontent.com/u/52888022?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fiston49"><b>Fiston</b></a><br><sub>&#64;fiston49</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi, Bujumbura</sub></td>
+</tr>
+<tr>
+<td align="right">452</td>
+<td><a href="https://github.com/FLORIEN9"><img src="https://avatars.githubusercontent.com/u/213174386?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FLORIEN9"><b>NSHIMIRIMANA DIDIER FLORIEN</b></a><br><sub>&#64;FLORIEN9</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi, Bujumbura</sub></td>
+</tr>
+<tr>
+<td align="right">453</td>
+<td><a href="https://github.com/Fra25-Nim"><img src="https://avatars.githubusercontent.com/u/219982767?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Fra25-Nim"><b>Franck Nimubona</b></a><br><sub>&#64;Fra25-Nim</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Bujumbura, Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">454</td>
+<td><a href="https://github.com/francescoelyse"><img src="https://avatars.githubusercontent.com/u/16759557?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/francescoelyse"><b>HAKIZIMANA Franck</b></a><br><sub>&#64;francescoelyse</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Bujumbura-Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">455</td>
+<td><a href="https://github.com/Fredmalkos"><img src="https://avatars.githubusercontent.com/u/188337907?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Fredmalkos"><b>F471</b></a><br><sub>&#64;Fredmalkos</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">456</td>
+<td><a href="https://github.com/greatpato"><img src="https://avatars.githubusercontent.com/u/202776863?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/greatpato"><b>NGABO TULINABO Daniel</b></a><br><sub>&#64;greatpato</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>BUJUMBURA/BURUNDI &amp; BUKAVU/RDC</sub></td>
+</tr>
+<tr>
+<td align="right">457</td>
+<td><a href="https://github.com/honeywellnessstore"><img src="https://avatars.githubusercontent.com/u/228314226?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/honeywellnessstore"><b>Honey &amp; Wellness Store</b></a><br><sub>&#64;honeywellnessstore</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">458</td>
+<td><a href="https://github.com/Inyishu"><img src="https://avatars.githubusercontent.com/u/108145649?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Inyishu"><b>Inyishu</b></a><br><sub>&#64;Inyishu</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Bujumbura, Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">459</td>
+<td><a href="https://github.com/irakoze20yvan"><img src="https://avatars.githubusercontent.com/u/74494341?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/irakoze20yvan"><b>IRAKOZE Yvan</b></a><br><sub>&#64;irakoze20yvan</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Bujumbura,Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">460</td>
+<td><a href="https://github.com/IRAKOZEJEANPAUL"><img src="https://avatars.githubusercontent.com/u/190478219?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IRAKOZEJEANPAUL"><b>IRAKOZE JeanPaul</b></a><br><sub>&#64;IRAKOZEJEANPAUL</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">461</td>
+<td><a href="https://github.com/jluc147"><img src="https://avatars.githubusercontent.com/u/70293401?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jluc147"><b>Jean Luc NKURUNZIZA</b></a><br><sub>&#64;jluc147</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">462</td>
+<td><a href="https://github.com/keyci410"><img src="https://avatars.githubusercontent.com/u/204529932?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/keyci410"><b>KEYCI KONGOLO ✪</b></a><br><sub>&#64;keyci410</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>BURUNDI</sub></td>
+</tr>
+<tr>
+<td align="right">463</td>
+<td><a href="https://github.com/king-armando"><img src="https://avatars.githubusercontent.com/u/264217793?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/king-armando"><b>King Armando</b></a><br><sub>&#64;king-armando</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">464</td>
+<td><a href="https://github.com/KingEzechias"><img src="https://avatars.githubusercontent.com/u/104070454?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KingEzechias"><b>King Ezechias</b></a><br><sub>&#64;KingEzechias</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Bujumbura-Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">465</td>
+<td><a href="https://github.com/leobaziro"><img src="https://avatars.githubusercontent.com/u/222042969?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leobaziro"><b>Leonidas Niyongabo</b></a><br><sub>&#64;leobaziro</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Bujumbura - Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">466</td>
+<td><a href="https://github.com/letru"><img src="https://avatars.githubusercontent.com/u/16222070?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/letru"><b>Hervé NININAHAZWE</b></a><br><sub>&#64;letru</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">467</td>
+<td><a href="https://github.com/Logicsmith71"><img src="https://avatars.githubusercontent.com/u/85685023?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Logicsmith71"><b>Logic smith</b></a><br><sub>&#64;Logicsmith71</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">468</td>
+<td><a href="https://github.com/matuidi28"><img src="https://avatars.githubusercontent.com/u/93355033?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/matuidi28"><b>Blaise Manirakiza</b></a><br><sub>&#64;matuidi28</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi/Bujumbura</sub></td>
+</tr>
+<tr>
+<td align="right">469</td>
+<td><a href="https://github.com/mbrobert-git"><img src="https://avatars.githubusercontent.com/u/207477505?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mbrobert-git"><b>Mb Robert</b></a><br><sub>&#64;mbrobert-git</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">470</td>
+<td><a href="https://github.com/medard04"><img src="https://avatars.githubusercontent.com/u/77962818?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/medard04"><b>medard basabose</b></a><br><sub>&#64;medard04</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>burundi</sub></td>
+</tr>
+<tr>
+<td align="right">471</td>
+<td><a href="https://github.com/miguel-build"><img src="https://avatars.githubusercontent.com/u/356010330?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/miguel-build"><b>Andy Miguel lrutingabo</b></a><br><sub>&#64;miguel-build</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Bujumbura/Burundi 🇧🇮</sub></td>
+</tr>
+<tr>
+<td align="right">472</td>
+<td><a href="https://github.com/Mparha"><img src="https://avatars.githubusercontent.com/u/50270914?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mparha"><b>Deme Mparha</b></a><br><sub>&#64;Mparha</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">473</td>
+<td><a href="https://github.com/muhecashdev"><img src="https://avatars.githubusercontent.com/u/122263826?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/muhecashdev"><b>Muhecash</b></a><br><sub>&#64;muhecashdev</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Bujumbura-Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">474</td>
+<td><a href="https://github.com/munoflixbuz"><img src="https://avatars.githubusercontent.com/u/253557775?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/munoflixbuz"><b>munoflixbuz</b></a><br><sub>&#64;munoflixbuz</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">475</td>
+<td><a href="https://github.com/NdayishimiyeGilbert"><img src="https://avatars.githubusercontent.com/u/191048229?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NdayishimiyeGilbert"><b>NdayishimiyeGilbert</b></a><br><sub>&#64;NdayishimiyeGilbert</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">476</td>
+<td><a href="https://github.com/Ndiho"><img src="https://avatars.githubusercontent.com/u/61494657?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ndiho"><b>Ndiho</b></a><br><sub>&#64;Ndiho</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">477</td>
+<td><a href="https://github.com/nduwimanahambali71-collab"><img src="https://avatars.githubusercontent.com/u/229313836?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nduwimanahambali71-collab"><b>Mr clack</b></a><br><sub>&#64;nduwimanahambali71-collab</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">478</td>
+<td><a href="https://github.com/nitondejustin-byte"><img src="https://avatars.githubusercontent.com/u/286604883?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nitondejustin-byte"><b>Justin Nitonde</b></a><br><sub>&#64;nitondejustin-byte</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">479</td>
+<td><a href="https://github.com/Niyongere257"><img src="https://avatars.githubusercontent.com/u/181421525?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Niyongere257"><b>Niyongere</b></a><br><sub>&#64;Niyongere257</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">480</td>
 <td><a href="https://github.com/ntakirutimanavianney716-wq"><img src="https://avatars.githubusercontent.com/u/246404900?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ntakirutimanavianney716-wq"><b>DJKARIM 257</b></a><br><sub>&#64;ntakirutimanavianney716-wq</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Burundi</sub></td>
 </tr>
 <tr>
-<td align="right">294</td>
+<td align="right">481</td>
+<td><a href="https://github.com/PGstar62"><img src="https://avatars.githubusercontent.com/u/265804864?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PGstar62"><b>Jean-Paul Nduwimana</b></a><br><sub>&#64;PGstar62</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">482</td>
+<td><a href="https://github.com/Rukundo2020"><img src="https://avatars.githubusercontent.com/u/63580671?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rukundo2020"><b>RUKUNDO Jean-Claude</b></a><br><sub>&#64;Rukundo2020</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">483</td>
+<td><a href="https://github.com/sabanniere"><img src="https://avatars.githubusercontent.com/u/208430795?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sabanniere"><b>SaBanniere</b></a><br><sub>&#64;sabanniere</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">484</td>
+<td><a href="https://github.com/smmhubidev"><img src="https://avatars.githubusercontent.com/u/253529136?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/smmhubidev"><b>smmhubidev</b></a><br><sub>&#64;smmhubidev</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">485</td>
+<td><a href="https://github.com/Swahiba"><img src="https://avatars.githubusercontent.com/u/95856336?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Swahiba"><b>Swahiba mwamini</b></a><br><sub>&#64;Swahiba</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">486</td>
+<td><a href="https://github.com/Tonda1980"><img src="https://avatars.githubusercontent.com/u/286889199?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tonda1980"><b>&#64;tonda1980</b></a><br><sub>&#64;Tonda1980</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>BUJUMBURA-BURUNDI</sub></td>
+</tr>
+<tr>
+<td align="right">487</td>
+<td><a href="https://github.com/vayanS9090"><img src="https://avatars.githubusercontent.com/u/60291679?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vayanS9090"><b>vayanS9090</b></a><br><sub>&#64;vayanS9090</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">488</td>
+<td><a href="https://github.com/Wakiboy"><img src="https://avatars.githubusercontent.com/u/84229958?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Wakiboy"><b>Evariste</b></a><br><sub>&#64;Wakiboy</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>bujumbura/burundi</sub></td>
+</tr>
+<tr>
+<td align="right">489</td>
+<td><a href="https://github.com/wencekilima4-hue"><img src="https://avatars.githubusercontent.com/u/255836451?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wencekilima4-hue"><b>Daddy</b></a><br><sub>&#64;wencekilima4-hue</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>burundi</sub></td>
+</tr>
+<tr>
+<td align="right">490</td>
+<td><a href="https://github.com/Wesleychm"><img src="https://avatars.githubusercontent.com/u/94023839?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Wesleychm"><b>KATEC GROUP</b></a><br><sub>&#64;Wesleychm</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Bujumbura-Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">491</td>
 <td><a href="https://github.com/willokam"><img src="https://avatars.githubusercontent.com/u/237101612?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/willokam"><b>willokam</b></a><br><sub>&#64;willokam</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">492</td>
+<td><a href="https://github.com/xphiveteam"><img src="https://avatars.githubusercontent.com/u/283256699?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xphiveteam"><b>XP Hive</b></a><br><sub>&#64;xphiveteam</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">493</td>
+<td><a href="https://github.com/yves-nd"><img src="https://avatars.githubusercontent.com/u/339211212?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yves-nd"><b>Yves Ndayizeye</b></a><br><sub>&#64;yves-nd</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">494</td>
+<td><a href="https://github.com/Zebulonkuzo"><img src="https://avatars.githubusercontent.com/u/86341361?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Zebulonkuzo"><b>Zebulon KUZORYIMANA</b></a><br><sub>&#64;Zebulonkuzo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Burundi</sub></td>
@@ -2087,7 +3487,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 294 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 494 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 33 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **22** | 22 Nov 2026 | <a href="../../data/developers/TC.json">JSON</a> |
+| 🟡 Provisional | **32** | 22 Nov 2026 | <a href="../../data/developers/TC.json">JSON</a> |
 
 </div>
 
@@ -175,6 +175,76 @@
 <td align="right">1</td>
 <td><sub>Providenciales, Turks and Caicos Islands and On…</sub></td>
 </tr>
+<tr>
+<td align="right">23</td>
+<td><a href="https://github.com/bluehavenmarina"><img src="https://avatars.githubusercontent.com/u/282490750?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bluehavenmarina"><b>Blue Haven Marina</b></a><br><sub>&#64;bluehavenmarina</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Marina Road, Leeward Settlement TKCA 1ZZ, Turks…</sub></td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td><a href="https://github.com/bluehaventci"><img src="https://avatars.githubusercontent.com/u/301274665?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bluehaventci"><b>Blue Haven Resort</b></a><br><sub>&#64;bluehaventci</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Marina Road, Leeward, TKCA 1ZZ Providenciales,…</sub></td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td><a href="https://github.com/CaicosWaterFun1"><img src="https://avatars.githubusercontent.com/u/240528717?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CaicosWaterFun1"><b>Caicos Water Fun</b></a><br><sub>&#64;CaicosWaterFun1</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Providenciales, Turks and Caicos Islands</sub></td>
+</tr>
+<tr>
+<td align="right">26</td>
+<td><a href="https://github.com/clarencesails"><img src="https://avatars.githubusercontent.com/u/13272324?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/clarencesails"><b>Clarence Stringer</b></a><br><sub>&#64;clarencesails</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Turks and Caicos Islands</sub></td>
+</tr>
+<tr>
+<td align="right">27</td>
+<td><a href="https://github.com/CLugo26"><img src="https://avatars.githubusercontent.com/u/26828614?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CLugo26"><b>Cristhofer Lugo</b></a><br><sub>&#64;CLugo26</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Turks and Caicos Islands</sub></td>
+</tr>
+<tr>
+<td align="right">28</td>
+<td><a href="https://github.com/dontefrancis"><img src="https://avatars.githubusercontent.com/u/5375740?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dontefrancis"><b>Donte Francis</b></a><br><sub>&#64;dontefrancis</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Turks &amp; Caicos Islands</sub></td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td><a href="https://github.com/highwavestour"><img src="https://avatars.githubusercontent.com/u/296995902?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/highwavestour"><b>High Wave Tours</b></a><br><sub>&#64;highwavestour</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Turks and Caicos Islands</sub></td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td><a href="https://github.com/mikayyannah2025-wq"><img src="https://avatars.githubusercontent.com/u/239624974?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikayyannah2025-wq"><b>Michael Paral</b></a><br><sub>&#64;mikayyannah2025-wq</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Turks &amp; Caicos Islands</sub></td>
+</tr>
+<tr>
+<td align="right">31</td>
+<td><a href="https://github.com/villatropidero-rental"><img src="https://avatars.githubusercontent.com/u/304621348?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/villatropidero-rental"><b>villatropidero</b></a><br><sub>&#64;villatropidero-rental</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Turks and Caicos Islands</sub></td>
+</tr>
+<tr>
+<td align="right">32</td>
+<td><a href="https://github.com/visittci"><img src="https://avatars.githubusercontent.com/u/18722230?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/visittci"><b>Visit Turks and Caicos Islands</b></a><br><sub>&#64;visittci</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Turks and Caicos Islands</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -183,8 +253,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 22 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 32 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 3 of 29 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

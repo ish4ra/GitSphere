@@ -5,7 +5,7 @@
 "country": {"code":"AU","name":"Australia","slug":"australia"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":4927,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":137,"candidates":124,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":124,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":4927,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":131,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":124,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxMzQwMTcyODY=","name":"lazygit","nameWithOwner":"jesseduffield/lazygit","url":"https://github.com/jesseduffield/lazygit","description":"simple terminal UI for git commands","stars":84008,"forks":3196,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2018-05-19T00:53:06Z","pushedAt":"2026-11-22T08:07:10Z","archived":false,"owner":{"login":"jesseduffield","name":"Jesse Duffield","type":"User","url":"https://github.com/jesseduffield","location":"Melbourne","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkxODczMzU4MTA=","name":"lazydocker","nameWithOwner":"jesseduffield/lazydocker","url":"https://github.com/jesseduffield/lazydocker","description":"The lazier way to manage everything docker","stars":53399,"forks":1745,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2019-05-18T08:53:50Z","pushedAt":"2026-11-15T00:20:12Z","archived":false,"owner":{"login":"jesseduffield","name":"Jesse Duffield","type":"User","url":"https://github.com/jesseduffield","location":"Melbourne","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"MDEwOlJlcG9zaXRvcnkyNzkxMzc1Mw==","name":"dialogplus","nameWithOwner":"orhanobut/dialogplus","url":"https://github.com/orhanobut/dialogplus","description":"Advanced dialog solution for android","stars":4955,"forks":777,"primaryLanguage":"Kotlin","license":{"spdxId":"Apache-2.0"},"createdAt":"2014-12-12T09:24:44Z","pushedAt":"2026-10-03T22:27:03Z","archived":false,"owner":{"login":"orhanobut","name":"Orhan Obut","type":"User","url":"https://github.com/orhanobut","location":"Sydney, Australia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
   {"rank":100,"id":"MDEwOlJlcG9zaXRvcnkyNjY5MjAw","name":"Squire","nameWithOwner":"fastmail/Squire","url":"https://github.com/fastmail/Squire","description":"The rich text editor for arbitrary HTML.","stars":4927,"forks":415,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2011-10-29T03:04:28Z","pushedAt":"2026-11-10T21:06:22Z","archived":false,"owner":{"login":"fastmail","name":"Fastmail","type":"Organization","url":"https://github.com/fastmail","location":"Melbourne, Australia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "a6878113f678c278",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "9e7c98efa257c351",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

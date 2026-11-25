@@ -5,12 +5,14 @@
 "country": {"code":"IO","name":"British Indian Ocean Territory","slug":"british-indian-ocean-territory"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":8,"measuredAccounts":2,"measurementBacklog":6,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":8,"measuredAccounts":8,"measurementBacklog":0,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":21,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjY2MDY1Njc0","login":"LixvYang","name":"Larson","url":"https://github.com/LixvYang","avatarUrl":"https://avatars.githubusercontent.com/u/66065674?s=80&v=4","followers":93,"publicRepos":214,"location":"British Indian Ocean Territory","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":349,"commits":272,"pullRequests":28,"reviews":0,"issues":9,"repositories":40,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
+  {"rank":1,"id":"MDQ6VXNlcjY2MDY1Njc0","login":"LixvYang","name":"Larson","url":"https://github.com/LixvYang","avatarUrl":"https://avatars.githubusercontent.com/u/66065674?s=80&v=4","followers":93,"publicRepos":214,"location":"British Indian Ocean Territory","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":349,"commits":272,"pullRequests":28,"reviews":0,"issues":9,"repositories":40,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":2,"id":"U_kgDOCVcWtA","login":"inaplanet","name":"Inwell","url":"https://github.com/inaplanet","avatarUrl":"https://avatars.githubusercontent.com/u/156702388?s=80&v=4","followers":0,"publicRepos":5,"location":"British Indian Ocean Territory","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":147,"commits":142,"pullRequests":1,"reviews":0,"issues":0,"repositories":4,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
+  {"rank":3,"id":"U_kgDOB3F4LA","login":"linuxdistribution","name":"linuxdistribution","url":"https://github.com/linuxdistribution","avatarUrl":"https://avatars.githubusercontent.com/u/124876844?s=80&v=4","followers":8,"publicRepos":2,"location":"British Indian Ocean Territory","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":8,"commits":4,"pullRequests":3,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "07c490b401cac882",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "c81a450431b5d634",
+"updatedAt": "2026-11-23T13:10:04.236Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }

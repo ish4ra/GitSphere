@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"country": "US",
+"round": 1,
+"roundStartedAt": "2026-11-24T11:15:13.139Z",
+"terms": {"count":151,"fingerprint":"151:ac9eedea"},
+"termIndex": 0,
+"specIndex": 0,
+"active": {"term":"United States","kind":"users","queue":[{"metric":[0,12500000],"created":null,"cursor":null,"page":1}],"unresolved":[],"cycleStartedAt":"2026-11-24T11:15:13.139Z","stats":{"splits":3,"leaves":3,"pages":3}},
+"unresolved": [],
+"completedRounds": [],
+"stats": {"requests":6,"pages":3,"accounts":0},
+"updatedAt": "2026-11-24T11:15:13.139Z"
+}

@@ -5,7 +5,7 @@
 "country": {"code":"TL","name":"Timor-Leste","slug":"timor-leste"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":14,"ownerExpansionBacklog":14,"candidates":14,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":14,"ownerExpansionBacklog":106,"candidates":14,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":49,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Team-Project-SJD","nameWithOwner":"Celio-err/Team-Project-SJD","url":"https://github.com/Celio-err/Team-Project-SJD","description":null,"stars":1,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2026-05-18T21:47:21Z","pushedAt":"2026-07-21T00:33:20Z","archived":false,"owner":{"login":"Celio-err","name":"Celio Sousa Silva","type":"User","url":"https://github.com/Celio-err","location":"Dili, East Timor","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"project_hub","nameWithOwner":"marobo/project_hub","url":"https://github.com/marobo/project_hub","description":null,"stars":1,"forks":0,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2025-12-10T02:53:55Z","pushedAt":"2026-10-09T01:25:46Z","archived":false,"owner":{"login":"marobo","name":"Onorio de Jesus Afonso","type":"User","url":"https://github.com/marobo","location":"Dili, East Timor","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -22,8 +22,8 @@
   {"rank":13,"id":null,"name":"CodeIgniter","nameWithOwner":"valetgkl/CodeIgniter","url":"https://github.com/valetgkl/CodeIgniter","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2015-01-08T08:02:25Z","pushedAt":"2015-01-08T08:02:25Z","archived":false,"owner":{"login":"valetgkl","name":"Valet Andry","type":"User","url":"https://github.com/valetgkl","location":"East Timor","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":14,"id":null,"name":"XICANO88","nameWithOwner":"XICANO88/XICANO88","url":"https://github.com/XICANO88/XICANO88","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-03-29T12:59:26Z","pushedAt":"2026-04-08T03:30:37Z","archived":false,"owner":{"login":"XICANO88","name":"XICANO","type":"User","url":"https://github.com/XICANO88","location":"Guarda-Iliheu, East Timor","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "bcf09092544ddcd0",
-"updatedAt": "2026-11-22T08:41:14.246Z",
+"contentHash": "e5fb7e5a64252a65",
+"updatedAt": "2026-11-24T21:53:00.965Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"generatedAt": "2026-11-24T21:53:00.965Z"
 }

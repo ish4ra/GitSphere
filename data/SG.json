@@ -5,7 +5,7 @@
 "country": {"code":"SG","name":"Singapore","slug":"singapore"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":6242,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":132,"candidates":136,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":6242,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":131,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":109,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkyOTkzNTQyMDc=","name":"rustdesk","nameWithOwner":"rustdesk/rustdesk","url":"https://github.com/rustdesk/rustdesk","description":"An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.","stars":130711,"forks":21065,"primaryLanguage":"Rust","license":{"spdxId":"AGPL-3.0"},"createdAt":"2020-09-28T15:36:08Z","pushedAt":"2026-11-22T09:43:06Z","archived":false,"owner":{"login":"rustdesk","name":"RustDesk","type":"User","url":"https://github.com/rustdesk","location":"Singapore","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"R_kgDOL5OWWw","name":"crawl4ai","nameWithOwner":"unclecode/crawl4ai","url":"https://github.com/unclecode/crawl4ai","description":"Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this…","stars":87652,"forks":9140,"primaryLanguage":"Python","license":{"spdxId":"Apache-2.0"},"createdAt":"2024-05-09T09:48:50Z","pushedAt":"2026-11-20T12:51:39Z","archived":false,"owner":{"login":"unclecode","name":"UncleCode","type":"User","url":"https://github.com/unclecode","location":"Singapore","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"MDEwOlJlcG9zaXRvcnk0NTEzMDk5Mg==","name":"html5-qrcode","nameWithOwner":"mebjas/html5-qrcode","url":"https://github.com/mebjas/html5-qrcode","description":"A cross platform HTML5 QR code reader. See end to end implementation at: https://scanapp.org","stars":6253,"forks":1147,"primaryLanguage":"TypeScript","license":{"spdxId":"Apache-2.0"},"createdAt":"2015-10-28T17:46:38Z","pushedAt":"2025-12-01T06:41:53Z","archived":false,"owner":{"login":"mebjas","name":"minhaz","type":"User","url":"https://github.com/mebjas","location":"Singapore","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
   {"rank":100,"id":"R_kgDOKQtbxA","name":"node-ws","nameWithOwner":"eooce/node-ws","url":"https://github.com/eooce/node-ws","description":"基于serverless实现的vless+trojan+shadowsocks+vmess四协议 + Telegram webproxy，无内核，node环境通用项目","stars":6242,"forks":10099,"primaryLanguage":"HTML","license":{"spdxId":"GPL-3.0"},"createdAt":"2023-09-07T17:57:56Z","pushedAt":"2026-10-11T10:51:37Z","archived":false,"owner":{"login":"eooce","name":"老王","type":"User","url":"https://github.com/eooce","location":"Singapore","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "d4172509f4a7295c",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "ff1d157eca18e77e",
+"updatedAt": "2026-11-24T01:31:49.018Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-24T01:31:49.018Z"
 }

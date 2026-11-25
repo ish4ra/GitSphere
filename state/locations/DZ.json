@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"country": "DZ",
+"round": 1,
+"roundStartedAt": "2026-11-22T22:03:28.920Z",
+"terms": {"count":154,"fingerprint":"154:d51c2bc5"},
+"termIndex": 0,
+"specIndex": 0,
+"active": {"term":"Algeria","kind":"users","queue":[{"metric":[0,1562500],"created":null,"cursor":null,"page":1}],"unresolved":[],"cycleStartedAt":"2026-11-22T22:03:28.921Z","stats":{"splits":6,"leaves":6,"pages":6}},
+"unresolved": [],
+"completedRounds": [],
+"stats": {"requests":12,"pages":6,"accounts":0},
+"updatedAt": "2026-11-22T22:03:28.920Z"
+}

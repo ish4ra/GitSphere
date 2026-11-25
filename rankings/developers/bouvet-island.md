@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **17** | 22 Nov 2026 | <a href="../../data/developers/BV.json">JSON</a> |
+| 🟡 Provisional | **18** | 22 Nov 2026 | <a href="../../data/developers/BV.json">JSON</a> |
 
 </div>
 
@@ -128,13 +128,20 @@
 </tr>
 <tr>
 <td align="right">16</td>
+<td><a href="https://github.com/bohoejer"><img src="https://avatars.githubusercontent.com/u/24494299?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bohoejer"><b>sb66</b></a><br><sub>&#64;bohoejer</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Bouvetøya</sub></td>
+</tr>
+<tr>
+<td align="right">17</td>
 <td><a href="https://github.com/msundseth"><img src="https://avatars.githubusercontent.com/u/185791782?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/msundseth"><b>Martin</b></a><br><sub>&#64;msundseth</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Bouvet Island</sub></td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">18</td>
 <td><a href="https://github.com/trailofwounds"><img src="https://avatars.githubusercontent.com/u/274052411?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/trailofwounds"><b>Trail of Wounds 2.0</b></a><br><sub>&#64;trailofwounds</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -148,8 +155,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 17 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 3 of 20 in round 1.
+- Organizations are excluded. 18 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 6 of 20 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

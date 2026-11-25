@@ -4,11 +4,11 @@
 "round": 1,
 "roundStartedAt": "2026-11-22T10:54:09.487Z",
 "terms": {"count":112,"fingerprint":"112:d2dbd9f9"},
-"termIndex": 1,
+"termIndex": 2,
 "specIndex": 0,
-"active": null,
+"active": {"term":"DRC","kind":"users","queue":[{"metric":[0,100000000],"created":null,"cursor":"Y3Vyc29yOjE1MA==","page":4,"retrieved":150,"attempts":0}],"unresolved":[],"cycleStartedAt":"2026-11-25T04:27:44.918Z","stats":{"pages":3}},
 "unresolved": [],
 "completedRounds": [],
-"stats": {"requests":6,"pages":6,"accounts":236},
-"updatedAt": "2026-11-22T10:54:23.273Z"
+"stats": {"requests":12,"pages":12,"accounts":471},
+"updatedAt": "2026-11-25T04:27:44.918Z"
 }

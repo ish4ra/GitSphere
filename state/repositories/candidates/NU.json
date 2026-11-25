@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"NU","name":"Niue","slug":"niue"},
-"count": 10,
+"count": 9,
 "repositories": [
-  {"name":"ggai3/contrib-pool-3-346","stars":5,"forks":0,"archived":false,"createdAt":"2025-10-25T07:32:11Z","pushedAt":"2025-10-25T07:34:43Z","owner":{"login":"ggai3","type":"User","name":"Mark Caldwell","location":"South Nathantown, Niue"},"attribution":{"code":"NU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-30T06:01:01.084Z","id":"legacy:ggai3/contrib-pool-3-346","legacy":true},
   {"name":"duckls/learning","stars":3,"forks":0,"archived":false,"createdAt":"2016-05-21T03:07:18Z","pushedAt":"2016-05-21T03:07:18Z","owner":{"login":"duckls","type":"User","name":"zhouyou xiang","location":"0487 ,Jewell Locks ,Ardistown ,Arkansas ,Niue"},"attribution":{"code":"NU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-30T06:01:01.084Z","id":"legacy:duckls/learning","legacy":true},
   {"name":"Kasp42/Steam-Fast-Farm-Card","stars":2,"forks":0,"language":"JavaScript","license":"MIT","archived":false,"createdAt":"2016-06-24T18:42:58Z","pushedAt":"2018-06-21T19:04:18Z","owner":{"login":"Kasp42","type":"User","name":"Vladislav Kasperov","location":"Niue"},"attribution":{"code":"NU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-30T06:01:01.084Z","id":"legacy:kasp42/steam-fast-farm-card","legacy":true},
   {"name":"Fusion-Perception-Group/AeroPointer","stars":1,"forks":0,"language":"Python","license":"WTFPL","archived":false,"createdAt":"2024-04-29T13:22:53Z","pushedAt":"2025-05-07T05:14:38Z","owner":{"login":"Fusion-Perception-Group","type":"Organization","name":"Fusion & Perception Group","location":"Niue"},"attribution":{"code":"NU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-30T06:01:01.084Z","id":"legacy:fusion-perception-group/aeropointer","legacy":true},

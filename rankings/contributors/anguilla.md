@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/contributors/AI.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/AI.json">JSON</a> |
 
 </div>
 
@@ -25,8 +25,71 @@
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/shawnpjennings"><img src="https://avatars.githubusercontent.com/u/9442452?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shawnpjennings"><b>shawnpjennings</b></a><br><sub>&#64;shawnpjennings · 0 followers</sub></td>
+<td align="right"><b>140</b></td>
+<td align="right">130</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/Ideora2026"><img src="https://avatars.githubusercontent.com/u/21557155?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ideora2026"><b>Ideora</b></a><br><sub>&#64;Ideora2026 · 6 followers</sub></td>
 <td align="right"><b>85</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/EdithmarTorres"><img src="https://avatars.githubusercontent.com/u/116964558?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EdithmarTorres"><b>Edithmar</b></a><br><sub>&#64;EdithmarTorres · 0 followers</sub></td>
+<td align="right"><b>49</b></td>
+<td align="right">47</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/apasilacyans"><img src="https://avatars.githubusercontent.com/u/236508511?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/apasilacyans"><b>Antti Pasila</b></a><br><sub>&#64;apasilacyans · 0 followers</sub></td>
+<td align="right"><b>33</b></td>
+<td align="right">30</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/vincecate"><img src="https://avatars.githubusercontent.com/u/37512606?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vincecate"><b>Vincent Cate</b></a><br><sub>&#64;vincecate · 4 followers</sub></td>
+<td align="right"><b>22</b></td>
+<td align="right">1</td>
+<td align="right">6</td>
+<td align="right">0</td>
+<td align="right">14</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/kissandfly"><img src="https://avatars.githubusercontent.com/u/11741391?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kissandfly"><b>l1onel</b></a><br><sub>&#64;kissandfly · 0 followers</sub></td>
+<td align="right"><b>21</b></td>
+<td align="right">13</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/warte-kurz"><img src="https://avatars.githubusercontent.com/u/82979294?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/warte-kurz"><b>Warte Kurz</b></a><br><sub>&#64;warte-kurz · 1 followers</sub></td>
+<td align="right"><b>5</b></td>
+<td align="right">4</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/MindBreaker096"><img src="https://avatars.githubusercontent.com/u/113501418?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MindBreaker096"><b>Huazhe Wang</b></a><br><sub>&#64;MindBreaker096 · 0 followers</sub></td>
+<td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
@@ -39,10 +102,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 2 of 25 discovered developers (23 awaiting measurement).
+- **Measured:** 18 of 25 discovered developers (7 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 3 of 22 in round 1.
+- **Location discovery:** term 6 of 22 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

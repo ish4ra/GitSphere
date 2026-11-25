@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"country": "CX",
+"round": 1,
+"roundStartedAt": "2026-11-22T22:02:02.327Z",
+"terms": {"count":21,"fingerprint":"21:6529b1d"},
+"termIndex": 5,
+"specIndex": 0,
+"active": null,
+"unresolved": [],
+"completedRounds": [],
+"stats": {"requests":12,"pages":12,"accounts":130},
+"updatedAt": "2026-11-25T04:30:03.707Z"
+}

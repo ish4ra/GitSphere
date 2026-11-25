@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **3** | 22 Nov 2026 | <a href="../../data/developers/NF.json">JSON</a> |
+| 🟡 Provisional | **6** | 24 Nov 2026 | <a href="../../data/developers/NF.json">JSON</a> |
 
 </div>
 
@@ -30,17 +30,38 @@
 </tr>
 <tr>
 <td align="right">2</td>
+<td><a href="https://github.com/FoxerMoxer"><img src="https://avatars.githubusercontent.com/u/86633618?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FoxerMoxer"><b>FoxerMoxer</b></a><br><sub>&#64;FoxerMoxer</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">6</td>
+<td><sub>Norfolk Island</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
 <td><a href="https://github.com/Specularpota"><img src="https://avatars.githubusercontent.com/u/154278206?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Specularpota"><b>Specularpota</b></a><br><sub>&#64;Specularpota</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Norfolk Island</sub></td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/lemonthebestolob"><img src="https://avatars.githubusercontent.com/u/183403368?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lemonthebestolob"><b>lemonthebestolob</b></a><br><sub>&#64;lemonthebestolob</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Norfolk Island (NF)</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/DiddyFreakyLover"><img src="https://avatars.githubusercontent.com/u/181701698?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DiddyFreakyLover"><b>DiddyFreakyLover</b></a><br><sub>&#64;DiddyFreakyLover</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Norfolk Island</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/lliku"><img src="https://avatars.githubusercontent.com/u/67600201?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lliku"><b>liku</b></a><br><sub>&#64;lliku</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Norfolk Island</sub></td>
 </tr>
 </tbody>
 </table>
@@ -50,8 +71,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 3 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 6 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 3 of 19 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

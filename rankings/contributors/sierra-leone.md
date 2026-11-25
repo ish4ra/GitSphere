@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/contributors/SL.json">JSON</a> |
+| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/SL.json">JSON</a> |
 
 </div>
 
@@ -32,6 +32,51 @@
 <td align="right">3</td>
 <td align="right">3</td>
 </tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/AmaduKamara"><img src="https://avatars.githubusercontent.com/u/50941074?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AmaduKamara"><b>Amadu Kamara</b></a><br><sub>&#64;AmaduKamara · 110 followers</sub></td>
+<td align="right"><b>252</b></td>
+<td align="right">216</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/samuelmoiwa"><img src="https://avatars.githubusercontent.com/u/38554511?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/samuelmoiwa"><b>Moiwa</b></a><br><sub>&#64;samuelmoiwa · 47 followers</sub></td>
+<td align="right"><b>156</b></td>
+<td align="right">150</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/mmsesay"><img src="https://avatars.githubusercontent.com/u/39523312?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mmsesay"><b>Muhammad Sesay</b></a><br><sub>&#64;mmsesay · 221 followers</sub></td>
+<td align="right"><b>113</b></td>
+<td align="right">100</td>
+<td align="right">10</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/22Andrew"><img src="https://avatars.githubusercontent.com/u/77627880?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/22Andrew"><b>Alhaji Mohamed Kanu</b></a><br><sub>&#64;22Andrew · 0 followers</sub></td>
+<td align="right"><b>64</b></td>
+<td align="right">62</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/Johnblesson"><img src="https://avatars.githubusercontent.com/u/106766947?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Johnblesson"><b>John Blesson-Rowe</b></a><br><sub>&#64;Johnblesson · 40 followers</sub></td>
+<td align="right"><b>36</b></td>
+<td align="right">30</td>
+<td align="right">6</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
 </tbody>
 </table>
 
@@ -39,10 +84,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 1 of 401 discovered developers (400 awaiting measurement).
+- **Measured:** 10 of 504 discovered developers (494 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 69 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

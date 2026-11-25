@@ -1,0 +1,14 @@
+{
+"schemaVersion": 3,
+"country": "SS",
+"round": 1,
+"roundStartedAt": "2026-11-24T11:10:28.694Z",
+"terms": {"count":47,"fingerprint":"47:7369e079"},
+"termIndex": 0,
+"specIndex": 0,
+"active": {"term":"South Sudan","kind":"users","queue":[{"metric":[0,100000000],"created":null,"cursor":"Y3Vyc29yOjMwMA==","page":7,"retrieved":300,"attempts":0}],"unresolved":[],"cycleStartedAt":"2026-11-24T11:10:28.694Z","stats":{"pages":6}},
+"unresolved": [],
+"completedRounds": [],
+"stats": {"requests":6,"pages":6,"accounts":300},
+"updatedAt": "2026-11-24T11:10:28.694Z"
+}

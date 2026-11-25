@@ -3,12 +3,16 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"PW","name":"Palau","slug":"palau"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":10,"measuredAccounts":1,"measurementBacklog":9,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "27f0cd307911abc0",
-"updatedAt": "2026-11-22T11:14:57.063Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"coverage": {"basis":"partial","discoveredAccounts":16,"measuredAccounts":11,"measurementBacklog":5,"window":{"from":"2025-11-24T11:00:00Z","to":"2026-11-24T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":40,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"U_kgDODWJTHQ","login":"lustrecker-lang","name":"Lu Ca St","url":"https://github.com/lustrecker-lang","avatarUrl":"https://avatars.githubusercontent.com/u/224547613?s=80&v=4","followers":0,"publicRepos":3,"location":"Palau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":41,"commits":37,"pullRequests":1,"reviews":0,"issues":0,"repositories":3,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
+  {"rank":2,"id":"U_kgDOEM4ewA","login":"yukihikohatta","name":"Yukihiko Hatta","url":"https://github.com/yukihikohatta","avatarUrl":"https://avatars.githubusercontent.com/u/281943744?s=80&v=4","followers":0,"publicRepos":1,"location":"Palau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25","contributions":{"public":20,"commits":18,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-25T04:00:00Z","windowTo":"2026-11-25T04:00:00Z","measuredOn":"2026-11-25"}},
+  {"rank":3,"id":"MDQ6VXNlcjgwOTY4MDg=","login":"bcys","name":"Gaius bcys","url":"https://github.com/bcys","avatarUrl":"https://avatars.githubusercontent.com/u/8096808?s=80&v=4","followers":0,"publicRepos":14,"location":"Palau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
+],
+"contentHash": "c9f7b966acbe82b6",
+"updatedAt": "2026-11-25T04:54:26.707Z",
+"verifiedOn": "2026-11-22",
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

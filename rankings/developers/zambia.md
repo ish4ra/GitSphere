@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1** | 22 Nov 2026 | <a href="../../data/developers/ZM.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/developers/ZM.json">JSON</a> |
 
 </div>
 
@@ -28,6 +28,76 @@
 <td align="right">91</td>
 <td><sub>Lusaka, Zambia</sub></td>
 </tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/Billypeterlennards"><img src="https://avatars.githubusercontent.com/u/43522814?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Billypeterlennards"><b>Billy Peter Munyenyembe</b></a><br><sub>&#64;Billypeterlennards</sub></td>
+<td align="right"><b>394</b></td>
+<td align="right">75</td>
+<td><sub>Lusaka,Zambia</sub></td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/ritchiemwewa"><img src="https://avatars.githubusercontent.com/u/74001397?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ritchiemwewa"><b>Ritchie Mwewa</b></a><br><sub>&#64;ritchiemwewa</sub></td>
+<td align="right"><b>309</b></td>
+<td align="right">59</td>
+<td><sub>Zambia</sub></td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/KMKCODER"><img src="https://avatars.githubusercontent.com/u/66021442?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KMKCODER"><b>Kapembwa Kangali</b></a><br><sub>&#64;KMKCODER</sub></td>
+<td align="right"><b>236</b></td>
+<td align="right">35</td>
+<td><sub>Ndola, Zambia</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/Joshk21758"><img src="https://avatars.githubusercontent.com/u/147214909?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Joshk21758"><b>Mwansa kunda</b></a><br><sub>&#64;Joshk21758</sub></td>
+<td align="right"><b>234</b></td>
+<td align="right">11</td>
+<td><sub>Lusaka, Zambia</sub></td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/marksikaundi"><img src="https://avatars.githubusercontent.com/u/58531374?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marksikaundi"><b>Mark Sikaundi</b></a><br><sub>&#64;marksikaundi</sub></td>
+<td align="right"><b>220</b></td>
+<td align="right">294</td>
+<td><sub>Zambia</sub></td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/0xU53R"><img src="https://avatars.githubusercontent.com/u/211194955?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xU53R"><b>Mapesho Mulenda</b></a><br><sub>&#64;0xU53R</sub></td>
+<td align="right"><b>3</b></td>
+<td align="right">12</td>
+<td><sub>Lusaka,Zambia</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/1234567-glitch"><img src="https://avatars.githubusercontent.com/u/74264500?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/1234567-glitch"><b>Bayanojr#22</b></a><br><sub>&#64;1234567-glitch</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">53</td>
+<td><sub>zambia</sub></td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/123co72"><img src="https://avatars.githubusercontent.com/u/178103732?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/123co72"><b>keejah mwandu</b></a><br><sub>&#64;123co72</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">13</td>
+<td><sub>lusaka-zambia</sub></td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/121262"><img src="https://avatars.githubusercontent.com/u/105951239?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/121262"><b>Charles Chilufya</b></a><br><sub>&#64;121262</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">5</td>
+<td><sub>Zambia</sub></td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/076024"><img src="https://avatars.githubusercontent.com/u/188593749?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/076024"><b>Jackson</b></a><br><sub>&#64;076024</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">10</td>
+<td><sub>Lusaka Zambia</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -36,8 +106,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 1 attributed developers are tracked; the cutoff is 434 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 11 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 0 of 83 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

@@ -3,12 +3,14 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"TF","name":"French Southern Territories","slug":"french-southern-territories"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":8,"measuredAccounts":1,"measurementBacklog":7,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "5d76314364d0e885",
-"updatedAt": "2026-11-22T11:14:57.063Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"coverage": {"basis":"partial","discoveredAccounts":10,"measuredAccounts":10,"measurementBacklog":0,"window":{"from":"2025-11-24T11:00:00Z","to":"2026-11-24T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":27,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"U_kgDOEJUSAQ","login":"Berlinlight","name":"Dmitry","url":"https://github.com/Berlinlight","avatarUrl":"https://avatars.githubusercontent.com/u/278204929?s=80&v=4","followers":1,"publicRepos":0,"location":"French southern territories","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}}
+],
+"contentHash": "d09c39ed0103b120",
+"updatedAt": "2026-11-24T11:36:56.631Z",
+"verifiedOn": "2026-11-24",
+"generatedAt": "2026-11-24T11:36:56.631Z"
 }

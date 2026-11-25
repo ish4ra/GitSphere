@@ -5,7 +5,7 @@
 "country": {"code":"GB","name":"United Kingdom","slug":"united-kingdom"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":9980,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":93,"candidates":148,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":9980,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":93,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":192,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk4NTA3NzU1OA==","name":"developer-roadmap","nameWithOwner":"nilbuild/developer-roadmap","url":"https://github.com/nilbuild/developer-roadmap","description":"Interactive roadmaps, guides and other educational content to help developers grow in their careers.","stars":372533,"forks":45377,"primaryLanguage":"TypeScript","license":{"spdxId":"NOASSERTION"},"createdAt":"2017-03-15T13:45:52Z","pushedAt":"2026-11-20T16:39:22Z","archived":false,"owner":{"login":"nilbuild","name":"Kamran Ahmed","type":"User","url":"https://github.com/nilbuild","location":"United Kingdom","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"R_kgDORHkddg","name":"skills","nameWithOwner":"mattpocock/skills","url":"https://github.com/mattpocock/skills","description":"Skills for Real Engineers. Straight from my .agents directory.","stars":330031,"forks":27735,"primaryLanguage":"Shell","license":{"spdxId":"MIT"},"createdAt":"2026-02-03T11:15:53Z","pushedAt":"2026-11-19T13:35:13Z","archived":false,"owner":{"login":"mattpocock","name":"Matt Pocock","type":"User","url":"https://github.com/mattpocock","location":"Oxfordshire","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"R_kgDOHoiebw","name":"awesome-privacy","nameWithOwner":"lissy93/awesome-privacy","url":"https://github.com/lissy93/awesome-privacy","description":"🦄 A curated list of privacy & security-focused software and services","stars":10112,"forks":709,"primaryLanguage":"Astro","license":{"spdxId":"CC0-1.0"},"createdAt":"2022-07-09T19:32:38Z","pushedAt":"2026-11-14T11:59:12Z","archived":false,"owner":{"login":"lissy93","name":"Alicia Sykes","type":"User","url":"https://github.com/lissy93","location":"London, UK","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
   {"rank":100,"id":"MDEwOlJlcG9zaXRvcnkzMzczMjI5Njc=","name":"sea-orm","nameWithOwner":"SeaQL/sea-orm","url":"https://github.com/SeaQL/sea-orm","description":"🐚 A powerful relational ORM for Rust","stars":9980,"forks":749,"primaryLanguage":"Rust","license":{"spdxId":"Apache-2.0"},"createdAt":"2021-02-09T07:16:15Z","pushedAt":"2026-11-16T23:12:21Z","archived":false,"owner":{"login":"SeaQL","name":"SeaQL","type":"Organization","url":"https://github.com/SeaQL","location":"United Kingdom","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "f8964582078984a0",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "0da21ea3bc9905c0",
+"updatedAt": "2026-11-22T22:28:05.466Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-22T22:28:05.466Z"
 }

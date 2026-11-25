@@ -14,20 +14,107 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🔵 Building | **0** | — | <a href="../../data/contributors/SO.json">JSON</a> |
+| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/SO.json">JSON</a> |
 
 </div>
 
-> Discovery for this country is still running. Results appear here automatically as soon as attributable entries are found and verified.
+<p align="center"><sub>Public contributions from <b>22 Nov 2025</b> to <b>22 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
+
+<table>
+<thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Public contributions</th><th align="right">Commits</th><th align="right">PRs</th><th align="right">Reviews</th><th align="right">Issues</th></tr></thead>
+<tbody>
+<tr>
+<td align="right">1</td>
+<td><a href="https://github.com/omartood"><img src="https://avatars.githubusercontent.com/u/129175570?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/omartood"><b>Omar Tood</b></a><br><sub>&#64;omartood · 603 followers</sub></td>
+<td align="right"><b>920</b></td>
+<td align="right">526</td>
+<td align="right">12</td>
+<td align="right">352</td>
+<td align="right">16</td>
+</tr>
+<tr>
+<td align="right">2</td>
+<td><a href="https://github.com/Sharmasheeno"><img src="https://avatars.githubusercontent.com/u/135059937?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sharmasheeno"><b>Sharmake Hassan</b></a><br><sub>&#64;Sharmasheeno · 541 followers</sub></td>
+<td align="right"><b>515</b></td>
+<td align="right">488</td>
+<td align="right">6</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td><a href="https://github.com/rihhanna"><img src="https://avatars.githubusercontent.com/u/135016746?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rihhanna"><b>Rehana Hassan Muhumed</b></a><br><sub>&#64;rihhanna · 664 followers</sub></td>
+<td align="right"><b>305</b></td>
+<td align="right">256</td>
+<td align="right">30</td>
+<td align="right">0</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td><a href="https://github.com/MohamedAbdiaziz"><img src="https://avatars.githubusercontent.com/u/86708771?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MohamedAbdiaziz"><b>Mohamed Abdiaziz</b></a><br><sub>&#64;MohamedAbdiaziz · 334 followers</sub></td>
+<td align="right"><b>19</b></td>
+<td align="right">17</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td><a href="https://github.com/ahmed-moha"><img src="https://avatars.githubusercontent.com/u/73517024?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahmed-moha"><b>Ahmed Mohamed Abdulkadir</b></a><br><sub>&#64;ahmed-moha · 345 followers</sub></td>
+<td align="right"><b>11</b></td>
+<td align="right">5</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">6</td>
+<td><a href="https://github.com/munniomer"><img src="https://avatars.githubusercontent.com/u/42119461?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/munniomer"><b>Munira Omar</b></a><br><sub>&#64;munniomer · 243 followers</sub></td>
+<td align="right"><b>6</b></td>
+<td align="right">3</td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td><a href="https://github.com/CanoGel"><img src="https://avatars.githubusercontent.com/u/190362716?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CanoGel"><b>Ahmad Isse Farah</b></a><br><sub>&#64;CanoGel · 785 followers</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/halac"><img src="https://avatars.githubusercontent.com/u/5058076?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/halac"><b>Abdirisak Mohamed</b></a><br><sub>&#64;halac · 251 followers</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/baaslaawe"><img src="https://avatars.githubusercontent.com/u/13794466?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/baaslaawe"><b>Abdalla Hassan Awale</b></a><br><sub>&#64;baaslaawe · 49 followers</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+</tbody>
+</table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Building. 
-- **Measured:** 1 of 400 discovered developers (399 awaiting measurement).
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
+- **Measured:** 11 of 403 discovered developers (392 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 0 of 0 in round 1.
+- **Location discovery:** term 0 of 99 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

@@ -5,7 +5,7 @@
 "country": {"code":"TF","name":"French Southern Territories","slug":"french-southern-territories"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":8,"ownerExpansionBacklog":8,"candidates":8,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":8,"ownerExpansionBacklog":8,"candidates":8,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":27,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"slurpy","nameWithOwner":"litmus-ritten/slurpy","url":"https://github.com/litmus-ritten/slurpy","description":null,"stars":2,"forks":0,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2024-09-06T06:10:50Z","pushedAt":"2025-02-18T09:35:25Z","archived":false,"owner":{"login":"litmus-ritten","name":null,"type":"User","url":"https://github.com/litmus-ritten","location":"Kerguelen Islands","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"chewkekofmeister","nameWithOwner":"chewkekofmeister/chewkekofmeister","url":"https://github.com/chewkekofmeister/chewkekofmeister","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-22T00:19:25Z","pushedAt":"2024-09-22T00:19:35Z","archived":false,"owner":{"login":"chewkekofmeister","name":null,"type":"User","url":"https://github.com/chewkekofmeister","location":"French Southern Territories (TF)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -16,8 +16,8 @@
   {"rank":7,"id":null,"name":"woodoosniper","nameWithOwner":"woodoosniper/woodoosniper","url":"https://github.com/woodoosniper/woodoosniper","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-24T17:31:42Z","pushedAt":"2024-09-24T17:31:53Z","archived":false,"owner":{"login":"woodoosniper","name":null,"type":"User","url":"https://github.com/woodoosniper","location":"French Southern Territories (TF)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":8,"id":null,"name":"oj-Study-frontend","nameWithOwner":"Zzl-0/oj-Study-frontend","url":"https://github.com/Zzl-0/oj-Study-frontend","description":null,"stars":0,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2024-01-18T02:57:55Z","pushedAt":"2024-01-18T03:43:47Z","archived":false,"owner":{"login":"Zzl-0","name":"Zzl_like","type":"User","url":"https://github.com/Zzl-0","location":"31076 ,Breitenberg Tunnel ,Port Alannaberg ,Connecticut ,French Southern Territories","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "11b9e2c9eaea445f",
-"updatedAt": "2026-11-22T08:41:14.246Z",
+"contentHash": "260737dea448e257",
+"updatedAt": "2026-11-24T11:36:56.631Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-22T08:41:14.246Z"
+"generatedAt": "2026-11-24T11:36:56.631Z"
 }

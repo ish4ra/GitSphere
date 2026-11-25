@@ -5,18 +5,19 @@
 "country": {"code":"UM","name":"U.S. Outlying Islands","slug":"u-s-outlying-islands"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":7,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":8,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":29,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDOCArewA","login":"IiDxmon","name":"Isolated Island Demon 𓄋","url":"https://github.com/IiDxmon","avatarUrl":"https://avatars.githubusercontent.com/u/134930112?s=80&v=4","followers":90,"publicRepos":1,"location":"Wake Island","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
+  {"rank":1,"id":"U_kgDOCArewA","login":"IiDxmon","name":"Isolated Island Demon 𓄋","url":"https://github.com/IiDxmon","avatarUrl":"https://avatars.githubusercontent.com/u/134930112?s=80&v=4","followers":90,"publicRepos":1,"location":"Wake Island","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":"MDQ6VXNlcjcyNjE4ODg=","login":"OgJAkFy8","name":"Erik JA","url":"https://github.com/OgJAkFy8","avatarUrl":"https://avatars.githubusercontent.com/u/7261888?s=80&v=4","followers":4,"publicRepos":9,"location":"Navassa Island","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
-  {"rank":3,"id":"U_kgDOBmhfAg","login":"BakingLiberteZ","name":"LibertéZ Baker","url":"https://github.com/BakingLiberteZ","avatarUrl":"https://avatars.githubusercontent.com/u/107503362?s=80&v=4","followers":4,"publicRepos":2,"location":"Baker Island","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
-  {"rank":4,"id":"U_kgDODWplYA","login":"realjarvis69","name":"real_jarvis","url":"https://github.com/realjarvis69","avatarUrl":"https://avatars.githubusercontent.com/u/225076576?s=80&v=4","followers":3,"publicRepos":4,"location":"Jarvis Island","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
+  {"rank":3,"id":"U_kgDOBmhfAg","login":"BakingLiberteZ","name":"LibertéZ Baker","url":"https://github.com/BakingLiberteZ","avatarUrl":"https://avatars.githubusercontent.com/u/107503362?s=80&v=4","followers":4,"publicRepos":2,"location":"Baker Island","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23"},
+  {"rank":4,"id":"U_kgDODWplYA","login":"realjarvis69","name":"real_jarvis","url":"https://github.com/realjarvis69","avatarUrl":"https://avatars.githubusercontent.com/u/225076576?s=80&v=4","followers":3,"publicRepos":4,"location":"Jarvis Island","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23"},
   {"rank":5,"id":"MDQ6VXNlcjI2NjMzOTE1","login":"mijail73","name":"Mijail","url":"https://github.com/mijail73","avatarUrl":"https://avatars.githubusercontent.com/u/26633915?s=80&v=4","followers":1,"publicRepos":37,"location":"Wake Island","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
-  {"rank":6,"id":"U_kgDOB2K42g","login":"faykhet","name":"fay","url":"https://github.com/faykhet","avatarUrl":"https://avatars.githubusercontent.com/u/123910362?s=80&v=4","followers":1,"publicRepos":0,"location":"Wake Island","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
-  {"rank":7,"id":"U_kgDOCeIugw","login":"RanchoSM","name":"Frederic Avila","url":"https://github.com/RanchoSM","avatarUrl":"https://avatars.githubusercontent.com/u/165817987?s=80&v=4","followers":0,"publicRepos":1,"location":"U.S. Outlying Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":6,"id":"U_kgDOB2K42g","login":"faykhet","name":"fay","url":"https://github.com/faykhet","avatarUrl":"https://avatars.githubusercontent.com/u/123910362?s=80&v=4","followers":1,"publicRepos":0,"location":"Wake Island","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-24"},
+  {"rank":7,"id":"U_kgDOCeIugw","login":"RanchoSM","name":"Frederic Avila","url":"https://github.com/RanchoSM","avatarUrl":"https://avatars.githubusercontent.com/u/165817987?s=80&v=4","followers":0,"publicRepos":1,"location":"U.S. Outlying Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":8,"id":"U_kgDOBdv9yQ","login":"session96706","name":"Jordan S.","url":"https://github.com/session96706","avatarUrl":"https://avatars.githubusercontent.com/u/98303433?s=80&v=4","followers":0,"publicRepos":0,"location":"U.S. Outlying Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "1ef5478d3e01ab77",
-"updatedAt": "2026-11-22T11:14:57.063Z",
+"contentHash": "6420d00770e2f17e",
+"updatedAt": "2026-11-24T11:36:56.631Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"generatedAt": "2026-11-24T11:36:56.631Z"
 }

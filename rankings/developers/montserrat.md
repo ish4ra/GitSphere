@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/developers/MS.json">JSON</a> |
+| 🟡 Provisional | **18** | 23 Nov 2026 | <a href="../../data/developers/MS.json">JSON</a> |
 
 </div>
 
@@ -65,51 +65,86 @@
 </tr>
 <tr>
 <td align="right">7</td>
+<td><a href="https://github.com/4thDymension"><img src="https://avatars.githubusercontent.com/u/45949720?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/4thDymension"><b>4thDymension</b></a><br><sub>&#64;4thDymension</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td><sub>Montserrat</sub></td>
+</tr>
+<tr>
+<td align="right">8</td>
 <td><a href="https://github.com/NeverPlayerG"><img src="https://avatars.githubusercontent.com/u/154454771?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NeverPlayerG"><b>NeverPlayerG</b></a><br><sub>&#64;NeverPlayerG</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Montserrat</sub></td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/SpicePayne"><img src="https://avatars.githubusercontent.com/u/7762568?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SpicePayne"><b>Sasha Payne</b></a><br><sub>&#64;SpicePayne</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Montserrat</sub></td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/hopseachgoogle"><img src="https://avatars.githubusercontent.com/u/183223005?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hopseachgoogle"><b>hopseachgoogle</b></a><br><sub>&#64;hopseachgoogle</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Montserrat (MS)</sub></td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/dvol"><img src="https://avatars.githubusercontent.com/u/5066475?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dvol"><b>Darius Lewis</b></a><br><sub>&#64;dvol</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Woodlands, Montserrat</sub></td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/copcaress"><img src="https://avatars.githubusercontent.com/u/78507270?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/copcaress"><b>Nikita Copcar</b></a><br><sub>&#64;copcaress</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Montserrat</sub></td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/Vanya993"><img src="https://avatars.githubusercontent.com/u/140186030?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Vanya993"><b>Vanessa O. V. Mark</b></a><br><sub>&#64;Vanya993</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Montserrat</sub></td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/wake-up-sluts"><img src="https://avatars.githubusercontent.com/u/295654581?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wake-up-sluts"><b>Cosmosnaut</b></a><br><sub>&#64;wake-up-sluts</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
+<td><sub>Montserrat</sub></td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><a href="https://github.com/Fggpotoerytiop"><img src="https://avatars.githubusercontent.com/u/115407243?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Fggpotoerytiop"><b>Alexsherryann Nelson</b></a><br><sub>&#64;Fggpotoerytiop</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Montserrat</sub></td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><a href="https://github.com/pau-luque"><img src="https://avatars.githubusercontent.com/u/44432147?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pau-luque"><b>Pau Luque</b></a><br><sub>&#64;pau-luque</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Montserrat, Barcelona</sub></td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><a href="https://github.com/Plata-ui"><img src="https://avatars.githubusercontent.com/u/189282497?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Plata-ui"><b>Plata</b></a><br><sub>&#64;Plata-ui</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Carrer Verge de Montserrat, 8</sub></td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><a href="https://github.com/schiller89159"><img src="https://avatars.githubusercontent.com/u/28997169?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/schiller89159"><b>Pietro Schiller</b></a><br><sub>&#64;schiller89159</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
 <td><sub>Montserrat</sub></td>
 </tr>
 </tbody>
@@ -120,8 +155,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 13 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 0 of 0 in round 1.
+- Organizations are excluded. 18 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 3 of 8 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

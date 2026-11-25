@@ -3,12 +3,14 @@
 "mode": "contributors",
 "methodologyVersion": "1.0.0",
 "country": {"code":"GS","name":"South Georgia & South Sandwich Islands","slug":"south-georgia-south-sandwich-islands"},
-"status": "building",
+"status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":1,"measuredAccounts":1,"measurementBacklog":0,"window":null,"exhaustive":false,"location":{"complete":false,"round":0,"termIndex":0,"terms":0,"unresolved":0}},
-"users": [],
-"contentHash": "64606f82dc2ea3a4",
-"updatedAt": "2026-11-22T11:14:57.063Z",
-"verifiedOn": null,
-"generatedAt": "2026-11-22T11:14:57.063Z"
+"coverage": {"basis":"partial","discoveredAccounts":4,"measuredAccounts":4,"measurementBacklog":0,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":22,"unresolved":0}},
+"users": [
+  {"rank":1,"id":"U_kgDODrKFzg","login":"Voblit","name":"Voblit","url":"https://github.com/Voblit","avatarUrl":"https://avatars.githubusercontent.com/u/246580686?s=80&v=4","followers":7,"publicRepos":25,"location":"SIQQ 1ZZ, South Georgia & South Sandwich Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":568,"commits":533,"pullRequests":2,"reviews":0,"issues":7,"repositories":25,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
+],
+"contentHash": "4a15be56babd5d6e",
+"updatedAt": "2026-11-23T13:10:04.236Z",
+"verifiedOn": "2026-11-23",
+"generatedAt": "2026-11-23T13:10:04.236Z"
 }
