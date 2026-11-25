@@ -5,7 +5,7 @@
 "country": {"code":"KN","name":"St. Kitts & Nevis","slug":"st-kitts-nevis"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":40,"ownerExpansionBacklog":45,"candidates":43,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":47,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":40,"ownerExpansionBacklog":44,"candidates":43,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":47,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkyMzE4MTY5MTQ=","name":"cake_wallet","nameWithOwner":"cake-tech/cake_wallet","url":"https://github.com/cake-tech/cake_wallet","description":"The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https…","stars":2039,"forks":416,"primaryLanguage":"Dart","license":{"spdxId":"MIT"},"createdAt":"2020-01-04T19:26:17Z","pushedAt":"2026-11-22T20:32:31Z","archived":false,"owner":{"login":"cake-tech","name":"Cake Labs","type":"Organization","url":"https://github.com/cake-tech","location":"Saint Kitts and Nevis","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-23"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkyODMzNDc5MTI=","name":"bittensor","nameWithOwner":"RaoFoundation/bittensor","url":"https://github.com/RaoFoundation/bittensor","description":"Internet-scale Neural Networks","stars":1465,"forks":470,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2020-07-28T23:12:38Z","pushedAt":"2026-07-10T17:43:54Z","archived":true,"owner":{"login":"RaoFoundation","name":"RaoFoundation","type":"Organization","url":"https://github.com/RaoFoundation","location":"Saint Kitts and Nevis","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-23"},
@@ -51,8 +51,8 @@
   {"rank":42,"id":null,"name":".github","nameWithOwner":"Viridia-Research/.github","url":"https://github.com/Viridia-Research/.github","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-07-19T19:45:07Z","pushedAt":"2026-08-26T19:13:27Z","archived":false,"owner":{"login":"Viridia-Research","name":"Viridia Research","type":"Organization","url":"https://github.com/Viridia-Research","location":"Saint Kitts and Nevis","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":43,"id":null,"name":"VPN","nameWithOwner":"vpn-testing/VPN","url":"https://github.com/vpn-testing/VPN","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2021-07-15T21:00:07Z","pushedAt":"2021-07-15T21:13:44Z","archived":false,"owner":{"login":"vpn-testing","name":"VPN Testing","type":"User","url":"https://github.com/vpn-testing","location":"St Kitts and Nevis","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "8c1e727754968f37",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "b069570e705554fa",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

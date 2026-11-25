@@ -5,7 +5,7 @@
 "country": {"code":"GB","name":"United Kingdom","slug":"united-kingdom"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":1628,"measuredAccounts":10,"measurementBacklog":1618,"window":{"from":"2025-11-24T11:00:00Z","to":"2026-11-24T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":192,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":1673,"measuredAccounts":10,"measurementBacklog":1663,"window":{"from":"2025-11-24T11:00:00Z","to":"2026-11-24T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":192,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjI4NzA2Mzcy","login":"danielroe","name":"Daniel Roe","url":"https://github.com/danielroe","avatarUrl":"https://avatars.githubusercontent.com/u/28706372?s=80&v=4","followers":6099,"publicRepos":922,"location":"Edinburgh, UK","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":6252,"commits":6070,"pullRequests":0,"reviews":0,"issues":109,"repositories":68,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":2,"id":"MDQ6VXNlcjMyMTY5MTgy","login":"salmanmkc","name":"Salman Muin Kayser Chishti","url":"https://github.com/salmanmkc","avatarUrl":"https://avatars.githubusercontent.com/u/32169182?s=80&v=4","followers":736,"publicRepos":1142,"location":"London, UK","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":5550,"commits":3610,"pullRequests":1459,"reviews":345,"issues":73,"repositories":59,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
@@ -17,8 +17,8 @@
   {"rank":8,"id":"MDQ6VXNlcjMwMTQw","login":"jstrachan","name":"James Strachan","url":"https://github.com/jstrachan","avatarUrl":"https://avatars.githubusercontent.com/u/30140?s=80&v=4","followers":882,"publicRepos":1411,"location":"Mells, UK","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":10,"commits":0,"pullRequests":9,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":9,"id":"MDQ6VXNlcjY2NDM1ODI=","login":"Laeeth","name":"Laeeth Isharc","url":"https://github.com/Laeeth","avatarUrl":"https://avatars.githubusercontent.com/u/6643582?s=80&v=4","followers":227,"publicRepos":823,"location":"London","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-24","contributions":{"public":3,"commits":1,"pullRequests":1,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T21:00:00Z","windowTo":"2026-11-24T21:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "ddc44ae83081e499",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "61d57c1a477a4cde",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

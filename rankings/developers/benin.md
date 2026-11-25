@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 23 Nov 2026 | <a href="../../data/developers/BJ.json">JSON</a> |
+| 🟡 Provisional | **12** | 23 Nov 2026 | <a href="../../data/developers/BJ.json">JSON</a> |
 
 </div>
 
@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/JideGuru"><img src="https://avatars.githubusercontent.com/u/24323581?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JideGuru"><b>Festus Olusegun</b></a><br><sub>&#64;JideGuru</sub></td>
-<td align="right"><b>2,196</b></td>
+<td align="right"><b>2,197</b></td>
 <td align="right">105</td>
 <td><sub>Cotonou, Benin.</sub></td>
 </tr>
@@ -86,6 +86,20 @@
 </tr>
 <tr>
 <td align="right">10</td>
+<td><a href="https://github.com/prince0xdev"><img src="https://avatars.githubusercontent.com/u/180169415?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/prince0xdev"><b>Ekpinse Prince</b></a><br><sub>&#64;prince0xdev</sub></td>
+<td align="right"><b>193</b></td>
+<td align="right">108</td>
+<td><sub>Abomey-Calavi, Atlantique, Bénin</sub></td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/underscoDe"><img src="https://avatars.githubusercontent.com/u/65609383?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/underscoDe"><b>Arsene Awounou</b></a><br><sub>&#64;underscoDe</sub></td>
+<td align="right"><b>188</b></td>
+<td align="right">50</td>
+<td><sub>Benin-Cotonou</sub></td>
+</tr>
+<tr>
+<td align="right">12</td>
 <td><a href="https://github.com/onesine"><img src="https://avatars.githubusercontent.com/u/55294457?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/onesine"><b>Lewhe Onesine</b></a><br><sub>&#64;onesine</sub></td>
 <td align="right"><b>97</b></td>
 <td align="right">35</td>
@@ -99,7 +113,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 10 attributed developers are tracked; the cutoff is 97 followers.
+- Organizations are excluded. 12 attributed developers are tracked; the cutoff is 97 followers.
 - **Location discovery:** term 0 of 86 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

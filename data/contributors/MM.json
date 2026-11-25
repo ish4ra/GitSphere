@@ -5,7 +5,7 @@
 "country": {"code":"MM","name":"Myanmar (Burma)","slug":"myanmar-burma"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":231,"measuredAccounts":11,"measurementBacklog":220,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":161,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":232,"measuredAccounts":11,"measurementBacklog":221,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":161,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjcwNTA1MTMy","login":"sannlynnhtun-coding","name":"Sann Lynn Htun","url":"https://github.com/sannlynnhtun-coding","avatarUrl":"https://avatars.githubusercontent.com/u/70505132?s=80&v=4","followers":1077,"publicRepos":446,"location":"Yangon, Myanmar","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":2197,"commits":2088,"pullRequests":30,"reviews":2,"issues":0,"repositories":77,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":2,"id":"MDQ6VXNlcjMzOTMwNA==","login":"eimg","name":"Ei Maung","url":"https://github.com/eimg","avatarUrl":"https://avatars.githubusercontent.com/u/339304?s=80&v=4","followers":4381,"publicRepos":104,"location":"Yangon, Myanmar","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-25","contributions":{"public":955,"commits":906,"pullRequests":8,"reviews":1,"issues":3,"repositories":37,"windowFrom":"2025-11-25T04:00:00Z","windowTo":"2026-11-25T04:00:00Z","measuredOn":"2026-11-25"}},
@@ -17,8 +17,8 @@
   {"rank":8,"id":"MDQ6VXNlcjY1MjgwMDQz","login":"HlaingMinThan","name":"Hlaing Min Than(Faizal)","url":"https://github.com/HlaingMinThan","avatarUrl":"https://avatars.githubusercontent.com/u/65280043?s=80&v=4","followers":694,"publicRepos":178,"location":"Yangon,Myanmar","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":22,"commits":5,"pullRequests":5,"reviews":0,"issues":0,"repositories":12,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":9,"id":"MDQ6VXNlcjI5NzM1MjY3","login":"winhtut","name":"WinHtut","url":"https://github.com/winhtut","avatarUrl":"https://avatars.githubusercontent.com/u/29735267?s=80&v=4","followers":426,"publicRepos":107,"location":"Pyin Oo Lwin","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23","contributions":{"public":6,"commits":4,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "910259d3e22a6e45",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "34e7d4fd9c4fe552",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

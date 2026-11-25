@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/contributors/BD.json">JSON</a> |
+| 🟡 Provisional | **17** | 22 Nov 2026 | <a href="../../data/contributors/BD.json">JSON</a> |
 
 </div>
 
@@ -25,7 +25,7 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><a href="https://github.com/hasinhayder"><img src="https://avatars.githubusercontent.com/u/490779?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hasinhayder"><b>Hasin Hayder</b></a><br><sub>&#64;hasinhayder · 6,435 followers</sub></td>
+<td><a href="https://github.com/hasinhayder"><img src="https://avatars.githubusercontent.com/u/490779?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hasinhayder"><b>Hasin Hayder</b></a><br><sub>&#64;hasinhayder · 6,434 followers</sub></td>
 <td align="right"><b>1,263</b></td>
 <td align="right">1,240</td>
 <td align="right">2</td>
@@ -151,6 +151,15 @@
 </tr>
 <tr>
 <td align="right">15</td>
+<td><a href="https://github.com/swarupsro"><img src="https://avatars.githubusercontent.com/u/7780919?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/swarupsro"><b>Swarup Saha</b></a><br><sub>&#64;swarupsro · 185 followers</sub></td>
+<td align="right"><b>101</b></td>
+<td align="right">72</td>
+<td align="right">2</td>
+<td align="right">1</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">16</td>
 <td><a href="https://github.com/Muntasir101"><img src="https://avatars.githubusercontent.com/u/13697856?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Muntasir101"><b>Muntasir Abdullah Mizan</b></a><br><sub>&#64;Muntasir101 · 224 followers</sub></td>
 <td align="right"><b>97</b></td>
 <td align="right">78</td>
@@ -159,7 +168,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">17</td>
 <td><a href="https://github.com/mnishihan"><img src="https://avatars.githubusercontent.com/u/1173288?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mnishihan"><b>M N Islam Shihan</b></a><br><sub>&#64;mnishihan · 369 followers</sub></td>
 <td align="right"><b>65</b></td>
 <td align="right">64</td>
@@ -174,7 +183,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 17 of 800 discovered developers (783 awaiting measurement).
+- **Measured:** 18 of 857 discovered developers (839 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 173 in round 1.

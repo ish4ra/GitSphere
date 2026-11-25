@@ -38,7 +38,7 @@
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/Niko1221"><img src="https://avatars.githubusercontent.com/u/86886444?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Niko1221"><b>Niko Veit</b></a><br><sub>&#64;Niko1221</sub></td>
-<td align="right"><b>1,140</b></td>
+<td align="right"><b>1,185</b></td>
 <td align="right">2</td>
 <td><sub>Slovenia</sub></td>
 </tr>
@@ -80,7 +80,7 @@
 <tr>
 <td align="right">9</td>
 <td><a href="https://github.com/CANopenNode"><img src="https://avatars.githubusercontent.com/u/13575344?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CANopenNode"><b>Janez</b></a><br><sub>&#64;CANopenNode</sub></td>
-<td align="right"><b>613</b></td>
+<td align="right"><b>614</b></td>
 <td align="right">8</td>
 <td><sub>Slovenia</sub></td>
 </tr>
@@ -214,7 +214,7 @@
 <td align="right">28</td>
 <td><a href="https://github.com/jzbontar"><img src="https://avatars.githubusercontent.com/u/1426550?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jzbontar"><b>Jure Zbontar</b></a><br><sub>&#64;jzbontar</sub></td>
 <td align="right"><b>188</b></td>
-<td align="right">0</td>
+<td align="right">45</td>
 <td><sub>Ljubljana, Slovenia</sub></td>
 </tr>
 <tr>
@@ -228,7 +228,7 @@
 <td align="right">30</td>
 <td><a href="https://github.com/nicolasbeauvais"><img src="https://avatars.githubusercontent.com/u/2951704?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nicolasbeauvais"><b>Nicolas Beauvais</b></a><br><sub>&#64;nicolasbeauvais</sub></td>
 <td align="right"><b>178</b></td>
-<td align="right">0</td>
+<td align="right">36</td>
 <td><sub>Ljubljana, Slovenia</sub></td>
 </tr>
 <tr>

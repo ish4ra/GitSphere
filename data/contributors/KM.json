@@ -5,7 +5,7 @@
 "country": {"code":"KM","name":"Comoros","slug":"comoros"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":45,"measuredAccounts":17,"measurementBacklog":28,"window":{"from":"2025-11-24T11:00:00Z","to":"2026-11-24T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":88,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":45,"measuredAccounts":18,"measurementBacklog":27,"window":{"from":"2025-11-24T11:00:00Z","to":"2026-11-24T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":88,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOBl2SUw","login":"slashedk","name":"katchan","url":"https://github.com/slashedk","avatarUrl":"https://avatars.githubusercontent.com/u/106795603?s=80&v=4","followers":3,"publicRepos":7,"location":"Comoros","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":75,"commits":71,"pullRequests":0,"reviews":0,"issues":0,"repositories":4,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":2,"id":"U_kgDOB3gs-Q","login":"yvssineyh269","name":"Yassine YH","url":"https://github.com/yvssineyh269","avatarUrl":"https://avatars.githubusercontent.com/u/125316345?s=80&v=4","followers":2,"publicRepos":14,"location":"Moroni, Comoros","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":57,"commits":48,"pullRequests":0,"reviews":0,"issues":0,"repositories":8,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
@@ -16,8 +16,8 @@
   {"rank":7,"id":"U_kgDOCoyiRg","login":"ANADEN-KM","name":"Agence Nationale de Développement du Numérique - Comores","url":"https://github.com/ANADEN-KM","avatarUrl":"https://avatars.githubusercontent.com/u/176988742?s=80&v=4","followers":0,"publicRepos":1,"location":"Moroni, Comoros","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":1,"commits":1,"pullRequests":0,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":8,"id":"MDQ6VXNlcjY3NzQ3NDky","login":"abdallahsoulaimana","name":"Abdallah Soulaimana","url":"https://github.com/abdallahsoulaimana","avatarUrl":"https://avatars.githubusercontent.com/u/67747492?s=80&v=4","followers":0,"publicRepos":4,"location":"Comores","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "e853e06c0a9a754e",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "ed138eecda7bcb7c",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

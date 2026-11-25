@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **12** | 22 Nov 2026 | <a href="../../data/contributors/HU.json">JSON</a> |
+| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/contributors/HU.json">JSON</a> |
 
 </div>
 
@@ -124,6 +124,15 @@
 </tr>
 <tr>
 <td align="right">12</td>
+<td><a href="https://github.com/aksoftware98"><img src="https://avatars.githubusercontent.com/u/35115273?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aksoftware98"><b>Ahmad Mozaffar</b></a><br><sub>&#64;aksoftware98 · 364 followers</sub></td>
+<td align="right"><b>26</b></td>
+<td align="right">21</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">13</td>
 <td><a href="https://github.com/balinterdi"><img src="https://avatars.githubusercontent.com/u/5022?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/balinterdi"><b>Balint Erdi</b></a><br><sub>&#64;balinterdi · 220 followers</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">7</td>
@@ -138,7 +147,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 12 of 455 discovered developers (443 awaiting measurement).
+- **Measured:** 13 of 467 discovered developers (454 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 153 in round 1.

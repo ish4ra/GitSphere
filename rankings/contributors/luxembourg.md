@@ -70,7 +70,7 @@
 </tr>
 <tr>
 <td align="right">6</td>
-<td><a href="https://github.com/255kb"><img src="https://avatars.githubusercontent.com/u/7489814?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/255kb"><b>Guillaume</b></a><br><sub>&#64;255kb · 396 followers</sub></td>
+<td><a href="https://github.com/255kb"><img src="https://avatars.githubusercontent.com/u/7489814?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/255kb"><b>Guillaume</b></a><br><sub>&#64;255kb · 395 followers</sub></td>
 <td align="right"><b>669</b></td>
 <td align="right">447</td>
 <td align="right">88</td>

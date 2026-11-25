@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/developers/YE.json">JSON</a> |
+| 🟡 Provisional | **18** | 22 Nov 2026 | <a href="../../data/developers/YE.json">JSON</a> |
 
 </div>
 
@@ -121,6 +121,27 @@
 </tr>
 <tr>
 <td align="right">15</td>
+<td><a href="https://github.com/mrpythonfpi"><img src="https://avatars.githubusercontent.com/u/155364237?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrpythonfpi"><b>𝐌r𝐏𝐘𝐓𝐇𝐎𝐍🎩༒</b></a><br><sub>&#64;mrpythonfpi</sub></td>
+<td align="right"><b>191</b></td>
+<td align="right">9</td>
+<td><sub>YEMEN</sub></td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><a href="https://github.com/hnjm"><img src="https://avatars.githubusercontent.com/u/4480340?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hnjm"><b>Hassan Najm</b></a><br><sub>&#64;hnjm</sub></td>
+<td align="right"><b>183</b></td>
+<td align="right">4,904</td>
+<td><sub>Yemen</sub></td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><a href="https://github.com/muath-ye"><img src="https://avatars.githubusercontent.com/u/34031333?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/muath-ye"><b>Muath Alsowadi</b></a><br><sub>&#64;muath-ye</sub></td>
+<td align="right"><b>180</b></td>
+<td align="right">515</td>
+<td><sub>Yemen</sub></td>
+</tr>
+<tr>
+<td align="right">18</td>
 <td><a href="https://github.com/AhmedSaadi0"><img src="https://avatars.githubusercontent.com/u/68832470?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AhmedSaadi0"><b>Ahmed Alsaadi</b></a><br><sub>&#64;AhmedSaadi0</sub></td>
 <td align="right"><b>53</b></td>
 <td align="right">0</td>
@@ -134,7 +155,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 15 attributed developers are tracked; the cutoff is 53 followers.
+- Organizations are excluded. 18 attributed developers are tracked; the cutoff is 53 followers.
 - **Location discovery:** term 0 of 131 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

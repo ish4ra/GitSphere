@@ -7,7 +7,7 @@
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
 "coverage": {"basis":"partial","cutoffFollowers":0,"candidates":399,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":152,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjkyNTcyMjc=","login":"tortuvshin","name":"Turtuvshin Byambaa","url":"https://github.com/tortuvshin","avatarUrl":"https://avatars.githubusercontent.com/u/9257227?s=80&v=4","followers":1661,"publicRepos":49,"location":"Mongolia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":1,"id":"MDQ6VXNlcjkyNTcyMjc=","login":"tortuvshin","name":"Turtuvshin Byambaa","url":"https://github.com/tortuvshin","avatarUrl":"https://avatars.githubusercontent.com/u/9257227?s=80&v=4","followers":1661,"publicRepos":49,"location":"Mongolia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"MDQ6VXNlcjEyNzM4NzIx","login":"doljko","name":"Enkhbayar Doljinsuren","url":"https://github.com/doljko","avatarUrl":"https://avatars.githubusercontent.com/u/12738721?s=80&v=4","followers":507,"publicRepos":10,"location":"Ulaanbaatar, Mongolia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":3,"id":"U_kgDOB9w90g","login":"erdenekhuu-bot","name":"erdenee","url":"https://github.com/erdenekhuu-bot","avatarUrl":"https://avatars.githubusercontent.com/u/131874258?s=80&v=4","followers":365,"publicRepos":40,"location":"Ulaanbaatar","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23"},
   {"rank":4,"id":"MDQ6VXNlcjE3ODQ5NA==","login":"dulmandakh","name":"Dulmandakh","url":"https://github.com/dulmandakh","avatarUrl":"https://avatars.githubusercontent.com/u/178494?s=80&v=4","followers":270,"publicRepos":60,"location":"Ulaanbaatar, Mongolia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
@@ -407,8 +407,8 @@
   {"rank":398,"id":"MDQ6VXNlcjUxNDEzNzE1","login":"schneidersin","name":"Bilguun","url":"https://github.com/schneidersin","avatarUrl":"https://avatars.githubusercontent.com/u/51413715?s=80&v=4","followers":0,"publicRepos":1,"location":"Mongolia, Ulaanbaatar, Bayangol district, 46","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":399,"id":"U_kgDODdTceg","login":"stylememongolia-commits","name":null,"url":"https://github.com/stylememongolia-commits","avatarUrl":"https://avatars.githubusercontent.com/u/232053882?s=80&v=4","followers":0,"publicRepos":1,"location":"Mongolia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "6c9ef6dfd0295d62",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "2964f9387634bded",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

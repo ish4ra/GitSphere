@@ -24,70 +24,70 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/vinta.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vinta/awesome-python"><b>vinta/awesome-python</b></a><br><sub>The definitive list that answers &quot;I want to do X in Python, which tool should I use?&quot;</sub></td>
-<td align="right"><b>336,366</b></td>
-<td align="right">29,140</td>
+<td align="right"><b>337,059</b></td>
+<td align="right">29,143</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/topjohnwu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/topjohnwu/Magisk"><b>topjohnwu/Magisk</b></a><br><sub>The Magic Mask for Android</sub></td>
-<td align="right"><b>64,195</b></td>
-<td align="right">19,463</td>
+<td align="right"><b>64,293</b></td>
+<td align="right">19,522</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/yorukot.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yorukot/superfile"><b>yorukot/superfile</b></a><br><sub>Pretty fancy and modern terminal file manager</sub></td>
-<td align="right"><b>24,116</b></td>
-<td align="right">837</td>
+<td align="right"><b>24,124</b></td>
+<td align="right">836</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/chentsulin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chentsulin/awesome-graphql"><b>chentsulin/awesome-graphql</b></a><br><sub>Awesome list of GraphQL</sub></td>
-<td align="right"><b>15,176</b></td>
-<td align="right">1,252</td>
+<td align="right"><b>15,178</b></td>
+<td align="right">1,254</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/qazbnm456.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/qazbnm456/awesome-web-security"><b>qazbnm456/awesome-web-security</b></a><br><sub>🐶 A curated list of Web Security materials and resources.</sub></td>
-<td align="right"><b>14,085</b></td>
-<td align="right">1,855</td>
+<td align="right"><b>14,099</b></td>
+<td align="right">1,862</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/ikatyang.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ikatyang/emoji-cheat-sheet"><b>ikatyang/emoji-cheat-sheet</b></a><br><sub>A markdown version emoji cheat sheet</sub></td>
 <td align="right"><b>13,836</b></td>
-<td align="right">4,582</td>
+<td align="right">4,585</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/swaggo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/swaggo/swag"><b>swaggo/swag</b></a><br><sub>Automatically generate RESTful API documentation with Swagger 2.0 for Go.</sub></td>
-<td align="right"><b>13,055</b></td>
-<td align="right">1,485</td>
+<td align="right"><b>13,050</b></td>
+<td align="right">1,482</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/onceupon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/onceupon/Bash-Oneliner"><b>onceupon/Bash-Oneliner</b></a><br><sub>A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.</sub></td>
-<td align="right"><b>10,807</b></td>
-<td align="right">653</td>
+<td align="right"><b>10,809</b></td>
+<td align="right">654</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/FongMi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FongMi/TV"><b>FongMi/TV</b></a></td>
-<td align="right"><b>10,720</b></td>
-<td align="right">3,102</td>
+<td align="right"><b>10,796</b></td>
+<td align="right">3,117</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/jhen0409.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jhen0409/react-native-debugger"><b>jhen0409/react-native-debugger</b></a><br><sub>The standalone app based on official debugger of React Native, and includes React Inspector / Redux DevTools</sub></td>
-<td align="right"><b>10,436</b></td>
+<td align="right"><b>10,435</b></td>
 <td align="right">806</td>
 <td>JavaScript</td>
 </tr>
@@ -101,43 +101,43 @@
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/hoochanlon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hoochanlon/hamuleite"><b>hoochanlon/hamuleite</b></a><br><sub>🌊深度整合全球顶尖学术、金融与教育资源：学术板块汇聚 JSTOR、Taylor &amp; Francis、剑桥大学出版社等权威平台的论文，并接入 Z-Library 影子图书馆的海量电子书；教育板块收录香港、新加坡从小学到高中以及大学学科教科…</sub></td>
-<td align="right"><b>10,132</b></td>
-<td align="right">1,914</td>
+<td align="right"><b>10,147</b></td>
+<td align="right">1,918</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">13</td>
 <td><img src="https://github.com/jadore801120.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jadore801120/attention-is-all-you-need-pytorch"><b>jadore801120/attention-is-all-you-need-pytorch</b></a><br><sub>A PyTorch implementation of the Transformer model in &quot;Attention is All You Need&quot;.</sub></td>
-<td align="right"><b>9,828</b></td>
+<td align="right"><b>9,829</b></td>
 <td align="right">2,095</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/emacs-tw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/emacs-tw/awesome-emacs"><b>emacs-tw/awesome-emacs</b></a><br><sub>A community driven list of useful Emacs packages, libraries and other items.</sub></td>
-<td align="right"><b>9,424</b></td>
-<td align="right">602</td>
+<td align="right"><b>9,426</b></td>
+<td align="right">601</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/hoochanlon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hoochanlon/fq-book"><b>hoochanlon/fq-book</b></a><br><sub>📖《这本书能让你连接互联网》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明</sub></td>
-<td align="right"><b>9,261</b></td>
-<td align="right">1,834</td>
+<td align="right"><b>9,310</b></td>
+<td align="right">1,838</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">16</td>
 <td><img src="https://github.com/maxence-charriere.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maxence-charriere/go-app"><b>maxence-charriere/go-app</b></a><br><sub>A package to build progressive web apps with Go programming language and WebAssembly.</sub></td>
-<td align="right"><b>8,984</b></td>
+<td align="right"><b>8,985</b></td>
 <td align="right">406</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/eternnoir.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eternnoir/pyTelegramBotAPI"><b>eternnoir/pyTelegramBotAPI</b></a><br><sub>Python Telegram bot api.</sub></td>
-<td align="right"><b>8,797</b></td>
-<td align="right">2,145</td>
+<td align="right"><b>8,800</b></td>
+<td align="right">2,146</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -156,44 +156,44 @@
 </tr>
 <tr>
 <td align="right">20</td>
-<td><img src="https://github.com/memochou1993.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/memochou1993/gpt-ai-assistant"><b>memochou1993/gpt-ai-assistant</b></a><br><sub>OpenAI + LINE + Vercel = GPT AI Assistant</sub></td>
-<td align="right"><b>7,735</b></td>
-<td align="right">9,476</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/FongMi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FongMi/Release"><b>FongMi/Release</b></a></td>
+<td align="right"><b>7,743</b></td>
+<td align="right">1,022</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">21</td>
-<td><img src="https://github.com/FongMi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FongMi/Release"><b>FongMi/Release</b></a></td>
-<td align="right"><b>7,694</b></td>
-<td align="right">1,018</td>
-<td>—</td>
+<td><img src="https://github.com/memochou1993.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/memochou1993/gpt-ai-assistant"><b>memochou1993/gpt-ai-assistant</b></a><br><sub>OpenAI + LINE + Vercel = GPT AI Assistant</sub></td>
+<td align="right"><b>7,735</b></td>
+<td align="right">9,469</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">22</td>
 <td><img src="https://github.com/leolin310148.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/leolin310148/ShortcutBadger"><b>leolin310148/ShortcutBadger</b></a><br><sub>An Android library supports badge notification like iOS in Samsung, LG, Sony and HTC launchers.</sub></td>
-<td align="right"><b>7,320</b></td>
+<td align="right"><b>7,317</b></td>
 <td align="right">1,338</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">23</td>
 <td><img src="https://github.com/appleboy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/appleboy/ssh-action"><b>appleboy/ssh-action</b></a><br><sub>GitHub Actions for executing remote ssh commands.</sub></td>
-<td align="right"><b>6,248</b></td>
-<td align="right">676</td>
+<td align="right"><b>6,253</b></td>
+<td align="right">675</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">24</td>
 <td><img src="https://github.com/z-huang.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/z-huang/InnerTune"><b>z-huang/InnerTune</b></a><br><sub>A Material 3 YouTube Music client for Android</sub></td>
-<td align="right"><b>6,151</b></td>
+<td align="right"><b>6,149</b></td>
 <td align="right">457</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">25</td>
 <td><img src="https://github.com/CreditTone.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CreditTone/hooker"><b>CreditTone/hooker</b></a><br><sub>🔥🔥 hooker is a Frida-based reverse engineering toolkit for Android. It offers a user-friendly CLI, universal scripts,…</sub></td>
-<td align="right"><b>5,346</b></td>
-<td align="right">1,261</td>
+<td align="right"><b>5,353</b></td>
+<td align="right">1,263</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -207,7 +207,7 @@
 <td align="right">27</td>
 <td><img src="https://github.com/victoresque.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/victoresque/pytorch-template"><b>victoresque/pytorch-template</b></a><br><sub>PyTorch deep learning projects made easy.</sub></td>
 <td align="right"><b>5,126</b></td>
-<td align="right">1,090</td>
+<td align="right">1,089</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -220,14 +220,14 @@
 <tr>
 <td align="right">29</td>
 <td><img src="https://github.com/vinta.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vinta/pangu.js"><b>vinta/pangu.js</b></a><br><sub>Opinionated paranoid text spacing in JavaScript, with on-device AI semantic judgment</sub></td>
-<td align="right"><b>4,860</b></td>
+<td align="right"><b>4,862</b></td>
 <td align="right">316</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">30</td>
 <td><img src="https://github.com/tomchentw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tomchentw/react-google-maps"><b>tomchentw/react-google-maps</b></a><br><sub>React.js Google Maps integration component</sub></td>
-<td align="right"><b>4,625</b></td>
+<td align="right"><b>4,624</b></td>
 <td align="right">917</td>
 <td>JavaScript</td>
 </tr>
@@ -241,8 +241,8 @@
 <tr>
 <td align="right">32</td>
 <td><img src="https://github.com/doggy8088.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/doggy8088/Learn-Git-in-30-days"><b>doggy8088/Learn-Git-in-30-days</b></a><br><sub>這是 Will 保哥在 2013 第 6 屆 iT 邦幫忙鐵人賽年度大獎的得獎著作【30 天精通 Git 版本控管】，歡迎大家 fork 我，如果有看見任何文字勘誤，也歡迎利用 pull request 來通知我修正，謝謝！</sub></td>
-<td align="right"><b>4,521</b></td>
-<td align="right">2,058</td>
+<td align="right"><b>4,524</b></td>
+<td align="right">2,057</td>
 <td>HTML</td>
 </tr>
 <tr>
@@ -262,7 +262,7 @@
 <tr>
 <td align="right">35</td>
 <td><img src="https://github.com/Yoctol.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Yoctol/bottender"><b>Yoctol/bottender</b></a><br><sub>⚡️ A framework for building conversational user interfaces.</sub></td>
-<td align="right"><b>4,283</b></td>
+<td align="right"><b>4,285</b></td>
 <td align="right">334</td>
 <td>TypeScript</td>
 </tr>
@@ -277,7 +277,7 @@
 <td align="right">37</td>
 <td><img src="https://github.com/fcwu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fcwu/docker-ubuntu-vnc-desktop"><b>fcwu/docker-ubuntu-vnc-desktop</b></a><br><sub>A Docker image to provide web VNC interface to access Ubuntu LXDE/LxQT desktop environment.</sub></td>
 <td align="right"><b>4,220</b></td>
-<td align="right">1,455</td>
+<td align="right">1,454</td>
 <td>HTML</td>
 </tr>
 <tr>

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **86** | 22 Nov 2026 | <a href="../data/EE.json">JSON</a> |
+| 🟡 Provisional | **98** | 22 Nov 2026 | <a href="../data/EE.json">JSON</a> |
 
 </div>
 
@@ -24,70 +24,70 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/AvaloniaUI.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AvaloniaUI/Avalonia"><b>AvaloniaUI/Avalonia</b></a><br><sub>Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI</sub></td>
-<td align="right"><b>31,855</b></td>
-<td align="right">2,901</td>
+<td align="right"><b>31,871</b></td>
+<td align="right">2,913</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/nodemailer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nodemailer/nodemailer"><b>nodemailer/nodemailer</b></a><br><sub>✉️ Send e-mails with Node.JS – easy as cake!</sub></td>
-<td align="right"><b>17,716</b></td>
-<td align="right">1,447</td>
+<td align="right"><b>17,718</b></td>
+<td align="right">1,450</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/organicmaps.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/organicmaps/organicmaps"><b>organicmaps/organicmaps</b></a><br><sub>🍃 Organic Maps is a free Android &amp; iOS offline maps app for more than 12M travelers, tourists, hikers, and cyclists. I…</sub></td>
-<td align="right"><b>16,076</b></td>
-<td align="right">1,725</td>
+<td align="right"><b>16,128</b></td>
+<td align="right">1,739</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/bxcodec.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bxcodec/go-clean-arch"><b>bxcodec/go-clean-arch</b></a><br><sub>Go (Golang) Clean Architecture based on Reading Uncle Bob&#39;s Clean Architecture</sub></td>
 <td align="right"><b>10,194</b></td>
-<td align="right">1,316</td>
+<td align="right">1,317</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/joe-bell.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/joe-bell/cva"><b>joe-bell/cva</b></a><br><sub>Class Variance Authority</sub></td>
-<td align="right"><b>6,918</b></td>
-<td align="right">144</td>
+<td align="right"><b>6,917</b></td>
+<td align="right">146</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/iconify.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/iconify/iconify"><b>iconify/iconify</b></a><br><sub>Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto E…</sub></td>
-<td align="right"><b>6,411</b></td>
-<td align="right">209</td>
+<td align="right"><b>6,416</b></td>
+<td align="right">211</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">7</td>
+<td><img src="https://github.com/ersinkoc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ersinkoc/phonebox"><b>ersinkoc/phonebox</b></a><br><sub>Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widge…</sub></td>
+<td align="right"><b>6,338</b></td>
+<td align="right">754</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">8</td>
 <td><img src="https://github.com/Wolg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Wolg/awesome-swift"><b>Wolg/awesome-swift</b></a><br><sub>A curated list of awesome Swift frameworks, libraries and software.</sub></td>
 <td align="right"><b>5,908</b></td>
 <td align="right">538</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">8</td>
-<td><img src="https://github.com/surveyjs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/surveyjs/survey-library"><b>surveyjs/survey-library</b></a><br><sub>Open-source JavaScript form library for React, Angular, Vue, and plain JavaScript. Render dynamic JSON-driven forms, mu…</sub></td>
-<td align="right"><b>4,935</b></td>
-<td align="right">928</td>
-<td>TypeScript</td>
-</tr>
-<tr>
 <td align="right">9</td>
-<td><img src="https://github.com/ersinkoc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ersinkoc/phonebox"><b>ersinkoc/phonebox</b></a><br><sub>Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widge…</sub></td>
-<td align="right"><b>4,797</b></td>
-<td align="right">599</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/surveyjs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/surveyjs/survey-library"><b>surveyjs/survey-library</b></a><br><sub>Open-source JavaScript form library for React, Angular, Vue, and plain JavaScript. Render dynamic JSON-driven forms, mu…</sub></td>
+<td align="right"><b>4,942</b></td>
+<td align="right">930</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/s4kibs4mi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/s4kibs4mi/java-developer-roadmap"><b>s4kibs4mi/java-developer-roadmap</b></a><br><sub>Roadmap to becoming a Java developer in 2026</sub></td>
-<td align="right"><b>4,551</b></td>
+<td align="right"><b>4,549</b></td>
 <td align="right">561</td>
 <td>Java</td>
 </tr>
@@ -623,6 +623,90 @@
 <td align="right">88</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">87</td>
+<td><img src="https://github.com/Zverik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Zverik/every_door"><b>Zverik/every&#95;door</b></a><br><sub>A dedicated app for collecting thousands of POI for OpenStreetMap</sub></td>
+<td align="right"><b>569</b></td>
+<td align="right">59</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><img src="https://github.com/postalsys.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/postalsys/postal-mime"><b>postalsys/postal-mime</b></a><br><sub>Email parser for browser and serverless environments</sub></td>
+<td align="right"><b>569</b></td>
+<td align="right">48</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><img src="https://github.com/moll.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/moll/json-stringify-safe"><b>moll/json-stringify-safe</b></a><br><sub>Like JSON.stringify, but doesn&#39;t throw on circular references</sub></td>
+<td align="right"><b>555</b></td>
+<td align="right">55</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><img src="https://github.com/itsbalamurali.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/itsbalamurali/gpui-mobile"><b>itsbalamurali/gpui-mobile</b></a><br><sub>Mobile platform support for GPUI — iOS (wgpu/Metal) and Android (wgpu/Vulkan)</sub></td>
+<td align="right"><b>553</b></td>
+<td align="right">58</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/usetania.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/usetania/tania"><b>usetania/tania</b></a> <sub>archived</sub><br><sub>A PHP based, free, and open source farming management system.</sub></td>
+<td align="right"><b>543</b></td>
+<td align="right">86</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/jpmml.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jpmml/jpmml-sklearn"><b>jpmml/jpmml-sklearn</b></a><br><sub>Java library and command-line application for converting Scikit-Learn pipelines to PMML</sub></td>
+<td align="right"><b>541</b></td>
+<td align="right">116</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/cryptee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cryptee/web-client"><b>cryptee/web-client</b></a><br><sub>Cryptee&#39;s web client source code for all platforms.</sub></td>
+<td align="right"><b>535</b></td>
+<td align="right">27</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/LumexUI.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LumexUI/lumexui"><b>LumexUI/lumexui</b></a> <sub>archived</sub><br><sub>🚀 A versatile Blazor UI library built using Tailwind CSS.</sub></td>
+<td align="right"><b>526</b></td>
+<td align="right">31</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/rebane2001.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rebane2001/matterport-dl"><b>rebane2001/matterport-dl</b></a><br><sub>A downloader for matterport virtual tours</sub></td>
+<td align="right"><b>525</b></td>
+<td align="right">146</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/Perdolique.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Perdolique/PETOOH"><b>Perdolique/PETOOH</b></a><br><sub>( a fundamentally new programming language )&gt;🐓</sub></td>
+<td align="right"><b>523</b></td>
+<td align="right">41</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/ria-com.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ria-com/nomeroff-net"><b>ria-com/nomeroff-net</b></a><br><sub>Nomeroff Net. Automatic numberplate recognition system.</sub></td>
+<td align="right"><b>521</b></td>
+<td align="right">168</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/AvaloniaUI.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AvaloniaUI/AvaloniaVS"><b>AvaloniaUI/AvaloniaVS</b></a> <sub>archived</sub><br><sub>Visual Studio Extension for Avalonia</sub></td>
+<td align="right"><b>518</b></td>
+<td align="right">141</td>
+<td>—</td>
+</tr>
 </tbody>
 </table>
 
@@ -631,8 +715,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 586 stars; 86 attributed candidates are tracked.
-- 109 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 518 stars; 98 attributed candidates are tracked.
+- 107 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 142 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -24,8 +24,8 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/HelloZeroNet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HelloZeroNet/ZeroNet"><b>HelloZeroNet/ZeroNet</b></a><br><sub>ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network</sub></td>
-<td align="right"><b>18,774</b></td>
-<td align="right">2,282</td>
+<td align="right"><b>18,779</b></td>
+<td align="right">2,283</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -38,29 +38,29 @@
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/pqoqubbw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pqoqubbw/icons"><b>pqoqubbw/icons</b></a><br><sub>beautifully crafted animated icons</sub></td>
-<td align="right"><b>8,304</b></td>
-<td align="right">296</td>
+<td align="right"><b>8,312</b></td>
+<td align="right">298</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/milanvarady.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/milanvarady/Applite"><b>milanvarady/Applite</b></a><br><sub>A native macOS app store for software that isn&#39;t on the App Store, backed by Homebrew Cask</sub></td>
-<td align="right"><b>7,174</b></td>
+<td align="right"><b>7,178</b></td>
 <td align="right">189</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/asciimoo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/asciimoo/nogon"><b>asciimoo/nogon</b></a><br><sub>Your own search engine</sub></td>
-<td align="right"><b>6,343</b></td>
-<td align="right">287</td>
+<td align="right"><b>6,393</b></td>
+<td align="right">292</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/AppPear.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AppPear/ChartView"><b>AppPear/ChartView</b></a><br><sub>ChartView made in SwiftUI</sub></td>
-<td align="right"><b>5,647</b></td>
-<td align="right">633</td>
+<td align="right"><b>5,648</b></td>
+<td align="right">632</td>
 <td>Swift</td>
 </tr>
 <tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 598 stars; 101 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 598 stars; 117 attributed candidates are tracked.
 - 117 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 153 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

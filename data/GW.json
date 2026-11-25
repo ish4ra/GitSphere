@@ -5,7 +5,7 @@
 "country": {"code":"GW","name":"Guinea-Bissau","slug":"guinea-bissau"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":12,"ownerExpansionBacklog":24,"candidates":12,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":49,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":12,"ownerExpansionBacklog":34,"candidates":12,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":49,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Boutique_Control","nameWithOwner":"abduramanedjalo06/Boutique_Control","url":"https://github.com/abduramanedjalo06/Boutique_Control","description":null,"stars":1,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2026-08-15T18:18:51Z","pushedAt":"2026-10-24T21:52:30Z","archived":false,"owner":{"login":"abduramanedjalo06","name":"Abduramane Djaló","type":"User","url":"https://github.com/abduramanedjalo06","location":"Guiné-Bissau","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"receitawebDevHoster","nameWithOwner":"gilgilberto31/receitawebDevHoster","url":"https://github.com/gilgilberto31/receitawebDevHoster","description":null,"stars":0,"forks":1,"primaryLanguage":"TypeScript","license":null,"createdAt":"2026-10-08T13:17:28Z","pushedAt":"2026-10-15T00:28:50Z","archived":false,"owner":{"login":"gilgilberto31","name":"Gilberto Gil","type":"User","url":"https://github.com/gilgilberto31","location":"Guiné Bissau","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -20,8 +20,8 @@
   {"rank":11,"id":null,"name":"projeto-web","nameWithOwner":"Reinaldoaugustonanque/projeto-web","url":"https://github.com/Reinaldoaugustonanque/projeto-web","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2024-06-07T12:59:36Z","pushedAt":"2024-06-07T13:33:36Z","archived":false,"owner":{"login":"Reinaldoaugustonanque","name":"Reinaldo Augusto Nanque","type":"User","url":"https://github.com/Reinaldoaugustonanque","location":"Guiné-Bissau","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":12,"id":null,"name":"tvwandam","nameWithOwner":"Samsilva64/tvwandam","url":"https://github.com/Samsilva64/tvwandam","description":null,"stars":0,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2026-05-05T13:25:18Z","pushedAt":"2026-05-10T23:40:25Z","archived":false,"owner":{"login":"Samsilva64","name":"Daltonsilva","type":"User","url":"https://github.com/Samsilva64","location":"Guiné-bissau/pluba","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "93de800501f31944",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "8958639dd7f7e3c3",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

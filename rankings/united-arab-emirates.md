@@ -24,36 +24,36 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/vxcontrol.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vxcontrol/pentagi"><b>vxcontrol/pentagi</b></a><br><sub>Fully autonomous AI Agents system capable of performing complex penetration testing tasks</sub></td>
-<td align="right"><b>34,783</b></td>
-<td align="right">5,553</td>
+<td align="right"><b>35,009</b></td>
+<td align="right">5,608</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/anefzaoui.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anefzaoui/misterdownloadmanager"><b>anefzaoui/misterdownloadmanager</b></a><br><sub>misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Wind…</sub></td>
-<td align="right"><b>16,212</b></td>
-<td align="right">1,389</td>
+<td align="right"><b>18,070</b></td>
+<td align="right">1,533</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/0x4m4.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0x4m4/hexstrike-ai"><b>0x4m4/hexstrike-ai</b></a><br><sub>HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150…</sub></td>
-<td align="right"><b>13,812</b></td>
-<td align="right">2,840</td>
+<td align="right"><b>13,898</b></td>
+<td align="right">2,859</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/arasatasaygin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arasatasaygin/is.js"><b>arasatasaygin/is.js</b></a><br><sub>Micro check library</sub></td>
-<td align="right"><b>9,056</b></td>
+<td align="right"><b>9,054</b></td>
 <td align="right">611</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/Gaurav-Gosain.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Gaurav-Gosain/tuios"><b>Gaurav-Gosain/tuios</b></a><br><sub>A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restar…</sub></td>
-<td align="right"><b>6,653</b></td>
-<td align="right">331</td>
+<td align="right"><b>6,804</b></td>
+<td align="right">345</td>
 <td>Go</td>
 </tr>
 <tr>
@@ -66,64 +66,64 @@
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/builderz-labs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/builderz-labs/mission-control"><b>builderz-labs/mission-control</b></a><br><sub>Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, C…</sub></td>
-<td align="right"><b>6,514</b></td>
-<td align="right">142</td>
+<td align="right"><b>6,520</b></td>
+<td align="right">145</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/jpuri.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jpuri/react-draft-wysiwyg"><b>jpuri/react-draft-wysiwyg</b></a><br><sub>A Wysiwyg editor build on top of ReactJS and DraftJS. https://jpuri.github.io/react-draft-wysiwyg</sub></td>
-<td align="right"><b>6,449</b></td>
+<td align="right"><b>6,448</b></td>
 <td align="right">1,143</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/ombharatiya.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ombharatiya/FAANG-Coding-Interview-Questions"><b>ombharatiya/FAANG-Coding-Interview-Questions</b></a><br><sub>A curated List of Coding Questions Asked in FAANG Interviews</sub></td>
-<td align="right"><b>6,164</b></td>
-<td align="right">1,460</td>
+<td align="right"><b>6,167</b></td>
+<td align="right">1,461</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/knqyf263.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/knqyf263/pet"><b>knqyf263/pet</b></a><br><sub>Simple command-line snippet manager</sub></td>
-<td align="right"><b>5,391</b></td>
+<td align="right"><b>5,392</b></td>
 <td align="right">253</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/Manavarya09.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Manavarya09/design-extract"><b>Manavarya09/design-extract</b></a><br><sub>Extract any website&#39;s complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server fo…</sub></td>
-<td align="right"><b>5,185</b></td>
-<td align="right">431</td>
+<td align="right"><b>5,207</b></td>
+<td align="right">430</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/Ahmed-Ali.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ahmed-Ali/JSONExport"><b>Ahmed-Ali/JSONExport</b></a><br><sub>JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their a…</sub></td>
-<td align="right"><b>4,795</b></td>
+<td align="right"><b>4,794</b></td>
 <td align="right">783</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">13</td>
 <td><img src="https://github.com/robinebers.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/robinebers/openusage"><b>robinebers/openusage</b></a><br><sub>Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open…</sub></td>
-<td align="right"><b>4,610</b></td>
-<td align="right">562</td>
+<td align="right"><b>4,626</b></td>
+<td align="right">570</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/Gictorbit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Gictorbit/photoshopCClinux"><b>Gictorbit/photoshopCClinux</b></a><br><sub>Photoshop CC v19 installer for Gnu/Linux</sub></td>
-<td align="right"><b>4,526</b></td>
+<td align="right"><b>4,529</b></td>
 <td align="right">315</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/ombharatiya.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ombharatiya/ai-system-design-guide"><b>ombharatiya/ai-system-design-guide</b></a><br><sub>AI system design guide for engineers building production AI systems and evals.</sub></td>
-<td align="right"><b>4,434</b></td>
-<td align="right">888</td>
+<td align="right"><b>4,472</b></td>
+<td align="right">897</td>
 <td>—</td>
 </tr>
 <tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 654 stars; 120 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 654 stars; 136 attributed candidates are tracked.
 - 119 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 98 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

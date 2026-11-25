@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **307** | 22 Nov 2026 | <a href="../../data/developers/PG.json">JSON</a> |
+| 🟡 Provisional | **372** | 22 Nov 2026 | <a href="../../data/developers/PG.json">JSON</a> |
 
 </div>
 
@@ -1745,427 +1745,882 @@
 </tr>
 <tr>
 <td align="right">247</td>
+<td><a href="https://github.com/Alisha-O"><img src="https://avatars.githubusercontent.com/u/145633531?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alisha-O"><b>Alisha Ofae</b></a><br><sub>&#64;Alisha-O</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">19</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">248</td>
 <td><a href="https://github.com/meshachkebai"><img src="https://avatars.githubusercontent.com/u/86633598?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/meshachkebai"><b>Meshach Kebai</b></a><br><sub>&#64;meshachkebai</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">15</td>
 <td><sub>Port Moresby, Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">248</td>
+<td align="right">249</td>
 <td><a href="https://github.com/AllanKoaikJunior"><img src="https://avatars.githubusercontent.com/u/24610028?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AllanKoaikJunior"><b>Allan Koaik Junior</b></a><br><sub>&#64;AllanKoaikJunior</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">13</td>
 <td><sub>East New Britain</sub></td>
 </tr>
 <tr>
-<td align="right">249</td>
+<td align="right">250</td>
 <td><a href="https://github.com/Elias-JOHN-PNG"><img src="https://avatars.githubusercontent.com/u/184465649?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Elias-JOHN-PNG"><b>Elias-JOHN-PNG</b></a><br><sub>&#64;Elias-JOHN-PNG</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">12</td>
 <td><sub>Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">250</td>
+<td align="right">251</td>
 <td><a href="https://github.com/EaFa0809"><img src="https://avatars.githubusercontent.com/u/154980869?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EaFa0809"><b>EaFa</b></a><br><sub>&#64;EaFa0809</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">9</td>
 <td><sub>Papua Nueva Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">251</td>
+<td align="right">252</td>
 <td><a href="https://github.com/roeden"><img src="https://avatars.githubusercontent.com/u/152335412?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/roeden"><b>Roeden Alfonso</b></a><br><sub>&#64;roeden</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">7</td>
 <td><sub>Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">252</td>
+<td align="right">253</td>
+<td><a href="https://github.com/ggi20244966-web"><img src="https://avatars.githubusercontent.com/u/316296252?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ggi20244966-web"><b>DIRUWO OROGE</b></a><br><sub>&#64;ggi20244966-web</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">6</td>
+<td><sub>Port Moresby, Papua New Guinea (PNG).</sub></td>
+</tr>
+<tr>
+<td align="right">254</td>
 <td><a href="https://github.com/kuazii07"><img src="https://avatars.githubusercontent.com/u/236735185?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kuazii07"><b>Noel Kuasmapa</b></a><br><sub>&#64;kuazii07</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">6</td>
 <td><sub>Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">253</td>
+<td align="right">255</td>
 <td><a href="https://github.com/ml-stk"><img src="https://avatars.githubusercontent.com/u/312836677?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ml-stk"><b>stk-tech</b></a><br><sub>&#64;ml-stk</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">6</td>
 <td><sub>Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">254</td>
+<td align="right">256</td>
+<td><a href="https://github.com/supremefinance2025"><img src="https://avatars.githubusercontent.com/u/215453528?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/supremefinance2025"><b>Supreme Finance</b></a><br><sub>&#64;supremefinance2025</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">6</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">257</td>
 <td><a href="https://github.com/Amilcar3pa"><img src="https://avatars.githubusercontent.com/u/215641280?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Amilcar3pa"><b>Amilcar3pa</b></a><br><sub>&#64;Amilcar3pa</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Papúa Nueva Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">255</td>
+<td align="right">258</td>
 <td><a href="https://github.com/dryvasyatukyda"><img src="https://avatars.githubusercontent.com/u/183289601?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dryvasyatukyda"><b>dryvasyatukyda</b></a><br><sub>&#64;dryvasyatukyda</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Papoea-Nieuw-Guinea (PG)</sub></td>
 </tr>
 <tr>
-<td align="right">256</td>
+<td align="right">259</td>
 <td><a href="https://github.com/Ellieza"><img src="https://avatars.githubusercontent.com/u/125841077?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ellieza"><b>Nyah Resis</b></a><br><sub>&#64;Ellieza</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">257</td>
+<td align="right">260</td>
 <td><a href="https://github.com/Olivempa"><img src="https://avatars.githubusercontent.com/u/190001322?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Olivempa"><b>Numunepe Buk Club</b></a><br><sub>&#64;Olivempa</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Goroka</sub></td>
 </tr>
 <tr>
-<td align="right">258</td>
+<td align="right">261</td>
 <td><a href="https://github.com/22201367keko"><img src="https://avatars.githubusercontent.com/u/227278523?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/22201367keko"><b>Kerry Kombeke</b></a><br><sub>&#64;22201367keko</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Lae Morobe, Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">259</td>
+<td align="right">262</td>
+<td><a href="https://github.com/Amargoni240569"><img src="https://avatars.githubusercontent.com/u/261065215?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Amargoni240569"><b>Abel Margoni</b></a><br><sub>&#64;Amargoni240569</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Madang Province, Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">263</td>
 <td><a href="https://github.com/bambeul"><img src="https://avatars.githubusercontent.com/u/204671195?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bambeul"><b>Bam Beul</b></a><br><sub>&#64;bambeul</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">260</td>
+<td align="right">264</td>
 <td><a href="https://github.com/cliffordwhites"><img src="https://avatars.githubusercontent.com/u/145956094?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cliffordwhites"><b>Clifford Whites</b></a><br><sub>&#64;cliffordwhites</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">261</td>
+<td align="right">265</td>
 <td><a href="https://github.com/Falco03-99"><img src="https://avatars.githubusercontent.com/u/215445206?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Falco03-99"><b>Ako Murray</b></a><br><sub>&#64;Falco03-99</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">262</td>
+<td align="right">266</td>
 <td><a href="https://github.com/Jerolawrence"><img src="https://avatars.githubusercontent.com/u/103824394?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jerolawrence"><b>Jerol Lawrence</b></a><br><sub>&#64;Jerolawrence</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Lae, Morobe, Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">263</td>
+<td align="right">267</td>
+<td><a href="https://github.com/johnsonwak"><img src="https://avatars.githubusercontent.com/u/217726199?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/johnsonwak"><b>Supreme Finance</b></a><br><sub>&#64;johnsonwak</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">268</td>
 <td><a href="https://github.com/manu-maso"><img src="https://avatars.githubusercontent.com/u/230947705?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/manu-maso"><b>Manu Maso</b></a><br><sub>&#64;manu-maso</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">264</td>
+<td align="right">269</td>
+<td><a href="https://github.com/mlaveil"><img src="https://avatars.githubusercontent.com/u/79574767?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mlaveil"><b>mlaveil</b></a><br><sub>&#64;mlaveil</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">270</td>
 <td><a href="https://github.com/mrmonsterburgh"><img src="https://avatars.githubusercontent.com/u/183423125?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrmonsterburgh"><b>mrmonsterburgh</b></a><br><sub>&#64;mrmonsterburgh</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Papoea-Nieuw-Guinea (PG)</sub></td>
 </tr>
 <tr>
-<td align="right">265</td>
+<td align="right">271</td>
+<td><a href="https://github.com/uffingvortex"><img src="https://avatars.githubusercontent.com/u/182717795?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/uffingvortex"><b>uffingvortex</b></a><br><sub>&#64;uffingvortex</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Papua New Guinea (PG)</sub></td>
+</tr>
+<tr>
+<td align="right">272</td>
+<td><a href="https://github.com/Ablegka"><img src="https://avatars.githubusercontent.com/u/122022668?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ablegka"><b>Astp2019Astro</b></a><br><sub>&#64;Ablegka</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">273</td>
 <td><a href="https://github.com/aiposnem400-Candycruz"><img src="https://avatars.githubusercontent.com/u/262694225?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aiposnem400-Candycruz"><b>Backey</b></a><br><sub>&#64;aiposnem400-Candycruz</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Goroka</sub></td>
 </tr>
 <tr>
-<td align="right">266</td>
+<td align="right">274</td>
+<td><a href="https://github.com/alfaalfa28"><img src="https://avatars.githubusercontent.com/u/129676464?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alfaalfa28"><b>Alfred Warren</b></a><br><sub>&#64;alfaalfa28</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">275</td>
 <td><a href="https://github.com/Anassah"><img src="https://avatars.githubusercontent.com/u/77387591?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Anassah"><b>Graham Anassah Morgan</b></a><br><sub>&#64;Anassah</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Port Moresby, Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">267</td>
+<td align="right">276</td>
 <td><a href="https://github.com/ezekieltambure"><img src="https://avatars.githubusercontent.com/u/282726769?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ezekieltambure"><b>JOSEPH TAMBURE EZEKIEL</b></a><br><sub>&#64;ezekieltambure</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Port Moresby, Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">268</td>
+<td align="right">277</td>
 <td><a href="https://github.com/Graham-Boko"><img src="https://avatars.githubusercontent.com/u/132313108?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Graham-Boko"><b>Graham-Boko</b></a><br><sub>&#64;Graham-Boko</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Port Moresby, Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">269</td>
+<td align="right">278</td>
 <td><a href="https://github.com/jabezgomara"><img src="https://avatars.githubusercontent.com/u/209433799?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jabezgomara"><b>JAA Ubber Service</b></a><br><sub>&#64;jabezgomara</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">270</td>
+<td align="right">279</td>
+<td><a href="https://github.com/JT-6757"><img src="https://avatars.githubusercontent.com/u/267185862?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JT-6757"><b>Jimmy Tapis</b></a><br><sub>&#64;JT-6757</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Mutual Rumana, Waigani, NCD, Port Moresby, Papu…</sub></td>
+</tr>
+<tr>
+<td align="right">280</td>
+<td><a href="https://github.com/judahjaykui-maker"><img src="https://avatars.githubusercontent.com/u/252246216?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/judahjaykui-maker"><b>Judith Numanggi Jackson</b></a><br><sub>&#64;judahjaykui-maker</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">281</td>
 <td><a href="https://github.com/kendy460"><img src="https://avatars.githubusercontent.com/u/227319135?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kendy460"><b>Kendy Habe</b></a><br><sub>&#64;kendy460</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">271</td>
+<td align="right">282</td>
 <td><a href="https://github.com/kulsmauinformatics"><img src="https://avatars.githubusercontent.com/u/181215379?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kulsmauinformatics"><b>Kulsmau Informatics</b></a><br><sub>&#64;kulsmauinformatics</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Lae, Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">272</td>
+<td align="right">283</td>
+<td><a href="https://github.com/lk159"><img src="https://avatars.githubusercontent.com/u/162445463?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lk159"><b>Louis Kevin</b></a><br><sub>&#64;lk159</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">284</td>
+<td><a href="https://github.com/pisnasaksak"><img src="https://avatars.githubusercontent.com/u/284859903?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pisnasaksak"><b>Manus Pis na Saksak</b></a><br><sub>&#64;pisnasaksak</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Manus Province, Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">285</td>
+<td><a href="https://github.com/Sammy511-2026"><img src="https://avatars.githubusercontent.com/u/319834449?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sammy511-2026"><b>Samuel Wini Kila</b></a><br><sub>&#64;Sammy511-2026</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">286</td>
+<td><a href="https://github.com/26250322kiwi-debug"><img src="https://avatars.githubusercontent.com/u/266699425?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/26250322kiwi-debug"><b>WIA Kinsly</b></a><br><sub>&#64;26250322kiwi-debug</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Lae, Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">287</td>
 <td><a href="https://github.com/Beecay21"><img src="https://avatars.githubusercontent.com/u/168718590?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Beecay21"><b>Bee Cvy</b></a><br><sub>&#64;Beecay21</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Papua new guinea 🇵🇬</sub></td>
 </tr>
 <tr>
-<td align="right">273</td>
+<td align="right">288</td>
 <td><a href="https://github.com/DESMONDLUMAIT123"><img src="https://avatars.githubusercontent.com/u/213496874?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DESMONDLUMAIT123"><b>Desmond Lumait</b></a><br><sub>&#64;DESMONDLUMAIT123</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">274</td>
+<td align="right">289</td>
+<td><a href="https://github.com/Gahavisuka1975"><img src="https://avatars.githubusercontent.com/u/218850935?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Gahavisuka1975"><b>Gahavisuka Eco-Tours</b></a><br><sub>&#64;Gahavisuka1975</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">290</td>
 <td><a href="https://github.com/inewma96-dotcom"><img src="https://avatars.githubusercontent.com/u/238604715?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/inewma96-dotcom"><b>newma&#95;ai</b></a><br><sub>&#64;inewma96-dotcom</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">275</td>
+<td align="right">291</td>
 <td><a href="https://github.com/JasonKaimong"><img src="https://avatars.githubusercontent.com/u/191233194?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JasonKaimong"><b>JasonKaimong</b></a><br><sub>&#64;JasonKaimong</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>papua new guinea</sub></td>
 </tr>
 <tr>
-<td align="right">276</td>
+<td align="right">292</td>
 <td><a href="https://github.com/josefem247"><img src="https://avatars.githubusercontent.com/u/271185570?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/josefem247"><b>Joe Mencindimi</b></a><br><sub>&#64;josefem247</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Wewak,East Sepik Province,PNG</sub></td>
 </tr>
 <tr>
-<td align="right">277</td>
+<td align="right">293</td>
 <td><a href="https://github.com/lukedanti"><img src="https://avatars.githubusercontent.com/u/161795618?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lukedanti"><b>Luke Danti</b></a><br><sub>&#64;lukedanti</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Lae, Morobe Province - Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">278</td>
+<td align="right">294</td>
+<td><a href="https://github.com/mfpd7g4g4f-maker"><img src="https://avatars.githubusercontent.com/u/283560705?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mfpd7g4g4f-maker"><b>Jamaine Haro</b></a><br><sub>&#64;mfpd7g4g4f-maker</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">295</td>
+<td><a href="https://github.com/MichaelJrBole"><img src="https://avatars.githubusercontent.com/u/63267722?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MichaelJrBole"><b>Michael Bole</b></a><br><sub>&#64;MichaelJrBole</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">296</td>
+<td><a href="https://github.com/simonsimbuna6-oss"><img src="https://avatars.githubusercontent.com/u/348080294?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/simonsimbuna6-oss"><b>Simon Simbuna</b></a><br><sub>&#64;simonsimbuna6-oss</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">297</td>
 <td><a href="https://github.com/VictorOsinke"><img src="https://avatars.githubusercontent.com/u/113074237?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VictorOsinke"><b>Victor Osinke</b></a><br><sub>&#64;VictorOsinke</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">279</td>
+<td align="right">298</td>
 <td><a href="https://github.com/2021313068"><img src="https://avatars.githubusercontent.com/u/190172338?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/2021313068"><b>MCS 443 Capstone Project Proposal (Group 2)</b></a><br><sub>&#64;2021313068</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Goroka</sub></td>
 </tr>
 <tr>
-<td align="right">280</td>
+<td align="right">299</td>
+<td><a href="https://github.com/21600211jogo"><img src="https://avatars.githubusercontent.com/u/214757421?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/21600211jogo"><b>John Goiye</b></a><br><sub>&#64;21600211jogo</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Lae, Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">300</td>
 <td><a href="https://github.com/23400473wemo"><img src="https://avatars.githubusercontent.com/u/315663795?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/23400473wemo"><b>WEGNA MONI</b></a><br><sub>&#64;23400473wemo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Papua New Guinea, Lae, Morobe Province</sub></td>
 </tr>
 <tr>
-<td align="right">281</td>
+<td align="right">301</td>
 <td><a href="https://github.com/ajinapi"><img src="https://avatars.githubusercontent.com/u/301316546?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ajinapi"><b>Allan Joseph Inapi</b></a><br><sub>&#64;ajinapi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Port Moresby, Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">282</td>
+<td align="right">302</td>
+<td><a href="https://github.com/alphonseaguamichael13-wq"><img src="https://avatars.githubusercontent.com/u/246870134?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alphonseaguamichael13-wq"><b>Alphonse Agua Michael</b></a><br><sub>&#64;alphonseaguamichael13-wq</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Lae, Morobe Province, Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">303</td>
+<td><a href="https://github.com/bninkama"><img src="https://avatars.githubusercontent.com/u/86213761?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bninkama"><b>Ben Ninkama</b></a><br><sub>&#64;bninkama</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">304</td>
 <td><a href="https://github.com/BrKevin"><img src="https://avatars.githubusercontent.com/u/24284155?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BrKevin"><b>Kevin Kopiap</b></a><br><sub>&#64;BrKevin</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Mendi, Southern Highlands Province, Papua New G…</sub></td>
 </tr>
 <tr>
-<td align="right">283</td>
+<td align="right">305</td>
+<td><a href="https://github.com/DelinCodes2026"><img src="https://avatars.githubusercontent.com/u/260694099?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DelinCodes2026"><b>Delin Derok</b></a><br><sub>&#64;DelinCodes2026</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Papua New guinea, Sandaun, Telefomin</sub></td>
+</tr>
+<tr>
+<td align="right">306</td>
+<td><a href="https://github.com/eastonh7sv6n"><img src="https://avatars.githubusercontent.com/u/331617670?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eastonh7sv6n"><b>Manuel Santos</b></a><br><sub>&#64;eastonh7sv6n</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Port Moresby, Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">307</td>
+<td><a href="https://github.com/ezra2025"><img src="https://avatars.githubusercontent.com/u/232199661?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ezra2025"><b>Aluwai</b></a><br><sub>&#64;ezra2025</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Lae, Papua new Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">308</td>
 <td><a href="https://github.com/frostq2hsd"><img src="https://avatars.githubusercontent.com/u/331235029?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/frostq2hsd"><b>Sanjiv Patel</b></a><br><sub>&#64;frostq2hsd</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Port Moresby, Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">284</td>
+<td align="right">309</td>
 <td><a href="https://github.com/jasperalluu"><img src="https://avatars.githubusercontent.com/u/331213465?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jasperalluu"><b>Bella Whitaker</b></a><br><sub>&#64;jasperalluu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Port Moresby, Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">285</td>
+<td align="right">310</td>
+<td><a href="https://github.com/kaluwinn"><img src="https://avatars.githubusercontent.com/u/253394134?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kaluwinn"><b>McQueen Buai</b></a><br><sub>&#64;kaluwinn</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Madang, Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">311</td>
 <td><a href="https://github.com/kanawekenneth"><img src="https://avatars.githubusercontent.com/u/223897338?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kanawekenneth"><b>Kenneth Kanawe</b></a><br><sub>&#64;kanawekenneth</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Lae, Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">286</td>
+<td align="right">312</td>
 <td><a href="https://github.com/kavesaohm9-cmd"><img src="https://avatars.githubusercontent.com/u/240237650?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kavesaohm9-cmd"><b>Sandro Kave</b></a><br><sub>&#64;kavesaohm9-cmd</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Mt Hagen , WHP, Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">287</td>
+<td align="right">313</td>
+<td><a href="https://github.com/keniasam"><img src="https://avatars.githubusercontent.com/u/141489543?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/keniasam"><b>Kenia Sam</b></a><br><sub>&#64;keniasam</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">314</td>
+<td><a href="https://github.com/kimgeita"><img src="https://avatars.githubusercontent.com/u/257240546?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kimgeita"><b>Kimberly Geita</b></a><br><sub>&#64;kimgeita</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">315</td>
+<td><a href="https://github.com/KomKing"><img src="https://avatars.githubusercontent.com/u/183642713?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KomKing"><b>Fernick Swizzy</b></a><br><sub>&#64;KomKing</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">316</td>
+<td><a href="https://github.com/luikaka09"><img src="https://avatars.githubusercontent.com/u/292890523?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/luikaka09"><b>Lui</b></a><br><sub>&#64;luikaka09</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">317</td>
+<td><a href="https://github.com/Mangbiang"><img src="https://avatars.githubusercontent.com/u/154095034?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mangbiang"><b>Mangbiang Eide</b></a><br><sub>&#64;Mangbiang</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Lae, Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">318</td>
 <td><a href="https://github.com/mollandsaluali"><img src="https://avatars.githubusercontent.com/u/254141473?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mollandsaluali"><b>MOLLAND SALUALI</b></a><br><sub>&#64;mollandsaluali</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>PAPUA NEW GUINEA</sub></td>
 </tr>
 <tr>
-<td align="right">288</td>
+<td align="right">319</td>
+<td><a href="https://github.com/Nate054"><img src="https://avatars.githubusercontent.com/u/174842089?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nate054"><b>Nathan James</b></a><br><sub>&#64;Nate054</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Port Moresby, Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">320</td>
+<td><a href="https://github.com/Otee5"><img src="https://avatars.githubusercontent.com/u/183987273?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Otee5"><b>Pete Darius</b></a><br><sub>&#64;Otee5</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Port Moresby, Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">321</td>
+<td><a href="https://github.com/png-dev2050"><img src="https://avatars.githubusercontent.com/u/181184164?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/png-dev2050"><b>Hubert Wamugl</b></a><br><sub>&#64;png-dev2050</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Port Moresby, Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">322</td>
 <td><a href="https://github.com/Raval2025"><img src="https://avatars.githubusercontent.com/u/220485094?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Raval2025"><b>RAVAL VOCATIONAL TRAINING CENTRE</b></a><br><sub>&#64;Raval2025</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>East New Britain</sub></td>
 </tr>
 <tr>
-<td align="right">289</td>
+<td align="right">323</td>
 <td><a href="https://github.com/rvara"><img src="https://avatars.githubusercontent.com/u/47377611?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rvara"><b>Roland&#95;V</b></a><br><sub>&#64;rvara</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Port Moresby,Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">290</td>
+<td align="right">324</td>
+<td><a href="https://github.com/sirotunan-shop"><img src="https://avatars.githubusercontent.com/u/349295764?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sirotunan-shop"><b>Jonah Enamira</b></a><br><sub>&#64;sirotunan-shop</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Lae, Morobe Province, Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">325</td>
 <td><a href="https://github.com/tapistechsolutionsltd-ui"><img src="https://avatars.githubusercontent.com/u/283027210?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tapistechsolutionsltd-ui"><b>TTSOLUTIONS LIMITED</b></a><br><sub>&#64;tapistechsolutionsltd-ui</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Gordons, Port Moresby, Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">291</td>
+<td align="right">326</td>
 <td><a href="https://github.com/uogstd"><img src="https://avatars.githubusercontent.com/u/187145150?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/uogstd"><b>UOG Student</b></a><br><sub>&#64;uogstd</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Goroka</sub></td>
 </tr>
 <tr>
-<td align="right">292</td>
+<td align="right">327</td>
 <td><a href="https://github.com/upngsris"><img src="https://avatars.githubusercontent.com/u/272078031?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/upngsris"><b>UPNG Science Research &amp; Innovation Society</b></a><br><sub>&#64;upngsris</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>University of Papua New Guinea, Waigani Campus,…</sub></td>
 </tr>
 <tr>
-<td align="right">293</td>
+<td align="right">328</td>
+<td><a href="https://github.com/vime-glitch"><img src="https://avatars.githubusercontent.com/u/224405919?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vime-glitch"><b>Victoria Metta</b></a><br><sub>&#64;vime-glitch</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Lae, Morobe Province, Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">329</td>
+<td><a href="https://github.com/VNP1611"><img src="https://avatars.githubusercontent.com/u/201512071?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VNP1611"><b>Vincent Paul Na&#39;Le</b></a><br><sub>&#64;VNP1611</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">330</td>
+<td><a href="https://github.com/w1i2240"><img src="https://avatars.githubusercontent.com/u/195354519?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/w1i2240"><b>Johnson wiwa</b></a><br><sub>&#64;w1i2240</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">331</td>
+<td><a href="https://github.com/wilsonchristopher190-lab"><img src="https://avatars.githubusercontent.com/u/227940282?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wilsonchristopher190-lab"><b>LewakanahhelpingPNGhelper</b></a><br><sub>&#64;wilsonchristopher190-lab</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>PAPUA New GUINEA</sub></td>
+</tr>
+<tr>
+<td align="right">332</td>
+<td><a href="https://github.com/202412232-pixel"><img src="https://avatars.githubusercontent.com/u/271362427?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/202412232-pixel"><b>Dahan Timinai</b></a><br><sub>&#64;202412232-pixel</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>University of Goroka, P.O. Box 1078, Goroka 441…</sub></td>
+</tr>
+<tr>
+<td align="right">333</td>
 <td><a href="https://github.com/4mart7"><img src="https://avatars.githubusercontent.com/u/210221613?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/4mart7"><b>Peterson Kila</b></a><br><sub>&#64;4mart7</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Taurama, Port Moresby, NCD, Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">294</td>
+<td align="right">334</td>
 <td><a href="https://github.com/Adzguru-PNG"><img src="https://avatars.githubusercontent.com/u/203743270?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Adzguru-PNG"><b>Adzguru-PNG</b></a><br><sub>&#64;Adzguru-PNG</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">295</td>
+<td align="right">335</td>
+<td><a href="https://github.com/ashaenterprice"><img src="https://avatars.githubusercontent.com/u/239486505?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ashaenterprice"><b>ASHA.SUPER.MARKET#3</b></a><br><sub>&#64;ashaenterprice</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Papua new Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">336</td>
+<td><a href="https://github.com/CGCPNG"><img src="https://avatars.githubusercontent.com/u/160980617?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CGCPNG"><b>Wilson Wutga</b></a><br><sub>&#64;CGCPNG</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">337</td>
+<td><a href="https://github.com/Dagg17"><img src="https://avatars.githubusercontent.com/u/228933307?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dagg17"><b>David Vevao Ila</b></a><br><sub>&#64;Dagg17</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">338</td>
+<td><a href="https://github.com/DendenAI25"><img src="https://avatars.githubusercontent.com/u/216350438?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DendenAI25"><b>DendenAI25</b></a><br><sub>&#64;DendenAI25</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Papua New Guinea 🇵🇬</sub></td>
+</tr>
+<tr>
+<td align="right">339</td>
 <td><a href="https://github.com/DicksonBen"><img src="https://avatars.githubusercontent.com/u/219051407?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DicksonBen"><b>Dickson Ben</b></a><br><sub>&#64;DicksonBen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">296</td>
+<td align="right">340</td>
+<td><a href="https://github.com/dsam45"><img src="https://avatars.githubusercontent.com/u/42367314?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dsam45"><b>Desmond Sam</b></a><br><sub>&#64;dsam45</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Port Moresby, Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">341</td>
 <td><a href="https://github.com/ebihotip"><img src="https://avatars.githubusercontent.com/u/208152919?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ebihotip"><b>Digital Ad Project</b></a><br><sub>&#64;ebihotip</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Papua New Guinea 🇵🇬</sub></td>
 </tr>
 <tr>
-<td align="right">297</td>
+<td align="right">342</td>
 <td><a href="https://github.com/edwardsacobey"><img src="https://avatars.githubusercontent.com/u/234784677?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/edwardsacobey"><b>Edward Mati</b></a><br><sub>&#64;edwardsacobey</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Port Moresby, Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">298</td>
+<td align="right">343</td>
+<td><a href="https://github.com/flashnb99-com"><img src="https://avatars.githubusercontent.com/u/355416868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/flashnb99-com"><b>Flash9PNG</b></a><br><sub>&#64;flashnb99-com</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">344</td>
+<td><a href="https://github.com/Gaun-sv6"><img src="https://avatars.githubusercontent.com/u/204535135?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Gaun-sv6"><b>Gaun-Sv6</b></a><br><sub>&#64;Gaun-sv6</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>E.H.P, Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">345</td>
+<td><a href="https://github.com/gkoipi"><img src="https://avatars.githubusercontent.com/u/215287617?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gkoipi"><b>Gideon Koipi</b></a><br><sub>&#64;gkoipi</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">346</td>
+<td><a href="https://github.com/hkglobalharbour-source"><img src="https://avatars.githubusercontent.com/u/358521830?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hkglobalharbour-source"><b>PNG Unlock Pro</b></a><br><sub>&#64;hkglobalharbour-source</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">347</td>
+<td><a href="https://github.com/htetshweyioo9999-debug"><img src="https://avatars.githubusercontent.com/u/263666778?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/htetshweyioo9999-debug"><b>Htet Shwe Yi Oo</b></a><br><sub>&#64;htetshweyioo9999-debug</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">348</td>
 <td><a href="https://github.com/jc753652"><img src="https://avatars.githubusercontent.com/u/211751120?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jc753652"><b>Rebecca Vinit</b></a><br><sub>&#64;jc753652</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">299</td>
+<td align="right">349</td>
+<td><a href="https://github.com/jkena115"><img src="https://avatars.githubusercontent.com/u/320820356?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jkena115"><b>Jonathan Kena</b></a><br><sub>&#64;jkena115</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Abegini Village, Ward 22, Mikarew, Yawar LLG, B…</sub></td>
+</tr>
+<tr>
+<td align="right">350</td>
+<td><a href="https://github.com/jmoyor01-max"><img src="https://avatars.githubusercontent.com/u/266599387?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jmoyor01-max"><b>John Moyor</b></a><br><sub>&#64;jmoyor01-max</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Ialibu, Southern Highlands, Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">351</td>
 <td><a href="https://github.com/johnmcqeen99-coder"><img src="https://avatars.githubusercontent.com/u/311834040?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/johnmcqeen99-coder"><b>Max</b></a><br><sub>&#64;johnmcqeen99-coder</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">300</td>
+<td align="right">352</td>
 <td><a href="https://github.com/kaveroibc4960"><img src="https://avatars.githubusercontent.com/u/265860831?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kaveroibc4960"><b>Kaveroi Business Consulting</b></a><br><sub>&#64;kaveroibc4960</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Port Moresby, Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">301</td>
+<td align="right">353</td>
+<td><a href="https://github.com/limpopo1400"><img src="https://avatars.githubusercontent.com/u/79037853?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/limpopo1400"><b>SUIIAleoP</b></a><br><sub>&#64;limpopo1400</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Papua new guinea</sub></td>
+</tr>
+<tr>
+<td align="right">354</td>
+<td><a href="https://github.com/masalae"><img src="https://avatars.githubusercontent.com/u/186196951?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/masalae"><b>MASALAE</b></a><br><sub>&#64;masalae</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">355</td>
+<td><a href="https://github.com/mdgraniteincorporated-hub"><img src="https://avatars.githubusercontent.com/u/239895535?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mdgraniteincorporated-hub"><b>Granite Incorporated</b></a><br><sub>&#64;mdgraniteincorporated-hub</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">356</td>
 <td><a href="https://github.com/mk-yalo"><img src="https://avatars.githubusercontent.com/u/287109392?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mk-yalo"><b>Malford Yalo Kandenge</b></a><br><sub>&#64;mk-yalo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Papua New Guinea, National Capital District · N…</sub></td>
 </tr>
 <tr>
-<td align="right">302</td>
+<td align="right">357</td>
+<td><a href="https://github.com/mroai"><img src="https://avatars.githubusercontent.com/u/20993396?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mroai"><b>Michael Roai</b></a><br><sub>&#64;mroai</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Papua new Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">358</td>
 <td><a href="https://github.com/munna785"><img src="https://avatars.githubusercontent.com/u/315759064?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/munna785"><b>Mahmudul Karim</b></a><br><sub>&#64;munna785</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Port Moresby, Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">303</td>
+<td align="right">359</td>
+<td><a href="https://github.com/NationalFinance01"><img src="https://avatars.githubusercontent.com/u/222756094?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NationalFinance01"><b>National Finance</b></a><br><sub>&#64;NationalFinance01</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">360</td>
 <td><a href="https://github.com/Odeela"><img src="https://avatars.githubusercontent.com/u/281830085?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Odeela"><b>Odeela</b></a><br><sub>&#64;Odeela</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Waigani, Port Moresby, Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">304</td>
+<td align="right">361</td>
+<td><a href="https://github.com/Priyadharshika-Anil"><img src="https://avatars.githubusercontent.com/u/218231827?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Priyadharshika-Anil"><b>Priyadharshika Anil</b></a><br><sub>&#64;Priyadharshika-Anil</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">362</td>
+<td><a href="https://github.com/QuiStar25"><img src="https://avatars.githubusercontent.com/u/193384684?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/QuiStar25"><b>QuiStar Norths Technology</b></a><br><sub>&#64;QuiStar25</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Popondetta, Northern Province, Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">363</td>
+<td><a href="https://github.com/Rich-Pee29"><img src="https://avatars.githubusercontent.com/u/146302451?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rich-Pee29"><b>Richard Peni</b></a><br><sub>&#64;Rich-Pee29</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">364</td>
 <td><a href="https://github.com/salukalan"><img src="https://avatars.githubusercontent.com/u/169964683?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/salukalan"><b>Steward Alu Kalan</b></a><br><sub>&#64;salukalan</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">305</td>
+<td align="right">365</td>
+<td><a href="https://github.com/simonluke621-maker"><img src="https://avatars.githubusercontent.com/u/342313660?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/simonluke621-maker"><b>SaiLee</b></a><br><sub>&#64;simonluke621-maker</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">366</td>
+<td><a href="https://github.com/sskalabus-tech"><img src="https://avatars.githubusercontent.com/u/274411185?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sskalabus-tech"><b>Sherolyne Hinamwai Kalabus</b></a><br><sub>&#64;sskalabus-tech</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">367</td>
 <td><a href="https://github.com/wayakiloitiwe"><img src="https://avatars.githubusercontent.com/u/201853645?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wayakiloitiwe"><b>Wayaki LOITIWE</b></a><br><sub>&#64;wayakiloitiwe</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">306</td>
+<td align="right">368</td>
 <td><a href="https://github.com/wera447"><img src="https://avatars.githubusercontent.com/u/178957194?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wera447"><b>Wera Dawa</b></a><br><sub>&#64;wera447</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">307</td>
+<td align="right">369</td>
 <td><a href="https://github.com/wiipoland"><img src="https://avatars.githubusercontent.com/u/123136498?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wiipoland"><b>Wii Polando</b></a><br><sub>&#64;wiipoland</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">370</td>
+<td><a href="https://github.com/wolhakai-ops"><img src="https://avatars.githubusercontent.com/u/352657213?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wolhakai-ops"><b>WolHakai</b></a><br><sub>&#64;wolhakai-ops</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">371</td>
+<td><a href="https://github.com/zechariahpery53-a11y"><img src="https://avatars.githubusercontent.com/u/255119401?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zechariahpery53-a11y"><b>ZP Creatives</b></a><br><sub>&#64;zechariahpery53-a11y</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">372</td>
+<td><a href="https://github.com/zeekay24over"><img src="https://avatars.githubusercontent.com/u/226637480?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zeekay24over"><b>Zebedee Kire</b></a><br><sub>&#64;zeekay24over</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Papua New Guinea</sub></td>
@@ -2178,7 +2633,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 307 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 372 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 68 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

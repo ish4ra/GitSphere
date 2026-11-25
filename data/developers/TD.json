@@ -7,7 +7,7 @@
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
 "coverage": {"basis":"partial","cutoffFollowers":0,"candidates":161,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":74,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDOCaSUDw","login":"Helionux","name":"Deoule-Allah Madjitoloum Heliodore","url":"https://github.com/Helionux","avatarUrl":"https://avatars.githubusercontent.com/u/161780751?s=80&v=4","followers":219,"publicRepos":61,"location":"Tchad","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
+  {"rank":1,"id":"U_kgDOCaSUDw","login":"Helionux","name":"Deoule-Allah Madjitoloum Heliodore","url":"https://github.com/Helionux","avatarUrl":"https://avatars.githubusercontent.com/u/161780751?s=80&v=4","followers":220,"publicRepos":61,"location":"Tchad","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"U_kgDOBoW-_w","login":"Kakaymi10","name":"Moussa","url":"https://github.com/Kakaymi10","avatarUrl":"https://avatars.githubusercontent.com/u/109428479?s=80&v=4","followers":58,"publicRepos":108,"location":"NDjamena, Chad","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":3,"id":"U_kgDOB3qsFg","login":"adoumouangnamouemmanuel","name":"Emmanuel Adoum","url":"https://github.com/adoumouangnamouemmanuel","avatarUrl":"https://avatars.githubusercontent.com/u/125479958?s=80&v=4","followers":28,"publicRepos":59,"location":"Chad","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":4,"id":"MDQ6VXNlcjgwMDY3NjU3","login":"malachieborohoul","name":"BOROHOUL Soguelni Malachie","url":"https://github.com/malachieborohoul","avatarUrl":"https://avatars.githubusercontent.com/u/80067657?s=80&v=4","followers":14,"publicRepos":68,"location":"Chad","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
@@ -169,8 +169,8 @@
   {"rank":160,"id":"U_kgDODJ6ybw","login":"sadamch4d","name":"sadam","url":"https://github.com/sadamch4d","avatarUrl":"https://avatars.githubusercontent.com/u/211726959?s=80&v=4","followers":0,"publicRepos":0,"location":"chad","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":161,"id":"U_kgDOElA4HQ","login":"sogeccom-chad","name":"Sogeccom","url":"https://github.com/sogeccom-chad","avatarUrl":"https://avatars.githubusercontent.com/u/307247133?s=80&v=4","followers":0,"publicRepos":0,"location":"Chad - Ndjamena","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "f0cef22d282b8ce5",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "c2930a1a777341e1",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-24",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

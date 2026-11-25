@@ -5,7 +5,7 @@
 "country": {"code":"CR","name":"Costa Rica","slug":"costa-rica"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":408,"measuredAccounts":17,"measurementBacklog":391,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":58,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":411,"measuredAccounts":18,"measurementBacklog":393,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":58,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOCxYo9w","login":"glittercowboy","name":"TÂCHES","url":"https://github.com/glittercowboy","avatarUrl":"https://avatars.githubusercontent.com/u/186001655?s=80&v=4","followers":1284,"publicRepos":28,"location":"Costa Rica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":4637,"commits":3677,"pullRequests":742,"reviews":117,"issues":76,"repositories":25,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":2,"id":"MDQ6VXNlcjM2OTcxOA==","login":"edsiper","name":"Eduardo Silva Pereira","url":"https://github.com/edsiper","avatarUrl":"https://avatars.githubusercontent.com/u/369718?s=80&v=4","followers":279,"publicRepos":70,"location":"Costa Rica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":2154,"commits":1767,"pullRequests":378,"reviews":7,"issues":1,"repositories":1,"windowFrom":"2025-11-24T21:00:00Z","windowTo":"2026-11-24T21:00:00Z","measuredOn":"2026-11-24"}},
@@ -23,8 +23,8 @@
   {"rank":14,"id":"MDQ6VXNlcjMwMTY0NDQ3","login":"jorneycr","name":"Jorney Lopez","url":"https://github.com/jorneycr","avatarUrl":"https://avatars.githubusercontent.com/u/30164447?s=80&v=4","followers":773,"publicRepos":110,"location":"Costa Rica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":59,"commits":46,"pullRequests":0,"reviews":0,"issues":0,"repositories":13,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":15,"id":"MDQ6VXNlcjgxMjY5NjI=","login":"MrAlex6204","name":"Alex Vera","url":"https://github.com/MrAlex6204","avatarUrl":"https://avatars.githubusercontent.com/u/8126962?s=80&v=4","followers":260,"publicRepos":31,"location":"H. Matamoros ,Tamulipas","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-25","contributions":{"public":2,"commits":1,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-25T04:00:00Z","windowTo":"2026-11-25T04:00:00Z","measuredOn":"2026-11-25"}}
 ],
-"contentHash": "a963b2ac799043d0",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "faec6db97aa96b12",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

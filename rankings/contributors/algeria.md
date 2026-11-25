@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/contributors/DZ.json">JSON</a> |
+| 🟡 Provisional | **17** | 22 Nov 2026 | <a href="../../data/contributors/DZ.json">JSON</a> |
 
 </div>
 
@@ -34,7 +34,7 @@
 </tr>
 <tr>
 <td align="right">2</td>
-<td><a href="https://github.com/aimen08"><img src="https://avatars.githubusercontent.com/u/32209952?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aimen08"><b>Aymen Hamza</b></a><br><sub>&#64;aimen08 · 393 followers</sub></td>
+<td><a href="https://github.com/aimen08"><img src="https://avatars.githubusercontent.com/u/32209952?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aimen08"><b>Aymen Hamza</b></a><br><sub>&#64;aimen08 · 392 followers</sub></td>
 <td align="right"><b>385</b></td>
 <td align="right">357</td>
 <td align="right">9</td>
@@ -124,6 +124,15 @@
 </tr>
 <tr>
 <td align="right">12</td>
+<td><a href="https://github.com/ousszizou"><img src="https://avatars.githubusercontent.com/u/26632567?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ousszizou"><b>oussama djaidri</b></a><br><sub>&#64;ousszizou · 192 followers</sub></td>
+<td align="right"><b>29</b></td>
+<td align="right">24</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">13</td>
 <td><a href="https://github.com/Lookingfor00"><img src="https://avatars.githubusercontent.com/u/74411135?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lookingfor00"><b>Allassane Dicko</b></a><br><sub>&#64;Lookingfor00 · 69 followers</sub></td>
 <td align="right"><b>25</b></td>
 <td align="right">23</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/Hmida71"><img src="https://avatars.githubusercontent.com/u/69757558?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hmida71"><b>Hmida71</b></a><br><sub>&#64;Hmida71 · 749 followers</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">9</td>
@@ -141,7 +150,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/WissalManseri"><img src="https://avatars.githubusercontent.com/u/135167709?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/WissalManseri"><b>WISSAL MN</b></a><br><sub>&#64;WissalManseri · 583 followers</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">9</td>
@@ -150,7 +159,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><a href="https://github.com/cybdom"><img src="https://avatars.githubusercontent.com/u/6316995?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cybdom"><b>Cybdom</b></a><br><sub>&#64;cybdom · 503 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">4</td>
@@ -159,7 +168,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">17</td>
 <td><a href="https://github.com/hocinebouarara"><img src="https://avatars.githubusercontent.com/u/47678189?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hocinebouarara"><b>hocine bouarara</b></a><br><sub>&#64;hocinebouarara · 1,490 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">2</td>
@@ -174,7 +183,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 18 of 427 discovered developers (409 awaiting measurement).
+- **Measured:** 19 of 433 discovered developers (414 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 154 in round 1.

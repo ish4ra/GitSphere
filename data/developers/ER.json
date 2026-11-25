@@ -7,7 +7,7 @@
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
 "coverage": {"basis":"partial","cutoffFollowers":0,"candidates":28,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":34,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjIwNDg4MDc5","login":"afatinong","name":"Afewerki Fkadu","url":"https://github.com/afatinong","avatarUrl":"https://avatars.githubusercontent.com/u/20488079?s=80&v=4","followers":8,"publicRepos":1,"location":"Eritrea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":1,"id":"MDQ6VXNlcjIwNDg4MDc5","login":"afatinong","name":"Afewerki Fkadu","url":"https://github.com/afatinong","avatarUrl":"https://avatars.githubusercontent.com/u/20488079?s=80&v=4","followers":8,"publicRepos":1,"location":"Eritrea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"MDQ6VXNlcjM4NzYxMTY4","login":"aigemito","name":"Amanuel Isack Gebreendrias","url":"https://github.com/aigemito","avatarUrl":"https://avatars.githubusercontent.com/u/38761168?s=80&v=4","followers":5,"publicRepos":40,"location":"Asmara,Eritrea","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":3,"id":"MDQ6VXNlcjc5MTQ3Mzc1","login":"EStudioApps","name":null,"url":"https://github.com/EStudioApps","avatarUrl":"https://avatars.githubusercontent.com/u/79147375?s=80&v=4","followers":2,"publicRepos":6,"location":"Asmara, Eritrea","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":4,"id":"MDQ6VXNlcjQxNzMxOTU2","login":"Bereket-Desbele","name":"Bereket Desbele Ghebregiorgis","url":"https://github.com/Bereket-Desbele","avatarUrl":"https://avatars.githubusercontent.com/u/41731956?s=80&v=4","followers":2,"publicRepos":0,"location":"Asmara, Eritrea","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
@@ -36,8 +36,8 @@
   {"rank":27,"id":"MDQ6VXNlcjcxMzk0NzE3","login":"MAYDIMA","name":null,"url":"https://github.com/MAYDIMA","avatarUrl":"https://avatars.githubusercontent.com/u/71394717?s=80&v=4","followers":0,"publicRepos":0,"location":"ERITREA","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":28,"id":"U_kgDOCTIgdw","login":"Momochallange","name":"Momochallange","url":"https://github.com/Momochallange","avatarUrl":"https://avatars.githubusercontent.com/u/154280055?s=80&v=4","followers":0,"publicRepos":0,"location":"Eritrea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "6b3905a2757ed5a3",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "749359974ce0d26e",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

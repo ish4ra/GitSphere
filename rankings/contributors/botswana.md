@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/contributors/BW.json">JSON</a> |
+| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/BW.json">JSON</a> |
 
 </div>
 
@@ -79,6 +79,15 @@
 </tr>
 <tr>
 <td align="right">7</td>
+<td><a href="https://github.com/Alfonzo-Kgakole"><img src="https://avatars.githubusercontent.com/u/143542835?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alfonzo-Kgakole"><b>Alfonzo kgakole</b></a><br><sub>&#64;Alfonzo-Kgakole · 3 followers</sub></td>
+<td align="right"><b>14</b></td>
+<td align="right">8</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">8</td>
 <td><a href="https://github.com/adetipe-toluwalope"><img src="https://avatars.githubusercontent.com/u/257461221?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adetipe-toluwalope"><b>Adetipe Toluwalope Adeleke</b></a><br><sub>&#64;adetipe-toluwalope · 0 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">5</td>
@@ -87,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/Fuzzworth"><img src="https://avatars.githubusercontent.com/u/6101893?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Fuzzworth"><b>Nyangasi Mhozya</b></a><br><sub>&#64;Fuzzworth · 243 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">3</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/0126FinGuy"><img src="https://avatars.githubusercontent.com/u/130290220?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0126FinGuy"><b>Oteng Boitshepo Olaetse</b></a><br><sub>&#64;0126FinGuy · 0 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">3</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/Abel3047"><img src="https://avatars.githubusercontent.com/u/86651687?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abel3047"><b>Abel Ange Ntite Tshimbalanga</b></a><br><sub>&#64;Abel3047 · 8 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
@@ -114,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/24blac"><img src="https://avatars.githubusercontent.com/u/81078724?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/24blac"><b>Mopati</b></a><br><sub>&#64;24blac · 2 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
@@ -123,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/aaronaase090-blip"><img src="https://avatars.githubusercontent.com/u/269562075?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aaronaase090-blip"><b>aase aaron</b></a><br><sub>&#64;aaronaase090-blip · 0 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/4tlas-Mokgotle"><img src="https://avatars.githubusercontent.com/u/196611138?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/4tlas-Mokgotle"><b>Bongani Bigboy Otsile Mokgotle</b></a><br><sub>&#64;4tlas-Mokgotle · 2 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -147,7 +156,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 17 of 400 discovered developers (383 awaiting measurement).
+- **Measured:** 18 of 400 discovered developers (382 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 118 in round 1.

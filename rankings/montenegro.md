@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **13** | 02 Nov 2026 | <a href="../data/ME.json">JSON</a> |
-
-> **Not yet re-verified.** 5 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **9** | 23 Nov 2026 | <a href="../data/ME.json">JSON</a> |
 
 </div>
 
@@ -26,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/Const-me.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Const-me/Whisper"><b>Const-me/Whisper</b></a><br><sub>High-performance GPGPU inference of OpenAI&#39;s Whisper automatic speech recognition (ASR) model</sub></td>
-<td align="right"><b>10,716</b></td>
+<td align="right"><b>10,715</b></td>
 <td align="right">981</td>
 <td>C++</td>
 </tr>
@@ -81,38 +79,10 @@
 </tr>
 <tr>
 <td align="right">9</td>
-<td><img src="https://github.com/zeljkorad.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zeljkorad/angular-loader"><b>zeljkorad/angular-loader</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">13</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">10</td>
-<td><img src="https://github.com/dmitriikapustin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dmitriikapustin/bb-plugins-by-kapustin"><b>dmitriikapustin/bb-plugins-by-kapustin</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">5</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">11</td>
-<td><img src="https://github.com/lozobojan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lozobojan/expense-tracker-laravel"><b>lozobojan/expense-tracker-laravel</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">5</td>
-<td>PHP</td>
-</tr>
-<tr>
-<td align="right">12</td>
-<td><img src="https://github.com/DaniloS99.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DaniloS99/DS-Fibonacci-Trader-EA"><b>DaniloS99/DS-Fibonacci-Trader-EA</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">4</td>
-<td>MQL5</td>
-</tr>
-<tr>
-<td align="right">13</td>
-<td><img src="https://github.com/balodja.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/balodja/contisim"><b>balodja/contisim</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">2</td>
-<td>Haskell</td>
+<td><img src="https://github.com/IvanDrokin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/IvanDrokin/torch-conv-kan"><b>IvanDrokin/torch-conv-kan</b></a><br><sub>This project is dedicated to the implementation and research of Kolmogorov-Arnold convolutional networks. The repositor…</sub></td>
+<td align="right"><b>531</b></td>
+<td align="right">44</td>
+<td>Python</td>
 </tr>
 </tbody>
 </table>
@@ -120,11 +90,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 3 stars; 13 attributed candidates are tracked.
-- 5 entries were carried over from the previous dataset and are pending revalidation.
-- 107 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 531 stars; 9 attributed candidates are tracked.
+- 103 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 44 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

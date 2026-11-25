@@ -5,7 +5,7 @@
 "country": {"code":"MD","name":"Moldova","slug":"moldova"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":11,"measurementBacklog":389,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":84,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":401,"measuredAccounts":11,"measurementBacklog":390,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":84,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjE2MDg5NA==","login":"CyberShadow","name":"Vladimir Panteleev","url":"https://github.com/CyberShadow","avatarUrl":"https://avatars.githubusercontent.com/u/160894?s=80&v=4","followers":520,"publicRepos":437,"location":"Moldova, Eastern Europe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":1623,"commits":1511,"pullRequests":47,"reviews":24,"issues":20,"repositories":21,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":2,"id":"MDQ6VXNlcjE2MDU2OTE4","login":"strdr4605","name":"Dragoș Străinu","url":"https://github.com/strdr4605","avatarUrl":"https://avatars.githubusercontent.com/u/16056918?s=80&v=4","followers":101,"publicRepos":141,"location":"Moldova","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":651,"commits":532,"pullRequests":73,"reviews":6,"issues":28,"repositories":12,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
@@ -17,8 +17,8 @@
   {"rank":8,"id":"MDQ6VXNlcjQzNTUxMDky","login":"AmanDjenner","name":"Djenner","url":"https://github.com/AmanDjenner","avatarUrl":"https://avatars.githubusercontent.com/u/43551092?s=80&v=4","followers":0,"publicRepos":175,"location":"Moldova","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":34,"commits":1,"pullRequests":0,"reviews":0,"issues":0,"repositories":33,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":9,"id":"MDQ6VXNlcjU2NzQz","login":"chorny","name":"Alexandr Ciornii","url":"https://github.com/chorny","avatarUrl":"https://avatars.githubusercontent.com/u/56743?s=80&v=4","followers":90,"publicRepos":355,"location":"Kishinev, Moldova","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":1,"repositories":0,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "185171449d41a598",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "97cee87c48c73a03",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

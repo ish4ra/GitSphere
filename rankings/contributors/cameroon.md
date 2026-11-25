@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **17** | 22 Nov 2026 | <a href="../../data/contributors/CM.json">JSON</a> |
+| 🟡 Provisional | **18** | 22 Nov 2026 | <a href="../../data/contributors/CM.json">JSON</a> |
 
 </div>
 
@@ -34,7 +34,7 @@
 </tr>
 <tr>
 <td align="right">2</td>
-<td><a href="https://github.com/ln-dev7"><img src="https://avatars.githubusercontent.com/u/62269693?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ln-dev7"><b>LN</b></a><br><sub>&#64;ln-dev7 · 1,257 followers</sub></td>
+<td><a href="https://github.com/ln-dev7"><img src="https://avatars.githubusercontent.com/u/62269693?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ln-dev7"><b>LN</b></a><br><sub>&#64;ln-dev7 · 1,258 followers</sub></td>
 <td align="right"><b>2,201</b></td>
 <td align="right">2,145</td>
 <td align="right">21</td>
@@ -106,6 +106,15 @@
 </tr>
 <tr>
 <td align="right">10</td>
+<td><a href="https://github.com/Blair2004"><img src="https://avatars.githubusercontent.com/u/5265663?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Blair2004"><b>Blair Jersyer</b></a><br><sub>&#64;Blair2004 · 177 followers</sub></td>
+<td align="right"><b>568</b></td>
+<td align="right">433</td>
+<td align="right">39</td>
+<td align="right">78</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">11</td>
 <td><a href="https://github.com/Nkwenti-Severian-Ndongtsop"><img src="https://avatars.githubusercontent.com/u/180976800?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nkwenti-Severian-Ndongtsop"><b>&#64;Nkwenti &#64;Severian</b></a><br><sub>&#64;Nkwenti-Severian-Ndongtsop · 355 followers</sub></td>
 <td align="right"><b>475</b></td>
 <td align="right">307</td>
@@ -114,7 +123,7 @@
 <td align="right">24</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/elliottminns"><img src="https://avatars.githubusercontent.com/u/3148319?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elliottminns"><b>Elliott Minns</b></a><br><sub>&#64;elliottminns · 1,193 followers</sub></td>
 <td align="right"><b>348</b></td>
 <td align="right">339</td>
@@ -123,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/donaldte"><img src="https://avatars.githubusercontent.com/u/81464575?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/donaldte"><b>donald programmeur</b></a><br><sub>&#64;donaldte · 327 followers</sub></td>
 <td align="right"><b>340</b></td>
 <td align="right">288</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/yunweneric"><img src="https://avatars.githubusercontent.com/u/57493613?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yunweneric"><b>Yunweneric</b></a><br><sub>&#64;yunweneric · 224 followers</sub></td>
 <td align="right"><b>302</b></td>
 <td align="right">281</td>
@@ -141,7 +150,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/tegha-romeo"><img src="https://avatars.githubusercontent.com/u/180978410?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tegha-romeo"><b>tegha-romeo</b></a><br><sub>&#64;tegha-romeo · 236 followers</sub></td>
 <td align="right"><b>256</b></td>
 <td align="right">78</td>
@@ -150,7 +159,7 @@
 <td align="right">14</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><a href="https://github.com/Daniel-TheProgrammer"><img src="https://avatars.githubusercontent.com/u/60320246?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Daniel-TheProgrammer"><b>Nji Daniel</b></a><br><sub>&#64;Daniel-TheProgrammer · 226 followers</sub></td>
 <td align="right"><b>105</b></td>
 <td align="right">84</td>
@@ -159,7 +168,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">17</td>
 <td><a href="https://github.com/NgamiBaruch"><img src="https://avatars.githubusercontent.com/u/150728460?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NgamiBaruch"><b>NgamiBaruch</b></a><br><sub>&#64;NgamiBaruch · 354 followers</sub></td>
 <td align="right"><b>23</b></td>
 <td align="right">14</td>
@@ -168,7 +177,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">18</td>
 <td><a href="https://github.com/djonmaila"><img src="https://avatars.githubusercontent.com/u/165961723?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/djonmaila"><b>DJONMAILA PYTHAGORE</b></a><br><sub>&#64;djonmaila · 490 followers</sub></td>
 <td align="right"><b>14</b></td>
 <td align="right">13</td>
@@ -183,7 +192,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 17 of 406 discovered developers (389 awaiting measurement).
+- **Measured:** 18 of 406 discovered developers (388 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 115 in round 1.

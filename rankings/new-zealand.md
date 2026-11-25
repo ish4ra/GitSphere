@@ -24,84 +24,84 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/portainer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/portainer/portainer"><b>portainer/portainer</b></a><br><sub>Making Docker and Kubernetes management easy.</sub></td>
-<td align="right"><b>38,886</b></td>
-<td align="right">2,945</td>
+<td align="right"><b>38,911</b></td>
+<td align="right">2,949</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/ageron.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ageron/handson-ml2"><b>ageron/handson-ml2</b></a><br><sub>⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 or handson-mlp instead.</sub></td>
-<td align="right"><b>29,946</b></td>
-<td align="right">13,117</td>
+<td align="right"><b>29,948</b></td>
+<td align="right">13,116</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/ageron.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ageron/handson-ml"><b>ageron/handson-ml</b></a><br><sub>⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 or handson-mlp instead.</sub></td>
-<td align="right"><b>25,600</b></td>
-<td align="right">12,661</td>
+<td align="right"><b>25,602</b></td>
+<td align="right">12,656</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/deviantony.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/deviantony/docker-elk"><b>deviantony/docker-elk</b></a><br><sub>The Elastic stack (ELK) powered by Docker and Compose.</sub></td>
-<td align="right"><b>18,381</b></td>
-<td align="right">6,829</td>
+<td align="right"><b>18,385</b></td>
+<td align="right">6,823</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/ageron.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ageron/handson-ml3"><b>ageron/handson-ml3</b></a><br><sub>A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python us…</sub></td>
-<td align="right"><b>14,514</b></td>
-<td align="right">5,406</td>
+<td align="right"><b>14,575</b></td>
+<td align="right">5,414</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/acaudwell.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/acaudwell/Gource"><b>acaudwell/Gource</b></a><br><sub>software version control visualization</sub></td>
-<td align="right"><b>13,216</b></td>
+<td align="right"><b>13,217</b></td>
 <td align="right">800</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/axllent.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/axllent/mailpit"><b>axllent/mailpit</b></a><br><sub>An email and SMTP testing tool with API for developers</sub></td>
-<td align="right"><b>11,001</b></td>
+<td align="right"><b>11,034</b></td>
 <td align="right">381</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/kyrolabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kyrolabs/awesome-langchain"><b>kyrolabs/awesome-langchain</b></a><br><sub>😎 Awesome list of tools and projects with the awesome LangChain framework</sub></td>
-<td align="right"><b>9,601</b></td>
-<td align="right">1,000</td>
+<td align="right"><b>9,603</b></td>
+<td align="right">1,004</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/ChenYilong.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ChenYilong/iOSInterviewQuestions"><b>ChenYilong/iOSInterviewQuestions</b></a><br><sub>iOS interview questions;iOS面试题集锦（附答案）</sub></td>
-<td align="right"><b>9,553</b></td>
-<td align="right">2,776</td>
+<td align="right"><b>9,551</b></td>
+<td align="right">2,777</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/Mooophy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mooophy/Cpp-Primer"><b>Mooophy/Cpp-Primer</b></a><br><sub>C++ Primer 5 answers</sub></td>
-<td align="right"><b>8,291</b></td>
+<td align="right"><b>8,289</b></td>
 <td align="right">2,949</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/ChenYilong.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ChenYilong/CYLTabBarController"><b>ChenYilong/CYLTabBarController</b></a><br><sub>&#91;EN&#93;It is an iOS UI module library for adding animation to iOS tabbar items and icons with Lottie, Liquid Glass and add…</sub></td>
-<td align="right"><b>7,066</b></td>
-<td align="right">1,456</td>
+<td align="right"><b>7,074</b></td>
+<td align="right">1,455</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/urbanadventurer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/urbanadventurer/WhatWeb"><b>urbanadventurer/WhatWeb</b></a><br><sub>Next generation web scanner</sub></td>
-<td align="right"><b>7,022</b></td>
+<td align="right"><b>7,028</b></td>
 <td align="right">1,024</td>
 <td>Ruby</td>
 </tr>
@@ -109,41 +109,41 @@
 <td align="right">13</td>
 <td><img src="https://github.com/VeNoMouS.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/VeNoMouS/cloudscraper"><b>VeNoMouS/cloudscraper</b></a><br><sub>A Python module to bypass Cloudflare&#39;s anti-bot page.</sub></td>
 <td align="right"><b>6,825</b></td>
-<td align="right">637</td>
+<td align="right">636</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/RichardLitt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RichardLitt/standard-readme"><b>RichardLitt/standard-readme</b></a><br><sub>A standard style for README files</sub></td>
-<td align="right"><b>6,401</b></td>
-<td align="right">2,498</td>
+<td align="right"><b>6,405</b></td>
+<td align="right">2,497</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/executeautomation.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/executeautomation/mcp-playwright"><b>executeautomation/mcp-playwright</b></a><br><sub>Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and…</sub></td>
-<td align="right"><b>5,682</b></td>
+<td align="right"><b>5,681</b></td>
 <td align="right">542</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">16</td>
 <td><img src="https://github.com/brentvollebregt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/brentvollebregt/auto-py-to-exe"><b>brentvollebregt/auto-py-to-exe</b></a><br><sub>Converts .py to .exe using a simple graphical interface</sub></td>
-<td align="right"><b>5,003</b></td>
-<td align="right">818</td>
+<td align="right"><b>5,005</b></td>
+<td align="right">817</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/urbanadventurer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/urbanadventurer/Android-PIN-Bruteforce"><b>urbanadventurer/Android-PIN-Bruteforce</b></a><br><sub>Unlock an Android phone (or device) by bruteforcing the lockscreen PIN. Turn your Kali Nethunter phone into a bruteforc…</sub></td>
-<td align="right"><b>4,899</b></td>
-<td align="right">855</td>
+<td align="right"><b>4,903</b></td>
+<td align="right">856</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">18</td>
 <td><img src="https://github.com/ChenYilong.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ChenYilong/iOS9AdaptationTips"><b>ChenYilong/iOS9AdaptationTips</b></a><br><sub>iOS9适配系列教程（iOS开发学习交流群： https://github.com/ChenYilong/iOSBlog/issues/21）</sub></td>
-<td align="right"><b>4,430</b></td>
+<td align="right"><b>4,429</b></td>
 <td align="right">974</td>
 <td>Objective-C</td>
 </tr>

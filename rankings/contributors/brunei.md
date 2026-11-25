@@ -14,17 +14,26 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/BN.json">JSON</a> |
+| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/contributors/BN.json">JSON</a> |
 
 </div>
 
-<p align="center"><sub>Public contributions from <b>24 Nov 2025</b> to <b>24 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
+<p align="center"><sub>Public contributions from <b>25 Nov 2025</b> to <b>25 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
 
 <table>
 <thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Public contributions</th><th align="right">Commits</th><th align="right">PRs</th><th align="right">Reviews</th><th align="right">Issues</th></tr></thead>
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/chriswalker-afk"><img src="https://avatars.githubusercontent.com/u/260836996?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chriswalker-afk"><b>Christopher Stephen Walker</b></a><br><sub>&#64;chriswalker-afk · 0 followers</sub></td>
+<td align="right"><b>5,475</b></td>
+<td align="right">4,710</td>
+<td align="right">734</td>
+<td align="right">0</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/DannyRidz"><img src="https://avatars.githubusercontent.com/u/215490395?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DannyRidz"><b>Daniel Ridzwan Bin Mohamad</b></a><br><sub>&#64;DannyRidz · 0 followers</sub></td>
 <td align="right"><b>691</b></td>
 <td align="right">618</td>
@@ -33,7 +42,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">3</td>
 <td><a href="https://github.com/Qoyyuum"><img src="https://avatars.githubusercontent.com/u/971309?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Qoyyuum"><b>Abdul Qoyyuum</b></a><br><sub>&#64;Qoyyuum · 53 followers</sub></td>
 <td align="right"><b>339</b></td>
 <td align="right">250</td>
@@ -42,7 +51,7 @@
 <td align="right">26</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/bumplzz69"><img src="https://avatars.githubusercontent.com/u/12493098?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bumplzz69"><b>Eddie</b></a><br><sub>&#64;bumplzz69 · 5 followers</sub></td>
 <td align="right"><b>301</b></td>
 <td align="right">0</td>
@@ -51,7 +60,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/syahnur197"><img src="https://avatars.githubusercontent.com/u/18722385?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/syahnur197"><b>Syahnur Nizam</b></a><br><sub>&#64;syahnur197 · 16 followers</sub></td>
 <td align="right"><b>110</b></td>
 <td align="right">89</td>
@@ -60,7 +69,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/wafeeyhm"><img src="https://avatars.githubusercontent.com/u/8189333?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wafeeyhm"><b>Wafeey HM</b></a><br><sub>&#64;wafeeyhm · 3 followers</sub></td>
 <td align="right"><b>101</b></td>
 <td align="right">94</td>
@@ -69,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/thewheat"><img src="https://avatars.githubusercontent.com/u/892961?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thewheat"><b>Timothy Lim</b></a><br><sub>&#64;thewheat · 47 followers</sub></td>
 <td align="right"><b>88</b></td>
 <td align="right">39</td>
@@ -78,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/princealip211-sketch"><img src="https://avatars.githubusercontent.com/u/295095883?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/princealip211-sketch"><b>Prince Alip Robin Clinton (Mohamad Alip Bin Abdullah)</b></a><br><sub>&#64;princealip211-sketch · 0 followers</sub></td>
 <td align="right"><b>85</b></td>
 <td align="right">2</td>
@@ -87,7 +96,7 @@
 <td align="right">12</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/nathanielcwm"><img src="https://avatars.githubusercontent.com/u/22572406?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nathanielcwm"><b>Nathaniel</b></a><br><sub>&#64;nathanielcwm · 12 followers</sub></td>
 <td align="right"><b>72</b></td>
 <td align="right">64</td>
@@ -96,7 +105,7 @@
 <td align="right">4</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/lordsayur"><img src="https://avatars.githubusercontent.com/u/38073753?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lordsayur"><b>Omar</b></a><br><sub>&#64;lordsayur · 18 followers</sub></td>
 <td align="right"><b>62</b></td>
 <td align="right">58</td>
@@ -105,7 +114,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/anwari-fikri"><img src="https://avatars.githubusercontent.com/u/50336496?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anwari-fikri"><b>Anwari Fikri</b></a><br><sub>&#64;anwari-fikri · 6 followers</sub></td>
 <td align="right"><b>45</b></td>
 <td align="right">43</td>
@@ -114,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/mrjiahoe"><img src="https://avatars.githubusercontent.com/u/20553252?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrjiahoe"><b>Jia Hoe</b></a><br><sub>&#64;mrjiahoe · 5 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
@@ -123,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/hazimyussof"><img src="https://avatars.githubusercontent.com/u/56122446?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hazimyussof"><b>Hazim Yussof</b></a><br><sub>&#64;hazimyussof · 3 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/bk7312"><img src="https://avatars.githubusercontent.com/u/14029543?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bk7312"><b>Boon Kai</b></a><br><sub>&#64;bk7312 · 10 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -141,7 +150,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/Syakiran407"><img src="https://avatars.githubusercontent.com/u/30727727?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Syakiran407"><b>Mahmud Syakiran</b></a><br><sub>&#64;Syakiran407 · 9 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -156,7 +165,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 17 of 343 discovered developers (326 awaiting measurement).
+- **Measured:** 18 of 343 discovered developers (325 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 2 of 47 in round 1.

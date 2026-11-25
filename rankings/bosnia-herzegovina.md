@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **20** | 22 Nov 2026 | <a href="../data/BA.json">JSON</a> |
+| 🟡 Provisional | **23** | 22 Nov 2026 | <a href="../data/BA.json">JSON</a> |
 
 </div>
 
@@ -24,14 +24,14 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/adnanh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adnanh/webhook"><b>adnanh/webhook</b></a><br><sub>webhook is a lightweight incoming webhook server to run shell commands</sub></td>
-<td align="right"><b>12,230</b></td>
+<td align="right"><b>12,236</b></td>
 <td align="right">884</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/inputsh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/inputsh/awesome-linux"><b>inputsh/awesome-linux</b></a> <sub>archived</sub><br><sub>:penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:</sub></td>
-<td align="right"><b>5,211</b></td>
+<td align="right"><b>5,215</b></td>
 <td align="right">426</td>
 <td>—</td>
 </tr>
@@ -161,6 +161,27 @@
 <td align="right">492</td>
 <td>Shell</td>
 </tr>
+<tr>
+<td align="right">21</td>
+<td><img src="https://github.com/xiprox.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xiprox/ErrorView"><b>xiprox/ErrorView</b></a> <sub>archived</sub><br><sub>A custom view that displays an image, a title, and a subtitle. Use it for errors, empty states, or just messages with i…</sub></td>
+<td align="right"><b>561</b></td>
+<td align="right">90</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><img src="https://github.com/vladotesanovic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vladotesanovic/angular2-express-starter"><b>vladotesanovic/angular2-express-starter</b></a><br><sub>Angular 8 and Express :family: ( Heroku ready )</sub></td>
+<td align="right"><b>535</b></td>
+<td align="right">225</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td><img src="https://github.com/xiprox.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xiprox/WaniKani-for-Android"><b>xiprox/WaniKani-for-Android</b></a> <sub>archived</sub><br><sub>An android client application for the awesome kanji learning website wanikani.com</sub></td>
+<td align="right"><b>508</b></td>
+<td align="right">121</td>
+<td>Java</td>
+</tr>
 </tbody>
 </table>
 
@@ -169,8 +190,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 587 stars; 20 attributed candidates are tracked.
-- 118 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 508 stars; 23 attributed candidates are tracked.
+- 108 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 123 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

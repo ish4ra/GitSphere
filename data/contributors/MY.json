@@ -5,7 +5,7 @@
 "country": {"code":"MY","name":"Malaysia","slug":"malaysia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":431,"measuredAccounts":11,"measurementBacklog":420,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":155,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":442,"measuredAccounts":11,"measurementBacklog":431,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":155,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjE3Mjk2Ng==","login":"crynobone","name":"Mior Muhammad Zaki","url":"https://github.com/crynobone","avatarUrl":"https://avatars.githubusercontent.com/u/172966?s=80&v=4","followers":1791,"publicRepos":182,"location":"Malaysia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":1651,"commits":1202,"pullRequests":359,"reviews":81,"issues":4,"repositories":5,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":2,"id":"MDQ6VXNlcjQ0OTI4Mjg4","login":"rc-chuah","name":"RC Chuah","url":"https://github.com/rc-chuah","avatarUrl":"https://avatars.githubusercontent.com/u/44928288?s=80&v=4","followers":1784,"publicRepos":742,"location":"Shah Alam, Selangor, Malaysia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":1140,"commits":723,"pullRequests":170,"reviews":15,"issues":131,"repositories":101,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
@@ -19,8 +19,8 @@
   {"rank":10,"id":"MDQ6VXNlcjI0NTAzNzUw","login":"zhamri","name":"Zhamri Che Ani","url":"https://github.com/zhamri","avatarUrl":"https://avatars.githubusercontent.com/u/24503750?s=80&v=4","followers":505,"publicRepos":150,"location":"Malaysia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":42,"commits":27,"pullRequests":0,"reviews":0,"issues":1,"repositories":14,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":11,"id":"MDQ6VXNlcjM0MTY5NzY=","login":"zulhfreelancer","name":"Zulhilmi Zainudin","url":"https://github.com/zulhfreelancer","avatarUrl":"https://avatars.githubusercontent.com/u/3416976?s=80&v=4","followers":215,"publicRepos":210,"location":"Malaysia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":1,"repositories":0,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "d99198f0ea9ac9d6",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "afb828a93463ad3e",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

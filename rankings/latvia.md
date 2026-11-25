@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **48** | 22 Nov 2026 | <a href="../data/LV.json">JSON</a> |
+| 🟡 Provisional | **50** | 22 Nov 2026 | <a href="../data/LV.json">JSON</a> |
 
 </div>
 
@@ -24,57 +24,57 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/ColorlibHQ.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ColorlibHQ/AdminLTE"><b>ColorlibHQ/AdminLTE</b></a><br><sub>AdminLTE - Free admin dashboard template based on Bootstrap 5</sub></td>
-<td align="right"><b>45,704</b></td>
+<td align="right"><b>45,708</b></td>
 <td align="right">18,089</td>
 <td>Astro</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/ColorlibHQ.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ColorlibHQ/gentelella"><b>ColorlibHQ/gentelella</b></a><br><sub>Free admin dashboard template — vanilla JS, SCSS, Vite 8. No Bootstrap, no jQuery.</sub></td>
-<td align="right"><b>21,573</b></td>
-<td align="right">6,816</td>
+<td align="right"><b>21,572</b></td>
+<td align="right">6,815</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/healthchecks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/healthchecks/healthchecks"><b>healthchecks/healthchecks</b></a><br><sub>Open-source cron job and background task monitoring service, written in Python &amp; Django</sub></td>
-<td align="right"><b>10,539</b></td>
-<td align="right">1,048</td>
+<td align="right"><b>10,553</b></td>
+<td align="right">1,052</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/wonderwhy-er.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wonderwhy-er/DesktopCommanderMCP"><b>wonderwhy-er/DesktopCommanderMCP</b></a><br><sub>This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities</sub></td>
-<td align="right"><b>10,390</b></td>
-<td align="right">1,305</td>
+<td align="right"><b>10,415</b></td>
+<td align="right">1,314</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/lauris.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lauris/awesome-scala"><b>lauris/awesome-scala</b></a><br><sub>A community driven list of useful Scala libraries, frameworks and software.</sub></td>
-<td align="right"><b>9,269</b></td>
+<td align="right"><b>9,271</b></td>
 <td align="right">1,255</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/ONLYOFFICE.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ONLYOFFICE/DocumentServer"><b>ONLYOFFICE/DocumentServer</b></a><br><sub>ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and…</sub></td>
-<td align="right"><b>7,152</b></td>
-<td align="right">1,338</td>
+<td align="right"><b>7,167</b></td>
+<td align="right">1,342</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/ONLYOFFICE.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ONLYOFFICE/DesktopEditors"><b>ONLYOFFICE/DesktopEditors</b></a><br><sub>Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations…</sub></td>
-<td align="right"><b>5,778</b></td>
-<td align="right">588</td>
+<td align="right"><b>5,805</b></td>
+<td align="right">591</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/puikinsh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/puikinsh/Adminator-admin-dashboard"><b>puikinsh/Adminator-admin-dashboard</b></a><br><sub>Adminator is easy to use and well design admin dashboard template with dark mode for web apps, websites, services and m…</sub></td>
-<td align="right"><b>4,696</b></td>
-<td align="right">1,750</td>
+<td align="right"><b>4,697</b></td>
+<td align="right">1,753</td>
 <td>HTML</td>
 </tr>
 <tr>
@@ -357,6 +357,20 @@
 <td align="right">324</td>
 <td>Ruby</td>
 </tr>
+<tr>
+<td align="right">49</td>
+<td><img src="https://github.com/puikinsh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/puikinsh/ElaAdmin"><b>puikinsh/ElaAdmin</b></a><br><sub>A clean &amp; completely free Bootstrap 5 admin dashboard template</sub></td>
+<td align="right"><b>514</b></td>
+<td align="right">336</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><img src="https://github.com/puikinsh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/puikinsh/srtdash-admin-dashboard"><b>puikinsh/srtdash-admin-dashboard</b></a><br><sub>Free Bootstrap 5.3.8 admin dashboard template for crypto and finance SaaS</sub></td>
+<td align="right"><b>514</b></td>
+<td align="right">256</td>
+<td>HTML</td>
+</tr>
 </tbody>
 </table>
 
@@ -365,8 +379,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 570 stars; 48 attributed candidates are tracked.
-- 113 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 514 stars; 50 attributed candidates are tracked.
+- 111 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 136 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

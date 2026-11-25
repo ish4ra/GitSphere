@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"DJ","name":"Djibouti","slug":"djibouti"},
-"count": 145,
+"count": 144,
 "repositories": [
-  {"name":"waafipay/sdk-php","stars":3,"forks":7,"language":"PHP","archived":false,"createdAt":"2021-09-14T10:39:19Z","pushedAt":"2024-08-08T18:02:42Z","owner":{"login":"waafipay","type":"Organization","name":"WaafiPay","location":"Djibouti"},"attribution":{"code":"DJ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:56:09.231Z","id":"legacy:waafipay/sdk-php","legacy":true},
   {"name":"benkhaireh/tahajjud-calculator","stars":2,"forks":0,"language":"Python","license":"MIT","archived":false,"createdAt":"2021-03-08T12:30:34Z","pushedAt":"2022-03-31T08:49:10Z","owner":{"login":"benkhaireh","type":"User","name":"Mohamed Khaireh O.","location":"Djibouti"},"attribution":{"code":"DJ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:56:09.231Z","id":"legacy:benkhaireh/tahajjud-calculator","legacy":true},
   {"name":"DrPower01/Ravenbooks","stars":2,"forks":0,"language":"PHP","archived":false,"createdAt":"2024-09-24T19:25:59Z","pushedAt":"2025-01-03T18:54:47Z","owner":{"login":"DrPower01","type":"User","name":"Wilsan yahya Mohamed","location":"Djibouti"},"attribution":{"code":"DJ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:56:09.231Z","id":"legacy:drpower01/ravenbooks","legacy":true},
   {"name":"Filsan648/HOOM","stars":1,"forks":1,"language":"TypeScript","archived":false,"createdAt":"2026-05-27T11:32:05Z","pushedAt":"2026-07-22T09:13:55Z","owner":{"login":"Filsan648","type":"User","name":"Filsan","location":"Djibouti"},"attribution":{"code":"DJ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T19:56:09.231Z","id":"legacy:filsan648/hoom","legacy":true},

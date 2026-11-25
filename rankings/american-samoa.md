@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **10** | 03 Nov 2026 | <a href="../data/AS.json">JSON</a> |
+| 🟠 Stale | **12** | 03 Nov 2026 | <a href="../data/AS.json">JSON</a> |
 
 > **Not yet re-verified.** 3 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
@@ -26,7 +26,7 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/neoclide.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neoclide/coc.nvim"><b>neoclide/coc.nvim</b></a><br><sub>Nodejs extension host for vim &amp; neovim, load extensions like VSCode and host language servers.</sub></td>
-<td align="right"><b>25,136</b></td>
+<td align="right"><b>25,135</b></td>
 <td align="right">946</td>
 <td>TypeScript</td>
 </tr>
@@ -74,20 +74,34 @@
 </tr>
 <tr>
 <td align="right">8</td>
+<td><img src="https://github.com/neoclide.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neoclide/coc-python"><b>neoclide/coc-python</b></a> <sub>archived</sub><br><sub>Python extension for coc.nvim, fork of vscode-python</sub></td>
+<td align="right"><b>567</b></td>
+<td align="right">48</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/neoclide.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neoclide/coc-prettier"><b>neoclide/coc-prettier</b></a><br><sub>Prettier extension for coc.nvim.</sub></td>
+<td align="right"><b>536</b></td>
+<td align="right">44</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">10</td>
 <td><img src="https://github.com/breepinkpiggys.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/breepinkpiggys/breepinkpiggys"><b>breepinkpiggys/breepinkpiggys</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">11</td>
 <td><img src="https://github.com/https-example.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/https-example/sturdy-octo-tribble"><b>https-example/sturdy-octo-tribble</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">12</td>
 <td><img src="https://github.com/sweetypieredhulk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sweetypieredhulk/sweetypieredhulk"><b>sweetypieredhulk/sweetypieredhulk</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -101,7 +115,7 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 0 stars; 10 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 0 stars; 12 attributed candidates are tracked.
 - 3 entries were carried over from the previous dataset and are pending revalidation.
 - 52 multi-repository owners are queued for expansion.
 - **Location discovery:** term 4 of 34 in round 1.

@@ -43,7 +43,7 @@
 </tr>
 <tr>
 <td align="right">3</td>
-<td><a href="https://github.com/szabgab"><img src="https://avatars.githubusercontent.com/u/48833?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/szabgab"><b>Gábor Szabó</b></a><br><sub>&#64;szabgab · 730 followers</sub></td>
+<td><a href="https://github.com/szabgab"><img src="https://avatars.githubusercontent.com/u/48833?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/szabgab"><b>Gábor Szabó</b></a><br><sub>&#64;szabgab · 732 followers</sub></td>
 <td align="right"><b>5,052</b></td>
 <td align="right">4,545</td>
 <td align="right">213</td>
@@ -138,7 +138,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 12 of 541 discovered developers (529 awaiting measurement).
+- **Measured:** 12 of 563 discovered developers (551 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 150 in round 1.

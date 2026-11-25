@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"CK","name":"Cook Islands","slug":"cook-islands"},
-"count": 30,
+"count": 29,
 "repositories": [
-  {"name":"Freakybob-Team-Games/MurderBob","stars":3,"forks":0,"language":"Java","archived":false,"createdAt":"2024-12-07T02:45:15Z","pushedAt":"2025-03-01T14:09:17Z","owner":{"login":"Freakybob-Team-Games","type":"Organization","name":"Freakybob Team Games","location":"Cook Islands"},"attribution":{"code":"CK","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T16:32:23.797Z","id":"legacy:freakybob-team-games/murderbob","legacy":true},
   {"name":"tumunu/tumunu-brains","stars":1,"forks":1,"language":"Rust","archived":false,"createdAt":"2025-07-18T05:08:25Z","pushedAt":"2025-08-02T04:22:47Z","owner":{"login":"tumunu","type":"User","name":"Tumunu Collective","location":"Rarotonga, Cook Islands · Wellington, NZ"},"attribution":{"code":"CK","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-25T16:32:23.797Z","id":"legacy:tumunu/tumunu-brains","legacy":true},
   {"name":"0xOptimusPrime/cas","stars":1,"forks":0,"archived":false,"createdAt":"2023-12-23T16:57:43Z","pushedAt":"2023-12-23T16:57:43Z","owner":{"login":"0xOptimusPrime","type":"User","name":"season911szymonimessi","location":"Avarua"},"attribution":{"code":"CK","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-25T16:32:23.797Z","id":"legacy:0xoptimusprime/cas","legacy":true},
   {"name":"hilpert51566/kohana-storage","stars":1,"forks":0,"language":"Ruby","archived":false,"createdAt":"2017-06-01T06:21:28Z","pushedAt":"2017-06-20T17:04:40Z","owner":{"login":"hilpert51566","type":"User","name":"Garfield Hilpert","location":"Cook Islands"},"attribution":{"code":"CK","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T16:32:23.797Z","id":"legacy:hilpert51566/kohana-storage","legacy":true},

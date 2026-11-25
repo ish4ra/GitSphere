@@ -5,7 +5,7 @@
 "country": {"code":"SZ","name":"Eswatini","slug":"eswatini"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":150,"candidates":140,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":36,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":149,"candidates":140,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":36,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"TheFaro.github.io","nameWithOwner":"TheFaro/TheFaro.github.io","url":"https://github.com/TheFaro/TheFaro.github.io","description":null,"stars":2,"forks":2,"primaryLanguage":"JavaScript","license":null,"createdAt":"2021-05-28T16:44:25Z","pushedAt":"2023-05-14T20:25:53Z","archived":false,"owner":{"login":"TheFaro","name":"Fanelesibonge Malaza","type":"User","url":"https://github.com/TheFaro","location":"Mbabane, Eswatini","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"binance-spot","nameWithOwner":"0xSP4C3/binance-spot","url":"https://github.com/0xSP4C3/binance-spot","description":null,"stars":2,"forks":1,"primaryLanguage":"Python","license":null,"createdAt":"2022-06-06T16:20:53Z","pushedAt":"2022-06-17T09:20:58Z","archived":false,"owner":{"login":"0xSP4C3","name":"0xSP4C3","type":"Organization","url":"https://github.com/0xSP4C3","location":"Swaziland","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Bonginkosi16","nameWithOwner":"Bonginkosi16/Bonginkosi16","url":"https://github.com/Bonginkosi16/Bonginkosi16","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2022-03-26T23:15:45Z","pushedAt":"2022-03-27T15:34:14Z","archived":false,"owner":{"login":"Bonginkosi16","name":"Nkambule Bonginkosi","type":"User","url":"https://github.com/Bonginkosi16","location":"Eswatini","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Khokha","nameWithOwner":"Buhlebethu-Mkhonta/Khokha","url":"https://github.com/Buhlebethu-Mkhonta/Khokha","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":{"spdxId":"MIT"},"createdAt":"2025-10-11T18:52:58Z","pushedAt":"2025-11-19T12:57:35Z","archived":false,"owner":{"login":"Buhlebethu-Mkhonta","name":"Buhlebethu Mkhonta","type":"User","url":"https://github.com/Buhlebethu-Mkhonta","location":"Eswatini","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "12aac5aa747cba00",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "c39ef2fc9b5a4220",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **21** | 22 Nov 2026 | <a href="../../data/developers/EC.json">JSON</a> |
+| 🟡 Provisional | **22** | 22 Nov 2026 | <a href="../../data/developers/EC.json">JSON</a> |
 
 </div>
 
@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/Darkmux"><img src="https://avatars.githubusercontent.com/u/61121158?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Darkmux"><b>Darkmux</b></a><br><sub>&#64;Darkmux</sub></td>
-<td align="right"><b>1,542</b></td>
+<td align="right"><b>1,544</b></td>
 <td align="right">48</td>
 <td><sub>Ecuador</sub></td>
 </tr>
@@ -66,7 +66,7 @@
 <tr>
 <td align="right">7</td>
 <td><a href="https://github.com/asantibanez"><img src="https://avatars.githubusercontent.com/u/5126648?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asantibanez"><b>Andrés Santibáñez</b></a><br><sub>&#64;asantibanez</sub></td>
-<td align="right"><b>514</b></td>
+<td align="right"><b>515</b></td>
 <td align="right">62</td>
 <td><sub>Guayaquil, Ecuador</sub></td>
 </tr>
@@ -135,34 +135,41 @@
 </tr>
 <tr>
 <td align="right">17</td>
+<td><a href="https://github.com/r1vs3c"><img src="https://avatars.githubusercontent.com/u/80863982?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/r1vs3c"><b>r1vs3c</b></a><br><sub>&#64;r1vs3c</sub></td>
+<td align="right"><b>97</b></td>
+<td align="right">3</td>
+<td><sub>Ecuador</sub></td>
+</tr>
+<tr>
+<td align="right">18</td>
 <td><a href="https://github.com/bayasdev"><img src="https://avatars.githubusercontent.com/u/49411169?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bayasdev"><b>Victor Bayas</b></a><br><sub>&#64;bayasdev</sub></td>
 <td align="right"><b>96</b></td>
 <td align="right">0</td>
 <td><sub>Quito</sub></td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">19</td>
 <td><a href="https://github.com/vargasjona"><img src="https://avatars.githubusercontent.com/u/23468720?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vargasjona"><b>Jonathan Vargas</b></a><br><sub>&#64;vargasjona</sub></td>
 <td align="right"><b>86</b></td>
 <td align="right">0</td>
 <td><sub>Quito, Ecuador</sub></td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">20</td>
 <td><a href="https://github.com/Eddycrack864"><img src="https://avatars.githubusercontent.com/u/89285504?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Eddycrack864"><b>Eddycrack 864</b></a><br><sub>&#64;Eddycrack864</sub></td>
 <td align="right"><b>66</b></td>
 <td align="right">0</td>
 <td><sub>Guayaquil, Ecuador</sub></td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">21</td>
 <td><a href="https://github.com/AngelJumbo"><img src="https://avatars.githubusercontent.com/u/31261193?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AngelJumbo"><b>AngelJumbo</b></a><br><sub>&#64;AngelJumbo</sub></td>
 <td align="right"><b>32</b></td>
 <td align="right">0</td>
 <td><sub>Ecuador</sub></td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">22</td>
 <td><a href="https://github.com/Carlos487"><img src="https://avatars.githubusercontent.com/u/1598555?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Carlos487"><b>Carlos Fabara</b></a><br><sub>&#64;Carlos487</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">0</td>
@@ -176,7 +183,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 21 attributed developers are tracked; the cutoff is 24 followers.
+- Organizations are excluded. 22 attributed developers are tracked; the cutoff is 24 followers.
 - **Location discovery:** term 0 of 117 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

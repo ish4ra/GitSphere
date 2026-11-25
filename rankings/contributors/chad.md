@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/TD.json">JSON</a> |
+| 🟡 Provisional | **12** | 22 Nov 2026 | <a href="../../data/contributors/TD.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,15 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/Helionux"><img src="https://avatars.githubusercontent.com/u/161780751?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Helionux"><b>Deoule-Allah Madjitoloum Heliodore</b></a><br><sub>&#64;Helionux · 220 followers</sub></td>
+<td align="right"><b>172</b></td>
+<td align="right">139</td>
+<td align="right">5</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/Djerade"><img src="https://avatars.githubusercontent.com/u/70259653?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Djerade"><b>Djeradé Golbé Parfait</b></a><br><sub>&#64;Djerade · 8 followers</sub></td>
 <td align="right"><b>125</b></td>
 <td align="right">106</td>
@@ -51,7 +60,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/abelmohsinmahamat-crypto"><img src="https://avatars.githubusercontent.com/u/266070729?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abelmohsinmahamat-crypto"><b>ABDELMOHSIN MAHAMAT</b></a><br><sub>&#64;abelmohsinmahamat-crypto · 1 followers</sub></td>
 <td align="right"><b>117</b></td>
 <td align="right">61</td>
@@ -60,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/Kakaymi10"><img src="https://avatars.githubusercontent.com/u/109428479?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kakaymi10"><b>Moussa</b></a><br><sub>&#64;Kakaymi10 · 58 followers</sub></td>
 <td align="right"><b>25</b></td>
 <td align="right">18</td>
@@ -69,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/malachieborohoul"><img src="https://avatars.githubusercontent.com/u/80067657?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/malachieborohoul"><b>BOROHOUL Soguelni Malachie</b></a><br><sub>&#64;malachieborohoul · 14 followers</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">8</td>
@@ -78,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/AliMoussa10"><img src="https://avatars.githubusercontent.com/u/138847373?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AliMoussa10"><b>AliMoussa10</b></a><br><sub>&#64;AliMoussa10 · 5 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">4</td>
@@ -87,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/aguidiweidegue"><img src="https://avatars.githubusercontent.com/u/65353760?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aguidiweidegue"><b>Aguidi Weidegue Tabah</b></a><br><sub>&#64;aguidiweidegue · 1 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">2</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/abdoulayeibniabdoulayemahamat"><img src="https://avatars.githubusercontent.com/u/306742997?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdoulayeibniabdoulayemahamat"><b>Abdoulaye Ibni Abdoulaye Mahamat</b></a><br><sub>&#64;abdoulayeibniabdoulayemahamat · 0 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">2</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/01Hassa"><img src="https://avatars.githubusercontent.com/u/142748244?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/01Hassa"><b>Hassa</b></a><br><sub>&#64;01Hassa · 0 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
@@ -114,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/mahamat-ali"><img src="https://avatars.githubusercontent.com/u/17354297?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mahamat-ali"><b>Mahamat Ali Youssouf</b></a><br><sub>&#64;mahamat-ali · 11 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
@@ -129,7 +138,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 17 of 163 discovered developers (146 awaiting measurement).
+- **Measured:** 18 of 163 discovered developers (145 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 1 of 74 in round 1.

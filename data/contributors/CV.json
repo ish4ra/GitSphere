@@ -5,7 +5,7 @@
 "country": {"code":"CV","name":"Cape Verde","slug":"cape-verde"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":420,"measuredAccounts":17,"measurementBacklog":403,"window":{"from":"2025-11-25T04:00:00Z","to":"2026-11-25T04:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":120,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":421,"measuredAccounts":18,"measurementBacklog":403,"window":{"from":"2025-11-25T04:00:00Z","to":"2026-11-25T04:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":120,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjI2NjI3NQ==","login":"Gonzih","name":"Maksim Soltan","url":"https://github.com/Gonzih","avatarUrl":"https://avatars.githubusercontent.com/u/266275?s=80&v=4","followers":210,"publicRepos":453,"location":"SF, CA","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-25","contributions":{"public":3280,"commits":2336,"pullRequests":816,"reviews":6,"issues":71,"repositories":50,"windowFrom":"2025-11-25T04:00:00Z","windowTo":"2026-11-25T04:00:00Z","measuredOn":"2026-11-25"}},
   {"rank":2,"id":"MDQ6VXNlcjYzMDczMDU2","login":"anaximeno","name":"Anaxímeno Brito","url":"https://github.com/anaximeno","avatarUrl":"https://avatars.githubusercontent.com/u/63073056?s=80&v=4","followers":23,"publicRepos":82,"location":"Cabo Verde","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":523,"commits":425,"pullRequests":68,"reviews":8,"issues":12,"repositories":7,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
@@ -22,8 +22,8 @@
   {"rank":13,"id":"MDQ6VXNlcjM5NDc5NjM1","login":"Pavankunchala","name":"Pavan Kunchala","url":"https://github.com/Pavankunchala","avatarUrl":"https://avatars.githubusercontent.com/u/39479635?s=80&v=4","followers":291,"publicRepos":68,"location":"SF, CA","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-24","contributions":{"public":2,"commits":0,"pullRequests":2,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":14,"id":"MDQ6VXNlcjcxNjYxNTUx","login":"hacles100","name":"Héricles","url":"https://github.com/hacles100","avatarUrl":"https://avatars.githubusercontent.com/u/71661551?s=80&v=4","followers":22,"publicRepos":64,"location":"Cabo Verde","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T21:00:00Z","windowTo":"2026-11-24T21:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "345d13efd8410e14",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "15a5a10c1d46442b",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

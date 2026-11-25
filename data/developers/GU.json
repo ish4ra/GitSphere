@@ -5,7 +5,7 @@
 "country": {"code":"GU","name":"Guam","slug":"guam"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":179,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":34,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":179,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":34,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjY2OTE3OTgw","login":"cshellz","name":"Antara","url":"https://github.com/cshellz","avatarUrl":"https://avatars.githubusercontent.com/u/66917980?s=80&v=4","followers":218,"publicRepos":11,"location":"Marianas Trench, Guam","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"U_kgDOBXZoSw","login":"ReyBan82","name":"Renante B Baniaga","url":"https://github.com/ReyBan82","avatarUrl":"https://avatars.githubusercontent.com/u/91646027?s=80&v=4","followers":67,"publicRepos":147,"location":"Guam, United, States","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
@@ -60,7 +60,7 @@
   {"rank":51,"id":"U_kgDOCPkFCg","login":"erikadoup","name":"E","url":"https://github.com/erikadoup","avatarUrl":"https://avatars.githubusercontent.com/u/150537482?s=80&v=4","followers":1,"publicRepos":0,"location":"Guam","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":52,"id":"MDQ6VXNlcjIwOTgxMjE0","login":"IanSimoriah","name":"Ian","url":"https://github.com/IanSimoriah","avatarUrl":"https://avatars.githubusercontent.com/u/20981214?s=80&v=4","followers":1,"publicRepos":0,"location":"Guam","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":53,"id":"MDQ6VXNlcjIyODE0NjYx","login":"VentureGuam","name":"Andrea Naomi","url":"https://github.com/VentureGuam","avatarUrl":"https://avatars.githubusercontent.com/u/22814661?s=80&v=4","followers":1,"publicRepos":0,"location":"Guam","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
-  {"rank":54,"id":"U_kgDODUcATQ","login":"LloydBurris985","name":"Lloyd Burris","url":"https://github.com/LloydBurris985","avatarUrl":"https://avatars.githubusercontent.com/u/222756941?s=80&v=4","followers":0,"publicRepos":16,"location":"Guam","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":54,"id":"U_kgDODUcATQ","login":"LloydBurris985","name":"Lloyd Burris","url":"https://github.com/LloydBurris985","avatarUrl":"https://avatars.githubusercontent.com/u/222756941?s=80&v=4","followers":0,"publicRepos":16,"location":"Guam","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
   {"rank":55,"id":"U_kgDOC_SAFQ","login":"mfmitchell24","name":"Mfalmog","url":"https://github.com/mfmitchell24","avatarUrl":"https://avatars.githubusercontent.com/u/200572949?s=80&v=4","followers":0,"publicRepos":16,"location":"Guam","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":56,"id":"MDQ6VXNlcjUxMDU2ODU=","login":"lujangeo","name":"lujangeo","url":"https://github.com/lujangeo","avatarUrl":"https://avatars.githubusercontent.com/u/5105685?s=80&v=4","followers":0,"publicRepos":14,"location":"Guam","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":57,"id":"MDQ6VXNlcjMwODUwODQw","login":"Gmfrey","name":"Garrett","url":"https://github.com/Gmfrey","avatarUrl":"https://avatars.githubusercontent.com/u/30850840?s=80&v=4","followers":0,"publicRepos":11,"location":"Wish I was in Guam.","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
@@ -187,8 +187,8 @@
   {"rank":178,"id":"U_kgDOBtZW6A","login":"WERI-GHS","name":"Guam Hydrologic Survey","url":"https://github.com/WERI-GHS","avatarUrl":"https://avatars.githubusercontent.com/u/114710248?s=80&v=4","followers":0,"publicRepos":0,"location":"Guam","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":179,"id":"MDQ6VXNlcjUyODUwODg=","login":"xXIOSGAMERXx","name":"Kurt Cayabyab","url":"https://github.com/xXIOSGAMERXx","avatarUrl":"https://avatars.githubusercontent.com/u/5285088?s=80&v=4","followers":0,"publicRepos":0,"location":"Guam","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "2cbcc786a6fdc760",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "1d5ff13fa7985843",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

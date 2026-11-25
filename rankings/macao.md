@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../data/MO.json">JSON</a> |
+| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../data/MO.json">JSON</a> |
 
 </div>
 
@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/spiritLHLS.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spiritLHLS/ecs"><b>spiritLHLS/ecs</b></a><br><sub>VPS 融合怪服务器测评脚本 —— 更推荐使用无环境依赖的 Go 版本：https://github.com/oneclickvirt/ecs VPS Fusion Monster Server Test Script — we now…</sub></td>
-<td align="right"><b>7,318</b></td>
+<td align="right"><b>7,334</b></td>
 <td align="right">558</td>
 <td>Shell</td>
 </tr>
@@ -77,6 +77,13 @@
 <td align="right">50</td>
 <td>HTML</td>
 </tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/spiritLHLS.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spiritLHLS/one-click-installation-script"><b>spiritLHLS/one-click-installation-script</b></a><br><sub>一键修复与安装脚本(各种linux系统修复与服务器环境安装脚本) One-click repair and installation scripts (various linux system repair and server envi…</sub></td>
+<td align="right"><b>560</b></td>
+<td align="right">73</td>
+<td>Shell</td>
+</tr>
 </tbody>
 </table>
 
@@ -85,8 +92,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 573 stars; 8 attributed candidates are tracked.
-- 107 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 560 stars; 9 attributed candidates are tracked.
+- 99 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 16 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -25,7 +25,7 @@
 <td align="right">1</td>
 <td><a href="https://github.com/dolotech"><img src="https://avatars.githubusercontent.com/u/1314793?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dolotech"><b>photo</b></a><br><sub>&#64;dolotech</sub></td>
 <td align="right"><b>185</b></td>
-<td align="right">89</td>
+<td align="right">91</td>
 <td><sub>photo</sub></td>
 </tr>
 <tr>

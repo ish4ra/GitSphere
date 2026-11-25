@@ -61,7 +61,7 @@
 </tr>
 <tr>
 <td align="right">5</td>
-<td><a href="https://github.com/toniblyx"><img src="https://avatars.githubusercontent.com/u/3985464?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/toniblyx"><b>Toni de la Fuente</b></a><br><sub>&#64;toniblyx · 855 followers</sub></td>
+<td><a href="https://github.com/toniblyx"><img src="https://avatars.githubusercontent.com/u/3985464?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/toniblyx"><b>Toni de la Fuente</b></a><br><sub>&#64;toniblyx · 856 followers</sub></td>
 <td align="right"><b>40</b></td>
 <td align="right">13</td>
 <td align="right">18</td>

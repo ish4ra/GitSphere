@@ -37,7 +37,7 @@
   {"rank":28,"id":"MDQ6VXNlcjMyMjAyMjQz","login":"khushwanth","name":"Khusant Chhetri","url":"https://github.com/khushwanth","avatarUrl":"https://avatars.githubusercontent.com/u/32202243?s=80&v=4","followers":16,"publicRepos":12,"location":"Thimphu, Bhutan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":29,"id":"MDQ6VXNlcjU4OTAzNzc5","login":"tashi-dhendup","name":"Tashi Dhendup","url":"https://github.com/tashi-dhendup","avatarUrl":"https://avatars.githubusercontent.com/u/58903779?s=80&v=4","followers":16,"publicRepos":5,"location":"Bhutan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":30,"id":"MDQ6VXNlcjYzMDA1MDc0","login":"sangaywangchuk","name":"Sangay Wangchuk","url":"https://github.com/sangaywangchuk","avatarUrl":"https://avatars.githubusercontent.com/u/63005074?s=80&v=4","followers":15,"publicRepos":23,"location":"Bhutan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":31,"id":"MDQ6VXNlcjUzNjEyMjEx","login":"Ugyenjigmerangdrel","name":"Ugyen Jigme Rangdrel","url":"https://github.com/Ugyenjigmerangdrel","avatarUrl":"https://avatars.githubusercontent.com/u/53612211?s=80&v=4","followers":14,"publicRepos":44,"location":"Bhutan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":31,"id":"MDQ6VXNlcjUzNjEyMjEx","login":"Ugyenjigmerangdrel","name":"Ugyen Jigme Rangdrel","url":"https://github.com/Ugyenjigmerangdrel","avatarUrl":"https://avatars.githubusercontent.com/u/53612211?s=80&v=4","followers":14,"publicRepos":44,"location":"Bhutan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
   {"rank":32,"id":"MDQ6VXNlcjgwMDkwNTIx","login":"Thinley-bot","name":"thinley norbu","url":"https://github.com/Thinley-bot","avatarUrl":"https://avatars.githubusercontent.com/u/80090521?s=80&v=4","followers":14,"publicRepos":10,"location":"Bhutan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":33,"id":"MDQ6VXNlcjQ4ODY0NzY=","login":"imthatgin","name":"gin","url":"https://github.com/imthatgin","avatarUrl":"https://avatars.githubusercontent.com/u/4886476?s=80&v=4","followers":14,"publicRepos":7,"location":"Bhutan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":34,"id":"U_kgDOCG2OPA","login":"Puru54","name":"caffinecoder","url":"https://github.com/Puru54","avatarUrl":"https://avatars.githubusercontent.com/u/141397564?s=80&v=4","followers":13,"publicRepos":41,"location":"Thimphu,Bhutan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
@@ -589,8 +589,8 @@
   {"rank":580,"id":"U_kgDOCZ0RvA","login":"younten-dk","name":"Younten Jamtsho","url":"https://github.com/younten-dk","avatarUrl":"https://avatars.githubusercontent.com/u/161288636?s=80&v=4","followers":0,"publicRepos":0,"location":"Thimphu, Bhutan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-25"},
   {"rank":581,"id":"U_kgDODqasBA","login":"zeendeen1992","name":"Ugyen Tenzin","url":"https://github.com/zeendeen1992","avatarUrl":"https://avatars.githubusercontent.com/u/245804036?s=80&v=4","followers":0,"publicRepos":0,"location":"Samtse Bhutan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "515b0020d2bbceb8",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "a197fee97920c181",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

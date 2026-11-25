@@ -24,22 +24,22 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/MunGell.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MunGell/awesome-for-beginners"><b>MunGell/awesome-for-beginners</b></a><br><sub>A list of awesome beginners-friendly projects.</sub></td>
-<td align="right"><b>91,664</b></td>
+<td align="right"><b>91,771</b></td>
 <td align="right">8,070</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/tashfeenahmed.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tashfeenahmed/freellmapi"><b>tashfeenahmed/freellmapi</b></a><br><sub>10.1 billion tokens per month. 87 free LLM providers. 1,313 free model endpoints. All behind one /v1 endpoint, plus any…</sub></td>
-<td align="right"><b>56,403</b></td>
-<td align="right">8,048</td>
+<td align="right"><b>58,179</b></td>
+<td align="right">8,351</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/pbatard.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pbatard/rufus"><b>pbatard/rufus</b></a><br><sub>The Reliable USB Formatting Utility</sub></td>
-<td align="right"><b>38,458</b></td>
-<td align="right">3,214</td>
+<td align="right"><b>38,498</b></td>
+<td align="right">3,219</td>
 <td>C</td>
 </tr>
 <tr>
@@ -52,29 +52,29 @@
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/cesanta.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cesanta/mongoose"><b>cesanta/mongoose</b></a><br><sub>Embedded web server, with TCP/IP network stack, MQTT and Websocket</sub></td>
-<td align="right"><b>13,147</b></td>
-<td align="right">2,959</td>
+<td align="right"><b>13,152</b></td>
+<td align="right">2,960</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/ttroy50.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ttroy50/cmake-examples"><b>ttroy50/cmake-examples</b></a><br><sub>Useful CMake Examples</sub></td>
-<td align="right"><b>13,071</b></td>
-<td align="right">2,512</td>
+<td align="right"><b>13,074</b></td>
+<td align="right">2,511</td>
 <td>CMake</td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/inversify.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/inversify/InversifyJS"><b>inversify/InversifyJS</b></a><br><sub>Powerful and lightweight inversion of control container. Moved to https://github.com/inversify/monorepo</sub></td>
-<td align="right"><b>12,050</b></td>
+<td align="right"><b>12,044</b></td>
 <td align="right">707</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/miguelgrinberg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/miguelgrinberg/flasky"><b>miguelgrinberg/flasky</b></a><br><sub>Companion code to my O&#39;Reilly book &quot;Flask Web Development&quot;, second edition.</sub></td>
-<td align="right"><b>8,724</b></td>
-<td align="right">4,246</td>
+<td align="right"><b>8,725</b></td>
+<td align="right">4,245</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -87,42 +87,42 @@
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/goenning.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/goenning/google-indexing-script"><b>goenning/google-indexing-script</b></a><br><sub>Script to get your site indexed on Google in less than 48 hours</sub></td>
-<td align="right"><b>7,725</b></td>
+<td align="right"><b>7,723</b></td>
 <td align="right">553</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/purcell.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/purcell/emacs.d"><b>purcell/emacs.d</b></a><br><sub>An Emacs configuration bundle with batteries included</sub></td>
-<td align="right"><b>7,077</b></td>
-<td align="right">2,036</td>
+<td align="right"><b>7,076</b></td>
+<td align="right">2,034</td>
 <td>Emacs Lisp</td>
 </tr>
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/techfort.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/techfort/LokiJS"><b>techfort/LokiJS</b></a><br><sub>javascript embeddable / in-memory database</sub></td>
-<td align="right"><b>6,817</b></td>
+<td align="right"><b>6,816</b></td>
 <td align="right">476</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">13</td>
 <td><img src="https://github.com/arp242.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arp242/goatcounter"><b>arp242/goatcounter</b></a><br><sub>Easy web analytics. No tracking of personal data.</sub></td>
-<td align="right"><b>6,184</b></td>
+<td align="right"><b>6,189</b></td>
 <td align="right">288</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/miguelgrinberg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/miguelgrinberg/Flask-SocketIO"><b>miguelgrinberg/Flask-SocketIO</b></a><br><sub>Socket.IO integration for Flask applications.</sub></td>
-<td align="right"><b>5,504</b></td>
+<td align="right"><b>5,505</b></td>
 <td align="right">903</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/Tapadoo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Tapadoo/Alerter"><b>Tapadoo/Alerter</b></a><br><sub>An Android Alerting Library</sub></td>
-<td align="right"><b>5,501</b></td>
+<td align="right"><b>5,502</b></td>
 <td align="right">626</td>
 <td>Kotlin</td>
 </tr>
@@ -136,50 +136,50 @@
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/ministackorg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ministackorg/ministack"><b>ministackorg/ministack</b></a><br><sub>Ministack: Free, open-source local AWS emulator - 60+ services, Terraform compatible, real databases. Free forever. MIT…</sub></td>
-<td align="right"><b>5,179</b></td>
-<td align="right">555</td>
+<td align="right"><b>5,182</b></td>
+<td align="right">553</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">18</td>
 <td><img src="https://github.com/cpq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cpq/bare-metal-programming-guide"><b>cpq/bare-metal-programming-guide</b></a><br><sub>A bare metal programming guide (ARM microcontrollers)</sub></td>
-<td align="right"><b>5,059</b></td>
-<td align="right">465</td>
+<td align="right"><b>5,071</b></td>
+<td align="right">466</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">19</td>
 <td><img src="https://github.com/miguelgrinberg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/miguelgrinberg/microblog"><b>miguelgrinberg/microblog</b></a><br><sub>The microblogging application developed in my Flask Mega-Tutorial series. This version maps to the 2024 Edition of the…</sub></td>
 <td align="right"><b>4,771</b></td>
-<td align="right">1,739</td>
+<td align="right">1,746</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">20</td>
 <td><img src="https://github.com/witnessmenow.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display"><b>witnessmenow/ESP32-Cheap-Yellow-Display</b></a><br><sub>Building a community around a cheap ESP32 Display with a touch screen</sub></td>
-<td align="right"><b>4,638</b></td>
-<td align="right">475</td>
+<td align="right"><b>4,645</b></td>
+<td align="right">476</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/tmoroney.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tmoroney/auto-subs"><b>tmoroney/auto-subs</b></a><br><sub>On-device subtitle generation that connects directly to DaVinci Resolve, Premiere, and After Effects.</sub></td>
-<td align="right"><b>4,600</b></td>
-<td align="right">333</td>
+<td align="right"><b>4,616</b></td>
+<td align="right">335</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">22</td>
 <td><img src="https://github.com/miguelgrinberg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/miguelgrinberg/python-socketio"><b>miguelgrinberg/python-socketio</b></a><br><sub>Mirror of https://code.miguelgrinberg.com/miguelgrinberg/python-socketio</sub></td>
-<td align="right"><b>4,371</b></td>
+<td align="right"><b>4,372</b></td>
 <td align="right">625</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">23</td>
 <td><img src="https://github.com/HiEventsDev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HiEventsDev/Hi.Events"><b>HiEventsDev/Hi.Events</b></a><br><sub>Open-source event management and ticket selling platform — perfect for concerts, conferences, and everything in between…</sub></td>
-<td align="right"><b>4,197</b></td>
-<td align="right">759</td>
+<td align="right"><b>4,201</b></td>
+<td align="right">760</td>
 <td>PHP</td>
 </tr>
 <tr>

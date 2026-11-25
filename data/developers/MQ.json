@@ -9,7 +9,7 @@
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjI3MzE=","login":"diasjorge","name":"Jorge Dias","url":"https://github.com/diasjorge","avatarUrl":"https://avatars.githubusercontent.com/u/2731?s=80&v=4","followers":86,"publicRepos":157,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":"MDQ6VXNlcjcyMTU1","login":"bolom","name":"Bolo Michelin","url":"https://github.com/bolom","avatarUrl":"https://avatars.githubusercontent.com/u/72155?s=80&v=4","followers":34,"publicRepos":32,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
-  {"rank":3,"id":"MDQ6VXNlcjE2NjM0NTkw","login":"blazux","name":"Vincent B.","url":"https://github.com/blazux","avatarUrl":"https://avatars.githubusercontent.com/u/16634590?s=80&v=4","followers":24,"publicRepos":13,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":3,"id":"MDQ6VXNlcjE2NjM0NTkw","login":"blazux","name":"Vincent B.","url":"https://github.com/blazux","avatarUrl":"https://avatars.githubusercontent.com/u/16634590?s=80&v=4","followers":23,"publicRepos":13,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
   {"rank":4,"id":"MDQ6VXNlcjQ5OTEyODQ0","login":"giovanny972","name":"giovanny adelaide","url":"https://github.com/giovanny972","avatarUrl":"https://avatars.githubusercontent.com/u/49912844?s=80&v=4","followers":17,"publicRepos":40,"location":"martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":5,"id":"MDQ6VXNlcjkyMDY2NDg=","login":"jsrdescamps","name":"Julien Descamps","url":"https://github.com/jsrdescamps","avatarUrl":"https://avatars.githubusercontent.com/u/9206648?s=80&v=4","followers":14,"publicRepos":3,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":6,"id":"U_kgDOBjYLOw","login":"steeven-js","name":"steeven_js","url":"https://github.com/steeven-js","avatarUrl":"https://avatars.githubusercontent.com/u/104205115?s=80&v=4","followers":14,"publicRepos":0,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
@@ -178,8 +178,8 @@
   {"rank":169,"id":"U_kgDOBr9wtg","login":"synephub","name":"SynepHub","url":"https://github.com/synephub","avatarUrl":"https://avatars.githubusercontent.com/u/113209526?s=80&v=4","followers":0,"publicRepos":0,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":170,"id":"U_kgDOEmRNWQ","login":"vduchamp","name":"Valentin DUCHAMP","url":"https://github.com/vduchamp","avatarUrl":"https://avatars.githubusercontent.com/u/308563289?s=80&v=4","followers":0,"publicRepos":0,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "946b11ec565236e2",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "05c7f669813f2443",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

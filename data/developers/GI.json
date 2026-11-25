@@ -5,10 +5,10 @@
 "country": {"code":"GI","name":"Gibraltar","slug":"gibraltar"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":273,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":14,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":273,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":14,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjQ5OTIy","login":"miohtama","name":"Mikko Ohtamaa","url":"https://github.com/miohtama","avatarUrl":"https://avatars.githubusercontent.com/u/49922?s=80&v=4","followers":576,"publicRepos":356,"location":"Gibraltar","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
-  {"rank":2,"id":"MDQ6VXNlcjEwNjAxOTEx","login":"PeterKottas","name":"Peter Kottas","url":"https://github.com/PeterKottas","avatarUrl":"https://avatars.githubusercontent.com/u/10601911?s=80&v=4","followers":86,"publicRepos":43,"location":"Gibraltar","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":2,"id":"MDQ6VXNlcjEwNjAxOTEx","login":"PeterKottas","name":"Peter Kottas","url":"https://github.com/PeterKottas","avatarUrl":"https://avatars.githubusercontent.com/u/10601911?s=80&v=4","followers":86,"publicRepos":43,"location":"Gibraltar","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
   {"rank":3,"id":"MDQ6VXNlcjMzMTc=","login":"Industrial","name":"Tom Wieland","url":"https://github.com/Industrial","avatarUrl":"https://avatars.githubusercontent.com/u/3317?s=80&v=4","followers":70,"publicRepos":91,"location":"Gibraltar","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":4,"id":"U_kgDODO8JIQ","login":"sloancameron","name":"valley / bernadette","url":"https://github.com/sloancameron","avatarUrl":"https://avatars.githubusercontent.com/u/216992033?s=80&v=4","followers":42,"publicRepos":0,"location":"watchpoint gibraltar","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":5,"id":"U_kgDOCtkp1A","login":"docziegler","name":"star","url":"https://github.com/docziegler","avatarUrl":"https://avatars.githubusercontent.com/u/182004180?s=80&v=4","followers":34,"publicRepos":2,"location":"watchpoint gibraltar","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
@@ -31,7 +31,7 @@
   {"rank":22,"id":"U_kgDOB3XTNQ","login":"crpol","name":"Cesar Rosa Polanco","url":"https://github.com/crpol","avatarUrl":"https://avatars.githubusercontent.com/u/125162293?s=80&v=4","followers":10,"publicRepos":2,"location":"Gibraltar","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":23,"id":"MDQ6VXNlcjczNDQwMDUw","login":"sTevoFort","name":"Stephen Fortunato","url":"https://github.com/sTevoFort","avatarUrl":"https://avatars.githubusercontent.com/u/73440050?s=80&v=4","followers":9,"publicRepos":1,"location":"Gibraltar","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":24,"id":"MDQ6VXNlcjQ2NTE5Nzk5","login":"elitiumofficial","name":"Elitium","url":"https://github.com/elitiumofficial","avatarUrl":"https://avatars.githubusercontent.com/u/46519799?s=80&v=4","followers":8,"publicRepos":20,"location":"Gibraltar","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
-  {"rank":25,"id":"MDQ6VXNlcjIxMjkxNDg=","login":"dlicudi","name":"Duane Licudi","url":"https://github.com/dlicudi","avatarUrl":"https://avatars.githubusercontent.com/u/2129148?s=80&v=4","followers":5,"publicRepos":31,"location":"Gibraltar","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":25,"id":"MDQ6VXNlcjIxMjkxNDg=","login":"dlicudi","name":"Duane Licudi","url":"https://github.com/dlicudi","avatarUrl":"https://avatars.githubusercontent.com/u/2129148?s=80&v=4","followers":5,"publicRepos":31,"location":"Gibraltar","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
   {"rank":26,"id":"MDQ6VXNlcjY5MDg5NDk=","login":"mnunes01","name":"Mario Nunes","url":"https://github.com/mnunes01","avatarUrl":"https://avatars.githubusercontent.com/u/6908949?s=80&v=4","followers":5,"publicRepos":15,"location":"Gibraltar","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":27,"id":"MDQ6VXNlcjI1NjUzODM=","login":"ernestojpg","name":"Ernesto J. Perez Garcia","url":"https://github.com/ernestojpg","avatarUrl":"https://avatars.githubusercontent.com/u/2565383?s=80&v=4","followers":5,"publicRepos":13,"location":"Gibraltar","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":28,"id":"MDQ6VXNlcjg4NjQwNTI=","login":"dutchn0mad","name":"PJ","url":"https://github.com/dutchn0mad","avatarUrl":"https://avatars.githubusercontent.com/u/8864052?s=80&v=4","followers":5,"publicRepos":7,"location":"Gibraltar","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
@@ -281,8 +281,8 @@
   {"rank":272,"id":"U_kgDODQIsZw","login":"zaturnai","name":"Zaturn AI","url":"https://github.com/zaturnai","avatarUrl":"https://avatars.githubusercontent.com/u/218246247?s=80&v=4","followers":0,"publicRepos":0,"location":"Gibraltar","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":273,"id":"U_kgDODuz7-A","login":"ZB3Z-Gibraltar","name":"Steve","url":"https://github.com/ZB3Z-Gibraltar","avatarUrl":"https://avatars.githubusercontent.com/u/250412024?s=80&v=4","followers":0,"publicRepos":0,"location":"Gibraltar","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "ccc22a962ea32a00",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "189c6c0884e29345",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

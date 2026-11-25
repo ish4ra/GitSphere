@@ -1,8 +1,9 @@
 {
 "schemaVersion": 3,
 "country": {"code":"MQ","name":"Martinique","slug":"martinique"},
-"count": 111,
+"count": 112,
 "repositories": [
+  {"id":"R_kgDOUFiidg","name":"blazux/qwen3.8-Flash-DGX","stars":547,"forks":77,"language":"Python","license":"NOASSERTION","description":"recipe for running Qwen3.8-Flash-Next on a single DGX Spark","archived":false,"createdAt":"2026-08-27T02:29:15Z","pushedAt":"2026-11-16T01:39:30Z","owner":{"id":"MDQ6VXNlcjE2NjM0NTkw","login":"blazux","type":"User","name":"Vincent B.","location":"Martinique"},"attribution":{"code":"MQ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-25T14:29:24.976Z","verifiedAt":"2026-11-25T14:29:24.976Z","cycle":1},
   {"name":"anthonyrenard/infobam-fullstack-test","stars":2,"forks":12,"language":"TypeScript","archived":false,"createdAt":"2024-12-05T21:52:20Z","pushedAt":"2025-04-02T22:10:30Z","owner":{"login":"anthonyrenard","type":"User","name":"Anthony Renard","location":"Martinique"},"attribution":{"code":"MQ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:21:38.853Z","id":"legacy:anthonyrenard/infobam-fullstack-test","legacy":true},
   {"name":"jsrdescamps/jfractal","stars":2,"forks":1,"language":"JavaScript","license":"MIT","archived":false,"createdAt":"2015-06-08T06:42:45Z","pushedAt":"2019-02-01T18:59:56Z","owner":{"login":"jsrdescamps","type":"User","name":"Julien Descamps","location":"Martinique"},"attribution":{"code":"MQ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:21:38.853Z","id":"legacy:jsrdescamps/jfractal","legacy":true},
   {"name":"Jb-Analytics/snowflake-dbt-tpch-medallion","stars":2,"forks":0,"archived":false,"createdAt":"2026-04-12T08:41:53Z","pushedAt":"2026-05-12T09:28:33Z","owner":{"login":"Jb-Analytics","type":"User","name":"Célia JEAN-BART","location":"Martinique"},"attribution":{"code":"MQ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:21:38.853Z","id":"legacy:jb-analytics/snowflake-dbt-tpch-medallion","legacy":true},

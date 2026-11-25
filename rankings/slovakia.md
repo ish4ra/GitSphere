@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **53** | 22 Nov 2026 | <a href="../data/SK.json">JSON</a> |
+| 🟡 Provisional | **60** | 22 Nov 2026 | <a href="../data/SK.json">JSON</a> |
 
 </div>
 
@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/haad.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/haad/proxychains"><b>haad/proxychains</b></a><br><sub>proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or a…</sub></td>
-<td align="right"><b>7,998</b></td>
+<td align="right"><b>8,000</b></td>
 <td align="right">680</td>
 <td>C</td>
 </tr>
@@ -45,14 +45,14 @@
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/JakubVojvoda.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JakubVojvoda/design-patterns-cpp"><b>JakubVojvoda/design-patterns-cpp</b></a><br><sub>C++ Design Patterns</sub></td>
-<td align="right"><b>4,563</b></td>
-<td align="right">965</td>
+<td align="right"><b>4,561</b></td>
+<td align="right">964</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/totaljs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/totaljs/framework"><b>totaljs/framework</b></a><br><sub>Node.js framework</sub></td>
-<td align="right"><b>4,356</b></td>
+<td align="right"><b>4,354</b></td>
 <td align="right">436</td>
 <td>JavaScript</td>
 </tr>
@@ -392,6 +392,55 @@
 <td align="right">54</td>
 <td>—</td>
 </tr>
+<tr>
+<td align="right">54</td>
+<td><img src="https://github.com/bielikb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bielikb/xcframeworks"><b>bielikb/xcframeworks</b></a><br><sub>Demonstration of creating and integrating xcframeworks and their co-op with static libraries and Swift packages</sub></td>
+<td align="right"><b>554</b></td>
+<td align="right">47</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/JAndrassy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JAndrassy/ArduinoOTA"><b>JAndrassy/ArduinoOTA</b></a><br><sub>Arduino library to upload sketch over network to Arduino board with WiFi or Ethernet libraries</sub></td>
+<td align="right"><b>535</b></td>
+<td align="right">96</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><img src="https://github.com/SimpleMobileTools.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SimpleMobileTools/Simple-Voice-Recorder"><b>SimpleMobileTools/Simple-Voice-Recorder</b></a><br><sub>An easy way of recording any discussion or sounds without ads or internet access</sub></td>
+<td align="right"><b>534</b></td>
+<td align="right">153</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><img src="https://github.com/SimpleMobileTools.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SimpleMobileTools/Simple-Draw"><b>SimpleMobileTools/Simple-Draw</b></a><br><sub>A canvas you can draw on with different colors.</sub></td>
+<td align="right"><b>533</b></td>
+<td align="right">182</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><img src="https://github.com/DusanKasan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DusanKasan/Knapsack"><b>DusanKasan/Knapsack</b></a><br><sub>Collection pipeline library for PHP</sub></td>
+<td align="right"><b>532</b></td>
+<td align="right">59</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><img src="https://github.com/mareksuscak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mareksuscak/cs50"><b>mareksuscak/cs50</b></a><br><sub>🎓 Harvard CS50x — 2018 solutions 👨🏫</sub></td>
+<td align="right"><b>525</b></td>
+<td align="right">407</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><img src="https://github.com/web3coach.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/web3coach/the-blockchain-bar"><b>web3coach/the-blockchain-bar</b></a> <sub>archived</sub><br><sub>The source-code for: &quot;Build a Blockchain from Scratch in Go&quot; eBook.</sub></td>
+<td align="right"><b>522</b></td>
+<td align="right">185</td>
+<td>Go</td>
+</tr>
 </tbody>
 </table>
 
@@ -400,8 +449,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 576 stars; 53 attributed candidates are tracked.
-- 113 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 522 stars; 60 attributed candidates are tracked.
+- 112 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 150 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

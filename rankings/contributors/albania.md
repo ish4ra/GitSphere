@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/contributors/AL.json">JSON</a> |
+| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/AL.json">JSON</a> |
 
 </div>
 
@@ -25,7 +25,7 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><a href="https://github.com/deniscerri"><img src="https://avatars.githubusercontent.com/u/64997243?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/deniscerri"><b>Denis Çerri</b></a><br><sub>&#64;deniscerri · 734 followers</sub></td>
+<td><a href="https://github.com/deniscerri"><img src="https://avatars.githubusercontent.com/u/64997243?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/deniscerri"><b>Denis Çerri</b></a><br><sub>&#64;deniscerri · 738 followers</sub></td>
 <td align="right"><b>531</b></td>
 <td align="right">516</td>
 <td align="right">5</td>
@@ -97,7 +97,7 @@
 </tr>
 <tr>
 <td align="right">9</td>
-<td><a href="https://github.com/NiazMorshed2007"><img src="https://avatars.githubusercontent.com/u/77217706?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NiazMorshed2007"><b>Niaz Morshed</b></a><br><sub>&#64;NiazMorshed2007 · 193 followers</sub></td>
+<td><a href="https://github.com/NiazMorshed2007"><img src="https://avatars.githubusercontent.com/u/77217706?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NiazMorshed2007"><b>Niaz Morshed</b></a><br><sub>&#64;NiazMorshed2007 · 194 followers</sub></td>
 <td align="right"><b>29</b></td>
 <td align="right">24</td>
 <td align="right">2</td>
@@ -133,6 +133,15 @@
 </tr>
 <tr>
 <td align="right">13</td>
+<td><a href="https://github.com/adamyi"><img src="https://avatars.githubusercontent.com/u/5311091?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adamyi"><b>Adam Yi</b></a><br><sub>&#64;adamyi · 159 followers</sub></td>
+<td align="right"><b>9</b></td>
+<td align="right">3</td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">14</td>
 <td><a href="https://github.com/1klajdipriska"><img src="https://avatars.githubusercontent.com/u/47832393?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/1klajdipriska"><b>Klajdi Priska</b></a><br><sub>&#64;1klajdipriska · 0 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -147,7 +156,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 18 of 408 discovered developers (390 awaiting measurement).
+- **Measured:** 19 of 409 discovered developers (390 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 141 in round 1.

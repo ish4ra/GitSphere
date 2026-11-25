@@ -38,7 +38,7 @@
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/blazux"><img src="https://avatars.githubusercontent.com/u/16634590?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/blazux"><b>Vincent B.</b></a><br><sub>&#64;blazux</sub></td>
-<td align="right"><b>24</b></td>
+<td align="right"><b>23</b></td>
 <td align="right">13</td>
 <td><sub>Martinique</sub></td>
 </tr>

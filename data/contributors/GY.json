@@ -5,7 +5,7 @@
 "country": {"code":"GY","name":"Guyana","slug":"guyana"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":257,"measuredAccounts":12,"measurementBacklog":245,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":36,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":260,"measuredAccounts":13,"measurementBacklog":247,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":36,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjY2MTAwNjUy","login":"ktappdev","name":"Ken Andrew Taylor","url":"https://github.com/ktappdev","avatarUrl":"https://avatars.githubusercontent.com/u/66100652?s=80&v=4","followers":6,"publicRepos":136,"location":"Guyana","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":1540,"commits":1451,"pullRequests":14,"reviews":0,"issues":17,"repositories":57,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":2,"id":"MDQ6VXNlcjk1MzI1ODc=","login":"blackMastery","name":"kevon Cadogan","url":"https://github.com/blackMastery","avatarUrl":"https://avatars.githubusercontent.com/u/9532587?s=80&v=4","followers":7,"publicRepos":111,"location":"Guyana","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":627,"commits":606,"pullRequests":2,"reviews":0,"issues":0,"repositories":19,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
@@ -17,8 +17,8 @@
   {"rank":8,"id":"MDQ6VXNlcjE1MDAzNg==","login":"deonthomasgy","name":"Deon Thomas","url":"https://github.com/deonthomasgy","avatarUrl":"https://avatars.githubusercontent.com/u/150036?s=80&v=4","followers":18,"publicRepos":49,"location":"SA, Guyana, E.C.D, Atlantic Gardens","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":62,"commits":47,"pullRequests":2,"reviews":0,"issues":3,"repositories":10,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":9,"id":"U_kgDOBhdWPQ","login":"RolexAlexander","name":"Rolex Alexander","url":"https://github.com/RolexAlexander","avatarUrl":"https://avatars.githubusercontent.com/u/102192701?s=80&v=4","followers":2,"publicRepos":46,"location":"Guyana","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":47,"commits":32,"pullRequests":1,"reviews":0,"issues":0,"repositories":14,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "89d58d368ae333f7",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "7bc4b8dd1a7f9647",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

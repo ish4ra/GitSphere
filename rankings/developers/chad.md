@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/Helionux"><img src="https://avatars.githubusercontent.com/u/161780751?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Helionux"><b>Deoule-Allah Madjitoloum Heliodore</b></a><br><sub>&#64;Helionux</sub></td>
-<td align="right"><b>219</b></td>
+<td align="right"><b>220</b></td>
 <td align="right">61</td>
 <td><sub>Tchad</sub></td>
 </tr>

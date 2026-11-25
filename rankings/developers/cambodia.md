@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **21** | 22 Nov 2026 | <a href="../../data/developers/KH.json">JSON</a> |
+| 🟡 Provisional | **22** | 22 Nov 2026 | <a href="../../data/developers/KH.json">JSON</a> |
 
 </div>
 
@@ -135,34 +135,41 @@
 </tr>
 <tr>
 <td align="right">17</td>
+<td><a href="https://github.com/angkosal"><img src="https://avatars.githubusercontent.com/u/15922367?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/angkosal"><b>Orng Sorl (Kosal)</b></a><br><sub>&#64;angkosal</sub></td>
+<td align="right"><b>105</b></td>
+<td align="right">0</td>
+<td><sub>Cambodia</sub></td>
+</tr>
+<tr>
+<td align="right">18</td>
 <td><a href="https://github.com/nysamnang"><img src="https://avatars.githubusercontent.com/u/28054921?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nysamnang"><b>NY Samnang</b></a><br><sub>&#64;nysamnang</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">0</td>
 <td><sub>Phnom Penh, Cambodia</sub></td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">19</td>
 <td><a href="https://github.com/dwilkie"><img src="https://avatars.githubusercontent.com/u/127583?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dwilkie"><b>David Wilkie</b></a><br><sub>&#64;dwilkie</sub></td>
 <td align="right"><b>69</b></td>
 <td align="right">0</td>
 <td><sub>Phnom Penh, Cambodia</sub></td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">20</td>
 <td><a href="https://github.com/amosjyng"><img src="https://avatars.githubusercontent.com/u/1863868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amosjyng"><b>Amos Ng</b></a><br><sub>&#64;amosjyng</sub></td>
 <td align="right"><b>52</b></td>
 <td align="right">0</td>
 <td><sub>Siem Reap, Cambodia</sub></td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">21</td>
 <td><a href="https://github.com/0967711867"><img src="https://avatars.githubusercontent.com/u/60910241?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0967711867"><b>Phou Varun</b></a><br><sub>&#64;0967711867</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Cambodia</sub></td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">22</td>
 <td><a href="https://github.com/0975638311"><img src="https://avatars.githubusercontent.com/u/104702052?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0975638311"><b>Chan Cambodia</b></a><br><sub>&#64;0975638311</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
@@ -176,7 +183,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 21 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 22 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 174 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

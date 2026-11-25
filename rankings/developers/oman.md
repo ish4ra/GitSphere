@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/shihabal3amri"><img src="https://avatars.githubusercontent.com/u/42039842?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shihabal3amri"><b>Shihab</b></a><br><sub>&#64;shihabal3amri</sub></td>
-<td align="right"><b>710</b></td>
+<td align="right"><b>711</b></td>
 <td align="right">17</td>
 <td><sub>Oman</sub></td>
 </tr>
@@ -94,7 +94,7 @@
 <tr>
 <td align="right">11</td>
 <td><a href="https://github.com/RanjbarAli"><img src="https://avatars.githubusercontent.com/u/56151133?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RanjbarAli"><b>Ali Ranjbar Jelodar</b></a><br><sub>&#64;RanjbarAli</sub></td>
-<td align="right"><b>192</b></td>
+<td align="right"><b>193</b></td>
 <td align="right">13</td>
 <td><sub>Oman, Muscat</sub></td>
 </tr>

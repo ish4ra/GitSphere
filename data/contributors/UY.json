@@ -5,7 +5,7 @@
 "country": {"code":"UY","name":"Uruguay","slug":"uruguay"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":412,"measuredAccounts":10,"measurementBacklog":402,"window":{"from":"2025-11-23T13:00:00Z","to":"2026-11-23T13:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":80,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":413,"measuredAccounts":10,"measurementBacklog":403,"window":{"from":"2025-11-23T13:00:00Z","to":"2026-11-23T13:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":80,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjExNTE3NQ==","login":"daedalus","name":"Darío Clavijo","url":"https://github.com/daedalus","avatarUrl":"https://avatars.githubusercontent.com/u/115175?s=80&v=4","followers":394,"publicRepos":510,"location":"Montevideo, Uruguay","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":6758,"commits":6169,"pullRequests":483,"reviews":11,"issues":6,"repositories":89,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":2,"id":"MDQ6VXNlcjM3MzY5","login":"dangra","name":"Daniel Graña","url":"https://github.com/dangra","avatarUrl":"https://avatars.githubusercontent.com/u/37369?s=80&v=4","followers":394,"publicRepos":88,"location":"La Paloma, Rocha, Uruguay","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":692,"commits":379,"pullRequests":253,"reviews":51,"issues":6,"repositories":3,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
@@ -18,8 +18,8 @@
   {"rank":9,"id":"MDQ6VXNlcjE3MzU4MTQ=","login":"djabif","name":"Dayana Jabif","url":"https://github.com/djabif","avatarUrl":"https://avatars.githubusercontent.com/u/1735814?s=80&v=4","followers":278,"publicRepos":56,"location":"Uruguay","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":105,"commits":53,"pullRequests":29,"reviews":5,"issues":2,"repositories":13,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":10,"id":"MDQ6VXNlcjUyNjQy","login":"spastorino","name":"Santiago Pastorino","url":"https://github.com/spastorino","avatarUrl":"https://avatars.githubusercontent.com/u/52642?s=80&v=4","followers":1152,"publicRepos":113,"location":"Montevideo, Uruguay","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":38,"commits":23,"pullRequests":10,"reviews":4,"issues":0,"repositories":1,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "3bb94a01af8ff58b",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "affbc7bdec40b2af",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

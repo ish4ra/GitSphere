@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **43** | 22 Nov 2026 | <a href="../data/IR.json">JSON</a> |
+| 🟡 Provisional | **56** | 22 Nov 2026 | <a href="../data/IR.json">JSON</a> |
 
 </div>
 
@@ -24,29 +24,29 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/amir1376.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/amir1376/ab-download-manager"><b>amir1376/ab-download-manager</b></a><br><sub>A Download Manager that speeds up your downloads</sub></td>
-<td align="right"><b>19,453</b></td>
+<td align="right"><b>19,539</b></td>
 <td align="right">1,040</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/MatrixTM.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MatrixTM/MHDDoS"><b>MatrixTM/MHDDoS</b></a><br><sub>Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 60 Methods</sub></td>
-<td align="right"><b>17,053</b></td>
-<td align="right">3,660</td>
+<td align="right"><b>17,071</b></td>
+<td align="right">3,658</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/rzashakeri.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rzashakeri/beautify-github-profile"><b>rzashakeri/beautify-github-profile</b></a><br><sub>This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to…</sub></td>
-<td align="right"><b>12,626</b></td>
-<td align="right">683</td>
+<td align="right"><b>12,639</b></td>
+<td align="right">686</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/ultrasecurity.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ultrasecurity/Storm-Breaker"><b>ultrasecurity/Storm-Breaker</b></a><br><sub>Full-featured Social Engineering Framework with Page Cloning, MITM Proxy, Credential Capture, Session Extraction, and R…</sub></td>
-<td align="right"><b>6,454</b></td>
-<td align="right">2,055</td>
+<td align="right"><b>6,474</b></td>
+<td align="right">2,056</td>
 <td>PHP</td>
 </tr>
 <tr>
@@ -322,6 +322,97 @@
 <td align="right">19</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">44</td>
+<td><img src="https://github.com/shetabit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shetabit/visitor"><b>shetabit/visitor</b></a><br><sub>a laravel package to work with visitors and retrieve their informations</sub></td>
+<td align="right"><b>568</b></td>
+<td align="right">78</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">45</td>
+<td><img src="https://github.com/AminMGMT.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AminMGMT/BackPack"><b>AminMGMT/BackPack</b></a><br><sub>BackPack is a high-performance tunnel engine for connecting Iran ⇄ abroad (kharej) servers</sub></td>
+<td align="right"><b>565</b></td>
+<td align="right">124</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">46</td>
+<td><img src="https://github.com/massoudss.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/massoudss/waveformSeekBar"><b>massoudss/waveformSeekBar</b></a><br><sub>Android Waveform SeekBar library</sub></td>
+<td align="right"><b>562</b></td>
+<td align="right">98</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">47</td>
+<td><img src="https://github.com/B3hnamR.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/B3hnamR/PsiphonOverMITM"><b>B3hnamR/PsiphonOverMITM</b></a></td>
+<td align="right"><b>546</b></td>
+<td align="right">75</td>
+<td>PowerShell</td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><img src="https://github.com/NarimanN2.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NarimanN2/ollama-playground"><b>NarimanN2/ollama-playground</b></a><br><sub>Interesting LLM projects that I created for my YouTube channel using Ollama&#39;s open-source models.</sub></td>
+<td align="right"><b>544</b></td>
+<td align="right">191</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><img src="https://github.com/bkhezry.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bkhezry/weather"><b>bkhezry/weather</b></a><br><sub>⛈ Weather app with OpenWeatherMap API</sub></td>
+<td align="right"><b>542</b></td>
+<td align="right">196</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><img src="https://github.com/ultrasecurity.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ultrasecurity/DarkSide"><b>ultrasecurity/DarkSide</b></a><br><sub>Tool Information Gathering &amp; social engineering Write By &#91;Python,JS,PHP&#93;</sub></td>
+<td align="right"><b>538</b></td>
+<td align="right">150</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">51</td>
+<td><img src="https://github.com/ircfspace.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ircfspace/tconfig"><b>ircfspace/tconfig</b></a><br><sub>Free V2RAY Proxy List</sub></td>
+<td align="right"><b>530</b></td>
+<td align="right">150</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><img src="https://github.com/AhmadRafiee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmadRafiee/DevOps_Certification"><b>AhmadRafiee/DevOps&#95;Certification</b></a><br><sub>A comprehensive repository for mastering DevOps skills and tools. Explore topics like Docker, Kubernetes, Ansible, Terr…</sub></td>
+<td align="right"><b>524</b></td>
+<td align="right">138</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><img src="https://github.com/Ali-Azmoud.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ali-Azmoud/flutter_xlider"><b>Ali-Azmoud/flutter&#95;xlider</b></a><br><sub>A material design slider and range slider with rtl support and lots of options and customization for flutter</sub></td>
+<td align="right"><b>523</b></td>
+<td align="right">181</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><img src="https://github.com/ThisIsDara.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ThisIsDara/mhr-cfw-go"><b>ThisIsDara/mhr-cfw-go</b></a><br><sub>A local proxy that runs on your machine and forwards traffic through Google.</sub></td>
+<td align="right"><b>513</b></td>
+<td align="right">51</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/vfarid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vfarid/cf-ip-scanner"><b>vfarid/cf-ip-scanner</b></a><br><sub>Cloudflare IP Scanner</sub></td>
+<td align="right"><b>511</b></td>
+<td align="right">236</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><img src="https://github.com/majidh1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/majidh1/iranianNationalCode"><b>majidh1/iranianNationalCode</b></a><br><sub>NationalCode - CodeMelli Generator &amp; Validator</sub></td>
+<td align="right"><b>510</b></td>
+<td align="right">14</td>
+<td>JavaScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -330,8 +421,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 573 stars; 43 attributed candidates are tracked.
-- 124 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 510 stars; 56 attributed candidates are tracked.
+- 120 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 159 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"VG","name":"British Virgin Islands","slug":"british-virgin-islands"},
-"count": 80,
+"count": 79,
 "repositories": [
-  {"name":"CryptoUnit-blockchain/cryptounit","stars":3,"forks":2,"language":"WebAssembly","archived":false,"createdAt":"2021-12-13T15:12:16Z","pushedAt":"2022-03-04T12:19:37Z","owner":{"login":"CryptoUnit-blockchain","type":"User","name":"Cryptounit","location":"ABM Chambers, P.O. BOX 2283, Road Town, Tortola, VG1110, British Virgin Islands"},"attribution":{"code":"VG","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-04T06:41:22.809Z","id":"legacy:cryptounit-blockchain/cryptounit","legacy":true},
   {"name":"whitechain-labs/bridge-contracts","stars":2,"forks":35,"language":"Solidity","archived":false,"createdAt":"2025-10-03T09:40:12Z","pushedAt":"2025-12-16T11:18:20Z","owner":{"login":"whitechain-labs","type":"Organization","name":"Whitechain Labs","location":"Virgin Islands, British"},"attribution":{"code":"VG","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T06:41:22.809Z","id":"legacy:whitechain-labs/bridge-contracts","legacy":true},
   {"name":"fxdxdex/fxdx-stats","stars":2,"forks":3,"language":"JavaScript","archived":false,"createdAt":"2022-03-01T21:53:27Z","pushedAt":"2022-03-08T22:06:43Z","owner":{"login":"fxdxdex","type":"Organization","name":"FXDX","location":"Virgin Islands, British"},"attribution":{"code":"VG","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T06:41:22.809Z","id":"legacy:fxdxdex/fxdx-stats","legacy":true},
   {"name":"JDI-Group/moonchain-wallet-shared","stars":2,"forks":2,"language":"Dart","license":"NOASSERTION","archived":false,"createdAt":"2025-08-13T18:31:01Z","pushedAt":"2026-01-07T14:40:43Z","owner":{"login":"JDI-Group","type":"Organization","name":"JDI Group","location":"Virgin Islands, British"},"attribution":{"code":"VG","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-04T06:41:22.809Z","id":"legacy:jdi-group/moonchain-wallet-shared","legacy":true},

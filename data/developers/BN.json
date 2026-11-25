@@ -7,7 +7,7 @@
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
 "coverage": {"basis":"partial","cutoffFollowers":0,"candidates":336,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":47,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDOD2MVxw","login":"notanonymouse","name":"notanonymouse","url":"https://github.com/notanonymouse","avatarUrl":"https://avatars.githubusercontent.com/u/258151879?s=80&v=4","followers":184,"publicRepos":8,"location":"Brunei","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":1,"id":"U_kgDOD2MVxw","login":"notanonymouse","name":"notanonymouse","url":"https://github.com/notanonymouse","avatarUrl":"https://avatars.githubusercontent.com/u/258151879?s=80&v=4","followers":185,"publicRepos":8,"location":"Brunei","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"MDQ6VXNlcjU1ODc1OTg=","login":"izdiwho","name":"Iz","url":"https://github.com/izdiwho","avatarUrl":"https://avatars.githubusercontent.com/u/5587598?s=80&v=4","followers":65,"publicRepos":8,"location":"Brunei","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":3,"id":"MDQ6VXNlcjk3MTMwOQ==","login":"Qoyyuum","name":"Abdul Qoyyuum","url":"https://github.com/Qoyyuum","avatarUrl":"https://avatars.githubusercontent.com/u/971309?s=80&v=4","followers":53,"publicRepos":142,"location":"Brunei Darussalam","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":4,"id":"MDQ6VXNlcjg5Mjk2MQ==","login":"thewheat","name":"Timothy Lim","url":"https://github.com/thewheat","avatarUrl":"https://avatars.githubusercontent.com/u/892961?s=80&v=4","followers":47,"publicRepos":146,"location":"Brunei","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
@@ -267,7 +267,7 @@
   {"rank":258,"id":"U_kgDODNgfWw","login":"DannyRidz","name":"Daniel Ridzwan Bin Mohamad","url":"https://github.com/DannyRidz","avatarUrl":"https://avatars.githubusercontent.com/u/215490395?s=80&v=4","followers":0,"publicRepos":44,"location":"Brunei Darussalam","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":259,"id":"U_kgDOEZbOSw","login":"princealip211-sketch","name":"Prince Alip Robin Clinton (Mohamad Alip Bin Abdullah)","url":"https://github.com/princealip211-sketch","avatarUrl":"https://avatars.githubusercontent.com/u/295095883?s=80&v=4","followers":0,"publicRepos":35,"location":"Brunei Darussalam","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":260,"id":"MDQ6VXNlcjQwMjIxMTIw","login":"affen88plus","name":"Affandy Abdul Rahim","url":"https://github.com/affen88plus","avatarUrl":"https://avatars.githubusercontent.com/u/40221120?s=80&v=4","followers":0,"publicRepos":33,"location":"brunei","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
-  {"rank":261,"id":"U_kgDOD4wOhA","login":"chriswalker-afk","name":"Christopher Stephen Walker","url":"https://github.com/chriswalker-afk","avatarUrl":"https://avatars.githubusercontent.com/u/260836996?s=80&v=4","followers":0,"publicRepos":27,"location":"Brunei","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":261,"id":"U_kgDOD4wOhA","login":"chriswalker-afk","name":"Christopher Stephen Walker","url":"https://github.com/chriswalker-afk","avatarUrl":"https://avatars.githubusercontent.com/u/260836996?s=80&v=4","followers":0,"publicRepos":27,"location":"Brunei","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
   {"rank":262,"id":"U_kgDOCs5c2g","login":"90XV","name":"adham","url":"https://github.com/90XV","avatarUrl":"https://avatars.githubusercontent.com/u/181296346?s=80&v=4","followers":0,"publicRepos":15,"location":"Brunei","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":263,"id":"U_kgDODsiQuA","login":"unjust26","name":"iqbalhisyam@digitalsage.agency","url":"https://github.com/unjust26","avatarUrl":"https://avatars.githubusercontent.com/u/248025272?s=80&v=4","followers":0,"publicRepos":15,"location":"Brunei","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":264,"id":"U_kgDODeZSxQ","login":"mintongli0125","name":"Mintong","url":"https://github.com/mintongli0125","avatarUrl":"https://avatars.githubusercontent.com/u/233198277?s=80&v=4","followers":0,"publicRepos":10,"location":"Brunei","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
@@ -344,8 +344,8 @@
   {"rank":335,"id":"MDQ6VXNlcjYyNTE3ODk0","login":"zaralaila","name":"Zara Laila Cheong","url":"https://github.com/zaralaila","avatarUrl":"https://avatars.githubusercontent.com/u/62517894?s=80&v=4","followers":0,"publicRepos":0,"location":"Brunei Darussalam","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":336,"id":"MDQ6VXNlcjM5NTc4MDY5","login":"zawirulakmal","name":"Awangku Zawirul Akmal","url":"https://github.com/zawirulakmal","avatarUrl":"https://avatars.githubusercontent.com/u/39578069?s=80&v=4","followers":0,"publicRepos":0,"location":"Brunei Darussalam, Kuala Belait Kc3135","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "eac7fc9aae5be93d",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "645cf14804f2392a",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

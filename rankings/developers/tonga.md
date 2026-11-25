@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **49** | 24 Nov 2026 | <a href="../../data/developers/TO.json">JSON</a> |
+| 🟡 Provisional | **50** | 24 Nov 2026 | <a href="../../data/developers/TO.json">JSON</a> |
 
 </div>
 
@@ -268,97 +268,104 @@
 </tr>
 <tr>
 <td align="right">36</td>
+<td><a href="https://github.com/Nefu-Fili"><img src="https://avatars.githubusercontent.com/u/169117387?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nefu-Fili"><b>Nefu Fili</b></a><br><sub>&#64;Nefu-Fili</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Pea</sub></td>
+</tr>
+<tr>
+<td align="right">37</td>
 <td><a href="https://github.com/StevenEsau2023"><img src="https://avatars.githubusercontent.com/u/143027665?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/StevenEsau2023"><b>TongaAI &#124; Tonga Market Ltd</b></a><br><sub>&#64;StevenEsau2023</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nukualofa, Tonga</sub></td>
 </tr>
 <tr>
-<td align="right">37</td>
+<td align="right">38</td>
 <td><a href="https://github.com/tonganvet"><img src="https://avatars.githubusercontent.com/u/40135117?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tonganvet"><b>Veterinary Clinic in Tonga</b></a><br><sub>&#64;tonganvet</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Tokomololo, Nuku’alofa, Tonga</sub></td>
 </tr>
 <tr>
-<td align="right">38</td>
+<td align="right">39</td>
 <td><a href="https://github.com/XornRetux"><img src="https://avatars.githubusercontent.com/u/42806875?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/XornRetux"><b>XantehDev</b></a><br><sub>&#64;XornRetux</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Tonga Islands.</sub></td>
 </tr>
 <tr>
-<td align="right">39</td>
+<td align="right">40</td>
 <td><a href="https://github.com/drjn2aixxfwn92c"><img src="https://avatars.githubusercontent.com/u/176277069?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/drjn2aixxfwn92c"><b>drjn2aixxfwn92c</b></a><br><sub>&#64;drjn2aixxfwn92c</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Tonga</sub></td>
 </tr>
 <tr>
-<td align="right">40</td>
+<td align="right">41</td>
 <td><a href="https://github.com/fsevaki"><img src="https://avatars.githubusercontent.com/u/87620980?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fsevaki"><b>Phil</b></a><br><sub>&#64;fsevaki</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Nuku&#39;alofa, Tonga</sub></td>
 </tr>
 <tr>
-<td align="right">41</td>
+<td align="right">42</td>
 <td><a href="https://github.com/J3rom3"><img src="https://avatars.githubusercontent.com/u/17685807?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/J3rom3"><b>Jerome</b></a><br><sub>&#64;J3rom3</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Nuku&#39;alofa, Tonga</sub></td>
 </tr>
 <tr>
-<td align="right">42</td>
+<td align="right">43</td>
 <td><a href="https://github.com/jalvv1u3"><img src="https://avatars.githubusercontent.com/u/321611635?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jalvv1u3"><b>Beverly Ramos</b></a><br><sub>&#64;jalvv1u3</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Heidiview, Tonga</sub></td>
 </tr>
 <tr>
-<td align="right">43</td>
+<td align="right">44</td>
 <td><a href="https://github.com/lilyonemau-web"><img src="https://avatars.githubusercontent.com/u/230247198?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lilyonemau-web"><b>lilyonemau-web</b></a><br><sub>&#64;lilyonemau-web</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Tonga</sub></td>
 </tr>
 <tr>
-<td align="right">44</td>
+<td align="right">45</td>
 <td><a href="https://github.com/mafileoj"><img src="https://avatars.githubusercontent.com/u/308177955?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mafileoj"><b>Joseph Mafileo</b></a><br><sub>&#64;mafileoj</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Tonga</sub></td>
 </tr>
 <tr>
-<td align="right">45</td>
+<td align="right">46</td>
 <td><a href="https://github.com/mau222"><img src="https://avatars.githubusercontent.com/u/51320315?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mau222"><b>S Lilo Vakauta</b></a><br><sub>&#64;mau222</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Kingdom of Tonga</sub></td>
 </tr>
 <tr>
-<td align="right">46</td>
+<td align="right">47</td>
 <td><a href="https://github.com/ofalaunga"><img src="https://avatars.githubusercontent.com/u/85494920?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ofalaunga"><b>ofalaunga</b></a><br><sub>&#64;ofalaunga</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Tonga Tapu</sub></td>
 </tr>
 <tr>
-<td align="right">47</td>
+<td align="right">48</td>
 <td><a href="https://github.com/silakoula"><img src="https://avatars.githubusercontent.com/u/18450198?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/silakoula"><b>&#39;Etuate Fonua</b></a><br><sub>&#64;silakoula</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Nuku&#39;alofa, Tonga</sub></td>
 </tr>
 <tr>
-<td align="right">48</td>
+<td align="right">49</td>
 <td><a href="https://github.com/Sytan666"><img src="https://avatars.githubusercontent.com/u/99150469?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sytan666"><b>Sytan</b></a><br><sub>&#64;Sytan666</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Tonga</sub></td>
 </tr>
 <tr>
-<td align="right">49</td>
+<td align="right">50</td>
 <td><a href="https://github.com/viki617"><img src="https://avatars.githubusercontent.com/u/297436369?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/viki617"><b>Viki</b></a><br><sub>&#64;viki617</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -372,7 +379,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 49 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 50 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 2 of 29 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

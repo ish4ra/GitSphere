@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"CW","name":"Curaçao","slug":"curacao"},
-"count": 63,
+"count": 62,
 "repositories": [
-  {"name":"JObersi10/apple-music-tv","stars":3,"forks":0,"language":"Kotlin","license":"GPL-3.0","archived":false,"createdAt":"2026-07-01T18:46:01Z","pushedAt":"2026-09-28T22:09:24Z","owner":{"login":"JObersi10","type":"User","location":"Willemstad, Curaçao"},"attribution":{"code":"CW","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-25T16:33:39.464Z","id":"legacy:jobersi10/apple-music-tv","legacy":true},
   {"name":"EcoLabsHQ/Ecosystem-Accounts","stars":2,"forks":2,"language":"Solidity","license":"Apache-2.0","archived":false,"createdAt":"2024-04-06T11:25:56Z","pushedAt":"2024-10-17T14:46:17Z","owner":{"login":"EcoLabsHQ","type":"Organization","name":"EcoLabs","location":"Curaçao"},"attribution":{"code":"CW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T16:33:39.464Z","id":"legacy:ecolabshq/ecosystem-accounts","legacy":true},
   {"name":"8841fb/lain","stars":1,"forks":1,"language":"Python","archived":false,"createdAt":"2023-10-04T07:29:14Z","pushedAt":"2024-05-31T03:59:33Z","owner":{"login":"8841fb","type":"Organization","name":"#8841fb","location":"Curaçao"},"attribution":{"code":"CW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T16:33:39.464Z","id":"legacy:8841fb/lain","legacy":true},
   {"name":"BlyceOfficial/Gulp-Workflow","stars":1,"forks":0,"language":"JavaScript","archived":false,"createdAt":"2017-02-08T18:48:30Z","pushedAt":"2017-02-13T13:28:53Z","owner":{"login":"BlyceOfficial","type":"Organization","name":"Blyce","location":"Willemstad, Curaçao"},"attribution":{"code":"CW","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-25T16:33:39.464Z","id":"legacy:blyceofficial/gulp-workflow","legacy":true},

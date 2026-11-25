@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **79** | 22 Nov 2026 | <a href="../data/RS.json">JSON</a> |
+| 🟡 Provisional | **93** | 22 Nov 2026 | <a href="../data/RS.json">JSON</a> |
 
 </div>
 
@@ -24,28 +24,28 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/milanm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/milanm/DevOps-Roadmap"><b>milanm/DevOps-Roadmap</b></a><br><sub>DevOps Roadmap for 2026. with learning resources</sub></td>
-<td align="right"><b>21,020</b></td>
-<td align="right">3,565</td>
+<td align="right"><b>21,037</b></td>
+<td align="right">3,572</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/morhetz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/morhetz/gruvbox"><b>morhetz/gruvbox</b></a><br><sub>Retro groove color scheme for Vim</sub></td>
-<td align="right"><b>15,845</b></td>
-<td align="right">1,122</td>
+<td align="right"><b>15,847</b></td>
+<td align="right">1,121</td>
 <td>Vim Script</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/semaphoreui.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/semaphoreui/semaphore"><b>semaphoreui/semaphore</b></a><br><sub>Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.</sub></td>
-<td align="right"><b>14,444</b></td>
-<td align="right">1,352</td>
+<td align="right"><b>14,461</b></td>
+<td align="right">1,354</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/umpirsky.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/umpirsky/country-list"><b>umpirsky/country-list</b></a><br><sub>:globe&#95;with&#95;meridians: List of all countries with names and ISO 3166-1 codes in all languages and data formats.</sub></td>
-<td align="right"><b>5,253</b></td>
+<td align="right"><b>5,252</b></td>
 <td align="right">1,512</td>
 <td>HTML</td>
 </tr>
@@ -574,6 +574,104 @@
 <td align="right">96</td>
 <td>Markdown</td>
 </tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/Delt06.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Delt06/toon-rp"><b>Delt06/toon-rp</b></a><br><sub>🌔 A Scriptable Render Pipeline (SRP) designed for toon/stylized visuals. Features custom lighting pipeline, multiple s…</sub></td>
+<td align="right"><b>565</b></td>
+<td align="right">31</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/Momciloo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Momciloo/fun-with-sockets"><b>Momciloo/fun-with-sockets</b></a></td>
+<td align="right"><b>556</b></td>
+<td align="right">30</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/ClusterM.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ClusterM/vpn-how-to"><b>ClusterM/vpn-how-to</b></a><br><sub>Максимально простые инструкции по созданию своего персонального VPN сервера</sub></td>
+<td align="right"><b>554</b></td>
+<td align="right">59</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><img src="https://github.com/umpirsky.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/umpirsky/language-list"><b>umpirsky/language-list</b></a><br><sub>List of all languages with names and ISO 639-1 codes in all languages and all data formats.</sub></td>
+<td align="right"><b>553</b></td>
+<td align="right">219</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><img src="https://github.com/wiresock.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wiresock/ndisapi"><b>wiresock/ndisapi</b></a><br><sub>C/C++ and .NET interfaces to Windows Packet Filter (WinpkFilter). Inspect, filter, modify, and inject network packets f…</sub></td>
+<td align="right"><b>549</b></td>
+<td align="right">103</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">85</td>
+<td><img src="https://github.com/WildChlamydia.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/WildChlamydia/MiVOLO"><b>WildChlamydia/MiVOLO</b></a><br><sub>MiVOLO age &amp; gender transformer neural network</sub></td>
+<td align="right"><b>546</b></td>
+<td align="right">99</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/kristijanhusak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kristijanhusak/vim-hybrid-material"><b>kristijanhusak/vim-hybrid-material</b></a><br><sub>Material color scheme for Vim based on w0ng/vim-hybrid color scheme</sub></td>
+<td align="right"><b>543</b></td>
+<td align="right">45</td>
+<td>Vim Script</td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><img src="https://github.com/lukicdarkoo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lukicdarkoo/rpi-wifi"><b>lukicdarkoo/rpi-wifi</b></a><br><sub>Configures simultaneous AP and Managed Mode Wifi on Raspberry Pi</sub></td>
+<td align="right"><b>539</b></td>
+<td align="right">114</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><img src="https://github.com/proffesor-for-testing.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/proffesor-for-testing/agentic-qe"><b>proffesor-for-testing/agentic-qe</b></a><br><sub>Agentic QE Fleet is an open-source AI-powered QA/QE platform designed for use with Coding Agents (works best with Claud…</sub></td>
+<td align="right"><b>534</b></td>
+<td align="right">107</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><img src="https://github.com/gen2brain.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gen2brain/url2img"><b>gen2brain/url2img</b></a> <sub>archived</sub><br><sub>HTTP server with API for capturing screenshots of websites</sub></td>
+<td align="right"><b>530</b></td>
+<td align="right">38</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><img src="https://github.com/sopov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sopov/resumeio2pdf"><b>sopov/resumeio2pdf</b></a><br><sub>Convert resume.io to pdf</sub></td>
+<td align="right"><b>522</b></td>
+<td align="right">91</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/whaleyxbt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/whaleyxbt/patchright-enhanced"><b>whaleyxbt/patchright-enhanced</b></a><br><sub>Browser automation toolkit for QA, monitoring and internal workflows</sub></td>
+<td align="right"><b>519</b></td>
+<td align="right">96</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/draganbabic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/draganbabic/uni-form"><b>draganbabic/uni-form</b></a><br><sub>Uni-Form is a framework that standardizes form markup and styles it with CSS giving you two most widely used layout opt…</sub></td>
+<td align="right"><b>512</b></td>
+<td align="right">71</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/mr-fatalyst.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mr-fatalyst/fastopenapi"><b>mr-fatalyst/fastopenapi</b></a><br><sub>FastOpenAPI is a library for generating and integrating OpenAPI schemas using Pydantic v2 and various frameworks (AioHt…</sub></td>
+<td align="right"><b>508</b></td>
+<td align="right">20</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -582,7 +680,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 572 stars; 79 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 508 stars; 93 attributed candidates are tracked.
 - 1 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 148 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

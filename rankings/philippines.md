@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **66** | 22 Nov 2026 | <a href="../data/PH.json">JSON</a> |
+| 🟡 Provisional | **70** | 22 Nov 2026 | <a href="../data/PH.json">JSON</a> |
 
 </div>
 
@@ -24,14 +24,14 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/audreyfeldroy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/audreyfeldroy/favicon-cheat-sheet"><b>audreyfeldroy/favicon-cheat-sheet</b></a><br><sub>Obsessive cheat sheet to favicon sizes/types.</sub></td>
-<td align="right"><b>9,904</b></td>
-<td align="right">396</td>
+<td align="right"><b>9,903</b></td>
+<td align="right">395</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/pageman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pageman/sutskever-30-implementations"><b>pageman/sutskever-30-implementations</b></a><br><sub>Sutskever 30 implementations inspired by https://papercode.vercel.app/ &#124; For Agents, use https://github.com/pageman/Sut…</sub></td>
-<td align="right"><b>5,224</b></td>
+<td align="right"><b>5,226</b></td>
 <td align="right">667</td>
 <td>Jupyter Notebook</td>
 </tr>
@@ -46,13 +46,13 @@
 <td align="right">4</td>
 <td><img src="https://github.com/audreyfeldroy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/audreyfeldroy/cookiecutter-pypackage"><b>audreyfeldroy/cookiecutter-pypackage</b></a><br><sub>Cookiecutter template for a Python package.</sub></td>
 <td align="right"><b>4,605</b></td>
-<td align="right">1,782</td>
+<td align="right">1,783</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/ivanceras.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ivanceras/svgbob"><b>ivanceras/svgbob</b></a><br><sub>Convert your ascii diagram scribbles into happy little SVG</sub></td>
-<td align="right"><b>4,238</b></td>
+<td align="right"><b>4,237</b></td>
 <td align="right">129</td>
 <td>Rust</td>
 </tr>
@@ -483,6 +483,34 @@
 <td align="right">42</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">67</td>
+<td><img src="https://github.com/ndycode.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ndycode/codex-multi-auth"><b>ndycode/codex-multi-auth</b></a><br><sub>Codex CLI multi-account OAuth manager with account switching, health checks, runtime rotation, diagnostics, and recover…</sub></td>
+<td align="right"><b>569</b></td>
+<td align="right">76</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><img src="https://github.com/vignetteapp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vignetteapp/vignette"><b>vignetteapp/vignette</b></a><br><sub>The open source VTuber software. ❤</sub></td>
+<td align="right"><b>522</b></td>
+<td align="right">35</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><img src="https://github.com/jskherman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jskherman/imprecv"><b>jskherman/imprecv</b></a><br><sub>A no-frills curriculum vitae (CV) template using Typst and YAML to version control CV data.</sub></td>
+<td align="right"><b>519</b></td>
+<td align="right">80</td>
+<td>Typst</td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/mattenarle10.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mattenarle10/markamd"><b>mattenarle10/markamd</b></a><br><sub>local-first markdown editor with live preview, reading mode, diagrams, themes, and context bundles.</sub></td>
+<td align="right"><b>513</b></td>
+<td align="right">37</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -491,8 +519,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 579 stars; 66 attributed candidates are tracked.
-- 122 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 513 stars; 70 attributed candidates are tracked.
+- 120 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 210 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

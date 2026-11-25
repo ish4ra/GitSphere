@@ -8,7 +8,7 @@
 "coverage": {"basis":"partial","cutoffFollowers":0,"candidates":407,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":70,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjQ3NjIyODM=","login":"trevoirwilliams","name":"Trevoir Williams","url":"https://github.com/trevoirwilliams","avatarUrl":"https://avatars.githubusercontent.com/u/4762283?s=80&v=4","followers":1477,"publicRepos":95,"location":"Jamaica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":2,"id":"U_kgDOBxT5-w","login":"HotCakeX","name":"Violet Hansen","url":"https://github.com/HotCakeX","avatarUrl":"https://avatars.githubusercontent.com/u/118815227?s=80&v=4","followers":1247,"publicRepos":8,"location":"Silent Hill","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
+  {"rank":2,"id":"U_kgDOBxT5-w","login":"HotCakeX","name":"Violet Hansen","url":"https://github.com/HotCakeX","avatarUrl":"https://avatars.githubusercontent.com/u/118815227?s=80&v=4","followers":1253,"publicRepos":8,"location":"Silent Hill","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-25"},
   {"rank":3,"id":"MDQ6VXNlcjU3MDE0MTQ4","login":"Gr1mmie","name":"Grimmie","url":"https://github.com/Gr1mmie","avatarUrl":"https://avatars.githubusercontent.com/u/57014148?s=80&v=4","followers":665,"publicRepos":23,"location":"Elysium, First Low Orbit Station","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
   {"rank":4,"id":"U_kgDOC3EeMQ","login":"j0shua-daniel","name":"Joshua Daniel","url":"https://github.com/j0shua-daniel","avatarUrl":"https://avatars.githubusercontent.com/u/191962673?s=80&v=4","followers":630,"publicRepos":17,"location":"Reading, Berkshire","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-22"},
   {"rank":5,"id":"MDQ6VXNlcjMyMjI5NDkw","login":"ntfargo","name":"Nathan Fargo","url":"https://github.com/ntfargo","avatarUrl":"https://avatars.githubusercontent.com/u/32229490?s=80&v=4","followers":444,"publicRepos":9,"location":"Silent Hill","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23"},
@@ -415,8 +415,8 @@
   {"rank":406,"id":"MDQ6VXNlcjYyMDgzMDIx","login":"NickySix3","name":"Nicholette Barrett","url":"https://github.com/NickySix3","avatarUrl":"https://avatars.githubusercontent.com/u/62083021?s=80&v=4","followers":0,"publicRepos":1,"location":"Jamaica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":407,"id":"MDQ6VXNlcjY4NjYyNjQx","login":"rgoubault","name":"Rainy Goubault","url":"https://github.com/rgoubault","avatarUrl":"https://avatars.githubusercontent.com/u/68662641?s=80&v=4","followers":0,"publicRepos":1,"location":"Kingston, Jamaica","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "69fb56929ff7dec2",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "ece5451f75dd9aaa",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

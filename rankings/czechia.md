@@ -24,78 +24,78 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/agent0ai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/agent0ai/agent-zero"><b>agent0ai/agent-zero</b></a><br><sub>Agent Zero AI framework</sub></td>
-<td align="right"><b>19,947</b></td>
-<td align="right">3,897</td>
+<td align="right"><b>19,980</b></td>
+<td align="right">3,902</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/JosefNemec.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JosefNemec/Playnite"><b>JosefNemec/Playnite</b></a><br><sub>Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one…</sub></td>
-<td align="right"><b>14,565</b></td>
-<td align="right">715</td>
+<td align="right"><b>14,598</b></td>
+<td align="right">717</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/phpstan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/phpstan/phpstan"><b>phpstan/phpstan</b></a><br><sub>PHP Static Analysis Tool - discover bugs in your code without running it!</sub></td>
-<td align="right"><b>14,166</b></td>
-<td align="right">972</td>
+<td align="right"><b>14,170</b></td>
+<td align="right">971</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/TheR1D.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TheR1D/shell_gpt"><b>TheR1D/shell&#95;gpt</b></a><br><sub>A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks fa…</sub></td>
-<td align="right"><b>12,315</b></td>
-<td align="right">968</td>
+<td align="right"><b>12,324</b></td>
+<td align="right">967</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/jnv.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jnv/lists"><b>jnv/lists</b></a><br><sub>The definitive list of lists (of lists) curated on GitHub and elsewhere</sub></td>
-<td align="right"><b>11,674</b></td>
-<td align="right">798</td>
+<td align="right"><b>11,682</b></td>
+<td align="right">799</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">6</td>
+<td><img src="https://github.com/prusa3d.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/prusa3d/PrusaSlicer"><b>prusa3d/PrusaSlicer</b></a><br><sub>G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)</sub></td>
+<td align="right"><b>9,521</b></td>
+<td align="right">2,410</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><img src="https://github.com/jpochyla.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jpochyla/psst"><b>jpochyla/psst</b></a><br><sub>Fast and multi-platform Spotify client with native GUI</sub></td>
 <td align="right"><b>9,518</b></td>
 <td align="right">278</td>
 <td>Rust</td>
 </tr>
 <tr>
-<td align="right">7</td>
-<td><img src="https://github.com/prusa3d.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/prusa3d/PrusaSlicer"><b>prusa3d/PrusaSlicer</b></a><br><sub>G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)</sub></td>
-<td align="right"><b>9,513</b></td>
-<td align="right">2,410</td>
-<td>C++</td>
-</tr>
-<tr>
 <td align="right">8</td>
 <td><img src="https://github.com/avast.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/avast/retdec"><b>avast/retdec</b></a><br><sub>RetDec is a retargetable machine-code decompiler based on LLVM.</sub></td>
-<td align="right"><b>8,674</b></td>
-<td align="right">1,005</td>
+<td align="right"><b>8,676</b></td>
+<td align="right">1,003</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/photopea.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/photopea/photopea"><b>photopea/photopea</b></a><br><sub>Photopea is online image editor</sub></td>
-<td align="right"><b>8,536</b></td>
+<td align="right"><b>8,537</b></td>
 <td align="right">335</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/vrana.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vrana/adminer"><b>vrana/adminer</b></a><br><sub>Database management in a single PHP file</sub></td>
-<td align="right"><b>7,961</b></td>
+<td align="right"><b>7,965</b></td>
 <td align="right">1,185</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/panva.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/panva/jose"><b>panva/jose</b></a><br><sub>JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes</sub></td>
-<td align="right"><b>7,893</b></td>
-<td align="right">385</td>
+<td align="right"><b>7,896</b></td>
+<td align="right">386</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -108,112 +108,112 @@
 <tr>
 <td align="right">13</td>
 <td><img src="https://github.com/dbgate.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dbgate/dbgate"><b>dbgate/dbgate</b></a><br><sub>Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as we…</sub></td>
-<td align="right"><b>7,394</b></td>
-<td align="right">494</td>
+<td align="right"><b>7,401</b></td>
+<td align="right">497</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/sottlmarek.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sottlmarek/DevSecOps"><b>sottlmarek/DevSecOps</b></a><br><sub>Ultimate DevSecOps library</sub></td>
-<td align="right"><b>6,968</b></td>
-<td align="right">1,229</td>
+<td align="right"><b>6,971</b></td>
+<td align="right">1,232</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/vavkamil.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vavkamil/awesome-bugbounty-tools"><b>vavkamil/awesome-bugbounty-tools</b></a><br><sub>A curated list of various bug bounty tools</sub></td>
-<td align="right"><b>6,494</b></td>
-<td align="right">1,047</td>
+<td align="right"><b>6,499</b></td>
+<td align="right">1,050</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">16</td>
 <td><img src="https://github.com/dundee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dundee/gdu"><b>dundee/gdu</b></a><br><sub>Fast disk usage analyzer with console interface written in Go</sub></td>
-<td align="right"><b>6,218</b></td>
-<td align="right">263</td>
+<td align="right"><b>6,226</b></td>
+<td align="right">265</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/WeblateOrg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/WeblateOrg/weblate"><b>WeblateOrg/weblate</b></a><br><sub>Web based localization tool with tight version control integration.</sub></td>
-<td align="right"><b>6,177</b></td>
-<td align="right">1,393</td>
+<td align="right"><b>6,185</b></td>
+<td align="right">1,391</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">18</td>
 <td><img src="https://github.com/JakubOnderka.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JakubOnderka/PHP-Console-Highlighter"><b>JakubOnderka/PHP-Console-Highlighter</b></a><br><sub>Highlight PHP code in terminal</sub></td>
-<td align="right"><b>6,148</b></td>
+<td align="right"><b>6,147</b></td>
 <td align="right">17</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">19</td>
 <td><img src="https://github.com/JakubOnderka.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JakubOnderka/PHP-Console-Color"><b>JakubOnderka/PHP-Console-Color</b></a><br><sub>Simple library for creating colored console ouput</sub></td>
-<td align="right"><b>6,109</b></td>
+<td align="right"><b>6,108</b></td>
 <td align="right">24</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">20</td>
 <td><img src="https://github.com/jindrapetrik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jindrapetrik/jpexs-decompiler"><b>jindrapetrik/jpexs-decompiler</b></a><br><sub>JPEXS Free Flash Decompiler (FFDec) is open-source Flash SWF decompiler and editor. Extract and edit ActionScript, imag…</sub></td>
-<td align="right"><b>6,062</b></td>
+<td align="right"><b>6,070</b></td>
 <td align="right">806</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/fikovnik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fikovnik/ShiftIt"><b>fikovnik/ShiftIt</b></a><br><sub>Managing windows size and position in OSX</sub></td>
-<td align="right"><b>5,538</b></td>
+<td align="right"><b>5,537</b></td>
 <td align="right">361</td>
 <td>Objective-C</td>
 </tr>
 <tr>
 <td align="right">22</td>
 <td><img src="https://github.com/clientIO.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/clientIO/joint"><b>clientIO/joint</b></a><br><sub>A proven SVG-based JavaScript diagramming library powering exceptional UIs</sub></td>
-<td align="right"><b>5,402</b></td>
+<td align="right"><b>5,401</b></td>
 <td align="right">888</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">23</td>
 <td><img src="https://github.com/mosra.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mosra/magnum"><b>mosra/magnum</b></a><br><sub>Lightweight and modular C++11 graphics middleware for games and data visualization</sub></td>
-<td align="right"><b>5,235</b></td>
+<td align="right"><b>5,238</b></td>
 <td align="right">467</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">24</td>
 <td><img src="https://github.com/jankotek.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jankotek/mapdb"><b>jankotek/mapdb</b></a><br><sub>MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use…</sub></td>
-<td align="right"><b>5,052</b></td>
-<td align="right">877</td>
+<td align="right"><b>5,051</b></td>
+<td align="right">878</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">25</td>
 <td><img src="https://github.com/Chlumsky.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Chlumsky/msdfgen"><b>Chlumsky/msdfgen</b></a><br><sub>Multi-channel signed distance field generator</sub></td>
-<td align="right"><b>4,971</b></td>
-<td align="right">520</td>
+<td align="right"><b>4,974</b></td>
+<td align="right">521</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">26</td>
 <td><img src="https://github.com/Disassembler0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Disassembler0/Win10-Initial-Setup-Script"><b>Disassembler0/Win10-Initial-Setup-Script</b></a> <sub>archived</sub><br><sub>PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2…</sub></td>
-<td align="right"><b>4,628</b></td>
+<td align="right"><b>4,626</b></td>
 <td align="right">1,012</td>
 <td>PowerShell</td>
 </tr>
 <tr>
 <td align="right">27</td>
 <td><img src="https://github.com/dvorka.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dvorka/hstr"><b>dvorka/hstr</b></a><br><sub>Bash and Zsh shell history TUI suggest box - easily view, navigate, search and manage your command history.</sub></td>
-<td align="right"><b>4,465</b></td>
+<td align="right"><b>4,466</b></td>
 <td align="right">240</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">28</td>
 <td><img src="https://github.com/vslavik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vslavik/diff-pdf"><b>vslavik/diff-pdf</b></a><br><sub>A simple tool for visually comparing two PDF files</sub></td>
-<td align="right"><b>4,352</b></td>
+<td align="right"><b>4,355</b></td>
 <td align="right">266</td>
 <td>C++</td>
 </tr>

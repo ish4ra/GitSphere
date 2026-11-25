@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **17** | 22 Nov 2026 | <a href="../../data/developers/CI.json">JSON</a> |
+| 🟡 Provisional | **18** | 22 Nov 2026 | <a href="../../data/developers/CI.json">JSON</a> |
 
 </div>
 
@@ -44,97 +44,104 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/edyxem"><img src="https://avatars.githubusercontent.com/u/201569224?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/edyxem"><b>Emmanuel Tossou</b></a><br><sub>&#64;edyxem</sub></td>
+<td align="right"><b>188</b></td>
+<td align="right">20</td>
+<td><sub>Bonoua, Cote d&#39;Ivoire</sub></td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/201RichK"><img src="https://avatars.githubusercontent.com/u/44883539?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/201RichK"><b>Amos Pascal Amos</b></a><br><sub>&#64;201RichK</sub></td>
 <td align="right"><b>19</b></td>
 <td align="right">54</td>
 <td><sub>Abidjan ( côte d&#39;ivoire )</sub></td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/2ok-k"><img src="https://avatars.githubusercontent.com/u/52870159?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/2ok-k"><b>Oumar Kouassi</b></a><br><sub>&#64;2ok-k</sub></td>
 <td align="right"><b>14</b></td>
 <td align="right">35</td>
 <td><sub>Abidjan, Côte d&#39;Ivoire</sub></td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/23cyy"><img src="https://avatars.githubusercontent.com/u/113162556?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/23cyy"><b>Cyrille N&#39;DAH</b></a><br><sub>&#64;23cyy</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">22</td>
 <td><sub>Côte d&#39;Ivoire</sub></td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/0x77chris"><img src="https://avatars.githubusercontent.com/u/193618895?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0x77chris"><b>chris</b></a><br><sub>&#64;0x77chris</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">14</td>
 <td><sub>Ivory Coast</sub></td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/07Manfaily"><img src="https://avatars.githubusercontent.com/u/68975545?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/07Manfaily"><b>Manfaily Roland Yao</b></a><br><sub>&#64;07Manfaily</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">15</td>
 <td><sub>Côte d&#39;Ivoire (Abidjan)</sub></td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/Dsaifon"><img src="https://avatars.githubusercontent.com/u/64630569?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dsaifon"><b>Saifoulaye Barry</b></a><br><sub>&#64;Dsaifon</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">16</td>
 <td><sub>Côte d&#39;Ivoire</sub></td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/10101995"><img src="https://avatars.githubusercontent.com/u/47169371?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/10101995"><b>Serge Zoto</b></a><br><sub>&#64;10101995</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">14</td>
 <td><sub>Côte d&#39;Ivoire</sub></td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/0142704513"><img src="https://avatars.githubusercontent.com/u/137011082?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0142704513"><b>Issa Traore</b></a><br><sub>&#64;0142704513</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">8</td>
 <td><sub>Côte d&#39;Ivoire</sub></td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/03mega"><img src="https://avatars.githubusercontent.com/u/4158578?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/03mega"><b>yeo ali</b></a><br><sub>&#64;03mega</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>côte d&#39;ivoire</sub></td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/7yadjiman7"><img src="https://avatars.githubusercontent.com/u/196987100?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/7yadjiman7"><b>Coulibaly Yadjiman</b></a><br><sub>&#64;7yadjiman7</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Abidjan, Côte d&#39;Ivoire</sub></td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/01amani"><img src="https://avatars.githubusercontent.com/u/39102969?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/01amani"><b>Amani Bienvenu Hippolye Konan</b></a><br><sub>&#64;01amani</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>University Jean Lorougnon Guedé Daloa (Ivory Co…</sub></td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><a href="https://github.com/15679058996"><img src="https://avatars.githubusercontent.com/u/89431278?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/15679058996"><b>Kossonou kouadio Elisée Keynes</b></a><br><sub>&#64;15679058996</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Côte d&#39;Ivoire</sub></td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">17</td>
 <td><a href="https://github.com/1theParzival69"><img src="https://avatars.githubusercontent.com/u/230666541?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/1theParzival69"><b>SAMANDOULGOU Hicham Hafiz Guédalia</b></a><br><sub>&#64;1theParzival69</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Yamoussoukro,Ivory Coast</sub></td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">18</td>
 <td><a href="https://github.com/18serge45"><img src="https://avatars.githubusercontent.com/u/282552671?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/18serge45"><b>L&#39;empereur18🧑💻🥷</b></a><br><sub>&#64;18serge45</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
@@ -148,7 +155,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 17 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 18 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 151 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

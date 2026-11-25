@@ -5,7 +5,7 @@
 "country": {"code":"GQ","name":"Equatorial Guinea","slug":"equatorial-guinea"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":42,"ownerExpansionBacklog":65,"candidates":42,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":47,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":42,"ownerExpansionBacklog":65,"candidates":42,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":47,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"linkih-app","nameWithOwner":"alexis-ngoyi/linkih-app","url":"https://github.com/alexis-ngoyi/linkih-app","description":null,"stars":2,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2023-02-10T15:01:32Z","pushedAt":"2023-05-25T00:45:05Z","archived":false,"owner":{"login":"alexis-ngoyi","name":"Alexis Ngoyi M.","type":"User","url":"https://github.com/alexis-ngoyi","location":"Guinee Equatoriale, Malabo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Alterte","nameWithOwner":"alterte/Alterte","url":"https://github.com/alterte/Alterte","description":null,"stars":1,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2025-06-20T12:46:45Z","pushedAt":"2025-06-20T12:55:30Z","archived":false,"owner":{"login":"alterte","name":"Jose Alejandro Nuñez Andeme","type":"User","url":"https://github.com/alterte","location":"Malabo, Bioko Norte, Guinea Ecuatorial","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -50,8 +50,8 @@
   {"rank":41,"id":null,"name":"Red-Social-ConectaVida","nameWithOwner":"winny05/Red-Social-ConectaVida","url":"https://github.com/winny05/Red-Social-ConectaVida","description":null,"stars":0,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2026-05-13T17:25:38Z","pushedAt":"2026-05-13T18:30:15Z","archived":false,"owner":{"login":"winny05","name":"Ignacia Bibiana Angono ONDO BENGOBESAMAN","type":"User","url":"https://github.com/winny05","location":"Cuidad de La Paz, Djibloho","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":42,"id":null,"name":"calculadora-con-html-css-y-javascript","nameWithOwner":"yosoydoramn/calculadora-con-html-css-y-javascript","url":"https://github.com/yosoydoramn/calculadora-con-html-css-y-javascript","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2022-01-20T22:09:07Z","pushedAt":"2022-01-20T22:09:08Z","archived":false,"owner":{"login":"yosoydoramn","name":"Domingo Raul MITOGO NKENE","type":"User","url":"https://github.com/yosoydoramn","location":"Malabo - Guinea Ecuatorial","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "86a80608fd7e003a",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "41993bb721fb94c8",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

@@ -24,57 +24,57 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/Unity-Technologies.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Unity-Technologies/ml-agents"><b>Unity-Technologies/ml-agents</b></a><br><sub>The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to s…</sub></td>
-<td align="right"><b>19,891</b></td>
-<td align="right">4,523</td>
+<td align="right"><b>19,893</b></td>
+<td align="right">4,520</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/SubtitleEdit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SubtitleEdit/subtitleedit"><b>SubtitleEdit/subtitleedit</b></a><br><sub>the subtitle editor :)</sub></td>
-<td align="right"><b>15,094</b></td>
-<td align="right">1,393</td>
+<td align="right"><b>15,131</b></td>
+<td align="right">1,398</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/Unity-Technologies.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Unity-Technologies/UnityCsReference"><b>Unity-Technologies/UnityCsReference</b></a><br><sub>Unity C# reference source code.</sub></td>
-<td align="right"><b>13,077</b></td>
-<td align="right">2,544</td>
+<td align="right"><b>13,082</b></td>
+<td align="right">2,543</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/hadolint.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hadolint/hadolint"><b>hadolint/hadolint</b></a><br><sub>Dockerfile linter, validate inline bash, written in Haskell</sub></td>
-<td align="right"><b>12,543</b></td>
+<td align="right"><b>12,550</b></td>
 <td align="right">514</td>
 <td>Haskell</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/porsager.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/porsager/postgres"><b>porsager/postgres</b></a><br><sub>Postgres.js - The Fastest full featured PostgreSQL client</sub></td>
-<td align="right"><b>8,768</b></td>
+<td align="right"><b>8,769</b></td>
 <td align="right">408</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/Unity-Technologies.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Unity-Technologies/EntityComponentSystemSamples"><b>Unity-Technologies/EntityComponentSystemSamples</b></a></td>
-<td align="right"><b>8,224</b></td>
-<td align="right">1,720</td>
+<td align="right"><b>8,226</b></td>
+<td align="right">1,716</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/larsenwork.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/larsenwork/monoid"><b>larsenwork/monoid</b></a><br><sub>Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt. http://larsenw…</sub></td>
-<td align="right"><b>7,954</b></td>
+<td align="right"><b>7,955</b></td>
 <td align="right">167</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/ilyamiro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ilyamiro/serpantinum"><b>ilyamiro/serpantinum</b></a><br><sub>A shell for wayland compositors</sub></td>
-<td align="right"><b>7,767</b></td>
-<td align="right">374</td>
+<td align="right"><b>7,788</b></td>
+<td align="right">373</td>
 <td>QML</td>
 </tr>
 <tr>
@@ -87,21 +87,21 @@
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/webhooksite.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/webhooksite/webhook.site"><b>webhooksite/webhook.site</b></a><br><sub>⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.</sub></td>
-<td align="right"><b>6,808</b></td>
-<td align="right">541</td>
+<td align="right"><b>6,811</b></td>
+<td align="right">543</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/michenriksen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/michenriksen/gitrob"><b>michenriksen/gitrob</b></a> <sub>archived</sub><br><sub>Reconnaissance tool for GitHub organizations</sub></td>
-<td align="right"><b>6,199</b></td>
+<td align="right"><b>6,197</b></td>
 <td align="right">838</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/adamgiebl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adamgiebl/neumorphism"><b>adamgiebl/neumorphism</b></a><br><sub>🎉 Generate CSS for your Neumorphism designs</sub></td>
-<td align="right"><b>6,188</b></td>
+<td align="right"><b>6,191</b></td>
 <td align="right">325</td>
 <td>JavaScript</td>
 </tr>
@@ -109,49 +109,49 @@
 <td align="right">13</td>
 <td><img src="https://github.com/michenriksen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/michenriksen/aquatone"><b>michenriksen/aquatone</b></a> <sub>archived</sub><br><sub>A Tool for Domain Flyovers</sub></td>
 <td align="right"><b>5,959</b></td>
-<td align="right">900</td>
+<td align="right">901</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/klauspost.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/klauspost/compress"><b>klauspost/compress</b></a><br><sub>Optimized Go Compression Packages</sub></td>
-<td align="right"><b>5,729</b></td>
-<td align="right">443</td>
+<td align="right"><b>5,732</b></td>
+<td align="right">445</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/thebuilder.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thebuilder/react-intersection-observer"><b>thebuilder/react-intersection-observer</b></a><br><sub>React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.</sub></td>
-<td align="right"><b>5,543</b></td>
+<td align="right"><b>5,541</b></td>
 <td align="right">188</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">16</td>
 <td><img src="https://github.com/umbraco.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/umbraco/Umbraco-CMS"><b>umbraco/Umbraco-CMS</b></a><br><sub>Umbraco is a free and open source .NET content management system helping you deliver delightful digital experiences.</sub></td>
-<td align="right"><b>5,286</b></td>
-<td align="right">2,960</td>
+<td align="right"><b>5,289</b></td>
+<td align="right">2,959</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/Baekalfen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Baekalfen/PyBoy"><b>Baekalfen/PyBoy</b></a><br><sub>Game Boy emulator written in Python</sub></td>
-<td align="right"><b>5,240</b></td>
-<td align="right">542</td>
+<td align="right"><b>5,242</b></td>
+<td align="right">544</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">18</td>
 <td><img src="https://github.com/Unity-Technologies.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Unity-Technologies/FPSSample"><b>Unity-Technologies/FPSSample</b></a><br><sub>A first person multiplayer shooter example project in Unity</sub></td>
-<td align="right"><b>5,139</b></td>
-<td align="right">1,865</td>
+<td align="right"><b>5,140</b></td>
+<td align="right">1,864</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">19</td>
 <td><img src="https://github.com/SebLague.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SebLague/Digital-Logic-Sim"><b>SebLague/Digital-Logic-Sim</b></a></td>
-<td align="right"><b>4,756</b></td>
-<td align="right">582</td>
+<td align="right"><b>4,757</b></td>
+<td align="right">583</td>
 <td>C#</td>
 </tr>
 <tr>
@@ -164,29 +164,29 @@
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/code-charity.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/code-charity/youtube"><b>code-charity/youtube</b></a><br><sub>YouTube (Video) Browser-Extension. &#91;Top1 FOSS.&#93; Enrich your experience &amp; choice! 🧰Smart features📌set &amp; forget📌100s o…</sub></td>
-<td align="right"><b>4,695</b></td>
+<td align="right"><b>4,698</b></td>
 <td align="right">1,040</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">22</td>
 <td><img src="https://github.com/duemunk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/duemunk/Async"><b>duemunk/Async</b></a><br><sub>Syntactic sugar in Swift for asynchronous dispatches in Grand Central Dispatch</sub></td>
-<td align="right"><b>4,543</b></td>
+<td align="right"><b>4,542</b></td>
 <td align="right">311</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">23</td>
 <td><img src="https://github.com/jdah.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jdah/minecraft-weekend"><b>jdah/minecraft-weekend</b></a><br><sub>Minecraft, but I made it in 48 hours.</sub></td>
-<td align="right"><b>4,421</b></td>
+<td align="right"><b>4,423</b></td>
 <td align="right">479</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">24</td>
 <td><img src="https://github.com/cavi-au.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cavi-au/Consent-O-Matic"><b>cavi-au/Consent-O-Matic</b></a><br><sub>Browser extension that automatically fills out cookie popups based on your preferences</sub></td>
-<td align="right"><b>4,333</b></td>
-<td align="right">225</td>
+<td align="right"><b>4,336</b></td>
+<td align="right">226</td>
 <td>JavaScript</td>
 </tr>
 <tr>

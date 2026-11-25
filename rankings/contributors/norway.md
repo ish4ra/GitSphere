@@ -34,7 +34,7 @@
 </tr>
 <tr>
 <td align="right">2</td>
-<td><a href="https://github.com/bep"><img src="https://avatars.githubusercontent.com/u/394382?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bep"><b>Bjørn Erik Pedersen</b></a><br><sub>&#64;bep · 2,527 followers</sub></td>
+<td><a href="https://github.com/bep"><img src="https://avatars.githubusercontent.com/u/394382?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bep"><b>Bjørn Erik Pedersen</b></a><br><sub>&#64;bep · 2,530 followers</sub></td>
 <td align="right"><b>2,928</b></td>
 <td align="right">2,049</td>
 <td align="right">629</td>
@@ -129,7 +129,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 11 of 649 discovered developers (638 awaiting measurement).
+- **Measured:** 11 of 681 discovered developers (670 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 167 in round 1.

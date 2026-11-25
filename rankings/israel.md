@@ -24,266 +24,266 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/goldbergyoni.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/goldbergyoni/nodebestpractices"><b>goldbergyoni/nodebestpractices</b></a><br><sub>✅ The Node.js best practices list (July 2026)</sub></td>
-<td align="right"><b>105,765</b></td>
-<td align="right">10,717</td>
+<td align="right"><b>105,775</b></td>
+<td align="right">10,715</td>
 <td>Dockerfile</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/DovAmir.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DovAmir/awesome-design-patterns"><b>DovAmir/awesome-design-patterns</b></a><br><sub>A curated list of software and architecture related design patterns.</sub></td>
-<td align="right"><b>49,852</b></td>
-<td align="right">3,313</td>
+<td align="right"><b>49,890</b></td>
+<td align="right">3,314</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/gitroomhq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gitroomhq/postiz-app"><b>gitroomhq/postiz-app</b></a><br><sub>📨 The ultimate agentic social media scheduling tool 🤖</sub></td>
-<td align="right"><b>42,139</b></td>
-<td align="right">8,054</td>
+<td align="right"><b>42,396</b></td>
+<td align="right">8,109</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/kuchin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kuchin/awesome-cto"><b>kuchin/awesome-cto</b></a><br><sub>A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups</sub></td>
-<td align="right"><b>35,782</b></td>
-<td align="right">2,195</td>
+<td align="right"><b>35,792</b></td>
+<td align="right">2,196</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/jondot.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jondot/awesome-react-native"><b>jondot/awesome-react-native</b></a><br><sub>Awesome React Native components, news, tools, and learning material!</sub></td>
 <td align="right"><b>35,708</b></td>
-<td align="right">4,067</td>
+<td align="right">4,066</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/dragonflydb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dragonflydb/dragonfly"><b>dragonflydb/dragonfly</b></a><br><sub>A modern replacement for Redis and Memcached</sub></td>
-<td align="right"><b>31,901</b></td>
-<td align="right">1,299</td>
+<td align="right"><b>31,929</b></td>
+<td align="right">1,297</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/gabime.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gabime/spdlog"><b>gabime/spdlog</b></a><br><sub>Fast C++ logging library.</sub></td>
-<td align="right"><b>29,828</b></td>
-<td align="right">5,334</td>
+<td align="right"><b>29,818</b></td>
+<td align="right">5,335</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/goldbergyoni.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/goldbergyoni/javascript-testing-best-practices"><b>goldbergyoni/javascript-testing-best-practices</b></a><br><sub>📗🌐 🚢 Comprehensive and exhaustive JavaScript &amp; Node.js testing best practices (August 2025)</sub></td>
-<td align="right"><b>24,612</b></td>
-<td align="right">2,080</td>
+<td align="right"><b>24,614</b></td>
+<td align="right">2,081</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/renovatebot.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/renovatebot/renovate"><b>renovatebot/renovate</b></a><br><sub>Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io</sub></td>
-<td align="right"><b>23,220</b></td>
-<td align="right">3,459</td>
+<td align="right"><b>23,263</b></td>
+<td align="right">3,471</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/teambit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/teambit/bit"><b>teambit/bit</b></a><br><sub>AI-powered development workspaces with reusable components, architectural clarity and zero overhead.</sub></td>
 <td align="right"><b>18,508</b></td>
-<td align="right">962</td>
+<td align="right">961</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/cool-RR.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cool-RR/PySnooper"><b>cool-RR/PySnooper</b></a> <sub>archived</sub><br><sub>Never use print for debugging again</sub></td>
-<td align="right"><b>16,576</b></td>
+<td align="right"><b>16,577</b></td>
 <td align="right">970</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/idank.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/idank/explainshell"><b>idank/explainshell</b></a><br><sub>match command-line arguments to their help text</sub></td>
-<td align="right"><b>14,353</b></td>
-<td align="right">857</td>
+<td align="right"><b>14,355</b></td>
+<td align="right">855</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">13</td>
 <td><img src="https://github.com/yoavbls.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yoavbls/pretty-ts-errors"><b>yoavbls/pretty-ts-errors</b></a><br><sub>🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀</sub></td>
-<td align="right"><b>14,099</b></td>
+<td align="right"><b>14,098</b></td>
 <td align="right">114</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/blaCCkHatHacEEkr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE"><b>blaCCkHatHacEEkr/PENTESTING-BIBLE</b></a><br><sub>articles</sub></td>
-<td align="right"><b>14,026</b></td>
-<td align="right">2,463</td>
+<td align="right"><b>14,028</b></td>
+<td align="right">2,464</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/bolshchikov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bolshchikov/js-must-watch"><b>bolshchikov/js-must-watch</b></a><br><sub>Must-watch videos about javascript</sub></td>
-<td align="right"><b>13,658</b></td>
+<td align="right"><b>13,659</b></td>
 <td align="right">869</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">16</td>
 <td><img src="https://github.com/elie222.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/elie222/inbox-zero"><b>elie222/inbox-zero</b></a><br><sub>The world&#39;s best AI personal assistant for email. Open source app to help you reach inbox zero fast.</sub></td>
-<td align="right"><b>13,089</b></td>
-<td align="right">1,686</td>
+<td align="right"><b>13,117</b></td>
+<td align="right">1,693</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/jacobgil.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jacobgil/pytorch-grad-cam"><b>jacobgil/pytorch-grad-cam</b></a><br><sub>Advanced AI Explainability for computer vision. Support for CNNs, Vision Transformers, Classification, Object detection…</sub></td>
-<td align="right"><b>13,015</b></td>
-<td align="right">1,711</td>
+<td align="right"><b>13,017</b></td>
+<td align="right">1,712</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">18</td>
 <td><img src="https://github.com/keephq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/keephq/keep"><b>keephq/keep</b></a><br><sub>The open-source AIOps and alert management platform</sub></td>
-<td align="right"><b>12,550</b></td>
-<td align="right">1,558</td>
+<td align="right"><b>12,565</b></td>
+<td align="right">1,560</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">19</td>
 <td><img src="https://github.com/welldone-software.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/welldone-software/why-did-you-render"><b>welldone-software/why-did-you-render</b></a><br><sub>why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Wor…</sub></td>
-<td align="right"><b>12,532</b></td>
+<td align="right"><b>12,528</b></td>
 <td align="right">223</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">20</td>
 <td><img src="https://github.com/hmemcpy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hmemcpy/milewski-ctfp-pdf"><b>hmemcpy/milewski-ctfp-pdf</b></a><br><sub>Bartosz Milewski&#39;s &#39;Category Theory for Programmers&#39; unofficial PDF and LaTeX source</sub></td>
-<td align="right"><b>11,714</b></td>
+<td align="right"><b>11,718</b></td>
 <td align="right">646</td>
 <td>TeX</td>
 </tr>
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/yairm210.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yairm210/Unciv"><b>yairm210/Unciv</b></a><br><sub>Open-source Android/Desktop remake of Civ V</sub></td>
-<td align="right"><b>11,625</b></td>
+<td align="right"><b>11,643</b></td>
 <td align="right">2,089</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">22</td>
 <td><img src="https://github.com/Lightricks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Lightricks/LTX-Video"><b>Lightricks/LTX-Video</b></a><br><sub>Official repository for LTX-Video</sub></td>
-<td align="right"><b>11,459</b></td>
-<td align="right">1,255</td>
+<td align="right"><b>11,490</b></td>
+<td align="right">1,256</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">23</td>
 <td><img src="https://github.com/FalkorDB.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FalkorDB/FalkorDB"><b>FalkorDB/FalkorDB</b></a><br><sub>A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goa…</sub></td>
-<td align="right"><b>10,499</b></td>
+<td align="right"><b>10,502</b></td>
 <td align="right">608</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">24</td>
+<td><img src="https://github.com/Lightricks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Lightricks/LTX-2"><b>Lightricks/LTX-2</b></a><br><sub>Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.</sub></td>
+<td align="right"><b>10,390</b></td>
+<td align="right">1,661</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">25</td>
 <td><img src="https://github.com/harelba.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/harelba/q"><b>harelba/q</b></a><br><sub>q - Run SQL directly on delimited files and multi-file sqlite databases</sub></td>
 <td align="right"><b>10,360</b></td>
 <td align="right">425</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">25</td>
-<td><img src="https://github.com/Lightricks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Lightricks/LTX-2"><b>Lightricks/LTX-2</b></a><br><sub>Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.</sub></td>
-<td align="right"><b>10,340</b></td>
-<td align="right">1,651</td>
-<td>Python</td>
-</tr>
-<tr>
 <td align="right">26</td>
-<td><img src="https://github.com/meirwah.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/meirwah/awesome-incident-response"><b>meirwah/awesome-incident-response</b></a><br><sub>A curated list of tools for incident response</sub></td>
-<td align="right"><b>9,594</b></td>
-<td align="right">1,787</td>
-<td>—</td>
+<td><img src="https://github.com/elie222.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/elie222/rakazo"><b>elie222/rakazo</b></a><br><sub>Open-source Grok Bot alternative. Choose your own model and sandbox.</sub></td>
+<td align="right"><b>9,763</b></td>
+<td align="right">1,755</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">27</td>
-<td><img src="https://github.com/elie222.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/elie222/rakazo"><b>elie222/rakazo</b></a><br><sub>Open-source Grok Bot alternative. Choose your own model and sandbox.</sub></td>
-<td align="right"><b>9,446</b></td>
-<td align="right">1,708</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/meirwah.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/meirwah/awesome-incident-response"><b>meirwah/awesome-incident-response</b></a><br><sub>A curated list of tools for incident response</sub></td>
+<td align="right"><b>9,609</b></td>
+<td align="right">1,795</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">28</td>
 <td><img src="https://github.com/meirwah.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/meirwah/awesome-workflow-engines"><b>meirwah/awesome-workflow-engines</b></a><br><sub>A curated list of awesome open source workflow engines</sub></td>
-<td align="right"><b>7,967</b></td>
-<td align="right">794</td>
+<td align="right"><b>7,971</b></td>
+<td align="right">795</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">29</td>
 <td><img src="https://github.com/filsv.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/filsv/iOSDeviceSupport"><b>filsv/iOSDeviceSupport</b></a><br><sub>Xcode iPhoneOS (iOS) DeviceSupport files (6.0 - 17.0)</sub></td>
-<td align="right"><b>7,192</b></td>
+<td align="right"><b>7,191</b></td>
 <td align="right">944</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">30</td>
 <td><img src="https://github.com/jondot.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jondot/hygen"><b>jondot/hygen</b></a><br><sub>The simple, fast, and scalable code generator that lives in your project.</sub></td>
-<td align="right"><b>5,924</b></td>
+<td align="right"><b>5,925</b></td>
 <td align="right">275</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">31</td>
 <td><img src="https://github.com/komodorio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/komodorio/helm-dashboard"><b>komodorio/helm-dashboard</b></a><br><sub>The missing UI for Helm - visualize your releases</sub></td>
-<td align="right"><b>5,860</b></td>
+<td align="right"><b>5,864</b></td>
 <td align="right">365</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">32</td>
 <td><img src="https://github.com/snyk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/snyk/cli"><b>snyk/cli</b></a><br><sub>Snyk CLI scans and monitors your projects for security vulnerabilities.</sub></td>
-<td align="right"><b>5,716</b></td>
-<td align="right">701</td>
+<td align="right"><b>5,720</b></td>
+<td align="right">702</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">33</td>
 <td><img src="https://github.com/omriharel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/omriharel/deej"><b>omriharel/deej</b></a><br><sub>Set app volumes with real sliders! deej is an Arduino &amp; Go project to let you build your own hardware mixer for Windows…</sub></td>
-<td align="right"><b>5,532</b></td>
-<td align="right">583</td>
+<td align="right"><b>5,535</b></td>
+<td align="right">586</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">34</td>
 <td><img src="https://github.com/may215.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/may215/awesome-termux-hacking"><b>may215/awesome-termux-hacking</b></a><br><sub>⚡️An awesome list of the best Termux hacking tools</sub></td>
-<td align="right"><b>4,958</b></td>
+<td align="right"><b>4,968</b></td>
 <td align="right">382</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">35</td>
 <td><img src="https://github.com/ronreiter.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ronreiter/interactive-tutorials"><b>ronreiter/interactive-tutorials</b></a><br><sub>Interactive Tutorials</sub></td>
-<td align="right"><b>4,857</b></td>
+<td align="right"><b>4,859</b></td>
 <td align="right">2,879</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">36</td>
 <td><img src="https://github.com/yoav-lavi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yoav-lavi/melody"><b>yoav-lavi/melody</b></a><br><sub>Melody is a language that compiles to regular expressions and aims to be more readable and maintainable</sub></td>
-<td align="right"><b>4,739</b></td>
+<td align="right"><b>4,738</b></td>
 <td align="right">62</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">37</td>
 <td><img src="https://github.com/goldbergyoni.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/goldbergyoni/nodejs-testing-best-practices"><b>goldbergyoni/nodejs-testing-best-practices</b></a><br><sub>Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 202…</sub></td>
-<td align="right"><b>4,412</b></td>
+<td align="right"><b>4,413</b></td>
 <td align="right">285</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">38</td>
 <td><img src="https://github.com/Lightricks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Lightricks/ComfyUI-LTXVideo"><b>Lightricks/ComfyUI-LTXVideo</b></a><br><sub>LTX-Video Support for ComfyUI</sub></td>
-<td align="right"><b>4,273</b></td>
+<td align="right"><b>4,283</b></td>
 <td align="right">524</td>
 <td>Python</td>
 </tr>

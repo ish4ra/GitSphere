@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **21** | 22 Nov 2026 | <a href="../data/AQ.json">JSON</a> |
+| 🟡 Provisional | **25** | 22 Nov 2026 | <a href="../data/AQ.json">JSON</a> |
 
 </div>
 
@@ -24,36 +24,36 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/MarlinFirmware.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MarlinFirmware/Marlin"><b>MarlinFirmware/Marlin</b></a><br><sub>Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers. Marlin supports all commo…</sub></td>
-<td align="right"><b>17,682</b></td>
-<td align="right">19,708</td>
+<td align="right"><b>17,684</b></td>
+<td align="right">19,709</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/r-lyeh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/r-lyeh/single_file_libs"><b>r-lyeh/single&#95;file&#95;libs</b></a><br><sub>List of single-file C/C++ libraries, with emphasis on clause-less licenses.</sub></td>
-<td align="right"><b>10,042</b></td>
+<td align="right"><b>10,043</b></td>
 <td align="right">647</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/ublue-os.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ublue-os/bazzite"><b>ublue-os/bazzite</b></a><br><sub>Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.</sub></td>
-<td align="right"><b>9,394</b></td>
-<td align="right">1,165</td>
+<td align="right"><b>9,410</b></td>
+<td align="right">1,171</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/rustformers.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rustformers/llm"><b>rustformers/llm</b></a> <sub>archived</sub><br><sub>&#91;Unmaintained, see README&#93; An ecosystem of Rust libraries for working with large language models</sub></td>
-<td align="right"><b>6,142</b></td>
+<td align="right"><b>6,141</b></td>
 <td align="right">380</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/FxEmbed.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FxEmbed/FxEmbed"><b>FxEmbed/FxEmbed</b></a><br><sub>Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and ot…</sub></td>
-<td align="right"><b>5,964</b></td>
-<td align="right">298</td>
+<td align="right"><b>5,981</b></td>
+<td align="right">299</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -168,6 +168,34 @@
 <td align="right">62</td>
 <td>Shell</td>
 </tr>
+<tr>
+<td align="right">22</td>
+<td><img src="https://github.com/TerraFirmaGreg-Team.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TerraFirmaGreg-Team/Modpack-Modern"><b>TerraFirmaGreg-Team/Modpack-Modern</b></a><br><sub>An innovative modpack that contains GregTech and TerraFirmaCraft on 1.20.x.</sub></td>
+<td align="right"><b>556</b></td>
+<td align="right">265</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td><img src="https://github.com/r-lyeh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/r-lyeh/v1"><b>r-lyeh/v1</b></a><br><sub>💎 3D game framework in C, v1.</sub></td>
+<td align="right"><b>528</b></td>
+<td align="right">38</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td><img src="https://github.com/VMsec.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/VMsec/ihoneyBakFileScan_Modify"><b>VMsec/ihoneyBakFileScan&#95;Modify</b></a><br><sub>批量网站备份文件扫描器，增加文件规则，优化内存占用</sub></td>
+<td align="right"><b>527</b></td>
+<td align="right">70</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td><img src="https://github.com/pygame-web.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pygame-web/pygbag"><b>pygame-web/pygbag</b></a><br><sub>python and pygame wasm for everyone ( packager + test server + simulator )</sub></td>
+<td align="right"><b>527</b></td>
+<td align="right">59</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -176,8 +204,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 706 stars; 21 attributed candidates are tracked.
-- 76 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 527 stars; 25 attributed candidates are tracked.
+- 62 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 14 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

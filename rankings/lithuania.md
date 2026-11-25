@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **45** | 22 Nov 2026 | <a href="../data/LT.json">JSON</a> |
+| 🟡 Provisional | **53** | 22 Nov 2026 | <a href="../data/LT.json">JSON</a> |
 
 </div>
 
@@ -24,14 +24,14 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/epicmaxco.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/epicmaxco/vuestic-admin"><b>epicmaxco/vuestic-admin</b></a><br><sub>Vuestic Admin is an open-source, ready-to-use admin template suite designed for rapid development, easy maintenance, an…</sub></td>
-<td align="right"><b>10,957</b></td>
-<td align="right">1,782</td>
+<td align="right"><b>10,954</b></td>
+<td align="right">1,780</td>
 <td>Vue</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/DATA-DOG.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DATA-DOG/go-sqlmock"><b>DATA-DOG/go-sqlmock</b></a><br><sub>Sql mock driver for golang to test database interactions</sub></td>
-<td align="right"><b>6,576</b></td>
+<td align="right"><b>6,575</b></td>
 <td align="right">423</td>
 <td>Go</td>
 </tr>
@@ -336,6 +336,62 @@
 <td align="right">21</td>
 <td>Kotlin</td>
 </tr>
+<tr>
+<td align="right">46</td>
+<td><img src="https://github.com/alexantr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexantr/filemanager"><b>alexantr/filemanager</b></a><br><sub>File manager in a single php file</sub></td>
+<td align="right"><b>560</b></td>
+<td align="right">331</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">47</td>
+<td><img src="https://github.com/UgnisSoftware.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/UgnisSoftware/react-spreadsheet-import"><b>UgnisSoftware/react-spreadsheet-import</b></a><br><sub>Import flow for Excel (.xlsx) and CSV file with automated column matching and validation.</sub></td>
+<td align="right"><b>560</b></td>
+<td align="right">156</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><img src="https://github.com/remrc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/remrc/Self-Balancing-Cube"><b>remrc/Self-Balancing-Cube</b></a></td>
+<td align="right"><b>553</b></td>
+<td align="right">99</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><img src="https://github.com/gytis-ivaskevicius.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gytis-ivaskevicius/flake-utils-plus"><b>gytis-ivaskevicius/flake-utils-plus</b></a><br><sub>Use Nix flakes without any fluff.</sub></td>
+<td align="right"><b>545</b></td>
+<td align="right">55</td>
+<td>Nix</td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><img src="https://github.com/ArtiomTr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ArtiomTr/jest-coverage-report-action"><b>ArtiomTr/jest-coverage-report-action</b></a><br><sub>Track your code coverage in every pull request.</sub></td>
+<td align="right"><b>543</b></td>
+<td align="right">148</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">51</td>
+<td><img src="https://github.com/FedorovAlexander.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FedorovAlexander/Front-end-Job-Interview-Questions"><b>FedorovAlexander/Front-end-Job-Interview-Questions</b></a><br><sub>Ответы на вопросы на должность Frontend разработчика.</sub></td>
+<td align="right"><b>532</b></td>
+<td align="right">84</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><img src="https://github.com/edvinaskrucas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/edvinaskrucas/notification"><b>edvinaskrucas/notification</b></a><br><sub>Notification package for Laravel</sub></td>
+<td align="right"><b>518</b></td>
+<td align="right">90</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><img src="https://github.com/TitasGailius.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TitasGailius/terminal"><b>TitasGailius/terminal</b></a><br><sub>An Elegent wrapper around Symfony&#39;s Process component.</sub></td>
+<td align="right"><b>511</b></td>
+<td align="right">37</td>
+<td>PHP</td>
+</tr>
 </tbody>
 </table>
 
@@ -344,8 +400,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 571 stars; 45 attributed candidates are tracked.
-- 114 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 511 stars; 53 attributed candidates are tracked.
+- 111 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 135 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

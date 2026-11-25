@@ -24,43 +24,43 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/htr-tech.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/htr-tech/zphisher"><b>htr-tech/zphisher</b></a><br><sub>An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be resp…</sub></td>
-<td align="right"><b>17,307</b></td>
-<td align="right">6,455</td>
+<td align="right"><b>17,341</b></td>
+<td align="right">6,461</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/codewithsadee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/codewithsadee/vcard-personal-portfolio"><b>codewithsadee/vcard-personal-portfolio</b></a><br><sub>vCard is a fully responsive personal portfolio website, responsive for all devices.</sub></td>
-<td align="right"><b>8,173</b></td>
-<td align="right">4,497</td>
+<td align="right"><b>8,177</b></td>
+<td align="right">4,499</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/KnockOutEZ.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KnockOutEZ/wigolo"><b>KnockOutEZ/wigolo</b></a><br><sub>The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $…</sub></td>
-<td align="right"><b>5,559</b></td>
-<td align="right">464</td>
+<td align="right"><b>5,565</b></td>
+<td align="right">463</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/me-shaon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/me-shaon/GLWTPL"><b>me-shaon/GLWTPL</b></a><br><sub>&quot;Good Luck With That&quot; Public License</sub></td>
-<td align="right"><b>5,068</b></td>
+<td align="right"><b>5,069</b></td>
 <td align="right">170</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/KernelSU-Next.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KernelSU-Next/KernelSU-Next"><b>KernelSU-Next/KernelSU-Next</b></a><br><sub>An advanced Kernel based root solution for Android</sub></td>
-<td align="right"><b>4,938</b></td>
-<td align="right">1,299</td>
+<td align="right"><b>4,981</b></td>
+<td align="right">1,306</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/wasi-master.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wasi-master/13ft"><b>wasi-master/13ft</b></a><br><sub>My own custom 12ft.io replacement</sub></td>
-<td align="right"><b>4,612</b></td>
-<td align="right">247</td>
+<td align="right"><b>4,703</b></td>
+<td align="right">253</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 575 stars; 138 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 575 stars; 148 attributed candidates are tracked.
 - 129 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 173 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

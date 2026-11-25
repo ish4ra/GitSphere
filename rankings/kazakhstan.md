@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | :---: |
 | 🟠 Stale | **63** | 01 Nov 2026 | <a href="../data/KZ.json">JSON</a> |
 
-> **Not yet re-verified.** 31 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 25 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -26,29 +26,29 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/0xAX.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0xAX/linux-insides"><b>0xAX/linux-insides</b></a><br><sub>A book-in-progress about the Linux kernel and its insides.</sub></td>
-<td align="right"><b>33,778</b></td>
+<td align="right"><b>33,784</b></td>
 <td align="right">3,579</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/henrypp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/henrypp/memreduct"><b>henrypp/memreduct</b></a><br><sub>Lightweight real-time memory management application to monitor and clean system memory on your computer.</sub></td>
-<td align="right"><b>11,338</b></td>
-<td align="right">643</td>
+<td align="right"><b>11,367</b></td>
+<td align="right">645</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/henrypp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/henrypp/simplewall"><b>henrypp/simplewall</b></a><br><sub>Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.</sub></td>
-<td align="right"><b>9,345</b></td>
-<td align="right">675</td>
+<td align="right"><b>9,369</b></td>
+<td align="right">679</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/Hexlet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Hexlet/ru-test-assignments"><b>Hexlet/ru-test-assignments</b></a><br><sub>Тестовые задания для самостоятельного выполнения от разных it компаний</sub></td>
-<td align="right"><b>6,771</b></td>
-<td align="right">950</td>
+<td align="right"><b>6,775</b></td>
+<td align="right">949</td>
 <td>Rich Text Format</td>
 </tr>
 <tr>
@@ -249,45 +249,45 @@
 </tr>
 <tr>
 <td align="right">33</td>
-<td><img src="https://github.com/ArtyomZakharov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ArtyomZakharov/drink_decision_maker"><b>ArtyomZakharov/drink&#95;decision&#95;maker</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">0</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/Hexlet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Hexlet/ru-local-communities"><b>Hexlet/ru-local-communities</b></a><br><sub>Список русскоязычных it-комьюнити по городам</sub></td>
+<td align="right"><b>542</b></td>
+<td align="right">174</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">34</td>
-<td><img src="https://github.com/dev-kase.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dev-kase/fix-api"><b>dev-kase/fix-api</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">0</td>
-<td>Java</td>
+<td><img src="https://github.com/rodion-m.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rodion-m/self_taught_programming"><b>rodion-m/self&#95;taught&#95;programming</b></a><br><sub>База знаний по изучению программирования. Преимущественно на русском языке.</sub></td>
+<td align="right"><b>535</b></td>
+<td align="right">40</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">35</td>
-<td><img src="https://github.com/piorphism.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/piorphism/VarianceReductionTechniques"><b>piorphism/VarianceReductionTechniques</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">0</td>
-<td>Jupyter Notebook</td>
+<td><img src="https://github.com/Alua-Kinzhebayeva.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Alua-Kinzhebayeva/iOS-PDF-Reader"><b>Alua-Kinzhebayeva/iOS-PDF-Reader</b></a><br><sub>PDF Reader for iOS written in Swift</sub></td>
+<td align="right"><b>530</b></td>
+<td align="right">145</td>
+<td>Swift</td>
 </tr>
 <tr>
 <td align="right">36</td>
-<td><img src="https://github.com/Skobeltsyn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Skobeltsyn/countour2D_CUDA"><b>Skobeltsyn/countour2D&#95;CUDA</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">0</td>
-<td>Cuda</td>
+<td><img src="https://github.com/creewick.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/creewick/MontereyRainmeter"><b>creewick/MontereyRainmeter</b></a> <sub>archived</sub><br><sub>MacOS style widget pack for Windows</sub></td>
+<td align="right"><b>524</b></td>
+<td align="right">62</td>
+<td>C++</td>
 </tr>
 <tr>
 <td align="right">37</td>
-<td><img src="https://github.com/temirlanZH.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/temirlanZH/.net"><b>temirlanZH/.net</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">0</td>
-<td>HTML</td>
+<td><img src="https://github.com/artemnovichkov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/artemnovichkov/xcode-27-system-prompts"><b>artemnovichkov/xcode-27-system-prompts</b></a><br><sub>Xcode 27 system prompts and internal documentation</sub></td>
+<td align="right"><b>524</b></td>
+<td align="right">28</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">38</td>
-<td><img src="https://github.com/walikhan182.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/walikhan182/Kazakhstan-logistics-network"><b>walikhan182/Kazakhstan-logistics-network</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">0</td>
-<td>Jupyter Notebook</td>
+<td><img src="https://github.com/shinovon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shinovon/KEmulator"><b>shinovon/KEmulator</b></a><br><sub>KEmulator nnmod</sub></td>
+<td align="right"><b>512</b></td>
+<td align="right">49</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">39</td>
@@ -473,8 +473,8 @@
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 1 stars; 63 attributed candidates are tracked.
-- 31 entries were carried over from the previous dataset and are pending revalidation.
-- 118 multi-repository owners are queued for expansion.
+- 25 entries were carried over from the previous dataset and are pending revalidation.
+- 116 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 145 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

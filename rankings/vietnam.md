@@ -24,119 +24,119 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/nextlevelbuilder.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"><b>nextlevelbuilder/ui-ux-pro-max-skill</b></a><br><sub>An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.</sub></td>
-<td align="right"><b>152,639</b></td>
-<td align="right">16,094</td>
+<td align="right"><b>154,044</b></td>
+<td align="right">16,225</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/ZuzooVn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ZuzooVn/machine-learning-for-software-engineers"><b>ZuzooVn/machine-learning-for-software-engineers</b></a><br><sub>A complete daily plan for studying to become a machine learning engineer.</sub></td>
 <td align="right"><b>28,880</b></td>
-<td align="right">6,136</td>
+<td align="right">6,135</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/thangchung.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thangchung/awesome-dotnet-core"><b>thangchung/awesome-dotnet-core</b></a><br><sub>:honeybee: A collection of awesome .NET core libraries, tools, frameworks and software</sub></td>
-<td align="right"><b>21,464</b></td>
-<td align="right">2,952</td>
+<td align="right"><b>21,469</b></td>
+<td align="right">2,951</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">4</td>
+<td><img src="https://github.com/maxrave-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maxrave-dev/SimpMusic"><b>maxrave-dev/SimpMusic</b></a><br><sub>A cross-platform music app using YouTube Music for backend</sub></td>
+<td align="right"><b>13,870</b></td>
+<td align="right">822</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><img src="https://github.com/tuhdo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tuhdo/os01"><b>tuhdo/os01</b></a><br><sub>Bootstrap yourself to write an OS from scratch. A book for self-learner.</sub></td>
-<td align="right"><b>13,788</b></td>
+<td align="right"><b>13,787</b></td>
 <td align="right">796</td>
 <td>TeX</td>
 </tr>
 <tr>
-<td align="right">5</td>
-<td><img src="https://github.com/maxrave-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maxrave-dev/SimpMusic"><b>maxrave-dev/SimpMusic</b></a><br><sub>A cross-platform music app using YouTube Music for backend</sub></td>
-<td align="right"><b>13,727</b></td>
-<td align="right">806</td>
-<td>Kotlin</td>
-</tr>
-<tr>
 <td align="right">6</td>
 <td><img src="https://github.com/itsfatduck.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/itsfatduck/optimizerDuck"><b>itsfatduck/optimizerDuck</b></a><br><sub>Free, open-source Windows optimization tool for performance, privacy, and simplicity.</sub></td>
-<td align="right"><b>12,919</b></td>
-<td align="right">570</td>
+<td align="right"><b>13,096</b></td>
+<td align="right">578</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/evolus.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/evolus/pencil"><b>evolus/pencil</b></a><br><sub>The Pencil Project&#39;s unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that…</sub></td>
-<td align="right"><b>9,922</b></td>
-<td align="right">796</td>
+<td align="right"><b>9,927</b></td>
+<td align="right">798</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/nhivp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nhivp/Awesome-Embedded"><b>nhivp/Awesome-Embedded</b></a><br><sub>A curated list of awesome embedded programming.</sub></td>
-<td align="right"><b>9,366</b></td>
-<td align="right">1,251</td>
+<td align="right"><b>9,374</b></td>
+<td align="right">1,253</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/lzhoang2801.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lzhoang2801/OpCore-Simplify"><b>lzhoang2801/OpCore-Simplify</b></a><br><sub>A tool designed to simplify the creation of OpenCore EFI</sub></td>
-<td align="right"><b>7,803</b></td>
-<td align="right">744</td>
+<td align="right"><b>7,821</b></td>
+<td align="right">747</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/thangchung.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thangchung/clean-code-dotnet"><b>thangchung/clean-code-dotnet</b></a><br><sub>:bathtub: Clean Code concepts and tools adapted for .NET</sub></td>
-<td align="right"><b>7,760</b></td>
-<td align="right">1,130</td>
+<td align="right"><b>7,764</b></td>
+<td align="right">1,129</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/trungdq88.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday"><b>trungdq88/Awesome-Black-Friday-Cyber-Monday</b></a><br><sub>Awesome apps, software, and SaaS deals on Black Friday.</sub></td>
-<td align="right"><b>7,627</b></td>
-<td align="right">1,931</td>
+<td align="right"><b>7,663</b></td>
+<td align="right">2,077</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/hathach.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hathach/tinyusb"><b>hathach/tinyusb</b></a><br><sub>An open source cross-platform USB stack for embedded system</sub></td>
-<td align="right"><b>7,292</b></td>
-<td align="right">1,587</td>
+<td align="right"><b>7,301</b></td>
+<td align="right">1,588</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">13</td>
 <td><img src="https://github.com/longld.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/longld/peda"><b>longld/peda</b></a><br><sub>PEDA - Python Exploit Development Assistance for GDB</sub></td>
-<td align="right"><b>6,171</b></td>
+<td align="right"><b>6,172</b></td>
 <td align="right">824</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/rey5137.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rey5137/material"><b>rey5137/material</b></a> <sub>archived</sub><br><sub>A library to bring fully animated Material Design components to pre-Lolipop Android.</sub></td>
-<td align="right"><b>5,936</b></td>
+<td align="right"><b>5,935</b></td>
 <td align="right">1,290</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/nomi-san.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nomi-san/parsec-vdd"><b>nomi-san/parsec-vdd</b></a><br><sub>✨ Perfect virtual display for game streaming</sub></td>
-<td align="right"><b>5,766</b></td>
+<td align="right"><b>5,775</b></td>
 <td align="right">320</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">16</td>
 <td><img src="https://github.com/PokeAPI.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PokeAPI/pokeapi"><b>PokeAPI/pokeapi</b></a><br><sub>The Pokémon API</sub></td>
-<td align="right"><b>5,482</b></td>
-<td align="right">1,194</td>
+<td align="right"><b>5,483</b></td>
+<td align="right">1,193</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/nguyenphutrong.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nguyenphutrong/quotio"><b>nguyenphutrong/quotio</b></a><br><sub>Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qw…</sub></td>
-<td align="right"><b>4,919</b></td>
+<td align="right"><b>4,922</b></td>
 <td align="right">330</td>
 <td>Rust</td>
 </tr>
@@ -144,7 +144,7 @@
 <td align="right">18</td>
 <td><img src="https://github.com/simplcommerce.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/simplcommerce/SimplCommerce"><b>simplcommerce/SimplCommerce</b></a><br><sub>A simple, cross platform, modulith ecommerce system built on .NET</sub></td>
 <td align="right"><b>4,409</b></td>
-<td align="right">1,667</td>
+<td align="right">1,668</td>
 <td>C#</td>
 </tr>
 <tr>

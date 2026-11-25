@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"SR","name":"Suriname","slug":"suriname"},
-"count": 131,
+"count": 129,
 "repositories": [
-  {"name":"divergentvisiontechnologies/swarv","stars":3,"forks":0,"language":"Vue","archived":false,"createdAt":"2020-05-02T00:58:11Z","pushedAt":"2023-01-06T04:48:16Z","owner":{"login":"divergentvisiontechnologies","type":"User","name":"Divergent Vision","location":"Suriname"},"attribution":{"code":"SR","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T14:26:36.296Z","id":"legacy:divergentvisiontechnologies/swarv","legacy":true},
-  {"name":"viramdin/TicTacToe","stars":3,"forks":0,"language":"JavaScript","archived":false,"createdAt":"2018-11-30T14:23:06Z","pushedAt":"2018-11-30T16:11:31Z","owner":{"login":"viramdin","type":"User","name":"Viresh Ramdin","location":"Suriname"},"attribution":{"code":"SR","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T14:26:36.296Z","id":"legacy:viramdin/tictactoe","legacy":true},
   {"name":"dwnity/dfuse","stars":2,"forks":1,"language":"C","license":"MIT","archived":false,"createdAt":"2020-03-28T14:48:19Z","pushedAt":"2022-04-27T01:35:44Z","owner":{"login":"dwnity","type":"Organization","name":"Ubuntu Dwnity","location":"Suriname"},"attribution":{"code":"SR","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T14:26:36.296Z","id":"legacy:dwnity/dfuse","legacy":true},
   {"name":"mwirjo/SleepOutside-Team14-WDD330","stars":2,"forks":1,"language":"HTML","archived":false,"createdAt":"2025-10-30T00:07:30Z","pushedAt":"2025-12-10T02:23:57Z","owner":{"login":"mwirjo","type":"User","name":"mi-ann wirjosentono","location":"Suriname"},"attribution":{"code":"SR","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T14:26:36.296Z","id":"legacy:mwirjo/sleepoutside-team14-wdd330","legacy":true},
   {"name":"Alleyanto/VerkeersSimulatieUnasat","stars":2,"forks":0,"language":"Java","archived":false,"createdAt":"2020-08-28T18:31:03Z","pushedAt":"2020-08-29T17:13:07Z","owner":{"login":"Alleyanto","type":"User","name":"Alleyanto Arga","location":"Suriname"},"attribution":{"code":"SR","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T14:26:36.296Z","id":"legacy:alleyanto/verkeerssimulatieunasat","legacy":true},

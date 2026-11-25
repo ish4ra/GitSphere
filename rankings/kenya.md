@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | :---: |
 | 🟠 Stale | **54** | 01 Nov 2026 | <a href="../data/KE.json">JSON</a> |
 
-> **Not yet re-verified.** 31 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 28 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -26,14 +26,14 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/maxwellito.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maxwellito/vivus"><b>maxwellito/vivus</b></a><br><sub>JavaScript library to make drawing animation on SVG</sub></td>
-<td align="right"><b>15,486</b></td>
+<td align="right"><b>15,487</b></td>
 <td align="right">1,123</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/dan1471.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dan1471/FREE-openai-api-keys"><b>dan1471/FREE-openai-api-keys</b></a><br><sub>collection for free openai keys to use in your projects</sub></td>
-<td align="right"><b>5,930</b></td>
+<td align="right"><b>5,938</b></td>
 <td align="right">601</td>
 <td>—</td>
 </tr>
@@ -186,24 +186,24 @@
 </tr>
 <tr>
 <td align="right">24</td>
-<td><img src="https://github.com/bennahkairu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bennahkairu/Todo-App"><b>bennahkairu/Todo-App</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">0</td>
-<td>Vue</td>
+<td><img src="https://github.com/fbiego.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fbiego/esp32-c3-mini"><b>fbiego/esp32-c3-mini</b></a><br><sub>LVGL UI for ESP32 C3 mini 240&#42;240 board (ESP32-2424S012)</sub></td>
+<td align="right"><b>557</b></td>
+<td align="right">150</td>
+<td>C</td>
 </tr>
 <tr>
 <td align="right">25</td>
-<td><img src="https://github.com/Fredrick-KE.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Fredrick-KE/github-readme-stats"><b>Fredrick-KE/github-readme-stats</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">0</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/Mtemi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mtemi/Bybit-Trading-Bot-Integrated-with-TradingView-Webhook-Alerts"><b>Mtemi/Bybit-Trading-Bot-Integrated-with-TradingView-Webhook-Alerts</b></a><br><sub>Python based Trading Bot that uses TradingView.com webhook JSON alerts to place orders(buy/sell/close/manage positions/…</sub></td>
+<td align="right"><b>529</b></td>
+<td align="right">111</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">26</td>
-<td><img src="https://github.com/ndolocr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ndolocr/demo"><b>ndolocr/demo</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">0</td>
-<td>Java</td>
+<td><img src="https://github.com/etemesi254.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/etemesi254/zune-image"><b>etemesi254/zune-image</b></a><br><sub>A fast and memory efficient image library in Rust</sub></td>
+<td align="right"><b>509</b></td>
+<td align="right">100</td>
+<td>Rust</td>
 </tr>
 <tr>
 <td align="right">27</td>
@@ -410,8 +410,8 @@
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 1 stars; 54 attributed candidates are tracked.
-- 31 entries were carried over from the previous dataset and are pending revalidation.
-- 136 multi-repository owners are queued for expansion.
+- 28 entries were carried over from the previous dataset and are pending revalidation.
+- 133 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 144 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

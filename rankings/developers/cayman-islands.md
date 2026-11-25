@@ -247,86 +247,86 @@
 </tr>
 <tr>
 <td align="right">33</td>
+<td><a href="https://github.com/difelice"><img src="https://avatars.githubusercontent.com/u/3169762?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/difelice"><b>Alessandro Di Felice</b></a><br><sub>&#64;difelice</sub></td>
+<td align="right"><b>6</b></td>
+<td align="right">46</td>
+<td><sub>Cayman Islands</sub></td>
+</tr>
+<tr>
+<td align="right">34</td>
 <td><a href="https://github.com/Senso"><img src="https://avatars.githubusercontent.com/u/1104449?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Senso"><b>Manuel Lanctot</b></a><br><sub>&#64;Senso</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">18</td>
 <td><sub>Cayman Islands</sub></td>
 </tr>
 <tr>
-<td align="right">34</td>
+<td align="right">35</td>
 <td><a href="https://github.com/timoshka88"><img src="https://avatars.githubusercontent.com/u/6127070?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/timoshka88"><b>Fatima Khalilova</b></a><br><sub>&#64;timoshka88</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">11</td>
 <td><sub>San Francisco - Cayman islands</sub></td>
 </tr>
 <tr>
-<td align="right">35</td>
+<td align="right">36</td>
 <td><a href="https://github.com/krciga22"><img src="https://avatars.githubusercontent.com/u/1588202?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/krciga22"><b>Andrew Forster</b></a><br><sub>&#64;krciga22</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">2</td>
 <td><sub>Cayman Islands</sub></td>
 </tr>
 <tr>
-<td align="right">36</td>
+<td align="right">37</td>
 <td><a href="https://github.com/GadzeMike"><img src="https://avatars.githubusercontent.com/u/90218835?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GadzeMike"><b>Mike Silagadze</b></a><br><sub>&#64;GadzeMike</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">0</td>
 <td><sub>Cayman Islands</sub></td>
 </tr>
 <tr>
-<td align="right">37</td>
+<td align="right">38</td>
 <td><a href="https://github.com/Blankinfinity"><img src="https://avatars.githubusercontent.com/u/17241078?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Blankinfinity"><b>Keith Pearce</b></a><br><sub>&#64;Blankinfinity</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">39</td>
 <td><sub>Cayman Islands</sub></td>
 </tr>
 <tr>
-<td align="right">38</td>
+<td align="right">39</td>
 <td><a href="https://github.com/evandrosaturnino"><img src="https://avatars.githubusercontent.com/u/60587527?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/evandrosaturnino"><b>Evandro Saturnino</b></a><br><sub>&#64;evandrosaturnino</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">23</td>
 <td><sub>Cayman Islands</sub></td>
 </tr>
 <tr>
-<td align="right">39</td>
+<td align="right">40</td>
 <td><a href="https://github.com/kiorq"><img src="https://avatars.githubusercontent.com/u/23644557?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kiorq"><b>Kirk Douglas Jr</b></a><br><sub>&#64;kiorq</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">16</td>
 <td><sub>The Cayman Islands</sub></td>
 </tr>
 <tr>
-<td align="right">40</td>
+<td align="right">41</td>
 <td><a href="https://github.com/madhunaidu2468"><img src="https://avatars.githubusercontent.com/u/6674188?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/madhunaidu2468"><b>Madhu Ramaya</b></a><br><sub>&#64;madhunaidu2468</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">10</td>
 <td><sub>Cayman Islands</sub></td>
 </tr>
 <tr>
-<td align="right">41</td>
+<td align="right">42</td>
 <td><a href="https://github.com/zetske"><img src="https://avatars.githubusercontent.com/u/50806665?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zetske"><b>Anzette</b></a><br><sub>&#64;zetske</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">8</td>
 <td><sub>George Town, Cayman Islands</sub></td>
 </tr>
 <tr>
-<td align="right">42</td>
+<td align="right">43</td>
 <td><a href="https://github.com/frank-yh-lin"><img src="https://avatars.githubusercontent.com/u/5908606?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/frank-yh-lin"><b>Frank Lin</b></a><br><sub>&#64;frank-yh-lin</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">2</td>
 <td><sub>Cayman Islands</sub></td>
 </tr>
 <tr>
-<td align="right">43</td>
+<td align="right">44</td>
 <td><a href="https://github.com/RodneyAlison"><img src="https://avatars.githubusercontent.com/u/98420337?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RodneyAlison"><b>Rodney Alison</b></a><br><sub>&#64;RodneyAlison</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">0</td>
-<td><sub>Cayman Islands</sub></td>
-</tr>
-<tr>
-<td align="right">44</td>
-<td><a href="https://github.com/difelice"><img src="https://avatars.githubusercontent.com/u/3169762?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/difelice"><b>Alessandro Di Felice</b></a><br><sub>&#64;difelice</sub></td>
-<td align="right"><b>4</b></td>
-<td align="right">46</td>
 <td><sub>Cayman Islands</sub></td>
 </tr>
 <tr>

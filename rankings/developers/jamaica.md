@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/HotCakeX"><img src="https://avatars.githubusercontent.com/u/118815227?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HotCakeX"><b>Violet Hansen</b></a><br><sub>&#64;HotCakeX</sub></td>
-<td align="right"><b>1,247</b></td>
+<td align="right"><b>1,253</b></td>
 <td align="right">8</td>
 <td><sub>Silent Hill</sub></td>
 </tr>

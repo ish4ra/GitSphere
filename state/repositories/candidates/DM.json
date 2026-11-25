@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"DM","name":"Dominica","slug":"dominica"},
-"count": 57,
+"count": 55,
 "repositories": [
-  {"name":"PabloAlmonte/loopback-component-relation-filter","stars":3,"forks":0,"language":"JavaScript","license":"MIT","archived":false,"createdAt":"2020-01-28T11:51:02Z","pushedAt":"2020-09-09T18:23:39Z","owner":{"login":"PabloAlmonte","type":"User","name":"Pablo Junior Almonte Avila","location":"Republica Dominica, Santo Domingo"},"attribution":{"code":"DM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T16:34:50.678Z","id":"legacy:pabloalmonte/loopback-component-relation-filter","legacy":true},
-  {"name":"Zormat/Final_diplomado","stars":3,"forks":0,"language":"Java","archived":false,"createdAt":"2019-01-29T21:29:10Z","pushedAt":"2019-01-30T01:14:09Z","owner":{"login":"Zormat","type":"User","name":"Ivan Zorrilla Mateo","location":"Punta Cana, Dominica Republic"},"attribution":{"code":"DM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T16:34:50.678Z","id":"legacy:zormat/final_diplomado","legacy":true},
   {"name":"bowetech/Static","stars":2,"forks":0,"language":"PHP","archived":false,"createdAt":"2020-05-18T01:17:37Z","pushedAt":"2021-09-04T17:14:22Z","owner":{"login":"bowetech","type":"User","name":"Clive Stewart","location":"Dominica"},"attribution":{"code":"DM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T16:34:50.678Z","id":"legacy:bowetech/static","legacy":true},
   {"name":"CodeAriCos28/MCL_FINANZA","stars":1,"forks":0,"language":"HTML","archived":false,"createdAt":"2025-12-17T03:42:03Z","pushedAt":"2026-05-01T06:26:46Z","owner":{"login":"CodeAriCos28","type":"User","name":"ChimaloCode","location":"Santiago❤️ Republica Dominica."},"attribution":{"code":"DM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T16:34:50.678Z","id":"legacy:codearicos28/mcl_finanza","legacy":true},
   {"name":"DerejSoftt/derej-press","stars":1,"forks":0,"language":"HTML","archived":false,"createdAt":"2025-06-03T00:43:54Z","pushedAt":"2026-06-21T18:27:39Z","owner":{"login":"DerejSoftt","type":"User","name":"DerejSoft","location":"Santiago❤️ Republica Dominica."},"attribution":{"code":"DM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T16:34:50.678Z","id":"legacy:derejsoftt/derej-press","legacy":true},

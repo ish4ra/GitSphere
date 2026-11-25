@@ -38,7 +38,7 @@
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/tsirysndr"><img src="https://avatars.githubusercontent.com/u/15877106?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tsirysndr"><b>Tsiry Sandratraina</b></a><br><sub>&#64;tsirysndr</sub></td>
-<td align="right"><b>612</b></td>
+<td align="right"><b>610</b></td>
 <td align="right">349</td>
 <td><sub>Antananarivo / Madagascar</sub></td>
 </tr>
@@ -107,17 +107,17 @@
 </tr>
 <tr>
 <td align="right">13</td>
+<td><a href="https://github.com/Mathieu-bot"><img src="https://avatars.githubusercontent.com/u/199898191?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mathieu-bot"><b>Tafita Mathieu</b></a><br><sub>&#64;Mathieu-bot</sub></td>
+<td align="right"><b>182</b></td>
+<td align="right">80</td>
+<td><sub>Madagascar</sub></td>
+</tr>
+<tr>
+<td align="right">14</td>
 <td><a href="https://github.com/KiadyNirina"><img src="https://avatars.githubusercontent.com/u/162699528?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KiadyNirina"><b>Kiady Nirina</b></a><br><sub>&#64;KiadyNirina</sub></td>
 <td align="right"><b>181</b></td>
 <td align="right">15</td>
 <td><sub>Antananarivo, Madagascar</sub></td>
-</tr>
-<tr>
-<td align="right">14</td>
-<td><a href="https://github.com/Mathieu-bot"><img src="https://avatars.githubusercontent.com/u/199898191?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mathieu-bot"><b>Tafita Mathieu</b></a><br><sub>&#64;Mathieu-bot</sub></td>
-<td align="right"><b>180</b></td>
-<td align="right">79</td>
-<td><sub>Madagascar</sub></td>
 </tr>
 <tr>
 <td align="right">15</td>

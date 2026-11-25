@@ -25,7 +25,7 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><a href="https://github.com/frenck"><img src="https://avatars.githubusercontent.com/u/195327?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/frenck"><b>Franck Nijhof</b></a><br><sub>&#64;frenck · 5,216 followers</sub></td>
+<td><a href="https://github.com/frenck"><img src="https://avatars.githubusercontent.com/u/195327?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/frenck"><b>Franck Nijhof</b></a><br><sub>&#64;frenck · 5,219 followers</sub></td>
 <td align="right"><b>17,155</b></td>
 <td align="right">1,466</td>
 <td align="right">5,234</td>

@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"GU","name":"Guam","slug":"guam"},
-"count": 97,
+"count": 95,
 "repositories": [
-  {"name":"nanodavinci/kinery-lua-scripts","stars":3,"forks":0,"language":"Lua","archived":false,"createdAt":"2022-10-08T04:09:45Z","pushedAt":"2026-04-19T02:52:27Z","owner":{"login":"nanodavinci","type":"User","name":"leo","location":"Hagåtña, Guam"},"attribution":{"code":"GU","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T13:36:41.126Z","id":"legacy:nanodavinci/kinery-lua-scripts","legacy":true},
-  {"name":"xiaden/nomarr","stars":3,"forks":0,"language":"Python","license":"NOASSERTION","archived":false,"createdAt":"2025-11-07T03:20:10Z","pushedAt":"2026-09-29T10:19:17Z","owner":{"login":"xiaden","type":"User","name":"Lucian Hardy","location":"Guam"},"attribution":{"code":"GU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:41.126Z","id":"legacy:xiaden/nomarr","legacy":true},
   {"name":"cshellz/brain-party","stars":2,"forks":1,"language":"CSS","archived":false,"createdAt":"2020-12-06T18:26:39Z","pushedAt":"2020-12-06T19:20:09Z","owner":{"login":"cshellz","type":"User","name":"Antara","location":"Marianas Trench, Guam"},"attribution":{"code":"GU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:41.126Z","id":"legacy:cshellz/brain-party","legacy":true},
   {"name":"chichiyacompany/GodsWar-Cheats","stars":2,"forks":0,"archived":false,"createdAt":"2020-07-05T17:53:52Z","pushedAt":"2020-07-05T18:15:11Z","owner":{"login":"chichiyacompany","type":"User","name":"Chichiya Automation","location":"119 Bibic Street Barrigada Guam"},"attribution":{"code":"GU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:41.126Z","id":"legacy:chichiyacompany/godswar-cheats","legacy":true},
   {"name":"Chovin/VEDA-Notes","stars":2,"forks":0,"language":"GLSL","archived":false,"createdAt":"2018-02-19T13:29:32Z","pushedAt":"2018-02-23T13:40:42Z","owner":{"login":"Chovin","type":"User","location":"Guam"},"attribution":{"code":"GU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:41.126Z","id":"legacy:chovin/veda-notes","legacy":true},

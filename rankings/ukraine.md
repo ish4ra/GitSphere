@@ -24,63 +24,63 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/serhii-londar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/serhii-londar/open-source-mac-os-apps"><b>serhii-londar/open-source-mac-os-apps</b></a><br><sub>🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps</sub></td>
-<td align="right"><b>51,499</b></td>
-<td align="right">3,453</td>
+<td align="right"><b>51,550</b></td>
+<td align="right">3,486</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/vadimdemedes.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vadimdemedes/ink"><b>vadimdemedes/ink</b></a><br><sub>🌈 React for interactive command-line apps</sub></td>
-<td align="right"><b>40,316</b></td>
-<td align="right">1,069</td>
+<td align="right"><b>40,324</b></td>
+<td align="right">1,071</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/denysdovhan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/denysdovhan/wtfjs"><b>denysdovhan/wtfjs</b></a><br><sub>🤪 A list of funny and tricky JavaScript examples</sub></td>
-<td align="right"><b>37,691</b></td>
-<td align="right">2,672</td>
+<td align="right"><b>37,692</b></td>
+<td align="right">2,670</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/dimsemenov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dimsemenov/PhotoSwipe"><b>dimsemenov/PhotoSwipe</b></a><br><sub>JavaScript image gallery for mobile and desktop, modular, framework independent</sub></td>
-<td align="right"><b>25,315</b></td>
-<td align="right">3,261</td>
+<td align="right"><b>25,313</b></td>
+<td align="right">3,260</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/spaceship-prompt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spaceship-prompt/spaceship-prompt"><b>spaceship-prompt/spaceship-prompt</b></a><br><sub>🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt</sub></td>
-<td align="right"><b>20,614</b></td>
+<td align="right"><b>20,615</b></td>
 <td align="right">971</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/Tyrrrz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Tyrrrz/YoutubeDownloader"><b>Tyrrrz/YoutubeDownloader</b></a><br><sub>Downloads videos and playlists from YouTube</sub></td>
-<td align="right"><b>16,781</b></td>
-<td align="right">2,116</td>
+<td align="right"><b>16,805</b></td>
+<td align="right">2,120</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/openchamber.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/openchamber/openchamber"><b>openchamber/openchamber</b></a><br><sub>Agentic Development Environment based on OpenCode AI agent</sub></td>
-<td align="right"><b>13,157</b></td>
-<td align="right">1,537</td>
+<td align="right"><b>13,260</b></td>
+<td align="right">1,553</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/Tyrrrz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Tyrrrz/DiscordChatExporter"><b>Tyrrrz/DiscordChatExporter</b></a><br><sub>Saves Discord chat logs to a file</sub></td>
-<td align="right"><b>12,428</b></td>
-<td align="right">1,055</td>
+<td align="right"><b>12,444</b></td>
+<td align="right">1,056</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/retejs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/retejs/rete"><b>retejs/rete</b></a><br><sub>JavaScript framework for visual programming</sub></td>
-<td align="right"><b>12,319</b></td>
+<td align="right"><b>12,323</b></td>
 <td align="right">764</td>
 <td>TypeScript</td>
 </tr>
@@ -94,7 +94,7 @@
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/Yalantis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Yalantis/uCrop"><b>Yalantis/uCrop</b></a><br><sub>Image Cropping Library for Android</sub></td>
-<td align="right"><b>12,078</b></td>
+<td align="right"><b>12,075</b></td>
 <td align="right">2,224</td>
 <td>Java</td>
 </tr>
@@ -102,20 +102,20 @@
 <td align="right">12</td>
 <td><img src="https://github.com/dimsemenov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dimsemenov/Magnific-Popup"><b>dimsemenov/Magnific-Popup</b></a><br><sub>Light and responsive lightbox script with focus on performance.</sub></td>
 <td align="right"><b>11,293</b></td>
-<td align="right">3,330</td>
+<td align="right">3,328</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">13</td>
 <td><img src="https://github.com/platformio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/platformio/platformio-core"><b>platformio/platformio-core</b></a><br><sub>Your Gateway to Embedded Software Development Excellence :alien:</sub></td>
-<td align="right"><b>9,624</b></td>
-<td align="right">916</td>
+<td align="right"><b>9,631</b></td>
+<td align="right">914</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/vitalik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vitalik/django-ninja"><b>vitalik/django-ninja</b></a><br><sub>💨 Fast, Async-ready, Openapi, type hints based framework for building APIs</sub></td>
-<td align="right"><b>9,250</b></td>
+<td align="right"><b>9,259</b></td>
 <td align="right">624</td>
 <td>Python</td>
 </tr>
@@ -129,22 +129,22 @@
 <tr>
 <td align="right">16</td>
 <td><img src="https://github.com/glushchenko.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/glushchenko/fsnotes"><b>glushchenko/fsnotes</b></a><br><sub>Fast Markdown note-taking app for Mac and iPhone</sub></td>
-<td align="right"><b>7,584</b></td>
-<td align="right">585</td>
+<td align="right"><b>7,606</b></td>
+<td align="right">589</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/NeXTs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NeXTs/Clusterize.js"><b>NeXTs/Clusterize.js</b></a><br><sub>Tiny vanilla JS plugin to display large data sets easily</sub></td>
-<td align="right"><b>7,269</b></td>
-<td align="right">404</td>
+<td align="right"><b>7,267</b></td>
+<td align="right">403</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">18</td>
 <td><img src="https://github.com/Mak5er.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mak5er/AirCard"><b>Mak5er/AirCard</b></a><br><sub>Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)</sub></td>
-<td align="right"><b>7,190</b></td>
-<td align="right">517</td>
+<td align="right"><b>7,217</b></td>
+<td align="right">518</td>
 <td>Swift</td>
 </tr>
 <tr>
@@ -157,15 +157,15 @@
 <tr>
 <td align="right">20</td>
 <td><img src="https://github.com/werman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/werman/noise-suppression-for-voice"><b>werman/noise-suppression-for-voice</b></a><br><sub>Noise suppression plugin based on Xiph&#39;s RNNoise</sub></td>
-<td align="right"><b>6,995</b></td>
+<td align="right"><b>6,997</b></td>
 <td align="right">311</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/mishakorzik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mishakorzik/AllHackingTools"><b>mishakorzik/AllHackingTools</b></a><br><sub>All-in-One Hacking Tools For Hackers! And more hacking tools! For termux.</sub></td>
-<td align="right"><b>6,555</b></td>
-<td align="right">1,054</td>
+<td align="right"><b>6,572</b></td>
+<td align="right">1,056</td>
 <td>Shell</td>
 </tr>
 <tr>
@@ -178,28 +178,28 @@
 <tr>
 <td align="right">23</td>
 <td><img src="https://github.com/olexale.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/olexale/flutter_roadmap"><b>olexale/flutter&#95;roadmap</b></a><br><sub>Highly Subjective Roadmap to Flutter Development</sub></td>
-<td align="right"><b>5,936</b></td>
+<td align="right"><b>5,937</b></td>
 <td align="right">778</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">24</td>
 <td><img src="https://github.com/Devlight.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Devlight/InfiniteCycleViewPager"><b>Devlight/InfiniteCycleViewPager</b></a><br><sub>Infinite cycle ViewPager with two-way orientation and interactive effect.</sub></td>
-<td align="right"><b>5,673</b></td>
+<td align="right"><b>5,671</b></td>
 <td align="right">817</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">25</td>
 <td><img src="https://github.com/leits.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/leits/MeetingBar"><b>leits/MeetingBar</b></a><br><sub>🇺🇦 Your meetings at your fingertips in the macOS menu bar</sub></td>
-<td align="right"><b>5,409</b></td>
-<td align="right">308</td>
+<td align="right"><b>5,411</b></td>
+<td align="right">312</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">26</td>
 <td><img src="https://github.com/Yalantis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Yalantis/Koloda"><b>Yalantis/Koloda</b></a><br><sub>KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS.</sub></td>
-<td align="right"><b>5,386</b></td>
+<td align="right"><b>5,385</b></td>
 <td align="right">800</td>
 <td>Swift</td>
 </tr>
@@ -207,14 +207,14 @@
 <td align="right">27</td>
 <td><img src="https://github.com/Yalantis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Yalantis/Side-Menu.Android"><b>Yalantis/Side-Menu.Android</b></a><br><sub>Side menu with some categories to choose.</sub></td>
 <td align="right"><b>5,196</b></td>
-<td align="right">1,475</td>
+<td align="right">1,474</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">28</td>
 <td><img src="https://github.com/foobnix.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/foobnix/LibreraReader"><b>foobnix/LibreraReader</b></a><br><sub>Book Reader for Android</sub></td>
-<td align="right"><b>5,066</b></td>
-<td align="right">467</td>
+<td align="right"><b>5,079</b></td>
+<td align="right">470</td>
 <td>C</td>
 </tr>
 <tr>
@@ -227,35 +227,35 @@
 <tr>
 <td align="right">30</td>
 <td><img src="https://github.com/Devlight.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Devlight/NavigationTabBar"><b>Devlight/NavigationTabBar</b></a><br><sub>Navigation tab bar with colorful interactions.</sub></td>
-<td align="right"><b>4,915</b></td>
+<td align="right"><b>4,914</b></td>
 <td align="right">912</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">31</td>
+<td><img src="https://github.com/slvDev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/slvDev/esp32-ai"><b>slvDev/esp32-ai</b></a></td>
+<td align="right"><b>4,708</b></td>
+<td align="right">639</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">32</td>
 <td><img src="https://github.com/APIs-guru.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/APIs-guru/graphql-apis"><b>APIs-guru/graphql-apis</b></a><br><sub>📜 A collective list of public GraphQL APIs</sub></td>
-<td align="right"><b>4,703</b></td>
+<td align="right"><b>4,704</b></td>
 <td align="right">350</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">32</td>
-<td><img src="https://github.com/slvDev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/slvDev/esp32-ai"><b>slvDev/esp32-ai</b></a></td>
-<td align="right"><b>4,699</b></td>
-<td align="right">637</td>
-<td>Python</td>
-</tr>
-<tr>
 <td align="right">33</td>
 <td><img src="https://github.com/tucnak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tucnak/telebot"><b>tucnak/telebot</b></a><br><sub>Telebot is a Telegram bot framework in Go.</sub></td>
-<td align="right"><b>4,646</b></td>
+<td align="right"><b>4,651</b></td>
 <td align="right">527</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">34</td>
 <td><img src="https://github.com/APIs-guru.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/APIs-guru/openapi-directory"><b>APIs-guru/openapi-directory</b></a><br><sub>🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.x format</sub></td>
-<td align="right"><b>4,613</b></td>
+<td align="right"><b>4,615</b></td>
 <td align="right">766</td>
 <td>—</td>
 </tr>
@@ -263,20 +263,20 @@
 <td align="right">35</td>
 <td><img src="https://github.com/romandanylyk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/romandanylyk/PageIndicatorView"><b>romandanylyk/PageIndicatorView</b></a><br><sub>An page indicator for Android ViewPager</sub></td>
 <td align="right"><b>4,608</b></td>
-<td align="right">564</td>
+<td align="right">563</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">36</td>
 <td><img src="https://github.com/brocoders.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/brocoders/nestjs-boilerplate"><b>brocoders/nestjs-boilerplate</b></a><br><sub>NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.</sub></td>
 <td align="right"><b>4,429</b></td>
-<td align="right">959</td>
+<td align="right">958</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">37</td>
 <td><img src="https://github.com/vadimdemedes.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vadimdemedes/tailwind-rn"><b>vadimdemedes/tailwind-rn</b></a><br><sub>🦎 Use Tailwind CSS in React Native projects</sub></td>
-<td align="right"><b>4,262</b></td>
+<td align="right"><b>4,261</b></td>
 <td align="right">170</td>
 <td>JavaScript</td>
 </tr>

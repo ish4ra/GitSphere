@@ -79,7 +79,7 @@
 </tr>
 <tr>
 <td align="right">7</td>
-<td><a href="https://github.com/malgamves"><img src="https://avatars.githubusercontent.com/u/25641936?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/malgamves"><b>Daniel Madalitso Phiri</b></a><br><sub>&#64;malgamves · 434 followers</sub></td>
+<td><a href="https://github.com/malgamves"><img src="https://avatars.githubusercontent.com/u/25641936?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/malgamves"><b>Daniel Madalitso Phiri</b></a><br><sub>&#64;malgamves · 435 followers</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">17</td>
 <td align="right">2</td>

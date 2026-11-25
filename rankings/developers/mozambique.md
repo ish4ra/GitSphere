@@ -87,7 +87,7 @@
 <tr>
 <td align="right">10</td>
 <td><a href="https://github.com/jose-bone"><img src="https://avatars.githubusercontent.com/u/79787418?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jose-bone"><b>José Boné</b></a><br><sub>&#64;jose-bone</sub></td>
-<td align="right"><b>186</b></td>
+<td align="right"><b>187</b></td>
 <td align="right">52</td>
 <td><sub>Quelimane, Mozambique</sub></td>
 </tr>

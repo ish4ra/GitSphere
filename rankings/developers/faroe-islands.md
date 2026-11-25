@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **119** | 22 Nov 2026 | <a href="../../data/developers/FO.json">JSON</a> |
+| 🟡 Provisional | **121** | 22 Nov 2026 | <a href="../../data/developers/FO.json">JSON</a> |
 
 </div>
 
@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/kruseio"><img src="https://avatars.githubusercontent.com/u/46799551?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kruseio"><b>Ragnar Kruse</b></a><br><sub>&#64;kruseio</sub></td>
-<td align="right"><b>187</b></td>
+<td align="right"><b>190</b></td>
 <td align="right">22</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
@@ -534,321 +534,335 @@
 </tr>
 <tr>
 <td align="right">74</td>
+<td><a href="https://github.com/outcastergetto"><img src="https://avatars.githubusercontent.com/u/182519017?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/outcastergetto"><b>outcastergetto</b></a><br><sub>&#64;outcastergetto</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">6</td>
+<td><sub>Faeröer (FO)</sub></td>
+</tr>
+<tr>
+<td align="right">75</td>
 <td><a href="https://github.com/ermingcollins"><img src="https://avatars.githubusercontent.com/u/183438412?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ermingcollins"><b>ermingcollins</b></a><br><sub>&#64;ermingcollins</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Faroe Islands (FO)</sub></td>
 </tr>
 <tr>
-<td align="right">75</td>
+<td align="right">76</td>
 <td><a href="https://github.com/wentzlau"><img src="https://avatars.githubusercontent.com/u/57913070?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wentzlau"><b>Tim Wentzlau</b></a><br><sub>&#64;wentzlau</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Trongisvágur, Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">76</td>
+<td align="right">77</td>
+<td><a href="https://github.com/daddyatlanticking"><img src="https://avatars.githubusercontent.com/u/181549012?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/daddyatlanticking"><b>daddyatlanticking</b></a><br><sub>&#64;daddyatlanticking</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Faeröer (FO)</sub></td>
+</tr>
+<tr>
+<td align="right">78</td>
 <td><a href="https://github.com/HelpfulFriend"><img src="https://avatars.githubusercontent.com/u/49513832?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HelpfulFriend"><b>Helpful Friend</b></a><br><sub>&#64;HelpfulFriend</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Faroe islands</sub></td>
 </tr>
 <tr>
-<td align="right">77</td>
+<td align="right">79</td>
 <td><a href="https://github.com/raccoonio"><img src="https://avatars.githubusercontent.com/u/196249315?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/raccoonio"><b>tanuko</b></a><br><sub>&#64;raccoonio</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">78</td>
+<td align="right">80</td>
 <td><a href="https://github.com/silasgaard"><img src="https://avatars.githubusercontent.com/u/240328703?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/silasgaard"><b>Silas Gaard</b></a><br><sub>&#64;silasgaard</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">79</td>
+<td align="right">81</td>
 <td><a href="https://github.com/UnholyExorcist95"><img src="https://avatars.githubusercontent.com/u/143071820?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/UnholyExorcist95"><b>Unholy Exorcist</b></a><br><sub>&#64;UnholyExorcist95</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Faroe islands</sub></td>
 </tr>
 <tr>
-<td align="right">80</td>
+<td align="right">82</td>
 <td><a href="https://github.com/Viggz"><img src="https://avatars.githubusercontent.com/u/11974397?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Viggz"><b>Virgar Poulsen</b></a><br><sub>&#64;Viggz</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Faroe islands</sub></td>
 </tr>
 <tr>
-<td align="right">81</td>
+<td align="right">83</td>
 <td><a href="https://github.com/brobber8"><img src="https://avatars.githubusercontent.com/u/5664057?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brobber8"><b>Martin Dam</b></a><br><sub>&#64;brobber8</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">82</td>
+<td align="right">84</td>
 <td><a href="https://github.com/dangjogvara"><img src="https://avatars.githubusercontent.com/u/8974718?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dangjogvara"><b>Dan Poulsen</b></a><br><sub>&#64;dangjogvara</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">83</td>
+<td align="right">85</td>
 <td><a href="https://github.com/hannesgislason"><img src="https://avatars.githubusercontent.com/u/37299994?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hannesgislason"><b>Hannes Gislason</b></a><br><sub>&#64;hannesgislason</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">84</td>
+<td align="right">86</td>
 <td><a href="https://github.com/HaraldKal"><img src="https://avatars.githubusercontent.com/u/84625283?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HaraldKal"><b>Harald í Kálvalíð</b></a><br><sub>&#64;HaraldKal</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">85</td>
+<td align="right">87</td>
 <td><a href="https://github.com/jakupih"><img src="https://avatars.githubusercontent.com/u/19333337?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jakupih"><b>Jákup I. Hansen</b></a><br><sub>&#64;jakupih</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">86</td>
+<td align="right">88</td>
 <td><a href="https://github.com/martinsirko"><img src="https://avatars.githubusercontent.com/u/15832401?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/martinsirko"><b>Martin Sirkovsky</b></a><br><sub>&#64;martinsirko</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">87</td>
+<td align="right">89</td>
 <td><a href="https://github.com/pewpalladium"><img src="https://avatars.githubusercontent.com/u/181603499?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pewpalladium"><b>pewpalladium</b></a><br><sub>&#64;pewpalladium</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Faroe Islands (FO)</sub></td>
 </tr>
 <tr>
-<td align="right">88</td>
+<td align="right">90</td>
 <td><a href="https://github.com/Terham"><img src="https://avatars.githubusercontent.com/u/35854016?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Terham"><b>Terji Hammer</b></a><br><sub>&#64;Terham</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">89</td>
+<td align="right">91</td>
 <td><a href="https://github.com/2014054"><img src="https://avatars.githubusercontent.com/u/181285839?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/2014054"><b>Jákup Petur Simonsen</b></a><br><sub>&#64;2014054</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">90</td>
+<td align="right">92</td>
 <td><a href="https://github.com/aui-arch"><img src="https://avatars.githubusercontent.com/u/121099395?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aui-arch"><b>Aui</b></a><br><sub>&#64;aui-arch</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>faroe islands</sub></td>
 </tr>
 <tr>
-<td align="right">91</td>
+<td align="right">93</td>
 <td><a href="https://github.com/Fossdal"><img src="https://avatars.githubusercontent.com/u/15619646?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Fossdal"><b>Martin Guttesen</b></a><br><sub>&#64;Fossdal</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">92</td>
+<td align="right">94</td>
 <td><a href="https://github.com/HaIIucinate"><img src="https://avatars.githubusercontent.com/u/237130450?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HaIIucinate"><b>HaIIucinate</b></a><br><sub>&#64;HaIIucinate</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">93</td>
+<td align="right">95</td>
 <td><a href="https://github.com/hallareinert"><img src="https://avatars.githubusercontent.com/u/80781037?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hallareinert"><b>Halla W. Reinert</b></a><br><sub>&#64;hallareinert</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Tórshavn, Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">94</td>
+<td align="right">96</td>
 <td><a href="https://github.com/jylland"><img src="https://avatars.githubusercontent.com/u/93879250?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jylland"><b>jylland</b></a><br><sub>&#64;jylland</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Faroe islands</sub></td>
 </tr>
 <tr>
-<td align="right">95</td>
+<td align="right">97</td>
 <td><a href="https://github.com/marsiczin"><img src="https://avatars.githubusercontent.com/u/327019687?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marsiczin"><b>czin.</b></a><br><sub>&#64;marsiczin</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">96</td>
+<td align="right">98</td>
 <td><a href="https://github.com/olavurc"><img src="https://avatars.githubusercontent.com/u/4716693?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/olavurc"><b>Olavur Christiansen</b></a><br><sub>&#64;olavurc</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">97</td>
+<td align="right">99</td>
 <td><a href="https://github.com/tully9b1hrj6x"><img src="https://avatars.githubusercontent.com/u/331232235?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tully9b1hrj6x"><b>Miriam Petersen</b></a><br><sub>&#64;tully9b1hrj6x</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Tórshavn, Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">98</td>
+<td align="right">100</td>
 <td><a href="https://github.com/barbaraleone-us"><img src="https://avatars.githubusercontent.com/u/248498839?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/barbaraleone-us"><b>Barbara Leone</b></a><br><sub>&#64;barbaraleone-us</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">99</td>
+<td align="right">101</td>
 <td><a href="https://github.com/bogi-he"><img src="https://avatars.githubusercontent.com/u/22473759?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bogi-he"><b>Bogi H. Eliasen</b></a><br><sub>&#64;bogi-he</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">100</td>
+<td align="right">102</td>
 <td><a href="https://github.com/ETVDesign"><img src="https://avatars.githubusercontent.com/u/131344303?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ETVDesign"><b>ETV Design</b></a><br><sub>&#64;ETVDesign</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>The Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">101</td>
+<td align="right">103</td>
 <td><a href="https://github.com/eydunjacobsen"><img src="https://avatars.githubusercontent.com/u/18097295?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eydunjacobsen"><b>eydunjacobsen</b></a><br><sub>&#64;eydunjacobsen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Tórshavn, Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">102</td>
+<td align="right">104</td>
 <td><a href="https://github.com/gaman-games"><img src="https://avatars.githubusercontent.com/u/52466600?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gaman-games"><b>gaman-games</b></a><br><sub>&#64;gaman-games</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">103</td>
+<td align="right">105</td>
 <td><a href="https://github.com/helgiwo"><img src="https://avatars.githubusercontent.com/u/154878379?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/helgiwo"><b>Helgi</b></a><br><sub>&#64;helgiwo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">104</td>
+<td align="right">106</td>
 <td><a href="https://github.com/Hererijeg"><img src="https://avatars.githubusercontent.com/u/52851323?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hererijeg"><b>Kári Djurhuus</b></a><br><sub>&#64;Hererijeg</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">105</td>
+<td align="right">107</td>
 <td><a href="https://github.com/Hvidtfeldt-Group"><img src="https://avatars.githubusercontent.com/u/282678460?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hvidtfeldt-Group"><b>Kari&#95;Hvidtfeldt</b></a><br><sub>&#64;Hvidtfeldt-Group</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">106</td>
+<td align="right">108</td>
 <td><a href="https://github.com/Jakalintel"><img src="https://avatars.githubusercontent.com/u/122527102?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jakalintel"><b>jakal</b></a><br><sub>&#64;Jakalintel</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>faroe islands</sub></td>
 </tr>
 <tr>
-<td align="right">107</td>
+<td align="right">109</td>
 <td><a href="https://github.com/Juan-Joya-Borja"><img src="https://avatars.githubusercontent.com/u/113737322?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Juan-Joya-Borja"><b>Juan Joya Borja</b></a><br><sub>&#64;Juan-Joya-Borja</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">108</td>
+<td align="right">110</td>
 <td><a href="https://github.com/justdriverental"><img src="https://avatars.githubusercontent.com/u/216531746?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/justdriverental"><b>Just Drive Car Rental</b></a><br><sub>&#64;justdriverental</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>20 Rundingurin, Tórshavn 100, Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">109</td>
+<td align="right">111</td>
 <td><a href="https://github.com/Khaliqhey"><img src="https://avatars.githubusercontent.com/u/22518596?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Khaliqhey"><b>Khaliqhey</b></a><br><sub>&#64;Khaliqhey</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">110</td>
+<td align="right">112</td>
 <td><a href="https://github.com/kristian-koa"><img src="https://avatars.githubusercontent.com/u/75608726?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kristian-koa"><b>Kristian O. Andreasen</b></a><br><sub>&#64;kristian-koa</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">111</td>
+<td align="right">113</td>
 <td><a href="https://github.com/lazarus347"><img src="https://avatars.githubusercontent.com/u/129740648?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lazarus347"><b>lazarus347</b></a><br><sub>&#64;lazarus347</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">112</td>
+<td align="right">114</td>
 <td><a href="https://github.com/MariaJacobsen"><img src="https://avatars.githubusercontent.com/u/79316522?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MariaJacobsen"><b>MariaJacobsen</b></a><br><sub>&#64;MariaJacobsen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">113</td>
+<td align="right">115</td>
 <td><a href="https://github.com/ModafiniI"><img src="https://avatars.githubusercontent.com/u/83155512?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ModafiniI"><b>bjorn</b></a><br><sub>&#64;ModafiniI</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">114</td>
+<td align="right">116</td>
 <td><a href="https://github.com/olihansb"><img src="https://avatars.githubusercontent.com/u/7649900?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/olihansb"><b>Oli Hans Biskopstø</b></a><br><sub>&#64;olihansb</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">115</td>
+<td align="right">117</td>
 <td><a href="https://github.com/pjo-klintra"><img src="https://avatars.githubusercontent.com/u/26064803?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pjo-klintra"><b>Poul Jóhannes Østerø</b></a><br><sub>&#64;pjo-klintra</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">116</td>
+<td align="right">118</td>
 <td><a href="https://github.com/Reservoir83"><img src="https://avatars.githubusercontent.com/u/26489950?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Reservoir83"><b>Runi Djurhuus</b></a><br><sub>&#64;Reservoir83</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">117</td>
+<td align="right">119</td>
 <td><a href="https://github.com/runieliasen"><img src="https://avatars.githubusercontent.com/u/286595853?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/runieliasen"><b>Rúni Eliasen</b></a><br><sub>&#64;runieliasen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">118</td>
+<td align="right">120</td>
 <td><a href="https://github.com/shadhahn"><img src="https://avatars.githubusercontent.com/u/22414354?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shadhahn"><b>Joanny</b></a><br><sub>&#64;shadhahn</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Faroe Islands</sub></td>
 </tr>
 <tr>
-<td align="right">119</td>
+<td align="right">121</td>
 <td><a href="https://github.com/TorbjornN"><img src="https://avatars.githubusercontent.com/u/18717358?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TorbjornN"><b>Torbjörn Nyström</b></a><br><sub>&#64;TorbjornN</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -862,8 +876,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 119 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 2 of 50 in round 1.
+- Organizations are excluded. 121 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 5 of 50 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

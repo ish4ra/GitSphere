@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **36** | 22 Nov 2026 | <a href="../data/LK.json">JSON</a> |
+| 🟡 Provisional | **40** | 22 Nov 2026 | <a href="../data/LK.json">JSON</a> |
 
 </div>
 
@@ -24,23 +24,23 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/neutralinojs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neutralinojs/neutralinojs"><b>neutralinojs/neutralinojs</b></a><br><sub>Portable and lightweight cross-platform desktop application development framework</sub></td>
-<td align="right"><b>8,696</b></td>
-<td align="right">551</td>
+<td align="right"><b>8,698</b></td>
+<td align="right">553</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">2</td>
-<td><img src="https://github.com/lakinduakash.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lakinduakash/linux-wifi-hotspot"><b>lakinduakash/linux-wifi-hotspot</b></a><br><sub>Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to crea…</sub></td>
-<td align="right"><b>4,457</b></td>
-<td align="right">397</td>
-<td>Shell</td>
+<td><img src="https://github.com/InukaAsith.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/InukaAsith/TwinDesk"><b>InukaAsith/TwinDesk</b></a><br><sub>All your computers and your phone/iPhone, working as one desk. Screens, apps, files, clipboard, calls, texts, notificat…</sub></td>
+<td align="right"><b>4,581</b></td>
+<td align="right">364</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">3</td>
-<td><img src="https://github.com/InukaAsith.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/InukaAsith/TwinDesk"><b>InukaAsith/TwinDesk</b></a><br><sub>All your computers and your phone/iPhone, working as one desk. Screens, apps, files, clipboard, calls, texts, notificat…</sub></td>
-<td align="right"><b>4,397</b></td>
-<td align="right">350</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/lakinduakash.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lakinduakash/linux-wifi-hotspot"><b>lakinduakash/linux-wifi-hotspot</b></a><br><sub>Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to crea…</sub></td>
+<td align="right"><b>4,461</b></td>
+<td align="right">397</td>
+<td>Shell</td>
 </tr>
 <tr>
 <td align="right">4</td>
@@ -273,6 +273,34 @@
 <td align="right">306</td>
 <td>Java</td>
 </tr>
+<tr>
+<td align="right">37</td>
+<td><img src="https://github.com/kadirahq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kadirahq/fast-render"><b>kadirahq/fast-render</b></a><br><sub>Render you app even before the DDP connection is live. - magic?</sub></td>
+<td align="right"><b>559</b></td>
+<td align="right">78</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">38</td>
+<td><img src="https://github.com/kasvith.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kasvith/simplelb"><b>kasvith/simplelb</b></a><br><sub>World&#39;s most dumbest Load Balancer</sub></td>
+<td align="right"><b>554</b></td>
+<td align="right">107</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">39</td>
+<td><img src="https://github.com/theRealUnd3rdog.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/theRealUnd3rdog/Godot_Noshot_Controller"><b>theRealUnd3rdog/Godot&#95;Noshot&#95;Controller</b></a><br><sub>NOSHOT First Person Controller</sub></td>
+<td align="right"><b>547</b></td>
+<td align="right">62</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">40</td>
+<td><img src="https://github.com/kalanakt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kalanakt/All-Url-Uploader"><b>kalanakt/All-Url-Uploader</b></a><br><sub>A simple telegram Bot, Upload Media File&#124; video To telegram using the direct download link. (youtube, Mediafire, google…</sub></td>
+<td align="right"><b>539</b></td>
+<td align="right">1,093</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -281,8 +309,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 589 stars; 36 attributed candidates are tracked.
-- 130 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 539 stars; 40 attributed candidates are tracked.
+- 126 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 95 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

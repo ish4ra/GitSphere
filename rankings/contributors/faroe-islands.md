@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **12** | 22 Nov 2026 | <a href="../../data/contributors/FO.json">JSON</a> |
+| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/contributors/FO.json">JSON</a> |
 
 </div>
 
@@ -131,6 +131,15 @@
 <td align="right">0</td>
 <td align="right">1</td>
 </tr>
+<tr>
+<td align="right">13</td>
+<td><a href="https://github.com/theodorjohannesen"><img src="https://avatars.githubusercontent.com/u/7534750?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/theodorjohannesen"><b>Theodor E. Johannesen</b></a><br><sub>&#64;theodorjohannesen · 3 followers</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">0</td>
+</tr>
 </tbody>
 </table>
 
@@ -138,10 +147,10 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 14 of 119 discovered developers (105 awaiting measurement).
+- **Measured:** 15 of 121 discovered developers (106 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
-- **Location discovery:** term 2 of 50 in round 1.
+- **Location discovery:** term 5 of 50 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

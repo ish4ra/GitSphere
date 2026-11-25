@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **49** | 22 Nov 2026 | <a href="../data/MY.json">JSON</a> |
+| 🟡 Provisional | **55** | 22 Nov 2026 | <a href="../data/MY.json">JSON</a> |
 
 </div>
 
@@ -24,29 +24,29 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/MoonTechLab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MoonTechLab/LunaTV"><b>MoonTechLab/LunaTV</b></a><br><sub>本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源</sub></td>
-<td align="right"><b>10,997</b></td>
-<td align="right">9,279</td>
+<td align="right"><b>11,013</b></td>
+<td align="right">9,290</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/huseinzol05.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/huseinzol05/Stock-Prediction-Models"><b>huseinzol05/Stock-Prediction-Models</b></a> <sub>archived</sub><br><sub>Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations</sub></td>
-<td align="right"><b>9,521</b></td>
+<td align="right"><b>9,523</b></td>
 <td align="right">3,047</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/awarexone.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/awarexone/Agentic-Bug-Hunter"><b>awarexone/Agentic-Bug-Hunter</b></a><br><sub>AI-powered bug bounty hunting toolkit that works with or without subscription.</sub></td>
-<td align="right"><b>6,022</b></td>
-<td align="right">1,105</td>
+<td align="right"><b>6,065</b></td>
+<td align="right">1,115</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/keenthemes.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/keenthemes/reui"><b>keenthemes/reui</b></a><br><sub>Design-forward shadcn kit for interfaces that stand out. 1000+ free patterns!</sub></td>
-<td align="right"><b>4,250</b></td>
-<td align="right">181</td>
+<td align="right"><b>4,304</b></td>
+<td align="right">182</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -364,6 +364,48 @@
 <td align="right">12</td>
 <td>JavaScript</td>
 </tr>
+<tr>
+<td align="right">50</td>
+<td><img src="https://github.com/kaiserfarrell.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kaiserfarrell/malware"><b>kaiserfarrell/malware</b></a><br><sub>virus collection source code</sub></td>
+<td align="right"><b>550</b></td>
+<td align="right">175</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">51</td>
+<td><img src="https://github.com/aree6.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aree6/LiftShift"><b>aree6/LiftShift</b></a><br><sub>Your workout logs visualized!</sub></td>
+<td align="right"><b>533</b></td>
+<td align="right">79</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><img src="https://github.com/heiswayi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/heiswayi/the-plain"><b>heiswayi/the-plain</b></a><br><sub>A minimalist Jekyll theme, ideally designed for your personal blog use.</sub></td>
+<td align="right"><b>527</b></td>
+<td align="right">301</td>
+<td>SCSS</td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><img src="https://github.com/kyaroru.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kyaroru/RNParallax"><b>kyaroru/RNParallax</b></a><br><sub>A react native scroll view component with Parallax header :p</sub></td>
+<td align="right"><b>526</b></td>
+<td align="right">109</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><img src="https://github.com/Cat-zaizai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Cat-zaizai/ZaiZaiCat-Checkin"><b>Cat-zaizai/ZaiZaiCat-Checkin</b></a><br><sub>每日签到脚本(多账号),青龙脚本,签到脚本,签到列表: 🚚 顺丰速运 &#124; 恩山论坛 &#124; 看雪论坛 &#124; 上海杨浦 &#124; 华润通 &#124; 鸿星尔克 &#124; WPS签到 &#124; 什么值得买</sub></td>
+<td align="right"><b>511</b></td>
+<td align="right">80</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/sdil.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sdil/open-production-web-projects"><b>sdil/open-production-web-projects</b></a><br><sub>List of Open Source production-ready web projects</sub></td>
+<td align="right"><b>509</b></td>
+<td align="right">78</td>
+<td>HTML</td>
+</tr>
 </tbody>
 </table>
 
@@ -372,8 +414,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 579 stars; 49 attributed candidates are tracked.
-- 119 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 509 stars; 55 attributed candidates are tracked.
+- 118 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 155 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

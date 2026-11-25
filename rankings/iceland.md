@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **42** | 01 Nov 2026 | <a href="../data/IS.json">JSON</a> |
-
-> **Not yet re-verified.** 11 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **37** | 22 Nov 2026 | <a href="../data/IS.json">JSON</a> |
 
 </div>
 
@@ -26,28 +24,28 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/asgeirtj.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/asgeirtj/system_prompts_leaks"><b>asgeirtj/system&#95;prompts&#95;leaks</b></a><br><sub>Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in full,…</sub></td>
-<td align="right"><b>72,363</b></td>
-<td align="right">11,644</td>
+<td align="right"><b>72,629</b></td>
+<td align="right">11,698</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/sveinbjornt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sveinbjornt/Sloth"><b>sveinbjornt/Sloth</b></a><br><sub>Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI fo…</sub></td>
-<td align="right"><b>9,002</b></td>
+<td align="right"><b>9,003</b></td>
 <td align="right">177</td>
 <td>Objective-C</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/technomancy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/technomancy/leiningen"><b>technomancy/leiningen</b></a><br><sub>Moved to Codeberg; this is a temporary convenience mirror</sub></td>
-<td align="right"><b>7,292</b></td>
+<td align="right"><b>7,293</b></td>
 <td align="right">1,553</td>
 <td>Clojure</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/unidoc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/unidoc/unioffice"><b>unidoc/unioffice</b></a><br><sub>Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents</sub></td>
-<td align="right"><b>4,946</b></td>
+<td align="right"><b>4,947</b></td>
 <td align="right">509</td>
 <td>Go</td>
 </tr>
@@ -242,80 +240,45 @@
 </tr>
 <tr>
 <td align="right">32</td>
-<td><img src="https://github.com/rbjarnason.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rbjarnason/docker-ngircd"><b>rbjarnason/docker-ngircd</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">9</td>
-<td>Shell</td>
+<td><img src="https://github.com/ueno-llc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ueno-llc/react-native-starter"><b>ueno-llc/react-native-starter</b></a> <sub>archived</sub><br><sub>Professional react-native starter kit with everything you&#39;ll ever need to deploy rock solid apps</sub></td>
+<td align="right"><b>569</b></td>
+<td align="right">88</td>
+<td>Ruby</td>
 </tr>
 <tr>
 <td align="right">33</td>
-<td><img src="https://github.com/krossdal.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/krossdal/ChatGPT-Installer"><b>krossdal/ChatGPT-Installer</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">4</td>
-<td>PowerShell</td>
+<td><img src="https://github.com/SuprDewd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SuprDewd/CompetitiveProgramming"><b>SuprDewd/CompetitiveProgramming</b></a><br><sub>A collection of algorithms, data structures and other useful information for competitive programming.</sub></td>
+<td align="right"><b>563</b></td>
+<td align="right">110</td>
+<td>C++</td>
 </tr>
 <tr>
 <td align="right">34</td>
-<td><img src="https://github.com/MikaelAndriIngason.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MikaelAndriIngason/HBV501G-Team-4"><b>MikaelAndriIngason/HBV501G-Team-4</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">2</td>
-<td>Java</td>
+<td><img src="https://github.com/mecid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mecid/swiftui-recipes-app"><b>mecid/swiftui-recipes-app</b></a><br><sub>Recipes app written in SwiftUI using Single State Container</sub></td>
+<td align="right"><b>556</b></td>
+<td align="right">67</td>
+<td>Swift</td>
 </tr>
 <tr>
 <td align="right">35</td>
-<td><img src="https://github.com/drupalviking.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/drupalviking/developing-open-sourced-web-software-with-drupal"><b>drupalviking/developing-open-sourced-web-software-with-drupal</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">1</td>
-<td>—</td>
+<td><img src="https://github.com/sverrirs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sverrirs/jekyll-paginate-v2"><b>sverrirs/jekyll-paginate-v2</b></a><br><sub>Pagination Generator for Jekyll 3 (enhanced replacement for the old built-in jekyll-paginate gem) ⛺</sub></td>
+<td align="right"><b>535</b></td>
+<td align="right">277</td>
+<td>Ruby</td>
 </tr>
 <tr>
 <td align="right">36</td>
-<td><img src="https://github.com/gjonsson.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gjonsson/ChatGPT-Prompts"><b>gjonsson/ChatGPT-Prompts</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">1</td>
-<td>—</td>
+<td><img src="https://github.com/birkir.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/birkir/react-three-gui"><b>birkir/react-three-gui</b></a><br><sub>GUI tools for react-three-fiber and react-spring</sub></td>
+<td align="right"><b>524</b></td>
+<td align="right">28</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">37</td>
-<td><img src="https://github.com/hiluka.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hiluka/how-to-hyperopt"><b>hiluka/how-to-hyperopt</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">1</td>
-<td>Jupyter Notebook</td>
-</tr>
-<tr>
-<td align="right">38</td>
-<td><img src="https://github.com/KczBen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KczBen/rs-linux-autoconnect"><b>KczBen/rs-linux-autoconnect</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">1</td>
-<td>C</td>
-</tr>
-<tr>
-<td align="right">39</td>
-<td><img src="https://github.com/ThorsteinnHelgi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ThorsteinnHelgi/App4Sea"><b>ThorsteinnHelgi/App4Sea</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">1</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">40</td>
-<td><img src="https://github.com/AndriGitDev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AndriGitDev/Komms"><b>AndriGitDev/Komms</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">0</td>
-<td>Rust</td>
-</tr>
-<tr>
-<td align="right">41</td>
-<td><img src="https://github.com/cypherh3x.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cypherh3x/cypher-stealer"><b>cypherh3x/cypher-stealer</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">0</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">42</td>
-<td><img src="https://github.com/Daddara.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Daddara/deckify"><b>Daddara/deckify</b></a> <sub>archived</sub></td>
-<td align="right"><b>3</b></td>
-<td align="right">0</td>
-<td>Python</td>
+<td><img src="https://github.com/technomancy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/technomancy/slamhound"><b>technomancy/slamhound</b></a> <sub>archived</sub><br><sub>Slamhound rips your namespace form apart and reconstructs it.</sub></td>
+<td align="right"><b>511</b></td>
+<td align="right">37</td>
+<td>Clojure</td>
 </tr>
 </tbody>
 </table>
@@ -323,11 +286,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 3 stars; 42 attributed candidates are tracked.
-- 11 entries were carried over from the previous dataset and are pending revalidation.
-- 112 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 511 stars; 37 attributed candidates are tracked.
+- 105 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 107 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

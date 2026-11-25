@@ -4,11 +4,11 @@
 "round": 1,
 "roundStartedAt": "2026-11-23T02:57:56.156Z",
 "terms": {"count":108,"fingerprint":"108:49c9402e"},
-"termIndex": 0,
-"specIndex": 0,
-"active": {"term":"Gambia","kind":"users","queue":[{"metric":[0,100000000],"created":null,"cursor":"Y3Vyc29yOjMwMA==","page":7,"retrieved":300,"attempts":0}],"unresolved":[],"cycleStartedAt":"2026-11-23T02:57:56.156Z","stats":{"pages":6}},
+"termIndex": 1,
+"specIndex": 1,
+"active": null,
 "unresolved": [],
 "completedRounds": [],
-"stats": {"requests":6,"pages":6,"accounts":300},
-"updatedAt": "2026-11-23T02:57:56.156Z"
+"stats": {"requests":12,"pages":12,"accounts":467},
+"updatedAt": "2026-11-25T14:41:41.556Z"
 }

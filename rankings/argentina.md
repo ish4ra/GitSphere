@@ -24,35 +24,35 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/aseprite.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aseprite/aseprite"><b>aseprite/aseprite</b></a><br><sub>Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux)</sub></td>
-<td align="right"><b>41,083</b></td>
-<td align="right">9,540</td>
+<td align="right"><b>41,151</b></td>
+<td align="right">9,566</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/bevacqua.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bevacqua/dragula"><b>bevacqua/dragula</b></a><br><sub>:ok&#95;hand: Drag and drop so simple it hurts</sub></td>
-<td align="right"><b>22,114</b></td>
+<td align="right"><b>22,113</b></td>
 <td align="right">1,910</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/maurosoria.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maurosoria/dirsearch"><b>maurosoria/dirsearch</b></a><br><sub>Web path scanner</sub></td>
-<td align="right"><b>15,108</b></td>
-<td align="right">2,463</td>
+<td align="right"><b>15,126</b></td>
+<td align="right">2,467</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/guarinogabriel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/guarinogabriel/Mac-CLI"><b>guarinogabriel/Mac-CLI</b></a><br><sub> macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line…</sub></td>
 <td align="right"><b>9,138</b></td>
-<td align="right">328</td>
+<td align="right">327</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/Mango.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mango/slideout"><b>Mango/slideout</b></a><br><sub>A touch slideout navigation menu for your mobile web apps.</sub></td>
-<td align="right"><b>7,860</b></td>
+<td align="right"><b>7,858</b></td>
 <td align="right">1,102</td>
 <td>JavaScript</td>
 </tr>
@@ -60,7 +60,7 @@
 <td align="right">6</td>
 <td><img src="https://github.com/anaibol.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anaibol/awesome-serverless"><b>anaibol/awesome-serverless</b></a><br><sub>:cloud: A curated list of awesome services, solutions and resources for serverless / nobackend applications.</sub></td>
 <td align="right"><b>7,586</b></td>
-<td align="right">755</td>
+<td align="right">756</td>
 <td>—</td>
 </tr>
 <tr>
@@ -73,14 +73,14 @@
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/devlooped.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/devlooped/moq"><b>devlooped/moq</b></a><br><sub>The most popular and friendly mocking framework for .NET</sub></td>
-<td align="right"><b>6,411</b></td>
+<td align="right"><b>6,410</b></td>
 <td align="right">829</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/norman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/norman/friendly_id"><b>norman/friendly&#95;id</b></a><br><sub>FriendlyId is the “Swiss Army bulldozer” of slugging and permalink plugins for ActiveRecord. It allows you to create pr…</sub></td>
-<td align="right"><b>6,221</b></td>
+<td align="right"><b>6,220</b></td>
 <td align="right">590</td>
 <td>Ruby</td>
 </tr>
@@ -94,14 +94,14 @@
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/sammwyy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sammwyy/MikuMikuBeam"><b>sammwyy/MikuMikuBeam</b></a><br><sub>An open-source network stresser tool but it&#39;s Hatsune Miku</sub></td>
-<td align="right"><b>5,877</b></td>
-<td align="right">537</td>
+<td align="right"><b>5,881</b></td>
+<td align="right">538</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/andmarti1424.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/andmarti1424/sc-im"><b>andmarti1424/sc-im</b></a><br><sub>sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal</sub></td>
-<td align="right"><b>5,720</b></td>
+<td align="right"><b>5,718</b></td>
 <td align="right">236</td>
 <td>C</td>
 </tr>
@@ -109,7 +109,7 @@
 <td align="right">13</td>
 <td><img src="https://github.com/benjamine.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/benjamine/jsondiffpatch"><b>benjamine/jsondiffpatch</b></a><br><sub>Diff &amp; patch JavaScript objects</sub></td>
 <td align="right"><b>5,354</b></td>
-<td align="right">501</td>
+<td align="right">500</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -122,7 +122,7 @@
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/bevacqua.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bevacqua/es6"><b>bevacqua/es6</b></a><br><sub>:star2: ES6 Overview in 350 Bullet Points</sub></td>
-<td align="right"><b>4,270</b></td>
+<td align="right"><b>4,266</b></td>
 <td align="right">254</td>
 <td>—</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 719 stars; 146 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 719 stars; 150 attributed candidates are tracked.
 - 120 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 109 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

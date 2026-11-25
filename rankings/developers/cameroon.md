@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **25** | 22 Nov 2026 | <a href="../../data/developers/CM.json">JSON</a> |
+| 🟡 Provisional | **26** | 22 Nov 2026 | <a href="../../data/developers/CM.json">JSON</a> |
 
 </div>
 
@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/ln-dev7"><img src="https://avatars.githubusercontent.com/u/62269693?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ln-dev7"><b>LN</b></a><br><sub>&#64;ln-dev7</sub></td>
-<td align="right"><b>1,257</b></td>
+<td align="right"><b>1,258</b></td>
 <td align="right">280</td>
 <td><sub>Cameroon</sub></td>
 </tr>
@@ -184,13 +184,20 @@
 </tr>
 <tr>
 <td align="right">24</td>
-<td><a href="https://github.com/Blair2004"><img src="https://avatars.githubusercontent.com/u/5265663?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Blair2004"><b>Blair Jersyer</b></a><br><sub>&#64;Blair2004</sub></td>
-<td align="right"><b>177</b></td>
-<td align="right">0</td>
-<td><sub>Cameroon. Yaoundé</sub></td>
+<td><a href="https://github.com/Clovremix"><img src="https://avatars.githubusercontent.com/u/52676828?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Clovremix"><b>Clovremix</b></a><br><sub>&#64;Clovremix</sub></td>
+<td align="right"><b>180</b></td>
+<td align="right">2</td>
+<td><sub>Yaounde Cameroon</sub></td>
 </tr>
 <tr>
 <td align="right">25</td>
+<td><a href="https://github.com/Blair2004"><img src="https://avatars.githubusercontent.com/u/5265663?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Blair2004"><b>Blair Jersyer</b></a><br><sub>&#64;Blair2004</sub></td>
+<td align="right"><b>177</b></td>
+<td align="right">147</td>
+<td><sub>Cameroon. Yaoundé</sub></td>
+</tr>
+<tr>
+<td align="right">26</td>
 <td><a href="https://github.com/RMPR"><img src="https://avatars.githubusercontent.com/u/23162145?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RMPR"><b>Paul Mairo</b></a><br><sub>&#64;RMPR</sub></td>
 <td align="right"><b>122</b></td>
 <td align="right">0</td>
@@ -204,7 +211,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 25 attributed developers are tracked; the cutoff is 122 followers.
+- Organizations are excluded. 26 attributed developers are tracked; the cutoff is 122 followers.
 - **Location discovery:** term 0 of 115 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

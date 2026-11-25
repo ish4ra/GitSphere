@@ -32,7 +32,7 @@
   {"rank":23,"id":"U_kgDOBelEIw","login":"M0NST312","name":"Menzi Khumalo","url":"https://github.com/M0NST312","avatarUrl":"https://avatars.githubusercontent.com/u/99173411?s=80&v=4","followers":7,"publicRepos":15,"location":"Ezulwini","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
   {"rank":24,"id":"MDQ6VXNlcjI2ODk5NTg5","login":"RegoJ","name":"José Rego","url":"https://github.com/RegoJ","avatarUrl":"https://avatars.githubusercontent.com/u/26899589?s=80&v=4","followers":7,"publicRepos":8,"location":"Swaziland","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":25,"id":"MDQ6VXNlcjMzNjUxMDA1","login":"bandilepdlamini","name":"Bandile P Dlamini","url":"https://github.com/bandilepdlamini","avatarUrl":"https://avatars.githubusercontent.com/u/33651005?s=80&v=4","followers":7,"publicRepos":4,"location":"Mbabane, Eswatini","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
-  {"rank":26,"id":"MDQ6VXNlcjMwNDk0ODg4","login":"thinkermsandi","name":"Sandile Dlamini","url":"https://github.com/thinkermsandi","avatarUrl":"https://avatars.githubusercontent.com/u/30494888?s=80&v=4","followers":6,"publicRepos":35,"location":"Mbabane, Swaziland","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":26,"id":"MDQ6VXNlcjMwNDk0ODg4","login":"thinkermsandi","name":"Sandile Dlamini","url":"https://github.com/thinkermsandi","avatarUrl":"https://avatars.githubusercontent.com/u/30494888?s=80&v=4","followers":6,"publicRepos":35,"location":"Mbabane, Swaziland","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-25"},
   {"rank":27,"id":"MDQ6VXNlcjk1NjkzMDA=","login":"Brizo","name":"Brian Sihlongonyane","url":"https://github.com/Brizo","avatarUrl":"https://avatars.githubusercontent.com/u/9569300?s=80&v=4","followers":5,"publicRepos":20,"location":"Swaziland Mbabane","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":28,"id":"MDQ6VXNlcjMwNzM2MTE3","login":"patiesoft","name":"Phathizwe Vilakazi","url":"https://github.com/patiesoft","avatarUrl":"https://avatars.githubusercontent.com/u/30736117?s=80&v=4","followers":5,"publicRepos":15,"location":"Mbabane Swaziland","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":29,"id":"MDQ6VXNlcjgzODY0NzEw","login":"kwanele-simelane","name":"Kwanele Simelane","url":"https://github.com/kwanele-simelane","avatarUrl":"https://avatars.githubusercontent.com/u/83864710?s=80&v=4","followers":5,"publicRepos":14,"location":"Mbabane, Eswatini","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
@@ -336,8 +336,8 @@
   {"rank":327,"id":"U_kgDOCKvq-w","login":"vuyoo-sojama95","name":"VuyoL2 Mngomezulu","url":"https://github.com/vuyoo-sojama95","avatarUrl":"https://avatars.githubusercontent.com/u/145484539?s=80&v=4","followers":0,"publicRepos":0,"location":"1st Floor Riverstone Mall, Manzini Eswatini","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":328,"id":"U_kgDOEDZY0w","login":"ziyanda000tsabedze-a11y","name":"Ziyanda Tsabedze","url":"https://github.com/ziyanda000tsabedze-a11y","avatarUrl":"https://avatars.githubusercontent.com/u/271997139?s=80&v=4","followers":0,"publicRepos":0,"location":"Eswatini","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "556c76bfda1b52e8",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "6e8ae6c0c93b1a01",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

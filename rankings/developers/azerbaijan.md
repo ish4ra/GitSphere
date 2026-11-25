@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **37** | 22 Nov 2026 | <a href="../../data/developers/AZ.json">JSON</a> |
+| 🟡 Provisional | **45** | 22 Nov 2026 | <a href="../../data/developers/AZ.json">JSON</a> |
 
 </div>
 
@@ -254,31 +254,87 @@
 </tr>
 <tr>
 <td align="right">34</td>
+<td><a href="https://github.com/huseynovvusal"><img src="https://avatars.githubusercontent.com/u/87518350?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/huseynovvusal"><b>Vusal Huseynov</b></a><br><sub>&#64;huseynovvusal</sub></td>
+<td align="right"><b>193</b></td>
+<td align="right">58</td>
+<td><sub>Azerbaijan</sub></td>
+</tr>
+<tr>
+<td align="right">35</td>
+<td><a href="https://github.com/raminorujov"><img src="https://avatars.githubusercontent.com/u/973347?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/raminorujov"><b>Ramin Orujov</b></a><br><sub>&#64;raminorujov</sub></td>
+<td align="right"><b>192</b></td>
+<td align="right">20</td>
+<td><sub>Baku, Azerbaijan</sub></td>
+</tr>
+<tr>
+<td align="right">36</td>
+<td><a href="https://github.com/quantferox"><img src="https://avatars.githubusercontent.com/u/280979109?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/quantferox"><b>Murad Gazymagomedov</b></a><br><sub>&#64;quantferox</sub></td>
+<td align="right"><b>188</b></td>
+<td align="right">27</td>
+<td><sub>Baku, Azerbaijan</sub></td>
+</tr>
+<tr>
+<td align="right">37</td>
+<td><a href="https://github.com/Ali-GreenHeart"><img src="https://avatars.githubusercontent.com/u/56336368?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ali-GreenHeart"><b>Alion-GreenHeart</b></a><br><sub>&#64;Ali-GreenHeart</sub></td>
+<td align="right"><b>183</b></td>
+<td align="right">91</td>
+<td><sub>Azerbaijan, Baku</sub></td>
+</tr>
+<tr>
+<td align="right">38</td>
+<td><a href="https://github.com/capwan"><img src="https://avatars.githubusercontent.com/u/56510976?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/capwan"><b>Rahman Samadzada</b></a><br><sub>&#64;capwan</sub></td>
+<td align="right"><b>183</b></td>
+<td align="right">36</td>
+<td><sub>Baku,Azerbaijan</sub></td>
+</tr>
+<tr>
+<td align="right">39</td>
+<td><a href="https://github.com/nadjafov05"><img src="https://avatars.githubusercontent.com/u/67289560?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nadjafov05"><b>Parviz Najafov</b></a><br><sub>&#64;nadjafov05</sub></td>
+<td align="right"><b>183</b></td>
+<td align="right">9</td>
+<td><sub>Baku,Azerbaijan</sub></td>
+</tr>
+<tr>
+<td align="right">40</td>
+<td><a href="https://github.com/rvsul"><img src="https://avatars.githubusercontent.com/u/79022070?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rvsul"><b>Rasul Agasiyev</b></a><br><sub>&#64;rvsul</sub></td>
+<td align="right"><b>180</b></td>
+<td align="right">36</td>
+<td><sub>Baku, Azerbaijan</sub></td>
+</tr>
+<tr>
+<td align="right">41</td>
 <td><a href="https://github.com/sabuhish"><img src="https://avatars.githubusercontent.com/u/46589585?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sabuhish"><b>Sabuhi</b></a><br><sub>&#64;sabuhish</sub></td>
 <td align="right"><b>148</b></td>
 <td align="right">0</td>
 <td><sub>Baku Azerbaijan</sub></td>
 </tr>
 <tr>
-<td align="right">35</td>
+<td align="right">42</td>
 <td><a href="https://github.com/mearashadowfax"><img src="https://avatars.githubusercontent.com/u/125820963?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mearashadowfax"><b>Emil Gulamov</b></a><br><sub>&#64;mearashadowfax</sub></td>
 <td align="right"><b>117</b></td>
 <td align="right">0</td>
 <td><sub>Baku, Azerbaijan</sub></td>
 </tr>
 <tr>
-<td align="right">36</td>
+<td align="right">43</td>
 <td><a href="https://github.com/Theyka"><img src="https://avatars.githubusercontent.com/u/34212813?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Theyka"><b>Theyka</b></a><br><sub>&#64;Theyka</sub></td>
 <td align="right"><b>74</b></td>
 <td align="right">0</td>
 <td><sub>Azerbaijan</sub></td>
 </tr>
 <tr>
-<td align="right">37</td>
+<td align="right">44</td>
 <td><a href="https://github.com/rasadov"><img src="https://avatars.githubusercontent.com/u/127891192?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rasadov"><b>Rauf Asadov</b></a><br><sub>&#64;rasadov</sub></td>
 <td align="right"><b>72</b></td>
 <td align="right">0</td>
 <td><sub>Azerbaijan, Baku</sub></td>
+</tr>
+<tr>
+<td align="right">45</td>
+<td><a href="https://github.com/r14dd"><img src="https://avatars.githubusercontent.com/u/73396868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/r14dd"><b>Riad Mukhtarov</b></a><br><sub>&#64;r14dd</sub></td>
+<td align="right"><b>24</b></td>
+<td align="right">0</td>
+<td><sub>Baku, Azerbaijan</sub></td>
 </tr>
 </tbody>
 </table>
@@ -288,7 +344,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 37 attributed developers are tracked; the cutoff is 72 followers.
+- Organizations are excluded. 45 attributed developers are tracked; the cutoff is 24 followers.
 - **Location discovery:** term 0 of 185 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

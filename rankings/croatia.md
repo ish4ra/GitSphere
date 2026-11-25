@@ -24,49 +24,49 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/stamparm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stamparm/maltrail"><b>stamparm/maltrail</b></a><br><sub>Malicious traffic detection system</sub></td>
-<td align="right"><b>8,661</b></td>
-<td align="right">1,272</td>
+<td align="right"><b>8,662</b></td>
+<td align="right">1,273</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_3D_developer_portfolio"><b>adrianhajdin/project&#95;3D&#95;developer&#95;portfolio</b></a><br><sub>The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to b…</sub></td>
 <td align="right"><b>7,132</b></td>
-<td align="right">1,694</td>
+<td align="right">1,693</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/ivpusic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ivpusic/react-native-image-crop-picker"><b>ivpusic/react-native-image-crop-picker</b></a><br><sub>iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping</sub></td>
-<td align="right"><b>6,347</b></td>
-<td align="right">1,611</td>
+<td align="right"><b>6,345</b></td>
+<td align="right">1,608</td>
 <td>Objective-C</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_mern_memories"><b>adrianhajdin/project&#95;mern&#95;memories</b></a><br><sub>This is a code repository for the corresponding video tutorial. Using React, Node.js, Express &amp; MongoDB you&#39;ll learn ho…</sub></td>
-<td align="right"><b>5,119</b></td>
-<td align="right">1,874</td>
+<td align="right"><b>5,120</b></td>
+<td align="right">1,875</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/nibzard.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nibzard/awesome-agentic-patterns"><b>nibzard/awesome-agentic-patterns</b></a><br><sub>A curated catalogue of awesome agentic AI patterns</sub></td>
-<td align="right"><b>5,089</b></td>
+<td align="right"><b>5,091</b></td>
 <td align="right">496</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/judge0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/judge0/judge0"><b>judge0/judge0</b></a><br><sub>Robust, fast, scalable, and sandboxed open-source online code execution system for humans and AI.</sub></td>
-<td align="right"><b>4,519</b></td>
-<td align="right">943</td>
+<td align="right"><b>4,522</b></td>
+<td align="right">945</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_web3.0"><b>adrianhajdin/project&#95;web3.0</b></a><br><sub>This is a code repository for the corresponding video tutorial. In this video, we&#39;re going to build a Web 3.0 React Sol…</sub></td>
-<td align="right"><b>4,243</b></td>
+<td align="right"><b>4,242</b></td>
 <td align="right">1,173</td>
 <td>JavaScript</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 759 stars; 133 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 759 stars; 147 attributed candidates are tracked.
 - 115 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 145 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

@@ -5,7 +5,7 @@
 "country": {"code":"UG","name":"Uganda","slug":"uganda"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":202,"candidates":21,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":169,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":177,"candidates":24,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":169,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"U_kgDOCTi7JA","login":"Arison99","name":"Byonanebye Arison","url":"https://github.com/Arison99","avatarUrl":"https://avatars.githubusercontent.com/u/154712868?s=80&v=4","followers":1770,"publicRepos":72,"location":"Kampala","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"U_kgDOB7x-IA","login":"uthumany","name":"Uthuman Moody","url":"https://github.com/uthumany","avatarUrl":"https://avatars.githubusercontent.com/u/129793568?s=80&v=4","followers":1058,"publicRepos":132,"location":"uthuman 7H6P+H8, Kampala","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-22"},
@@ -22,15 +22,18 @@
   {"rank":13,"id":"MDQ6VXNlcjc3Njk5NjE0","login":"aivan2798","name":"aivan2798","url":"https://github.com/aivan2798","avatarUrl":"https://avatars.githubusercontent.com/u/77699614?s=80&v=4","followers":320,"publicRepos":52,"location":"Kampala","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-24"},
   {"rank":14,"id":"MDQ6VXNlcjY0MTg5ODQx","login":"MUKE-coder","name":"MUKE JOHNBAPTIST","url":"https://github.com/MUKE-coder","avatarUrl":"https://avatars.githubusercontent.com/u/64189841?s=80&v=4","followers":319,"publicRepos":257,"location":"KAMPALA -UGANDA","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":15,"id":"U_kgDOBbCgCg","login":"kidde60","name":"GEORGE WILLIAM KIDDE","url":"https://github.com/kidde60","avatarUrl":"https://avatars.githubusercontent.com/u/95461386?s=80&v=4","followers":317,"publicRepos":74,"location":"KAMPALA, UGANDA","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
-  {"rank":16,"id":"MDQ6VXNlcjc4MDM0MQ==","login":"has2k1","name":"Hassan Kibirige","url":"https://github.com/has2k1","avatarUrl":"https://avatars.githubusercontent.com/u/780341?s=80&v=4","followers":300,"publicRepos":100,"location":"Kampala, Uganda","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":16,"id":"MDQ6VXNlcjc4MDM0MQ==","login":"has2k1","name":"Hassan Kibirige","url":"https://github.com/has2k1","avatarUrl":"https://avatars.githubusercontent.com/u/780341?s=80&v=4","followers":301,"publicRepos":100,"location":"Kampala, Uganda","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-25"},
   {"rank":17,"id":"MDQ6VXNlcjcxMTE0NzEx","login":"chardso","name":"@chardso (CTO hardware org)","url":"https://github.com/chardso","avatarUrl":"https://avatars.githubusercontent.com/u/71114711?s=80&v=4","followers":231,"publicRepos":94,"location":"Adjumani uganda","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":18,"id":"MDQ6VXNlcjE2OTUyMjg4","login":"kbjude","name":"kbjude","url":"https://github.com/kbjude","avatarUrl":"https://avatars.githubusercontent.com/u/16952288?s=80&v=4","followers":215,"publicRepos":97,"location":"Kampala","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-25"},
   {"rank":19,"id":"U_kgDOCT5Xcw","login":"ceasor-elvis","name":"Elvis Joseph Kawalya","url":"https://github.com/ceasor-elvis","avatarUrl":"https://avatars.githubusercontent.com/u/155080563?s=80&v=4","followers":209,"publicRepos":19,"location":"Kampala, Uganda","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-25"},
   {"rank":20,"id":"MDQ6VXNlcjQ4MDg4NjIy","login":"PerezChris99","name":"Perez Chris","url":"https://github.com/PerezChris99","avatarUrl":"https://avatars.githubusercontent.com/u/48088622?s=80&v=4","followers":203,"publicRepos":20,"location":"Kampala, Uganda","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-25"},
-  {"rank":21,"id":"U_kgDOBjsOIA","login":"mitalasamuel","name":"Mitala Samuel","url":"https://github.com/mitalasamuel","avatarUrl":"https://avatars.githubusercontent.com/u/104533536?s=80&v=4","followers":202,"publicRepos":2,"location":"Kampala","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-25"}
+  {"rank":21,"id":"U_kgDOBjsOIA","login":"mitalasamuel","name":"Mitala Samuel","url":"https://github.com/mitalasamuel","avatarUrl":"https://avatars.githubusercontent.com/u/104533536?s=80&v=4","followers":202,"publicRepos":2,"location":"Kampala","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-25"},
+  {"rank":22,"id":"MDQ6VXNlcjYwNDY2MDQ0","login":"kallyas","name":"Iden","url":"https://github.com/kallyas","avatarUrl":"https://avatars.githubusercontent.com/u/60466044?s=80&v=4","followers":186,"publicRepos":219,"location":"Uganda","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
+  {"rank":23,"id":"MDQ6VXNlcjg5NzUyMDIy","login":"FahimWeblogicAndCyberTechnologies","name":"FRANKLIN","url":"https://github.com/FahimWeblogicAndCyberTechnologies","avatarUrl":"https://avatars.githubusercontent.com/u/89752022?s=80&v=4","followers":186,"publicRepos":64,"location":"Uganda","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
+  {"rank":24,"id":"MDQ6VXNlcjYzNDA2ODg=","login":"kimrichies","name":"Richard Kimera","url":"https://github.com/kimrichies","avatarUrl":"https://avatars.githubusercontent.com/u/6340688?s=80&v=4","followers":177,"publicRepos":25,"location":"Mbarara","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-25"}
 ],
-"contentHash": "c2251dbc212e2be9",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "3c2dd5ca19832101",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

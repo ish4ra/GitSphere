@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/NYAN-x-CAT"><img src="https://avatars.githubusercontent.com/u/32758426?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NYAN-x-CAT"><b>NYAN CAT</b></a><br><sub>&#64;NYAN-x-CAT</sub></td>
-<td align="right"><b>3,184</b></td>
+<td align="right"><b>3,183</b></td>
 <td align="right">33</td>
 <td><sub>Kuwait</sub></td>
 </tr>

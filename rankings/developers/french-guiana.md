@@ -60,7 +60,7 @@
 <td align="right">6</td>
 <td><a href="https://github.com/qlspanda17"><img src="https://avatars.githubusercontent.com/u/170960410?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/qlspanda17"><b>SONY PAME</b></a><br><sub>&#64;qlspanda17</sub></td>
 <td align="right"><b>6</b></td>
-<td align="right">4</td>
+<td align="right">6</td>
 <td><sub>French Guiana</sub></td>
 </tr>
 <tr>
@@ -513,7 +513,7 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
 - Organizations are excluded. 69 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 2 of 35 in round 1.
+- **Location discovery:** term 5 of 35 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

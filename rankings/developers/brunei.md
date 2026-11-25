@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/notanonymouse"><img src="https://avatars.githubusercontent.com/u/258151879?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/notanonymouse"><b>notanonymouse</b></a><br><sub>&#64;notanonymouse</sub></td>
-<td align="right"><b>184</b></td>
+<td align="right"><b>185</b></td>
 <td align="right">8</td>
 <td><sub>Brunei</sub></td>
 </tr>

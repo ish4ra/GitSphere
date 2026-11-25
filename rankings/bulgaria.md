@@ -24,56 +24,56 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/bobeff.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bobeff/open-source-games"><b>bobeff/open-source-games</b></a><br><sub>A list of open source games.</sub></td>
-<td align="right"><b>18,565</b></td>
-<td align="right">1,806</td>
+<td align="right"><b>18,663</b></td>
+<td align="right">1,829</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/erusev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/erusev/parsedown"><b>erusev/parsedown</b></a><br><sub>Better Markdown Parser in PHP</sub></td>
-<td align="right"><b>15,052</b></td>
-<td align="right">1,131</td>
+<td align="right"><b>15,056</b></td>
+<td align="right">1,132</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/krasimir.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/krasimir/react-in-patterns"><b>krasimir/react-in-patterns</b></a><br><sub>A free book that talks about design patterns/techniques used while developing with React.</sub></td>
-<td align="right"><b>13,563</b></td>
+<td align="right"><b>13,565</b></td>
 <td align="right">978</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/ggerganov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ggerganov/kbd-audio"><b>ggerganov/kbd-audio</b></a><br><sub>🎤⌨️ Acoustic keyboard eavesdropping</sub></td>
-<td align="right"><b>9,037</b></td>
-<td align="right">604</td>
+<td align="right"><b>9,039</b></td>
+<td align="right">605</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/ggerganov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ggerganov/ggwave"><b>ggerganov/ggwave</b></a><br><sub>Tiny data-over-sound library</sub></td>
-<td align="right"><b>7,929</b></td>
-<td align="right">484</td>
+<td align="right"><b>7,931</b></td>
+<td align="right">485</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/spantaleev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spantaleev/matrix-docker-ansible-deploy"><b>spantaleev/matrix-docker-ansible-deploy</b></a><br><sub>🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker</sub></td>
-<td align="right"><b>6,531</b></td>
+<td align="right"><b>6,530</b></td>
 <td align="right">1,179</td>
 <td>Jinja</td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/petyosi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/petyosi/react-virtuoso"><b>petyosi/react-virtuoso</b></a><br><sub>The most powerful virtual list component for React</sub></td>
-<td align="right"><b>6,491</b></td>
+<td align="right"><b>6,489</b></td>
 <td align="right">370</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/bobbyiliev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bobbyiliev/introduction-to-bash-scripting"><b>bobbyiliev/introduction-to-bash-scripting</b></a><br><sub>Free Introduction to Bash Scripting eBook</sub></td>
-<td align="right"><b>6,399</b></td>
+<td align="right"><b>6,403</b></td>
 <td align="right">677</td>
 <td>HTML</td>
 </tr>
@@ -81,13 +81,13 @@
 <td align="right">9</td>
 <td><img src="https://github.com/HackSoftware.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HackSoftware/Django-Styleguide"><b>HackSoftware/Django-Styleguide</b></a><br><sub>Django styleguide used in HackSoft projects</sub></td>
 <td align="right"><b>6,315</b></td>
-<td align="right">619</td>
+<td align="right">618</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/bbatsov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bbatsov/prelude"><b>bbatsov/prelude</b></a><br><sub>Prelude is an enhanced Emacs 29.1+ distribution that should make your experience with Emacs both more pleasant and more…</sub></td>
-<td align="right"><b>5,345</b></td>
+<td align="right"><b>5,346</b></td>
 <td align="right">1,863</td>
 <td>Emacs Lisp</td>
 </tr>
@@ -101,21 +101,21 @@
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/vakata.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vakata/jstree"><b>vakata/jstree</b></a><br><sub>jquery tree plugin</sub></td>
-<td align="right"><b>5,178</b></td>
+<td align="right"><b>5,177</b></td>
 <td align="right">1,358</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">13</td>
-<td><img src="https://github.com/radzenhq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/radzenhq/radzen-blazor"><b>radzenhq/radzen-blazor</b></a><br><sub>Radzen Blazor is the most sophisticated free UI component library for Blazor, featuring 155+ native components includin…</sub></td>
-<td align="right"><b>4,389</b></td>
-<td align="right">964</td>
+<td><img src="https://github.com/radzenhq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/radzenhq/radzen-blazor"><b>radzenhq/radzen-blazor</b></a><br><sub>Radzen Blazor is the most sophisticated free UI component library for Blazor: 155+ native components including DataGrid…</sub></td>
+<td align="right"><b>4,392</b></td>
+<td align="right">963</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/bbatsov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bbatsov/projectile"><b>bbatsov/projectile</b></a><br><sub>Project Interaction Library for Emacs</sub></td>
-<td align="right"><b>4,251</b></td>
+<td align="right"><b>4,252</b></td>
 <td align="right">591</td>
 <td>Emacs Lisp</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 691 stars; 113 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 691 stars; 123 attributed candidates are tracked.
 - 121 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 140 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

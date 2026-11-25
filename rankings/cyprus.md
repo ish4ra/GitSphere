@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **51** | 22 Nov 2026 | <a href="../data/CY.json">JSON</a> |
+| 🟡 Provisional | **55** | 22 Nov 2026 | <a href="../data/CY.json">JSON</a> |
 
 </div>
 
@@ -24,71 +24,71 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/AdguardTeam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AdguardTeam/AdGuardHome"><b>AdguardTeam/AdGuardHome</b></a><br><sub>Network-wide ads &amp; trackers blocking DNS server</sub></td>
-<td align="right"><b>38,715</b></td>
-<td align="right">2,627</td>
+<td align="right"><b>38,835</b></td>
+<td align="right">2,639</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/zloirock.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zloirock/core-js"><b>zloirock/core-js</b></a><br><sub>Standard Library</sub></td>
-<td align="right"><b>25,517</b></td>
+<td align="right"><b>25,510</b></td>
 <td align="right">1,674</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/zakirullin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zakirullin/cognitive-load"><b>zakirullin/cognitive-load</b></a><br><sub>🧠 Cognitive load is what matters</sub></td>
-<td align="right"><b>12,545</b></td>
-<td align="right">311</td>
+<td align="right"><b>12,549</b></td>
+<td align="right">310</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/centrifugal.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/centrifugal/centrifugo"><b>centrifugal/centrifugo</b></a><br><sub>Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably, socket…</sub></td>
-<td align="right"><b>11,014</b></td>
-<td align="right">757</td>
+<td align="right"><b>11,032</b></td>
+<td align="right">759</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/pikvm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pikvm/pikvm"><b>pikvm/pikvm</b></a><br><sub>Open and inexpensive DIY IP-KVM based on Raspberry Pi</sub></td>
-<td align="right"><b>10,493</b></td>
+<td align="right"><b>10,500</b></td>
 <td align="right">578</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/gosom.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gosom/google-maps-scraper"><b>gosom/google-maps-scraper</b></a><br><sub>scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews numbe…</sub></td>
-<td align="right"><b>8,307</b></td>
-<td align="right">1,322</td>
+<td align="right"><b>8,412</b></td>
+<td align="right">1,335</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/semver.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/semver/semver"><b>semver/semver</b></a><br><sub>Semantic Versioning Specification</sub></td>
-<td align="right"><b>7,886</b></td>
+<td align="right"><b>7,888</b></td>
 <td align="right">789</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/AdguardTeam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AdguardTeam/AdguardFilters"><b>AdguardTeam/AdguardFilters</b></a><br><sub>AdGuard Content Blocking Filters</sub></td>
-<td align="right"><b>4,628</b></td>
-<td align="right">829</td>
+<td align="right"><b>4,636</b></td>
+<td align="right">832</td>
 <td>Adblock Filter List</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/AdguardTeam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AdguardTeam/AdguardBrowserExtension"><b>AdguardTeam/AdguardBrowserExtension</b></a><br><sub>AdGuard browser extension</sub></td>
-<td align="right"><b>4,579</b></td>
-<td align="right">462</td>
+<td align="right"><b>4,585</b></td>
+<td align="right">463</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/zakirullin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zakirullin/files.md"><b>zakirullin/files.md</b></a><br><sub>🌱 Private, quiet space for thinking. Simple app for .md files.</sub></td>
-<td align="right"><b>4,186</b></td>
-<td align="right">220</td>
+<td align="right"><b>4,189</b></td>
+<td align="right">221</td>
 <td>Go</td>
 </tr>
 <tr>
@@ -378,6 +378,34 @@
 <td align="right">320</td>
 <td>SCSS</td>
 </tr>
+<tr>
+<td align="right">52</td>
+<td><img src="https://github.com/chromealex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chromealex/ecs"><b>chromealex/ecs</b></a><br><sub>ECS for Unity with full game state automatic rollbacks</sub></td>
+<td align="right"><b>563</b></td>
+<td align="right">51</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><img src="https://github.com/centrifugal.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/centrifugal/centrifuge-js"><b>centrifugal/centrifuge-js</b></a><br><sub>JavaScript client SDK to communicate with Centrifugo and Centrifuge-based server from browser, NodeJS and React Native.…</sub></td>
+<td align="right"><b>513</b></td>
+<td align="right">119</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><img src="https://github.com/chromealex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chromealex/Unity3d.UI.Windows"><b>chromealex/Unity3d.UI.Windows</b></a><br><sub>Unity 3D UI (uGUI) Windows Extensions</sub></td>
+<td align="right"><b>512</b></td>
+<td align="right">110</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/rsaryev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rsaryev/talk-codebase"><b>rsaryev/talk-codebase</b></a> <sub>archived</sub><br><sub>Tool for chatting with your codebase and docs using OpenAI, LlamaCpp, and GPT-4-All</sub></td>
+<td align="right"><b>508</b></td>
+<td align="right">37</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -386,8 +414,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 577 stars; 51 attributed candidates are tracked.
-- 105 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 508 stars; 55 attributed candidates are tracked.
+- 99 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 105 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

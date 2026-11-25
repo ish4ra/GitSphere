@@ -31,21 +31,21 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/peng-zhihui"><img src="https://avatars.githubusercontent.com/u/12994887?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/peng-zhihui"><b>稚晖</b></a><br><sub>&#64;peng-zhihui</sub></td>
-<td align="right"><b>87,715</b></td>
+<td align="right"><b>87,722</b></td>
 <td align="right">61</td>
 <td><sub>Shanghai</sub></td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/michaelliao"><img src="https://avatars.githubusercontent.com/u/470058?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/michaelliao"><b>Crypto Michael</b></a><br><sub>&#64;michaelliao</sub></td>
-<td align="right"><b>38,735</b></td>
+<td align="right"><b>38,731</b></td>
 <td align="right">122</td>
 <td><sub>Beijing, China</sub></td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/liyupi"><img src="https://avatars.githubusercontent.com/u/26037703?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/liyupi"><b>程序员鱼皮</b></a><br><sub>&#64;liyupi</sub></td>
-<td align="right"><b>25,076</b></td>
+<td align="right"><b>25,077</b></td>
 <td align="right">135</td>
 <td><sub>China Shanghai</sub></td>
 </tr>
@@ -59,7 +59,7 @@
 <tr>
 <td align="right">6</td>
 <td><a href="https://github.com/xiaolai"><img src="https://avatars.githubusercontent.com/u/152970?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xiaolai"><b>xiaolai</b></a><br><sub>&#64;xiaolai</sub></td>
-<td align="right"><b>24,268</b></td>
+<td align="right"><b>24,275</b></td>
 <td align="right">191</td>
 <td><sub>beijing</sub></td>
 </tr>
@@ -73,7 +73,7 @@
 <tr>
 <td align="right">8</td>
 <td><a href="https://github.com/cloudwu"><img src="https://avatars.githubusercontent.com/u/729648?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cloudwu"><b>云风</b></a><br><sub>&#64;cloudwu</sub></td>
-<td align="right"><b>21,710</b></td>
+<td align="right"><b>21,713</b></td>
 <td align="right">140</td>
 <td><sub>China</sub></td>
 </tr>
@@ -87,35 +87,35 @@
 <tr>
 <td align="right">10</td>
 <td><a href="https://github.com/phodal"><img src="https://avatars.githubusercontent.com/u/472311?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/phodal"><b>Fengda Huang</b></a><br><sub>&#64;phodal</sub></td>
-<td align="right"><b>20,871</b></td>
+<td align="right"><b>20,872</b></td>
 <td align="right">392</td>
 <td><sub>Hangzhou, China</sub></td>
 </tr>
 <tr>
 <td align="right">11</td>
 <td><a href="https://github.com/jackfrued"><img src="https://avatars.githubusercontent.com/u/7474657?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jackfrued"><b>骆昊</b></a><br><sub>&#64;jackfrued</sub></td>
-<td align="right"><b>17,455</b></td>
+<td align="right"><b>17,456</b></td>
 <td align="right">153</td>
 <td><sub>Chengdu Sichuan, China</sub></td>
 </tr>
 <tr>
 <td align="right">12</td>
 <td><a href="https://github.com/justjavac"><img src="https://avatars.githubusercontent.com/u/359395?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/justjavac"><b>迷渡</b></a><br><sub>&#64;justjavac</sub></td>
-<td align="right"><b>17,300</b></td>
+<td align="right"><b>17,299</b></td>
 <td align="right">473</td>
 <td><sub>Tianjin, China</sub></td>
 </tr>
 <tr>
 <td align="right">13</td>
 <td><a href="https://github.com/Trinea"><img src="https://avatars.githubusercontent.com/u/1169522?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Trinea"><b>Trinea</b></a><br><sub>&#64;Trinea</sub></td>
-<td align="right"><b>17,036</b></td>
+<td align="right"><b>17,037</b></td>
 <td align="right">23</td>
 <td><sub>HangZhou</sub></td>
 </tr>
 <tr>
 <td align="right">14</td>
 <td><a href="https://github.com/stormzhang"><img src="https://avatars.githubusercontent.com/u/2267900?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stormzhang"><b>stormzhang</b></a><br><sub>&#64;stormzhang</sub></td>
-<td align="right"><b>16,274</b></td>
+<td align="right"><b>16,278</b></td>
 <td align="right">9</td>
 <td><sub>Global/Shanghai</sub></td>
 </tr>
@@ -164,7 +164,7 @@
 <tr>
 <td align="right">21</td>
 <td><a href="https://github.com/CyC2018"><img src="https://avatars.githubusercontent.com/u/36260787?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CyC2018"><b>CyC2018</b></a><br><sub>&#64;CyC2018</sub></td>
-<td align="right"><b>14,725</b></td>
+<td align="right"><b>14,724</b></td>
 <td align="right">2</td>
 <td><sub>Guangzhou, China</sub></td>
 </tr>
@@ -178,7 +178,7 @@
 <tr>
 <td align="right">23</td>
 <td><a href="https://github.com/521xueweihan"><img src="https://avatars.githubusercontent.com/u/8255800?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/521xueweihan"><b>削微寒</b></a><br><sub>&#64;521xueweihan</sub></td>
-<td align="right"><b>14,142</b></td>
+<td align="right"><b>14,151</b></td>
 <td align="right">166</td>
 <td><sub>Beijing, China</sub></td>
 </tr>
@@ -192,28 +192,28 @@
 <tr>
 <td align="right">25</td>
 <td><a href="https://github.com/fengdu78"><img src="https://avatars.githubusercontent.com/u/26119052?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fengdu78"><b>Huang Haiguang</b></a><br><sub>&#64;fengdu78</sub></td>
-<td align="right"><b>13,883</b></td>
+<td align="right"><b>13,882</b></td>
 <td align="right">17</td>
 <td><sub>Qingdao,China</sub></td>
 </tr>
 <tr>
 <td align="right">26</td>
 <td><a href="https://github.com/bailicangdu"><img src="https://avatars.githubusercontent.com/u/20297227?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bailicangdu"><b>cangdu</b></a><br><sub>&#64;bailicangdu</sub></td>
-<td align="right"><b>13,735</b></td>
+<td align="right"><b>13,733</b></td>
 <td align="right">22</td>
 <td><sub>Shanghai, China</sub></td>
 </tr>
 <tr>
 <td align="right">27</td>
 <td><a href="https://github.com/alchaincyf"><img src="https://avatars.githubusercontent.com/u/127714341?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alchaincyf"><b>花叔</b></a><br><sub>&#64;alchaincyf</sub></td>
-<td align="right"><b>13,499</b></td>
+<td align="right"><b>13,511</b></td>
 <td align="right">98</td>
 <td><sub>China</sub></td>
 </tr>
 <tr>
 <td align="right">28</td>
 <td><a href="https://github.com/PanJiaChen"><img src="https://avatars.githubusercontent.com/u/8121621?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PanJiaChen"><b>花裤衩</b></a><br><sub>&#64;PanJiaChen</sub></td>
-<td align="right"><b>13,398</b></td>
+<td align="right"><b>13,397</b></td>
 <td align="right">74</td>
 <td><sub>Shanghai, China</sub></td>
 </tr>
@@ -234,14 +234,14 @@
 <tr>
 <td align="right">31</td>
 <td><a href="https://github.com/hongyangAndroid"><img src="https://avatars.githubusercontent.com/u/10704521?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hongyangAndroid"><b>张鸿洋</b></a><br><sub>&#64;hongyangAndroid</sub></td>
-<td align="right"><b>12,980</b></td>
+<td align="right"><b>12,981</b></td>
 <td align="right">103</td>
 <td><sub>Beijing,China</sub></td>
 </tr>
 <tr>
 <td align="right">32</td>
 <td><a href="https://github.com/YunaiV"><img src="https://avatars.githubusercontent.com/u/2015545?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YunaiV"><b>芋道源码</b></a><br><sub>&#64;YunaiV</sub></td>
-<td align="right"><b>12,878</b></td>
+<td align="right"><b>12,881</b></td>
 <td align="right">47</td>
 <td><sub>Shanghai, China</sub></td>
 </tr>
@@ -262,7 +262,7 @@
 <tr>
 <td align="right">35</td>
 <td><a href="https://github.com/mqyqingfeng"><img src="https://avatars.githubusercontent.com/u/11458263?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mqyqingfeng"><b>冴羽</b></a><br><sub>&#64;mqyqingfeng</sub></td>
-<td align="right"><b>11,526</b></td>
+<td align="right"><b>11,525</b></td>
 <td align="right">37</td>
 <td><sub>Hangzhou, China</sub></td>
 </tr>
@@ -276,7 +276,7 @@
 <tr>
 <td align="right">37</td>
 <td><a href="https://github.com/yetone"><img src="https://avatars.githubusercontent.com/u/1206493?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yetone"><b>yetone</b></a><br><sub>&#64;yetone</sub></td>
-<td align="right"><b>11,452</b></td>
+<td align="right"><b>11,463</b></td>
 <td align="right">640</td>
 <td><sub>China</sub></td>
 </tr>
@@ -290,7 +290,7 @@
 <tr>
 <td align="right">39</td>
 <td><a href="https://github.com/Snailclimb"><img src="https://avatars.githubusercontent.com/u/29880145?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Snailclimb"><b>Guide</b></a><br><sub>&#64;Snailclimb</sub></td>
-<td align="right"><b>11,104</b></td>
+<td align="right"><b>11,105</b></td>
 <td align="right">14</td>
 <td><sub>Wuhan, Hubei</sub></td>
 </tr>
@@ -304,14 +304,14 @@
 <tr>
 <td align="right">41</td>
 <td><a href="https://github.com/PKUFlyingPig"><img src="https://avatars.githubusercontent.com/u/60659728?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PKUFlyingPig"><b>Yinmin Zhong</b></a><br><sub>&#64;PKUFlyingPig</sub></td>
-<td align="right"><b>10,458</b></td>
+<td align="right"><b>10,460</b></td>
 <td align="right">78</td>
 <td><sub>Beijing, China</sub></td>
 </tr>
 <tr>
 <td align="right">42</td>
 <td><a href="https://github.com/wizardforcel"><img src="https://avatars.githubusercontent.com/u/5080126?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wizardforcel"><b>布客飞龙</b></a><br><sub>&#64;wizardforcel</sub></td>
-<td align="right"><b>10,406</b></td>
+<td align="right"><b>10,408</b></td>
 <td align="right">406</td>
 <td><sub>Beijing, China</sub></td>
 </tr>
@@ -339,14 +339,14 @@
 <tr>
 <td align="right">46</td>
 <td><a href="https://github.com/youngyangyang04"><img src="https://avatars.githubusercontent.com/u/8636020?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/youngyangyang04"><b>程序员Carl</b></a><br><sub>&#64;youngyangyang04</sub></td>
-<td align="right"><b>9,532</b></td>
+<td align="right"><b>9,536</b></td>
 <td align="right">77</td>
 <td><sub>Shenzhen</sub></td>
 </tr>
 <tr>
 <td align="right">47</td>
 <td><a href="https://github.com/jaywcjlove"><img src="https://avatars.githubusercontent.com/u/1680273?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jaywcjlove"><b>小弟调调</b></a><br><sub>&#64;jaywcjlove</sub></td>
-<td align="right"><b>9,518</b></td>
+<td align="right"><b>9,520</b></td>
 <td align="right">226</td>
 <td><sub>Suzhou, China</sub></td>
 </tr>
@@ -472,7 +472,7 @@
 <tr>
 <td align="right">65</td>
 <td><a href="https://github.com/shengxinjing"><img src="https://avatars.githubusercontent.com/u/1905176?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shengxinjing"><b>花果山大圣</b></a><br><sub>&#64;shengxinjing</sub></td>
-<td align="right"><b>7,343</b></td>
+<td align="right"><b>7,342</b></td>
 <td align="right">350</td>
 <td><sub>China Anhui</sub></td>
 </tr>
@@ -514,14 +514,14 @@
 <tr>
 <td align="right">71</td>
 <td><a href="https://github.com/gaoxiang12"><img src="https://avatars.githubusercontent.com/u/6635511?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gaoxiang12"><b>Xiang Gao</b></a><br><sub>&#64;gaoxiang12</sub></td>
-<td align="right"><b>7,031</b></td>
+<td align="right"><b>7,034</b></td>
 <td align="right">52</td>
 <td><sub>zhiyuan-robotics.com, Beijing</sub></td>
 </tr>
 <tr>
 <td align="right">72</td>
 <td><a href="https://github.com/hiyouga"><img src="https://avatars.githubusercontent.com/u/16256802?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hiyouga"><b>Yaowei Zheng</b></a><br><sub>&#64;hiyouga</sub></td>
-<td align="right"><b>6,946</b></td>
+<td align="right"><b>6,957</b></td>
 <td align="right">65</td>
 <td><sub>Beijing, China</sub></td>
 </tr>
@@ -542,7 +542,7 @@
 <tr>
 <td align="right">75</td>
 <td><a href="https://github.com/yihong0618"><img src="https://avatars.githubusercontent.com/u/15976103?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yihong0618"><b>yihong</b></a><br><sub>&#64;yihong0618</sub></td>
-<td align="right"><b>6,625</b></td>
+<td align="right"><b>6,626</b></td>
 <td align="right">190</td>
 <td><sub>China</sub></td>
 </tr>
@@ -570,7 +570,7 @@
 <tr>
 <td align="right">79</td>
 <td><a href="https://github.com/xuxueli"><img src="https://avatars.githubusercontent.com/u/10633817?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xuxueli"><b>许雪里</b></a><br><sub>&#64;xuxueli</sub></td>
-<td align="right"><b>5,930</b></td>
+<td align="right"><b>5,931</b></td>
 <td align="right">13</td>
 <td><sub>Shanghai, China</sub></td>
 </tr>
@@ -604,17 +604,17 @@
 </tr>
 <tr>
 <td align="right">84</td>
+<td><a href="https://github.com/op7418"><img src="https://avatars.githubusercontent.com/u/13505770?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/op7418"><b>歸藏</b></a><br><sub>&#64;op7418</sub></td>
+<td align="right"><b>5,727</b></td>
+<td align="right">42</td>
+<td><sub>beijing</sub></td>
+</tr>
+<tr>
+<td align="right">85</td>
 <td><a href="https://github.com/crossoverJie"><img src="https://avatars.githubusercontent.com/u/15684156?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/crossoverJie"><b>crossoverJie</b></a><br><sub>&#64;crossoverJie</sub></td>
 <td align="right"><b>5,721</b></td>
 <td align="right">160</td>
 <td><sub>Chongqing, China</sub></td>
-</tr>
-<tr>
-<td align="right">85</td>
-<td><a href="https://github.com/op7418"><img src="https://avatars.githubusercontent.com/u/13505770?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/op7418"><b>歸藏</b></a><br><sub>&#64;op7418</sub></td>
-<td align="right"><b>5,715</b></td>
-<td align="right">42</td>
-<td><sub>beijing</sub></td>
 </tr>
 <tr>
 <td align="right">86</td>
@@ -668,7 +668,7 @@
 <tr>
 <td align="right">93</td>
 <td><a href="https://github.com/nswbmw"><img src="https://avatars.githubusercontent.com/u/4279697?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nswbmw"><b>nswbmw</b></a><br><sub>&#64;nswbmw</sub></td>
-<td align="right"><b>5,303</b></td>
+<td align="right"><b>5,306</b></td>
 <td align="right">147</td>
 <td><sub>China</sub></td>
 </tr>
@@ -822,7 +822,7 @@
 <tr>
 <td align="right">115</td>
 <td><a href="https://github.com/azl397985856"><img src="https://avatars.githubusercontent.com/u/12479470?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/azl397985856"><b>lucifer</b></a><br><sub>&#64;azl397985856</sub></td>
-<td align="right"><b>4,679</b></td>
+<td align="right"><b>4,680</b></td>
 <td align="right">153</td>
 <td><sub>China</sub></td>
 </tr>
@@ -836,7 +836,7 @@
 <tr>
 <td align="right">117</td>
 <td><a href="https://github.com/leixiaohua1020"><img src="https://avatars.githubusercontent.com/u/4610365?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leixiaohua1020"><b>Lei Xiaohua</b></a><br><sub>&#64;leixiaohua1020</sub></td>
-<td align="right"><b>4,560</b></td>
+<td align="right"><b>4,561</b></td>
 <td align="right">30</td>
 <td><sub>China</sub></td>
 </tr>
@@ -899,7 +899,7 @@
 <tr>
 <td align="right">126</td>
 <td><a href="https://github.com/ventoy"><img src="https://avatars.githubusercontent.com/u/59477474?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ventoy"><b>longpanda</b></a><br><sub>&#64;ventoy</sub></td>
-<td align="right"><b>4,222</b></td>
+<td align="right"><b>4,225</b></td>
 <td align="right">23</td>
 <td><sub>China</sub></td>
 </tr>
@@ -955,7 +955,7 @@
 <tr>
 <td align="right">134</td>
 <td><a href="https://github.com/vnpy"><img src="https://avatars.githubusercontent.com/u/11263900?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vnpy"><b>vn.py</b></a><br><sub>&#64;vnpy</sub></td>
-<td align="right"><b>3,950</b></td>
+<td align="right"><b>3,951</b></td>
 <td align="right">95</td>
 <td><sub>Shanghai</sub></td>
 </tr>
@@ -1137,7 +1137,7 @@
 <tr>
 <td align="right">160</td>
 <td><a href="https://github.com/1c7"><img src="https://avatars.githubusercontent.com/u/1804755?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/1c7"><b>Cheng Zheng（郑诚）</b></a><br><sub>&#64;1c7</sub></td>
-<td align="right"><b>3,461</b></td>
+<td align="right"><b>3,462</b></td>
 <td align="right">356</td>
 <td><sub>Guangzhou, China. 广州南沙</sub></td>
 </tr>
@@ -1241,24 +1241,24 @@
 </tr>
 <tr>
 <td align="right">175</td>
+<td><a href="https://github.com/jackwener"><img src="https://avatars.githubusercontent.com/u/30525741?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jackwener"><b>jakevin</b></a><br><sub>&#64;jackwener</sub></td>
+<td align="right"><b>3,277</b></td>
+<td align="right">50</td>
+<td><sub>Hangzhou, China</sub></td>
+</tr>
+<tr>
+<td align="right">176</td>
 <td><a href="https://github.com/chloerei"><img src="https://avatars.githubusercontent.com/u/49931?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chloerei"><b>Rei</b></a><br><sub>&#64;chloerei</sub></td>
 <td align="right"><b>3,275</b></td>
 <td align="right">82</td>
 <td><sub>Shenzhen, China</sub></td>
 </tr>
 <tr>
-<td align="right">176</td>
+<td align="right">177</td>
 <td><a href="https://github.com/lijigang"><img src="https://avatars.githubusercontent.com/u/4835998?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lijigang"><b>lijigang</b></a><br><sub>&#64;lijigang</sub></td>
 <td align="right"><b>3,272</b></td>
 <td align="right">31</td>
 <td><sub>Beijing, China</sub></td>
-</tr>
-<tr>
-<td align="right">177</td>
-<td><a href="https://github.com/jackwener"><img src="https://avatars.githubusercontent.com/u/30525741?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jackwener"><b>jakevin</b></a><br><sub>&#64;jackwener</sub></td>
-<td align="right"><b>3,271</b></td>
-<td align="right">50</td>
-<td><sub>Hangzhou, China</sub></td>
 </tr>
 <tr>
 <td align="right">178</td>
@@ -1270,7 +1270,7 @@
 <tr>
 <td align="right">179</td>
 <td><a href="https://github.com/makerbase-mks"><img src="https://avatars.githubusercontent.com/u/12979070?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/makerbase-mks"><b>makerbase</b></a><br><sub>&#64;makerbase-mks</sub></td>
-<td align="right"><b>3,240</b></td>
+<td align="right"><b>3,241</b></td>
 <td align="right">92</td>
 <td><sub>guangdong china</sub></td>
 </tr>
@@ -1312,7 +1312,7 @@
 <tr>
 <td align="right">185</td>
 <td><a href="https://github.com/orangepi-xunlong"><img src="https://avatars.githubusercontent.com/u/10287101?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/orangepi-xunlong"><b>Orange Pi</b></a><br><sub>&#64;orangepi-xunlong</sub></td>
-<td align="right"><b>3,162</b></td>
+<td align="right"><b>3,164</b></td>
 <td align="right">46</td>
 <td><sub>shenzhen,guangdong,china</sub></td>
 </tr>
@@ -1354,7 +1354,7 @@
 <tr>
 <td align="right">191</td>
 <td><a href="https://github.com/djyde"><img src="https://avatars.githubusercontent.com/u/914329?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/djyde"><b>Randy</b></a><br><sub>&#64;djyde</sub></td>
-<td align="right"><b>3,120</b></td>
+<td align="right"><b>3,121</b></td>
 <td align="right">313</td>
 <td><sub>Guangzhou, China</sub></td>
 </tr>
@@ -1564,7 +1564,7 @@
 <tr>
 <td align="right">221</td>
 <td><a href="https://github.com/kujian"><img src="https://avatars.githubusercontent.com/u/3055447?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kujian"><b>前端开发博客</b></a><br><sub>&#64;kujian</sub></td>
-<td align="right"><b>2,673</b></td>
+<td align="right"><b>2,671</b></td>
 <td align="right">115</td>
 <td><sub>Guangzhou,China</sub></td>
 </tr>
@@ -1703,57 +1703,57 @@
 </tr>
 <tr>
 <td align="right">241</td>
+<td><a href="https://github.com/jingyaogong"><img src="https://avatars.githubusercontent.com/u/62287848?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jingyaogong"><b>jingyaogong</b></a><br><sub>&#64;jingyaogong</sub></td>
+<td align="right"><b>2,528</b></td>
+<td align="right">12</td>
+<td><sub>China</sub></td>
+</tr>
+<tr>
+<td align="right">242</td>
 <td><a href="https://github.com/soulteary"><img src="https://avatars.githubusercontent.com/u/1500781?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/soulteary"><b>Su Yang</b></a><br><sub>&#64;soulteary</sub></td>
 <td align="right"><b>2,527</b></td>
 <td align="right">428</td>
 <td><sub>Beijing, China</sub></td>
 </tr>
 <tr>
-<td align="right">242</td>
+<td align="right">243</td>
 <td><a href="https://github.com/wenzhixin"><img src="https://avatars.githubusercontent.com/u/2117018?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wenzhixin"><b>文翼</b></a><br><sub>&#64;wenzhixin</sub></td>
 <td align="right"><b>2,523</b></td>
 <td align="right">89</td>
 <td><sub>Guangzhou, China</sub></td>
 </tr>
 <tr>
-<td align="right">243</td>
+<td align="right">244</td>
 <td><a href="https://github.com/tangly1024"><img src="https://avatars.githubusercontent.com/u/15920488?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tangly1024"><b>tangly1024</b></a><br><sub>&#64;tangly1024</sub></td>
 <td align="right"><b>2,502</b></td>
 <td align="right">37</td>
 <td><sub>Fujian,China</sub></td>
 </tr>
 <tr>
-<td align="right">244</td>
+<td align="right">245</td>
 <td><a href="https://github.com/fool2fish"><img src="https://avatars.githubusercontent.com/u/340282?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fool2fish"><b>Zhouxuan Yang</b></a><br><sub>&#64;fool2fish</sub></td>
 <td align="right"><b>2,497</b></td>
 <td align="right">14</td>
 <td><sub>Hangzhou, China</sub></td>
 </tr>
 <tr>
-<td align="right">245</td>
+<td align="right">246</td>
 <td><a href="https://github.com/fanmingming"><img src="https://avatars.githubusercontent.com/u/4993993?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fanmingming"><b>范明明</b></a><br><sub>&#64;fanmingming</sub></td>
-<td align="right"><b>2,494</b></td>
+<td align="right"><b>2,496</b></td>
 <td align="right">15</td>
 <td><sub>Baotou, CHN</sub></td>
 </tr>
 <tr>
-<td align="right">246</td>
+<td align="right">247</td>
 <td><a href="https://github.com/polaris1119"><img src="https://avatars.githubusercontent.com/u/899673?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/polaris1119"><b>polarisxu</b></a><br><sub>&#64;polaris1119</sub></td>
 <td align="right"><b>2,492</b></td>
 <td align="right">130</td>
 <td><sub>Beijing, China</sub></td>
 </tr>
 <tr>
-<td align="right">247</td>
-<td><a href="https://github.com/jingyaogong"><img src="https://avatars.githubusercontent.com/u/62287848?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jingyaogong"><b>jingyaogong</b></a><br><sub>&#64;jingyaogong</sub></td>
-<td align="right"><b>2,489</b></td>
-<td align="right">12</td>
-<td><sub>China</sub></td>
-</tr>
-<tr>
 <td align="right">248</td>
 <td><a href="https://github.com/lizongying"><img src="https://avatars.githubusercontent.com/u/16871545?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lizongying"><b>李宗英</b></a><br><sub>&#64;lizongying</sub></td>
-<td align="right"><b>2,484</b></td>
+<td align="right"><b>2,485</b></td>
 <td align="right">118</td>
 <td><sub>China</sub></td>
 </tr>
@@ -1781,7 +1781,7 @@
 <tr>
 <td align="right">252</td>
 <td><a href="https://github.com/ProbiusOfficial"><img src="https://avatars.githubusercontent.com/u/41804496?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ProbiusOfficial"><b>探姬</b></a><br><sub>&#64;ProbiusOfficial</sub></td>
-<td align="right"><b>2,441</b></td>
+<td align="right"><b>2,440</b></td>
 <td align="right">95</td>
 <td><sub>China</sub></td>
 </tr>
@@ -1823,7 +1823,7 @@
 <tr>
 <td align="right">258</td>
 <td><a href="https://github.com/huiyadanli"><img src="https://avatars.githubusercontent.com/u/15783049?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/huiyadanli"><b>辉鸭蛋</b></a><br><sub>&#64;huiyadanli</sub></td>
-<td align="right"><b>2,379</b></td>
+<td align="right"><b>2,381</b></td>
 <td align="right">41</td>
 <td><sub>Hangzhou,China</sub></td>
 </tr>
@@ -1844,7 +1844,7 @@
 <tr>
 <td align="right">261</td>
 <td><a href="https://github.com/Lucifier129"><img src="https://avatars.githubusercontent.com/u/6636455?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lucifier129"><b>工业聚</b></a><br><sub>&#64;Lucifier129</sub></td>
-<td align="right"><b>2,374</b></td>
+<td align="right"><b>2,373</b></td>
 <td align="right">146</td>
 <td><sub>shanghai, china</sub></td>
 </tr>
@@ -1857,22 +1857,22 @@
 </tr>
 <tr>
 <td align="right">263</td>
+<td><a href="https://github.com/android-cjj"><img src="https://avatars.githubusercontent.com/u/7941050?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/android-cjj"><b>陈继军</b></a><br><sub>&#64;android-cjj</sub></td>
+<td align="right"><b>2,369</b></td>
+<td align="right">65</td>
+<td><sub>guangzhou,China</sub></td>
+</tr>
+<tr>
+<td align="right">264</td>
 <td><a href="https://github.com/yangfuhai"><img src="https://avatars.githubusercontent.com/u/1539806?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yangfuhai"><b>Michael Yang</b></a><br><sub>&#64;yangfuhai</sub></td>
 <td align="right"><b>2,368</b></td>
 <td align="right">97</td>
 <td><sub>beijing</sub></td>
 </tr>
 <tr>
-<td align="right">264</td>
-<td><a href="https://github.com/android-cjj"><img src="https://avatars.githubusercontent.com/u/7941050?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/android-cjj"><b>陈继军</b></a><br><sub>&#64;android-cjj</sub></td>
-<td align="right"><b>2,368</b></td>
-<td align="right">65</td>
-<td><sub>guangzhou,China</sub></td>
-</tr>
-<tr>
 <td align="right">265</td>
 <td><a href="https://github.com/HenJigg"><img src="https://avatars.githubusercontent.com/u/42528522?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HenJigg"><b>痕迹</b></a><br><sub>&#64;HenJigg</sub></td>
-<td align="right"><b>2,331</b></td>
+<td align="right"><b>2,332</b></td>
 <td align="right">89</td>
 <td><sub>China</sub></td>
 </tr>
@@ -1921,7 +1921,7 @@
 <tr>
 <td align="right">272</td>
 <td><a href="https://github.com/freestylefly"><img src="https://avatars.githubusercontent.com/u/43960064?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/freestylefly"><b>苍何</b></a><br><sub>&#64;freestylefly</sub></td>
-<td align="right"><b>2,294</b></td>
+<td align="right"><b>2,295</b></td>
 <td align="right">85</td>
 <td><sub>WuHan，China</sub></td>
 </tr>
@@ -2285,7 +2285,7 @@
 <tr>
 <td align="right">324</td>
 <td><a href="https://github.com/songquanpeng"><img src="https://avatars.githubusercontent.com/u/39998050?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/songquanpeng"><b>JustSong</b></a><br><sub>&#64;songquanpeng</sub></td>
-<td align="right"><b>1,963</b></td>
+<td align="right"><b>1,964</b></td>
 <td align="right">105</td>
 <td><sub>Shanghai, China</sub></td>
 </tr>
@@ -2333,17 +2333,17 @@
 </tr>
 <tr>
 <td align="right">331</td>
+<td><a href="https://github.com/YongxinLiu"><img src="https://avatars.githubusercontent.com/u/4327831?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YongxinLiu"><b>Yong-Xin Liu</b></a><br><sub>&#64;YongxinLiu</sub></td>
+<td align="right"><b>1,932</b></td>
+<td align="right">28</td>
+<td><sub>Shenzhen</sub></td>
+</tr>
+<tr>
+<td align="right">332</td>
 <td><a href="https://github.com/monkeyWie"><img src="https://avatars.githubusercontent.com/u/13160176?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/monkeyWie"><b>Levi</b></a><br><sub>&#64;monkeyWie</sub></td>
 <td align="right"><b>1,931</b></td>
 <td align="right">108</td>
 <td><sub>Shenzhen, China</sub></td>
-</tr>
-<tr>
-<td align="right">332</td>
-<td><a href="https://github.com/YongxinLiu"><img src="https://avatars.githubusercontent.com/u/4327831?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YongxinLiu"><b>Yong-Xin Liu</b></a><br><sub>&#64;YongxinLiu</sub></td>
-<td align="right"><b>1,931</b></td>
-<td align="right">28</td>
-<td><sub>Shenzhen</sub></td>
 </tr>
 <tr>
 <td align="right">333</td>
@@ -2614,7 +2614,7 @@
 <tr>
 <td align="right">371</td>
 <td><a href="https://github.com/lecepin"><img src="https://avatars.githubusercontent.com/u/11046969?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lecepin"><b>乐平</b></a><br><sub>&#64;lecepin</sub></td>
-<td align="right"><b>1,762</b></td>
+<td align="right"><b>1,761</b></td>
 <td align="right">122</td>
 <td><sub>Hangzhou China</sub></td>
 </tr>
@@ -2789,7 +2789,7 @@
 <tr>
 <td align="right">396</td>
 <td><a href="https://github.com/zsdonghao"><img src="https://avatars.githubusercontent.com/u/10713581?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zsdonghao"><b>Hao</b></a><br><sub>&#64;zsdonghao</sub></td>
-<td align="right"><b>1,663</b></td>
+<td align="right"><b>1,664</b></td>
 <td align="right">48</td>
 <td><sub>Beijing</sub></td>
 </tr>
@@ -3068,24 +3068,24 @@
 </tr>
 <tr>
 <td align="right">436</td>
+<td><a href="https://github.com/zhiwehu"><img src="https://avatars.githubusercontent.com/u/1313947?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zhiwehu"><b>Jeffrey Hu</b></a><br><sub>&#64;zhiwehu</sub></td>
+<td align="right"><b>1,544</b></td>
+<td align="right">172</td>
+<td><sub>Hefei, Anhui, China</sub></td>
+</tr>
+<tr>
+<td align="right">437</td>
 <td><a href="https://github.com/ZigaoWang"><img src="https://avatars.githubusercontent.com/u/102006756?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ZigaoWang"><b>Zigao Wang</b></a><br><sub>&#64;ZigaoWang</sub></td>
 <td align="right"><b>1,543</b></td>
 <td align="right">185</td>
 <td><sub>Shanghai, China</sub></td>
 </tr>
 <tr>
-<td align="right">437</td>
+<td align="right">438</td>
 <td><a href="https://github.com/lyhue1991"><img src="https://avatars.githubusercontent.com/u/30676974?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lyhue1991"><b>一个有毅力的吃货</b></a><br><sub>&#64;lyhue1991</sub></td>
 <td align="right"><b>1,543</b></td>
 <td align="right">41</td>
 <td><sub>Beijing China</sub></td>
-</tr>
-<tr>
-<td align="right">438</td>
-<td><a href="https://github.com/zhiwehu"><img src="https://avatars.githubusercontent.com/u/1313947?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zhiwehu"><b>Jeffrey Hu</b></a><br><sub>&#64;zhiwehu</sub></td>
-<td align="right"><b>1,542</b></td>
-<td align="right">172</td>
-<td><sub>Hefei, Anhui, China</sub></td>
 </tr>
 <tr>
 <td align="right">439</td>
@@ -3138,17 +3138,17 @@
 </tr>
 <tr>
 <td align="right">446</td>
-<td><a href="https://github.com/jiegec"><img src="https://avatars.githubusercontent.com/u/6127678?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jiegec"><b>Chen</b></a><br><sub>&#64;jiegec</sub></td>
-<td align="right"><b>1,519</b></td>
-<td align="right">355</td>
-<td><sub>Beijing, China</sub></td>
+<td><a href="https://github.com/codeskyblue"><img src="https://avatars.githubusercontent.com/u/3281689?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codeskyblue"><b>codeskyblue</b></a><br><sub>&#64;codeskyblue</sub></td>
+<td align="right"><b>1,520</b></td>
+<td align="right">301</td>
+<td><sub>Hangzhou China</sub></td>
 </tr>
 <tr>
 <td align="right">447</td>
-<td><a href="https://github.com/codeskyblue"><img src="https://avatars.githubusercontent.com/u/3281689?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codeskyblue"><b>codeskyblue</b></a><br><sub>&#64;codeskyblue</sub></td>
-<td align="right"><b>1,519</b></td>
-<td align="right">301</td>
-<td><sub>Hangzhou China</sub></td>
+<td><a href="https://github.com/jiegec"><img src="https://avatars.githubusercontent.com/u/6127678?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jiegec"><b>Chen</b></a><br><sub>&#64;jiegec</sub></td>
+<td align="right"><b>1,518</b></td>
+<td align="right">355</td>
+<td><sub>Beijing, China</sub></td>
 </tr>
 <tr>
 <td align="right">448</td>
@@ -3909,7 +3909,7 @@
 <tr>
 <td align="right">556</td>
 <td><a href="https://github.com/Chanzhaoyu"><img src="https://avatars.githubusercontent.com/u/24789441?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Chanzhaoyu"><b>Redon</b></a><br><sub>&#64;Chanzhaoyu</sub></td>
-<td align="right"><b>1,284</b></td>
+<td align="right"><b>1,283</b></td>
 <td align="right">50</td>
 <td><sub>DongGuan, China</sub></td>
 </tr>
@@ -4006,17 +4006,17 @@
 </tr>
 <tr>
 <td align="right">570</td>
-<td><a href="https://github.com/57code"><img src="https://avatars.githubusercontent.com/u/33857444?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/57code"><b>村长</b></a><br><sub>&#64;57code</sub></td>
-<td align="right"><b>1,257</b></td>
-<td align="right">80</td>
-<td><sub>China</sub></td>
-</tr>
-<tr>
-<td align="right">571</td>
 <td><a href="https://github.com/dianqk"><img src="https://avatars.githubusercontent.com/u/10829914?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dianqk"><b>dianqk</b></a><br><sub>&#64;dianqk</sub></td>
 <td align="right"><b>1,256</b></td>
 <td align="right">89</td>
 <td><sub>Beijing, China</sub></td>
+</tr>
+<tr>
+<td align="right">571</td>
+<td><a href="https://github.com/57code"><img src="https://avatars.githubusercontent.com/u/33857444?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/57code"><b>村长</b></a><br><sub>&#64;57code</sub></td>
+<td align="right"><b>1,256</b></td>
+<td align="right">80</td>
+<td><sub>China</sub></td>
 </tr>
 <tr>
 <td align="right">572</td>
@@ -4049,7 +4049,7 @@
 <tr>
 <td align="right">576</td>
 <td><a href="https://github.com/sunfusheng"><img src="https://avatars.githubusercontent.com/u/8130553?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sunfusheng"><b>孙福生</b></a><br><sub>&#64;sunfusheng</sub></td>
-<td align="right"><b>1,249</b></td>
+<td align="right"><b>1,250</b></td>
 <td align="right">77</td>
 <td><sub>Beijing, China</sub></td>
 </tr>
@@ -4154,7 +4154,7 @@
 <tr>
 <td align="right">591</td>
 <td><a href="https://github.com/ryan4yin"><img src="https://avatars.githubusercontent.com/u/22363274?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ryan4yin"><b>ryan4yin &#124; 二花</b></a><br><sub>&#64;ryan4yin</sub></td>
-<td align="right"><b>1,216</b></td>
+<td align="right"><b>1,218</b></td>
 <td align="right">132</td>
 <td><sub>China</sub></td>
 </tr>
@@ -4328,17 +4328,17 @@
 </tr>
 <tr>
 <td align="right">616</td>
+<td><a href="https://github.com/kasuganosoras"><img src="https://avatars.githubusercontent.com/u/34357771?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kasuganosoras"><b>Akkariin</b></a><br><sub>&#64;kasuganosoras</sub></td>
+<td align="right"><b>1,164</b></td>
+<td align="right">118</td>
+<td><sub>China</sub></td>
+</tr>
+<tr>
+<td align="right">617</td>
 <td><a href="https://github.com/yangxue0827"><img src="https://avatars.githubusercontent.com/u/29257168?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yangxue0827"><b>Xue Yang</b></a><br><sub>&#64;yangxue0827</sub></td>
 <td align="right"><b>1,164</b></td>
 <td align="right">116</td>
 <td><sub>Shanghai</sub></td>
-</tr>
-<tr>
-<td align="right">617</td>
-<td><a href="https://github.com/kasuganosoras"><img src="https://avatars.githubusercontent.com/u/34357771?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kasuganosoras"><b>Akkariin</b></a><br><sub>&#64;kasuganosoras</sub></td>
-<td align="right"><b>1,163</b></td>
-<td align="right">118</td>
-<td><sub>China</sub></td>
 </tr>
 <tr>
 <td align="right">618</td>
@@ -4651,7 +4651,7 @@
 <tr>
 <td align="right">662</td>
 <td><a href="https://github.com/mozillazg"><img src="https://avatars.githubusercontent.com/u/485054?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mozillazg"><b>Huang Huang</b></a><br><sub>&#64;mozillazg</sub></td>
-<td align="right"><b>1,096</b></td>
+<td align="right"><b>1,098</b></td>
 <td align="right">293</td>
 <td><sub>Beijing, China</sub></td>
 </tr>
@@ -4679,7 +4679,7 @@
 <tr>
 <td align="right">666</td>
 <td><a href="https://github.com/KMnO4-zx"><img src="https://avatars.githubusercontent.com/u/77671993?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KMnO4-zx"><b>不要葱姜蒜</b></a><br><sub>&#64;KMnO4-zx</sub></td>
-<td align="right"><b>1,091</b></td>
+<td align="right"><b>1,092</b></td>
 <td align="right">132</td>
 <td><sub>Beijing, China</sub></td>
 </tr>
@@ -4944,17 +4944,17 @@
 </tr>
 <tr>
 <td align="right">704</td>
+<td><a href="https://github.com/EYHN"><img src="https://avatars.githubusercontent.com/u/13579374?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EYHN"><b>EYHN</b></a><br><sub>&#64;EYHN</sub></td>
+<td align="right"><b>1,044</b></td>
+<td align="right">140</td>
+<td><sub>Shanghai, China</sub></td>
+</tr>
+<tr>
+<td align="right">705</td>
 <td><a href="https://github.com/EZLippi"><img src="https://avatars.githubusercontent.com/u/5326814?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EZLippi"><b>Lippi</b></a><br><sub>&#64;EZLippi</sub></td>
 <td align="right"><b>1,043</b></td>
 <td align="right">20</td>
 <td><sub>China</sub></td>
-</tr>
-<tr>
-<td align="right">705</td>
-<td><a href="https://github.com/linyiqun"><img src="https://avatars.githubusercontent.com/u/7877836?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/linyiqun"><b>Yiqun Lin</b></a><br><sub>&#64;linyiqun</sub></td>
-<td align="right"><b>1,042</b></td>
-<td align="right">22</td>
-<td><sub>Shanghai, China</sub></td>
 </tr>
 <tr>
 <td align="right">706</td>
@@ -4965,24 +4965,24 @@
 </tr>
 <tr>
 <td align="right">707</td>
-<td><a href="https://github.com/EYHN"><img src="https://avatars.githubusercontent.com/u/13579374?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EYHN"><b>EYHN</b></a><br><sub>&#64;EYHN</sub></td>
-<td align="right"><b>1,040</b></td>
-<td align="right">140</td>
+<td><a href="https://github.com/linyiqun"><img src="https://avatars.githubusercontent.com/u/7877836?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/linyiqun"><b>Yiqun Lin</b></a><br><sub>&#64;linyiqun</sub></td>
+<td align="right"><b>1,041</b></td>
+<td align="right">22</td>
 <td><sub>Shanghai, China</sub></td>
 </tr>
 <tr>
 <td align="right">708</td>
+<td><a href="https://github.com/r0eXpeR"><img src="https://avatars.githubusercontent.com/u/46040186?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/r0eXpeR"><b>r0eXpeR</b></a><br><sub>&#64;r0eXpeR</sub></td>
+<td align="right"><b>1,040</b></td>
+<td align="right">20</td>
+<td><sub>China,ShangHai</sub></td>
+</tr>
+<tr>
+<td align="right">709</td>
 <td><a href="https://github.com/aksnzhy"><img src="https://avatars.githubusercontent.com/u/22660103?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aksnzhy"><b>Chao Ma</b></a><br><sub>&#64;aksnzhy</sub></td>
 <td align="right"><b>1,040</b></td>
 <td align="right">19</td>
 <td><sub>ShangHai</sub></td>
-</tr>
-<tr>
-<td align="right">709</td>
-<td><a href="https://github.com/r0eXpeR"><img src="https://avatars.githubusercontent.com/u/46040186?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/r0eXpeR"><b>r0eXpeR</b></a><br><sub>&#64;r0eXpeR</sub></td>
-<td align="right"><b>1,039</b></td>
-<td align="right">20</td>
-<td><sub>China,ShangHai</sub></td>
 </tr>
 <tr>
 <td align="right">710</td>
@@ -5239,7 +5239,7 @@
 <tr>
 <td align="right">746</td>
 <td><a href="https://github.com/the1812"><img src="https://avatars.githubusercontent.com/u/26504152?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/the1812"><b>Grant Howard</b></a><br><sub>&#64;the1812</sub></td>
-<td align="right"><b>991</b></td>
+<td align="right"><b>992</b></td>
 <td align="right">28</td>
 <td><sub>Hangzhou, China</sub></td>
 </tr>
@@ -5616,17 +5616,17 @@
 </tr>
 <tr>
 <td align="right">800</td>
+<td><a href="https://github.com/lizhangqu"><img src="https://avatars.githubusercontent.com/u/4568646?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lizhangqu"><b>区长</b></a><br><sub>&#64;lizhangqu</sub></td>
+<td align="right"><b>942</b></td>
+<td align="right">252</td>
+<td><sub>Hangzhou</sub></td>
+</tr>
+<tr>
+<td align="right">801</td>
 <td><a href="https://github.com/willin"><img src="https://avatars.githubusercontent.com/u/1890238?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/willin"><b>Willin</b></a><br><sub>&#64;willin</sub></td>
 <td align="right"><b>942</b></td>
 <td align="right">128</td>
 <td><sub>Nanjing, China</sub></td>
-</tr>
-<tr>
-<td align="right">801</td>
-<td><a href="https://github.com/lizhangqu"><img src="https://avatars.githubusercontent.com/u/4568646?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lizhangqu"><b>区长</b></a><br><sub>&#64;lizhangqu</sub></td>
-<td align="right"><b>941</b></td>
-<td align="right">252</td>
-<td><sub>Hangzhou</sub></td>
 </tr>
 <tr>
 <td align="right">802</td>
@@ -5820,338 +5820,338 @@
 <tr>
 <td align="right">829</td>
 <td><a href="https://github.com/lookingstars"><img src="https://avatars.githubusercontent.com/u/8609851?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lookingstars"><b>Jinze Lu</b></a><br><sub>&#64;lookingstars</sub></td>
-<td align="right"><b>917</b></td>
+<td align="right"><b>916</b></td>
 <td align="right">105</td>
 <td><sub>beijing</sub></td>
 </tr>
 <tr>
 <td align="right">830</td>
+<td><a href="https://github.com/t8y2"><img src="https://avatars.githubusercontent.com/u/77960507?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/t8y2"><b>t8y2</b></a><br><sub>&#64;t8y2</sub></td>
+<td align="right"><b>914</b></td>
+<td align="right">60</td>
+<td><sub>China</sub></td>
+</tr>
+<tr>
+<td align="right">831</td>
 <td><a href="https://github.com/cymcsg"><img src="https://avatars.githubusercontent.com/u/963906?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cymcsg"><b>MarshalChen</b></a><br><sub>&#64;cymcsg</sub></td>
 <td align="right"><b>912</b></td>
 <td align="right">6</td>
 <td><sub>Beijing,China</sub></td>
 </tr>
 <tr>
-<td align="right">831</td>
+<td align="right">832</td>
 <td><a href="https://github.com/v5tech"><img src="https://avatars.githubusercontent.com/u/887836?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/v5tech"><b>v5tech</b></a><br><sub>&#64;v5tech</sub></td>
 <td align="right"><b>911</b></td>
 <td align="right">179</td>
 <td><sub>Xi&#39;an China</sub></td>
 </tr>
 <tr>
-<td align="right">832</td>
+<td align="right">833</td>
 <td><a href="https://github.com/ZhuiyiTechnology"><img src="https://avatars.githubusercontent.com/u/51402681?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ZhuiyiTechnology"><b>ZhuiyiTechnology</b></a><br><sub>&#64;ZhuiyiTechnology</sub></td>
 <td align="right"><b>911</b></td>
 <td align="right">12</td>
 <td><sub>Shenzhen</sub></td>
 </tr>
 <tr>
-<td align="right">833</td>
+<td align="right">834</td>
 <td><a href="https://github.com/yixuan"><img src="https://avatars.githubusercontent.com/u/216398?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yixuan"><b>Yixuan Qiu</b></a><br><sub>&#64;yixuan</sub></td>
 <td align="right"><b>910</b></td>
 <td align="right">104</td>
 <td><sub>Shanghai</sub></td>
 </tr>
 <tr>
-<td align="right">834</td>
+<td align="right">835</td>
 <td><a href="https://github.com/virusdefender"><img src="https://avatars.githubusercontent.com/u/4939404?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/virusdefender"><b>virusdefender</b></a><br><sub>&#64;virusdefender</sub></td>
 <td align="right"><b>910</b></td>
 <td align="right">65</td>
 <td><sub>Beijing</sub></td>
 </tr>
 <tr>
-<td align="right">835</td>
+<td align="right">836</td>
 <td><a href="https://github.com/jiangxin"><img src="https://avatars.githubusercontent.com/u/183860?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jiangxin"><b>Jiang Xin</b></a><br><sub>&#64;jiangxin</sub></td>
 <td align="right"><b>908</b></td>
 <td align="right">59</td>
 <td><sub>Beijing, China</sub></td>
 </tr>
 <tr>
-<td align="right">836</td>
+<td align="right">837</td>
 <td><a href="https://github.com/davyxu"><img src="https://avatars.githubusercontent.com/u/6802227?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davyxu"><b>Davy xu</b></a><br><sub>&#64;davyxu</sub></td>
 <td align="right"><b>908</b></td>
 <td align="right">46</td>
 <td><sub>Chengdu Sichuan, China</sub></td>
 </tr>
 <tr>
-<td align="right">837</td>
+<td align="right">838</td>
 <td><a href="https://github.com/wzhudev"><img src="https://avatars.githubusercontent.com/u/12122021?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wzhudev"><b>Wenzhao Hu</b></a><br><sub>&#64;wzhudev</sub></td>
 <td align="right"><b>906</b></td>
 <td align="right">38</td>
 <td><sub>Beijing</sub></td>
 </tr>
 <tr>
-<td align="right">838</td>
+<td align="right">839</td>
 <td><a href="https://github.com/GuoYongfeng"><img src="https://avatars.githubusercontent.com/u/8686869?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GuoYongfeng"><b>郭永峰</b></a><br><sub>&#64;GuoYongfeng</sub></td>
 <td align="right"><b>905</b></td>
 <td align="right">161</td>
 <td><sub>Beijing City, Haidian District North Road No. 6…</sub></td>
 </tr>
 <tr>
-<td align="right">839</td>
+<td align="right">840</td>
 <td><a href="https://github.com/ShixiangWang"><img src="https://avatars.githubusercontent.com/u/25057508?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ShixiangWang"><b>Shixiang Wang (王诗翔)</b></a><br><sub>&#64;ShixiangWang</sub></td>
 <td align="right"><b>905</b></td>
 <td align="right">101</td>
 <td><sub>Changsha, China</sub></td>
 </tr>
 <tr>
-<td align="right">840</td>
+<td align="right">841</td>
 <td><a href="https://github.com/andyzhangx"><img src="https://avatars.githubusercontent.com/u/4178417?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andyzhangx"><b>Andy Zhang</b></a><br><sub>&#64;andyzhangx</sub></td>
 <td align="right"><b>904</b></td>
 <td align="right">103</td>
 <td><sub>Shanghai</sub></td>
 </tr>
 <tr>
-<td align="right">841</td>
+<td align="right">842</td>
 <td><a href="https://github.com/iccfish"><img src="https://avatars.githubusercontent.com/u/1091653?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iccfish"><b>iFish</b></a><br><sub>&#64;iccfish</sub></td>
 <td align="right"><b>904</b></td>
 <td align="right">55</td>
 <td><sub>China</sub></td>
 </tr>
 <tr>
-<td align="right">842</td>
+<td align="right">843</td>
 <td><a href="https://github.com/lawlite19"><img src="https://avatars.githubusercontent.com/u/14356062?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lawlite19"><b>lawlite</b></a><br><sub>&#64;lawlite19</sub></td>
 <td align="right"><b>904</b></td>
 <td align="right">39</td>
 <td><sub>Nanjing, China</sub></td>
 </tr>
 <tr>
-<td align="right">843</td>
+<td align="right">844</td>
 <td><a href="https://github.com/isnowfy"><img src="https://avatars.githubusercontent.com/u/596274?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/isnowfy"><b>Rui Wang</b></a><br><sub>&#64;isnowfy</sub></td>
 <td align="right"><b>903</b></td>
 <td align="right">41</td>
 <td><sub>China</sub></td>
 </tr>
 <tr>
-<td align="right">844</td>
+<td align="right">845</td>
 <td><a href="https://github.com/wondertrader"><img src="https://avatars.githubusercontent.com/u/62869597?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wondertrader"><b>wondertrader</b></a><br><sub>&#64;wondertrader</sub></td>
 <td align="right"><b>903</b></td>
 <td align="right">28</td>
 <td><sub>SH, China</sub></td>
 </tr>
 <tr>
-<td align="right">845</td>
+<td align="right">846</td>
 <td><a href="https://github.com/idealclover"><img src="https://avatars.githubusercontent.com/u/24428416?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/idealclover"><b>idealclover</b></a><br><sub>&#64;idealclover</sub></td>
 <td align="right"><b>902</b></td>
 <td align="right">51</td>
 <td><sub>Beijing, China</sub></td>
 </tr>
 <tr>
-<td align="right">846</td>
+<td align="right">847</td>
 <td><a href="https://github.com/Qianlitp"><img src="https://avatars.githubusercontent.com/u/16167739?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Qianlitp"><b>9ian1i</b></a><br><sub>&#64;Qianlitp</sub></td>
 <td align="right"><b>902</b></td>
 <td align="right">35</td>
 <td><sub>Hangzhou</sub></td>
 </tr>
 <tr>
-<td align="right">847</td>
+<td align="right">848</td>
 <td><a href="https://github.com/jenly1314"><img src="https://avatars.githubusercontent.com/u/4995173?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jenly1314"><b>Jenly</b></a><br><sub>&#64;jenly1314</sub></td>
 <td align="right"><b>901</b></td>
 <td align="right">65</td>
 <td><sub>China</sub></td>
 </tr>
 <tr>
-<td align="right">848</td>
+<td align="right">849</td>
 <td><a href="https://github.com/unixhot"><img src="https://avatars.githubusercontent.com/u/3666083?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/unixhot"><b>新运维社区</b></a><br><sub>&#64;unixhot</sub></td>
 <td align="right"><b>900</b></td>
 <td align="right">37</td>
 <td><sub>BeiJing</sub></td>
 </tr>
 <tr>
-<td align="right">849</td>
+<td align="right">850</td>
 <td><a href="https://github.com/naturomics"><img src="https://avatars.githubusercontent.com/u/19428529?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/naturomics"><b>Huadong Liao</b></a><br><sub>&#64;naturomics</sub></td>
 <td align="right"><b>899</b></td>
 <td align="right">12</td>
 <td><sub>Chongqing, China</sub></td>
 </tr>
 <tr>
-<td align="right">850</td>
+<td align="right">851</td>
 <td><a href="https://github.com/canisminor1990"><img src="https://avatars.githubusercontent.com/u/17870709?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/canisminor1990"><b>CanisMinor</b></a><br><sub>&#64;canisminor1990</sub></td>
 <td align="right"><b>898</b></td>
 <td align="right">69</td>
 <td><sub>Chengdu China</sub></td>
 </tr>
 <tr>
-<td align="right">851</td>
+<td align="right">852</td>
 <td><a href="https://github.com/fankes"><img src="https://avatars.githubusercontent.com/u/37344460?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fankes"><b>Fankes yooni</b></a><br><sub>&#64;fankes</sub></td>
 <td align="right"><b>898</b></td>
 <td align="right">25</td>
 <td><sub>China</sub></td>
 </tr>
 <tr>
-<td align="right">852</td>
+<td align="right">853</td>
 <td><a href="https://github.com/lzwjava"><img src="https://avatars.githubusercontent.com/u/5022872?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lzwjava"><b>Zhiwei Li</b></a><br><sub>&#64;lzwjava</sub></td>
 <td align="right"><b>896</b></td>
 <td align="right">123</td>
 <td><sub>Guangzhou, China</sub></td>
 </tr>
 <tr>
-<td align="right">853</td>
+<td align="right">854</td>
 <td><a href="https://github.com/stanzhai"><img src="https://avatars.githubusercontent.com/u/1438757?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stanzhai"><b>Stan Zhai</b></a><br><sub>&#64;stanzhai</sub></td>
 <td align="right"><b>896</b></td>
 <td align="right">103</td>
 <td><sub>Beijing, China</sub></td>
 </tr>
 <tr>
-<td align="right">854</td>
+<td align="right">855</td>
 <td><a href="https://github.com/guanzhi"><img src="https://avatars.githubusercontent.com/u/1787781?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/guanzhi"><b>Zhi Guan</b></a><br><sub>&#64;guanzhi</sub></td>
 <td align="right"><b>896</b></td>
 <td align="right">13</td>
 <td><sub>Summer Palace Road No. 5, Beijing</sub></td>
 </tr>
 <tr>
-<td align="right">855</td>
+<td align="right">856</td>
 <td><a href="https://github.com/chaozh"><img src="https://avatars.githubusercontent.com/u/1067743?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chaozh"><b>chaozh</b></a><br><sub>&#64;chaozh</sub></td>
 <td align="right"><b>895</b></td>
 <td align="right">31</td>
 <td><sub>China</sub></td>
 </tr>
 <tr>
-<td align="right">856</td>
+<td align="right">857</td>
 <td><a href="https://github.com/lightSky"><img src="https://avatars.githubusercontent.com/u/3964436?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lightSky"><b>lightSky</b></a><br><sub>&#64;lightSky</sub></td>
 <td align="right"><b>895</b></td>
 <td align="right">13</td>
 <td><sub>China,HangZhou</sub></td>
 </tr>
 <tr>
-<td align="right">857</td>
+<td align="right">858</td>
 <td><a href="https://github.com/conwnet"><img src="https://avatars.githubusercontent.com/u/17734694?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/conwnet"><b>netcon</b></a><br><sub>&#64;conwnet</sub></td>
 <td align="right"><b>894</b></td>
 <td align="right">96</td>
 <td><sub>China</sub></td>
 </tr>
 <tr>
-<td align="right">858</td>
+<td align="right">859</td>
 <td><a href="https://github.com/ma6174"><img src="https://avatars.githubusercontent.com/u/1449133?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ma6174"><b>ma6174</b></a><br><sub>&#64;ma6174</sub></td>
 <td align="right"><b>893</b></td>
 <td align="right">82</td>
 <td><sub>Shanghai, China</sub></td>
 </tr>
 <tr>
-<td align="right">859</td>
+<td align="right">860</td>
 <td><a href="https://github.com/wuxianlin"><img src="https://avatars.githubusercontent.com/u/5378164?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wuxianlin"><b>wuxianlin</b></a><br><sub>&#64;wuxianlin</sub></td>
 <td align="right"><b>892</b></td>
 <td align="right">92</td>
 <td><sub>China</sub></td>
 </tr>
 <tr>
-<td align="right">860</td>
+<td align="right">861</td>
 <td><a href="https://github.com/ginuerzh"><img src="https://avatars.githubusercontent.com/u/2801795?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ginuerzh"><b>ginuerzh</b></a><br><sub>&#64;ginuerzh</sub></td>
 <td align="right"><b>891</b></td>
 <td align="right">86</td>
 <td><sub>Shanghai</sub></td>
 </tr>
 <tr>
-<td align="right">861</td>
+<td align="right">862</td>
 <td><a href="https://github.com/yinjihuan"><img src="https://avatars.githubusercontent.com/u/17271895?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yinjihuan"><b>尹吉欢</b></a><br><sub>&#64;yinjihuan</sub></td>
 <td align="right"><b>890</b></td>
 <td align="right">36</td>
 <td><sub>shanghai</sub></td>
 </tr>
 <tr>
-<td align="right">862</td>
+<td align="right">863</td>
 <td><a href="https://github.com/liguodongiot"><img src="https://avatars.githubusercontent.com/u/13220186?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/liguodongiot"><b>Jelly Lee</b></a><br><sub>&#64;liguodongiot</sub></td>
 <td align="right"><b>889</b></td>
 <td align="right">96</td>
 <td><sub>Chengdu, China</sub></td>
 </tr>
 <tr>
-<td align="right">863</td>
+<td align="right">864</td>
 <td><a href="https://github.com/tsejx"><img src="https://avatars.githubusercontent.com/u/27500510?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tsejx"><b>Jehoshaphat Tse</b></a><br><sub>&#64;tsejx</sub></td>
 <td align="right"><b>887</b></td>
 <td align="right">61</td>
 <td><sub>Guangzhou China</sub></td>
 </tr>
 <tr>
-<td align="right">864</td>
+<td align="right">865</td>
 <td><a href="https://github.com/semlinker"><img src="https://avatars.githubusercontent.com/u/4220799?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/semlinker"><b>阿宝哥</b></a><br><sub>&#64;semlinker</sub></td>
 <td align="right"><b>887</b></td>
 <td align="right">23</td>
 <td><sub>Fujian/Xiamen</sub></td>
 </tr>
 <tr>
-<td align="right">865</td>
+<td align="right">866</td>
 <td><a href="https://github.com/netease-youdao"><img src="https://avatars.githubusercontent.com/u/3909232?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/netease-youdao"><b>NetEase Youdao</b></a><br><sub>&#64;netease-youdao</sub></td>
 <td align="right"><b>887</b></td>
 <td align="right">14</td>
 <td><sub>Beijing</sub></td>
 </tr>
 <tr>
-<td align="right">866</td>
+<td align="right">867</td>
 <td><a href="https://github.com/SatanWoo"><img src="https://avatars.githubusercontent.com/u/1303079?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SatanWoo"><b>SatanWoo</b></a><br><sub>&#64;SatanWoo</sub></td>
 <td align="right"><b>884</b></td>
 <td align="right">77</td>
 <td><sub>Hangzhou</sub></td>
 </tr>
 <tr>
-<td align="right">867</td>
-<td><a href="https://github.com/t8y2"><img src="https://avatars.githubusercontent.com/u/77960507?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/t8y2"><b>t8y2</b></a><br><sub>&#64;t8y2</sub></td>
-<td align="right"><b>883</b></td>
-<td align="right">60</td>
-<td><sub>China</sub></td>
+<td align="right">868</td>
+<td><a href="https://github.com/youhunwl"><img src="https://avatars.githubusercontent.com/u/30980738?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/youhunwl"><b>游魂</b></a><br><sub>&#64;youhunwl</sub></td>
+<td align="right"><b>881</b></td>
+<td align="right">66</td>
+<td><sub>Beijing,China</sub></td>
 </tr>
 <tr>
-<td align="right">868</td>
+<td align="right">869</td>
 <td><a href="https://github.com/cpselvis"><img src="https://avatars.githubusercontent.com/u/18289264?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cpselvis"><b>cpselvis</b></a><br><sub>&#64;cpselvis</sub></td>
 <td align="right"><b>879</b></td>
 <td align="right">51</td>
 <td><sub>Shenzhen, China</sub></td>
 </tr>
 <tr>
-<td align="right">869</td>
+<td align="right">870</td>
 <td><a href="https://github.com/Dod-o"><img src="https://avatars.githubusercontent.com/u/45008728?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dod-o"><b>Tengchao Lv</b></a><br><sub>&#64;Dod-o</sub></td>
 <td align="right"><b>879</b></td>
 <td align="right">15</td>
 <td><sub>China</sub></td>
 </tr>
 <tr>
-<td align="right">870</td>
+<td align="right">871</td>
 <td><a href="https://github.com/renkun-ken"><img src="https://avatars.githubusercontent.com/u/4662568?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/renkun-ken"><b>Kun Ren</b></a><br><sub>&#64;renkun-ken</sub></td>
 <td align="right"><b>877</b></td>
 <td align="right">128</td>
 <td><sub>Shanghai, China</sub></td>
 </tr>
 <tr>
-<td align="right">871</td>
+<td align="right">872</td>
 <td><a href="https://github.com/race604"><img src="https://avatars.githubusercontent.com/u/1446367?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/race604"><b>Jimmy</b></a><br><sub>&#64;race604</sub></td>
 <td align="right"><b>877</b></td>
 <td align="right">49</td>
 <td><sub>Beijing, China</sub></td>
 </tr>
 <tr>
-<td align="right">872</td>
+<td align="right">873</td>
 <td><a href="https://github.com/yuguo"><img src="https://avatars.githubusercontent.com/u/1196448?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yuguo"><b>余果</b></a><br><sub>&#64;yuguo</sub></td>
 <td align="right"><b>874</b></td>
 <td align="right">30</td>
 <td><sub>Shenzhen, China</sub></td>
 </tr>
 <tr>
-<td align="right">873</td>
+<td align="right">874</td>
 <td><a href="https://github.com/kuangliu"><img src="https://avatars.githubusercontent.com/u/10502826?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kuangliu"><b>kuangliu</b></a><br><sub>&#64;kuangliu</sub></td>
 <td align="right"><b>873</b></td>
 <td align="right">76</td>
 <td><sub>Hangzhou, China</sub></td>
 </tr>
 <tr>
-<td align="right">874</td>
+<td align="right">875</td>
 <td><a href="https://github.com/SpiritMark"><img src="https://avatars.githubusercontent.com/u/46281604?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SpiritMark"><b>liuluchang</b></a><br><sub>&#64;SpiritMark</sub></td>
 <td align="right"><b>873</b></td>
 <td align="right">13</td>
 <td><sub>Shang Hai</sub></td>
 </tr>
 <tr>
-<td align="right">875</td>
+<td align="right">876</td>
 <td><a href="https://github.com/OrangeX4"><img src="https://avatars.githubusercontent.com/u/34951714?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OrangeX4"><b>OrangeX4</b></a><br><sub>&#64;OrangeX4</sub></td>
 <td align="right"><b>871</b></td>
 <td align="right">103</td>
 <td><sub>China</sub></td>
-</tr>
-<tr>
-<td align="right">876</td>
-<td><a href="https://github.com/youhunwl"><img src="https://avatars.githubusercontent.com/u/30980738?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/youhunwl"><b>游魂</b></a><br><sub>&#64;youhunwl</sub></td>
-<td align="right"><b>870</b></td>
-<td align="right">66</td>
-<td><sub>Beijing,China</sub></td>
 </tr>
 <tr>
 <td align="right">877</td>
@@ -6547,17 +6547,17 @@
 </tr>
 <tr>
 <td align="right">933</td>
-<td><a href="https://github.com/zTrix"><img src="https://avatars.githubusercontent.com/u/471934?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zTrix"><b>Wenlei Zhu</b></a><br><sub>&#64;zTrix</sub></td>
-<td align="right"><b>826</b></td>
-<td align="right">53</td>
-<td><sub>Beijing, China</sub></td>
-</tr>
-<tr>
-<td align="right">934</td>
 <td><a href="https://github.com/fate0"><img src="https://avatars.githubusercontent.com/u/6829628?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fate0"><b>fate0</b></a><br><sub>&#64;fate0</sub></td>
 <td align="right"><b>826</b></td>
 <td align="right">16</td>
 <td><sub>China</sub></td>
+</tr>
+<tr>
+<td align="right">934</td>
+<td><a href="https://github.com/zTrix"><img src="https://avatars.githubusercontent.com/u/471934?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zTrix"><b>Wenlei Zhu</b></a><br><sub>&#64;zTrix</sub></td>
+<td align="right"><b>825</b></td>
+<td align="right">53</td>
+<td><sub>Beijing, China</sub></td>
 </tr>
 <tr>
 <td align="right">935</td>
@@ -6596,17 +6596,17 @@
 </tr>
 <tr>
 <td align="right">940</td>
-<td><a href="https://github.com/picoxr"><img src="https://avatars.githubusercontent.com/u/46362299?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/picoxr"><b>PICO</b></a><br><sub>&#64;picoxr</sub></td>
-<td align="right"><b>818</b></td>
-<td align="right">79</td>
-<td><sub>BeiJing</sub></td>
-</tr>
-<tr>
-<td align="right">941</td>
 <td><a href="https://github.com/leohxj"><img src="https://avatars.githubusercontent.com/u/1506900?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leohxj"><b>Leo Hui</b></a><br><sub>&#64;leohxj</sub></td>
 <td align="right"><b>818</b></td>
 <td align="right">38</td>
 <td><sub>Nanjing, China</sub></td>
+</tr>
+<tr>
+<td align="right">941</td>
+<td><a href="https://github.com/picoxr"><img src="https://avatars.githubusercontent.com/u/46362299?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/picoxr"><b>PICO</b></a><br><sub>&#64;picoxr</sub></td>
+<td align="right"><b>817</b></td>
+<td align="right">79</td>
+<td><sub>BeiJing</sub></td>
 </tr>
 <tr>
 <td align="right">942</td>
@@ -7029,7 +7029,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global follower scan — every developer above this cutoff has been enumerated.
-- Organizations are excluded. 1,898 attributed developers are tracked; the cutoff is 767 followers.
+- Organizations are excluded. 1,924 attributed developers are tracked; the cutoff is 767 followers.
 - **Location discovery:** term 0 of 195 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

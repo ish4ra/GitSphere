@@ -5,7 +5,7 @@
 "country": {"code":"SA","name":"Saudi Arabia","slug":"saudi-arabia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":414,"measuredAccounts":11,"measurementBacklog":403,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":141,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":418,"measuredAccounts":11,"measurementBacklog":407,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":141,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjE1NjY3NzE0","login":"zaidalyafeai","name":"Zaid Alyafeai","url":"https://github.com/zaidalyafeai","avatarUrl":"https://avatars.githubusercontent.com/u/15667714?s=80&v=4","followers":643,"publicRepos":118,"location":"Dhahran","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-24","contributions":{"public":769,"commits":520,"pullRequests":7,"reviews":234,"issues":4,"repositories":4,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":2,"id":"MDQ6VXNlcjg0NjIxNTQ3","login":"shakiliitju","name":"Md. Shakil Hossain","url":"https://github.com/shakiliitju","avatarUrl":"https://avatars.githubusercontent.com/u/84621547?s=80&v=4","followers":1389,"publicRepos":77,"location":"Buraydah, Kingdom of Saudi Arabia (KSA)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":710,"commits":678,"pullRequests":27,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
@@ -18,8 +18,8 @@
   {"rank":9,"id":"MDQ6VXNlcjI4MjAzMDU5","login":"madahetooo","name":"Eslam Medhat","url":"https://github.com/madahetooo","avatarUrl":"https://avatars.githubusercontent.com/u/28203059?s=80&v=4","followers":461,"publicRepos":124,"location":"Riyadh, Saudi Arabia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":22,"commits":18,"pullRequests":1,"reviews":0,"issues":0,"repositories":3,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":10,"id":"MDQ6VXNlcjQ2NTk2MDg=","login":"alhazmy13","name":"Abdullah Alhazmy","url":"https://github.com/alhazmy13","avatarUrl":"https://avatars.githubusercontent.com/u/4659608?s=80&v=4","followers":476,"publicRepos":117,"location":"Riyadh, Saudi Arabia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":3,"commits":2,"pullRequests":0,"reviews":1,"issues":0,"repositories":0,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "69c1bf713998abf9",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "66dfdc1752b0f55e",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

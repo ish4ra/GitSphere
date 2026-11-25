@@ -25,7 +25,7 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><a href="https://github.com/ripienaar"><img src="https://avatars.githubusercontent.com/u/82342?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ripienaar"><b>R.I.Pienaar</b></a><br><sub>&#64;ripienaar · 4,074 followers</sub></td>
+<td><a href="https://github.com/ripienaar"><img src="https://avatars.githubusercontent.com/u/82342?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ripienaar"><b>R.I.Pienaar</b></a><br><sub>&#64;ripienaar · 4,079 followers</sub></td>
 <td align="right"><b>4,068</b></td>
 <td align="right">2,721</td>
 <td align="right">716</td>

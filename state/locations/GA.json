@@ -4,11 +4,11 @@
 "round": 1,
 "roundStartedAt": "2026-11-22T22:05:44.591Z",
 "terms": {"count":45,"fingerprint":"45:a6e8e051"},
-"termIndex": 0,
+"termIndex": 2,
 "specIndex": 0,
-"active": {"term":"Gabon","kind":"users","queue":[{"metric":[0,100000000],"created":null,"cursor":"Y3Vyc29yOjMwMA==","page":7,"retrieved":300,"attempts":0}],"unresolved":[],"cycleStartedAt":"2026-11-22T22:05:44.591Z","stats":{"pages":6}},
+"active": null,
 "unresolved": [],
 "completedRounds": [],
-"stats": {"requests":6,"pages":6,"accounts":300},
-"updatedAt": "2026-11-22T22:05:44.591Z"
+"stats": {"requests":12,"pages":12,"accounts":421},
+"updatedAt": "2026-11-25T14:40:33.322Z"
 }

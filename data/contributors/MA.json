@@ -5,7 +5,7 @@
 "country": {"code":"MA","name":"Morocco","slug":"morocco"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":503,"measuredAccounts":11,"measurementBacklog":492,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":173,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":531,"measuredAccounts":11,"measurementBacklog":520,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":173,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjIzOTQ3MDM=","login":"seuros","name":"Abdelkader Boudih","url":"https://github.com/seuros","avatarUrl":"https://avatars.githubusercontent.com/u/2394703?s=80&v=4","followers":651,"publicRepos":511,"location":"Tangier, Morocco","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-25","contributions":{"public":7048,"commits":5920,"pullRequests":941,"reviews":73,"issues":21,"repositories":91,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":2,"id":"U_kgDOERO9UA","login":"devops2626","name":"Barki Mustapha","url":"https://github.com/devops2626","avatarUrl":"https://avatars.githubusercontent.com/u/286506320?s=80&v=4","followers":277,"publicRepos":261,"location":"Morocco","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":813,"commits":473,"pullRequests":196,"reviews":4,"issues":23,"repositories":101,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
@@ -18,8 +18,8 @@
   {"rank":9,"id":"MDQ6VXNlcjcwNjI2OTU=","login":"MrMugiwara","name":"Soufiane Boussali","url":"https://github.com/MrMugiwara","avatarUrl":"https://avatars.githubusercontent.com/u/7062695?s=80&v=4","followers":304,"publicRepos":744,"location":"Casablanca","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-24","contributions":{"public":17,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":17,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":10,"id":"MDQ6VXNlcjk2Mzc0NzU=","login":"alma4rebi","name":"AlmaGrebi","url":"https://github.com/alma4rebi","avatarUrl":"https://avatars.githubusercontent.com/u/9637475?s=80&v=4","followers":332,"publicRepos":650,"location":"Rabat , Morocco","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":4,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":4,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "5169991ae32b61ce",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "f21bff6510c0aa1b",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

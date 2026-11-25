@@ -5,7 +5,7 @@
 "country": {"code":"IO","name":"British Indian Ocean Territory","slug":"british-indian-ocean-territory"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":15,"ownerExpansionBacklog":16,"candidates":15,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":21,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":15,"ownerExpansionBacklog":16,"candidates":15,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":21,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"template-project","nameWithOwner":"linuxdistribution/template-project","url":"https://github.com/linuxdistribution/template-project","description":null,"stars":2,"forks":1,"primaryLanguage":"Java","license":{"spdxId":"Apache-2.0"},"createdAt":"2025-04-29T15:14:43Z","pushedAt":"2026-04-29T09:39:14Z","archived":false,"owner":{"login":"linuxdistribution","name":"linuxdistribution","type":"User","url":"https://github.com/linuxdistribution","location":"British Indian Ocean Territory","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"friendli-or-angri","nameWithOwner":"Vitorlas-Devs/friendli-or-angri","url":"https://github.com/Vitorlas-Devs/friendli-or-angri","description":null,"stars":2,"forks":0,"primaryLanguage":"C#","license":null,"createdAt":"2022-11-30T09:05:19Z","pushedAt":"2023-01-13T09:28:33Z","archived":false,"owner":{"login":"Vitorlas-Devs","name":"Vitorlás Devs","type":"Organization","url":"https://github.com/Vitorlas-Devs","location":"British Indian Ocean Territory","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
@@ -23,8 +23,8 @@
   {"rank":14,"id":null,"name":"watercompany","nameWithOwner":"WaterCompanyY10/watercompany","url":"https://github.com/WaterCompanyY10/watercompany","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-05-12T09:30:36Z","pushedAt":"2023-05-12T10:21:02Z","archived":false,"owner":{"login":"WaterCompanyY10","name":"WaterCompanyY10","type":"Organization","url":"https://github.com/WaterCompanyY10","location":"British Indian Ocean Territory","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
   {"rank":15,"id":null,"name":"WWH-Wejang-Inc","nameWithOwner":"Wejang-Health-Care/WWH-Wejang-Inc","url":"https://github.com/Wejang-Health-Care/WWH-Wejang-Inc","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":{"spdxId":"Apache-2.0"},"createdAt":"2023-01-29T22:43:09Z","pushedAt":"2023-01-29T22:52:33Z","archived":false,"owner":{"login":"Wejang-Health-Care","name":"Wejang Inc","type":"Organization","url":"https://github.com/Wejang-Health-Care","location":"British Indian Ocean Territory","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true}
 ],
-"contentHash": "e66d9565ea2317eb",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "efcdea230aca2094",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-10-25",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

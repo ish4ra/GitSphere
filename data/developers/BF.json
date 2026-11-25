@@ -135,7 +135,7 @@
   {"rank":126,"id":"U_kgDOCFSS1Q","login":"JustinBKG","name":"Justin BONKOUNGOU","url":"https://github.com/JustinBKG","avatarUrl":"https://avatars.githubusercontent.com/u/139760341?s=80&v=4","followers":5,"publicRepos":4,"location":"Ouagadougou, Burkina Faso","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":127,"id":"U_kgDOCNEp6w","login":"NIBAWOLF","name":"NIBATIC","url":"https://github.com/NIBAWOLF","avatarUrl":"https://avatars.githubusercontent.com/u/147925483?s=80&v=4","followers":5,"publicRepos":3,"location":"BOBO-DIoulasso, Bobo 2010 | BURKINA FASO","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":128,"id":"U_kgDOB3lT9w","login":"evaristekb","name":"Consulting company","url":"https://github.com/evaristekb","avatarUrl":"https://avatars.githubusercontent.com/u/125391863?s=80&v=4","followers":5,"publicRepos":2,"location":"Ouagadougou Burkina Faso","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":129,"id":"MDQ6VXNlcjkwNjU0NTI2","login":"fanetech","name":"lougue franck","url":"https://github.com/fanetech","avatarUrl":"https://avatars.githubusercontent.com/u/90654526?s=80&v=4","followers":4,"publicRepos":68,"location":"burkina faso","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":129,"id":"MDQ6VXNlcjkwNjU0NTI2","login":"fanetech","name":"lougue franck","url":"https://github.com/fanetech","avatarUrl":"https://avatars.githubusercontent.com/u/90654526?s=80&v=4","followers":4,"publicRepos":68,"location":"burkina faso","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
   {"rank":130,"id":"MDQ6VXNlcjUwNjQ2Njc0","login":"zidajoseph","name":"ZIDA Joseph","url":"https://github.com/zidajoseph","avatarUrl":"https://avatars.githubusercontent.com/u/50646674?s=80&v=4","followers":4,"publicRepos":46,"location":"Burkina faso","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":131,"id":"U_kgDOCHV0Tw","login":"hkatoze","name":"Harouna Kinda","url":"https://github.com/hkatoze","avatarUrl":"https://avatars.githubusercontent.com/u/141915215?s=80&v=4","followers":4,"publicRepos":44,"location":"Burkina Faso , Ouagadougou","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":132,"id":"MDQ6VXNlcjYwODc1NDUy","login":"sidiki123","name":"ouedraogo","url":"https://github.com/sidiki123","avatarUrl":"https://avatars.githubusercontent.com/u/60875452?s=80&v=4","followers":4,"publicRepos":33,"location":"Burkina Faso","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
@@ -598,8 +598,8 @@
   {"rank":589,"id":"U_kgDOESEg7w","login":"yampite-beep","name":"S Pierre Yameogo","url":"https://github.com/yampite-beep","avatarUrl":"https://avatars.githubusercontent.com/u/287383791?s=80&v=4","followers":0,"publicRepos":0,"location":"Burkina Faso","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":590,"id":"U_kgDODlnvuQ","login":"z809-ux","name":"ZONGO Alain Narcisse","url":"https://github.com/z809-ux","avatarUrl":"https://avatars.githubusercontent.com/u/240775097?s=80&v=4","followers":0,"publicRepos":0,"location":"Burkina Faso","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "74e759f6b04f5f3b",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "fb684e9c835469af",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

@@ -24,63 +24,63 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/jonasschmedtmann.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jonasschmedtmann/complete-javascript-course"><b>jonasschmedtmann/complete-javascript-course</b></a><br><sub>Starter files, final projects, and FAQ for my Complete JavaScript course</sub></td>
-<td align="right"><b>17,288</b></td>
-<td align="right">17,402</td>
+<td align="right"><b>17,290</b></td>
+<td align="right">17,397</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/filp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/filp/whoops"><b>filp/whoops</b></a><br><sub>PHP errors for cool kids</sub></td>
-<td align="right"><b>13,230</b></td>
+<td align="right"><b>13,232</b></td>
 <td align="right">600</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/Heroic-Games-Launcher.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher"><b>Heroic-Games-Launcher/HeroicGamesLauncher</b></a><br><sub>A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.</sub></td>
-<td align="right"><b>12,654</b></td>
-<td align="right">725</td>
+<td align="right"><b>12,673</b></td>
+<td align="right">728</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/dwyl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dwyl/english-words"><b>dwyl/english-words</b></a><br><sub>:memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / aut…</sub></td>
-<td align="right"><b>12,345</b></td>
-<td align="right">2,011</td>
+<td align="right"><b>12,348</b></td>
+<td align="right">2,010</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/mxssl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mxssl/sre-interview-prep-guide"><b>mxssl/sre-interview-prep-guide</b></a><br><sub>Site Reliability Engineer Interview Preparation Guide</sub></td>
-<td align="right"><b>9,269</b></td>
-<td align="right">2,347</td>
+<td align="right"><b>9,272</b></td>
+<td align="right">2,344</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/andrew--r.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/andrew--r/frontend-case-studies"><b>andrew--r/frontend-case-studies</b></a><br><sub>💼 A curated list of talks and articles about real world frontend development</sub></td>
-<td align="right"><b>7,436</b></td>
+<td align="right"><b>7,435</b></td>
 <td align="right">424</td>
 <td>Astro</td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/jbaysolutions.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jbaysolutions/vue-grid-layout"><b>jbaysolutions/vue-grid-layout</b></a><br><sub>A draggable and resizable grid layout, for Vue.js.</sub></td>
-<td align="right"><b>7,392</b></td>
+<td align="right"><b>7,391</b></td>
 <td align="right">1,524</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/vasturiano.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vasturiano/3d-force-graph"><b>vasturiano/3d-force-graph</b></a><br><sub>3D force-directed graph component using ThreeJS/WebGL</sub></td>
-<td align="right"><b>6,589</b></td>
-<td align="right">1,039</td>
+<td align="right"><b>6,594</b></td>
+<td align="right">1,040</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/filhodanuvem.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/filhodanuvem/gitql"><b>filhodanuvem/gitql</b></a><br><sub>💊 A git query language</sub></td>
-<td align="right"><b>6,287</b></td>
+<td align="right"><b>6,285</b></td>
 <td align="right">159</td>
 <td>Go</td>
 </tr>
@@ -88,13 +88,13 @@
 <td align="right">10</td>
 <td><img src="https://github.com/nunomaduro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nunomaduro/phpinsights"><b>nunomaduro/phpinsights</b></a><br><sub>🔰 Instant PHP quality checks from your console</sub></td>
 <td align="right"><b>5,647</b></td>
-<td align="right">298</td>
+<td align="right">299</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/pedrommcarrasco.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pedrommcarrasco/Brooklyn"><b>pedrommcarrasco/Brooklyn</b></a><br><sub>🍎 Screensaver inspired by Apple&#39;s Event on October 30, 2018</sub></td>
-<td align="right"><b>5,610</b></td>
+<td align="right"><b>5,608</b></td>
 <td align="right">277</td>
 <td>Swift</td>
 </tr>
@@ -102,27 +102,27 @@
 <td align="right">12</td>
 <td><img src="https://github.com/dpgaspar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dpgaspar/Flask-AppBuilder"><b>dpgaspar/Flask-AppBuilder</b></a><br><sub>Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD genera…</sub></td>
 <td align="right"><b>4,961</b></td>
-<td align="right">1,440</td>
+<td align="right">1,439</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">13</td>
 <td><img src="https://github.com/apocas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/apocas/dockerode"><b>apocas/dockerode</b></a><br><sub>Docker + Node = Dockerode (Node.js module for Docker&#39;s Remote API)</sub></td>
-<td align="right"><b>4,951</b></td>
+<td align="right"><b>4,950</b></td>
 <td align="right">487</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/jonasschmedtmann.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jonasschmedtmann/advanced-css-course"><b>jonasschmedtmann/advanced-css-course</b></a><br><sub>Starter files, final projects and FAQ for my Advanced CSS course</sub></td>
-<td align="right"><b>4,730</b></td>
-<td align="right">5,182</td>
+<td align="right"><b>4,729</b></td>
+<td align="right">5,181</td>
 <td>CSS</td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/nunomaduro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nunomaduro/collision"><b>nunomaduro/collision</b></a><br><sub>💥 Collision is a beautiful error reporting tool for command-line applications</sub></td>
-<td align="right"><b>4,662</b></td>
+<td align="right"><b>4,661</b></td>
 <td align="right">187</td>
 <td>PHP</td>
 </tr>
@@ -130,7 +130,7 @@
 <td align="right">16</td>
 <td><img src="https://github.com/jonasschmedtmann.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jonasschmedtmann/ultimate-react-course"><b>jonasschmedtmann/ultimate-react-course</b></a><br><sub>Starter files, final projects, and FAQ for my Ultimate React course</sub></td>
 <td align="right"><b>4,532</b></td>
-<td align="right">2,861</td>
+<td align="right">2,860</td>
 <td>JavaScript</td>
 </tr>
 <tr>

@@ -24,85 +24,85 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/HunxByts.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HunxByts/GhostTrack"><b>HunxByts/GhostTrack</b></a><br><sub>Useful tool to track location or mobile number</sub></td>
-<td align="right"><b>20,837</b></td>
-<td align="right">2,816</td>
+<td align="right"><b>20,884</b></td>
+<td align="right">2,817</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/rmyndharis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rmyndharis/OpenWA"><b>rmyndharis/OpenWA</b></a><br><sub>Free, Open Source, Self-Hosted WhatsApp API Gateway</sub></td>
-<td align="right"><b>17,183</b></td>
-<td align="right">4,017</td>
+<td align="right"><b>17,350</b></td>
+<td align="right">4,057</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/Kristories.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Kristories/awesome-guidelines"><b>Kristories/awesome-guidelines</b></a><br><sub>Programming style, best practices, and coding conventions.</sub></td>
-<td align="right"><b>11,281</b></td>
+<td align="right"><b>11,288</b></td>
 <td align="right">614</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/infosecn1nja.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/infosecn1nja/Red-Teaming-Toolkit"><b>infosecn1nja/Red-Teaming-Toolkit</b></a><br><sub>This repository contains cutting-edge open-source security tools (OST) for a red teamer and threat hunter.</sub></td>
-<td align="right"><b>10,882</b></td>
-<td align="right">2,387</td>
+<td align="right"><b>10,895</b></td>
+<td align="right">2,391</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/faisalman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/faisalman/ua-parser-js"><b>faisalman/ua-parser-js</b></a><br><sub>UAParser.js: The Essential Web Development Tool for User-Agent Detection. Detect Browsers, OS, Devices, Bots, Apps, AI…</sub></td>
-<td align="right"><b>10,215</b></td>
+<td align="right"><b>10,216</b></td>
 <td align="right">1,217</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/miqdadbadjuber.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/miqdadbadjuber/anti-slop"><b>miqdadbadjuber/anti-slop</b></a><br><sub>Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code.</sub></td>
-<td align="right"><b>9,813</b></td>
-<td align="right">679</td>
+<td align="right"><b>10,136</b></td>
+<td align="right">694</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/alsyundawy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alsyundawy/Microsoft-Office-For-MacOS"><b>alsyundawy/Microsoft-Office-For-MacOS</b></a> <sub>archived</sub><br><sub>Installer Microsoft Office For MacOS</sub></td>
-<td align="right"><b>8,599</b></td>
-<td align="right">1,113</td>
+<td align="right"><b>8,602</b></td>
+<td align="right">1,120</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/zetbaitsu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zetbaitsu/Compressor"><b>zetbaitsu/Compressor</b></a><br><sub>An android image compression library.</sub></td>
-<td align="right"><b>7,228</b></td>
+<td align="right"><b>7,230</b></td>
 <td align="right">962</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/daffainfo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/daffainfo/AllAboutBugBounty"><b>daffainfo/AllAboutBugBounty</b></a><br><sub>All about bug bounty (bypasses, payloads, and etc)</sub></td>
-<td align="right"><b>6,979</b></td>
-<td align="right">1,274</td>
+<td align="right"><b>6,978</b></td>
+<td align="right">1,275</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/dwisiswant0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dwisiswant0/apkleaks"><b>dwisiswant0/apkleaks</b></a><br><sub>Scanning APK file for URIs, endpoints &amp; secrets.</sub></td>
-<td align="right"><b>6,399</b></td>
+<td align="right"><b>6,402</b></td>
 <td align="right">605</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/farizdotid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA"><b>farizdotid/DAFTAR-API-LOKAL-INDONESIA</b></a><br><sub>Berisi API tentang Data Indonesia ataupun API yang dibuat oleh developer Indonesia &lt;3</sub></td>
-<td align="right"><b>5,350</b></td>
-<td align="right">1,520</td>
+<td align="right"><b>5,397</b></td>
+<td align="right">1,530</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/aldinokemal.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aldinokemal/go-whatsapp-web-multidevice"><b>aldinokemal/go-whatsapp-web-multidevice</b></a><br><sub>GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for eff…</sub></td>
-<td align="right"><b>5,079</b></td>
-<td align="right">1,240</td>
+<td align="right"><b>5,085</b></td>
+<td align="right">1,239</td>
 <td>Go</td>
 </tr>
 <tr>
@@ -115,8 +115,8 @@
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/infosecn1nja.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/infosecn1nja/AD-Attack-Defense"><b>infosecn1nja/AD-Attack-Defense</b></a><br><sub>Attack and defend active directory using modern post exploitation adversary tradecraft activity</sub></td>
-<td align="right"><b>4,887</b></td>
-<td align="right">1,080</td>
+<td align="right"><b>4,889</b></td>
+<td align="right">1,081</td>
 <td>—</td>
 </tr>
 <tr>

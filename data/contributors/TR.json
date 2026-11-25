@@ -5,7 +5,7 @@
 "country": {"code":"TR","name":"Türkiye","slug":"turkiye"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":1222,"measuredAccounts":10,"measurementBacklog":1212,"window":{"from":"2025-11-24T01:00:00Z","to":"2026-11-24T01:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":169,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":1299,"measuredAccounts":10,"measurementBacklog":1289,"window":{"from":"2025-11-24T01:00:00Z","to":"2026-11-24T01:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":169,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjE3MzU5NQ==","login":"alerque","name":"Caleb Maclennan","url":"https://github.com/alerque","avatarUrl":"https://avatars.githubusercontent.com/u/173595?s=80&v=4","followers":494,"publicRepos":551,"location":"İzmir, Türkiye","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":7331,"commits":6897,"pullRequests":118,"reviews":127,"issues":133,"repositories":49,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":2,"id":"MDQ6VXNlcjU0NzE0OTc=","login":"WhiteSymmetry","name":"Mehmet Keçeci","url":"https://github.com/WhiteSymmetry","avatarUrl":"https://avatars.githubusercontent.com/u/5471497?s=80&v=4","followers":997,"publicRepos":624,"location":"Türkiye","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":4535,"commits":4519,"pullRequests":3,"reviews":0,"issues":2,"repositories":11,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
@@ -16,8 +16,8 @@
   {"rank":7,"id":"MDQ6VXNlcjE2NjkzMDQz","login":"developer-guy","name":"Batuhan Apaydın","url":"https://github.com/developer-guy","avatarUrl":"https://avatars.githubusercontent.com/u/16693043?s=80&v=4","followers":959,"publicRepos":584,"location":"Istanbul","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-24","contributions":{"public":197,"commits":178,"pullRequests":11,"reviews":3,"issues":4,"repositories":1,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":8,"id":"MDQ6VXNlcjQxNzkyOTgy","login":"onuratakan","name":"Onur ULUSOY","url":"https://github.com/onuratakan","avatarUrl":"https://avatars.githubusercontent.com/u/41792982?s=80&v=4","followers":469,"publicRepos":711,"location":"Istanbul","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23","contributions":{"public":177,"commits":149,"pullRequests":19,"reviews":1,"issues":2,"repositories":6,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "2061109685392a89",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "cbed710488bfcd78",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

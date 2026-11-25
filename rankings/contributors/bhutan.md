@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/contributors/BT.json">JSON</a> |
+| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/contributors/BT.json">JSON</a> |
 
 </div>
 
@@ -133,6 +133,15 @@
 </tr>
 <tr>
 <td align="right">13</td>
+<td><a href="https://github.com/Ugyenjigmerangdrel"><img src="https://avatars.githubusercontent.com/u/53612211?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ugyenjigmerangdrel"><b>Ugyen Jigme Rangdrel</b></a><br><sub>&#64;Ugyenjigmerangdrel · 14 followers</sub></td>
+<td align="right"><b>21</b></td>
+<td align="right">16</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">14</td>
 <td><a href="https://github.com/divyashC"><img src="https://avatars.githubusercontent.com/u/60650433?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/divyashC"><b>Divyash Chhetri</b></a><br><sub>&#64;divyashC · 16 followers</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">8</td>
@@ -141,7 +150,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/rewathkafley"><img src="https://avatars.githubusercontent.com/u/9987781?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rewathkafley"><b>rewathkafley</b></a><br><sub>&#64;rewathkafley · 43 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">1</td>
@@ -150,7 +159,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><a href="https://github.com/ruBhutan"><img src="https://avatars.githubusercontent.com/u/146958291?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ruBhutan"><b>Tashi Dorji</b></a><br><sub>&#64;ruBhutan · 1 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">0</td>
@@ -165,7 +174,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 17 of 590 discovered developers (573 awaiting measurement).
+- **Measured:** 18 of 590 discovered developers (572 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 38 in round 1.

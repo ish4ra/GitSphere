@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **100** | 03 Nov 2026 | <a href="../data/TH.json">JSON</a> |
-
-> **Not yet re-verified.** 5 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/TH.json">JSON</a> |
 
 </div>
 
@@ -26,49 +24,49 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/elysiajs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/elysiajs/elysia"><b>elysiajs/elysia</b></a><br><sub>Ergonomic Framework for Humans</sub></td>
-<td align="right"><b>19,382</b></td>
+<td align="right"><b>19,400</b></td>
 <td align="right">615</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/satnaing.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/satnaing/shadcn-admin"><b>satnaing/shadcn-admin</b></a><br><sub>Admin Dashboard UI built with Shadcn and Vite.</sub></td>
-<td align="right"><b>16,948</b></td>
-<td align="right">2,536</td>
+<td align="right"><b>16,985</b></td>
+<td align="right">2,545</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/StockSharp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/StockSharp/StockSharp"><b>StockSharp/StockSharp</b></a><br><sub>Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, cryp…</sub></td>
-<td align="right"><b>11,146</b></td>
-<td align="right">2,317</td>
+<td align="right"><b>11,156</b></td>
+<td align="right">2,324</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">4</td>
-<td><img src="https://github.com/Aethersailor.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Aethersailor/Custom_OpenClash_Rules"><b>Aethersailor/Custom&#95;OpenClash&#95;Rules</b></a><br><sub>面向 OpenClash 用户的配置、订阅转换模板、YAML、规则、覆写模块、脚本与中文教程。</sub></td>
-<td align="right"><b>6,880</b></td>
-<td align="right">1,424</td>
-<td>Shell</td>
+<td><img src="https://github.com/danyuchn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/danyuchn/asd-ste100-skill"><b>danyuchn/asd-ste100-skill</b></a><br><sub>ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing E…</sub></td>
+<td align="right"><b>6,901</b></td>
+<td align="right">396</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">5</td>
-<td><img src="https://github.com/danyuchn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/danyuchn/asd-ste100-skill"><b>danyuchn/asd-ste100-skill</b></a><br><sub>ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing E…</sub></td>
-<td align="right"><b>6,808</b></td>
-<td align="right">391</td>
-<td>Python</td>
+<td><img src="https://github.com/Aethersailor.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Aethersailor/Custom_OpenClash_Rules"><b>Aethersailor/Custom&#95;OpenClash&#95;Rules</b></a><br><sub>面向 OpenClash 用户的配置、订阅转换模板、YAML、规则、覆写模块、脚本与中文教程。</sub></td>
+<td align="right"><b>6,884</b></td>
+<td align="right">1,426</td>
+<td>Shell</td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/Aikoyori.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Aikoyori/ProgrammingVTuberLogos"><b>Aikoyori/ProgrammingVTuberLogos</b></a><br><sub>High-quality PNGs for logos I made for fun</sub></td>
-<td align="right"><b>6,245</b></td>
+<td align="right"><b>6,246</b></td>
 <td align="right">298</td>
 <td>CSS</td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/satnaing.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/satnaing/astro-paper"><b>satnaing/astro-paper</b></a><br><sub>A minimal, accessible and SEO-friendly Astro blog theme.</sub></td>
-<td align="right"><b>5,222</b></td>
+<td align="right"><b>5,230</b></td>
 <td align="right">1,133</td>
 <td>Astro</td>
 </tr>
@@ -690,38 +688,38 @@
 </tr>
 <tr>
 <td align="right">96</td>
-<td><img src="https://github.com/Felwin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Felwin/scroll-o-script-font"><b>Felwin/scroll-o-script-font</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">0</td>
-<td>CSS</td>
+<td><img src="https://github.com/lukechilds.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lukechilds/gifgen"><b>lukechilds/gifgen</b></a><br><sub>Simple high quality GIF encoding</sub></td>
+<td align="right"><b>567</b></td>
+<td align="right">28</td>
+<td>Shell</td>
 </tr>
 <tr>
 <td align="right">97</td>
-<td><img src="https://github.com/kuhllorikeet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kuhllorikeet/KuhlLorikeet"><b>kuhllorikeet/KuhlLorikeet</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">0</td>
+<td><img src="https://github.com/TheAuditorTool.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TheAuditorTool/Auditor"><b>TheAuditorTool/Auditor</b></a><br><sub>Release channel for TheAuditor — see blog.theauditortool.com</sub></td>
+<td align="right"><b>550</b></td>
+<td align="right">58</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">98</td>
-<td><img src="https://github.com/PlaySafe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PlaySafe/impresario"><b>PlaySafe/impresario</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">0</td>
-<td>Java</td>
+<td><img src="https://github.com/norsez.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/norsez/BDDynamicGridViewController"><b>norsez/BDDynamicGridViewController</b></a><br><sub>Data-aware view-controller that displays a UIView list in an automatically laid out grid</sub></td>
+<td align="right"><b>548</b></td>
+<td align="right">110</td>
+<td>Objective-C</td>
 </tr>
 <tr>
 <td align="right">99</td>
-<td><img src="https://github.com/stormrs12.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stormrs12/Green-Tetris"><b>stormrs12/Green-Tetris</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">0</td>
-<td>Python</td>
+<td><img src="https://github.com/Le0nX.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Le0nX/ModernRoboticsCpp"><b>Le0nX/ModernRoboticsCpp</b></a><br><sub>Modern Robotics: Mechanics, Planning, and Control C++ Library --- The primary purpose of the provided software is to be…</sub></td>
+<td align="right"><b>545</b></td>
+<td align="right">164</td>
+<td>C++</td>
 </tr>
 <tr>
 <td align="right">100</td>
-<td><img src="https://github.com/appsoluszero.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/appsoluszero/Navarro"><b>appsoluszero/Navarro</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">1</td>
-<td>C#</td>
+<td><img src="https://github.com/teepluss.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/teepluss/laravel-theme"><b>teepluss/laravel-theme</b></a><br><sub>Theme and asset managing for laravel</sub></td>
+<td align="right"><b>540</b></td>
+<td align="right">122</td>
+<td>PHP</td>
 </tr>
 </tbody>
 </table>
@@ -729,10 +727,9 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 2 stars; 119 attributed candidates are tracked.
-- 5 entries were carried over from the previous dataset and are pending revalidation.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 540 stars; 128 attributed candidates are tracked.
 - 113 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 185 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

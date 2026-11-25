@@ -30,7 +30,7 @@
   {"rank":21,"id":"MDQ6VXNlcjg1MTA5NzUz","login":"mudjaycker","name":"MARYIMANA BUTOYI","url":"https://github.com/mudjaycker","avatarUrl":"https://avatars.githubusercontent.com/u/85109753?s=80&v=4","followers":36,"publicRepos":24,"location":"Bujumbura/BURUNDI","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":22,"id":"MDQ6VXNlcjQ4Mzk2NTU4","login":"arsou2015","name":"Arsene Nduwayo","url":"https://github.com/arsou2015","avatarUrl":"https://avatars.githubusercontent.com/u/48396558?s=80&v=4","followers":34,"publicRepos":2,"location":"Burundi","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":23,"id":"MDQ6VXNlcjYwNzU0MDE5","login":"IGICOCORO","name":"Guy-Michel NDUWIMANA","url":"https://github.com/IGICOCORO","avatarUrl":"https://avatars.githubusercontent.com/u/60754019?s=80&v=4","followers":33,"publicRepos":44,"location":"Bujumbura, Burundi","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
-  {"rank":24,"id":"MDQ6VXNlcjgzNTA5NzI2","login":"TonyBimenyi","name":null,"url":"https://github.com/TonyBimenyi","avatarUrl":"https://avatars.githubusercontent.com/u/83509726?s=80&v=4","followers":32,"publicRepos":60,"location":"Bujumbura, Burundi","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":24,"id":"MDQ6VXNlcjgzNTA5NzI2","login":"TonyBimenyi","name":null,"url":"https://github.com/TonyBimenyi","avatarUrl":"https://avatars.githubusercontent.com/u/83509726?s=80&v=4","followers":32,"publicRepos":60,"location":"Bujumbura, Burundi","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-25"},
   {"rank":25,"id":"MDQ6VXNlcjY4ODE3NjAz","login":"joffreynk","name":"Joffrey NKESHIMANA","url":"https://github.com/joffreynk","avatarUrl":"https://avatars.githubusercontent.com/u/68817603?s=80&v=4","followers":30,"publicRepos":114,"location":"Bujumbura-BURUNDI","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":26,"id":"U_kgDOCBKd9w","login":"wivinnasri","name":"Wivin Nasri","url":"https://github.com/wivinnasri","avatarUrl":"https://avatars.githubusercontent.com/u/135437815?s=80&v=4","followers":29,"publicRepos":3,"location":"Bujumbura,Burundi","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":27,"id":"MDQ6VXNlcjcyODY2MDYw","login":"ShwaibLeBon","name":"Shwaïb LeBon Ndabashinze","url":"https://github.com/ShwaibLeBon","avatarUrl":"https://avatars.githubusercontent.com/u/72866060?s=80&v=4","followers":28,"publicRepos":43,"location":"Bujumbura, Burundi","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
@@ -502,8 +502,8 @@
   {"rank":493,"id":"U_kgDOFDfzzA","login":"yves-nd","name":"Yves Ndayizeye","url":"https://github.com/yves-nd","avatarUrl":"https://avatars.githubusercontent.com/u/339211212?s=80&v=4","followers":0,"publicRepos":0,"location":"Burundi","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":494,"id":"MDQ6VXNlcjg2MzQxMzYx","login":"Zebulonkuzo","name":"Zebulon KUZORYIMANA","url":"https://github.com/Zebulonkuzo","avatarUrl":"https://avatars.githubusercontent.com/u/86341361?s=80&v=4","followers":0,"publicRepos":0,"location":"Burundi","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "d655a0d183dd70d8",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "838292a33f54cacd",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

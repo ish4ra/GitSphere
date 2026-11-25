@@ -24,85 +24,85 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/Chalarangelo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Chalarangelo/30-seconds-of-code"><b>Chalarangelo/30-seconds-of-code</b></a><br><sub>Coding articles to level up your development skills</sub></td>
-<td align="right"><b>129,596</b></td>
-<td align="right">12,507</td>
+<td align="right"><b>129,619</b></td>
+<td align="right">12,499</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/kataras.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kataras/iris"><b>kataras/iris</b></a><br><sub>The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable…</sub></td>
-<td align="right"><b>25,555</b></td>
+<td align="right"><b>25,554</b></td>
 <td align="right">2,427</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/Chalarangelo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Chalarangelo/30-seconds-of-css"><b>Chalarangelo/30-seconds-of-css</b></a> <sub>archived</sub><br><sub>Short CSS code snippets for all your development needs</sub></td>
-<td align="right"><b>15,957</b></td>
-<td align="right">990</td>
+<td align="right"><b>15,954</b></td>
+<td align="right">989</td>
 <td>CSS</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/k4m4.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/k4m4/terminals-are-sexy"><b>k4m4/terminals-are-sexy</b></a><br><sub>💥 A curated list of Terminal frameworks, plugins &amp; resources for CLI lovers.</sub></td>
-<td align="right"><b>13,166</b></td>
+<td align="right"><b>13,165</b></td>
 <td align="right">656</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/lipis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lipis/flag-icons"><b>lipis/flag-icons</b></a><br><sub>:flags: A curated collection of all country flags in SVG — plus the CSS for easier integration</sub></td>
-<td align="right"><b>12,541</b></td>
-<td align="right">1,951</td>
+<td align="right"><b>12,545</b></td>
+<td align="right">1,949</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/Chalarangelo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Chalarangelo/30-seconds-of-interviews"><b>Chalarangelo/30-seconds-of-interviews</b></a> <sub>archived</sub><br><sub>A curated collection of common interview questions to help you prepare for your next interview.</sub></td>
-<td align="right"><b>12,119</b></td>
+<td align="right"><b>12,120</b></td>
 <td align="right">963</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/k4m4.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/k4m4/movies-for-hackers"><b>k4m4/movies-for-hackers</b></a><br><sub>🎬 A curated list of movies every hacker &amp; cyberpunk must watch.</sub></td>
-<td align="right"><b>12,021</b></td>
+<td align="right"><b>12,026</b></td>
 <td align="right">928</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/Orama-Interactive.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Orama-Interactive/Pixelorama"><b>Orama-Interactive/Pixelorama</b></a><br><sub>Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to…</sub></td>
-<td align="right"><b>11,168</b></td>
-<td align="right">619</td>
+<td align="right"><b>11,202</b></td>
+<td align="right">623</td>
 <td>GDScript</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/Chalarangelo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Chalarangelo/30-seconds-of-python"><b>Chalarangelo/30-seconds-of-python</b></a> <sub>archived</sub><br><sub>Short Python code snippets for all your development needs</sub></td>
-<td align="right"><b>8,810</b></td>
+<td align="right"><b>8,808</b></td>
 <td align="right">1,238</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/tinyauthapp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tinyauthapp/tinyauth"><b>tinyauthapp/tinyauth</b></a><br><sub>The tiniest OpenID Certified™ authorization and authentication server you have ever seen.</sub></td>
-<td align="right"><b>8,528</b></td>
-<td align="right">296</td>
+<td align="right"><b>8,539</b></td>
+<td align="right">299</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/dspinellis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dspinellis/unix-history-repo"><b>dspinellis/unix-history-repo</b></a><br><sub>Continuous Unix commit history from 1970 until today</sub></td>
-<td align="right"><b>7,324</b></td>
+<td align="right"><b>7,326</b></td>
 <td align="right">506</td>
 <td>Assembly</td>
 </tr>
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/S1ckB0y1337.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet"><b>S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet</b></a><br><sub>A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.</sub></td>
-<td align="right"><b>6,815</b></td>
-<td align="right">1,328</td>
+<td align="right"><b>6,819</b></td>
+<td align="right">1,331</td>
 <td>—</td>
 </tr>
 <tr>
@@ -115,7 +115,7 @@
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/JuliaPluto.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JuliaPluto/Pluto.jl"><b>JuliaPluto/Pluto.jl</b></a><br><sub>🎈 Simple reactive notebooks for Julia</sub></td>
-<td align="right"><b>5,410</b></td>
+<td align="right"><b>5,413</b></td>
 <td align="right">353</td>
 <td>JavaScript</td>
 </tr>
@@ -129,15 +129,15 @@
 <tr>
 <td align="right">16</td>
 <td><img src="https://github.com/pablof7z.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pablof7z/chardin.js"><b>pablof7z/chardin.js</b></a><br><sub>Simple overlay instructions for your apps.</sub></td>
-<td align="right"><b>4,952</b></td>
+<td align="right"><b>4,950</b></td>
 <td align="right">484</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/sgoudelis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sgoudelis/ground-station"><b>sgoudelis/ground-station</b></a><br><sub>Browser-based ground station suite for celestial body, mission and satellite tracking, SDR reception, hardware control,…</sub></td>
-<td align="right"><b>4,897</b></td>
-<td align="right">849</td>
+<td align="right"><b>4,900</b></td>
+<td align="right">850</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 693 stars; 138 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 693 stars; 140 attributed candidates are tracked.
 - 123 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 149 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

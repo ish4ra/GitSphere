@@ -5,15 +5,15 @@
 "country": {"code":"GS","name":"South Georgia & South Sandwich Islands","slug":"south-georgia-south-sandwich-islands"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":4,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":22,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":4,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":22,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"U_kgDODrKFzg","login":"Voblit","name":"Voblit","url":"https://github.com/Voblit","avatarUrl":"https://avatars.githubusercontent.com/u/246580686?s=80&v=4","followers":7,"publicRepos":25,"location":"SIQQ 1ZZ, South Georgia & South Sandwich Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":2,"id":"U_kgDOCu017w","login":"goobersmustik","name":null,"url":"https://github.com/goobersmustik","avatarUrl":"https://avatars.githubusercontent.com/u/183317999?s=80&v=4","followers":0,"publicRepos":5,"location":"South Georgia & South Sandwich Islands (GS)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":3,"id":"U_kgDOCuBZiw","login":"sweetgermanakxo","name":null,"url":"https://github.com/sweetgermanakxo","avatarUrl":"https://avatars.githubusercontent.com/u/182475147?s=80&v=4","followers":0,"publicRepos":4,"location":"South Georgia & South Sandwich Islands (GS)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":4,"id":"U_kgDOBiioNA","login":"60928375092815","name":"60928375092815","url":"https://github.com/60928375092815","avatarUrl":"https://avatars.githubusercontent.com/u/103327796?s=80&v=4","followers":0,"publicRepos":3,"location":"Grytviken","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "f7f0f22463f7358f",
-"updatedAt": "2026-11-23T03:24:49.438Z",
+"contentHash": "86c6b662603d279e",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-23T03:24:49.438Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

@@ -24,148 +24,148 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/iluwatar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/iluwatar/java-design-patterns"><b>iluwatar/java-design-patterns</b></a><br><sub>Design patterns implemented in Java</sub></td>
-<td align="right"><b>94,897</b></td>
-<td align="right">27,317</td>
+<td align="right"><b>94,909</b></td>
+<td align="right">27,311</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/Asabeneh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Asabeneh/30-Days-Of-Python"><b>Asabeneh/30-Days-Of-Python</b></a><br><sub>The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days…</sub></td>
-<td align="right"><b>79,293</b></td>
-<td align="right">14,199</td>
+<td align="right"><b>79,517</b></td>
+<td align="right">14,229</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/Asabeneh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Asabeneh/30-Days-Of-JavaScript"><b>Asabeneh/30-Days-Of-JavaScript</b></a><br><sub>30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days…</sub></td>
-<td align="right"><b>47,011</b></td>
-<td align="right">10,454</td>
+<td align="right"><b>47,012</b></td>
+<td align="right">10,449</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/Asabeneh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Asabeneh/30-Days-Of-React"><b>Asabeneh/30-Days-Of-React</b></a><br><sub>30 Days of React challenge is a step by step guide to learn React in 30 days. These videos may help too: https://www.yo…</sub></td>
-<td align="right"><b>27,525</b></td>
-<td align="right">7,647</td>
+<td align="right"><b>27,531</b></td>
+<td align="right">7,650</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/mxgmn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mxgmn/WaveFunctionCollapse"><b>mxgmn/WaveFunctionCollapse</b></a><br><sub>Bitmap &amp; tilemap generation from a single example with the help of ideas from quantum mechanics</sub></td>
-<td align="right"><b>25,548</b></td>
-<td align="right">1,370</td>
+<td align="right"><b>25,551</b></td>
+<td align="right">1,368</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/wekan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wekan/wekan"><b>wekan/wekan</b></a><br><sub>FLOSS kanban, built with Meteor. Official Public Support at GitHub issues only. Official Private Pre-Paid Support at ht…</sub></td>
-<td align="right"><b>21,174</b></td>
-<td align="right">3,004</td>
+<td align="right"><b>21,177</b></td>
+<td align="right">3,003</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/petkaantonov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/petkaantonov/bluebird"><b>petkaantonov/bluebird</b></a><br><sub>:bird: :zap: Bluebird is a full featured promise library with unmatched performance.</sub></td>
-<td align="right"><b>20,456</b></td>
+<td align="right"><b>20,452</b></td>
 <td align="right">2,297</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/amosblomqvist.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/amosblomqvist/learnharness"><b>amosblomqvist/learnharness</b></a><br><sub>Agent harness for learning difficult things.</sub></td>
-<td align="right"><b>11,029</b></td>
-<td align="right">1,437</td>
+<td align="right"><b>12,375</b></td>
+<td align="right">1,567</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/haltu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/haltu/muuri"><b>haltu/muuri</b></a><br><sub>Infinite responsive, sortable, filterable and draggable layouts</sub></td>
-<td align="right"><b>10,936</b></td>
-<td align="right">643</td>
+<td align="right"><b>10,935</b></td>
+<td align="right">644</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/Atarity.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Atarity/deploy-your-own-saas"><b>Atarity/deploy-your-own-saas</b></a><br><sub>List of &quot;only yours&quot; cloud services for everyday needs :black&#95;flag:</sub></td>
-<td align="right"><b>10,210</b></td>
-<td align="right">759</td>
+<td align="right"><b>10,217</b></td>
+<td align="right">758</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/nuejs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nuejs/nue"><b>nuejs/nue</b></a><br><sub>Fastest way to build modern websites</sub></td>
-<td align="right"><b>8,801</b></td>
+<td align="right"><b>8,802</b></td>
 <td align="right">260</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/mxgmn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mxgmn/MarkovJunior"><b>mxgmn/MarkovJunior</b></a><br><sub>Probabilistic language based on pattern matching and constraint propagation, 153 examples</sub></td>
-<td align="right"><b>8,536</b></td>
+<td align="right"><b>8,541</b></td>
 <td align="right">368</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">13</td>
 <td><img src="https://github.com/TeamVanced.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TeamVanced/VancedManager"><b>TeamVanced/VancedManager</b></a> <sub>archived</sub><br><sub>Vanced Installer</sub></td>
-<td align="right"><b>8,110</b></td>
+<td align="right"><b>8,111</b></td>
 <td align="right">1,071</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/tulir.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tulir/whatsmeow"><b>tulir/whatsmeow</b></a><br><sub>Go library for the WhatsApp web multidevice API</sub></td>
-<td align="right"><b>7,918</b></td>
+<td align="right"><b>7,940</b></td>
 <td align="right">1,337</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/kimmobrunfeldt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kimmobrunfeldt/progressbar.js"><b>kimmobrunfeldt/progressbar.js</b></a><br><sub>Responsive and slick progress bars</sub></td>
-<td align="right"><b>7,846</b></td>
+<td align="right"><b>7,844</b></td>
 <td align="right">1,355</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">16</td>
 <td><img src="https://github.com/agronholm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/agronholm/apscheduler"><b>agronholm/apscheduler</b></a><br><sub>Task scheduling library for Python</sub></td>
-<td align="right"><b>7,718</b></td>
-<td align="right">839</td>
+<td align="right"><b>7,723</b></td>
+<td align="right">838</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/alvarcarto.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alvarcarto/url-to-pdf-api"><b>alvarcarto/url-to-pdf-api</b></a><br><sub>Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.</sub></td>
-<td align="right"><b>7,101</b></td>
-<td align="right">777</td>
+<td align="right"><b>7,100</b></td>
+<td align="right">776</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">18</td>
 <td><img src="https://github.com/lhartikk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lhartikk/ArnoldC"><b>lhartikk/ArnoldC</b></a><br><sub>Arnold Schwarzenegger based programming language</sub></td>
-<td align="right"><b>6,882</b></td>
+<td align="right"><b>6,883</b></td>
 <td align="right">294</td>
 <td>Scala</td>
 </tr>
 <tr>
 <td align="right">19</td>
 <td><img src="https://github.com/jerry-git.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jerry-git/learn-python3"><b>jerry-git/learn-python3</b></a><br><sub>Jupyter notebooks for teaching/learning Python 3</sub></td>
-<td align="right"><b>6,875</b></td>
-<td align="right">1,837</td>
+<td align="right"><b>6,876</b></td>
+<td align="right">1,839</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">20</td>
 <td><img src="https://github.com/kijai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kijai/ComfyUI-WanVideoWrapper"><b>kijai/ComfyUI-WanVideoWrapper</b></a></td>
-<td align="right"><b>6,825</b></td>
-<td align="right">718</td>
+<td align="right"><b>6,832</b></td>
+<td align="right">720</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/marlonrichert.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/marlonrichert/zsh-autocomplete"><b>marlonrichert/zsh-autocomplete</b></a><br><sub>🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.</sub></td>
-<td align="right"><b>6,799</b></td>
-<td align="right">208</td>
+<td align="right"><b>6,801</b></td>
+<td align="right">209</td>
 <td>Shell</td>
 </tr>
 <tr>
@@ -178,14 +178,14 @@
 <tr>
 <td align="right">23</td>
 <td><img src="https://github.com/youssefHosni.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers"><b>youssefHosni/Data-Science-Interview-Questions-Answers</b></a><br><sub>Curated list of data science interview questions and answers</sub></td>
-<td align="right"><b>5,912</b></td>
-<td align="right">1,291</td>
+<td align="right"><b>5,914</b></td>
+<td align="right">1,289</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">24</td>
 <td><img src="https://github.com/memononen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/memononen/nanovg"><b>memononen/nanovg</b></a><br><sub>Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations.</sub></td>
-<td align="right"><b>5,745</b></td>
+<td align="right"><b>5,748</b></td>
 <td align="right">818</td>
 <td>C</td>
 </tr>
@@ -199,7 +199,7 @@
 <tr>
 <td align="right">26</td>
 <td><img src="https://github.com/amosgyamfi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/amosgyamfi/open-swiftui-animations"><b>amosgyamfi/open-swiftui-animations</b></a><br><sub>You don&#39;t need an animation library to add a simple effect to your SwiftUI app. Create it yourself with SwiftUI. This r…</sub></td>
-<td align="right"><b>5,695</b></td>
+<td align="right"><b>5,694</b></td>
 <td align="right">297</td>
 <td>Swift</td>
 </tr>
@@ -214,7 +214,7 @@
 <td align="right">28</td>
 <td><img src="https://github.com/lhartikk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lhartikk/naivechain"><b>lhartikk/naivechain</b></a><br><sub>A blockchain implementation in 200 lines of code</sub></td>
 <td align="right"><b>5,291</b></td>
-<td align="right">1,120</td>
+<td align="right">1,119</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -227,22 +227,22 @@
 <tr>
 <td align="right">30</td>
 <td><img src="https://github.com/szabodanika.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/szabodanika/microbin"><b>szabodanika/microbin</b></a><br><sub>A secure, configurable file-sharing and URL shortening web app written in Rust.</sub></td>
-<td align="right"><b>4,640</b></td>
-<td align="right">330</td>
+<td align="right"><b>4,645</b></td>
+<td align="right">332</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">31</td>
 <td><img src="https://github.com/tapio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tapio/live-server"><b>tapio/live-server</b></a><br><sub>A simple development http server with live reload capability.</sub></td>
-<td align="right"><b>4,568</b></td>
-<td align="right">489</td>
+<td align="right"><b>4,569</b></td>
+<td align="right">488</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">32</td>
 <td><img src="https://github.com/kasper.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kasper/phoenix"><b>kasper/phoenix</b></a><br><sub>A lightweight macOS window and app manager scriptable with JavaScript</sub></td>
-<td align="right"><b>4,542</b></td>
-<td align="right">126</td>
+<td align="right"><b>4,541</b></td>
+<td align="right">127</td>
 <td>Objective-C</td>
 </tr>
 <tr>
@@ -262,14 +262,14 @@
 <tr>
 <td align="right">35</td>
 <td><img src="https://github.com/amosblomqvist.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/amosblomqvist/learn"><b>amosblomqvist/learn</b></a><br><sub>My AI learning system.</sub></td>
-<td align="right"><b>4,281</b></td>
-<td align="right">456</td>
+<td align="right"><b>4,301</b></td>
+<td align="right">457</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">36</td>
 <td><img src="https://github.com/staltz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/staltz/rxmarbles"><b>staltz/rxmarbles</b></a> <sub>archived</sub><br><sub>Interactive diagrams of Rx Observables</sub></td>
-<td align="right"><b>4,192</b></td>
+<td align="right"><b>4,191</b></td>
 <td align="right">541</td>
 <td>JavaScript</td>
 </tr>

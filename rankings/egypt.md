@@ -24,43 +24,43 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/D4Vinci.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/D4Vinci/Scrapling"><b>D4Vinci/Scrapling</b></a><br><sub>🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don&#39;t be shy,…</sub></td>
-<td align="right"><b>104,906</b></td>
-<td align="right">10,976</td>
+<td align="right"><b>105,715</b></td>
+<td align="right">11,080</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/aboul3la.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aboul3la/Sublist3r"><b>aboul3la/Sublist3r</b></a><br><sub>Fast subdomains enumeration tool for penetration testers</sub></td>
-<td align="right"><b>11,100</b></td>
-<td align="right">2,210</td>
+<td align="right"><b>11,102</b></td>
+<td align="right">2,208</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/dodyg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dodyg/practical-aspnetcore"><b>dodyg/practical-aspnetcore</b></a><br><sub>Practical samples of ASP.NET Core 11, 10, 9, 8.0, 7.0, 6.0, 5.0, 3.1, 2.2, and 2.1,projects you can use. Readme contain…</sub></td>
-<td align="right"><b>10,416</b></td>
-<td align="right">1,406</td>
+<td align="right"><b>10,418</b></td>
+<td align="right">1,405</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/streaming-llm"><b>mit-han-lab/streaming-llm</b></a><br><sub>&#91;ICLR 2024&#93; Efficient Streaming Language Models with Attention Sinks</sub></td>
-<td align="right"><b>7,274</b></td>
+<td align="right"><b>7,273</b></td>
 <td align="right">401</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/moudey.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/moudey/Shell"><b>moudey/Shell</b></a><br><sub>Powerful context menu manager for Windows File Explorer</sub></td>
-<td align="right"><b>6,971</b></td>
-<td align="right">282</td>
+<td align="right"><b>6,980</b></td>
+<td align="right">281</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/AhmadIbrahiim.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmadIbrahiim/Website-downloader"><b>AhmadIbrahiim/Website-downloader</b></a><br><sub>💡 Download the complete source code of any website (including all assets). &#91; Javascripts, Stylesheets, Images &#93; using…</sub></td>
-<td align="right"><b>6,207</b></td>
-<td align="right">1,428</td>
+<td align="right"><b>6,497</b></td>
+<td align="right">1,464</td>
 <td>HTML</td>
 </tr>
 <tr>
@@ -73,8 +73,8 @@
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/Moataz-Elmesmary.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Moataz-Elmesmary/Data-Science-Roadmap"><b>Moataz-Elmesmary/Data-Science-Roadmap</b></a><br><sub>Data Science Roadmap from A to Z</sub></td>
-<td align="right"><b>4,429</b></td>
-<td align="right">631</td>
+<td align="right"><b>4,431</b></td>
+<td align="right">632</td>
 <td>—</td>
 </tr>
 <tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 585 stars; 145 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 585 stars; 143 attributed candidates are tracked.
 - 120 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 153 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

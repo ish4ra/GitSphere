@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **210** | 22 Nov 2026 | <a href="../../data/developers/TL.json">JSON</a> |
+| 🟡 Provisional | **211** | 22 Nov 2026 | <a href="../../data/developers/TL.json">JSON</a> |
 
 </div>
 
@@ -1073,419 +1073,426 @@
 </tr>
 <tr>
 <td align="right">151</td>
+<td><a href="https://github.com/nuno-magno17"><img src="https://avatars.githubusercontent.com/u/206990733?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nuno-magno17"><b>nuno magno</b></a><br><sub>&#64;nuno-magno17</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Ainaro</sub></td>
+</tr>
+<tr>
+<td align="right">152</td>
 <td><a href="https://github.com/pires12"><img src="https://avatars.githubusercontent.com/u/26146337?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pires12"><b>pires12</b></a><br><sub>&#64;pires12</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Dili, Timor Leste</sub></td>
 </tr>
 <tr>
-<td align="right">152</td>
+<td align="right">153</td>
 <td><a href="https://github.com/ribeirosoares"><img src="https://avatars.githubusercontent.com/u/141474419?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ribeirosoares"><b>Carlos Soares Ribeiro,SE,MM</b></a><br><sub>&#64;ribeirosoares</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Dili Timor leste, Timor Plaza</sub></td>
 </tr>
 <tr>
-<td align="right">153</td>
+<td align="right">154</td>
 <td><a href="https://github.com/Rliliana"><img src="https://avatars.githubusercontent.com/u/54521728?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rliliana"><b>Rliliana</b></a><br><sub>&#64;Rliliana</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>DIli, Timor-Leste</sub></td>
 </tr>
 <tr>
-<td align="right">154</td>
+<td align="right">155</td>
 <td><a href="https://github.com/salusafixi"><img src="https://avatars.githubusercontent.com/u/38877556?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/salusafixi"><b>Salustiano Filipe Ximenes</b></a><br><sub>&#64;salusafixi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Timor Leste</sub></td>
 </tr>
 <tr>
-<td align="right">155</td>
+<td align="right">156</td>
 <td><a href="https://github.com/slopes75"><img src="https://avatars.githubusercontent.com/u/62318620?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/slopes75"><b>slopes75</b></a><br><sub>&#64;slopes75</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Timor-Leste</sub></td>
 </tr>
 <tr>
-<td align="right">156</td>
+<td align="right">157</td>
 <td><a href="https://github.com/SumsarWasTaken"><img src="https://avatars.githubusercontent.com/u/104291402?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SumsarWasTaken"><b>Sumsar</b></a><br><sub>&#64;SumsarWasTaken</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Timor Leste</sub></td>
 </tr>
 <tr>
-<td align="right">157</td>
+<td align="right">158</td>
 <td><a href="https://github.com/tciipdc"><img src="https://avatars.githubusercontent.com/u/343274443?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tciipdc"><b>Technical Computer and Informatics - TCI - IPDC</b></a><br><sub>&#64;tciipdc</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Dili, Timor-Leste</sub></td>
 </tr>
 <tr>
-<td align="right">158</td>
+<td align="right">159</td>
 <td><a href="https://github.com/timordan"><img src="https://avatars.githubusercontent.com/u/13927819?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/timordan"><b>Dan Conroy</b></a><br><sub>&#64;timordan</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Dili, Timor-Leste</sub></td>
 </tr>
 <tr>
-<td align="right">159</td>
+<td align="right">160</td>
 <td><a href="https://github.com/uasuf"><img src="https://avatars.githubusercontent.com/u/35416122?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/uasuf"><b>uasuf</b></a><br><sub>&#64;uasuf</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Timor-Leste</sub></td>
 </tr>
 <tr>
-<td align="right">160</td>
+<td align="right">161</td>
 <td><a href="https://github.com/vanafrooo"><img src="https://avatars.githubusercontent.com/u/91870961?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vanafrooo"><b>Vana Lobato</b></a><br><sub>&#64;vanafrooo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Dili, Timor-Leste</sub></td>
 </tr>
 <tr>
-<td align="right">161</td>
+<td align="right">162</td>
 <td><a href="https://github.com/A-Kharu"><img src="https://avatars.githubusercontent.com/u/132721717?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/A-Kharu"><b>Ajito Nelson Lúcio da Costa</b></a><br><sub>&#64;A-Kharu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Timor-Leste</sub></td>
 </tr>
 <tr>
-<td align="right">162</td>
+<td align="right">163</td>
 <td><a href="https://github.com/adao-filipe19"><img src="https://avatars.githubusercontent.com/u/129263044?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adao-filipe19"><b>Adao Filipe</b></a><br><sub>&#64;adao-filipe19</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Dili, Timor Leste</sub></td>
 </tr>
 <tr>
-<td align="right">163</td>
+<td align="right">164</td>
 <td><a href="https://github.com/andrecunha19"><img src="https://avatars.githubusercontent.com/u/49561694?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andrecunha19"><b>Andrecunha93</b></a><br><sub>&#64;andrecunha19</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Timor-Leste</sub></td>
 </tr>
 <tr>
-<td align="right">164</td>
+<td align="right">165</td>
 <td><a href="https://github.com/angelina-oss"><img src="https://avatars.githubusercontent.com/u/253492984?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/angelina-oss"><b>Angelina Baptista Freitas</b></a><br><sub>&#64;angelina-oss</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Timor-Leste</sub></td>
 </tr>
 <tr>
-<td align="right">165</td>
+<td align="right">166</td>
 <td><a href="https://github.com/ardiles06parada"><img src="https://avatars.githubusercontent.com/u/62375759?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ardiles06parada"><b>christovao Ardiles Parada</b></a><br><sub>&#64;ardiles06parada</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Timor-Leste</sub></td>
 </tr>
 <tr>
-<td align="right">166</td>
+<td align="right">167</td>
 <td><a href="https://github.com/arina23003"><img src="https://avatars.githubusercontent.com/u/272546629?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arina23003"><b>Alexandrina N.F. Sarmento</b></a><br><sub>&#64;arina23003</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Natarbora, Timor-Leste</sub></td>
 </tr>
 <tr>
-<td align="right">167</td>
+<td align="right">168</td>
 <td><a href="https://github.com/armindojoel1-sudo"><img src="https://avatars.githubusercontent.com/u/274741371?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/armindojoel1-sudo"><b>KEHI METAN</b></a><br><sub>&#64;armindojoel1-sudo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>DILI, TIMOR-LESTE</sub></td>
 </tr>
 <tr>
-<td align="right">168</td>
+<td align="right">169</td>
 <td><a href="https://github.com/Arysantos88"><img src="https://avatars.githubusercontent.com/u/118344348?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Arysantos88"><b>Pascoal Soares dos Santos</b></a><br><sub>&#64;Arysantos88</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Timor Leste</sub></td>
 </tr>
 <tr>
-<td align="right">169</td>
+<td align="right">170</td>
 <td><a href="https://github.com/atanasiolino"><img src="https://avatars.githubusercontent.com/u/69619439?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/atanasiolino"><b>Atanasio Lino Pereira</b></a><br><sub>&#64;atanasiolino</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Dili Timor Leste</sub></td>
 </tr>
 <tr>
-<td align="right">170</td>
+<td align="right">171</td>
 <td><a href="https://github.com/basiliodjm"><img src="https://avatars.githubusercontent.com/u/47378108?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/basiliodjm"><b>Basilio dJM</b></a><br><sub>&#64;basiliodjm</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Dili, Timor Leste</sub></td>
 </tr>
 <tr>
-<td align="right">171</td>
+<td align="right">172</td>
 <td><a href="https://github.com/benevidiovaz-netizen"><img src="https://avatars.githubusercontent.com/u/245434408?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/benevidiovaz-netizen"><b>Benevidio Matias Vaz</b></a><br><sub>&#64;benevidiovaz-netizen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Timor-Leste,Baucau,kelikai Antigo,Namanei,Loirae</sub></td>
 </tr>
 <tr>
-<td align="right">172</td>
+<td align="right">173</td>
 <td><a href="https://github.com/CENTANAtl"><img src="https://avatars.githubusercontent.com/u/230573814?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CENTANAtl"><b>CENTANAtl</b></a><br><sub>&#64;CENTANAtl</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Dili, Timor LEste</sub></td>
 </tr>
 <tr>
-<td align="right">173</td>
+<td align="right">174</td>
 <td><a href="https://github.com/ClarinhoFernandes"><img src="https://avatars.githubusercontent.com/u/164054328?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ClarinhoFernandes"><b>Clarinho Fernandes</b></a><br><sub>&#64;ClarinhoFernandes</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Timor-Leste, Hera</sub></td>
 </tr>
 <tr>
-<td align="right">174</td>
+<td align="right">175</td>
 <td><a href="https://github.com/DannyMaliana"><img src="https://avatars.githubusercontent.com/u/20550809?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DannyMaliana"><b>DannyMaliana</b></a><br><sub>&#64;DannyMaliana</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Dili, Timor-Leste</sub></td>
 </tr>
 <tr>
-<td align="right">175</td>
+<td align="right">176</td>
 <td><a href="https://github.com/dawner1211"><img src="https://avatars.githubusercontent.com/u/52103712?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dawner1211"><b>dawner1211</b></a><br><sub>&#64;dawner1211</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Timor &#95; Leste</sub></td>
 </tr>
 <tr>
-<td align="right">176</td>
+<td align="right">177</td>
 <td><a href="https://github.com/DNSITmoe"><img src="https://avatars.githubusercontent.com/u/226652378?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DNSITmoe"><b>DNSIT</b></a><br><sub>&#64;DNSITmoe</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Timor-Leste</sub></td>
 </tr>
 <tr>
-<td align="right">177</td>
+<td align="right">178</td>
 <td><a href="https://github.com/domingosrobinhomoniz"><img src="https://avatars.githubusercontent.com/u/259770181?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/domingosrobinhomoniz"><b>Robinho Moniz</b></a><br><sub>&#64;domingosrobinhomoniz</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Timor Leste</sub></td>
 </tr>
 <tr>
-<td align="right">178</td>
+<td align="right">179</td>
 <td><a href="https://github.com/elanovhiktorcosta"><img src="https://avatars.githubusercontent.com/u/34383229?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elanovhiktorcosta"><b>elanovhiktorcosta</b></a><br><sub>&#64;elanovhiktorcosta</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Timor-leste</sub></td>
 </tr>
 <tr>
-<td align="right">179</td>
+<td align="right">180</td>
 <td><a href="https://github.com/elisiodamiaomoreira"><img src="https://avatars.githubusercontent.com/u/82303043?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elisiodamiaomoreira"><b>Elisio D&#39;Moreira</b></a><br><sub>&#64;elisiodamiaomoreira</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Timor - leste</sub></td>
 </tr>
 <tr>
-<td align="right">180</td>
+<td align="right">181</td>
 <td><a href="https://github.com/elizu"><img src="https://avatars.githubusercontent.com/u/23061243?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elizu"><b>elizu sousa</b></a><br><sub>&#64;elizu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Timor-Leste</sub></td>
 </tr>
 <tr>
-<td align="right">181</td>
+<td align="right">182</td>
 <td><a href="https://github.com/esalpaha"><img src="https://avatars.githubusercontent.com/u/29729909?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/esalpaha"><b>Eetu Salpaharju</b></a><br><sub>&#64;esalpaha</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Timor-Leste</sub></td>
 </tr>
 <tr>
-<td align="right">182</td>
+<td align="right">183</td>
 <td><a href="https://github.com/FAMCouto"><img src="https://avatars.githubusercontent.com/u/155710299?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FAMCouto"><b>Filipe Abraão Martins Couto</b></a><br><sub>&#64;FAMCouto</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Díli, Timor-Leste</sub></td>
 </tr>
 <tr>
-<td align="right">183</td>
+<td align="right">184</td>
 <td><a href="https://github.com/FaustoAgau16"><img src="https://avatars.githubusercontent.com/u/215503273?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FaustoAgau16"><b>Fausto Carlos Filipe da Silva</b></a><br><sub>&#64;FaustoAgau16</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Timor-Leste</sub></td>
 </tr>
 <tr>
-<td align="right">184</td>
+<td align="right">185</td>
 <td><a href="https://github.com/gsigdev"><img src="https://avatars.githubusercontent.com/u/271388905?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gsigdev"><b>gsigdev</b></a><br><sub>&#64;gsigdev</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Dili, Timor-Leste</sub></td>
 </tr>
 <tr>
-<td align="right">185</td>
+<td align="right">186</td>
 <td><a href="https://github.com/GuidePostTimor"><img src="https://avatars.githubusercontent.com/u/241139518?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GuidePostTimor"><b>Guide Post Timor-Leste</b></a><br><sub>&#64;GuidePostTimor</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Dili, TImor-Leste</sub></td>
 </tr>
 <tr>
-<td align="right">186</td>
+<td align="right">187</td>
 <td><a href="https://github.com/hornay2022"><img src="https://avatars.githubusercontent.com/u/130038373?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hornay2022"><b>Osorio Moreira Hornay</b></a><br><sub>&#64;hornay2022</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Dili Timor-Leste</sub></td>
 </tr>
 <tr>
-<td align="right">187</td>
+<td align="right">188</td>
 <td><a href="https://github.com/ivobelo"><img src="https://avatars.githubusercontent.com/u/91179476?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ivobelo"><b>Ivo Juvito B. Belo</b></a><br><sub>&#64;ivobelo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Dili, Timor-Leste</sub></td>
 </tr>
 <tr>
-<td align="right">188</td>
+<td align="right">189</td>
 <td><a href="https://github.com/jerrycatalan06"><img src="https://avatars.githubusercontent.com/u/156865337?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jerrycatalan06"><b>Jerry&#95;Catalan&#95;06</b></a><br><sub>&#64;jerrycatalan06</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Dili, Timor Leste</sub></td>
 </tr>
 <tr>
-<td align="right">189</td>
+<td align="right">190</td>
 <td><a href="https://github.com/joanicodacostaparada"><img src="https://avatars.githubusercontent.com/u/74745492?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joanicodacostaparada"><b>Joanico da costa Parada</b></a><br><sub>&#64;joanicodacostaparada</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Dili-Timor leste</sub></td>
 </tr>
 <tr>
-<td align="right">190</td>
+<td align="right">191</td>
 <td><a href="https://github.com/jonasdelima22-dev"><img src="https://avatars.githubusercontent.com/u/285672953?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jonasdelima22-dev"><b>Jonas De Lima</b></a><br><sub>&#64;jonasdelima22-dev</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Timor - Leste</sub></td>
 </tr>
 <tr>
-<td align="right">191</td>
+<td align="right">192</td>
 <td><a href="https://github.com/Leandromb1980"><img src="https://avatars.githubusercontent.com/u/124579013?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Leandromb1980"><b>Leandro Madeira Branco</b></a><br><sub>&#64;Leandromb1980</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Timor Leste</sub></td>
 </tr>
 <tr>
-<td align="right">192</td>
+<td align="right">193</td>
 <td><a href="https://github.com/MarcalDedeus"><img src="https://avatars.githubusercontent.com/u/47047633?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MarcalDedeus"><b>Lucas soares</b></a><br><sub>&#64;MarcalDedeus</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Dili timor Leste</sub></td>
 </tr>
 <tr>
-<td align="right">193</td>
+<td align="right">194</td>
 <td><a href="https://github.com/marino10407"><img src="https://avatars.githubusercontent.com/u/140345395?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marino10407"><b>marino10407</b></a><br><sub>&#64;marino10407</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Timor Leste</sub></td>
 </tr>
 <tr>
-<td align="right">194</td>
+<td align="right">195</td>
 <td><a href="https://github.com/MARTINHO08"><img src="https://avatars.githubusercontent.com/u/105534492?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MARTINHO08"><b>MARTINHO08</b></a><br><sub>&#64;MARTINHO08</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>East Timor</sub></td>
 </tr>
 <tr>
-<td align="right">195</td>
+<td align="right">196</td>
 <td><a href="https://github.com/metajdss"><img src="https://avatars.githubusercontent.com/u/317595632?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/metajdss"><b>JUVITO DA SILVA SOARES</b></a><br><sub>&#64;metajdss</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Timor-Leste</sub></td>
 </tr>
 <tr>
-<td align="right">196</td>
+<td align="right">197</td>
 <td><a href="https://github.com/moises20071990"><img src="https://avatars.githubusercontent.com/u/83243348?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/moises20071990"><b>Moises Soares</b></a><br><sub>&#64;moises20071990</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Timor Leste</sub></td>
 </tr>
 <tr>
-<td align="right">197</td>
+<td align="right">198</td>
 <td><a href="https://github.com/MoisesChemical"><img src="https://avatars.githubusercontent.com/u/220922623?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MoisesChemical"><b>Moises Gomes</b></a><br><sub>&#64;MoisesChemical</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Timor-Leste</sub></td>
 </tr>
 <tr>
-<td align="right">198</td>
+<td align="right">199</td>
 <td><a href="https://github.com/nadzia"><img src="https://avatars.githubusercontent.com/u/18100911?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nadzia"><b>f-fdtl</b></a><br><sub>&#64;nadzia</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>TIMOR-LESTE</sub></td>
 </tr>
 <tr>
-<td align="right">199</td>
+<td align="right">200</td>
 <td><a href="https://github.com/natalinoguterres"><img src="https://avatars.githubusercontent.com/u/294432456?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/natalinoguterres"><b>Natalino Guterres</b></a><br><sub>&#64;natalinoguterres</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Timor-Leste</sub></td>
 </tr>
 <tr>
-<td align="right">200</td>
+<td align="right">201</td>
 <td><a href="https://github.com/ncastro90"><img src="https://avatars.githubusercontent.com/u/79486803?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ncastro90"><b>Niza de Castro.</b></a><br><sub>&#64;ncastro90</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Dili, timor-Leste</sub></td>
 </tr>
 <tr>
-<td align="right">201</td>
+<td align="right">202</td>
 <td><a href="https://github.com/ncondon-dis"><img src="https://avatars.githubusercontent.com/u/256278727?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ncondon-dis"><b>Nicholas Condon</b></a><br><sub>&#64;ncondon-dis</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Dili, Timor Leste</sub></td>
 </tr>
 <tr>
-<td align="right">202</td>
+<td align="right">203</td>
 <td><a href="https://github.com/onivong"><img src="https://avatars.githubusercontent.com/u/68549840?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/onivong"><b>Antonio Francisco Carlos Sarmento Vong</b></a><br><sub>&#64;onivong</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>East Timor</sub></td>
 </tr>
 <tr>
-<td align="right">203</td>
+<td align="right">204</td>
 <td><a href="https://github.com/rogerioguterres"><img src="https://avatars.githubusercontent.com/u/54521991?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rogerioguterres"><b>rogerioguterres</b></a><br><sub>&#64;rogerioguterres</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Dili, Timor-Leste</sub></td>
 </tr>
 <tr>
-<td align="right">204</td>
+<td align="right">205</td>
 <td><a href="https://github.com/rudaBarbosa"><img src="https://avatars.githubusercontent.com/u/78995646?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rudaBarbosa"><b>Ruda Barbosa</b></a><br><sub>&#64;rudaBarbosa</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Dili, East Timor</sub></td>
 </tr>
 <tr>
-<td align="right">205</td>
+<td align="right">206</td>
 <td><a href="https://github.com/sanahosseini11"><img src="https://avatars.githubusercontent.com/u/334846543?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sanahosseini11"><b>Sana Hosseini</b></a><br><sub>&#64;sanahosseini11</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Dili, Timor-Leste</sub></td>
 </tr>
 <tr>
-<td align="right">206</td>
+<td align="right">207</td>
 <td><a href="https://github.com/Saturnino727"><img src="https://avatars.githubusercontent.com/u/71835724?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Saturnino727"><b>Saturnino da Costa Parlan</b></a><br><sub>&#64;Saturnino727</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Timor Leste</sub></td>
 </tr>
 <tr>
-<td align="right">207</td>
+<td align="right">208</td>
 <td><a href="https://github.com/tavaresnonit"><img src="https://avatars.githubusercontent.com/u/82815991?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tavaresnonit"><b>tavaresnonit</b></a><br><sub>&#64;tavaresnonit</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Timor-leste</sub></td>
 </tr>
 <tr>
-<td align="right">208</td>
+<td align="right">209</td>
 <td><a href="https://github.com/TimorExchange"><img src="https://avatars.githubusercontent.com/u/228560929?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TimorExchange"><b>TimorX</b></a><br><sub>&#64;TimorExchange</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Dili, Timor Leste</sub></td>
 </tr>
 <tr>
-<td align="right">209</td>
+<td align="right">210</td>
 <td><a href="https://github.com/zelia2019"><img src="https://avatars.githubusercontent.com/u/47051236?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zelia2019"><b>Zelia pinto soares</b></a><br><sub>&#64;zelia2019</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Dili timor Leste</sub></td>
 </tr>
 <tr>
-<td align="right">210</td>
+<td align="right">211</td>
 <td><a href="https://github.com/zenithap"><img src="https://avatars.githubusercontent.com/u/90903215?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zenithap"><b>Hiworld</b></a><br><sub>&#64;zenithap</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -1499,7 +1506,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 210 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 211 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 1 of 49 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

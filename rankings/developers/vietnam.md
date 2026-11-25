@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **270** | 22 Nov 2026 | <a href="../../data/developers/VN.json">JSON</a> |
+| 🟡 Provisional | **313** | 22 Nov 2026 | <a href="../../data/developers/VN.json">JSON</a> |
 
 </div>
 
@@ -38,7 +38,7 @@
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/hathach"><img src="https://avatars.githubusercontent.com/u/249515?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hathach"><b>Ha Thach</b></a><br><sub>&#64;hathach</sub></td>
-<td align="right"><b>3,908</b></td>
+<td align="right"><b>3,909</b></td>
 <td align="right">52</td>
 <td><sub>Vietnam 🇻🇳</sub></td>
 </tr>
@@ -59,7 +59,7 @@
 <tr>
 <td align="right">6</td>
 <td><a href="https://github.com/thangchung"><img src="https://avatars.githubusercontent.com/u/422341?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thangchung"><b>Thang Chung</b></a><br><sub>&#64;thangchung</sub></td>
-<td align="right"><b>3,062</b></td>
+<td align="right"><b>3,061</b></td>
 <td align="right">311</td>
 <td><sub>Ho Chi Minh City, Vietnam</sub></td>
 </tr>
@@ -101,14 +101,14 @@
 <tr>
 <td align="right">12</td>
 <td><a href="https://github.com/maxrave-dev"><img src="https://avatars.githubusercontent.com/u/113747128?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maxrave-dev"><b>Nguyễn Đức Tuấn Minh</b></a><br><sub>&#64;maxrave-dev</sub></td>
-<td align="right"><b>1,612</b></td>
+<td align="right"><b>1,626</b></td>
 <td align="right">49</td>
 <td><sub>Vietnam</sub></td>
 </tr>
 <tr>
 <td align="right">13</td>
 <td><a href="https://github.com/ZuzooVn"><img src="https://avatars.githubusercontent.com/u/1429230?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ZuzooVn"><b>Nam Vu</b></a><br><sub>&#64;ZuzooVn</sub></td>
-<td align="right"><b>1,503</b></td>
+<td align="right"><b>1,504</b></td>
 <td align="right">46</td>
 <td><sub>Vietnam</sub></td>
 </tr>
@@ -247,22 +247,22 @@
 </tr>
 <tr>
 <td align="right">33</td>
-<td><a href="https://github.com/phongnguyend"><img src="https://avatars.githubusercontent.com/u/7325455?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/phongnguyend"><b>Phong Nguyen</b></a><br><sub>&#64;phongnguyend</sub></td>
-<td align="right"><b>772</b></td>
-<td align="right">57</td>
-<td><sub>Viet Nam</sub></td>
-</tr>
-<tr>
-<td align="right">34</td>
 <td><a href="https://github.com/huanchain"><img src="https://avatars.githubusercontent.com/u/13021427?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/huanchain"><b>Huan Agent AI</b></a><br><sub>&#64;huanchain</sub></td>
 <td align="right"><b>771</b></td>
 <td align="right">179</td>
 <td><sub>Viet Nam</sub></td>
 </tr>
 <tr>
+<td align="right">34</td>
+<td><a href="https://github.com/phongnguyend"><img src="https://avatars.githubusercontent.com/u/7325455?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/phongnguyend"><b>Phong Nguyen</b></a><br><sub>&#64;phongnguyend</sub></td>
+<td align="right"><b>771</b></td>
+<td align="right">57</td>
+<td><sub>Viet Nam</sub></td>
+</tr>
+<tr>
 <td align="right">35</td>
 <td><a href="https://github.com/vietanhdev"><img src="https://avatars.githubusercontent.com/u/18329471?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vietanhdev"><b>Viet-Anh NGUYEN</b></a><br><sub>&#64;vietanhdev</sub></td>
-<td align="right"><b>753</b></td>
+<td align="right"><b>754</b></td>
 <td align="right">160</td>
 <td><sub>Vietnam</sub></td>
 </tr>
@@ -318,7 +318,7 @@
 <tr>
 <td align="right">43</td>
 <td><a href="https://github.com/YangJiiii"><img src="https://avatars.githubusercontent.com/u/66435047?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YangJiiii"><b>YangJiii</b></a><br><sub>&#64;YangJiiii</sub></td>
-<td align="right"><b>637</b></td>
+<td align="right"><b>638</b></td>
 <td align="right">15</td>
 <td><sub>Việt Nam</sub></td>
 </tr>
@@ -1059,23 +1059,23 @@
 </tr>
 <tr>
 <td align="right">149</td>
+<td><a href="https://github.com/itsfatduck"><img src="https://avatars.githubusercontent.com/u/124025976?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/itsfatduck"><b>fatDuck</b></a><br><sub>&#64;itsfatduck</sub></td>
+<td align="right"><b>239</b></td>
+<td align="right">5</td>
+<td><sub>Vietnam</sub></td>
+</tr>
+<tr>
+<td align="right">150</td>
 <td><a href="https://github.com/vunb"><img src="https://avatars.githubusercontent.com/u/3768250?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vunb"><b>Vu Bao Nhu</b></a><br><sub>&#64;vunb</sub></td>
 <td align="right"><b>238</b></td>
 <td align="right">423</td>
 <td><sub>Hanoi, Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">150</td>
+<td align="right">151</td>
 <td><a href="https://github.com/0x2c7"><img src="https://avatars.githubusercontent.com/u/11613517?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0x2c7"><b>Minh Nguyen</b></a><br><sub>&#64;0x2c7</sub></td>
 <td align="right"><b>237</b></td>
 <td align="right">7</td>
-<td><sub>Vietnam</sub></td>
-</tr>
-<tr>
-<td align="right">151</td>
-<td><a href="https://github.com/itsfatduck"><img src="https://avatars.githubusercontent.com/u/124025976?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/itsfatduck"><b>fatDuck</b></a><br><sub>&#64;itsfatduck</sub></td>
-<td align="right"><b>237</b></td>
-<td align="right">5</td>
 <td><sub>Vietnam</sub></td>
 </tr>
 <tr>
@@ -1444,472 +1444,773 @@
 </tr>
 <tr>
 <td align="right">204</td>
-<td><a href="https://github.com/hoang8f"><img src="https://avatars.githubusercontent.com/u/319726?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hoang8f"><b>Le Van Hoang</b></a><br><sub>&#64;hoang8f</sub></td>
-<td align="right"><b>188</b></td>
-<td align="right">0</td>
-<td><sub>Hà Nội</sub></td>
+<td><a href="https://github.com/trongthanh"><img src="https://avatars.githubusercontent.com/u/234226?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/trongthanh"><b>Thanh Tran</b></a><br><sub>&#64;trongthanh</sub></td>
+<td align="right"><b>192</b></td>
+<td align="right">105</td>
+<td><sub>Ho Chi Minh city, Vietnam</sub></td>
 </tr>
 <tr>
 <td align="right">205</td>
-<td><a href="https://github.com/vndee"><img src="https://avatars.githubusercontent.com/u/28271488?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vndee"><b>Duy Huynh</b></a><br><sub>&#64;vndee</sub></td>
-<td align="right"><b>185</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/nhat-tien"><img src="https://avatars.githubusercontent.com/u/104966222?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nhat-tien"><b>Le Dang Nhat Tien</b></a><br><sub>&#64;nhat-tien</sub></td>
+<td align="right"><b>192</b></td>
+<td align="right">39</td>
 <td><sub>Vietnam</sub></td>
 </tr>
 <tr>
 <td align="right">206</td>
-<td><a href="https://github.com/AlbertoMontalesi"><img src="https://avatars.githubusercontent.com/u/23130353?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlbertoMontalesi"><b>AlbertoM</b></a><br><sub>&#64;AlbertoMontalesi</sub></td>
-<td align="right"><b>184</b></td>
-<td align="right">0</td>
-<td><sub>Ho Chi Minh City</sub></td>
+<td><a href="https://github.com/vothien001"><img src="https://avatars.githubusercontent.com/u/82425295?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vothien001"><b>bogia</b></a><br><sub>&#64;vothien001</sub></td>
+<td align="right"><b>190</b></td>
+<td align="right">3</td>
+<td><sub>Vietnam</sub></td>
 </tr>
 <tr>
 <td align="right">207</td>
-<td><a href="https://github.com/nguyenvanduocit"><img src="https://avatars.githubusercontent.com/u/1256953?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nguyenvanduocit"><b>Duoc Nguyen</b></a><br><sub>&#64;nguyenvanduocit</sub></td>
-<td align="right"><b>182</b></td>
-<td align="right">0</td>
-<td><sub>Việt Nam</sub></td>
+<td><a href="https://github.com/dntai"><img src="https://avatars.githubusercontent.com/u/3754251?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dntai"><b>Tai Do</b></a><br><sub>&#64;dntai</sub></td>
+<td align="right"><b>188</b></td>
+<td align="right">387</td>
+<td><sub>Saigon University, Vietnam</sub></td>
 </tr>
 <tr>
 <td align="right">208</td>
+<td><a href="https://github.com/hoang8f"><img src="https://avatars.githubusercontent.com/u/319726?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hoang8f"><b>Le Van Hoang</b></a><br><sub>&#64;hoang8f</sub></td>
+<td align="right"><b>188</b></td>
+<td align="right">54</td>
+<td><sub>Hà Nội</sub></td>
+</tr>
+<tr>
+<td align="right">209</td>
+<td><a href="https://github.com/phucledien"><img src="https://avatars.githubusercontent.com/u/14150687?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/phucledien"><b>Le Dien Phuc</b></a><br><sub>&#64;phucledien</sub></td>
+<td align="right"><b>187</b></td>
+<td align="right">406</td>
+<td><sub>Ho Chi Minh city, Vietnam</sub></td>
+</tr>
+<tr>
+<td align="right">210</td>
+<td><a href="https://github.com/trungtv"><img src="https://avatars.githubusercontent.com/u/308482?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/trungtv"><b>Viet Trung Tran</b></a><br><sub>&#64;trungtv</sub></td>
+<td align="right"><b>187</b></td>
+<td align="right">177</td>
+<td><sub>Vietnam</sub></td>
+</tr>
+<tr>
+<td align="right">211</td>
+<td><a href="https://github.com/dynonguyen"><img src="https://avatars.githubusercontent.com/u/57441733?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dynonguyen"><b>Dyno Nguyen</b></a><br><sub>&#64;dynonguyen</sub></td>
+<td align="right"><b>187</b></td>
+<td align="right">35</td>
+<td><sub>Ho Chi Minh, Viet Nam</sub></td>
+</tr>
+<tr>
+<td align="right">212</td>
+<td><a href="https://github.com/Minhnhatnguyenvn"><img src="https://avatars.githubusercontent.com/u/107529447?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Minhnhatnguyenvn"><b>Danh Nguyen</b></a><br><sub>&#64;Minhnhatnguyenvn</sub></td>
+<td align="right"><b>186</b></td>
+<td align="right">1</td>
+<td><sub>vietnam</sub></td>
+</tr>
+<tr>
+<td align="right">213</td>
+<td><a href="https://github.com/vndee"><img src="https://avatars.githubusercontent.com/u/28271488?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vndee"><b>Duy Huynh</b></a><br><sub>&#64;vndee</sub></td>
+<td align="right"><b>185</b></td>
+<td align="right">143</td>
+<td><sub>Vietnam</sub></td>
+</tr>
+<tr>
+<td align="right">214</td>
+<td><a href="https://github.com/anhquan291"><img src="https://avatars.githubusercontent.com/u/17813202?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anhquan291"><b>Quan Nguyen</b></a><br><sub>&#64;anhquan291</sub></td>
+<td align="right"><b>184</b></td>
+<td align="right">102</td>
+<td><sub>Ho Chi Minh City</sub></td>
+</tr>
+<tr>
+<td align="right">215</td>
+<td><a href="https://github.com/huynhducduy"><img src="https://avatars.githubusercontent.com/u/12293622?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/huynhducduy"><b>Huynh Duc Duy</b></a><br><sub>&#64;huynhducduy</sub></td>
+<td align="right"><b>184</b></td>
+<td align="right">61</td>
+<td><sub>Ho Chi Minh City, Viet Nam</sub></td>
+</tr>
+<tr>
+<td align="right">216</td>
+<td><a href="https://github.com/AlbertoMontalesi"><img src="https://avatars.githubusercontent.com/u/23130353?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlbertoMontalesi"><b>AlbertoM</b></a><br><sub>&#64;AlbertoMontalesi</sub></td>
+<td align="right"><b>184</b></td>
+<td align="right">45</td>
+<td><sub>Ho Chi Minh City</sub></td>
+</tr>
+<tr>
+<td align="right">217</td>
+<td><a href="https://github.com/hoangmanhkhiem"><img src="https://avatars.githubusercontent.com/u/44590991?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hoangmanhkhiem"><b>Hoang Manh Khiem</b></a><br><sub>&#64;hoangmanhkhiem</sub></td>
+<td align="right"><b>183</b></td>
+<td align="right">202</td>
+<td><sub>Ha Noi, Viet Nam</sub></td>
+</tr>
+<tr>
+<td align="right">218</td>
+<td><a href="https://github.com/anhthii"><img src="https://avatars.githubusercontent.com/u/20469909?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anhthii"><b>Cody</b></a><br><sub>&#64;anhthii</sub></td>
+<td align="right"><b>183</b></td>
+<td align="right">67</td>
+<td><sub>Ho Chi Minh, Viet Nam</sub></td>
+</tr>
+<tr>
+<td align="right">219</td>
+<td><a href="https://github.com/nguyenvanduocit"><img src="https://avatars.githubusercontent.com/u/1256953?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nguyenvanduocit"><b>Duoc Nguyen</b></a><br><sub>&#64;nguyenvanduocit</sub></td>
+<td align="right"><b>182</b></td>
+<td align="right">490</td>
+<td><sub>Việt Nam</sub></td>
+</tr>
+<tr>
+<td align="right">220</td>
+<td><a href="https://github.com/khanhtc1202"><img src="https://avatars.githubusercontent.com/u/32532742?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/khanhtc1202"><b>Khanh Tran</b></a><br><sub>&#64;khanhtc1202</sub></td>
+<td align="right"><b>182</b></td>
+<td align="right">163</td>
+<td><sub>Hanoi, Vietnam</sub></td>
+</tr>
+<tr>
+<td align="right">221</td>
+<td><a href="https://github.com/natuanorg"><img src="https://avatars.githubusercontent.com/u/7755173?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/natuanorg"><b>Tuan Nguyen</b></a><br><sub>&#64;natuanorg</sub></td>
+<td align="right"><b>181</b></td>
+<td align="right">242</td>
+<td><sub>Ha Noi</sub></td>
+</tr>
+<tr>
+<td align="right">222</td>
+<td><a href="https://github.com/nguyenhoanghavy"><img src="https://avatars.githubusercontent.com/u/61822150?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nguyenhoanghavy"><b>Nguyen Hoang Ha Vy</b></a><br><sub>&#64;nguyenhoanghavy</sub></td>
+<td align="right"><b>181</b></td>
+<td align="right">5</td>
+<td><sub>Hanoi</sub></td>
+</tr>
+<tr>
+<td align="right">223</td>
+<td><a href="https://github.com/hmtheboy154"><img src="https://avatars.githubusercontent.com/u/39849246?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hmtheboy154"><b>Huy Minh</b></a><br><sub>&#64;hmtheboy154</sub></td>
+<td align="right"><b>180</b></td>
+<td align="right">150</td>
+<td><sub>Hai Duong, VN</sub></td>
+</tr>
+<tr>
+<td align="right">224</td>
+<td><a href="https://github.com/8syncdev"><img src="https://avatars.githubusercontent.com/u/115167404?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/8syncdev"><b>Alex Nguyễn</b></a><br><sub>&#64;8syncdev</sub></td>
+<td align="right"><b>180</b></td>
+<td align="right">63</td>
+<td><sub>Ho Chi Minh City, Vietnam</sub></td>
+</tr>
+<tr>
+<td align="right">225</td>
+<td><a href="https://github.com/dtrung98"><img src="https://avatars.githubusercontent.com/u/33343210?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dtrung98"><b>Le Dinh Trung</b></a><br><sub>&#64;dtrung98</sub></td>
+<td align="right"><b>180</b></td>
+<td align="right">21</td>
+<td><sub>HCMC, Vietnam</sub></td>
+</tr>
+<tr>
+<td align="right">226</td>
+<td><a href="https://github.com/oanhnn"><img src="https://avatars.githubusercontent.com/u/1757120?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/oanhnn"><b>Oanh Nguyen</b></a><br><sub>&#64;oanhnn</sub></td>
+<td align="right"><b>179</b></td>
+<td align="right">103</td>
+<td><sub>Hanoi City, Vietnam</sub></td>
+</tr>
+<tr>
+<td align="right">227</td>
+<td><a href="https://github.com/DungGramer"><img src="https://avatars.githubusercontent.com/u/42514846?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DungGramer"><b>Nguyễn Công Dũng</b></a><br><sub>&#64;DungGramer</sub></td>
+<td align="right"><b>179</b></td>
+<td align="right">101</td>
+<td><sub>HaNoi, VietNam</sub></td>
+</tr>
+<tr>
+<td align="right">228</td>
+<td><a href="https://github.com/voduytuan"><img src="https://avatars.githubusercontent.com/u/1757872?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/voduytuan"><b>Vo Duy Tuan</b></a><br><sub>&#64;voduytuan</sub></td>
+<td align="right"><b>179</b></td>
+<td align="right">55</td>
+<td><sub>Vietnam</sub></td>
+</tr>
+<tr>
+<td align="right">229</td>
+<td><a href="https://github.com/lampts"><img src="https://avatars.githubusercontent.com/u/656949?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lampts"><b>Pham Thanh Lam</b></a><br><sub>&#64;lampts</sub></td>
+<td align="right"><b>178</b></td>
+<td align="right">321</td>
+<td><sub>HCMC</sub></td>
+</tr>
+<tr>
+<td align="right">230</td>
+<td><a href="https://github.com/anhldbk"><img src="https://avatars.githubusercontent.com/u/3270746?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anhldbk"><b>Anh Le (Andy)</b></a><br><sub>&#64;anhldbk</sub></td>
+<td align="right"><b>178</b></td>
+<td align="right">87</td>
+<td><sub>Saigon</sub></td>
+</tr>
+<tr>
+<td align="right">231</td>
 <td><a href="https://github.com/bigdargon"><img src="https://avatars.githubusercontent.com/u/10969626?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bigdargon"><b>BigDargon</b></a><br><sub>&#64;bigdargon</sub></td>
 <td align="right"><b>170</b></td>
 <td align="right">0</td>
 <td><sub>Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">209</td>
+<td align="right">232</td>
 <td><a href="https://github.com/func25"><img src="https://avatars.githubusercontent.com/u/39565248?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/func25"><b>Phuong Le</b></a><br><sub>&#64;func25</sub></td>
 <td align="right"><b>168</b></td>
 <td align="right">0</td>
 <td><sub>Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">210</td>
+<td align="right">233</td>
 <td><a href="https://github.com/ntxinh"><img src="https://avatars.githubusercontent.com/u/14963070?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ntxinh"><b>Xinh Nguyen</b></a><br><sub>&#64;ntxinh</sub></td>
 <td align="right"><b>168</b></td>
 <td align="right">0</td>
 <td><sub>Ho Chi Minh, Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">211</td>
+<td align="right">234</td>
+<td><a href="https://github.com/TienNHM"><img src="https://avatars.githubusercontent.com/u/33385777?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TienNHM"><b>Nguyễn Huỳnh Minh Tiến</b></a><br><sub>&#64;TienNHM</sub></td>
+<td align="right"><b>168</b></td>
+<td align="right">0</td>
+<td><sub>Việt Nam</sub></td>
+</tr>
+<tr>
+<td align="right">235</td>
+<td><a href="https://github.com/tmsanghoclaptrinh"><img src="https://avatars.githubusercontent.com/u/28320282?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tmsanghoclaptrinh"><b>Trần Minh Sáng</b></a><br><sub>&#64;tmsanghoclaptrinh</sub></td>
+<td align="right"><b>167</b></td>
+<td align="right">0</td>
+<td><sub>Hanoi, Vietnam</sub></td>
+</tr>
+<tr>
+<td align="right">236</td>
 <td><a href="https://github.com/tuan3w"><img src="https://avatars.githubusercontent.com/u/2762678?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tuan3w"><b>Tuan Nguyen</b></a><br><sub>&#64;tuan3w</sub></td>
 <td align="right"><b>158</b></td>
 <td align="right">0</td>
 <td><sub>Hanoi</sub></td>
 </tr>
 <tr>
-<td align="right">212</td>
+<td align="right">237</td>
 <td><a href="https://github.com/dungngminh"><img src="https://avatars.githubusercontent.com/u/63831488?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dungngminh"><b>Dzung Nguyen Minh</b></a><br><sub>&#64;dungngminh</sub></td>
 <td align="right"><b>154</b></td>
 <td align="right">0</td>
 <td><sub>Da Nang, Viet Nam</sub></td>
 </tr>
 <tr>
-<td align="right">213</td>
+<td align="right">238</td>
 <td><a href="https://github.com/dereknguyen269"><img src="https://avatars.githubusercontent.com/u/9989471?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dereknguyen269"><b>Derek</b></a><br><sub>&#64;dereknguyen269</sub></td>
 <td align="right"><b>153</b></td>
 <td align="right">0</td>
 <td><sub>Ho Chi Minh City, Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">214</td>
+<td align="right">239</td>
 <td><a href="https://github.com/hungps"><img src="https://avatars.githubusercontent.com/u/25026496?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hungps"><b>Hung Pham Sy</b></a><br><sub>&#64;hungps</sub></td>
 <td align="right"><b>153</b></td>
 <td align="right">0</td>
 <td><sub>Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">215</td>
+<td align="right">240</td>
 <td><a href="https://github.com/kakserpom"><img src="https://avatars.githubusercontent.com/u/175350?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kakserpom"><b>Vasily Zorin</b></a><br><sub>&#64;kakserpom</sub></td>
 <td align="right"><b>147</b></td>
 <td align="right">0</td>
 <td><sub>Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">216</td>
+<td align="right">241</td>
+<td><a href="https://github.com/thinhlpg"><img src="https://avatars.githubusercontent.com/u/90838458?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thinhlpg"><b>Thinh Le</b></a><br><sub>&#64;thinhlpg</sub></td>
+<td align="right"><b>145</b></td>
+<td align="right">0</td>
+<td><sub>Vietnam</sub></td>
+</tr>
+<tr>
+<td align="right">242</td>
 <td><a href="https://github.com/hugo53"><img src="https://avatars.githubusercontent.com/u/1033299?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hugo53"><b>Hoang Nguyen</b></a><br><sub>&#64;hugo53</sub></td>
 <td align="right"><b>144</b></td>
 <td align="right">0</td>
 <td><sub>Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">217</td>
+<td align="right">243</td>
 <td><a href="https://github.com/anhskohbo"><img src="https://avatars.githubusercontent.com/u/1529454?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anhskohbo"><b>Van</b></a><br><sub>&#64;anhskohbo</sub></td>
 <td align="right"><b>143</b></td>
 <td align="right">0</td>
 <td><sub>Ha Noi, Viet Nam</sub></td>
 </tr>
 <tr>
-<td align="right">218</td>
+<td align="right">244</td>
 <td><a href="https://github.com/chnirt"><img src="https://avatars.githubusercontent.com/u/35022967?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chnirt"><b>Chin</b></a><br><sub>&#64;chnirt</sub></td>
 <td align="right"><b>143</b></td>
 <td align="right">0</td>
 <td><sub>Ho Chi Minh City</sub></td>
 </tr>
 <tr>
-<td align="right">219</td>
+<td align="right">245</td>
 <td><a href="https://github.com/KhoaSuperman"><img src="https://avatars.githubusercontent.com/u/8596226?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KhoaSuperman"><b>Khoa Hoang</b></a><br><sub>&#64;KhoaSuperman</sub></td>
 <td align="right"><b>138</b></td>
 <td align="right">0</td>
 <td><sub>Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">220</td>
+<td align="right">246</td>
+<td><a href="https://github.com/hoangsvit"><img src="https://avatars.githubusercontent.com/u/11882322?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hoangsvit"><b>David Nguyen</b></a><br><sub>&#64;hoangsvit</sub></td>
+<td align="right"><b>136</b></td>
+<td align="right">0</td>
+<td><sub>Ho Chi Minh, Vietnam</sub></td>
+</tr>
+<tr>
+<td align="right">247</td>
+<td><a href="https://github.com/SakaDream"><img src="https://avatars.githubusercontent.com/u/16135427?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SakaDream"><b>Hai Phan</b></a><br><sub>&#64;SakaDream</sub></td>
+<td align="right"><b>132</b></td>
+<td align="right">0</td>
+<td><sub>Ho Chi Minh City, Vietnam</sub></td>
+</tr>
+<tr>
+<td align="right">248</td>
 <td><a href="https://github.com/quiet-node"><img src="https://avatars.githubusercontent.com/u/66233296?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/quiet-node"><b>Logan Nguyen</b></a><br><sub>&#64;quiet-node</sub></td>
 <td align="right"><b>130</b></td>
 <td align="right">0</td>
 <td><sub>Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">221</td>
+<td align="right">249</td>
+<td><a href="https://github.com/minhhungit"><img src="https://avatars.githubusercontent.com/u/2279508?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/minhhungit"><b>Jin</b></a><br><sub>&#64;minhhungit</sub></td>
+<td align="right"><b>127</b></td>
+<td align="right">0</td>
+<td><sub>Ho Chi Minh City, Vietnam</sub></td>
+</tr>
+<tr>
+<td align="right">250</td>
 <td><a href="https://github.com/windwp"><img src="https://avatars.githubusercontent.com/u/7578110?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/windwp"><b>windwp</b></a><br><sub>&#64;windwp</sub></td>
 <td align="right"><b>127</b></td>
 <td align="right">0</td>
 <td><sub>VietNam</sub></td>
 </tr>
 <tr>
-<td align="right">222</td>
+<td align="right">251</td>
 <td><a href="https://github.com/duongductrong"><img src="https://avatars.githubusercontent.com/u/39333905?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/duongductrong"><b>Trong Duong</b></a><br><sub>&#64;duongductrong</sub></td>
 <td align="right"><b>125</b></td>
 <td align="right">0</td>
 <td><sub>Ho Chi Minh City</sub></td>
 </tr>
 <tr>
-<td align="right">223</td>
+<td align="right">252</td>
 <td><a href="https://github.com/RFS-ADRENO"><img src="https://avatars.githubusercontent.com/u/77768272?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RFS-ADRENO"><b>Grosse</b></a><br><sub>&#64;RFS-ADRENO</sub></td>
 <td align="right"><b>123</b></td>
 <td align="right">0</td>
 <td><sub>Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">224</td>
+<td align="right">253</td>
 <td><a href="https://github.com/bluzky"><img src="https://avatars.githubusercontent.com/u/6194779?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bluzky"><b>Dung Nguyen</b></a><br><sub>&#64;bluzky</sub></td>
 <td align="right"><b>119</b></td>
 <td align="right">0</td>
 <td><sub>Ho Chi Minh, Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">225</td>
+<td align="right">254</td>
+<td><a href="https://github.com/khanhuitse05"><img src="https://avatars.githubusercontent.com/u/9074095?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/khanhuitse05"><b>Khánh Tô</b></a><br><sub>&#64;khanhuitse05</sub></td>
+<td align="right"><b>119</b></td>
+<td align="right">0</td>
+<td><sub>Ho Chi Minh City</sub></td>
+</tr>
+<tr>
+<td align="right">255</td>
 <td><a href="https://github.com/thanglequoc"><img src="https://avatars.githubusercontent.com/u/20574640?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thanglequoc"><b>Thang Le Quoc</b></a><br><sub>&#64;thanglequoc</sub></td>
 <td align="right"><b>119</b></td>
 <td align="right">0</td>
 <td><sub>Ho Chi Minh city, Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">226</td>
+<td align="right">256</td>
 <td><a href="https://github.com/NearHuscarl"><img src="https://avatars.githubusercontent.com/u/23303775?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NearHuscarl"><b>Near Huscarl</b></a><br><sub>&#64;NearHuscarl</sub></td>
 <td align="right"><b>105</b></td>
 <td align="right">0</td>
 <td><sub>HCM City - Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">227</td>
+<td align="right">257</td>
 <td><a href="https://github.com/7onez"><img src="https://avatars.githubusercontent.com/u/72960444?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/7onez"><b>Ngo Minh Hieu</b></a><br><sub>&#64;7onez</sub></td>
 <td align="right"><b>100</b></td>
 <td align="right">0</td>
 <td><sub>Viet Nam</sub></td>
 </tr>
 <tr>
-<td align="right">228</td>
+<td align="right">258</td>
 <td><a href="https://github.com/VienDinhCom"><img src="https://avatars.githubusercontent.com/u/1142799?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VienDinhCom"><b>Viễn Đinh</b></a><br><sub>&#64;VienDinhCom</sub></td>
 <td align="right"><b>97</b></td>
 <td align="right">0</td>
 <td><sub>Da Nang, Viet Nam</sub></td>
 </tr>
 <tr>
-<td align="right">229</td>
+<td align="right">259</td>
 <td><a href="https://github.com/nguyenphutrong"><img src="https://avatars.githubusercontent.com/u/62984954?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nguyenphutrong"><b>Trong Nguyen</b></a><br><sub>&#64;nguyenphutrong</sub></td>
 <td align="right"><b>93</b></td>
 <td align="right">0</td>
 <td><sub>Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">230</td>
+<td align="right">260</td>
 <td><a href="https://github.com/howljs"><img src="https://avatars.githubusercontent.com/u/33460888?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/howljs"><b>Lê Hậu</b></a><br><sub>&#64;howljs</sub></td>
 <td align="right"><b>90</b></td>
 <td align="right">0</td>
 <td><sub>Ho Chi Minh city, Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">231</td>
+<td align="right">261</td>
 <td><a href="https://github.com/hunglc007"><img src="https://avatars.githubusercontent.com/u/15844077?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hunglc007"><b>Việt Hùng</b></a><br><sub>&#64;hunglc007</sub></td>
 <td align="right"><b>89</b></td>
 <td align="right">0</td>
 <td><sub>Hanoi, VietNam</sub></td>
 </tr>
 <tr>
-<td align="right">232</td>
+<td align="right">262</td>
 <td><a href="https://github.com/Looooong"><img src="https://avatars.githubusercontent.com/u/8206622?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Looooong"><b>Nguyễn Đức Long</b></a><br><sub>&#64;Looooong</sub></td>
 <td align="right"><b>88</b></td>
 <td align="right">0</td>
 <td><sub>Ho Chi Minh City, Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">233</td>
+<td align="right">263</td>
 <td><a href="https://github.com/T-Troll"><img src="https://avatars.githubusercontent.com/u/51940412?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/T-Troll"><b>T-Troll</b></a><br><sub>&#64;T-Troll</sub></td>
 <td align="right"><b>88</b></td>
 <td align="right">0</td>
 <td><sub>Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">234</td>
+<td align="right">264</td>
 <td><a href="https://github.com/ntthanh2603"><img src="https://avatars.githubusercontent.com/u/179988526?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ntthanh2603"><b>Nguyễn Tuấn Thành</b></a><br><sub>&#64;ntthanh2603</sub></td>
 <td align="right"><b>87</b></td>
 <td align="right">0</td>
 <td><sub>Ha Noi, Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">235</td>
+<td align="right">265</td>
+<td><a href="https://github.com/0x1ceKing"><img src="https://avatars.githubusercontent.com/u/187486697?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0x1ceKing"><b>Thien Dang Ky</b></a><br><sub>&#64;0x1ceKing</sub></td>
+<td align="right"><b>86</b></td>
+<td align="right">0</td>
+<td><sub>Ho Chi Minh City, Viet Nam</sub></td>
+</tr>
+<tr>
+<td align="right">266</td>
 <td><a href="https://github.com/favadi"><img src="https://avatars.githubusercontent.com/u/782760?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/favadi"><b>Diep Pham</b></a><br><sub>&#64;favadi</sub></td>
 <td align="right"><b>86</b></td>
 <td align="right">0</td>
 <td><sub>Hanoi, Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">236</td>
+<td align="right">267</td>
 <td><a href="https://github.com/quyenly13"><img src="https://avatars.githubusercontent.com/u/16898732?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/quyenly13"><b>Lý Kiều Quyên</b></a><br><sub>&#64;quyenly13</sub></td>
 <td align="right"><b>82</b></td>
 <td align="right">0</td>
 <td><sub>Ho Chi Minh (Vietnam)</sub></td>
 </tr>
 <tr>
-<td align="right">237</td>
+<td align="right">268</td>
 <td><a href="https://github.com/jnguyen095"><img src="https://avatars.githubusercontent.com/u/5355877?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jnguyen095"><b>Khang Nguyen</b></a><br><sub>&#64;jnguyen095</sub></td>
 <td align="right"><b>81</b></td>
 <td align="right">0</td>
 <td><sub>Ho Chi Minh City, Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">238</td>
+<td align="right">269</td>
 <td><a href="https://github.com/tranbathanhtung"><img src="https://avatars.githubusercontent.com/u/26837622?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tranbathanhtung"><b>Trần Bá Thanh Tùng</b></a><br><sub>&#64;tranbathanhtung</sub></td>
 <td align="right"><b>80</b></td>
 <td align="right">0</td>
 <td><sub>Việt Nam</sub></td>
 </tr>
 <tr>
-<td align="right">239</td>
+<td align="right">270</td>
 <td><a href="https://github.com/kirevdokimov"><img src="https://avatars.githubusercontent.com/u/5202070?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kirevdokimov"><b>Kirill &quot;Kio&quot; Evdokimov</b></a><br><sub>&#64;kirevdokimov</sub></td>
 <td align="right"><b>79</b></td>
 <td align="right">0</td>
 <td><sub>Currently in Saigon, Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">240</td>
+<td align="right">271</td>
 <td><a href="https://github.com/RandomMaerks"><img src="https://avatars.githubusercontent.com/u/109415614?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RandomMaerks"><b>RandomMaerks</b></a><br><sub>&#64;RandomMaerks</sub></td>
 <td align="right"><b>78</b></td>
 <td align="right">0</td>
 <td><sub>Hanoi, Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">241</td>
+<td align="right">272</td>
 <td><a href="https://github.com/vnphanquang"><img src="https://avatars.githubusercontent.com/u/25895844?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vnphanquang"><b>Quang Phan</b></a><br><sub>&#64;vnphanquang</sub></td>
 <td align="right"><b>77</b></td>
 <td align="right">0</td>
 <td><sub>Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">242</td>
+<td align="right">273</td>
+<td><a href="https://github.com/duy13"><img src="https://avatars.githubusercontent.com/u/10364660?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/duy13"><b>duy13</b></a><br><sub>&#64;duy13</sub></td>
+<td align="right"><b>75</b></td>
+<td align="right">0</td>
+<td><sub>Vietnam</sub></td>
+</tr>
+<tr>
+<td align="right">274</td>
 <td><a href="https://github.com/truong-bui"><img src="https://avatars.githubusercontent.com/u/1840964?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/truong-bui"><b>Truong Bui</b></a><br><sub>&#64;truong-bui</sub></td>
 <td align="right"><b>75</b></td>
 <td align="right">0</td>
 <td><sub>Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">243</td>
+<td align="right">275</td>
+<td><a href="https://github.com/openhoangnc"><img src="https://avatars.githubusercontent.com/u/20717116?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/openhoangnc"><b>Nguyen Cong Hoang</b></a><br><sub>&#64;openhoangnc</sub></td>
+<td align="right"><b>73</b></td>
+<td align="right">0</td>
+<td><sub>Vietnam</sub></td>
+</tr>
+<tr>
+<td align="right">276</td>
 <td><a href="https://github.com/heyhuynhgiabuu"><img src="https://avatars.githubusercontent.com/u/111694395?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/heyhuynhgiabuu"><b>Huynh Gia Buu</b></a><br><sub>&#64;heyhuynhgiabuu</sub></td>
 <td align="right"><b>71</b></td>
 <td align="right">0</td>
 <td><sub>Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">244</td>
+<td align="right">277</td>
 <td><a href="https://github.com/CisMine"><img src="https://avatars.githubusercontent.com/u/122800932?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CisMine"><b>Huy Ngo</b></a><br><sub>&#64;CisMine</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">0</td>
 <td><sub>Ho Chi Minh, Viet Nam</sub></td>
 </tr>
 <tr>
-<td align="right">245</td>
+<td align="right">278</td>
 <td><a href="https://github.com/khaphanspace"><img src="https://avatars.githubusercontent.com/u/16458012?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/khaphanspace"><b>Whoosh</b></a><br><sub>&#64;khaphanspace</sub></td>
 <td align="right"><b>69</b></td>
 <td align="right">0</td>
 <td><sub>Saigon</sub></td>
 </tr>
 <tr>
-<td align="right">246</td>
+<td align="right">279</td>
 <td><a href="https://github.com/kombai"><img src="https://avatars.githubusercontent.com/u/98703?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kombai"><b>Minh Nguyen</b></a><br><sub>&#64;kombai</sub></td>
 <td align="right"><b>68</b></td>
 <td align="right">0</td>
 <td><sub>Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">247</td>
+<td align="right">280</td>
 <td><a href="https://github.com/vanloctech"><img src="https://avatars.githubusercontent.com/u/20141611?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vanloctech"><b>Loc Nguyen</b></a><br><sub>&#64;vanloctech</sub></td>
 <td align="right"><b>68</b></td>
 <td align="right">0</td>
 <td><sub>VietNam</sub></td>
 </tr>
 <tr>
-<td align="right">248</td>
+<td align="right">281</td>
 <td><a href="https://github.com/MinhNguyenDS"><img src="https://avatars.githubusercontent.com/u/85574335?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MinhNguyenDS"><b>Minh Hoàng Nguyễn</b></a><br><sub>&#64;MinhNguyenDS</sub></td>
 <td align="right"><b>67</b></td>
 <td align="right">0</td>
 <td><sub>Ho Chi Minh City, Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">249</td>
+<td align="right">282</td>
+<td><a href="https://github.com/vutran1710"><img src="https://avatars.githubusercontent.com/u/27060690?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vutran1710"><b>Vu Tran</b></a><br><sub>&#64;vutran1710</sub></td>
+<td align="right"><b>67</b></td>
+<td align="right">0</td>
+<td><sub>Vietnam, Hanoi</sub></td>
+</tr>
+<tr>
+<td align="right">283</td>
 <td><a href="https://github.com/nguyenhoanglam"><img src="https://avatars.githubusercontent.com/u/4979755?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nguyenhoanglam"><b>Nguyen Hoang Lam</b></a><br><sub>&#64;nguyenhoanglam</sub></td>
 <td align="right"><b>66</b></td>
 <td align="right">0</td>
 <td><sub>Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">250</td>
+<td align="right">284</td>
 <td><a href="https://github.com/tuanngocptn"><img src="https://avatars.githubusercontent.com/u/22292704?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tuanngocptn"><b>Nick Pham</b></a><br><sub>&#64;tuanngocptn</sub></td>
 <td align="right"><b>64</b></td>
 <td align="right">0</td>
 <td><sub>Ho Chi Minh</sub></td>
 </tr>
 <tr>
-<td align="right">251</td>
+<td align="right">285</td>
+<td><a href="https://github.com/nvbangg"><img src="https://avatars.githubusercontent.com/u/181714034?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nvbangg"><b>nvbangg</b></a><br><sub>&#64;nvbangg</sub></td>
+<td align="right"><b>63</b></td>
+<td align="right">0</td>
+<td><sub>Việt Nam</sub></td>
+</tr>
+<tr>
+<td align="right">286</td>
 <td><a href="https://github.com/tuyenvm"><img src="https://avatars.githubusercontent.com/u/7700801?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tuyenvm"><b>Tuyen Mai</b></a><br><sub>&#64;tuyenvm</sub></td>
 <td align="right"><b>63</b></td>
 <td align="right">0</td>
 <td><sub>Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">252</td>
+<td align="right">287</td>
 <td><a href="https://github.com/datvuthanh"><img src="https://avatars.githubusercontent.com/u/44630913?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/datvuthanh"><b>Thanh Dat Vu</b></a><br><sub>&#64;datvuthanh</sub></td>
 <td align="right"><b>59</b></td>
 <td align="right">0</td>
 <td><sub>Hanoi</sub></td>
 </tr>
 <tr>
-<td align="right">253</td>
+<td align="right">288</td>
 <td><a href="https://github.com/nduckmink"><img src="https://avatars.githubusercontent.com/u/250913026?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nduckmink"><b>Duc Minh, Nguyen</b></a><br><sub>&#64;nduckmink</sub></td>
 <td align="right"><b>59</b></td>
 <td align="right">0</td>
 <td><sub>Hanoi</sub></td>
 </tr>
 <tr>
-<td align="right">254</td>
+<td align="right">289</td>
 <td><a href="https://github.com/shirai91"><img src="https://avatars.githubusercontent.com/u/8848513?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shirai91"><b>Tung Pham</b></a><br><sub>&#64;shirai91</sub></td>
 <td align="right"><b>59</b></td>
 <td align="right">0</td>
 <td><sub>Ha noi, viet nam</sub></td>
 </tr>
 <tr>
-<td align="right">255</td>
+<td align="right">290</td>
+<td><a href="https://github.com/nguyentumine"><img src="https://avatars.githubusercontent.com/u/13947826?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nguyentumine"><b>Tu Nguyen</b></a><br><sub>&#64;nguyentumine</sub></td>
+<td align="right"><b>53</b></td>
+<td align="right">0</td>
+<td><sub>Vietnam</sub></td>
+</tr>
+<tr>
+<td align="right">291</td>
 <td><a href="https://github.com/vantuan88291"><img src="https://avatars.githubusercontent.com/u/9206731?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vantuan88291"><b>Levi</b></a><br><sub>&#64;vantuan88291</sub></td>
 <td align="right"><b>52</b></td>
 <td align="right">0</td>
 <td><sub>vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">256</td>
+<td align="right">292</td>
 <td><a href="https://github.com/truongkma"><img src="https://avatars.githubusercontent.com/u/12621046?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/truongkma"><b>Nguyen Dac Truong</b></a><br><sub>&#64;truongkma</sub></td>
 <td align="right"><b>51</b></td>
 <td align="right">0</td>
 <td><sub>Viet Nam</sub></td>
 </tr>
 <tr>
-<td align="right">257</td>
+<td align="right">293</td>
 <td><a href="https://github.com/blogminhquy"><img src="https://avatars.githubusercontent.com/u/280610439?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/blogminhquy"><b>Nguyễn Minh Quý</b></a><br><sub>&#64;blogminhquy</sub></td>
 <td align="right"><b>49</b></td>
 <td align="right">0</td>
 <td><sub>Việt Nam</sub></td>
 </tr>
 <tr>
-<td align="right">258</td>
+<td align="right">294</td>
+<td><a href="https://github.com/lminhtm"><img src="https://avatars.githubusercontent.com/u/4227352?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lminhtm"><b>LMinh</b></a><br><sub>&#64;lminhtm</sub></td>
+<td align="right"><b>49</b></td>
+<td align="right">0</td>
+<td><sub>Việt Nam</sub></td>
+</tr>
+<tr>
+<td align="right">295</td>
 <td><a href="https://github.com/datvodinh"><img src="https://avatars.githubusercontent.com/u/90944231?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/datvodinh"><b>Dat Vo Dinh</b></a><br><sub>&#64;datvodinh</sub></td>
 <td align="right"><b>48</b></td>
 <td align="right">0</td>
 <td><sub>Hanoi, Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">259</td>
+<td align="right">296</td>
 <td><a href="https://github.com/tamnguyenvan"><img src="https://avatars.githubusercontent.com/u/16330538?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tamnguyenvan"><b>Tam Nguyen</b></a><br><sub>&#64;tamnguyenvan</sub></td>
 <td align="right"><b>42</b></td>
 <td align="right">0</td>
 <td><sub>Ha Noi Viet Nam</sub></td>
 </tr>
 <tr>
-<td align="right">260</td>
+<td align="right">297</td>
 <td><a href="https://github.com/nguyenthenguyen"><img src="https://avatars.githubusercontent.com/u/8535630?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nguyenthenguyen"><b>Nguyễn Thế Nguyên</b></a><br><sub>&#64;nguyenthenguyen</sub></td>
 <td align="right"><b>39</b></td>
 <td align="right">0</td>
 <td><sub>Ho chi minh city, Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">261</td>
+<td align="right">298</td>
 <td><a href="https://github.com/pthethanh"><img src="https://avatars.githubusercontent.com/u/2696025?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pthethanh"><b>Thanh Pham</b></a><br><sub>&#64;pthethanh</sub></td>
 <td align="right"><b>37</b></td>
 <td align="right">0</td>
 <td><sub>Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">262</td>
+<td align="right">299</td>
 <td><a href="https://github.com/versenilvis"><img src="https://avatars.githubusercontent.com/u/95265895?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/versenilvis"><b>VERSE</b></a><br><sub>&#64;versenilvis</sub></td>
 <td align="right"><b>37</b></td>
 <td align="right">0</td>
 <td><sub>Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">263</td>
+<td align="right">300</td>
+<td><a href="https://github.com/ducbao414"><img src="https://avatars.githubusercontent.com/u/5462728?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ducbao414"><b>Bao Nguyen</b></a><br><sub>&#64;ducbao414</sub></td>
+<td align="right"><b>36</b></td>
+<td align="right">0</td>
+<td><sub>Vietnam</sub></td>
+</tr>
+<tr>
+<td align="right">301</td>
 <td><a href="https://github.com/phucvinh57"><img src="https://avatars.githubusercontent.com/u/69946748?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/phucvinh57"><b>Nguyen Phuc Vinh</b></a><br><sub>&#64;phucvinh57</sub></td>
 <td align="right"><b>35</b></td>
 <td align="right">0</td>
 <td><sub>Ho Chi Minh City</sub></td>
 </tr>
 <tr>
-<td align="right">264</td>
+<td align="right">302</td>
+<td><a href="https://github.com/Dokhacgiakhoa"><img src="https://avatars.githubusercontent.com/u/129754311?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dokhacgiakhoa"><b>Đỗ Khắc Gia Khoa</b></a><br><sub>&#64;Dokhacgiakhoa</sub></td>
+<td align="right"><b>34</b></td>
+<td align="right">0</td>
+<td><sub>Hanoi</sub></td>
+</tr>
+<tr>
+<td align="right">303</td>
 <td><a href="https://github.com/hngngn"><img src="https://avatars.githubusercontent.com/u/97839073?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hngngn"><b>Hoang Nguyen</b></a><br><sub>&#64;hngngn</sub></td>
 <td align="right"><b>33</b></td>
 <td align="right">0</td>
 <td><sub>Halong, Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">265</td>
+<td align="right">304</td>
 <td><a href="https://github.com/htkhiem"><img src="https://avatars.githubusercontent.com/u/42716602?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/htkhiem"><b>Huỳnh Thiện Khiêm</b></a><br><sub>&#64;htkhiem</sub></td>
 <td align="right"><b>32</b></td>
 <td align="right">0</td>
 <td><sub>Hồ Chí Minh City, Việt Nam</sub></td>
 </tr>
 <tr>
-<td align="right">266</td>
+<td align="right">305</td>
 <td><a href="https://github.com/loctvl842"><img src="https://avatars.githubusercontent.com/u/80513079?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/loctvl842"><b>ON NO</b></a><br><sub>&#64;loctvl842</sub></td>
 <td align="right"><b>32</b></td>
 <td align="right">0</td>
 <td><sub>Ho Chi Minh City</sub></td>
 </tr>
 <tr>
-<td align="right">267</td>
+<td align="right">306</td>
+<td><a href="https://github.com/xmannv"><img src="https://avatars.githubusercontent.com/u/6252311?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xmannv"><b>X</b></a><br><sub>&#64;xmannv</sub></td>
+<td align="right"><b>24</b></td>
+<td align="right">0</td>
+<td><sub>Ho Chi Minh City</sub></td>
+</tr>
+<tr>
+<td align="right">307</td>
 <td><a href="https://github.com/crazychicken"><img src="https://avatars.githubusercontent.com/u/1531508?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/crazychicken"><b>tu truong</b></a><br><sub>&#64;crazychicken</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">0</td>
 <td><sub>Viet Nam</sub></td>
 </tr>
 <tr>
-<td align="right">268</td>
+<td align="right">308</td>
 <td><a href="https://github.com/DucPhamNgoc08"><img src="https://avatars.githubusercontent.com/u/108916011?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DucPhamNgoc08"><b>DucPhamNgoc</b></a><br><sub>&#64;DucPhamNgoc08</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">0</td>
 <td><sub>Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">269</td>
+<td align="right">309</td>
+<td><a href="https://github.com/e6a5"><img src="https://avatars.githubusercontent.com/u/21355258?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/e6a5"><b>hiep tran</b></a><br><sub>&#64;e6a5</sub></td>
+<td align="right"><b>15</b></td>
+<td align="right">0</td>
+<td><sub>Vietnam</sub></td>
+</tr>
+<tr>
+<td align="right">310</td>
+<td><a href="https://github.com/mhfed"><img src="https://avatars.githubusercontent.com/u/99587167?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mhfed"><b>Henry Nguyen</b></a><br><sub>&#64;mhfed</sub></td>
+<td align="right"><b>12</b></td>
+<td align="right">0</td>
+<td><sub>Viet Nam</sub></td>
+</tr>
+<tr>
+<td align="right">311</td>
 <td><a href="https://github.com/mikholand"><img src="https://avatars.githubusercontent.com/u/1077161?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikholand"><b>Oleg Mikhno</b></a><br><sub>&#64;mikholand</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">17</td>
 <td><sub>Vietnam</sub></td>
 </tr>
 <tr>
-<td align="right">270</td>
+<td align="right">312</td>
 <td><a href="https://github.com/esaulovads"><img src="https://avatars.githubusercontent.com/u/89247392?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/esaulovads"><b>Daria Esaulova</b></a><br><sub>&#64;esaulovads</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">7</td>
 <td><sub>Quy Nhon, Vietnam</sub></td>
+</tr>
+<tr>
+<td align="right">313</td>
+<td><a href="https://github.com/ddo"><img src="https://avatars.githubusercontent.com/u/1265628?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ddo"><b>Ddo</b></a><br><sub>&#64;ddo</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Ho chi minh city</sub></td>
 </tr>
 </tbody>
 </table>
@@ -1919,7 +2220,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 270 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 313 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 170 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

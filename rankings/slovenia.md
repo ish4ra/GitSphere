@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **45** | 22 Nov 2026 | <a href="../data/SI.json">JSON</a> |
+| 🟡 Provisional | **49** | 22 Nov 2026 | <a href="../data/SI.json">JSON</a> |
 
 </div>
 
@@ -24,43 +24,43 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/Niko1221.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Niko1221/Strata"><b>Niko1221/Strata</b></a><br><sub>Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Ant…</sub></td>
-<td align="right"><b>46,677</b></td>
-<td align="right">5,201</td>
+<td align="right"><b>48,050</b></td>
+<td align="right">5,414</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/gto76.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gto76/python-cheatsheet"><b>gto76/python-cheatsheet</b></a><br><sub>Comprehensive Python Cheatsheet</sub></td>
-<td align="right"><b>38,982</b></td>
+<td align="right"><b>39,019</b></td>
 <td align="right">6,684</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/decaporg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/decaporg/decap-cms"><b>decaporg/decap-cms</b></a><br><sub>A Git-based CMS for static site generators (formerly Netlify CMS)</sub></td>
-<td align="right"><b>19,495</b></td>
+<td align="right"><b>19,502</b></td>
 <td align="right">3,144</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/aksonov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aksonov/react-native-router-flux"><b>aksonov/react-native-router-flux</b></a><br><sub>The first declarative React Native router</sub></td>
-<td align="right"><b>8,906</b></td>
-<td align="right">2,057</td>
+<td align="right"><b>8,904</b></td>
+<td align="right">2,056</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/buresdv.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/buresdv/Cork"><b>buresdv/Cork</b></a><br><sub>&#91;NO AI&#93; Fast GUI for Homebrew written in SwiftUI</sub></td>
-<td align="right"><b>4,733</b></td>
+<td align="right"><b>4,734</b></td>
 <td align="right">280</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/AndrewStetsenko.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AndrewStetsenko/tech-jobs-with-relocation"><b>AndrewStetsenko/tech-jobs-with-relocation</b></a><br><sub>All-in-one guide to getting a tech job abroad 🌎</sub></td>
-<td align="right"><b>4,603</b></td>
-<td align="right">473</td>
+<td align="right"><b>4,602</b></td>
+<td align="right">475</td>
 <td>—</td>
 </tr>
 <tr>
@@ -336,6 +336,34 @@
 <td align="right">650</td>
 <td>C++</td>
 </tr>
+<tr>
+<td align="right">46</td>
+<td><img src="https://github.com/matej.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/matej/MBPullDownController"><b>matej/MBPullDownController</b></a><br><sub>MBPullDownController, an iOS container view controller for pullable scroll view interfaces.</sub></td>
+<td align="right"><b>555</b></td>
+<td align="right">67</td>
+<td>Objective-C</td>
+</tr>
+<tr>
+<td align="right">47</td>
+<td><img src="https://github.com/decaporg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/decaporg/one-click-hugo-cms"><b>decaporg/one-click-hugo-cms</b></a><br><sub>Hugo template with Decap CMS</sub></td>
+<td align="right"><b>542</b></td>
+<td align="right">333</td>
+<td>SCSS</td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><img src="https://github.com/CANopenNode.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CANopenNode/CanOpenSTM32"><b>CANopenNode/CanOpenSTM32</b></a><br><sub>CANopenNode on STM32 microcontrollers.</sub></td>
+<td align="right"><b>535</b></td>
+<td align="right">193</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><img src="https://github.com/gabr42.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gabr42/OmniThreadLibrary"><b>gabr42/OmniThreadLibrary</b></a><br><sub>A simple and powerful multithreading library for Delphi</sub></td>
+<td align="right"><b>515</b></td>
+<td align="right">149</td>
+<td>Pascal</td>
+</tr>
 </tbody>
 </table>
 
@@ -344,8 +372,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 572 stars; 45 attributed candidates are tracked.
-- 108 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 515 stars; 49 attributed candidates are tracked.
+- 103 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 220 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

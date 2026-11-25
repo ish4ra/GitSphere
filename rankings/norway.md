@@ -24,70 +24,70 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/sherlock-project.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sherlock-project/sherlock"><b>sherlock-project/sherlock</b></a><br><sub>Hunt down social media accounts by username across social networks</sub></td>
-<td align="right"><b>115,639</b></td>
-<td align="right">13,231</td>
+<td align="right"><b>117,441</b></td>
+<td align="right">13,397</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/mifi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mifi/lossless-cut"><b>mifi/lossless-cut</b></a><br><sub>The swiss army knife of lossless video/audio editing</sub></td>
-<td align="right"><b>46,309</b></td>
-<td align="right">2,360</td>
+<td align="right"><b>46,411</b></td>
+<td align="right">2,372</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/asmvik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/asmvik/yabai"><b>asmvik/yabai</b></a><br><sub>A tiling window manager for macOS based on binary space partitioning</sub></td>
-<td align="right"><b>29,854</b></td>
-<td align="right">821</td>
+<td align="right"><b>29,861</b></td>
+<td align="right">827</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/tipsy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tipsy/profile-summary-for-github"><b>tipsy/profile-summary-for-github</b></a><br><sub>Tool for visualizing GitHub profiles</sub></td>
-<td align="right"><b>19,941</b></td>
+<td align="right"><b>19,942</b></td>
 <td align="right">510</td>
 <td>Vue</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/AndyMik90.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AndyMik90/Aperant"><b>AndyMik90/Aperant</b></a><br><sub>Autonomous multi-session AI coding</sub></td>
-<td align="right"><b>14,623</b></td>
-<td align="right">1,883</td>
+<td align="right"><b>14,628</b></td>
+<td align="right">1,884</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/Unleash.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Unleash/unleash"><b>Unleash/unleash</b></a><br><sub>Open-source feature management platform</sub></td>
-<td align="right"><b>14,337</b></td>
-<td align="right">935</td>
+<td align="right"><b>14,342</b></td>
+<td align="right">933</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/gnab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gnab/remark"><b>gnab/remark</b></a><br><sub>A simple, in-browser, markdown-driven slideshow tool.</sub></td>
-<td align="right"><b>13,001</b></td>
+<td align="right"><b>13,000</b></td>
 <td align="right">868</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/highcharts.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/highcharts/highcharts"><b>highcharts/highcharts</b></a><br><sub>Highcharts JS, the JavaScript charting framework</sub></td>
-<td align="right"><b>12,502</b></td>
-<td align="right">3,867</td>
+<td align="right"><b>12,503</b></td>
+<td align="right">3,868</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/kmaasrud.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kmaasrud/awesome-obsidian"><b>kmaasrud/awesome-obsidian</b></a><br><sub>🕶️ Awesome stuff for Obsidian</sub></td>
-<td align="right"><b>9,549</b></td>
-<td align="right">415</td>
+<td align="right"><b>9,556</b></td>
+<td align="right">416</td>
 <td>CSS</td>
 </tr>
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/prasmussen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/prasmussen/gdrive"><b>prasmussen/gdrive</b></a> <sub>archived</sub><br><sub>Google Drive CLI Client</sub></td>
-<td align="right"><b>8,937</b></td>
+<td align="right"><b>8,936</b></td>
 <td align="right">1,151</td>
 <td>Go</td>
 </tr>
@@ -95,55 +95,55 @@
 <td align="right">11</td>
 <td><img src="https://github.com/asmvik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/asmvik/skhd"><b>asmvik/skhd</b></a><br><sub>Simple hotkey daemon for macOS</sub></td>
 <td align="right"><b>8,168</b></td>
-<td align="right">238</td>
+<td align="right">239</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/bensadeh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bensadeh/tailspin"><b>bensadeh/tailspin</b></a><br><sub>🌀 A log file highlighter</sub></td>
-<td align="right"><b>8,047</b></td>
+<td align="right"><b>8,068</b></td>
 <td align="right">143</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">13</td>
 <td><img src="https://github.com/ChrisRM.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ChrisRM/material-theme-jetbrains"><b>ChrisRM/material-theme-jetbrains</b></a><br><sub>JetBrains theme of Material Theme</sub></td>
-<td align="right"><b>7,722</b></td>
-<td align="right">436</td>
+<td align="right"><b>7,720</b></td>
+<td align="right">435</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/erikgrinaker.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/erikgrinaker/toydb"><b>erikgrinaker/toydb</b></a><br><sub>Distributed SQL database in Rust, written as an educational project</sub></td>
-<td align="right"><b>7,311</b></td>
-<td align="right">623</td>
+<td align="right"><b>7,310</b></td>
+<td align="right">622</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/os-js.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/os-js/OS.js"><b>os-js/OS.js</b></a><br><sub>OS.js - JavaScript Web Desktop Platform</sub></td>
-<td align="right"><b>7,087</b></td>
+<td align="right"><b>7,086</b></td>
 <td align="right">871</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">16</td>
 <td><img src="https://github.com/raphw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/raphw/byte-buddy"><b>raphw/byte-buddy</b></a><br><sub>Runtime code generation for the Java virtual machine.</sub></td>
-<td align="right"><b>6,901</b></td>
+<td align="right"><b>6,902</b></td>
 <td align="right">853</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/karlstav.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/karlstav/cava"><b>karlstav/cava</b></a><br><sub>Cross-platform Audio Visualizer</sub></td>
-<td align="right"><b>6,546</b></td>
-<td align="right">303</td>
+<td align="right"><b>6,554</b></td>
+<td align="right">302</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">18</td>
 <td><img src="https://github.com/ecrmnn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ecrmnn/collect.js"><b>ecrmnn/collect.js</b></a><br><sub>💎 Convenient and dependency free wrapper for working with arrays and objects</sub></td>
-<td align="right"><b>6,541</b></td>
+<td align="right"><b>6,537</b></td>
 <td align="right">303</td>
 <td>JavaScript</td>
 </tr>
@@ -164,15 +164,15 @@
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/mikaelbr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mikaelbr/node-notifier"><b>mikaelbr/node-notifier</b></a><br><sub>A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)</sub></td>
-<td align="right"><b>5,845</b></td>
+<td align="right"><b>5,846</b></td>
 <td align="right">317</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">22</td>
 <td><img src="https://github.com/mifi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mifi/editly"><b>mifi/editly</b></a><br><sub>Slick, declarative command line video editing &amp; API</sub></td>
-<td align="right"><b>5,643</b></td>
-<td align="right">398</td>
+<td align="right"><b>5,655</b></td>
+<td align="right">400</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -185,14 +185,14 @@
 <tr>
 <td align="right">24</td>
 <td><img src="https://github.com/onmyway133.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/onmyway133/awesome-ios-architecture"><b>onmyway133/awesome-ios-architecture</b></a><br><sub>:japanese&#95;castle: Better ways to structure iOS apps</sub></td>
-<td align="right"><b>5,271</b></td>
-<td align="right">520</td>
+<td align="right"><b>5,270</b></td>
+<td align="right">519</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">25</td>
 <td><img src="https://github.com/Maxteabag.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Maxteabag/sqlit"><b>Maxteabag/sqlit</b></a><br><sub>A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.</sub></td>
-<td align="right"><b>5,002</b></td>
+<td align="right"><b>5,003</b></td>
 <td align="right">184</td>
 <td>Python</td>
 </tr>
@@ -200,35 +200,35 @@
 <td align="right">26</td>
 <td><img src="https://github.com/rakshasa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rakshasa/rtorrent"><b>rakshasa/rtorrent</b></a><br><sub>rTorrent BitTorrent client</sub></td>
 <td align="right"><b>4,896</b></td>
-<td align="right">487</td>
+<td align="right">488</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">27</td>
 <td><img src="https://github.com/hyperoslo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hyperoslo/ImagePicker"><b>hyperoslo/ImagePicker</b></a><br><sub>:camera: Reinventing the way ImagePicker works.</sub></td>
-<td align="right"><b>4,877</b></td>
+<td align="right"><b>4,875</b></td>
 <td align="right">669</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">28</td>
 <td><img src="https://github.com/atlemo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/atlemo/SubtlePatterns"><b>atlemo/SubtlePatterns</b></a><br><sub>All the patterns</sub></td>
-<td align="right"><b>4,801</b></td>
+<td align="right"><b>4,803</b></td>
 <td align="right">427</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">29</td>
 <td><img src="https://github.com/mikke89.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mikke89/RmlUi"><b>mikke89/RmlUi</b></a><br><sub>RmlUi - The HTML/CSS User Interface library evolved</sub></td>
-<td align="right"><b>4,650</b></td>
-<td align="right">509</td>
+<td align="right"><b>4,660</b></td>
+<td align="right">513</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">30</td>
 <td><img src="https://github.com/haugene.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/haugene/docker-transmission-openvpn"><b>haugene/docker-transmission-openvpn</b></a><br><sub>Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel</sub></td>
 <td align="right"><b>4,580</b></td>
-<td align="right">1,163</td>
+<td align="right">1,162</td>
 <td>Shell</td>
 </tr>
 <tr>
@@ -241,15 +241,15 @@
 <tr>
 <td align="right">32</td>
 <td><img src="https://github.com/mpolden.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mpolden/echoip"><b>mpolden/echoip</b></a><br><sub>A simple IP address lookup service.</sub></td>
-<td align="right"><b>4,363</b></td>
-<td align="right">567</td>
+<td align="right"><b>4,364</b></td>
+<td align="right">568</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">33</td>
 <td><img src="https://github.com/khellang.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/khellang/Scrutor"><b>khellang/Scrutor</b></a><br><sub>Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection</sub></td>
-<td align="right"><b>4,354</b></td>
-<td align="right">280</td>
+<td align="right"><b>4,355</b></td>
+<td align="right">281</td>
 <td>C#</td>
 </tr>
 <tr>

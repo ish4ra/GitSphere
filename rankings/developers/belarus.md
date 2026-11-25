@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **30** | 22 Nov 2026 | <a href="../../data/developers/BY.json">JSON</a> |
+| 🟡 Provisional | **36** | 22 Nov 2026 | <a href="../../data/developers/BY.json">JSON</a> |
 
 </div>
 
@@ -38,7 +38,7 @@
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/boykopovar"><img src="https://avatars.githubusercontent.com/u/184076081?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/boykopovar"><b>boykopovar</b></a><br><sub>&#64;boykopovar</sub></td>
-<td align="right"><b>1,650</b></td>
+<td align="right"><b>1,706</b></td>
 <td align="right">27</td>
 <td><sub>Belarus</sub></td>
 </tr>
@@ -149,85 +149,127 @@
 </tr>
 <tr>
 <td align="right">19</td>
-<td><a href="https://github.com/asaskevich"><img src="https://avatars.githubusercontent.com/u/5049590?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asaskevich"><b>Aliaksei (Alex) Saskevich</b></a><br><sub>&#64;asaskevich</sub></td>
-<td align="right"><b>187</b></td>
-<td align="right">0</td>
-<td><sub>Belarus</sub></td>
+<td><a href="https://github.com/iskaldobro"><img src="https://avatars.githubusercontent.com/u/235743831?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iskaldobro"><b>Iskal Dobro</b></a><br><sub>&#64;iskaldobro</sub></td>
+<td align="right"><b>191</b></td>
+<td align="right">10</td>
+<td><sub>Homieĺ</sub></td>
 </tr>
 <tr>
 <td align="right">20</td>
-<td><a href="https://github.com/dillidon"><img src="https://avatars.githubusercontent.com/u/7115804?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dillidon"><b>RV</b></a><br><sub>&#64;dillidon</sub></td>
-<td align="right"><b>185</b></td>
-<td align="right">0</td>
-<td><sub>Belarus</sub></td>
+<td><a href="https://github.com/Semigradsky"><img src="https://avatars.githubusercontent.com/u/1198848?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Semigradsky"><b>Dmitry Semigradsky</b></a><br><sub>&#64;Semigradsky</sub></td>
+<td align="right"><b>190</b></td>
+<td align="right">291</td>
+<td><sub>Minsk, Belarus</sub></td>
 </tr>
 <tr>
 <td align="right">21</td>
+<td><a href="https://github.com/asaskevich"><img src="https://avatars.githubusercontent.com/u/5049590?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asaskevich"><b>Aliaksei (Alex) Saskevich</b></a><br><sub>&#64;asaskevich</sub></td>
+<td align="right"><b>187</b></td>
+<td align="right">26</td>
+<td><sub>Belarus</sub></td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><a href="https://github.com/dillidon"><img src="https://avatars.githubusercontent.com/u/7115804?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dillidon"><b>RV</b></a><br><sub>&#64;dillidon</sub></td>
+<td align="right"><b>185</b></td>
+<td align="right">14</td>
+<td><sub>Belarus</sub></td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td><a href="https://github.com/Cvazer"><img src="https://avatars.githubusercontent.com/u/5880448?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Cvazer"><b>Cvazer</b></a><br><sub>&#64;Cvazer</sub></td>
+<td align="right"><b>184</b></td>
+<td align="right">11</td>
+<td><sub>Belarus, Minsk</sub></td>
+</tr>
+<tr>
+<td align="right">24</td>
 <td><a href="https://github.com/Duff89"><img src="https://avatars.githubusercontent.com/u/66443222?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Duff89"><b>Serhey Davydovich</b></a><br><sub>&#64;Duff89</sub></td>
 <td align="right"><b>175</b></td>
 <td align="right">0</td>
 <td><sub>Brest Belarus</sub></td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">25</td>
 <td><a href="https://github.com/alexzhirkevich"><img src="https://avatars.githubusercontent.com/u/63979218?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexzhirkevich"><b>Alexander Zhirkevich</b></a><br><sub>&#64;alexzhirkevich</sub></td>
 <td align="right"><b>164</b></td>
 <td align="right">0</td>
 <td><sub>Belarus, Minsk</sub></td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">26</td>
 <td><a href="https://github.com/barbushin"><img src="https://avatars.githubusercontent.com/u/683352?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/barbushin"><b>Sergey</b></a><br><sub>&#64;barbushin</sub></td>
 <td align="right"><b>154</b></td>
 <td align="right">0</td>
 <td><sub>Belarus</sub></td>
 </tr>
 <tr>
-<td align="right">24</td>
+<td align="right">27</td>
 <td><a href="https://github.com/Bayselonarrend"><img src="https://avatars.githubusercontent.com/u/105596284?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bayselonarrend"><b>Anton Titovets</b></a><br><sub>&#64;Bayselonarrend</sub></td>
 <td align="right"><b>152</b></td>
 <td align="right">0</td>
 <td><sub>Minsk, Belarus</sub></td>
 </tr>
 <tr>
-<td align="right">25</td>
+<td align="right">28</td>
 <td><a href="https://github.com/Mixaill"><img src="https://avatars.githubusercontent.com/u/704382?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mixaill"><b>Mikhail Paulyshka</b></a><br><sub>&#64;Mixaill</sub></td>
 <td align="right"><b>134</b></td>
 <td align="right">0</td>
 <td><sub>Minsk, Belarus</sub></td>
 </tr>
 <tr>
-<td align="right">26</td>
+<td align="right">29</td>
 <td><a href="https://github.com/oleg-py"><img src="https://avatars.githubusercontent.com/u/4143670?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/oleg-py"><b>Oleg Pyzhcov</b></a><br><sub>&#64;oleg-py</sub></td>
 <td align="right"><b>117</b></td>
 <td align="right">0</td>
 <td><sub>Minsk, Belarus</sub></td>
 </tr>
 <tr>
-<td align="right">27</td>
+<td align="right">30</td>
 <td><a href="https://github.com/staniel359"><img src="https://avatars.githubusercontent.com/u/18214933?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/staniel359"><b>Aleksey Shpakovsky</b></a><br><sub>&#64;staniel359</sub></td>
 <td align="right"><b>83</b></td>
 <td align="right">0</td>
 <td><sub>Minsk, Belarus</sub></td>
 </tr>
 <tr>
-<td align="right">28</td>
+<td align="right">31</td>
 <td><a href="https://github.com/zhiburt"><img src="https://avatars.githubusercontent.com/u/20165848?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zhiburt"><b>Maxim Zhiburt</b></a><br><sub>&#64;zhiburt</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">0</td>
 <td><sub>Belarus</sub></td>
 </tr>
 <tr>
-<td align="right">29</td>
+<td align="right">32</td>
+<td><a href="https://github.com/DmitryScaletta"><img src="https://avatars.githubusercontent.com/u/5096735?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DmitryScaletta"><b>DmitryScaletta</b></a><br><sub>&#64;DmitryScaletta</sub></td>
+<td align="right"><b>61</b></td>
+<td align="right">0</td>
+<td><sub>Belarus</sub></td>
+</tr>
+<tr>
+<td align="right">33</td>
 <td><a href="https://github.com/ptrofimov"><img src="https://avatars.githubusercontent.com/u/867178?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ptrofimov"><b>Peter</b></a><br><sub>&#64;ptrofimov</sub></td>
 <td align="right"><b>60</b></td>
 <td align="right">0</td>
 <td><sub>Беларусь, Минск</sub></td>
 </tr>
 <tr>
-<td align="right">30</td>
+<td align="right">34</td>
+<td><a href="https://github.com/sashakid"><img src="https://avatars.githubusercontent.com/u/5786373?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sashakid"><b>Sasha Kid</b></a><br><sub>&#64;sashakid</sub></td>
+<td align="right"><b>38</b></td>
+<td align="right">0</td>
+<td><sub>Minsk, BY</sub></td>
+</tr>
+<tr>
+<td align="right">35</td>
 <td><a href="https://github.com/jackson-storm"><img src="https://avatars.githubusercontent.com/u/179767501?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jackson-storm"><b>Evgeniy Petrukovich</b></a><br><sub>&#64;jackson-storm</sub></td>
 <td align="right"><b>28</b></td>
+<td align="right">0</td>
+<td><sub>Belarus</sub></td>
+</tr>
+<tr>
+<td align="right">36</td>
+<td><a href="https://github.com/SEVA77"><img src="https://avatars.githubusercontent.com/u/32693567?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SEVA77"><b>Usevalad Khatkevich</b></a><br><sub>&#64;SEVA77</sub></td>
+<td align="right"><b>26</b></td>
 <td align="right">0</td>
 <td><sub>Belarus</sub></td>
 </tr>
@@ -239,7 +281,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 30 attributed developers are tracked; the cutoff is 28 followers.
+- Organizations are excluded. 36 attributed developers are tracked; the cutoff is 26 followers.
 - **Location discovery:** term 0 of 159 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

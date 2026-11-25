@@ -5,7 +5,7 @@
 "country": {"code":"TN","name":"Tunisia","slug":"tunisia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":423,"measuredAccounts":10,"measurementBacklog":413,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":154,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":432,"measuredAccounts":10,"measurementBacklog":422,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":154,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjYxMzkzNzAw","login":"AzizBenIsmail","name":"Mohamed Aziz Ben Ismail","url":"https://github.com/AzizBenIsmail","avatarUrl":"https://avatars.githubusercontent.com/u/61393700?s=80&v=4","followers":571,"publicRepos":134,"location":"Tunisia, Djerba","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":1527,"commits":1494,"pullRequests":2,"reviews":0,"issues":0,"repositories":31,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":2,"id":"MDQ6VXNlcjEyNDM1MTY1","login":"khalillakhdhar","name":"Khalil Lakhdhar","url":"https://github.com/khalillakhdhar","avatarUrl":"https://avatars.githubusercontent.com/u/12435165?s=80&v=4","followers":206,"publicRepos":1139,"location":"Tunisia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25","contributions":{"public":274,"commits":225,"pullRequests":2,"reviews":0,"issues":0,"repositories":47,"windowFrom":"2025-11-25T04:00:00Z","windowTo":"2026-11-25T04:00:00Z","measuredOn":"2026-11-25"}},
@@ -17,8 +17,8 @@
   {"rank":8,"id":"MDQ6VXNlcjMwNDQ1MA==","login":"machour","name":"Mehdi Achour","url":"https://github.com/machour","avatarUrl":"https://avatars.githubusercontent.com/u/304450?s=80&v=4","followers":484,"publicRepos":160,"location":"Tunisia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":54,"commits":18,"pullRequests":15,"reviews":1,"issues":12,"repositories":8,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":9,"id":"MDQ6VXNlcjQwMjAzNDk3","login":"SelimHorri","name":"Selim Horri","url":"https://github.com/SelimHorri","avatarUrl":"https://avatars.githubusercontent.com/u/40203497?s=80&v=4","followers":2291,"publicRepos":97,"location":"Tunisia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":24,"commits":23,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "f7a05db6d0d951b1",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "0c80299982421ae8",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

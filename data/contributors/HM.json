@@ -5,7 +5,7 @@
 "country": {"code":"HM","name":"Heard & McDonald Islands","slug":"heard-mcdonald-islands"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":13,"measuredAccounts":12,"measurementBacklog":1,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":20,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":13,"measuredAccounts":13,"measurementBacklog":0,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":20,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjM0MTcxNQ==","login":"R-Pax","name":"pax","url":"https://github.com/R-Pax","avatarUrl":"https://avatars.githubusercontent.com/u/341715?s=80&v=4","followers":5,"publicRepos":3,"location":"Heard & McDonald Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":409,"commits":405,"pullRequests":1,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":2,"id":"U_kgDOD7-GyA","login":"ilikeshiny","name":null,"url":"https://github.com/ilikeshiny","avatarUrl":"https://avatars.githubusercontent.com/u/264210120?s=80&v=4","followers":0,"publicRepos":1,"location":"Heard & McDonald Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":17,"commits":15,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
@@ -15,8 +15,8 @@
   {"rank":6,"id":"U_kgDOCY3Nyg","login":"cwabbatron","name":"cwab","url":"https://github.com/cwabbatron","avatarUrl":"https://avatars.githubusercontent.com/u/160288202?s=80&v=4","followers":0,"publicRepos":3,"location":"Heard Island and McDonald Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":7,"id":"U_kgDOEyrYUw","login":"k8mh1fve7","name":"Mitchell Collier","url":"https://github.com/k8mh1fve7","avatarUrl":"https://avatars.githubusercontent.com/u/321574995?s=80&v=4","followers":0,"publicRepos":0,"location":"South Andrew, Heard Island and McDonald Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-24T21:00:00Z","windowTo":"2026-11-24T21:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "f43f335e2614c17a",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "85fb03e503f9c82e",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

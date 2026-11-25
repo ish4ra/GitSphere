@@ -193,7 +193,7 @@
 <td align="right">25</td>
 <td><a href="https://github.com/qiqt"><img src="https://avatars.githubusercontent.com/u/71264687?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/qiqt"><b>qiqt</b></a><br><sub>&#64;qiqt</sub></td>
 <td align="right"><b>194</b></td>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><sub>Riga, Latvia</sub></td>
 </tr>
 <tr>
@@ -207,7 +207,7 @@
 <td align="right">27</td>
 <td><a href="https://github.com/lauris"><img src="https://avatars.githubusercontent.com/u/625264?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lauris"><b>Lauris Dzilums</b></a><br><sub>&#64;lauris</sub></td>
 <td align="right"><b>186</b></td>
-<td align="right">0</td>
+<td align="right">35</td>
 <td><sub>Latvia</sub></td>
 </tr>
 <tr>

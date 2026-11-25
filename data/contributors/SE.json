@@ -5,7 +5,7 @@
 "country": {"code":"SE","name":"Sweden","slug":"sweden"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":1037,"measuredAccounts":11,"measurementBacklog":1026,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":176,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":1110,"measuredAccounts":11,"measurementBacklog":1099,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":176,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjE4OTU4MA==","login":"LinusU","name":"Linus Unnebäck","url":"https://github.com/LinusU","avatarUrl":"https://avatars.githubusercontent.com/u/189580?s=80&v=4","followers":1066,"publicRepos":911,"location":"Stockholm, Sweden","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":7185,"commits":7121,"pullRequests":31,"reviews":4,"issues":7,"repositories":20,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":2,"id":"MDQ6VXNlcjIwOTgyMzA=","login":"richelbilderbeek","name":"Richèl Bilderbeek","url":"https://github.com/richelbilderbeek","avatarUrl":"https://avatars.githubusercontent.com/u/2098230?s=80&v=4","followers":416,"publicRepos":1516,"location":"Uppsala, Sweden","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":5209,"commits":4953,"pullRequests":58,"reviews":17,"issues":138,"repositories":42,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
@@ -19,8 +19,8 @@
   {"rank":10,"id":"MDQ6VXNlcjY5MDc3MjU=","login":"sebbekarlsson","name":"Sebastian Karlsson (ianertson)","url":"https://github.com/sebbekarlsson","avatarUrl":"https://avatars.githubusercontent.com/u/6907725?s=80&v=4","followers":394,"publicRepos":483,"location":"Sweden, Stockholm","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":202,"commits":192,"pullRequests":2,"reviews":0,"issues":0,"repositories":8,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":11,"id":"MDQ6VXNlcjEzNjYxNTIw","login":"mehrdad-shokri","name":"Mehrdad Shokri","url":"https://github.com/mehrdad-shokri","avatarUrl":"https://avatars.githubusercontent.com/u/13661520?s=80&v=4","followers":207,"publicRepos":2869,"location":"Sweden","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25","contributions":{"public":91,"commits":87,"pullRequests":3,"reviews":0,"issues":1,"repositories":0,"windowFrom":"2025-11-25T04:00:00Z","windowTo":"2026-11-25T04:00:00Z","measuredOn":"2026-11-25"}}
 ],
-"contentHash": "9ed98c07060bcc5f",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "533f4ac721fd91a8",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

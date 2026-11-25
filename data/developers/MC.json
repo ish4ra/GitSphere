@@ -7,7 +7,7 @@
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
 "coverage": {"basis":"partial","cutoffFollowers":0,"candidates":327,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":23,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDOCvHVEw","login":"brighteyekid","name":"Must_be_the_Water","url":"https://github.com/brighteyekid","avatarUrl":"https://avatars.githubusercontent.com/u/183620883?s=80&v=4","followers":187,"publicRepos":10,"location":"Monaco → Chennai, IN","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":1,"id":"U_kgDOCvHVEw","login":"brighteyekid","name":"Must_be_the_Water","url":"https://github.com/brighteyekid","avatarUrl":"https://avatars.githubusercontent.com/u/183620883?s=80&v=4","followers":187,"publicRepos":10,"location":"Monaco → Chennai, IN","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"MDQ6VXNlcjg3MDc2MjM4","login":"aplatoff","name":"Andrey Platov","url":"https://github.com/aplatoff","avatarUrl":"https://avatars.githubusercontent.com/u/87076238?s=80&v=4","followers":131,"publicRepos":7,"location":"Monaco","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":3,"id":"MDQ6VXNlcjQzODU0Njkx","login":"jz222","name":"Timo Zimmermann","url":"https://github.com/jz222","avatarUrl":"https://avatars.githubusercontent.com/u/43854691?s=80&v=4","followers":96,"publicRepos":25,"location":"Monte-Carlo, Monaco","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":4,"id":"MDQ6VXNlcjMxNDE1NDE=","login":"laurentqro","name":"Laurent Curau","url":"https://github.com/laurentqro","avatarUrl":"https://avatars.githubusercontent.com/u/3141541?s=80&v=4","followers":39,"publicRepos":60,"location":"Monaco","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
@@ -335,8 +335,8 @@
   {"rank":326,"id":"MDQ6VXNlcjI0OTQ1NjMz","login":"zagof","name":null,"url":"https://github.com/zagof","avatarUrl":"https://avatars.githubusercontent.com/u/24945633?s=80&v=4","followers":0,"publicRepos":0,"location":"Monaco","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":327,"id":"U_kgDODMotOw","login":"Zecimia","name":"ZECIMIA","url":"https://github.com/Zecimia","avatarUrl":"https://avatars.githubusercontent.com/u/214576443?s=80&v=4","followers":0,"publicRepos":0,"location":"MONACO","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "8e88e2ab9d534bb8",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "aa66485dbd0009b7",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

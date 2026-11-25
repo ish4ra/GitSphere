@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/ripienaar"><img src="https://avatars.githubusercontent.com/u/82342?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ripienaar"><b>R.I.Pienaar</b></a><br><sub>&#64;ripienaar</sub></td>
-<td align="right"><b>4,074</b></td>
+<td align="right"><b>4,079</b></td>
 <td align="right">138</td>
 <td><sub>Malta</sub></td>
 </tr>
@@ -45,7 +45,7 @@
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/ChintanTrivedi"><img src="https://avatars.githubusercontent.com/u/15974320?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ChintanTrivedi"><b>Chintan Trivedi</b></a><br><sub>&#64;ChintanTrivedi</sub></td>
-<td align="right"><b>553</b></td>
+<td align="right"><b>552</b></td>
 <td align="right">12</td>
 <td><sub>University of Malta</sub></td>
 </tr>

@@ -24,168 +24,168 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/earendil-works.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/earendil-works/pi"><b>earendil-works/pi</b></a><br><sub>AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI</sub></td>
-<td align="right"><b>123,263</b></td>
-<td align="right">15,902</td>
+<td align="right"><b>123,843</b></td>
+<td align="right">15,995</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/PhilJay.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PhilJay/MPAndroidChart"><b>PhilJay/MPAndroidChart</b></a><br><sub>A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts…</sub></td>
-<td align="right"><b>38,186</b></td>
-<td align="right">8,959</td>
+<td align="right"><b>38,185</b></td>
+<td align="right">8,960</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/m1k1o.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/m1k1o/neko"><b>m1k1o/neko</b></a><br><sub>A self hosted virtual browser that runs in docker and uses WebRTC.</sub></td>
-<td align="right"><b>22,703</b></td>
-<td align="right">1,662</td>
+<td align="right"><b>22,716</b></td>
+<td align="right">1,665</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/sandboxie-plus.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sandboxie-plus/Sandboxie"><b>sandboxie-plus/Sandboxie</b></a><br><sub>Sandboxie Plus &amp; Classic</sub></td>
-<td align="right"><b>20,047</b></td>
-<td align="right">2,097</td>
+<td align="right"><b>20,085</b></td>
+<td align="right">2,100</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/enyo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/enyo/dropzone"><b>enyo/dropzone</b></a><br><sub>Dropzone is an easy to use drag&#39;n&#39;drop library. It supports image previews and shows nice progress bars.</sub></td>
-<td align="right"><b>18,406</b></td>
-<td align="right">3,224</td>
+<td align="right"><b>18,403</b></td>
+<td align="right">3,223</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/CoatiSoftware.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CoatiSoftware/Sourcetrail"><b>CoatiSoftware/Sourcetrail</b></a> <sub>archived</sub><br><sub>Sourcetrail - free and open-source interactive source explorer</sub></td>
-<td align="right"><b>16,453</b></td>
-<td align="right">1,674</td>
+<td align="right"><b>16,456</b></td>
+<td align="right">1,677</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/janpaepke.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/janpaepke/ScrollMagic"><b>janpaepke/ScrollMagic</b></a><br><sub>The javascript library for magical scroll interactions.</sub></td>
-<td align="right"><b>14,964</b></td>
-<td align="right">2,105</td>
+<td align="right"><b>14,965</b></td>
+<td align="right">2,103</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/safing.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/safing/portmaster"><b>safing/portmaster</b></a><br><sub>🏔 Love Freedom - ❌ Block Mass Surveillance</sub></td>
-<td align="right"><b>14,124</b></td>
-<td align="right">618</td>
+<td align="right"><b>14,137</b></td>
+<td align="right">619</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/majodev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/majodev/google-webfonts-helper"><b>majodev/google-webfonts-helper</b></a><br><sub>A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets</sub></td>
-<td align="right"><b>13,088</b></td>
-<td align="right">438</td>
+<td align="right"><b>13,087</b></td>
+<td align="right">437</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/imsnif.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/imsnif/bandwhich"><b>imsnif/bandwhich</b></a><br><sub>Terminal bandwidth utilization tool</sub></td>
-<td align="right"><b>12,090</b></td>
+<td align="right"><b>12,115</b></td>
 <td align="right">352</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/alexjc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexjc/neural-enhance"><b>alexjc/neural-enhance</b></a> <sub>archived</sub><br><sub>Super Resolution for images using deep learning.</sub></td>
-<td align="right"><b>11,852</b></td>
+<td align="right"><b>11,853</b></td>
 <td align="right">1,346</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/mikepenz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mikepenz/MaterialDrawer"><b>mikepenz/MaterialDrawer</b></a><br><sub>The flexible, easy to use, all in one drawer library for your Android project. Now brand new with material 2 design.</sub></td>
-<td align="right"><b>11,642</b></td>
-<td align="right">2,008</td>
+<td align="right"><b>11,643</b></td>
+<td align="right">2,007</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">13</td>
 <td><img src="https://github.com/timolins.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/timolins/react-hot-toast"><b>timolins/react-hot-toast</b></a><br><sub>Smoking Hot React Notifications 🔥</sub></td>
-<td align="right"><b>10,994</b></td>
-<td align="right">376</td>
+<td align="right"><b>10,991</b></td>
+<td align="right">378</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/alexjc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexjc/neural-doodle"><b>alexjc/neural-doodle</b></a> <sub>archived</sub><br><sub>Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfe…</sub></td>
-<td align="right"><b>9,842</b></td>
+<td align="right"><b>9,839</b></td>
 <td align="right">885</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/litedb-org.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/litedb-org/LiteDB"><b>litedb-org/LiteDB</b></a><br><sub>LiteDB - A .NET NoSQL Document Store in a single data file</sub></td>
-<td align="right"><b>9,492</b></td>
+<td align="right"><b>9,491</b></td>
 <td align="right">1,322</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">16</td>
 <td><img src="https://github.com/AppHouseKitchen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring"><b>AppHouseKitchen/AlDente-Battery&#95;Care&#95;and&#95;Monitoring</b></a><br><sub>Menu bar Tool to set Charge Limits and Prolong Battery Lifespan</sub></td>
-<td align="right"><b>9,257</b></td>
-<td align="right">333</td>
+<td align="right"><b>9,260</b></td>
+<td align="right">334</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/vendurehq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vendurehq/vendure"><b>vendurehq/vendure</b></a><br><sub>Open-source headless commerce platform built with TypeScript, NestJS, React, and GraphQL</sub></td>
-<td align="right"><b>8,611</b></td>
+<td align="right"><b>8,616</b></td>
 <td align="right">1,559</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">18</td>
 <td><img src="https://github.com/mherrmann.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mherrmann/helium"><b>mherrmann/helium</b></a><br><sub>Lighter web automation with Python</sub></td>
-<td align="right"><b>8,333</b></td>
-<td align="right">510</td>
+<td align="right"><b>8,334</b></td>
+<td align="right">508</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">19</td>
 <td><img src="https://github.com/webmozarts.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/webmozarts/assert"><b>webmozarts/assert</b></a><br><sub>Assertions to validate method input/output with nice error messages.</sub></td>
-<td align="right"><b>7,646</b></td>
+<td align="right"><b>7,644</b></td>
 <td align="right">168</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">20</td>
 <td><img src="https://github.com/MrLesk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MrLesk/Backlog.md"><b>MrLesk/Backlog.md</b></a><br><sub>Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem</sub></td>
-<td align="right"><b>7,469</b></td>
-<td align="right">497</td>
+<td align="right"><b>7,487</b></td>
+<td align="right">499</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/mfussenegger.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mfussenegger/nvim-dap"><b>mfussenegger/nvim-dap</b></a><br><sub>Debug Adapter Protocol client implementation for Neovim</sub></td>
-<td align="right"><b>7,314</b></td>
+<td align="right"><b>7,318</b></td>
 <td align="right">267</td>
 <td>Lua</td>
 </tr>
 <tr>
 <td align="right">22</td>
 <td><img src="https://github.com/Arthur-Ficial.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Arthur-Ficial/apfel"><b>Arthur-Ficial/apfel</b></a><br><sub>The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Int…</sub></td>
-<td align="right"><b>6,623</b></td>
-<td align="right">252</td>
+<td align="right"><b>6,624</b></td>
+<td align="right">253</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">23</td>
 <td><img src="https://github.com/gsantner.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gsantner/markor"><b>gsantner/markor</b></a><br><sub>Text editor - Notes, ToDo &amp; Filemanager (for Android) - Markdown, todo.txt, plaintext, math, ..</sub></td>
-<td align="right"><b>6,461</b></td>
+<td align="right"><b>6,475</b></td>
 <td align="right">573</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">24</td>
 <td><img src="https://github.com/dehydrated-io.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dehydrated-io/dehydrated"><b>dehydrated-io/dehydrated</b></a><br><sub>ACME client implemented as a simple shell-script – just add water</sub></td>
-<td align="right"><b>6,265</b></td>
+<td align="right"><b>6,263</b></td>
 <td align="right">722</td>
 <td>Shell</td>
 </tr>
@@ -193,20 +193,20 @@
 <td align="right">25</td>
 <td><img src="https://github.com/W4RH4WK.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/W4RH4WK/Debloat-Windows-10"><b>W4RH4WK/Debloat-Windows-10</b></a> <sub>archived</sub><br><sub>A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps</sub></td>
 <td align="right"><b>6,129</b></td>
-<td align="right">780</td>
+<td align="right">779</td>
 <td>PowerShell</td>
 </tr>
 <tr>
 <td align="right">26</td>
 <td><img src="https://github.com/pbek.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pbek/QOwnNotes"><b>pbek/QOwnNotes</b></a><br><sub>QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.</sub></td>
-<td align="right"><b>5,971</b></td>
+<td align="right"><b>5,974</b></td>
 <td align="right">497</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">27</td>
 <td><img src="https://github.com/win-acme.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/win-acme/win-acme"><b>win-acme/win-acme</b></a><br><sub>Automate SSL/TLS certificates on Windows with ease</sub></td>
-<td align="right"><b>5,842</b></td>
+<td align="right"><b>5,846</b></td>
 <td align="right">868</td>
 <td>C#</td>
 </tr>
@@ -227,7 +227,7 @@
 <tr>
 <td align="right">30</td>
 <td><img src="https://github.com/KingSora.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KingSora/OverlayScrollbars"><b>KingSora/OverlayScrollbars</b></a><br><sub>A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and prese…</sub></td>
-<td align="right"><b>5,245</b></td>
+<td align="right"><b>5,244</b></td>
 <td align="right">250</td>
 <td>TypeScript</td>
 </tr>
@@ -235,14 +235,14 @@
 <td align="right">31</td>
 <td><img src="https://github.com/serratus.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/serratus/quaggaJS"><b>serratus/quaggaJS</b></a><br><sub>An advanced barcode-scanner written in JavaScript</sub></td>
 <td align="right"><b>5,208</b></td>
-<td align="right">967</td>
+<td align="right">966</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">32</td>
 <td><img src="https://github.com/kimai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kimai/kimai"><b>kimai/kimai</b></a><br><sub>Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can m…</sub></td>
-<td align="right"><b>5,173</b></td>
-<td align="right">895</td>
+<td align="right"><b>5,181</b></td>
+<td align="right">896</td>
 <td>PHP</td>
 </tr>
 <tr>
@@ -262,29 +262,29 @@
 <tr>
 <td align="right">35</td>
 <td><img src="https://github.com/rfjakob.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rfjakob/gocryptfs"><b>rfjakob/gocryptfs</b></a><br><sub>Encrypted overlay filesystem written in Go</sub></td>
-<td align="right"><b>4,788</b></td>
-<td align="right">310</td>
+<td align="right"><b>4,796</b></td>
+<td align="right">313</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">36</td>
 <td><img src="https://github.com/amantus-ai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/amantus-ai/vibetunnel"><b>amantus-ai/vibetunnel</b></a><br><sub>Turn any browser into your terminal &amp; command your agents on the go.</sub></td>
 <td align="right"><b>4,709</b></td>
-<td align="right">334</td>
+<td align="right">335</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">37</td>
 <td><img src="https://github.com/markusschanta.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/markusschanta/awesome-jupyter"><b>markusschanta/awesome-jupyter</b></a><br><sub>A curated list of awesome Jupyter projects, libraries and resources</sub></td>
-<td align="right"><b>4,699</b></td>
-<td align="right">472</td>
+<td align="right"><b>4,702</b></td>
+<td align="right">473</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">38</td>
 <td><img src="https://github.com/r0f1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/r0f1/datascience"><b>r0f1/datascience</b></a><br><sub>Curated list of Python resources for data science.</sub></td>
-<td align="right"><b>4,696</b></td>
-<td align="right">717</td>
+<td align="right"><b>4,697</b></td>
+<td align="right">719</td>
 <td>—</td>
 </tr>
 <tr>
@@ -297,29 +297,29 @@
 <tr>
 <td align="right">40</td>
 <td><img src="https://github.com/mikepenz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mikepenz/AboutLibraries"><b>mikepenz/AboutLibraries</b></a><br><sub>AboutLibraries automatically collects all dependencies and licenses of any gradle project (Kotlin MultiPlatform), and p…</sub></td>
-<td align="right"><b>4,511</b></td>
-<td align="right">613</td>
+<td align="right"><b>4,517</b></td>
+<td align="right">616</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">41</td>
 <td><img src="https://github.com/rfjakob.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rfjakob/earlyoom"><b>rfjakob/earlyoom</b></a><br><sub>earlyoom - Early OOM Daemon for Linux</sub></td>
-<td align="right"><b>4,406</b></td>
+<td align="right"><b>4,414</b></td>
 <td align="right">216</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">42</td>
 <td><img src="https://github.com/amannn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/amannn/next-intl"><b>amannn/next-intl</b></a><br><sub>🌐 Internationalization (i18n) for Next.js</sub></td>
-<td align="right"><b>4,391</b></td>
+<td align="right"><b>4,392</b></td>
 <td align="right">398</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">43</td>
 <td><img src="https://github.com/nefarius.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nefarius/ViGEmBus"><b>nefarius/ViGEmBus</b></a> <sub>archived</sub><br><sub>Windows kernel-mode driver emulating well-known USB game controllers.</sub></td>
-<td align="right"><b>4,220</b></td>
-<td align="right">423</td>
+<td align="right"><b>4,219</b></td>
+<td align="right">425</td>
 <td>C++</td>
 </tr>
 <tr>

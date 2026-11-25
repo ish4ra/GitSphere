@@ -5,7 +5,7 @@
 "country": {"code":"PK","name":"Pakistan","slug":"pakistan"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":691,"measuredAccounts":11,"measurementBacklog":680,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":147,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":727,"measuredAccounts":11,"measurementBacklog":716,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":147,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjIyMjI3MDI=","login":"mubaidr","name":"Muhammad Ubaid Raza","url":"https://github.com/mubaidr","avatarUrl":"https://avatars.githubusercontent.com/u/2222702?s=80&v=4","followers":498,"publicRepos":528,"location":"Rawalpindi, Pakistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":1541,"commits":1429,"pullRequests":49,"reviews":0,"issues":51,"repositories":10,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":2,"id":"MDQ6VXNlcjQxNjM1NzY2","login":"Rubix982","name":"Saif Ul Islam","url":"https://github.com/Rubix982","avatarUrl":"https://avatars.githubusercontent.com/u/41635766?s=80&v=4","followers":469,"publicRepos":286,"location":"Karachi","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-24","contributions":{"public":1506,"commits":1480,"pullRequests":13,"reviews":0,"issues":0,"repositories":13,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
@@ -19,8 +19,8 @@
   {"rank":10,"id":"MDQ6VXNlcjE0MjczODQy","login":"mInzamamMalik","name":"Inzamam Malik","url":"https://github.com/mInzamamMalik","avatarUrl":"https://avatars.githubusercontent.com/u/14273842?s=80&v=4","followers":1254,"publicRepos":364,"location":"karachi, pakistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":21,"commits":19,"pullRequests":0,"reviews":1,"issues":1,"repositories":0,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":11,"id":"MDQ6VXNlcjI5MjUyMjc3","login":"usama7628674","name":"Usama Abdul Sattar","url":"https://github.com/usama7628674","avatarUrl":"https://avatars.githubusercontent.com/u/29252277?s=80&v=4","followers":371,"publicRepos":589,"location":"Lahore,Pakistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":12,"commits":5,"pullRequests":0,"reviews":0,"issues":5,"repositories":1,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "010d2b9c1c3cf367",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "1778363adbf859cd",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

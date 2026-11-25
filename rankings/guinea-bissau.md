@@ -117,8 +117,8 @@
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 0 stars; 12 attributed candidates are tracked.
 - 12 entries were carried over from the previous dataset and are pending revalidation.
-- 24 multi-repository owners are queued for expansion.
-- **Location discovery:** term 3 of 49 in round 1.
+- 34 multi-repository owners are queued for expansion.
+- **Location discovery:** term 6 of 49 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

@@ -24,120 +24,120 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/CorentinJ.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning"><b>CorentinJ/Real-Time-Voice-Cloning</b></a><br><sub>Clone a voice in 5 seconds to generate arbitrary speech in real-time</sub></td>
-<td align="right"><b>60,248</b></td>
-<td align="right">9,361</td>
+<td align="right"><b>60,252</b></td>
+<td align="right">9,356</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/odoo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/odoo/odoo"><b>odoo/odoo</b></a><br><sub>Odoo. Open Source Apps To Grow Your Business.</sub></td>
-<td align="right"><b>56,016</b></td>
-<td align="right">34,391</td>
+<td align="right"><b>56,089</b></td>
+<td align="right">34,421</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/JanDeDobbeleer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JanDeDobbeleer/oh-my-posh"><b>JanDeDobbeleer/oh-my-posh</b></a><br><sub>The most customisable and low-latency cross platform/shell prompt renderer</sub></td>
-<td align="right"><b>23,778</b></td>
-<td align="right">2,807</td>
+<td align="right"><b>23,788</b></td>
+<td align="right">2,810</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/folke.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/folke/lazy.nvim"><b>folke/lazy.nvim</b></a><br><sub>💤 A modern plugin manager for Neovim</sub></td>
-<td align="right"><b>21,757</b></td>
-<td align="right">627</td>
+<td align="right"><b>21,783</b></td>
+<td align="right">647</td>
 <td>Lua</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/spatie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spatie/laravel-permission"><b>spatie/laravel-permission</b></a><br><sub>Associate users with roles and permissions</sub></td>
-<td align="right"><b>12,985</b></td>
-<td align="right">1,817</td>
+<td align="right"><b>12,989</b></td>
+<td align="right">1,820</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/NielsRogge.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NielsRogge/Transformers-Tutorials"><b>NielsRogge/Transformers-Tutorials</b></a><br><sub>This repository contains demos I made with the Transformers library by HuggingFace.</sub></td>
-<td align="right"><b>11,786</b></td>
+<td align="right"><b>11,788</b></td>
 <td align="right">1,725</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/bendc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bendc/frontend-guidelines"><b>bendc/frontend-guidelines</b></a><br><sub>Some HTML, CSS and JS best practices.</sub></td>
-<td align="right"><b>9,133</b></td>
+<td align="right"><b>9,132</b></td>
 <td align="right">671</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/folke.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/folke/tokyonight.nvim"><b>folke/tokyonight.nvim</b></a><br><sub>🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional…</sub></td>
-<td align="right"><b>8,278</b></td>
+<td align="right"><b>8,293</b></td>
 <td align="right">550</td>
 <td>Lua</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/folke.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/folke/snacks.nvim"><b>folke/snacks.nvim</b></a><br><sub>🍿 A collection of QoL plugins for Neovim</sub></td>
-<td align="right"><b>8,229</b></td>
-<td align="right">526</td>
+<td align="right"><b>8,235</b></td>
+<td align="right">530</td>
 <td>Lua</td>
 </tr>
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/folke.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/folke/which-key.nvim"><b>folke/which-key.nvim</b></a><br><sub>💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in…</sub></td>
-<td align="right"><b>7,355</b></td>
+<td align="right"><b>7,371</b></td>
 <td align="right">273</td>
 <td>Lua</td>
 </tr>
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/folke.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/folke/trouble.nvim"><b>folke/trouble.nvim</b></a><br><sub>🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble yo…</sub></td>
-<td align="right"><b>6,928</b></td>
+<td align="right"><b>6,940</b></td>
 <td align="right">215</td>
 <td>Lua</td>
 </tr>
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/RobinHerbots.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RobinHerbots/Inputmask"><b>RobinHerbots/Inputmask</b></a><br><sub>Input Mask plugin</sub></td>
-<td align="right"><b>6,451</b></td>
-<td align="right">2,097</td>
+<td align="right"><b>6,450</b></td>
+<td align="right">2,096</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">13</td>
 <td><img src="https://github.com/nWidart.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nWidart/laravel-modules"><b>nWidart/laravel-modules</b></a><br><sub>Module Management In Laravel</sub></td>
-<td align="right"><b>6,241</b></td>
-<td align="right">1,011</td>
+<td align="right"><b>6,240</b></td>
+<td align="right">1,012</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/JanVanRyswyck.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JanVanRyswyck/awesome-talks"><b>JanVanRyswyck/awesome-talks</b></a><br><sub>Awesome online talks and screencasts</sub></td>
-<td align="right"><b>6,212</b></td>
+<td align="right"><b>6,213</b></td>
 <td align="right">417</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/spatie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spatie/laravel-medialibrary"><b>spatie/laravel-medialibrary</b></a><br><sub>Associate files with Eloquent models</sub></td>
-<td align="right"><b>6,174</b></td>
-<td align="right">1,096</td>
+<td align="right"><b>6,171</b></td>
+<td align="right">1,095</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">16</td>
 <td><img src="https://github.com/spatie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spatie/laravel-backup"><b>spatie/laravel-backup</b></a><br><sub>A package to backup your Laravel app</sub></td>
-<td align="right"><b>6,027</b></td>
-<td align="right">785</td>
+<td align="right"><b>6,030</b></td>
+<td align="right">786</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/bendc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bendc/animateplus"><b>bendc/animateplus</b></a><br><sub>A+ animation module for the modern web</sub></td>
-<td align="right"><b>5,947</b></td>
-<td align="right">277</td>
+<td align="right"><b>5,945</b></td>
+<td align="right">278</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -150,50 +150,50 @@
 <tr>
 <td align="right">19</td>
 <td><img src="https://github.com/folke.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/folke/noice.nvim"><b>folke/noice.nvim</b></a><br><sub>💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.</sub></td>
-<td align="right"><b>5,830</b></td>
-<td align="right">182</td>
+<td align="right"><b>5,831</b></td>
+<td align="right">183</td>
 <td>Lua</td>
 </tr>
 <tr>
 <td align="right">20</td>
 <td><img src="https://github.com/useplunk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/useplunk/plunk"><b>useplunk/plunk</b></a><br><sub>The Open-Source Email Platform</sub></td>
-<td align="right"><b>5,624</b></td>
-<td align="right">443</td>
+<td align="right"><b>5,633</b></td>
+<td align="right">444</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/spatie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spatie/browsershot"><b>spatie/browsershot</b></a><br><sub>Convert HTML to an image, PDF or string</sub></td>
-<td align="right"><b>5,250</b></td>
-<td align="right">506</td>
+<td align="right"><b>5,252</b></td>
+<td align="right">505</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">22</td>
 <td><img src="https://github.com/JanDeDobbeleer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JanDeDobbeleer/oh-my-posh2"><b>JanDeDobbeleer/oh-my-posh2</b></a> <sub>archived</sub><br><sub>A prompt theming engine for Powershell</sub></td>
-<td align="right"><b>5,209</b></td>
+<td align="right"><b>5,208</b></td>
 <td align="right">274</td>
 <td>PowerShell</td>
 </tr>
 <tr>
 <td align="right">23</td>
 <td><img src="https://github.com/MichielDerhaeg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MichielDerhaeg/build-linux"><b>MichielDerhaeg/build-linux</b></a><br><sub>A short tutorial about building Linux based operating systems.</sub></td>
-<td align="right"><b>5,202</b></td>
+<td align="right"><b>5,200</b></td>
 <td align="right">331</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">24</td>
 <td><img src="https://github.com/jenssegers.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jenssegers/agent"><b>jenssegers/agent</b></a><br><sub>👮 A PHP desktop/mobile user agent parser with support for Laravel, based on Mobiledetect</sub></td>
-<td align="right"><b>4,904</b></td>
+<td align="right"><b>4,906</b></td>
 <td align="right">554</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">25</td>
 <td><img src="https://github.com/Clooos.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Clooos/Bubble-Card"><b>Clooos/Bubble-Card</b></a><br><sub>Bubble Card is a minimalist and customizable card collection for Home Assistant, featuring modern pop-ups and an integr…</sub></td>
-<td align="right"><b>4,747</b></td>
-<td align="right">206</td>
+<td align="right"><b>4,752</b></td>
+<td align="right">207</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -214,13 +214,13 @@
 <td align="right">28</td>
 <td><img src="https://github.com/jarnedemeulemeester.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jarnedemeulemeester/findroid"><b>jarnedemeulemeester/findroid</b></a><br><sub>Third-party native Jellyfin Android app</sub></td>
 <td align="right"><b>4,306</b></td>
-<td align="right">338</td>
+<td align="right">340</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">29</td>
 <td><img src="https://github.com/folke.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/folke/flash.nvim"><b>folke/flash.nvim</b></a><br><sub>Navigate your code with search labels, enhanced character motions and Treesitter integration</sub></td>
-<td align="right"><b>4,282</b></td>
+<td align="right"><b>4,284</b></td>
 <td align="right">100</td>
 <td>Lua</td>
 </tr>
@@ -234,7 +234,7 @@
 <tr>
 <td align="right">31</td>
 <td><img src="https://github.com/folke.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/folke/todo-comments.nvim"><b>folke/todo-comments.nvim</b></a><br><sub>✅ Highlight, list and search todo comments in your projects</sub></td>
-<td align="right"><b>4,228</b></td>
+<td align="right"><b>4,227</b></td>
 <td align="right">141</td>
 <td>Lua</td>
 </tr>

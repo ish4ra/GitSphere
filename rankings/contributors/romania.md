@@ -52,7 +52,7 @@
 </tr>
 <tr>
 <td align="right">4</td>
-<td><a href="https://github.com/alin23"><img src="https://avatars.githubusercontent.com/u/3819725?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alin23"><b>Alin Panaitiu</b></a><br><sub>&#64;alin23 · 768 followers</sub></td>
+<td><a href="https://github.com/alin23"><img src="https://avatars.githubusercontent.com/u/3819725?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alin23"><b>Alin Panaitiu</b></a><br><sub>&#64;alin23 · 767 followers</sub></td>
 <td align="right"><b>1,367</b></td>
 <td align="right">1,358</td>
 <td align="right">5</td>
@@ -70,7 +70,7 @@
 </tr>
 <tr>
 <td align="right">6</td>
-<td><a href="https://github.com/Bogdanp"><img src="https://avatars.githubusercontent.com/u/43347?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bogdanp"><b>Bogdan Popa</b></a><br><sub>&#64;Bogdanp · 878 followers</sub></td>
+<td><a href="https://github.com/Bogdanp"><img src="https://avatars.githubusercontent.com/u/43347?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bogdanp"><b>Bogdan Popa</b></a><br><sub>&#64;Bogdanp · 879 followers</sub></td>
 <td align="right"><b>805</b></td>
 <td align="right">757</td>
 <td align="right">16</td>
@@ -129,7 +129,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 11 of 507 discovered developers (496 awaiting measurement).
+- **Measured:** 11 of 530 discovered developers (519 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 154 in round 1.

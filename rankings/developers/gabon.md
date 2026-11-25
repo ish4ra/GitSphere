@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **332** | 22 Nov 2026 | <a href="../../data/developers/GA.json">JSON</a> |
+| 🟡 Provisional | **359** | 22 Nov 2026 | <a href="../../data/developers/GA.json">JSON</a> |
 
 </div>
 
@@ -94,7 +94,7 @@
 <tr>
 <td align="right">11</td>
 <td><a href="https://github.com/Ggboykxz"><img src="https://avatars.githubusercontent.com/u/178436499?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ggboykxz"><b>Mr. ROBOT</b></a><br><sub>&#64;Ggboykxz</sub></td>
-<td align="right"><b>33</b></td>
+<td align="right"><b>32</b></td>
 <td align="right">62</td>
 <td><sub>Gabon</sub></td>
 </tr>
@@ -1857,24 +1857,24 @@
 </tr>
 <tr>
 <td align="right">263</td>
+<td><a href="https://github.com/franckyessouba-ai"><img src="https://avatars.githubusercontent.com/u/228495284?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/franckyessouba-ai"><b>franckyessouba-ai</b></a><br><sub>&#64;franckyessouba-ai</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Libreville-Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">264</td>
 <td><a href="https://github.com/privaekoreminang"><img src="https://avatars.githubusercontent.com/u/307452450?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/privaekoreminang"><b>Priva EKORE MINANG</b></a><br><sub>&#64;privaekoreminang</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Libreville, Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">264</td>
+<td align="right">265</td>
 <td><a href="https://github.com/victoria-ngoussi"><img src="https://avatars.githubusercontent.com/u/301062080?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/victoria-ngoussi"><b>Victoria Ngoussi</b></a><br><sub>&#64;victoria-ngoussi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Libreville, Gabon.</sub></td>
-</tr>
-<tr>
-<td align="right">265</td>
-<td><a href="https://github.com/franckyessouba-ai"><img src="https://avatars.githubusercontent.com/u/228495284?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/franckyessouba-ai"><b>franckyessouba-ai</b></a><br><sub>&#64;franckyessouba-ai</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">3</td>
-<td><sub>Libreville-Gabon</sub></td>
 </tr>
 <tr>
 <td align="right">266</td>
@@ -1885,465 +1885,654 @@
 </tr>
 <tr>
 <td align="right">267</td>
+<td><a href="https://github.com/Jbfils1997"><img src="https://avatars.githubusercontent.com/u/138055144?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jbfils1997"><b>Jean-Baptiste Fils NZENG NTOUTOUME</b></a><br><sub>&#64;Jbfils1997</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Gabon-Libreville</sub></td>
+</tr>
+<tr>
+<td align="right">268</td>
 <td><a href="https://github.com/Junior-andre"><img src="https://avatars.githubusercontent.com/u/205497251?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Junior-andre"><b>Junior André</b></a><br><sub>&#64;Junior-andre</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Nzeng-Ayong/Libreville</sub></td>
 </tr>
 <tr>
-<td align="right">268</td>
+<td align="right">269</td>
 <td><a href="https://github.com/nahle103"><img src="https://avatars.githubusercontent.com/u/336852283?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nahle103"><b>mhamad nahle</b></a><br><sub>&#64;nahle103</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>libreville gabon</sub></td>
 </tr>
 <tr>
-<td align="right">269</td>
+<td align="right">270</td>
 <td><a href="https://github.com/Nnangella"><img src="https://avatars.githubusercontent.com/u/213478147?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nnangella"><b>Nnang Ella folio Alphonse Yves</b></a><br><sub>&#64;Nnangella</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">270</td>
+<td align="right">271</td>
 <td><a href="https://github.com/Sevan1110"><img src="https://avatars.githubusercontent.com/u/205206964?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sevan1110"><b>Sevan Kedesh IKISSA PENDY</b></a><br><sub>&#64;Sevan1110</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Libreville, GABON</sub></td>
 </tr>
 <tr>
-<td align="right">271</td>
+<td align="right">272</td>
 <td><a href="https://github.com/SHOOMY-241"><img src="https://avatars.githubusercontent.com/u/189628300?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SHOOMY-241"><b>Auclair Arnold</b></a><br><sub>&#64;SHOOMY-241</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Libreville-Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">272</td>
+<td align="right">273</td>
 <td><a href="https://github.com/tekmeswes"><img src="https://avatars.githubusercontent.com/u/241136650?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tekmeswes"><b>tekmeswes</b></a><br><sub>&#64;tekmeswes</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">273</td>
+<td align="right">274</td>
 <td><a href="https://github.com/amoumich"><img src="https://avatars.githubusercontent.com/u/211075243?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amoumich"><b>Michikath Candice OUSSAMATOU</b></a><br><sub>&#64;amoumich</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Libreville, Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">274</td>
+<td align="right">275</td>
 <td><a href="https://github.com/auritech0"><img src="https://avatars.githubusercontent.com/u/312923591?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/auritech0"><b>AuriTech</b></a><br><sub>&#64;auritech0</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">275</td>
+<td align="right">276</td>
 <td><a href="https://github.com/babaoumar1-tech"><img src="https://avatars.githubusercontent.com/u/344558944?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/babaoumar1-tech"><b>Oumar Anne</b></a><br><sub>&#64;babaoumar1-tech</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>GABON</sub></td>
 </tr>
 <tr>
-<td align="right">276</td>
+<td align="right">277</td>
 <td><a href="https://github.com/babikamouguiamaemilelaurent-ship-it"><img src="https://avatars.githubusercontent.com/u/239235736?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/babikamouguiamaemilelaurent-ship-it"><b>Babika525</b></a><br><sub>&#64;babikamouguiamaemilelaurent-ship-it</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">277</td>
+<td align="right">278</td>
 <td><a href="https://github.com/coincartel-gb"><img src="https://avatars.githubusercontent.com/u/317907128?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/coincartel-gb"><b>CoinCartel</b></a><br><sub>&#64;coincartel-gb</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Gabon Libreville</sub></td>
 </tr>
 <tr>
-<td align="right">278</td>
+<td align="right">279</td>
 <td><a href="https://github.com/ewilogrh"><img src="https://avatars.githubusercontent.com/u/347497886?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ewilogrh"><b>EwiloGRH</b></a><br><sub>&#64;ewilogrh</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Libreville, Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">279</td>
+<td align="right">280</td>
+<td><a href="https://github.com/hnrconsulting"><img src="https://avatars.githubusercontent.com/u/328231077?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hnrconsulting"><b>HNR Consulting</b></a><br><sub>&#64;hnrconsulting</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Libreville - Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">281</td>
 <td><a href="https://github.com/IndiCircuit"><img src="https://avatars.githubusercontent.com/u/216567565?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IndiCircuit"><b>Indi</b></a><br><sub>&#64;IndiCircuit</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Gabon, Libreville</sub></td>
 </tr>
 <tr>
-<td align="right">280</td>
+<td align="right">282</td>
 <td><a href="https://github.com/MadAbass"><img src="https://avatars.githubusercontent.com/u/121390789?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MadAbass"><b>ABASSI Mouhamade</b></a><br><sub>&#64;MadAbass</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">281</td>
+<td align="right">283</td>
 <td><a href="https://github.com/MoneFan9"><img src="https://avatars.githubusercontent.com/u/244704399?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MoneFan9"><b>EBANG-MBA&#39;A O&#39;neil-Lévy</b></a><br><sub>&#64;MoneFan9</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Libreville, Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">282</td>
+<td align="right">284</td>
 <td><a href="https://github.com/moueleflorent423196-png"><img src="https://avatars.githubusercontent.com/u/308691835?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/moueleflorent423196-png"><b>Florent Mouele</b></a><br><sub>&#64;moueleflorent423196-png</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">283</td>
+<td align="right">285</td>
 <td><a href="https://github.com/moupigachancia-ux"><img src="https://avatars.githubusercontent.com/u/229897697?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/moupigachancia-ux"><b>Orlane Chancia MOUPIGA NZIGOU</b></a><br><sub>&#64;moupigachancia-ux</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">284</td>
+<td align="right">286</td>
 <td><a href="https://github.com/openseatinga-dotcom"><img src="https://avatars.githubusercontent.com/u/231395765?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/openseatinga-dotcom"><b>Open Seat In Gabon</b></a><br><sub>&#64;openseatinga-dotcom</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Libreville, Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">285</td>
+<td align="right">287</td>
 <td><a href="https://github.com/vanstevy98-lab"><img src="https://avatars.githubusercontent.com/u/236803975?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vanstevy98-lab"><b>Van-Stevy Iranga Koueli</b></a><br><sub>&#64;vanstevy98-lab</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>GABON</sub></td>
 </tr>
 <tr>
-<td align="right">286</td>
+<td align="right">288</td>
 <td><a href="https://github.com/alasco-27"><img src="https://avatars.githubusercontent.com/u/178665048?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alasco-27"><b>Alassane diaby</b></a><br><sub>&#64;alasco-27</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>GABON</sub></td>
 </tr>
 <tr>
-<td align="right">287</td>
+<td align="right">289</td>
 <td><a href="https://github.com/Andhy-Weslhey"><img src="https://avatars.githubusercontent.com/u/248358322?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Andhy-Weslhey"><b>Andhy-Weslhey</b></a><br><sub>&#64;Andhy-Weslhey</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">288</td>
+<td align="right">290</td>
 <td><a href="https://github.com/Cheifick"><img src="https://avatars.githubusercontent.com/u/147179819?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Cheifick"><b>Kaffo cheifick Aremou Akintola</b></a><br><sub>&#64;Cheifick</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Libreville Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">289</td>
+<td align="right">291</td>
 <td><a href="https://github.com/Christys44"><img src="https://avatars.githubusercontent.com/u/264802172?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Christys44"><b>Christelin IVALA</b></a><br><sub>&#64;Christys44</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Gabon, Libreville</sub></td>
 </tr>
 <tr>
-<td align="right">290</td>
+<td align="right">292</td>
 <td><a href="https://github.com/Cybb17dc"><img src="https://avatars.githubusercontent.com/u/174995631?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Cybb17dc"><b>CyberSense Développement</b></a><br><sub>&#64;Cybb17dc</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Libreville ,Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">291</td>
+<td align="right">293</td>
 <td><a href="https://github.com/darlyyebe"><img src="https://avatars.githubusercontent.com/u/228920974?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/darlyyebe"><b>Darlyyyy</b></a><br><sub>&#64;darlyyebe</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">292</td>
+<td align="right">294</td>
 <td><a href="https://github.com/DevSec-Gabon"><img src="https://avatars.githubusercontent.com/u/356932889?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DevSec-Gabon"><b>DevSec-Gabon</b></a><br><sub>&#64;DevSec-Gabon</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Libreville, Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">293</td>
+<td align="right">295</td>
 <td><a href="https://github.com/ericemba1-dev"><img src="https://avatars.githubusercontent.com/u/235792658?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ericemba1-dev"><b>ericemba1-dev</b></a><br><sub>&#64;ericemba1-dev</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">294</td>
+<td align="right">296</td>
 <td><a href="https://github.com/eroumbs96"><img src="https://avatars.githubusercontent.com/u/230333267?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eroumbs96"><b>Noah Davynson</b></a><br><sub>&#64;eroumbs96</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Libreville/Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">295</td>
+<td align="right">297</td>
 <td><a href="https://github.com/Flaurien241"><img src="https://avatars.githubusercontent.com/u/176065798?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Flaurien241"><b>Flaurien MOUINDA BOUKA</b></a><br><sub>&#64;Flaurien241</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>gabon libreville</sub></td>
 </tr>
 <tr>
-<td align="right">296</td>
+<td align="right">298</td>
 <td><a href="https://github.com/fofo-94"><img src="https://avatars.githubusercontent.com/u/216540544?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fofo-94"><b>félix</b></a><br><sub>&#64;fofo-94</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">297</td>
+<td align="right">299</td>
 <td><a href="https://github.com/hexa-node-NotDev"><img src="https://avatars.githubusercontent.com/u/247608903?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hexa-node-NotDev"><b>HEXA NODE</b></a><br><sub>&#64;hexa-node-NotDev</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Libreville/Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">298</td>
-<td><a href="https://github.com/hnrconsulting"><img src="https://avatars.githubusercontent.com/u/328231077?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hnrconsulting"><b>HNR Consulting</b></a><br><sub>&#64;hnrconsulting</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">1</td>
-<td><sub>Libreville - Gabon</sub></td>
-</tr>
-<tr>
-<td align="right">299</td>
+<td align="right">300</td>
 <td><a href="https://github.com/HNRodolphe"><img src="https://avatars.githubusercontent.com/u/328224666?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HNRodolphe"><b>Rodolphe HOUGANGOYE</b></a><br><sub>&#64;HNRodolphe</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Libreville - Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">300</td>
+<td align="right">301</td>
 <td><a href="https://github.com/keribouckat"><img src="https://avatars.githubusercontent.com/u/81677423?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/keribouckat"><b>Kéri Bouckat Bou Nziengui</b></a><br><sub>&#64;keribouckat</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Libreville, Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">301</td>
-<td><a href="https://github.com/kopangoye94-hue"><img src="https://avatars.githubusercontent.com/u/298690438?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kopangoye94-hue"><b>kopangoye94 hue</b></a><br><sub>&#64;kopangoye94-hue</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">1</td>
-<td><sub>libreville, gabon</sub></td>
-</tr>
-<tr>
 <td align="right">302</td>
-<td><a href="https://github.com/lancel0t617"><img src="https://avatars.githubusercontent.com/u/260120623?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lancel0t617"><b>Lancel0t</b></a><br><sub>&#64;lancel0t617</sub></td>
+<td><a href="https://github.com/kevindslk"><img src="https://avatars.githubusercontent.com/u/306618638?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kevindslk"><b>Kevine slk</b></a><br><sub>&#64;kevindslk</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Gabon</sub></td>
 </tr>
 <tr>
 <td align="right">303</td>
+<td><a href="https://github.com/kopangoye94-hue"><img src="https://avatars.githubusercontent.com/u/298690438?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kopangoye94-hue"><b>kopangoye94 hue</b></a><br><sub>&#64;kopangoye94-hue</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>libreville, gabon</sub></td>
+</tr>
+<tr>
+<td align="right">304</td>
+<td><a href="https://github.com/lancel0t617"><img src="https://avatars.githubusercontent.com/u/260120623?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lancel0t617"><b>Lancel0t</b></a><br><sub>&#64;lancel0t617</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">305</td>
 <td><a href="https://github.com/leslieango7-croquis"><img src="https://avatars.githubusercontent.com/u/298423216?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leslieango7-croquis"><b>Leslie Ango</b></a><br><sub>&#64;leslieango7-croquis</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">304</td>
+<td align="right">306</td>
 <td><a href="https://github.com/Lionel-BM"><img src="https://avatars.githubusercontent.com/u/240168813?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lionel-BM"><b>Lionel BM</b></a><br><sub>&#64;Lionel-BM</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Moanda, Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">305</td>
+<td align="right">307</td>
 <td><a href="https://github.com/makecrepin"><img src="https://avatars.githubusercontent.com/u/60568103?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/makecrepin"><b>Masongo keka crepin</b></a><br><sub>&#64;makecrepin</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">306</td>
+<td align="right">308</td>
 <td><a href="https://github.com/marcelassoumouh-afk"><img src="https://avatars.githubusercontent.com/u/336556091?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marcelassoumouh-afk"><b>Marcel ASSOUMOUH</b></a><br><sub>&#64;marcelassoumouh-afk</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Libreville, Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">307</td>
+<td align="right">309</td>
 <td><a href="https://github.com/mbadingaryan-sketch"><img src="https://avatars.githubusercontent.com/u/322156433?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mbadingaryan-sketch"><b>MBWENDI MBADINGA</b></a><br><sub>&#64;mbadingaryan-sketch</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">308</td>
+<td align="right">310</td>
 <td><a href="https://github.com/mstevydave2-jpg"><img src="https://avatars.githubusercontent.com/u/351648376?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mstevydave2-jpg"><b>MOMBO MOMBO Stevy Dave</b></a><br><sub>&#64;mstevydave2-jpg</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Libreville Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">309</td>
+<td align="right">311</td>
 <td><a href="https://github.com/ngoulouzenobe-hub"><img src="https://avatars.githubusercontent.com/u/247997473?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ngoulouzenobe-hub"><b>ryann zenobe NGOULOU PEGHA</b></a><br><sub>&#64;ngoulouzenobe-hub</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">310</td>
+<td align="right">312</td>
 <td><a href="https://github.com/NTCHOUERE-Cedric-dev"><img src="https://avatars.githubusercontent.com/u/278968661?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NTCHOUERE-Cedric-dev"><b>Cedric-dev</b></a><br><sub>&#64;NTCHOUERE-Cedric-dev</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">311</td>
+<td align="right">313</td>
 <td><a href="https://github.com/osengeneering-code"><img src="https://avatars.githubusercontent.com/u/231021747?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/osengeneering-code"><b>NZUE MBA Michel</b></a><br><sub>&#64;osengeneering-code</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Libreville,Oloumi</sub></td>
 </tr>
 <tr>
-<td align="right">312</td>
+<td align="right">314</td>
 <td><a href="https://github.com/Profi445"><img src="https://avatars.githubusercontent.com/u/233239889?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Profi445"><b>Grace Yuma-Elemi Bahati</b></a><br><sub>&#64;Profi445</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Libreville, Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">313</td>
+<td align="right">315</td>
 <td><a href="https://github.com/ReAkarin"><img src="https://avatars.githubusercontent.com/u/230998855?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ReAkarin"><b>404LinkNotFound</b></a><br><sub>&#64;ReAkarin</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Africa,Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">314</td>
+<td align="right">316</td>
 <td><a href="https://github.com/Yoruhime241"><img src="https://avatars.githubusercontent.com/u/278787695?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Yoruhime241"><b>Yoruhime241</b></a><br><sub>&#64;Yoruhime241</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">315</td>
+<td align="right">317</td>
 <td><a href="https://github.com/zizaharnelle-lab"><img src="https://avatars.githubusercontent.com/u/287064068?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zizaharnelle-lab"><b>Yeno Ziza Harnelle Layis</b></a><br><sub>&#64;zizaharnelle-lab</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Franceville, Gabon</sub></td>
 </tr>
 <tr>
-<td align="right">316</td>
-<td><a href="https://github.com/AlainObame"><img src="https://avatars.githubusercontent.com/u/351810595?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlainObame"><b>AlainObame</b></a><br><sub>&#64;AlainObame</sub></td>
+<td align="right">318</td>
+<td><a href="https://github.com/89psngf8qf-stack"><img src="https://avatars.githubusercontent.com/u/255682169?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/89psngf8qf-stack"><b>Darius nguema</b></a><br><sub>&#64;89psngf8qf-stack</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Gabon</sub></td>
-</tr>
-<tr>
-<td align="right">317</td>
-<td><a href="https://github.com/Christine-Sfftwine"><img src="https://avatars.githubusercontent.com/u/241241943?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Christine-Sfftwine"><b>Christine Jane L. Domagas</b></a><br><sub>&#64;Christine-Sfftwine</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">0</td>
-<td><sub>Gabon, Calasiao</sub></td>
-</tr>
-<tr>
-<td align="right">318</td>
-<td><a href="https://github.com/CodeorionG9"><img src="https://avatars.githubusercontent.com/u/186693908?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CodeorionG9"><b>CodeOrion</b></a><br><sub>&#64;CodeorionG9</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">0</td>
-<td><sub>Libreville (Gabon)</sub></td>
 </tr>
 <tr>
 <td align="right">319</td>
-<td><a href="https://github.com/Enock-Offishal"><img src="https://avatars.githubusercontent.com/u/337136534?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Enock-Offishal"><b>Ėnøçk Offishal</b></a><br><sub>&#64;Enock-Offishal</sub></td>
+<td><a href="https://github.com/abounenephta-dev"><img src="https://avatars.githubusercontent.com/u/300448293?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abounenephta-dev"><b>LeNephta</b></a><br><sub>&#64;abounenephta-dev</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
-<td><sub>Gabon</sub></td>
+<td><sub>Libreville-Gabon</sub></td>
 </tr>
 <tr>
 <td align="right">320</td>
-<td><a href="https://github.com/Gaboshop-241"><img src="https://avatars.githubusercontent.com/u/267133061?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Gaboshop-241"><b>NZE NDONG LOREL JUNIOR</b></a><br><sub>&#64;Gaboshop-241</sub></td>
+<td><a href="https://github.com/adelinefayolle"><img src="https://avatars.githubusercontent.com/u/51789500?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adelinefayolle"><b>Adeline FAYOLLE</b></a><br><sub>&#64;adelinefayolle</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Libreville, Gabon</sub></td>
 </tr>
 <tr>
 <td align="right">321</td>
-<td><a href="https://github.com/gbmsuite"><img src="https://avatars.githubusercontent.com/u/313813579?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gbmsuite"><b>GBMSuite</b></a><br><sub>&#64;gbmsuite</sub></td>
+<td><a href="https://github.com/AlainObame"><img src="https://avatars.githubusercontent.com/u/351810595?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlainObame"><b>AlainObame</b></a><br><sub>&#64;AlainObame</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Gabon</sub></td>
 </tr>
 <tr>
 <td align="right">322</td>
-<td><a href="https://github.com/ghesoom-art"><img src="https://avatars.githubusercontent.com/u/228949174?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ghesoom-art"><b>Serge SG</b></a><br><sub>&#64;ghesoom-art</sub></td>
+<td><a href="https://github.com/aznelssherif-ctrl"><img src="https://avatars.githubusercontent.com/u/245968769?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aznelssherif-ctrl"><b>Aznels officiel</b></a><br><sub>&#64;aznelssherif-ctrl</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
-<td><sub>Libreville Gabon</sub></td>
+<td><sub>Gabon</sub></td>
 </tr>
 <tr>
 <td align="right">323</td>
-<td><a href="https://github.com/ginaelmpoubou"><img src="https://avatars.githubusercontent.com/u/69312169?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ginaelmpoubou"><b>Ginael Constel MPOUBOU</b></a><br><sub>&#64;ginaelmpoubou</sub></td>
+<td><a href="https://github.com/Bono-92b"><img src="https://avatars.githubusercontent.com/u/176904325?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bono-92b"><b>O&#39;neil-levy EBANG MBA&#39;A</b></a><br><sub>&#64;Bono-92b</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
-<td><sub>Gabon</sub></td>
+<td><sub>Libreville, Gabon</sub></td>
 </tr>
 <tr>
 <td align="right">324</td>
-<td><a href="https://github.com/Juve1977"><img src="https://avatars.githubusercontent.com/u/221865074?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Juve1977"><b>Juvénal NGUELET</b></a><br><sub>&#64;Juve1977</sub></td>
+<td><a href="https://github.com/BwiTix241"><img src="https://avatars.githubusercontent.com/u/205518657?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BwiTix241"><b>BTX</b></a><br><sub>&#64;BwiTix241</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
-<td><sub>GABON</sub></td>
+<td><sub>Libreville, Gabon</sub></td>
 </tr>
 <tr>
 <td align="right">325</td>
-<td><a href="https://github.com/KingLegende"><img src="https://avatars.githubusercontent.com/u/254307598?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KingLegende"><b>Legende</b></a><br><sub>&#64;KingLegende</sub></td>
+<td><a href="https://github.com/Christine-Sfftwine"><img src="https://avatars.githubusercontent.com/u/241241943?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Christine-Sfftwine"><b>Christine Jane L. Domagas</b></a><br><sub>&#64;Christine-Sfftwine</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
-<td><sub>Gabon</sub></td>
+<td><sub>Gabon, Calasiao</sub></td>
 </tr>
 <tr>
 <td align="right">326</td>
-<td><a href="https://github.com/MAVOUNGOU-Serge-Murlain"><img src="https://avatars.githubusercontent.com/u/321235996?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MAVOUNGOU-Serge-Murlain"><b>MAVOUNGOU Serge Murlain</b></a><br><sub>&#64;MAVOUNGOU-Serge-Murlain</sub></td>
+<td><a href="https://github.com/CodeorionG9"><img src="https://avatars.githubusercontent.com/u/186693908?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CodeorionG9"><b>CodeOrion</b></a><br><sub>&#64;CodeorionG9</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
-<td><sub>Libreville, Estuaire, Gabon</sub></td>
+<td><sub>Libreville (Gabon)</sub></td>
 </tr>
 <tr>
 <td align="right">327</td>
-<td><a href="https://github.com/mgncodewave"><img src="https://avatars.githubusercontent.com/u/340637235?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mgncodewave"><b>M.G.N CodeWave</b></a><br><sub>&#64;mgncodewave</sub></td>
+<td><a href="https://github.com/Enock-Offishal"><img src="https://avatars.githubusercontent.com/u/337136534?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Enock-Offishal"><b>Ėnøçk Offishal</b></a><br><sub>&#64;Enock-Offishal</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Gabon</sub></td>
 </tr>
 <tr>
 <td align="right">328</td>
-<td><a href="https://github.com/Mintsa10"><img src="https://avatars.githubusercontent.com/u/204675926?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mintsa10"><b>mintsa christian</b></a><br><sub>&#64;Mintsa10</sub></td>
+<td><a href="https://github.com/eriasgabon-hash"><img src="https://avatars.githubusercontent.com/u/352951993?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eriasgabon-hash"><b>Steve</b></a><br><sub>&#64;eriasgabon-hash</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Gabon</sub></td>
 </tr>
 <tr>
 <td align="right">329</td>
-<td><a href="https://github.com/ndoatougoumax-design"><img src="https://avatars.githubusercontent.com/u/324619167?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ndoatougoumax-design"><b>MaxVortex👨💻</b></a><br><sub>&#64;ndoatougoumax-design</sub></td>
+<td><a href="https://github.com/gabomanewbusiness-gif"><img src="https://avatars.githubusercontent.com/u/258400595?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gabomanewbusiness-gif"><b>Herl-OneME</b></a><br><sub>&#64;gabomanewbusiness-gif</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
-<td><sub>Gabon</sub></td>
+<td><sub>Libreville-Gabon</sub></td>
 </tr>
 <tr>
 <td align="right">330</td>
-<td><a href="https://github.com/papaganwonderworld"><img src="https://avatars.githubusercontent.com/u/262132749?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/papaganwonderworld"><b>Papağan WonderWorld</b></a><br><sub>&#64;papaganwonderworld</sub></td>
+<td><a href="https://github.com/Gaboshop-241"><img src="https://avatars.githubusercontent.com/u/267133061?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Gaboshop-241"><b>NZE NDONG LOREL JUNIOR</b></a><br><sub>&#64;Gaboshop-241</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Libreville, Gabon</sub></td>
 </tr>
 <tr>
 <td align="right">331</td>
+<td><a href="https://github.com/gbmsuite"><img src="https://avatars.githubusercontent.com/u/313813579?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gbmsuite"><b>GBMSuite</b></a><br><sub>&#64;gbmsuite</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">332</td>
+<td><a href="https://github.com/ghesoom-art"><img src="https://avatars.githubusercontent.com/u/228949174?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ghesoom-art"><b>Serge SG</b></a><br><sub>&#64;ghesoom-art</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Libreville Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">333</td>
+<td><a href="https://github.com/gildasnzikoune-coder"><img src="https://avatars.githubusercontent.com/u/280578836?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gildasnzikoune-coder"><b>Gildas Nzikoune</b></a><br><sub>&#64;gildasnzikoune-coder</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Libreville - Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">334</td>
+<td><a href="https://github.com/ginaelmpoubou"><img src="https://avatars.githubusercontent.com/u/69312169?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ginaelmpoubou"><b>Ginael Constel MPOUBOU</b></a><br><sub>&#64;ginaelmpoubou</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">335</td>
+<td><a href="https://github.com/JDNG241"><img src="https://avatars.githubusercontent.com/u/355111991?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JDNG241"><b>Bâtisseur++</b></a><br><sub>&#64;JDNG241</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Libreville/Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">336</td>
+<td><a href="https://github.com/Juve1977"><img src="https://avatars.githubusercontent.com/u/221865074?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Juve1977"><b>Juvénal NGUELET</b></a><br><sub>&#64;Juve1977</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>GABON</sub></td>
+</tr>
+<tr>
+<td align="right">337</td>
+<td><a href="https://github.com/KingLegende"><img src="https://avatars.githubusercontent.com/u/254307598?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KingLegende"><b>Legende</b></a><br><sub>&#64;KingLegende</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">338</td>
+<td><a href="https://github.com/legenuis-h"><img src="https://avatars.githubusercontent.com/u/288776170?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/legenuis-h"><b>Legeniex</b></a><br><sub>&#64;legenuis-h</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">339</td>
+<td><a href="https://github.com/maverlaine"><img src="https://avatars.githubusercontent.com/u/228641176?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maverlaine"><b>Verlaine MVE</b></a><br><sub>&#64;maverlaine</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">340</td>
+<td><a href="https://github.com/MAVOUNGOU-Serge-Murlain"><img src="https://avatars.githubusercontent.com/u/321235996?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MAVOUNGOU-Serge-Murlain"><b>MAVOUNGOU Serge Murlain</b></a><br><sub>&#64;MAVOUNGOU-Serge-Murlain</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Libreville, Estuaire, Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">341</td>
+<td><a href="https://github.com/mgncodewave"><img src="https://avatars.githubusercontent.com/u/340637235?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mgncodewave"><b>M.G.N CodeWave</b></a><br><sub>&#64;mgncodewave</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">342</td>
+<td><a href="https://github.com/microlinkga"><img src="https://avatars.githubusercontent.com/u/225816165?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/microlinkga"><b>MicroLink</b></a><br><sub>&#64;microlinkga</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Libreville - GABON</sub></td>
+</tr>
+<tr>
+<td align="right">343</td>
+<td><a href="https://github.com/Mintsa10"><img src="https://avatars.githubusercontent.com/u/204675926?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mintsa10"><b>mintsa christian</b></a><br><sub>&#64;Mintsa10</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">344</td>
+<td><a href="https://github.com/ndoatougoumax-design"><img src="https://avatars.githubusercontent.com/u/324619167?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ndoatougoumax-design"><b>MaxVortex👨💻</b></a><br><sub>&#64;ndoatougoumax-design</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">345</td>
+<td><a href="https://github.com/nicolassoule-ASI"><img src="https://avatars.githubusercontent.com/u/322160074?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nicolassoule-ASI"><b>ASI CONSULTING</b></a><br><sub>&#64;nicolassoule-ASI</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Libreville, Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">346</td>
+<td><a href="https://github.com/nkogheredford-stack"><img src="https://avatars.githubusercontent.com/u/351025599?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nkogheredford-stack"><b>Redford Nkoghe</b></a><br><sub>&#64;nkogheredford-stack</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">347</td>
+<td><a href="https://github.com/No3-code"><img src="https://avatars.githubusercontent.com/u/224760176?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/No3-code"><b>Noe</b></a><br><sub>&#64;No3-code</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">348</td>
+<td><a href="https://github.com/okanaobouoyibarroswency-svg"><img src="https://avatars.githubusercontent.com/u/249972067?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/okanaobouoyibarroswency-svg"><b>Ghost hunter</b></a><br><sub>&#64;okanaobouoyibarroswency-svg</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">349</td>
+<td><a href="https://github.com/papaganwonderworld"><img src="https://avatars.githubusercontent.com/u/262132749?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/papaganwonderworld"><b>Papağan WonderWorld</b></a><br><sub>&#64;papaganwonderworld</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Libreville, Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">350</td>
+<td><a href="https://github.com/PARON-1902"><img src="https://avatars.githubusercontent.com/u/305409344?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PARON-1902"><b>Paul NKOGHE</b></a><br><sub>&#64;PARON-1902</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">351</td>
+<td><a href="https://github.com/Patkool76"><img src="https://avatars.githubusercontent.com/u/199955109?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Patkool76"><b>Lekunaga PITTY</b></a><br><sub>&#64;Patkool76</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">352</td>
+<td><a href="https://github.com/prosturox"><img src="https://avatars.githubusercontent.com/u/327802693?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/prosturox"><b>prosturox</b></a><br><sub>&#64;prosturox</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">353</td>
 <td><a href="https://github.com/RODNEllANGOUE-cloud"><img src="https://avatars.githubusercontent.com/u/321206571?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RODNEllANGOUE-cloud"><b>RODNELL ANGOUE</b></a><br><sub>&#64;RODNEllANGOUE-cloud</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>LIBREVILLE GABON</sub></td>
 </tr>
 <tr>
-<td align="right">332</td>
+<td align="right">354</td>
+<td><a href="https://github.com/servicesflymopay-cloud"><img src="https://avatars.githubusercontent.com/u/241864413?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/servicesflymopay-cloud"><b>Flymopay</b></a><br><sub>&#64;servicesflymopay-cloud</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">355</td>
+<td><a href="https://github.com/Spiritlighter"><img src="https://avatars.githubusercontent.com/u/147673803?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Spiritlighter"><b>Spiritlighter</b></a><br><sub>&#64;Spiritlighter</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Libreville-Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">356</td>
+<td><a href="https://github.com/stnpog-sketch"><img src="https://avatars.githubusercontent.com/u/270604136?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stnpog-sketch"><b>Nicopog</b></a><br><sub>&#64;stnpog-sketch</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">357</td>
 <td><a href="https://github.com/wildmarck"><img src="https://avatars.githubusercontent.com/u/160800188?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wildmarck"><b>Prince Wildmarck</b></a><br><sub>&#64;wildmarck</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Libreville, Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">358</td>
+<td><a href="https://github.com/ynous28"><img src="https://avatars.githubusercontent.com/u/106107213?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ynous28"><b>Ynous Djida</b></a><br><sub>&#64;ynous28</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Gabon</sub></td>
+</tr>
+<tr>
+<td align="right">359</td>
+<td><a href="https://github.com/ZeusAmorin"><img src="https://avatars.githubusercontent.com/u/279161518?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ZeusAmorin"><b>ZeusAmorin</b></a><br><sub>&#64;ZeusAmorin</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Gabon</sub></td>
 </tr>
 </tbody>
 </table>
@@ -2353,8 +2542,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 332 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 0 of 45 in round 1.
+- Organizations are excluded. 359 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 2 of 45 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

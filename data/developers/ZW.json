@@ -5,7 +5,7 @@
 "country": {"code":"ZW","name":"Zimbabwe","slug":"zimbabwe"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":12,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":66,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":14,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":66,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"U_kgDOCCSyhg","login":"sehmaluva","name":"Malvin T. Machingura","url":"https://github.com/sehmaluva","avatarUrl":"https://avatars.githubusercontent.com/u/136622726?s=80&v=4","followers":1299,"publicRepos":39,"location":"Harare, Zimbabwe","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"U_kgDODElJQQ","login":"mrfr8nk","name":"𝐃𝐀𝐑𝐑𝐄𝐋𝐋 𝐌𝐔𝐂𝐇𝐄𝐑𝐈 ⚡","url":"https://github.com/mrfr8nk","avatarUrl":"https://avatars.githubusercontent.com/u/206129473?s=80&v=4","followers":622,"publicRepos":92,"location":"Zimbabwe, Harare","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
@@ -17,11 +17,13 @@
   {"rank":8,"id":"MDQ6VXNlcjUyNjI2MjYz","login":"kculz","name":"Kudzai Munyama","url":"https://github.com/kculz","avatarUrl":"https://avatars.githubusercontent.com/u/52626263?s=80&v=4","followers":202,"publicRepos":65,"location":"Mutare, Zimbabwe","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-25"},
   {"rank":9,"id":"MDQ6VXNlcjE4MTkyMzc1","login":"skyridertk","name":"Tanaka I Kahwai","url":"https://github.com/skyridertk","avatarUrl":"https://avatars.githubusercontent.com/u/18192375?s=80&v=4","followers":197,"publicRepos":46,"location":"Harare, Zimbabwe","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-25"},
   {"rank":10,"id":"MDQ6VXNlcjQwNDI4NDQ5","login":"who0sy","name":"小二","url":"https://github.com/who0sy","avatarUrl":"https://avatars.githubusercontent.com/u/40428449?s=80&v=4","followers":195,"publicRepos":312,"location":"Arcturus","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-25"},
-  {"rank":11,"id":"U_kgDOBsn0_g","login":"0771501771","name":"Justice Shirichena","url":"https://github.com/0771501771","avatarUrl":"https://avatars.githubusercontent.com/u/113898750?s=80&v=4","followers":0,"publicRepos":1,"location":"Harare Zimbabwe","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
-  {"rank":12,"id":"MDQ6VXNlcjg1MTQzMQ==","login":"0774622896","name":"LUVEVE","url":"https://github.com/0774622896","avatarUrl":"https://avatars.githubusercontent.com/u/851431?s=80&v=4","followers":0,"publicRepos":1,"location":"ZIMBABWE","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
+  {"rank":11,"id":"MDQ6VXNlcjc1NTIyMTY5","login":"blessing-mufaro","name":"Blessing Mufaro Kashava","url":"https://github.com/blessing-mufaro","avatarUrl":"https://avatars.githubusercontent.com/u/75522169?s=80&v=4","followers":187,"publicRepos":26,"location":"Harare, Zimbabwe","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-25"},
+  {"rank":12,"id":"MDQ6VXNlcjIyODAxMjI3","login":"alistairholmes","name":"Alistair Holmes","url":"https://github.com/alistairholmes","avatarUrl":"https://avatars.githubusercontent.com/u/22801227?s=80&v=4","followers":183,"publicRepos":113,"location":"Bulawayo, Zimbabwe","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-25"},
+  {"rank":13,"id":"U_kgDOBsn0_g","login":"0771501771","name":"Justice Shirichena","url":"https://github.com/0771501771","avatarUrl":"https://avatars.githubusercontent.com/u/113898750?s=80&v=4","followers":0,"publicRepos":1,"location":"Harare Zimbabwe","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":14,"id":"MDQ6VXNlcjg1MTQzMQ==","login":"0774622896","name":"LUVEVE","url":"https://github.com/0774622896","avatarUrl":"https://avatars.githubusercontent.com/u/851431?s=80&v=4","followers":0,"publicRepos":1,"location":"ZIMBABWE","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "37553741481e8e4c",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "648a8ff3d610496d",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **56** | 22 Nov 2026 | <a href="../data/ZA.json">JSON</a> |
+| 🟡 Provisional | **63** | 22 Nov 2026 | <a href="../data/ZA.json">JSON</a> |
 
 </div>
 
@@ -24,29 +24,29 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/cobusgreyling.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cobusgreyling/loop-engineering"><b>cobusgreyling/loop-engineering</b></a><br><sub>Practical patterns, starters &amp; CLI tools for loop engineering with AI coding agents. Design systems that prompt and orc…</sub></td>
-<td align="right"><b>11,819</b></td>
-<td align="right">1,585</td>
+<td align="right"><b>11,834</b></td>
+<td align="right">1,586</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/olivernn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/olivernn/lunr.js"><b>olivernn/lunr.js</b></a><br><sub>A bit like Solr, but much smaller and not as bright</sub></td>
-<td align="right"><b>9,201</b></td>
+<td align="right"><b>9,200</b></td>
 <td align="right">555</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">3</td>
-<td><img src="https://github.com/limbopro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/limbopro/Paolujichang"><b>limbopro/Paolujichang</b></a><br><sub>科学上网🕸️之跑路机场名单收集（2020-2026），欢迎投稿。客观描述，保持友善，Ad 🔗 🈲🙅❌</sub></td>
-<td align="right"><b>8,006</b></td>
-<td align="right">107</td>
+<td><img src="https://github.com/limbopro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/limbopro/Paolujichang"><b>limbopro/Paolujichang</b></a><br><sub>科学上网🕸️之跑路机场名单收集（2020-2026），欢迎投稿。💡&#91;72小时内&#93;遇到问题建议先查看机场公告，尝试联系机场客服或提交工单；客观描述，保持友善；Ad 🔗 🈲🙅❌</sub></td>
+<td align="right"><b>8,054</b></td>
+<td align="right">108</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/rizonesoft.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rizonesoft/Notepad3"><b>rizonesoft/Notepad3</b></a><br><sub>Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code…</sub></td>
-<td align="right"><b>6,798</b></td>
-<td align="right">416</td>
+<td align="right"><b>6,803</b></td>
+<td align="right">419</td>
 <td>C</td>
 </tr>
 <tr>
@@ -59,7 +59,7 @@
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/FilledStacks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FilledStacks/flutter-tutorials"><b>FilledStacks/flutter-tutorials</b></a><br><sub>The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.</sub></td>
-<td align="right"><b>4,767</b></td>
+<td align="right"><b>4,766</b></td>
 <td align="right">1,690</td>
 <td>Dart</td>
 </tr>
@@ -413,6 +413,55 @@
 <td align="right">44</td>
 <td>JavaScript</td>
 </tr>
+<tr>
+<td align="right">57</td>
+<td><img src="https://github.com/ruanbekker.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ruanbekker/cheatsheets"><b>ruanbekker/cheatsheets</b></a><br><sub>My Cheatsheet Repository</sub></td>
+<td align="right"><b>536</b></td>
+<td align="right">154</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><img src="https://github.com/danini-the-panini.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/danini-the-panini/mittsu"><b>danini-the-panini/mittsu</b></a><br><sub>3D Graphics Library for Ruby.</sub></td>
+<td align="right"><b>536</b></td>
+<td align="right">30</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><img src="https://github.com/olivernn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/olivernn/davis.js"><b>olivernn/davis.js</b></a><br><sub>RESTful degradable JavaScript routing using pushState</sub></td>
+<td align="right"><b>528</b></td>
+<td align="right">57</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><img src="https://github.com/FilledStacks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FilledStacks/responsive_builder"><b>FilledStacks/responsive&#95;builder</b></a><br><sub>A set of widgets to make responsive UI building in flutter more readable</sub></td>
+<td align="right"><b>524</b></td>
+<td align="right">93</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><img src="https://github.com/ThaumRystra.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ThaumRystra/DiceCloud"><b>ThaumRystra/DiceCloud</b></a><br><sub>D&amp;D 5e digital character manager</sub></td>
+<td align="right"><b>521</b></td>
+<td align="right">137</td>
+<td>Vue</td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><img src="https://github.com/eliasjudin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eliasjudin/oai-skills"><b>eliasjudin/oai-skills</b></a> <sub>archived</sub><br><sub>The contents of /home/oai/skills in ChatGPT&#39;s code interpreter environment</sub></td>
+<td align="right"><b>520</b></td>
+<td align="right">108</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/redrabbit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/redrabbit/git.limo"><b>redrabbit/git.limo</b></a><br><sub>A Git source code management tool powered by Elixir with easy installation &amp; high extensibility.</sub></td>
+<td align="right"><b>514</b></td>
+<td align="right">45</td>
+<td>Elixir</td>
+</tr>
 </tbody>
 </table>
 
@@ -421,8 +470,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 573 stars; 56 attributed candidates are tracked.
-- 121 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 514 stars; 63 attributed candidates are tracked.
+- 118 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 144 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

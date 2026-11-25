@@ -24,42 +24,42 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/florinpop17.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/florinpop17/app-ideas"><b>florinpop17/app-ideas</b></a><br><sub>A Collection of application ideas which can be used to improve your coding skills.</sub></td>
-<td align="right"><b>98,672</b></td>
-<td align="right">10,679</td>
+<td align="right"><b>98,721</b></td>
+<td align="right">10,676</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/DavidHDev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DavidHDev/react-bits"><b>DavidHDev/react-bits</b></a><br><sub>The largest open-source library of animated, interactive, and customizable React &amp; Next.js components for building stan…</sub></td>
-<td align="right"><b>52,469</b></td>
-<td align="right">2,658</td>
+<td align="right"><b>52,685</b></td>
+<td align="right">2,674</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/eugenp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eugenp/tutorials"><b>eugenp/tutorials</b></a><br><sub>Getting Started with Spring Boot 3:</sub></td>
 <td align="right"><b>37,305</b></td>
-<td align="right">53,026</td>
+<td align="right">53,013</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">4</td>
 <td><img src="https://github.com/valinet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/valinet/ExplorerPatcher"><b>valinet/ExplorerPatcher</b></a><br><sub>This project aims to enhance the working environment on Windows</sub></td>
-<td align="right"><b>34,388</b></td>
-<td align="right">1,390</td>
+<td align="right"><b>34,419</b></td>
+<td align="right">1,392</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/ntdevlabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ntdevlabs/tiny11builder"><b>ntdevlabs/tiny11builder</b></a><br><sub>WinUI app for building smaller, customized Windows 11 images.</sub></td>
-<td align="right"><b>22,451</b></td>
-<td align="right">1,696</td>
+<td align="right"><b>22,554</b></td>
+<td align="right">1,707</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/kleampa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kleampa/not-paid"><b>kleampa/not-paid</b></a><br><sub>Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away</sub></td>
-<td align="right"><b>15,694</b></td>
+<td align="right"><b>15,693</b></td>
 <td align="right">1,030</td>
 <td>JavaScript</td>
 </tr>
@@ -73,78 +73,78 @@
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/serbanghita.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/serbanghita/Mobile-Detect"><b>serbanghita/Mobile-Detect</b></a><br><sub>Mobile&#95;Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent strin…</sub></td>
-<td align="right"><b>10,678</b></td>
+<td align="right"><b>10,679</b></td>
 <td align="right">2,588</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/ionuttbara.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ionuttbara/windows-defender-remover"><b>ionuttbara/windows-defender-remover</b></a><br><sub>A tool which is uses to remove Windows Defender in Windows 8.x, Windows 10 (every version) and Windows 11.</sub></td>
-<td align="right"><b>8,733</b></td>
-<td align="right">551</td>
+<td align="right"><b>8,755</b></td>
+<td align="right">553</td>
 <td>Batchfile</td>
 </tr>
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/mishoo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mishoo/UglifyJS-old"><b>mishoo/UglifyJS-old</b></a><br><sub>JavaScript parser / mangler / compressor / beautifier library for NodeJS</sub></td>
-<td align="right"><b>7,803</b></td>
+<td align="right"><b>7,802</b></td>
 <td align="right">654</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/alin23.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alin23/Lunar"><b>alin23/Lunar</b></a><br><sub>Intelligent adaptive brightness for your external monitors</sub></td>
-<td align="right"><b>5,738</b></td>
+<td align="right"><b>5,740</b></td>
 <td align="right">150</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/soketi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/soketi/soketi"><b>soketi/soketi</b></a><br><sub>Next-gen, Pusher-compatible, open-source WebSockets server. Simple, fast, and resilient. 📣</sub></td>
-<td align="right"><b>5,635</b></td>
-<td align="right">363</td>
+<td align="right"><b>5,636</b></td>
+<td align="right">362</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">13</td>
 <td><img src="https://github.com/DavidHDev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DavidHDev/canvas-ui"><b>DavidHDev/canvas-ui</b></a><br><sub>A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla.</sub></td>
-<td align="right"><b>5,528</b></td>
-<td align="right">291</td>
+<td align="right"><b>5,554</b></td>
+<td align="right">290</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/froala.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/froala/wysiwyg-editor"><b>froala/wysiwyg-editor</b></a><br><sub>The next generation Javascript WYSIWYG HTML Editor.</sub></td>
-<td align="right"><b>5,392</b></td>
+<td align="right"><b>5,393</b></td>
 <td align="right">3</td>
 <td>CSS</td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/Bogdanp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Bogdanp/dramatiq"><b>Bogdanp/dramatiq</b></a><br><sub>A fast and reliable background task processing library for Python 3.</sub></td>
-<td align="right"><b>5,339</b></td>
-<td align="right">389</td>
+<td align="right"><b>5,341</b></td>
+<td align="right">390</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">16</td>
 <td><img src="https://github.com/danburzo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/danburzo/percollate"><b>danburzo/percollate</b></a><br><sub>A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.</sub></td>
-<td align="right"><b>4,700</b></td>
+<td align="right"><b>4,702</b></td>
 <td align="right">175</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/DavidHDev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DavidHDev/vue-bits"><b>DavidHDev/vue-bits</b></a><br><sub>An open source collection of animated, interactive &amp; fully customizable Vue components for building stunning, memorable…</sub></td>
-<td align="right"><b>4,663</b></td>
-<td align="right">180</td>
+<td align="right"><b>4,670</b></td>
+<td align="right">181</td>
 <td>Vue</td>
 </tr>
 <tr>
 <td align="right">18</td>
 <td><img src="https://github.com/wmariuss.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wmariuss/awesome-devops"><b>wmariuss/awesome-devops</b></a><br><sub>A curated list of awesome DevOps platforms, tools, practices and resources</sub></td>
-<td align="right"><b>4,464</b></td>
-<td align="right">1,071</td>
+<td align="right"><b>4,474</b></td>
+<td align="right">1,074</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 779 stars; 141 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 779 stars; 150 attributed candidates are tracked.
 - 122 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 154 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

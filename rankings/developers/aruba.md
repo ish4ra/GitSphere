@@ -324,17 +324,17 @@
 </tr>
 <tr>
 <td align="right">44</td>
+<td><a href="https://github.com/freemunga"><img src="https://avatars.githubusercontent.com/u/24352168?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/freemunga"><b>Adonis Anthony Richards</b></a><br><sub>&#64;freemunga</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">9</td>
+<td><sub>Aruba</sub></td>
+</tr>
+<tr>
+<td align="right">45</td>
 <td><a href="https://github.com/DSOrnstein95"><img src="https://avatars.githubusercontent.com/u/102804362?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DSOrnstein95"><b>Antoine van Meeteren</b></a><br><sub>&#64;DSOrnstein95</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">8</td>
 <td><sub>Oranjestad, Aruba</sub></td>
-</tr>
-<tr>
-<td align="right">45</td>
-<td><a href="https://github.com/freemunga"><img src="https://avatars.githubusercontent.com/u/24352168?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/freemunga"><b>Adonis Anthony Richards</b></a><br><sub>&#64;freemunga</sub></td>
-<td align="right"><b>0</b></td>
-<td align="right">8</td>
-<td><sub>Aruba</sub></td>
 </tr>
 <tr>
 <td align="right">46</td>

@@ -5,7 +5,7 @@
 "country": {"code":"AX","name":"Åland Islands","slug":"aland-islands"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":111,"measuredAccounts":18,"measurementBacklog":93,"window":{"from":"2025-11-24T01:00:00Z","to":"2026-11-24T01:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":33,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":111,"measuredAccounts":19,"measurementBacklog":92,"window":{"from":"2025-11-24T01:00:00Z","to":"2026-11-24T01:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":33,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjYxMTA2Njc5","login":"mareerray","name":"Mayuree Reunsati","url":"https://github.com/mareerray","avatarUrl":"https://avatars.githubusercontent.com/u/61106679?s=80&v=4","followers":16,"publicRepos":35,"location":"Mariehamn, Åland","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":1116,"commits":967,"pullRequests":125,"reviews":7,"issues":0,"repositories":17,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":2,"id":"MDQ6VXNlcjY2NDczNTIx","login":"hosynS","name":"S.Hussain","url":"https://github.com/hosynS","avatarUrl":"https://avatars.githubusercontent.com/u/66473521?s=80&v=4","followers":14,"publicRepos":49,"location":"Mariehamn, Åland","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":887,"commits":857,"pullRequests":2,"reviews":2,"issues":0,"repositories":26,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
@@ -22,8 +22,8 @@
   {"rank":13,"id":"MDQ6VXNlcjI4MTc1OA==","login":"jesjos","name":"Jesper Josefsson","url":"https://github.com/jesjos","avatarUrl":"https://avatars.githubusercontent.com/u/281758?s=80&v=4","followers":28,"publicRepos":59,"location":"Mariehamn, Åland","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":4,"commits":0,"pullRequests":0,"reviews":4,"issues":0,"repositories":0,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":14,"id":"MDQ6VXNlcjUwMTEzNDIz","login":"reneselander","name":"René Selander","url":"https://github.com/reneselander","avatarUrl":"https://avatars.githubusercontent.com/u/50113423?s=80&v=4","followers":23,"publicRepos":24,"location":"Åland","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":2,"commits":2,"pullRequests":0,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-24T21:00:00Z","windowTo":"2026-11-24T21:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "f6ec8ded5399b907",
-"updatedAt": "2026-11-25T04:54:26.707Z",
+"contentHash": "80ba406c9394aff4",
+"updatedAt": "2026-11-25T15:11:00.366Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-25T04:54:26.707Z"
+"generatedAt": "2026-11-25T15:11:00.366Z"
 }

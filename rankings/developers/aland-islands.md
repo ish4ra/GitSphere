@@ -233,44 +233,44 @@
 </tr>
 <tr>
 <td align="right">31</td>
+<td><a href="https://github.com/MiddSea"><img src="https://avatars.githubusercontent.com/u/163017741?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MiddSea"><b>Seán David Middleton</b></a><br><sub>&#64;MiddSea</sub></td>
+<td align="right"><b>3</b></td>
+<td align="right">17</td>
+<td><sub>Åland</sub></td>
+</tr>
+<tr>
+<td align="right">32</td>
 <td><a href="https://github.com/khalavak"><img src="https://avatars.githubusercontent.com/u/2081902?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/khalavak"><b>Kim Halavakoski</b></a><br><sub>&#64;khalavak</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">13</td>
 <td><sub>Åland Islands</sub></td>
 </tr>
 <tr>
-<td align="right">32</td>
+<td align="right">33</td>
 <td><a href="https://github.com/pheimdah"><img src="https://avatars.githubusercontent.com/u/10982192?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pheimdah"><b>Patrik Heimdahl</b></a><br><sub>&#64;pheimdah</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">4</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">33</td>
+<td align="right">34</td>
 <td><a href="https://github.com/antoneJansson"><img src="https://avatars.githubusercontent.com/u/58887863?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/antoneJansson"><b>antoneJansson</b></a><br><sub>&#64;antoneJansson</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">1</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">34</td>
+<td align="right">35</td>
 <td><a href="https://github.com/sbjorkman"><img src="https://avatars.githubusercontent.com/u/119524558?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sbjorkman"><b>Stefanie Björkman</b></a><br><sub>&#64;sbjorkman</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">35</td>
+<td align="right">36</td>
 <td><a href="https://github.com/Madlumi"><img src="https://avatars.githubusercontent.com/u/61489225?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Madlumi"><b>Madanie</b></a><br><sub>&#64;Madlumi</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">37</td>
-<td><sub>Åland</sub></td>
-</tr>
-<tr>
-<td align="right">36</td>
-<td><a href="https://github.com/MiddSea"><img src="https://avatars.githubusercontent.com/u/163017741?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MiddSea"><b>Seán David Middleton</b></a><br><sub>&#64;MiddSea</sub></td>
-<td align="right"><b>2</b></td>
-<td align="right">17</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>

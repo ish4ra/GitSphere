@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/contributors/CZ.json">JSON</a> |
+| 🟡 Provisional | **17** | 22 Nov 2026 | <a href="../../data/contributors/CZ.json">JSON</a> |
 
 </div>
 
@@ -133,6 +133,15 @@
 </tr>
 <tr>
 <td align="right">13</td>
+<td><a href="https://github.com/TomasTomecek"><img src="https://avatars.githubusercontent.com/u/1662493?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TomasTomecek"><b>Tomas Tomecek</b></a><br><sub>&#64;TomasTomecek · 193 followers</sub></td>
+<td align="right"><b>752</b></td>
+<td align="right">427</td>
+<td align="right">103</td>
+<td align="right">189</td>
+<td align="right">26</td>
+</tr>
+<tr>
+<td align="right">14</td>
 <td><a href="https://github.com/jirutka"><img src="https://avatars.githubusercontent.com/u/949228?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jirutka"><b>Jakub Jirutka</b></a><br><sub>&#64;jirutka · 557 followers</sub></td>
 <td align="right"><b>511</b></td>
 <td align="right">464</td>
@@ -141,7 +150,7 @@
 <td align="right">24</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/icebeam7"><img src="https://avatars.githubusercontent.com/u/6038239?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/icebeam7"><b>Luis Beltran</b></a><br><sub>&#64;icebeam7 · 591 followers</sub></td>
 <td align="right"><b>370</b></td>
 <td align="right">291</td>
@@ -150,7 +159,7 @@
 <td align="right">9</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><a href="https://github.com/TomasHubelbauer"><img src="https://avatars.githubusercontent.com/u/6831144?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TomasHubelbauer"><b>Tomáš Hübelbauer</b></a><br><sub>&#64;TomasHubelbauer · 357 followers</sub></td>
 <td align="right"><b>176</b></td>
 <td align="right">139</td>
@@ -159,7 +168,7 @@
 <td align="right">17</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">17</td>
 <td><a href="https://github.com/catalinmiron"><img src="https://avatars.githubusercontent.com/u/2805320?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/catalinmiron"><b>Catalin Miron</b></a><br><sub>&#64;catalinmiron · 2,861 followers</sub></td>
 <td align="right"><b>83</b></td>
 <td align="right">79</td>
@@ -174,7 +183,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 17 of 629 discovered developers (612 awaiting measurement).
+- **Measured:** 18 of 658 discovered developers (640 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 178 in round 1.

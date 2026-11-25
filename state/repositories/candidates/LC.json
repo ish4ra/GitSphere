@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"LC","name":"St. Lucia","slug":"st-lucia"},
-"count": 48,
+"count": 46,
 "repositories": [
-  {"name":"DavidPacio/PacioDAICO","stars":3,"forks":0,"language":"JavaScript","archived":false,"createdAt":"2018-07-22T13:11:30Z","pushedAt":"2018-09-09T21:04:59Z","owner":{"login":"DavidPacio","type":"User","name":"David Hartley","location":"St Lucia"},"attribution":{"code":"LC","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T14:25:58.452Z","id":"legacy:davidpacio/paciodaico","legacy":true},
-  {"name":"uqroboticsclub/Projects2025","stars":3,"forks":0,"archived":false,"createdAt":"2025-03-24T06:41:17Z","pushedAt":"2025-03-24T07:31:38Z","owner":{"login":"uqroboticsclub","type":"Organization","name":"UQ Robotics Club","location":"Brisbane St Lucia, The University of Queensland"},"attribution":{"code":"LC","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T14:25:58.452Z","id":"legacy:uqroboticsclub/projects2025","legacy":true},
   {"name":"Ojasva77/MicoudSec","stars":2,"forks":0,"language":"CSS","license":"MIT","archived":false,"createdAt":"2025-11-04T00:20:55Z","pushedAt":"2025-11-05T14:39:35Z","owner":{"login":"Ojasva77","type":"User","name":"Ojasva Pandey","location":"St. Lucia"},"attribution":{"code":"LC","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T14:25:58.452Z","id":"legacy:ojasva77/micoudsec","legacy":true},
   {"name":"autoabacus/CrowdFunding","stars":1,"forks":0,"language":"JavaScript","archived":false,"createdAt":"2017-07-23T13:28:55Z","pushedAt":"2017-07-23T13:41:21Z","owner":{"login":"autoabacus","type":"User","name":"David Hartley","location":"St Lucia"},"attribution":{"code":"LC","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T14:25:58.452Z","id":"legacy:autoabacus/crowdfunding","legacy":true},
   {"name":"Calixte-Williams/set08803_gw","stars":1,"forks":0,"language":"Java","license":"Apache-2.0","archived":false,"createdAt":"2024-01-20T15:45:45Z","pushedAt":"2024-04-24T07:31:41Z","owner":{"login":"Calixte-Williams","type":"User","name":"Calixte","location":"St. Lucia"},"attribution":{"code":"LC","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T14:25:58.452Z","id":"legacy:calixte-williams/set08803_gw","legacy":true},

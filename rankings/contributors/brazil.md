@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/contributors/BR.json">JSON</a> |
+| 🟡 Provisional | **17** | 22 Nov 2026 | <a href="../../data/contributors/BR.json">JSON</a> |
 
 </div>
 
@@ -133,6 +133,15 @@
 </tr>
 <tr>
 <td align="right">13</td>
+<td><a href="https://github.com/rafaelescrich"><img src="https://avatars.githubusercontent.com/u/1105558?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rafaelescrich"><b>Rafael Escrich</b></a><br><sub>&#64;rafaelescrich · 181 followers</sub></td>
+<td align="right"><b>93</b></td>
+<td align="right">48</td>
+<td align="right">6</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">14</td>
 <td><a href="https://github.com/fhferreira"><img src="https://avatars.githubusercontent.com/u/140686?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fhferreira"><b>Flávio H. Ferreira</b></a><br><sub>&#64;fhferreira · 314 followers</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">12</td>
@@ -141,7 +150,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/patriciosilva83"><img src="https://avatars.githubusercontent.com/u/62783690?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/patriciosilva83"><b>Patricio Silva</b></a><br><sub>&#64;patriciosilva83 · 325 followers</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">0</td>
@@ -150,7 +159,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><a href="https://github.com/josemalcher"><img src="https://avatars.githubusercontent.com/u/914913?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/josemalcher"><b>José Malcher Jr.</b></a><br><sub>&#64;josemalcher · 1,238 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">3</td>
@@ -159,7 +168,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">17</td>
 <td><a href="https://github.com/hansalemaos"><img src="https://avatars.githubusercontent.com/u/77182807?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hansalemaos"><b>Hans Alemão</b></a><br><sub>&#64;hansalemaos · 505 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
@@ -174,7 +183,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 17 of 1,683 discovered developers (1,666 awaiting measurement).
+- **Measured:** 18 of 1,737 discovered developers (1,719 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 156 in round 1.

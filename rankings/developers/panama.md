@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **401** | 22 Nov 2026 | <a href="../../data/developers/PA.json">JSON</a> |
+| 🟡 Provisional | **402** | 22 Nov 2026 | <a href="../../data/developers/PA.json">JSON</a> |
 
 </div>
 
@@ -2361,468 +2361,475 @@
 </tr>
 <tr>
 <td align="right">335</td>
+<td><a href="https://github.com/AlbertoLuis26"><img src="https://avatars.githubusercontent.com/u/80220250?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlbertoLuis26"><b>Alberto</b></a><br><sub>&#64;AlbertoLuis26</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Panamá, Colón, Villa Guadalupe sector B</sub></td>
+</tr>
+<tr>
+<td align="right">336</td>
 <td><a href="https://github.com/alexjimenezgt28-jpg"><img src="https://avatars.githubusercontent.com/u/237877517?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexjimenezgt28-jpg"><b>MrAlexx3028</b></a><br><sub>&#64;alexjimenezgt28-jpg</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>panama</sub></td>
 </tr>
 <tr>
-<td align="right">336</td>
+<td align="right">337</td>
 <td><a href="https://github.com/AlucardVladTepes507"><img src="https://avatars.githubusercontent.com/u/146416757?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlucardVladTepes507"><b>Cesar Perez</b></a><br><sub>&#64;AlucardVladTepes507</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">337</td>
+<td align="right">338</td>
 <td><a href="https://github.com/androidbles"><img src="https://avatars.githubusercontent.com/u/49466184?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/androidbles"><b>Andres F Robles</b></a><br><sub>&#64;androidbles</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">338</td>
+<td align="right">339</td>
 <td><a href="https://github.com/angelikstar777-netizen"><img src="https://avatars.githubusercontent.com/u/299911600?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/angelikstar777-netizen"><b>angelik</b></a><br><sub>&#64;angelikstar777-netizen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">339</td>
+<td align="right">340</td>
 <td><a href="https://github.com/arbaena-CPU"><img src="https://avatars.githubusercontent.com/u/184172859?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arbaena-CPU"><b>Armando Antonio Baena Villavicencio</b></a><br><sub>&#64;arbaena-CPU</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Remedios, Chiriqui, Republica de Panama.</sub></td>
 </tr>
 <tr>
-<td align="right">340</td>
+<td align="right">341</td>
 <td><a href="https://github.com/arenatechPA"><img src="https://avatars.githubusercontent.com/u/289823832?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arenatechPA"><b>ArenaTech</b></a><br><sub>&#64;arenatechPA</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">341</td>
+<td align="right">342</td>
 <td><a href="https://github.com/ArielPhillips"><img src="https://avatars.githubusercontent.com/u/67448696?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ArielPhillips"><b>Ariel Phillips</b></a><br><sub>&#64;ArielPhillips</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">342</td>
+<td align="right">343</td>
 <td><a href="https://github.com/ArizadelaCruz"><img src="https://avatars.githubusercontent.com/u/154566471?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ArizadelaCruz"><b>Axercito Crossito</b></a><br><sub>&#64;ArizadelaCruz</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Panama, Panama</sub></td>
 </tr>
 <tr>
-<td align="right">343</td>
+<td align="right">344</td>
 <td><a href="https://github.com/Aron154"><img src="https://avatars.githubusercontent.com/u/17327983?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aron154"><b>Aaron Polo</b></a><br><sub>&#64;Aron154</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Panama,Veracruz</sub></td>
 </tr>
 <tr>
-<td align="right">344</td>
+<td align="right">345</td>
 <td><a href="https://github.com/arosas40pa"><img src="https://avatars.githubusercontent.com/u/202573011?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arosas40pa"><b>Alberto Rosas 🇵🇦</b></a><br><sub>&#64;arosas40pa</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">345</td>
+<td align="right">346</td>
 <td><a href="https://github.com/asaidth"><img src="https://avatars.githubusercontent.com/u/110868774?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asaidth"><b>Allen Saldaña</b></a><br><sub>&#64;asaidth</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">346</td>
+<td align="right">347</td>
 <td><a href="https://github.com/asolisn14"><img src="https://avatars.githubusercontent.com/u/91263944?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asolisn14"><b>Antonio</b></a><br><sub>&#64;asolisn14</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Panama, Las Tablas</sub></td>
 </tr>
 <tr>
-<td align="right">347</td>
+<td align="right">348</td>
 <td><a href="https://github.com/atoureau"><img src="https://avatars.githubusercontent.com/u/86434742?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/atoureau"><b>Alexander Toureau</b></a><br><sub>&#64;atoureau</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">348</td>
+<td align="right">349</td>
 <td><a href="https://github.com/Balfor2412"><img src="https://avatars.githubusercontent.com/u/78877705?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Balfor2412"><b>Balfor</b></a><br><sub>&#64;Balfor2412</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">349</td>
+<td align="right">350</td>
 <td><a href="https://github.com/barryschatz"><img src="https://avatars.githubusercontent.com/u/22529662?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/barryschatz"><b>Barry Schatz</b></a><br><sub>&#64;barryschatz</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">350</td>
+<td align="right">351</td>
 <td><a href="https://github.com/bassetyy"><img src="https://avatars.githubusercontent.com/u/288441502?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bassetyy"><b>Caicedo Angel</b></a><br><sub>&#64;bassetyy</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">351</td>
+<td align="right">352</td>
 <td><a href="https://github.com/CarlosChenCid"><img src="https://avatars.githubusercontent.com/u/128018697?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CarlosChenCid"><b>Carlos Chen</b></a><br><sub>&#64;CarlosChenCid</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">352</td>
+<td align="right">353</td>
 <td><a href="https://github.com/SoyArthur"><img src="https://avatars.githubusercontent.com/u/80848333?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SoyArthur"><b>Arthur</b></a><br><sub>&#64;SoyArthur</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">353</td>
+<td align="right">354</td>
 <td><a href="https://github.com/0xCryp7icX"><img src="https://avatars.githubusercontent.com/u/44118188?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xCryp7icX"><b>0xCryp7icX</b></a><br><sub>&#64;0xCryp7icX</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">354</td>
+<td align="right">355</td>
 <td><a href="https://github.com/4SecuritybyNoriel"><img src="https://avatars.githubusercontent.com/u/191609154?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/4SecuritybyNoriel"><b>4SecuritybyNoriel</b></a><br><sub>&#64;4SecuritybyNoriel</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">355</td>
+<td align="right">356</td>
 <td><a href="https://github.com/AaronOD"><img src="https://avatars.githubusercontent.com/u/40645734?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AaronOD"><b>Aaron O&#39;Dea</b></a><br><sub>&#64;AaronOD</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Smithsonian, Panama</sub></td>
 </tr>
 <tr>
-<td align="right">356</td>
+<td align="right">357</td>
 <td><a href="https://github.com/AAyalaDev"><img src="https://avatars.githubusercontent.com/u/189027773?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AAyalaDev"><b>Alejandro Ayala</b></a><br><sub>&#64;AAyalaDev</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">357</td>
+<td align="right">358</td>
 <td><a href="https://github.com/Abbetto"><img src="https://avatars.githubusercontent.com/u/95332065?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abbetto"><b>Alberto Fischel</b></a><br><sub>&#64;Abbetto</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">358</td>
+<td align="right">359</td>
 <td><a href="https://github.com/abrahamdevops507"><img src="https://avatars.githubusercontent.com/u/78948294?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abrahamdevops507"><b>Abraham Gutierrez</b></a><br><sub>&#64;abrahamdevops507</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">359</td>
+<td align="right">360</td>
 <td><a href="https://github.com/AdrianGuerra1234"><img src="https://avatars.githubusercontent.com/u/142457451?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AdrianGuerra1234"><b>Adrian Guerra</b></a><br><sub>&#64;AdrianGuerra1234</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama,Pueblo Nuevo</sub></td>
 </tr>
 <tr>
-<td align="right">360</td>
+<td align="right">361</td>
 <td><a href="https://github.com/adrien-dot"><img src="https://avatars.githubusercontent.com/u/220437523?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adrien-dot"><b>Adrien Delgado</b></a><br><sub>&#64;adrien-dot</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">361</td>
+<td align="right">362</td>
 <td><a href="https://github.com/agher08"><img src="https://avatars.githubusercontent.com/u/123280327?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/agher08"><b>Agher</b></a><br><sub>&#64;agher08</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama. Panama</sub></td>
 </tr>
 <tr>
-<td align="right">362</td>
+<td align="right">363</td>
 <td><a href="https://github.com/AlanisHernandez"><img src="https://avatars.githubusercontent.com/u/108318441?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlanisHernandez"><b>Alanis</b></a><br><sub>&#64;AlanisHernandez</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">363</td>
+<td align="right">364</td>
 <td><a href="https://github.com/alberto9604"><img src="https://avatars.githubusercontent.com/u/98655041?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alberto9604"><b>Arquisaje</b></a><br><sub>&#64;alberto9604</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">364</td>
+<td align="right">365</td>
 <td><a href="https://github.com/alejandrosesti"><img src="https://avatars.githubusercontent.com/u/82259979?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alejandrosesti"><b>Alejandro Sesti</b></a><br><sub>&#64;alejandrosesti</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">365</td>
+<td align="right">366</td>
 <td><a href="https://github.com/AlejoQskillz"><img src="https://avatars.githubusercontent.com/u/66768125?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlejoQskillz"><b>AlejoQskillz</b></a><br><sub>&#64;AlejoQskillz</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">366</td>
+<td align="right">367</td>
 <td><a href="https://github.com/alevy24"><img src="https://avatars.githubusercontent.com/u/39811297?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alevy24"><b>alevy24</b></a><br><sub>&#64;alevy24</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">367</td>
+<td align="right">368</td>
 <td><a href="https://github.com/Alex-Alvarez-PanamaTaxLawyers"><img src="https://avatars.githubusercontent.com/u/110587522?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alex-Alvarez-PanamaTaxLawyers"><b>Alex Alvarez</b></a><br><sub>&#64;Alex-Alvarez-PanamaTaxLawyers</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">368</td>
+<td align="right">369</td>
 <td><a href="https://github.com/alexismgarciad"><img src="https://avatars.githubusercontent.com/u/5097167?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexismgarciad"><b>Alexis Garcia</b></a><br><sub>&#64;alexismgarciad</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">369</td>
+<td align="right">370</td>
 <td><a href="https://github.com/Alexisr17"><img src="https://avatars.githubusercontent.com/u/182054767?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alexisr17"><b>Brayan A</b></a><br><sub>&#64;Alexisr17</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">370</td>
+<td align="right">371</td>
 <td><a href="https://github.com/alexmoreno-tech"><img src="https://avatars.githubusercontent.com/u/310706420?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexmoreno-tech"><b>Alexander Moreno</b></a><br><sub>&#64;alexmoreno-tech</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">371</td>
+<td align="right">372</td>
 <td><a href="https://github.com/aluisjaramillo"><img src="https://avatars.githubusercontent.com/u/70301339?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aluisjaramillo"><b>Angel JP</b></a><br><sub>&#64;aluisjaramillo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama, Panama</sub></td>
 </tr>
 <tr>
-<td align="right">372</td>
+<td align="right">373</td>
 <td><a href="https://github.com/alxing123"><img src="https://avatars.githubusercontent.com/u/193998378?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alxing123"><b>Alexander Marín</b></a><br><sub>&#64;alxing123</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">373</td>
+<td align="right">374</td>
 <td><a href="https://github.com/amesys507"><img src="https://avatars.githubusercontent.com/u/44695954?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amesys507"><b>Pedro Florez</b></a><br><sub>&#64;amesys507</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">374</td>
+<td align="right">375</td>
 <td><a href="https://github.com/analauradominion"><img src="https://avatars.githubusercontent.com/u/86379798?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/analauradominion"><b>Ana Laura</b></a><br><sub>&#64;analauradominion</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">375</td>
+<td align="right">376</td>
 <td><a href="https://github.com/andressolenzal"><img src="https://avatars.githubusercontent.com/u/12983106?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andressolenzal"><b>Andres Solenzal</b></a><br><sub>&#64;andressolenzal</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama City, Panama</sub></td>
 </tr>
 <tr>
-<td align="right">376</td>
+<td align="right">377</td>
 <td><a href="https://github.com/Aniperez"><img src="https://avatars.githubusercontent.com/u/96808596?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aniperez"><b>Anibal</b></a><br><sub>&#64;Aniperez</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">377</td>
+<td align="right">378</td>
 <td><a href="https://github.com/Anthony-P-C12"><img src="https://avatars.githubusercontent.com/u/156692938?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Anthony-P-C12"><b>Anthony Price</b></a><br><sub>&#64;Anthony-P-C12</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">378</td>
+<td align="right">379</td>
 <td><a href="https://github.com/AntonioConde"><img src="https://avatars.githubusercontent.com/u/14825085?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AntonioConde"><b>Antonio Conde</b></a><br><sub>&#64;AntonioConde</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">379</td>
+<td align="right">380</td>
 <td><a href="https://github.com/AntonioGal207"><img src="https://avatars.githubusercontent.com/u/114628924?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AntonioGal207"><b>Antonio Galástica</b></a><br><sub>&#64;AntonioGal207</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">380</td>
+<td align="right">381</td>
 <td><a href="https://github.com/Aogusroxy8"><img src="https://avatars.githubusercontent.com/u/117540678?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aogusroxy8"><b>Aogusroxy Andreina Briceño</b></a><br><sub>&#64;Aogusroxy8</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">381</td>
+<td align="right">382</td>
 <td><a href="https://github.com/aolba"><img src="https://avatars.githubusercontent.com/u/2090444?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aolba"><b>Marcos Díaz</b></a><br><sub>&#64;aolba</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">382</td>
+<td align="right">383</td>
 <td><a href="https://github.com/arios5"><img src="https://avatars.githubusercontent.com/u/40036626?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arios5"><b>Adriana Lucia Rios Gomez</b></a><br><sub>&#64;arios5</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">383</td>
+<td align="right">384</td>
 <td><a href="https://github.com/aristides-aizprua"><img src="https://avatars.githubusercontent.com/u/143836645?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aristides-aizprua"><b>Aristides</b></a><br><sub>&#64;aristides-aizprua</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">384</td>
+<td align="right">385</td>
 <td><a href="https://github.com/arosasca"><img src="https://avatars.githubusercontent.com/u/266111910?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arosasca"><b>Eng. Alberto Rosas</b></a><br><sub>&#64;arosasca</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">385</td>
+<td align="right">386</td>
 <td><a href="https://github.com/atlas-dev-afk"><img src="https://avatars.githubusercontent.com/u/318097881?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/atlas-dev-afk"><b>Iván Carrión &#124; Atlas</b></a><br><sub>&#64;atlas-dev-afk</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">386</td>
+<td align="right">387</td>
 <td><a href="https://github.com/AtomGWRLD"><img src="https://avatars.githubusercontent.com/u/100814592?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AtomGWRLD"><b>Brian</b></a><br><sub>&#64;AtomGWRLD</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">387</td>
+<td align="right">388</td>
 <td><a href="https://github.com/axaelaf"><img src="https://avatars.githubusercontent.com/u/68510822?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/axaelaf"><b>Ax</b></a><br><sub>&#64;axaelaf</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">388</td>
+<td align="right">389</td>
 <td><a href="https://github.com/bagutazl"><img src="https://avatars.githubusercontent.com/u/308476854?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bagutazl"><b>Baguta Zona Libre , S.A</b></a><br><sub>&#64;bagutazl</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">389</td>
+<td align="right">390</td>
 <td><a href="https://github.com/blinergy"><img src="https://avatars.githubusercontent.com/u/1493954?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/blinergy"><b>Blinergy Mobile</b></a><br><sub>&#64;blinergy</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">390</td>
+<td align="right">391</td>
 <td><a href="https://github.com/eddukate"><img src="https://avatars.githubusercontent.com/u/52727356?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eddukate"><b>Eddukate</b></a><br><sub>&#64;eddukate</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">391</td>
+<td align="right">392</td>
 <td><a href="https://github.com/erwinb"><img src="https://avatars.githubusercontent.com/u/1418712?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/erwinb"><b>Erwin Brown</b></a><br><sub>&#64;erwinb</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>PANAMA</sub></td>
 </tr>
 <tr>
-<td align="right">392</td>
+<td align="right">393</td>
 <td><a href="https://github.com/jivan0v"><img src="https://avatars.githubusercontent.com/u/2836786?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jivan0v"><b>Eugenio Ivanov Valdes</b></a><br><sub>&#64;jivan0v</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama City Panama</sub></td>
 </tr>
 <tr>
-<td align="right">393</td>
+<td align="right">394</td>
 <td><a href="https://github.com/jrodrigoc"><img src="https://avatars.githubusercontent.com/u/20935948?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jrodrigoc"><b>Jaime Rodrigo</b></a><br><sub>&#64;jrodrigoc</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">394</td>
+<td align="right">395</td>
 <td><a href="https://github.com/juancorradine"><img src="https://avatars.githubusercontent.com/u/20654630?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/juancorradine"><b>Juan Corradine</b></a><br><sub>&#64;juancorradine</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">395</td>
+<td align="right">396</td>
 <td><a href="https://github.com/morechoice"><img src="https://avatars.githubusercontent.com/u/18672392?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/morechoice"><b>MoreChoice</b></a><br><sub>&#64;morechoice</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">396</td>
+<td align="right">397</td>
 <td><a href="https://github.com/ruruwata"><img src="https://avatars.githubusercontent.com/u/105938945?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ruruwata"><b>jeremy</b></a><br><sub>&#64;ruruwata</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">397</td>
+<td align="right">398</td>
 <td><a href="https://github.com/Studio-Tere"><img src="https://avatars.githubusercontent.com/u/253008700?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Studio-Tere"><b>Teresa Alvarez</b></a><br><sub>&#64;Studio-Tere</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">398</td>
+<td align="right">399</td>
 <td><a href="https://github.com/timid0x"><img src="https://avatars.githubusercontent.com/u/148493404?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/timid0x"><b>TIMID0x</b></a><br><sub>&#64;timid0x</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">399</td>
+<td align="right">400</td>
 <td><a href="https://github.com/tonyssmkt"><img src="https://avatars.githubusercontent.com/u/294964011?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tonyssmkt"><b>TONYSSMKT</b></a><br><sub>&#64;tonyssmkt</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>PANAMA</sub></td>
 </tr>
 <tr>
-<td align="right">400</td>
+<td align="right">401</td>
 <td><a href="https://github.com/validator-99uptime-algo"><img src="https://avatars.githubusercontent.com/u/233568273?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/validator-99uptime-algo"><b>validator-99uptime-algo</b></a><br><sub>&#64;validator-99uptime-algo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Panama</sub></td>
 </tr>
 <tr>
-<td align="right">401</td>
+<td align="right">402</td>
 <td><a href="https://github.com/xXPapurryXx"><img src="https://avatars.githubusercontent.com/u/108156820?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xXPapurryXx"><b>Simon Becerra</b></a><br><sub>&#64;xXPapurryXx</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
@@ -2836,7 +2843,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 401 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 402 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 81 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
