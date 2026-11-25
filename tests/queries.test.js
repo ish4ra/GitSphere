@@ -24,3 +24,15 @@ test('legacy name lookups are safely quoted', () => {
   const document = queries.repositoriesByName(['a/b"c']);
   assert.ok(document.includes('name: "b\\"c"'));
 });
+
+test('repository nodes always carry __typename, wherever the fragment is used', () => {
+  // Ingestion accepts only nodes whose __typename is "Repository". The
+  // fragment itself must request it: aliased lookups, owner repositories
+  // and top repositories rely on the fragment alone.
+  for (const [name, document] of Object.entries(documents)) {
+    const fragment = document.match(/fragment GitSphereRepository on Repository \{\s*([\s\S]*?)\n\s*\}\s*$/m);
+    if (!document.includes('fragment GitSphereRepository')) continue;
+    assert.match(document, /fragment GitSphereRepository on Repository \{\s*__typename/, `${name}: fragment must request __typename`);
+    void fragment;
+  }
+});

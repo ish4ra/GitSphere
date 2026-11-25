@@ -8,14 +8,20 @@ export function createFakeGitHub({ repositories = [], users = [], remaining = 45
   const accounts = new Map(users.map((user) => [user.id, user]));
   const calls = { total: 0, byOperation: {} };
   let remainingPoints = remaining;
+  // Like the real API, `__typename` is returned only where the query asks
+  // for it. Search and nodes() queries request it explicitly; other paths
+  // (aliased lookups, owner repositories, top repositories) depend on the
+  // GitSphereRepository fragment requesting it.
+  let fragmentTypename = true;
+  let includeTopRepositories = false;
 
   const ownerNode = (login) => {
     const owner = [...accounts.values()].find((account) => account.login === login);
     if (!owner) return { __typename: 'User', id: `U_${login}`, login, name: null, location: null, followers: { totalCount: 0 } };
     return { __typename: owner.type || 'User', id: owner.id, databaseId: owner.databaseId ?? null, login: owner.login, name: owner.name ?? null, location: owner.location ?? null, followers: { totalCount: owner.followers || 0 } };
   };
-  const repoNode = (repo) => ({
-    __typename: 'Repository',
+  const repoNode = (repo, explicitTypename = false) => ({
+    ...(explicitTypename || fragmentTypename ? { __typename: 'Repository' } : {}),
     id: repo.id,
     databaseId: null,
     nameWithOwner: `${repo.owner}/${repo.name}`,
@@ -41,7 +47,7 @@ export function createFakeGitHub({ repositories = [], users = [], remaining = 45
     createdAt: user.createdAt,
     followers: { totalCount: user.followers || 0 },
     repositories: { totalCount: user.publicRepos || 0 },
-    topRepositories: { nodes: [...repos.values()].filter((repo) => repo.owner === user.login && !repo.fork).sort((a, b) => b.stars - a.stars).slice(0, 1).map(repoNode) },
+    ...(includeTopRepositories ? { topRepositories: { nodes: [...repos.values()].filter((repo) => repo.owner === user.login && !repo.fork).sort((a, b) => b.stars - a.stars).slice(0, 1).map((repo) => repoNode(repo)) } } : {}),
   });
 
   function rangeMatch(qualifier, value, text) {
@@ -83,6 +89,8 @@ export function createFakeGitHub({ repositories = [], users = [], remaining = 45
 
   async function fetchImpl(url, init) {
     const { query, variables } = JSON.parse(init.body);
+    fragmentTypename = /fragment GitSphereRepository on Repository \{\s*__typename/.test(query);
+    includeTopRepositories = /topRepositories:/.test(query) && variables?.withTopRepository === true;
     const operation = query.match(/query (\w+)/)?.[1] || 'anonymous';
     calls.total += 1;
     calls.byOperation[operation] = (calls.byOperation[operation] || 0) + 1;
@@ -94,19 +102,19 @@ export function createFakeGitHub({ repositories = [], users = [], remaining = 45
     let data;
     if (operation === 'GitSphereSearchRepositories') {
       const items = searchRepositories(variables.query);
-      data = { search: { repositoryCount: items.length, ...page(items, variables.first, variables.cursor, repoNode) } };
+      data = { search: { repositoryCount: items.length, ...page(items, variables.first, variables.cursor, (repo) => repoNode(repo, true)) } };
     } else if (operation === 'GitSphereSearchAccounts') {
       const items = searchAccounts(variables.query);
       data = { search: { userCount: items.length, ...page(items, variables.first, variables.cursor, userNode) } };
     } else if (operation === 'GitSphereRepositoryNodes') {
-      data = { nodes: variables.ids.map((id) => (repos.get(id) && !repos.get(id).deleted ? repoNode(repos.get(id)) : null)) };
+      data = { nodes: variables.ids.map((id) => (repos.get(id) && !repos.get(id).deleted ? repoNode(repos.get(id), true) : null)) };
     } else if (operation === 'GitSphereAccountNodes') {
       data = { nodes: variables.ids.map((id) => (accounts.get(id) && !accounts.get(id).deleted ? userNode(accounts.get(id)) : null)) };
     } else if (operation === 'GitSphereOwnerRepositories') {
       data = { nodes: variables.ids.map((id) => {
         const owner = accounts.get(id);
         if (!owner) return null;
-        return { __typename: owner.type || 'User', id, repositories: { nodes: [...repos.values()].filter((repo) => repo.owner === owner.login && !repo.fork).sort((a, b) => b.stars - a.stars).slice(0, variables.first).map(repoNode) } };
+        return { __typename: owner.type || 'User', id, repositories: { nodes: [...repos.values()].filter((repo) => repo.owner === owner.login && !repo.fork).sort((a, b) => b.stars - a.stars).slice(0, variables.first).map((repo) => repoNode(repo)) } };
       }) };
     } else if (operation === 'GitSphereContributions') {
       data = { nodes: variables.ids.map((id) => {

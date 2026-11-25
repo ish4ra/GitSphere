@@ -39,6 +39,20 @@ jobs:
       - name: Validate
         run: npm run check
 
+      - name: One-time recovery of records lost to the launch typename defect
+        # Repository nodes from aliased lookups, owner expansion and top-repo
+        # discovery lacked __typename and were discarded, while legacy
+        # resolution deleted the records they replaced. This restores them
+        # once from the pre-launch commit (still pending revalidation) and is
+        # skipped forever after via state/migration.json.
+        run: |
+          if node -e "process.exit(require('./state/migration.json').typenameRecovery ? 0 : 1)"; then
+            echo "Launch recovery already applied."
+          else
+            git fetch --quiet --depth=1 origin d9f6afa23badc7796d86cab9dbd781a8f93f2d30
+            node scripts/restore-legacy-repositories.js d9f6afa23badc7796d86cab9dbd781a8f93f2d30
+          fi
+
       - name: Discover, refresh and publish
         id: pipeline
         # Own timeout so a hang still leaves time to commit checkpoints.

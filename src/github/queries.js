@@ -4,6 +4,7 @@
 
 const REPOSITORY_FIELDS = `
   fragment GitSphereRepository on Repository {
+    __typename
     id
     databaseId
     nameWithOwner

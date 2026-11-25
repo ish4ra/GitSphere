@@ -49,3 +49,11 @@ test('checkpoints are committed even when the pipeline step fails, but never pas
   assert.match(text, /id: pipeline\n\s+# [^\n]*\n\s+timeout-minutes: 47/);
   assert.match(text, /if: always\(\) && steps\.secrets\.outcome == 'success'/);
 });
+
+test('the launch recovery runs once, before the pipeline, inside the single writer', () => {
+  const text = read('pipeline.yml');
+  const recovery = text.indexOf('One-time recovery');
+  assert.ok(recovery > 0 && recovery < text.indexOf('Discover, refresh and publish'));
+  assert.match(text, /typenameRecovery \? 0 : 1/);
+  assert.match(text, /restore-legacy-repositories\.js d9f6afa23badc7796d86cab9dbd781a8f93f2d30/);
+});

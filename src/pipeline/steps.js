@@ -64,17 +64,24 @@ function pageOf(search, count) {
 /** Attributes and stores one repository node (and its user owner). */
 export function ingestRepository(context, node, { cycle = null } = {}) {
   const { resolver, registry, now, counters } = context;
-  if (!node || node.__typename !== 'Repository') return;
+  // Returns the country the repository was stored in, or null. Callers must
+  // not report success unless a record was actually stored.
+  if (!node || node.__typename !== 'Repository') {
+    counters.malformedRepositoryNodes = (counters.malformedRepositoryNodes || 0) + 1;
+    return null;
+  }
   counters.repositoriesSeen += 1;
   const attribution = resolver.resolve(node.owner?.location);
   if (!attribution.accepted) {
     counters[attribution.confidence === 'ambiguous' ? 'ambiguousLocations' : 'unknownLocations'] += 1;
   }
   const record = repositoryFromNode(node, { attribution, now: now(), cycle });
-  if (!record) return;
-  if (registry.upsertRepository(record)) counters.repositoriesAttributed += 1;
+  if (!record) return null;
+  const code = registry.upsertRepository(record);
+  if (code) counters.repositoriesAttributed += 1;
   const owner = accountFromRepositoryOwner(node.owner, { attribution, now: now() });
   if (owner) registry.upsertAccount(owner);
+  return code;
 }
 
 export function ingestAccount(context, node, source) {
@@ -222,12 +229,15 @@ export async function ownerExpansionStep(context, budget) {
     return list.length >= 100 ? list[99].stars : 0;
   });
   let expanded = 0;
+  let repositoriesStored = 0;
   while (queue.length && context.canContinue() && client.stats.requests - start < budget) {
     const batch = queue.splice(0, 10);
     try {
       const { data } = await client.graphql(OWNER_REPOSITORIES, { ids: batch.map((item) => item.id), first: 30 }, { allowPartialErrors: true });
       for (const node of data.nodes || []) {
-        for (const repository of node?.repositories?.nodes || []) ingestRepository(context, repository);
+        for (const repository of node?.repositories?.nodes || []) {
+          if (ingestRepository(context, repository)) repositoriesStored += 1;
+        }
       }
     } catch (error) {
       if (error?.name === 'GitHubBudgetError') throw error;
@@ -237,7 +247,7 @@ export async function ownerExpansionStep(context, budget) {
     expanded += batch.length;
   }
   await owners.save();
-  return { requests: client.stats.requests - start, ownersExpanded: expanded, backlog: queue.length };
+  return { requests: client.stats.requests - start, ownersExpanded: expanded, repositoriesStored, backlog: queue.length };
 }
 
 /**
@@ -451,7 +461,7 @@ export async function legacyResolutionStep(context, budget) {
     for (const record of registry.repositories(code)) if (record.legacy) legacy.push(record);
   }
   legacy.sort((a, b) => (b.stars || 0) - (a.stars || 0));
-  const result = { requests: 0, resolved: 0, removed: 0, backlog: 0 };
+  const result = { requests: 0, resolved: 0, dropped: 0, removed: 0, malformed: 0, backlog: 0 };
   while (legacy.length && context.canContinue() && client.stats.requests - start < budget) {
     const batch = legacy.splice(0, 25).filter((record) => sanitizeNameWithOwner(record.name));
     if (!batch.length) continue;
@@ -465,14 +475,24 @@ export async function legacyResolutionStep(context, budget) {
     }
     batch.forEach((record, index) => {
       const node = data[`r${index}`];
-      // Drop the name-only record; a fresh observation replaces it if valid.
-      registry.removeRepository(record.id);
-      if (node) {
-        ingestRepository(context, node);
-        result.resolved += 1;
-      } else {
+      if (!node) {
+        // GitHub no longer has it (deleted, private or renamed away).
+        registry.removeRepository(record.id);
         result.removed += 1;
+        return;
       }
+      if (node.__typename !== 'Repository') {
+        // Malformed response: keep the legacy record and surface it, never
+        // delete data on an unexpected shape.
+        result.malformed += 1;
+        return;
+      }
+      const code = ingestRepository(context, node);
+      // A valid fork/private/unattributable repository is legitimately
+      // dropped; otherwise the fresh record has replaced the legacy one.
+      registry.removeRepository(record.id);
+      if (code) result.resolved += 1;
+      else result.dropped += 1;
     });
     await context.persist();
   }
