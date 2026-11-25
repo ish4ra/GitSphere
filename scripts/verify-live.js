@@ -21,6 +21,7 @@ import { CONTRIBUTIONS, SCHEMA_INTROSPECTION, repositoriesByName } from '../src/
 import { buildQuery, rootPartition, splitPartition } from '../src/discovery/partitions.js';
 import { REPOSITORY_SPEC, contributionRecord, contributionWindow, searchAccountsPage, searchRepositoriesPage } from '../src/pipeline/steps.js';
 import { locationSpecs } from '../src/discovery/location-scan.js';
+import { repositoryFromNode } from '../src/discovery/records.js';
 
 const token = process.env.GITHUB_TOKEN || process.env.GH_TOKEN;
 if (!token) {
@@ -65,6 +66,10 @@ await section('Known repositories', async () => {
     const result = resolver.resolve(location);
     lines.push(`- **${name}** — ${node?.stargazerCount?.toLocaleString('en-US')} stars, owner location ${JSON.stringify(sanitizeText(location, 80))} → ${result.accepted ? result.countryCode : `not attributed (${result.evidence})`}`);
     check(Boolean(node?.id), `${name} resolved to a stable node ID`);
+    // Regression guard for the launch defect: nodes reached only through the
+    // shared fragment must carry __typename and be accepted by ingestion.
+    check(node?.__typename === 'Repository', `${name} lookup returns __typename "Repository"`);
+    check(Boolean(repositoryFromNode(node, { attribution: result, now: new Date().toISOString() })), `${name} is accepted by the production ingestion path`);
   });
 });
 

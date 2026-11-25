@@ -63,3 +63,20 @@ test('the persistence guard refuses to write credential-shaped content and withh
   assert.equal(await readFile(file, 'utf8'), '{}\n', 'existing file untouched');
   assert.throws(() => assertNoSecrets(fake.aws, 'x'), /Value withheld/);
 });
+
+test('email addresses are removed from untrusted text, including stored records', async () => {
+  const { scrubStoredText } = await import('../src/discovery/registry.js');
+  const address = ['jane.doe', 'example.com'].join('@');
+  assert.equal(sanitizeText(`Jane Doe <${address}>`), 'Jane Doe <[email]>');
+  assert.equal(sanitizeText('Colombo, Sri Lanka'), 'Colombo, Sri Lanka');
+  assert.equal(sanitizeText('@jane on GitHub'), '@jane on GitHub', 'handles are not emails');
+  const account = { id: 'U1', login: 'jane', name: `Jane (${address})`, location: 'Kandy' };
+  assert.equal(scrubStoredText(account), true);
+  assert.equal(account.name, 'Jane ([email])');
+  const repo = { id: 'R1', name: 'jane/repo', description: `Mail ${address}`, owner: { login: 'jane', name: address, location: 'Galle' } };
+  assert.equal(scrubStoredText(repo), true);
+  assert.equal(repo.name, 'jane/repo', 'repository identifiers are untouched');
+  assert.equal(repo.owner.name, '[email]');
+  assert.equal(repo.description, 'Mail [email]');
+  assert.equal(scrubStoredText(repo), false, 'idempotent');
+});

@@ -228,6 +228,10 @@ export function assessProgress(report, settings, skipApi) {
   const requests = report.api?.requests || 0;
   const rateLimited = ['primary-rate-limit', 'secondary-rate-limit', 'rate-limit-reserve'].includes(report.stopReason);
   if (report.failures.length) return { ok: false, reason: 'step-failures' };
+  // Nodes that cannot be ingested mean a query/schema mismatch; silently
+  // discarding them is how data was lost before, so it is a hard failure.
+  if ((report.counters?.malformedRepositoryNodes || 0) > 0) return { ok: false, reason: 'malformed-repository-nodes' };
+  if (Object.values(report.steps).some((step) => (step.malformed || 0) > 0)) return { ok: false, reason: 'malformed-repository-nodes' };
   if (requests === 0 && !rateLimited) return { ok: false, reason: 'no-api-requests-with-budget-available' };
   const advanced = Object.values(report.steps).some((step) =>
     (step.pages || 0) + (step.checked || 0) + (step.measured || 0) + (step.ownersExpanded || 0) + (step.resolved || 0) + (step.removed || 0) > 0,
