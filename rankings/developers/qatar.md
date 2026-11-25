@@ -59,7 +59,7 @@
 <tr>
 <td align="right">6</td>
 <td><a href="https://github.com/Offensive-Panda"><img src="https://avatars.githubusercontent.com/u/76246439?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Offensive-Panda"><b>Usman Sikander</b></a><br><sub>&#64;Offensive-Panda</sub></td>
-<td align="right"><b>531</b></td>
+<td align="right"><b>532</b></td>
 <td align="right">68</td>
 <td><sub>Qatar</sub></td>
 </tr>
@@ -80,7 +80,7 @@
 <tr>
 <td align="right">9</td>
 <td><a href="https://github.com/yhunlu"><img src="https://avatars.githubusercontent.com/u/22700324?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yhunlu"><b>YAHYA UNLU</b></a><br><sub>&#64;yhunlu</sub></td>
-<td align="right"><b>200</b></td>
+<td align="right"><b>202</b></td>
 <td align="right">41</td>
 <td><sub>Qatar, Doha</sub></td>
 </tr>

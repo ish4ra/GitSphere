@@ -7,7 +7,7 @@
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
 "coverage": {"basis":"partial","cutoffFollowers":0,"candidates":482,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":80,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"U_kgDOBZtxNw","login":"ibrahimkelly","name":"I-K(***)Y","url":"https://github.com/ibrahimkelly","avatarUrl":"https://avatars.githubusercontent.com/u/94073143?s=80&v=4","followers":197,"publicRepos":107,"location":"Mali","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-23"},
+  {"rank":1,"id":"U_kgDOBZtxNw","login":"ibrahimkelly","name":"I-K(***)Y","url":"https://github.com/ibrahimkelly","avatarUrl":"https://avatars.githubusercontent.com/u/94073143?s=80&v=4","followers":197,"publicRepos":107,"location":"Mali","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"MDQ6VXNlcjU3OTI5","login":"rgaudin","name":"rgaudin","url":"https://github.com/rgaudin","avatarUrl":"https://avatars.githubusercontent.com/u/57929?s=80&v=4","followers":131,"publicRepos":52,"location":"Bamako, Mali","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-23"},
   {"rank":3,"id":"MDQ6VXNlcjE3MDEyNjE2","login":"mkantem","name":"Kante Mahamadou","url":"https://github.com/mkantem","avatarUrl":"https://avatars.githubusercontent.com/u/17012616?s=80&v=4","followers":118,"publicRepos":51,"location":"Mali","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-23"},
   {"rank":4,"id":"MDQ6VXNlcjU2NDc5MjI3","login":"IvinoDev","name":"Mariam Kayantao","url":"https://github.com/IvinoDev","avatarUrl":"https://avatars.githubusercontent.com/u/56479227?s=80&v=4","followers":68,"publicRepos":45,"location":"Mali, Bamako","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-23"},
@@ -15,7 +15,7 @@
   {"rank":6,"id":"U_kgDOC_-GBg","login":"Lex-corp-crypto","name":"Amadou H TRAORE","url":"https://github.com/Lex-corp-crypto","avatarUrl":"https://avatars.githubusercontent.com/u/201295366?s=80&v=4","followers":58,"publicRepos":16,"location":"Mali/Bamako","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-23"},
   {"rank":7,"id":"MDQ6VXNlcjQ2OTIzODA0","login":"iamdanajr","name":"Dana JR✨","url":"https://github.com/iamdanajr","avatarUrl":"https://avatars.githubusercontent.com/u/46923804?s=80&v=4","followers":46,"publicRepos":4,"location":"Mali","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-23"},
   {"rank":8,"id":"U_kgDOBhNkvw","login":"Abdoul03","name":"Abdoul Ibrahima Samaké","url":"https://github.com/Abdoul03","avatarUrl":"https://avatars.githubusercontent.com/u/101934271?s=80&v=4","followers":44,"publicRepos":41,"location":"Bamako","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-24"},
-  {"rank":9,"id":"MDQ6VXNlcjg0MjAxNjAx","login":"sudoping01","name":"sed","url":"https://github.com/sudoping01","avatarUrl":"https://avatars.githubusercontent.com/u/84201601?s=80&v=4","followers":41,"publicRepos":74,"location":"Bamako","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-24"},
+  {"rank":9,"id":"MDQ6VXNlcjg0MjAxNjAx","login":"sudoping01","name":"sed","url":"https://github.com/sudoping01","avatarUrl":"https://avatars.githubusercontent.com/u/84201601?s=80&v=4","followers":41,"publicRepos":74,"location":"Bamako","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-25"},
   {"rank":10,"id":"U_kgDOCF6Dmw","login":"THIOYE97","name":"THIOYE MARIKO","url":"https://github.com/THIOYE97","avatarUrl":"https://avatars.githubusercontent.com/u/140411803?s=80&v=4","followers":36,"publicRepos":18,"location":"Bamako , Mali 🇲🇱","attribution":{"confidence":"high","evidence":"flag-emoji"},"verifiedOn":"2026-11-23"},
   {"rank":11,"id":"MDQ6VXNlcjM2MjM0OTg1","login":"diarisdiakite","name":"Diariatou Diakite","url":"https://github.com/diarisdiakite","avatarUrl":"https://avatars.githubusercontent.com/u/36234985?s=80&v=4","followers":35,"publicRepos":54,"location":"Bamako - Mali","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-23"},
   {"rank":12,"id":"U_kgDOBmFHBw","login":"Abdoulayadiallo","name":"Abdoulaye Diallo","url":"https://github.com/Abdoulayadiallo","avatarUrl":"https://avatars.githubusercontent.com/u/107038471?s=80&v=4","followers":34,"publicRepos":31,"location":"BAMAKO","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-24"},
@@ -490,8 +490,8 @@
   {"rank":481,"id":"U_kgDODn3ihw","login":"fere-molambo","name":"Fere App","url":"https://github.com/fere-molambo","avatarUrl":"https://avatars.githubusercontent.com/u/243131015?s=80&v=4","followers":0,"publicRepos":0,"location":"Bamako, Mali","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-24"},
   {"rank":482,"id":"U_kgDOFQJjVw","login":"moctarsissoko50-collab","name":"Malibusiness","url":"https://github.com/moctarsissoko50-collab","avatarUrl":"https://avatars.githubusercontent.com/u/352478039?s=80&v=4","followers":0,"publicRepos":0,"location":"Mali","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "c06500db35f0bcb8",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "921963bce1d8df83",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

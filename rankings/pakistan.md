@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **93** | 22 Nov 2026 | <a href="../data/PK.json">JSON</a> |
+| 🟡 Provisional | **98** | 22 Nov 2026 | <a href="../data/PK.json">JSON</a> |
 
 </div>
 
@@ -672,6 +672,41 @@
 <td align="right">175</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/waseefakhtar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/waseefakhtar/dose-android"><b>waseefakhtar/dose-android</b></a><br><sub>💊⏰ Dose is a medication reminder app for Android, built entirely using Kotlin and Jetpack Compose with MVVM + Clean Ar…</sub></td>
+<td align="right"><b>634</b></td>
+<td align="right">108</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/wyounas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wyounas/homer"><b>wyounas/homer</b></a><br><sub>Homer, a text analyser in Python, can help make your text more clear, simple and useful for your readers.</sub></td>
+<td align="right"><b>630</b></td>
+<td align="right">35</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/Razee4315.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Razee4315/Paperling"><b>Razee4315/Paperling</b></a><br><sub>A minimal, distraction-free markdown editor built with Tauri, React, and TypeScript</sub></td>
+<td align="right"><b>605</b></td>
+<td align="right">42</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/Shahrayar123.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Shahrayar123/Python-Projects"><b>Shahrayar123/Python-Projects</b></a><br><sub>A comprehensive list of Python projects</sub></td>
+<td align="right"><b>592</b></td>
+<td align="right">438</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/shanraisshan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shanraisshan/claude-code-hooks"><b>shanraisshan/claude-code-hooks</b></a><br><sub>claude code hooks - adding voice on each hook</sub></td>
+<td align="right"><b>574</b></td>
+<td align="right">61</td>
+<td>HTML</td>
+</tr>
 </tbody>
 </table>
 
@@ -680,8 +715,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 653 stars; 93 attributed candidates are tracked.
-- 131 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 574 stars; 98 attributed candidates are tracked.
+- 125 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 147 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

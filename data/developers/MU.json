@@ -58,7 +58,7 @@
   {"rank":49,"id":"MDQ6VXNlcjE0OTgxNjc2","login":"shaan1337","name":"Shaan Nobee","url":"https://github.com/shaan1337","avatarUrl":"https://avatars.githubusercontent.com/u/14981676?s=80&v=4","followers":30,"publicRepos":41,"location":"Mauritius","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":50,"id":"MDQ6VXNlcjYxNjU4NjIw","login":"xelab04","name":"Alex Bissessur","url":"https://github.com/xelab04","avatarUrl":"https://avatars.githubusercontent.com/u/61658620?s=80&v=4","followers":29,"publicRepos":47,"location":"Mauritius","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":51,"id":"MDQ6VXNlcjE2NDM4NzQ1","login":"avish0694","name":"Avish Cheetaram","url":"https://github.com/avish0694","avatarUrl":"https://avatars.githubusercontent.com/u/16438745?s=80&v=4","followers":29,"publicRepos":32,"location":"Mauritius","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
-  {"rank":52,"id":"MDQ6VXNlcjQ1NDgxNQ==","login":"Nayar","name":"Nayar Joolfoo","url":"https://github.com/Nayar","avatarUrl":"https://avatars.githubusercontent.com/u/454815?s=80&v=4","followers":28,"publicRepos":171,"location":"Mauritius","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":52,"id":"MDQ6VXNlcjQ1NDgxNQ==","login":"Nayar","name":"Nayar Joolfoo","url":"https://github.com/Nayar","avatarUrl":"https://avatars.githubusercontent.com/u/454815?s=80&v=4","followers":28,"publicRepos":171,"location":"Mauritius","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
   {"rank":53,"id":"MDQ6VXNlcjIzMjU3NTk5","login":"jeremie1112","name":"Daniel Jeremie","url":"https://github.com/jeremie1112","avatarUrl":"https://avatars.githubusercontent.com/u/23257599?s=80&v=4","followers":28,"publicRepos":67,"location":"Mauritius","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":54,"id":"U_kgDOBpUMJw","login":"vandriodd","name":"Luz Saavedra","url":"https://github.com/vandriodd","avatarUrl":"https://avatars.githubusercontent.com/u/110431271?s=80&v=4","followers":28,"publicRepos":52,"location":"Port Louis, Mauritius","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":55,"id":"MDQ6VXNlcjM5NjI1Nzg=","login":"512banque","name":"Kevin Richard","url":"https://github.com/512banque","avatarUrl":"https://avatars.githubusercontent.com/u/3962578?s=80&v=4","followers":28,"publicRepos":29,"location":"Mauritius","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
@@ -408,8 +408,8 @@
   {"rank":399,"id":"U_kgDOBhtWKA","login":"zeenosconcept1","name":"Eduru Zino","url":"https://github.com/zeenosconcept1","avatarUrl":"https://avatars.githubusercontent.com/u/102454824?s=80&v=4","followers":0,"publicRepos":1,"location":"Mauritius","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":400,"id":"MDQ6VXNlcjYxMjY0NjU4","login":"zenith-bot","name":"zenith (zed)","url":"https://github.com/zenith-bot","avatarUrl":"https://avatars.githubusercontent.com/u/61264658?s=80&v=4","followers":0,"publicRepos":1,"location":"rose hill - mauritius - indian ocean.","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "0d48541c6cea3777",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "eb71923a997f4e38",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/MA.json">JSON</a> |
+| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/MA.json">JSON</a> |
 
 </div>
 
@@ -25,7 +25,7 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><a href="https://github.com/seuros"><img src="https://avatars.githubusercontent.com/u/2394703?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/seuros"><b>Abdelkader Boudih</b></a><br><sub>&#64;seuros · 652 followers</sub></td>
+<td><a href="https://github.com/seuros"><img src="https://avatars.githubusercontent.com/u/2394703?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/seuros"><b>Abdelkader Boudih</b></a><br><sub>&#64;seuros · 651 followers</sub></td>
 <td align="right"><b>7,048</b></td>
 <td align="right">5,920</td>
 <td align="right">941</td>
@@ -88,6 +88,15 @@
 </tr>
 <tr>
 <td align="right">8</td>
+<td><a href="https://github.com/aymanebenhima"><img src="https://avatars.githubusercontent.com/u/17283908?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aymanebenhima"><b>AYMANE BENHIMA</b></a><br><sub>&#64;aymanebenhima · 211 followers</sub></td>
+<td align="right"><b>20</b></td>
+<td align="right">8</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">9</td>
 <td><a href="https://github.com/MrMugiwara"><img src="https://avatars.githubusercontent.com/u/7062695?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MrMugiwara"><b>Soufiane Boussali</b></a><br><sub>&#64;MrMugiwara · 304 followers</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">0</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/alma4rebi"><img src="https://avatars.githubusercontent.com/u/9637475?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alma4rebi"><b>AlmaGrebi</b></a><br><sub>&#64;alma4rebi · 332 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">0</td>
@@ -111,7 +120,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 10 of 474 discovered developers (464 awaiting measurement).
+- **Measured:** 11 of 503 discovered developers (492 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 173 in round 1.

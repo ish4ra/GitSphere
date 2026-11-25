@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/NL.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/NL.json">JSON</a> |
 
 </div>
 
@@ -61,7 +61,7 @@
 </tr>
 <tr>
 <td align="right">5</td>
-<td><a href="https://github.com/ForNeVeR"><img src="https://avatars.githubusercontent.com/u/92793?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ForNeVeR"><b>Friedrich von Never</b></a><br><sub>&#64;ForNeVeR · 696 followers</sub></td>
+<td><a href="https://github.com/ForNeVeR"><img src="https://avatars.githubusercontent.com/u/92793?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ForNeVeR"><b>Friedrich von Never</b></a><br><sub>&#64;ForNeVeR · 697 followers</sub></td>
 <td align="right"><b>3,112</b></td>
 <td align="right">1,843</td>
 <td align="right">497</td>
@@ -106,6 +106,15 @@
 </tr>
 <tr>
 <td align="right">10</td>
+<td><a href="https://github.com/leonardssh"><img src="https://avatars.githubusercontent.com/u/35312043?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leonardssh"><b>Narcis Bugeag</b></a><br><sub>&#64;leonardssh · 220 followers</sub></td>
+<td align="right"><b>10</b></td>
+<td align="right">6</td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">11</td>
 <td><a href="https://github.com/Rud5G"><img src="https://avatars.githubusercontent.com/u/27158?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rud5G"><b>Rudger</b></a><br><sub>&#64;Rud5G · 252 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">0</td>
@@ -120,7 +129,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 10 of 1,214 discovered developers (1,204 awaiting measurement).
+- **Measured:** 11 of 1,300 discovered developers (1,289 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 155 in round 1.

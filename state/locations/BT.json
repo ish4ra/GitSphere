@@ -5,10 +5,10 @@
 "roundStartedAt": "2026-11-22T10:52:56.038Z",
 "terms": {"count":38,"fingerprint":"38:47a09dc4"},
 "termIndex": 0,
-"specIndex": 0,
-"active": {"term":"Bhutan","kind":"users","queue":[{"metric":[0,100000000],"created":null,"cursor":"Y3Vyc29yOjMwMA==","page":7,"retrieved":300,"attempts":0}],"unresolved":[],"cycleStartedAt":"2026-11-22T10:52:56.038Z","stats":{"pages":6}},
+"specIndex": 1,
+"active": null,
 "unresolved": [],
 "completedRounds": [],
-"stats": {"requests":6,"pages":6,"accounts":300},
-"updatedAt": "2026-11-22T10:52:56.038Z"
+"stats": {"requests":12,"pages":12,"accounts":586},
+"updatedAt": "2026-11-25T04:26:51.959Z"
 }

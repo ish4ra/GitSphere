@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **29** | 01 Nov 2026 | <a href="../data/MO.json">JSON</a> |
-
-> **Not yet re-verified.** 23 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../data/MO.json">JSON</a> |
 
 </div>
 
@@ -67,164 +65,17 @@
 </tr>
 <tr>
 <td align="right">7</td>
-<td><img src="https://github.com/freemant2000.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/freemant2000/Wicket-Page-Test"><b>freemant2000/Wicket-Page-Test</b></a></td>
-<td align="right"><b>5</b></td>
-<td align="right">4</td>
-<td>Java</td>
+<td><img src="https://github.com/spiritLHLS.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spiritLHLS/Hang-up-items"><b>spiritLHLS/Hang-up-items</b></a><br><sub>问卷调查项目，云服务器推荐，挂机项目，免费代理，各种脚本收集。欢迎右上角点铃铛及时收取更新信息。(不要fork，低调) Questionnaire project, cloud server recommendation, hanging…</sub></td>
+<td align="right"><b>647</b></td>
+<td align="right">64</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">8</td>
-<td><img src="https://github.com/wang-wenmin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wang-wenmin/principles-of-machine-learning"><b>wang-wenmin/principles-of-machine-learning</b></a></td>
-<td align="right"><b>5</b></td>
-<td align="right">4</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">9</td>
-<td><img src="https://github.com/gorgeousfish.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gorgeousfish/pretest"><b>gorgeousfish/pretest</b></a></td>
-<td align="right"><b>5</b></td>
-<td align="right">3</td>
-<td>Stata</td>
-</tr>
-<tr>
-<td align="right">10</td>
-<td><img src="https://github.com/drunkprogrammer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/drunkprogrammer/HeartNovel"><b>drunkprogrammer/HeartNovel</b></a></td>
-<td align="right"><b>5</b></td>
-<td align="right">2</td>
-<td>CSS</td>
-</tr>
-<tr>
-<td align="right">11</td>
-<td><img src="https://github.com/b1owcar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/b1owcar/cooking_recipe"><b>b1owcar/cooking&#95;recipe</b></a></td>
-<td align="right"><b>5</b></td>
-<td align="right">1</td>
+<td><img src="https://github.com/greatzh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/greatzh/Papers"><b>greatzh/Papers</b></a><br><sub>Image Forgery Detection and Localization (and related) Papers List</sub></td>
+<td align="right"><b>573</b></td>
+<td align="right">50</td>
 <td>HTML</td>
-</tr>
-<tr>
-<td align="right">12</td>
-<td><img src="https://github.com/BeteixZ.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/BeteixZ/floating-lyrics-wam"><b>BeteixZ/floating-lyrics-wam</b></a></td>
-<td align="right"><b>5</b></td>
-<td align="right">1</td>
-<td>C#</td>
-</tr>
-<tr>
-<td align="right">13</td>
-<td><img src="https://github.com/cpig.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cpig/MissAV-Downloader"><b>cpig/MissAV-Downloader</b></a></td>
-<td align="right"><b>5</b></td>
-<td align="right">1</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">14</td>
-<td><img src="https://github.com/absora.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/absora/workoa-admin"><b>absora/workoa-admin</b></a></td>
-<td align="right"><b>5</b></td>
-<td align="right">0</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">15</td>
-<td><img src="https://github.com/Civilizzz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Civilizzz/Youtube-premium---for-Shadowrocket"><b>Civilizzz/Youtube-premium---for-Shadowrocket</b></a></td>
-<td align="right"><b>5</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">16</td>
-<td><img src="https://github.com/JaydenChao101.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JaydenChao101/OpenMOweather"><b>JaydenChao101/OpenMOweather</b></a></td>
-<td align="right"><b>5</b></td>
-<td align="right">0</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">17</td>
-<td><img src="https://github.com/leezhaocong.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/leezhaocong/ConsistTL"><b>leezhaocong/ConsistTL</b></a></td>
-<td align="right"><b>5</b></td>
-<td align="right">0</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">18</td>
-<td><img src="https://github.com/LiangPeng03.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LiangPeng03/deep-learning"><b>LiangPeng03/deep-learning</b></a></td>
-<td align="right"><b>5</b></td>
-<td align="right">0</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">19</td>
-<td><img src="https://github.com/MEIMEIMEIMEIMEMEDA.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MEIMEIMEIMEIMEMEDA/MAOSTE"><b>MEIMEIMEIMEIMEMEDA/MAOSTE</b></a></td>
-<td align="right"><b>5</b></td>
-<td align="right">0</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">20</td>
-<td><img src="https://github.com/mugpeng.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mugpeng/pengToolkit"><b>mugpeng/pengToolkit</b></a></td>
-<td align="right"><b>5</b></td>
-<td align="right">0</td>
-<td>R</td>
-</tr>
-<tr>
-<td align="right">21</td>
-<td><img src="https://github.com/weijiannan-Nikos.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/weijiannan-Nikos/2024-Datawhale-AI-Summer-Camp-Phase-IV-Large-Model-Application-"><b>weijiannan-Nikos/2024-Datawhale-AI-Summer-Camp-Phase-IV-Large-Model-Application-</b></a></td>
-<td align="right"><b>5</b></td>
-<td align="right">0</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">22</td>
-<td><img src="https://github.com/wizmacau.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wizmacau/framework-standard-edition"><b>wizmacau/framework-standard-edition</b></a></td>
-<td align="right"><b>5</b></td>
-<td align="right">0</td>
-<td>PHP</td>
-</tr>
-<tr>
-<td align="right">23</td>
-<td><img src="https://github.com/xuzel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xuzel/email_reader"><b>xuzel/email&#95;reader</b></a></td>
-<td align="right"><b>5</b></td>
-<td align="right">0</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">24</td>
-<td><img src="https://github.com/andyhamgit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/andyhamgit/network02120231"><b>andyhamgit/network02120231</b></a></td>
-<td align="right"><b>4</b></td>
-<td align="right">6</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">25</td>
-<td><img src="https://github.com/SHAOHUASONGgit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SHAOHUASONGgit/DataScienceHomeWork"><b>SHAOHUASONGgit/DataScienceHomeWork</b></a></td>
-<td align="right"><b>4</b></td>
-<td align="right">3</td>
-<td>Jupyter Notebook</td>
-</tr>
-<tr>
-<td align="right">26</td>
-<td><img src="https://github.com/lvhongqiang.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lvhongqiang/wepy-weui-demo"><b>lvhongqiang/wepy-weui-demo</b></a></td>
-<td align="right"><b>4</b></td>
-<td align="right">2</td>
-<td>CSS</td>
-</tr>
-<tr>
-<td align="right">27</td>
-<td><img src="https://github.com/MMRita.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MMRita/Automated-EVS-Measurement"><b>MMRita/Automated-EVS-Measurement</b></a></td>
-<td align="right"><b>4</b></td>
-<td align="right">2</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">28</td>
-<td><img src="https://github.com/gdrakness.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gdrakness/PopUpTableView"><b>gdrakness/PopUpTableView</b></a></td>
-<td align="right"><b>4</b></td>
-<td align="right">1</td>
-<td>Objective-C</td>
-</tr>
-<tr>
-<td align="right">29</td>
-<td><img src="https://github.com/K4Lok.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/K4Lok/gemini-shortcuts"><b>K4Lok/gemini-shortcuts</b></a></td>
-<td align="right"><b>4</b></td>
-<td align="right">1</td>
-<td>TypeScript</td>
 </tr>
 </tbody>
 </table>
@@ -232,11 +83,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 4 stars; 29 attributed candidates are tracked.
-- 23 entries were carried over from the previous dataset and are pending revalidation.
-- 116 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 573 stars; 8 attributed candidates are tracked.
+- 107 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 16 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

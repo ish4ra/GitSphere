@@ -143,7 +143,7 @@
 <tr>
 <td align="right">18</td>
 <td><a href="https://github.com/tegha-romeo"><img src="https://avatars.githubusercontent.com/u/180978410?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tegha-romeo"><b>tegha-romeo</b></a><br><sub>&#64;tegha-romeo</sub></td>
-<td align="right"><b>235</b></td>
+<td align="right"><b>236</b></td>
 <td align="right">37</td>
 <td><sub>Bangante, Cameroon</sub></td>
 </tr>

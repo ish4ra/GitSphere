@@ -5,7 +5,7 @@
 "country": {"code":"PS","name":"Palestine","slug":"palestine"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":402,"measuredAccounts":10,"measurementBacklog":392,"window":{"from":"2025-11-24T21:00:00Z","to":"2026-11-24T21:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":141,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":402,"measuredAccounts":11,"measurementBacklog":391,"window":{"from":"2025-11-24T21:00:00Z","to":"2026-11-24T21:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":141,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjc2NTg3ODM=","login":"hayasam","name":"Haya Samaana","url":"https://github.com/hayasam","avatarUrl":"https://avatars.githubusercontent.com/u/7658783?s=80&v=4","followers":225,"publicRepos":379,"location":"Palestine","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":832,"commits":45,"pullRequests":756,"reviews":0,"issues":2,"repositories":29,"windowFrom":"2025-11-24T21:00:00Z","windowTo":"2026-11-24T21:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":2,"id":"MDQ6VXNlcjU5ODI4MDgy","login":"izadoesdev","name":"iza","url":"https://github.com/izadoesdev","avatarUrl":"https://avatars.githubusercontent.com/u/59828082?s=80&v=4","followers":273,"publicRepos":62,"location":"Palestine","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":588,"commits":560,"pullRequests":11,"reviews":2,"issues":1,"repositories":14,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
@@ -16,8 +16,8 @@
   {"rank":7,"id":"U_kgDOEYq8Hg","login":"1242890-pixel","name":"ahmed idkadiek","url":"https://github.com/1242890-pixel","avatarUrl":"https://avatars.githubusercontent.com/u/294304798?s=80&v=4","followers":0,"publicRepos":9,"location":"palestine","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":28,"commits":18,"pullRequests":0,"reviews":0,"issues":0,"repositories":9,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":8,"id":"MDQ6VXNlcjgwMzg2NTk=","login":"shadeed","name":"Ahmad Shadeed","url":"https://github.com/shadeed","avatarUrl":"https://avatars.githubusercontent.com/u/8038659?s=80&v=4","followers":1857,"publicRepos":24,"location":"Tulkarm, Palestine","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":2,"commits":1,"pullRequests":0,"reviews":0,"issues":1,"repositories":0,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "672aeb18eab6d3af",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "510149c9820800db",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

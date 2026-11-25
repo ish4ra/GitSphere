@@ -185,7 +185,7 @@
 <tr>
 <td align="right">24</td>
 <td><a href="https://github.com/archham"><img src="https://avatars.githubusercontent.com/u/166602325?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/archham"><b>Nicolas Eberle</b></a><br><sub>&#64;archham</sub></td>
-<td align="right"><b>11</b></td>
+<td align="right"><b>10</b></td>
 <td align="right">56</td>
 <td><sub>Liechtenstein</sub></td>
 </tr>

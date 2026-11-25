@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/TW.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/TW.json">JSON</a> |
 
 </div>
 
@@ -43,7 +43,7 @@
 </tr>
 <tr>
 <td align="right">3</td>
-<td><a href="https://github.com/appleboy"><img src="https://avatars.githubusercontent.com/u/21979?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/appleboy"><b>Bo-Yi Wu</b></a><br><sub>&#64;appleboy · 7,571 followers</sub></td>
+<td><a href="https://github.com/appleboy"><img src="https://avatars.githubusercontent.com/u/21979?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/appleboy"><b>Bo-Yi Wu</b></a><br><sub>&#64;appleboy · 7,574 followers</sub></td>
 <td align="right"><b>3,687</b></td>
 <td align="right">2,865</td>
 <td align="right">671</td>
@@ -52,7 +52,7 @@
 </tr>
 <tr>
 <td align="right">4</td>
-<td><a href="https://github.com/PeterDaveHello"><img src="https://avatars.githubusercontent.com/u/3691490?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PeterDaveHello"><b>Peter Dave Hello</b></a><br><sub>&#64;PeterDaveHello · 1,894 followers</sub></td>
+<td><a href="https://github.com/PeterDaveHello"><img src="https://avatars.githubusercontent.com/u/3691490?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PeterDaveHello"><b>Peter Dave Hello</b></a><br><sub>&#64;PeterDaveHello · 1,899 followers</sub></td>
 <td align="right"><b>2,733</b></td>
 <td align="right">1,258</td>
 <td align="right">1,009</td>
@@ -113,6 +113,15 @@
 <td align="right">0</td>
 <td align="right">0</td>
 </tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/mingderwang"><img src="https://avatars.githubusercontent.com/u/47238?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mingderwang"><b>Ming-der Wang</b></a><br><sub>&#64;mingderwang · 203 followers</sub></td>
+<td align="right"><b>45</b></td>
+<td align="right">22</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
 </tbody>
 </table>
 
@@ -120,7 +129,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 10 of 711 discovered developers (701 awaiting measurement).
+- **Measured:** 11 of 769 discovered developers (758 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 57 in round 1.

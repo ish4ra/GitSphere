@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/wandilemawelela"><img src="https://avatars.githubusercontent.com/u/37802607?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wandilemawelela"><b>Wandile Mawelela</b></a><br><sub>&#64;wandilemawelela</sub></td>
-<td align="right"><b>198</b></td>
+<td align="right"><b>199</b></td>
 <td align="right">49</td>
 <td><sub>Manzini, Eswatini</sub></td>
 </tr>

@@ -5,7 +5,7 @@
 "country": {"code":"FM","name":"Micronesia","slug":"micronesia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":18,"ownerExpansionBacklog":19,"candidates":18,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":59,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":18,"ownerExpansionBacklog":18,"candidates":18,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":59,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Argoniano","nameWithOwner":"Cassonetto/Argoniano","url":"https://github.com/Cassonetto/Argoniano","description":null,"stars":2,"forks":0,"primaryLanguage":"Visual Basic .NET","license":{"spdxId":"GPL-3.0"},"createdAt":"2022-03-03T11:36:57Z","pushedAt":"2023-04-08T23:26:11Z","archived":false,"owner":{"login":"Cassonetto","name":"Cestino personale","type":"Organization","url":"https://github.com/Cassonetto","location":"Micronesia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"AMHNEWS","nameWithOwner":"Digitaltransform/AMHNEWS","url":"https://github.com/Digitaltransform/AMHNEWS","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":{"spdxId":"CC0-1.0"},"createdAt":"2022-01-19T11:09:05Z","pushedAt":"2023-10-21T17:43:18Z","archived":false,"owner":{"login":"Digitaltransform","name":"Bobwinslow Withlefthand","type":"User","url":"https://github.com/Digitaltransform","location":"MICRONESIA","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -26,8 +26,8 @@
   {"rank":17,"id":null,"name":"alldomainschecker","nameWithOwner":"soldebug/alldomainschecker","url":"https://github.com/soldebug/alldomainschecker","description":null,"stars":0,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2025-09-30T10:50:55Z","pushedAt":"2025-09-30T12:04:09Z","archived":false,"owner":{"login":"soldebug","name":null,"type":"User","url":"https://github.com/soldebug","location":"Micronesia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":18,"id":null,"name":".github","nameWithOwner":"sxup-tech/.github","url":"https://github.com/sxup-tech/.github","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-10-01T16:46:08Z","pushedAt":"2024-08-28T12:44:51Z","archived":false,"owner":{"login":"sxup-tech","name":"SXUP Technology","type":"Organization","url":"https://github.com/sxup-tech","location":"Micronesia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "65eca37a1079c9f8",
-"updatedAt": "2026-11-24T01:31:49.018Z",
+"contentHash": "42a93881c4e9615c",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-24T01:31:49.018Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

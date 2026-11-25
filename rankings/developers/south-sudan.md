@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **245** | 22 Nov 2026 | <a href="../../data/developers/SS.json">JSON</a> |
+| 🟡 Provisional | **248** | 22 Nov 2026 | <a href="../../data/developers/SS.json">JSON</a> |
 
 </div>
 
@@ -1150,587 +1150,608 @@
 </tr>
 <tr>
 <td align="right">162</td>
+<td><a href="https://github.com/Niger123321"><img src="https://avatars.githubusercontent.com/u/216600197?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Niger123321"><b>Ademir Mefibosete Costa Pinto</b></a><br><sub>&#64;Niger123321</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>sudão do sul</sub></td>
+</tr>
+<tr>
+<td align="right">163</td>
 <td><a href="https://github.com/Taban-Bosco"><img src="https://avatars.githubusercontent.com/u/83498404?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Taban-Bosco"><b>Taban Bosco</b></a><br><sub>&#64;Taban-Bosco</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">163</td>
+<td align="right">164</td>
 <td><a href="https://github.com/Zamba211"><img src="https://avatars.githubusercontent.com/u/329888120?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Zamba211"><b>Zamba</b></a><br><sub>&#64;Zamba211</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>south sudan</sub></td>
 </tr>
 <tr>
-<td align="right">164</td>
+<td align="right">165</td>
 <td><a href="https://github.com/akecharel2007-bit"><img src="https://avatars.githubusercontent.com/u/356920730?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akecharel2007-bit"><b>Akech Arel Mel</b></a><br><sub>&#64;akecharel2007-bit</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">165</td>
+<td align="right">166</td>
 <td><a href="https://github.com/Alpha001s"><img src="https://avatars.githubusercontent.com/u/318063997?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alpha001s"><b>Aleon</b></a><br><sub>&#64;Alpha001s</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Juba, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">166</td>
+<td align="right">167</td>
 <td><a href="https://github.com/Bigbafra"><img src="https://avatars.githubusercontent.com/u/100944706?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bigbafra"><b>Emmanuel Bafra</b></a><br><sub>&#64;Bigbafra</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Juba, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">167</td>
+<td align="right">168</td>
 <td><a href="https://github.com/bLAzeRayLabz"><img src="https://avatars.githubusercontent.com/u/247131670?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bLAzeRayLabz"><b>bLAzeRayLabz</b></a><br><sub>&#64;bLAzeRayLabz</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Fox, south sudan</sub></td>
 </tr>
 <tr>
-<td align="right">168</td>
+<td align="right">169</td>
 <td><a href="https://github.com/boldgrove946802"><img src="https://avatars.githubusercontent.com/u/306509740?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/boldgrove946802"><b>boldgrove946802</b></a><br><sub>&#64;boldgrove946802</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Artisan, south sudan</sub></td>
 </tr>
 <tr>
-<td align="right">169</td>
+<td align="right">170</td>
 <td><a href="https://github.com/ceasoramule111-afk"><img src="https://avatars.githubusercontent.com/u/308850272?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ceasoramule111-afk"><b>Ceasor</b></a><br><sub>&#64;ceasoramule111-afk</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>South sudan</sub></td>
 </tr>
 <tr>
-<td align="right">170</td>
+<td align="right">171</td>
 <td><a href="https://github.com/ChanLionTech"><img src="https://avatars.githubusercontent.com/u/271992937?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ChanLionTech"><b>Chan Lion Tech</b></a><br><sub>&#64;ChanLionTech</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">171</td>
+<td align="right">172</td>
 <td><a href="https://github.com/chol-mofame"><img src="https://avatars.githubusercontent.com/u/296392760?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chol-mofame"><b>Chol Mo&#39;Fame</b></a><br><sub>&#64;chol-mofame</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jebel Amianin, Juba, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">172</td>
+<td align="right">173</td>
 <td><a href="https://github.com/DhiaukueiMayek"><img src="https://avatars.githubusercontent.com/u/73942069?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DhiaukueiMayek"><b>Dhiaukuei</b></a><br><sub>&#64;DhiaukueiMayek</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">173</td>
+<td align="right">174</td>
 <td><a href="https://github.com/Dos-e-svg"><img src="https://avatars.githubusercontent.com/u/341910210?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dos-e-svg"><b>Development Organization for Society-Expanding DOS-E</b></a><br><sub>&#64;Dos-e-svg</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">174</td>
+<td align="right">175</td>
 <td><a href="https://github.com/eagerfuzepdol821"><img src="https://avatars.githubusercontent.com/u/312286983?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eagerfuzepdol821"><b>eagerfuzepdol821</b></a><br><sub>&#64;eagerfuzepdol821</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Raven, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">175</td>
+<td align="right">176</td>
 <td><a href="https://github.com/Edmontony47"><img src="https://avatars.githubusercontent.com/u/167739559?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Edmontony47"><b>Edmon Anthony</b></a><br><sub>&#64;Edmontony47</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">176</td>
+<td align="right">177</td>
 <td><a href="https://github.com/Emmanueltinate"><img src="https://avatars.githubusercontent.com/u/224996007?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Emmanueltinate"><b>Emmanuel Tinate</b></a><br><sub>&#64;Emmanueltinate</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Yei, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">177</td>
+<td align="right">178</td>
 <td><a href="https://github.com/EstherJpwani"><img src="https://avatars.githubusercontent.com/u/278411337?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EstherJpwani"><b>Esther</b></a><br><sub>&#64;EstherJpwani</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>south sudan</sub></td>
 </tr>
 <tr>
-<td align="right">178</td>
+<td align="right">179</td>
 <td><a href="https://github.com/FlUXcOREMisTG"><img src="https://avatars.githubusercontent.com/u/247139149?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FlUXcOREMisTG"><b>FlUXcOREMisTG</b></a><br><sub>&#64;FlUXcOREMisTG</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Samurai, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">179</td>
+<td align="right">180</td>
 <td><a href="https://github.com/gatmai"><img src="https://avatars.githubusercontent.com/u/250962625?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gatmai"><b>Gatmai Nhial Geah</b></a><br><sub>&#64;gatmai</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">180</td>
+<td align="right">181</td>
 <td><a href="https://github.com/JamesLadu001"><img src="https://avatars.githubusercontent.com/u/205914478?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JamesLadu001"><b>James Ladu</b></a><br><sub>&#64;JamesLadu001</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">181</td>
+<td align="right">182</td>
 <td><a href="https://github.com/Johnyongo"><img src="https://avatars.githubusercontent.com/u/39984610?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Johnyongo"><b>John JadaYpngo</b></a><br><sub>&#64;Johnyongo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">182</td>
+<td align="right">183</td>
 <td><a href="https://github.com/Justymaker"><img src="https://avatars.githubusercontent.com/u/96863728?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Justymaker"><b>Tot Kuol Maker</b></a><br><sub>&#64;Justymaker</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">183</td>
+<td align="right">184</td>
 <td><a href="https://github.com/KhamisBryan"><img src="https://avatars.githubusercontent.com/u/22493077?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KhamisBryan"><b>Khamis Freza</b></a><br><sub>&#64;KhamisBryan</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Juba, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">184</td>
+<td align="right">185</td>
 <td><a href="https://github.com/Kiddy0917"><img src="https://avatars.githubusercontent.com/u/71411887?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kiddy0917"><b>kiddy linner</b></a><br><sub>&#64;Kiddy0917</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">185</td>
+<td align="right">186</td>
 <td><a href="https://github.com/LukaPaulino"><img src="https://avatars.githubusercontent.com/u/56259858?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LukaPaulino"><b>Luka Paulino</b></a><br><sub>&#64;LukaPaulino</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>south sudan</sub></td>
 </tr>
 <tr>
-<td align="right">186</td>
+<td align="right">187</td>
 <td><a href="https://github.com/lulkoangpuokmalieth2004-cell"><img src="https://avatars.githubusercontent.com/u/244824100?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lulkoangpuokmalieth2004-cell"><b>Lul Koang Puok</b></a><br><sub>&#64;lulkoangpuokmalieth2004-cell</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">187</td>
+<td align="right">188</td>
 <td><a href="https://github.com/MatochM"><img src="https://avatars.githubusercontent.com/u/13807098?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MatochM"><b>Matoch makur Akech</b></a><br><sub>&#64;MatochM</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>South sudan</sub></td>
 </tr>
 <tr>
-<td align="right">188</td>
+<td align="right">189</td>
 <td><a href="https://github.com/meadow-meadowftwrl9u"><img src="https://avatars.githubusercontent.com/u/311310582?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/meadow-meadowftwrl9u"><b>meadow-meadowftwrl9u</b></a><br><sub>&#64;meadow-meadowftwrl9u</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Byte, south sudan</sub></td>
 </tr>
 <tr>
-<td align="right">189</td>
+<td align="right">190</td>
+<td><a href="https://github.com/moggamoses"><img src="https://avatars.githubusercontent.com/u/58680855?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/moggamoses"><b>Mogga Moses Lodu</b></a><br><sub>&#64;moggamoses</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Torit</sub></td>
+</tr>
+<tr>
+<td align="right">191</td>
 <td><a href="https://github.com/Mosesmandela"><img src="https://avatars.githubusercontent.com/u/311306877?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mosesmandela"><b>Moses Mandela</b></a><br><sub>&#64;Mosesmandela</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Juba, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">190</td>
+<td align="right">192</td>
+<td><a href="https://github.com/Nasmadein56"><img src="https://avatars.githubusercontent.com/u/302492941?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nasmadein56"><b>Nasmadine</b></a><br><sub>&#64;Nasmadein56</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Malakal</sub></td>
+</tr>
+<tr>
+<td align="right">193</td>
 <td><a href="https://github.com/olDBoYeCh032111S"><img src="https://avatars.githubusercontent.com/u/306215142?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/olDBoYeCh032111S"><b>olDBoYeCh032111S</b></a><br><sub>&#64;olDBoYeCh032111S</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Creator, south sudan</sub></td>
 </tr>
 <tr>
-<td align="right">191</td>
+<td align="right">194</td>
 <td><a href="https://github.com/oneduk"><img src="https://avatars.githubusercontent.com/u/87697244?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/oneduk"><b>Lokiru Simon Naluk Peter</b></a><br><sub>&#64;oneduk</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Juba, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">192</td>
+<td align="right">195</td>
 <td><a href="https://github.com/raila21"><img src="https://avatars.githubusercontent.com/u/126569171?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/raila21"><b>Raila Akur</b></a><br><sub>&#64;raila21</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">193</td>
+<td align="right">196</td>
 <td><a href="https://github.com/ReverXOfficial"><img src="https://avatars.githubusercontent.com/u/261518866?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ReverXOfficial"><b>ReverXOfficial</b></a><br><sub>&#64;ReverXOfficial</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">194</td>
+<td align="right">197</td>
 <td><a href="https://github.com/romeostm6-pixel"><img src="https://avatars.githubusercontent.com/u/247149336?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/romeostm6-pixel"><b>Gurush Ketir</b></a><br><sub>&#64;romeostm6-pixel</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">195</td>
+<td align="right">198</td>
 <td><a href="https://github.com/Rumonsuk"><img src="https://avatars.githubusercontent.com/u/37335817?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rumonsuk"><b>Jumaine R</b></a><br><sub>&#64;Rumonsuk</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">196</td>
+<td align="right">199</td>
 <td><a href="https://github.com/salvamawut9-afk"><img src="https://avatars.githubusercontent.com/u/229907708?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/salvamawut9-afk"><b>Salva Mawut</b></a><br><sub>&#64;salvamawut9-afk</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">197</td>
+<td align="right">200</td>
 <td><a href="https://github.com/sapano115"><img src="https://avatars.githubusercontent.com/u/184134538?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sapano115"><b>Sapano115</b></a><br><sub>&#64;sapano115</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Juba, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">198</td>
+<td align="right">201</td>
 <td><a href="https://github.com/seyyed211"><img src="https://avatars.githubusercontent.com/u/274908036?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/seyyed211"><b>Seyyed D. Tethii</b></a><br><sub>&#64;seyyed211</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Juba, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">199</td>
+<td align="right">202</td>
 <td><a href="https://github.com/Snowhvh2"><img src="https://avatars.githubusercontent.com/u/88513219?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Snowhvh2"><b>Snowhvh2</b></a><br><sub>&#64;Snowhvh2</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">200</td>
+<td align="right">203</td>
 <td><a href="https://github.com/StoryCashFlow"><img src="https://avatars.githubusercontent.com/u/270313854?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/StoryCashFlow"><b>Ajak David</b></a><br><sub>&#64;StoryCashFlow</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>South sudan</sub></td>
 </tr>
 <tr>
-<td align="right">201</td>
+<td align="right">204</td>
 <td><a href="https://github.com/Tung-Wal-14"><img src="https://avatars.githubusercontent.com/u/224670782?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tung-Wal-14"><b>Tung-Wal-14</b></a><br><sub>&#64;Tung-Wal-14</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">202</td>
+<td align="right">205</td>
 <td><a href="https://github.com/VictorBolDau"><img src="https://avatars.githubusercontent.com/u/183207309?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VictorBolDau"><b>Victor Bol Dau</b></a><br><sub>&#64;VictorBolDau</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Juba, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">203</td>
+<td align="right">206</td>
 <td><a href="https://github.com/vilmon6916"><img src="https://avatars.githubusercontent.com/u/193081121?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vilmon6916"><b>VILMONster</b></a><br><sub>&#64;vilmon6916</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>South Sudan juba</sub></td>
 </tr>
 <tr>
-<td align="right">204</td>
+<td align="right">207</td>
 <td><a href="https://github.com/VoIDdRiftTiDE"><img src="https://avatars.githubusercontent.com/u/247031823?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VoIDdRiftTiDE"><b>TechCaptain</b></a><br><sub>&#64;VoIDdRiftTiDE</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Coder, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">205</td>
+<td align="right">208</td>
 <td><a href="https://github.com/Williamjal855"><img src="https://avatars.githubusercontent.com/u/267043917?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Williamjal855"><b>William Jal Kuong</b></a><br><sub>&#64;Williamjal855</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Unity State, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">206</td>
+<td align="right">209</td>
 <td><a href="https://github.com/williamspachuol-tech"><img src="https://avatars.githubusercontent.com/u/256601205?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/williamspachuol-tech"><b>Williams Pachuol</b></a><br><sub>&#64;williamspachuol-tech</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">207</td>
+<td align="right">210</td>
 <td><a href="https://github.com/xiotechofficial"><img src="https://avatars.githubusercontent.com/u/294917183?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xiotechofficial"><b>xiotechofficial</b></a><br><sub>&#64;xiotechofficial</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">208</td>
+<td align="right">211</td>
 <td><a href="https://github.com/yelmanutaguek"><img src="https://avatars.githubusercontent.com/u/259960315?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yelmanutaguek"><b>Yulilogy</b></a><br><sub>&#64;yelmanutaguek</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Juba, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">209</td>
+<td align="right">212</td>
 <td><a href="https://github.com/yohanisriek"><img src="https://avatars.githubusercontent.com/u/89898684?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yohanisriek"><b>Yohanis Riek</b></a><br><sub>&#64;yohanisriek</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Juba, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">210</td>
+<td align="right">213</td>
 <td><a href="https://github.com/211Apps"><img src="https://avatars.githubusercontent.com/u/13079019?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/211Apps"><b>211 Apps</b></a><br><sub>&#64;211Apps</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Juba, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">211</td>
+<td align="right">214</td>
 <td><a href="https://github.com/achuilwillaim123dau-create"><img src="https://avatars.githubusercontent.com/u/225459335?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/achuilwillaim123dau-create"><b>Achuil William</b></a><br><sub>&#64;achuilwillaim123dau-create</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">212</td>
+<td align="right">215</td>
 <td><a href="https://github.com/Alan-Service"><img src="https://avatars.githubusercontent.com/u/56910525?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alan-Service"><b>Alan Service</b></a><br><sub>&#64;Alan-Service</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Juba, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">213</td>
+<td align="right">216</td>
 <td><a href="https://github.com/apxlab"><img src="https://avatars.githubusercontent.com/u/9754821?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/apxlab"><b>&#64;apxlab</b></a><br><sub>&#64;apxlab</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">214</td>
+<td align="right">217</td>
 <td><a href="https://github.com/Athian14"><img src="https://avatars.githubusercontent.com/u/171085274?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Athian14"><b>Johnathianmichael</b></a><br><sub>&#64;Athian14</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Juba, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">215</td>
+<td align="right">218</td>
 <td><a href="https://github.com/Bill-Fred"><img src="https://avatars.githubusercontent.com/u/179501686?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bill-Fred"><b>Bill-Fred</b></a><br><sub>&#64;Bill-Fred</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">216</td>
+<td align="right">219</td>
 <td><a href="https://github.com/Bol-Mawien"><img src="https://avatars.githubusercontent.com/u/184691529?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bol-Mawien"><b>Gabriel Bol Mawien</b></a><br><sub>&#64;Bol-Mawien</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Juba, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">217</td>
+<td align="right">220</td>
 <td><a href="https://github.com/denggoc"><img src="https://avatars.githubusercontent.com/u/190930444?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/denggoc"><b>Deng Goc</b></a><br><sub>&#64;denggoc</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>South sudan</sub></td>
 </tr>
 <tr>
-<td align="right">218</td>
+<td align="right">221</td>
 <td><a href="https://github.com/DengKuur"><img src="https://avatars.githubusercontent.com/u/201940432?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DengKuur"><b>Deng Kuur Nhial</b></a><br><sub>&#64;DengKuur</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">219</td>
+<td align="right">222</td>
 <td><a href="https://github.com/ganojohn86-oss"><img src="https://avatars.githubusercontent.com/u/291908990?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ganojohn86-oss"><b>Gano Lual</b></a><br><sub>&#64;ganojohn86-oss</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Juba, south sudan</sub></td>
 </tr>
 <tr>
-<td align="right">220</td>
+<td align="right">223</td>
 <td><a href="https://github.com/GenKornelio"><img src="https://avatars.githubusercontent.com/u/81713634?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GenKornelio"><b>Kornelio Poth</b></a><br><sub>&#64;GenKornelio</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">221</td>
+<td align="right">224</td>
 <td><a href="https://github.com/Gitshad"><img src="https://avatars.githubusercontent.com/u/78831500?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Gitshad"><b>Shadow Angelo Abukeaf</b></a><br><sub>&#64;Gitshad</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Juba, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">222</td>
+<td align="right">225</td>
 <td><a href="https://github.com/HAOSSD"><img src="https://avatars.githubusercontent.com/u/173248872?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HAOSSD"><b>Humanity For All Organization</b></a><br><sub>&#64;HAOSSD</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Juba, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">223</td>
+<td align="right">226</td>
 <td><a href="https://github.com/holdthechild"><img src="https://avatars.githubusercontent.com/u/215020605?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/holdthechild"><b>Hold the Child</b></a><br><sub>&#64;holdthechild</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Juba, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">224</td>
+<td align="right">227</td>
 <td><a href="https://github.com/James-Aleek"><img src="https://avatars.githubusercontent.com/u/251475716?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/James-Aleek"><b>James Aleek Majok Ameret</b></a><br><sub>&#64;James-Aleek</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Wau, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">225</td>
+<td align="right">228</td>
 <td><a href="https://github.com/jjada"><img src="https://avatars.githubusercontent.com/u/10004765?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jjada"><b>JOHN-JADA</b></a><br><sub>&#64;jjada</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">226</td>
+<td align="right">229</td>
 <td><a href="https://github.com/Jonnystyles"><img src="https://avatars.githubusercontent.com/u/82419903?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jonnystyles"><b>Jonnystyles</b></a><br><sub>&#64;Jonnystyles</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Juba, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">227</td>
+<td align="right">230</td>
 <td><a href="https://github.com/Kuotbul"><img src="https://avatars.githubusercontent.com/u/68191865?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kuotbul"><b>Kuotbul</b></a><br><sub>&#64;Kuotbul</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Juba, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">228</td>
+<td align="right">231</td>
 <td><a href="https://github.com/linomanutmayolringmalith12-netizen"><img src="https://avatars.githubusercontent.com/u/297865719?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/linomanutmayolringmalith12-netizen"><b>Lino Manut Mayol Ring Malith</b></a><br><sub>&#64;linomanutmayolringmalith12-netizen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">229</td>
+<td align="right">232</td>
 <td><a href="https://github.com/lowkeyfluxkyzyxurddk"><img src="https://avatars.githubusercontent.com/u/278694263?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lowkeyfluxkyzyxurddk"><b>AstroByte</b></a><br><sub>&#64;lowkeyfluxkyzyxurddk</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Forger, south sudan</sub></td>
 </tr>
 <tr>
-<td align="right">230</td>
+<td align="right">233</td>
 <td><a href="https://github.com/mabiorss"><img src="https://avatars.githubusercontent.com/u/88938599?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mabiorss"><b>Mabior</b></a><br><sub>&#64;mabiorss</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">231</td>
+<td align="right">234</td>
 <td><a href="https://github.com/MadingAnyiethMading"><img src="https://avatars.githubusercontent.com/u/307682083?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MadingAnyiethMading"><b>Mading Anyieth Mading</b></a><br><sub>&#64;MadingAnyiethMading</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>South sudan</sub></td>
 </tr>
 <tr>
-<td align="right">232</td>
+<td align="right">235</td>
 <td><a href="https://github.com/Mareng7"><img src="https://avatars.githubusercontent.com/u/144801081?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mareng7"><b>Mareng Dau</b></a><br><sub>&#64;Mareng7</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Kapoeta, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">233</td>
+<td align="right">236</td>
 <td><a href="https://github.com/Mathiang-Mading"><img src="https://avatars.githubusercontent.com/u/114312662?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mathiang-Mading"><b>Mathiang-Mading2022</b></a><br><sub>&#64;Mathiang-Mading</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">234</td>
+<td align="right">237</td>
 <td><a href="https://github.com/mlewa78"><img src="https://avatars.githubusercontent.com/u/248657048?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mlewa78"><b>Mlewa Hassan</b></a><br><sub>&#64;mlewa78</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">235</td>
+<td align="right">238</td>
 <td><a href="https://github.com/nddenb537rogq6j"><img src="https://avatars.githubusercontent.com/u/180152707?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nddenb537rogq6j"><b>nddenb537rogq6j</b></a><br><sub>&#64;nddenb537rogq6j</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">236</td>
+<td align="right">239</td>
 <td><a href="https://github.com/pandaup5"><img src="https://avatars.githubusercontent.com/u/183329109?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pandaup5"><b>Pandu Satriya</b></a><br><sub>&#64;pandaup5</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Juba, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">237</td>
+<td align="right">240</td>
 <td><a href="https://github.com/PappaIsaiah"><img src="https://avatars.githubusercontent.com/u/178330917?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PappaIsaiah"><b>PappaIsaiah&#64;ATS</b></a><br><sub>&#64;PappaIsaiah</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">238</td>
+<td align="right">241</td>
 <td><a href="https://github.com/pieng-IT"><img src="https://avatars.githubusercontent.com/u/278988048?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pieng-IT"><b>Pieng Bol</b></a><br><sub>&#64;pieng-IT</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Juba, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">239</td>
+<td align="right">242</td>
 <td><a href="https://github.com/Riakmawut"><img src="https://avatars.githubusercontent.com/u/180745493?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Riakmawut"><b>Riak Mawut Angui</b></a><br><sub>&#64;Riakmawut</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">240</td>
+<td align="right">243</td>
 <td><a href="https://github.com/Shekozy"><img src="https://avatars.githubusercontent.com/u/154272614?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Shekozy"><b>Shaker</b></a><br><sub>&#64;Shekozy</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">241</td>
+<td align="right">244</td>
 <td><a href="https://github.com/tommypeter"><img src="https://avatars.githubusercontent.com/u/80683071?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tommypeter"><b>tommypeter</b></a><br><sub>&#64;tommypeter</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">242</td>
+<td align="right">245</td>
 <td><a href="https://github.com/williamdengAI"><img src="https://avatars.githubusercontent.com/u/272306748?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/williamdengAI"><b>William M. Deng</b></a><br><sub>&#64;williamdengAI</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Juba, South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">243</td>
+<td align="right">246</td>
 <td><a href="https://github.com/xamba211"><img src="https://avatars.githubusercontent.com/u/219154456?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xamba211"><b>Zamba</b></a><br><sub>&#64;xamba211</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>south sudan</sub></td>
 </tr>
 <tr>
-<td align="right">244</td>
+<td align="right">247</td>
 <td><a href="https://github.com/xgaldik"><img src="https://avatars.githubusercontent.com/u/99811648?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xgaldik"><b>Jonatan Miazga</b></a><br><sub>&#64;xgaldik</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>South Sudan</sub></td>
 </tr>
 <tr>
-<td align="right">245</td>
+<td align="right">248</td>
 <td><a href="https://github.com/XtionJerry405"><img src="https://avatars.githubusercontent.com/u/224197389?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/XtionJerry405"><b>Xtion Jerry</b></a><br><sub>&#64;XtionJerry405</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -1744,7 +1765,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 245 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 248 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 47 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

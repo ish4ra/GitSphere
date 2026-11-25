@@ -5,15 +5,15 @@
 "country": {"code":"BL","name":"St. Barthélemy","slug":"st-barthelemy"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":11,"measuredAccounts":10,"measurementBacklog":1,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":14,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":11,"measuredAccounts":11,"measurementBacklog":0,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":14,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOFM8obA","login":"hvrijhof1-glitch","name":"Hugo-Vrijhof","url":"https://github.com/hvrijhof1-glitch","avatarUrl":"https://avatars.githubusercontent.com/u/349120620?s=80&v=4","followers":0,"publicRepos":3,"location":"40 Montée St Barthélemy, 69 321 Lyon Cedex 05","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":19,"commits":15,"pullRequests":0,"reviews":0,"issues":0,"repositories":3,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":2,"id":"MDQ6VXNlcjY4MjA0MTE3","login":"Moxxie-GIT","name":"Moxxie","url":"https://github.com/Moxxie-GIT","avatarUrl":"https://avatars.githubusercontent.com/u/68204117?s=80&v=4","followers":2,"publicRepos":2,"location":"Saint Barthélemy","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":12,"commits":11,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":3,"id":"U_kgDOBzl7ng","login":"tonyshuzhi666","name":"温志诚","url":"https://github.com/tonyshuzhi666","avatarUrl":"https://avatars.githubusercontent.com/u/121207710?s=80&v=4","followers":0,"publicRepos":1,"location":"圣巴泰勒米","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":4,"commits":3,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":4,"id":"MDQ6VXNlcjM0NDcyNzI=","login":"cadiou","name":"Baptiste Cadiou","url":"https://github.com/cadiou","avatarUrl":"https://avatars.githubusercontent.com/u/3447272?s=80&v=4","followers":7,"publicRepos":4,"location":"Saint-Barthélemy","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":1,"commits":1,"pullRequests":0,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "1bdadbcc9efa5823",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "80783f9820b92525",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

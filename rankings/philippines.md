@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **54** | 22 Nov 2026 | <a href="../data/PH.json">JSON</a> |
+| 🟡 Provisional | **66** | 22 Nov 2026 | <a href="../data/PH.json">JSON</a> |
 
 </div>
 
@@ -399,6 +399,90 @@
 <td align="right">317</td>
 <td>C</td>
 </tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/dlsucomet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dlsucomet/MLResources"><b>dlsucomet/MLResources</b></a><br><sub>Repository for Machine Learning resources, frameworks, and projects. Managed by the DLSU Machine Learning Group.</sub></td>
+<td align="right"><b>651</b></td>
+<td align="right">268</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><img src="https://github.com/glennraya.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/glennraya/vscode-settings-json"><b>glennraya/vscode-settings-json</b></a><br><sub>VS Code settings JSON, CSS, and JS files for IDE minimalist.</sub></td>
+<td align="right"><b>647</b></td>
+<td align="right">183</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><img src="https://github.com/eromatiya.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eromatiya/lightdm-webkit2-theme-glorious"><b>eromatiya/lightdm-webkit2-theme-glorious</b></a><br><sub>A sleek, modern and glorified LightDM webkit2 theme</sub></td>
+<td align="right"><b>646</b></td>
+<td align="right">55</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><img src="https://github.com/4regab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/4regab/TaskSync"><b>4regab/TaskSync</b></a> <sub>archived</sub></td>
+<td align="right"><b>629</b></td>
+<td align="right">36</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><img src="https://github.com/FN-FAL113.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FN-FAL113/cs2-server-picker"><b>FN-FAL113/cs2-server-picker</b></a><br><sub>A portable and lightweight server picker windows app for Counter Strike 2 or even Deadlock! (Legacy)</sub></td>
+<td align="right"><b>629</b></td>
+<td align="right">31</td>
+<td>Visual Basic .NET</td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><img src="https://github.com/ivanceras.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ivanceras/sauron-native"><b>ivanceras/sauron-native</b></a><br><sub>Truly cross platform, truly native. multiple backend GUI for rust</sub></td>
+<td align="right"><b>622</b></td>
+<td align="right">14</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><img src="https://github.com/alvincrisuy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alvincrisuy/clashX"><b>alvincrisuy/clashX</b></a><br><sub>A rule based shadowsocks proxy with GUI for Mac base on clash.</sub></td>
+<td align="right"><b>599</b></td>
+<td align="right">4,686</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><img src="https://github.com/kbparagua.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kbparagua/paloma"><b>kbparagua/paloma</b></a><br><sub>page-specific javascript for Rails done right</sub></td>
+<td align="right"><b>599</b></td>
+<td align="right">81</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/AngeloCasi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AngeloCasi/FUGU-ARDUINO-MPPT-FIRMWARE"><b>AngeloCasi/FUGU-ARDUINO-MPPT-FIRMWARE</b></a><br><sub>An open source Arduino ESP32 MPPT Charger firmware equipped with charging algorithms, WiFi, LCD menus &amp; more!</sub></td>
+<td align="right"><b>591</b></td>
+<td align="right">176</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><img src="https://github.com/accntech.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/accntech/shad-ui"><b>accntech/shad-ui</b></a><br><sub>Avalonia-based UI Library inspired by shadcn and Suki UI Library</sub></td>
+<td align="right"><b>585</b></td>
+<td align="right">58</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><img src="https://github.com/ronmarasigan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ronmarasigan/LavaLust"><b>ronmarasigan/LavaLust</b></a><br><sub>LavaLust is a lightweight Web Framework - (using MVC pattern) - for people who are developing web sites using PHP. It h…</sub></td>
+<td align="right"><b>580</b></td>
+<td align="right">327</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><img src="https://github.com/mixxorz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mixxorz/slippers"><b>mixxorz/slippers</b></a><br><sub>A UI component framework for Django. Built on top of Django Template Language.</sub></td>
+<td align="right"><b>579</b></td>
+<td align="right">42</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -407,8 +491,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 659 stars; 54 attributed candidates are tracked.
-- 125 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 579 stars; 66 attributed candidates are tracked.
+- 122 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 210 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

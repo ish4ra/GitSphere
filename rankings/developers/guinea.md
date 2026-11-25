@@ -94,7 +94,7 @@
 <tr>
 <td align="right">11</td>
 <td><a href="https://github.com/fiicode"><img src="https://avatars.githubusercontent.com/u/16849426?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fiicode"><b>fiicode</b></a><br><sub>&#64;fiicode</sub></td>
-<td align="right"><b>26</b></td>
+<td align="right"><b>25</b></td>
 <td align="right">62</td>
 <td><sub>Guinea</sub></td>
 </tr>

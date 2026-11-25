@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/GQ.json">JSON</a> |
+| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/GQ.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,15 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/cdoaweb"><img src="https://avatars.githubusercontent.com/u/78503384?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cdoaweb"><b>Carlos Daniel Ondo Angue</b></a><br><sub>&#64;cdoaweb · 2 followers</sub></td>
+<td align="right"><b>85</b></td>
+<td align="right">80</td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/luisrafaeleyoma"><img src="https://avatars.githubusercontent.com/u/171175868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/luisrafaeleyoma"><b>Luis Rafael Eyoma</b></a><br><sub>&#64;luisrafaeleyoma · 7 followers</sub></td>
 <td align="right"><b>78</b></td>
 <td align="right">73</td>
@@ -51,7 +60,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/alexis-ngoyi"><img src="https://avatars.githubusercontent.com/u/93914013?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexis-ngoyi"><b>Alexis Ngoyi M.</b></a><br><sub>&#64;alexis-ngoyi · 3 followers</sub></td>
 <td align="right"><b>49</b></td>
 <td align="right">41</td>
@@ -60,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/rodrigobielo"><img src="https://avatars.githubusercontent.com/u/165976001?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rodrigobielo"><b>Rodrigo Boichekú Bielo</b></a><br><sub>&#64;rodrigobielo · 0 followers</sub></td>
 <td align="right"><b>39</b></td>
 <td align="right">30</td>
@@ -69,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/Tranquilino1"><img src="https://avatars.githubusercontent.com/u/153443361?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tranquilino1"><b>Tranquilino Mba ncogo Andeme</b></a><br><sub>&#64;Tranquilino1 · 0 followers</sub></td>
 <td align="right"><b>39</b></td>
 <td align="right">20</td>
@@ -78,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/Owono2001"><img src="https://avatars.githubusercontent.com/u/94006907?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Owono2001"><b>Pedro Fabian Owono</b></a><br><sub>&#64;Owono2001 · 30 followers</sub></td>
 <td align="right"><b>23</b></td>
 <td align="right">21</td>
@@ -87,7 +96,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/seamuddin"><img src="https://avatars.githubusercontent.com/u/38663656?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/seamuddin"><b>Seam uddin</b></a><br><sub>&#64;seamuddin · 14 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">4</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/jose19889"><img src="https://avatars.githubusercontent.com/u/41426395?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jose19889"><b>Jose Martin Mbomio Edu</b></a><br><sub>&#64;jose19889 · 0 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
@@ -111,7 +120,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 14 of 75 discovered developers (61 awaiting measurement).
+- **Measured:** 15 of 75 discovered developers (60 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 3 of 47 in round 1.

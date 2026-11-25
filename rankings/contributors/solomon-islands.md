@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/SB.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/SB.json">JSON</a> |
 
 </div>
 
@@ -70,6 +70,15 @@
 </tr>
 <tr>
 <td align="right">6</td>
+<td><a href="https://github.com/riehjs"><img src="https://avatars.githubusercontent.com/u/36592732?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/riehjs"><b>Brijesh</b></a><br><sub>&#64;riehjs · 1 followers</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/7EX1U5"><img src="https://avatars.githubusercontent.com/u/31913866?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/7EX1U5"><b>7EX1U5</b></a><br><sub>&#64;7EX1U5 · 0 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -84,7 +93,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 10 of 75 discovered developers (65 awaiting measurement).
+- **Measured:** 11 of 75 discovered developers (64 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 2 of 37 in round 1.

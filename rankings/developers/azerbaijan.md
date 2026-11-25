@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **32** | 22 Nov 2026 | <a href="../../data/developers/AZ.json">JSON</a> |
+| 🟡 Provisional | **37** | 22 Nov 2026 | <a href="../../data/developers/AZ.json">JSON</a> |
 
 </div>
 
@@ -171,7 +171,7 @@
 <tr>
 <td align="right">22</td>
 <td><a href="https://github.com/GulsenZalova"><img src="https://avatars.githubusercontent.com/u/95272056?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GulsenZalova"><b>Gülşən Zalova</b></a><br><sub>&#64;GulsenZalova</sub></td>
-<td align="right"><b>237</b></td>
+<td align="right"><b>238</b></td>
 <td align="right">71</td>
 <td><sub>Baku,Azerbaijan</sub></td>
 </tr>
@@ -205,41 +205,76 @@
 </tr>
 <tr>
 <td align="right">27</td>
-<td><a href="https://github.com/al1abb"><img src="https://avatars.githubusercontent.com/u/60220042?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/al1abb"><b>Ali Abbasov</b></a><br><sub>&#64;al1abb</sub></td>
-<td align="right"><b>206</b></td>
-<td align="right">0</td>
-<td><sub>Azerbaijan</sub></td>
+<td><a href="https://github.com/NurullaBackEnd"><img src="https://avatars.githubusercontent.com/u/182861170?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NurullaBackEnd"><b>Nurulla</b></a><br><sub>&#64;NurullaBackEnd</sub></td>
+<td align="right"><b>218</b></td>
+<td align="right">18</td>
+<td><sub>Baku</sub></td>
 </tr>
 <tr>
 <td align="right">28</td>
-<td><a href="https://github.com/theahmadov"><img src="https://avatars.githubusercontent.com/u/88781785?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/theahmadov"><b>Ahmadov</b></a><br><sub>&#64;theahmadov</sub></td>
-<td align="right"><b>201</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/thisisyusub"><img src="https://avatars.githubusercontent.com/u/44983544?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thisisyusub"><b>Kanan Yusubov</b></a><br><sub>&#64;thisisyusub</sub></td>
+<td align="right"><b>208</b></td>
+<td align="right">25</td>
 <td><sub>Azerbaijan</sub></td>
 </tr>
 <tr>
 <td align="right">29</td>
+<td><a href="https://github.com/kamranAeff"><img src="https://avatars.githubusercontent.com/u/32291715?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kamranAeff"><b>Kamran A-eff</b></a><br><sub>&#64;kamranAeff</sub></td>
+<td align="right"><b>207</b></td>
+<td align="right">39</td>
+<td><sub>Baku</sub></td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td><a href="https://github.com/al1abb"><img src="https://avatars.githubusercontent.com/u/60220042?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/al1abb"><b>Ali Abbasov</b></a><br><sub>&#64;al1abb</sub></td>
+<td align="right"><b>205</b></td>
+<td align="right">46</td>
+<td><sub>Azerbaijan</sub></td>
+</tr>
+<tr>
+<td align="right">31</td>
+<td><a href="https://github.com/rahimlisarkhan"><img src="https://avatars.githubusercontent.com/u/61918721?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rahimlisarkhan"><b>Sarkhan Rahimli</b></a><br><sub>&#64;rahimlisarkhan</sub></td>
+<td align="right"><b>203</b></td>
+<td align="right">126</td>
+<td><sub>Azerbaijan</sub></td>
+</tr>
+<tr>
+<td align="right">32</td>
+<td><a href="https://github.com/nurlanvalizada"><img src="https://avatars.githubusercontent.com/u/7676162?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nurlanvalizada"><b>Nurlan Valizada</b></a><br><sub>&#64;nurlanvalizada</sub></td>
+<td align="right"><b>203</b></td>
+<td align="right">16</td>
+<td><sub>Azerbaijan</sub></td>
+</tr>
+<tr>
+<td align="right">33</td>
+<td><a href="https://github.com/theahmadov"><img src="https://avatars.githubusercontent.com/u/88781785?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/theahmadov"><b>Ahmadov</b></a><br><sub>&#64;theahmadov</sub></td>
+<td align="right"><b>201</b></td>
+<td align="right">36</td>
+<td><sub>Azerbaijan</sub></td>
+</tr>
+<tr>
+<td align="right">34</td>
 <td><a href="https://github.com/sabuhish"><img src="https://avatars.githubusercontent.com/u/46589585?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sabuhish"><b>Sabuhi</b></a><br><sub>&#64;sabuhish</sub></td>
 <td align="right"><b>148</b></td>
 <td align="right">0</td>
 <td><sub>Baku Azerbaijan</sub></td>
 </tr>
 <tr>
-<td align="right">30</td>
+<td align="right">35</td>
 <td><a href="https://github.com/mearashadowfax"><img src="https://avatars.githubusercontent.com/u/125820963?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mearashadowfax"><b>Emil Gulamov</b></a><br><sub>&#64;mearashadowfax</sub></td>
 <td align="right"><b>117</b></td>
 <td align="right">0</td>
 <td><sub>Baku, Azerbaijan</sub></td>
 </tr>
 <tr>
-<td align="right">31</td>
+<td align="right">36</td>
 <td><a href="https://github.com/Theyka"><img src="https://avatars.githubusercontent.com/u/34212813?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Theyka"><b>Theyka</b></a><br><sub>&#64;Theyka</sub></td>
 <td align="right"><b>74</b></td>
 <td align="right">0</td>
 <td><sub>Azerbaijan</sub></td>
 </tr>
 <tr>
-<td align="right">32</td>
+<td align="right">37</td>
 <td><a href="https://github.com/rasadov"><img src="https://avatars.githubusercontent.com/u/127891192?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rasadov"><b>Rauf Asadov</b></a><br><sub>&#64;rasadov</sub></td>
 <td align="right"><b>72</b></td>
 <td align="right">0</td>
@@ -253,7 +288,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 32 attributed developers are tracked; the cutoff is 72 followers.
+- Organizations are excluded. 37 attributed developers are tracked; the cutoff is 72 followers.
 - **Location discovery:** term 0 of 185 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

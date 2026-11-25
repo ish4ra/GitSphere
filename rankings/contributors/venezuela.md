@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/VE.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/VE.json">JSON</a> |
 
 </div>
 
@@ -61,6 +61,15 @@
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/jaimeirazabal1"><img src="https://avatars.githubusercontent.com/u/3135301?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jaimeirazabal1"><b>Jaime Irazabal</b></a><br><sub>&#64;jaimeirazabal1 · 219 followers</sub></td>
+<td align="right"><b>63</b></td>
+<td align="right">48</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/luisdgd07"><img src="https://avatars.githubusercontent.com/u/26287606?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/luisdgd07"><b>Luis Gonzalez</b></a><br><sub>&#64;luisdgd07 · 574 followers</sub></td>
 <td align="right"><b>15</b></td>
 <td align="right">11</td>
@@ -69,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/jacksonpf1"><img src="https://avatars.githubusercontent.com/u/83138568?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jacksonpf1"><b>Jackson Paredes Ferranti</b></a><br><sub>&#64;jacksonpf1 · 383 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">3</td>
@@ -78,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/jestevez"><img src="https://avatars.githubusercontent.com/u/775669?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jestevez"><b>Jose Luis Estevez</b></a><br><sub>&#64;jestevez · 322 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -93,7 +102,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 9 of 403 discovered developers (394 awaiting measurement).
+- **Measured:** 10 of 405 discovered developers (395 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 127 in round 1.

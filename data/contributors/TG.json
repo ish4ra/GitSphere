@@ -5,7 +5,7 @@
 "country": {"code":"TG","name":"Togo","slug":"togo"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":401,"measuredAccounts":9,"measurementBacklog":392,"window":{"from":"2025-11-24T11:00:00Z","to":"2026-11-24T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":37,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":402,"measuredAccounts":10,"measurementBacklog":392,"window":{"from":"2025-11-24T11:00:00Z","to":"2026-11-24T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":37,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOD40Z5g","login":"abdoulridwan2-commits","name":"Abdoulaye ridwan","url":"https://github.com/abdoulridwan2-commits","avatarUrl":"https://avatars.githubusercontent.com/u/260905446?s=80&v=4","followers":0,"publicRepos":44,"location":"Kara, Togo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":205,"commits":160,"pullRequests":0,"reviews":0,"issues":0,"repositories":44,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":2,"id":"U_kgDOCnfQSQ","login":"70-DIDIER","name":"guinwogbegno koffi","url":"https://github.com/70-DIDIER","avatarUrl":"https://avatars.githubusercontent.com/u/175624265?s=80&v=4","followers":13,"publicRepos":95,"location":"Lomé Togo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":169,"commits":137,"pullRequests":2,"reviews":0,"issues":0,"repositories":30,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
@@ -17,8 +17,8 @@
   {"rank":8,"id":"U_kgDOBe8b_A","login":"1Edmond","name":"Edmond","url":"https://github.com/1Edmond","avatarUrl":"https://avatars.githubusercontent.com/u/99556348?s=80&v=4","followers":15,"publicRepos":45,"location":"TOGO","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":17,"commits":12,"pullRequests":0,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":9,"id":"U_kgDODMyCJw","login":"L0VES1CKk","name":"‹ ︎ ✦ 𓏻 Pomaru ’ ◟ 🌱","url":"https://github.com/L0VES1CKk","avatarUrl":"https://avatars.githubusercontent.com/u/214729255?s=80&v=4","followers":467,"publicRepos":2,"location":"YUMESHIPPER!! F/o's are: tigress (kung fu panda), himiko toga (my hero academia), mafioso (forsaken), pierrot (the frea…","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":13,"commits":11,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "45ae4052520232ff",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "12f268deff7d09b4",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

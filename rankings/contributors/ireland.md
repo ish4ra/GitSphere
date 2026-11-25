@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/IE.json">JSON</a> |
+| 🟡 Provisional | **12** | 22 Nov 2026 | <a href="../../data/contributors/IE.json">JSON</a> |
 
 </div>
 
@@ -115,6 +115,15 @@
 </tr>
 <tr>
 <td align="right">11</td>
+<td><a href="https://github.com/No9"><img src="https://avatars.githubusercontent.com/u/130940?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/No9"><b>Anton Whalley</b></a><br><sub>&#64;No9 · 209 followers</sub></td>
+<td align="right"><b>10</b></td>
+<td align="right">7</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">12</td>
 <td><a href="https://github.com/hmikihth"><img src="https://avatars.githubusercontent.com/u/79752640?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hmikihth"><b>Miklos Horvath</b></a><br><sub>&#64;hmikihth · 488 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">5</td>
@@ -129,7 +138,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 11 of 552 discovered developers (541 awaiting measurement).
+- **Measured:** 12 of 582 discovered developers (570 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 135 in round 1.

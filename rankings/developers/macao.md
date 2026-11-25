@@ -45,7 +45,7 @@
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/RyanKung"><img src="https://avatars.githubusercontent.com/u/662346?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RyanKung"><b>Elder Ryan</b></a><br><sub>&#64;RyanKung</sub></td>
-<td align="right"><b>203</b></td>
+<td align="right"><b>202</b></td>
 <td align="right">290</td>
 <td><sub>Macau</sub></td>
 </tr>

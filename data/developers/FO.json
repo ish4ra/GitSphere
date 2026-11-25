@@ -48,7 +48,7 @@
   {"rank":39,"id":"MDQ6VXNlcjYxNzcxNTM=","login":"ingipingi","name":"Ingi á Steinamørk","url":"https://github.com/ingipingi","avatarUrl":"https://avatars.githubusercontent.com/u/6177153?s=80&v=4","followers":3,"publicRepos":3,"location":"Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":40,"id":"MDQ6VXNlcjE2MTE5OQ==","login":"akkernight","name":"Ian T. Jacobsen","url":"https://github.com/akkernight","avatarUrl":"https://avatars.githubusercontent.com/u/161199?s=80&v=4","followers":3,"publicRepos":2,"location":"Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":41,"id":"MDQ6VXNlcjg2NDAxMjY0","login":"doggtyril","name":"Dögg Tyril","url":"https://github.com/doggtyril","avatarUrl":"https://avatars.githubusercontent.com/u/86401264?s=80&v=4","followers":3,"publicRepos":0,"location":"Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":42,"id":"MDQ6VXNlcjM2NzA3Njg=","login":"Rogn","name":"Hallur Holm Johannessen","url":"https://github.com/Rogn","avatarUrl":"https://avatars.githubusercontent.com/u/3670768?s=80&v=4","followers":2,"publicRepos":31,"location":"Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":42,"id":"MDQ6VXNlcjM2NzA3Njg=","login":"Rogn","name":"Hallur Holm Johannessen","url":"https://github.com/Rogn","avatarUrl":"https://avatars.githubusercontent.com/u/3670768?s=80&v=4","followers":2,"publicRepos":31,"location":"Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
   {"rank":43,"id":"MDQ6VXNlcjUyNTgzMA==","login":"bardurdam","name":"Bárður Viberg Dam","url":"https://github.com/bardurdam","avatarUrl":"https://avatars.githubusercontent.com/u/525830?s=80&v=4","followers":2,"publicRepos":9,"location":"Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":44,"id":"U_kgDOCDJWQw","login":"michaelgyp","name":"Michael Gusti Yanu Putra","url":"https://github.com/michaelgyp","avatarUrl":"https://avatars.githubusercontent.com/u/137516611?s=80&v=4","followers":2,"publicRepos":5,"location":"Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":45,"id":"MDQ6VXNlcjI5MzIyMDI=","login":"Signark","name":"Signar Kristiansen","url":"https://github.com/Signark","avatarUrl":"https://avatars.githubusercontent.com/u/2932202?s=80&v=4","followers":2,"publicRepos":3,"location":"Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
@@ -127,8 +127,8 @@
   {"rank":118,"id":"MDQ6VXNlcjIyNDE0MzU0","login":"shadhahn","name":"Joanny","url":"https://github.com/shadhahn","avatarUrl":"https://avatars.githubusercontent.com/u/22414354?s=80&v=4","followers":0,"publicRepos":0,"location":"Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":119,"id":"MDQ6VXNlcjE4NzE3MzU4","login":"TorbjornN","name":"Torbjörn Nyström","url":"https://github.com/TorbjornN","avatarUrl":"https://avatars.githubusercontent.com/u/18717358?s=80&v=4","followers":0,"publicRepos":0,"location":"Faroe Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "9abba58539764d34",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "c4599031523e9080",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **46** | 03 Nov 2026 | <a href="../data/SK.json">JSON</a> |
-
-> **Not yet re-verified.** 4 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **53** | 22 Nov 2026 | <a href="../data/SK.json">JSON</a> |
 
 </div>
 
@@ -319,31 +317,80 @@
 </tr>
 <tr>
 <td align="right">43</td>
-<td><img src="https://github.com/fossilmfc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fossilmfc/terraform-provider-websupportsk"><b>fossilmfc/terraform-provider-websupportsk</b></a></td>
-<td align="right"><b>6</b></td>
-<td align="right">2</td>
-<td>Go</td>
+<td><img src="https://github.com/NightMean.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NightMean/OlliteRT"><b>NightMean/OlliteRT</b></a><br><sub>Turn your Android phone into an OpenAI-compatible LLM inference server - Fully local, private and Open Source</sub></td>
+<td align="right"><b>650</b></td>
+<td align="right">99</td>
+<td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">44</td>
-<td><img src="https://github.com/KollarM.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KollarM/WebAPIWithIdentityServerIntegrationTest"><b>KollarM/WebAPIWithIdentityServerIntegrationTest</b></a></td>
-<td align="right"><b>6</b></td>
-<td align="right">1</td>
-<td>C#</td>
+<td><img src="https://github.com/ckissi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ckissi/kinetics"><b>ckissi/kinetics</b></a><br><sub>A library of interface animations built on spring physics instead of fixed-duration easing.</sub></td>
+<td align="right"><b>647</b></td>
+<td align="right">63</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td align="right">45</td>
-<td><img src="https://github.com/LANCER245.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LANCER245/Tiny-T_Sidepack"><b>LANCER245/Tiny-T&#95;Sidepack</b></a></td>
-<td align="right"><b>6</b></td>
-<td align="right">1</td>
-<td>—</td>
+<td><img src="https://github.com/SimpleMobileTools.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SimpleMobileTools/Simple-Clock"><b>SimpleMobileTools/Simple-Clock</b></a><br><sub>Combination of a beautiful clock with widget, alarm, stopwatch &amp; timer, no ads</sub></td>
+<td align="right"><b>627</b></td>
+<td align="right">228</td>
+<td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">46</td>
-<td><img src="https://github.com/MatejBendik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MatejBendik/promptzone"><b>MatejBendik/promptzone</b></a></td>
-<td align="right"><b>5</b></td>
-<td align="right">0</td>
+<td><img src="https://github.com/totaljs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/totaljs/flow"><b>totaljs/flow</b></a><br><sub>Visual Programming Interface</sub></td>
+<td align="right"><b>606</b></td>
+<td align="right">139</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">47</td>
+<td><img src="https://github.com/gabonator.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gabonator/LA104"><b>gabonator/LA104</b></a><br><sub>LA104 logic analyser alternative firmware and experiments</sub></td>
+<td align="right"><b>600</b></td>
+<td align="right">94</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><img src="https://github.com/SimpleMobileTools.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SimpleMobileTools/Simple-Calculator"><b>SimpleMobileTools/Simple-Calculator</b></a><br><sub>A calculator for quick simple calculations with a nice user interface and no ads</sub></td>
+<td align="right"><b>593</b></td>
+<td align="right">407</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><img src="https://github.com/jlucansky.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jlucansky/Quartzmin"><b>jlucansky/Quartzmin</b></a><br><sub>Quartzmin is powerful, easy to use web management tool for Quartz.NET</sub></td>
+<td align="right"><b>590</b></td>
+<td align="right">185</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><img src="https://github.com/darsain.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/darsain/fpsmeter"><b>darsain/fpsmeter</b></a><br><sub>Sexy, fast, and themable FPS meter.</sub></td>
+<td align="right"><b>582</b></td>
+<td align="right">46</td>
 <td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">51</td>
+<td><img src="https://github.com/oliver-kriska.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/oliver-kriska/claude-elixir-phoenix"><b>oliver-kriska/claude-elixir-phoenix</b></a><br><sub>Claude Code plugin for Elixir/Phoenix/LiveView — 26 specialist agents, Iron Laws enforcement, and Tidewave MCP integrat…</sub></td>
+<td align="right"><b>578</b></td>
+<td align="right">45</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><img src="https://github.com/mrshu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mrshu/github-statuses"><b>mrshu/github-statuses</b></a><br><sub>The &quot;Missing GitHub Status Page&quot; -- a Flat Data attempt at historically documenting GitHub statuses</sub></td>
+<td align="right"><b>578</b></td>
+<td align="right">27</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><img src="https://github.com/scholtzm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/scholtzm/awesome-steam"><b>scholtzm/awesome-steam</b></a><br><sub>😎 A curated list of packages and resources regarding Steam development</sub></td>
+<td align="right"><b>576</b></td>
+<td align="right">54</td>
+<td>—</td>
 </tr>
 </tbody>
 </table>
@@ -351,11 +398,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 5 stars; 46 attributed candidates are tracked.
-- 4 entries were carried over from the previous dataset and are pending revalidation.
-- 115 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 576 stars; 53 attributed candidates are tracked.
+- 113 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 150 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

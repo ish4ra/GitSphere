@@ -5,7 +5,7 @@
 "country": {"code":"TJ","name":"Tajikistan","slug":"tajikistan"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":10,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":97,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":11,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":97,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"U_kgDOCSZUhQ","login":"abdullokhonz","name":"Abdullokhon Ghaibulloev","url":"https://github.com/abdullokhonz","avatarUrl":"https://avatars.githubusercontent.com/u/153506949?s=80&v=4","followers":428,"publicRepos":23,"location":"Khujand, Tajikistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":2,"id":"U_kgDOCIMXqg","login":"RahimovAbdurahmon","name":null,"url":"https://github.com/RahimovAbdurahmon","avatarUrl":"https://avatars.githubusercontent.com/u/142809002?s=80&v=4","followers":239,"publicRepos":31,"location":"Tajikistan, Dushanbe","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
@@ -16,10 +16,11 @@
   {"rank":7,"id":"MDQ6VXNlcjY4MjA0MDYw","login":"1e0nard0","name":"Dilshod","url":"https://github.com/1e0nard0","avatarUrl":"https://avatars.githubusercontent.com/u/68204060?s=80&v=4","followers":0,"publicRepos":1,"location":"Tajikistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":8,"id":"U_kgDOBlz7Ww","login":"22409934","name":"Razackov Firuz","url":"https://github.com/22409934","avatarUrl":"https://avatars.githubusercontent.com/u/106756955?s=80&v=4","followers":0,"publicRepos":1,"location":"Tajikistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":9,"id":"MDQ6VXNlcjE3NTE5MTY=","login":"a-gabrelian","name":"Amal Gabrelian","url":"https://github.com/a-gabrelian","avatarUrl":"https://avatars.githubusercontent.com/u/1751916?s=80&v=4","followers":0,"publicRepos":1,"location":"Tajikistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
-  {"rank":10,"id":"U_kgDOBiUjng","login":"AbadTech","name":"Sumbulmo","url":"https://github.com/AbadTech","avatarUrl":"https://avatars.githubusercontent.com/u/103097246?s=80&v=4","followers":0,"publicRepos":1,"location":"Dushanbe, Tajikistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"}
+  {"rank":10,"id":"U_kgDOBiUjng","login":"AbadTech","name":"Sumbulmo","url":"https://github.com/AbadTech","avatarUrl":"https://avatars.githubusercontent.com/u/103097246?s=80&v=4","followers":0,"publicRepos":1,"location":"Dushanbe, Tajikistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":11,"id":"U_kgDOEC3Fyw","login":"Abdizayi","name":null,"url":"https://github.com/Abdizayi","avatarUrl":"https://avatars.githubusercontent.com/u/271435211?s=80&v=4","followers":0,"publicRepos":1,"location":"Khujand, Tajikistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-25"}
 ],
-"contentHash": "81d202e004307ac1",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "d8f286d58d80473f",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

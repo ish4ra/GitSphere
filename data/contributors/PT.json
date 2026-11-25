@@ -5,7 +5,7 @@
 "country": {"code":"PT","name":"Portugal","slug":"portugal"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":598,"measuredAccounts":10,"measurementBacklog":588,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":108,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":640,"measuredAccounts":11,"measurementBacklog":629,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":108,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjM5MjY4Mw==","login":"rcarmo","name":"Rui Carmo","url":"https://github.com/rcarmo","avatarUrl":"https://avatars.githubusercontent.com/u/392683?s=80&v=4","followers":719,"publicRepos":436,"location":"Lisbon, Portugal","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":26587,"commits":26302,"pullRequests":34,"reviews":12,"issues":138,"repositories":98,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":2,"id":"U_kgDOBw16bQ","login":"motanelson","name":"nelson jr mota","url":"https://github.com/motanelson","avatarUrl":"https://avatars.githubusercontent.com/u/118323821?s=80&v=4","followers":9486,"publicRepos":490,"location":"Portugal,Lisbon","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":5558,"commits":5448,"pullRequests":0,"reviews":0,"issues":0,"repositories":101,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
@@ -18,8 +18,8 @@
   {"rank":9,"id":"MDQ6VXNlcjc0ODczMjE=","login":"peterpt","name":"peterpt","url":"https://github.com/peterpt","avatarUrl":"https://avatars.githubusercontent.com/u/7487321?s=80&v=4","followers":419,"publicRepos":363,"location":"Portugal","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":222,"commits":201,"pullRequests":0,"reviews":0,"issues":0,"repositories":21,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":10,"id":"MDQ6VXNlcjM2OTczOTM5","login":"malerey","name":"Maria Rey","url":"https://github.com/malerey","avatarUrl":"https://avatars.githubusercontent.com/u/36973939?s=80&v=4","followers":343,"publicRepos":415,"location":"Lisboa, Portugal","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":2,"commits":1,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "b849e9d692ab562b",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "ccd2ef84c8e7fcb6",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **41** | 22 Nov 2026 | <a href="../data/CY.json">JSON</a> |
+| 🟡 Provisional | **51** | 22 Nov 2026 | <a href="../data/CY.json">JSON</a> |
 
 </div>
 
@@ -308,6 +308,76 @@
 <td align="right">35</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">42</td>
+<td><img src="https://github.com/v4rl-ucy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/v4rl-ucy/ccm_slam"><b>v4rl-ucy/ccm&#95;slam</b></a><br><sub>CCM-SLAM: Robust and Efficient Centralized Collaborative Monocular SLAM for Robotic Teams</sub></td>
+<td align="right"><b>646</b></td>
+<td align="right">111</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">43</td>
+<td><img src="https://github.com/zakirullin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zakirullin/gpt-go"><b>zakirullin/gpt-go</b></a><br><sub>Tiny GPT implemented from scratch in pure Go. Optimized for understanding. Trained on Jules Verne books.</sub></td>
+<td align="right"><b>645</b></td>
+<td align="right">42</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><img src="https://github.com/qsecure-labs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/qsecure-labs/overlord"><b>qsecure-labs/overlord</b></a><br><sub>Overlord - Red Teaming Infrastructure Automation</sub></td>
+<td align="right"><b>639</b></td>
+<td align="right">78</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">45</td>
+<td><img src="https://github.com/hypnoglow.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hypnoglow/helm-s3"><b>hypnoglow/helm-s3</b></a><br><sub>⎈ Helm plugin that adds support for AWS S3 as a chart repository.</sub></td>
+<td align="right"><b>614</b></td>
+<td align="right">172</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">46</td>
+<td><img src="https://github.com/plp13.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/plp13/qman"><b>plp13/qman</b></a><br><sub>A more modern man page viewer for our terminals</sub></td>
+<td align="right"><b>609</b></td>
+<td align="right">23</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">47</td>
+<td><img src="https://github.com/opencobra.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/opencobra/cobrapy"><b>opencobra/cobrapy</b></a><br><sub>COBRApy is a package for constraint-based modeling of metabolic networks.</sub></td>
+<td align="right"><b>601</b></td>
+<td align="right">245</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><img src="https://github.com/protesilaos.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/protesilaos/ef-themes"><b>protesilaos/ef-themes</b></a><br><sub>Colourful and legible themes for GNU Emacs</sub></td>
+<td align="right"><b>598</b></td>
+<td align="right">34</td>
+<td>Emacs Lisp</td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><img src="https://github.com/dgutov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dgutov/robe"><b>dgutov/robe</b></a><br><sub>Code navigation, documentation lookup and completion for Ruby</sub></td>
+<td align="right"><b>587</b></td>
+<td align="right">38</td>
+<td>Emacs Lisp</td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><img src="https://github.com/zakirullin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zakirullin/tiny-compiler"><b>zakirullin/tiny-compiler</b></a><br><sub>A tiny compiler for a language featuring LL(2) grammar. With Lexer, Parser, ASM-like codegen and VM. Complex enough to…</sub></td>
+<td align="right"><b>579</b></td>
+<td align="right">44</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">51</td>
+<td><img src="https://github.com/semver.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/semver/semver.org"><b>semver/semver.org</b></a><br><sub>Semantic Versioning spec and website</sub></td>
+<td align="right"><b>577</b></td>
+<td align="right">320</td>
+<td>SCSS</td>
+</tr>
 </tbody>
 </table>
 
@@ -316,8 +386,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 672 stars; 41 attributed candidates are tracked.
-- 112 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 577 stars; 51 attributed candidates are tracked.
+- 105 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 105 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

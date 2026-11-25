@@ -5,15 +5,15 @@
 "country": {"code":"MP","name":"Northern Mariana Islands","slug":"northern-mariana-islands"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":17,"measuredAccounts":10,"measurementBacklog":7,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":26,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":17,"measuredAccounts":11,"measurementBacklog":6,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":26,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOCp4ZLg","login":"chris-yng","name":"Christopher Young","url":"https://github.com/chris-yng","avatarUrl":"https://avatars.githubusercontent.com/u/178133294?s=80&v=4","followers":4,"publicRepos":11,"location":"Sotobury, Northern Mariana Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":194,"commits":194,"pullRequests":0,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":2,"id":"MDQ6VXNlcjYzOTcxMzE0","login":"stephenalonzo","name":"Stephen Alonzo","url":"https://github.com/stephenalonzo","avatarUrl":"https://avatars.githubusercontent.com/u/63971314?s=80&v=4","followers":14,"publicRepos":30,"location":"Saipan, MP","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-22","contributions":{"public":47,"commits":36,"pullRequests":6,"reviews":0,"issues":1,"repositories":4,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":3,"id":"U_kgDODZAoNg","login":"Bradley-Jones-Hisashi","name":"Bradley-Jones-Hisashi","url":"https://github.com/Bradley-Jones-Hisashi","avatarUrl":"https://avatars.githubusercontent.com/u/227551286?s=80&v=4","followers":0,"publicRepos":7,"location":"Northern Mariana Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":2,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":4,"id":"U_kgDOB3VWLA","login":"donnaada","name":"Donna Ada","url":"https://github.com/donnaada","avatarUrl":"https://avatars.githubusercontent.com/u/125130284?s=80&v=4","followers":27,"publicRepos":55,"location":"Saipan, MP","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-22","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "e47d615050504583",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "4907a9f843a5dd0c",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

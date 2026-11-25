@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **65** | 22 Nov 2026 | <a href="../../data/developers/CL.json">JSON</a> |
+| 🟡 Provisional | **86** | 22 Nov 2026 | <a href="../../data/developers/CL.json">JSON</a> |
 
 </div>
 
@@ -373,108 +373,255 @@
 </tr>
 <tr>
 <td align="right">51</td>
+<td><a href="https://github.com/EstebanFuentealba"><img src="https://avatars.githubusercontent.com/u/442927?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EstebanFuentealba"><b>Esteban Fuentealba</b></a><br><sub>&#64;EstebanFuentealba</sub></td>
+<td align="right"><b>220</b></td>
+<td align="right">208</td>
+<td><sub>Talcahuano, Chile</sub></td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><a href="https://github.com/s1kr10s"><img src="https://avatars.githubusercontent.com/u/5374475?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/s1kr10s"><b>s1kr10s</b></a><br><sub>&#64;s1kr10s</sub></td>
+<td align="right"><b>218</b></td>
+<td align="right">174</td>
+<td><sub>chile</sub></td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><a href="https://github.com/tiagofabian"><img src="https://avatars.githubusercontent.com/u/76975965?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tiagofabian"><b>Tiago Alcázar</b></a><br><sub>&#64;tiagofabian</sub></td>
+<td align="right"><b>216</b></td>
+<td align="right">35</td>
+<td><sub>Santiago, Chile</sub></td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><a href="https://github.com/dayanMichelle"><img src="https://avatars.githubusercontent.com/u/65741174?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dayanMichelle"><b>Dayan Arango</b></a><br><sub>&#64;dayanMichelle</sub></td>
+<td align="right"><b>213</b></td>
+<td align="right">38</td>
+<td><sub>santiago de chile</sub></td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><a href="https://github.com/zorzalerrante"><img src="https://avatars.githubusercontent.com/u/916285?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zorzalerrante"><b>Eduardo Graells-Garrido</b></a><br><sub>&#64;zorzalerrante</sub></td>
+<td align="right"><b>212</b></td>
+<td align="right">40</td>
+<td><sub>Santiago, CL (en simulación y en realidad)</sub></td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><a href="https://github.com/CleoMenezesJr"><img src="https://avatars.githubusercontent.com/u/54215258?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CleoMenezesJr"><b>Cleo Menezes Jr.</b></a><br><sub>&#64;CleoMenezesJr</sub></td>
+<td align="right"><b>211</b></td>
+<td align="right">84</td>
+<td><sub>Viña del mar - Chile</sub></td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><a href="https://github.com/m3dora"><img src="https://avatars.githubusercontent.com/u/189401973?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/m3dora"><b>m3dora</b></a><br><sub>&#64;m3dora</sub></td>
+<td align="right"><b>210</b></td>
+<td align="right">4</td>
+<td><sub>Chile</sub></td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><a href="https://github.com/ppizarror"><img src="https://avatars.githubusercontent.com/u/12925256?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ppizarror"><b>Pablo Pizarro R.</b></a><br><sub>&#64;ppizarror</sub></td>
+<td align="right"><b>205</b></td>
+<td align="right">72</td>
+<td><sub>Santiago, Chile</sub></td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><a href="https://github.com/vicenteconejerosdelacruz"><img src="https://avatars.githubusercontent.com/u/10147674?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vicenteconejerosdelacruz"><b>Vicente Conejeros de la Cruz</b></a><br><sub>&#64;vicenteconejerosdelacruz</sub></td>
+<td align="right"><b>205</b></td>
+<td align="right">10</td>
+<td><sub>Chile</sub></td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><a href="https://github.com/cmartinezs"><img src="https://avatars.githubusercontent.com/u/8823837?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cmartinezs"><b>Carlos F. Martínez Sánchez</b></a><br><sub>&#64;cmartinezs</sub></td>
+<td align="right"><b>204</b></td>
+<td align="right">42</td>
+<td><sub>Chile</sub></td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><a href="https://github.com/ProfeCalfun"><img src="https://avatars.githubusercontent.com/u/101536909?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ProfeCalfun"><b>ProfeChino</b></a><br><sub>&#64;ProfeCalfun</sub></td>
+<td align="right"><b>203</b></td>
+<td align="right">26</td>
+<td><sub>Puerto Montt, Chile</sub></td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><a href="https://github.com/Marcelo-Crisostomo"><img src="https://avatars.githubusercontent.com/u/60080929?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Marcelo-Crisostomo"><b>Marcelo Crisóstomo</b></a><br><sub>&#64;Marcelo-Crisostomo</sub></td>
+<td align="right"><b>202</b></td>
+<td align="right">161</td>
+<td><sub>Llanquihue, Chile.</sub></td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><a href="https://github.com/gsanchezd"><img src="https://avatars.githubusercontent.com/u/539503?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gsanchezd"><b>Gonzalo Sánchez D</b></a><br><sub>&#64;gsanchezd</sub></td>
+<td align="right"><b>202</b></td>
+<td align="right">77</td>
+<td><sub>Chile</sub></td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><a href="https://github.com/gonzafg2"><img src="https://avatars.githubusercontent.com/u/5702027?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gonzafg2"><b>Gonzalo Fleming</b></a><br><sub>&#64;gonzafg2</sub></td>
+<td align="right"><b>200</b></td>
+<td align="right">176</td>
+<td><sub>Santiago, Chile</sub></td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><a href="https://github.com/sudachen"><img src="https://avatars.githubusercontent.com/u/1428?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sudachen"><b>Alexey Sudachen</b></a><br><sub>&#64;sudachen</sub></td>
+<td align="right"><b>199</b></td>
+<td align="right">166</td>
+<td><sub>Chile</sub></td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><a href="https://github.com/bidah"><img src="https://avatars.githubusercontent.com/u/1574028?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bidah"><b>Rodrigo Figueroa</b></a><br><sub>&#64;bidah</sub></td>
+<td align="right"><b>198</b></td>
+<td align="right">387</td>
+<td><sub>Maitencillo, Valparaiso, Chile.</sub></td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><a href="https://github.com/aamatte"><img src="https://avatars.githubusercontent.com/u/7615277?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aamatte"><b>Andrés Matte</b></a><br><sub>&#64;aamatte</sub></td>
+<td align="right"><b>194</b></td>
+<td align="right">12</td>
+<td><sub>Santiago, Chile</sub></td>
+</tr>
+<tr>
+<td align="right">68</td>
 <td><a href="https://github.com/jlobos"><img src="https://avatars.githubusercontent.com/u/11975868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jlobos"><b>Lobito</b></a><br><sub>&#64;jlobos</sub></td>
 <td align="right"><b>192</b></td>
 <td align="right">0</td>
 <td><sub>Chile</sub></td>
 </tr>
 <tr>
-<td align="right">52</td>
+<td align="right">69</td>
 <td><a href="https://github.com/TriForceX"><img src="https://avatars.githubusercontent.com/u/16083854?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TriForceX"><b>TriForce</b></a><br><sub>&#64;TriForceX</sub></td>
 <td align="right"><b>182</b></td>
 <td align="right">0</td>
 <td><sub>Santiago, Chile</sub></td>
 </tr>
 <tr>
-<td align="right">53</td>
+<td align="right">70</td>
+<td><a href="https://github.com/darkxex"><img src="https://avatars.githubusercontent.com/u/17991404?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/darkxex"><b>AngelXex</b></a><br><sub>&#64;darkxex</sub></td>
+<td align="right"><b>170</b></td>
+<td align="right">0</td>
+<td><sub>Chile</sub></td>
+</tr>
+<tr>
+<td align="right">71</td>
 <td><a href="https://github.com/hollowstrawberry"><img src="https://avatars.githubusercontent.com/u/33796679?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hollowstrawberry"><b>Samuel</b></a><br><sub>&#64;hollowstrawberry</sub></td>
 <td align="right"><b>129</b></td>
 <td align="right">0</td>
 <td><sub>Chile</sub></td>
 </tr>
 <tr>
-<td align="right">54</td>
+<td align="right">72</td>
 <td><a href="https://github.com/z411"><img src="https://avatars.githubusercontent.com/u/1988512?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/z411"><b>z411</b></a><br><sub>&#64;z411</sub></td>
 <td align="right"><b>93</b></td>
 <td align="right">0</td>
 <td><sub>Chile</sub></td>
 </tr>
 <tr>
-<td align="right">55</td>
+<td align="right">73</td>
 <td><a href="https://github.com/ofou"><img src="https://avatars.githubusercontent.com/u/12256669?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ofou"><b>Omar Olivares Urrutia</b></a><br><sub>&#64;ofou</sub></td>
 <td align="right"><b>91</b></td>
 <td align="right">0</td>
 <td><sub>Patagonia 🇨🇱</sub></td>
 </tr>
 <tr>
-<td align="right">56</td>
+<td align="right">74</td>
 <td><a href="https://github.com/ignaciocastro"><img src="https://avatars.githubusercontent.com/u/7141944?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ignaciocastro"><b>Ignacio Castro</b></a><br><sub>&#64;ignaciocastro</sub></td>
 <td align="right"><b>90</b></td>
 <td align="right">0</td>
 <td><sub>Chile</sub></td>
 </tr>
 <tr>
-<td align="right">57</td>
+<td align="right">75</td>
 <td><a href="https://github.com/andresgottlieb"><img src="https://avatars.githubusercontent.com/u/1126905?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andresgottlieb"><b>Andrés Gottlieb</b></a><br><sub>&#64;andresgottlieb</sub></td>
 <td align="right"><b>76</b></td>
 <td align="right">0</td>
 <td><sub>Santiago, Chile</sub></td>
 </tr>
 <tr>
-<td align="right">58</td>
+<td align="right">76</td>
 <td><a href="https://github.com/asystat"><img src="https://avatars.githubusercontent.com/u/954218?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asystat"><b>Sebastian</b></a><br><sub>&#64;asystat</sub></td>
 <td align="right"><b>68</b></td>
 <td align="right">0</td>
 <td><sub>Chile</sub></td>
 </tr>
 <tr>
-<td align="right">59</td>
+<td align="right">77</td>
 <td><a href="https://github.com/ramaureirac"><img src="https://avatars.githubusercontent.com/u/36780404?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ramaureirac"><b>Rodrigo Andrés Maureira Contreras</b></a><br><sub>&#64;ramaureirac</sub></td>
 <td align="right"><b>51</b></td>
 <td align="right">0</td>
 <td><sub>Valparaíso, Chile</sub></td>
 </tr>
 <tr>
-<td align="right">60</td>
+<td align="right">78</td>
 <td><a href="https://github.com/jsgrrchg"><img src="https://avatars.githubusercontent.com/u/25624391?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jsgrrchg"><b>José Gurruchaga</b></a><br><sub>&#64;jsgrrchg</sub></td>
 <td align="right"><b>50</b></td>
 <td align="right">0</td>
 <td><sub>Chile</sub></td>
 </tr>
 <tr>
-<td align="right">61</td>
+<td align="right">79</td>
 <td><a href="https://github.com/adleroliveira"><img src="https://avatars.githubusercontent.com/u/713256?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adleroliveira"><b>Adler Oliveira</b></a><br><sub>&#64;adleroliveira</sub></td>
 <td align="right"><b>48</b></td>
 <td align="right">0</td>
 <td><sub>Chile</sub></td>
 </tr>
 <tr>
-<td align="right">62</td>
+<td align="right">80</td>
+<td><a href="https://github.com/luisespinoza"><img src="https://avatars.githubusercontent.com/u/1408903?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/luisespinoza"><b>Luis Enrique Espinoza Severino</b></a><br><sub>&#64;luisespinoza</sub></td>
+<td align="right"><b>40</b></td>
+<td align="right">0</td>
+<td><sub>Quilpué, Chile</sub></td>
+</tr>
+<tr>
+<td align="right">81</td>
 <td><a href="https://github.com/Lord-Kamina"><img src="https://avatars.githubusercontent.com/u/6446892?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lord-Kamina"><b>Gregorio Litenstein</b></a><br><sub>&#64;Lord-Kamina</sub></td>
 <td align="right"><b>39</b></td>
 <td align="right">0</td>
 <td><sub>Santiago, Chile</sub></td>
 </tr>
 <tr>
-<td align="right">63</td>
+<td align="right">82</td>
 <td><a href="https://github.com/eliukblau"><img src="https://avatars.githubusercontent.com/u/655950?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eliukblau"><b>Eliuk Blau</b></a><br><sub>&#64;eliukblau</sub></td>
 <td align="right"><b>36</b></td>
 <td align="right">0</td>
 <td><sub>Santiago, Chile</sub></td>
 </tr>
 <tr>
-<td align="right">64</td>
+<td align="right">83</td>
+<td><a href="https://github.com/iegomez"><img src="https://avatars.githubusercontent.com/u/5600043?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iegomez"><b>Ignacio Gómez</b></a><br><sub>&#64;iegomez</sub></td>
+<td align="right"><b>33</b></td>
+<td align="right">0</td>
+<td><sub>Chile</sub></td>
+</tr>
+<tr>
+<td align="right">84</td>
 <td><a href="https://github.com/rvera"><img src="https://avatars.githubusercontent.com/u/122546?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rvera"><b>Rodrigo Vera</b></a><br><sub>&#64;rvera</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">0</td>
 <td><sub>Santiago, CL</sub></td>
 </tr>
 <tr>
-<td align="right">65</td>
+<td align="right">85</td>
 <td><a href="https://github.com/alexeyw"><img src="https://avatars.githubusercontent.com/u/1450804?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexeyw"><b>Aleksei Volodin</b></a><br><sub>&#64;alexeyw</sub></td>
 <td align="right"><b>28</b></td>
 <td align="right">0</td>
 <td><sub>Santiago, Chile</sub></td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><a href="https://github.com/madkote"><img src="https://avatars.githubusercontent.com/u/4921881?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/madkote"><b>RES</b></a><br><sub>&#64;madkote</sub></td>
+<td align="right"><b>18</b></td>
+<td align="right">0</td>
+<td><sub>Santiago de Chile</sub></td>
 </tr>
 </tbody>
 </table>
@@ -484,7 +631,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 65 attributed developers are tracked; the cutoff is 28 followers.
+- Organizations are excluded. 86 attributed developers are tracked; the cutoff is 18 followers.
 - **Location discovery:** term 0 of 113 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

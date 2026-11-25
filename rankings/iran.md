@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **36** | 22 Nov 2026 | <a href="../data/IR.json">JSON</a> |
+| 🟡 Provisional | **43** | 22 Nov 2026 | <a href="../data/IR.json">JSON</a> |
 
 </div>
 
@@ -273,6 +273,55 @@
 <td align="right">90</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">37</td>
+<td><img src="https://github.com/thisisnabi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thisisnabi/Blogger"><b>thisisnabi/Blogger</b></a><br><sub>Clean Architecture, CQRS, and DDD Implementation by ASP.NET Core Blog problem domain.</sub></td>
+<td align="right"><b>632</b></td>
+<td align="right">155</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">38</td>
+<td><img src="https://github.com/icubaby.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/icubaby/SideRail"><b>icubaby/SideRail</b></a><br><sub>Bold control panel for your server, one-click deploy on Railway</sub></td>
+<td align="right"><b>598</b></td>
+<td align="right">1,582</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">39</td>
+<td><img src="https://github.com/mavinoo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mavinoo/laravelBatch"><b>mavinoo/laravelBatch</b></a><br><sub>insert batch and update batch in laravel</sub></td>
+<td align="right"><b>592</b></td>
+<td align="right">124</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">40</td>
+<td><img src="https://github.com/binafy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/binafy/laravel-user-monitoring"><b>binafy/laravel-user-monitoring</b></a><br><sub>Laravel User Monitoring is a package that tracks user activities like logins, page visits, and model interactions in La…</sub></td>
+<td align="right"><b>592</b></td>
+<td align="right">43</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">41</td>
+<td><img src="https://github.com/SiavashBamshadnia.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SiavashBamshadnia/Laravel-Source-Encrypter"><b>SiavashBamshadnia/Laravel-Source-Encrypter</b></a><br><sub>Laravel and Lumen Source Code Encrypter</sub></td>
+<td align="right"><b>586</b></td>
+<td align="right">142</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">42</td>
+<td><img src="https://github.com/irbigdata.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/irbigdata/data-dockerfiles"><b>irbigdata/data-dockerfiles</b></a><br><sub>a curated list of docker-compose files prepared for testing data engineering tools, databases and open source libraries.</sub></td>
+<td align="right"><b>580</b></td>
+<td align="right">58</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">43</td>
+<td><img src="https://github.com/matnbaz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/matnbaz/matnbaz"><b>matnbaz/matnbaz</b></a> <sub>archived</sub><br><sub>Source-code for the &quot;matnbaz&quot; project (Archived)</sub></td>
+<td align="right"><b>573</b></td>
+<td align="right">19</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -281,8 +330,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 667 stars; 36 attributed candidates are tracked.
-- 131 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 573 stars; 43 attributed candidates are tracked.
+- 124 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 159 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

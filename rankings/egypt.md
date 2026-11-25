@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **100** | 04 Nov 2026 | <a href="../data/EG.json">JSON</a> |
-
-> **Not yet re-verified.** 12 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/EG.json">JSON</a> |
 
 </div>
 
@@ -641,87 +639,87 @@
 </tr>
 <tr>
 <td align="right">89</td>
-<td><img src="https://github.com/AhmedZayedSalem.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmedZayedSalem/spree_multi_stores"><b>AhmedZayedSalem/spree&#95;multi&#95;stores</b></a></td>
-<td align="right"><b>5</b></td>
-<td align="right">4</td>
-<td>HTML</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/hart"><b>mit-han-lab/hart</b></a><br><sub>HART: Efficient Visual Generation with Hybrid Autoregressive Transformer</sub></td>
+<td align="right"><b>651</b></td>
+<td align="right">44</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">90</td>
-<td><img src="https://github.com/MohamedTarek.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MohamedTarek/laravel-stampede-guard"><b>MohamedTarek/laravel-stampede-guard</b></a></td>
-<td align="right"><b>5</b></td>
-<td align="right">1</td>
-<td>PHP</td>
+<td><img src="https://github.com/Davenchy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Davenchy/live-torrent"><b>Davenchy/live-torrent</b></a> <sub>archived</sub><br><sub>Torrent Web Client</sub></td>
+<td align="right"><b>633</b></td>
+<td align="right">201</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">91</td>
-<td><img src="https://github.com/SaraKhamisMostafa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SaraKhamisMostafa/ToDo"><b>SaraKhamisMostafa/ToDo</b></a></td>
-<td align="right"><b>5</b></td>
-<td align="right">0</td>
-<td>HTML</td>
+<td><img src="https://github.com/ywmaa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ywmaa/Advanced-Movement-System-Godot"><b>ywmaa/Advanced-Movement-System-Godot</b></a><br><sub>This project is a template for creating advanced Third/First Person movement in GODOT</sub></td>
+<td align="right"><b>628</b></td>
+<td align="right">51</td>
+<td>GDScript</td>
 </tr>
 <tr>
 <td align="right">92</td>
-<td><img src="https://github.com/fadynabil10.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fadynabil10/Build-a-Portfolio-Site"><b>fadynabil10/Build-a-Portfolio-Site</b></a></td>
-<td align="right"><b>4</b></td>
-<td align="right">2</td>
-<td>HTML</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/spvnas"><b>mit-han-lab/spvnas</b></a> <sub>archived</sub><br><sub>&#91;ECCV 2020&#93; Searching Efficient 3D Architectures with Sparse Point-Voxel Convolution</sub></td>
+<td align="right"><b>622</b></td>
+<td align="right">114</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">93</td>
-<td><img src="https://github.com/Asmaa-Kohla.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Asmaa-Kohla/iOSChatLib"><b>Asmaa-Kohla/iOSChatLib</b></a></td>
-<td align="right"><b>4</b></td>
-<td align="right">1</td>
-<td>Objective-C</td>
-</tr>
-<tr>
-<td align="right">94</td>
-<td><img src="https://github.com/rameznady25.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rameznady25/Decompressing-For-LJPEG-image"><b>rameznady25/Decompressing-For-LJPEG-image</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">2</td>
+<td><img src="https://github.com/h9-tect.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/h9-tect/ML-DL_Roadmap."><b>h9-tect/ML-DL&#95;Roadmap.</b></a></td>
+<td align="right"><b>620</b></td>
+<td align="right">74</td>
 <td>—</td>
 </tr>
 <tr>
+<td align="right">94</td>
+<td><img src="https://github.com/donn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/donn/nudelta"><b>donn/nudelta</b></a><br><sub>Open source NuPhy Console alternative</sub></td>
+<td align="right"><b>611</b></td>
+<td align="right">30</td>
+<td>JavaScript</td>
+</tr>
+<tr>
 <td align="right">95</td>
-<td><img src="https://github.com/mfouadegy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mfouadegy/gamify-app-ui"><b>mfouadegy/gamify-app-ui</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">1</td>
-<td>Dart</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/radial-attention"><b>mit-han-lab/radial-attention</b></a><br><sub>&#91;NeurIPS 2025&#93; Radial Attention: O(nlogn) Sparse Attention with Energy Decay for Long Video Generation</sub></td>
+<td align="right"><b>610</b></td>
+<td align="right">36</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">96</td>
-<td><img src="https://github.com/EmanKamalNasr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EmanKamalNasr/News"><b>EmanKamalNasr/News</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">0</td>
-<td>Java</td>
+<td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/lite-transformer"><b>mit-han-lab/lite-transformer</b></a> <sub>archived</sub><br><sub>&#91;ICLR 2020&#93; Lite Transformer with Long-Short Range Attention</sub></td>
+<td align="right"><b>609</b></td>
+<td align="right">83</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">97</td>
-<td><img src="https://github.com/Islam412.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Islam412/Add-student-name"><b>Islam412/Add-student-name</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">0</td>
-<td>HTML</td>
+<td><img src="https://github.com/baianat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/baianat/vuse"><b>baianat/vuse</b></a><br><sub>🚧 Build web pages with Vuse, the next-gen interactive page builder powered with Vue.js.</sub></td>
+<td align="right"><b>605</b></td>
+<td align="right">135</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">98</td>
-<td><img src="https://github.com/mustafa1991.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mustafa1991/native-php-app"><b>mustafa1991/native-php-app</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">0</td>
-<td>PHP</td>
+<td><img src="https://github.com/linkeddata.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/linkeddata/rdflib.js"><b>linkeddata/rdflib.js</b></a><br><sub>Linked Data API for JavaScript</sub></td>
+<td align="right"><b>599</b></td>
+<td align="right">147</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td align="right">99</td>
-<td><img src="https://github.com/Ramyromel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ramyromel/luxionex"><b>Ramyromel/luxionex</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">0</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/a7medev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/a7medev/react-native-ml-kit"><b>a7medev/react-native-ml-kit</b></a><br><sub>React Native On-Device Machine Learning w/ Google ML Kit</sub></td>
+<td align="right"><b>588</b></td>
+<td align="right">86</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">100</td>
-<td><img src="https://github.com/TiroYehia.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TiroYehia/woocommerce-headless"><b>TiroYehia/woocommerce-headless</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">0</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/mkassm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mkassm/References_Books"><b>mkassm/References&#95;Books</b></a><br><sub>My awseome reference books library</sub></td>
+<td align="right"><b>585</b></td>
+<td align="right">27</td>
+<td>HTML</td>
 </tr>
 </tbody>
 </table>
@@ -729,10 +727,9 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 3 stars; 143 attributed candidates are tracked.
-- 12 entries were carried over from the previous dataset and are pending revalidation.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 585 stars; 145 attributed candidates are tracked.
 - 120 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 153 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

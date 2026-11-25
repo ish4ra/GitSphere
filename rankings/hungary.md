@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **91** | 22 Nov 2026 | <a href="../data/HU.json">JSON</a> |
+| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/HU.json">JSON</a> |
 
 </div>
 
@@ -658,15 +658,78 @@
 <td align="right">123</td>
 <td>JavaScript</td>
 </tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/xenophobentx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xenophobentx/takedawn"><b>xenophobentx/takedawn</b></a><br><sub>Unofficial native PC/handheld port of Burnout 3: Takedown (static recompilation). Bring your own disc.</sub></td>
+<td align="right"><b>651</b></td>
+<td align="right">31</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/balintkissdev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/balintkissdev/awesome-dos"><b>balintkissdev/awesome-dos</b></a><br><sub>Curated list of references for development of DOS applications.</sub></td>
+<td align="right"><b>649</b></td>
+<td align="right">40</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/axodox.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/axodox/axodox-machinelearning"><b>axodox/axodox-machinelearning</b></a><br><sub>This repository contains a pure C++ ONNX implementation of multiple offline AI models, such as StableDiffusion (1.5 and…</sub></td>
+<td align="right"><b>632</b></td>
+<td align="right">41</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/istvan-ujjmeszaros.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/istvan-ujjmeszaros/bootstrap-duallistbox"><b>istvan-ujjmeszaros/bootstrap-duallistbox</b></a><br><sub>Bootstrap Dual Listbox</sub></td>
+<td align="right"><b>624</b></td>
+<td align="right">260</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/kripod.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kripod/otion"><b>kripod/otion</b></a><br><sub>Atomic CSS-in-JS with a featherweight runtime</sub></td>
+<td align="right"><b>622</b></td>
+<td align="right">21</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">97</td>
+<td><img src="https://github.com/VoidXH.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/VoidXH/Cavern"><b>VoidXH/Cavern</b></a><br><sub>Object-based audio engine and codec pack with Dolby Atmos rendering, room correction, HRTF, one-click Unity audio takeo…</sub></td>
+<td align="right"><b>618</b></td>
+<td align="right">47</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">98</td>
+<td><img src="https://github.com/scr34m.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/scr34m/php-malware-scanner"><b>scr34m/php-malware-scanner</b></a><br><sub>Scans PHP files for malwares and known threats</sub></td>
+<td align="right"><b>608</b></td>
+<td align="right">103</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/no1msd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/no1msd/mstch"><b>no1msd/mstch</b></a><br><sub>mstch is a complete implementation of {{mustache}} templates using modern C++</sub></td>
+<td align="right"><b>599</b></td>
+<td align="right">89</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">100</td>
+<td><img src="https://github.com/dr34mhacks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dr34mhacks/JwtAuditor"><b>dr34mhacks/JwtAuditor</b></a><br><sub>JWT Auditor – Analyze, break, and understand your tokens like a pro.</sub></td>
+<td align="right"><b>598</b></td>
+<td align="right">92</td>
+<td>HTML</td>
+</tr>
 </tbody>
 </table>
 
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 652 stars; 91 attributed candidates are tracked.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 598 stars; 101 attributed candidates are tracked.
 - 117 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 153 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

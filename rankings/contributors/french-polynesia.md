@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/PF.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/PF.json">JSON</a> |
 
 </div>
 
@@ -106,6 +106,15 @@
 </tr>
 <tr>
 <td align="right">10</td>
+<td><a href="https://github.com/guybedo"><img src="https://avatars.githubusercontent.com/u/5336692?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/guybedo"><b>guybedo</b></a><br><sub>&#64;guybedo · 8 followers</sub></td>
+<td align="right"><b>10</b></td>
+<td align="right">5</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">11</td>
 <td><a href="https://github.com/MartinBINARD"><img src="https://avatars.githubusercontent.com/u/78610464?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MartinBINARD"><b>Martin Binard</b></a><br><sub>&#64;MartinBINARD · 7 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">7</td>
@@ -120,7 +129,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 12 of 125 discovered developers (113 awaiting measurement).
+- **Measured:** 13 of 125 discovered developers (112 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 2 of 55 in round 1.

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **76** | 22 Nov 2026 | <a href="../data/EE.json">JSON</a> |
+| 🟡 Provisional | **86** | 22 Nov 2026 | <a href="../data/EE.json">JSON</a> |
 
 </div>
 
@@ -553,6 +553,76 @@
 <td align="right">181</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/ukupat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ukupat/trolol"><b>ukupat/trolol</b></a><br><sub>Troll your friends with simple commands AS QUICKLY AS POSSIBLE</sub></td>
+<td align="right"><b>652</b></td>
+<td align="right">13</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/daniilrobnikov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/daniilrobnikov/vits2"><b>daniilrobnikov/vits2</b></a><br><sub>VITS2: Improving Quality and Efficiency of Single-Stage Text-to-Speech with Adversarial Learning and Architecture Design</sub></td>
+<td align="right"><b>647</b></td>
+<td align="right">75</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/taivop.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/taivop/joke-dataset"><b>taivop/joke-dataset</b></a> <sub>archived</sub><br><sub>A dataset of 200k English plaintext jokes.</sub></td>
+<td align="right"><b>629</b></td>
+<td align="right">120</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/ali-zahedi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ali-zahedi/az-iranian-bank-gateways"><b>ali-zahedi/az-iranian-bank-gateways</b></a><br><sub>درگاه اتصال به بانک های ایرانی ( درگاه پرداخت بانک ملی ایران،بانک سامان، بانک ملت، درگاه پرداخت زرین پال و ... ) با است…</sub></td>
+<td align="right"><b>619</b></td>
+<td align="right">114</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/teeotsa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/teeotsa/windows-11-debloat"><b>teeotsa/windows-11-debloat</b></a><br><sub>Script to optimize your installation of Windows 11.</sub></td>
+<td align="right"><b>617</b></td>
+<td align="right">57</td>
+<td>PowerShell</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/taivop.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/taivop/awesome-data-annotation"><b>taivop/awesome-data-annotation</b></a> <sub>archived</sub><br><sub>A list of tools for annotating data, managing annotations, etc.</sub></td>
+<td align="right"><b>615</b></td>
+<td align="right">68</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><img src="https://github.com/perfectline.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/perfectline/validates_url"><b>perfectline/validates&#95;url</b></a><br><sub>URL Validation for Rails</sub></td>
+<td align="right"><b>600</b></td>
+<td align="right">111</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><img src="https://github.com/AvaloniaUI.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AvaloniaUI/Citrus.Avalonia"><b>AvaloniaUI/Citrus.Avalonia</b></a> <sub>archived</sub><br><sub>Modern styles for Avalonia controls.</sub></td>
+<td align="right"><b>596</b></td>
+<td align="right">39</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">85</td>
+<td><img src="https://github.com/openscoring.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/openscoring/openscoring"><b>openscoring/openscoring</b></a><br><sub>REST web service for the true real-time scoring (&lt;1 ms) of Scikit-Learn, R and Apache Spark models</sub></td>
+<td align="right"><b>587</b></td>
+<td align="right">173</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/postalsys.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/postalsys/imapflow"><b>postalsys/imapflow</b></a><br><sub>IMAP Client library for EmailEngine Email API (https://emailengine.app)</sub></td>
+<td align="right"><b>586</b></td>
+<td align="right">88</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -561,8 +631,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 656 stars; 76 attributed candidates are tracked.
-- 111 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 586 stars; 86 attributed candidates are tracked.
+- 109 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 142 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

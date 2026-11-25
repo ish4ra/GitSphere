@@ -34,8 +34,8 @@
   {"rank":25,"id":"U_kgDOBbUaeg","login":"northernwolf00","name":"Googa Dev","url":"https://github.com/northernwolf00","avatarUrl":"https://avatars.githubusercontent.com/u/95754874?s=80&v=4","followers":46,"publicRepos":105,"location":"Turkmenistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":26,"id":"MDQ6VXNlcjc4NzkwMTgz","login":"pmuhammedov","name":"Pena Muhammedov","url":"https://github.com/pmuhammedov","avatarUrl":"https://avatars.githubusercontent.com/u/78790183?s=80&v=4","followers":46,"publicRepos":41,"location":"Ashgabat, Turkmenistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":27,"id":"MDQ6VXNlcjcwODkzODYx","login":"krahmanov","name":"Kerim Rahmanov","url":"https://github.com/krahmanov","avatarUrl":"https://avatars.githubusercontent.com/u/70893861?s=80&v=4","followers":44,"publicRepos":1,"location":"Ashgabat, Turkmenistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
-  {"rank":28,"id":"U_kgDOCTX_Jw","login":"hudaynazarovbabageldi","name":"Babageldi","url":"https://github.com/hudaynazarovbabageldi","avatarUrl":"https://avatars.githubusercontent.com/u/154533671?s=80&v=4","followers":43,"publicRepos":94,"location":"Ashgabat , Turkmenistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
-  {"rank":29,"id":"U_kgDOBcgnBA","login":"orazgulcayew","name":"Oraz Gulchayev","url":"https://github.com/orazgulcayew","avatarUrl":"https://avatars.githubusercontent.com/u/97003268?s=80&v=4","followers":43,"publicRepos":48,"location":"Turkmenistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":28,"id":"U_kgDOBcgnBA","login":"orazgulcayew","name":"Oraz Gulchayev","url":"https://github.com/orazgulcayew","avatarUrl":"https://avatars.githubusercontent.com/u/97003268?s=80&v=4","followers":43,"publicRepos":48,"location":"Turkmenistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":29,"id":"U_kgDOCTX_Jw","login":"hudaynazarovbabageldi","name":"Babageldi","url":"https://github.com/hudaynazarovbabageldi","avatarUrl":"https://avatars.githubusercontent.com/u/154533671?s=80&v=4","followers":42,"publicRepos":94,"location":"Ashgabat , Turkmenistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-25"},
   {"rank":30,"id":"MDQ6VXNlcjgzMzMxODQ=","login":"eminarium","name":"Merdan Durdyyev","url":"https://github.com/eminarium","avatarUrl":"https://avatars.githubusercontent.com/u/8333184?s=80&v=4","followers":39,"publicRepos":60,"location":"Ashgabat, Turkmenistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":31,"id":"MDQ6VXNlcjI5NTkzNjAw","login":"diat01","name":"Atageldi Didarov","url":"https://github.com/diat01","avatarUrl":"https://avatars.githubusercontent.com/u/29593600?s=80&v=4","followers":39,"publicRepos":26,"location":"Ashgabat/Turkmenistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":32,"id":"MDQ6VXNlcjc5NzUzODM=","login":"eziz","name":"Eziz Soyunov","url":"https://github.com/eziz","avatarUrl":"https://avatars.githubusercontent.com/u/7975383?s=80&v=4","followers":38,"publicRepos":22,"location":"Turkmenistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
@@ -309,8 +309,8 @@
   {"rank":300,"id":"U_kgDODIMGEQ","login":"19Admin96","name":"Mekan","url":"https://github.com/19Admin96","avatarUrl":"https://avatars.githubusercontent.com/u/209913361?s=80&v=4","followers":1,"publicRepos":2,"location":"Mary, Turkmenistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":301,"id":"MDQ6VXNlcjQ5OTE2MTE2","login":"0rthhb","name":"joji","url":"https://github.com/0rthhb","avatarUrl":"https://avatars.githubusercontent.com/u/49916116?s=80&v=4","followers":0,"publicRepos":2,"location":"Turkmenistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "371ef2e1eda2ee65",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "e1ce725e8c85c360",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

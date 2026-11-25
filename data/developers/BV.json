@@ -5,7 +5,7 @@
 "country": {"code":"BV","name":"Bouvet Island","slug":"bouvet-island"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":17,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":20,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":18,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":20,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjI0MTExOA==","login":"KirarinSnow","name":"KirarinSnow","url":"https://github.com/KirarinSnow","avatarUrl":"https://avatars.githubusercontent.com/u/241118?s=80&v=4","followers":26,"publicRepos":2,"location":"Bouvet Island","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":"MDQ6VXNlcjY1MDIyNjYx","login":"PythonshellDebugwindow","name":null,"url":"https://github.com/PythonshellDebugwindow","avatarUrl":"https://avatars.githubusercontent.com/u/65022661?s=80&v=4","followers":13,"publicRepos":6,"location":"Bouvet Island","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
@@ -22,11 +22,12 @@
   {"rank":13,"id":"U_kgDOD1tLJQ","login":"atomicmaildev","name":null,"url":"https://github.com/atomicmaildev","avatarUrl":"https://avatars.githubusercontent.com/u/257641253?s=80&v=4","followers":0,"publicRepos":1,"location":"Bouvet Island","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":14,"id":"MDQ6VXNlcjg0NjMwNjcz","login":"st3v3ballm3r","name":"Stev3 Ballm3r","url":"https://github.com/st3v3ballm3r","avatarUrl":"https://avatars.githubusercontent.com/u/84630673?s=80&v=4","followers":0,"publicRepos":1,"location":"Bouvet Island","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":15,"id":"U_kgDOBwnIWQ","login":"armenw","name":"Armen W","url":"https://github.com/armenw","avatarUrl":"https://avatars.githubusercontent.com/u/118081625?s=80&v=4","followers":0,"publicRepos":0,"location":"Bouvet Island","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
-  {"rank":16,"id":"U_kgDOCxL1Jg","login":"msundseth","name":"Martin","url":"https://github.com/msundseth","avatarUrl":"https://avatars.githubusercontent.com/u/185791782?s=80&v=4","followers":0,"publicRepos":0,"location":"Bouvet Island","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":17,"id":"U_kgDOEFW1Ow","login":"trailofwounds","name":"Trail of Wounds 2.0","url":"https://github.com/trailofwounds","avatarUrl":"https://avatars.githubusercontent.com/u/274052411?s=80&v=4","followers":0,"publicRepos":0,"location":"Bouvet Island","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
+  {"rank":16,"id":"MDQ6VXNlcjI0NDk0Mjk5","login":"bohoejer","name":"sb66","url":"https://github.com/bohoejer","avatarUrl":"https://avatars.githubusercontent.com/u/24494299?s=80&v=4","followers":0,"publicRepos":0,"location":"Bouvetøya","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
+  {"rank":17,"id":"U_kgDOCxL1Jg","login":"msundseth","name":"Martin","url":"https://github.com/msundseth","avatarUrl":"https://avatars.githubusercontent.com/u/185791782?s=80&v=4","followers":0,"publicRepos":0,"location":"Bouvet Island","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
+  {"rank":18,"id":"U_kgDOEFW1Ow","login":"trailofwounds","name":"Trail of Wounds 2.0","url":"https://github.com/trailofwounds","avatarUrl":"https://avatars.githubusercontent.com/u/274052411?s=80&v=4","followers":0,"publicRepos":0,"location":"Bouvet Island","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "030f6abfbd2f6f12",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "f5e8d1aeca84f0b2",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

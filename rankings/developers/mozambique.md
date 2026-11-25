@@ -66,7 +66,7 @@
 <tr>
 <td align="right">7</td>
 <td><a href="https://github.com/eltonlaice"><img src="https://avatars.githubusercontent.com/u/8969075?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eltonlaice"><b>Elton</b></a><br><sub>&#64;eltonlaice</sub></td>
-<td align="right"><b>198</b></td>
+<td align="right"><b>199</b></td>
 <td align="right">5</td>
 <td><sub>Mozambique</sub></td>
 </tr>

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **12** | 22 Nov 2026 | <a href="../../data/contributors/BM.json">JSON</a> |
+| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/BM.json">JSON</a> |
 
 </div>
 
@@ -70,6 +70,15 @@
 </tr>
 <tr>
 <td align="right">6</td>
+<td><a href="https://github.com/DiamondGo"><img src="https://avatars.githubusercontent.com/u/8674856?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DiamondGo"><b>Master Coder</b></a><br><sub>&#64;DiamondGo · 3 followers</sub></td>
+<td align="right"><b>232</b></td>
+<td align="right">207</td>
+<td align="right">12</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/carlosf"><img src="https://avatars.githubusercontent.com/u/979478?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/carlosf"><b>Carlos Ferreira</b></a><br><sub>&#64;carlosf · 16 followers</sub></td>
 <td align="right"><b>111</b></td>
 <td align="right">8</td>
@@ -78,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/etothepii"><img src="https://avatars.githubusercontent.com/u/2609402?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/etothepii"><b>James Robinson</b></a><br><sub>&#64;etothepii · 4 followers</sub></td>
 <td align="right"><b>105</b></td>
 <td align="right">85</td>
@@ -87,7 +96,7 @@
 <td align="right">13</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/Tsuey"><img src="https://avatars.githubusercontent.com/u/71397129?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tsuey"><b>Steve</b></a><br><sub>&#64;Tsuey · 87 followers</sub></td>
 <td align="right"><b>83</b></td>
 <td align="right">10</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/404name"><img src="https://avatars.githubusercontent.com/u/56631419?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/404name"><b>404name</b></a><br><sub>&#64;404name · 194 followers</sub></td>
 <td align="right"><b>63</b></td>
 <td align="right">45</td>
@@ -105,7 +114,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/Dauriel"><img src="https://avatars.githubusercontent.com/u/16428925?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dauriel"><b>Dauriel</b></a><br><sub>&#64;Dauriel · 16 followers</sub></td>
 <td align="right"><b>29</b></td>
 <td align="right">23</td>
@@ -114,7 +123,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
+<td><a href="https://github.com/damionw"><img src="https://avatars.githubusercontent.com/u/2169748?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/damionw"><b>Damion Wilson</b></a><br><sub>&#64;damionw · 17 followers</sub></td>
+<td align="right"><b>12</b></td>
+<td align="right">8</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">13</td>
 <td><a href="https://github.com/uhasan1"><img src="https://avatars.githubusercontent.com/u/22601480?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/uhasan1"><b>Umar Hasan</b></a><br><sub>&#64;uhasan1 · 5 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">0</td>
@@ -123,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">14</td>
 <td><a href="https://github.com/2048li"><img src="https://avatars.githubusercontent.com/u/7392383?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/2048li"><b>shentanli</b></a><br><sub>&#64;2048li · 12 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
@@ -138,7 +156,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 15 of 273 discovered developers (258 awaiting measurement).
+- **Measured:** 17 of 273 discovered developers (256 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 3 of 21 in round 1.

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **40** | 22 Nov 2026 | <a href="../data/MY.json">JSON</a> |
+| 🟡 Provisional | **49** | 22 Nov 2026 | <a href="../data/MY.json">JSON</a> |
 
 </div>
 
@@ -301,6 +301,69 @@
 <td align="right">116</td>
 <td>MATLAB</td>
 </tr>
+<tr>
+<td align="right">41</td>
+<td><img src="https://github.com/EXALAB.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EXALAB/AnLinux-Adfree"><b>EXALAB/AnLinux-Adfree</b></a><br><sub>AnLinux, Ad free version.</sub></td>
+<td align="right"><b>629</b></td>
+<td align="right">60</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">42</td>
+<td><img src="https://github.com/NightFurySL2001.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NightFurySL2001/CJK-character-count"><b>NightFurySL2001/CJK-character-count</b></a><br><sub>Program that counts the amount of CJK characters based on Unicode ranges and Chinese encoding standards 字体汉字计数软件</sub></td>
+<td align="right"><b>620</b></td>
+<td align="right">23</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">43</td>
+<td><img src="https://github.com/bluwy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bluwy/create-vite-extra"><b>bluwy/create-vite-extra</b></a><br><sub>Extra Vite templates</sub></td>
+<td align="right"><b>604</b></td>
+<td align="right">103</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><img src="https://github.com/heiswayi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/heiswayi/thinkspace"><b>heiswayi/thinkspace</b></a><br><sub>Just another minimalist Jekyll theme which designed for technical writing blog.</sub></td>
+<td align="right"><b>593</b></td>
+<td align="right">341</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">45</td>
+<td><img src="https://github.com/shiburagi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shiburagi/Drawer-Behavior"><b>shiburagi/Drawer-Behavior</b></a><br><sub>Drawer behavior is a library that provide an extra behavior on drawer, such as, move view or scaling view&#39;s height whil…</sub></td>
+<td align="right"><b>589</b></td>
+<td align="right">103</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">46</td>
+<td><img src="https://github.com/Amjad50.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Amjad50/plastic"><b>Amjad50/plastic</b></a><br><sub>NES emulator in rust with egui and TUI</sub></td>
+<td align="right"><b>588</b></td>
+<td align="right">18</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">47</td>
+<td><img src="https://github.com/orchestral.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/orchestral/tenanti"><b>orchestral/tenanti</b></a><br><sub>&#91;Package&#93; Multi-tenant Database Schema Manager for Laravel</sub></td>
+<td align="right"><b>587</b></td>
+<td align="right">54</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><img src="https://github.com/AbedElazizShe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AbedElazizShe/LightCompressor"><b>AbedElazizShe/LightCompressor</b></a> <sub>archived</sub><br><sub>A powerful and easy-to-use video compression library for android uses MediaCodec API.</sub></td>
+<td align="right"><b>585</b></td>
+<td align="right">134</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><img src="https://github.com/bluwy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bluwy/whyframe"><b>bluwy/whyframe</b></a><br><sub>Develop components in isolation with just an iframe</sub></td>
+<td align="right"><b>579</b></td>
+<td align="right">12</td>
+<td>JavaScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -309,8 +372,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 658 stars; 40 attributed candidates are tracked.
-- 123 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 579 stars; 49 attributed candidates are tracked.
+- 119 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 155 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

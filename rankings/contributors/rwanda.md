@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/RW.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/RW.json">JSON</a> |
 
 </div>
 
@@ -88,6 +88,15 @@
 </tr>
 <tr>
 <td align="right">8</td>
+<td><a href="https://github.com/Joshua-Coded"><img src="https://avatars.githubusercontent.com/u/56293324?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Joshua-Coded"><b>CodeNinja</b></a><br><sub>&#64;Joshua-Coded · 133 followers</sub></td>
+<td align="right"><b>203</b></td>
+<td align="right">187</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">9</td>
 <td><a href="https://github.com/Timtech4u"><img src="https://avatars.githubusercontent.com/u/11256481?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Timtech4u"><b>Timothy Olaleke</b></a><br><sub>&#64;Timtech4u · 251 followers</sub></td>
 <td align="right"><b>167</b></td>
 <td align="right">138</td>
@@ -96,7 +105,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/ProgrammerDATCH"><img src="https://avatars.githubusercontent.com/u/128073754?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ProgrammerDATCH"><b>Mr. David</b></a><br><sub>&#64;ProgrammerDATCH · 891 followers</sub></td>
 <td align="right"><b>79</b></td>
 <td align="right">69</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/ABDUSALIMSUBAHIELBASHI"><img src="https://avatars.githubusercontent.com/u/217039418?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ABDUSALIMSUBAHIELBASHI"><b>Abdu Salim &#91; Mr push &#93;</b></a><br><sub>&#64;ABDUSALIMSUBAHIELBASHI · 255 followers</sub></td>
 <td align="right"><b>42</b></td>
 <td align="right">9</td>
@@ -120,7 +129,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 10 of 402 discovered developers (392 awaiting measurement).
+- **Measured:** 11 of 402 discovered developers (391 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 36 in round 1.

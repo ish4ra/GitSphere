@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **253** | 22 Nov 2026 | <a href="../../data/developers/BE.json">JSON</a> |
+| 🟡 Provisional | **290** | 22 Nov 2026 | <a href="../../data/developers/BE.json">JSON</a> |
 
 </div>
 
@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/folke"><img src="https://avatars.githubusercontent.com/u/292349?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/folke"><b>Folke Lemaitre</b></a><br><sub>&#64;folke</sub></td>
-<td align="right"><b>10,641</b></td>
+<td align="right"><b>10,640</b></td>
 <td align="right">134</td>
 <td><sub>Ghent, Belgium</sub></td>
 </tr>
@@ -38,7 +38,7 @@
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/driesvints"><img src="https://avatars.githubusercontent.com/u/594614?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/driesvints"><b>Dries Vints</b></a><br><sub>&#64;driesvints</sub></td>
-<td align="right"><b>5,488</b></td>
+<td align="right"><b>5,491</b></td>
 <td align="right">10</td>
 <td><sub>Belgium</sub></td>
 </tr>
@@ -108,7 +108,7 @@
 <tr>
 <td align="right">13</td>
 <td><a href="https://github.com/gillescastel"><img src="https://avatars.githubusercontent.com/u/7069691?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gillescastel"><b>Gilles Castel</b></a><br><sub>&#64;gillescastel</sub></td>
-<td align="right"><b>1,829</b></td>
+<td align="right"><b>1,830</b></td>
 <td align="right">23</td>
 <td><sub>Belgium</sub></td>
 </tr>
@@ -1262,531 +1262,790 @@
 </tr>
 <tr>
 <td align="right">178</td>
-<td><a href="https://github.com/gijsroge"><img src="https://avatars.githubusercontent.com/u/2242498?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gijsroge"><b>Gijs Rogé</b></a><br><sub>&#64;gijsroge</sub></td>
-<td align="right"><b>203</b></td>
-<td align="right">0</td>
-<td><sub>Belgium</sub></td>
+<td><a href="https://github.com/ThomasLecocq"><img src="https://avatars.githubusercontent.com/u/916937?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ThomasLecocq"><b>Thomas Lecocq</b></a><br><sub>&#64;ThomasLecocq</sub></td>
+<td align="right"><b>219</b></td>
+<td align="right">28</td>
+<td><sub>Brussels, Belgium</sub></td>
 </tr>
 <tr>
 <td align="right">179</td>
-<td><a href="https://github.com/brechtsanders"><img src="https://avatars.githubusercontent.com/u/17645177?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brechtsanders"><b>Brecht Sanders</b></a><br><sub>&#64;brechtsanders</sub></td>
-<td align="right"><b>201</b></td>
-<td align="right">0</td>
-<td><sub>Belgium</sub></td>
+<td><a href="https://github.com/jovanbulck"><img src="https://avatars.githubusercontent.com/u/2464627?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jovanbulck"><b>Jo Van Bulck</b></a><br><sub>&#64;jovanbulck</sub></td>
+<td align="right"><b>217</b></td>
+<td align="right">52</td>
+<td><sub>Leuven, Belgium</sub></td>
 </tr>
 <tr>
 <td align="right">180</td>
-<td><a href="https://github.com/IgnaceMaes"><img src="https://avatars.githubusercontent.com/u/10243652?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IgnaceMaes"><b>Ignace Maes</b></a><br><sub>&#64;IgnaceMaes</sub></td>
-<td align="right"><b>200</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/JF002"><img src="https://avatars.githubusercontent.com/u/2261652?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JF002"><b>JF</b></a><br><sub>&#64;JF002</sub></td>
+<td align="right"><b>217</b></td>
+<td align="right">42</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
 <td align="right">181</td>
-<td><a href="https://github.com/tcoopman"><img src="https://avatars.githubusercontent.com/u/45546?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tcoopman"><b>Thomas Coopman</b></a><br><sub>&#64;tcoopman</sub></td>
-<td align="right"><b>196</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/Mamboleoo"><img src="https://avatars.githubusercontent.com/u/6048794?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mamboleoo"><b>Louis Hoebregts</b></a><br><sub>&#64;Mamboleoo</sub></td>
+<td align="right"><b>217</b></td>
+<td align="right">33</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
 <td align="right">182</td>
+<td><a href="https://github.com/rojinakashefi"><img src="https://avatars.githubusercontent.com/u/69838358?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rojinakashefi"><b>Rojina Kashefi</b></a><br><sub>&#64;rojinakashefi</sub></td>
+<td align="right"><b>216</b></td>
+<td align="right">38</td>
+<td><sub>Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">183</td>
+<td><a href="https://github.com/stefanvd"><img src="https://avatars.githubusercontent.com/u/20127018?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stefanvd"><b>Stefan Van Damme</b></a><br><sub>&#64;stefanvd</sub></td>
+<td align="right"><b>216</b></td>
+<td align="right">9</td>
+<td><sub>Antwerpen, Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">184</td>
+<td><a href="https://github.com/dries-c"><img src="https://avatars.githubusercontent.com/u/15795262?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dries-c"><b>Dries C</b></a><br><sub>&#64;dries-c</sub></td>
+<td align="right"><b>213</b></td>
+<td align="right">4</td>
+<td><sub>Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">185</td>
+<td><a href="https://github.com/eschnou"><img src="https://avatars.githubusercontent.com/u/185660?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eschnou"><b>eschnou</b></a><br><sub>&#64;eschnou</sub></td>
+<td align="right"><b>212</b></td>
+<td align="right">49</td>
+<td><sub>Liège, Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">186</td>
+<td><a href="https://github.com/Jellevermandere"><img src="https://avatars.githubusercontent.com/u/45608714?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jellevermandere"><b>Jelle Vermandere</b></a><br><sub>&#64;Jellevermandere</sub></td>
+<td align="right"><b>211</b></td>
+<td align="right">26</td>
+<td><sub>Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">187</td>
+<td><a href="https://github.com/AntoineSoetewey"><img src="https://avatars.githubusercontent.com/u/17910063?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AntoineSoetewey"><b>Antoine Soetewey</b></a><br><sub>&#64;AntoineSoetewey</sub></td>
+<td align="right"><b>210</b></td>
+<td align="right">40</td>
+<td><sub>Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">188</td>
+<td><a href="https://github.com/wouterverweirder"><img src="https://avatars.githubusercontent.com/u/1126343?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wouterverweirder"><b>Wouter Verweirder</b></a><br><sub>&#64;wouterverweirder</sub></td>
+<td align="right"><b>209</b></td>
+<td align="right">62</td>
+<td><sub>Kortrijk, Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">189</td>
+<td><a href="https://github.com/brechtvl"><img src="https://avatars.githubusercontent.com/u/450909?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brechtvl"><b>Brecht Van Lommel</b></a><br><sub>&#64;brechtvl</sub></td>
+<td align="right"><b>208</b></td>
+<td align="right">14</td>
+<td><sub>Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">190</td>
+<td><a href="https://github.com/quentinhocde"><img src="https://avatars.githubusercontent.com/u/6057498?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/quentinhocde"><b>Quentin Hocdé</b></a><br><sub>&#64;quentinhocde</sub></td>
+<td align="right"><b>208</b></td>
+<td align="right">5</td>
+<td><sub>Brussels</sub></td>
+</tr>
+<tr>
+<td align="right">191</td>
+<td><a href="https://github.com/AlexisTM"><img src="https://avatars.githubusercontent.com/u/6976744?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlexisTM"><b>Alexis Paques</b></a><br><sub>&#64;AlexisTM</sub></td>
+<td align="right"><b>206</b></td>
+<td align="right">145</td>
+<td><sub>Brussels, Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">192</td>
+<td><a href="https://github.com/jwijffels"><img src="https://avatars.githubusercontent.com/u/1710810?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jwijffels"><b>jwijffels</b></a><br><sub>&#64;jwijffels</sub></td>
+<td align="right"><b>205</b></td>
+<td align="right">152</td>
+<td><sub>Brussels, Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">193</td>
+<td><a href="https://github.com/markakash"><img src="https://avatars.githubusercontent.com/u/16388744?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/markakash"><b>markakash</b></a><br><sub>&#64;markakash</sub></td>
+<td align="right"><b>205</b></td>
+<td align="right">97</td>
+<td><sub>Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">194</td>
+<td><a href="https://github.com/gijsroge"><img src="https://avatars.githubusercontent.com/u/2242498?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gijsroge"><b>Gijs Rogé</b></a><br><sub>&#64;gijsroge</sub></td>
+<td align="right"><b>203</b></td>
+<td align="right">78</td>
+<td><sub>Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">195</td>
+<td><a href="https://github.com/shadmaja"><img src="https://avatars.githubusercontent.com/u/133714857?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shadmaja"><b>Diego</b></a><br><sub>&#64;shadmaja</sub></td>
+<td align="right"><b>203</b></td>
+<td align="right">3</td>
+<td><sub>𝗲𝗻𝗴 / 𝘀𝗽𝗮 / 𝗿𝘂𝘀𝘀 𝘀𝗲𝗿𝘃𝗲𝗿</sub></td>
+</tr>
+<tr>
+<td align="right">196</td>
+<td><a href="https://github.com/brechtsanders"><img src="https://avatars.githubusercontent.com/u/17645177?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brechtsanders"><b>Brecht Sanders</b></a><br><sub>&#64;brechtsanders</sub></td>
+<td align="right"><b>202</b></td>
+<td align="right">34</td>
+<td><sub>Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">197</td>
+<td><a href="https://github.com/gbaeke"><img src="https://avatars.githubusercontent.com/u/8395842?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gbaeke"><b>Geert Baeke</b></a><br><sub>&#64;gbaeke</sub></td>
+<td align="right"><b>201</b></td>
+<td align="right">178</td>
+<td><sub>Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">198</td>
+<td><a href="https://github.com/Philmod"><img src="https://avatars.githubusercontent.com/u/818310?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Philmod"><b>Philippe Modard</b></a><br><sub>&#64;Philmod</sub></td>
+<td align="right"><b>201</b></td>
+<td align="right">104</td>
+<td><sub>Brussels, Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">199</td>
+<td><a href="https://github.com/yenwel"><img src="https://avatars.githubusercontent.com/u/4346500?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yenwel"><b>Jan Vandepitte</b></a><br><sub>&#64;yenwel</sub></td>
+<td align="right"><b>201</b></td>
+<td align="right">94</td>
+<td><sub>Evergem</sub></td>
+</tr>
+<tr>
+<td align="right">200</td>
+<td><a href="https://github.com/IgnaceMaes"><img src="https://avatars.githubusercontent.com/u/10243652?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IgnaceMaes"><b>Ignace Maes</b></a><br><sub>&#64;IgnaceMaes</sub></td>
+<td align="right"><b>200</b></td>
+<td align="right">106</td>
+<td><sub>Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">201</td>
+<td><a href="https://github.com/Sn0wfreezeDev"><img src="https://avatars.githubusercontent.com/u/3126229?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sn0wfreezeDev"><b>Alexander Matern</b></a><br><sub>&#64;Sn0wfreezeDev</sub></td>
+<td align="right"><b>200</b></td>
+<td align="right">40</td>
+<td><sub>Brussels, Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">202</td>
+<td><a href="https://github.com/Lauwed"><img src="https://avatars.githubusercontent.com/u/15716589?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lauwed"><b>Laura Durieux</b></a><br><sub>&#64;Lauwed</sub></td>
+<td align="right"><b>198</b></td>
+<td align="right">52</td>
+<td><sub>Brussels</sub></td>
+</tr>
+<tr>
+<td align="right">203</td>
+<td><a href="https://github.com/lailabougria"><img src="https://avatars.githubusercontent.com/u/64011637?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lailabougria"><b>Laila Bougria</b></a><br><sub>&#64;lailabougria</sub></td>
+<td align="right"><b>197</b></td>
+<td align="right">13</td>
+<td><sub>Antwerp, Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">204</td>
+<td><a href="https://github.com/tcoopman"><img src="https://avatars.githubusercontent.com/u/45546?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tcoopman"><b>Thomas Coopman</b></a><br><sub>&#64;tcoopman</sub></td>
+<td align="right"><b>196</b></td>
+<td align="right">179</td>
+<td><sub>Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">205</td>
+<td><a href="https://github.com/rmarx"><img src="https://avatars.githubusercontent.com/u/2240689?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rmarx"><b>Robin Marx</b></a><br><sub>&#64;rmarx</sub></td>
+<td align="right"><b>196</b></td>
+<td align="right">48</td>
+<td><sub>Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">206</td>
+<td><a href="https://github.com/wouterds"><img src="https://avatars.githubusercontent.com/u/1210628?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wouterds"><b>Wouter</b></a><br><sub>&#64;wouterds</sub></td>
+<td align="right"><b>195</b></td>
+<td align="right">147</td>
+<td><sub>Ghent, Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">207</td>
+<td><a href="https://github.com/H-Ahmadi"><img src="https://avatars.githubusercontent.com/u/7358850?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/H-Ahmadi"><b>Hadi Ahmadi</b></a><br><sub>&#64;H-Ahmadi</sub></td>
+<td align="right"><b>195</b></td>
+<td align="right">8</td>
+<td><sub>Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">208</td>
 <td><a href="https://github.com/RedByte1337"><img src="https://avatars.githubusercontent.com/u/8005550?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RedByte1337"><b>RedByte</b></a><br><sub>&#64;RedByte1337</sub></td>
 <td align="right"><b>192</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">183</td>
+<td align="right">209</td>
 <td><a href="https://github.com/m4tt72"><img src="https://avatars.githubusercontent.com/u/20604769?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/m4tt72"><b>Yassine Fathi</b></a><br><sub>&#64;m4tt72</sub></td>
 <td align="right"><b>181</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">184</td>
+<td align="right">210</td>
 <td><a href="https://github.com/davideas"><img src="https://avatars.githubusercontent.com/u/12213847?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davideas"><b>Davide Steduto</b></a><br><sub>&#64;davideas</sub></td>
 <td align="right"><b>179</b></td>
 <td align="right">0</td>
 <td><sub>Brussels</sub></td>
 </tr>
 <tr>
-<td align="right">185</td>
+<td align="right">211</td>
 <td><a href="https://github.com/belgattitude"><img src="https://avatars.githubusercontent.com/u/259798?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/belgattitude"><b>Sébastien Vanvelthem</b></a><br><sub>&#64;belgattitude</sub></td>
 <td align="right"><b>177</b></td>
 <td align="right">0</td>
 <td><sub>Brussels, Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">186</td>
+<td align="right">212</td>
 <td><a href="https://github.com/icidasset"><img src="https://avatars.githubusercontent.com/u/296665?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/icidasset"><b>Steven Vandevelde</b></a><br><sub>&#64;icidasset</sub></td>
 <td align="right"><b>176</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">187</td>
+<td align="right">213</td>
 <td><a href="https://github.com/daandemeyer"><img src="https://avatars.githubusercontent.com/u/9395011?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/daandemeyer"><b>Daan De Meyer</b></a><br><sub>&#64;daandemeyer</sub></td>
 <td align="right"><b>171</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">188</td>
+<td align="right">214</td>
 <td><a href="https://github.com/ColinDuquesnoy"><img src="https://avatars.githubusercontent.com/u/1681217?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ColinDuquesnoy"><b>Colin Duquesnoy</b></a><br><sub>&#64;ColinDuquesnoy</sub></td>
 <td align="right"><b>170</b></td>
 <td align="right">0</td>
 <td><sub>Liège, Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">189</td>
+<td align="right">215</td>
+<td><a href="https://github.com/BartVandewoestyne"><img src="https://avatars.githubusercontent.com/u/991254?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BartVandewoestyne"><b>Bart Vandewoestyne</b></a><br><sub>&#64;BartVandewoestyne</sub></td>
+<td align="right"><b>169</b></td>
+<td align="right">0</td>
+<td><sub>Kortrijk, Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">216</td>
 <td><a href="https://github.com/JoniVR"><img src="https://avatars.githubusercontent.com/u/7591717?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JoniVR"><b>Joni Van Roost</b></a><br><sub>&#64;JoniVR</sub></td>
 <td align="right"><b>162</b></td>
 <td align="right">0</td>
 <td><sub>Antwerp, Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">190</td>
+<td align="right">217</td>
 <td><a href="https://github.com/MichielDerhaeg"><img src="https://avatars.githubusercontent.com/u/6206753?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MichielDerhaeg"><b>Michiel Derhaeg</b></a><br><sub>&#64;MichielDerhaeg</sub></td>
 <td align="right"><b>161</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">191</td>
+<td align="right">218</td>
 <td><a href="https://github.com/Ivo-Balbaert"><img src="https://avatars.githubusercontent.com/u/963452?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ivo-Balbaert"><b>ibalbaert</b></a><br><sub>&#64;Ivo-Balbaert</sub></td>
 <td align="right"><b>154</b></td>
 <td align="right">0</td>
 <td><sub>Belgium - Antwerp</sub></td>
 </tr>
 <tr>
-<td align="right">192</td>
+<td align="right">219</td>
 <td><a href="https://github.com/erickok"><img src="https://avatars.githubusercontent.com/u/196453?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/erickok"><b>Eric Kok</b></a><br><sub>&#64;erickok</sub></td>
 <td align="right"><b>153</b></td>
 <td align="right">0</td>
 <td><sub>Leuven, Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">193</td>
+<td align="right">220</td>
+<td><a href="https://github.com/BenLauwens"><img src="https://avatars.githubusercontent.com/u/3951276?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BenLauwens"><b>Ben Lauwens</b></a><br><sub>&#64;BenLauwens</sub></td>
+<td align="right"><b>152</b></td>
+<td align="right">0</td>
+<td><sub>Brussels</sub></td>
+</tr>
+<tr>
+<td align="right">221</td>
 <td><a href="https://github.com/gammasoft71"><img src="https://avatars.githubusercontent.com/u/42293979?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gammasoft71"><b>Gammasoft</b></a><br><sub>&#64;gammasoft71</sub></td>
 <td align="right"><b>141</b></td>
 <td align="right">0</td>
 <td><sub>Liège, Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">194</td>
+<td align="right">222</td>
 <td><a href="https://github.com/nathanvda"><img src="https://avatars.githubusercontent.com/u/34460?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nathanvda"><b>Nathan Van der Auwera</b></a><br><sub>&#64;nathanvda</sub></td>
 <td align="right"><b>134</b></td>
 <td align="right">0</td>
 <td><sub>Antwerpen, Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">195</td>
+<td align="right">223</td>
 <td><a href="https://github.com/jeertmans"><img src="https://avatars.githubusercontent.com/u/27275099?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jeertmans"><b>Jérome Eertmans</b></a><br><sub>&#64;jeertmans</sub></td>
 <td align="right"><b>122</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">196</td>
+<td align="right">224</td>
 <td><a href="https://github.com/Martichou"><img src="https://avatars.githubusercontent.com/u/23138751?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Martichou"><b>Martin André</b></a><br><sub>&#64;Martichou</sub></td>
 <td align="right"><b>122</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">197</td>
+<td align="right">225</td>
 <td><a href="https://github.com/JosPolfliet"><img src="https://avatars.githubusercontent.com/u/12380065?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JosPolfliet"><b>Jos Polfliet</b></a><br><sub>&#64;JosPolfliet</sub></td>
 <td align="right"><b>121</b></td>
 <td align="right">0</td>
 <td><sub>Antwerp, Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">198</td>
+<td align="right">226</td>
 <td><a href="https://github.com/yakudoo"><img src="https://avatars.githubusercontent.com/u/823791?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yakudoo"><b>Karim Maaloul</b></a><br><sub>&#64;yakudoo</sub></td>
 <td align="right"><b>120</b></td>
 <td align="right">0</td>
 <td><sub>Liège, Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">199</td>
+<td align="right">227</td>
 <td><a href="https://github.com/Athou"><img src="https://avatars.githubusercontent.com/u/1256795?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Athou"><b>Jérémie Panzer</b></a><br><sub>&#64;Athou</sub></td>
 <td align="right"><b>119</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">200</td>
+<td align="right">228</td>
+<td><a href="https://github.com/entropitor"><img src="https://avatars.githubusercontent.com/u/896093?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/entropitor"><b>Jens Claes</b></a><br><sub>&#64;entropitor</sub></td>
+<td align="right"><b>117</b></td>
+<td align="right">0</td>
+<td><sub>Leuven</sub></td>
+</tr>
+<tr>
+<td align="right">229</td>
 <td><a href="https://github.com/aapatre"><img src="https://avatars.githubusercontent.com/u/20199688?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aapatre"><b>Antariksh Patre</b></a><br><sub>&#64;aapatre</sub></td>
 <td align="right"><b>116</b></td>
 <td align="right">0</td>
 <td><sub>Brussels</sub></td>
 </tr>
 <tr>
-<td align="right">201</td>
+<td align="right">230</td>
 <td><a href="https://github.com/intika"><img src="https://avatars.githubusercontent.com/u/6892180?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/intika"><b>intika</b></a><br><sub>&#64;intika</sub></td>
 <td align="right"><b>116</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">202</td>
+<td align="right">231</td>
 <td><a href="https://github.com/gotcha"><img src="https://avatars.githubusercontent.com/u/105204?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gotcha"><b>Godefroid Chapelle</b></a><br><sub>&#64;gotcha</sub></td>
 <td align="right"><b>114</b></td>
 <td align="right">0</td>
 <td><sub>Louvain-la-Neuve Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">203</td>
+<td align="right">232</td>
 <td><a href="https://github.com/wannesm"><img src="https://avatars.githubusercontent.com/u/42076?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wannesm"><b>wannesm</b></a><br><sub>&#64;wannesm</sub></td>
 <td align="right"><b>111</b></td>
 <td align="right">0</td>
 <td><sub>Leuven, Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">204</td>
+<td align="right">233</td>
 <td><a href="https://github.com/egeerardyn"><img src="https://avatars.githubusercontent.com/u/177360?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/egeerardyn"><b>Egon Geerardyn</b></a><br><sub>&#64;egeerardyn</sub></td>
 <td align="right"><b>105</b></td>
 <td align="right">0</td>
 <td><sub>Brussels, Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">205</td>
+<td align="right">234</td>
 <td><a href="https://github.com/jarnedemeulemeester"><img src="https://avatars.githubusercontent.com/u/32322857?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jarnedemeulemeester"><b>Jarne Demeulemeester</b></a><br><sub>&#64;jarnedemeulemeester</sub></td>
 <td align="right"><b>104</b></td>
 <td align="right">0</td>
 <td><sub>Harelbeke, Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">206</td>
+<td align="right">235</td>
 <td><a href="https://github.com/renatolond"><img src="https://avatars.githubusercontent.com/u/173791?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/renatolond"><b>Renato &quot;Lond&quot; Cerqueira</b></a><br><sub>&#64;renatolond</sub></td>
 <td align="right"><b>101</b></td>
 <td align="right">0</td>
 <td><sub>Brussels, Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">207</td>
+<td align="right">236</td>
 <td><a href="https://github.com/jsiebens"><img src="https://avatars.githubusercontent.com/u/499769?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jsiebens"><b>Johan Siebens</b></a><br><sub>&#64;jsiebens</sub></td>
 <td align="right"><b>99</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">208</td>
+<td align="right">237</td>
 <td><a href="https://github.com/scambier"><img src="https://avatars.githubusercontent.com/u/3216752?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/scambier"><b>Simon Cambier</b></a><br><sub>&#64;scambier</sub></td>
 <td align="right"><b>97</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">209</td>
+<td align="right">238</td>
 <td><a href="https://github.com/JanVanRyswyck"><img src="https://avatars.githubusercontent.com/u/463786?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JanVanRyswyck"><b>Jan Van Ryswyck</b></a><br><sub>&#64;JanVanRyswyck</sub></td>
 <td align="right"><b>94</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">210</td>
+<td align="right">239</td>
 <td><a href="https://github.com/pouriyajamshidi"><img src="https://avatars.githubusercontent.com/u/54482226?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pouriyajamshidi"><b>Pouriya Jamshidi</b></a><br><sub>&#64;pouriyajamshidi</sub></td>
 <td align="right"><b>92</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">211</td>
+<td align="right">240</td>
 <td><a href="https://github.com/Smile4ever"><img src="https://avatars.githubusercontent.com/u/544411?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Smile4ever"><b>Geoffrey De Belie</b></a><br><sub>&#64;Smile4ever</sub></td>
 <td align="right"><b>92</b></td>
 <td align="right">0</td>
 <td><sub>Melsele, Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">212</td>
+<td align="right">241</td>
 <td><a href="https://github.com/skyfloogle"><img src="https://avatars.githubusercontent.com/u/18466542?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/skyfloogle"><b>Floogle</b></a><br><sub>&#64;skyfloogle</sub></td>
 <td align="right"><b>90</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">213</td>
+<td align="right">242</td>
 <td><a href="https://github.com/wlcrs"><img src="https://avatars.githubusercontent.com/u/2150060?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wlcrs"><b>Thijs W.</b></a><br><sub>&#64;wlcrs</sub></td>
 <td align="right"><b>86</b></td>
 <td align="right">0</td>
 <td><sub>Ghent, Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">214</td>
+<td align="right">243</td>
 <td><a href="https://github.com/FremyCompany"><img src="https://avatars.githubusercontent.com/u/364405?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FremyCompany"><b>François REMY</b></a><br><sub>&#64;FremyCompany</sub></td>
 <td align="right"><b>84</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">215</td>
+<td align="right">244</td>
 <td><a href="https://github.com/MatthiasValvekens"><img src="https://avatars.githubusercontent.com/u/6440095?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MatthiasValvekens"><b>Matthias Valvekens</b></a><br><sub>&#64;MatthiasValvekens</sub></td>
 <td align="right"><b>84</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">216</td>
+<td align="right">245</td>
 <td><a href="https://github.com/iongion"><img src="https://avatars.githubusercontent.com/u/867609?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iongion"><b>Ionut Stoica</b></a><br><sub>&#64;iongion</sub></td>
 <td align="right"><b>79</b></td>
 <td align="right">0</td>
 <td><sub>Louvain-la-Neuve</sub></td>
 </tr>
 <tr>
-<td align="right">217</td>
+<td align="right">246</td>
 <td><a href="https://github.com/MatthiasBenaets"><img src="https://avatars.githubusercontent.com/u/89214559?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MatthiasBenaets"><b>Matthias Benaets</b></a><br><sub>&#64;MatthiasBenaets</sub></td>
 <td align="right"><b>79</b></td>
 <td align="right">0</td>
 <td><sub>Hasselt, Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">218</td>
+<td align="right">247</td>
 <td><a href="https://github.com/Tim-Maes"><img src="https://avatars.githubusercontent.com/u/91606949?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tim-Maes"><b>Tim Maes</b></a><br><sub>&#64;Tim-Maes</sub></td>
 <td align="right"><b>78</b></td>
 <td align="right">0</td>
 <td><sub>Harelbeke, Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">219</td>
+<td align="right">248</td>
 <td><a href="https://github.com/matvp91"><img src="https://avatars.githubusercontent.com/u/12699796?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/matvp91"><b>Matthias Van Parijs</b></a><br><sub>&#64;matvp91</sub></td>
 <td align="right"><b>77</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">220</td>
+<td align="right">249</td>
 <td><a href="https://github.com/xvrh"><img src="https://avatars.githubusercontent.com/u/5110923?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xvrh"><b>Xavier H.</b></a><br><sub>&#64;xvrh</sub></td>
 <td align="right"><b>77</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">221</td>
+<td align="right">250</td>
+<td><a href="https://github.com/joske"><img src="https://avatars.githubusercontent.com/u/532423?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joske"><b>Jos Dehaes</b></a><br><sub>&#64;joske</sub></td>
+<td align="right"><b>75</b></td>
+<td align="right">0</td>
+<td><sub>Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">251</td>
 <td><a href="https://github.com/devrnt"><img src="https://avatars.githubusercontent.com/u/32844711?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/devrnt"><b>Jonas De Vrient</b></a><br><sub>&#64;devrnt</sub></td>
 <td align="right"><b>71</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">222</td>
+<td align="right">252</td>
 <td><a href="https://github.com/kikipoulet"><img src="https://avatars.githubusercontent.com/u/19242427?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kikipoulet"><b>Clément Sepulchre</b></a><br><sub>&#64;kikipoulet</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">223</td>
+<td align="right">253</td>
+<td><a href="https://github.com/hydro13"><img src="https://avatars.githubusercontent.com/u/6640526?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hydro13"><b>Robin Waslander</b></a><br><sub>&#64;hydro13</sub></td>
+<td align="right"><b>67</b></td>
+<td align="right">0</td>
+<td><sub>Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">254</td>
 <td><a href="https://github.com/KasperZutterman"><img src="https://avatars.githubusercontent.com/u/21260838?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KasperZutterman"><b>Kasper Zutterman</b></a><br><sub>&#64;KasperZutterman</sub></td>
 <td align="right"><b>67</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">224</td>
+<td align="right">255</td>
 <td><a href="https://github.com/rien"><img src="https://avatars.githubusercontent.com/u/3226995?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rien"><b>Rien</b></a><br><sub>&#64;rien</sub></td>
 <td align="right"><b>66</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">225</td>
+<td align="right">256</td>
+<td><a href="https://github.com/DenBeke"><img src="https://avatars.githubusercontent.com/u/3856745?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DenBeke"><b>DenBeke</b></a><br><sub>&#64;DenBeke</sub></td>
+<td align="right"><b>65</b></td>
+<td align="right">0</td>
+<td><sub>Antwerp, Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">257</td>
 <td><a href="https://github.com/frontendfront"><img src="https://avatars.githubusercontent.com/u/11500178?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/frontendfront"><b>Front-end Front</b></a><br><sub>&#64;frontendfront</sub></td>
 <td align="right"><b>64</b></td>
 <td align="right">0</td>
 <td><sub>Antwerp, Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">226</td>
+<td align="right">258</td>
+<td><a href="https://github.com/j0r1"><img src="https://avatars.githubusercontent.com/u/12869673?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/j0r1"><b>Jori Liesenborgs</b></a><br><sub>&#64;j0r1</sub></td>
+<td align="right"><b>63</b></td>
+<td align="right">0</td>
+<td><sub>Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">259</td>
 <td><a href="https://github.com/pure"><img src="https://avatars.githubusercontent.com/u/21870?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pure"><b>Mic when working on PURE</b></a><br><sub>&#64;pure</sub></td>
 <td align="right"><b>63</b></td>
 <td align="right">0</td>
 <td><sub>Brussels - Belgium - Europe</sub></td>
 </tr>
 <tr>
-<td align="right">227</td>
+<td align="right">260</td>
 <td><a href="https://github.com/ppareit"><img src="https://avatars.githubusercontent.com/u/694581?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ppareit"><b>Pieter Pareit</b></a><br><sub>&#64;ppareit</sub></td>
 <td align="right"><b>61</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">228</td>
+<td align="right">261</td>
 <td><a href="https://github.com/opieters"><img src="https://avatars.githubusercontent.com/u/8012364?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/opieters"><b>Olivier Pieters</b></a><br><sub>&#64;opieters</sub></td>
 <td align="right"><b>59</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">229</td>
+<td align="right">262</td>
 <td><a href="https://github.com/texus"><img src="https://avatars.githubusercontent.com/u/1461034?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/texus"><b>Bruno Van de Velde</b></a><br><sub>&#64;texus</sub></td>
 <td align="right"><b>59</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">230</td>
+<td align="right">263</td>
 <td><a href="https://github.com/zjeffer"><img src="https://avatars.githubusercontent.com/u/4633209?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zjeffer"><b>Tuur Vanhoutte</b></a><br><sub>&#64;zjeffer</sub></td>
 <td align="right"><b>59</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">231</td>
+<td align="right">264</td>
 <td><a href="https://github.com/ucatal"><img src="https://avatars.githubusercontent.com/u/10008484?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ucatal"><b>ucatal</b></a><br><sub>&#64;ucatal</sub></td>
 <td align="right"><b>58</b></td>
 <td align="right">0</td>
 <td><sub>Brussel</sub></td>
 </tr>
 <tr>
-<td align="right">232</td>
+<td align="right">265</td>
+<td><a href="https://github.com/sneljo1"><img src="https://avatars.githubusercontent.com/u/4314204?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sneljo1"><b>Jonas Snellinckx</b></a><br><sub>&#64;sneljo1</sub></td>
+<td align="right"><b>57</b></td>
+<td align="right">0</td>
+<td><sub>Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">266</td>
 <td><a href="https://github.com/thygate"><img src="https://avatars.githubusercontent.com/u/96586282?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thygate"><b>Bob Thiry</b></a><br><sub>&#64;thygate</sub></td>
 <td align="right"><b>51</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">233</td>
+<td align="right">267</td>
 <td><a href="https://github.com/2shady4u"><img src="https://avatars.githubusercontent.com/u/42484461?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/2shady4u"><b>Piet Bronders</b></a><br><sub>&#64;2shady4u</sub></td>
 <td align="right"><b>50</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">234</td>
+<td align="right">268</td>
 <td><a href="https://github.com/francoismassart"><img src="https://avatars.githubusercontent.com/u/704026?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/francoismassart"><b>Francois Massart</b></a><br><sub>&#64;francoismassart</sub></td>
 <td align="right"><b>49</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">235</td>
+<td align="right">269</td>
 <td><a href="https://github.com/AlexanderVanhee"><img src="https://avatars.githubusercontent.com/u/160625516?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlexanderVanhee"><b>Alexander Vanhee</b></a><br><sub>&#64;AlexanderVanhee</sub></td>
 <td align="right"><b>45</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">236</td>
+<td align="right">270</td>
 <td><a href="https://github.com/benoitsan"><img src="https://avatars.githubusercontent.com/u/528847?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/benoitsan"><b>Benoît Bourdon</b></a><br><sub>&#64;benoitsan</sub></td>
 <td align="right"><b>44</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">237</td>
+<td align="right">271</td>
 <td><a href="https://github.com/jovandeginste"><img src="https://avatars.githubusercontent.com/u/3170771?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jovandeginste"><b>Jo Vandeginste</b></a><br><sub>&#64;jovandeginste</sub></td>
 <td align="right"><b>44</b></td>
 <td align="right">0</td>
 <td><sub>Rotselaar, Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">238</td>
+<td align="right">272</td>
 <td><a href="https://github.com/lucafaggianelli"><img src="https://avatars.githubusercontent.com/u/4471043?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lucafaggianelli"><b>Luca Faggianelli</b></a><br><sub>&#64;lucafaggianelli</sub></td>
 <td align="right"><b>38</b></td>
 <td align="right">0</td>
 <td><sub>Bruxelles, Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">239</td>
+<td align="right">273</td>
 <td><a href="https://github.com/trevismd"><img src="https://avatars.githubusercontent.com/u/477844?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/trevismd"><b>Florian Charlier</b></a><br><sub>&#64;trevismd</sub></td>
 <td align="right"><b>34</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">240</td>
+<td align="right">274</td>
+<td><a href="https://github.com/dirkvdb"><img src="https://avatars.githubusercontent.com/u/1011958?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dirkvdb"><b>Dirk Vanden Boer</b></a><br><sub>&#64;dirkvdb</sub></td>
+<td align="right"><b>33</b></td>
+<td align="right">0</td>
+<td><sub>Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">275</td>
 <td><a href="https://github.com/jcoppieters"><img src="https://avatars.githubusercontent.com/u/4351748?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jcoppieters"><b>Johan Coppieters</b></a><br><sub>&#64;jcoppieters</sub></td>
 <td align="right"><b>33</b></td>
 <td align="right">0</td>
 <td><sub>Bruges, Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">241</td>
+<td align="right">276</td>
 <td><a href="https://github.com/Mawi137"><img src="https://avatars.githubusercontent.com/u/5464100?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mawi137"><b>Martijn</b></a><br><sub>&#64;Mawi137</sub></td>
 <td align="right"><b>32</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">242</td>
+<td align="right">277</td>
 <td><a href="https://github.com/mxhm11cr"><img src="https://avatars.githubusercontent.com/u/100222176?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mxhm11cr"><b>Leminos</b></a><br><sub>&#64;mxhm11cr</sub></td>
 <td align="right"><b>32</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">243</td>
+<td align="right">278</td>
+<td><a href="https://github.com/SchoofsKelvin"><img src="https://avatars.githubusercontent.com/u/14597409?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SchoofsKelvin"><b>Kelvin Schoofs</b></a><br><sub>&#64;SchoofsKelvin</sub></td>
+<td align="right"><b>32</b></td>
+<td align="right">0</td>
+<td><sub>Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">279</td>
 <td><a href="https://github.com/Demindiro"><img src="https://avatars.githubusercontent.com/u/17316999?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Demindiro"><b>David Hoppenbrouwers</b></a><br><sub>&#64;Demindiro</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">0</td>
 <td><sub>Belgium, Antwerp</sub></td>
 </tr>
 <tr>
-<td align="right">244</td>
+<td align="right">280</td>
 <td><a href="https://github.com/seppevs"><img src="https://avatars.githubusercontent.com/u/1028226?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/seppevs"><b>Seb Van Sande</b></a><br><sub>&#64;seppevs</sub></td>
 <td align="right"><b>29</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">245</td>
+<td align="right">281</td>
 <td><a href="https://github.com/mdeloof"><img src="https://avatars.githubusercontent.com/u/20443795?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mdeloof"><b>Maxim Deloof</b></a><br><sub>&#64;mdeloof</sub></td>
 <td align="right"><b>28</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">246</td>
+<td align="right">282</td>
 <td><a href="https://github.com/ctimmerm"><img src="https://avatars.githubusercontent.com/u/40010?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ctimmerm"><b>Colin Timmermans</b></a><br><sub>&#64;ctimmerm</sub></td>
 <td align="right"><b>27</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">247</td>
+<td align="right">283</td>
 <td><a href="https://github.com/hugues-m"><img src="https://avatars.githubusercontent.com/u/5310915?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hugues-m"><b>Hugues Maignol</b></a><br><sub>&#64;hugues-m</sub></td>
 <td align="right"><b>27</b></td>
 <td align="right">0</td>
 <td><sub>Brussels</sub></td>
 </tr>
 <tr>
-<td align="right">248</td>
+<td align="right">284</td>
+<td><a href="https://github.com/dheijl"><img src="https://avatars.githubusercontent.com/u/2384545?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dheijl"><b>dheijl</b></a><br><sub>&#64;dheijl</sub></td>
+<td align="right"><b>25</b></td>
+<td align="right">0</td>
+<td><sub>De Pinte, Belgium</sub></td>
+</tr>
+<tr>
+<td align="right">285</td>
 <td><a href="https://github.com/flonle"><img src="https://avatars.githubusercontent.com/u/85995217?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/flonle"><b>Florian Laporte</b></a><br><sub>&#64;flonle</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">249</td>
+<td align="right">286</td>
 <td><a href="https://github.com/nadrad"><img src="https://avatars.githubusercontent.com/u/10810306?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nadrad"><b>Nader K. Rad</b></a><br><sub>&#64;nadrad</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">250</td>
+<td align="right">287</td>
 <td><a href="https://github.com/5aboteur"><img src="https://avatars.githubusercontent.com/u/9841458?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/5aboteur"><b>N&#39;amor ⛧</b></a><br><sub>&#64;5aboteur</sub></td>
 <td align="right"><b>19</b></td>
 <td align="right">18</td>
 <td><sub>Bruxelles</sub></td>
 </tr>
 <tr>
-<td align="right">251</td>
+<td align="right">288</td>
 <td><a href="https://github.com/gerritdevriese"><img src="https://avatars.githubusercontent.com/u/1899386?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gerritdevriese"><b>Gerrit De Vriese</b></a><br><sub>&#64;gerritdevriese</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">252</td>
+<td align="right">289</td>
 <td><a href="https://github.com/data-goblin"><img src="https://avatars.githubusercontent.com/u/97248341?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/data-goblin"><b>Kurt</b></a><br><sub>&#64;data-goblin</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Belgium</sub></td>
 </tr>
 <tr>
-<td align="right">253</td>
+<td align="right">290</td>
 <td><a href="https://github.com/vincentcox"><img src="https://avatars.githubusercontent.com/u/9286611?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vincentcox"><b>Vincent Cox</b></a><br><sub>&#64;vincentcox</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -1800,7 +2059,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 253 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 290 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 151 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -94,7 +94,7 @@
 <tr>
 <td align="right">11</td>
 <td><a href="https://github.com/SarahAbuirmeileh"><img src="https://avatars.githubusercontent.com/u/127017088?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SarahAbuirmeileh"><b>Sarah Abu Irmeileh</b></a><br><sub>&#64;SarahAbuirmeileh</sub></td>
-<td align="right"><b>205</b></td>
+<td align="right"><b>206</b></td>
 <td align="right">29</td>
 <td><sub>Palestine</sub></td>
 </tr>

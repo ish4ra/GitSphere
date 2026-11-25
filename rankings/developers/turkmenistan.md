@@ -212,17 +212,17 @@
 </tr>
 <tr>
 <td align="right">28</td>
-<td><a href="https://github.com/hudaynazarovbabageldi"><img src="https://avatars.githubusercontent.com/u/154533671?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hudaynazarovbabageldi"><b>Babageldi</b></a><br><sub>&#64;hudaynazarovbabageldi</sub></td>
-<td align="right"><b>43</b></td>
-<td align="right">94</td>
-<td><sub>Ashgabat , Turkmenistan</sub></td>
-</tr>
-<tr>
-<td align="right">29</td>
 <td><a href="https://github.com/orazgulcayew"><img src="https://avatars.githubusercontent.com/u/97003268?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/orazgulcayew"><b>Oraz Gulchayev</b></a><br><sub>&#64;orazgulcayew</sub></td>
 <td align="right"><b>43</b></td>
 <td align="right">48</td>
 <td><sub>Turkmenistan</sub></td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td><a href="https://github.com/hudaynazarovbabageldi"><img src="https://avatars.githubusercontent.com/u/154533671?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hudaynazarovbabageldi"><b>Babageldi</b></a><br><sub>&#64;hudaynazarovbabageldi</sub></td>
+<td align="right"><b>42</b></td>
+<td align="right">94</td>
+<td><sub>Ashgabat , Turkmenistan</sub></td>
 </tr>
 <tr>
 <td align="right">30</td>

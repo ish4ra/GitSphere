@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/KZ.json">JSON</a> |
+| 🟡 Provisional | **12** | 22 Nov 2026 | <a href="../../data/contributors/KZ.json">JSON</a> |
 
 </div>
 
@@ -88,6 +88,15 @@
 </tr>
 <tr>
 <td align="right">8</td>
+<td><a href="https://github.com/ykmnkmi"><img src="https://avatars.githubusercontent.com/u/53435297?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ykmnkmi"><b>Olzhas Suleimen</b></a><br><sub>&#64;ykmnkmi · 422 followers</sub></td>
+<td align="right"><b>158</b></td>
+<td align="right">127</td>
+<td align="right">6</td>
+<td align="right">0</td>
+<td align="right">12</td>
+</tr>
+<tr>
+<td align="right">9</td>
 <td><a href="https://github.com/adilkhash"><img src="https://avatars.githubusercontent.com/u/357685?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adilkhash"><b>Adyl Khashtamov</b></a><br><sub>&#64;adilkhash · 467 followers</sub></td>
 <td align="right"><b>108</b></td>
 <td align="right">81</td>
@@ -96,7 +105,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/korolr"><img src="https://avatars.githubusercontent.com/u/11715165?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/korolr"><b>Alexsey Ramzaev</b></a><br><sub>&#64;korolr · 429 followers</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">12</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/Beisenbek"><img src="https://avatars.githubusercontent.com/u/1098041?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Beisenbek"><b>Beisenbek Baisakov</b></a><br><sub>&#64;Beisenbek · 370 followers</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">10</td>
@@ -114,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/lavcraft"><img src="https://avatars.githubusercontent.com/u/576422?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lavcraft"><b>Kirill Tolkachev</b></a><br><sub>&#64;lavcraft · 318 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
@@ -129,7 +138,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 11 of 413 discovered developers (402 awaiting measurement).
+- **Measured:** 12 of 414 discovered developers (402 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 145 in round 1.

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **37** | 22 Nov 2026 | <a href="../../data/developers/CY.json">JSON</a> |
+| 🟡 Provisional | **41** | 22 Nov 2026 | <a href="../../data/developers/CY.json">JSON</a> |
 
 </div>
 
@@ -45,7 +45,7 @@
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/protesilaos"><img src="https://avatars.githubusercontent.com/u/12828033?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/protesilaos"><b>Protesilaos</b></a><br><sub>&#64;protesilaos</sub></td>
-<td align="right"><b>1,384</b></td>
+<td align="right"><b>1,386</b></td>
 <td align="right">160</td>
 <td><sub>Cyprus</sub></td>
 </tr>
@@ -226,55 +226,83 @@
 </tr>
 <tr>
 <td align="right">30</td>
+<td><a href="https://github.com/NicosNicolaou16"><img src="https://avatars.githubusercontent.com/u/59845938?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NicosNicolaou16"><b>Nicos Nicolaou</b></a><br><sub>&#64;NicosNicolaou16</sub></td>
+<td align="right"><b>218</b></td>
+<td align="right">53</td>
+<td><sub>Nicosia, Cyprus</sub></td>
+</tr>
+<tr>
+<td align="right">31</td>
+<td><a href="https://github.com/chromealex"><img src="https://avatars.githubusercontent.com/u/5654506?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chromealex"><b>Alex Silaev</b></a><br><sub>&#64;chromealex</sub></td>
+<td align="right"><b>215</b></td>
+<td align="right">70</td>
+<td><sub>Paphos, Cyprus</sub></td>
+</tr>
+<tr>
+<td align="right">32</td>
 <td><a href="https://github.com/TezRomacH"><img src="https://avatars.githubusercontent.com/u/7549587?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TezRomacH"><b>Roman Tezikov</b></a><br><sub>&#64;TezRomacH</sub></td>
 <td align="right"><b>189</b></td>
 <td align="right">0</td>
 <td><sub>Limassol, Cyprus</sub></td>
 </tr>
 <tr>
-<td align="right">31</td>
+<td align="right">33</td>
 <td><a href="https://github.com/iamolegga"><img src="https://avatars.githubusercontent.com/u/5501657?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iamolegga"><b>iamolegga</b></a><br><sub>&#64;iamolegga</sub></td>
 <td align="right"><b>166</b></td>
 <td align="right">0</td>
 <td><sub>Λεμεσός, Κύπρος</sub></td>
 </tr>
 <tr>
-<td align="right">32</td>
+<td align="right">34</td>
 <td><a href="https://github.com/alexmic"><img src="https://avatars.githubusercontent.com/u/333117?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexmic"><b>Alex Michael</b></a><br><sub>&#64;alexmic</sub></td>
 <td align="right"><b>144</b></td>
 <td align="right">0</td>
 <td><sub>Cyprus</sub></td>
 </tr>
 <tr>
-<td align="right">33</td>
+<td align="right">35</td>
+<td><a href="https://github.com/hypnoglow"><img src="https://avatars.githubusercontent.com/u/4853075?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hypnoglow"><b>Igor Zibarev</b></a><br><sub>&#64;hypnoglow</sub></td>
+<td align="right"><b>134</b></td>
+<td align="right">0</td>
+<td><sub>Cyprus</sub></td>
+</tr>
+<tr>
+<td align="right">36</td>
 <td><a href="https://github.com/bjornd"><img src="https://avatars.githubusercontent.com/u/939401?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bjornd"><b>Kirill Lebedev</b></a><br><sub>&#64;bjornd</sub></td>
 <td align="right"><b>88</b></td>
 <td align="right">0</td>
 <td><sub>Cyprus</sub></td>
 </tr>
 <tr>
-<td align="right">34</td>
+<td align="right">37</td>
 <td><a href="https://github.com/blitzarx1"><img src="https://avatars.githubusercontent.com/u/32969427?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/blitzarx1"><b>starlord</b></a><br><sub>&#64;blitzarx1</sub></td>
 <td align="right"><b>46</b></td>
 <td align="right">0</td>
 <td><sub>Cyprus</sub></td>
 </tr>
 <tr>
-<td align="right">35</td>
+<td align="right">38</td>
 <td><a href="https://github.com/stachenov"><img src="https://avatars.githubusercontent.com/u/10459538?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stachenov"><b>Sergei Tachenov</b></a><br><sub>&#64;stachenov</sub></td>
 <td align="right"><b>36</b></td>
 <td align="right">0</td>
 <td><sub>Paphos, Cyprus</sub></td>
 </tr>
 <tr>
-<td align="right">36</td>
+<td align="right">39</td>
 <td><a href="https://github.com/silentsokolov"><img src="https://avatars.githubusercontent.com/u/398939?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/silentsokolov"><b>Dmitriy Sokolov</b></a><br><sub>&#64;silentsokolov</sub></td>
 <td align="right"><b>33</b></td>
 <td align="right">0</td>
 <td><sub>Terra</sub></td>
 </tr>
 <tr>
-<td align="right">37</td>
+<td align="right">40</td>
+<td><a href="https://github.com/plp13"><img src="https://avatars.githubusercontent.com/u/3441173?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/plp13"><b>Pantelis Panayiotou</b></a><br><sub>&#64;plp13</sub></td>
+<td align="right"><b>4</b></td>
+<td align="right">0</td>
+<td><sub>Cyprus</sub></td>
+</tr>
+<tr>
+<td align="right">41</td>
 <td><a href="https://github.com/LucasCFXHosting"><img src="https://avatars.githubusercontent.com/u/114596925?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LucasCFXHosting"><b>Lucas</b></a><br><sub>&#64;LucasCFXHosting</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">11</td>
@@ -288,7 +316,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 37 attributed developers are tracked; the cutoff is 2 followers.
+- Organizations are excluded. 41 attributed developers are tracked; the cutoff is 2 followers.
 - **Location discovery:** term 0 of 105 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

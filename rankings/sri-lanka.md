@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **31** | 22 Nov 2026 | <a href="../data/LK.json">JSON</a> |
+| 🟡 Provisional | **36** | 22 Nov 2026 | <a href="../data/LK.json">JSON</a> |
 
 </div>
 
@@ -238,6 +238,41 @@
 <td align="right">22</td>
 <td>Swift</td>
 </tr>
+<tr>
+<td align="right">32</td>
+<td><img src="https://github.com/m4heshd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/m4heshd/whatsapp-desktop-dark"><b>m4heshd/whatsapp-desktop-dark</b></a><br><sub>Dark mode for WhatsApp desktop official version (Windows &amp; macOS)</sub></td>
+<td align="right"><b>613</b></td>
+<td align="right">72</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">33</td>
+<td><img src="https://github.com/nisalgunawardhana.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nisalgunawardhana/Github-for-beginners"><b>nisalgunawardhana/Github-for-beginners</b></a><br><sub>Welcome to the GitHub for Beginners practice repository! This repo is designed to help you learn and practice essential…</sub></td>
+<td align="right"><b>608</b></td>
+<td align="right">1,056</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">34</td>
+<td><img src="https://github.com/yoosuf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yoosuf/Messenger"><b>yoosuf/Messenger</b></a><br><sub>Relational messaging database schema for one-to-one and group chat apps with attachments and MySQL Workbench model.</sub></td>
+<td align="right"><b>608</b></td>
+<td align="right">151</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">35</td>
+<td><img src="https://github.com/AUNaseef.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AUNaseef/protonup"><b>AUNaseef/protonup</b></a><br><sub>Install and Update Proton-GE</sub></td>
+<td align="right"><b>600</b></td>
+<td align="right">23</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">36</td>
+<td><img src="https://github.com/JavatoDev-com.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JavatoDev-com/internet-banking-concept-microservices"><b>JavatoDev-com/internet-banking-concept-microservices</b></a><br><sub>Internet Banking Concept Microservices</sub></td>
+<td align="right"><b>589</b></td>
+<td align="right">306</td>
+<td>Java</td>
+</tr>
 </tbody>
 </table>
 
@@ -246,8 +281,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 656 stars; 31 attributed candidates are tracked.
-- 136 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 589 stars; 36 attributed candidates are tracked.
+- 130 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 95 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

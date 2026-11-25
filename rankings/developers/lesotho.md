@@ -32,7 +32,7 @@
 <td align="right">2</td>
 <td><a href="https://github.com/LomNtetha"><img src="https://avatars.githubusercontent.com/u/67831973?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LomNtetha"><b>Lumkile Ntetha</b></a><br><sub>&#64;LomNtetha</sub></td>
 <td align="right"><b>212</b></td>
-<td align="right">17</td>
+<td align="right">18</td>
 <td><sub>Maseru</sub></td>
 </tr>
 <tr>

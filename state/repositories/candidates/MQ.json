@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"MQ","name":"Martinique","slug":"martinique"},
-"count": 113,
+"count": 111,
 "repositories": [
-  {"name":"yannou788/jks","stars":4,"forks":2,"language":"Python","archived":false,"createdAt":"2024-02-22T16:11:48Z","pushedAt":"2025-07-01T14:30:33Z","owner":{"login":"yannou788","type":"User","name":"Luccin","location":"Martinique"},"attribution":{"code":"MQ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:21:38.853Z","id":"legacy:yannou788/jks","legacy":true},
-  {"name":"webmonster-community/Sitemap-Generator","stars":4,"forks":0,"language":"PHP","license":"GPL-3.0","archived":false,"createdAt":"2022-08-07T02:38:36Z","pushedAt":"2022-10-24T05:23:34Z","owner":{"login":"webmonster-community","type":"Organization","name":"Webmonster Community","location":"Martinique"},"attribution":{"code":"MQ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:21:38.853Z","id":"legacy:webmonster-community/sitemap-generator","legacy":true},
   {"name":"anthonyrenard/infobam-fullstack-test","stars":2,"forks":12,"language":"TypeScript","archived":false,"createdAt":"2024-12-05T21:52:20Z","pushedAt":"2025-04-02T22:10:30Z","owner":{"login":"anthonyrenard","type":"User","name":"Anthony Renard","location":"Martinique"},"attribution":{"code":"MQ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:21:38.853Z","id":"legacy:anthonyrenard/infobam-fullstack-test","legacy":true},
   {"name":"jsrdescamps/jfractal","stars":2,"forks":1,"language":"JavaScript","license":"MIT","archived":false,"createdAt":"2015-06-08T06:42:45Z","pushedAt":"2019-02-01T18:59:56Z","owner":{"login":"jsrdescamps","type":"User","name":"Julien Descamps","location":"Martinique"},"attribution":{"code":"MQ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:21:38.853Z","id":"legacy:jsrdescamps/jfractal","legacy":true},
   {"name":"Jb-Analytics/snowflake-dbt-tpch-medallion","stars":2,"forks":0,"archived":false,"createdAt":"2026-04-12T08:41:53Z","pushedAt":"2026-05-12T09:28:33Z","owner":{"login":"Jb-Analytics","type":"User","name":"Célia JEAN-BART","location":"Martinique"},"attribution":{"code":"MQ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T06:21:38.853Z","id":"legacy:jb-analytics/snowflake-dbt-tpch-medallion","legacy":true},

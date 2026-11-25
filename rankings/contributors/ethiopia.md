@@ -106,7 +106,7 @@
 </tr>
 <tr>
 <td align="right">10</td>
-<td><a href="https://github.com/Micky373"><img src="https://avatars.githubusercontent.com/u/59280162?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Micky373"><b>Michael Tamirie</b></a><br><sub>&#64;Micky373 · 193 followers</sub></td>
+<td><a href="https://github.com/Micky373"><img src="https://avatars.githubusercontent.com/u/59280162?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Micky373"><b>Michael Tamirie</b></a><br><sub>&#64;Micky373 · 194 followers</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">17</td>
 <td align="right">0</td>
@@ -138,7 +138,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 13 of 414 discovered developers (401 awaiting measurement).
+- **Measured:** 14 of 418 discovered developers (404 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 142 in round 1.

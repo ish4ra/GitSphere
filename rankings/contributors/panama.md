@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 23 Nov 2026 | <a href="../../data/contributors/PA.json">JSON</a> |
+| 🟡 Provisional | **6** | 23 Nov 2026 | <a href="../../data/contributors/PA.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,15 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/gluneau"><img src="https://avatars.githubusercontent.com/u/2903505?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gluneau"><b>Gregory Luneau</b></a><br><sub>&#64;gluneau · 45 followers</sub></td>
+<td align="right"><b>52</b></td>
+<td align="right">29</td>
+<td align="right">17</td>
+<td align="right">0</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/152as"><img src="https://avatars.githubusercontent.com/u/131210767?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/152as"><b>Simon Becerra</b></a><br><sub>&#64;152as · 0 followers</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">25</td>
@@ -51,7 +60,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/4d3-sudo"><img src="https://avatars.githubusercontent.com/u/58711534?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/4d3-sudo"><b>ade.&#95;.lian</b></a><br><sub>&#64;4d3-sudo · 0 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">5</td>
@@ -60,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/4r13lpch3lp"><img src="https://avatars.githubusercontent.com/u/125678266?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/4r13lpch3lp"><b>spartan&#95;chief&#95;ch1n021</b></a><br><sub>&#64;4r13lpch3lp · 4 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">4</td>
@@ -75,7 +84,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 10 of 400 discovered developers (390 awaiting measurement).
+- **Measured:** 11 of 401 discovered developers (390 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 81 in round 1.

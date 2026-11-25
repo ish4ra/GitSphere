@@ -5,7 +5,7 @@
 "country": {"code":"HK","name":"Hong Kong","slug":"hong-kong"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":628,"measuredAccounts":11,"measurementBacklog":617,"window":{"from":"2025-11-23T13:00:00Z","to":"2026-11-23T13:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":142,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":669,"measuredAccounts":12,"measurementBacklog":657,"window":{"from":"2025-11-23T13:00:00Z","to":"2026-11-23T13:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":142,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjI2NDA4NjA1","login":"dirkarnez","name":"Dirk Arnez","url":"https://github.com/dirkarnez","avatarUrl":"https://avatars.githubusercontent.com/u/26408605?s=80&v=4","followers":400,"publicRepos":3113,"location":"Hong Kong","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":4105,"commits":4029,"pullRequests":2,"reviews":0,"issues":1,"repositories":73,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":2,"id":"MDQ6VXNlcjEyMDc5NTk=","login":"Akagi201","name":"Bob Liu","url":"https://github.com/Akagi201","avatarUrl":"https://avatars.githubusercontent.com/u/1207959?s=80&v=4","followers":885,"publicRepos":309,"location":"Hong Kong","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":2354,"commits":2297,"pullRequests":34,"reviews":2,"issues":19,"repositories":2,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
@@ -19,8 +19,8 @@
   {"rank":10,"id":"MDQ6VXNlcjYxMzMwMzE=","login":"amadeobrands","name":"Amadeo Brands","url":"https://github.com/amadeobrands","avatarUrl":"https://avatars.githubusercontent.com/u/6133031?s=80&v=4","followers":278,"publicRepos":541,"location":"Hong Kong","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":7,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":7,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":11,"id":"MDQ6VXNlcjk3NDQzNjE=","login":"helixcn","name":"Jinlong Zhang","url":"https://github.com/helixcn","avatarUrl":"https://avatars.githubusercontent.com/u/9744361?s=80&v=4","followers":272,"publicRepos":282,"location":"Hong Kong SAR","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":4,"commits":3,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "4130f7adff3a99cf",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "42cf57a3fd6d3b60",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

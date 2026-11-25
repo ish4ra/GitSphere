@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **19** | 22 Nov 2026 | <a href="../../data/developers/BA.json">JSON</a> |
+| 🟡 Provisional | **22** | 22 Nov 2026 | <a href="../../data/developers/BA.json">JSON</a> |
 
 </div>
 
@@ -86,69 +86,90 @@
 </tr>
 <tr>
 <td align="right">10</td>
+<td><a href="https://github.com/komljen"><img src="https://avatars.githubusercontent.com/u/2872288?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/komljen"><b>Alen Komljen</b></a><br><sub>&#64;komljen</sub></td>
+<td align="right"><b>206</b></td>
+<td align="right">49</td>
+<td><sub>Sarajevo</sub></td>
+</tr>
+<tr>
+<td align="right">11</td>
 <td><a href="https://github.com/vladotesanovic"><img src="https://avatars.githubusercontent.com/u/738638?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vladotesanovic"><b>Vlado Tesanovic</b></a><br><sub>&#64;vladotesanovic</sub></td>
 <td align="right"><b>149</b></td>
 <td align="right">56</td>
 <td><sub>Sarajevo, Earth</sub></td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/nenadg"><img src="https://avatars.githubusercontent.com/u/1519100?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nenadg"><b>Nenad Golubovic</b></a><br><sub>&#64;nenadg</sub></td>
-<td align="right"><b>134</b></td>
-<td align="right">0</td>
+<td align="right"><b>135</b></td>
+<td align="right">42</td>
 <td><sub>Banja Luka, Bosnia and Herzegovina</sub></td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/MS-WEB-BN"><img src="https://avatars.githubusercontent.com/u/56588859?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MS-WEB-BN"><b>MS-WEB-BN</b></a><br><sub>&#64;MS-WEB-BN</sub></td>
 <td align="right"><b>133</b></td>
 <td align="right">0</td>
 <td><sub>Bijeljina, Bosnia and Herzegovina</sub></td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/borisdj"><img src="https://avatars.githubusercontent.com/u/1279604?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/borisdj"><b>Boris Djurdjevic</b></a><br><sub>&#64;borisdj</sub></td>
 <td align="right"><b>129</b></td>
 <td align="right">32</td>
 <td><sub>Banja Luka, Bosnia and Herzegovina</sub></td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
+<td><a href="https://github.com/AleksaMCode"><img src="https://avatars.githubusercontent.com/u/23129943?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AleksaMCode"><b>Aleksa Majkić</b></a><br><sub>&#64;AleksaMCode</sub></td>
+<td align="right"><b>106</b></td>
+<td align="right">0</td>
+<td><sub>Banja Luka, Bosnia and Herzegovina</sub></td>
+</tr>
+<tr>
+<td align="right">16</td>
 <td><a href="https://github.com/elvirbrk"><img src="https://avatars.githubusercontent.com/u/20227334?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elvirbrk"><b>Elvir Brkić</b></a><br><sub>&#64;elvirbrk</sub></td>
 <td align="right"><b>82</b></td>
 <td align="right">4</td>
 <td><sub>Sarajevo</sub></td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">17</td>
 <td><a href="https://github.com/esensar"><img src="https://avatars.githubusercontent.com/u/2764831?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/esensar"><b>Ensar Sarajčić</b></a><br><sub>&#64;esensar</sub></td>
 <td align="right"><b>66</b></td>
 <td align="right">0</td>
 <td><sub>Sarajevo, Bosnia and Herzegovina</sub></td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">18</td>
 <td><a href="https://github.com/adnanademovic"><img src="https://avatars.githubusercontent.com/u/4988490?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adnanademovic"><b>Adnan Ademovic</b></a><br><sub>&#64;adnanademovic</sub></td>
 <td align="right"><b>50</b></td>
 <td align="right">22</td>
 <td><sub>Sarajevo, Bosnia &amp; Herzegovina</sub></td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">19</td>
 <td><a href="https://github.com/mrakodol"><img src="https://avatars.githubusercontent.com/u/3314318?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrakodol"><b>mrakodol</b></a><br><sub>&#64;mrakodol</sub></td>
 <td align="right"><b>46</b></td>
 <td align="right">93</td>
 <td><sub>Bosnia and Herzegovina</sub></td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">20</td>
+<td><a href="https://github.com/nadirbad"><img src="https://avatars.githubusercontent.com/u/33620914?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nadirbad"><b>Nadir Badnjevic</b></a><br><sub>&#64;nadirbad</sub></td>
+<td align="right"><b>42</b></td>
+<td align="right">0</td>
+<td><sub>Sarajevo</sub></td>
+</tr>
+<tr>
+<td align="right">21</td>
 <td><a href="https://github.com/berbicanes"><img src="https://avatars.githubusercontent.com/u/259765224?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/berbicanes"><b>Anes Berbic</b></a><br><sub>&#64;berbicanes</sub></td>
 <td align="right"><b>34</b></td>
 <td align="right">14</td>
 <td><sub>Sarajevo</sub></td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">22</td>
 <td><a href="https://github.com/marko-cerovac"><img src="https://avatars.githubusercontent.com/u/76592799?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marko-cerovac"><b>Marko Cerovac</b></a><br><sub>&#64;marko-cerovac</sub></td>
 <td align="right"><b>21</b></td>
 <td align="right">0</td>
@@ -162,7 +183,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 19 attributed developers are tracked; the cutoff is 21 followers.
+- Organizations are excluded. 22 attributed developers are tracked; the cutoff is 21 followers.
 - **Location discovery:** term 0 of 123 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

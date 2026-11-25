@@ -9,7 +9,7 @@
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjEzMTQ3OTM=","login":"dolotech","name":"photo","url":"https://github.com/dolotech","avatarUrl":"https://avatars.githubusercontent.com/u/1314793?s=80&v=4","followers":185,"publicRepos":89,"location":"photo","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23"},
   {"rank":2,"id":"MDQ6VXNlcjY0MTc5MTQy","login":"Justin-sketch","name":"Gabriel Kambinda Justinu","url":"https://github.com/Justin-sketch","avatarUrl":"https://avatars.githubusercontent.com/u/64179142?s=80&v=4","followers":177,"publicRepos":2,"location":"windhoek,namibia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
-  {"rank":3,"id":"MDQ6VXNlcjQxNDI4NTc5","login":"Lucas-Erkana","name":"Lucas David Erkana","url":"https://github.com/Lucas-Erkana","avatarUrl":"https://avatars.githubusercontent.com/u/41428579?s=80&v=4","followers":127,"publicRepos":141,"location":"Walvis Bay, Namibia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":3,"id":"MDQ6VXNlcjQxNDI4NTc5","login":"Lucas-Erkana","name":"Lucas David Erkana","url":"https://github.com/Lucas-Erkana","avatarUrl":"https://avatars.githubusercontent.com/u/41428579?s=80&v=4","followers":128,"publicRepos":141,"location":"Walvis Bay, Namibia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-25"},
   {"rank":4,"id":"MDQ6VXNlcjM3ODI1NDQ3","login":"Eckhardt-D","name":"Eckhardt Scheffer","url":"https://github.com/Eckhardt-D","avatarUrl":"https://avatars.githubusercontent.com/u/37825447?s=80&v=4","followers":105,"publicRepos":154,"location":"Namibia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":5,"id":"MDQ6VXNlcjI3Njc3MTU1","login":"afroGeM7","name":"Gemma Usiku","url":"https://github.com/afroGeM7","avatarUrl":"https://avatars.githubusercontent.com/u/27677155?s=80&v=4","followers":102,"publicRepos":35,"location":"Namibia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":6,"id":"MDQ6VXNlcjQ5OTg2MDA1","login":"Kacelo","name":"Vernon Kacelo","url":"https://github.com/Kacelo","avatarUrl":"https://avatars.githubusercontent.com/u/49986005?s=80&v=4","followers":94,"publicRepos":46,"location":"Windhoek, Namibia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
@@ -407,8 +407,8 @@
   {"rank":398,"id":"U_kgDOC3QKbg","login":"preciousagba","name":"Precious🪽","url":"https://github.com/preciousagba","avatarUrl":"https://avatars.githubusercontent.com/u/192154222?s=80&v=4","followers":0,"publicRepos":1,"location":"Windhoek, Namibia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":399,"id":"MDQ6VXNlcjE3MzIxNzk=","login":"rafikipress","name":"Rafiki Webmaster","url":"https://github.com/rafikipress","avatarUrl":"https://avatars.githubusercontent.com/u/1732179?s=80&v=4","followers":0,"publicRepos":1,"location":"Gobabis, Namibia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "1993d9539a24c39a",
-"updatedAt": "2026-11-24T11:36:56.631Z",
+"contentHash": "23fb8e4e22b3b166",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T11:36:56.631Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

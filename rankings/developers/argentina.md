@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **230** | 22 Nov 2026 | <a href="../../data/developers/AR.json">JSON</a> |
+| 🟡 Provisional | **277** | 22 Nov 2026 | <a href="../../data/developers/AR.json">JSON</a> |
 
 </div>
 
@@ -24,14 +24,14 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/goncy"><img src="https://avatars.githubusercontent.com/u/6494462?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/goncy"><b>Gonzalo Pozzo</b></a><br><sub>&#64;goncy</sub></td>
-<td align="right"><b>5,105</b></td>
+<td align="right"><b>5,104</b></td>
 <td align="right">300</td>
 <td><sub>Quilmes, Buenos Aires, Argentina</sub></td>
 </tr>
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/bevacqua"><img src="https://avatars.githubusercontent.com/u/934293?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bevacqua"><b>Nicolás Bevacqua</b></a><br><sub>&#64;bevacqua</sub></td>
-<td align="right"><b>4,831</b></td>
+<td align="right"><b>4,830</b></td>
 <td align="right">291</td>
 <td><sub>Buenos Aires, Argentina</sub></td>
 </tr>
@@ -178,7 +178,7 @@
 <tr>
 <td align="right">23</td>
 <td><a href="https://github.com/pazguille"><img src="https://avatars.githubusercontent.com/u/250856?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pazguille"><b>Guille Paz</b></a><br><sub>&#64;pazguille</sub></td>
-<td align="right"><b>865</b></td>
+<td align="right"><b>864</b></td>
 <td align="right">166</td>
 <td><sub>Buenos Aires, Argentina</sub></td>
 </tr>
@@ -542,7 +542,7 @@
 <tr>
 <td align="right">75</td>
 <td><a href="https://github.com/flesler"><img src="https://avatars.githubusercontent.com/u/38258?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/flesler"><b>Ariel Flesler</b></a><br><sub>&#64;flesler</sub></td>
-<td align="right"><b>450</b></td>
+<td align="right"><b>449</b></td>
 <td align="right">86</td>
 <td><sub>Buenos Aires, Argentina</sub></td>
 </tr>
@@ -591,7 +591,7 @@
 <tr>
 <td align="right">82</td>
 <td><a href="https://github.com/biancarosa"><img src="https://avatars.githubusercontent.com/u/1480558?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/biancarosa"><b>bianca rosa</b></a><br><sub>&#64;biancarosa</sub></td>
-<td align="right"><b>430</b></td>
+<td align="right"><b>431</b></td>
 <td align="right">225</td>
 <td><sub>Buenos Aires, AR</sub></td>
 </tr>
@@ -842,17 +842,17 @@
 </tr>
 <tr>
 <td align="right">118</td>
+<td><a href="https://github.com/Axenide"><img src="https://avatars.githubusercontent.com/u/66109459?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Axenide"><b>Adriano Tisera</b></a><br><sub>&#64;Axenide</sub></td>
+<td align="right"><b>315</b></td>
+<td align="right">44</td>
+<td><sub>Mendoza, Argentina.</sub></td>
+</tr>
+<tr>
+<td align="right">119</td>
 <td><a href="https://github.com/killbrickedd"><img src="https://avatars.githubusercontent.com/u/247530333?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/killbrickedd"><b>.ᐟ.ᐟ 𝓀𝒾𝓁𝓁𝒷𝓇𝒾𝒸𝓀𝓈/ 𝒿𝒶𝓈𝓅𝑒𝓇</b></a><br><sub>&#64;killbrickedd</sub></td>
 <td align="right"><b>315</b></td>
 <td align="right">1</td>
 <td><sub>Argentina // pt: near bakery or docks if lf rp</sub></td>
-</tr>
-<tr>
-<td align="right">119</td>
-<td><a href="https://github.com/Axenide"><img src="https://avatars.githubusercontent.com/u/66109459?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Axenide"><b>Adriano Tisera</b></a><br><sub>&#64;Axenide</sub></td>
-<td align="right"><b>314</b></td>
-<td align="right">44</td>
-<td><sub>Mendoza, Argentina.</sub></td>
 </tr>
 <tr>
 <td align="right">120</td>
@@ -1094,17 +1094,17 @@
 </tr>
 <tr>
 <td align="right">154</td>
+<td><a href="https://github.com/JoseAlz"><img src="https://avatars.githubusercontent.com/u/53873799?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JoseAlz"><b>JoseAlz</b></a><br><sub>&#64;JoseAlz</sub></td>
+<td align="right"><b>261</b></td>
+<td align="right">219</td>
+<td><sub>Buenos Aires Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">155</td>
 <td><a href="https://github.com/DonPrus"><img src="https://avatars.githubusercontent.com/u/5755838?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DonPrus"><b>Igor Somov</b></a><br><sub>&#64;DonPrus</sub></td>
 <td align="right"><b>261</b></td>
 <td align="right">18</td>
 <td><sub>Buenos Aires</sub></td>
-</tr>
-<tr>
-<td align="right">155</td>
-<td><a href="https://github.com/JoseAlz"><img src="https://avatars.githubusercontent.com/u/53873799?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JoseAlz"><b>JoseAlz</b></a><br><sub>&#64;JoseAlz</sub></td>
-<td align="right"><b>260</b></td>
-<td align="right">219</td>
-<td><sub>Buenos Aires Argentina</sub></td>
 </tr>
 <tr>
 <td align="right">156</td>
@@ -1325,307 +1325,636 @@
 </tr>
 <tr>
 <td align="right">187</td>
+<td><a href="https://github.com/waj"><img src="https://avatars.githubusercontent.com/u/22697?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/waj"><b>Juan Wajnerman</b></a><br><sub>&#64;waj</sub></td>
+<td align="right"><b>220</b></td>
+<td align="right">85</td>
+<td><sub>Buenos Aires, Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">188</td>
+<td><a href="https://github.com/woloski"><img src="https://avatars.githubusercontent.com/u/175880?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/woloski"><b>Matias Woloski</b></a><br><sub>&#64;woloski</sub></td>
+<td align="right"><b>220</b></td>
+<td align="right">58</td>
+<td><sub>Buenos Aires, Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">189</td>
+<td><a href="https://github.com/FabSignal"><img src="https://avatars.githubusercontent.com/u/109298175?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FabSignal"><b>Fab</b></a><br><sub>&#64;FabSignal</sub></td>
+<td align="right"><b>220</b></td>
+<td align="right">51</td>
+<td><sub>Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">190</td>
+<td><a href="https://github.com/lucassoliz"><img src="https://avatars.githubusercontent.com/u/179272435?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lucassoliz"><b>Siles.LDK</b></a><br><sub>&#64;lucassoliz</sub></td>
+<td align="right"><b>220</b></td>
+<td align="right">17</td>
+<td><sub>Buenos Aires</sub></td>
+</tr>
+<tr>
+<td align="right">191</td>
+<td><a href="https://github.com/AfipSDK"><img src="https://avatars.githubusercontent.com/u/43416040?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AfipSDK"><b>Afip SDK</b></a><br><sub>&#64;AfipSDK</sub></td>
+<td align="right"><b>220</b></td>
+<td align="right">16</td>
+<td><sub>Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">192</td>
+<td><a href="https://github.com/rodrigomartind"><img src="https://avatars.githubusercontent.com/u/24611045?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rodrigomartind"><b>Rodrigo Dominguez</b></a><br><sub>&#64;rodrigomartind</sub></td>
+<td align="right"><b>219</b></td>
+<td align="right">15</td>
+<td><sub>Juana Koslay, San Luis, Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">193</td>
+<td><a href="https://github.com/cmgustavo"><img src="https://avatars.githubusercontent.com/u/237435?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cmgustavo"><b>Gustavo</b></a><br><sub>&#64;cmgustavo</sub></td>
+<td align="right"><b>217</b></td>
+<td align="right">67</td>
+<td><sub>Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">194</td>
+<td><a href="https://github.com/ezelf"><img src="https://avatars.githubusercontent.com/u/15113645?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ezelf"><b>ezelf</b></a><br><sub>&#64;ezelf</sub></td>
+<td align="right"><b>216</b></td>
+<td align="right">19</td>
+<td><sub>Buenos Aires</sub></td>
+</tr>
+<tr>
+<td align="right">195</td>
+<td><a href="https://github.com/Dante-Leoncini"><img src="https://avatars.githubusercontent.com/u/16452492?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dante-Leoncini"><b>Dante D. Leoncini</b></a><br><sub>&#64;Dante-Leoncini</sub></td>
+<td align="right"><b>216</b></td>
+<td align="right">18</td>
+<td><sub>Buenos Aires, Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">196</td>
+<td><a href="https://github.com/abenassi"><img src="https://avatars.githubusercontent.com/u/4405346?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abenassi"><b>Agustín Benassi</b></a><br><sub>&#64;abenassi</sub></td>
+<td align="right"><b>214</b></td>
+<td align="right">56</td>
+<td><sub>Buenos Aires, Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">197</td>
+<td><a href="https://github.com/Phosphorus-M"><img src="https://avatars.githubusercontent.com/u/19656993?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Phosphorus-M"><b>Phosphorus Moscu</b></a><br><sub>&#64;Phosphorus-M</sub></td>
+<td align="right"><b>213</b></td>
+<td align="right">175</td>
+<td><sub>Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">198</td>
+<td><a href="https://github.com/AndreaDiazCorreia"><img src="https://avatars.githubusercontent.com/u/85651492?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AndreaDiazCorreia"><b>Andrea Diaz</b></a><br><sub>&#64;AndreaDiazCorreia</sub></td>
+<td align="right"><b>213</b></td>
+<td align="right">50</td>
+<td><sub>Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">199</td>
+<td><a href="https://github.com/EmmanuelMess"><img src="https://avatars.githubusercontent.com/u/10991116?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EmmanuelMess"><b>Emmanuel M</b></a><br><sub>&#64;EmmanuelMess</sub></td>
+<td align="right"><b>212</b></td>
+<td align="right">179</td>
+<td><sub>Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">200</td>
+<td><a href="https://github.com/Mauro069"><img src="https://avatars.githubusercontent.com/u/81174890?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mauro069"><b>Mauro Vera</b></a><br><sub>&#64;Mauro069</sub></td>
+<td align="right"><b>211</b></td>
+<td align="right">88</td>
+<td><sub>Rosario, Santa Fe, Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">201</td>
+<td><a href="https://github.com/bitwiseAr"><img src="https://avatars.githubusercontent.com/u/25986741?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bitwiseAr"><b>bitwiseAr</b></a><br><sub>&#64;bitwiseAr</sub></td>
+<td align="right"><b>211</b></td>
+<td align="right">1</td>
+<td><sub>Buenos Aires, Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">202</td>
+<td><a href="https://github.com/jd-apprentice"><img src="https://avatars.githubusercontent.com/u/68082746?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jd-apprentice"><b>Jonathan</b></a><br><sub>&#64;jd-apprentice</sub></td>
+<td align="right"><b>209</b></td>
+<td align="right">174</td>
+<td><sub>Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">203</td>
+<td><a href="https://github.com/JaviCeRodriguez"><img src="https://avatars.githubusercontent.com/u/68615684?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JaviCeRodriguez"><b>Javier Rodriguez</b></a><br><sub>&#64;JaviCeRodriguez</sub></td>
+<td align="right"><b>208</b></td>
+<td align="right">100</td>
+<td><sub>San Fernando, Buenos Aires, Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">204</td>
+<td><a href="https://github.com/matiasbaldanza"><img src="https://avatars.githubusercontent.com/u/55600?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/matiasbaldanza"><b>Matias Baldanza</b></a><br><sub>&#64;matiasbaldanza</sub></td>
+<td align="right"><b>208</b></td>
+<td align="right">20</td>
+<td><sub>Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">205</td>
+<td><a href="https://github.com/matiasngf"><img src="https://avatars.githubusercontent.com/u/29680544?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/matiasngf"><b>Matias Gonzalez</b></a><br><sub>&#64;matiasngf</sub></td>
+<td align="right"><b>205</b></td>
+<td align="right">56</td>
+<td><sub>Buenos Aires</sub></td>
+</tr>
+<tr>
+<td align="right">206</td>
+<td><a href="https://github.com/TomasBorquez"><img src="https://avatars.githubusercontent.com/u/88001174?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TomasBorquez"><b>Tomas Borquez</b></a><br><sub>&#64;TomasBorquez</sub></td>
+<td align="right"><b>205</b></td>
+<td align="right">15</td>
+<td><sub>Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">207</td>
+<td><a href="https://github.com/jjscarafia"><img src="https://avatars.githubusercontent.com/u/3016656?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jjscarafia"><b>Juan José Scarafía</b></a><br><sub>&#64;jjscarafia</sub></td>
+<td align="right"><b>203</b></td>
+<td align="right">62</td>
+<td><sub>Rosario, Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">208</td>
+<td><a href="https://github.com/paratustra"><img src="https://avatars.githubusercontent.com/u/71536669?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/paratustra"><b>francisco</b></a><br><sub>&#64;paratustra</sub></td>
+<td align="right"><b>203</b></td>
+<td align="right">5</td>
+<td><sub>Buenos Aires</sub></td>
+</tr>
+<tr>
+<td align="right">209</td>
+<td><a href="https://github.com/gedankenstuecke"><img src="https://avatars.githubusercontent.com/u/674899?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gedankenstuecke"><b>Bastian Greshake Tzovaras</b></a><br><sub>&#64;gedankenstuecke</sub></td>
+<td align="right"><b>201</b></td>
+<td align="right">170</td>
+<td><sub>Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">210</td>
+<td><a href="https://github.com/feliam"><img src="https://avatars.githubusercontent.com/u/1017522?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/feliam"><b>feliam</b></a><br><sub>&#64;feliam</sub></td>
+<td align="right"><b>201</b></td>
+<td align="right">31</td>
+<td><sub>Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">211</td>
+<td><a href="https://github.com/phreda4"><img src="https://avatars.githubusercontent.com/u/425372?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/phreda4"><b>PH Reda</b></a><br><sub>&#64;phreda4</sub></td>
+<td align="right"><b>201</b></td>
+<td align="right">24</td>
+<td><sub>Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">212</td>
+<td><a href="https://github.com/feralarcon1995"><img src="https://avatars.githubusercontent.com/u/70901087?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/feralarcon1995"><b>Fer Alarcon</b></a><br><sub>&#64;feralarcon1995</sub></td>
+<td align="right"><b>200</b></td>
+<td align="right">95</td>
+<td><sub>Ramos Mejia, Buenos Aires , Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">213</td>
+<td><a href="https://github.com/ValentinBarco"><img src="https://avatars.githubusercontent.com/u/69443193?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ValentinBarco"><b>Valentin Barco</b></a><br><sub>&#64;ValentinBarco</sub></td>
+<td align="right"><b>199</b></td>
+<td align="right">14</td>
+<td><sub>Argentina, Buenos Aires</sub></td>
+</tr>
+<tr>
+<td align="right">214</td>
+<td><a href="https://github.com/K-ballo"><img src="https://avatars.githubusercontent.com/u/1700391?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/K-ballo"><b>Agustín Bergé</b></a><br><sub>&#64;K-ballo</sub></td>
+<td align="right"><b>199</b></td>
+<td align="right">13</td>
+<td><sub>Bahía Blanca, Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">215</td>
+<td><a href="https://github.com/retrofox"><img src="https://avatars.githubusercontent.com/u/77539?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/retrofox"><b>Damián Suárez</b></a><br><sub>&#64;retrofox</sub></td>
+<td align="right"><b>198</b></td>
+<td align="right">83</td>
+<td><sub>Centenario, Neuquen, Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">216</td>
+<td><a href="https://github.com/DT1010"><img src="https://avatars.githubusercontent.com/u/29587261?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DT1010"><b>David Toledo</b></a><br><sub>&#64;DT1010</sub></td>
+<td align="right"><b>198</b></td>
+<td align="right">0</td>
+<td><sub>Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">217</td>
+<td><a href="https://github.com/JerePrograma"><img src="https://avatars.githubusercontent.com/u/95102411?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JerePrograma"><b>Jeremías</b></a><br><sub>&#64;JerePrograma</sub></td>
+<td align="right"><b>196</b></td>
+<td align="right">57</td>
+<td><sub>Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">218</td>
+<td><a href="https://github.com/tecnicaturasutnfra"><img src="https://avatars.githubusercontent.com/u/16868554?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tecnicaturasutnfra"><b>UTN-FRA. Tecnicaturas en programación</b></a><br><sub>&#64;tecnicaturasutnfra</sub></td>
+<td align="right"><b>196</b></td>
+<td align="right">2</td>
+<td><sub>Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">219</td>
 <td><a href="https://github.com/anaibol"><img src="https://avatars.githubusercontent.com/u/3210177?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anaibol"><b>Anibal</b></a><br><sub>&#64;anaibol</sub></td>
 <td align="right"><b>180</b></td>
 <td align="right">0</td>
 <td><sub>Buenos Aires</sub></td>
 </tr>
 <tr>
-<td align="right">188</td>
+<td align="right">220</td>
 <td><a href="https://github.com/elmasse"><img src="https://avatars.githubusercontent.com/u/223235?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elmasse"><b>Masse Fierro</b></a><br><sub>&#64;elmasse</sub></td>
 <td align="right"><b>171</b></td>
 <td align="right">0</td>
 <td><sub>La Plata, Buenos Aires.</sub></td>
 </tr>
 <tr>
-<td align="right">189</td>
+<td align="right">221</td>
 <td><a href="https://github.com/SpartanJ"><img src="https://avatars.githubusercontent.com/u/650416?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SpartanJ"><b>Martín Lucas Golini</b></a><br><sub>&#64;SpartanJ</sub></td>
 <td align="right"><b>161</b></td>
 <td align="right">0</td>
 <td><sub>Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">190</td>
+<td align="right">222</td>
+<td><a href="https://github.com/betzerra"><img src="https://avatars.githubusercontent.com/u/681600?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/betzerra"><b>Ezequiel Alejandro Becerra</b></a><br><sub>&#64;betzerra</sub></td>
+<td align="right"><b>154</b></td>
+<td align="right">0</td>
+<td><sub>Buenos Aires</sub></td>
+</tr>
+<tr>
+<td align="right">223</td>
 <td><a href="https://github.com/alejandroautalan"><img src="https://avatars.githubusercontent.com/u/3482471?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alejandroautalan"><b>Alejandro Autalán</b></a><br><sub>&#64;alejandroautalan</sub></td>
 <td align="right"><b>147</b></td>
 <td align="right">0</td>
 <td><sub>Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">191</td>
+<td align="right">224</td>
 <td><a href="https://github.com/gmoral"><img src="https://avatars.githubusercontent.com/u/805764?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gmoral"><b>Guillermo Moral</b></a><br><sub>&#64;gmoral</sub></td>
 <td align="right"><b>142</b></td>
 <td align="right">0</td>
 <td><sub>Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">192</td>
+<td align="right">225</td>
 <td><a href="https://github.com/mlomb"><img src="https://avatars.githubusercontent.com/u/5845105?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mlomb"><b>Martín Lombardo</b></a><br><sub>&#64;mlomb</sub></td>
 <td align="right"><b>142</b></td>
 <td align="right">0</td>
 <td><sub>Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">193</td>
+<td align="right">226</td>
 <td><a href="https://github.com/epidemian"><img src="https://avatars.githubusercontent.com/u/722544?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/epidemian"><b>Demian Ferreiro</b></a><br><sub>&#64;epidemian</sub></td>
 <td align="right"><b>137</b></td>
 <td align="right">0</td>
 <td><sub>Bariloche, Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">194</td>
+<td align="right">227</td>
 <td><a href="https://github.com/gerardog"><img src="https://avatars.githubusercontent.com/u/3901474?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gerardog"><b>Gerardo Grignoli</b></a><br><sub>&#64;gerardog</sub></td>
 <td align="right"><b>132</b></td>
 <td align="right">0</td>
 <td><sub>Buenos Aires, Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">195</td>
+<td align="right">228</td>
 <td><a href="https://github.com/lucasromerodb"><img src="https://avatars.githubusercontent.com/u/5304112?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lucasromerodb"><b>Luke</b></a><br><sub>&#64;lucasromerodb</sub></td>
 <td align="right"><b>132</b></td>
 <td align="right">0</td>
 <td><sub>Buenos Aires, Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">196</td>
+<td align="right">229</td>
 <td><a href="https://github.com/benjamine"><img src="https://avatars.githubusercontent.com/u/384553?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/benjamine"><b>Benjamín Eidelman</b></a><br><sub>&#64;benjamine</sub></td>
 <td align="right"><b>125</b></td>
 <td align="right">0</td>
 <td><sub>Buenos Aires, Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">197</td>
+<td align="right">230</td>
 <td><a href="https://github.com/cosme12"><img src="https://avatars.githubusercontent.com/u/6611118?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cosme12"><b>Diego Lanciotti</b></a><br><sub>&#64;cosme12</sub></td>
 <td align="right"><b>125</b></td>
 <td align="right">0</td>
 <td><sub>Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">198</td>
+<td align="right">231</td>
 <td><a href="https://github.com/phlinhng"><img src="https://avatars.githubusercontent.com/u/37269314?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/phlinhng"><b>phlinhng</b></a><br><sub>&#64;phlinhng</sub></td>
 <td align="right"><b>123</b></td>
 <td align="right">0</td>
 <td><sub>Formosa</sub></td>
 </tr>
 <tr>
-<td align="right">199</td>
+<td align="right">232</td>
 <td><a href="https://github.com/fportantier"><img src="https://avatars.githubusercontent.com/u/3505371?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fportantier"><b>Fabian Martinez Portantier</b></a><br><sub>&#64;fportantier</sub></td>
 <td align="right"><b>121</b></td>
 <td align="right">0</td>
 <td><sub>Buenos Aires, Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">200</td>
+<td align="right">233</td>
+<td><a href="https://github.com/sonicdcer"><img src="https://avatars.githubusercontent.com/u/96613413?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sonicdcer"><b>Alejandro Javier Asenjo Nitti</b></a><br><sub>&#64;sonicdcer</sub></td>
+<td align="right"><b>120</b></td>
+<td align="right">0</td>
+<td><sub>Buenos Aires, Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">234</td>
 <td><a href="https://github.com/MarcosMeli"><img src="https://avatars.githubusercontent.com/u/446796?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MarcosMeli"><b>Marcos Meli</b></a><br><sub>&#64;MarcosMeli</sub></td>
 <td align="right"><b>113</b></td>
 <td align="right">0</td>
 <td><sub>Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">201</td>
+<td align="right">235</td>
 <td><a href="https://github.com/andmarti1424"><img src="https://avatars.githubusercontent.com/u/9466161?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andmarti1424"><b>Andrés Gustavo Martinelli</b></a><br><sub>&#64;andmarti1424</sub></td>
 <td align="right"><b>112</b></td>
 <td align="right">0</td>
 <td><sub>Buenos Aires - Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">202</td>
+<td align="right">236</td>
+<td><a href="https://github.com/rodralez"><img src="https://avatars.githubusercontent.com/u/5432060?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rodralez"><b>Rodrigo Gonzalez, Ph.D.</b></a><br><sub>&#64;rodralez</sub></td>
+<td align="right"><b>108</b></td>
+<td align="right">0</td>
+<td><sub>Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">237</td>
 <td><a href="https://github.com/matiasbattocchia"><img src="https://avatars.githubusercontent.com/u/1680251?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/matiasbattocchia"><b>Matías Battocchia</b></a><br><sub>&#64;matiasbattocchia</sub></td>
 <td align="right"><b>107</b></td>
 <td align="right">0</td>
 <td><sub>Mendoza, Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">203</td>
+<td align="right">238</td>
 <td><a href="https://github.com/fedecaccia"><img src="https://avatars.githubusercontent.com/u/17413112?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fedecaccia"><b>Federico Caccia</b></a><br><sub>&#64;fedecaccia</sub></td>
 <td align="right"><b>103</b></td>
 <td align="right">0</td>
 <td><sub>Buenos Aires</sub></td>
 </tr>
 <tr>
-<td align="right">204</td>
+<td align="right">239</td>
 <td><a href="https://github.com/guarinogabriel"><img src="https://avatars.githubusercontent.com/u/1928452?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/guarinogabriel"><b>Gabriel Guarino</b></a><br><sub>&#64;guarinogabriel</sub></td>
 <td align="right"><b>102</b></td>
 <td align="right">0</td>
 <td><sub>Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">205</td>
+<td align="right">240</td>
 <td><a href="https://github.com/FlyingPumba"><img src="https://avatars.githubusercontent.com/u/1159078?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FlyingPumba"><b>Iván Arcuschin</b></a><br><sub>&#64;FlyingPumba</sub></td>
 <td align="right"><b>101</b></td>
 <td align="right">0</td>
 <td><sub>Buenos Aires, Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">206</td>
+<td align="right">241</td>
 <td><a href="https://github.com/aaaguirrep"><img src="https://avatars.githubusercontent.com/u/38407321?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aaaguirrep"><b>Arsenio Aguirre</b></a><br><sub>&#64;aaaguirrep</sub></td>
 <td align="right"><b>100</b></td>
 <td align="right">0</td>
 <td><sub>Buenos Aires</sub></td>
 </tr>
 <tr>
-<td align="right">207</td>
+<td align="right">242</td>
 <td><a href="https://github.com/asternic"><img src="https://avatars.githubusercontent.com/u/25182694?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asternic"><b>Nicolas</b></a><br><sub>&#64;asternic</sub></td>
 <td align="right"><b>99</b></td>
 <td align="right">0</td>
 <td><sub>Buenos Aires - Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">208</td>
+<td align="right">243</td>
 <td><a href="https://github.com/silvestreh"><img src="https://avatars.githubusercontent.com/u/1133339?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/silvestreh"><b>Silvestre Herrera</b></a><br><sub>&#64;silvestreh</sub></td>
 <td align="right"><b>93</b></td>
 <td align="right">0</td>
 <td><sub>El Bolsón, Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">209</td>
+<td align="right">244</td>
 <td><a href="https://github.com/zzzeyez"><img src="https://avatars.githubusercontent.com/u/24757574?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zzzeyez"><b>Daniel Neemann</b></a><br><sub>&#64;zzzeyez</sub></td>
 <td align="right"><b>91</b></td>
 <td align="right">0</td>
 <td><sub>Santa Fe</sub></td>
 </tr>
 <tr>
-<td align="right">210</td>
+<td align="right">245</td>
+<td><a href="https://github.com/emilioastarita"><img src="https://avatars.githubusercontent.com/u/281727?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/emilioastarita"><b>Emilio Astarita</b></a><br><sub>&#64;emilioastarita</sub></td>
+<td align="right"><b>82</b></td>
+<td align="right">0</td>
+<td><sub>Buenos Aires, Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">246</td>
 <td><a href="https://github.com/snowarch"><img src="https://avatars.githubusercontent.com/u/190140834?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/snowarch"><b>SnowF</b></a><br><sub>&#64;snowarch</sub></td>
 <td align="right"><b>82</b></td>
 <td align="right">0</td>
 <td><sub>Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">211</td>
+<td align="right">247</td>
 <td><a href="https://github.com/lucaspulliese"><img src="https://avatars.githubusercontent.com/u/15676286?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lucaspulliese"><b>Lucas Pulliese</b></a><br><sub>&#64;lucaspulliese</sub></td>
 <td align="right"><b>74</b></td>
 <td align="right">0</td>
 <td><sub>Rosario, Santa Fe, Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">212</td>
+<td align="right">248</td>
 <td><a href="https://github.com/koalazak"><img src="https://avatars.githubusercontent.com/u/8185092?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/koalazak"><b>Facu ZAK</b></a><br><sub>&#64;koalazak</sub></td>
 <td align="right"><b>72</b></td>
 <td align="right">0</td>
 <td><sub>Argentina, Ciudad de Buenos Aires</sub></td>
 </tr>
 <tr>
-<td align="right">213</td>
+<td align="right">249</td>
+<td><a href="https://github.com/PandaFoss"><img src="https://avatars.githubusercontent.com/u/6508835?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PandaFoss"><b>Max Ferrer</b></a><br><sub>&#64;PandaFoss</sub></td>
+<td align="right"><b>71</b></td>
+<td align="right">0</td>
+<td><sub>Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">250</td>
 <td><a href="https://github.com/CharlesWiltgen"><img src="https://avatars.githubusercontent.com/u/6807178?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CharlesWiltgen"><b>Charles Wiltgen</b></a><br><sub>&#64;CharlesWiltgen</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">0</td>
 <td><sub>San Diego-y</sub></td>
 </tr>
 <tr>
-<td align="right">214</td>
+<td align="right">251</td>
 <td><a href="https://github.com/codedgar"><img src="https://avatars.githubusercontent.com/u/31428205?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codedgar"><b>Edgar Pérez</b></a><br><sub>&#64;codedgar</sub></td>
 <td align="right"><b>68</b></td>
 <td align="right">0</td>
 <td><sub>Buenos Aires, Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">215</td>
+<td align="right">252</td>
 <td><a href="https://github.com/albertito"><img src="https://avatars.githubusercontent.com/u/2924?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/albertito"><b>Alberto Bertogli</b></a><br><sub>&#64;albertito</sub></td>
 <td align="right"><b>65</b></td>
 <td align="right">0</td>
 <td><sub>Pinamar, Buenos Aires, Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">216</td>
+<td align="right">253</td>
+<td><a href="https://github.com/ckaiser"><img src="https://avatars.githubusercontent.com/u/138269?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ckaiser"><b>Christian Kaiser</b></a><br><sub>&#64;ckaiser</sub></td>
+<td align="right"><b>64</b></td>
+<td align="right">0</td>
+<td><sub>Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">254</td>
 <td><a href="https://github.com/geedmo"><img src="https://avatars.githubusercontent.com/u/3003670?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/geedmo"><b>geedmo</b></a><br><sub>&#64;geedmo</sub></td>
 <td align="right"><b>64</b></td>
 <td align="right">0</td>
 <td><sub>Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">217</td>
+<td align="right">255</td>
+<td><a href="https://github.com/jeffersonlicet"><img src="https://avatars.githubusercontent.com/u/3386859?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jeffersonlicet"><b>Jefferson Licet</b></a><br><sub>&#64;jeffersonlicet</sub></td>
+<td align="right"><b>64</b></td>
+<td align="right">0</td>
+<td><sub>Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">256</td>
 <td><a href="https://github.com/rolodato"><img src="https://avatars.githubusercontent.com/u/829698?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rolodato"><b>Rodrigo López Dato</b></a><br><sub>&#64;rolodato</sub></td>
 <td align="right"><b>60</b></td>
 <td align="right">0</td>
 <td><sub>Buenos Aires Province, Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">218</td>
+<td align="right">257</td>
+<td><a href="https://github.com/tipoqueno"><img src="https://avatars.githubusercontent.com/u/207375?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tipoqueno"><b>Eugenio Monforte</b></a><br><sub>&#64;tipoqueno</sub></td>
+<td align="right"><b>55</b></td>
+<td align="right">0</td>
+<td><sub>Mendoza, Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">258</td>
+<td><a href="https://github.com/6eer"><img src="https://avatars.githubusercontent.com/u/43959491?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/6eer"><b>6eer</b></a><br><sub>&#64;6eer</sub></td>
+<td align="right"><b>53</b></td>
+<td align="right">0</td>
+<td><sub>Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">259</td>
 <td><a href="https://github.com/eafer"><img src="https://avatars.githubusercontent.com/u/38570712?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eafer"><b>Ernesto Fernández</b></a><br><sub>&#64;eafer</sub></td>
 <td align="right"><b>53</b></td>
 <td align="right">0</td>
 <td><sub>Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">219</td>
+<td align="right">260</td>
+<td><a href="https://github.com/fedeisas"><img src="https://avatars.githubusercontent.com/u/251675?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fedeisas"><b>Fede Isas</b></a><br><sub>&#64;fedeisas</sub></td>
+<td align="right"><b>53</b></td>
+<td align="right">0</td>
+<td><sub>Buenos Aires, Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">261</td>
 <td><a href="https://github.com/leandr0ck"><img src="https://avatars.githubusercontent.com/u/1163315?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leandr0ck"><b>Leandro Cabrera</b></a><br><sub>&#64;leandr0ck</sub></td>
 <td align="right"><b>50</b></td>
 <td align="right">0</td>
 <td><sub>Tandil, Buenos Aires, Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">220</td>
+<td align="right">262</td>
+<td><a href="https://github.com/matiasmascioto"><img src="https://avatars.githubusercontent.com/u/5489787?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/matiasmascioto"><b>Matias Mascioto</b></a><br><sub>&#64;matiasmascioto</sub></td>
+<td align="right"><b>50</b></td>
+<td align="right">0</td>
+<td><sub>Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">263</td>
 <td><a href="https://github.com/Haervwe"><img src="https://avatars.githubusercontent.com/u/31465508?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Haervwe"><b>Juan Jose Soliz Priore</b></a><br><sub>&#64;Haervwe</sub></td>
 <td align="right"><b>48</b></td>
 <td align="right">0</td>
 <td><sub>Mendoza, Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">221</td>
+<td align="right">264</td>
 <td><a href="https://github.com/neitanod"><img src="https://avatars.githubusercontent.com/u/2948958?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/neitanod"><b>Sebastián Grignoli</b></a><br><sub>&#64;neitanod</sub></td>
 <td align="right"><b>41</b></td>
 <td align="right">0</td>
 <td><sub>Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">222</td>
+<td align="right">265</td>
+<td><a href="https://github.com/bubudrc"><img src="https://avatars.githubusercontent.com/u/619159?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bubudrc"><b>Marcelo Perretta</b></a><br><sub>&#64;bubudrc</sub></td>
+<td align="right"><b>40</b></td>
+<td align="right">0</td>
+<td><sub>Rosario, Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">266</td>
 <td><a href="https://github.com/fjvallarino"><img src="https://avatars.githubusercontent.com/u/6565497?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fjvallarino"><b>Francisco Vallarino</b></a><br><sub>&#64;fjvallarino</sub></td>
 <td align="right"><b>39</b></td>
 <td align="right">0</td>
 <td><sub>Ciudad Autónoma de Buenos Aires, Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">223</td>
+<td align="right">267</td>
 <td><a href="https://github.com/alitto"><img src="https://avatars.githubusercontent.com/u/6876719?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alitto"><b>Alejandro Durante</b></a><br><sub>&#64;alitto</sub></td>
 <td align="right"><b>38</b></td>
 <td align="right">0</td>
 <td><sub>Azul, Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">224</td>
+<td align="right">268</td>
 <td><a href="https://github.com/AntonioTepsich"><img src="https://avatars.githubusercontent.com/u/104152654?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AntonioTepsich"><b>Antonio Tepsich</b></a><br><sub>&#64;AntonioTepsich</sub></td>
 <td align="right"><b>38</b></td>
 <td align="right">0</td>
 <td><sub>Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">225</td>
+<td align="right">269</td>
 <td><a href="https://github.com/bogkonstantin"><img src="https://avatars.githubusercontent.com/u/8061739?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bogkonstantin"><b>Konstantin Bogomolov</b></a><br><sub>&#64;bogkonstantin</sub></td>
 <td align="right"><b>38</b></td>
 <td align="right">0</td>
 <td><sub>Argentina, BA</sub></td>
 </tr>
 <tr>
-<td align="right">226</td>
+<td align="right">270</td>
 <td><a href="https://github.com/RainbowCookie32"><img src="https://avatars.githubusercontent.com/u/16805474?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RainbowCookie32"><b>Matias</b></a><br><sub>&#64;RainbowCookie32</sub></td>
 <td align="right"><b>34</b></td>
 <td align="right">0</td>
 <td><sub>Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">227</td>
+<td align="right">271</td>
+<td><a href="https://github.com/janoamaral"><img src="https://avatars.githubusercontent.com/u/10008708?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/janoamaral"><b>Alejandro Amaral</b></a><br><sub>&#64;janoamaral</sub></td>
+<td align="right"><b>27</b></td>
+<td align="right">0</td>
+<td><sub>San Carlos de Bolívar</sub></td>
+</tr>
+<tr>
+<td align="right">272</td>
 <td><a href="https://github.com/sdecima"><img src="https://avatars.githubusercontent.com/u/2659882?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sdecima"><b>Sebastián Décima</b></a><br><sub>&#64;sdecima</sub></td>
 <td align="right"><b>23</b></td>
 <td align="right">0</td>
 <td><sub>Rosario, Santa Fe, Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">228</td>
+<td align="right">273</td>
 <td><a href="https://github.com/marquete"><img src="https://avatars.githubusercontent.com/u/105701?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marquete"><b>marquete</b></a><br><sub>&#64;marquete</sub></td>
 <td align="right"><b>21</b></td>
 <td align="right">0</td>
 <td><sub>Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">229</td>
+<td align="right">274</td>
+<td><a href="https://github.com/pabloromeo"><img src="https://avatars.githubusercontent.com/u/41338020?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pabloromeo"><b>Pablo Romeo</b></a><br><sub>&#64;pabloromeo</sub></td>
+<td align="right"><b>17</b></td>
+<td align="right">0</td>
+<td><sub>Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">275</td>
+<td><a href="https://github.com/saabi"><img src="https://avatars.githubusercontent.com/u/1522062?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/saabi"><b>Sebastian Ferreyra</b></a><br><sub>&#64;saabi</sub></td>
+<td align="right"><b>13</b></td>
+<td align="right">0</td>
+<td><sub>Argentina</sub></td>
+</tr>
+<tr>
+<td align="right">276</td>
 <td><a href="https://github.com/vault-development"><img src="https://avatars.githubusercontent.com/u/33900556?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vault-development"><b>Vault</b></a><br><sub>&#64;vault-development</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
 <td><sub>Córdoba, Argentina</sub></td>
 </tr>
 <tr>
-<td align="right">230</td>
+<td align="right">277</td>
 <td><a href="https://github.com/ticianoromero"><img src="https://avatars.githubusercontent.com/u/171303645?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ticianoromero"><b>Ticiano Romero</b></a><br><sub>&#64;ticianoromero</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -1639,7 +1968,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 230 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 277 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 109 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

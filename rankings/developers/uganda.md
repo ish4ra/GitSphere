@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **17** | 22 Nov 2026 | <a href="../../data/developers/UG.json">JSON</a> |
+| 🟡 Provisional | **21** | 22 Nov 2026 | <a href="../../data/developers/UG.json">JSON</a> |
 
 </div>
 
@@ -140,6 +140,34 @@
 <td align="right">94</td>
 <td><sub>Adjumani uganda</sub></td>
 </tr>
+<tr>
+<td align="right">18</td>
+<td><a href="https://github.com/kbjude"><img src="https://avatars.githubusercontent.com/u/16952288?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kbjude"><b>kbjude</b></a><br><sub>&#64;kbjude</sub></td>
+<td align="right"><b>215</b></td>
+<td align="right">97</td>
+<td><sub>Kampala</sub></td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><a href="https://github.com/ceasor-elvis"><img src="https://avatars.githubusercontent.com/u/155080563?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ceasor-elvis"><b>Elvis Joseph Kawalya</b></a><br><sub>&#64;ceasor-elvis</sub></td>
+<td align="right"><b>209</b></td>
+<td align="right">19</td>
+<td><sub>Kampala, Uganda</sub></td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><a href="https://github.com/PerezChris99"><img src="https://avatars.githubusercontent.com/u/48088622?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PerezChris99"><b>Perez Chris</b></a><br><sub>&#64;PerezChris99</sub></td>
+<td align="right"><b>203</b></td>
+<td align="right">20</td>
+<td><sub>Kampala, Uganda</sub></td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><a href="https://github.com/mitalasamuel"><img src="https://avatars.githubusercontent.com/u/104533536?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mitalasamuel"><b>Mitala Samuel</b></a><br><sub>&#64;mitalasamuel</sub></td>
+<td align="right"><b>202</b></td>
+<td align="right">2</td>
+<td><sub>Kampala</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -148,7 +176,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 17 attributed developers are tracked; the cutoff is 231 followers.
+- Organizations are excluded. 21 attributed developers are tracked; the cutoff is 202 followers.
 - **Location discovery:** term 0 of 169 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

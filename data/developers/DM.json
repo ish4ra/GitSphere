@@ -5,7 +5,7 @@
 "country": {"code":"DM","name":"Dominica","slug":"dominica"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":91,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":18,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":91,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":18,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjg2ODUzMjEx","login":"josuejs23","name":null,"url":"https://github.com/josuejs23","avatarUrl":"https://avatars.githubusercontent.com/u/86853211?s=80&v=4","followers":20,"publicRepos":53,"location":"Dominica Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjE4MzM2OTIy","login":"Zormat","name":"Ivan Zorrilla Mateo","url":"https://github.com/Zormat","avatarUrl":"https://avatars.githubusercontent.com/u/18336922?s=80&v=4","followers":9,"publicRepos":11,"location":"Punta Cana, Dominica Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
@@ -13,10 +13,10 @@
   {"rank":4,"id":"MDQ6VXNlcjU4NjYwNTE3","login":"kingDebo","name":"Debo","url":"https://github.com/kingDebo","avatarUrl":"https://avatars.githubusercontent.com/u/58660517?s=80&v=4","followers":6,"publicRepos":18,"location":"Dominica, Caribbean","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":5,"id":"U_kgDODIKC_g","login":"jaimonorle","name":"Jaimon Orlé","url":"https://github.com/jaimonorle","avatarUrl":"https://avatars.githubusercontent.com/u/209879806?s=80&v=4","followers":6,"publicRepos":3,"location":"Dominica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":6,"id":"MDQ6VXNlcjQ0NTc5NDE1","login":"AdrielMinyety","name":"Adriel Minyety Gonzalez","url":"https://github.com/AdrielMinyety","avatarUrl":"https://avatars.githubusercontent.com/u/44579415?s=80&v=4","followers":4,"publicRepos":24,"location":"República Dominica/ Santo Domingo","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
-  {"rank":7,"id":"U_kgDODr9WUQ","login":"xeno3dev","name":"Aylon Johnson","url":"https://github.com/xeno3dev","avatarUrl":"https://avatars.githubusercontent.com/u/247420497?s=80&v=4","followers":4,"publicRepos":15,"location":"Dominica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":7,"id":"U_kgDODr9WUQ","login":"xeno3dev","name":"Aylon Johnson","url":"https://github.com/xeno3dev","avatarUrl":"https://avatars.githubusercontent.com/u/247420497?s=80&v=4","followers":4,"publicRepos":15,"location":"Dominica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
   {"rank":8,"id":"MDQ6VXNlcjY3Mjk4Nzkw","login":"Emmanuel767-byte","name":"Emmanuel","url":"https://github.com/Emmanuel767-byte","avatarUrl":"https://avatars.githubusercontent.com/u/67298790?s=80&v=4","followers":3,"publicRepos":27,"location":"Dominica, The Caribbean","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":9,"id":"MDQ6VXNlcjkwMzcyNzk4","login":"jaheemprevost","name":"Jaheem Prevost","url":"https://github.com/jaheemprevost","avatarUrl":"https://avatars.githubusercontent.com/u/90372798?s=80&v=4","followers":3,"publicRepos":24,"location":"Dominica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
-  {"rank":10,"id":"MDQ6VXNlcjUyMTA1MTU=","login":"daedwards767","name":"Davidson Edwards","url":"https://github.com/daedwards767","avatarUrl":"https://avatars.githubusercontent.com/u/5210515?s=80&v=4","followers":3,"publicRepos":12,"location":"Commonwealth of Dominica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":10,"id":"MDQ6VXNlcjUyMTA1MTU=","login":"daedwards767","name":"Davidson Edwards","url":"https://github.com/daedwards767","avatarUrl":"https://avatars.githubusercontent.com/u/5210515?s=80&v=4","followers":3,"publicRepos":12,"location":"Commonwealth of Dominica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
   {"rank":11,"id":"MDQ6VXNlcjIyNDg3MDAw","login":"PabloAlmonte","name":"Pablo Junior Almonte Avila","url":"https://github.com/PabloAlmonte","avatarUrl":"https://avatars.githubusercontent.com/u/22487000?s=80&v=4","followers":3,"publicRepos":7,"location":"Republica Dominica, Santo Domingo","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":12,"id":"MDQ6VXNlcjY0NzUwMTA4","login":"Nexxus-LMT","name":"WaitukuNexx","url":"https://github.com/Nexxus-LMT","avatarUrl":"https://avatars.githubusercontent.com/u/64750108?s=80&v=4","followers":2,"publicRepos":209,"location":"Dominica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":13,"id":"MDQ6VXNlcjQ3MDIyNjk=","login":"bowetech","name":"Clive Stewart","url":"https://github.com/bowetech","avatarUrl":"https://avatars.githubusercontent.com/u/4702269?s=80&v=4","followers":2,"publicRepos":18,"location":"Dominica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
@@ -99,8 +99,8 @@
   {"rank":90,"id":"U_kgDODrm6Bw","login":"x0n3y","name":"Ewing Cruz","url":"https://github.com/x0n3y","avatarUrl":"https://avatars.githubusercontent.com/u/247052807?s=80&v=4","followers":0,"publicRepos":0,"location":"Dominica Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":91,"id":"U_kgDOFPSDHg","login":"zekeriyacalisir38-code","name":"Uney Lim","url":"https://github.com/zekeriyacalisir38-code","avatarUrl":"https://avatars.githubusercontent.com/u/351568670?s=80&v=4","followers":0,"publicRepos":0,"location":"Dominica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "fab48301586de2af",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "af78a079c3416661",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

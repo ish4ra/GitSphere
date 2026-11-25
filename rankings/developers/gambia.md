@@ -296,52 +296,52 @@
 </tr>
 <tr>
 <td align="right">40</td>
-<td><a href="https://github.com/C-Jalloh"><img src="https://avatars.githubusercontent.com/u/100509637?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/C-Jalloh"><b>Ebrima S Jallow</b></a><br><sub>&#64;C-Jalloh</sub></td>
-<td align="right"><b>7</b></td>
-<td align="right">64</td>
-<td><sub>the Gambia</sub></td>
-</tr>
-<tr>
-<td align="right">41</td>
 <td><a href="https://github.com/cyberdavinci"><img src="https://avatars.githubusercontent.com/u/116584020?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cyberdavinci"><b>CyberDavinci</b></a><br><sub>&#64;cyberdavinci</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">30</td>
 <td><sub>Gambia</sub></td>
 </tr>
 <tr>
-<td align="right">42</td>
+<td align="right">41</td>
 <td><a href="https://github.com/thanos14million605"><img src="https://avatars.githubusercontent.com/u/217688750?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thanos14million605"><b>Ebrima Gajaga</b></a><br><sub>&#64;thanos14million605</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">12</td>
 <td><sub>Brikama, Gambia</sub></td>
 </tr>
 <tr>
-<td align="right">43</td>
+<td align="right">42</td>
 <td><a href="https://github.com/molaminJabbi"><img src="https://avatars.githubusercontent.com/u/178023784?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/molaminJabbi"><b>Muhammed Lamin Jabbi</b></a><br><sub>&#64;molaminJabbi</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">8</td>
 <td><sub>Faraba, WCR, The Gambia</sub></td>
 </tr>
 <tr>
-<td align="right">44</td>
+<td align="right">43</td>
 <td><a href="https://github.com/Sissoho4pf"><img src="https://avatars.githubusercontent.com/u/110915552?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sissoho4pf"><b>Ismail sissoho</b></a><br><sub>&#64;Sissoho4pf</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">1</td>
 <td><sub>The Gambia</sub></td>
 </tr>
 <tr>
-<td align="right">45</td>
+<td align="right">44</td>
 <td><a href="https://github.com/gambiaplay"><img src="https://avatars.githubusercontent.com/u/197351583?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gambiaplay"><b>Gambia Play</b></a><br><sub>&#64;gambiaplay</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">0</td>
 <td><sub>Banjulinding, The Gambia</sub></td>
 </tr>
 <tr>
-<td align="right">46</td>
+<td align="right">45</td>
 <td><a href="https://github.com/Dion-verse"><img src="https://avatars.githubusercontent.com/u/246143059?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dion-verse"><b>Dawda Mbowe</b></a><br><sub>&#64;Dion-verse</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">81</td>
 <td><sub>gambia</sub></td>
+</tr>
+<tr>
+<td align="right">46</td>
+<td><a href="https://github.com/C-Jalloh"><img src="https://avatars.githubusercontent.com/u/100509637?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/C-Jalloh"><b>Ebrima S Jallow</b></a><br><sub>&#64;C-Jalloh</sub></td>
+<td align="right"><b>6</b></td>
+<td align="right">64</td>
+<td><sub>the Gambia</sub></td>
 </tr>
 <tr>
 <td align="right">47</td>

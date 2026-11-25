@@ -32,7 +32,7 @@
 <td align="right">2</td>
 <td><a href="https://github.com/dansiegel"><img src="https://avatars.githubusercontent.com/u/3860573?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dansiegel"><b>Dan Siegel</b></a><br><sub>&#64;dansiegel</sub></td>
 <td align="right"><b>513</b></td>
-<td align="right">109</td>
+<td align="right">110</td>
 <td><sub>Roatan, Honduras</sub></td>
 </tr>
 <tr>

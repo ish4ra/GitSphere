@@ -3,9 +3,9 @@
 "mode": "repositories",
 "methodologyVersion": "1.0.0",
 "country": {"code":"AE","name":"United Arab Emirates","slug":"united-arab-emirates"},
-"status": "provisional",
+"status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":654,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":119,"candidates":101,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":98,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":654,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":119,"candidates":120,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":98,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDONmu-ag","name":"pentagi","nameWithOwner":"vxcontrol/pentagi","url":"https://github.com/vxcontrol/pentagi","description":"Fully autonomous AI Agents system capable of performing complex penetration testing tasks","stars":34783,"forks":5553,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2025-01-06T22:22:48Z","pushedAt":"2026-11-13T23:40:49Z","archived":false,"owner":{"login":"vxcontrol","name":"VXControl","type":"Organization","url":"https://github.com/vxcontrol","location":"United Arab Emirates","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"R_kgDOVbNNlg","name":"misterdownloadmanager","nameWithOwner":"anefzaoui/misterdownloadmanager","url":"https://github.com/anefzaoui/misterdownloadmanager","description":"misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux","stars":16212,"forks":1389,"primaryLanguage":"Rust","license":{"spdxId":"GPL-3.0"},"createdAt":"2026-10-29T01:25:19Z","pushedAt":"2026-11-22T10:15:34Z","archived":false,"owner":{"login":"anefzaoui","name":"Ahmed Nefzaoui","type":"User","url":"https://github.com/anefzaoui","location":"Dubai, UAE","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"MDEwOlJlcG9zaXRvcnk2MTI2OTIwNA==","name":"laravel-repositories","nameWithOwner":"rinvex/laravel-repositories","url":"https://github.com/rinvex/laravel-repositories","description":"⚠️ [ABANDONED] Rinvex Repository is a simple, intuitive, and smart implementation of Active Repository with extremely flexible & granular caching system for La…","stars":666,"forks":110,"primaryLanguage":"PHP","license":{"spdxId":"MIT"},"createdAt":"2016-06-16T06:49:57Z","pushedAt":"2020-05-31T01:02:40Z","archived":true,"owner":{"login":"rinvex","name":"Rinvex","type":"Organization","url":"https://github.com/rinvex","location":"Dubai, UAE","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-24"},
   {"rank":100,"id":"MDEwOlJlcG9zaXRvcnkxOTM1NDkyMA==","name":"NeoEloquent","nameWithOwner":"Vinelab/NeoEloquent","url":"https://github.com/Vinelab/NeoEloquent","description":"The Neo4j OGM for Laravel","stars":654,"forks":193,"primaryLanguage":"PHP","license":{"spdxId":"MIT"},"createdAt":"2014-05-01T19:19:50Z","pushedAt":"2025-02-11T03:43:14Z","archived":false,"owner":{"login":"Vinelab","name":"Sociata","type":"Organization","url":"https://github.com/Vinelab","location":"Dubai, U.A.E","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "8acf5e2f84737d5c",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "27ef9c8050e581ff",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

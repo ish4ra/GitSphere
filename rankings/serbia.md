@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **68** | 22 Nov 2026 | <a href="../data/RS.json">JSON</a> |
+| 🟡 Provisional | **79** | 22 Nov 2026 | <a href="../data/RS.json">JSON</a> |
 
 </div>
 
@@ -497,6 +497,83 @@
 <td align="right">16</td>
 <td>Shell</td>
 </tr>
+<tr>
+<td align="right">69</td>
+<td><img src="https://github.com/bobangajicsm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bobangajicsm/react-portfolio-website"><b>bobangajicsm/react-portfolio-website</b></a></td>
+<td align="right"><b>650</b></td>
+<td align="right">774</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/gen2brain.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gen2brain/go-fitz"><b>gen2brain/go-fitz</b></a><br><sub>Golang wrapper for the MuPDF Fitz library</sub></td>
+<td align="right"><b>646</b></td>
+<td align="right">138</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/Vivify-Ideas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Vivify-Ideas/nestjs-boilerplate"><b>Vivify-Ideas/nestjs-boilerplate</b></a><br><sub>NestJS Boilerplate 😻(Authentication, TypeORM, Configuration, Swagger)</sub></td>
+<td align="right"><b>646</b></td>
+<td align="right">92</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><img src="https://github.com/bojanz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bojanz/currency"><b>bojanz/currency</b></a><br><sub>Currency handling for Go.</sub></td>
+<td align="right"><b>643</b></td>
+<td align="right">58</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><img src="https://github.com/mohamed-taman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mohamed-taman/Springy-Store-Microservices"><b>mohamed-taman/Springy-Store-Microservices</b></a><br><sub>Springy Store is a conceptual simple μServices-based project using the latest cutting-edge technologies, to demonstrate…</sub></td>
+<td align="right"><b>636</b></td>
+<td align="right">200</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/misa-j.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/misa-j/social-network"><b>misa-j/social-network</b></a><br><sub>Mini social network that I made as my first web app project.</sub></td>
+<td align="right"><b>635</b></td>
+<td align="right">135</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/slevithan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/slevithan/regex"><b>slevithan/regex</b></a><br><sub>JS regexes ➕ future. A template tag for readable, high-performance, native JS regexes with extended syntax, context-awa…</sub></td>
+<td align="right"><b>634</b></td>
+<td align="right">16</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/ClusterM.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ClusterM/open-bamboo-networking"><b>ClusterM/open-bamboo-networking</b></a><br><sub>Open-source drop-in replacement for Bambu Studio&#39;s proprietary &#96;bambu&#95;networking&#96; plugin.</sub></td>
+<td align="right"><b>629</b></td>
+<td align="right">152</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/itechmeat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/itechmeat/open-second-brain"><b>itechmeat/open-second-brain</b></a><br><sub>Local-first 🧠 memory for Hermes Agent that lives in your Obsidian vault and remembers project context. Nightly 😴 drea…</sub></td>
+<td align="right"><b>618</b></td>
+<td align="right">85</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/Tenderly.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Tenderly/tenderly-cli"><b>Tenderly/tenderly-cli</b></a><br><sub>CLI tool for Smart Contract error tracking, monitoring and alerting.</sub></td>
+<td align="right"><b>591</b></td>
+<td align="right">185</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/stn1slv.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stn1slv/awesome-integration"><b>stn1slv/awesome-integration</b></a><br><sub>A curated list of awesome system integration software and resources.</sub></td>
+<td align="right"><b>572</b></td>
+<td align="right">96</td>
+<td>Markdown</td>
+</tr>
 </tbody>
 </table>
 
@@ -505,7 +582,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 688 stars; 68 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 572 stars; 79 attributed candidates are tracked.
 - 1 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 148 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

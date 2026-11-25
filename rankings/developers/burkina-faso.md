@@ -667,114 +667,114 @@
 </tr>
 <tr>
 <td align="right">93</td>
-<td><a href="https://github.com/EmileNapon"><img src="https://avatars.githubusercontent.com/u/132197142?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EmileNapon"><b>Emile Napon</b></a><br><sub>&#64;EmileNapon</sub></td>
-<td align="right"><b>6</b></td>
-<td align="right">73</td>
-<td><sub>Burkina Faso</sub></td>
-</tr>
-<tr>
-<td align="right">94</td>
 <td><a href="https://github.com/HamedSawadogo"><img src="https://avatars.githubusercontent.com/u/102871528?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HamedSawadogo"><b>Hamed Sawadogo</b></a><br><sub>&#64;HamedSawadogo</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">66</td>
 <td><sub>Ouagadougou Burkina-Faso</sub></td>
 </tr>
 <tr>
-<td align="right">95</td>
+<td align="right">94</td>
 <td><a href="https://github.com/ISSAKAO"><img src="https://avatars.githubusercontent.com/u/7040192?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ISSAKAO"><b>Issaka OUEDRAOGO</b></a><br><sub>&#64;ISSAKAO</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">42</td>
 <td><sub>Bobo-Dioulasso (Burkina Faso)</sub></td>
 </tr>
 <tr>
-<td align="right">96</td>
+<td align="right">95</td>
 <td><a href="https://github.com/nikiema-marius"><img src="https://avatars.githubusercontent.com/u/77323087?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nikiema-marius"><b>mario niki</b></a><br><sub>&#64;nikiema-marius</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">34</td>
 <td><sub>Burkina faso</sub></td>
 </tr>
 <tr>
-<td align="right">97</td>
+<td align="right">96</td>
 <td><a href="https://github.com/kassandejdk"><img src="https://avatars.githubusercontent.com/u/155750118?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kassandejdk"><b>KASSANDE Judicaël</b></a><br><sub>&#64;kassandejdk</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">22</td>
 <td><sub>Burkina Faso,Ouagadougou</sub></td>
 </tr>
 <tr>
-<td align="right">98</td>
+<td align="right">97</td>
 <td><a href="https://github.com/Jojoksv"><img src="https://avatars.githubusercontent.com/u/124268194?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jojoksv"><b>Joseph El-Rich Koffi Kossouvi</b></a><br><sub>&#64;Jojoksv</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">18</td>
 <td><sub>Burkina Faso</sub></td>
 </tr>
 <tr>
-<td align="right">99</td>
+<td align="right">98</td>
 <td><a href="https://github.com/Yves2110"><img src="https://avatars.githubusercontent.com/u/99992535?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Yves2110"><b>KABORE Ismaël Yves</b></a><br><sub>&#64;Yves2110</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">17</td>
 <td><sub>OUAGADOUGOU, BURKINA-Faso</sub></td>
 </tr>
 <tr>
-<td align="right">100</td>
+<td align="right">99</td>
 <td><a href="https://github.com/kak1219Coder"><img src="https://avatars.githubusercontent.com/u/137815204?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kak1219Coder"><b>KONE Abdoul Kader</b></a><br><sub>&#64;kak1219Coder</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">16</td>
 <td><sub>Burkina faso</sub></td>
 </tr>
 <tr>
-<td align="right">101</td>
+<td align="right">100</td>
 <td><a href="https://github.com/Lalabrook"><img src="https://avatars.githubusercontent.com/u/78312351?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lalabrook"><b>Childeric Kiswendsida Yameogo</b></a><br><sub>&#64;Lalabrook</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">13</td>
 <td><sub>Burkina Faso</sub></td>
 </tr>
 <tr>
-<td align="right">102</td>
+<td align="right">101</td>
 <td><a href="https://github.com/MoctarCompaore"><img src="https://avatars.githubusercontent.com/u/51692324?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MoctarCompaore"><b>Moctar COMPAORE</b></a><br><sub>&#64;MoctarCompaore</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">11</td>
 <td><sub>Ouagadougou/ Burkina Faso</sub></td>
 </tr>
 <tr>
-<td align="right">103</td>
+<td align="right">102</td>
 <td><a href="https://github.com/cedricbere"><img src="https://avatars.githubusercontent.com/u/1208618?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cedricbere"><b>cedricbere</b></a><br><sub>&#64;cedricbere</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">10</td>
 <td><sub>Burkina Faso</sub></td>
 </tr>
 <tr>
-<td align="right">104</td>
+<td align="right">103</td>
 <td><a href="https://github.com/simporeelie"><img src="https://avatars.githubusercontent.com/u/145849855?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/simporeelie"><b>Simpore Elie</b></a><br><sub>&#64;simporeelie</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">10</td>
 <td><sub>Burkina faso</sub></td>
 </tr>
 <tr>
-<td align="right">105</td>
+<td align="right">104</td>
 <td><a href="https://github.com/keitre50"><img src="https://avatars.githubusercontent.com/u/25507005?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/keitre50"><b>Rouamba abdel aziz</b></a><br><sub>&#64;keitre50</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">5</td>
 <td><sub>Burkina faso</sub></td>
 </tr>
 <tr>
-<td align="right">106</td>
+<td align="right">105</td>
 <td><a href="https://github.com/stvsank"><img src="https://avatars.githubusercontent.com/u/110704705?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stvsank"><b>Stvsank</b></a><br><sub>&#64;stvsank</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">5</td>
 <td><sub>Burkina Faso</sub></td>
 </tr>
 <tr>
-<td align="right">107</td>
+<td align="right">106</td>
 <td><a href="https://github.com/Jovite-COMPAORE"><img src="https://avatars.githubusercontent.com/u/274725612?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jovite-COMPAORE"><b>Jovite COMPAORE</b></a><br><sub>&#64;Jovite-COMPAORE</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">2</td>
 <td><sub>Burkina Faso</sub></td>
 </tr>
 <tr>
-<td align="right">108</td>
+<td align="right">107</td>
 <td><a href="https://github.com/tky0065"><img src="https://avatars.githubusercontent.com/u/90393229?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tky0065"><b>Enokdev</b></a><br><sub>&#64;tky0065</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">77</td>
+<td><sub>Burkina Faso</sub></td>
+</tr>
+<tr>
+<td align="right">108</td>
+<td><a href="https://github.com/EmileNapon"><img src="https://avatars.githubusercontent.com/u/132197142?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EmileNapon"><b>Emile Napon</b></a><br><sub>&#64;EmileNapon</sub></td>
+<td align="right"><b>5</b></td>
+<td align="right">73</td>
 <td><sub>Burkina Faso</sub></td>
 </tr>
 <tr>

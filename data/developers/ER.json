@@ -5,7 +5,7 @@
 "country": {"code":"ER","name":"Eritrea","slug":"eritrea"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":28,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":34,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":28,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":34,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjIwNDg4MDc5","login":"afatinong","name":"Afewerki Fkadu","url":"https://github.com/afatinong","avatarUrl":"https://avatars.githubusercontent.com/u/20488079?s=80&v=4","followers":8,"publicRepos":1,"location":"Eritrea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjM4NzYxMTY4","login":"aigemito","name":"Amanuel Isack Gebreendrias","url":"https://github.com/aigemito","avatarUrl":"https://avatars.githubusercontent.com/u/38761168?s=80&v=4","followers":5,"publicRepos":40,"location":"Asmara,Eritrea","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
@@ -31,13 +31,13 @@
   {"rank":22,"id":"U_kgDOCuPpWQ","login":"zeroprinmrzadrot","name":null,"url":"https://github.com/zeroprinmrzadrot","avatarUrl":"https://avatars.githubusercontent.com/u/182708569?s=80&v=4","followers":0,"publicRepos":3,"location":"Eritrea (ER)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":23,"id":"U_kgDOB7kx_A","login":"elpewpew","name":null,"url":"https://github.com/elpewpew","avatarUrl":"https://avatars.githubusercontent.com/u/129577468?s=80&v=4","followers":0,"publicRepos":2,"location":"Eritrea, papua nueva guinea 3","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":24,"id":"MDQ6VXNlcjI1ODI4OTQ3","login":"SamoneII","name":"Samuel","url":"https://github.com/SamoneII","avatarUrl":"https://avatars.githubusercontent.com/u/25828947?s=80&v=4","followers":0,"publicRepos":2,"location":"Eritrea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
-  {"rank":25,"id":"U_kgDOE0AFZQ","login":"SiemMeb","name":"Siem Mebrahtu","url":"https://github.com/SiemMeb","avatarUrl":"https://avatars.githubusercontent.com/u/322962789?s=80&v=4","followers":0,"publicRepos":2,"location":"Eritrea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":25,"id":"U_kgDOE0AFZQ","login":"SiemMeb","name":"Siem Mebrahtu","url":"https://github.com/SiemMeb","avatarUrl":"https://avatars.githubusercontent.com/u/322962789?s=80&v=4","followers":0,"publicRepos":2,"location":"Eritrea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
   {"rank":26,"id":"U_kgDODlK62g","login":"maryosu","name":"Mary","url":"https://github.com/maryosu","avatarUrl":"https://avatars.githubusercontent.com/u/240302810?s=80&v=4","followers":0,"publicRepos":1,"location":"Eritrea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":27,"id":"MDQ6VXNlcjcxMzk0NzE3","login":"MAYDIMA","name":null,"url":"https://github.com/MAYDIMA","avatarUrl":"https://avatars.githubusercontent.com/u/71394717?s=80&v=4","followers":0,"publicRepos":0,"location":"ERITREA","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":28,"id":"U_kgDOCTIgdw","login":"Momochallange","name":"Momochallange","url":"https://github.com/Momochallange","avatarUrl":"https://avatars.githubusercontent.com/u/154280055?s=80&v=4","followers":0,"publicRepos":0,"location":"Eritrea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "2aad5714fb4acd4e",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "6b3905a2757ed5a3",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

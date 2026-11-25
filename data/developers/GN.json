@@ -17,7 +17,7 @@
   {"rank":8,"id":"MDQ6VXNlcjYxMDU0NDgy","login":"korbonya","name":"Mamadou Alpha Baldé","url":"https://github.com/korbonya","avatarUrl":"https://avatars.githubusercontent.com/u/61054482?s=80&v=4","followers":32,"publicRepos":57,"location":"Conakry","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
   {"rank":9,"id":"MDQ6VXNlcjMyODM4NzMw","login":"hams94","name":"Hamidou Bah","url":"https://github.com/hams94","avatarUrl":"https://avatars.githubusercontent.com/u/32838730?s=80&v=4","followers":30,"publicRepos":24,"location":"Guinée, Conakry, GN","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":10,"id":"MDQ6VXNlcjE0MjkyMjQ2","login":"moudjames23","name":"Mamoudou Diallo","url":"https://github.com/moudjames23","avatarUrl":"https://avatars.githubusercontent.com/u/14292246?s=80&v=4","followers":28,"publicRepos":13,"location":"Guinea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
-  {"rank":11,"id":"MDQ6VXNlcjE2ODQ5NDI2","login":"fiicode","name":"fiicode","url":"https://github.com/fiicode","avatarUrl":"https://avatars.githubusercontent.com/u/16849426?s=80&v=4","followers":26,"publicRepos":62,"location":"Guinea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":11,"id":"MDQ6VXNlcjE2ODQ5NDI2","login":"fiicode","name":"fiicode","url":"https://github.com/fiicode","avatarUrl":"https://avatars.githubusercontent.com/u/16849426?s=80&v=4","followers":25,"publicRepos":62,"location":"Guinea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
   {"rank":12,"id":"U_kgDODsC4Jw","login":"nlbkc2025-cell","name":"Nabybk","url":"https://github.com/nlbkc2025-cell","avatarUrl":"https://avatars.githubusercontent.com/u/247511079?s=80&v=4","followers":25,"publicRepos":2,"location":"Conakry","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
   {"rank":13,"id":"MDQ6VXNlcjE2MTE4Mjk2","login":"TheBlackDude","name":"Ousmane Seidy Diallo","url":"https://github.com/TheBlackDude","avatarUrl":"https://avatars.githubusercontent.com/u/16118296?s=80&v=4","followers":24,"publicRepos":61,"location":"Guinea, Conakry","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":14,"id":"MDQ6VXNlcjM3NDkyNjcz","login":"thebestofAKB","name":"Abdoul Karim Baldé","url":"https://github.com/thebestofAKB","avatarUrl":"https://avatars.githubusercontent.com/u/37492673?s=80&v=4","followers":24,"publicRepos":27,"location":"Conakry, Guinea","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
@@ -318,8 +318,8 @@
   {"rank":309,"id":"U_kgDODbZYHA","login":"dkjalindu-prog","name":"JALINDU IT SERVICE","url":"https://github.com/dkjalindu-prog","avatarUrl":"https://avatars.githubusercontent.com/u/230053916?s=80&v=4","followers":0,"publicRepos":0,"location":"Goroka Papua New Guinea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":310,"id":"U_kgDODxVTfA","login":"yuhtechmultiservices-rgb","name":"YUHTECH-MULTISERVICES","url":"https://github.com/yuhtechmultiservices-rgb","avatarUrl":"https://avatars.githubusercontent.com/u/253055868?s=80&v=4","followers":0,"publicRepos":0,"location":"MALABO EQUATORIAL GUINEA","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "f113401d450a0808",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "4a0fbd4490f1c14c",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

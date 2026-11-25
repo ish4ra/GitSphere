@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **31** | 22 Nov 2026 | <a href="../../data/developers/VI.json">JSON</a> |
+| 🟡 Provisional | **31** | 23 Nov 2026 | <a href="../../data/developers/VI.json">JSON</a> |
 
 </div>
 

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/developers/ZW.json">JSON</a> |
+| 🟡 Provisional | **12** | 22 Nov 2026 | <a href="../../data/developers/ZW.json">JSON</a> |
 
 </div>
 
@@ -72,13 +72,34 @@
 </tr>
 <tr>
 <td align="right">8</td>
+<td><a href="https://github.com/kculz"><img src="https://avatars.githubusercontent.com/u/52626263?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kculz"><b>Kudzai Munyama</b></a><br><sub>&#64;kculz</sub></td>
+<td align="right"><b>202</b></td>
+<td align="right">65</td>
+<td><sub>Mutare, Zimbabwe</sub></td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><a href="https://github.com/skyridertk"><img src="https://avatars.githubusercontent.com/u/18192375?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/skyridertk"><b>Tanaka I Kahwai</b></a><br><sub>&#64;skyridertk</sub></td>
+<td align="right"><b>197</b></td>
+<td align="right">46</td>
+<td><sub>Harare, Zimbabwe</sub></td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/who0sy"><img src="https://avatars.githubusercontent.com/u/40428449?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/who0sy"><b>小二</b></a><br><sub>&#64;who0sy</sub></td>
+<td align="right"><b>195</b></td>
+<td align="right">312</td>
+<td><sub>Arcturus</sub></td>
+</tr>
+<tr>
+<td align="right">11</td>
 <td><a href="https://github.com/0771501771"><img src="https://avatars.githubusercontent.com/u/113898750?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0771501771"><b>Justice Shirichena</b></a><br><sub>&#64;0771501771</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Harare Zimbabwe</sub></td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">12</td>
 <td><a href="https://github.com/0774622896"><img src="https://avatars.githubusercontent.com/u/851431?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0774622896"><b>LUVEVE</b></a><br><sub>&#64;0774622896</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
@@ -92,7 +113,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 9 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 12 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 66 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

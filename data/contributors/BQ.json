@@ -5,7 +5,7 @@
 "country": {"code":"BQ","name":"Caribbean Netherlands","slug":"caribbean-netherlands"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":46,"measuredAccounts":15,"measurementBacklog":31,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":20,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":46,"measuredAccounts":17,"measurementBacklog":29,"window":{"from":"2025-11-22T11:00:00Z","to":"2026-11-22T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":20,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjEwODYzOTg4","login":"debruijn","name":"Bert de Bruijn","url":"https://github.com/debruijn","avatarUrl":"https://avatars.githubusercontent.com/u/10863988?s=80&v=4","followers":6,"publicRepos":26,"location":"Kralendijk","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22","contributions":{"public":190,"commits":174,"pullRequests":15,"reviews":0,"issues":1,"repositories":0,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":2,"id":"MDQ6VXNlcjU5MjAyMDQ4","login":"sandervdwnl","name":"Sander van der Windt","url":"https://github.com/sandervdwnl","avatarUrl":"https://avatars.githubusercontent.com/u/59202048?s=80&v=4","followers":0,"publicRepos":20,"location":"Bonaire, Caribbean Netherlands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":64,"commits":53,"pullRequests":8,"reviews":1,"issues":0,"repositories":2,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
@@ -13,8 +13,8 @@
   {"rank":4,"id":"MDQ6VXNlcjUwNTI5MzA5","login":"misterdallas","name":"Dallas Maltby","url":"https://github.com/misterdallas","avatarUrl":"https://avatars.githubusercontent.com/u/50529309?s=80&v=4","followers":1,"publicRepos":4,"location":"Bonaire, GA","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":9,"commits":8,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":5,"id":"MDQ6VXNlcjI3MDIyOTE=","login":"yes91","name":"Kieran Blazier","url":"https://github.com/yes91","avatarUrl":"https://avatars.githubusercontent.com/u/2702291?s=80&v=4","followers":10,"publicRepos":20,"location":"Bonaire, GA","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "55da951369127975",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "8c7faa9ea906b631",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

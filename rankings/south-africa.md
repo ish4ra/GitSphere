@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **48** | 22 Nov 2026 | <a href="../data/ZA.json">JSON</a> |
+| 🟡 Provisional | **56** | 22 Nov 2026 | <a href="../data/ZA.json">JSON</a> |
 
 </div>
 
@@ -357,6 +357,62 @@
 <td align="right">306</td>
 <td>Shell</td>
 </tr>
+<tr>
+<td align="right">49</td>
+<td><img src="https://github.com/darrenjacoby.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/darrenjacoby/intervention"><b>darrenjacoby/intervention</b></a><br><sub>WordPress plugin to configure wp-admin and application state using a single config file.</sub></td>
+<td align="right"><b>640</b></td>
+<td align="right">47</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><img src="https://github.com/rizonesoft.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rizonesoft/impossible-os"><b>rizonesoft/impossible-os</b></a><br><sub>A 64-bit operating system built from scratch for modern x86-64 hardware: UEFI boot, a compositing desktop, and a native…</sub></td>
+<td align="right"><b>620</b></td>
+<td align="right">25</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">51</td>
+<td><img src="https://github.com/ZubeidHendricks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ZubeidHendricks/youtube-mcp-server"><b>ZubeidHendricks/youtube-mcp-server</b></a><br><sub>MCP Server for YouTube API, enabling video management, Shorts creation, and advanced analytics</sub></td>
+<td align="right"><b>612</b></td>
+<td align="right">150</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><img src="https://github.com/FortuneN.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FortuneN/FineCodeCoverage"><b>FortuneN/FineCodeCoverage</b></a><br><sub>Visualize unit test code coverage easily for free in Visual Studio Community Edition (and other editions too)</sub></td>
+<td align="right"><b>605</b></td>
+<td align="right">48</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><img src="https://github.com/Louisvdw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Louisvdw/dbus-serialbattery"><b>Louisvdw/dbus-serialbattery</b></a><br><sub>Battery Monitor driver for serial battery in VenusOS GX systems</sub></td>
+<td align="right"><b>592</b></td>
+<td align="right">144</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><img src="https://github.com/williamhunter.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/williamhunter/topy"><b>williamhunter/topy</b></a><br><sub>Topology Optimization using Python</sub></td>
+<td align="right"><b>582</b></td>
+<td align="right">141</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/SFBdragon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SFBdragon/talc"><b>SFBdragon/talc</b></a><br><sub>A fast and flexible allocator for no&#95;std and WebAssembly</sub></td>
+<td align="right"><b>575</b></td>
+<td align="right">23</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><img src="https://github.com/tiaanduplessis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tiaanduplessis/kill-port"><b>tiaanduplessis/kill-port</b></a><br><sub>❌ Kill the process running on given port</sub></td>
+<td align="right"><b>573</b></td>
+<td align="right">44</td>
+<td>JavaScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -365,8 +421,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 663 stars; 48 attributed candidates are tracked.
-- 123 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 573 stars; 56 attributed candidates are tracked.
+- 121 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 144 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

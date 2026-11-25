@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/GL.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/GL.json">JSON</a> |
 
 </div>
 
@@ -79,6 +79,15 @@
 </tr>
 <tr>
 <td align="right">7</td>
+<td><a href="https://github.com/lupiic"><img src="https://avatars.githubusercontent.com/u/113922521?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lupiic"><b>Takayuki Horikawa</b></a><br><sub>&#64;lupiic · 1 followers</sub></td>
+<td align="right"><b>15</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">8</td>
 <td><a href="https://github.com/Jiiks"><img src="https://avatars.githubusercontent.com/u/1470024?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jiiks"><b>Alexei Stukov</b></a><br><sub>&#64;Jiiks · 294 followers</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">5</td>
@@ -87,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/Nelson-Cheung"><img src="https://avatars.githubusercontent.com/u/48144250?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nelson-Cheung"><b>Nelson Cheung</b></a><br><sub>&#64;Nelson-Cheung · 89 followers</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">8</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/Sniperkaos"><img src="https://avatars.githubusercontent.com/u/40675557?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sniperkaos"><b>cworldstar</b></a><br><sub>&#64;Sniperkaos · 5 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">1</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/ASGDLO"><img src="https://avatars.githubusercontent.com/u/32297705?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ASGDLO"><b>ASGDLO</b></a><br><sub>&#64;ASGDLO · 150 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
@@ -120,7 +129,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 12 of 158 discovered developers (146 awaiting measurement).
+- **Measured:** 13 of 158 discovered developers (145 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 1 of 36 in round 1.

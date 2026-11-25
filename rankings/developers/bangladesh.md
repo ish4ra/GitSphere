@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **391** | 22 Nov 2026 | <a href="../../data/developers/BD.json">JSON</a> |
+| 🟡 Provisional | **450** | 22 Nov 2026 | <a href="../../data/developers/BD.json">JSON</a> |
 
 </div>
 
@@ -59,7 +59,7 @@
 <tr>
 <td align="right">6</td>
 <td><a href="https://github.com/codewithsadee"><img src="https://avatars.githubusercontent.com/u/72186095?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codewithsadee"><b>Sadee</b></a><br><sub>&#64;codewithsadee</sub></td>
-<td align="right"><b>7,081</b></td>
+<td align="right"><b>7,080</b></td>
 <td align="right">143</td>
 <td><sub>Bangladesh</sub></td>
 </tr>
@@ -94,7 +94,7 @@
 <tr>
 <td align="right">11</td>
 <td><a href="https://github.com/mrhm-dev"><img src="https://avatars.githubusercontent.com/u/23283009?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrhm-dev"><b>HM Nayem</b></a><br><sub>&#64;mrhm-dev</sub></td>
-<td align="right"><b>3,683</b></td>
+<td align="right"><b>3,681</b></td>
 <td align="right">129</td>
 <td><sub>Dhaka, Bangladesh</sub></td>
 </tr>
@@ -787,7 +787,7 @@
 <tr>
 <td align="right">110</td>
 <td><a href="https://github.com/Mahmud0808"><img src="https://avatars.githubusercontent.com/u/29881338?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mahmud0808"><b>DrDisagree</b></a><br><sub>&#64;Mahmud0808</sub></td>
-<td align="right"><b>665</b></td>
+<td align="right"><b>668</b></td>
 <td align="right">62</td>
 <td><sub>Bangladesh</sub></td>
 </tr>
@@ -871,7 +871,7 @@
 <tr>
 <td align="right">122</td>
 <td><a href="https://github.com/siambhau"><img src="https://avatars.githubusercontent.com/u/169341632?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/siambhau"><b>Siam Bhau</b></a><br><sub>&#64;siambhau</sub></td>
-<td align="right"><b>597</b></td>
+<td align="right"><b>600</b></td>
 <td align="right">6</td>
 <td><sub>Dhaka Bangladesh</sub></td>
 </tr>
@@ -2571,188 +2571,601 @@
 </tr>
 <tr>
 <td align="right">365</td>
-<td><a href="https://github.com/Tarikul-Islam-Anik"><img src="https://avatars.githubusercontent.com/u/29859619?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tarikul-Islam-Anik"><b>Tarikul Islam Anik</b></a><br><sub>&#64;Tarikul-Islam-Anik</sub></td>
-<td align="right"><b>217</b></td>
-<td align="right">0</td>
-<td><sub>Dhaka, Bangladesh</sub></td>
+<td><a href="https://github.com/ashiquebiniqbal"><img src="https://avatars.githubusercontent.com/u/24230446?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ashiquebiniqbal"><b>Ashique Bin Iqbal</b></a><br><sub>&#64;ashiquebiniqbal</sub></td>
+<td align="right"><b>219</b></td>
+<td align="right">666</td>
+<td><sub>Dhaka</sub></td>
 </tr>
 <tr>
 <td align="right">366</td>
-<td><a href="https://github.com/robi56"><img src="https://avatars.githubusercontent.com/u/2936512?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/robi56"><b>Rabindra Nath Nandi</b></a><br><sub>&#64;robi56</sub></td>
-<td align="right"><b>213</b></td>
-<td align="right">0</td>
-<td><sub>Dhaka, Bangladesh</sub></td>
+<td><a href="https://github.com/nahian91"><img src="https://avatars.githubusercontent.com/u/12794016?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nahian91"><b>Abdullah Nahian</b></a><br><sub>&#64;nahian91</sub></td>
+<td align="right"><b>218</b></td>
+<td align="right">209</td>
+<td><sub>Sylhet, Bangladesh</sub></td>
 </tr>
 <tr>
 <td align="right">367</td>
-<td><a href="https://github.com/hasan-py"><img src="https://avatars.githubusercontent.com/u/57855533?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hasan-py"><b>Hasan</b></a><br><sub>&#64;hasan-py</sub></td>
-<td align="right"><b>210</b></td>
-<td align="right">0</td>
-<td><sub>Dhaka, Bangladesh</sub></td>
+<td><a href="https://github.com/Jihad210"><img src="https://avatars.githubusercontent.com/u/236207054?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jihad210"><b>Jihad Zen</b></a><br><sub>&#64;Jihad210</sub></td>
+<td align="right"><b>218</b></td>
+<td align="right">33</td>
+<td><sub>Bhaluka-Mymensingh,Bangladesh</sub></td>
 </tr>
 <tr>
 <td align="right">368</td>
-<td><a href="https://github.com/famiu"><img src="https://avatars.githubusercontent.com/u/29580810?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/famiu"><b>Famiu Haque</b></a><br><sub>&#64;famiu</sub></td>
-<td align="right"><b>207</b></td>
-<td align="right">0</td>
-<td><sub>Bangladesh</sub></td>
+<td><a href="https://github.com/DeveloperOmarFaruk"><img src="https://avatars.githubusercontent.com/u/75971859?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DeveloperOmarFaruk"><b>Md. Omar Faruk Tutul</b></a><br><sub>&#64;DeveloperOmarFaruk</sub></td>
+<td align="right"><b>217</b></td>
+<td align="right">165</td>
+<td><sub>Mirpur-1, Dhaka</sub></td>
 </tr>
 <tr>
 <td align="right">369</td>
+<td><a href="https://github.com/Mr-Beta-Version"><img src="https://avatars.githubusercontent.com/u/94112333?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mr-Beta-Version"><b>Mr. Beta</b></a><br><sub>&#64;Mr-Beta-Version</sub></td>
+<td align="right"><b>217</b></td>
+<td align="right">152</td>
+<td><sub>Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">370</td>
+<td><a href="https://github.com/Tarikul-Islam-Anik"><img src="https://avatars.githubusercontent.com/u/29859619?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tarikul-Islam-Anik"><b>Tarikul Islam Anik</b></a><br><sub>&#64;Tarikul-Islam-Anik</sub></td>
+<td align="right"><b>217</b></td>
+<td align="right">19</td>
+<td><sub>Dhaka, Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">371</td>
+<td><a href="https://github.com/saminravi99"><img src="https://avatars.githubusercontent.com/u/94394961?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/saminravi99"><b>Samin Israr Ravi</b></a><br><sub>&#64;saminravi99</sub></td>
+<td align="right"><b>216</b></td>
+<td align="right">165</td>
+<td><sub>Dhaka, Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">372</td>
+<td><a href="https://github.com/Shahin-Mahmud98"><img src="https://avatars.githubusercontent.com/u/86725802?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Shahin-Mahmud98"><b>Md Shahin Mahmud</b></a><br><sub>&#64;Shahin-Mahmud98</sub></td>
+<td align="right"><b>216</b></td>
+<td align="right">119</td>
+<td><sub>Panthapath,Dhaka</sub></td>
+</tr>
+<tr>
+<td align="right">373</td>
+<td><a href="https://github.com/SohelIslamImran"><img src="https://avatars.githubusercontent.com/u/76745339?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SohelIslamImran"><b>Sohel Islam Imran</b></a><br><sub>&#64;SohelIslamImran</sub></td>
+<td align="right"><b>216</b></td>
+<td align="right">86</td>
+<td><sub>Dhaka, Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">374</td>
+<td><a href="https://github.com/taufiqurSabbir"><img src="https://avatars.githubusercontent.com/u/62732164?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/taufiqurSabbir"><b>Taufiqur Rahman</b></a><br><sub>&#64;taufiqurSabbir</sub></td>
+<td align="right"><b>215</b></td>
+<td align="right">132</td>
+<td><sub>Dhaka,Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">375</td>
+<td><a href="https://github.com/StudyMart"><img src="https://avatars.githubusercontent.com/u/113377174?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/StudyMart"><b>STUDY MART</b></a><br><sub>&#64;StudyMart</sub></td>
+<td align="right"><b>215</b></td>
+<td align="right">6</td>
+<td><sub>Dhaka, Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">376</td>
+<td><a href="https://github.com/sh4hids"><img src="https://avatars.githubusercontent.com/u/25576246?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sh4hids"><b>Shahidul Islam Majumder</b></a><br><sub>&#64;sh4hids</sub></td>
+<td align="right"><b>214</b></td>
+<td align="right">148</td>
+<td><sub>Feni, Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">377</td>
+<td><a href="https://github.com/afiacse1"><img src="https://avatars.githubusercontent.com/u/285176044?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/afiacse1"><b>AFIA SHAIRA</b></a><br><sub>&#64;afiacse1</sub></td>
+<td align="right"><b>214</b></td>
+<td align="right">1</td>
+<td><sub>Dhaka, Bangladesh 🇧🇩</sub></td>
+</tr>
+<tr>
+<td align="right">378</td>
+<td><a href="https://github.com/robi56"><img src="https://avatars.githubusercontent.com/u/2936512?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/robi56"><b>Rabindra Nath Nandi</b></a><br><sub>&#64;robi56</sub></td>
+<td align="right"><b>213</b></td>
+<td align="right">256</td>
+<td><sub>Dhaka, Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">379</td>
+<td><a href="https://github.com/shuvroroy"><img src="https://avatars.githubusercontent.com/u/21066418?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shuvroroy"><b>Shuvro Roy</b></a><br><sub>&#64;shuvroroy</sub></td>
+<td align="right"><b>212</b></td>
+<td align="right">185</td>
+<td><sub>Dhaka, Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">380</td>
+<td><a href="https://github.com/priti24bd"><img src="https://avatars.githubusercontent.com/u/192561048?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/priti24bd"><b>Priti Das Dipa</b></a><br><sub>&#64;priti24bd</sub></td>
+<td align="right"><b>212</b></td>
+<td align="right">33</td>
+<td><sub>Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">381</td>
+<td><a href="https://github.com/codermoshiur"><img src="https://avatars.githubusercontent.com/u/36513878?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codermoshiur"><b>Moshiur</b></a><br><sub>&#64;codermoshiur</sub></td>
+<td align="right"><b>212</b></td>
+<td align="right">28</td>
+<td><sub>Dhaka</sub></td>
+</tr>
+<tr>
+<td align="right">382</td>
+<td><a href="https://github.com/Mojahidul21"><img src="https://avatars.githubusercontent.com/u/148482250?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mojahidul21"><b>Mojahidul Alam</b></a><br><sub>&#64;Mojahidul21</sub></td>
+<td align="right"><b>212</b></td>
+<td align="right">21</td>
+<td><sub>Jashore, Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">383</td>
+<td><a href="https://github.com/junayed-hassan"><img src="https://avatars.githubusercontent.com/u/178210312?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/junayed-hassan"><b>Junayed hasan</b></a><br><sub>&#64;junayed-hassan</sub></td>
+<td align="right"><b>210</b></td>
+<td align="right">61</td>
+<td><sub>Dhaka ,Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">384</td>
+<td><a href="https://github.com/hasan-py"><img src="https://avatars.githubusercontent.com/u/57855533?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hasan-py"><b>Hasan</b></a><br><sub>&#64;hasan-py</sub></td>
+<td align="right"><b>210</b></td>
+<td align="right">20</td>
+<td><sub>Dhaka, Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">385</td>
+<td><a href="https://github.com/PriontoAbdullah"><img src="https://avatars.githubusercontent.com/u/34392226?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PriontoAbdullah"><b>Abdullah Al Yeamin Maruf Prionto</b></a><br><sub>&#64;PriontoAbdullah</sub></td>
+<td align="right"><b>209</b></td>
+<td align="right">97</td>
+<td><sub>Dhaka, Bangladesh.</sub></td>
+</tr>
+<tr>
+<td align="right">386</td>
+<td><a href="https://github.com/rafeul19"><img src="https://avatars.githubusercontent.com/u/28213643?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rafeul19"><b>Md. Rafeul Islam Rafe</b></a><br><sub>&#64;rafeul19</sub></td>
+<td align="right"><b>208</b></td>
+<td align="right">46</td>
+<td><sub>Dhaka</sub></td>
+</tr>
+<tr>
+<td align="right">387</td>
+<td><a href="https://github.com/debjotyms"><img src="https://avatars.githubusercontent.com/u/96808014?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/debjotyms"><b>Debjoty Mitra</b></a><br><sub>&#64;debjotyms</sub></td>
+<td align="right"><b>208</b></td>
+<td align="right">44</td>
+<td><sub>Dhaka, Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">388</td>
+<td><a href="https://github.com/amirhamza05"><img src="https://avatars.githubusercontent.com/u/24900692?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amirhamza05"><b>Sk.Amir Hamza</b></a><br><sub>&#64;amirhamza05</sub></td>
+<td align="right"><b>208</b></td>
+<td align="right">31</td>
+<td><sub>Dhaka, Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">389</td>
+<td><a href="https://github.com/arfin97"><img src="https://avatars.githubusercontent.com/u/25205325?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arfin97"><b>Md. Hafizur Rahman Arfin</b></a><br><sub>&#64;arfin97</sub></td>
+<td align="right"><b>207</b></td>
+<td align="right">101</td>
+<td><sub>Dhaka, Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">390</td>
+<td><a href="https://github.com/famiu"><img src="https://avatars.githubusercontent.com/u/29580810?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/famiu"><b>Famiu Haque</b></a><br><sub>&#64;famiu</sub></td>
+<td align="right"><b>207</b></td>
+<td align="right">29</td>
+<td><sub>Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">391</td>
+<td><a href="https://github.com/AsmitJoy"><img src="https://avatars.githubusercontent.com/u/48824201?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AsmitJoy"><b>Asmit</b></a><br><sub>&#64;AsmitJoy</sub></td>
+<td align="right"><b>207</b></td>
+<td align="right">13</td>
+<td><sub>khulna</sub></td>
+</tr>
+<tr>
+<td align="right">392</td>
+<td><a href="https://github.com/SAZZAD1Q2"><img src="https://avatars.githubusercontent.com/u/116729064?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SAZZAD1Q2"><b>Md Sazzad Hossain</b></a><br><sub>&#64;SAZZAD1Q2</sub></td>
+<td align="right"><b>206</b></td>
+<td align="right">88</td>
+<td><sub>Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">393</td>
+<td><a href="https://github.com/joybiswas007"><img src="https://avatars.githubusercontent.com/u/74253956?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joybiswas007"><b>Joy Biswas</b></a><br><sub>&#64;joybiswas007</sub></td>
+<td align="right"><b>205</b></td>
+<td align="right">59</td>
+<td><sub>Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">394</td>
+<td><a href="https://github.com/mdrohan551"><img src="https://avatars.githubusercontent.com/u/125077599?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mdrohan551"><b>Rohan Mohammad</b></a><br><sub>&#64;mdrohan551</sub></td>
+<td align="right"><b>205</b></td>
+<td align="right">53</td>
+<td><sub>bangladesh chandpur</sub></td>
+</tr>
+<tr>
+<td align="right">395</td>
+<td><a href="https://github.com/Eshan-Ahmed-Ahad"><img src="https://avatars.githubusercontent.com/u/98513541?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Eshan-Ahmed-Ahad"><b>Eshan Ahmed Ahad</b></a><br><sub>&#64;Eshan-Ahmed-Ahad</sub></td>
+<td align="right"><b>205</b></td>
+<td align="right">38</td>
+<td><sub>Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">396</td>
+<td><a href="https://github.com/tamalchowdhury"><img src="https://avatars.githubusercontent.com/u/7252898?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tamalchowdhury"><b>Tamal Chowdhury</b></a><br><sub>&#64;tamalchowdhury</sub></td>
+<td align="right"><b>204</b></td>
+<td align="right">299</td>
+<td><sub>Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">397</td>
+<td><a href="https://github.com/sabbirshawon"><img src="https://avatars.githubusercontent.com/u/13796403?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sabbirshawon"><b>Sabbir Ahmed</b></a><br><sub>&#64;sabbirshawon</sub></td>
+<td align="right"><b>204</b></td>
+<td align="right">182</td>
+<td><sub>Sylhet, Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">398</td>
+<td><a href="https://github.com/asiefmahir"><img src="https://avatars.githubusercontent.com/u/52581048?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asiefmahir"><b>Asief Mahir</b></a><br><sub>&#64;asiefmahir</sub></td>
+<td align="right"><b>204</b></td>
+<td align="right">124</td>
+<td><sub>Dhaka, Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">399</td>
+<td><a href="https://github.com/JoyGhoshs"><img src="https://avatars.githubusercontent.com/u/36255129?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JoyGhoshs"><b>Abdur Rahman Maheer</b></a><br><sub>&#64;JoyGhoshs</sub></td>
+<td align="right"><b>204</b></td>
+<td align="right">72</td>
+<td><sub>Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">400</td>
+<td><a href="https://github.com/Cyb3rSoldier"><img src="https://avatars.githubusercontent.com/u/184822403?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Cyb3rSoldier"><b>Omar Faruk Rakib</b></a><br><sub>&#64;Cyb3rSoldier</sub></td>
+<td align="right"><b>204</b></td>
+<td align="right">16</td>
+<td><sub>Dhaka, Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">401</td>
+<td><a href="https://github.com/abumoklasur"><img src="https://avatars.githubusercontent.com/u/123175112?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abumoklasur"><b>Abu Naser Mohammad Moklasur Rahaman</b></a><br><sub>&#64;abumoklasur</sub></td>
+<td align="right"><b>204</b></td>
+<td align="right">11</td>
+<td><sub>Dhaka,Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">402</td>
+<td><a href="https://github.com/webdiv-rakib"><img src="https://avatars.githubusercontent.com/u/118966477?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/webdiv-rakib"><b>Abu Nayim Mohammad Rakib</b></a><br><sub>&#64;webdiv-rakib</sub></td>
+<td align="right"><b>203</b></td>
+<td align="right">128</td>
+<td><sub>Dhaka, Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">403</td>
+<td><a href="https://github.com/CodeJogot"><img src="https://avatars.githubusercontent.com/u/132116019?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CodeJogot"><b>CodeJogot</b></a><br><sub>&#64;CodeJogot</sub></td>
+<td align="right"><b>203</b></td>
+<td align="right">24</td>
+<td><sub>Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">404</td>
+<td><a href="https://github.com/MahbubaHaque"><img src="https://avatars.githubusercontent.com/u/77088429?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MahbubaHaque"><b>MahbubaHaque</b></a><br><sub>&#64;MahbubaHaque</sub></td>
+<td align="right"><b>203</b></td>
+<td align="right">18</td>
+<td><sub>Dhaka, Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">405</td>
+<td><a href="https://github.com/cyantarek"><img src="https://avatars.githubusercontent.com/u/13703461?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cyantarek"><b>Cyan Tarek</b></a><br><sub>&#64;cyantarek</sub></td>
+<td align="right"><b>203</b></td>
+<td align="right">17</td>
+<td><sub>Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">406</td>
+<td><a href="https://github.com/dynamicguy"><img src="https://avatars.githubusercontent.com/u/80693?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dynamicguy"><b>Nurul Ferdous</b></a><br><sub>&#64;dynamicguy</sub></td>
+<td align="right"><b>202</b></td>
+<td align="right">284</td>
+<td><sub>Dhaka, Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">407</td>
+<td><a href="https://github.com/SadiaSultana-Kumu"><img src="https://avatars.githubusercontent.com/u/34939338?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SadiaSultana-Kumu"><b>Sadia Sultana Kumu</b></a><br><sub>&#64;SadiaSultana-Kumu</sub></td>
+<td align="right"><b>202</b></td>
+<td align="right">37</td>
+<td><sub>Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">408</td>
+<td><a href="https://github.com/19smabtahinoor"><img src="https://avatars.githubusercontent.com/u/73340940?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/19smabtahinoor"><b>S.M.ABTAHI NOOR</b></a><br><sub>&#64;19smabtahinoor</sub></td>
+<td align="right"><b>201</b></td>
+<td align="right">124</td>
+<td><sub>Dhaka,Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">409</td>
+<td><a href="https://github.com/Asfak00"><img src="https://avatars.githubusercontent.com/u/108581106?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Asfak00"><b>Asfak Ahmed ( rahi )</b></a><br><sub>&#64;Asfak00</sub></td>
+<td align="right"><b>200</b></td>
+<td align="right">109</td>
+<td><sub>Moulvibazar, Sylhet, Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">410</td>
+<td><a href="https://github.com/asif-daffodil"><img src="https://avatars.githubusercontent.com/u/88622477?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asif-daffodil"><b>Asif Abir</b></a><br><sub>&#64;asif-daffodil</sub></td>
+<td align="right"><b>199</b></td>
+<td align="right">181</td>
+<td><sub>Dhaka, Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">411</td>
+<td><a href="https://github.com/raikusy"><img src="https://avatars.githubusercontent.com/u/4938039?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/raikusy"><b>Rakibul Hasan</b></a><br><sub>&#64;raikusy</sub></td>
+<td align="right"><b>198</b></td>
+<td align="right">97</td>
+<td><sub>Dhaka, Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">412</td>
+<td><a href="https://github.com/thealamindev"><img src="https://avatars.githubusercontent.com/u/37735466?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thealamindev"><b>Al-Amin</b></a><br><sub>&#64;thealamindev</sub></td>
+<td align="right"><b>197</b></td>
+<td align="right">98</td>
+<td><sub>Dhaka, Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">413</td>
+<td><a href="https://github.com/EmranAhmed"><img src="https://avatars.githubusercontent.com/u/762968?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EmranAhmed"><b>Emran Ahmed</b></a><br><sub>&#64;EmranAhmed</sub></td>
+<td align="right"><b>197</b></td>
+<td align="right">89</td>
+<td><sub>Dhaka, Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">414</td>
+<td><a href="https://github.com/EmamSaimon592"><img src="https://avatars.githubusercontent.com/u/201449980?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EmamSaimon592"><b>Emam Saimon</b></a><br><sub>&#64;EmamSaimon592</sub></td>
+<td align="right"><b>197</b></td>
+<td align="right">53</td>
+<td><sub>chittagong</sub></td>
+</tr>
+<tr>
+<td align="right">415</td>
+<td><a href="https://github.com/red1-for-hek"><img src="https://avatars.githubusercontent.com/u/187428521?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/red1-for-hek"><b>Redoyanul Haque</b></a><br><sub>&#64;red1-for-hek</sub></td>
+<td align="right"><b>197</b></td>
+<td align="right">45</td>
+<td><sub>Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">416</td>
+<td><a href="https://github.com/Nawaf-Rayhan585"><img src="https://avatars.githubusercontent.com/u/178558123?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nawaf-Rayhan585"><b>Nawaf Rayhan</b></a><br><sub>&#64;Nawaf-Rayhan585</sub></td>
+<td align="right"><b>197</b></td>
+<td align="right">27</td>
+<td><sub>Sylhet, Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">417</td>
+<td><a href="https://github.com/Musharofchy"><img src="https://avatars.githubusercontent.com/u/1244883?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Musharofchy"><b>Musharof Chowdhury</b></a><br><sub>&#64;Musharofchy</sub></td>
+<td align="right"><b>197</b></td>
+<td align="right">20</td>
+<td><sub>Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">418</td>
+<td><a href="https://github.com/maskurahmedofficial"><img src="https://avatars.githubusercontent.com/u/224363310?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maskurahmedofficial"><b>Maskur Ahmed</b></a><br><sub>&#64;maskurahmedofficial</sub></td>
+<td align="right"><b>197</b></td>
+<td align="right">8</td>
+<td><sub>Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">419</td>
+<td><a href="https://github.com/polashmahmud"><img src="https://avatars.githubusercontent.com/u/8996190?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/polashmahmud"><b>Polash Mahmud</b></a><br><sub>&#64;polashmahmud</sub></td>
+<td align="right"><b>195</b></td>
+<td align="right">107</td>
+<td><sub>Gazipur, Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">420</td>
+<td><a href="https://github.com/potasiyam"><img src="https://avatars.githubusercontent.com/u/767359?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/potasiyam"><b>Tanbin Islam Siyam</b></a><br><sub>&#64;potasiyam</sub></td>
+<td align="right"><b>195</b></td>
+<td align="right">39</td>
+<td><sub>Dhaka</sub></td>
+</tr>
+<tr>
+<td align="right">421</td>
+<td><a href="https://github.com/jalaluddin"><img src="https://avatars.githubusercontent.com/u/501561?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jalaluddin"><b>Jalal Uddin</b></a><br><sub>&#64;jalaluddin</sub></td>
+<td align="right"><b>195</b></td>
+<td align="right">38</td>
+<td><sub>Dhaka, Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">422</td>
+<td><a href="https://github.com/SudipMHX"><img src="https://avatars.githubusercontent.com/u/78290327?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SudipMHX"><b>MahaTab Hossen Sudip</b></a><br><sub>&#64;SudipMHX</sub></td>
+<td align="right"><b>195</b></td>
+<td align="right">19</td>
+<td><sub>Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">423</td>
 <td><a href="https://github.com/ImaginativeShohag"><img src="https://avatars.githubusercontent.com/u/1952630?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ImaginativeShohag"><b>Md. Mahmudul Hasan Shohag</b></a><br><sub>&#64;ImaginativeShohag</sub></td>
 <td align="right"><b>193</b></td>
 <td align="right">0</td>
 <td><sub>Bangladesh</sub></td>
 </tr>
 <tr>
-<td align="right">370</td>
+<td align="right">424</td>
 <td><a href="https://github.com/faahim"><img src="https://avatars.githubusercontent.com/u/21854687?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/faahim"><b>Afiur Rahman Fahim</b></a><br><sub>&#64;faahim</sub></td>
 <td align="right"><b>182</b></td>
 <td align="right">0</td>
 <td><sub>Dhaka, Bangladesh</sub></td>
 </tr>
 <tr>
-<td align="right">371</td>
+<td align="right">425</td>
 <td><a href="https://github.com/nadimtuhin"><img src="https://avatars.githubusercontent.com/u/3125771?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nadimtuhin"><b>Nadim Tuhin (Omar Faruque Tuhin)</b></a><br><sub>&#64;nadimtuhin</sub></td>
 <td align="right"><b>175</b></td>
 <td align="right">0</td>
 <td><sub>Dhaka</sub></td>
 </tr>
 <tr>
-<td align="right">372</td>
+<td align="right">426</td>
 <td><a href="https://github.com/saifaustcse"><img src="https://avatars.githubusercontent.com/u/8960161?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/saifaustcse"><b>Md. Saiful Islam</b></a><br><sub>&#64;saifaustcse</sub></td>
 <td align="right"><b>175</b></td>
 <td align="right">0</td>
 <td><sub>Dhaka, Bangladesh</sub></td>
 </tr>
 <tr>
-<td align="right">373</td>
+<td align="right">427</td>
 <td><a href="https://github.com/adar2378"><img src="https://avatars.githubusercontent.com/u/8059258?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adar2378"><b>Adar</b></a><br><sub>&#64;adar2378</sub></td>
 <td align="right"><b>167</b></td>
 <td align="right">0</td>
 <td><sub>Dhaka, Bangladesh</sub></td>
 </tr>
 <tr>
-<td align="right">374</td>
+<td align="right">428</td>
 <td><a href="https://github.com/samayun"><img src="https://avatars.githubusercontent.com/u/31636535?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/samayun"><b>Sam</b></a><br><sub>&#64;samayun</sub></td>
 <td align="right"><b>159</b></td>
 <td align="right">0</td>
 <td><sub>Dhaka</sub></td>
 </tr>
 <tr>
-<td align="right">375</td>
+<td align="right">429</td>
 <td><a href="https://github.com/farukalamai"><img src="https://avatars.githubusercontent.com/u/92469073?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/farukalamai"><b>Md. Faruk Alam</b></a><br><sub>&#64;farukalamai</sub></td>
 <td align="right"><b>153</b></td>
 <td align="right">0</td>
 <td><sub>Rangamati, Bangladesh</sub></td>
 </tr>
 <tr>
-<td align="right">376</td>
+<td align="right">430</td>
 <td><a href="https://github.com/KnockOutEZ"><img src="https://avatars.githubusercontent.com/u/70368615?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KnockOutEZ"><b>Towhid Khan</b></a><br><sub>&#64;KnockOutEZ</sub></td>
 <td align="right"><b>150</b></td>
 <td align="right">0</td>
 <td><sub>Dhaka, Bangladesh</sub></td>
 </tr>
 <tr>
-<td align="right">377</td>
+<td align="right">431</td>
 <td><a href="https://github.com/neurobin"><img src="https://avatars.githubusercontent.com/u/8607739?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/neurobin"><b>Md Jahidul Hamid</b></a><br><sub>&#64;neurobin</sub></td>
 <td align="right"><b>136</b></td>
 <td align="right">0</td>
 <td><sub>Chuadanga, Bangladesh</sub></td>
 </tr>
 <tr>
-<td align="right">378</td>
+<td align="right">432</td>
 <td><a href="https://github.com/Agontuk"><img src="https://avatars.githubusercontent.com/u/5656440?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Agontuk"><b>Iftekhar Rifat</b></a><br><sub>&#64;Agontuk</sub></td>
 <td align="right"><b>132</b></td>
 <td align="right">0</td>
 <td><sub>Rampura, Dhaka, Bangladesh</sub></td>
 </tr>
 <tr>
-<td align="right">379</td>
+<td align="right">433</td>
 <td><a href="https://github.com/MahdiMashrur"><img src="https://avatars.githubusercontent.com/u/39498864?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MahdiMashrur"><b>Mahdi Mashrur Matin</b></a><br><sub>&#64;MahdiMashrur</sub></td>
 <td align="right"><b>119</b></td>
 <td align="right">0</td>
 <td><sub>Dhaka</sub></td>
 </tr>
 <tr>
-<td align="right">380</td>
+<td align="right">434</td>
 <td><a href="https://github.com/abubakarsiddik31"><img src="https://avatars.githubusercontent.com/u/61455347?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abubakarsiddik31"><b>Abu Bakar Siddik</b></a><br><sub>&#64;abubakarsiddik31</sub></td>
 <td align="right"><b>117</b></td>
 <td align="right">0</td>
 <td><sub>Bangladesh</sub></td>
 </tr>
 <tr>
-<td align="right">381</td>
+<td align="right">435</td>
+<td><a href="https://github.com/Antu7"><img src="https://avatars.githubusercontent.com/u/25433660?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Antu7"><b>Tanvir Hossain Antu</b></a><br><sub>&#64;Antu7</sub></td>
+<td align="right"><b>112</b></td>
+<td align="right">0</td>
+<td><sub>Dhaka,Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">436</td>
 <td><a href="https://github.com/rajucs"><img src="https://avatars.githubusercontent.com/u/16923470?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rajucs"><b>Arman Hossain</b></a><br><sub>&#64;rajucs</sub></td>
 <td align="right"><b>111</b></td>
 <td align="right">0</td>
 <td><sub>Dhaka,Bangladesh</sub></td>
 </tr>
 <tr>
-<td align="right">382</td>
+<td align="right">437</td>
+<td><a href="https://github.com/seeam"><img src="https://avatars.githubusercontent.com/u/7550283?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/seeam"><b>Sashoto Seeam</b></a><br><sub>&#64;seeam</sub></td>
+<td align="right"><b>105</b></td>
+<td align="right">0</td>
+<td><sub>Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">438</td>
 <td><a href="https://github.com/FahimAnzamDip"><img src="https://avatars.githubusercontent.com/u/37371749?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FahimAnzamDip"><b>Fahim Anzam Dip</b></a><br><sub>&#64;FahimAnzamDip</sub></td>
 <td align="right"><b>104</b></td>
 <td align="right">0</td>
 <td><sub>Bangladesh</sub></td>
 </tr>
 <tr>
-<td align="right">383</td>
+<td align="right">439</td>
+<td><a href="https://github.com/kmhmubin"><img src="https://avatars.githubusercontent.com/u/52270073?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kmhmubin"><b>K M H Mubin</b></a><br><sub>&#64;kmhmubin</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">0</td>
+<td><sub>Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">440</td>
+<td><a href="https://github.com/AHS12"><img src="https://avatars.githubusercontent.com/u/25058208?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AHS12"><b>Azizul Hakim</b></a><br><sub>&#64;AHS12</sub></td>
+<td align="right"><b>98</b></td>
+<td align="right">0</td>
+<td><sub>Dhaka,Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">441</td>
 <td><a href="https://github.com/iamismile"><img src="https://avatars.githubusercontent.com/u/48013463?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iamismile"><b>Ismile Hossain</b></a><br><sub>&#64;iamismile</sub></td>
 <td align="right"><b>94</b></td>
 <td align="right">0</td>
 <td><sub>Dhaka, Bangladesh</sub></td>
 </tr>
 <tr>
-<td align="right">384</td>
+<td align="right">442</td>
 <td><a href="https://github.com/mdgaziur"><img src="https://avatars.githubusercontent.com/u/40351881?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mdgaziur"><b>MD Gaziur Rahman Noor</b></a><br><sub>&#64;mdgaziur</sub></td>
 <td align="right"><b>88</b></td>
 <td align="right">0</td>
 <td><sub>Sylhet, Bangladesh</sub></td>
 </tr>
 <tr>
-<td align="right">385</td>
+<td align="right">443</td>
 <td><a href="https://github.com/tmdh"><img src="https://avatars.githubusercontent.com/u/18123729?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tmdh"><b>Tareque Md Hanif</b></a><br><sub>&#64;tmdh</sub></td>
 <td align="right"><b>79</b></td>
 <td align="right">0</td>
 <td><sub>Dhaka, Bangladesh</sub></td>
 </tr>
 <tr>
-<td align="right">386</td>
+<td align="right">444</td>
 <td><a href="https://github.com/eendroroy"><img src="https://avatars.githubusercontent.com/u/20620104?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eendroroy"><b>eendroroy</b></a><br><sub>&#64;eendroroy</sub></td>
 <td align="right"><b>66</b></td>
 <td align="right">0</td>
 <td><sub>Dhaka, Bangladesh</sub></td>
 </tr>
 <tr>
-<td align="right">387</td>
+<td align="right">445</td>
 <td><a href="https://github.com/shams-imran"><img src="https://avatars.githubusercontent.com/u/62378019?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shams-imran"><b>Md. Shams Imran (Shuvo)</b></a><br><sub>&#64;shams-imran</sub></td>
 <td align="right"><b>59</b></td>
 <td align="right">0</td>
 <td><sub>Dhaka</sub></td>
 </tr>
 <tr>
-<td align="right">388</td>
+<td align="right">446</td>
+<td><a href="https://github.com/Quincunx33"><img src="https://avatars.githubusercontent.com/u/207334025?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Quincunx33"><b>Quincunx</b></a><br><sub>&#64;Quincunx33</sub></td>
+<td align="right"><b>55</b></td>
+<td align="right">0</td>
+<td><sub>Khulna,Bangladesh</sub></td>
+</tr>
+<tr>
+<td align="right">447</td>
 <td><a href="https://github.com/ZhFahim"><img src="https://avatars.githubusercontent.com/u/50145591?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ZhFahim"><b>Zahidul Hoque Fahim</b></a><br><sub>&#64;ZhFahim</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">0</td>
 <td><sub>Dhaka, Bangladesh</sub></td>
 </tr>
 <tr>
-<td align="right">389</td>
+<td align="right">448</td>
 <td><a href="https://github.com/fardin33"><img src="https://avatars.githubusercontent.com/u/144698964?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fardin33"><b>Fardin Hassan Jihad</b></a><br><sub>&#64;fardin33</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">38</td>
 <td><sub>Chad Uddan,Mohammadpur,Dhaka-1207</sub></td>
 </tr>
 <tr>
-<td align="right">390</td>
+<td align="right">449</td>
 <td><a href="https://github.com/code-craft-nayem"><img src="https://avatars.githubusercontent.com/u/247862355?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/code-craft-nayem"><b>Nayem Hasan</b></a><br><sub>&#64;code-craft-nayem</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">15</td>
 <td><sub>Chad Uddan,Mohammadpur,Dhaka-1207</sub></td>
 </tr>
 <tr>
-<td align="right">391</td>
+<td align="right">450</td>
 <td><a href="https://github.com/shahariar716"><img src="https://avatars.githubusercontent.com/u/141020286?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shahariar716"><b>Shahariar Ahmmed (Tanif)</b></a><br><sub>&#64;shahariar716</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">16</td>
@@ -2766,7 +3179,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 391 attributed developers are tracked; the cutoff is 1 followers.
+- Organizations are excluded. 450 attributed developers are tracked; the cutoff is 1 followers.
 - **Location discovery:** term 0 of 173 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

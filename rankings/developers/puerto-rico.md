@@ -102,7 +102,7 @@
 <td align="right">12</td>
 <td><a href="https://github.com/FrenzyExists"><img src="https://avatars.githubusercontent.com/u/47986470?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FrenzyExists"><b>Detective Pikachu</b></a><br><sub>&#64;FrenzyExists</sub></td>
 <td align="right"><b>196</b></td>
-<td align="right">0</td>
+<td align="right">115</td>
 <td><sub>Aguadilla, Puerto Rico</sub></td>
 </tr>
 <tr>
@@ -317,16 +317,16 @@
 </tr>
 <tr>
 <td align="right">43</td>
-<td><a href="https://github.com/LizzGarleb"><img src="https://avatars.githubusercontent.com/u/96942307?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LizzGarleb"><b>Lizz García</b></a><br><sub>&#64;LizzGarleb</sub></td>
+<td><a href="https://github.com/Wolfkid200444"><img src="https://avatars.githubusercontent.com/u/32025746?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Wolfkid200444"><b>Wolfie</b></a><br><sub>&#64;Wolfkid200444</sub></td>
 <td align="right"><b>51</b></td>
-<td align="right">2</td>
+<td align="right">158</td>
 <td><sub>Puerto Rico</sub></td>
 </tr>
 <tr>
 <td align="right">44</td>
-<td><a href="https://github.com/Wolfkid200444"><img src="https://avatars.githubusercontent.com/u/32025746?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Wolfkid200444"><b>Wolfie</b></a><br><sub>&#64;Wolfkid200444</sub></td>
-<td align="right"><b>50</b></td>
-<td align="right">158</td>
+<td><a href="https://github.com/LizzGarleb"><img src="https://avatars.githubusercontent.com/u/96942307?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LizzGarleb"><b>Lizz García</b></a><br><sub>&#64;LizzGarleb</sub></td>
+<td align="right"><b>51</b></td>
+<td align="right">2</td>
 <td><sub>Puerto Rico</sub></td>
 </tr>
 <tr>

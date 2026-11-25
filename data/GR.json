@@ -5,7 +5,7 @@
 "country": {"code":"GR","name":"Greece","slug":"greece"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":693,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":123,"candidates":137,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":149,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":693,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":123,"candidates":138,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":149,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxMTI1MDcwODY=","name":"30-seconds-of-code","nameWithOwner":"Chalarangelo/30-seconds-of-code","url":"https://github.com/Chalarangelo/30-seconds-of-code","description":"Coding articles to level up your development skills","stars":129596,"forks":12507,"primaryLanguage":"JavaScript","license":{"spdxId":"CC-BY-4.0"},"createdAt":"2017-11-29T17:35:03Z","pushedAt":"2026-11-17T00:53:28Z","archived":false,"owner":{"login":"Chalarangelo","name":"Angelos Chalaris","type":"User","url":"https://github.com/Chalarangelo","location":"Athens, Greece","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnk1MDcwOTE1Mg==","name":"iris","nameWithOwner":"kataras/iris","url":"https://github.com/kataras/iris","description":"The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:","stars":25555,"forks":2427,"primaryLanguage":"Go","license":{"spdxId":"BSD-3-Clause"},"createdAt":"2016-01-30T04:36:48Z","pushedAt":"2026-11-13T17:12:56Z","archived":false,"owner":{"login":"kataras","name":"Gerasimos (Makis) Maropoulos","type":"User","url":"https://github.com/kataras","location":"Greece/Athens","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"R_kgDOG5v4_Q","name":"mip22","nameWithOwner":"makdosx/mip22","url":"https://github.com/makdosx/mip22","description":":computer: :iphone: mip22 is a advanced phishing tool","stars":695,"forks":142,"primaryLanguage":"Shell","license":{"spdxId":"GPL-3.0"},"createdAt":"2022-02-24T15:48:08Z","pushedAt":"2024-07-31T21:32:27Z","archived":false,"owner":{"login":"makdosx","name":"mak","type":"User","url":"https://github.com/makdosx","location":"Patras, Greece","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-24"},
   {"rank":100,"id":"R_kgDOQiU12g","name":"tunnl.gg","nameWithOwner":"klipitkas/tunnl.gg","url":"https://github.com/klipitkas/tunnl.gg","description":"A minimal SSH tunneling service. Expose your local apps to the internet with a single command.","stars":693,"forks":53,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2025-12-04T08:00:23Z","pushedAt":"2026-11-19T17:56:09Z","archived":false,"owner":{"login":"klipitkas","name":"Konstantinos Lypitkas","type":"User","url":"https://github.com/klipitkas","location":"Athens, Greece","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "c1fb0f4e1c891977",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "646f0bc4eccda9fe",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

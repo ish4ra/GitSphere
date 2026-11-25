@@ -38,7 +38,7 @@
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/Lucas-Erkana"><img src="https://avatars.githubusercontent.com/u/41428579?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lucas-Erkana"><b>Lucas David Erkana</b></a><br><sub>&#64;Lucas-Erkana</sub></td>
-<td align="right"><b>127</b></td>
+<td align="right"><b>128</b></td>
 <td align="right">141</td>
 <td><sub>Walvis Bay, Namibia</sub></td>
 </tr>

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/RU.json">JSON</a> |
+| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/RU.json">JSON</a> |
 
 </div>
 
@@ -70,6 +70,15 @@
 </tr>
 <tr>
 <td align="right">6</td>
+<td><a href="https://github.com/antirek"><img src="https://avatars.githubusercontent.com/u/324436?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/antirek"><b>Dmitriev Sergey</b></a><br><sub>&#64;antirek · 207 followers</sub></td>
+<td align="right"><b>130</b></td>
+<td align="right">69</td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">18</td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/bdemeshev"><img src="https://avatars.githubusercontent.com/u/1075773?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bdemeshev"><b>Boris Demeshev</b></a><br><sub>&#64;bdemeshev · 461 followers</sub></td>
 <td align="right"><b>121</b></td>
 <td align="right">108</td>
@@ -78,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/RomanK2311"><img src="https://avatars.githubusercontent.com/u/134511491?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RomanK2311"><b>Roman Kunshin</b></a><br><sub>&#64;RomanK2311 · 1,049 followers</sub></td>
 <td align="right"><b>101</b></td>
 <td align="right">0</td>
@@ -87,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/Smorodov"><img src="https://avatars.githubusercontent.com/u/1816461?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Smorodov"><b>Andrey Smorodov</b></a><br><sub>&#64;Smorodov · 303 followers</sub></td>
 <td align="right"><b>73</b></td>
 <td align="right">60</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/ktaranov"><img src="https://avatars.githubusercontent.com/u/6460726?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ktaranov"><b>Konstantin Taranov</b></a><br><sub>&#64;ktaranov · 430 followers</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">7</td>
@@ -111,7 +120,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 10 of 386 discovered developers (376 awaiting measurement).
+- **Measured:** 11 of 447 discovered developers (436 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 200 in round 1.

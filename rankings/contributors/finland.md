@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **12** | 22 Nov 2026 | <a href="../../data/contributors/FI.json">JSON</a> |
+| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/contributors/FI.json">JSON</a> |
 
 </div>
 
@@ -79,6 +79,15 @@
 </tr>
 <tr>
 <td align="right">7</td>
+<td><a href="https://github.com/mluukkai"><img src="https://avatars.githubusercontent.com/u/523235?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mluukkai"><b>Matti Luukkainen</b></a><br><sub>&#64;mluukkai · 3,032 followers</sub></td>
+<td align="right"><b>1,672</b></td>
+<td align="right">1,317</td>
+<td align="right">23</td>
+<td align="right">176</td>
+<td align="right">148</td>
+</tr>
+<tr>
+<td align="right">8</td>
 <td><a href="https://github.com/akx"><img src="https://avatars.githubusercontent.com/u/58669?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akx"><b>Aarni Koskela</b></a><br><sub>&#64;akx · 542 followers</sub></td>
 <td align="right"><b>1,593</b></td>
 <td align="right">806</td>
@@ -87,7 +96,7 @@
 <td align="right">30</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/mstahv"><img src="https://avatars.githubusercontent.com/u/1478052?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mstahv"><b>Matti Tahvonen</b></a><br><sub>&#64;mstahv · 633 followers</sub></td>
 <td align="right"><b>1,530</b></td>
 <td align="right">1,304</td>
@@ -96,7 +105,7 @@
 <td align="right">64</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/unitycoder"><img src="https://avatars.githubusercontent.com/u/5438317?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/unitycoder"><b>mika</b></a><br><sub>&#64;unitycoder · 1,015 followers</sub></td>
 <td align="right"><b>613</b></td>
 <td align="right">486</td>
@@ -105,7 +114,7 @@
 <td align="right">30</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/phadej"><img src="https://avatars.githubusercontent.com/u/51087?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/phadej"><b>Oleg Grenrus</b></a><br><sub>&#64;phadej · 603 followers</sub></td>
 <td align="right"><b>594</b></td>
 <td align="right">346</td>
@@ -114,7 +123,7 @@
 <td align="right">59</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/varya"><img src="https://avatars.githubusercontent.com/u/27215?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/varya"><b>Varya Stepanova</b></a><br><sub>&#64;varya · 321 followers</sub></td>
 <td align="right"><b>395</b></td>
 <td align="right">281</td>
@@ -123,7 +132,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/staltz"><img src="https://avatars.githubusercontent.com/u/90512?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/staltz"><b>André Staltz</b></a><br><sub>&#64;staltz · 6,027 followers</sub></td>
 <td align="right"><b>189</b></td>
 <td align="right">135</td>
@@ -138,7 +147,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 12 of 612 discovered developers (600 awaiting measurement).
+- **Measured:** 13 of 652 discovered developers (639 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 176 in round 1.

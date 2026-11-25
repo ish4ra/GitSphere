@@ -5,7 +5,7 @@
 "country": {"code":"BI","name":"Burundi","slug":"burundi"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":590,"measuredAccounts":15,"measurementBacklog":575,"window":{"from":"2025-11-24T01:00:00Z","to":"2026-11-24T01:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":33,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":590,"measuredAccounts":17,"measurementBacklog":573,"window":{"from":"2025-11-24T01:00:00Z","to":"2026-11-24T01:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":33,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOCoyUVA","login":"yvartpro","name":"Nshemezimana Yves","url":"https://github.com/yvartpro","avatarUrl":"https://avatars.githubusercontent.com/u/176985172?s=80&v=4","followers":6,"publicRepos":87,"location":"Bujumbura,Burundi","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":1656,"commits":1610,"pullRequests":2,"reviews":0,"issues":0,"repositories":44,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":2,"id":"U_kgDOCUesdw","login":"allyelvis","name":"Ally Elvis Nzeyimana","url":"https://github.com/allyelvis","avatarUrl":"https://avatars.githubusercontent.com/u/155692151?s=80&v=4","followers":16,"publicRepos":901,"location":"Burundi","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":594,"commits":72,"pullRequests":504,"reviews":0,"issues":0,"repositories":18,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
@@ -22,8 +22,8 @@
   {"rank":13,"id":"MDQ6VXNlcjI5MDM1NzU5","login":"gatarelib","name":"Gatare Libère","url":"https://github.com/gatarelib","avatarUrl":"https://avatars.githubusercontent.com/u/29035759?s=80&v=4","followers":147,"publicRepos":552,"location":"Burundi","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":10,"commits":1,"pullRequests":0,"reviews":0,"issues":0,"repositories":9,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":14,"id":"MDQ6VXNlcjQyNDkxNzgw","login":"WCanirinka","name":"Wilfried Canirinka","url":"https://github.com/WCanirinka","avatarUrl":"https://avatars.githubusercontent.com/u/42491780?s=80&v=4","followers":61,"publicRepos":106,"location":"Bujumbura, Burundi","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":4,"commits":1,"pullRequests":0,"reviews":0,"issues":0,"repositories":3,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "ae305e99326ca038",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "4953603d36413711",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

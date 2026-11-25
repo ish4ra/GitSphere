@@ -95,13 +95,13 @@
 <td align="right">11</td>
 <td><a href="https://github.com/MTrajK"><img src="https://avatars.githubusercontent.com/u/7501012?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MTrajK"><b>Meto Trajkovski</b></a><br><sub>&#64;MTrajK</sub></td>
 <td align="right"><b>216</b></td>
-<td align="right">0</td>
+<td align="right">15</td>
 <td><sub>Skopje</sub></td>
 </tr>
 <tr>
 <td align="right">12</td>
 <td><a href="https://github.com/hf"><img src="https://avatars.githubusercontent.com/u/295870?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hf"><b>Stojan Dimitrovski</b></a><br><sub>&#64;hf</sub></td>
-<td align="right"><b>205</b></td>
+<td align="right"><b>204</b></td>
 <td align="right">82</td>
 <td><sub>Skopje, Republic of North Macedonia</sub></td>
 </tr>

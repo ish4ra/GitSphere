@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/KM.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/KM.json">JSON</a> |
 
 </div>
 
@@ -52,6 +52,15 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/epkaz-ecole-priveekaz"><img src="https://avatars.githubusercontent.com/u/271564065?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/epkaz-ecole-priveekaz"><b>https://epkaz.github.io/Epkaz</b></a><br><sub>&#64;epkaz-ecole-priveekaz · 0 followers</sub></td>
+<td align="right"><b>11</b></td>
+<td align="right">5</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/faustfizz"><img src="https://avatars.githubusercontent.com/u/39981884?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/faustfizz"><b>Youssouf Mbaé AS</b></a><br><sub>&#64;faustfizz · 6 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">0</td>
@@ -60,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/Yssoufa"><img src="https://avatars.githubusercontent.com/u/42383007?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Yssoufa"><b>THABITI YSSOUFA</b></a><br><sub>&#64;Yssoufa · 2 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
@@ -69,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/ANADEN-KM"><img src="https://avatars.githubusercontent.com/u/176988742?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ANADEN-KM"><b>Agence Nationale de Développement du Numérique - Comores</b></a><br><sub>&#64;ANADEN-KM · 0 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
@@ -78,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/abdallahsoulaimana"><img src="https://avatars.githubusercontent.com/u/67747492?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdallahsoulaimana"><b>Abdallah Soulaimana</b></a><br><sub>&#64;abdallahsoulaimana · 0 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -93,7 +102,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 15 of 45 discovered developers (30 awaiting measurement).
+- **Measured:** 17 of 45 discovered developers (28 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 3 of 88 in round 1.

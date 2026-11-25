@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **134** | 22 Nov 2026 | <a href="../../data/developers/TH.json">JSON</a> |
+| 🟡 Provisional | **159** | 22 Nov 2026 | <a href="../../data/developers/TH.json">JSON</a> |
 
 </div>
 
@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/SaltyAom"><img src="https://avatars.githubusercontent.com/u/35027979?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SaltyAom"><b>SaltyAom</b></a><br><sub>&#64;SaltyAom</sub></td>
-<td align="right"><b>4,188</b></td>
+<td align="right"><b>4,186</b></td>
 <td align="right">329</td>
 <td><sub>Thailand</sub></td>
 </tr>
@@ -723,237 +723,412 @@
 </tr>
 <tr>
 <td align="right">101</td>
-<td><a href="https://github.com/zoonooz"><img src="https://avatars.githubusercontent.com/u/1230665?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zoonooz"><b>Amornchai Kanokpullwad</b></a><br><sub>&#64;zoonooz</sub></td>
+<td><a href="https://github.com/abe27"><img src="https://avatars.githubusercontent.com/u/10987673?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abe27"><b>Taweechai Yuenyang</b></a><br><sub>&#64;abe27</sub></td>
 <td align="right"><b>218</b></td>
-<td align="right">0</td>
-<td><sub>Thailand</sub></td>
+<td align="right">76</td>
+<td><sub>Plaeng Yao,Chachoengsao,Thailand</sub></td>
 </tr>
 <tr>
 <td align="right">102</td>
-<td><a href="https://github.com/NotPrab"><img src="https://avatars.githubusercontent.com/u/54489997?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NotPrab"><b>Prab</b></a><br><sub>&#64;NotPrab</sub></td>
-<td align="right"><b>215</b></td>
-<td align="right">0</td>
-<td><sub>Thailand</sub></td>
+<td><a href="https://github.com/dannysbentley"><img src="https://avatars.githubusercontent.com/u/6655476?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dannysbentley"><b>Danny Bentley</b></a><br><sub>&#64;dannysbentley</sub></td>
+<td align="right"><b>218</b></td>
+<td align="right">36</td>
+<td><sub>Bangkok Thailand</sub></td>
 </tr>
 <tr>
 <td align="right">103</td>
-<td><a href="https://github.com/roylee0704"><img src="https://avatars.githubusercontent.com/u/3850661?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/roylee0704"><b>roylee0704</b></a><br><sub>&#64;roylee0704</sub></td>
-<td align="right"><b>213</b></td>
-<td align="right">0</td>
-<td><sub>Bangkok, Thailand</sub></td>
+<td><a href="https://github.com/zoonooz"><img src="https://avatars.githubusercontent.com/u/1230665?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zoonooz"><b>Amornchai Kanokpullwad</b></a><br><sub>&#64;zoonooz</sub></td>
+<td align="right"><b>218</b></td>
+<td align="right">36</td>
+<td><sub>Thailand</sub></td>
 </tr>
 <tr>
 <td align="right">104</td>
+<td><a href="https://github.com/basedhound"><img src="https://avatars.githubusercontent.com/u/46690802?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/basedhound"><b>Frank</b></a><br><sub>&#64;basedhound</sub></td>
+<td align="right"><b>216</b></td>
+<td align="right">151</td>
+<td><sub>Chiang Mai, Thailand</sub></td>
+</tr>
+<tr>
+<td align="right">105</td>
+<td><a href="https://github.com/NotPrab"><img src="https://avatars.githubusercontent.com/u/54489997?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NotPrab"><b>Prab</b></a><br><sub>&#64;NotPrab</sub></td>
+<td align="right"><b>216</b></td>
+<td align="right">7</td>
+<td><sub>Thailand</sub></td>
+</tr>
+<tr>
+<td align="right">106</td>
+<td><a href="https://github.com/KevinBatdorf"><img src="https://avatars.githubusercontent.com/u/1478421?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KevinBatdorf"><b>Kevin Batdorf</b></a><br><sub>&#64;KevinBatdorf</sub></td>
+<td align="right"><b>215</b></td>
+<td align="right">113</td>
+<td><sub>Chiang Mai, Thailand</sub></td>
+</tr>
+<tr>
+<td align="right">107</td>
+<td><a href="https://github.com/roylee0704"><img src="https://avatars.githubusercontent.com/u/3850661?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/roylee0704"><b>roylee0704</b></a><br><sub>&#64;roylee0704</sub></td>
+<td align="right"><b>212</b></td>
+<td align="right">199</td>
+<td><sub>Bangkok, Thailand</sub></td>
+</tr>
+<tr>
+<td align="right">108</td>
+<td><a href="https://github.com/ruufimon"><img src="https://avatars.githubusercontent.com/u/29492?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ruufimon"><b>Twin Panitsombat</b></a><br><sub>&#64;ruufimon</sub></td>
+<td align="right"><b>211</b></td>
+<td align="right">126</td>
+<td><sub>Bangkok</sub></td>
+</tr>
+<tr>
+<td align="right">109</td>
+<td><a href="https://github.com/mjkodkks"><img src="https://avatars.githubusercontent.com/u/21122708?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mjkodkks"><b>DKKs-</b></a><br><sub>&#64;mjkodkks</sub></td>
+<td align="right"><b>210</b></td>
+<td align="right">97</td>
+<td><sub>Thailand, Kalasin</sub></td>
+</tr>
+<tr>
+<td align="right">110</td>
+<td><a href="https://github.com/dev-myatminsoe"><img src="https://avatars.githubusercontent.com/u/6258919?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dev-myatminsoe"><b>Myat Min Soe</b></a><br><sub>&#64;dev-myatminsoe</sub></td>
+<td align="right"><b>207</b></td>
+<td align="right">6</td>
+<td><sub>Bangkok, Thailand</sub></td>
+</tr>
+<tr>
+<td align="right">111</td>
+<td><a href="https://github.com/TaiChi112"><img src="https://avatars.githubusercontent.com/u/110210626?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TaiChi112"><b>Anothai Vichapaiboon</b></a><br><sub>&#64;TaiChi112</sub></td>
+<td align="right"><b>206</b></td>
+<td align="right">149</td>
+<td><sub>Thailand Bangkok</sub></td>
+</tr>
+<tr>
+<td align="right">112</td>
+<td><a href="https://github.com/koson"><img src="https://avatars.githubusercontent.com/u/567256?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/koson"><b>Koson Trachu</b></a><br><sub>&#64;koson</sub></td>
+<td align="right"><b>204</b></td>
+<td align="right">4,884</td>
+<td><sub>Bangkok, Thailand.</sub></td>
+</tr>
+<tr>
+<td align="right">113</td>
+<td><a href="https://github.com/teerasej"><img src="https://avatars.githubusercontent.com/u/85179?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/teerasej"><b>Teerasej Jiraphatchandej</b></a><br><sub>&#64;teerasej</sub></td>
+<td align="right"><b>203</b></td>
+<td align="right">521</td>
+<td><sub>Thailand</sub></td>
+</tr>
+<tr>
+<td align="right">114</td>
+<td><a href="https://github.com/PalmDevs"><img src="https://avatars.githubusercontent.com/u/67689562?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PalmDevs"><b>Palm</b></a><br><sub>&#64;PalmDevs</sub></td>
+<td align="right"><b>201</b></td>
+<td align="right">22</td>
+<td><sub>Thailand</sub></td>
+</tr>
+<tr>
+<td align="right">115</td>
+<td><a href="https://github.com/akm-coding"><img src="https://avatars.githubusercontent.com/u/115795473?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akm-coding"><b>Aung Kaung Myat</b></a><br><sub>&#64;akm-coding</sub></td>
+<td align="right"><b>199</b></td>
+<td align="right">76</td>
+<td><sub>Chiang Mai, Thailand</sub></td>
+</tr>
+<tr>
+<td align="right">116</td>
+<td><a href="https://github.com/windows98SE"><img src="https://avatars.githubusercontent.com/u/1247516?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/windows98SE"><b>windows98SE</b></a><br><sub>&#64;windows98SE</sub></td>
+<td align="right"><b>199</b></td>
+<td align="right">16</td>
+<td><sub>Thailand</sub></td>
+</tr>
+<tr>
+<td align="right">117</td>
+<td><a href="https://github.com/PanJ"><img src="https://avatars.githubusercontent.com/u/1797879?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PanJ"><b>PanJ</b></a><br><sub>&#64;PanJ</sub></td>
+<td align="right"><b>197</b></td>
+<td align="right">53</td>
+<td><sub>Thailand</sub></td>
+</tr>
+<tr>
+<td align="right">118</td>
+<td><a href="https://github.com/lucaslarroche"><img src="https://avatars.githubusercontent.com/u/23470684?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lucaslarroche"><b>Lucas Larroche</b></a><br><sub>&#64;lucaslarroche</sub></td>
+<td align="right"><b>197</b></td>
+<td align="right">5</td>
+<td><sub>Thailand</sub></td>
+</tr>
+<tr>
+<td align="right">119</td>
+<td><a href="https://github.com/validcube"><img src="https://avatars.githubusercontent.com/u/93124920?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/validcube"><b>Pun Butrach</b></a><br><sub>&#64;validcube</sub></td>
+<td align="right"><b>194</b></td>
+<td align="right">68</td>
+<td><sub>Thailand</sub></td>
+</tr>
+<tr>
+<td align="right">120</td>
 <td><a href="https://github.com/IlyaRice"><img src="https://avatars.githubusercontent.com/u/136918723?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IlyaRice"><b>Ilya Rice</b></a><br><sub>&#64;IlyaRice</sub></td>
 <td align="right"><b>190</b></td>
 <td align="right">0</td>
 <td><sub>Thailand, Chiangmai</sub></td>
 </tr>
 <tr>
-<td align="right">105</td>
+<td align="right">121</td>
 <td><a href="https://github.com/jiangqizheng"><img src="https://avatars.githubusercontent.com/u/21155771?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jiangqizheng"><b>Kai jiang</b></a><br><sub>&#64;jiangqizheng</sub></td>
 <td align="right"><b>184</b></td>
 <td align="right">0</td>
 <td><sub>Bangkok</sub></td>
 </tr>
 <tr>
-<td align="right">106</td>
+<td align="right">122</td>
 <td><a href="https://github.com/ratiw"><img src="https://avatars.githubusercontent.com/u/807017?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ratiw"><b>Rati Wannapanop</b></a><br><sub>&#64;ratiw</sub></td>
 <td align="right"><b>177</b></td>
 <td align="right">0</td>
 <td><sub>Nonthaburi, Thailand</sub></td>
 </tr>
 <tr>
-<td align="right">107</td>
+<td align="right">123</td>
 <td><a href="https://github.com/offchan42"><img src="https://avatars.githubusercontent.com/u/15215732?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/offchan42"><b>Chanchana Sornsoontorn</b></a><br><sub>&#64;offchan42</sub></td>
 <td align="right"><b>169</b></td>
 <td align="right">0</td>
 <td><sub>Thailand</sub></td>
 </tr>
 <tr>
-<td align="right">108</td>
+<td align="right">124</td>
 <td><a href="https://github.com/Saramagrean"><img src="https://avatars.githubusercontent.com/u/26355472?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Saramagrean"><b>Benjamin Benda Gates</b></a><br><sub>&#64;Saramagrean</sub></td>
 <td align="right"><b>167</b></td>
 <td align="right">0</td>
 <td><sub>Thailand</sub></td>
 </tr>
 <tr>
-<td align="right">109</td>
+<td align="right">125</td>
 <td><a href="https://github.com/riverrun"><img src="https://avatars.githubusercontent.com/u/434903?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/riverrun"><b>David Whitlock</b></a><br><sub>&#64;riverrun</sub></td>
 <td align="right"><b>165</b></td>
 <td align="right">0</td>
 <td><sub>Chiang Mai, Thailand</sub></td>
 </tr>
 <tr>
-<td align="right">110</td>
+<td align="right">126</td>
+<td><a href="https://github.com/zdk"><img src="https://avatars.githubusercontent.com/u/5758?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zdk"><b>Di Warachet S.</b></a><br><sub>&#64;zdk</sub></td>
+<td align="right"><b>162</b></td>
+<td align="right">0</td>
+<td><sub>Thailand</sub></td>
+</tr>
+<tr>
+<td align="right">127</td>
 <td><a href="https://github.com/markusmoenig"><img src="https://avatars.githubusercontent.com/u/10293923?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/markusmoenig"><b>Markus Moenig</b></a><br><sub>&#64;markusmoenig</sub></td>
 <td align="right"><b>150</b></td>
 <td align="right">0</td>
 <td><sub>Phrae, Thailand</sub></td>
 </tr>
 <tr>
-<td align="right">111</td>
+<td align="right">128</td>
+<td><a href="https://github.com/afourmy"><img src="https://avatars.githubusercontent.com/u/16152622?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/afourmy"><b>Antoine Fourmy</b></a><br><sub>&#64;afourmy</sub></td>
+<td align="right"><b>148</b></td>
+<td align="right">0</td>
+<td><sub>Bangkok, Thailand</sub></td>
+</tr>
+<tr>
+<td align="right">129</td>
 <td><a href="https://github.com/moggieuk"><img src="https://avatars.githubusercontent.com/u/32878385?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/moggieuk"><b>moggieuk</b></a><br><sub>&#64;moggieuk</sub></td>
 <td align="right"><b>147</b></td>
 <td align="right">0</td>
 <td><sub>Thailand</sub></td>
 </tr>
 <tr>
-<td align="right">112</td>
+<td align="right">130</td>
 <td><a href="https://github.com/parnurzeal"><img src="https://avatars.githubusercontent.com/u/841616?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/parnurzeal"><b>Theeraphol Wattanavekin</b></a><br><sub>&#64;parnurzeal</sub></td>
 <td align="right"><b>139</b></td>
 <td align="right">0</td>
 <td><sub>Bangkok</sub></td>
 </tr>
 <tr>
-<td align="right">113</td>
+<td align="right">131</td>
 <td><a href="https://github.com/JustFly1984"><img src="https://avatars.githubusercontent.com/u/2255993?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JustFly1984"><b>Alexey Lyakhov</b></a><br><sub>&#64;JustFly1984</sub></td>
 <td align="right"><b>123</b></td>
 <td align="right">0</td>
 <td><sub>Thailand</sub></td>
 </tr>
 <tr>
-<td align="right">114</td>
+<td align="right">132</td>
 <td><a href="https://github.com/mirkokiefer"><img src="https://avatars.githubusercontent.com/u/315252?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mirkokiefer"><b>Mirko Kiefer</b></a><br><sub>&#64;mirkokiefer</sub></td>
 <td align="right"><b>119</b></td>
 <td align="right">0</td>
 <td><sub>Bangkok</sub></td>
 </tr>
 <tr>
-<td align="right">115</td>
+<td align="right">133</td>
+<td><a href="https://github.com/wangkanai"><img src="https://avatars.githubusercontent.com/u/10666633?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wangkanai"><b>Sarin Na Wangkanai</b></a><br><sub>&#64;wangkanai</sub></td>
+<td align="right"><b>113</b></td>
+<td align="right">0</td>
+<td><sub>Thailand</sub></td>
+</tr>
+<tr>
+<td align="right">134</td>
 <td><a href="https://github.com/danyuchn"><img src="https://avatars.githubusercontent.com/u/130748619?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danyuchn"><b>Dustin Yuchen Teng</b></a><br><sub>&#64;danyuchn</sub></td>
 <td align="right"><b>106</b></td>
 <td align="right">0</td>
 <td><sub>Bangkok, Thailand</sub></td>
 </tr>
 <tr>
-<td align="right">116</td>
+<td align="right">135</td>
 <td><a href="https://github.com/phnx47"><img src="https://avatars.githubusercontent.com/u/1101691?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/phnx47"><b>Serge</b></a><br><sub>&#64;phnx47</sub></td>
 <td align="right"><b>105</b></td>
 <td align="right">0</td>
 <td><sub>Thailand</sub></td>
 </tr>
 <tr>
-<td align="right">117</td>
+<td align="right">136</td>
 <td><a href="https://github.com/ThibaultJanBeyer"><img src="https://avatars.githubusercontent.com/u/12467511?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ThibaultJanBeyer"><b>Thibault Jan Beyer</b></a><br><sub>&#64;ThibaultJanBeyer</sub></td>
 <td align="right"><b>104</b></td>
 <td align="right">0</td>
 <td><sub>ChiangMai, Thailand</sub></td>
 </tr>
 <tr>
-<td align="right">118</td>
+<td align="right">137</td>
+<td><a href="https://github.com/bongtrop"><img src="https://avatars.githubusercontent.com/u/2785536?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bongtrop"><b>Pongsakorn Sommalai</b></a><br><sub>&#64;bongtrop</sub></td>
+<td align="right"><b>98</b></td>
+<td align="right">0</td>
+<td><sub>Thailand</sub></td>
+</tr>
+<tr>
+<td align="right">138</td>
 <td><a href="https://github.com/sahilm"><img src="https://avatars.githubusercontent.com/u/215823?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sahilm"><b>Sahil Muthoo</b></a><br><sub>&#64;sahilm</sub></td>
 <td align="right"><b>90</b></td>
 <td align="right">0</td>
 <td><sub>Thailand</sub></td>
 </tr>
 <tr>
-<td align="right">119</td>
+<td align="right">139</td>
 <td><a href="https://github.com/vivchar"><img src="https://avatars.githubusercontent.com/u/20920610?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vivchar"><b>Vitaly Vivchar</b></a><br><sub>&#64;vivchar</sub></td>
 <td align="right"><b>90</b></td>
 <td align="right">0</td>
 <td><sub>Thailand</sub></td>
 </tr>
 <tr>
-<td align="right">120</td>
+<td align="right">140</td>
 <td><a href="https://github.com/xan105"><img src="https://avatars.githubusercontent.com/u/14090532?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xan105"><b>Anthony Beaumont</b></a><br><sub>&#64;xan105</sub></td>
 <td align="right"><b>87</b></td>
 <td align="right">0</td>
 <td><sub>Thailand</sub></td>
 </tr>
 <tr>
-<td align="right">121</td>
+<td align="right">141</td>
 <td><a href="https://github.com/Ttanasart-pt"><img src="https://avatars.githubusercontent.com/u/22589759?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ttanasart-pt"><b>MakhamDev</b></a><br><sub>&#64;Ttanasart-pt</sub></td>
 <td align="right"><b>83</b></td>
 <td align="right">0</td>
 <td><sub>Thailand</sub></td>
 </tr>
 <tr>
-<td align="right">122</td>
+<td align="right">142</td>
 <td><a href="https://github.com/megahertz"><img src="https://avatars.githubusercontent.com/u/1762672?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/megahertz"><b>Alex Prokhorov</b></a><br><sub>&#64;megahertz</sub></td>
 <td align="right"><b>81</b></td>
 <td align="right">0</td>
 <td><sub>Thailand</sub></td>
 </tr>
 <tr>
-<td align="right">123</td>
+<td align="right">143</td>
 <td><a href="https://github.com/syabro"><img src="https://avatars.githubusercontent.com/u/29029?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/syabro"><b>Maxim Syabro</b></a><br><sub>&#64;syabro</sub></td>
 <td align="right"><b>80</b></td>
 <td align="right">0</td>
 <td><sub>Bangkok, Thailand</sub></td>
 </tr>
 <tr>
-<td align="right">124</td>
+<td align="right">144</td>
 <td><a href="https://github.com/james2m"><img src="https://avatars.githubusercontent.com/u/677?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/james2m"><b>James McCarthy</b></a><br><sub>&#64;james2m</sub></td>
 <td align="right"><b>72</b></td>
 <td align="right">0</td>
 <td><sub>Chiang Mai, Thailand</sub></td>
 </tr>
 <tr>
-<td align="right">125</td>
+<td align="right">145</td>
 <td><a href="https://github.com/mechaniac"><img src="https://avatars.githubusercontent.com/u/25416404?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mechaniac"><b>Christof Stanits</b></a><br><sub>&#64;mechaniac</sub></td>
 <td align="right"><b>63</b></td>
 <td align="right">0</td>
 <td><sub>Bangkok</sub></td>
 </tr>
 <tr>
-<td align="right">126</td>
+<td align="right">146</td>
+<td><a href="https://github.com/DevL0rd"><img src="https://avatars.githubusercontent.com/u/20004728?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DevL0rd"><b>DevL0rd</b></a><br><sub>&#64;DevL0rd</sub></td>
+<td align="right"><b>62</b></td>
+<td align="right">0</td>
+<td><sub>Bangkok Thailand</sub></td>
+</tr>
+<tr>
+<td align="right">147</td>
+<td><a href="https://github.com/natural"><img src="https://avatars.githubusercontent.com/u/146692?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/natural"><b>Troy Melhase</b></a><br><sub>&#64;natural</sub></td>
+<td align="right"><b>56</b></td>
+<td align="right">0</td>
+<td><sub>Chaing Ma, Thailand</sub></td>
+</tr>
+<tr>
+<td align="right">148</td>
+<td><a href="https://github.com/jomei"><img src="https://avatars.githubusercontent.com/u/2903027?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jomei"><b>Anatoly Nosov</b></a><br><sub>&#64;jomei</sub></td>
+<td align="right"><b>41</b></td>
+<td align="right">0</td>
+<td><sub>Phuket, Thailand</sub></td>
+</tr>
+<tr>
+<td align="right">149</td>
 <td><a href="https://github.com/GajuuzZ"><img src="https://avatars.githubusercontent.com/u/26035899?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GajuuzZ"><b>GajuuzZ</b></a><br><sub>&#64;GajuuzZ</sub></td>
 <td align="right"><b>38</b></td>
 <td align="right">0</td>
 <td><sub>Bangkok, Thailand</sub></td>
 </tr>
 <tr>
-<td align="right">127</td>
+<td align="right">150</td>
 <td><a href="https://github.com/plugin87"><img src="https://avatars.githubusercontent.com/u/5790381?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/plugin87"><b>Thientan Soparat</b></a><br><sub>&#64;plugin87</sub></td>
 <td align="right"><b>38</b></td>
 <td align="right">0</td>
 <td><sub>Prawet, Bangkok</sub></td>
 </tr>
 <tr>
-<td align="right">128</td>
+<td align="right">151</td>
+<td><a href="https://github.com/vkruglikov"><img src="https://avatars.githubusercontent.com/u/9719024?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vkruglikov"><b>Valentin</b></a><br><sub>&#64;vkruglikov</sub></td>
+<td align="right"><b>36</b></td>
+<td align="right">0</td>
+<td><sub>Thailand, Phuket</sub></td>
+</tr>
+<tr>
+<td align="right">152</td>
 <td><a href="https://github.com/claraverse-space"><img src="https://avatars.githubusercontent.com/u/230096671?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/claraverse-space"><b>ClaraVerse</b></a><br><sub>&#64;claraverse-space</sub></td>
 <td align="right"><b>33</b></td>
 <td align="right">0</td>
 <td><sub>Thailand</sub></td>
 </tr>
 <tr>
-<td align="right">129</td>
+<td align="right">153</td>
 <td><a href="https://github.com/npwitk"><img src="https://avatars.githubusercontent.com/u/40120130?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/npwitk"><b>Nonprawich Intakaew</b></a><br><sub>&#64;npwitk</sub></td>
 <td align="right"><b>29</b></td>
 <td align="right">0</td>
 <td><sub>Bangkok, Thailand</sub></td>
 </tr>
 <tr>
-<td align="right">130</td>
+<td align="right">154</td>
 <td><a href="https://github.com/signintech"><img src="https://avatars.githubusercontent.com/u/1155132?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/signintech"><b>Signin Technology</b></a><br><sub>&#64;signintech</sub></td>
 <td align="right"><b>29</b></td>
 <td align="right">0</td>
 <td><sub>Bangkok, Thailand</sub></td>
 </tr>
 <tr>
-<td align="right">131</td>
+<td align="right">155</td>
 <td><a href="https://github.com/technyon"><img src="https://avatars.githubusercontent.com/u/14868793?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/technyon"><b>Jan-Ole Schümann</b></a><br><sub>&#64;technyon</sub></td>
 <td align="right"><b>26</b></td>
 <td align="right">0</td>
 <td><sub>Bangkok</sub></td>
 </tr>
 <tr>
-<td align="right">132</td>
+<td align="right">156</td>
 <td><a href="https://github.com/waiyanmin95"><img src="https://avatars.githubusercontent.com/u/12773493?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/waiyanmin95"><b>Wai Yan Min</b></a><br><sub>&#64;waiyanmin95</sub></td>
 <td align="right"><b>25</b></td>
 <td align="right">33</td>
 <td><sub>Bangkok, Thailand</sub></td>
 </tr>
 <tr>
-<td align="right">133</td>
+<td align="right">157</td>
+<td><a href="https://github.com/andrei200287"><img src="https://avatars.githubusercontent.com/u/837480?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andrei200287"><b>Andrei</b></a><br><sub>&#64;andrei200287</sub></td>
+<td align="right"><b>24</b></td>
+<td align="right">0</td>
+<td><sub>Thailand</sub></td>
+</tr>
+<tr>
+<td align="right">158</td>
 <td><a href="https://github.com/razir"><img src="https://avatars.githubusercontent.com/u/1090818?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/razir"><b>Anton Hadutski</b></a><br><sub>&#64;razir</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">0</td>
 <td><sub>Bangkok</sub></td>
 </tr>
 <tr>
-<td align="right">134</td>
+<td align="right">159</td>
 <td><a href="https://github.com/NatemcM"><img src="https://avatars.githubusercontent.com/u/3326866?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NatemcM"><b>Nathanael McMillan</b></a><br><sub>&#64;NatemcM</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">5</td>
@@ -967,7 +1142,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 134 attributed developers are tracked; the cutoff is 2 followers.
+- Organizations are excluded. 159 attributed developers are tracked; the cutoff is 2 followers.
 - **Location discovery:** term 0 of 185 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

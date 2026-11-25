@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"GU","name":"Guam","slug":"guam"},
-"count": 99,
+"count": 97,
 "repositories": [
-  {"name":"mandoiwanaga/codewars_unfollow_allies","stars":4,"forks":2,"language":"Jupyter Notebook","archived":false,"createdAt":"2019-08-15T22:49:53Z","pushedAt":"2019-08-16T20:43:25Z","owner":{"login":"mandoiwanaga","type":"User","name":"Mando Iwanaga","location":"Guam"},"attribution":{"code":"GU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:41.126Z","id":"legacy:mandoiwanaga/codewars_unfollow_allies","legacy":true},
-  {"name":"ChairGTables/SuperLedgehop","stars":4,"forks":1,"language":"Game Maker Language","archived":false,"createdAt":"2017-12-30T12:31:02Z","pushedAt":"2022-11-17T07:58:15Z","owner":{"login":"ChairGTables","type":"User","name":"Jurichii","location":"Guam"},"attribution":{"code":"GU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:41.126Z","id":"legacy:chairgtables/superledgehop","legacy":true},
   {"name":"nanodavinci/kinery-lua-scripts","stars":3,"forks":0,"language":"Lua","archived":false,"createdAt":"2022-10-08T04:09:45Z","pushedAt":"2026-04-19T02:52:27Z","owner":{"login":"nanodavinci","type":"User","name":"leo","location":"Hagåtña, Guam"},"attribution":{"code":"GU","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T13:36:41.126Z","id":"legacy:nanodavinci/kinery-lua-scripts","legacy":true},
   {"name":"xiaden/nomarr","stars":3,"forks":0,"language":"Python","license":"NOASSERTION","archived":false,"createdAt":"2025-11-07T03:20:10Z","pushedAt":"2026-09-29T10:19:17Z","owner":{"login":"xiaden","type":"User","name":"Lucian Hardy","location":"Guam"},"attribution":{"code":"GU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:41.126Z","id":"legacy:xiaden/nomarr","legacy":true},
   {"name":"cshellz/brain-party","stars":2,"forks":1,"language":"CSS","archived":false,"createdAt":"2020-12-06T18:26:39Z","pushedAt":"2020-12-06T19:20:09Z","owner":{"login":"cshellz","type":"User","name":"Antara","location":"Marianas Trench, Guam"},"attribution":{"code":"GU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T13:36:41.126Z","id":"legacy:cshellz/brain-party","legacy":true},

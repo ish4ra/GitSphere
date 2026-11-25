@@ -8,7 +8,7 @@
 "coverage": {"basis":"partial","cutoffFollowers":0,"candidates":399,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":111,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjQ3MDQyMzI0","login":"Siumauricio","name":"Mauricio Siu","url":"https://github.com/Siumauricio","avatarUrl":"https://avatars.githubusercontent.com/u/47042324?s=80&v=4","followers":622,"publicRepos":94,"location":"Honduras, San Pedro Sula","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
-  {"rank":2,"id":"MDQ6VXNlcjM4NjA1NzM=","login":"dansiegel","name":"Dan Siegel","url":"https://github.com/dansiegel","avatarUrl":"https://avatars.githubusercontent.com/u/3860573?s=80&v=4","followers":513,"publicRepos":109,"location":"Roatan, Honduras","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
+  {"rank":2,"id":"MDQ6VXNlcjM4NjA1NzM=","login":"dansiegel","name":"Dan Siegel","url":"https://github.com/dansiegel","avatarUrl":"https://avatars.githubusercontent.com/u/3860573?s=80&v=4","followers":513,"publicRepos":110,"location":"Roatan, Honduras","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-25"},
   {"rank":3,"id":"MDQ6VXNlcjQzNjIzNjAx","login":"BryanAnariba","name":"Bryan Anariba","url":"https://github.com/BryanAnariba","avatarUrl":"https://avatars.githubusercontent.com/u/43623601?s=80&v=4","followers":382,"publicRepos":20,"location":"Honduras","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":4,"id":"MDQ6VXNlcjcwNzQ4NA==","login":"Turupawn","name":"Ahmed Castro","url":"https://github.com/Turupawn","avatarUrl":"https://avatars.githubusercontent.com/u/707484?s=80&v=4","followers":321,"publicRepos":441,"location":"San Pedro Sula, Honduras","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":5,"id":"U_kgDODQN6Ng","login":"BANARIBA","name":"ARIEL ANARIBA","url":"https://github.com/BANARIBA","avatarUrl":"https://avatars.githubusercontent.com/u/218331702?s=80&v=4","followers":314,"publicRepos":10,"location":"Honduras","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
@@ -407,8 +407,8 @@
   {"rank":398,"id":"MDQ6VXNlcjg3MTYwMDE1","login":"neptalylopez","name":"Neptaly Lopez","url":"https://github.com/neptalylopez","avatarUrl":"https://avatars.githubusercontent.com/u/87160015?s=80&v=4","followers":0,"publicRepos":1,"location":"Honduras","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":399,"id":"MDQ6VXNlcjY5NDc1MjQw","login":"vivianpavonf","name":"Vivian Pavón","url":"https://github.com/vivianpavonf","avatarUrl":"https://avatars.githubusercontent.com/u/69475240?s=80&v=4","followers":0,"publicRepos":1,"location":"Tegucigalpa, Honduras","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "78a86b54b8024de9",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "1a90fddd90f661b0",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

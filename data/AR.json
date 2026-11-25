@@ -5,7 +5,7 @@
 "country": {"code":"AR","name":"Argentina","slug":"argentina"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":719,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":120,"candidates":142,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":109,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":719,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":120,"candidates":146,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":109,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkyMzEyOTQ1OA==","name":"aseprite","nameWithOwner":"aseprite/aseprite","url":"https://github.com/aseprite/aseprite","description":"Animated sprite editor & pixel art tool (Windows, macOS, Linux)","stars":41083,"forks":9540,"primaryLanguage":"C++","license":null,"createdAt":"2014-08-19T23:44:50Z","pushedAt":"2026-11-20T16:19:42Z","archived":false,"owner":{"login":"aseprite","name":"Aseprite","type":"Organization","url":"https://github.com/aseprite","location":"Argentina","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkzMzg5NTM3OA==","name":"dragula","nameWithOwner":"bevacqua/dragula","url":"https://github.com/bevacqua/dragula","description":":ok_hand: Drag and drop so simple it hurts","stars":22114,"forks":1910,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2015-04-13T21:35:38Z","pushedAt":"2024-06-07T11:46:14Z","archived":false,"owner":{"login":"bevacqua","name":"Nicolás Bevacqua","type":"User","url":"https://github.com/bevacqua","location":"Buenos Aires, Argentina","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"MDEwOlJlcG9zaXRvcnk1ODA4ODEyOA==","name":"shots","nameWithOwner":"bevacqua/shots","url":"https://github.com/bevacqua/shots","description":":gun: pull down the entire Internet into a single animated gif.","stars":723,"forks":16,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2016-05-04T22:32:35Z","pushedAt":"2017-01-14T20:16:35Z","archived":false,"owner":{"login":"bevacqua","name":"Nicolás Bevacqua","type":"User","url":"https://github.com/bevacqua","location":"Buenos Aires, Argentina","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-24"},
   {"rank":100,"id":"MDEwOlJlcG9zaXRvcnk1NTQ0OTIz","name":"httpotion","nameWithOwner":"valpackett/httpotion","url":"https://github.com/valpackett/httpotion","description":"[Deprecated because ibrowse is not maintained] HTTP client for Elixir (use Tesla please)","stars":719,"forks":99,"primaryLanguage":"Elixir","license":{"spdxId":"Unlicense"},"createdAt":"2012-08-24T19:37:32Z","pushedAt":"2022-08-02T13:03:16Z","archived":false,"owner":{"login":"valpackett","name":"Val Packett","type":"User","url":"https://github.com/valpackett","location":"Argentina ⭐⭐⭐","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "e3a88084c0122dfd",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "02a1962aede8402e",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

@@ -5,7 +5,7 @@
 "country": {"code":"UG","name":"Uganda","slug":"uganda"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":408,"measuredAccounts":9,"measurementBacklog":399,"window":{"from":"2025-11-24T01:00:00Z","to":"2026-11-24T01:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":169,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":410,"measuredAccounts":10,"measurementBacklog":400,"window":{"from":"2025-11-24T01:00:00Z","to":"2026-11-24T01:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":169,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjY0MTg5ODQx","login":"MUKE-coder","name":"MUKE JOHNBAPTIST","url":"https://github.com/MUKE-coder","avatarUrl":"https://avatars.githubusercontent.com/u/64189841?s=80&v=4","followers":319,"publicRepos":257,"location":"KAMPALA -UGANDA","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":3987,"commits":3461,"pullRequests":31,"reviews":1,"issues":460,"repositories":34,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":2,"id":"MDQ6VXNlcjc4MDM0MQ==","login":"has2k1","name":"Hassan Kibirige","url":"https://github.com/has2k1","avatarUrl":"https://avatars.githubusercontent.com/u/780341?s=80&v=4","followers":300,"publicRepos":100,"location":"Kampala, Uganda","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":2585,"commits":2099,"pullRequests":432,"reviews":9,"issues":27,"repositories":17,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
@@ -17,8 +17,8 @@
   {"rank":8,"id":"MDQ6VXNlcjIwNzk1NDg3","login":"CryceTruly","name":"cryce truly","url":"https://github.com/CryceTruly","avatarUrl":"https://avatars.githubusercontent.com/u/20795487?s=80&v=4","followers":757,"publicRepos":193,"location":"Kampala","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-23","contributions":{"public":30,"commits":25,"pullRequests":1,"reviews":0,"issues":0,"repositories":4,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":9,"id":"MDQ6VXNlcjg1NTQwNzAx","login":"jesar-enl","name":"Jesse Kyambadde","url":"https://github.com/jesar-enl","avatarUrl":"https://avatars.githubusercontent.com/u/85540701?s=80&v=4","followers":377,"publicRepos":96,"location":"Uganda","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":4,"commits":3,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T21:00:00Z","windowTo":"2026-11-24T21:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "d2cd65de60dcfdb7",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "ef0f82f913c9043e",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

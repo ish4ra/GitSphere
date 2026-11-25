@@ -5,7 +5,7 @@
 "country": {"code":"BG","name":"Bulgaria","slug":"bulgaria"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":691,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":121,"candidates":104,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":140,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":691,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":121,"candidates":113,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":140,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk0MDY5MzA5NzU=","name":"open-source-games","nameWithOwner":"bobeff/open-source-games","url":"https://github.com/bobeff/open-source-games","description":"A list of open source games.","stars":18565,"forks":1806,"primaryLanguage":"Python","license":{"spdxId":"CC0-1.0"},"createdAt":"2021-09-15T21:35:29Z","pushedAt":"2026-02-25T20:22:58Z","archived":false,"owner":{"login":"bobeff","name":"Ivan Bobev","type":"User","url":"https://github.com/bobeff","location":"Sliven, Bulgaria","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkxMTMyMzMxOQ==","name":"parsedown","nameWithOwner":"erusev/parsedown","url":"https://github.com/erusev/parsedown","description":"Better Markdown Parser in PHP","stars":15052,"forks":1131,"primaryLanguage":"PHP","license":{"spdxId":"MIT"},"createdAt":"2013-07-10T20:23:25Z","pushedAt":"2026-02-18T15:50:34Z","archived":false,"owner":{"login":"erusev","name":"Emanuil Rusev","type":"User","url":"https://github.com/erusev","location":"Sofia, Bulgaria","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"MDEwOlJlcG9zaXRvcnk2MTQ3MjQ4OA==","name":"dynamix","nameWithOwner":"iboB/dynamix","url":"https://github.com/iboB/dynamix","description":":fish_cake: A new take on polymorphism","stars":693,"forks":48,"primaryLanguage":"C++","license":{"spdxId":"MIT"},"createdAt":"2016-06-19T09:11:56Z","pushedAt":"2026-11-24T14:47:41Z","archived":false,"owner":{"login":"iboB","name":"Borislav Stanimirov","type":"User","url":"https://github.com/iboB","location":"Sofia, Bulgaria","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-24"},
   {"rank":100,"id":"R_kgDOLJjBwQ","name":"ComfyTextures","nameWithOwner":"AlexanderDzhoganov/ComfyTextures","url":"https://github.com/AlexanderDzhoganov/ComfyTextures","description":"Unreal Engine ⚔️ ComfyUI - Automatic texturing using generative diffusion models","stars":691,"forks":86,"primaryLanguage":"C++","license":{"spdxId":"MIT"},"createdAt":"2024-01-25T14:00:23Z","pushedAt":"2024-07-26T15:57:48Z","archived":false,"owner":{"login":"AlexanderDzhoganov","name":"Alexander Dzhoganov","type":"User","url":"https://github.com/AlexanderDzhoganov","location":"Sofia, Bulgaria","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "9b8fd28fe23155e9",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "f8b38e2cbc4edf13",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

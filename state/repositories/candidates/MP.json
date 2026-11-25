@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"MP","name":"Northern Mariana Islands","slug":"northern-mariana-islands"},
-"count": 19,
+"count": 18,
 "repositories": [
-  {"name":"raipay/chronik","stars":5,"forks":6,"language":"Rust","license":"MIT","archived":false,"createdAt":"2022-03-13T20:09:30Z","pushedAt":"2024-01-03T00:43:17Z","owner":{"login":"raipay","type":"Organization","name":"raipay","location":"Northern Mariana Islands"},"attribution":{"code":"MP","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-30T06:01:19.983Z","id":"legacy:raipay/chronik","legacy":true},
   {"name":"mhscc/mhs-sh","stars":3,"forks":0,"language":"C#","license":"MIT","archived":false,"createdAt":"2021-10-17T05:05:58Z","pushedAt":"2022-09-07T09:11:21Z","owner":{"login":"mhscc","type":"Organization","name":"MHS Coding Club","location":"Saipan, Northern Mariana Islands"},"attribution":{"code":"MP","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-30T06:01:19.983Z","id":"legacy:mhscc/mhs-sh","legacy":true},
   {"name":"Ar7Backup/generator","stars":2,"forks":0,"language":"HTML","license":"MIT","archived":false,"createdAt":"2018-11-05T03:49:04Z","pushedAt":"2022-03-18T14:03:14Z","owner":{"login":"Ar7Backup","type":"Organization","name":"AR7 Backup","location":"Northern Mariana Islands"},"attribution":{"code":"MP","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-30T06:01:19.983Z","id":"legacy:ar7backup/generator","legacy":true},
   {"name":"donnaada/starter-template","stars":2,"forks":0,"language":"CSS","license":"MIT","archived":false,"createdAt":"2023-02-26T01:19:35Z","pushedAt":"2023-03-13T07:44:53Z","owner":{"login":"donnaada","type":"User","name":"Donna Ada","location":"Saipan, MP"},"attribution":{"code":"MP","confidence":"medium","evidence":"consistent-places"},"seenAt":"2026-10-30T06:01:19.983Z","id":"legacy:donnaada/starter-template","legacy":true},

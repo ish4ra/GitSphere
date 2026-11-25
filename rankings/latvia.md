@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **42** | 01 Nov 2026 | <a href="../data/LV.json">JSON</a> |
-
-> **Not yet re-verified.** 1 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **48** | 22 Nov 2026 | <a href="../data/LV.json">JSON</a> |
 
 </div>
 
@@ -312,10 +310,52 @@
 </tr>
 <tr>
 <td align="right">42</td>
-<td><img src="https://github.com/Peteris-Zvejnieks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Peteris-Zvejnieks/MHT-X"><b>Peteris-Zvejnieks/MHT-X</b></a></td>
-<td align="right"><b>5</b></td>
-<td align="right">3</td>
+<td><img src="https://github.com/SIA-IOTechnology.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SIA-IOTechnology/Kittysploit-framework"><b>SIA-IOTechnology/Kittysploit-framework</b></a><br><sub>Python Exploitation Framework, V8 Engine Debugger, Proxy interceptor, marketplace, post-exploitation, backdoor generato…</sub></td>
+<td align="right"><b>635</b></td>
+<td align="right">101</td>
 <td>Python</td>
+</tr>
+<tr>
+<td align="right">43</td>
+<td><img src="https://github.com/nezvers.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nezvers/Godot_goodies"><b>nezvers/Godot&#95;goodies</b></a><br><sub>Collection of nice stuff for Godot</sub></td>
+<td align="right"><b>606</b></td>
+<td align="right">26</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><img src="https://github.com/ONLYOFFICE.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ONLYOFFICE/Docker-CommunityServer"><b>ONLYOFFICE/Docker-CommunityServer</b></a><br><sub>Collaborative system for managing documents, projects, customer relations and emails in one place</sub></td>
+<td align="right"><b>605</b></td>
+<td align="right">209</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">45</td>
+<td><img src="https://github.com/0ki.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0ki/mikrotik-tools"><b>0ki/mikrotik-tools</b></a><br><sub>Tools for Mikrotik devices</sub></td>
+<td align="right"><b>600</b></td>
+<td align="right">185</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">46</td>
+<td><img src="https://github.com/evanca.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/evanca/quick-portfolio"><b>evanca/quick-portfolio</b></a><br><sub>&#91;DISCONTINUED&#93; Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll them…</sub></td>
+<td align="right"><b>598</b></td>
+<td align="right">5,700</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">47</td>
+<td><img src="https://github.com/finchalyzer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/finchalyzer/slinky"><b>finchalyzer/slinky</b></a><br><sub>Export your Sketch designs as HTML email templates</sub></td>
+<td align="right"><b>593</b></td>
+<td align="right">27</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><img src="https://github.com/rsim.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rsim/oracle-enhanced"><b>rsim/oracle-enhanced</b></a><br><sub>Oracle enhaced adapter for ActiveRecord</sub></td>
+<td align="right"><b>570</b></td>
+<td align="right">324</td>
+<td>Ruby</td>
 </tr>
 </tbody>
 </table>
@@ -323,11 +363,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 5 stars; 42 attributed candidates are tracked.
-- 1 entries were carried over from the previous dataset and are pending revalidation.
-- 119 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 570 stars; 48 attributed candidates are tracked.
+- 113 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 136 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

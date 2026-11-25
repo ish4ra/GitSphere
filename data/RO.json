@@ -5,7 +5,7 @@
 "country": {"code":"RO","name":"Romania","slug":"romania"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":779,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":122,"candidates":120,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":154,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":779,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":122,"candidates":141,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":154,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxNzI1NjI0NzU=","name":"app-ideas","nameWithOwner":"florinpop17/app-ideas","url":"https://github.com/florinpop17/app-ideas","description":"A Collection of application ideas which can be used to improve your coding skills.","stars":98672,"forks":10679,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2019-02-25T18:36:56Z","pushedAt":"2025-10-11T14:51:21Z","archived":false,"owner":{"login":"florinpop17","name":"Florin Pop","type":"User","url":"https://github.com/florinpop17","location":"Romania","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"R_kgDOMf15Pg","name":"react-bits","nameWithOwner":"DavidHDev/react-bits","url":"https://github.com/DavidHDev/react-bits","description":"The largest open-source library of animated, interactive, and customizable React & Next.js components for building standout web products and experiences. Built…","stars":52469,"forks":2658,"primaryLanguage":"JavaScript","license":{"spdxId":"NOASSERTION"},"createdAt":"2024-08-06T06:54:54Z","pushedAt":"2026-11-19T23:05:03Z","archived":false,"owner":{"login":"DavidHDev","name":"David","type":"User","url":"https://github.com/DavidHDev","location":"Cluj-Napoca","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"MDEwOlJlcG9zaXRvcnkxNTgyMjkyOTI=","name":"html-templates","nameWithOwner":"georgebrata/html-templates","url":"https://github.com/georgebrata/html-templates","description":"100 simple & elegant HTML templates 💯","stars":781,"forks":130,"primaryLanguage":"HTML","license":null,"createdAt":"2018-11-19T13:38:37Z","pushedAt":"2026-08-27T16:22:53Z","archived":false,"owner":{"login":"georgebrata","name":"George Brata","type":"User","url":"https://github.com/georgebrata","location":"Romania","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-24"},
   {"rank":100,"id":"R_kgDOREwcDA","name":"claude-code-java","nameWithOwner":"decebals/claude-code-java","url":"https://github.com/decebals/claude-code-java","description":"Reusable AI development infrastructure for Java projects, optimized for Claude Code","stars":779,"forks":153,"primaryLanguage":"Shell","license":{"spdxId":"MIT"},"createdAt":"2026-01-30T09:26:22Z","pushedAt":"2026-10-29T22:35:52Z","archived":false,"owner":{"login":"decebals","name":"Decebal Suiu","type":"User","url":"https://github.com/decebals","location":"Bucharest","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "1ca00b4802b1f8c0",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "b107cd87e8df1afc",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

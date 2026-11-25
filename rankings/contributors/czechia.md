@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/CZ.json">JSON</a> |
+| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/contributors/CZ.json">JSON</a> |
 
 </div>
 
@@ -88,6 +88,15 @@
 </tr>
 <tr>
 <td align="right">8</td>
+<td><a href="https://github.com/simi"><img src="https://avatars.githubusercontent.com/u/193936?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/simi"><b>Josef Šimánek</b></a><br><sub>&#64;simi · 195 followers</sub></td>
+<td align="right"><b>1,611</b></td>
+<td align="right">853</td>
+<td align="right">276</td>
+<td align="right">459</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">9</td>
 <td><a href="https://github.com/encukou"><img src="https://avatars.githubusercontent.com/u/302922?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/encukou"><b>Petr Viktorin</b></a><br><sub>&#64;encukou · 433 followers</sub></td>
 <td align="right"><b>1,170</b></td>
 <td align="right">498</td>
@@ -96,7 +105,7 @@
 <td align="right">71</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/capaj"><img src="https://avatars.githubusercontent.com/u/1305378?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/capaj"><b>Jiri Spac</b></a><br><sub>&#64;capaj · 239 followers</sub></td>
 <td align="right"><b>1,153</b></td>
 <td align="right">913</td>
@@ -105,7 +114,16 @@
 <td align="right">38</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
+<td><a href="https://github.com/jtojnar"><img src="https://avatars.githubusercontent.com/u/705123?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jtojnar"><b>Jan Tojnar</b></a><br><sub>&#64;jtojnar · 205 followers</sub></td>
+<td align="right"><b>1,151</b></td>
+<td align="right">742</td>
+<td align="right">179</td>
+<td align="right">188</td>
+<td align="right">26</td>
+</tr>
+<tr>
+<td align="right">12</td>
 <td><a href="https://github.com/hroncok"><img src="https://avatars.githubusercontent.com/u/2401856?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hroncok"><b>Miro Hrončok</b></a><br><sub>&#64;hroncok · 336 followers</sub></td>
 <td align="right"><b>781</b></td>
 <td align="right">537</td>
@@ -114,7 +132,7 @@
 <td align="right">69</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">13</td>
 <td><a href="https://github.com/jirutka"><img src="https://avatars.githubusercontent.com/u/949228?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jirutka"><b>Jakub Jirutka</b></a><br><sub>&#64;jirutka · 557 followers</sub></td>
 <td align="right"><b>511</b></td>
 <td align="right">464</td>
@@ -123,7 +141,7 @@
 <td align="right">24</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">14</td>
 <td><a href="https://github.com/icebeam7"><img src="https://avatars.githubusercontent.com/u/6038239?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/icebeam7"><b>Luis Beltran</b></a><br><sub>&#64;icebeam7 · 591 followers</sub></td>
 <td align="right"><b>370</b></td>
 <td align="right">291</td>
@@ -132,7 +150,7 @@
 <td align="right">9</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">15</td>
 <td><a href="https://github.com/TomasHubelbauer"><img src="https://avatars.githubusercontent.com/u/6831144?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TomasHubelbauer"><b>Tomáš Hübelbauer</b></a><br><sub>&#64;TomasHubelbauer · 357 followers</sub></td>
 <td align="right"><b>176</b></td>
 <td align="right">139</td>
@@ -141,7 +159,7 @@
 <td align="right">17</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">16</td>
 <td><a href="https://github.com/catalinmiron"><img src="https://avatars.githubusercontent.com/u/2805320?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/catalinmiron"><b>Catalin Miron</b></a><br><sub>&#64;catalinmiron · 2,861 followers</sub></td>
 <td align="right"><b>83</b></td>
 <td align="right">79</td>
@@ -156,7 +174,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 15 of 599 discovered developers (584 awaiting measurement).
+- **Measured:** 17 of 629 discovered developers (612 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 178 in round 1.

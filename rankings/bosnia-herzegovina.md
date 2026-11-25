@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **17** | 22 Nov 2026 | <a href="../data/BA.json">JSON</a> |
+| 🟡 Provisional | **20** | 22 Nov 2026 | <a href="../data/BA.json">JSON</a> |
 
 </div>
 
@@ -140,6 +140,27 @@
 <td align="right">91</td>
 <td>Shell</td>
 </tr>
+<tr>
+<td align="right">18</td>
+<td><img src="https://github.com/AleksaMCode.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AleksaMCode/WiFi-password-stealer"><b>AleksaMCode/WiFi-password-stealer</b></a><br><sub>Simple Windows and Linux keystroke injection tool that exfiltrates stored WiFi data (SSID and password).</sub></td>
+<td align="right"><b>611</b></td>
+<td align="right">53</td>
+<td>PowerShell</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><img src="https://github.com/nadirbad.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nadirbad/VerticalSliceArchitecture"><b>nadirbad/VerticalSliceArchitecture</b></a><br><sub>Vertical Slice Architecture solution template in .NET 10</sub></td>
+<td align="right"><b>604</b></td>
+<td align="right">100</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><img src="https://github.com/komljen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/komljen/dockerfile-examples"><b>komljen/dockerfile-examples</b></a><br><sub>Dockerfile examples</sub></td>
+<td align="right"><b>587</b></td>
+<td align="right">492</td>
+<td>Shell</td>
+</tr>
 </tbody>
 </table>
 
@@ -148,8 +169,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 677 stars; 17 attributed candidates are tracked.
-- 120 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 587 stars; 20 attributed candidates are tracked.
+- 118 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 123 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

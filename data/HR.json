@@ -5,7 +5,7 @@
 "country": {"code":"HR","name":"Croatia","slug":"croatia"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":759,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":115,"candidates":114,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":145,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":759,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":115,"candidates":133,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":145,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkyNzU2MTEwMg==","name":"maltrail","nameWithOwner":"stamparm/maltrail","url":"https://github.com/stamparm/maltrail","description":"Malicious traffic detection system","stars":8661,"forks":1272,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2014-12-04T21:33:46Z","pushedAt":"2026-11-22T00:00:30Z","archived":false,"owner":{"login":"stamparm","name":"Miroslav Stampar","type":"User","url":"https://github.com/stamparm","location":"Croatia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"R_kgDOJDk6Gw","name":"project_3D_developer_portfolio","nameWithOwner":"adrianhajdin/project_3D_developer_portfolio","url":"https://github.com/adrianhajdin/project_3D_developer_portfolio","description":"The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portf…","stars":7132,"forks":1694,"primaryLanguage":"JavaScript","license":null,"createdAt":"2023-02-28T15:07:11Z","pushedAt":"2024-10-29T09:21:29Z","archived":false,"owner":{"login":"adrianhajdin","name":"Adrian Hajdin - JS Mastery","type":"User","url":"https://github.com/adrianhajdin","location":"Croatia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-22"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"R_kgDOMDG3fg","name":"podcastr","nameWithOwner":"adrianhajdin/podcastr","url":"https://github.com/adrianhajdin/podcastr","description":null,"stars":775,"forks":150,"primaryLanguage":"TypeScript","license":null,"createdAt":"2024-05-31T10:30:32Z","pushedAt":"2024-06-01T19:33:24Z","archived":false,"owner":{"login":"adrianhajdin","name":"Adrian Hajdin - JS Mastery","type":"User","url":"https://github.com/adrianhajdin","location":"Croatia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-24"},
   {"rank":100,"id":"MDEwOlJlcG9zaXRvcnkxMTg4OTY0NDY=","name":"twitch-dl","nameWithOwner":"ihabunek/twitch-dl","url":"https://github.com/ihabunek/twitch-dl","description":"CLI tool for downloading videos from Twitch.","stars":759,"forks":79,"primaryLanguage":"Python","license":{"spdxId":"GPL-3.0"},"createdAt":"2018-01-25T10:09:08Z","pushedAt":"2026-08-23T10:14:54Z","archived":false,"owner":{"login":"ihabunek","name":"Ivan Habunek","type":"User","url":"https://github.com/ihabunek","location":"Zagreb, Croatia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "fc3cc02f0a1afd81",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "07ed6729cd8baea2",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

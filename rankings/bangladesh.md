@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **100** | 04 Nov 2026 | <a href="../data/BD.json">JSON</a> |
-
-> **Not yet re-verified.** 19 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟢 Published | **100** | 22 Nov 2026 | <a href="../data/BD.json">JSON</a> |
 
 </div>
 
@@ -592,136 +590,136 @@
 </tr>
 <tr>
 <td align="right">82</td>
-<td><img src="https://github.com/irejaul.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/irejaul/Business-Plan-Entrepreneurship"><b>irejaul/Business-Plan-Entrepreneurship</b></a></td>
-<td align="right"><b>4</b></td>
-<td align="right">1</td>
-<td>Python</td>
+<td><img src="https://github.com/mrhm-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mrhm-dev/full-stack-army"><b>mrhm-dev/full-stack-army</b></a></td>
+<td align="right"><b>651</b></td>
+<td align="right">353</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">83</td>
-<td><img src="https://github.com/amiovro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/amiovro/freelancing-marketplace"><b>amiovro/freelancing-marketplace</b></a></td>
-<td align="right"><b>4</b></td>
-<td align="right">0</td>
-<td>Python</td>
+<td><img src="https://github.com/MBSTUPC.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MBSTUPC/tech-companies-in-bangladesh"><b>MBSTUPC/tech-companies-in-bangladesh</b></a><br><sub>List of tech companies to help developers to find job.</sub></td>
+<td align="right"><b>649</b></td>
+<td align="right">393</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">84</td>
-<td><img src="https://github.com/nslabz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nslabz/nsHover"><b>nslabz/nsHover</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">0</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/uideck.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/uideck/play-bootstrap"><b>uideck/play-bootstrap</b></a><br><sub>Free HTML Template for - Startup, SaaS, Business, App, and Software Website &amp; Landing Page. Play is 100% Free and Open-…</sub></td>
+<td align="right"><b>642</b></td>
+<td align="right">150</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td align="right">85</td>
-<td><img src="https://github.com/sumitsaha.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sumitsaha/sumitsaha.github.io"><b>sumitsaha/sumitsaha.github.io</b></a></td>
-<td align="right"><b>3</b></td>
-<td align="right">0</td>
-<td>HTML</td>
+<td><img src="https://github.com/Quincunx33.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Quincunx33/Ai-jailbreak"><b>Quincunx33/Ai-jailbreak</b></a><br><sub>A collection of jailbreak prompts and exploit techniques for local and frontier AI models, with modern methods for Qwen…</sub></td>
+<td align="right"><b>632</b></td>
+<td align="right">98</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">86</td>
-<td><img src="https://github.com/afzalur.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/afzalur/victimsupportsystem"><b>afzalur/victimsupportsystem</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">1</td>
-<td>PHP</td>
+<td><img src="https://github.com/PriontoAbdullah.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PriontoAbdullah/Frontend-Interview-Preparation-for-Interns-and-Junior-Developers"><b>PriontoAbdullah/Frontend-Interview-Preparation-for-Interns-and-Junior-Developers</b></a><br><sub>🔥🚀 Here you will find all the materials required for a fresher front-end interview. 💡📚 A list of helpful front-end…</sub></td>
+<td align="right"><b>631</b></td>
+<td align="right">170</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">87</td>
-<td><img src="https://github.com/ewuSakib.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ewuSakib/c-cpp-java"><b>ewuSakib/c-cpp-java</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">1</td>
-<td>—</td>
+<td><img src="https://github.com/AHS12.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AHS12/thoth-blueprint"><b>AHS12/thoth-blueprint</b></a><br><sub>Design databases the way you think. Create unlimited schemas, import existing designs, visualize relationships, export…</sub></td>
+<td align="right"><b>630</b></td>
+<td align="right">55</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">88</td>
-<td><img src="https://github.com/mdbadsha92.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mdbadsha92/Routine-management-with-php"><b>mdbadsha92/Routine-management-with-php</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">1</td>
-<td>PHP</td>
+<td><img src="https://github.com/rexa-developer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rexa-developer/tiks"><b>rexa-developer/tiks</b></a><br><sub>Procedural UI sounds for the web. Zero audio files. Pure synthesis.</sub></td>
+<td align="right"><b>629</b></td>
+<td align="right">9</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">89</td>
-<td><img src="https://github.com/acidage.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/acidage/DFL-Colab-Fix"><b>acidage/DFL-Colab-Fix</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
-<td>Jupyter Notebook</td>
+<td><img src="https://github.com/OpenBangla.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/OpenBangla/OpenBangla-Keyboard"><b>OpenBangla/OpenBangla-Keyboard</b></a><br><sub>An OpenSource, Unicode compliant Bengali Input Method</sub></td>
+<td align="right"><b>627</b></td>
+<td align="right">91</td>
+<td>C++</td>
 </tr>
 <tr>
 <td align="right">90</td>
-<td><img src="https://github.com/manik018.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/manik018/maniks-server-toolkit"><b>manik018/maniks-server-toolkit</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
-<td>Shell</td>
+<td><img src="https://github.com/manjurulhoque.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/manjurulhoque/django-job-portal"><b>manjurulhoque/django-job-portal</b></a><br><sub>Job portal application using Django</sub></td>
+<td align="right"><b>623</b></td>
+<td align="right">277</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">91</td>
-<td><img src="https://github.com/stupidcode.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stupidcode/different-cover-pic-for-different-post-in-ghost"><b>stupidcode/different-cover-pic-for-different-post-in-ghost</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
-<td>—</td>
+<td><img src="https://github.com/Mahmud0808.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mahmud0808/PixelLauncherEnhanced"><b>Mahmud0808/PixelLauncherEnhanced</b></a><br><sub>An Xposed module to unleash the full potential of your launcher!</sub></td>
+<td align="right"><b>610</b></td>
+<td align="right">46</td>
+<td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">92</td>
-<td><img src="https://github.com/tamim-answari.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tamim-answari/node-mysql-sequielize-crud"><b>tamim-answari/node-mysql-sequielize-crud</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/TareqMonwer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TareqMonwer/Django-School-Management"><b>TareqMonwer/Django-School-Management</b></a><br><sub>Transform your school with our intuitive Django School Management System. Seamlessly manage payments, simplify e-admiss…</sub></td>
+<td align="right"><b>598</b></td>
+<td align="right">270</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">93</td>
-<td><img src="https://github.com/AibNihan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AibNihan/aibnihan.github.io"><b>AibNihan/aibnihan.github.io</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">3</td>
-<td>HTML</td>
+<td><img src="https://github.com/rng70.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rng70/Hacking-Resources"><b>rng70/Hacking-Resources</b></a><br><sub>This repository contains some resources for ethical hackers penetration tester 😊 This may contain some files, tools, b…</sub></td>
+<td align="right"><b>593</b></td>
+<td align="right">145</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">94</td>
-<td><img src="https://github.com/oEtab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/oEtab/arlina-design"><b>oEtab/arlina-design</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">2</td>
-<td>JavaScript</td>
+<td><img src="https://github.com/seeam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/seeam/Practical-Digital-Product-Design-2025-Free"><b>seeam/Practical-Digital-Product-Design-2025-Free</b></a><br><sub>A free version of my paid use interface and digital product design course in Bengali.</sub></td>
+<td align="right"><b>589</b></td>
+<td align="right">182</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">95</td>
-<td><img src="https://github.com/j0midar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/j0midar/video"><b>j0midar/video</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>PHP</td>
+<td><img src="https://github.com/hasinhayder.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hasinhayder/tailwind-cards"><b>hasinhayder/tailwind-cards</b></a><br><sub>A growing collection of text/image cards you can use/copy-paste in your tailwind css projects</sub></td>
+<td align="right"><b>589</b></td>
+<td align="right">74</td>
+<td>CSS</td>
 </tr>
 <tr>
 <td align="right">96</td>
-<td><img src="https://github.com/mhb-babu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mhb-babu/iOS_mask_effect"><b>mhb-babu/iOS&#95;mask&#95;effect</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>Swift</td>
+<td><img src="https://github.com/kmhmubin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kmhmubin/Face-Recognition-Attendance-System"><b>kmhmubin/Face-Recognition-Attendance-System</b></a><br><sub>Face Detection &#124; Recognition &#124; Attendance</sub></td>
+<td align="right"><b>584</b></td>
+<td align="right">203</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">97</td>
-<td><img src="https://github.com/mhshaon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mhshaon/mcq-exam-system"><b>mhshaon/mcq-exam-system</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
+<td><img src="https://github.com/codewithsadee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/codewithsadee/grilli"><b>codewithsadee/grilli</b></a><br><sub>Grilli is a fully responsive restaurant website, Responsive for all devices, build using HTML, CSS, and JavaScript.</sub></td>
+<td align="right"><b>579</b></td>
+<td align="right">315</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">98</td>
-<td><img src="https://github.com/mortuzacreative.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mortuzacreative/android-sound-detector-curve"><b>mortuzacreative/android-sound-detector-curve</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>Java</td>
+<td><img src="https://github.com/Mahmud0808.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mahmud0808/TeleDrive"><b>Mahmud0808/TeleDrive</b></a><br><sub>Turn a private Telegram channel into your personal cloud drive. Android, Windows, Linux and macOS, auto backup, optiona…</sub></td>
+<td align="right"><b>579</b></td>
+<td align="right">67</td>
+<td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">99</td>
-<td><img src="https://github.com/paybillsbd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/paybillsbd/pay-bills"><b>paybillsbd/pay-bills</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>PHP</td>
+<td><img src="https://github.com/siambhau.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/siambhau/FreeFireApi"><b>siambhau/FreeFireApi</b></a><br><sub>Free Fire Centralized REST API — 34 endpoints across 19 groups. Player Info, JWT, Ban Check, Guild Tools, Bind/Unbind,…</sub></td>
+<td align="right"><b>579</b></td>
+<td align="right">67</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">100</td>
-<td><img src="https://github.com/rafi-nascenia.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rafi-nascenia/dotfiles"><b>rafi-nascenia/dotfiles</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>Shell</td>
+<td><img src="https://github.com/biplobsd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/biplobsd/OneClickRun"><b>biplobsd/OneClickRun</b></a> <sub>archived</sub><br><sub>Another colab notebook!</sub></td>
+<td align="right"><b>575</b></td>
+<td align="right">432</td>
+<td>Jupyter Notebook</td>
 </tr>
 </tbody>
 </table>
@@ -729,10 +727,9 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 1 stars; 119 attributed candidates are tracked.
-- 19 entries were carried over from the previous dataset and are pending revalidation.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 575 stars; 138 attributed candidates are tracked.
 - 129 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 173 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

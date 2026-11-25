@@ -129,7 +129,7 @@
 <tr>
 <td align="right">16</td>
 <td><a href="https://github.com/dalerank"><img src="https://avatars.githubusercontent.com/u/918081?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dalerank"><b>dalerank</b></a><br><sub>&#64;dalerank</sub></td>
-<td align="right"><b>144</b></td>
+<td align="right"><b>145</b></td>
 <td align="right">45</td>
 <td><sub>Sliema, Malta</sub></td>
 </tr>

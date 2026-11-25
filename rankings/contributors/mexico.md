@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/MX.json">JSON</a> |
+| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/MX.json">JSON</a> |
 
 </div>
 
@@ -52,6 +52,15 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/Klozz"><img src="https://avatars.githubusercontent.com/u/1660388?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Klozz"><b>klozz (TeamMEX)</b></a><br><sub>&#64;Klozz · 197 followers</sub></td>
+<td align="right"><b>819</b></td>
+<td align="right">739</td>
+<td align="right">52</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/carlosjaime"><img src="https://avatars.githubusercontent.com/u/5743626?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/carlosjaime"><b>Carlos Jaime López Martínez (JIMMY)</b></a><br><sub>&#64;carlosjaime · 469 followers</sub></td>
 <td align="right"><b>160</b></td>
 <td align="right">89</td>
@@ -60,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/miguelraz"><img src="https://avatars.githubusercontent.com/u/13056181?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/miguelraz"><b>Miguel Raz Guzmán Macedo</b></a><br><sub>&#64;miguelraz · 448 followers</sub></td>
 <td align="right"><b>147</b></td>
 <td align="right">47</td>
@@ -69,7 +78,7 @@
 <td align="right">17</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/coderdiaz"><img src="https://avatars.githubusercontent.com/u/1901273?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/coderdiaz"><b>Javier Diaz</b></a><br><sub>&#64;coderdiaz · 451 followers</sub></td>
 <td align="right"><b>115</b></td>
 <td align="right">80</td>
@@ -78,7 +87,7 @@
 <td align="right">5</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/cogitovsmachina"><img src="https://avatars.githubusercontent.com/u/290864?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cogitovsmachina"><b>Kike Diaz</b></a><br><sub>&#64;cogitovsmachina · 466 followers</sub></td>
 <td align="right"><b>101</b></td>
 <td align="right">75</td>
@@ -87,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/hectorip"><img src="https://avatars.githubusercontent.com/u/1203545?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hectorip"><b>Héctor Iván Patricio Moreno</b></a><br><sub>&#64;hectorip · 282 followers</sub></td>
 <td align="right"><b>49</b></td>
 <td align="right">48</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/mikenieva"><img src="https://avatars.githubusercontent.com/u/1256678?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikenieva"><b>Mike Nieva</b></a><br><sub>&#64;mikenieva · 903 followers</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">12</td>
@@ -111,7 +120,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 10 of 525 discovered developers (515 awaiting measurement).
+- **Measured:** 11 of 550 discovered developers (539 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 153 in round 1.

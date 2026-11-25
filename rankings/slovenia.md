@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **43** | 03 Nov 2026 | <a href="../data/SI.json">JSON</a> |
-
-> **Not yet re-verified.** 2 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟡 Provisional | **45** | 22 Nov 2026 | <a href="../data/SI.json">JSON</a> |
 
 </div>
 
@@ -312,17 +310,31 @@
 </tr>
 <tr>
 <td align="right">42</td>
-<td><img src="https://github.com/zmilan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zmilan/laravel-docker-setup"><b>zmilan/laravel-docker-setup</b></a></td>
-<td align="right"><b>6</b></td>
-<td align="right">2</td>
-<td>Dockerfile</td>
+<td><img src="https://github.com/blazsolar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/blazsolar/android-collapse-calendar-view"><b>blazsolar/android-collapse-calendar-view</b></a><br><sub>Android calendar view that can be toggled between week and month view.</sub></td>
+<td align="right"><b>626</b></td>
+<td align="right">201</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">43</td>
-<td><img src="https://github.com/bizzthemes.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bizzthemes/bizznis"><b>bizzthemes/bizznis</b></a></td>
-<td align="right"><b>6</b></td>
-<td align="right">1</td>
-<td>PHP</td>
+<td><img src="https://github.com/maticzav.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maticzav/swift-graphql"><b>maticzav/swift-graphql</b></a><br><sub>A GraphQL client that lets you forget about GraphQL.</sub></td>
+<td align="right"><b>621</b></td>
+<td align="right">68</td>
+<td>Swift</td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><img src="https://github.com/alekseykulikov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alekseykulikov/storage"><b>alekseykulikov/storage</b></a><br><sub>Asynchronous browser storage with multiple back-ends (IndexedDB, WebSQL, localStorage)</sub></td>
+<td align="right"><b>595</b></td>
+<td align="right">20</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">45</td>
+<td><img src="https://github.com/RedPitaya.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RedPitaya/RedPitaya"><b>RedPitaya/RedPitaya</b></a><br><sub>Red Pitaya Ecosystem and Applications</sub></td>
+<td align="right"><b>572</b></td>
+<td align="right">650</td>
+<td>C++</td>
 </tr>
 </tbody>
 </table>
@@ -330,11 +342,10 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
+- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 6 stars; 43 attributed candidates are tracked.
-- 2 entries were carried over from the previous dataset and are pending revalidation.
-- 111 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 572 stars; 45 attributed candidates are tracked.
+- 108 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 220 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

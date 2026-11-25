@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/liberatricebaizer"><img src="https://avatars.githubusercontent.com/u/92096502?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/liberatricebaizer"><b>liberatrice bayizere</b></a><br><sub>&#64;liberatricebaizer</sub></td>
-<td align="right"><b>195</b></td>
+<td align="right"><b>198</b></td>
 <td align="right">19</td>
 <td><sub>Bujumbura Burundi</sub></td>
 </tr>
@@ -408,17 +408,17 @@
 </tr>
 <tr>
 <td align="right">56</td>
+<td><a href="https://github.com/demuk"><img src="https://avatars.githubusercontent.com/u/13274711?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/demuk"><b>Kiptoo Dennis</b></a><br><sub>&#64;demuk</sub></td>
+<td align="right"><b>14</b></td>
+<td align="right">64</td>
+<td><sub>Gitega, Burundi</sub></td>
+</tr>
+<tr>
+<td align="right">57</td>
 <td><a href="https://github.com/tutubunso"><img src="https://avatars.githubusercontent.com/u/70760225?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tutubunso"><b>Butungane Aymard</b></a><br><sub>&#64;tutubunso</sub></td>
 <td align="right"><b>14</b></td>
 <td align="right">7</td>
 <td><sub>Bujumbura,Burundi</sub></td>
-</tr>
-<tr>
-<td align="right">57</td>
-<td><a href="https://github.com/demuk"><img src="https://avatars.githubusercontent.com/u/13274711?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/demuk"><b>Kiptoo Dennis</b></a><br><sub>&#64;demuk</sub></td>
-<td align="right"><b>13</b></td>
-<td align="right">64</td>
-<td><sub>Gitega, Burundi</sub></td>
 </tr>
 <tr>
 <td align="right">58</td>

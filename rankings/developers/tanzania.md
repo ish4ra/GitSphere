@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **18** | 22 Nov 2026 | <a href="../../data/developers/TZ.json">JSON</a> |
+| 🟡 Provisional | **24** | 22 Nov 2026 | <a href="../../data/developers/TZ.json">JSON</a> |
 
 </div>
 
@@ -142,10 +142,52 @@
 </tr>
 <tr>
 <td align="right">18</td>
+<td><a href="https://github.com/Pheogrammer"><img src="https://avatars.githubusercontent.com/u/38786848?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Pheogrammer"><b>Alfeo Raymond</b></a><br><sub>&#64;Pheogrammer</sub></td>
+<td align="right"><b>217</b></td>
+<td align="right">88</td>
+<td><sub>Dar es salaam, Tanzania</sub></td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><a href="https://github.com/AvicennaJr"><img src="https://avatars.githubusercontent.com/u/87450618?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AvicennaJr"><b>Avicenna</b></a><br><sub>&#64;AvicennaJr</sub></td>
+<td align="right"><b>216</b></td>
+<td align="right">105</td>
+<td><sub>Dar Es Salaam, Tanzania</sub></td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><a href="https://github.com/shadrackjm"><img src="https://avatars.githubusercontent.com/u/129520133?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shadrackjm"><b>Shadrack Mballah</b></a><br><sub>&#64;shadrackjm</sub></td>
+<td align="right"><b>216</b></td>
+<td align="right">69</td>
+<td><sub>Dar es Salaam, Tanzania</sub></td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><a href="https://github.com/nassdaq"><img src="https://avatars.githubusercontent.com/u/130301357?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nassdaq"><b>Suleiman Nassdaq</b></a><br><sub>&#64;nassdaq</sub></td>
+<td align="right"><b>197</b></td>
+<td align="right">92</td>
+<td><sub>Dar es salaam,Tanzania</sub></td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><a href="https://github.com/3nock"><img src="https://avatars.githubusercontent.com/u/82775800?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/3nock"><b>Enock</b></a><br><sub>&#64;3nock</sub></td>
+<td align="right"><b>186</b></td>
+<td align="right">0</td>
+<td><sub>Dar es Salaam, Tanzania</sub></td>
+</tr>
+<tr>
+<td align="right">23</td>
 <td><a href="https://github.com/thysultan"><img src="https://avatars.githubusercontent.com/u/810601?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thysultan"><b>Sultan</b></a><br><sub>&#64;thysultan</sub></td>
 <td align="right"><b>179</b></td>
 <td align="right">0</td>
 <td><sub>DSM, TZ</sub></td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td><a href="https://github.com/yezyilomo"><img src="https://avatars.githubusercontent.com/u/20328561?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yezyilomo"><b>Yezy Ilomo</b></a><br><sub>&#64;yezyilomo</sub></td>
+<td align="right"><b>143</b></td>
+<td align="right">0</td>
+<td><sub>Dar es salaam, Tanzania</sub></td>
 </tr>
 </tbody>
 </table>
@@ -155,7 +197,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 18 attributed developers are tracked; the cutoff is 179 followers.
+- Organizations are excluded. 24 attributed developers are tracked; the cutoff is 143 followers.
 - **Location discovery:** term 0 of 145 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

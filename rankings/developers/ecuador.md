@@ -122,15 +122,15 @@
 <tr>
 <td align="right">15</td>
 <td><a href="https://github.com/jxlarrea"><img src="https://avatars.githubusercontent.com/u/309902?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jxlarrea"><b>Xavier Larrea</b></a><br><sub>&#64;jxlarrea</sub></td>
-<td align="right"><b>171</b></td>
-<td align="right">0</td>
+<td align="right"><b>173</b></td>
+<td align="right">32</td>
 <td><sub>Ecuador</sub></td>
 </tr>
 <tr>
 <td align="right">16</td>
 <td><a href="https://github.com/sauljabin"><img src="https://avatars.githubusercontent.com/u/5039802?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sauljabin"><b>Saúl Piña</b></a><br><sub>&#64;sauljabin</sub></td>
 <td align="right"><b>103</b></td>
-<td align="right">0</td>
+<td align="right">30</td>
 <td><sub>Quito, Ecuador</sub></td>
 </tr>
 <tr>

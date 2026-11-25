@@ -5,14 +5,14 @@
 "country": {"code":"KN","name":"St. Kitts & Nevis","slug":"st-kitts-nevis"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":49,"measuredAccounts":10,"measurementBacklog":39,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":47,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":49,"measuredAccounts":11,"measurementBacklog":38,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":47,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjIzNjM0NzI=","login":"Thutmose","name":null,"url":"https://github.com/Thutmose","avatarUrl":"https://avatars.githubusercontent.com/u/2363472?s=80&v=4","followers":41,"publicRepos":34,"location":"St Kitts and Nevis","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":709,"commits":703,"pullRequests":0,"reviews":6,"issues":0,"repositories":0,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":2,"id":"MDQ6VXNlcjIxMDEyMzky","login":"Allisterh","name":"Allister Hodge","url":"https://github.com/Allisterh","avatarUrl":"https://avatars.githubusercontent.com/u/21012392?s=80&v=4","followers":66,"publicRepos":4261,"location":"St Kitts and Nevis","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":101,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":101,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":3,"id":"U_kgDOEdeSHA","login":"bankcoincapital","name":"BankCoin Admin","url":"https://github.com/bankcoincapital","avatarUrl":"https://avatars.githubusercontent.com/u/299340316?s=80&v=4","followers":0,"publicRepos":5,"location":"Saint Kitts and Nevis","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":30,"commits":20,"pullRequests":4,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "07a2a11767620e03",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "6c7cbc189d6bc436",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

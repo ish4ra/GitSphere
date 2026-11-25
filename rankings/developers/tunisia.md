@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **64** | 22 Nov 2026 | <a href="../../data/developers/TN.json">JSON</a> |
+| 🟡 Provisional | **72** | 22 Nov 2026 | <a href="../../data/developers/TN.json">JSON</a> |
 
 </div>
 
@@ -192,7 +192,7 @@
 <tr>
 <td align="right">25</td>
 <td><a href="https://github.com/Ademking"><img src="https://avatars.githubusercontent.com/u/12462188?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ademking"><b>Adem Kouki</b></a><br><sub>&#64;Ademking</sub></td>
-<td align="right"><b>432</b></td>
+<td align="right"><b>433</b></td>
 <td align="right">160</td>
 <td><sub>Tunisia</sub></td>
 </tr>
@@ -248,7 +248,7 @@
 <tr>
 <td align="right">33</td>
 <td><a href="https://github.com/hamedbaatour"><img src="https://avatars.githubusercontent.com/u/5658460?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hamedbaatour"><b>Hamed</b></a><br><sub>&#64;hamedbaatour</sub></td>
-<td align="right"><b>319</b></td>
+<td align="right"><b>320</b></td>
 <td align="right">8</td>
 <td><sub>Tunis, Tunisia</sub></td>
 </tr>
@@ -401,69 +401,125 @@
 </tr>
 <tr>
 <td align="right">55</td>
+<td><a href="https://github.com/nadhemBelHadj"><img src="https://avatars.githubusercontent.com/u/39857478?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nadhemBelHadj"><b>Nadhem Bel Hadj</b></a><br><sub>&#64;nadhemBelHadj</sub></td>
+<td align="right"><b>216</b></td>
+<td align="right">108</td>
+<td><sub>Tunisia</sub></td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><a href="https://github.com/yessine-agrebi"><img src="https://avatars.githubusercontent.com/u/59874615?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yessine-agrebi"><b>Yessine Agrebi</b></a><br><sub>&#64;yessine-agrebi</sub></td>
+<td align="right"><b>216</b></td>
+<td align="right">71</td>
+<td><sub>Tunisia</sub></td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><a href="https://github.com/guerbejhamdi"><img src="https://avatars.githubusercontent.com/u/60189133?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/guerbejhamdi"><b>Hamdi Guerbej</b></a><br><sub>&#64;guerbejhamdi</sub></td>
+<td align="right"><b>214</b></td>
+<td align="right">26</td>
+<td><sub>Tunisia</sub></td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><a href="https://github.com/yosrikhiari"><img src="https://avatars.githubusercontent.com/u/148056014?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yosrikhiari"><b>Yosri Khiari</b></a><br><sub>&#64;yosrikhiari</sub></td>
+<td align="right"><b>213</b></td>
+<td align="right">10</td>
+<td><sub>Kelibia, Tunisia</sub></td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><a href="https://github.com/Yassine-Jedidi"><img src="https://avatars.githubusercontent.com/u/135643814?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Yassine-Jedidi"><b>Yassine Jedidi</b></a><br><sub>&#64;Yassine-Jedidi</sub></td>
+<td align="right"><b>212</b></td>
+<td align="right">36</td>
+<td><sub>Tunisia</sub></td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><a href="https://github.com/ChaoukiBayoudhi"><img src="https://avatars.githubusercontent.com/u/41877049?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ChaoukiBayoudhi"><b>Chaouki Bayoudhi</b></a><br><sub>&#64;ChaoukiBayoudhi</sub></td>
+<td align="right"><b>208</b></td>
+<td align="right">238</td>
+<td><sub>Tunisia - Tunis</sub></td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><a href="https://github.com/khalillakhdhar"><img src="https://avatars.githubusercontent.com/u/12435165?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/khalillakhdhar"><b>Khalil Lakhdhar</b></a><br><sub>&#64;khalillakhdhar</sub></td>
+<td align="right"><b>206</b></td>
+<td align="right">1,139</td>
+<td><sub>Tunisia</sub></td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><a href="https://github.com/AbirLassoued"><img src="https://avatars.githubusercontent.com/u/110464596?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AbirLassoued"><b>Abir Lassoued</b></a><br><sub>&#64;AbirLassoued</sub></td>
+<td align="right"><b>205</b></td>
+<td align="right">20</td>
+<td><sub>Tunisia</sub></td>
+</tr>
+<tr>
+<td align="right">63</td>
 <td><a href="https://github.com/Mino260806"><img src="https://avatars.githubusercontent.com/u/53614199?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mino260806"><b>Mino</b></a><br><sub>&#64;Mino260806</sub></td>
 <td align="right"><b>179</b></td>
 <td align="right">0</td>
 <td><sub>Tunis</sub></td>
 </tr>
 <tr>
-<td align="right">56</td>
+<td align="right">64</td>
 <td><a href="https://github.com/omarabid"><img src="https://avatars.githubusercontent.com/u/909237?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/omarabid"><b>Abid Omar</b></a><br><sub>&#64;omarabid</sub></td>
 <td align="right"><b>175</b></td>
 <td align="right">0</td>
 <td><sub>Tunis, Tunisia</sub></td>
 </tr>
 <tr>
-<td align="right">57</td>
+<td align="right">65</td>
 <td><a href="https://github.com/OussamaMater"><img src="https://avatars.githubusercontent.com/u/57406233?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OussamaMater"><b>Oussama Mater</b></a><br><sub>&#64;OussamaMater</sub></td>
 <td align="right"><b>150</b></td>
 <td align="right">0</td>
 <td><sub>Tunis, Tunisia</sub></td>
 </tr>
 <tr>
-<td align="right">58</td>
+<td align="right">66</td>
 <td><a href="https://github.com/Zephkek"><img src="https://avatars.githubusercontent.com/u/76183331?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Zephkek"><b>Mohamed Maatallah</b></a><br><sub>&#64;Zephkek</sub></td>
 <td align="right"><b>122</b></td>
 <td align="right">0</td>
 <td><sub>Tunisia</sub></td>
 </tr>
 <tr>
-<td align="right">59</td>
+<td align="right">67</td>
 <td><a href="https://github.com/rayenghanmi"><img src="https://avatars.githubusercontent.com/u/108760398?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rayenghanmi"><b>Rayen Ghanmi</b></a><br><sub>&#64;rayenghanmi</sub></td>
 <td align="right"><b>112</b></td>
 <td align="right">0</td>
 <td><sub>Tunisia</sub></td>
 </tr>
 <tr>
-<td align="right">60</td>
+<td align="right">68</td>
 <td><a href="https://github.com/Adembc"><img src="https://avatars.githubusercontent.com/u/71262172?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Adembc"><b>Adem Baccara</b></a><br><sub>&#64;Adembc</sub></td>
 <td align="right"><b>104</b></td>
 <td align="right">0</td>
 <td><sub>Tunisia</sub></td>
 </tr>
 <tr>
-<td align="right">61</td>
+<td align="right">69</td>
 <td><a href="https://github.com/sigmaSd"><img src="https://avatars.githubusercontent.com/u/22427111?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sigmaSd"><b>Bedis Nbiba</b></a><br><sub>&#64;sigmaSd</sub></td>
 <td align="right"><b>99</b></td>
 <td align="right">0</td>
 <td><sub>Tunisia</sub></td>
 </tr>
 <tr>
-<td align="right">62</td>
+<td align="right">70</td>
 <td><a href="https://github.com/ahmedmani"><img src="https://avatars.githubusercontent.com/u/17355461?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahmedmani"><b>Valie</b></a><br><sub>&#64;ahmedmani</sub></td>
 <td align="right"><b>71</b></td>
 <td align="right">0</td>
 <td><sub>Tunisia</sub></td>
 </tr>
 <tr>
-<td align="right">63</td>
+<td align="right">71</td>
 <td><a href="https://github.com/Fakerr"><img src="https://avatars.githubusercontent.com/u/10001592?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Fakerr"><b>Walid Berrahal</b></a><br><sub>&#64;Fakerr</sub></td>
 <td align="right"><b>52</b></td>
 <td align="right">0</td>
 <td><sub>Tunis, Tunisia</sub></td>
 </tr>
 <tr>
-<td align="right">64</td>
+<td align="right">72</td>
 <td><a href="https://github.com/mayouni"><img src="https://avatars.githubusercontent.com/u/66162229?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mayouni"><b>Mansour Ayouni</b></a><br><sub>&#64;mayouni</sub></td>
 <td align="right"><b>13</b></td>
 <td align="right">24</td>
@@ -477,7 +533,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 64 attributed developers are tracked; the cutoff is 13 followers.
+- Organizations are excluded. 72 attributed developers are tracked; the cutoff is 13 followers.
 - **Location discovery:** term 0 of 154 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

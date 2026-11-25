@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/NI.json">JSON</a> |
+| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/NI.json">JSON</a> |
 
 </div>
 
@@ -88,6 +88,15 @@
 </tr>
 <tr>
 <td align="right">8</td>
+<td><a href="https://github.com/CosmicTiger"><img src="https://avatars.githubusercontent.com/u/30613501?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CosmicTiger"><b>Byakko</b></a><br><sub>&#64;CosmicTiger · 37 followers</sub></td>
+<td align="right"><b>38</b></td>
+<td align="right">26</td>
+<td align="right">5</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">9</td>
 <td><a href="https://github.com/gabriel14silva"><img src="https://avatars.githubusercontent.com/u/32249455?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gabriel14silva"><b>José Gabriel Griffin Silva</b></a><br><sub>&#64;gabriel14silva · 14 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">5</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/darwinsalinas"><img src="https://avatars.githubusercontent.com/u/1806232?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/darwinsalinas"><b>Darwin Salinas</b></a><br><sub>&#64;darwinsalinas · 41 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">3</td>
@@ -111,7 +120,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 10 of 405 discovered developers (395 awaiting measurement).
+- **Measured:** 11 of 405 discovered developers (394 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 112 in round 1.

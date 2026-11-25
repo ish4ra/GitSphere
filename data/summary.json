@@ -1,28 +1,28 @@
 {
   "schemaVersion": 3,
   "methodologyVersion": "1.0.0",
-  "generatedAt": "2026-11-24T21:53:00.965Z",
+  "generatedAt": "2026-11-25T04:54:26.707Z",
   "scans": {
     "repositories": {
       "cycle": 1,
       "floor": 50,
       "queue": 5,
       "unresolved": 0,
-      "pages": 1062,
-      "nodes": 99168,
+      "pages": 1206,
+      "nodes": 112394,
       "completedCycles": 0,
-      "verifiedFloor": 655,
+      "verifiedFloor": 570,
       "basis": "current-cycle"
     },
     "followers": {
       "cycle": 1,
       "floor": 100,
-      "queue": 6,
+      "queue": 5,
       "unresolved": 0,
-      "pages": 637,
-      "nodes": 58985,
+      "pages": 741,
+      "nodes": 68721,
       "completedCycles": 0,
-      "verifiedFloor": 221,
+      "verifiedFloor": 196,
       "basis": "current-cycle"
     },
     "locations": {
@@ -31,47 +31,47 @@
     }
   },
   "lastRun": {
-    "startedAt": "2026-11-24T21:10:17.017Z",
-    "requests": 685,
+    "startedAt": "2026-11-25T04:11:51.565Z",
+    "requests": 721,
     "progress": "progress",
     "ok": true,
     "stopReason": null,
     "failures": 0
   },
-  "lastSuccessfulRefresh": "2026-11-24T21:10:17.017Z",
+  "lastSuccessfulRefresh": "2026-11-25T04:11:51.565Z",
   "modes": {
     "repositories": {
       "counts": {
-        "published": 40,
-        "provisional": 15,
+        "published": 44,
+        "provisional": 18,
         "building": 0,
-        "stale": 195,
+        "stale": 188,
         "empty": 0,
         "blocked": 0,
         "total": 250
       },
-      "entries": 18885,
+      "entries": 18381,
       "countriesWithResults": 250,
       "countries": {
         "AF": {
           "status": "stale",
-          "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 90,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AX": {
           "status": "stale",
-          "entries": 50,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 48,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AL": {
           "status": "stale",
-          "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 87,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "DZ": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AS": {
           "status": "stale",
@@ -80,13 +80,13 @@
         },
         "AD": {
           "status": "stale",
-          "entries": 87,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 79,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AO": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AI": {
           "status": "stale",
@@ -96,27 +96,27 @@
         "AQ": {
           "status": "provisional",
           "entries": 21,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AG": {
           "status": "stale",
           "entries": 51,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AR": {
           "status": "published",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AM": {
           "status": "stale",
-          "entries": 85,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 87,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AW": {
           "status": "stale",
-          "entries": 92,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 86,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AU": {
           "status": "published",
@@ -131,32 +131,32 @@
         "AZ": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BS": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BH": {
           "status": "stale",
-          "entries": 97,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 83,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BD": {
-          "status": "stale",
+          "status": "published",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BB": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BY": {
           "status": "stale",
-          "entries": 90,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 84,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BE": {
           "status": "published",
@@ -166,42 +166,42 @@
         "BZ": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BJ": {
           "status": "provisional",
-          "entries": 4,
-          "updatedAt": "2026-11-23T13:10:04.236Z"
+          "entries": 5,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BM": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BT": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BO": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BA": {
           "status": "provisional",
-          "entries": 17,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 20,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BW": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BV": {
           "status": "stale",
-          "entries": 16,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 15,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BR": {
           "status": "published",
@@ -215,38 +215,38 @@
         },
         "VG": {
           "status": "stale",
-          "entries": 89,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 80,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BN": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BG": {
           "status": "published",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BF": {
           "status": "stale",
-          "entries": 18,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 19,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BI": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "KH": {
           "status": "stale",
-          "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 99,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CM": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CA": {
           "status": "published",
@@ -256,32 +256,32 @@
         "CV": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BQ": {
           "status": "stale",
-          "entries": 12,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "KY": {
           "status": "stale",
-          "entries": 95,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 87,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CF": {
           "status": "stale",
-          "entries": 19,
-          "updatedAt": "2026-11-22T22:28:05.466Z"
+          "entries": 18,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TD": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CL": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CN": {
           "status": "published",
@@ -290,18 +290,18 @@
         },
         "CX": {
           "status": "stale",
-          "entries": 70,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 66,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CC": {
           "status": "stale",
           "entries": 6,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CO": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "KM": {
           "status": "stale",
@@ -310,38 +310,38 @@
         },
         "CK": {
           "status": "stale",
-          "entries": 31,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 30,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CR": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CI": {
           "status": "stale",
-          "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 80,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "HR": {
           "status": "published",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CU": {
-          "status": "stale",
-          "entries": 39,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "status": "provisional",
+          "entries": 1,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CW": {
           "status": "stale",
-          "entries": 65,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 63,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CY": {
           "status": "provisional",
-          "entries": 41,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 51,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CZ": {
           "status": "published",
@@ -356,37 +356,37 @@
         "DJ": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "DM": {
           "status": "stale",
-          "entries": 59,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 57,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "DO": {
           "status": "stale",
-          "entries": 86,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 75,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CD": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "EC": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "EG": {
-          "status": "stale",
+          "status": "published",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SV": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GQ": {
           "status": "stale",
@@ -395,23 +395,23 @@
         },
         "ER": {
           "status": "stale",
-          "entries": 21,
-          "updatedAt": "2026-11-22T22:28:05.466Z"
+          "entries": 20,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "EE": {
           "status": "provisional",
-          "entries": 76,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 86,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SZ": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "ET": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "FK": {
           "status": "stale",
@@ -420,13 +420,13 @@
         },
         "FO": {
           "status": "stale",
-          "entries": 89,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 85,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "FJ": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "FI": {
           "status": "published",
@@ -440,13 +440,13 @@
         },
         "GF": {
           "status": "stale",
-          "entries": 65,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 61,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PF": {
           "status": "stale",
-          "entries": 78,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 76,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TF": {
           "status": "stale",
@@ -456,17 +456,17 @@
         "GA": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GM": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GE": {
           "status": "stale",
-          "entries": 84,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 91,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "DE": {
           "status": "published",
@@ -476,52 +476,52 @@
         "GH": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GI": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GR": {
           "status": "published",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GL": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GD": {
           "status": "stale",
-          "entries": 74,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 73,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GP": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GU": {
           "status": "stale",
-          "entries": 99,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 97,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GT": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GG": {
           "status": "stale",
           "entries": 84,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GN": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GW": {
           "status": "stale",
@@ -531,12 +531,12 @@
         "GY": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "HT": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "HM": {
           "status": "stale",
@@ -546,7 +546,7 @@
         "HN": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "HK": {
           "status": "published",
@@ -554,14 +554,14 @@
           "updatedAt": "2026-11-23T03:24:49.438Z"
         },
         "HU": {
-          "status": "provisional",
-          "entries": 91,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "status": "published",
+          "entries": 100,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "IS": {
           "status": "stale",
-          "entries": 61,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 42,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "IN": {
           "status": "published",
@@ -575,13 +575,13 @@
         },
         "IR": {
           "status": "provisional",
-          "entries": 36,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 43,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "IQ": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "IE": {
           "status": "published",
@@ -591,7 +591,7 @@
         "IM": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "IL": {
           "status": "published",
@@ -605,8 +605,8 @@
         },
         "JM": {
           "status": "stale",
-          "entries": 85,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 65,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "JP": {
           "status": "published",
@@ -621,197 +621,197 @@
         "JO": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "KZ": {
           "status": "stale",
-          "entries": 66,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 63,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "KE": {
           "status": "stale",
-          "entries": 58,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 54,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "KI": {
           "status": "stale",
-          "entries": 24,
-          "updatedAt": "2026-11-23T03:24:49.438Z"
+          "entries": 23,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "XK": {
           "status": "stale",
-          "entries": 87,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 62,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "KW": {
           "status": "stale",
-          "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 93,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "KG": {
           "status": "stale",
-          "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 96,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LA": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LV": {
-          "status": "stale",
-          "entries": 42,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "status": "provisional",
+          "entries": 48,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LB": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LS": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LR": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LY": {
           "status": "stale",
-          "entries": 75,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 44,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LI": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LT": {
           "status": "provisional",
-          "entries": 35,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 45,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LU": {
           "status": "stale",
-          "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 89,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MO": {
-          "status": "stale",
-          "entries": 29,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "status": "provisional",
+          "entries": 8,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MG": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MW": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MY": {
           "status": "provisional",
-          "entries": 40,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 49,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MV": {
           "status": "stale",
-          "entries": 87,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 60,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "ML": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MT": {
           "status": "stale",
-          "entries": 79,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 67,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MH": {
           "status": "stale",
-          "entries": 49,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 47,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MQ": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MR": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MU": {
           "status": "stale",
-          "entries": 64,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 34,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "YT": {
           "status": "stale",
-          "entries": 48,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 46,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MX": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "FM": {
           "status": "stale",
           "entries": 18,
-          "updatedAt": "2026-11-24T01:31:49.018Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MD": {
           "status": "stale",
-          "entries": 98,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 75,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MC": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MN": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "ME": {
           "status": "stale",
-          "entries": 46,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 13,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MS": {
           "status": "stale",
-          "entries": 60,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 57,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MA": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MZ": {
           "status": "stale",
-          "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 76,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MM": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NA": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NR": {
           "status": "stale",
@@ -820,8 +820,8 @@
         },
         "NP": {
           "status": "stale",
-          "entries": 80,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 77,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NL": {
           "status": "published",
@@ -831,7 +831,7 @@
         "NC": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NZ": {
           "status": "published",
@@ -840,23 +840,23 @@
         },
         "NI": {
           "status": "stale",
-          "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 97,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NE": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NG": {
           "status": "stale",
-          "entries": 70,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 67,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NU": {
           "status": "stale",
-          "entries": 10,
-          "updatedAt": "2026-11-24T01:31:49.018Z"
+          "entries": 9,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NF": {
           "status": "stale",
@@ -866,17 +866,17 @@
         "KP": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MK": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MP": {
           "status": "stale",
-          "entries": 19,
-          "updatedAt": "2026-11-23T13:10:04.236Z"
+          "entries": 18,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NO": {
           "status": "published",
@@ -886,12 +886,12 @@
         "OM": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PK": {
           "status": "provisional",
-          "entries": 93,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 98,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PW": {
           "status": "stale",
@@ -901,12 +901,12 @@
         "PS": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PA": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PG": {
           "status": "stale",
@@ -916,17 +916,17 @@
         "PY": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PE": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PH": {
           "status": "provisional",
-          "entries": 54,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 66,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PN": {
           "status": "stale",
@@ -945,28 +945,28 @@
         },
         "PR": {
           "status": "stale",
-          "entries": 98,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 88,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "QA": {
           "status": "stale",
-          "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 83,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CG": {
           "status": "stale",
-          "entries": 33,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "entries": 31,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "RE": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "RO": {
           "status": "published",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "RU": {
           "status": "published",
@@ -976,17 +976,17 @@
         "RW": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "WS": {
           "status": "stale",
-          "entries": 35,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 33,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SM": {
           "status": "stale",
-          "entries": 91,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 88,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "ST": {
           "status": "stale",
@@ -995,28 +995,28 @@
         },
         "SA": {
           "status": "stale",
-          "entries": 73,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 72,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SN": {
           "status": "stale",
-          "entries": 95,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 54,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "RS": {
           "status": "provisional",
-          "entries": 68,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 79,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SC": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SL": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SG": {
           "status": "published",
@@ -1025,38 +1025,38 @@
         },
         "SX": {
           "status": "stale",
-          "entries": 22,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 21,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SK": {
-          "status": "stale",
-          "entries": 46,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "status": "provisional",
+          "entries": 53,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SI": {
-          "status": "stale",
-          "entries": 43,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "status": "provisional",
+          "entries": 45,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SB": {
           "status": "stale",
-          "entries": 44,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 43,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SO": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "ZA": {
           "status": "provisional",
-          "entries": 48,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 56,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GS": {
           "status": "stale",
-          "entries": 1,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "entries": 2,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "KR": {
           "status": "published",
@@ -1075,8 +1075,8 @@
         },
         "LK": {
           "status": "provisional",
-          "entries": 31,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 36,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BL": {
           "status": "stale",
@@ -1090,13 +1090,13 @@
         },
         "KN": {
           "status": "stale",
-          "entries": 45,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "entries": 43,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LC": {
           "status": "stale",
-          "entries": 49,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 48,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MF": {
           "status": "stale",
@@ -1116,17 +1116,17 @@
         "SD": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SR": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SJ": {
           "status": "stale",
           "entries": 25,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SE": {
           "status": "published",
@@ -1141,7 +1141,7 @@
         "SY": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TW": {
           "status": "published",
@@ -1150,18 +1150,18 @@
         },
         "TJ": {
           "status": "stale",
-          "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 92,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TZ": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TH": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TL": {
           "status": "stale",
@@ -1170,8 +1170,8 @@
         },
         "TG": {
           "status": "stale",
-          "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 76,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TK": {
           "status": "stale",
@@ -1181,17 +1181,17 @@
         "TO": {
           "status": "stale",
           "entries": 40,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TT": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TN": {
           "status": "stale",
-          "entries": 87,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 79,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TR": {
           "status": "published",
@@ -1201,12 +1201,12 @@
         "TM": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TC": {
           "status": "stale",
-          "entries": 25,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 23,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TV": {
           "status": "stale",
@@ -1215,8 +1215,8 @@
         },
         "UM": {
           "status": "stale",
-          "entries": 7,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "entries": 6,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "VI": {
           "status": "stale",
@@ -1226,7 +1226,7 @@
         "UG": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "UA": {
           "status": "published",
@@ -1234,9 +1234,9 @@
           "updatedAt": "2026-11-24T11:36:56.631Z"
         },
         "AE": {
-          "status": "provisional",
+          "status": "published",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GB": {
           "status": "published",
@@ -1250,33 +1250,33 @@
         },
         "UY": {
           "status": "stale",
-          "entries": 76,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 70,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "UZ": {
           "status": "stale",
-          "entries": 94,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 85,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "VU": {
           "status": "stale",
-          "entries": 55,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 54,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "VA": {
           "status": "stale",
-          "entries": 54,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 50,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "VE": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "VN": {
           "status": "published",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "WF": {
           "status": "stale",
@@ -1285,193 +1285,193 @@
         },
         "EH": {
           "status": "stale",
-          "entries": 18,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 17,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "YE": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "ZM": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "ZW": {
           "status": "stale",
           "entries": 100,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         }
       }
     },
     "developers": {
       "counts": {
-        "published": 8,
-        "provisional": 242,
+        "published": 9,
+        "provisional": 241,
         "building": 0,
         "stale": 0,
         "empty": 0,
         "blocked": 0,
         "total": 250
       },
-      "entries": 66179,
+      "entries": 73325,
       "countriesWithResults": 250,
       "countries": {
         "AF": {
           "status": "provisional",
-          "entries": 16,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 18,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AX": {
           "status": "provisional",
           "entries": 96,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AL": {
           "status": "provisional",
-          "entries": 18,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 21,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "DZ": {
           "status": "provisional",
-          "entries": 68,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 76,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AS": {
           "status": "provisional",
           "entries": 26,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AD": {
           "status": "provisional",
           "entries": 480,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AO": {
           "status": "provisional",
-          "entries": 16,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 18,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AI": {
           "status": "provisional",
           "entries": 25,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AQ": {
           "status": "provisional",
-          "entries": 16,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 18,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AG": {
           "status": "provisional",
           "entries": 60,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AR": {
           "status": "provisional",
-          "entries": 230,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 277,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AM": {
           "status": "provisional",
-          "entries": 36,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 41,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AW": {
           "status": "provisional",
           "entries": 156,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AU": {
           "status": "provisional",
-          "entries": 967,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 1000,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AT": {
           "status": "provisional",
-          "entries": 313,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 351,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AZ": {
           "status": "provisional",
-          "entries": 32,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 37,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BS": {
           "status": "provisional",
-          "entries": 291,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 395,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BH": {
           "status": "provisional",
-          "entries": 15,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 17,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BD": {
           "status": "provisional",
-          "entries": 391,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 450,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BB": {
           "status": "provisional",
           "entries": 365,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BY": {
           "status": "provisional",
-          "entries": 28,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 30,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BE": {
           "status": "provisional",
-          "entries": 253,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 290,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BZ": {
           "status": "provisional",
-          "entries": 294,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 366,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BJ": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BM": {
           "status": "provisional",
           "entries": 273,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BT": {
           "status": "provisional",
-          "entries": 298,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 581,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BO": {
           "status": "provisional",
-          "entries": 15,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 18,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BA": {
           "status": "provisional",
-          "entries": 19,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 22,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BW": {
           "status": "provisional",
-          "entries": 15,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 17,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BV": {
           "status": "provisional",
-          "entries": 17,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 18,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BR": {
           "status": "published",
           "entries": 1000,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "IO": {
           "status": "provisional",
@@ -1481,237 +1481,237 @@
         "VG": {
           "status": "provisional",
           "entries": 85,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BN": {
           "status": "provisional",
           "entries": 336,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BG": {
           "status": "provisional",
-          "entries": 109,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 117,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BF": {
           "status": "provisional",
           "entries": 590,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BI": {
           "status": "provisional",
           "entries": 494,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "KH": {
           "status": "provisional",
-          "entries": 19,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 21,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CM": {
           "status": "provisional",
           "entries": 25,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CA": {
           "status": "published",
           "entries": 1000,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CV": {
           "status": "provisional",
-          "entries": 183,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 417,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BQ": {
           "status": "provisional",
           "entries": 46,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "KY": {
           "status": "provisional",
-          "entries": 285,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 286,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CF": {
           "status": "provisional",
           "entries": 22,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TD": {
           "status": "provisional",
-          "entries": 160,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "entries": 161,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CL": {
           "status": "provisional",
-          "entries": 65,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 86,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CN": {
           "status": "published",
           "entries": 1000,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CX": {
           "status": "provisional",
           "entries": 65,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CC": {
           "status": "provisional",
           "entries": 3,
-          "updatedAt": "2026-11-22T11:14:57.063Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CO": {
           "status": "provisional",
-          "entries": 98,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 119,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "KM": {
           "status": "provisional",
           "entries": 33,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CK": {
           "status": "provisional",
           "entries": 32,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CR": {
           "status": "provisional",
-          "entries": 22,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 24,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CI": {
           "status": "provisional",
-          "entries": 15,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 17,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "HR": {
           "status": "provisional",
-          "entries": 56,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 72,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CU": {
           "status": "provisional",
-          "entries": 16,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 17,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CW": {
           "status": "provisional",
           "entries": 84,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CY": {
           "status": "provisional",
-          "entries": 37,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 41,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CZ": {
           "status": "provisional",
-          "entries": 222,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 253,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "DK": {
           "status": "provisional",
-          "entries": 250,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 294,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "DJ": {
           "status": "provisional",
-          "entries": 199,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 202,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "DM": {
           "status": "provisional",
           "entries": 91,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "DO": {
           "status": "provisional",
-          "entries": 16,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 18,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CD": {
           "status": "provisional",
-          "entries": 266,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 399,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "EC": {
           "status": "provisional",
           "entries": 21,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "EG": {
           "status": "provisional",
-          "entries": 231,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 281,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SV": {
           "status": "provisional",
-          "entries": 26,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 32,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GQ": {
           "status": "provisional",
           "entries": 71,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "ER": {
           "status": "provisional",
           "entries": 28,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "EE": {
           "status": "provisional",
-          "entries": 420,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 425,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SZ": {
           "status": "provisional",
           "entries": 328,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "ET": {
           "status": "provisional",
-          "entries": 414,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 418,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "FK": {
           "status": "provisional",
           "entries": 18,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "FO": {
           "status": "provisional",
           "entries": 119,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "FJ": {
           "status": "provisional",
           "entries": 400,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "FI": {
           "status": "provisional",
-          "entries": 612,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 652,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "FR": {
-          "status": "provisional",
+          "status": "published",
           "entries": 1000,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GF": {
           "status": "provisional",
           "entries": 69,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PF": {
           "status": "provisional",
           "entries": 125,
-          "updatedAt": "2026-11-24T01:31:49.018Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TF": {
           "status": "provisional",
@@ -1721,407 +1721,407 @@
         "GA": {
           "status": "provisional",
           "entries": 332,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GM": {
           "status": "provisional",
           "entries": 388,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GE": {
           "status": "provisional",
-          "entries": 284,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 293,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "DE": {
           "status": "published",
           "entries": 1000,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GH": {
           "status": "provisional",
-          "entries": 405,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 408,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GI": {
           "status": "provisional",
           "entries": 273,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GR": {
           "status": "provisional",
-          "entries": 481,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 498,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GL": {
           "status": "provisional",
           "entries": 158,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GD": {
           "status": "provisional",
-          "entries": 98,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 99,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GP": {
           "status": "provisional",
           "entries": 259,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GU": {
           "status": "provisional",
           "entries": 179,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GT": {
           "status": "provisional",
           "entries": 401,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GG": {
           "status": "provisional",
           "entries": 145,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GN": {
           "status": "provisional",
           "entries": 310,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GW": {
           "status": "provisional",
           "entries": 30,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GY": {
           "status": "provisional",
-          "entries": 253,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 257,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "HT": {
           "status": "provisional",
           "entries": 475,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "HM": {
           "status": "provisional",
           "entries": 13,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "HN": {
           "status": "provisional",
           "entries": 399,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "HK": {
           "status": "provisional",
-          "entries": 628,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 669,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "HU": {
           "status": "provisional",
-          "entries": 444,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 455,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "IS": {
           "status": "provisional",
-          "entries": 433,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 435,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "IN": {
           "status": "published",
           "entries": 1000,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "ID": {
           "status": "provisional",
-          "entries": 824,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 911,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "IR": {
           "status": "provisional",
-          "entries": 739,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 790,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "IQ": {
           "status": "provisional",
           "entries": 403,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "IE": {
           "status": "provisional",
-          "entries": 552,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 582,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "IM": {
           "status": "provisional",
           "entries": 316,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "IL": {
           "status": "provisional",
-          "entries": 523,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 541,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "IT": {
           "status": "provisional",
-          "entries": 901,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 1000,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "JM": {
           "status": "provisional",
-          "entries": 405,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 407,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "JP": {
           "status": "published",
           "entries": 1000,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "JE": {
           "status": "provisional",
           "entries": 61,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "JO": {
           "status": "provisional",
-          "entries": 400,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 401,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "KZ": {
           "status": "provisional",
-          "entries": 413,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 414,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "KE": {
           "status": "provisional",
-          "entries": 580,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 634,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "KI": {
           "status": "provisional",
           "entries": 39,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "XK": {
           "status": "provisional",
           "entries": 400,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "KW": {
           "status": "provisional",
           "entries": 398,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "KG": {
           "status": "provisional",
           "entries": 402,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LA": {
           "status": "provisional",
           "entries": 445,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LV": {
           "status": "provisional",
-          "entries": 410,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 412,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LB": {
           "status": "provisional",
-          "entries": 399,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 400,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LS": {
           "status": "provisional",
           "entries": 472,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LR": {
           "status": "provisional",
           "entries": 517,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LY": {
           "status": "provisional",
           "entries": 398,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LI": {
           "status": "provisional",
           "entries": 254,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LT": {
           "status": "provisional",
-          "entries": 415,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 420,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LU": {
           "status": "provisional",
-          "entries": 406,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 405,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MO": {
           "status": "provisional",
           "entries": 534,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MG": {
           "status": "provisional",
           "entries": 399,
-          "updatedAt": "2026-11-24T01:31:49.018Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MW": {
           "status": "provisional",
-          "entries": 403,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 404,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MY": {
           "status": "provisional",
-          "entries": 422,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 431,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MV": {
           "status": "provisional",
           "entries": 481,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "ML": {
           "status": "provisional",
           "entries": 482,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MT": {
           "status": "provisional",
           "entries": 398,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MH": {
           "status": "provisional",
           "entries": 38,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MQ": {
           "status": "provisional",
           "entries": 170,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MR": {
           "status": "provisional",
           "entries": 255,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MU": {
           "status": "provisional",
           "entries": 400,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "YT": {
           "status": "provisional",
           "entries": 63,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MX": {
           "status": "provisional",
-          "entries": 525,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 550,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "FM": {
           "status": "provisional",
           "entries": 24,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MD": {
           "status": "provisional",
-          "entries": 399,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 400,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MC": {
           "status": "provisional",
           "entries": 327,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MN": {
           "status": "provisional",
-          "entries": 398,
-          "updatedAt": "2026-11-24T01:31:49.018Z"
+          "entries": 399,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "ME": {
           "status": "provisional",
           "entries": 393,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MS": {
           "status": "provisional",
           "entries": 18,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MA": {
           "status": "provisional",
-          "entries": 474,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 503,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MZ": {
           "status": "provisional",
           "entries": 400,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MM": {
           "status": "provisional",
-          "entries": 228,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 231,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NA": {
           "status": "provisional",
           "entries": 399,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NR": {
           "status": "provisional",
           "entries": 16,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NP": {
           "status": "provisional",
-          "entries": 419,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 433,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NL": {
           "status": "provisional",
           "entries": 1000,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NC": {
           "status": "provisional",
           "entries": 194,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NZ": {
           "status": "provisional",
-          "entries": 540,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 561,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NI": {
           "status": "provisional",
           "entries": 405,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NE": {
           "status": "provisional",
-          "entries": 315,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "entries": 316,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NG": {
           "status": "provisional",
-          "entries": 595,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 641,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NU": {
           "status": "provisional",
           "entries": 15,
-          "updatedAt": "2026-11-24T01:31:49.018Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NF": {
           "status": "provisional",
@@ -2130,68 +2130,68 @@
         },
         "KP": {
           "status": "provisional",
-          "entries": 352,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 353,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MK": {
           "status": "provisional",
           "entries": 527,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MP": {
           "status": "provisional",
           "entries": 17,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NO": {
           "status": "provisional",
-          "entries": 608,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 649,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "OM": {
           "status": "provisional",
           "entries": 398,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PK": {
           "status": "provisional",
-          "entries": 656,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 691,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PW": {
           "status": "provisional",
           "entries": 16,
-          "updatedAt": "2026-11-24T01:31:49.018Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PS": {
           "status": "provisional",
           "entries": 402,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PA": {
           "status": "provisional",
-          "entries": 400,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 401,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PG": {
           "status": "provisional",
           "entries": 307,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PY": {
           "status": "provisional",
-          "entries": 402,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 403,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PE": {
           "status": "provisional",
-          "entries": 443,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 447,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PH": {
           "status": "provisional",
-          "entries": 491,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 513,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PN": {
           "status": "provisional",
@@ -2200,123 +2200,123 @@
         },
         "PL": {
           "status": "provisional",
-          "entries": 939,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 1000,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PT": {
           "status": "provisional",
-          "entries": 598,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 640,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PR": {
           "status": "provisional",
           "entries": 405,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "QA": {
           "status": "provisional",
           "entries": 395,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CG": {
           "status": "provisional",
-          "entries": 207,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 293,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "RE": {
           "status": "provisional",
-          "entries": 311,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 339,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "RO": {
           "status": "provisional",
-          "entries": 135,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 507,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "RU": {
           "status": "provisional",
-          "entries": 386,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 447,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "RW": {
           "status": "provisional",
-          "entries": 29,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 402,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "WS": {
           "status": "provisional",
           "entries": 45,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SM": {
           "status": "provisional",
           "entries": 129,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "ST": {
           "status": "provisional",
           "entries": 20,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SA": {
           "status": "provisional",
-          "entries": 48,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 414,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SN": {
           "status": "provisional",
-          "entries": 11,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 401,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "RS": {
           "status": "provisional",
-          "entries": 90,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 99,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SC": {
           "status": "provisional",
           "entries": 193,
-          "updatedAt": "2026-11-24T01:31:49.018Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SL": {
           "status": "provisional",
-          "entries": 293,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "entries": 504,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SG": {
           "status": "provisional",
-          "entries": 498,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 919,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SX": {
           "status": "provisional",
           "entries": 27,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SK": {
           "status": "provisional",
-          "entries": 40,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 420,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SI": {
           "status": "provisional",
-          "entries": 45,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 417,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SB": {
           "status": "provisional",
-          "entries": 68,
-          "updatedAt": "2026-11-24T01:31:49.018Z"
+          "entries": 75,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SO": {
           "status": "provisional",
-          "entries": 13,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 403,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "ZA": {
           "status": "provisional",
-          "entries": 96,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 469,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GS": {
           "status": "provisional",
@@ -2325,158 +2325,158 @@
         },
         "KR": {
           "status": "provisional",
-          "entries": 677,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 1000,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SS": {
           "status": "provisional",
-          "entries": 245,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "entries": 248,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "ES": {
           "status": "provisional",
-          "entries": 719,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 1000,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LK": {
           "status": "provisional",
-          "entries": 94,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 104,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BL": {
           "status": "provisional",
           "entries": 11,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SH": {
           "status": "provisional",
           "entries": 19,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "KN": {
           "status": "provisional",
           "entries": 38,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LC": {
           "status": "provisional",
           "entries": 184,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MF": {
           "status": "provisional",
           "entries": 26,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PM": {
           "status": "provisional",
           "entries": 18,
-          "updatedAt": "2026-11-24T01:31:49.018Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "VC": {
           "status": "provisional",
           "entries": 37,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SD": {
           "status": "provisional",
-          "entries": 63,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "entries": 64,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SR": {
           "status": "provisional",
           "entries": 235,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SJ": {
           "status": "provisional",
           "entries": 57,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SE": {
           "status": "provisional",
-          "entries": 605,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 687,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CH": {
           "status": "provisional",
-          "entries": 503,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 573,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SY": {
           "status": "provisional",
-          "entries": 13,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 14,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TW": {
           "status": "provisional",
-          "entries": 361,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 419,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TJ": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TZ": {
           "status": "provisional",
-          "entries": 18,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 24,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TH": {
           "status": "provisional",
-          "entries": 134,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 159,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TL": {
           "status": "provisional",
           "entries": 210,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TG": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TK": {
           "status": "provisional",
           "entries": 13,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TO": {
           "status": "provisional",
           "entries": 49,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TT": {
           "status": "provisional",
-          "entries": 301,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "entries": 302,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TN": {
           "status": "provisional",
-          "entries": 64,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 72,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TR": {
           "status": "provisional",
-          "entries": 728,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 871,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TM": {
           "status": "provisional",
           "entries": 301,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TC": {
           "status": "provisional",
           "entries": 32,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TV": {
           "status": "provisional",
           "entries": 25,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "UM": {
           "status": "provisional",
@@ -2486,257 +2486,257 @@
         "VI": {
           "status": "provisional",
           "entries": 31,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "UG": {
           "status": "provisional",
-          "entries": 17,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 21,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "UA": {
           "status": "provisional",
-          "entries": 291,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 334,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AE": {
           "status": "provisional",
-          "entries": 175,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 205,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GB": {
           "status": "published",
           "entries": 1000,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "US": {
           "status": "published",
           "entries": 1000,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "UY": {
           "status": "provisional",
-          "entries": 28,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 37,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "UZ": {
           "status": "provisional",
-          "entries": 54,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 61,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "VU": {
           "status": "provisional",
           "entries": 78,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "VA": {
           "status": "provisional",
           "entries": 95,
-          "updatedAt": "2026-11-24T11:36:56.631Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "VE": {
           "status": "provisional",
-          "entries": 15,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 20,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "VN": {
           "status": "provisional",
-          "entries": 222,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 270,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "WF": {
           "status": "provisional",
           "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "EH": {
           "status": "provisional",
           "entries": 13,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "YE": {
           "status": "provisional",
           "entries": 15,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "ZM": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "ZW": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 12,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         }
       }
     },
     "contributors": {
       "counts": {
         "published": 0,
-        "provisional": 249,
-        "building": 1,
+        "provisional": 250,
+        "building": 0,
         "stale": 0,
         "empty": 0,
         "blocked": 0,
         "total": 250
       },
-      "entries": 2179,
-      "countriesWithResults": 249,
+      "entries": 2407,
+      "countriesWithResults": 250,
       "countries": {
         "AF": {
           "status": "provisional",
-          "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AX": {
           "status": "provisional",
-          "entries": 13,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 14,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AL": {
           "status": "provisional",
-          "entries": 12,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 13,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "DZ": {
           "status": "provisional",
-          "entries": 15,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 16,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AS": {
           "status": "provisional",
-          "entries": 6,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 7,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AD": {
           "status": "provisional",
-          "entries": 12,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 13,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AO": {
           "status": "provisional",
-          "entries": 12,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 13,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AI": {
           "status": "provisional",
           "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AQ": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AG": {
           "status": "provisional",
-          "entries": 11,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 12,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AR": {
           "status": "provisional",
-          "entries": 15,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 17,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AM": {
           "status": "provisional",
-          "entries": 16,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 18,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AW": {
           "status": "provisional",
-          "entries": 12,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 13,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AU": {
           "status": "provisional",
-          "entries": 16,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 18,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AT": {
           "status": "provisional",
-          "entries": 15,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 17,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AZ": {
           "status": "provisional",
-          "entries": 15,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 17,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BS": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BH": {
           "status": "provisional",
-          "entries": 11,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 13,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BD": {
           "status": "provisional",
-          "entries": 14,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 16,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BB": {
           "status": "provisional",
-          "entries": 12,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 14,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BY": {
           "status": "provisional",
-          "entries": 13,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 14,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BE": {
           "status": "provisional",
-          "entries": 15,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 17,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BZ": {
           "status": "provisional",
-          "entries": 11,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 13,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BJ": {
           "status": "provisional",
           "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BM": {
           "status": "provisional",
-          "entries": 12,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 14,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BT": {
           "status": "provisional",
-          "entries": 14,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 15,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BO": {
           "status": "provisional",
-          "entries": 13,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 15,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BA": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BW": {
           "status": "provisional",
-          "entries": 11,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 13,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BV": {
           "status": "provisional",
           "entries": 4,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BR": {
           "status": "provisional",
-          "entries": 14,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 16,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "IO": {
           "status": "provisional",
@@ -2745,238 +2745,238 @@
         },
         "VG": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BN": {
           "status": "provisional",
-          "entries": 13,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 14,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BG": {
           "status": "provisional",
-          "entries": 15,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 17,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BF": {
           "status": "provisional",
-          "entries": 14,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 16,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BI": {
           "status": "provisional",
           "entries": 14,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "KH": {
           "status": "provisional",
-          "entries": 11,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 13,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CM": {
           "status": "provisional",
-          "entries": 15,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 17,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CA": {
           "status": "provisional",
-          "entries": 15,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 17,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CV": {
           "status": "provisional",
-          "entries": 12,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 14,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BQ": {
           "status": "provisional",
           "entries": 5,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "KY": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 12,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CF": {
           "status": "provisional",
-          "entries": 2,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 3,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TD": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CL": {
           "status": "provisional",
-          "entries": 15,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 17,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CN": {
           "status": "provisional",
-          "entries": 12,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 14,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CX": {
           "status": "provisional",
           "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CC": {
           "status": "provisional",
           "entries": 1,
-          "updatedAt": "2026-11-22T22:28:05.466Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CO": {
           "status": "provisional",
-          "entries": 14,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 16,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "KM": {
           "status": "provisional",
-          "entries": 7,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 8,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CK": {
           "status": "provisional",
-          "entries": 4,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 5,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CR": {
           "status": "provisional",
-          "entries": 13,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 15,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CI": {
           "status": "provisional",
-          "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "HR": {
           "status": "provisional",
-          "entries": 15,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 17,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CU": {
           "status": "provisional",
-          "entries": 15,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 17,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CW": {
           "status": "provisional",
-          "entries": 12,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 13,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CY": {
           "status": "provisional",
-          "entries": 15,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 16,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CZ": {
           "status": "provisional",
-          "entries": 14,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 16,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "DK": {
           "status": "provisional",
-          "entries": 15,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 17,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "DJ": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "DM": {
           "status": "provisional",
-          "entries": 11,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 12,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "DO": {
           "status": "provisional",
-          "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CD": {
           "status": "provisional",
-          "entries": 13,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 15,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "EC": {
           "status": "provisional",
-          "entries": 12,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 14,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "EG": {
           "status": "provisional",
-          "entries": 12,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 13,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SV": {
           "status": "provisional",
-          "entries": 14,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 15,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GQ": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "ER": {
           "status": "provisional",
-          "entries": 5,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 6,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "EE": {
           "status": "provisional",
-          "entries": 13,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 14,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SZ": {
           "status": "provisional",
-          "entries": 6,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 7,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "ET": {
           "status": "provisional",
           "entries": 12,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "FK": {
           "status": "provisional",
           "entries": 4,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "FO": {
           "status": "provisional",
-          "entries": 11,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 12,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "FJ": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "FI": {
           "status": "provisional",
-          "entries": 12,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 13,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "FR": {
           "status": "provisional",
           "entries": 11,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GF": {
           "status": "provisional",
           "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PF": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TF": {
           "status": "provisional",
@@ -2985,408 +2985,408 @@
         },
         "GA": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GM": {
           "status": "provisional",
-          "entries": 12,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 13,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GE": {
           "status": "provisional",
-          "entries": 11,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 12,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "DE": {
           "status": "provisional",
-          "entries": 11,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 12,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GH": {
           "status": "provisional",
-          "entries": 11,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 12,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GI": {
           "status": "provisional",
-          "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 9,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GR": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GL": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GD": {
           "status": "provisional",
-          "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 9,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GP": {
           "status": "provisional",
-          "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 9,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GU": {
           "status": "provisional",
           "entries": 5,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GT": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GG": {
           "status": "provisional",
           "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GN": {
           "status": "provisional",
-          "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 9,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GW": {
           "status": "provisional",
           "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GY": {
           "status": "provisional",
-          "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 9,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "HT": {
           "status": "provisional",
           "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "HM": {
           "status": "provisional",
           "entries": 7,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "HN": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "HK": {
           "status": "provisional",
           "entries": 11,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "HU": {
           "status": "provisional",
-          "entries": 11,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 12,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "IS": {
           "status": "provisional",
-          "entries": 11,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 12,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "IN": {
           "status": "provisional",
           "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "ID": {
           "status": "provisional",
-          "entries": 11,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 12,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "IR": {
           "status": "provisional",
-          "entries": 11,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 12,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "IQ": {
           "status": "provisional",
-          "entries": 6,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 7,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "IE": {
           "status": "provisional",
-          "entries": 11,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 12,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "IM": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "IL": {
           "status": "provisional",
-          "entries": 11,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 12,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "IT": {
           "status": "provisional",
-          "entries": 11,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 12,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "JM": {
           "status": "provisional",
-          "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 9,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "JP": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "JE": {
           "status": "provisional",
-          "entries": 5,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 6,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "JO": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "KZ": {
           "status": "provisional",
-          "entries": 11,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 12,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "KE": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "KI": {
           "status": "provisional",
           "entries": 6,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "XK": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "KW": {
           "status": "provisional",
-          "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 9,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "KG": {
           "status": "provisional",
           "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LA": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LV": {
           "status": "provisional",
-          "entries": 11,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 12,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LB": {
           "status": "provisional",
-          "entries": 11,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 12,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LS": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LR": {
           "status": "provisional",
           "entries": 7,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LY": {
           "status": "provisional",
-          "entries": 7,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 8,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LI": {
           "status": "provisional",
-          "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 9,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LT": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LU": {
           "status": "provisional",
-          "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 9,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MO": {
           "status": "provisional",
-          "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 9,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MG": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MW": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MY": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MV": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "ML": {
           "status": "provisional",
-          "entries": 7,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 8,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MT": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MH": {
           "status": "provisional",
-          "entries": 5,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 6,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MQ": {
           "status": "provisional",
-          "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 9,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MR": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MU": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "YT": {
           "status": "provisional",
           "entries": 6,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MX": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "FM": {
           "status": "provisional",
           "entries": 3,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MD": {
           "status": "provisional",
           "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MC": {
           "status": "provisional",
-          "entries": 6,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 7,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MN": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "ME": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MS": {
           "status": "provisional",
           "entries": 3,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MA": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MZ": {
           "status": "provisional",
-          "entries": 7,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 8,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MM": {
           "status": "provisional",
-          "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 9,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NA": {
           "status": "provisional",
-          "entries": 6,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 7,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NR": {
           "status": "provisional",
           "entries": 4,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NP": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NL": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NC": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NZ": {
           "status": "provisional",
-          "entries": 7,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 8,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NI": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NE": {
           "status": "provisional",
           "entries": 5,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NG": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NU": {
           "status": "provisional",
           "entries": 1,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NF": {
           "status": "provisional",
@@ -3395,68 +3395,68 @@
         },
         "KP": {
           "status": "provisional",
-          "entries": 7,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 8,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MK": {
           "status": "provisional",
-          "entries": 7,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 8,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MP": {
           "status": "provisional",
           "entries": 4,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "NO": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "OM": {
           "status": "provisional",
           "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PK": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PW": {
           "status": "provisional",
-          "entries": 2,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 3,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PS": {
           "status": "provisional",
           "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PA": {
           "status": "provisional",
-          "entries": 5,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 6,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PG": {
           "status": "provisional",
-          "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 9,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PY": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PE": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PH": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PN": {
           "status": "provisional",
@@ -3465,123 +3465,123 @@
         },
         "PL": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PT": {
           "status": "provisional",
           "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PR": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "QA": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CG": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "RE": {
           "status": "provisional",
-          "entries": 7,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 8,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "RO": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "RU": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "RW": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "WS": {
           "status": "provisional",
-          "entries": 6,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 7,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SM": {
           "status": "provisional",
-          "entries": 6,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 7,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "ST": {
           "status": "provisional",
           "entries": 3,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SA": {
           "status": "provisional",
           "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SN": {
           "status": "provisional",
-          "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 9,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "RS": {
           "status": "provisional",
           "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SC": {
           "status": "provisional",
-          "entries": 6,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 7,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SL": {
           "status": "provisional",
-          "entries": 5,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 6,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SG": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SX": {
           "status": "provisional",
           "entries": 3,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SK": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SI": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SB": {
           "status": "provisional",
-          "entries": 6,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 7,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SO": {
           "status": "provisional",
-          "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 9,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "ZA": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GS": {
           "status": "provisional",
@@ -3590,158 +3590,158 @@
         },
         "KR": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SS": {
           "status": "provisional",
-          "entries": 5,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 6,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "ES": {
           "status": "provisional",
           "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LK": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "BL": {
           "status": "provisional",
           "entries": 4,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SH": {
           "status": "provisional",
-          "entries": 2,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 3,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "KN": {
           "status": "provisional",
           "entries": 3,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "LC": {
           "status": "provisional",
-          "entries": 7,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 8,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "MF": {
           "status": "provisional",
           "entries": 3,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "PM": {
-          "status": "building",
-          "entries": 0,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "status": "provisional",
+          "entries": 1,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "VC": {
           "status": "provisional",
           "entries": 6,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SD": {
           "status": "provisional",
           "entries": 7,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SR": {
           "status": "provisional",
-          "entries": 6,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 7,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SJ": {
           "status": "provisional",
-          "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 9,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SE": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "CH": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "SY": {
           "status": "provisional",
-          "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 9,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TW": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TJ": {
           "status": "provisional",
-          "entries": 6,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 7,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TZ": {
           "status": "provisional",
-          "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 9,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TH": {
           "status": "provisional",
-          "entries": 10,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 11,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TL": {
           "status": "provisional",
           "entries": 5,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TG": {
           "status": "provisional",
           "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TK": {
           "status": "provisional",
           "entries": 3,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TO": {
           "status": "provisional",
-          "entries": 5,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 6,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TT": {
           "status": "provisional",
-          "entries": 6,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 7,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TN": {
           "status": "provisional",
-          "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 9,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TR": {
           "status": "provisional",
-          "entries": 7,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 8,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TM": {
           "status": "provisional",
-          "entries": 7,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 8,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TC": {
           "status": "provisional",
-          "entries": 2,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 3,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "TV": {
           "status": "provisional",
           "entries": 3,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "UM": {
           "status": "provisional",
@@ -3751,87 +3751,87 @@
         "VI": {
           "status": "provisional",
           "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "UG": {
           "status": "provisional",
           "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "UA": {
           "status": "provisional",
-          "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 9,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "AE": {
           "status": "provisional",
-          "entries": 7,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 8,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "GB": {
           "status": "provisional",
-          "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 9,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "US": {
           "status": "provisional",
-          "entries": 7,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 8,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "UY": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "UZ": {
           "status": "provisional",
-          "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 9,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "VU": {
           "status": "provisional",
-          "entries": 3,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 4,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "VA": {
           "status": "provisional",
           "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "VE": {
           "status": "provisional",
-          "entries": 7,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 8,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "VN": {
           "status": "provisional",
-          "entries": 9,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 10,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "WF": {
           "status": "provisional",
           "entries": 2,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "EH": {
           "status": "provisional",
           "entries": 2,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "YE": {
           "status": "provisional",
-          "entries": 8,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 9,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "ZM": {
           "status": "provisional",
-          "entries": 6,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 7,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         },
         "ZW": {
           "status": "provisional",
-          "entries": 7,
-          "updatedAt": "2026-11-24T21:53:00.965Z"
+          "entries": 8,
+          "updatedAt": "2026-11-25T04:54:26.707Z"
         }
       }
     }

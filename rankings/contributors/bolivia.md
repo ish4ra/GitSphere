@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/contributors/BO.json">JSON</a> |
+| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/contributors/BO.json">JSON</a> |
 
 </div>
 
@@ -79,6 +79,24 @@
 </tr>
 <tr>
 <td align="right">7</td>
+<td><a href="https://github.com/Pericena"><img src="https://avatars.githubusercontent.com/u/24308878?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Pericena"><b>Luishiño</b></a><br><sub>&#64;Pericena · 200 followers</sub></td>
+<td align="right"><b>249</b></td>
+<td align="right">171</td>
+<td align="right">47</td>
+<td align="right">24</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">8</td>
+<td><a href="https://github.com/Bryan-M-Almeida"><img src="https://avatars.githubusercontent.com/u/187692907?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bryan-M-Almeida"><b>Bryan</b></a><br><sub>&#64;Bryan-M-Almeida · 201 followers</sub></td>
+<td align="right"><b>208</b></td>
+<td align="right">191</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">9</td>
 <td><a href="https://github.com/antonelladev"><img src="https://avatars.githubusercontent.com/u/118008601?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/antonelladev"><b>Linda Antonella</b></a><br><sub>&#64;antonelladev · 275 followers</sub></td>
 <td align="right"><b>188</b></td>
 <td align="right">156</td>
@@ -87,7 +105,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">10</td>
 <td><a href="https://github.com/lizarragadev"><img src="https://avatars.githubusercontent.com/u/1924390?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lizarragadev"><b>Gustavo Lizárraga</b></a><br><sub>&#64;lizarragadev · 429 followers</sub></td>
 <td align="right"><b>156</b></td>
 <td align="right">147</td>
@@ -96,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">11</td>
 <td><a href="https://github.com/Snifer"><img src="https://avatars.githubusercontent.com/u/1558379?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Snifer"><b>Snifer</b></a><br><sub>&#64;Snifer · 294 followers</sub></td>
 <td align="right"><b>132</b></td>
 <td align="right">83</td>
@@ -105,7 +123,7 @@
 <td align="right">35</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">12</td>
 <td><a href="https://github.com/CrisBelDev"><img src="https://avatars.githubusercontent.com/u/126825548?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CrisBelDev"><b>Cristian Abel</b></a><br><sub>&#64;CrisBelDev · 242 followers</sub></td>
 <td align="right"><b>29</b></td>
 <td align="right">28</td>
@@ -114,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">13</td>
 <td><a href="https://github.com/cwpachecol"><img src="https://avatars.githubusercontent.com/u/20022413?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cwpachecol"><b>Carlos Walter Pacheco Lora</b></a><br><sub>&#64;cwpachecol · 220 followers</sub></td>
 <td align="right"><b>25</b></td>
 <td align="right">19</td>
@@ -123,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">14</td>
 <td><a href="https://github.com/owen2345"><img src="https://avatars.githubusercontent.com/u/1148415?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/owen2345"><b>Owen Peredo Diaz</b></a><br><sub>&#64;owen2345 · 92 followers</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">14</td>
@@ -132,7 +150,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">15</td>
 <td><a href="https://github.com/cuevhv"><img src="https://avatars.githubusercontent.com/u/10300397?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cuevhv"><b>Hanz</b></a><br><sub>&#64;cuevhv · 10 followers</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">5</td>
@@ -147,7 +165,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 15 of 402 discovered developers (387 awaiting measurement).
+- **Measured:** 17 of 403 discovered developers (386 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 125 in round 1.

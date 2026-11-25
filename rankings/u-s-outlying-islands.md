@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **7** | 27 Oct 2026 | <a href="../data/UM.json">JSON</a> |
+| 🟠 Stale | **6** | 27 Oct 2026 | <a href="../data/UM.json">JSON</a> |
 
-> **Not yet re-verified.** 7 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 6 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -25,48 +25,41 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><img src="https://github.com/BakingLiberteZ.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/BakingLiberteZ/tui_tools"><b>BakingLiberteZ/tui&#95;tools</b></a></td>
-<td align="right"><b>4</b></td>
-<td align="right">0</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">2</td>
 <td><img src="https://github.com/mijail73.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mijail73/Introduccion-al-Desarrollo-de-Programas-con-Java"><b>mijail73/Introduccion-al-Desarrollo-de-Programas-con-Java</b></a></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">2</td>
 <td><img src="https://github.com/OgJAkFy8.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/OgJAkFy8/Mad-Libs"><b>OgJAkFy8/Mad-Libs</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">3</td>
 <td><img src="https://github.com/RanchoSM.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RanchoSM/CTSDirectlinkLibrary"><b>RanchoSM/CTSDirectlinkLibrary</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">4</td>
 <td><img src="https://github.com/Doge-Linux.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Doge-Linux/Doge-Logos"><b>Doge-Linux/Doge-Logos</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">5</td>
 <td><img src="https://github.com/faykhet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/faykhet/cokies.xyz"><b>faykhet/cokies.xyz</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">6</td>
 <td><img src="https://github.com/IiDxmon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/IiDxmon/Yinn"><b>IiDxmon/Yinn</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -80,8 +73,8 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 0 stars; 7 attributed candidates are tracked.
-- 7 entries were carried over from the previous dataset and are pending revalidation.
+- **Cutoff:** the last listed repository has 0 stars; 6 attributed candidates are tracked.
+- 6 entries were carried over from the previous dataset and are pending revalidation.
 - 8 multi-repository owners are queued for expansion.
 - **Location discovery:** term 3 of 29 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

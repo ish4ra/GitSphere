@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **9** | 23 Nov 2026 | <a href="../../data/developers/BJ.json">JSON</a> |
+| 🟡 Provisional | **10** | 23 Nov 2026 | <a href="../../data/developers/BJ.json">JSON</a> |
 
 </div>
 
@@ -84,6 +84,13 @@
 <td align="right">106</td>
 <td><sub>Cotonou, Benin</sub></td>
 </tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/onesine"><img src="https://avatars.githubusercontent.com/u/55294457?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/onesine"><b>Lewhe Onesine</b></a><br><sub>&#64;onesine</sub></td>
+<td align="right"><b>97</b></td>
+<td align="right">35</td>
+<td><sub>Cotonou, Bénin</sub></td>
+</tr>
 </tbody>
 </table>
 
@@ -92,7 +99,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 9 attributed developers are tracked; the cutoff is 234 followers.
+- Organizations are excluded. 10 attributed developers are tracked; the cutoff is 97 followers.
 - **Location discovery:** term 0 of 86 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

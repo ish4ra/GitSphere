@@ -10,7 +10,7 @@
   {"rank":1,"id":"MDQ6VXNlcjI1ODQyNjU1","login":"vjanz","name":"Valon Januzaj","url":"https://github.com/vjanz","avatarUrl":"https://avatars.githubusercontent.com/u/25842655?s=80&v=4","followers":8983,"publicRepos":20,"location":"Prishtina, Kosovo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjE0MzExNzQz","login":"kujtimiihoxha","name":"Kujtim Hoxha","url":"https://github.com/kujtimiihoxha","avatarUrl":"https://avatars.githubusercontent.com/u/14311743?s=80&v=4","followers":594,"publicRepos":80,"location":"Prishtina, Kosovo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":3,"id":"MDQ6VXNlcjE4NTA0Nzk4","login":"Eltion","name":"Eltion","url":"https://github.com/Eltion","avatarUrl":"https://avatars.githubusercontent.com/u/18504798?s=80&v=4","followers":562,"publicRepos":8,"location":"Kosovo","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
-  {"rank":4,"id":"MDQ6VXNlcjM0MzE3NjI4","login":"arddluma","name":"AArdian","url":"https://github.com/arddluma","avatarUrl":"https://avatars.githubusercontent.com/u/34317628?s=80&v=4","followers":152,"publicRepos":68,"location":"Kosovo","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":4,"id":"MDQ6VXNlcjM0MzE3NjI4","login":"arddluma","name":"AArdian","url":"https://github.com/arddluma","avatarUrl":"https://avatars.githubusercontent.com/u/34317628?s=80&v=4","followers":152,"publicRepos":68,"location":"Kosovo","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
   {"rank":5,"id":"MDQ6VXNlcjg4NjI5ODI1","login":"arditbe","name":"ardit","url":"https://github.com/arditbe","avatarUrl":"https://avatars.githubusercontent.com/u/88629825?s=80&v=4","followers":147,"publicRepos":84,"location":"Kosovo, Ferizaj","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":6,"id":"MDQ6VXNlcjE0NjE3OTk=","login":"trimkadriu","name":"Trim Kadriu","url":"https://github.com/trimkadriu","avatarUrl":"https://avatars.githubusercontent.com/u/1461799?s=80&v=4","followers":120,"publicRepos":27,"location":"Kosovo","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":7,"id":"MDQ6VXNlcjEyMTQ1MjY4","login":"edongashi","name":"Edon Gashi","url":"https://github.com/edongashi","avatarUrl":"https://avatars.githubusercontent.com/u/12145268?s=80&v=4","followers":116,"publicRepos":56,"location":"Kosovo","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
@@ -408,8 +408,8 @@
   {"rank":399,"id":"U_kgDOBcBuxw","login":"Kryeziu1234","name":"Antigona","url":"https://github.com/Kryeziu1234","avatarUrl":"https://avatars.githubusercontent.com/u/96497351?s=80&v=4","followers":0,"publicRepos":1,"location":"Kosovo","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":400,"id":"MDQ6VXNlcjgwMDQ2MDYy","login":"vullkan-topanica","name":null,"url":"https://github.com/vullkan-topanica","avatarUrl":"https://avatars.githubusercontent.com/u/80046062?s=80&v=4","followers":0,"publicRepos":1,"location":"Pristina, Kosovo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "f1e402e270642576",
-"updatedAt": "2026-11-24T21:53:00.965Z",
+"contentHash": "0dbf1067e5e247bb",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-24T21:53:00.965Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

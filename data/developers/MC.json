@@ -16,7 +16,7 @@
   {"rank":7,"id":"MDQ6VXNlcjUxNjUzNzAy","login":"DamienMonchaty","name":"DMon","url":"https://github.com/DamienMonchaty","avatarUrl":"https://avatars.githubusercontent.com/u/51653702?s=80&v=4","followers":37,"publicRepos":1,"location":"Monaco","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":8,"id":"MDQ6VXNlcjkxMjQ5NDU3","login":"zertawz","name":"Jean-Christophe BURNOT","url":"https://github.com/zertawz","avatarUrl":"https://avatars.githubusercontent.com/u/91249457?s=80&v=4","followers":30,"publicRepos":34,"location":"MONACO / LYON / LAUSANNE","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":9,"id":"U_kgDOCI75gg","login":"jmbertin","name":"Jean-Michel Bertin","url":"https://github.com/jmbertin","avatarUrl":"https://avatars.githubusercontent.com/u/143587714?s=80&v=4","followers":24,"publicRepos":39,"location":"Monaco","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
-  {"rank":10,"id":"MDQ6VXNlcjQ1MTQzOTI2","login":"LovelessCodes","name":null,"url":"https://github.com/LovelessCodes","avatarUrl":"https://avatars.githubusercontent.com/u/45143926?s=80&v=4","followers":22,"publicRepos":71,"location":"Monaco","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":10,"id":"MDQ6VXNlcjQ1MTQzOTI2","login":"LovelessCodes","name":null,"url":"https://github.com/LovelessCodes","avatarUrl":"https://avatars.githubusercontent.com/u/45143926?s=80&v=4","followers":22,"publicRepos":71,"location":"Monaco","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
   {"rank":11,"id":"MDQ6VXNlcjYyOTY3Njkw","login":"HedgeQuantX","name":"HedgeQuant𝕏","url":"https://github.com/HedgeQuantX","avatarUrl":"https://avatars.githubusercontent.com/u/62967690?s=80&v=4","followers":20,"publicRepos":39,"location":"Monte-Carlo, Monaco","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":12,"id":"MDQ6VXNlcjU3NTMyNjEz","login":"z2sx","name":"Andrey Platov","url":"https://github.com/z2sx","avatarUrl":"https://avatars.githubusercontent.com/u/57532613?s=80&v=4","followers":18,"publicRepos":2,"location":"Monaco","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":13,"id":"MDQ6VXNlcjI4NDU0MTE3","login":"SilencyDev","name":"Kevin Macquet","url":"https://github.com/SilencyDev","avatarUrl":"https://avatars.githubusercontent.com/u/28454117?s=80&v=4","followers":17,"publicRepos":24,"location":"Monaco","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
@@ -335,8 +335,8 @@
   {"rank":326,"id":"MDQ6VXNlcjI0OTQ1NjMz","login":"zagof","name":null,"url":"https://github.com/zagof","avatarUrl":"https://avatars.githubusercontent.com/u/24945633?s=80&v=4","followers":0,"publicRepos":0,"location":"Monaco","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":327,"id":"U_kgDODMotOw","login":"Zecimia","name":"ZECIMIA","url":"https://github.com/Zecimia","avatarUrl":"https://avatars.githubusercontent.com/u/214576443?s=80&v=4","followers":0,"publicRepos":0,"location":"MONACO","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "6ea088eebf7c094a",
-"updatedAt": "2026-11-24T11:36:56.631Z",
+"contentHash": "8e88e2ab9d534bb8",
+"updatedAt": "2026-11-25T04:54:26.707Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-24T11:36:56.631Z"
+"generatedAt": "2026-11-25T04:54:26.707Z"
 }

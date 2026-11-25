@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/shihabal3amri"><img src="https://avatars.githubusercontent.com/u/42039842?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shihabal3amri"><b>Shihab</b></a><br><sub>&#64;shihabal3amri</sub></td>
-<td align="right"><b>704</b></td>
+<td align="right"><b>710</b></td>
 <td align="right">17</td>
 <td><sub>Oman</sub></td>
 </tr>
@@ -88,7 +88,7 @@
 <td align="right">10</td>
 <td><a href="https://github.com/AhmedBafkir"><img src="https://avatars.githubusercontent.com/u/23465014?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AhmedBafkir"><b>AhmedBafkir</b></a><br><sub>&#64;AhmedBafkir</sub></td>
 <td align="right"><b>200</b></td>
-<td align="right">0</td>
+<td align="right">4</td>
 <td><sub>Oman</sub></td>
 </tr>
 <tr>

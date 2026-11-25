@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 23 Nov 2026 | <a href="../../data/contributors/CI.json">JSON</a> |
+| 🟡 Provisional | **10** | 23 Nov 2026 | <a href="../../data/contributors/CI.json">JSON</a> |
 
 </div>
 
@@ -61,6 +61,15 @@
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/7yadjiman7"><img src="https://avatars.githubusercontent.com/u/196987100?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/7yadjiman7"><b>Coulibaly Yadjiman</b></a><br><sub>&#64;7yadjiman7 · 0 followers</sub></td>
+<td align="right"><b>69</b></td>
+<td align="right">65</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/Bleu-Yves-Sopoude"><img src="https://avatars.githubusercontent.com/u/101183454?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bleu-Yves-Sopoude"><b>Bleu Yves Sopoude</b></a><br><sub>&#64;Bleu-Yves-Sopoude · 284 followers</sub></td>
 <td align="right"><b>45</b></td>
 <td align="right">38</td>
@@ -69,7 +78,7 @@
 <td align="right">3</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/10101995"><img src="https://avatars.githubusercontent.com/u/47169371?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/10101995"><b>Serge Zoto</b></a><br><sub>&#64;10101995 · 0 followers</sub></td>
 <td align="right"><b>27</b></td>
 <td align="right">24</td>
@@ -78,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/18serge45"><img src="https://avatars.githubusercontent.com/u/282552671?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/18serge45"><b>L&#39;empereur18🧑💻🥷</b></a><br><sub>&#64;18serge45 · 0 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">3</td>
@@ -87,10 +96,19 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/201RichK"><img src="https://avatars.githubusercontent.com/u/44883539?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/201RichK"><b>Amos Pascal Amos</b></a><br><sub>&#64;201RichK · 19 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/2ok-k"><img src="https://avatars.githubusercontent.com/u/52870159?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/2ok-k"><b>Oumar Kouassi</b></a><br><sub>&#64;2ok-k · 14 followers</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">1</td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
@@ -102,7 +120,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 15 of 401 discovered developers (386 awaiting measurement).
+- **Measured:** 17 of 401 discovered developers (384 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 151 in round 1.
