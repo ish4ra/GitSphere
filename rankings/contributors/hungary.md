@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/contributors/HU.json">JSON</a> |
+| 🟡 Provisional | **18** | 22 Nov 2026 | <a href="../../data/contributors/HU.json">JSON</a> |
 
 </div>
 
@@ -61,6 +61,15 @@
 </tr>
 <tr>
 <td align="right">5</td>
+<td><a href="https://github.com/oroszgy"><img src="https://avatars.githubusercontent.com/u/145334?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/oroszgy"><b>György Orosz</b></a><br><sub>&#64;oroszgy · 182 followers</sub></td>
+<td align="right"><b>587</b></td>
+<td align="right">449</td>
+<td align="right">8</td>
+<td align="right">2</td>
+<td align="right">116</td>
+</tr>
+<tr>
+<td align="right">6</td>
 <td><a href="https://github.com/conan513"><img src="https://avatars.githubusercontent.com/u/459246?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/conan513"><b>ConanHUN</b></a><br><sub>&#64;conan513 · 282 followers</sub></td>
 <td align="right"><b>567</b></td>
 <td align="right">512</td>
@@ -69,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/JuhaszZoltan"><img src="https://avatars.githubusercontent.com/u/37460092?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JuhaszZoltan"><b>Juhász Zoltán</b></a><br><sub>&#64;JuhaszZoltan · 208 followers</sub></td>
 <td align="right"><b>444</b></td>
 <td align="right">347</td>
@@ -78,7 +87,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/jabbalaci"><img src="https://avatars.githubusercontent.com/u/694081?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jabbalaci"><b>Laszlo Szathmary</b></a><br><sub>&#64;jabbalaci · 205 followers</sub></td>
 <td align="right"><b>334</b></td>
 <td align="right">283</td>
@@ -87,7 +96,7 @@
 <td align="right">28</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/csabika98"><img src="https://avatars.githubusercontent.com/u/68144659?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/csabika98"><b>Csaba Sallai</b></a><br><sub>&#64;csabika98 · 229 followers</sub></td>
 <td align="right"><b>233</b></td>
 <td align="right">159</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/coderofsalvation"><img src="https://avatars.githubusercontent.com/u/180068?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/coderofsalvation"><b>Coder of Salvation / Leon van Kammen</b></a><br><sub>&#64;coderofsalvation · 164 followers</sub></td>
 <td align="right"><b>216</b></td>
 <td align="right">101</td>
@@ -105,7 +114,7 @@
 <td align="right">56</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/icebob"><img src="https://avatars.githubusercontent.com/u/306521?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/icebob"><b>Icebob</b></a><br><sub>&#64;icebob · 831 followers</sub></td>
 <td align="right"><b>209</b></td>
 <td align="right">188</td>
@@ -114,7 +123,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/Csaba79-coder"><img src="https://avatars.githubusercontent.com/u/77699103?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Csaba79-coder"><b>Csaba Vadász MSc</b></a><br><sub>&#64;Csaba79-coder · 764 followers</sub></td>
 <td align="right"><b>104</b></td>
 <td align="right">87</td>
@@ -123,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/dnet"><img src="https://avatars.githubusercontent.com/u/163115?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dnet"><b>András Veres-Szentkirályi</b></a><br><sub>&#64;dnet · 340 followers</sub></td>
 <td align="right"><b>64</b></td>
 <td align="right">42</td>
@@ -132,7 +141,7 @@
 <td align="right">5</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/kripod"><img src="https://avatars.githubusercontent.com/u/14854048?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kripod"><b>Kristóf Poduszló</b></a><br><sub>&#64;kripod · 320 followers</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">20</td>
@@ -141,7 +150,7 @@
 <td align="right">3</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/aksoftware98"><img src="https://avatars.githubusercontent.com/u/35115273?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aksoftware98"><b>Ahmad Mozaffar</b></a><br><sub>&#64;aksoftware98 · 364 followers</sub></td>
 <td align="right"><b>26</b></td>
 <td align="right">21</td>
@@ -150,7 +159,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><a href="https://github.com/madbence"><img src="https://avatars.githubusercontent.com/u/296735?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/madbence"><b>Bence Dányi</b></a><br><sub>&#64;madbence · 171 followers</sub></td>
 <td align="right"><b>25</b></td>
 <td align="right">22</td>
@@ -159,12 +168,21 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">17</td>
 <td><a href="https://github.com/balinterdi"><img src="https://avatars.githubusercontent.com/u/5022?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/balinterdi"><b>Balint Erdi</b></a><br><sub>&#64;balinterdi · 220 followers</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">7</td>
 <td align="right">10</td>
 <td align="right">2</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><a href="https://github.com/oroce"><img src="https://avatars.githubusercontent.com/u/462848?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/oroce"><b>Róbert Oroszi</b></a><br><sub>&#64;oroce · 152 followers</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
 <td align="right">0</td>
 </tr>
 </tbody>
@@ -174,7 +192,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 16 of 476 discovered developers (460 awaiting measurement).
+- **Measured:** 18 of 483 discovered developers (465 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 153 in round 1.

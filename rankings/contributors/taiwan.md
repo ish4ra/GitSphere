@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/TW.json">JSON</a> |
+| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/contributors/TW.json">JSON</a> |
 
 </div>
 
@@ -34,7 +34,7 @@
 </tr>
 <tr>
 <td align="right">2</td>
-<td><a href="https://github.com/doggy8088"><img src="https://avatars.githubusercontent.com/u/88981?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/doggy8088"><b>Will 保哥</b></a><br><sub>&#64;doggy8088 · 4,634 followers</sub></td>
+<td><a href="https://github.com/doggy8088"><img src="https://avatars.githubusercontent.com/u/88981?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/doggy8088"><b>Will 保哥</b></a><br><sub>&#64;doggy8088 · 4,633 followers</sub></td>
 <td align="right"><b>4,093</b></td>
 <td align="right">3,590</td>
 <td align="right">225</td>
@@ -43,7 +43,7 @@
 </tr>
 <tr>
 <td align="right">3</td>
-<td><a href="https://github.com/appleboy"><img src="https://avatars.githubusercontent.com/u/21979?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/appleboy"><b>Bo-Yi Wu</b></a><br><sub>&#64;appleboy · 7,576 followers</sub></td>
+<td><a href="https://github.com/appleboy"><img src="https://avatars.githubusercontent.com/u/21979?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/appleboy"><b>Bo-Yi Wu</b></a><br><sub>&#64;appleboy · 7,575 followers</sub></td>
 <td align="right"><b>3,687</b></td>
 <td align="right">2,865</td>
 <td align="right">671</td>
@@ -79,7 +79,7 @@
 </tr>
 <tr>
 <td align="right">7</td>
-<td><a href="https://github.com/c9s"><img src="https://avatars.githubusercontent.com/u/50894?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/c9s"><b>c9s</b></a><br><sub>&#64;c9s · 2,774 followers</sub></td>
+<td><a href="https://github.com/c9s"><img src="https://avatars.githubusercontent.com/u/50894?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/c9s"><b>c9s</b></a><br><sub>&#64;c9s · 2,773 followers</sub></td>
 <td align="right"><b>962</b></td>
 <td align="right">471</td>
 <td align="right">112</td>
@@ -97,6 +97,15 @@
 </tr>
 <tr>
 <td align="right">9</td>
+<td><a href="https://github.com/KunYi"><img src="https://avatars.githubusercontent.com/u/2186922?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KunYi"><b>KunYi Chen</b></a><br><sub>&#64;KunYi · 152 followers</sub></td>
+<td align="right"><b>336</b></td>
+<td align="right">303</td>
+<td align="right">4</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">10</td>
 <td><a href="https://github.com/imrehg"><img src="https://avatars.githubusercontent.com/u/38863?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/imrehg"><b>Gergely Imreh</b></a><br><sub>&#64;imrehg · 244 followers</sub></td>
 <td align="right"><b>129</b></td>
 <td align="right">52</td>
@@ -105,7 +114,7 @@
 <td align="right">52</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/strategist922"><img src="https://avatars.githubusercontent.com/u/2128570?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/strategist922"><b>James Chang</b></a><br><sub>&#64;strategist922 · 919 followers</sub></td>
 <td align="right"><b>103</b></td>
 <td align="right">0</td>
@@ -114,7 +123,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/brucetsao"><img src="https://avatars.githubusercontent.com/u/5723009?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brucetsao"><b>建國老師</b></a><br><sub>&#64;brucetsao · 394 followers</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">65</td>
@@ -123,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/mingderwang"><img src="https://avatars.githubusercontent.com/u/47238?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mingderwang"><b>Ming-der Wang</b></a><br><sub>&#64;mingderwang · 203 followers</sub></td>
 <td align="right"><b>45</b></td>
 <td align="right">22</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/bradchao"><img src="https://avatars.githubusercontent.com/u/12897416?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bradchao"><b>趙令文</b></a><br><sub>&#64;bradchao · 180 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">0</td>
@@ -141,7 +150,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/wdv4758h"><img src="https://avatars.githubusercontent.com/u/2716047?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wdv4758h"><b>Chiu-Hsiang Hsu</b></a><br><sub>&#64;wdv4758h · 195 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
@@ -156,7 +165,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 14 of 862 discovered developers (848 awaiting measurement).
+- **Measured:** 15 of 911 discovered developers (896 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 57 in round 1.

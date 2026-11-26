@@ -276,56 +276,56 @@
 <tr>
 <td align="right">37</td>
 <td><img src="https://github.com/brightio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/brightio/penelope"><b>brightio/penelope</b></a><br><sub>Penelope Shell Handler</sub></td>
-<td align="right"><b>2,213</b></td>
-<td align="right">246</td>
+<td align="right"><b>2,216</b></td>
+<td align="right">247</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">38</td>
 <td><img src="https://github.com/skorokithakis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/skorokithakis/shortuuid"><b>skorokithakis/shortuuid</b></a><br><sub>A generator library for concise, unambiguous and URL-safe UUIDs.</sub></td>
 <td align="right"><b>2,197</b></td>
-<td align="right">121</td>
+<td align="right">123</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">39</td>
 <td><img src="https://github.com/MFDGaming.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MFDGaming/ubuntu-in-termux"><b>MFDGaming/ubuntu-in-termux</b></a><br><sub>This is a script by which you can install Ubuntu in your termux application without a rooted device</sub></td>
-<td align="right"><b>1,962</b></td>
+<td align="right"><b>1,963</b></td>
 <td align="right">427</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">40</td>
 <td><img src="https://github.com/daviwil.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/daviwil/emacs-from-scratch"><b>daviwil/emacs-from-scratch</b></a><br><sub>An example of a fully custom Emacs configuration developed live on YouTube!</sub></td>
-<td align="right"><b>1,923</b></td>
+<td align="right"><b>1,924</b></td>
 <td align="right">307</td>
 <td>Emacs Lisp</td>
 </tr>
 <tr>
 <td align="right">41</td>
 <td><img src="https://github.com/charkost.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/charkost/prosopite"><b>charkost/prosopite</b></a><br><sub>Rails N+1 queries auto-detection with zero false positives / false negatives</sub></td>
-<td align="right"><b>1,923</b></td>
+<td align="right"><b>1,922</b></td>
 <td align="right">63</td>
 <td>Ruby</td>
 </tr>
 <tr>
 <td align="right">42</td>
+<td><img src="https://github.com/Swordpdf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Swordpdf/PS5SX2"><b>Swordpdf/PS5SX2</b></a><br><sub>A port of PCSX2 for PS5</sub></td>
+<td align="right"><b>1,706</b></td>
+<td align="right">152</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">43</td>
 <td><img src="https://github.com/iridakos.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/iridakos/duckrails"><b>iridakos/duckrails</b></a> <sub>archived</sub><br><sub>Development tool to mock API endpoints quickly and easily - NOT MAINTAINED</sub></td>
 <td align="right"><b>1,705</b></td>
 <td align="right">104</td>
 <td>Ruby</td>
 </tr>
 <tr>
-<td align="right">43</td>
-<td><img src="https://github.com/Swordpdf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Swordpdf/PS5SX2"><b>Swordpdf/PS5SX2</b></a><br><sub>A port of PCSX2 for PS5</sub></td>
-<td align="right"><b>1,700</b></td>
-<td align="right">152</td>
-<td>C++</td>
-</tr>
-<tr>
 <td align="right">44</td>
 <td><img src="https://github.com/twelvesec.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/twelvesec/gasmask"><b>twelvesec/gasmask</b></a><br><sub>Information gathering tool - OSINT</sub></td>
-<td align="right"><b>1,519</b></td>
+<td align="right"><b>1,521</b></td>
 <td align="right">179</td>
 <td>Python</td>
 </tr>

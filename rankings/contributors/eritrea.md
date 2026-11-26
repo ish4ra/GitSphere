@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/ER.json">JSON</a> |
+| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/ER.json">JSON</a> |
 
 </div>
 
@@ -52,6 +52,15 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/maryosu"><img src="https://avatars.githubusercontent.com/u/240302810?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maryosu"><b>Mary</b></a><br><sub>&#64;maryosu · 0 followers</sub></td>
+<td align="right"><b>18</b></td>
+<td align="right">18</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/SiemMeb"><img src="https://avatars.githubusercontent.com/u/322962789?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SiemMeb"><b>Siem Mebrahtu</b></a><br><sub>&#64;SiemMeb · 0 followers</sub></td>
 <td align="right"><b>14</b></td>
 <td align="right">10</td>
@@ -60,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/Yuri4423"><img src="https://avatars.githubusercontent.com/u/307662243?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Yuri4423"><b>Georgina</b></a><br><sub>&#64;Yuri4423 · 0 followers</sub></td>
 <td align="right"><b>13</b></td>
 <td align="right">7</td>
@@ -69,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/elpewpew"><img src="https://avatars.githubusercontent.com/u/129577468?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elpewpew"><b>elpewpew</b></a><br><sub>&#64;elpewpew · 0 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">3</td>
@@ -84,7 +93,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 19 of 28 discovered developers (9 awaiting measurement).
+- **Measured:** 21 of 28 discovered developers (7 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 6 of 34 in round 1.

@@ -346,36 +346,36 @@
 <tr>
 <td align="right">47</td>
 <td><img src="https://github.com/ammarahm-ed.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ammarahm-ed/react-native-actions-sheet"><b>ammarahm-ed/react-native-actions-sheet</b></a><br><sub>A Cross Platform(Android, iOS &amp; Web) ActionSheet with a flexible api, native performance for react native. Create anyth…</sub></td>
-<td align="right"><b>2,202</b></td>
-<td align="right">159</td>
+<td align="right"><b>2,203</b></td>
+<td align="right">158</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">48</td>
 <td><img src="https://github.com/mrsaeeddev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mrsaeeddev/free-ai-resources"><b>mrsaeeddev/free-ai-resources</b></a><br><sub>🚀 FREE AI Resources - 🎓 Courses, 👷 Jobs, 📝 Blogs, 🔬 AI Research, and many more - for everyone!</sub></td>
-<td align="right"><b>2,035</b></td>
-<td align="right">329</td>
+<td align="right"><b>2,037</b></td>
+<td align="right">331</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">49</td>
 <td><img src="https://github.com/FareedKhan-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FareedKhan-dev/all-rl-algorithms"><b>FareedKhan-dev/all-rl-algorithms</b></a><br><sub>Implementation of all RL algorithms in a simpler way</sub></td>
-<td align="right"><b>2,004</b></td>
-<td align="right">383</td>
+<td align="right"><b>2,005</b></td>
+<td align="right">382</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">50</td>
 <td><img src="https://github.com/evildevill.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/evildevill/instahack"><b>evildevill/instahack</b></a><br><sub>instahack is a bash &amp; python based script which is officially made to test password strength of Instagram account from…</sub></td>
-<td align="right"><b>1,945</b></td>
-<td align="right">380</td>
+<td align="right"><b>1,950</b></td>
+<td align="right">379</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">51</td>
 <td><img src="https://github.com/shahraizali.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shahraizali/awesome-django"><b>shahraizali/awesome-django</b></a><br><sub>The Best Django Resource, Awesome Django for mature packages.</sub></td>
 <td align="right"><b>1,921</b></td>
-<td align="right">286</td>
+<td align="right">287</td>
 <td>—</td>
 </tr>
 <tr>
@@ -388,21 +388,21 @@
 <tr>
 <td align="right">53</td>
 <td><img src="https://github.com/thecodrr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thecodrr/fdir"><b>thecodrr/fdir</b></a><br><sub>⚡ The fastest directory crawler &amp; globbing library for NodeJS. Crawls 1m files in &lt; 1s</sub></td>
-<td align="right"><b>1,740</b></td>
-<td align="right">74</td>
+<td align="right"><b>1,741</b></td>
+<td align="right">75</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">54</td>
 <td><img src="https://github.com/MTK911.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MTK911/Attiny85"><b>MTK911/Attiny85</b></a><br><sub>RubberDucky like payloads for DigiSpark Attiny85</sub></td>
-<td align="right"><b>1,644</b></td>
-<td align="right">406</td>
+<td align="right"><b>1,646</b></td>
+<td align="right">407</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">55</td>
 <td><img src="https://github.com/AhmadHassan-BTed.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AhmadHassan-BTed/RainGen-RainGenerator"><b>AhmadHassan-BTed/RainGen-RainGenerator</b></a><br><sub>This repository will be used to develop a rain generator, actually it use white noises to simulate wind and have an int…</sub></td>
-<td align="right"><b>1,614</b></td>
+<td align="right"><b>1,615</b></td>
 <td align="right">0</td>
 <td>Python</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 562 stars; 114 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 562 stars; 122 attributed candidates are tracked.
 - 125 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 147 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

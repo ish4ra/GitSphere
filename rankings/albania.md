@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **11** | 23 Nov 2026 | <a href="../data/AL.json">JSON</a> |
+| 🟡 Provisional | **12** | 23 Nov 2026 | <a href="../data/AL.json">JSON</a> |
 
 </div>
 
@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/4lbH4cker.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/4lbH4cker/ALHacking"><b>4lbH4cker/ALHacking</b></a><br><sub>Albanian Hacking Tool!! Tools to help you with ethical hacking, Social media hack, phone info, Gmail attack, phone numb…</sub></td>
-<td align="right"><b>1,694</b></td>
+<td align="right"><b>1,699</b></td>
 <td align="right">367</td>
 <td>Shell</td>
 </tr>
@@ -98,6 +98,13 @@
 <td align="right">60</td>
 <td>Swift</td>
 </tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/Zatvobor.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Zatvobor/tirexs"><b>Zatvobor/tirexs</b></a><br><sub>An Elixir flavored HTTP client and DSL library for Elasticsearch</sub></td>
+<td align="right"><b>424</b></td>
+<td align="right">88</td>
+<td>Elixir</td>
+</tr>
 </tbody>
 </table>
 
@@ -106,8 +113,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 463 stars; 11 attributed candidates are tracked.
-- 129 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 424 stars; 12 attributed candidates are tracked.
+- 125 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 141 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

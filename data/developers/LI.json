@@ -7,7 +7,7 @@
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
 "coverage": {"basis":"partial","cutoffFollowers":0,"candidates":254,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":24,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjcyMzQzMTY0","login":"mrmotchy","name":"mr.motchy","url":"https://github.com/mrmotchy","avatarUrl":"https://avatars.githubusercontent.com/u/72343164?s=80&v=4","followers":337,"publicRepos":40,"location":"Liechtenstein","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":1,"id":"MDQ6VXNlcjcyMzQzMTY0","login":"mrmotchy","name":"mr.motchy","url":"https://github.com/mrmotchy","avatarUrl":"https://avatars.githubusercontent.com/u/72343164?s=80&v=4","followers":337,"publicRepos":40,"location":"Liechtenstein","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":"MDQ6VXNlcjU4MTEwMzI1","login":"msanft","name":"Moritz Sanft","url":"https://github.com/msanft","avatarUrl":"https://avatars.githubusercontent.com/u/58110325?s=80&v=4","followers":286,"publicRepos":69,"location":"Liechtenstein","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":3,"id":"MDQ6VXNlcjk1NzY1NzI=","login":"vad-babushkin","name":"vad babushkin","url":"https://github.com/vad-babushkin","avatarUrl":"https://avatars.githubusercontent.com/u/9576572?s=80&v=4","followers":54,"publicRepos":156,"location":"Liechtenstein","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":4,"id":"MDQ6VXNlcjUyMDIxNA==","login":"FeeJai","name":"Felix Jankowski","url":"https://github.com/FeeJai","avatarUrl":"https://avatars.githubusercontent.com/u/520214?s=80&v=4","followers":32,"publicRepos":64,"location":"Liechtenstein","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
@@ -33,7 +33,7 @@
   {"rank":24,"id":"U_kgDOCe4mVQ","login":"archham","name":"Nicolas Eberle","url":"https://github.com/archham","avatarUrl":"https://avatars.githubusercontent.com/u/166602325?s=80&v=4","followers":10,"publicRepos":56,"location":"Liechtenstein","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
   {"rank":25,"id":"MDQ6VXNlcjE1OTE4NzI=","login":"iwhp","name":"Harry Pfleger","url":"https://github.com/iwhp","avatarUrl":"https://avatars.githubusercontent.com/u/1591872?s=80&v=4","followers":10,"publicRepos":9,"location":"Liechtenstein","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":26,"id":"MDQ6VXNlcjk1NTU=","login":"SachaSchlegel","name":"Sacha Schlegel","url":"https://github.com/SachaSchlegel","avatarUrl":"https://avatars.githubusercontent.com/u/9555?s=80&v=4","followers":10,"publicRepos":4,"location":"Liechtenstein","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
-  {"rank":27,"id":"MDQ6VXNlcjUzMDU1NDI=","login":"secures92","name":"Samuel Kranz","url":"https://github.com/secures92","avatarUrl":"https://avatars.githubusercontent.com/u/5305542?s=80&v=4","followers":9,"publicRepos":38,"location":"Liechtenstein","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":27,"id":"MDQ6VXNlcjUzMDU1NDI=","login":"secures92","name":"Samuel Kranz","url":"https://github.com/secures92","avatarUrl":"https://avatars.githubusercontent.com/u/5305542?s=80&v=4","followers":9,"publicRepos":38,"location":"Liechtenstein","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":28,"id":"MDQ6VXNlcjg1MjQ4ODA=","login":"RemoLinter","name":"Remo Linter","url":"https://github.com/RemoLinter","avatarUrl":"https://avatars.githubusercontent.com/u/8524880?s=80&v=4","followers":9,"publicRepos":11,"location":"Nendeln","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23"},
   {"rank":29,"id":"MDQ6VXNlcjMyNjk3NTE1","login":"jukindle","name":"Julien Kindle","url":"https://github.com/jukindle","avatarUrl":"https://avatars.githubusercontent.com/u/32697515?s=80&v=4","followers":9,"publicRepos":9,"location":"Schaan","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23"},
   {"rank":30,"id":"U_kgDOBvnYBQ","login":"laabidiRayen","name":"Rayen laabidi","url":"https://github.com/laabidiRayen","avatarUrl":"https://avatars.githubusercontent.com/u/117037061?s=80&v=4","followers":8,"publicRepos":13,"location":"Vaduz","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-23"},
@@ -262,8 +262,8 @@
   {"rank":253,"id":"MDQ6VXNlcjE1Mjc1NzM4","login":"tomschaepper","name":null,"url":"https://github.com/tomschaepper","avatarUrl":"https://avatars.githubusercontent.com/u/15275738?s=80&v=4","followers":0,"publicRepos":0,"location":"Liechtenstein","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":254,"id":"MDQ6VXNlcjEyNTMzMTU0","login":"Zombie-Ciao","name":"Jerik Eakins","url":"https://github.com/Zombie-Ciao","avatarUrl":"https://avatars.githubusercontent.com/u/12533154?s=80&v=4","followers":0,"publicRepos":0,"location":"Liechtenstein","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "e51f9333ccb81ea6",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "2fff40b64c8ca2ae",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

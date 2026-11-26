@@ -387,17 +387,17 @@
 </tr>
 <tr>
 <td align="right">53</td>
+<td><img src="https://github.com/syxanash.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/syxanash/awesome-web-desktops"><b>syxanash/awesome-web-desktops</b></a><br><sub>Websites, web apps, portfolios that look like desktop operating systems</sub></td>
+<td align="right"><b>2,163</b></td>
+<td align="right">127</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">54</td>
 <td><img src="https://github.com/miguelgrinberg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/miguelgrinberg/microdot"><b>miguelgrinberg/microdot</b></a><br><sub>Mirror of https://code.miguelgrinberg.com/miguelgrinberg/microdot</sub></td>
 <td align="right"><b>2,159</b></td>
 <td align="right">156</td>
 <td>Python</td>
-</tr>
-<tr>
-<td align="right">54</td>
-<td><img src="https://github.com/syxanash.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/syxanash/awesome-web-desktops"><b>syxanash/awesome-web-desktops</b></a><br><sub>Websites, web apps, portfolios that look like desktop operating systems</sub></td>
-<td align="right"><b>2,157</b></td>
-<td align="right">127</td>
-<td>Ruby</td>
 </tr>
 <tr>
 <td align="right">55</td>
@@ -415,45 +415,45 @@
 </tr>
 <tr>
 <td align="right">57</td>
+<td><img src="https://github.com/n00bcodr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/n00bcodr/Jellyfin-Enhanced"><b>n00bcodr/Jellyfin-Enhanced</b></a><br><sub>A comprehensive enhancement layer for the Jellyfin web UI with keyboard shortcuts, subtitle styling, TMDB and User revi…</sub></td>
+<td align="right"><b>2,082</b></td>
+<td align="right">115</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">58</td>
 <td><img src="https://github.com/cesanta.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cesanta/mjs"><b>cesanta/mjs</b></a><br><sub>Embedded JavaScript engine for C/C++</sub></td>
-<td align="right"><b>2,069</b></td>
+<td align="right"><b>2,070</b></td>
 <td align="right">186</td>
 <td>C</td>
 </tr>
 <tr>
-<td align="right">58</td>
-<td><img src="https://github.com/n00bcodr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/n00bcodr/Jellyfin-Enhanced"><b>n00bcodr/Jellyfin-Enhanced</b></a><br><sub>A comprehensive enhancement layer for the Jellyfin web UI with keyboard shortcuts, subtitle styling, TMDB and User revi…</sub></td>
-<td align="right"><b>2,069</b></td>
-<td align="right">116</td>
-<td>JavaScript</td>
-</tr>
-<tr>
 <td align="right">59</td>
-<td><img src="https://github.com/DKirwan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DKirwan/calendar-heatmap"><b>DKirwan/calendar-heatmap</b></a><br><sub>A d3 heatmap for representing time series data similar to github&#39;s contribution chart</sub></td>
-<td align="right"><b>2,033</b></td>
-<td align="right">139</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">60</td>
 <td><img src="https://github.com/Keyang.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Keyang/node-csvtojson"><b>Keyang/node-csvtojson</b></a><br><sub>Blazing fast and Comprehensive CSV Parser for Node.JS / Browser / Command Line.</sub></td>
 <td align="right"><b>2,032</b></td>
 <td align="right">267</td>
 <td>TypeScript</td>
 </tr>
 <tr>
+<td align="right">60</td>
+<td><img src="https://github.com/DKirwan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DKirwan/calendar-heatmap"><b>DKirwan/calendar-heatmap</b></a><br><sub>A d3 heatmap for representing time series data similar to github&#39;s contribution chart</sub></td>
+<td align="right"><b>2,032</b></td>
+<td align="right">139</td>
+<td>TypeScript</td>
+</tr>
+<tr>
 <td align="right">61</td>
-<td><img src="https://github.com/rbanffy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rbanffy/3270font"><b>rbanffy/3270font</b></a><br><sub>A 3270 font in a modern format</sub></td>
-<td align="right"><b>2,022</b></td>
-<td align="right">80</td>
-<td>Python</td>
+<td><img src="https://github.com/jithin-sabu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jithin-sabu/purge-app"><b>jithin-sabu/purge-app</b></a><br><sub>Free up your Mac. Safely. A free, open-source native Mac app that clears the cache and junk your Mac piles up on its ow…</sub></td>
+<td align="right"><b>2,026</b></td>
+<td align="right">111</td>
+<td>Swift</td>
 </tr>
 <tr>
 <td align="right">62</td>
-<td><img src="https://github.com/jithin-sabu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jithin-sabu/purge-app"><b>jithin-sabu/purge-app</b></a><br><sub>Free up your Mac. Safely. A free, open-source native Mac app that clears the cache and junk your Mac piles up on its ow…</sub></td>
-<td align="right"><b>1,999</b></td>
-<td align="right">109</td>
-<td>Swift</td>
+<td><img src="https://github.com/rbanffy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rbanffy/3270font"><b>rbanffy/3270font</b></a><br><sub>A 3270 font in a modern format</sub></td>
+<td align="right"><b>2,022</b></td>
+<td align="right">81</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">63</td>
@@ -472,43 +472,43 @@
 <tr>
 <td align="right">65</td>
 <td><img src="https://github.com/walterhiggins.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/walterhiggins/ScriptCraft"><b>walterhiggins/ScriptCraft</b></a><br><sub>Write Minecraft Plugins in JavaScript.</sub></td>
-<td align="right"><b>1,901</b></td>
+<td align="right"><b>1,902</b></td>
 <td align="right">377</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">66</td>
 <td><img src="https://github.com/nearform.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nearform/graphql-hooks"><b>nearform/graphql-hooks</b></a><br><sub>🎣 Minimal hooks-first GraphQL client</sub></td>
-<td align="right"><b>1,887</b></td>
+<td align="right"><b>1,886</b></td>
 <td align="right">89</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">67</td>
 <td><img src="https://github.com/rampatra.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rampatra/wedding-website"><b>rampatra/wedding-website</b></a><br><sub>Our Wedding Website 👫</sub></td>
-<td align="right"><b>1,850</b></td>
-<td align="right">1,091</td>
+<td align="right"><b>1,853</b></td>
+<td align="right">1,092</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">68</td>
+<td><img src="https://github.com/SierraSoftworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SierraSoftworks/tailscale-unifi"><b>SierraSoftworks/tailscale-unifi</b></a><br><sub>Run Tailscale on your UniFi OS device</sub></td>
+<td align="right"><b>1,820</b></td>
+<td align="right">81</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">69</td>
 <td><img src="https://github.com/ciar4n.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ciar4n/imagehover.css"><b>ciar4n/imagehover.css</b></a><br><sub>Pure CSS Image Hover Effect Library</sub></td>
 <td align="right"><b>1,816</b></td>
 <td align="right">225</td>
 <td>HTML</td>
 </tr>
 <tr>
-<td align="right">69</td>
-<td><img src="https://github.com/SierraSoftworks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SierraSoftworks/tailscale-unifi"><b>SierraSoftworks/tailscale-unifi</b></a><br><sub>Run Tailscale on your UniFi OS device</sub></td>
-<td align="right"><b>1,815</b></td>
-<td align="right">81</td>
-<td>Shell</td>
-</tr>
-<tr>
 <td align="right">70</td>
 <td><img src="https://github.com/12Knocksinna.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/12Knocksinna/Office365itpros"><b>12Knocksinna/Office365itpros</b></a><br><sub>PowerShell examples for articles published on https://office365itpros.com and https://practical365.com. See https://o36…</sub></td>
 <td align="right"><b>1,806</b></td>
-<td align="right">672</td>
+<td align="right">673</td>
 <td>PowerShell</td>
 </tr>
 <tr>
@@ -522,7 +522,7 @@
 <td align="right">72</td>
 <td><img src="https://github.com/jaksi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jaksi/sshesame"><b>jaksi/sshesame</b></a><br><sub>An easy to set up and use SSH honeypot, a fake SSH server that lets anyone in and logs their activity</sub></td>
 <td align="right"><b>1,777</b></td>
-<td align="right">111</td>
+<td align="right">112</td>
 <td>Go</td>
 </tr>
 <tr>
@@ -536,7 +536,7 @@
 <td align="right">74</td>
 <td><img src="https://github.com/jmcnamara.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jmcnamara/libxlsxwriter"><b>jmcnamara/libxlsxwriter</b></a><br><sub>A C library for creating Excel XLSX files.</sub></td>
 <td align="right"><b>1,767</b></td>
-<td align="right">386</td>
+<td align="right">387</td>
 <td>C</td>
 </tr>
 <tr>
@@ -549,8 +549,8 @@
 <tr>
 <td align="right">76</td>
 <td><img src="https://github.com/samdenty.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/samdenty/Wi-PWN"><b>samdenty/Wi-PWN</b></a><br><sub>ESP8266 firmware for performing deauthentication attacks, with ease.</sub></td>
-<td align="right"><b>1,743</b></td>
-<td align="right">328</td>
+<td align="right"><b>1,745</b></td>
+<td align="right">327</td>
 <td>C</td>
 </tr>
 <tr>
@@ -563,7 +563,7 @@
 <tr>
 <td align="right">78</td>
 <td><img src="https://github.com/boramalper.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/boramalper/himawaripy"><b>boramalper/himawaripy</b></a> <sub>archived</sub><br><sub>Set near-realtime picture of Earth as your desktop background</sub></td>
-<td align="right"><b>1,681</b></td>
+<td align="right"><b>1,680</b></td>
 <td align="right">236</td>
 <td>Python</td>
 </tr>
@@ -584,7 +584,7 @@
 <tr>
 <td align="right">81</td>
 <td><img src="https://github.com/finnvoor.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/finnvoor/yap"><b>finnvoor/yap</b></a><br><sub>🗣️ A CLI for on-device speech transcription using Speech.framework on macOS 26</sub></td>
-<td align="right"><b>1,640</b></td>
+<td align="right"><b>1,641</b></td>
 <td align="right">69</td>
 <td>Swift</td>
 </tr>
@@ -598,21 +598,21 @@
 <tr>
 <td align="right">83</td>
 <td><img src="https://github.com/sentriz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sentriz/cliphist"><b>sentriz/cliphist</b></a><br><sub>Wayland clipboard manager with support for multimedia</sub></td>
-<td align="right"><b>1,582</b></td>
+<td align="right"><b>1,583</b></td>
 <td align="right">47</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">84</td>
 <td><img src="https://github.com/purcell.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/purcell/exec-path-from-shell"><b>purcell/exec-path-from-shell</b></a><br><sub>Make Emacs use the $PATH set up by the user&#39;s shell</sub></td>
-<td align="right"><b>1,576</b></td>
+<td align="right"><b>1,577</b></td>
 <td align="right">85</td>
 <td>Emacs Lisp</td>
 </tr>
 <tr>
 <td align="right">85</td>
 <td><img src="https://github.com/mdibaiee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mdibaiee/awesome-lite-websites"><b>mdibaiee/awesome-lite-websites</b></a><br><sub>A list of awesome lightweight websites without all the bloat</sub></td>
-<td align="right"><b>1,504</b></td>
+<td align="right"><b>1,505</b></td>
 <td align="right">52</td>
 <td>—</td>
 </tr>

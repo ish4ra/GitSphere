@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/contributors/MN.json">JSON</a> |
+| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/contributors/MN.json">JSON</a> |
 
 </div>
 
@@ -88,6 +88,15 @@
 </tr>
 <tr>
 <td align="right">8</td>
+<td><a href="https://github.com/je3f0o"><img src="https://avatars.githubusercontent.com/u/1854769?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/je3f0o"><b>Батхишиг</b></a><br><sub>&#64;je3f0o · 102 followers</sub></td>
+<td align="right"><b>60</b></td>
+<td align="right">59</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">9</td>
 <td><a href="https://github.com/anhbaysgalan1"><img src="https://avatars.githubusercontent.com/u/31855776?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anhbaysgalan1"><b>Ankhbayasgalan Davaadorj</b></a><br><sub>&#64;anhbaysgalan1 · 39 followers</sub></td>
 <td align="right"><b>60</b></td>
 <td align="right">52</td>
@@ -96,7 +105,16 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
+<td><a href="https://github.com/mgljonon123"><img src="https://avatars.githubusercontent.com/u/82879980?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mgljonon123"><b>jonon&#95;tugu</b></a><br><sub>&#64;mgljonon123 · 0 followers</sub></td>
+<td align="right"><b>56</b></td>
+<td align="right">43</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">11</td>
 <td><a href="https://github.com/altai861"><img src="https://avatars.githubusercontent.com/u/52363186?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/altai861"><b>Altai</b></a><br><sub>&#64;altai861 · 2 followers</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">6</td>
@@ -105,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">12</td>
 <td><a href="https://github.com/KInGATiLLa"><img src="https://avatars.githubusercontent.com/u/17881842?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KInGATiLLa"><b>KInGATiLLa</b></a><br><sub>&#64;KInGATiLLa · 99 followers</sub></td>
 <td align="right"><b>19</b></td>
 <td align="right">0</td>
@@ -114,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">13</td>
 <td><a href="https://github.com/mnkhod"><img src="https://avatars.githubusercontent.com/u/46494779?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mnkhod"><b>Munkh-Od</b></a><br><sub>&#64;mnkhod · 202 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">2</td>
@@ -123,7 +141,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">14</td>
 <td><a href="https://github.com/doljko"><img src="https://avatars.githubusercontent.com/u/12738721?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/doljko"><b>Enkhbayar Doljinsuren</b></a><br><sub>&#64;doljko · 507 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -132,7 +150,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">15</td>
 <td><a href="https://github.com/bbatjargal"><img src="https://avatars.githubusercontent.com/u/7670952?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bbatjargal"><b>Batjargal Bayarsaikhan</b></a><br><sub>&#64;bbatjargal · 3 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -147,7 +165,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 14 of 399 discovered developers (385 awaiting measurement).
+- **Measured:** 16 of 399 discovered developers (383 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 152 in round 1.

@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/helallao"><img src="https://avatars.githubusercontent.com/u/78656003?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/helallao"><b>Ali Yaşar</b></a><br><sub>&#64;helallao</sub></td>
-<td align="right"><b>17,528</b></td>
+<td align="right"><b>17,494</b></td>
 <td align="right">3</td>
 <td><sub>Adana, Turkey</sub></td>
 </tr>
@@ -52,7 +52,7 @@
 <tr>
 <td align="right">5</td>
 <td><a href="https://github.com/f"><img src="https://avatars.githubusercontent.com/u/196477?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/f"><b>Fatih Kadir Akın</b></a><br><sub>&#64;f</sub></td>
-<td align="right"><b>11,781</b></td>
+<td align="right"><b>11,782</b></td>
 <td align="right">313</td>
 <td><sub>Istanbul, Turkey</sub></td>
 </tr>
@@ -94,7 +94,7 @@
 <tr>
 <td align="right">11</td>
 <td><a href="https://github.com/mustafamuratcoskun"><img src="https://avatars.githubusercontent.com/u/15064847?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mustafamuratcoskun"><b>Mustafa Murat Coşkun</b></a><br><sub>&#64;mustafamuratcoskun</sub></td>
-<td align="right"><b>7,011</b></td>
+<td align="right"><b>7,012</b></td>
 <td align="right">32</td>
 <td><sub>Ankara</sub></td>
 </tr>
@@ -346,7 +346,7 @@
 <tr>
 <td align="right">47</td>
 <td><a href="https://github.com/mstrYoda"><img src="https://avatars.githubusercontent.com/u/12763626?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mstrYoda"><b>Emre Savcı</b></a><br><sub>&#64;mstrYoda</sub></td>
-<td align="right"><b>1,602</b></td>
+<td align="right"><b>1,601</b></td>
 <td align="right">119</td>
 <td><sub>Turkey</sub></td>
 </tr>
@@ -542,7 +542,7 @@
 <tr>
 <td align="right">75</td>
 <td><a href="https://github.com/kadirnar"><img src="https://avatars.githubusercontent.com/u/36204372?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kadirnar"><b>Kadir Nar</b></a><br><sub>&#64;kadirnar</sub></td>
-<td align="right"><b>1,182</b></td>
+<td align="right"><b>1,183</b></td>
 <td align="right">154</td>
 <td><sub>Turkey</sub></td>
 </tr>
@@ -710,7 +710,7 @@
 <tr>
 <td align="right">99</td>
 <td><a href="https://github.com/edisdev"><img src="https://avatars.githubusercontent.com/u/21293903?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/edisdev"><b>Hatice Edis</b></a><br><sub>&#64;edisdev</sub></td>
-<td align="right"><b>880</b></td>
+<td align="right"><b>879</b></td>
 <td align="right">92</td>
 <td><sub>Samsun, Turkey</sub></td>
 </tr>
@@ -759,7 +759,7 @@
 <tr>
 <td align="right">106</td>
 <td><a href="https://github.com/Xetera"><img src="https://avatars.githubusercontent.com/u/24978328?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Xetera"><b>Ali</b></a><br><sub>&#64;Xetera</sub></td>
-<td align="right"><b>813</b></td>
+<td align="right"><b>815</b></td>
 <td align="right">128</td>
 <td><sub>Istanbul, Turkey</sub></td>
 </tr>
@@ -927,7 +927,7 @@
 <tr>
 <td align="right">130</td>
 <td><a href="https://github.com/ahmet-cetinkaya"><img src="https://avatars.githubusercontent.com/u/53148314?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahmet-cetinkaya"><b>Ahmet Çetinkaya</b></a><br><sub>&#64;ahmet-cetinkaya</sub></td>
-<td align="right"><b>688</b></td>
+<td align="right"><b>687</b></td>
 <td align="right">70</td>
 <td><sub>Turkey</sub></td>
 </tr>
@@ -1837,7 +1837,7 @@
 <tr>
 <td align="right">260</td>
 <td><a href="https://github.com/fatihhayri"><img src="https://avatars.githubusercontent.com/u/759429?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fatihhayri"><b>Fatih</b></a><br><sub>&#64;fatihhayri</sub></td>
-<td align="right"><b>394</b></td>
+<td align="right"><b>395</b></td>
 <td align="right">38</td>
 <td><sub>istanbul, turkey</sub></td>
 </tr>
@@ -7029,7 +7029,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global follower scan — every developer above this cutoff has been enumerated.
-- Organizations are excluded. 1,175 attributed developers are tracked; the cutoff is 166 followers.
+- Organizations are excluded. 1,300 attributed developers are tracked; the cutoff is 166 followers.
 - **Location discovery:** term 0 of 169 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

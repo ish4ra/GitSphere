@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **439** | 22 Nov 2026 | <a href="../../data/developers/AT.json">JSON</a> |
+| 🟡 Provisional | **822** | 22 Nov 2026 | <a href="../../data/developers/AT.json">JSON</a> |
 
 </div>
 
@@ -73,7 +73,7 @@
 <tr>
 <td align="right">8</td>
 <td><a href="https://github.com/manfredsteyer"><img src="https://avatars.githubusercontent.com/u/1573728?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/manfredsteyer"><b>Manfred Steyer</b></a><br><sub>&#64;manfredsteyer</sub></td>
-<td align="right"><b>2,691</b></td>
+<td align="right"><b>2,692</b></td>
 <td align="right">746</td>
 <td><sub>Graz, Austria</sub></td>
 </tr>
@@ -178,7 +178,7 @@
 <tr>
 <td align="right">23</td>
 <td><a href="https://github.com/okonet"><img src="https://avatars.githubusercontent.com/u/11071?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/okonet"><b>Andrey Okonetchnikov</b></a><br><sub>&#64;okonet</sub></td>
-<td align="right"><b>1,089</b></td>
+<td align="right"><b>1,091</b></td>
 <td align="right">154</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
@@ -2088,1007 +2088,3688 @@
 </tr>
 <tr>
 <td align="right">296</td>
-<td><a href="https://github.com/leecher1337"><img src="https://avatars.githubusercontent.com/u/6495842?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leecher1337"><b>leecher1337</b></a><br><sub>&#64;leecher1337</sub></td>
-<td align="right"><b>156</b></td>
-<td align="right">0</td>
-<td><sub>Vienna</sub></td>
+<td><a href="https://github.com/stefan2904"><img src="https://avatars.githubusercontent.com/u/527767?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stefan2904"><b>Stefan</b></a><br><sub>&#64;stefan2904</sub></td>
+<td align="right"><b>161</b></td>
+<td align="right">105</td>
+<td><sub>Graz, Vienna &amp; Koroška, Europe, Earth</sub></td>
 </tr>
 <tr>
 <td align="right">297</td>
-<td><a href="https://github.com/jycouet"><img src="https://avatars.githubusercontent.com/u/5312607?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jycouet"><b>jyc.dev</b></a><br><sub>&#64;jycouet</sub></td>
-<td align="right"><b>155</b></td>
-<td align="right">0</td>
-<td><sub>Vienna, Austria</sub></td>
+<td><a href="https://github.com/stylesuxx"><img src="https://avatars.githubusercontent.com/u/978192?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stylesuxx"><b>Chris L.</b></a><br><sub>&#64;stylesuxx</sub></td>
+<td align="right"><b>159</b></td>
+<td align="right">151</td>
+<td><sub>Vienna</sub></td>
 </tr>
 <tr>
 <td align="right">298</td>
-<td><a href="https://github.com/mikex86"><img src="https://avatars.githubusercontent.com/u/41896826?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikex86"><b>mikex86</b></a><br><sub>&#64;mikex86</sub></td>
-<td align="right"><b>154</b></td>
-<td align="right">0</td>
-<td><sub>Austria</sub></td>
+<td><a href="https://github.com/danielhuppmann"><img src="https://avatars.githubusercontent.com/u/16931589?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danielhuppmann"><b>Daniel Huppmann</b></a><br><sub>&#64;danielhuppmann</sub></td>
+<td align="right"><b>159</b></td>
+<td align="right">72</td>
+<td><sub>Vienna (Laxenburg), Austria</sub></td>
 </tr>
 <tr>
 <td align="right">299</td>
-<td><a href="https://github.com/marcopixel"><img src="https://avatars.githubusercontent.com/u/3743025?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marcopixel"><b>Marco Vockner</b></a><br><sub>&#64;marcopixel</sub></td>
-<td align="right"><b>152</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/mme"><img src="https://avatars.githubusercontent.com/u/247775?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mme"><b>Markus Ecker</b></a><br><sub>&#64;mme</sub></td>
+<td align="right"><b>158</b></td>
+<td align="right">71</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
 <td align="right">300</td>
-<td><a href="https://github.com/alwx"><img src="https://avatars.githubusercontent.com/u/911127?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alwx"><b>Alexander</b></a><br><sub>&#64;alwx</sub></td>
-<td align="right"><b>151</b></td>
-<td align="right">0</td>
-<td><sub>Vienna, Austria</sub></td>
+<td><a href="https://github.com/TheFox"><img src="https://avatars.githubusercontent.com/u/353709?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TheFox"><b>Christian Mayer</b></a><br><sub>&#64;TheFox</sub></td>
+<td align="right"><b>158</b></td>
+<td align="right">66</td>
+<td><sub>Vienna, Austria, Europe</sub></td>
 </tr>
 <tr>
 <td align="right">301</td>
+<td><a href="https://github.com/ohbus"><img src="https://avatars.githubusercontent.com/u/13291222?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ohbus"><b>Subhrodip Mohanta</b></a><br><sub>&#64;ohbus</sub></td>
+<td align="right"><b>158</b></td>
+<td align="right">52</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">302</td>
+<td><a href="https://github.com/leojimeneza"><img src="https://avatars.githubusercontent.com/u/141558275?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leojimeneza"><b>Leo</b></a><br><sub>&#64;leojimeneza</sub></td>
+<td align="right"><b>158</b></td>
+<td align="right">46</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">303</td>
+<td><a href="https://github.com/mraaroncruz"><img src="https://avatars.githubusercontent.com/u/175984?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mraaroncruz"><b>Aaron Cruz</b></a><br><sub>&#64;mraaroncruz</sub></td>
+<td align="right"><b>156</b></td>
+<td align="right">173</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">304</td>
+<td><a href="https://github.com/m2mtech"><img src="https://avatars.githubusercontent.com/u/1568448?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/m2mtech"><b>Martin Mandl</b></a><br><sub>&#64;m2mtech</sub></td>
+<td align="right"><b>156</b></td>
+<td align="right">65</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">305</td>
+<td><a href="https://github.com/leecher1337"><img src="https://avatars.githubusercontent.com/u/6495842?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/leecher1337"><b>leecher1337</b></a><br><sub>&#64;leecher1337</sub></td>
+<td align="right"><b>156</b></td>
+<td align="right">61</td>
+<td><sub>Vienna</sub></td>
+</tr>
+<tr>
+<td align="right">306</td>
+<td><a href="https://github.com/jycouet"><img src="https://avatars.githubusercontent.com/u/5312607?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jycouet"><b>jyc.dev</b></a><br><sub>&#64;jycouet</sub></td>
+<td align="right"><b>155</b></td>
+<td align="right">189</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">307</td>
+<td><a href="https://github.com/mikex86"><img src="https://avatars.githubusercontent.com/u/41896826?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikex86"><b>mikex86</b></a><br><sub>&#64;mikex86</sub></td>
+<td align="right"><b>155</b></td>
+<td align="right">40</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">308</td>
+<td><a href="https://github.com/hschne"><img src="https://avatars.githubusercontent.com/u/5294464?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hschne"><b>Hans Schnedlitz</b></a><br><sub>&#64;hschne</sub></td>
+<td align="right"><b>154</b></td>
+<td align="right">130</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">309</td>
+<td><a href="https://github.com/snusnu"><img src="https://avatars.githubusercontent.com/u/1186?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/snusnu"><b>Martin Gamsjaeger</b></a><br><sub>&#64;snusnu</sub></td>
+<td align="right"><b>154</b></td>
+<td align="right">54</td>
+<td><sub>Linz/Austria</sub></td>
+</tr>
+<tr>
+<td align="right">310</td>
+<td><a href="https://github.com/geek-at"><img src="https://avatars.githubusercontent.com/u/2073090?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/geek-at"><b>Christian Haschek</b></a><br><sub>&#64;geek-at</sub></td>
+<td align="right"><b>154</b></td>
+<td align="right">48</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">311</td>
+<td><a href="https://github.com/saeiddrv"><img src="https://avatars.githubusercontent.com/u/8974976?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/saeiddrv"><b>Saeid Darvish</b></a><br><sub>&#64;saeiddrv</sub></td>
+<td align="right"><b>154</b></td>
+<td align="right">11</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">312</td>
+<td><a href="https://github.com/mole99"><img src="https://avatars.githubusercontent.com/u/3877395?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mole99"><b>Leo Moser</b></a><br><sub>&#64;mole99</sub></td>
+<td align="right"><b>153</b></td>
+<td align="right">144</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">313</td>
+<td><a href="https://github.com/ChristofSchwarz"><img src="https://avatars.githubusercontent.com/u/15999058?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ChristofSchwarz"><b>Christof Schwarz</b></a><br><sub>&#64;ChristofSchwarz</sub></td>
+<td align="right"><b>153</b></td>
+<td align="right">84</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">314</td>
+<td><a href="https://github.com/bernhardmgruber"><img src="https://avatars.githubusercontent.com/u/1224051?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bernhardmgruber"><b>Bernhard Manfred Gruber</b></a><br><sub>&#64;bernhardmgruber</sub></td>
+<td align="right"><b>153</b></td>
+<td align="right">65</td>
+<td><sub>Traunkirchen, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">315</td>
+<td><a href="https://github.com/machinekoder"><img src="https://avatars.githubusercontent.com/u/1467368?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/machinekoder"><b>Alexander Poss</b></a><br><sub>&#64;machinekoder</sub></td>
+<td align="right"><b>152</b></td>
+<td align="right">250</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">316</td>
+<td><a href="https://github.com/fghaas"><img src="https://avatars.githubusercontent.com/u/610707?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fghaas"><b>Florian Haas</b></a><br><sub>&#64;fghaas</sub></td>
+<td align="right"><b>152</b></td>
+<td align="right">228</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">317</td>
+<td><a href="https://github.com/marcopixel"><img src="https://avatars.githubusercontent.com/u/3743025?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marcopixel"><b>Marco Vockner</b></a><br><sub>&#64;marcopixel</sub></td>
+<td align="right"><b>152</b></td>
+<td align="right">12</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">318</td>
+<td><a href="https://github.com/alwx"><img src="https://avatars.githubusercontent.com/u/911127?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alwx"><b>Alexander</b></a><br><sub>&#64;alwx</sub></td>
+<td align="right"><b>151</b></td>
+<td align="right">67</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">319</td>
+<td><a href="https://github.com/zimmski"><img src="https://avatars.githubusercontent.com/u/1847950?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zimmski"><b>Markus Zimmermann</b></a><br><sub>&#64;zimmski</sub></td>
+<td align="right"><b>150</b></td>
+<td align="right">74</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">320</td>
+<td><a href="https://github.com/chrissix666"><img src="https://avatars.githubusercontent.com/u/49721911?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chrissix666"><b>chrissix666</b></a><br><sub>&#64;chrissix666</sub></td>
+<td align="right"><b>150</b></td>
+<td align="right">33</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">321</td>
+<td><a href="https://github.com/ansibleguy"><img src="https://avatars.githubusercontent.com/u/79044229?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ansibleguy"><b>AnsibleGuy</b></a><br><sub>&#64;ansibleguy</sub></td>
+<td align="right"><b>150</b></td>
+<td align="right">18</td>
+<td><sub>Austria, Styria</sub></td>
+</tr>
+<tr>
+<td align="right">322</td>
 <td><a href="https://github.com/mmackh"><img src="https://avatars.githubusercontent.com/u/948693?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mmackh"><b>Maximilian Mackh</b></a><br><sub>&#64;mmackh</sub></td>
 <td align="right"><b>150</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">302</td>
-<td><a href="https://github.com/zimmski"><img src="https://avatars.githubusercontent.com/u/1847950?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zimmski"><b>Markus Zimmermann</b></a><br><sub>&#64;zimmski</sub></td>
-<td align="right"><b>150</b></td>
-<td align="right">0</td>
-<td><sub>Austria</sub></td>
-</tr>
-<tr>
-<td align="right">303</td>
+<td align="right">323</td>
 <td><a href="https://github.com/saintedlama"><img src="https://avatars.githubusercontent.com/u/123820?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/saintedlama"><b>Christoph Walcher</b></a><br><sub>&#64;saintedlama</sub></td>
 <td align="right"><b>149</b></td>
 <td align="right">0</td>
 <td><sub>Vienna</sub></td>
 </tr>
 <tr>
-<td align="right">304</td>
+<td align="right">324</td>
 <td><a href="https://github.com/damian0815"><img src="https://avatars.githubusercontent.com/u/144366?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/damian0815"><b>Damian</b></a><br><sub>&#64;damian0815</sub></td>
 <td align="right"><b>148</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">305</td>
+<td align="right">325</td>
 <td><a href="https://github.com/jonasgeiler"><img src="https://avatars.githubusercontent.com/u/10259118?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jonasgeiler"><b>Jonas Geiler</b></a><br><sub>&#64;jonasgeiler</sub></td>
 <td align="right"><b>148</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">306</td>
+<td align="right">326</td>
 <td><a href="https://github.com/nicokaiser"><img src="https://avatars.githubusercontent.com/u/238631?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nicokaiser"><b>Nico Kaiser</b></a><br><sub>&#64;nicokaiser</sub></td>
 <td align="right"><b>148</b></td>
 <td align="right">0</td>
 <td><sub>Vienna</sub></td>
 </tr>
 <tr>
-<td align="right">307</td>
+<td align="right">327</td>
 <td><a href="https://github.com/PeterStrick"><img src="https://avatars.githubusercontent.com/u/60312421?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PeterStrick"><b>Peter Strick</b></a><br><sub>&#64;PeterStrick</sub></td>
 <td align="right"><b>146</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">308</td>
+<td align="right">328</td>
 <td><a href="https://github.com/MacLemon"><img src="https://avatars.githubusercontent.com/u/90635?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MacLemon"><b>Pepi Zawodsky</b></a><br><sub>&#64;MacLemon</sub></td>
 <td align="right"><b>144</b></td>
 <td align="right">0</td>
 <td><sub>Vienna/Austria</sub></td>
 </tr>
 <tr>
-<td align="right">309</td>
+<td align="right">329</td>
 <td><a href="https://github.com/marckrenn"><img src="https://avatars.githubusercontent.com/u/2648540?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marckrenn"><b>Marc Krenn</b></a><br><sub>&#64;marckrenn</sub></td>
 <td align="right"><b>143</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">310</td>
+<td align="right">330</td>
 <td><a href="https://github.com/dasMulli"><img src="https://avatars.githubusercontent.com/u/6129250?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dasMulli"><b>Martin Andreas Ullrich</b></a><br><sub>&#64;dasMulli</sub></td>
 <td align="right"><b>140</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">311</td>
+<td align="right">331</td>
 <td><a href="https://github.com/ungerik"><img src="https://avatars.githubusercontent.com/u/617459?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ungerik"><b>Erik Unger</b></a><br><sub>&#64;ungerik</sub></td>
 <td align="right"><b>133</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">312</td>
+<td align="right">332</td>
 <td><a href="https://github.com/lmirosevic"><img src="https://avatars.githubusercontent.com/u/1628832?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lmirosevic"><b>Luka Mirosevic</b></a><br><sub>&#64;lmirosevic</sub></td>
 <td align="right"><b>130</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">313</td>
+<td align="right">333</td>
 <td><a href="https://github.com/rfc2822"><img src="https://avatars.githubusercontent.com/u/156167?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rfc2822"><b>Ricki Hirner</b></a><br><sub>&#64;rfc2822</sub></td>
 <td align="right"><b>130</b></td>
 <td align="right">0</td>
 <td><sub>Bad Vöslau / Vienna 🇦🇹 🇪🇺</sub></td>
 </tr>
 <tr>
-<td align="right">314</td>
+<td align="right">334</td>
 <td><a href="https://github.com/pointhi"><img src="https://avatars.githubusercontent.com/u/1652144?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pointhi"><b>Thomas Pointhuber</b></a><br><sub>&#64;pointhi</sub></td>
 <td align="right"><b>129</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">315</td>
+<td align="right">335</td>
 <td><a href="https://github.com/ericjohnson"><img src="https://avatars.githubusercontent.com/u/160047?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ericjohnson"><b>Eric Johnson</b></a><br><sub>&#64;ericjohnson</sub></td>
 <td align="right"><b>128</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">316</td>
+<td align="right">336</td>
 <td><a href="https://github.com/xaverkapeller"><img src="https://avatars.githubusercontent.com/u/2528239?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xaverkapeller"><b>Xaver Kapeller</b></a><br><sub>&#64;xaverkapeller</sub></td>
 <td align="right"><b>128</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">317</td>
+<td align="right">337</td>
 <td><a href="https://github.com/GameTec-live"><img src="https://avatars.githubusercontent.com/u/66077766?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GameTec-live"><b>GameTec-live</b></a><br><sub>&#64;GameTec-live</sub></td>
 <td align="right"><b>127</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">318</td>
+<td align="right">338</td>
 <td><a href="https://github.com/mreram"><img src="https://avatars.githubusercontent.com/u/11220808?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mreram"><b>Mohammad Reza Eram</b></a><br><sub>&#64;mreram</sub></td>
 <td align="right"><b>125</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">319</td>
+<td align="right">339</td>
 <td><a href="https://github.com/ausi"><img src="https://avatars.githubusercontent.com/u/367169?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ausi"><b>Martin Auswöger</b></a><br><sub>&#64;ausi</sub></td>
 <td align="right"><b>124</b></td>
 <td align="right">0</td>
 <td><sub>Salzburg, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">320</td>
+<td align="right">340</td>
 <td><a href="https://github.com/markusschanta"><img src="https://avatars.githubusercontent.com/u/254488?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/markusschanta"><b>Markus Schanta</b></a><br><sub>&#64;markusschanta</sub></td>
 <td align="right"><b>124</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">321</td>
+<td align="right">341</td>
 <td><a href="https://github.com/romtsn"><img src="https://avatars.githubusercontent.com/u/4999776?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/romtsn"><b>Roman Zavarnitsyn</b></a><br><sub>&#64;romtsn</sub></td>
 <td align="right"><b>123</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">322</td>
+<td align="right">342</td>
 <td><a href="https://github.com/MolecularMatters"><img src="https://avatars.githubusercontent.com/u/61518974?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MolecularMatters"><b>MolecularMatters</b></a><br><sub>&#64;MolecularMatters</sub></td>
 <td align="right"><b>122</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">323</td>
+<td align="right">343</td>
 <td><a href="https://github.com/codeforequity-at"><img src="https://avatars.githubusercontent.com/u/26287439?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codeforequity-at"><b>Florian Treml</b></a><br><sub>&#64;codeforequity-at</sub></td>
 <td align="right"><b>121</b></td>
 <td align="right">0</td>
 <td><sub>Vienna</sub></td>
 </tr>
 <tr>
-<td align="right">324</td>
+<td align="right">344</td>
+<td><a href="https://github.com/MFlisar"><img src="https://avatars.githubusercontent.com/u/2437726?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MFlisar"><b>MFlisar</b></a><br><sub>&#64;MFlisar</sub></td>
+<td align="right"><b>116</b></td>
+<td align="right">0</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">345</td>
 <td><a href="https://github.com/guillermomuntaner"><img src="https://avatars.githubusercontent.com/u/7468398?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/guillermomuntaner"><b>Guillermo Muntaner</b></a><br><sub>&#64;guillermomuntaner</sub></td>
-<td align="right"><b>115</b></td>
+<td align="right"><b>114</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">325</td>
+<td align="right">346</td>
 <td><a href="https://github.com/jenetics"><img src="https://avatars.githubusercontent.com/u/1509203?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jenetics"><b>Franz Wilhelmstötter</b></a><br><sub>&#64;jenetics</sub></td>
 <td align="right"><b>114</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Wien, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">326</td>
+<td align="right">347</td>
 <td><a href="https://github.com/nezhar"><img src="https://avatars.githubusercontent.com/u/4420927?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nezhar"><b>Harald Nezbeda</b></a><br><sub>&#64;nezhar</sub></td>
-<td align="right"><b>113</b></td>
+<td align="right"><b>114</b></td>
 <td align="right">0</td>
 <td><sub>Klagenfurt, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">327</td>
+<td align="right">348</td>
 <td><a href="https://github.com/vroland"><img src="https://avatars.githubusercontent.com/u/5757380?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vroland"><b>Valentin Roland</b></a><br><sub>&#64;vroland</sub></td>
 <td align="right"><b>112</b></td>
 <td align="right">0</td>
 <td><sub>Graz, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">328</td>
+<td align="right">349</td>
 <td><a href="https://github.com/01mf02"><img src="https://avatars.githubusercontent.com/u/864342?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/01mf02"><b>Michael Färber</b></a><br><sub>&#64;01mf02</sub></td>
 <td align="right"><b>111</b></td>
 <td align="right">0</td>
 <td><sub>Innsbruck</sub></td>
 </tr>
 <tr>
-<td align="right">329</td>
+<td align="right">350</td>
 <td><a href="https://github.com/DeepVoltaire"><img src="https://avatars.githubusercontent.com/u/15069697?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DeepVoltaire"><b>Philip Popien</b></a><br><sub>&#64;DeepVoltaire</sub></td>
 <td align="right"><b>111</b></td>
 <td align="right">0</td>
 <td><sub>Graz, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">330</td>
+<td align="right">351</td>
 <td><a href="https://github.com/fr3ts0n"><img src="https://avatars.githubusercontent.com/u/2822578?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fr3ts0n"><b>Erwin Scheuch-Heilig</b></a><br><sub>&#64;fr3ts0n</sub></td>
 <td align="right"><b>110</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">331</td>
+<td align="right">352</td>
 <td><a href="https://github.com/sebhildebrandt"><img src="https://avatars.githubusercontent.com/u/4717960?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sebhildebrandt"><b>Sebastian Hildebrandt</b></a><br><sub>&#64;sebhildebrandt</sub></td>
 <td align="right"><b>110</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">332</td>
+<td align="right">353</td>
 <td><a href="https://github.com/aichbauer"><img src="https://avatars.githubusercontent.com/u/14862422?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aichbauer"><b>Lukas Aichbauer</b></a><br><sub>&#64;aichbauer</sub></td>
 <td align="right"><b>108</b></td>
 <td align="right">0</td>
 <td><sub>Vienna</sub></td>
 </tr>
 <tr>
-<td align="right">333</td>
+<td align="right">354</td>
 <td><a href="https://github.com/jclehner"><img src="https://avatars.githubusercontent.com/u/1275866?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jclehner"><b>Joseph C. Lehner</b></a><br><sub>&#64;jclehner</sub></td>
 <td align="right"><b>108</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">334</td>
+<td align="right">355</td>
 <td><a href="https://github.com/davidschreiber"><img src="https://avatars.githubusercontent.com/u/1101857?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davidschreiber"><b>David Schreiber-Ranner</b></a><br><sub>&#64;davidschreiber</sub></td>
 <td align="right"><b>107</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">335</td>
+<td align="right">356</td>
 <td><a href="https://github.com/uberhalit"><img src="https://avatars.githubusercontent.com/u/19159295?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/uberhalit"><b>uberhalit</b></a><br><sub>&#64;uberhalit</sub></td>
 <td align="right"><b>107</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">336</td>
+<td align="right">357</td>
 <td><a href="https://github.com/lauridskern"><img src="https://avatars.githubusercontent.com/u/8788856?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lauridskern"><b>Laurids Kern</b></a><br><sub>&#64;lauridskern</sub></td>
 <td align="right"><b>106</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">337</td>
+<td align="right">358</td>
 <td><a href="https://github.com/nitrico"><img src="https://avatars.githubusercontent.com/u/340257?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nitrico"><b>Miguel Ángel Moreno</b></a><br><sub>&#64;nitrico</sub></td>
 <td align="right"><b>106</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">338</td>
+<td align="right">359</td>
 <td><a href="https://github.com/s00500"><img src="https://avatars.githubusercontent.com/u/1556271?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/s00500"><b>Lukas Bachschwell</b></a><br><sub>&#64;s00500</sub></td>
 <td align="right"><b>104</b></td>
 <td align="right">0</td>
 <td><sub>Vienna</sub></td>
 </tr>
 <tr>
-<td align="right">339</td>
+<td align="right">360</td>
 <td><a href="https://github.com/PredatH0r"><img src="https://avatars.githubusercontent.com/u/6238104?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PredatH0r"><b>Horst Beham</b></a><br><sub>&#64;PredatH0r</sub></td>
 <td align="right"><b>102</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">340</td>
+<td align="right">361</td>
 <td><a href="https://github.com/d-ivashchuk"><img src="https://avatars.githubusercontent.com/u/29632358?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/d-ivashchuk"><b>Dima Ivashchuk</b></a><br><sub>&#64;d-ivashchuk</sub></td>
 <td align="right"><b>101</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">341</td>
+<td align="right">362</td>
 <td><a href="https://github.com/georgd"><img src="https://avatars.githubusercontent.com/u/214002?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/georgd"><b>Georg Duffner</b></a><br><sub>&#64;georgd</sub></td>
 <td align="right"><b>99</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">342</td>
+<td align="right">363</td>
 <td><a href="https://github.com/cylonid"><img src="https://avatars.githubusercontent.com/u/12037864?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cylonid"><b>Hannes U.</b></a><br><sub>&#64;cylonid</sub></td>
 <td align="right"><b>98</b></td>
 <td align="right">0</td>
 <td><sub>Graz, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">343</td>
+<td align="right">364</td>
 <td><a href="https://github.com/karlrupp"><img src="https://avatars.githubusercontent.com/u/3027176?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/karlrupp"><b>Karl Rupp</b></a><br><sub>&#64;karlrupp</sub></td>
 <td align="right"><b>97</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">344</td>
+<td align="right">365</td>
 <td><a href="https://github.com/UnseenWizzard"><img src="https://avatars.githubusercontent.com/u/7565400?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/UnseenWizzard"><b>Nico Riedmann</b></a><br><sub>&#64;UnseenWizzard</sub></td>
 <td align="right"><b>96</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">345</td>
+<td align="right">366</td>
 <td><a href="https://github.com/HimbeersaftLP"><img src="https://avatars.githubusercontent.com/u/16354747?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HimbeersaftLP"><b>Himbeer</b></a><br><sub>&#64;HimbeersaftLP</sub></td>
 <td align="right"><b>95</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">346</td>
+<td align="right">367</td>
 <td><a href="https://github.com/merge"><img src="https://avatars.githubusercontent.com/u/503356?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/merge"><b>Martin Kepplinger-Novakovic</b></a><br><sub>&#64;merge</sub></td>
 <td align="right"><b>95</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">347</td>
+<td align="right">368</td>
 <td><a href="https://github.com/weichsel"><img src="https://avatars.githubusercontent.com/u/1577319?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/weichsel"><b>Thomas Zoechling</b></a><br><sub>&#64;weichsel</sub></td>
 <td align="right"><b>92</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">348</td>
+<td align="right">369</td>
+<td><a href="https://github.com/robbyczgw-cla"><img src="https://avatars.githubusercontent.com/u/239660374?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/robbyczgw-cla"><b>Robby Czesany</b></a><br><sub>&#64;robbyczgw-cla</sub></td>
+<td align="right"><b>91</b></td>
+<td align="right">0</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">370</td>
 <td><a href="https://github.com/cinemast"><img src="https://avatars.githubusercontent.com/u/973231?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cinemast"><b>Peter Spiess-Knafl</b></a><br><sub>&#64;cinemast</sub></td>
 <td align="right"><b>89</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">349</td>
+<td align="right">371</td>
 <td><a href="https://github.com/zauner"><img src="https://avatars.githubusercontent.com/u/30139?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zauner"><b>Matthias Zauner</b></a><br><sub>&#64;zauner</sub></td>
 <td align="right"><b>89</b></td>
 <td align="right">0</td>
 <td><sub>Linz, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">350</td>
+<td align="right">372</td>
 <td><a href="https://github.com/qwersyk"><img src="https://avatars.githubusercontent.com/u/81904181?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/qwersyk"><b>Yehor Hliebov</b></a><br><sub>&#64;qwersyk</sub></td>
 <td align="right"><b>88</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">351</td>
+<td align="right">373</td>
 <td><a href="https://github.com/laktak"><img src="https://avatars.githubusercontent.com/u/959858?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/laktak"><b>Christian Zangl</b></a><br><sub>&#64;laktak</sub></td>
 <td align="right"><b>87</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">352</td>
+<td align="right">374</td>
 <td><a href="https://github.com/yiliansource"><img src="https://avatars.githubusercontent.com/u/41469451?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yiliansource"><b>Ian Hornik</b></a><br><sub>&#64;yiliansource</sub></td>
 <td align="right"><b>87</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">353</td>
+<td align="right">375</td>
 <td><a href="https://github.com/stefankoegl"><img src="https://avatars.githubusercontent.com/u/184196?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stefankoegl"><b>Stefan Kögl</b></a><br><sub>&#64;stefankoegl</sub></td>
 <td align="right"><b>86</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">354</td>
+<td align="right">376</td>
 <td><a href="https://github.com/manmal"><img src="https://avatars.githubusercontent.com/u/142797?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/manmal"><b>Manuel Maly</b></a><br><sub>&#64;manmal</sub></td>
 <td align="right"><b>84</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">355</td>
+<td align="right">377</td>
 <td><a href="https://github.com/bp74"><img src="https://avatars.githubusercontent.com/u/1810450?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bp74"><b>Bernhard</b></a><br><sub>&#64;bp74</sub></td>
 <td align="right"><b>81</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">356</td>
+<td align="right">378</td>
 <td><a href="https://github.com/busypeoples"><img src="https://avatars.githubusercontent.com/u/718727?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/busypeoples"><b>busypeoples</b></a><br><sub>&#64;busypeoples</sub></td>
 <td align="right"><b>81</b></td>
 <td align="right">0</td>
 <td><sub>Vienna</sub></td>
 </tr>
 <tr>
-<td align="right">357</td>
+<td align="right">379</td>
 <td><a href="https://github.com/Ferdi265"><img src="https://avatars.githubusercontent.com/u/4077106?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ferdi265"><b>Ferdinand Bachmann</b></a><br><sub>&#64;Ferdi265</sub></td>
 <td align="right"><b>81</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">358</td>
+<td align="right">380</td>
 <td><a href="https://github.com/unused"><img src="https://avatars.githubusercontent.com/u/59397?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/unused"><b>Christoph Lipautz</b></a><br><sub>&#64;unused</sub></td>
 <td align="right"><b>80</b></td>
 <td align="right">0</td>
 <td><sub>Graz</sub></td>
 </tr>
 <tr>
-<td align="right">359</td>
+<td align="right">381</td>
 <td><a href="https://github.com/altmann"><img src="https://avatars.githubusercontent.com/u/3706830?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/altmann"><b>Michael Altmann</b></a><br><sub>&#64;altmann</sub></td>
 <td align="right"><b>79</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">360</td>
+<td align="right">382</td>
 <td><a href="https://github.com/sakra"><img src="https://avatars.githubusercontent.com/u/354246?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sakra"><b>Sascha Kratky</b></a><br><sub>&#64;sakra</sub></td>
 <td align="right"><b>78</b></td>
 <td align="right">0</td>
 <td><sub>&quot;grep&quot;.reverse(), Austria</sub></td>
 </tr>
 <tr>
-<td align="right">361</td>
+<td align="right">383</td>
 <td><a href="https://github.com/bbernhard"><img src="https://avatars.githubusercontent.com/u/5710631?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bbernhard"><b>Bernhard B.</b></a><br><sub>&#64;bbernhard</sub></td>
 <td align="right"><b>76</b></td>
 <td align="right">0</td>
 <td><sub>Vienna</sub></td>
 </tr>
 <tr>
-<td align="right">362</td>
+<td align="right">384</td>
 <td><a href="https://github.com/HaarigerHarald"><img src="https://avatars.githubusercontent.com/u/8050292?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HaarigerHarald"><b>Benjamin</b></a><br><sub>&#64;HaarigerHarald</sub></td>
 <td align="right"><b>76</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">363</td>
+<td align="right">385</td>
 <td><a href="https://github.com/dermotte"><img src="https://avatars.githubusercontent.com/u/4958556?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dermotte"><b>Mathias Lux</b></a><br><sub>&#64;dermotte</sub></td>
 <td align="right"><b>75</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">364</td>
+<td align="right">386</td>
 <td><a href="https://github.com/halajun"><img src="https://avatars.githubusercontent.com/u/19276509?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/halajun"><b>Jun Zhang (Steed)</b></a><br><sub>&#64;halajun</sub></td>
 <td align="right"><b>75</b></td>
 <td align="right">0</td>
 <td><sub>Graz, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">365</td>
+<td align="right">387</td>
 <td><a href="https://github.com/tkem"><img src="https://avatars.githubusercontent.com/u/2833077?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tkem"><b>Thomas Kemmer</b></a><br><sub>&#64;tkem</sub></td>
 <td align="right"><b>74</b></td>
 <td align="right">0</td>
 <td><sub>Graz, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">366</td>
+<td align="right">388</td>
+<td><a href="https://github.com/arnarg"><img src="https://avatars.githubusercontent.com/u/1291396?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arnarg"><b>Arnar</b></a><br><sub>&#64;arnarg</sub></td>
+<td align="right"><b>73</b></td>
+<td align="right">0</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">389</td>
 <td><a href="https://github.com/McKay42"><img src="https://avatars.githubusercontent.com/u/16856443?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/McKay42"><b>Pascal G.</b></a><br><sub>&#64;McKay42</sub></td>
 <td align="right"><b>72</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">367</td>
+<td align="right">390</td>
+<td><a href="https://github.com/thpoll83"><img src="https://avatars.githubusercontent.com/u/67008047?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thpoll83"><b>PolyKybd</b></a><br><sub>&#64;thpoll83</sub></td>
+<td align="right"><b>72</b></td>
+<td align="right">0</td>
+<td><sub>Linz/Austria</sub></td>
+</tr>
+<tr>
+<td align="right">391</td>
+<td><a href="https://github.com/protyposis"><img src="https://avatars.githubusercontent.com/u/189372?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/protyposis"><b>Mario Guggenberger</b></a><br><sub>&#64;protyposis</sub></td>
+<td align="right"><b>71</b></td>
+<td align="right">0</td>
+<td><sub>Klagenfurt, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">392</td>
 <td><a href="https://github.com/thotro"><img src="https://avatars.githubusercontent.com/u/6891126?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thotro"><b>Thomas Trojer</b></a><br><sub>&#64;thotro</sub></td>
 <td align="right"><b>71</b></td>
 <td align="right">0</td>
 <td><sub>Innsbruck, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">368</td>
+<td align="right">393</td>
+<td><a href="https://github.com/bleeding182"><img src="https://avatars.githubusercontent.com/u/5968329?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bleeding182"><b>David Medenjak</b></a><br><sub>&#64;bleeding182</sub></td>
+<td align="right"><b>70</b></td>
+<td align="right">0</td>
+<td><sub>Vienna</sub></td>
+</tr>
+<tr>
+<td align="right">394</td>
 <td><a href="https://github.com/JKamsker"><img src="https://avatars.githubusercontent.com/u/11245306?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JKamsker"><b>Jonas Kamsker</b></a><br><sub>&#64;JKamsker</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">0</td>
 <td><sub>Linz, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">369</td>
+<td align="right">395</td>
 <td><a href="https://github.com/mmasana"><img src="https://avatars.githubusercontent.com/u/27808234?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mmasana"><b>Marc Masana</b></a><br><sub>&#64;mmasana</sub></td>
 <td align="right"><b>69</b></td>
 <td align="right">0</td>
 <td><sub>Graz, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">370</td>
+<td align="right">396</td>
 <td><a href="https://github.com/KoKuToru"><img src="https://avatars.githubusercontent.com/u/1866790?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KoKuToru"><b>Luca Béla Palkovics</b></a><br><sub>&#64;KoKuToru</sub></td>
 <td align="right"><b>68</b></td>
 <td align="right">0</td>
 <td><sub>Vienna</sub></td>
 </tr>
 <tr>
-<td align="right">371</td>
+<td align="right">397</td>
 <td><a href="https://github.com/slymax"><img src="https://avatars.githubusercontent.com/u/3922572?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/slymax"><b>Max</b></a><br><sub>&#64;slymax</sub></td>
 <td align="right"><b>66</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">372</td>
+<td align="right">398</td>
 <td><a href="https://github.com/fscorrupt"><img src="https://avatars.githubusercontent.com/u/45659314?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fscorrupt"><b>FSCorrupt</b></a><br><sub>&#64;fscorrupt</sub></td>
 <td align="right"><b>65</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">373</td>
+<td align="right">399</td>
 <td><a href="https://github.com/grodowski"><img src="https://avatars.githubusercontent.com/u/4991698?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/grodowski"><b>Jan Grodowski</b></a><br><sub>&#64;grodowski</sub></td>
 <td align="right"><b>65</b></td>
 <td align="right">0</td>
 <td><sub>Salzburg, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">374</td>
+<td align="right">400</td>
 <td><a href="https://github.com/MauriceNino"><img src="https://avatars.githubusercontent.com/u/18658092?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MauriceNino"><b>Mauz</b></a><br><sub>&#64;MauriceNino</sub></td>
 <td align="right"><b>65</b></td>
 <td align="right">0</td>
 <td><sub>Linz, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">375</td>
+<td align="right">401</td>
 <td><a href="https://github.com/mpoeter"><img src="https://avatars.githubusercontent.com/u/8653812?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mpoeter"><b>Manuel Pöter</b></a><br><sub>&#64;mpoeter</sub></td>
 <td align="right"><b>65</b></td>
 <td align="right">0</td>
 <td><sub>Vienna</sub></td>
 </tr>
 <tr>
-<td align="right">376</td>
+<td align="right">402</td>
 <td><a href="https://github.com/KailinTong"><img src="https://avatars.githubusercontent.com/u/39188064?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KailinTong"><b>Kailin Tong</b></a><br><sub>&#64;KailinTong</sub></td>
 <td align="right"><b>64</b></td>
 <td align="right">0</td>
 <td><sub>Graz, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">377</td>
+<td align="right">403</td>
 <td><a href="https://github.com/DomiStyle"><img src="https://avatars.githubusercontent.com/u/975131?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DomiStyle"><b>Dominik</b></a><br><sub>&#64;DomiStyle</sub></td>
 <td align="right"><b>63</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">378</td>
+<td align="right">404</td>
 <td><a href="https://github.com/MattMoony"><img src="https://avatars.githubusercontent.com/u/41878842?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MattMoony"><b>Matthias Monschein</b></a><br><sub>&#64;MattMoony</sub></td>
 <td align="right"><b>61</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">379</td>
+<td align="right">405</td>
 <td><a href="https://github.com/flipace"><img src="https://avatars.githubusercontent.com/u/953984?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/flipace"><b>Patrick Hübl-Neschkudla</b></a><br><sub>&#64;flipace</sub></td>
 <td align="right"><b>60</b></td>
 <td align="right">0</td>
 <td><sub>vienna</sub></td>
 </tr>
 <tr>
-<td align="right">380</td>
+<td align="right">406</td>
 <td><a href="https://github.com/LierB"><img src="https://avatars.githubusercontent.com/u/104396477?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LierB"><b>Bina</b></a><br><sub>&#64;LierB</sub></td>
 <td align="right"><b>60</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">381</td>
+<td align="right">407</td>
+<td><a href="https://github.com/andreasgerstmayr"><img src="https://avatars.githubusercontent.com/u/538011?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andreasgerstmayr"><b>Andreas Gerstmayr</b></a><br><sub>&#64;andreasgerstmayr</sub></td>
+<td align="right"><b>59</b></td>
+<td align="right">0</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">408</td>
 <td><a href="https://github.com/hackthedev"><img src="https://avatars.githubusercontent.com/u/40896559?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hackthedev"><b>Marcel</b></a><br><sub>&#64;hackthedev</sub></td>
 <td align="right"><b>59</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">382</td>
+<td align="right">409</td>
 <td><a href="https://github.com/steos"><img src="https://avatars.githubusercontent.com/u/481021?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/steos"><b>Stefan Oestreicher</b></a><br><sub>&#64;steos</sub></td>
 <td align="right"><b>57</b></td>
 <td align="right">0</td>
 <td><sub>Vienna</sub></td>
 </tr>
 <tr>
-<td align="right">383</td>
+<td align="right">410</td>
 <td><a href="https://github.com/ad-on-is"><img src="https://avatars.githubusercontent.com/u/9553253?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ad-on-is"><b>Adis Durakovic</b></a><br><sub>&#64;ad-on-is</sub></td>
 <td align="right"><b>56</b></td>
 <td align="right">0</td>
 <td><sub>Vienna</sub></td>
 </tr>
 <tr>
-<td align="right">384</td>
+<td align="right">411</td>
 <td><a href="https://github.com/lanoxx"><img src="https://avatars.githubusercontent.com/u/691311?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lanoxx"><b>Sebastian Geiger</b></a><br><sub>&#64;lanoxx</sub></td>
 <td align="right"><b>55</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">385</td>
+<td align="right">412</td>
 <td><a href="https://github.com/cwalter-at"><img src="https://avatars.githubusercontent.com/u/43271235?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cwalter-at"><b>Dr. techn. Christian Walter</b></a><br><sub>&#64;cwalter-at</sub></td>
 <td align="right"><b>54</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">386</td>
+<td align="right">413</td>
 <td><a href="https://github.com/manhofer"><img src="https://avatars.githubusercontent.com/u/13998058?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/manhofer"><b>Manuel Hofer</b></a><br><sub>&#64;manhofer</sub></td>
 <td align="right"><b>54</b></td>
 <td align="right">0</td>
 <td><sub>Graz, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">387</td>
+<td align="right">414</td>
 <td><a href="https://github.com/TimUntersberger"><img src="https://avatars.githubusercontent.com/u/32014449?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TimUntersberger"><b>TimUntersberger</b></a><br><sub>&#64;TimUntersberger</sub></td>
 <td align="right"><b>54</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">388</td>
+<td align="right">415</td>
 <td><a href="https://github.com/JoHof"><img src="https://avatars.githubusercontent.com/u/11867033?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JoHof"><b>Johannes Hofmanninger</b></a><br><sub>&#64;JoHof</sub></td>
 <td align="right"><b>52</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">389</td>
+<td align="right">416</td>
 <td><a href="https://github.com/ahochsteger"><img src="https://avatars.githubusercontent.com/u/207989?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahochsteger"><b>Andreas Hochsteger</b></a><br><sub>&#64;ahochsteger</sub></td>
 <td align="right"><b>50</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">390</td>
+<td align="right">417</td>
 <td><a href="https://github.com/mdietrichstein"><img src="https://avatars.githubusercontent.com/u/5488765?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mdietrichstein"><b>Marc Dietrichstein</b></a><br><sub>&#64;mdietrichstein</sub></td>
 <td align="right"><b>50</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">391</td>
+<td align="right">418</td>
 <td><a href="https://github.com/h44z"><img src="https://avatars.githubusercontent.com/u/1370804?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/h44z"><b>h44z</b></a><br><sub>&#64;h44z</sub></td>
 <td align="right"><b>49</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">392</td>
+<td align="right">419</td>
 <td><a href="https://github.com/TobiasPankner"><img src="https://avatars.githubusercontent.com/u/39444749?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TobiasPankner"><b>TobiasPankner</b></a><br><sub>&#64;TobiasPankner</sub></td>
 <td align="right"><b>49</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">393</td>
+<td align="right">420</td>
+<td><a href="https://github.com/wlucha"><img src="https://avatars.githubusercontent.com/u/7531596?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wlucha"><b>Wilfried Lucha</b></a><br><sub>&#64;wlucha</sub></td>
+<td align="right"><b>49</b></td>
+<td align="right">0</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">421</td>
 <td><a href="https://github.com/autc04"><img src="https://avatars.githubusercontent.com/u/1662219?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/autc04"><b>Wolfgang Thaller</b></a><br><sub>&#64;autc04</sub></td>
 <td align="right"><b>48</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">394</td>
+<td align="right">422</td>
 <td><a href="https://github.com/bradphelan"><img src="https://avatars.githubusercontent.com/u/17650?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bradphelan"><b>Brad Phelan</b></a><br><sub>&#64;bradphelan</sub></td>
 <td align="right"><b>47</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">395</td>
+<td align="right">423</td>
 <td><a href="https://github.com/BotiKis"><img src="https://avatars.githubusercontent.com/u/925714?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BotiKis"><b>Botond Kis</b></a><br><sub>&#64;BotiKis</sub></td>
 <td align="right"><b>46</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">396</td>
+<td align="right">424</td>
 <td><a href="https://github.com/green7ea"><img src="https://avatars.githubusercontent.com/u/1398908?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/green7ea"><b>green7ea</b></a><br><sub>&#64;green7ea</sub></td>
 <td align="right"><b>46</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">397</td>
+<td align="right">425</td>
 <td><a href="https://github.com/saligerdo"><img src="https://avatars.githubusercontent.com/u/4883116?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/saligerdo"><b>SaliDo</b></a><br><sub>&#64;saligerdo</sub></td>
 <td align="right"><b>45</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">398</td>
+<td align="right">426</td>
+<td><a href="https://github.com/SoloByte"><img src="https://avatars.githubusercontent.com/u/34277803?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SoloByte"><b>Dave Green</b></a><br><sub>&#64;SoloByte</sub></td>
+<td align="right"><b>45</b></td>
+<td align="right">0</td>
+<td><sub>Vienna</sub></td>
+</tr>
+<tr>
+<td align="right">427</td>
 <td><a href="https://github.com/spiegelp"><img src="https://avatars.githubusercontent.com/u/6129929?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/spiegelp"><b>Philipp Spiegel</b></a><br><sub>&#64;spiegelp</sub></td>
 <td align="right"><b>44</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">399</td>
+<td align="right">428</td>
 <td><a href="https://github.com/SoMuchForSubtlety"><img src="https://avatars.githubusercontent.com/u/15961647?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SoMuchForSubtlety"><b>Jakob</b></a><br><sub>&#64;SoMuchForSubtlety</sub></td>
 <td align="right"><b>43</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">400</td>
+<td align="right">429</td>
 <td><a href="https://github.com/houmain"><img src="https://avatars.githubusercontent.com/u/20393908?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/houmain"><b>Albert Kalchmair</b></a><br><sub>&#64;houmain</sub></td>
 <td align="right"><b>42</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">401</td>
+<td align="right">430</td>
 <td><a href="https://github.com/rnevius"><img src="https://avatars.githubusercontent.com/u/4516305?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rnevius"><b>Ryan Nevius</b></a><br><sub>&#64;rnevius</sub></td>
 <td align="right"><b>42</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">402</td>
+<td align="right">431</td>
 <td><a href="https://github.com/ropery"><img src="https://avatars.githubusercontent.com/u/156613?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ropery"><b>ropery</b></a><br><sub>&#64;ropery</sub></td>
 <td align="right"><b>42</b></td>
 <td align="right">0</td>
 <td><sub>Fucking, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">403</td>
+<td align="right">432</td>
 <td><a href="https://github.com/mocnik-science"><img src="https://avatars.githubusercontent.com/u/12628698?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mocnik-science"><b>Franz-Benjamin Mocnik</b></a><br><sub>&#64;mocnik-science</sub></td>
 <td align="right"><b>41</b></td>
 <td align="right">0</td>
 <td><sub>Salzburg, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">404</td>
+<td align="right">433</td>
 <td><a href="https://github.com/mpgirro"><img src="https://avatars.githubusercontent.com/u/589073?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mpgirro"><b>Maximilian Irro</b></a><br><sub>&#64;mpgirro</sub></td>
 <td align="right"><b>41</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria (EU)</sub></td>
 </tr>
 <tr>
-<td align="right">405</td>
+<td align="right">434</td>
 <td><a href="https://github.com/Sapd"><img src="https://avatars.githubusercontent.com/u/671752?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sapd"><b>Denis Arnst</b></a><br><sub>&#64;Sapd</sub></td>
 <td align="right"><b>41</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">406</td>
+<td align="right">435</td>
 <td><a href="https://github.com/jakob-grabner"><img src="https://avatars.githubusercontent.com/u/7100572?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jakob-grabner"><b>Jakob Grabner</b></a><br><sub>&#64;jakob-grabner</sub></td>
 <td align="right"><b>40</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">407</td>
+<td align="right">436</td>
 <td><a href="https://github.com/LeoVen"><img src="https://avatars.githubusercontent.com/u/26551037?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LeoVen"><b>Leonardo Vencovsky</b></a><br><sub>&#64;LeoVen</sub></td>
 <td align="right"><b>36</b></td>
 <td align="right">0</td>
 <td><sub>Vienna</sub></td>
 </tr>
 <tr>
-<td align="right">408</td>
+<td align="right">437</td>
 <td><a href="https://github.com/aluxnimm"><img src="https://avatars.githubusercontent.com/u/12834530?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aluxnimm"><b>Alex Nimmervoll</b></a><br><sub>&#64;aluxnimm</sub></td>
 <td align="right"><b>35</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">409</td>
+<td align="right">438</td>
 <td><a href="https://github.com/cooperspencer"><img src="https://avatars.githubusercontent.com/u/27288824?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cooperspencer"><b>Andreas Wachter</b></a><br><sub>&#64;cooperspencer</sub></td>
 <td align="right"><b>35</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">410</td>
+<td align="right">439</td>
 <td><a href="https://github.com/CURTLab"><img src="https://avatars.githubusercontent.com/u/26273648?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CURTLab"><b>CURTLab</b></a><br><sub>&#64;CURTLab</sub></td>
 <td align="right"><b>34</b></td>
 <td align="right">0</td>
 <td><sub>Linz, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">411</td>
+<td align="right">440</td>
+<td><a href="https://github.com/rprinz08"><img src="https://avatars.githubusercontent.com/u/6594944?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rprinz08"><b>Richard Prinz</b></a><br><sub>&#64;rprinz08</sub></td>
+<td align="right"><b>34</b></td>
+<td align="right">0</td>
+<td><sub>Vienna, Austria, Europe</sub></td>
+</tr>
+<tr>
+<td align="right">441</td>
 <td><a href="https://github.com/fabiandev"><img src="https://avatars.githubusercontent.com/u/480710?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fabiandev"><b>Fabian Leutgeb</b></a><br><sub>&#64;fabiandev</sub></td>
 <td align="right"><b>33</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">412</td>
+<td align="right">442</td>
 <td><a href="https://github.com/jlrouzies-fr"><img src="https://avatars.githubusercontent.com/u/57990274?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jlrouzies-fr"><b>Jean-Laurent ROUZIES</b></a><br><sub>&#64;jlrouzies-fr</sub></td>
 <td align="right"><b>33</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">413</td>
+<td align="right">443</td>
 <td><a href="https://github.com/fkirc"><img src="https://avatars.githubusercontent.com/u/17876666?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fkirc"><b>fk</b></a><br><sub>&#64;fkirc</sub></td>
 <td align="right"><b>32</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">414</td>
+<td align="right">444</td>
 <td><a href="https://github.com/zunnzunn"><img src="https://avatars.githubusercontent.com/u/28678851?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zunnzunn"><b>Marko Žunić</b></a><br><sub>&#64;zunnzunn</sub></td>
 <td align="right"><b>32</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">415</td>
+<td align="right">445</td>
 <td><a href="https://github.com/MaxiHuHe04"><img src="https://avatars.githubusercontent.com/u/12913518?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MaxiHuHe04"><b>Maxi Herczegh</b></a><br><sub>&#64;MaxiHuHe04</sub></td>
 <td align="right"><b>31</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">416</td>
+<td align="right">446</td>
 <td><a href="https://github.com/ErlerPhilipp"><img src="https://avatars.githubusercontent.com/u/7949665?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ErlerPhilipp"><b>Philipp Erler</b></a><br><sub>&#64;ErlerPhilipp</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">0</td>
 <td><sub>Vienna</sub></td>
 </tr>
 <tr>
-<td align="right">417</td>
+<td align="right">447</td>
 <td><a href="https://github.com/ToothlessGear"><img src="https://avatars.githubusercontent.com/u/1630038?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ToothlessGear"><b>Marcus Farkas</b></a><br><sub>&#64;ToothlessGear</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">0</td>
 <td><sub>vienna, austria</sub></td>
 </tr>
 <tr>
-<td align="right">418</td>
+<td align="right">448</td>
 <td><a href="https://github.com/alangibson"><img src="https://avatars.githubusercontent.com/u/3204098?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alangibson"><b>Alan Gibson</b></a><br><sub>&#64;alangibson</sub></td>
 <td align="right"><b>29</b></td>
 <td align="right">0</td>
 <td><sub>Klagenfurt, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">419</td>
+<td align="right">449</td>
+<td><a href="https://github.com/kinggongzilla"><img src="https://avatars.githubusercontent.com/u/30088687?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kinggongzilla"><b>David Hauser</b></a><br><sub>&#64;kinggongzilla</sub></td>
+<td align="right"><b>29</b></td>
+<td align="right">0</td>
+<td><sub>Linz, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">450</td>
 <td><a href="https://github.com/ndresx"><img src="https://avatars.githubusercontent.com/u/27507295?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ndresx"><b>Martin V.</b></a><br><sub>&#64;ndresx</sub></td>
 <td align="right"><b>28</b></td>
 <td align="right">0</td>
 <td><sub>Graz, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">420</td>
+<td align="right">451</td>
 <td><a href="https://github.com/snyball"><img src="https://avatars.githubusercontent.com/u/36439782?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/snyball"><b>Jonas Møller</b></a><br><sub>&#64;snyball</sub></td>
 <td align="right"><b>28</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">421</td>
+<td align="right">452</td>
 <td><a href="https://github.com/heckelson"><img src="https://avatars.githubusercontent.com/u/26191361?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/heckelson"><b>Alexander Hecke</b></a><br><sub>&#64;heckelson</sub></td>
 <td align="right"><b>27</b></td>
 <td align="right">0</td>
 <td><sub>Vienna</sub></td>
 </tr>
 <tr>
-<td align="right">422</td>
+<td align="right">453</td>
 <td><a href="https://github.com/rafal-qa"><img src="https://avatars.githubusercontent.com/u/38441347?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rafal-qa"><b>Rafal Kochanowski</b></a><br><sub>&#64;rafal-qa</sub></td>
 <td align="right"><b>27</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">423</td>
+<td align="right">454</td>
 <td><a href="https://github.com/Emrodev"><img src="https://avatars.githubusercontent.com/u/137864487?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Emrodev"><b>Emrodev</b></a><br><sub>&#64;Emrodev</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">424</td>
+<td align="right">455</td>
 <td><a href="https://github.com/perber"><img src="https://avatars.githubusercontent.com/u/6125824?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/perber"><b>Patrick Erber</b></a><br><sub>&#64;perber</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">0</td>
 <td><sub>Vienna</sub></td>
 </tr>
 <tr>
-<td align="right">425</td>
+<td align="right">456</td>
 <td><a href="https://github.com/devnulli"><img src="https://avatars.githubusercontent.com/u/3720480?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/devnulli"><b>Michael Schönbauer</b></a><br><sub>&#64;devnulli</sub></td>
 <td align="right"><b>23</b></td>
 <td align="right">0</td>
 <td><sub>Linz, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">426</td>
+<td align="right">457</td>
 <td><a href="https://github.com/prof79"><img src="https://avatars.githubusercontent.com/u/4944664?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/prof79"><b>Markus M. Egger</b></a><br><sub>&#64;prof79</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">427</td>
+<td align="right">458</td>
 <td><a href="https://github.com/ThePat02"><img src="https://avatars.githubusercontent.com/u/27511950?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ThePat02"><b>Pat</b></a><br><sub>&#64;ThePat02</sub></td>
 <td align="right"><b>21</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">428</td>
+<td align="right">459</td>
 <td><a href="https://github.com/2akouwu"><img src="https://avatars.githubusercontent.com/u/14812897?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/2akouwu"><b>2ako</b></a><br><sub>&#64;2akouwu</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">429</td>
+<td align="right">460</td>
 <td><a href="https://github.com/Goblinmine"><img src="https://avatars.githubusercontent.com/u/113011860?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Goblinmine"><b>Goblinmine</b></a><br><sub>&#64;Goblinmine</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">430</td>
+<td align="right">461</td>
 <td><a href="https://github.com/max-moser"><img src="https://avatars.githubusercontent.com/u/6437519?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/max-moser"><b>Max</b></a><br><sub>&#64;max-moser</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">431</td>
+<td align="right">462</td>
 <td><a href="https://github.com/scheinem"><img src="https://avatars.githubusercontent.com/u/2702646?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/scheinem"><b>Manfred Scheiner</b></a><br><sub>&#64;scheinem</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">0</td>
 <td><sub>Vienna, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">432</td>
+<td align="right">463</td>
 <td><a href="https://github.com/theinvisible"><img src="https://avatars.githubusercontent.com/u/1832636?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/theinvisible"><b>Rene H.</b></a><br><sub>&#64;theinvisible</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">433</td>
+<td align="right">464</td>
 <td><a href="https://github.com/maxbogo"><img src="https://avatars.githubusercontent.com/u/52604960?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maxbogo"><b>maxim</b></a><br><sub>&#64;maxbogo</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">434</td>
+<td align="right">465</td>
+<td><a href="https://github.com/sevensolutions"><img src="https://avatars.githubusercontent.com/u/84123899?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sevensolutions"><b>Daniel Peinhopf</b></a><br><sub>&#64;sevensolutions</sub></td>
+<td align="right"><b>18</b></td>
+<td align="right">0</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">466</td>
 <td><a href="https://github.com/lucidlemon"><img src="https://avatars.githubusercontent.com/u/2458762?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lucidlemon"><b>Daniel Winter</b></a><br><sub>&#64;lucidlemon</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">435</td>
+<td align="right">467</td>
 <td><a href="https://github.com/chrishoermann"><img src="https://avatars.githubusercontent.com/u/53531653?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chrishoermann"><b>chrishoermann</b></a><br><sub>&#64;chrishoermann</sub></td>
 <td align="right"><b>14</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">436</td>
+<td align="right">468</td>
+<td><a href="https://github.com/Heholord"><img src="https://avatars.githubusercontent.com/u/2659160?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Heholord"><b>Heholord</b></a><br><sub>&#64;Heholord</sub></td>
+<td align="right"><b>12</b></td>
+<td align="right">0</td>
+<td><sub>Vienna</sub></td>
+</tr>
+<tr>
+<td align="right">469</td>
 <td><a href="https://github.com/PhilWaldmann"><img src="https://avatars.githubusercontent.com/u/1228330?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PhilWaldmann"><b>Philipp Waldmann</b></a><br><sub>&#64;PhilWaldmann</sub></td>
 <td align="right"><b>11</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">437</td>
+<td align="right">470</td>
 <td><a href="https://github.com/luk400"><img src="https://avatars.githubusercontent.com/u/57172028?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/luk400"><b>Lukas Pichlmann</b></a><br><sub>&#64;luk400</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">0</td>
 <td><sub>Austria</sub></td>
 </tr>
 <tr>
-<td align="right">438</td>
+<td align="right">471</td>
 <td><a href="https://github.com/EvodiaAut"><img src="https://avatars.githubusercontent.com/u/22764492?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EvodiaAut"><b>EvodiaAut</b></a><br><sub>&#64;EvodiaAut</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">0</td>
 <td><sub>Salzburg, Austria</sub></td>
 </tr>
 <tr>
-<td align="right">439</td>
+<td align="right">472</td>
+<td><a href="https://github.com/mariomh"><img src="https://avatars.githubusercontent.com/u/9990986?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mariomh"><b>Mario Meir-Huber</b></a><br><sub>&#64;mariomh</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">3</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">473</td>
+<td><a href="https://github.com/petraknovak"><img src="https://avatars.githubusercontent.com/u/7712901?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/petraknovak"><b>Petra Kralj Novak</b></a><br><sub>&#64;petraknovak</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">5</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">474</td>
+<td><a href="https://github.com/HoZe-Lukas"><img src="https://avatars.githubusercontent.com/u/26377753?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HoZe-Lukas"><b>Lukas Hois-Zelinka</b></a><br><sub>&#64;HoZe-Lukas</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">4</td>
+<td><sub>Graz, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">475</td>
+<td><a href="https://github.com/ditomaximal"><img src="https://avatars.githubusercontent.com/u/14071609?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ditomaximal"><b>Dietmar Millinger</b></a><br><sub>&#64;ditomaximal</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">3</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">476</td>
+<td><a href="https://github.com/OliverUlm"><img src="https://avatars.githubusercontent.com/u/7785366?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OliverUlm"><b>Oliver Ulm</b></a><br><sub>&#64;OliverUlm</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">3</td>
+<td><sub>Linz / Austria</sub></td>
+</tr>
+<tr>
+<td align="right">477</td>
+<td><a href="https://github.com/jaumeperello"><img src="https://avatars.githubusercontent.com/u/37107972?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jaumeperello"><b>Jaume Perelló</b></a><br><sub>&#64;jaumeperello</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">2</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">478</td>
+<td><a href="https://github.com/romor"><img src="https://avatars.githubusercontent.com/u/2196173?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/romor"><b>Roman Morawek</b></a><br><sub>&#64;romor</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">1</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">479</td>
+<td><a href="https://github.com/ParsaRiahi"><img src="https://avatars.githubusercontent.com/u/165179878?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ParsaRiahi"><b>Parsa Riahi</b></a><br><sub>&#64;ParsaRiahi</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">28</td>
+<td><sub>Graz, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">480</td>
+<td><a href="https://github.com/ludwigpramer"><img src="https://avatars.githubusercontent.com/u/90795586?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ludwigpramer"><b>Ludwig Pramer</b></a><br><sub>&#64;ludwigpramer</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">17</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">481</td>
+<td><a href="https://github.com/ninjatoken"><img src="https://avatars.githubusercontent.com/u/76237204?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ninjatoken"><b>Ninja Protocol</b></a><br><sub>&#64;ninjatoken</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">8</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">482</td>
+<td><a href="https://github.com/FratteFlorian"><img src="https://avatars.githubusercontent.com/u/53650403?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FratteFlorian"><b>FloFra</b></a><br><sub>&#64;FratteFlorian</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">6</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">483</td>
+<td><a href="https://github.com/hosseinabdz"><img src="https://avatars.githubusercontent.com/u/161492366?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hosseinabdz"><b>Hossein Abdollahzadeh</b></a><br><sub>&#64;hosseinabdz</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">5</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">484</td>
+<td><a href="https://github.com/tonsinn"><img src="https://avatars.githubusercontent.com/u/20682806?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tonsinn"><b>Mathias</b></a><br><sub>&#64;tonsinn</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">5</td>
+<td><sub>Seeboden, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">485</td>
+<td><a href="https://github.com/3rpse-ai"><img src="https://avatars.githubusercontent.com/u/54309869?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/3rpse-ai"><b>Felix Weickert</b></a><br><sub>&#64;3rpse-ai</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">486</td>
+<td><a href="https://github.com/acharya-shwetha"><img src="https://avatars.githubusercontent.com/u/36379696?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/acharya-shwetha"><b>Shwetha Acharya</b></a><br><sub>&#64;acharya-shwetha</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">487</td>
+<td><a href="https://github.com/acoj1993"><img src="https://avatars.githubusercontent.com/u/22432757?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/acoj1993"><b>Aleksandar Jankovic</b></a><br><sub>&#64;acoj1993</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">488</td>
+<td><a href="https://github.com/ajeteta"><img src="https://avatars.githubusercontent.com/u/44749214?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ajeteta"><b>Ajete Tahiri</b></a><br><sub>&#64;ajeteta</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Graz, AUSTRIA</sub></td>
+</tr>
+<tr>
+<td align="right">489</td>
+<td><a href="https://github.com/alexander-divos"><img src="https://avatars.githubusercontent.com/u/24949619?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexander-divos"><b>Alexander Divos</b></a><br><sub>&#64;alexander-divos</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Austria, Vienna 1010</sub></td>
+</tr>
+<tr>
+<td align="right">490</td>
+<td><a href="https://github.com/amrelzanaty"><img src="https://avatars.githubusercontent.com/u/6787331?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amrelzanaty"><b>Amr El zanaty</b></a><br><sub>&#64;amrelzanaty</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Linz Upper Austria</sub></td>
+</tr>
+<tr>
+<td align="right">491</td>
+<td><a href="https://github.com/annalionne"><img src="https://avatars.githubusercontent.com/u/11821018?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/annalionne"><b>annalionne</b></a><br><sub>&#64;annalionne</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">492</td>
+<td><a href="https://github.com/antoni0dev"><img src="https://avatars.githubusercontent.com/u/63366707?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/antoni0dev"><b>Antonio Simeonov</b></a><br><sub>&#64;antoni0dev</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">493</td>
+<td><a href="https://github.com/Apollo4244"><img src="https://avatars.githubusercontent.com/u/62837552?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Apollo4244"><b>Apolleon Phoibos</b></a><br><sub>&#64;Apollo4244</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Austria, Dornbirn</sub></td>
+</tr>
+<tr>
+<td align="right">494</td>
+<td><a href="https://github.com/appleague"><img src="https://avatars.githubusercontent.com/u/11668480?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/appleague"><b>Martin Hennerbichler</b></a><br><sub>&#64;appleague</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">495</td>
+<td><a href="https://github.com/ArchmageMomo"><img src="https://avatars.githubusercontent.com/u/34354746?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ArchmageMomo"><b>Archmage Momo</b></a><br><sub>&#64;ArchmageMomo</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">496</td>
+<td><a href="https://github.com/AttractiveToad"><img src="https://avatars.githubusercontent.com/u/70854906?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AttractiveToad"><b>Alois Zimmermann</b></a><br><sub>&#64;AttractiveToad</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">497</td>
+<td><a href="https://github.com/awekas"><img src="https://avatars.githubusercontent.com/u/15277926?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/awekas"><b>AWEKAS GmbH</b></a><br><sub>&#64;awekas</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">498</td>
+<td><a href="https://github.com/bassberry"><img src="https://avatars.githubusercontent.com/u/5092217?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bassberry"><b>bassberry</b></a><br><sub>&#64;bassberry</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">499</td>
+<td><a href="https://github.com/BernhardMosgoeller"><img src="https://avatars.githubusercontent.com/u/21261232?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BernhardMosgoeller"><b>Bernhard M.</b></a><br><sub>&#64;BernhardMosgoeller</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">500</td>
+<td><a href="https://github.com/BeshoyRomany"><img src="https://avatars.githubusercontent.com/u/16839678?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BeshoyRomany"><b>Beshoy Romany</b></a><br><sub>&#64;BeshoyRomany</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Linz, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">501</td>
+<td><a href="https://github.com/Chancer-DI"><img src="https://avatars.githubusercontent.com/u/38160709?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Chancer-DI"><b>Deyan Ivanov</b></a><br><sub>&#64;Chancer-DI</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">502</td>
+<td><a href="https://github.com/chuber50"><img src="https://avatars.githubusercontent.com/u/1567665?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chuber50"><b>Christian Huber</b></a><br><sub>&#64;chuber50</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">503</td>
+<td><a href="https://github.com/ClemensScholz"><img src="https://avatars.githubusercontent.com/u/49553510?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ClemensScholz"><b>Clemens Scholz</b></a><br><sub>&#64;ClemensScholz</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">504</td>
+<td><a href="https://github.com/crshx"><img src="https://avatars.githubusercontent.com/u/17300373?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/crshx"><b>Chris Linzg</b></a><br><sub>&#64;crshx</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">505</td>
+<td><a href="https://github.com/datra1982"><img src="https://avatars.githubusercontent.com/u/1525255?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/datra1982"><b>Daniel Trabe</b></a><br><sub>&#64;datra1982</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">506</td>
+<td><a href="https://github.com/davidstoegmueller"><img src="https://avatars.githubusercontent.com/u/13696150?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davidstoegmueller"><b>daveestar</b></a><br><sub>&#64;davidstoegmueller</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">507</td>
+<td><a href="https://github.com/DiS-tronics"><img src="https://avatars.githubusercontent.com/u/19431693?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DiS-tronics"><b>DiS-tronics</b></a><br><sub>&#64;DiS-tronics</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">508</td>
+<td><a href="https://github.com/evolve700"><img src="https://avatars.githubusercontent.com/u/11645794?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/evolve700"><b>evolve700</b></a><br><sub>&#64;evolve700</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">509</td>
+<td><a href="https://github.com/ghaagh"><img src="https://avatars.githubusercontent.com/u/49939985?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ghaagh"><b>Iman Esmaili</b></a><br><sub>&#64;ghaagh</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">510</td>
+<td><a href="https://github.com/gkontonis"><img src="https://avatars.githubusercontent.com/u/47671679?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gkontonis"><b>Georg Kontonis</b></a><br><sub>&#64;gkontonis</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">511</td>
+<td><a href="https://github.com/greschner"><img src="https://avatars.githubusercontent.com/u/29102920?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/greschner"><b>Jan André Greschner</b></a><br><sub>&#64;greschner</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">512</td>
+<td><a href="https://github.com/HiptJo"><img src="https://avatars.githubusercontent.com/u/43265875?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HiptJo"><b>Jonas Hiptmair</b></a><br><sub>&#64;HiptJo</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Upper Austria</sub></td>
+</tr>
+<tr>
+<td align="right">513</td>
+<td><a href="https://github.com/hobbycodersince1990"><img src="https://avatars.githubusercontent.com/u/19364551?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hobbycodersince1990"><b>hobbycodersince1990</b></a><br><sub>&#64;hobbycodersince1990</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">514</td>
+<td><a href="https://github.com/johannesfelber"><img src="https://avatars.githubusercontent.com/u/12213339?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/johannesfelber"><b>Johannes Felber</b></a><br><sub>&#64;johannesfelber</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">515</td>
+<td><a href="https://github.com/KultGrazer"><img src="https://avatars.githubusercontent.com/u/28843197?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KultGrazer"><b>KultGrazer</b></a><br><sub>&#64;KultGrazer</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">516</td>
+<td><a href="https://github.com/LacknerFabian"><img src="https://avatars.githubusercontent.com/u/57547158?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LacknerFabian"><b>Fabian</b></a><br><sub>&#64;LacknerFabian</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">517</td>
+<td><a href="https://github.com/markpiffer"><img src="https://avatars.githubusercontent.com/u/8088808?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/markpiffer"><b>Mark Piffer</b></a><br><sub>&#64;markpiffer</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">518</td>
+<td><a href="https://github.com/martin-au"><img src="https://avatars.githubusercontent.com/u/5692331?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/martin-au"><b>martin-au</b></a><br><sub>&#64;martin-au</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">519</td>
+<td><a href="https://github.com/mcbSolutions"><img src="https://avatars.githubusercontent.com/u/5785952?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mcbSolutions"><b>mcbSolutions</b></a><br><sub>&#64;mcbSolutions</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">520</td>
+<td><a href="https://github.com/Metetron"><img src="https://avatars.githubusercontent.com/u/34546916?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Metetron"><b>Daniel Freydl</b></a><br><sub>&#64;Metetron</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">521</td>
+<td><a href="https://github.com/mgh011"><img src="https://avatars.githubusercontent.com/u/53991962?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mgh011"><b>M. Ghirardelli</b></a><br><sub>&#64;mgh011</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Innsbruck, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">522</td>
+<td><a href="https://github.com/mhp77"><img src="https://avatars.githubusercontent.com/u/1907040?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mhp77"><b>mhp77</b></a><br><sub>&#64;mhp77</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">523</td>
+<td><a href="https://github.com/miguelhentoux"><img src="https://avatars.githubusercontent.com/u/14187169?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/miguelhentoux"><b>miguelhentoux</b></a><br><sub>&#64;miguelhentoux</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">524</td>
+<td><a href="https://github.com/milanp06"><img src="https://avatars.githubusercontent.com/u/39733609?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/milanp06"><b>milanp</b></a><br><sub>&#64;milanp06</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Gleisdorf, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">525</td>
+<td><a href="https://github.com/mroes"><img src="https://avatars.githubusercontent.com/u/9349932?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mroes"><b>Martin Rösel</b></a><br><sub>&#64;mroes</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">526</td>
+<td><a href="https://github.com/mschoeffmann"><img src="https://avatars.githubusercontent.com/u/9153512?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mschoeffmann"><b>Matthias Schöffmann</b></a><br><sub>&#64;mschoeffmann</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">527</td>
+<td><a href="https://github.com/rkappel"><img src="https://avatars.githubusercontent.com/u/45293496?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rkappel"><b>René Kappel</b></a><br><sub>&#64;rkappel</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Enzesfeld-Lindabrunn, Baden, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">528</td>
+<td><a href="https://github.com/rootkid101"><img src="https://avatars.githubusercontent.com/u/52633238?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rootkid101"><b>rootkid101</b></a><br><sub>&#64;rootkid101</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Linz, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">529</td>
+<td><a href="https://github.com/SebH87"><img src="https://avatars.githubusercontent.com/u/59686425?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SebH87"><b>Sebastian Hupfauf</b></a><br><sub>&#64;SebH87</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">530</td>
+<td><a href="https://github.com/SICS-projects"><img src="https://avatars.githubusercontent.com/u/1690949?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SICS-projects"><b>JOnathan JOnes</b></a><br><sub>&#64;SICS-projects</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Europe/Austria</sub></td>
+</tr>
+<tr>
+<td align="right">531</td>
+<td><a href="https://github.com/sinnerbichler"><img src="https://avatars.githubusercontent.com/u/34096876?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sinnerbichler"><b>Innerbichler Simon</b></a><br><sub>&#64;sinnerbichler</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">532</td>
+<td><a href="https://github.com/StyriaElectronics"><img src="https://avatars.githubusercontent.com/u/11525654?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/StyriaElectronics"><b>András Nagy</b></a><br><sub>&#64;StyriaElectronics</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">533</td>
+<td><a href="https://github.com/thoweb93"><img src="https://avatars.githubusercontent.com/u/1345127?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thoweb93"><b>Thomas Weber</b></a><br><sub>&#64;thoweb93</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">534</td>
+<td><a href="https://github.com/zhva"><img src="https://avatars.githubusercontent.com/u/44909868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zhva"><b>Viktoriia Zhuravel</b></a><br><sub>&#64;zhva</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Salzburg, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">535</td>
+<td><a href="https://github.com/2024sight"><img src="https://avatars.githubusercontent.com/u/11975399?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/2024sight"><b>Anton Hofland</b></a><br><sub>&#64;2024sight</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">536</td>
+<td><a href="https://github.com/29thDay"><img src="https://avatars.githubusercontent.com/u/43503340?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/29thDay"><b>29th Day</b></a><br><sub>&#64;29thDay</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">537</td>
+<td><a href="https://github.com/3key"><img src="https://avatars.githubusercontent.com/u/4697870?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/3key"><b>3key</b></a><br><sub>&#64;3key</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">538</td>
+<td><a href="https://github.com/4lxAnd3r"><img src="https://avatars.githubusercontent.com/u/12585655?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/4lxAnd3r"><b>Alexander Steininger</b></a><br><sub>&#64;4lxAnd3r</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">539</td>
+<td><a href="https://github.com/abdulkadermohamed"><img src="https://avatars.githubusercontent.com/u/45243787?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdulkadermohamed"><b>abdulkadir</b></a><br><sub>&#64;abdulkadermohamed</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">540</td>
+<td><a href="https://github.com/AbeTasticx"><img src="https://avatars.githubusercontent.com/u/31202803?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AbeTasticx"><b>Albert Rasinger</b></a><br><sub>&#64;AbeTasticx</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">541</td>
+<td><a href="https://github.com/abhogal-tgm"><img src="https://avatars.githubusercontent.com/u/44065340?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abhogal-tgm"><b>Arjun Bhogal</b></a><br><sub>&#64;abhogal-tgm</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">542</td>
+<td><a href="https://github.com/AcidAnt"><img src="https://avatars.githubusercontent.com/u/8135046?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AcidAnt"><b>K</b></a><br><sub>&#64;AcidAnt</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">543</td>
+<td><a href="https://github.com/acrusage"><img src="https://avatars.githubusercontent.com/u/6293177?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/acrusage"><b>acrusage</b></a><br><sub>&#64;acrusage</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">544</td>
+<td><a href="https://github.com/adamklim"><img src="https://avatars.githubusercontent.com/u/19378294?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adamklim"><b>Adam Klimiuk</b></a><br><sub>&#64;adamklim</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">545</td>
+<td><a href="https://github.com/Adler68"><img src="https://avatars.githubusercontent.com/u/13063999?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Adler68"><b>Georg Scharf</b></a><br><sub>&#64;Adler68</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">546</td>
+<td><a href="https://github.com/ahaiser"><img src="https://avatars.githubusercontent.com/u/36264152?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahaiser"><b>ahaiser</b></a><br><sub>&#64;ahaiser</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">547</td>
+<td><a href="https://github.com/alexander-klotz"><img src="https://avatars.githubusercontent.com/u/73757104?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexander-klotz"><b>Alexander Klotz</b></a><br><sub>&#64;alexander-klotz</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Innsbruck, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">548</td>
+<td><a href="https://github.com/AlexRaith"><img src="https://avatars.githubusercontent.com/u/47711252?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlexRaith"><b>AlexRaith</b></a><br><sub>&#64;AlexRaith</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">549</td>
+<td><a href="https://github.com/AlGrade"><img src="https://avatars.githubusercontent.com/u/49530111?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlGrade"><b>Alexander Gradenegger</b></a><br><sub>&#64;AlGrade</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">550</td>
+<td><a href="https://github.com/alpsware"><img src="https://avatars.githubusercontent.com/u/73897435?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alpsware"><b>Alpsware GmbH</b></a><br><sub>&#64;alpsware</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">551</td>
+<td><a href="https://github.com/AncutaBarbu"><img src="https://avatars.githubusercontent.com/u/35030127?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AncutaBarbu"><b>Ancuta Barbu</b></a><br><sub>&#64;AncutaBarbu</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">552</td>
+<td><a href="https://github.com/andisGIT-HUB"><img src="https://avatars.githubusercontent.com/u/37208825?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andisGIT-HUB"><b>andisGIT-HUB</b></a><br><sub>&#64;andisGIT-HUB</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">553</td>
+<td><a href="https://github.com/AndreasThumfart"><img src="https://avatars.githubusercontent.com/u/29125974?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AndreasThumfart"><b>Andreas Thumfart</b></a><br><sub>&#64;AndreasThumfart</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">554</td>
+<td><a href="https://github.com/AndresJCremades"><img src="https://avatars.githubusercontent.com/u/3080768?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AndresJCremades"><b>Andrés-J. Cremades</b></a><br><sub>&#64;AndresJCremades</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Vienna (Austria)</sub></td>
+</tr>
+<tr>
+<td align="right">555</td>
+<td><a href="https://github.com/andybeck-vie"><img src="https://avatars.githubusercontent.com/u/48531463?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andybeck-vie"><b>Andreas Bielohaubek</b></a><br><sub>&#64;andybeck-vie</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">556</td>
+<td><a href="https://github.com/ANproCUBE"><img src="https://avatars.githubusercontent.com/u/71607868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ANproCUBE"><b>ANproCUBE</b></a><br><sub>&#64;ANproCUBE</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">557</td>
+<td><a href="https://github.com/AppsNPages"><img src="https://avatars.githubusercontent.com/u/49512867?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AppsNPages"><b>Erik Haselsteiner</b></a><br><sub>&#64;AppsNPages</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">558</td>
+<td><a href="https://github.com/arjunasbow"><img src="https://avatars.githubusercontent.com/u/41163923?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arjunasbow"><b>Brian Bales</b></a><br><sub>&#64;arjunasbow</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">559</td>
+<td><a href="https://github.com/ArthurDent62"><img src="https://avatars.githubusercontent.com/u/45048413?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ArthurDent62"><b>ArthurDent62</b></a><br><sub>&#64;ArthurDent62</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">560</td>
+<td><a href="https://github.com/ASimb"><img src="https://avatars.githubusercontent.com/u/59235264?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ASimb"><b>Andreas Simbürger</b></a><br><sub>&#64;ASimb</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">561</td>
+<td><a href="https://github.com/bara-alhamidi"><img src="https://avatars.githubusercontent.com/u/16375981?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bara-alhamidi"><b>#shadow&#95;wolf</b></a><br><sub>&#64;bara-alhamidi</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">562</td>
+<td><a href="https://github.com/bariskoe"><img src="https://avatars.githubusercontent.com/u/42034742?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bariskoe"><b>Baris Kosebas</b></a><br><sub>&#64;bariskoe</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">563</td>
+<td><a href="https://github.com/baurkevin"><img src="https://avatars.githubusercontent.com/u/45953547?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/baurkevin"><b>kevinocodes</b></a><br><sub>&#64;baurkevin</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">564</td>
+<td><a href="https://github.com/bboeck"><img src="https://avatars.githubusercontent.com/u/32021173?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bboeck"><b>Bernhard</b></a><br><sub>&#64;bboeck</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Upper Austria</sub></td>
+</tr>
+<tr>
+<td align="right">565</td>
+<td><a href="https://github.com/ccgruber"><img src="https://avatars.githubusercontent.com/u/8963062?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ccgruber"><b>Christian C. Gruber</b></a><br><sub>&#64;ccgruber</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">566</td>
+<td><a href="https://github.com/chaincrafter"><img src="https://avatars.githubusercontent.com/u/46602837?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chaincrafter"><b>Andreas</b></a><br><sub>&#64;chaincrafter</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">567</td>
+<td><a href="https://github.com/Dream-ix"><img src="https://avatars.githubusercontent.com/u/48110090?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dream-ix"><b>Dream ix</b></a><br><sub>&#64;Dream-ix</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">568</td>
+<td><a href="https://github.com/DrT27"><img src="https://avatars.githubusercontent.com/u/47357996?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DrT27"><b>Werner Toplak</b></a><br><sub>&#64;DrT27</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">569</td>
+<td><a href="https://github.com/ehrl"><img src="https://avatars.githubusercontent.com/u/1275802?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ehrl"><b>Franz Ehrl</b></a><br><sub>&#64;ehrl</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Lower Austria</sub></td>
+</tr>
+<tr>
+<td align="right">570</td>
+<td><a href="https://github.com/Fimbinger"><img src="https://avatars.githubusercontent.com/u/58747924?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Fimbinger"><b>Eric Fimbinger</b></a><br><sub>&#64;Fimbinger</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Leoben, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">571</td>
+<td><a href="https://github.com/fredlmar"><img src="https://avatars.githubusercontent.com/u/27870041?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fredlmar"><b>Manfredo</b></a><br><sub>&#64;fredlmar</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">572</td>
+<td><a href="https://github.com/Gnevko"><img src="https://avatars.githubusercontent.com/u/35346815?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Gnevko"><b>Alex Gnevko</b></a><br><sub>&#64;Gnevko</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">573</td>
+<td><a href="https://github.com/hmueller80"><img src="https://avatars.githubusercontent.com/u/15654787?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hmueller80"><b>Heiko Müller</b></a><br><sub>&#64;hmueller80</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">574</td>
+<td><a href="https://github.com/janpi"><img src="https://avatars.githubusercontent.com/u/11092062?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/janpi"><b>Jan Pi</b></a><br><sub>&#64;janpi</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">575</td>
+<td><a href="https://github.com/jgh07"><img src="https://avatars.githubusercontent.com/u/35030845?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jgh07"><b>Jonas</b></a><br><sub>&#64;jgh07</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">576</td>
+<td><a href="https://github.com/Joshua000977"><img src="https://avatars.githubusercontent.com/u/168904621?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Joshua000977"><b>Joshua Elias Tidl</b></a><br><sub>&#64;Joshua000977</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">577</td>
+<td><a href="https://github.com/kaykay-dv"><img src="https://avatars.githubusercontent.com/u/39623941?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kaykay-dv"><b>Karl</b></a><br><sub>&#64;kaykay-dv</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">578</td>
+<td><a href="https://github.com/Knopfi02"><img src="https://avatars.githubusercontent.com/u/65189138?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Knopfi02"><b>Knopfi02</b></a><br><sub>&#64;Knopfi02</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">579</td>
+<td><a href="https://github.com/lipppy"><img src="https://avatars.githubusercontent.com/u/21139088?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lipppy"><b>Gábor Lipták</b></a><br><sub>&#64;lipppy</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Payerbach, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">580</td>
+<td><a href="https://github.com/lume115"><img src="https://avatars.githubusercontent.com/u/22441785?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lume115"><b>Luk B</b></a><br><sub>&#64;lume115</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">581</td>
+<td><a href="https://github.com/ManuelRohrauer"><img src="https://avatars.githubusercontent.com/u/62506558?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ManuelRohrauer"><b>manuel</b></a><br><sub>&#64;ManuelRohrauer</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">582</td>
+<td><a href="https://github.com/max-at"><img src="https://avatars.githubusercontent.com/u/31926592?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/max-at"><b>Markus Braschler</b></a><br><sub>&#64;max-at</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Imst, Tirol, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">583</td>
+<td><a href="https://github.com/michaelber"><img src="https://avatars.githubusercontent.com/u/7449343?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/michaelber"><b>michaelber</b></a><br><sub>&#64;michaelber</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">584</td>
+<td><a href="https://github.com/michaelsteiner-arch"><img src="https://avatars.githubusercontent.com/u/52814711?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/michaelsteiner-arch"><b>Michael Steiner</b></a><br><sub>&#64;michaelsteiner-arch</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">585</td>
+<td><a href="https://github.com/micmerchant"><img src="https://avatars.githubusercontent.com/u/47595100?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/micmerchant"><b>Michael Kaufmann</b></a><br><sub>&#64;micmerchant</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">586</td>
+<td><a href="https://github.com/mnl-shreds"><img src="https://avatars.githubusercontent.com/u/65448664?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mnl-shreds"><b>Manuel Scharf</b></a><br><sub>&#64;mnl-shreds</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">587</td>
+<td><a href="https://github.com/MrMisterG"><img src="https://avatars.githubusercontent.com/u/20139258?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MrMisterG"><b>Stuart Gros-Dubois</b></a><br><sub>&#64;MrMisterG</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">588</td>
+<td><a href="https://github.com/notebynote"><img src="https://avatars.githubusercontent.com/u/22618863?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/notebynote"><b>Thomas Haake</b></a><br><sub>&#64;notebynote</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Lauterach/Austria</sub></td>
+</tr>
+<tr>
+<td align="right">589</td>
+<td><a href="https://github.com/oehlinscher"><img src="https://avatars.githubusercontent.com/u/16340657?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/oehlinscher"><b>oehlinscher</b></a><br><sub>&#64;oehlinscher</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Upper Austria</sub></td>
+</tr>
+<tr>
+<td align="right">590</td>
+<td><a href="https://github.com/poeltner"><img src="https://avatars.githubusercontent.com/u/44533884?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/poeltner"><b>poeltner</b></a><br><sub>&#64;poeltner</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">591</td>
+<td><a href="https://github.com/reitherfuzi"><img src="https://avatars.githubusercontent.com/u/45016424?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/reitherfuzi"><b>Reitherfuzi</b></a><br><sub>&#64;reitherfuzi</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Salzburg, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">592</td>
+<td><a href="https://github.com/RichardErtl"><img src="https://avatars.githubusercontent.com/u/64965079?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RichardErtl"><b>Richard Ertl</b></a><br><sub>&#64;RichardErtl</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Linz, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">593</td>
+<td><a href="https://github.com/SeaNessa"><img src="https://avatars.githubusercontent.com/u/12460834?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SeaNessa"><b>Sean</b></a><br><sub>&#64;SeaNessa</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">594</td>
+<td><a href="https://github.com/SimonMav"><img src="https://avatars.githubusercontent.com/u/34838841?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SimonMav"><b>Simon</b></a><br><sub>&#64;SimonMav</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Graz, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">595</td>
+<td><a href="https://github.com/siricco"><img src="https://avatars.githubusercontent.com/u/37207778?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/siricco"><b>Helmut Binder</b></a><br><sub>&#64;siricco</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">596</td>
+<td><a href="https://github.com/syberoranzhevyy"><img src="https://avatars.githubusercontent.com/u/66439868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/syberoranzhevyy"><b>syberoranzhevyy</b></a><br><sub>&#64;syberoranzhevyy</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">597</td>
+<td><a href="https://github.com/syssieben7"><img src="https://avatars.githubusercontent.com/u/30537325?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/syssieben7"><b>Florian</b></a><br><sub>&#64;syssieben7</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">598</td>
+<td><a href="https://github.com/technicompak"><img src="https://avatars.githubusercontent.com/u/4681129?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/technicompak"><b>Alexander Klockhaus</b></a><br><sub>&#64;technicompak</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">599</td>
+<td><a href="https://github.com/Try2Win4Glory"><img src="https://avatars.githubusercontent.com/u/65898600?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Try2Win4Glory"><b>⚡Try2Win4Glory⚡</b></a><br><sub>&#64;Try2Win4Glory</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">600</td>
+<td><a href="https://github.com/wintajonny"><img src="https://avatars.githubusercontent.com/u/60508098?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wintajonny"><b>Thomas Winter</b></a><br><sub>&#64;wintajonny</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">601</td>
+<td><a href="https://github.com/13hax"><img src="https://avatars.githubusercontent.com/u/46193846?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/13hax"><b>HAX</b></a><br><sub>&#64;13hax</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Upper Austria</sub></td>
+</tr>
+<tr>
+<td align="right">602</td>
+<td><a href="https://github.com/a-kroh"><img src="https://avatars.githubusercontent.com/u/43037842?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/a-kroh"><b>Andreas Kroh</b></a><br><sub>&#64;a-kroh</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">603</td>
+<td><a href="https://github.com/A2shiyari"><img src="https://avatars.githubusercontent.com/u/6777780?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/A2shiyari"><b>Ali Shiyari</b></a><br><sub>&#64;A2shiyari</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">604</td>
+<td><a href="https://github.com/abdelgazar"><img src="https://avatars.githubusercontent.com/u/50957995?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdelgazar"><b>Abdelrahman El Gazar</b></a><br><sub>&#64;abdelgazar</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">605</td>
+<td><a href="https://github.com/AFHALEM"><img src="https://avatars.githubusercontent.com/u/40837553?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AFHALEM"><b>Al Saeedi Omar</b></a><br><sub>&#64;AFHALEM</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria / Österreich</sub></td>
+</tr>
+<tr>
+<td align="right">606</td>
+<td><a href="https://github.com/ah4mmer"><img src="https://avatars.githubusercontent.com/u/62704698?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ah4mmer"><b>Alexander Ahammer</b></a><br><sub>&#64;ah4mmer</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">607</td>
+<td><a href="https://github.com/ahansmann3"><img src="https://avatars.githubusercontent.com/u/46628711?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahansmann3"><b>Andreas Hansmann</b></a><br><sub>&#64;ahansmann3</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">608</td>
+<td><a href="https://github.com/ajurdak"><img src="https://avatars.githubusercontent.com/u/56896586?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ajurdak"><b>Andreas Jurdak</b></a><br><sub>&#64;ajurdak</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Vienna (Austria)</sub></td>
+</tr>
+<tr>
+<td align="right">609</td>
+<td><a href="https://github.com/akainat"><img src="https://avatars.githubusercontent.com/u/4891301?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akainat"><b>Andreas Kain</b></a><br><sub>&#64;akainat</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">610</td>
+<td><a href="https://github.com/ale281"><img src="https://avatars.githubusercontent.com/u/71443893?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ale281"><b>Alessandro Tremamunno</b></a><br><sub>&#64;ale281</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Klagenfurt, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">611</td>
+<td><a href="https://github.com/alefuchsa"><img src="https://avatars.githubusercontent.com/u/39536033?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alefuchsa"><b>Aleyna</b></a><br><sub>&#64;alefuchsa</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Burgenland, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">612</td>
+<td><a href="https://github.com/alexaerdei96"><img src="https://avatars.githubusercontent.com/u/31729870?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexaerdei96"><b>Alexa Erdei</b></a><br><sub>&#64;alexaerdei96</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Linz, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">613</td>
+<td><a href="https://github.com/alexpils"><img src="https://avatars.githubusercontent.com/u/3944763?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexpils"><b>Alexander Pils</b></a><br><sub>&#64;alexpils</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">614</td>
+<td><a href="https://github.com/almadfaa"><img src="https://avatars.githubusercontent.com/u/28689566?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/almadfaa"><b>wasim almafaa</b></a><br><sub>&#64;almadfaa</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>wien Austria</sub></td>
+</tr>
+<tr>
+<td align="right">615</td>
+<td><a href="https://github.com/alpenrunner"><img src="https://avatars.githubusercontent.com/u/4932569?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alpenrunner"><b>alpenrunner</b></a><br><sub>&#64;alpenrunner</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria, Innsbruck</sub></td>
+</tr>
+<tr>
+<td align="right">616</td>
+<td><a href="https://github.com/alpscapesMeteo"><img src="https://avatars.githubusercontent.com/u/8767505?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alpscapesMeteo"><b>alpscapes Meteo</b></a><br><sub>&#64;alpscapesMeteo</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">617</td>
+<td><a href="https://github.com/amayr666"><img src="https://avatars.githubusercontent.com/u/5585988?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amayr666"><b>amayr666</b></a><br><sub>&#64;amayr666</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">618</td>
+<td><a href="https://github.com/AmmarV"><img src="https://avatars.githubusercontent.com/u/16939131?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AmmarV"><b>Ammar Voloder</b></a><br><sub>&#64;AmmarV</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">619</td>
+<td><a href="https://github.com/AnarchyRaven"><img src="https://avatars.githubusercontent.com/u/47245944?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AnarchyRaven"><b>Emre Rauhofer</b></a><br><sub>&#64;AnarchyRaven</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">620</td>
+<td><a href="https://github.com/andii1997"><img src="https://avatars.githubusercontent.com/u/7026923?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andii1997"><b>André</b></a><br><sub>&#64;andii1997</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Bregenz, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">621</td>
+<td><a href="https://github.com/AndrewPowell-dot"><img src="https://avatars.githubusercontent.com/u/62995469?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AndrewPowell-dot"><b>AndrewPowell-dot</b></a><br><sub>&#64;AndrewPowell-dot</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">622</td>
+<td><a href="https://github.com/aneubau"><img src="https://avatars.githubusercontent.com/u/21076885?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aneubau"><b>Andreas Neubauer</b></a><br><sub>&#64;aneubau</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">623</td>
+<td><a href="https://github.com/aneuhauser"><img src="https://avatars.githubusercontent.com/u/2864578?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aneuhauser"><b>Andreas Neuhauser</b></a><br><sub>&#64;aneuhauser</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">624</td>
+<td><a href="https://github.com/Anton-Kuscher"><img src="https://avatars.githubusercontent.com/u/33608095?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Anton-Kuscher"><b>Anton Kuscher</b></a><br><sub>&#64;Anton-Kuscher</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">625</td>
+<td><a href="https://github.com/antontrummer"><img src="https://avatars.githubusercontent.com/u/39347531?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/antontrummer"><b>Anton</b></a><br><sub>&#64;antontrummer</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Graz, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">626</td>
+<td><a href="https://github.com/apatrck00"><img src="https://avatars.githubusercontent.com/u/32039463?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/apatrck00"><b>apatrck00</b></a><br><sub>&#64;apatrck00</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">627</td>
+<td><a href="https://github.com/arakazandjian"><img src="https://avatars.githubusercontent.com/u/57596781?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arakazandjian"><b>Ara Kazanjian</b></a><br><sub>&#64;arakazandjian</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">628</td>
+<td><a href="https://github.com/arildsela"><img src="https://avatars.githubusercontent.com/u/39696685?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arildsela"><b>Arild Sela</b></a><br><sub>&#64;arildsela</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">629</td>
+<td><a href="https://github.com/artlabs"><img src="https://avatars.githubusercontent.com/u/74618151?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/artlabs"><b>artlabs</b></a><br><sub>&#64;artlabs</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">630</td>
+<td><a href="https://github.com/asc-net"><img src="https://avatars.githubusercontent.com/u/4083234?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asc-net"><b>Adnan Jo</b></a><br><sub>&#64;asc-net</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">631</td>
+<td><a href="https://github.com/ashkan-karami"><img src="https://avatars.githubusercontent.com/u/30255738?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ashkan-karami"><b>Ashkan</b></a><br><sub>&#64;ashkan-karami</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">632</td>
+<td><a href="https://github.com/astadlm"><img src="https://avatars.githubusercontent.com/u/56654223?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/astadlm"><b>Andreas Stadlmayr</b></a><br><sub>&#64;astadlm</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">633</td>
+<td><a href="https://github.com/audiowerk"><img src="https://avatars.githubusercontent.com/u/3003061?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/audiowerk"><b>audiowerk</b></a><br><sub>&#64;audiowerk</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">634</td>
+<td><a href="https://github.com/AugustoMartins"><img src="https://avatars.githubusercontent.com/u/10096819?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AugustoMartins"><b>Augusto Martins</b></a><br><sub>&#64;AugustoMartins</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">635</td>
+<td><a href="https://github.com/AustrianModdingGroup"><img src="https://avatars.githubusercontent.com/u/42590104?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AustrianModdingGroup"><b>Austrian Modding Group</b></a><br><sub>&#64;AustrianModdingGroup</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">636</td>
+<td><a href="https://github.com/awehler-gh"><img src="https://avatars.githubusercontent.com/u/16725824?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/awehler-gh"><b>Andreas Wehler</b></a><br><sub>&#64;awehler-gh</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">637</td>
+<td><a href="https://github.com/b-r-you-know"><img src="https://avatars.githubusercontent.com/u/72976123?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/b-r-you-know"><b>Dominik</b></a><br><sub>&#64;b-r-you-know</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">638</td>
+<td><a href="https://github.com/bakedstroh"><img src="https://avatars.githubusercontent.com/u/67709162?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bakedstroh"><b>Fabian Strohmeier</b></a><br><sub>&#64;bakedstroh</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">639</td>
+<td><a href="https://github.com/balintmolnar"><img src="https://avatars.githubusercontent.com/u/32778443?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/balintmolnar"><b>balintmolnar</b></a><br><sub>&#64;balintmolnar</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Innsbruck, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">640</td>
+<td><a href="https://github.com/bancbanus"><img src="https://avatars.githubusercontent.com/u/44616635?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bancbanus"><b>bancbanus</b></a><br><sub>&#64;bancbanus</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">641</td>
+<td><a href="https://github.com/basarugur"><img src="https://avatars.githubusercontent.com/u/11488717?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/basarugur"><b>Başar Uğur</b></a><br><sub>&#64;basarugur</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Innsbruck, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">642</td>
+<td><a href="https://github.com/Basryn"><img src="https://avatars.githubusercontent.com/u/36892971?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Basryn"><b>Basry</b></a><br><sub>&#64;Basryn</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">643</td>
+<td><a href="https://github.com/bassamhalaka"><img src="https://avatars.githubusercontent.com/u/13909236?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bassamhalaka"><b>Bassam Halaka</b></a><br><sub>&#64;bassamhalaka</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">644</td>
+<td><a href="https://github.com/bbarany"><img src="https://avatars.githubusercontent.com/u/14809060?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bbarany"><b>Balázs Bárány</b></a><br><sub>&#64;bbarany</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">645</td>
+<td><a href="https://github.com/campusmedius"><img src="https://avatars.githubusercontent.com/u/33967394?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/campusmedius"><b>Campus Medius</b></a><br><sub>&#64;campusmedius</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Vienna (Austria)</sub></td>
+</tr>
+<tr>
+<td align="right">646</td>
+<td><a href="https://github.com/Celphor"><img src="https://avatars.githubusercontent.com/u/22246844?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Celphor"><b>Celphor</b></a><br><sub>&#64;Celphor</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>St. Pölten, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">647</td>
+<td><a href="https://github.com/chortbauer"><img src="https://avatars.githubusercontent.com/u/3418756?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chortbauer"><b>chortbauer</b></a><br><sub>&#64;chortbauer</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">648</td>
+<td><a href="https://github.com/Chypsi"><img src="https://avatars.githubusercontent.com/u/76792511?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Chypsi"><b>Lukas</b></a><br><sub>&#64;Chypsi</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">649</td>
+<td><a href="https://github.com/DankYeeter"><img src="https://avatars.githubusercontent.com/u/68817988?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DankYeeter"><b>DankYeeter</b></a><br><sub>&#64;DankYeeter</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">650</td>
+<td><a href="https://github.com/deawin"><img src="https://avatars.githubusercontent.com/u/10254745?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/deawin"><b>Markus Cserna</b></a><br><sub>&#64;deawin</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">651</td>
+<td><a href="https://github.com/DerFuz"><img src="https://avatars.githubusercontent.com/u/11327876?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DerFuz"><b>Jakob</b></a><br><sub>&#64;DerFuz</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">652</td>
+<td><a href="https://github.com/diredev"><img src="https://avatars.githubusercontent.com/u/33150734?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/diredev"><b>Martin</b></a><br><sub>&#64;diredev</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">653</td>
+<td><a href="https://github.com/eliahderechte"><img src="https://avatars.githubusercontent.com/u/66420503?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eliahderechte"><b>okok1</b></a><br><sub>&#64;eliahderechte</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria, East Tyrol</sub></td>
+</tr>
+<tr>
+<td align="right">654</td>
+<td><a href="https://github.com/Exlopoit"><img src="https://avatars.githubusercontent.com/u/73795219?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Exlopoit"><b>Exlopoit</b></a><br><sub>&#64;Exlopoit</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria, Vienna</sub></td>
+</tr>
+<tr>
+<td align="right">655</td>
+<td><a href="https://github.com/firewall-1"><img src="https://avatars.githubusercontent.com/u/39748663?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/firewall-1"><b>Wolfgang Sesin</b></a><br><sub>&#64;firewall-1</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">656</td>
+<td><a href="https://github.com/fuchsalex"><img src="https://avatars.githubusercontent.com/u/20796540?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fuchsalex"><b>Alexander Fuchs</b></a><br><sub>&#64;fuchsalex</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">657</td>
+<td><a href="https://github.com/georg-mayer"><img src="https://avatars.githubusercontent.com/u/29097681?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/georg-mayer"><b>Georg Mayer</b></a><br><sub>&#64;georg-mayer</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Vienna, Austria, EU</sub></td>
+</tr>
+<tr>
+<td align="right">658</td>
+<td><a href="https://github.com/gmatzinger"><img src="https://avatars.githubusercontent.com/u/20219767?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gmatzinger"><b>Günther Matzinger</b></a><br><sub>&#64;gmatzinger</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Salzburg, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">659</td>
+<td><a href="https://github.com/gschwed"><img src="https://avatars.githubusercontent.com/u/13130832?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gschwed"><b>Gerhard Schwed</b></a><br><sub>&#64;gschwed</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Vienna, AUSTRIA</sub></td>
+</tr>
+<tr>
+<td align="right">660</td>
+<td><a href="https://github.com/HanOne"><img src="https://avatars.githubusercontent.com/u/8736578?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HanOne"><b>Han</b></a><br><sub>&#64;HanOne</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">661</td>
+<td><a href="https://github.com/helmut-kleinhans"><img src="https://avatars.githubusercontent.com/u/20373856?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/helmut-kleinhans"><b>Helmut Kleinhans</b></a><br><sub>&#64;helmut-kleinhans</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">662</td>
+<td><a href="https://github.com/Herk0r"><img src="https://avatars.githubusercontent.com/u/11997965?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Herk0r"><b>Herk0r</b></a><br><sub>&#64;Herk0r</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">663</td>
+<td><a href="https://github.com/hptcad"><img src="https://avatars.githubusercontent.com/u/16592061?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hptcad"><b>Christian Doppler Laboratory for High Performance TCAD</b></a><br><sub>&#64;hptcad</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">664</td>
+<td><a href="https://github.com/inschlag"><img src="https://avatars.githubusercontent.com/u/37611734?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/inschlag"><b>Josef Inschlag</b></a><br><sub>&#64;inschlag</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Festenburg, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">665</td>
+<td><a href="https://github.com/ivobojkic"><img src="https://avatars.githubusercontent.com/u/2833095?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ivobojkic"><b>Ivo</b></a><br><sub>&#64;ivobojkic</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">666</td>
+<td><a href="https://github.com/jinjcovsky"><img src="https://avatars.githubusercontent.com/u/24279670?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jinjcovsky"><b>Jan</b></a><br><sub>&#64;jinjcovsky</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">667</td>
+<td><a href="https://github.com/Klaus-at"><img src="https://avatars.githubusercontent.com/u/1382116?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Klaus-at"><b>Klaus Schmid</b></a><br><sub>&#64;Klaus-at</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">668</td>
+<td><a href="https://github.com/kochsystems"><img src="https://avatars.githubusercontent.com/u/13900586?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kochsystems"><b>Markus Koch</b></a><br><sub>&#64;kochsystems</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">669</td>
+<td><a href="https://github.com/lagiacrux"><img src="https://avatars.githubusercontent.com/u/8179649?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lagiacrux"><b>Benjamin Schneller</b></a><br><sub>&#64;lagiacrux</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">670</td>
+<td><a href="https://github.com/lukasbochis"><img src="https://avatars.githubusercontent.com/u/32123791?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lukasbochis"><b>Lukas Bochis</b></a><br><sub>&#64;lukasbochis</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">671</td>
+<td><a href="https://github.com/lukfel"><img src="https://avatars.githubusercontent.com/u/37081720?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lukfel"><b>Lukas</b></a><br><sub>&#64;lukfel</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria - St. Pölten</sub></td>
+</tr>
+<tr>
+<td align="right">672</td>
+<td><a href="https://github.com/manfred2020"><img src="https://avatars.githubusercontent.com/u/62308730?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/manfred2020"><b>manfred2020</b></a><br><sub>&#64;manfred2020</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">673</td>
+<td><a href="https://github.com/manuel833"><img src="https://avatars.githubusercontent.com/u/56887683?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/manuel833"><b>Manuel</b></a><br><sub>&#64;manuel833</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">674</td>
+<td><a href="https://github.com/mariojuli"><img src="https://avatars.githubusercontent.com/u/26358241?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mariojuli"><b>mariojuli</b></a><br><sub>&#64;mariojuli</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">675</td>
+<td><a href="https://github.com/MarvinAsmen"><img src="https://avatars.githubusercontent.com/u/25432936?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MarvinAsmen"><b>Marvin Asmen A.</b></a><br><sub>&#64;MarvinAsmen</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">676</td>
+<td><a href="https://github.com/mazzocch"><img src="https://avatars.githubusercontent.com/u/76452842?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mazzocch"><b>mazzocch</b></a><br><sub>&#64;mazzocch</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Graz, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">677</td>
+<td><a href="https://github.com/Mexomint"><img src="https://avatars.githubusercontent.com/u/69519815?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mexomint"><b>Maximo</b></a><br><sub>&#64;Mexomint</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">678</td>
+<td><a href="https://github.com/michaelahauer"><img src="https://avatars.githubusercontent.com/u/43739971?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/michaelahauer"><b>Michaela Hauer</b></a><br><sub>&#64;michaelahauer</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">679</td>
+<td><a href="https://github.com/michaelreik"><img src="https://avatars.githubusercontent.com/u/39587216?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/michaelreik"><b>Michael</b></a><br><sub>&#64;michaelreik</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">680</td>
+<td><a href="https://github.com/MotorbikeTheWorld"><img src="https://avatars.githubusercontent.com/u/35067788?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MotorbikeTheWorld"><b>MotorbikeTheWorld</b></a><br><sub>&#64;MotorbikeTheWorld</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Upper Austria</sub></td>
+</tr>
+<tr>
+<td align="right">681</td>
+<td><a href="https://github.com/mrodler"><img src="https://avatars.githubusercontent.com/u/7724456?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrodler"><b>mrodler</b></a><br><sub>&#64;mrodler</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Innsbruck, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">682</td>
+<td><a href="https://github.com/Naboo2604"><img src="https://avatars.githubusercontent.com/u/13333609?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Naboo2604"><b>MarkusW</b></a><br><sub>&#64;Naboo2604</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">683</td>
+<td><a href="https://github.com/nalor"><img src="https://avatars.githubusercontent.com/u/15088146?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nalor"><b>nalor</b></a><br><sub>&#64;nalor</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Salzburg, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">684</td>
+<td><a href="https://github.com/narimanb"><img src="https://avatars.githubusercontent.com/u/37624015?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/narimanb"><b>Nariman Bortov</b></a><br><sub>&#64;narimanb</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">685</td>
+<td><a href="https://github.com/NeverFirstTry"><img src="https://avatars.githubusercontent.com/u/59928366?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NeverFirstTry"><b>Rene</b></a><br><sub>&#64;NeverFirstTry</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">686</td>
+<td><a href="https://github.com/oodsplanet"><img src="https://avatars.githubusercontent.com/u/144805811?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/oodsplanet"><b>Roland Sagmeister</b></a><br><sub>&#64;oodsplanet</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria, Carainthia</sub></td>
+</tr>
+<tr>
+<td align="right">687</td>
+<td><a href="https://github.com/Pantaghos"><img src="https://avatars.githubusercontent.com/u/35866779?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Pantaghos"><b>Pantaghos</b></a><br><sub>&#64;Pantaghos</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">688</td>
+<td><a href="https://github.com/patrickda"><img src="https://avatars.githubusercontent.com/u/867832?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/patrickda"><b>Patrick Danowski</b></a><br><sub>&#64;patrickda</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Klosterneuburg, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">689</td>
+<td><a href="https://github.com/PaulReichhold"><img src="https://avatars.githubusercontent.com/u/43970879?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PaulReichhold"><b>Paul</b></a><br><sub>&#64;PaulReichhold</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">690</td>
+<td><a href="https://github.com/philoufilou"><img src="https://avatars.githubusercontent.com/u/43984614?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/philoufilou"><b>IchPhilipp</b></a><br><sub>&#64;philoufilou</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">691</td>
+<td><a href="https://github.com/prasterphilipp"><img src="https://avatars.githubusercontent.com/u/46228004?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/prasterphilipp"><b>Philipp Praster</b></a><br><sub>&#64;prasterphilipp</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">692</td>
+<td><a href="https://github.com/RainerMtb"><img src="https://avatars.githubusercontent.com/u/54184444?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RainerMtb"><b>Rainer</b></a><br><sub>&#64;RainerMtb</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">693</td>
+<td><a href="https://github.com/RainerNeu"><img src="https://avatars.githubusercontent.com/u/28923918?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RainerNeu"><b>Rainer Neuberger</b></a><br><sub>&#64;RainerNeu</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>austria</sub></td>
+</tr>
+<tr>
+<td align="right">694</td>
+<td><a href="https://github.com/RiK4kings"><img src="https://avatars.githubusercontent.com/u/28623313?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RiK4kings"><b>Richard König</b></a><br><sub>&#64;RiK4kings</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">695</td>
+<td><a href="https://github.com/SolutionClinic"><img src="https://avatars.githubusercontent.com/u/8593680?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SolutionClinic"><b>SolutionClinic</b></a><br><sub>&#64;SolutionClinic</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">696</td>
+<td><a href="https://github.com/stefanbrenner"><img src="https://avatars.githubusercontent.com/u/1370336?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stefanbrenner"><b>Stefan Brenner</b></a><br><sub>&#64;stefanbrenner</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">697</td>
+<td><a href="https://github.com/stellaccl"><img src="https://avatars.githubusercontent.com/u/17749684?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stellaccl"><b>Chiu Ling (Stella) Chan</b></a><br><sub>&#64;stellaccl</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Linz, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">698</td>
+<td><a href="https://github.com/stoeffel85"><img src="https://avatars.githubusercontent.com/u/30860436?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stoeffel85"><b>Christoph Winkler</b></a><br><sub>&#64;stoeffel85</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria, Graz</sub></td>
+</tr>
+<tr>
+<td align="right">699</td>
+<td><a href="https://github.com/thomasnowotny"><img src="https://avatars.githubusercontent.com/u/8328255?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thomasnowotny"><b>Thomas Nowotny</b></a><br><sub>&#64;thomasnowotny</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">700</td>
+<td><a href="https://github.com/tiberius7777"><img src="https://avatars.githubusercontent.com/u/16954851?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tiberius7777"><b>Christian Bessenroth</b></a><br><sub>&#64;tiberius7777</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">701</td>
+<td><a href="https://github.com/timbuktu-t"><img src="https://avatars.githubusercontent.com/u/64661622?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/timbuktu-t"><b>Stefan Machura</b></a><br><sub>&#64;timbuktu-t</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">702</td>
+<td><a href="https://github.com/toprach"><img src="https://avatars.githubusercontent.com/u/1225434?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/toprach"><b>Johannes Behr-Kutsam</b></a><br><sub>&#64;toprach</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">703</td>
+<td><a href="https://github.com/tuggegese"><img src="https://avatars.githubusercontent.com/u/35496432?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tuggegese"><b>Sebastian</b></a><br><sub>&#64;tuggegese</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">704</td>
+<td><a href="https://github.com/Unfaced85"><img src="https://avatars.githubusercontent.com/u/35815932?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Unfaced85"><b>Unfaced</b></a><br><sub>&#64;Unfaced85</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>lower Austria</sub></td>
+</tr>
+<tr>
+<td align="right">705</td>
+<td><a href="https://github.com/0nlyArg0n2"><img src="https://avatars.githubusercontent.com/u/24277350?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0nlyArg0n2"><b>0nlyArg0n</b></a><br><sub>&#64;0nlyArg0n2</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">706</td>
+<td><a href="https://github.com/1391401"><img src="https://avatars.githubusercontent.com/u/10865637?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/1391401"><b>Peter Zwettler</b></a><br><sub>&#64;1391401</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">707</td>
+<td><a href="https://github.com/83nd1x"><img src="https://avatars.githubusercontent.com/u/65778687?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/83nd1x"><b>Bendix</b></a><br><sub>&#64;83nd1x</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">708</td>
+<td><a href="https://github.com/9613"><img src="https://avatars.githubusercontent.com/u/8797845?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/9613"><b>Eugene</b></a><br><sub>&#64;9613</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">709</td>
+<td><a href="https://github.com/aausser"><img src="https://avatars.githubusercontent.com/u/37653987?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aausser"><b>Andreas Ausserhofer</b></a><br><sub>&#64;aausser</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Graz, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">710</td>
+<td><a href="https://github.com/abdeljalil020"><img src="https://avatars.githubusercontent.com/u/73429685?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdeljalil020"><b>Abdeldjalil Frimehdi</b></a><br><sub>&#64;abdeljalil020</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Hall In Tirol, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">711</td>
+<td><a href="https://github.com/AcamDev"><img src="https://avatars.githubusercontent.com/u/54406428?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AcamDev"><b>AcamDevelopment</b></a><br><sub>&#64;AcamDev</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">712</td>
+<td><a href="https://github.com/ACwarq"><img src="https://avatars.githubusercontent.com/u/76584172?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ACwarq"><b>ACwarq</b></a><br><sub>&#64;ACwarq</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Wien/Austria</sub></td>
+</tr>
+<tr>
+<td align="right">713</td>
+<td><a href="https://github.com/adrianplays"><img src="https://avatars.githubusercontent.com/u/20843741?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adrianplays"><b>Adrian Plays</b></a><br><sub>&#64;adrianplays</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">714</td>
+<td><a href="https://github.com/agaischin"><img src="https://avatars.githubusercontent.com/u/71119454?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/agaischin"><b>Alexander Gaischin</b></a><br><sub>&#64;agaischin</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">715</td>
+<td><a href="https://github.com/Ahmadalmasri"><img src="https://avatars.githubusercontent.com/u/12753573?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ahmadalmasri"><b>Ahmad Almasri</b></a><br><sub>&#64;Ahmadalmasri</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Langgasse 9 8700 Leoben - Austria</sub></td>
+</tr>
+<tr>
+<td align="right">716</td>
+<td><a href="https://github.com/AignerMatthias"><img src="https://avatars.githubusercontent.com/u/24572965?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AignerMatthias"><b>Matthias Aigner</b></a><br><sub>&#64;AignerMatthias</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">717</td>
+<td><a href="https://github.com/alanger"><img src="https://avatars.githubusercontent.com/u/888668?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alanger"><b>Andreas Langer</b></a><br><sub>&#64;alanger</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">718</td>
+<td><a href="https://github.com/albahramani"><img src="https://avatars.githubusercontent.com/u/49901246?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/albahramani"><b>Anmar</b></a><br><sub>&#64;albahramani</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria, Vienna</sub></td>
+</tr>
+<tr>
+<td align="right">719</td>
+<td><a href="https://github.com/ALCOFO"><img src="https://avatars.githubusercontent.com/u/38436989?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ALCOFO"><b>flop&#95;deb</b></a><br><sub>&#64;ALCOFO</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">720</td>
+<td><a href="https://github.com/AlexanderBernegger"><img src="https://avatars.githubusercontent.com/u/32567068?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlexanderBernegger"><b>Alexander Bernegger</b></a><br><sub>&#64;AlexanderBernegger</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">721</td>
+<td><a href="https://github.com/alexmicky19"><img src="https://avatars.githubusercontent.com/u/35343702?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexmicky19"><b>alexmicky19</b></a><br><sub>&#64;alexmicky19</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">722</td>
+<td><a href="https://github.com/aliacraftAT"><img src="https://avatars.githubusercontent.com/u/31164259?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aliacraftAT"><b>aliacraftAT</b></a><br><sub>&#64;aliacraftAT</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Tyrol, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">723</td>
+<td><a href="https://github.com/aliafshinpour"><img src="https://avatars.githubusercontent.com/u/28830183?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aliafshinpour"><b>aliafshinpour</b></a><br><sub>&#64;aliafshinpour</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">724</td>
+<td><a href="https://github.com/alinaleiendecker"><img src="https://avatars.githubusercontent.com/u/117983768?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alinaleiendecker"><b>Alina Leiendecker</b></a><br><sub>&#64;alinaleiendecker</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">725</td>
+<td><a href="https://github.com/Aljarrash"><img src="https://avatars.githubusercontent.com/u/48549516?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aljarrash"><b>Hussain</b></a><br><sub>&#64;Aljarrash</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Maria Alm, Salzburg Austria</sub></td>
+</tr>
+<tr>
+<td align="right">726</td>
+<td><a href="https://github.com/AlphaKevK"><img src="https://avatars.githubusercontent.com/u/73298499?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlphaKevK"><b>Kev</b></a><br><sub>&#64;AlphaKevK</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">727</td>
+<td><a href="https://github.com/AMI4928"><img src="https://avatars.githubusercontent.com/u/32564678?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AMI4928"><b>Aleksandar Milošević</b></a><br><sub>&#64;AMI4928</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Dornbirn, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">728</td>
+<td><a href="https://github.com/andihuber"><img src="https://avatars.githubusercontent.com/u/16149664?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andihuber"><b>Andi</b></a><br><sub>&#64;andihuber</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">729</td>
+<td><a href="https://github.com/Andimg"><img src="https://avatars.githubusercontent.com/u/1676357?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Andimg"><b>Andreas</b></a><br><sub>&#64;Andimg</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">730</td>
+<td><a href="https://github.com/andrasdanis"><img src="https://avatars.githubusercontent.com/u/49848408?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andrasdanis"><b>Andras Danis</b></a><br><sub>&#64;andrasdanis</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">731</td>
+<td><a href="https://github.com/andre1202"><img src="https://avatars.githubusercontent.com/u/76166537?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andre1202"><b>Andre</b></a><br><sub>&#64;andre1202</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">732</td>
+<td><a href="https://github.com/andreasdecker"><img src="https://avatars.githubusercontent.com/u/1633375?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andreasdecker"><b>Andreas Decker</b></a><br><sub>&#64;andreasdecker</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">733</td>
+<td><a href="https://github.com/andreashafellner"><img src="https://avatars.githubusercontent.com/u/28529029?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andreashafellner"><b>Andreas Hafellner</b></a><br><sub>&#64;andreashafellner</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">734</td>
+<td><a href="https://github.com/Andreasj97"><img src="https://avatars.githubusercontent.com/u/64952958?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Andreasj97"><b>Andreasj97</b></a><br><sub>&#64;Andreasj97</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">735</td>
+<td><a href="https://github.com/AndreasOrestisVasileiadis"><img src="https://avatars.githubusercontent.com/u/71927623?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AndreasOrestisVasileiadis"><b>Andreas Orestis Vasileiadis</b></a><br><sub>&#64;AndreasOrestisVasileiadis</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">736</td>
+<td><a href="https://github.com/AndreasSchmied"><img src="https://avatars.githubusercontent.com/u/43380860?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AndreasSchmied"><b>Andreas Schmied</b></a><br><sub>&#64;AndreasSchmied</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">737</td>
+<td><a href="https://github.com/andreseirafi"><img src="https://avatars.githubusercontent.com/u/63747817?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andreseirafi"><b>Andre Seirafi</b></a><br><sub>&#64;andreseirafi</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">738</td>
+<td><a href="https://github.com/Annalhasa"><img src="https://avatars.githubusercontent.com/u/31027445?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Annalhasa"><b>Mingchun Ma</b></a><br><sub>&#64;Annalhasa</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">739</td>
+<td><a href="https://github.com/AnnaMaria13"><img src="https://avatars.githubusercontent.com/u/73120582?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AnnaMaria13"><b>Anna-Maria Stefanescu</b></a><br><sub>&#64;AnnaMaria13</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">740</td>
+<td><a href="https://github.com/antem"><img src="https://avatars.githubusercontent.com/u/33481947?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/antem"><b>Michael Ante</b></a><br><sub>&#64;antem</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">741</td>
+<td><a href="https://github.com/AntMarras"><img src="https://avatars.githubusercontent.com/u/17230651?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AntMarras"><b>Alchaest</b></a><br><sub>&#64;AntMarras</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">742</td>
+<td><a href="https://github.com/antoniobeermann"><img src="https://avatars.githubusercontent.com/u/14990828?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/antoniobeermann"><b>A. B.</b></a><br><sub>&#64;antoniobeermann</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">743</td>
+<td><a href="https://github.com/aozkn19"><img src="https://avatars.githubusercontent.com/u/102856463?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aozkn19"><b>Swenzzy</b></a><br><sub>&#64;aozkn19</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria, Vienna</sub></td>
+</tr>
+<tr>
+<td align="right">744</td>
+<td><a href="https://github.com/aplachy"><img src="https://avatars.githubusercontent.com/u/19152094?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aplachy"><b>Andreas Plachy</b></a><br><sub>&#64;aplachy</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Wels Austria</sub></td>
+</tr>
+<tr>
+<td align="right">745</td>
+<td><a href="https://github.com/ardycloud"><img src="https://avatars.githubusercontent.com/u/57144042?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ardycloud"><b>ArdyMoon</b></a><br><sub>&#64;ardycloud</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">746</td>
+<td><a href="https://github.com/AschauerMarvin"><img src="https://avatars.githubusercontent.com/u/6393649?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AschauerMarvin"><b>Marvin Aschauer</b></a><br><sub>&#64;AschauerMarvin</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">747</td>
+<td><a href="https://github.com/asymmetric-supernova"><img src="https://avatars.githubusercontent.com/u/17072697?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asymmetric-supernova"><b>Josef Fritzer</b></a><br><sub>&#64;asymmetric-supernova</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">748</td>
+<td><a href="https://github.com/athordan"><img src="https://avatars.githubusercontent.com/u/8411050?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/athordan"><b>athordan</b></a><br><sub>&#64;athordan</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">749</td>
+<td><a href="https://github.com/athuer"><img src="https://avatars.githubusercontent.com/u/54843912?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/athuer"><b>athuer</b></a><br><sub>&#64;athuer</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">750</td>
+<td><a href="https://github.com/AtrocAT"><img src="https://avatars.githubusercontent.com/u/5009078?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AtrocAT"><b>Atroc</b></a><br><sub>&#64;AtrocAT</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">751</td>
+<td><a href="https://github.com/attofemto"><img src="https://avatars.githubusercontent.com/u/18028352?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/attofemto"><b>Vaclav Hanus</b></a><br><sub>&#64;attofemto</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">752</td>
+<td><a href="https://github.com/aurel0306"><img src="https://avatars.githubusercontent.com/u/44969075?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aurel0306"><b>Aurel Netzer</b></a><br><sub>&#64;aurel0306</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">753</td>
+<td><a href="https://github.com/austriandude81"><img src="https://avatars.githubusercontent.com/u/51368092?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/austriandude81"><b>Martin</b></a><br><sub>&#64;austriandude81</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">754</td>
+<td><a href="https://github.com/austrianglider"><img src="https://avatars.githubusercontent.com/u/26895027?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/austrianglider"><b>austrianglider</b></a><br><sub>&#64;austrianglider</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">755</td>
+<td><a href="https://github.com/autolux-elektronik"><img src="https://avatars.githubusercontent.com/u/61588662?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/autolux-elektronik"><b>AUTOLUX Elektronik</b></a><br><sub>&#64;autolux-elektronik</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Oberalm, Salzburg, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">756</td>
+<td><a href="https://github.com/awintersteiger"><img src="https://avatars.githubusercontent.com/u/31901449?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/awintersteiger"><b>Andreas Wintersteiger</b></a><br><sub>&#64;awintersteiger</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Linz, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">757</td>
+<td><a href="https://github.com/axince"><img src="https://avatars.githubusercontent.com/u/74460190?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/axince"><b>HttpSimon</b></a><br><sub>&#64;axince</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">758</td>
+<td><a href="https://github.com/B4zilik4"><img src="https://avatars.githubusercontent.com/u/48532013?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/B4zilik4"><b>B4zilik4</b></a><br><sub>&#64;B4zilik4</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Graz, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">759</td>
+<td><a href="https://github.com/Baenlin"><img src="https://avatars.githubusercontent.com/u/4689469?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Baenlin"><b>Chris</b></a><br><sub>&#64;Baenlin</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria, Centre</sub></td>
+</tr>
+<tr>
+<td align="right">760</td>
+<td><a href="https://github.com/bakhsat"><img src="https://avatars.githubusercontent.com/u/42621697?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bakhsat"><b>Amin Khodabakhshi Rizi</b></a><br><sub>&#64;bakhsat</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">761</td>
+<td><a href="https://github.com/barnabaubezio"><img src="https://avatars.githubusercontent.com/u/23462945?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/barnabaubezio"><b>Barnaba Ubezio</b></a><br><sub>&#64;barnabaubezio</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Klagenfurt, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">762</td>
+<td><a href="https://github.com/bazbishop"><img src="https://avatars.githubusercontent.com/u/4245123?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bazbishop"><b>Barry Bishop</b></a><br><sub>&#64;bazbishop</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Innsbruck, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">763</td>
+<td><a href="https://github.com/boris-unterer"><img src="https://avatars.githubusercontent.com/u/1038956?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/boris-unterer"><b>Boris Unterer</b></a><br><sub>&#64;boris-unterer</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Klaus, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">764</td>
+<td><a href="https://github.com/Chubi1609"><img src="https://avatars.githubusercontent.com/u/24795690?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Chubi1609"><b>Gruber Marvin</b></a><br><sub>&#64;Chubi1609</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">765</td>
+<td><a href="https://github.com/contemporaryarts"><img src="https://avatars.githubusercontent.com/u/1068581?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/contemporaryarts"><b>Manfred Kielnhofer</b></a><br><sub>&#64;contemporaryarts</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Linz Austria</sub></td>
+</tr>
+<tr>
+<td align="right">766</td>
+<td><a href="https://github.com/csarfdez"><img src="https://avatars.githubusercontent.com/u/56269657?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/csarfdez"><b>César Fernández Muñoz</b></a><br><sub>&#64;csarfdez</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Innsbruck, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">767</td>
+<td><a href="https://github.com/CuLeuB"><img src="https://avatars.githubusercontent.com/u/65336287?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CuLeuB"><b>Lukas</b></a><br><sub>&#64;CuLeuB</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">768</td>
+<td><a href="https://github.com/d0gh1tsc4r"><img src="https://avatars.githubusercontent.com/u/1141612?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/d0gh1tsc4r"><b>Hannes</b></a><br><sub>&#64;d0gh1tsc4r</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Innsbruck, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">769</td>
+<td><a href="https://github.com/D3inDoubt"><img src="https://avatars.githubusercontent.com/u/1834975?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/D3inDoubt"><b>D3inDoubt</b></a><br><sub>&#64;D3inDoubt</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Vienna / Austria / Europe / Earth</sub></td>
+</tr>
+<tr>
+<td align="right">770</td>
+<td><a href="https://github.com/daowa89"><img src="https://avatars.githubusercontent.com/u/76402915?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/daowa89"><b>daowa89</b></a><br><sub>&#64;daowa89</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">771</td>
+<td><a href="https://github.com/DaveVx"><img src="https://avatars.githubusercontent.com/u/45095420?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DaveVx"><b>David</b></a><br><sub>&#64;DaveVx</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">772</td>
+<td><a href="https://github.com/dicho-usp"><img src="https://avatars.githubusercontent.com/u/31098889?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dicho-usp"><b>Dicho</b></a><br><sub>&#64;dicho-usp</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">773</td>
+<td><a href="https://github.com/dovvid"><img src="https://avatars.githubusercontent.com/u/43820929?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dovvid"><b>David</b></a><br><sub>&#64;dovvid</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">774</td>
+<td><a href="https://github.com/drabik"><img src="https://avatars.githubusercontent.com/u/9438095?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/drabik"><b>Peter Drabik</b></a><br><sub>&#64;drabik</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">775</td>
+<td><a href="https://github.com/druschka"><img src="https://avatars.githubusercontent.com/u/9742492?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/druschka"><b>Daniel Ruschka</b></a><br><sub>&#64;druschka</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">776</td>
+<td><a href="https://github.com/edwinhernandezgomez"><img src="https://avatars.githubusercontent.com/u/24189515?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/edwinhernandezgomez"><b>Edwin Santiago Hernandez Gomez</b></a><br><sub>&#64;edwinhernandezgomez</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">777</td>
+<td><a href="https://github.com/etonioli"><img src="https://avatars.githubusercontent.com/u/61688168?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/etonioli"><b>etonioli</b></a><br><sub>&#64;etonioli</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Salzburg, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">778</td>
+<td><a href="https://github.com/Floke15"><img src="https://avatars.githubusercontent.com/u/23480374?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Floke15"><b>Florian Köttl</b></a><br><sub>&#64;Floke15</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Graz, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">779</td>
+<td><a href="https://github.com/gchasparis"><img src="https://avatars.githubusercontent.com/u/12062487?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gchasparis"><b>Georgios Chasparis</b></a><br><sub>&#64;gchasparis</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">780</td>
+<td><a href="https://github.com/gitfwsps"><img src="https://avatars.githubusercontent.com/u/67102220?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gitfwsps"><b>Wera Spiegel-Senghas</b></a><br><sub>&#64;gitfwsps</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Carinthia, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">781</td>
+<td><a href="https://github.com/grubmueller"><img src="https://avatars.githubusercontent.com/u/35396385?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/grubmueller"><b>Michael Grubmüller</b></a><br><sub>&#64;grubmueller</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">782</td>
+<td><a href="https://github.com/herophil322"><img src="https://avatars.githubusercontent.com/u/24706274?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/herophil322"><b>phil</b></a><br><sub>&#64;herophil322</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">783</td>
+<td><a href="https://github.com/holala-at"><img src="https://avatars.githubusercontent.com/u/62188255?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/holala-at"><b>holala.at</b></a><br><sub>&#64;holala-at</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">784</td>
+<td><a href="https://github.com/hummldesign"><img src="https://avatars.githubusercontent.com/u/39214572?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hummldesign"><b>:hummldesign - 360° design</b></a><br><sub>&#64;hummldesign</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">785</td>
+<td><a href="https://github.com/impactjo"><img src="https://avatars.githubusercontent.com/u/52889058?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/impactjo"><b>Johannes</b></a><br><sub>&#64;impactjo</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">786</td>
+<td><a href="https://github.com/jannickseelen"><img src="https://avatars.githubusercontent.com/u/3976843?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jannickseelen"><b>Jannick Seelen</b></a><br><sub>&#64;jannickseelen</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">787</td>
+<td><a href="https://github.com/jmangan"><img src="https://avatars.githubusercontent.com/u/1516454?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jmangan"><b>joseph mangan</b></a><br><sub>&#64;jmangan</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Vienna Austria</sub></td>
+</tr>
+<tr>
+<td align="right">788</td>
+<td><a href="https://github.com/jperz"><img src="https://avatars.githubusercontent.com/u/35682408?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jperz"><b>Jakob</b></a><br><sub>&#64;jperz</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">789</td>
+<td><a href="https://github.com/juleswi-dev"><img src="https://avatars.githubusercontent.com/u/74676983?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/juleswi-dev"><b>Julian Wimmer</b></a><br><sub>&#64;juleswi-dev</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">790</td>
+<td><a href="https://github.com/Kratka"><img src="https://avatars.githubusercontent.com/u/1576591?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kratka"><b>Kratka</b></a><br><sub>&#64;Kratka</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">791</td>
+<td><a href="https://github.com/LBSlogics"><img src="https://avatars.githubusercontent.com/u/19569030?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LBSlogics"><b>LBS logics</b></a><br><sub>&#64;LBSlogics</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Linz, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">792</td>
+<td><a href="https://github.com/lenzomat"><img src="https://avatars.githubusercontent.com/u/16762092?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lenzomat"><b>Martin</b></a><br><sub>&#64;lenzomat</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Graz, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">793</td>
+<td><a href="https://github.com/Losleo1211"><img src="https://avatars.githubusercontent.com/u/35976282?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Losleo1211"><b>Leo</b></a><br><sub>&#64;Losleo1211</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">794</td>
+<td><a href="https://github.com/Maije2908"><img src="https://avatars.githubusercontent.com/u/58599651?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Maije2908"><b>Christoph Maier</b></a><br><sub>&#64;Maije2908</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">795</td>
+<td><a href="https://github.com/MhdMousaHAMAD"><img src="https://avatars.githubusercontent.com/u/13824172?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MhdMousaHAMAD"><b>Mhd Mousa HAMAD</b></a><br><sub>&#64;MhdMousaHAMAD</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Linz, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">796</td>
+<td><a href="https://github.com/MichaelLachmann"><img src="https://avatars.githubusercontent.com/u/42543832?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MichaelLachmann"><b>Michael Lachmann</b></a><br><sub>&#64;MichaelLachmann</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">797</td>
+<td><a href="https://github.com/miguelgodinho"><img src="https://avatars.githubusercontent.com/u/17136?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/miguelgodinho"><b>Miguel Godinho</b></a><br><sub>&#64;miguelgodinho</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Innsbruck - Austria</sub></td>
+</tr>
+<tr>
+<td align="right">798</td>
+<td><a href="https://github.com/MikeK184"><img src="https://avatars.githubusercontent.com/u/56921065?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MikeK184"><b>Mike</b></a><br><sub>&#64;MikeK184</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria, Tirol</sub></td>
+</tr>
+<tr>
+<td align="right">799</td>
+<td><a href="https://github.com/mindcatch-com"><img src="https://avatars.githubusercontent.com/u/1118816?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mindcatch-com"><b>mindcatch.com</b></a><br><sub>&#64;mindcatch-com</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">800</td>
+<td><a href="https://github.com/moberauer"><img src="https://avatars.githubusercontent.com/u/63164371?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/moberauer"><b>Michael Oberauer</b></a><br><sub>&#64;moberauer</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Linz, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">801</td>
+<td><a href="https://github.com/moritzkoell"><img src="https://avatars.githubusercontent.com/u/1579582?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/moritzkoell"><b>mkoell</b></a><br><sub>&#64;moritzkoell</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">802</td>
+<td><a href="https://github.com/Parnom"><img src="https://avatars.githubusercontent.com/u/6698574?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Parnom"><b>Parnom</b></a><br><sub>&#64;Parnom</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Vienna , (AUSTRIA)</sub></td>
+</tr>
+<tr>
+<td align="right">803</td>
+<td><a href="https://github.com/pkalauner-tuwien"><img src="https://avatars.githubusercontent.com/u/30499027?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pkalauner-tuwien"><b>Paul Kalauner</b></a><br><sub>&#64;pkalauner-tuwien</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">804</td>
+<td><a href="https://github.com/precisionCoder"><img src="https://avatars.githubusercontent.com/u/2253006?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/precisionCoder"><b>William Drescher</b></a><br><sub>&#64;precisionCoder</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Linz, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">805</td>
+<td><a href="https://github.com/Re4PzZ"><img src="https://avatars.githubusercontent.com/u/1619251?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Re4PzZ"><b>Alex Ander</b></a><br><sub>&#64;Re4PzZ</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">806</td>
+<td><a href="https://github.com/rrgj88"><img src="https://avatars.githubusercontent.com/u/5855714?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rrgj88"><b>RR</b></a><br><sub>&#64;rrgj88</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">807</td>
+<td><a href="https://github.com/rwebersc"><img src="https://avatars.githubusercontent.com/u/54999782?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rwebersc"><b>R.Weberschlaeger</b></a><br><sub>&#64;rwebersc</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">808</td>
+<td><a href="https://github.com/Shigoru"><img src="https://avatars.githubusercontent.com/u/9211590?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Shigoru"><b>Shigoru</b></a><br><sub>&#64;Shigoru</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Tyrol / Austria</sub></td>
+</tr>
+<tr>
+<td align="right">809</td>
+<td><a href="https://github.com/skeebi"><img src="https://avatars.githubusercontent.com/u/73785521?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/skeebi"><b>skebi</b></a><br><sub>&#64;skeebi</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">810</td>
+<td><a href="https://github.com/soorisani"><img src="https://avatars.githubusercontent.com/u/72376270?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/soorisani"><b>Mansooreh Sani</b></a><br><sub>&#64;soorisani</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Innsbruck, Tyrol, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">811</td>
+<td><a href="https://github.com/stefanneumeister"><img src="https://avatars.githubusercontent.com/u/13114327?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stefanneumeister"><b>stefanneumeister</b></a><br><sub>&#64;stefanneumeister</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">812</td>
+<td><a href="https://github.com/StolzeErdnuss"><img src="https://avatars.githubusercontent.com/u/12221286?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/StolzeErdnuss"><b>Dennis Wagner</b></a><br><sub>&#64;StolzeErdnuss</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">813</td>
+<td><a href="https://github.com/thebuggy83"><img src="https://avatars.githubusercontent.com/u/48380150?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thebuggy83"><b>Markus K.</b></a><br><sub>&#64;thebuggy83</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Vienna, Austria</sub></td>
+</tr>
+<tr>
+<td align="right">814</td>
+<td><a href="https://github.com/ThoggNiatiz"><img src="https://avatars.githubusercontent.com/u/29843088?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ThoggNiatiz"><b>Thogg Niatiz</b></a><br><sub>&#64;ThoggNiatiz</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">815</td>
+<td><a href="https://github.com/Thowit"><img src="https://avatars.githubusercontent.com/u/6325490?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Thowit"><b>Thowit</b></a><br><sub>&#64;Thowit</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">816</td>
+<td><a href="https://github.com/TyborAUT"><img src="https://avatars.githubusercontent.com/u/43549032?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TyborAUT"><b>TyborAUT</b></a><br><sub>&#64;TyborAUT</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">817</td>
+<td><a href="https://github.com/valgoy"><img src="https://avatars.githubusercontent.com/u/3168561?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/valgoy"><b>valgoy</b></a><br><sub>&#64;valgoy</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Graz / Austria</sub></td>
+</tr>
+<tr>
+<td align="right">818</td>
+<td><a href="https://github.com/wontfixit"><img src="https://avatars.githubusercontent.com/u/67104364?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wontfixit"><b>wontfixit</b></a><br><sub>&#64;wontfixit</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">819</td>
+<td><a href="https://github.com/wreckitralph-tech"><img src="https://avatars.githubusercontent.com/u/69436669?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wreckitralph-tech"><b>Ralph</b></a><br><sub>&#64;wreckitralph-tech</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">820</td>
+<td><a href="https://github.com/Zeroune"><img src="https://avatars.githubusercontent.com/u/43545857?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Zeroune"><b>Zeroune</b></a><br><sub>&#64;Zeroune</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Austria</sub></td>
+</tr>
+<tr>
+<td align="right">821</td>
+<td><a href="https://github.com/donnabauerc"><img src="https://avatars.githubusercontent.com/u/43637574?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/donnabauerc"><b>Christian Donnabauer</b></a><br><sub>&#64;donnabauerc</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Austria, Linz</sub></td>
+</tr>
+<tr>
+<td align="right">822</td>
 <td><a href="https://github.com/MarcoStrazza"><img src="https://avatars.githubusercontent.com/u/68390358?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MarcoStrazza"><b>Marco Strazza</b></a><br><sub>&#64;MarcoStrazza</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -3102,7 +5783,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 439 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 822 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 148 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

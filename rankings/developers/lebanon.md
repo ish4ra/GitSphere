@@ -31,14 +31,14 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/shahednasser"><img src="https://avatars.githubusercontent.com/u/27354907?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shahednasser"><b>Shahed Nasser</b></a><br><sub>&#64;shahednasser</sub></td>
-<td align="right"><b>2,906</b></td>
+<td align="right"><b>2,909</b></td>
 <td align="right">146</td>
 <td><sub>Aaramoun, Lebanon</sub></td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/FouadRaheb"><img src="https://avatars.githubusercontent.com/u/6962327?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FouadRaheb"><b>Fouad Raheb</b></a><br><sub>&#64;FouadRaheb</sub></td>
-<td align="right"><b>1,579</b></td>
+<td align="right"><b>1,584</b></td>
 <td align="right">10</td>
 <td><sub>Lebanon</sub></td>
 </tr>
@@ -101,7 +101,7 @@
 <tr>
 <td align="right">12</td>
 <td><a href="https://github.com/CharbelNohra"><img src="https://avatars.githubusercontent.com/u/165386261?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CharbelNohra"><b>Charbel Nohra</b></a><br><sub>&#64;CharbelNohra</sub></td>
-<td align="right"><b>157</b></td>
+<td align="right"><b>156</b></td>
 <td align="right">17</td>
 <td><sub>Beirut, Lebanon</sub></td>
 </tr>
@@ -177,17 +177,17 @@
 </tr>
 <tr>
 <td align="right">23</td>
+<td><a href="https://github.com/EliasTamer"><img src="https://avatars.githubusercontent.com/u/93489117?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EliasTamer"><b>Elias Tamer</b></a><br><sub>&#64;EliasTamer</sub></td>
+<td align="right"><b>79</b></td>
+<td align="right">51</td>
+<td><sub>Lebanon - Beirut</sub></td>
+</tr>
+<tr>
+<td align="right">24</td>
 <td><a href="https://github.com/teddyzeenny"><img src="https://avatars.githubusercontent.com/u/1061742?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/teddyzeenny"><b>Teddy Zeenny</b></a><br><sub>&#64;teddyzeenny</sub></td>
 <td align="right"><b>78</b></td>
 <td align="right">73</td>
 <td><sub>Lebanon</sub></td>
-</tr>
-<tr>
-<td align="right">24</td>
-<td><a href="https://github.com/EliasTamer"><img src="https://avatars.githubusercontent.com/u/93489117?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EliasTamer"><b>Elias Tamer</b></a><br><sub>&#64;EliasTamer</sub></td>
-<td align="right"><b>78</b></td>
-<td align="right">51</td>
-<td><sub>Lebanon - Beirut</sub></td>
 </tr>
 <tr>
 <td align="right">25</td>
@@ -268,24 +268,24 @@
 </tr>
 <tr>
 <td align="right">36</td>
-<td><a href="https://github.com/HaidarZ"><img src="https://avatars.githubusercontent.com/u/10701454?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HaidarZ"><b>Haidar Zeineddine</b></a><br><sub>&#64;HaidarZ</sub></td>
-<td align="right"><b>63</b></td>
-<td align="right">55</td>
-<td><sub>Beirut, Lebanon</sub></td>
-</tr>
-<tr>
-<td align="right">37</td>
 <td><a href="https://github.com/Bassel17"><img src="https://avatars.githubusercontent.com/u/37274596?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bassel17"><b>Bassel Kanso</b></a><br><sub>&#64;Bassel17</sub></td>
 <td align="right"><b>62</b></td>
 <td align="right">13</td>
 <td><sub>Beirut, Lebanon</sub></td>
 </tr>
 <tr>
-<td align="right">38</td>
+<td align="right">37</td>
 <td><a href="https://github.com/Moemen12"><img src="https://avatars.githubusercontent.com/u/99843903?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Moemen12"><b>moemen saadeh</b></a><br><sub>&#64;Moemen12</sub></td>
 <td align="right"><b>61</b></td>
 <td align="right">70</td>
 <td><sub>Lebanon</sub></td>
+</tr>
+<tr>
+<td align="right">38</td>
+<td><a href="https://github.com/HaidarZ"><img src="https://avatars.githubusercontent.com/u/10701454?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HaidarZ"><b>Haidar Zeineddine</b></a><br><sub>&#64;HaidarZ</sub></td>
+<td align="right"><b>61</b></td>
+<td align="right">55</td>
+<td><sub>Beirut, Lebanon</sub></td>
 </tr>
 <tr>
 <td align="right">39</td>

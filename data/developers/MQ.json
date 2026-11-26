@@ -8,7 +8,7 @@
 "coverage": {"basis":"partial","cutoffFollowers":0,"candidates":170,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":23,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjI3MzE=","login":"diasjorge","name":"Jorge Dias","url":"https://github.com/diasjorge","avatarUrl":"https://avatars.githubusercontent.com/u/2731?s=80&v=4","followers":86,"publicRepos":157,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
-  {"rank":2,"id":"MDQ6VXNlcjcyMTU1","login":"bolom","name":"Bolo Michelin","url":"https://github.com/bolom","avatarUrl":"https://avatars.githubusercontent.com/u/72155?s=80&v=4","followers":34,"publicRepos":32,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":2,"id":"MDQ6VXNlcjcyMTU1","login":"bolom","name":"Bolo Michelin","url":"https://github.com/bolom","avatarUrl":"https://avatars.githubusercontent.com/u/72155?s=80&v=4","followers":34,"publicRepos":32,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":3,"id":"MDQ6VXNlcjE2NjM0NTkw","login":"blazux","name":"Vincent B.","url":"https://github.com/blazux","avatarUrl":"https://avatars.githubusercontent.com/u/16634590?s=80&v=4","followers":23,"publicRepos":13,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
   {"rank":4,"id":"MDQ6VXNlcjQ5OTEyODQ0","login":"giovanny972","name":"giovanny adelaide","url":"https://github.com/giovanny972","avatarUrl":"https://avatars.githubusercontent.com/u/49912844?s=80&v=4","followers":17,"publicRepos":40,"location":"martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":5,"id":"MDQ6VXNlcjkyMDY2NDg=","login":"jsrdescamps","name":"Julien Descamps","url":"https://github.com/jsrdescamps","avatarUrl":"https://avatars.githubusercontent.com/u/9206648?s=80&v=4","followers":14,"publicRepos":3,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
@@ -31,7 +31,7 @@
   {"rank":22,"id":"MDQ6VXNlcjQwMDA3MDU4","login":"anthonyrenard","name":"Anthony Renard","url":"https://github.com/anthonyrenard","avatarUrl":"https://avatars.githubusercontent.com/u/40007058?s=80&v=4","followers":6,"publicRepos":1,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":23,"id":"MDQ6VXNlcjE0MzAzODk=","login":"vevedh","name":"Hervé de CHAVIGNY","url":"https://github.com/vevedh","avatarUrl":"https://avatars.githubusercontent.com/u/1430389?s=80&v=4","followers":5,"publicRepos":546,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":24,"id":"MDQ6VXNlcjIyNDA2NDU2","login":"p4cm4n972","name":"Manuel ADELE","url":"https://github.com/p4cm4n972","avatarUrl":"https://avatars.githubusercontent.com/u/22406456?s=80&v=4","followers":4,"publicRepos":71,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
-  {"rank":25,"id":"MDQ6VXNlcjkwODExMDMw","login":"mattari97","name":"Antoine Cheminat","url":"https://github.com/mattari97","avatarUrl":"https://avatars.githubusercontent.com/u/90811030?s=80&v=4","followers":4,"publicRepos":38,"location":"Martinique (FWI)","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":25,"id":"MDQ6VXNlcjkwODExMDMw","login":"mattari97","name":"Antoine Cheminat","url":"https://github.com/mattari97","avatarUrl":"https://avatars.githubusercontent.com/u/90811030?s=80&v=4","followers":4,"publicRepos":38,"location":"Martinique (FWI)","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":26,"id":"MDQ6VXNlcjgxNDE1NDI3","login":"docVoid","name":"void216","url":"https://github.com/docVoid","avatarUrl":"https://avatars.githubusercontent.com/u/81415427?s=80&v=4","followers":4,"publicRepos":29,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":27,"id":"U_kgDOB-LyxA","login":"esrid","name":"ADS","url":"https://github.com/esrid","avatarUrl":"https://avatars.githubusercontent.com/u/132313796?s=80&v=4","followers":4,"publicRepos":20,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":28,"id":"MDQ6VXNlcjI4NjYxOTE=","login":"Artnforces","name":"SimpleFX","url":"https://github.com/Artnforces","avatarUrl":"https://avatars.githubusercontent.com/u/2866191?s=80&v=4","followers":4,"publicRepos":2,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
@@ -178,8 +178,8 @@
   {"rank":169,"id":"U_kgDOBr9wtg","login":"synephub","name":"SynepHub","url":"https://github.com/synephub","avatarUrl":"https://avatars.githubusercontent.com/u/113209526?s=80&v=4","followers":0,"publicRepos":0,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":170,"id":"U_kgDOEmRNWQ","login":"vduchamp","name":"Valentin DUCHAMP","url":"https://github.com/vduchamp","avatarUrl":"https://avatars.githubusercontent.com/u/308563289?s=80&v=4","followers":0,"publicRepos":0,"location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "cdddbc905f37a76f",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "755c7233cb8ed3fa",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

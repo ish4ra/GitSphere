@@ -185,7 +185,7 @@
 <tr>
 <td align="right">24</td>
 <td><a href="https://github.com/boringthegod"><img src="https://avatars.githubusercontent.com/u/43401595?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/boringthegod"><b>Pierre</b></a><br><sub>&#64;boringthegod</sub></td>
-<td align="right"><b>159</b></td>
+<td align="right"><b>158</b></td>
 <td align="right">18</td>
 <td><sub>Luxembourg</sub></td>
 </tr>
@@ -206,7 +206,7 @@
 <tr>
 <td align="right">27</td>
 <td><a href="https://github.com/barnumbirr"><img src="https://avatars.githubusercontent.com/u/2029239?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/barnumbirr"><b>Martin Simon</b></a><br><sub>&#64;barnumbirr</sub></td>
-<td align="right"><b>146</b></td>
+<td align="right"><b>145</b></td>
 <td align="right">86</td>
 <td><sub>Luxembourg</sub></td>
 </tr>

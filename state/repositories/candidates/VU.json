@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"VU","name":"Vanuatu","slug":"vanuatu"},
-"count": 52,
+"count": 51,
 "repositories": [
-  {"name":"opalcoinnet/opalcoin","stars":2,"forks":5,"language":"C++","license":"MIT","archived":false,"createdAt":"2020-08-26T07:58:33Z","pushedAt":"2021-02-06T13:30:40Z","owner":{"login":"opalcoinnet","type":"User","name":"OpalCoin","location":"Vanuatu"},"attribution":{"code":"VU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-27T22:24:24.660Z","id":"legacy:opalcoinnet/opalcoin","legacy":true},
   {"name":"APCSadmin/melanesian-women-today","stars":1,"forks":3,"language":"JavaScript","archived":false,"createdAt":"2013-05-15T21:22:30Z","pushedAt":"2013-05-29T21:05:56Z","owner":{"login":"APCSadmin","type":"User","name":"Supreme Leader of Vanuatu","location":"Vanuatu"},"attribution":{"code":"VU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-27T22:24:24.660Z","id":"legacy:apcsadmin/melanesian-women-today","legacy":true},
   {"name":"caintonmilroy/mean-meetups","stars":1,"forks":0,"language":"JavaScript","archived":false,"createdAt":"2014-08-12T07:37:05Z","pushedAt":"2014-09-25T08:04:19Z","owner":{"login":"caintonmilroy","type":"User","name":"Cainton Milroy","location":"Vanuatu"},"attribution":{"code":"VU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-27T22:24:24.660Z","id":"legacy:caintonmilroy/mean-meetups","legacy":true},
   {"name":"Cameron-TripleC/hello-world","stars":1,"forks":0,"archived":false,"createdAt":"2019-05-02T08:51:23Z","pushedAt":"2019-05-02T09:05:28Z","owner":{"login":"Cameron-TripleC","type":"User","name":"Cameron Craig","location":"Vanuatu"},"attribution":{"code":"VU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-27T22:24:24.660Z","id":"legacy:cameron-triplec/hello-world","legacy":true},

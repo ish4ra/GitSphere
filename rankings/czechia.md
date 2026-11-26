@@ -424,13 +424,13 @@
 <td align="right">58</td>
 <td><img src="https://github.com/lapism.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lapism/search"><b>lapism/search</b></a> <sub>archived</sub><br><sub>Material You Search component for Android, SearchView</sub></td>
 <td align="right"><b>2,212</b></td>
-<td align="right">371</td>
+<td align="right">370</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">59</td>
 <td><img src="https://github.com/ApiGen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ApiGen/ApiGen"><b>ApiGen/ApiGen</b></a><br><sub>PHP 7.1 ready Smart and Simple Documentation for your PHP project</sub></td>
-<td align="right"><b>2,166</b></td>
+<td align="right"><b>2,164</b></td>
 <td align="right">310</td>
 <td>PHP</td>
 </tr>
@@ -444,7 +444,7 @@
 <tr>
 <td align="right">61</td>
 <td><img src="https://github.com/prusa3d.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/prusa3d/Prusa-Firmware"><b>prusa3d/Prusa-Firmware</b></a><br><sub>Firmware for Original Prusa i3 3D printer by PrusaResearch</sub></td>
-<td align="right"><b>2,124</b></td>
+<td align="right"><b>2,123</b></td>
 <td align="right">1,091</td>
 <td>C++</td>
 </tr>
@@ -452,7 +452,7 @@
 <td align="right">62</td>
 <td><img src="https://github.com/avast.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/avast/android-styled-dialogs"><b>avast/android-styled-dialogs</b></a><br><sub>Backport of Material dialogs with easy-to-use API based on DialogFragment</sub></td>
 <td align="right"><b>2,123</b></td>
-<td align="right">441</td>
+<td align="right">440</td>
 <td>Java</td>
 </tr>
 <tr>
@@ -465,8 +465,8 @@
 <tr>
 <td align="right">64</td>
 <td><img src="https://github.com/yaqwsx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yaqwsx/KiKit"><b>yaqwsx/KiKit</b></a><br><sub>Automation tools for KiCAD</sub></td>
-<td align="right"><b>2,072</b></td>
-<td align="right">265</td>
+<td align="right"><b>2,077</b></td>
+<td align="right">266</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -479,21 +479,21 @@
 <tr>
 <td align="right">66</td>
 <td><img src="https://github.com/vslavik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vslavik/poedit"><b>vslavik/poedit</b></a><br><sub>Simple translation editor for PO, XLIFF, JSON etc. for Mac/Windows/Unix</sub></td>
-<td align="right"><b>2,060</b></td>
+<td align="right"><b>2,061</b></td>
 <td align="right">307</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">67</td>
 <td><img src="https://github.com/catalinmiron.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/catalinmiron/react-native-dribbble-app"><b>catalinmiron/react-native-dribbble-app</b></a><br><sub>Dribbble app built with React Native</sub></td>
-<td align="right"><b>2,056</b></td>
+<td align="right"><b>2,055</b></td>
 <td align="right">395</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">68</td>
 <td><img src="https://github.com/MichaelGrafnetter.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MichaelGrafnetter/DSInternals"><b>MichaelGrafnetter/DSInternals</b></a><br><sub>Directory Services Internals (DSInternals) PowerShell Module and Framework</sub></td>
-<td align="right"><b>1,983</b></td>
+<td align="right"><b>1,984</b></td>
 <td align="right">276</td>
 <td>C#</td>
 </tr>
@@ -507,15 +507,15 @@
 <tr>
 <td align="right">70</td>
 <td><img src="https://github.com/Chleba.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Chleba/netscanner"><b>Chleba/netscanner</b></a><br><sub>Terminal Network scanner &amp; diagnostic tool with modern TUI</sub></td>
-<td align="right"><b>1,904</b></td>
+<td align="right"><b>1,905</b></td>
 <td align="right">62</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">71</td>
 <td><img src="https://github.com/trezor.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/trezor/trezor-firmware"><b>trezor/trezor-firmware</b></a><br><sub>:lock: Trezor Firmware Monorepo</sub></td>
-<td align="right"><b>1,871</b></td>
-<td align="right">836</td>
+<td align="right"><b>1,872</b></td>
+<td align="right">837</td>
 <td>C</td>
 </tr>
 <tr>
@@ -528,7 +528,7 @@
 <tr>
 <td align="right">73</td>
 <td><img src="https://github.com/kvaps.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kvaps/kubectl-node-shell"><b>kvaps/kubectl-node-shell</b></a><br><sub>Exec into node via kubectl</sub></td>
-<td align="right"><b>1,833</b></td>
+<td align="right"><b>1,835</b></td>
 <td align="right">196</td>
 <td>Shell</td>
 </tr>
@@ -541,58 +541,58 @@
 </tr>
 <tr>
 <td align="right">75</td>
-<td><img src="https://github.com/swift502.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/swift502/Sketchbook"><b>swift502/Sketchbook</b></a> <sub>archived</sub><br><sub>3D playground built on three.js and cannon.js.</sub></td>
-<td align="right"><b>1,753</b></td>
-<td align="right">520</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/ViceVerse-cz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ViceVerse-cz/Serein"><b>ViceVerse-cz/Serein</b></a><br><sub>Tiny, Performant &amp; 100% Native client for Discord made in Rust</sub></td>
+<td align="right"><b>1,809</b></td>
+<td align="right">191</td>
+<td>Rust</td>
 </tr>
 <tr>
 <td align="right">76</td>
+<td><img src="https://github.com/swift502.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/swift502/Sketchbook"><b>swift502/Sketchbook</b></a> <sub>archived</sub><br><sub>3D playground built on three.js and cannon.js.</sub></td>
+<td align="right"><b>1,754</b></td>
+<td align="right">521</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">77</td>
 <td><img src="https://github.com/Brightify.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Brightify/Cuckoo"><b>Brightify/Cuckoo</b></a><br><sub>Boilerplate-free mocking framework for Swift!</sub></td>
 <td align="right"><b>1,743</b></td>
 <td align="right">201</td>
 <td>Swift</td>
 </tr>
 <tr>
-<td align="right">77</td>
+<td align="right">78</td>
+<td><img src="https://github.com/sakalond.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sakalond/StableGen"><b>sakalond/StableGen</b></a><br><sub>Transform your 3D texturing workflow with the power of generative AI, directly within Blender!</sub></td>
+<td align="right"><b>1,732</b></td>
+<td align="right">176</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">79</td>
 <td><img src="https://github.com/urbandroid-team.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/urbandroid-team/dont-kill-my-app"><b>urbandroid-team/dont-kill-my-app</b></a><br><sub>Android vendors, don&#39;t kill my app!</sub></td>
 <td align="right"><b>1,731</b></td>
-<td align="right">12,648</td>
+<td align="right">12,709</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">78</td>
+<td align="right">80</td>
 <td><img src="https://github.com/dqbd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dqbd/tiktokenizer"><b>dqbd/tiktokenizer</b></a><br><sub>Online playground for OpenAPI tokenizers</sub></td>
 <td align="right"><b>1,730</b></td>
 <td align="right">188</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">79</td>
+<td align="right">81</td>
 <td><img src="https://github.com/prusa3d.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/prusa3d/Original-Prusa-i3"><b>prusa3d/Original-Prusa-i3</b></a><br><sub>Original Prusa i3 MK2 3D printer printed parts</sub></td>
 <td align="right"><b>1,726</b></td>
 <td align="right">840</td>
 <td>OpenSCAD</td>
 </tr>
 <tr>
-<td align="right">80</td>
-<td><img src="https://github.com/ViceVerse-cz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ViceVerse-cz/Serein"><b>ViceVerse-cz/Serein</b></a><br><sub>Tiny, Performant &amp; 100% Native client for Discord made in Rust</sub></td>
-<td align="right"><b>1,719</b></td>
-<td align="right">178</td>
-<td>Rust</td>
-</tr>
-<tr>
-<td align="right">81</td>
-<td><img src="https://github.com/sakalond.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sakalond/StableGen"><b>sakalond/StableGen</b></a><br><sub>Transform your 3D texturing workflow with the power of generative AI, directly within Blender!</sub></td>
-<td align="right"><b>1,715</b></td>
-<td align="right">171</td>
-<td>Python</td>
-</tr>
-<tr>
 <td align="right">82</td>
 <td><img src="https://github.com/satoshilabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/satoshilabs/slips"><b>satoshilabs/slips</b></a><br><sub>SatoshiLabs Improvement Proposals</sub></td>
-<td align="right"><b>1,700</b></td>
-<td align="right">1,927</td>
+<td align="right"><b>1,701</b></td>
+<td align="right">1,931</td>
 <td>Markdown</td>
 </tr>
 <tr>
@@ -611,17 +611,17 @@
 </tr>
 <tr>
 <td align="right">85</td>
-<td><img src="https://github.com/prusa3d.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/prusa3d/Prusa-Firmware-Buddy"><b>prusa3d/Prusa-Firmware-Buddy</b></a><br><sub>Firmware for the Original Prusa MINI, Original Prusa MK4, Original Prusa XL and Prusa CORE One 3D printers by Prusa Res…</sub></td>
-<td align="right"><b>1,638</b></td>
-<td align="right">413</td>
-<td>C</td>
+<td><img src="https://github.com/ecsphp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ecsphp/ecs"><b>ecsphp/ecs</b></a><br><sub>Checks Symfony in 3 seconds ⚡ PHP-CS-Fixer + PHP&#95;CodeSniffer in one parallel tool, zero dependencies. PSR-12, PER-CS an…</sub></td>
+<td align="right"><b>1,639</b></td>
+<td align="right">90</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">86</td>
-<td><img src="https://github.com/ecsphp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ecsphp/ecs"><b>ecsphp/ecs</b></a><br><sub>Checks Symfony in 3 seconds ⚡ PHP-CS-Fixer + PHP&#95;CodeSniffer in one parallel tool, zero dependencies. PSR-12, PER-CS an…</sub></td>
+<td><img src="https://github.com/prusa3d.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/prusa3d/Prusa-Firmware-Buddy"><b>prusa3d/Prusa-Firmware-Buddy</b></a><br><sub>Firmware for the Original Prusa MINI, Original Prusa MK4, Original Prusa XL and Prusa CORE One 3D printers by Prusa Res…</sub></td>
 <td align="right"><b>1,638</b></td>
-<td align="right">90</td>
-<td>PHP</td>
+<td align="right">415</td>
+<td>C</td>
 </tr>
 <tr>
 <td align="right">87</td>
@@ -646,36 +646,36 @@
 </tr>
 <tr>
 <td align="right">90</td>
+<td><img src="https://github.com/JakubMelka.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JakubMelka/PDF4QT"><b>JakubMelka/PDF4QT</b></a><br><sub>PDF4QT is an open-source PDF toolkit for Windows and Linux, combining powerful desktop applications, command-line tools…</sub></td>
+<td align="right"><b>1,536</b></td>
+<td align="right">162</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">91</td>
 <td><img src="https://github.com/coofcookie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/coofcookie/Windows11Upgrade"><b>coofcookie/Windows11Upgrade</b></a><br><sub>Windows 11 Upgrade tool that bypasses Microsoft´s requirements</sub></td>
 <td align="right"><b>1,531</b></td>
 <td align="right">129</td>
 <td>C#</td>
 </tr>
 <tr>
-<td align="right">91</td>
-<td><img src="https://github.com/JakubMelka.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JakubMelka/PDF4QT"><b>JakubMelka/PDF4QT</b></a><br><sub>PDF4QT is an open-source PDF toolkit for Windows and Linux, combining powerful desktop applications, command-line tools…</sub></td>
-<td align="right"><b>1,521</b></td>
-<td align="right">160</td>
-<td>C++</td>
-</tr>
-<tr>
 <td align="right">92</td>
 <td><img src="https://github.com/mity.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mity/md4c"><b>mity/md4c</b></a><br><sub>Fast, compact, dependency-free Markdown parser for C.</sub></td>
-<td align="right"><b>1,519</b></td>
-<td align="right">232</td>
+<td align="right"><b>1,518</b></td>
+<td align="right">233</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">93</td>
 <td><img src="https://github.com/agent0ai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/agent0ai/dox"><b>agent0ai/dox</b></a><br><sub>Self-documenting AGENTS.md</sub></td>
-<td align="right"><b>1,512</b></td>
-<td align="right">202</td>
+<td align="right"><b>1,515</b></td>
+<td align="right">204</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">94</td>
 <td><img src="https://github.com/vavkamil.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vavkamil/awesome-vulnerable-apps"><b>vavkamil/awesome-vulnerable-apps</b></a><br><sub>Awesome Vulnerable Applications</sub></td>
-<td align="right"><b>1,510</b></td>
+<td align="right"><b>1,511</b></td>
 <td align="right">234</td>
 <td>—</td>
 </tr>
@@ -683,7 +683,7 @@
 <td align="right">95</td>
 <td><img src="https://github.com/salsita.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/salsita/node-pg-migrate"><b>salsita/node-pg-migrate</b></a><br><sub>Node.js database migration management for PostgreSQL</sub></td>
 <td align="right"><b>1,496</b></td>
-<td align="right">207</td>
+<td align="right">208</td>
 <td>TypeScript</td>
 </tr>
 <tr>

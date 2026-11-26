@@ -157,7 +157,7 @@
 <tr>
 <td align="right">20</td>
 <td><a href="https://github.com/tino097"><img src="https://avatars.githubusercontent.com/u/2707446?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tino097"><b>Konstantin Sivakov</b></a><br><sub>&#64;tino097</sub></td>
-<td align="right"><b>159</b></td>
+<td align="right"><b>158</b></td>
 <td align="right">87</td>
 <td><sub>Bitola, North Macedonia</sub></td>
 </tr>

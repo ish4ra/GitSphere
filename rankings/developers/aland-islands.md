@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **96** | 22 Nov 2026 | <a href="../../data/developers/AX.json">JSON</a> |
+| 🟡 Provisional | **111** | 22 Nov 2026 | <a href="../../data/developers/AX.json">JSON</a> |
 
 </div>
 
@@ -149,545 +149,650 @@
 </tr>
 <tr>
 <td align="right">19</td>
+<td><a href="https://github.com/giAddams"><img src="https://avatars.githubusercontent.com/u/181845963?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/giAddams"><b>Geraldine Addamo</b></a><br><sub>&#64;giAddams</sub></td>
+<td align="right"><b>12</b></td>
+<td align="right">12</td>
+<td><sub>Mariehamn</sub></td>
+</tr>
+<tr>
+<td align="right">20</td>
 <td><a href="https://github.com/blueskiy01"><img src="https://avatars.githubusercontent.com/u/122779689?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/blueskiy01"><b>blueskiy01</b></a><br><sub>&#64;blueskiy01</sub></td>
 <td align="right"><b>11</b></td>
 <td align="right">11</td>
 <td><sub>Mariehamn, Åland Islands</sub></td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">21</td>
 <td><a href="https://github.com/AntonWiklund1"><img src="https://avatars.githubusercontent.com/u/70876919?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AntonWiklund1"><b>Anton Wiklund</b></a><br><sub>&#64;AntonWiklund1</sub></td>
 <td align="right"><b>11</b></td>
 <td align="right">4</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">22</td>
 <td><a href="https://github.com/karusmari"><img src="https://avatars.githubusercontent.com/u/180261400?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/karusmari"><b>Maris Karu</b></a><br><sub>&#64;karusmari</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">25</td>
 <td><sub>Åland Islands</sub></td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">23</td>
+<td><a href="https://github.com/fannielf"><img src="https://avatars.githubusercontent.com/u/180291451?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fannielf"><b>Fanni Vesanen</b></a><br><sub>&#64;fannielf</sub></td>
+<td align="right"><b>9</b></td>
+<td align="right">14</td>
+<td><sub>Mariehamn</sub></td>
+</tr>
+<tr>
+<td align="right">24</td>
 <td><a href="https://github.com/torronen"><img src="https://avatars.githubusercontent.com/u/26261427?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/torronen"><b>Antti &quot;Andy&quot; Törrönen</b></a><br><sub>&#64;torronen</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">31</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">25</td>
+<td><a href="https://github.com/olegamobile"><img src="https://avatars.githubusercontent.com/u/167710198?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/olegamobile"><b>Oleg Balandin</b></a><br><sub>&#64;olegamobile</sub></td>
+<td align="right"><b>8</b></td>
+<td align="right">27</td>
+<td><sub>Mariehamn</sub></td>
+</tr>
+<tr>
+<td align="right">26</td>
 <td><a href="https://github.com/srbudaev"><img src="https://avatars.githubusercontent.com/u/167626673?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/srbudaev"><b>Sergei Budaev</b></a><br><sub>&#64;srbudaev</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">25</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">24</td>
+<td align="right">27</td>
+<td><a href="https://github.com/niklasekman"><img src="https://avatars.githubusercontent.com/u/168326?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/niklasekman"><b>Niklas Ekman</b></a><br><sub>&#64;niklasekman</sub></td>
+<td align="right"><b>7</b></td>
+<td align="right">12</td>
+<td><sub>Mariehamn</sub></td>
+</tr>
+<tr>
+<td align="right">28</td>
 <td><a href="https://github.com/pixelheresy"><img src="https://avatars.githubusercontent.com/u/2491944?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pixelheresy"><b>Keith Gibbs</b></a><br><sub>&#64;pixelheresy</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">7</td>
 <td><sub>Mariehamn, Åland Islands</sub></td>
 </tr>
 <tr>
-<td align="right">25</td>
+<td align="right">29</td>
+<td><a href="https://github.com/viktor-sarge"><img src="https://avatars.githubusercontent.com/u/3371823?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/viktor-sarge"><b>Viktor Sarge</b></a><br><sub>&#64;viktor-sarge</sub></td>
+<td align="right"><b>6</b></td>
+<td align="right">31</td>
+<td><sub>Mariehamn</sub></td>
+</tr>
+<tr>
+<td align="right">30</td>
 <td><a href="https://github.com/DanielssonThomas"><img src="https://avatars.githubusercontent.com/u/69715206?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DanielssonThomas"><b>Thomas Danielsson</b></a><br><sub>&#64;DanielssonThomas</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">28</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">26</td>
+<td align="right">31</td>
 <td><a href="https://github.com/BeornG"><img src="https://avatars.githubusercontent.com/u/102183676?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BeornG"><b>Björn Granholm</b></a><br><sub>&#64;BeornG</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">9</td>
 <td><sub>Mariehamn, Åland</sub></td>
 </tr>
 <tr>
-<td align="right">27</td>
+<td align="right">32</td>
+<td><a href="https://github.com/demonboat"><img src="https://avatars.githubusercontent.com/u/121142305?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/demonboat"><b>Demonboat</b></a><br><sub>&#64;demonboat</sub></td>
+<td align="right"><b>6</b></td>
+<td align="right">4</td>
+<td><sub>Mariehamn</sub></td>
+</tr>
+<tr>
+<td align="right">33</td>
 <td><a href="https://github.com/hkarlstrom"><img src="https://avatars.githubusercontent.com/u/793063?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hkarlstrom"><b>Henrik Karlström</b></a><br><sub>&#64;hkarlstrom</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">4</td>
 <td><sub>Åland Islands</sub></td>
 </tr>
 <tr>
-<td align="right">28</td>
+<td align="right">34</td>
 <td><a href="https://github.com/Rihizz"><img src="https://avatars.githubusercontent.com/u/113586767?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rihizz"><b>Santeri Riihelä</b></a><br><sub>&#64;Rihizz</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">3</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">29</td>
+<td align="right">35</td>
 <td><a href="https://github.com/eMakerStudio"><img src="https://avatars.githubusercontent.com/u/18331677?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eMakerStudio"><b>Barbara Hohensee</b></a><br><sub>&#64;eMakerStudio</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">61</td>
 <td><sub>Mariehamn, Åland</sub></td>
 </tr>
 <tr>
-<td align="right">30</td>
+<td align="right">36</td>
+<td><a href="https://github.com/mavka1207"><img src="https://avatars.githubusercontent.com/u/199073154?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mavka1207"><b>Kateryna Ovsiienko</b></a><br><sub>&#64;mavka1207</sub></td>
+<td align="right"><b>5</b></td>
+<td align="right">42</td>
+<td><sub>Mariehamn</sub></td>
+</tr>
+<tr>
+<td align="right">37</td>
 <td><a href="https://github.com/xrisc"><img src="https://avatars.githubusercontent.com/u/127022693?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xrisc"><b>Dick Carstens</b></a><br><sub>&#64;xrisc</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">0</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">31</td>
+<td align="right">38</td>
 <td><a href="https://github.com/MiddSea"><img src="https://avatars.githubusercontent.com/u/163017741?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MiddSea"><b>Seán David Middleton</b></a><br><sub>&#64;MiddSea</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">17</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">32</td>
+<td align="right">39</td>
+<td><a href="https://github.com/JerryMalmstrom"><img src="https://avatars.githubusercontent.com/u/22030707?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JerryMalmstrom"><b>Jerry Malmström</b></a><br><sub>&#64;JerryMalmstrom</sub></td>
+<td align="right"><b>3</b></td>
+<td align="right">14</td>
+<td><sub>Ytterby</sub></td>
+</tr>
+<tr>
+<td align="right">40</td>
 <td><a href="https://github.com/khalavak"><img src="https://avatars.githubusercontent.com/u/2081902?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/khalavak"><b>Kim Halavakoski</b></a><br><sub>&#64;khalavak</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">13</td>
 <td><sub>Åland Islands</sub></td>
 </tr>
 <tr>
-<td align="right">33</td>
+<td align="right">41</td>
+<td><a href="https://github.com/Johanils"><img src="https://avatars.githubusercontent.com/u/6584515?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Johanils"><b>Johan Nilsson</b></a><br><sub>&#64;Johanils</sub></td>
+<td align="right"><b>3</b></td>
+<td align="right">4</td>
+<td><sub>Ytterby</sub></td>
+</tr>
+<tr>
+<td align="right">42</td>
 <td><a href="https://github.com/pheimdah"><img src="https://avatars.githubusercontent.com/u/10982192?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pheimdah"><b>Patrik Heimdahl</b></a><br><sub>&#64;pheimdah</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">4</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">34</td>
+<td align="right">43</td>
 <td><a href="https://github.com/antoneJansson"><img src="https://avatars.githubusercontent.com/u/58887863?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/antoneJansson"><b>antoneJansson</b></a><br><sub>&#64;antoneJansson</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">1</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">35</td>
+<td align="right">44</td>
 <td><a href="https://github.com/sbjorkman"><img src="https://avatars.githubusercontent.com/u/119524558?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sbjorkman"><b>Stefanie Björkman</b></a><br><sub>&#64;sbjorkman</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">36</td>
+<td align="right">45</td>
 <td><a href="https://github.com/Madlumi"><img src="https://avatars.githubusercontent.com/u/61489225?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Madlumi"><b>Madanie</b></a><br><sub>&#64;Madlumi</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">37</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">37</td>
+<td align="right">46</td>
+<td><a href="https://github.com/Muamaidbengt"><img src="https://avatars.githubusercontent.com/u/1488395?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Muamaidbengt"><b>Tomas Rosenqvist</b></a><br><sub>&#64;Muamaidbengt</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">18</td>
+<td><sub>Mariehamn</sub></td>
+</tr>
+<tr>
+<td align="right">47</td>
 <td><a href="https://github.com/mattiasmaahl"><img src="https://avatars.githubusercontent.com/u/1370239?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mattiasmaahl"><b>Mattias Måhl</b></a><br><sub>&#64;mattiasmaahl</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">12</td>
 <td><sub>Åland Islands</sub></td>
 </tr>
 <tr>
-<td align="right">38</td>
+<td align="right">48</td>
 <td><a href="https://github.com/pregamer189"><img src="https://avatars.githubusercontent.com/u/144891485?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pregamer189"><b>Elias Blomberg</b></a><br><sub>&#64;pregamer189</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">9</td>
 <td><sub>1 Strandgatan, Mariehamn 22100, Åland Islands</sub></td>
 </tr>
 <tr>
-<td align="right">39</td>
+<td align="right">49</td>
+<td><a href="https://github.com/voestberg"><img src="https://avatars.githubusercontent.com/u/8995886?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/voestberg"><b>Vilhelm Östberg</b></a><br><sub>&#64;voestberg</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">7</td>
+<td><sub>Mariehamn</sub></td>
+</tr>
+<tr>
+<td align="right">50</td>
 <td><a href="https://github.com/wileri"><img src="https://avatars.githubusercontent.com/u/56535999?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wileri"><b>William Eriksson</b></a><br><sub>&#64;wileri</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">3</td>
 <td><sub>Mariehamn, Åland</sub></td>
 </tr>
 <tr>
-<td align="right">40</td>
+<td align="right">51</td>
 <td><a href="https://github.com/OlenaTab"><img src="https://avatars.githubusercontent.com/u/119497887?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OlenaTab"><b>Olena Taburno</b></a><br><sub>&#64;OlenaTab</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">2</td>
 <td><sub>Mariehanm(Åland)</sub></td>
 </tr>
 <tr>
-<td align="right">41</td>
+<td align="right">52</td>
 <td><a href="https://github.com/lokkilok"><img src="https://avatars.githubusercontent.com/u/515862?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lokkilok"><b>Robert Aarts</b></a><br><sub>&#64;lokkilok</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
 <td><sub>Mariehamn, Åland</sub></td>
 </tr>
 <tr>
-<td align="right">42</td>
+<td align="right">53</td>
 <td><a href="https://github.com/AndersGustafsson"><img src="https://avatars.githubusercontent.com/u/7803929?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AndersGustafsson"><b>Anders Gustafsson</b></a><br><sub>&#64;AndersGustafsson</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
 <td><sub>Åland Islands</sub></td>
 </tr>
 <tr>
-<td align="right">43</td>
+<td align="right">54</td>
 <td><a href="https://github.com/AxelWallstromPaf"><img src="https://avatars.githubusercontent.com/u/160499436?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AxelWallstromPaf"><b>Axel Wallström</b></a><br><sub>&#64;AxelWallstromPaf</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">44</td>
+<td align="right">55</td>
 <td><a href="https://github.com/Eervi"><img src="https://avatars.githubusercontent.com/u/26841404?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Eervi"><b>Lasse Muurinen</b></a><br><sub>&#64;Eervi</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
 <td><sub>Åland, Jurmo</sub></td>
 </tr>
 <tr>
-<td align="right">45</td>
+<td align="right">56</td>
 <td><a href="https://github.com/natkimPAF"><img src="https://avatars.githubusercontent.com/u/160499410?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/natkimPAF"><b>Natalia Kim</b></a><br><sub>&#64;natkimPAF</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
 <td><sub>Mariehamn, Åland Islands</sub></td>
 </tr>
 <tr>
-<td align="right">46</td>
+<td align="right">57</td>
 <td><a href="https://github.com/taneli-paf"><img src="https://avatars.githubusercontent.com/u/160502621?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/taneli-paf"><b>Taneli Mäkihannu</b></a><br><sub>&#64;taneli-paf</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
 <td><sub>Mariehamn, Åland Islands</sub></td>
 </tr>
 <tr>
-<td align="right">47</td>
+<td align="right">58</td>
 <td><a href="https://github.com/Masemiliano"><img src="https://avatars.githubusercontent.com/u/66163702?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Masemiliano"><b>Masemiliano</b></a><br><sub>&#64;Masemiliano</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">15</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">48</td>
+<td align="right">59</td>
 <td><a href="https://github.com/Hellstedt"><img src="https://avatars.githubusercontent.com/u/95969086?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hellstedt"><b>Joakim Hellstedt</b></a><br><sub>&#64;Hellstedt</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">5</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">49</td>
+<td align="right">60</td>
+<td><a href="https://github.com/CraisoD"><img src="https://avatars.githubusercontent.com/u/257851031?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CraisoD"><b>Christoffer Dahlström</b></a><br><sub>&#64;CraisoD</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">3</td>
+<td><sub>Mariehamn</sub></td>
+</tr>
+<tr>
+<td align="right">61</td>
 <td><a href="https://github.com/Nomin"><img src="https://avatars.githubusercontent.com/u/3779101?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nomin"><b>Oskar</b></a><br><sub>&#64;Nomin</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">3</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">50</td>
+<td align="right">62</td>
 <td><a href="https://github.com/kejpa"><img src="https://avatars.githubusercontent.com/u/70717865?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kejpa"><b>Kjell Hansen</b></a><br><sub>&#64;kejpa</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Mariehamn, Åland Islands</sub></td>
 </tr>
 <tr>
-<td align="right">51</td>
+<td align="right">63</td>
+<td><a href="https://github.com/QavoviVore6"><img src="https://avatars.githubusercontent.com/u/298406396?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/QavoviVore6"><b>Georgina Ramos</b></a><br><sub>&#64;QavoviVore6</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">2</td>
+<td><sub>Kumlinge</sub></td>
+</tr>
+<tr>
+<td align="right">64</td>
 <td><a href="https://github.com/tommybarden"><img src="https://avatars.githubusercontent.com/u/40164022?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tommybarden"><b>tommybarden</b></a><br><sub>&#64;tommybarden</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Åland Islands</sub></td>
 </tr>
 <tr>
-<td align="right">52</td>
+<td align="right">65</td>
 <td><a href="https://github.com/amwiksten"><img src="https://avatars.githubusercontent.com/u/12544271?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amwiksten"><b>Anna Wiksten</b></a><br><sub>&#64;amwiksten</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">53</td>
+<td align="right">66</td>
 <td><a href="https://github.com/breriksson"><img src="https://avatars.githubusercontent.com/u/92259651?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/breriksson"><b>Broge Eriksson</b></a><br><sub>&#64;breriksson</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">54</td>
+<td align="right">67</td>
 <td><a href="https://github.com/VictorCavalcantiF"><img src="https://avatars.githubusercontent.com/u/160930758?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VictorCavalcantiF"><b>Victor Cavalcanti</b></a><br><sub>&#64;VictorCavalcantiF</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Åland Islands</sub></td>
 </tr>
 <tr>
-<td align="right">55</td>
+<td align="right">68</td>
 <td><a href="https://github.com/georg-tsonoulis"><img src="https://avatars.githubusercontent.com/u/78323886?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/georg-tsonoulis"><b>georg-tsonoulis</b></a><br><sub>&#64;georg-tsonoulis</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Åland Islands</sub></td>
 </tr>
 <tr>
-<td align="right">56</td>
+<td align="right">69</td>
 <td><a href="https://github.com/j-malmlund"><img src="https://avatars.githubusercontent.com/u/78237011?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/j-malmlund"><b>Joachim Malmlund</b></a><br><sub>&#64;j-malmlund</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Åland Islands</sub></td>
 </tr>
 <tr>
-<td align="right">57</td>
+<td align="right">70</td>
 <td><a href="https://github.com/janisjolund"><img src="https://avatars.githubusercontent.com/u/43601151?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/janisjolund"><b>Jani Sjölund</b></a><br><sub>&#64;janisjolund</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Åland Islands</sub></td>
 </tr>
 <tr>
-<td align="right">58</td>
+<td align="right">71</td>
 <td><a href="https://github.com/jesper-stara"><img src="https://avatars.githubusercontent.com/u/120369749?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jesper-stara"><b>Jesper Stara</b></a><br><sub>&#64;jesper-stara</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Geta, Åland</sub></td>
 </tr>
 <tr>
-<td align="right">59</td>
+<td align="right">72</td>
 <td><a href="https://github.com/NiklasGunnarSeverinBerlin"><img src="https://avatars.githubusercontent.com/u/45260542?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NiklasGunnarSeverinBerlin"><b>Niklas Berlin</b></a><br><sub>&#64;NiklasGunnarSeverinBerlin</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">60</td>
+<td align="right">73</td>
 <td><a href="https://github.com/NiklasSoftbreeze"><img src="https://avatars.githubusercontent.com/u/102540952?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NiklasSoftbreeze"><b>Niklas Berlin</b></a><br><sub>&#64;NiklasSoftbreeze</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">61</td>
+<td align="right">74</td>
 <td><a href="https://github.com/robbanenglund"><img src="https://avatars.githubusercontent.com/u/49141889?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/robbanenglund"><b>robert</b></a><br><sub>&#64;robbanenglund</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Åland Islands</sub></td>
 </tr>
 <tr>
-<td align="right">62</td>
+<td align="right">75</td>
 <td><a href="https://github.com/samlindblom"><img src="https://avatars.githubusercontent.com/u/32539240?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/samlindblom"><b>Sam</b></a><br><sub>&#64;samlindblom</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">63</td>
+<td align="right">76</td>
 <td><a href="https://github.com/slind-p"><img src="https://avatars.githubusercontent.com/u/113905379?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/slind-p"><b>Samuel Lindblom</b></a><br><sub>&#64;slind-p</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">64</td>
+<td align="right">77</td>
 <td><a href="https://github.com/Dropkickx86"><img src="https://avatars.githubusercontent.com/u/104004889?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dropkickx86"><b>Emil Stenström</b></a><br><sub>&#64;Dropkickx86</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">7</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">65</td>
+<td align="right">78</td>
 <td><a href="https://github.com/rutinerad"><img src="https://avatars.githubusercontent.com/u/2293981?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rutinerad"><b>Samuel Lindblom</b></a><br><sub>&#64;rutinerad</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">7</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">66</td>
+<td align="right">79</td>
 <td><a href="https://github.com/akulavitoscaletta"><img src="https://avatars.githubusercontent.com/u/183422875?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akulavitoscaletta"><b>akulavitoscaletta</b></a><br><sub>&#64;akulavitoscaletta</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">6</td>
 <td><sub>Åland (AX)</sub></td>
 </tr>
 <tr>
-<td align="right">67</td>
+<td align="right">80</td>
 <td><a href="https://github.com/jitendranagr"><img src="https://avatars.githubusercontent.com/u/10165797?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jitendranagr"><b>jitendra nagar</b></a><br><sub>&#64;jitendranagr</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">6</td>
 <td><sub>Åland Islands</sub></td>
 </tr>
 <tr>
-<td align="right">68</td>
+<td align="right">81</td>
 <td><a href="https://github.com/enderderedmind"><img src="https://avatars.githubusercontent.com/u/183205154?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/enderderedmind"><b>enderderedmind</b></a><br><sub>&#64;enderderedmind</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Åland Islands (AX)</sub></td>
 </tr>
 <tr>
-<td align="right">69</td>
+<td align="right">82</td>
 <td><a href="https://github.com/lemondrdulitl"><img src="https://avatars.githubusercontent.com/u/181564914?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lemondrdulitl"><b>lemondrdulitl</b></a><br><sub>&#64;lemondrdulitl</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Åland Islands (AX)</sub></td>
 </tr>
 <tr>
-<td align="right">70</td>
+<td align="right">83</td>
 <td><a href="https://github.com/mathias-aland"><img src="https://avatars.githubusercontent.com/u/68813621?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mathias-aland"><b>Mathias Nyholm</b></a><br><sub>&#64;mathias-aland</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">71</td>
+<td align="right">84</td>
 <td><a href="https://github.com/pixelspyblackwolf"><img src="https://avatars.githubusercontent.com/u/183292342?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pixelspyblackwolf"><b>pixelspyblackwolf</b></a><br><sub>&#64;pixelspyblackwolf</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Åland (AX)</sub></td>
 </tr>
 <tr>
-<td align="right">72</td>
+<td align="right">85</td>
 <td><a href="https://github.com/stafdannyocean"><img src="https://avatars.githubusercontent.com/u/183166019?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stafdannyocean"><b>stafdannyocean</b></a><br><sub>&#64;stafdannyocean</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Åland (AX)</sub></td>
 </tr>
 <tr>
-<td align="right">73</td>
+<td align="right">86</td>
 <td><a href="https://github.com/osjoholm"><img src="https://avatars.githubusercontent.com/u/26536962?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/osjoholm"><b>Oscar Sjöholm</b></a><br><sub>&#64;osjoholm</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">74</td>
+<td align="right">87</td>
 <td><a href="https://github.com/youngstermrgamefun"><img src="https://avatars.githubusercontent.com/u/183249507?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/youngstermrgamefun"><b>youngstermrgamefun</b></a><br><sub>&#64;youngstermrgamefun</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Åland Islands (AX)</sub></td>
 </tr>
 <tr>
-<td align="right">75</td>
+<td align="right">88</td>
 <td><a href="https://github.com/0xAdlerauge"><img src="https://avatars.githubusercontent.com/u/258333195?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xAdlerauge"><b>0xAdlerauge</b></a><br><sub>&#64;0xAdlerauge</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Åland Islands</sub></td>
 </tr>
 <tr>
-<td align="right">76</td>
+<td align="right">89</td>
 <td><a href="https://github.com/dwertipyqwelcer"><img src="https://avatars.githubusercontent.com/u/183372071?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dwertipyqwelcer"><b>dwertipyqwelcer</b></a><br><sub>&#64;dwertipyqwelcer</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Åland Islands (AX)</sub></td>
 </tr>
 <tr>
-<td align="right">77</td>
+<td align="right">90</td>
 <td><a href="https://github.com/Karlakalle"><img src="https://avatars.githubusercontent.com/u/196786285?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Karlakalle"><b>Karl Fagerholm</b></a><br><sub>&#64;Karlakalle</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">78</td>
+<td align="right">91</td>
+<td><a href="https://github.com/Mariehamn360"><img src="https://avatars.githubusercontent.com/u/119540421?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mariehamn360"><b>dacian sölgen</b></a><br><sub>&#64;Mariehamn360</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Mariehamn</sub></td>
+</tr>
+<tr>
+<td align="right">92</td>
 <td><a href="https://github.com/TestingWithEdd"><img src="https://avatars.githubusercontent.com/u/174048667?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TestingWithEdd"><b>TestingWithEdd</b></a><br><sub>&#64;TestingWithEdd</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">79</td>
+<td align="right">93</td>
 <td><a href="https://github.com/websnabb"><img src="https://avatars.githubusercontent.com/u/176704161?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/websnabb"><b>WebSnabb by Herman</b></a><br><sub>&#64;websnabb</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Åland Islands</sub></td>
 </tr>
 <tr>
-<td align="right">80</td>
+<td align="right">94</td>
 <td><a href="https://github.com/arvinkhanian"><img src="https://avatars.githubusercontent.com/u/89183273?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arvinkhanian"><b>Arvin Khanian</b></a><br><sub>&#64;arvinkhanian</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Mariehamn, Åland Islands</sub></td>
 </tr>
 <tr>
-<td align="right">81</td>
+<td align="right">95</td>
 <td><a href="https://github.com/LittleJewishGirlprocess"><img src="https://avatars.githubusercontent.com/u/154700779?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LittleJewishGirlprocess"><b>LittleJewishGirlprocess</b></a><br><sub>&#64;LittleJewishGirlprocess</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Åland Islands</sub></td>
 </tr>
 <tr>
-<td align="right">82</td>
+<td align="right">96</td>
 <td><a href="https://github.com/MelkerValve"><img src="https://avatars.githubusercontent.com/u/324000143?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MelkerValve"><b>Edsel</b></a><br><sub>&#64;MelkerValve</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">83</td>
+<td align="right">97</td>
 <td><a href="https://github.com/mmahdikheirkhah"><img src="https://avatars.githubusercontent.com/u/298654351?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mmahdikheirkhah"><b>Mahdi kheirkhah</b></a><br><sub>&#64;mmahdikheirkhah</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Mariehamn, Åland Islands</sub></td>
 </tr>
 <tr>
-<td align="right">84</td>
+<td align="right">98</td>
 <td><a href="https://github.com/produceSPROKDEUUUUUVA"><img src="https://avatars.githubusercontent.com/u/154737104?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/produceSPROKDEUUUUUVA"><b>produceSPROKDEUUUUUVA</b></a><br><sub>&#64;produceSPROKDEUUUUUVA</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Åland Islands</sub></td>
 </tr>
 <tr>
-<td align="right">85</td>
+<td align="right">99</td>
 <td><a href="https://github.com/crowxanavsem"><img src="https://avatars.githubusercontent.com/u/184584496?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/crowxanavsem"><b>crowxanavsem</b></a><br><sub>&#64;crowxanavsem</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Åland (AX)</sub></td>
 </tr>
 <tr>
-<td align="right">86</td>
+<td align="right">100</td>
 <td><a href="https://github.com/eramnak"><img src="https://avatars.githubusercontent.com/u/104916061?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eramnak"><b>Martin Andersson</b></a><br><sub>&#64;eramnak</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">87</td>
+<td align="right">101</td>
+<td><a href="https://github.com/Perham-Student"><img src="https://avatars.githubusercontent.com/u/133686954?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Perham-Student"><b>Perham</b></a><br><sub>&#64;Perham-Student</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Mariehamn</sub></td>
+</tr>
+<tr>
+<td align="right">102</td>
 <td><a href="https://github.com/silvervinge"><img src="https://avatars.githubusercontent.com/u/132579598?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/silvervinge"><b>Petra Olausson</b></a><br><sub>&#64;silvervinge</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Mariehamn, Åland</sub></td>
 </tr>
 <tr>
-<td align="right">88</td>
+<td align="right">103</td>
 <td><a href="https://github.com/TheKannabisKannibal"><img src="https://avatars.githubusercontent.com/u/318005507?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TheKannabisKannibal"><b>ra pun</b></a><br><sub>&#64;TheKannabisKannibal</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">89</td>
+<td align="right">104</td>
 <td><a href="https://github.com/CiceronData"><img src="https://avatars.githubusercontent.com/u/250131599?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CiceronData"><b>Ciceron Data AB</b></a><br><sub>&#64;CiceronData</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">90</td>
+<td align="right">105</td>
 <td><a href="https://github.com/cmray"><img src="https://avatars.githubusercontent.com/u/24323708?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cmray"><b>Chris Ray</b></a><br><sub>&#64;cmray</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Åland Islands</sub></td>
 </tr>
 <tr>
-<td align="right">91</td>
+<td align="right">106</td>
 <td><a href="https://github.com/flundberg81"><img src="https://avatars.githubusercontent.com/u/33448061?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/flundberg81"><b>Fredrik Lundberg</b></a><br><sub>&#64;flundberg81</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">92</td>
+<td align="right">107</td>
 <td><a href="https://github.com/GritYassine"><img src="https://avatars.githubusercontent.com/u/324364566?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GritYassine"><b>Yassine Lafkih</b></a><br><sub>&#64;GritYassine</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">93</td>
+<td align="right">108</td>
 <td><a href="https://github.com/Kjell-Faellman"><img src="https://avatars.githubusercontent.com/u/96773053?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kjell-Faellman"><b>Kjell Fällman</b></a><br><sub>&#64;Kjell-Faellman</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">94</td>
+<td align="right">109</td>
 <td><a href="https://github.com/mattsh-cmd"><img src="https://avatars.githubusercontent.com/u/231882269?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mattsh-cmd"><b>Matts Häggblom</b></a><br><sub>&#64;mattsh-cmd</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">95</td>
+<td align="right">110</td>
 <td><a href="https://github.com/nauticaautomarinheaven-max"><img src="https://avatars.githubusercontent.com/u/293417803?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nauticaautomarinheaven-max"><b>Kim Herlin</b></a><br><sub>&#64;nauticaautomarinheaven-max</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Åland</sub></td>
 </tr>
 <tr>
-<td align="right">96</td>
+<td align="right">111</td>
 <td><a href="https://github.com/TerriToniAX"><img src="https://avatars.githubusercontent.com/u/31062064?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TerriToniAX"><b>Toni Brandt</b></a><br><sub>&#64;TerriToniAX</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -701,7 +806,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 96 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 111 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 4 of 33 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

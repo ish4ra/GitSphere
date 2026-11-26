@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/contributors/IT.json">JSON</a> |
+| 🟡 Provisional | **17** | 22 Nov 2026 | <a href="../../data/contributors/IT.json">JSON</a> |
 
 </div>
 
@@ -115,6 +115,15 @@
 </tr>
 <tr>
 <td align="right">11</td>
+<td><a href="https://github.com/MaSTERmIKK"><img src="https://avatars.githubusercontent.com/u/82829377?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MaSTERmIKK"><b>Mirko Campari</b></a><br><sub>&#64;MaSTERmIKK · 155 followers</sub></td>
+<td align="right"><b>668</b></td>
+<td align="right">568</td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">12</td>
 <td><a href="https://github.com/irvelervel"><img src="https://avatars.githubusercontent.com/u/25089405?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/irvelervel"><b>Stefano Casasola</b></a><br><sub>&#64;irvelervel · 300 followers</sub></td>
 <td align="right"><b>467</b></td>
 <td align="right">318</td>
@@ -123,7 +132,7 @@
 <td align="right">25</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/kandros"><img src="https://avatars.githubusercontent.com/u/4562878?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kandros"><b>Jaga Santagostino</b></a><br><sub>&#64;kandros · 232 followers</sub></td>
 <td align="right"><b>115</b></td>
 <td align="right">66</td>
@@ -132,7 +141,7 @@
 <td align="right">18</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/lgs"><img src="https://avatars.githubusercontent.com/u/1573?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lgs"><b>Luca G. Soave</b></a><br><sub>&#64;lgs · 303 followers</sub></td>
 <td align="right"><b>95</b></td>
 <td align="right">1</td>
@@ -141,8 +150,8 @@
 <td align="right">6</td>
 </tr>
 <tr>
-<td align="right">14</td>
-<td><a href="https://github.com/loretoparisi"><img src="https://avatars.githubusercontent.com/u/163333?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/loretoparisi"><b>Loreto Parisi</b></a><br><sub>&#64;loretoparisi · 475 followers</sub></td>
+<td align="right">15</td>
+<td><a href="https://github.com/loretoparisi"><img src="https://avatars.githubusercontent.com/u/163333?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/loretoparisi"><b>Loreto Parisi</b></a><br><sub>&#64;loretoparisi · 476 followers</sub></td>
 <td align="right"><b>50</b></td>
 <td align="right">27</td>
 <td align="right">0</td>
@@ -150,7 +159,16 @@
 <td align="right">9</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
+<td><a href="https://github.com/StefanoMiC"><img src="https://avatars.githubusercontent.com/u/26657904?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/StefanoMiC"><b>Stefano Miceli</b></a><br><sub>&#64;StefanoMiC · 160 followers</sub></td>
+<td align="right"><b>23</b></td>
+<td align="right">13</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">17</td>
 <td><a href="https://github.com/Magicianred"><img src="https://avatars.githubusercontent.com/u/4624113?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Magicianred"><b>Simone Paolucci</b></a><br><sub>&#64;Magicianred · 5,810 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">4</td>
@@ -165,7 +183,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 15 of 1,165 discovered developers (1,150 awaiting measurement).
+- **Measured:** 17 of 1,225 discovered developers (1,208 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 171 in round 1.

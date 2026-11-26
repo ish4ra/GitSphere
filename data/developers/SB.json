@@ -12,7 +12,7 @@
   {"rank":3,"id":"MDQ6VXNlcjM2MzUzMDIz","login":"b-tupiti","name":"Brandon Ryan Tupiti","url":"https://github.com/b-tupiti","avatarUrl":"https://avatars.githubusercontent.com/u/36353023?s=80&v=4","followers":13,"publicRepos":12,"location":"Honiara, Solomon Islands","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-26"},
   {"rank":4,"id":"MDQ6VXNlcjQ0NzM1MDU=","login":"bryanrscott","name":"Bryan","url":"https://github.com/bryanrscott","avatarUrl":"https://avatars.githubusercontent.com/u/4473505?s=80&v=4","followers":13,"publicRepos":5,"location":"Honiara","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-25"},
   {"rank":5,"id":"U_kgDOBmMXhw","login":"fdd-eiu","name":null,"url":"https://github.com/fdd-eiu","avatarUrl":"https://avatars.githubusercontent.com/u/107157383?s=80&v=4","followers":9,"publicRepos":7,"location":"Honiara","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-25"},
-  {"rank":6,"id":"U_kgDOCGccJw","login":"h-a-s-k","name":"Hask","url":"https://github.com/h-a-s-k","avatarUrl":"https://avatars.githubusercontent.com/u/140975143?s=80&v=4","followers":6,"publicRepos":11,"location":"Solomon Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":6,"id":"U_kgDOCGccJw","login":"h-a-s-k","name":"Hask","url":"https://github.com/h-a-s-k","avatarUrl":"https://avatars.githubusercontent.com/u/140975143?s=80&v=4","followers":6,"publicRepos":11,"location":"Solomon Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":7,"id":"U_kgDODO1_3A","login":"Killcode-tech","name":"Killcode_DK","url":"https://github.com/Killcode-tech","avatarUrl":"https://avatars.githubusercontent.com/u/216891356?s=80&v=4","followers":5,"publicRepos":7,"location":"Solomon islands 🇸🇧","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":8,"id":"MDQ6VXNlcjY2NzA5MzA2","login":"M4573RLYNX","name":"Geolynx Saemane","url":"https://github.com/M4573RLYNX","avatarUrl":"https://avatars.githubusercontent.com/u/66709306?s=80&v=4","followers":4,"publicRepos":14,"location":"Solomon Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":9,"id":"MDQ6VXNlcjc1Mjc2MDc=","login":"mangiBr","name":"Brian Mangi","url":"https://github.com/mangiBr","avatarUrl":"https://avatars.githubusercontent.com/u/7527607?s=80&v=4","followers":3,"publicRepos":11,"location":"Honiara, Solomon Islands","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
@@ -83,8 +83,8 @@
   {"rank":74,"id":"U_kgDOBuURCQ","login":"S11217949","name":"Clerabate","url":"https://github.com/S11217949","avatarUrl":"https://avatars.githubusercontent.com/u/115675401?s=80&v=4","followers":0,"publicRepos":0,"location":"Solomon Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":75,"id":"MDQ6VXNlcjc1NjU4NTA1","login":"tokenteamhub","name":"Token","url":"https://github.com/tokenteamhub","avatarUrl":"https://avatars.githubusercontent.com/u/75658505?s=80&v=4","followers":0,"publicRepos":0,"location":"Solomon Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "a2fc27a7edb87c22",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "8618d21a3e782114",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

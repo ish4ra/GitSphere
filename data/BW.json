@@ -5,7 +5,7 @@
 "country": {"code":"BW","name":"Botswana","slug":"botswana"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":83,"ownerExpansionBacklog":148,"candidates":84,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":118,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":83,"ownerExpansionBacklog":146,"candidates":84,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":118,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOQ9w05Q","name":"shimmer-from-structure","nameWithOwner":"darula-hpp/shimmer-from-structure","url":"https://github.com/darula-hpp/shimmer-from-structure","description":"A structure-aware skeleton loader that mirrors your rendered UI at runtime. Zero layout duplication. Built for modern frameworks.","stars":1136,"forks":20,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2026-01-20T18:59:27Z","pushedAt":"2026-10-04T19:57:33Z","archived":false,"owner":{"login":"darula-hpp","name":"Olebogeng Mbedzi","type":"User","url":"https://github.com/darula-hpp","location":"Gaborone","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":null,"name":"Whatsapp-Xtract","nameWithOwner":"Nqabeni/Whatsapp-Xtract","url":"https://github.com/Nqabeni/Whatsapp-Xtract","description":null,"stars":1,"forks":15,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2017-05-21T13:25:23Z","pushedAt":"2014-07-03T21:25:50Z","archived":false,"owner":{"login":"Nqabeni","name":"Noel Simela","type":"User","url":"https://github.com/Nqabeni","location":"Botswana","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -92,8 +92,8 @@
   {"rank":83,"id":null,"name":"solarcar","nameWithOwner":"quantamc/solarcar","url":"https://github.com/quantamc/solarcar","description":null,"stars":1,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2019-11-20T06:23:26Z","pushedAt":"2019-11-20T06:30:06Z","archived":false,"owner":{"login":"quantamc","name":"Thabo Malete","type":"User","url":"https://github.com/quantamc","location":"Gaborone, Botswana Africa","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":84,"id":null,"name":"birthday-maze-lefika","nameWithOwner":"ratocodes/birthday-maze-lefika","url":"https://github.com/ratocodes/birthday-maze-lefika","description":null,"stars":1,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2025-06-28T00:51:49Z","pushedAt":"2025-06-28T00:59:07Z","archived":false,"owner":{"login":"ratocodes","name":null,"type":"User","url":"https://github.com/ratocodes","location":"Gaborone, Botswana","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "9c573f9512ac4c07",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "1955ba9ae607ea62",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-04",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

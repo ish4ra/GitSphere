@@ -5,7 +5,7 @@
 "country": {"code":"HN","name":"Honduras","slug":"honduras"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":51,"ownerExpansionBacklog":142,"candidates":53,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":111,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":51,"ownerExpansionBacklog":137,"candidates":53,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":111,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOIgA-pQ","name":"rippleui","nameWithOwner":"Siumauricio/rippleui","url":"https://github.com/Siumauricio/rippleui","description":"Clean, modern and beautiful Tailwind CSS components.","stars":1040,"forks":44,"primaryLanguage":"CSS","license":{"spdxId":"MIT"},"createdAt":"2022-11-25T07:44:26Z","pushedAt":"2023-07-30T22:44:49Z","archived":false,"owner":{"login":"Siumauricio","name":"Mauricio Siu","type":"User","url":"https://github.com/Siumauricio","location":"Honduras, San Pedro Sula","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":"R_kgDOIBwLxA","name":"nextui-dashboard-template","nameWithOwner":"Siumauricio/nextui-dashboard-template","url":"https://github.com/Siumauricio/nextui-dashboard-template","description":"Dashboard starter using NextUI V2 and Nextjs.","stars":820,"forks":163,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2022-09-19T21:48:54Z","pushedAt":"2024-08-05T16:18:13Z","archived":false,"owner":{"login":"Siumauricio","name":"Mauricio Siu","type":"User","url":"https://github.com/Siumauricio","location":"Honduras, San Pedro Sula","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-24"},
@@ -61,8 +61,8 @@
   {"rank":52,"id":null,"name":"final_project","nameWithOwner":"CJRiverFlow/final_project","url":"https://github.com/CJRiverFlow/final_project","description":null,"stars":1,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2020-06-09T15:57:20Z","pushedAt":"2022-11-22T05:00:49Z","archived":false,"owner":{"login":"CJRiverFlow","name":"Christian Rivera","type":"User","url":"https://github.com/CJRiverFlow","location":"San Pedro Sula, Honduras","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":53,"id":null,"name":"DA_The_Shape_of_Data_WiDSHN_Workshop","nameWithOwner":"claumart/DA_The_Shape_of_Data_WiDSHN_Workshop","url":"https://github.com/claumart/DA_The_Shape_of_Data_WiDSHN_Workshop","description":null,"stars":1,"forks":0,"primaryLanguage":"Jupyter Notebook","license":null,"createdAt":"2024-08-04T01:26:40Z","pushedAt":"2024-08-17T14:47:10Z","archived":false,"owner":{"login":"claumart","name":"Shirley Claudette Martinez Cerrato","type":"User","url":"https://github.com/claumart","location":"Tegucigalpa, Honduras","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "63d95cbc3a9451e9",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "4fce0032ddcb888a",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

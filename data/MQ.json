@@ -5,7 +5,7 @@
 "country": {"code":"MQ","name":"Martinique","slug":"martinique"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":99,"ownerExpansionBacklog":126,"candidates":105,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":23,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":99,"ownerExpansionBacklog":125,"candidates":105,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":23,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOUFiidg","name":"qwen3.8-Flash-DGX","nameWithOwner":"blazux/qwen3.8-Flash-DGX","url":"https://github.com/blazux/qwen3.8-Flash-DGX","description":"recipe for running Qwen3.8-Flash-Next on a single DGX Spark","stars":547,"forks":77,"primaryLanguage":"Python","license":{"spdxId":"NOASSERTION"},"createdAt":"2026-08-27T02:29:15Z","pushedAt":"2026-11-16T01:39:30Z","archived":false,"owner":{"login":"blazux","name":"Vincent B.","type":"User","url":"https://github.com/blazux","location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":null,"name":"cours","nameWithOwner":"barbaracoding/cours","url":"https://github.com/barbaracoding/cours","description":null,"stars":1,"forks":1,"primaryLanguage":"Python","license":null,"createdAt":"2019-08-18T14:43:17Z","pushedAt":"2019-08-18T14:44:03Z","archived":false,"owner":{"login":"barbaracoding","name":"Barbara","type":"User","url":"https://github.com/barbaracoding","location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"VINCENTSabrinaKelly","nameWithOwner":"VINCENTSabrinaKelly/VINCENTSabrinaKelly","url":"https://github.com/VINCENTSabrinaKelly/VINCENTSabrinaKelly","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2021-07-11T13:10:14Z","pushedAt":"2021-07-11T13:14:48Z","archived":false,"owner":{"login":"VINCENTSabrinaKelly","name":"VINCENT Sabrina Kelly","type":"User","url":"https://github.com/VINCENTSabrinaKelly","location":"Schoelcher,MARTINIQUE","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"bot","nameWithOwner":"WilliamMSL/bot","url":"https://github.com/WilliamMSL/bot","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-07-30T20:54:39Z","pushedAt":"2026-07-30T20:54:40Z","archived":false,"owner":{"login":"WilliamMSL","name":null,"type":"User","url":"https://github.com/WilliamMSL","location":"Martinique","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "07433ad834a5bbf9",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "def0139025978474",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

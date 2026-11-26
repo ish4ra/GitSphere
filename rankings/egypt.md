@@ -164,15 +164,15 @@
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/D4Vinci.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/D4Vinci/Cr3dOv3r"><b>D4Vinci/Cr3dOv3r</b></a><br><sub>Know the dangers of credential reuse attacks.</sub></td>
-<td align="right"><b>2,169</b></td>
+<td align="right"><b>2,171</b></td>
 <td align="right">410</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">22</td>
 <td><img src="https://github.com/abanoub-asaad.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abanoub-asaad/Java-Backend"><b>abanoub-asaad/Java-Backend</b></a><br><sub>These are resources, roadmaps, links to learn Java Backend :)</sub></td>
-<td align="right"><b>2,161</b></td>
-<td align="right">305</td>
+<td align="right"><b>2,171</b></td>
+<td align="right">307</td>
 <td>—</td>
 </tr>
 <tr>
@@ -186,28 +186,28 @@
 <td align="right">24</td>
 <td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/once-for-all"><b>mit-han-lab/once-for-all</b></a><br><sub>&#91;ICLR 2020&#93; Once for All: Train One Network and Specialize it for Efficient Deployment</sub></td>
 <td align="right"><b>1,956</b></td>
-<td align="right">345</td>
+<td align="right">344</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">25</td>
 <td><img src="https://github.com/gaitco.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gaitco/quran-database"><b>gaitco/quran-database</b></a><br><sub>A complete, structured Quran database — verses, translations and metadata, free for any project.</sub></td>
-<td align="right"><b>1,950</b></td>
+<td align="right"><b>1,952</b></td>
 <td align="right">336</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">26</td>
 <td><img src="https://github.com/ahegazy0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ahegazy0/linux-basics-for-hackers-notes"><b>ahegazy0/linux-basics-for-hackers-notes</b></a><br><sub>A structured course built from personal study notes of the book Linux Basics for Hackers by OccupyTheWeb.</sub></td>
-<td align="right"><b>1,935</b></td>
-<td align="right">169</td>
+<td align="right"><b>1,937</b></td>
+<td align="right">168</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">27</td>
 <td><img src="https://github.com/Abdelrhman-AK.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Abdelrhman-AK/WinPaletter"><b>Abdelrhman-AK/WinPaletter</b></a><br><sub>Advanced Windows Appearance Editor</sub></td>
-<td align="right"><b>1,924</b></td>
-<td align="right">72</td>
+<td align="right"><b>1,928</b></td>
+<td align="right">70</td>
 <td>C#</td>
 </tr>
 <tr>
@@ -227,14 +227,14 @@
 <tr>
 <td align="right">30</td>
 <td><img src="https://github.com/mit-cml.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-cml/appinventor-sources"><b>mit-cml/appinventor-sources</b></a><br><sub>MIT App Inventor Public Open Source</sub></td>
-<td align="right"><b>1,758</b></td>
-<td align="right">2,351</td>
+<td align="right"><b>1,759</b></td>
+<td align="right">2,355</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">31</td>
 <td><img src="https://github.com/mit-han-lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mit-han-lab/smoothquant"><b>mit-han-lab/smoothquant</b></a><br><sub>&#91;ICML 2023&#93; SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models</sub></td>
-<td align="right"><b>1,706</b></td>
+<td align="right"><b>1,707</b></td>
 <td align="right">207</td>
 <td>Python</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 585 stars; 142 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 585 stars; 149 attributed candidates are tracked.
 - 120 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 153 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

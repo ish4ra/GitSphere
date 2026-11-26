@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 23 Nov 2026 | <a href="../data/ME.json">JSON</a> |
+| 🟡 Provisional | **11** | 24 Nov 2026 | <a href="../data/ME.json">JSON</a> |
 
 </div>
 
@@ -39,7 +39,7 @@
 <td align="right">3</td>
 <td><img src="https://github.com/dchest.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dchest/tweetnacl-js"><b>dchest/tweetnacl-js</b></a><br><sub>Port of TweetNaCl cryptographic library to JavaScript</sub></td>
 <td align="right"><b>1,923</b></td>
-<td align="right">296</td>
+<td align="right">295</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -91,6 +91,13 @@
 <td align="right">40</td>
 <td>Go</td>
 </tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/olegkoval.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/olegkoval/magento2-regenerate_url_rewrites"><b>olegkoval/magento2-regenerate&#95;url&#95;rewrites</b></a><br><sub>Magento 2 extension which add feature of regenerating a url rewrites of products/categories</sub></td>
+<td align="right"><b>443</b></td>
+<td align="right">124</td>
+<td>PHP</td>
+</tr>
 </tbody>
 </table>
 
@@ -99,8 +106,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 459 stars; 10 attributed candidates are tracked.
-- 99 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 443 stars; 11 attributed candidates are tracked.
+- 88 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 44 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

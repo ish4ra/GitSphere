@@ -5,7 +5,7 @@
 "country": {"code":"SC","name":"Seychelles","slug":"seychelles"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":193,"measuredAccounts":14,"measurementBacklog":179,"window":{"from":"2025-11-26T00:00:00Z","to":"2026-11-26T00:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":39,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":193,"measuredAccounts":15,"measurementBacklog":178,"window":{"from":"2025-11-26T00:00:00Z","to":"2026-11-26T00:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":39,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDODPTAsw","login":"chairmanoftheboardeg","name":"Tyler Nicholas","url":"https://github.com/chairmanoftheboardeg","avatarUrl":"https://avatars.githubusercontent.com/u/217366707?s=80&v=4","followers":0,"publicRepos":29,"location":"Victoria, Seychelles","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-26","contributions":{"public":1833,"commits":1810,"pullRequests":0,"reviews":0,"issues":0,"repositories":23,"windowFrom":"2025-11-26T00:00:00Z","windowTo":"2026-11-26T00:00:00Z","measuredOn":"2026-11-26"}},
   {"rank":2,"id":"MDQ6VXNlcjcwNjEwOTU4","login":"SeychellesDev","name":"Seychelles","url":"https://github.com/SeychellesDev","avatarUrl":"https://avatars.githubusercontent.com/u/70610958?s=80&v=4","followers":8,"publicRepos":30,"location":"seychelles","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25","contributions":{"public":342,"commits":339,"pullRequests":1,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-25T04:00:00Z","windowTo":"2026-11-25T04:00:00Z","measuredOn":"2026-11-25"}},
@@ -18,8 +18,8 @@
   {"rank":9,"id":"MDQ6VXNlcjg3NTYyNTgz","login":"AnonymousGhost-SC","name":"Adrian Noel","url":"https://github.com/AnonymousGhost-SC","avatarUrl":"https://avatars.githubusercontent.com/u/87562583?s=80&v=4","followers":8,"publicRepos":7,"location":"Seychelles","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":6,"commits":5,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":10,"id":"MDQ6VXNlcjc2ODkwMDA=","login":"finessed","name":"Delroy Finesse","url":"https://github.com/finessed","avatarUrl":"https://avatars.githubusercontent.com/u/7689000?s=80&v=4","followers":1,"publicRepos":59,"location":"Seychelles","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":3,"commits":0,"pullRequests":1,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "023f1fb88e07864c",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "2ac9b6d0f252d321",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

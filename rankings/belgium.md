@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/BE.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/BE.json">JSON</a> |
 
 </div>
 
@@ -499,57 +499,57 @@
 </tr>
 <tr>
 <td align="right">69</td>
-<td><img src="https://github.com/spatie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spatie/data-transfer-object"><b>spatie/data-transfer-object</b></a> <sub>archived</sub><br><sub>Data transfer objects with batteries included</sub></td>
-<td align="right"><b>2,220</b></td>
-<td align="right">187</td>
+<td><img src="https://github.com/dreeveapp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dreeveapp/dreeve"><b>dreeveapp/dreeve</b></a><br><sub>Dreeve is a self-hosted, open-source dashboard for your sports and fitness data</sub></td>
+<td align="right"><b>2,224</b></td>
+<td align="right">150</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">70</td>
-<td><img src="https://github.com/dreeveapp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dreeveapp/dreeve"><b>dreeveapp/dreeve</b></a><br><sub>Dreeve is a self-hosted, open-source dashboard for your sports and fitness data</sub></td>
-<td align="right"><b>2,220</b></td>
-<td align="right">147</td>
+<td><img src="https://github.com/spatie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spatie/data-transfer-object"><b>spatie/data-transfer-object</b></a> <sub>archived</sub><br><sub>Data transfer objects with batteries included</sub></td>
+<td align="right"><b>2,217</b></td>
+<td align="right">188</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">71</td>
 <td><img src="https://github.com/scambier.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/scambier/obsidian-omnisearch"><b>scambier/obsidian-omnisearch</b></a><br><sub>A search engine that &quot;just works&quot; for Obsidian.</sub></td>
-<td align="right"><b>2,201</b></td>
-<td align="right">122</td>
+<td align="right"><b>2,204</b></td>
+<td align="right">123</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">72</td>
 <td><img src="https://github.com/JorenSix.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JorenSix/TarsosDSP"><b>JorenSix/TarsosDSP</b></a><br><sub>A Real-Time Audio Processing Framework in Java</sub></td>
-<td align="right"><b>2,193</b></td>
+<td align="right"><b>2,194</b></td>
 <td align="right">494</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">73</td>
 <td><img src="https://github.com/folke.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/folke/zen-mode.nvim"><b>folke/zen-mode.nvim</b></a><br><sub>🧘 Distraction-free coding for Neovim</sub></td>
-<td align="right"><b>2,166</b></td>
+<td align="right"><b>2,165</b></td>
 <td align="right">77</td>
 <td>Lua</td>
 </tr>
 <tr>
 <td align="right">74</td>
 <td><img src="https://github.com/probberechts.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/probberechts/soccerdata"><b>probberechts/soccerdata</b></a><br><sub>⛏⚽ Scrape soccer data from Club Elo, ESPN, FBref, Football-Data.co.uk, Sofascore, SoFIFA, Understat and WhoScored.</sub></td>
-<td align="right"><b>2,149</b></td>
+<td align="right"><b>2,148</b></td>
 <td align="right">334</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">75</td>
 <td><img src="https://github.com/nicoverbruggen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nicoverbruggen/libron"><b>nicoverbruggen/libron</b></a><br><sub>A manually tuned font revision of Readerly, with reduced and altered serifs, optimized for digital reading and e-reader…</sub></td>
-<td align="right"><b>2,088</b></td>
+<td align="right"><b>2,095</b></td>
 <td align="right">22</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">76</td>
 <td><img src="https://github.com/francoismassart.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/francoismassart/eslint-plugin-tailwindcss"><b>francoismassart/eslint-plugin-tailwindcss</b></a><br><sub>ESLint plugin for Tailwind CSS usage</sub></td>
-<td align="right"><b>2,072</b></td>
+<td align="right"><b>2,071</b></td>
 <td align="right">117</td>
 <td>TypeScript</td>
 </tr>
@@ -577,7 +577,7 @@
 <tr>
 <td align="right">80</td>
 <td><img src="https://github.com/gotcha.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gotcha/ipdb"><b>gotcha/ipdb</b></a><br><sub>Integration of IPython pdb</sub></td>
-<td align="right"><b>1,974</b></td>
+<td align="right"><b>1,973</b></td>
 <td align="right">153</td>
 <td>Python</td>
 </tr>
@@ -605,43 +605,43 @@
 <tr>
 <td align="right">84</td>
 <td><img src="https://github.com/AikidoSec.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AikidoSec/safe-chain"><b>AikidoSec/safe-chain</b></a><br><sub>Protect against malicious code installed via npm, yarn, pnpm, npx, pnpx, pip, uv and poetry with Aikido Safe Chain. Fre…</sub></td>
-<td align="right"><b>1,920</b></td>
-<td align="right">127</td>
+<td align="right"><b>1,930</b></td>
+<td align="right">126</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">85</td>
 <td><img src="https://github.com/sleeyax.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sleeyax/burp-awesome-tls"><b>sleeyax/burp-awesome-tls</b></a><br><sub>Burp extension to evade TLS fingerprinting. Bypass WAF, spoof any browser.</sub></td>
-<td align="right"><b>1,918</b></td>
+<td align="right"><b>1,920</b></td>
 <td align="right">120</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">86</td>
 <td><img src="https://github.com/spatie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spatie/laravel-collection-macros"><b>spatie/laravel-collection-macros</b></a><br><sub>A set of useful Laravel collection macros</sub></td>
-<td align="right"><b>1,915</b></td>
+<td align="right"><b>1,914</b></td>
 <td align="right">142</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">87</td>
 <td><img src="https://github.com/spatie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spatie/laravel-fractal"><b>spatie/laravel-fractal</b></a><br><sub>An easy to use Fractal wrapper built for Laravel and Lumen applications</sub></td>
-<td align="right"><b>1,902</b></td>
+<td align="right"><b>1,900</b></td>
 <td align="right">182</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">88</td>
 <td><img src="https://github.com/corelan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/corelan/mona"><b>corelan/mona</b></a> <sub>archived</sub><br><sub>Corelan Repository for mona.py</sub></td>
-<td align="right"><b>1,896</b></td>
+<td align="right"><b>1,897</b></td>
 <td align="right">603</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">89</td>
 <td><img src="https://github.com/TimefoldAI.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TimefoldAI/timefold-solver"><b>TimefoldAI/timefold-solver</b></a><br><sub>The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, em…</sub></td>
-<td align="right"><b>1,879</b></td>
-<td align="right">244</td>
+<td align="right"><b>1,881</b></td>
+<td align="right">245</td>
 <td>Java</td>
 </tr>
 <tr>
@@ -653,24 +653,24 @@
 </tr>
 <tr>
 <td align="right">91</td>
-<td><img src="https://github.com/emweb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/emweb/wt"><b>emweb/wt</b></a><br><sub>Wt, C++ Web Toolkit</sub></td>
-<td align="right"><b>1,858</b></td>
-<td align="right">391</td>
-<td>C</td>
+<td><img src="https://github.com/kubb-labs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kubb-labs/kubb"><b>kubb-labs/kubb</b></a><br><sub>🧡 Turn your API spec into type-safe code. Generate TypeScript types, API clients, hooks, validators and mocks from a s…</sub></td>
+<td align="right"><b>1,860</b></td>
+<td align="right">152</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">92</td>
+<td><img src="https://github.com/emweb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/emweb/wt"><b>emweb/wt</b></a><br><sub>Wt, C++ Web Toolkit</sub></td>
+<td align="right"><b>1,858</b></td>
+<td align="right">392</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">93</td>
 <td><img src="https://github.com/thygate.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thygate/stable-diffusion-webui-depthmap-script"><b>thygate/stable-diffusion-webui-depthmap-script</b></a><br><sub>High Resolution Depth Maps for Stable Diffusion WebUI</sub></td>
 <td align="right"><b>1,856</b></td>
 <td align="right">161</td>
 <td>Python</td>
-</tr>
-<tr>
-<td align="right">93</td>
-<td><img src="https://github.com/kubb-labs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kubb-labs/kubb"><b>kubb-labs/kubb</b></a><br><sub>🧡 Turn your API spec into type-safe code. Generate TypeScript types, API clients, hooks, validators and mocks from a s…</sub></td>
-<td align="right"><b>1,853</b></td>
-<td align="right">152</td>
-<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">94</td>
@@ -689,7 +689,7 @@
 <tr>
 <td align="right">96</td>
 <td><img src="https://github.com/jenssegers.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jenssegers/date"><b>jenssegers/date</b></a><br><sub>🗓 A library to help you work with dates in multiple languages, based on Carbon.</sub></td>
-<td align="right"><b>1,795</b></td>
+<td align="right"><b>1,794</b></td>
 <td align="right">250</td>
 <td>PHP</td>
 </tr>
@@ -703,8 +703,8 @@
 <tr>
 <td align="right">98</td>
 <td><img src="https://github.com/Savjee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Savjee/SavjeeCoin"><b>Savjee/SavjeeCoin</b></a><br><sub>A simple blockchain in Javascript. For educational purposes only.</sub></td>
-<td align="right"><b>1,772</b></td>
-<td align="right">735</td>
+<td align="right"><b>1,773</b></td>
+<td align="right">734</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -717,7 +717,7 @@
 <tr>
 <td align="right">100</td>
 <td><img src="https://github.com/spatie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spatie/laravel-tags"><b>spatie/laravel-tags</b></a><br><sub>Add tags and taggable behaviour to your Laravel app</sub></td>
-<td align="right"><b>1,748</b></td>
+<td align="right"><b>1,746</b></td>
 <td align="right">283</td>
 <td>PHP</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 1,748 stars; 150 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 1,746 stars; 150 attributed candidates are tracked.
 - 136 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 151 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

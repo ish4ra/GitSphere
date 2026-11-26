@@ -178,7 +178,7 @@
 <tr>
 <td align="right">23</td>
 <td><img src="https://github.com/alitto.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alitto/pond"><b>alitto/pond</b></a><br><sub>🔘 Minimalistic and High-performance goroutine worker pool written in Go</sub></td>
-<td align="right"><b>2,204</b></td>
+<td align="right"><b>2,202</b></td>
 <td align="right">95</td>
 <td>Go</td>
 </tr>
@@ -192,21 +192,21 @@
 <tr>
 <td align="right">25</td>
 <td><img src="https://github.com/snowarch.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/snowarch/iNiR"><b>snowarch/iNiR</b></a><br><sub>// A Shell // now with less bloat and more stuff!</sub></td>
-<td align="right"><b>1,988</b></td>
+<td align="right"><b>1,993</b></td>
 <td align="right">117</td>
 <td>QML</td>
 </tr>
 <tr>
 <td align="right">26</td>
 <td><img src="https://github.com/Axenide.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Axenide/Ambxst"><b>Axenide/Ambxst</b></a><br><sub>An Axtremely customizable shell.</sub></td>
-<td align="right"><b>1,898</b></td>
+<td align="right"><b>1,900</b></td>
 <td align="right">129</td>
 <td>QML</td>
 </tr>
 <tr>
 <td align="right">27</td>
 <td><img src="https://github.com/seppo0010.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/seppo0010/rsedis"><b>seppo0010/rsedis</b></a><br><sub>Redis re-implemented in Rust.</sub></td>
-<td align="right"><b>1,808</b></td>
+<td align="right"><b>1,809</b></td>
 <td align="right">116</td>
 <td>Rust</td>
 </tr>
@@ -220,7 +220,7 @@
 <tr>
 <td align="right">29</td>
 <td><img src="https://github.com/cosme12.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cosme12/SimpleCoin"><b>cosme12/SimpleCoin</b></a><br><sub>Just a really simple, insecure and incomplete implementation of a blockchain for a cryptocurrency made in Python as edu…</sub></td>
-<td align="right"><b>1,782</b></td>
+<td align="right"><b>1,781</b></td>
 <td align="right">388</td>
 <td>Python</td>
 </tr>
@@ -235,7 +235,7 @@
 <td align="right">31</td>
 <td><img src="https://github.com/SpartanJ.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SpartanJ/ecode"><b>SpartanJ/ecode</b></a><br><sub>Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance.</sub></td>
 <td align="right"><b>1,708</b></td>
-<td align="right">31</td>
+<td align="right">32</td>
 <td>Lua</td>
 </tr>
 <tr>
@@ -248,35 +248,35 @@
 <tr>
 <td align="right">33</td>
 <td><img src="https://github.com/linuxmobile.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/linuxmobile/hyprland-dots"><b>linuxmobile/hyprland-dots</b></a> <sub>archived</sub><br><sub>A soft-spoken desktop environment. Harmonizing Hyprland’s logic with a gentle, minimalist aesthetic.</sub></td>
-<td align="right"><b>1,696</b></td>
+<td align="right"><b>1,698</b></td>
 <td align="right">86</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">34</td>
 <td><img src="https://github.com/facundoolano.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/facundoolano/rpg-cli"><b>facundoolano/rpg-cli</b></a><br><sub>Your filesystem as a dungeon!</sub></td>
-<td align="right"><b>1,678</b></td>
+<td align="right"><b>1,679</b></td>
 <td align="right">41</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">35</td>
 <td><img src="https://github.com/chinoogawa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chinoogawa/fbht"><b>chinoogawa/fbht</b></a><br><sub>Facebook Hacking Tool</sub></td>
-<td align="right"><b>1,637</b></td>
+<td align="right"><b>1,638</b></td>
 <td align="right">496</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">36</td>
 <td><img src="https://github.com/neitanod.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neitanod/forceutf8"><b>neitanod/forceutf8</b></a><br><sub>PHP Class Encoding featuring popular Encoding::toUTF8() function --formerly known as forceUTF8()-- that fixes mixed enc…</sub></td>
-<td align="right"><b>1,629</b></td>
+<td align="right"><b>1,627</b></td>
 <td align="right">353</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">37</td>
 <td><img src="https://github.com/bevacqua.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bevacqua/woofmark"><b>bevacqua/woofmark</b></a><br><sub>:dog2: Barking up the DOM tree. A modular, progressive, and beautiful Markdown and HTML editor</sub></td>
-<td align="right"><b>1,625</b></td>
+<td align="right"><b>1,624</b></td>
 <td align="right">64</td>
 <td>JavaScript</td>
 </tr>
@@ -284,7 +284,7 @@
 <td align="right">38</td>
 <td><img src="https://github.com/jknack.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jknack/handlebars.java"><b>jknack/handlebars.java</b></a><br><sub>Logic-less and semantic Mustache templates with Java</sub></td>
 <td align="right"><b>1,564</b></td>
-<td align="right">400</td>
+<td align="right">402</td>
 <td>Java</td>
 </tr>
 <tr>

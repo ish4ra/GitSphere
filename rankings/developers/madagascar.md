@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **399** | 22 Nov 2026 | <a href="../../data/developers/MG.json">JSON</a> |
+| 🟡 Provisional | **400** | 22 Nov 2026 | <a href="../../data/developers/MG.json">JSON</a> |
 
 </div>
 
@@ -2753,62 +2753,69 @@
 </tr>
 <tr>
 <td align="right">391</td>
+<td><a href="https://github.com/Ezaka2016"><img src="https://avatars.githubusercontent.com/u/24804859?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ezaka2016"><b>Ezaka IT</b></a><br><sub>&#64;Ezaka2016</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Saint Denis Réunion - Andavamamba Madagascar</sub></td>
+</tr>
+<tr>
+<td align="right">392</td>
 <td><a href="https://github.com/fernbe"><img src="https://avatars.githubusercontent.com/u/110317027?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fernbe"><b>fernbe</b></a><br><sub>&#64;fernbe</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Madagascar</sub></td>
 </tr>
 <tr>
-<td align="right">392</td>
+<td align="right">393</td>
 <td><a href="https://github.com/jasonfiderosselarry-a11y"><img src="https://avatars.githubusercontent.com/u/268153659?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jasonfiderosselarry-a11y"><b>Jason Lezook&#95;hacker</b></a><br><sub>&#64;jasonfiderosselarry-a11y</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Antananarivo Madagascar</sub></td>
 </tr>
 <tr>
-<td align="right">393</td>
+<td align="right">394</td>
 <td><a href="https://github.com/KantoItou"><img src="https://avatars.githubusercontent.com/u/220074346?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KantoItou"><b>Belle la vie</b></a><br><sub>&#64;KantoItou</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Madagascar</sub></td>
 </tr>
 <tr>
-<td align="right">394</td>
+<td align="right">395</td>
 <td><a href="https://github.com/KassTiora"><img src="https://avatars.githubusercontent.com/u/131135259?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KassTiora"><b>HASINA Goulab Robin</b></a><br><sub>&#64;KassTiora</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Fianarantsoa, Madagascar</sub></td>
 </tr>
 <tr>
-<td align="right">395</td>
+<td align="right">396</td>
 <td><a href="https://github.com/lucky-503"><img src="https://avatars.githubusercontent.com/u/151670526?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lucky-503"><b>Razanadratsara Lucky Kaiser Sahel</b></a><br><sub>&#64;lucky-503</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Madagascar</sub></td>
 </tr>
 <tr>
-<td align="right">396</td>
+<td align="right">397</td>
 <td><a href="https://github.com/manandrazanaeraelien-dev"><img src="https://avatars.githubusercontent.com/u/332851615?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/manandrazanaeraelien-dev"><b>RAJAOSOLO Manandrazana Eraelien</b></a><br><sub>&#64;manandrazanaeraelien-dev</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Madagascar</sub></td>
 </tr>
 <tr>
-<td align="right">397</td>
+<td align="right">398</td>
 <td><a href="https://github.com/Rktoo"><img src="https://avatars.githubusercontent.com/u/158762946?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rktoo"><b>RkootMg</b></a><br><sub>&#64;Rktoo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Madagascar</sub></td>
 </tr>
 <tr>
-<td align="right">398</td>
+<td align="right">399</td>
 <td><a href="https://github.com/safidiniaina-RANDRIANOELINA"><img src="https://avatars.githubusercontent.com/u/249013177?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/safidiniaina-RANDRIANOELINA"><b>Safidinia</b></a><br><sub>&#64;safidiniaina-RANDRIANOELINA</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Antananarivo Madagascar</sub></td>
 </tr>
 <tr>
-<td align="right">399</td>
+<td align="right">400</td>
 <td><a href="https://github.com/TokyRatsito"><img src="https://avatars.githubusercontent.com/u/127124986?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TokyRatsito"><b>Interested by the web designer</b></a><br><sub>&#64;TokyRatsito</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
@@ -2822,7 +2829,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 399 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 400 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 174 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

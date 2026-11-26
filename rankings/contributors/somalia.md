@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **12** | 22 Nov 2026 | <a href="../../data/contributors/SO.json">JSON</a> |
+| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/contributors/SO.json">JSON</a> |
 
 </div>
 
@@ -70,6 +70,15 @@
 </tr>
 <tr>
 <td align="right">6</td>
+<td><a href="https://github.com/yaasiinaxmed"><img src="https://avatars.githubusercontent.com/u/109895325?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yaasiinaxmed"><b>Yasin Ahmed</b></a><br><sub>&#64;yaasiinaxmed · 119 followers</sub></td>
+<td align="right"><b>26</b></td>
+<td align="right">23</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/MohamedAbdiaziz"><img src="https://avatars.githubusercontent.com/u/86708771?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MohamedAbdiaziz"><b>Mohamed Abdiaziz</b></a><br><sub>&#64;MohamedAbdiaziz · 334 followers</sub></td>
 <td align="right"><b>19</b></td>
 <td align="right">17</td>
@@ -78,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/ahmed-moha"><img src="https://avatars.githubusercontent.com/u/73517024?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahmed-moha"><b>Ahmed Mohamed Abdulkadir</b></a><br><sub>&#64;ahmed-moha · 345 followers</sub></td>
 <td align="right"><b>11</b></td>
 <td align="right">5</td>
@@ -87,7 +96,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/miirshe"><img src="https://avatars.githubusercontent.com/u/126691024?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/miirshe"><b>Abdikafi Isse Isak</b></a><br><sub>&#64;miirshe · 202 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">1</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/munniomer"><img src="https://avatars.githubusercontent.com/u/42119461?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/munniomer"><b>Munira Omar</b></a><br><sub>&#64;munniomer · 243 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">3</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/CanoGel"><img src="https://avatars.githubusercontent.com/u/190362716?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CanoGel"><b>Ahmad Isse Farah</b></a><br><sub>&#64;CanoGel · 785 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
@@ -114,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/halac"><img src="https://avatars.githubusercontent.com/u/5058076?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/halac"><b>Abdirisak Mohamed</b></a><br><sub>&#64;halac · 251 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -123,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/baaslaawe"><img src="https://avatars.githubusercontent.com/u/13794466?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/baaslaawe"><b>Abdalla Hassan Awale</b></a><br><sub>&#64;baaslaawe · 49 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -138,7 +147,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 14 of 403 discovered developers (389 awaiting measurement).
+- **Measured:** 15 of 403 discovered developers (388 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 99 in round 1.

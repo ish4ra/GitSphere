@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **18** | 22 Nov 2026 | <a href="../../data/contributors/CN.json">JSON</a> |
+| 🟡 Provisional | **19** | 22 Nov 2026 | <a href="../../data/contributors/CN.json">JSON</a> |
 
 </div>
 
@@ -52,7 +52,7 @@
 </tr>
 <tr>
 <td align="right">4</td>
-<td><a href="https://github.com/LinuxSuRen"><img src="https://avatars.githubusercontent.com/u/1450685?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LinuxSuRen"><b>Rick</b></a><br><sub>&#64;LinuxSuRen · 982 followers</sub></td>
+<td><a href="https://github.com/LinuxSuRen"><img src="https://avatars.githubusercontent.com/u/1450685?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LinuxSuRen"><b>Rick</b></a><br><sub>&#64;LinuxSuRen · 981 followers</sub></td>
 <td align="right"><b>1,454</b></td>
 <td align="right">869</td>
 <td align="right">242</td>
@@ -106,6 +106,15 @@
 </tr>
 <tr>
 <td align="right">10</td>
+<td><a href="https://github.com/belinwu"><img src="https://avatars.githubusercontent.com/u/3691385?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/belinwu"><b>吴上阿吉</b></a><br><sub>&#64;belinwu · 156 followers</sub></td>
+<td align="right"><b>105</b></td>
+<td align="right">4</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">11</td>
 <td><a href="https://github.com/wozaimoyu"><img src="https://avatars.githubusercontent.com/u/75102581?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wozaimoyu"><b>ycwwwww</b></a><br><sub>&#64;wozaimoyu · 249 followers</sub></td>
 <td align="right"><b>102</b></td>
 <td align="right">0</td>
@@ -114,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/Hengle"><img src="https://avatars.githubusercontent.com/u/12215655?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hengle"><b>Hengel</b></a><br><sub>&#64;Hengle · 317 followers</sub></td>
 <td align="right"><b>101</b></td>
 <td align="right">0</td>
@@ -123,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/charygao"><img src="https://avatars.githubusercontent.com/u/6499936?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/charygao"><b>高亚斌</b></a><br><sub>&#64;charygao · 205 followers</sub></td>
 <td align="right"><b>101</b></td>
 <td align="right">0</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/yutiansut"><img src="https://avatars.githubusercontent.com/u/11537812?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yutiansut"><b>Vincent yu</b></a><br><sub>&#64;yutiansut · 1,967 followers</sub></td>
 <td align="right"><b>100</b></td>
 <td align="right">80</td>
@@ -141,7 +150,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/lnsongxf"><img src="https://avatars.githubusercontent.com/u/10336745?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lnsongxf"><b>Mark Song</b></a><br><sub>&#64;lnsongxf · 276 followers</sub></td>
 <td align="right"><b>100</b></td>
 <td align="right">0</td>
@@ -150,7 +159,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><a href="https://github.com/daodaoliang"><img src="https://avatars.githubusercontent.com/u/666736?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/daodaoliang"><b>daodaoliang</b></a><br><sub>&#64;daodaoliang · 196 followers</sub></td>
 <td align="right"><b>25</b></td>
 <td align="right">5</td>
@@ -159,7 +168,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">17</td>
 <td><a href="https://github.com/yinchinan010"><img src="https://avatars.githubusercontent.com/u/29951644?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yinchinan010"><b>Chinan Yin</b></a><br><sub>&#64;yinchinan010 · 164 followers</sub></td>
 <td align="right"><b>19</b></td>
 <td align="right">2</td>
@@ -168,7 +177,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">18</td>
 <td><a href="https://github.com/junneyang"><img src="https://avatars.githubusercontent.com/u/6802322?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/junneyang"><b>YangJun</b></a><br><sub>&#64;junneyang · 391 followers</sub></td>
 <td align="right"><b>15</b></td>
 <td align="right">0</td>
@@ -177,7 +186,7 @@
 <td align="right">13</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">19</td>
 <td><a href="https://github.com/wyrover"><img src="https://avatars.githubusercontent.com/u/3905610?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wyrover"><b>wyrover</b></a><br><sub>&#64;wyrover · 308 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">2</td>
@@ -192,7 +201,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 21 of 1,946 discovered developers (1,925 awaiting measurement).
+- **Measured:** 23 of 1,972 discovered developers (1,949 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 195 in round 1.

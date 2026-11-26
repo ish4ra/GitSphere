@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/TN.json">JSON</a> |
+| 🟡 Provisional | **12** | 22 Nov 2026 | <a href="../../data/contributors/TN.json">JSON</a> |
 
 </div>
 
@@ -61,7 +61,7 @@
 </tr>
 <tr>
 <td align="right">5</td>
-<td><a href="https://github.com/Ademking"><img src="https://avatars.githubusercontent.com/u/12462188?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ademking"><b>Adem Kouki</b></a><br><sub>&#64;Ademking · 433 followers</sub></td>
+<td><a href="https://github.com/Ademking"><img src="https://avatars.githubusercontent.com/u/12462188?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ademking"><b>Adem Kouki</b></a><br><sub>&#64;Ademking · 434 followers</sub></td>
 <td align="right"><b>228</b></td>
 <td align="right">194</td>
 <td align="right">11</td>
@@ -88,6 +88,15 @@
 </tr>
 <tr>
 <td align="right">8</td>
+<td><a href="https://github.com/TalelMejri"><img src="https://avatars.githubusercontent.com/u/96019025?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TalelMejri"><b>Talel Mejri</b></a><br><sub>&#64;TalelMejri · 151 followers</sub></td>
+<td align="right"><b>129</b></td>
+<td align="right">108</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">9</td>
 <td><a href="https://github.com/3imed-jaberi"><img src="https://avatars.githubusercontent.com/u/43971542?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/3imed-jaberi"><b>Imed Jaberi</b></a><br><sub>&#64;3imed-jaberi · 459 followers</sub></td>
 <td align="right"><b>84</b></td>
 <td align="right">67</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/abdennour"><img src="https://avatars.githubusercontent.com/u/1788384?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdennour"><b>abdennour</b></a><br><sub>&#64;abdennour · 272 followers</sub></td>
 <td align="right"><b>67</b></td>
 <td align="right">56</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/machour"><img src="https://avatars.githubusercontent.com/u/304450?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/machour"><b>Mehdi Achour</b></a><br><sub>&#64;machour · 484 followers</sub></td>
 <td align="right"><b>54</b></td>
 <td align="right">18</td>
@@ -114,7 +123,7 @@
 <td align="right">12</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/SelimHorri"><img src="https://avatars.githubusercontent.com/u/40203497?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SelimHorri"><b>Selim Horri</b></a><br><sub>&#64;SelimHorri · 2,291 followers</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">23</td>
@@ -129,7 +138,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 12 of 442 discovered developers (430 awaiting measurement).
+- **Measured:** 13 of 449 discovered developers (436 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 154 in round 1.

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **9** | 23 Nov 2026 | <a href="../data/MT.json">JSON</a> |
+| 🟡 Provisional | **11** | 24 Nov 2026 | <a href="../data/MT.json">JSON</a> |
 
 </div>
 
@@ -31,15 +31,15 @@
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/mbj.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mbj/mutant"><b>mbj/mutant</b></a><br><sub>Mutation testing for Ruby. AI writes your code. AI writes your tests. But who tests the tests?</sub></td>
-<td align="right"><b>2,214</b></td>
+<td align="right"><b>2,215</b></td>
 <td align="right">163</td>
 <td>Ruby</td>
 </tr>
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/xiaocong.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xiaocong/uiautomator"><b>xiaocong/uiautomator</b></a><br><sub>Python wrapper of Android uiautomator test tool.</sub></td>
-<td align="right"><b>2,096</b></td>
-<td align="right">628</td>
+<td align="right"><b>2,097</b></td>
+<td align="right">627</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -84,6 +84,20 @@
 <td align="right">80</td>
 <td>C++</td>
 </tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/crabnebula-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/crabnebula-dev/devtools"><b>crabnebula-dev/devtools</b></a><br><sub>Inspect and Debug your Tauri applications in style 💃</sub></td>
+<td align="right"><b>434</b></td>
+<td align="right">16</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/marian2js.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/marian2js/opengoat"><b>marian2js/opengoat</b></a><br><sub>Build organizations of OpenClaw agents that coordinate work across Codex, Claude Code, Cursor, OpenCode, and more 🐐 🐐…</sub></td>
+<td align="right"><b>429</b></td>
+<td align="right">52</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -92,8 +106,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 454 stars; 9 attributed candidates are tracked.
-- 113 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 429 stars; 11 attributed candidates are tracked.
+- 108 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 104 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

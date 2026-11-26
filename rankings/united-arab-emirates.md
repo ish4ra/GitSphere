@@ -192,7 +192,7 @@
 <tr>
 <td align="right">25</td>
 <td><img src="https://github.com/fityanos.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fityanos/awesome-quality-assurance-roadmap"><b>fityanos/awesome-quality-assurance-roadmap</b></a><br><sub>:books: The starting point of your career as a Software Quality Assurance Engineer &#124; Quality Automation Engineer :books:</sub></td>
-<td align="right"><b>2,214</b></td>
+<td align="right"><b>2,213</b></td>
 <td align="right">363</td>
 <td>—</td>
 </tr>
@@ -206,7 +206,7 @@
 <tr>
 <td align="right">27</td>
 <td><img src="https://github.com/mpatacchiola.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mpatacchiola/deepgaze"><b>mpatacchiola/deepgaze</b></a><br><sub>Computer Vision library for human-computer interaction. It implements Head Pose and Gaze Direction Estimation Using Con…</sub></td>
-<td align="right"><b>1,889</b></td>
+<td align="right"><b>1,890</b></td>
 <td align="right">479</td>
 <td>Python</td>
 </tr>
@@ -228,34 +228,34 @@
 <td align="right">30</td>
 <td><img src="https://github.com/namshi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/namshi/jose"><b>namshi/jose</b></a><br><sub>JSON Object Signing and Encryption library for PHP.</sub></td>
 <td align="right"><b>1,801</b></td>
-<td align="right">129</td>
+<td align="right">130</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">31</td>
+<td><img src="https://github.com/maddada.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maddada/Ghostex"><b>maddada/Ghostex</b></a><br><sub>The Best Native Agents Workspace. Fully Rust &amp; GPUI based. Mobile apps. 20+ agents. Native Ghostty.</sub></td>
+<td align="right"><b>1,752</b></td>
+<td align="right">144</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">32</td>
 <td><img src="https://github.com/miromannino.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/miromannino/Justified-Gallery"><b>miromannino/Justified-Gallery</b></a><br><sub>Javascript library to help creating high quality justified galleries of images. Used by thousands of websites as well a…</sub></td>
 <td align="right"><b>1,746</b></td>
 <td align="right">291</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">32</td>
-<td><img src="https://github.com/rinvex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rinvex/countries"><b>rinvex/countries</b></a><br><sub>Rinvex Country is a simple and lightweight package for retrieving country details with flexibility. A whole bunch of da…</sub></td>
-<td align="right"><b>1,743</b></td>
-<td align="right">211</td>
-<td>PHP</td>
-</tr>
-<tr>
 <td align="right">33</td>
-<td><img src="https://github.com/maddada.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maddada/Ghostex"><b>maddada/Ghostex</b></a><br><sub>The Best Native Agents Workspace. Fully Rust &amp; GPUI based. Mobile apps. 20+ agents. Native Ghostty.</sub></td>
-<td align="right"><b>1,725</b></td>
-<td align="right">141</td>
-<td>Rust</td>
+<td><img src="https://github.com/rinvex.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rinvex/countries"><b>rinvex/countries</b></a><br><sub>Rinvex Country is a simple and lightweight package for retrieving country details with flexibility. A whole bunch of da…</sub></td>
+<td align="right"><b>1,742</b></td>
+<td align="right">212</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">34</td>
 <td><img src="https://github.com/onsails.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/onsails/lspkind.nvim"><b>onsails/lspkind.nvim</b></a><br><sub>VS Code–style pictograms for Neovim completion items</sub></td>
-<td align="right"><b>1,692</b></td>
+<td align="right"><b>1,694</b></td>
 <td align="right">42</td>
 <td>Lua</td>
 </tr>

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **49** | 23 Nov 2026 | <a href="../data/SI.json">JSON</a> |
+| 🟡 Provisional | **51** | 23 Nov 2026 | <a href="../data/SI.json">JSON</a> |
 
 </div>
 
@@ -101,8 +101,8 @@
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/CANopenNode.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CANopenNode/CANopenNode"><b>CANopenNode/CANopenNode</b></a><br><sub>CANopen protocol stack</sub></td>
-<td align="right"><b>2,057</b></td>
-<td align="right">822</td>
+<td align="right"><b>2,058</b></td>
+<td align="right">823</td>
 <td>C</td>
 </tr>
 <tr>
@@ -115,15 +115,15 @@
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/luksa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/luksa/kubernetes-in-action"><b>luksa/kubernetes-in-action</b></a><br><sub>Code from the Kubernetes in Action book</sub></td>
-<td align="right"><b>1,985</b></td>
-<td align="right">1,485</td>
+<td align="right"><b>1,986</b></td>
+<td align="right">1,484</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/ambrop72.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ambrop72/badvpn"><b>ambrop72/badvpn</b></a> <sub>archived</sub><br><sub>NCD scripting language, tun2socks proxifier, P2P VPN</sub></td>
 <td align="right"><b>1,927</b></td>
-<td align="right">649</td>
+<td align="right">650</td>
 <td>C</td>
 </tr>
 <tr>
@@ -136,8 +136,8 @@
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/pavlin-policar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pavlin-policar/openTSNE"><b>pavlin-policar/openTSNE</b></a><br><sub>Extensible, parallel implementations of t-SNE</sub></td>
-<td align="right"><b>1,625</b></td>
-<td align="right">181</td>
+<td align="right"><b>1,626</b></td>
+<td align="right">183</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -364,6 +364,20 @@
 <td align="right">149</td>
 <td>Pascal</td>
 </tr>
+<tr>
+<td align="right">50</td>
+<td><img src="https://github.com/jure.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jure/webphysics"><b>jure/webphysics</b></a><br><sub>WebGPU physics engine based on the AVBD solver</sub></td>
+<td align="right"><b>430</b></td>
+<td align="right">12</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">51</td>
+<td><img src="https://github.com/inejc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/inejc/paragraph-vectors"><b>inejc/paragraph-vectors</b></a><br><sub>:page&#95;facing&#95;up: A PyTorch implementation of Paragraph Vectors (doc2vec).</sub></td>
+<td align="right"><b>415</b></td>
+<td align="right">73</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -372,8 +386,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 515 stars; 49 attributed candidates are tracked.
-- 101 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 415 stars; 51 attributed candidates are tracked.
+- 97 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 220 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

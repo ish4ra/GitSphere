@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/0xAX"><img src="https://avatars.githubusercontent.com/u/2699235?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xAX"><b>Alex Kuleshov</b></a><br><sub>&#64;0xAX</sub></td>
-<td align="right"><b>3,800</b></td>
+<td align="right"><b>3,801</b></td>
 <td align="right">37</td>
 <td><sub>Kazakhstan, Astana</sub></td>
 </tr>
@@ -291,7 +291,7 @@
 <td align="right">39</td>
 <td><a href="https://github.com/kefir500"><img src="https://avatars.githubusercontent.com/u/3617499?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kefir500"><b>Alexander Gorishnyak</b></a><br><sub>&#64;kefir500</sub></td>
 <td align="right"><b>161</b></td>
-<td align="right">0</td>
+<td align="right">13</td>
 <td><sub>Almaty, Kazakhstan</sub></td>
 </tr>
 <tr>
@@ -338,17 +338,17 @@
 </tr>
 <tr>
 <td align="right">46</td>
+<td><a href="https://github.com/HmnDev-Tech"><img src="https://avatars.githubusercontent.com/u/256042304?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HmnDev-Tech"><b>hamondev</b></a><br><sub>&#64;HmnDev-Tech</sub></td>
+<td align="right"><b>123</b></td>
+<td align="right">0</td>
+<td><sub>Kazakhstan</sub></td>
+</tr>
+<tr>
+<td align="right">47</td>
 <td><a href="https://github.com/rzaripov1990"><img src="https://avatars.githubusercontent.com/u/19903273?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rzaripov1990"><b>Ravil (ZuBy) Zaripov</b></a><br><sub>&#64;rzaripov1990</sub></td>
 <td align="right"><b>122</b></td>
 <td align="right">42</td>
 <td><sub>Kazakhstan, Almaty</sub></td>
-</tr>
-<tr>
-<td align="right">47</td>
-<td><a href="https://github.com/HmnDev-Tech"><img src="https://avatars.githubusercontent.com/u/256042304?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HmnDev-Tech"><b>hamondev</b></a><br><sub>&#64;HmnDev-Tech</sub></td>
-<td align="right"><b>122</b></td>
-<td align="right">0</td>
-<td><sub>Kazakhstan</sub></td>
 </tr>
 <tr>
 <td align="right">48</td>

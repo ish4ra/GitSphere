@@ -5,7 +5,7 @@
 "country": {"code":"CV","name":"Cape Verde","slug":"cape-verde"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":96,"ownerExpansionBacklog":146,"candidates":104,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":120,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":96,"ownerExpansionBacklog":145,"candidates":104,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":120,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkyNjI4ODUwOA==","name":"explorer","nameWithOwner":"blockcypher/explorer","url":"https://github.com/blockcypher/explorer","description":"Block explorer showcasing the BlockCypher APIs.","stars":1194,"forks":793,"primaryLanguage":"Python","license":{"spdxId":"Apache-2.0"},"createdAt":"2014-11-06T20:28:27Z","pushedAt":"2024-06-06T11:59:47Z","archived":false,"owner":{"login":"blockcypher","name":"BlockCypher","type":"Organization","url":"https://github.com/blockcypher","location":"SF, CA","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-11-23"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkyMzM0NjQwNDI=","name":"cookiecutter-fastapi","nameWithOwner":"arthurhenrique/cookiecutter-fastapi","url":"https://github.com/arthurhenrique/cookiecutter-fastapi","description":"Cookiecutter template for FastAPI projects using: Machine Learning, uv, Github Actions and Pytests","stars":711,"forks":75,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2020-01-12T21:51:22Z","pushedAt":"2025-08-25T15:58:56Z","archived":false,"owner":{"login":"arthurhenrique","name":"Arthur Henrique","type":"User","url":"https://github.com/arthurhenrique","location":"são paulo, br","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-11-24"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"printcv-project","nameWithOwner":"victorrony/printcv-project","url":"https://github.com/victorrony/printcv-project","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-04-30T17:47:32Z","pushedAt":"2026-04-30T17:47:33Z","archived":false,"owner":{"login":"victorrony","name":"Victor Rony Pereira Fernandes","type":"User","url":"https://github.com/victorrony","location":"cape verde","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"body-perfect","nameWithOwner":"william-monteiro08/body-perfect","url":"https://github.com/william-monteiro08/body-perfect","description":null,"stars":0,"forks":0,"primaryLanguage":"CSS","license":null,"createdAt":"2026-05-13T15:44:50Z","pushedAt":"2026-05-13T17:12:16Z","archived":false,"owner":{"login":"william-monteiro08","name":"William Monteiro","type":"User","url":"https://github.com/william-monteiro08","location":"Mindelo, Cape Verde","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "c8e064fb79314aa8",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "fdd2c674efa6260b",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-04",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

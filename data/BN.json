@@ -5,7 +5,7 @@
 "country": {"code":"BN","name":"Brunei","slug":"brunei"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":147,"candidates":121,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":47,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":146,"candidates":121,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":47,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"kj_namechanger","nameWithOwner":"kaeljune91/kj_namechanger","url":"https://github.com/kaeljune91/kj_namechanger","description":null,"stars":1,"forks":2,"primaryLanguage":"Lua","license":null,"createdAt":"2026-04-12T13:05:59Z","pushedAt":"2026-04-15T15:38:41Z","archived":false,"owner":{"login":"kaeljune91","name":"Kael June","type":"User","url":"https://github.com/kaeljune91","location":"Tutong, Brunei Darussalam","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"pocket-pay-wc-plugin","nameWithOwner":"khxisa-3gm/pocket-pay-wc-plugin","url":"https://github.com/khxisa-3gm/pocket-pay-wc-plugin","description":null,"stars":1,"forks":1,"primaryLanguage":"PHP","license":null,"createdAt":"2024-05-16T01:41:12Z","pushedAt":"2026-09-07T03:30:15Z","archived":false,"owner":{"login":"khxisa-3gm","name":"Siti Khairunnisa Alias","type":"User","url":"https://github.com/khxisa-3gm","location":"Brunei Darussalam","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"my-portfolio","nameWithOwner":"ffarzanazinta-maker/my-portfolio","url":"https://github.com/ffarzanazinta-maker/my-portfolio","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2026-08-25T07:06:10Z","pushedAt":"2026-09-06T06:36:13Z","archived":false,"owner":{"login":"ffarzanazinta-maker","name":"Farzana Zinta","type":"User","url":"https://github.com/ffarzanazinta-maker","location":"Brunei Darussalam","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Group_Project","nameWithOwner":"Fiisof/Group_Project","url":"https://github.com/Fiisof/Group_Project","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2023-08-24T14:27:31Z","pushedAt":"2023-08-28T07:00:08Z","archived":false,"owner":{"login":"Fiisof","name":"Muhamad Sufi Sofri","type":"User","url":"https://github.com/Fiisof","location":"Brunei Darussalam","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "cf44c050adbe1287",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "051473f6f265ed56",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-04",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

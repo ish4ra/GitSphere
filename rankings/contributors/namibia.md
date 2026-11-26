@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/NA.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/NA.json">JSON</a> |
 
 </div>
 
@@ -79,6 +79,15 @@
 </tr>
 <tr>
 <td align="right">7</td>
+<td><a href="https://github.com/iam-matheus"><img src="https://avatars.githubusercontent.com/u/61382592?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iam-matheus"><b>Matheus Mulundu</b></a><br><sub>&#64;iam-matheus · 9 followers</sub></td>
+<td align="right"><b>22</b></td>
+<td align="right">18</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">8</td>
 <td><a href="https://github.com/i-amolo"><img src="https://avatars.githubusercontent.com/u/3223679?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/i-amolo"><b>Innocent J. Blacius</b></a><br><sub>&#64;i-amolo · 28 followers</sub></td>
 <td align="right"><b>15</b></td>
 <td align="right">0</td>
@@ -87,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/01alicia03"><img src="https://avatars.githubusercontent.com/u/126119740?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/01alicia03"><b>Tjeripo Alicia Rukoro</b></a><br><sub>&#64;01alicia03 · 0 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">2</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/Hilya02"><img src="https://avatars.githubusercontent.com/u/113698301?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hilya02"><b>Hilya Ntinda Tuyakula</b></a><br><sub>&#64;Hilya02 · 36 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">1</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/Lucas-Erkana"><img src="https://avatars.githubusercontent.com/u/41428579?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lucas-Erkana"><b>Lucas David Erkana</b></a><br><sub>&#64;Lucas-Erkana · 128 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -120,7 +129,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 14 of 399 discovered developers (385 awaiting measurement).
+- **Measured:** 16 of 399 discovered developers (383 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 91 in round 1.

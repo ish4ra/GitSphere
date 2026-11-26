@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/antfu"><img src="https://avatars.githubusercontent.com/u/11247099?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/antfu"><b>Anthony Fu</b></a><br><sub>&#64;antfu</sub></td>
-<td align="right"><b>40,821</b></td>
+<td align="right"><b>40,825</b></td>
 <td align="right">408</td>
 <td><sub>Gifu, Japan</sub></td>
 </tr>
@@ -52,14 +52,14 @@
 <tr>
 <td align="right">5</td>
 <td><a href="https://github.com/craftzdog"><img src="https://avatars.githubusercontent.com/u/1332805?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/craftzdog"><b>Takuya Matsuyama</b></a><br><sub>&#64;craftzdog</sub></td>
-<td align="right"><b>11,819</b></td>
+<td align="right"><b>11,818</b></td>
 <td align="right">171</td>
 <td><sub>Osaka, Japan</sub></td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><a href="https://github.com/XiaomingX"><img src="https://avatars.githubusercontent.com/u/5387930?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/XiaomingX"><b>Y11</b></a><br><sub>&#64;XiaomingX</sub></td>
-<td align="right"><b>11,321</b></td>
+<td align="right"><b>11,322</b></td>
 <td align="right">67</td>
 <td><sub>Japan</sub></td>
 </tr>
@@ -192,7 +192,7 @@
 <tr>
 <td align="right">25</td>
 <td><a href="https://github.com/kazupon"><img src="https://avatars.githubusercontent.com/u/72989?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kazupon"><b>kazuya kawaguchi</b></a><br><sub>&#64;kazupon</sub></td>
-<td align="right"><b>4,377</b></td>
+<td align="right"><b>4,376</b></td>
 <td align="right">354</td>
 <td><sub>Tokyo, Japan</sub></td>
 </tr>
@@ -423,7 +423,7 @@
 <tr>
 <td align="right">58</td>
 <td><a href="https://github.com/mizchi"><img src="https://avatars.githubusercontent.com/u/73962?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mizchi"><b>Kotaro Chikuba</b></a><br><sub>&#64;mizchi</sub></td>
-<td align="right"><b>1,905</b></td>
+<td align="right"><b>1,904</b></td>
 <td align="right">702</td>
 <td><sub>Tokyo/Japan</sub></td>
 </tr>
@@ -486,14 +486,14 @@
 <tr>
 <td align="right">67</td>
 <td><a href="https://github.com/Santos-Enoque"><img src="https://avatars.githubusercontent.com/u/37243334?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Santos-Enoque"><b>Santos Enoque</b></a><br><sub>&#64;Santos-Enoque</sub></td>
-<td align="right"><b>1,749</b></td>
+<td align="right"><b>1,748</b></td>
 <td align="right">103</td>
 <td><sub>Japan</sub></td>
 </tr>
 <tr>
 <td align="right">68</td>
 <td><a href="https://github.com/r9y9"><img src="https://avatars.githubusercontent.com/u/1220272?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/r9y9"><b>Ryuichi Yamamoto</b></a><br><sub>&#64;r9y9</sub></td>
-<td align="right"><b>1,741</b></td>
+<td align="right"><b>1,742</b></td>
 <td align="right">151</td>
 <td><sub>Nagoya, Japan</sub></td>
 </tr>
@@ -556,7 +556,7 @@
 <tr>
 <td align="right">77</td>
 <td><a href="https://github.com/sapphi-red"><img src="https://avatars.githubusercontent.com/u/49056869?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sapphi-red"><b>翠</b></a><br><sub>&#64;sapphi-red</sub></td>
-<td align="right"><b>1,547</b></td>
+<td align="right"><b>1,549</b></td>
 <td align="right">215</td>
 <td><sub>Japan</sub></td>
 </tr>
@@ -633,7 +633,7 @@
 <tr>
 <td align="right">88</td>
 <td><a href="https://github.com/ykob"><img src="https://avatars.githubusercontent.com/u/5755225?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ykob"><b>Yoichi Kobayashi</b></a><br><sub>&#64;ykob</sub></td>
-<td align="right"><b>1,313</b></td>
+<td align="right"><b>1,315</b></td>
 <td align="right">116</td>
 <td><sub>Tokyo, Japan</sub></td>
 </tr>
@@ -717,7 +717,7 @@
 <tr>
 <td align="right">100</td>
 <td><a href="https://github.com/ko1"><img src="https://avatars.githubusercontent.com/u/9558?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ko1"><b>Koichi Sasada</b></a><br><sub>&#64;ko1</sub></td>
-<td align="right"><b>1,230</b></td>
+<td align="right"><b>1,229</b></td>
 <td align="right">110</td>
 <td><sub>Tokyo, Japan</sub></td>
 </tr>
@@ -1374,24 +1374,24 @@
 </tr>
 <tr>
 <td align="right">194</td>
+<td><a href="https://github.com/rsasaki0109"><img src="https://avatars.githubusercontent.com/u/18298605?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rsasaki0109"><b>Ryohei Sasaki</b></a><br><sub>&#64;rsasaki0109</sub></td>
+<td align="right"><b>792</b></td>
+<td align="right">157</td>
+<td><sub>Japan</sub></td>
+</tr>
+<tr>
+<td align="right">195</td>
 <td><a href="https://github.com/tenntenn"><img src="https://avatars.githubusercontent.com/u/796820?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tenntenn"><b>Takuya Ueda</b></a><br><sub>&#64;tenntenn</sub></td>
 <td align="right"><b>791</b></td>
 <td align="right">169</td>
 <td><sub>Hokkaido, Japan</sub></td>
 </tr>
 <tr>
-<td align="right">195</td>
+<td align="right">196</td>
 <td><a href="https://github.com/sideshowbarker"><img src="https://avatars.githubusercontent.com/u/194984?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sideshowbarker"><b>sideshowbarker</b></a><br><sub>&#64;sideshowbarker</sub></td>
 <td align="right"><b>790</b></td>
 <td align="right">34</td>
 <td><sub>Tokyo</sub></td>
-</tr>
-<tr>
-<td align="right">196</td>
-<td><a href="https://github.com/rsasaki0109"><img src="https://avatars.githubusercontent.com/u/18298605?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rsasaki0109"><b>Ryohei Sasaki</b></a><br><sub>&#64;rsasaki0109</sub></td>
-<td align="right"><b>786</b></td>
-<td align="right">157</td>
-<td><sub>Japan</sub></td>
 </tr>
 <tr>
 <td align="right">197</td>
@@ -1402,17 +1402,17 @@
 </tr>
 <tr>
 <td align="right">198</td>
+<td><a href="https://github.com/ota-meshi"><img src="https://avatars.githubusercontent.com/u/16508807?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ota-meshi"><b>Yosuke Ota</b></a><br><sub>&#64;ota-meshi</sub></td>
+<td align="right"><b>780</b></td>
+<td align="right">190</td>
+<td><sub>Kanagawa, Japan</sub></td>
+</tr>
+<tr>
+<td align="right">199</td>
 <td><a href="https://github.com/Kazuhito00"><img src="https://avatars.githubusercontent.com/u/37477845?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kazuhito00"><b>KazuhitoTakahashi</b></a><br><sub>&#64;Kazuhito00</sub></td>
 <td align="right"><b>779</b></td>
 <td align="right">354</td>
 <td><sub>Aichi, Japan</sub></td>
-</tr>
-<tr>
-<td align="right">199</td>
-<td><a href="https://github.com/ota-meshi"><img src="https://avatars.githubusercontent.com/u/16508807?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ota-meshi"><b>Yosuke Ota</b></a><br><sub>&#64;ota-meshi</sub></td>
-<td align="right"><b>778</b></td>
-<td align="right">190</td>
-<td><sub>Kanagawa, Japan</sub></td>
 </tr>
 <tr>
 <td align="right">200</td>
@@ -2375,24 +2375,24 @@
 </tr>
 <tr>
 <td align="right">337</td>
+<td><a href="https://github.com/rigaya"><img src="https://avatars.githubusercontent.com/u/815947?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rigaya"><b>rigaya</b></a><br><sub>&#64;rigaya</sub></td>
+<td align="right"><b>543</b></td>
+<td align="right">70</td>
+<td><sub>Kanagawa, Japan</sub></td>
+</tr>
+<tr>
+<td align="right">338</td>
 <td><a href="https://github.com/penk"><img src="https://avatars.githubusercontent.com/u/61878?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/penk"><b>Penk Chen</b></a><br><sub>&#64;penk</sub></td>
 <td align="right"><b>543</b></td>
 <td align="right">62</td>
 <td><sub>Tokyo, Japan</sub></td>
 </tr>
 <tr>
-<td align="right">338</td>
+<td align="right">339</td>
 <td><a href="https://github.com/13o-bbr-bbq"><img src="https://avatars.githubusercontent.com/u/12124329?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/13o-bbr-bbq"><b>isao takaesu</b></a><br><sub>&#64;13o-bbr-bbq</sub></td>
 <td align="right"><b>543</b></td>
 <td align="right">16</td>
 <td><sub>Tokyo, Japan.</sub></td>
-</tr>
-<tr>
-<td align="right">339</td>
-<td><a href="https://github.com/rigaya"><img src="https://avatars.githubusercontent.com/u/815947?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rigaya"><b>rigaya</b></a><br><sub>&#64;rigaya</sub></td>
-<td align="right"><b>542</b></td>
-<td align="right">70</td>
-<td><sub>Kanagawa, Japan</sub></td>
 </tr>
 <tr>
 <td align="right">340</td>
@@ -2936,7 +2936,7 @@
 <tr>
 <td align="right">417</td>
 <td><a href="https://github.com/alfg"><img src="https://avatars.githubusercontent.com/u/702541?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alfg"><b>Alfred Gutierrez · アル</b></a><br><sub>&#64;alfg</sub></td>
-<td align="right"><b>453</b></td>
+<td align="right"><b>454</b></td>
 <td align="right">144</td>
 <td><sub>Tokyo, Japan 🇯🇵</sub></td>
 </tr>
@@ -2991,24 +2991,24 @@
 </tr>
 <tr>
 <td align="right">425</td>
+<td><a href="https://github.com/mitmul"><img src="https://avatars.githubusercontent.com/u/666535?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mitmul"><b>Shunta Saito</b></a><br><sub>&#64;mitmul</sub></td>
+<td align="right"><b>441</b></td>
+<td align="right">172</td>
+<td><sub>Tokyo, Japan</sub></td>
+</tr>
+<tr>
+<td align="right">426</td>
 <td><a href="https://github.com/AAkira"><img src="https://avatars.githubusercontent.com/u/3386962?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AAkira"><b>Akira Aratani</b></a><br><sub>&#64;AAkira</sub></td>
 <td align="right"><b>441</b></td>
 <td align="right">54</td>
 <td><sub>Tokyo, Japan</sub></td>
 </tr>
 <tr>
-<td align="right">426</td>
+<td align="right">427</td>
 <td><a href="https://github.com/hokaccha"><img src="https://avatars.githubusercontent.com/u/39471?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hokaccha"><b>Kazuhito Hokamura</b></a><br><sub>&#64;hokaccha</sub></td>
 <td align="right"><b>440</b></td>
 <td align="right">224</td>
 <td><sub>Tokyo. Japan</sub></td>
-</tr>
-<tr>
-<td align="right">427</td>
-<td><a href="https://github.com/mitmul"><img src="https://avatars.githubusercontent.com/u/666535?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mitmul"><b>Shunta Saito</b></a><br><sub>&#64;mitmul</sub></td>
-<td align="right"><b>440</b></td>
-<td align="right">172</td>
-<td><sub>Tokyo, Japan</sub></td>
 </tr>
 <tr>
 <td align="right">428</td>
@@ -3174,14 +3174,14 @@
 <tr>
 <td align="right">451</td>
 <td><a href="https://github.com/yuk1ty"><img src="https://avatars.githubusercontent.com/u/24487281?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yuk1ty"><b>Yuki Toyoda</b></a><br><sub>&#64;yuk1ty</sub></td>
-<td align="right"><b>421</b></td>
+<td align="right"><b>422</b></td>
 <td align="right">155</td>
 <td><sub>Tokyo, Japan</sub></td>
 </tr>
 <tr>
 <td align="right">452</td>
 <td><a href="https://github.com/JDDKCN"><img src="https://avatars.githubusercontent.com/u/103011451?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JDDKCN"><b>剧毒的KCN</b></a><br><sub>&#64;JDDKCN</sub></td>
-<td align="right"><b>421</b></td>
+<td align="right"><b>422</b></td>
 <td align="right">31</td>
 <td><sub>Tokyo</sub></td>
 </tr>
@@ -4041,17 +4041,17 @@
 </tr>
 <tr>
 <td align="right">575</td>
-<td><a href="https://github.com/cubicdaiya"><img src="https://avatars.githubusercontent.com/u/56752?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cubicdaiya"><b>Tatsuhiko Kubo</b></a><br><sub>&#64;cubicdaiya</sub></td>
-<td align="right"><b>346</b></td>
-<td align="right">56</td>
-<td><sub>Japan</sub></td>
-</tr>
-<tr>
-<td align="right">576</td>
 <td><a href="https://github.com/shuhei"><img src="https://avatars.githubusercontent.com/u/498635?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shuhei"><b>Shuhei Kagawa</b></a><br><sub>&#64;shuhei</sub></td>
 <td align="right"><b>345</b></td>
 <td align="right">186</td>
 <td><sub>Tokyo, Japan</sub></td>
+</tr>
+<tr>
+<td align="right">576</td>
+<td><a href="https://github.com/cubicdaiya"><img src="https://avatars.githubusercontent.com/u/56752?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cubicdaiya"><b>Tatsuhiko Kubo</b></a><br><sub>&#64;cubicdaiya</sub></td>
+<td align="right"><b>345</b></td>
+<td align="right">56</td>
+<td><sub>Japan</sub></td>
 </tr>
 <tr>
 <td align="right">577</td>
@@ -4517,24 +4517,24 @@
 </tr>
 <tr>
 <td align="right">643</td>
-<td><a href="https://github.com/cdepillabout"><img src="https://avatars.githubusercontent.com/u/64804?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cdepillabout"><b>Dennis Gosnell</b></a><br><sub>&#64;cdepillabout</sub></td>
-<td align="right"><b>319</b></td>
-<td align="right">312</td>
-<td><sub>Sapporo, Japan</sub></td>
-</tr>
-<tr>
-<td align="right">644</td>
 <td><a href="https://github.com/wusyong"><img src="https://avatars.githubusercontent.com/u/8409985?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wusyong"><b>Wu Yuwei</b></a><br><sub>&#64;wusyong</sub></td>
 <td align="right"><b>319</b></td>
 <td align="right">210</td>
 <td><sub>Tokyo</sub></td>
 </tr>
 <tr>
-<td align="right">645</td>
+<td align="right">644</td>
 <td><a href="https://github.com/moznion"><img src="https://avatars.githubusercontent.com/u/1422834?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/moznion"><b>moznion</b></a><br><sub>&#64;moznion</sub></td>
 <td align="right"><b>318</b></td>
 <td align="right">498</td>
 <td><sub>Tokyo, Japan</sub></td>
+</tr>
+<tr>
+<td align="right">645</td>
+<td><a href="https://github.com/cdepillabout"><img src="https://avatars.githubusercontent.com/u/64804?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cdepillabout"><b>Dennis Gosnell</b></a><br><sub>&#64;cdepillabout</sub></td>
+<td align="right"><b>318</b></td>
+<td align="right">312</td>
+<td><sub>Sapporo, Japan</sub></td>
 </tr>
 <tr>
 <td align="right">646</td>
@@ -4818,30 +4818,30 @@
 </tr>
 <tr>
 <td align="right">686</td>
-<td><a href="https://github.com/eagletmt"><img src="https://avatars.githubusercontent.com/u/69755?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eagletmt"><b>Kohei Suzuki</b></a><br><sub>&#64;eagletmt</sub></td>
-<td align="right"><b>305</b></td>
-<td align="right">270</td>
-<td><sub>Tokyo, Japan</sub></td>
-</tr>
-<tr>
-<td align="right">687</td>
 <td><a href="https://github.com/atyenoria"><img src="https://avatars.githubusercontent.com/u/7510974?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/atyenoria"><b>Akinori Nakajima</b></a><br><sub>&#64;atyenoria</sub></td>
 <td align="right"><b>305</b></td>
 <td align="right">222</td>
 <td><sub>Tokyo</sub></td>
 </tr>
 <tr>
-<td align="right">688</td>
+<td align="right">687</td>
 <td><a href="https://github.com/sonsongithub"><img src="https://avatars.githubusercontent.com/u/33768?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sonsongithub"><b>Yuichi Yoshida</b></a><br><sub>&#64;sonsongithub</sub></td>
 <td align="right"><b>305</b></td>
 <td align="right">168</td>
 <td><sub>Tokyo, Japan.</sub></td>
 </tr>
 <tr>
-<td align="right">689</td>
+<td align="right">688</td>
 <td><a href="https://github.com/yorkxin"><img src="https://avatars.githubusercontent.com/u/10737?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yorkxin"><b>Yu-Cheng Chuang</b></a><br><sub>&#64;yorkxin</sub></td>
 <td align="right"><b>305</b></td>
 <td align="right">37</td>
+<td><sub>Tokyo, Japan</sub></td>
+</tr>
+<tr>
+<td align="right">689</td>
+<td><a href="https://github.com/eagletmt"><img src="https://avatars.githubusercontent.com/u/69755?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eagletmt"><b>Kohei Suzuki</b></a><br><sub>&#64;eagletmt</sub></td>
+<td align="right"><b>304</b></td>
+<td align="right">270</td>
 <td><sub>Tokyo, Japan</sub></td>
 </tr>
 <tr>
@@ -5672,17 +5672,17 @@
 </tr>
 <tr>
 <td align="right">808</td>
+<td><a href="https://github.com/dahatake"><img src="https://avatars.githubusercontent.com/u/3489128?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dahatake"><b>Daiyu Hatakeyama</b></a><br><sub>&#64;dahatake</sub></td>
+<td align="right"><b>269</b></td>
+<td align="right">44</td>
+<td><sub>Tokyo</sub></td>
+</tr>
+<tr>
+<td align="right">809</td>
 <td><a href="https://github.com/satoki"><img src="https://avatars.githubusercontent.com/u/54702093?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/satoki"><b>Satoki</b></a><br><sub>&#64;satoki</sub></td>
 <td align="right"><b>269</b></td>
 <td align="right">29</td>
 <td><sub>Japan</sub></td>
-</tr>
-<tr>
-<td align="right">809</td>
-<td><a href="https://github.com/dahatake"><img src="https://avatars.githubusercontent.com/u/3489128?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dahatake"><b>Daiyu Hatakeyama</b></a><br><sub>&#64;dahatake</sub></td>
-<td align="right"><b>268</b></td>
-<td align="right">44</td>
-<td><sub>Tokyo</sub></td>
 </tr>
 <tr>
 <td align="right">810</td>
@@ -5798,66 +5798,66 @@
 </tr>
 <tr>
 <td align="right">826</td>
-<td><a href="https://github.com/rosylilly"><img src="https://avatars.githubusercontent.com/u/29084?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rosylilly"><b>Sho Kusano</b></a><br><sub>&#64;rosylilly</sub></td>
-<td align="right"><b>264</b></td>
-<td align="right">176</td>
-<td><sub>Chiba, Japan</sub></td>
-</tr>
-<tr>
-<td align="right">827</td>
 <td><a href="https://github.com/taichi"><img src="https://avatars.githubusercontent.com/u/66100?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/taichi"><b>taichi</b></a><br><sub>&#64;taichi</sub></td>
 <td align="right"><b>264</b></td>
 <td align="right">128</td>
 <td><sub>Tokyo</sub></td>
 </tr>
 <tr>
-<td align="right">828</td>
+<td align="right">827</td>
 <td><a href="https://github.com/studiomohawk"><img src="https://avatars.githubusercontent.com/u/28534?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/studiomohawk"><b>Yuya Saito</b></a><br><sub>&#64;studiomohawk</sub></td>
 <td align="right"><b>264</b></td>
 <td align="right">67</td>
 <td><sub>Tokyo</sub></td>
 </tr>
 <tr>
-<td align="right">829</td>
+<td align="right">828</td>
 <td><a href="https://github.com/omeripek"><img src="https://avatars.githubusercontent.com/u/50427567?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/omeripek"><b>omeripek</b></a><br><sub>&#64;omeripek</sub></td>
 <td align="right"><b>264</b></td>
 <td align="right">41</td>
 <td><sub>日本 東京</sub></td>
 </tr>
 <tr>
-<td align="right">830</td>
+<td align="right">829</td>
 <td><a href="https://github.com/Malicieuse"><img src="https://avatars.githubusercontent.com/u/202020435?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Malicieuse"><b>Ostinate</b></a><br><sub>&#64;Malicieuse</sub></td>
 <td align="right"><b>264</b></td>
 <td align="right">0</td>
 <td><sub>Japan</sub></td>
 </tr>
 <tr>
-<td align="right">831</td>
+<td align="right">830</td>
 <td><a href="https://github.com/anatawa12"><img src="https://avatars.githubusercontent.com/u/22656849?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anatawa12"><b>anatawa12</b></a><br><sub>&#64;anatawa12</sub></td>
 <td align="right"><b>263</b></td>
 <td align="right">359</td>
 <td><sub>Yokohama/Japan</sub></td>
 </tr>
 <tr>
-<td align="right">832</td>
+<td align="right">831</td>
 <td><a href="https://github.com/fukayatsu"><img src="https://avatars.githubusercontent.com/u/1041857?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fukayatsu"><b>Atsuo Fukaya</b></a><br><sub>&#64;fukayatsu</sub></td>
 <td align="right"><b>263</b></td>
 <td align="right">281</td>
 <td><sub>Tokyo, Japan</sub></td>
 </tr>
 <tr>
-<td align="right">833</td>
+<td align="right">832</td>
 <td><a href="https://github.com/koriym"><img src="https://avatars.githubusercontent.com/u/529021?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/koriym"><b>Akihito Koriyama</b></a><br><sub>&#64;koriym</sub></td>
 <td align="right"><b>263</b></td>
 <td align="right">262</td>
 <td><sub>Tokyo, Japan</sub></td>
 </tr>
 <tr>
-<td align="right">834</td>
+<td align="right">833</td>
 <td><a href="https://github.com/take-cheeze"><img src="https://avatars.githubusercontent.com/u/162074?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/take-cheeze"><b>Takeshi Watanabe</b></a><br><sub>&#64;take-cheeze</sub></td>
 <td align="right"><b>263</b></td>
 <td align="right">242</td>
 <td><sub>Nagano, Japan</sub></td>
+</tr>
+<tr>
+<td align="right">834</td>
+<td><a href="https://github.com/rosylilly"><img src="https://avatars.githubusercontent.com/u/29084?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rosylilly"><b>Sho Kusano</b></a><br><sub>&#64;rosylilly</sub></td>
+<td align="right"><b>263</b></td>
+<td align="right">176</td>
+<td><sub>Chiba, Japan</sub></td>
 </tr>
 <tr>
 <td align="right">835</td>
@@ -6064,66 +6064,66 @@
 </tr>
 <tr>
 <td align="right">864</td>
+<td><a href="https://github.com/xororz"><img src="https://avatars.githubusercontent.com/u/157940664?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xororz"><b>xor</b></a><br><sub>&#64;xororz</sub></td>
+<td align="right"><b>259</b></td>
+<td align="right">15</td>
+<td><sub>秋葉原</sub></td>
+</tr>
+<tr>
+<td align="right">865</td>
 <td><a href="https://github.com/alphaKAI"><img src="https://avatars.githubusercontent.com/u/2123766?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alphaKAI"><b>Akihiro Shoji</b></a><br><sub>&#64;alphaKAI</sub></td>
 <td align="right"><b>258</b></td>
 <td align="right">150</td>
 <td><sub>Tokyo, Japan</sub></td>
 </tr>
 <tr>
-<td align="right">865</td>
+<td align="right">866</td>
 <td><a href="https://github.com/fedebotu"><img src="https://avatars.githubusercontent.com/u/48984123?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fedebotu"><b>Federico Berto</b></a><br><sub>&#64;fedebotu</sub></td>
 <td align="right"><b>258</b></td>
 <td align="right">67</td>
 <td><sub>Japan</sub></td>
 </tr>
 <tr>
-<td align="right">866</td>
+<td align="right">867</td>
 <td><a href="https://github.com/macocci7"><img src="https://avatars.githubusercontent.com/u/19181121?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/macocci7"><b>macocci7</b></a><br><sub>&#64;macocci7</sub></td>
 <td align="right"><b>258</b></td>
 <td align="right">43</td>
 <td><sub>Japan</sub></td>
 </tr>
 <tr>
-<td align="right">867</td>
+<td align="right">868</td>
 <td><a href="https://github.com/zaq1tomo"><img src="https://avatars.githubusercontent.com/u/24784257?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zaq1tomo"><b>Tomoya Ishizaki</b></a><br><sub>&#64;zaq1tomo</sub></td>
 <td align="right"><b>258</b></td>
 <td align="right">4</td>
 <td><sub>Japan</sub></td>
 </tr>
 <tr>
-<td align="right">868</td>
+<td align="right">869</td>
 <td><a href="https://github.com/arubdesu"><img src="https://avatars.githubusercontent.com/u/388808?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arubdesu"><b>Allister Banks</b></a><br><sub>&#64;arubdesu</sub></td>
 <td align="right"><b>257</b></td>
 <td align="right">97</td>
 <td><sub>Osaka, Japan</sub></td>
 </tr>
 <tr>
-<td align="right">869</td>
+<td align="right">870</td>
 <td><a href="https://github.com/ufcpp"><img src="https://avatars.githubusercontent.com/u/3760955?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ufcpp"><b>Nobuyuki Iwanaga</b></a><br><sub>&#64;ufcpp</sub></td>
 <td align="right"><b>257</b></td>
 <td align="right">61</td>
 <td><sub>Japan</sub></td>
 </tr>
 <tr>
-<td align="right">870</td>
+<td align="right">871</td>
 <td><a href="https://github.com/sinhrks"><img src="https://avatars.githubusercontent.com/u/1696302?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sinhrks"><b>Sinhrks</b></a><br><sub>&#64;sinhrks</sub></td>
 <td align="right"><b>257</b></td>
 <td align="right">50</td>
 <td><sub>Tokyo, Japan</sub></td>
 </tr>
 <tr>
-<td align="right">871</td>
+<td align="right">872</td>
 <td><a href="https://github.com/sho1374k"><img src="https://avatars.githubusercontent.com/u/61724976?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sho1374k"><b>K&#39;s</b></a><br><sub>&#64;sho1374k</sub></td>
 <td align="right"><b>257</b></td>
 <td align="right">19</td>
 <td><sub>japan</sub></td>
-</tr>
-<tr>
-<td align="right">872</td>
-<td><a href="https://github.com/xororz"><img src="https://avatars.githubusercontent.com/u/157940664?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xororz"><b>xor</b></a><br><sub>&#64;xororz</sub></td>
-<td align="right"><b>257</b></td>
-<td align="right">15</td>
-<td><sub>秋葉原</sub></td>
 </tr>
 <tr>
 <td align="right">873</td>
@@ -6190,73 +6190,73 @@
 </tr>
 <tr>
 <td align="right">882</td>
-<td><a href="https://github.com/yutopp"><img src="https://avatars.githubusercontent.com/u/219797?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yutopp"><b>yutopp</b></a><br><sub>&#64;yutopp</sub></td>
-<td align="right"><b>255</b></td>
-<td align="right">121</td>
-<td><sub>Japan</sub></td>
-</tr>
-<tr>
-<td align="right">883</td>
 <td><a href="https://github.com/hamukazu"><img src="https://avatars.githubusercontent.com/u/981036?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hamukazu"><b>Kimikazu Kato</b></a><br><sub>&#64;hamukazu</sub></td>
 <td align="right"><b>255</b></td>
 <td align="right">75</td>
 <td><sub>Tokyo</sub></td>
 </tr>
 <tr>
-<td align="right">884</td>
+<td align="right">883</td>
 <td><a href="https://github.com/luadebug"><img src="https://avatars.githubusercontent.com/u/109693307?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/luadebug"><b>Saikari</b></a><br><sub>&#64;luadebug</sub></td>
 <td align="right"><b>255</b></td>
 <td align="right">73</td>
 <td><sub>Japan, Tokyo</sub></td>
 </tr>
 <tr>
-<td align="right">885</td>
+<td align="right">884</td>
 <td><a href="https://github.com/himkt"><img src="https://avatars.githubusercontent.com/u/5164000?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/himkt"><b>himkt</b></a><br><sub>&#64;himkt</sub></td>
 <td align="right"><b>254</b></td>
 <td align="right">201</td>
 <td><sub>Tokyo, Japan</sub></td>
 </tr>
 <tr>
-<td align="right">886</td>
+<td align="right">885</td>
 <td><a href="https://github.com/coord-e"><img src="https://avatars.githubusercontent.com/u/16184855?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/coord-e"><b>Hiromi Ogawa</b></a><br><sub>&#64;coord-e</sub></td>
 <td align="right"><b>254</b></td>
 <td align="right">126</td>
 <td><sub>Tokyo, Japan</sub></td>
 </tr>
 <tr>
-<td align="right">887</td>
+<td align="right">886</td>
 <td><a href="https://github.com/tatsuyakuroda"><img src="https://avatars.githubusercontent.com/u/190021982?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tatsuyakuroda"><b>Tatsuya.K</b></a><br><sub>&#64;tatsuyakuroda</sub></td>
 <td align="right"><b>254</b></td>
 <td align="right">60</td>
 <td><sub>Japan</sub></td>
 </tr>
 <tr>
-<td align="right">888</td>
+<td align="right">887</td>
 <td><a href="https://github.com/engkimo"><img src="https://avatars.githubusercontent.com/u/802133?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/engkimo"><b>ryosukenkimo</b></a><br><sub>&#64;engkimo</sub></td>
 <td align="right"><b>254</b></td>
 <td align="right">33</td>
 <td><sub>Saitama, Japan</sub></td>
 </tr>
 <tr>
-<td align="right">889</td>
+<td align="right">888</td>
 <td><a href="https://github.com/3UR"><img src="https://avatars.githubusercontent.com/u/76826837?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/3UR"><b>la</b></a><br><sub>&#64;3UR</sub></td>
 <td align="right"><b>254</b></td>
 <td align="right">15</td>
 <td><sub>Tokyo</sub></td>
 </tr>
 <tr>
-<td align="right">890</td>
+<td align="right">889</td>
 <td><a href="https://github.com/takahashim"><img src="https://avatars.githubusercontent.com/u/10401?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/takahashim"><b>Masayoshi Takahashi</b></a><br><sub>&#64;takahashim</sub></td>
 <td align="right"><b>253</b></td>
 <td align="right">396</td>
 <td><sub>Tokyo Japan</sub></td>
 </tr>
 <tr>
-<td align="right">891</td>
+<td align="right">890</td>
 <td><a href="https://github.com/walf443"><img src="https://avatars.githubusercontent.com/u/2655?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/walf443"><b>Keiji, Yoshimi</b></a><br><sub>&#64;walf443</sub></td>
 <td align="right"><b>253</b></td>
 <td align="right">184</td>
 <td><sub>Fukuoka, Japan</sub></td>
+</tr>
+<tr>
+<td align="right">891</td>
+<td><a href="https://github.com/yutopp"><img src="https://avatars.githubusercontent.com/u/219797?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yutopp"><b>yutopp</b></a><br><sub>&#64;yutopp</sub></td>
+<td align="right"><b>253</b></td>
+<td align="right">121</td>
+<td><sub>Japan</sub></td>
 </tr>
 <tr>
 <td align="right">892</td>
@@ -6477,45 +6477,45 @@
 </tr>
 <tr>
 <td align="right">923</td>
+<td><a href="https://github.com/kevincobain2000"><img src="https://avatars.githubusercontent.com/u/629055?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kevincobain2000"><b>Pulkit Kathuria</b></a><br><sub>&#64;kevincobain2000</sub></td>
+<td align="right"><b>244</b></td>
+<td align="right">153</td>
+<td><sub>Tokyo, Japan</sub></td>
+</tr>
+<tr>
+<td align="right">924</td>
 <td><a href="https://github.com/ryoqun"><img src="https://avatars.githubusercontent.com/u/117807?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ryoqun"><b>Ryo Onodera</b></a><br><sub>&#64;ryoqun</sub></td>
 <td align="right"><b>244</b></td>
 <td align="right">152</td>
 <td><sub>Tokyo, Japan</sub></td>
 </tr>
 <tr>
-<td align="right">924</td>
+<td align="right">925</td>
 <td><a href="https://github.com/imaimai17468"><img src="https://avatars.githubusercontent.com/u/52590941?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/imaimai17468"><b>imaimai17468</b></a><br><sub>&#64;imaimai17468</sub></td>
 <td align="right"><b>244</b></td>
 <td align="right">95</td>
 <td><sub>Chiba</sub></td>
 </tr>
 <tr>
-<td align="right">925</td>
+<td align="right">926</td>
 <td><a href="https://github.com/CDog34"><img src="https://avatars.githubusercontent.com/u/11211603?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CDog34"><b>PeterCao</b></a><br><sub>&#64;CDog34</sub></td>
 <td align="right"><b>244</b></td>
 <td align="right">57</td>
 <td><sub>Tokyo</sub></td>
 </tr>
 <tr>
-<td align="right">926</td>
+<td align="right">927</td>
 <td><a href="https://github.com/fujita"><img src="https://avatars.githubusercontent.com/u/726426?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fujita"><b>FUJITA Tomonori</b></a><br><sub>&#64;fujita</sub></td>
 <td align="right"><b>244</b></td>
 <td align="right">36</td>
 <td><sub>Tokyo, Japan</sub></td>
 </tr>
 <tr>
-<td align="right">927</td>
+<td align="right">928</td>
 <td><a href="https://github.com/MTZun10"><img src="https://avatars.githubusercontent.com/u/95432260?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MTZun10"><b>Zun</b></a><br><sub>&#64;MTZun10</sub></td>
 <td align="right"><b>244</b></td>
 <td align="right">11</td>
 <td><sub>Kyoto, Japan</sub></td>
-</tr>
-<tr>
-<td align="right">928</td>
-<td><a href="https://github.com/kevincobain2000"><img src="https://avatars.githubusercontent.com/u/629055?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kevincobain2000"><b>Pulkit Kathuria</b></a><br><sub>&#64;kevincobain2000</sub></td>
-<td align="right"><b>243</b></td>
-<td align="right">153</td>
-<td><sub>Tokyo, Japan</sub></td>
 </tr>
 <tr>
 <td align="right">929</td>
@@ -6904,94 +6904,94 @@
 </tr>
 <tr>
 <td align="right">984</td>
+<td><a href="https://github.com/chrissotraidis"><img src="https://avatars.githubusercontent.com/u/56282582?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chrissotraidis"><b>Chris Sotraidis</b></a><br><sub>&#64;chrissotraidis</sub></td>
+<td align="right"><b>232</b></td>
+<td align="right">80</td>
+<td><sub>Tokyo, Japan</sub></td>
+</tr>
+<tr>
+<td align="right">985</td>
 <td><a href="https://github.com/shi3z"><img src="https://avatars.githubusercontent.com/u/332821?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shi3z"><b>shi3z</b></a><br><sub>&#64;shi3z</sub></td>
 <td align="right"><b>231</b></td>
 <td align="right">93</td>
 <td><sub>Tokyo,Japan</sub></td>
 </tr>
 <tr>
-<td align="right">985</td>
+<td align="right">986</td>
 <td><a href="https://github.com/silverskyvicto"><img src="https://avatars.githubusercontent.com/u/3609003?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/silverskyvicto"><b>Yuuki Ebihara</b></a><br><sub>&#64;silverskyvicto</sub></td>
 <td align="right"><b>231</b></td>
 <td align="right">76</td>
 <td><sub>Japan</sub></td>
 </tr>
 <tr>
-<td align="right">986</td>
+<td align="right">987</td>
 <td><a href="https://github.com/T-Kuhn"><img src="https://avatars.githubusercontent.com/u/14211994?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/T-Kuhn"><b>Tobias Kuhn</b></a><br><sub>&#64;T-Kuhn</sub></td>
 <td align="right"><b>231</b></td>
 <td align="right">46</td>
 <td><sub>Sapporo</sub></td>
 </tr>
 <tr>
-<td align="right">987</td>
+<td align="right">988</td>
 <td><a href="https://github.com/tk0miya"><img src="https://avatars.githubusercontent.com/u/748828?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tk0miya"><b>Takeshi KOMIYA</b></a><br><sub>&#64;tk0miya</sub></td>
 <td align="right"><b>230</b></td>
 <td align="right">214</td>
 <td><sub>Saitama, Japan</sub></td>
 </tr>
 <tr>
-<td align="right">988</td>
+<td align="right">989</td>
 <td><a href="https://github.com/Kuniwak"><img src="https://avatars.githubusercontent.com/u/1124024?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kuniwak"><b>Yuki Kokubun</b></a><br><sub>&#64;Kuniwak</sub></td>
 <td align="right"><b>230</b></td>
 <td align="right">207</td>
 <td><sub>Japan</sub></td>
 </tr>
 <tr>
-<td align="right">989</td>
+<td align="right">990</td>
 <td><a href="https://github.com/Coordinate-Cat"><img src="https://avatars.githubusercontent.com/u/42393004?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Coordinate-Cat"><b>Ocat</b></a><br><sub>&#64;Coordinate-Cat</sub></td>
 <td align="right"><b>230</b></td>
 <td align="right">144</td>
 <td><sub>Tokyo/Japan</sub></td>
 </tr>
 <tr>
-<td align="right">990</td>
+<td align="right">991</td>
 <td><a href="https://github.com/onk"><img src="https://avatars.githubusercontent.com/u/203046?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/onk"><b>Takafumi ONAKA</b></a><br><sub>&#64;onk</sub></td>
 <td align="right"><b>230</b></td>
 <td align="right">105</td>
 <td><sub>Kyoto, Japan</sub></td>
 </tr>
 <tr>
-<td align="right">991</td>
+<td align="right">992</td>
 <td><a href="https://github.com/otya128"><img src="https://avatars.githubusercontent.com/u/4075988?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/otya128"><b>otya</b></a><br><sub>&#64;otya128</sub></td>
 <td align="right"><b>230</b></td>
 <td align="right">81</td>
 <td><sub>Japan</sub></td>
 </tr>
 <tr>
-<td align="right">992</td>
+<td align="right">993</td>
 <td><a href="https://github.com/Sadikn7i"><img src="https://avatars.githubusercontent.com/u/184187653?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sadikn7i"><b>Sadik Aden</b></a><br><sub>&#64;Sadikn7i</sub></td>
 <td align="right"><b>230</b></td>
 <td align="right">51</td>
 <td><sub>Japan</sub></td>
 </tr>
 <tr>
-<td align="right">993</td>
+<td align="right">994</td>
 <td><a href="https://github.com/kazuhikoarase"><img src="https://avatars.githubusercontent.com/u/1137546?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kazuhikoarase"><b>kazuhiko arase</b></a><br><sub>&#64;kazuhikoarase</sub></td>
 <td align="right"><b>230</b></td>
 <td align="right">48</td>
 <td><sub>Tokyo</sub></td>
 </tr>
 <tr>
-<td align="right">994</td>
+<td align="right">995</td>
 <td><a href="https://github.com/djnnvx"><img src="https://avatars.githubusercontent.com/u/29751352?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/djnnvx"><b>djnn</b></a><br><sub>&#64;djnnvx</sub></td>
 <td align="right"><b>230</b></td>
 <td align="right">18</td>
 <td><sub>Tokyo</sub></td>
 </tr>
 <tr>
-<td align="right">995</td>
+<td align="right">996</td>
 <td><a href="https://github.com/mesqueeb"><img src="https://avatars.githubusercontent.com/u/3253920?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mesqueeb"><b>Luca Ban</b></a><br><sub>&#64;mesqueeb</sub></td>
 <td align="right"><b>229</b></td>
 <td align="right">197</td>
 <td><sub>Tokyo</sub></td>
-</tr>
-<tr>
-<td align="right">996</td>
-<td><a href="https://github.com/chrissotraidis"><img src="https://avatars.githubusercontent.com/u/56282582?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chrissotraidis"><b>Chris Sotraidis</b></a><br><sub>&#64;chrissotraidis</sub></td>
-<td align="right"><b>229</b></td>
-<td align="right">80</td>
-<td><sub>Tokyo, Japan</sub></td>
 </tr>
 <tr>
 <td align="right">997</td>
@@ -7029,7 +7029,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global follower scan — every developer above this cutoff has been enumerated.
-- Organizations are excluded. 1,404 attributed developers are tracked; the cutoff is 228 followers.
+- Organizations are excluded. 1,470 attributed developers are tracked; the cutoff is 228 followers.
 - **Location discovery:** term 0 of 162 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

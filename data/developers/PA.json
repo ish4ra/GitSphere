@@ -124,7 +124,7 @@
   {"rank":115,"id":"MDQ6VXNlcjkxNjAwNDk=","login":"mitchellchris1","name":"Christopher Mitchell","url":"https://github.com/mitchellchris1","avatarUrl":"https://avatars.githubusercontent.com/u/9160049?s=80&v=4","followers":3,"publicRepos":2,"location":"Panama","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":116,"id":"MDQ6VXNlcjY1NDE2NzY1","login":"amuggia","name":"Alessandro Muggia","url":"https://github.com/amuggia","avatarUrl":"https://avatars.githubusercontent.com/u/65416765?s=80&v=4","followers":3,"publicRepos":1,"location":"Panama","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":117,"id":"MDQ6VXNlcjMwMDI2Mjcz","login":"atomikigai","name":"Jostick Quiel","url":"https://github.com/atomikigai","avatarUrl":"https://avatars.githubusercontent.com/u/30026273?s=80&v=4","followers":3,"publicRepos":1,"location":"Panama","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
-  {"rank":118,"id":"MDQ6VXNlcjM5MDk0OTk2","login":"landerlezcano","name":null,"url":"https://github.com/landerlezcano","avatarUrl":"https://avatars.githubusercontent.com/u/39094996?s=80&v=4","followers":2,"publicRepos":116,"location":"Panama","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":118,"id":"MDQ6VXNlcjM5MDk0OTk2","login":"landerlezcano","name":null,"url":"https://github.com/landerlezcano","avatarUrl":"https://avatars.githubusercontent.com/u/39094996?s=80&v=4","followers":2,"publicRepos":116,"location":"Panama","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":119,"id":"MDQ6VXNlcjcwOTIyNzcy","login":"ckomalram","name":"K.arlyle","url":"https://github.com/ckomalram","avatarUrl":"https://avatars.githubusercontent.com/u/70922772?s=80&v=4","followers":2,"publicRepos":59,"location":"PANAMA","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":120,"id":"MDQ6VXNlcjU0NjMxODkx","login":"Takata21","name":"Manuel Takata","url":"https://github.com/Takata21","avatarUrl":"https://avatars.githubusercontent.com/u/54631891?s=80&v=4","followers":2,"publicRepos":56,"location":"Panama","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":121,"id":"U_kgDOBbwEzA","login":"Juanleonel03","name":"Juan Leonel","url":"https://github.com/Juanleonel03","avatarUrl":"https://avatars.githubusercontent.com/u/96208076?s=80&v=4","followers":2,"publicRepos":42,"location":"Panama","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
@@ -410,8 +410,8 @@
   {"rank":401,"id":"U_kgDODev4EQ","login":"validator-99uptime-algo","name":"validator-99uptime-algo","url":"https://github.com/validator-99uptime-algo","avatarUrl":"https://avatars.githubusercontent.com/u/233568273?s=80&v=4","followers":0,"publicRepos":1,"location":"Panama","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":402,"id":"U_kgDOBnJXlA","login":"xXPapurryXx","name":"Simon Becerra","url":"https://github.com/xXPapurryXx","avatarUrl":"https://avatars.githubusercontent.com/u/108156820?s=80&v=4","followers":0,"publicRepos":1,"location":"PANAMA","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "1247dfa6c8e6848b",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "0dfb1640499fa294",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

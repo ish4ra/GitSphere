@@ -38,8 +38,8 @@
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/1989shack"><img src="https://avatars.githubusercontent.com/u/20357505?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/1989shack"><b>Martin M Sheriff</b></a><br><sub>&#64;1989shack</sub></td>
-<td align="right"><b>157</b></td>
-<td align="right">856</td>
+<td align="right"><b>158</b></td>
+<td align="right">877</td>
 <td><sub>Monrovia, Liberia</sub></td>
 </tr>
 <tr>
@@ -151,7 +151,7 @@
 <td align="right">19</td>
 <td><a href="https://github.com/Deviskalo"><img src="https://avatars.githubusercontent.com/u/99690368?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Deviskalo"><b>Dev Iskalo</b></a><br><sub>&#64;Deviskalo</sub></td>
 <td align="right"><b>19</b></td>
-<td align="right">61</td>
+<td align="right">62</td>
 <td><sub>Monrovia, Liberia</sub></td>
 </tr>
 <tr>

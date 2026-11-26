@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **41** | 23 Nov 2026 | <a href="../data/IS.json">JSON</a> |
+| 🟡 Provisional | **46** | 23 Nov 2026 | <a href="../data/IS.json">JSON</a> |
 
 </div>
 
@@ -101,14 +101,14 @@
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/einaregilsson.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/einaregilsson/Redirector"><b>einaregilsson/Redirector</b></a><br><sub>Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod&#95;rewri…</sub></td>
-<td align="right"><b>2,110</b></td>
+<td align="right"><b>2,111</b></td>
 <td align="right">200</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">13</td>
 <td><img src="https://github.com/jh3y.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jh3y/whirl"><b>jh3y/whirl</b></a><br><sub>CSS loading animations with minimal effort!</sub></td>
-<td align="right"><b>1,836</b></td>
+<td align="right"><b>1,837</b></td>
 <td align="right">249</td>
 <td>SCSS</td>
 </tr>
@@ -122,7 +122,7 @@
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/mecid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mecid/SwiftUICharts"><b>mecid/SwiftUICharts</b></a><br><sub>A simple line and bar charting library that supports accessibility written using SwiftUI.</sub></td>
-<td align="right"><b>1,574</b></td>
+<td align="right"><b>1,575</b></td>
 <td align="right">73</td>
 <td>Swift</td>
 </tr>
@@ -308,6 +308,41 @@
 <td align="right">88</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">42</td>
+<td><img src="https://github.com/island-is.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/island-is/island.is"><b>island-is/island.is</b></a><br><sub>Monorepo for Iceland&#39;s digital services.</sub></td>
+<td align="right"><b>445</b></td>
+<td align="right">76</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">43</td>
+<td><img src="https://github.com/LSafer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LSafer/edgeseek"><b>LSafer/edgeseek</b></a><br><sub>The Source Code of Edge Seek</sub></td>
+<td align="right"><b>443</b></td>
+<td align="right">21</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><img src="https://github.com/Mr-Bossman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Mr-Bossman/pi-pico2-linux"><b>Mr-Bossman/pi-pico2-linux</b></a><br><sub>RISC-V linux on the raspberry pi pico 2</sub></td>
+<td align="right"><b>425</b></td>
+<td align="right">42</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">45</td>
+<td><img src="https://github.com/klimeryk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/klimeryk/recalendar.js"><b>klimeryk/recalendar.js</b></a><br><sub>ReCalendar - create your personalized calendar PDF for ReMarkable tablets</sub></td>
+<td align="right"><b>424</b></td>
+<td align="right">105</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">46</td>
+<td><img src="https://github.com/penguin-statistics.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/penguin-statistics/frontend-v2"><b>penguin-statistics/frontend-v2</b></a><br><sub>The frontend of the Penguin Statistics website.</sub></td>
+<td align="right"><b>410</b></td>
+<td align="right">55</td>
+<td>Vue</td>
+</tr>
 </tbody>
 </table>
 
@@ -316,8 +351,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 455 stars; 41 attributed candidates are tracked.
-- 99 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 410 stars; 46 attributed candidates are tracked.
+- 95 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 107 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

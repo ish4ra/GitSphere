@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/DO.json">JSON</a> |
+| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/contributors/DO.json">JSON</a> |
 
 </div>
 
@@ -106,6 +106,15 @@
 </tr>
 <tr>
 <td align="right">10</td>
+<td><a href="https://github.com/itsalb3rt"><img src="https://avatars.githubusercontent.com/u/35310226?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/itsalb3rt"><b>Albert E. Hidalgo Taveras</b></a><br><sub>&#64;itsalb3rt · 154 followers</sub></td>
+<td align="right"><b>47</b></td>
+<td align="right">42</td>
+<td align="right">1</td>
+<td align="right">1</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">11</td>
 <td><a href="https://github.com/robertlluberes"><img src="https://avatars.githubusercontent.com/u/13991439?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/robertlluberes"><b>Robert Lluberes</b></a><br><sub>&#64;robertlluberes · 163 followers</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">18</td>
@@ -114,7 +123,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/xhit"><img src="https://avatars.githubusercontent.com/u/51337247?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xhit"><b>Santiago De la Cruz</b></a><br><sub>&#64;xhit · 37 followers</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">5</td>
@@ -123,7 +132,7 @@
 <td align="right">3</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/crystalduran"><img src="https://avatars.githubusercontent.com/u/109189597?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/crystalduran"><b>Crystal D</b></a><br><sub>&#64;crystalduran · 196 followers</sub></td>
 <td align="right"><b>13</b></td>
 <td align="right">8</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/juliourena"><img src="https://avatars.githubusercontent.com/u/29603107?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/juliourena"><b>Julio Ureña</b></a><br><sub>&#64;juliourena · 320 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">2</td>
@@ -141,11 +150,20 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/adonismendozaperez"><img src="https://avatars.githubusercontent.com/u/15876642?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adonismendozaperez"><b>Adonis Mendoza</b></a><br><sub>&#64;adonismendozaperez · 117 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">4</td>
 <td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><a href="https://github.com/francisbrito"><img src="https://avatars.githubusercontent.com/u/2180822?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/francisbrito"><b>Francis Brito</b></a><br><sub>&#64;francisbrito · 153 followers</sub></td>
+<td align="right"><b>3</b></td>
+<td align="right">1</td>
+<td align="right">1</td>
 <td align="right">0</td>
 <td align="right">0</td>
 </tr>
@@ -156,7 +174,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 20 of 406 discovered developers (386 awaiting measurement).
+- **Measured:** 22 of 407 discovered developers (385 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 134 in round 1.

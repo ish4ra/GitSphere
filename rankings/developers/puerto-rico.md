@@ -129,7 +129,7 @@
 <tr>
 <td align="right">16</td>
 <td><a href="https://github.com/perazaharmonics"><img src="https://avatars.githubusercontent.com/u/141517235?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/perazaharmonics"><b>J. Enrique Peraza, MEngEE</b></a><br><sub>&#64;perazaharmonics</sub></td>
-<td align="right"><b>155</b></td>
+<td align="right"><b>154</b></td>
 <td align="right">8</td>
 <td><sub>Hatillo, Puerto Rico</sub></td>
 </tr>
@@ -310,16 +310,16 @@
 </tr>
 <tr>
 <td align="right">42</td>
-<td><a href="https://github.com/timolson"><img src="https://avatars.githubusercontent.com/u/1697115?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/timolson"><b>Tim Olson</b></a><br><sub>&#64;timolson</sub></td>
-<td align="right"><b>52</b></td>
-<td align="right">17</td>
+<td><a href="https://github.com/Wolfkid200444"><img src="https://avatars.githubusercontent.com/u/32025746?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Wolfkid200444"><b>Wolfie</b></a><br><sub>&#64;Wolfkid200444</sub></td>
+<td align="right"><b>51</b></td>
+<td align="right">158</td>
 <td><sub>Puerto Rico</sub></td>
 </tr>
 <tr>
 <td align="right">43</td>
-<td><a href="https://github.com/Wolfkid200444"><img src="https://avatars.githubusercontent.com/u/32025746?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Wolfkid200444"><b>Wolfie</b></a><br><sub>&#64;Wolfkid200444</sub></td>
+<td><a href="https://github.com/timolson"><img src="https://avatars.githubusercontent.com/u/1697115?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/timolson"><b>Tim Olson</b></a><br><sub>&#64;timolson</sub></td>
 <td align="right"><b>51</b></td>
-<td align="right">158</td>
+<td align="right">17</td>
 <td><sub>Puerto Rico</sub></td>
 </tr>
 <tr>
@@ -367,7 +367,7 @@
 <tr>
 <td align="right">50</td>
 <td><a href="https://github.com/Keinta15"><img src="https://avatars.githubusercontent.com/u/40346724?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Keinta15"><b>Keinta15</b></a><br><sub>&#64;Keinta15</sub></td>
-<td align="right"><b>43</b></td>
+<td align="right"><b>44</b></td>
 <td align="right">35</td>
 <td><sub>Puerto Rico</sub></td>
 </tr>

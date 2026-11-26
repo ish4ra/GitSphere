@@ -66,7 +66,7 @@
 <tr>
 <td align="right">7</td>
 <td><a href="https://github.com/tchx84"><img src="https://avatars.githubusercontent.com/u/481418?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tchx84"><b>Martin Abente Lahaye</b></a><br><sub>&#64;tchx84</sub></td>
-<td align="right"><b>265</b></td>
+<td align="right"><b>264</b></td>
 <td align="right">231</td>
 <td><sub>Paraguay</sub></td>
 </tr>

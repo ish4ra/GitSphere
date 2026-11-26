@@ -5,7 +5,7 @@
 "country": {"code":"KG","name":"Kyrgyzstan","slug":"kyrgyzstan"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":19,"ownerExpansionBacklog":137,"candidates":22,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":89,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":19,"ownerExpansionBacklog":134,"candidates":22,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":89,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkyMDcwMzA2NTk=","name":"PhotonCamera","nameWithOwner":"eszdman/PhotonCamera","url":"https://github.com/eszdman/PhotonCamera","description":"Android Camera that uses Enhanced image processing","stars":1125,"forks":112,"primaryLanguage":"Java","license":{"spdxId":"GPL-3.0"},"createdAt":"2019-09-07T22:03:02Z","pushedAt":"2026-11-23T21:18:22Z","archived":false,"owner":{"login":"eszdman","name":null,"type":"User","url":"https://github.com/eszdman","location":"Kyrgyzstan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkzNjA2OTkyMA==","name":"vim-javacomplete2","nameWithOwner":"artur-shaik/vim-javacomplete2","url":"https://github.com/artur-shaik/vim-javacomplete2","description":"DEPRECATED in favor of jc.nvim","stars":962,"forks":79,"primaryLanguage":"Vim Script","license":{"spdxId":"Vim"},"createdAt":"2015-05-22T11:57:45Z","pushedAt":"2023-04-25T11:09:16Z","archived":false,"owner":{"login":"artur-shaik","name":"Artur Shaik","type":"User","url":"https://github.com/artur-shaik","location":"Bishkek, KG","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-11-24"},
@@ -30,8 +30,8 @@
   {"rank":21,"id":null,"name":"GID.github.io","nameWithOwner":"a6udev/GID.github.io","url":"https://github.com/a6udev/GID.github.io","description":null,"stars":1,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2024-07-15T07:19:16Z","pushedAt":"2024-07-16T10:40:31Z","archived":false,"owner":{"login":"a6udev","name":"Abubakir","type":"User","url":"https://github.com/a6udev","location":"Kyrgyzstan, Osh","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":22,"id":null,"name":"project-template","nameWithOwner":"abaialihan/project-template","url":"https://github.com/abaialihan/project-template","description":null,"stars":1,"forks":0,"primaryLanguage":"Kotlin","license":null,"createdAt":"2025-02-23T07:00:46Z","pushedAt":"2025-02-23T07:42:10Z","archived":false,"owner":{"login":"abaialihan","name":"Abai","type":"User","url":"https://github.com/abaialihan","location":"Kyrgyzstan Bishkek","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "36f6caf7b867377d",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "631662a871c8029b",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

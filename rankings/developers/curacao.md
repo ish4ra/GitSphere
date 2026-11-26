@@ -135,16 +135,16 @@
 </tr>
 <tr>
 <td align="right">17</td>
-<td><a href="https://github.com/05v"><img src="https://avatars.githubusercontent.com/u/64431087?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/05v"><b>Vlad Verheij</b></a><br><sub>&#64;05v</sub></td>
+<td><a href="https://github.com/coinversus"><img src="https://avatars.githubusercontent.com/u/34513030?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/coinversus"><b>CoinVersus</b></a><br><sub>&#64;coinversus</sub></td>
 <td align="right"><b>4</b></td>
-<td align="right">5</td>
+<td align="right">0</td>
 <td><sub>Curaçao</sub></td>
 </tr>
 <tr>
 <td align="right">18</td>
-<td><a href="https://github.com/coinversus"><img src="https://avatars.githubusercontent.com/u/34513030?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/coinversus"><b>CoinVersus</b></a><br><sub>&#64;coinversus</sub></td>
-<td align="right"><b>4</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/05v"><img src="https://avatars.githubusercontent.com/u/64431087?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/05v"><b>Vlad Verheij</b></a><br><sub>&#64;05v</sub></td>
+<td align="right"><b>3</b></td>
+<td align="right">5</td>
 <td><sub>Curaçao</sub></td>
 </tr>
 <tr>

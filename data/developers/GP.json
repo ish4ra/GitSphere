@@ -7,12 +7,12 @@
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
 "coverage": {"basis":"partial","cutoffFollowers":0,"candidates":266,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":25,"unresolved":0},"exhaustive":false},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjIyNDI1Mzk3","login":"iamcryptoki","name":"Gael Gentil","url":"https://github.com/iamcryptoki","avatarUrl":"https://avatars.githubusercontent.com/u/22425397?s=80&v=4","followers":141,"publicRepos":23,"location":"Guadeloupe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":1,"id":"MDQ6VXNlcjIyNDI1Mzk3","login":"iamcryptoki","name":"Gael Gentil","url":"https://github.com/iamcryptoki","avatarUrl":"https://avatars.githubusercontent.com/u/22425397?s=80&v=4","followers":141,"publicRepos":23,"location":"Guadeloupe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":"MDQ6VXNlcjg2MDIzMjI4","login":"liobrasil","name":"Lionel LIMOL","url":"https://github.com/liobrasil","avatarUrl":"https://avatars.githubusercontent.com/u/86023228?s=80&v=4","followers":74,"publicRepos":23,"location":"Guadeloupe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":3,"id":"MDQ6VXNlcjUyMjIyNTc0","login":"D0wzy","name":"0x656e7a6f","url":"https://github.com/D0wzy","avatarUrl":"https://avatars.githubusercontent.com/u/52222574?s=80&v=4","followers":50,"publicRepos":2,"location":"Guadeloupe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":4,"id":"MDQ6VXNlcjQxNzY0MQ==","login":"khalil-tabbal","name":"Khalil TABBAL","url":"https://github.com/khalil-tabbal","avatarUrl":"https://avatars.githubusercontent.com/u/417641?s=80&v=4","followers":37,"publicRepos":9,"location":"Guadeloupe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":5,"id":"MDQ6VXNlcjQwMjczMjMy","login":"BLVCK971","name":"Yoel Pépin","url":"https://github.com/BLVCK971","avatarUrl":"https://avatars.githubusercontent.com/u/40273232?s=80&v=4","followers":18,"publicRepos":25,"location":"Le Moule, GUADELOUPE","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-26"},
-  {"rank":6,"id":"MDQ6VXNlcjM4MjQxNTI=","login":"sarinkhan","name":"Audrey Robinel","url":"https://github.com/sarinkhan","avatarUrl":"https://avatars.githubusercontent.com/u/3824152?s=80&v=4","followers":18,"publicRepos":25,"location":"Guadeloupe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":6,"id":"MDQ6VXNlcjM4MjQxNTI=","login":"sarinkhan","name":"Audrey Robinel","url":"https://github.com/sarinkhan","avatarUrl":"https://avatars.githubusercontent.com/u/3824152?s=80&v=4","followers":18,"publicRepos":25,"location":"Guadeloupe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":7,"id":"MDQ6VXNlcjUyNjU4MA==","login":"guadeloupe","name":"Guadeloupe","url":"https://github.com/guadeloupe","avatarUrl":"https://avatars.githubusercontent.com/u/526580?s=80&v=4","followers":16,"publicRepos":0,"location":"Guadeloupe - London - Paris","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":8,"id":"MDQ6VXNlcjU5NTAxNDI=","login":"macojaune","name":"macojaune","url":"https://github.com/macojaune","avatarUrl":"https://avatars.githubusercontent.com/u/5950142?s=80&v=4","followers":15,"publicRepos":38,"location":"Guadeloupe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":9,"id":"MDQ6VXNlcjk4NDI0MA==","login":"sboli","name":"Bolivar Stephen","url":"https://github.com/sboli","avatarUrl":"https://avatars.githubusercontent.com/u/984240?s=80&v=4","followers":14,"publicRepos":27,"location":"Guadeloupe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
@@ -274,8 +274,8 @@
   {"rank":265,"id":"U_kgDOBv-yzw","login":"Wilel0","name":"Wilfrid DUNTER","url":"https://github.com/Wilel0","avatarUrl":"https://avatars.githubusercontent.com/u/117420751?s=80&v=4","followers":0,"publicRepos":0,"location":"Guadeloupe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":266,"id":"MDQ6VXNlcjY0MzI4ODk0","login":"zandoligwada","name":null,"url":"https://github.com/zandoligwada","avatarUrl":"https://avatars.githubusercontent.com/u/64328894?s=80&v=4","followers":0,"publicRepos":0,"location":"Guadeloupe","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "fbdb1c31270db0fd",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "6662726b0dbce70d",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

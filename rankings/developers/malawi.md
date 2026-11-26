@@ -473,7 +473,7 @@
 <td align="right">65</td>
 <td><a href="https://github.com/Mzota2"><img src="https://avatars.githubusercontent.com/u/103681065?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mzota2"><b>Emmanuel Chirambo</b></a><br><sub>&#64;Mzota2</sub></td>
 <td align="right"><b>21</b></td>
-<td align="right">64</td>
+<td align="right">63</td>
 <td><sub>Malawi</sub></td>
 </tr>
 <tr>

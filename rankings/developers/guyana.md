@@ -66,7 +66,7 @@
 <tr>
 <td align="right">7</td>
 <td><a href="https://github.com/xbze3"><img src="https://avatars.githubusercontent.com/u/155508437?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xbze3"><b>Ezra Minty</b></a><br><sub>&#64;xbze3</sub></td>
-<td align="right"><b>230</b></td>
+<td align="right"><b>231</b></td>
 <td align="right">24</td>
 <td><sub>Guyana</sub></td>
 </tr>

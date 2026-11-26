@@ -157,21 +157,21 @@
 <tr>
 <td align="right">20</td>
 <td><img src="https://github.com/namespace-ee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/namespace-ee/react-calendar-timeline"><b>namespace-ee/react-calendar-timeline</b></a><br><sub>A modern and responsive react timeline component.</sub></td>
-<td align="right"><b>2,163</b></td>
-<td align="right">673</td>
+<td align="right"><b>2,164</b></td>
+<td align="right">672</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/zone-eu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zone-eu/wildduck"><b>zone-eu/wildduck</b></a><br><sub>Opinionated email server</sub></td>
-<td align="right"><b>2,113</b></td>
-<td align="right">287</td>
+<td align="right"><b>2,114</b></td>
+<td align="right">286</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">22</td>
 <td><img src="https://github.com/LumePart.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LumePart/Explo"><b>LumePart/Explo</b></a><br><sub>Spotify&#39;s &quot;Discover Weekly&quot; for self-hosted music systems</sub></td>
-<td align="right"><b>2,107</b></td>
+<td align="right"><b>2,110</b></td>
 <td align="right">58</td>
 <td>Go</td>
 </tr>
@@ -185,8 +185,8 @@
 <tr>
 <td align="right">24</td>
 <td><img src="https://github.com/carlrobertoh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/carlrobertoh/ProxyAI"><b>carlrobertoh/ProxyAI</b></a><br><sub>The leading open-source AI copilot for JetBrains. Connect to any model in any environment, and customize your coding ex…</sub></td>
-<td align="right"><b>1,939</b></td>
-<td align="right">403</td>
+<td align="right"><b>1,938</b></td>
+<td align="right">405</td>
 <td>Kotlin</td>
 </tr>
 <tr>
@@ -228,7 +228,7 @@
 <td align="right">30</td>
 <td><img src="https://github.com/harrisiirak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/harrisiirak/cron-parser"><b>harrisiirak/cron-parser</b></a><br><sub>Typescript library for parsing crontab instructions</sub></td>
 <td align="right"><b>1,501</b></td>
-<td align="right">188</td>
+<td align="right">190</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 506 stars; 108 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 506 stars; 122 attributed candidates are tracked.
 - 107 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 142 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

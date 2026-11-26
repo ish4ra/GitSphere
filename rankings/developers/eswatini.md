@@ -38,7 +38,7 @@
 <tr>
 <td align="right">3</td>
 <td><a href="https://github.com/Bheki-Freeman"><img src="https://avatars.githubusercontent.com/u/64682211?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bheki-Freeman"><b>Bheki-Freeman</b></a><br><sub>&#64;Bheki-Freeman</sub></td>
-<td align="right"><b>56</b></td>
+<td align="right"><b>55</b></td>
 <td align="right">28</td>
 <td><sub>Mbabane Hhohho Swaziland</sub></td>
 </tr>

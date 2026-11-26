@@ -263,28 +263,28 @@
 <td align="right">35</td>
 <td><img src="https://github.com/cthackers.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cthackers/adm-zip"><b>cthackers/adm-zip</b></a><br><sub>A Javascript implementation of zip for nodejs. Allows user to create or extract zip files both in memory or to/from disk</sub></td>
 <td align="right"><b>2,186</b></td>
-<td align="right">429</td>
+<td align="right">427</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">36</td>
 <td><img src="https://github.com/3rd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/3rd/image.nvim"><b>3rd/image.nvim</b></a><br><sub>🖼️ Bringing images to Neovim.</sub></td>
-<td align="right"><b>2,116</b></td>
-<td align="right">117</td>
+<td align="right"><b>2,117</b></td>
+<td align="right">116</td>
 <td>Lua</td>
 </tr>
 <tr>
 <td align="right">37</td>
 <td><img src="https://github.com/rdragos.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rdragos/awesome-mpc"><b>rdragos/awesome-mpc</b></a><br><sub>A curated list of multi party computation resources and links.</sub></td>
-<td align="right"><b>1,997</b></td>
+<td align="right"><b>1,998</b></td>
 <td align="right">284</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">38</td>
 <td><img src="https://github.com/razvandimescu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/razvandimescu/numa"><b>razvandimescu/numa</b></a><br><sub>Portable DNS resolver in Rust: .numa local domains, ad blocking, developer overrides, DoT/DoH/ODoH and DNSSEC</sub></td>
-<td align="right"><b>1,981</b></td>
-<td align="right">146</td>
+<td align="right"><b>1,989</b></td>
+<td align="right">145</td>
 <td>Rust</td>
 </tr>
 <tr>
@@ -297,29 +297,29 @@
 <tr>
 <td align="right">40</td>
 <td><img src="https://github.com/FuzzyIdeas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FuzzyIdeas/Clop"><b>FuzzyIdeas/Clop</b></a><br><sub>Clipboard optimizer for macOS</sub></td>
-<td align="right"><b>1,881</b></td>
-<td align="right">85</td>
+<td align="right"><b>1,889</b></td>
+<td align="right">86</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">41</td>
 <td><img src="https://github.com/ntdevlabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ntdevlabs/nano11"><b>ntdevlabs/nano11</b></a><br><sub>Script to build possibly the most trimmed-down Windows 11 experience.</sub></td>
-<td align="right"><b>1,841</b></td>
-<td align="right">165</td>
+<td align="right"><b>1,842</b></td>
+<td align="right">166</td>
 <td>PowerShell</td>
 </tr>
 <tr>
 <td align="right">42</td>
-<td><img src="https://github.com/florinpop17.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/florinpop17/10-projects-10-hours"><b>florinpop17/10-projects-10-hours</b></a></td>
-<td align="right"><b>1,726</b></td>
-<td align="right">631</td>
+<td><img src="https://github.com/mihaifm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mihaifm/linq"><b>mihaifm/linq</b></a><br><sub>linq.js - LINQ for JavaScript</sub></td>
+<td align="right"><b>1,724</b></td>
+<td align="right">230</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">43</td>
-<td><img src="https://github.com/mihaifm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mihaifm/linq"><b>mihaifm/linq</b></a><br><sub>linq.js - LINQ for JavaScript</sub></td>
-<td align="right"><b>1,724</b></td>
-<td align="right">230</td>
+<td><img src="https://github.com/florinpop17.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/florinpop17/10-projects-10-hours"><b>florinpop17/10-projects-10-hours</b></a></td>
+<td align="right"><b>1,723</b></td>
+<td align="right">631</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -339,7 +339,7 @@
 <tr>
 <td align="right">46</td>
 <td><img src="https://github.com/long1eu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/long1eu/SpaceTabLayout"><b>long1eu/SpaceTabLayout</b></a><br><sub>Not actively maintained, but PR are welcomed</sub></td>
-<td align="right"><b>1,587</b></td>
+<td align="right"><b>1,586</b></td>
 <td align="right">263</td>
 <td>Java</td>
 </tr>
@@ -354,13 +354,13 @@
 <td align="right">48</td>
 <td><img src="https://github.com/acidb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/acidb/mobiscroll"><b>acidb/mobiscroll</b></a><br><sub>Scheduling, event calendar and resource management UI components, and Mobiscroll Connect, the calendar connectivity lay…</sub></td>
 <td align="right"><b>1,543</b></td>
-<td align="right">427</td>
+<td align="right">426</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">49</td>
 <td><img src="https://github.com/vladmihalcea.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vladmihalcea/high-performance-java-persistence"><b>vladmihalcea/high-performance-java-persistence</b></a><br><sub>The High-Performance Java Persistence book and video course code examples</sub></td>
-<td align="right"><b>1,505</b></td>
+<td align="right"><b>1,506</b></td>
 <td align="right">520</td>
 <td>Java</td>
 </tr>

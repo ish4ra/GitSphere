@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 23 Nov 2026 | <a href="../data/BJ.json">JSON</a> |
+| 🟡 Provisional | **8** | 23 Nov 2026 | <a href="../data/BJ.json">JSON</a> |
 
 </div>
 
@@ -32,7 +32,7 @@
 <td align="right">2</td>
 <td><img src="https://github.com/JideGuru.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JideGuru/FlutterSocialAppUIKit"><b>JideGuru/FlutterSocialAppUIKit</b></a><br><sub>Flutter representation of a Social App Concept.</sub></td>
 <td align="right"><b>1,979</b></td>
-<td align="right">504</td>
+<td align="right">502</td>
 <td>Dart</td>
 </tr>
 <tr>
@@ -70,6 +70,13 @@
 <td align="right">125</td>
 <td>Dart</td>
 </tr>
+<tr>
+<td align="right">8</td>
+<td><img src="https://github.com/brexis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/brexis/qml-bootstrap"><b>brexis/qml-bootstrap</b></a><br><sub>Sweet Qml components inspired from Ionic framework style for mobile and desktop Qt/Qml projects</sub></td>
+<td align="right"><b>411</b></td>
+<td align="right">107</td>
+<td>QML</td>
+</tr>
 </tbody>
 </table>
 
@@ -78,7 +85,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 477 stars; 7 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 411 stars; 8 attributed candidates are tracked.
 - **Location discovery:** term 0 of 86 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

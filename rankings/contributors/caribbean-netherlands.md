@@ -14,17 +14,26 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 22 Nov 2026 | <a href="../../data/contributors/BQ.json">JSON</a> |
+| 🟡 Provisional | **6** | 22 Nov 2026 | <a href="../../data/contributors/BQ.json">JSON</a> |
 
 </div>
 
-<p align="center"><sub>Public contributions from <b>22 Nov 2025</b> to <b>22 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
+<p align="center"><sub>Public contributions from <b>26 Nov 2025</b> to <b>26 Nov 2026</b> (rolling 12 months, per account measurement time)</sub></p>
 
 <table>
 <thead><tr><th align="right">#</th><th align="left">Developer</th><th align="right">Public contributions</th><th align="right">Commits</th><th align="right">PRs</th><th align="right">Reviews</th><th align="right">Issues</th></tr></thead>
 <tbody>
 <tr>
 <td align="right">1</td>
+<td><a href="https://github.com/UncleJ4ck"><img src="https://avatars.githubusercontent.com/u/52085661?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/UncleJ4ck"><b>Sc4r3Cr0w</b></a><br><sub>&#64;UncleJ4ck · 152 followers</sub></td>
+<td align="right"><b>199</b></td>
+<td align="right">62</td>
+<td align="right">110</td>
+<td align="right">0</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">2</td>
 <td><a href="https://github.com/debruijn"><img src="https://avatars.githubusercontent.com/u/10863988?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/debruijn"><b>Bert de Bruijn</b></a><br><sub>&#64;debruijn · 6 followers</sub></td>
 <td align="right"><b>190</b></td>
 <td align="right">174</td>
@@ -33,7 +42,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">2</td>
+<td align="right">3</td>
 <td><a href="https://github.com/sandervdwnl"><img src="https://avatars.githubusercontent.com/u/59202048?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sandervdwnl"><b>Sander van der Windt</b></a><br><sub>&#64;sandervdwnl · 0 followers</sub></td>
 <td align="right"><b>64</b></td>
 <td align="right">53</td>
@@ -42,7 +51,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">4</td>
 <td><a href="https://github.com/IanLKaplan"><img src="https://avatars.githubusercontent.com/u/5473690?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IanLKaplan"><b>Ian Kaplan</b></a><br><sub>&#64;IanLKaplan · 37 followers</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">14</td>
@@ -51,7 +60,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/misterdallas"><img src="https://avatars.githubusercontent.com/u/50529309?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/misterdallas"><b>Dallas Maltby</b></a><br><sub>&#64;misterdallas · 1 followers</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">8</td>
@@ -60,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/yes91"><img src="https://avatars.githubusercontent.com/u/2702291?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yes91"><b>Kieran Blazier</b></a><br><sub>&#64;yes91 · 10 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -75,7 +84,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 21 of 46 discovered developers (25 awaiting measurement).
+- **Measured:** 23 of 47 discovered developers (24 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 6 of 20 in round 1.

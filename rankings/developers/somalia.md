@@ -143,7 +143,7 @@
 <tr>
 <td align="right">18</td>
 <td><a href="https://github.com/yaasiinaxmed"><img src="https://avatars.githubusercontent.com/u/109895325?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yaasiinaxmed"><b>Yasin Ahmed</b></a><br><sub>&#64;yaasiinaxmed</sub></td>
-<td align="right"><b>120</b></td>
+<td align="right"><b>119</b></td>
 <td align="right">142</td>
 <td><sub>Magadisho - Somalia</sub></td>
 </tr>

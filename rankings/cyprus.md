@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **66** | 23 Nov 2026 | <a href="../data/CY.json">JSON</a> |
+| 🟡 Provisional | **74** | 23 Nov 2026 | <a href="../data/CY.json">JSON</a> |
 
 </div>
 
@@ -108,49 +108,49 @@
 <tr>
 <td align="right">13</td>
 <td><img src="https://github.com/pikvm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pikvm/ustreamer"><b>pikvm/ustreamer</b></a><br><sub>µStreamer - Lightweight and fast MJPEG-HTTP streamer</sub></td>
-<td align="right"><b>2,048</b></td>
+<td align="right"><b>2,047</b></td>
 <td align="right">288</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/AdguardTeam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AdguardTeam/AdguardForAndroid"><b>AdguardTeam/AdguardForAndroid</b></a><br><sub>Open bug tracker for Android version of AdGuard.</sub></td>
-<td align="right"><b>1,966</b></td>
+<td align="right"><b>1,972</b></td>
 <td align="right">120</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/GreenmaskIO.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/GreenmaskIO/greenmask"><b>GreenmaskIO/greenmask</b></a><br><sub>Database anonymization and test data management</sub></td>
-<td align="right"><b>1,809</b></td>
-<td align="right">85</td>
+<td align="right"><b>1,813</b></td>
+<td align="right">86</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">16</td>
 <td><img src="https://github.com/AdguardTeam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AdguardTeam/AdguardForiOS"><b>AdguardTeam/AdguardForiOS</b></a><br><sub>The most advanced ad blocker for iOS</sub></td>
-<td align="right"><b>1,727</b></td>
-<td align="right">250</td>
+<td align="right"><b>1,730</b></td>
+<td align="right">249</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/goaop.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/goaop/framework"><b>goaop/framework</b></a><br><sub>:gem: Go! AOP PHP - modern declarative behaviour framework for the new level of software development</sub></td>
-<td align="right"><b>1,674</b></td>
-<td align="right">167</td>
+<td align="right"><b>1,676</b></td>
+<td align="right">166</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">18</td>
 <td><img src="https://github.com/iamolegga.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/iamolegga/nestjs-pino"><b>iamolegga/nestjs-pino</b></a><br><sub>Platform agnostic logger for NestJS based on Pino with REQUEST CONTEXT IN EVERY LOG</sub></td>
-<td align="right"><b>1,549</b></td>
+<td align="right"><b>1,550</b></td>
 <td align="right">109</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">19</td>
 <td><img src="https://github.com/centrifugal.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/centrifugal/centrifuge"><b>centrifugal/centrifuge</b></a><br><sub>Real-time messaging library for Go. The simplest way to add feature-rich and scalable WebSocket support to your applica…</sub></td>
-<td align="right"><b>1,503</b></td>
+<td align="right"><b>1,504</b></td>
 <td align="right">124</td>
 <td>Go</td>
 </tr>
@@ -483,6 +483,62 @@
 <td align="right">53</td>
 <td>Jupyter Notebook</td>
 </tr>
+<tr>
+<td align="right">67</td>
+<td><img src="https://github.com/debut-js.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/debut-js/Indicators"><b>debut-js/Indicators</b></a><br><sub>Technical indicators for cryptocurrencies, stocks and forex. To work with historical and real price data. One of the mo…</sub></td>
+<td align="right"><b>447</b></td>
+<td align="right">59</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><img src="https://github.com/NikAshanin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NikAshanin/Solution-Architect-Road-Map"><b>NikAshanin/Solution-Architect-Road-Map</b></a></td>
+<td align="right"><b>437</b></td>
+<td align="right">95</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><img src="https://github.com/AdguardTeam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AdguardTeam/cname-trackers"><b>AdguardTeam/cname-trackers</b></a><br><sub>This repository contains a list of popular CNAME trackers</sub></td>
+<td align="right"><b>435</b></td>
+<td align="right">43</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/AdguardTeam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AdguardTeam/adguardcert"><b>AdguardTeam/adguardcert</b></a><br><sub>Magisk module that allows using AdGuard&#39;s HTTPS filtering for all apps</sub></td>
+<td align="right"><b>429</b></td>
+<td align="right">35</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/AdguardTeam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AdguardTeam/HostlistsRegistry"><b>AdguardTeam/HostlistsRegistry</b></a><br><sub>Known hosts blocklists that are made available to the users of AdGuard products</sub></td>
+<td align="right"><b>422</b></td>
+<td align="right">116</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><img src="https://github.com/frangoud.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/frangoud/ZoteroDuplicatesMerger"><b>frangoud/ZoteroDuplicatesMerger</b></a><br><sub>A zotero plugin to automatically merge duplicate items</sub></td>
+<td align="right"><b>416</b></td>
+<td align="right">15</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><img src="https://github.com/Bearle.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Bearle/django-private-chat"><b>Bearle/django-private-chat</b></a><br><sub>(Deprecated - Please check out https://github.com/Bearle/django&#95;private&#95;chat2) Django one-to-one Websocket-based Asynci…</sub></td>
+<td align="right"><b>415</b></td>
+<td align="right">130</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/rock88.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rock88/moonlight-nx"><b>rock88/moonlight-nx</b></a><br><sub>Moonlight port for Horizon OS</sub></td>
+<td align="right"><b>410</b></td>
+<td align="right">42</td>
+<td>C++</td>
+</tr>
 </tbody>
 </table>
 
@@ -491,8 +547,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 452 stars; 66 attributed candidates are tracked.
-- 95 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 410 stars; 74 attributed candidates are tracked.
+- 91 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 105 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

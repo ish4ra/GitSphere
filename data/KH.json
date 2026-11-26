@@ -5,7 +5,7 @@
 "country": {"code":"KH","name":"Cambodia","slug":"cambodia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":48,"ownerExpansionBacklog":124,"candidates":53,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":174,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":48,"ownerExpansionBacklog":122,"candidates":53,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":174,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxNjY2Njg5NTE=","name":"react-native-raw-bottom-sheet","nameWithOwner":"nysamnang/react-native-raw-bottom-sheet","url":"https://github.com/nysamnang/react-native-raw-bottom-sheet","description":"Add Your Own Component To Bottom Sheet Whatever You Want (Android and iOS)","stars":1202,"forks":191,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2019-01-20T14:12:34Z","pushedAt":"2024-05-02T04:21:59Z","archived":false,"owner":{"login":"nysamnang","name":"NY Samnang","type":"User","url":"https://github.com/nysamnang","location":"Phnom Penh, Cambodia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-23"},
   {"rank":2,"id":"R_kgDOGnj9pg","name":"storypad","nameWithOwner":"theachoem/storypad","url":"https://github.com/theachoem/storypad","description":"An open source diary & journal app with over 100k downloads 🪴","stars":1048,"forks":132,"primaryLanguage":"Dart","license":{"spdxId":"GPL-3.0"},"createdAt":"2022-01-03T16:59:26Z","pushedAt":"2026-11-18T15:17:38Z","archived":false,"owner":{"login":"theachoem","name":"Thea Choem","type":"User","url":"https://github.com/theachoem","location":"Phnom Penh, Cambodia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-24"},
@@ -61,8 +61,8 @@
   {"rank":52,"id":null,"name":"UrRoomie","nameWithOwner":"chhoeutdarwin/UrRoomie","url":"https://github.com/chhoeutdarwin/UrRoomie","description":null,"stars":1,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2026-10-11T15:28:29Z","pushedAt":"2026-10-11T15:34:51Z","archived":false,"owner":{"login":"chhoeutdarwin","name":"Chhoeut Darwin","type":"User","url":"https://github.com/chhoeutdarwin","location":"Cambodia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":53,"id":null,"name":"YTS-MoviesAPI","nameWithOwner":"Chithian/YTS-MoviesAPI","url":"https://github.com/Chithian/YTS-MoviesAPI","description":null,"stars":1,"forks":0,"primaryLanguage":"Swift","license":null,"createdAt":"2021-02-23T05:53:32Z","pushedAt":"2021-03-01T14:10:44Z","archived":false,"owner":{"login":"Chithian","name":"Chithain_Samony","type":"User","url":"https://github.com/Chithian","location":"PHONM PENH Cambodia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "797f49bd7f874f95",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "916320e94eba39d7",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-04",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

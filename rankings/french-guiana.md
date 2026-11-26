@@ -26,7 +26,7 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/Equim-chan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Equim-chan/Mortal"><b>Equim-chan/Mortal</b></a><br><sub>🚀🀄️ A fast and strong AI for riichi mahjong, powered by Rust and deep reinforcement learning.</sub></td>
-<td align="right"><b>1,620</b></td>
+<td align="right"><b>1,623</b></td>
 <td align="right">235</td>
 <td>Rust</td>
 </tr>
@@ -418,7 +418,7 @@
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 0 stars; 55 attributed candidates are tracked.
 - 53 entries were carried over from the previous dataset and are pending revalidation.
-- 66 multi-repository owners are queued for expansion.
+- 65 multi-repository owners are queued for expansion.
 - **Location discovery:** term 5 of 35 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

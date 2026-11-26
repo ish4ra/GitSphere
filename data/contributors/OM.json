@@ -5,7 +5,7 @@
 "country": {"code":"OM","name":"Oman","slug":"oman"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":399,"measuredAccounts":14,"measurementBacklog":385,"window":{"from":"2025-11-24T11:00:00Z","to":"2026-11-24T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":41,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":400,"measuredAccounts":15,"measurementBacklog":385,"window":{"from":"2025-11-24T11:00:00Z","to":"2026-11-24T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":41,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOEHO8QA","login":"Dippp10-ally","name":"DIPIKA VAMAN KANTAPPA POOJARI","url":"https://github.com/Dippp10-ally","avatarUrl":"https://avatars.githubusercontent.com/u/276020288?s=80&v=4","followers":7,"publicRepos":17946,"location":"Oman","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":190482,"commits":189510,"pullRequests":439,"reviews":2,"issues":428,"repositories":101,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":2,"id":"MDQ6VXNlcjEwNzg0MDQ=","login":"prp-e","name":"Muhammadreza Haghiri","url":"https://github.com/prp-e","avatarUrl":"https://avatars.githubusercontent.com/u/1078404?s=80&v=4","followers":393,"publicRepos":319,"location":"Muscat, Oman","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":8751,"commits":8728,"pullRequests":1,"reviews":0,"issues":2,"repositories":20,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
@@ -20,8 +20,8 @@
   {"rank":11,"id":"U_kgDOB1EjGw","login":"Fahad-Al-Maashani","name":"Fahad Al Maashani","url":"https://github.com/Fahad-Al-Maashani","avatarUrl":"https://avatars.githubusercontent.com/u/122757915?s=80&v=4","followers":148,"publicRepos":136,"location":"Salalah, Oman","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-26","contributions":{"public":66,"commits":47,"pullRequests":0,"reviews":0,"issues":0,"repositories":19,"windowFrom":"2025-11-26T00:00:00Z","windowTo":"2026-11-26T00:00:00Z","measuredOn":"2026-11-26"}},
   {"rank":12,"id":"MDQ6VXNlcjY0Njc1MDM1","login":"Arman170616","name":"Arman Hossain","url":"https://github.com/Arman170616","avatarUrl":"https://avatars.githubusercontent.com/u/64675035?s=80&v=4","followers":42,"publicRepos":206,"location":"Salalah, Oman","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-26","contributions":{"public":27,"commits":7,"pullRequests":0,"reviews":0,"issues":0,"repositories":20,"windowFrom":"2025-11-26T00:00:00Z","windowTo":"2026-11-26T00:00:00Z","measuredOn":"2026-11-26"}}
 ],
-"contentHash": "cfd83d0b5a60146c",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "fccae11ccfdb6702",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

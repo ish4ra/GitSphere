@@ -5,7 +5,7 @@
 "country": {"code":"MC","name":"Monaco","slug":"monaco"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":141,"candidates":102,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":23,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":140,"candidates":102,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":23,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"CodeProb","nameWithOwner":"CodeProb/CodeProb","url":"https://github.com/CodeProb/CodeProb","description":null,"stars":1,"forks":3,"primaryLanguage":"HTML","license":{"spdxId":"MIT"},"createdAt":"2025-12-30T15:52:10Z","pushedAt":"2026-01-23T05:46:00Z","archived":false,"owner":{"login":"CodeProb","name":"CodeProb","type":"Organization","url":"https://github.com/CodeProb","location":"Monaco","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"oc-14-to-23-script","nameWithOwner":"alexmattelon/oc-14-to-23-script","url":"https://github.com/alexmattelon/oc-14-to-23-script","description":null,"stars":1,"forks":2,"primaryLanguage":"PHP","license":null,"createdAt":"2019-02-13T13:43:00Z","pushedAt":"2019-03-01T10:31:04Z","archived":false,"owner":{"login":"alexmattelon","name":"Alex Mattelon","type":"User","url":"https://github.com/alexmattelon","location":"Monaco","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"romano-energy-control","nameWithOwner":"Ghostmc1/romano-energy-control","url":"https://github.com/Ghostmc1/romano-energy-control","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2026-03-26T09:02:23Z","pushedAt":"2026-04-04T08:17:59Z","archived":false,"owner":{"login":"Ghostmc1","name":"ROMANO ENERGY / ZEROWASTE","type":"User","url":"https://github.com/Ghostmc1","location":"Monaco","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":".github","nameWithOwner":"Groupe-MES/.github","url":"https://github.com/Groupe-MES/.github","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-07-31T06:42:22Z","pushedAt":"2026-08-14T12:34:01Z","archived":false,"owner":{"login":"Groupe-MES","name":"Monaco Electricité System","type":"Organization","url":"https://github.com/Groupe-MES","location":"Monaco","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "e4f885537d52e3b4",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "620881335099a4e1",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

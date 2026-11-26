@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **78** | 23 Nov 2026 | <a href="../data/PH.json">JSON</a> |
+| 🟡 Provisional | **84** | 23 Nov 2026 | <a href="../data/PH.json">JSON</a> |
 
 </div>
 
@@ -108,21 +108,21 @@
 <tr>
 <td align="right">13</td>
 <td><img src="https://github.com/tyron12233.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tyron12233/CodeAssist"><b>tyron12233/CodeAssist</b></a><br><sub>An IDE for building Android applicatons on Android.</sub></td>
-<td align="right"><b>2,206</b></td>
-<td align="right">432</td>
+<td align="right"><b>2,224</b></td>
+<td align="right">440</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/lodev09.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lodev09/react-native-true-sheet"><b>lodev09/react-native-true-sheet</b></a><br><sub>The true native bottom sheet experience 💩</sub></td>
-<td align="right"><b>2,109</b></td>
-<td align="right">132</td>
+<td align="right"><b>2,112</b></td>
+<td align="right">134</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/ivanceras.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ivanceras/sauron"><b>ivanceras/sauron</b></a><br><sub>A versatile web framework and library for building client-side and server-side web applications</sub></td>
-<td align="right"><b>2,064</b></td>
+<td align="right"><b>2,065</b></td>
 <td align="right">61</td>
 <td>Rust</td>
 </tr>
@@ -136,8 +136,8 @@
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/AeolusUX.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AeolusUX/ArkOS-R3XS"><b>AeolusUX/ArkOS-R3XS</b></a> <sub>archived</sub><br><sub>Community Maintained Image of ArkOS for the RetroBox Console / Game Station / Game Consoie R35S / R36S / PowKiddy RGB20S</sub></td>
-<td align="right"><b>1,595</b></td>
-<td align="right">84</td>
+<td align="right"><b>1,598</b></td>
+<td align="right">85</td>
 <td>HTML</td>
 </tr>
 <tr>
@@ -567,6 +567,48 @@
 <td align="right">67</td>
 <td>—</td>
 </tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/AccountGo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AccountGo/accountgo"><b>AccountGo/accountgo</b></a><br><sub>Modern multi-tenant cloud ERP and accounting suite built with .NET 10, React 19, and Tailwind CSS v4 on Cloudflare Work…</sub></td>
+<td align="right"><b>450</b></td>
+<td align="right">319</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/dlarroder.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dlarroder/dalelarroder"><b>dlarroder/dalelarroder</b></a><br><sub>⚡️ My website built with Next.js, TypeScript, Tailwind, MDX</sub></td>
+<td align="right"><b>443</b></td>
+<td align="right">68</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/geeofree.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/geeofree/kalendaryo"><b>geeofree/kalendaryo</b></a><br><sub>An unopinionated React date component :atom&#95;symbol: + :date:fns</sub></td>
+<td align="right"><b>426</b></td>
+<td align="right">29</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/Alexis12119.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Alexis12119/nvim-config"><b>Alexis12119/nvim-config</b></a><br><sub>Perfect for developers seeking a single, unified environment for web development, backend systems, mobile apps, and com…</sub></td>
+<td align="right"><b>424</b></td>
+<td align="right">35</td>
+<td>Lua</td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><img src="https://github.com/codeitlikemiley.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/codeitlikemiley/DSA"><b>codeitlikemiley/DSA</b></a><br><sub>Free Premium Books For Learning Data Structure and Algorithm</sub></td>
+<td align="right"><b>420</b></td>
+<td align="right">218</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><img src="https://github.com/nedpals.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nedpals/supabase-go"><b>nedpals/supabase-go</b></a><br><sub>Unofficial Supabase client library for Go.</sub></td>
+<td align="right"><b>417</b></td>
+<td align="right">74</td>
+<td>Go</td>
+</tr>
 </tbody>
 </table>
 
@@ -575,8 +617,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 453 stars; 78 attributed candidates are tracked.
-- 119 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 417 stars; 84 attributed candidates are tracked.
+- 117 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 210 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

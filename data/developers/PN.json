@@ -5,7 +5,7 @@
 "country": {"code":"PN","name":"Pitcairn Islands","slug":"pitcairn-islands"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":9,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":18,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":9,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":18,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjI1NTE5MDI1","login":"MargareteJenkins","name":"Estelle Schmitt","url":"https://github.com/MargareteJenkins","avatarUrl":"https://avatars.githubusercontent.com/u/25519025?s=80&v=4","followers":5,"publicRepos":9,"location":"East Rigobertoport, Pitcairn Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":"MDQ6VXNlcjYzMTE2Nzg4","login":"Hi30MC","name":"Ash Duimstra","url":"https://github.com/Hi30MC","avatarUrl":"https://avatars.githubusercontent.com/u/63116788?s=80&v=4","followers":4,"publicRepos":20,"location":"WVGX+WJQ, Adamstown PCRN 1ZZ, Pitcairn Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
@@ -17,8 +17,8 @@
   {"rank":8,"id":"U_kgDOB4f1dQ","login":"new-tiger","name":"NEWTIGER","url":"https://github.com/new-tiger","avatarUrl":"https://avatars.githubusercontent.com/u/126350709?s=80&v=4","followers":0,"publicRepos":0,"location":"PITCAIRN ISLANDS","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":9,"id":"U_kgDOD6flig","login":"unluckycarrot9735","name":null,"url":"https://github.com/unluckycarrot9735","avatarUrl":"https://avatars.githubusercontent.com/u/262661514?s=80&v=4","followers":0,"publicRepos":0,"location":"Pitcairn Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "dc7bfadde7b9e569",
-"updatedAt": "2026-11-24T01:31:49.018Z",
+"contentHash": "bc2d3d7f7c043ccd",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-24T01:31:49.018Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

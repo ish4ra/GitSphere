@@ -5,7 +5,7 @@
 "country": {"code":"DO","name":"Dominican Republic","slug":"dominican-republic"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":460,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":120,"candidates":9,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":134,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":460,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":118,"candidates":9,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":134,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxNTU0NzA4OTU=","name":"33-js-conceptos","nameWithOwner":"adonismendozaperez/33-js-conceptos","url":"https://github.com/adonismendozaperez/33-js-conceptos","description":"📜 33 Conceptos que todo desarrollador de JavaScript debería saber.","stars":1449,"forks":347,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2018-10-30T23:41:47Z","pushedAt":"2022-10-19T03:10:42Z","archived":false,"owner":{"login":"adonismendozaperez","name":"Adonis Mendoza","type":"User","url":"https://github.com/adonismendozaperez","location":"Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-23"},
   {"rank":2,"id":"R_kgDOSUiPUQ","name":"Dulus","nameWithOwner":"KevRojo/Dulus","url":"https://github.com/KevRojo/Dulus","description":"Dulus Ai — Agentic AI, 100% cache hit rate, Dulus is made to save you money [Gui, Web, Cli, Telegram, 2,000 MCP, 100K Skills . LiteLLM (100+ providers), local…","stars":1018,"forks":14,"primaryLanguage":"Python","license":{"spdxId":"GPL-3.0"},"createdAt":"2026-05-05T05:13:43Z","pushedAt":"2026-11-23T02:37:56Z","archived":false,"owner":{"login":"KevRojo","name":"Kevin Rojo","type":"User","url":"https://github.com/KevRojo","location":"Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-24"},
@@ -17,8 +17,8 @@
   {"rank":8,"id":"MDEwOlJlcG9zaXRvcnkxOTIyMTI1Nw==","name":"Laravel-JS-Localization","nameWithOwner":"rmariuzzo/Laravel-JS-Localization","url":"https://github.com/rmariuzzo/Laravel-JS-Localization","description":"🌐 Convert your Laravel messages and consume them in the front-end!","stars":604,"forks":167,"primaryLanguage":"PHP","license":{"spdxId":"MIT"},"createdAt":"2014-04-27T23:25:58Z","pushedAt":"2026-05-05T19:31:41Z","archived":false,"owner":{"login":"rmariuzzo","name":"Rubens Mariuzzo","type":"User","url":"https://github.com/rmariuzzo","location":"Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
   {"rank":9,"id":"MDEwOlJlcG9zaXRvcnkxMDk5OTM5OTc=","name":"react-new-window","nameWithOwner":"rmariuzzo/react-new-window","url":"https://github.com/rmariuzzo/react-new-window","description":"🔲 Pop new windows in React, using `window.open`.","stars":460,"forks":104,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2017-11-08T15:30:59Z","pushedAt":"2024-07-31T20:44:50Z","archived":false,"owner":{"login":"rmariuzzo","name":"Rubens Mariuzzo","type":"User","url":"https://github.com/rmariuzzo","location":"Dominican Republic","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"}
 ],
-"contentHash": "351b9d8a974a40d6",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "c8e68ec22b0a1d52",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

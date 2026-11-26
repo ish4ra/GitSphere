@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/face-hh"><img src="https://avatars.githubusercontent.com/u/69168154?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/face-hh"><b>Face</b></a><br><sub>&#64;face-hh</sub></td>
-<td align="right"><b>2,283</b></td>
+<td align="right"><b>2,293</b></td>
 <td align="right">39</td>
 <td><sub>Moldova</sub></td>
 </tr>

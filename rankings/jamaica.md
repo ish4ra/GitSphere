@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **5** | 23 Nov 2026 | <a href="../data/JM.json">JSON</a> |
+| 🟡 Provisional | **6** | 23 Nov 2026 | <a href="../data/JM.json">JSON</a> |
 
 </div>
 
@@ -56,6 +56,13 @@
 <td align="right">337</td>
 <td>JavaScript</td>
 </tr>
+<tr>
+<td align="right">6</td>
+<td><img src="https://github.com/SIsilicon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SIsilicon/WorldEdit-BE"><b>SIsilicon/WorldEdit-BE</b></a><br><sub>A Minecraft Bedrock addon port of the famous WorldEdit mod for Minecraft: Java Edition.</sub></td>
+<td align="right"><b>436</b></td>
+<td align="right">60</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -64,8 +71,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 815 stars; 5 attributed candidates are tracked.
-- 122 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 436 stars; 6 attributed candidates are tracked.
+- 118 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 70 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

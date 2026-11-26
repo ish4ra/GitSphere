@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **3** | 23 Nov 2026 | <a href="../data/BH.json">JSON</a> |
+| 🟡 Provisional | **3** | 25 Nov 2026 | <a href="../data/BH.json">JSON</a> |
 
 </div>
 
@@ -38,7 +38,7 @@
 <tr>
 <td align="right">3</td>
 <td><img src="https://github.com/walidshaari.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist"><b>walidshaari/Certified-Kubernetes-Security-Specialist</b></a><br><sub>Curated resources help you prepare for the CNCF/Linux Foundation CKS 2021 &quot;Kubernetes Certified Security Specialist&quot; Ce…</sub></td>
-<td align="right"><b>2,135</b></td>
+<td align="right"><b>2,137</b></td>
 <td align="right">560</td>
 <td>AGS Script</td>
 </tr>
@@ -50,8 +50,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 2,135 stars; 3 attributed candidates are tracked.
-- 129 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 2,137 stars; 3 attributed candidates are tracked.
+- 125 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 18 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/TR.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/TR.json">JSON</a> |
 
 </div>
 
@@ -514,7 +514,7 @@
 <tr>
 <td align="right">71</td>
 <td><img src="https://github.com/asciidocfx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/asciidocfx/AsciidocFX"><b>asciidocfx/AsciidocFX</b></a><br><sub>Asciidoc Editor and Toolchain written with JavaFX 21 (Build PDF, Epub, Mobi and HTML books, documents and slides)</sub></td>
-<td align="right"><b>2,055</b></td>
+<td align="right"><b>2,057</b></td>
 <td align="right">301</td>
 <td>Java</td>
 </tr>
@@ -522,14 +522,14 @@
 <td align="right">72</td>
 <td><img src="https://github.com/helallao.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/helallao/perplexity-ai"><b>helallao/perplexity-ai</b></a><br><sub>Unofficial API Wrapper for Perplexity.ai + Account Generator with Web Interface</sub></td>
 <td align="right"><b>2,020</b></td>
-<td align="right">349</td>
+<td align="right">350</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">73</td>
 <td><img src="https://github.com/Kopuz-org.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Kopuz-org/kopuz"><b>Kopuz-org/kopuz</b></a><br><sub>Your next music player</sub></td>
-<td align="right"><b>2,008</b></td>
-<td align="right">116</td>
+<td align="right"><b>2,012</b></td>
+<td align="right">120</td>
 <td>Rust</td>
 </tr>
 <tr>
@@ -542,15 +542,15 @@
 <tr>
 <td align="right">75</td>
 <td><img src="https://github.com/mustafamuratcoskun.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mustafamuratcoskun/Sifirdan-Ileri-Seviyeye-Python-Programlama"><b>mustafamuratcoskun/Sifirdan-Ileri-Seviyeye-Python-Programlama</b></a><br><sub>Udemy üzerindeki Python kurslarında kullanılan materyaller</sub></td>
-<td align="right"><b>1,987</b></td>
+<td align="right"><b>1,988</b></td>
 <td align="right">753</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">76</td>
 <td><img src="https://github.com/mewebstudio.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mewebstudio/Purifier"><b>mewebstudio/Purifier</b></a><br><sub>HTMLPurifier for Laravel 5+</sub></td>
-<td align="right"><b>1,977</b></td>
-<td align="right">239</td>
+<td align="right"><b>1,976</b></td>
+<td align="right">240</td>
 <td>PHP</td>
 </tr>
 <tr>
@@ -563,7 +563,7 @@
 <tr>
 <td align="right">78</td>
 <td><img src="https://github.com/f.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/f/vue-wait"><b>f/vue-wait</b></a><br><sub>Complex Loader and Progress Management for Vue/Vuex and Nuxt Applications</sub></td>
-<td align="right"><b>1,970</b></td>
+<td align="right"><b>1,968</b></td>
 <td align="right">97</td>
 <td>JavaScript</td>
 </tr>
@@ -578,7 +578,7 @@
 <td align="right">80</td>
 <td><img src="https://github.com/primefaces.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/primefaces/primefaces"><b>primefaces/primefaces</b></a><br><sub>Ultimate Component Suite for Jakarta Faces</sub></td>
 <td align="right"><b>1,946</b></td>
-<td align="right">803</td>
+<td align="right">802</td>
 <td>Java</td>
 </tr>
 <tr>
@@ -592,20 +592,20 @@
 <td align="right">82</td>
 <td><img src="https://github.com/sarperavci.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sarperavci/GoogleRecaptchaBypass"><b>sarperavci/GoogleRecaptchaBypass</b></a><br><sub>Solve Google reCAPTCHA in less than 5 seconds! 🚀</sub></td>
 <td align="right"><b>1,909</b></td>
-<td align="right">287</td>
+<td align="right">289</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">83</td>
 <td><img src="https://github.com/ycd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ycd/manage-fastapi"><b>ycd/manage-fastapi</b></a><br><sub>:rocket: CLI tool for FastAPI. Generating new FastAPI projects &amp; boilerplates made easy.</sub></td>
-<td align="right"><b>1,903</b></td>
+<td align="right"><b>1,904</b></td>
 <td align="right">102</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">84</td>
 <td><img src="https://github.com/mstrYoda.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mstrYoda/kubernetes-kitap"><b>mstrYoda/kubernetes-kitap</b></a></td>
-<td align="right"><b>1,891</b></td>
+<td align="right"><b>1,890</b></td>
 <td align="right">198</td>
 <td>—</td>
 </tr>
@@ -613,13 +613,13 @@
 <td align="right">85</td>
 <td><img src="https://github.com/cyweb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cyweb/hammer"><b>cyweb/hammer</b></a><br><sub>Hammer DDos Script - Python 3</sub></td>
 <td align="right"><b>1,862</b></td>
-<td align="right">1,320</td>
+<td align="right">1,319</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">86</td>
 <td><img src="https://github.com/reisxd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/reisxd/revanced-builder"><b>reisxd/revanced-builder</b></a> <sub>archived</sub><br><sub>A NodeJS ReVanced builder</sub></td>
-<td align="right"><b>1,841</b></td>
+<td align="right"><b>1,842</b></td>
 <td align="right">177</td>
 <td>JavaScript</td>
 </tr>
@@ -627,20 +627,20 @@
 <td align="right">87</td>
 <td><img src="https://github.com/kutlugsahin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kutlugsahin/vue-smooth-dnd"><b>kutlugsahin/vue-smooth-dnd</b></a><br><sub>Vue wrapper components for smooth-dnd</sub></td>
 <td align="right"><b>1,832</b></td>
-<td align="right">249</td>
+<td align="right">248</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">88</td>
 <td><img src="https://github.com/Milad-Akarie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Milad-Akarie/auto_route_library"><b>Milad-Akarie/auto&#95;route&#95;library</b></a><br><sub>Flutter route generator</sub></td>
 <td align="right"><b>1,760</b></td>
-<td align="right">474</td>
+<td align="right">475</td>
 <td>Dart</td>
 </tr>
 <tr>
 <td align="right">89</td>
 <td><img src="https://github.com/reisxd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/reisxd/TizenBrew"><b>reisxd/TizenBrew</b></a><br><sub>A way to experience modded websites and you can install newer apps without fighting with Tizen Studio</sub></td>
-<td align="right"><b>1,756</b></td>
+<td align="right"><b>1,759</b></td>
 <td align="right">120</td>
 <td>JavaScript</td>
 </tr>
@@ -648,13 +648,13 @@
 <td align="right">90</td>
 <td><img src="https://github.com/sumerc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sumerc/yappi"><b>sumerc/yappi</b></a><br><sub>Yet Another Python Profiler, but this time multithreading, asyncio and gevent aware.</sub></td>
 <td align="right"><b>1,731</b></td>
-<td align="right">82</td>
+<td align="right">83</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">91</td>
 <td><img src="https://github.com/saadeghi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/saadeghi/theme-change"><b>saadeghi/theme-change</b></a><br><sub>Change CSS theme with toggle, buttons or select using CSS custom properties and localStorage</sub></td>
-<td align="right"><b>1,716</b></td>
+<td align="right"><b>1,717</b></td>
 <td align="right">48</td>
 <td>JavaScript</td>
 </tr>
@@ -682,22 +682,22 @@
 <tr>
 <td align="right">95</td>
 <td><img src="https://github.com/Xetera.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Xetera/ghost-cursor"><b>Xetera/ghost-cursor</b></a><br><sub>🖱️ Generate human-like mouse movements with puppeteer or on any 2D plane</sub></td>
-<td align="right"><b>1,635</b></td>
+<td align="right"><b>1,639</b></td>
 <td align="right">171</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">96</td>
 <td><img src="https://github.com/f.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/f/mcptools"><b>f/mcptools</b></a><br><sub>A command-line interface for interacting with MCP (Model Context Protocol) servers using both stdio and HTTP transport.</sub></td>
-<td align="right"><b>1,631</b></td>
+<td align="right"><b>1,632</b></td>
 <td align="right">133</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">97</td>
 <td><img src="https://github.com/Taiizor.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Taiizor/Sucrose"><b>Taiizor/Sucrose</b></a><br><sub>Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.</sub></td>
-<td align="right"><b>1,621</b></td>
-<td align="right">76</td>
+<td align="right"><b>1,627</b></td>
+<td align="right">77</td>
 <td>C#</td>
 </tr>
 <tr>
@@ -710,14 +710,14 @@
 <tr>
 <td align="right">99</td>
 <td><img src="https://github.com/flyngmt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/flyngmt/Nookery"><b>flyngmt/Nookery</b></a><br><sub>Unofficial Windows/Linux/macOS/Android/iOS Port of Animal Crossing Gamecube</sub></td>
-<td align="right"><b>1,597</b></td>
-<td align="right">147</td>
+<td align="right"><b>1,606</b></td>
+<td align="right">148</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">100</td>
 <td><img src="https://github.com/cancng.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cancng/fonts"><b>cancng/fonts</b></a></td>
-<td align="right"><b>1,593</b></td>
+<td align="right"><b>1,594</b></td>
 <td align="right">13</td>
 <td>Shell</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 1,593 stars; 150 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 1,594 stars; 150 attributed candidates are tracked.
 - 147 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 169 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

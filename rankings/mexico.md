@@ -16,7 +16,7 @@
 | :---: | :---: | :---: | :---: |
 | 🟠 Stale | **100** | 02 Nov 2026 | <a href="../data/MX.json">JSON</a> |
 
-> **Not yet re-verified.** 11 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 4 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -96,21 +96,21 @@
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/nanochess.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nanochess/bootOS"><b>nanochess/bootOS</b></a><br><sub>bootOS is a monolithic operating system in 512 bytes of x86 machine code.</sub></td>
-<td align="right"><b>2,160</b></td>
+<td align="right"><b>2,162</b></td>
 <td align="right">121</td>
 <td>Assembly</td>
 </tr>
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/alfonsobries.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alfonsobries/vue-tailwind"><b>alfonsobries/vue-tailwind</b></a><br><sub>Vue UI components with configurable classes ready for TailwindCSS</sub></td>
-<td align="right"><b>2,155</b></td>
-<td align="right">132</td>
+<td align="right"><b>2,154</b></td>
+<td align="right">131</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">13</td>
 <td><img src="https://github.com/AdrMXR.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AdrMXR/KitHack"><b>AdrMXR/KitHack</b></a><br><sub>Hacking tools pack &amp; backdoors generator.</sub></td>
-<td align="right"><b>2,112</b></td>
+<td align="right"><b>2,113</b></td>
 <td align="right">266</td>
 <td>Python</td>
 </tr>
@@ -131,7 +131,7 @@
 <tr>
 <td align="right">16</td>
 <td><img src="https://github.com/unosquare.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/unosquare/embedio"><b>unosquare/embedio</b></a> <sub>archived</sub><br><sub>A tiny, cross-platform, module based web server for .NET</sub></td>
-<td align="right"><b>1,575</b></td>
+<td align="right"><b>1,573</b></td>
 <td align="right">190</td>
 <td>C#</td>
 </tr>
@@ -648,77 +648,77 @@
 </tr>
 <tr>
 <td align="right">90</td>
+<td><img src="https://github.com/EliverLara.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EliverLara/Andromeda"><b>EliverLara/Andromeda</b></a><br><sub>:rocket: Dark theme for vscode</sub></td>
+<td align="right"><b>447</b></td>
+<td align="right">48</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/luisbocanegra.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/luisbocanegra/plasma-audio-visualizer"><b>luisbocanegra/plasma-audio-visualizer</b></a><br><sub>Audio visualizer widget powered by CAVA for the KDE Plasma Desktop</sub></td>
+<td align="right"><b>435</b></td>
+<td align="right">23</td>
+<td>QML</td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/noeldelgado.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/noeldelgado/gemini-scrollbar"><b>noeldelgado/gemini-scrollbar</b></a><br><sub>:first&#95;quarter&#95;moon: Custom overlay-scrollbars with native scrolling mechanism for web applications</sub></td>
+<td align="right"><b>429</b></td>
+<td align="right">61</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/AlexandroMtzG.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AlexandroMtzG/remix-page-blocks"><b>AlexandroMtzG/remix-page-blocks</b></a><br><sub>Simple page block editor with Remix and Tailwind CSS.</sub></td>
+<td align="right"><b>429</b></td>
+<td align="right">55</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/marcosrivasr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/marcosrivasr/bootstrap5-website"><b>marcosrivasr/bootstrap5-website</b></a><br><sub>Archivos para poder seguir el tutorial para crear tu primer sitio web con Boostrap 5</sub></td>
+<td align="right"><b>420</b></td>
+<td align="right">289</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">95</td>
+<td><img src="https://github.com/aMarCruz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aMarCruz/react-native-text-size"><b>aMarCruz/react-native-text-size</b></a><br><sub>Measure text accurately before laying it out and get font information from your App.</sub></td>
+<td align="right"><b>416</b></td>
+<td align="right">107</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">96</td>
+<td><img src="https://github.com/EliverLara.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EliverLara/firefox-nordic-theme"><b>EliverLara/firefox-nordic-theme</b></a><br><sub>:snowflake: A dark theme for firefox theme created using the awesome Nord color palette.</sub></td>
+<td align="right"><b>409</b></td>
+<td align="right">19</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">97</td>
 <td><img src="https://github.com/ChuckSalle.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ChuckSalle/UTAustinX-UT.7.10x-Foundations-of-Data-Analysis---Part-1"><b>ChuckSalle/UTAustinX-UT.7.10x-Foundations-of-Data-Analysis---Part-1</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td>R</td>
 </tr>
 <tr>
-<td align="right">91</td>
+<td align="right">98</td>
 <td><img src="https://github.com/dropdead-Mx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dropdead-Mx/sistema"><b>dropdead-Mx/sistema</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td>PHP</td>
 </tr>
 <tr>
-<td align="right">92</td>
+<td align="right">99</td>
 <td><img src="https://github.com/rikardoisidro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rikardoisidro/callcenter"><b>rikardoisidro/callcenter</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">93</td>
-<td><img src="https://github.com/ajresendiz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ajresendiz/Practica"><b>ajresendiz/Practica</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">94</td>
-<td><img src="https://github.com/alecerritos.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alecerritos/Integradora"><b>alecerritos/Integradora</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">95</td>
-<td><img src="https://github.com/AlkeinCasanova.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AlkeinCasanova/IdeaFactory-7.1"><b>AlkeinCasanova/IdeaFactory-7.1</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>Objective-C</td>
-</tr>
-<tr>
-<td align="right">96</td>
-<td><img src="https://github.com/alkreid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alkreid/railsinstaller_demo"><b>alkreid/railsinstaller&#95;demo</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>Ruby</td>
-</tr>
-<tr>
-<td align="right">97</td>
-<td><img src="https://github.com/amarines2605.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/amarines2605/SEW"><b>amarines2605/SEW</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>Python</td>
-</tr>
-<tr>
-<td align="right">98</td>
-<td><img src="https://github.com/andresobregonl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/andresobregonl/LabADC_Fab16_Workshop"><b>andresobregonl/LabADC&#95;Fab16&#95;Workshop</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">99</td>
-<td><img src="https://github.com/apolanco.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/apolanco/AndroidAdmobApp"><b>apolanco/AndroidAdmobApp</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>Kotlin</td>
-</tr>
-<tr>
 <td align="right">100</td>
-<td><img src="https://github.com/ArcangelAsesino.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ArcangelAsesino/PhoneGapTes"><b>ArcangelAsesino/PhoneGapTes</b></a></td>
+<td><img src="https://github.com/ajresendiz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ajresendiz/Practica"><b>ajresendiz/Practica</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>—</td>
@@ -731,9 +731,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 1 stars; 105 attributed candidates are tracked.
-- 11 entries were carried over from the previous dataset and are pending revalidation.
-- 114 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 1 stars; 112 attributed candidates are tracked.
+- 4 entries were carried over from the previous dataset and are pending revalidation.
+- 113 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 153 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

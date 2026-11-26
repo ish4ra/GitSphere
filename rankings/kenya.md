@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **46** | 01 Nov 2026 | <a href="../data/KE.json">JSON</a> |
+| 🟠 Stale | **51** | 01 Nov 2026 | <a href="../data/KE.json">JSON</a> |
 
 > **Not yet re-verified.** 18 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
@@ -61,35 +61,35 @@
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/Njengah.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Njengah/claude-code-cheat-sheet"><b>Njengah/claude-code-cheat-sheet</b></a><br><sub>Ultimate collection of Claude Code tips, tricks, hacks, and workflows that you can use to master Claude Code in minutes</sub></td>
-<td align="right"><b>2,002</b></td>
+<td align="right"><b>2,004</b></td>
 <td align="right">279</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/JohnTroony.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JohnTroony/php-webshells"><b>JohnTroony/php-webshells</b></a><br><sub>Common PHP webshells you might need for your Penetration Testing assignments or CTF challenges. Do not host the file(s)…</sub></td>
-<td align="right"><b>1,961</b></td>
+<td align="right"><b>1,962</b></td>
 <td align="right">751</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/franceking1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/franceking1/Flash-Md-V3"><b>franceking1/Flash-Md-V3</b></a><br><sub>Feel Free To Use FLASH-MD, Remember To STAR🌟 The Repo before Forking</sub></td>
-<td align="right"><b>1,786</b></td>
+<td align="right"><b>1,787</b></td>
 <td align="right">6,402</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/Benexl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Benexl/yt-x"><b>Benexl/yt-x</b></a><br><sub>Posix script to browse youtube plus other yt-dlp supported sites from your terminal (fzf) or app launcher (rofi) with o…</sub></td>
-<td align="right"><b>1,694</b></td>
+<td align="right"><b>1,695</b></td>
 <td align="right">82</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/ranjian0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ranjian0/building_tools"><b>ranjian0/building&#95;tools</b></a><br><sub>Building generation addon for blender</sub></td>
-<td align="right"><b>1,538</b></td>
+<td align="right"><b>1,545</b></td>
 <td align="right">150</td>
 <td>Python</td>
 </tr>
@@ -221,125 +221,160 @@
 </tr>
 <tr>
 <td align="right">29</td>
+<td><img src="https://github.com/V1V1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/V1V1/OffensiveAutoIt"><b>V1V1/OffensiveAutoIt</b></a><br><sub>Offensive tooling notes and experiments in AutoIt v3 (https://www.autoitscript.com/site/autoit/)</sub></td>
+<td align="right"><b>449</b></td>
+<td align="right">59</td>
+<td>AutoIt</td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td><img src="https://github.com/SilvaTechB.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SilvaTechB/silva-md-bot"><b>SilvaTechB/silva-md-bot</b></a><br><sub>Silva MD Bot is a smart tool that enhances your WhatsApp experience by automating interactions and offering useful feat…</sub></td>
+<td align="right"><b>423</b></td>
+<td align="right">1,920</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">31</td>
+<td><img src="https://github.com/pluspeople.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pluspeople/pesaPi"><b>pluspeople/pesaPi</b></a><br><sub>PesaPI is an API for mobile money systems across Africa. Using PesaPI you can save considerable time and effort when in…</sub></td>
+<td align="right"><b>419</b></td>
+<td align="right">241</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">32</td>
+<td><img src="https://github.com/JohnTroony.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JohnTroony/Blisqy"><b>JohnTroony/Blisqy</b></a><br><sub>Version 0.2 - Exploit Time-based blind-SQL injection in HTTP-Headers (MySQL/MariaDB).</sub></td>
+<td align="right"><b>414</b></td>
+<td align="right">109</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">33</td>
+<td><img src="https://github.com/maxwellito.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maxwellito/minimator"><b>maxwellito/minimator</b></a><br><sub>Minimalist graphical editor</sub></td>
+<td align="right"><b>408</b></td>
+<td align="right">23</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">34</td>
 <td><img src="https://github.com/monsieurmeemy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/monsieurmeemy/Nop.Plugin.Payments.IpayAfrica"><b>monsieurmeemy/Nop.Plugin.Payments.IpayAfrica</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">3</td>
 <td>C#</td>
 </tr>
 <tr>
-<td align="right">30</td>
+<td align="right">35</td>
 <td><img src="https://github.com/chriscayro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chriscayro/mybrowser"><b>chriscayro/mybrowser</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">31</td>
+<td align="right">36</td>
 <td><img src="https://github.com/kipric.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kipric/RSEI-PROJECT"><b>kipric/RSEI-PROJECT</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
-<td align="right">32</td>
+<td align="right">37</td>
 <td><img src="https://github.com/n0sty.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/n0sty/SolisTrack"><b>n0sty/SolisTrack</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">33</td>
+<td align="right">38</td>
 <td><img src="https://github.com/oneadera.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/oneadera/react-fatless-form"><b>oneadera/react-fatless-form</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">34</td>
+<td align="right">39</td>
 <td><img src="https://github.com/PHIMAS.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PHIMAS/aviator"><b>PHIMAS/aviator</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">35</td>
+<td align="right">40</td>
 <td><img src="https://github.com/songa-labs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/songa-labs/songa-labs.github.io"><b>songa-labs/songa-labs.github.io</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td>CSS</td>
 </tr>
 <tr>
-<td align="right">36</td>
+<td align="right">41</td>
 <td><img src="https://github.com/123467.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/123467/create-facebook"><b>123467/create-facebook</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">37</td>
+<td align="right">42</td>
 <td><img src="https://github.com/abdulmumi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abdulmumi/pyhsongame"><b>abdulmumi/pyhsongame</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">38</td>
+<td align="right">43</td>
 <td><img src="https://github.com/alexwafula544.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexwafula544/alex12"><b>alexwafula544/alex12</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">39</td>
+<td align="right">44</td>
 <td><img src="https://github.com/Arumbaa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Arumbaa/UD-Tech-Farm-Management-System"><b>Arumbaa/UD-Tech-Farm-Management-System</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">40</td>
+<td align="right">45</td>
 <td><img src="https://github.com/Austineamwayi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Austineamwayi/Create-project-"><b>Austineamwayi/Create-project-</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">41</td>
+<td align="right">46</td>
 <td><img src="https://github.com/baraka-eng.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/baraka-eng/Java"><b>baraka-eng/Java</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">42</td>
+<td align="right">47</td>
 <td><img src="https://github.com/Bless793.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Bless793/Houron"><b>Bless793/Houron</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">43</td>
+<td align="right">48</td>
 <td><img src="https://github.com/CetrickO.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CetrickO/FreeCodeCamp"><b>CetrickO/FreeCodeCamp</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">44</td>
+<td align="right">49</td>
 <td><img src="https://github.com/CHEPTERIT.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CHEPTERIT/myapp"><b>CHEPTERIT/myapp</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">45</td>
+<td align="right">50</td>
 <td><img src="https://github.com/ChiedozieNwosu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ChiedozieNwosu/ChiedozieNwosu"><b>ChiedozieNwosu/ChiedozieNwosu</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">46</td>
+<td align="right">51</td>
 <td><img src="https://github.com/CollinsCollo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CollinsCollo/html"><b>CollinsCollo/html</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -353,9 +388,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 1 stars; 46 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 1 stars; 51 attributed candidates are tracked.
 - 18 entries were carried over from the previous dataset and are pending revalidation.
-- 125 multi-repository owners are queued for expansion.
+- 123 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 144 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **55** | 22 Nov 2026 | <a href="../../data/developers/CY.json">JSON</a> |
+| 🟡 Provisional | **60** | 22 Nov 2026 | <a href="../../data/developers/CY.json">JSON</a> |
 
 </div>
 
@@ -317,90 +317,125 @@
 </tr>
 <tr>
 <td align="right">43</td>
+<td><a href="https://github.com/knizhnik"><img src="https://avatars.githubusercontent.com/u/156922?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/knizhnik"><b>Konstantin Knizhnik</b></a><br><sub>&#64;knizhnik</sub></td>
+<td align="right"><b>152</b></td>
+<td align="right">22</td>
+<td><sub>Cyprus, Larnaca</sub></td>
+</tr>
+<tr>
+<td align="right">44</td>
+<td><a href="https://github.com/GreXLin85"><img src="https://avatars.githubusercontent.com/u/38141908?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GreXLin85"><b>GreXLin85</b></a><br><sub>&#64;GreXLin85</sub></td>
+<td align="right"><b>151</b></td>
+<td align="right">28</td>
+<td><sub>Cyprus</sub></td>
+</tr>
+<tr>
+<td align="right">45</td>
 <td><a href="https://github.com/alexmic"><img src="https://avatars.githubusercontent.com/u/333117?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexmic"><b>Alex Michael</b></a><br><sub>&#64;alexmic</sub></td>
 <td align="right"><b>144</b></td>
 <td align="right">0</td>
 <td><sub>Cyprus</sub></td>
 </tr>
 <tr>
-<td align="right">44</td>
+<td align="right">46</td>
 <td><a href="https://github.com/hypnoglow"><img src="https://avatars.githubusercontent.com/u/4853075?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hypnoglow"><b>Igor Zibarev</b></a><br><sub>&#64;hypnoglow</sub></td>
 <td align="right"><b>134</b></td>
 <td align="right">0</td>
 <td><sub>Cyprus</sub></td>
 </tr>
 <tr>
-<td align="right">45</td>
+<td align="right">47</td>
+<td><a href="https://github.com/NikAshanin"><img src="https://avatars.githubusercontent.com/u/9415847?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NikAshanin"><b>Nikolai Ashanin</b></a><br><sub>&#64;NikAshanin</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">0</td>
+<td><sub>Cyprus, Limassol</sub></td>
+</tr>
+<tr>
+<td align="right">48</td>
 <td><a href="https://github.com/bjornd"><img src="https://avatars.githubusercontent.com/u/939401?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bjornd"><b>Kirill Lebedev</b></a><br><sub>&#64;bjornd</sub></td>
 <td align="right"><b>88</b></td>
 <td align="right">0</td>
 <td><sub>Cyprus</sub></td>
 </tr>
 <tr>
-<td align="right">46</td>
+<td align="right">49</td>
 <td><a href="https://github.com/vladimir-kotikov"><img src="https://avatars.githubusercontent.com/u/3857604?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vladimir-kotikov"><b>Vladimir Kotikov</b></a><br><sub>&#64;vladimir-kotikov</sub></td>
 <td align="right"><b>82</b></td>
 <td align="right">0</td>
 <td><sub>Limassol, Cyprus</sub></td>
 </tr>
 <tr>
-<td align="right">47</td>
+<td align="right">50</td>
 <td><a href="https://github.com/alekseylovchikov"><img src="https://avatars.githubusercontent.com/u/2079591?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alekseylovchikov"><b>Aleksey Lovchikov</b></a><br><sub>&#64;alekseylovchikov</sub></td>
 <td align="right"><b>64</b></td>
 <td align="right">0</td>
 <td><sub>Cyprus</sub></td>
 </tr>
 <tr>
-<td align="right">48</td>
+<td align="right">51</td>
 <td><a href="https://github.com/5andr0"><img src="https://avatars.githubusercontent.com/u/206866?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/5andr0"><b>Sandro Trianni</b></a><br><sub>&#64;5andr0</sub></td>
 <td align="right"><b>62</b></td>
 <td align="right">0</td>
 <td><sub>Cyprus</sub></td>
 </tr>
 <tr>
-<td align="right">49</td>
+<td align="right">52</td>
 <td><a href="https://github.com/rsaryev"><img src="https://avatars.githubusercontent.com/u/70219513?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rsaryev"><b>Rustam Saryev</b></a><br><sub>&#64;rsaryev</sub></td>
 <td align="right"><b>51</b></td>
 <td align="right">0</td>
 <td><sub>Cyprus</sub></td>
 </tr>
 <tr>
-<td align="right">50</td>
+<td align="right">53</td>
 <td><a href="https://github.com/mavris"><img src="https://avatars.githubusercontent.com/u/3520168?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mavris"><b>Michael Mavris</b></a><br><sub>&#64;mavris</sub></td>
 <td align="right"><b>50</b></td>
 <td align="right">0</td>
 <td><sub>Cyprus</sub></td>
 </tr>
 <tr>
-<td align="right">51</td>
+<td align="right">54</td>
 <td><a href="https://github.com/blitzarx1"><img src="https://avatars.githubusercontent.com/u/32969427?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/blitzarx1"><b>starlord</b></a><br><sub>&#64;blitzarx1</sub></td>
 <td align="right"><b>46</b></td>
 <td align="right">0</td>
 <td><sub>Cyprus</sub></td>
 </tr>
 <tr>
-<td align="right">52</td>
+<td align="right">55</td>
+<td><a href="https://github.com/rock88"><img src="https://avatars.githubusercontent.com/u/323908?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rock88"><b>Andrey K</b></a><br><sub>&#64;rock88</sub></td>
+<td align="right"><b>37</b></td>
+<td align="right">0</td>
+<td><sub>Cyprus</sub></td>
+</tr>
+<tr>
+<td align="right">56</td>
 <td><a href="https://github.com/stachenov"><img src="https://avatars.githubusercontent.com/u/10459538?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stachenov"><b>Sergei Tachenov</b></a><br><sub>&#64;stachenov</sub></td>
 <td align="right"><b>36</b></td>
 <td align="right">0</td>
 <td><sub>Paphos, Cyprus</sub></td>
 </tr>
 <tr>
-<td align="right">53</td>
+<td align="right">57</td>
 <td><a href="https://github.com/silentsokolov"><img src="https://avatars.githubusercontent.com/u/398939?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/silentsokolov"><b>Dmitriy Sokolov</b></a><br><sub>&#64;silentsokolov</sub></td>
 <td align="right"><b>33</b></td>
 <td align="right">0</td>
 <td><sub>Terra</sub></td>
 </tr>
 <tr>
-<td align="right">54</td>
+<td align="right">58</td>
+<td><a href="https://github.com/frangoud"><img src="https://avatars.githubusercontent.com/u/4771378?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/frangoud"><b>Fotos Frangoudes</b></a><br><sub>&#64;frangoud</sub></td>
+<td align="right"><b>6</b></td>
+<td align="right">0</td>
+<td><sub>Nicosia, Cyprus</sub></td>
+</tr>
+<tr>
+<td align="right">59</td>
 <td><a href="https://github.com/plp13"><img src="https://avatars.githubusercontent.com/u/3441173?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/plp13"><b>Pantelis Panayiotou</b></a><br><sub>&#64;plp13</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">0</td>
 <td><sub>Cyprus</sub></td>
 </tr>
 <tr>
-<td align="right">55</td>
+<td align="right">60</td>
 <td><a href="https://github.com/LucasCFXHosting"><img src="https://avatars.githubusercontent.com/u/114596925?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LucasCFXHosting"><b>Lucas</b></a><br><sub>&#64;LucasCFXHosting</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">11</td>
@@ -414,7 +449,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 55 attributed developers are tracked; the cutoff is 2 followers.
+- Organizations are excluded. 60 attributed developers are tracked; the cutoff is 2 followers.
 - **Location discovery:** term 0 of 105 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

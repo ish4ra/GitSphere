@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/NG.json">JSON</a> |
+| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/contributors/NG.json">JSON</a> |
 
 </div>
 
@@ -124,6 +124,15 @@
 </tr>
 <tr>
 <td align="right">12</td>
+<td><a href="https://github.com/kehindeBankole"><img src="https://avatars.githubusercontent.com/u/33335391?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kehindeBankole"><b>kehinde</b></a><br><sub>&#64;kehindeBankole · 172 followers</sub></td>
+<td align="right"><b>39</b></td>
+<td align="right">24</td>
+<td align="right">4</td>
+<td align="right">1</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">13</td>
 <td><a href="https://github.com/Adeyinka-hub"><img src="https://avatars.githubusercontent.com/u/55559465?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Adeyinka-hub"><b>Adeyinka Michael Sotunde</b></a><br><sub>&#64;Adeyinka-hub · 349 followers</sub></td>
 <td align="right"><b>33</b></td>
 <td align="right">23</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/manniru"><img src="https://avatars.githubusercontent.com/u/1082476?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/manniru"><b>MUHAMMAD MANNIR AHMAD</b></a><br><sub>&#64;manniru · 177 followers</sub></td>
 <td align="right"><b>32</b></td>
 <td align="right">30</td>
@@ -141,7 +150,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/CrazyChickenDev"><img src="https://avatars.githubusercontent.com/u/38485110?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CrazyChickenDev"><b>CrazyChickenDev</b></a><br><sub>&#64;CrazyChickenDev · 246 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">1</td>
@@ -156,7 +165,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 14 of 718 discovered developers (704 awaiting measurement).
+- **Measured:** 15 of 824 discovered developers (809 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 147 in round 1.

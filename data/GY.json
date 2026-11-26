@@ -5,7 +5,7 @@
 "country": {"code":"GY","name":"Guyana","slug":"guyana"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":147,"candidates":123,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":36,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":146,"candidates":123,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":36,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"PythonExtensionInstaller","nameWithOwner":"Devon-Wintz/PythonExtensionInstaller","url":"https://github.com/Devon-Wintz/PythonExtensionInstaller","description":null,"stars":1,"forks":1,"primaryLanguage":"Batchfile","license":null,"createdAt":"2018-05-22T08:40:49Z","pushedAt":"2018-05-22T20:29:48Z","archived":false,"owner":{"login":"Devon-Wintz","name":null,"type":"User","url":"https://github.com/Devon-Wintz","location":"Guyana","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"BloodLine","nameWithOwner":"kumar100966/BloodLine","url":"https://github.com/kumar100966/BloodLine","description":null,"stars":1,"forks":1,"primaryLanguage":"HTML","license":null,"createdAt":"2020-04-11T17:22:05Z","pushedAt":"2023-07-11T01:13:53Z","archived":false,"owner":{"login":"kumar100966","name":"Kumar Etwaroo","type":"User","url":"https://github.com/kumar100966","location":"Guyana","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":".github","nameWithOwner":"OneTechGY/.github","url":"https://github.com/OneTechGY/.github","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-08-28T17:34:47Z","pushedAt":"2026-08-28T17:54:04Z","archived":false,"owner":{"login":"OneTechGY","name":"OneTech.gy","type":"Organization","url":"https://github.com/OneTechGY","location":"Guyana","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"github-final-project","nameWithOwner":"orinparris/github-final-project","url":"https://github.com/orinparris/github-final-project","description":null,"stars":0,"forks":0,"primaryLanguage":"Shell","license":{"spdxId":"Apache-2.0"},"createdAt":"2024-06-17T15:21:22Z","pushedAt":"2024-06-17T15:26:52Z","archived":false,"owner":{"login":"orinparris","name":"Orin Parris","type":"User","url":"https://github.com/orinparris","location":"Guyana","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "2daaf0006614a668",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "63e0e41ccb42cf44",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

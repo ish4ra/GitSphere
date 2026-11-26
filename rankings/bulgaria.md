@@ -248,21 +248,21 @@
 <tr>
 <td align="right">33</td>
 <td><img src="https://github.com/Tavris1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Tavris1/ComfyUI-Easy-Install"><b>Tavris1/ComfyUI-Easy-Install</b></a><br><sub>One-click Portable ComfyUI with EZi Desktop - install, manage and customize ComfyUI in one place. 🔹 Nvidia GPU support…</sub></td>
-<td align="right"><b>2,124</b></td>
+<td align="right"><b>2,136</b></td>
 <td align="right">191</td>
 <td>PowerShell</td>
 </tr>
 <tr>
 <td align="right">34</td>
 <td><img src="https://github.com/dev-labs-bg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dev-labs-bg/transitioner"><b>dev-labs-bg/transitioner</b></a><br><sub>A library for dynamic view-to-view transitions</sub></td>
-<td align="right"><b>2,044</b></td>
+<td align="right"><b>2,043</b></td>
 <td align="right">142</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">35</td>
 <td><img src="https://github.com/yyyar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yyyar/gobetween"><b>yyyar/gobetween</b></a><br><sub>:cloud: Modern &amp; minimalistic load balancer for the Сloud era</sub></td>
-<td align="right"><b>1,986</b></td>
+<td align="right"><b>1,985</b></td>
 <td align="right">226</td>
 <td>Go</td>
 </tr>
@@ -276,7 +276,7 @@
 <tr>
 <td align="right">37</td>
 <td><img src="https://github.com/bobeff.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bobeff/programming-math-science"><b>bobeff/programming-math-science</b></a><br><sub>This is a list of links to different freely available learning resources about computer programming, math, and science.</sub></td>
-<td align="right"><b>1,928</b></td>
+<td align="right"><b>1,929</b></td>
 <td align="right">147</td>
 <td>—</td>
 </tr>
@@ -297,21 +297,21 @@
 <tr>
 <td align="right">40</td>
 <td><img src="https://github.com/asteasolutions.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/asteasolutions/zod-to-openapi"><b>asteasolutions/zod-to-openapi</b></a><br><sub>A library that generates OpenAPI (Swagger) docs from Zod schemas</sub></td>
-<td align="right"><b>1,633</b></td>
+<td align="right"><b>1,634</b></td>
 <td align="right">109</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">41</td>
 <td><img src="https://github.com/gigobyte.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gigobyte/purify"><b>gigobyte/purify</b></a><br><sub>Functional programming library for TypeScript - https://gigobyte.github.io/purify/</sub></td>
-<td align="right"><b>1,605</b></td>
+<td align="right"><b>1,604</b></td>
 <td align="right">62</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">42</td>
 <td><img src="https://github.com/htmlburger.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/htmlburger/carbon-fields"><b>htmlburger/carbon-fields</b></a><br><sub>WordPress Custom Fields Library ✨</sub></td>
-<td align="right"><b>1,543</b></td>
+<td align="right"><b>1,542</b></td>
 <td align="right">257</td>
 <td>PHP</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 691 stars; 139 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 691 stars; 150 attributed candidates are tracked.
 - 121 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 140 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **21** | 22 Nov 2026 | <a href="../../data/contributors/CA.json">JSON</a> |
+| 🟡 Provisional | **22** | 22 Nov 2026 | <a href="../../data/contributors/CA.json">JSON</a> |
 
 </div>
 
@@ -169,6 +169,15 @@
 </tr>
 <tr>
 <td align="right">17</td>
+<td><a href="https://github.com/un33k"><img src="https://avatars.githubusercontent.com/u/407537?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/un33k"><b>Val Neekman</b></a><br><sub>&#64;un33k · 151 followers</sub></td>
+<td align="right"><b>109</b></td>
+<td align="right">68</td>
+<td align="right">31</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">18</td>
 <td><a href="https://github.com/slamj1"><img src="https://avatars.githubusercontent.com/u/912224?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/slamj1"><b>Sam Morreel</b></a><br><sub>&#64;slamj1 · 504 followers</sub></td>
 <td align="right"><b>104</b></td>
 <td align="right">1</td>
@@ -177,7 +186,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">19</td>
 <td><a href="https://github.com/bonedaddy"><img src="https://avatars.githubusercontent.com/u/17089485?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bonedaddy"><b>bonedaddy</b></a><br><sub>&#64;bonedaddy · 368 followers</sub></td>
 <td align="right"><b>84</b></td>
 <td align="right">58</td>
@@ -186,7 +195,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">20</td>
 <td><a href="https://github.com/nhat416"><img src="https://avatars.githubusercontent.com/u/19623368?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nhat416"><b>Nhat Tran</b></a><br><sub>&#64;nhat416 · 231 followers</sub></td>
 <td align="right"><b>52</b></td>
 <td align="right">10</td>
@@ -195,7 +204,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">21</td>
 <td><a href="https://github.com/invokethreatguy"><img src="https://avatars.githubusercontent.com/u/21073604?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/invokethreatguy"><b>InvokeThreatGuy</b></a><br><sub>&#64;invokethreatguy · 179 followers</sub></td>
 <td align="right"><b>31</b></td>
 <td align="right">0</td>
@@ -204,7 +213,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">22</td>
 <td><a href="https://github.com/pdehaan"><img src="https://avatars.githubusercontent.com/u/557895?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pdehaan"><b>Peter deHaan</b></a><br><sub>&#64;pdehaan · 185 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -219,7 +228,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 21 of 1,511 discovered developers (1,490 awaiting measurement).
+- **Measured:** 23 of 1,558 discovered developers (1,535 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 103 in round 1.

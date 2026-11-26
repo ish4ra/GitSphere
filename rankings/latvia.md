@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **53** | 23 Nov 2026 | <a href="../data/LV.json">JSON</a> |
+| 🟡 Provisional | **59** | 23 Nov 2026 | <a href="../data/LV.json">JSON</a> |
 
 </div>
 
@@ -392,6 +392,48 @@
 <td align="right">14</td>
 <td>—</td>
 </tr>
+<tr>
+<td align="right">54</td>
+<td><img src="https://github.com/bakape.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bakape/shamichan"><b>bakape/shamichan</b></a> <sub>archived</sub><br><sub>anonymous realtime imageboard focused on high performance and transparent moderation</sub></td>
+<td align="right"><b>444</b></td>
+<td align="right">78</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/netxms.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/netxms/netxms"><b>netxms/netxms</b></a><br><sub>NetXMS - Open Source network and infrastructure monitoring and management</sub></td>
+<td align="right"><b>434</b></td>
+<td align="right">84</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><img src="https://github.com/ONLYOFFICE.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ONLYOFFICE/core"><b>ONLYOFFICE/core</b></a><br><sub>Server core components which are a part of ONLYOFFICE Document Server</sub></td>
+<td align="right"><b>432</b></td>
+<td align="right">328</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><img src="https://github.com/ColorlibHQ.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ColorlibHQ/Sparkling"><b>ColorlibHQ/Sparkling</b></a><br><sub>Free responsive WordPress blog, business and WooCommerce theme built on Bootstrap — full-width slider, four sidebar lay…</sub></td>
+<td align="right"><b>431</b></td>
+<td align="right">329</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><img src="https://github.com/ONLYOFFICE.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ONLYOFFICE/docker-onlyoffice-nextcloud"><b>ONLYOFFICE/docker-onlyoffice-nextcloud</b></a></td>
+<td align="right"><b>422</b></td>
+<td align="right">168</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><img src="https://github.com/racenis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/racenis/tram-sdk"><b>racenis/tram-sdk</b></a><br><sub>Software Development Kit for creating Tramway Drifting and Dungeon Exploration Simulators</sub></td>
+<td align="right"><b>417</b></td>
+<td align="right">7</td>
+<td>C++</td>
+</tr>
 </tbody>
 </table>
 
@@ -400,8 +442,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 454 stars; 53 attributed candidates are tracked.
-- 108 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 417 stars; 59 attributed candidates are tracked.
+- 104 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 136 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

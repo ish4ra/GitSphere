@@ -5,7 +5,7 @@
 "country": {"code":"LC","name":"St. Lucia","slug":"st-lucia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":204,"measuredAccounts":14,"measurementBacklog":190,"window":{"from":"2025-11-26T00:00:00Z","to":"2026-11-26T00:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":30,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":204,"measuredAccounts":15,"measurementBacklog":189,"window":{"from":"2025-11-26T00:00:00Z","to":"2026-11-26T00:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":30,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjEyODg4OTAx","login":"dortizbarrientos","name":"Daniel Ortiz-Barrientos","url":"https://github.com/dortizbarrientos","avatarUrl":"https://avatars.githubusercontent.com/u/12888901?s=80&v=4","followers":2,"publicRepos":26,"location":"St Lucia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26","contributions":{"public":145,"commits":132,"pullRequests":0,"reviews":0,"issues":0,"repositories":13,"windowFrom":"2025-11-26T00:00:00Z","windowTo":"2026-11-26T00:00:00Z","measuredOn":"2026-11-26"}},
   {"rank":2,"id":"MDQ6VXNlcjkwMjk0NDM=","login":"wilsonwolf","name":null,"url":"https://github.com/wilsonwolf","avatarUrl":"https://avatars.githubusercontent.com/u/9029443?s=80&v=4","followers":5,"publicRepos":33,"location":"Castries, Saint Lucia","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-25","contributions":{"public":60,"commits":43,"pullRequests":2,"reviews":0,"issues":0,"repositories":15,"windowFrom":"2025-11-25T04:00:00Z","windowTo":"2026-11-25T04:00:00Z","measuredOn":"2026-11-25"}},
@@ -17,8 +17,8 @@
   {"rank":8,"id":"MDQ6VXNlcjQ1NzIwNTUy","login":"bythos14","name":"Bythos","url":"https://github.com/bythos14","avatarUrl":"https://avatars.githubusercontent.com/u/45720552?s=80&v=4","followers":46,"publicRepos":37,"location":"St. Lucia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":4,"commits":3,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T21:00:00Z","windowTo":"2026-11-24T21:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":9,"id":"MDQ6VXNlcjI1MTI4ODI2","login":"bBankert","name":"Brandon Bankert","url":"https://github.com/bBankert","avatarUrl":"https://avatars.githubusercontent.com/u/25128826?s=80&v=4","followers":0,"publicRepos":14,"location":"St Lucia, QLD","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":4,"commits":2,"pullRequests":2,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "422fd0cca3aba392",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "2fd4a65652099679",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

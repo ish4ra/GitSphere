@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **68** | 23 Nov 2026 | <a href="../data/IR.json">JSON</a> |
+| 🟡 Provisional | **77** | 23 Nov 2026 | <a href="../data/IR.json">JSON</a> |
 
 </div>
 
@@ -66,14 +66,14 @@
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/The404Hacking.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/The404Hacking/AndroRAT"><b>The404Hacking/AndroRAT</b></a><br><sub>AndroRAT &#124; Remote Administrator Tool for Android OS Hacking</sub></td>
-<td align="right"><b>1,760</b></td>
-<td align="right">388</td>
+<td align="right"><b>1,759</b></td>
+<td align="right">390</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">8</td>
 <td><img src="https://github.com/bezzad.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bezzad/Downloader"><b>bezzad/Downloader</b></a><br><sub>Fast, cross-platform and reliable multipart downloader with asynchronous progress events for .NET applications.</sub></td>
-<td align="right"><b>1,729</b></td>
+<td align="right"><b>1,730</b></td>
 <td align="right">252</td>
 <td>C#</td>
 </tr>
@@ -497,6 +497,69 @@
 <td align="right">96</td>
 <td>Shell</td>
 </tr>
+<tr>
+<td align="right">69</td>
+<td><img src="https://github.com/Dashboard-Design.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Dashboard-Design/Power-BI-Design-Files"><b>Dashboard-Design/Power-BI-Design-Files</b></a><br><sub>A library of Power BI dashboards, design files, datasets, and visualization resources. Learn dashboard design, explore…</sub></td>
+<td align="right"><b>449</b></td>
+<td align="right">131</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/GoFarsi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/GoFarsi/book"><b>GoFarsi/book</b></a><br><sub>کتاب آزاد (آنلاین/آفلاین) زبان برنامهنویسی گو فارسی</sub></td>
+<td align="right"><b>447</b></td>
+<td align="right">113</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/mehdi-fathi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mehdi-fathi/eloquent-filter"><b>mehdi-fathi/eloquent-filter</b></a><br><sub>Eloquent Filter is a package for filter data of models by the query strings. Easy to use and fully dynamic.</sub></td>
+<td align="right"><b>445</b></td>
+<td align="right">41</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><img src="https://github.com/MatrixTM.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MatrixTM/OutlookGen"><b>MatrixTM/OutlookGen</b></a><br><sub>✨ Outlook Account Generator Written in Python ✨</sub></td>
+<td align="right"><b>442</b></td>
+<td align="right">96</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><img src="https://github.com/maktoobgar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maktoobgar/scene_manager"><b>maktoobgar/scene&#95;manager</b></a><br><sub>A tool to manage, organize and ease transitions between different scenes.</sub></td>
+<td align="right"><b>432</b></td>
+<td align="right">21</td>
+<td>GDScript</td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/saeedmasoudie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/saeedmasoudie/pywarp"><b>saeedmasoudie/pywarp</b></a><br><sub>Pywarp is a powerful replacement for the official Cloudflare WARP app, offering an intuitive UI and extended options, i…</sub></td>
+<td align="right"><b>431</b></td>
+<td align="right">36</td>
+<td>QML</td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/alidehkhodaei.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alidehkhodaei/kotlin-cheat-sheet"><b>alidehkhodaei/kotlin-cheat-sheet</b></a><br><sub>📄 A cheat sheet for Kotlin programming language</sub></td>
+<td align="right"><b>428</b></td>
+<td align="right">53</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/mmnaderi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mmnaderi/antigravity-rtl"><b>mmnaderi/antigravity-rtl</b></a><br><sub>Smart RTL (Right-to-Left) UI patcher for Antigravity &amp; Antigravity IDE with Persian, Arabic, and Hebrew typography supp…</sub></td>
+<td align="right"><b>415</b></td>
+<td align="right">19</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/B3hnamR.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/B3hnamR/XHTTPRelayECO"><b>B3hnamR/XHTTPRelayECO</b></a><br><sub>Low-overhead hardened XHTTP relay on Vercel Node runtime</sub></td>
+<td align="right"><b>413</b></td>
+<td align="right">201</td>
+<td>PowerShell</td>
+</tr>
 </tbody>
 </table>
 
@@ -505,8 +568,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 452 stars; 68 attributed candidates are tracked.
-- 115 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 413 stars; 77 attributed candidates are tracked.
+- 110 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 159 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

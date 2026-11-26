@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/samccone"><img src="https://avatars.githubusercontent.com/u/883126?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/samccone"><b>Sam Saccone</b></a><br><sub>&#64;samccone</sub></td>
-<td align="right"><b>2,262</b></td>
+<td align="right"><b>2,263</b></td>
 <td align="right">415</td>
 <td><sub>∆∆∆&lt;script&gt;alert(prompt(&#39;why&#39;))&lt;/script&gt;</sub></td>
 </tr>

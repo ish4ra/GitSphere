@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **28** | 23 Nov 2026 | <a href="../data/BA.json">JSON</a> |
+| 🟡 Provisional | **30** | 23 Nov 2026 | <a href="../data/BA.json">JSON</a> |
 
 </div>
 
@@ -60,13 +60,13 @@
 <td align="right">6</td>
 <td><img src="https://github.com/enisdenjo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/enisdenjo/graphql-ws"><b>enisdenjo/graphql-ws</b></a><br><sub>Coherent, zero-dependency, lazy, simple, GraphQL over WebSocket Protocol compliant server and client.</sub></td>
 <td align="right"><b>1,873</b></td>
-<td align="right">187</td>
+<td align="right">189</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/Kodiqa-Solutions.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Kodiqa-Solutions/VaultS3"><b>Kodiqa-Solutions/VaultS3</b></a><br><sub>Lightweight, S3-compatible object storage server with built-in web dashboard. Single binary, low memory, encryption at…</sub></td>
-<td align="right"><b>1,741</b></td>
+<td align="right"><b>1,742</b></td>
 <td align="right">104</td>
 <td>Go</td>
 </tr>
@@ -217,6 +217,20 @@
 <td align="right">44</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">29</td>
+<td><img src="https://github.com/MS-WEB-BN.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MS-WEB-BN/t14m4t"><b>MS-WEB-BN/t14m4t</b></a><br><sub>Automated brute-forcing attack tool.</sub></td>
+<td align="right"><b>425</b></td>
+<td align="right">83</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td><img src="https://github.com/vladimir-cicovic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vladimir-cicovic/wifi_pass"><b>vladimir-cicovic/wifi&#95;pass</b></a><br><sub>Collection of passwords from torrents/dumps/others - uniq, sorted, removed length bellow 8 for wifi cracking</sub></td>
+<td align="right"><b>424</b></td>
+<td align="right">57</td>
+<td>Shell</td>
+</tr>
 </tbody>
 </table>
 
@@ -225,8 +239,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 452 stars; 28 attributed candidates are tracked.
-- 101 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 424 stars; 30 attributed candidates are tracked.
+- 86 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 123 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

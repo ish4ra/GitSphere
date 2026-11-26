@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **339** | 22 Nov 2026 | <a href="../../data/developers/GN.json">JSON</a> |
+| 🟡 Provisional | **347** | 22 Nov 2026 | <a href="../../data/developers/GN.json">JSON</a> |
 
 </div>
 
@@ -1619,776 +1619,832 @@
 </tr>
 <tr>
 <td align="right">229</td>
+<td><a href="https://github.com/hoseanahof-cmyk"><img src="https://avatars.githubusercontent.com/u/267536306?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hoseanahof-cmyk"><b>SSEC Health Services of Papua New Guinea</b></a><br><sub>&#64;hoseanahof-cmyk</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">42</td>
+<td><sub>Brugam Maprik East Sepik Province Papua New Gui…</sub></td>
+</tr>
+<tr>
+<td align="right">230</td>
 <td><a href="https://github.com/bem630"><img src="https://avatars.githubusercontent.com/u/72270267?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bem630"><b>bem630</b></a><br><sub>&#64;bem630</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">26</td>
 <td><sub>Guinée, conakry</sub></td>
 </tr>
 <tr>
-<td align="right">230</td>
+<td align="right">231</td>
 <td><a href="https://github.com/alphaDia"><img src="https://avatars.githubusercontent.com/u/42043469?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alphaDia"><b>Alpha Diallo</b></a><br><sub>&#64;alphaDia</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">19</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">231</td>
+<td align="right">232</td>
+<td><a href="https://github.com/Gideon-Zozingao"><img src="https://avatars.githubusercontent.com/u/77943385?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Gideon-Zozingao"><b>Gideon-Zozingao</b></a><br><sub>&#64;Gideon-Zozingao</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">16</td>
+<td><sub>Port Moresby Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">233</td>
 <td><a href="https://github.com/hebelamou224"><img src="https://avatars.githubusercontent.com/u/118105729?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hebelamou224"><b>Moriba Hebelamou</b></a><br><sub>&#64;hebelamou224</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">16</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">232</td>
+<td align="right">234</td>
 <td><a href="https://github.com/atnibbarry"><img src="https://avatars.githubusercontent.com/u/101569940?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/atnibbarry"><b>Fatoumata Binta BARRY</b></a><br><sub>&#64;atnibbarry</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">13</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">233</td>
+<td align="right">235</td>
 <td><a href="https://github.com/Ahmadou1714"><img src="https://avatars.githubusercontent.com/u/150744191?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ahmadou1714"><b>Amadou Diarra</b></a><br><sub>&#64;Ahmadou1714</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">12</td>
 <td><sub>Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">234</td>
+<td align="right">236</td>
 <td><a href="https://github.com/AmirMisra"><img src="https://avatars.githubusercontent.com/u/112457579?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AmirMisra"><b>Barry</b></a><br><sub>&#64;AmirMisra</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">11</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">235</td>
+<td align="right">237</td>
 <td><a href="https://github.com/Balday2"><img src="https://avatars.githubusercontent.com/u/36213436?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Balday2"><b>MhdBalde</b></a><br><sub>&#64;Balday2</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">10</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">236</td>
+<td align="right">238</td>
 <td><a href="https://github.com/cocci123"><img src="https://avatars.githubusercontent.com/u/194773942?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cocci123"><b>Oumou</b></a><br><sub>&#64;cocci123</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">8</td>
 <td><sub>Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">237</td>
+<td align="right">239</td>
 <td><a href="https://github.com/forgetfulniget"><img src="https://avatars.githubusercontent.com/u/182442624?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/forgetfulniget"><b>forgetfulniget</b></a><br><sub>&#64;forgetfulniget</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">8</td>
 <td><sub>Guinea (GN)</sub></td>
 </tr>
 <tr>
-<td align="right">238</td>
+<td align="right">240</td>
 <td><a href="https://github.com/Mohamed224-CMD"><img src="https://avatars.githubusercontent.com/u/204094335?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mohamed224-CMD"><b>Mohamed Joe Sidibé</b></a><br><sub>&#64;Mohamed224-CMD</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">8</td>
 <td><sub>Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">239</td>
+<td align="right">241</td>
 <td><a href="https://github.com/BoboDiallo224"><img src="https://avatars.githubusercontent.com/u/93845701?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BoboDiallo224"><b>Mamadou Bobo Diallo</b></a><br><sub>&#64;BoboDiallo224</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">7</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">240</td>
+<td align="right">242</td>
 <td><a href="https://github.com/kudachsagunto"><img src="https://avatars.githubusercontent.com/u/87119923?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kudachsagunto"><b>Carlos S. A.</b></a><br><sub>&#64;kudachsagunto</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">7</td>
 <td><sub>Ecuatorial Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">241</td>
+<td align="right">243</td>
 <td><a href="https://github.com/aminatabella"><img src="https://avatars.githubusercontent.com/u/39914133?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aminatabella"><b>Aminata bella</b></a><br><sub>&#64;aminatabella</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">6</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">242</td>
+<td align="right">244</td>
 <td><a href="https://github.com/Conseiga"><img src="https://avatars.githubusercontent.com/u/147947436?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Conseiga"><b>TOUNKARA Abel</b></a><br><sub>&#64;Conseiga</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">6</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">243</td>
+<td align="right">245</td>
 <td><a href="https://github.com/juniorcodex7-ctrl"><img src="https://avatars.githubusercontent.com/u/284752841?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/juniorcodex7-ctrl"><b>Ibrahima Sory Siby</b></a><br><sub>&#64;juniorcodex7-ctrl</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">6</td>
 <td><sub>Guinea 🇬🇳</sub></td>
 </tr>
 <tr>
-<td align="right">244</td>
+<td align="right">246</td>
 <td><a href="https://github.com/moussa-traore-gn"><img src="https://avatars.githubusercontent.com/u/266415602?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/moussa-traore-gn"><b>Moussa-Traore-Gn</b></a><br><sub>&#64;moussa-traore-gn</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">6</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">245</td>
+<td align="right">247</td>
 <td><a href="https://github.com/pedro-luis-ebang"><img src="https://avatars.githubusercontent.com/u/171333017?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pedro-luis-ebang"><b>Pedro Luis Ebang</b></a><br><sub>&#64;pedro-luis-ebang</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">6</td>
 <td><sub>oyala-equatorial Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">246</td>
+<td align="right">248</td>
 <td><a href="https://github.com/Smart44557"><img src="https://avatars.githubusercontent.com/u/216976953?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Smart44557"><b>Smart Sombie</b></a><br><sub>&#64;Smart44557</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">6</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">247</td>
+<td align="right">249</td>
 <td><a href="https://github.com/ThiernoKeita"><img src="https://avatars.githubusercontent.com/u/175663034?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ThiernoKeita"><b>Thierno Keit</b></a><br><sub>&#64;ThiernoKeita</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">6</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">248</td>
+<td align="right">250</td>
 <td><a href="https://github.com/AyAmCaesars"><img src="https://avatars.githubusercontent.com/u/254723183?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AyAmCaesars"><b>IamCaesars</b></a><br><sub>&#64;AyAmCaesars</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Guinea, Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">249</td>
+<td align="right">251</td>
 <td><a href="https://github.com/sallibrahima"><img src="https://avatars.githubusercontent.com/u/44473442?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sallibrahima"><b>Sall Ibrahima</b></a><br><sub>&#64;sallibrahima</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">250</td>
+<td align="right">252</td>
 <td><a href="https://github.com/Saltigui"><img src="https://avatars.githubusercontent.com/u/102040306?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Saltigui"><b>Mamadou Lamarane BARRY</b></a><br><sub>&#64;Saltigui</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">251</td>
+<td align="right">253</td>
 <td><a href="https://github.com/Barrysank"><img src="https://avatars.githubusercontent.com/u/35844200?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Barrysank"><b>Thierno Mamoudou Barry</b></a><br><sub>&#64;Barrysank</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>3e étage de l&#39;immeuble de la pharmacie Diaguiss…</sub></td>
 </tr>
 <tr>
-<td align="right">252</td>
+<td align="right">254</td>
 <td><a href="https://github.com/drshudman"><img src="https://avatars.githubusercontent.com/u/97270557?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/drshudman"><b>Souleymane BAH</b></a><br><sub>&#64;drshudman</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">253</td>
+<td align="right">255</td>
 <td><a href="https://github.com/Ramadane224"><img src="https://avatars.githubusercontent.com/u/189322249?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ramadane224"><b>Mamadou Ramadane Condé</b></a><br><sub>&#64;Ramadane224</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Guinea-Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">254</td>
+<td align="right">256</td>
 <td><a href="https://github.com/syllasylla"><img src="https://avatars.githubusercontent.com/u/36448339?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/syllasylla"><b>MabuntuS</b></a><br><sub>&#64;syllasylla</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">255</td>
+<td align="right">257</td>
 <td><a href="https://github.com/sysavane-u"><img src="https://avatars.githubusercontent.com/u/278620893?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sysavane-u"><b>Usman Sysavane</b></a><br><sub>&#64;sysavane-u</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">256</td>
+<td align="right">258</td>
 <td><a href="https://github.com/AbouAminataconde"><img src="https://avatars.githubusercontent.com/u/45085502?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AbouAminataconde"><b>Abou Aminata Condé</b></a><br><sub>&#64;AbouAminataconde</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Guinée/Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">257</td>
+<td align="right">259</td>
 <td><a href="https://github.com/dabson7"><img src="https://avatars.githubusercontent.com/u/17986342?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dabson7"><b>dabson7</b></a><br><sub>&#64;dabson7</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">258</td>
+<td align="right">260</td>
 <td><a href="https://github.com/dianbarry"><img src="https://avatars.githubusercontent.com/u/33149630?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dianbarry"><b>MAMADOU DIAN BARRY</b></a><br><sub>&#64;dianbarry</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">259</td>
+<td align="right">261</td>
 <td><a href="https://github.com/djalloyoungstuna-cyber"><img src="https://avatars.githubusercontent.com/u/264160884?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/djalloyoungstuna-cyber"><b>TAHIROU GN224</b></a><br><sub>&#64;djalloyoungstuna-cyber</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>CONAKRY</sub></td>
 </tr>
 <tr>
-<td align="right">260</td>
+<td align="right">262</td>
 <td><a href="https://github.com/EmmanuelSTheoro"><img src="https://avatars.githubusercontent.com/u/111279353?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EmmanuelSTheoro"><b>Emmanuel Siba THEORO</b></a><br><sub>&#64;EmmanuelSTheoro</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">261</td>
+<td align="right">263</td>
 <td><a href="https://github.com/GeoPes"><img src="https://avatars.githubusercontent.com/u/65921824?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GeoPes"><b>Guinea online payment</b></a><br><sub>&#64;GeoPes</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">262</td>
+<td align="right">264</td>
 <td><a href="https://github.com/jeanfayaoliano"><img src="https://avatars.githubusercontent.com/u/172229584?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jeanfayaoliano"><b>Oliano</b></a><br><sub>&#64;jeanfayaoliano</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">263</td>
+<td align="right">265</td>
 <td><a href="https://github.com/magasbakary01"><img src="https://avatars.githubusercontent.com/u/30359386?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/magasbakary01"><b>Aboubacar Sidiki Magassouba</b></a><br><sub>&#64;magasbakary01</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">264</td>
+<td align="right">266</td>
 <td><a href="https://github.com/MariamaHawaouDiallo21"><img src="https://avatars.githubusercontent.com/u/256424584?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MariamaHawaouDiallo21"><b>Mariama Hawaou Diallo</b></a><br><sub>&#64;MariamaHawaouDiallo21</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Guinea ,Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">265</td>
+<td align="right">267</td>
 <td><a href="https://github.com/NotPrem"><img src="https://avatars.githubusercontent.com/u/47220082?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NotPrem"><b>PremSRINO</b></a><br><sub>&#64;NotPrem</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">266</td>
+<td align="right">268</td>
 <td><a href="https://github.com/ourydow"><img src="https://avatars.githubusercontent.com/u/119296850?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ourydow"><b>ourydow</b></a><br><sub>&#64;ourydow</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Guinea, Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">267</td>
+<td align="right">269</td>
 <td><a href="https://github.com/BoubacarMali"><img src="https://avatars.githubusercontent.com/u/121035898?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BoubacarMali"><b>Boubacar TOURE</b></a><br><sub>&#64;BoubacarMali</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>GUINEA</sub></td>
 </tr>
 <tr>
-<td align="right">268</td>
+<td align="right">270</td>
 <td><a href="https://github.com/dafbill2"><img src="https://avatars.githubusercontent.com/u/349892498?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dafbill2"><b>Dr&#95;Bill2</b></a><br><sub>&#64;dafbill2</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Guinea Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">269</td>
+<td align="right">271</td>
 <td><a href="https://github.com/dgawi"><img src="https://avatars.githubusercontent.com/u/59753580?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dgawi"><b>Duncan Gawi</b></a><br><sub>&#64;dgawi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Papus New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">270</td>
+<td align="right">272</td>
 <td><a href="https://github.com/diawararobert567-rd"><img src="https://avatars.githubusercontent.com/u/239628235?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/diawararobert567-rd"><b>Robert Diawara</b></a><br><sub>&#64;diawararobert567-rd</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">271</td>
+<td align="right">273</td>
 <td><a href="https://github.com/herabatoure"><img src="https://avatars.githubusercontent.com/u/233174356?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/herabatoure"><b>Heraba Toure</b></a><br><sub>&#64;herabatoure</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Guinee, Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">272</td>
+<td align="right">274</td>
+<td><a href="https://github.com/josiahkeaton"><img src="https://avatars.githubusercontent.com/u/56106815?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/josiahkeaton"><b>JosiahKeaton</b></a><br><sub>&#64;josiahkeaton</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">2</td>
+<td><sub>University of Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">275</td>
 <td><a href="https://github.com/KeraJux"><img src="https://avatars.githubusercontent.com/u/121591187?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KeraJux"><b>Anton Junior Forova</b></a><br><sub>&#64;KeraJux</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Port Moresby Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">273</td>
+<td align="right">276</td>
 <td><a href="https://github.com/lardenmrbread"><img src="https://avatars.githubusercontent.com/u/183356715?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lardenmrbread"><b>lardenmrbread</b></a><br><sub>&#64;lardenmrbread</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Guinea (GN)</sub></td>
 </tr>
 <tr>
-<td align="right">274</td>
+<td align="right">277</td>
 <td><a href="https://github.com/nabymoussasylla"><img src="https://avatars.githubusercontent.com/u/151924546?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nabymoussasylla"><b>Naby Moussa Sylla</b></a><br><sub>&#64;nabymoussasylla</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Guinée, Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">275</td>
+<td align="right">278</td>
 <td><a href="https://github.com/OmaDiallo"><img src="https://avatars.githubusercontent.com/u/60044733?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OmaDiallo"><b>Oumar Diallo</b></a><br><sub>&#64;OmaDiallo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">276</td>
+<td align="right">279</td>
 <td><a href="https://github.com/Ousmaneconde-ux"><img src="https://avatars.githubusercontent.com/u/238847037?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ousmaneconde-ux"><b>Ousmaneconde EDNOC</b></a><br><sub>&#64;Ousmaneconde-ux</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">277</td>
+<td align="right">280</td>
 <td><a href="https://github.com/portofoulawa"><img src="https://avatars.githubusercontent.com/u/76742355?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/portofoulawa"><b>Porto FOULAWA</b></a><br><sub>&#64;portofoulawa</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">278</td>
+<td align="right">281</td>
 <td><a href="https://github.com/rosalie201"><img src="https://avatars.githubusercontent.com/u/202198644?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rosalie201"><b>Rosalie Thea</b></a><br><sub>&#64;rosalie201</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">279</td>
+<td align="right">282</td>
 <td><a href="https://github.com/shopnumericgn-oss"><img src="https://avatars.githubusercontent.com/u/228952258?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shopnumericgn-oss"><b>Shop numeric</b></a><br><sub>&#64;shopnumericgn-oss</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Conakry, Guinée</sub></td>
 </tr>
 <tr>
-<td align="right">280</td>
+<td align="right">283</td>
 <td><a href="https://github.com/SyliDigit"><img src="https://avatars.githubusercontent.com/u/262445812?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SyliDigit"><b>SyliDigit</b></a><br><sub>&#64;SyliDigit</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">281</td>
+<td align="right">284</td>
 <td><a href="https://github.com/AbdallahDjikine"><img src="https://avatars.githubusercontent.com/u/186847900?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AbdallahDjikine"><b>Abdallah Djikine</b></a><br><sub>&#64;AbdallahDjikine</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinée/Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">282</td>
+<td align="right">285</td>
 <td><a href="https://github.com/abdul-kargbo"><img src="https://avatars.githubusercontent.com/u/310444044?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdul-kargbo"><b>Abdul Kargbo</b></a><br><sub>&#64;abdul-kargbo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">283</td>
+<td align="right">286</td>
 <td><a href="https://github.com/aichfof488-ctrl"><img src="https://avatars.githubusercontent.com/u/265218133?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aichfof488-ctrl"><b>Aicha Fofana</b></a><br><sub>&#64;aichfof488-ctrl</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">284</td>
+<td align="right">287</td>
 <td><a href="https://github.com/aiilasJs"><img src="https://avatars.githubusercontent.com/u/126424712?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aiilasJs"><b>Salia Camara</b></a><br><sub>&#64;aiilasJs</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">285</td>
+<td align="right">288</td>
 <td><a href="https://github.com/amadouboss845-stack"><img src="https://avatars.githubusercontent.com/u/252266112?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amadouboss845-stack"><b>Amadou diallo</b></a><br><sub>&#64;amadouboss845-stack</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">286</td>
+<td align="right">289</td>
 <td><a href="https://github.com/bangalyabubakarsoware-arch"><img src="https://avatars.githubusercontent.com/u/258611991?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bangalyabubakarsoware-arch"><b>Soware Bangaly Abubakar</b></a><br><sub>&#64;bangalyabubakarsoware-arch</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">287</td>
+<td align="right">290</td>
 <td><a href="https://github.com/baryalfaoumar-ai"><img src="https://avatars.githubusercontent.com/u/243099143?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/baryalfaoumar-ai"><b>ALPHA OUMAR BARRY</b></a><br><sub>&#64;baryalfaoumar-ai</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Conakry, République de Guinée</sub></td>
 </tr>
 <tr>
-<td align="right">288</td>
+<td align="right">291</td>
 <td><a href="https://github.com/Cheick-Ahmed-CONDE"><img src="https://avatars.githubusercontent.com/u/134893870?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Cheick-Ahmed-CONDE"><b>Cheick Ahmed CONDE</b></a><br><sub>&#64;Cheick-Ahmed-CONDE</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinée, Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">289</td>
+<td align="right">292</td>
 <td><a href="https://github.com/cheickdioubate2-svg"><img src="https://avatars.githubusercontent.com/u/335161066?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cheickdioubate2-svg"><b>Dioubate Cheick</b></a><br><sub>&#64;cheickdioubate2-svg</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Conakry, Guinée</sub></td>
 </tr>
 <tr>
-<td align="right">290</td>
+<td align="right">293</td>
 <td><a href="https://github.com/chimere-png"><img src="https://avatars.githubusercontent.com/u/189909592?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chimere-png"><b>CHIREAU</b></a><br><sub>&#64;chimere-png</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>GUINEA</sub></td>
 </tr>
 <tr>
-<td align="right">291</td>
+<td align="right">294</td>
 <td><a href="https://github.com/conslylucas"><img src="https://avatars.githubusercontent.com/u/91809807?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/conslylucas"><b>Consly</b></a><br><sub>&#64;conslylucas</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Tabubil, western province.papua New Guinea.</sub></td>
 </tr>
 <tr>
-<td align="right">292</td>
+<td align="right">295</td>
 <td><a href="https://github.com/Delly43"><img src="https://avatars.githubusercontent.com/u/61265791?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Delly43"><b>Johnson Delly Enoch</b></a><br><sub>&#64;Delly43</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Port Moresby Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">293</td>
+<td align="right">296</td>
 <td><a href="https://github.com/deltamaich-Cyber"><img src="https://avatars.githubusercontent.com/u/291171046?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/deltamaich-Cyber"><b>Dee</b></a><br><sub>&#64;deltamaich-Cyber</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Papau New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">294</td>
+<td align="right">297</td>
 <td><a href="https://github.com/DesalegnTesfaBedasa"><img src="https://avatars.githubusercontent.com/u/357991110?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DesalegnTesfaBedasa"><b>GENIUS+ ONLINE TUTOR</b></a><br><sub>&#64;DesalegnTesfaBedasa</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Etiopia and Equatorial Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">295</td>
+<td align="right">298</td>
 <td><a href="https://github.com/directorsspace-blip"><img src="https://avatars.githubusercontent.com/u/266291659?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/directorsspace-blip"><b>SPACE-DIRECTOR&#39;S</b></a><br><sub>&#64;directorsspace-blip</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">296</td>
+<td align="right">299</td>
 <td><a href="https://github.com/elhadjalioud9-gif"><img src="https://avatars.githubusercontent.com/u/305410518?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elhadjalioud9-gif"><b>Elhadj Aliou Diallo</b></a><br><sub>&#64;elhadjalioud9-gif</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">297</td>
+<td align="right">300</td>
 <td><a href="https://github.com/Fabiankipma"><img src="https://avatars.githubusercontent.com/u/213281691?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Fabiankipma"><b>Fabian Kipma</b></a><br><sub>&#64;Fabiankipma</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Papu New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">298</td>
+<td align="right">301</td>
+<td><a href="https://github.com/georgetokau"><img src="https://avatars.githubusercontent.com/u/28820246?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/georgetokau"><b>George TOKAU</b></a><br><sub>&#64;georgetokau</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Lae, Morobe Province PAPUA NEW GUINEA</sub></td>
+</tr>
+<tr>
+<td align="right">302</td>
 <td><a href="https://github.com/GitHubeUser"><img src="https://avatars.githubusercontent.com/u/92089002?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GitHubeUser"><b>BAH Ibrahima Zakariaou</b></a><br><sub>&#64;GitHubeUser</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">299</td>
+<td align="right">303</td>
 <td><a href="https://github.com/Goomfex"><img src="https://avatars.githubusercontent.com/u/130564138?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Goomfex"><b>Félix Gonomy</b></a><br><sub>&#64;Goomfex</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">300</td>
+<td align="right">304</td>
 <td><a href="https://github.com/juliennetoure2004-ops"><img src="https://avatars.githubusercontent.com/u/233572309?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/juliennetoure2004-ops"><b>Julienne224</b></a><br><sub>&#64;juliennetoure2004-ops</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">301</td>
+<td align="right">305</td>
 <td><a href="https://github.com/layebangalykaba2004-lgtm"><img src="https://avatars.githubusercontent.com/u/256903147?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/layebangalykaba2004-lgtm"><b>Laye Bangaly KABA</b></a><br><sub>&#64;layebangalykaba2004-lgtm</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nongo,Conakry,Guinée</sub></td>
 </tr>
 <tr>
-<td align="right">302</td>
+<td align="right">306</td>
 <td><a href="https://github.com/MACCLIENT321"><img src="https://avatars.githubusercontent.com/u/229659295?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MACCLIENT321"><b>Mac Auguste Camara</b></a><br><sub>&#64;MACCLIENT321</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinea Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">303</td>
+<td align="right">307</td>
 <td><a href="https://github.com/maisoncamara"><img src="https://avatars.githubusercontent.com/u/218966342?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maisoncamara"><b>Maison Camara</b></a><br><sub>&#64;maisoncamara</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">304</td>
+<td align="right">308</td>
 <td><a href="https://github.com/mamadouphairaissow224-png"><img src="https://avatars.githubusercontent.com/u/230923378?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mamadouphairaissow224-png"><b>Sow</b></a><br><sub>&#64;mamadouphairaissow224-png</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">305</td>
+<td align="right">309</td>
 <td><a href="https://github.com/Mariame657"><img src="https://avatars.githubusercontent.com/u/174141108?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mariame657"><b>Mariame</b></a><br><sub>&#64;Mariame657</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">306</td>
+<td align="right">310</td>
 <td><a href="https://github.com/md0883626-sudo"><img src="https://avatars.githubusercontent.com/u/330873987?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/md0883626-sudo"><b>ETS H.T.S</b></a><br><sub>&#64;md0883626-sudo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Matam, Route du Niger, Etage Dalaba, Conakry, G…</sub></td>
 </tr>
 <tr>
-<td align="right">307</td>
+<td align="right">311</td>
 <td><a href="https://github.com/MMF290"><img src="https://avatars.githubusercontent.com/u/216975195?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MMF290"><b>Morizio Feugas</b></a><br><sub>&#64;MMF290</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Conakry, Guinée</sub></td>
 </tr>
 <tr>
-<td align="right">308</td>
+<td align="right">312</td>
 <td><a href="https://github.com/mousbyenaction-star"><img src="https://avatars.githubusercontent.com/u/242204917?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mousbyenaction-star"><b>Moussa</b></a><br><sub>&#64;mousbyenaction-star</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">309</td>
+<td align="right">313</td>
 <td><a href="https://github.com/moussandaw"><img src="https://avatars.githubusercontent.com/u/146111508?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/moussandaw"><b>moussandaw</b></a><br><sub>&#64;moussandaw</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">310</td>
+<td align="right">314</td>
 <td><a href="https://github.com/MSamirDiallo"><img src="https://avatars.githubusercontent.com/u/122014202?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MSamirDiallo"><b>DIALLO Thierno Amadou</b></a><br><sub>&#64;MSamirDiallo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">311</td>
+<td align="right">315</td>
 <td><a href="https://github.com/OziasIsMe"><img src="https://avatars.githubusercontent.com/u/145219215?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OziasIsMe"><b>Ozias</b></a><br><sub>&#64;OziasIsMe</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">312</td>
+<td align="right">316</td>
 <td><a href="https://github.com/QAM2022"><img src="https://avatars.githubusercontent.com/u/97669044?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/QAM2022"><b>Qam Token</b></a><br><sub>&#64;QAM2022</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">313</td>
+<td align="right">317</td>
 <td><a href="https://github.com/rabbit-nextjs-codev3"><img src="https://avatars.githubusercontent.com/u/277021606?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rabbit-nextjs-codev3"><b>Code&#95;NextJS&#95;Rabbit</b></a><br><sub>&#64;rabbit-nextjs-codev3</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinea-Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">314</td>
+<td align="right">318</td>
 <td><a href="https://github.com/Ralph197-hub"><img src="https://avatars.githubusercontent.com/u/185059583?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ralph197-hub"><b>Alpha&#95;C28</b></a><br><sub>&#64;Ralph197-hub</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>conakry</sub></td>
 </tr>
 <tr>
-<td align="right">315</td>
+<td align="right">319</td>
 <td><a href="https://github.com/samuel224-dev"><img src="https://avatars.githubusercontent.com/u/264172720?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/samuel224-dev"><b>Samuel destin</b></a><br><sub>&#64;samuel224-dev</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinée, Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">316</td>
+<td align="right">320</td>
 <td><a href="https://github.com/Smnils"><img src="https://avatars.githubusercontent.com/u/52842326?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Smnils"><b>Hakim Konaté</b></a><br><sub>&#64;Smnils</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">317</td>
+<td align="right">321</td>
 <td><a href="https://github.com/solowsua-png"><img src="https://avatars.githubusercontent.com/u/225175354?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/solowsua-png"><b>Solomon Wesley Sua</b></a><br><sub>&#64;solowsua-png</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Port Moresby. Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">318</td>
+<td align="right">322</td>
 <td><a href="https://github.com/thu78197"><img src="https://avatars.githubusercontent.com/u/302268674?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thu78197"><b>Emilio</b></a><br><sub>&#64;thu78197</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Vieja Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">319</td>
+<td align="right">323</td>
 <td><a href="https://github.com/alhassane123"><img src="https://avatars.githubusercontent.com/u/148012947?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alhassane123"><b>Alhassane</b></a><br><sub>&#64;alhassane123</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Guinea,Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">320</td>
+<td align="right">324</td>
 <td><a href="https://github.com/alphatech03"><img src="https://avatars.githubusercontent.com/u/158237272?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alphatech03"><b>Alpha Boubacar Diaby</b></a><br><sub>&#64;alphatech03</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">321</td>
+<td align="right">325</td>
 <td><a href="https://github.com/Ansumana123"><img src="https://avatars.githubusercontent.com/u/185911728?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ansumana123"><b>Ansumana Kamara</b></a><br><sub>&#64;Ansumana123</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">322</td>
+<td align="right">326</td>
+<td><a href="https://github.com/DEEZAINER"><img src="https://avatars.githubusercontent.com/u/42755169?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DEEZAINER"><b>Desmond Kipan</b></a><br><sub>&#64;DEEZAINER</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Port Moresby Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">327</td>
 <td><a href="https://github.com/dkjalindu-prog"><img src="https://avatars.githubusercontent.com/u/230053916?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dkjalindu-prog"><b>JALINDU IT SERVICE</b></a><br><sub>&#64;dkjalindu-prog</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Goroka Papua New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">323</td>
+<td align="right">328</td>
 <td><a href="https://github.com/Glevwal24"><img src="https://avatars.githubusercontent.com/u/71131367?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Glevwal24"><b>Le vieux Gaston Loua</b></a><br><sub>&#64;Glevwal24</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">324</td>
+<td align="right">329</td>
 <td><a href="https://github.com/h5y8gpdk4r-coder"><img src="https://avatars.githubusercontent.com/u/251967544?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/h5y8gpdk4r-coder"><b>Raymond Rarapi</b></a><br><sub>&#64;h5y8gpdk4r-coder</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Port Moresby the capital city of Papua New Guin…</sub></td>
 </tr>
 <tr>
-<td align="right">325</td>
+<td align="right">330</td>
 <td><a href="https://github.com/horebarema12"><img src="https://avatars.githubusercontent.com/u/132466017?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/horebarema12"><b>barema</b></a><br><sub>&#64;horebarema12</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>guinea</sub></td>
 </tr>
 <tr>
-<td align="right">326</td>
+<td align="right">331</td>
+<td><a href="https://github.com/jackkarus"><img src="https://avatars.githubusercontent.com/u/177387700?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jackkarus"><b>Jack Karus</b></a><br><sub>&#64;jackkarus</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Lae 411, Morobe Province Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">332</td>
 <td><a href="https://github.com/kamein-gn"><img src="https://avatars.githubusercontent.com/u/355461018?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kamein-gn"><b>Kamein</b></a><br><sub>&#64;kamein-gn</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Guinea, Conakry</sub></td>
 </tr>
 <tr>
-<td align="right">327</td>
+<td align="right">333</td>
 <td><a href="https://github.com/kerssus"><img src="https://avatars.githubusercontent.com/u/266854577?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kerssus"><b>camara kerfala marie</b></a><br><sub>&#64;kerssus</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">328</td>
+<td align="right">334</td>
 <td><a href="https://github.com/lamah14"><img src="https://avatars.githubusercontent.com/u/172501057?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lamah14"><b>Allip</b></a><br><sub>&#64;lamah14</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Conakry, Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">329</td>
+<td align="right">335</td>
 <td><a href="https://github.com/magentamonkeyro"><img src="https://avatars.githubusercontent.com/u/8160015?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/magentamonkeyro"><b>magentamonkeyro</b></a><br><sub>&#64;magentamonkeyro</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Papa New Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">330</td>
+<td align="right">336</td>
 <td><a href="https://github.com/MAIIBYANS"><img src="https://avatars.githubusercontent.com/u/57483677?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MAIIBYANS"><b>MrYans</b></a><br><sub>&#64;MAIIBYANS</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">331</td>
+<td align="right">337</td>
 <td><a href="https://github.com/muc409w61ln0w"><img src="https://avatars.githubusercontent.com/u/321606885?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/muc409w61ln0w"><b>John Vaughn</b></a><br><sub>&#64;muc409w61ln0w</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Port Jeanetteland, Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">332</td>
+<td align="right">338</td>
 <td><a href="https://github.com/NowaFelix"><img src="https://avatars.githubusercontent.com/u/93715025?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NowaFelix"><b>Felix Nnoowa</b></a><br><sub>&#64;NowaFelix</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">333</td>
+<td align="right">339</td>
 <td><a href="https://github.com/penielvision"><img src="https://avatars.githubusercontent.com/u/86705723?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/penielvision"><b>penielvision</b></a><br><sub>&#64;penielvision</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">334</td>
+<td align="right">340</td>
+<td><a href="https://github.com/RiskyDiesel"><img src="https://avatars.githubusercontent.com/u/97064231?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RiskyDiesel"><b>RiskyDiesel</b></a><br><sub>&#64;RiskyDiesel</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Port Moresby Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">341</td>
 <td><a href="https://github.com/SlayerAlpha"><img src="https://avatars.githubusercontent.com/u/276092277?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SlayerAlpha"><b>SlayerAlpha</b></a><br><sub>&#64;SlayerAlpha</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">335</td>
+<td align="right">342</td>
 <td><a href="https://github.com/smaneba"><img src="https://avatars.githubusercontent.com/u/222785692?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/smaneba"><b>smanconde</b></a><br><sub>&#64;smaneba</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Conakry, Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">336</td>
+<td align="right">343</td>
 <td><a href="https://github.com/SyliDev"><img src="https://avatars.githubusercontent.com/u/100707358?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SyliDev"><b>SyliDev</b></a><br><sub>&#64;SyliDev</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">337</td>
+<td align="right">344</td>
 <td><a href="https://github.com/ThePapeee"><img src="https://avatars.githubusercontent.com/u/199485469?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ThePapeee"><b>YaOriginalLife</b></a><br><sub>&#64;ThePapeee</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">338</td>
+<td align="right">345</td>
 <td><a href="https://github.com/TheSpinXD"><img src="https://avatars.githubusercontent.com/u/109793070?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TheSpinXD"><b>Ferdi</b></a><br><sub>&#64;TheSpinXD</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Guinea</sub></td>
 </tr>
 <tr>
-<td align="right">339</td>
+<td align="right">346</td>
+<td><a href="https://github.com/YALOjames"><img src="https://avatars.githubusercontent.com/u/231459983?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YALOjames"><b>James Yalo</b></a><br><sub>&#64;YALOjames</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Australia &amp; Papua New Guinea</sub></td>
+</tr>
+<tr>
+<td align="right">347</td>
 <td><a href="https://github.com/yuhtechmultiservices-rgb"><img src="https://avatars.githubusercontent.com/u/253055868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yuhtechmultiservices-rgb"><b>YUHTECH-MULTISERVICES</b></a><br><sub>&#64;yuhtechmultiservices-rgb</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -2402,7 +2458,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 339 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 347 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 76 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

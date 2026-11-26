@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **17** | 03 Nov 2026 | <a href="../data/EH.json">JSON</a> |
+| 🟠 Stale | **16** | 03 Nov 2026 | <a href="../data/EH.json">JSON</a> |
 
-> **Not yet re-verified.** 17 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 16 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -25,118 +25,111 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><img src="https://github.com/DariusTheGreate.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DariusTheGreate/engine"><b>DariusTheGreate/engine</b></a></td>
-<td align="right"><b>2</b></td>
-<td align="right">0</td>
-<td>C++</td>
-</tr>
-<tr>
-<td align="right">2</td>
 <td><img src="https://github.com/argueUndefeatable29.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/argueUndefeatable29/fsnotify"><b>argueUndefeatable29/fsnotify</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">2</td>
 <td><img src="https://github.com/Brahim-Ezzahraoui.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Brahim-Ezzahraoui/Java-Lp2I-SMI"><b>Brahim-Ezzahraoui/Java-Lp2I-SMI</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">3</td>
 <td><img src="https://github.com/Ithavollr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ithavollr/PacMan"><b>Ithavollr/PacMan</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>mcfunction</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">4</td>
 <td><img src="https://github.com/abbouh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abbouh/testing"><b>abbouh/testing</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">5</td>
 <td><img src="https://github.com/abcdigital-cyou.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abcdigital-cyou/abcdigital-cyou.github.io"><b>abcdigital-cyou/abcdigital-cyou.github.io</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>HTML</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">6</td>
 <td><img src="https://github.com/Daturum.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Daturum/cookbook-swap_file"><b>Daturum/cookbook-swap&#95;file</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>Ruby</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">7</td>
 <td><img src="https://github.com/devprivatlie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/devprivatlie/devprivatlie"><b>devprivatlie/devprivatlie</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">8</td>
 <td><img src="https://github.com/Enceunc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Enceunc/Fortnight"><b>Enceunc/Fortnight</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">9</td>
 <td><img src="https://github.com/F01C.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/F01C/FORUM"><b>F01C/FORUM</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">10</td>
 <td><img src="https://github.com/ItsOnlySkilz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ItsOnlySkilz/reconnecting-websocket"><b>ItsOnlySkilz/reconnecting-websocket</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">11</td>
 <td><img src="https://github.com/mBghost26.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mBghost26/mBghost26"><b>mBghost26/mBghost26</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">12</td>
 <td><img src="https://github.com/NajemeZaidan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NajemeZaidan/NajemeZaidan"><b>NajemeZaidan/NajemeZaidan</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">13</td>
 <td><img src="https://github.com/ob-aion.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ob-aion/pruner"><b>ob-aion/pruner</b></a> <sub>archived</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">14</td>
 <td><img src="https://github.com/robert8358.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/robert8358/potential-octo-meme"><b>robert8358/potential-octo-meme</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">15</td>
 <td><img src="https://github.com/saflyy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/saflyy/w-2"><b>saflyy/w-2</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">16</td>
 <td><img src="https://github.com/suzuya1331.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/suzuya1331/next-netlify-starter"><b>suzuya1331/next-netlify-starter</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -150,8 +143,8 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 0 stars; 17 attributed candidates are tracked.
-- 17 entries were carried over from the previous dataset and are pending revalidation.
+- **Cutoff:** the last listed repository has 0 stars; 16 attributed candidates are tracked.
+- 16 entries were carried over from the previous dataset and are pending revalidation.
 - 20 multi-repository owners are queued for expansion.
 - **Location discovery:** term 6 of 34 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

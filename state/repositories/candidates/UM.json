@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"UM","name":"U.S. Outlying Islands","slug":"u-s-outlying-islands"},
-"count": 6,
+"count": 5,
 "repositories": [
-  {"name":"mijail73/Introduccion-al-Desarrollo-de-Programas-con-Java","stars":2,"forks":0,"language":"Java","archived":false,"createdAt":"2017-04-16T18:18:46Z","pushedAt":"2017-11-28T05:35:55Z","owner":{"login":"mijail73","type":"User","name":"Mijail","location":"Wake Island"},"attribution":{"code":"UM","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-27T22:21:43.553Z","id":"legacy:mijail73/introduccion-al-desarrollo-de-programas-con-java","legacy":true},
   {"name":"OgJAkFy8/Mad-Libs","stars":1,"forks":1,"language":"Python","archived":false,"createdAt":"2017-09-15T11:13:33Z","pushedAt":"2025-06-20T11:02:27Z","owner":{"login":"OgJAkFy8","type":"User","name":"Erik JA","location":"Navassa Island"},"attribution":{"code":"UM","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-27T22:21:43.553Z","id":"legacy:ogjakfy8/mad-libs","legacy":true},
   {"name":"RanchoSM/CTSDirectlinkLibrary","stars":1,"forks":0,"archived":false,"createdAt":"2024-11-17T15:59:51Z","pushedAt":"2025-06-24T20:43:14Z","owner":{"login":"RanchoSM","type":"User","name":"Frederic Avila","location":"U.S. Outlying Islands"},"attribution":{"code":"UM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-27T22:21:43.553Z","id":"legacy:ranchosm/ctsdirectlinklibrary","legacy":true},
   {"name":"Doge-Linux/Doge-Logos","stars":0,"forks":0,"archived":false,"createdAt":"2021-08-18T09:27:05Z","pushedAt":"2021-08-18T09:34:29Z","owner":{"login":"Doge-Linux","type":"Organization","name":"Doge Linux","location":"美国本土外小岛屿"},"attribution":{"code":"UM","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-27T22:21:43.553Z","id":"legacy:doge-linux/doge-logos","legacy":true},

@@ -115,7 +115,7 @@
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/nemanjarogic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nemanjarogic/DesignPatternsLibrary"><b>nemanjarogic/DesignPatternsLibrary</b></a><br><sub>A comprehensive design patterns library implemented in C#, which covers various design patterns from the most commonly…</sub></td>
-<td align="right"><b>2,141</b></td>
+<td align="right"><b>2,142</b></td>
 <td align="right">220</td>
 <td>C#</td>
 </tr>
@@ -129,8 +129,8 @@
 <tr>
 <td align="right">16</td>
 <td><img src="https://github.com/nklmilojevic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nklmilojevic/sofka"><b>nklmilojevic/sofka</b></a><br><sub>A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up.</sub></td>
-<td align="right"><b>1,894</b></td>
-<td align="right">86</td>
+<td align="right"><b>1,915</b></td>
+<td align="right">87</td>
 <td>Rust</td>
 </tr>
 <tr>
@@ -150,29 +150,29 @@
 <tr>
 <td align="right">19</td>
 <td><img src="https://github.com/morhetz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/morhetz/gruvbox-contrib"><b>morhetz/gruvbox-contrib</b></a><br><sub>Ports of the gruvbox colorscheme</sub></td>
-<td align="right"><b>1,780</b></td>
+<td align="right"><b>1,779</b></td>
 <td align="right">349</td>
 <td>SCSS</td>
 </tr>
 <tr>
 <td align="right">20</td>
 <td><img src="https://github.com/gen2brain.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gen2brain/beeep"><b>gen2brain/beeep</b></a><br><sub>Go cross-platform library for sending desktop notifications, alerts and beeps</sub></td>
-<td align="right"><b>1,774</b></td>
+<td align="right"><b>1,777</b></td>
 <td align="right">104</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/kristijanhusak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kristijanhusak/laravel-form-builder"><b>kristijanhusak/laravel-form-builder</b></a><br><sub>Laravel Form builder for version 5+!</sub></td>
-<td align="right"><b>1,712</b></td>
+<td align="right"><b>1,711</b></td>
 <td align="right">305</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">22</td>
 <td><img src="https://github.com/wiresock.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wiresock/proxifyre"><b>wiresock/proxifyre</b></a><br><sub>ProxiFyre: A Windows SOCKS5 proxifier leveraging NDISAPI to transparently route TCP and UDP traffic on a per-app basis.</sub></td>
-<td align="right"><b>1,662</b></td>
-<td align="right">133</td>
+<td align="right"><b>1,680</b></td>
+<td align="right">134</td>
 <td>C++</td>
 </tr>
 <tr>
@@ -185,7 +185,7 @@
 <tr>
 <td align="right">24</td>
 <td><img src="https://github.com/chibisov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chibisov/drf-extensions"><b>chibisov/drf-extensions</b></a><br><sub>DRF-extensions is a collection of custom extensions for Django REST Framework</sub></td>
-<td align="right"><b>1,548</b></td>
+<td align="right"><b>1,549</b></td>
 <td align="right">210</td>
 <td>Python</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 464 stars; 106 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 464 stars; 117 attributed candidates are tracked.
 - 1 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 148 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

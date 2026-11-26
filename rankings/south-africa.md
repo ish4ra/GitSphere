@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **71** | 23 Nov 2026 | <a href="../data/ZA.json">JSON</a> |
+| 🟡 Provisional | **80** | 23 Nov 2026 | <a href="../data/ZA.json">JSON</a> |
 
 </div>
 
@@ -123,20 +123,20 @@
 <td align="right">15</td>
 <td><img src="https://github.com/alexmojaki.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexmojaki/birdseye"><b>alexmojaki/birdseye</b></a><br><sub>Graphical Python debugger which lets you easily view the values of all evaluated expressions</sub></td>
 <td align="right"><b>1,773</b></td>
-<td align="right">80</td>
+<td align="right">79</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">16</td>
 <td><img src="https://github.com/rossmacarthur.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rossmacarthur/sheldon"><b>rossmacarthur/sheldon</b></a><br><sub>:bowtie: Fast, configurable, shell plugin manager</sub></td>
-<td align="right"><b>1,602</b></td>
+<td align="right"><b>1,605</b></td>
 <td align="right">26</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/alexmojaki.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexmojaki/futurecoder"><b>alexmojaki/futurecoder</b></a><br><sub>100% free and interactive Python course for beginners</sub></td>
-<td align="right"><b>1,558</b></td>
+<td align="right"><b>1,559</b></td>
 <td align="right">190</td>
 <td>Python</td>
 </tr>
@@ -518,6 +518,69 @@
 <td align="right">198</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">72</td>
+<td><img src="https://github.com/dsfsi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dsfsi/textaugment"><b>dsfsi/textaugment</b></a><br><sub>TextAugment: Text Augmentation Library</sub></td>
+<td align="right"><b>447</b></td>
+<td align="right">61</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><img src="https://github.com/MWR-CyberSec.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MWR-CyberSec/PXEThief"><b>MWR-CyberSec/PXEThief</b></a><br><sub>PXEThief is a set of tooling that can extract passwords from the Operating System Deployment functionality in Microsoft…</sub></td>
+<td align="right"><b>439</b></td>
+<td align="right">72</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">74</td>
+<td><img src="https://github.com/ricknout.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ricknout/android-mdc-theming"><b>ricknout/android-mdc-theming</b></a><br><sub>Sample code used for a series of Medium posts on Material Components for Android</sub></td>
+<td align="right"><b>433</b></td>
+<td align="right">80</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/olivernn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/olivernn/augment.js"><b>olivernn/augment.js</b></a><br><sub>Modern JavaScript in your IE</sub></td>
+<td align="right"><b>431</b></td>
+<td align="right">30</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/alexmojaki.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexmojaki/sorcery"><b>alexmojaki/sorcery</b></a><br><sub>Dark magic delights in Python</sub></td>
+<td align="right"><b>429</b></td>
+<td align="right">22</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/gregzaal.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gregzaal/Gaffer"><b>gregzaal/Gaffer</b></a><br><sub>A light-manager add-on for Blender</sub></td>
+<td align="right"><b>427</b></td>
+<td align="right">32</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/leonjza.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/leonjza/awesome-nmap-grep"><b>leonjza/awesome-nmap-grep</b></a><br><sub>Awesome Nmap Grep</sub></td>
+<td align="right"><b>426</b></td>
+<td align="right">58</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/plyoung.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/plyoung/UIElements"><b>plyoung/UIElements</b></a><br><sub>Various scripts related to Unity UI Toolkit (UIElements).</sub></td>
+<td align="right"><b>413</b></td>
+<td align="right">37</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/FilledStacks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FilledStacks/boxtout"><b>FilledStacks/boxtout</b></a><br><sub>An open source food delivery product and service that will be developed on the FilledStacks YouTube channel</sub></td>
+<td align="right"><b>411</b></td>
+<td align="right">153</td>
+<td>Dart</td>
+</tr>
 </tbody>
 </table>
 
@@ -526,8 +589,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 455 stars; 71 attributed candidates are tracked.
-- 116 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 411 stars; 80 attributed candidates are tracked.
+- 114 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 144 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

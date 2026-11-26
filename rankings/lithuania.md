@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **60** | 23 Nov 2026 | <a href="../data/LT.json">JSON</a> |
+| 🟡 Provisional | **63** | 23 Nov 2026 | <a href="../data/LT.json">JSON</a> |
 
 </div>
 
@@ -108,29 +108,29 @@
 <tr>
 <td align="right">13</td>
 <td><img src="https://github.com/aras-p.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aras-p/glsl-optimizer"><b>aras-p/glsl-optimizer</b></a><br><sub>GLSL optimizer based on Mesa&#39;s GLSL compiler. Originally developed for Unity purposes.</sub></td>
-<td align="right"><b>1,805</b></td>
-<td align="right">434</td>
+<td align="right"><b>1,806</b></td>
+<td align="right">433</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/justinas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/justinas/nosurf"><b>justinas/nosurf</b></a><br><sub>CSRF protection middleware for Go.</sub></td>
 <td align="right"><b>1,757</b></td>
-<td align="right">131</td>
+<td align="right">132</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/rkkr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rkkr/simple-keyboard"><b>rkkr/simple-keyboard</b></a></td>
-<td align="right"><b>1,615</b></td>
-<td align="right">360</td>
+<td align="right"><b>1,616</b></td>
+<td align="right">362</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">16</td>
 <td><img src="https://github.com/piratuks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/piratuks/invoice-builder"><b>piratuks/invoice-builder</b></a><br><sub>Invoice and quotation builder desktop app with PDF export, designed for small businesses and freelancers. Create, manag…</sub></td>
-<td align="right"><b>1,579</b></td>
-<td align="right">248</td>
+<td align="right"><b>1,597</b></td>
+<td align="right">250</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -441,6 +441,27 @@
 <td align="right">56</td>
 <td>PHP</td>
 </tr>
+<tr>
+<td align="right">61</td>
+<td><img src="https://github.com/erkexzcx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/erkexzcx/stoppropaganda"><b>erkexzcx/stoppropaganda</b></a> <sub>archived</sub><br><sub>A special DOS application to stop pro-Russian aggression websites. Support Ukraine!</sub></td>
+<td align="right"><b>441</b></td>
+<td align="right">64</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><img src="https://github.com/nicegram.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nicegram/Nicegram-Android"><b>nicegram/Nicegram-Android</b></a><br><sub>Nicegram for Android — an independent Telegram client with Nicegram-specific integrations.</sub></td>
+<td align="right"><b>440</b></td>
+<td align="right">96</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/MariusAlch.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MariusAlch/json-to-ts"><b>MariusAlch/json-to-ts</b></a><br><sub>Convert jsons to typescript interfaces</sub></td>
+<td align="right"><b>429</b></td>
+<td align="right">62</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -449,8 +470,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 451 stars; 60 attributed candidates are tracked.
-- 107 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 429 stars; 63 attributed candidates are tracked.
+- 105 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 135 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

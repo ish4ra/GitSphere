@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **27** | 23 Nov 2026 | <a href="../data/AQ.json">JSON</a> |
+| 🟡 Provisional | **33** | 24 Nov 2026 | <a href="../data/AQ.json">JSON</a> |
 
 </div>
 
@@ -88,7 +88,7 @@
 <td align="right">10</td>
 <td><img src="https://github.com/bestruirui.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bestruirui/BestSub"><b>bestruirui/BestSub</b></a><br><sub>Best Sub, Best for Your Net</sub></td>
 <td align="right"><b>2,137</b></td>
-<td align="right">1,425</td>
+<td align="right">1,424</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -101,7 +101,7 @@
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/nvk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nvk/llm-wiki"><b>nvk/llm-wiki</b></a><br><sub>LLM-compiled knowledge bases for any AI agent. Parallel multi-agent research, thesis-driven investigation, source inges…</sub></td>
-<td align="right"><b>1,565</b></td>
+<td align="right"><b>1,572</b></td>
 <td align="right">145</td>
 <td>Python</td>
 </tr>
@@ -210,6 +210,48 @@
 <td align="right">159</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">28</td>
+<td><img src="https://github.com/home-operations.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/home-operations/containers"><b>home-operations/containers</b></a><br><sub>Community project for building application containers</sub></td>
+<td align="right"><b>445</b></td>
+<td align="right">55</td>
+<td>Dockerfile</td>
+</tr>
+<tr>
+<td align="right">29</td>
+<td><img src="https://github.com/zirconium-dev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zirconium-dev/zirconium"><b>zirconium-dev/zirconium</b></a><br><sub>Opinionated Niri bootc image</sub></td>
+<td align="right"><b>439</b></td>
+<td align="right">51</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td><img src="https://github.com/DawVert.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DawVert/DawVert"><b>DawVert/DawVert</b></a><br><sub>DawVert - The DAW ConVERTer</sub></td>
+<td align="right"><b>439</b></td>
+<td align="right">25</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">31</td>
+<td><img src="https://github.com/state-machines.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/state-machines/state_machines-activerecord"><b>state-machines/state&#95;machines-activerecord</b></a><br><sub>StateMachines Active Record Integration</sub></td>
+<td align="right"><b>435</b></td>
+<td align="right">84</td>
+<td>Ruby</td>
+</tr>
+<tr>
+<td align="right">32</td>
+<td><img src="https://github.com/paulaime.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/paulaime/awesome-privacy"><b>paulaime/awesome-privacy</b></a><br><sub>A curated list of tools and services that respect your privacy.</sub></td>
+<td align="right"><b>417</b></td>
+<td align="right">80</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">33</td>
+<td><img src="https://github.com/tfdsoft.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tfdsoft/famidash"><b>tfdsoft/famidash</b></a><br><sub>Geometry Dash for the Nintendo Entertainment System</sub></td>
+<td align="right"><b>409</b></td>
+<td align="right">55</td>
+<td>Assembly</td>
+</tr>
 </tbody>
 </table>
 
@@ -218,8 +260,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 461 stars; 27 attributed candidates are tracked.
-- 45 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 409 stars; 33 attributed candidates are tracked.
+- 36 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 14 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

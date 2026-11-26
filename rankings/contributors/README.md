@@ -18,237 +18,237 @@ Discover GitHub users ranked by public contribution activity.
 
 | Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇦🇫 [Afghanistan](./afghanistan.md) | 🟡 Provisional | 14 | <sub>&#64;khalidafghanmal · 2.8k</sub> | 22 Nov 2026 |
-| 🇦🇽 [Åland Islands](./aland-islands.md) | 🟡 Provisional | 16 | <sub>&#64;mareerray · 1.1k</sub> | 22 Nov 2026 |
-| 🇦🇱 [Albania](./albania.md) | 🟡 Provisional | 17 | <sub>&#64;AnXh3L0 · 660</sub> | 22 Nov 2026 |
-| 🇩🇿 [Algeria](./algeria.md) | 🟡 Provisional | 20 | <sub>&#64;adelpro · 2.5k</sub> | 22 Nov 2026 |
-| 🇦🇸 [American Samoa](./american-samoa.md) | 🟡 Provisional | 9 | <sub>&#64;angelasmilford · 384</sub> | 22 Nov 2026 |
-| 🇦🇩 [Andorra](./andorra.md) | 🟡 Provisional | 16 | <sub>&#64;niwinz · 3.1k</sub> | 22 Nov 2026 |
-| 🇦🇴 [Angola](./angola.md) | 🟡 Provisional | 16 | <sub>&#64;Adyllsxn · 580</sub> | 22 Nov 2026 |
+| 🇦🇫 [Afghanistan](./afghanistan.md) | 🟡 Provisional | 16 | <sub>&#64;khalidafghanmal · 2.8k</sub> | 22 Nov 2026 |
+| 🇦🇽 [Åland Islands](./aland-islands.md) | 🟡 Provisional | 18 | <sub>&#64;mareerray · 1.1k</sub> | 22 Nov 2026 |
+| 🇦🇱 [Albania](./albania.md) | 🟡 Provisional | 18 | <sub>&#64;AnXh3L0 · 660</sub> | 22 Nov 2026 |
+| 🇩🇿 [Algeria](./algeria.md) | 🟡 Provisional | 22 | <sub>&#64;adelpro · 2.5k</sub> | 22 Nov 2026 |
+| 🇦🇸 [American Samoa](./american-samoa.md) | 🟡 Provisional | 10 | <sub>&#64;angelasmilford · 384</sub> | 22 Nov 2026 |
+| 🇦🇩 [Andorra](./andorra.md) | 🟡 Provisional | 18 | <sub>&#64;al-the-bear · 12k</sub> | 22 Nov 2026 |
+| 🇦🇴 [Angola](./angola.md) | 🟡 Provisional | 18 | <sub>&#64;Adyllsxn · 580</sub> | 22 Nov 2026 |
 | 🇦🇮 [Anguilla](./anguilla.md) | 🟡 Provisional | 9 | <sub>&#64;shawnpjennings · 140</sub> | 22 Nov 2026 |
 | 🇦🇶 [Antarctica](./antarctica.md) | 🟡 Provisional | 14 | <sub>&#64;nvk · 1.1k</sub> | 22 Nov 2026 |
-| 🇦🇬 [Antigua &amp; Barbuda](./antigua-barbuda.md) | 🟡 Provisional | 15 | <sub>&#64;FaraPatton · 372</sub> | 22 Nov 2026 |
-| 🇦🇷 [Argentina](./argentina.md) | 🟡 Provisional | 21 | <sub>&#64;sammwyy · 4.0k</sub> | 22 Nov 2026 |
-| 🇦🇲 [Armenia](./armenia.md) | 🟡 Provisional | 22 | <sub>&#64;dannote · 20k</sub> | 22 Nov 2026 |
-| 🇦🇼 [Aruba](./aruba.md) | 🟡 Provisional | 15 | <sub>&#64;willem4130 · 567</sub> | 22 Nov 2026 |
-| 🇦🇺 [Australia](./australia.md) | 🟡 Provisional | 21 | <sub>&#64;mithro · 24k</sub> | 22 Nov 2026 |
-| 🇦🇹 [Austria](./austria.md) | 🟡 Provisional | 21 | <sub>&#64;mitsuhiko · 9.2k</sub> | 22 Nov 2026 |
-| 🇦🇿 [Azerbaijan](./azerbaijan.md) | 🟡 Provisional | 20 | <sub>&#64;martian56 · 10k</sub> | 22 Nov 2026 |
+| 🇦🇬 [Antigua &amp; Barbuda](./antigua-barbuda.md) | 🟡 Provisional | 16 | <sub>&#64;FaraPatton · 372</sub> | 22 Nov 2026 |
+| 🇦🇷 [Argentina](./argentina.md) | 🟡 Provisional | 23 | <sub>&#64;sammwyy · 4.0k</sub> | 22 Nov 2026 |
+| 🇦🇲 [Armenia](./armenia.md) | 🟡 Provisional | 23 | <sub>&#64;dannote · 20k</sub> | 22 Nov 2026 |
+| 🇦🇼 [Aruba](./aruba.md) | 🟡 Provisional | 16 | <sub>&#64;willem4130 · 567</sub> | 22 Nov 2026 |
+| 🇦🇺 [Australia](./australia.md) | 🟡 Provisional | 23 | <sub>&#64;mithro · 24k</sub> | 22 Nov 2026 |
+| 🇦🇹 [Austria](./austria.md) | 🟡 Provisional | 23 | <sub>&#64;mitsuhiko · 9.2k</sub> | 22 Nov 2026 |
+| 🇦🇿 [Azerbaijan](./azerbaijan.md) | 🟡 Provisional | 22 | <sub>&#64;martian56 · 10k</sub> | 22 Nov 2026 |
 
 ### B
 
 | Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇧🇸 [Bahamas](./bahamas.md) | 🟡 Provisional | 15 | <sub>&#64;JayRKyd · 538</sub> | 22 Nov 2026 |
-| 🇧🇭 [Bahrain](./bahrain.md) | 🟡 Provisional | 15 | <sub>&#64;3mm2ry · 241</sub> | 22 Nov 2026 |
-| 🇧🇩 [Bangladesh](./bangladesh.md) | 🟡 Provisional | 18 | <sub>&#64;hasinhayder · 1.3k</sub> | 22 Nov 2026 |
-| 🇧🇧 [Barbados](./barbados.md) | 🟡 Provisional | 17 | <sub>&#64;hammertoe · 486</sub> | 22 Nov 2026 |
+| 🇧🇸 [Bahamas](./bahamas.md) | 🟡 Provisional | 17 | <sub>&#64;JayRKyd · 538</sub> | 22 Nov 2026 |
+| 🇧🇭 [Bahrain](./bahrain.md) | 🟡 Provisional | 17 | <sub>&#64;aldoyh · 1.3k</sub> | 22 Nov 2026 |
+| 🇧🇩 [Bangladesh](./bangladesh.md) | 🟡 Provisional | 20 | <sub>&#64;hasinhayder · 1.3k</sub> | 22 Nov 2026 |
+| 🇧🇧 [Barbados](./barbados.md) | 🟡 Provisional | 19 | <sub>&#64;hammertoe · 486</sub> | 22 Nov 2026 |
 | 🇧🇾 [Belarus](./belarus.md) | 🟡 Provisional | 18 | <sub>&#64;kirich1409 · 3.3k</sub> | 22 Nov 2026 |
-| 🇧🇪 [Belgium](./belgium.md) | 🟡 Provisional | 20 | <sub>&#64;NielsRogge · 14k</sub> | 22 Nov 2026 |
-| 🇧🇿 [Belize](./belize.md) | 🟡 Provisional | 17 | <sub>&#64;andreshungbz · 1.5k</sub> | 22 Nov 2026 |
-| 🇧🇯 [Benin](./benin.md) | 🟡 Provisional | 10 | <sub>&#64;MikeCHOKKI · 678</sub> | 22 Nov 2026 |
-| 🇧🇲 [Bermuda](./bermuda.md) | 🟡 Provisional | 18 | <sub>&#64;DesktopECHO · 1.3k</sub> | 22 Nov 2026 |
-| 🇧🇹 [Bhutan](./bhutan.md) | 🟡 Provisional | 19 | <sub>&#64;Kzoeps · 3.4k</sub> | 22 Nov 2026 |
-| 🇧🇴 [Bolivia](./bolivia.md) | 🟡 Provisional | 19 | <sub>&#64;SergioRibera · 3.7k</sub> | 22 Nov 2026 |
-| 🇧🇦 [Bosnia &amp; Herzegovina](./bosnia-herzegovina.md) | 🟡 Provisional | 14 | <sub>&#64;enisdenjo · 950</sub> | 22 Nov 2026 |
-| 🇧🇼 [Botswana](./botswana.md) | 🟡 Provisional | 15 | <sub>&#64;darula-hpp · 1.1k</sub> | 22 Nov 2026 |
+| 🇧🇪 [Belgium](./belgium.md) | 🟡 Provisional | 22 | <sub>&#64;NielsRogge · 14k</sub> | 22 Nov 2026 |
+| 🇧🇿 [Belize](./belize.md) | 🟡 Provisional | 18 | <sub>&#64;andreshungbz · 1.5k</sub> | 22 Nov 2026 |
+| 🇧🇯 [Benin](./benin.md) | 🟡 Provisional | 11 | <sub>&#64;MikeCHOKKI · 678</sub> | 22 Nov 2026 |
+| 🇧🇲 [Bermuda](./bermuda.md) | 🟡 Provisional | 19 | <sub>&#64;DesktopECHO · 1.3k</sub> | 22 Nov 2026 |
+| 🇧🇹 [Bhutan](./bhutan.md) | 🟡 Provisional | 21 | <sub>&#64;Kzoeps · 3.4k</sub> | 22 Nov 2026 |
+| 🇧🇴 [Bolivia](./bolivia.md) | 🟡 Provisional | 20 | <sub>&#64;SergioRibera · 3.7k</sub> | 22 Nov 2026 |
+| 🇧🇦 [Bosnia &amp; Herzegovina](./bosnia-herzegovina.md) | 🟡 Provisional | 15 | <sub>&#64;xiprox · 1.3k</sub> | 22 Nov 2026 |
+| 🇧🇼 [Botswana](./botswana.md) | 🟡 Provisional | 16 | <sub>&#64;darula-hpp · 1.1k</sub> | 22 Nov 2026 |
 | 🇧🇻 [Bouvet Island](./bouvet-island.md) | 🟡 Provisional | 5 | <sub>&#64;hexahigh · 525</sub> | 22 Nov 2026 |
-| 🇧🇷 [Brazil](./brazil.md) | 🟡 Provisional | 20 | <sub>&#64;ocefpaf · 8.4k</sub> | 22 Nov 2026 |
+| 🇧🇷 [Brazil](./brazil.md) | 🟡 Provisional | 22 | <sub>&#64;ocefpaf · 8.4k</sub> | 22 Nov 2026 |
 | 🇮🇴 [British Indian Ocean Territory](./british-indian-ocean-territory.md) | 🟡 Provisional | 3 | <sub>&#64;LixvYang · 349</sub> | 22 Nov 2026 |
-| 🇻🇬 [British Virgin Islands](./british-virgin-islands.md) | 🟡 Provisional | 12 | <sub>&#64;AI-Isaiah · 4.1k</sub> | 22 Nov 2026 |
-| 🇧🇳 [Brunei](./brunei.md) | 🟡 Provisional | 18 | <sub>&#64;chriswalker-afk · 5.5k</sub> | 22 Nov 2026 |
-| 🇧🇬 [Bulgaria](./bulgaria.md) | 🟡 Provisional | 21 | <sub>&#64;bbatsov · 8.8k</sub> | 22 Nov 2026 |
-| 🇧🇫 [Burkina Faso](./burkina-faso.md) | 🟡 Provisional | 20 | <sub>&#64;Y4NN777 · 3.5k</sub> | 22 Nov 2026 |
-| 🇧🇮 [Burundi](./burundi.md) | 🟡 Provisional | 16 | <sub>&#64;yvartpro · 1.7k</sub> | 22 Nov 2026 |
+| 🇻🇬 [British Virgin Islands](./british-virgin-islands.md) | 🟡 Provisional | 13 | <sub>&#64;AI-Isaiah · 4.1k</sub> | 22 Nov 2026 |
+| 🇧🇳 [Brunei](./brunei.md) | 🟡 Provisional | 19 | <sub>&#64;chriswalker-afk · 5.5k</sub> | 22 Nov 2026 |
+| 🇧🇬 [Bulgaria](./bulgaria.md) | 🟡 Provisional | 22 | <sub>&#64;bbatsov · 8.8k</sub> | 22 Nov 2026 |
+| 🇧🇫 [Burkina Faso](./burkina-faso.md) | 🟡 Provisional | 22 | <sub>&#64;Y4NN777 · 3.5k</sub> | 22 Nov 2026 |
+| 🇧🇮 [Burundi](./burundi.md) | 🟡 Provisional | 17 | <sub>&#64;yvartpro · 1.7k</sub> | 22 Nov 2026 |
 
 ### C
 
 | Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇰🇭 [Cambodia](./cambodia.md) | 🟡 Provisional | 16 | <sub>&#64;socheatsok78 · 2.7k</sub> | 22 Nov 2026 |
-| 🇨🇲 [Cameroon](./cameroon.md) | 🟡 Provisional | 21 | <sub>&#64;chojuninengu · 5.2k</sub> | 22 Nov 2026 |
-| 🇨🇦 [Canada](./canada.md) | 🟡 Provisional | 21 | <sub>&#64;staccDOTsol · 65k</sub> | 22 Nov 2026 |
-| 🇨🇻 [Cape Verde](./cape-verde.md) | 🟡 Provisional | 17 | <sub>&#64;Gonzih · 3.3k</sub> | 22 Nov 2026 |
-| 🇧🇶 [Caribbean Netherlands](./caribbean-netherlands.md) | 🟡 Provisional | 5 | <sub>&#64;debruijn · 190</sub> | 22 Nov 2026 |
-| 🇰🇾 [Cayman Islands](./cayman-islands.md) | 🟡 Provisional | 15 | <sub>&#64;pjdurden · 1.9k</sub> | 22 Nov 2026 |
+| 🇰🇭 [Cambodia](./cambodia.md) | 🟡 Provisional | 18 | <sub>&#64;socheatsok78 · 2.7k</sub> | 22 Nov 2026 |
+| 🇨🇲 [Cameroon](./cameroon.md) | 🟡 Provisional | 23 | <sub>&#64;chojuninengu · 5.2k</sub> | 22 Nov 2026 |
+| 🇨🇦 [Canada](./canada.md) | 🟡 Provisional | 22 | <sub>&#64;staccDOTsol · 65k</sub> | 22 Nov 2026 |
+| 🇨🇻 [Cape Verde](./cape-verde.md) | 🟡 Provisional | 19 | <sub>&#64;Gonzih · 3.3k</sub> | 22 Nov 2026 |
+| 🇧🇶 [Caribbean Netherlands](./caribbean-netherlands.md) | 🟡 Provisional | 6 | <sub>&#64;UncleJ4ck · 199</sub> | 22 Nov 2026 |
+| 🇰🇾 [Cayman Islands](./cayman-islands.md) | 🟡 Provisional | 17 | <sub>&#64;pjdurden · 1.9k</sub> | 22 Nov 2026 |
 | 🇨🇫 [Central African Republic](./central-african-republic.md) | 🟡 Provisional | 7 | <sub>&#64;xusenlin · 585</sub> | 22 Nov 2026 |
 | 🇹🇩 [Chad](./chad.md) | 🟡 Provisional | 12 | <sub>&#64;adoumouangnamouemmanuel · 1.3k</sub> | 22 Nov 2026 |
-| 🇨🇱 [Chile](./chile.md) | 🟡 Provisional | 21 | <sub>&#64;montoyamoraga · 9.5k</sub> | 22 Nov 2026 |
-| 🇨🇳 [China](./china.md) | 🟡 Provisional | 18 | <sub>&#64;felixonmars · 223k</sub> | 22 Nov 2026 |
-| 🇨🇽 [Christmas Island](./christmas-island.md) | 🟡 Provisional | 10 | <sub>&#64;BiteTheDDDDt · 692</sub> | 22 Nov 2026 |
+| 🇨🇱 [Chile](./chile.md) | 🟡 Provisional | 23 | <sub>&#64;montoyamoraga · 9.5k</sub> | 22 Nov 2026 |
+| 🇨🇳 [China](./china.md) | 🟡 Provisional | 19 | <sub>&#64;felixonmars · 223k</sub> | 22 Nov 2026 |
+| 🇨🇽 [Christmas Island](./christmas-island.md) | 🟡 Provisional | 11 | <sub>&#64;BiteTheDDDDt · 692</sub> | 22 Nov 2026 |
 | 🇨🇨 [Cocos (Keeling) Islands](./cocos-keeling-islands.md) | 🟡 Provisional | 1 | <sub>&#64;rohwid · 5</sub> | 22 Nov 2026 |
-| 🇨🇴 [Colombia](./colombia.md) | 🟡 Provisional | 19 | <sub>&#64;goanpeca · 4.9k</sub> | 22 Nov 2026 |
-| 🇰🇲 [Comoros](./comoros.md) | 🟡 Provisional | 10 | <sub>&#64;soirfaneabdallah · 205</sub> | 22 Nov 2026 |
-| 🇨🇰 [Cook Islands](./cook-islands.md) | 🟡 Provisional | 6 | <sub>&#64;cacamelio · 87</sub> | 22 Nov 2026 |
-| 🇨🇷 [Costa Rica](./costa-rica.md) | 🟡 Provisional | 17 | <sub>&#64;glittercowboy · 4.6k</sub> | 22 Nov 2026 |
-| 🇨🇮 [Côte d&#39;Ivoire](./cote-d-ivoire.md) | 🟡 Provisional | 14 | <sub>&#64;Langageneo · 554</sub> | 23 Nov 2026 |
-| 🇭🇷 [Croatia](./croatia.md) | 🟡 Provisional | 21 | <sub>&#64;nibzard · 6.3k</sub> | 22 Nov 2026 |
-| 🇨🇺 [Cuba](./cuba.md) | 🟡 Provisional | 21 | <sub>&#64;apiad · 12k</sub> | 22 Nov 2026 |
-| 🇨🇼 [Curaçao](./curacao.md) | 🟡 Provisional | 15 | <sub>&#64;BalusC · 3.9k</sub> | 22 Nov 2026 |
-| 🇨🇾 [Cyprus](./cyprus.md) | 🟡 Provisional | 20 | <sub>&#64;chromealex · 13k</sub> | 22 Nov 2026 |
-| 🇨🇿 [Czechia](./czechia.md) | 🟡 Provisional | 20 | <sub>&#64;lemenkov · 8.6k</sub> | 22 Nov 2026 |
+| 🇨🇴 [Colombia](./colombia.md) | 🟡 Provisional | 21 | <sub>&#64;goanpeca · 4.9k</sub> | 22 Nov 2026 |
+| 🇰🇲 [Comoros](./comoros.md) | 🟡 Provisional | 11 | <sub>&#64;soirfaneabdallah · 205</sub> | 22 Nov 2026 |
+| 🇨🇰 [Cook Islands](./cook-islands.md) | 🟡 Provisional | 8 | <sub>&#64;cacamelio · 87</sub> | 22 Nov 2026 |
+| 🇨🇷 [Costa Rica](./costa-rica.md) | 🟡 Provisional | 19 | <sub>&#64;glittercowboy · 4.6k</sub> | 22 Nov 2026 |
+| 🇨🇮 [Côte d&#39;Ivoire](./cote-d-ivoire.md) | 🟡 Provisional | 15 | <sub>&#64;Langageneo · 554</sub> | 23 Nov 2026 |
+| 🇭🇷 [Croatia](./croatia.md) | 🟡 Provisional | 23 | <sub>&#64;nibzard · 6.3k</sub> | 22 Nov 2026 |
+| 🇨🇺 [Cuba](./cuba.md) | 🟡 Provisional | 23 | <sub>&#64;apiad · 12k</sub> | 22 Nov 2026 |
+| 🇨🇼 [Curaçao](./curacao.md) | 🟡 Provisional | 16 | <sub>&#64;BalusC · 3.9k</sub> | 22 Nov 2026 |
+| 🇨🇾 [Cyprus](./cyprus.md) | 🟡 Provisional | 21 | <sub>&#64;chromealex · 13k</sub> | 22 Nov 2026 |
+| 🇨🇿 [Czechia](./czechia.md) | 🟡 Provisional | 22 | <sub>&#64;lemenkov · 8.6k</sub> | 22 Nov 2026 |
 
 ### D
 
 | Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇩🇰 [Denmark](./denmark.md) | 🟡 Provisional | 21 | <sub>&#64;neoneye · 10k</sub> | 22 Nov 2026 |
-| 🇩🇯 [Djibouti](./djibouti.md) | 🟡 Provisional | 13 | <sub>&#64;djama77 · 423</sub> | 22 Nov 2026 |
-| 🇩🇲 [Dominica](./dominica.md) | 🟡 Provisional | 14 | <sub>&#64;CodeAriCos28 · 865</sub> | 22 Nov 2026 |
-| 🇩🇴 [Dominican Republic](./dominican-republic.md) | 🟡 Provisional | 14 | <sub>&#64;alanhamlett · 1.3k</sub> | 22 Nov 2026 |
-| 🇨🇩 [DR Congo](./dr-congo.md) | 🟡 Provisional | 19 | <sub>&#64;guillainbisimwa · 1.2k</sub> | 22 Nov 2026 |
+| 🇩🇰 [Denmark](./denmark.md) | 🟡 Provisional | 23 | <sub>&#64;LayZeeDK · 22k</sub> | 22 Nov 2026 |
+| 🇩🇯 [Djibouti](./djibouti.md) | 🟡 Provisional | 15 | <sub>&#64;djama77 · 423</sub> | 22 Nov 2026 |
+| 🇩🇲 [Dominica](./dominica.md) | 🟡 Provisional | 15 | <sub>&#64;CodeAriCos28 · 865</sub> | 22 Nov 2026 |
+| 🇩🇴 [Dominican Republic](./dominican-republic.md) | 🟡 Provisional | 16 | <sub>&#64;alanhamlett · 1.3k</sub> | 22 Nov 2026 |
+| 🇨🇩 [DR Congo](./dr-congo.md) | 🟡 Provisional | 21 | <sub>&#64;guillainbisimwa · 1.2k</sub> | 22 Nov 2026 |
 
 ### E
 
 | Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇪🇨 [Ecuador](./ecuador.md) | 🟡 Provisional | 17 | <sub>&#64;jxlarrea · 4.9k</sub> | 22 Nov 2026 |
-| 🇪🇬 [Egypt](./egypt.md) | 🟡 Provisional | 16 | <sub>&#64;xmonader · 3.4k</sub> | 22 Nov 2026 |
-| 🇸🇻 [El Salvador](./el-salvador.md) | 🟡 Provisional | 19 | <sub>&#64;KazuCocoa · 3.7k</sub> | 22 Nov 2026 |
-| 🇬🇶 [Equatorial Guinea](./equatorial-guinea.md) | 🟡 Provisional | 13 | <sub>&#64;lajay-faith · 184</sub> | 22 Nov 2026 |
-| 🇪🇷 [Eritrea](./eritrea.md) | 🟡 Provisional | 6 | <sub>&#64;AbelNebay · 64</sub> | 22 Nov 2026 |
-| 🇪🇪 [Estonia](./estonia.md) | 🟡 Provisional | 18 | <sub>&#64;ersinkoc · 42k</sub> | 22 Nov 2026 |
-| 🇸🇿 [Eswatini](./eswatini.md) | 🟡 Provisional | 10 | <sub>&#64;Dwaynemaster007 · 668</sub> | 22 Nov 2026 |
-| 🇪🇹 [Ethiopia](./ethiopia.md) | 🟡 Provisional | 16 | <sub>&#64;frectonz · 1.6k</sub> | 22 Nov 2026 |
+| 🇪🇨 [Ecuador](./ecuador.md) | 🟡 Provisional | 19 | <sub>&#64;jxlarrea · 4.9k</sub> | 22 Nov 2026 |
+| 🇪🇬 [Egypt](./egypt.md) | 🟡 Provisional | 18 | <sub>&#64;xmonader · 3.4k</sub> | 22 Nov 2026 |
+| 🇸🇻 [El Salvador](./el-salvador.md) | 🟡 Provisional | 21 | <sub>&#64;KazuCocoa · 3.7k</sub> | 22 Nov 2026 |
+| 🇬🇶 [Equatorial Guinea](./equatorial-guinea.md) | 🟡 Provisional | 15 | <sub>&#64;lajay-faith · 184</sub> | 22 Nov 2026 |
+| 🇪🇷 [Eritrea](./eritrea.md) | 🟡 Provisional | 7 | <sub>&#64;AbelNebay · 64</sub> | 22 Nov 2026 |
+| 🇪🇪 [Estonia](./estonia.md) | 🟡 Provisional | 20 | <sub>&#64;ersinkoc · 42k</sub> | 22 Nov 2026 |
+| 🇸🇿 [Eswatini](./eswatini.md) | 🟡 Provisional | 11 | <sub>&#64;Dwaynemaster007 · 668</sub> | 22 Nov 2026 |
+| 🇪🇹 [Ethiopia](./ethiopia.md) | 🟡 Provisional | 18 | <sub>&#64;frectonz · 1.6k</sub> | 22 Nov 2026 |
 
 ### F
 
 | Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
 | 🇫🇰 [Falkland Islands](./falkland-islands.md) | 🟡 Provisional | 4 | <sub>&#64;trrt54999 · 456</sub> | 22 Nov 2026 |
-| 🇫🇴 [Faroe Islands](./faroe-islands.md) | 🟡 Provisional | 15 | <sub>&#64;Brian-ED · 987</sub> | 22 Nov 2026 |
-| 🇫🇯 [Fiji](./fiji.md) | 🟡 Provisional | 13 | <sub>&#64;anav5704 · 801</sub> | 22 Nov 2026 |
-| 🇫🇮 [Finland](./finland.md) | 🟡 Provisional | 18 | <sub>&#64;xet7 · 39k</sub> | 22 Nov 2026 |
-| 🇫🇷 [France](./france.md) | 🟡 Provisional | 14 | <sub>&#64;jedisct1 · 7.6k</sub> | 22 Nov 2026 |
-| 🇬🇫 [French Guiana](./french-guiana.md) | 🟡 Provisional | 11 | <sub>&#64;R3n1er · 541</sub> | 22 Nov 2026 |
-| 🇵🇫 [French Polynesia](./french-polynesia.md) | 🟡 Provisional | 14 | <sub>&#64;ono7 · 1.7k</sub> | 22 Nov 2026 |
+| 🇫🇴 [Faroe Islands](./faroe-islands.md) | 🟡 Provisional | 17 | <sub>&#64;Brian-ED · 987</sub> | 22 Nov 2026 |
+| 🇫🇯 [Fiji](./fiji.md) | 🟡 Provisional | 15 | <sub>&#64;anav5704 · 801</sub> | 22 Nov 2026 |
+| 🇫🇮 [Finland](./finland.md) | 🟡 Provisional | 20 | <sub>&#64;xet7 · 39k</sub> | 22 Nov 2026 |
+| 🇫🇷 [France](./france.md) | 🟡 Provisional | 16 | <sub>&#64;fasterthanlime · 20k</sub> | 22 Nov 2026 |
+| 🇬🇫 [French Guiana](./french-guiana.md) | 🟡 Provisional | 12 | <sub>&#64;R3n1er · 541</sub> | 22 Nov 2026 |
+| 🇵🇫 [French Polynesia](./french-polynesia.md) | 🟡 Provisional | 16 | <sub>&#64;ono7 · 1.7k</sub> | 22 Nov 2026 |
 | 🇹🇫 [French Southern Territories](./french-southern-territories.md) | 🟡 Provisional | 1 | <sub>&#64;Berlinlight · 1</sub> | 24 Nov 2026 |
 
 ### G
 
 | Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇬🇦 [Gabon](./gabon.md) | 🟡 Provisional | 15 | <sub>&#64;Ggboykxz · 4.6k</sub> | 22 Nov 2026 |
-| 🇬🇲 [Gambia](./gambia.md) | 🟡 Provisional | 17 | <sub>&#64;silkysingz94-oss · 786</sub> | 22 Nov 2026 |
-| 🇬🇪 [Georgia](./georgia.md) | 🟡 Provisional | 16 | <sub>&#64;Komzpa · 6.0k</sub> | 22 Nov 2026 |
-| 🇩🇪 [Germany](./germany.md) | 🟡 Provisional | 16 | <sub>&#64;probonopd · 14k</sub> | 22 Nov 2026 |
-| 🇬🇭 [Ghana](./ghana.md) | 🟡 Provisional | 15 | <sub>&#64;sedegah · 21k</sub> | 22 Nov 2026 |
-| 🇬🇮 [Gibraltar](./gibraltar.md) | 🟡 Provisional | 12 | <sub>&#64;miohtama · 6.1k</sub> | 22 Nov 2026 |
-| 🇬🇷 [Greece](./greece.md) | 🟡 Provisional | 15 | <sub>&#64;gakonst · 16k</sub> | 22 Nov 2026 |
-| 🇬🇱 [Greenland](./greenland.md) | 🟡 Provisional | 12 | <sub>&#64;sgoggins · 2.0k</sub> | 22 Nov 2026 |
+| 🇬🇦 [Gabon](./gabon.md) | 🟡 Provisional | 16 | <sub>&#64;Ggboykxz · 4.6k</sub> | 22 Nov 2026 |
+| 🇬🇲 [Gambia](./gambia.md) | 🟡 Provisional | 18 | <sub>&#64;silkysingz94-oss · 786</sub> | 22 Nov 2026 |
+| 🇬🇪 [Georgia](./georgia.md) | 🟡 Provisional | 18 | <sub>&#64;roxblnfk · 6.1k</sub> | 22 Nov 2026 |
+| 🇩🇪 [Germany](./germany.md) | 🟡 Provisional | 18 | <sub>&#64;milahu · 15k</sub> | 22 Nov 2026 |
+| 🇬🇭 [Ghana](./ghana.md) | 🟡 Provisional | 16 | <sub>&#64;sedegah · 21k</sub> | 22 Nov 2026 |
+| 🇬🇮 [Gibraltar](./gibraltar.md) | 🟡 Provisional | 13 | <sub>&#64;miohtama · 6.1k</sub> | 22 Nov 2026 |
+| 🇬🇷 [Greece](./greece.md) | 🟡 Provisional | 16 | <sub>&#64;gakonst · 16k</sub> | 22 Nov 2026 |
+| 🇬🇱 [Greenland](./greenland.md) | 🟡 Provisional | 13 | <sub>&#64;sgoggins · 2.0k</sub> | 22 Nov 2026 |
 | 🇬🇩 [Grenada](./grenada.md) | 🟡 Provisional | 13 | <sub>&#64;AhndreWalters · 637</sub> | 22 Nov 2026 |
-| 🇬🇵 [Guadeloupe](./guadeloupe.md) | 🟡 Provisional | 11 | <sub>&#64;xgueret · 2.8k</sub> | 22 Nov 2026 |
-| 🇬🇺 [Guam](./guam.md) | 🟡 Provisional | 9 | <sub>&#64;leonshimizu · 19k</sub> | 23 Nov 2026 |
-| 🇬🇹 [Guatemala](./guatemala.md) | 🟡 Provisional | 15 | <sub>&#64;ykro · 1.7k</sub> | 22 Nov 2026 |
-| 🇬🇬 [Guernsey](./guernsey.md) | 🟡 Provisional | 9 | <sub>&#64;damieng · 2.6k</sub> | 22 Nov 2026 |
-| 🇬🇳 [Guinea](./guinea.md) | 🟡 Provisional | 12 | <sub>&#64;SouleymaneSy7 · 2.1k</sub> | 23 Nov 2026 |
+| 🇬🇵 [Guadeloupe](./guadeloupe.md) | 🟡 Provisional | 12 | <sub>&#64;xgueret · 2.8k</sub> | 22 Nov 2026 |
+| 🇬🇺 [Guam](./guam.md) | 🟡 Provisional | 10 | <sub>&#64;leonshimizu · 19k</sub> | 23 Nov 2026 |
+| 🇬🇹 [Guatemala](./guatemala.md) | 🟡 Provisional | 16 | <sub>&#64;ykro · 1.7k</sub> | 22 Nov 2026 |
+| 🇬🇬 [Guernsey](./guernsey.md) | 🟡 Provisional | 11 | <sub>&#64;damieng · 2.6k</sub> | 22 Nov 2026 |
+| 🇬🇳 [Guinea](./guinea.md) | 🟡 Provisional | 13 | <sub>&#64;SouleymaneSy7 · 2.1k</sub> | 23 Nov 2026 |
 | 🇬🇼 [Guinea-Bissau](./guinea-bissau.md) | 🟡 Provisional | 10 | <sub>&#64;atchutchi · 788</sub> | 22 Nov 2026 |
-| 🇬🇾 [Guyana](./guyana.md) | 🟡 Provisional | 9 | <sub>&#64;ktappdev · 1.5k</sub> | 22 Nov 2026 |
+| 🇬🇾 [Guyana](./guyana.md) | 🟡 Provisional | 11 | <sub>&#64;ktappdev · 1.5k</sub> | 22 Nov 2026 |
 
 ### H
 
 | Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇭🇹 [Haiti](./haiti.md) | 🟡 Provisional | 12 | <sub>&#64;deldesir · 656</sub> | 22 Nov 2026 |
+| 🇭🇹 [Haiti](./haiti.md) | 🟡 Provisional | 13 | <sub>&#64;deldesir · 656</sub> | 22 Nov 2026 |
 | 🇭🇲 [Heard &amp; McDonald Islands](./heard-mcdonald-islands.md) | 🟡 Provisional | 7 | <sub>&#64;R-Pax · 409</sub> | 22 Nov 2026 |
-| 🇭🇳 [Honduras](./honduras.md) | 🟡 Provisional | 15 | <sub>&#64;Siumauricio · 3.4k</sub> | 22 Nov 2026 |
-| 🇭🇰 [Hong Kong](./hong-kong.md) | 🟡 Provisional | 15 | <sub>&#64;dirkarnez · 4.1k</sub> | 22 Nov 2026 |
-| 🇭🇺 [Hungary](./hungary.md) | 🟡 Provisional | 16 | <sub>&#64;zkochan · 12k</sub> | 22 Nov 2026 |
+| 🇭🇳 [Honduras](./honduras.md) | 🟡 Provisional | 16 | <sub>&#64;Siumauricio · 3.4k</sub> | 22 Nov 2026 |
+| 🇭🇰 [Hong Kong](./hong-kong.md) | 🟡 Provisional | 17 | <sub>&#64;dirkarnez · 4.1k</sub> | 22 Nov 2026 |
+| 🇭🇺 [Hungary](./hungary.md) | 🟡 Provisional | 18 | <sub>&#64;zkochan · 12k</sub> | 22 Nov 2026 |
 
 ### I
 
 | Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇮🇸 [Iceland](./iceland.md) | 🟡 Provisional | 15 | <sub>&#64;HaoZeke · 50k</sub> | 22 Nov 2026 |
-| 🇮🇳 [India](./india.md) | 🟡 Provisional | 13 | <sub>&#64;ajeetraina · 4.2k</sub> | 22 Nov 2026 |
-| 🇮🇩 [Indonesia](./indonesia.md) | 🟡 Provisional | 16 | <sub>&#64;hendisantika · 37k</sub> | 22 Nov 2026 |
-| 🇮🇷 [Iran](./iran.md) | 🟡 Provisional | 16 | <sub>&#64;bugbounted · 496k</sub> | 22 Nov 2026 |
-| 🇮🇶 [Iraq](./iraq.md) | 🟡 Provisional | 11 | <sub>&#64;Al-Taie · 412</sub> | 22 Nov 2026 |
-| 🇮🇪 [Ireland](./ireland.md) | 🟡 Provisional | 15 | <sub>&#64;oisee · 12k</sub> | 22 Nov 2026 |
-| 🇮🇲 [Isle of Man](./isle-of-man.md) | 🟡 Provisional | 15 | <sub>&#64;bengris32 · 6.6k</sub> | 22 Nov 2026 |
-| 🇮🇱 [Israel](./israel.md) | 🟡 Provisional | 15 | <sub>&#64;veltzer · 26k</sub> | 22 Nov 2026 |
-| 🇮🇹 [Italy](./italy.md) | 🟡 Provisional | 15 | <sub>&#64;aborruso · 14k</sub> | 22 Nov 2026 |
+| 🇮🇸 [Iceland](./iceland.md) | 🟡 Provisional | 17 | <sub>&#64;HaoZeke · 50k</sub> | 22 Nov 2026 |
+| 🇮🇳 [India](./india.md) | 🟡 Provisional | 15 | <sub>&#64;ajeetraina · 4.2k</sub> | 22 Nov 2026 |
+| 🇮🇩 [Indonesia](./indonesia.md) | 🟡 Provisional | 18 | <sub>&#64;hendisantika · 37k</sub> | 22 Nov 2026 |
+| 🇮🇷 [Iran](./iran.md) | 🟡 Provisional | 18 | <sub>&#64;bugbounted · 496k</sub> | 22 Nov 2026 |
+| 🇮🇶 [Iraq](./iraq.md) | 🟡 Provisional | 13 | <sub>&#64;Al-Taie · 412</sub> | 22 Nov 2026 |
+| 🇮🇪 [Ireland](./ireland.md) | 🟡 Provisional | 17 | <sub>&#64;oisee · 12k</sub> | 22 Nov 2026 |
+| 🇮🇲 [Isle of Man](./isle-of-man.md) | 🟡 Provisional | 16 | <sub>&#64;bengris32 · 6.6k</sub> | 22 Nov 2026 |
+| 🇮🇱 [Israel](./israel.md) | 🟡 Provisional | 17 | <sub>&#64;veltzer · 26k</sub> | 22 Nov 2026 |
+| 🇮🇹 [Italy](./italy.md) | 🟡 Provisional | 17 | <sub>&#64;aborruso · 14k</sub> | 22 Nov 2026 |
 
 ### J
 
 | Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇯🇲 [Jamaica](./jamaica.md) | 🟡 Provisional | 10 | <sub>&#64;trevoirwilliams · 447</sub> | 22 Nov 2026 |
-| 🇯🇵 [Japan](./japan.md) | 🟡 Provisional | 14 | <sub>&#64;tokuhirom · 41k</sub> | 22 Nov 2026 |
+| 🇯🇲 [Jamaica](./jamaica.md) | 🟡 Provisional | 11 | <sub>&#64;titan-65 · 589</sub> | 22 Nov 2026 |
+| 🇯🇵 [Japan](./japan.md) | 🟡 Provisional | 16 | <sub>&#64;tokuhirom · 41k</sub> | 22 Nov 2026 |
 | 🇯🇪 [Jersey](./jersey.md) | 🟡 Provisional | 6 | <sub>&#64;simonbrowndotje · 708</sub> | 22 Nov 2026 |
-| 🇯🇴 [Jordan](./jordan.md) | 🟡 Provisional | 12 | <sub>&#64;MKAbuMattar · 8.3k</sub> | 22 Nov 2026 |
+| 🇯🇴 [Jordan](./jordan.md) | 🟡 Provisional | 14 | <sub>&#64;MKAbuMattar · 8.3k</sub> | 22 Nov 2026 |
 
 ### K
 
 | Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇰🇿 [Kazakhstan](./kazakhstan.md) | 🟡 Provisional | 15 | <sub>&#64;PhysShell · 3.5k</sub> | 22 Nov 2026 |
-| 🇰🇪 [Kenya](./kenya.md) | 🟡 Provisional | 13 | <sub>&#64;mikeyhodl · 16k</sub> | 22 Nov 2026 |
-| 🇰🇮 [Kiribati](./kiribati.md) | 🟡 Provisional | 7 | <sub>&#64;Lambdius · 1.3k</sub> | 22 Nov 2026 |
-| 🇽🇰 [Kosovo](./kosovo.md) | 🟡 Provisional | 13 | <sub>&#64;vigan-abd · 1.7k</sub> | 22 Nov 2026 |
+| 🇰🇿 [Kazakhstan](./kazakhstan.md) | 🟡 Provisional | 17 | <sub>&#64;PhysShell · 3.5k</sub> | 22 Nov 2026 |
+| 🇰🇪 [Kenya](./kenya.md) | 🟡 Provisional | 15 | <sub>&#64;mikeyhodl · 16k</sub> | 22 Nov 2026 |
+| 🇰🇮 [Kiribati](./kiribati.md) | 🟡 Provisional | 8 | <sub>&#64;Lambdius · 1.3k</sub> | 22 Nov 2026 |
+| 🇽🇰 [Kosovo](./kosovo.md) | 🟡 Provisional | 14 | <sub>&#64;vigan-abd · 1.7k</sub> | 22 Nov 2026 |
 | 🇰🇼 [Kuwait](./kuwait.md) | 🟡 Provisional | 10 | <sub>&#64;Abdulkader-Safi · 2.0k</sub> | 23 Nov 2026 |
-| 🇰🇬 [Kyrgyzstan](./kyrgyzstan.md) | 🟡 Provisional | 11 | <sub>&#64;toksaitov · 15k</sub> | 22 Nov 2026 |
+| 🇰🇬 [Kyrgyzstan](./kyrgyzstan.md) | 🟡 Provisional | 13 | <sub>&#64;toksaitov · 15k</sub> | 22 Nov 2026 |
 
 ### L
 
 | Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇱🇦 [Laos](./laos.md) | 🟡 Provisional | 12 | <sub>&#64;huevangxp · 3.4k</sub> | 22 Nov 2026 |
-| 🇱🇻 [Latvia](./latvia.md) | 🟡 Provisional | 15 | <sub>&#64;mbrock · 6.7k</sub> | 22 Nov 2026 |
-| 🇱🇧 [Lebanon](./lebanon.md) | 🟡 Provisional | 14 | <sub>&#64;KhaledSaeed18 · 5.6k</sub> | 22 Nov 2026 |
-| 🇱🇸 [Lesotho](./lesotho.md) | 🟡 Provisional | 12 | <sub>&#64;khauta · 122</sub> | 22 Nov 2026 |
-| 🇱🇷 [Liberia](./liberia.md) | 🟡 Provisional | 10 | <sub>&#64;timtjoe · 602</sub> | 23 Nov 2026 |
-| 🇱🇾 [Libya](./libya.md) | 🟡 Provisional | 10 | <sub>&#64;OthmanHaba · 1.4k</sub> | 22 Nov 2026 |
-| 🇱🇮 [Liechtenstein](./liechtenstein.md) | 🟡 Provisional | 11 | <sub>&#64;msanft · 492</sub> | 22 Nov 2026 |
-| 🇱🇹 [Lithuania](./lithuania.md) | 🟡 Provisional | 14 | <sub>&#64;kibertoad · 23k</sub> | 22 Nov 2026 |
-| 🇱🇺 [Luxembourg](./luxembourg.md) | 🟡 Provisional | 12 | <sub>&#64;b-rodrigues · 7.3k</sub> | 22 Nov 2026 |
+| 🇱🇦 [Laos](./laos.md) | 🟡 Provisional | 13 | <sub>&#64;huevangxp · 3.4k</sub> | 22 Nov 2026 |
+| 🇱🇻 [Latvia](./latvia.md) | 🟡 Provisional | 17 | <sub>&#64;mbrock · 6.7k</sub> | 22 Nov 2026 |
+| 🇱🇧 [Lebanon](./lebanon.md) | 🟡 Provisional | 16 | <sub>&#64;KhaledSaeed18 · 5.6k</sub> | 22 Nov 2026 |
+| 🇱🇸 [Lesotho](./lesotho.md) | 🟡 Provisional | 13 | <sub>&#64;PhiLouGii · 438</sub> | 22 Nov 2026 |
+| 🇱🇷 [Liberia](./liberia.md) | 🟡 Provisional | 12 | <sub>&#64;timtjoe · 602</sub> | 23 Nov 2026 |
+| 🇱🇾 [Libya](./libya.md) | 🟡 Provisional | 12 | <sub>&#64;OthmanHaba · 1.4k</sub> | 22 Nov 2026 |
+| 🇱🇮 [Liechtenstein](./liechtenstein.md) | 🟡 Provisional | 13 | <sub>&#64;msanft · 492</sub> | 22 Nov 2026 |
+| 🇱🇹 [Lithuania](./lithuania.md) | 🟡 Provisional | 16 | <sub>&#64;kibertoad · 23k</sub> | 22 Nov 2026 |
+| 🇱🇺 [Luxembourg](./luxembourg.md) | 🟡 Provisional | 14 | <sub>&#64;b-rodrigues · 7.3k</sub> | 22 Nov 2026 |
 
 ### M
 
 | Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇲🇴 [Macao](./macao.md) | 🟡 Provisional | 12 | <sub>&#64;spiritLHLS · 5.1k</sub> | 22 Nov 2026 |
-| 🇲🇬 [Madagascar](./madagascar.md) | 🟡 Provisional | 14 | <sub>&#64;tsirysndr · 8.2k</sub> | 22 Nov 2026 |
-| 🇲🇼 [Malawi](./malawi.md) | 🟡 Provisional | 14 | <sub>&#64;Iankulani · 1.7k</sub> | 22 Nov 2026 |
-| 🇲🇾 [Malaysia](./malaysia.md) | 🟡 Provisional | 14 | <sub>&#64;crynobone · 1.7k</sub> | 22 Nov 2026 |
-| 🇲🇻 [Maldives](./maldives.md) | 🟡 Provisional | 13 | <sub>&#64;athphane · 327</sub> | 22 Nov 2026 |
-| 🇲🇱 [Mali](./mali.md) | 🟡 Provisional | 11 | <sub>&#64;sudoping01 · 1.1k</sub> | 22 Nov 2026 |
-| 🇲🇹 [Malta](./malta.md) | 🟡 Provisional | 13 | <sub>&#64;ripienaar · 4.1k</sub> | 22 Nov 2026 |
+| 🇲🇴 [Macao](./macao.md) | 🟡 Provisional | 13 | <sub>&#64;spiritLHLS · 5.1k</sub> | 22 Nov 2026 |
+| 🇲🇬 [Madagascar](./madagascar.md) | 🟡 Provisional | 15 | <sub>&#64;tsirysndr · 8.2k</sub> | 22 Nov 2026 |
+| 🇲🇼 [Malawi](./malawi.md) | 🟡 Provisional | 15 | <sub>&#64;Iankulani · 1.7k</sub> | 22 Nov 2026 |
+| 🇲🇾 [Malaysia](./malaysia.md) | 🟡 Provisional | 16 | <sub>&#64;crynobone · 1.7k</sub> | 22 Nov 2026 |
+| 🇲🇻 [Maldives](./maldives.md) | 🟡 Provisional | 14 | <sub>&#64;athphane · 327</sub> | 22 Nov 2026 |
+| 🇲🇱 [Mali](./mali.md) | 🟡 Provisional | 13 | <sub>&#64;sudoping01 · 1.1k</sub> | 22 Nov 2026 |
+| 🇲🇹 [Malta](./malta.md) | 🟡 Provisional | 15 | <sub>&#64;ripienaar · 4.1k</sub> | 22 Nov 2026 |
 | 🇲🇭 [Marshall Islands](./marshall-islands.md) | 🟡 Provisional | 7 | <sub>&#64;baolood · 1.8k</sub> | 22 Nov 2026 |
-| 🇲🇶 [Martinique](./martinique.md) | 🟡 Provisional | 11 | <sub>&#64;glefait · 5.1k</sub> | 22 Nov 2026 |
-| 🇲🇷 [Mauritania](./mauritania.md) | 🟡 Provisional | 13 | <sub>&#64;mohameden19961 · 4.1k</sub> | 22 Nov 2026 |
-| 🇲🇺 [Mauritius](./mauritius.md) | 🟡 Provisional | 12 | <sub>&#64;MrSunshyne · 1.7k</sub> | 22 Nov 2026 |
+| 🇲🇶 [Martinique](./martinique.md) | 🟡 Provisional | 12 | <sub>&#64;glefait · 5.1k</sub> | 22 Nov 2026 |
+| 🇲🇷 [Mauritania](./mauritania.md) | 🟡 Provisional | 15 | <sub>&#64;mohameden19961 · 4.1k</sub> | 22 Nov 2026 |
+| 🇲🇺 [Mauritius](./mauritius.md) | 🟡 Provisional | 13 | <sub>&#64;MrSunshyne · 1.7k</sub> | 22 Nov 2026 |
 | 🇾🇹 [Mayotte](./mayotte.md) | 🟡 Provisional | 7 | <sub>&#64;beeraw · 631</sub> | 23 Nov 2026 |
-| 🇲🇽 [Mexico](./mexico.md) | 🟡 Provisional | 13 | <sub>&#64;vic · 3.4k</sub> | 22 Nov 2026 |
+| 🇲🇽 [Mexico](./mexico.md) | 🟡 Provisional | 15 | <sub>&#64;vic · 3.4k</sub> | 22 Nov 2026 |
 | 🇫🇲 [Micronesia](./micronesia.md) | 🟡 Provisional | 4 | <sub>&#64;heyesr · 97</sub> | 23 Nov 2026 |
-| 🇲🇩 [Moldova](./moldova.md) | 🟡 Provisional | 11 | <sub>&#64;CyberShadow · 1.6k</sub> | 22 Nov 2026 |
-| 🇲🇨 [Monaco](./monaco.md) | 🟡 Provisional | 9 | <sub>&#64;LovelessCodes · 2.5k</sub> | 22 Nov 2026 |
-| 🇲🇳 [Mongolia](./mongolia.md) | 🟡 Provisional | 13 | <sub>&#64;tortuvshin · 3.1k</sub> | 22 Nov 2026 |
-| 🇲🇪 [Montenegro](./montenegro.md) | 🟡 Provisional | 12 | <sub>&#64;LiGoldragon · 6.1k</sub> | 22 Nov 2026 |
+| 🇲🇩 [Moldova](./moldova.md) | 🟡 Provisional | 13 | <sub>&#64;Aragas · 2.4k</sub> | 22 Nov 2026 |
+| 🇲🇨 [Monaco](./monaco.md) | 🟡 Provisional | 10 | <sub>&#64;LovelessCodes · 2.5k</sub> | 22 Nov 2026 |
+| 🇲🇳 [Mongolia](./mongolia.md) | 🟡 Provisional | 15 | <sub>&#64;tortuvshin · 3.1k</sub> | 22 Nov 2026 |
+| 🇲🇪 [Montenegro](./montenegro.md) | 🟡 Provisional | 14 | <sub>&#64;LiGoldragon · 6.1k</sub> | 22 Nov 2026 |
 | 🇲🇸 [Montserrat](./montserrat.md) | 🟡 Provisional | 4 | <sub>&#64;SpicePayne · 25</sub> | 22 Nov 2026 |
-| 🇲🇦 [Morocco](./morocco.md) | 🟡 Provisional | 12 | <sub>&#64;seuros · 7.0k</sub> | 22 Nov 2026 |
-| 🇲🇿 [Mozambique](./mozambique.md) | 🟡 Provisional | 11 | <sub>&#64;DandelionSprout · 6.4k</sub> | 22 Nov 2026 |
-| 🇲🇲 [Myanmar (Burma)](./myanmar-burma.md) | 🟡 Provisional | 12 | <sub>&#64;sannlynnhtun-coding · 2.2k</sub> | 22 Nov 2026 |
+| 🇲🇦 [Morocco](./morocco.md) | 🟡 Provisional | 14 | <sub>&#64;seuros · 7.0k</sub> | 22 Nov 2026 |
+| 🇲🇿 [Mozambique](./mozambique.md) | 🟡 Provisional | 13 | <sub>&#64;DandelionSprout · 6.4k</sub> | 22 Nov 2026 |
+| 🇲🇲 [Myanmar (Burma)](./myanmar-burma.md) | 🟡 Provisional | 14 | <sub>&#64;sannlynnhtun-coding · 2.2k</sub> | 22 Nov 2026 |
 
 ### N
 
 | Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇳🇦 [Namibia](./namibia.md) | 🟡 Provisional | 10 | <sub>&#64;Tusneld · 409</sub> | 22 Nov 2026 |
+| 🇳🇦 [Namibia](./namibia.md) | 🟡 Provisional | 11 | <sub>&#64;Tusneld · 409</sub> | 22 Nov 2026 |
 | 🇳🇷 [Nauru](./nauru.md) | 🟡 Provisional | 5 | <sub>&#64;ensonfun · 190</sub> | 23 Nov 2026 |
-| 🇳🇵 [Nepal](./nepal.md) | 🟡 Provisional | 13 | <sub>&#64;lohanidamodar · 7.9k</sub> | 22 Nov 2026 |
-| 🇳🇱 [Netherlands](./netherlands.md) | 🟡 Provisional | 14 | <sub>&#64;frenck · 17k</sub> | 22 Nov 2026 |
-| 🇳🇨 [New Caledonia](./new-caledonia.md) | 🟡 Provisional | 13 | <sub>&#64;MelanieGault · 6.0k</sub> | 22 Nov 2026 |
-| 🇳🇿 [New Zealand](./new-zealand.md) | 🟡 Provisional | 11 | <sub>&#64;passcod · 17k</sub> | 22 Nov 2026 |
-| 🇳🇮 [Nicaragua](./nicaragua.md) | 🟡 Provisional | 13 | <sub>&#64;paulomcnally · 2.4k</sub> | 22 Nov 2026 |
-| 🇳🇪 [Niger](./niger.md) | 🟡 Provisional | 7 | <sub>&#64;akaletekoffilevis · 2.0k</sub> | 22 Nov 2026 |
-| 🇳🇬 [Nigeria](./nigeria.md) | 🟡 Provisional | 14 | <sub>&#64;Wealthometer · 101k</sub> | 22 Nov 2026 |
+| 🇳🇵 [Nepal](./nepal.md) | 🟡 Provisional | 14 | <sub>&#64;lohanidamodar · 7.9k</sub> | 22 Nov 2026 |
+| 🇳🇱 [Netherlands](./netherlands.md) | 🟡 Provisional | 15 | <sub>&#64;frenck · 17k</sub> | 22 Nov 2026 |
+| 🇳🇨 [New Caledonia](./new-caledonia.md) | 🟡 Provisional | 14 | <sub>&#64;MelanieGault · 6.0k</sub> | 22 Nov 2026 |
+| 🇳🇿 [New Zealand](./new-zealand.md) | 🟡 Provisional | 12 | <sub>&#64;passcod · 17k</sub> | 22 Nov 2026 |
+| 🇳🇮 [Nicaragua](./nicaragua.md) | 🟡 Provisional | 14 | <sub>&#64;paulomcnally · 2.4k</sub> | 22 Nov 2026 |
+| 🇳🇪 [Niger](./niger.md) | 🟡 Provisional | 8 | <sub>&#64;akaletekoffilevis · 2.0k</sub> | 22 Nov 2026 |
+| 🇳🇬 [Nigeria](./nigeria.md) | 🟡 Provisional | 15 | <sub>&#64;Wealthometer · 101k</sub> | 22 Nov 2026 |
 | 🇳🇺 [Niue](./niue.md) | 🟡 Provisional | 1 | <sub>&#64;Kasp42 · 128</sub> | 22 Nov 2026 |
 | 🇳🇫 [Norfolk Island](./norfolk-island.md) | 🟡 Provisional | 2 | <sub>&#64;mark-ssd · 835</sub> | 22 Nov 2026 |
-| 🇰🇵 [North Korea](./north-korea.md) | 🟡 Provisional | 9 | <sub>&#64;iam-orsu · 1.3k</sub> | 22 Nov 2026 |
-| 🇲🇰 [North Macedonia](./north-macedonia.md) | 🟡 Provisional | 10 | <sub>&#64;tino097 · 1.9k</sub> | 22 Nov 2026 |
+| 🇰🇵 [North Korea](./north-korea.md) | 🟡 Provisional | 10 | <sub>&#64;iam-orsu · 1.3k</sub> | 22 Nov 2026 |
+| 🇲🇰 [North Macedonia](./north-macedonia.md) | 🟡 Provisional | 11 | <sub>&#64;tino097 · 1.9k</sub> | 22 Nov 2026 |
 | 🇲🇵 [Northern Mariana Islands](./northern-mariana-islands.md) | 🟡 Provisional | 5 | <sub>&#64;chris-yng · 194</sub> | 22 Nov 2026 |
-| 🇳🇴 [Norway](./norway.md) | 🟡 Provisional | 14 | <sub>&#64;xyproto · 5.6k</sub> | 22 Nov 2026 |
+| 🇳🇴 [Norway](./norway.md) | 🟡 Provisional | 15 | <sub>&#64;marcusramberg · 59k</sub> | 22 Nov 2026 |
 
 ### O
 
@@ -260,87 +260,87 @@ Discover GitHub users ranked by public contribution activity.
 
 | Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇵🇰 [Pakistan](./pakistan.md) | 🟡 Provisional | 13 | <sub>&#64;Zaid-maker · 5.1k</sub> | 22 Nov 2026 |
+| 🇵🇰 [Pakistan](./pakistan.md) | 🟡 Provisional | 14 | <sub>&#64;Zaid-maker · 5.1k</sub> | 22 Nov 2026 |
 | 🇵🇼 [Palau](./palau.md) | 🟡 Provisional | 4 | <sub>&#64;lustrecker-lang · 41</sub> | 22 Nov 2026 |
 | 🇵🇸 [Palestine](./palestine.md) | 🟡 Provisional | 11 | <sub>&#64;hayasam · 832</sub> | 22 Nov 2026 |
 | 🇵🇦 [Panama](./panama.md) | 🟡 Provisional | 8 | <sub>&#64;alebeta06 · 804</sub> | 23 Nov 2026 |
-| 🇵🇬 [Papua New Guinea](./papua-new-guinea.md) | 🟡 Provisional | 12 | <sub>&#64;n30dyn4m1c · 2.0k</sub> | 22 Nov 2026 |
-| 🇵🇾 [Paraguay](./paraguay.md) | 🟡 Provisional | 13 | <sub>&#64;matiasinsaurralde · 1.0k</sub> | 22 Nov 2026 |
-| 🇵🇪 [Peru](./peru.md) | 🟡 Provisional | 14 | <sub>&#64;sergiodxa · 6.1k</sub> | 22 Nov 2026 |
-| 🇵🇭 [Philippines](./philippines.md) | 🟡 Provisional | 14 | <sub>&#64;lxsmnsyc · 13k</sub> | 22 Nov 2026 |
+| 🇵🇬 [Papua New Guinea](./papua-new-guinea.md) | 🟡 Provisional | 13 | <sub>&#64;n30dyn4m1c · 2.0k</sub> | 22 Nov 2026 |
+| 🇵🇾 [Paraguay](./paraguay.md) | 🟡 Provisional | 14 | <sub>&#64;matiasinsaurralde · 1.0k</sub> | 22 Nov 2026 |
+| 🇵🇪 [Peru](./peru.md) | 🟡 Provisional | 15 | <sub>&#64;sergiodxa · 6.1k</sub> | 22 Nov 2026 |
+| 🇵🇭 [Philippines](./philippines.md) | 🟡 Provisional | 15 | <sub>&#64;lxsmnsyc · 13k</sub> | 22 Nov 2026 |
 | 🇵🇳 [Pitcairn Islands](./pitcairn-islands.md) | 🟡 Provisional | 1 | <sub>&#64;Hi30MC · 227</sub> | 22 Nov 2026 |
-| 🇵🇱 [Poland](./poland.md) | 🟡 Provisional | 13 | <sub>&#64;mgorny · 38k</sub> | 22 Nov 2026 |
-| 🇵🇹 [Portugal](./portugal.md) | 🟡 Provisional | 13 | <sub>&#64;rcarmo · 27k</sub> | 22 Nov 2026 |
-| 🇵🇷 [Puerto Rico](./puerto-rico.md) | 🟡 Provisional | 14 | <sub>&#64;sontek · 6.9k</sub> | 22 Nov 2026 |
+| 🇵🇱 [Poland](./poland.md) | 🟡 Provisional | 14 | <sub>&#64;mgorny · 38k</sub> | 22 Nov 2026 |
+| 🇵🇹 [Portugal](./portugal.md) | 🟡 Provisional | 14 | <sub>&#64;rcarmo · 27k</sub> | 22 Nov 2026 |
+| 🇵🇷 [Puerto Rico](./puerto-rico.md) | 🟡 Provisional | 15 | <sub>&#64;sontek · 6.9k</sub> | 22 Nov 2026 |
 
 ### Q
 
 | Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇶🇦 [Qatar](./qatar.md) | 🟡 Provisional | 14 | <sub>&#64;nirzaf · 8.0k</sub> | 22 Nov 2026 |
+| 🇶🇦 [Qatar](./qatar.md) | 🟡 Provisional | 15 | <sub>&#64;nirzaf · 8.0k</sub> | 22 Nov 2026 |
 
 ### R
 
 | Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇨🇬 [Republic of the Congo](./republic-of-the-congo.md) | 🟡 Provisional | 13 | <sub>&#64;SedeoLeos · 456</sub> | 22 Nov 2026 |
-| 🇷🇪 [Réunion](./reunion.md) | 🟡 Provisional | 10 | <sub>&#64;edouard-claude · 2.7k</sub> | 22 Nov 2026 |
-| 🇷🇴 [Romania](./romania.md) | 🟡 Provisional | 14 | <sub>&#64;0-vortex · 19k</sub> | 22 Nov 2026 |
-| 🇷🇺 [Russia](./russia.md) | 🟡 Provisional | 12 | <sub>&#64;QuadDarv1ne · 9.5k</sub> | 22 Nov 2026 |
-| 🇷🇼 [Rwanda](./rwanda.md) | 🟡 Provisional | 13 | <sub>&#64;Manzi-Elvis · 6.1k</sub> | 22 Nov 2026 |
+| 🇨🇬 [Republic of the Congo](./republic-of-the-congo.md) | 🟡 Provisional | 14 | <sub>&#64;SedeoLeos · 456</sub> | 22 Nov 2026 |
+| 🇷🇪 [Réunion](./reunion.md) | 🟡 Provisional | 11 | <sub>&#64;edouard-claude · 2.7k</sub> | 22 Nov 2026 |
+| 🇷🇴 [Romania](./romania.md) | 🟡 Provisional | 15 | <sub>&#64;0-vortex · 19k</sub> | 22 Nov 2026 |
+| 🇷🇺 [Russia](./russia.md) | 🟡 Provisional | 13 | <sub>&#64;QuadDarv1ne · 9.5k</sub> | 22 Nov 2026 |
+| 🇷🇼 [Rwanda](./rwanda.md) | 🟡 Provisional | 14 | <sub>&#64;Manzi-Elvis · 6.1k</sub> | 22 Nov 2026 |
 
 ### S
 
 | Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇼🇸 [Samoa](./samoa.md) | 🟡 Provisional | 10 | <sub>&#64;Green-Ranger11 · 442</sub> | 22 Nov 2026 |
-| 🇸🇲 [San Marino](./san-marino.md) | 🟡 Provisional | 10 | <sub>&#64;gcardi · 496</sub> | 22 Nov 2026 |
+| 🇼🇸 [Samoa](./samoa.md) | 🟡 Provisional | 11 | <sub>&#64;Green-Ranger11 · 442</sub> | 22 Nov 2026 |
+| 🇸🇲 [San Marino](./san-marino.md) | 🟡 Provisional | 11 | <sub>&#64;alessandrorebosio · 767</sub> | 22 Nov 2026 |
 | 🇸🇹 [São Tomé &amp; Príncipe](./sao-tome-principe.md) | 🟡 Provisional | 3 | <sub>&#64;EdmyPenhor · 41</sub> | 22 Nov 2026 |
-| 🇸🇦 [Saudi Arabia](./saudi-arabia.md) | 🟡 Provisional | 13 | <sub>&#64;zaidalyafeai · 769</sub> | 22 Nov 2026 |
-| 🇸🇳 [Senegal](./senegal.md) | 🟡 Provisional | 11 | <sub>&#64;iib0011 · 2.0k</sub> | 22 Nov 2026 |
-| 🇷🇸 [Serbia](./serbia.md) | 🟡 Provisional | 13 | <sub>&#64;svasenkov · 6.8k</sub> | 22 Nov 2026 |
+| 🇸🇦 [Saudi Arabia](./saudi-arabia.md) | 🟡 Provisional | 14 | <sub>&#64;nn6n · 1.6k</sub> | 22 Nov 2026 |
+| 🇸🇳 [Senegal](./senegal.md) | 🟡 Provisional | 12 | <sub>&#64;iib0011 · 2.0k</sub> | 22 Nov 2026 |
+| 🇷🇸 [Serbia](./serbia.md) | 🟡 Provisional | 14 | <sub>&#64;svasenkov · 6.8k</sub> | 22 Nov 2026 |
 | 🇸🇨 [Seychelles](./seychelles.md) | 🟡 Provisional | 10 | <sub>&#64;chairmanoftheboardeg · 1.8k</sub> | 22 Nov 2026 |
-| 🇸🇱 [Sierra Leone](./sierra-leone.md) | 🟡 Provisional | 9 | <sub>&#64;lshariprasad · 830</sub> | 22 Nov 2026 |
-| 🇸🇬 [Singapore](./singapore.md) | 🟡 Provisional | 14 | <sub>&#64;fengmk2 · 7.8k</sub> | 22 Nov 2026 |
+| 🇸🇱 [Sierra Leone](./sierra-leone.md) | 🟡 Provisional | 10 | <sub>&#64;lshariprasad · 830</sub> | 22 Nov 2026 |
+| 🇸🇬 [Singapore](./singapore.md) | 🟡 Provisional | 15 | <sub>&#64;fengmk2 · 7.8k</sub> | 22 Nov 2026 |
 | 🇸🇽 [Sint Maarten](./sint-maarten.md) | 🟡 Provisional | 3 | <sub>&#64;ccnicholls99 · 130</sub> | 22 Nov 2026 |
-| 🇸🇰 [Slovakia](./slovakia.md) | 🟡 Provisional | 13 | <sub>&#64;lalinsky · 4.1k</sub> | 22 Nov 2026 |
-| 🇸🇮 [Slovenia](./slovenia.md) | 🟡 Provisional | 14 | <sub>&#64;garbas · 12k</sub> | 22 Nov 2026 |
-| 🇸🇧 [Solomon Islands](./solomon-islands.md) | 🟡 Provisional | 10 | <sub>&#64;lininn · 332</sub> | 22 Nov 2026 |
-| 🇸🇴 [Somalia](./somalia.md) | 🟡 Provisional | 12 | <sub>&#64;omartood · 920</sub> | 22 Nov 2026 |
-| 🇿🇦 [South Africa](./south-africa.md) | 🟡 Provisional | 13 | <sub>&#64;mattleibow · 4.0k</sub> | 22 Nov 2026 |
+| 🇸🇰 [Slovakia](./slovakia.md) | 🟡 Provisional | 14 | <sub>&#64;lalinsky · 4.1k</sub> | 22 Nov 2026 |
+| 🇸🇮 [Slovenia](./slovenia.md) | 🟡 Provisional | 15 | <sub>&#64;garbas · 12k</sub> | 22 Nov 2026 |
+| 🇸🇧 [Solomon Islands](./solomon-islands.md) | 🟡 Provisional | 11 | <sub>&#64;lininn · 332</sub> | 22 Nov 2026 |
+| 🇸🇴 [Somalia](./somalia.md) | 🟡 Provisional | 13 | <sub>&#64;omartood · 920</sub> | 22 Nov 2026 |
+| 🇿🇦 [South Africa](./south-africa.md) | 🟡 Provisional | 14 | <sub>&#64;mattleibow · 4.0k</sub> | 22 Nov 2026 |
 | 🇬🇸 [South Georgia &amp; South Sandwich Islands](./south-georgia-south-sandwich-islands.md) | 🟡 Provisional | 1 | <sub>&#64;Voblit · 568</sub> | 23 Nov 2026 |
-| 🇰🇷 [South Korea](./south-korea.md) | 🟡 Provisional | 14 | <sub>&#64;utilForever · 7.8k</sub> | 22 Nov 2026 |
-| 🇸🇸 [South Sudan](./south-sudan.md) | 🟡 Provisional | 9 | <sub>&#64;riek27 · 2.7k</sub> | 22 Nov 2026 |
-| 🇪🇸 [Spain](./spain.md) | 🟡 Provisional | 12 | <sub>&#64;vfarcic · 8.3k</sub> | 22 Nov 2026 |
-| 🇱🇰 [Sri Lanka](./sri-lanka.md) | 🟡 Provisional | 14 | <sub>&#64;nuuuwan · 134k</sub> | 22 Nov 2026 |
+| 🇰🇷 [South Korea](./south-korea.md) | 🟡 Provisional | 15 | <sub>&#64;scarf005 · 9.1k</sub> | 22 Nov 2026 |
+| 🇸🇸 [South Sudan](./south-sudan.md) | 🟡 Provisional | 10 | <sub>&#64;riek27 · 2.7k</sub> | 22 Nov 2026 |
+| 🇪🇸 [Spain](./spain.md) | 🟡 Provisional | 13 | <sub>&#64;vfarcic · 8.3k</sub> | 22 Nov 2026 |
+| 🇱🇰 [Sri Lanka](./sri-lanka.md) | 🟡 Provisional | 15 | <sub>&#64;nuuuwan · 134k</sub> | 22 Nov 2026 |
 | 🇧🇱 [St. Barthélemy](./st-barthelemy.md) | 🟡 Provisional | 4 | <sub>&#64;hvrijhof1-glitch · 19</sub> | 23 Nov 2026 |
 | 🇸🇭 [St. Helena](./st-helena.md) | 🟡 Provisional | 5 | <sub>&#64;Gabegi · 780</sub> | 22 Nov 2026 |
-| 🇰🇳 [St. Kitts &amp; Nevis](./st-kitts-nevis.md) | 🟡 Provisional | 5 | <sub>&#64;Thutmose · 709</sub> | 22 Nov 2026 |
+| 🇰🇳 [St. Kitts &amp; Nevis](./st-kitts-nevis.md) | 🟡 Provisional | 6 | <sub>&#64;Thutmose · 709</sub> | 22 Nov 2026 |
 | 🇱🇨 [St. Lucia](./st-lucia.md) | 🟡 Provisional | 9 | <sub>&#64;dortizbarrientos · 145</sub> | 22 Nov 2026 |
 | 🇲🇫 [St. Martin](./st-martin.md) | 🟡 Provisional | 3 | <sub>&#64;maham-kayani · 62</sub> | 22 Nov 2026 |
 | 🇵🇲 [St. Pierre &amp; Miquelon](./st-pierre-miquelon.md) | 🟡 Provisional | 3 | <sub>&#64;Biscuiterie975 · 31</sub> | 25 Nov 2026 |
-| 🇻🇨 [St. Vincent &amp; Grenadines](./st-vincent-grenadines.md) | 🟡 Provisional | 7 | <sub>&#64;2Remus · 305</sub> | 22 Nov 2026 |
-| 🇸🇩 [Sudan](./sudan.md) | 🟡 Provisional | 9 | <sub>&#64;JohnMarit · 452</sub> | 22 Nov 2026 |
+| 🇻🇨 [St. Vincent &amp; Grenadines](./st-vincent-grenadines.md) | 🟡 Provisional | 8 | <sub>&#64;2Remus · 305</sub> | 22 Nov 2026 |
+| 🇸🇩 [Sudan](./sudan.md) | 🟡 Provisional | 10 | <sub>&#64;JohnMarit · 452</sub> | 22 Nov 2026 |
 | 🇸🇷 [Suriname](./suriname.md) | 🟡 Provisional | 9 | <sub>&#64;ragnarok22 · 2.7k</sub> | 22 Nov 2026 |
-| 🇸🇯 [Svalbard &amp; Jan Mayen](./svalbard-jan-mayen.md) | 🟡 Provisional | 11 | <sub>&#64;PrinsFrank · 1.3k</sub> | 22 Nov 2026 |
-| 🇸🇪 [Sweden](./sweden.md) | 🟡 Provisional | 14 | <sub>&#64;onmax · 19k</sub> | 22 Nov 2026 |
-| 🇨🇭 [Switzerland](./switzerland.md) | 🟡 Provisional | 13 | <sub>&#64;jonesbusy · 7.7k</sub> | 22 Nov 2026 |
+| 🇸🇯 [Svalbard &amp; Jan Mayen](./svalbard-jan-mayen.md) | 🟡 Provisional | 12 | <sub>&#64;PrinsFrank · 1.3k</sub> | 22 Nov 2026 |
+| 🇸🇪 [Sweden](./sweden.md) | 🟡 Provisional | 15 | <sub>&#64;onmax · 19k</sub> | 22 Nov 2026 |
+| 🇨🇭 [Switzerland](./switzerland.md) | 🟡 Provisional | 14 | <sub>&#64;jonesbusy · 7.7k</sub> | 22 Nov 2026 |
 | 🇸🇾 [Syria](./syria.md) | 🟡 Provisional | 12 | <sub>&#64;firasuke · 1.3k</sub> | 22 Nov 2026 |
 
 ### T
 
 | Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇹🇼 [Taiwan](./taiwan.md) | 🟡 Provisional | 14 | <sub>&#64;peter279k · 13k</sub> | 22 Nov 2026 |
-| 🇹🇯 [Tajikistan](./tajikistan.md) | 🟡 Provisional | 10 | <sub>&#64;komilovsg · 717</sub> | 23 Nov 2026 |
-| 🇹🇿 [Tanzania](./tanzania.md) | 🟡 Provisional | 12 | <sub>&#64;BaharaJr · 418</sub> | 22 Nov 2026 |
-| 🇹🇭 [Thailand](./thailand.md) | 🟡 Provisional | 14 | <sub>&#64;nazt · 21k</sub> | 22 Nov 2026 |
-| 🇹🇱 [Timor-Leste](./timor-leste.md) | 🟡 Provisional | 7 | <sub>&#64;Noro18 · 1.6k</sub> | 22 Nov 2026 |
+| 🇹🇼 [Taiwan](./taiwan.md) | 🟡 Provisional | 15 | <sub>&#64;peter279k · 13k</sub> | 22 Nov 2026 |
+| 🇹🇯 [Tajikistan](./tajikistan.md) | 🟡 Provisional | 11 | <sub>&#64;komilovsg · 717</sub> | 23 Nov 2026 |
+| 🇹🇿 [Tanzania](./tanzania.md) | 🟡 Provisional | 13 | <sub>&#64;BaharaJr · 418</sub> | 22 Nov 2026 |
+| 🇹🇭 [Thailand](./thailand.md) | 🟡 Provisional | 15 | <sub>&#64;nazt · 21k</sub> | 22 Nov 2026 |
+| 🇹🇱 [Timor-Leste](./timor-leste.md) | 🟡 Provisional | 8 | <sub>&#64;Akokonunes · 2.3k</sub> | 22 Nov 2026 |
 | 🇹🇬 [Togo](./togo.md) | 🟡 Provisional | 11 | <sub>&#64;icichainz · 1.1k</sub> | 22 Nov 2026 |
 | 🇹🇰 [Tokelau](./tokelau.md) | 🟡 Provisional | 4 | <sub>&#64;awise-dorensbach · 2</sub> | 22 Nov 2026 |
 | 🇹🇴 [Tonga](./tonga.md) | 🟡 Provisional | 7 | <sub>&#64;Cartus · 129</sub> | 22 Nov 2026 |
 | 🇹🇹 [Trinidad &amp; Tobago](./trinidad-tobago.md) | 🟡 Provisional | 9 | <sub>&#64;triniwiz · 2.5k</sub> | 23 Nov 2026 |
-| 🇹🇳 [Tunisia](./tunisia.md) | 🟡 Provisional | 11 | <sub>&#64;AzizBenIsmail · 1.5k</sub> | 22 Nov 2026 |
+| 🇹🇳 [Tunisia](./tunisia.md) | 🟡 Provisional | 12 | <sub>&#64;AzizBenIsmail · 1.5k</sub> | 22 Nov 2026 |
 | 🇹🇷 [Türkiye](./turkiye.md) | 🟡 Provisional | 10 | <sub>&#64;alerque · 7.3k</sub> | 22 Nov 2026 |
 | 🇹🇲 [Turkmenistan](./turkmenistan.md) | 🟡 Provisional | 10 | <sub>&#64;realmeylisdev · 5.6k</sub> | 22 Nov 2026 |
 | 🇹🇨 [Turks &amp; Caicos Islands](./turks-caicos-islands.md) | 🟡 Provisional | 4 | <sub>&#64;haktanpolatt · 79</sub> | 23 Nov 2026 |
@@ -352,22 +352,22 @@ Discover GitHub users ranked by public contribution activity.
 | :-- | :-- | --: | :-- | :-- |
 | 🇺🇲 [U.S. Outlying Islands](./u-s-outlying-islands.md) | 🟡 Provisional | 3 | <sub>&#64;realjarvis69 · 139</sub> | 22 Nov 2026 |
 | 🇻🇮 [U.S. Virgin Islands](./u-s-virgin-islands.md) | 🟡 Provisional | 9 | <sub>&#64;blakeg83 · 666</sub> | 22 Nov 2026 |
-| 🇺🇬 [Uganda](./uganda.md) | 🟡 Provisional | 11 | <sub>&#64;MUKE-coder · 4.0k</sub> | 22 Nov 2026 |
-| 🇺🇦 [Ukraine](./ukraine.md) | 🟡 Provisional | 11 | <sub>&#64;ViktorSvertoka · 1.9k</sub> | 22 Nov 2026 |
-| 🇦🇪 [United Arab Emirates](./united-arab-emirates.md) | 🟡 Provisional | 10 | <sub>&#64;fahdi · 7.3k</sub> | 23 Nov 2026 |
-| 🇬🇧 [United Kingdom](./united-kingdom.md) | 🟡 Provisional | 11 | <sub>&#64;jasonkneen · 7.2k</sub> | 22 Nov 2026 |
-| 🇺🇸 [United States](./united-states.md) | 🟡 Provisional | 8 | <sub>&#64;seanpm2001 · 9.3k</sub> | 22 Nov 2026 |
-| 🇺🇾 [Uruguay](./uruguay.md) | 🟡 Provisional | 12 | <sub>&#64;daedalus · 6.8k</sub> | 22 Nov 2026 |
-| 🇺🇿 [Uzbekistan](./uzbekistan.md) | 🟡 Provisional | 11 | <sub>&#64;CodesByUmar · 70k</sub> | 22 Nov 2026 |
+| 🇺🇬 [Uganda](./uganda.md) | 🟡 Provisional | 12 | <sub>&#64;MUKE-coder · 4.0k</sub> | 22 Nov 2026 |
+| 🇺🇦 [Ukraine](./ukraine.md) | 🟡 Provisional | 12 | <sub>&#64;ViktorSvertoka · 1.9k</sub> | 22 Nov 2026 |
+| 🇦🇪 [United Arab Emirates](./united-arab-emirates.md) | 🟡 Provisional | 11 | <sub>&#64;fahdi · 7.3k</sub> | 23 Nov 2026 |
+| 🇬🇧 [United Kingdom](./united-kingdom.md) | 🟡 Provisional | 12 | <sub>&#64;jasonkneen · 7.2k</sub> | 22 Nov 2026 |
+| 🇺🇸 [United States](./united-states.md) | 🟡 Provisional | 9 | <sub>&#64;seanpm2001 · 9.3k</sub> | 22 Nov 2026 |
+| 🇺🇾 [Uruguay](./uruguay.md) | 🟡 Provisional | 13 | <sub>&#64;daedalus · 6.8k</sub> | 22 Nov 2026 |
+| 🇺🇿 [Uzbekistan](./uzbekistan.md) | 🟡 Provisional | 12 | <sub>&#64;CodesByUmar · 70k</sub> | 22 Nov 2026 |
 
 ### V
 
 | Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇻🇺 [Vanuatu](./vanuatu.md) | 🟡 Provisional | 6 | <sub>&#64;jah-ky · 483</sub> | 22 Nov 2026 |
-| 🇻🇦 [Vatican City](./vatican-city.md) | 🟡 Provisional | 8 | <sub>&#64;halavah · 602</sub> | 22 Nov 2026 |
-| 🇻🇪 [Venezuela](./venezuela.md) | 🟡 Provisional | 10 | <sub>&#64;danestves · 3.1k</sub> | 22 Nov 2026 |
-| 🇻🇳 [Vietnam](./vietnam.md) | 🟡 Provisional | 12 | <sub>&#64;tamnd · 82k</sub> | 22 Nov 2026 |
+| 🇻🇺 [Vanuatu](./vanuatu.md) | 🟡 Provisional | 7 | <sub>&#64;jah-ky · 483</sub> | 22 Nov 2026 |
+| 🇻🇦 [Vatican City](./vatican-city.md) | 🟡 Provisional | 9 | <sub>&#64;mateitheking · 646</sub> | 22 Nov 2026 |
+| 🇻🇪 [Venezuela](./venezuela.md) | 🟡 Provisional | 11 | <sub>&#64;danestves · 3.1k</sub> | 22 Nov 2026 |
+| 🇻🇳 [Vietnam](./vietnam.md) | 🟡 Provisional | 13 | <sub>&#64;tamnd · 82k</sub> | 22 Nov 2026 |
 
 ### W
 
@@ -380,14 +380,14 @@ Discover GitHub users ranked by public contribution activity.
 
 | Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇾🇪 [Yemen](./yemen.md) | 🟡 Provisional | 11 | <sub>&#64;hishamco · 1.3k</sub> | 22 Nov 2026 |
+| 🇾🇪 [Yemen](./yemen.md) | 🟡 Provisional | 12 | <sub>&#64;hishamco · 1.3k</sub> | 22 Nov 2026 |
 
 ### Z
 
 | Country | Status | Contributors | Leader | Verified |
 | :-- | :-- | --: | :-- | :-- |
-| 🇿🇲 [Zambia](./zambia.md) | 🟡 Provisional | 9 | <sub>&#64;ritchiemwewa · 865</sub> | 22 Nov 2026 |
-| 🇿🇼 [Zimbabwe](./zimbabwe.md) | 🟡 Provisional | 10 | <sub>&#64;iamngoni · 4.7k</sub> | 22 Nov 2026 |
+| 🇿🇲 [Zambia](./zambia.md) | 🟡 Provisional | 10 | <sub>&#64;engineervix · 2.3k</sub> | 22 Nov 2026 |
+| 🇿🇼 [Zimbabwe](./zimbabwe.md) | 🟡 Provisional | 11 | <sub>&#64;iamngoni · 4.7k</sub> | 22 Nov 2026 |
 
 <details>
 <summary><b>Status definitions</b></summary>

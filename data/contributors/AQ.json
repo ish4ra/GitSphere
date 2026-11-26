@@ -5,9 +5,9 @@
 "country": {"code":"AQ","name":"Antarctica","slug":"antarctica"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":402,"measuredAccounts":22,"measurementBacklog":380,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":14,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":397,"measuredAccounts":24,"measurementBacklog":373,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":14,"unresolved":0}},
 "users": [
-  {"rank":1,"id":"MDQ6VXNlcjc5NzE5Mw==","login":"nvk","name":null,"url":"https://github.com/nvk","avatarUrl":"https://avatars.githubusercontent.com/u/797193?s=80&v=4","followers":536,"publicRepos":136,"location":"🇦🇶","attribution":{"confidence":"high","evidence":"flag-emoji"},"verifiedOn":"2026-11-24","contributions":{"public":1096,"commits":961,"pullRequests":85,"reviews":14,"issues":7,"repositories":29,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
+  {"rank":1,"id":"MDQ6VXNlcjc5NzE5Mw==","login":"nvk","name":null,"url":"https://github.com/nvk","avatarUrl":"https://avatars.githubusercontent.com/u/797193?s=80&v=4","followers":536,"publicRepos":136,"location":"🇦🇶","attribution":{"confidence":"high","evidence":"flag-emoji"},"verifiedOn":"2026-11-26","contributions":{"public":1096,"commits":961,"pullRequests":85,"reviews":14,"issues":7,"repositories":29,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":2,"id":"MDQ6VXNlcjE1Mzg4OTI4","login":"DenzelPenzel","name":null,"url":"https://github.com/DenzelPenzel","avatarUrl":"https://avatars.githubusercontent.com/u/15388928?s=80&v=4","followers":176,"publicRepos":64,"location":"Antarctica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26","contributions":{"public":524,"commits":257,"pullRequests":135,"reviews":85,"issues":39,"repositories":8,"windowFrom":"2025-11-26T00:00:00Z","windowTo":"2026-11-26T00:00:00Z","measuredOn":"2026-11-26"}},
   {"rank":3,"id":"MDQ6VXNlcjg5Nzk2Mzkz","login":"bestruirui","name":"BESTRUI","url":"https://github.com/bestruirui","avatarUrl":"https://avatars.githubusercontent.com/u/89796393?s=80&v=4","followers":125,"publicRepos":24,"location":"Antarctica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26","contributions":{"public":453,"commits":425,"pullRequests":5,"reviews":3,"issues":6,"repositories":14,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":4,"id":"MDQ6VXNlcjM1NDAyMjQ4","login":"r-lyeh","name":null,"url":"https://github.com/r-lyeh","avatarUrl":"https://avatars.githubusercontent.com/u/35402248?s=80&v=4","followers":462,"publicRepos":28,"location":"Vostok, Antarctica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25","contributions":{"public":336,"commits":316,"pullRequests":6,"reviews":1,"issues":7,"repositories":6,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
@@ -22,8 +22,8 @@
   {"rank":13,"id":"U_kgDODTyqsw","login":"4b686f61-2c1b","name":"Candice","url":"https://github.com/4b686f61-2c1b","avatarUrl":"https://avatars.githubusercontent.com/u/222079667?s=80&v=4","followers":0,"publicRepos":6,"location":"Antarctica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26","contributions":{"public":8,"commits":3,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-26T00:00:00Z","windowTo":"2026-11-26T00:00:00Z","measuredOn":"2026-11-26"}},
   {"rank":14,"id":"MDQ6VXNlcjg1NDM2MjQ3","login":"0DamI0","name":"DamI","url":"https://github.com/0DamI0","avatarUrl":"https://avatars.githubusercontent.com/u/85436247?s=80&v=4","followers":0,"publicRepos":1,"location":"Antarctica","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "85b878de4854daf5",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "89c34cb30e1e65ba",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

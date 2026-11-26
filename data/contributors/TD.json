@@ -5,7 +5,7 @@
 "country": {"code":"TD","name":"Chad","slug":"chad"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":163,"measuredAccounts":21,"measurementBacklog":142,"window":{"from":"2025-11-23T13:00:00Z","to":"2026-11-23T13:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":74,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":163,"measuredAccounts":23,"measurementBacklog":140,"window":{"from":"2025-11-23T13:00:00Z","to":"2026-11-23T13:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":74,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOB3qsFg","login":"adoumouangnamouemmanuel","name":"Emmanuel Adoum","url":"https://github.com/adoumouangnamouemmanuel","avatarUrl":"https://avatars.githubusercontent.com/u/125479958?s=80&v=4","followers":28,"publicRepos":59,"location":"Chad","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":1297,"commits":1230,"pullRequests":9,"reviews":1,"issues":42,"repositories":15,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":2,"id":"MDQ6VXNlcjYwODU3OTMx","login":"Sanusihassan","name":"Sanusi Hassan","url":"https://github.com/Sanusihassan","avatarUrl":"https://avatars.githubusercontent.com/u/60857931?s=80&v=4","followers":6,"publicRepos":76,"location":"Chad","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":398,"commits":398,"pullRequests":0,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-24T21:00:00Z","windowTo":"2026-11-24T21:00:00Z","measuredOn":"2026-11-24"}},
@@ -20,8 +20,8 @@
   {"rank":11,"id":"U_kgDOCIIqVA","login":"01Hassa","name":"Hassa","url":"https://github.com/01Hassa","avatarUrl":"https://avatars.githubusercontent.com/u/142748244?s=80&v=4","followers":0,"publicRepos":1,"location":"Chad","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":3,"commits":2,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":12,"id":"MDQ6VXNlcjE3MzU0Mjk3","login":"mahamat-ali","name":"Mahamat Ali Youssouf","url":"https://github.com/mahamat-ali","avatarUrl":"https://avatars.githubusercontent.com/u/17354297?s=80&v=4","followers":11,"publicRepos":72,"location":"Ndjamena, Chad","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":2,"commits":1,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T21:00:00Z","windowTo":"2026-11-24T21:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "257987b7deb42428",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "c13c96f688f132bf",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

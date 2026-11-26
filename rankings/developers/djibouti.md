@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/bassim18ramad"><img src="https://avatars.githubusercontent.com/u/85810945?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bassim18ramad"><b>BassimRH</b></a><br><sub>&#64;bassim18ramad</sub></td>
-<td align="right"><b>35</b></td>
+<td align="right"><b>38</b></td>
 <td align="right">14</td>
 <td><sub>Djibouti</sub></td>
 </tr>

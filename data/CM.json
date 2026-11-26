@@ -5,7 +5,7 @@
 "country": {"code":"CM","name":"Cameroon","slug":"cameroon"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":47,"ownerExpansionBacklog":135,"candidates":54,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":115,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":47,"ownerExpansionBacklog":133,"candidates":54,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":115,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOODWSNw","name":"circle","nameWithOwner":"ln-dev7/circle","url":"https://github.com/ln-dev7/circle","description":"UI - Project management interface inspired by Linear. Built with Next.js and shadcn/ui, this application allows tracking of issues, projects and teams.","stars":4771,"forks":507,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2025-03-05T04:21:49Z","pushedAt":"2026-09-04T13:42:14Z","archived":false,"owner":{"login":"ln-dev7","name":"LN","type":"User","url":"https://github.com/ln-dev7","location":"Cameroon","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkyNzQ5NDA0ODk=","name":"NexoPOS","nameWithOwner":"Blair2004/NexoPOS","url":"https://github.com/Blair2004/NexoPOS","description":"Laravel-based web POS system with Vue.js, Tailwind CSS, inventory management, sales processing, customer records, reports, and modular extension support.","stars":1310,"forks":587,"primaryLanguage":"PHP","license":{"spdxId":"GPL-3.0"},"createdAt":"2020-06-25T14:40:59Z","pushedAt":"2026-11-22T17:14:30Z","archived":false,"owner":{"login":"Blair2004","name":"Blair Jersyer","type":"User","url":"https://github.com/Blair2004","location":"Cameroon. Yaoundé","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-23"},
@@ -62,8 +62,8 @@
   {"rank":53,"id":null,"name":"Distributed-System-with-UDP","nameWithOwner":"Berry-Naura/Distributed-System-with-UDP","url":"https://github.com/Berry-Naura/Distributed-System-with-UDP","description":null,"stars":1,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2025-06-19T14:35:57Z","pushedAt":"2025-06-19T14:46:31Z","archived":false,"owner":{"login":"Berry-Naura","name":"Timah Berry Naura Enyauh","type":"User","url":"https://github.com/Berry-Naura","location":"Buea, Cameroon","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":54,"id":null,"name":"TO-DO-app","nameWithOwner":"BesongOscar/TO-DO-app","url":"https://github.com/BesongOscar/TO-DO-app","description":null,"stars":1,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2025-07-22T00:07:08Z","pushedAt":"2026-06-13T02:38:01Z","archived":false,"owner":{"login":"BesongOscar","name":"Besong Oscar-Wilde","type":"User","url":"https://github.com/BesongOscar","location":"Buea/Cameroon","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "a31f0aa3fa435263",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "436bbb5e1b75e6a3",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-04",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

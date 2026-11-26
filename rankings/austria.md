@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/AT.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/AT.json">JSON</a> |
 
 </div>
 
@@ -675,14 +675,14 @@
 <tr>
 <td align="right">94</td>
 <td><img src="https://github.com/fr3ts0n.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fr3ts0n/AndrOBD"><b>fr3ts0n/AndrOBD</b></a><br><sub>Android OBD diagnostics with any ELM327 adapter</sub></td>
-<td align="right"><b>2,202</b></td>
+<td align="right"><b>2,205</b></td>
 <td align="right">427</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">95</td>
 <td><img src="https://github.com/githubharald.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/githubharald/SimpleHTR"><b>githubharald/SimpleHTR</b></a><br><sub>Handwritten Text Recognition (HTR) system implemented with TensorFlow.</sub></td>
-<td align="right"><b>2,193</b></td>
+<td align="right"><b>2,191</b></td>
 <td align="right">910</td>
 <td>Python</td>
 </tr>
@@ -703,7 +703,7 @@
 <tr>
 <td align="right">98</td>
 <td><img src="https://github.com/glennreyes.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/glennreyes/react-countup"><b>glennreyes/react-countup</b></a><br><sub>💫 A configurable React component wrapper around CountUp.js</sub></td>
-<td align="right"><b>2,072</b></td>
+<td align="right"><b>2,070</b></td>
 <td align="right">138</td>
 <td>JavaScript</td>
 </tr>
@@ -716,10 +716,10 @@
 </tr>
 <tr>
 <td align="right">100</td>
-<td><img src="https://github.com/nezhar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nezhar/wordpress-docker-compose"><b>nezhar/wordpress-docker-compose</b></a><br><sub>Easy Wordpress development with Docker and Docker Compose</sub></td>
-<td align="right"><b>2,035</b></td>
-<td align="right">1,360</td>
-<td>Shell</td>
+<td><img src="https://github.com/opensheetmusicdisplay.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/opensheetmusicdisplay/opensheetmusicdisplay"><b>opensheetmusicdisplay/opensheetmusicdisplay</b></a><br><sub>OpenSheetMusicDisplay renders sheet music in MusicXML format in browsers and headless with NodeJS. Based on VexFlow, OS…</sub></td>
+<td align="right"><b>2,037</b></td>
+<td align="right">391</td>
+<td>TypeScript</td>
 </tr>
 </tbody>
 </table>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 2,035 stars; 150 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 2,037 stars; 150 attributed candidates are tracked.
 - 129 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 148 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

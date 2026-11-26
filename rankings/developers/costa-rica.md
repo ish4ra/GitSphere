@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **33** | 22 Nov 2026 | <a href="../../data/developers/CR.json">JSON</a> |
+| 🟡 Provisional | **34** | 22 Nov 2026 | <a href="../../data/developers/CR.json">JSON</a> |
 
 </div>
 
@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/Klerith"><img src="https://avatars.githubusercontent.com/u/3438503?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Klerith"><b>Fernando Herrera</b></a><br><sub>&#64;Klerith</sub></td>
-<td align="right"><b>15,635</b></td>
+<td align="right"><b>15,638</b></td>
 <td align="right">579</td>
 <td><sub>Costa Rica</sub></td>
 </tr>
@@ -66,7 +66,7 @@
 <tr>
 <td align="right">7</td>
 <td><a href="https://github.com/r0r0x-xx"><img src="https://avatars.githubusercontent.com/u/55760024?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/r0r0x-xx"><b>r0r0x</b></a><br><sub>&#64;r0r0x-xx</sub></td>
-<td align="right"><b>460</b></td>
+<td align="right"><b>461</b></td>
 <td align="right">21</td>
 <td><sub>Costa Rica</sub></td>
 </tr>
@@ -149,104 +149,111 @@
 </tr>
 <tr>
 <td align="right">19</td>
+<td><a href="https://github.com/thoughtpunch"><img src="https://avatars.githubusercontent.com/u/140802?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thoughtpunch"><b>Dan Barrett</b></a><br><sub>&#64;thoughtpunch</sub></td>
+<td align="right"><b>152</b></td>
+<td align="right">36</td>
+<td><sub>Costa Rica</sub></td>
+</tr>
+<tr>
+<td align="right">20</td>
 <td><a href="https://github.com/darkguy2008"><img src="https://avatars.githubusercontent.com/u/6304136?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/darkguy2008"><b>Alemar</b></a><br><sub>&#64;darkguy2008</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">0</td>
 <td><sub>Costa Rica</sub></td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">21</td>
 <td><a href="https://github.com/cafali"><img src="https://avatars.githubusercontent.com/u/77307171?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cafali"><b>cafali</b></a><br><sub>&#64;cafali</sub></td>
 <td align="right"><b>21</b></td>
 <td align="right">0</td>
 <td><sub>Andromeda</sub></td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">22</td>
 <td><a href="https://github.com/crsolver"><img src="https://avatars.githubusercontent.com/u/55001967?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/crsolver"><b>crsolver</b></a><br><sub>&#64;crsolver</sub></td>
 <td align="right"><b>17</b></td>
 <td align="right">0</td>
 <td><sub>Costa Rica</sub></td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">23</td>
 <td><a href="https://github.com/SRZpeedTEC"><img src="https://avatars.githubusercontent.com/u/167647761?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SRZpeedTEC"><b>Santiago Boza Quirós</b></a><br><sub>&#64;SRZpeedTEC</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">20</td>
 <td><sub>Guadalupe, Cartago, Costa Rica</sub></td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">24</td>
 <td><a href="https://github.com/yubank98"><img src="https://avatars.githubusercontent.com/u/55451921?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yubank98"><b>Michael Yubank</b></a><br><sub>&#64;yubank98</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">18</td>
 <td><sub>Liberia,Guanacaste,Costa Rica</sub></td>
 </tr>
 <tr>
-<td align="right">24</td>
+<td align="right">25</td>
 <td><a href="https://github.com/michmoca"><img src="https://avatars.githubusercontent.com/u/2334287?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/michmoca"><b>Michael Montes</b></a><br><sub>&#64;michmoca</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">21</td>
 <td><sub>Liberia, Guanacaste, Costa Rica</sub></td>
 </tr>
 <tr>
-<td align="right">25</td>
+<td align="right">26</td>
 <td><a href="https://github.com/YersonGamboa"><img src="https://avatars.githubusercontent.com/u/216082159?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YersonGamboa"><b>Yerson Gamboa Castillo</b></a><br><sub>&#64;YersonGamboa</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">1</td>
 <td><sub>Liberia, Guanacaste, Costa Rica</sub></td>
 </tr>
 <tr>
-<td align="right">26</td>
+<td align="right">27</td>
 <td><a href="https://github.com/AustinPonce"><img src="https://avatars.githubusercontent.com/u/167488463?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AustinPonce"><b>Austin Antonio Carrillo Ponce</b></a><br><sub>&#64;AustinPonce</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">18</td>
 <td><sub>Liberia, Guanacaste, Costa Rica</sub></td>
 </tr>
 <tr>
-<td align="right">27</td>
+<td align="right">28</td>
 <td><a href="https://github.com/Fabricio-Alvarez"><img src="https://avatars.githubusercontent.com/u/181508850?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Fabricio-Alvarez"><b>Fabricio Álvarez Ruiz</b></a><br><sub>&#64;Fabricio-Alvarez</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">18</td>
 <td><sub>Liberia, Guanacaste, Costa Rica</sub></td>
 </tr>
 <tr>
-<td align="right">28</td>
+<td align="right">29</td>
 <td><a href="https://github.com/StiffOtarola"><img src="https://avatars.githubusercontent.com/u/276459078?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/StiffOtarola"><b>StiffOtarola</b></a><br><sub>&#64;StiffOtarola</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">5</td>
 <td><sub>Liberia, Guanacaste, Costa Rica</sub></td>
 </tr>
 <tr>
-<td align="right">29</td>
+<td align="right">30</td>
 <td><a href="https://github.com/KendallViales"><img src="https://avatars.githubusercontent.com/u/141675240?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KendallViales"><b>Kendall Josue Viales Berroteran</b></a><br><sub>&#64;KendallViales</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">24</td>
 <td><sub>Liberia, Guanacaste, Costa Rica</sub></td>
 </tr>
 <tr>
-<td align="right">30</td>
+<td align="right">31</td>
 <td><a href="https://github.com/lary12-code"><img src="https://avatars.githubusercontent.com/u/105029668?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lary12-code"><b>Larissa Segura</b></a><br><sub>&#64;lary12-code</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Liberia, Guanacaste , Costa Rica</sub></td>
 </tr>
 <tr>
-<td align="right">31</td>
+<td align="right">32</td>
 <td><a href="https://github.com/1730ButterflyShop"><img src="https://avatars.githubusercontent.com/u/245038684?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/1730ButterflyShop"><b>Butterfly Shop</b></a><br><sub>&#64;1730ButterflyShop</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Urk Kuru, Guadalupe. San José-Costa Rica</sub></td>
 </tr>
 <tr>
-<td align="right">32</td>
+<td align="right">33</td>
 <td><a href="https://github.com/Larissa24-ing"><img src="https://avatars.githubusercontent.com/u/177079164?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Larissa24-ing"><b>Larissa Segura Arguello</b></a><br><sub>&#64;Larissa24-ing</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Liberia, Guanacaste , Costa Rica</sub></td>
 </tr>
 <tr>
-<td align="right">33</td>
+<td align="right">34</td>
 <td><a href="https://github.com/maikolfg"><img src="https://avatars.githubusercontent.com/u/108301375?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maikolfg"><b>Maikol A. Fajardo Gomez</b></a><br><sub>&#64;maikolfg</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -260,7 +267,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 33 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 34 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 58 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

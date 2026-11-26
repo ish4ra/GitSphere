@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **194** | 24 Nov 2026 | <a href="../../data/developers/NC.json">JSON</a> |
+| 🟡 Provisional | **197** | 24 Nov 2026 | <a href="../../data/developers/NC.json">JSON</a> |
 
 </div>
 
@@ -772,608 +772,629 @@
 </tr>
 <tr>
 <td align="right">108</td>
+<td><a href="https://github.com/chickendicaprio"><img src="https://avatars.githubusercontent.com/u/181612284?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chickendicaprio"><b>chickendicaprio</b></a><br><sub>&#64;chickendicaprio</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">5</td>
+<td><sub>Nieuw-Caledonië (NC)</sub></td>
+</tr>
+<tr>
+<td align="right">109</td>
 <td><a href="https://github.com/eparama"><img src="https://avatars.githubusercontent.com/u/15098674?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eparama"><b>Eparama Loganimoce</b></a><br><sub>&#64;eparama</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Noumea, New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">109</td>
+<td align="right">110</td>
 <td><a href="https://github.com/mubokoxstevenbaker"><img src="https://avatars.githubusercontent.com/u/182712879?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mubokoxstevenbaker"><b>mubokoxstevenbaker</b></a><br><sub>&#64;mubokoxstevenbaker</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>New Caledonia (NC)</sub></td>
 </tr>
 <tr>
-<td align="right">110</td>
+<td align="right">111</td>
 <td><a href="https://github.com/nikhelnc"><img src="https://avatars.githubusercontent.com/u/21002872?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nikhelnc"><b>Nicolas HELLOUIN</b></a><br><sub>&#64;nikhelnc</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">111</td>
+<td align="right">112</td>
 <td><a href="https://github.com/romain-lavoix"><img src="https://avatars.githubusercontent.com/u/92861064?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/romain-lavoix"><b>Romain Lavoix</b></a><br><sub>&#64;romain-lavoix</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Noumea, New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">112</td>
+<td align="right">113</td>
 <td><a href="https://github.com/LaurentHP-Martin"><img src="https://avatars.githubusercontent.com/u/77715595?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LaurentHP-Martin"><b>Laurent Martin</b></a><br><sub>&#64;LaurentHP-Martin</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">113</td>
+<td align="right">114</td>
 <td><a href="https://github.com/Loumaah"><img src="https://avatars.githubusercontent.com/u/44566155?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Loumaah"><b>Marie-Lou</b></a><br><sub>&#64;Loumaah</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Nouméa, New-Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">114</td>
+<td align="right">115</td>
+<td><a href="https://github.com/mandemadhudayk"><img src="https://avatars.githubusercontent.com/u/183442551?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mandemadhudayk"><b>mandemadhudayk</b></a><br><sub>&#64;mandemadhudayk</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Nieuw-Caledonië (NC)</sub></td>
+</tr>
+<tr>
+<td align="right">116</td>
 <td><a href="https://github.com/Salviaviridis"><img src="https://avatars.githubusercontent.com/u/154734626?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Salviaviridis"><b>Salviaviridis</b></a><br><sub>&#64;Salviaviridis</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">115</td>
+<td align="right">117</td>
 <td><a href="https://github.com/chervince"><img src="https://avatars.githubusercontent.com/u/33560587?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chervince"><b>Chervince</b></a><br><sub>&#64;chervince</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">116</td>
+<td align="right">118</td>
 <td><a href="https://github.com/Loicetudiant0"><img src="https://avatars.githubusercontent.com/u/172724534?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Loicetudiant0"><b>Lansaque--Boulanger Loïc</b></a><br><sub>&#64;Loicetudiant0</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>New-Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">117</td>
+<td align="right">119</td>
 <td><a href="https://github.com/LSDevNoumea"><img src="https://avatars.githubusercontent.com/u/7620472?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LSDevNoumea"><b>Lixon Jean-Yves</b></a><br><sub>&#64;LSDevNoumea</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">118</td>
+<td align="right">120</td>
 <td><a href="https://github.com/mbretegnier"><img src="https://avatars.githubusercontent.com/u/18636728?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mbretegnier"><b>Bret</b></a><br><sub>&#64;mbretegnier</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>New caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">119</td>
+<td align="right">121</td>
 <td><a href="https://github.com/nor368ausgekontert"><img src="https://avatars.githubusercontent.com/u/154700749?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nor368ausgekontert"><b>nor368ausgekontert</b></a><br><sub>&#64;nor368ausgekontert</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">120</td>
+<td align="right">122</td>
 <td><a href="https://github.com/sio-nc"><img src="https://avatars.githubusercontent.com/u/9873313?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sio-nc"><b>Sioeli Tonga</b></a><br><sub>&#64;sio-nc</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Noumea, New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">121</td>
+<td align="right">123</td>
+<td><a href="https://github.com/tailerchester"><img src="https://avatars.githubusercontent.com/u/183310626?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tailerchester"><b>tailerchester</b></a><br><sub>&#64;tailerchester</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">3</td>
+<td><sub>Nieuw-Caledonië (NC)</sub></td>
+</tr>
+<tr>
+<td align="right">124</td>
 <td><a href="https://github.com/colleyfalasi"><img src="https://avatars.githubusercontent.com/u/5008951?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/colleyfalasi"><b>Colley Falasi</b></a><br><sub>&#64;colleyfalasi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Noumea, New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">122</td>
+<td align="right">125</td>
 <td><a href="https://github.com/dclik"><img src="https://avatars.githubusercontent.com/u/5433077?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dclik"><b>dclik</b></a><br><sub>&#64;dclik</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">123</td>
+<td align="right">126</td>
 <td><a href="https://github.com/emavinnundesputed"><img src="https://avatars.githubusercontent.com/u/183370081?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/emavinnundesputed"><b>emavinnundesputed</b></a><br><sub>&#64;emavinnundesputed</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>New Caledonia (NC)</sub></td>
 </tr>
 <tr>
-<td align="right">124</td>
+<td align="right">127</td>
 <td><a href="https://github.com/enumanc"><img src="https://avatars.githubusercontent.com/u/1041828?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/enumanc"><b>Numa NC</b></a><br><sub>&#64;enumanc</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">125</td>
+<td align="right">128</td>
 <td><a href="https://github.com/Heywir"><img src="https://avatars.githubusercontent.com/u/5210178?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Heywir"><b>Maxime LENOURY</b></a><br><sub>&#64;Heywir</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">126</td>
+<td align="right">129</td>
 <td><a href="https://github.com/KelThr"><img src="https://avatars.githubusercontent.com/u/245849218?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KelThr"><b>Kelyan</b></a><br><sub>&#64;KelThr</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Nouméa, New-Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">127</td>
+<td align="right">130</td>
 <td><a href="https://github.com/LionelFONT"><img src="https://avatars.githubusercontent.com/u/140565916?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LionelFONT"><b>FONT Lionel</b></a><br><sub>&#64;LionelFONT</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">128</td>
+<td align="right">131</td>
 <td><a href="https://github.com/Reviagent"><img src="https://avatars.githubusercontent.com/u/213387613?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Reviagent"><b>Reviagent</b></a><br><sub>&#64;Reviagent</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Nouméa, New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">129</td>
+<td align="right">132</td>
 <td><a href="https://github.com/SebastianGuillermin"><img src="https://avatars.githubusercontent.com/u/153246091?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SebastianGuillermin"><b>Sebastian Guillermin</b></a><br><sub>&#64;SebastianGuillermin</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Noumea, New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">130</td>
+<td align="right">133</td>
 <td><a href="https://github.com/SylvainAGO"><img src="https://avatars.githubusercontent.com/u/6326493?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SylvainAGO"><b>Sylvain Agostini</b></a><br><sub>&#64;SylvainAGO</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Nouméa, New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">131</td>
+<td align="right">134</td>
 <td><a href="https://github.com/trebron77"><img src="https://avatars.githubusercontent.com/u/43228795?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/trebron77"><b>Trebron77</b></a><br><sub>&#64;trebron77</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>New caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">132</td>
+<td align="right">135</td>
 <td><a href="https://github.com/5048tea"><img src="https://avatars.githubusercontent.com/u/112912491?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/5048tea"><b>Mara</b></a><br><sub>&#64;5048tea</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>New-Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">133</td>
+<td align="right">136</td>
 <td><a href="https://github.com/aldebiruka"><img src="https://avatars.githubusercontent.com/u/22045734?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aldebiruka"><b>Eric AUVINET</b></a><br><sub>&#64;aldebiruka</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">134</td>
+<td align="right">137</td>
 <td><a href="https://github.com/beezybits"><img src="https://avatars.githubusercontent.com/u/93962404?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/beezybits"><b>beezybits</b></a><br><sub>&#64;beezybits</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nouméa, New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">135</td>
+<td align="right">138</td>
 <td><a href="https://github.com/benfromlafabrik"><img src="https://avatars.githubusercontent.com/u/20805214?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/benfromlafabrik"><b>Benjamin LEROY</b></a><br><sub>&#64;benfromlafabrik</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">136</td>
+<td align="right">139</td>
 <td><a href="https://github.com/ColinMillar"><img src="https://avatars.githubusercontent.com/u/4693154?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ColinMillar"><b>Colin Millar</b></a><br><sub>&#64;ColinMillar</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Noumea, New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">137</td>
+<td align="right">140</td>
 <td><a href="https://github.com/cverons"><img src="https://avatars.githubusercontent.com/u/20375763?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cverons"><b>Christophe VERONS</b></a><br><sub>&#64;cverons</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">138</td>
+<td align="right">141</td>
 <td><a href="https://github.com/Dev-Aulotte"><img src="https://avatars.githubusercontent.com/u/103875568?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dev-Aulotte"><b>Dev&#39;A&#39;Lot</b></a><br><sub>&#64;Dev-Aulotte</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">139</td>
+<td align="right">142</td>
 <td><a href="https://github.com/ermspc"><img src="https://avatars.githubusercontent.com/u/24216814?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ermspc"><b>Anthony</b></a><br><sub>&#64;ermspc</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">140</td>
+<td align="right">143</td>
 <td><a href="https://github.com/fitnessbg"><img src="https://avatars.githubusercontent.com/u/72287887?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fitnessbg"><b>Solana on chain trading tool for retail</b></a><br><sub>&#64;fitnessbg</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>New caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">141</td>
+<td align="right">144</td>
 <td><a href="https://github.com/FrederiqueLesne"><img src="https://avatars.githubusercontent.com/u/11154108?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FrederiqueLesne"><b>Frederique Lesne Chesher</b></a><br><sub>&#64;FrederiqueLesne</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">142</td>
+<td align="right">145</td>
 <td><a href="https://github.com/hollis-reed580ib"><img src="https://avatars.githubusercontent.com/u/331647026?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hollis-reed580ib"><b>Chen Liu</b></a><br><sub>&#64;hollis-reed580ib</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nouméa, New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">143</td>
+<td align="right">146</td>
 <td><a href="https://github.com/Hukros"><img src="https://avatars.githubusercontent.com/u/30618784?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hukros"><b>Kevin Trochon</b></a><br><sub>&#64;Hukros</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">144</td>
+<td align="right">147</td>
 <td><a href="https://github.com/landrygvvv"><img src="https://avatars.githubusercontent.com/u/332374601?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/landrygvvv"><b>landrygvvv</b></a><br><sub>&#64;landrygvvv</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nouméa, New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">145</td>
+<td align="right">148</td>
 <td><a href="https://github.com/lvt001"><img src="https://avatars.githubusercontent.com/u/86889201?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lvt001"><b>franck</b></a><br><sub>&#64;lvt001</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">146</td>
+<td align="right">149</td>
 <td><a href="https://github.com/mathisneuhauser-design"><img src="https://avatars.githubusercontent.com/u/309542564?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mathisneuhauser-design"><b>Mathis Neuhauser</b></a><br><sub>&#64;mathisneuhauser-design</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">147</td>
+<td align="right">150</td>
 <td><a href="https://github.com/MDPY988"><img src="https://avatars.githubusercontent.com/u/93953910?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MDPY988"><b>Despinoy</b></a><br><sub>&#64;MDPY988</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>New-Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">148</td>
+<td align="right">151</td>
 <td><a href="https://github.com/MONIMEAU"><img src="https://avatars.githubusercontent.com/u/41651574?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MONIMEAU"><b>MONIMEAU Luc</b></a><br><sub>&#64;MONIMEAU</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Noumea - New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">149</td>
+<td align="right">152</td>
 <td><a href="https://github.com/NakNak97"><img src="https://avatars.githubusercontent.com/u/94026383?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NakNak97"><b>NakNak</b></a><br><sub>&#64;NakNak97</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">150</td>
+<td align="right">153</td>
 <td><a href="https://github.com/Xavier-Tiedrez"><img src="https://avatars.githubusercontent.com/u/90236014?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Xavier-Tiedrez"><b>Xavier TIEDREZ</b></a><br><sub>&#64;Xavier-Tiedrez</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">151</td>
+<td align="right">154</td>
 <td><a href="https://github.com/Adam-SPC"><img src="https://avatars.githubusercontent.com/u/19879624?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Adam-SPC"><b>Adam McWilliams</b></a><br><sub>&#64;Adam-SPC</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Noumea, New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">152</td>
+<td align="right">155</td>
 <td><a href="https://github.com/adepoortere"><img src="https://avatars.githubusercontent.com/u/16748587?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adepoortere"><b>Adrien</b></a><br><sub>&#64;adepoortere</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">153</td>
+<td align="right">156</td>
 <td><a href="https://github.com/alain-multipass"><img src="https://avatars.githubusercontent.com/u/88579937?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alain-multipass"><b>Alain&#64;multipass</b></a><br><sub>&#64;alain-multipass</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">154</td>
+<td align="right">157</td>
 <td><a href="https://github.com/AllanPSUD"><img src="https://avatars.githubusercontent.com/u/116125358?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AllanPSUD"><b>Allan</b></a><br><sub>&#64;AllanPSUD</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">155</td>
+<td align="right">158</td>
 <td><a href="https://github.com/Apete-D"><img src="https://avatars.githubusercontent.com/u/278282053?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Apete-D"><b>Apete</b></a><br><sub>&#64;Apete-D</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">156</td>
+<td align="right">159</td>
 <td><a href="https://github.com/Arcancien"><img src="https://avatars.githubusercontent.com/u/22188688?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Arcancien"><b>Louis.T</b></a><br><sub>&#64;Arcancien</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">157</td>
+<td align="right">160</td>
 <td><a href="https://github.com/Arthur2015"><img src="https://avatars.githubusercontent.com/u/10902443?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Arthur2015"><b>Arthur Jorari</b></a><br><sub>&#64;Arthur2015</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Noumea, New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">158</td>
+<td align="right">161</td>
 <td><a href="https://github.com/AuxenceNC"><img src="https://avatars.githubusercontent.com/u/177265415?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AuxenceNC"><b>Auxence</b></a><br><sub>&#64;AuxenceNC</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">159</td>
+<td align="right">162</td>
 <td><a href="https://github.com/bryanscott"><img src="https://avatars.githubusercontent.com/u/1064184?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bryanscott"><b>Bryan Scott</b></a><br><sub>&#64;bryanscott</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Noumea, New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">160</td>
+<td align="right">163</td>
 <td><a href="https://github.com/cassandra07"><img src="https://avatars.githubusercontent.com/u/50558900?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cassandra07"><b>Cassandra LAMATAKI</b></a><br><sub>&#64;cassandra07</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Nouméa, New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">161</td>
+<td align="right">164</td>
 <td><a href="https://github.com/Clementinais"><img src="https://avatars.githubusercontent.com/u/15724549?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Clementinais"><b>Clementina Pedrosa</b></a><br><sub>&#64;Clementinais</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>new caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">162</td>
+<td align="right">165</td>
 <td><a href="https://github.com/DamienOpsNc"><img src="https://avatars.githubusercontent.com/u/272940261?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DamienOpsNc"><b>Damien</b></a><br><sub>&#64;DamienOpsNc</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Noumea, New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">163</td>
+<td align="right">166</td>
 <td><a href="https://github.com/dico-hubnc"><img src="https://avatars.githubusercontent.com/u/108306599?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dico-hubnc"><b>Dico</b></a><br><sub>&#64;dico-hubnc</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>New-Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">164</td>
+<td align="right">167</td>
 <td><a href="https://github.com/EdwinBOEUF"><img src="https://avatars.githubusercontent.com/u/6755118?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EdwinBOEUF"><b>Numea</b></a><br><sub>&#64;EdwinBOEUF</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">165</td>
+<td align="right">168</td>
 <td><a href="https://github.com/Ewen-gnc"><img src="https://avatars.githubusercontent.com/u/119558999?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ewen-gnc"><b>Ewen</b></a><br><sub>&#64;Ewen-gnc</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">166</td>
+<td align="right">169</td>
 <td><a href="https://github.com/fatehgouasmi"><img src="https://avatars.githubusercontent.com/u/25945341?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fatehgouasmi"><b>fateh.gouasmi</b></a><br><sub>&#64;fatehgouasmi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>NEW CALEDONIA</sub></td>
 </tr>
 <tr>
-<td align="right">167</td>
+<td align="right">170</td>
 <td><a href="https://github.com/gaelcost"><img src="https://avatars.githubusercontent.com/u/5902436?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gaelcost"><b>Gael COST</b></a><br><sub>&#64;gaelcost</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">168</td>
+<td align="right">171</td>
 <td><a href="https://github.com/gassl98800"><img src="https://avatars.githubusercontent.com/u/180893615?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gassl98800"><b>Laurent</b></a><br><sub>&#64;gassl98800</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">169</td>
+<td align="right">172</td>
 <td><a href="https://github.com/hooligan899"><img src="https://avatars.githubusercontent.com/u/28679690?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hooligan899"><b>hooligan899</b></a><br><sub>&#64;hooligan899</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">170</td>
+<td align="right">173</td>
 <td><a href="https://github.com/houysy"><img src="https://avatars.githubusercontent.com/u/90165900?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/houysy"><b>houysy</b></a><br><sub>&#64;houysy</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">171</td>
+<td align="right">174</td>
 <td><a href="https://github.com/isi-developper"><img src="https://avatars.githubusercontent.com/u/60078567?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/isi-developper"><b>isi-dev</b></a><br><sub>&#64;isi-developper</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Noumea, New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">172</td>
+<td align="right">175</td>
 <td><a href="https://github.com/LaureTiki"><img src="https://avatars.githubusercontent.com/u/7684662?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LaureTiki"><b>Laure Rodrigues</b></a><br><sub>&#64;LaureTiki</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">173</td>
+<td align="right">176</td>
 <td><a href="https://github.com/mathieu-barret-gouv-nc"><img src="https://avatars.githubusercontent.com/u/161674396?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mathieu-barret-gouv-nc"><b>Mathieu Barret</b></a><br><sub>&#64;mathieu-barret-gouv-nc</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Noumea, New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">174</td>
+<td align="right">177</td>
 <td><a href="https://github.com/mathieufab"><img src="https://avatars.githubusercontent.com/u/37784559?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mathieufab"><b>mathieufab</b></a><br><sub>&#64;mathieufab</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">175</td>
+<td align="right">178</td>
 <td><a href="https://github.com/mu-chter"><img src="https://avatars.githubusercontent.com/u/246047349?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mu-chter"><b>Brayan Spencer</b></a><br><sub>&#64;mu-chter</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Oceanside, New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">176</td>
+<td align="right">179</td>
 <td><a href="https://github.com/mynetnc"><img src="https://avatars.githubusercontent.com/u/68670131?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mynetnc"><b>mynetnc</b></a><br><sub>&#64;mynetnc</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Noumea, New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">177</td>
+<td align="right">180</td>
 <td><a href="https://github.com/nolan830p"><img src="https://avatars.githubusercontent.com/u/329908004?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nolan830p"><b>Nadia Dubois</b></a><br><sub>&#64;nolan830p</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Nouméa, New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">178</td>
+<td align="right">181</td>
 <td><a href="https://github.com/Numerobis98"><img src="https://avatars.githubusercontent.com/u/95731338?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Numerobis98"><b>Numerobis98</b></a><br><sub>&#64;Numerobis98</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>New caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">179</td>
+<td align="right">182</td>
 <td><a href="https://github.com/omixanalytics"><img src="https://avatars.githubusercontent.com/u/159746393?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/omixanalytics"><b>OmixAnalytics</b></a><br><sub>&#64;omixanalytics</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Nouméa, New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">180</td>
+<td align="right">183</td>
 <td><a href="https://github.com/opvanc"><img src="https://avatars.githubusercontent.com/u/127392111?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/opvanc"><b>opvanc</b></a><br><sub>&#64;opvanc</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">181</td>
+<td align="right">184</td>
 <td><a href="https://github.com/Paulinewisp"><img src="https://avatars.githubusercontent.com/u/82032766?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Paulinewisp"><b>Pauline Wisp</b></a><br><sub>&#64;Paulinewisp</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">182</td>
+<td align="right">185</td>
 <td><a href="https://github.com/pierromanu"><img src="https://avatars.githubusercontent.com/u/33208626?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pierromanu"><b>Pierre-Emmanuel DEGRYSE</b></a><br><sub>&#64;pierromanu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>New-Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">183</td>
+<td align="right">186</td>
 <td><a href="https://github.com/rodgerhammer"><img src="https://avatars.githubusercontent.com/u/356793934?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rodgerhammer"><b>Rodger HAMMER</b></a><br><sub>&#64;rodgerhammer</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">184</td>
+<td align="right">187</td>
 <td><a href="https://github.com/roseky"><img src="https://avatars.githubusercontent.com/u/1699573?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/roseky"><b>ricky cuasay</b></a><br><sub>&#64;roseky</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>new caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">185</td>
+<td align="right">188</td>
 <td><a href="https://github.com/rwallace59"><img src="https://avatars.githubusercontent.com/u/160799913?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rwallace59"><b>Rebecca Wallace</b></a><br><sub>&#64;rwallace59</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">186</td>
+<td align="right">189</td>
 <td><a href="https://github.com/SHARP-Hennerick"><img src="https://avatars.githubusercontent.com/u/283920514?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SHARP-Hennerick"><b>Hennerick ROY</b></a><br><sub>&#64;SHARP-Hennerick</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>New caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">187</td>
+<td align="right">190</td>
 <td><a href="https://github.com/sixrandanes"><img src="https://avatars.githubusercontent.com/u/4890664?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sixrandanes"><b>Sylvain</b></a><br><sub>&#64;sixrandanes</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">188</td>
+<td align="right">191</td>
 <td><a href="https://github.com/SSEPPRO"><img src="https://avatars.githubusercontent.com/u/30224629?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SSEPPRO"><b>sseppro</b></a><br><sub>&#64;SSEPPRO</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>New caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">189</td>
+<td align="right">192</td>
 <td><a href="https://github.com/strzempek"><img src="https://avatars.githubusercontent.com/u/33715938?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/strzempek"><b>Patrick</b></a><br><sub>&#64;strzempek</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">190</td>
+<td align="right">193</td>
 <td><a href="https://github.com/VilliX3S"><img src="https://avatars.githubusercontent.com/u/74745791?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VilliX3S"><b>William</b></a><br><sub>&#64;VilliX3S</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>New-Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">191</td>
+<td align="right">194</td>
 <td><a href="https://github.com/vincenttrouillat"><img src="https://avatars.githubusercontent.com/u/17733177?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vincenttrouillat"><b>Vincent</b></a><br><sub>&#64;vincenttrouillat</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>New caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">192</td>
+<td align="right">195</td>
 <td><a href="https://github.com/wugbfps81uwkk"><img src="https://avatars.githubusercontent.com/u/321597606?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wugbfps81uwkk"><b>Julia Richards</b></a><br><sub>&#64;wugbfps81uwkk</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Austinchester, New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">193</td>
+<td align="right">196</td>
 <td><a href="https://github.com/Y-anon"><img src="https://avatars.githubusercontent.com/u/10013976?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Y-anon"><b>Yoann Nouveau</b></a><br><sub>&#64;Y-anon</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Nouméa, New Caledonia</sub></td>
 </tr>
 <tr>
-<td align="right">194</td>
+<td align="right">197</td>
 <td><a href="https://github.com/Yoan-VDNnc"><img src="https://avatars.githubusercontent.com/u/60909143?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Yoan-VDNnc"><b>Yoan-VDN.nc</b></a><br><sub>&#64;Yoan-VDNnc</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -1387,8 +1408,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 194 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 1 of 65 in round 1.
+- Organizations are excluded. 197 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 4 of 65 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

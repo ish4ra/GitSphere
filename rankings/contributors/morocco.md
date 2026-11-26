@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **12** | 22 Nov 2026 | <a href="../../data/contributors/MA.json">JSON</a> |
+| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/MA.json">JSON</a> |
 
 </div>
 
@@ -115,6 +115,15 @@
 </tr>
 <tr>
 <td align="right">11</td>
+<td><a href="https://github.com/ans1genie"><img src="https://avatars.githubusercontent.com/u/16513804?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ans1genie"><b>Anas AIT BAHA</b></a><br><sub>&#64;ans1genie · 150 followers</sub></td>
+<td align="right"><b>11</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">12</td>
 <td><a href="https://github.com/bellaj"><img src="https://avatars.githubusercontent.com/u/16008163?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bellaj"><b>Badr bellaj</b></a><br><sub>&#64;bellaj · 342 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">0</td>
@@ -123,10 +132,19 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/alma4rebi"><img src="https://avatars.githubusercontent.com/u/9637475?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alma4rebi"><b>AlmaGrebi</b></a><br><sub>&#64;alma4rebi · 332 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><a href="https://github.com/akiyamaSM"><img src="https://avatars.githubusercontent.com/u/12276076?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akiyamaSM"><b>Inani El Houssain</b></a><br><sub>&#64;akiyamaSM · 158 followers</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">2</td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
@@ -138,7 +156,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 14 of 551 discovered developers (537 awaiting measurement).
+- **Measured:** 16 of 578 discovered developers (562 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 173 in round 1.

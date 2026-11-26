@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **23** | 22 Nov 2026 | <a href="../../data/developers/BO.json">JSON</a> |
+| 🟡 Provisional | **24** | 22 Nov 2026 | <a href="../../data/developers/BO.json">JSON</a> |
 
 </div>
 
@@ -158,25 +158,32 @@
 <td align="right">20</td>
 <td><a href="https://github.com/alphaonex86"><img src="https://avatars.githubusercontent.com/u/778581?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alphaonex86"><b>BRULE Herman Jacques Roger</b></a><br><sub>&#64;alphaonex86</sub></td>
 <td align="right"><b>71</b></td>
-<td align="right">0</td>
+<td align="right">54</td>
 <td><sub>Santa cruz de la sierra, Bolivia</sub></td>
 </tr>
 <tr>
 <td align="right">21</td>
+<td><a href="https://github.com/Mats2208"><img src="https://avatars.githubusercontent.com/u/197782816?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mats2208"><b>Mateo Andres Soto Gareca</b></a><br><sub>&#64;Mats2208</sub></td>
+<td align="right"><b>17</b></td>
+<td align="right">0</td>
+<td><sub>Santa Cruz, Bolivia</sub></td>
+</tr>
+<tr>
+<td align="right">22</td>
 <td><a href="https://github.com/cuevhv"><img src="https://avatars.githubusercontent.com/u/10300397?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cuevhv"><b>Hanz</b></a><br><sub>&#64;cuevhv</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">64</td>
 <td><sub>Bolivia</sub></td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">23</td>
 <td><a href="https://github.com/02MariaIsabel"><img src="https://avatars.githubusercontent.com/u/90007080?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/02MariaIsabel"><b>María Isabel</b></a><br><sub>&#64;02MariaIsabel</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Bolivia</sub></td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">24</td>
 <td><a href="https://github.com/ph0utthasack-v"><img src="https://avatars.githubusercontent.com/u/75961242?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ph0utthasack-v"><b>Phoutthasack VILAY</b></a><br><sub>&#64;ph0utthasack-v</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
@@ -190,7 +197,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 23 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 24 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 125 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

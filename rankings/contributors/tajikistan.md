@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 23 Nov 2026 | <a href="../../data/contributors/TJ.json">JSON</a> |
+| 🟡 Provisional | **11** | 23 Nov 2026 | <a href="../../data/contributors/TJ.json">JSON</a> |
 
 </div>
 
@@ -70,6 +70,15 @@
 </tr>
 <tr>
 <td align="right">6</td>
+<td><a href="https://github.com/brimmann"><img src="https://avatars.githubusercontent.com/u/58560473?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brimmann"><b>Rashid</b></a><br><sub>&#64;brimmann · 7 followers</sub></td>
+<td align="right"><b>16</b></td>
+<td align="right">15</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/umedsondoniyor"><img src="https://avatars.githubusercontent.com/u/8350817?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/umedsondoniyor"><b>Umedzhon Izbasarov</b></a><br><sub>&#64;umedsondoniyor · 37 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">7</td>
@@ -78,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/a-gabrelian"><img src="https://avatars.githubusercontent.com/u/1751916?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/a-gabrelian"><b>Amal Gabrelian</b></a><br><sub>&#64;a-gabrelian · 0 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">6</td>
@@ -87,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/Abdizayi"><img src="https://avatars.githubusercontent.com/u/271435211?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abdizayi"><b>Abdizayi</b></a><br><sub>&#64;Abdizayi · 0 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">4</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/abbossm"><img src="https://avatars.githubusercontent.com/u/57759801?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abbossm"><b>Abbos</b></a><br><sub>&#64;abbossm · 22 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/AbbosAbduqodirov"><img src="https://avatars.githubusercontent.com/u/326619536?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AbbosAbduqodirov"><b>Abbos Abduqodirov</b></a><br><sub>&#64;AbbosAbduqodirov · 2 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -120,7 +129,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 14 of 396 discovered developers (382 awaiting measurement).
+- **Measured:** 15 of 396 discovered developers (381 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 97 in round 1.

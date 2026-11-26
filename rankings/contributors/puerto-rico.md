@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/PR.json">JSON</a> |
+| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/contributors/PR.json">JSON</a> |
 
 </div>
 
@@ -133,6 +133,15 @@
 </tr>
 <tr>
 <td align="right">13</td>
+<td><a href="https://github.com/FrenzyExists"><img src="https://avatars.githubusercontent.com/u/47986470?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FrenzyExists"><b>Detective Pikachu</b></a><br><sub>&#64;FrenzyExists · 196 followers</sub></td>
+<td align="right"><b>16</b></td>
+<td align="right">11</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td align="right">14</td>
 <td><a href="https://github.com/Sparragus"><img src="https://avatars.githubusercontent.com/u/80982?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sparragus"><b>Richard B. Kaufman-López</b></a><br><sub>&#64;Sparragus · 691 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">1</td>
@@ -141,7 +150,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/oliuz"><img src="https://avatars.githubusercontent.com/u/5214293?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/oliuz"><b>Jose Rosado</b></a><br><sub>&#64;oliuz · 48 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">1</td>
@@ -156,7 +165,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 14 of 405 discovered developers (391 awaiting measurement).
+- **Measured:** 15 of 405 discovered developers (390 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 84 in round 1.

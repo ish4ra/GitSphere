@@ -5,7 +5,7 @@
 "country": {"code":"BV","name":"Bouvet Island","slug":"bouvet-island"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":14,"ownerExpansionBacklog":18,"candidates":14,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":20,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":14,"ownerExpansionBacklog":17,"candidates":14,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":20,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"The-Optional-Disappointment","nameWithOwner":"bijaybartaula/The-Optional-Disappointment","url":"https://github.com/bijaybartaula/The-Optional-Disappointment","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2025-02-03T06:21:24Z","pushedAt":"2025-08-29T06:45:26Z","archived":false,"owner":{"login":"bijaybartaula","name":"Bijay Bartaula","type":"User","url":"https://github.com/bijaybartaula","location":"Bouvet Island","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"anayadoramrdoors","nameWithOwner":"anayadoramrdoors/anayadoramrdoors","url":"https://github.com/anayadoramrdoors/anayadoramrdoors","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-14T10:30:11Z","pushedAt":"2024-09-14T10:30:21Z","archived":false,"owner":{"login":"anayadoramrdoors","name":null,"type":"User","url":"https://github.com/anayadoramrdoors","location":"Bouveteiland (BV)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
@@ -22,8 +22,8 @@
   {"rank":13,"id":null,"name":"trackingRecHitChanges","nameWithOwner":"PixelTracksAlpaka/trackingRecHitChanges","url":"https://github.com/PixelTracksAlpaka/trackingRecHitChanges","description":null,"stars":0,"forks":0,"primaryLanguage":"C++","license":null,"createdAt":"2022-09-29T16:30:02Z","pushedAt":"2022-09-30T06:56:01Z","archived":false,"owner":{"login":"PixelTracksAlpaka","name":"PixelTracksAlpaka","type":"Organization","url":"https://github.com/PixelTracksAlpaka","location":"Bouvet Island","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true},
   {"rank":14,"id":null,"name":"bobo-finance","nameWithOwner":"st3v3ballm3r/bobo-finance","url":"https://github.com/st3v3ballm3r/bobo-finance","description":null,"stars":0,"forks":0,"primaryLanguage":"Solidity","license":null,"createdAt":"2021-05-22T14:39:51Z","pushedAt":"2021-05-25T19:08:33Z","archived":false,"owner":{"login":"st3v3ballm3r","name":"Stev3 Ballm3r","type":"User","url":"https://github.com/st3v3ballm3r","location":"Bouvet Island","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-25","pendingRevalidation":true}
 ],
-"contentHash": "cfd3010fc607a3a1",
-"updatedAt": "2026-11-25T15:11:00.366Z",
+"contentHash": "181bc869eb95fde5",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-10-25",
-"generatedAt": "2026-11-25T15:11:00.366Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

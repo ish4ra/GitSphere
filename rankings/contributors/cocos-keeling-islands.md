@@ -25,7 +25,7 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><a href="https://github.com/rohwid"><img src="https://avatars.githubusercontent.com/u/9447439?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rohwid"><b>Rohman Widiyanto</b></a><br><sub>&#64;rohwid · 148 followers</sub></td>
+<td><a href="https://github.com/rohwid"><img src="https://avatars.githubusercontent.com/u/9447439?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rohwid"><b>Rohman Widiyanto</b></a><br><sub>&#64;rohwid · 151 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">0</td>
 <td align="right">0</td>

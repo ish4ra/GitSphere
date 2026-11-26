@@ -137,7 +137,7 @@
 <td align="right">17</td>
 <td><a href="https://github.com/MS-WEB-BN"><img src="https://avatars.githubusercontent.com/u/56588859?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MS-WEB-BN"><b>MS-WEB-BN</b></a><br><sub>&#64;MS-WEB-BN</sub></td>
 <td align="right"><b>133</b></td>
-<td align="right">0</td>
+<td align="right">3</td>
 <td><sub>Bijeljina, Bosnia and Herzegovina</sub></td>
 </tr>
 <tr>
@@ -151,7 +151,7 @@
 <td align="right">19</td>
 <td><a href="https://github.com/xiprox"><img src="https://avatars.githubusercontent.com/u/2550945?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xiprox"><b>İhsan Işık</b></a><br><sub>&#64;xiprox</sub></td>
 <td align="right"><b>122</b></td>
-<td align="right">0</td>
+<td align="right">39</td>
 <td><sub>Sarajevo</sub></td>
 </tr>
 <tr>

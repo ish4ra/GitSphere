@@ -52,22 +52,22 @@
 <tr>
 <td align="right">5</td>
 <td><img src="https://github.com/face-hh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/face-hh/griddycode"><b>face-hh/griddycode</b></a><br><sub>A code editor made with Godot. Code has never been more lit!</sub></td>
-<td align="right"><b>2,206</b></td>
+<td align="right"><b>2,210</b></td>
 <td align="right">133</td>
 <td>Lua</td>
 </tr>
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/face-hh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/face-hh/webx"><b>face-hh/webx</b></a> <sub>archived</sub><br><sub>An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom we…</sub></td>
-<td align="right"><b>1,919</b></td>
+<td align="right"><b>1,920</b></td>
 <td align="right">146</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/CyberShadow.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CyberShadow/aconfmgr"><b>CyberShadow/aconfmgr</b></a><br><sub>A configuration manager for Arch Linux</sub></td>
-<td align="right"><b>1,688</b></td>
-<td align="right">50</td>
+<td align="right"><b>1,689</b></td>
+<td align="right">49</td>
 <td>Shell</td>
 </tr>
 <tr>
@@ -135,7 +135,7 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 458 stars; 15 attributed candidates are tracked.
-- 124 multi-repository owners are queued for expansion.
+- 122 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 84 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

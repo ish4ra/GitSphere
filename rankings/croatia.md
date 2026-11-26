@@ -185,7 +185,7 @@
 <tr>
 <td align="right">24</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/uber"><b>adrianhajdin/uber</b></a><br><sub>Build a full-stack Uber Clone Application with Expo’s latest features and lightning-fast edge-ready Postgres database i…</sub></td>
-<td align="right"><b>2,211</b></td>
+<td align="right"><b>2,212</b></td>
 <td align="right">758</td>
 <td>TypeScript</td>
 </tr>
@@ -207,28 +207,28 @@
 <td align="right">27</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_travel_advisor"><b>adrianhajdin/project&#95;travel&#95;advisor</b></a><br><sub>Tutorial created in collaboration with Enyel Sequeira, taught by JavaScript Mastery.</sub></td>
 <td align="right"><b>2,079</b></td>
-<td align="right">452</td>
+<td align="right">453</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">28</td>
+<td><img src="https://github.com/eez-open.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eez-open/studio"><b>eez-open/studio</b></a><br><sub>Cross-platform low-code GUI and automation</sub></td>
+<td align="right"><b>1,889</b></td>
+<td align="right">267</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">29</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/brainwave"><b>adrianhajdin/brainwave</b></a><br><sub>Learn to create modern websites with sleek parallax effects and bento box layouts. This course covers everything from s…</sub></td>
 <td align="right"><b>1,886</b></td>
 <td align="right">558</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">29</td>
-<td><img src="https://github.com/eez-open.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eez-open/studio"><b>eez-open/studio</b></a><br><sub>Cross-platform low-code GUI and automation</sub></td>
-<td align="right"><b>1,885</b></td>
-<td align="right">264</td>
-<td>JavaScript</td>
-</tr>
-<tr>
 <td align="right">30</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_e_commerce"><b>adrianhajdin/project&#95;e&#95;commerce</b></a><br><sub>This is a code repository for the corresponding video tutorial. In this video, we&#39;re going to build a fully functional…</sub></td>
 <td align="right"><b>1,883</b></td>
-<td align="right">488</td>
+<td align="right">489</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -276,7 +276,7 @@
 <tr>
 <td align="right">37</td>
 <td><img src="https://github.com/PentestPad.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PentestPad/subzy"><b>PentestPad/subzy</b></a><br><sub>Subdomain takeover vulnerability checker</sub></td>
-<td align="right"><b>1,618</b></td>
+<td align="right"><b>1,616</b></td>
 <td align="right">205</td>
 <td>Go</td>
 </tr>
@@ -289,22 +289,22 @@
 </tr>
 <tr>
 <td align="right">39</td>
+<td><img src="https://github.com/hudikhq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hudikhq/hoodik"><b>hudikhq/hoodik</b></a><br><sub>Self hosted, easy to install end to end encrypted storage drive</sub></td>
+<td align="right"><b>1,565</b></td>
+<td align="right">76</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">40</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_react_native_jobs"><b>adrianhajdin/project&#95;react&#95;native&#95;jobs</b></a></td>
-<td align="right"><b>1,563</b></td>
+<td align="right"><b>1,562</b></td>
 <td align="right">367</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">40</td>
-<td><img src="https://github.com/hudikhq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hudikhq/hoodik"><b>hudikhq/hoodik</b></a><br><sub>Self hosted, easy to install end to end encrypted storage drive</sub></td>
-<td align="right"><b>1,563</b></td>
-<td align="right">75</td>
-<td>Rust</td>
-</tr>
-<tr>
 <td align="right">41</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_medical_pager_chat"><b>adrianhajdin/project&#95;medical&#95;pager&#95;chat</b></a><br><sub>Medical Pager Chat App powered by GetStream</sub></td>
-<td align="right"><b>1,510</b></td>
+<td align="right"><b>1,509</b></td>
 <td align="right">463</td>
 <td>JavaScript</td>
 </tr>
@@ -318,8 +318,8 @@
 <tr>
 <td align="right">43</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/social_media_app"><b>adrianhajdin/social&#95;media&#95;app</b></a><br><sub>Build a modern social app with a stunning UI with a native mobile feel, a special tech stack, an infinite scroll featur…</sub></td>
-<td align="right"><b>1,494</b></td>
-<td align="right">461</td>
+<td align="right"><b>1,492</b></td>
+<td align="right">460</td>
 <td>TypeScript</td>
 </tr>
 <tr>

@@ -5,7 +5,7 @@
 "country": {"code":"TM","name":"Turkmenistan","slug":"turkmenistan"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":456,"measuredAccounts":12,"measurementBacklog":444,"window":{"from":"2025-11-26T00:00:00Z","to":"2026-11-26T00:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":131,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":456,"measuredAccounts":13,"measurementBacklog":443,"window":{"from":"2025-11-26T00:00:00Z","to":"2026-11-26T00:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":131,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjUzNDE3OTA2","login":"realmeylisdev","name":"Meylis","url":"https://github.com/realmeylisdev","avatarUrl":"https://avatars.githubusercontent.com/u/53417906?s=80&v=4","followers":72,"publicRepos":107,"location":"Ashgabat","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-26","contributions":{"public":5626,"commits":1948,"pullRequests":1421,"reviews":1194,"issues":991,"repositories":72,"windowFrom":"2025-11-26T00:00:00Z","windowTo":"2026-11-26T00:00:00Z","measuredOn":"2026-11-26"}},
   {"rank":2,"id":"MDQ6VXNlcjIyMDY1MzM=","login":"vbauerster","name":"Vladimir Bauer","url":"https://github.com/vbauerster","avatarUrl":"https://avatars.githubusercontent.com/u/2206533?s=80&v=4","followers":65,"publicRepos":143,"location":"Turkmenistan","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26","contributions":{"public":907,"commits":892,"pullRequests":4,"reviews":0,"issues":9,"repositories":2,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
@@ -18,8 +18,8 @@
   {"rank":9,"id":"U_kgDODIMGEQ","login":"19Admin96","name":"Mekan","url":"https://github.com/19Admin96","avatarUrl":"https://avatars.githubusercontent.com/u/209913361?s=80&v=4","followers":1,"publicRepos":2,"location":"Mary, Turkmenistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":20,"commits":18,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":10,"id":"MDQ6VXNlcjY3ODc2ODQx","login":"tachgurbanov","name":"Kerim T.","url":"https://github.com/tachgurbanov","avatarUrl":"https://avatars.githubusercontent.com/u/67876841?s=80&v=4","followers":55,"publicRepos":109,"location":"Ashgabat, Turkmenistan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":5,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "208ed3b6dbe4e61d",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "71e540d75bdc2184",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

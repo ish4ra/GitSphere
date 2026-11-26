@@ -5,7 +5,7 @@
 "country": {"code":"ET","name":"Ethiopia","slug":"ethiopia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":81,"ownerExpansionBacklog":135,"candidates":89,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":142,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":81,"ownerExpansionBacklog":134,"candidates":89,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":142,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOMIFhhg","name":"sql-studio","nameWithOwner":"frectonz/sql-studio","url":"https://github.com/frectonz/sql-studio","description":"SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, ClickHouse, DuckDB, Microsoft SQL Server]","stars":3701,"forks":133,"primaryLanguage":"Rust","license":{"spdxId":"MIT"},"createdAt":"2024-06-11T18:32:36Z","pushedAt":"2026-11-14T09:25:37Z","archived":false,"owner":{"login":"frectonz","name":"Fraol Lemecha","type":"User","url":"https://github.com/frectonz","location":"Ethiopia, Addis Abeba","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkxNzk0ODc0ODg=","name":"Flutter-Story-App-UI","nameWithOwner":"devefy/Flutter-Story-App-UI","url":"https://github.com/devefy/Flutter-Story-App-UI","description":null,"stars":953,"forks":319,"primaryLanguage":"Dart","license":null,"createdAt":"2019-04-04T11:51:19Z","pushedAt":"2020-10-01T16:13:33Z","archived":false,"owner":{"login":"devefy","name":"Abdulkerim Hamid","type":"User","url":"https://github.com/devefy","location":"Ethiopia, Adama","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-24"},
@@ -97,8 +97,8 @@
   {"rank":88,"id":null,"name":"Mrgadmu","nameWithOwner":"Mrgadmu/Mrgadmu","url":"https://github.com/Mrgadmu/Mrgadmu","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2022-02-02T21:55:46Z","pushedAt":"2022-02-02T21:55:47Z","archived":false,"owner":{"login":"Mrgadmu","name":"Merga Adamu","type":"User","url":"https://github.com/Mrgadmu","location":"Gimbi/Oromia/Ethiopia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":89,"id":null,"name":"cv","nameWithOwner":"Munirsuudi/cv","url":"https://github.com/Munirsuudi/cv","description":null,"stars":1,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2023-03-30T13:25:29Z","pushedAt":"2023-03-30T19:13:32Z","archived":false,"owner":{"login":"Munirsuudi","name":"Munir Suudi","type":"User","url":"https://github.com/Munirsuudi","location":"Dire Dawa, Ethiopia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "0a93c1ec3cee919e",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "bbc089d9876b7bf8",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

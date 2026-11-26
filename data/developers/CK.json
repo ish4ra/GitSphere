@@ -28,8 +28,8 @@
   {"rank":19,"id":"MDQ6VXNlcjI4MzIyOTcw","login":"hilpert51566","name":"Garfield Hilpert","url":"https://github.com/hilpert51566","avatarUrl":"https://avatars.githubusercontent.com/u/28322970?s=80&v=4","followers":0,"publicRepos":2,"location":"Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
   {"rank":20,"id":"MDQ6VXNlcjIwOTgyMjEz","login":"anead","name":"UncleDan","url":"https://github.com/anead","avatarUrl":"https://avatars.githubusercontent.com/u/20982213?s=80&v=4","followers":0,"publicRepos":1,"location":"Rarotonga, Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-26"},
   {"rank":21,"id":"MDQ6VXNlcjM2Mzc4Mjcy","login":"OffshoreCoin","name":"OffshoreCoin","url":"https://github.com/OffshoreCoin","avatarUrl":"https://avatars.githubusercontent.com/u/36378272?s=80&v=4","followers":0,"publicRepos":1,"location":"Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
-  {"rank":22,"id":"U_kgDOEQle_A","login":"weareomniscienti","name":"omniscienti.com","url":"https://github.com/weareomniscienti","avatarUrl":"https://avatars.githubusercontent.com/u/285826812?s=80&v=4","followers":0,"publicRepos":1,"location":"Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":23,"id":"U_kgDOFJvJew","login":"AMarkets1","name":"AMarkets","url":"https://github.com/AMarkets1","avatarUrl":"https://avatars.githubusercontent.com/u/345753979?s=80&v=4","followers":0,"publicRepos":0,"location":"T&F Chambers, Nikao, Avarua, Rarotonga, Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":22,"id":"U_kgDOEQle_A","login":"weareomniscienti","name":"omniscienti.com","url":"https://github.com/weareomniscienti","avatarUrl":"https://avatars.githubusercontent.com/u/285826812?s=80&v=4","followers":0,"publicRepos":1,"location":"Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
+  {"rank":23,"id":"U_kgDOFJvJew","login":"AMarkets1","name":"AMarkets","url":"https://github.com/AMarkets1","avatarUrl":"https://avatars.githubusercontent.com/u/345753979?s=80&v=4","followers":0,"publicRepos":0,"location":"T&F Chambers, Nikao, Avarua, Rarotonga, Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-26"},
   {"rank":24,"id":"U_kgDOFSdAbw","login":"AMarkets12","name":"AMarkets","url":"https://github.com/AMarkets12","avatarUrl":"https://avatars.githubusercontent.com/u/354893935?s=80&v=4","followers":0,"publicRepos":0,"location":"T&F Chambers, Nikao, Avarua, Rarotonga, Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":25,"id":"U_kgDOBlsZBw","login":"Cook-Islands","name":"George","url":"https://github.com/Cook-Islands","avatarUrl":"https://avatars.githubusercontent.com/u/106633479?s=80&v=4","followers":0,"publicRepos":0,"location":"Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":26,"id":"MDQ6VXNlcjMyMzc2MzEz","login":"enuarurutini","name":"enuarurutini","url":"https://github.com/enuarurutini","avatarUrl":"https://avatars.githubusercontent.com/u/32376313?s=80&v=4","followers":0,"publicRepos":0,"location":"cook islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
@@ -40,8 +40,8 @@
   {"rank":31,"id":"MDQ6VXNlcjc4NjUzMTQ=","login":"tnapa","name":"Teariki Napa","url":"https://github.com/tnapa","avatarUrl":"https://avatars.githubusercontent.com/u/7865314?s=80&v=4","followers":0,"publicRepos":0,"location":"Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":32,"id":"U_kgDOD2OR7w","login":"VibeWorX","name":"VibeWorX","url":"https://github.com/VibeWorX","avatarUrl":"https://avatars.githubusercontent.com/u/258183663?s=80&v=4","followers":0,"publicRepos":0,"location":"Cook Islands","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "a319b9859b158d0b",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "31899978e15746ae",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

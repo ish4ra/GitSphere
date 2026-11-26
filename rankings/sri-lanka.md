@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **50** | 23 Nov 2026 | <a href="../data/LK.json">JSON</a> |
+| 🟡 Provisional | **53** | 23 Nov 2026 | <a href="../data/LK.json">JSON</a> |
 
 </div>
 
@@ -94,7 +94,7 @@
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/shakee93.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shakee93/vue-toasted"><b>shakee93/vue-toasted</b></a><br><sub>🖖 Responsive Touch Compatible Toast plugin for VueJS 2+</sub></td>
-<td align="right"><b>2,194</b></td>
+<td align="right"><b>2,193</b></td>
 <td align="right">183</td>
 <td>JavaScript</td>
 </tr>
@@ -371,6 +371,27 @@
 <td align="right">109</td>
 <td>Swift</td>
 </tr>
+<tr>
+<td align="right">51</td>
+<td><img src="https://github.com/Thavarshan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Thavarshan/fetch-php"><b>Thavarshan/fetch-php</b></a><br><sub>🚀 Modern PHP HTTP client inspired by JavaScript&#39;s fetch API. Async/await, streaming, SSE, middleware, RFC 7234 caching…</sub></td>
+<td align="right"><b>450</b></td>
+<td align="right">27</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><img src="https://github.com/dropcreations.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dropcreations/Manzana-Apple-Music-Downloader"><b>dropcreations/Manzana-Apple-Music-Downloader</b></a><br><sub>A python program to download albums and songs with AAC codec in .m4a container format and music-videos up to 4K in AVC…</sub></td>
+<td align="right"><b>423</b></td>
+<td align="right">51</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><img src="https://github.com/wdevon99.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wdevon99/Next-js-starter"><b>wdevon99/Next-js-starter</b></a><br><sub>Full-stack starter template 2024</sub></td>
+<td align="right"><b>416</b></td>
+<td align="right">123</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -379,8 +400,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 453 stars; 50 attributed candidates are tracked.
-- 117 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 416 stars; 53 attributed candidates are tracked.
+- 116 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 95 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

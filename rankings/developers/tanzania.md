@@ -80,7 +80,7 @@
 <tr>
 <td align="right">9</td>
 <td><a href="https://github.com/gernest"><img src="https://avatars.githubusercontent.com/u/6039952?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gernest"><b>Geofrey Ernest</b></a><br><sub>&#64;gernest</sub></td>
-<td align="right"><b>409</b></td>
+<td align="right"><b>410</b></td>
 <td align="right">333</td>
 <td><sub>Arusha, Tanzania</sub></td>
 </tr>
@@ -213,7 +213,7 @@
 <tr>
 <td align="right">28</td>
 <td><a href="https://github.com/Kingbryden"><img src="https://avatars.githubusercontent.com/u/97206481?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kingbryden"><b>Brian vicent kessy</b></a><br><sub>&#64;Kingbryden</sub></td>
-<td align="right"><b>157</b></td>
+<td align="right"><b>156</b></td>
 <td align="right">14</td>
 <td><sub>Tanzania</sub></td>
 </tr>

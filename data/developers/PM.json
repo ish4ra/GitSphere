@@ -5,7 +5,7 @@
 "country": {"code":"PM","name":"St. Pierre & Miquelon","slug":"st-pierre-miquelon"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":18,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":22,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":18,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":22,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjY2Mzg1ODM3","login":"Sduruty","name":"Sandie DURUTY","url":"https://github.com/Sduruty","avatarUrl":"https://avatars.githubusercontent.com/u/66385837?s=80&v=4","followers":0,"publicRepos":15,"location":"Saint-Pierre, Saint-Pierre & Miquelon","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjEwNDkzMzI2","login":"netviolet","name":null,"url":"https://github.com/netviolet","avatarUrl":"https://avatars.githubusercontent.com/u/10493326?s=80&v=4","followers":0,"publicRepos":14,"location":"Saint-Pierre-et-Miquelon","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
@@ -21,13 +21,13 @@
   {"rank":12,"id":"U_kgDOB8NYiQ","login":"yanreitman","name":"Егорка","url":"https://github.com/yanreitman","avatarUrl":"https://avatars.githubusercontent.com/u/130242697?s=80&v=4","followers":0,"publicRepos":3,"location":"St. Pierre & Miquelon","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":13,"id":"U_kgDOBohhfg","login":"Biscuiterie975","name":"André URTIZBEREA","url":"https://github.com/Biscuiterie975","avatarUrl":"https://avatars.githubusercontent.com/u/109601150?s=80&v=4","followers":0,"publicRepos":2,"location":"Saint-Pierre and Miquelon","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":14,"id":"U_kgDOCqPFnQ","login":"Paul-BDT","name":"Paul_BDT","url":"https://github.com/Paul-BDT","avatarUrl":"https://avatars.githubusercontent.com/u/178505117?s=80&v=4","followers":0,"publicRepos":2,"location":"St-Pierre & Miquelon","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
-  {"rank":15,"id":"U_kgDOCtHyow","login":"bitopblogger","name":null,"url":"https://github.com/bitopblogger","avatarUrl":"https://avatars.githubusercontent.com/u/181531299?s=80&v=4","followers":0,"publicRepos":1,"location":"St Pierre & Miquelon (PM)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":15,"id":"U_kgDOCtHyow","login":"bitopblogger","name":null,"url":"https://github.com/bitopblogger","avatarUrl":"https://avatars.githubusercontent.com/u/181531299?s=80&v=4","followers":0,"publicRepos":1,"location":"St Pierre & Miquelon (PM)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-26"},
   {"rank":16,"id":"MDQ6VXNlcjYzNzk1MTc2","login":"MatyW31","name":"mathieu lavail","url":"https://github.com/MatyW31","avatarUrl":"https://avatars.githubusercontent.com/u/63795176?s=80&v=4","followers":0,"publicRepos":1,"location":"Saint pierre et miquelon","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":17,"id":"U_kgDOEnP3RA","login":"raymond-kimberlee","name":"ᚱᚨᚷᛁᚾᛗᚢᚾᛞ","url":"https://github.com/raymond-kimberlee","avatarUrl":"https://avatars.githubusercontent.com/u/309589828?s=80&v=4","followers":0,"publicRepos":1,"location":"Saint Pierre and Miquelon","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":18,"id":"U_kgDOEys9Vg","login":"jrlrnvvd73","name":"Veronica Smith","url":"https://github.com/jrlrnvvd73","avatarUrl":"https://avatars.githubusercontent.com/u/321600854?s=80&v=4","followers":0,"publicRepos":0,"location":"North Timothyfort, Saint Pierre and Miquelon","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "ce3c56c6e2905bbd",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "9328dbb8e39ebff1",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

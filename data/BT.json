@@ -5,7 +5,7 @@
 "country": {"code":"BT","name":"Bhutan","slug":"bhutan"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":146,"candidates":101,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":38,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":145,"candidates":101,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":38,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"web102-hono-auth-jwt-prisma","nameWithOwner":"rubcstswe/web102-hono-auth-jwt-prisma","url":"https://github.com/rubcstswe/web102-hono-auth-jwt-prisma","description":null,"stars":1,"forks":21,"primaryLanguage":"TypeScript","license":null,"createdAt":"2024-06-07T22:14:01Z","pushedAt":"2025-08-19T08:04:00Z","archived":false,"owner":{"login":"rubcstswe","name":"CST Software Engineering","type":"Organization","url":"https://github.com/rubcstswe","location":"Bhutan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"contribution-charts","nameWithOwner":"btdevcommunity/contribution-charts","url":"https://github.com/btdevcommunity/contribution-charts","description":null,"stars":1,"forks":4,"primaryLanguage":"HTML","license":null,"createdAt":"2022-02-03T15:59:39Z","pushedAt":"2022-03-04T07:02:23Z","archived":false,"owner":{"login":"btdevcommunity","name":"Bhutan Developer Community","type":"Organization","url":"https://github.com/btdevcommunity","location":"Thimphu Bhutan","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"React-learning","nameWithOwner":"Art-sys-86/React-learning","url":"https://github.com/Art-sys-86/React-learning","description":null,"stars":0,"forks":0,"primaryLanguage":"CSS","license":null,"createdAt":"2026-09-15T11:37:05Z","pushedAt":"2026-09-26T16:54:52Z","archived":false,"owner":{"login":"Art-sys-86","name":"Art","type":"User","url":"https://github.com/Art-sys-86","location":"Bhutan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"everygood-backend","nameWithOwner":"ashmanpakhring112/everygood-backend","url":"https://github.com/ashmanpakhring112/everygood-backend","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2025-08-30T09:56:48Z","pushedAt":"2025-08-30T09:56:48Z","archived":false,"owner":{"login":"ashmanpakhring112","name":"Creater","type":"User","url":"https://github.com/ashmanpakhring112","location":"Bhutan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "2237e7fa84cd032c",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "1db186282e0d4c61",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-04",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/DK.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/DK.json">JSON</a> |
 
 </div>
 
@@ -543,7 +543,7 @@
 <td align="right">75</td>
 <td><img src="https://github.com/andersbll.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/andersbll/neural_artistic_style"><b>andersbll/neural&#95;artistic&#95;style</b></a><br><sub>Neural Artistic Style in Python</sub></td>
 <td align="right"><b>2,167</b></td>
-<td align="right">470</td>
+<td align="right">469</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -563,29 +563,29 @@
 <tr>
 <td align="right">78</td>
 <td><img src="https://github.com/mountebank-testing.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mountebank-testing/mountebank"><b>mountebank-testing/mountebank</b></a><br><sub>Over the wire test doubles</sub></td>
-<td align="right"><b>2,109</b></td>
+<td align="right"><b>2,112</b></td>
 <td align="right">294</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">79</td>
 <td><img src="https://github.com/tyilo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tyilo/insert_dylib"><b>tyilo/insert&#95;dylib</b></a><br><sub>Command line utility for inserting a dylib load command into a Mach-O binary</sub></td>
-<td align="right"><b>2,108</b></td>
+<td align="right"><b>2,109</b></td>
 <td align="right">379</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">80</td>
 <td><img src="https://github.com/rosenbjerg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rosenbjerg/FFMpegCore"><b>rosenbjerg/FFMpegCore</b></a><br><sub>A .NET FFMpeg/FFProbe wrapper for easily integrating media analysis and conversion into your C# applications</sub></td>
-<td align="right"><b>2,107</b></td>
+<td align="right"><b>2,109</b></td>
 <td align="right">346</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">81</td>
 <td><img src="https://github.com/SebLague.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SebLague/Path-Creator"><b>SebLague/Path-Creator</b></a><br><sub>Path creation asset for Unity game development</sub></td>
-<td align="right"><b>2,100</b></td>
-<td align="right">332</td>
+<td align="right"><b>2,101</b></td>
+<td align="right">331</td>
 <td>C#</td>
 </tr>
 <tr>
@@ -620,20 +620,20 @@
 <td align="right">86</td>
 <td><img src="https://github.com/thomasp85.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thomasp85/gganimate"><b>thomasp85/gganimate</b></a><br><sub>A Grammar of Animated Graphics</sub></td>
 <td align="right"><b>1,984</b></td>
-<td align="right">316</td>
+<td align="right">317</td>
 <td>R</td>
 </tr>
 <tr>
 <td align="right">87</td>
 <td><img src="https://github.com/TKJElectronics.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TKJElectronics/KalmanFilter"><b>TKJElectronics/KalmanFilter</b></a><br><sub>This is a Kalman filter used to calculate the angle, rate and bias from from the input of an accelerometer/magnetometer…</sub></td>
-<td align="right"><b>1,951</b></td>
-<td align="right">739</td>
+<td align="right"><b>1,952</b></td>
+<td align="right">738</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">88</td>
 <td><img src="https://github.com/PhilipK.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PhilipK/BoilR"><b>PhilipK/BoilR</b></a><br><sub>Synchronize games from other platforms into your Steam library</sub></td>
-<td align="right"><b>1,940</b></td>
+<td align="right"><b>1,942</b></td>
 <td align="right">74</td>
 <td>Rust</td>
 </tr>
@@ -647,15 +647,15 @@
 <tr>
 <td align="right">90</td>
 <td><img src="https://github.com/mikependon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mikependon/RepoDB"><b>mikependon/RepoDB</b></a><br><sub>A production-ready data access platform for .NET applications.</sub></td>
-<td align="right"><b>1,911</b></td>
+<td align="right"><b>1,912</b></td>
 <td align="right">139</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">91</td>
 <td><img src="https://github.com/DanielLavrushin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DanielLavrushin/b4"><b>DanielLavrushin/b4</b></a><br><sub>Network packet processor with a friendly UI for circumventing Deep Packet Inspection (DPI) systems.</sub></td>
-<td align="right"><b>1,898</b></td>
-<td align="right">80</td>
+<td align="right"><b>1,899</b></td>
+<td align="right">82</td>
 <td>Go</td>
 </tr>
 <tr>
@@ -668,7 +668,7 @@
 <tr>
 <td align="right">93</td>
 <td><img src="https://github.com/Inochi2D.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Inochi2D/inochi2d"><b>Inochi2D/inochi2d</b></a><br><sub>Inochi2D SDK - Bring your characters to life</sub></td>
-<td align="right"><b>1,885</b></td>
+<td align="right"><b>1,887</b></td>
 <td align="right">76</td>
 <td>D</td>
 </tr>
@@ -689,7 +689,7 @@
 <tr>
 <td align="right">96</td>
 <td><img src="https://github.com/pixop.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pixop/video-compare"><b>pixop/video-compare</b></a><br><sub>Split-screen video comparison tool using FFmpeg and SDL2</sub></td>
-<td align="right"><b>1,825</b></td>
+<td align="right"><b>1,828</b></td>
 <td align="right">78</td>
 <td>C++</td>
 </tr>
@@ -697,7 +697,7 @@
 <td align="right">97</td>
 <td><img src="https://github.com/ashleydw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ashleydw/lightbox"><b>ashleydw/lightbox</b></a> <sub>archived</sub><br><sub>A lightbox gallery plugin for Bootstrap</sub></td>
 <td align="right"><b>1,817</b></td>
-<td align="right">1,245</td>
+<td align="right">1,244</td>
 <td>HTML</td>
 </tr>
 <tr>
@@ -710,7 +710,7 @@
 <tr>
 <td align="right">99</td>
 <td><img src="https://github.com/troldal.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/troldal/OpenXLSX"><b>troldal/OpenXLSX</b></a><br><sub>A C++ library for reading, writing, creating and modifying Microsoft Excel® (.xlsx) files.</sub></td>
-<td align="right"><b>1,788</b></td>
+<td align="right"><b>1,790</b></td>
 <td align="right">392</td>
 <td>C++</td>
 </tr>

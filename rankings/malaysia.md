@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **65** | 23 Nov 2026 | <a href="../data/MY.json">JSON</a> |
+| 🟡 Provisional | **69** | 23 Nov 2026 | <a href="../data/MY.json">JSON</a> |
 
 </div>
 
@@ -101,28 +101,28 @@
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/slapperwan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/slapperwan/gh4a"><b>slapperwan/gh4a</b></a><br><sub>Github client for Android</sub></td>
-<td align="right"><b>2,007</b></td>
+<td align="right"><b>2,006</b></td>
 <td align="right">252</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">13</td>
 <td><img src="https://github.com/efemkay.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/efemkay/obsidian-modular-css-layout"><b>efemkay/obsidian-modular-css-layout</b></a><br><sub>CSS Layout hack for Obsidian.md</sub></td>
-<td align="right"><b>1,831</b></td>
+<td align="right"><b>1,833</b></td>
 <td align="right">101</td>
 <td>CSS</td>
 </tr>
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/shadany7824.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shadany7824/playgta5"><b>shadany7824/playgta5</b></a><br><sub>A source code for playgta5.com.</sub></td>
-<td align="right"><b>1,809</b></td>
-<td align="right">858</td>
+<td align="right"><b>1,821</b></td>
+<td align="right">864</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/salimi-my.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/salimi-my/shadcn-ui-sidebar"><b>salimi-my/shadcn-ui-sidebar</b></a><br><sub>A stunning, functional and responsive retractable sidebar for Next.js built on top of shadcn/ui.</sub></td>
-<td align="right"><b>1,797</b></td>
+<td align="right"><b>1,796</b></td>
 <td align="right">208</td>
 <td>TypeScript</td>
 </tr>
@@ -476,6 +476,34 @@
 <td align="right">63</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">66</td>
+<td><img src="https://github.com/natsu90.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/natsu90/dial2verify-twilio"><b>natsu90/dial2verify-twilio</b></a><br><sub>Phone verification at no cost (Deprecated)</sub></td>
+<td align="right"><b>441</b></td>
+<td align="right">17</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><img src="https://github.com/cs-chan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cs-chan/ArtGAN"><b>cs-chan/ArtGAN</b></a><br><sub>ArtGAN + WikiArt: This work presents a series of new approaches to improve GAN for conditional image synthesis and we n…</sub></td>
+<td align="right"><b>430</b></td>
+<td align="right">68</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><img src="https://github.com/Blacksuan19.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Blacksuan19/init.nvim"><b>Blacksuan19/init.nvim</b></a><br><sub>An Opinionated Neovim Config for the Minimalists</sub></td>
+<td align="right"><b>426</b></td>
+<td align="right">53</td>
+<td>Lua</td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><img src="https://github.com/irshu355.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/irshu355/Android-WYSIWYG-Editor"><b>irshu355/Android-WYSIWYG-Editor</b></a> <sub>archived</sub><br><sub>:pager: A text editor written in Android using native components in the content tree. Integrate easily to work with web…</sub></td>
+<td align="right"><b>410</b></td>
+<td align="right">114</td>
+<td>Java</td>
+</tr>
 </tbody>
 </table>
 
@@ -484,8 +512,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 457 stars; 65 attributed candidates are tracked.
-- 114 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 410 stars; 69 attributed candidates are tracked.
+- 113 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 155 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

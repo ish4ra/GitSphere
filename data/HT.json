@@ -5,7 +5,7 @@
 "country": {"code":"HT","name":"Haiti","slug":"haiti"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":89,"ownerExpansionBacklog":147,"candidates":92,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":92,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":89,"ownerExpansionBacklog":146,"candidates":92,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":92,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk4NDE4MzAy","name":"icheck","nameWithOwner":"drgullin/icheck","url":"https://github.com/drgullin/icheck","description":"Highly customizable checkboxes and radio buttons (jQuery & Zepto)","stars":7276,"forks":1572,"primaryLanguage":"CSS","license":null,"createdAt":"2013-02-25T21:09:25Z","pushedAt":"2020-12-19T03:59:54Z","archived":false,"owner":{"login":"drgullin","name":"Damir Gubaidullin","type":"User","url":"https://github.com/drgullin","location":"Source","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"R_kgDOJGGQ8A","name":"use-whisper","nameWithOwner":"chengsokdara/use-whisper","url":"https://github.com/chengsokdara/use-whisper","description":"React hook for OpenAI Whisper with speech recorder, real-time transcription, and silence removal built-in","stars":784,"forks":139,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2023-03-06T16:37:33Z","pushedAt":"2024-04-30T12:12:27Z","archived":false,"owner":{"login":"chengsokdara","name":"Sokdara Cheng","type":"User","url":"https://github.com/chengsokdara","location":"Source","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-24"},
@@ -100,8 +100,8 @@
   {"rank":91,"id":null,"name":"true-touch","nameWithOwner":"truedawrin/true-touch","url":"https://github.com/truedawrin/true-touch","description":null,"stars":1,"forks":0,"primaryLanguage":"Shell","license":{"spdxId":"MIT"},"createdAt":"2026-08-13T03:38:39Z","pushedAt":"2026-08-13T14:57:10Z","archived":false,"owner":{"login":"truedawrin","name":"True Dawrin","type":"User","url":"https://github.com/truedawrin","location":"Haiti","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":92,"id":null,"name":"tvsps","nameWithOwner":"Tvspshaiti/tvsps","url":"https://github.com/Tvspshaiti/tvsps","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":{"spdxId":"Unlicense"},"createdAt":"2022-03-14T05:46:39Z","pushedAt":"2022-03-14T05:46:40Z","archived":false,"owner":{"login":"Tvspshaiti","name":"Tvsps Haiti","type":"User","url":"https://github.com/Tvspshaiti","location":"Haiti","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "7bdaa257bf1fd422",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "ecdde013bbd6b95b",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/Cartus"><img src="https://avatars.githubusercontent.com/u/8509368?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Cartus"><b>Zhijiang</b></a><br><sub>&#64;Cartus</sub></td>
-<td align="right"><b>130</b></td>
+<td align="right"><b>131</b></td>
 <td align="right">8</td>
 <td><sub>Tonga</sub></td>
 </tr>

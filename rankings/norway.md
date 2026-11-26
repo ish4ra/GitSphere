@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/NO.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/NO.json">JSON</a> |
 
 </div>
 
@@ -584,8 +584,8 @@
 <tr>
 <td align="right">81</td>
 <td><img src="https://github.com/0Chencc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0Chencc/CTFCrackTools"><b>0Chencc/CTFCrackTools</b></a><br><sub>The next-generation CTF Swiss Army Knife powered by Rust &amp; Tauri. Features a visual node-based workflow and local AI in…</sub></td>
-<td align="right"><b>2,170</b></td>
-<td align="right">304</td>
+<td align="right"><b>2,172</b></td>
+<td align="right">303</td>
 <td>Rust</td>
 </tr>
 <tr>
@@ -598,44 +598,44 @@
 <tr>
 <td align="right">83</td>
 <td><img src="https://github.com/thebjorn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thebjorn/pydeps"><b>thebjorn/pydeps</b></a><br><sub>Python Module Dependency graphs</sub></td>
-<td align="right"><b>2,120</b></td>
-<td align="right">134</td>
+<td align="right"><b>2,121</b></td>
+<td align="right">135</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">84</td>
 <td><img src="https://github.com/bensadeh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bensadeh/circumflex"><b>bensadeh/circumflex</b></a><br><sub>🌿 It&#39;s Hacker News in your terminal</sub></td>
-<td align="right"><b>2,110</b></td>
+<td align="right"><b>2,111</b></td>
 <td align="right">49</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">85</td>
 <td><img src="https://github.com/shcherbak-ai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shcherbak-ai/contextgem"><b>shcherbak-ai/contextgem</b></a><br><sub>Extract structured data and insights from documents using LLMs and decision models</sub></td>
-<td align="right"><b>2,097</b></td>
-<td align="right">188</td>
+<td align="right"><b>2,098</b></td>
+<td align="right">189</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">86</td>
 <td><img src="https://github.com/jonhoo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jonhoo/fantoccini"><b>jonhoo/fantoccini</b></a><br><sub>A high-level API for programmatically interacting with web pages through WebDriver.</sub></td>
-<td align="right"><b>2,034</b></td>
+<td align="right"><b>2,035</b></td>
 <td align="right">136</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">87</td>
+<td><img src="https://github.com/JackHack96.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JackHack96/EasyEffects-Presets"><b>JackHack96/EasyEffects-Presets</b></a><br><sub>Collection of PulseEffects presets</sub></td>
+<td align="right"><b>2,023</b></td>
+<td align="right">145</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">88</td>
 <td><img src="https://github.com/onmyway133.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/onmyway133/DeepDiff"><b>onmyway133/DeepDiff</b></a> <sub>archived</sub><br><sub>🦀Amazingly incredible extraordinary lightning fast diffing in Swift</sub></td>
 <td align="right"><b>2,020</b></td>
 <td align="right">142</td>
 <td>Swift</td>
-</tr>
-<tr>
-<td align="right">88</td>
-<td><img src="https://github.com/JackHack96.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JackHack96/EasyEffects-Presets"><b>JackHack96/EasyEffects-Presets</b></a><br><sub>Collection of PulseEffects presets</sub></td>
-<td align="right"><b>2,019</b></td>
-<td align="right">145</td>
-<td>Shell</td>
 </tr>
 <tr>
 <td align="right">89</td>
@@ -647,14 +647,14 @@
 <tr>
 <td align="right">90</td>
 <td><img src="https://github.com/kimjoar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kimjoar/writings"><b>kimjoar/writings</b></a><br><sub>My blog posts</sub></td>
-<td align="right"><b>1,977</b></td>
+<td align="right"><b>1,976</b></td>
 <td align="right">114</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">91</td>
 <td><img src="https://github.com/Themaister.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Themaister/Granite"><b>Themaister/Granite</b></a><br><sub>My personal Vulkan renderer</sub></td>
-<td align="right"><b>1,970</b></td>
+<td align="right"><b>1,971</b></td>
 <td align="right">176</td>
 <td>C++</td>
 </tr>
@@ -675,7 +675,7 @@
 <tr>
 <td align="right">94</td>
 <td><img src="https://github.com/domenicosolazzo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/domenicosolazzo/awesome-okr"><b>domenicosolazzo/awesome-okr</b></a><br><sub>A curated list about OKR (Objective - Key Results)</sub></td>
-<td align="right"><b>1,819</b></td>
+<td align="right"><b>1,820</b></td>
 <td align="right">187</td>
 <td>—</td>
 </tr>
@@ -683,13 +683,13 @@
 <td align="right">95</td>
 <td><img src="https://github.com/vadymmarkov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vadymmarkov/Fakery"><b>vadymmarkov/Fakery</b></a><br><sub>:alien: Swift fake data generator</sub></td>
 <td align="right"><b>1,815</b></td>
-<td align="right">185</td>
+<td align="right">184</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">96</td>
 <td><img src="https://github.com/jenslys.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jenslys/opencode-gemini-auth"><b>jenslys/opencode-gemini-auth</b></a><br><sub>Gemini auth plugin for opencode</sub></td>
-<td align="right"><b>1,777</b></td>
+<td align="right"><b>1,778</b></td>
 <td align="right">120</td>
 <td>TypeScript</td>
 </tr>
@@ -717,8 +717,8 @@
 <tr>
 <td align="right">100</td>
 <td><img src="https://github.com/olalie.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/olalie/tapmap"><b>olalie/tapmap</b></a><br><sub>Watch your computer connect across the internet in real time. Discover the world behind your apps.</sub></td>
-<td align="right"><b>1,732</b></td>
-<td align="right">106</td>
+<td align="right"><b>1,737</b></td>
+<td align="right">105</td>
 <td>Python</td>
 </tr>
 </tbody>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 1,732 stars; 150 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 1,737 stars; 150 attributed candidates are tracked.
 - 127 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 167 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

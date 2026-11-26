@@ -5,7 +5,7 @@
 "country": {"code":"PW","name":"Palau","slug":"palau"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":16,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":40,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":16,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":40,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjE3MDk1Nzk4","login":"nbaulesglobalsolutions","name":"Ngirngerikl Baules","url":"https://github.com/nbaulesglobalsolutions","avatarUrl":"https://avatars.githubusercontent.com/u/17095798?s=80&v=4","followers":24,"publicRepos":32,"location":"Koror, Palau","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":"MDQ6VXNlcjMxNzg0NjE1","login":"jbalbalosa","name":"Jeffrey Balbalosa","url":"https://github.com/jbalbalosa","avatarUrl":"https://avatars.githubusercontent.com/u/31784615?s=80&v=4","followers":16,"publicRepos":176,"location":"Koror, Palau","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
@@ -21,11 +21,11 @@
   {"rank":12,"id":"U_kgDOB2uVUg","login":"aomyouza2543","name":"Ikuno (アオムシン)","url":"https://github.com/aomyouza2543","avatarUrl":"https://avatars.githubusercontent.com/u/124491090?s=80&v=4","followers":0,"publicRepos":0,"location":"Koror Town, Palau","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-26"},
   {"rank":13,"id":"MDQ6VXNlcjg4NjkyNDUw","login":"Cjay680","name":"Cjay","url":"https://github.com/Cjay680","avatarUrl":"https://avatars.githubusercontent.com/u/88692450?s=80&v=4","followers":0,"publicRepos":0,"location":"Palau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":14,"id":"U_kgDOFGgtcQ","login":"EAKonT","name":"EAKonT","url":"https://github.com/EAKonT","avatarUrl":"https://avatars.githubusercontent.com/u/342371697?s=80&v=4","followers":0,"publicRepos":0,"location":"PalaU","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
-  {"rank":15,"id":"U_kgDOCO_wvA","login":"EinPlatzhalter","name":"Platzhalter","url":"https://github.com/EinPlatzhalter","avatarUrl":"https://avatars.githubusercontent.com/u/149942460?s=80&v=4","followers":0,"publicRepos":0,"location":"Palau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":15,"id":"U_kgDOCO_wvA","login":"EinPlatzhalter","name":"Platzhalter","url":"https://github.com/EinPlatzhalter","avatarUrl":"https://avatars.githubusercontent.com/u/149942460?s=80&v=4","followers":0,"publicRepos":0,"location":"Palau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":16,"id":"MDQ6VXNlcjc2NzcwMzg2","login":"theLobsterRevolution","name":null,"url":"https://github.com/theLobsterRevolution","avatarUrl":"https://avatars.githubusercontent.com/u/76770386?s=80&v=4","followers":0,"publicRepos":0,"location":"Palau","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "a7b2a8eb1aa86725",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "0fc9d7c6a8b89cb8",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

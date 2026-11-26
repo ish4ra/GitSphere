@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/TW.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/TW.json">JSON</a> |
 
 </div>
 
@@ -528,15 +528,15 @@
 <tr>
 <td align="right">73</td>
 <td><img src="https://github.com/ButTaiwan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ButTaiwan/iansui"><b>ButTaiwan/iansui</b></a><br><sub>芫荽，基於 Klee One 改造的學習用台灣繁體字型</sub></td>
-<td align="right"><b>2,146</b></td>
+<td align="right"><b>2,150</b></td>
 <td align="right">73</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">74</td>
 <td><img src="https://github.com/AWeirdDev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AWeirdDev/flights"><b>AWeirdDev/flights</b></a><br><sub>Fast, robust Google Flights scraper (API) for Python. (Probably)</sub></td>
-<td align="right"><b>2,137</b></td>
-<td align="right">260</td>
+<td align="right"><b>2,139</b></td>
+<td align="right">261</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -549,28 +549,28 @@
 <tr>
 <td align="right">76</td>
 <td><img src="https://github.com/topjohnwu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/topjohnwu/libsu"><b>topjohnwu/libsu</b></a><br><sub>A complete solution for apps using root permissions</sub></td>
-<td align="right"><b>2,126</b></td>
-<td align="right">416</td>
+<td align="right"><b>2,127</b></td>
+<td align="right">417</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">77</td>
-<td><img src="https://github.com/edenfunf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/edenfunf/reelmimic"><b>edenfunf/reelmimic</b></a><br><sub>Open-source AI video style cloning for 2D animation. Give it a reference video or YouTube link; Claude Code or Codex ag…</sub></td>
-<td align="right"><b>2,107</b></td>
-<td align="right">107</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">78</td>
 <td><img src="https://github.com/riddleling.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/riddleling/iOS-OCR-Server"><b>riddleling/iOS-OCR-Server</b></a><br><sub>An iOS OCR Server Using Apple’s Vision Framework</sub></td>
 <td align="right"><b>2,102</b></td>
 <td align="right">192</td>
 <td>Swift</td>
 </tr>
 <tr>
+<td align="right">78</td>
+<td><img src="https://github.com/edenfunf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/edenfunf/reelmimic"><b>edenfunf/reelmimic</b></a><br><sub>Open-source AI video style cloning for 2D animation. Give it a reference video or YouTube link; Claude Code or Codex ag…</sub></td>
+<td align="right"><b>2,096</b></td>
+<td align="right">112</td>
+<td>JavaScript</td>
+</tr>
+<tr>
 <td align="right">79</td>
 <td><img src="https://github.com/plateaukao.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/plateaukao/einkbro"><b>plateaukao/einkbro</b></a><br><sub>A small, fast web browser based on Android WebView. It&#39;s tailored for E-Ink devices but also works great on normal andr…</sub></td>
-<td align="right"><b>2,067</b></td>
+<td align="right"><b>2,071</b></td>
 <td align="right">137</td>
 <td>Kotlin</td>
 </tr>
@@ -598,49 +598,49 @@
 <tr>
 <td align="right">83</td>
 <td><img src="https://github.com/luc-github.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/luc-github/ESP3D"><b>luc-github/ESP3D</b></a><br><sub>FW for ESP8266/ESP8285/ESP32 used with 3D printer</sub></td>
-<td align="right"><b>2,009</b></td>
-<td align="right">498</td>
+<td align="right"><b>2,012</b></td>
+<td align="right">501</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">84</td>
+<td><img src="https://github.com/Music-and-Culture-Technology-Lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Music-and-Culture-Technology-Lab/omnizart"><b>Music-and-Culture-Technology-Lab/omnizart</b></a><br><sub>Omniscient Mozart, being able to transcribe everything in the music, including vocal, drum, chord, beat, instruments, a…</sub></td>
+<td align="right"><b>2,006</b></td>
+<td align="right">137</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">85</td>
 <td><img src="https://github.com/ranile.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ranile/gloo"><b>ranile/gloo</b></a><br><sub>A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM</sub></td>
 <td align="right"><b>2,005</b></td>
 <td align="right">167</td>
 <td>Rust</td>
 </tr>
 <tr>
-<td align="right">85</td>
-<td><img src="https://github.com/Music-and-Culture-Technology-Lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Music-and-Culture-Technology-Lab/omnizart"><b>Music-and-Culture-Technology-Lab/omnizart</b></a><br><sub>Omniscient Mozart, being able to transcribe everything in the music, including vocal, drum, chord, beat, instruments, a…</sub></td>
-<td align="right"><b>2,004</b></td>
-<td align="right">137</td>
-<td>Python</td>
-</tr>
-<tr>
 <td align="right">86</td>
 <td><img src="https://github.com/WeiChiaChang.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/WeiChiaChang/stacks-cli"><b>WeiChiaChang/stacks-cli</b></a><br><sub>📊 Analyze website stack from the terminal 💻</sub></td>
-<td align="right"><b>2,000</b></td>
+<td align="right"><b>1,999</b></td>
 <td align="right">70</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">87</td>
-<td><img src="https://github.com/master-co.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/master-co/css"><b>master-co/css</b></a><br><sub>A markup-driven CSS orchestration language for developers and AI agents.</sub></td>
-<td align="right"><b>1,955</b></td>
-<td align="right">44</td>
-<td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">88</td>
 <td><img src="https://github.com/bhnddowinf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bhnddowinf/vuejs-learn"><b>bhnddowinf/vuejs-learn</b></a><br><sub>(vue.js official website tutorials ，contains video , codes, baudi yun, youtube) 网路上有很多 VUE 综合应用的视频，但大部份的视频 ，都当你已经了解官网 所…</sub></td>
 <td align="right"><b>1,954</b></td>
 <td align="right">462</td>
 <td>JavaScript</td>
 </tr>
 <tr>
+<td align="right">88</td>
+<td><img src="https://github.com/master-co.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/master-co/css"><b>master-co/css</b></a><br><sub>A markup-driven CSS orchestration language for developers and AI agents.</sub></td>
+<td align="right"><b>1,954</b></td>
+<td align="right">44</td>
+<td>TypeScript</td>
+</tr>
+<tr>
 <td align="right">89</td>
 <td><img src="https://github.com/hsuanyi-chou.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hsuanyi-chou/shadcn-ui-expansions"><b>hsuanyi-chou/shadcn-ui-expansions</b></a><br><sub>More components built on top of shadcn-ui.</sub></td>
-<td align="right"><b>1,943</b></td>
+<td align="right"><b>1,944</b></td>
 <td align="right">85</td>
 <td>TypeScript</td>
 </tr>
@@ -661,23 +661,23 @@
 <tr>
 <td align="right">92</td>
 <td><img src="https://github.com/twtrubiks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/twtrubiks/docker-tutorial"><b>twtrubiks/docker-tutorial</b></a><br><sub>Docker 基本教學 - 從無到有 Docker-Beginners-Guide 教你用 Docker 建立 Django + PostgreSQL 📝</sub></td>
-<td align="right"><b>1,892</b></td>
-<td align="right">303</td>
+<td align="right"><b>1,891</b></td>
+<td align="right">302</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">93</td>
-<td><img src="https://github.com/f2etw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/f2etw/jobs"><b>f2etw/jobs</b></a><br><sub>Our jobs board.</sub></td>
-<td align="right"><b>1,871</b></td>
-<td align="right">74</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">94</td>
 <td><img src="https://github.com/maple3142.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maple3142/GDIndex"><b>maple3142/GDIndex</b></a><br><sub>A Google Drive Index built with Vue Running on CloudFlare Workers</sub></td>
 <td align="right"><b>1,870</b></td>
 <td align="right">1,072</td>
 <td>HTML</td>
+</tr>
+<tr>
+<td align="right">94</td>
+<td><img src="https://github.com/f2etw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/f2etw/jobs"><b>f2etw/jobs</b></a><br><sub>Our jobs board.</sub></td>
+<td align="right"><b>1,870</b></td>
+<td align="right">74</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">95</td>
@@ -710,7 +710,7 @@
 <tr>
 <td align="right">99</td>
 <td><img src="https://github.com/zi-yue-1129.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zi-yue-1129/DATAGEN"><b>zi-yue-1129/DATAGEN</b></a><br><sub>DATAGEN: AI-driven multi-agent research assistant automating hypothesis generation, data analysis, and report writing.</sub></td>
-<td align="right"><b>1,817</b></td>
+<td align="right"><b>1,818</b></td>
 <td align="right">260</td>
 <td>Python</td>
 </tr>
@@ -718,7 +718,7 @@
 <td align="right">100</td>
 <td><img src="https://github.com/jkjung-avt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jkjung-avt/tensorrt_demos"><b>jkjung-avt/tensorrt&#95;demos</b></a><br><sub>TensorRT MODNet, YOLOv4, YOLOv3, SSD, MTCNN, and GoogLeNet</sub></td>
 <td align="right"><b>1,793</b></td>
-<td align="right">538</td>
+<td align="right">537</td>
 <td>Python</td>
 </tr>
 </tbody>

@@ -5,7 +5,7 @@
 "country": {"code":"KW","name":"Kuwait","slug":"kuwait"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":398,"measuredAccounts":15,"measurementBacklog":383,"window":{"from":"2025-11-23T13:00:00Z","to":"2026-11-23T13:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":32,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":398,"measuredAccounts":17,"measurementBacklog":381,"window":{"from":"2025-11-23T13:00:00Z","to":"2026-11-23T13:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":32,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjUzOTU1ODM5","login":"Abdulkader-Safi","name":"Abdulkader Safi","url":"https://github.com/Abdulkader-Safi","avatarUrl":"https://avatars.githubusercontent.com/u/53955839?s=80&v=4","followers":82,"publicRepos":253,"location":"Kuwait","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":2030,"commits":1856,"pullRequests":113,"reviews":0,"issues":4,"repositories":56,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":2,"id":"MDQ6VXNlcjgyODE0NzM=","login":"drhema","name":"Ibrahim Elsherbiny","url":"https://github.com/drhema","avatarUrl":"https://avatars.githubusercontent.com/u/8281473?s=80&v=4","followers":43,"publicRepos":135,"location":"Kuwait","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":447,"commits":437,"pullRequests":0,"reviews":0,"issues":0,"repositories":10,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
@@ -18,8 +18,8 @@
   {"rank":9,"id":"MDQ6VXNlcjY0MTAxNzY=","login":"iZaL","name":"Afzal Abbas","url":"https://github.com/iZaL","avatarUrl":"https://avatars.githubusercontent.com/u/6410176?s=80&v=4","followers":99,"publicRepos":112,"location":"Kuwait","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25","contributions":{"public":24,"commits":23,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-25T04:00:00Z","windowTo":"2026-11-25T04:00:00Z","measuredOn":"2026-11-25"}},
   {"rank":10,"id":"MDQ6VXNlcjg3ODQzNDM=","login":"omsi96","name":"Omar","url":"https://github.com/omsi96","avatarUrl":"https://avatars.githubusercontent.com/u/8784343?s=80&v=4","followers":120,"publicRepos":101,"location":"Kuwait","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26","contributions":{"public":14,"commits":6,"pullRequests":1,"reviews":0,"issues":0,"repositories":7,"windowFrom":"2025-11-26T00:00:00Z","windowTo":"2026-11-26T00:00:00Z","measuredOn":"2026-11-26"}}
 ],
-"contentHash": "4461c3055cafdf3b",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "a7ca6f6169480220",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

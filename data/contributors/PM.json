@@ -5,14 +5,14 @@
 "country": {"code":"PM","name":"St. Pierre & Miquelon","slug":"st-pierre-miquelon"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":18,"measuredAccounts":14,"measurementBacklog":4,"window":{"from":"2025-11-26T00:00:00Z","to":"2026-11-26T00:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":22,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":18,"measuredAccounts":15,"measurementBacklog":3,"window":{"from":"2025-11-26T00:00:00Z","to":"2026-11-26T00:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":22,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOBohhfg","login":"Biscuiterie975","name":"André URTIZBEREA","url":"https://github.com/Biscuiterie975","avatarUrl":"https://avatars.githubusercontent.com/u/109601150?s=80&v=4","followers":0,"publicRepos":2,"location":"Saint-Pierre and Miquelon","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26","contributions":{"public":31,"commits":22,"pullRequests":9,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-26T00:00:00Z","windowTo":"2026-11-26T00:00:00Z","measuredOn":"2026-11-26"}},
   {"rank":2,"id":"U_kgDOB8NYiQ","login":"yanreitman","name":"Егорка","url":"https://github.com/yanreitman","avatarUrl":"https://avatars.githubusercontent.com/u/130242697?s=80&v=4","followers":0,"publicRepos":3,"location":"St. Pierre & Miquelon","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26","contributions":{"public":8,"commits":0,"pullRequests":5,"reviews":0,"issues":0,"repositories":3,"windowFrom":"2025-11-26T00:00:00Z","windowTo":"2026-11-26T00:00:00Z","measuredOn":"2026-11-26"}},
   {"rank":3,"id":"U_kgDOCT_BtA","login":"YamaCrible","name":"Crible","url":"https://github.com/YamaCrible","avatarUrl":"https://avatars.githubusercontent.com/u/155173300?s=80&v=4","followers":0,"publicRepos":3,"location":"Saint-pierre et Miquelon","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25","contributions":{"public":2,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-25T04:00:00Z","windowTo":"2026-11-25T04:00:00Z","measuredOn":"2026-11-25"}}
 ],
-"contentHash": "2a0fdf78e204d170",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "7bd26283450f6bd0",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-25",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

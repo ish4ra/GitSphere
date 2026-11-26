@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **23** | 22 Nov 2026 | <a href="../../data/developers/CF.json">JSON</a> |
+| 🟡 Provisional | **24** | 22 Nov 2026 | <a href="../../data/developers/CF.json">JSON</a> |
 
 </div>
 
@@ -170,13 +170,20 @@
 </tr>
 <tr>
 <td align="right">22</td>
+<td><a href="https://github.com/Nfirmin236"><img src="https://avatars.githubusercontent.com/u/223770542?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nfirmin236"><b>Firmin Martial NDAO</b></a><br><sub>&#64;Nfirmin236</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Bossangoa</sub></td>
+</tr>
+<tr>
+<td align="right">23</td>
 <td><a href="https://github.com/madomi1madmy"><img src="https://avatars.githubusercontent.com/u/221837486?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/madomi1madmy"><b>madomi1madmy</b></a><br><sub>&#64;madomi1madmy</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Central African Republic</sub></td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">24</td>
 <td><a href="https://github.com/sergeboda-cloud"><img src="https://avatars.githubusercontent.com/u/240913811?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sergeboda-cloud"><b>Serge Etiennovitch BODA</b></a><br><sub>&#64;sergeboda-cloud</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -190,7 +197,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 23 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 24 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 6 of 59 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **53** | 01 Nov 2026 | <a href="../data/KZ.json">JSON</a> |
+| 🟠 Stale | **56** | 01 Nov 2026 | <a href="../data/KZ.json">JSON</a> |
 
 > **Not yet re-verified.** 6 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
@@ -89,21 +89,21 @@
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/roxy-wi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/roxy-wi/roxy-wi"><b>roxy-wi/roxy-wi</b></a><br><sub>Web interface for managing Haproxy, Nginx, Apache and Keepalived servers</sub></td>
-<td align="right"><b>1,838</b></td>
+<td align="right"><b>1,837</b></td>
 <td align="right">287</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">11</td>
 <td><img src="https://github.com/HmnDev-Tech.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HmnDev-Tech/shevery"><b>HmnDev-Tech/shevery</b></a><br><sub>Shevery - Modernized Android manager with Jetpack Compose, Material 3, and compatibility enhancements.</sub></td>
-<td align="right"><b>1,760</b></td>
-<td align="right">55</td>
+<td align="right"><b>1,781</b></td>
+<td align="right">59</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/kefir500.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kefir500/apk-editor-studio"><b>kefir500/apk-editor-studio</b></a><br><sub>Powerful yet easy to use APK editor for PC and Mac.</sub></td>
-<td align="right"><b>1,703</b></td>
+<td align="right"><b>1,707</b></td>
 <td align="right">206</td>
 <td>C++</td>
 </tr>
@@ -117,8 +117,8 @@
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/bivlked.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bivlked/amneziawg-installer"><b>bivlked/amneziawg-installer</b></a><br><sub>Install your own AmneziaWG 3.1 VPN server on a fresh Ubuntu or Debian VPS with one command. Made for networks that bloc…</sub></td>
-<td align="right"><b>1,594</b></td>
-<td align="right">122</td>
+<td align="right"><b>1,625</b></td>
+<td align="right">123</td>
 <td>Shell</td>
 </tr>
 <tr>
@@ -354,41 +354,62 @@
 </tr>
 <tr>
 <td align="right">48</td>
+<td><img src="https://github.com/igumnoff.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/igumnoff/shiva"><b>igumnoff/shiva</b></a><br><sub>Shiva library: Implementation in Rust of a parser and generator for documents of any type</sub></td>
+<td align="right"><b>440</b></td>
+<td align="right">24</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><img src="https://github.com/Hexlet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Hexlet/hexletguides.github.io"><b>Hexlet/hexletguides.github.io</b></a> <sub>archived</sub><br><sub>Hexlet Guides</sub></td>
+<td align="right"><b>430</b></td>
+<td align="right">154</td>
+<td>SCSS</td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><img src="https://github.com/kekekeks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kekekeks/XamlX"><b>kekekeks/XamlX</b></a><br><sub>General purpose pluggable XAML compiler with no runtime dependencies.</sub></td>
+<td align="right"><b>409</b></td>
+<td align="right">85</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">51</td>
 <td><img src="https://github.com/azamxvit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/azamxvit/cleankicks-crm-nextjs"><b>azamxvit/cleankicks-crm-nextjs</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">49</td>
+<td align="right">52</td>
 <td><img src="https://github.com/btc-kz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/btc-kz/BTC"><b>btc-kz/BTC</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">50</td>
+<td align="right">53</td>
 <td><img src="https://github.com/symbiotic-codes-official.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/symbiotic-codes-official/symbiotic-codes-official"><b>symbiotic-codes-official/symbiotic-codes-official</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">51</td>
+<td align="right">54</td>
 <td><img src="https://github.com/ZhasulanN10.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ZhasulanN10/tgbot-converterBTX"><b>ZhasulanN10/tgbot-converterBTX</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">52</td>
+<td align="right">55</td>
 <td><img src="https://github.com/aikair.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aikair/GB_lessons"><b>aikair/GB&#95;lessons</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">53</td>
+<td align="right">56</td>
 <td><img src="https://github.com/alashtikon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alashtikon/building-segmentation-model-with-yolo-geospatial-data"><b>alashtikon/building-segmentation-model-with-yolo-geospatial-data</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -402,9 +423,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 1 stars; 53 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 1 stars; 56 attributed candidates are tracked.
 - 6 entries were carried over from the previous dataset and are pending revalidation.
-- 116 multi-repository owners are queued for expansion.
+- 110 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 145 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

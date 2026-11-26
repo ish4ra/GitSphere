@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **74** | 23 Nov 2026 | <a href="../data/SK.json">JSON</a> |
+| 🟡 Provisional | **82** | 23 Nov 2026 | <a href="../data/SK.json">JSON</a> |
 
 </div>
 
@@ -108,7 +108,7 @@
 <tr>
 <td align="right">13</td>
 <td><img src="https://github.com/JurajNyiri.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JurajNyiri/HomeAssistant-Tapo-Control"><b>JurajNyiri/HomeAssistant-Tapo-Control</b></a><br><sub>Control for Tapo cameras as a Home Assistant component</sub></td>
-<td align="right"><b>2,072</b></td>
+<td align="right"><b>2,073</b></td>
 <td align="right">175</td>
 <td>Python</td>
 </tr>
@@ -122,7 +122,7 @@
 <tr>
 <td align="right">15</td>
 <td><img src="https://github.com/ckissi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ckissi/Learn-by-projects"><b>ckissi/Learn-by-projects</b></a><br><sub>Programming tutorials for C, C#, Python, Javascript, Typescript, React, Go, HTML/CSS, Java. PHP and more</sub></td>
-<td align="right"><b>1,663</b></td>
+<td align="right"><b>1,665</b></td>
 <td align="right">192</td>
 <td>—</td>
 </tr>
@@ -136,7 +136,7 @@
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/SimpleMobileTools.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SimpleMobileTools/Simple-File-Manager"><b>SimpleMobileTools/Simple-File-Manager</b></a><br><sub>Easy app for managing your files without ads, respecting your privacy &amp; security</sub></td>
-<td align="right"><b>1,584</b></td>
+<td align="right"><b>1,583</b></td>
 <td align="right">389</td>
 <td>Kotlin</td>
 </tr>
@@ -539,6 +539,62 @@
 <td align="right">163</td>
 <td>Kotlin</td>
 </tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/RobiNN1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RobiNN1/phpCacheAdmin"><b>RobiNN1/phpCacheAdmin</b></a><br><sub>Web GUI for managing Redis, Memcached, APCu, OPCache and Realpath with data management.</sub></td>
+<td align="right"><b>450</b></td>
+<td align="right">20</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/totaljs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/totaljs/examples"><b>totaljs/examples</b></a><br><sub>Total.js examples</sub></td>
+<td align="right"><b>448</b></td>
+<td align="right">290</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/AndraxDev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AndraxDev/speak-gpt"><b>AndraxDev/speak-gpt</b></a><br><sub>Your personal voice assistant based on OpenAI ChatGPT.</sub></td>
+<td align="right"><b>448</b></td>
+<td align="right">81</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/Electry.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Electry/VitaGrafix"><b>Electry/VitaGrafix</b></a><br><sub>VitaGrafix - taiHEN plugin that allows you to change resolution and FPS cap of PS Vita games</sub></td>
+<td align="right"><b>447</b></td>
+<td align="right">25</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/MartinHeinz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MartinHeinz/MartinHeinz"><b>MartinHeinz/MartinHeinz</b></a><br><sub>My GitHub Profile README. Don&#39;t just fork, star it, so others can find it too! 👀</sub></td>
+<td align="right"><b>444</b></td>
+<td align="right">989</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/najlepsiwebdesigner.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/najlepsiwebdesigner/foundation-datepicker"><b>najlepsiwebdesigner/foundation-datepicker</b></a><br><sub>Foundation datepicker jQuery plugin</sub></td>
+<td align="right"><b>437</b></td>
+<td align="right">259</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/araghon007.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/araghon007/X1nput"><b>araghon007/X1nput</b></a><br><sub>Xinput hook for Impulse Trigger emulation</sub></td>
+<td align="right"><b>425</b></td>
+<td align="right">39</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/yanokusnir-ai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yanokusnir-ai/one-node-flux-2-klein"><b>yanokusnir-ai/one-node-flux-2-klein</b></a><br><sub>ComfyUI custom node for Flux 2 Klein: image generation, image editing, inpainting, outpainting, faceswap and more. All…</sub></td>
+<td align="right"><b>420</b></td>
+<td align="right">30</td>
+<td>JavaScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -547,8 +603,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 456 stars; 74 attributed candidates are tracked.
-- 111 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 420 stars; 82 attributed candidates are tracked.
+- 109 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 150 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

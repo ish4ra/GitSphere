@@ -45,14 +45,14 @@
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/luksa"><img src="https://avatars.githubusercontent.com/u/823581?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/luksa"><b>Marko Lukša</b></a><br><sub>&#64;luksa</sub></td>
-<td align="right"><b>1,123</b></td>
+<td align="right"><b>1,124</b></td>
 <td align="right">161</td>
 <td><sub>Slovenia</sub></td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><a href="https://github.com/andrejbauer"><img src="https://avatars.githubusercontent.com/u/646599?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andrejbauer"><b>Andrej Bauer</b></a><br><sub>&#64;andrejbauer</sub></td>
-<td align="right"><b>938</b></td>
+<td align="right"><b>939</b></td>
 <td align="right">103</td>
 <td><sub>Slovenia</sub></td>
 </tr>
@@ -367,7 +367,7 @@
 <tr>
 <td align="right">50</td>
 <td><a href="https://github.com/brodul"><img src="https://avatars.githubusercontent.com/u/204514?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brodul"><b>Andraz Brodnik</b></a><br><sub>&#64;brodul</sub></td>
-<td align="right"><b>117</b></td>
+<td align="right"><b>116</b></td>
 <td align="right">131</td>
 <td><sub>Ljubljana, Slovenia</sub></td>
 </tr>

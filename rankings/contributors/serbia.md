@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/contributors/RS.json">JSON</a> |
+| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/RS.json">JSON</a> |
 
 </div>
 
@@ -88,6 +88,15 @@
 </tr>
 <tr>
 <td align="right">8</td>
+<td><a href="https://github.com/dusansimic"><img src="https://avatars.githubusercontent.com/u/12685466?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dusansimic"><b>Dušan Simić</b></a><br><sub>&#64;dusansimic · 151 followers</sub></td>
+<td align="right"><b>403</b></td>
+<td align="right">344</td>
+<td align="right">32</td>
+<td align="right">0</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td align="right">9</td>
 <td><a href="https://github.com/stevdza-san"><img src="https://avatars.githubusercontent.com/u/14994036?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stevdza-san"><b>Stefan Jovanovic</b></a><br><sub>&#64;stevdza-san · 3,155 followers</sub></td>
 <td align="right"><b>78</b></td>
 <td align="right">70</td>
@@ -96,7 +105,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/radianttap"><img src="https://avatars.githubusercontent.com/u/80697?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/radianttap"><b>Aleksandar Vacić</b></a><br><sub>&#64;radianttap · 365 followers</sub></td>
 <td align="right"><b>42</b></td>
 <td align="right">41</td>
@@ -105,7 +114,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/valignatev"><img src="https://avatars.githubusercontent.com/u/7038954?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/valignatev"><b>Valentin Ignatev</b></a><br><sub>&#64;valignatev · 420 followers</sub></td>
 <td align="right"><b>31</b></td>
 <td align="right">20</td>
@@ -114,7 +123,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/oxfemale"><img src="https://avatars.githubusercontent.com/u/10085061?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/oxfemale"><b>lulz</b></a><br><sub>&#64;oxfemale · 199 followers</sub></td>
 <td align="right"><b>27</b></td>
 <td align="right">5</td>
@@ -123,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/Danilovesovic"><img src="https://avatars.githubusercontent.com/u/11168290?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Danilovesovic"><b>Danilo Vesovic</b></a><br><sub>&#64;Danilovesovic · 363 followers</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">20</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/umpirsky"><img src="https://avatars.githubusercontent.com/u/208957?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/umpirsky"><b>Saša Stamenković</b></a><br><sub>&#64;umpirsky · 458 followers</sub></td>
 <td align="right"><b>15</b></td>
 <td align="right">2</td>
@@ -147,7 +156,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 14 of 130 discovered developers (116 awaiting measurement).
+- **Measured:** 15 of 145 discovered developers (130 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 148 in round 1.

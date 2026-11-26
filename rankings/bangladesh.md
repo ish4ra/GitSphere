@@ -158,41 +158,41 @@
 <td align="right">20</td>
 <td><img src="https://github.com/me-shaon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/me-shaon/bangla-programming-resources"><b>me-shaon/bangla-programming-resources</b></a><br><sub>Bangla tutorial, reference and resource list on programming topics</sub></td>
 <td align="right"><b>2,021</b></td>
-<td align="right">1,539</td>
+<td align="right">1,540</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/thesabbir.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thesabbir/simple-line-icons"><b>thesabbir/simple-line-icons</b></a><br><sub>Simple and Minimal Line Icons</sub></td>
 <td align="right"><b>1,857</b></td>
-<td align="right">813</td>
+<td align="right">811</td>
 <td>CSS</td>
 </tr>
 <tr>
 <td align="right">22</td>
 <td><img src="https://github.com/eendroroy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eendroroy/alacritty-theme"><b>eendroroy/alacritty-theme</b></a> <sub>archived</sub><br><sub>Collection of Alacritty color schemes</sub></td>
-<td align="right"><b>1,849</b></td>
+<td align="right"><b>1,848</b></td>
 <td align="right">215</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">23</td>
 <td><img src="https://github.com/ZhFahim.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ZhFahim/anchor"><b>ZhFahim/anchor</b></a><br><sub>Offline first, self hostable note taking application</sub></td>
-<td align="right"><b>1,812</b></td>
+<td align="right"><b>1,834</b></td>
 <td align="right">77</td>
 <td>Dart</td>
 </tr>
 <tr>
 <td align="right">24</td>
 <td><img src="https://github.com/MShawon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MShawon/YouTube-Viewer"><b>MShawon/YouTube-Viewer</b></a><br><sub>A multithreaded view bot for YouTube</sub></td>
-<td align="right"><b>1,681</b></td>
+<td align="right"><b>1,679</b></td>
 <td align="right">794</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">25</td>
 <td><img src="https://github.com/Agontuk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Agontuk/react-native-geolocation-service"><b>Agontuk/react-native-geolocation-service</b></a><br><sub>React native geolocation service for iOS and android</sub></td>
-<td align="right"><b>1,665</b></td>
+<td align="right"><b>1,664</b></td>
 <td align="right">294</td>
 <td>Java</td>
 </tr>
@@ -213,8 +213,8 @@
 <tr>
 <td align="right">28</td>
 <td><img src="https://github.com/faahim.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/faahim/happy-birthday"><b>faahim/happy-birthday</b></a><br><sub>Wish your friend/loved-ones happy birthday in a nerdy way.</sub></td>
-<td align="right"><b>1,560</b></td>
-<td align="right">2,430</td>
+<td align="right"><b>1,561</b></td>
+<td align="right">2,431</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 575 stars; 143 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 575 stars; 150 attributed candidates are tracked.
 - 129 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 173 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

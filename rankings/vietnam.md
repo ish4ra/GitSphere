@@ -290,7 +290,7 @@
 <tr>
 <td align="right">39</td>
 <td><img src="https://github.com/tuandm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tuandm/laravue"><b>tuandm/laravue</b></a><br><sub>Admin dashboard for enterprise Laravel applications built by VueJS and Element UI https://laravue.dev</sub></td>
-<td align="right"><b>2,194</b></td>
+<td align="right"><b>2,193</b></td>
 <td align="right">627</td>
 <td>Vue</td>
 </tr>
@@ -304,105 +304,105 @@
 <tr>
 <td align="right">41</td>
 <td><img src="https://github.com/loda-kun.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/loda-kun/spring-boot-learning"><b>loda-kun/spring-boot-learning</b></a><br><sub>🍀 Hướng dẫn tất tần tật về Spring Boot, Spring Cloud ☘️ Code mẫu tiếng việt, có bài viết hướng dẫn đi kèm hình ảnh dễ…</sub></td>
-<td align="right"><b>2,074</b></td>
-<td align="right">1,214</td>
+<td align="right"><b>2,073</b></td>
+<td align="right">1,215</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">42</td>
-<td><img src="https://github.com/mezonai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mezonai/mezon"><b>mezonai/mezon</b></a><br><sub>Mezon is a new way to communicate with your team. It&#39;s faster, better organized, better for WFH.</sub></td>
-<td align="right"><b>2,031</b></td>
-<td align="right">63</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/shirai91.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shirai91/nx2android"><b>shirai91/nx2android</b></a><br><sub>A compatibility layer for porting Switch games to Android, one game at a time</sub></td>
+<td align="right"><b>2,058</b></td>
+<td align="right">278</td>
+<td>C</td>
 </tr>
 <tr>
 <td align="right">43</td>
-<td><img src="https://github.com/PokeAPI.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PokeAPI/sprites"><b>PokeAPI/sprites</b></a><br><sub>Repository containing many Pokémon sprites</sub></td>
-<td align="right"><b>2,010</b></td>
-<td align="right">409</td>
-<td>Python</td>
+<td><img src="https://github.com/mezonai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mezonai/mezon"><b>mezonai/mezon</b></a><br><sub>Mezon is a new way to communicate with your team. It&#39;s faster, better organized, better for WFH.</sub></td>
+<td align="right"><b>2,032</b></td>
+<td align="right">64</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">44</td>
-<td><img src="https://github.com/nashtech-garage.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nashtech-garage/yas"><b>nashtech-garage/yas</b></a><br><sub>YAS: Yet Another Shop, a sample microservices project in Java</sub></td>
-<td align="right"><b>1,994</b></td>
-<td align="right">743</td>
-<td>Java</td>
+<td><img src="https://github.com/PokeAPI.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PokeAPI/sprites"><b>PokeAPI/sprites</b></a><br><sub>Repository containing many Pokémon sprites</sub></td>
+<td align="right"><b>2,013</b></td>
+<td align="right">410</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">45</td>
-<td><img src="https://github.com/shirai91.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/shirai91/nx2android"><b>shirai91/nx2android</b></a><br><sub>A compatibility layer for porting Switch games to Android, one game at a time</sub></td>
-<td align="right"><b>1,949</b></td>
-<td align="right">263</td>
-<td>C</td>
+<td><img src="https://github.com/nashtech-garage.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nashtech-garage/yas"><b>nashtech-garage/yas</b></a><br><sub>YAS: Yet Another Shop, a sample microservices project in Java</sub></td>
+<td align="right"><b>1,992</b></td>
+<td align="right">742</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">46</td>
 <td><img src="https://github.com/angular-vietnam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/angular-vietnam/100-days-of-angular"><b>angular-vietnam/100-days-of-angular</b></a><br><sub>Series độc quyền cung cấp bởi thành viên của Angular Vietnam về các chủ đề liên quan tới Angular trong vòng 100 ngày.</sub></td>
-<td align="right"><b>1,893</b></td>
+<td align="right"><b>1,894</b></td>
 <td align="right">774</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">47</td>
-<td><img src="https://github.com/tungbq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tungbq/devops-basics"><b>tungbq/devops-basics</b></a><br><sub>🚀 Practical and document place for DevOps toolchain</sub></td>
-<td align="right"><b>1,872</b></td>
-<td align="right">214</td>
-<td>Shell</td>
+<td><img src="https://github.com/thanglequoc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thanglequoc/vietnamese-provinces-database"><b>thanglequoc/vietnamese-provinces-database</b></a><br><sub>Comprehensive SQL and GIS datasets for Vietnamese administrative units, including provinces, districts, wards, postal c…</sub></td>
+<td align="right"><b>1,873</b></td>
+<td align="right">443</td>
+<td>PLpgSQL</td>
 </tr>
 <tr>
 <td align="right">48</td>
-<td><img src="https://github.com/thanglequoc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thanglequoc/vietnamese-provinces-database"><b>thanglequoc/vietnamese-provinces-database</b></a><br><sub>Comprehensive SQL and GIS datasets for Vietnamese administrative units, including provinces, districts, wards, postal c…</sub></td>
-<td align="right"><b>1,868</b></td>
-<td align="right">441</td>
-<td>PLpgSQL</td>
+<td><img src="https://github.com/tungbq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tungbq/devops-basics"><b>tungbq/devops-basics</b></a><br><sub>🚀 Practical and document place for DevOps toolchain</sub></td>
+<td align="right"><b>1,873</b></td>
+<td align="right">215</td>
+<td>Shell</td>
 </tr>
 <tr>
 <td align="right">49</td>
 <td><img src="https://github.com/hnvn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hnvn/flutter_shimmer"><b>hnvn/flutter&#95;shimmer</b></a><br><sub>A package provides an easy way to add shimmer effect in Flutter project</sub></td>
-<td align="right"><b>1,863</b></td>
+<td align="right"><b>1,862</b></td>
 <td align="right">204</td>
 <td>Dart</td>
 </tr>
 <tr>
 <td align="right">50</td>
+<td><img src="https://github.com/pass-with-high-score.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pass-with-high-score/universal-installer"><b>pass-with-high-score/universal-installer</b></a><br><sub>A modern Android app for installing and managing APK packages with split APK support, silent install via Shizuku, and V…</sub></td>
+<td align="right"><b>1,850</b></td>
+<td align="right">96</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">51</td>
 <td><img src="https://github.com/anhskohbo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anhskohbo/no-captcha"><b>anhskohbo/no-captcha</b></a><br><sub>No CAPTCHA reCAPTCHA For Laravel.</sub></td>
 <td align="right"><b>1,847</b></td>
 <td align="right">229</td>
 <td>PHP</td>
 </tr>
 <tr>
-<td align="right">51</td>
+<td align="right">52</td>
 <td><img src="https://github.com/kombai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kombai/freewall"><b>kombai/freewall</b></a><br><sub>Freewall is a cross-browser and responsive jQuery plugin to help you create grid, image and masonry layouts for desktop…</sub></td>
-<td align="right"><b>1,835</b></td>
+<td align="right"><b>1,834</b></td>
 <td align="right">362</td>
 <td>HTML</td>
 </tr>
 <tr>
-<td align="right">52</td>
+<td align="right">53</td>
 <td><img src="https://github.com/duytq94.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/duytq94/flutter-chat-demo"><b>duytq94/flutter-chat-demo</b></a><br><sub>The chat app made by Flutter and Firebase</sub></td>
 <td align="right"><b>1,829</b></td>
 <td align="right">682</td>
 <td>Dart</td>
 </tr>
 <tr>
-<td align="right">53</td>
-<td><img src="https://github.com/pass-with-high-score.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pass-with-high-score/universal-installer"><b>pass-with-high-score/universal-installer</b></a><br><sub>A modern Android app for installing and managing APK packages with split APK support, silent install via Shizuku, and V…</sub></td>
-<td align="right"><b>1,828</b></td>
-<td align="right">93</td>
-<td>Kotlin</td>
-</tr>
-<tr>
 <td align="right">54</td>
 <td><img src="https://github.com/undertheseanlp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/undertheseanlp/underthesea"><b>undertheseanlp/underthesea</b></a><br><sub>Underthesea - AI Assistant</sub></td>
-<td align="right"><b>1,819</b></td>
+<td align="right"><b>1,821</b></td>
 <td align="right">309</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">55</td>
 <td><img src="https://github.com/kirevdokimov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kirevdokimov/Unity-UI-Rounded-Corners"><b>kirevdokimov/Unity-UI-Rounded-Corners</b></a><br><sub>These components and shaders allow you to add rounded corners to UI elements!</sub></td>
-<td align="right"><b>1,761</b></td>
+<td align="right"><b>1,764</b></td>
 <td align="right">148</td>
 <td>C#</td>
 </tr>
@@ -410,20 +410,20 @@
 <td align="right">56</td>
 <td><img src="https://github.com/hugo53.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hugo53/awesome-RemoteWork"><b>hugo53/awesome-RemoteWork</b></a><br><sub>Resources for remote workers: approaches, hiring page, remote life and more.</sub></td>
 <td align="right"><b>1,667</b></td>
-<td align="right">224</td>
+<td align="right">226</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">57</td>
 <td><img src="https://github.com/vanloctech.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vanloctech/youwee"><b>vanloctech/youwee</b></a><br><sub>A beautiful, cross-platform downloader for YouTube, TikTok, Instagram, and 1800+ sites (yt-dlp GUI) with AI video summa…</sub></td>
-<td align="right"><b>1,660</b></td>
-<td align="right">235</td>
+<td align="right"><b>1,664</b></td>
+<td align="right">234</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">58</td>
 <td><img src="https://github.com/hoangvvo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hoangvvo/next-connect"><b>hoangvvo/next-connect</b></a><br><sub>The TypeScript-ready, minimal router and middleware layer for Next.js, Micro, Vercel, or Node.js http/http2</sub></td>
-<td align="right"><b>1,650</b></td>
+<td align="right"><b>1,649</b></td>
 <td align="right">64</td>
 <td>TypeScript</td>
 </tr>
@@ -431,7 +431,7 @@
 <td align="right">59</td>
 <td><img src="https://github.com/NearHuscarl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NearHuscarl/flutter_login"><b>NearHuscarl/flutter&#95;login</b></a><br><sub>Provides login screen with login/signup functionalities to help speed up development</sub></td>
 <td align="right"><b>1,587</b></td>
-<td align="right">804</td>
+<td align="right">803</td>
 <td>Dart</td>
 </tr>
 <tr>
@@ -451,28 +451,28 @@
 <tr>
 <td align="right">62</td>
 <td><img src="https://github.com/nduckmink.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nduckmink/arkon"><b>nduckmink/arkon</b></a><br><sub>Arkon: Enterprise AI Knowledge Hub &amp; MCP Server. Self-hosted knowledge base for teams to manage RAG contexts, access po…</sub></td>
-<td align="right"><b>1,528</b></td>
+<td align="right"><b>1,529</b></td>
 <td align="right">308</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">63</td>
 <td><img src="https://github.com/kakserpom.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kakserpom/phpdaemon"><b>kakserpom/phpdaemon</b></a><br><sub>Asynchronous server-side framework for network applications implemented in PHP using libevent</sub></td>
-<td align="right"><b>1,510</b></td>
+<td align="right"><b>1,509</b></td>
 <td align="right">221</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">64</td>
 <td><img src="https://github.com/serwist.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/serwist/serwist"><b>serwist/serwist</b></a><br><sub>A Swiss Army knife for service workers.</sub></td>
-<td align="right"><b>1,507</b></td>
+<td align="right"><b>1,508</b></td>
 <td align="right">39</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">65</td>
 <td><img src="https://github.com/aiko-chan-ai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aiko-chan-ai/DiscordBotClient"><b>aiko-chan-ai/DiscordBotClient</b></a><br><sub>A patched version of Discord, with bot login &amp; Vencord support</sub></td>
-<td align="right"><b>1,500</b></td>
+<td align="right"><b>1,506</b></td>
 <td align="right">115</td>
 <td>TypeScript</td>
 </tr>

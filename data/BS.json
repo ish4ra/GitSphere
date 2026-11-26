@@ -5,7 +5,7 @@
 "country": {"code":"BS","name":"Bahamas","slug":"bahamas"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":97,"ownerExpansionBacklog":148,"candidates":97,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":61,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":97,"ownerExpansionBacklog":145,"candidates":97,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":61,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"ya-provider-winui","nameWithOwner":"Thorg-Dev/ya-provider-winui","url":"https://github.com/Thorg-Dev/ya-provider-winui","description":null,"stars":1,"forks":2,"primaryLanguage":"C#","license":{"spdxId":"GPL-3.0"},"createdAt":"2021-05-27T16:06:40Z","pushedAt":"2022-04-06T16:23:10Z","archived":false,"owner":{"login":"Thorg-Dev","name":"Thorg Universe","type":"Organization","url":"https://github.com/Thorg-Dev","location":"Bahamas","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Personal-Portfolio","nameWithOwner":"Glint-web18/Personal-Portfolio","url":"https://github.com/Glint-web18/Personal-Portfolio","description":null,"stars":1,"forks":1,"primaryLanguage":"HTML","license":null,"createdAt":"2021-02-23T18:57:04Z","pushedAt":"2021-03-06T09:20:12Z","archived":false,"owner":{"login":"Glint-web18","name":"Justin Glinton","type":"User","url":"https://github.com/Glint-web18","location":"Nassau,Bahamas","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -105,8 +105,8 @@
   {"rank":96,"id":null,"name":"50-projects","nameWithOwner":"darringtonricardo/50-projects","url":"https://github.com/darringtonricardo/50-projects","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2021-07-27T02:29:51Z","pushedAt":"2021-07-28T03:34:11Z","archived":false,"owner":{"login":"darringtonricardo","name":null,"type":"User","url":"https://github.com/darringtonricardo","location":"The Bahamas","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":97,"id":null,"name":"voyage","nameWithOwner":"davonrolle/voyage","url":"https://github.com/davonrolle/voyage","description":null,"stars":0,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2025-01-15T01:24:02Z","pushedAt":"2025-01-17T00:29:30Z","archived":false,"owner":{"login":"davonrolle","name":"von","type":"User","url":"https://github.com/davonrolle","location":"Bahamas","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "59c8f6ca77fde6d0",
-"updatedAt": "2026-11-25T15:11:00.366Z",
+"contentHash": "14beddc3f2adfd51",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-04",
-"generatedAt": "2026-11-25T15:11:00.366Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

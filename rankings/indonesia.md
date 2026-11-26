@@ -234,21 +234,21 @@
 <tr>
 <td align="right">31</td>
 <td><img src="https://github.com/rmyndharis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rmyndharis/antigravity-skills"><b>rmyndharis/antigravity-skills</b></a><br><sub>A curated collection of Agent Skills for Google Antigravity</sub></td>
-<td align="right"><b>2,077</b></td>
-<td align="right">300</td>
+<td align="right"><b>2,102</b></td>
+<td align="right">304</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">32</td>
 <td><img src="https://github.com/mgilangjanuar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mgilangjanuar/teledrive"><b>mgilangjanuar/teledrive</b></a> <sub>archived</sub><br><sub>The Google Drive/OneDrive/etc alternative using Telegram API</sub></td>
-<td align="right"><b>2,035</b></td>
-<td align="right">899</td>
+<td align="right"><b>2,036</b></td>
+<td align="right">898</td>
 <td>CSS</td>
 </tr>
 <tr>
 <td align="right">33</td>
 <td><img src="https://github.com/Ranginang67.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ranginang67/DarkFly-Tool"><b>Ranginang67/DarkFly-Tool</b></a><br><sub>DarkFly tool V.4.0</sub></td>
-<td align="right"><b>2,009</b></td>
+<td align="right"><b>2,013</b></td>
 <td align="right">412</td>
 <td>Python</td>
 </tr>
@@ -262,8 +262,8 @@
 <tr>
 <td align="right">35</td>
 <td><img src="https://github.com/hilmanski.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hilmanski/freeStuffDev"><b>hilmanski/freeStuffDev</b></a><br><sub>Complete list of free stuff for developer</sub></td>
-<td align="right"><b>1,977</b></td>
-<td align="right">1,316</td>
+<td align="right"><b>1,979</b></td>
+<td align="right">1,327</td>
 <td>Astro</td>
 </tr>
 <tr>
@@ -276,51 +276,51 @@
 <tr>
 <td align="right">37</td>
 <td><img src="https://github.com/ctrlplusb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ctrlplusb/react-sizeme"><b>ctrlplusb/react-sizeme</b></a><br><sub>Make your React Components aware of their width and height!</sub></td>
-<td align="right"><b>1,958</b></td>
+<td align="right"><b>1,957</b></td>
 <td align="right">92</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">38</td>
 <td><img src="https://github.com/zakirkun.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zakirkun/guardian-cli"><b>zakirkun/guardian-cli</b></a><br><sub>Guardian is a production-ready AI-powered penetration testing automation CLI tool that leverages Google Gemini and Lang…</sub></td>
-<td align="right"><b>1,948</b></td>
+<td align="right"><b>1,954</b></td>
 <td align="right">378</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">39</td>
 <td><img src="https://github.com/null2264.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/null2264/yokai"><b>null2264/yokai</b></a><br><sub>Free and open source manga reader for Android</sub></td>
-<td align="right"><b>1,924</b></td>
-<td align="right">141</td>
+<td align="right"><b>1,923</b></td>
+<td align="right">143</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">40</td>
-<td><img src="https://github.com/kevinhermawan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kevinhermawan/Ollamac"><b>kevinhermawan/Ollamac</b></a><br><sub>Mac app for Ollama</sub></td>
-<td align="right"><b>1,905</b></td>
-<td align="right">99</td>
-<td>Swift</td>
-</tr>
-<tr>
-<td align="right">41</td>
 <td><img src="https://github.com/Linaqruf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Linaqruf/kohya-trainer"><b>Linaqruf/kohya-trainer</b></a><br><sub>Train LoRAs on Google Colab in one click: Illustrious/NoobAI, Anima and MOSS-Image, over kohya-ss/sd-scripts.</sub></td>
-<td align="right"><b>1,904</b></td>
+<td align="right"><b>1,905</b></td>
 <td align="right">329</td>
 <td>Python</td>
 </tr>
 <tr>
+<td align="right">41</td>
+<td><img src="https://github.com/kevinhermawan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kevinhermawan/Ollamac"><b>kevinhermawan/Ollamac</b></a><br><sub>Mac app for Ollama</sub></td>
+<td align="right"><b>1,904</b></td>
+<td align="right">99</td>
+<td>Swift</td>
+</tr>
+<tr>
 <td align="right">42</td>
-<td><img src="https://github.com/gloeyisk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gloeyisk/universal-gms-doze"><b>gloeyisk/universal-gms-doze</b></a><br><sub>Patches Google Play services app and certain processes/services to be able to use battery optimization</sub></td>
-<td align="right"><b>1,887</b></td>
-<td align="right">42</td>
-<td>Shell</td>
+<td><img src="https://github.com/tickernelz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tickernelz/opencode-mem"><b>tickernelz/opencode-mem</b></a><br><sub>OpenCode plugin that gives coding agents persistent memory using local vector database</sub></td>
+<td align="right"><b>1,892</b></td>
+<td align="right">194</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">43</td>
-<td><img src="https://github.com/tickernelz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tickernelz/opencode-mem"><b>tickernelz/opencode-mem</b></a><br><sub>OpenCode plugin that gives coding agents persistent memory using local vector database</sub></td>
-<td align="right"><b>1,884</b></td>
-<td align="right">191</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/gloeyisk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gloeyisk/universal-gms-doze"><b>gloeyisk/universal-gms-doze</b></a><br><sub>Patches Google Play services app and certain processes/services to be able to use battery optimization</sub></td>
+<td align="right"><b>1,887</b></td>
+<td align="right">43</td>
+<td>Shell</td>
 </tr>
 <tr>
 <td align="right">44</td>
@@ -332,8 +332,8 @@
 <tr>
 <td align="right">45</td>
 <td><img src="https://github.com/Aslam97.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Aslam97/minimal-tiptap"><b>Aslam97/minimal-tiptap</b></a><br><sub>Minimal Tiptap Editor</sub></td>
-<td align="right"><b>1,798</b></td>
-<td align="right">112</td>
+<td align="right"><b>1,800</b></td>
+<td align="right">111</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -346,14 +346,14 @@
 <tr>
 <td align="right">47</td>
 <td><img src="https://github.com/KiKaraage.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KiKaraage/ArcWTF"><b>KiKaraage/ArcWTF</b></a><br><sub>A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨</sub></td>
-<td align="right"><b>1,715</b></td>
+<td align="right"><b>1,714</b></td>
 <td align="right">26</td>
 <td>CSS</td>
 </tr>
 <tr>
 <td align="right">48</td>
 <td><img src="https://github.com/sumodirjo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sumodirjo/engineering-blogs"><b>sumodirjo/engineering-blogs</b></a><br><sub>A curated list of engineering blogs of startup and enterprise companies</sub></td>
-<td align="right"><b>1,678</b></td>
+<td align="right"><b>1,677</b></td>
 <td align="right">240</td>
 <td>—</td>
 </tr>
@@ -374,7 +374,7 @@
 <tr>
 <td align="right">51</td>
 <td><img src="https://github.com/dwisiswant0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dwisiswant0/crlfuzz"><b>dwisiswant0/crlfuzz</b></a><br><sub>A fast tool to scan CRLF vulnerability written in Go</sub></td>
-<td align="right"><b>1,578</b></td>
+<td align="right"><b>1,577</b></td>
 <td align="right">146</td>
 <td>Go</td>
 </tr>
@@ -388,15 +388,15 @@
 <tr>
 <td align="right">53</td>
 <td><img src="https://github.com/MadeBaruna.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MadeBaruna/paimon-moe"><b>MadeBaruna/paimon-moe</b></a><br><sub>Your best Genshin Impact companion! Help you plan what to farm with ascension calculator and database. Also track your…</sub></td>
-<td align="right"><b>1,543</b></td>
-<td align="right">280</td>
+<td align="right"><b>1,542</b></td>
+<td align="right">279</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">54</td>
 <td><img src="https://github.com/stegripe.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stegripe/rawon"><b>stegripe/rawon</b></a><br><sub>A simple powerful Discord music (multi-)bot built to fulfill your production desires. Easy to use, with no coding requi…</sub></td>
 <td align="right"><b>1,533</b></td>
-<td align="right">1,623</td>
+<td align="right">1,622</td>
 <td>TypeScript</td>
 </tr>
 <tr>

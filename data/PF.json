@@ -5,7 +5,7 @@
 "country": {"code":"PF","name":"French Polynesia","slug":"french-polynesia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":63,"ownerExpansionBacklog":84,"candidates":64,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":55,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":63,"ownerExpansionBacklog":86,"candidates":64,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":55,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxODQwNzc4Njg=","name":"spring-addons","nameWithOwner":"ch4mpy/spring-addons","url":"https://github.com/ch4mpy/spring-addons","description":"OAuth2 / OIDC for Spring backends of SPAs and mobile apps: the Spring Security beans the official starters leave to you (authorities, CORS, 2xx/401 for fetch,…","stars":673,"forks":98,"primaryLanguage":"Java","license":{"spdxId":"Apache-2.0"},"createdAt":"2019-04-29T13:37:17Z","pushedAt":"2026-11-23T16:09:02Z","archived":false,"owner":{"login":"ch4mpy","name":"Jérôme Wacongne","type":"User","url":"https://github.com/ch4mpy","location":"Papeete, French Polynesia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":null,"name":"SmartCars","nameWithOwner":"DLTBryan/SmartCars","url":"https://github.com/DLTBryan/SmartCars","description":null,"stars":1,"forks":2,"primaryLanguage":"C++","license":null,"createdAt":"2021-10-29T12:10:05Z","pushedAt":"2022-01-17T21:20:08Z","archived":false,"owner":{"login":"DLTBryan","name":null,"type":"User","url":"https://github.com/DLTBryan","location":"French Polynesia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -72,8 +72,8 @@
   {"rank":63,"id":null,"name":"poker-planning","nameWithOwner":"yannkb/poker-planning","url":"https://github.com/yannkb/poker-planning","description":null,"stars":0,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2026-06-09T21:54:13Z","pushedAt":"2026-07-17T22:09:38Z","archived":false,"owner":{"login":"yannkb","name":"Yann Bouchereau","type":"User","url":"https://github.com/yannkb","location":"Papeete, French Polynesia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":64,"id":null,"name":"codesamples","nameWithOwner":"zozolito/codesamples","url":"https://github.com/zozolito/codesamples","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":{"spdxId":"MIT"},"createdAt":"2026-05-15T03:23:15Z","pushedAt":"2026-09-15T22:43:35Z","archived":false,"owner":{"login":"zozolito","name":"Teura ORBECK","type":"User","url":"https://github.com/zozolito","location":"French Polynesia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "53e7d944a224ab20",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "138b2987be01d016",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

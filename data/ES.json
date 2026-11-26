@@ -5,7 +5,7 @@
 "country": {"code":"ES","name":"Spain","slug":"spain"},
 "status": "published",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"global-star-scan","cutoffStars":3206,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":134,"candidates":149,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":125,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"global-star-scan","cutoffStars":3206,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":134,"candidates":150,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":125,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOODsgVw","name":"system-prompts-and-models-of-ai-tools","nameWithOwner":"x1xhlol/system-prompts-and-models-of-ai-tools","url":"https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools","description":"FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qod…","stars":144850,"forks":34628,"primaryLanguage":null,"license":{"spdxId":"GPL-3.0"},"createdAt":"2025-03-05T16:38:29Z","pushedAt":"2026-10-12T15:19:01Z","archived":false,"owner":{"login":"x1xhlol","name":"Lucas Valbuena","type":"User","url":"https://github.com/x1xhlol","location":"Spain","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"R_kgDOR50T8g","name":"career-ops","nameWithOwner":"career-ops-hq/career-ops","url":"https://github.com/career-ops-hq/career-ops","description":"Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover l…","stars":84760,"forks":15499,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2026-04-04T18:21:18Z","pushedAt":"2026-11-25T10:53:56Z","archived":false,"owner":{"login":"career-ops-hq","name":"career-ops","type":"Organization","url":"https://github.com/career-ops-hq","location":"Spain","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":"MDEwOlJlcG9zaXRvcnkyNjgwODQzMjY=","name":"kdmapper","nameWithOwner":"TheCruZ/kdmapper","url":"https://github.com/TheCruZ/kdmapper","description":"KDMapper is a simple tool that exploits iqvw64e.sys Intel driver to manually map non-signed drivers in memory","stars":3224,"forks":685,"primaryLanguage":"C++","license":{"spdxId":"MIT"},"createdAt":"2020-05-30T13:23:48Z","pushedAt":"2026-08-23T14:14:22Z","archived":false,"owner":{"login":"TheCruZ","name":null,"type":"User","url":"https://github.com/TheCruZ","location":"España/Madrid","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-26"},
   {"rank":100,"id":"MDEwOlJlcG9zaXRvcnkxMTY3OTIyMzM=","name":"PyFlow","nameWithOwner":"pedroCabrera/PyFlow","url":"https://github.com/pedroCabrera/PyFlow","description":"Visual scripting framework for python","stars":3206,"forks":387,"primaryLanguage":"Python","license":{"spdxId":"Apache-2.0"},"createdAt":"2018-01-09T09:05:27Z","pushedAt":"2025-09-02T11:08:15Z","archived":false,"owner":{"login":"pedroCabrera","name":"Pedrito","type":"User","url":"https://github.com/pedroCabrera","location":"Spain","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"}
 ],
-"contentHash": "16718d8e7ed00a4a",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "abd4355095a7f2e6",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-25",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

@@ -135,17 +135,17 @@
 </tr>
 <tr>
 <td align="right">17</td>
-<td><a href="https://github.com/samuelnub"><img src="https://avatars.githubusercontent.com/u/12869739?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/samuelnub"><b>Sam Yap</b></a><br><sub>&#64;samuelnub</sub></td>
-<td align="right"><b>21</b></td>
-<td align="right">41</td>
-<td><sub>Douglas, Isle of Man</sub></td>
-</tr>
-<tr>
-<td align="right">18</td>
 <td><a href="https://github.com/tonypartridge"><img src="https://avatars.githubusercontent.com/u/1400982?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tonypartridge"><b>Tony Partridge</b></a><br><sub>&#64;tonypartridge</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">105</td>
 <td><sub>Isle of Man</sub></td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><a href="https://github.com/samuelnub"><img src="https://avatars.githubusercontent.com/u/12869739?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/samuelnub"><b>Sam Yap</b></a><br><sub>&#64;samuelnub</sub></td>
+<td align="right"><b>20</b></td>
+<td align="right">41</td>
+<td><sub>Douglas, Isle of Man</sub></td>
 </tr>
 <tr>
 <td align="right">19</td>

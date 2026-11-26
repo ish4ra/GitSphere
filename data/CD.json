@@ -5,7 +5,7 @@
 "country": {"code":"CD","name":"DR Congo","slug":"dr-congo"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":18,"ownerExpansionBacklog":144,"candidates":18,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":112,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":18,"ownerExpansionBacklog":141,"candidates":18,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":112,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"tpgroupe2","nameWithOwner":"nehemie98/tpgroupe2","url":"https://github.com/nehemie98/tpgroupe2","description":null,"stars":1,"forks":3,"primaryLanguage":"HTML","license":null,"createdAt":"2025-03-05T08:14:47Z","pushedAt":"2025-03-08T22:51:31Z","archived":false,"owner":{"login":"nehemie98","name":"nehemie","type":"User","url":"https://github.com/nehemie98","location":"butembo DRC","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"exo-afrix-html-devops","nameWithOwner":"Tacite243/exo-afrix-html-devops","url":"https://github.com/Tacite243/exo-afrix-html-devops","description":null,"stars":1,"forks":2,"primaryLanguage":"HTML","license":{"spdxId":"MIT"},"createdAt":"2025-11-17T09:40:48Z","pushedAt":"2025-11-25T06:45:36Z","archived":false,"owner":{"login":"Tacite243","name":"Tacite WAKILONGO","type":"User","url":"https://github.com/Tacite243","location":"Goma, Democratic Republic of the Congo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -26,8 +26,8 @@
   {"rank":17,"id":null,"name":"Arithmetica","nameWithOwner":"66koko/Arithmetica","url":"https://github.com/66koko/Arithmetica","description":null,"stars":1,"forks":0,"primaryLanguage":"Java","license":{"spdxId":"MIT"},"createdAt":"2016-02-18T07:47:36Z","pushedAt":"2016-02-18T08:32:14Z","archived":false,"owner":{"login":"66koko","name":"KOKO Landry C.","type":"User","url":"https://github.com/66koko","location":"DR CONGO","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":18,"id":null,"name":"brainstorms-snel","nameWithOwner":"aarondizele/brainstorms-snel","url":"https://github.com/aarondizele/brainstorms-snel","description":null,"stars":1,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2023-11-10T02:04:53Z","pushedAt":"2024-08-31T15:05:40Z","archived":false,"owner":{"login":"aarondizele","name":"Aaron-Laxis Dizele","type":"User","url":"https://github.com/aarondizele","location":"Kinshasa, DRC","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-04","pendingRevalidation":true}
 ],
-"contentHash": "2dde786fbc05e87f",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "7a6c66a9b6dd6b6f",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-04",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

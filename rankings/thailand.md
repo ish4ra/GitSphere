@@ -178,14 +178,14 @@
 <tr>
 <td align="right">23</td>
 <td><img src="https://github.com/ratiw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ratiw/vuetable-2"><b>ratiw/vuetable-2</b></a><br><sub>data table simplify! -- datatable component for Vue 2.x. See documentation at</sub></td>
-<td align="right"><b>2,137</b></td>
+<td align="right"><b>2,136</b></td>
 <td align="right">391</td>
 <td>Vue</td>
 </tr>
 <tr>
 <td align="right">24</td>
 <td><img src="https://github.com/lukechilds.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lukechilds/reverse-shell"><b>lukechilds/reverse-shell</b></a><br><sub>Reverse Shell as a Service</sub></td>
-<td align="right"><b>2,075</b></td>
+<td align="right"><b>2,077</b></td>
 <td align="right">249</td>
 <td>Go</td>
 </tr>
@@ -227,7 +227,7 @@
 <tr>
 <td align="right">30</td>
 <td><img src="https://github.com/akexorcist.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/akexorcist/BluetoothSPPLibrary"><b>akexorcist/BluetoothSPPLibrary</b></a> <sub>archived</sub><br><sub>&#91;UNMAINTAINED&#93;&#91;Android&#93; Bluetooth Serial Port Profile which comfortable to developer application to communication with…</sub></td>
-<td align="right"><b>1,701</b></td>
+<td align="right"><b>1,700</b></td>
 <td align="right">562</td>
 <td>Java</td>
 </tr>
@@ -248,8 +248,8 @@
 <tr>
 <td align="right">33</td>
 <td><img src="https://github.com/insthync.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/insthync/awesome-unreal"><b>insthync/awesome-unreal</b></a><br><sub>A categorized collection of awesome opensource Unreal Engine 4 and 5 repos</sub></td>
-<td align="right"><b>1,639</b></td>
-<td align="right">138</td>
+<td align="right"><b>1,642</b></td>
+<td align="right">139</td>
 <td>—</td>
 </tr>
 <tr>
@@ -269,7 +269,7 @@
 <tr>
 <td align="right">36</td>
 <td><img src="https://github.com/NotPrab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NotPrab/.NET-Obfuscator"><b>NotPrab/.NET-Obfuscator</b></a><br><sub>Lists of .NET Obfuscator (Free, Freemium, Paid and Open Source )</sub></td>
-<td align="right"><b>1,501</b></td>
+<td align="right"><b>1,502</b></td>
 <td align="right">221</td>
 <td>Python</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 540 stars; 137 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 540 stars; 143 attributed candidates are tracked.
 - 113 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 185 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

@@ -5,7 +5,7 @@
 "country": {"code":"MS","name":"Montserrat","slug":"montserrat"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":18,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":8,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":18,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":8,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjEyMDUwMjY=","login":"manishval","name":null,"url":"https://github.com/manishval","avatarUrl":"https://avatars.githubusercontent.com/u/1205026?s=80&v=4","followers":14,"publicRepos":33,"location":"Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":2,"id":"MDQ6VXNlcjE1Njg1Mzc2","login":"MagicStarTrace","name":"Magic","url":"https://github.com/MagicStarTrace","avatarUrl":"https://avatars.githubusercontent.com/u/15685376?s=80&v=4","followers":6,"publicRepos":22,"location":"0008 ,Mayer Pike ,Port Lesaborough ,Arkansas ,Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
@@ -21,13 +21,13 @@
   {"rank":12,"id":"MDQ6VXNlcjc4NTA3Mjcw","login":"copcaress","name":"Nikita Copcar","url":"https://github.com/copcaress","avatarUrl":"https://avatars.githubusercontent.com/u/78507270?s=80&v=4","followers":0,"publicRepos":2,"location":"Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":13,"id":"U_kgDOCFsRrg","login":"Vanya993","name":"Vanessa O. V. Mark","url":"https://github.com/Vanya993","avatarUrl":"https://avatars.githubusercontent.com/u/140186030?s=80&v=4","followers":0,"publicRepos":1,"location":"Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":14,"id":"U_kgDOEZ9UtQ","login":"wake-up-sluts","name":"Cosmosnaut","url":"https://github.com/wake-up-sluts","avatarUrl":"https://avatars.githubusercontent.com/u/295654581?s=80&v=4","followers":0,"publicRepos":1,"location":"Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
-  {"rank":15,"id":"U_kgDOBuD5iw","login":"Fggpotoerytiop","name":"Alexsherryann Nelson","url":"https://github.com/Fggpotoerytiop","avatarUrl":"https://avatars.githubusercontent.com/u/115407243?s=80&v=4","followers":0,"publicRepos":0,"location":"Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
-  {"rank":16,"id":"MDQ6VXNlcjQ0NDMyMTQ3","login":"pau-luque","name":"Pau Luque","url":"https://github.com/pau-luque","avatarUrl":"https://avatars.githubusercontent.com/u/44432147?s=80&v=4","followers":0,"publicRepos":0,"location":"Montserrat, Barcelona","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
+  {"rank":15,"id":"U_kgDOBuD5iw","login":"Fggpotoerytiop","name":"Alexsherryann Nelson","url":"https://github.com/Fggpotoerytiop","avatarUrl":"https://avatars.githubusercontent.com/u/115407243?s=80&v=4","followers":0,"publicRepos":0,"location":"Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
+  {"rank":16,"id":"MDQ6VXNlcjQ0NDMyMTQ3","login":"pau-luque","name":"Pau Luque","url":"https://github.com/pau-luque","avatarUrl":"https://avatars.githubusercontent.com/u/44432147?s=80&v=4","followers":0,"publicRepos":0,"location":"Montserrat, Barcelona","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":17,"id":"U_kgDOC0g4wQ","login":"Plata-ui","name":"Plata","url":"https://github.com/Plata-ui","avatarUrl":"https://avatars.githubusercontent.com/u/189282497?s=80&v=4","followers":0,"publicRepos":0,"location":"Carrer Verge de Montserrat, 8","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":18,"id":"MDQ6VXNlcjI4OTk3MTY5","login":"schiller89159","name":"Pietro Schiller","url":"https://github.com/schiller89159","avatarUrl":"https://avatars.githubusercontent.com/u/28997169?s=80&v=4","followers":0,"publicRepos":0,"location":"Montserrat","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "a107fc8eb7ba75dd",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "04de7d0bb03421d3",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

@@ -312,20 +312,20 @@
 <td align="right">42</td>
 <td><img src="https://github.com/dominictarr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dominictarr/event-stream"><b>dominictarr/event-stream</b></a> <sub>archived</sub><br><sub>EventStream is like functional programming meets IO</sub></td>
 <td align="right"><b>2,170</b></td>
-<td align="right">147</td>
+<td align="right">146</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">43</td>
 <td><img src="https://github.com/hellodigua.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hellodigua/code996"><b>hellodigua/code996</b></a><br><sub>统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度。 Analyzes the commit time distribution of Git projects to infer coding work inten…</sub></td>
-<td align="right"><b>2,155</b></td>
+<td align="right"><b>2,159</b></td>
 <td align="right">85</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">44</td>
 <td><img src="https://github.com/bitshifter.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bitshifter/glam-rs"><b>bitshifter/glam-rs</b></a><br><sub>A simple and fast linear algebra library for games and graphics</sub></td>
-<td align="right"><b>2,099</b></td>
+<td align="right"><b>2,100</b></td>
 <td align="right">209</td>
 <td>Rust</td>
 </tr>
@@ -333,48 +333,48 @@
 <td align="right">45</td>
 <td><img src="https://github.com/brendon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/brendon/acts_as_list"><b>brendon/acts&#95;as&#95;list</b></a><br><sub>An ActiveRecord plugin for managing lists.</sub></td>
 <td align="right"><b>2,077</b></td>
-<td align="right">357</td>
+<td align="right">358</td>
 <td>Ruby</td>
 </tr>
 <tr>
 <td align="right">46</td>
 <td><img src="https://github.com/benhoyt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/benhoyt/goawk"><b>benhoyt/goawk</b></a><br><sub>A POSIX-compliant AWK interpreter written in Go, with CSV support</sub></td>
 <td align="right"><b>2,072</b></td>
-<td align="right">105</td>
+<td align="right">106</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">47</td>
 <td><img src="https://github.com/ScenicFramework.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ScenicFramework/scenic"><b>ScenicFramework/scenic</b></a><br><sub>Core Scenic library</sub></td>
 <td align="right"><b>2,061</b></td>
-<td align="right">138</td>
+<td align="right">139</td>
 <td>Elixir</td>
 </tr>
 <tr>
 <td align="right">48</td>
 <td><img src="https://github.com/jsdecena.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jsdecena/laracom"><b>jsdecena/laracom</b></a><br><sub>Laravel FREE E-Commerce Software</sub></td>
-<td align="right"><b>2,040</b></td>
+<td align="right"><b>2,039</b></td>
 <td align="right">854</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">49</td>
 <td><img src="https://github.com/dominictarr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dominictarr/JSON.sh"><b>dominictarr/JSON.sh</b></a><br><sub>a pipeable JSON parser written in Bash</sub></td>
-<td align="right"><b>2,024</b></td>
+<td align="right"><b>2,025</b></td>
 <td align="right">264</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">50</td>
 <td><img src="https://github.com/severity1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/severity1/claude-code-prompt-improver"><b>severity1/claude-code-prompt-improver</b></a><br><sub>Intelligent prompt improver hook for Claude Code. Type vibes, ship precision.</sub></td>
-<td align="right"><b>1,972</b></td>
+<td align="right"><b>1,973</b></td>
 <td align="right">157</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">51</td>
 <td><img src="https://github.com/meganz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/meganz/MEGAsync"><b>meganz/MEGAsync</b></a><br><sub>Easy automated syncing between your computers and your MEGA Cloud Drive</sub></td>
-<td align="right"><b>1,929</b></td>
+<td align="right"><b>1,930</b></td>
 <td align="right">312</td>
 <td>C++</td>
 </tr>
@@ -395,22 +395,22 @@
 <tr>
 <td align="right">54</td>
 <td><img src="https://github.com/meganz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/meganz/android"><b>meganz/android</b></a><br><sub>MEGA Android App</sub></td>
-<td align="right"><b>1,900</b></td>
+<td align="right"><b>1,903</b></td>
 <td align="right">409</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">55</td>
 <td><img src="https://github.com/yackermann.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yackermann/awesome-webauthn"><b>yackermann/awesome-webauthn</b></a><br><sub>🔐 A curated list of awesome WebAuthn and Passkey resources</sub></td>
-<td align="right"><b>1,862</b></td>
-<td align="right">156</td>
+<td align="right"><b>1,864</b></td>
+<td align="right">157</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">56</td>
 <td><img src="https://github.com/jchanvfx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jchanvfx/NodeGraphQt"><b>jchanvfx/NodeGraphQt</b></a><br><sub>A node graph UI framework written in python using Qt.</sub></td>
-<td align="right"><b>1,839</b></td>
-<td align="right">346</td>
+<td align="right"><b>1,843</b></td>
+<td align="right">347</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -423,7 +423,7 @@
 <tr>
 <td align="right">58</td>
 <td><img src="https://github.com/acaudwell.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/acaudwell/Logstalgia"><b>acaudwell/Logstalgia</b></a><br><sub>replay or stream website access logs as a retro arcade game</sub></td>
-<td align="right"><b>1,807</b></td>
+<td align="right"><b>1,805</b></td>
 <td align="right">171</td>
 <td>C++</td>
 </tr>
@@ -437,15 +437,15 @@
 <tr>
 <td align="right">60</td>
 <td><img src="https://github.com/lukemurraynz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lukemurraynz/awesome-azure-architecture"><b>lukemurraynz/awesome-azure-architecture</b></a><br><sub>AWESOME-Azure-Architecture - https://aka.ms/AwesomeAzureArchitecture</sub></td>
-<td align="right"><b>1,737</b></td>
-<td align="right">358</td>
+<td align="right"><b>1,739</b></td>
+<td align="right">357</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">61</td>
 <td><img src="https://github.com/jesselau76.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jesselau76/ebook-GPT-translator"><b>jesselau76/ebook-GPT-translator</b></a><br><sub>Enjoy reading with your favorite style.</sub></td>
 <td align="right"><b>1,736</b></td>
-<td align="right">206</td>
+<td align="right">204</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -458,7 +458,7 @@
 <tr>
 <td align="right">63</td>
 <td><img src="https://github.com/mikespook.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mikespook/gorbac"><b>mikespook/gorbac</b></a><br><sub>goRBAC provides a lightweight role-based access control (RBAC) implementation in Golang.</sub></td>
-<td align="right"><b>1,676</b></td>
+<td align="right"><b>1,675</b></td>
 <td align="right">180</td>
 <td>Go</td>
 </tr>
@@ -486,57 +486,57 @@
 <tr>
 <td align="right">67</td>
 <td><img src="https://github.com/RichardLitt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RichardLitt/awesome-fantasy"><b>RichardLitt/awesome-fantasy</b></a><br><sub>:european&#95;castle: Fantasy literature worth reading</sub></td>
-<td align="right"><b>1,624</b></td>
+<td align="right"><b>1,629</b></td>
 <td align="right">164</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">68</td>
+<td><img src="https://github.com/hardbyte.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hardbyte/python-can"><b>hardbyte/python-can</b></a><br><sub>The can package provides controller area network support for Python developers</sub></td>
+<td align="right"><b>1,619</b></td>
+<td align="right">715</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">69</td>
 <td><img src="https://github.com/thenickdude.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thenickdude/wacom-driver-fix"><b>thenickdude/wacom-driver-fix</b></a><br><sub>Fixes the Wacom Bamboo, Graphire, Intuos 1+2+3 and Cintiq 1st gen tablet drivers for macOS Catalina, Big Sur, Monterey…</sub></td>
-<td align="right"><b>1,618</b></td>
+<td align="right"><b>1,619</b></td>
 <td align="right">70</td>
 <td>Makefile</td>
 </tr>
 <tr>
-<td align="right">69</td>
-<td><img src="https://github.com/hardbyte.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hardbyte/python-can"><b>hardbyte/python-can</b></a><br><sub>The can package provides controller area network support for Python developers</sub></td>
-<td align="right"><b>1,616</b></td>
-<td align="right">713</td>
-<td>Python</td>
-</tr>
-<tr>
 <td align="right">70</td>
 <td><img src="https://github.com/mwh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mwh/dragon"><b>mwh/dragon</b></a><br><sub>Drag and drop source/target for X</sub></td>
-<td align="right"><b>1,572</b></td>
+<td align="right"><b>1,574</b></td>
 <td align="right">50</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">71</td>
 <td><img src="https://github.com/yeungon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yeungon/In-JavaScript-we-trust"><b>yeungon/In-JavaScript-we-trust</b></a><br><sub>Embrace JavaScript naturally and confidently with coding challenges crafted not only for beginners but for JavaScript l…</sub></td>
-<td align="right"><b>1,544</b></td>
+<td align="right"><b>1,543</b></td>
 <td align="right">314</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">72</td>
 <td><img src="https://github.com/avored.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/avored/laravel-ecommerce"><b>avored/laravel-ecommerce</b></a><br><sub>AvoRed an Open Source Laravel Shopping Cart</sub></td>
-<td align="right"><b>1,539</b></td>
-<td align="right">539</td>
+<td align="right"><b>1,538</b></td>
+<td align="right">540</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">73</td>
 <td><img src="https://github.com/ChenYilong.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ChenYilong/CollectionViewClassifyMenu"><b>ChenYilong/CollectionViewClassifyMenu</b></a><br><sub>CollectionView做的两级菜单，可以折叠第二级菜单</sub></td>
-<td align="right"><b>1,531</b></td>
+<td align="right"><b>1,530</b></td>
 <td align="right">358</td>
 <td>Swift</td>
 </tr>
 <tr>
 <td align="right">74</td>
 <td><img src="https://github.com/SmileyChris.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SmileyChris/django-countries"><b>SmileyChris/django-countries</b></a><br><sub>A Django application that provides country choices for use with forms, flag icons static files, and a country field for…</sub></td>
-<td align="right"><b>1,528</b></td>
-<td align="right">300</td>
+<td align="right"><b>1,527</b></td>
+<td align="right">299</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -549,8 +549,8 @@
 <tr>
 <td align="right">76</td>
 <td><img src="https://github.com/urbanadventurer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/urbanadventurer/username-anarchy"><b>urbanadventurer/username-anarchy</b></a><br><sub>Username tools for penetration testing</sub></td>
-<td align="right"><b>1,502</b></td>
-<td align="right">165</td>
+<td align="right"><b>1,505</b></td>
+<td align="right">164</td>
 <td>Ruby</td>
 </tr>
 <tr>

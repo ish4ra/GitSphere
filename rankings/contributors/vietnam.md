@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **12** | 22 Nov 2026 | <a href="../../data/contributors/VN.json">JSON</a> |
+| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/contributors/VN.json">JSON</a> |
 
 </div>
 
@@ -52,6 +52,15 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/hunghg255"><img src="https://avatars.githubusercontent.com/u/42096908?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hunghg255"><b>Hung Hoang</b></a><br><sub>&#64;hunghg255 · 378 followers</sub></td>
+<td align="right"><b>1,470</b></td>
+<td align="right">1,321</td>
+<td align="right">94</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/tuananh"><img src="https://avatars.githubusercontent.com/u/627278?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tuananh"><b>Tuan Anh Tran</b></a><br><sub>&#64;tuananh · 605 followers</sub></td>
 <td align="right"><b>453</b></td>
 <td align="right">411</td>
@@ -60,7 +69,7 @@
 <td align="right">7</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/manolaz"><img src="https://avatars.githubusercontent.com/u/5687539?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/manolaz"><b>Tristan NGUYEN</b></a><br><sub>&#64;manolaz · 242 followers</sub></td>
 <td align="right"><b>182</b></td>
 <td align="right">127</td>
@@ -69,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/revskill10"><img src="https://avatars.githubusercontent.com/u/1390196?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/revskill10"><b>Truong Hoang Dung</b></a><br><sub>&#64;revskill10 · 211 followers</sub></td>
 <td align="right"><b>127</b></td>
 <td align="right">91</td>
@@ -78,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/thangchung"><img src="https://avatars.githubusercontent.com/u/422341?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thangchung"><b>Thang Chung</b></a><br><sub>&#64;thangchung · 3,061 followers</sub></td>
 <td align="right"><b>119</b></td>
 <td align="right">69</td>
@@ -87,7 +96,7 @@
 <td align="right">12</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/vic4key"><img src="https://avatars.githubusercontent.com/u/5672864?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vic4key"><b>Vic P.</b></a><br><sub>&#64;vic4key · 344 followers</sub></td>
 <td align="right"><b>88</b></td>
 <td align="right">48</td>
@@ -96,7 +105,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/congto"><img src="https://avatars.githubusercontent.com/u/5918118?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/congto"><b>Tô Thành Công</b></a><br><sub>&#64;congto · 370 followers</sub></td>
 <td align="right"><b>84</b></td>
 <td align="right">23</td>
@@ -105,7 +114,7 @@
 <td align="right">46</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/hnq90"><img src="https://avatars.githubusercontent.com/u/1875666?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hnq90"><b>Huy Nguyen Quang</b></a><br><sub>&#64;hnq90 · 299 followers</sub></td>
 <td align="right"><b>39</b></td>
 <td align="right">8</td>
@@ -114,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/anminhhung"><img src="https://avatars.githubusercontent.com/u/35797529?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anminhhung"><b>An Minh Hùng</b></a><br><sub>&#64;anminhhung · 316 followers</sub></td>
 <td align="right"><b>34</b></td>
 <td align="right">10</td>
@@ -123,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/KbaHaxor"><img src="https://avatars.githubusercontent.com/u/9209121?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KbaHaxor"><b>Tuan Anh Nguyen</b></a><br><sub>&#64;KbaHaxor · 308 followers</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">0</td>
@@ -138,7 +147,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 12 of 704 discovered developers (692 awaiting measurement).
+- **Measured:** 13 of 743 discovered developers (730 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 170 in round 1.

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/contributors/GR.json">JSON</a> |
+| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/contributors/GR.json">JSON</a> |
 
 </div>
 
@@ -106,6 +106,15 @@
 </tr>
 <tr>
 <td align="right">10</td>
+<td><a href="https://github.com/petrostrak"><img src="https://avatars.githubusercontent.com/u/45797153?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/petrostrak"><b>petrostrak</b></a><br><sub>&#64;petrostrak · 155 followers</sub></td>
+<td align="right"><b>314</b></td>
+<td align="right">298</td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">11</td>
 <td><a href="https://github.com/iani"><img src="https://avatars.githubusercontent.com/u/181956?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iani"><b>Iannis Zannos</b></a><br><sub>&#64;iani · 172 followers</sub></td>
 <td align="right"><b>199</b></td>
 <td align="right">186</td>
@@ -114,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/thanpolas"><img src="https://avatars.githubusercontent.com/u/458813?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thanpolas"><b>Thanos Polychronakis</b></a><br><sub>&#64;thanpolas · 346 followers</sub></td>
 <td align="right"><b>176</b></td>
 <td align="right">164</td>
@@ -123,7 +132,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/EleftheriaBatsou"><img src="https://avatars.githubusercontent.com/u/17240273?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EleftheriaBatsou"><b>Eleftheria Batsou</b></a><br><sub>&#64;EleftheriaBatsou · 808 followers</sub></td>
 <td align="right"><b>109</b></td>
 <td align="right">53</td>
@@ -132,7 +141,7 @@
 <td align="right">3</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/stjordanis"><img src="https://avatars.githubusercontent.com/u/4212985?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stjordanis"><b>STYLIANOS IORDANIS</b></a><br><sub>&#64;stjordanis · 327 followers</sub></td>
 <td align="right"><b>102</b></td>
 <td align="right">0</td>
@@ -141,8 +150,8 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">14</td>
-<td><a href="https://github.com/ptzagk"><img src="https://avatars.githubusercontent.com/u/66448?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ptzagk"><b>Panayiotis Tzagkarakis</b></a><br><sub>&#64;ptzagk · 162 followers</sub></td>
+<td align="right">15</td>
+<td><a href="https://github.com/ptzagk"><img src="https://avatars.githubusercontent.com/u/66448?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ptzagk"><b>Panayiotis Tzagkarakis</b></a><br><sub>&#64;ptzagk · 161 followers</sub></td>
 <td align="right"><b>86</b></td>
 <td align="right">0</td>
 <td align="right">0</td>
@@ -150,7 +159,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><a href="https://github.com/admariner"><img src="https://avatars.githubusercontent.com/u/8210250?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/admariner"><b>Periklis Papanikolaou</b></a><br><sub>&#64;admariner · 260 followers</sub></td>
 <td align="right"><b>56</b></td>
 <td align="right">3</td>
@@ -165,7 +174,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 17 of 539 discovered developers (522 awaiting measurement).
+- **Measured:** 19 of 555 discovered developers (536 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 149 in round 1.

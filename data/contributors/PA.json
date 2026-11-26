@@ -5,7 +5,7 @@
 "country": {"code":"PA","name":"Panama","slug":"panama"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":402,"measuredAccounts":14,"measurementBacklog":388,"window":{"from":"2025-11-23T13:00:00Z","to":"2026-11-23T13:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":81,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":402,"measuredAccounts":15,"measurementBacklog":387,"window":{"from":"2025-11-23T13:00:00Z","to":"2026-11-23T13:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":81,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOBag1PQ","login":"alebeta06","name":"Alejandro Betancourt","url":"https://github.com/alebeta06","avatarUrl":"https://avatars.githubusercontent.com/u/94909757?s=80&v=4","followers":355,"publicRepos":64,"location":"Panamá","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":804,"commits":789,"pullRequests":0,"reviews":0,"issues":0,"repositories":15,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":2,"id":"MDQ6VXNlcjY4NDA3Nzgz","login":"Commandtechno","name":"Techno","url":"https://github.com/Commandtechno","avatarUrl":"https://avatars.githubusercontent.com/u/68407783?s=80&v=4","followers":49,"publicRepos":124,"location":"David, Panama","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-26","contributions":{"public":361,"commits":285,"pullRequests":59,"reviews":0,"issues":0,"repositories":17,"windowFrom":"2025-11-26T00:00:00Z","windowTo":"2026-11-26T00:00:00Z","measuredOn":"2026-11-26"}},
@@ -16,8 +16,8 @@
   {"rank":7,"id":"MDQ6VXNlcjU4NzExNTM0","login":"4d3-sudo","name":"ade._.lian","url":"https://github.com/4d3-sudo","avatarUrl":"https://avatars.githubusercontent.com/u/58711534?s=80&v=4","followers":0,"publicRepos":4,"location":"Panama","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":7,"commits":5,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":8,"id":"U_kgDOB32yug","login":"4r13lpch3lp","name":"spartan_chief_ch1n021","url":"https://github.com/4r13lpch3lp","avatarUrl":"https://avatars.githubusercontent.com/u/125678266?s=80&v=4","followers":4,"publicRepos":4,"location":"Panama","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":5,"commits":4,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "19f4478b67881bbf",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "a93502b85310644b",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

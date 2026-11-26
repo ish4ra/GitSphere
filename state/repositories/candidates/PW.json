@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"PW","name":"Palau","slug":"palau"},
-"count": 15,
+"count": 13,
 "repositories": [
-  {"name":"CMPUT301F25chicks/chicks-events","stars":2,"forks":3,"language":"Java","license":"MIT","archived":false,"createdAt":"2025-09-25T23:05:10Z","pushedAt":"2025-12-02T04:49:59Z","owner":{"login":"CMPUT301F25chicks","type":"Organization","name":"chicks","location":"Palau"},"attribution":{"code":"PW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T16:18:16.319Z","id":"legacy:cmput301f25chicks/chicks-events","legacy":true},
-  {"name":"rite-of-moloch/RiteOfMoloch-v1.0","stars":2,"forks":2,"language":"TypeScript","archived":false,"createdAt":"2022-12-09T10:57:46Z","pushedAt":"2023-08-28T14:42:37Z","owner":{"login":"rite-of-moloch","type":"Organization","name":"Rite of Moloch (ROM)","location":"Palau"},"attribution":{"code":"PW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T16:18:16.319Z","id":"legacy:rite-of-moloch/riteofmoloch-v1.0","legacy":true},
   {"name":"melania88/melybarksdale88","stars":1,"forks":1,"license":"MPL-2.0","archived":false,"createdAt":"2014-06-28T11:12:35Z","pushedAt":"2014-06-28T11:12:35Z","owner":{"login":"melania88","type":"User","name":"melania 88","location":"Palau"},"attribution":{"code":"PW","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-02T16:18:16.319Z","id":"legacy:melania88/melybarksdale88","legacy":true},
   {"name":"jbalbalosa/MinAndMaxNumberChallenge","stars":1,"forks":0,"language":"Java","archived":false,"createdAt":"2024-08-30T01:06:46Z","pushedAt":"2024-08-30T01:08:48Z","owner":{"login":"jbalbalosa","type":"User","name":"Jeffrey Balbalosa","location":"Koror, Palau"},"attribution":{"code":"PW","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-02T16:18:16.319Z","id":"legacy:jbalbalosa/minandmaxnumberchallenge","legacy":true},
   {"name":"nbaulesglobalsolutions/agda-logo","stars":1,"forks":0,"archived":false,"createdAt":"2019-01-13T09:39:20Z","pushedAt":"2019-01-11T22:55:32Z","owner":{"login":"nbaulesglobalsolutions","type":"User","name":"Ngirngerikl Baules","location":"Koror, Palau"},"attribution":{"code":"PW","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-02T16:18:16.319Z","id":"legacy:nbaulesglobalsolutions/agda-logo","legacy":true},

@@ -12,7 +12,7 @@
   {"rank":3,"id":"MDQ6VXNlcjE5ODg3MDkw","login":"typebrook","name":"Hsieh Chin Fan","url":"https://github.com/typebrook","avatarUrl":"https://avatars.githubusercontent.com/u/19887090?s=80&v=4","followers":51,"publicRepos":35,"location":"Saint Kitts, Caribbean","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-26"},
   {"rank":4,"id":"MDQ6VXNlcjIzNjM0NzI=","login":"Thutmose","name":null,"url":"https://github.com/Thutmose","avatarUrl":"https://avatars.githubusercontent.com/u/2363472?s=80&v=4","followers":41,"publicRepos":34,"location":"St Kitts and Nevis","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":5,"id":"MDQ6VXNlcjkxNTkwMDA=","login":"Volkanite","name":"Hakim Boyles","url":"https://github.com/Volkanite","avatarUrl":"https://avatars.githubusercontent.com/u/9159000?s=80&v=4","followers":22,"publicRepos":28,"location":"Saint Kitts","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-26"},
-  {"rank":6,"id":"U_kgDOBc8Jjg","login":"VeniGroup","name":"VeniGroup Holdings","url":"https://github.com/VeniGroup","avatarUrl":"https://avatars.githubusercontent.com/u/97454478?s=80&v=4","followers":6,"publicRepos":4,"location":"Saint Kitts & Nevis","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
+  {"rank":6,"id":"U_kgDOBc8Jjg","login":"VeniGroup","name":"VeniGroup Holdings","url":"https://github.com/VeniGroup","avatarUrl":"https://avatars.githubusercontent.com/u/97454478?s=80&v=4","followers":6,"publicRepos":4,"location":"Saint Kitts & Nevis","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":7,"id":"MDQ6VXNlcjQ0NjY4MzY0","login":"Volene","name":null,"url":"https://github.com/Volene","avatarUrl":"https://avatars.githubusercontent.com/u/44668364?s=80&v=4","followers":3,"publicRepos":6,"location":"Saint Kitts and Nevis","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":8,"id":"MDQ6VXNlcjYzODAxNzY5","login":"kemare2012","name":"Martina Regis","url":"https://github.com/kemare2012","avatarUrl":"https://avatars.githubusercontent.com/u/63801769?s=80&v=4","followers":1,"publicRepos":20,"location":"St. Kitts and Nevis","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":9,"id":"MDQ6VXNlcjMzOTA5MDg4","login":"Assetbasefoundation","name":"AssetBase","url":"https://github.com/Assetbasefoundation","avatarUrl":"https://avatars.githubusercontent.com/u/33909088?s=80&v=4","followers":1,"publicRepos":2,"location":"Nevis","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-25"},
@@ -58,8 +58,8 @@
   {"rank":49,"id":"U_kgDOFA5uew","login":"michaelcantrell23","name":null,"url":"https://github.com/michaelcantrell23","avatarUrl":"https://avatars.githubusercontent.com/u/336490107?s=80&v=4","followers":0,"publicRepos":0,"location":"Windsor University School of Medicine - St. Kitts Medical School, St. Kitts, 1621 Brighton’s Estate, Cayon, St. Kitts &…","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23"},
   {"rank":50,"id":"MDQ6VXNlcjc2NTY2OTM4","login":"neil-prog","name":"Dr Ricardo Neil","url":"https://github.com/neil-prog","avatarUrl":"https://avatars.githubusercontent.com/u/76566938?s=80&v=4","followers":0,"publicRepos":0,"location":"St Kitts and Nevis","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"}
 ],
-"contentHash": "402154ad08012a4c",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "0606c4598dca6165",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

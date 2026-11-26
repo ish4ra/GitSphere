@@ -157,50 +157,50 @@
 <tr>
 <td align="right">20</td>
 <td><img src="https://github.com/patrikx3.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/patrikx3/onenote"><b>patrikx3/onenote</b></a><br><sub>📚 Linux Electron Onenote - A Linux compatible version of OneNote</sub></td>
-<td align="right"><b>2,078</b></td>
+<td align="right"><b>2,080</b></td>
 <td align="right">114</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/vizzuhq.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vizzuhq/vizzu-lib"><b>vizzuhq/vizzu-lib</b></a><br><sub>Library for animated data visualizations and data stories.</sub></td>
-<td align="right"><b>2,050</b></td>
+<td align="right"><b>2,051</b></td>
 <td align="right">88</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">22</td>
 <td><img src="https://github.com/sagikazarmark.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sagikazarmark/modern-go-application"><b>sagikazarmark/modern-go-application</b></a><br><sub>Modern Go Application example</sub></td>
-<td align="right"><b>1,945</b></td>
+<td align="right"><b>1,944</b></td>
 <td align="right">177</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">23</td>
 <td><img src="https://github.com/mmatyas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mmatyas/pegasus-frontend"><b>mmatyas/pegasus-frontend</b></a><br><sub>A cross platform, customizable graphical frontend for launching emulators and managing your game collection.</sub></td>
-<td align="right"><b>1,940</b></td>
-<td align="right">181</td>
+<td align="right"><b>1,942</b></td>
+<td align="right">182</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">24</td>
 <td><img src="https://github.com/balazsbotond.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/balazsbotond/urlcat"><b>balazsbotond/urlcat</b></a><br><sub>A URL builder library for JavaScript.</sub></td>
-<td align="right"><b>1,868</b></td>
+<td align="right"><b>1,869</b></td>
 <td align="right">61</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">25</td>
 <td><img src="https://github.com/dyrector-io.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dyrector-io/dyrectorio"><b>dyrector-io/dyrectorio</b></a><br><sub>dyrector.io is a self-hosted continuous delivery &amp; deployment platform with version management.</sub></td>
-<td align="right"><b>1,844</b></td>
+<td align="right"><b>1,845</b></td>
 <td align="right">130</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">26</td>
 <td><img src="https://github.com/akosbalasko.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/akosbalasko/yarle"><b>akosbalasko/yarle</b></a><br><sub>Yarle - The ultimate converter of Evernote notes to Markdown</sub></td>
-<td align="right"><b>1,816</b></td>
-<td align="right">114</td>
+<td align="right"><b>1,815</b></td>
+<td align="right">113</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -213,22 +213,22 @@
 <tr>
 <td align="right">28</td>
 <td><img src="https://github.com/Hiflylabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Hiflylabs/awesome-dbt"><b>Hiflylabs/awesome-dbt</b></a><br><sub>A curated list of awesome dbt resources</sub></td>
-<td align="right"><b>1,754</b></td>
-<td align="right">198</td>
+<td align="right"><b>1,758</b></td>
+<td align="right">197</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">29</td>
 <td><img src="https://github.com/gs00s.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gs00s/awesome-vue-3"><b>gs00s/awesome-vue-3</b></a><br><sub>A curated list of awesome things related to Vue 3</sub></td>
 <td align="right"><b>1,646</b></td>
-<td align="right">196</td>
+<td align="right">195</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">30</td>
 <td><img src="https://github.com/arpanghosh8453.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arpanghosh8453/open-dronelog"><b>arpanghosh8453/open-dronelog</b></a><br><sub>Drone Log analyzer: A high-performance universal dashboard application for organizing and analyzing DJI/Litchi flight l…</sub></td>
-<td align="right"><b>1,602</b></td>
-<td align="right">222</td>
+<td align="right"><b>1,607</b></td>
+<td align="right">225</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -249,7 +249,7 @@
 <td align="right">33</td>
 <td><img src="https://github.com/Gargaj.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Gargaj/Bonzomatic"><b>Gargaj/Bonzomatic</b></a><br><sub>Live shader coding tool and Shader Showdown workhorse</sub></td>
 <td align="right"><b>1,508</b></td>
-<td align="right">122</td>
+<td align="right">123</td>
 <td>C++</td>
 </tr>
 <tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 598 stars; 128 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 598 stars; 140 attributed candidates are tracked.
 - 117 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 153 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

@@ -402,35 +402,35 @@
 <tr>
 <td align="right">55</td>
 <td><img src="https://github.com/vasturiano.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vasturiano/force-graph"><b>vasturiano/force-graph</b></a><br><sub>Force-directed graph rendered on HTML5 canvas</sub></td>
-<td align="right"><b>2,173</b></td>
+<td align="right"><b>2,174</b></td>
 <td align="right">286</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">56</td>
 <td><img src="https://github.com/rochacbruno.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rochacbruno/py2rs"><b>rochacbruno/py2rs</b></a><br><sub>A quick reference guide for the Pythonista in the process of becoming a Rustacean</sub></td>
-<td align="right"><b>2,092</b></td>
+<td align="right"><b>2,093</b></td>
 <td align="right">75</td>
 <td>CSS</td>
 </tr>
 <tr>
 <td align="right">57</td>
 <td><img src="https://github.com/franciscoBSalgueiro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/franciscoBSalgueiro/en-croissant"><b>franciscoBSalgueiro/en-croissant</b></a><br><sub>The Ultimate Chess Toolkit</sub></td>
-<td align="right"><b>2,051</b></td>
+<td align="right"><b>2,057</b></td>
 <td align="right">366</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">58</td>
 <td><img src="https://github.com/abo-abo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abo-abo/avy"><b>abo-abo/avy</b></a><br><sub>Jump to things in Emacs tree-style</sub></td>
-<td align="right"><b>1,968</b></td>
+<td align="right"><b>1,970</b></td>
 <td align="right">119</td>
 <td>Emacs Lisp</td>
 </tr>
 <tr>
 <td align="right">59</td>
 <td><img src="https://github.com/r00t-3xp10it.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/r00t-3xp10it/venom"><b>r00t-3xp10it/venom</b></a><br><sub>venom - C2 shellcode generator/compiler/handler</sub></td>
-<td align="right"><b>1,963</b></td>
+<td align="right"><b>1,968</b></td>
 <td align="right">598</td>
 <td>Shell</td>
 </tr>
@@ -458,14 +458,14 @@
 <tr>
 <td align="right">63</td>
 <td><img src="https://github.com/dhanishgajjar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dhanishgajjar/vscode-icons"><b>dhanishgajjar/vscode-icons</b></a><br><sub>Custom Visual Studio Code Icons</sub></td>
-<td align="right"><b>1,807</b></td>
+<td align="right"><b>1,808</b></td>
 <td align="right">128</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">64</td>
 <td><img src="https://github.com/gdbinit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gdbinit/Gdbinit"><b>gdbinit/Gdbinit</b></a><br><sub>Gdbinit for OS X, iOS and others - x86, x86&#95;64 and ARM</sub></td>
-<td align="right"><b>1,803</b></td>
+<td align="right"><b>1,804</b></td>
 <td align="right">460</td>
 <td>—</td>
 </tr>
@@ -486,29 +486,29 @@
 <tr>
 <td align="right">67</td>
 <td><img src="https://github.com/rafaelvcaetano.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rafaelvcaetano/melonDS-android"><b>rafaelvcaetano/melonDS-android</b></a><br><sub>Android port of melonDS</sub></td>
-<td align="right"><b>1,773</b></td>
-<td align="right">189</td>
+<td align="right"><b>1,778</b></td>
+<td align="right">191</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">68</td>
-<td><img src="https://github.com/feremabraz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/feremabraz/bloomberg-terminal"><b>feremabraz/bloomberg-terminal</b></a><br><sub>Bloomberg-like terminal with AI. It uses Redis with AlphaVantage data and local simulations to avoid hitting the API to…</sub></td>
-<td align="right"><b>1,736</b></td>
-<td align="right">292</td>
-<td>TypeScript</td>
+<td><img src="https://github.com/almeidapaulopt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/almeidapaulopt/tsdproxy"><b>almeidapaulopt/tsdproxy</b></a><br><sub>Automatic Tailscale reverse proxy for Docker containers. Zero sidecars. Label-based config. Automatic HTTPS.</sub></td>
+<td align="right"><b>1,760</b></td>
+<td align="right">87</td>
+<td>Go</td>
 </tr>
 <tr>
 <td align="right">69</td>
-<td><img src="https://github.com/almeidapaulopt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/almeidapaulopt/tsdproxy"><b>almeidapaulopt/tsdproxy</b></a><br><sub>Automatic Tailscale reverse proxy for Docker containers. Zero sidecars. Label-based config. Automatic HTTPS.</sub></td>
-<td align="right"><b>1,735</b></td>
-<td align="right">84</td>
-<td>Go</td>
+<td><img src="https://github.com/feremabraz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/feremabraz/bloomberg-terminal"><b>feremabraz/bloomberg-terminal</b></a><br><sub>Bloomberg-like terminal with AI. It uses Redis with AlphaVantage data and local simulations to avoid hitting the API to…</sub></td>
+<td align="right"><b>1,738</b></td>
+<td align="right">294</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">70</td>
 <td><img src="https://github.com/tomaspinho.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tomaspinho/rtl8821ce"><b>tomaspinho/rtl8821ce</b></a> <sub>archived</sub></td>
 <td align="right"><b>1,709</b></td>
-<td align="right">437</td>
+<td align="right">438</td>
 <td>C</td>
 </tr>
 <tr>
@@ -528,22 +528,22 @@
 <tr>
 <td align="right">73</td>
 <td><img src="https://github.com/BMSVieira.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/BMSVieira/moovie.js"><b>BMSVieira/moovie.js</b></a><br><sub>Movie focused HTML5 Player</sub></td>
-<td align="right"><b>1,697</b></td>
+<td align="right"><b>1,698</b></td>
 <td align="right">135</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">74</td>
 <td><img src="https://github.com/vasturiano.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vasturiano/three-globe"><b>vasturiano/three-globe</b></a><br><sub>WebGL Globe Data Visualization as a ThreeJS reusable 3D object</sub></td>
-<td align="right"><b>1,668</b></td>
+<td align="right"><b>1,669</b></td>
 <td align="right">189</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">75</td>
 <td><img src="https://github.com/sn4k3.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sn4k3/NetSonar"><b>sn4k3/NetSonar</b></a><br><sub>Network pings and other utilities</sub></td>
-<td align="right"><b>1,668</b></td>
-<td align="right">159</td>
+<td align="right"><b>1,669</b></td>
+<td align="right">160</td>
 <td>C#</td>
 </tr>
 <tr>
@@ -577,8 +577,8 @@
 <tr>
 <td align="right">80</td>
 <td><img src="https://github.com/Sharkord.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Sharkord/sharkord"><b>Sharkord/sharkord</b></a><br><sub>Lightweight, self-hosted, open-source chat server with voice, video, text, and screen sharing. Built for small groups w…</sub></td>
-<td align="right"><b>1,591</b></td>
-<td align="right">160</td>
+<td align="right"><b>1,598</b></td>
+<td align="right">162</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -598,23 +598,23 @@
 <tr>
 <td align="right">83</td>
 <td><img src="https://github.com/cakeslice.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cakeslice/Outline-Effect"><b>cakeslice/Outline-Effect</b></a><br><sub>Outline Image Effect for Unity</sub></td>
-<td align="right"><b>1,560</b></td>
+<td align="right"><b>1,558</b></td>
 <td align="right">202</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">84</td>
+<td><img src="https://github.com/anfreire.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anfreire/updateMe-Mobile"><b>anfreire/updateMe-Mobile</b></a> <sub>archived</sub></td>
+<td align="right"><b>1,549</b></td>
+<td align="right">71</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">85</td>
 <td><img src="https://github.com/codrops.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/codrops/Animocons"><b>codrops/Animocons</b></a><br><sub>Animated icons powered by the motion graphics library mo.js by Oleg Solomka. Inspiration comes from the Dribbble shot &#91;…</sub></td>
 <td align="right"><b>1,547</b></td>
 <td align="right">171</td>
 <td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">85</td>
-<td><img src="https://github.com/anfreire.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anfreire/updateMe-Mobile"><b>anfreire/updateMe-Mobile</b></a> <sub>archived</sub></td>
-<td align="right"><b>1,547</b></td>
-<td align="right">71</td>
-<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">86</td>
@@ -639,17 +639,17 @@
 </tr>
 <tr>
 <td align="right">89</td>
-<td><img src="https://github.com/dvgodoy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dvgodoy/PyTorchStepByStep"><b>dvgodoy/PyTorchStepByStep</b></a><br><sub>Official repository of my book: &quot;Deep Learning with PyTorch Step-by-Step: A Beginner&#39;s Guide&quot;</sub></td>
-<td align="right"><b>1,505</b></td>
-<td align="right">518</td>
-<td>Jupyter Notebook</td>
-</tr>
-<tr>
-<td align="right">90</td>
 <td><img src="https://github.com/pires.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pires/kubernetes-elasticsearch-cluster"><b>pires/kubernetes-elasticsearch-cluster</b></a> <sub>archived</sub><br><sub>Elasticsearch cluster on top of Kubernetes made easy.</sub></td>
 <td align="right"><b>1,504</b></td>
 <td align="right">662</td>
 <td>—</td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><img src="https://github.com/dvgodoy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dvgodoy/PyTorchStepByStep"><b>dvgodoy/PyTorchStepByStep</b></a><br><sub>Official repository of my book: &quot;Deep Learning with PyTorch Step-by-Step: A Beginner&#39;s Guide&quot;</sub></td>
+<td align="right"><b>1,504</b></td>
+<td align="right">521</td>
+<td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">91</td>

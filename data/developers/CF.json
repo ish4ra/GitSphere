@@ -5,7 +5,7 @@
 "country": {"code":"CF","name":"Central African Republic","slug":"central-african-republic"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":23,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":59,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":24,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":59,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjE0NTMxOTA2","login":"xusenlin","name":"Selwyn","url":"https://github.com/xusenlin","avatarUrl":"https://avatars.githubusercontent.com/u/14531906?s=80&v=4","followers":131,"publicRepos":193,"location":"HS","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":"U_kgDOCRtEOw","login":"ikouecode","name":null,"url":"https://github.com/ikouecode","avatarUrl":"https://avatars.githubusercontent.com/u/152781883?s=80&v=4","followers":6,"publicRepos":1,"location":"Central African Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
@@ -28,11 +28,12 @@
   {"rank":19,"id":"MDQ6VXNlcjY5NzM2MzA1","login":"b-kranthireddy23","name":"Kranthi Reddy","url":"https://github.com/b-kranthireddy23","avatarUrl":"https://avatars.githubusercontent.com/u/69736305?s=80&v=4","followers":0,"publicRepos":1,"location":"Bangui, Central African Republic","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":20,"id":"U_kgDOEaECxA","login":"delmaskevinromuald-debug","name":"Delmas Kévin romuald DONGOBADA","url":"https://github.com/delmaskevinromuald-debug","avatarUrl":"https://avatars.githubusercontent.com/u/295764676?s=80&v=4","followers":0,"publicRepos":1,"location":"Central African Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":21,"id":"U_kgDODPIozQ","login":"ExoticTraveler","name":"Fueling Central African Republic🇨🇫","url":"https://github.com/ExoticTraveler","avatarUrl":"https://avatars.githubusercontent.com/u/217196749?s=80&v=4","followers":0,"publicRepos":1,"location":"Bangui, Central African Republic","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-26"},
-  {"rank":22,"id":"U_kgDODTj4rg","login":"madomi1madmy","name":null,"url":"https://github.com/madomi1madmy","avatarUrl":"https://avatars.githubusercontent.com/u/221837486?s=80&v=4","followers":0,"publicRepos":0,"location":"Central African Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
-  {"rank":23,"id":"U_kgDODlwNkw","login":"sergeboda-cloud","name":"Serge Etiennovitch BODA","url":"https://github.com/sergeboda-cloud","avatarUrl":"https://avatars.githubusercontent.com/u/240913811?s=80&v=4","followers":0,"publicRepos":0,"location":"Bangui, Central African Republic","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
+  {"rank":22,"id":"U_kgDODVZ3rg","login":"Nfirmin236","name":"Firmin Martial NDAO","url":"https://github.com/Nfirmin236","avatarUrl":"https://avatars.githubusercontent.com/u/223770542?s=80&v=4","followers":0,"publicRepos":1,"location":"Bossangoa","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-26"},
+  {"rank":23,"id":"U_kgDODTj4rg","login":"madomi1madmy","name":null,"url":"https://github.com/madomi1madmy","avatarUrl":"https://avatars.githubusercontent.com/u/221837486?s=80&v=4","followers":0,"publicRepos":0,"location":"Central African Republic","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
+  {"rank":24,"id":"U_kgDODlwNkw","login":"sergeboda-cloud","name":"Serge Etiennovitch BODA","url":"https://github.com/sergeboda-cloud","avatarUrl":"https://avatars.githubusercontent.com/u/240913811?s=80&v=4","followers":0,"publicRepos":0,"location":"Bangui, Central African Republic","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "01d98df70c08f53f",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "79a358e010237c34",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

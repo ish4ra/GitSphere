@@ -5,7 +5,7 @@
 "country": {"code":"SY","name":"Syria","slug":"syria"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":403,"measuredAccounts":14,"measurementBacklog":389,"window":{"from":"2025-11-25T04:00:00Z","to":"2026-11-25T04:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":136,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":403,"measuredAccounts":15,"measurementBacklog":388,"window":{"from":"2025-11-25T04:00:00Z","to":"2026-11-25T04:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":136,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjQ2MTYwNzI3","login":"firasuke","name":"Firas Khana","url":"https://github.com/firasuke","avatarUrl":"https://avatars.githubusercontent.com/u/46160727?s=80&v=4","followers":225,"publicRepos":65,"location":"Aleppo, Syria","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-25","contributions":{"public":1271,"commits":1232,"pullRequests":10,"reviews":0,"issues":0,"repositories":29,"windowFrom":"2025-11-25T04:00:00Z","windowTo":"2026-11-25T04:00:00Z","measuredOn":"2026-11-25"}},
   {"rank":2,"id":"U_kgDOBpzKbA","login":"Eng-Hasan-Hajjar","name":"Eng Hasan Hajjar","url":"https://github.com/Eng-Hasan-Hajjar","avatarUrl":"https://avatars.githubusercontent.com/u/110938732?s=80&v=4","followers":124,"publicRepos":162,"location":"Aleppo - Syria","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-26","contributions":{"public":631,"commits":590,"pullRequests":0,"reviews":0,"issues":0,"repositories":41,"windowFrom":"2025-11-26T00:00:00Z","windowTo":"2026-11-26T00:00:00Z","measuredOn":"2026-11-26"}},
@@ -20,8 +20,8 @@
   {"rank":11,"id":"U_kgDOBsjJDA","login":"meory101","name":"Nour Othman","url":"https://github.com/meory101","avatarUrl":"https://avatars.githubusercontent.com/u/113821964?s=80&v=4","followers":719,"publicRepos":49,"location":"Damascus Syria","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":15,"commits":11,"pullRequests":0,"reviews":0,"issues":0,"repositories":4,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":12,"id":"U_kgDOD_x_kg","login":"123hasanalyaseen-cmd","name":"HASAN ALYASEEN","url":"https://github.com/123hasanalyaseen-cmd","avatarUrl":"https://avatars.githubusercontent.com/u/268205970?s=80&v=4","followers":0,"publicRepos":1,"location":"Homs Syria","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-23","contributions":{"public":5,"commits":3,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "2ba5bffa4eac8d0a",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "90ad66392d2999d6",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

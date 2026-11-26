@@ -5,7 +5,7 @@
 "country": {"code":"FJ","name":"Fiji","slug":"fiji"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":66,"ownerExpansionBacklog":141,"candidates":67,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":32,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":66,"ownerExpansionBacklog":134,"candidates":67,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":32,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDORrasTQ","name":"ppt-agent-workflow-san","nameWithOwner":"mucsbr/ppt-agent-workflow-san","url":"https://github.com/mucsbr/ppt-agent-workflow-san","description":"渐进交互式ppt生成skill","stars":655,"forks":68,"primaryLanguage":"JavaScript","license":null,"createdAt":"2026-03-19T15:03:16Z","pushedAt":"2026-09-02T15:14:03Z","archived":false,"owner":{"login":"mucsbr","name":"beingS","type":"User","url":"https://github.com/mucsbr","location":"0558 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":null,"name":"time-tracker-monster","nameWithOwner":"Nshcn/time-tracker-monster","url":"https://github.com/Nshcn/time-tracker-monster","description":null,"stars":1,"forks":3,"primaryLanguage":"JavaScript","license":null,"createdAt":"2021-11-15T03:27:51Z","pushedAt":"2021-11-20T17:05:22Z","archived":false,"owner":{"login":"Nshcn","name":"Bill Zhan","type":"User","url":"https://github.com/Nshcn","location":"Fiji","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -75,8 +75,8 @@
   {"rank":66,"id":null,"name":"Vue-","nameWithOwner":"New-IronMan/Vue-","url":"https://github.com/New-IronMan/Vue-","description":null,"stars":1,"forks":0,"primaryLanguage":"Vue","license":null,"createdAt":"2019-06-14T02:47:54Z","pushedAt":"2022-12-10T19:04:28Z","archived":false,"owner":{"login":"New-IronMan","name":"Jan丶粑粑","type":"User","url":"https://github.com/New-IronMan","location":"0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":67,"id":null,"name":"24_Balance_FOC_Car","nameWithOwner":"nibabadebababa/24_Balance_FOC_Car","url":"https://github.com/nibabadebababa/24_Balance_FOC_Car","description":null,"stars":1,"forks":0,"primaryLanguage":"C","license":null,"createdAt":"2024-03-28T08:10:40Z","pushedAt":"2024-05-31T10:18:11Z","archived":false,"owner":{"login":"nibabadebababa","name":"Liu WenFeng","type":"User","url":"https://github.com/nibabadebababa","location":"Fiji","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "133a94586ddc76bc",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "9d672ee3b36e7ff2",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

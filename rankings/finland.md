@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/FI.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/FI.json">JSON</a> |
 
 </div>
 
@@ -577,65 +577,65 @@
 <tr>
 <td align="right">80</td>
 <td><img src="https://github.com/kijai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kijai/ComfyUI-LivePortraitKJ"><b>kijai/ComfyUI-LivePortraitKJ</b></a><br><sub>ComfyUI nodes for LivePortrait</sub></td>
-<td align="right"><b>2,209</b></td>
+<td align="right"><b>2,210</b></td>
 <td align="right">176</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">81</td>
 <td><img src="https://github.com/jarikomppa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jarikomppa/soloud"><b>jarikomppa/soloud</b></a><br><sub>Free, easy, portable audio engine for games</sub></td>
-<td align="right"><b>2,199</b></td>
-<td align="right">356</td>
+<td align="right"><b>2,200</b></td>
+<td align="right">357</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">82</td>
 <td><img src="https://github.com/andrumak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/andrumak/MyBox"><b>andrumak/MyBox</b></a><br><sub>MyBox is a set of attributes, tools and extensions for Unity</sub></td>
 <td align="right"><b>2,195</b></td>
-<td align="right">248</td>
+<td align="right">247</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">83</td>
 <td><img src="https://github.com/arielsalminen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arielsalminen/vue-design-system"><b>arielsalminen/vue-design-system</b></a><br><sub>An open source tool for building UI Design Systems with Vue.js</sub></td>
-<td align="right"><b>2,194</b></td>
-<td align="right">211</td>
+<td align="right"><b>2,193</b></td>
+<td align="right">210</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">84</td>
 <td><img src="https://github.com/marzer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/marzer/tomlplusplus"><b>marzer/tomlplusplus</b></a><br><sub>Header-only TOML config file parser and serializer for C++17.</sub></td>
-<td align="right"><b>2,187</b></td>
+<td align="right"><b>2,190</b></td>
 <td align="right">227</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">85</td>
 <td><img src="https://github.com/memononen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/memononen/nanosvg"><b>memononen/nanosvg</b></a><br><sub>Simple stupid SVG parser</sub></td>
-<td align="right"><b>2,040</b></td>
+<td align="right"><b>2,042</b></td>
 <td align="right">425</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">86</td>
 <td><img src="https://github.com/CoderGamester.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CoderGamester/mcp-unity"><b>CoderGamester/mcp-unity</b></a><br><sub>Model Context Protocol (MCP) plugin to connect with Unity Editor — designed for Cursor, Claude Code, Codex, Windsurf an…</sub></td>
-<td align="right"><b>2,018</b></td>
+<td align="right"><b>2,022</b></td>
 <td align="right">249</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">87</td>
-<td><img src="https://github.com/imcvampire.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/imcvampire/vue-axios"><b>imcvampire/vue-axios</b></a><br><sub>A small wrapper for integrating axios to Vuejs</sub></td>
-<td align="right"><b>1,998</b></td>
-<td align="right">173</td>
-<td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">88</td>
 <td><img src="https://github.com/charto.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/charto/nbind"><b>charto/nbind</b></a><br><sub>:sparkles: Magical headers that make your C++ library accessible from JavaScript :rocket:</sub></td>
 <td align="right"><b>1,998</b></td>
 <td align="right">121</td>
 <td>C++</td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><img src="https://github.com/imcvampire.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/imcvampire/vue-axios"><b>imcvampire/vue-axios</b></a><br><sub>A small wrapper for integrating axios to Vuejs</sub></td>
+<td align="right"><b>1,996</b></td>
+<td align="right">173</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">89</td>
@@ -647,21 +647,21 @@
 <tr>
 <td align="right">90</td>
 <td><img src="https://github.com/flowplayer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/flowplayer/flowplayer"><b>flowplayer/flowplayer</b></a> <sub>archived</sub><br><sub>The HTML5 video player for the web</sub></td>
-<td align="right"><b>1,908</b></td>
+<td align="right"><b>1,909</b></td>
 <td align="right">459</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">91</td>
 <td><img src="https://github.com/Vexu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Vexu/arocc"><b>Vexu/arocc</b></a><br><sub>A modern fully featured C compiler.</sub></td>
-<td align="right"><b>1,869</b></td>
-<td align="right">119</td>
+<td align="right"><b>1,870</b></td>
+<td align="right">118</td>
 <td>Zig</td>
 </tr>
 <tr>
 <td align="right">92</td>
 <td><img src="https://github.com/vergoh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vergoh/vnstat"><b>vergoh/vnstat</b></a><br><sub>vnStat - a network traffic monitor for Linux and BSD</sub></td>
-<td align="right"><b>1,810</b></td>
+<td align="right"><b>1,813</b></td>
 <td align="right">143</td>
 <td>C</td>
 </tr>
@@ -669,7 +669,7 @@
 <td align="right">93</td>
 <td><img src="https://github.com/Asabeneh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Asabeneh/10-days-of-git-and-github"><b>Asabeneh/10-days-of-git-and-github</b></a><br><sub>Some video lessons on YouTube: This videos may help too: https://www.youtube.com/watch?v=9cCApTLb&#95;Io&amp;t=3s&amp;ab&#95;channel=Wa…</sub></td>
 <td align="right"><b>1,805</b></td>
-<td align="right">416</td>
+<td align="right">417</td>
 <td>HTML</td>
 </tr>
 <tr>
@@ -682,23 +682,23 @@
 <tr>
 <td align="right">95</td>
 <td><img src="https://github.com/agronholm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/agronholm/typeguard"><b>agronholm/typeguard</b></a><br><sub>Run-time type checker for Python</sub></td>
-<td align="right"><b>1,795</b></td>
-<td align="right">159</td>
+<td align="right"><b>1,796</b></td>
+<td align="right">161</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">96</td>
+<td><img src="https://github.com/metosin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/metosin/malli"><b>metosin/malli</b></a><br><sub>High-performance data-driven data specification library for Clojure/Script.</sub></td>
+<td align="right"><b>1,777</b></td>
+<td align="right">247</td>
+<td>Clojure</td>
+</tr>
+<tr>
+<td align="right">97</td>
 <td><img src="https://github.com/jquerytools.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jquerytools/jquerytools"><b>jquerytools/jquerytools</b></a><br><sub>The missing UI library for the Web</sub></td>
 <td align="right"><b>1,775</b></td>
 <td align="right">510</td>
 <td>JavaScript</td>
-</tr>
-<tr>
-<td align="right">97</td>
-<td><img src="https://github.com/metosin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/metosin/malli"><b>metosin/malli</b></a><br><sub>High-performance data-driven data specification library for Clojure/Script.</sub></td>
-<td align="right"><b>1,775</b></td>
-<td align="right">247</td>
-<td>Clojure</td>
 </tr>
 <tr>
 <td align="right">98</td>
@@ -710,14 +710,14 @@
 <tr>
 <td align="right">99</td>
 <td><img src="https://github.com/kijai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kijai/ComfyUI-Florence2"><b>kijai/ComfyUI-Florence2</b></a><br><sub>Inference Microsoft Florence2 VLM</sub></td>
-<td align="right"><b>1,764</b></td>
+<td align="right"><b>1,765</b></td>
 <td align="right">140</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">100</td>
 <td><img src="https://github.com/sebbbi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sebbbi/NoGraphicsAPI"><b>sebbbi/NoGraphicsAPI</b></a><br><sub>Minimal graphics API. Built on top of latest Vulkan extensions. As close as possibly to my &quot;No Graphics API&quot; blog post…</sub></td>
-<td align="right"><b>1,745</b></td>
+<td align="right"><b>1,750</b></td>
 <td align="right">64</td>
 <td>C++</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 1,745 stars; 150 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 1,750 stars; 150 attributed candidates are tracked.
 - 131 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 176 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

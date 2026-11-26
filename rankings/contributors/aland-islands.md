@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/contributors/AX.json">JSON</a> |
+| 🟡 Provisional | **18** | 22 Nov 2026 | <a href="../../data/contributors/AX.json">JSON</a> |
 
 </div>
 
@@ -88,6 +88,15 @@
 </tr>
 <tr>
 <td align="right">8</td>
+<td><a href="https://github.com/mavka1207"><img src="https://avatars.githubusercontent.com/u/199073154?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mavka1207"><b>Kateryna Ovsiienko</b></a><br><sub>&#64;mavka1207 · 5 followers</sub></td>
+<td align="right"><b>75</b></td>
+<td align="right">34</td>
+<td align="right">2</td>
+<td align="right">3</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">9</td>
 <td><a href="https://github.com/srbudaev"><img src="https://avatars.githubusercontent.com/u/167626673?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/srbudaev"><b>Sergei Budaev</b></a><br><sub>&#64;srbudaev · 7 followers</sub></td>
 <td align="right"><b>67</b></td>
 <td align="right">26</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/sagarishere"><img src="https://avatars.githubusercontent.com/u/5121817?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sagarishere"><b>sagarishere</b></a><br><sub>&#64;sagarishere · 60 followers</sub></td>
 <td align="right"><b>50</b></td>
 <td align="right">43</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/Madlumi"><img src="https://avatars.githubusercontent.com/u/61489225?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Madlumi"><b>Madanie</b></a><br><sub>&#64;Madlumi · 2 followers</sub></td>
 <td align="right"><b>21</b></td>
 <td align="right">7</td>
@@ -114,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/janlindblom"><img src="https://avatars.githubusercontent.com/u/154438?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/janlindblom"><b>Jan Lindblom</b></a><br><sub>&#64;janlindblom · 16 followers</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">14</td>
@@ -123,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/torronen"><img src="https://avatars.githubusercontent.com/u/26261427?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/torronen"><b>Antti &quot;Andy&quot; Törrönen</b></a><br><sub>&#64;torronen · 8 followers</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">4</td>
@@ -132,7 +141,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/Masemiliano"><img src="https://avatars.githubusercontent.com/u/66163702?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Masemiliano"><b>Masemiliano</b></a><br><sub>&#64;Masemiliano · 1 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">4</td>
@@ -141,7 +150,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/jesjos"><img src="https://avatars.githubusercontent.com/u/281758?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jesjos"><b>Jesper Josefsson</b></a><br><sub>&#64;jesjos · 28 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">0</td>
@@ -150,7 +159,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><a href="https://github.com/reneselander"><img src="https://avatars.githubusercontent.com/u/50113423?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/reneselander"><b>René Selander</b></a><br><sub>&#64;reneselander · 23 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">2</td>
@@ -159,11 +168,20 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">17</td>
 <td><a href="https://github.com/tvntvn13"><img src="https://avatars.githubusercontent.com/u/88155130?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tvntvn13"><b>Taneli Mäkihannu</b></a><br><sub>&#64;tvntvn13 · 21 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
 <td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">18</td>
+<td><a href="https://github.com/viktor-sarge"><img src="https://avatars.githubusercontent.com/u/3371823?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/viktor-sarge"><b>Viktor Sarge</b></a><br><sub>&#64;viktor-sarge · 6 followers</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">1</td>
+<td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
 </tr>
@@ -174,7 +192,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 22 of 111 discovered developers (89 awaiting measurement).
+- **Measured:** 24 of 111 discovered developers (87 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 4 of 33 in round 1.

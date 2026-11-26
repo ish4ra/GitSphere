@@ -535,57 +535,57 @@
 <tr>
 <td align="right">74</td>
 <td><img src="https://github.com/MordechaiHadad.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MordechaiHadad/bob"><b>MordechaiHadad/bob</b></a><br><sub>A version manager for neovim</sub></td>
-<td align="right"><b>2,156</b></td>
+<td align="right"><b>2,157</b></td>
 <td align="right">65</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">75</td>
 <td><img src="https://github.com/itaysk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/itaysk/kubectl-neat"><b>itaysk/kubectl-neat</b></a><br><sub>Clean up Kubernetes yaml and json output to make it readable</sub></td>
-<td align="right"><b>2,119</b></td>
-<td align="right">135</td>
+<td align="right"><b>2,116</b></td>
+<td align="right">136</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">76</td>
 <td><img src="https://github.com/groundcover-com.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/groundcover-com/caretta"><b>groundcover-com/caretta</b></a><br><sub>Instant K8s service dependency map, right to your Grafana.</sub></td>
-<td align="right"><b>2,075</b></td>
+<td align="right"><b>2,074</b></td>
 <td align="right">80</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">77</td>
 <td><img src="https://github.com/lirantal.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lirantal/is-website-vulnerable"><b>lirantal/is-website-vulnerable</b></a><br><sub>finds publicly known security vulnerabilities in a website&#39;s frontend JavaScript libraries</sub></td>
-<td align="right"><b>2,042</b></td>
+<td align="right"><b>2,043</b></td>
 <td align="right">127</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">78</td>
 <td><img src="https://github.com/szabgab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/szabgab/awesome-for-non-programmers"><b>szabgab/awesome-for-non-programmers</b></a></td>
-<td align="right"><b>2,029</b></td>
-<td align="right">188</td>
+<td align="right"><b>2,033</b></td>
+<td align="right">189</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">79</td>
 <td><img src="https://github.com/ronami.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ronami/HypeScript"><b>ronami/HypeScript</b></a><br><sub>🐬 A simplified implementation of TypeScript&#39;s type system written in TypeScript&#39;s type system</sub></td>
-<td align="right"><b>1,966</b></td>
+<td align="right"><b>1,965</b></td>
 <td align="right">24</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">80</td>
 <td><img src="https://github.com/MorDavid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MorDavid/BruteForceAI"><b>MorDavid/BruteForceAI</b></a><br><sub>Advanced LLM-powered brute-force tool combining AI intelligence with automated login attacks</sub></td>
-<td align="right"><b>1,939</b></td>
-<td align="right">390</td>
+<td align="right"><b>1,945</b></td>
+<td align="right">393</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">81</td>
 <td><img src="https://github.com/amantinband.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/amantinband/clean-architecture"><b>amantinband/clean-architecture</b></a><br><sub>The ultimate clean architecture template for .NET applications 💪</sub></td>
 <td align="right"><b>1,930</b></td>
-<td align="right">332</td>
+<td align="right">331</td>
 <td>C#</td>
 </tr>
 <tr>
@@ -598,15 +598,15 @@
 <tr>
 <td align="right">83</td>
 <td><img src="https://github.com/lirantal.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lirantal/npq"><b>lirantal/npq</b></a><br><sub>safely install npm packages by auditing them pre-install stage</sub></td>
-<td align="right"><b>1,796</b></td>
+<td align="right"><b>1,797</b></td>
 <td align="right">43</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">84</td>
 <td><img src="https://github.com/1tayH.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/1tayH/noisy"><b>1tayH/noisy</b></a><br><sub>Simple random DNS, HTTP/S internet traffic noise generator</sub></td>
-<td align="right"><b>1,778</b></td>
-<td align="right">250</td>
+<td align="right"><b>1,779</b></td>
+<td align="right">251</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -633,21 +633,21 @@
 <tr>
 <td align="right">88</td>
 <td><img src="https://github.com/kourgeorge.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kourgeorge/arxiv-style"><b>kourgeorge/arxiv-style</b></a><br><sub>A Latex style and template for paper preprints (based on NIPS style)</sub></td>
-<td align="right"><b>1,621</b></td>
-<td align="right">377</td>
+<td align="right"><b>1,625</b></td>
+<td align="right">379</td>
 <td>TeX</td>
 </tr>
 <tr>
 <td align="right">89</td>
 <td><img src="https://github.com/cyberark.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cyberark/FuzzyAI"><b>cyberark/FuzzyAI</b></a><br><sub>A powerful tool for automated LLM fuzzing. It is designed to help developers and security researchers identify and miti…</sub></td>
-<td align="right"><b>1,611</b></td>
-<td align="right">223</td>
+<td align="right"><b>1,616</b></td>
+<td align="right">222</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">90</td>
 <td><img src="https://github.com/iddan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/iddan/react-spreadsheet"><b>iddan/react-spreadsheet</b></a><br><sub>Simple, customizable yet performant spreadsheet for React</sub></td>
-<td align="right"><b>1,601</b></td>
+<td align="right"><b>1,600</b></td>
 <td align="right">184</td>
 <td>TypeScript</td>
 </tr>
@@ -661,7 +661,7 @@
 <tr>
 <td align="right">92</td>
 <td><img src="https://github.com/garrylachman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/garrylachman/ElectroCRUD"><b>garrylachman/ElectroCRUD</b></a><br><sub>Database CRUD Application Built on Electron &#124; MySQL, Postgres, SQLite</sub></td>
-<td align="right"><b>1,552</b></td>
+<td align="right"><b>1,551</b></td>
 <td align="right">303</td>
 <td>JavaScript</td>
 </tr>

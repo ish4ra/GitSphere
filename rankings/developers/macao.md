@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/ken0225"><img src="https://avatars.githubusercontent.com/u/61583324?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ken0225"><b>Ke&quot;Ken&quot;WANG</b></a><br><sub>&#64;ken0225</sub></td>
-<td align="right"><b>426</b></td>
+<td align="right"><b>428</b></td>
 <td align="right">12</td>
 <td><sub>Macau</sub></td>
 </tr>
@@ -1390,7 +1390,7 @@
 <td align="right">196</td>
 <td><a href="https://github.com/k-macao"><img src="https://avatars.githubusercontent.com/u/248604011?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/k-macao"><b>know-macao</b></a><br><sub>&#64;k-macao</sub></td>
 <td align="right"><b>4</b></td>
-<td align="right">115</td>
+<td align="right">116</td>
 <td><sub>macao</sub></td>
 </tr>
 <tr>

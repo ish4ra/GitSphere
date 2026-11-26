@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **15** | 03 Nov 2026 | <a href="../data/AS.json">JSON</a> |
+| 🟠 Stale | **16** | 03 Nov 2026 | <a href="../data/AS.json">JSON</a> |
 
 > **Not yet re-verified.** 3 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
@@ -109,20 +109,27 @@
 </tr>
 <tr>
 <td align="right">13</td>
+<td><img src="https://github.com/neoclide.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/neoclide/coc-git"><b>neoclide/coc-git</b></a><br><sub>Git integration of coc.nvim</sub></td>
+<td align="right"><b>420</b></td>
+<td align="right">41</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">14</td>
 <td><img src="https://github.com/breepinkpiggys.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/breepinkpiggys/breepinkpiggys"><b>breepinkpiggys/breepinkpiggys</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><img src="https://github.com/https-example.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/https-example/sturdy-octo-tribble"><b>https-example/sturdy-octo-tribble</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><img src="https://github.com/sweetypieredhulk.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sweetypieredhulk/sweetypieredhulk"><b>sweetypieredhulk/sweetypieredhulk</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -136,7 +143,7 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 0 stars; 15 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 0 stars; 16 attributed candidates are tracked.
 - 3 entries were carried over from the previous dataset and are pending revalidation.
 - 51 multi-repository owners are queued for expansion.
 - **Location discovery:** term 4 of 34 in round 1.

@@ -151,7 +151,7 @@
 <td align="right">19</td>
 <td><a href="https://github.com/HousseinSA"><img src="https://avatars.githubusercontent.com/u/96076240?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HousseinSA"><b>Hussein Sedoum</b></a><br><sub>&#64;HousseinSA</sub></td>
 <td align="right"><b>21</b></td>
-<td align="right">55</td>
+<td align="right">54</td>
 <td><sub>Mauritania</sub></td>
 </tr>
 <tr>
@@ -1815,7 +1815,7 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
 - Organizations are excluded. 255 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 0 of 104 in round 1.
+- **Location discovery:** term 3 of 104 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

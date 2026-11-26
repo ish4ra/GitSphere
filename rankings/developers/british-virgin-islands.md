@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/justmoon"><img src="https://avatars.githubusercontent.com/u/53233?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/justmoon"><b>Stefan Thomas</b></a><br><sub>&#64;justmoon</sub></td>
-<td align="right"><b>557</b></td>
+<td align="right"><b>556</b></td>
 <td align="right">156</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>

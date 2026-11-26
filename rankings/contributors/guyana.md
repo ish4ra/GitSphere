@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/GY.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/GY.json">JSON</a> |
 
 </div>
 
@@ -43,6 +43,15 @@
 </tr>
 <tr>
 <td align="right">3</td>
+<td><a href="https://github.com/xbze3"><img src="https://avatars.githubusercontent.com/u/155508437?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xbze3"><b>Ezra Minty</b></a><br><sub>&#64;xbze3 · 231 followers</sub></td>
+<td align="right"><b>472</b></td>
+<td align="right">457</td>
+<td align="right">3</td>
+<td align="right">4</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">4</td>
 <td><a href="https://github.com/aG00Dtime"><img src="https://avatars.githubusercontent.com/u/77511476?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aG00Dtime"><b>David Henry</b></a><br><sub>&#64;aG00Dtime · 1 followers</sub></td>
 <td align="right"><b>317</b></td>
 <td align="right">301</td>
@@ -51,7 +60,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">5</td>
 <td><a href="https://github.com/barnwell"><img src="https://avatars.githubusercontent.com/u/3860678?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/barnwell"><b>Jason Barnwell</b></a><br><sub>&#64;barnwell · 9 followers</sub></td>
 <td align="right"><b>291</b></td>
 <td align="right">252</td>
@@ -60,7 +69,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
+<td><a href="https://github.com/adi-pr"><img src="https://avatars.githubusercontent.com/u/108494423?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adi-pr"><b>Aditya (Ruben) Prasad</b></a><br><sub>&#64;adi-pr · 8 followers</sub></td>
+<td align="right"><b>272</b></td>
+<td align="right">245</td>
+<td align="right">14</td>
+<td align="right">0</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/codedbychavez"><img src="https://avatars.githubusercontent.com/u/74829200?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/codedbychavez"><b>Chavez Harris</b></a><br><sub>&#64;codedbychavez · 36 followers</sub></td>
 <td align="right"><b>239</b></td>
 <td align="right">186</td>
@@ -69,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">8</td>
 <td><a href="https://github.com/rayonhunte"><img src="https://avatars.githubusercontent.com/u/5769425?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rayonhunte"><b>Rayon Hunte</b></a><br><sub>&#64;rayonhunte · 5 followers</sub></td>
 <td align="right"><b>169</b></td>
 <td align="right">102</td>
@@ -78,7 +96,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">9</td>
 <td><a href="https://github.com/Sa-YoorHeadley"><img src="https://avatars.githubusercontent.com/u/63974410?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sa-YoorHeadley"><b>Sa-Yoor Headley</b></a><br><sub>&#64;Sa-YoorHeadley · 3 followers</sub></td>
 <td align="right"><b>64</b></td>
 <td align="right">63</td>
@@ -87,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">10</td>
 <td><a href="https://github.com/deonthomasgy"><img src="https://avatars.githubusercontent.com/u/150036?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/deonthomasgy"><b>Deon Thomas</b></a><br><sub>&#64;deonthomasgy · 18 followers</sub></td>
 <td align="right"><b>62</b></td>
 <td align="right">47</td>
@@ -96,7 +114,7 @@
 <td align="right">3</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">11</td>
 <td><a href="https://github.com/RolexAlexander"><img src="https://avatars.githubusercontent.com/u/102192701?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RolexAlexander"><b>Rolex Alexander</b></a><br><sub>&#64;RolexAlexander · 2 followers</sub></td>
 <td align="right"><b>47</b></td>
 <td align="right">32</td>
@@ -111,7 +129,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 16 of 260 discovered developers (244 awaiting measurement).
+- **Measured:** 18 of 260 discovered developers (242 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 3 of 36 in round 1.

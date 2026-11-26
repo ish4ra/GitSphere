@@ -240,31 +240,31 @@
 </tr>
 <tr>
 <td align="right">32</td>
-<td><a href="https://github.com/Massay"><img src="https://avatars.githubusercontent.com/u/6600405?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Massay"><b>Massay Bah</b></a><br><sub>&#64;Massay</sub></td>
-<td align="right"><b>9</b></td>
-<td align="right">54</td>
-<td><sub>The Gambia, Banjul</sub></td>
-</tr>
-<tr>
-<td align="right">33</td>
 <td><a href="https://github.com/lone-wolve"><img src="https://avatars.githubusercontent.com/u/62142372?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lone-wolve"><b>Abdul-Muizz</b></a><br><sub>&#64;lone-wolve</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">18</td>
 <td><sub>Gambia Kanifing</sub></td>
 </tr>
 <tr>
-<td align="right">34</td>
+<td align="right">33</td>
 <td><a href="https://github.com/Sirhino"><img src="https://avatars.githubusercontent.com/u/129794175?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sirhino"><b>Imwealthman</b></a><br><sub>&#64;Sirhino</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">8</td>
 <td><sub>United State,Gambia</sub></td>
 </tr>
 <tr>
-<td align="right">35</td>
+<td align="right">34</td>
 <td><a href="https://github.com/nyassian"><img src="https://avatars.githubusercontent.com/u/56849017?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nyassian"><b>EBRIMA NYASSI</b></a><br><sub>&#64;nyassian</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">4</td>
 <td><sub>Banjul,THE GAMBIA</sub></td>
+</tr>
+<tr>
+<td align="right">35</td>
+<td><a href="https://github.com/Massay"><img src="https://avatars.githubusercontent.com/u/6600405?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Massay"><b>Massay Bah</b></a><br><sub>&#64;Massay</sub></td>
+<td align="right"><b>8</b></td>
+<td align="right">54</td>
+<td><sub>The Gambia, Banjul</sub></td>
 </tr>
 <tr>
 <td align="right">36</td>

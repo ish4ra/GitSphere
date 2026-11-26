@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/rafaballerini"><img src="https://avatars.githubusercontent.com/u/54322854?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rafaballerini"><b>Rafaella Ballerini</b></a><br><sub>&#64;rafaballerini</sub></td>
-<td align="right"><b>60,117</b></td>
+<td align="right"><b>60,118</b></td>
 <td align="right">62</td>
 <td><sub>Santa Catarina, Brasil</sub></td>
 </tr>
@@ -45,7 +45,7 @@
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/diego3g"><img src="https://avatars.githubusercontent.com/u/2254731?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/diego3g"><b>Diego Fernandes</b></a><br><sub>&#64;diego3g</sub></td>
-<td align="right"><b>32,768</b></td>
+<td align="right"><b>32,767</b></td>
 <td align="right">78</td>
 <td><sub>Brazil</sub></td>
 </tr>
@@ -94,7 +94,7 @@
 <tr>
 <td align="right">11</td>
 <td><a href="https://github.com/ErickWendel"><img src="https://avatars.githubusercontent.com/u/8060102?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ErickWendel"><b>Erick Wendel</b></a><br><sub>&#64;ErickWendel</sub></td>
-<td align="right"><b>11,384</b></td>
+<td align="right"><b>11,385</b></td>
 <td align="right">339</td>
 <td><sub>São Paulo - Brazil</sub></td>
 </tr>
@@ -115,7 +115,7 @@
 <tr>
 <td align="right">14</td>
 <td><a href="https://github.com/luizomf"><img src="https://avatars.githubusercontent.com/u/553862?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/luizomf"><b>Otávio Miranda</b></a><br><sub>&#64;luizomf</sub></td>
-<td align="right"><b>9,347</b></td>
+<td align="right"><b>9,349</b></td>
 <td align="right">142</td>
 <td><sub>Boa Esperança, MG, Brazil</sub></td>
 </tr>
@@ -185,7 +185,7 @@
 <tr>
 <td align="right">24</td>
 <td><a href="https://github.com/VictorTaelin"><img src="https://avatars.githubusercontent.com/u/13090166?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VictorTaelin"><b>Victor Taelin</b></a><br><sub>&#64;VictorTaelin</sub></td>
-<td align="right"><b>7,025</b></td>
+<td align="right"><b>7,026</b></td>
 <td align="right">262</td>
 <td><sub>Rio de Janeiro, Brazil</sub></td>
 </tr>
@@ -227,7 +227,7 @@
 <tr>
 <td align="right">30</td>
 <td><a href="https://github.com/JoasASantos"><img src="https://avatars.githubusercontent.com/u/34966120?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JoasASantos"><b>Joas A Santos</b></a><br><sub>&#64;JoasASantos</sub></td>
-<td align="right"><b>5,731</b></td>
+<td align="right"><b>5,734</b></td>
 <td align="right">324</td>
 <td><sub>Brasil</sub></td>
 </tr>
@@ -248,7 +248,7 @@
 <tr>
 <td align="right">33</td>
 <td><a href="https://github.com/danielhe4rt"><img src="https://avatars.githubusercontent.com/u/6912596?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danielhe4rt"><b>Daniel Reis</b></a><br><sub>&#64;danielhe4rt</sub></td>
-<td align="right"><b>4,955</b></td>
+<td align="right"><b>4,956</b></td>
 <td align="right">240</td>
 <td><sub>Brazil</sub></td>
 </tr>
@@ -332,7 +332,7 @@
 <tr>
 <td align="right">45</td>
 <td><a href="https://github.com/rmanguinho"><img src="https://avatars.githubusercontent.com/u/4589851?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rmanguinho"><b>Rodrigo Manguinho</b></a><br><sub>&#64;rmanguinho</sub></td>
-<td align="right"><b>4,179</b></td>
+<td align="right"><b>4,180</b></td>
 <td align="right">12</td>
 <td><sub>Rio de Janeiro, Brazil</sub></td>
 </tr>
@@ -807,17 +807,17 @@
 </tr>
 <tr>
 <td align="right">113</td>
+<td><a href="https://github.com/WSTxda"><img src="https://avatars.githubusercontent.com/u/37253994?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/WSTxda"><b>WSTxda</b></a><br><sub>&#64;WSTxda</sub></td>
+<td align="right"><b>1,855</b></td>
+<td align="right">15</td>
+<td><sub>Brazil</sub></td>
+</tr>
+<tr>
+<td align="right">114</td>
 <td><a href="https://github.com/devfraga"><img src="https://avatars.githubusercontent.com/u/39743468?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/devfraga"><b>Matheus Fraga</b></a><br><sub>&#64;devfraga</sub></td>
 <td align="right"><b>1,854</b></td>
 <td align="right">55</td>
 <td><sub>Campo Grande MS</sub></td>
-</tr>
-<tr>
-<td align="right">114</td>
-<td><a href="https://github.com/WSTxda"><img src="https://avatars.githubusercontent.com/u/37253994?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/WSTxda"><b>WSTxda</b></a><br><sub>&#64;WSTxda</sub></td>
-<td align="right"><b>1,850</b></td>
-<td align="right">15</td>
-<td><sub>Brazil</sub></td>
 </tr>
 <tr>
 <td align="right">115</td>
@@ -1179,7 +1179,7 @@
 <tr>
 <td align="right">166</td>
 <td><a href="https://github.com/msfidelis"><img src="https://avatars.githubusercontent.com/u/13524134?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/msfidelis"><b>Matheus Fidelis</b></a><br><sub>&#64;msfidelis</sub></td>
-<td align="right"><b>1,422</b></td>
+<td align="right"><b>1,426</b></td>
 <td align="right">292</td>
 <td><sub>Salto, São Paulo</sub></td>
 </tr>
@@ -1437,17 +1437,17 @@
 </tr>
 <tr>
 <td align="right">203</td>
+<td><a href="https://github.com/cassiobotaro"><img src="https://avatars.githubusercontent.com/u/3127847?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cassiobotaro"><b>Cássio Botaro</b></a><br><sub>&#64;cassiobotaro</sub></td>
+<td align="right"><b>1,203</b></td>
+<td align="right">77</td>
+<td><sub>São Paulo</sub></td>
+</tr>
+<tr>
+<td align="right">204</td>
 <td><a href="https://github.com/Samuel-de-Oliveira"><img src="https://avatars.githubusercontent.com/u/81493939?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Samuel-de-Oliveira"><b>Samuel de Oliveira</b></a><br><sub>&#64;Samuel-de-Oliveira</sub></td>
 <td align="right"><b>1,203</b></td>
 <td align="right">17</td>
 <td><sub>Arapiraca, Alagoas, Brazil</sub></td>
-</tr>
-<tr>
-<td align="right">204</td>
-<td><a href="https://github.com/cassiobotaro"><img src="https://avatars.githubusercontent.com/u/3127847?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cassiobotaro"><b>Cássio Botaro</b></a><br><sub>&#64;cassiobotaro</sub></td>
-<td align="right"><b>1,202</b></td>
-<td align="right">77</td>
-<td><sub>São Paulo</sub></td>
 </tr>
 <tr>
 <td align="right">205</td>
@@ -2740,7 +2740,7 @@
 <tr>
 <td align="right">389</td>
 <td><a href="https://github.com/danielgatis"><img src="https://avatars.githubusercontent.com/u/7380?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danielgatis"><b>Daniel Gatis</b></a><br><sub>&#64;danielgatis</sub></td>
-<td align="right"><b>742</b></td>
+<td align="right"><b>741</b></td>
 <td align="right">48</td>
 <td><sub>Recife - PE</sub></td>
 </tr>
@@ -7029,7 +7029,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global follower scan — every developer above this cutoff has been enumerated.
-- Organizations are excluded. 1,782 attributed developers are tracked; the cutoff is 377 followers.
+- Organizations are excluded. 1,810 attributed developers are tracked; the cutoff is 377 followers.
 - **Location discovery:** term 0 of 156 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

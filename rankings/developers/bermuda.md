@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/raggi"><img src="https://avatars.githubusercontent.com/u/348?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/raggi"><b>James Tucker</b></a><br><sub>&#64;raggi</sub></td>
-<td align="right"><b>911</b></td>
+<td align="right"><b>910</b></td>
 <td align="right">206</td>
 <td><sub>California or Bermuda</sub></td>
 </tr>
@@ -52,7 +52,7 @@
 <tr>
 <td align="right">5</td>
 <td><a href="https://github.com/404name"><img src="https://avatars.githubusercontent.com/u/56631419?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/404name"><b>404name</b></a><br><sub>&#64;404name</sub></td>
-<td align="right"><b>194</b></td>
+<td align="right"><b>193</b></td>
 <td align="right">67</td>
 <td><sub>Bermuda Triangle</sub></td>
 </tr>

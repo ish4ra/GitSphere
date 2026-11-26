@@ -18,7 +18,7 @@
   {"rank":9,"id":"MDQ6VXNlcjM0ODIxNTM=","login":"Rainbowed","name":"Cake","url":"https://github.com/Rainbowed","avatarUrl":"https://avatars.githubusercontent.com/u/3482153?s=80&v=4","followers":9,"publicRepos":9,"location":"Longyearbyen, Svalbard","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":10,"id":"U_kgDOEM6_eQ","login":"sigurdfandersen-sudo","name":"Sigurd","url":"https://github.com/sigurdfandersen-sudo","avatarUrl":"https://avatars.githubusercontent.com/u/281984889?s=80&v=4","followers":6,"publicRepos":2,"location":"Svalbard","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":11,"id":"MDQ6VXNlcjMwNzU0MQ==","login":"einarjenssen","name":"Einar Jenssen","url":"https://github.com/einarjenssen","avatarUrl":"https://avatars.githubusercontent.com/u/307541?s=80&v=4","followers":5,"publicRepos":1,"location":"Svalbard","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
-  {"rank":12,"id":"MDQ6VXNlcjY2NjcyMDE5","login":"r-daytonoxland","name":"Rowan Dayton-Oxland","url":"https://github.com/r-daytonoxland","avatarUrl":"https://avatars.githubusercontent.com/u/66672019?s=80&v=4","followers":4,"publicRepos":7,"location":"Svalbard","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":12,"id":"MDQ6VXNlcjY2NjcyMDE5","login":"r-daytonoxland","name":"Rowan Dayton-Oxland","url":"https://github.com/r-daytonoxland","avatarUrl":"https://avatars.githubusercontent.com/u/66672019?s=80&v=4","followers":4,"publicRepos":7,"location":"Svalbard","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":13,"id":"MDQ6VXNlcjUyNjc3MjI3","login":"ThalesAbyss","name":"David Parmenter","url":"https://github.com/ThalesAbyss","avatarUrl":"https://avatars.githubusercontent.com/u/52677227?s=80&v=4","followers":4,"publicRepos":0,"location":"Longyearbyen, Svalbard & Jan Mayen","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":14,"id":"U_kgDOCUNPPg","login":"sabersp1ce","name":"Lina","url":"https://github.com/sabersp1ce","avatarUrl":"https://avatars.githubusercontent.com/u/155406142?s=80&v=4","followers":3,"publicRepos":4,"location":"Svalbard","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":15,"id":"U_kgDODhz3Pg","login":"SantiChoped","name":"Santiago Gonzalez","url":"https://github.com/SantiChoped","avatarUrl":"https://avatars.githubusercontent.com/u/236779326?s=80&v=4","followers":3,"publicRepos":1,"location":"Longyearbyen","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-22"},
@@ -64,8 +64,8 @@
   {"rank":55,"id":"MDQ6VXNlcjQxOTgzMzgw","login":"shruthi511","name":"shruthi","url":"https://github.com/shruthi511","avatarUrl":"https://avatars.githubusercontent.com/u/41983380?s=80&v=4","followers":0,"publicRepos":0,"location":"svalbard","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":56,"id":"MDQ6VXNlcjc5Njk4MTQ3","login":"zberjoz","name":"In the Ghetto","url":"https://github.com/zberjoz","avatarUrl":"https://avatars.githubusercontent.com/u/79698147?s=80&v=4","followers":0,"publicRepos":0,"location":"Svalbard","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "ab0c38ec35f5a6c2",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "85b642a4b3b32ffa",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

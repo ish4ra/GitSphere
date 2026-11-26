@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"WS","name":"Samoa","slug":"samoa"},
-"count": 33,
+"count": 31,
 "repositories": [
-  {"name":"tavitas/informdocs","stars":2,"forks":1,"language":"JavaScript","archived":false,"createdAt":"2020-02-09T21:52:15Z","pushedAt":"2022-09-27T19:09:02Z","owner":{"login":"tavitas","type":"User","name":"Tavita Su'a","location":"Samoa"},"attribution":{"code":"WS","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T01:04:20.370Z","id":"legacy:tavitas/informdocs","legacy":true},
-  {"name":"ainsofs/presentations","stars":2,"forks":0,"archived":false,"createdAt":"2024-05-20T01:17:24Z","pushedAt":"2024-05-20T01:20:50Z","owner":{"login":"ainsofs","type":"User","name":"Ainsof So'o","location":"Samoa"},"attribution":{"code":"WS","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T01:04:20.370Z","id":"legacy:ainsofs/presentations","legacy":true},
   {"name":"5thAttemptCode/Samoan_Fale--ReactThreeFiber_Blender","stars":1,"forks":0,"language":"JavaScript","archived":false,"createdAt":"2024-05-20T19:17:58Z","pushedAt":"2024-05-25T07:05:18Z","owner":{"login":"5thAttemptCode","type":"User","name":"Henry","location":"Apia, Samoa"},"attribution":{"code":"WS","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-03T01:04:20.370Z","id":"legacy:5thattemptcode/samoan_fale--reactthreefiber_blender","legacy":true},
   {"name":"duchonic/aoc","stars":1,"forks":0,"language":"C++","archived":false,"createdAt":"2019-01-06T10:00:29Z","pushedAt":"2024-12-06T15:35:46Z","owner":{"login":"duchonic","type":"User","name":"duchonic","location":"samoa"},"attribution":{"code":"WS","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T01:04:20.370Z","id":"legacy:duchonic/aoc","legacy":true},
   {"name":"iwtem/figma-fetch","stars":1,"forks":0,"language":"JavaScript","license":"MIT","archived":false,"createdAt":"2023-04-20T09:34:14Z","pushedAt":"2023-05-11T07:18:17Z","owner":{"login":"iwtem","type":"User","name":"Iwtem","location":"Samoa"},"attribution":{"code":"WS","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-03T01:04:20.370Z","id":"legacy:iwtem/figma-fetch","legacy":true},

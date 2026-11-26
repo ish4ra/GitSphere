@@ -5,7 +5,7 @@
 "country": {"code":"ML","name":"Mali","slug":"mali"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":87,"ownerExpansionBacklog":148,"candidates":87,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":80,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":87,"ownerExpansionBacklog":146,"candidates":87,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":80,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"3II_Repo-_GrandDevoir1_Sup","nameWithOwner":"crafto-dnk/3II_Repo-_GrandDevoir1_Sup","url":"https://github.com/crafto-dnk/3II_Repo-_GrandDevoir1_Sup","description":null,"stars":1,"forks":35,"primaryLanguage":null,"license":null,"createdAt":"2025-12-16T19:40:32Z","pushedAt":"2026-01-27T21:48:30Z","archived":false,"owner":{"login":"crafto-dnk","name":"Hamady Danioko","type":"User","url":"https://github.com/crafto-dnk","location":"Mali","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"map-action-api","nameWithOwner":"223MapAction/map-action-api","url":"https://github.com/223MapAction/map-action-api","description":null,"stars":1,"forks":3,"primaryLanguage":"Python","license":{"spdxId":"AGPL-3.0"},"createdAt":"2024-10-23T14:00:48Z","pushedAt":"2026-09-09T15:01:08Z","archived":false,"owner":{"login":"223MapAction","name":"Kaicedra / Map Action","type":"Organization","url":"https://github.com/223MapAction","location":"Mali","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -95,8 +95,8 @@
   {"rank":86,"id":null,"name":"Osoboy-hacker","nameWithOwner":"Osoboy-hacker/Osoboy-hacker","url":"https://github.com/Osoboy-hacker/Osoboy-hacker","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2021-10-08T13:49:23Z","pushedAt":"2021-10-08T13:49:23Z","archived":false,"owner":{"login":"Osoboy-hacker","name":"Oso Boyÿ","type":"User","url":"https://github.com/Osoboy-hacker","location":"Mali","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":87,"id":null,"name":"Minta-Academy","nameWithOwner":"Professor-minta/Minta-Academy","url":"https://github.com/Professor-minta/Minta-Academy","description":null,"stars":1,"forks":0,"primaryLanguage":"HTML","license":{"spdxId":"NOASSERTION"},"createdAt":"2026-09-29T13:54:41Z","pushedAt":"2026-10-15T17:24:24Z","archived":false,"owner":{"login":"Professor-minta","name":"Professor Minta","type":"User","url":"https://github.com/Professor-minta","location":"Segou/Bamako","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "54b26e847cd475dd",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "490fd42c729f74da",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

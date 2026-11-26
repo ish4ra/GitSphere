@@ -310,31 +310,31 @@
 </tr>
 <tr>
 <td align="right">42</td>
-<td><a href="https://github.com/gantu"><img src="https://avatars.githubusercontent.com/u/122715?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gantu"><b>Mirlan Ipasov</b></a><br><sub>&#64;gantu</sub></td>
-<td align="right"><b>47</b></td>
-<td align="right">85</td>
-<td><sub>Bishkek/Kyrgyzstan</sub></td>
-</tr>
-<tr>
-<td align="right">43</td>
 <td><a href="https://github.com/xbaysal11"><img src="https://avatars.githubusercontent.com/u/43205440?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xbaysal11"><b>BD</b></a><br><sub>&#64;xbaysal11</sub></td>
 <td align="right"><b>47</b></td>
 <td align="right">70</td>
 <td><sub>Bishkek, Kyrgyzstan.</sub></td>
 </tr>
 <tr>
-<td align="right">44</td>
+<td align="right">43</td>
 <td><a href="https://github.com/whytdan"><img src="https://avatars.githubusercontent.com/u/43886010?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/whytdan"><b>whytdan</b></a><br><sub>&#64;whytdan</sub></td>
 <td align="right"><b>47</b></td>
 <td align="right">44</td>
 <td><sub>Bishkek, Kyrgyzstan</sub></td>
 </tr>
 <tr>
-<td align="right">45</td>
+<td align="right">44</td>
 <td><a href="https://github.com/esen"><img src="https://avatars.githubusercontent.com/u/150481?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/esen"><b>Esenbek Kydyr uulu</b></a><br><sub>&#64;esen</sub></td>
 <td align="right"><b>47</b></td>
 <td align="right">20</td>
 <td><sub>Bishkek, Kyrgyzstan</sub></td>
+</tr>
+<tr>
+<td align="right">45</td>
+<td><a href="https://github.com/gantu"><img src="https://avatars.githubusercontent.com/u/122715?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gantu"><b>Mirlan Ipasov</b></a><br><sub>&#64;gantu</sub></td>
+<td align="right"><b>45</b></td>
+<td align="right">85</td>
+<td><sub>Bishkek/Kyrgyzstan</sub></td>
 </tr>
 <tr>
 <td align="right">46</td>

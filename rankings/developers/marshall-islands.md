@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/P20-ORG"><img src="https://avatars.githubusercontent.com/u/136674277?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/P20-ORG"><b>P20</b></a><br><sub>&#64;P20-ORG</sub></td>
-<td align="right"><b>714</b></td>
+<td align="right"><b>713</b></td>
 <td align="right">1</td>
 <td><sub>Marshall Islands</sub></td>
 </tr>

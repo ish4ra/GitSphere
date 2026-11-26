@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"NU","name":"Niue","slug":"niue"},
-"count": 8,
+"count": 7,
 "repositories": [
-  {"name":"Kasp42/Steam-Fast-Farm-Card","stars":2,"forks":0,"language":"JavaScript","license":"MIT","archived":false,"createdAt":"2016-06-24T18:42:58Z","pushedAt":"2018-06-21T19:04:18Z","owner":{"login":"Kasp42","type":"User","name":"Vladislav Kasperov","location":"Niue"},"attribution":{"code":"NU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-30T06:01:01.084Z","id":"legacy:kasp42/steam-fast-farm-card","legacy":true},
   {"name":"Fusion-Perception-Group/AeroPointer","stars":1,"forks":0,"language":"Python","license":"WTFPL","archived":false,"createdAt":"2024-04-29T13:22:53Z","pushedAt":"2025-05-07T05:14:38Z","owner":{"login":"Fusion-Perception-Group","type":"Organization","name":"Fusion & Perception Group","location":"Niue"},"attribution":{"code":"NU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-30T06:01:01.084Z","id":"legacy:fusion-perception-group/aeropointer","legacy":true},
   {"name":"404joe/csharp","stars":0,"forks":0,"language":"HTML","license":"NOASSERTION","archived":false,"createdAt":"2023-06-03T00:35:34Z","pushedAt":"2025-03-03T23:28:48Z","owner":{"login":"404joe","type":"User","location":"Niue"},"attribution":{"code":"NU","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-30T06:01:01.084Z","id":"legacy:404joe/csharp","legacy":true},
   {"name":"Nuggetinator/docco","stars":0,"forks":0,"archived":false,"createdAt":"2023-12-18T20:32:27Z","pushedAt":"2023-12-18T20:32:28Z","owner":{"login":"Nuggetinator","type":"User","name":"Nuggetinator","location":"Alofi"},"attribution":{"code":"NU","confidence":"medium","evidence":"recognized-place"},"seenAt":"2026-10-30T06:01:01.084Z","id":"legacy:nuggetinator/docco","legacy":true},

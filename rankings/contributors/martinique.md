@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/MQ.json">JSON</a> |
+| 🟡 Provisional | **12** | 22 Nov 2026 | <a href="../../data/contributors/MQ.json">JSON</a> |
 
 </div>
 
@@ -70,6 +70,15 @@
 </tr>
 <tr>
 <td align="right">6</td>
+<td><a href="https://github.com/bolom"><img src="https://avatars.githubusercontent.com/u/72155?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bolom"><b>Bolo Michelin</b></a><br><sub>&#64;bolom · 34 followers</sub></td>
+<td align="right"><b>170</b></td>
+<td align="right">159</td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/aldofwi"><img src="https://avatars.githubusercontent.com/u/42814580?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aldofwi"><b>Λldo</b></a><br><sub>&#64;aldofwi · 1 followers</sub></td>
 <td align="right"><b>55</b></td>
 <td align="right">55</td>
@@ -78,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/anthony-nosibor"><img src="https://avatars.githubusercontent.com/u/64765109?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anthony-nosibor"><b>Anthony nosibor</b></a><br><sub>&#64;anthony-nosibor · 7 followers</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">17</td>
@@ -87,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/tolobial"><img src="https://avatars.githubusercontent.com/u/2273317?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tolobial"><b>Patrick PLACIDE</b></a><br><sub>&#64;tolobial · 2 followers</sub></td>
 <td align="right"><b>23</b></td>
 <td align="right">2</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/natdev"><img src="https://avatars.githubusercontent.com/u/24758961?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/natdev"><b>Nathanaël Dordonne</b></a><br><sub>&#64;natdev · 1 followers</sub></td>
 <td align="right"><b>19</b></td>
 <td align="right">16</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/jhonore"><img src="https://avatars.githubusercontent.com/u/18578614?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jhonore"><b>Judes HONORE</b></a><br><sub>&#64;jhonore · 3 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">0</td>
@@ -114,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/giovanny972"><img src="https://avatars.githubusercontent.com/u/49912844?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/giovanny972"><b>giovanny adelaide</b></a><br><sub>&#64;giovanny972 · 17 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">2</td>
@@ -129,7 +138,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 13 of 170 discovered developers (157 awaiting measurement).
+- **Measured:** 15 of 170 discovered developers (155 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 4 of 23 in round 1.

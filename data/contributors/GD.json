@@ -5,7 +5,7 @@
 "country": {"code":"GD","name":"Grenada","slug":"grenada"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":101,"measuredAccounts":17,"measurementBacklog":84,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":15,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":101,"measuredAccounts":19,"measurementBacklog":82,"window":{"from":"2025-11-23T03:00:00Z","to":"2026-11-23T03:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":15,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOBzLDKg","login":"AhndreWalters","name":"Ahndre Walters","url":"https://github.com/AhndreWalters","avatarUrl":"https://avatars.githubusercontent.com/u/120767274?s=80&v=4","followers":30,"publicRepos":41,"location":"Grenada, West Indies","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":637,"commits":595,"pullRequests":1,"reviews":0,"issues":1,"repositories":37,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":2,"id":"MDQ6VXNlcjMwOTE1MTY4","login":"lenuswalker","name":"Lenus Walker","url":"https://github.com/lenuswalker","avatarUrl":"https://avatars.githubusercontent.com/u/30915168?s=80&v=4","followers":2,"publicRepos":26,"location":"Grenada","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":102,"commits":81,"pullRequests":6,"reviews":0,"issues":12,"repositories":2,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
@@ -21,8 +21,8 @@
   {"rank":12,"id":"MDQ6VXNlcjQzNzUyMDk=","login":"bukosabino","name":"Darío López Padial","url":"https://github.com/bukosabino","avatarUrl":"https://avatars.githubusercontent.com/u/4375209?s=80&v=4","followers":679,"publicRepos":53,"location":"Granada","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-25","contributions":{"public":2,"commits":1,"pullRequests":1,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":13,"id":"MDQ6VXNlcjU3MzMwNDA2","login":"kranks40","name":"Oketo Peters","url":"https://github.com/kranks40","avatarUrl":"https://avatars.githubusercontent.com/u/57330406?s=80&v=4","followers":4,"publicRepos":39,"location":"Grenada","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":2,"commits":1,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "e345a61f22743ef4",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "6171d9f40d85ae2d",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

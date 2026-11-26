@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/UA.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/UA.json">JSON</a> |
 
 </div>
 
@@ -689,7 +689,7 @@
 <tr>
 <td align="right">96</td>
 <td><img src="https://github.com/MasterDevX.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MasterDevX/Termux-ADB"><b>MasterDevX/Termux-ADB</b></a><br><sub>Install ADB &amp; FastBoot Tools in Termux!</sub></td>
-<td align="right"><b>2,191</b></td>
+<td align="right"><b>2,193</b></td>
 <td align="right">334</td>
 <td>Shell</td>
 </tr>
@@ -710,15 +710,15 @@
 <tr>
 <td align="right">99</td>
 <td><img src="https://github.com/VolodymyrBaydalka.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/VolodymyrBaydalka/docxjs"><b>VolodymyrBaydalka/docxjs</b></a><br><sub>Docx rendering library</sub></td>
-<td align="right"><b>2,160</b></td>
+<td align="right"><b>2,162</b></td>
 <td align="right">305</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">100</td>
 <td><img src="https://github.com/trunkmaster.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/trunkmaster/nextspace"><b>trunkmaster/nextspace</b></a><br><sub>NeXTSTEP-like desktop environment for Linux</sub></td>
-<td align="right"><b>2,137</b></td>
-<td align="right">87</td>
+<td align="right"><b>2,141</b></td>
+<td align="right">89</td>
 <td>Objective-C</td>
 </tr>
 </tbody>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 2,137 stars; 150 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 2,141 stars; 150 attributed candidates are tracked.
 - 133 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 178 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

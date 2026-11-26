@@ -5,7 +5,7 @@
 "country": {"code":"CM","name":"Cameroon","slug":"cameroon"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":122,"candidates":28,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":115,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":122,"candidates":31,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":115,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"U_kgDOCsl9RA","login":"JOELNATHAN544","name":"Joel Nathan Wanko","url":"https://github.com/JOELNATHAN544","avatarUrl":"https://avatars.githubusercontent.com/u/180976964?s=80&v=4","followers":1371,"publicRepos":46,"location":"Cameroon, Bangangté","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
   {"rank":2,"id":"MDQ6VXNlcjYyMjY5Njkz","login":"ln-dev7","name":"LN","url":"https://github.com/ln-dev7","avatarUrl":"https://avatars.githubusercontent.com/u/62269693?s=80&v=4","followers":1258,"publicRepos":280,"location":"Cameroon","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
@@ -34,10 +34,13 @@
   {"rank":25,"id":"MDQ6VXNlcjUyNjU2NjM=","login":"Blair2004","name":"Blair Jersyer","url":"https://github.com/Blair2004","avatarUrl":"https://avatars.githubusercontent.com/u/5265663?s=80&v=4","followers":177,"publicRepos":147,"location":"Cameroon. Yaoundé","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-25"},
   {"rank":26,"id":"MDQ6VXNlcjQ5MTY5MTU4","login":"baimamboukar","name":"BAIMAM BOUKAR JEAN JACQUES","url":"https://github.com/baimamboukar","avatarUrl":"https://avatars.githubusercontent.com/u/49169158?s=80&v=4","followers":170,"publicRepos":63,"location":"Yaoundé","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-26"},
   {"rank":27,"id":"MDQ6VXNlcjg2MjgxNTUy","login":"Suprememajor","name":"Nobert Etta","url":"https://github.com/Suprememajor","avatarUrl":"https://avatars.githubusercontent.com/u/86281552?s=80&v=4","followers":169,"publicRepos":60,"location":"Buea, Cameroon","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-26"},
-  {"rank":28,"id":"MDQ6VXNlcjIzMTYyMTQ1","login":"RMPR","name":"Paul Mairo","url":"https://github.com/RMPR","avatarUrl":"https://avatars.githubusercontent.com/u/23162145?s=80&v=4","followers":122,"location":"Cameroon","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
+  {"rank":28,"id":"U_kgDOCsmBSQ","login":"lele-maxwell","name":"Lele Maxwell","url":"https://github.com/lele-maxwell","avatarUrl":"https://avatars.githubusercontent.com/u/180977993?s=80&v=4","followers":154,"publicRepos":82,"location":"Cmeroon,Bangante","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-26"},
+  {"rank":29,"id":"MDQ6VXNlcjYxNzUyODQx","login":"itzomen","name":"Peng Boris Akebuon","url":"https://github.com/itzomen","avatarUrl":"https://avatars.githubusercontent.com/u/61752841?s=80&v=4","followers":154,"publicRepos":38,"location":"Buea, Cameroon","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-26"},
+  {"rank":30,"id":"MDQ6VXNlcjgxMDM5ODgy","login":"Njong392","name":"Njong Emy","url":"https://github.com/Njong392","avatarUrl":"https://avatars.githubusercontent.com/u/81039882?s=80&v=4","followers":151,"publicRepos":107,"location":"Cameroon","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
+  {"rank":31,"id":"MDQ6VXNlcjIzMTYyMTQ1","login":"RMPR","name":"Paul Mairo","url":"https://github.com/RMPR","avatarUrl":"https://avatars.githubusercontent.com/u/23162145?s=80&v=4","followers":122,"location":"Cameroon","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "a372d8240fcef8fe",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "c56fc3619da8dbda",
+"updatedAt": "2026-11-26T08:53:16.527Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T08:53:16.527Z"
 }

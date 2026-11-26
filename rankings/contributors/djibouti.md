@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/contributors/DJ.json">JSON</a> |
+| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/contributors/DJ.json">JSON</a> |
 
 </div>
 
@@ -106,6 +106,15 @@
 </tr>
 <tr>
 <td align="right">10</td>
+<td><a href="https://github.com/dayib77"><img src="https://avatars.githubusercontent.com/u/50323375?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dayib77"><b>Dayib Osman</b></a><br><sub>&#64;dayib77 · 1 followers</sub></td>
+<td align="right"><b>72</b></td>
+<td align="right">68</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">11</td>
 <td><a href="https://github.com/moustapha-aden"><img src="https://avatars.githubusercontent.com/u/168269942?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/moustapha-aden"><b>MOUSTAPHA ADEN DIRIYEH</b></a><br><sub>&#64;moustapha-aden · 11 followers</sub></td>
 <td align="right"><b>57</b></td>
 <td align="right">44</td>
@@ -114,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/Ama-dou"><img src="https://avatars.githubusercontent.com/u/51505362?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ama-dou"><b>Amadou Bah</b></a><br><sub>&#64;Ama-dou · 18 followers</sub></td>
 <td align="right"><b>41</b></td>
 <td align="right">0</td>
@@ -123,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/ABDOURAHMAN-ILTIREH"><img src="https://avatars.githubusercontent.com/u/111226361?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ABDOURAHMAN-ILTIREH"><b>ABOURAHMAN ILTIREH</b></a><br><sub>&#64;ABDOURAHMAN-ILTIREH · 3 followers</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">28</td>
@@ -132,7 +141,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
+<td align="right">14</td>
+<td><a href="https://github.com/bassim18ramad"><img src="https://avatars.githubusercontent.com/u/85810945?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bassim18ramad"><b>BassimRH</b></a><br><sub>&#64;bassim18ramad · 38 followers</sub></td>
+<td align="right"><b>16</b></td>
 <td align="right">13</td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">15</td>
 <td><a href="https://github.com/alitani253"><img src="https://avatars.githubusercontent.com/u/76884007?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alitani253"><b>Tani Ali</b></a><br><sub>&#64;alitani253 · 3 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
@@ -147,7 +165,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 21 of 204 discovered developers (183 awaiting measurement).
+- **Measured:** 23 of 204 discovered developers (181 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 4 of 37 in round 1.
