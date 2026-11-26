@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **17** | 22 Nov 2026 | <a href="../../data/contributors/LV.json">JSON</a> |
+| 🟡 Provisional | **18** | 22 Nov 2026 | <a href="../../data/contributors/LV.json">JSON</a> |
 
 </div>
 
@@ -124,7 +124,7 @@
 </tr>
 <tr>
 <td align="right">12</td>
-<td><a href="https://github.com/dbalabka"><img src="https://avatars.githubusercontent.com/u/1269372?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dbalabka"><b>Dmitry Balabka</b></a><br><sub>&#64;dbalabka · 139 followers</sub></td>
+<td><a href="https://github.com/dbalabka"><img src="https://avatars.githubusercontent.com/u/1269372?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dbalabka"><b>Dmitry Balabka</b></a><br><sub>&#64;dbalabka · 138 followers</sub></td>
 <td align="right"><b>82</b></td>
 <td align="right">59</td>
 <td align="right">6</td>
@@ -160,6 +160,15 @@
 </tr>
 <tr>
 <td align="right">16</td>
+<td><a href="https://github.com/arthepsy"><img src="https://avatars.githubusercontent.com/u/7356025?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arthepsy"><b>Andris Raugulis</b></a><br><sub>&#64;arthepsy · 254 followers</sub></td>
+<td align="right"><b>9</b></td>
+<td align="right">8</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">17</td>
 <td><a href="https://github.com/duksis"><img src="https://avatars.githubusercontent.com/u/222101?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/duksis"><b>Hugo Duksis</b></a><br><sub>&#64;duksis · 145 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">5</td>
@@ -168,7 +177,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">18</td>
 <td><a href="https://github.com/elnormous"><img src="https://avatars.githubusercontent.com/u/1800338?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elnormous"><b>Elviss Strazdins</b></a><br><sub>&#64;elnormous · 197 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -183,7 +192,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 17 of 416 discovered developers (399 awaiting measurement).
+- **Measured:** 18 of 416 discovered developers (398 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 136 in round 1.

@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/msanft"><img src="https://avatars.githubusercontent.com/u/58110325?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/msanft"><b>Moritz Sanft</b></a><br><sub>&#64;msanft</sub></td>
-<td align="right"><b>286</b></td>
+<td align="right"><b>287</b></td>
 <td align="right">69</td>
 <td><sub>Liechtenstein</sub></td>
 </tr>
@@ -163,24 +163,24 @@
 </tr>
 <tr>
 <td align="right">21</td>
-<td><a href="https://github.com/IncredibleAaron"><img src="https://avatars.githubusercontent.com/u/13446113?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IncredibleAaron"><b>Aaron</b></a><br><sub>&#64;IncredibleAaron</sub></td>
-<td align="right"><b>12</b></td>
-<td align="right">36</td>
-<td><sub>Vaduz</sub></td>
-</tr>
-<tr>
-<td align="right">22</td>
 <td><a href="https://github.com/niklasfrick"><img src="https://avatars.githubusercontent.com/u/19509178?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/niklasfrick"><b>Niklas Frick</b></a><br><sub>&#64;niklasfrick</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">27</td>
 <td><sub>Liechtenstein</sub></td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">22</td>
 <td><a href="https://github.com/oscardvs"><img src="https://avatars.githubusercontent.com/u/59517821?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/oscardvs"><b>Oscar Devos</b></a><br><sub>&#64;oscardvs</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">26</td>
 <td><sub>Liechtenstein</sub></td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td><a href="https://github.com/IncredibleAaron"><img src="https://avatars.githubusercontent.com/u/13446113?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IncredibleAaron"><b>Aaron</b></a><br><sub>&#64;IncredibleAaron</sub></td>
+<td align="right"><b>11</b></td>
+<td align="right">36</td>
+<td><sub>Vaduz</sub></td>
 </tr>
 <tr>
 <td align="right">24</td>

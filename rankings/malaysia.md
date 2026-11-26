@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **69** | 23 Nov 2026 | <a href="../data/MY.json">JSON</a> |
+| 🟡 Provisional | **73** | 24 Nov 2026 | <a href="../data/MY.json">JSON</a> |
 
 </div>
 
@@ -164,22 +164,22 @@
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/RamadhanAmizudin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RamadhanAmizudin/malware"><b>RamadhanAmizudin/malware</b></a><br><sub>Malware Samples. Uploaded to GitHub for those want to analyse the code. Code mostly from: http://www.malwaretech.com</sub></td>
-<td align="right"><b>1,202</b></td>
-<td align="right">775</td>
+<td align="right"><b>1,205</b></td>
+<td align="right">776</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">22</td>
 <td><img src="https://github.com/Zeyad-Azima.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Zeyad-Azima/Offensive-Resources"><b>Zeyad-Azima/Offensive-Resources</b></a><br><sub>A Huge Learning Resources with Labs For Offensive Security Players</sub></td>
-<td align="right"><b>1,183</b></td>
-<td align="right">247</td>
+<td align="right"><b>1,185</b></td>
+<td align="right">248</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">23</td>
 <td><img src="https://github.com/MoonTechLab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MoonTechLab/Selene-TV"><b>MoonTechLab/Selene-TV</b></a><br><sub>以 MoonTV v100 版本 / Helios 为后端的 Android TV 客户端，针对遥控器设备优化</sub></td>
-<td align="right"><b>1,153</b></td>
-<td align="right">157</td>
+<td align="right"><b>1,168</b></td>
+<td align="right">158</td>
 <td>—</td>
 </tr>
 <tr>
@@ -504,6 +504,34 @@
 <td align="right">114</td>
 <td>Java</td>
 </tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/KenAragorn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KenAragorn/create_flutter_provider_app"><b>KenAragorn/create&#95;flutter&#95;provider&#95;app</b></a><br><sub>A boilerplate project created in Flutter using Provider and Firebase.</sub></td>
+<td align="right"><b>403</b></td>
+<td align="right">117</td>
+<td>Dart</td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/tingyik90.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tingyik90/snackprogressbar"><b>tingyik90/snackprogressbar</b></a><br><sub>Enhanced Snackbar with ProgressBar for Android.</sub></td>
+<td align="right"><b>397</b></td>
+<td align="right">34</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><img src="https://github.com/jamesssooi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jamesssooi/Croppr.js"><b>jamesssooi/Croppr.js</b></a><br><sub>A vanilla JavaScript image cropper that&#39;s lightweight, awesome, and has absolutely zero dependencies.</sub></td>
+<td align="right"><b>392</b></td>
+<td align="right">89</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">73</td>
+<td><img src="https://github.com/Kiyoraka.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Kiyoraka/Project-AI-MemoryCore"><b>Kiyoraka/Project-AI-MemoryCore</b></a></td>
+<td align="right"><b>384</b></td>
+<td align="right">119</td>
+<td>Shell</td>
+</tr>
 </tbody>
 </table>
 
@@ -512,8 +540,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 410 stars; 69 attributed candidates are tracked.
-- 113 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 384 stars; 73 attributed candidates are tracked.
+- 111 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 155 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

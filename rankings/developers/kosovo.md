@@ -52,8 +52,8 @@
 <tr>
 <td align="right">5</td>
 <td><a href="https://github.com/arditbe"><img src="https://avatars.githubusercontent.com/u/88629825?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arditbe"><b>ardit</b></a><br><sub>&#64;arditbe</sub></td>
-<td align="right"><b>147</b></td>
-<td align="right">84</td>
+<td align="right"><b>148</b></td>
+<td align="right">85</td>
 <td><sub>Kosovo, Ferizaj</sub></td>
 </tr>
 <tr>

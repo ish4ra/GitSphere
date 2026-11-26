@@ -156,35 +156,35 @@
 </tr>
 <tr>
 <td align="right">20</td>
-<td><a href="https://github.com/dankadr"><img src="https://avatars.githubusercontent.com/u/24355711?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dankadr"><b>dankadr</b></a><br><sub>&#64;dankadr</sub></td>
-<td align="right"><b>2</b></td>
-<td align="right">6</td>
-<td><sub>Svalbard</sub></td>
-</tr>
-<tr>
-<td align="right">21</td>
 <td><a href="https://github.com/ArthurGarreau"><img src="https://avatars.githubusercontent.com/u/93911492?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ArthurGarreau"><b>Arthur Garreau</b></a><br><sub>&#64;ArthurGarreau</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">2</td>
 <td><sub>Svalbard</sub></td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">21</td>
 <td><a href="https://github.com/ProbablyZento"><img src="https://avatars.githubusercontent.com/u/69420578?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ProbablyZento"><b>Zento</b></a><br><sub>&#64;ProbablyZento</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
 <td><sub>Svalbard</sub></td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">22</td>
 <td><a href="https://github.com/86fyko"><img src="https://avatars.githubusercontent.com/u/66004335?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/86fyko"><b>Merle</b></a><br><sub>&#64;86fyko</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">6</td>
 <td><sub>Svalbard</sub></td>
 </tr>
 <tr>
-<td align="right">24</td>
+<td align="right">23</td>
 <td><a href="https://github.com/coolboygamer4597"><img src="https://avatars.githubusercontent.com/u/165211396?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/coolboygamer4597"><b>kingkingkingkingkingkingkingkingkingking</b></a><br><sub>&#64;coolboygamer4597</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">6</td>
+<td><sub>Svalbard</sub></td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td><a href="https://github.com/dankadr"><img src="https://avatars.githubusercontent.com/u/24355711?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dankadr"><b>dankadr</b></a><br><sub>&#64;dankadr</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">6</td>
 <td><sub>Svalbard</sub></td>
@@ -422,7 +422,7 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
 - Organizations are excluded. 56 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 2 of 13 in round 1.
+- **Location discovery:** term 5 of 13 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

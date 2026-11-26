@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/IE.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/IE.json">JSON</a> |
 
 </div>
 
@@ -633,21 +633,21 @@
 <tr>
 <td align="right">88</td>
 <td><img src="https://github.com/0xnobody.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0xnobody/vmpdump"><b>0xnobody/vmpdump</b></a><br><sub>A dynamic VMP dumper and import fixer, powered by VTIL.</sub></td>
-<td align="right"><b>1,450</b></td>
-<td align="right">231</td>
+<td align="right"><b>1,452</b></td>
+<td align="right">232</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">89</td>
 <td><img src="https://github.com/cesanta.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cesanta/v7"><b>cesanta/v7</b></a><br><sub>Embedded JavaScript engine for C/C++</sub></td>
 <td align="right"><b>1,450</b></td>
-<td align="right">181</td>
+<td align="right">180</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">90</td>
 <td><img src="https://github.com/urschrei.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/urschrei/pyzotero"><b>urschrei/pyzotero</b></a><br><sub>Pyzotero: a Python client for the Zotero API</sub></td>
-<td align="right"><b>1,441</b></td>
+<td align="right"><b>1,442</b></td>
 <td align="right">133</td>
 <td>Python</td>
 </tr>
@@ -655,7 +655,7 @@
 <td align="right">91</td>
 <td><img src="https://github.com/fandreuz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fandreuz/TUI-ConsoleLauncher"><b>fandreuz/TUI-ConsoleLauncher</b></a><br><sub>Linux CLI Launcher for Android</sub></td>
 <td align="right"><b>1,438</b></td>
-<td align="right">324</td>
+<td align="right">326</td>
 <td>Java</td>
 </tr>
 <tr>
@@ -668,35 +668,35 @@
 <tr>
 <td align="right">93</td>
 <td><img src="https://github.com/WeebLabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/WeebLabs/DSPi"><b>WeebLabs/DSPi</b></a><br><sub>A fully featured audio DSP firmware for the Raspberry Pi Pico (RP2040) and Pico 2 (RP2350). Official Discord: https://d…</sub></td>
-<td align="right"><b>1,425</b></td>
-<td align="right">102</td>
+<td align="right"><b>1,429</b></td>
+<td align="right">103</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">94</td>
+<td><img src="https://github.com/miguelgrinberg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/miguelgrinberg/flask-video-streaming"><b>miguelgrinberg/flask-video-streaming</b></a><br><sub>Supporting code for my article on video streaming with Flask.</sub></td>
+<td align="right"><b>1,418</b></td>
+<td align="right">514</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">95</td>
 <td><img src="https://github.com/cdpierse.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cdpierse/transformers-interpret"><b>cdpierse/transformers-interpret</b></a><br><sub>Model explainability that works seamlessly with 🤗 transformers. Explain your transformers model in just 2 lines of cod…</sub></td>
 <td align="right"><b>1,418</b></td>
 <td align="right">99</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
-<td align="right">95</td>
-<td><img src="https://github.com/miguelgrinberg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/miguelgrinberg/flask-video-streaming"><b>miguelgrinberg/flask-video-streaming</b></a><br><sub>Supporting code for my article on video streaming with Flask.</sub></td>
-<td align="right"><b>1,417</b></td>
-<td align="right">514</td>
-<td>Python</td>
-</tr>
-<tr>
 <td align="right">96</td>
 <td><img src="https://github.com/usablica.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/usablica/kissui.scrollanim"><b>usablica/kissui.scrollanim</b></a><br><sub>CSS3 scroll animation library</sub></td>
 <td align="right"><b>1,401</b></td>
-<td align="right">125</td>
+<td align="right">124</td>
 <td>CSS</td>
 </tr>
 <tr>
 <td align="right">97</td>
 <td><img src="https://github.com/maK-.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maK-/parameth"><b>maK-/parameth</b></a> <sub>archived</sub><br><sub>This tool can be used to brute discover GET and POST parameters</sub></td>
-<td align="right"><b>1,394</b></td>
+<td align="right"><b>1,393</b></td>
 <td align="right">193</td>
 <td>Python</td>
 </tr>
@@ -710,8 +710,8 @@
 <tr>
 <td align="right">99</td>
 <td><img src="https://github.com/Arnklit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Arnklit/Waterways"><b>Arnklit/Waterways</b></a><br><sub>A tool to generate river meshes with flow and foam maps based on bezier curves.</sub></td>
-<td align="right"><b>1,355</b></td>
-<td align="right">94</td>
+<td align="right"><b>1,356</b></td>
+<td align="right">93</td>
 <td>GDScript</td>
 </tr>
 <tr>

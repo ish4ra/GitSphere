@@ -1,8 +1,9 @@
 {
 "schemaVersion": 3,
 "country": {"code":"MZ","name":"Mozambique","slug":"mozambique"},
-"count": 1,
+"count": 2,
 "repositories": [
-  {"id":"MDEwOlJlcG9zaXRvcnk4NTIwOTU0OA==","name":"DandelionSprout/adfilt","stars":2320,"forks":189,"language":"Adblock Filter List","license":"NOASSERTION","description":"The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.","archived":false,"createdAt":"2017-03-16T15:09:28Z","pushedAt":"2026-11-25T22:49:01Z","owner":{"id":"MDQ6VXNlcjIyNzgwNjgz","login":"DandelionSprout","type":"User","name":"Imre Eilertsen","location":"A chair."},"attribution":{"code":"MZ","confidence":"medium","evidence":"consistent-places"},"seenAt":"2026-11-26T00:08:40.944Z","verifiedAt":"2026-11-26T00:08:40.944Z","cycle":1,"revalidatedAt":"2026-11-26T00:08:40.944Z"}
+  {"id":"MDEwOlJlcG9zaXRvcnk4NTIwOTU0OA==","name":"DandelionSprout/adfilt","stars":2320,"forks":189,"language":"Adblock Filter List","license":"NOASSERTION","description":"The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.","archived":false,"createdAt":"2017-03-16T15:09:28Z","pushedAt":"2026-11-25T22:49:01Z","owner":{"id":"MDQ6VXNlcjIyNzgwNjgz","login":"DandelionSprout","type":"User","name":"Imre Eilertsen","location":"A chair."},"attribution":{"code":"MZ","confidence":"medium","evidence":"consistent-places"},"seenAt":"2026-11-26T00:08:40.944Z","verifiedAt":"2026-11-26T00:08:40.944Z","cycle":1,"revalidatedAt":"2026-11-26T00:08:40.944Z"},
+  {"id":"MDEwOlJlcG9zaXRvcnkzMTgwMTA0MDU=","name":"americo/sqlifinder","stars":400,"forks":72,"language":"Python","description":"SQL Injection Vulnerability Scanner made with Python","archived":false,"createdAt":"2020-12-02T22:39:18Z","pushedAt":"2026-04-15T10:45:38Z","owner":{"id":"MDQ6VXNlcjYyNjc0NDE4","login":"americo","type":"User","name":"Américo Júnior","location":"Mozambique"},"attribution":{"code":"MZ","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-26T18:29:14.777Z","verifiedAt":"2026-11-26T18:29:14.777Z","cycle":1}
 ]
 }

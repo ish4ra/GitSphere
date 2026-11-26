@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **14** | 25 Oct 2026 | <a href="../data/BV.json">JSON</a> |
+| 🟠 Stale | **13** | 25 Oct 2026 | <a href="../data/BV.json">JSON</a> |
 
-> **Not yet re-verified.** 14 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 13 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -25,97 +25,90 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><img src="https://github.com/bijaybartaula.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bijaybartaula/The-Optional-Disappointment"><b>bijaybartaula/The-Optional-Disappointment</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>—</td>
-</tr>
-<tr>
-<td align="right">2</td>
 <td><img src="https://github.com/anayadoramrdoors.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anayadoramrdoors/anayadoramrdoors"><b>anayadoramrdoors/anayadoramrdoors</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">2</td>
 <td><img src="https://github.com/atomicmaildev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/atomicmaildev/chat0006y4"><b>atomicmaildev/chat0006y4</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>HTML</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">3</td>
 <td><img src="https://github.com/Blockchain707.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Blockchain707/SharpPusher1"><b>Blockchain707/SharpPusher1</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>C#</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">4</td>
 <td><img src="https://github.com/bode35210.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bode35210/500px-iOS-api"><b>bode35210/500px-iOS-api</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>Objective-C</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">5</td>
 <td><img src="https://github.com/chucklesjoseph.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/chucklesjoseph/chucklesjoseph"><b>chucklesjoseph/chucklesjoseph</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">6</td>
 <td><img src="https://github.com/heidaromrdemolol.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/heidaromrdemolol/heidaromrdemolol"><b>heidaromrdemolol/heidaromrdemolol</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">7</td>
 <td><img src="https://github.com/jojoramarmrdemolol.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jojoramarmrdemolol/jojoramarmrdemolol"><b>jojoramarmrdemolol/jojoramarmrdemolol</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">8</td>
 <td><img src="https://github.com/mcpoweradeduck.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mcpoweradeduck/mcpoweradeduck"><b>mcpoweradeduck/mcpoweradeduck</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">9</td>
 <td><img src="https://github.com/N844AA.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/N844AA/Stuxnet-Source-main"><b>N844AA/Stuxnet-Source-main</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>C</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">10</td>
 <td><img src="https://github.com/New0101.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/New0101/github"><b>New0101/github</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">11</td>
 <td><img src="https://github.com/northprogibator.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/northprogibator/northprogibator"><b>northprogibator/northprogibator</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">12</td>
 <td><img src="https://github.com/PixelTracksAlpaka.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PixelTracksAlpaka/trackingRecHitChanges"><b>PixelTracksAlpaka/trackingRecHitChanges</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>C++</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">13</td>
 <td><img src="https://github.com/st3v3ballm3r.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/st3v3ballm3r/bobo-finance"><b>st3v3ballm3r/bobo-finance</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -129,8 +122,8 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 0 stars; 14 attributed candidates are tracked.
-- 14 entries were carried over from the previous dataset and are pending revalidation.
+- **Cutoff:** the last listed repository has 0 stars; 13 attributed candidates are tracked.
+- 13 entries were carried over from the previous dataset and are pending revalidation.
 - 17 multi-repository owners are queued for expansion.
 - **Location discovery:** term 6 of 20 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

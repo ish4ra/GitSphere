@@ -94,7 +94,7 @@
 <tr>
 <td align="right">11</td>
 <td><a href="https://github.com/lockie"><img src="https://avatars.githubusercontent.com/u/160056?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lockie"><b>Andrew Kravchuk</b></a><br><sub>&#64;lockie</sub></td>
-<td align="right"><b>136</b></td>
+<td align="right"><b>135</b></td>
 <td align="right">126</td>
 <td><sub>Montenegro, Podgorica</sub></td>
 </tr>

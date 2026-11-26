@@ -8,7 +8,7 @@
 "coverage": {"basis":"partial","cutoffFollowers":0,"candidates":398,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":18,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjE3NTc0Mjg=","login":"walidshaari","name":"Walid Shaari CNJ","url":"https://github.com/walidshaari","avatarUrl":"https://avatars.githubusercontent.com/u/1757428?s=80&v=4","followers":723,"publicRepos":170,"location":"Bahrain","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
-  {"rank":2,"id":"MDQ6VXNlcjEwMzk4MA==","login":"naweed","name":"Naweed Akram","url":"https://github.com/naweed","avatarUrl":"https://avatars.githubusercontent.com/u/103980?s=80&v=4","followers":243,"publicRepos":24,"location":"Bahrain","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":2,"id":"MDQ6VXNlcjEwMzk4MA==","login":"naweed","name":"Naweed Akram","url":"https://github.com/naweed","avatarUrl":"https://avatars.githubusercontent.com/u/103980?s=80&v=4","followers":244,"publicRepos":24,"location":"Bahrain","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":3,"id":"MDQ6VXNlcjE3NjE3Nzk=","login":"fairbird","name":"RAED","url":"https://github.com/fairbird","avatarUrl":"https://avatars.githubusercontent.com/u/1761779?s=80&v=4","followers":121,"publicRepos":33,"location":"Bahrain","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":4,"id":"MDQ6VXNlcjMzNTE3MTYw","login":"0xRar","name":null,"url":"https://github.com/0xRar","avatarUrl":"https://avatars.githubusercontent.com/u/33517160?s=80&v=4","followers":116,"publicRepos":73,"location":"Bahrain","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":5,"id":"MDQ6VXNlcjg0OTAwMzI4","login":"ExTBH","name":"Natheer Radhi","url":"https://github.com/ExTBH","avatarUrl":"https://avatars.githubusercontent.com/u/84900328?s=80&v=4","followers":107,"publicRepos":22,"location":"Bahrain","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
@@ -406,8 +406,8 @@
   {"rank":397,"id":"U_kgDOBkqjJA","login":"MarianOwais","name":null,"url":"https://github.com/MarianOwais","avatarUrl":"https://avatars.githubusercontent.com/u/105554724?s=80&v=4","followers":0,"publicRepos":1,"location":"Bahrain","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":398,"id":"U_kgDOBXstgw","login":"masumgh","name":"Mohammad Masum Billah","url":"https://github.com/masumgh","avatarUrl":"https://avatars.githubusercontent.com/u/91958659?s=80&v=4","followers":0,"publicRepos":1,"location":"Manama, Bahrain","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-26"}
 ],
-"contentHash": "2192ef7c6a8b1bfa",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "d496e14a91fd0cca",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

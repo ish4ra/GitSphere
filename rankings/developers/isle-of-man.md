@@ -93,9 +93,9 @@
 </tr>
 <tr>
 <td align="right">11</td>
-<td><a href="https://github.com/Winter0x11"><img src="https://avatars.githubusercontent.com/u/169273572?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Winter0x11"><b>𝓦𝓲𝓷𝓽𝓮𝓻</b></a><br><sub>&#64;Winter0x11</sub></td>
+<td><a href="https://github.com/winter0x11"><img src="https://avatars.githubusercontent.com/u/169273572?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/winter0x11"><b>𝓦𝓲𝓷𝓽𝓮𝓻</b></a><br><sub>&#64;winter0x11</sub></td>
 <td align="right"><b>45</b></td>
-<td align="right">39</td>
+<td align="right">40</td>
 <td><sub>Isle of Man</sub></td>
 </tr>
 <tr>

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **23** | 22 Nov 2026 | <a href="../../data/contributors/AR.json">JSON</a> |
+| 🟡 Provisional | **25** | 22 Nov 2026 | <a href="../../data/contributors/AR.json">JSON</a> |
 
 </div>
 
@@ -133,7 +133,7 @@
 </tr>
 <tr>
 <td align="right">13</td>
-<td><a href="https://github.com/valpackett"><img src="https://avatars.githubusercontent.com/u/208340?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/valpackett"><b>Val Packett</b></a><br><sub>&#64;valpackett · 583 followers</sub></td>
+<td><a href="https://github.com/valpackett"><img src="https://avatars.githubusercontent.com/u/208340?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/valpackett"><b>Val Packett</b></a><br><sub>&#64;valpackett · 582 followers</sub></td>
 <td align="right"><b>199</b></td>
 <td align="right">80</td>
 <td align="right">39</td>
@@ -142,7 +142,7 @@
 </tr>
 <tr>
 <td align="right">14</td>
-<td><a href="https://github.com/juancarlospaco"><img src="https://avatars.githubusercontent.com/u/1189414?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/juancarlospaco"><b>Juan Carlos</b></a><br><sub>&#64;juancarlospaco · 378 followers</sub></td>
+<td><a href="https://github.com/juancarlospaco"><img src="https://avatars.githubusercontent.com/u/1189414?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/juancarlospaco"><b>Juan Carlos</b></a><br><sub>&#64;juancarlospaco · 379 followers</sub></td>
 <td align="right"><b>179</b></td>
 <td align="right">170</td>
 <td align="right">0</td>
@@ -187,7 +187,25 @@
 </tr>
 <tr>
 <td align="right">19</td>
-<td><a href="https://github.com/munshkr"><img src="https://avatars.githubusercontent.com/u/4862?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/munshkr"><b>Damián Silvani</b></a><br><sub>&#64;munshkr · 329 followers</sub></td>
+<td><a href="https://github.com/hugoruscitti"><img src="https://avatars.githubusercontent.com/u/99183?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hugoruscitti"><b>Hugo Ruscitti</b></a><br><sub>&#64;hugoruscitti · 139 followers</sub></td>
+<td align="right"><b>84</b></td>
+<td align="right">81</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">20</td>
+<td><a href="https://github.com/kinrokinro"><img src="https://avatars.githubusercontent.com/u/3493914?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kinrokinro"><b>0xAN</b></a><br><sub>&#64;kinrokinro · 150 followers</sub></td>
+<td align="right"><b>26</b></td>
+<td align="right">21</td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">21</td>
+<td><a href="https://github.com/munshkr"><img src="https://avatars.githubusercontent.com/u/4862?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/munshkr"><b>Damián Silvani</b></a><br><sub>&#64;munshkr · 327 followers</sub></td>
 <td align="right"><b>26</b></td>
 <td align="right">20</td>
 <td align="right">4</td>
@@ -195,7 +213,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">22</td>
 <td><a href="https://github.com/JoseAlz"><img src="https://avatars.githubusercontent.com/u/53873799?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JoseAlz"><b>JoseAlz</b></a><br><sub>&#64;JoseAlz · 261 followers</sub></td>
 <td align="right"><b>19</b></td>
 <td align="right">10</td>
@@ -204,7 +222,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">23</td>
 <td><a href="https://github.com/lvm"><img src="https://avatars.githubusercontent.com/u/34095?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lvm"><b>~lmn</b></a><br><sub>&#64;lvm · 193 followers</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">7</td>
@@ -213,7 +231,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">24</td>
 <td><a href="https://github.com/humbertodrc"><img src="https://avatars.githubusercontent.com/u/63797901?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/humbertodrc"><b>Humberto Rivero</b></a><br><sub>&#64;humbertodrc · 181 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">0</td>
@@ -222,7 +240,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">25</td>
 <td><a href="https://github.com/bevacqua"><img src="https://avatars.githubusercontent.com/u/934293?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bevacqua"><b>Nicolás Bevacqua</b></a><br><sub>&#64;bevacqua · 4,830 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -237,7 +255,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 24 of 716 discovered developers (692 awaiting measurement).
+- **Measured:** 26 of 750 discovered developers (724 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 109 in round 1.

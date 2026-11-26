@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **30** | 23 Nov 2026 | <a href="../data/BA.json">JSON</a> |
+| 🟡 Provisional | **31** | 24 Nov 2026 | <a href="../data/BA.json">JSON</a> |
 
 </div>
 
@@ -81,7 +81,7 @@
 <td align="right">9</td>
 <td><img src="https://github.com/berbicanes.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/berbicanes/apiark"><b>berbicanes/apiark</b></a><br><sub>Privacy-first API platform built with Tauri v2. No login, no cloud, ~60 MB RAM. A lightweight Postman alternative.</sub></td>
 <td align="right"><b>1,305</b></td>
-<td align="right">85</td>
+<td align="right">84</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -231,6 +231,13 @@
 <td align="right">57</td>
 <td>Shell</td>
 </tr>
+<tr>
+<td align="right">31</td>
+<td><img src="https://github.com/vatri.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vatri/spring-rest-ecommerce"><b>vatri/spring-rest-ecommerce</b></a><br><sub>Java Spring Boot - Ecommerce REST API</sub></td>
+<td align="right"><b>380</b></td>
+<td align="right">177</td>
+<td>Java</td>
+</tr>
 </tbody>
 </table>
 
@@ -239,8 +246,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 424 stars; 30 attributed candidates are tracked.
-- 86 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 380 stars; 31 attributed candidates are tracked.
+- 75 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 123 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

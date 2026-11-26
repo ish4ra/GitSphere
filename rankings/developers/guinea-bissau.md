@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **56** | 22 Nov 2026 | <a href="../../data/developers/GW.json">JSON</a> |
+| 🟡 Provisional | **56** | 23 Nov 2026 | <a href="../../data/developers/GW.json">JSON</a> |
 
 </div>
 

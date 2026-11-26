@@ -163,17 +163,17 @@
 </tr>
 <tr>
 <td align="right">21</td>
-<td><a href="https://github.com/abasjr"><img src="https://avatars.githubusercontent.com/u/36306922?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abasjr"><b>Abas D. Baskoro</b></a><br><sub>&#64;abasjr</sub></td>
-<td align="right"><b>150</b></td>
-<td align="right">50</td>
-<td><sub>Al Quds, Palestine</sub></td>
-</tr>
-<tr>
-<td align="right">22</td>
 <td><a href="https://github.com/DiaeddinTahboub"><img src="https://avatars.githubusercontent.com/u/109191767?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DiaeddinTahboub"><b>Diaeddin Tahboub</b></a><br><sub>&#64;DiaeddinTahboub</sub></td>
 <td align="right"><b>150</b></td>
 <td align="right">7</td>
 <td><sub>Palestine - Ramallah</sub></td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><a href="https://github.com/abasjr"><img src="https://avatars.githubusercontent.com/u/36306922?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abasjr"><b>Abas D. Baskoro</b></a><br><sub>&#64;abasjr</sub></td>
+<td align="right"><b>149</b></td>
+<td align="right">50</td>
+<td><sub>Al Quds, Palestine</sub></td>
 </tr>
 <tr>
 <td align="right">23</td>

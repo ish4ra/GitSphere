@@ -5,7 +5,7 @@
 "country": {"code":"VA","name":"Vatican City","slug":"vatican-city"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":95,"measuredAccounts":13,"measurementBacklog":82,"window":{"from":"2025-11-26T08:00:00Z","to":"2026-11-26T08:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":17,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":95,"measuredAccounts":14,"measurementBacklog":81,"window":{"from":"2025-11-26T08:00:00Z","to":"2026-11-26T08:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":17,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOBdOFCw","login":"mateitheking","name":"Ami","url":"https://github.com/mateitheking","avatarUrl":"https://avatars.githubusercontent.com/u/97748235?s=80&v=4","followers":0,"publicRepos":6,"location":"Vatican (The Holy See)","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26","contributions":{"public":646,"commits":632,"pullRequests":7,"reviews":0,"issues":1,"repositories":6,"windowFrom":"2025-11-26T08:00:00Z","windowTo":"2026-11-26T08:00:00Z","measuredOn":"2026-11-26"}},
   {"rank":2,"id":"MDQ6VXNlcjU1NTQxMDcw","login":"halavah","name":"halavah","url":"https://github.com/halavah","avatarUrl":"https://avatars.githubusercontent.com/u/55541070?s=80&v=4","followers":35,"publicRepos":57,"location":"Vatican","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":602,"commits":553,"pullRequests":0,"reviews":0,"issues":0,"repositories":49,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
@@ -17,8 +17,8 @@
   {"rank":8,"id":"U_kgDOBdeJiw","login":"dru91ce","name":"dru91ce","url":"https://github.com/dru91ce","avatarUrl":"https://avatars.githubusercontent.com/u/98011531?s=80&v=4","followers":4,"publicRepos":11,"location":"Vatican City (Holy See)","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":5,"commits":2,"pullRequests":0,"reviews":0,"issues":2,"repositories":1,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":9,"id":"MDQ6VXNlcjYwOTE4MDcw","login":"kubonnt","name":null,"url":"https://github.com/kubonnt","avatarUrl":"https://avatars.githubusercontent.com/u/60918070?s=80&v=4","followers":15,"publicRepos":8,"location":"Vatican City","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":2,"commits":1,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "46b3cde08d20969e",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "f6c895dfaa4dd2c4",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

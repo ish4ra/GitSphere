@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/PK.json">JSON</a> |
+| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/PK.json">JSON</a> |
 
 </div>
 
@@ -409,21 +409,21 @@
 <tr>
 <td align="right">56</td>
 <td><img src="https://github.com/skyw4tch3r.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/skyw4tch3r/RootKits-List-Download"><b>skyw4tch3r/RootKits-List-Download</b></a><br><sub>This is the list of all rootkits found so far on github and other sites.</sub></td>
-<td align="right"><b>1,485</b></td>
+<td align="right"><b>1,488</b></td>
 <td align="right">389</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">57</td>
 <td><img src="https://github.com/hashirshoaeb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hashirshoaeb/home"><b>hashirshoaeb/home</b></a><br><sub>The personal website/portfolio template by Hashir Shoaib. Built using React and Bootstrap.</sub></td>
-<td align="right"><b>1,482</b></td>
-<td align="right">1,663</td>
+<td align="right"><b>1,481</b></td>
+<td align="right">1,661</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">58</td>
 <td><img src="https://github.com/byted-technologies.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/byted-technologies/Fractal-PrivacyPolicy"><b>byted-technologies/Fractal-PrivacyPolicy</b></a></td>
-<td align="right"><b>1,428</b></td>
+<td align="right"><b>1,427</b></td>
 <td align="right">0</td>
 <td>HTML</td>
 </tr>
@@ -452,7 +452,7 @@
 <td align="right">62</td>
 <td><img src="https://github.com/ossamamehmood.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ossamamehmood/Hacktoberfest"><b>ossamamehmood/Hacktoberfest</b></a><br><sub>Hacktoberfest OPEN FIRST Pull Request 🎉</sub></td>
 <td align="right"><b>1,341</b></td>
-<td align="right">4,948</td>
+<td align="right">4,947</td>
 <td>—</td>
 </tr>
 <tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 562 stars; 122 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 562 stars; 131 attributed candidates are tracked.
 - 125 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 147 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

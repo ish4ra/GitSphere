@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/contributors/AF.json">JSON</a> |
+| 🟡 Provisional | **17** | 22 Nov 2026 | <a href="../../data/contributors/AF.json">JSON</a> |
 
 </div>
 
@@ -167,6 +167,15 @@
 <td align="right">0</td>
 <td align="right">0</td>
 </tr>
+<tr>
+<td align="right">17</td>
+<td><a href="https://github.com/AliShahSafdari"><img src="https://avatars.githubusercontent.com/u/102790107?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AliShahSafdari"><b>Alishah</b></a><br><sub>&#64;AliShahSafdari · 78 followers</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
 </tbody>
 </table>
 
@@ -174,7 +183,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 24 of 403 discovered developers (379 awaiting measurement).
+- **Measured:** 26 of 403 discovered developers (377 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 171 in round 1.

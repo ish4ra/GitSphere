@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/IL.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/IL.json">JSON</a> |
 
 </div>
 
@@ -675,7 +675,7 @@
 <tr>
 <td align="right">94</td>
 <td><img src="https://github.com/orlangure.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/orlangure/gnomock"><b>orlangure/gnomock</b></a><br><sub>Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple line…</sub></td>
-<td align="right"><b>1,487</b></td>
+<td align="right"><b>1,486</b></td>
 <td align="right">81</td>
 <td>Go</td>
 </tr>
@@ -696,30 +696,30 @@
 <tr>
 <td align="right">97</td>
 <td><img src="https://github.com/tontinton.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tontinton/maki"><b>tontinton/maki</b></a><br><sub>An efficient AI coding agent extendable by neovim-like Lua plugins</sub></td>
-<td align="right"><b>1,455</b></td>
-<td align="right">230</td>
+<td align="right"><b>1,460</b></td>
+<td align="right">234</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">98</td>
 <td><img src="https://github.com/cyberark.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cyberark/KubiScan"><b>cyberark/KubiScan</b></a><br><sub>A tool to scan Kubernetes cluster for risky permissions</sub></td>
 <td align="right"><b>1,438</b></td>
-<td align="right">144</td>
+<td align="right">145</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">99</td>
-<td><img src="https://github.com/creotip.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/creotip/vue-particles"><b>creotip/vue-particles</b></a><br><sub>Vue.js component for particles backgrounds ✨</sub></td>
+<td><img src="https://github.com/donno2048.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/donno2048/snake"><b>donno2048/snake</b></a><br><sub>A 54 bytes snake game in x86 assembly</sub></td>
 <td align="right"><b>1,432</b></td>
-<td align="right">189</td>
-<td>JavaScript</td>
+<td align="right">45</td>
+<td>Assembly</td>
 </tr>
 <tr>
 <td align="right">100</td>
-<td><img src="https://github.com/donno2048.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/donno2048/snake"><b>donno2048/snake</b></a><br><sub>A 54 bytes snake game in x86 assembly</sub></td>
-<td align="right"><b>1,430</b></td>
-<td align="right">44</td>
-<td>Assembly</td>
+<td><img src="https://github.com/creotip.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/creotip/vue-particles"><b>creotip/vue-particles</b></a><br><sub>Vue.js component for particles backgrounds ✨</sub></td>
+<td align="right"><b>1,431</b></td>
+<td align="right">189</td>
+<td>JavaScript</td>
 </tr>
 </tbody>
 </table>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 1,430 stars; 150 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 1,431 stars; 150 attributed candidates are tracked.
 - 117 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 150 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

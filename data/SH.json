@@ -5,7 +5,7 @@
 "country": {"code":"SH","name":"St. Helena","slug":"st-helena"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":12,"ownerExpansionBacklog":17,"candidates":12,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":22,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":12,"ownerExpansionBacklog":22,"candidates":12,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":22,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"strafetrainer","nameWithOwner":"2x74/strafetrainer","url":"https://github.com/2x74/strafetrainer","description":null,"stars":1,"forks":2,"primaryLanguage":"SourcePawn","license":{"spdxId":"GPL-3.0"},"createdAt":"2026-08-04T05:27:30Z","pushedAt":"2026-08-25T00:30:09Z","archived":false,"owner":{"login":"2x74","name":"luna","type":"User","url":"https://github.com/2x74","location":"St. Helena","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"discord_bot","nameWithOwner":"Deeannpva7/discord_bot","url":"https://github.com/Deeannpva7/discord_bot","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-07-20T06:43:10Z","pushedAt":"2024-07-20T06:43:11Z","archived":false,"owner":{"login":"Deeannpva7","name":"Liam Mnchhoff","type":"User","url":"https://github.com/Deeannpva7","location":"Sint-Helena (SH)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
@@ -20,8 +20,8 @@
   {"rank":11,"id":null,"name":"shyguynicknameter","nameWithOwner":"shyguynicknameter/shyguynicknameter","url":"https://github.com/shyguynicknameter/shyguynicknameter","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-24T21:59:16Z","pushedAt":"2024-09-24T21:59:35Z","archived":false,"owner":{"login":"shyguynicknameter","name":null,"type":"User","url":"https://github.com/shyguynicknameter","location":"St. Helena (SH)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
   {"rank":12,"id":null,"name":"termitvirgintanks","nameWithOwner":"termitvirgintanks/termitvirgintanks","url":"https://github.com/termitvirgintanks/termitvirgintanks","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-29T09:33:38Z","pushedAt":"2024-09-29T09:34:13Z","archived":false,"owner":{"login":"termitvirgintanks","name":null,"type":"User","url":"https://github.com/termitvirgintanks","location":"Sint-Helena (SH)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-10-27","pendingRevalidation":true}
 ],
-"contentHash": "894a9f4c8e271448",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "30d4fbf94451f3c9",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-10-27",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

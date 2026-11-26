@@ -5,10 +5,10 @@
 "country": {"code":"SO","name":"Somalia","slug":"somalia"},
 "status": "building",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":null,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":136,"candidates":0,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":99,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":null,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":134,"candidates":0,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":99,"unresolved":0},"exhaustive":false},
 "repositories": [],
-"contentHash": "80decf3549d2b97d",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "d6d056358c90e1d0",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": null,
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

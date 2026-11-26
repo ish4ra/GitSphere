@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **9** | 24 Nov 2026 | <a href="../data/MO.json">JSON</a> |
+| 🟡 Provisional | **10** | 24 Nov 2026 | <a href="../data/MO.json">JSON</a> |
 
 </div>
 
@@ -84,6 +84,13 @@
 <td align="right">73</td>
 <td>Shell</td>
 </tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/spiritLHLS.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/spiritLHLS/speedtest.net-CN-ID"><b>spiritLHLS/speedtest.net-CN-ID</b></a><br><sub>speedtest.net部分地区的测速节点合集(数据每天更新一次)</sub></td>
+<td align="right"><b>386</b></td>
+<td align="right">26</td>
+<td>Python</td>
+</tr>
 </tbody>
 </table>
 
@@ -92,8 +99,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 560 stars; 9 attributed candidates are tracked.
-- 84 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 386 stars; 10 attributed candidates are tracked.
+- 70 multi-repository owners are queued for expansion.
 - **Location discovery:** term 1 of 16 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

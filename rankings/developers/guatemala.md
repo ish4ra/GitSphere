@@ -205,16 +205,16 @@
 </tr>
 <tr>
 <td align="right">27</td>
-<td><a href="https://github.com/acwilan"><img src="https://avatars.githubusercontent.com/u/317590?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/acwilan"><b>Andres Rovira</b></a><br><sub>&#64;acwilan</sub></td>
+<td><a href="https://github.com/josejuanqm"><img src="https://avatars.githubusercontent.com/u/7193708?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/josejuanqm"><b>Jose Quintero</b></a><br><sub>&#64;josejuanqm</sub></td>
 <td align="right"><b>83</b></td>
-<td align="right">79</td>
+<td align="right">44</td>
 <td><sub>Guatemala</sub></td>
 </tr>
 <tr>
 <td align="right">28</td>
-<td><a href="https://github.com/josejuanqm"><img src="https://avatars.githubusercontent.com/u/7193708?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/josejuanqm"><b>Jose Quintero</b></a><br><sub>&#64;josejuanqm</sub></td>
-<td align="right"><b>83</b></td>
-<td align="right">44</td>
+<td><a href="https://github.com/acwilan"><img src="https://avatars.githubusercontent.com/u/317590?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/acwilan"><b>Andres Rovira</b></a><br><sub>&#64;acwilan</sub></td>
+<td align="right"><b>82</b></td>
+<td align="right">79</td>
 <td><sub>Guatemala</sub></td>
 </tr>
 <tr>

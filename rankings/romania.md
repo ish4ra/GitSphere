@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/RO.json">JSON</a> |
+| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/RO.json">JSON</a> |
 
 </div>
 
@@ -388,7 +388,7 @@
 <tr>
 <td align="right">53</td>
 <td><img src="https://github.com/ionelmc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ionelmc/pytest-benchmark"><b>ionelmc/pytest-benchmark</b></a><br><sub>pytest fixture for benchmarking code</sub></td>
-<td align="right"><b>1,460</b></td>
+<td align="right"><b>1,461</b></td>
 <td align="right">141</td>
 <td>Python</td>
 </tr>
@@ -437,22 +437,22 @@
 <tr>
 <td align="right">60</td>
 <td><img src="https://github.com/icflorescu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/icflorescu/mantine-datatable"><b>icflorescu/mantine-datatable</b></a><br><sub>The table component for your Mantine data-rich applications, supporting asynchronous data loading, column sorting, cust…</sub></td>
-<td align="right"><b>1,261</b></td>
+<td align="right"><b>1,262</b></td>
 <td align="right">106</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">61</td>
 <td><img src="https://github.com/danburzo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/danburzo/culori"><b>danburzo/culori</b></a><br><sub>A comprehensive color library for JavaScript.</sub></td>
-<td align="right"><b>1,258</b></td>
+<td align="right"><b>1,259</b></td>
 <td align="right">44</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">62</td>
 <td><img src="https://github.com/mustvlad.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mustvlad/ChatGPT-System-Prompts"><b>mustvlad/ChatGPT-System-Prompts</b></a><br><sub>This repository contains a collection of the best system prompts for ChatGPT, a conversational AI model developed by Op…</sub></td>
-<td align="right"><b>1,237</b></td>
-<td align="right">143</td>
+<td align="right"><b>1,239</b></td>
+<td align="right">144</td>
 <td>—</td>
 </tr>
 <tr>
@@ -472,14 +472,14 @@
 <tr>
 <td align="right">65</td>
 <td><img src="https://github.com/AndyTheFactory.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AndyTheFactory/newspaper4k"><b>AndyTheFactory/newspaper4k</b></a><br><sub>📰 Newspaper4k a fork of the beloved Newspaper3k. Extraction of articles, titles, and metadata from news websites.</sub></td>
-<td align="right"><b>1,170</b></td>
-<td align="right">121</td>
+<td align="right"><b>1,171</b></td>
+<td align="right">123</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">66</td>
 <td><img src="https://github.com/NytroRST.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NytroRST/ShellcodeCompiler"><b>NytroRST/ShellcodeCompiler</b></a><br><sub>Shellcode Compiler</sub></td>
-<td align="right"><b>1,159</b></td>
+<td align="right"><b>1,161</b></td>
 <td align="right">279</td>
 <td>C++</td>
 </tr>

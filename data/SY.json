@@ -5,7 +5,7 @@
 "country": {"code":"SY","name":"Syria","slug":"syria"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":74,"ownerExpansionBacklog":125,"candidates":76,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":136,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":74,"ownerExpansionBacklog":123,"candidates":76,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":136,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOPz62BQ","name":"Agentic-Design-Patterns","nameWithOwner":"evoiz/Agentic-Design-Patterns","url":"https://github.com/evoiz/Agentic-Design-Patterns","description":null,"stars":4188,"forks":642,"primaryLanguage":"Jupyter Notebook","license":null,"createdAt":"2025-09-21T07:22:50Z","pushedAt":"2026-07-24T14:23:04Z","archived":false,"owner":{"login":"evoiz","name":"Elias Al-bittar","type":"User","url":"https://github.com/evoiz","location":"Homs, Syria","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkzNjE3NTA1MDg=","name":"mkv-muxing-batch-gui","nameWithOwner":"yaser01/mkv-muxing-batch-gui","url":"https://github.com/yaser01/mkv-muxing-batch-gui","description":"App to muxing videos with audios/subtitles with so many options!","stars":663,"forks":46,"primaryLanguage":"Python","license":{"spdxId":"GPL-2.0"},"createdAt":"2021-04-26T12:57:26Z","pushedAt":"2024-01-17T09:20:10Z","archived":false,"owner":{"login":"yaser01","name":"Yasser Milato","type":"User","url":"https://github.com/yaser01","location":"Syria","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-24"},
@@ -84,8 +84,8 @@
   {"rank":75,"id":null,"name":"ah","nameWithOwner":"GHOST25811/ah","url":"https://github.com/GHOST25811/ah","description":null,"stars":1,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2019-07-15T20:08:19Z","pushedAt":"2023-01-05T20:54:38Z","archived":false,"owner":{"login":"GHOST25811","name":null,"type":"User","url":"https://github.com/GHOST25811","location":"Damascues,syria","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":76,"id":null,"name":"Begin-Exchange-Website","nameWithOwner":"Hadezedan34/Begin-Exchange-Website","url":"https://github.com/Hadezedan34/Begin-Exchange-Website","description":null,"stars":1,"forks":0,"primaryLanguage":"CSS","license":null,"createdAt":"2026-02-20T13:57:18Z","pushedAt":"2026-02-20T15:18:37Z","archived":false,"owner":{"login":"Hadezedan34","name":"hade zedan","type":"User","url":"https://github.com/Hadezedan34","location":"Damascus/Syria","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "1da7f00e4cde1fb2",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "f9fb57d063de8dd5",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

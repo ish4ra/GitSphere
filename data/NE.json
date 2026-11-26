@@ -5,7 +5,7 @@
 "country": {"code":"NE","name":"Niger","slug":"niger"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":99,"ownerExpansionBacklog":145,"candidates":109,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":65,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":99,"ownerExpansionBacklog":143,"candidates":109,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":65,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOJSDBLw","name":"mangayomi","nameWithOwner":"kodjodevf/mangayomi","url":"https://github.com/kodjodevf/mangayomi","description":"Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows","stars":4562,"forks":217,"primaryLanguage":"Dart","license":{"spdxId":"Apache-2.0"},"createdAt":"2023-04-03T09:49:56Z","pushedAt":"2026-11-20T17:23:38Z","archived":false,"owner":{"login":"kodjodevf","name":"Moustapha Kodjo Amadou","type":"User","url":"https://github.com/kodjodevf","location":"Niamey,Niger","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":null,"name":"Piscine-de-CodeLoccol","nameWithOwner":"bkina1/Piscine-de-CodeLoccol","url":"https://github.com/bkina1/Piscine-de-CodeLoccol","description":null,"stars":1,"forks":2,"primaryLanguage":"JavaScript","license":null,"createdAt":"2023-02-08T13:28:10Z","pushedAt":"2023-02-19T21:30:50Z","archived":false,"owner":{"login":"bkina1","name":"Boubacar Kina","type":"User","url":"https://github.com/bkina1","location":"Niger","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"my_quran","nameWithOwner":"bachcool/my_quran","url":"https://github.com/bachcool/my_quran","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-10-07T15:39:03Z","pushedAt":"2026-10-07T16:43:42Z","archived":false,"owner":{"login":"bachcool","name":"Bachir","type":"User","url":"https://github.com/bachcool","location":"Zinder /Niger","attribution":{"confidence":"medium","evidence":"consistent-places"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Lien","nameWithOwner":"Bachirou06/Lien","url":"https://github.com/Bachirou06/Lien","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2026-09-30T17:01:52Z","pushedAt":"2026-09-30T17:05:16Z","archived":false,"owner":{"login":"Bachirou06","name":"DJIBO BOUBE Bachirou","type":"User","url":"https://github.com/Bachirou06","location":"Niger","attribution":{"confidence":"medium","evidence":"dominant-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "2f33c1ca3a77fc7f",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "19b3093dec4027a4",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

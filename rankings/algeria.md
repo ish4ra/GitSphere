@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **28** | 23 Nov 2026 | <a href="../data/DZ.json">JSON</a> |
+| 🟡 Provisional | **31** | 24 Nov 2026 | <a href="../data/DZ.json">JSON</a> |
 
 </div>
 
@@ -59,14 +59,14 @@
 <tr>
 <td align="right">6</td>
 <td><img src="https://github.com/BelkacemYerfa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/BelkacemYerfa/shadcn-extension"><b>BelkacemYerfa/shadcn-extension</b></a><br><sub>An open source component collection , that extends your ui library , built using shadcn component</sub></td>
-<td align="right"><b>1,329</b></td>
+<td align="right"><b>1,330</b></td>
 <td align="right">59</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">7</td>
 <td><img src="https://github.com/abdallahmehiz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/abdallahmehiz/mpvKt"><b>abdallahmehiz/mpvKt</b></a><br><sub>A media player for android, based on mpv-android and built with Jetpack Compose.</sub></td>
-<td align="right"><b>1,326</b></td>
+<td align="right"><b>1,325</b></td>
 <td align="right">92</td>
 <td>Kotlin</td>
 </tr>
@@ -212,10 +212,31 @@
 </tr>
 <tr>
 <td align="right">28</td>
+<td><img src="https://github.com/bing0o.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bing0o/SubEnum"><b>bing0o/SubEnum</b></a><br><sub>bash script for Subdomain Enumeration</sub></td>
+<td align="right"><b>408</b></td>
+<td align="right">75</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">29</td>
 <td><img src="https://github.com/yuroyami.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yuroyami/syncplay-mobile"><b>yuroyami/syncplay-mobile</b></a><br><sub>📱 Syncplay Mobile (now Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends.…</sub></td>
 <td align="right"><b>408</b></td>
 <td align="right">20</td>
 <td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">30</td>
+<td><img src="https://github.com/edaywalid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/edaywalid/undo"><b>edaywalid/undo</b></a><br><sub>Undo what the last shell command did to the filesystem</sub></td>
+<td align="right"><b>404</b></td>
+<td align="right">14</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">31</td>
+<td><img src="https://github.com/strlrd-29.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/strlrd-29/hookcn"><b>strlrd-29/hookcn</b></a><br><sub>Copy paste react hooks inspired by shadcn/ui</sub></td>
+<td align="right"><b>380</b></td>
+<td align="right">16</td>
+<td>TypeScript</td>
 </tr>
 </tbody>
 </table>
@@ -225,8 +246,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 408 stars; 28 attributed candidates are tracked.
-- 116 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 380 stars; 31 attributed candidates are tracked.
+- 114 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 154 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

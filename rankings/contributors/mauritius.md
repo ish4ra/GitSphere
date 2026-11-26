@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/contributors/MU.json">JSON</a> |
+| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/MU.json">JSON</a> |
 
 </div>
 
@@ -52,6 +52,15 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/jochenkirstaetter"><img src="https://avatars.githubusercontent.com/u/7329802?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jochenkirstaetter"><b>Jochen Kirstätter</b></a><br><sub>&#64;jochenkirstaetter · 134 followers</sub></td>
+<td align="right"><b>963</b></td>
+<td align="right">875</td>
+<td align="right">53</td>
+<td align="right">2</td>
+<td align="right">23</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/alcaeus"><img src="https://avatars.githubusercontent.com/u/383198?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alcaeus"><b>Andreas Braun</b></a><br><sub>&#64;alcaeus · 314 followers</sub></td>
 <td align="right"><b>455</b></td>
 <td align="right">106</td>
@@ -60,7 +69,7 @@
 <td align="right">17</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/duksh"><img src="https://avatars.githubusercontent.com/u/586947?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/duksh"><b>Duksh Koonjoobeeharry</b></a><br><sub>&#64;duksh · 16 followers</sub></td>
 <td align="right"><b>345</b></td>
 <td align="right">70</td>
@@ -69,7 +78,7 @@
 <td align="right">145</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/Nayar"><img src="https://avatars.githubusercontent.com/u/454815?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nayar"><b>Nayar Joolfoo</b></a><br><sub>&#64;Nayar · 28 followers</sub></td>
 <td align="right"><b>135</b></td>
 <td align="right">135</td>
@@ -78,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/rahul-thakoor"><img src="https://avatars.githubusercontent.com/u/13220877?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rahul-thakoor"><b>Rahul Thakoor</b></a><br><sub>&#64;rahul-thakoor · 86 followers</sub></td>
 <td align="right"><b>94</b></td>
 <td align="right">58</td>
@@ -87,7 +96,7 @@
 <td align="right">4</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/thatstraw"><img src="https://avatars.githubusercontent.com/u/61482810?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thatstraw"><b>Traw</b></a><br><sub>&#64;thatstraw · 587 followers</sub></td>
 <td align="right"><b>81</b></td>
 <td align="right">58</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/marclamberti"><img src="https://avatars.githubusercontent.com/u/6460539?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marclamberti"><b>Marc Lamberti</b></a><br><sub>&#64;marclamberti · 631 followers</sub></td>
 <td align="right"><b>72</b></td>
 <td align="right">68</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/0x15F9"><img src="https://avatars.githubusercontent.com/u/17203172?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0x15F9"><b>Goomany M. Isfaaq</b></a><br><sub>&#64;0x15F9 · 55 followers</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">2</td>
@@ -114,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/Chromico"><img src="https://avatars.githubusercontent.com/u/32539454?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Chromico"><b>Chromico Rek</b></a><br><sub>&#64;Chromico · 23 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
@@ -123,7 +132,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/feik"><img src="https://avatars.githubusercontent.com/u/244789?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/feik"><b>hongfei</b></a><br><sub>&#64;feik · 16 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/puchka"><img src="https://avatars.githubusercontent.com/u/3199027?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/puchka"><b>A. Marius Rabenarivo</b></a><br><sub>&#64;puchka · 82 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -147,7 +156,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 16 of 401 discovered developers (385 awaiting measurement).
+- **Measured:** 17 of 401 discovered developers (384 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 94 in round 1.

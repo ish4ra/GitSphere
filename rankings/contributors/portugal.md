@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/PT.json">JSON</a> |
+| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/contributors/PT.json">JSON</a> |
 
 </div>
 
@@ -97,7 +97,7 @@
 </tr>
 <tr>
 <td align="right">9</td>
-<td><a href="https://github.com/m1guelpf"><img src="https://avatars.githubusercontent.com/u/23558090?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/m1guelpf"><b>Miguel Piedrafita</b></a><br><sub>&#64;m1guelpf · 3,516 followers</sub></td>
+<td><a href="https://github.com/m1guelpf"><img src="https://avatars.githubusercontent.com/u/23558090?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/m1guelpf"><b>Miguel Piedrafita</b></a><br><sub>&#64;m1guelpf · 3,515 followers</sub></td>
 <td align="right"><b>565</b></td>
 <td align="right">479</td>
 <td align="right">34</td>
@@ -142,6 +142,15 @@
 </tr>
 <tr>
 <td align="right">14</td>
+<td><a href="https://github.com/marado"><img src="https://avatars.githubusercontent.com/u/33163?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marado"><b>Marcos Marado</b></a><br><sub>&#64;marado · 144 followers</sub></td>
+<td align="right"><b>176</b></td>
+<td align="right">122</td>
+<td align="right">16</td>
+<td align="right">6</td>
+<td align="right">26</td>
+</tr>
+<tr>
+<td align="right">15</td>
 <td><a href="https://github.com/malerey"><img src="https://avatars.githubusercontent.com/u/36973939?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/malerey"><b>Maria Rey</b></a><br><sub>&#64;malerey · 343 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
@@ -156,7 +165,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 15 of 742 discovered developers (727 awaiting measurement).
+- **Measured:** 16 of 777 discovered developers (761 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 108 in round 1.

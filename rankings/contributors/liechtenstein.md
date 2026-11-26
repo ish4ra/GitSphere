@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **13** | 22 Nov 2026 | <a href="../../data/contributors/LI.json">JSON</a> |
+| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/LI.json">JSON</a> |
 
 </div>
 
@@ -25,7 +25,7 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><a href="https://github.com/msanft"><img src="https://avatars.githubusercontent.com/u/58110325?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/msanft"><b>Moritz Sanft</b></a><br><sub>&#64;msanft · 286 followers</sub></td>
+<td><a href="https://github.com/msanft"><img src="https://avatars.githubusercontent.com/u/58110325?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/msanft"><b>Moritz Sanft</b></a><br><sub>&#64;msanft · 287 followers</sub></td>
 <td align="right"><b>492</b></td>
 <td align="right">302</td>
 <td align="right">61</td>
@@ -79,6 +79,15 @@
 </tr>
 <tr>
 <td align="right">7</td>
+<td><a href="https://github.com/IncredibleAaron"><img src="https://avatars.githubusercontent.com/u/13446113?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IncredibleAaron"><b>Aaron</b></a><br><sub>&#64;IncredibleAaron · 11 followers</sub></td>
+<td align="right"><b>32</b></td>
+<td align="right">5</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">8</td>
 <td><a href="https://github.com/FeeJai"><img src="https://avatars.githubusercontent.com/u/520214?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FeeJai"><b>Felix Jankowski</b></a><br><sub>&#64;FeeJai · 32 followers</sub></td>
 <td align="right"><b>30</b></td>
 <td align="right">17</td>
@@ -87,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/SubmitCode"><img src="https://avatars.githubusercontent.com/u/1572916?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SubmitCode"><b>Wilhelm Fritsche</b></a><br><sub>&#64;SubmitCode · 4 followers</sub></td>
 <td align="right"><b>25</b></td>
 <td align="right">13</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/Unflexibel"><img src="https://avatars.githubusercontent.com/u/135437116?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Unflexibel"><b>Unflexibel</b></a><br><sub>&#64;Unflexibel · 1 followers</sub></td>
 <td align="right"><b>13</b></td>
 <td align="right">0</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/vad-babushkin"><img src="https://avatars.githubusercontent.com/u/9576572?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vad-babushkin"><b>vad babushkin</b></a><br><sub>&#64;vad-babushkin · 54 followers</sub></td>
 <td align="right"><b>12</b></td>
 <td align="right">7</td>
@@ -114,7 +123,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/mrmotchy"><img src="https://avatars.githubusercontent.com/u/72343164?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrmotchy"><b>mr.motchy</b></a><br><sub>&#64;mrmotchy · 337 followers</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">2</td>
@@ -123,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/502BadGatewayFL"><img src="https://avatars.githubusercontent.com/u/195455464?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/502BadGatewayFL"><b>502 Bad Gateway</b></a><br><sub>&#64;502BadGatewayFL · 3 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">5</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/peterbeck"><img src="https://avatars.githubusercontent.com/u/561186?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/peterbeck"><b>Peter Beck</b></a><br><sub>&#64;peterbeck · 13 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
@@ -147,7 +156,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 16 of 254 discovered developers (238 awaiting measurement).
+- **Measured:** 17 of 254 discovered developers (237 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 2 of 24 in round 1.

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/RS.json">JSON</a> |
+| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/RS.json">JSON</a> |
 
 </div>
 
@@ -220,7 +220,7 @@
 <tr>
 <td align="right">29</td>
 <td><img src="https://github.com/volotat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/volotat/mini-AGI"><b>volotat/mini-AGI</b></a><br><sub>Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data.</sub></td>
-<td align="right"><b>1,321</b></td>
+<td align="right"><b>1,324</b></td>
 <td align="right">205</td>
 <td>Python</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 464 stars; 117 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 464 stars; 133 attributed candidates are tracked.
 - 1 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 148 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

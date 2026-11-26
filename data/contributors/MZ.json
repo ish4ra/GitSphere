@@ -5,7 +5,7 @@
 "country": {"code":"MZ","name":"Mozambique","slug":"mozambique"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":401,"measuredAccounts":16,"measurementBacklog":385,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":92,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":401,"measuredAccounts":17,"measurementBacklog":384,"window":{"from":"2025-11-22T22:00:00Z","to":"2026-11-22T22:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":92,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjIyNzgwNjgz","login":"DandelionSprout","name":"Imre Eilertsen","url":"https://github.com/DandelionSprout","avatarUrl":"https://avatars.githubusercontent.com/u/22780683?s=80&v=4","followers":450,"publicRepos":224,"location":"A chair.","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-26","contributions":{"public":6436,"commits":3603,"pullRequests":2278,"reviews":60,"issues":442,"repositories":49,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":2,"id":"MDQ6VXNlcjEwODg4MDIz","login":"irzelindo","name":"Irzelindo Salvador","url":"https://github.com/irzelindo","avatarUrl":"https://avatars.githubusercontent.com/u/10888023?s=80&v=4","followers":5,"publicRepos":112,"location":"Maputo, Mozambique","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-26","contributions":{"public":297,"commits":285,"pullRequests":3,"reviews":0,"issues":0,"repositories":9,"windowFrom":"2025-11-26T08:00:00Z","windowTo":"2026-11-26T08:00:00Z","measuredOn":"2026-11-26"}},
@@ -21,8 +21,8 @@
   {"rank":12,"id":"U_kgDOCKY4vg","login":"34sea","name":"Martinho Macovere Domingos","url":"https://github.com/34sea","avatarUrl":"https://avatars.githubusercontent.com/u/145111230?s=80&v=4","followers":3,"publicRepos":52,"location":"Mozambique","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22","contributions":{"public":18,"commits":11,"pullRequests":0,"reviews":0,"issues":0,"repositories":7,"windowFrom":"2025-11-22T11:00:00Z","windowTo":"2026-11-22T11:00:00Z","measuredOn":"2026-11-22"}},
   {"rank":13,"id":"MDQ6VXNlcjQ0NzUxNDI=","login":"larslemos","name":"Lars Albino Lemos","url":"https://github.com/larslemos","avatarUrl":"https://avatars.githubusercontent.com/u/4475142?s=80&v=4","followers":54,"publicRepos":103,"location":"Maputo, Mozambique","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-26","contributions":{"public":13,"commits":1,"pullRequests":7,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-26T08:00:00Z","windowTo":"2026-11-26T08:00:00Z","measuredOn":"2026-11-26"}}
 ],
-"contentHash": "f3d443043a8daf27",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "36c4352fa3a63f46",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

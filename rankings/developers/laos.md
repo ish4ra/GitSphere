@@ -464,136 +464,136 @@
 </tr>
 <tr>
 <td align="right">64</td>
-<td><a href="https://github.com/lanuxos"><img src="https://avatars.githubusercontent.com/u/32545740?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lanuxos"><b>La</b></a><br><sub>&#64;lanuxos</sub></td>
-<td align="right"><b>6</b></td>
-<td align="right">75</td>
-<td><sub>Vientiane, Laos</sub></td>
-</tr>
-<tr>
-<td align="right">65</td>
 <td><a href="https://github.com/singha55162326"><img src="https://avatars.githubusercontent.com/u/63039299?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/singha55162326"><b>singha55162326</b></a><br><sub>&#64;singha55162326</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">62</td>
 <td><sub>vientiane, Laos</sub></td>
 </tr>
 <tr>
-<td align="right">66</td>
+<td align="right">65</td>
 <td><a href="https://github.com/MagicSoftDev0717"><img src="https://avatars.githubusercontent.com/u/184739323?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MagicSoftDev0717"><b>oxp&#95;tr125</b></a><br><sub>&#64;MagicSoftDev0717</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">41</td>
 <td><sub>Vientiane, Laos</sub></td>
 </tr>
 <tr>
-<td align="right">67</td>
+<td align="right">66</td>
 <td><a href="https://github.com/Khamfai"><img src="https://avatars.githubusercontent.com/u/61783889?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Khamfai"><b>Txam (Mini Bug)</b></a><br><sub>&#64;Khamfai</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">35</td>
 <td><sub>Laos</sub></td>
 </tr>
 <tr>
-<td align="right">68</td>
+<td align="right">67</td>
 <td><a href="https://github.com/kidtikone"><img src="https://avatars.githubusercontent.com/u/45306830?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kidtikone"><b>UnproductiveKid</b></a><br><sub>&#64;kidtikone</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">32</td>
 <td><sub>Laos</sub></td>
 </tr>
 <tr>
-<td align="right">69</td>
+<td align="right">68</td>
 <td><a href="https://github.com/FlagNguyen"><img src="https://avatars.githubusercontent.com/u/73680940?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FlagNguyen"><b>Nguyễn Quốc Kỳ</b></a><br><sub>&#64;FlagNguyen</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">29</td>
 <td><sub>Eastern Laos</sub></td>
 </tr>
 <tr>
-<td align="right">70</td>
+<td align="right">69</td>
 <td><a href="https://github.com/Pitpy"><img src="https://avatars.githubusercontent.com/u/20512489?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Pitpy"><b>Pitpy BPSS</b></a><br><sub>&#64;Pitpy</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">27</td>
 <td><sub>Vientiane, Laos</sub></td>
 </tr>
 <tr>
-<td align="right">71</td>
+<td align="right">70</td>
 <td><a href="https://github.com/silivanxay"><img src="https://avatars.githubusercontent.com/u/48118198?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/silivanxay"><b>Silivanxay.psv</b></a><br><sub>&#64;silivanxay</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">23</td>
 <td><sub>Vientiane, Laos</sub></td>
 </tr>
 <tr>
-<td align="right">72</td>
+<td align="right">71</td>
 <td><a href="https://github.com/p40pmn"><img src="https://avatars.githubusercontent.com/u/50688465?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/p40pmn"><b>h410kitT7</b></a><br><sub>&#64;p40pmn</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">20</td>
 <td><sub>Laos</sub></td>
 </tr>
 <tr>
-<td align="right">73</td>
+<td align="right">72</td>
 <td><a href="https://github.com/VickyYang22"><img src="https://avatars.githubusercontent.com/u/128838281?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VickyYang22"><b>VickyYang22</b></a><br><sub>&#64;VickyYang22</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">18</td>
 <td><sub>laos</sub></td>
 </tr>
 <tr>
-<td align="right">74</td>
+<td align="right">73</td>
 <td><a href="https://github.com/jacklarmany"><img src="https://avatars.githubusercontent.com/u/68540185?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jacklarmany"><b>JACK LARMANY</b></a><br><sub>&#64;jacklarmany</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">11</td>
 <td><sub>Laos</sub></td>
 </tr>
 <tr>
-<td align="right">75</td>
+<td align="right">74</td>
 <td><a href="https://github.com/k4izokage"><img src="https://avatars.githubusercontent.com/u/176498728?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/k4izokage"><b>Kaizokage</b></a><br><sub>&#64;k4izokage</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">8</td>
 <td><sub>Eastern Laos</sub></td>
 </tr>
 <tr>
-<td align="right">76</td>
+<td align="right">75</td>
 <td><a href="https://github.com/ctechitdev"><img src="https://avatars.githubusercontent.com/u/100678557?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ctechitdev"><b>CTech</b></a><br><sub>&#64;ctechitdev</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">6</td>
 <td><sub>laos</sub></td>
 </tr>
 <tr>
-<td align="right">77</td>
+<td align="right">76</td>
 <td><a href="https://github.com/drquackky"><img src="https://avatars.githubusercontent.com/u/131886118?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/drquackky"><b>Anawin Symoukda</b></a><br><sub>&#64;drquackky</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">6</td>
 <td><sub>Laos</sub></td>
 </tr>
 <tr>
-<td align="right">78</td>
+<td align="right">77</td>
 <td><a href="https://github.com/oudomou4-collab"><img src="https://avatars.githubusercontent.com/u/252410065?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/oudomou4-collab"><b>Chang oudomsing</b></a><br><sub>&#64;oudomou4-collab</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">5</td>
 <td><sub>Laos</sub></td>
 </tr>
 <tr>
-<td align="right">79</td>
+<td align="right">78</td>
 <td><a href="https://github.com/tanveertnk11"><img src="https://avatars.githubusercontent.com/u/57829318?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tanveertnk11"><b>Tanveer Singh Dhawan</b></a><br><sub>&#64;tanveertnk11</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">4</td>
 <td><sub>Vientiane, Laos</sub></td>
 </tr>
 <tr>
-<td align="right">80</td>
+<td align="right">79</td>
 <td><a href="https://github.com/Z0NEN"><img src="https://avatars.githubusercontent.com/u/6078062?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Z0NEN"><b>Z&#91;0&#93;NEN</b></a><br><sub>&#64;Z0NEN</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">4</td>
 <td><sub>Laos</sub></td>
 </tr>
 <tr>
-<td align="right">81</td>
+<td align="right">80</td>
 <td><a href="https://github.com/dsouksavatd"><img src="https://avatars.githubusercontent.com/u/2195503?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dsouksavatd"><b>Somwang Souksavatd</b></a><br><sub>&#64;dsouksavatd</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">1</td>
 <td><sub>Vientiane,Laos</sub></td>
 </tr>
 <tr>
-<td align="right">82</td>
+<td align="right">81</td>
 <td><a href="https://github.com/samuel173824"><img src="https://avatars.githubusercontent.com/u/193555014?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/samuel173824"><b>Samuel</b></a><br><sub>&#64;samuel173824</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">0</td>
 <td><sub>I live in Laos</sub></td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><a href="https://github.com/lanuxos"><img src="https://avatars.githubusercontent.com/u/32545740?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lanuxos"><b>La</b></a><br><sub>&#64;lanuxos</sub></td>
+<td align="right"><b>5</b></td>
+<td align="right">75</td>
+<td><sub>Vientiane, Laos</sub></td>
 </tr>
 <tr>
 <td align="right">83</td>

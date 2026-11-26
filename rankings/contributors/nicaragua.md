@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/NI.json">JSON</a> |
+| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/contributors/NI.json">JSON</a> |
 
 </div>
 
@@ -79,6 +79,15 @@
 </tr>
 <tr>
 <td align="right">7</td>
+<td><a href="https://github.com/GUMADESARROLLO"><img src="https://avatars.githubusercontent.com/u/16418704?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GUMADESARROLLO"><b>Guma Desarrollo</b></a><br><sub>&#64;GUMADESARROLLO · 4 followers</sub></td>
+<td align="right"><b>454</b></td>
+<td align="right">441</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">8</td>
 <td><a href="https://github.com/Wendell-Jarquin"><img src="https://avatars.githubusercontent.com/u/142639861?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Wendell-Jarquin"><b>TECNOJAR</b></a><br><sub>&#64;Wendell-Jarquin · 1 followers</sub></td>
 <td align="right"><b>197</b></td>
 <td align="right">142</td>
@@ -87,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/Requenez-Diaz"><img src="https://avatars.githubusercontent.com/u/95236561?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Requenez-Diaz"><b>Requenez</b></a><br><sub>&#64;Requenez-Diaz · 6 followers</sub></td>
 <td align="right"><b>183</b></td>
 <td align="right">150</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/Elliam-Sanchez510"><img src="https://avatars.githubusercontent.com/u/88247130?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Elliam-Sanchez510"><b>Elliam Sánchez</b></a><br><sub>&#64;Elliam-Sanchez510 · 12 followers</sub></td>
 <td align="right"><b>102</b></td>
 <td align="right">94</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/hespinoza01"><img src="https://avatars.githubusercontent.com/u/24770635?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hespinoza01"><b>Harold Espinoza</b></a><br><sub>&#64;hespinoza01 · 4 followers</sub></td>
 <td align="right"><b>101</b></td>
 <td align="right">91</td>
@@ -114,7 +123,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/CosmicTiger"><img src="https://avatars.githubusercontent.com/u/30613501?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CosmicTiger"><b>Byakko</b></a><br><sub>&#64;CosmicTiger · 37 followers</sub></td>
 <td align="right"><b>38</b></td>
 <td align="right">26</td>
@@ -123,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/olonyl"><img src="https://avatars.githubusercontent.com/u/7118484?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/olonyl"><b>Olonyl Landeros</b></a><br><sub>&#64;olonyl · 4 followers</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">7</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/gabriel14silva"><img src="https://avatars.githubusercontent.com/u/32249455?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gabriel14silva"><b>José Gabriel Griffin Silva</b></a><br><sub>&#64;gabriel14silva · 14 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">5</td>
@@ -141,7 +150,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/darwinsalinas"><img src="https://avatars.githubusercontent.com/u/1806232?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/darwinsalinas"><b>Darwin Salinas</b></a><br><sub>&#64;darwinsalinas · 41 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">3</td>
@@ -156,7 +165,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 15 of 406 discovered developers (391 awaiting measurement).
+- **Measured:** 16 of 407 discovered developers (391 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 112 in round 1.

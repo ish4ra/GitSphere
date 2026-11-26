@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/PT.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/PT.json">JSON</a> |
 
 </div>
 
@@ -618,71 +618,71 @@
 </tr>
 <tr>
 <td align="right">86</td>
+<td><img src="https://github.com/marmottajr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/marmottajr/habblaud"><b>marmottajr/habblaud</b></a></td>
+<td align="right"><b>1,535</b></td>
+<td align="right">384</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">87</td>
 <td><img src="https://github.com/marmelo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/marmelo/tech-companies-in-portugal"><b>marmelo/tech-companies-in-portugal</b></a><br><sub>:portugal: List of technology companies in Portugal.</sub></td>
 <td align="right"><b>1,531</b></td>
 <td align="right">218</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">87</td>
+<td align="right">88</td>
 <td><img src="https://github.com/sandroasp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio"><b>sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio</b></a><br><sub>Microsoft Integration, Azure, Power Platform, Office 365 and much more Stencils Pack it’s a Visio package that contains…</sub></td>
 <td align="right"><b>1,530</b></td>
 <td align="right">440</td>
 <td>PowerShell</td>
 </tr>
 <tr>
-<td align="right">88</td>
+<td align="right">89</td>
 <td><img src="https://github.com/brocaar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/brocaar/chirpstack-network-server"><b>brocaar/chirpstack-network-server</b></a> <sub>archived</sub><br><sub>ChirpStack Network Server is an open-source LoRaWAN network-server.</sub></td>
 <td align="right"><b>1,512</b></td>
 <td align="right">543</td>
 <td>Go</td>
 </tr>
 <tr>
-<td align="right">89</td>
+<td align="right">90</td>
 <td><img src="https://github.com/pires.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/pires/kubernetes-elasticsearch-cluster"><b>pires/kubernetes-elasticsearch-cluster</b></a> <sub>archived</sub><br><sub>Elasticsearch cluster on top of Kubernetes made easy.</sub></td>
 <td align="right"><b>1,504</b></td>
 <td align="right">662</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">90</td>
+<td align="right">91</td>
 <td><img src="https://github.com/dvgodoy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dvgodoy/PyTorchStepByStep"><b>dvgodoy/PyTorchStepByStep</b></a><br><sub>Official repository of my book: &quot;Deep Learning with PyTorch Step-by-Step: A Beginner&#39;s Guide&quot;</sub></td>
 <td align="right"><b>1,504</b></td>
 <td align="right">521</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
-<td align="right">91</td>
+<td align="right">92</td>
 <td><img src="https://github.com/ruimarinho.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ruimarinho/google-libphonenumber"><b>ruimarinho/google-libphonenumber</b></a><br><sub>The up-to-date and reliable Google&#39;s libphonenumber package for node.js.</sub></td>
-<td align="right"><b>1,490</b></td>
+<td align="right"><b>1,489</b></td>
 <td align="right">153</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">92</td>
+<td align="right">93</td>
 <td><img src="https://github.com/0x00-0x00.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/0x00-0x00/ShellPop"><b>0x00-0x00/ShellPop</b></a><br><sub>Pop shells like a master.</sub></td>
 <td align="right"><b>1,486</b></td>
 <td align="right">231</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">93</td>
+<td align="right">94</td>
 <td><img src="https://github.com/vasturiano.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vasturiano/react-globe.gl"><b>vasturiano/react-globe.gl</b></a><br><sub>React component for Globe Data Visualization using ThreeJS/WebGL</sub></td>
-<td align="right"><b>1,468</b></td>
+<td align="right"><b>1,467</b></td>
 <td align="right">194</td>
 <td>HTML</td>
 </tr>
 <tr>
-<td align="right">94</td>
-<td><img src="https://github.com/marmottajr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/marmottajr/habblaud"><b>marmottajr/habblaud</b></a></td>
-<td align="right"><b>1,461</b></td>
-<td align="right">356</td>
-<td>TypeScript</td>
-</tr>
-<tr>
 <td align="right">95</td>
 <td><img src="https://github.com/joaotavora.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/joaotavora/sly"><b>joaotavora/sly</b></a><br><sub>Sylvester the Cat&#39;s Common Lisp IDE</sub></td>
-<td align="right"><b>1,447</b></td>
+<td align="right"><b>1,450</b></td>
 <td align="right">159</td>
 <td>Common Lisp</td>
 </tr>
@@ -690,14 +690,14 @@
 <td align="right">96</td>
 <td><img src="https://github.com/m1guelpf.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/m1guelpf/yt-whisper"><b>m1guelpf/yt-whisper</b></a><br><sub>Using OpenAI&#39;s Whisper to automatically generate YouTube subtitles</sub></td>
 <td align="right"><b>1,441</b></td>
-<td align="right">144</td>
+<td align="right">143</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">97</td>
 <td><img src="https://github.com/voxivoid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/voxivoid/recipe-lab-sony-pmca"><b>voxivoid/recipe-lab-sony-pmca</b></a></td>
-<td align="right"><b>1,421</b></td>
-<td align="right">82</td>
+<td align="right"><b>1,428</b></td>
+<td align="right">83</td>
 <td>Java</td>
 </tr>
 <tr>

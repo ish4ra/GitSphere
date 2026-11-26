@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **74** | 23 Nov 2026 | <a href="../data/CY.json">JSON</a> |
+| 🟡 Provisional | **85** | 24 Nov 2026 | <a href="../data/CY.json">JSON</a> |
 
 </div>
 
@@ -157,14 +157,14 @@
 <tr>
 <td align="right">20</td>
 <td><img src="https://github.com/AdguardTeam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AdguardTeam/AdGuardSDNSFilter"><b>AdguardTeam/AdGuardSDNSFilter</b></a><br><sub>AdGuard DNS filter</sub></td>
-<td align="right"><b>1,440</b></td>
+<td align="right"><b>1,441</b></td>
 <td align="right">196</td>
 <td>Adblock Filter List</td>
 </tr>
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/AdguardTeam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AdguardTeam/AdGuardExtra"><b>AdguardTeam/AdGuardExtra</b></a><br><sub>AdGuard Extra is designed to solve complicated cases when regular ad blocking rules aren&#39;t enough.</sub></td>
-<td align="right"><b>1,396</b></td>
+<td align="right"><b>1,400</b></td>
 <td align="right">35</td>
 <td>—</td>
 </tr>
@@ -539,6 +539,83 @@
 <td align="right">42</td>
 <td>C++</td>
 </tr>
+<tr>
+<td align="right">75</td>
+<td><img src="https://github.com/sergejey.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sergejey/majordomo"><b>sergejey/majordomo</b></a><br><sub>Home automation platform</sub></td>
+<td align="right"><b>407</b></td>
+<td align="right">155</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">76</td>
+<td><img src="https://github.com/merikbest.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/merikbest/twitter-spring-reactjs"><b>merikbest/twitter-spring-reactjs</b></a><br><sub>:bird: Twitter Clone with Microservice Architecture using Java 17, Spring Boot, Spring Cloud, PostgreSQL, S3 bucket, JW…</sub></td>
+<td align="right"><b>404</b></td>
+<td align="right">131</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">77</td>
+<td><img src="https://github.com/kyvg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kyvg/vue3-notification"><b>kyvg/vue3-notification</b></a><br><sub>Vue 3 notification library 💬</sub></td>
+<td align="right"><b>402</b></td>
+<td align="right">74</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/merikbest.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/merikbest/ecommerce-spring-reactjs"><b>merikbest/ecommerce-spring-reactjs</b></a><br><sub>🌺 eCommerce online shop. Using Java, Spring Boot, JWT, OAuth2.0, React.js, Redux Toolkit, Ant Design, REST API, GraphQL</sub></td>
+<td align="right"><b>397</b></td>
+<td align="right">211</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/tainicom.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tainicom/Aether.Physics2D"><b>tainicom/Aether.Physics2D</b></a> <sub>archived</sub><br><sub>2D collision detection system.</sub></td>
+<td align="right"><b>389</b></td>
+<td align="right">72</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/osai-ai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/osai-ai/tensor-stream"><b>osai-ai/tensor-stream</b></a><br><sub>A library for real-time video stream decoding to CUDA memory</sub></td>
+<td align="right"><b>387</b></td>
+<td align="right">44</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/jk1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jk1/Gradle-License-Report"><b>jk1/Gradle-License-Report</b></a><br><sub>A plugin for generating reports about the licenses of third party software using Gradle</sub></td>
+<td align="right"><b>383</b></td>
+<td align="right">109</td>
+<td>Groovy</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/Johnsheng1.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Johnsheng1/cf-ai-TGbot"><b>Johnsheng1/cf-ai-TGbot</b></a><br><sub>CF-ai-TGbot is a customizable Telegram bot powered by Node.js, integrating Cloudflare AI Gateway for smart, context-awa…</sub></td>
+<td align="right"><b>382</b></td>
+<td align="right">11</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><img src="https://github.com/Xiaohan-Chen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Xiaohan-Chen/transfer-learning-fault-diagnosis-pytorch"><b>Xiaohan-Chen/transfer-learning-fault-diagnosis-pytorch</b></a><br><sub>A transfer learning fault diagnosis repository covering popular algorithms</sub></td>
+<td align="right"><b>374</b></td>
+<td align="right">44</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><img src="https://github.com/protesilaos.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/protesilaos/aporetic"><b>protesilaos/aporetic</b></a><br><sub>Aporetic fonts are a custom build of Iosevka with different style and metrics than the default. This is the successor t…</sub></td>
+<td align="right"><b>373</b></td>
+<td align="right">7</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">85</td>
+<td><img src="https://github.com/onegray.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/onegray/RadioButton-ios"><b>onegray/RadioButton-ios</b></a><br><sub>Lightweight RadioButton class for iOS</sub></td>
+<td align="right"><b>372</b></td>
+<td align="right">67</td>
+<td>Objective-C</td>
+</tr>
 </tbody>
 </table>
 
@@ -547,8 +624,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 410 stars; 74 attributed candidates are tracked.
-- 91 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 372 stars; 85 attributed candidates are tracked.
+- 89 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 105 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

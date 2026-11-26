@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **17** | 22 Nov 2026 | <a href="../../data/contributors/IL.json">JSON</a> |
+| 🟡 Provisional | **18** | 22 Nov 2026 | <a href="../../data/contributors/IL.json">JSON</a> |
 
 </div>
 
@@ -142,7 +142,7 @@
 </tr>
 <tr>
 <td align="right">14</td>
-<td><a href="https://github.com/jondot"><img src="https://avatars.githubusercontent.com/u/83390?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jondot"><b>Dotan J. Nahum</b></a><br><sub>&#64;jondot · 1,704 followers</sub></td>
+<td><a href="https://github.com/jondot"><img src="https://avatars.githubusercontent.com/u/83390?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jondot"><b>Dotan J. Nahum</b></a><br><sub>&#64;jondot · 1,705 followers</sub></td>
 <td align="right"><b>330</b></td>
 <td align="right">247</td>
 <td align="right">58</td>
@@ -160,6 +160,15 @@
 </tr>
 <tr>
 <td align="right">16</td>
+<td><a href="https://github.com/kessler"><img src="https://avatars.githubusercontent.com/u/147367?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kessler"><b>Yaniv Kessler</b></a><br><sub>&#64;kessler · 245 followers</sub></td>
+<td align="right"><b>204</b></td>
+<td align="right">194</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td align="right">17</td>
 <td><a href="https://github.com/benjamingr"><img src="https://avatars.githubusercontent.com/u/1315533?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/benjamingr"><b>Benjamin Gruenbaum</b></a><br><sub>&#64;benjamingr · 1,067 followers</sub></td>
 <td align="right"><b>166</b></td>
 <td align="right">57</td>
@@ -168,7 +177,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">18</td>
 <td><a href="https://github.com/mvasilkov"><img src="https://avatars.githubusercontent.com/u/140257?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mvasilkov"><b>я котик пур-пур</b></a><br><sub>&#64;mvasilkov · 236 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
@@ -183,7 +192,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 17 of 617 discovered developers (600 awaiting measurement).
+- **Measured:** 19 of 642 discovered developers (623 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 150 in round 1.

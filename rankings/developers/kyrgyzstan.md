@@ -185,7 +185,7 @@
 <tr>
 <td align="right">24</td>
 <td><a href="https://github.com/jumasheff"><img src="https://avatars.githubusercontent.com/u/3319967?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jumasheff"><b>murat</b></a><br><sub>&#64;jumasheff</sub></td>
-<td align="right"><b>73</b></td>
+<td align="right"><b>72</b></td>
 <td align="right">78</td>
 <td><sub>Kyrgyzstan</sub></td>
 </tr>

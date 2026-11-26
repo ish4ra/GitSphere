@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **15** | 23 Nov 2026 | <a href="../data/MD.json">JSON</a> |
+| 🟡 Provisional | **17** | 24 Nov 2026 | <a href="../data/MD.json">JSON</a> |
 
 </div>
 
@@ -74,14 +74,14 @@
 <td align="right">8</td>
 <td><img src="https://github.com/vmihailenco.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vmihailenco/taskq"><b>vmihailenco/taskq</b></a><br><sub>Golang asynchronous task/job queue with Redis, SQS, IronMQ, and in-memory backends</sub></td>
 <td align="right"><b>1,341</b></td>
-<td align="right">107</td>
+<td align="right">108</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/sighook.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sighook/pixload"><b>sighook/pixload</b></a><br><sub>Image Payload Creating/Injecting tools</sub></td>
-<td align="right"><b>1,303</b></td>
-<td align="right">252</td>
+<td align="right"><b>1,305</b></td>
+<td align="right">253</td>
 <td>Perl</td>
 </tr>
 <tr>
@@ -126,6 +126,20 @@
 <td align="right">97</td>
 <td>D</td>
 </tr>
+<tr>
+<td align="right">16</td>
+<td><img src="https://github.com/CyberShadow.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CyberShadow/dhcptest"><b>CyberShadow/dhcptest</b></a><br><sub>Cross-platform DHCP test client</sub></td>
+<td align="right"><b>404</b></td>
+<td align="right">60</td>
+<td>D</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td><img src="https://github.com/CyberShadow.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CyberShadow/DFeed"><b>CyberShadow/DFeed</b></a><br><sub>D news aggregator, newsgroup client, web newsreader and IRC bot</sub></td>
+<td align="right"><b>383</b></td>
+<td align="right">35</td>
+<td>D</td>
+</tr>
 </tbody>
 </table>
 
@@ -134,8 +148,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 458 stars; 15 attributed candidates are tracked.
-- 122 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 383 stars; 17 attributed candidates are tracked.
+- 115 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 84 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

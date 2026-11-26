@@ -73,7 +73,7 @@
 <tr>
 <td align="right">8</td>
 <td><a href="https://github.com/Danziger"><img src="https://avatars.githubusercontent.com/u/6564894?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Danziger"><b>Dani Gámez Franco</b></a><br><sub>&#64;Danziger</sub></td>
-<td align="right"><b>138</b></td>
+<td align="right"><b>137</b></td>
 <td align="right">54</td>
 <td><sub>Andorra</sub></td>
 </tr>

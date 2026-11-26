@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **51** | 23 Nov 2026 | <a href="../data/AM.json">JSON</a> |
+| 🟡 Provisional | **63** | 24 Nov 2026 | <a href="../data/AM.json">JSON</a> |
 
 </div>
 
@@ -136,8 +136,8 @@
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/m0n0x41d.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/m0n0x41d/haft"><b>m0n0x41d/haft</b></a><br><sub>Engineering decisions engine that know when they&#39;re stale. Frame, compare, decide — with evidence decay and parity enfo…</sub></td>
-<td align="right"><b>1,401</b></td>
-<td align="right">104</td>
+<td align="right"><b>1,402</b></td>
+<td align="right">103</td>
 <td>Go</td>
 </tr>
 <tr>
@@ -164,7 +164,7 @@
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/unum-cloud.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/unum-cloud/UForm"><b>unum-cloud/UForm</b></a><br><sub>Distributed training &amp; inference for multimodal perception: shared embeddings across text, images, video, audio, code &amp;…</sub></td>
-<td align="right"><b>1,254</b></td>
+<td align="right"><b>1,256</b></td>
 <td align="right">76</td>
 <td>Cuda</td>
 </tr>
@@ -378,6 +378,90 @@
 <td align="right">120</td>
 <td>JavaScript</td>
 </tr>
+<tr>
+<td align="right">52</td>
+<td><img src="https://github.com/ai-forever.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ai-forever/ner-bert"><b>ai-forever/ner-bert</b></a><br><sub>BERT-NER (nert-bert) with google bert https://github.com/google-research.</sub></td>
+<td align="right"><b>407</b></td>
+<td align="right">100</td>
+<td>Jupyter Notebook</td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><img src="https://github.com/bleakgrey.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bleakgrey/tootle"><b>bleakgrey/tootle</b></a> <sub>archived</sub><br><sub>GTK-based Mastodon client for Linux</sub></td>
+<td align="right"><b>401</b></td>
+<td align="right">56</td>
+<td>Vala</td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><img src="https://github.com/rockbite.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rockbite/localforge"><b>rockbite/localforge</b></a><br><sub>Local coding agent with neat UI</sub></td>
+<td align="right"><b>401</b></td>
+<td align="right">47</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/bagrat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bagrat/vim-buffet"><b>bagrat/vim-buffet</b></a><br><sub>IDE-like Vim tabline</sub></td>
+<td align="right"><b>400</b></td>
+<td align="right">23</td>
+<td>Vim Script</td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><img src="https://github.com/ai-forever.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ai-forever/Kandinsky-3"><b>ai-forever/Kandinsky-3</b></a></td>
+<td align="right"><b>396</b></td>
+<td align="right">39</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><img src="https://github.com/sergei-mironov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sergei-mironov/xkb-switch"><b>sergei-mironov/xkb-switch</b></a><br><sub>Switch your X keyboard layouts from the command line</sub></td>
+<td align="right"><b>391</b></td>
+<td align="right">40</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><img src="https://github.com/Armen101.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Armen101/AudioRecordView"><b>Armen101/AudioRecordView</b></a><br><sub>A flexible, efficient library written in Kotlin for drawing real wave forms while recording. Free, easy and convenient…</sub></td>
+<td align="right"><b>390</b></td>
+<td align="right">41</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><img src="https://github.com/djmelik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/djmelik/archey"><b>djmelik/archey</b></a><br><sub>Archey is a system information tool written in Python.</sub></td>
+<td align="right"><b>388</b></td>
+<td align="right">115</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><img src="https://github.com/robertlevonyan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/robertlevonyan/custom-floating-action-button"><b>robertlevonyan/custom-floating-action-button</b></a> <sub>archived</sub><br><sub>This view is for replacement of standard Floating Action Button from Google Support Library. It is easy to use, customi…</sub></td>
+<td align="right"><b>385</b></td>
+<td align="right">50</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><img src="https://github.com/Kaaveh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Kaaveh/ComposeNews"><b>Kaaveh/ComposeNews</b></a><br><sub>A playground about best practices, using updated libraries and solutions in the Android world!</sub></td>
+<td align="right"><b>378</b></td>
+<td align="right">62</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><img src="https://github.com/robertlevonyan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/robertlevonyan/camerax-demo"><b>robertlevonyan/camerax-demo</b></a><br><sub>A sample camera app with CameraX API from Android Jetpack</sub></td>
+<td align="right"><b>377</b></td>
+<td align="right">97</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/JaneySprings.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JaneySprings/DotNet.Meteor"><b>JaneySprings/DotNet.Meteor</b></a><br><sub>A VSCode extension that can run and debug .NET MAUI apps</sub></td>
+<td align="right"><b>374</b></td>
+<td align="right">17</td>
+<td>C#</td>
+</tr>
 </tbody>
 </table>
 
@@ -386,8 +470,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 412 stars; 51 attributed candidates are tracked.
-- 114 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 374 stars; 63 attributed candidates are tracked.
+- 113 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 135 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

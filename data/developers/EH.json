@@ -12,7 +12,7 @@
   {"rank":3,"id":"MDQ6VXNlcjE4MjYwMTYz","login":"ob-aion","name":"OB","url":"https://github.com/ob-aion","avatarUrl":"https://avatars.githubusercontent.com/u/18260163?s=80&v=4","followers":7,"publicRepos":6,"location":"Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":4,"id":"U_kgDOBu4y1Q","login":"Agaoudi","name":"Mohamed Elamine Gaoudi","url":"https://github.com/Agaoudi","avatarUrl":"https://avatars.githubusercontent.com/u/116273877?s=80&v=4","followers":5,"publicRepos":0,"location":"Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"},
   {"rank":5,"id":"MDQ6VXNlcjU5NjM1Nzc=","login":"Omebran","name":null,"url":"https://github.com/Omebran","avatarUrl":"https://avatars.githubusercontent.com/u/5963577?s=80&v=4","followers":4,"publicRepos":16,"location":"East Annaton, Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
-  {"rank":6,"id":"U_kgDOBsI4uA","login":"LevKotly","name":"Lev","url":"https://github.com/LevKotly","avatarUrl":"https://avatars.githubusercontent.com/u/113391800?s=80&v=4","followers":1,"publicRepos":0,"location":"Laayoune, Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22"},
+  {"rank":6,"id":"U_kgDOBsI4uA","login":"LevKotly","name":"Lev","url":"https://github.com/LevKotly","avatarUrl":"https://avatars.githubusercontent.com/u/113391800?s=80&v=4","followers":1,"publicRepos":0,"location":"Laayoune, Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-26"},
   {"rank":7,"id":"MDQ6VXNlcjQ3NjcyNzkz","login":"Brahim-Ezzahraoui","name":"Brahim Ezzahraoui","url":"https://github.com/Brahim-Ezzahraoui","avatarUrl":"https://avatars.githubusercontent.com/u/47672793?s=80&v=4","followers":0,"publicRepos":10,"location":"Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23"},
   {"rank":8,"id":"MDQ6VXNlcjEyMDE4NjU2","login":"abbouh","name":"Abbouh","url":"https://github.com/abbouh","avatarUrl":"https://avatars.githubusercontent.com/u/12018656?s=80&v=4","followers":0,"publicRepos":2,"location":"Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":9,"id":"U_kgDOCTiiTA","login":"argueUndefeatable29","name":"argueUndefeatable29","url":"https://github.com/argueUndefeatable29","avatarUrl":"https://avatars.githubusercontent.com/u/154706508?s=80&v=4","followers":0,"publicRepos":2,"location":"Tifariti","attribution":{"confidence":"medium","evidence":"recognized-place"},"verifiedOn":"2026-11-26"},
@@ -24,8 +24,8 @@
   {"rank":15,"id":"MDQ6VXNlcjIzNTA2NDM2","login":"unastamm","name":"Orlo Hickle V","url":"https://github.com/unastamm","avatarUrl":"https://avatars.githubusercontent.com/u/23506436?s=80&v=4","followers":0,"publicRepos":0,"location":"Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":16,"id":"MDQ6VXNlcjg1MzA5MDA=","login":"yen-mi","name":null,"url":"https://github.com/yen-mi","avatarUrl":"https://avatars.githubusercontent.com/u/8530900?s=80&v=4","followers":0,"publicRepos":0,"location":"Western Sahara","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"}
 ],
-"contentHash": "03e6830bc80de5af",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "cc801f4bef64db65",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

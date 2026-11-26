@@ -93,16 +93,16 @@
 </tr>
 <tr>
 <td align="right">11</td>
-<td><a href="https://github.com/Aaron-RN"><img src="https://avatars.githubusercontent.com/u/18668484?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aaron-RN"><b>Aaron Rory Newbold</b></a><br><sub>&#64;Aaron-RN</sub></td>
-<td align="right"><b>32</b></td>
-<td align="right">52</td>
+<td><a href="https://github.com/javanocollins"><img src="https://avatars.githubusercontent.com/u/22412199?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/javanocollins"><b>Javano Collins</b></a><br><sub>&#64;javanocollins</sub></td>
+<td align="right"><b>33</b></td>
+<td align="right">26</td>
 <td><sub>The Bahamas</sub></td>
 </tr>
 <tr>
 <td align="right">12</td>
-<td><a href="https://github.com/javanocollins"><img src="https://avatars.githubusercontent.com/u/22412199?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/javanocollins"><b>Javano Collins</b></a><br><sub>&#64;javanocollins</sub></td>
+<td><a href="https://github.com/Aaron-RN"><img src="https://avatars.githubusercontent.com/u/18668484?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aaron-RN"><b>Aaron Rory Newbold</b></a><br><sub>&#64;Aaron-RN</sub></td>
 <td align="right"><b>32</b></td>
-<td align="right">26</td>
+<td align="right">52</td>
 <td><sub>The Bahamas</sub></td>
 </tr>
 <tr>

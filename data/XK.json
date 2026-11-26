@@ -5,13 +5,13 @@
 "country": {"code":"XK","name":"Kosovo","slug":"kosovo"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":724,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":116,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":54,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":724,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":111,"candidates":2,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":54,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkzODMwODY3OTY=","name":"awesome-list-rpc-nodes-providers","nameWithOwner":"arddluma/awesome-list-rpc-nodes-providers","url":"https://github.com/arddluma/awesome-list-rpc-nodes-providers","description":"A curated list of awesome Node providers and public RPC endpoints for Ethereum, BSC, Gnosis (xDAI), Fantom, Avalanche, KuCoin, Fuse, Harmony, Tezos, IoTeX, Arb…","stars":917,"forks":244,"primaryLanguage":null,"license":null,"createdAt":"2021-07-05T09:33:49Z","pushedAt":"2025-08-28T14:42:04Z","archived":false,"owner":{"login":"arddluma","name":"AArdian","type":"User","url":"https://github.com/arddluma","location":"Kosovo","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkxMDQwNjk2NzU=","name":"kit","nameWithOwner":"kujtimiihoxha/kit","url":"https://github.com/kujtimiihoxha/kit","description":"GoKit CLI","stars":724,"forks":155,"primaryLanguage":"Go","license":{"spdxId":"MIT"},"createdAt":"2017-09-19T12:04:52Z","pushedAt":"2025-12-05T02:29:56Z","archived":false,"owner":{"login":"kujtimiihoxha","name":"Kujtim Hoxha","type":"User","url":"https://github.com/kujtimiihoxha","location":"Prishtina, Kosovo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "c1c74617da1dfdad",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "e9cc3f8cf95783f9",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-24",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

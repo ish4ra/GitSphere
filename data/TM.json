@@ -5,7 +5,7 @@
 "country": {"code":"TM","name":"Turkmenistan","slug":"turkmenistan"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":54,"ownerExpansionBacklog":139,"candidates":55,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":131,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":54,"ownerExpansionBacklog":137,"candidates":55,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":131,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnk3NjQ1NTQ2Mw==","name":"mpb","nameWithOwner":"vbauerster/mpb","url":"https://github.com/vbauerster/mpb","description":"multi progress bar for Go cli applications","stars":2512,"forks":132,"primaryLanguage":"Go","license":{"spdxId":"Unlicense"},"createdAt":"2016-12-14T11:56:29Z","pushedAt":"2026-10-21T00:26:56Z","archived":false,"owner":{"login":"vbauerster","name":"Vladimir Bauer","type":"User","url":"https://github.com/vbauerster","location":"Turkmenistan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":null,"name":"VerboseVoyager","nameWithOwner":"1wtsyd/VerboseVoyager","url":"https://github.com/1wtsyd/VerboseVoyager","description":null,"stars":1,"forks":1,"primaryLanguage":"Python","license":null,"createdAt":"2023-07-13T13:01:21Z","pushedAt":"2023-07-14T16:14:55Z","archived":false,"owner":{"login":"1wtsyd","name":"iwstyd","type":"User","url":"https://github.com/1wtsyd","location":"Turkmenistan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -63,8 +63,8 @@
   {"rank":54,"id":null,"name":"learn-economy-in-turkmen","nameWithOwner":"hallayev289/learn-economy-in-turkmen","url":"https://github.com/hallayev289/learn-economy-in-turkmen","description":null,"stars":1,"forks":0,"primaryLanguage":"HTML","license":{"spdxId":"GPL-3.0"},"createdAt":"2019-06-20T11:43:07Z","pushedAt":"2019-06-20T12:08:36Z","archived":false,"owner":{"login":"hallayev289","name":"mekan","type":"User","url":"https://github.com/hallayev289","location":"Turkmenistan, Ashgabat","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":55,"id":null,"name":"Sanly_Bilim","nameWithOwner":"Hatamov17/Sanly_Bilim","url":"https://github.com/Hatamov17/Sanly_Bilim","description":null,"stars":1,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2025-07-07T21:42:17Z","pushedAt":"2025-07-07T21:42:44Z","archived":false,"owner":{"login":"Hatamov17","name":"Front.Developer","type":"User","url":"https://github.com/Hatamov17","location":"Turkmenistan","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "499620ecc7d58aaf",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "52674b87503e24e0",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

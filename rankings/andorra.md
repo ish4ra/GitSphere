@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 24 Nov 2026 | <a href="../data/AD.json">JSON</a> |
+| 🟡 Provisional | **11** | 24 Nov 2026 | <a href="../data/AD.json">JSON</a> |
 
 </div>
 
@@ -91,6 +91,13 @@
 <td align="right">63</td>
 <td>Objective-C</td>
 </tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/Danziger.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Danziger/slotjs"><b>Danziger/slotjs</b></a><br><sub>🎰 Circular slot machine mobile-first SPA built using JavaScript, CSS variables and Emojis!</sub></td>
+<td align="right"><b>376</b></td>
+<td align="right">106</td>
+<td>JavaScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -99,8 +106,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 421 stars; 10 attributed candidates are tracked.
-- 110 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 376 stars; 11 attributed candidates are tracked.
+- 106 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 23 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/AE.json">JSON</a> |
+| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/AE.json">JSON</a> |
 
 </div>
 
@@ -290,49 +290,49 @@
 <tr>
 <td align="right">39</td>
 <td><img src="https://github.com/FarazzShaikh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FarazzShaikh/THREE-CustomShaderMaterial"><b>FarazzShaikh/THREE-CustomShaderMaterial</b></a><br><sub>🧩 Extend Three.js standard materials with your own shaders!</sub></td>
-<td align="right"><b>1,371</b></td>
+<td align="right"><b>1,372</b></td>
 <td align="right">79</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">40</td>
 <td><img src="https://github.com/anastr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anastr/SpeedView"><b>anastr/SpeedView</b></a><br><sub>Dynamic Speedometer and Gauge for Android. amazing, powerful, and multi shape :zap:</sub></td>
-<td align="right"><b>1,353</b></td>
+<td align="right"><b>1,352</b></td>
 <td align="right">333</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">41</td>
 <td><img src="https://github.com/techwithtim.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/techwithtim/Price-Tracking-Web-Scraper"><b>techwithtim/Price-Tracking-Web-Scraper</b></a><br><sub>An automated price tracker that uses bright data, playwright, react and flask.</sub></td>
-<td align="right"><b>1,293</b></td>
+<td align="right"><b>1,292</b></td>
 <td align="right">511</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">42</td>
 <td><img src="https://github.com/garylab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/garylab/MakeMoneyWithAI"><b>garylab/MakeMoneyWithAI</b></a><br><sub>A list of open-source AI projects you can use to generate income easily.</sub></td>
-<td align="right"><b>1,254</b></td>
+<td align="right"><b>1,268</b></td>
 <td align="right">183</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">43</td>
+<td><img src="https://github.com/VILA-Lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/VILA-Lab/Awesome-DLMs"><b>VILA-Lab/Awesome-DLMs</b></a><br><sub>The official GitHub repo for the survey paper &quot;A Survey on Diffusion Language Models&quot;.</sub></td>
+<td align="right"><b>1,253</b></td>
+<td align="right">67</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">44</td>
 <td><img src="https://github.com/kumailht.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kumailht/responsive-elements"><b>kumailht/responsive-elements</b></a><br><sub>Responsive elements makes it possible for any element to adapt and respond to the area they occupy. It&#39;s a tiny javascr…</sub></td>
 <td align="right"><b>1,252</b></td>
 <td align="right">100</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">44</td>
-<td><img src="https://github.com/VILA-Lab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/VILA-Lab/Awesome-DLMs"><b>VILA-Lab/Awesome-DLMs</b></a><br><sub>The official GitHub repo for the survey paper &quot;A Survey on Diffusion Language Models&quot;.</sub></td>
-<td align="right"><b>1,252</b></td>
-<td align="right">66</td>
-<td>—</td>
-</tr>
-<tr>
 <td align="right">45</td>
 <td><img src="https://github.com/hugeicons.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hugeicons/hugeicons"><b>hugeicons/hugeicons</b></a><br><sub>Beautiful, consistent, pixel-perfect icons for every framework. 60,000+ icons (6,000+ free) for React, Vue, Svelte, Ang…</sub></td>
-<td align="right"><b>1,238</b></td>
+<td align="right"><b>1,244</b></td>
 <td align="right">51</td>
 <td>Dart</td>
 </tr>
@@ -352,17 +352,17 @@
 </tr>
 <tr>
 <td align="right">48</td>
+<td><img src="https://github.com/leap71.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/leap71/PicoGK"><b>leap71/PicoGK</b></a><br><sub>PicoGK is a compact and robust geometry kernel for Computational Engineering</sub></td>
+<td align="right"><b>1,179</b></td>
+<td align="right">200</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">49</td>
 <td><img src="https://github.com/FahimF.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FahimF/FloatLabelFields"><b>FahimF/FloatLabelFields</b></a><br><sub>Text entry controls which contain a built-in title/label so that you don&#39;t have to add a separate title for each field.</sub></td>
 <td align="right"><b>1,179</b></td>
 <td align="right">103</td>
 <td>Swift</td>
-</tr>
-<tr>
-<td align="right">49</td>
-<td><img src="https://github.com/leap71.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/leap71/PicoGK"><b>leap71/PicoGK</b></a><br><sub>PicoGK is a compact and robust geometry kernel for Computational Engineering</sub></td>
-<td align="right"><b>1,177</b></td>
-<td align="right">200</td>
-<td>C#</td>
 </tr>
 <tr>
 <td align="right">50</td>

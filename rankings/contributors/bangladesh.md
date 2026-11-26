@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **20** | 22 Nov 2026 | <a href="../../data/contributors/BD.json">JSON</a> |
+| 🟡 Provisional | **22** | 22 Nov 2026 | <a href="../../data/contributors/BD.json">JSON</a> |
 
 </div>
 
@@ -187,6 +187,15 @@
 </tr>
 <tr>
 <td align="right">19</td>
+<td><a href="https://github.com/naime-hossain"><img src="https://avatars.githubusercontent.com/u/12586039?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/naime-hossain"><b>naime-hossain</b></a><br><sub>&#64;naime-hossain · 147 followers</sub></td>
+<td align="right"><b>45</b></td>
+<td align="right">37</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">20</td>
 <td><a href="https://github.com/samnoonabrar"><img src="https://avatars.githubusercontent.com/u/36998653?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/samnoonabrar"><b>S M Samnoon Abrar</b></a><br><sub>&#64;samnoonabrar · 172 followers</sub></td>
 <td align="right"><b>45</b></td>
 <td align="right">3</td>
@@ -195,13 +204,22 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">21</td>
 <td><a href="https://github.com/arn-ob"><img src="https://avatars.githubusercontent.com/u/8177397?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arn-ob"><b>Arnob</b></a><br><sub>&#64;arn-ob · 167 followers</sub></td>
 <td align="right"><b>40</b></td>
 <td align="right">18</td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">2</td>
+</tr>
+<tr>
+<td align="right">22</td>
+<td><a href="https://github.com/dynamicguy"><img src="https://avatars.githubusercontent.com/u/80693?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dynamicguy"><b>Nurul Ferdous</b></a><br><sub>&#64;dynamicguy · 202 followers</sub></td>
+<td align="right"><b>13</b></td>
+<td align="right">12</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
 </tr>
 </tbody>
 </table>
@@ -210,7 +228,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 23 of 950 discovered developers (927 awaiting measurement).
+- **Measured:** 25 of 1,000 discovered developers (975 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 173 in round 1.

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **77** | 23 Nov 2026 | <a href="../data/IR.json">JSON</a> |
+| 🟡 Provisional | **91** | 24 Nov 2026 | <a href="../data/IR.json">JSON</a> |
 
 </div>
 
@@ -95,27 +95,27 @@
 <td align="right">11</td>
 <td><img src="https://github.com/seramo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/seramo/v2ray-config-modifier"><b>seramo/v2ray-config-modifier</b></a><br><sub>A web-based tool to generate V2Ray configurations for multiple IP addresses or ranges, supporting VMESS, VLESS, WireGua…</sub></td>
 <td align="right"><b>1,347</b></td>
-<td align="right">73</td>
+<td align="right">74</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/ghost1372.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ghost1372/HandyControls"><b>ghost1372/HandyControls</b></a><br><sub>Contains some simple and commonly used WPF controls based on HandyControl</sub></td>
-<td align="right"><b>1,317</b></td>
+<td align="right"><b>1,318</b></td>
 <td align="right">112</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">13</td>
 <td><img src="https://github.com/barnamenevisi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/barnamenevisi/free-resources"><b>barnamenevisi/free-resources</b></a><br><sub>آرشیو منابع رایگان آموزش برنامه نویسی به زبان فارسی ( هر کسی باید بتونه برنامه نویسی رو یاد بگیره، مهم نیست پول داره یا…</sub></td>
-<td align="right"><b>1,299</b></td>
+<td align="right"><b>1,300</b></td>
 <td align="right">116</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/f4rih.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/f4rih/websploit"><b>f4rih/websploit</b></a><br><sub>Websploit is a high level MITM framework</sub></td>
-<td align="right"><b>1,255</b></td>
+<td align="right"><b>1,258</b></td>
 <td align="right">296</td>
 <td>Python</td>
 </tr>
@@ -129,7 +129,7 @@
 <tr>
 <td align="right">16</td>
 <td><img src="https://github.com/HirbodBehnam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/HirbodBehnam/MTProtoProxyInstaller"><b>HirbodBehnam/MTProtoProxyInstaller</b></a><br><sub>One-click script to install MTProto Proxy server on CentOS, Ubuntu and Debian</sub></td>
-<td align="right"><b>1,215</b></td>
+<td align="right"><b>1,214</b></td>
 <td align="right">222</td>
 <td>Shell</td>
 </tr>
@@ -137,7 +137,7 @@
 <td align="right">17</td>
 <td><img src="https://github.com/FDX100.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FDX100/Auto_Tor_IP_changer"><b>FDX100/Auto&#95;Tor&#95;IP&#95;changer</b></a><br><sub>change your Ip address automatically This tool based on tor project</sub></td>
 <td align="right"><b>1,183</b></td>
-<td align="right">308</td>
+<td align="right">307</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -560,6 +560,104 @@
 <td align="right">201</td>
 <td>PowerShell</td>
 </tr>
+<tr>
+<td align="right">78</td>
+<td><img src="https://github.com/TheGreatAzizi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/TheGreatAzizi/AzuDL-GC2GD"><b>TheGreatAzizi/AzuDL-GC2GD</b></a><br><sub>A powerful Google Colab downloader that saves torrents, YouTube videos, playlists, audio, and direct links straight to…</sub></td>
+<td align="right"><b>408</b></td>
+<td align="right">109</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">79</td>
+<td><img src="https://github.com/Azumi67.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Azumi67/6TO4-GRE-IPIP-SIT"><b>Azumi67/6TO4-GRE-IPIP-SIT</b></a><br><sub>&#91;Multiple Servers&#93; Tunneling methods such as 6to4, GRE6, and IP6IP6, Geneve provide solutions for transmitting IPv6 pac…</sub></td>
+<td align="right"><b>407</b></td>
+<td align="right">152</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">80</td>
+<td><img src="https://github.com/binafy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/binafy/laravel-cart"><b>binafy/laravel-cart</b></a><br><sub>Laravel Cart is a customizable package for adding shopping cart functionality to Laravel applications</sub></td>
+<td align="right"><b>407</b></td>
+<td align="right">19</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/ircfspace.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ircfspace/fragment"><b>ircfspace/fragment</b></a><br><sub>توسط ابزار فرگمنت میتونین دامنههای مردهتون رو مجدد زنده کنید! / Using the Fragment tool, you can revive your dead domai…</sub></td>
+<td align="right"><b>402</b></td>
+<td align="right">47</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/QueraTeam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/QueraTeam/django-nextjs"><b>QueraTeam/django-nextjs</b></a><br><sub>Integrate Next.js into your Django project</sub></td>
+<td align="right"><b>401</b></td>
+<td align="right">26</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><img src="https://github.com/mthri.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mthri/dfp-persian"><b>mthri/dfp-persian</b></a><br><sub>ترجمه آزاد کتاب Django for Professionals</sub></td>
+<td align="right"><b>399</b></td>
+<td align="right">90</td>
+<td>Markdown</td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><img src="https://github.com/MahdiGhiasi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MahdiGhiasi/XpoMusic"><b>MahdiGhiasi/XpoMusic</b></a> <sub>archived</sub><br><sub>A modern Spotify experience for Windows 10</sub></td>
+<td align="right"><b>398</b></td>
+<td align="right">27</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">85</td>
+<td><img src="https://github.com/mjnaderi.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mjnaderi/Sharif-Judge"><b>mjnaderi/Sharif-Judge</b></a><br><sub>A free and open source online judge system for programming courses</sub></td>
+<td align="right"><b>395</b></td>
+<td align="right">157</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/erfjab.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/erfjab/Backuper"><b>erfjab/Backuper</b></a><br><sub>Backuper is an automated backup script with full customization options.</sub></td>
+<td align="right"><b>386</b></td>
+<td align="right">81</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><img src="https://github.com/ALIILAPRO.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ALIILAPRO/v2rayNG-Config"><b>ALIILAPRO/v2rayNG-Config</b></a><br><sub>Get new and fast config for bypassing net.</sub></td>
+<td align="right"><b>377</b></td>
+<td align="right">53</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><img src="https://github.com/mehrabmp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mehrabmp/kara-shop"><b>mehrabmp/kara-shop</b></a> <sub>archived</sub><br><sub>KARA - Ecommerce built with T3 Stack : NextJS, TypeScript, tRPC, Prisma, NextAuth and styled with Tailwind CSS</sub></td>
+<td align="right"><b>376</b></td>
+<td align="right">65</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><img src="https://github.com/FDX100.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/FDX100/GOD-KILLER"><b>FDX100/GOD-KILLER</b></a><br><sub>simple SMS-BOMBER and SMS Sender made with python work for Windows and Linux</sub></td>
+<td align="right"><b>375</b></td>
+<td align="right">70</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><img src="https://github.com/ParsaKSH.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ParsaKSH/spoof-tunnel"><b>ParsaKSH/spoof-tunnel</b></a><br><sub>client-server tunnel with IP-Spoofing</sub></td>
+<td align="right"><b>372</b></td>
+<td align="right">115</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/VahidN.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/VahidN/PdfReport.Core"><b>VahidN/PdfReport.Core</b></a><br><sub>PdfReport.Core is a code first reporting engine, which is built on top of the iTextSharp.LGPLv2.Core and EPPlus.Core li…</sub></td>
+<td align="right"><b>372</b></td>
+<td align="right">84</td>
+<td>C#</td>
+</tr>
 </tbody>
 </table>
 
@@ -568,8 +666,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 413 stars; 77 attributed candidates are tracked.
-- 110 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 372 stars; 91 attributed candidates are tracked.
+- 108 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 159 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

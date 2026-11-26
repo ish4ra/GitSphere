@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"BV","name":"Bouvet Island","slug":"bouvet-island"},
-"count": 14,
+"count": 13,
 "repositories": [
-  {"name":"bijaybartaula/The-Optional-Disappointment","stars":1,"forks":0,"archived":false,"createdAt":"2025-02-03T06:21:24Z","pushedAt":"2025-08-29T06:45:26Z","owner":{"login":"bijaybartaula","type":"User","name":"Bijay Bartaula","location":"Bouvet Island"},"attribution":{"code":"BV","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T11:44:25.129Z","id":"legacy:bijaybartaula/the-optional-disappointment","legacy":true},
   {"name":"anayadoramrdoors/anayadoramrdoors","stars":0,"forks":0,"archived":false,"createdAt":"2024-09-14T10:30:11Z","pushedAt":"2024-09-14T10:30:21Z","owner":{"login":"anayadoramrdoors","type":"User","location":"Bouveteiland (BV)"},"attribution":{"code":"BV","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-25T11:44:25.129Z","id":"legacy:anayadoramrdoors/anayadoramrdoors","legacy":true},
   {"name":"atomicmaildev/chat0006y4","stars":0,"forks":0,"language":"HTML","archived":false,"createdAt":"2026-01-27T22:04:39Z","pushedAt":"2026-01-27T22:15:57Z","owner":{"login":"atomicmaildev","type":"User","location":"Bouvet Island"},"attribution":{"code":"BV","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T11:44:25.129Z","id":"legacy:atomicmaildev/chat0006y4","legacy":true},
   {"name":"Blockchain707/SharpPusher1","stars":0,"forks":0,"language":"C#","license":"MIT","archived":false,"createdAt":"2019-10-10T19:56:06Z","pushedAt":"2019-01-17T09:02:49Z","owner":{"login":"Blockchain707","type":"Organization","name":"Blockchain-707","location":"Bouvet Island"},"attribution":{"code":"BV","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T11:44:25.129Z","id":"legacy:blockchain707/sharppusher1","legacy":true},

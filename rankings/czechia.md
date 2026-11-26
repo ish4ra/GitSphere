@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/CZ.json">JSON</a> |
+| 🟢 Published | **100** | 25 Nov 2026 | <a href="../data/CZ.json">JSON</a> |
 
 </div>
 
@@ -688,17 +688,17 @@
 </tr>
 <tr>
 <td align="right">96</td>
+<td><img src="https://github.com/matejak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/matejak/argbash"><b>matejak/argbash</b></a><br><sub>Bash argument parsing code generator</sub></td>
+<td align="right"><b>1,485</b></td>
+<td align="right">65</td>
+<td>M4</td>
+</tr>
+<tr>
+<td align="right">97</td>
 <td><img src="https://github.com/vslavik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vslavik/winsparkle"><b>vslavik/winsparkle</b></a><br><sub>App update framework for Windows, inspired by Sparkle for macOS</sub></td>
 <td align="right"><b>1,484</b></td>
 <td align="right">291</td>
 <td>C++</td>
-</tr>
-<tr>
-<td align="right">97</td>
-<td><img src="https://github.com/matejak.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/matejak/argbash"><b>matejak/argbash</b></a><br><sub>Bash argument parsing code generator</sub></td>
-<td align="right"><b>1,484</b></td>
-<td align="right">65</td>
-<td>M4</td>
 </tr>
 <tr>
 <td align="right">98</td>
@@ -711,7 +711,7 @@
 <td align="right">99</td>
 <td><img src="https://github.com/slevomat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/slevomat/coding-standard"><b>slevomat/coding-standard</b></a><br><sub>Slevomat Coding Standard for PHP&#95;CodeSniffer provides many useful sniffs</sub></td>
 <td align="right"><b>1,478</b></td>
-<td align="right">200</td>
+<td align="right">201</td>
 <td>PHP</td>
 </tr>
 <tr>

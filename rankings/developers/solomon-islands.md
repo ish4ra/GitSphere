@@ -79,31 +79,31 @@
 </tr>
 <tr>
 <td align="right">9</td>
-<td><a href="https://github.com/mangiBr"><img src="https://avatars.githubusercontent.com/u/7527607?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mangiBr"><b>Brian Mangi</b></a><br><sub>&#64;mangiBr</sub></td>
-<td align="right"><b>3</b></td>
-<td align="right">11</td>
-<td><sub>Honiara, Solomon Islands</sub></td>
-</tr>
-<tr>
-<td align="right">10</td>
 <td><a href="https://github.com/japhliet"><img src="https://avatars.githubusercontent.com/u/8433710?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/japhliet"><b>Rouhanna.japhliet</b></a><br><sub>&#64;japhliet</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">306</td>
 <td><sub>Solomon Islands</sub></td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">10</td>
 <td><a href="https://github.com/lininn"><img src="https://avatars.githubusercontent.com/u/22441187?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lininn"><b>Emerson Towne</b></a><br><sub>&#64;lininn</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">79</td>
 <td><sub>029 ,Bosco Views ,Aishaburgh ,South Carolina ,S…</sub></td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">11</td>
 <td><a href="https://github.com/Sneethe"><img src="https://avatars.githubusercontent.com/u/87017384?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sneethe"><b>Charles Tamzarian</b></a><br><sub>&#64;Sneethe</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">59</td>
 <td><sub>Solomon Islands</sub></td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><a href="https://github.com/mangiBr"><img src="https://avatars.githubusercontent.com/u/7527607?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mangiBr"><b>Brian Mangi</b></a><br><sub>&#64;mangiBr</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">11</td>
+<td><sub>Honiara, Solomon Islands</sub></td>
 </tr>
 <tr>
 <td align="right">13</td>
@@ -555,7 +555,7 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
 - Organizations are excluded. 75 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 2 of 37 in round 1.
+- **Location discovery:** term 5 of 37 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

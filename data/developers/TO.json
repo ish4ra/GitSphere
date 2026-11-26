@@ -5,7 +5,7 @@
 "country": {"code":"TO","name":"Tonga","slug":"tonga"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":50,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":29,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":50,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":29,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjg1MDkzNjg=","login":"Cartus","name":"Zhijiang","url":"https://github.com/Cartus","avatarUrl":"https://avatars.githubusercontent.com/u/8509368?s=80&v=4","followers":131,"publicRepos":8,"location":"Tonga","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":2,"id":"U_kgDOB-uqiw","login":"JonLiki","name":"Sione Folaumoetu'i Likiliki","url":"https://github.com/JonLiki","avatarUrl":"https://avatars.githubusercontent.com/u/132885131?s=80&v=4","followers":13,"publicRepos":6,"location":"Tonga","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
@@ -26,7 +26,7 @@
   {"rank":17,"id":"MDQ6VXNlcjM5MjA3MTk2","login":"12john123","name":"zhang tong","url":"https://github.com/12john123","avatarUrl":"https://avatars.githubusercontent.com/u/39207196?s=80&v=4","followers":0,"publicRepos":6,"location":"Tonga","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":18,"id":"U_kgDOCuKZjQ","login":"melermarcussanti","name":null,"url":"https://github.com/melermarcussanti","avatarUrl":"https://avatars.githubusercontent.com/u/182622605?s=80&v=4","followers":0,"publicRepos":6,"location":"Tonga (TO)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-26"},
   {"rank":19,"id":"U_kgDOCTkbCA","login":"CookieDogxox","name":"CookieDogxox","url":"https://github.com/CookieDogxox","avatarUrl":"https://avatars.githubusercontent.com/u/154737416?s=80&v=4","followers":0,"publicRepos":5,"location":"Tonga","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
-  {"rank":20,"id":"U_kgDOCuqVOg","login":"hotzarzimximik","name":null,"url":"https://github.com/hotzarzimximik","avatarUrl":"https://avatars.githubusercontent.com/u/183145786?s=80&v=4","followers":0,"publicRepos":5,"location":"Tonga (TO)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":20,"id":"U_kgDOCuqVOg","login":"hotzarzimximik","name":null,"url":"https://github.com/hotzarzimximik","avatarUrl":"https://avatars.githubusercontent.com/u/183145786?s=80&v=4","followers":0,"publicRepos":5,"location":"Tonga (TO)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-26"},
   {"rank":21,"id":"MDQ6VXNlcjE5NzAxMjU2","login":"siumafua","name":"S. Moala","url":"https://github.com/siumafua","avatarUrl":"https://avatars.githubusercontent.com/u/19701256?s=80&v=4","followers":0,"publicRepos":5,"location":"Nuku'alofa, Tonga (South Pacific)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":22,"id":"MDQ6VXNlcjM5NjYxNDAy","login":"fonua","name":"On The Spot - arts initiative in Tonga","url":"https://github.com/fonua","avatarUrl":"https://avatars.githubusercontent.com/u/39661402?s=80&v=4","followers":0,"publicRepos":3,"location":"Lavinia Road PO BOX 2888, Nuku'alofa, Tongatapu Island, Tonga","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":23,"id":"U_kgDOE-_M-A","login":"byte315","name":"Cyber","url":"https://github.com/byte315","avatarUrl":"https://avatars.githubusercontent.com/u/334482680?s=80&v=4","followers":0,"publicRepos":2,"location":"Tonga","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
@@ -58,8 +58,8 @@
   {"rank":49,"id":"U_kgDOBejqhQ","login":"Sytan666","name":"Sytan","url":"https://github.com/Sytan666","avatarUrl":"https://avatars.githubusercontent.com/u/99150469?s=80&v=4","followers":0,"publicRepos":0,"location":"Tonga","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":50,"id":"U_kgDOEbqE0Q","login":"viki617","name":"Viki","url":"https://github.com/viki617","avatarUrl":"https://avatars.githubusercontent.com/u/297436369?s=80&v=4","followers":0,"publicRepos":0,"location":"Tonga","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "e6a926349a3958d4",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "1e2341a56bbb1364",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-24",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

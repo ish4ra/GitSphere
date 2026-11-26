@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **8** | 23 Nov 2026 | <a href="../data/BJ.json">JSON</a> |
+| 🟡 Provisional | **8** | 25 Nov 2026 | <a href="../data/BJ.json">JSON</a> |
 
 </div>
 

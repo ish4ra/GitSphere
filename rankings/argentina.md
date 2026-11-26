@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/AR.json">JSON</a> |
+| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/AR.json">JSON</a> |
 
 </div>
 
@@ -311,7 +311,7 @@
 <tr>
 <td align="right">42</td>
 <td><img src="https://github.com/facundoolano.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/facundoolano/app-store-scraper"><b>facundoolano/app-store-scraper</b></a><br><sub>scrape data from the itunes app store</sub></td>
-<td align="right"><b>1,451</b></td>
+<td align="right"><b>1,452</b></td>
 <td align="right">302</td>
 <td>JavaScript</td>
 </tr>
@@ -325,7 +325,7 @@
 <tr>
 <td align="right">44</td>
 <td><img src="https://github.com/marcosnils.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/marcosnils/bin"><b>marcosnils/bin</b></a><br><sub>Effortless binary manager</sub></td>
-<td align="right"><b>1,324</b></td>
+<td align="right"><b>1,323</b></td>
 <td align="right">78</td>
 <td>Go</td>
 </tr>
@@ -340,22 +340,22 @@
 <td align="right">46</td>
 <td><img src="https://github.com/valpackett.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/valpackett/awesome-gtk"><b>valpackett/awesome-gtk</b></a><br><sub>List of awesome GTK (3/4) applications</sub></td>
 <td align="right"><b>1,279</b></td>
-<td align="right">69</td>
+<td align="right">70</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">47</td>
+<td><img src="https://github.com/CharlesWiltgen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CharlesWiltgen/Axiom"><b>CharlesWiltgen/Axiom</b></a><br><sub>Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development</sub></td>
+<td align="right"><b>1,270</b></td>
+<td align="right">90</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">48</td>
 <td><img src="https://github.com/summanlp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/summanlp/textrank"><b>summanlp/textrank</b></a><br><sub>TextRank implementation for Python 3.</sub></td>
 <td align="right"><b>1,269</b></td>
 <td align="right">245</td>
 <td>Python</td>
-</tr>
-<tr>
-<td align="right">48</td>
-<td><img src="https://github.com/CharlesWiltgen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CharlesWiltgen/Axiom"><b>CharlesWiltgen/Axiom</b></a><br><sub>Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development</sub></td>
-<td align="right"><b>1,267</b></td>
-<td align="right">90</td>
-<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">49</td>
@@ -367,7 +367,7 @@
 <tr>
 <td align="right">50</td>
 <td><img src="https://github.com/codedgar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/codedgar/Puppertino"><b>codedgar/Puppertino</b></a><br><sub>A CSS framework based on Human Guidelines from apple</sub></td>
-<td align="right"><b>1,219</b></td>
+<td align="right"><b>1,220</b></td>
 <td align="right">49</td>
 <td>MDX</td>
 </tr>
@@ -381,14 +381,14 @@
 <tr>
 <td align="right">52</td>
 <td><img src="https://github.com/mlomb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mlomb/chat-analytics"><b>mlomb/chat-analytics</b></a><br><sub>Generate interactive, beautiful and insightful chat analysis reports</sub></td>
-<td align="right"><b>1,198</b></td>
+<td align="right"><b>1,199</b></td>
 <td align="right">81</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">53</td>
 <td><img src="https://github.com/bevacqua.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bevacqua/promisees"><b>bevacqua/promisees</b></a><br><sub>:incoming&#95;envelope: Promise visualization playground for the adventurous</sub></td>
-<td align="right"><b>1,195</b></td>
+<td align="right"><b>1,194</b></td>
 <td align="right">46</td>
 <td>JavaScript</td>
 </tr>

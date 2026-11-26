@@ -14,9 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **100** | 02 Nov 2026 | <a href="../data/MX.json">JSON</a> |
-
-> **Not yet re-verified.** 4 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/MX.json">JSON</a> |
 
 </div>
 
@@ -145,28 +143,28 @@
 <tr>
 <td align="right">18</td>
 <td><img src="https://github.com/vanrez-nez.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vanrez-nez/awesome-glsl"><b>vanrez-nez/awesome-glsl</b></a><br><sub>:sparkler: Compilation of the best resources to learn programming OpenGL Shaders</sub></td>
-<td align="right"><b>1,378</b></td>
+<td align="right"><b>1,379</b></td>
 <td align="right">94</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">19</td>
+<td><img src="https://github.com/EliverLara.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EliverLara/candy-icons"><b>EliverLara/candy-icons</b></a><br><sub>:lollipop: Sweet gradient icons</sub></td>
+<td align="right"><b>1,340</b></td>
+<td align="right">144</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">20</td>
 <td><img src="https://github.com/a-real-ai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/a-real-ai/pywinassistant"><b>a-real-ai/pywinassistant</b></a><br><sub>The first open-source Artificial Narrow Intelligence generalist agentic framework Computer-Using-Agent that fully opera…</sub></td>
 <td align="right"><b>1,339</b></td>
 <td align="right">190</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">20</td>
-<td><img src="https://github.com/EliverLara.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/EliverLara/candy-icons"><b>EliverLara/candy-icons</b></a><br><sub>:lollipop: Sweet gradient icons</sub></td>
-<td align="right"><b>1,339</b></td>
-<td align="right">145</td>
-<td>—</td>
-</tr>
-<tr>
 <td align="right">21</td>
 <td><img src="https://github.com/eddiesigner.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/eddiesigner/liebling"><b>eddiesigner/liebling</b></a><br><sub>Beautiful and clean Ghost theme that is easy and comfortable to use. To get the latest version please head over the rel…</sub></td>
-<td align="right"><b>1,310</b></td>
+<td align="right"><b>1,311</b></td>
 <td align="right">583</td>
 <td>SCSS</td>
 </tr>
@@ -174,20 +172,20 @@
 <td align="right">22</td>
 <td><img src="https://github.com/danielcardeenas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/danielcardeenas/sulla"><b>danielcardeenas/sulla</b></a><br><sub>👩🏻🔬 Javascript Whatsapp api library for chatbots</sub></td>
 <td align="right"><b>1,303</b></td>
-<td align="right">269</td>
+<td align="right">268</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">23</td>
 <td><img src="https://github.com/luisbocanegra.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/luisbocanegra/plasma-panel-colorizer"><b>luisbocanegra/plasma-panel-colorizer</b></a><br><sub>Latte-Dock and WM status bar customization for the KDE Plasma panels</sub></td>
-<td align="right"><b>1,287</b></td>
+<td align="right"><b>1,290</b></td>
 <td align="right">35</td>
 <td>QML</td>
 </tr>
 <tr>
 <td align="right">24</td>
 <td><img src="https://github.com/unosquare.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/unosquare/ffmediaelement"><b>unosquare/ffmediaelement</b></a><br><sub>FFME: The Advanced WPF MediaElement (based on FFmpeg)</sub></td>
-<td align="right"><b>1,273</b></td>
+<td align="right"><b>1,272</b></td>
 <td align="right">259</td>
 <td>C#</td>
 </tr>
@@ -208,14 +206,14 @@
 <tr>
 <td align="right">27</td>
 <td><img src="https://github.com/danielcardeenas.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/danielcardeenas/whatsapp-framework"><b>danielcardeenas/whatsapp-framework</b></a><br><sub>⚗️Whatsapp python api</sub></td>
-<td align="right"><b>1,187</b></td>
+<td align="right"><b>1,188</b></td>
 <td align="right">347</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">28</td>
 <td><img src="https://github.com/jjsantos01.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jjsantos01/qgis_mcp"><b>jjsantos01/qgis&#95;mcp</b></a><br><sub>Model Context Protocol (MCP) that allows LLMs to use QGIS Desktop</sub></td>
-<td align="right"><b>1,158</b></td>
+<td align="right"><b>1,164</b></td>
 <td align="right">190</td>
 <td>Python</td>
 </tr>
@@ -697,30 +695,30 @@
 </tr>
 <tr>
 <td align="right">97</td>
-<td><img src="https://github.com/ChuckSalle.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ChuckSalle/UTAustinX-UT.7.10x-Foundations-of-Data-Analysis---Part-1"><b>ChuckSalle/UTAustinX-UT.7.10x-Foundations-of-Data-Analysis---Part-1</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>R</td>
+<td><img src="https://github.com/coderdiaz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/coderdiaz/vue-datasource"><b>coderdiaz/vue-datasource</b></a> <sub>archived</sub><br><sub>A vue.js component to create dynamic tables</sub></td>
+<td align="right"><b>406</b></td>
+<td align="right">91</td>
+<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">98</td>
-<td><img src="https://github.com/dropdead-Mx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dropdead-Mx/sistema"><b>dropdead-Mx/sistema</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>PHP</td>
+<td><img src="https://github.com/LeonidasEsteban.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LeonidasEsteban/easybank-learning-sass"><b>LeonidasEsteban/easybank-learning-sass</b></a><br><sub>I&#39;m learning sass in a live streaming</sub></td>
+<td align="right"><b>402</b></td>
+<td align="right">27</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td align="right">99</td>
-<td><img src="https://github.com/rikardoisidro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rikardoisidro/callcenter"><b>rikardoisidro/callcenter</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">1</td>
-<td>—</td>
+<td><img src="https://github.com/mean-expert-official.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mean-expert-official/loopback-sdk-builder"><b>mean-expert-official/loopback-sdk-builder</b></a><br><sub>Tool for auto-generating Software Development Kits (SDKs) for LoopBack</sub></td>
+<td align="right"><b>398</b></td>
+<td align="right">174</td>
+<td>HTML</td>
 </tr>
 <tr>
 <td align="right">100</td>
-<td><img src="https://github.com/ajresendiz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ajresendiz/Practica"><b>ajresendiz/Practica</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
+<td><img src="https://github.com/LaunchX-InnovaccionVirtual.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LaunchX-InnovaccionVirtual/onboarding-github-launchx"><b>LaunchX-InnovaccionVirtual/onboarding-github-launchx</b></a><br><sub>Cómo ingresar a la organización de Launch X by Innovacción Virtual</sub></td>
+<td align="right"><b>397</b></td>
+<td align="right">114</td>
 <td>—</td>
 </tr>
 </tbody>
@@ -729,10 +727,9 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Stale. Some entries have not been re-verified in the last 14 days.
-- **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 1 stars; 112 attributed candidates are tracked.
-- 4 entries were carried over from the previous dataset and are pending revalidation.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
+- **Cutoff:** the last listed repository has 397 stars; 134 attributed candidates are tracked.
 - 113 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 153 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

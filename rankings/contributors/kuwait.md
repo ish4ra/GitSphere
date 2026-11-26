@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 23 Nov 2026 | <a href="../../data/contributors/KW.json">JSON</a> |
+| 🟡 Provisional | **12** | 23 Nov 2026 | <a href="../../data/contributors/KW.json">JSON</a> |
 
 </div>
 
@@ -70,6 +70,15 @@
 </tr>
 <tr>
 <td align="right">6</td>
+<td><a href="https://github.com/MoathOthman"><img src="https://avatars.githubusercontent.com/u/1166727?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MoathOthman"><b>Moath othman</b></a><br><sub>&#64;MoathOthman · 82 followers</sub></td>
+<td align="right"><b>76</b></td>
+<td align="right">34</td>
+<td align="right">34</td>
+<td align="right">1</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">7</td>
 <td><a href="https://github.com/tareqsultan"><img src="https://avatars.githubusercontent.com/u/4695087?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tareqsultan"><b>tareq</b></a><br><sub>&#64;tareqsultan · 0 followers</sub></td>
 <td align="right"><b>62</b></td>
 <td align="right">38</td>
@@ -78,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/zelal-Eizaldeen"><img src="https://avatars.githubusercontent.com/u/39157753?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zelal-Eizaldeen"><b>Zilal</b></a><br><sub>&#64;zelal-Eizaldeen · 3 followers</sub></td>
 <td align="right"><b>37</b></td>
 <td align="right">23</td>
@@ -87,7 +96,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/dmakwt"><img src="https://avatars.githubusercontent.com/u/24327781?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dmakwt"><b>Dhari</b></a><br><sub>&#64;dmakwt · 126 followers</sub></td>
 <td align="right"><b>33</b></td>
 <td align="right">20</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/iZaL"><img src="https://avatars.githubusercontent.com/u/6410176?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iZaL"><b>Afzal Abbas</b></a><br><sub>&#64;iZaL · 99 followers</sub></td>
 <td align="right"><b>24</b></td>
 <td align="right">23</td>
@@ -105,11 +114,20 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/omsi96"><img src="https://avatars.githubusercontent.com/u/8784343?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/omsi96"><b>Omar</b></a><br><sub>&#64;omsi96 · 120 followers</sub></td>
 <td align="right"><b>14</b></td>
 <td align="right">6</td>
 <td align="right">1</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><a href="https://github.com/smokeme"><img src="https://avatars.githubusercontent.com/u/18034561?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/smokeme"><b>Fawaz Adi</b></a><br><sub>&#64;smokeme · 151 followers</sub></td>
+<td align="right"><b>7</b></td>
+<td align="right">6</td>
+<td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
 </tr>
@@ -120,7 +138,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 17 of 398 discovered developers (381 awaiting measurement).
+- **Measured:** 19 of 398 discovered developers (379 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 32 in round 1.

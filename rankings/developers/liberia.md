@@ -45,7 +45,7 @@
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/Massaquoi716"><img src="https://avatars.githubusercontent.com/u/67973221?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Massaquoi716"><b>Massaquoi L Dehmie</b></a><br><sub>&#64;Massaquoi716</sub></td>
-<td align="right"><b>147</b></td>
+<td align="right"><b>146</b></td>
 <td align="right">28</td>
 <td><sub>Liberia</sub></td>
 </tr>

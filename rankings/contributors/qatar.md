@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/contributors/QA.json">JSON</a> |
+| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/contributors/QA.json">JSON</a> |
 
 </div>
 
@@ -106,6 +106,15 @@
 </tr>
 <tr>
 <td align="right">10</td>
+<td><a href="https://github.com/iamwebwiz"><img src="https://avatars.githubusercontent.com/u/14896918?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iamwebwiz"><b>Ezekiel Oladejo</b></a><br><sub>&#64;iamwebwiz · 145 followers</sub></td>
+<td align="right"><b>27</b></td>
+<td align="right">19</td>
+<td align="right">4</td>
+<td align="right">1</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">11</td>
 <td><a href="https://github.com/maljefairi"><img src="https://avatars.githubusercontent.com/u/45969744?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maljefairi"><b>Mohammed Al-Jefairi</b></a><br><sub>&#64;maljefairi · 577 followers</sub></td>
 <td align="right"><b>27</b></td>
 <td align="right">14</td>
@@ -114,7 +123,7 @@
 <td align="right">7</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">12</td>
 <td><a href="https://github.com/025rashiditedpl"><img src="https://avatars.githubusercontent.com/u/196416709?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/025rashiditedpl"><b>Muhammed Rashid Kp</b></a><br><sub>&#64;025rashiditedpl · 0 followers</sub></td>
 <td align="right"><b>23</b></td>
 <td align="right">21</td>
@@ -123,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/TarikKaanKoc"><img src="https://avatars.githubusercontent.com/u/83168207?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TarikKaanKoc"><b>Tarık Kaan Koç</b></a><br><sub>&#64;TarikKaanKoc · 564 followers</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">8</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/noumanmhd"><img src="https://avatars.githubusercontent.com/u/46532439?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/noumanmhd"><b>Nouman Mahmood</b></a><br><sub>&#64;noumanmhd · 359 followers</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">7</td>
@@ -141,7 +150,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/vahid-nejad"><img src="https://avatars.githubusercontent.com/u/7630781?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vahid-nejad"><b>Vahid Nejad</b></a><br><sub>&#64;vahid-nejad · 480 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
@@ -150,7 +159,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><a href="https://github.com/cantseeathing"><img src="https://avatars.githubusercontent.com/u/17046962?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cantseeathing"><b>Mahmoud Mesleh</b></a><br><sub>&#64;cantseeathing · 1 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
@@ -165,7 +174,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 15 of 395 discovered developers (380 awaiting measurement).
+- **Measured:** 16 of 396 discovered developers (380 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 43 in round 1.

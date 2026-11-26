@@ -74,7 +74,7 @@
   {"rank":65,"id":"U_kgDOBgnmAQ","login":"call-me-sammy","name":"Samuel Kekebogi","url":"https://github.com/call-me-sammy","avatarUrl":"https://avatars.githubusercontent.com/u/101312001?s=80&v=4","followers":3,"publicRepos":0,"location":"Papua New Guinea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":66,"id":"MDQ6VXNlcjgxNzkyMjI=","login":"papuamart","name":"papuamart","url":"https://github.com/papuamart","avatarUrl":"https://avatars.githubusercontent.com/u/8179222?s=80&v=4","followers":2,"publicRepos":48,"location":"Port Moresby, Papua New Guinea","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":67,"id":"MDQ6VXNlcjIxMDMwMzQ5","login":"saeej","name":"Säëg","url":"https://github.com/saeej","avatarUrl":"https://avatars.githubusercontent.com/u/21030349?s=80&v=4","followers":2,"publicRepos":48,"location":"Papua New Guinea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
-  {"rank":68,"id":"MDQ6VXNlcjQ0ODIxNTMw","login":"Jarnen","name":"Jarnen Richard","url":"https://github.com/Jarnen","avatarUrl":"https://avatars.githubusercontent.com/u/44821530?s=80&v=4","followers":2,"publicRepos":28,"location":"Port Moresby, Papua New Guinea","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
+  {"rank":68,"id":"MDQ6VXNlcjQ0ODIxNTMw","login":"Jarnen","name":"Jarnen Richard","url":"https://github.com/Jarnen","avatarUrl":"https://avatars.githubusercontent.com/u/44821530?s=80&v=4","followers":2,"publicRepos":28,"location":"Port Moresby, Papua New Guinea","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-26"},
   {"rank":69,"id":"MDQ6VXNlcjgyMTgyMDY5","login":"EzekielDujambi","name":"Ezekiel Dujambi","url":"https://github.com/EzekielDujambi","avatarUrl":"https://avatars.githubusercontent.com/u/82182069?s=80&v=4","followers":2,"publicRepos":10,"location":"Port Moresby, Papua New Guinea","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":70,"id":"U_kgDODEK2yQ","login":"IzzyMuni","name":"Izzy Muni","url":"https://github.com/IzzyMuni","avatarUrl":"https://avatars.githubusercontent.com/u/205698761?s=80&v=4","followers":2,"publicRepos":8,"location":"Papua New Guinea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":71,"id":"MDQ6VXNlcjM0NDM1Mzcx","login":"tuwokHowardii","name":"Howard Numan","url":"https://github.com/tuwokHowardii","avatarUrl":"https://avatars.githubusercontent.com/u/34435371?s=80&v=4","followers":2,"publicRepos":6,"location":"Papua New Guinea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
@@ -557,8 +557,8 @@
   {"rank":548,"id":"U_kgDODzTQKQ","login":"zechariahpery53-a11y","name":"ZP Creatives","url":"https://github.com/zechariahpery53-a11y","avatarUrl":"https://avatars.githubusercontent.com/u/255119401?s=80&v=4","followers":0,"publicRepos":0,"location":"Papua New Guinea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":549,"id":"U_kgDODYI2qA","login":"zeekay24over","name":"Zebedee Kire","url":"https://github.com/zeekay24over","avatarUrl":"https://avatars.githubusercontent.com/u/226637480?s=80&v=4","followers":0,"publicRepos":0,"location":"Papua New Guinea","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"}
 ],
-"contentHash": "706d350ed70f2ee2",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "bf3e231901858d80",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

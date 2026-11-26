@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **35** | 01 Nov 2026 | <a href="../data/LU.json">JSON</a> |
+| 🟠 Stale | **37** | 01 Nov 2026 | <a href="../data/LU.json">JSON</a> |
 
 > **Not yet re-verified.** 1 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
@@ -82,14 +82,14 @@
 <tr>
 <td align="right">9</td>
 <td><img src="https://github.com/fmind.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fmind/mlops-python-package"><b>fmind/mlops-python-package</b></a><br><sub>Production-shaped MLOps Python package and reference implementation of the MLOps Coding Course: MLflow, scikit-learn, P…</sub></td>
-<td align="right"><b>1,420</b></td>
+<td align="right"><b>1,421</b></td>
 <td align="right">200</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">10</td>
 <td><img src="https://github.com/CIRCL.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CIRCL/AIL-framework"><b>CIRCL/AIL-framework</b></a><br><sub>AIL framework - Analysis Information Leak framework. Project moved to https://github.com/ail-project</sub></td>
-<td align="right"><b>1,384</b></td>
+<td align="right"><b>1,386</b></td>
 <td align="right">285</td>
 <td>HTML</td>
 </tr>
@@ -103,7 +103,7 @@
 <tr>
 <td align="right">12</td>
 <td><img src="https://github.com/qdm12.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/qdm12/gluetun-wiki"><b>qdm12/gluetun-wiki</b></a><br><sub>Home to the Markdown Wiki page for Gluetun</sub></td>
-<td align="right"><b>1,204</b></td>
+<td align="right"><b>1,206</b></td>
 <td align="right">111</td>
 <td>—</td>
 </tr>
@@ -263,6 +263,20 @@
 </tr>
 <tr>
 <td align="right">35</td>
+<td><img src="https://github.com/onizet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/onizet/html2openxml"><b>onizet/html2openxml</b></a><br><sub>Generate professional OpenXML Word documents from HTML while reusing existing styles, numbering definitions, and corpor…</sub></td>
+<td align="right"><b>397</b></td>
+<td align="right">130</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">36</td>
+<td><img src="https://github.com/sourcentis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sourcentis/deming"><b>sourcentis/deming</b></a><br><sub>Management tool for the information security management system / Outil de gestion du système de management de la sécuri…</sub></td>
+<td align="right"><b>393</b></td>
+<td align="right">100</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">37</td>
 <td><img src="https://github.com/biomod-lih.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/biomod-lih/consICA"><b>biomod-lih/consICA</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
@@ -276,9 +290,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 1 stars; 35 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 1 stars; 37 attributed candidates are tracked.
 - 1 entries were carried over from the previous dataset and are pending revalidation.
-- 106 multi-repository owners are queued for expansion.
+- 104 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 144 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

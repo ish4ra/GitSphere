@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **400** | 22 Nov 2026 | <a href="../../data/developers/OM.json">JSON</a> |
+| 🟡 Provisional | **400** | 23 Nov 2026 | <a href="../../data/developers/OM.json">JSON</a> |
 
 </div>
 
@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/Aslemammad"><img src="https://avatars.githubusercontent.com/u/37929992?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aslemammad"><b>Mohammad Bagher Abiyat</b></a><br><sub>&#64;Aslemammad</sub></td>
-<td align="right"><b>893</b></td>
+<td align="right"><b>894</b></td>
 <td align="right">158</td>
 <td><sub>🇴🇲</sub></td>
 </tr>
@@ -137,7 +137,7 @@
 <td align="right">17</td>
 <td><a href="https://github.com/truthofmatthew"><img src="https://avatars.githubusercontent.com/u/3770570?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/truthofmatthew"><b>Matthew Truth</b></a><br><sub>&#64;truthofmatthew</sub></td>
 <td align="right"><b>149</b></td>
-<td align="right">0</td>
+<td align="right">30</td>
 <td><sub>Muscat, Oman</sub></td>
 </tr>
 <tr>
@@ -149,17 +149,17 @@
 </tr>
 <tr>
 <td align="right">19</td>
+<td><a href="https://github.com/alexanderjohnso"><img src="https://avatars.githubusercontent.com/u/301923318?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexanderjohnso"><b>Musallama Mohammed Al-Kharusi</b></a><br><sub>&#64;alexanderjohnso</sub></td>
+<td align="right"><b>147</b></td>
+<td align="right">1</td>
+<td><sub>Seeb, Oman</sub></td>
+</tr>
+<tr>
+<td align="right">20</td>
 <td><a href="https://github.com/Mahanmmi"><img src="https://avatars.githubusercontent.com/u/43912482?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mahanmmi"><b>Mahan Zendedel DH</b></a><br><sub>&#64;Mahanmmi</sub></td>
 <td align="right"><b>144</b></td>
 <td align="right">39</td>
 <td><sub>Muscat, Oman</sub></td>
-</tr>
-<tr>
-<td align="right">20</td>
-<td><a href="https://github.com/alexanderjohnso"><img src="https://avatars.githubusercontent.com/u/301923318?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexanderjohnso"><b>Musallama Mohammed Al-Kharusi</b></a><br><sub>&#64;alexanderjohnso</sub></td>
-<td align="right"><b>141</b></td>
-<td align="right">1</td>
-<td><sub>Seeb, Oman</sub></td>
 </tr>
 <tr>
 <td align="right">21</td>

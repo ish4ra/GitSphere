@@ -5,7 +5,7 @@
 "country": {"code":"SC","name":"Seychelles","slug":"seychelles"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":193,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":39,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffFollowers":0,"candidates":193,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":39,"unresolved":0},"exhaustive":false},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjQ5MDU2NTUx","login":"PandaVPN","name":"PandaVPN®","url":"https://github.com/PandaVPN","avatarUrl":"https://avatars.githubusercontent.com/u/49056551?s=80&v=4","followers":129,"publicRepos":1,"location":"Seychelles","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":"U_kgDOBhfnZw","login":"mirailovers","name":"Mirai Botnet Lovers","url":"https://github.com/mirailovers","avatarUrl":"https://avatars.githubusercontent.com/u/102229863?s=80&v=4","followers":45,"publicRepos":7,"location":"Seychelles","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
@@ -13,7 +13,7 @@
   {"rank":4,"id":"MDQ6VXNlcjgyOTYyODcz","login":"0xMasayoshi","name":"Masayoshi","url":"https://github.com/0xMasayoshi","avatarUrl":"https://avatars.githubusercontent.com/u/82962873?s=80&v=4","followers":25,"publicRepos":48,"location":"Seychelles","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":5,"id":"MDQ6VXNlcjMyNjk5OTM=","login":"smichalowski","name":"Sebastian Michalowski","url":"https://github.com/smichalowski","avatarUrl":"https://avatars.githubusercontent.com/u/3269993?s=80&v=4","followers":17,"publicRepos":15,"location":"Victoria, Seychelles","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
   {"rank":6,"id":"MDQ6VXNlcjU0ODQ3","login":"ocornu","name":"Olivier Cornu","url":"https://github.com/ocornu","avatarUrl":"https://avatars.githubusercontent.com/u/54847?s=80&v=4","followers":17,"publicRepos":8,"location":"La Digue, Seychelles","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24"},
-  {"rank":7,"id":"MDQ6VXNlcjQwMTcwNTQ0","login":"ndexvictoria","name":"Tanvir Rahaman","url":"https://github.com/ndexvictoria","avatarUrl":"https://avatars.githubusercontent.com/u/40170544?s=80&v=4","followers":13,"publicRepos":21,"location":"Seychelles","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
+  {"rank":7,"id":"MDQ6VXNlcjQwMTcwNTQ0","login":"ndexvictoria","name":"Tanvir Rahaman","url":"https://github.com/ndexvictoria","avatarUrl":"https://avatars.githubusercontent.com/u/40170544?s=80&v=4","followers":13,"publicRepos":21,"location":"Seychelles","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":8,"id":"MDQ6VXNlcjcwNjkzMjIy","login":"leabernard","name":"learico_","url":"https://github.com/leabernard","avatarUrl":"https://avatars.githubusercontent.com/u/70693222?s=80&v=4","followers":12,"publicRepos":30,"location":"Seychelles","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":9,"id":"MDQ6VXNlcjQ3ODI2MjU3","login":"pukkamex","name":null,"url":"https://github.com/pukkamex","avatarUrl":"https://avatars.githubusercontent.com/u/47826257?s=80&v=4","followers":12,"publicRepos":1,"location":"seychelles","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":10,"id":"U_kgDOD9JrSQ","login":"PropLynqDev","name":"PropLynq Developer","url":"https://github.com/PropLynqDev","avatarUrl":"https://avatars.githubusercontent.com/u/265448265?s=80&v=4","followers":12,"publicRepos":0,"location":"Seychelles","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
@@ -201,8 +201,8 @@
   {"rank":192,"id":"MDQ6VXNlcjMzMzQwODMx","login":"unitynet","name":"Unity Networks","url":"https://github.com/unitynet","avatarUrl":"https://avatars.githubusercontent.com/u/33340831?s=80&v=4","followers":0,"publicRepos":0,"location":"Seychelles","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"},
   {"rank":193,"id":"U_kgDODOdCDQ","login":"ZroSpcter","name":"Dwayne Delorie","url":"https://github.com/ZroSpcter","avatarUrl":"https://avatars.githubusercontent.com/u/216482317?s=80&v=4","followers":0,"publicRepos":0,"location":"Seychelles","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24"}
 ],
-"contentHash": "6eea3e7c012d71d2",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "21c80f65afa237a6",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-24",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

@@ -18,7 +18,7 @@
   {"rank":9,"id":"U_kgDOC5SXgg","login":"akaletekoffilevis","name":"akaletekoffilevis","url":"https://github.com/akaletekoffilevis","avatarUrl":"https://avatars.githubusercontent.com/u/194287490?s=80&v=4","followers":64,"publicRepos":83,"location":"Niger / Niamey","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-26"},
   {"rank":10,"id":"MDQ6VXNlcjc3ODk2NzEx","login":"HamaBarhamou","name":"HAMA Barhamou","url":"https://github.com/HamaBarhamou","avatarUrl":"https://avatars.githubusercontent.com/u/77896711?s=80&v=4","followers":47,"publicRepos":125,"location":"Niger","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-24"},
   {"rank":11,"id":"U_kgDODGqPbA","login":"MLMD93","name":"Maman Lawali","url":"https://github.com/MLMD93","avatarUrl":"https://avatars.githubusercontent.com/u/208310124?s=80&v=4","followers":34,"publicRepos":2,"location":"Niamey-Niger","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-24"},
-  {"rank":12,"id":"U_kgDOB2ukcg","login":"Chaibouu","name":"Chaibouu","url":"https://github.com/Chaibouu","avatarUrl":"https://avatars.githubusercontent.com/u/124494962?s=80&v=4","followers":31,"publicRepos":67,"location":"Niger","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-24"},
+  {"rank":12,"id":"U_kgDOB2ukcg","login":"Chaibouu","name":"Chaibouu","url":"https://github.com/Chaibouu","avatarUrl":"https://avatars.githubusercontent.com/u/124494962?s=80&v=4","followers":31,"publicRepos":67,"location":"Niger","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-26"},
   {"rank":13,"id":"MDQ6VXNlcjU3OTQ0NjUw","login":"ab3masta","name":"Abdou Abarchi Aboubacar","url":"https://github.com/ab3masta","avatarUrl":"https://avatars.githubusercontent.com/u/57944650?s=80&v=4","followers":30,"publicRepos":60,"location":"Niamey-Niger","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-24"},
   {"rank":14,"id":"MDQ6VXNlcjE4Njg1MzY2","login":"malnuxstarck","name":"Abdoul Malik","url":"https://github.com/malnuxstarck","avatarUrl":"https://avatars.githubusercontent.com/u/18685366?s=80&v=4","followers":28,"publicRepos":15,"location":"Niamey , Niger","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-24"},
   {"rank":15,"id":"MDQ6VXNlcjQ0MTc2ODI1","login":"TrakyRichard","name":"Traky Richard","url":"https://github.com/TrakyRichard","avatarUrl":"https://avatars.githubusercontent.com/u/44176825?s=80&v=4","followers":27,"publicRepos":88,"location":"Niger","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-26"},
@@ -395,8 +395,8 @@
   {"rank":386,"id":"U_kgDOEthXxg","login":"zakariahamanih-zhh","name":"Zakaria Hamani","url":"https://github.com/zakariahamanih-zhh","avatarUrl":"https://avatars.githubusercontent.com/u/316168134?s=80&v=4","followers":0,"publicRepos":0,"location":"niamey,niger","attribution":{"confidence":"medium","evidence":"consistent-places"},"verifiedOn":"2026-11-26"},
   {"rank":387,"id":"U_kgDOCRmgbg","login":"Zosh1337","name":"Zosh","url":"https://github.com/Zosh1337","avatarUrl":"https://avatars.githubusercontent.com/u/152674414?s=80&v=4","followers":0,"publicRepos":0,"location":"niger","attribution":{"confidence":"medium","evidence":"dominant-place"},"verifiedOn":"2026-11-26"}
 ],
-"contentHash": "6b8f5fa18ca61663",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "b2dbae85a6ae4f6e",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-24",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/puikinsh"><img src="https://avatars.githubusercontent.com/u/3451398?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/puikinsh"><b>Aigars Silkalns</b></a><br><sub>&#64;puikinsh</sub></td>
-<td align="right"><b>2,413</b></td>
+<td align="right"><b>2,412</b></td>
 <td align="right">37</td>
 <td><sub>Riga, Latvia</sub></td>
 </tr>
@@ -262,7 +262,7 @@
 <tr>
 <td align="right">35</td>
 <td><a href="https://github.com/dbalabka"><img src="https://avatars.githubusercontent.com/u/1269372?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dbalabka"><b>Dmitry Balabka</b></a><br><sub>&#64;dbalabka</sub></td>
-<td align="right"><b>139</b></td>
+<td align="right"><b>138</b></td>
 <td align="right">166</td>
 <td><sub>Latvia, Riga</sub></td>
 </tr>
@@ -353,7 +353,7 @@
 <tr>
 <td align="right">48</td>
 <td><a href="https://github.com/PKRoma"><img src="https://avatars.githubusercontent.com/u/639900?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PKRoma"><b>Pēteris Kļaviņš</b></a><br><sub>&#64;PKRoma</sub></td>
-<td align="right"><b>109</b></td>
+<td align="right"><b>108</b></td>
 <td align="right">0</td>
 <td><sub>Rīga, Latvia</sub></td>
 </tr>
@@ -423,7 +423,7 @@
 <tr>
 <td align="right">58</td>
 <td><a href="https://github.com/yarlson"><img src="https://avatars.githubusercontent.com/u/751584?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yarlson"><b>Yar Kravtsov</b></a><br><sub>&#64;yarlson</sub></td>
-<td align="right"><b>70</b></td>
+<td align="right"><b>69</b></td>
 <td align="right">0</td>
 <td><sub>Riga, Latvia</sub></td>
 </tr>

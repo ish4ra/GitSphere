@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/TH.json">JSON</a> |
+| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/TH.json">JSON</a> |
 
 </div>
 
@@ -282,23 +282,23 @@
 </tr>
 <tr>
 <td align="right">38</td>
-<td><img src="https://github.com/sahilm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sahilm/fuzzy"><b>sahilm/fuzzy</b></a><br><sub>Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, V…</sub></td>
-<td align="right"><b>1,454</b></td>
-<td align="right">68</td>
-<td>Go</td>
+<td><img src="https://github.com/Ttanasart-pt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ttanasart-pt/Pixel-Composer"><b>Ttanasart-pt/Pixel-Composer</b></a><br><sub>Node base VFX editor for pixel art.</sub></td>
+<td align="right"><b>1,457</b></td>
+<td align="right">97</td>
+<td>Game Maker Language</td>
 </tr>
 <tr>
 <td align="right">39</td>
-<td><img src="https://github.com/Ttanasart-pt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Ttanasart-pt/Pixel-Composer"><b>Ttanasart-pt/Pixel-Composer</b></a><br><sub>Node base VFX editor for pixel art.</sub></td>
-<td align="right"><b>1,452</b></td>
-<td align="right">96</td>
-<td>Game Maker Language</td>
+<td><img src="https://github.com/sahilm.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sahilm/fuzzy"><b>sahilm/fuzzy</b></a><br><sub>Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, V…</sub></td>
+<td align="right"><b>1,454</b></td>
+<td align="right">69</td>
+<td>Go</td>
 </tr>
 <tr>
 <td align="right">40</td>
 <td><img src="https://github.com/gohugo-ananke.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gohugo-ananke/ananke"><b>gohugo-ananke/ananke</b></a><br><sub>Ananke: A theme for Hugo Sites</sub></td>
-<td align="right"><b>1,400</b></td>
-<td align="right">1,224</td>
+<td align="right"><b>1,399</b></td>
+<td align="right">1,225</td>
 <td>CSS</td>
 </tr>
 <tr>
@@ -312,41 +312,41 @@
 <td align="right">42</td>
 <td><img src="https://github.com/riverrun.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/riverrun/comeonin"><b>riverrun/comeonin</b></a><br><sub>Password hashing specification for the Elixir programming language</sub></td>
 <td align="right"><b>1,317</b></td>
-<td align="right">63</td>
+<td align="right">62</td>
 <td>Elixir</td>
 </tr>
 <tr>
 <td align="right">43</td>
 <td><img src="https://github.com/thClaws.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thClaws/thClaws"><b>thClaws/thClaws</b></a><br><sub>Open-source AI agent harness in native Rust — GUI, CLI, headless, and webapp from one binary. Multi-provider, MCP, skil…</sub></td>
-<td align="right"><b>1,267</b></td>
+<td align="right"><b>1,269</b></td>
 <td align="right">190</td>
 <td>Rust</td>
 </tr>
 <tr>
 <td align="right">44</td>
 <td><img src="https://github.com/jiangqizheng.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jiangqizheng/BlueSea"><b>jiangqizheng/BlueSea</b></a><br><sub>BlueSea，一个有趣的英语学习扩展，支持划词翻译、单词高亮、单词弹幕、记忆曲线复习、词频统计...</sub></td>
-<td align="right"><b>1,237</b></td>
+<td align="right"><b>1,238</b></td>
 <td align="right">110</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">45</td>
+<td><img src="https://github.com/syabro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/syabro/neat-annotations"><b>syabro/neat-annotations</b></a><br><sub>Hand-drawn CSS annotations for inline content</sub></td>
+<td align="right"><b>1,197</b></td>
+<td align="right">29</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">46</td>
 <td><img src="https://github.com/vivchar.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vivchar/RendererRecyclerViewAdapter"><b>vivchar/RendererRecyclerViewAdapter</b></a><br><sub>A single adapter with multiple view types for the whole project</sub></td>
 <td align="right"><b>1,196</b></td>
 <td align="right">180</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">46</td>
-<td><img src="https://github.com/syabro.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/syabro/neat-annotations"><b>syabro/neat-annotations</b></a><br><sub>Hand-drawn CSS annotations for inline content</sub></td>
-<td align="right"><b>1,191</b></td>
-<td align="right">29</td>
-<td>HTML</td>
-</tr>
-<tr>
 <td align="right">47</td>
 <td><img src="https://github.com/PyThaiNLP.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PyThaiNLP/pythainlp"><b>PyThaiNLP/pythainlp</b></a><br><sub>Thai natural language processing in Python</sub></td>
-<td align="right"><b>1,175</b></td>
+<td align="right"><b>1,176</b></td>
 <td align="right">306</td>
 <td>Python</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 540 stars; 143 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 540 stars; 150 attributed candidates are tracked.
 - 113 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 185 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

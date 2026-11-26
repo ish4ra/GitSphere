@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **824** | 22 Nov 2026 | <a href="../../data/developers/NG.json">JSON</a> |
+| 🟡 Provisional | **882** | 22 Nov 2026 | <a href="../../data/developers/NG.json">JSON</a> |
 
 </div>
 
@@ -996,24 +996,24 @@
 </tr>
 <tr>
 <td align="right">140</td>
+<td><a href="https://github.com/FeezyHendrix"><img src="https://avatars.githubusercontent.com/u/27918971?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FeezyHendrix"><b>HNDRX</b></a><br><sub>&#64;FeezyHendrix</sub></td>
+<td align="right"><b>243</b></td>
+<td align="right">42</td>
+<td><sub>Lagos, Nigeria.</sub></td>
+</tr>
+<tr>
+<td align="right">141</td>
 <td><a href="https://github.com/Timidan"><img src="https://avatars.githubusercontent.com/u/25876969?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Timidan"><b>Timidan</b></a><br><sub>&#64;Timidan</sub></td>
 <td align="right"><b>242</b></td>
 <td align="right">143</td>
 <td><sub>Akure,Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">141</td>
+<td align="right">142</td>
 <td><a href="https://github.com/stephenjude"><img src="https://avatars.githubusercontent.com/u/31182887?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stephenjude"><b>Stephen Jude</b></a><br><sub>&#64;stephenjude</sub></td>
 <td align="right"><b>242</b></td>
 <td align="right">56</td>
 <td><sub>Abuja, Nigeria</sub></td>
-</tr>
-<tr>
-<td align="right">142</td>
-<td><a href="https://github.com/FeezyHendrix"><img src="https://avatars.githubusercontent.com/u/27918971?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FeezyHendrix"><b>HNDRX</b></a><br><sub>&#64;FeezyHendrix</sub></td>
-<td align="right"><b>242</b></td>
-<td align="right">42</td>
-<td><sub>Lagos, Nigeria.</sub></td>
 </tr>
 <tr>
 <td align="right">143</td>
@@ -2368,3422 +2368,3828 @@
 </tr>
 <tr>
 <td align="right">336</td>
+<td><a href="https://github.com/Khelechy"><img src="https://avatars.githubusercontent.com/u/31822485?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Khelechy"><b>Kelechi Onyekwere</b></a><br><sub>&#64;Khelechy</sub></td>
+<td align="right"><b>150</b></td>
+<td align="right">44</td>
+<td><sub>Lagos, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">337</td>
+<td><a href="https://github.com/ezesundayeze"><img src="https://avatars.githubusercontent.com/u/12452884?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ezesundayeze"><b>Eze Sunday</b></a><br><sub>&#64;ezesundayeze</sub></td>
+<td align="right"><b>149</b></td>
+<td align="right">237</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">338</td>
+<td><a href="https://github.com/Adesoji1"><img src="https://avatars.githubusercontent.com/u/20457308?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Adesoji1"><b>Adesoji Alu</b></a><br><sub>&#64;Adesoji1</sub></td>
+<td align="right"><b>149</b></td>
+<td align="right">230</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">339</td>
+<td><a href="https://github.com/geekyahmed"><img src="https://avatars.githubusercontent.com/u/42346847?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/geekyahmed"><b>Ahmed Bankole</b></a><br><sub>&#64;geekyahmed</sub></td>
+<td align="right"><b>149</b></td>
+<td align="right">121</td>
+<td><sub>Lagos, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">340</td>
+<td><a href="https://github.com/olahfemi"><img src="https://avatars.githubusercontent.com/u/11141249?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/olahfemi"><b>Femi Olah</b></a><br><sub>&#64;olahfemi</sub></td>
+<td align="right"><b>149</b></td>
+<td align="right">97</td>
+<td><sub>Lagos, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">341</td>
+<td><a href="https://github.com/sayopaul"><img src="https://avatars.githubusercontent.com/u/21235901?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sayopaul"><b>Sayo Paul</b></a><br><sub>&#64;sayopaul</sub></td>
+<td align="right"><b>149</b></td>
+<td align="right">71</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">342</td>
+<td><a href="https://github.com/daviddozie"><img src="https://avatars.githubusercontent.com/u/134082528?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/daviddozie"><b>david&#95;dozie</b></a><br><sub>&#64;daviddozie</sub></td>
+<td align="right"><b>149</b></td>
+<td align="right">69</td>
+<td><sub>Lagos, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">343</td>
+<td><a href="https://github.com/taiwofelix35"><img src="https://avatars.githubusercontent.com/u/74764413?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/taiwofelix35"><b>CyberFelix</b></a><br><sub>&#64;taiwofelix35</sub></td>
+<td align="right"><b>149</b></td>
+<td align="right">17</td>
+<td><sub>Lagos Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">344</td>
+<td><a href="https://github.com/awesomemikeinc"><img src="https://avatars.githubusercontent.com/u/78358364?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/awesomemikeinc"><b>Mike Akerele</b></a><br><sub>&#64;awesomemikeinc</sub></td>
+<td align="right"><b>149</b></td>
+<td align="right">10</td>
+<td><sub>Ibadan, Oyo State, Nigeria.</sub></td>
+</tr>
+<tr>
+<td align="right">345</td>
+<td><a href="https://github.com/Kiraadaves"><img src="https://avatars.githubusercontent.com/u/85520528?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kiraadaves"><b>Chinwe Chukwuogor</b></a><br><sub>&#64;Kiraadaves</sub></td>
+<td align="right"><b>148</b></td>
+<td align="right">66</td>
+<td><sub>Lagos</sub></td>
+</tr>
+<tr>
+<td align="right">346</td>
+<td><a href="https://github.com/xcoded1"><img src="https://avatars.githubusercontent.com/u/39351578?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xcoded1"><b>Mr. Matt</b></a><br><sub>&#64;xcoded1</sub></td>
+<td align="right"><b>148</b></td>
+<td align="right">3</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">347</td>
+<td><a href="https://github.com/Mcsavvy"><img src="https://avatars.githubusercontent.com/u/71782047?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mcsavvy"><b>David &#91;Chukwumeka&#93; John</b></a><br><sub>&#64;Mcsavvy</sub></td>
+<td align="right"><b>147</b></td>
+<td align="right">177</td>
+<td><sub>Lagos, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">348</td>
+<td><a href="https://github.com/emmanuel-455"><img src="https://avatars.githubusercontent.com/u/120824375?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/emmanuel-455"><b>Ngene Arinzechukwu</b></a><br><sub>&#64;emmanuel-455</sub></td>
+<td align="right"><b>147</b></td>
+<td align="right">87</td>
+<td><sub>FCT, Abuja</sub></td>
+</tr>
+<tr>
+<td align="right">349</td>
+<td><a href="https://github.com/Pelumiade"><img src="https://avatars.githubusercontent.com/u/107613799?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Pelumiade"><b>&#95;Labbie</b></a><br><sub>&#64;Pelumiade</sub></td>
+<td align="right"><b>147</b></td>
+<td align="right">41</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">350</td>
+<td><a href="https://github.com/GoodnessEzeokafor"><img src="https://avatars.githubusercontent.com/u/33170325?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GoodnessEzeokafor"><b>Ezeokafor</b></a><br><sub>&#64;GoodnessEzeokafor</sub></td>
+<td align="right"><b>146</b></td>
+<td align="right">507</td>
+<td><sub>Jos</sub></td>
+</tr>
+<tr>
+<td align="right">351</td>
+<td><a href="https://github.com/dotmarn"><img src="https://avatars.githubusercontent.com/u/18660010?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dotmarn"><b>Ridwan Kasim</b></a><br><sub>&#64;dotmarn</sub></td>
+<td align="right"><b>146</b></td>
+<td align="right">153</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">352</td>
+<td><a href="https://github.com/Uhiene"><img src="https://avatars.githubusercontent.com/u/107491357?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Uhiene"><b>Code Duchess</b></a><br><sub>&#64;Uhiene</sub></td>
+<td align="right"><b>146</b></td>
+<td align="right">43</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">353</td>
+<td><a href="https://github.com/Adeleye080"><img src="https://avatars.githubusercontent.com/u/99315474?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Adeleye080"><b>Ajiboye Pius Adeleye</b></a><br><sub>&#64;Adeleye080</sub></td>
+<td align="right"><b>146</b></td>
+<td align="right">20</td>
+<td><sub>Ibadan, Nigeria.</sub></td>
+</tr>
+<tr>
+<td align="right">354</td>
+<td><a href="https://github.com/engraya"><img src="https://avatars.githubusercontent.com/u/115407251?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/engraya"><b>Ahmad Yakubu Ahmad</b></a><br><sub>&#64;engraya</sub></td>
+<td align="right"><b>145</b></td>
+<td align="right">224</td>
+<td><sub>Yobe, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">355</td>
+<td><a href="https://github.com/Taycode"><img src="https://avatars.githubusercontent.com/u/36048005?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Taycode"><b>Abdulmateen Tairu</b></a><br><sub>&#64;Taycode</sub></td>
+<td align="right"><b>145</b></td>
+<td align="right">104</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">356</td>
+<td><a href="https://github.com/Juadebfm"><img src="https://avatars.githubusercontent.com/u/97069600?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Juadebfm"><b>Julius Adebowale Gabriel</b></a><br><sub>&#64;Juadebfm</sub></td>
+<td align="right"><b>145</b></td>
+<td align="right">42</td>
+<td><sub>Lagos, Nigeria.</sub></td>
+</tr>
+<tr>
+<td align="right">357</td>
+<td><a href="https://github.com/freshposh-code"><img src="https://avatars.githubusercontent.com/u/118695864?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/freshposh-code"><b>Farouk Olawuyi</b></a><br><sub>&#64;freshposh-code</sub></td>
+<td align="right"><b>145</b></td>
+<td align="right">34</td>
+<td><sub>Lagos\Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">358</td>
+<td><a href="https://github.com/Gloriouskaycee"><img src="https://avatars.githubusercontent.com/u/78406836?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Gloriouskaycee"><b>GloriousKaycee</b></a><br><sub>&#64;Gloriouskaycee</sub></td>
+<td align="right"><b>145</b></td>
+<td align="right">1</td>
+<td><sub>Lagos</sub></td>
+</tr>
+<tr>
+<td align="right">359</td>
+<td><a href="https://github.com/claraenta"><img src="https://avatars.githubusercontent.com/u/72790648?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/claraenta"><b>claraenta</b></a><br><sub>&#64;claraenta</sub></td>
+<td align="right"><b>145</b></td>
+<td align="right">0</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">360</td>
+<td><a href="https://github.com/PiusLucky"><img src="https://avatars.githubusercontent.com/u/32282934?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PiusLucky"><b>Pius Lucky</b></a><br><sub>&#64;PiusLucky</sub></td>
+<td align="right"><b>144</b></td>
+<td align="right">217</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">361</td>
+<td><a href="https://github.com/John-pels"><img src="https://avatars.githubusercontent.com/u/40374384?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/John-pels"><b>John O. Emmanuel</b></a><br><sub>&#64;John-pels</sub></td>
+<td align="right"><b>144</b></td>
+<td align="right">100</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">362</td>
+<td><a href="https://github.com/mitmelon"><img src="https://avatars.githubusercontent.com/u/55149512?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mitmelon"><b>Adeyeye George</b></a><br><sub>&#64;mitmelon</sub></td>
+<td align="right"><b>144</b></td>
+<td align="right">91</td>
+<td><sub>Akure, Ondo State, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">363</td>
+<td><a href="https://github.com/jeremy0x"><img src="https://avatars.githubusercontent.com/u/87664239?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jeremy0x"><b>Jeremy</b></a><br><sub>&#64;jeremy0x</sub></td>
+<td align="right"><b>144</b></td>
+<td align="right">59</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">364</td>
+<td><a href="https://github.com/king101-bit"><img src="https://avatars.githubusercontent.com/u/69579338?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/king101-bit"><b>Zack</b></a><br><sub>&#64;king101-bit</sub></td>
+<td align="right"><b>144</b></td>
+<td align="right">48</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">365</td>
+<td><a href="https://github.com/jerryjat994"><img src="https://avatars.githubusercontent.com/u/78351926?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jerryjat994"><b>Jerry Jat</b></a><br><sub>&#64;jerryjat994</sub></td>
+<td align="right"><b>144</b></td>
+<td align="right">14</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">366</td>
+<td><a href="https://github.com/ojengwa"><img src="https://avatars.githubusercontent.com/u/3935007?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ojengwa"><b>Bernard Ojengwa</b></a><br><sub>&#64;ojengwa</sub></td>
+<td align="right"><b>143</b></td>
+<td align="right">372</td>
+<td><sub>Lagos, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">367</td>
+<td><a href="https://github.com/henrynnamani"><img src="https://avatars.githubusercontent.com/u/97439022?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/henrynnamani"><b>Henry</b></a><br><sub>&#64;henrynnamani</sub></td>
+<td align="right"><b>143</b></td>
+<td align="right">246</td>
+<td><sub>Enugu, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">368</td>
+<td><a href="https://github.com/ayodejiades"><img src="https://avatars.githubusercontent.com/u/93299337?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ayodejiades"><b>Ayodeji Adesegun</b></a><br><sub>&#64;ayodejiades</sub></td>
+<td align="right"><b>143</b></td>
+<td align="right">97</td>
+<td><sub>Lagos, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">369</td>
+<td><a href="https://github.com/kraziegent"><img src="https://avatars.githubusercontent.com/u/2316853?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kraziegent"><b>Peter Olumolu</b></a><br><sub>&#64;kraziegent</sub></td>
+<td align="right"><b>143</b></td>
+<td align="right">80</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">370</td>
+<td><a href="https://github.com/Nightburnn"><img src="https://avatars.githubusercontent.com/u/62528557?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nightburnn"><b>Nightburn</b></a><br><sub>&#64;Nightburnn</sub></td>
+<td align="right"><b>143</b></td>
+<td align="right">73</td>
+<td><sub>Lagos</sub></td>
+</tr>
+<tr>
+<td align="right">371</td>
+<td><a href="https://github.com/springboot20"><img src="https://avatars.githubusercontent.com/u/100578205?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/springboot20"><b>Abbas opeyemi</b></a><br><sub>&#64;springboot20</sub></td>
+<td align="right"><b>143</b></td>
+<td align="right">53</td>
+<td><sub>Adjacent Seventh Day Adventist Student Fellowsh…</sub></td>
+</tr>
+<tr>
+<td align="right">372</td>
+<td><a href="https://github.com/ayobamy"><img src="https://avatars.githubusercontent.com/u/59466195?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ayobamy"><b>Ahmed Olawale</b></a><br><sub>&#64;ayobamy</sub></td>
+<td align="right"><b>142</b></td>
+<td align="right">101</td>
+<td><sub>Ibadan, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">373</td>
+<td><a href="https://github.com/Lotacodic"><img src="https://avatars.githubusercontent.com/u/85711426?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Lotacodic"><b>Joshua Ngene</b></a><br><sub>&#64;Lotacodic</sub></td>
+<td align="right"><b>142</b></td>
+<td align="right">62</td>
+<td><sub>Lagos</sub></td>
+</tr>
+<tr>
+<td align="right">374</td>
+<td><a href="https://github.com/isaacadariku"><img src="https://avatars.githubusercontent.com/u/46024202?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/isaacadariku"><b>Isaac Adariku</b></a><br><sub>&#64;isaacadariku</sub></td>
+<td align="right"><b>142</b></td>
+<td align="right">51</td>
+<td><sub>Kaduna, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">375</td>
+<td><a href="https://github.com/jomojay"><img src="https://avatars.githubusercontent.com/u/101427502?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jomojay"><b>Jamiu Shomoye</b></a><br><sub>&#64;jomojay</sub></td>
+<td align="right"><b>142</b></td>
+<td align="right">48</td>
+<td><sub>Lagos, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">376</td>
+<td><a href="https://github.com/williamssam"><img src="https://avatars.githubusercontent.com/u/68322437?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/williamssam"><b>Williams Samuel</b></a><br><sub>&#64;williamssam</sub></td>
+<td align="right"><b>142</b></td>
+<td align="right">35</td>
+<td><sub>Lagos, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">377</td>
+<td><a href="https://github.com/Vicante-Studio"><img src="https://avatars.githubusercontent.com/u/201077996?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Vicante-Studio"><b>Victory Batubo</b></a><br><sub>&#64;Vicante-Studio</sub></td>
+<td align="right"><b>142</b></td>
+<td align="right">31</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">378</td>
+<td><a href="https://github.com/sansa-zyno"><img src="https://avatars.githubusercontent.com/u/69856348?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sansa-zyno"><b>Sansaliu Hassan</b></a><br><sub>&#64;sansa-zyno</sub></td>
+<td align="right"><b>142</b></td>
+<td align="right">29</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">379</td>
+<td><a href="https://github.com/iretiola-007"><img src="https://avatars.githubusercontent.com/u/215890716?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iretiola-007"><b>Iretiola</b></a><br><sub>&#64;iretiola-007</sub></td>
+<td align="right"><b>142</b></td>
+<td align="right">19</td>
+<td><sub>Lagos, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">380</td>
+<td><a href="https://github.com/DanielMabadeje"><img src="https://avatars.githubusercontent.com/u/44170956?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DanielMabadeje"><b>Daniel Mabadeje</b></a><br><sub>&#64;DanielMabadeje</sub></td>
+<td align="right"><b>141</b></td>
+<td align="right">193</td>
+<td><sub>Uyo, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">381</td>
+<td><a href="https://github.com/hassadem"><img src="https://avatars.githubusercontent.com/u/35954739?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hassadem"><b>Isa Hassan</b></a><br><sub>&#64;hassadem</sub></td>
+<td align="right"><b>141</b></td>
+<td align="right">63</td>
+<td><sub>Abeokuta, Ogun State</sub></td>
+</tr>
+<tr>
+<td align="right">382</td>
+<td><a href="https://github.com/divinepatrick"><img src="https://avatars.githubusercontent.com/u/132227658?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/divinepatrick"><b>Divine Patrick</b></a><br><sub>&#64;divinepatrick</sub></td>
+<td align="right"><b>141</b></td>
+<td align="right">46</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">383</td>
+<td><a href="https://github.com/johnkoye19"><img src="https://avatars.githubusercontent.com/u/93558021?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/johnkoye19"><b>John Kenechukwu Okoye</b></a><br><sub>&#64;johnkoye19</sub></td>
+<td align="right"><b>141</b></td>
+<td align="right">37</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">384</td>
+<td><a href="https://github.com/Iamtsquare07"><img src="https://avatars.githubusercontent.com/u/68505976?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Iamtsquare07"><b>Victor Tyavbee</b></a><br><sub>&#64;Iamtsquare07</sub></td>
+<td align="right"><b>140</b></td>
+<td align="right">65</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">385</td>
+<td><a href="https://github.com/vicradon"><img src="https://avatars.githubusercontent.com/u/40396070?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vicradon"><b>Osinachi Chukwujama</b></a><br><sub>&#64;vicradon</sub></td>
+<td align="right"><b>140</b></td>
+<td align="right">8</td>
+<td><sub>Lagos, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">386</td>
+<td><a href="https://github.com/Brymes"><img src="https://avatars.githubusercontent.com/u/31880602?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Brymes"><b>Timothy Odebunmi</b></a><br><sub>&#64;Brymes</sub></td>
+<td align="right"><b>139</b></td>
+<td align="right">119</td>
+<td><sub>Lagos, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">387</td>
+<td><a href="https://github.com/tobitech"><img src="https://avatars.githubusercontent.com/u/8595853?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tobitech"><b>Tobi Omotayo</b></a><br><sub>&#64;tobitech</sub></td>
+<td align="right"><b>139</b></td>
+<td align="right">70</td>
+<td><sub>Lagos, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">388</td>
+<td><a href="https://github.com/hephzibahij"><img src="https://avatars.githubusercontent.com/u/128981877?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hephzibahij"><b>Hephzibah Owoma</b></a><br><sub>&#64;hephzibahij</sub></td>
+<td align="right"><b>139</b></td>
+<td align="right">63</td>
+<td><sub>Port-harcourt, Rivers state</sub></td>
+</tr>
+<tr>
+<td align="right">389</td>
+<td><a href="https://github.com/swagasoft"><img src="https://avatars.githubusercontent.com/u/45198485?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/swagasoft"><b>Simon Jerry</b></a><br><sub>&#64;swagasoft</sub></td>
+<td align="right"><b>138</b></td>
+<td align="right">103</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">390</td>
+<td><a href="https://github.com/skylineict"><img src="https://avatars.githubusercontent.com/u/67354573?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/skylineict"><b>Skyline Macaulay</b></a><br><sub>&#64;skylineict</sub></td>
+<td align="right"><b>138</b></td>
+<td align="right">33</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">391</td>
+<td><a href="https://github.com/OnyeEbube"><img src="https://avatars.githubusercontent.com/u/101593852?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OnyeEbube"><b>Onyeka Okonta</b></a><br><sub>&#64;OnyeEbube</sub></td>
+<td align="right"><b>138</b></td>
+<td align="right">31</td>
+<td><sub>Lagos, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">392</td>
 <td><a href="https://github.com/damms005"><img src="https://avatars.githubusercontent.com/u/9839355?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/damms005"><b>Damilola Emmanuel Olowookere</b></a><br><sub>&#64;damms005</sub></td>
 <td align="right"><b>115</b></td>
 <td align="right">0</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">337</td>
+<td align="right">393</td>
 <td><a href="https://github.com/panshak"><img src="https://avatars.githubusercontent.com/u/15835693?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/panshak"><b>Panshak Solomon</b></a><br><sub>&#64;panshak</sub></td>
 <td align="right"><b>108</b></td>
 <td align="right">0</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">338</td>
+<td align="right">394</td>
 <td><a href="https://github.com/thecodearcher"><img src="https://avatars.githubusercontent.com/u/20669921?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thecodearcher"><b>Brian Iyoha</b></a><br><sub>&#64;thecodearcher</sub></td>
 <td align="right"><b>104</b></td>
 <td align="right">0</td>
 <td><sub>Abuja, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">339</td>
+<td align="right">395</td>
 <td><a href="https://github.com/KhalidMujahid"><img src="https://avatars.githubusercontent.com/u/66231619?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/KhalidMujahid"><b>KhalidMujahid</b></a><br><sub>&#64;KhalidMujahid</sub></td>
 <td align="right"><b>86</b></td>
 <td align="right">120</td>
 <td><sub>Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">340</td>
+<td align="right">396</td>
 <td><a href="https://github.com/eadwinCode"><img src="https://avatars.githubusercontent.com/u/16435810?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eadwinCode"><b>Tochukwu</b></a><br><sub>&#64;eadwinCode</sub></td>
 <td align="right"><b>86</b></td>
 <td align="right">0</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">341</td>
+<td align="right">397</td>
 <td><a href="https://github.com/Simonidokodavid"><img src="https://avatars.githubusercontent.com/u/120262721?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Simonidokodavid"><b>Simon Idoko David</b></a><br><sub>&#64;Simonidokodavid</sub></td>
 <td align="right"><b>76</b></td>
 <td align="right">1</td>
 <td><sub>Niger State, Nigeria.</sub></td>
 </tr>
 <tr>
-<td align="right">342</td>
+<td align="right">398</td>
 <td><a href="https://github.com/sirrobot01"><img src="https://avatars.githubusercontent.com/u/32229538?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sirrobot01"><b>Mukhtar Akere</b></a><br><sub>&#64;sirrobot01</sub></td>
 <td align="right"><b>70</b></td>
 <td align="right">0</td>
 <td><sub>Abuja, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">343</td>
+<td align="right">399</td>
+<td><a href="https://github.com/adigunsherif"><img src="https://avatars.githubusercontent.com/u/30326604?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adigunsherif"><b>Sherif Adigun</b></a><br><sub>&#64;adigunsherif</sub></td>
+<td align="right"><b>65</b></td>
+<td align="right">0</td>
+<td><sub>Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">400</td>
 <td><a href="https://github.com/IzyPro"><img src="https://avatars.githubusercontent.com/u/45710398?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IzyPro"><b>Israel Ulelu</b></a><br><sub>&#64;IzyPro</sub></td>
 <td align="right"><b>61</b></td>
 <td align="right">0</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">344</td>
+<td align="right">401</td>
 <td><a href="https://github.com/hilory16"><img src="https://avatars.githubusercontent.com/u/46109616?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hilory16"><b>Olamide Ilori</b></a><br><sub>&#64;hilory16</sub></td>
 <td align="right"><b>58</b></td>
 <td align="right">0</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">345</td>
+<td align="right">402</td>
 <td><a href="https://github.com/eyeke04"><img src="https://avatars.githubusercontent.com/u/10612514?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eyeke04"><b>iKey</b></a><br><sub>&#64;eyeke04</sub></td>
 <td align="right"><b>52</b></td>
 <td align="right">0</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">346</td>
+<td align="right">403</td>
 <td><a href="https://github.com/zaarab001"><img src="https://avatars.githubusercontent.com/u/40491105?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zaarab001"><b>Memunat Manzuma</b></a><br><sub>&#64;zaarab001</sub></td>
 <td align="right"><b>49</b></td>
 <td align="right">90</td>
 <td><sub>Minna, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">347</td>
+<td align="right">404</td>
 <td><a href="https://github.com/AbdulConsole"><img src="https://avatars.githubusercontent.com/u/32968202?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AbdulConsole"><b>Abdul Console</b></a><br><sub>&#64;AbdulConsole</sub></td>
 <td align="right"><b>48</b></td>
 <td align="right">67</td>
 <td><sub>Minna, Niger state, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">348</td>
+<td align="right">405</td>
 <td><a href="https://github.com/mykewheeler"><img src="https://avatars.githubusercontent.com/u/121266356?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mykewheeler"><b>Michael Adebiyi Temi-tope</b></a><br><sub>&#64;mykewheeler</sub></td>
 <td align="right"><b>46</b></td>
 <td align="right">0</td>
 <td><sub>Minna, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">349</td>
+<td align="right">406</td>
+<td><a href="https://github.com/flexcomng"><img src="https://avatars.githubusercontent.com/u/58414925?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/flexcomng"><b>Flexcom Systems</b></a><br><sub>&#64;flexcomng</sub></td>
+<td align="right"><b>45</b></td>
+<td align="right">0</td>
+<td><sub>Lagos, Nigeria</sub></td>
+</tr>
+<tr>
+<td align="right">407</td>
 <td><a href="https://github.com/brothertech"><img src="https://avatars.githubusercontent.com/u/50618089?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brothertech"><b>Oguntuyi Abiodun</b></a><br><sub>&#64;brothertech</sub></td>
 <td align="right"><b>44</b></td>
 <td align="right">35</td>
 <td><sub>Minna, Niger State, NIgeria</sub></td>
 </tr>
 <tr>
-<td align="right">350</td>
+<td align="right">408</td>
 <td><a href="https://github.com/demystik"><img src="https://avatars.githubusercontent.com/u/105487086?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/demystik"><b>Abdrasheed Thaoban</b></a><br><sub>&#64;demystik</sub></td>
 <td align="right"><b>38</b></td>
 <td align="right">43</td>
 <td><sub>Niger state, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">351</td>
+<td align="right">409</td>
 <td><a href="https://github.com/davidakpele"><img src="https://avatars.githubusercontent.com/u/85837238?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davidakpele"><b>David Ak</b></a><br><sub>&#64;davidakpele</sub></td>
 <td align="right"><b>29</b></td>
 <td align="right">0</td>
 <td><sub>Lagos</sub></td>
 </tr>
 <tr>
-<td align="right">352</td>
+<td align="right">410</td>
 <td><a href="https://github.com/AdekeyeAdeniyi"><img src="https://avatars.githubusercontent.com/u/57262658?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AdekeyeAdeniyi"><b>Emmanuel Adeniyi Adekeye</b></a><br><sub>&#64;AdekeyeAdeniyi</sub></td>
 <td align="right"><b>13</b></td>
 <td align="right">85</td>
 <td><sub>Minna, Niger</sub></td>
 </tr>
 <tr>
-<td align="right">353</td>
+<td align="right">411</td>
 <td><a href="https://github.com/AshafaHub"><img src="https://avatars.githubusercontent.com/u/120262711?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AshafaHub"><b>Abdulkadir Ashafa</b></a><br><sub>&#64;AshafaHub</sub></td>
 <td align="right"><b>13</b></td>
 <td align="right">2</td>
 <td><sub>Minna, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">354</td>
+<td align="right">412</td>
 <td><a href="https://github.com/tech-911"><img src="https://avatars.githubusercontent.com/u/61203357?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tech-911"><b>Babatunde Eric Olatunji</b></a><br><sub>&#64;tech-911</sub></td>
 <td align="right"><b>11</b></td>
 <td align="right">71</td>
 <td><sub>Minna, Niger State. Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">355</td>
+<td align="right">413</td>
 <td><a href="https://github.com/ezechristian"><img src="https://avatars.githubusercontent.com/u/120279763?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ezechristian"><b>Eze Christian (Galaxy)</b></a><br><sub>&#64;ezechristian</sub></td>
 <td align="right"><b>11</b></td>
 <td align="right">2</td>
 <td><sub>Minna, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">356</td>
+<td align="right">414</td>
 <td><a href="https://github.com/FavourDarasimi"><img src="https://avatars.githubusercontent.com/u/102739483?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FavourDarasimi"><b>Darasimi Olaniran Favour</b></a><br><sub>&#64;FavourDarasimi</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">49</td>
 <td><sub>Minna, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">357</td>
+<td align="right">415</td>
 <td><a href="https://github.com/HonourObed"><img src="https://avatars.githubusercontent.com/u/120287165?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HonourObed"><b>Eje Obed Honour</b></a><br><sub>&#64;HonourObed</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">13</td>
 <td><sub>Minna, Niger, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">358</td>
+<td align="right">416</td>
 <td><a href="https://github.com/volunux"><img src="https://avatars.githubusercontent.com/u/37976953?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/volunux"><b>Yusuf Musa</b></a><br><sub>&#64;volunux</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">49</td>
 <td><sub>Minna, Niger State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">359</td>
+<td align="right">417</td>
 <td><a href="https://github.com/abbabashir"><img src="https://avatars.githubusercontent.com/u/47045181?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abbabashir"><b>Bashir Aliyu</b></a><br><sub>&#64;abbabashir</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">34</td>
 <td><sub>Nigeria, minna, Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">360</td>
+<td align="right">418</td>
 <td><a href="https://github.com/adeiza65"><img src="https://avatars.githubusercontent.com/u/120298464?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adeiza65"><b>Abdulhameed Ibrahim</b></a><br><sub>&#64;adeiza65</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">4</td>
 <td><sub>Suleja, Niger State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">361</td>
+<td align="right">419</td>
 <td><a href="https://github.com/Olagunju9148"><img src="https://avatars.githubusercontent.com/u/65431481?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Olagunju9148"><b>ItsJustMe41</b></a><br><sub>&#64;Olagunju9148</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">21</td>
 <td><sub>Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">362</td>
+<td align="right">420</td>
 <td><a href="https://github.com/danladi-daniella"><img src="https://avatars.githubusercontent.com/u/108178937?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danladi-daniella"><b>Dani-Ella</b></a><br><sub>&#64;danladi-daniella</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">5</td>
 <td><sub>Minna, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">363</td>
+<td align="right">421</td>
 <td><a href="https://github.com/lorens247"><img src="https://avatars.githubusercontent.com/u/43246123?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lorens247"><b>Lawrence Ikhidero</b></a><br><sub>&#64;lorens247</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">62</td>
 <td><sub>Niger Delta, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">364</td>
+<td align="right">422</td>
 <td><a href="https://github.com/Elixir-sir"><img src="https://avatars.githubusercontent.com/u/150801856?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Elixir-sir"><b>Mohammed Alhassan</b></a><br><sub>&#64;Elixir-sir</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">8</td>
 <td><sub>Minna, Niger State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">365</td>
+<td align="right">423</td>
 <td><a href="https://github.com/0xzulkifilu"><img src="https://avatars.githubusercontent.com/u/120320452?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xzulkifilu"><b>Zulkifilu Abdullahi Turawa</b></a><br><sub>&#64;0xzulkifilu</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">6</td>
 <td><sub>Minna, Niger state, Nigeria.</sub></td>
 </tr>
 <tr>
-<td align="right">366</td>
+<td align="right">424</td>
 <td><a href="https://github.com/aBDULLATEEF1247"><img src="https://avatars.githubusercontent.com/u/78103000?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aBDULLATEEF1247"><b>Abdullateef Okunlola</b></a><br><sub>&#64;aBDULLATEEF1247</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">5</td>
 <td><sub>Minna , Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">367</td>
+<td align="right">425</td>
 <td><a href="https://github.com/Duchess4285"><img src="https://avatars.githubusercontent.com/u/120322161?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Duchess4285"><b>Annelia Johnson</b></a><br><sub>&#64;Duchess4285</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">0</td>
 <td><sub>Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">368</td>
+<td align="right">426</td>
 <td><a href="https://github.com/ClintonNwokocha"><img src="https://avatars.githubusercontent.com/u/47521219?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ClintonNwokocha"><b>Clinton Nwokocha</b></a><br><sub>&#64;ClintonNwokocha</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">53</td>
 <td><sub>Minna, Niger State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">369</td>
+<td align="right">427</td>
 <td><a href="https://github.com/dsbtek"><img src="https://avatars.githubusercontent.com/u/63736832?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dsbtek"><b>Muhammad Salihu</b></a><br><sub>&#64;dsbtek</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">52</td>
 <td><sub>Nigeria, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">370</td>
+<td align="right">428</td>
 <td><a href="https://github.com/Ileri005"><img src="https://avatars.githubusercontent.com/u/123390832?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ileri005"><b>Ilerioluwase Adebayo</b></a><br><sub>&#64;Ileri005</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">12</td>
 <td><sub>Minna, Niger, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">371</td>
+<td align="right">429</td>
 <td><a href="https://github.com/Hafmas09"><img src="https://avatars.githubusercontent.com/u/120297130?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hafmas09"><b>Hafsat Abdulsalam</b></a><br><sub>&#64;Hafmas09</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">1</td>
 <td><sub>Kontagora Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">372</td>
+<td align="right">430</td>
 <td><a href="https://github.com/Awwal123"><img src="https://avatars.githubusercontent.com/u/147605823?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Awwal123"><b>Ameer</b></a><br><sub>&#64;Awwal123</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">42</td>
 <td><sub>Minna, Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">373</td>
+<td align="right">431</td>
 <td><a href="https://github.com/Dwalker001"><img src="https://avatars.githubusercontent.com/u/101397022?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dwalker001"><b>Clinton</b></a><br><sub>&#64;Dwalker001</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">8</td>
 <td><sub>Niger State, Minna</sub></td>
 </tr>
 <tr>
-<td align="right">374</td>
+<td align="right">432</td>
 <td><a href="https://github.com/auna007"><img src="https://avatars.githubusercontent.com/u/16418320?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/auna007"><b>Mohammed Awwal Iliyasu</b></a><br><sub>&#64;auna007</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">6</td>
 <td><sub>Nigeria, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">375</td>
+<td align="right">433</td>
 <td><a href="https://github.com/godriches36"><img src="https://avatars.githubusercontent.com/u/199782169?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/godriches36"><b>Sun God Riches</b></a><br><sub>&#64;godriches36</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">3</td>
 <td><sub>Kokori Niger Delta Origin Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">376</td>
+<td align="right">434</td>
 <td><a href="https://github.com/uregiali"><img src="https://avatars.githubusercontent.com/u/120278096?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/uregiali"><b>Aliyu Uregi</b></a><br><sub>&#64;uregiali</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">0</td>
 <td><sub>Niger state, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">377</td>
+<td align="right">435</td>
 <td><a href="https://github.com/thatladtemod"><img src="https://avatars.githubusercontent.com/u/176372005?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thatladtemod"><b>Omoniyi Temitayo</b></a><br><sub>&#64;thatladtemod</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">21</td>
 <td><sub>Minna, Niger</sub></td>
 </tr>
 <tr>
-<td align="right">378</td>
+<td align="right">436</td>
 <td><a href="https://github.com/Zerozel"><img src="https://avatars.githubusercontent.com/u/176962797?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Zerozel"><b>Emiala Destiny Iripia</b></a><br><sub>&#64;Zerozel</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">11</td>
 <td><sub>Futminna, Niger state, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">379</td>
+<td align="right">437</td>
 <td><a href="https://github.com/Haqqconcept"><img src="https://avatars.githubusercontent.com/u/128104268?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Haqqconcept"><b>Abdulhaqq Abdulhakeem(Al-jazari)</b></a><br><sub>&#64;Haqqconcept</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">9</td>
 <td><sub>Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">380</td>
+<td align="right">438</td>
 <td><a href="https://github.com/Martha-Onojeta"><img src="https://avatars.githubusercontent.com/u/70600769?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Martha-Onojeta"><b>Martha Onojeta</b></a><br><sub>&#64;Martha-Onojeta</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">9</td>
 <td><sub>Minna, Niger state of Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">381</td>
+<td align="right">439</td>
 <td><a href="https://github.com/madundako007"><img src="https://avatars.githubusercontent.com/u/56355168?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/madundako007"><b>mohammed landu ndako</b></a><br><sub>&#64;madundako007</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">8</td>
 <td><sub>Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">382</td>
+<td align="right">440</td>
 <td><a href="https://github.com/Atukuwa"><img src="https://avatars.githubusercontent.com/u/105224265?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Atukuwa"><b>Aliyu Tukuwa</b></a><br><sub>&#64;Atukuwa</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">5</td>
 <td><sub>Minna, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">383</td>
+<td align="right">441</td>
 <td><a href="https://github.com/psonthelegend"><img src="https://avatars.githubusercontent.com/u/120276552?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/psonthelegend"><b>Mensch khaleel</b></a><br><sub>&#64;psonthelegend</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
 <td><sub>Minna, Niger State.</sub></td>
 </tr>
 <tr>
-<td align="right">384</td>
+<td align="right">442</td>
 <td><a href="https://github.com/MuhammadGaro"><img src="https://avatars.githubusercontent.com/u/42142658?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MuhammadGaro"><b>Mohammed Abubakar Garo</b></a><br><sub>&#64;MuhammadGaro</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
 <td><sub>Rijau Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">385</td>
+<td align="right">443</td>
 <td><a href="https://github.com/hikmah94"><img src="https://avatars.githubusercontent.com/u/25833092?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hikmah94"><b>Shehu Ibrahim Muhammad</b></a><br><sub>&#64;hikmah94</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">102</td>
 <td><sub>Minna, Niger State, Nigeria and</sub></td>
 </tr>
 <tr>
-<td align="right">386</td>
+<td align="right">444</td>
 <td><a href="https://github.com/idris-md"><img src="https://avatars.githubusercontent.com/u/16309414?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/idris-md"><b>Idris Muhammad</b></a><br><sub>&#64;idris-md</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">17</td>
 <td><sub>Minna,Niger State,Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">387</td>
+<td align="right">445</td>
 <td><a href="https://github.com/Megamindhero"><img src="https://avatars.githubusercontent.com/u/104380704?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Megamindhero"><b>Chigozie Kingsley</b></a><br><sub>&#64;Megamindhero</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">7</td>
 <td><sub>minna, niger state, nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">388</td>
+<td align="right">446</td>
 <td><a href="https://github.com/jerome-ae"><img src="https://avatars.githubusercontent.com/u/106757046?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jerome-ae"><b>Jerome-abba Emmanuel</b></a><br><sub>&#64;jerome-ae</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">5</td>
 <td><sub>Minna,Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">389</td>
+<td align="right">447</td>
 <td><a href="https://github.com/youngsamconcepts"><img src="https://avatars.githubusercontent.com/u/165679370?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/youngsamconcepts"><b>Young Sam</b></a><br><sub>&#64;youngsamconcepts</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">5</td>
 <td><sub>Suleja ,Niger State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">390</td>
+<td align="right">448</td>
 <td><a href="https://github.com/ibfarukk"><img src="https://avatars.githubusercontent.com/u/88953169?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ibfarukk"><b>Isah Bala faruk</b></a><br><sub>&#64;ibfarukk</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">4</td>
 <td><sub>Office 9, Achida Plaza, Opposite JEFLA, Beside…</sub></td>
 </tr>
 <tr>
-<td align="right">391</td>
+<td align="right">449</td>
 <td><a href="https://github.com/Qeesbabe"><img src="https://avatars.githubusercontent.com/u/53369611?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Qeesbabe"><b>Balkisu Muhammed</b></a><br><sub>&#64;Qeesbabe</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">4</td>
 <td><sub>Niger State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">392</td>
+<td align="right">450</td>
 <td><a href="https://github.com/ComradeDaudamahmudkakihum"><img src="https://avatars.githubusercontent.com/u/120304460?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ComradeDaudamahmudkakihum"><b>Dauda Mahmud kakihum</b></a><br><sub>&#64;ComradeDaudamahmudkakihum</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">3</td>
 <td><sub>Minna niger state</sub></td>
 </tr>
 <tr>
-<td align="right">393</td>
+<td align="right">451</td>
 <td><a href="https://github.com/Abiola38"><img src="https://avatars.githubusercontent.com/u/120277741?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abiola38"><b>Abiola38</b></a><br><sub>&#64;Abiola38</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
 <td><sub>Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">394</td>
+<td align="right">452</td>
 <td><a href="https://github.com/emmasubiaro-create"><img src="https://avatars.githubusercontent.com/u/262837434?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/emmasubiaro-create"><b>Emmanuella Asubiaro</b></a><br><sub>&#64;emmasubiaro-create</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
 <td><sub>Minna, Niger state. Nigeria.</sub></td>
 </tr>
 <tr>
-<td align="right">395</td>
+<td align="right">453</td>
 <td><a href="https://github.com/Alkali021"><img src="https://avatars.githubusercontent.com/u/120274070?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alkali021"><b>Kassim Usman Alkali</b></a><br><sub>&#64;Alkali021</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
 <td><sub>Bida, Niger State.</sub></td>
 </tr>
 <tr>
-<td align="right">396</td>
+<td align="right">454</td>
 <td><a href="https://github.com/Auwal001"><img src="https://avatars.githubusercontent.com/u/120309283?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Auwal001"><b>Auwal Mohammed</b></a><br><sub>&#64;Auwal001</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
 <td><sub>Kontagora Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">397</td>
+<td align="right">455</td>
 <td><a href="https://github.com/RISQUAT123"><img src="https://avatars.githubusercontent.com/u/101178122?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RISQUAT123"><b>Risquat</b></a><br><sub>&#64;RISQUAT123</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">38</td>
 <td><sub>Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">398</td>
+<td align="right">456</td>
 <td><a href="https://github.com/PeterManassehOz"><img src="https://avatars.githubusercontent.com/u/149502612?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PeterManassehOz"><b>Peter Manasseh Oz</b></a><br><sub>&#64;PeterManassehOz</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">23</td>
 <td><sub>Minna, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">399</td>
+<td align="right">457</td>
 <td><a href="https://github.com/10abdulsalam"><img src="https://avatars.githubusercontent.com/u/68709902?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/10abdulsalam"><b>Abdulsalam Jamiu</b></a><br><sub>&#64;10abdulsalam</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">19</td>
 <td><sub>Niger State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">400</td>
+<td align="right">458</td>
 <td><a href="https://github.com/clean-kodes001"><img src="https://avatars.githubusercontent.com/u/168261262?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/clean-kodes001"><b>Miracle Adah</b></a><br><sub>&#64;clean-kodes001</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">15</td>
 <td><sub>Minna, Niger State Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">401</td>
+<td align="right">459</td>
 <td><a href="https://github.com/Ay-astro"><img src="https://avatars.githubusercontent.com/u/109356839?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ay-astro"><b>Abdullahi Yusuf</b></a><br><sub>&#64;Ay-astro</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">12</td>
 <td><sub>Niger state, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">402</td>
+<td align="right">460</td>
 <td><a href="https://github.com/Adepress-global"><img src="https://avatars.githubusercontent.com/u/194741869?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Adepress-global"><b>KOLAWOLE SOMIDIMIMO</b></a><br><sub>&#64;Adepress-global</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">11</td>
 <td><sub>Minna, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">403</td>
+<td align="right">461</td>
 <td><a href="https://github.com/CalisstusDev"><img src="https://avatars.githubusercontent.com/u/276375219?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CalisstusDev"><b>calisstus</b></a><br><sub>&#64;CalisstusDev</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">11</td>
 <td><sub>Lagos/Abuja FCT West Africa</sub></td>
 </tr>
 <tr>
-<td align="right">404</td>
+<td align="right">462</td>
 <td><a href="https://github.com/Mahfuzoh01"><img src="https://avatars.githubusercontent.com/u/141042685?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mahfuzoh01"><b>AbdurRazaq Khidir Olalekan</b></a><br><sub>&#64;Mahfuzoh01</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">11</td>
 <td><sub>Minna, Niger state, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">405</td>
+<td align="right">463</td>
 <td><a href="https://github.com/d-dalacan"><img src="https://avatars.githubusercontent.com/u/182221944?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/d-dalacan"><b>Bitrus Daniel Dalacan</b></a><br><sub>&#64;d-dalacan</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">10</td>
 <td><sub>Niger state, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">406</td>
+<td align="right">464</td>
 <td><a href="https://github.com/Timosky81"><img src="https://avatars.githubusercontent.com/u/66025394?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Timosky81"><b>Thomas Akiou</b></a><br><sub>&#64;Timosky81</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">9</td>
 <td><sub>Minna, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">407</td>
+<td align="right">465</td>
 <td><a href="https://github.com/eduflixNG"><img src="https://avatars.githubusercontent.com/u/96546362?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eduflixNG"><b>Eduflix Limited</b></a><br><sub>&#64;eduflixNG</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">7</td>
 <td><sub>Lapai, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">408</td>
+<td align="right">466</td>
 <td><a href="https://github.com/Yusleeharh"><img src="https://avatars.githubusercontent.com/u/178715270?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Yusleeharh"><b>Amaan</b></a><br><sub>&#64;Yusleeharh</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">7</td>
 <td><sub>Minna Niger State Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">409</td>
+<td align="right">467</td>
 <td><a href="https://github.com/chibugo389"><img src="https://avatars.githubusercontent.com/u/210157765?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chibugo389"><b>Anyamutaku Chibugo</b></a><br><sub>&#64;chibugo389</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">5</td>
 <td><sub>Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">410</td>
+<td align="right">468</td>
 <td><a href="https://github.com/Darangi008"><img src="https://avatars.githubusercontent.com/u/62115470?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Darangi008"><b>Musa Mustapha Darangi</b></a><br><sub>&#64;Darangi008</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">5</td>
 <td><sub>Niger State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">411</td>
+<td align="right">469</td>
 <td><a href="https://github.com/yisra-El"><img src="https://avatars.githubusercontent.com/u/119142775?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yisra-El"><b>Yisrael Abraham</b></a><br><sub>&#64;yisra-El</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">5</td>
 <td><sub>Bosso, Minna, Niger State. Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">412</td>
+<td align="right">470</td>
 <td><a href="https://github.com/solodevtech"><img src="https://avatars.githubusercontent.com/u/156211083?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/solodevtech"><b>Chinonso Iruke</b></a><br><sub>&#64;solodevtech</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">4</td>
 <td><sub>Minna, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">413</td>
+<td align="right">471</td>
 <td><a href="https://github.com/aliuyusuf003"><img src="https://avatars.githubusercontent.com/u/24867243?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aliuyusuf003"><b>Aliu Yusuf</b></a><br><sub>&#64;aliuyusuf003</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">3</td>
 <td><sub>Lagos state, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">414</td>
+<td align="right">472</td>
 <td><a href="https://github.com/nutemss"><img src="https://avatars.githubusercontent.com/u/116879881?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nutemss"><b>NUT Endwell Model Science School</b></a><br><sub>&#64;nutemss</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Minna, Niger State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">415</td>
+<td align="right">473</td>
 <td><a href="https://github.com/Reddinton07"><img src="https://avatars.githubusercontent.com/u/120280580?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Reddinton07"><b>Adesina Tunde Abdulazeez</b></a><br><sub>&#64;Reddinton07</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">416</td>
+<td align="right">474</td>
 <td><a href="https://github.com/Towundiko"><img src="https://avatars.githubusercontent.com/u/87852348?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Towundiko"><b>Apostlesamdiko</b></a><br><sub>&#64;Towundiko</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Niger State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">417</td>
+<td align="right">475</td>
 <td><a href="https://github.com/Jimadarh"><img src="https://avatars.githubusercontent.com/u/128819228?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jimadarh"><b>Bello jimada</b></a><br><sub>&#64;Jimadarh</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Minna,Niger state,Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">418</td>
+<td align="right">476</td>
 <td><a href="https://github.com/kadickUrhoboIntegratedBank"><img src="https://avatars.githubusercontent.com/u/131571630?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kadickUrhoboIntegratedBank"><b>Urhobocentral</b></a><br><sub>&#64;kadickUrhoboIntegratedBank</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>KM49 Lekki-Expressway Beside Greenland Estate,…</sub></td>
 </tr>
 <tr>
-<td align="right">419</td>
+<td align="right">477</td>
 <td><a href="https://github.com/MohamedDjibrillah"><img src="https://avatars.githubusercontent.com/u/240074956?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MohamedDjibrillah"><b>Djibrillah Mohamed Djibrillah</b></a><br><sub>&#64;MohamedDjibrillah</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Niger Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">420</td>
+<td align="right">478</td>
 <td><a href="https://github.com/Zabura2"><img src="https://avatars.githubusercontent.com/u/40735380?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Zabura2"><b>Zabura2</b></a><br><sub>&#64;Zabura2</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Minna, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">421</td>
+<td align="right">479</td>
 <td><a href="https://github.com/Ahmedie345"><img src="https://avatars.githubusercontent.com/u/120280016?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ahmedie345"><b>ENGR NDAGI NMAMAN</b></a><br><sub>&#64;Ahmedie345</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>MINNA NIGER STATE</sub></td>
 </tr>
 <tr>
-<td align="right">422</td>
+<td align="right">480</td>
 <td><a href="https://github.com/ATANDA001"><img src="https://avatars.githubusercontent.com/u/78873594?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ATANDA001"><b>Mubarak Amode</b></a><br><sub>&#64;ATANDA001</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Minna, Niger State.</sub></td>
 </tr>
 <tr>
-<td align="right">423</td>
+<td align="right">481</td>
 <td><a href="https://github.com/Reginaxes"><img src="https://avatars.githubusercontent.com/u/25845217?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Reginaxes"><b>Gbadamosi Bukola</b></a><br><sub>&#64;Reginaxes</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Minna, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">424</td>
+<td align="right">482</td>
 <td><a href="https://github.com/TechieAmehChris"><img src="https://avatars.githubusercontent.com/u/105006338?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TechieAmehChris"><b>Ameh Christian Owoicho-Oche</b></a><br><sub>&#64;TechieAmehChris</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Minna, Niger State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">425</td>
+<td align="right">483</td>
 <td><a href="https://github.com/hulkmununer21"><img src="https://avatars.githubusercontent.com/u/129199181?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hulkmununer21"><b>Sauri Usman bamle</b></a><br><sub>&#64;hulkmununer21</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">40</td>
 <td><sub>Minna, Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">426</td>
+<td align="right">484</td>
 <td><a href="https://github.com/lordace1203"><img src="https://avatars.githubusercontent.com/u/97702101?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lordace1203"><b>Moshood Abdulwaheed</b></a><br><sub>&#64;lordace1203</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">35</td>
 <td><sub>Niger State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">427</td>
+<td align="right">485</td>
 <td><a href="https://github.com/Alnuhutecspace"><img src="https://avatars.githubusercontent.com/u/210874384?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alnuhutecspace"><b>Engr. Nuhu Alfa</b></a><br><sub>&#64;Alnuhutecspace</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">30</td>
 <td><sub>Bida, Niger State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">428</td>
+<td align="right">486</td>
 <td><a href="https://github.com/SMTechBro"><img src="https://avatars.githubusercontent.com/u/164806136?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SMTechBro"><b>SAIDU MUJAHEED ZARMAI</b></a><br><sub>&#64;SMTechBro</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">20</td>
 <td><sub>NIGER STATE, NIGERIA</sub></td>
 </tr>
 <tr>
-<td align="right">429</td>
+<td align="right">487</td>
 <td><a href="https://github.com/Ali6nXI"><img src="https://avatars.githubusercontent.com/u/152782974?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ali6nXI"><b>Joseph Ochoche Ogangbo</b></a><br><sub>&#64;Ali6nXI</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">19</td>
 <td><sub>Gidan kwano, Minna, Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">430</td>
+<td align="right">488</td>
 <td><a href="https://github.com/Excel-Tech1"><img src="https://avatars.githubusercontent.com/u/184389293?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Excel-Tech1"><b>Excellence Emmanuel</b></a><br><sub>&#64;Excel-Tech1</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">17</td>
 <td><sub>Minna Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">431</td>
+<td align="right">489</td>
 <td><a href="https://github.com/Isaac2020"><img src="https://avatars.githubusercontent.com/u/20706134?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Isaac2020"><b>Isaac Marcus</b></a><br><sub>&#64;Isaac2020</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">15</td>
 <td><sub>Minna, Niger State.</sub></td>
 </tr>
 <tr>
-<td align="right">432</td>
+<td align="right">490</td>
 <td><a href="https://github.com/b-10056"><img src="https://avatars.githubusercontent.com/u/54542484?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/b-10056"><b>Bashir</b></a><br><sub>&#64;b-10056</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">14</td>
 <td><sub>Lapai Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">433</td>
+<td align="right">491</td>
 <td><a href="https://github.com/TooYoung2Learn"><img src="https://avatars.githubusercontent.com/u/40116319?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TooYoung2Learn"><b>Suleman Mohammed Aliyu</b></a><br><sub>&#64;TooYoung2Learn</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">14</td>
 <td><sub>Bida, Niger State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">434</td>
+<td align="right">492</td>
 <td><a href="https://github.com/nathanjiya"><img src="https://avatars.githubusercontent.com/u/211833080?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nathanjiya"><b>Jiya Nathan N.</b></a><br><sub>&#64;nathanjiya</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">13</td>
 <td><sub>Minna, Niger State, Nigeria.</sub></td>
 </tr>
 <tr>
-<td align="right">435</td>
+<td align="right">493</td>
 <td><a href="https://github.com/ShittuOluwashola77"><img src="https://avatars.githubusercontent.com/u/198820531?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ShittuOluwashola77"><b>SHITTU OLUWASHOLA OLUBUKOLA</b></a><br><sub>&#64;ShittuOluwashola77</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">13</td>
 <td><sub>Lower Niger River Basin, Ilorin, Kwara State</sub></td>
 </tr>
 <tr>
-<td align="right">436</td>
+<td align="right">494</td>
 <td><a href="https://github.com/TertsuaMichael"><img src="https://avatars.githubusercontent.com/u/315154836?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TertsuaMichael"><b>Tertsua Mhen Michael</b></a><br><sub>&#64;TertsuaMichael</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">13</td>
 <td><sub>Minna, Niger State.</sub></td>
 </tr>
 <tr>
-<td align="right">437</td>
+<td align="right">495</td>
 <td><a href="https://github.com/mastermayk"><img src="https://avatars.githubusercontent.com/u/35616334?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mastermayk"><b>kingsley ifeanyi azuigbo</b></a><br><sub>&#64;mastermayk</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">11</td>
 <td><sub>Nigeria, Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">438</td>
+<td align="right">496</td>
 <td><a href="https://github.com/Bity-Iju"><img src="https://avatars.githubusercontent.com/u/69263036?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bity-Iju"><b>Fidelis Bitrus Ijudona</b></a><br><sub>&#64;Bity-Iju</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">10</td>
 <td><sub>Suleja, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">439</td>
+<td align="right">497</td>
 <td><a href="https://github.com/Somtochim"><img src="https://avatars.githubusercontent.com/u/117855517?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Somtochim"><b>Somtochim Oguchi</b></a><br><sub>&#64;Somtochim</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">10</td>
 <td><sub>Lagos, Niger</sub></td>
 </tr>
 <tr>
-<td align="right">440</td>
+<td align="right">498</td>
 <td><a href="https://github.com/Erims-Svcbtc"><img src="https://avatars.githubusercontent.com/u/265056705?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Erims-Svcbtc"><b>Erims Kunle</b></a><br><sub>&#64;Erims-Svcbtc</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">9</td>
 <td><sub>Suleja,Niger State Nigeria.</sub></td>
 </tr>
 <tr>
-<td align="right">441</td>
+<td align="right">499</td>
 <td><a href="https://github.com/Suleiman24434"><img src="https://avatars.githubusercontent.com/u/157190563?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Suleiman24434"><b>Suleiman Nurain</b></a><br><sub>&#64;Suleiman24434</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">9</td>
 <td><sub>Suleja Niger state Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">442</td>
+<td align="right">500</td>
 <td><a href="https://github.com/Aduragbemi-Osunba"><img src="https://avatars.githubusercontent.com/u/156618218?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aduragbemi-Osunba"><b>Aduragbemi Osunba</b></a><br><sub>&#64;Aduragbemi-Osunba</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">8</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">443</td>
+<td align="right">501</td>
 <td><a href="https://github.com/IV-5"><img src="https://avatars.githubusercontent.com/u/164783487?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IV-5"><b>Izuagbaeke Valentine</b></a><br><sub>&#64;IV-5</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">8</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">444</td>
+<td align="right">502</td>
 <td><a href="https://github.com/247Salafi"><img src="https://avatars.githubusercontent.com/u/81990726?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/247Salafi"><b>Abdulhakeem Nuhu Adaji</b></a><br><sub>&#64;247Salafi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">7</td>
 <td><sub>Lapai, Niger State. Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">445</td>
+<td align="right">503</td>
 <td><a href="https://github.com/khalifa2348"><img src="https://avatars.githubusercontent.com/u/76643675?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/khalifa2348"><b>Shehu khalifa Muhammad</b></a><br><sub>&#64;khalifa2348</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">7</td>
 <td><sub>Minna Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">446</td>
+<td align="right">504</td>
 <td><a href="https://github.com/OladeleShauibOlabisi"><img src="https://avatars.githubusercontent.com/u/118483534?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OladeleShauibOlabisi"><b>Oladele Shuaib Olabisi</b></a><br><sub>&#64;OladeleShauibOlabisi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">7</td>
 <td><sub>Minna, Niger State.</sub></td>
 </tr>
 <tr>
-<td align="right">447</td>
+<td align="right">505</td>
 <td><a href="https://github.com/Durodola2"><img src="https://avatars.githubusercontent.com/u/169088304?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Durodola2"><b>Durodola David</b></a><br><sub>&#64;Durodola2</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">6</td>
 <td><sub>NIger state, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">448</td>
+<td align="right">506</td>
 <td><a href="https://github.com/NecheStack"><img src="https://avatars.githubusercontent.com/u/180538009?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NecheStack"><b>neche</b></a><br><sub>&#64;NecheStack</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">6</td>
 <td><sub>abuja Niger</sub></td>
 </tr>
 <tr>
-<td align="right">449</td>
+<td align="right">507</td>
 <td><a href="https://github.com/Pharezzzz"><img src="https://avatars.githubusercontent.com/u/154338082?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Pharezzzz"><b>Pharez Ayodele</b></a><br><sub>&#64;Pharezzzz</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">6</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">450</td>
+<td align="right">508</td>
 <td><a href="https://github.com/Quequoquark"><img src="https://avatars.githubusercontent.com/u/70501870?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Quequoquark"><b>Quequoquark</b></a><br><sub>&#64;Quequoquark</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">6</td>
 <td><sub>Minna, Niger, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">451</td>
+<td align="right">509</td>
 <td><a href="https://github.com/Ceebella"><img src="https://avatars.githubusercontent.com/u/103881602?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ceebella"><b>Oluwafunmilayo Dorcas Adeniyi</b></a><br><sub>&#64;Ceebella</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Minna, Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">452</td>
+<td align="right">510</td>
 <td><a href="https://github.com/Joycedsgn"><img src="https://avatars.githubusercontent.com/u/41448249?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Joycedsgn"><b>Github Position Job</b></a><br><sub>&#64;Joycedsgn</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>C1 Peniel Albarka Plaza OPP Federal High Court…</sub></td>
 </tr>
 <tr>
-<td align="right">453</td>
+<td align="right">511</td>
 <td><a href="https://github.com/Magode-Tech"><img src="https://avatars.githubusercontent.com/u/263380318?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Magode-Tech"><b>Shekwomagode</b></a><br><sub>&#64;Magode-Tech</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">454</td>
+<td align="right">512</td>
 <td><a href="https://github.com/Ndabala"><img src="https://avatars.githubusercontent.com/u/138726192?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ndabala"><b>Idris Yusuf Sani</b></a><br><sub>&#64;Ndabala</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Niger State, Bida</sub></td>
 </tr>
 <tr>
-<td align="right">455</td>
+<td align="right">513</td>
 <td><a href="https://github.com/Shegnetkonsult"><img src="https://avatars.githubusercontent.com/u/104800445?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Shegnetkonsult"><b>Joseph Olusegun ADIGUN</b></a><br><sub>&#64;Shegnetkonsult</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>New Bussa, Niger state, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">456</td>
+<td align="right">514</td>
 <td><a href="https://github.com/u-s-a446"><img src="https://avatars.githubusercontent.com/u/54582559?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/u-s-a446"><b>Umar Sanda Abdullahi</b></a><br><sub>&#64;u-s-a446</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Niger State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">457</td>
+<td align="right">515</td>
 <td><a href="https://github.com/Abramjnr"><img src="https://avatars.githubusercontent.com/u/26324353?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abramjnr"><b>abraham chijioke</b></a><br><sub>&#64;Abramjnr</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Lagos,Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">458</td>
+<td align="right">516</td>
 <td><a href="https://github.com/abuihsan-hub"><img src="https://avatars.githubusercontent.com/u/280625229?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abuihsan-hub"><b>Abu Ihsan</b></a><br><sub>&#64;abuihsan-hub</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>New bussa Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">459</td>
+<td align="right">517</td>
 <td><a href="https://github.com/aceajii"><img src="https://avatars.githubusercontent.com/u/24946830?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aceajii"><b>Anthony Ajii</b></a><br><sub>&#64;aceajii</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Abuja,Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">460</td>
+<td align="right">518</td>
 <td><a href="https://github.com/adeolaibigbemi"><img src="https://avatars.githubusercontent.com/u/19607858?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adeolaibigbemi"><b>Adeola Ibigbemi</b></a><br><sub>&#64;adeolaibigbemi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">461</td>
+<td align="right">519</td>
 <td><a href="https://github.com/adeyemibamigbola"><img src="https://avatars.githubusercontent.com/u/30099016?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adeyemibamigbola"><b>Adeyemi Mathais BAMIGBOLA</b></a><br><sub>&#64;adeyemibamigbola</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">462</td>
+<td align="right">520</td>
 <td><a href="https://github.com/adnan-abdullahi"><img src="https://avatars.githubusercontent.com/u/32324750?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adnan-abdullahi"><b>Adnan Abdullahi</b></a><br><sub>&#64;adnan-abdullahi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">463</td>
+<td align="right">521</td>
 <td><a href="https://github.com/Adubiaro"><img src="https://avatars.githubusercontent.com/u/23186199?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Adubiaro"><b>adubiaro opeyemi</b></a><br><sub>&#64;Adubiaro</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">464</td>
+<td align="right">522</td>
 <td><a href="https://github.com/agm1993"><img src="https://avatars.githubusercontent.com/u/31674018?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/agm1993"><b>Auwal Garba Muhammad</b></a><br><sub>&#64;agm1993</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">465</td>
+<td align="right">523</td>
 <td><a href="https://github.com/aguguo"><img src="https://avatars.githubusercontent.com/u/25006778?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aguguo"><b>AGUGUO CHINENYE</b></a><br><sub>&#64;aguguo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">466</td>
+<td align="right">524</td>
 <td><a href="https://github.com/Akartse"><img src="https://avatars.githubusercontent.com/u/28731050?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Akartse"><b>Tsenongo Jacob</b></a><br><sub>&#64;Akartse</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Gboko, Benue State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">467</td>
+<td align="right">525</td>
 <td><a href="https://github.com/alextech2009"><img src="https://avatars.githubusercontent.com/u/13982681?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alextech2009"><b>Akinwande Sunday</b></a><br><sub>&#64;alextech2009</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">468</td>
+<td align="right">526</td>
 <td><a href="https://github.com/aliyusf"><img src="https://avatars.githubusercontent.com/u/48366085?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aliyusf"><b>Aliyu Yusuf</b></a><br><sub>&#64;aliyusf</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Minna, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">469</td>
+<td align="right">527</td>
 <td><a href="https://github.com/Anamayi"><img src="https://avatars.githubusercontent.com/u/153396427?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Anamayi"><b>David Anamayi</b></a><br><sub>&#64;Anamayi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">470</td>
+<td align="right">528</td>
 <td><a href="https://github.com/anasbabata"><img src="https://avatars.githubusercontent.com/u/34686018?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anasbabata"><b>ANAS BABATA KUMO</b></a><br><sub>&#64;anasbabata</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Gombe State, Nigeria, Africa.</sub></td>
 </tr>
 <tr>
-<td align="right">471</td>
+<td align="right">529</td>
 <td><a href="https://github.com/aondoaver"><img src="https://avatars.githubusercontent.com/u/13234291?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aondoaver"><b>Aondoaver Akende Ubula</b></a><br><sub>&#64;aondoaver</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Abuja, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">472</td>
+<td align="right">530</td>
 <td><a href="https://github.com/astute-eruobodo"><img src="https://avatars.githubusercontent.com/u/23238036?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/astute-eruobodo"><b>Tella Opeoluwa Ayotunde</b></a><br><sub>&#64;astute-eruobodo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">473</td>
+<td align="right">531</td>
 <td><a href="https://github.com/Asuquo12"><img src="https://avatars.githubusercontent.com/u/4039475?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Asuquo12"><b>Asuquo</b></a><br><sub>&#64;Asuquo12</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">474</td>
+<td align="right">532</td>
 <td><a href="https://github.com/atmokupe"><img src="https://avatars.githubusercontent.com/u/1856627?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/atmokupe"><b>Adeposi</b></a><br><sub>&#64;atmokupe</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">475</td>
+<td align="right">533</td>
 <td><a href="https://github.com/austinogoh1"><img src="https://avatars.githubusercontent.com/u/149580149?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/austinogoh1"><b>Austin Ogoh</b></a><br><sub>&#64;austinogoh1</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">476</td>
+<td align="right">534</td>
 <td><a href="https://github.com/auwalxii"><img src="https://avatars.githubusercontent.com/u/18529000?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/auwalxii"><b>Auwal</b></a><br><sub>&#64;auwalxii</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">477</td>
+<td align="right">535</td>
 <td><a href="https://github.com/awageo"><img src="https://avatars.githubusercontent.com/u/22532015?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/awageo"><b>Geoffrey Awa</b></a><br><sub>&#64;awageo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">478</td>
+<td align="right">536</td>
 <td><a href="https://github.com/awoniyimuyiwa"><img src="https://avatars.githubusercontent.com/u/18419057?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/awoniyimuyiwa"><b>Muyiwa</b></a><br><sub>&#64;awoniyimuyiwa</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">479</td>
+<td align="right">537</td>
 <td><a href="https://github.com/badedugbe"><img src="https://avatars.githubusercontent.com/u/18722880?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/badedugbe"><b>Jerry</b></a><br><sub>&#64;badedugbe</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">480</td>
+<td align="right">538</td>
 <td><a href="https://github.com/bantomy"><img src="https://avatars.githubusercontent.com/u/29088231?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bantomy"><b>OLUWATOSIN</b></a><br><sub>&#64;bantomy</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>NIGERIA</sub></td>
 </tr>
 <tr>
-<td align="right">481</td>
+<td align="right">539</td>
 <td><a href="https://github.com/beastiary"><img src="https://avatars.githubusercontent.com/u/26884400?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/beastiary"><b>beastiarygames</b></a><br><sub>&#64;beastiary</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">482</td>
+<td align="right">540</td>
 <td><a href="https://github.com/benralphs"><img src="https://avatars.githubusercontent.com/u/10956835?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/benralphs"><b>Ngoha Benralph</b></a><br><sub>&#64;benralphs</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">483</td>
+<td align="right">541</td>
 <td><a href="https://github.com/biggiedad"><img src="https://avatars.githubusercontent.com/u/22532117?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/biggiedad"><b>Tanimowo-oloko Adegbenga</b></a><br><sub>&#64;biggiedad</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">484</td>
+<td align="right">542</td>
 <td><a href="https://github.com/Charlestheory"><img src="https://avatars.githubusercontent.com/u/11305444?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Charlestheory"><b>Charles Udekwe</b></a><br><sub>&#64;Charlestheory</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Jos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">485</td>
+<td align="right">543</td>
 <td><a href="https://github.com/cooljay23"><img src="https://avatars.githubusercontent.com/u/30289185?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cooljay23"><b>Chukwuemeka Nwaoma</b></a><br><sub>&#64;cooljay23</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">486</td>
+<td align="right">544</td>
 <td><a href="https://github.com/DataForce-Hub"><img src="https://avatars.githubusercontent.com/u/150808158?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DataForce-Hub"><b>Data Force-Hub</b></a><br><sub>&#64;DataForce-Hub</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Abuja, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">487</td>
+<td align="right">545</td>
 <td><a href="https://github.com/drhali"><img src="https://avatars.githubusercontent.com/u/120296358?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/drhali"><b>Haliru Abubakar</b></a><br><sub>&#64;drhali</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">488</td>
+<td align="right">546</td>
 <td><a href="https://github.com/heriade"><img src="https://avatars.githubusercontent.com/u/10400650?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/heriade"><b>Heriade Adekunle</b></a><br><sub>&#64;heriade</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>West African, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">489</td>
+<td align="right">547</td>
 <td><a href="https://github.com/judolski"><img src="https://avatars.githubusercontent.com/u/33990325?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/judolski"><b>Chidi J. Owo</b></a><br><sub>&#64;judolski</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">490</td>
+<td align="right">548</td>
 <td><a href="https://github.com/m4y0w4"><img src="https://avatars.githubusercontent.com/u/4564629?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/m4y0w4"><b>Mayowa O</b></a><br><sub>&#64;m4y0w4</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">491</td>
+<td align="right">549</td>
 <td><a href="https://github.com/MIJ-dev-eng"><img src="https://avatars.githubusercontent.com/u/216306684?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MIJ-dev-eng"><b>Abdulmuqsit Olayiwola Ijaiya</b></a><br><sub>&#64;MIJ-dev-eng</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Niger,Minna</sub></td>
 </tr>
 <tr>
-<td align="right">492</td>
+<td align="right">550</td>
 <td><a href="https://github.com/mjeeezyy"><img src="https://avatars.githubusercontent.com/u/30214522?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mjeeezyy"><b>Mark Fernando</b></a><br><sub>&#64;mjeeezyy</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Abuja, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">493</td>
+<td align="right">551</td>
 <td><a href="https://github.com/Nellymandela"><img src="https://avatars.githubusercontent.com/u/29187675?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nellymandela"><b>Azolukwam Nelson Nestor</b></a><br><sub>&#64;Nellymandela</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">494</td>
+<td align="right">552</td>
 <td><a href="https://github.com/NerdNode001"><img src="https://avatars.githubusercontent.com/u/213560389?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NerdNode001"><b>Akanmu Joshua</b></a><br><sub>&#64;NerdNode001</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>MINNA, NIGER STATE</sub></td>
 </tr>
 <tr>
-<td align="right">495</td>
+<td align="right">553</td>
 <td><a href="https://github.com/nifemmy"><img src="https://avatars.githubusercontent.com/u/32162828?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nifemmy"><b>nifemi ADENIRAN</b></a><br><sub>&#64;nifemmy</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">496</td>
+<td align="right">554</td>
 <td><a href="https://github.com/nikkygaku"><img src="https://avatars.githubusercontent.com/u/22682797?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nikkygaku"><b>nicole</b></a><br><sub>&#64;nikkygaku</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">497</td>
+<td align="right">555</td>
 <td><a href="https://github.com/omawumi"><img src="https://avatars.githubusercontent.com/u/22679531?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/omawumi"><b>Omawumi Eyiangho</b></a><br><sub>&#64;omawumi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Abuja, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">498</td>
+<td align="right">556</td>
 <td><a href="https://github.com/reinacsamuel"><img src="https://avatars.githubusercontent.com/u/27914937?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/reinacsamuel"><b>Chimuanya Reina Samuel</b></a><br><sub>&#64;reinacsamuel</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">499</td>
+<td align="right">557</td>
 <td><a href="https://github.com/ry-zakari"><img src="https://avatars.githubusercontent.com/u/17886191?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ry-zakari"><b>Rufai Yusuf Zakari</b></a><br><sub>&#64;ry-zakari</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">500</td>
+<td align="right">558</td>
 <td><a href="https://github.com/sethisidore"><img src="https://avatars.githubusercontent.com/u/26249003?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sethisidore"><b>Kings Isidore</b></a><br><sub>&#64;sethisidore</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">501</td>
+<td align="right">559</td>
 <td><a href="https://github.com/TolNex-AcadTech"><img src="https://avatars.githubusercontent.com/u/174327197?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TolNex-AcadTech"><b>TolNex AcadTech</b></a><br><sub>&#64;TolNex-AcadTech</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Minna, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">502</td>
+<td align="right">560</td>
 <td><a href="https://github.com/updateak47"><img src="https://avatars.githubusercontent.com/u/34302943?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/updateak47"><b>Hakeem Ojulari</b></a><br><sub>&#64;updateak47</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">503</td>
+<td align="right">561</td>
 <td><a href="https://github.com/abbey-jinadu"><img src="https://avatars.githubusercontent.com/u/24855207?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abbey-jinadu"><b>abbey-jinadu</b></a><br><sub>&#64;abbey-jinadu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Lagos. Nigeria.</sub></td>
 </tr>
 <tr>
-<td align="right">504</td>
+<td align="right">562</td>
 <td><a href="https://github.com/AbimbolaFolawiyo"><img src="https://avatars.githubusercontent.com/u/25412187?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AbimbolaFolawiyo"><b>Abimbola Folawiyo</b></a><br><sub>&#64;AbimbolaFolawiyo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">505</td>
+<td align="right">563</td>
 <td><a href="https://github.com/Abraham-Awotunde"><img src="https://avatars.githubusercontent.com/u/22100751?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abraham-Awotunde"><b>Abraham Gbenga Oluwatunde</b></a><br><sub>&#64;Abraham-Awotunde</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">506</td>
+<td align="right">564</td>
 <td><a href="https://github.com/adamrice508"><img src="https://avatars.githubusercontent.com/u/15804680?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adamrice508"><b>adamrice508</b></a><br><sub>&#64;adamrice508</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">507</td>
+<td align="right">565</td>
 <td><a href="https://github.com/adekunleakinduyite"><img src="https://avatars.githubusercontent.com/u/22653015?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adekunleakinduyite"><b>Adekunle Akinduyite</b></a><br><sub>&#64;adekunleakinduyite</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">508</td>
+<td align="right">566</td>
 <td><a href="https://github.com/adeolaoladokun"><img src="https://avatars.githubusercontent.com/u/6032945?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adeolaoladokun"><b>Adeola Oladokun</b></a><br><sub>&#64;adeolaoladokun</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">509</td>
+<td align="right">567</td>
 <td><a href="https://github.com/Africanmagic"><img src="https://avatars.githubusercontent.com/u/7840258?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Africanmagic"><b>Africanmagic</b></a><br><sub>&#64;Africanmagic</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">510</td>
+<td align="right">568</td>
 <td><a href="https://github.com/agbededoyin"><img src="https://avatars.githubusercontent.com/u/11850198?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/agbededoyin"><b>Agbede Adedoyin</b></a><br><sub>&#64;agbededoyin</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Ondo, Ondo Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">511</td>
+<td align="right">569</td>
 <td><a href="https://github.com/airmarshal1"><img src="https://avatars.githubusercontent.com/u/27868477?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/airmarshal1"><b>John Zwandor Iliya</b></a><br><sub>&#64;airmarshal1</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Jos,Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">512</td>
+<td align="right">570</td>
 <td><a href="https://github.com/aisville"><img src="https://avatars.githubusercontent.com/u/21174253?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aisville"><b>Ais</b></a><br><sub>&#64;aisville</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">513</td>
+<td align="right">571</td>
 <td><a href="https://github.com/Ajufunbaya"><img src="https://avatars.githubusercontent.com/u/32855434?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ajufunbaya"><b>Uthman Yusuf Ajufunbaya (Attajiri)</b></a><br><sub>&#64;Ajufunbaya</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">514</td>
+<td align="right">572</td>
 <td><a href="https://github.com/akachukwuchukwu"><img src="https://avatars.githubusercontent.com/u/24738514?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akachukwuchukwu"><b>Akachukwu Chukwu</b></a><br><sub>&#64;akachukwuchukwu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">515</td>
+<td align="right">573</td>
 <td><a href="https://github.com/Al-siddiq"><img src="https://avatars.githubusercontent.com/u/8483772?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Al-siddiq"><b>Abubakar Shehu</b></a><br><sub>&#64;Al-siddiq</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Niger state - Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">516</td>
+<td align="right">574</td>
 <td><a href="https://github.com/albtechng"><img src="https://avatars.githubusercontent.com/u/28638453?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/albtechng"><b>Abdullahi Shuaibu</b></a><br><sub>&#64;albtechng</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">517</td>
+<td align="right">575</td>
 <td><a href="https://github.com/AliceSambo"><img src="https://avatars.githubusercontent.com/u/33452662?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AliceSambo"><b>Sambo Alice</b></a><br><sub>&#64;AliceSambo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Plateau state, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">518</td>
+<td align="right">576</td>
 <td><a href="https://github.com/AliJafar25"><img src="https://avatars.githubusercontent.com/u/24611999?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AliJafar25"><b>ALI JAFAR UMAR</b></a><br><sub>&#64;AliJafar25</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">519</td>
+<td align="right">577</td>
 <td><a href="https://github.com/AliyuAde"><img src="https://avatars.githubusercontent.com/u/34791649?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AliyuAde"><b>AliuAde</b></a><br><sub>&#64;AliyuAde</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Ibadan, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">520</td>
+<td align="right">578</td>
 <td><a href="https://github.com/Amarachi45"><img src="https://avatars.githubusercontent.com/u/18749947?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Amarachi45"><b>Amarachi</b></a><br><sub>&#64;Amarachi45</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Lagos, Nigeria.</sub></td>
 </tr>
 <tr>
-<td align="right">521</td>
+<td align="right">579</td>
 <td><a href="https://github.com/aniboski"><img src="https://avatars.githubusercontent.com/u/10074509?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aniboski"><b>Aniekan Eshiet</b></a><br><sub>&#64;aniboski</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">522</td>
+<td align="right">580</td>
 <td><a href="https://github.com/aptsoft"><img src="https://avatars.githubusercontent.com/u/34134581?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aptsoft"><b>AptSoft</b></a><br><sub>&#64;aptsoft</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">523</td>
+<td align="right">581</td>
 <td><a href="https://github.com/astrofengia"><img src="https://avatars.githubusercontent.com/u/26254521?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/astrofengia"><b>John Alex</b></a><br><sub>&#64;astrofengia</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">524</td>
+<td align="right">582</td>
 <td><a href="https://github.com/Avong32mr"><img src="https://avatars.githubusercontent.com/u/31958356?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Avong32mr"><b>Ephraim Avong</b></a><br><sub>&#64;Avong32mr</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">525</td>
+<td align="right">583</td>
 <td><a href="https://github.com/awills"><img src="https://avatars.githubusercontent.com/u/12871487?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/awills"><b>abrahm williams</b></a><br><sub>&#64;awills</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Calabar, Cross River State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">526</td>
+<td align="right">584</td>
 <td><a href="https://github.com/awizendd"><img src="https://avatars.githubusercontent.com/u/8872703?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/awizendd"><b>John Emmanuel</b></a><br><sub>&#64;awizendd</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Port Harcourt, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">527</td>
+<td align="right">585</td>
 <td><a href="https://github.com/Ayiloye"><img src="https://avatars.githubusercontent.com/u/21281064?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ayiloye"><b>Kayode Ayiloye</b></a><br><sub>&#64;Ayiloye</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">528</td>
+<td align="right">586</td>
 <td><a href="https://github.com/ayomideomole"><img src="https://avatars.githubusercontent.com/u/26417850?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ayomideomole"><b>Ayomide Omole</b></a><br><sub>&#64;ayomideomole</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">529</td>
+<td align="right">587</td>
 <td><a href="https://github.com/Azorji"><img src="https://avatars.githubusercontent.com/u/11879064?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Azorji"><b>Iyk Azorji</b></a><br><sub>&#64;Azorji</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">530</td>
+<td align="right">588</td>
 <td><a href="https://github.com/B-Lightworker"><img src="https://avatars.githubusercontent.com/u/31413347?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/B-Lightworker"><b>Bright Lightworker</b></a><br><sub>&#64;B-Lightworker</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Abia State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">531</td>
+<td align="right">589</td>
 <td><a href="https://github.com/Babdevs"><img src="https://avatars.githubusercontent.com/u/7275825?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Babdevs"><b>Babagana Usman</b></a><br><sub>&#64;Babdevs</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">532</td>
+<td align="right">590</td>
 <td><a href="https://github.com/babeonideas"><img src="https://avatars.githubusercontent.com/u/15348654?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/babeonideas"><b>Koko Ombu</b></a><br><sub>&#64;babeonideas</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Lagos Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">533</td>
+<td align="right">591</td>
 <td><a href="https://github.com/babzige"><img src="https://avatars.githubusercontent.com/u/24233283?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/babzige"><b>Babatunde Ige</b></a><br><sub>&#64;babzige</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">534</td>
+<td align="right">592</td>
 <td><a href="https://github.com/beekayjay"><img src="https://avatars.githubusercontent.com/u/23550291?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/beekayjay"><b>Kolawole Babalola</b></a><br><sub>&#64;beekayjay</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">535</td>
+<td align="right">593</td>
 <td><a href="https://github.com/berryprince"><img src="https://avatars.githubusercontent.com/u/29401067?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/berryprince"><b>BERRY PRINCE</b></a><br><sub>&#64;berryprince</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">536</td>
+<td align="right">594</td>
 <td><a href="https://github.com/BigBami"><img src="https://avatars.githubusercontent.com/u/19895245?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BigBami"><b>Adeyemi Oluwaseun</b></a><br><sub>&#64;BigBami</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">537</td>
+<td align="right">595</td>
 <td><a href="https://github.com/bimbo973"><img src="https://avatars.githubusercontent.com/u/25481507?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bimbo973"><b>ajavon abimbola emmanuela</b></a><br><sub>&#64;bimbo973</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">538</td>
+<td align="right">596</td>
 <td><a href="https://github.com/d3nniz"><img src="https://avatars.githubusercontent.com/u/29946319?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/d3nniz"><b>Ejiogu Dennis Uzor</b></a><br><sub>&#64;d3nniz</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">539</td>
+<td align="right">597</td>
 <td><a href="https://github.com/dejifouad1"><img src="https://avatars.githubusercontent.com/u/17482070?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dejifouad1"><b>Fouad Adedeji Adetoye</b></a><br><sub>&#64;dejifouad1</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Abuja, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">540</td>
+<td align="right">598</td>
 <td><a href="https://github.com/gapspade"><img src="https://avatars.githubusercontent.com/u/32970216?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gapspade"><b>Gideon Adebola</b></a><br><sub>&#64;gapspade</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">541</td>
+<td align="right">599</td>
 <td><a href="https://github.com/geraldoki"><img src="https://avatars.githubusercontent.com/u/1208933?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/geraldoki"><b>Gerald Oki</b></a><br><sub>&#64;geraldoki</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Abuja, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">542</td>
+<td align="right">600</td>
 <td><a href="https://github.com/kathymm"><img src="https://avatars.githubusercontent.com/u/29421650?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kathymm"><b>Katherine Amao</b></a><br><sub>&#64;kathymm</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">543</td>
+<td align="right">601</td>
 <td><a href="https://github.com/king4ng"><img src="https://avatars.githubusercontent.com/u/31711226?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/king4ng"><b>Kingx Best</b></a><br><sub>&#64;king4ng</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Uyo, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">544</td>
+<td align="right">602</td>
 <td><a href="https://github.com/Luciusedoja"><img src="https://avatars.githubusercontent.com/u/33453924?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Luciusedoja"><b>Luciusedoja</b></a><br><sub>&#64;Luciusedoja</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">545</td>
+<td align="right">603</td>
 <td><a href="https://github.com/Malvinonaire"><img src="https://avatars.githubusercontent.com/u/25173164?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Malvinonaire"><b>Awele</b></a><br><sub>&#64;Malvinonaire</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Abuja, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">546</td>
+<td align="right">604</td>
 <td><a href="https://github.com/maryam-5"><img src="https://avatars.githubusercontent.com/u/129744895?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/maryam-5"><b>Maryam Jibril Imam</b></a><br><sub>&#64;maryam-5</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Minna, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">547</td>
+<td align="right">605</td>
 <td><a href="https://github.com/mohbellz"><img src="https://avatars.githubusercontent.com/u/60651606?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mohbellz"><b>BELLO MOH</b></a><br><sub>&#64;mohbellz</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>NIGER STATE</sub></td>
 </tr>
 <tr>
-<td align="right">548</td>
+<td align="right">606</td>
 <td><a href="https://github.com/mukhtardigitals"><img src="https://avatars.githubusercontent.com/u/119928943?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mukhtardigitals"><b>Ibrahim Mukhtar Muhammad</b></a><br><sub>&#64;mukhtardigitals</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Minna, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">549</td>
+<td align="right">607</td>
 <td><a href="https://github.com/Omawumi22Debra"><img src="https://avatars.githubusercontent.com/u/151115876?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Omawumi22Debra"><b>Awojide Damilola</b></a><br><sub>&#64;Omawumi22Debra</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">550</td>
+<td align="right">608</td>
 <td><a href="https://github.com/oselixir"><img src="https://avatars.githubusercontent.com/u/14260721?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/oselixir"><b>Okoeguale Gabriel Oseyi</b></a><br><sub>&#64;oselixir</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">551</td>
+<td align="right">609</td>
 <td><a href="https://github.com/promixmart"><img src="https://avatars.githubusercontent.com/u/17219176?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/promixmart"><b>Promise Martins</b></a><br><sub>&#64;promixmart</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">552</td>
+<td align="right">610</td>
 <td><a href="https://github.com/samabim"><img src="https://avatars.githubusercontent.com/u/28927950?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/samabim"><b>samuel</b></a><br><sub>&#64;samabim</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>lagos,nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">553</td>
+<td align="right">611</td>
 <td><a href="https://github.com/shariffmarafa"><img src="https://avatars.githubusercontent.com/u/81803460?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shariffmarafa"><b>Shariff Marafa</b></a><br><sub>&#64;shariffmarafa</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Minna,Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">554</td>
+<td align="right">612</td>
 <td><a href="https://github.com/Shipo-ui"><img src="https://avatars.githubusercontent.com/u/65471783?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Shipo-ui"><b>IBRAHIM AHMADU ALHAJI</b></a><br><sub>&#64;Shipo-ui</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>NIGER STATE, NIGERIAN</sub></td>
 </tr>
 <tr>
-<td align="right">555</td>
+<td align="right">613</td>
 <td><a href="https://github.com/SibawyX8"><img src="https://avatars.githubusercontent.com/u/260603537?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SibawyX8"><b>Ahmad Musa</b></a><br><sub>&#64;SibawyX8</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Minna, Niger State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">556</td>
+<td align="right">614</td>
 <td><a href="https://github.com/skillstek"><img src="https://avatars.githubusercontent.com/u/29160903?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/skillstek"><b>Alao Lukman Agbolade</b></a><br><sub>&#64;skillstek</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">557</td>
+<td align="right">615</td>
 <td><a href="https://github.com/Tpiano"><img src="https://avatars.githubusercontent.com/u/105303688?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tpiano"><b>Tioluwanimi</b></a><br><sub>&#64;Tpiano</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">558</td>
+<td align="right">616</td>
 <td><a href="https://github.com/tstorms77"><img src="https://avatars.githubusercontent.com/u/34620286?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tstorms77"><b>Timothy Adebayo</b></a><br><sub>&#64;tstorms77</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">559</td>
+<td align="right">617</td>
 <td><a href="https://github.com/uchae"><img src="https://avatars.githubusercontent.com/u/1569957?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/uchae"><b>joy miti</b></a><br><sub>&#64;uchae</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">560</td>
+<td align="right">618</td>
 <td><a href="https://github.com/Yahweh-Enterprise"><img src="https://avatars.githubusercontent.com/u/308368383?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Yahweh-Enterprise"><b>Olorunjuwon Stephen David</b></a><br><sub>&#64;Yahweh-Enterprise</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">561</td>
+<td align="right">619</td>
 <td><a href="https://github.com/360logistic"><img src="https://avatars.githubusercontent.com/u/29435970?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/360logistic"><b>kennedy</b></a><br><sub>&#64;360logistic</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">562</td>
+<td align="right">620</td>
 <td><a href="https://github.com/6ixNetwork"><img src="https://avatars.githubusercontent.com/u/18073610?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/6ixNetwork"><b>Desot Tangu</b></a><br><sub>&#64;6ixNetwork</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Cross River State Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">563</td>
+<td align="right">621</td>
 <td><a href="https://github.com/Abbapsp"><img src="https://avatars.githubusercontent.com/u/32059399?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abbapsp"><b>Muhammad Inuwa</b></a><br><sub>&#64;Abbapsp</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">564</td>
+<td align="right">622</td>
 <td><a href="https://github.com/ABBEY-VICTOR"><img src="https://avatars.githubusercontent.com/u/20862342?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ABBEY-VICTOR"><b>AKINGBADE ABIODUN VICTOR</b></a><br><sub>&#64;ABBEY-VICTOR</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>NIGERIA</sub></td>
 </tr>
 <tr>
-<td align="right">565</td>
+<td align="right">623</td>
 <td><a href="https://github.com/abbeylincoln101"><img src="https://avatars.githubusercontent.com/u/4788092?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abbeylincoln101"><b>falodun abiodun</b></a><br><sub>&#64;abbeylincoln101</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>lagos nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">566</td>
+<td align="right">624</td>
 <td><a href="https://github.com/abdulabdullahi182007-cell"><img src="https://avatars.githubusercontent.com/u/228037574?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdulabdullahi182007-cell"><b>Abdul Abdullahi</b></a><br><sub>&#64;abdulabdullahi182007-cell</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">567</td>
+<td align="right">625</td>
 <td><a href="https://github.com/Abdullahimorgan"><img src="https://avatars.githubusercontent.com/u/22214587?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abdullahimorgan"><b>Abdullahi Umogani</b></a><br><sub>&#64;Abdullahimorgan</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">568</td>
+<td align="right">626</td>
 <td><a href="https://github.com/abman22"><img src="https://avatars.githubusercontent.com/u/29513821?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abman22"><b>abman22</b></a><br><sub>&#64;abman22</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Kaduna Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">569</td>
+<td align="right">627</td>
 <td><a href="https://github.com/Abolarin"><img src="https://avatars.githubusercontent.com/u/29067358?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abolarin"><b>Ebenezer Abolarin</b></a><br><sub>&#64;Abolarin</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Lagos Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">570</td>
+<td align="right">628</td>
 <td><a href="https://github.com/abubakarruma"><img src="https://avatars.githubusercontent.com/u/15184288?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abubakarruma"><b>Abubakar Ruma</b></a><br><sub>&#64;abubakarruma</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Abuja, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">571</td>
+<td align="right">629</td>
 <td><a href="https://github.com/Adamcey"><img src="https://avatars.githubusercontent.com/u/19377669?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Adamcey"><b>Adamu Umar</b></a><br><sub>&#64;Adamcey</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Abuja, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">572</td>
+<td align="right">630</td>
 <td><a href="https://github.com/Adamslimv"><img src="https://avatars.githubusercontent.com/u/31348679?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Adamslimv"><b>Adams Victor</b></a><br><sub>&#64;Adamslimv</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">573</td>
+<td align="right">631</td>
 <td><a href="https://github.com/adedy07"><img src="https://avatars.githubusercontent.com/u/32911221?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adedy07"><b>Adedayo Oyewusi</b></a><br><sub>&#64;adedy07</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Ibadan, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">574</td>
+<td align="right">632</td>
 <td><a href="https://github.com/adekojo"><img src="https://avatars.githubusercontent.com/u/22432231?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adekojo"><b>ENOCH OGOOLUWA ADEKOJO</b></a><br><sub>&#64;adekojo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">575</td>
+<td align="right">633</td>
 <td><a href="https://github.com/adenson-3"><img src="https://avatars.githubusercontent.com/u/149700407?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adenson-3"><b>Joshua Adenson</b></a><br><sub>&#64;adenson-3</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">576</td>
+<td align="right">634</td>
 <td><a href="https://github.com/ADEOTI-Adeyinka"><img src="https://avatars.githubusercontent.com/u/153337978?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ADEOTI-Adeyinka"><b>ADEOTI Adeyinka</b></a><br><sub>&#64;ADEOTI-Adeyinka</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Ibadan, Oyo State, Nigeria.</sub></td>
 </tr>
 <tr>
-<td align="right">577</td>
+<td align="right">635</td>
 <td><a href="https://github.com/adesua1931"><img src="https://avatars.githubusercontent.com/u/24735370?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adesua1931"><b>ademola olamoyesan</b></a><br><sub>&#64;adesua1931</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">578</td>
+<td align="right">636</td>
 <td><a href="https://github.com/Adeyemipired"><img src="https://avatars.githubusercontent.com/u/5101836?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Adeyemipired"><b>Adeyemipired</b></a><br><sub>&#64;Adeyemipired</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">579</td>
+<td align="right">637</td>
 <td><a href="https://github.com/agbo6912"><img src="https://avatars.githubusercontent.com/u/29084136?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/agbo6912"><b>augustine</b></a><br><sub>&#64;agbo6912</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">580</td>
+<td align="right">638</td>
 <td><a href="https://github.com/agboolamd"><img src="https://avatars.githubusercontent.com/u/12785528?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/agboolamd"><b>Agboolamd</b></a><br><sub>&#64;agboolamd</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Oyo State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">581</td>
+<td align="right">639</td>
 <td><a href="https://github.com/aghayedo"><img src="https://avatars.githubusercontent.com/u/17454511?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aghayedo"><b>Kelvins Aghayedo</b></a><br><sub>&#64;aghayedo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Abuja, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">582</td>
+<td align="right">640</td>
 <td><a href="https://github.com/ah-donola"><img src="https://avatars.githubusercontent.com/u/33239503?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ah-donola"><b>Ahmed Olawale A.</b></a><br><sub>&#64;ah-donola</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Ibadan, Oyo State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">583</td>
+<td align="right">641</td>
 <td><a href="https://github.com/AIRAdeolu"><img src="https://avatars.githubusercontent.com/u/18533688?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AIRAdeolu"><b>Adediran Imoleayo</b></a><br><sub>&#64;AIRAdeolu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Lagos Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">584</td>
+<td align="right">642</td>
 <td><a href="https://github.com/ajirobagboyega"><img src="https://avatars.githubusercontent.com/u/973641?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ajirobagboyega"><b>Gboyega Ajiroba</b></a><br><sub>&#64;ajirobagboyega</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Lagos, Nigeria.</sub></td>
 </tr>
 <tr>
-<td align="right">585</td>
+<td align="right">643</td>
 <td><a href="https://github.com/ak-rich"><img src="https://avatars.githubusercontent.com/u/29252098?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ak-rich"><b>AK Rich</b></a><br><sub>&#64;ak-rich</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">586</td>
+<td align="right">644</td>
 <td><a href="https://github.com/akinlolu"><img src="https://avatars.githubusercontent.com/u/20047072?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akinlolu"><b>akinlolu olawale festus</b></a><br><sub>&#64;akinlolu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">587</td>
+<td align="right">645</td>
 <td><a href="https://github.com/akinolu"><img src="https://avatars.githubusercontent.com/u/6565380?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akinolu"><b>Akinyemi O. Emmanuel</b></a><br><sub>&#64;akinolu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">588</td>
+<td align="right">646</td>
 <td><a href="https://github.com/aksimon"><img src="https://avatars.githubusercontent.com/u/8685735?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aksimon"><b>Simon Ikuseru</b></a><br><sub>&#64;aksimon</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">589</td>
+<td align="right">647</td>
 <td><a href="https://github.com/Alhalid"><img src="https://avatars.githubusercontent.com/u/28707228?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alhalid"><b>Abdullahi Lawal Halidu</b></a><br><sub>&#64;Alhalid</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">590</td>
+<td align="right">648</td>
 <td><a href="https://github.com/AllisonTfk"><img src="https://avatars.githubusercontent.com/u/22258874?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AllisonTfk"><b>Allison Taofeek Abisola</b></a><br><sub>&#64;AllisonTfk</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">591</td>
+<td align="right">649</td>
 <td><a href="https://github.com/alphamirza"><img src="https://avatars.githubusercontent.com/u/23634160?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alphamirza"><b>Mukhtar</b></a><br><sub>&#64;alphamirza</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Kaduna, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">592</td>
+<td align="right">650</td>
 <td><a href="https://github.com/Alvinkezie"><img src="https://avatars.githubusercontent.com/u/20489110?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alvinkezie"><b>Chike Alvan</b></a><br><sub>&#64;Alvinkezie</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Abuja, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">593</td>
+<td align="right">651</td>
 <td><a href="https://github.com/amadujalloh1"><img src="https://avatars.githubusercontent.com/u/26098714?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amadujalloh1"><b>Amadu Jalloh</b></a><br><sub>&#64;amadujalloh1</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">594</td>
+<td align="right">652</td>
 <td><a href="https://github.com/Andersonagbi"><img src="https://avatars.githubusercontent.com/u/31903473?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Andersonagbi"><b>Anderson Praise-jah Agbi</b></a><br><sub>&#64;Andersonagbi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">595</td>
+<td align="right">653</td>
 <td><a href="https://github.com/AnnieKay"><img src="https://avatars.githubusercontent.com/u/24512769?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AnnieKay"><b>anneKay</b></a><br><sub>&#64;AnnieKay</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">596</td>
+<td align="right">654</td>
 <td><a href="https://github.com/Ariwokakaki"><img src="https://avatars.githubusercontent.com/u/25711568?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ariwokakaki"><b>Oyebola Rokeeb</b></a><br><sub>&#64;Ariwokakaki</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">597</td>
+<td align="right">655</td>
 <td><a href="https://github.com/asmauhusna"><img src="https://avatars.githubusercontent.com/u/20704871?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asmauhusna"><b>Asmau</b></a><br><sub>&#64;asmauhusna</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">598</td>
+<td align="right">656</td>
 <td><a href="https://github.com/avatarteni"><img src="https://avatars.githubusercontent.com/u/4144037?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/avatarteni"><b>Aroloye Tenidade</b></a><br><sub>&#64;avatarteni</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">599</td>
+<td align="right">657</td>
 <td><a href="https://github.com/AwesomeBaron"><img src="https://avatars.githubusercontent.com/u/34817806?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AwesomeBaron"><b>AwesomeBaron</b></a><br><sub>&#64;AwesomeBaron</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">600</td>
+<td align="right">658</td>
 <td><a href="https://github.com/awonder"><img src="https://avatars.githubusercontent.com/u/20328635?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/awonder"><b>awonder</b></a><br><sub>&#64;awonder</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">601</td>
+<td align="right">659</td>
 <td><a href="https://github.com/azukanduka"><img src="https://avatars.githubusercontent.com/u/5259756?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/azukanduka"><b>abraham nduka</b></a><br><sub>&#64;azukanduka</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>lagos nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">602</td>
+<td align="right">660</td>
 <td><a href="https://github.com/badakoshi"><img src="https://avatars.githubusercontent.com/u/229844039?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/badakoshi"><b>Alhassan Muhammad Bello</b></a><br><sub>&#64;badakoshi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Minna, Niger State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">603</td>
+<td align="right">661</td>
 <td><a href="https://github.com/Baengah"><img src="https://avatars.githubusercontent.com/u/20315693?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Baengah"><b>Gbenga Omolokun</b></a><br><sub>&#64;Baengah</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">604</td>
+<td align="right">662</td>
 <td><a href="https://github.com/baiwalinks"><img src="https://avatars.githubusercontent.com/u/22867635?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/baiwalinks"><b>Muhammad Gidado</b></a><br><sub>&#64;baiwalinks</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">605</td>
+<td align="right">663</td>
 <td><a href="https://github.com/basad232"><img src="https://avatars.githubusercontent.com/u/21230468?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/basad232"><b>Bashir Sani Ado</b></a><br><sub>&#64;basad232</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Kano,Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">606</td>
+<td align="right">664</td>
 <td><a href="https://github.com/basseyvictor52"><img src="https://avatars.githubusercontent.com/u/19456164?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/basseyvictor52"><b>Victor Bassey</b></a><br><sub>&#64;basseyvictor52</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">607</td>
+<td align="right">665</td>
 <td><a href="https://github.com/Bbk1661"><img src="https://avatars.githubusercontent.com/u/78675274?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bbk1661"><b>Aminu Suleiman</b></a><br><sub>&#64;Bbk1661</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">608</td>
+<td align="right">666</td>
 <td><a href="https://github.com/Bencharly"><img src="https://avatars.githubusercontent.com/u/30538381?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bencharly"><b>Chinonso Benjamin Iheabunakem</b></a><br><sub>&#64;Bencharly</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">609</td>
+<td align="right">667</td>
 <td><a href="https://github.com/bennethsylvanus"><img src="https://avatars.githubusercontent.com/u/29302731?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bennethsylvanus"><b>Benneth Sylvanus</b></a><br><sub>&#64;bennethsylvanus</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">610</td>
+<td align="right">668</td>
 <td><a href="https://github.com/Betrandna"><img src="https://avatars.githubusercontent.com/u/23336407?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Betrandna"><b>Betrand N-A</b></a><br><sub>&#64;Betrandna</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">611</td>
+<td align="right">669</td>
 <td><a href="https://github.com/Bidec"><img src="https://avatars.githubusercontent.com/u/24890927?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bidec"><b>Bide Chijioke</b></a><br><sub>&#64;Bidec</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Lafia,Nasarawa state. Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">612</td>
+<td align="right">670</td>
 <td><a href="https://github.com/bigblaqboy"><img src="https://avatars.githubusercontent.com/u/32395196?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bigblaqboy"><b>Olaosebikan Emmanuel</b></a><br><sub>&#64;bigblaqboy</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">613</td>
+<td align="right">671</td>
 <td><a href="https://github.com/black-gik"><img src="https://avatars.githubusercontent.com/u/23170228?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/black-gik"><b>ECHENDU CHINEDUM BENEDICTUS</b></a><br><sub>&#64;black-gik</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>ENUGU NIGERIA</sub></td>
 </tr>
 <tr>
-<td align="right">614</td>
+<td align="right">672</td>
 <td><a href="https://github.com/blairbrook"><img src="https://avatars.githubusercontent.com/u/29795100?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/blairbrook"><b>Afolabi Funmilola</b></a><br><sub>&#64;blairbrook</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Lagos,Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">615</td>
+<td align="right">673</td>
 <td><a href="https://github.com/Chukkwuebuka"><img src="https://avatars.githubusercontent.com/u/297477783?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Chukkwuebuka"><b>Chukwuebuka Ugwuoke</b></a><br><sub>&#64;Chukkwuebuka</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Minna, Niger State,</sub></td>
 </tr>
 <tr>
-<td align="right">616</td>
+<td align="right">674</td>
 <td><a href="https://github.com/CoachSmart1107"><img src="https://avatars.githubusercontent.com/u/177819579?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/CoachSmart1107"><b>Umar Adetola Abdulganiyy</b></a><br><sub>&#64;CoachSmart1107</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Minna, Niger state, Nigeria.</sub></td>
 </tr>
 <tr>
-<td align="right">617</td>
+<td align="right">675</td>
 <td><a href="https://github.com/DrGabies"><img src="https://avatars.githubusercontent.com/u/57242051?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DrGabies"><b>Gabriel Oyerinde</b></a><br><sub>&#64;DrGabies</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Bida, Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">618</td>
+<td align="right">676</td>
 <td><a href="https://github.com/el-siraj"><img src="https://avatars.githubusercontent.com/u/60501465?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/el-siraj"><b>Sirajdeen hassan</b></a><br><sub>&#64;el-siraj</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">619</td>
+<td align="right">677</td>
 <td><a href="https://github.com/Elytes-Elixir"><img src="https://avatars.githubusercontent.com/u/77393769?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Elytes-Elixir"><b>Elytes</b></a><br><sub>&#64;Elytes-Elixir</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Minna, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">620</td>
+<td align="right">678</td>
 <td><a href="https://github.com/Erixir01"><img src="https://avatars.githubusercontent.com/u/39976838?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Erixir01"><b>ERIC SM BARDE</b></a><br><sub>&#64;Erixir01</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>MINNA, NIGER STATE, NIGERIA</sub></td>
 </tr>
 <tr>
-<td align="right">621</td>
+<td align="right">679</td>
 <td><a href="https://github.com/GodsTimePromise"><img src="https://avatars.githubusercontent.com/u/17627629?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GodsTimePromise"><b>Godstime Promise</b></a><br><sub>&#64;GodsTimePromise</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">622</td>
+<td align="right">680</td>
 <td><a href="https://github.com/Hollummidey"><img src="https://avatars.githubusercontent.com/u/1006052?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Hollummidey"><b>Hollummidey</b></a><br><sub>&#64;Hollummidey</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">623</td>
+<td align="right">681</td>
 <td><a href="https://github.com/hossyjay"><img src="https://avatars.githubusercontent.com/u/20369859?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hossyjay"><b>Hosea Jacob</b></a><br><sub>&#64;hossyjay</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Lagos Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">624</td>
+<td align="right">682</td>
 <td><a href="https://github.com/HuxTech-Web"><img src="https://avatars.githubusercontent.com/u/172490458?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HuxTech-Web"><b>Huzaifa Salihu Ushama</b></a><br><sub>&#64;HuxTech-Web</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Kagara, Niger State-Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">625</td>
+<td align="right">683</td>
 <td><a href="https://github.com/Ibrahimishaqwx"><img src="https://avatars.githubusercontent.com/u/55326889?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ibrahimishaqwx"><b>Ibrahim Ishaq</b></a><br><sub>&#64;Ibrahimishaqwx</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Wushishi, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">626</td>
+<td align="right">684</td>
 <td><a href="https://github.com/igbasanx"><img src="https://avatars.githubusercontent.com/u/1469171?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/igbasanx"><b>Igbasan Olusola</b></a><br><sub>&#64;igbasanx</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">627</td>
+<td align="right">685</td>
 <td><a href="https://github.com/indiehacker07"><img src="https://avatars.githubusercontent.com/u/187859339?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/indiehacker07"><b>Huxaipha حزىفة</b></a><br><sub>&#64;indiehacker07</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Kagara, Niger State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">628</td>
+<td align="right">686</td>
 <td><a href="https://github.com/iteeszn"><img src="https://avatars.githubusercontent.com/u/152269357?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iteeszn"><b>Martha (Itohan) Akhimien</b></a><br><sub>&#64;iteeszn</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">629</td>
+<td align="right">687</td>
 <td><a href="https://github.com/izzyee"><img src="https://avatars.githubusercontent.com/u/19639393?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/izzyee"><b>izzyee</b></a><br><sub>&#64;izzyee</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">630</td>
+<td align="right">688</td>
 <td><a href="https://github.com/Kelechi6777"><img src="https://avatars.githubusercontent.com/u/8847777?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kelechi6777"><b>Kelechi6777</b></a><br><sub>&#64;Kelechi6777</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">631</td>
+<td align="right">689</td>
 <td><a href="https://github.com/loseyiga"><img src="https://avatars.githubusercontent.com/u/234938274?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/loseyiga"><b>Loseyi</b></a><br><sub>&#64;loseyiga</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Abuja Niger</sub></td>
 </tr>
 <tr>
-<td align="right">632</td>
+<td align="right">690</td>
 <td><a href="https://github.com/mobinga"><img src="https://avatars.githubusercontent.com/u/890863?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mobinga"><b>mobinga</b></a><br><sub>&#64;mobinga</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Rivers State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">633</td>
+<td align="right">691</td>
 <td><a href="https://github.com/Mrbleatz"><img src="https://avatars.githubusercontent.com/u/335366811?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mrbleatz"><b>Chukwuebuka NNAJI</b></a><br><sub>&#64;Mrbleatz</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Niger, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">634</td>
+<td align="right">692</td>
 <td><a href="https://github.com/nonsoaneke"><img src="https://avatars.githubusercontent.com/u/12174049?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nonsoaneke"><b>Chukwunonso Aneke</b></a><br><sub>&#64;nonsoaneke</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Abuja Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">635</td>
+<td align="right">693</td>
 <td><a href="https://github.com/OlaitanMayowa"><img src="https://avatars.githubusercontent.com/u/13108950?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OlaitanMayowa"><b>Olaitan Mayowa</b></a><br><sub>&#64;OlaitanMayowa</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">636</td>
+<td align="right">694</td>
 <td><a href="https://github.com/oseniwasiu"><img src="https://avatars.githubusercontent.com/u/22590344?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/oseniwasiu"><b>OSENI WASIU</b></a><br><sub>&#64;oseniwasiu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">637</td>
+<td align="right">695</td>
 <td><a href="https://github.com/Salma-lakpene"><img src="https://avatars.githubusercontent.com/u/208304522?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Salma-lakpene"><b>Salma Lakpene</b></a><br><sub>&#64;Salma-lakpene</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">638</td>
+<td align="right">696</td>
 <td><a href="https://github.com/skiyobo"><img src="https://avatars.githubusercontent.com/u/20766815?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/skiyobo"><b>Ajibola Oluwatobi</b></a><br><sub>&#64;skiyobo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">639</td>
+<td align="right">697</td>
 <td><a href="https://github.com/stephencharlie92"><img src="https://avatars.githubusercontent.com/u/31446488?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stephencharlie92"><b>stephencharlie92</b></a><br><sub>&#64;stephencharlie92</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Lagos Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">640</td>
+<td align="right">698</td>
 <td><a href="https://github.com/Swagale"><img src="https://avatars.githubusercontent.com/u/24698127?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Swagale"><b>Yusuf Gbedu</b></a><br><sub>&#64;Swagale</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>NIGERIA</sub></td>
 </tr>
 <tr>
-<td align="right">641</td>
+<td align="right">699</td>
 <td><a href="https://github.com/THEKQA"><img src="https://avatars.githubusercontent.com/u/201603819?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/THEKQA"><b>Vembe Terhemen Aondoaver</b></a><br><sub>&#64;THEKQA</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Minna, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">642</td>
+<td align="right">700</td>
 <td><a href="https://github.com/timiagama"><img src="https://avatars.githubusercontent.com/u/17356200?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/timiagama"><b>Timi Agama</b></a><br><sub>&#64;timiagama</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">643</td>
+<td align="right">701</td>
 <td><a href="https://github.com/UsmanNuraini"><img src="https://avatars.githubusercontent.com/u/125737862?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/UsmanNuraini"><b>Usman Aliyu</b></a><br><sub>&#64;UsmanNuraini</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Minna, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">644</td>
+<td align="right">702</td>
 <td><a href="https://github.com/Wheelxarat"><img src="https://avatars.githubusercontent.com/u/20107877?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Wheelxarat"><b>xarat</b></a><br><sub>&#64;Wheelxarat</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">645</td>
+<td align="right">703</td>
 <td><a href="https://github.com/wonderireoluwa26-arch"><img src="https://avatars.githubusercontent.com/u/277494041?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wonderireoluwa26-arch"><b>Wonder Boaz</b></a><br><sub>&#64;wonderireoluwa26-arch</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Minna, Niger State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">646</td>
+<td align="right">704</td>
 <td><a href="https://github.com/3605ideas"><img src="https://avatars.githubusercontent.com/u/29945095?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/3605ideas"><b>3605ideas</b></a><br><sub>&#64;3605ideas</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">647</td>
+<td align="right">705</td>
 <td><a href="https://github.com/82DEYA"><img src="https://avatars.githubusercontent.com/u/29479613?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/82DEYA"><b>DeYa. M</b></a><br><sub>&#64;82DEYA</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">648</td>
+<td align="right">706</td>
 <td><a href="https://github.com/911muzikhouse"><img src="https://avatars.githubusercontent.com/u/9970694?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/911muzikhouse"><b>buduka david adolphus</b></a><br><sub>&#64;911muzikhouse</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">649</td>
+<td align="right">707</td>
 <td><a href="https://github.com/9child"><img src="https://avatars.githubusercontent.com/u/16579128?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/9child"><b>Esther Omonayin</b></a><br><sub>&#64;9child</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Abuja, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">650</td>
+<td align="right">708</td>
 <td><a href="https://github.com/A-Jerry"><img src="https://avatars.githubusercontent.com/u/22848852?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/A-Jerry"><b>Jerry Osabuohien Owie</b></a><br><sub>&#64;A-Jerry</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">651</td>
+<td align="right">709</td>
 <td><a href="https://github.com/aaronjoelc"><img src="https://avatars.githubusercontent.com/u/10470978?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aaronjoelc"><b>Joel Aaron</b></a><br><sub>&#64;aaronjoelc</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Aba, Abia State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">652</td>
+<td align="right">710</td>
 <td><a href="https://github.com/aayomii"><img src="https://avatars.githubusercontent.com/u/20667233?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aayomii"><b>Ayoola Olamide</b></a><br><sub>&#64;aayomii</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Lagos, Nigeria.</sub></td>
 </tr>
 <tr>
-<td align="right">653</td>
+<td align="right">711</td>
 <td><a href="https://github.com/Abdkpr"><img src="https://avatars.githubusercontent.com/u/23398515?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abdkpr"><b>Adakpor Abraham</b></a><br><sub>&#64;Abdkpr</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>lagos nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">654</td>
+<td align="right">712</td>
 <td><a href="https://github.com/abdulokega"><img src="https://avatars.githubusercontent.com/u/28908389?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdulokega"><b>mandy</b></a><br><sub>&#64;abdulokega</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Lagos Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">655</td>
+<td align="right">713</td>
 <td><a href="https://github.com/AbidingTV"><img src="https://avatars.githubusercontent.com/u/23208117?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AbidingTV"><b>AbidingTV</b></a><br><sub>&#64;AbidingTV</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Lagos Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">656</td>
+<td align="right">714</td>
 <td><a href="https://github.com/Abolore"><img src="https://avatars.githubusercontent.com/u/11062859?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abolore"><b>Adesina Abolore</b></a><br><sub>&#64;Abolore</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">657</td>
+<td align="right">715</td>
 <td><a href="https://github.com/abosedar"><img src="https://avatars.githubusercontent.com/u/17945247?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abosedar"><b>Abosede</b></a><br><sub>&#64;abosedar</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">658</td>
+<td align="right">716</td>
 <td><a href="https://github.com/Abufadeelat"><img src="https://avatars.githubusercontent.com/u/9778048?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abufadeelat"><b>Abufadeelat</b></a><br><sub>&#64;Abufadeelat</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">659</td>
+<td align="right">717</td>
 <td><a href="https://github.com/adamsqueen"><img src="https://avatars.githubusercontent.com/u/33457623?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adamsqueen"><b>Queen Adams</b></a><br><sub>&#64;adamsqueen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Jos Plateau State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">660</td>
+<td align="right">718</td>
 <td><a href="https://github.com/adamuyerima"><img src="https://avatars.githubusercontent.com/u/7492470?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adamuyerima"><b>Adamu Abubakar Yerima</b></a><br><sub>&#64;adamuyerima</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Kano, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">661</td>
+<td align="right">719</td>
 <td><a href="https://github.com/Adedolapo"><img src="https://avatars.githubusercontent.com/u/24619982?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Adedolapo"><b>Adedolapo</b></a><br><sub>&#64;Adedolapo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">662</td>
+<td align="right">720</td>
 <td><a href="https://github.com/ademolatosvex"><img src="https://avatars.githubusercontent.com/u/27817274?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ademolatosvex"><b>Ademola Philip</b></a><br><sub>&#64;ademolatosvex</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Oyo,Nigeria.</sub></td>
 </tr>
 <tr>
-<td align="right">663</td>
+<td align="right">721</td>
 <td><a href="https://github.com/adesinadaniel115-design"><img src="https://avatars.githubusercontent.com/u/256644926?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adesinadaniel115-design"><b>DANIEL ADESINA OLUWAJUWON</b></a><br><sub>&#64;adesinadaniel115-design</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>MInna,Niger-state</sub></td>
 </tr>
 <tr>
-<td align="right">664</td>
+<td align="right">722</td>
 <td><a href="https://github.com/Adewalepeter1"><img src="https://avatars.githubusercontent.com/u/163770273?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Adewalepeter1"><b>Adewale Peter Alonge</b></a><br><sub>&#64;Adewalepeter1</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">665</td>
+<td align="right">723</td>
 <td><a href="https://github.com/adeyinkanoni"><img src="https://avatars.githubusercontent.com/u/33456184?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adeyinkanoni"><b>Adeyinkanoni</b></a><br><sub>&#64;adeyinkanoni</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">666</td>
+<td align="right">724</td>
 <td><a href="https://github.com/adnim1"><img src="https://avatars.githubusercontent.com/u/23429952?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adnim1"><b>Dickson Edet</b></a><br><sub>&#64;adnim1</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">667</td>
+<td align="right">725</td>
 <td><a href="https://github.com/adymq07"><img src="https://avatars.githubusercontent.com/u/28567176?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adymq07"><b>Stewart Roy</b></a><br><sub>&#64;adymq07</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Abuja,Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">668</td>
+<td align="right">726</td>
 <td><a href="https://github.com/AfeesAkanni"><img src="https://avatars.githubusercontent.com/u/28004712?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AfeesAkanni"><b>Afees</b></a><br><sub>&#64;AfeesAkanni</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">669</td>
+<td align="right">727</td>
 <td><a href="https://github.com/Afomota"><img src="https://avatars.githubusercontent.com/u/18617749?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Afomota"><b>Moyin</b></a><br><sub>&#64;Afomota</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">670</td>
+<td align="right">728</td>
 <td><a href="https://github.com/afripals"><img src="https://avatars.githubusercontent.com/u/8738154?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/afripals"><b>George N Joshua</b></a><br><sub>&#64;afripals</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">671</td>
+<td align="right">729</td>
 <td><a href="https://github.com/agbaw"><img src="https://avatars.githubusercontent.com/u/26798336?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/agbaw"><b>Ahmed Bawa</b></a><br><sub>&#64;agbaw</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Kaduna, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">672</td>
+<td align="right">730</td>
 <td><a href="https://github.com/agmmuhammad"><img src="https://avatars.githubusercontent.com/u/29701193?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/agmmuhammad"><b>agmmuhammad</b></a><br><sub>&#64;agmmuhammad</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">673</td>
+<td align="right">731</td>
 <td><a href="https://github.com/Aibeetea"><img src="https://avatars.githubusercontent.com/u/11302141?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aibeetea"><b>Aibeetea</b></a><br><sub>&#64;Aibeetea</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">674</td>
+<td align="right">732</td>
 <td><a href="https://github.com/AjalaYemi"><img src="https://avatars.githubusercontent.com/u/7656759?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AjalaYemi"><b>Ajala Yemi</b></a><br><sub>&#64;AjalaYemi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">675</td>
+<td align="right">733</td>
 <td><a href="https://github.com/Ajiya-Serv"><img src="https://avatars.githubusercontent.com/u/28737302?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ajiya-Serv"><b>Sa&#39;id Umar</b></a><br><sub>&#64;Ajiya-Serv</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Abuja, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">676</td>
+<td align="right">734</td>
 <td><a href="https://github.com/akaajege"><img src="https://avatars.githubusercontent.com/u/28479823?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akaajege"><b>Aondoakaa Jege</b></a><br><sub>&#64;akaajege</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Makurdi Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">677</td>
+<td align="right">735</td>
 <td><a href="https://github.com/Akayet4u"><img src="https://avatars.githubusercontent.com/u/19141781?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Akayet4u"><b>Alexander Akaahs</b></a><br><sub>&#64;Akayet4u</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Abuja Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">678</td>
+<td align="right">736</td>
 <td><a href="https://github.com/akina2"><img src="https://avatars.githubusercontent.com/u/28644791?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akina2"><b>Akina</b></a><br><sub>&#64;akina2</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Lagos Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">679</td>
+<td align="right">737</td>
 <td><a href="https://github.com/akinshegun"><img src="https://avatars.githubusercontent.com/u/26022815?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/akinshegun"><b>Akinyemi</b></a><br><sub>&#64;akinshegun</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">680</td>
+<td align="right">738</td>
 <td><a href="https://github.com/Akotech"><img src="https://avatars.githubusercontent.com/u/18004051?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Akotech"><b>Adigun Akorede Rasheed</b></a><br><sub>&#64;Akotech</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">681</td>
+<td align="right">739</td>
 <td><a href="https://github.com/Akpomedaye"><img src="https://avatars.githubusercontent.com/u/27210915?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Akpomedaye"><b>PH1N1X</b></a><br><sub>&#64;Akpomedaye</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Delta, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">682</td>
+<td align="right">740</td>
 <td><a href="https://github.com/Aksod"><img src="https://avatars.githubusercontent.com/u/26618946?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aksod"><b>Akinrinade Sodiq DAMILARE</b></a><br><sub>&#64;Aksod</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">683</td>
+<td align="right">741</td>
 <td><a href="https://github.com/Al-kirfy"><img src="https://avatars.githubusercontent.com/u/13296381?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Al-kirfy"><b>Abdallah Bin Yahya</b></a><br><sub>&#64;Al-kirfy</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Kirfi,Bauchi,Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">684</td>
+<td align="right">742</td>
 <td><a href="https://github.com/Alexonovo"><img src="https://avatars.githubusercontent.com/u/28744040?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Alexonovo"><b>Alex Onovo</b></a><br><sub>&#64;Alexonovo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">685</td>
+<td align="right">743</td>
 <td><a href="https://github.com/alexpetra"><img src="https://avatars.githubusercontent.com/u/23336878?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alexpetra"><b>abraham</b></a><br><sub>&#64;alexpetra</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">686</td>
+<td align="right">744</td>
 <td><a href="https://github.com/alhaskid"><img src="https://avatars.githubusercontent.com/u/55330378?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alhaskid"><b>alhaskid</b></a><br><sub>&#64;alhaskid</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Bida, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">687</td>
+<td align="right">745</td>
 <td><a href="https://github.com/ALIGAJ"><img src="https://avatars.githubusercontent.com/u/166953742?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ALIGAJ"><b>ALICE A. JOHNSON</b></a><br><sub>&#64;ALIGAJ</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Abuja, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">688</td>
+<td align="right">746</td>
 <td><a href="https://github.com/Aliyubaba172"><img src="https://avatars.githubusercontent.com/u/169095266?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aliyubaba172"><b>Aliyu Idris</b></a><br><sub>&#64;Aliyubaba172</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niger state/sokoto state</sub></td>
 </tr>
 <tr>
-<td align="right">689</td>
+<td align="right">747</td>
 <td><a href="https://github.com/aliyugarba"><img src="https://avatars.githubusercontent.com/u/23530722?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aliyugarba"><b>Aliyu Garba</b></a><br><sub>&#64;aliyugarba</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">690</td>
+<td align="right">748</td>
 <td><a href="https://github.com/aliyuhaidar123"><img src="https://avatars.githubusercontent.com/u/31140012?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aliyuhaidar123"><b>ALIYU USMAN BABA</b></a><br><sub>&#64;aliyuhaidar123</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>JOS/GOMBE NIGERIA</sub></td>
 </tr>
 <tr>
-<td align="right">691</td>
+<td align="right">749</td>
 <td><a href="https://github.com/AlvinGrey"><img src="https://avatars.githubusercontent.com/u/17418274?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlvinGrey"><b>Alvin Gray</b></a><br><sub>&#64;AlvinGrey</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>ABUJA, NIGERIA.</sub></td>
 </tr>
 <tr>
-<td align="right">692</td>
+<td align="right">750</td>
 <td><a href="https://github.com/amecon"><img src="https://avatars.githubusercontent.com/u/98066868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amecon"><b>Ahmed Tsado</b></a><br><sub>&#64;amecon</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niger State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">693</td>
+<td align="right">751</td>
 <td><a href="https://github.com/amenzeiyamu"><img src="https://avatars.githubusercontent.com/u/19455083?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amenzeiyamu"><b>Amenze Emma-Iyamu</b></a><br><sub>&#64;amenzeiyamu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">694</td>
+<td align="right">752</td>
 <td><a href="https://github.com/AnalystDanwilly"><img src="https://avatars.githubusercontent.com/u/219336337?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AnalystDanwilly"><b>Daniel UGWUEZE</b></a><br><sub>&#64;AnalystDanwilly</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Minna,Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">695</td>
+<td align="right">753</td>
 <td><a href="https://github.com/andrewdietekoki"><img src="https://avatars.githubusercontent.com/u/23283551?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/andrewdietekoki"><b>Andrew Diete-Koki</b></a><br><sub>&#64;andrewdietekoki</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Abuja, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">696</td>
+<td align="right">754</td>
 <td><a href="https://github.com/Aneyetoto"><img src="https://avatars.githubusercontent.com/u/23616407?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aneyetoto"><b>Aneyetoto</b></a><br><sub>&#64;Aneyetoto</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">697</td>
+<td align="right">755</td>
 <td><a href="https://github.com/angelgab59"><img src="https://avatars.githubusercontent.com/u/24640218?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/angelgab59"><b>Gabriel Akwu</b></a><br><sub>&#64;angelgab59</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Abuja, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">698</td>
+<td align="right">756</td>
 <td><a href="https://github.com/aroyibk"><img src="https://avatars.githubusercontent.com/u/22492652?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aroyibk"><b>Ibukun Aroyewun</b></a><br><sub>&#64;aroyibk</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">699</td>
+<td align="right">757</td>
 <td><a href="https://github.com/assumption01"><img src="https://avatars.githubusercontent.com/u/32487709?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/assumption01"><b>Obeten Okoi Michael</b></a><br><sub>&#64;assumption01</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">700</td>
+<td align="right">758</td>
 <td><a href="https://github.com/Athonymary"><img src="https://avatars.githubusercontent.com/u/17687011?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Athonymary"><b>Automaton</b></a><br><sub>&#64;Athonymary</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">701</td>
+<td align="right">759</td>
 <td><a href="https://github.com/Atiku2039"><img src="https://avatars.githubusercontent.com/u/24389622?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Atiku2039"><b>Abubakar Gabdo</b></a><br><sub>&#64;Atiku2039</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Abuja, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">702</td>
+<td align="right">760</td>
 <td><a href="https://github.com/Atoyebi"><img src="https://avatars.githubusercontent.com/u/17045762?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Atoyebi"><b>Atoyebi</b></a><br><sub>&#64;Atoyebi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">703</td>
+<td align="right">761</td>
 <td><a href="https://github.com/Attitude1"><img src="https://avatars.githubusercontent.com/u/24229670?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Attitude1"><b>Daniel Theophilus</b></a><br><sub>&#64;Attitude1</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">704</td>
+<td align="right">762</td>
 <td><a href="https://github.com/AURORAGOLDnig"><img src="https://avatars.githubusercontent.com/u/11370941?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AURORAGOLDnig"><b>AURORAGOLDnig</b></a><br><sub>&#64;AURORAGOLDnig</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Kaduna,Kaduna State ,Nigeria.</sub></td>
 </tr>
 <tr>
-<td align="right">705</td>
+<td align="right">763</td>
 <td><a href="https://github.com/autotive"><img src="https://avatars.githubusercontent.com/u/33968463?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/autotive"><b>George Otive Georgia</b></a><br><sub>&#64;autotive</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Ozoro, Delta State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">706</td>
+<td align="right">764</td>
 <td><a href="https://github.com/Auwalvew"><img src="https://avatars.githubusercontent.com/u/34404767?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Auwalvew"><b>MUHAMMAD AUWAL IBRAHIM</b></a><br><sub>&#64;Auwalvew</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">707</td>
+<td align="right">765</td>
 <td><a href="https://github.com/avaziEbenezer"><img src="https://avatars.githubusercontent.com/u/4371391?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/avaziEbenezer"><b>Ebenezer Avazi</b></a><br><sub>&#64;avaziEbenezer</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Abuja, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">708</td>
+<td align="right">766</td>
 <td><a href="https://github.com/awesome419"><img src="https://avatars.githubusercontent.com/u/23297053?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/awesome419"><b>Lawal Babatunde</b></a><br><sub>&#64;awesome419</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">709</td>
+<td align="right">767</td>
 <td><a href="https://github.com/Ayblast"><img src="https://avatars.githubusercontent.com/u/13870904?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ayblast"><b>Ayomiposi Sotomi</b></a><br><sub>&#64;Ayblast</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">710</td>
+<td align="right">768</td>
 <td><a href="https://github.com/aygbn"><img src="https://avatars.githubusercontent.com/u/24214542?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aygbn"><b>Ayo Gbn</b></a><br><sub>&#64;aygbn</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">711</td>
+<td align="right">769</td>
 <td><a href="https://github.com/AyoShina"><img src="https://avatars.githubusercontent.com/u/16981108?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AyoShina"><b>Ayo Adeshina</b></a><br><sub>&#64;AyoShina</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">712</td>
+<td align="right">770</td>
 <td><a href="https://github.com/Aywonda"><img src="https://avatars.githubusercontent.com/u/16148871?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aywonda"><b>AYWONDA(ayanfeolorun)</b></a><br><sub>&#64;Aywonda</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>lagos,nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">713</td>
+<td align="right">771</td>
 <td><a href="https://github.com/AzedFemmie"><img src="https://avatars.githubusercontent.com/u/5318667?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AzedFemmie"><b>AZEEZ OLUWAFEMI</b></a><br><sub>&#64;AzedFemmie</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Lagos Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">714</td>
+<td align="right">772</td>
 <td><a href="https://github.com/Azonance"><img src="https://avatars.githubusercontent.com/u/32529276?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Azonance"><b>Chukwuemeka Ibegbu</b></a><br><sub>&#64;Azonance</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria, Rivers State, Portharcourt</sub></td>
 </tr>
 <tr>
-<td align="right">715</td>
+<td align="right">773</td>
 <td><a href="https://github.com/bajid"><img src="https://avatars.githubusercontent.com/u/23706520?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bajid"><b>bajid</b></a><br><sub>&#64;bajid</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria, Rivers state, Port Harcourt</sub></td>
 </tr>
 <tr>
-<td align="right">716</td>
+<td align="right">774</td>
 <td><a href="https://github.com/baliosense"><img src="https://avatars.githubusercontent.com/u/21121977?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/baliosense"><b>baliosense</b></a><br><sub>&#64;baliosense</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">717</td>
+<td align="right">775</td>
 <td><a href="https://github.com/bamsbee"><img src="https://avatars.githubusercontent.com/u/13389443?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bamsbee"><b>Audu Barnabas</b></a><br><sub>&#64;bamsbee</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Abuja Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">718</td>
+<td align="right">776</td>
 <td><a href="https://github.com/BarakatSheriff1"><img src="https://avatars.githubusercontent.com/u/25923899?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BarakatSheriff1"><b>Barakat Adenike Sheriff</b></a><br><sub>&#64;BarakatSheriff1</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Lagos Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">719</td>
+<td align="right">777</td>
 <td><a href="https://github.com/barnabas-futm"><img src="https://avatars.githubusercontent.com/u/270122464?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/barnabas-futm"><b>Barnabas Olawoore</b></a><br><sub>&#64;barnabas-futm</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Minna, Niger State.</sub></td>
 </tr>
 <tr>
-<td align="right">720</td>
+<td align="right">778</td>
 <td><a href="https://github.com/Bashjnr"><img src="https://avatars.githubusercontent.com/u/12152736?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bashjnr"><b>Abubakar Bashir</b></a><br><sub>&#64;Bashjnr</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">721</td>
+<td align="right">779</td>
 <td><a href="https://github.com/beckyjerome"><img src="https://avatars.githubusercontent.com/u/8418722?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/beckyjerome"><b>Becky Jerome</b></a><br><sub>&#64;beckyjerome</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">722</td>
+<td align="right">780</td>
 <td><a href="https://github.com/beealkali"><img src="https://avatars.githubusercontent.com/u/25441696?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/beealkali"><b>Abdulrahman Barkindo Alkali</b></a><br><sub>&#64;beealkali</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Yola, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">723</td>
+<td align="right">781</td>
 <td><a href="https://github.com/BeeTech00"><img src="https://avatars.githubusercontent.com/u/33424377?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BeeTech00"><b>Emmanuel Etim</b></a><br><sub>&#64;BeeTech00</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">724</td>
+<td align="right">782</td>
 <td><a href="https://github.com/bengafa"><img src="https://avatars.githubusercontent.com/u/33180197?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bengafa"><b>Gbenga Fola-Alade</b></a><br><sub>&#64;bengafa</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Lagos,Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">725</td>
+<td align="right">783</td>
 <td><a href="https://github.com/benlatestnews"><img src="https://avatars.githubusercontent.com/u/7997575?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/benlatestnews"><b>BEN Latest News</b></a><br><sub>&#64;benlatestnews</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">726</td>
+<td align="right">784</td>
 <td><a href="https://github.com/bfaruq"><img src="https://avatars.githubusercontent.com/u/29557791?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bfaruq"><b>bfaruq</b></a><br><sub>&#64;bfaruq</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>NIGERIA</sub></td>
 </tr>
 <tr>
-<td align="right">727</td>
+<td align="right">785</td>
 <td><a href="https://github.com/Bidex4luv"><img src="https://avatars.githubusercontent.com/u/20255847?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bidex4luv"><b>Sopeju Abidemi Paul</b></a><br><sub>&#64;Bidex4luv</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">728</td>
+<td align="right">786</td>
 <td><a href="https://github.com/Big-homie"><img src="https://avatars.githubusercontent.com/u/19352640?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Big-homie"><b>Jasper Nnaya</b></a><br><sub>&#64;Big-homie</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Lagos, nigeria.</sub></td>
 </tr>
 <tr>
-<td align="right">729</td>
+<td align="right">787</td>
 <td><a href="https://github.com/Bilqiis"><img src="https://avatars.githubusercontent.com/u/19664326?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bilqiis"><b>Bilikisu Aderinto</b></a><br><sub>&#64;Bilqiis</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">730</td>
+<td align="right">788</td>
 <td><a href="https://github.com/bintaojone"><img src="https://avatars.githubusercontent.com/u/18236733?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bintaojone"><b>Binta Ojone</b></a><br><sub>&#64;bintaojone</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">731</td>
+<td align="right">789</td>
 <td><a href="https://github.com/bkynigeria"><img src="https://avatars.githubusercontent.com/u/11969337?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bkynigeria"><b>Yahuza Sa&#39;idu BKY Kakihum</b></a><br><sub>&#64;bkynigeria</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Kakihum, Niger, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">732</td>
+<td align="right">790</td>
 <td><a href="https://github.com/Blackbitltd"><img src="https://avatars.githubusercontent.com/u/33618853?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Blackbitltd"><b>Blackbit Limited</b></a><br><sub>&#64;Blackbitltd</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Abuja, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">733</td>
+<td align="right">791</td>
 <td><a href="https://github.com/blecoblaze"><img src="https://avatars.githubusercontent.com/u/1182653?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/blecoblaze"><b>osawaru blessed</b></a><br><sub>&#64;blecoblaze</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Edo state, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">734</td>
+<td align="right">792</td>
 <td><a href="https://github.com/Blessedmax75"><img src="https://avatars.githubusercontent.com/u/154686710?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Blessedmax75"><b>Pst Maxwell Ifeanyi Anozie</b></a><br><sub>&#64;Blessedmax75</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Owerri North, Imo State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">735</td>
+<td align="right">793</td>
 <td><a href="https://github.com/cdcsma"><img src="https://avatars.githubusercontent.com/u/1645479?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cdcsma"><b>Adedamola Ola.</b></a><br><sub>&#64;cdcsma</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">736</td>
+<td align="right">794</td>
 <td><a href="https://github.com/Chjxson001"><img src="https://avatars.githubusercontent.com/u/224475449?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Chjxson001"><b>hussaini emmanuel</b></a><br><sub>&#64;Chjxson001</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">737</td>
+<td align="right">795</td>
 <td><a href="https://github.com/chumac"><img src="https://avatars.githubusercontent.com/u/11174587?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chumac"><b>Chuma Chukwujama</b></a><br><sub>&#64;chumac</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">738</td>
+<td align="right">796</td>
 <td><a href="https://github.com/comribnharuna"><img src="https://avatars.githubusercontent.com/u/55330221?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/comribnharuna"><b>comribnharuna</b></a><br><sub>&#64;comribnharuna</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Bida, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">739</td>
+<td align="right">797</td>
 <td><a href="https://github.com/Daniel5-lgtm"><img src="https://avatars.githubusercontent.com/u/218738207?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Daniel5-lgtm"><b>Imafidon Daniel Usifo</b></a><br><sub>&#64;Daniel5-lgtm</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Futminna, Niger state Nigeria.</sub></td>
 </tr>
 <tr>
-<td align="right">740</td>
+<td align="right">798</td>
 <td><a href="https://github.com/danox"><img src="https://avatars.githubusercontent.com/u/1029897?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danox"><b>Emmanuel</b></a><br><sub>&#64;danox</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">741</td>
+<td align="right">799</td>
 <td><a href="https://github.com/davidsimeonsworld"><img src="https://avatars.githubusercontent.com/u/110250512?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/davidsimeonsworld"><b>David Simeon</b></a><br><sub>&#64;davidsimeonsworld</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Minna, Niger State Nigeria.</sub></td>
 </tr>
 <tr>
-<td align="right">742</td>
+<td align="right">800</td>
 <td><a href="https://github.com/Decencey"><img src="https://avatars.githubusercontent.com/u/211348987?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Decencey"><b>Imran Abubakar</b></a><br><sub>&#64;Decencey</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Lapai, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">743</td>
+<td align="right">801</td>
 <td><a href="https://github.com/ekinsjulius"><img src="https://avatars.githubusercontent.com/u/155924037?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ekinsjulius"><b>ekinsjulius</b></a><br><sub>&#64;ekinsjulius</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Kontagora, Niger State Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">744</td>
+<td align="right">802</td>
 <td><a href="https://github.com/el-saleem001"><img src="https://avatars.githubusercontent.com/u/36265481?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/el-saleem001"><b>SaleemInk</b></a><br><sub>&#64;el-saleem001</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Sabon wuse, niger state, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">745</td>
+<td align="right">803</td>
 <td><a href="https://github.com/elhazzan"><img src="https://avatars.githubusercontent.com/u/313139525?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/elhazzan"><b>I.H Kpatako</b></a><br><sub>&#64;elhazzan</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niger State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">746</td>
+<td align="right">804</td>
 <td><a href="https://github.com/Emmanuelmmadu"><img src="https://avatars.githubusercontent.com/u/122973020?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Emmanuelmmadu"><b>Emmanuel mmaduabuchi/ Emma</b></a><br><sub>&#64;Emmanuelmmadu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Abuja Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">747</td>
+<td align="right">805</td>
 <td><a href="https://github.com/First-Clickk"><img src="https://avatars.githubusercontent.com/u/104674997?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/First-Clickk"><b>Jonah Amos</b></a><br><sub>&#64;First-Clickk</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Minna Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">748</td>
+<td align="right">806</td>
 <td><a href="https://github.com/freshlight"><img src="https://avatars.githubusercontent.com/u/1008800?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/freshlight"><b>freshlight</b></a><br><sub>&#64;freshlight</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">749</td>
+<td align="right">807</td>
 <td><a href="https://github.com/giragi-dotcom"><img src="https://avatars.githubusercontent.com/u/120281532?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/giragi-dotcom"><b>Yahaya Ahmed Giragi</b></a><br><sub>&#64;giragi-dotcom</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Bida, Niger State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">750</td>
+<td align="right">808</td>
 <td><a href="https://github.com/goddy-u"><img src="https://avatars.githubusercontent.com/u/28561508?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/goddy-u"><b>Goddy Urhoghide</b></a><br><sub>&#64;goddy-u</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">751</td>
+<td align="right">809</td>
 <td><a href="https://github.com/Grader7"><img src="https://avatars.githubusercontent.com/u/29254927?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Grader7"><b>Illiya</b></a><br><sub>&#64;Grader7</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">752</td>
+<td align="right">810</td>
 <td><a href="https://github.com/harmonycute"><img src="https://avatars.githubusercontent.com/u/58311102?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/harmonycute"><b>Harmonycute</b></a><br><sub>&#64;harmonycute</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Minna, Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">753</td>
+<td align="right">811</td>
 <td><a href="https://github.com/healinsmile"><img src="https://avatars.githubusercontent.com/u/10100557?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/healinsmile"><b>Mark C Onichabor</b></a><br><sub>&#64;healinsmile</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">754</td>
+<td align="right">812</td>
 <td><a href="https://github.com/HussainiEbbo"><img src="https://avatars.githubusercontent.com/u/28761750?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HussainiEbbo"><b>Hussainiebbo</b></a><br><sub>&#64;HussainiEbbo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niger state minna</sub></td>
 </tr>
 <tr>
-<td align="right">755</td>
+<td align="right">813</td>
 <td><a href="https://github.com/I4G-FUTMinna"><img src="https://avatars.githubusercontent.com/u/100221474?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/I4G-FUTMinna"><b>I4G FUTMinna</b></a><br><sub>&#64;I4G-FUTMinna</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Minna, Niger State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">756</td>
+<td align="right">814</td>
 <td><a href="https://github.com/idayo"><img src="https://avatars.githubusercontent.com/u/2090645?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/idayo"><b>Adedayo Ayoade</b></a><br><sub>&#64;idayo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">757</td>
+<td align="right">815</td>
 <td><a href="https://github.com/Ikoje"><img src="https://avatars.githubusercontent.com/u/1750464?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ikoje"><b>Ikoje</b></a><br><sub>&#64;Ikoje</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Lagos Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">758</td>
+<td align="right">816</td>
 <td><a href="https://github.com/ismailae"><img src="https://avatars.githubusercontent.com/u/1662791?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ismailae"><b>Ewebiyi Olatunji I</b></a><br><sub>&#64;ismailae</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">759</td>
+<td align="right">817</td>
 <td><a href="https://github.com/Izumolarez"><img src="https://avatars.githubusercontent.com/u/34273164?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Izumolarez"><b>Izu Molarez</b></a><br><sub>&#64;Izumolarez</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Lagos, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">760</td>
+<td align="right">818</td>
 <td><a href="https://github.com/jesujuwonafolabi"><img src="https://avatars.githubusercontent.com/u/259149633?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jesujuwonafolabi"><b>Jesujuwon David Afolabi</b></a><br><sub>&#64;jesujuwonafolabi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">761</td>
+<td align="right">819</td>
 <td><a href="https://github.com/Joescripts"><img src="https://avatars.githubusercontent.com/u/29213687?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Joescripts"><b>Joshua</b></a><br><sub>&#64;Joescripts</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Abuja,nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">762</td>
+<td align="right">820</td>
 <td><a href="https://github.com/Kesman"><img src="https://avatars.githubusercontent.com/u/20090734?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kesman"><b>Kelechi Nwogu</b></a><br><sub>&#64;Kesman</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">763</td>
+<td align="right">821</td>
 <td><a href="https://github.com/Khady999"><img src="https://avatars.githubusercontent.com/u/229002725?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Khady999"><b>Khadijat Isah</b></a><br><sub>&#64;Khady999</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Minna, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">764</td>
+<td align="right">822</td>
 <td><a href="https://github.com/Khaleethau"><img src="https://avatars.githubusercontent.com/u/242899746?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Khaleethau"><b>Khaleethau</b></a><br><sub>&#64;Khaleethau</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niger, Minna</sub></td>
 </tr>
 <tr>
-<td align="right">765</td>
+<td align="right">823</td>
 <td><a href="https://github.com/Latifah-1991"><img src="https://avatars.githubusercontent.com/u/240448833?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Latifah-1991"><b>Afolabi Latifah Bukola</b></a><br><sub>&#64;Latifah-1991</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Suleja, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">766</td>
+<td align="right">824</td>
 <td><a href="https://github.com/LightIhesiulo"><img src="https://avatars.githubusercontent.com/u/34598015?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LightIhesiulo"><b>Light Ihesiulo</b></a><br><sub>&#64;LightIhesiulo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Abuja Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">767</td>
+<td align="right">825</td>
 <td><a href="https://github.com/MAlfaSMT"><img src="https://avatars.githubusercontent.com/u/333010151?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MAlfaSMT"><b>Sadiq Muhammad Alfa</b></a><br><sub>&#64;MAlfaSMT</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Badeggi, Katcha, Niger State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">768</td>
+<td align="right">826</td>
 <td><a href="https://github.com/MammanThanni"><img src="https://avatars.githubusercontent.com/u/17176666?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MammanThanni"><b>Sani Musa</b></a><br><sub>&#64;MammanThanni</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Minna Niger State Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">769</td>
+<td align="right">827</td>
 <td><a href="https://github.com/Mateepha"><img src="https://avatars.githubusercontent.com/u/120279193?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mateepha"><b>Fatima Alhassan</b></a><br><sub>&#64;Mateepha</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>BIDA, Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">770</td>
+<td align="right">828</td>
 <td><a href="https://github.com/Michaeluzomamichael"><img src="https://avatars.githubusercontent.com/u/14204134?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Michaeluzomamichael"><b>Michaeluzomamichael</b></a><br><sub>&#64;Michaeluzomamichael</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">771</td>
+<td align="right">829</td>
 <td><a href="https://github.com/motionplus"><img src="https://avatars.githubusercontent.com/u/25086075?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/motionplus"><b>MotionPlus Logistics Ltd</b></a><br><sub>&#64;motionplus</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Abuja Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">772</td>
+<td align="right">830</td>
 <td><a href="https://github.com/mrshadrach"><img src="https://avatars.githubusercontent.com/u/29674513?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrshadrach"><b>Shadrach</b></a><br><sub>&#64;mrshadrach</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">773</td>
+<td align="right">831</td>
 <td><a href="https://github.com/Muhammadsadeeqisah"><img src="https://avatars.githubusercontent.com/u/117505810?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Muhammadsadeeqisah"><b>Muhammad sadeeq Isah</b></a><br><sub>&#64;Muhammadsadeeqisah</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Bida niger state</sub></td>
 </tr>
 <tr>
-<td align="right">774</td>
+<td align="right">832</td>
 <td><a href="https://github.com/ndanusadaddy"><img src="https://avatars.githubusercontent.com/u/67150071?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ndanusadaddy"><b>ABDULLAHI NDANUSA MUHAMMAD</b></a><br><sub>&#64;ndanusadaddy</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niger state Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">775</td>
+<td align="right">833</td>
 <td><a href="https://github.com/NHCtechie"><img src="https://avatars.githubusercontent.com/u/123553074?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NHCtechie"><b>Nifemi Ogunrinde</b></a><br><sub>&#64;NHCtechie</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">776</td>
+<td align="right">834</td>
 <td><a href="https://github.com/onwu"><img src="https://avatars.githubusercontent.com/u/16839564?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/onwu"><b>Onwu Gideon</b></a><br><sub>&#64;onwu</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Calabar, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">777</td>
+<td align="right">835</td>
 <td><a href="https://github.com/pelumiadeleke"><img src="https://avatars.githubusercontent.com/u/244745415?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pelumiadeleke"><b>Adeleke Pelumi John</b></a><br><sub>&#64;pelumiadeleke</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Minna, Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">778</td>
+<td align="right">836</td>
 <td><a href="https://github.com/Resaint"><img src="https://avatars.githubusercontent.com/u/65181947?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Resaint"><b>Joseph Alexander</b></a><br><sub>&#64;Resaint</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">779</td>
+<td align="right">837</td>
 <td><a href="https://github.com/robertmoses"><img src="https://avatars.githubusercontent.com/u/28054521?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/robertmoses"><b>Abah Moses</b></a><br><sub>&#64;robertmoses</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Umuahia, Abia State Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">780</td>
+<td align="right">838</td>
 <td><a href="https://github.com/saeedmahmud0"><img src="https://avatars.githubusercontent.com/u/156530713?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/saeedmahmud0"><b>Saeed Mahmud</b></a><br><sub>&#64;saeedmahmud0</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Minna niger state</sub></td>
 </tr>
 <tr>
-<td align="right">781</td>
+<td align="right">839</td>
 <td><a href="https://github.com/Smartremedy"><img src="https://avatars.githubusercontent.com/u/96021266?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Smartremedy"><b>Michael Smart onyeke</b></a><br><sub>&#64;Smartremedy</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Minna, Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">782</td>
+<td align="right">840</td>
 <td><a href="https://github.com/Stonypeterz"><img src="https://avatars.githubusercontent.com/u/9587274?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Stonypeterz"><b>Stephen Eze</b></a><br><sub>&#64;Stonypeterz</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">783</td>
+<td align="right">841</td>
 <td><a href="https://github.com/sufyan01"><img src="https://avatars.githubusercontent.com/u/24251516?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sufyan01"><b>Sufyan Mustafa</b></a><br><sub>&#64;sufyan01</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nasarawa state Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">784</td>
+<td align="right">842</td>
 <td><a href="https://github.com/truthseeker-lang"><img src="https://avatars.githubusercontent.com/u/69787870?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/truthseeker-lang"><b>Moshood Ibrahim</b></a><br><sub>&#64;truthseeker-lang</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Nigeria, Niger state, suleja</sub></td>
 </tr>
 <tr>
-<td align="right">785</td>
+<td align="right">843</td>
 <td><a href="https://github.com/Usman9230"><img src="https://avatars.githubusercontent.com/u/250299942?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Usman9230"><b>Usman Adabara</b></a><br><sub>&#64;Usman9230</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Minna, Niger State, Nigeria.</sub></td>
 </tr>
 <tr>
-<td align="right">786</td>
+<td align="right">844</td>
 <td><a href="https://github.com/yahayadoko"><img src="https://avatars.githubusercontent.com/u/20816087?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yahayadoko"><b>yahayadoko</b></a><br><sub>&#64;yahayadoko</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>BIDA NIGER STATE, NIGERIA</sub></td>
 </tr>
 <tr>
-<td align="right">787</td>
+<td align="right">845</td>
 <td><a href="https://github.com/Abbamarafa"><img src="https://avatars.githubusercontent.com/u/48853052?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abbamarafa"><b>Mahmud Mohammed Abba</b></a><br><sub>&#64;Abbamarafa</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Computer Science Department, Ibrahim Badamasi B…</sub></td>
 </tr>
 <tr>
-<td align="right">788</td>
+<td align="right">846</td>
 <td><a href="https://github.com/Abdullateef42"><img src="https://avatars.githubusercontent.com/u/185323788?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abdullateef42"><b>Abdullateef Adebayo</b></a><br><sub>&#64;Abdullateef42</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Suleja Niger state,NIGERIA.</sub></td>
 </tr>
 <tr>
-<td align="right">789</td>
+<td align="right">847</td>
 <td><a href="https://github.com/Adewumifemisi-ops"><img src="https://avatars.githubusercontent.com/u/276657491?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Adewumifemisi-ops"><b>Adewumi</b></a><br><sub>&#64;Adewumifemisi-ops</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">790</td>
+<td align="right">848</td>
 <td><a href="https://github.com/Aisha1049"><img src="https://avatars.githubusercontent.com/u/113568457?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Aisha1049"><b>Aisha Saidu Salihu</b></a><br><sub>&#64;Aisha1049</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Minna, Niger State,Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">791</td>
+<td align="right">849</td>
 <td><a href="https://github.com/babaemigi"><img src="https://avatars.githubusercontent.com/u/142682251?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/babaemigi"><b>muhammmad muhammad</b></a><br><sub>&#64;babaemigi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Nigeria, Niger State.</sub></td>
 </tr>
 <tr>
-<td align="right">792</td>
+<td align="right">850</td>
 <td><a href="https://github.com/Badmos2107"><img src="https://avatars.githubusercontent.com/u/83887698?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Badmos2107"><b>Musa Badmos Bature</b></a><br><sub>&#64;Badmos2107</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Gidan Kwano, Minna, Niger State.</sub></td>
 </tr>
 <tr>
-<td align="right">793</td>
+<td align="right">851</td>
 <td><a href="https://github.com/BashMass"><img src="https://avatars.githubusercontent.com/u/110870086?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BashMass"><b>Buhari Bashir Muhammad</b></a><br><sub>&#64;BashMass</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Minna Niger State Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">794</td>
+<td align="right">852</td>
 <td><a href="https://github.com/bawasofttech"><img src="https://avatars.githubusercontent.com/u/222063626?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bawasofttech"><b>Usman Bawa</b></a><br><sub>&#64;bawasofttech</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Minna, Niger State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">795</td>
+<td align="right">853</td>
 <td><a href="https://github.com/DarlingtonIgboanugo"><img src="https://avatars.githubusercontent.com/u/107169090?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DarlingtonIgboanugo"><b>DARLINGTON Chinemerem IGBOANUGO</b></a><br><sub>&#64;DarlingtonIgboanugo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Minna, Niger state, Nigeria.</sub></td>
 </tr>
 <tr>
-<td align="right">796</td>
+<td align="right">854</td>
 <td><a href="https://github.com/Davfempul"><img src="https://avatars.githubusercontent.com/u/125182067?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Davfempul"><b>David femi paul</b></a><br><sub>&#64;Davfempul</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">797</td>
+<td align="right">855</td>
 <td><a href="https://github.com/Deb-Dcodei"><img src="https://avatars.githubusercontent.com/u/297127444?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Deb-Dcodei"><b>Deborah obunamu Ajagun</b></a><br><sub>&#64;Deb-Dcodei</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Minna, Niger State.</sub></td>
 </tr>
 <tr>
-<td align="right">798</td>
+<td align="right">856</td>
 <td><a href="https://github.com/gloriaode"><img src="https://avatars.githubusercontent.com/u/173898843?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gloriaode"><b>Gloria Ode</b></a><br><sub>&#64;gloriaode</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Minna, Niger State.</sub></td>
 </tr>
 <tr>
-<td align="right">799</td>
+<td align="right">857</td>
 <td><a href="https://github.com/hajrahkhalid"><img src="https://avatars.githubusercontent.com/u/39224194?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hajrahkhalid"><b>Hajara Adamu Khalid</b></a><br><sub>&#64;hajrahkhalid</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Minna, Niger State, Nigeria.</sub></td>
 </tr>
 <tr>
-<td align="right">800</td>
+<td align="right">858</td>
 <td><a href="https://github.com/HazzanUmar"><img src="https://avatars.githubusercontent.com/u/146463112?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HazzanUmar"><b>Hazzan Umar</b></a><br><sub>&#64;HazzanUmar</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Minna Niger State Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">801</td>
+<td align="right">859</td>
 <td><a href="https://github.com/HONESTY001"><img src="https://avatars.githubusercontent.com/u/149210509?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HONESTY001"><b>honestytech1</b></a><br><sub>&#64;HONESTY001</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Bida, Niger Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">802</td>
+<td align="right">860</td>
 <td><a href="https://github.com/iradat76"><img src="https://avatars.githubusercontent.com/u/69821956?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iradat76"><b>Iradah tajudeen</b></a><br><sub>&#64;iradat76</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">803</td>
+<td align="right">861</td>
 <td><a href="https://github.com/Jibrinzugurma121"><img src="https://avatars.githubusercontent.com/u/112910277?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jibrinzugurma121"><b>Jibrin ISAH</b></a><br><sub>&#64;Jibrinzugurma121</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Zugurma Niger Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">804</td>
+<td align="right">862</td>
 <td><a href="https://github.com/Kiki2101"><img src="https://avatars.githubusercontent.com/u/134433141?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kiki2101"><b>Kikiope</b></a><br><sub>&#64;Kiki2101</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">805</td>
+<td align="right">863</td>
 <td><a href="https://github.com/Mach2101"><img src="https://avatars.githubusercontent.com/u/134980258?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mach2101"><b>Mathias Celestine E.</b></a><br><sub>&#64;Mach2101</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">806</td>
+<td align="right">864</td>
 <td><a href="https://github.com/Mhyeereah"><img src="https://avatars.githubusercontent.com/u/128893000?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mhyeereah"><b>SAMIRA ABDULHAMID</b></a><br><sub>&#64;Mhyeereah</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Sulejaa, Niger State, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">807</td>
+<td align="right">865</td>
 <td><a href="https://github.com/MoDivine"><img src="https://avatars.githubusercontent.com/u/28953782?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MoDivine"><b>Solomon Moses</b></a><br><sub>&#64;MoDivine</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Federal University of Technology, Minna, Niger…</sub></td>
 </tr>
 <tr>
-<td align="right">808</td>
+<td align="right">866</td>
 <td><a href="https://github.com/Muhammadyahaya"><img src="https://avatars.githubusercontent.com/u/120315144?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Muhammadyahaya"><b>Yahaya Muhammad</b></a><br><sub>&#64;Muhammadyahaya</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger State Minna</sub></td>
 </tr>
 <tr>
-<td align="right">809</td>
+<td align="right">867</td>
 <td><a href="https://github.com/Mustapha-elmusti"><img src="https://avatars.githubusercontent.com/u/113618940?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mustapha-elmusti"><b>Mustapha</b></a><br><sub>&#64;Mustapha-elmusti</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Minna Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">810</td>
+<td align="right">868</td>
 <td><a href="https://github.com/ndagoyi78"><img src="https://avatars.githubusercontent.com/u/115071324?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ndagoyi78"><b>Abubakar Adamu Mohammed</b></a><br><sub>&#64;ndagoyi78</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>BIDA NIGER STATE</sub></td>
 </tr>
 <tr>
-<td align="right">811</td>
+<td align="right">869</td>
 <td><a href="https://github.com/Neefah12"><img src="https://avatars.githubusercontent.com/u/228751201?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Neefah12"><b>Neefah12</b></a><br><sub>&#64;Neefah12</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">812</td>
+<td align="right">870</td>
 <td><a href="https://github.com/nurudeenmusakoko92-n"><img src="https://avatars.githubusercontent.com/u/228613909?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nurudeenmusakoko92-n"><b>Nurudeen Musa Koko</b></a><br><sub>&#64;nurudeenmusakoko92-n</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Suleja Niger State</sub></td>
 </tr>
 <tr>
-<td align="right">813</td>
+<td align="right">871</td>
 <td><a href="https://github.com/ohahanyhiohe"><img src="https://avatars.githubusercontent.com/u/233291374?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ohahanyhiohe"><b>Emmanuel Ogor</b></a><br><sub>&#64;ohahanyhiohe</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>MINNA, NIGER STATE, NIGERIA.</sub></td>
 </tr>
 <tr>
-<td align="right">814</td>
+<td align="right">872</td>
 <td><a href="https://github.com/Paullustein"><img src="https://avatars.githubusercontent.com/u/146084677?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Paullustein"><b>Umar Paul</b></a><br><sub>&#64;Paullustein</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Minna Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">815</td>
+<td align="right">873</td>
 <td><a href="https://github.com/Philosopher-2000"><img src="https://avatars.githubusercontent.com/u/283813207?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Philosopher-2000"><b>Philips Olamide Oladele</b></a><br><sub>&#64;Philosopher-2000</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger state Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">816</td>
+<td align="right">874</td>
 <td><a href="https://github.com/SHIMANAPROMOTIONS"><img src="https://avatars.githubusercontent.com/u/181608018?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SHIMANAPROMOTIONS"><b>SHIMAYOHOL NATHANIEL</b></a><br><sub>&#64;SHIMANAPROMOTIONS</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>FUTMINNA NIGER STATE, NIGERIA</sub></td>
 </tr>
 <tr>
-<td align="right">817</td>
+<td align="right">875</td>
 <td><a href="https://github.com/sukhsess247"><img src="https://avatars.githubusercontent.com/u/266516522?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sukhsess247"><b>Sukhsess</b></a><br><sub>&#64;sukhsess247</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">818</td>
+<td align="right">876</td>
 <td><a href="https://github.com/Umar-132"><img src="https://avatars.githubusercontent.com/u/145115549?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Umar-132"><b>Umar Abba</b></a><br><sub>&#64;Umar-132</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">819</td>
+<td align="right">877</td>
 <td><a href="https://github.com/Uncuff"><img src="https://avatars.githubusercontent.com/u/120824504?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Uncuff"><b>Narnia</b></a><br><sub>&#64;Uncuff</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger, Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">820</td>
+<td align="right">878</td>
 <td><a href="https://github.com/ussyDangaladima1"><img src="https://avatars.githubusercontent.com/u/168965369?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ussyDangaladima1"><b>USMAN Shehu Farouk</b></a><br><sub>&#64;ussyDangaladima1</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Minna Niger State Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">821</td>
+<td align="right">879</td>
 <td><a href="https://github.com/Vthhisgrace"><img src="https://avatars.githubusercontent.com/u/95716764?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Vthhisgrace"><b>Hisgrace</b></a><br><sub>&#64;Vthhisgrace</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Minna Niger state</sub></td>
 </tr>
 <tr>
-<td align="right">822</td>
+<td align="right">880</td>
 <td><a href="https://github.com/yaksizamani001"><img src="https://avatars.githubusercontent.com/u/214297518?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yaksizamani001"><b>Yakubu Haruna</b></a><br><sub>&#64;yaksizamani001</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Niger state Nigeria</sub></td>
 </tr>
 <tr>
-<td align="right">823</td>
+<td align="right">881</td>
 <td><a href="https://github.com/yescrypto-dotcom"><img src="https://avatars.githubusercontent.com/u/322203028?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yescrypto-dotcom"><b>Abdulkarim Hamisu</b></a><br><sub>&#64;yescrypto-dotcom</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Suleja,Niger State.</sub></td>
 </tr>
 <tr>
-<td align="right">824</td>
+<td align="right">882</td>
 <td><a href="https://github.com/Zee-empire1"><img src="https://avatars.githubusercontent.com/u/53402170?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Zee-empire1"><b>Manzuma zainab</b></a><br><sub>&#64;Zee-empire1</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -5797,7 +6203,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 824 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 882 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 0 of 147 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

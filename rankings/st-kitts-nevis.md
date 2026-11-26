@@ -33,8 +33,8 @@
 <tr>
 <td align="right">2</td>
 <td><img src="https://github.com/RaoFoundation.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RaoFoundation/bittensor"><b>RaoFoundation/bittensor</b></a> <sub>archived</sub><br><sub>Internet-scale Neural Networks</sub></td>
-<td align="right"><b>1,465</b></td>
-<td align="right">470</td>
+<td align="right"><b>1,466</b></td>
+<td align="right">469</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -320,7 +320,7 @@
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 0 stars; 41 attributed candidates are tracked.
 - 37 entries were carried over from the previous dataset and are pending revalidation.
-- 45 multi-repository owners are queued for expansion.
+- 44 multi-repository owners are queued for expansion.
 - **Location discovery:** term 6 of 47 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

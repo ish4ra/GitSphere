@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **20** | 24 Nov 2026 | <a href="../../data/developers/ST.json">JSON</a> |
+| 🟡 Provisional | **21** | 24 Nov 2026 | <a href="../../data/developers/ST.json">JSON</a> |
 
 </div>
 
@@ -114,48 +114,55 @@
 </tr>
 <tr>
 <td align="right">14</td>
+<td><a href="https://github.com/desodupdatemylife"><img src="https://avatars.githubusercontent.com/u/183334400?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/desodupdatemylife"><b>desodupdatemylife</b></a><br><sub>&#64;desodupdatemylife</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">4</td>
+<td><sub>Sao Tomé en Principe (ST)</sub></td>
+</tr>
+<tr>
+<td align="right">15</td>
 <td><a href="https://github.com/EdmyPenhor"><img src="https://avatars.githubusercontent.com/u/85233095?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EdmyPenhor"><b>Edmilson Penhor</b></a><br><sub>&#64;EdmyPenhor</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>São Tomé e Príncipe</sub></td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><a href="https://github.com/fredemarta"><img src="https://avatars.githubusercontent.com/u/129666774?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fredemarta"><b>Frede Marta</b></a><br><sub>&#64;fredemarta</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">3</td>
 <td><sub>São Tomé e Príncipe</sub></td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">17</td>
 <td><a href="https://github.com/pretpo"><img src="https://avatars.githubusercontent.com/u/259558818?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pretpo"><b>Manuel &quot;pretpo&quot; Santos</b></a><br><sub>&#64;pretpo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>São Tomé and Príncipe</sub></td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">18</td>
 <td><a href="https://github.com/alekssanderquintas"><img src="https://avatars.githubusercontent.com/u/253700408?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alekssanderquintas"><b>Alekssander Costa</b></a><br><sub>&#64;alekssanderquintas</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>São Tomé e Príncipe</sub></td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">19</td>
 <td><a href="https://github.com/danielneto81"><img src="https://avatars.githubusercontent.com/u/40388125?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danielneto81"><b>Daniel Neto</b></a><br><sub>&#64;danielneto81</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>São Tomé e Príncipe</sub></td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">20</td>
 <td><a href="https://github.com/EuclidesPn"><img src="https://avatars.githubusercontent.com/u/96974771?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EuclidesPn"><b>Euclides Penetra</b></a><br><sub>&#64;EuclidesPn</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>São Tomé e Príncipe</sub></td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">21</td>
 <td><a href="https://github.com/sousalucio2025-alt"><img src="https://avatars.githubusercontent.com/u/291526949?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sousalucio2025-alt"><b>Lúcio Carvalho</b></a><br><sub>&#64;sousalucio2025-alt</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -169,8 +176,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 20 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 3 of 33 in round 1.
+- Organizations are excluded. 21 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 6 of 33 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

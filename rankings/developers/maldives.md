@@ -87,7 +87,7 @@
 <tr>
 <td align="right">10</td>
 <td><a href="https://github.com/Z3d0X"><img src="https://avatars.githubusercontent.com/u/75579178?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Z3d0X"><b>ZedoX</b></a><br><sub>&#64;Z3d0X</sub></td>
-<td align="right"><b>79</b></td>
+<td align="right"><b>80</b></td>
 <td align="right">21</td>
 <td><sub>Maldives</sub></td>
 </tr>

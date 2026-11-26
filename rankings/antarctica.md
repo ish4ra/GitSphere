@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **33** | 24 Nov 2026 | <a href="../data/AQ.json">JSON</a> |
+| 🟡 Provisional | **35** | 24 Nov 2026 | <a href="../data/AQ.json">JSON</a> |
 
 </div>
 
@@ -252,6 +252,20 @@
 <td align="right">55</td>
 <td>Assembly</td>
 </tr>
+<tr>
+<td align="right">34</td>
+<td><img src="https://github.com/MarlinFirmware.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MarlinFirmware/MarlinDocumentation"><b>MarlinFirmware/MarlinDocumentation</b></a><br><sub>Marlin Firmware Documentation Project</sub></td>
+<td align="right"><b>405</b></td>
+<td align="right">872</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">35</td>
+<td><img src="https://github.com/Washi1337.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Washi1337/OldRod"><b>Washi1337/OldRod</b></a><br><sub>An automated KoiVM disassembler and devirtualisation utility</sub></td>
+<td align="right"><b>389</b></td>
+<td align="right">87</td>
+<td>C#</td>
+</tr>
 </tbody>
 </table>
 
@@ -260,8 +274,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 409 stars; 33 attributed candidates are tracked.
-- 36 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 389 stars; 35 attributed candidates are tracked.
+- 15 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 14 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

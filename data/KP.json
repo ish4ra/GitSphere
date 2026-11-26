@@ -5,7 +5,7 @@
 "country": {"code":"KP","name":"North Korea","slug":"north-korea"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":96,"ownerExpansionBacklog":143,"candidates":104,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":130,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":96,"ownerExpansionBacklog":141,"candidates":104,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":130,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOJSHucg","name":"awesome-open-gpt","nameWithOwner":"EwingYangs/awesome-open-gpt","url":"https://github.com/EwingYangs/awesome-open-gpt","description":"Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥","stars":6076,"forks":543,"primaryLanguage":"Python","license":null,"createdAt":"2023-04-03T13:05:07Z","pushedAt":"2025-05-16T10:55:24Z","archived":false,"owner":{"login":"EwingYangs","name":"Ewing","type":"User","url":"https://github.com/EwingYangs","location":"Guang Dong","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"R_kgDOMq2RnQ","name":"go-emby2openlist","nameWithOwner":"AmbitiousJun/go-emby2openlist","url":"https://github.com/AmbitiousJun/go-emby2openlist","description":"Go 语言编写的 Emby + OpenList (Alist) 网盘直链反向代理服务，深度适配阿里云盘转码播放，支持 OpenList 本地目录树生成，配置简单，DockerCompose 一键部署","stars":676,"forks":71,"primaryLanguage":"Go","license":{"spdxId":"GPL-3.0"},"createdAt":"2024-08-31T08:15:43Z","pushedAt":"2026-09-29T12:30:49Z","archived":false,"owner":{"login":"AmbitiousJun","name":"小陈","type":"User","url":"https://github.com/AmbitiousJun","location":"Guang Dong","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-24"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"PDFSpliter","nameWithOwner":"feishixu/PDFSpliter","url":"https://github.com/feishixu/PDFSpliter","description":null,"stars":0,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2026-03-17T13:57:39Z","pushedAt":"2026-03-17T13:59:16Z","archived":false,"owner":{"login":"feishixu","name":"lxufeishi","type":"User","url":"https://github.com/feishixu","location":"North Korea","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"wwm","nameWithOwner":"fislysandi/wwm","url":"https://github.com/fislysandi/wwm","description":null,"stars":0,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2023-03-11T20:20:14Z","pushedAt":"2026-01-26T14:37:24Z","archived":false,"owner":{"login":"fislysandi","name":null,"type":"User","url":"https://github.com/fislysandi","location":"north korea","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "b6ce0ee0d5adcb85",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "b7efb67ea3796f0e",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

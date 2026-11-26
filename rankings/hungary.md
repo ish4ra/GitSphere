@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/HU.json">JSON</a> |
+| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/HU.json">JSON</a> |
 
 </div>
 
@@ -268,17 +268,17 @@
 </tr>
 <tr>
 <td align="right">36</td>
-<td><img src="https://github.com/Zhuinden.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Zhuinden/simple-stack"><b>Zhuinden/simple-stack</b></a><br><sub>&#91;ACTIVE&#93; Simple Stack, a backstack library / navigation framework for simpler navigation and state management (for frag…</sub></td>
+<td><img src="https://github.com/szenergy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/szenergy/awesome-lidar"><b>szenergy/awesome-lidar</b></a><br><sub>😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud…</sub></td>
 <td align="right"><b>1,376</b></td>
-<td align="right">76</td>
-<td>Java</td>
+<td align="right">139</td>
+<td>—</td>
 </tr>
 <tr>
 <td align="right">37</td>
-<td><img src="https://github.com/szenergy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/szenergy/awesome-lidar"><b>szenergy/awesome-lidar</b></a><br><sub>😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud…</sub></td>
+<td><img src="https://github.com/Zhuinden.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Zhuinden/simple-stack"><b>Zhuinden/simple-stack</b></a><br><sub>&#91;ACTIVE&#93; Simple Stack, a backstack library / navigation framework for simpler navigation and state management (for frag…</sub></td>
 <td align="right"><b>1,375</b></td>
-<td align="right">138</td>
-<td>—</td>
+<td align="right">76</td>
+<td>Java</td>
 </tr>
 <tr>
 <td align="right">38</td>
@@ -289,29 +289,29 @@
 </tr>
 <tr>
 <td align="right">39</td>
+<td><img src="https://github.com/NagyD.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NagyD/SDLPoP"><b>NagyD/SDLPoP</b></a><br><sub>An open-source port of Prince of Persia, based on the disassembly of the DOS version.</sub></td>
+<td align="right"><b>1,322</b></td>
+<td align="right">183</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">40</td>
 <td><img src="https://github.com/Zhuinden.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Zhuinden/guide-to-kotlin"><b>Zhuinden/guide-to-kotlin</b></a><br><sub>&#91;GUIDE&#93; This tutorial assumes all you know is Java, but you want to learn Kotlin.</sub></td>
 <td align="right"><b>1,321</b></td>
 <td align="right">96</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">40</td>
-<td><img src="https://github.com/NagyD.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NagyD/SDLPoP"><b>NagyD/SDLPoP</b></a><br><sub>An open-source port of Prince of Persia, based on the disassembly of the DOS version.</sub></td>
-<td align="right"><b>1,318</b></td>
-<td align="right">180</td>
-<td>C</td>
-</tr>
-<tr>
 <td align="right">41</td>
 <td><img src="https://github.com/milgra.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/milgra/macmediakeyforwarder"><b>milgra/macmediakeyforwarder</b></a><br><sub>Media Key Forwarder for iTunes and Spotify</sub></td>
 <td align="right"><b>1,283</b></td>
-<td align="right">107</td>
+<td align="right">108</td>
 <td>Objective-C</td>
 </tr>
 <tr>
 <td align="right">42</td>
 <td><img src="https://github.com/gimlet-io.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gimlet-io/capacitor"><b>gimlet-io/capacitor</b></a><br><sub>A general purpose UI for FluxCD.</sub></td>
-<td align="right"><b>1,201</b></td>
+<td align="right"><b>1,202</b></td>
 <td align="right">47</td>
 <td>TypeScript</td>
 </tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 598 stars; 140 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 598 stars; 150 attributed candidates are tracked.
 - 117 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 153 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 22 Nov 2026 | <a href="../../data/contributors/VU.json">JSON</a> |
+| 🟡 Provisional | **8** | 22 Nov 2026 | <a href="../../data/contributors/VU.json">JSON</a> |
 
 </div>
 
@@ -52,6 +52,15 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/Brown-tamata"><img src="https://avatars.githubusercontent.com/u/229843765?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Brown-tamata"><b>Brown-tamata</b></a><br><sub>&#64;Brown-tamata · 0 followers</sub></td>
+<td align="right"><b>81</b></td>
+<td align="right">58</td>
+<td align="right">19</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/52158278"><img src="https://avatars.githubusercontent.com/u/37860012?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/52158278"><b>Barrett Mayert</b></a><br><sub>&#64;52158278 · 0 followers</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">16</td>
@@ -60,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/Kalztar"><img src="https://avatars.githubusercontent.com/u/19895266?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Kalztar"><b>Griffith Kalpokas</b></a><br><sub>&#64;Kalztar · 0 followers</sub></td>
 <td align="right"><b>10</b></td>
 <td align="right">1</td>
@@ -69,7 +78,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/angeu4"><img src="https://avatars.githubusercontent.com/u/15817263?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/angeu4"><b>Angelus Eutherius</b></a><br><sub>&#64;angeu4 · 4 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
@@ -78,7 +87,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">8</td>
 <td><a href="https://github.com/SolaFide"><img src="https://avatars.githubusercontent.com/u/3750351?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SolaFide"><b>Michael Smith</b></a><br><sub>&#64;SolaFide · 0 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -93,7 +102,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 13 of 78 discovered developers (65 awaiting measurement).
+- **Measured:** 14 of 78 discovered developers (64 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 2 of 21 in round 1.

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **84** | 23 Nov 2026 | <a href="../data/PH.json">JSON</a> |
+| 🟡 Provisional | **93** | 24 Nov 2026 | <a href="../data/PH.json">JSON</a> |
 
 </div>
 
@@ -143,21 +143,21 @@
 <tr>
 <td align="right">18</td>
 <td><img src="https://github.com/bryllim.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bryllim/workout-guide"><b>bryllim/workout-guide</b></a><br><sub>302 open exercise illustrations and a framework-neutral npm package by Bryl Lim</sub></td>
-<td align="right"><b>1,449</b></td>
-<td align="right">202</td>
+<td align="right"><b>1,452</b></td>
+<td align="right">203</td>
 <td>Astro</td>
 </tr>
 <tr>
 <td align="right">19</td>
 <td><img src="https://github.com/mugnavo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mugnavo/cove"><b>mugnavo/cove</b></a><br><sub>The Cove Stack: 🏝️ minimal TanStack Start template with Vite+, Better Auth, Drizzle ORM, shadcn/ui</sub></td>
-<td align="right"><b>1,405</b></td>
-<td align="right">87</td>
+<td align="right"><b>1,407</b></td>
+<td align="right">89</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">20</td>
 <td><img src="https://github.com/darryldecode.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/darryldecode/laravelshoppingcart"><b>darryldecode/laravelshoppingcart</b></a><br><sub>Shopping Cart Implementation for Laravel Framework</sub></td>
-<td align="right"><b>1,401</b></td>
+<td align="right"><b>1,400</b></td>
 <td align="right">492</td>
 <td>PHP</td>
 </tr>
@@ -171,21 +171,21 @@
 <tr>
 <td align="right">22</td>
 <td><img src="https://github.com/jgudo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jgudo/ecommerce-react"><b>jgudo/ecommerce-react</b></a><br><sub>eCommerce web application using React, Redux, Redux-Saga, Firebase and SASS.</sub></td>
-<td align="right"><b>1,345</b></td>
-<td align="right">713</td>
+<td align="right"><b>1,343</b></td>
+<td align="right">712</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">23</td>
 <td><img src="https://github.com/kleo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kleo/evilportals"><b>kleo/evilportals</b></a><br><sub>A collection of captive portals for phishing using a WiFi Pineapple</sub></td>
-<td align="right"><b>1,301</b></td>
+<td align="right"><b>1,305</b></td>
 <td align="right">220</td>
 <td>CSS</td>
 </tr>
 <tr>
 <td align="right">24</td>
 <td><img src="https://github.com/SeaDve.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SeaDve/Mousai"><b>SeaDve/Mousai</b></a><br><sub>Identify songs in seconds</sub></td>
-<td align="right"><b>1,223</b></td>
+<td align="right"><b>1,224</b></td>
 <td align="right">56</td>
 <td>Rust</td>
 </tr>
@@ -193,14 +193,14 @@
 <td align="right">25</td>
 <td><img src="https://github.com/roatienza.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/roatienza/Deep-Learning-Experiments"><b>roatienza/Deep-Learning-Experiments</b></a><br><sub>Videos, notes and experiments to understand deep learning</sub></td>
 <td align="right"><b>1,208</b></td>
-<td align="right">766</td>
+<td align="right">765</td>
 <td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">26</td>
 <td><img src="https://github.com/Lameguy64.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Lameguy64/PSn00bSDK"><b>Lameguy64/PSn00bSDK</b></a><br><sub>The most powerful open source SDK for the PS1 (as far as open source PS1 SDKs go). Not recommended for beginner use.</sub></td>
-<td align="right"><b>1,152</b></td>
-<td align="right">86</td>
+<td align="right"><b>1,153</b></td>
+<td align="right">85</td>
 <td>C</td>
 </tr>
 <tr>
@@ -609,6 +609,69 @@
 <td align="right">74</td>
 <td>Go</td>
 </tr>
+<tr>
+<td align="right">85</td>
+<td><img src="https://github.com/AlizerUncaged.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AlizerUncaged/desktop-waifu"><b>AlizerUncaged/desktop-waifu</b></a><br><sub>Desktop Waifu!</sub></td>
+<td align="right"><b>405</b></td>
+<td align="right">57</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/AeolusUX.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AeolusUX/R36S-DTB"><b>AeolusUX/R36S-DTB</b></a><br><sub>RetroBox Console / Game Station / Game Console R33S/R35S/R36S/PowKiddy RGB20S with Functional Function (FN) Button</sub></td>
+<td align="right"><b>404</b></td>
+<td align="right">84</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><img src="https://github.com/Sterling-Technologies.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Sterling-Technologies/eden"><b>Sterling-Technologies/eden</b></a><br><sub>Eden PHP library</sub></td>
+<td align="right"><b>398</b></td>
+<td align="right">99</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><img src="https://github.com/kennyfrc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kennyfrc/cami.js"><b>kennyfrc/cami.js</b></a><br><sub>Cami.js is a simple yet powerful toolkit for interactive islands in web applications. No build step required.</sub></td>
+<td align="right"><b>398</b></td>
+<td align="right">6</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><img src="https://github.com/ivanceras.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ivanceras/diwata"><b>ivanceras/diwata</b></a> <sub>archived</sub><br><sub>A user-friendly database interface</sub></td>
+<td align="right"><b>394</b></td>
+<td align="right">12</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><img src="https://github.com/AnimMouse.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AnimMouse/ffmpeg-autobuild"><b>AnimMouse/ffmpeg-autobuild</b></a><br><sub>Automated nonfree builds of FFmpeg for Windows using GitHub Actions</sub></td>
+<td align="right"><b>384</b></td>
+<td align="right">27</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/goldcoders-corp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/goldcoders-corp/vuetified"><b>goldcoders-corp/vuetified</b></a><br><sub>Laravel Starter App Using Vue ,Vuetify, and InertiaJS.</sub></td>
+<td align="right"><b>373</b></td>
+<td align="right">80</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/warengonzaga.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/warengonzaga/css-text-portrait-builder"><b>warengonzaga/css-text-portrait-builder</b></a><br><sub>A popular pure CSS text portrait builder for your loved ones. 🥰</sub></td>
+<td align="right"><b>373</b></td>
+<td align="right">80</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">93</td>
+<td><img src="https://github.com/gambitph.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gambitph/Titan-Framework"><b>gambitph/Titan-Framework</b></a><br><sub>The easiest to use WordPress option framework.</sub></td>
+<td align="right"><b>372</b></td>
+<td align="right">128</td>
+<td>PHP</td>
+</tr>
 </tbody>
 </table>
 
@@ -617,8 +680,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 417 stars; 84 attributed candidates are tracked.
-- 117 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 372 stars; 93 attributed candidates are tracked.
+- 114 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 210 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

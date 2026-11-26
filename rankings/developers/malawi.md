@@ -143,14 +143,14 @@
 <tr>
 <td align="right">18</td>
 <td><a href="https://github.com/melodykellys"><img src="https://avatars.githubusercontent.com/u/194480268?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/melodykellys"><b>Kelly</b></a><br><sub>&#64;melodykellys</sub></td>
-<td align="right"><b>150</b></td>
+<td align="right"><b>148</b></td>
 <td align="right">20</td>
 <td><sub>Lilongwe Malawi</sub></td>
 </tr>
 <tr>
 <td align="right">19</td>
 <td><a href="https://github.com/sam-zarila"><img src="https://avatars.githubusercontent.com/u/182520447?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sam-zarila"><b>sam zarila</b></a><br><sub>&#64;sam-zarila</sub></td>
-<td align="right"><b>141</b></td>
+<td align="right"><b>142</b></td>
 <td align="right">23</td>
 <td><sub>Blantyre, Malawi</sub></td>
 </tr>

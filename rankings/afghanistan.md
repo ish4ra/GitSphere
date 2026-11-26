@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **7** | 24 Nov 2026 | <a href="../data/AF.json">JSON</a> |
+| 🟡 Provisional | **9** | 24 Nov 2026 | <a href="../data/AF.json">JSON</a> |
 
 </div>
 
@@ -70,6 +70,20 @@
 <td align="right">21</td>
 <td>Kotlin</td>
 </tr>
+<tr>
+<td align="right">8</td>
+<td><img src="https://github.com/openlibrecommunity.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/openlibrecommunity/twl"><b>openlibrecommunity/twl</b></a> <sub>archived</sub><br><sub>twl - a large scientific work on whitelists</sub></td>
+<td align="right"><b>408</b></td>
+<td align="right">18</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td><img src="https://github.com/afgprogrammer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/afgprogrammer/Flutter-food-delivery-app-ui"><b>afgprogrammer/Flutter-food-delivery-app-ui</b></a><br><sub>Flutter Food Delivery Application design and Animation - day 3</sub></td>
+<td align="right"><b>392</b></td>
+<td align="right">109</td>
+<td>Dart</td>
+</tr>
 </tbody>
 </table>
 
@@ -78,7 +92,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 412 stars; 7 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 392 stars; 9 attributed candidates are tracked.
 - 135 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 171 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

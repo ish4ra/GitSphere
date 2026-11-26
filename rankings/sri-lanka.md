@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **53** | 23 Nov 2026 | <a href="../data/LK.json">JSON</a> |
+| 🟡 Provisional | **63** | 24 Nov 2026 | <a href="../data/LK.json">JSON</a> |
 
 </div>
 
@@ -115,8 +115,8 @@
 <tr>
 <td align="right">14</td>
 <td><img src="https://github.com/Sandakan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Sandakan/Nora"><b>Sandakan/Nora</b></a><br><sub>An elegant music player built using Electron and React. Inspired from Oto Music for Android by Piyush Mamidwar.</sub></td>
-<td align="right"><b>1,263</b></td>
-<td align="right">63</td>
+<td align="right"><b>1,267</b></td>
+<td align="right">62</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -392,6 +392,76 @@
 <td align="right">123</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">54</td>
+<td><img src="https://github.com/madushadhanushka.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/madushadhanushka/simple-sqlite"><b>madushadhanushka/simple-sqlite</b></a><br><sub>Code reading for sqlite backend</sub></td>
+<td align="right"><b>405</b></td>
+<td align="right">63</td>
+<td>C</td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/Lakshan-Madushanka.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Lakshan-Madushanka/laravel-comments"><b>Lakshan-Madushanka/laravel-comments</b></a><br><sub>Integrate seamless commenting functionality into your Laravel project</sub></td>
+<td align="right"><b>405</b></td>
+<td align="right">22</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">56</td>
+<td><img src="https://github.com/sakithb.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sakithb/media-controls"><b>sakithb/media-controls</b></a> <sub>archived</sub><br><sub>A mpris client for the Gnome shell.</sub></td>
+<td align="right"><b>395</b></td>
+<td align="right">90</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">57</td>
+<td><img src="https://github.com/VehanRajintha.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/VehanRajintha/Free-Unlimited-Google-Cloud-Backup-Magisk-Module"><b>VehanRajintha/Free-Unlimited-Google-Cloud-Backup-Magisk-Module</b></a><br><sub>This is a Magisk module and from this you can get Unlimited Google Cloud Storage to backup Photos and Videos on your de…</sub></td>
+<td align="right"><b>388</b></td>
+<td align="right">20</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">58</td>
+<td><img src="https://github.com/arunoda.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arunoda/node-usage"><b>arunoda/node-usage</b></a><br><sub>process usage lookup with nodejs</sub></td>
+<td align="right"><b>387</b></td>
+<td align="right">50</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">59</td>
+<td><img src="https://github.com/darkalphaxteam.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT"><b>darkalphaxteam/CYBER-X-WHATSAPP-BOT</b></a><br><sub>A 3ʳᵈ Party user bot for WhatsApp. Developed by &#64;darkalphaxteam</sub></td>
+<td align="right"><b>385</b></td>
+<td align="right">2,504</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">60</td>
+<td><img src="https://github.com/RavishaHesh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RavishaHesh/PDFJsAnnotations"><b>RavishaHesh/PDFJsAnnotations</b></a><br><sub>Wrapper for PDF JS to add annotations</sub></td>
+<td align="right"><b>382</b></td>
+<td align="right">104</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><img src="https://github.com/viduraakalanka.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/viduraakalanka/HDL-Bits-Solutions"><b>viduraakalanka/HDL-Bits-Solutions</b></a><br><sub>This is a repository containing solutions to the problem statements given in HDL Bits website.</sub></td>
+<td align="right"><b>378</b></td>
+<td align="right">107</td>
+<td>Verilog</td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><img src="https://github.com/PehanIn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PehanIn/ISO-27001-2022-Toolkit"><b>PehanIn/ISO-27001-2022-Toolkit</b></a><br><sub>This repository provides an ISO 27001:2022 Toolkit, including templates, checklists, and policies to help organizations…</sub></td>
+<td align="right"><b>375</b></td>
+<td align="right">159</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/davehowson.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/davehowson/chat-app"><b>davehowson/chat-app</b></a><br><sub>MERN Stack Based Chat Application</sub></td>
+<td align="right"><b>373</b></td>
+<td align="right">118</td>
+<td>JavaScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -400,8 +470,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 416 stars; 53 attributed candidates are tracked.
-- 116 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 373 stars; 63 attributed candidates are tracked.
+- 114 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 95 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

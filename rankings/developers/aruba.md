@@ -347,7 +347,7 @@
 <td align="right">47</td>
 <td><a href="https://github.com/ludwigfun-gitit"><img src="https://avatars.githubusercontent.com/u/273267604?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ludwigfun-gitit"><b>Ludwig Fun</b></a><br><sub>&#64;ludwigfun-gitit</sub></td>
 <td align="right"><b>0</b></td>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><sub>Aruba</sub></td>
 </tr>
 <tr>

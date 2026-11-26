@@ -5,7 +5,7 @@
 "country": {"code":"GM","name":"Gambia","slug":"gambia"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":145,"candidates":117,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":108,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":144,"candidates":117,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":108,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"real-estate-app","nameWithOwner":"Amel-saidy/real-estate-app","url":"https://github.com/Amel-saidy/real-estate-app","description":null,"stars":1,"forks":1,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2025-05-25T13:25:58Z","pushedAt":"2025-05-25T13:52:29Z","archived":false,"owner":{"login":"Amel-saidy","name":"Muhammed lamin Saidykhan","type":"User","url":"https://github.com/Amel-saidy","location":"Gambia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"MHCgan","nameWithOwner":"Degoot-AM/MHCgan","url":"https://github.com/Degoot-AM/MHCgan","description":null,"stars":1,"forks":1,"primaryLanguage":"Jupyter Notebook","license":{"spdxId":"GPL-3.0"},"createdAt":"2021-08-25T11:49:46Z","pushedAt":"2021-08-25T13:43:30Z","archived":false,"owner":{"login":"Degoot-AM","name":"Abdoelnaser M Degoot","type":"User","url":"https://github.com/Degoot-AM","location":"Banjul, Gambia","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"index.html","nameWithOwner":"bahsulayman689-hash/index.html","url":"https://github.com/bahsulayman689-hash/index.html","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2026-10-25T03:45:51Z","pushedAt":"2026-10-25T04:38:20Z","archived":false,"owner":{"login":"bahsulayman689-hash","name":"sulayman bah","type":"User","url":"https://github.com/bahsulayman689-hash","location":"Banjul","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Task-manager-app","nameWithOwner":"Bajanko/Task-manager-app","url":"https://github.com/Bajanko/Task-manager-app","description":null,"stars":0,"forks":0,"primaryLanguage":"PHP","license":null,"createdAt":"2025-07-09T15:53:58Z","pushedAt":"2025-07-09T16:04:48Z","archived":false,"owner":{"login":"Bajanko","name":"Bajanko","type":"User","url":"https://github.com/Bajanko","location":"The Gambia","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "717de18e63ac247b",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "1ef2108f7ea7b958",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

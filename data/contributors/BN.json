@@ -5,7 +5,7 @@
 "country": {"code":"BN","name":"Brunei","slug":"brunei"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":343,"measuredAccounts":23,"measurementBacklog":320,"window":{"from":"2025-11-25T15:00:00Z","to":"2026-11-25T15:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":47,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":341,"measuredAccounts":25,"measurementBacklog":316,"window":{"from":"2025-11-25T15:00:00Z","to":"2026-11-25T15:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":47,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOD4wOhA","login":"chriswalker-afk","name":"Christopher Stephen Walker","url":"https://github.com/chriswalker-afk","avatarUrl":"https://avatars.githubusercontent.com/u/260836996?s=80&v=4","followers":0,"publicRepos":27,"location":"Brunei","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25","contributions":{"public":5475,"commits":4710,"pullRequests":734,"reviews":0,"issues":3,"repositories":27,"windowFrom":"2025-11-25T15:00:00Z","windowTo":"2026-11-25T15:00:00Z","measuredOn":"2026-11-25"}},
   {"rank":2,"id":"U_kgDODNgfWw","login":"DannyRidz","name":"Daniel Ridzwan Bin Mohamad","url":"https://github.com/DannyRidz","avatarUrl":"https://avatars.githubusercontent.com/u/215490395?s=80&v=4","followers":0,"publicRepos":44,"location":"Brunei Darussalam","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":691,"commits":618,"pullRequests":29,"reviews":0,"issues":0,"repositories":44,"windowFrom":"2025-11-24T21:00:00Z","windowTo":"2026-11-24T21:00:00Z","measuredOn":"2026-11-24"}},
@@ -27,8 +27,8 @@
   {"rank":18,"id":"MDQ6VXNlcjE0MDI5NTQz","login":"bk7312","name":"Boon Kai","url":"https://github.com/bk7312","avatarUrl":"https://avatars.githubusercontent.com/u/14029543?s=80&v=4","followers":10,"publicRepos":48,"location":"Brunei","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":1,"repositories":0,"windowFrom":"2025-11-23T13:00:00Z","windowTo":"2026-11-23T13:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":19,"id":"MDQ6VXNlcjMwNzI3NzI3","login":"Syakiran407","name":"Mahmud Syakiran","url":"https://github.com/Syakiran407","avatarUrl":"https://avatars.githubusercontent.com/u/30727727?s=80&v=4","followers":9,"publicRepos":32,"location":"Brunei","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "ce81f61734fa9b39",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "d466e16656511e7b",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

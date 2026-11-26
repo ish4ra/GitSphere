@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/Washi1337"><img src="https://avatars.githubusercontent.com/u/3613449?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Washi1337"><b>Washi</b></a><br><sub>&#64;Washi1337</sub></td>
-<td align="right"><b>622</b></td>
+<td align="right"><b>620</b></td>
 <td align="right">29</td>
 <td><sub>McMurdo Station, Antarctica</sub></td>
 </tr>

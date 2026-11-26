@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **3** | 23 Nov 2026 | <a href="../data/SN.json">JSON</a> |
+| 🟡 Provisional | **3** | 25 Nov 2026 | <a href="../data/SN.json">JSON</a> |
 
 </div>
 
@@ -51,7 +51,7 @@
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 492 stars; 3 attributed candidates are tracked.
-- 117 multi-repository owners are queued for expansion.
+- 111 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 124 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

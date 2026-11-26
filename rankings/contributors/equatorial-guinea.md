@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/contributors/GQ.json">JSON</a> |
+| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/contributors/GQ.json">JSON</a> |
 
 </div>
 
@@ -115,6 +115,15 @@
 </tr>
 <tr>
 <td align="right">11</td>
+<td><a href="https://github.com/FENA10"><img src="https://avatars.githubusercontent.com/u/79813767?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FENA10"><b>FENA10</b></a><br><sub>&#64;FENA10 · 0 followers</sub></td>
+<td align="right"><b>12</b></td>
+<td align="right">8</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">12</td>
 <td><a href="https://github.com/sersobrenatural"><img src="https://avatars.githubusercontent.com/u/39493303?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sersobrenatural"><b>Santiago Gabriel Micha Ndong Obiang</b></a><br><sub>&#64;sersobrenatural · 1 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">5</td>
@@ -123,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/seamuddin"><img src="https://avatars.githubusercontent.com/u/38663656?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/seamuddin"><b>Seam uddin</b></a><br><sub>&#64;seamuddin · 14 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">4</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/jose19889"><img src="https://avatars.githubusercontent.com/u/41426395?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jose19889"><b>Jose Martin Mbomio Edu</b></a><br><sub>&#64;jose19889 · 0 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">0</td>
@@ -141,7 +150,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/dataegconsulting"><img src="https://avatars.githubusercontent.com/u/68244681?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dataegconsulting"><b>DATA EG CONSULTING</b></a><br><sub>&#64;dataegconsulting · 0 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
@@ -150,7 +159,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><a href="https://github.com/clinton341"><img src="https://avatars.githubusercontent.com/u/46147913?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/clinton341"><b>Clinton Ezeronye</b></a><br><sub>&#64;clinton341 · 1 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -165,7 +174,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 21 of 81 discovered developers (60 awaiting measurement).
+- **Measured:** 23 of 81 discovered developers (58 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 6 of 47 in round 1.

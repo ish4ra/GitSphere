@@ -26,8 +26,8 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/msanft.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/msanft/CVE-2025-55182"><b>msanft/CVE-2025-55182</b></a><br><sub>Explanation and full RCE PoC for CVE-2025-55182</sub></td>
-<td align="right"><b>1,435</b></td>
-<td align="right">196</td>
+<td align="right"><b>1,436</b></td>
+<td align="right">198</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -663,7 +663,7 @@
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
 - **Cutoff:** the last listed repository has 0 stars; 90 attributed candidates are tracked.
 - 86 entries were carried over from the previous dataset and are pending revalidation.
-- 126 multi-repository owners are queued for expansion.
+- 125 multi-repository owners are queued for expansion.
 - **Location discovery:** term 2 of 24 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

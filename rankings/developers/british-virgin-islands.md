@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **85** | 24 Nov 2026 | <a href="../../data/developers/VG.json">JSON</a> |
+| 🟡 Provisional | **86** | 24 Nov 2026 | <a href="../../data/developers/VG.json">JSON</a> |
 
 </div>
 
@@ -352,265 +352,272 @@
 </tr>
 <tr>
 <td align="right">48</td>
+<td><a href="https://github.com/gabbyqueenidea"><img src="https://avatars.githubusercontent.com/u/181533519?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gabbyqueenidea"><b>gabbyqueenidea</b></a><br><sub>&#64;gabbyqueenidea</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Britse Maagdeneilanden (VG)</sub></td>
+</tr>
+<tr>
+<td align="right">49</td>
 <td><a href="https://github.com/Genchiofweb3"><img src="https://avatars.githubusercontent.com/u/161314780?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Genchiofweb3"><b>Chisom Emegoakor</b></a><br><sub>&#64;Genchiofweb3</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>116 Main Street, P.O. Box 3342, Road Town, Tort…</sub></td>
 </tr>
 <tr>
-<td align="right">49</td>
+<td align="right">50</td>
 <td><a href="https://github.com/MisterHD"><img src="https://avatars.githubusercontent.com/u/80936917?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MisterHD"><b>MONOGRAMA</b></a><br><sub>&#64;MisterHD</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">50</td>
+<td align="right">51</td>
 <td><a href="https://github.com/MSERMONSTER"><img src="https://avatars.githubusercontent.com/u/43027047?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MSERMONSTER"><b>MSER</b></a><br><sub>&#64;MSERMONSTER</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">51</td>
+<td align="right">52</td>
 <td><a href="https://github.com/Oppalina"><img src="https://avatars.githubusercontent.com/u/205429945?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Oppalina"><b>Oppalina</b></a><br><sub>&#64;Oppalina</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">52</td>
+<td align="right">53</td>
 <td><a href="https://github.com/orbis86"><img src="https://avatars.githubusercontent.com/u/63948855?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/orbis86"><b>Orbis86</b></a><br><sub>&#64;orbis86</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">53</td>
+<td align="right">54</td>
 <td><a href="https://github.com/sumerchain"><img src="https://avatars.githubusercontent.com/u/29449814?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sumerchain"><b>sumerchain</b></a><br><sub>&#64;sumerchain</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>The British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">54</td>
+<td align="right">55</td>
 <td><a href="https://github.com/symmetricgit"><img src="https://avatars.githubusercontent.com/u/216063017?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/symmetricgit"><b>Symmetric/Pecuni</b></a><br><sub>&#64;symmetricgit</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">55</td>
+<td align="right">56</td>
 <td><a href="https://github.com/topfuel21"><img src="https://avatars.githubusercontent.com/u/13560624?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/topfuel21"><b>Dwayne Flax</b></a><br><sub>&#64;topfuel21</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Tortola, British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">56</td>
+<td align="right">57</td>
 <td><a href="https://github.com/adrienevergarden"><img src="https://avatars.githubusercontent.com/u/194925894?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adrienevergarden"><b>Artjom Poliakov</b></a><br><sub>&#64;adrienevergarden</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">57</td>
+<td align="right">58</td>
 <td><a href="https://github.com/AmariiDurrant"><img src="https://avatars.githubusercontent.com/u/108148573?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AmariiDurrant"><b>Amarii Durrant</b></a><br><sub>&#64;AmariiDurrant</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">58</td>
+<td align="right">59</td>
 <td><a href="https://github.com/AmyVernon"><img src="https://avatars.githubusercontent.com/u/33759774?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AmyVernon"><b>Amy Vernon</b></a><br><sub>&#64;AmyVernon</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">59</td>
+<td align="right">60</td>
 <td><a href="https://github.com/ArberTheCoder15"><img src="https://avatars.githubusercontent.com/u/181856920?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ArberTheCoder15"><b>ArberTheCoder15</b></a><br><sub>&#64;ArberTheCoder15</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">60</td>
+<td align="right">61</td>
 <td><a href="https://github.com/arvexoHQ"><img src="https://avatars.githubusercontent.com/u/350197087?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/arvexoHQ"><b>Arvexo</b></a><br><sub>&#64;arvexoHQ</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Road Town, Tortola, British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">61</td>
+<td align="right">62</td>
 <td><a href="https://github.com/asiabanks"><img src="https://avatars.githubusercontent.com/u/167286448?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asiabanks"><b>Asia Banks</b></a><br><sub>&#64;asiabanks</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Road Town, Tortola, VG1110, British Virgin Isla…</sub></td>
 </tr>
 <tr>
-<td align="right">62</td>
+<td align="right">63</td>
 <td><a href="https://github.com/bartervoip"><img src="https://avatars.githubusercontent.com/u/25767220?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bartervoip"><b>bartervoip</b></a><br><sub>&#64;bartervoip</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>The British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">63</td>
+<td align="right">64</td>
 <td><a href="https://github.com/bibcrypto"><img src="https://avatars.githubusercontent.com/u/106662185?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bibcrypto"><b>BIB Crypto Exchange</b></a><br><sub>&#64;bibcrypto</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">64</td>
+<td align="right">65</td>
 <td><a href="https://github.com/bviculture"><img src="https://avatars.githubusercontent.com/u/213995543?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bviculture"><b>Bvi Culture</b></a><br><sub>&#64;bviculture</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">65</td>
+<td align="right">66</td>
 <td><a href="https://github.com/cpsychicministry"><img src="https://avatars.githubusercontent.com/u/214998469?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cpsychicministry"><b>Caribbean Psychic Ministry</b></a><br><sub>&#64;cpsychicministry</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>1 Paradise Lane, Virgin Gorda, British Virgin I…</sub></td>
 </tr>
 <tr>
-<td align="right">66</td>
+<td align="right">67</td>
 <td><a href="https://github.com/DisruptionXofficial"><img src="https://avatars.githubusercontent.com/u/98911254?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DisruptionXofficial"><b>DisruptionXofficial</b></a><br><sub>&#64;DisruptionXofficial</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">67</td>
+<td align="right">68</td>
 <td><a href="https://github.com/getrabbitdev"><img src="https://avatars.githubusercontent.com/u/207236414?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/getrabbitdev"><b>GetRabbit</b></a><br><sub>&#64;getrabbitdev</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">68</td>
+<td align="right">69</td>
 <td><a href="https://github.com/HashBank-Dev"><img src="https://avatars.githubusercontent.com/u/44605270?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/HashBank-Dev"><b>HashBank</b></a><br><sub>&#64;HashBank-Dev</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">69</td>
+<td align="right">70</td>
 <td><a href="https://github.com/jrlytle123"><img src="https://avatars.githubusercontent.com/u/16624915?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jrlytle123"><b>Justin Lytle</b></a><br><sub>&#64;jrlytle123</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Tortola, British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">70</td>
+<td align="right">71</td>
 <td><a href="https://github.com/JRosan"><img src="https://avatars.githubusercontent.com/u/38365383?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JRosan"><b>Joseph Mathieu Rosan</b></a><br><sub>&#64;JRosan</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">71</td>
+<td align="right">72</td>
 <td><a href="https://github.com/LEXIT-DNA"><img src="https://avatars.githubusercontent.com/u/96053948?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LEXIT-DNA"><b>Amir</b></a><br><sub>&#64;LEXIT-DNA</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">72</td>
+<td align="right">73</td>
 <td><a href="https://github.com/miaarayata"><img src="https://avatars.githubusercontent.com/u/48194340?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/miaarayata"><b>Almira A.</b></a><br><sub>&#64;miaarayata</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">73</td>
+<td align="right">74</td>
 <td><a href="https://github.com/pdagadgetsir"><img src="https://avatars.githubusercontent.com/u/4460798?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pdagadgetsir"><b>PDair Leader of Mobile Device Accessories</b></a><br><sub>&#64;pdagadgetsir</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">74</td>
+<td align="right">75</td>
 <td><a href="https://github.com/Predictas"><img src="https://avatars.githubusercontent.com/u/222908251?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Predictas"><b>Predictas</b></a><br><sub>&#64;Predictas</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">75</td>
+<td align="right">76</td>
 <td><a href="https://github.com/pycbr"><img src="https://avatars.githubusercontent.com/u/135664820?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pycbr"><b>pycbr</b></a><br><sub>&#64;pycbr</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">76</td>
+<td align="right">77</td>
 <td><a href="https://github.com/Quantum7DAO"><img src="https://avatars.githubusercontent.com/u/241232045?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Quantum7DAO"><b>Quantum7 DAO</b></a><br><sub>&#64;Quantum7DAO</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>British Virgin Islands(BVI)</sub></td>
 </tr>
 <tr>
-<td align="right">77</td>
+<td align="right">78</td>
 <td><a href="https://github.com/Red-Win"><img src="https://avatars.githubusercontent.com/u/338327445?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Red-Win"><b>Red.Win</b></a><br><sub>&#64;Red-Win</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Trident Chambers, Road Town, Tortola VG1110, Br…</sub></td>
 </tr>
 <tr>
-<td align="right">78</td>
+<td align="right">79</td>
 <td><a href="https://github.com/rellytripsadmin"><img src="https://avatars.githubusercontent.com/u/52326464?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rellytripsadmin"><b>rellyadmin</b></a><br><sub>&#64;rellytripsadmin</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">79</td>
+<td align="right">80</td>
 <td><a href="https://github.com/ronald-miguel"><img src="https://avatars.githubusercontent.com/u/95681625?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ronald-miguel"><b>Ronald Miguel</b></a><br><sub>&#64;ronald-miguel</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">80</td>
+<td align="right">81</td>
 <td><a href="https://github.com/rryanss"><img src="https://avatars.githubusercontent.com/u/73523895?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rryanss"><b>ryan</b></a><br><sub>&#64;rryanss</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">81</td>
+<td align="right">82</td>
 <td><a href="https://github.com/SharonBarcia"><img src="https://avatars.githubusercontent.com/u/56342825?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SharonBarcia"><b>Sharon Barcia</b></a><br><sub>&#64;SharonBarcia</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">82</td>
+<td align="right">83</td>
 <td><a href="https://github.com/Vidranlabs"><img src="https://avatars.githubusercontent.com/u/269006611?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Vidranlabs"><b>Vidran Laboratories Inc.</b></a><br><sub>&#64;Vidranlabs</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">83</td>
+<td align="right">84</td>
 <td><a href="https://github.com/Wager-casino"><img src="https://avatars.githubusercontent.com/u/275840889?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Wager-casino"><b>Wager-casino</b></a><br><sub>&#64;Wager-casino</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">84</td>
+<td align="right">85</td>
 <td><a href="https://github.com/Web3Widget"><img src="https://avatars.githubusercontent.com/u/231955243?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Web3Widget"><b>CryptoWijit</b></a><br><sub>&#64;Web3Widget</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>British Virgin Islands</sub></td>
 </tr>
 <tr>
-<td align="right">85</td>
+<td align="right">86</td>
 <td><a href="https://github.com/xltrade"><img src="https://avatars.githubusercontent.com/u/145327692?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/xltrade"><b>XLTRADE</b></a><br><sub>&#64;xltrade</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -624,7 +631,7 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 85 attributed developers are tracked; the cutoff is 0 followers.
+- Organizations are excluded. 86 attributed developers are tracked; the cutoff is 0 followers.
 - **Location discovery:** term 1 of 19 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

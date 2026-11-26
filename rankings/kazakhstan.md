@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **56** | 01 Nov 2026 | <a href="../data/KZ.json">JSON</a> |
+| 🟠 Stale | **60** | 01 Nov 2026 | <a href="../data/KZ.json">JSON</a> |
 
 > **Not yet re-verified.** 6 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
@@ -375,41 +375,69 @@
 </tr>
 <tr>
 <td align="right">51</td>
+<td><img src="https://github.com/creewick.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/creewick/uWidgets"><b>creewick/uWidgets</b></a><br><sub>Standalone .NET application with a variety of customizable widgets</sub></td>
+<td align="right"><b>394</b></td>
+<td align="right">33</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">52</td>
+<td><img src="https://github.com/mixdesign.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mixdesign/AAShareBubbles"><b>mixdesign/AAShareBubbles</b></a><br><sub>Animated Social share buttons control for iOS</sub></td>
+<td align="right"><b>390</b></td>
+<td align="right">79</td>
+<td>Objective-C</td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><img src="https://github.com/ViaAnthroposBenevolentia.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ViaAnthroposBenevolentia/gemini-2-live-api-demo"><b>ViaAnthroposBenevolentia/gemini-2-live-api-demo</b></a><br><sub>Vanilla JS web interface for Gemini 2.0 flash-exp Multimodal API with text, audio, camera, screen inputs and audio resp…</sub></td>
+<td align="right"><b>389</b></td>
+<td align="right">159</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><img src="https://github.com/icerockdev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/icerockdev/moko-widgets"><b>icerockdev/moko-widgets</b></a> <sub>archived</sub><br><sub>Multiplatform UI DSL with screen management in common code for mobile (android &amp; ios) Kotlin Multiplatform development</sub></td>
+<td align="right"><b>386</b></td>
+<td align="right">31</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">55</td>
 <td><img src="https://github.com/azamxvit.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/azamxvit/cleankicks-crm-nextjs"><b>azamxvit/cleankicks-crm-nextjs</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">52</td>
+<td align="right">56</td>
 <td><img src="https://github.com/btc-kz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/btc-kz/BTC"><b>btc-kz/BTC</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">53</td>
+<td align="right">57</td>
 <td><img src="https://github.com/symbiotic-codes-official.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/symbiotic-codes-official/symbiotic-codes-official"><b>symbiotic-codes-official/symbiotic-codes-official</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">54</td>
+<td align="right">58</td>
 <td><img src="https://github.com/ZhasulanN10.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ZhasulanN10/tgbot-converterBTX"><b>ZhasulanN10/tgbot-converterBTX</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">55</td>
+<td align="right">59</td>
 <td><img src="https://github.com/aikair.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aikair/GB_lessons"><b>aikair/GB&#95;lessons</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">56</td>
+<td align="right">60</td>
 <td><img src="https://github.com/alashtikon.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alashtikon/building-segmentation-model-with-yolo-geospatial-data"><b>alashtikon/building-segmentation-model-with-yolo-geospatial-data</b></a></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -423,9 +451,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 1 stars; 56 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 1 stars; 60 attributed candidates are tracked.
 - 6 entries were carried over from the previous dataset and are pending revalidation.
-- 110 multi-repository owners are queued for expansion.
+- 109 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 145 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

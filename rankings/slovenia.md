@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **51** | 23 Nov 2026 | <a href="../data/SI.json">JSON</a> |
+| 🟡 Provisional | **55** | 24 Nov 2026 | <a href="../data/SI.json">JSON</a> |
 
 </div>
 
@@ -150,7 +150,7 @@
 <tr>
 <td align="right">19</td>
 <td><img src="https://github.com/MatejKustec.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MatejKustec/SpinThatShit"><b>MatejKustec/SpinThatShit</b></a> <sub>archived</sub><br><sub>A set of SCSS mixins for single element loaders and spinners</sub></td>
-<td align="right"><b>1,458</b></td>
+<td align="right"><b>1,457</b></td>
 <td align="right">122</td>
 <td>SCSS</td>
 </tr>
@@ -172,7 +172,7 @@
 <td align="right">22</td>
 <td><img src="https://github.com/nicolasbeauvais.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nicolasbeauvais/vue-social-sharing"><b>nicolasbeauvais/vue-social-sharing</b></a> <sub>archived</sub><br><sub>A renderless Vue.js component for sharing links to social networks, compatible with SSR</sub></td>
 <td align="right"><b>1,368</b></td>
-<td align="right">191</td>
+<td align="right">190</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -186,7 +186,7 @@
 <td align="right">24</td>
 <td><img src="https://github.com/rdvojmoc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rdvojmoc/DinkToPdf"><b>rdvojmoc/DinkToPdf</b></a><br><sub>C# .NET Core wrapper for wkhtmltopdf library that uses Webkit engine to convert HTML pages to PDF.</sub></td>
 <td align="right"><b>1,192</b></td>
-<td align="right">432</td>
+<td align="right">433</td>
 <td>C#</td>
 </tr>
 <tr>
@@ -378,6 +378,34 @@
 <td align="right">73</td>
 <td>Python</td>
 </tr>
+<tr>
+<td align="right">52</td>
+<td><img src="https://github.com/aksonov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aksonov/react-native-redux-router"><b>aksonov/react-native-redux-router</b></a><br><sub>React Native Router using Redux architecture</sub></td>
+<td align="right"><b>403</b></td>
+<td align="right">44</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">53</td>
+<td><img src="https://github.com/bojan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bojan/xcode-one"><b>bojan/xcode-one</b></a><br><sub>Atom One Dark and One Light themes for Xcode</sub></td>
+<td align="right"><b>388</b></td>
+<td align="right">36</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">54</td>
+<td><img src="https://github.com/trco.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/trco/django-bootstrap-modal-forms"><b>trco/django-bootstrap-modal-forms</b></a><br><sub>A Django plugin for creating AJAX driven forms in Bootstrap modal.</sub></td>
+<td align="right"><b>377</b></td>
+<td align="right">134</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">55</td>
+<td><img src="https://github.com/luksa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/luksa/kubectl-plugins"><b>luksa/kubectl-plugins</b></a><br><sub>My own plugins for kubectl</sub></td>
+<td align="right"><b>373</b></td>
+<td align="right">70</td>
+<td>Shell</td>
+</tr>
 </tbody>
 </table>
 
@@ -386,8 +414,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 415 stars; 51 attributed candidates are tracked.
-- 97 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 373 stars; 55 attributed candidates are tracked.
+- 92 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 220 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

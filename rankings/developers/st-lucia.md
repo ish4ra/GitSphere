@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/johnsBeharry"><img src="https://avatars.githubusercontent.com/u/183140?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/johnsBeharry"><b>Johns Beharry</b></a><br><sub>&#64;johnsBeharry</sub></td>
-<td align="right"><b>140</b></td>
+<td align="right"><b>139</b></td>
 <td align="right">63</td>
 <td><sub>Saint Lucia</sub></td>
 </tr>

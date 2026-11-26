@@ -5,7 +5,7 @@
 "country": {"code":"SJ","name":"Svalbard & Jan Mayen","slug":"svalbard-jan-mayen"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":22,"ownerExpansionBacklog":43,"candidates":23,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":13,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":22,"ownerExpansionBacklog":45,"candidates":23,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":13,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOHduiMA","name":"standards","nameWithOwner":"PrinsFrank/standards","url":"https://github.com/PrinsFrank/standards","description":"A collection of standards as PHP Enums: ISO3166, ISO4217, ISO639...","stars":489,"forks":17,"primaryLanguage":"PHP","license":{"spdxId":"MIT"},"createdAt":"2022-06-07T17:07:27Z","pushedAt":"2026-11-24T11:37:37Z","archived":false,"owner":{"login":"PrinsFrank","name":null,"type":"User","url":"https://github.com/PrinsFrank","location":"Haarlem, Netherlands & Longyearbyen, Svalbard","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":null,"name":"AlathraHorseCombat","nameWithOwner":"Alathra/AlathraHorseCombat","url":"https://github.com/Alathra/AlathraHorseCombat","description":null,"stars":1,"forks":0,"primaryLanguage":"Java","license":{"spdxId":"MIT-0"},"createdAt":"2025-05-30T07:14:05Z","pushedAt":"2025-10-28T08:23:53Z","archived":false,"owner":{"login":"Alathra","name":"Alathra","type":"Organization","url":"https://github.com/Alathra","location":"Svalbard and Jan Mayen Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
@@ -31,8 +31,8 @@
   {"rank":22,"id":null,"name":"Spirologi","nameWithOwner":"SvalbardFHS/Spirologi","url":"https://github.com/SvalbardFHS/Spirologi","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2025-11-19T09:18:08Z","pushedAt":"2025-11-19T09:20:05Z","archived":false,"owner":{"login":"SvalbardFHS","name":"Svalbard Folkehøgskole - Tekno og Forsker","type":"Organization","url":"https://github.com/SvalbardFHS","location":"Svalbard and Jan Mayen Islands","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-27","pendingRevalidation":true},
   {"rank":23,"id":null,"name":"YTHEDOGKING","nameWithOwner":"YTHEDOGKING/YTHEDOGKING","url":"https://github.com/YTHEDOGKING/YTHEDOGKING","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-05-20T19:09:07Z","pushedAt":"2024-05-31T18:55:29Z","archived":false,"owner":{"login":"YTHEDOGKING","name":"Short Giraffe 😞","type":"User","url":"https://github.com/YTHEDOGKING","location":"Olonkinbyen","attribution":{"confidence":"medium","evidence":"recognized-place"}},"verifiedOn":"2026-10-27","pendingRevalidation":true}
 ],
-"contentHash": "064a01466cfd2595",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "1b397b1843a4c95d",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-10-27",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

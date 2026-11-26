@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/EE.json">JSON</a> |
+| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/EE.json">JSON</a> |
 
 </div>
 
@@ -234,14 +234,14 @@
 <tr>
 <td align="right">31</td>
 <td><img src="https://github.com/dockovpn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dockovpn/dockovpn"><b>dockovpn/dockovpn</b></a><br><sub>🔐 Out of the box stateless openvpn-server docker image which starts in less than 2 seconds</sub></td>
-<td align="right"><b>1,428</b></td>
+<td align="right"><b>1,429</b></td>
 <td align="right">280</td>
 <td>Shell</td>
 </tr>
 <tr>
 <td align="right">32</td>
 <td><img src="https://github.com/vvscode.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vvscode/js--interview-questions"><b>vvscode/js--interview-questions</b></a><br><sub>:grey&#95;question::question::grey&#95;question: Notes from technical (javascript) interviews. Tasks and quiz for different top…</sub></td>
-<td align="right"><b>1,415</b></td>
+<td align="right"><b>1,416</b></td>
 <td align="right">271</td>
 <td>—</td>
 </tr>
@@ -268,44 +268,44 @@
 </tr>
 <tr>
 <td align="right">36</td>
+<td><img src="https://github.com/fastcrw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fastcrw/crw"><b>fastcrw/crw</b></a><br><sub>Fast, lightweight Firecrawl/Tavily alternative in Rust. Web scraper, crawler &amp; search API with MCP server for AI agents…</sub></td>
+<td align="right"><b>1,315</b></td>
+<td align="right">102</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">37</td>
 <td><img src="https://github.com/JoosepAlviste.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/JoosepAlviste/nvim-ts-context-commentstring"><b>JoosepAlviste/nvim-ts-context-commentstring</b></a><br><sub>Neovim treesitter plugin for setting the commentstring based on the cursor location in a file.</sub></td>
 <td align="right"><b>1,302</b></td>
 <td align="right">47</td>
 <td>Lua</td>
 </tr>
 <tr>
-<td align="right">37</td>
-<td><img src="https://github.com/fastcrw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/fastcrw/crw"><b>fastcrw/crw</b></a><br><sub>Fast, lightweight Firecrawl/Tavily alternative in Rust. Web scraper, crawler &amp; search API with MCP server for AI agents…</sub></td>
-<td align="right"><b>1,293</b></td>
-<td align="right">102</td>
-<td>Rust</td>
-</tr>
-<tr>
 <td align="right">38</td>
 <td><img src="https://github.com/surveyjs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/surveyjs/survey-creator"><b>surveyjs/survey-creator</b></a><br><sub>Embeddable JSON form builder for React, Angular, Vue, and plain JavaScript. Drag-and-drop UI, your backend.</sub></td>
-<td align="right"><b>1,285</b></td>
-<td align="right">459</td>
+<td align="right"><b>1,284</b></td>
+<td align="right">460</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">39</td>
 <td><img src="https://github.com/AvaloniaUI.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AvaloniaUI/Avalonia.Samples"><b>AvaloniaUI/Avalonia.Samples</b></a><br><sub>Avalonia.Samples aims to provide some minimal samples focusing on a particular issue at a time. This should help gettin…</sub></td>
-<td align="right"><b>1,175</b></td>
-<td align="right">220</td>
+<td align="right"><b>1,176</b></td>
+<td align="right">221</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">40</td>
 <td><img src="https://github.com/toggl.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/toggl/track-extension"><b>toggl/track-extension</b></a><br><sub>Toggl Track browser extension for Chrome and Firefox</sub></td>
-<td align="right"><b>1,150</b></td>
+<td align="right"><b>1,151</b></td>
 <td align="right">557</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">41</td>
 <td><img src="https://github.com/AvaloniaUI.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/AvaloniaUI/AvaloniaEdit"><b>AvaloniaUI/AvaloniaEdit</b></a><br><sub>Avalonia-based text editor (port of AvalonEdit)</sub></td>
-<td align="right"><b>1,149</b></td>
-<td align="right">244</td>
+<td align="right"><b>1,151</b></td>
+<td align="right">246</td>
 <td>C#</td>
 </tr>
 <tr>
@@ -729,7 +729,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global star scan — every repository above this cutoff has been enumerated. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 506 stars; 122 attributed candidates are tracked.
+- **Cutoff:** the last listed repository has 506 stars; 136 attributed candidates are tracked.
 - 107 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 142 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.

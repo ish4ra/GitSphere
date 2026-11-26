@@ -31,7 +31,7 @@
 <tr>
 <td align="right">2</td>
 <td><a href="https://github.com/haydenjames"><img src="https://avatars.githubusercontent.com/u/6467408?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/haydenjames"><b>Hayden James</b></a><br><sub>&#64;haydenjames</sub></td>
-<td align="right"><b>63</b></td>
+<td align="right"><b>64</b></td>
 <td align="right">0</td>
 <td><sub>Saint Kitts</sub></td>
 </tr>

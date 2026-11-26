@@ -101,7 +101,7 @@
 <tr>
 <td align="right">12</td>
 <td><a href="https://github.com/NiazMorshed2007"><img src="https://avatars.githubusercontent.com/u/77217706?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NiazMorshed2007"><b>Niaz Morshed</b></a><br><sub>&#64;NiazMorshed2007</sub></td>
-<td align="right"><b>194</b></td>
+<td align="right"><b>198</b></td>
 <td align="right">61</td>
 <td><sub>Planet</sub></td>
 </tr>
@@ -121,17 +121,17 @@
 </tr>
 <tr>
 <td align="right">15</td>
-<td><a href="https://github.com/banago"><img src="https://avatars.githubusercontent.com/u/339914?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/banago"><b>Baki Goxhaj</b></a><br><sub>&#64;banago</sub></td>
-<td align="right"><b>158</b></td>
-<td align="right">28</td>
-<td><sub>Vlorë, Albania</sub></td>
-</tr>
-<tr>
-<td align="right">16</td>
 <td><a href="https://github.com/james-see"><img src="https://avatars.githubusercontent.com/u/616585?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/james-see"><b>JC</b></a><br><sub>&#64;james-see</sub></td>
 <td align="right"><b>157</b></td>
 <td align="right">192</td>
 <td><sub>Planet</sub></td>
+</tr>
+<tr>
+<td align="right">16</td>
+<td><a href="https://github.com/banago"><img src="https://avatars.githubusercontent.com/u/339914?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/banago"><b>Baki Goxhaj</b></a><br><sub>&#64;banago</sub></td>
+<td align="right"><b>157</b></td>
+<td align="right">28</td>
+<td><sub>Vlorë, Albania</sub></td>
 </tr>
 <tr>
 <td align="right">17</td>

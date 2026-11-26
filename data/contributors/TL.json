@@ -5,7 +5,7 @@
 "country": {"code":"TL","name":"Timor-Leste","slug":"timor-leste"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":211,"measuredAccounts":15,"measurementBacklog":196,"window":{"from":"2025-11-26T08:00:00Z","to":"2026-11-26T08:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":49,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":215,"measuredAccounts":16,"measurementBacklog":199,"window":{"from":"2025-11-26T08:00:00Z","to":"2026-11-26T08:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":49,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjQ2MzMyMTMx","login":"Akokonunes","name":"Roberto Nunes","url":"https://github.com/Akokonunes","avatarUrl":"https://avatars.githubusercontent.com/u/46332131?s=80&v=4","followers":76,"publicRepos":42,"location":"Timor-Leste","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26","contributions":{"public":2309,"commits":1385,"pullRequests":344,"reviews":570,"issues":4,"repositories":6,"windowFrom":"2025-11-26T08:00:00Z","windowTo":"2026-11-26T08:00:00Z","measuredOn":"2026-11-26"}},
   {"rank":2,"id":"U_kgDOCa7Shw","login":"Noro18","name":"Ezequiel Vieira Gonzaga Macedo","url":"https://github.com/Noro18","avatarUrl":"https://avatars.githubusercontent.com/u/162452103?s=80&v=4","followers":34,"publicRepos":53,"location":"Timor Leste","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26","contributions":{"public":1566,"commits":1159,"pullRequests":173,"reviews":63,"issues":126,"repositories":38,"windowFrom":"2025-11-26T00:00:00Z","windowTo":"2026-11-26T00:00:00Z","measuredOn":"2026-11-26"}},
@@ -16,8 +16,8 @@
   {"rank":7,"id":"MDQ6VXNlcjI0NjE4NzIw","login":"timorleste","name":"Degree Background: Information Management (Associate Degree), Information Syste…","url":"https://github.com/timorleste","avatarUrl":"https://avatars.githubusercontent.com/u/24618720?s=80&v=4","followers":3,"publicRepos":79,"location":"Dili, Timor-Leste","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":41,"commits":38,"pullRequests":2,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":8,"id":"MDQ6VXNlcjQwMDY0NjYz","login":"feliciofernandez24","name":"Felicio","url":"https://github.com/feliciofernandez24","avatarUrl":"https://avatars.githubusercontent.com/u/40064663?s=80&v=4","followers":3,"publicRepos":60,"location":"Dili-Timor Leste","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":5,"commits":3,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-24T21:00:00Z","windowTo":"2026-11-24T21:00:00Z","measuredOn":"2026-11-24"}}
 ],
-"contentHash": "779d52c9fe8c8659",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "8708bb72a2943c9b",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

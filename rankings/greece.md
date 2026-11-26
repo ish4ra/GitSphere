@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/GR.json">JSON</a> |
+| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/GR.json">JSON</a> |
 
 </div>
 
@@ -332,8 +332,8 @@
 <tr>
 <td align="right">45</td>
 <td><img src="https://github.com/XhmikosR.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/XhmikosR/notepad2-mod"><b>XhmikosR/notepad2-mod</b></a> <sub>archived</sub><br><sub>LOOKING FOR DEVELOPERS - Notepad2-mod, a Notepad2 fork, a fast and light-weight Notepad-like text editor with syntax hi…</sub></td>
-<td align="right"><b>1,464</b></td>
-<td align="right">272</td>
+<td align="right"><b>1,465</b></td>
+<td align="right">273</td>
 <td>C++</td>
 </tr>
 <tr>
@@ -346,7 +346,7 @@
 <tr>
 <td align="right">47</td>
 <td><img src="https://github.com/wheremyfoodat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wheremyfoodat/Panda3DS"><b>wheremyfoodat/Panda3DS</b></a><br><sub>HLE 3DS emulator</sub></td>
-<td align="right"><b>1,415</b></td>
+<td align="right"><b>1,418</b></td>
 <td align="right">95</td>
 <td>C++</td>
 </tr>
@@ -359,22 +359,22 @@
 </tr>
 <tr>
 <td align="right">49</td>
-<td><img src="https://github.com/Chalarangelo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Chalarangelo/30-seconds-web"><b>Chalarangelo/30-seconds-web</b></a> <sub>archived</sub><br><sub>Website infrastructure for 30-seconds projects.</sub></td>
+<td><img src="https://github.com/twelvesec.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/twelvesec/PwnPad"><b>twelvesec/PwnPad</b></a><br><sub>PwnPad is an affordable, hands-on hardware hacking platform built for practical learning. It features a range of challe…</sub></td>
 <td align="right"><b>1,212</b></td>
+<td align="right">111</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">50</td>
+<td><img src="https://github.com/Chalarangelo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Chalarangelo/30-seconds-web"><b>Chalarangelo/30-seconds-web</b></a> <sub>archived</sub><br><sub>Website infrastructure for 30-seconds projects.</sub></td>
+<td align="right"><b>1,211</b></td>
 <td align="right">126</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">50</td>
-<td><img src="https://github.com/twelvesec.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/twelvesec/PwnPad"><b>twelvesec/PwnPad</b></a><br><sub>PwnPad is an affordable, hands-on hardware hacking platform built for practical learning. It features a range of challe…</sub></td>
-<td align="right"><b>1,211</b></td>
-<td align="right">110</td>
-<td>C++</td>
-</tr>
-<tr>
 <td align="right">51</td>
 <td><img src="https://github.com/Chalarangelo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Chalarangelo/mocka"><b>Chalarangelo/mocka</b></a><br><sub>Simple, elegant content placeholder</sub></td>
-<td align="right"><b>1,172</b></td>
+<td align="right"><b>1,171</b></td>
 <td align="right">36</td>
 <td>CSS</td>
 </tr>

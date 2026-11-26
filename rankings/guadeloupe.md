@@ -26,7 +26,7 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/iamcryptoki.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/iamcryptoki/snowden-archive"><b>iamcryptoki/snowden-archive</b></a><br><sub>💥 A collection of all documents leaked by former NSA contractor and whistleblower Edward Snowden.</sub></td>
-<td align="right"><b>1,439</b></td>
+<td align="right"><b>1,443</b></td>
 <td align="right">204</td>
 <td>—</td>
 </tr>

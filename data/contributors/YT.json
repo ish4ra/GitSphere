@@ -5,7 +5,7 @@
 "country": {"code":"YT","name":"Mayotte","slug":"mayotte"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":63,"measuredAccounts":16,"measurementBacklog":47,"window":{"from":"2025-11-26T00:00:00Z","to":"2026-11-26T00:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":56,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":63,"measuredAccounts":17,"measurementBacklog":46,"window":{"from":"2025-11-26T00:00:00Z","to":"2026-11-26T00:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":56,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjM0NDcxMzg=","login":"beeraw","name":"Jean-Luc Petit","url":"https://github.com/beeraw","avatarUrl":"https://avatars.githubusercontent.com/u/3447138?s=80&v=4","followers":34,"publicRepos":13,"location":"Mayotte","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26","contributions":{"public":631,"commits":613,"pullRequests":7,"reviews":0,"issues":0,"repositories":11,"windowFrom":"2025-11-26T00:00:00Z","windowTo":"2026-11-26T00:00:00Z","measuredOn":"2026-11-26"}},
   {"rank":2,"id":"U_kgDOB5sX9w","login":"TechNerdSam","name":"Samyn-Antoy ABASSE","url":"https://github.com/TechNerdSam","avatarUrl":"https://avatars.githubusercontent.com/u/127604727?s=80&v=4","followers":1,"publicRepos":52,"location":"mayotte","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":217,"commits":211,"pullRequests":1,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
@@ -15,8 +15,8 @@
   {"rank":6,"id":"MDQ6VXNlcjEzODY1Nzk=","login":"ssrb","name":"Sebastian","url":"https://github.com/ssrb","avatarUrl":"https://avatars.githubusercontent.com/u/1386579?s=80&v=4","followers":17,"publicRepos":16,"location":"Mayotte","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":1,"repositories":0,"windowFrom":"2025-11-24T21:00:00Z","windowTo":"2026-11-24T21:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":7,"id":"MDQ6VXNlcjIzNDEwNTYz","login":"ardani37","name":null,"url":"https://github.com/ardani37","avatarUrl":"https://avatars.githubusercontent.com/u/23410563?s=80&v=4","followers":0,"publicRepos":1,"location":"Mayotte","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":1,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}}
 ],
-"contentHash": "8a553f5b6e3a964c",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "cebf32c20645bf17",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

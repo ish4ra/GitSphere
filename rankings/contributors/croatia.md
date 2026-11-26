@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **23** | 22 Nov 2026 | <a href="../../data/contributors/HR.json">JSON</a> |
+| 🟡 Provisional | **25** | 22 Nov 2026 | <a href="../../data/contributors/HR.json">JSON</a> |
 
 </div>
 
@@ -88,7 +88,7 @@
 </tr>
 <tr>
 <td align="right">8</td>
-<td><a href="https://github.com/adrianhajdin"><img src="https://avatars.githubusercontent.com/u/24898559?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adrianhajdin"><b>Adrian Hajdin - JS Mastery</b></a><br><sub>&#64;adrianhajdin · 37,583 followers</sub></td>
+<td><a href="https://github.com/adrianhajdin"><img src="https://avatars.githubusercontent.com/u/24898559?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adrianhajdin"><b>Adrian Hajdin - JS Mastery</b></a><br><sub>&#64;adrianhajdin · 37,582 followers</sub></td>
 <td align="right"><b>496</b></td>
 <td align="right">348</td>
 <td align="right">123</td>
@@ -160,6 +160,15 @@
 </tr>
 <tr>
 <td align="right">16</td>
+<td><a href="https://github.com/denibertovic"><img src="https://avatars.githubusercontent.com/u/807660?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/denibertovic"><b>Deni Bertovic</b></a><br><sub>&#64;denibertovic · 143 followers</sub></td>
+<td align="right"><b>191</b></td>
+<td align="right">182</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">17</td>
 <td><a href="https://github.com/stjepanjurekovic"><img src="https://avatars.githubusercontent.com/u/54952497?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stjepanjurekovic"><b>Stjepan Jureković</b></a><br><sub>&#64;stjepanjurekovic · 197 followers</sub></td>
 <td align="right"><b>186</b></td>
 <td align="right">39</td>
@@ -168,7 +177,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">18</td>
 <td><a href="https://github.com/hermanzdosilovic"><img src="https://avatars.githubusercontent.com/u/7927278?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hermanzdosilovic"><b>Herman Zvonimir Došilović</b></a><br><sub>&#64;hermanzdosilovic · 284 followers</sub></td>
 <td align="right"><b>151</b></td>
 <td align="right">140</td>
@@ -177,7 +186,7 @@
 <td align="right">5</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">19</td>
 <td><a href="https://github.com/tkrajina"><img src="https://avatars.githubusercontent.com/u/379243?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tkrajina"><b>Tomo Krajina</b></a><br><sub>&#64;tkrajina · 292 followers</sub></td>
 <td align="right"><b>101</b></td>
 <td align="right">100</td>
@@ -186,7 +195,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">20</td>
 <td><a href="https://github.com/ihabunek"><img src="https://avatars.githubusercontent.com/u/482138?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ihabunek"><b>Ivan Habunek</b></a><br><sub>&#64;ihabunek · 156 followers</sub></td>
 <td align="right"><b>78</b></td>
 <td align="right">72</td>
@@ -195,7 +204,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">21</td>
 <td><a href="https://github.com/silvenon"><img src="https://avatars.githubusercontent.com/u/471278?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/silvenon"><b>Matija Marohnić</b></a><br><sub>&#64;silvenon · 419 followers</sub></td>
 <td align="right"><b>68</b></td>
 <td align="right">24</td>
@@ -204,7 +213,7 @@
 <td align="right">27</td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">22</td>
 <td><a href="https://github.com/diomed"><img src="https://avatars.githubusercontent.com/u/72777?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/diomed"><b>May Kittens Devour Your Soul</b></a><br><sub>&#64;diomed · 262 followers</sub></td>
 <td align="right"><b>46</b></td>
 <td align="right">27</td>
@@ -213,7 +222,16 @@
 <td align="right">5</td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">23</td>
+<td><a href="https://github.com/brankoajzele"><img src="https://avatars.githubusercontent.com/u/42314?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/brankoajzele"><b>Branko Ajzele</b></a><br><sub>&#64;brankoajzele · 207 followers</sub></td>
+<td align="right"><b>33</b></td>
+<td align="right">23</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">24</td>
 <td><a href="https://github.com/NikolaBreznjak"><img src="https://avatars.githubusercontent.com/u/1001064?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NikolaBreznjak"><b>Nikola Brežnjak</b></a><br><sub>&#64;NikolaBreznjak · 168 followers</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">18</td>
@@ -222,7 +240,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">25</td>
 <td><a href="https://github.com/loboris"><img src="https://avatars.githubusercontent.com/u/6280349?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/loboris"><b>Boris Lovosevic</b></a><br><sub>&#64;loboris · 407 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -237,7 +255,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 23 of 454 discovered developers (431 awaiting measurement).
+- **Measured:** 25 of 460 discovered developers (435 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 145 in round 1.

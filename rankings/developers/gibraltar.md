@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/miohtama"><img src="https://avatars.githubusercontent.com/u/49922?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/miohtama"><b>Mikko Ohtamaa</b></a><br><sub>&#64;miohtama</sub></td>
-<td align="right"><b>576</b></td>
+<td align="right"><b>575</b></td>
 <td align="right">356</td>
 <td><sub>Gibraltar</sub></td>
 </tr>

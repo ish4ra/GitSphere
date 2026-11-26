@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **82** | 23 Nov 2026 | <a href="../data/SK.json">JSON</a> |
+| 🟡 Provisional | **92** | 24 Nov 2026 | <a href="../data/SK.json">JSON</a> |
 
 </div>
 
@@ -143,21 +143,21 @@
 <tr>
 <td align="right">18</td>
 <td><img src="https://github.com/acoustid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/acoustid/chromaprint"><b>acoustid/chromaprint</b></a><br><sub>C library for generating audio fingerprints used by AcoustID</sub></td>
-<td align="right"><b>1,432</b></td>
-<td align="right">181</td>
+<td align="right"><b>1,433</b></td>
+<td align="right">180</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">19</td>
 <td><img src="https://github.com/SimpleMobileTools.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SimpleMobileTools/Simple-Music-Player"><b>SimpleMobileTools/Simple-Music-Player</b></a><br><sub>A clean music player with a customizable widget, stylish interface and no ads.</sub></td>
-<td align="right"><b>1,405</b></td>
-<td align="right">427</td>
+<td align="right"><b>1,407</b></td>
+<td align="right">426</td>
 <td>Kotlin</td>
 </tr>
 <tr>
 <td align="right">20</td>
 <td><img src="https://github.com/nem0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nem0/OpenFBX"><b>nem0/OpenFBX</b></a> <sub>archived</sub><br><sub>Lightweight open source FBX importer</sub></td>
-<td align="right"><b>1,354</b></td>
+<td align="right"><b>1,356</b></td>
 <td align="right">154</td>
 <td>C</td>
 </tr>
@@ -165,13 +165,13 @@
 <td align="right">21</td>
 <td><img src="https://github.com/mauron85.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mauron85/react-native-background-geolocation"><b>mauron85/react-native-background-geolocation</b></a><br><sub>Background and foreground geolocation plugin for React Native. Tracks user when app is running in background.</sub></td>
 <td align="right"><b>1,352</b></td>
-<td align="right">557</td>
+<td align="right">556</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">22</td>
 <td><img src="https://github.com/madox2.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/madox2/vim-ai"><b>madox2/vim-ai</b></a><br><sub>AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.</sub></td>
-<td align="right"><b>1,190</b></td>
+<td align="right"><b>1,191</b></td>
 <td align="right">111</td>
 <td>Python</td>
 </tr>
@@ -179,7 +179,7 @@
 <td align="right">23</td>
 <td><img src="https://github.com/dorny.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dorny/test-reporter"><b>dorny/test-reporter</b></a><br><sub>Displays test results from popular testing frameworks directly in GitHub</sub></td>
 <td align="right"><b>1,187</b></td>
-<td align="right">316</td>
+<td align="right">318</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -595,6 +595,76 @@
 <td align="right">30</td>
 <td>JavaScript</td>
 </tr>
+<tr>
+<td align="right">83</td>
+<td><img src="https://github.com/itsgoingd.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/itsgoingd/clockwork-chrome"><b>itsgoingd/clockwork-chrome</b></a> <sub>archived</sub><br><sub>Clockwork - php dev tools integrated to your browser - Chrome extension</sub></td>
+<td align="right"><b>406</b></td>
+<td align="right">23</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">84</td>
+<td><img src="https://github.com/jbutko.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jbutko/AngularJS-Boilerplate"><b>jbutko/AngularJS-Boilerplate</b></a><br><sub>Simple AngularJS Boilerplate to kick start your new project with SASS support and Gulp watch/build tasks</sub></td>
+<td align="right"><b>402</b></td>
+<td align="right">151</td>
+<td>CSS</td>
+</tr>
+<tr>
+<td align="right">85</td>
+<td><img src="https://github.com/MatusKysel.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MatusKysel/EMVemulator"><b>MatusKysel/EMVemulator</b></a><br><sub>This Android app collects Mag-Stripe data and CVC3 codes from PayPass cards and emulates that information.</sub></td>
+<td align="right"><b>397</b></td>
+<td align="right">103</td>
+<td>Java</td>
+</tr>
+<tr>
+<td align="right">86</td>
+<td><img src="https://github.com/peterpaulis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/peterpaulis/StaticDataTableViewController"><b>peterpaulis/StaticDataTableViewController</b></a><br><sub>Enables animated hide/show of static cells and sections</sub></td>
+<td align="right"><b>396</b></td>
+<td align="right">44</td>
+<td>Objective-C</td>
+</tr>
+<tr>
+<td align="right">87</td>
+<td><img src="https://github.com/ChmaraX.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ChmaraX/herdr-nvim"><b>ChmaraX/herdr-nvim</b></a><br><sub>Neovim, fully integrated into your herdr workspace</sub></td>
+<td align="right"><b>390</b></td>
+<td align="right">58</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">88</td>
+<td><img src="https://github.com/misosvec.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/misosvec/SingleRowCalendar"><b>misosvec/SingleRowCalendar</b></a><br><sub>Android library for horizontal single row calendar. With this library, you aren&#39;t attached to library built-in UI. You…</sub></td>
+<td align="right"><b>381</b></td>
+<td align="right">55</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">89</td>
+<td><img src="https://github.com/SimpleMobileTools.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SimpleMobileTools/Simple-Commons"><b>SimpleMobileTools/Simple-Commons</b></a><br><sub>Some helper functions and shared resources to be used only by the simple apps suite.</sub></td>
+<td align="right"><b>375</b></td>
+<td align="right">365</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">90</td>
+<td><img src="https://github.com/ostrolucky.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ostrolucky/Bulk-Bing-Image-downloader"><b>ostrolucky/Bulk-Bing-Image-downloader</b></a><br><sub>Download full sized images returned from bing image search</sub></td>
+<td align="right"><b>375</b></td>
+<td align="right">109</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">91</td>
+<td><img src="https://github.com/Burgyn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Burgyn/MMLib.SwaggerForOcelot"><b>Burgyn/MMLib.SwaggerForOcelot</b></a><br><sub>This repo contains swagger extension for ocelot.</sub></td>
+<td align="right"><b>373</b></td>
+<td align="right">98</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">92</td>
+<td><img src="https://github.com/SimpleMobileTools.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SimpleMobileTools/Simple-Flashlight"><b>SimpleMobileTools/Simple-Flashlight</b></a><br><sub>A simple modern flashlight with SOS, stroboscope &amp; bright display, has no ads.</sub></td>
+<td align="right"><b>372</b></td>
+<td align="right">177</td>
+<td>Kotlin</td>
+</tr>
 </tbody>
 </table>
 
@@ -603,8 +673,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 420 stars; 82 attributed candidates are tracked.
-- 109 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 372 stars; 92 attributed candidates are tracked.
+- 108 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 150 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

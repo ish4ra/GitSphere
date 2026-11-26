@@ -5,7 +5,7 @@
 "country": {"code":"LB","name":"Lebanon","slug":"lebanon"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":93,"ownerExpansionBacklog":127,"candidates":107,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":61,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":93,"ownerExpansionBacklog":126,"candidates":107,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":61,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOGJv-1g","name":"mirror-leech-telegram-bot","nameWithOwner":"anasty17/mirror-leech-telegram-bot","url":"https://github.com/anasty17/mirror-leech-telegram-bot","description":"Official Repository: Telegram bot which can download direct links, torrents, nzb, google drive, telegram document, any file/folder from rclone supported clouds…","stars":4373,"forks":5131,"primaryLanguage":"Python","license":{"spdxId":"GPL-3.0"},"createdAt":"2021-10-02T18:12:12Z","pushedAt":"2026-11-24T21:16:52Z","archived":false,"owner":{"login":"anasty17","name":"Anas Tayyar","type":"User","url":"https://github.com/anasty17","location":"Saida, Lebanon","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnk5MzMyNDE0MQ==","name":"Watusi-for-WhatsApp","nameWithOwner":"FouadRaheb/Watusi-for-WhatsApp","url":"https://github.com/FouadRaheb/Watusi-for-WhatsApp","description":"Your all-in-one tweak for WhatsApp Messenger!","stars":2027,"forks":189,"primaryLanguage":null,"license":null,"createdAt":"2017-06-04T15:51:03Z","pushedAt":"2026-11-24T12:22:42Z","archived":false,"owner":{"login":"FouadRaheb","name":"Fouad Raheb","type":"User","url":"https://github.com/FouadRaheb","location":"Lebanon","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"Network-Intrusion-Detection-System","nameWithOwner":"1hadisa/Network-Intrusion-Detection-System","url":"https://github.com/1hadisa/Network-Intrusion-Detection-System","description":null,"stars":0,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2026-07-08T10:51:02Z","pushedAt":"2026-07-10T10:31:22Z","archived":false,"owner":{"login":"1hadisa","name":"1hadi","type":"User","url":"https://github.com/1hadisa","location":"Lebanon","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"Groceries","nameWithOwner":"1sarakayello/Groceries","url":"https://github.com/1sarakayello/Groceries","description":null,"stars":0,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2025-09-29T08:21:10Z","pushedAt":"2025-09-29T11:06:50Z","archived":false,"owner":{"login":"1sarakayello","name":"Sara Kayello","type":"User","url":"https://github.com/1sarakayello","location":"Lebanon","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "6a3f9b6019c5e265",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "e9d093236fedb91f",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

@@ -1,8 +1,9 @@
 {
 "schemaVersion": 3,
 "country": {"code":"LS","name":"Lesotho","slug":"lesotho"},
-"count": 124,
+"count": 125,
 "repositories": [
+  {"id":"MDEwOlJlcG9zaXRvcnkzMjkzOTA5NjY=","name":"tshakalekholoane/bat","stars":378,"forks":28,"language":"Go","license":"MIT","description":"Battery management utility for Linux laptops.","archived":false,"createdAt":"2021-01-13T18:02:46Z","pushedAt":"2026-09-14T03:15:27Z","owner":{"id":"MDQ6VXNlcjIzNTU0MDE3","login":"tshakalekholoane","type":"User","name":"Tshaka Lekholoane","location":"Maseru, Lesotho"},"attribution":{"code":"LS","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-26T18:37:10.735Z","verifiedAt":"2026-11-26T18:37:10.735Z","cycle":1},
   {"name":"eRegister/bahmni_docker_base","stars":1,"forks":3,"language":"Dockerfile","archived":false,"createdAt":"2018-08-01T09:53:03Z","pushedAt":"2020-11-16T06:18:26Z","owner":{"login":"eRegister","type":"Organization","name":"Lesotho eRegister","location":"Lesotho"},"attribution":{"code":"LS","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T22:12:34.760Z","id":"legacy:eregister/bahmni_docker_base","legacy":true},
   {"name":"busyH4ck3r/imsi_catched_results","stars":1,"forks":1,"license":"GPL-3.0","archived":false,"createdAt":"2026-07-27T12:48:41Z","pushedAt":"2026-07-27T12:58:25Z","owner":{"login":"busyH4ck3r","type":"User","name":"Theko Moima","location":"Lesotho"},"attribution":{"code":"LS","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-11-01T22:12:34.760Z","id":"legacy:busyh4ck3r/imsi_catched_results","legacy":true},
   {"name":"goldenkat213/healthcare-chatbot-using-python","stars":1,"forks":1,"language":"HTML","archived":false,"createdAt":"2022-07-02T15:21:47Z","pushedAt":"2022-05-27T06:22:50Z","owner":{"login":"goldenkat213","type":"User","name":"Kat Kherehloa","location":"Lesotho Maseru"},"attribution":{"code":"LS","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-11-01T22:12:34.760Z","id":"legacy:goldenkat213/healthcare-chatbot-using-python","legacy":true},

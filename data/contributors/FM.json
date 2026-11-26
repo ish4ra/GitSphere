@@ -5,15 +5,15 @@
 "country": {"code":"FM","name":"Micronesia","slug":"micronesia"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":24,"measuredAccounts":16,"measurementBacklog":8,"window":{"from":"2025-11-24T21:00:00Z","to":"2026-11-24T21:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":59,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":24,"measuredAccounts":17,"measurementBacklog":7,"window":{"from":"2025-11-24T21:00:00Z","to":"2026-11-24T21:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":59,"unresolved":0}},
 "users": [
   {"rank":1,"id":"MDQ6VXNlcjQ5NjM4ODQ=","login":"heyesr","name":"Richard","url":"https://github.com/heyesr","avatarUrl":"https://avatars.githubusercontent.com/u/4963884?s=80&v=4","followers":4,"publicRepos":3,"location":"Federated States of Micronesia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":97,"commits":96,"pullRequests":0,"reviews":0,"issues":0,"repositories":1,"windowFrom":"2025-11-24T21:00:00Z","windowTo":"2026-11-24T21:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":2,"id":"MDQ6VXNlcjY5NTYwNzAy","login":"micronesianmacarthur","name":"Mac","url":"https://github.com/micronesianmacarthur","avatarUrl":"https://avatars.githubusercontent.com/u/69560702?s=80&v=4","followers":0,"publicRepos":37,"location":"Micronesia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-23","contributions":{"public":49,"commits":5,"pullRequests":1,"reviews":0,"issues":30,"repositories":13,"windowFrom":"2025-11-23T03:00:00Z","windowTo":"2026-11-23T03:00:00Z","measuredOn":"2026-11-23"}},
   {"rank":3,"id":"MDQ6VXNlcjU5NjQzODc1","login":"linkangren","name":"Rosanna Wunsch","url":"https://github.com/linkangren","avatarUrl":"https://avatars.githubusercontent.com/u/59643875?s=80&v=4","followers":0,"publicRepos":15,"location":"9560 ,Pouros Street ,Schulistborough ,Delaware ,Micronesia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-24","contributions":{"public":5,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":5,"windowFrom":"2025-11-24T01:00:00Z","windowTo":"2026-11-24T01:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":4,"id":"MDQ6VXNlcjI2NzE4NjAz","login":"Retrakor","name":"Retrakor","url":"https://github.com/Retrakor","avatarUrl":"https://avatars.githubusercontent.com/u/26718603?s=80&v=4","followers":1,"publicRepos":3,"location":"Federated States of Micronesia","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26","contributions":{"public":1,"commits":1,"pullRequests":0,"reviews":0,"issues":0,"repositories":0,"windowFrom":"2025-11-26T00:00:00Z","windowTo":"2026-11-26T00:00:00Z","measuredOn":"2026-11-26"}}
 ],
-"contentHash": "612ea4c037b2f4ec",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "c1739213f86dd8ca",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

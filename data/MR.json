@@ -5,7 +5,7 @@
 "country": {"code":"MR","name":"Mauritania","slug":"mauritania"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":145,"candidates":114,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":104,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":100,"ownerExpansionBacklog":142,"candidates":114,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":104,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"api_java","nameWithOwner":"muhamedoufi/api_java","url":"https://github.com/muhamedoufi/api_java","description":null,"stars":1,"forks":2,"primaryLanguage":"HTML","license":null,"createdAt":"2023-01-15T18:20:27Z","pushedAt":"2023-12-19T14:17:53Z","archived":false,"owner":{"login":"muhamedoufi","name":"Muhamedou Fi","type":"User","url":"https://github.com/muhamedoufi","location":"Mauritania","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"simple-reactApp","nameWithOwner":"rajelmn/simple-reactApp","url":"https://github.com/rajelmn/simple-reactApp","description":null,"stars":1,"forks":1,"primaryLanguage":"JavaScript","license":null,"createdAt":"2024-08-07T17:01:50Z","pushedAt":"2024-08-08T20:05:46Z","archived":false,"owner":{"login":"rajelmn","name":"ra_mn","type":"User","url":"https://github.com/rajelmn","location":"mauritania","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -108,8 +108,8 @@
   {"rank":99,"id":null,"name":"multi_tenant","nameWithOwner":"ghalass/multi_tenant","url":"https://github.com/ghalass/multi_tenant","description":null,"stars":0,"forks":0,"primaryLanguage":"TypeScript","license":null,"createdAt":"2026-09-16T23:51:53Z","pushedAt":"2026-10-03T22:23:30Z","archived":false,"owner":{"login":"ghalass","name":"MED SALEM GHALASS","type":"User","url":"https://github.com/ghalass","location":"Mauritania","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":100,"id":null,"name":"fleex-legalll","nameWithOwner":"H7amady/fleex-legalll","url":"https://github.com/H7amady/fleex-legalll","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2026-05-01T10:48:27Z","pushedAt":"2026-05-01T10:50:34Z","archived":false,"owner":{"login":"H7amady","name":"Hamady","type":"User","url":"https://github.com/H7amady","location":"Mauritania","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "89c43b00458b8417",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "3f9dac2c1674d398",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

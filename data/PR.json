@@ -5,7 +5,7 @@
 "country": {"code":"PR","name":"Puerto Rico","slug":"puerto-rico"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":34,"ownerExpansionBacklog":119,"candidates":59,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":84,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":34,"ownerExpansionBacklog":115,"candidates":59,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":84,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxNDE3MzE3Ng==","name":"kryo","nameWithOwner":"EsotericSoftware/kryo","url":"https://github.com/EsotericSoftware/kryo","description":"Java binary serialization and cloning: fast, efficient, automatic","stars":6551,"forks":848,"primaryLanguage":"HTML","license":{"spdxId":"BSD-3-Clause"},"createdAt":"2013-11-06T13:24:03Z","pushedAt":"2026-11-16T11:54:24Z","archived":false,"owner":{"login":"EsotericSoftware","name":"Esoteric Software","type":"Organization","url":"https://github.com/EsotericSoftware","location":"Puerto Rico","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnk4MzAyMTgx","name":"spine-runtimes","nameWithOwner":"EsotericSoftware/spine-runtimes","url":"https://github.com/EsotericSoftware/spine-runtimes","description":"2D skeletal animation runtimes for Spine.","stars":5381,"forks":3153,"primaryLanguage":"C++","license":{"spdxId":"NOASSERTION"},"createdAt":"2013-02-19T23:49:37Z","pushedAt":"2026-11-25T03:34:26Z","archived":false,"owner":{"login":"EsotericSoftware","name":"Esoteric Software","type":"Organization","url":"https://github.com/EsotericSoftware","location":"Puerto Rico","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
@@ -67,8 +67,8 @@
   {"rank":58,"id":null,"name":"Caribe_Heat_AN","nameWithOwner":"allan3prez/Caribe_Heat_AN","url":"https://github.com/allan3prez/Caribe_Heat_AN","description":null,"stars":1,"forks":0,"primaryLanguage":"Jupyter Notebook","license":null,"createdAt":"2026-05-26T17:03:15Z","pushedAt":"2026-07-30T18:58:53Z","archived":false,"owner":{"login":"allan3prez","name":"Allan Cruz","type":"User","url":"https://github.com/allan3prez","location":"Puerto Rico","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":59,"id":null,"name":"LearnigMipe","nameWithOwner":"aMendoza99/LearnigMipe","url":"https://github.com/aMendoza99/LearnigMipe","description":null,"stars":1,"forks":0,"primaryLanguage":"C#","license":null,"createdAt":"2024-06-10T17:46:19Z","pushedAt":"2024-07-23T14:04:38Z","archived":false,"owner":{"login":"aMendoza99","name":"Adrien J. Mendoza Cabrera","type":"User","url":"https://github.com/aMendoza99","location":"Carolina, Puerto Rico","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "8fe78a648b5a4ecf",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "75271bd79da434d2",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

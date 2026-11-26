@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/contributors/MX.json">JSON</a> |
+| 🟡 Provisional | **16** | 22 Nov 2026 | <a href="../../data/contributors/MX.json">JSON</a> |
 
 </div>
 
@@ -25,7 +25,7 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><a href="https://github.com/vic"><img src="https://avatars.githubusercontent.com/u/331?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vic"><b>Victor Borja</b></a><br><sub>&#64;vic · 763 followers</sub></td>
+<td><a href="https://github.com/vic"><img src="https://avatars.githubusercontent.com/u/331?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vic"><b>Victor Borja</b></a><br><sub>&#64;vic · 762 followers</sub></td>
 <td align="right"><b>3,366</b></td>
 <td align="right">2,401</td>
 <td align="right">574</td>
@@ -106,7 +106,7 @@
 </tr>
 <tr>
 <td align="right">10</td>
-<td><a href="https://github.com/coderdiaz"><img src="https://avatars.githubusercontent.com/u/1901273?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/coderdiaz"><b>Javier Diaz</b></a><br><sub>&#64;coderdiaz · 451 followers</sub></td>
+<td><a href="https://github.com/coderdiaz"><img src="https://avatars.githubusercontent.com/u/1901273?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/coderdiaz"><b>Javier Diaz</b></a><br><sub>&#64;coderdiaz · 452 followers</sub></td>
 <td align="right"><b>115</b></td>
 <td align="right">80</td>
 <td align="right">11</td>
@@ -115,6 +115,15 @@
 </tr>
 <tr>
 <td align="right">11</td>
+<td><a href="https://github.com/faraday58"><img src="https://avatars.githubusercontent.com/u/18446145?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/faraday58"><b>Armando Rodríguez Vera</b></a><br><sub>&#64;faraday58 · 143 followers</sub></td>
+<td align="right"><b>104</b></td>
+<td align="right">78</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">12</td>
 <td><a href="https://github.com/cogitovsmachina"><img src="https://avatars.githubusercontent.com/u/290864?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cogitovsmachina"><b>Kike Diaz</b></a><br><sub>&#64;cogitovsmachina · 466 followers</sub></td>
 <td align="right"><b>101</b></td>
 <td align="right">75</td>
@@ -123,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/dpsanders"><img src="https://avatars.githubusercontent.com/u/191822?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dpsanders"><b>David P. Sanders</b></a><br><sub>&#64;dpsanders · 790 followers</sub></td>
 <td align="right"><b>93</b></td>
 <td align="right">35</td>
@@ -132,7 +141,7 @@
 <td align="right">6</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/hectorip"><img src="https://avatars.githubusercontent.com/u/1203545?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hectorip"><b>Héctor Iván Patricio Moreno</b></a><br><sub>&#64;hectorip · 282 followers</sub></td>
 <td align="right"><b>49</b></td>
 <td align="right">48</td>
@@ -141,7 +150,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/Ismael-VC"><img src="https://avatars.githubusercontent.com/u/4594825?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ismael-VC"><b>Ƶ̗̥̎ POP2kr</b></a><br><sub>&#64;Ismael-VC · 161 followers</sub></td>
 <td align="right"><b>25</b></td>
 <td align="right">6</td>
@@ -150,7 +159,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><a href="https://github.com/mikenieva"><img src="https://avatars.githubusercontent.com/u/1256678?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikenieva"><b>Mike Nieva</b></a><br><sub>&#64;mikenieva · 903 followers</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">12</td>
@@ -165,7 +174,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 16 of 716 discovered developers (700 awaiting measurement).
+- **Measured:** 17 of 760 discovered developers (743 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 153 in round 1.

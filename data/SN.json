@@ -5,14 +5,14 @@
 "country": {"code":"SN","name":"Senegal","slug":"senegal"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":492,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":117,"candidates":3,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":124,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":492,"legacyEntriesPendingRevalidation":0,"ownerExpansionBacklog":111,"candidates":3,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":124,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"R_kgDOMJIftg","name":"omni-tools","nameWithOwner":"iib0011/omni-tools","url":"https://github.com/iib0011/omni-tools","description":"Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!","stars":10786,"forks":774,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2024-06-13T23:06:42Z","pushedAt":"2026-10-24T12:13:14Z","archived":false,"owner":{"login":"iib0011","name":"Ibrahima G. Coulibaly","type":"User","url":"https://github.com/iib0011","location":"Senegal","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
-  {"rank":2,"id":"R_kgDOJFm5Qw","name":"awesome-ai-papers","nameWithOwner":"aimerou/awesome-ai-papers","url":"https://github.com/aimerou/awesome-ai-papers","description":"A curated list of the most impressive AI papers","stars":1316,"forks":118,"primaryLanguage":null,"license":null,"createdAt":"2023-03-05T13:11:05Z","pushedAt":"2025-07-01T13:31:54Z","archived":false,"owner":{"login":"aimerou","name":"Aïmérou Ndiaye","type":"User","url":"https://github.com/aimerou","location":"Senegal","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-23"},
+  {"rank":2,"id":"R_kgDOJFm5Qw","name":"awesome-ai-papers","nameWithOwner":"aimerou/awesome-ai-papers","url":"https://github.com/aimerou/awesome-ai-papers","description":"A curated list of the most impressive AI papers","stars":1316,"forks":118,"primaryLanguage":null,"license":null,"createdAt":"2023-03-05T13:11:05Z","pushedAt":"2025-07-01T13:31:54Z","archived":false,"owner":{"login":"aimerou","name":"Aïmérou Ndiaye","type":"User","url":"https://github.com/aimerou","location":"Senegal","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
   {"rank":3,"id":"R_kgDOLYuhBw","name":"unix-and-linux-sysadmin-notes","nameWithOwner":"abdoufermat5/unix-and-linux-sysadmin-notes","url":"https://github.com/abdoufermat5/unix-and-linux-sysadmin-notes","description":"Unix and Linux system administration handbook by Evi Nemeth Garth Snyder Trent R. Hein Ben Whaley Dan Mackin","stars":492,"forks":53,"primaryLanguage":"Shell","license":null,"createdAt":"2024-02-27T14:23:57Z","pushedAt":"2026-11-13T01:43:12Z","archived":false,"owner":{"login":"abdoufermat5","name":"Abdou","type":"User","url":"https://github.com/abdoufermat5","location":"Senegal","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"}
 ],
-"contentHash": "010bbccfb9434339",
-"updatedAt": "2026-11-26T08:53:16.527Z",
-"verifiedOn": "2026-11-23",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"contentHash": "de0765f4f29db1d2",
+"updatedAt": "2026-11-26T19:09:34.131Z",
+"verifiedOn": "2026-11-25",
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

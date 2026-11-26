@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/PY.json">JSON</a> |
+| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/contributors/PY.json">JSON</a> |
 
 </div>
 
@@ -25,7 +25,7 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><a href="https://github.com/matiasinsaurralde"><img src="https://avatars.githubusercontent.com/u/20110?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/matiasinsaurralde"><b>Matías Insaurralde</b></a><br><sub>&#64;matiasinsaurralde · 2,059 followers</sub></td>
+<td><a href="https://github.com/matiasinsaurralde"><img src="https://avatars.githubusercontent.com/u/20110?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/matiasinsaurralde"><b>Matías Insaurralde</b></a><br><sub>&#64;matiasinsaurralde · 2,057 followers</sub></td>
 <td align="right"><b>1,042</b></td>
 <td align="right">460</td>
 <td align="right">346</td>
@@ -115,6 +115,15 @@
 </tr>
 <tr>
 <td align="right">11</td>
+<td><a href="https://github.com/Ro1984Bi"><img src="https://avatars.githubusercontent.com/u/70768075?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Ro1984Bi"><b>Ro1984Bi</b></a><br><sub>&#64;Ro1984Bi · 0 followers</sub></td>
+<td align="right"><b>45</b></td>
+<td align="right">27</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">12</td>
 <td><a href="https://github.com/blaszorrilla"><img src="https://avatars.githubusercontent.com/u/37028794?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/blaszorrilla"><b>Blas Zorrilla</b></a><br><sub>&#64;blaszorrilla · 402 followers</sub></td>
 <td align="right"><b>21</b></td>
 <td align="right">19</td>
@@ -123,7 +132,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">13</td>
 <td><a href="https://github.com/mullwar"><img src="https://avatars.githubusercontent.com/u/988769?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mullwar"><b>mullwar</b></a><br><sub>&#64;mullwar · 29 followers</sub></td>
 <td align="right"><b>6</b></td>
 <td align="right">5</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/everdaniel"><img src="https://avatars.githubusercontent.com/u/218794?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/everdaniel"><b>Ever Daniel Barreto</b></a><br><sub>&#64;everdaniel · 60 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
@@ -141,7 +150,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/PavelDoGreat"><img src="https://avatars.githubusercontent.com/u/24439787?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PavelDoGreat"><b>Pavel Dobryakov</b></a><br><sub>&#64;PavelDoGreat · 1,370 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
@@ -156,7 +165,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 15 of 406 discovered developers (391 awaiting measurement).
+- **Measured:** 16 of 409 discovered developers (393 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 113 in round 1.

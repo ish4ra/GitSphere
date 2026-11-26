@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **161** | 24 Nov 2026 | <a href="../../data/developers/TD.json">JSON</a> |
+| 🟡 Provisional | **164** | 24 Nov 2026 | <a href="../../data/developers/TD.json">JSON</a> |
 
 </div>
 
@@ -394,755 +394,776 @@
 </tr>
 <tr>
 <td align="right">54</td>
+<td><a href="https://github.com/oumarfarouknew-maker"><img src="https://avatars.githubusercontent.com/u/291501448?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/oumarfarouknew-maker"><b>Oumar Mahamat Ahmat</b></a><br><sub>&#64;oumarfarouknew-maker</sub></td>
+<td align="right"><b>2</b></td>
+<td align="right">10</td>
+<td><sub>Abeche</sub></td>
+</tr>
+<tr>
+<td align="right">55</td>
 <td><a href="https://github.com/Bobsinging"><img src="https://avatars.githubusercontent.com/u/150949732?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bobsinging"><b>Bob</b></a><br><sub>&#64;Bobsinging</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">7</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">55</td>
+<td align="right">56</td>
 <td><a href="https://github.com/Solid2017"><img src="https://avatars.githubusercontent.com/u/30882006?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Solid2017"><b>Betan Gildas Ongbaye</b></a><br><sub>&#64;Solid2017</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">5</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">56</td>
+<td align="right">57</td>
 <td><a href="https://github.com/OneMusty"><img src="https://avatars.githubusercontent.com/u/133362807?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OneMusty"><b>OneMusty</b></a><br><sub>&#64;OneMusty</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">4</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">57</td>
+<td align="right">58</td>
 <td><a href="https://github.com/Djet-hub"><img src="https://avatars.githubusercontent.com/u/85284835?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Djet-hub"><b>Hubert Djeteinboua</b></a><br><sub>&#64;Djet-hub</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">3</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">58</td>
+<td align="right">59</td>
 <td><a href="https://github.com/Abakar-B"><img src="https://avatars.githubusercontent.com/u/59444125?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Abakar-B"><b>Abakar-B</b></a><br><sub>&#64;Abakar-B</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">2</td>
 <td><sub>chad</sub></td>
 </tr>
 <tr>
-<td align="right">59</td>
+<td align="right">60</td>
 <td><a href="https://github.com/Dissentbay"><img src="https://avatars.githubusercontent.com/u/4554200?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dissentbay"><b>Dissent</b></a><br><sub>&#64;Dissentbay</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">2</td>
 <td><sub>Djamena, Chad</sub></td>
 </tr>
 <tr>
-<td align="right">60</td>
+<td align="right">61</td>
 <td><a href="https://github.com/bibahorizonservices"><img src="https://avatars.githubusercontent.com/u/202710920?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bibahorizonservices"><b>BHS</b></a><br><sub>&#64;bibahorizonservices</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">61</td>
+<td align="right">62</td>
 <td><a href="https://github.com/naitze"><img src="https://avatars.githubusercontent.com/u/95242540?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/naitze"><b>naitze</b></a><br><sub>&#64;naitze</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
 <td><sub>chad</sub></td>
 </tr>
 <tr>
-<td align="right">62</td>
+<td align="right">63</td>
 <td><a href="https://github.com/Bootsico"><img src="https://avatars.githubusercontent.com/u/80296493?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bootsico"><b>The Woag Man</b></a><br><sub>&#64;Bootsico</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
 <td><sub>deez nuts, Chad</sub></td>
 </tr>
 <tr>
-<td align="right">63</td>
+<td align="right">64</td>
 <td><a href="https://github.com/MrMuffln"><img src="https://avatars.githubusercontent.com/u/121070692?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MrMuffln"><b>sinoda</b></a><br><sub>&#64;MrMuffln</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">0</td>
 <td><sub>chad</sub></td>
 </tr>
 <tr>
-<td align="right">64</td>
+<td align="right">65</td>
 <td><a href="https://github.com/abelmohsinmahamat-crypto"><img src="https://avatars.githubusercontent.com/u/266070729?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abelmohsinmahamat-crypto"><b>ABDELMOHSIN MAHAMAT</b></a><br><sub>&#64;abelmohsinmahamat-crypto</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">55</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">65</td>
+<td align="right">66</td>
 <td><a href="https://github.com/hamidbong"><img src="https://avatars.githubusercontent.com/u/117206678?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hamidbong"><b>Hamid Bong Brahim</b></a><br><sub>&#64;hamidbong</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">14</td>
 <td><sub>Ndjamena, Chad</sub></td>
 </tr>
 <tr>
-<td align="right">66</td>
+<td align="right">67</td>
 <td><a href="https://github.com/Nadjibx"><img src="https://avatars.githubusercontent.com/u/10615451?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nadjibx"><b>Nadjiarabeye Beassoum</b></a><br><sub>&#64;Nadjibx</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">11</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">67</td>
+<td align="right">68</td>
 <td><a href="https://github.com/Eng-ahmat"><img src="https://avatars.githubusercontent.com/u/187855578?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Eng-ahmat"><b>Ahmat Aboubakr</b></a><br><sub>&#64;Eng-ahmat</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">10</td>
 <td><sub>N&#39;djamena, Chad</sub></td>
 </tr>
 <tr>
-<td align="right">68</td>
+<td align="right">69</td>
 <td><a href="https://github.com/yayayou47"><img src="https://avatars.githubusercontent.com/u/251191616?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/yayayou47"><b>Yaya Youssouf Yaya</b></a><br><sub>&#64;yayayou47</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">9</td>
 <td><sub>N&#39;djaména , Chad</sub></td>
 </tr>
 <tr>
-<td align="right">69</td>
+<td align="right">70</td>
 <td><a href="https://github.com/steve-nanou"><img src="https://avatars.githubusercontent.com/u/39991481?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/steve-nanou"><b>Steve NANOUDJAL</b></a><br><sub>&#64;steve-nanou</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">7</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">70</td>
+<td align="right">71</td>
 <td><a href="https://github.com/IDontAName"><img src="https://avatars.githubusercontent.com/u/193642604?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IDontAName"><b>IDontAName</b></a><br><sub>&#64;IDontAName</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">6</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">71</td>
+<td align="right">72</td>
 <td><a href="https://github.com/moudjahid"><img src="https://avatars.githubusercontent.com/u/22187986?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/moudjahid"><b>Moudjahid</b></a><br><sub>&#64;moudjahid</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">6</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">72</td>
+<td align="right">73</td>
 <td><a href="https://github.com/Gagayo"><img src="https://avatars.githubusercontent.com/u/46720811?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Gagayo"><b>Hamid Tahir</b></a><br><sub>&#64;Gagayo</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">5</td>
 <td><sub>Ndjamena, Chad</sub></td>
 </tr>
 <tr>
-<td align="right">73</td>
+<td align="right">74</td>
 <td><a href="https://github.com/moussa-youssouf-issa"><img src="https://avatars.githubusercontent.com/u/57353849?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/moussa-youssouf-issa"><b>Moussa Youssouf issa</b></a><br><sub>&#64;moussa-youssouf-issa</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">5</td>
 <td><sub>N’Djamena, Chad</sub></td>
 </tr>
 <tr>
-<td align="right">74</td>
+<td align="right">75</td>
 <td><a href="https://github.com/SanaaBH7"><img src="https://avatars.githubusercontent.com/u/228265386?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SanaaBH7"><b>San&#95;BH7</b></a><br><sub>&#64;SanaaBH7</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">5</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">75</td>
+<td align="right">76</td>
 <td><a href="https://github.com/Tchalle"><img src="https://avatars.githubusercontent.com/u/56738848?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Tchalle"><b>MAHAMAT TCHALLE GOLLE</b></a><br><sub>&#64;Tchalle</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">5</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">76</td>
+<td align="right">77</td>
 <td><a href="https://github.com/TelvanniChad"><img src="https://avatars.githubusercontent.com/u/87497218?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TelvanniChad"><b>TelvanniChad</b></a><br><sub>&#64;TelvanniChad</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">5</td>
 <td><sub>Tel Chad, Vvardenfell, Morrowind</sub></td>
 </tr>
 <tr>
-<td align="right">77</td>
+<td align="right">78</td>
 <td><a href="https://github.com/cgfoz"><img src="https://avatars.githubusercontent.com/u/448135?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cgfoz"><b>cgfoz</b></a><br><sub>&#64;cgfoz</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">4</td>
 <td><sub>N&#39;Djamena, Chad</sub></td>
 </tr>
 <tr>
-<td align="right">78</td>
+<td align="right">79</td>
 <td><a href="https://github.com/kisaigo"><img src="https://avatars.githubusercontent.com/u/247889897?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kisaigo"><b>kisaigo</b></a><br><sub>&#64;kisaigo</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">4</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">79</td>
+<td align="right">80</td>
 <td><a href="https://github.com/LEDOUM"><img src="https://avatars.githubusercontent.com/u/32681960?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LEDOUM"><b>sylvain.ledoum&#64;td.tigo.com</b></a><br><sub>&#64;LEDOUM</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">4</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">80</td>
+<td align="right">81</td>
 <td><a href="https://github.com/SAbakar"><img src="https://avatars.githubusercontent.com/u/40408076?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SAbakar"><b>SAbakar</b></a><br><sub>&#64;SAbakar</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">4</td>
 <td><sub>chad</sub></td>
 </tr>
 <tr>
-<td align="right">81</td>
+<td align="right">82</td>
 <td><a href="https://github.com/aguidiweidegue"><img src="https://avatars.githubusercontent.com/u/65353760?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aguidiweidegue"><b>Aguidi Weidegue Tabah</b></a><br><sub>&#64;aguidiweidegue</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">3</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">82</td>
+<td align="right">83</td>
 <td><a href="https://github.com/neorobert"><img src="https://avatars.githubusercontent.com/u/76982842?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/neorobert"><b>Robert Djondene</b></a><br><sub>&#64;neorobert</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">3</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">83</td>
+<td align="right">84</td>
 <td><a href="https://github.com/1KadenDev"><img src="https://avatars.githubusercontent.com/u/155135431?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/1KadenDev"><b>Kaden</b></a><br><sub>&#64;1KadenDev</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">84</td>
+<td align="right">85</td>
 <td><a href="https://github.com/6308-75-II2-TheMostAdvancedNameToDate"><img src="https://avatars.githubusercontent.com/u/90270162?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/6308-75-II2-TheMostAdvancedNameToDate"><b>Chad</b></a><br><sub>&#64;6308-75-II2-TheMostAdvancedNameToDate</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">85</td>
+<td align="right">86</td>
 <td><a href="https://github.com/forlamydreams"><img src="https://avatars.githubusercontent.com/u/165208602?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/forlamydreams"><b>FORLAMY DREAMS ORGANIZATION</b></a><br><sub>&#64;forlamydreams</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">86</td>
+<td align="right">87</td>
 <td><a href="https://github.com/foye-jr1046"><img src="https://avatars.githubusercontent.com/u/50973160?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/foye-jr1046"><b>Abdelwahid Mahamat Foye Ilias</b></a><br><sub>&#64;foye-jr1046</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>N&#39;djamena, Chad</sub></td>
 </tr>
 <tr>
-<td align="right">87</td>
+<td align="right">88</td>
 <td><a href="https://github.com/gabdibegabhingonne"><img src="https://avatars.githubusercontent.com/u/46611012?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gabdibegabhingonne"><b>Gabdibé GAB-HINGONNE</b></a><br><sub>&#64;gabdibegabhingonne</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>N&#39;Djamena-Chad</sub></td>
 </tr>
 <tr>
-<td align="right">88</td>
+<td align="right">89</td>
 <td><a href="https://github.com/Maardimah"><img src="https://avatars.githubusercontent.com/u/167457029?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Maardimah"><b>Hamit Ali MAhamat</b></a><br><sub>&#64;Maardimah</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>N&#39;djamena , Chad</sub></td>
 </tr>
 <tr>
-<td align="right">89</td>
+<td align="right">90</td>
 <td><a href="https://github.com/n140289"><img src="https://avatars.githubusercontent.com/u/153727535?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/n140289"><b>Nassir Idriss ADAM</b></a><br><sub>&#64;n140289</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>N&#39;Djamena, Chad</sub></td>
 </tr>
 <tr>
-<td align="right">90</td>
+<td align="right">91</td>
 <td><a href="https://github.com/orijna"><img src="https://avatars.githubusercontent.com/u/68434054?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/orijna"><b>orijna</b></a><br><sub>&#64;orijna</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">91</td>
+<td align="right">92</td>
 <td><a href="https://github.com/Rosa-Demaye"><img src="https://avatars.githubusercontent.com/u/200790328?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Rosa-Demaye"><b>Rosa Demaye</b></a><br><sub>&#64;Rosa-Demaye</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>N&#39;Djamena, Chad</sub></td>
 </tr>
 <tr>
-<td align="right">92</td>
+<td align="right">93</td>
 <td><a href="https://github.com/sokchad90-debug"><img src="https://avatars.githubusercontent.com/u/273334966?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sokchad90-debug"><b>Abdarahim — Software Developer</b></a><br><sub>&#64;sokchad90-debug</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">2</td>
 <td><sub>N&#39;Djamena, Chad</sub></td>
 </tr>
 <tr>
-<td align="right">93</td>
+<td align="right">94</td>
 <td><a href="https://github.com/abdelrahim01"><img src="https://avatars.githubusercontent.com/u/35397560?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdelrahim01"><b>Abdelrahim Senoussi</b></a><br><sub>&#64;abdelrahim01</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">94</td>
+<td align="right">95</td>
 <td><a href="https://github.com/ahmedkondas"><img src="https://avatars.githubusercontent.com/u/59375640?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahmedkondas"><b>Ahmed Hussein</b></a><br><sub>&#64;ahmedkondas</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>chad</sub></td>
 </tr>
 <tr>
-<td align="right">95</td>
+<td align="right">96</td>
 <td><a href="https://github.com/ceohaggar"><img src="https://avatars.githubusercontent.com/u/67693733?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ceohaggar"><b>Mahamat Hamid Haggar</b></a><br><sub>&#64;ceohaggar</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">96</td>
+<td align="right">97</td>
 <td><a href="https://github.com/ericbaouro"><img src="https://avatars.githubusercontent.com/u/102951787?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ericbaouro"><b>ericbaouro</b></a><br><sub>&#64;ericbaouro</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>N&#39;Djamena, Chad</sub></td>
 </tr>
 <tr>
-<td align="right">97</td>
+<td align="right">98</td>
 <td><a href="https://github.com/jose-osilveira"><img src="https://avatars.githubusercontent.com/u/190081591?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jose-osilveira"><b>José Eduardo Silveira</b></a><br><sub>&#64;jose-osilveira</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">98</td>
+<td align="right">99</td>
 <td><a href="https://github.com/kingterrytheterrible-terry"><img src="https://avatars.githubusercontent.com/u/201763661?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kingterrytheterrible-terry"><b>o7</b></a><br><sub>&#64;kingterrytheterrible-terry</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">99</td>
+<td align="right">100</td>
 <td><a href="https://github.com/LatishaLambeth"><img src="https://avatars.githubusercontent.com/u/50203494?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/LatishaLambeth"><b>Latisha Lambeth</b></a><br><sub>&#64;LatishaLambeth</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">100</td>
+<td align="right">101</td>
 <td><a href="https://github.com/mahamataminahma"><img src="https://avatars.githubusercontent.com/u/240366989?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mahamataminahma"><b>Mahamatamin</b></a><br><sub>&#64;mahamataminahma</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">101</td>
+<td align="right">102</td>
 <td><a href="https://github.com/mkadembabarde-source"><img src="https://avatars.githubusercontent.com/u/282179093?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mkadembabarde-source"><b>Kademba Mahamat</b></a><br><sub>&#64;mkadembabarde-source</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>n&#39;djamena chad</sub></td>
 </tr>
 <tr>
-<td align="right">102</td>
+<td align="right">103</td>
 <td><a href="https://github.com/SeriouSurge"><img src="https://avatars.githubusercontent.com/u/101522716?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SeriouSurge"><b>Mordecai</b></a><br><sub>&#64;SeriouSurge</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">103</td>
+<td align="right">104</td>
 <td><a href="https://github.com/ticcyberchad"><img src="https://avatars.githubusercontent.com/u/259951445?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ticcyberchad"><b>TIC&amp;CYBER CHAD</b></a><br><sub>&#64;ticcyberchad</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">1</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">104</td>
+<td align="right">105</td>
 <td><a href="https://github.com/alainamenahem"><img src="https://avatars.githubusercontent.com/u/36162271?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alainamenahem"><b>alainamenahem</b></a><br><sub>&#64;alainamenahem</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Ndjamena - Chad</sub></td>
 </tr>
 <tr>
-<td align="right">105</td>
+<td align="right">106</td>
 <td><a href="https://github.com/AziTros"><img src="https://avatars.githubusercontent.com/u/121118435?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AziTros"><b>Kaiser</b></a><br><sub>&#64;AziTros</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">106</td>
+<td align="right">107</td>
 <td><a href="https://github.com/delagardo"><img src="https://avatars.githubusercontent.com/u/78538097?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/delagardo"><b>delagardo</b></a><br><sub>&#64;delagardo</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">107</td>
+<td align="right">108</td>
 <td><a href="https://github.com/impcatundascore"><img src="https://avatars.githubusercontent.com/u/113930484?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/impcatundascore"><b>Salhack Tech Support</b></a><br><sub>&#64;impcatundascore</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>chad</sub></td>
 </tr>
 <tr>
-<td align="right">108</td>
+<td align="right">109</td>
 <td><a href="https://github.com/JLBTP"><img src="https://avatars.githubusercontent.com/u/107157555?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JLBTP"><b>João Lucas Brum Twardowski Pinto</b></a><br><sub>&#64;JLBTP</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">109</td>
+<td align="right">110</td>
 <td><a href="https://github.com/Maldja"><img src="https://avatars.githubusercontent.com/u/95779283?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Maldja"><b>Ahmad Adoum hissein</b></a><br><sub>&#64;Maldja</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">110</td>
+<td align="right">111</td>
 <td><a href="https://github.com/mirror163"><img src="https://avatars.githubusercontent.com/u/144686488?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mirror163"><b>Himel Imtiaz</b></a><br><sub>&#64;mirror163</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>chad, Cpanel</sub></td>
 </tr>
 <tr>
-<td align="right">111</td>
+<td align="right">112</td>
 <td><a href="https://github.com/mpassoret"><img src="https://avatars.githubusercontent.com/u/87269959?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mpassoret"><b>Moudinet Passoret</b></a><br><sub>&#64;mpassoret</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>N&#39;Djamena - Chad</sub></td>
 </tr>
 <tr>
-<td align="right">112</td>
+<td align="right">113</td>
 <td><a href="https://github.com/Nankler"><img src="https://avatars.githubusercontent.com/u/270569691?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Nankler"><b>Nankler</b></a><br><sub>&#64;Nankler</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">113</td>
+<td align="right">114</td>
 <td><a href="https://github.com/nnfag"><img src="https://avatars.githubusercontent.com/u/85851852?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nnfag"><b>nnfag</b></a><br><sub>&#64;nnfag</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">114</td>
+<td align="right">115</td>
 <td><a href="https://github.com/Noobii420"><img src="https://avatars.githubusercontent.com/u/97342579?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Noobii420"><b>Chad</b></a><br><sub>&#64;Noobii420</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">115</td>
+<td align="right">116</td>
 <td><a href="https://github.com/NoSnowflake"><img src="https://avatars.githubusercontent.com/u/100092702?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NoSnowflake"><b>Alex Winter</b></a><br><sub>&#64;NoSnowflake</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">116</td>
+<td align="right">117</td>
 <td><a href="https://github.com/PabloisnowTaken"><img src="https://avatars.githubusercontent.com/u/78811966?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PabloisnowTaken"><b>PabloisnowTaken</b></a><br><sub>&#64;PabloisnowTaken</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">117</td>
+<td align="right">118</td>
 <td><a href="https://github.com/poisenedBite-666"><img src="https://avatars.githubusercontent.com/u/84354193?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/poisenedBite-666"><b>poisenedBite-666</b></a><br><sub>&#64;poisenedBite-666</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">118</td>
+<td align="right">119</td>
 <td><a href="https://github.com/rabbitsortof"><img src="https://avatars.githubusercontent.com/u/84213436?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rabbitsortof"><b>The Master of Arms</b></a><br><sub>&#64;rabbitsortof</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Chad, Chad.</sub></td>
 </tr>
 <tr>
-<td align="right">119</td>
+<td align="right">120</td>
 <td><a href="https://github.com/Reboot-Failed"><img src="https://avatars.githubusercontent.com/u/102420084?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Reboot-Failed"><b>Slick</b></a><br><sub>&#64;Reboot-Failed</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">120</td>
+<td align="right">121</td>
 <td><a href="https://github.com/wol-framio"><img src="https://avatars.githubusercontent.com/u/328950979?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wol-framio"><b>wolframe</b></a><br><sub>&#64;wol-framio</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td><sub>chad</sub></td>
 </tr>
 <tr>
-<td align="right">121</td>
+<td align="right">122</td>
 <td><a href="https://github.com/bacharacherif"><img src="https://avatars.githubusercontent.com/u/86106322?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bacharacherif"><b>Bachar Acherif</b></a><br><sub>&#64;bacharacherif</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">19</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">122</td>
+<td align="right">123</td>
 <td><a href="https://github.com/TenoAbba"><img src="https://avatars.githubusercontent.com/u/39222870?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TenoAbba"><b>turki abba</b></a><br><sub>&#64;TenoAbba</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">10</td>
 <td><sub>Ndjamena, Chad</sub></td>
 </tr>
 <tr>
-<td align="right">123</td>
+<td align="right">124</td>
 <td><a href="https://github.com/abdelazizmahamatalhafiz-maker"><img src="https://avatars.githubusercontent.com/u/356937859?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdelazizmahamatalhafiz-maker"><b>Abdelaziz Mahamat Alhafiz</b></a><br><sub>&#64;abdelazizmahamatalhafiz-maker</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">7</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">124</td>
+<td align="right">125</td>
 <td><a href="https://github.com/Badr3dobgu3"><img src="https://avatars.githubusercontent.com/u/145296268?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Badr3dobgu3"><b>Badré</b></a><br><sub>&#64;Badr3dobgu3</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">5</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">125</td>
+<td align="right">126</td>
 <td><a href="https://github.com/dunpagedormen"><img src="https://avatars.githubusercontent.com/u/182620788?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dunpagedormen"><b>dunpagedormen</b></a><br><sub>&#64;dunpagedormen</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Chad (TD)</sub></td>
 </tr>
 <tr>
-<td align="right">126</td>
+<td align="right">127</td>
 <td><a href="https://github.com/sweetgerporupor"><img src="https://avatars.githubusercontent.com/u/182699721?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sweetgerporupor"><b>sweetgerporupor</b></a><br><sub>&#64;sweetgerporupor</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">4</td>
 <td><sub>Chad (TD)</sub></td>
 </tr>
 <tr>
-<td align="right">127</td>
+<td align="right">128</td>
 <td><a href="https://github.com/choromafils92"><img src="https://avatars.githubusercontent.com/u/174836531?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/choromafils92"><b>aigle-One</b></a><br><sub>&#64;choromafils92</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>N&#39;djamena-chad</sub></td>
 </tr>
 <tr>
-<td align="right">128</td>
+<td align="right">129</td>
 <td><a href="https://github.com/Dr-Hans-Chucrute2016"><img src="https://avatars.githubusercontent.com/u/282088098?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Dr-Hans-Chucrute2016"><b>Herr Hans Von Sauerkraut</b></a><br><sub>&#64;Dr-Hans-Chucrute2016</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">129</td>
+<td align="right">130</td>
 <td><a href="https://github.com/roger-nadoumngar"><img src="https://avatars.githubusercontent.com/u/157615239?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/roger-nadoumngar"><b>Roger Beramgoto Nadoumngar</b></a><br><sub>&#64;roger-nadoumngar</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">2</td>
 <td><sub>CHAD</sub></td>
 </tr>
 <tr>
-<td align="right">130</td>
+<td align="right">131</td>
 <td><a href="https://github.com/01Hassa"><img src="https://avatars.githubusercontent.com/u/142748244?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/01Hassa"><b>Hassa</b></a><br><sub>&#64;01Hassa</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">131</td>
+<td align="right">132</td>
 <td><a href="https://github.com/abdoulayeibniabdoulayemahamat"><img src="https://avatars.githubusercontent.com/u/306742997?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abdoulayeibniabdoulayemahamat"><b>Abdoulaye Ibni Abdoulaye Mahamat</b></a><br><sub>&#64;abdoulayeibniabdoulayemahamat</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>N&#39;djamena , chad</sub></td>
 </tr>
 <tr>
-<td align="right">132</td>
+<td align="right">133</td>
 <td><a href="https://github.com/alkhassimking"><img src="https://avatars.githubusercontent.com/u/140913489?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alkhassimking"><b>Alkhassim</b></a><br><sub>&#64;alkhassimking</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">133</td>
+<td align="right">134</td>
 <td><a href="https://github.com/Belna66"><img src="https://avatars.githubusercontent.com/u/139487482?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Belna66"><b>Belna Epiphane</b></a><br><sub>&#64;Belna66</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">134</td>
+<td align="right">135</td>
 <td><a href="https://github.com/cemmcom1-tech"><img src="https://avatars.githubusercontent.com/u/315020083?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cemmcom1-tech"><b>Abduldeen Ousman</b></a><br><sub>&#64;cemmcom1-tech</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">135</td>
+<td align="right">136</td>
 <td><a href="https://github.com/emmanuelnguiramdara-droid"><img src="https://avatars.githubusercontent.com/u/291280372?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/emmanuelnguiramdara-droid"><b>Nguiramdara Emmanuel</b></a><br><sub>&#64;emmanuelnguiramdara-droid</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">136</td>
+<td align="right">137</td>
 <td><a href="https://github.com/faissalizedine"><img src="https://avatars.githubusercontent.com/u/305636709?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/faissalizedine"><b>Faissal-Izedine</b></a><br><sub>&#64;faissalizedine</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">137</td>
+<td align="right">138</td>
+<td><a href="https://github.com/instaforum"><img src="https://avatars.githubusercontent.com/u/210195926?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/instaforum"><b>Insta Tchad</b></a><br><sub>&#64;instaforum</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">1</td>
+<td><sub>Abeche</sub></td>
+</tr>
+<tr>
+<td align="right">139</td>
 <td><a href="https://github.com/Mahamat9217"><img src="https://avatars.githubusercontent.com/u/215041523?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mahamat9217"><b>Mahamat Ali</b></a><br><sub>&#64;Mahamat9217</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>N&#39;Djamena, Chad</sub></td>
 </tr>
 <tr>
-<td align="right">138</td>
+<td align="right">140</td>
 <td><a href="https://github.com/nvjbon-code"><img src="https://avatars.githubusercontent.com/u/338208566?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nvjbon-code"><b>Nvj Bon</b></a><br><sub>&#64;nvjbon-code</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">139</td>
+<td align="right">141</td>
 <td><a href="https://github.com/OumarEpiData"><img src="https://avatars.githubusercontent.com/u/291994585?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/OumarEpiData"><b>EpiData.Solutions</b></a><br><sub>&#64;OumarEpiData</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Abeche Chad</sub></td>
 </tr>
 <tr>
-<td align="right">140</td>
+<td align="right">142</td>
 <td><a href="https://github.com/SouadCoundi"><img src="https://avatars.githubusercontent.com/u/246015525?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SouadCoundi"><b>Souad COUNDI</b></a><br><sub>&#64;SouadCoundi</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">141</td>
+<td align="right">143</td>
 <td><a href="https://github.com/YOUSSOUF-2004"><img src="https://avatars.githubusercontent.com/u/189836159?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/YOUSSOUF-2004"><b>ing.YOUSSOUF CHAIBO ABAKAR</b></a><br><sub>&#64;YOUSSOUF-2004</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td><sub>chad</sub></td>
 </tr>
 <tr>
-<td align="right">142</td>
+<td align="right">144</td>
 <td><a href="https://github.com/ahmadmahmoudoumar"><img src="https://avatars.githubusercontent.com/u/270537120?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ahmadmahmoudoumar"><b>Ahmad Mahmoud Oumar Ngare</b></a><br><sub>&#64;ahmadmahmoudoumar</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>N&#39;Djamena, Chad</sub></td>
 </tr>
 <tr>
-<td align="right">143</td>
+<td align="right">145</td>
 <td><a href="https://github.com/amzi235"><img src="https://avatars.githubusercontent.com/u/229142566?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amzi235"><b>AMBINE</b></a><br><sub>&#64;amzi235</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>N&#39;Djaména/Chad</sub></td>
 </tr>
 <tr>
-<td align="right">144</td>
+<td align="right">146</td>
 <td><a href="https://github.com/anneviktoriaorstad-sudo"><img src="https://avatars.githubusercontent.com/u/228462293?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anneviktoriaorstad-sudo"><b>anneviktoriaorstad-sudo</b></a><br><sub>&#64;anneviktoriaorstad-sudo</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>chad</sub></td>
 </tr>
 <tr>
-<td align="right">145</td>
+<td align="right">147</td>
 <td><a href="https://github.com/Azz2026"><img src="https://avatars.githubusercontent.com/u/324878774?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Azz2026"><b>Arc. Abdelaziz Nour</b></a><br><sub>&#64;Azz2026</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">146</td>
+<td align="right">148</td>
 <td><a href="https://github.com/cantheyes"><img src="https://avatars.githubusercontent.com/u/201141078?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cantheyes"><b>cantheyes</b></a><br><sub>&#64;cantheyes</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>chad</sub></td>
 </tr>
 <tr>
-<td align="right">147</td>
+<td align="right">149</td>
 <td><a href="https://github.com/chadinnovation"><img src="https://avatars.githubusercontent.com/u/257552262?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/chadinnovation"><b>Chad Innovation</b></a><br><sub>&#64;chadinnovation</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>N’Djamena, Chad</sub></td>
 </tr>
 <tr>
-<td align="right">148</td>
+<td align="right">150</td>
 <td><a href="https://github.com/fdevoto"><img src="https://avatars.githubusercontent.com/u/131406934?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fdevoto"><b>Facundo Devoto</b></a><br><sub>&#64;fdevoto</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">149</td>
+<td align="right">151</td>
 <td><a href="https://github.com/FrancoOcampoBer"><img src="https://avatars.githubusercontent.com/u/198987839?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FrancoOcampoBer"><b>Franco Ocampo</b></a><br><sub>&#64;FrancoOcampoBer</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">150</td>
+<td align="right">152</td>
 <td><a href="https://github.com/genialreounodji60-blip"><img src="https://avatars.githubusercontent.com/u/354606893?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/genialreounodji60-blip"><b>Génial Reounodji</b></a><br><sub>&#64;genialreounodji60-blip</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Moundou-Chad</sub></td>
 </tr>
 <tr>
-<td align="right">151</td>
+<td align="right">153</td>
 <td><a href="https://github.com/ImaneOumar"><img src="https://avatars.githubusercontent.com/u/243365757?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ImaneOumar"><b>Imane</b></a><br><sub>&#64;ImaneOumar</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">152</td>
+<td align="right">154</td>
 <td><a href="https://github.com/kairos1778"><img src="https://avatars.githubusercontent.com/u/284958384?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kairos1778"><b>sloth</b></a><br><sub>&#64;kairos1778</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">153</td>
+<td align="right">155</td>
 <td><a href="https://github.com/mahamatbrahimdjibrine"><img src="https://avatars.githubusercontent.com/u/304039462?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mahamatbrahimdjibrine"><b>mahamatbrahimdjibrine</b></a><br><sub>&#64;mahamatbrahimdjibrine</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>N’Djaména, Chad</sub></td>
 </tr>
 <tr>
-<td align="right">154</td>
+<td align="right">156</td>
 <td><a href="https://github.com/modestebanga7"><img src="https://avatars.githubusercontent.com/u/234669999?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/modestebanga7"><b>Modeste</b></a><br><sub>&#64;modestebanga7</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">155</td>
+<td align="right">157</td>
 <td><a href="https://github.com/ndilnodji235"><img src="https://avatars.githubusercontent.com/u/250858171?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ndilnodji235"><b>Ndilnodji</b></a><br><sub>&#64;ndilnodji235</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">156</td>
+<td align="right">158</td>
 <td><a href="https://github.com/octaveOM6X"><img src="https://avatars.githubusercontent.com/u/190792304?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/octaveOM6X"><b>octaveOM6X</b></a><br><sub>&#64;octaveOM6X</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>N&#39;Djamena, Chad</sub></td>
 </tr>
 <tr>
-<td align="right">157</td>
+<td align="right">159</td>
 <td><a href="https://github.com/pen-network"><img src="https://avatars.githubusercontent.com/u/269985362?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pen-network"><b>pen-network</b></a><br><sub>&#64;pen-network</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">158</td>
+<td align="right">160</td>
 <td><a href="https://github.com/Raxiar"><img src="https://avatars.githubusercontent.com/u/185199970?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Raxiar"><b>Raxiar - Raxyar</b></a><br><sub>&#64;Raxiar</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Chad</sub></td>
 </tr>
 <tr>
-<td align="right">159</td>
+<td align="right">161</td>
 <td><a href="https://github.com/ribatfinances"><img src="https://avatars.githubusercontent.com/u/357321999?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ribatfinances"><b>RIBAT FINANCES</b></a><br><sub>&#64;ribatfinances</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>Ndjamena, Chad</sub></td>
 </tr>
 <tr>
-<td align="right">160</td>
+<td align="right">162</td>
 <td><a href="https://github.com/sadamch4d"><img src="https://avatars.githubusercontent.com/u/211726959?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sadamch4d"><b>sadam</b></a><br><sub>&#64;sadamch4d</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td><sub>chad</sub></td>
 </tr>
 <tr>
-<td align="right">161</td>
+<td align="right">163</td>
+<td><a href="https://github.com/SakoAdama"><img src="https://avatars.githubusercontent.com/u/99322980?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SakoAdama"><b>SakoAdama</b></a><br><sub>&#64;SakoAdama</sub></td>
+<td align="right"><b>0</b></td>
+<td align="right">0</td>
+<td><sub>Rivyera ciad</sub></td>
+</tr>
+<tr>
+<td align="right">164</td>
 <td><a href="https://github.com/sogeccom-chad"><img src="https://avatars.githubusercontent.com/u/307247133?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sogeccom-chad"><b>Sogeccom</b></a><br><sub>&#64;sogeccom-chad</sub></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -1156,8 +1177,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running.
-- Organizations are excluded. 161 attributed developers are tracked; the cutoff is 0 followers.
-- **Location discovery:** term 1 of 74 in round 1.
+- Organizations are excluded. 164 attributed developers are tracked; the cutoff is 0 followers.
+- **Location discovery:** term 4 of 74 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 
 </details>

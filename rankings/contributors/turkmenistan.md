@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/TM.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/TM.json">JSON</a> |
 
 </div>
 
@@ -52,6 +52,15 @@
 </tr>
 <tr>
 <td align="right">4</td>
+<td><a href="https://github.com/SerdarOrazmyradov"><img src="https://avatars.githubusercontent.com/u/170329682?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SerdarOrazmyradov"><b>Serdar</b></a><br><sub>&#64;SerdarOrazmyradov · 4 followers</sub></td>
+<td align="right"><b>123</b></td>
+<td align="right">74</td>
+<td align="right">3</td>
+<td align="right">0</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">5</td>
 <td><a href="https://github.com/hudaynazarovbabageldi"><img src="https://avatars.githubusercontent.com/u/154533671?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hudaynazarovbabageldi"><b>Babageldi</b></a><br><sub>&#64;hudaynazarovbabageldi · 42 followers</sub></td>
 <td align="right"><b>122</b></td>
 <td align="right">110</td>
@@ -60,7 +69,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">6</td>
 <td><a href="https://github.com/hypergadam"><img src="https://avatars.githubusercontent.com/u/165657997?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hypergadam"><b>Gadam Jumayev</b></a><br><sub>&#64;hypergadam · 85 followers</sub></td>
 <td align="right"><b>118</b></td>
 <td align="right">60</td>
@@ -69,7 +78,7 @@
 <td align="right">3</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">7</td>
 <td><a href="https://github.com/4rchi-nv"><img src="https://avatars.githubusercontent.com/u/91261682?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/4rchi-nv"><b>Arslan</b></a><br><sub>&#64;4rchi-nv · 8 followers</sub></td>
 <td align="right"><b>88</b></td>
 <td align="right">72</td>
@@ -78,8 +87,8 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">7</td>
-<td><a href="https://github.com/saggeldi"><img src="https://avatars.githubusercontent.com/u/64743718?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/saggeldi"><b>Shageldi Alyyew</b></a><br><sub>&#64;saggeldi · 142 followers</sub></td>
+<td align="right">8</td>
+<td><a href="https://github.com/saggeldi"><img src="https://avatars.githubusercontent.com/u/64743718?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/saggeldi"><b>Shageldi Alyyew</b></a><br><sub>&#64;saggeldi · 143 followers</sub></td>
 <td align="right"><b>75</b></td>
 <td align="right">59</td>
 <td align="right">11</td>
@@ -87,7 +96,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">9</td>
 <td><a href="https://github.com/0xEZIZ"><img src="https://avatars.githubusercontent.com/u/180925776?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/0xEZIZ"><b>Eziz Ysmailov</b></a><br><sub>&#64;0xEZIZ · 4 followers</sub></td>
 <td align="right"><b>58</b></td>
 <td align="right">52</td>
@@ -96,7 +105,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">10</td>
 <td><a href="https://github.com/19Admin96"><img src="https://avatars.githubusercontent.com/u/209913361?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/19Admin96"><b>Mekan</b></a><br><sub>&#64;19Admin96 · 1 followers</sub></td>
 <td align="right"><b>20</b></td>
 <td align="right">18</td>
@@ -105,7 +114,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/tachgurbanov"><img src="https://avatars.githubusercontent.com/u/67876841?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tachgurbanov"><b>Kerim T.</b></a><br><sub>&#64;tachgurbanov · 55 followers</sub></td>
 <td align="right"><b>5</b></td>
 <td align="right">0</td>
@@ -120,7 +129,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 13 of 456 discovered developers (443 awaiting measurement).
+- **Measured:** 14 of 599 discovered developers (585 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 131 in round 1.

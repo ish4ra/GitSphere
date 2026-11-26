@@ -67,7 +67,7 @@
   {"rank":58,"id":"MDQ6VXNlcjkwMzI5MTgz","login":"rostybankia","name":"Rosty Bankia","url":"https://github.com/rostybankia","avatarUrl":"https://avatars.githubusercontent.com/u/90329183?s=80&v=4","followers":4,"publicRepos":2,"location":"Congo Brazzaville","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":59,"id":"MDQ6VXNlcjM1OTc2NDAw","login":"JordanLlumbwe","name":"Jordan Lumbwe Komanga","url":"https://github.com/JordanLlumbwe","avatarUrl":"https://avatars.githubusercontent.com/u/35976400?s=80&v=4","followers":4,"publicRepos":1,"location":"Kinshasa DR Congo","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":60,"id":"U_kgDOBcuG8w","login":"jovyzabel","name":"Jovy Monka","url":"https://github.com/jovyzabel","avatarUrl":"https://avatars.githubusercontent.com/u/97224435?s=80&v=4","followers":3,"publicRepos":51,"location":"Congo Brazzaville","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
-  {"rank":61,"id":"MDQ6VXNlcjU1NzU0OTc0","login":"Saintrick-FM","name":"Francy Saintrick Malonga","url":"https://github.com/Saintrick-FM","avatarUrl":"https://avatars.githubusercontent.com/u/55754974?s=80&v=4","followers":3,"publicRepos":40,"location":"Congo Brazzaville","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
+  {"rank":61,"id":"MDQ6VXNlcjU1NzU0OTc0","login":"Saintrick-FM","name":"Francy Saintrick Malonga","url":"https://github.com/Saintrick-FM","avatarUrl":"https://avatars.githubusercontent.com/u/55754974?s=80&v=4","followers":3,"publicRepos":40,"location":"Congo Brazzaville","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26"},
   {"rank":62,"id":"MDQ6VXNlcjM5MDM4MTYx","login":"kash26","name":"MasterKash","url":"https://github.com/kash26","avatarUrl":"https://avatars.githubusercontent.com/u/39038161?s=80&v=4","followers":3,"publicRepos":39,"location":"Kinshasa, Congo DR","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":63,"id":"MDQ6VXNlcjkwODk4Nzg5","login":"gauss2021","name":"Bioussala Van Davydson","url":"https://github.com/gauss2021","avatarUrl":"https://avatars.githubusercontent.com/u/90898789?s=80&v=4","followers":3,"publicRepos":37,"location":"Congo-Brazzaville","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
   {"rank":64,"id":"MDQ6VXNlcjI3NTQ1OTI1","login":"Akilimali003","name":"Akilimali Samuel Vijey","url":"https://github.com/Akilimali003","avatarUrl":"https://avatars.githubusercontent.com/u/27545925?s=80&v=4","followers":3,"publicRepos":27,"location":"Kinshasa, Congo DR","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-22"},
@@ -301,8 +301,8 @@
   {"rank":292,"id":"U_kgDODli9aA","login":"smytch","name":"Johnson Smytch","url":"https://github.com/smytch","avatarUrl":"https://avatars.githubusercontent.com/u/240696680?s=80&v=4","followers":0,"publicRepos":0,"location":"Rép du Congo / Brazzaville","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-25"},
   {"rank":293,"id":"U_kgDODWQCQw","login":"tokanou21","name":"Pirate21💀","url":"https://github.com/tokanou21","avatarUrl":"https://avatars.githubusercontent.com/u/224657987?s=80&v=4","followers":0,"publicRepos":0,"location":"Congo Brazzaville","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-25"}
 ],
-"contentHash": "8b402b08509e4387",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "844f600d9a77d06e",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

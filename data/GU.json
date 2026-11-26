@@ -5,7 +5,7 @@
 "country": {"code":"GU","name":"Guam","slug":"guam"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":90,"ownerExpansionBacklog":104,"candidates":90,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":34,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":90,"ownerExpansionBacklog":103,"candidates":90,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":34,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"wakacje","nameWithOwner":"guamencja/wakacje","url":"https://github.com/guamencja/wakacje","description":null,"stars":1,"forks":1,"primaryLanguage":"Ruby","license":{"spdxId":"Apache-2.0"},"createdAt":"2021-04-23T14:43:27Z","pushedAt":"2023-09-14T17:02:06Z","archived":true,"owner":{"login":"guamencja","name":"guam","type":"User","url":"https://github.com/guamencja","location":"Guam","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"Snake","nameWithOwner":"AlfredoLondono/Snake","url":"https://github.com/AlfredoLondono/Snake","description":null,"stars":1,"forks":0,"primaryLanguage":"Java","license":null,"createdAt":"2023-03-24T13:49:21Z","pushedAt":"2023-03-24T14:24:01Z","archived":false,"owner":{"login":"AlfredoLondono","name":"Alfredo Londono","type":"User","url":"https://github.com/AlfredoLondono","location":"Guam","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
@@ -98,8 +98,8 @@
   {"rank":89,"id":null,"name":"Guam2022","nameWithOwner":"WXslaughter/Guam2022","url":"https://github.com/WXslaughter/Guam2022","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2022-06-28T14:10:23Z","pushedAt":"2022-06-28T14:10:25Z","archived":false,"owner":{"login":"WXslaughter","name":null,"type":"User","url":"https://github.com/WXslaughter","location":"Guam","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-01","pendingRevalidation":true},
   {"rank":90,"id":null,"name":"yourdreambillyjoe","nameWithOwner":"yourdreambillyjoe/yourdreambillyjoe","url":"https://github.com/yourdreambillyjoe/yourdreambillyjoe","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-25T04:41:21Z","pushedAt":"2024-09-25T04:41:34Z","archived":false,"owner":{"login":"yourdreambillyjoe","name":null,"type":"User","url":"https://github.com/yourdreambillyjoe","location":"Guam (GU)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-01","pendingRevalidation":true}
 ],
-"contentHash": "b415db698c4e4118",
-"updatedAt": "2026-11-26T00:19:28.464Z",
+"contentHash": "ada647bbd7f34fcc",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-01",
-"generatedAt": "2026-11-26T00:19:28.464Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

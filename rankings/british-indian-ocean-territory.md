@@ -14,9 +14,9 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟠 Stale | **13** | 25 Oct 2026 | <a href="../data/IO.json">JSON</a> |
+| 🟠 Stale | **12** | 25 Oct 2026 | <a href="../data/IO.json">JSON</a> |
 
-> **Not yet re-verified.** 13 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
+> **Not yet re-verified.** 12 of these entries were carried over from the previous dataset and are pending revalidation against the GitHub API. Dates show when each entry was last observed.
 
 </div>
 
@@ -25,90 +25,83 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><img src="https://github.com/dameon10325.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dameon10325/spring_crud"><b>dameon10325/spring&#95;crud</b></a></td>
-<td align="right"><b>1</b></td>
-<td align="right">0</td>
-<td>Java</td>
-</tr>
-<tr>
-<td align="right">2</td>
 <td><img src="https://github.com/ALGOBLOCKS.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ALGOBLOCKS/algoblocks-genesis-config"><b>ALGOBLOCKS/algoblocks-genesis-config</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">1</td>
 <td>Solidity</td>
 </tr>
 <tr>
-<td align="right">3</td>
+<td align="right">2</td>
 <td><img src="https://github.com/BootDAO.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/BootDAO/governance"><b>BootDAO/governance</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">4</td>
+<td align="right">3</td>
 <td><img src="https://github.com/inaplanet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/inaplanet/inaplanetfoundation"><b>inaplanet/inaplanetfoundation</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>JavaScript</td>
 </tr>
 <tr>
-<td align="right">5</td>
+<td align="right">4</td>
 <td><img src="https://github.com/MoneyMakerGPT.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/MoneyMakerGPT/introduce"><b>MoneyMakerGPT/introduce</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">6</td>
+<td align="right">5</td>
 <td><img src="https://github.com/Nguyenvan-Thaiduc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Nguyenvan-Thaiduc/bo-nho"><b>Nguyenvan-Thaiduc/bo-nho</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">7</td>
+<td align="right">6</td>
 <td><img src="https://github.com/ObsoleteForma.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ObsoleteForma/mysql"><b>ObsoleteForma/mysql</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">8</td>
+<td align="right">7</td>
 <td><img src="https://github.com/onsecurityorg.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/onsecurityorg/clientapp-releases"><b>onsecurityorg/clientapp-releases</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">9</td>
+<td align="right">8</td>
 <td><img src="https://github.com/rondaskeletik.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rondaskeletik/rondaskeletik"><b>rondaskeletik/rondaskeletik</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">9</td>
 <td><img src="https://github.com/stackermanbaflocer.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/stackermanbaflocer/stackermanbaflocer"><b>stackermanbaflocer/stackermanbaflocer</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">11</td>
+<td align="right">10</td>
 <td><img src="https://github.com/txdywy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/txdywy/yy"><b>txdywy/yy</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>Python</td>
 </tr>
 <tr>
-<td align="right">12</td>
+<td align="right">11</td>
 <td><img src="https://github.com/WaterCompanyY10.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/WaterCompanyY10/watercompany"><b>WaterCompanyY10/watercompany</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
 <td>—</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">12</td>
 <td><img src="https://github.com/Wejang-Health-Care.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Wejang-Health-Care/WWH-Wejang-Inc"><b>Wejang-Health-Care/WWH-Wejang-Inc</b></a></td>
 <td align="right"><b>0</b></td>
 <td align="right">0</td>
@@ -122,9 +115,9 @@
 
 - **Status:** Stale. Some entries have not been re-verified in the last 14 days.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 0 stars; 13 attributed candidates are tracked.
-- 13 entries were carried over from the previous dataset and are pending revalidation.
-- 16 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 0 stars; 12 attributed candidates are tracked.
+- 12 entries were carried over from the previous dataset and are pending revalidation.
+- 15 multi-repository owners are queued for expansion.
 - **Location discovery:** term 6 of 21 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

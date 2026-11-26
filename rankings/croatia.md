@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/HR.json">JSON</a> |
+| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/HR.json">JSON</a> |
 
 </div>
 
@@ -326,28 +326,28 @@
 <td align="right">44</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/nike_landing_page"><b>adrianhajdin/nike&#95;landing&#95;page</b></a><br><sub>Dive into the world of Tailwind CSS, build a Nike website, and join top-tier organizations like OpenAI, Shopify, and NA…</sub></td>
 <td align="right"><b>1,489</b></td>
-<td align="right">389</td>
+<td align="right">390</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">45</td>
-<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_modern_ui_ux_restaurant"><b>adrianhajdin/project&#95;modern&#95;ui&#95;ux&#95;restaurant</b></a><br><sub>This is a code repository for the corresponding video tutorial. In this video, we&#39;re going to build a Modern UI/UX Rest…</sub></td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_corona_tracker"><b>adrianhajdin/project&#95;corona&#95;tracker</b></a><br><sub>This is a code repository for the corresponding YouTube video. In this tutorial, we are going to build and deploy a cor…</sub></td>
 <td align="right"><b>1,466</b></td>
-<td align="right">366</td>
+<td align="right">515</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">46</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_youtube_clone"><b>adrianhajdin/project&#95;youtube&#95;clone</b></a><br><sub>Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5</sub></td>
 <td align="right"><b>1,465</b></td>
-<td align="right">1,660</td>
+<td align="right">1,659</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">47</td>
-<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_corona_tracker"><b>adrianhajdin/project&#95;corona&#95;tracker</b></a><br><sub>This is a code repository for the corresponding YouTube video. In this tutorial, we are going to build and deploy a cor…</sub></td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_modern_ui_ux_restaurant"><b>adrianhajdin/project&#95;modern&#95;ui&#95;ux&#95;restaurant</b></a><br><sub>This is a code repository for the corresponding video tutorial. In this video, we&#39;re going to build a Modern UI/UX Rest…</sub></td>
 <td align="right"><b>1,465</b></td>
-<td align="right">514</td>
+<td align="right">366</td>
 <td>JavaScript</td>
 </tr>
 <tr>
@@ -381,14 +381,14 @@
 <tr>
 <td align="right">52</td>
 <td><img src="https://github.com/dgrubelic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dgrubelic/vue-authenticate"><b>dgrubelic/vue-authenticate</b></a><br><sub>Simple Vue.js authentication library</sub></td>
-<td align="right"><b>1,419</b></td>
+<td align="right"><b>1,417</b></td>
 <td align="right">236</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">53</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_openai_codex"><b>adrianhajdin/project&#95;openai&#95;codex</b></a><br><sub>Build and Deploy Your Own ChatGPT AI Application That Will Help You Code</sub></td>
-<td align="right"><b>1,417</b></td>
+<td align="right"><b>1,416</b></td>
 <td align="right">720</td>
 <td>JavaScript</td>
 </tr>
@@ -403,22 +403,22 @@
 <td align="right">55</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/project_cryptoverse"><b>adrianhajdin/project&#95;cryptoverse</b></a><br><sub>Cryptocurrency App powered by RapidAPI</sub></td>
 <td align="right"><b>1,360</b></td>
-<td align="right">413</td>
+<td align="right">414</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">56</td>
+<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/3D_portfolio"><b>adrianhajdin/3D&#95;portfolio</b></a><br><sub>Let&#39;s build a cool 3D website together! You&#39;ll learn how to make a portfolio with fun interactive parts, like a floatin…</sub></td>
+<td align="right"><b>1,360</b></td>
+<td align="right">313</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">57</td>
 <td><img src="https://github.com/nmdias.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nmdias/FeedKit"><b>nmdias/FeedKit</b></a><br><sub>FeedKit is a Swift library for Reading and Generating RSS, Atom, and JSON feeds.</sub></td>
 <td align="right"><b>1,360</b></td>
 <td align="right">203</td>
 <td>Swift</td>
-</tr>
-<tr>
-<td align="right">57</td>
-<td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/3D_portfolio"><b>adrianhajdin/3D&#95;portfolio</b></a><br><sub>Let&#39;s build a cool 3D website together! You&#39;ll learn how to make a portfolio with fun interactive parts, like a floatin…</sub></td>
-<td align="right"><b>1,359</b></td>
-<td align="right">312</td>
-<td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">58</td>
@@ -430,7 +430,7 @@
 <tr>
 <td align="right">59</td>
 <td><img src="https://github.com/ihabunek.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ihabunek/toot"><b>ihabunek/toot</b></a><br><sub>toot - Mastodon CLI &amp; TUI</sub></td>
-<td align="right"><b>1,330</b></td>
+<td align="right"><b>1,331</b></td>
 <td align="right">126</td>
 <td>Python</td>
 </tr>
@@ -444,15 +444,15 @@
 <tr>
 <td align="right">61</td>
 <td><img src="https://github.com/jurkovic-nikola.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jurkovic-nikola/OpenLinkHub"><b>jurkovic-nikola/OpenLinkHub</b></a><br><sub>Open source interface for iCUE LINK Hub and other Corsair AIOs, Hubs for Linux. Manage RGB lighting, fan speeds, system…</sub></td>
-<td align="right"><b>1,275</b></td>
-<td align="right">134</td>
+<td align="right"><b>1,280</b></td>
+<td align="right">135</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">62</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/figma_clone"><b>adrianhajdin/figma&#95;clone</b></a><br><sub>Figma Clone using Next.js, Fabric.js and Liveblocks in TypeScript</sub></td>
-<td align="right"><b>1,265</b></td>
-<td align="right">332</td>
+<td align="right"><b>1,266</b></td>
+<td align="right">330</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -479,7 +479,7 @@
 <tr>
 <td align="right">66</td>
 <td><img src="https://github.com/adrianhajdin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/adrianhajdin/zoom-clone"><b>adrianhajdin/zoom-clone</b></a><br><sub>Learn to develop a professional enterprise-ready video conferencing app in hours using Next.js 14, Stream, and Tailwind…</sub></td>
-<td align="right"><b>1,155</b></td>
+<td align="right"><b>1,153</b></td>
 <td align="right">456</td>
 <td>TypeScript</td>
 </tr>

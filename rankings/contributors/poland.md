@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **14** | 22 Nov 2026 | <a href="../../data/contributors/PL.json">JSON</a> |
+| 🟡 Provisional | **15** | 22 Nov 2026 | <a href="../../data/contributors/PL.json">JSON</a> |
 
 </div>
 
@@ -43,7 +43,7 @@
 </tr>
 <tr>
 <td align="right">3</td>
-<td><a href="https://github.com/mrexodia"><img src="https://avatars.githubusercontent.com/u/2458265?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrexodia"><b>Duncan Ogilvie</b></a><br><sub>&#64;mrexodia · 4,052 followers</sub></td>
+<td><a href="https://github.com/mrexodia"><img src="https://avatars.githubusercontent.com/u/2458265?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mrexodia"><b>Duncan Ogilvie</b></a><br><sub>&#64;mrexodia · 4,053 followers</sub></td>
 <td align="right"><b>3,234</b></td>
 <td align="right">2,639</td>
 <td align="right">305</td>
@@ -88,7 +88,7 @@
 </tr>
 <tr>
 <td align="right">8</td>
-<td><a href="https://github.com/asiekierka"><img src="https://avatars.githubusercontent.com/u/113514?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asiekierka"><b>Adrian &quot;asie&quot; Siekierka</b></a><br><sub>&#64;asiekierka · 733 followers</sub></td>
+<td><a href="https://github.com/asiekierka"><img src="https://avatars.githubusercontent.com/u/113514?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/asiekierka"><b>Adrian &quot;asie&quot; Siekierka</b></a><br><sub>&#64;asiekierka · 732 followers</sub></td>
 <td align="right"><b>806</b></td>
 <td align="right">710</td>
 <td align="right">57</td>
@@ -124,6 +124,15 @@
 </tr>
 <tr>
 <td align="right">12</td>
+<td><a href="https://github.com/pieh"><img src="https://avatars.githubusercontent.com/u/419821?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pieh"><b>Michal Piechowiak</b></a><br><sub>&#64;pieh · 203 followers</sub></td>
+<td align="right"><b>637</b></td>
+<td align="right">195</td>
+<td align="right">156</td>
+<td align="right">274</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">13</td>
 <td><a href="https://github.com/pjastr"><img src="https://avatars.githubusercontent.com/u/24464854?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pjastr"><b>pjastr</b></a><br><sub>&#64;pjastr · 188 followers</sub></td>
 <td align="right"><b>372</b></td>
 <td align="right">273</td>
@@ -132,7 +141,7 @@
 <td align="right">52</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/peterblazejewicz"><img src="https://avatars.githubusercontent.com/u/14539?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/peterblazejewicz"><b>Piotr Błażejewicz (Peter Blazejewicz)</b></a><br><sub>&#64;peterblazejewicz · 273 followers</sub></td>
 <td align="right"><b>156</b></td>
 <td align="right">130</td>
@@ -141,7 +150,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/sheerun"><img src="https://avatars.githubusercontent.com/u/292365?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sheerun"><b>Adam Stankiewicz</b></a><br><sub>&#64;sheerun · 549 followers</sub></td>
 <td align="right"><b>41</b></td>
 <td align="right">35</td>
@@ -156,7 +165,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 15 of 1,220 discovered developers (1,205 awaiting measurement).
+- **Measured:** 16 of 1,290 discovered developers (1,274 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 170 in round 1.

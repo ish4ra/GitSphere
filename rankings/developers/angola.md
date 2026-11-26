@@ -199,7 +199,7 @@
 <tr>
 <td align="right">26</td>
 <td><a href="https://github.com/NzolaKiampava"><img src="https://avatars.githubusercontent.com/u/81561091?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/NzolaKiampava"><b>Nzola Kiampava</b></a><br><sub>&#64;NzolaKiampava</sub></td>
-<td align="right"><b>113</b></td>
+<td align="right"><b>112</b></td>
 <td align="right">118</td>
 <td><sub>Luanda, Angola</sub></td>
 </tr>

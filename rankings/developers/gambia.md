@@ -79,24 +79,24 @@
 </tr>
 <tr>
 <td align="right">9</td>
+<td><a href="https://github.com/stepskeita"><img src="https://avatars.githubusercontent.com/u/71987741?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stepskeita"><b>STEPS KEITA</b></a><br><sub>&#64;stepskeita</sub></td>
+<td align="right"><b>32</b></td>
+<td align="right">51</td>
+<td><sub>The Gambia, GMB.</sub></td>
+</tr>
+<tr>
+<td align="right">10</td>
 <td><a href="https://github.com/Sannabs"><img src="https://avatars.githubusercontent.com/u/141773105?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Sannabs"><b>Sanna BS Jammeh</b></a><br><sub>&#64;Sannabs</sub></td>
 <td align="right"><b>32</b></td>
 <td align="right">14</td>
 <td><sub>Gambia banjul</sub></td>
 </tr>
 <tr>
-<td align="right">10</td>
+<td align="right">11</td>
 <td><a href="https://github.com/touraye"><img src="https://avatars.githubusercontent.com/u/61189190?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/touraye"><b>ebrima touray</b></a><br><sub>&#64;touraye</sub></td>
 <td align="right"><b>31</b></td>
 <td align="right">74</td>
 <td><sub>The Gambia</sub></td>
-</tr>
-<tr>
-<td align="right">11</td>
-<td><a href="https://github.com/stepskeita"><img src="https://avatars.githubusercontent.com/u/71987741?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stepskeita"><b>STEPS KEITA</b></a><br><sub>&#64;stepskeita</sub></td>
-<td align="right"><b>30</b></td>
-<td align="right">51</td>
-<td><sub>The Gambia, GMB.</sub></td>
 </tr>
 <tr>
 <td align="right">12</td>

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/BD.json">JSON</a> |
+| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/BD.json">JSON</a> |
 
 </div>
 
@@ -227,8 +227,8 @@
 <tr>
 <td align="right">30</td>
 <td><img src="https://github.com/rng70.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/rng70/TryHackMe-Roadmap"><b>rng70/TryHackMe-Roadmap</b></a><br><sub>a list of 350+ Free TryHackMe rooms to start learning cybersecurity with THM</sub></td>
-<td align="right"><b>1,436</b></td>
-<td align="right">545</td>
+<td align="right"><b>1,442</b></td>
+<td align="right">547</td>
 <td>—</td>
 </tr>
 <tr>
@@ -269,15 +269,15 @@
 <tr>
 <td align="right">36</td>
 <td><img src="https://github.com/seraui.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/seraui/seraui"><b>seraui/seraui</b></a><br><sub>UI component library for React, Next.js, and other JSX frameworks. Built with Tailwind CSS, it makes creating beautiful…</sub></td>
-<td align="right"><b>1,341</b></td>
+<td align="right"><b>1,343</b></td>
 <td align="right">94</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">37</td>
 <td><img src="https://github.com/tmdh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/tmdh/laravel-kit"><b>tmdh/laravel-kit</b></a><br><sub>A desktop Laravel admin panel app</sub></td>
-<td align="right"><b>1,313</b></td>
-<td align="right">131</td>
+<td align="right"><b>1,312</b></td>
+<td align="right">132</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -290,21 +290,21 @@
 <tr>
 <td align="right">39</td>
 <td><img src="https://github.com/lahin31.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/lahin31/system-design-bangla"><b>lahin31/system-design-bangla</b></a><br><sub>System Design Tutorial in Bangla</sub></td>
-<td align="right"><b>1,252</b></td>
-<td align="right">547</td>
+<td align="right"><b>1,253</b></td>
+<td align="right">548</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">40</td>
 <td><img src="https://github.com/hugo-themes.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hugo-themes/toha"><b>hugo-themes/toha</b></a><br><sub>A Hugo theme for personal portfolio</sub></td>
 <td align="right"><b>1,251</b></td>
-<td align="right">718</td>
+<td align="right">717</td>
 <td>HTML</td>
 </tr>
 <tr>
 <td align="right">41</td>
 <td><img src="https://github.com/modded-ubuntu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/modded-ubuntu/modded-ubuntu"><b>modded-ubuntu/modded-ubuntu</b></a><br><sub>Run Ubuntu GUI on your termux with much features.</sub></td>
-<td align="right"><b>1,245</b></td>
+<td align="right"><b>1,247</b></td>
 <td align="right">174</td>
 <td>Shell</td>
 </tr>
@@ -319,7 +319,7 @@
 <td align="right">43</td>
 <td><img src="https://github.com/hrshadhin.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hrshadhin/school-management-system"><b>hrshadhin/school-management-system</b></a><br><sub>Another School Management System</sub></td>
 <td align="right"><b>1,158</b></td>
-<td align="right">997</td>
+<td align="right">996</td>
 <td>Blade</td>
 </tr>
 <tr>

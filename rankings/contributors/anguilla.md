@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **9** | 22 Nov 2026 | <a href="../../data/contributors/AI.json">JSON</a> |
+| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/AI.json">JSON</a> |
 
 </div>
 
@@ -104,6 +104,15 @@
 <td align="right">0</td>
 <td align="right">0</td>
 </tr>
+<tr>
+<td align="right">10</td>
+<td><a href="https://github.com/vidamarkets"><img src="https://avatars.githubusercontent.com/u/249591748?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vidamarkets"><b>Vida Markets</b></a><br><sub>&#64;vidamarkets · 0 followers</sub></td>
+<td align="right"><b>1</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
 </tbody>
 </table>
 
@@ -111,7 +120,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 24 of 25 discovered developers (1 awaiting measurement).
+- **Measured:** 25 of 25 discovered developers (0 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 6 of 22 in round 1.

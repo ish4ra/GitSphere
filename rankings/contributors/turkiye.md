@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **10** | 22 Nov 2026 | <a href="../../data/contributors/TR.json">JSON</a> |
+| 🟡 Provisional | **11** | 22 Nov 2026 | <a href="../../data/contributors/TR.json">JSON</a> |
 
 </div>
 
@@ -25,7 +25,7 @@
 <tbody>
 <tr>
 <td align="right">1</td>
-<td><a href="https://github.com/alerque"><img src="https://avatars.githubusercontent.com/u/173595?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alerque"><b>Caleb Maclennan</b></a><br><sub>&#64;alerque · 494 followers</sub></td>
+<td><a href="https://github.com/alerque"><img src="https://avatars.githubusercontent.com/u/173595?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/alerque"><b>Caleb Maclennan</b></a><br><sub>&#64;alerque · 493 followers</sub></td>
 <td align="right"><b>7,331</b></td>
 <td align="right">6,897</td>
 <td align="right">118</td>
@@ -113,6 +113,15 @@
 <td align="right">1</td>
 <td align="right">2</td>
 </tr>
+<tr>
+<td align="right">11</td>
+<td><a href="https://github.com/ademkocamaz"><img src="https://avatars.githubusercontent.com/u/12304649?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ademkocamaz"><b>Adem KOCAMAZ</b></a><br><sub>&#64;ademkocamaz · 187 followers</sub></td>
+<td align="right"><b>12</b></td>
+<td align="right">4</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
 </tbody>
 </table>
 
@@ -120,7 +129,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 13 of 1,300 discovered developers (1,287 awaiting measurement).
+- **Measured:** 14 of 1,303 discovered developers (1,289 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 169 in round 1.

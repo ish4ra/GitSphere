@@ -5,7 +5,7 @@
 "country": {"code":"TO","name":"Tonga","slug":"tonga"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":38,"ownerExpansionBacklog":42,"candidates":40,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":29,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":38,"ownerExpansionBacklog":42,"candidates":40,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":5,"terms":29,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkzODQ0NDgxMTk=","name":"Automated-Fact-Checking-Resources","nameWithOwner":"Cartus/Automated-Fact-Checking-Resources","url":"https://github.com/Cartus/Automated-Fact-Checking-Resources","description":"Links to conference/journal publications in automated fact-checking (resources for the TACL22/EMNLP23 paper).","stars":578,"forks":63,"primaryLanguage":null,"license":{"spdxId":"MIT"},"createdAt":"2021-07-09T13:38:36Z","pushedAt":"2025-02-23T07:56:47Z","archived":false,"owner":{"login":"Cartus","name":"Zhijiang","type":"User","url":"https://github.com/Cartus","location":"Tonga","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-25"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkxODgzNzkyMzE=","name":"AGGCN","nameWithOwner":"Cartus/AGGCN","url":"https://github.com/Cartus/AGGCN","description":"Attention Guided Graph Convolutional Networks for Relation Extraction (authors' PyTorch implementation for the ACL19 paper)","stars":435,"forks":88,"primaryLanguage":"Python","license":{"spdxId":"MIT"},"createdAt":"2019-05-24T07:59:48Z","pushedAt":"2022-03-22T18:07:16Z","archived":false,"owner":{"login":"Cartus","name":"Zhijiang","type":"User","url":"https://github.com/Cartus","location":"Tonga","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-26"},
@@ -48,8 +48,8 @@
   {"rank":39,"id":null,"name":"kubernetes-health-checker","nameWithOwner":"wrenkj2mvq/kubernetes-health-checker","url":"https://github.com/wrenkj2mvq/kubernetes-health-checker","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-09-13T19:04:22Z","pushedAt":"2026-09-13T19:04:23Z","archived":false,"owner":{"login":"wrenkj2mvq","name":"Nuku Taufa","type":"User","url":"https://github.com/wrenkj2mvq","location":"Nuku'alofa, Tonga","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":40,"id":null,"name":"XornPloit","nameWithOwner":"XornRetux/XornPloit","url":"https://github.com/XornRetux/XornPloit","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2018-08-29T12:56:12Z","pushedAt":"2018-08-29T12:56:12Z","archived":false,"owner":{"login":"XornRetux","name":"XantehDev","type":"User","url":"https://github.com/XornRetux","location":"Tonga Islands.","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "5bd168aa9438637c",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "be726ddf9ecc801c",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

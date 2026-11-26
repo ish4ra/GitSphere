@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **22** | 22 Nov 2026 | <a href="../../data/contributors/DZ.json">JSON</a> |
+| 🟡 Provisional | **24** | 22 Nov 2026 | <a href="../../data/contributors/DZ.json">JSON</a> |
 
 </div>
 
@@ -214,8 +214,26 @@
 </tr>
 <tr>
 <td align="right">22</td>
+<td><a href="https://github.com/algerina"><img src="https://avatars.githubusercontent.com/u/53347966?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/algerina"><b>Amel Khiri</b></a><br><sub>&#64;algerina · 148 followers</sub></td>
+<td align="right"><b>4</b></td>
+<td align="right">2</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">23</td>
 <td><a href="https://github.com/GeekAbdelouahed"><img src="https://avatars.githubusercontent.com/u/22131872?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/GeekAbdelouahed"><b>Abdelouahed Medjoudja</b></a><br><sub>&#64;GeekAbdelouahed · 191 followers</sub></td>
 <td align="right"><b>2</b></td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td><a href="https://github.com/DinaTaklit"><img src="https://avatars.githubusercontent.com/u/20540072?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DinaTaklit"><b>Dina Taklit</b></a><br><sub>&#64;DinaTaklit · 143 followers</sub></td>
+<td align="right"><b>1</b></td>
 <td align="right">0</td>
 <td align="right">0</td>
 <td align="right">0</td>
@@ -228,7 +246,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 24 of 458 discovered developers (434 awaiting measurement).
+- **Measured:** 26 of 472 discovered developers (446 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 154 in round 1.

@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **17** | 22 Nov 2026 | <a href="../../data/contributors/IS.json">JSON</a> |
+| 🟡 Provisional | **19** | 22 Nov 2026 | <a href="../../data/contributors/IS.json">JSON</a> |
 
 </div>
 
@@ -151,6 +151,15 @@
 </tr>
 <tr>
 <td align="right">15</td>
+<td><a href="https://github.com/billchenchina"><img src="https://avatars.githubusercontent.com/u/7758042?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/billchenchina"><b>billchenchina</b></a><br><sub>&#64;billchenchina · 448 followers</sub></td>
+<td align="right"><b>42</b></td>
+<td align="right">8</td>
+<td align="right">17</td>
+<td align="right">1</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td align="right">16</td>
 <td><a href="https://github.com/jarmitage"><img src="https://avatars.githubusercontent.com/u/2885827?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jarmitage"><b>Jack Armitage</b></a><br><sub>&#64;jarmitage · 356 followers</sub></td>
 <td align="right"><b>40</b></td>
 <td align="right">34</td>
@@ -159,7 +168,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">17</td>
 <td><a href="https://github.com/jamiees2"><img src="https://avatars.githubusercontent.com/u/768321?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jamiees2"><b>James Sigurdarson</b></a><br><sub>&#64;jamiees2 · 67 followers</sub></td>
 <td align="right"><b>22</b></td>
 <td align="right">14</td>
@@ -168,11 +177,20 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">18</td>
 <td><a href="https://github.com/kevien"><img src="https://avatars.githubusercontent.com/u/3909737?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kevien"><b>K3vin</b></a><br><sub>&#64;kevien · 201 followers</sub></td>
 <td align="right"><b>8</b></td>
 <td align="right">0</td>
 <td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td><a href="https://github.com/thorsteinsson"><img src="https://avatars.githubusercontent.com/u/39039?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thorsteinsson"><b>Aegir Thor</b></a><br><sub>&#64;thorsteinsson · 134 followers</sub></td>
+<td align="right"><b>3</b></td>
+<td align="right">0</td>
+<td align="right">1</td>
 <td align="right">0</td>
 <td align="right">0</td>
 </tr>
@@ -183,7 +201,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 18 of 452 discovered developers (434 awaiting measurement).
+- **Measured:** 20 of 455 discovered developers (435 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 107 in round 1.

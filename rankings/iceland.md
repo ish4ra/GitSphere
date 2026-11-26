@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **46** | 23 Nov 2026 | <a href="../data/IS.json">JSON</a> |
+| 🟡 Provisional | **49** | 24 Nov 2026 | <a href="../data/IS.json">JSON</a> |
 
 </div>
 
@@ -136,7 +136,7 @@
 <tr>
 <td align="right">17</td>
 <td><img src="https://github.com/driftingly.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/driftingly/rector-laravel"><b>driftingly/rector-laravel</b></a><br><sub>Rector upgrades rules for Laravel</sub></td>
-<td align="right"><b>1,300</b></td>
+<td align="right"><b>1,301</b></td>
 <td align="right">123</td>
 <td>PHP</td>
 </tr>
@@ -151,7 +151,7 @@
 <td align="right">19</td>
 <td><img src="https://github.com/valtyr.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/valtyr/prisma-kysely"><b>valtyr/prisma-kysely</b></a><br><sub>🪄 Generate Kysely types directly from your Prisma schema!</sub></td>
 <td align="right"><b>1,186</b></td>
-<td align="right">43</td>
+<td align="right">44</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -343,6 +343,27 @@
 <td align="right">55</td>
 <td>Vue</td>
 </tr>
+<tr>
+<td align="right">47</td>
+<td><img src="https://github.com/sveinbjornt.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sveinbjornt/STPrivilegedTask"><b>sveinbjornt/STPrivilegedTask</b></a><br><sub>An NSTask-like wrapper around the macOS Security Framework&#39;s AuthorizationExecuteWithPrivileges function to run shell c…</sub></td>
+<td align="right"><b>407</b></td>
+<td align="right">69</td>
+<td>Objective-C</td>
+</tr>
+<tr>
+<td align="right">48</td>
+<td><img src="https://github.com/szhorvat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/szhorvat/MaTeX"><b>szhorvat/MaTeX</b></a><br><sub>LaTeX labels in Mathematica</sub></td>
+<td align="right"><b>403</b></td>
+<td align="right">47</td>
+<td>Mathematica</td>
+</tr>
+<tr>
+<td align="right">49</td>
+<td><img src="https://github.com/jeremybarbet.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jeremybarbet/react-native-portalize"><b>jeremybarbet/react-native-portalize</b></a><br><sub>The simplest way to render anything on top of the rest.</sub></td>
+<td align="right"><b>394</b></td>
+<td align="right">25</td>
+<td>TypeScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -351,8 +372,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 410 stars; 46 attributed candidates are tracked.
-- 95 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 394 stars; 49 attributed candidates are tracked.
+- 90 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 107 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

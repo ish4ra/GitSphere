@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/Siumauricio"><img src="https://avatars.githubusercontent.com/u/47042324?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Siumauricio"><b>Mauricio Siu</b></a><br><sub>&#64;Siumauricio</sub></td>
-<td align="right"><b>623</b></td>
+<td align="right"><b>624</b></td>
 <td align="right">94</td>
 <td><sub>Honduras, San Pedro Sula</sub></td>
 </tr>
@@ -129,7 +129,7 @@
 <tr>
 <td align="right">16</td>
 <td><a href="https://github.com/aalvrz"><img src="https://avatars.githubusercontent.com/u/6859247?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aalvrz"><b>Andrés Álvarez</b></a><br><sub>&#64;aalvrz</sub></td>
-<td align="right"><b>91</b></td>
+<td align="right"><b>89</b></td>
 <td align="right">85</td>
 <td><sub>🇭🇳 Honduras</sub></td>
 </tr>

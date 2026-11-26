@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **19** | 22 Nov 2026 | <a href="../../data/contributors/CR.json">JSON</a> |
+| 🟡 Provisional | **21** | 22 Nov 2026 | <a href="../../data/contributors/CR.json">JSON</a> |
 
 </div>
 
@@ -142,6 +142,15 @@
 </tr>
 <tr>
 <td align="right">14</td>
+<td><a href="https://github.com/SRZpeedTEC"><img src="https://avatars.githubusercontent.com/u/167647761?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SRZpeedTEC"><b>Santiago Boza Quirós</b></a><br><sub>&#64;SRZpeedTEC · 5 followers</sub></td>
+<td align="right"><b>177</b></td>
+<td align="right">157</td>
+<td align="right">4</td>
+<td align="right">0</td>
+<td align="right">9</td>
+</tr>
+<tr>
+<td align="right">15</td>
 <td><a href="https://github.com/AustinPonce"><img src="https://avatars.githubusercontent.com/u/167488463?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AustinPonce"><b>Austin Antonio Carrillo Ponce</b></a><br><sub>&#64;AustinPonce · 1 followers</sub></td>
 <td align="right"><b>144</b></td>
 <td align="right">121</td>
@@ -150,7 +159,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><a href="https://github.com/siddharta1337"><img src="https://avatars.githubusercontent.com/u/791982?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/siddharta1337"><b>Carlos Solis</b></a><br><sub>&#64;siddharta1337 · 491 followers</sub></td>
 <td align="right"><b>110</b></td>
 <td align="right">97</td>
@@ -159,7 +168,7 @@
 <td align="right">5</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">17</td>
 <td><a href="https://github.com/r0r0x-xx"><img src="https://avatars.githubusercontent.com/u/55760024?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/r0r0x-xx"><b>r0r0x</b></a><br><sub>&#64;r0r0x-xx · 461 followers</sub></td>
 <td align="right"><b>91</b></td>
 <td align="right">79</td>
@@ -168,7 +177,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">18</td>
 <td><a href="https://github.com/come-maiz"><img src="https://avatars.githubusercontent.com/u/617831?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/come-maiz"><b>Leonardo Arias Fonseca</b></a><br><sub>&#64;come-maiz · 263 followers</sub></td>
 <td align="right"><b>81</b></td>
 <td align="right">9</td>
@@ -177,7 +186,7 @@
 <td align="right">48</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">19</td>
 <td><a href="https://github.com/jorneycr"><img src="https://avatars.githubusercontent.com/u/30164447?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jorneycr"><b>Jorney Lopez</b></a><br><sub>&#64;jorneycr · 773 followers</sub></td>
 <td align="right"><b>59</b></td>
 <td align="right">46</td>
@@ -186,7 +195,16 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">20</td>
+<td><a href="https://github.com/Fabricio-Alvarez"><img src="https://avatars.githubusercontent.com/u/181508850?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Fabricio-Alvarez"><b>Fabricio Álvarez Ruiz</b></a><br><sub>&#64;Fabricio-Alvarez · 1 followers</sub></td>
+<td align="right"><b>47</b></td>
+<td align="right">42</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">21</td>
 <td><a href="https://github.com/MrAlex6204"><img src="https://avatars.githubusercontent.com/u/8126962?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MrAlex6204"><b>Alex Vera</b></a><br><sub>&#64;MrAlex6204 · 260 followers</sub></td>
 <td align="right"><b>2</b></td>
 <td align="right">1</td>
@@ -201,7 +219,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 23 of 415 discovered developers (392 awaiting measurement).
+- **Measured:** 25 of 416 discovered developers (391 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 58 in round 1.

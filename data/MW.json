@@ -5,7 +5,7 @@
 "country": {"code":"MW","name":"Malawi","slug":"malawi"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":19,"ownerExpansionBacklog":139,"candidates":19,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":46,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":19,"ownerExpansionBacklog":136,"candidates":19,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":46,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"yasconorg","nameWithOwner":"yasconMW/yasconorg","url":"https://github.com/yasconMW/yasconorg","description":null,"stars":1,"forks":3,"primaryLanguage":"TypeScript","license":null,"createdAt":"2026-02-21T13:14:06Z","pushedAt":"2026-07-11T09:00:42Z","archived":false,"owner":{"login":"yasconMW","name":"yasconorg","type":"User","url":"https://github.com/yasconMW","location":"Blantyre, Malawi","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"SmartGuardian","nameWithOwner":"bsc-com-ne-15-19/SmartGuardian","url":"https://github.com/bsc-com-ne-15-19/SmartGuardian","description":null,"stars":1,"forks":2,"primaryLanguage":"HTML","license":null,"createdAt":"2024-03-17T19:27:19Z","pushedAt":"2025-12-15T13:42:29Z","archived":false,"owner":{"login":"bsc-com-ne-15-19","name":"Aubrey Muwalo","type":"User","url":"https://github.com/bsc-com-ne-15-19","location":"Blantyre, Malawi","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
@@ -27,8 +27,8 @@
   {"rank":18,"id":null,"name":"file-management-system-","nameWithOwner":"AbdullahJuma1/file-management-system-","url":"https://github.com/AbdullahJuma1/file-management-system-","description":null,"stars":1,"forks":0,"primaryLanguage":"JavaScript","license":null,"createdAt":"2022-06-21T08:43:46Z","pushedAt":"2022-06-21T08:46:18Z","archived":false,"owner":{"login":"AbdullahJuma1","name":"Abdullah Juma","type":"User","url":"https://github.com/AbdullahJuma1","location":"Blantyre, Malawi","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":19,"id":null,"name":"Taoluanzie","nameWithOwner":"AethiopeRoot/Taoluanzie","url":"https://github.com/AethiopeRoot/Taoluanzie","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2022-05-06T10:55:09Z","pushedAt":"2025-09-29T13:55:53Z","archived":false,"owner":{"login":"AethiopeRoot","name":"Taonga C Mwalwanda","type":"User","url":"https://github.com/AethiopeRoot","location":"Ekwendeni, Malawi","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "8941b935656ff65e",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "467664801af830df",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

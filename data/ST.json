@@ -5,7 +5,7 @@
 "country": {"code":"ST","name":"São Tomé & Príncipe","slug":"sao-tome-principe"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":16,"ownerExpansionBacklog":19,"candidates":16,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":3,"terms":33,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":16,"ownerExpansionBacklog":20,"candidates":16,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":6,"terms":33,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"abdulay-cusodio","nameWithOwner":"abdulay-cusodio/abdulay-cusodio","url":"https://github.com/abdulay-cusodio/abdulay-cusodio","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2022-07-29T12:04:22Z","pushedAt":"2022-07-29T12:04:22Z","archived":false,"owner":{"login":"abdulay-cusodio","name":"Abdulay custódio","type":"User","url":"https://github.com/abdulay-cusodio","location":"São Tomé and Príncipe","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"portif-lio","nameWithOwner":"alekssanderquintas/portif-lio","url":"https://github.com/alekssanderquintas/portif-lio","description":null,"stars":1,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-01-08T11:54:22Z","pushedAt":"2026-01-08T11:54:22Z","archived":false,"owner":{"login":"alekssanderquintas","name":"Alekssander Costa","type":"User","url":"https://github.com/alekssanderquintas","location":"São Tomé e Príncipe","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
@@ -24,8 +24,8 @@
   {"rank":15,"id":null,"name":"RunJS","nameWithOwner":"pretpo/RunJS","url":"https://github.com/pretpo/RunJS","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2026-03-04T10:07:55Z","pushedAt":"2026-03-12T12:02:40Z","archived":false,"owner":{"login":"pretpo","name":"Manuel \"pretpo\" Santos","type":"User","url":"https://github.com/pretpo","location":"São Tomé and Príncipe","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-03","pendingRevalidation":true},
   {"rank":16,"id":null,"name":"thebestfragbetman","nameWithOwner":"thebestfragbetman/thebestfragbetman","url":"https://github.com/thebestfragbetman/thebestfragbetman","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2024-09-30T13:26:09Z","pushedAt":"2024-09-30T13:26:39Z","archived":false,"owner":{"login":"thebestfragbetman","name":null,"type":"User","url":"https://github.com/thebestfragbetman","location":"São Tomé & Príncipe (ST)","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "311773a26fcc5d53",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "5a7c075df4fddbef",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

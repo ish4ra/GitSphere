@@ -14,7 +14,7 @@
 
 | Status | Developers | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **1,000** | 22 Nov 2026 | <a href="../../data/developers/NL.json">JSON</a> |
+| 🟢 Published | **1,000** | 22 Nov 2026 | <a href="../../data/developers/NL.json">JSON</a> |
 
 </div>
 
@@ -80,7 +80,7 @@
 <tr>
 <td align="right">9</td>
 <td><a href="https://github.com/can1357"><img src="https://avatars.githubusercontent.com/u/11807264?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/can1357"><b>Can Bölük</b></a><br><sub>&#64;can1357</sub></td>
-<td align="right"><b>3,936</b></td>
+<td align="right"><b>3,937</b></td>
 <td align="right">73</td>
 <td><sub>The Netherlands</sub></td>
 </tr>
@@ -108,7 +108,7 @@
 <tr>
 <td align="right">13</td>
 <td><a href="https://github.com/tomlooman"><img src="https://avatars.githubusercontent.com/u/3748238?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tomlooman"><b>Tom Looman</b></a><br><sub>&#64;tomlooman</sub></td>
-<td align="right"><b>3,368</b></td>
+<td align="right"><b>3,366</b></td>
 <td align="right">13</td>
 <td><sub>Netherlands</sub></td>
 </tr>
@@ -150,7 +150,7 @@
 <tr>
 <td align="right">19</td>
 <td><a href="https://github.com/JuliusBrussee"><img src="https://avatars.githubusercontent.com/u/104168679?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/JuliusBrussee"><b>Julius Brussee</b></a><br><sub>&#64;JuliusBrussee</sub></td>
-<td align="right"><b>3,043</b></td>
+<td align="right"><b>3,052</b></td>
 <td align="right">25</td>
 <td><sub>Netherlands</sub></td>
 </tr>
@@ -269,8 +269,8 @@
 <tr>
 <td align="right">36</td>
 <td><a href="https://github.com/TheAlexLichter"><img src="https://avatars.githubusercontent.com/u/640208?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TheAlexLichter"><b>Alexander Lichter</b></a><br><sub>&#64;TheAlexLichter</sub></td>
-<td align="right"><b>2,038</b></td>
-<td align="right">454</td>
+<td align="right"><b>2,040</b></td>
+<td align="right">459</td>
 <td><sub>Amsterdam, The Netherlands</sub></td>
 </tr>
 <tr>
@@ -318,7 +318,7 @@
 <tr>
 <td align="right">43</td>
 <td><a href="https://github.com/jeroen"><img src="https://avatars.githubusercontent.com/u/216319?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jeroen"><b>Jeroen Ooms</b></a><br><sub>&#64;jeroen</sub></td>
-<td align="right"><b>1,886</b></td>
+<td align="right"><b>1,885</b></td>
 <td align="right">135</td>
 <td><sub>Utrecht</sub></td>
 </tr>
@@ -374,7 +374,7 @@
 <tr>
 <td align="right">51</td>
 <td><a href="https://github.com/djc"><img src="https://avatars.githubusercontent.com/u/158471?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/djc"><b>Dirkjan Ochtman</b></a><br><sub>&#64;djc</sub></td>
-<td align="right"><b>1,621</b></td>
+<td align="right"><b>1,622</b></td>
 <td align="right">252</td>
 <td><sub>Bilthoven</sub></td>
 </tr>
@@ -423,7 +423,7 @@
 <tr>
 <td align="right">58</td>
 <td><a href="https://github.com/shawnwildermuth"><img src="https://avatars.githubusercontent.com/u/568272?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shawnwildermuth"><b>Shawn Wildermuth</b></a><br><sub>&#64;shawnwildermuth</sub></td>
-<td align="right"><b>1,441</b></td>
+<td align="right"><b>1,440</b></td>
 <td align="right">147</td>
 <td><sub>Den Haag, NL</sub></td>
 </tr>
@@ -731,7 +731,7 @@
 <tr>
 <td align="right">102</td>
 <td><a href="https://github.com/orlp"><img src="https://avatars.githubusercontent.com/u/202547?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/orlp"><b>Orson Peters</b></a><br><sub>&#64;orlp</sub></td>
-<td align="right"><b>953</b></td>
+<td align="right"><b>951</b></td>
 <td align="right">121</td>
 <td><sub>Leiden, Netherlands</sub></td>
 </tr>
@@ -891,17 +891,17 @@
 </tr>
 <tr>
 <td align="right">125</td>
+<td><a href="https://github.com/tzolov"><img src="https://avatars.githubusercontent.com/u/1351573?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tzolov"><b>Christian Tzolov</b></a><br><sub>&#64;tzolov</sub></td>
+<td align="right"><b>823</b></td>
+<td align="right">259</td>
+<td><sub>Amsterdam, Netherlands</sub></td>
+</tr>
+<tr>
+<td align="right">126</td>
 <td><a href="https://github.com/amirzaidi"><img src="https://avatars.githubusercontent.com/u/2102185?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/amirzaidi"><b>Amir Zaidi</b></a><br><sub>&#64;amirzaidi</sub></td>
 <td align="right"><b>823</b></td>
 <td align="right">73</td>
 <td><sub>&#39;s-Gravendeel - The Netherlands</sub></td>
-</tr>
-<tr>
-<td align="right">126</td>
-<td><a href="https://github.com/tzolov"><img src="https://avatars.githubusercontent.com/u/1351573?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tzolov"><b>Christian Tzolov</b></a><br><sub>&#64;tzolov</sub></td>
-<td align="right"><b>821</b></td>
-<td align="right">259</td>
-<td><sub>Amsterdam, Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">127</td>
@@ -969,7 +969,7 @@
 <tr>
 <td align="right">136</td>
 <td><a href="https://github.com/joepie91"><img src="https://avatars.githubusercontent.com/u/1663259?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joepie91"><b>Sven Slootweg</b></a><br><sub>&#64;joepie91</sub></td>
-<td align="right"><b>774</b></td>
+<td align="right"><b>773</b></td>
 <td align="right">229</td>
 <td><sub>Netherlands</sub></td>
 </tr>
@@ -1333,7 +1333,7 @@
 <tr>
 <td align="right">188</td>
 <td><a href="https://github.com/wslyvh"><img src="https://avatars.githubusercontent.com/u/25974464?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wslyvh"><b>Wesley</b></a><br><sub>&#64;wslyvh</sub></td>
-<td align="right"><b>554</b></td>
+<td align="right"><b>553</b></td>
 <td align="right">126</td>
 <td><sub>Amsterdam, NL</sub></td>
 </tr>
@@ -2005,7 +2005,7 @@
 <tr>
 <td align="right">284</td>
 <td><a href="https://github.com/EFeru"><img src="https://avatars.githubusercontent.com/u/24780745?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EFeru"><b>Emanuel Feru</b></a><br><sub>&#64;EFeru</sub></td>
-<td align="right"><b>386</b></td>
+<td align="right"><b>388</b></td>
 <td align="right">13</td>
 <td><sub>Eindhoven, The Netherlands</sub></td>
 </tr>
@@ -2963,24 +2963,24 @@
 </tr>
 <tr>
 <td align="right">421</td>
-<td><a href="https://github.com/mxsasha"><img src="https://avatars.githubusercontent.com/u/98594?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mxsasha"><b>Sasha Romijn</b></a><br><sub>&#64;mxsasha</sub></td>
-<td align="right"><b>290</b></td>
-<td align="right">24</td>
-<td><sub>The Netherlands</sub></td>
-</tr>
-<tr>
-<td align="right">422</td>
 <td><a href="https://github.com/timtebeek"><img src="https://avatars.githubusercontent.com/u/1027334?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/timtebeek"><b>Tim te Beek</b></a><br><sub>&#64;timtebeek</sub></td>
 <td align="right"><b>289</b></td>
 <td align="right">148</td>
 <td><sub>Netherlands</sub></td>
 </tr>
 <tr>
-<td align="right">423</td>
+<td align="right">422</td>
 <td><a href="https://github.com/eavanvalkenburg"><img src="https://avatars.githubusercontent.com/u/13749212?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eavanvalkenburg"><b>Eduard van Valkenburg</b></a><br><sub>&#64;eavanvalkenburg</sub></td>
 <td align="right"><b>289</b></td>
 <td align="right">95</td>
 <td><sub>Netherlands</sub></td>
+</tr>
+<tr>
+<td align="right">423</td>
+<td><a href="https://github.com/mxsasha"><img src="https://avatars.githubusercontent.com/u/98594?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mxsasha"><b>Sasha Romijn</b></a><br><sub>&#64;mxsasha</sub></td>
+<td align="right"><b>289</b></td>
+<td align="right">24</td>
+<td><sub>The Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">424</td>
@@ -3005,17 +3005,17 @@
 </tr>
 <tr>
 <td align="right">427</td>
+<td><a href="https://github.com/stayallive"><img src="https://avatars.githubusercontent.com/u/1090754?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stayallive"><b>Alex Bouma</b></a><br><sub>&#64;stayallive</sub></td>
+<td align="right"><b>288</b></td>
+<td align="right">60</td>
+<td><sub>The Netherlands</sub></td>
+</tr>
+<tr>
+<td align="right">428</td>
 <td><a href="https://github.com/J535D165"><img src="https://avatars.githubusercontent.com/u/12981139?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/J535D165"><b>Jonathan de Bruin</b></a><br><sub>&#64;J535D165</sub></td>
 <td align="right"><b>288</b></td>
 <td align="right">24</td>
 <td><sub>Netherlands</sub></td>
-</tr>
-<tr>
-<td align="right">428</td>
-<td><a href="https://github.com/stayallive"><img src="https://avatars.githubusercontent.com/u/1090754?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stayallive"><b>Alex Bouma</b></a><br><sub>&#64;stayallive</sub></td>
-<td align="right"><b>287</b></td>
-<td align="right">60</td>
-<td><sub>The Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">429</td>
@@ -6521,505 +6521,505 @@
 <td align="right">929</td>
 <td><a href="https://github.com/denilsonsa"><img src="https://avatars.githubusercontent.com/u/121676?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/denilsonsa"><b>Denilson Sá Maia</b></a><br><sub>&#64;denilsonsa</sub></td>
 <td align="right"><b>149</b></td>
-<td align="right">0</td>
+<td align="right">173</td>
 <td><sub>Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">930</td>
-<td><a href="https://github.com/dsprenkels"><img src="https://avatars.githubusercontent.com/u/439973?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dsprenkels"><b>Amber Sprenkels</b></a><br><sub>&#64;dsprenkels</sub></td>
+<td><a href="https://github.com/marcofranssen"><img src="https://avatars.githubusercontent.com/u/694733?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/marcofranssen"><b>Marco Franssen</b></a><br><sub>&#64;marcofranssen</sub></td>
 <td align="right"><b>149</b></td>
-<td align="right">0</td>
-<td><sub>The Netherlands</sub></td>
+<td align="right">139</td>
+<td><sub>Bunde, Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">931</td>
-<td><a href="https://github.com/gitmylo"><img src="https://avatars.githubusercontent.com/u/36931363?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gitmylo"><b>Mylo</b></a><br><sub>&#64;gitmylo</sub></td>
+<td><a href="https://github.com/dsprenkels"><img src="https://avatars.githubusercontent.com/u/439973?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dsprenkels"><b>Amber Sprenkels</b></a><br><sub>&#64;dsprenkels</sub></td>
 <td align="right"><b>149</b></td>
-<td align="right">0</td>
+<td align="right">101</td>
 <td><sub>The Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">932</td>
-<td><a href="https://github.com/basmilius"><img src="https://avatars.githubusercontent.com/u/978257?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/basmilius"><b>Bas Milius</b></a><br><sub>&#64;basmilius</sub></td>
-<td align="right"><b>147</b></td>
-<td align="right">0</td>
-<td><sub>Groenlo, Netherlands</sub></td>
+<td><a href="https://github.com/2hamed"><img src="https://avatars.githubusercontent.com/u/537522?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/2hamed"><b>Hamed Momeni</b></a><br><sub>&#64;2hamed</sub></td>
+<td align="right"><b>149</b></td>
+<td align="right">92</td>
+<td><sub>Rotterdam, The Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">933</td>
-<td><a href="https://github.com/stefanoslig"><img src="https://avatars.githubusercontent.com/u/6942946?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stefanoslig"><b>Stefanos Lignos</b></a><br><sub>&#64;stefanoslig</sub></td>
-<td align="right"><b>146</b></td>
-<td align="right">0</td>
-<td><sub>Leiden (Netherlands)</sub></td>
+<td><a href="https://github.com/gitmylo"><img src="https://avatars.githubusercontent.com/u/36931363?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gitmylo"><b>Mylo</b></a><br><sub>&#64;gitmylo</sub></td>
+<td align="right"><b>149</b></td>
+<td align="right">56</td>
+<td><sub>The Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">934</td>
-<td><a href="https://github.com/Bouke"><img src="https://avatars.githubusercontent.com/u/235882?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bouke"><b>Bouke Haarsma</b></a><br><sub>&#64;Bouke</sub></td>
-<td align="right"><b>144</b></td>
-<td align="right">0</td>
-<td><sub>Zwolle, The Netherlands</sub></td>
+<td><a href="https://github.com/annerland"><img src="https://avatars.githubusercontent.com/u/39065579?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/annerland"><b>Anne Campelo</b></a><br><sub>&#64;annerland</sub></td>
+<td align="right"><b>149</b></td>
+<td align="right">20</td>
+<td><sub>Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">935</td>
-<td><a href="https://github.com/PeeHaa"><img src="https://avatars.githubusercontent.com/u/1330296?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PeeHaa"><b>Pieter Hordijk</b></a><br><sub>&#64;PeeHaa</sub></td>
-<td align="right"><b>144</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/iand675"><img src="https://avatars.githubusercontent.com/u/69209?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/iand675"><b>Ian Duncan</b></a><br><sub>&#64;iand675</sub></td>
+<td align="right"><b>148</b></td>
+<td align="right">198</td>
 <td><sub>The Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">936</td>
-<td><a href="https://github.com/TrafeX"><img src="https://avatars.githubusercontent.com/u/415312?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TrafeX"><b>Tim de Pater</b></a><br><sub>&#64;TrafeX</sub></td>
-<td align="right"><b>144</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/evetion"><img src="https://avatars.githubusercontent.com/u/8655030?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/evetion"><b>Maarten Pronk</b></a><br><sub>&#64;evetion</sub></td>
+<td align="right"><b>148</b></td>
+<td align="right">132</td>
 <td><sub>Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">937</td>
-<td><a href="https://github.com/ReneLergner"><img src="https://avatars.githubusercontent.com/u/44413274?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ReneLergner"><b>Rene Lergner</b></a><br><sub>&#64;ReneLergner</sub></td>
-<td align="right"><b>142</b></td>
-<td align="right">0</td>
-<td><sub>The Netherlands</sub></td>
+<td><a href="https://github.com/filipekiss"><img src="https://avatars.githubusercontent.com/u/48519?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/filipekiss"><b>Kiss</b></a><br><sub>&#64;filipekiss</sub></td>
+<td align="right"><b>148</b></td>
+<td align="right">79</td>
+<td><sub>Amsterdam, NL</sub></td>
 </tr>
 <tr>
 <td align="right">938</td>
-<td><a href="https://github.com/mirrajabi"><img src="https://avatars.githubusercontent.com/u/8886687?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mirrajabi"><b>Mad Mirrajabi</b></a><br><sub>&#64;mirrajabi</sub></td>
-<td align="right"><b>141</b></td>
-<td align="right">0</td>
-<td><sub>The Hague - Netherlands</sub></td>
+<td><a href="https://github.com/cjlcarvalho"><img src="https://avatars.githubusercontent.com/u/16494866?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cjlcarvalho"><b>Caio Jordão Carvalho</b></a><br><sub>&#64;cjlcarvalho</sub></td>
+<td align="right"><b>148</b></td>
+<td align="right">55</td>
+<td><sub>Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">939</td>
-<td><a href="https://github.com/BAILOOL"><img src="https://avatars.githubusercontent.com/u/11172777?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BAILOOL"><b>Alex Bailo</b></a><br><sub>&#64;BAILOOL</sub></td>
-<td align="right"><b>140</b></td>
-<td align="right">0</td>
-<td><sub>Netherlands</sub></td>
+<td><a href="https://github.com/mfonville"><img src="https://avatars.githubusercontent.com/u/6221544?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mfonville"><b>Maarten Fonville</b></a><br><sub>&#64;mfonville</sub></td>
+<td align="right"><b>148</b></td>
+<td align="right">32</td>
+<td><sub>The Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">940</td>
-<td><a href="https://github.com/DustinWatts"><img src="https://avatars.githubusercontent.com/u/18088135?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DustinWatts"><b>Dustin Watts</b></a><br><sub>&#64;DustinWatts</sub></td>
-<td align="right"><b>140</b></td>
-<td align="right">0</td>
-<td><sub>The Netherlands</sub></td>
+<td><a href="https://github.com/petrvanblokland"><img src="https://avatars.githubusercontent.com/u/377281?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/petrvanblokland"><b>Petr van Blokland</b></a><br><sub>&#64;petrvanblokland</sub></td>
+<td align="right"><b>148</b></td>
+<td align="right">24</td>
+<td><sub>Delft, The Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">941</td>
-<td><a href="https://github.com/hilios"><img src="https://avatars.githubusercontent.com/u/688876?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hilios"><b>Edson Hilios</b></a><br><sub>&#64;hilios</sub></td>
-<td align="right"><b>140</b></td>
-<td align="right">0</td>
-<td><sub>Amsterdam, Netherlands</sub></td>
+<td><a href="https://github.com/Naamloos"><img src="https://avatars.githubusercontent.com/u/12187179?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Naamloos"><b>Ryan de Jonge</b></a><br><sub>&#64;Naamloos</sub></td>
+<td align="right"><b>147</b></td>
+<td align="right">96</td>
+<td><sub>Emmen, The Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">942</td>
-<td><a href="https://github.com/StrandedKitty"><img src="https://avatars.githubusercontent.com/u/48140945?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/StrandedKitty"><b>StrandedKitty</b></a><br><sub>&#64;StrandedKitty</sub></td>
-<td align="right"><b>140</b></td>
-<td align="right">0</td>
-<td><sub>Amsterdam, The Netherlands</sub></td>
+<td><a href="https://github.com/basmilius"><img src="https://avatars.githubusercontent.com/u/978257?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/basmilius"><b>Bas Milius</b></a><br><sub>&#64;basmilius</sub></td>
+<td align="right"><b>147</b></td>
+<td align="right">74</td>
+<td><sub>Groenlo, Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">943</td>
-<td><a href="https://github.com/vanvught"><img src="https://avatars.githubusercontent.com/u/4319913?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vanvught"><b>Arjan</b></a><br><sub>&#64;vanvught</sub></td>
-<td align="right"><b>140</b></td>
-<td align="right">0</td>
-<td><sub>The Netherlands</sub></td>
+<td><a href="https://github.com/stefanoslig"><img src="https://avatars.githubusercontent.com/u/6942946?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/stefanoslig"><b>Stefanos Lignos</b></a><br><sub>&#64;stefanoslig</sub></td>
+<td align="right"><b>147</b></td>
+<td align="right">59</td>
+<td><sub>Leiden (Netherlands)</sub></td>
 </tr>
 <tr>
 <td align="right">944</td>
-<td><a href="https://github.com/sybrenstuvel"><img src="https://avatars.githubusercontent.com/u/1092128?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sybrenstuvel"><b>Sybren A. Stüvel</b></a><br><sub>&#64;sybrenstuvel</sub></td>
-<td align="right"><b>139</b></td>
-<td align="right">0</td>
-<td><sub>Amsterdam, The Netherlands</sub></td>
-</tr>
-<tr>
-<td align="right">945</td>
-<td><a href="https://github.com/jesyspa"><img src="https://avatars.githubusercontent.com/u/543293?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jesyspa"><b>Komi Golova</b></a><br><sub>&#64;jesyspa</sub></td>
-<td align="right"><b>138</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/miladd3"><img src="https://avatars.githubusercontent.com/u/1721290?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/miladd3"><b>Milad Dehghan</b></a><br><sub>&#64;miladd3</sub></td>
+<td align="right"><b>147</b></td>
+<td align="right">40</td>
 <td><sub>Utrecht, The Netherlands</sub></td>
 </tr>
 <tr>
+<td align="right">945</td>
+<td><a href="https://github.com/SeanChDavis"><img src="https://avatars.githubusercontent.com/u/2359131?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SeanChDavis"><b>Sean Christopher Davis</b></a><br><sub>&#64;SeanChDavis</sub></td>
+<td align="right"><b>147</b></td>
+<td align="right">33</td>
+<td><sub>Rotterdam, Netherlands</sub></td>
+</tr>
+<tr>
 <td align="right">946</td>
-<td><a href="https://github.com/RamiAwar"><img src="https://avatars.githubusercontent.com/u/8523191?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RamiAwar"><b>Rami Awar</b></a><br><sub>&#64;RamiAwar</sub></td>
-<td align="right"><b>138</b></td>
-<td align="right">0</td>
-<td><sub>Delft, Netherlands</sub></td>
+<td><a href="https://github.com/wouter-swierstra"><img src="https://avatars.githubusercontent.com/u/1588245?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wouter-swierstra"><b>Wouter Swierstra</b></a><br><sub>&#64;wouter-swierstra</sub></td>
+<td align="right"><b>147</b></td>
+<td align="right">25</td>
+<td><sub>Utrecht, the Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">947</td>
-<td><a href="https://github.com/emirozer"><img src="https://avatars.githubusercontent.com/u/5015104?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/emirozer"><b>Emir Ozer</b></a><br><sub>&#64;emirozer</sub></td>
-<td align="right"><b>137</b></td>
-<td align="right">0</td>
-<td><sub>Amsterdam, The Netherlands</sub></td>
+<td><a href="https://github.com/cmry"><img src="https://avatars.githubusercontent.com/u/6041070?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cmry"><b>Chris Emmery</b></a><br><sub>&#64;cmry</sub></td>
+<td align="right"><b>147</b></td>
+<td align="right">19</td>
+<td><sub>The Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">948</td>
-<td><a href="https://github.com/danielcaldas"><img src="https://avatars.githubusercontent.com/u/11733994?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danielcaldas"><b>Daniel Caldas</b></a><br><sub>&#64;danielcaldas</sub></td>
-<td align="right"><b>136</b></td>
-<td align="right">0</td>
-<td><sub>Netherlands</sub></td>
+<td><a href="https://github.com/Leont"><img src="https://avatars.githubusercontent.com/u/50472?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Leont"><b>Leon Timmermans</b></a><br><sub>&#64;Leont</sub></td>
+<td align="right"><b>146</b></td>
+<td align="right">273</td>
+<td><sub>The Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">949</td>
-<td><a href="https://github.com/jettro"><img src="https://avatars.githubusercontent.com/u/149687?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jettro"><b>Jettro Coenradie</b></a><br><sub>&#64;jettro</sub></td>
-<td align="right"><b>136</b></td>
-<td align="right">0</td>
-<td><sub>The Netherlands</sub></td>
+<td><a href="https://github.com/blopa"><img src="https://avatars.githubusercontent.com/u/3838114?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/blopa"><b>Pablo Montenegro</b></a><br><sub>&#64;blopa</sub></td>
+<td align="right"><b>146</b></td>
+<td align="right">163</td>
+<td><sub>Amsterdam, Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">950</td>
-<td><a href="https://github.com/joaoh82"><img src="https://avatars.githubusercontent.com/u/208517?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/joaoh82"><b>João Henrique Machado Silva</b></a><br><sub>&#64;joaoh82</sub></td>
-<td align="right"><b>136</b></td>
-<td align="right">0</td>
-<td><sub>Rotterdam, ZH - Netherlands</sub></td>
+<td><a href="https://github.com/TimoGlastra"><img src="https://avatars.githubusercontent.com/u/23165168?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TimoGlastra"><b>Timo Glastra</b></a><br><sub>&#64;TimoGlastra</sub></td>
+<td align="right"><b>146</b></td>
+<td align="right">135</td>
+<td><sub>Utrecht, The Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">951</td>
-<td><a href="https://github.com/mikedeboer"><img src="https://avatars.githubusercontent.com/u/141571?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mikedeboer"><b>Mike de Boer</b></a><br><sub>&#64;mikedeboer</sub></td>
-<td align="right"><b>136</b></td>
-<td align="right">0</td>
-<td><sub>Amsterdam, The Netherlands</sub></td>
+<td><a href="https://github.com/jesperancinha"><img src="https://avatars.githubusercontent.com/u/11569930?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jesperancinha"><b>João Filipe Sabino Esperancinha</b></a><br><sub>&#64;jesperancinha</sub></td>
+<td align="right"><b>146</b></td>
+<td align="right">89</td>
+<td><sub>Nieuwegein</sub></td>
 </tr>
 <tr>
 <td align="right">952</td>
-<td><a href="https://github.com/cyrildewit"><img src="https://avatars.githubusercontent.com/u/16477999?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cyrildewit"><b>Cyril de Wit</b></a><br><sub>&#64;cyrildewit</sub></td>
-<td align="right"><b>135</b></td>
-<td align="right">0</td>
-<td><sub>Monnickendam, The Netherlands</sub></td>
-</tr>
-<tr>
-<td align="right">953</td>
-<td><a href="https://github.com/rpbouman"><img src="https://avatars.githubusercontent.com/u/647315?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rpbouman"><b>Roland</b></a><br><sub>&#64;rpbouman</sub></td>
-<td align="right"><b>134</b></td>
-<td align="right">0</td>
-<td><sub>Oegstgeest, the Netherlands</sub></td>
-</tr>
-<tr>
-<td align="right">954</td>
-<td><a href="https://github.com/SchizoDuckie"><img src="https://avatars.githubusercontent.com/u/111710?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/SchizoDuckie"><b>SchizoDuckie</b></a><br><sub>&#64;SchizoDuckie</sub></td>
-<td align="right"><b>134</b></td>
-<td align="right">0</td>
-<td><sub>The Hague</sub></td>
-</tr>
-<tr>
-<td align="right">955</td>
-<td><a href="https://github.com/zjorz"><img src="https://avatars.githubusercontent.com/u/16709877?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zjorz"><b>Jorge de Almeida Pinto &#124; IAMTEC</b></a><br><sub>&#64;zjorz</sub></td>
-<td align="right"><b>134</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/fpgmaas"><img src="https://avatars.githubusercontent.com/u/12008199?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/fpgmaas"><b>Florian Maas</b></a><br><sub>&#64;fpgmaas</sub></td>
+<td align="right"><b>146</b></td>
+<td align="right">73</td>
 <td><sub>The Netherlands</sub></td>
 </tr>
 <tr>
+<td align="right">953</td>
+<td><a href="https://github.com/pratikPhadte"><img src="https://avatars.githubusercontent.com/u/55589461?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pratikPhadte"><b>Pratik Phadte</b></a><br><sub>&#64;pratikPhadte</sub></td>
+<td align="right"><b>146</b></td>
+<td align="right">26</td>
+<td><sub>Eindhoven</sub></td>
+</tr>
+<tr>
+<td align="right">954</td>
+<td><a href="https://github.com/ericherman"><img src="https://avatars.githubusercontent.com/u/1174254?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ericherman"><b>Eric Herman</b></a><br><sub>&#64;ericherman</sub></td>
+<td align="right"><b>145</b></td>
+<td align="right">172</td>
+<td><sub>The Netherlands</sub></td>
+</tr>
+<tr>
+<td align="right">955</td>
+<td><a href="https://github.com/deniszh"><img src="https://avatars.githubusercontent.com/u/1227222?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/deniszh"><b>Denis Zhdanov</b></a><br><sub>&#64;deniszh</sub></td>
+<td align="right"><b>145</b></td>
+<td align="right">140</td>
+<td><sub>Amsterdam, Netherlands</sub></td>
+</tr>
+<tr>
 <td align="right">956</td>
-<td><a href="https://github.com/irmen"><img src="https://avatars.githubusercontent.com/u/1771820?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/irmen"><b>Irmen de Jong</b></a><br><sub>&#64;irmen</sub></td>
-<td align="right"><b>133</b></td>
-<td align="right">0</td>
-<td><sub>Netherlands</sub></td>
+<td><a href="https://github.com/nperez0111"><img src="https://avatars.githubusercontent.com/u/1852538?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nperez0111"><b>Nick Perez</b></a><br><sub>&#64;nperez0111</sub></td>
+<td align="right"><b>145</b></td>
+<td align="right">136</td>
+<td><sub>Rotterdam, Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">957</td>
-<td><a href="https://github.com/Mauler125"><img src="https://avatars.githubusercontent.com/u/48657826?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Mauler125"><b>Kawe Mazidjatari</b></a><br><sub>&#64;Mauler125</sub></td>
-<td align="right"><b>133</b></td>
-<td align="right">0</td>
-<td><sub>Netherlands</sub></td>
+<td><a href="https://github.com/gdangelo"><img src="https://avatars.githubusercontent.com/u/4352286?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gdangelo"><b>Grégory D&#39;Angelo</b></a><br><sub>&#64;gdangelo</sub></td>
+<td align="right"><b>145</b></td>
+<td align="right">76</td>
+<td><sub>Amsterdam, NL</sub></td>
 </tr>
 <tr>
 <td align="right">958</td>
-<td><a href="https://github.com/floydspace"><img src="https://avatars.githubusercontent.com/u/5180700?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/floydspace"><b>Victor Korzunin</b></a><br><sub>&#64;floydspace</sub></td>
-<td align="right"><b>132</b></td>
-<td align="right">0</td>
-<td><sub>Den Haag</sub></td>
+<td><a href="https://github.com/emiflake"><img src="https://avatars.githubusercontent.com/u/7753922?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/emiflake"><b>emiflake</b></a><br><sub>&#64;emiflake</sub></td>
+<td align="right"><b>145</b></td>
+<td align="right">66</td>
+<td><sub>Amsterdam, The Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">959</td>
-<td><a href="https://github.com/melihkorkmaz"><img src="https://avatars.githubusercontent.com/u/15940533?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/melihkorkmaz"><b>Melih Korkmaz</b></a><br><sub>&#64;melihkorkmaz</sub></td>
-<td align="right"><b>132</b></td>
-<td align="right">0</td>
-<td><sub>&#39;s-Hertogenbosch</sub></td>
+<td><a href="https://github.com/sebastiaanvisser"><img src="https://avatars.githubusercontent.com/u/54288?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sebastiaanvisser"><b>Sebastiaan Visser</b></a><br><sub>&#64;sebastiaanvisser</sub></td>
+<td align="right"><b>145</b></td>
+<td align="right">50</td>
+<td><sub>Utrecht, Amsterdam, The Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">960</td>
-<td><a href="https://github.com/FSX"><img src="https://avatars.githubusercontent.com/u/64273?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FSX"><b>Frank</b></a><br><sub>&#64;FSX</sub></td>
-<td align="right"><b>131</b></td>
-<td align="right">0</td>
-<td><sub>Netherlands</sub></td>
+<td><a href="https://github.com/tomlokhorst"><img src="https://avatars.githubusercontent.com/u/75655?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tomlokhorst"><b>Tom Lokhorst</b></a><br><sub>&#64;tomlokhorst</sub></td>
+<td align="right"><b>145</b></td>
+<td align="right">50</td>
+<td><sub>The Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">961</td>
-<td><a href="https://github.com/rzeldent"><img src="https://avatars.githubusercontent.com/u/7620231?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/rzeldent"><b>Rene</b></a><br><sub>&#64;rzeldent</sub></td>
-<td align="right"><b>131</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/jjl"><img src="https://avatars.githubusercontent.com/u/65081?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jjl"><b>jjl</b></a><br><sub>&#64;jjl</sub></td>
+<td align="right"><b>144</b></td>
+<td align="right">212</td>
 <td><sub>Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">962</td>
-<td><a href="https://github.com/specialunderwear"><img src="https://avatars.githubusercontent.com/u/52858?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/specialunderwear"><b>Voxin Muyli</b></a><br><sub>&#64;specialunderwear</sub></td>
-<td align="right"><b>131</b></td>
-<td align="right">0</td>
-<td><sub>Arnhem, The Netherlands</sub></td>
+<td><a href="https://github.com/Bouke"><img src="https://avatars.githubusercontent.com/u/235882?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Bouke"><b>Bouke Haarsma</b></a><br><sub>&#64;Bouke</sub></td>
+<td align="right"><b>144</b></td>
+<td align="right">156</td>
+<td><sub>Zwolle, The Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">963</td>
-<td><a href="https://github.com/cbcoutinho"><img src="https://avatars.githubusercontent.com/u/12901868?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cbcoutinho"><b>Chris Coutinho</b></a><br><sub>&#64;cbcoutinho</sub></td>
-<td align="right"><b>130</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/PeeHaa"><img src="https://avatars.githubusercontent.com/u/1330296?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PeeHaa"><b>Pieter Hordijk</b></a><br><sub>&#64;PeeHaa</sub></td>
+<td align="right"><b>144</b></td>
+<td align="right">115</td>
 <td><sub>The Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">964</td>
-<td><a href="https://github.com/laytan"><img src="https://avatars.githubusercontent.com/u/20369598?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/laytan"><b>Laytan</b></a><br><sub>&#64;laytan</sub></td>
-<td align="right"><b>130</b></td>
-<td align="right">0</td>
-<td><sub>The Netherlands</sub></td>
+<td><a href="https://github.com/eduardostuart"><img src="https://avatars.githubusercontent.com/u/767879?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/eduardostuart"><b>Eduardo Stuart</b></a><br><sub>&#64;eduardostuart</sub></td>
+<td align="right"><b>144</b></td>
+<td align="right">37</td>
+<td><sub>Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">965</td>
-<td><a href="https://github.com/pietheinstrengholt"><img src="https://avatars.githubusercontent.com/u/186269?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pietheinstrengholt"><b>Piethein Strengholt</b></a><br><sub>&#64;pietheinstrengholt</sub></td>
-<td align="right"><b>130</b></td>
-<td align="right">0</td>
-<td><sub>The Netherlands</sub></td>
+<td><a href="https://github.com/TrafeX"><img src="https://avatars.githubusercontent.com/u/415312?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TrafeX"><b>Tim de Pater</b></a><br><sub>&#64;TrafeX</sub></td>
+<td align="right"><b>144</b></td>
+<td align="right">37</td>
+<td><sub>Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">966</td>
-<td><a href="https://github.com/Zarcolio"><img src="https://avatars.githubusercontent.com/u/14904430?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Zarcolio"><b>Zarcolio</b></a><br><sub>&#64;Zarcolio</sub></td>
-<td align="right"><b>130</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/donnyroufs"><img src="https://avatars.githubusercontent.com/u/48981403?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/donnyroufs"><b>donny</b></a><br><sub>&#64;donnyroufs</sub></td>
+<td align="right"><b>144</b></td>
+<td align="right">34</td>
 <td><sub>The Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">967</td>
-<td><a href="https://github.com/thackl"><img src="https://avatars.githubusercontent.com/u/9363087?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/thackl"><b>Thomas Hackl</b></a><br><sub>&#64;thackl</sub></td>
-<td align="right"><b>128</b></td>
-<td align="right">0</td>
-<td><sub>Groningen, Netherlands</sub></td>
+<td><a href="https://github.com/kevinrenskers"><img src="https://avatars.githubusercontent.com/u/229384?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/kevinrenskers"><b>Kevin Renskers</b></a><br><sub>&#64;kevinrenskers</sub></td>
+<td align="right"><b>144</b></td>
+<td align="right">21</td>
+<td><sub>The Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">968</td>
-<td><a href="https://github.com/Crementif"><img src="https://avatars.githubusercontent.com/u/26669564?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Crementif"><b>Crementif</b></a><br><sub>&#64;Crementif</sub></td>
-<td align="right"><b>127</b></td>
-<td align="right">0</td>
-<td><sub>Netherlands</sub></td>
+<td><a href="https://github.com/estkz"><img src="https://avatars.githubusercontent.com/u/128476710?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/estkz"><b>estetikz</b></a><br><sub>&#64;estkz</sub></td>
+<td align="right"><b>144</b></td>
+<td align="right">8</td>
+<td><sub>The Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">969</td>
-<td><a href="https://github.com/sybrew"><img src="https://avatars.githubusercontent.com/u/7662236?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sybrew"><b>Sybre Waaijer</b></a><br><sub>&#64;sybrew</sub></td>
-<td align="right"><b>127</b></td>
-<td align="right">0</td>
-<td><sub>Netherlands</sub></td>
-</tr>
-<tr>
-<td align="right">970</td>
-<td><a href="https://github.com/henkmollema"><img src="https://avatars.githubusercontent.com/u/1521207?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/henkmollema"><b>Henk Mollema</b></a><br><sub>&#64;henkmollema</sub></td>
-<td align="right"><b>125</b></td>
-<td align="right">0</td>
-<td><sub>Netherlands</sub></td>
-</tr>
-<tr>
-<td align="right">971</td>
-<td><a href="https://github.com/gabiduarte"><img src="https://avatars.githubusercontent.com/u/8635361?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gabiduarte"><b>Gabrielle Duarte</b></a><br><sub>&#64;gabiduarte</sub></td>
-<td align="right"><b>124</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/jaspermdegroot"><img src="https://avatars.githubusercontent.com/u/1296793?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jaspermdegroot"><b>Jasper de Groot</b></a><br><sub>&#64;jaspermdegroot</sub></td>
+<td align="right"><b>144</b></td>
+<td align="right">6</td>
 <td><sub>Amsterdam, The Netherlands</sub></td>
 </tr>
 <tr>
+<td align="right">970</td>
+<td><a href="https://github.com/jeroenvisser101"><img src="https://avatars.githubusercontent.com/u/1941348?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jeroenvisser101"><b>Jeroen Visser</b></a><br><sub>&#64;jeroenvisser101</sub></td>
+<td align="right"><b>143</b></td>
+<td align="right">161</td>
+<td><sub>Amsterdam, NL</sub></td>
+</tr>
+<tr>
+<td align="right">971</td>
+<td><a href="https://github.com/sandermak"><img src="https://avatars.githubusercontent.com/u/91953?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sandermak"><b>Sander Mak</b></a><br><sub>&#64;sandermak</sub></td>
+<td align="right"><b>143</b></td>
+<td align="right">30</td>
+<td><sub>The Netherlands</sub></td>
+</tr>
+<tr>
 <td align="right">972</td>
-<td><a href="https://github.com/lucaslorentz"><img src="https://avatars.githubusercontent.com/u/2268284?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/lucaslorentz"><b>Lucas Lorentz</b></a><br><sub>&#64;lucaslorentz</sub></td>
-<td align="right"><b>124</b></td>
-<td align="right">0</td>
-<td><sub>Netherlands</sub></td>
+<td><a href="https://github.com/Willianvdv"><img src="https://avatars.githubusercontent.com/u/102915?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Willianvdv"><b>Willian van der Velde</b></a><br><sub>&#64;Willianvdv</sub></td>
+<td align="right"><b>142</b></td>
+<td align="right">146</td>
+<td><sub>Groningen, The Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">973</td>
-<td><a href="https://github.com/VincentH-Net"><img src="https://avatars.githubusercontent.com/u/1872271?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/VincentH-Net"><b>Vincent Hoogendoorn</b></a><br><sub>&#64;VincentH-Net</sub></td>
-<td align="right"><b>124</b></td>
-<td align="right">0</td>
-<td><sub>Netherlands</sub></td>
+<td><a href="https://github.com/wellavelino"><img src="https://avatars.githubusercontent.com/u/5490417?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/wellavelino"><b>Wellington Avelino dos Santos</b></a><br><sub>&#64;wellavelino</sub></td>
+<td align="right"><b>142</b></td>
+<td align="right">103</td>
+<td><sub>Amsterdam , Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">974</td>
-<td><a href="https://github.com/coastalwhite"><img src="https://avatars.githubusercontent.com/u/6944009?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/coastalwhite"><b>Gijs Burghoorn</b></a><br><sub>&#64;coastalwhite</sub></td>
-<td align="right"><b>123</b></td>
-<td align="right">0</td>
-<td><sub>Netherlands</sub></td>
+<td><a href="https://github.com/ybrs"><img src="https://avatars.githubusercontent.com/u/403558?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ybrs"><b>Aybars Badur</b></a><br><sub>&#64;ybrs</sub></td>
+<td align="right"><b>142</b></td>
+<td align="right">77</td>
+<td><sub>Hilversum, Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">975</td>
-<td><a href="https://github.com/hgaiser"><img src="https://avatars.githubusercontent.com/u/716138?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hgaiser"><b>Hans Gaiser</b></a><br><sub>&#64;hgaiser</sub></td>
-<td align="right"><b>123</b></td>
-<td align="right">0</td>
-<td><sub>Delft</sub></td>
-</tr>
-<tr>
-<td align="right">976</td>
-<td><a href="https://github.com/psy0rz"><img src="https://avatars.githubusercontent.com/u/1179017?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/psy0rz"><b>DatuX</b></a><br><sub>&#64;psy0rz</sub></td>
-<td align="right"><b>123</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/hatem-hatamleh"><img src="https://avatars.githubusercontent.com/u/78985254?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hatem-hatamleh"><b>Hatem Hatamleh</b></a><br><sub>&#64;hatem-hatamleh</sub></td>
+<td align="right"><b>142</b></td>
+<td align="right">11</td>
 <td><sub>Netherlands</sub></td>
 </tr>
 <tr>
+<td align="right">976</td>
+<td><a href="https://github.com/judithjon"><img src="https://avatars.githubusercontent.com/u/301511064?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/judithjon"><b>Geziena Hoogwerf</b></a><br><sub>&#64;judithjon</sub></td>
+<td align="right"><b>142</b></td>
+<td align="right">3</td>
+<td><sub>Oppenhuizen, Netherlands</sub></td>
+</tr>
+<tr>
 <td align="right">977</td>
-<td><a href="https://github.com/basilfx"><img src="https://avatars.githubusercontent.com/u/815976?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/basilfx"><b>Bas Stottelaar</b></a><br><sub>&#64;basilfx</sub></td>
-<td align="right"><b>122</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/ReneLergner"><img src="https://avatars.githubusercontent.com/u/44413274?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ReneLergner"><b>Rene Lergner</b></a><br><sub>&#64;ReneLergner</sub></td>
+<td align="right"><b>142</b></td>
+<td align="right">3</td>
 <td><sub>The Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">978</td>
-<td><a href="https://github.com/FilippoAiraldi"><img src="https://avatars.githubusercontent.com/u/48798518?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/FilippoAiraldi"><b>Filippo Airaldi</b></a><br><sub>&#64;FilippoAiraldi</sub></td>
-<td align="right"><b>122</b></td>
-<td align="right">0</td>
-<td><sub>Netherlands</sub></td>
+<td><a href="https://github.com/basvanbeek"><img src="https://avatars.githubusercontent.com/u/7205296?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/basvanbeek"><b>Bas van Beek</b></a><br><sub>&#64;basvanbeek</sub></td>
+<td align="right"><b>141</b></td>
+<td align="right">80</td>
+<td><sub>Amersfoort, The Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">979</td>
-<td><a href="https://github.com/renniepak"><img src="https://avatars.githubusercontent.com/u/26874824?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/renniepak"><b>René de Sain - renniepak</b></a><br><sub>&#64;renniepak</sub></td>
-<td align="right"><b>122</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/Pagebakers"><img src="https://avatars.githubusercontent.com/u/32583?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Pagebakers"><b>Eelco Wiersma</b></a><br><sub>&#64;Pagebakers</sub></td>
+<td align="right"><b>141</b></td>
+<td align="right">78</td>
 <td><sub>The Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">980</td>
-<td><a href="https://github.com/robertklep"><img src="https://avatars.githubusercontent.com/u/1190916?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/robertklep"><b>Robert Klep</b></a><br><sub>&#64;robertklep</sub></td>
-<td align="right"><b>122</b></td>
-<td align="right">0</td>
-<td><sub>Dieren, The Netherlands</sub></td>
+<td><a href="https://github.com/freiksenet"><img src="https://avatars.githubusercontent.com/u/172936?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/freiksenet"><b>Mikhail Novikov</b></a><br><sub>&#64;freiksenet</sub></td>
+<td align="right"><b>141</b></td>
+<td align="right">58</td>
+<td><sub>Amsterdam, Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">981</td>
-<td><a href="https://github.com/nielsbasjes"><img src="https://avatars.githubusercontent.com/u/240096?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/nielsbasjes"><b>Niels Basjes</b></a><br><sub>&#64;nielsbasjes</sub></td>
-<td align="right"><b>120</b></td>
-<td align="right">0</td>
-<td><sub>Amstelveen, NL</sub></td>
-</tr>
-<tr>
-<td align="right">982</td>
-<td><a href="https://github.com/hanspinckaers"><img src="https://avatars.githubusercontent.com/u/70747?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hanspinckaers"><b>Hans Pinckaers</b></a><br><sub>&#64;hanspinckaers</sub></td>
-<td align="right"><b>119</b></td>
-<td align="right">0</td>
-<td><sub>Leiden, The Netherlands</sub></td>
-</tr>
-<tr>
-<td align="right">983</td>
-<td><a href="https://github.com/Producdevity"><img src="https://avatars.githubusercontent.com/u/15906337?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Producdevity"><b>Producdevity</b></a><br><sub>&#64;Producdevity</sub></td>
-<td align="right"><b>119</b></td>
-<td align="right">0</td>
-<td><sub>The Netherlands</sub></td>
-</tr>
-<tr>
-<td align="right">984</td>
-<td><a href="https://github.com/pvginkel"><img src="https://avatars.githubusercontent.com/u/828966?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pvginkel"><b>Pieter van Ginkel</b></a><br><sub>&#64;pvginkel</sub></td>
-<td align="right"><b>119</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/remcotolsma"><img src="https://avatars.githubusercontent.com/u/869674?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/remcotolsma"><b>Remco Tolsma</b></a><br><sub>&#64;remcotolsma</sub></td>
+<td align="right"><b>141</b></td>
+<td align="right">39</td>
 <td><sub>Netherlands</sub></td>
 </tr>
 <tr>
-<td align="right">985</td>
-<td><a href="https://github.com/unknownskl"><img src="https://avatars.githubusercontent.com/u/343616?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/unknownskl"><b>UnknownSKL</b></a><br><sub>&#64;unknownskl</sub></td>
-<td align="right"><b>119</b></td>
+<td align="right">982</td>
+<td><a href="https://github.com/mirrajabi"><img src="https://avatars.githubusercontent.com/u/8886687?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mirrajabi"><b>Mad Mirrajabi</b></a><br><sub>&#64;mirrajabi</sub></td>
+<td align="right"><b>141</b></td>
+<td align="right">36</td>
+<td><sub>The Hague - Netherlands</sub></td>
+</tr>
+<tr>
+<td align="right">983</td>
+<td><a href="https://github.com/saidziani"><img src="https://avatars.githubusercontent.com/u/18658222?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/saidziani"><b>Saïd Ziani</b></a><br><sub>&#64;saidziani</sub></td>
+<td align="right"><b>141</b></td>
+<td align="right">32</td>
+<td><sub>Amsterdam, The Netherlands</sub></td>
+</tr>
+<tr>
+<td align="right">984</td>
+<td><a href="https://github.com/sajanki"><img src="https://avatars.githubusercontent.com/u/3280325?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sajanki"><b>Sunil Janki</b></a><br><sub>&#64;sajanki</sub></td>
+<td align="right"><b>141</b></td>
 <td align="right">0</td>
+<td><sub>The Hague, Netherlands</sub></td>
+</tr>
+<tr>
+<td align="right">985</td>
+<td><a href="https://github.com/markknol"><img src="https://avatars.githubusercontent.com/u/576184?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/markknol"><b>Mark Knol</b></a><br><sub>&#64;markknol</sub></td>
+<td align="right"><b>140</b></td>
+<td align="right">137</td>
 <td><sub>The Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">986</td>
-<td><a href="https://github.com/illright"><img src="https://avatars.githubusercontent.com/u/15035286?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/illright"><b>Lev Chelyadinov</b></a><br><sub>&#64;illright</sub></td>
-<td align="right"><b>117</b></td>
-<td align="right">0</td>
-<td><sub>Amsterdam, Netherlands</sub></td>
-</tr>
-<tr>
-<td align="right">987</td>
-<td><a href="https://github.com/dfdazac"><img src="https://avatars.githubusercontent.com/u/8637974?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dfdazac"><b>Daniel Daza</b></a><br><sub>&#64;dfdazac</sub></td>
-<td align="right"><b>116</b></td>
-<td align="right">0</td>
-<td><sub>Amsterdam, Netherlands</sub></td>
-</tr>
-<tr>
-<td align="right">988</td>
-<td><a href="https://github.com/gtoonstra"><img src="https://avatars.githubusercontent.com/u/441978?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gtoonstra"><b>Gerard Toonstra</b></a><br><sub>&#64;gtoonstra</sub></td>
-<td align="right"><b>116</b></td>
-<td align="right">0</td>
-<td><sub>Rotterdam, The Netherlands</sub></td>
-</tr>
-<tr>
-<td align="right">989</td>
-<td><a href="https://github.com/Jeroen-G"><img src="https://avatars.githubusercontent.com/u/1116853?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Jeroen-G"><b>JeroenG</b></a><br><sub>&#64;Jeroen-G</sub></td>
-<td align="right"><b>116</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/AlmeroSteyn"><img src="https://avatars.githubusercontent.com/u/5063473?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AlmeroSteyn"><b>Almero Steyn</b></a><br><sub>&#64;AlmeroSteyn</sub></td>
+<td align="right"><b>140</b></td>
+<td align="right">77</td>
 <td><sub>The Netherlands</sub></td>
 </tr>
 <tr>
+<td align="right">987</td>
+<td><a href="https://github.com/dromer"><img src="https://avatars.githubusercontent.com/u/1185977?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dromer"><b>dreamer</b></a><br><sub>&#64;dromer</sub></td>
+<td align="right"><b>140</b></td>
+<td align="right">63</td>
+<td><sub>The Netherlands</sub></td>
+</tr>
+<tr>
+<td align="right">988</td>
+<td><a href="https://github.com/vanvught"><img src="https://avatars.githubusercontent.com/u/4319913?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vanvught"><b>Arjan</b></a><br><sub>&#64;vanvught</sub></td>
+<td align="right"><b>140</b></td>
+<td align="right">54</td>
+<td><sub>The Netherlands</sub></td>
+</tr>
+<tr>
+<td align="right">989</td>
+<td><a href="https://github.com/basvodde"><img src="https://avatars.githubusercontent.com/u/509919?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/basvodde"><b>Bas Vodde</b></a><br><sub>&#64;basvodde</sub></td>
+<td align="right"><b>140</b></td>
+<td align="right">44</td>
+<td><sub>Netherlands</sub></td>
+</tr>
+<tr>
 <td align="right">990</td>
-<td><a href="https://github.com/mcarton"><img src="https://avatars.githubusercontent.com/u/3751788?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/mcarton"><b>Martin Carton</b></a><br><sub>&#64;mcarton</sub></td>
-<td align="right"><b>116</b></td>
-<td align="right">0</td>
-<td><sub>Eindhoven, Netherland</sub></td>
+<td><a href="https://github.com/hilios"><img src="https://avatars.githubusercontent.com/u/688876?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hilios"><b>Edson Hilios</b></a><br><sub>&#64;hilios</sub></td>
+<td align="right"><b>140</b></td>
+<td align="right">44</td>
+<td><sub>Amsterdam, Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">991</td>
-<td><a href="https://github.com/pjvds"><img src="https://avatars.githubusercontent.com/u/150387?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pjvds"><b>Pieter Joost van de Sande</b></a><br><sub>&#64;pjvds</sub></td>
-<td align="right"><b>116</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/DustinWatts"><img src="https://avatars.githubusercontent.com/u/18088135?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/DustinWatts"><b>Dustin Watts</b></a><br><sub>&#64;DustinWatts</sub></td>
+<td align="right"><b>140</b></td>
+<td align="right">23</td>
 <td><sub>The Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">992</td>
-<td><a href="https://github.com/aronprins"><img src="https://avatars.githubusercontent.com/u/1126344?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aronprins"><b>Aron Prins</b></a><br><sub>&#64;aronprins</sub></td>
-<td align="right"><b>115</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/BAILOOL"><img src="https://avatars.githubusercontent.com/u/11172777?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/BAILOOL"><b>Alex Bailo</b></a><br><sub>&#64;BAILOOL</sub></td>
+<td align="right"><b>140</b></td>
+<td align="right">12</td>
 <td><sub>Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">993</td>
-<td><a href="https://github.com/javl"><img src="https://avatars.githubusercontent.com/u/734644?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/javl"><b>Jasper van Loenen</b></a><br><sub>&#64;javl</sub></td>
-<td align="right"><b>115</b></td>
-<td align="right">0</td>
-<td><sub>Netherlands</sub></td>
+<td><a href="https://github.com/MartijnR"><img src="https://avatars.githubusercontent.com/u/627350?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/MartijnR"><b>Martijn van de Rijdt</b></a><br><sub>&#64;MartijnR</sub></td>
+<td align="right"><b>140</b></td>
+<td align="right">10</td>
+<td><sub>Heerlen</sub></td>
 </tr>
 <tr>
 <td align="right">994</td>
-<td><a href="https://github.com/dseguy"><img src="https://avatars.githubusercontent.com/u/170418?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dseguy"><b>Seguy Damien</b></a><br><sub>&#64;dseguy</sub></td>
-<td align="right"><b>114</b></td>
-<td align="right">0</td>
-<td><sub>The Hague, The Netherlands</sub></td>
+<td><a href="https://github.com/de-vri-es"><img src="https://avatars.githubusercontent.com/u/786213?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/de-vri-es"><b>Maarten de Vries</b></a><br><sub>&#64;de-vri-es</sub></td>
+<td align="right"><b>139</b></td>
+<td align="right">202</td>
+<td><sub>The Hague/Delft, Netherlands</sub></td>
 </tr>
 <tr>
 <td align="right">995</td>
-<td><a href="https://github.com/gusztavvargadr"><img src="https://avatars.githubusercontent.com/u/1721722?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/gusztavvargadr"><b>Gusztáv Varga</b></a><br><sub>&#64;gusztavvargadr</sub></td>
-<td align="right"><b>114</b></td>
-<td align="right">0</td>
-<td><sub>Amsterdam, Netherlands</sub></td>
+<td><a href="https://github.com/vicainelli"><img src="https://avatars.githubusercontent.com/u/1155694?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vicainelli"><b>Vinicius Cainelli</b></a><br><sub>&#64;vicainelli</sub></td>
+<td align="right"><b>139</b></td>
+<td align="right">169</td>
+<td><sub>Enschede, NL</sub></td>
 </tr>
 <tr>
 <td align="right">996</td>
-<td><a href="https://github.com/jorisroovers"><img src="https://avatars.githubusercontent.com/u/575086?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jorisroovers"><b>Joris Roovers</b></a><br><sub>&#64;jorisroovers</sub></td>
-<td align="right"><b>114</b></td>
-<td align="right">0</td>
-<td><sub>Breda, The Netherlands</sub></td>
-</tr>
-<tr>
-<td align="right">997</td>
-<td><a href="https://github.com/o1egl"><img src="https://avatars.githubusercontent.com/u/966539?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/o1egl"><b>Oleg Lobanov</b></a><br><sub>&#64;o1egl</sub></td>
-<td align="right"><b>114</b></td>
-<td align="right">0</td>
-<td><sub>Amsterdam, Netherlands</sub></td>
-</tr>
-<tr>
-<td align="right">998</td>
-<td><a href="https://github.com/sneas"><img src="https://avatars.githubusercontent.com/u/144651?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sneas"><b>Dima Sneas</b></a><br><sub>&#64;sneas</sub></td>
-<td align="right"><b>114</b></td>
-<td align="right">0</td>
-<td><sub>Amsterdam, NL</sub></td>
-</tr>
-<tr>
-<td align="right">999</td>
-<td><a href="https://github.com/zoni"><img src="https://avatars.githubusercontent.com/u/145285?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/zoni"><b>Nick Groenen</b></a><br><sub>&#64;zoni</sub></td>
-<td align="right"><b>113</b></td>
-<td align="right">0</td>
+<td><a href="https://github.com/Vinnl"><img src="https://avatars.githubusercontent.com/u/4251?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Vinnl"><b>Vincent</b></a><br><sub>&#64;Vinnl</sub></td>
+<td align="right"><b>139</b></td>
+<td align="right">118</td>
 <td><sub>The Netherlands</sub></td>
 </tr>
 <tr>
+<td align="right">997</td>
+<td><a href="https://github.com/ildyria"><img src="https://avatars.githubusercontent.com/u/627094?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ildyria"><b>Benoît Viguier</b></a><br><sub>&#64;ildyria</sub></td>
+<td align="right"><b>139</b></td>
+<td align="right">65</td>
+<td><sub>Netherlands</sub></td>
+</tr>
+<tr>
+<td align="right">998</td>
+<td><a href="https://github.com/tudxor"><img src="https://avatars.githubusercontent.com/u/10705228?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/tudxor"><b>Tudor Roman</b></a><br><sub>&#64;tudxor</sub></td>
+<td align="right"><b>139</b></td>
+<td align="right">54</td>
+<td><sub>Amsterdam, The Netherlands</sub></td>
+</tr>
+<tr>
+<td align="right">999</td>
+<td><a href="https://github.com/jkuipers"><img src="https://avatars.githubusercontent.com/u/74792?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jkuipers"><b>Joris Kuipers</b></a><br><sub>&#64;jkuipers</sub></td>
+<td align="right"><b>139</b></td>
+<td align="right">43</td>
+<td><sub>The Netherlands, near Amsterdam</sub></td>
+</tr>
+<tr>
 <td align="right">1000</td>
-<td><a href="https://github.com/dvingerh"><img src="https://avatars.githubusercontent.com/u/8366383?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dvingerh"><b>Dirk Vingerhoeds</b></a><br><sub>&#64;dvingerh</sub></td>
-<td align="right"><b>112</b></td>
-<td align="right">0</td>
-<td><sub>Breda, The Netherlands</sub></td>
+<td><a href="https://github.com/sybrenstuvel"><img src="https://avatars.githubusercontent.com/u/1092128?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sybrenstuvel"><b>Sybren A. Stüvel</b></a><br><sub>&#64;sybrenstuvel</sub></td>
+<td align="right"><b>139</b></td>
+<td align="right">37</td>
+<td><sub>Amsterdam, The Netherlands</sub></td>
 </tr>
 </tbody>
 </table>
@@ -7027,9 +7027,9 @@
 <details>
 <summary><b>Coverage and methodology</b></summary>
 
-- **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Basis:** partial — discovery is still running.
-- Organizations are excluded. 1,303 attributed developers are tracked; the cutoff is 112 followers.
+- **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
+- **Basis:** certified by the global follower scan — every developer above this cutoff has been enumerated.
+- Organizations are excluded. 1,300 attributed developers are tracked; the cutoff is 139 followers.
 - **Location discovery:** term 0 of 155 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

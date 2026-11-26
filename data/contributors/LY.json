@@ -5,7 +5,7 @@
 "country": {"code":"LY","name":"Libya","slug":"libya"},
 "status": "provisional",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the user"},
-"coverage": {"basis":"partial","discoveredAccounts":398,"measuredAccounts":16,"measurementBacklog":382,"window":{"from":"2025-11-24T11:00:00Z","to":"2026-11-24T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":108,"unresolved":0}},
+"coverage": {"basis":"partial","discoveredAccounts":398,"measuredAccounts":17,"measurementBacklog":381,"window":{"from":"2025-11-24T11:00:00Z","to":"2026-11-24T11:00:00Z"},"exhaustive":false,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":108,"unresolved":0}},
 "users": [
   {"rank":1,"id":"U_kgDOB2V2cw","login":"OthmanHaba","name":"Othman Haba (ง'̀-'́)ง","url":"https://github.com/OthmanHaba","avatarUrl":"https://avatars.githubusercontent.com/u/124089971?s=80&v=4","followers":30,"publicRepos":93,"location":"Tripoli Libya","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-24","contributions":{"public":1354,"commits":1202,"pullRequests":118,"reviews":0,"issues":2,"repositories":32,"windowFrom":"2025-11-24T11:00:00Z","windowTo":"2026-11-24T11:00:00Z","measuredOn":"2026-11-24"}},
   {"rank":2,"id":"MDQ6VXNlcjU2MDI0NTI2","login":"AbdurahmanAlmehdi","name":"Abdurahman Ibrahem","url":"https://github.com/AbdurahmanAlmehdi","avatarUrl":"https://avatars.githubusercontent.com/u/56024526?s=80&v=4","followers":11,"publicRepos":85,"location":"Libya","attribution":{"confidence":"high","evidence":"explicit-country"},"verifiedOn":"2026-11-26","contributions":{"public":1321,"commits":994,"pullRequests":199,"reviews":2,"issues":73,"repositories":52,"windowFrom":"2025-11-26T08:00:00Z","windowTo":"2026-11-26T08:00:00Z","measuredOn":"2026-11-26"}},
@@ -20,8 +20,8 @@
   {"rank":11,"id":"MDQ6VXNlcjY2OTQ2MjQ1","login":"killow84","name":"Ali","url":"https://github.com/killow84","avatarUrl":"https://avatars.githubusercontent.com/u/66946245?s=80&v=4","followers":4,"publicRepos":88,"location":"Benghazi-Libya","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-26","contributions":{"public":14,"commits":0,"pullRequests":0,"reviews":0,"issues":0,"repositories":14,"windowFrom":"2025-11-26T00:00:00Z","windowTo":"2026-11-26T00:00:00Z","measuredOn":"2026-11-26"}},
   {"rank":12,"id":"U_kgDODI100Q","login":"0xmahmoudaldali","name":"Mahmoud Aldali","url":"https://github.com/0xmahmoudaldali","avatarUrl":"https://avatars.githubusercontent.com/u/210597073?s=80&v=4","followers":1,"publicRepos":4,"location":"Tripoli, Libya","attribution":{"confidence":"high","evidence":"explicit-country-with-place"},"verifiedOn":"2026-11-22","contributions":{"public":6,"commits":4,"pullRequests":0,"reviews":0,"issues":0,"repositories":2,"windowFrom":"2025-11-22T22:00:00Z","windowTo":"2026-11-22T22:00:00Z","measuredOn":"2026-11-22"}}
 ],
-"contentHash": "6d69f6c72673336c",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "b94f016a7441ff46",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-22",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

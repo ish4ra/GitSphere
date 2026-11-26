@@ -5,7 +5,7 @@
 "country": {"code":"SM","name":"San Marino","slug":"san-marino"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":74,"ownerExpansionBacklog":98,"candidates":74,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":1,"terms":21,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":74,"ownerExpansionBacklog":97,"candidates":74,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":4,"terms":21,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"archive","nameWithOwner":"ds-2021-unirsm/archive","url":"https://github.com/ds-2021-unirsm/archive","description":null,"stars":1,"forks":20,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2021-03-05T14:11:21Z","pushedAt":"2021-09-08T06:07:04Z","archived":true,"owner":{"login":"ds-2021-unirsm","name":"ds-2021-unirsm","type":"Organization","url":"https://github.com/ds-2021-unirsm","location":"San Marino","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-30","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"ds-archive-22","nameWithOwner":"ds-2022-unirsm/ds-archive-22","url":"https://github.com/ds-2022-unirsm/ds-archive-22","description":null,"stars":1,"forks":17,"primaryLanguage":"JavaScript","license":{"spdxId":"MIT"},"createdAt":"2022-03-15T09:15:09Z","pushedAt":"2022-09-01T17:12:00Z","archived":false,"owner":{"login":"ds-2022-unirsm","name":"ds-2022-unirsm","type":"Organization","url":"https://github.com/ds-2022-unirsm","location":"San Marino","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-30","pendingRevalidation":true},
@@ -82,8 +82,8 @@
   {"rank":73,"id":null,"name":"buyerportal","nameWithOwner":"VisualTechnologies/buyerportal","url":"https://github.com/VisualTechnologies/buyerportal","description":null,"stars":0,"forks":0,"primaryLanguage":"PHP","license":null,"createdAt":"2016-03-26T16:54:23Z","pushedAt":"2016-05-03T05:33:56Z","archived":false,"owner":{"login":"VisualTechnologies","name":"VisualTechnologies","type":"Organization","url":"https://github.com/VisualTechnologies","location":"2360 Huntington Dr, San Marino, CA 91108","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-30","pendingRevalidation":true},
   {"rank":74,"id":null,"name":"XiangxiangLi-Website","nameWithOwner":"Xiangxiang-Li/XiangxiangLi-Website","url":"https://github.com/Xiangxiang-Li/XiangxiangLi-Website","description":null,"stars":0,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2020-11-14T03:19:54Z","pushedAt":"2020-11-14T03:57:57Z","archived":false,"owner":{"login":"Xiangxiang-Li","name":"Xiangxiang Li","type":"User","url":"https://github.com/Xiangxiang-Li","location":"San Marino","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-10-30","pendingRevalidation":true}
 ],
-"contentHash": "4121083bb5fe5d14",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "18df536501a11b58",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-10-30",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

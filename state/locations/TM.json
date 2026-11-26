@@ -6,9 +6,9 @@
 "terms": {"count":131,"fingerprint":"131:5b262b3d"},
 "termIndex": 0,
 "specIndex": 0,
-"active": {"term":"Turkmenistan","kind":"users","queue":[{"metric":[0,100000000],"created":null,"cursor":"Y3Vyc29yOjMwMA==","page":7,"retrieved":300,"attempts":0}],"unresolved":[],"cycleStartedAt":"2026-11-24T11:13:00.631Z","stats":{"pages":6}},
+"active": {"term":"Turkmenistan","kind":"users","queue":[{"metric":[0,100000000],"created":null,"cursor":"Y3Vyc29yOjYwMA==","page":13,"retrieved":600,"attempts":0}],"unresolved":[],"cycleStartedAt":"2026-11-24T11:13:00.631Z","stats":{"pages":12}},
 "unresolved": [],
 "completedRounds": [],
-"stats": {"requests":6,"pages":6,"accounts":300},
+"stats": {"requests":12,"pages":12,"accounts":600},
 "updatedAt": "2026-11-24T11:13:00.631Z"
 }

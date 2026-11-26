@@ -14,7 +14,7 @@
 
 | Status | Contributors | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **23** | 22 Nov 2026 | <a href="../../data/contributors/CU.json">JSON</a> |
+| 🟡 Provisional | **24** | 22 Nov 2026 | <a href="../../data/contributors/CU.json">JSON</a> |
 
 </div>
 
@@ -124,6 +124,15 @@
 </tr>
 <tr>
 <td align="right">12</td>
+<td><a href="https://github.com/AdriCQ"><img src="https://avatars.githubusercontent.com/u/48067864?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AdriCQ"><b>Adrian Capote Quintana</b></a><br><sub>&#64;AdriCQ · 13 followers</sub></td>
+<td align="right"><b>46</b></td>
+<td align="right">42</td>
+<td align="right">0</td>
+<td align="right">0</td>
+<td align="right">0</td>
+</tr>
+<tr>
+<td align="right">13</td>
 <td><a href="https://github.com/acano99"><img src="https://avatars.githubusercontent.com/u/173047220?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/acano99"><b>Abrahan Cano</b></a><br><sub>&#64;acano99 · 5 followers</sub></td>
 <td align="right"><b>42</b></td>
 <td align="right">39</td>
@@ -132,7 +141,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">13</td>
+<td align="right">14</td>
 <td><a href="https://github.com/AdanV06"><img src="https://avatars.githubusercontent.com/u/172984153?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AdanV06"><b>Edael Adan Verdecia Valdivia</b></a><br><sub>&#64;AdanV06 · 13 followers</sub></td>
 <td align="right"><b>34</b></td>
 <td align="right">30</td>
@@ -141,7 +150,7 @@
 <td align="right">2</td>
 </tr>
 <tr>
-<td align="right">14</td>
+<td align="right">15</td>
 <td><a href="https://github.com/addielmoldes"><img src="https://avatars.githubusercontent.com/u/105292535?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/addielmoldes"><b>Addiel Moldes</b></a><br><sub>&#64;addielmoldes · 6 followers</sub></td>
 <td align="right"><b>34</b></td>
 <td align="right">27</td>
@@ -150,7 +159,7 @@
 <td align="right">1</td>
 </tr>
 <tr>
-<td align="right">15</td>
+<td align="right">16</td>
 <td><a href="https://github.com/acostaAdriana-cyber"><img src="https://avatars.githubusercontent.com/u/266183174?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/acostaAdriana-cyber"><b>Adriana Isabel Acosta González</b></a><br><sub>&#64;acostaAdriana-cyber · 1 followers</sub></td>
 <td align="right"><b>18</b></td>
 <td align="right">11</td>
@@ -159,7 +168,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">16</td>
+<td align="right">17</td>
 <td><a href="https://github.com/acnielwilliams08"><img src="https://avatars.githubusercontent.com/u/139654919?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/acnielwilliams08"><b>Acniel Williams</b></a><br><sub>&#64;acnielwilliams08 · 10 followers</sub></td>
 <td align="right"><b>16</b></td>
 <td align="right">7</td>
@@ -168,7 +177,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">17</td>
+<td align="right">18</td>
 <td><a href="https://github.com/adrianrp1988"><img src="https://avatars.githubusercontent.com/u/677320?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adrianrp1988"><b>Adrian Rodriguez</b></a><br><sub>&#64;adrianrp1988 · 29 followers</sub></td>
 <td align="right"><b>14</b></td>
 <td align="right">6</td>
@@ -177,7 +186,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">18</td>
+<td align="right">19</td>
 <td><a href="https://github.com/aDogdev"><img src="https://avatars.githubusercontent.com/u/84250485?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/aDogdev"><b>Adrian</b></a><br><sub>&#64;aDogdev · 8 followers</sub></td>
 <td align="right"><b>9</b></td>
 <td align="right">8</td>
@@ -186,7 +195,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">19</td>
+<td align="right">20</td>
 <td><a href="https://github.com/adrianfoya"><img src="https://avatars.githubusercontent.com/u/86851123?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adrianfoya"><b>Adrián</b></a><br><sub>&#64;adrianfoya · 16 followers</sub></td>
 <td align="right"><b>7</b></td>
 <td align="right">6</td>
@@ -195,7 +204,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">20</td>
+<td align="right">21</td>
 <td><a href="https://github.com/Adrianoxzzz"><img src="https://avatars.githubusercontent.com/u/118141438?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Adrianoxzzz"><b>Adriano Alberto Spinola Olivares</b></a><br><sub>&#64;Adrianoxzzz · 0 followers</sub></td>
 <td align="right"><b>4</b></td>
 <td align="right">0</td>
@@ -204,7 +213,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">21</td>
+<td align="right">22</td>
 <td><a href="https://github.com/adrianhdez929"><img src="https://avatars.githubusercontent.com/u/43711136?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adrianhdez929"><b>Adrian Hernandez</b></a><br><sub>&#64;adrianhdez929 · 15 followers</sub></td>
 <td align="right"><b>3</b></td>
 <td align="right">2</td>
@@ -213,7 +222,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">22</td>
+<td align="right">23</td>
 <td><a href="https://github.com/acanive"><img src="https://avatars.githubusercontent.com/u/3910020?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/acanive"><b>Abel Espinosa</b></a><br><sub>&#64;acanive · 2 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -222,7 +231,7 @@
 <td align="right">0</td>
 </tr>
 <tr>
-<td align="right">23</td>
+<td align="right">24</td>
 <td><a href="https://github.com/acm-97"><img src="https://avatars.githubusercontent.com/u/29048839?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/acm-97"><b>Alejandro Cabrera Mena</b></a><br><sub>&#64;acm-97 · 2 followers</sub></td>
 <td align="right"><b>1</b></td>
 <td align="right">0</td>
@@ -237,7 +246,7 @@
 <summary><b>Coverage and methodology</b></summary>
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
-- **Measured:** 23 of 402 discovered developers (379 awaiting measurement).
+- **Measured:** 25 of 403 discovered developers (378 awaiting measurement).
 - **Public contributions** = contribution-calendar total minus restricted (private) contributions, over a rolling 12-month window. This is not a lifetime count and not commits alone.
 - Candidates are discovered independently of follower counts, but GitSphere cannot enumerate every GitHub account, so this ranking is not exhaustive.
 - **Location discovery:** term 0 of 90 in round 1.

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/BG.json">JSON</a> |
+| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/BG.json">JSON</a> |
 
 </div>
 
@@ -332,14 +332,14 @@
 <tr>
 <td align="right">45</td>
 <td><img src="https://github.com/krasimir.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/krasimir/deb.js"><b>krasimir/deb.js</b></a><br><sub>Minimalistic JavaScript library for debugging in the browser</sub></td>
-<td align="right"><b>1,420</b></td>
+<td align="right"><b>1,419</b></td>
 <td align="right">73</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">46</td>
 <td><img src="https://github.com/uixmat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/uixmat/onborda"><b>uixmat/onborda</b></a><br><sub>An onboarding wizard flow / product tour for Next.js animated by framer motion</sub></td>
-<td align="right"><b>1,413</b></td>
+<td align="right"><b>1,414</b></td>
 <td align="right">65</td>
 <td>TypeScript</td>
 </tr>
@@ -353,7 +353,7 @@
 <tr>
 <td align="right">48</td>
 <td><img src="https://github.com/mariostoev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mariostoev/finviz"><b>mariostoev/finviz</b></a><br><sub>Unofficial API for finviz.com</sub></td>
-<td align="right"><b>1,373</b></td>
+<td align="right"><b>1,374</b></td>
 <td align="right">301</td>
 <td>Python</td>
 </tr>
@@ -374,7 +374,7 @@
 <tr>
 <td align="right">51</td>
 <td><img src="https://github.com/RumenDamyanov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/RumenDamyanov/php-sitemap"><b>RumenDamyanov/php-sitemap</b></a><br><sub>Framework-agnostic PHP package for generating sitemaps in XML, TXT, HTML, and Google News formats.</sub></td>
-<td align="right"><b>1,342</b></td>
+<td align="right"><b>1,341</b></td>
 <td align="right">274</td>
 <td>PHP</td>
 </tr>
@@ -382,14 +382,14 @@
 <td align="right">52</td>
 <td><img src="https://github.com/metacraft-labs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/metacraft-labs/codetracer"><b>metacraft-labs/codetracer</b></a><br><sub>CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.</sub></td>
 <td align="right"><b>1,309</b></td>
-<td align="right">26</td>
+<td align="right">27</td>
 <td>Nim</td>
 </tr>
 <tr>
 <td align="right">53</td>
 <td><img src="https://github.com/kiwitcms.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kiwitcms/kiwitcms"><b>kiwitcms/kiwitcms</b></a><br><sub>open source test management system with over 2 million downloads!</sub></td>
-<td align="right"><b>1,304</b></td>
-<td align="right">382</td>
+<td align="right"><b>1,305</b></td>
+<td align="right">381</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -402,7 +402,7 @@
 <tr>
 <td align="right">55</td>
 <td><img src="https://github.com/DimitarPetrov.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/DimitarPetrov/stegify"><b>DimitarPetrov/stegify</b></a><br><sub>🔍 Go tool for LSB steganography, capable of hiding any file within an image.</sub></td>
-<td align="right"><b>1,267</b></td>
+<td align="right"><b>1,268</b></td>
 <td align="right">119</td>
 <td>Go</td>
 </tr>
@@ -416,7 +416,7 @@
 <tr>
 <td align="right">57</td>
 <td><img src="https://github.com/NepipenkoIgor.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/NepipenkoIgor/ngx-mask"><b>NepipenkoIgor/ngx-mask</b></a><br><sub>Angular Plugin to make masks on form fields and html elements.</sub></td>
-<td align="right"><b>1,244</b></td>
+<td align="right"><b>1,243</b></td>
 <td align="right">308</td>
 <td>TypeScript</td>
 </tr>
@@ -430,7 +430,7 @@
 <tr>
 <td align="right">59</td>
 <td><img src="https://github.com/bobbyiliev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bobbyiliev/101-linux-commands"><b>bobbyiliev/101-linux-commands</b></a><br><sub>101 Linux commands Open-source eBook and CLI tool</sub></td>
-<td align="right"><b>1,210</b></td>
+<td align="right"><b>1,211</b></td>
 <td align="right">152</td>
 <td>HTML</td>
 </tr>

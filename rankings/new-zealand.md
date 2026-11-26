@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/NZ.json">JSON</a> |
+| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/NZ.json">JSON</a> |
 
 </div>
 
@@ -571,14 +571,14 @@
 <td align="right">79</td>
 <td><img src="https://github.com/ElementZoom.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard"><b>ElementZoom/Material-Design-3-Dynamic-Mobile-Dashboard</b></a> <sub>archived</sub><br><sub>Dynamic, adaptive Material Design 3 dashboard for Home Assistant with a transparent, modern aesthetic</sub></td>
 <td align="right"><b>1,463</b></td>
-<td align="right">46</td>
+<td align="right">47</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">80</td>
 <td><img src="https://github.com/SamJoan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/SamJoan/droopescan"><b>SamJoan/droopescan</b></a><br><sub>A plugin-based scanner that aids security researchers in identifying issues with several CMSs, mainly Drupal &amp; Silverst…</sub></td>
-<td align="right"><b>1,454</b></td>
-<td align="right">268</td>
+<td align="right"><b>1,455</b></td>
+<td align="right">269</td>
 <td>HTML</td>
 </tr>
 <tr>
@@ -598,7 +598,7 @@
 <tr>
 <td align="right">83</td>
 <td><img src="https://github.com/jonnnnyw.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/jonnnnyw/php-phantomjs"><b>jonnnnyw/php-phantomjs</b></a> <sub>archived</sub><br><sub>Execute PhantomJS commands through PHP</sub></td>
-<td align="right"><b>1,424</b></td>
+<td align="right"><b>1,423</b></td>
 <td align="right">419</td>
 <td>PHP</td>
 </tr>
@@ -619,14 +619,14 @@
 <tr>
 <td align="right">86</td>
 <td><img src="https://github.com/liamcottle.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/liamcottle/reticulum-meshchat"><b>liamcottle/reticulum-meshchat</b></a><br><sub>A simple mesh network communications app powered by the Reticulum Network Stack.</sub></td>
-<td align="right"><b>1,332</b></td>
+<td align="right"><b>1,338</b></td>
 <td align="right">177</td>
 <td>JavaScript</td>
 </tr>
 <tr>
 <td align="right">87</td>
 <td><img src="https://github.com/BigBadaboom.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/BigBadaboom/androidsvg"><b>BigBadaboom/androidsvg</b></a><br><sub>SVG rendering library for Android</sub></td>
-<td align="right"><b>1,323</b></td>
+<td align="right"><b>1,324</b></td>
 <td align="right">255</td>
 <td>HTML</td>
 </tr>
@@ -647,8 +647,8 @@
 <tr>
 <td align="right">90</td>
 <td><img src="https://github.com/hadynz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/hadynz/obsidian-kindle-plugin"><b>hadynz/obsidian-kindle-plugin</b></a><br><sub>Sync your Kindle notes and highlights directly into your Obsidian vault</sub></td>
-<td align="right"><b>1,300</b></td>
-<td align="right">99</td>
+<td align="right"><b>1,303</b></td>
+<td align="right">100</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -668,22 +668,22 @@
 <tr>
 <td align="right">93</td>
 <td><img src="https://github.com/sl1pm4t.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sl1pm4t/k2tf"><b>sl1pm4t/k2tf</b></a><br><sub>Kubernetes YAML to Terraform HCL converter</sub></td>
-<td align="right"><b>1,230</b></td>
+<td align="right"><b>1,231</b></td>
 <td align="right">107</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">94</td>
 <td><img src="https://github.com/aizhimou.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aizhimou/pigeon-pod"><b>aizhimou/pigeon-pod</b></a><br><sub>Listen to YouTube &amp; Bilibili. Anywhere.</sub></td>
-<td align="right"><b>1,217</b></td>
+<td align="right"><b>1,216</b></td>
 <td align="right">106</td>
 <td>Java</td>
 </tr>
 <tr>
 <td align="right">95</td>
 <td><img src="https://github.com/yo-WASSUP.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yo-WASSUP/Good-Badminton"><b>yo-WASSUP/Good-Badminton</b></a><br><sub>🏸 AI Badminton Hawk-Eye System</sub></td>
-<td align="right"><b>1,188</b></td>
-<td align="right">306</td>
+<td align="right"><b>1,194</b></td>
+<td align="right">310</td>
 <td>Python</td>
 </tr>
 <tr>
@@ -702,17 +702,17 @@
 </tr>
 <tr>
 <td align="right">98</td>
-<td><img src="https://github.com/maknz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maknz/slack"><b>maknz/slack</b></a><br><sub>A simple PHP package for sending messages to Slack, with a focus on ease of use and elegant syntax.</sub></td>
-<td align="right"><b>1,157</b></td>
-<td align="right">205</td>
-<td>PHP</td>
-</tr>
-<tr>
-<td align="right">99</td>
 <td><img src="https://github.com/Arachnid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Arachnid/solidity-stringutils"><b>Arachnid/solidity-stringutils</b></a><br><sub>Basic string utilities for Solidity</sub></td>
 <td align="right"><b>1,156</b></td>
 <td align="right">372</td>
 <td>Solidity</td>
+</tr>
+<tr>
+<td align="right">99</td>
+<td><img src="https://github.com/maknz.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/maknz/slack"><b>maknz/slack</b></a><br><sub>A simple PHP package for sending messages to Slack, with a focus on ease of use and elegant syntax.</sub></td>
+<td align="right"><b>1,156</b></td>
+<td align="right">205</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">100</td>

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **9** | 23 Nov 2026 | <a href="../data/DO.json">JSON</a> |
+| 🟡 Provisional | **13** | 24 Nov 2026 | <a href="../data/DO.json">JSON</a> |
 
 </div>
 
@@ -84,6 +84,34 @@
 <td align="right">104</td>
 <td>JavaScript</td>
 </tr>
+<tr>
+<td align="right">10</td>
+<td><img src="https://github.com/CrossGeeks.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/CrossGeeks/FirebasePushNotificationPlugin"><b>CrossGeeks/FirebasePushNotificationPlugin</b></a><br><sub>Firebase Push Notification Plugin for Xamarin iOS and Android</sub></td>
+<td align="right"><b>385</b></td>
+<td align="right">171</td>
+<td>C#</td>
+</tr>
+<tr>
+<td align="right">11</td>
+<td><img src="https://github.com/sgermosen.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/sgermosen/DocumentosUniversitarios"><b>sgermosen/DocumentosUniversitarios</b></a></td>
+<td align="right"><b>376</b></td>
+<td align="right">281</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/edwin170.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/edwin170/downr1n"><b>edwin170/downr1n</b></a><br><sub>downgrade tethered checkm8 idevices ios 14, 15.</sub></td>
+<td align="right"><b>374</b></td>
+<td align="right">46</td>
+<td>Shell</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/wilmerterrero.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wilmerterrero/Avatartion"><b>wilmerterrero/Avatartion</b></a><br><sub>Notion-style avatar generator</sub></td>
+<td align="right"><b>372</b></td>
+<td align="right">29</td>
+<td>JavaScript</td>
+</tr>
 </tbody>
 </table>
 
@@ -92,8 +120,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 460 stars; 9 attributed candidates are tracked.
-- 118 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 372 stars; 13 attributed candidates are tracked.
+- 110 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 134 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

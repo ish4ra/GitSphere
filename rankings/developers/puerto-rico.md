@@ -136,7 +136,7 @@
 <tr>
 <td align="right">17</td>
 <td><a href="https://github.com/danysantiago"><img src="https://avatars.githubusercontent.com/u/1844995?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/danysantiago"><b>Daniel Santiago</b></a><br><sub>&#64;danysantiago</sub></td>
-<td align="right"><b>147</b></td>
+<td align="right"><b>146</b></td>
 <td align="right">60</td>
 <td><sub>Puerto Rico</sub></td>
 </tr>

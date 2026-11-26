@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **11** | 24 Nov 2026 | <a href="../data/MT.json">JSON</a> |
+| 🟡 Provisional | **15** | 24 Nov 2026 | <a href="../data/MT.json">JSON</a> |
 
 </div>
 
@@ -98,6 +98,34 @@
 <td align="right">52</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">12</td>
+<td><img src="https://github.com/salitronic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/salitronic/eda-agent"><b>salitronic/eda-agent</b></a><br><sub>Open-source MCP server that lets an AI drive a live session of Altium Designer, and optionally KiCad or EasyEDA Pro, ed…</sub></td>
+<td align="right"><b>405</b></td>
+<td align="right">88</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td><img src="https://github.com/waynebonc.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/waynebonc/iDeviceLogAnalyzer-public"><b>waynebonc/iDeviceLogAnalyzer-public</b></a><br><sub>A quick and easy panic log extraction and analysis tool for iDevices.</sub></td>
+<td align="right"><b>396</b></td>
+<td align="right">110</td>
+<td>—</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td><img src="https://github.com/nevillegrech.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/nevillegrech/gigahorse-toolchain"><b>nevillegrech/gigahorse-toolchain</b></a><br><sub>A binary lifter and analysis framework for Ethereum smart contracts</sub></td>
+<td align="right"><b>394</b></td>
+<td align="right">82</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td><img src="https://github.com/ianharrigan.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ianharrigan/haxeui"><b>ianharrigan/haxeui</b></a> <sub>archived</sub><br><sub>IMPORTANT NOTE! This repository is no longer maintained. Please consider the newer version: https://github.com/haxeui/h…</sub></td>
+<td align="right"><b>390</b></td>
+<td align="right">46</td>
+<td>Haxe</td>
+</tr>
 </tbody>
 </table>
 
@@ -106,8 +134,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 429 stars; 11 attributed candidates are tracked.
-- 108 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 390 stars; 15 attributed candidates are tracked.
+- 102 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 104 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/ID.json">JSON</a> |
+| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/ID.json">JSON</a> |
 
 </div>
 
@@ -416,7 +416,7 @@
 <tr>
 <td align="right">57</td>
 <td><img src="https://github.com/dikiaap.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dikiaap/dotfiles"><b>dikiaap/dotfiles</b></a><br><sub>Get ready for dotfiles. Contains i3, i3blocks, rofi, dunst, picom, vim, tmux, and zsh.</sub></td>
-<td align="right"><b>1,485</b></td>
+<td align="right"><b>1,484</b></td>
 <td align="right">172</td>
 <td>Shell</td>
 </tr>
@@ -430,44 +430,44 @@
 <tr>
 <td align="right">59</td>
 <td><img src="https://github.com/ifindev.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ifindev/fullstack-next-cloudflare"><b>ifindev/fullstack-next-cloudflare</b></a><br><sub>🚀 Full-stack Next.js 15 + Cloudflare Workers template with D1 database, R2 storage, Better Auth, and Server Actions. P…</sub></td>
-<td align="right"><b>1,423</b></td>
+<td align="right"><b>1,424</b></td>
 <td align="right">230</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">60</td>
 <td><img src="https://github.com/wustho.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wustho/epr"><b>wustho/epr</b></a><br><sub>CLI Epub Reader</sub></td>
-<td align="right"><b>1,418</b></td>
+<td align="right"><b>1,419</b></td>
 <td align="right">61</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">61</td>
 <td><img src="https://github.com/danpros.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/danpros/htmly"><b>danpros/htmly</b></a><br><sub>Simple and fast databaseless PHP blogging platform, and Flat-File CMS</sub></td>
-<td align="right"><b>1,368</b></td>
+<td align="right"><b>1,369</b></td>
 <td align="right">307</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">62</td>
+<td><img src="https://github.com/cahyadsn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cahyadsn/wilayah"><b>cahyadsn/wilayah</b></a><br><sub>Kode dan Data Wilayah Administrasi &amp; Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025 dengan PHP+MySQL+AJa…</sub></td>
+<td align="right"><b>1,350</b></td>
+<td align="right">433</td>
+<td>SQL</td>
+</tr>
+<tr>
+<td align="right">63</td>
 <td><img src="https://github.com/anton46.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/anton46/Android-StepsView"><b>anton46/Android-StepsView</b></a><br><sub>Android-StepsView</sub></td>
-<td align="right"><b>1,351</b></td>
+<td align="right"><b>1,350</b></td>
 <td align="right">258</td>
 <td>Java</td>
 </tr>
 <tr>
-<td align="right">63</td>
+<td align="right">64</td>
 <td><img src="https://github.com/mathdroid.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/mathdroid/covid-19-api"><b>mathdroid/covid-19-api</b></a><br><sub>COVID-19 global data (from JHU CSSE for now) as-a-service</sub></td>
 <td align="right"><b>1,348</b></td>
 <td align="right">273</td>
 <td>TypeScript</td>
-</tr>
-<tr>
-<td align="right">64</td>
-<td><img src="https://github.com/cahyadsn.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/cahyadsn/wilayah"><b>cahyadsn/wilayah</b></a><br><sub>Kode dan Data Wilayah Administrasi &amp; Pulau Indonesia sesuai Kepmendagri No 300.2.2-2430 Tahun 2025 dengan PHP+MySQL+AJa…</sub></td>
-<td align="right"><b>1,345</b></td>
-<td align="right">433</td>
-<td>SQL</td>
 </tr>
 <tr>
 <td align="right">65</td>
@@ -486,15 +486,15 @@
 <tr>
 <td align="right">67</td>
 <td><img src="https://github.com/dwisiswant0.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dwisiswant0/go-dork"><b>dwisiswant0/go-dork</b></a><br><sub>The fastest dork scanner written in Go.</sub></td>
-<td align="right"><b>1,311</b></td>
+<td align="right"><b>1,313</b></td>
 <td align="right">140</td>
 <td>Go</td>
 </tr>
 <tr>
 <td align="right">68</td>
 <td><img src="https://github.com/go2ismail.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System"><b>go2ismail/Asp.Net-Core-Inventory-Order-Management-System</b></a><br><sub>Now upgraded to .NET 10, this project is a super-fast, completely headless API powered by Clean Architecture, CQRS, and…</sub></td>
-<td align="right"><b>1,307</b></td>
-<td align="right">666</td>
+<td align="right"><b>1,309</b></td>
+<td align="right">665</td>
 <td>C#</td>
 </tr>
 <tr>
@@ -507,7 +507,7 @@
 <tr>
 <td align="right">70</td>
 <td><img src="https://github.com/LOoLzeC.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/LOoLzeC/ASU"><b>LOoLzeC/ASU</b></a><br><sub>facebook hacking toolkit</sub></td>
-<td align="right"><b>1,265</b></td>
+<td align="right"><b>1,267</b></td>
 <td align="right">250</td>
 <td>Python</td>
 </tr>
@@ -521,16 +521,16 @@
 <tr>
 <td align="right">72</td>
 <td><img src="https://github.com/gigahidjrikaaa.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gigahidjrikaaa/Engineering-Books"><b>gigahidjrikaaa/Engineering-Books</b></a><br><sub>Softcopy of Engineering Books. If you want a book{s} to be taken down, please contact me.</sub></td>
-<td align="right"><b>1,258</b></td>
+<td align="right"><b>1,260</b></td>
 <td align="right">315</td>
 <td>—</td>
 </tr>
 <tr>
 <td align="right">73</td>
-<td><img src="https://github.com/breakdowns.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/breakdowns/slam-mirrorbot"><b>breakdowns/slam-mirrorbot</b></a> <sub>archived</sub><br><sub>Aria/qBittorrent Telegram Mirror/Leech Bot.</sub></td>
-<td align="right"><b>1,255</b></td>
-<td align="right">4,126</td>
-<td>Python</td>
+<td><img src="https://github.com/warifp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/warifp/FacebookToolkit"><b>warifp/FacebookToolkit</b></a><br><sub>a tool to get Facebook data, and some Facebook bots, and extra tools found on Facebook Toolkit ++.</sub></td>
+<td align="right"><b>1,259</b></td>
+<td align="right">348</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">74</td>
@@ -541,37 +541,37 @@
 </tr>
 <tr>
 <td align="right">75</td>
-<td><img src="https://github.com/warifp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/warifp/FacebookToolkit"><b>warifp/FacebookToolkit</b></a><br><sub>a tool to get Facebook data, and some Facebook bots, and extra tools found on Facebook Toolkit ++.</sub></td>
-<td align="right"><b>1,254</b></td>
-<td align="right">348</td>
-<td>PHP</td>
+<td><img src="https://github.com/breakdowns.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/breakdowns/slam-mirrorbot"><b>breakdowns/slam-mirrorbot</b></a> <sub>archived</sub><br><sub>Aria/qBittorrent Telegram Mirror/Leech Bot.</sub></td>
+<td align="right"><b>1,252</b></td>
+<td align="right">4,125</td>
+<td>Python</td>
 </tr>
 <tr>
 <td align="right">76</td>
 <td><img src="https://github.com/khairul169.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/khairul169/garage-webui"><b>khairul169/garage-webui</b></a> <sub>archived</sub><br><sub>WebUI for Garage Object Storage Service</sub></td>
-<td align="right"><b>1,248</b></td>
+<td align="right"><b>1,246</b></td>
 <td align="right">96</td>
 <td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">77</td>
-<td><img src="https://github.com/ardha27.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ardha27/AI-Song-Cover-RVC"><b>ardha27/AI-Song-Cover-RVC</b></a><br><sub>All-in-one RVC song cover toolkit for Google Colab: pull audio from YouTube, separate vocals, train a model, and run in…</sub></td>
+<td><img src="https://github.com/OpenSID.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/OpenSID/OpenSID"><b>OpenSID/OpenSID</b></a><br><sub>Sistem Informasi Desa (SID) yang sengaja dibuat terbuka agar dapat dikembangkan secara bersama-sama oleh komunitas pedu…</sub></td>
 <td align="right"><b>1,239</b></td>
-<td align="right">162</td>
-<td>Jupyter Notebook</td>
+<td align="right">1,198</td>
+<td>PHP</td>
 </tr>
 <tr>
 <td align="right">78</td>
-<td><img src="https://github.com/OpenSID.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/OpenSID/OpenSID"><b>OpenSID/OpenSID</b></a><br><sub>Sistem Informasi Desa (SID) yang sengaja dibuat terbuka agar dapat dikembangkan secara bersama-sama oleh komunitas pedu…</sub></td>
-<td align="right"><b>1,234</b></td>
-<td align="right">1,197</td>
-<td>PHP</td>
+<td><img src="https://github.com/ardha27.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ardha27/AI-Song-Cover-RVC"><b>ardha27/AI-Song-Cover-RVC</b></a><br><sub>All-in-one RVC song cover toolkit for Google Colab: pull audio from YouTube, separate vocals, train a model, and run in…</sub></td>
+<td align="right"><b>1,238</b></td>
+<td align="right">162</td>
+<td>Jupyter Notebook</td>
 </tr>
 <tr>
 <td align="right">79</td>
 <td><img src="https://github.com/wustho.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wustho/epy"><b>wustho/epy</b></a><br><sub>CLI Ebook (epub2, epub3, fb2, mobi) Reader</sub></td>
 <td align="right"><b>1,233</b></td>
-<td align="right">76</td>
+<td align="right">75</td>
 <td>Python</td>
 </tr>
 <tr>

@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **63** | 23 Nov 2026 | <a href="../data/LT.json">JSON</a> |
+| 🟡 Provisional | **72** | 24 Nov 2026 | <a href="../data/LT.json">JSON</a> |
 
 </div>
 
@@ -143,15 +143,15 @@
 <tr>
 <td align="right">18</td>
 <td><img src="https://github.com/p12tic.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/p12tic/libsimdpp"><b>p12tic/libsimdpp</b></a><br><sub>Portable header-only C++ low level SIMD library</sub></td>
-<td align="right"><b>1,303</b></td>
+<td align="right"><b>1,304</b></td>
 <td align="right">128</td>
 <td>C++</td>
 </tr>
 <tr>
 <td align="right">19</td>
 <td><img src="https://github.com/Decodo.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Decodo/Decodo"><b>Decodo/Decodo</b></a><br><sub>HTTP(S)/SOCKS5 rotating residential proxies - code examples &amp; general information.</sub></td>
-<td align="right"><b>1,266</b></td>
-<td align="right">58</td>
+<td align="right"><b>1,269</b></td>
+<td align="right">59</td>
 <td>Java</td>
 </tr>
 <tr>
@@ -462,6 +462,69 @@
 <td align="right">62</td>
 <td>TypeScript</td>
 </tr>
+<tr>
+<td align="right">64</td>
+<td><img src="https://github.com/kasteckis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kasteckis/TempFastMail"><b>kasteckis/TempFastMail</b></a><br><sub>Self Hosted Temporary Fast Email Box</sub></td>
+<td align="right"><b>405</b></td>
+<td align="right">49</td>
+<td>PHP</td>
+</tr>
+<tr>
+<td align="right">65</td>
+<td><img src="https://github.com/bring-shrubbery.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/bring-shrubbery/use-cookie-consent"><b>bring-shrubbery/use-cookie-consent</b></a><br><sub>Smol (~1kB gzipped) hook for managing GDPR cookie consent state.</sub></td>
+<td align="right"><b>402</b></td>
+<td align="right">15</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">66</td>
+<td><img src="https://github.com/it-incubator.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/it-incubator/musicfun-react-all-stacks"><b>it-incubator/musicfun-react-all-stacks</b></a><br><sub>Musicfun - state management showcase</sub></td>
+<td align="right"><b>401</b></td>
+<td align="right">19</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">67</td>
+<td><img src="https://github.com/gytis-ivaskevicius.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/gytis-ivaskevicius/high-quality-nix-content"><b>gytis-ivaskevicius/high-quality-nix-content</b></a><br><sub>GitHub repository containing highest quality Nix/NixOS content</sub></td>
+<td align="right"><b>397</b></td>
+<td align="right">26</td>
+<td>Nix</td>
+</tr>
+<tr>
+<td align="right">68</td>
+<td><img src="https://github.com/Nercury.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Nercury/rust-and-opengl-lessons"><b>Nercury/rust-and-opengl-lessons</b></a><br><sub>Collection of example code for learning OpenGL in Rust</sub></td>
+<td align="right"><b>394</b></td>
+<td align="right">49</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td align="right">69</td>
+<td><img src="https://github.com/m-khvoinitsky.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/m-khvoinitsky/dark-background-light-text-extension"><b>m-khvoinitsky/dark-background-light-text-extension</b></a><br><sub>Firefox addon that turns every page colors into &quot;light text on dark background&quot;</sub></td>
+<td align="right"><b>391</b></td>
+<td align="right">34</td>
+<td>TypeScript</td>
+</tr>
+<tr>
+<td align="right">70</td>
+<td><img src="https://github.com/aras-p.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aras-p/dod-playground"><b>aras-p/dod-playground</b></a><br><sub>Sample OOP/ECS/DOD project (C++) for an internal Unity lecture in 2018</sub></td>
+<td align="right"><b>385</b></td>
+<td align="right">49</td>
+<td>C++</td>
+</tr>
+<tr>
+<td align="right">71</td>
+<td><img src="https://github.com/zmedelis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/zmedelis/bosquet"><b>zmedelis/bosquet</b></a><br><sub>Tooling to build LLM applications: prompt templating and composition, agents, LLM memory, and other instruments for bui…</sub></td>
+<td align="right"><b>379</b></td>
+<td align="right">28</td>
+<td>Clojure</td>
+</tr>
+<tr>
+<td align="right">72</td>
+<td><img src="https://github.com/quassum.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/quassum/SwiftUI-Tooltip"><b>quassum/SwiftUI-Tooltip</b></a><br><sub>Easy Tooltip for your SwiftUI Project</sub></td>
+<td align="right"><b>375</b></td>
+<td align="right">47</td>
+<td>Swift</td>
+</tr>
 </tbody>
 </table>
 
@@ -470,8 +533,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 429 stars; 63 attributed candidates are tracked.
-- 105 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 375 stars; 72 attributed candidates are tracked.
+- 102 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 135 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

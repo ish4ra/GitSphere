@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **80** | 23 Nov 2026 | <a href="../data/ZA.json">JSON</a> |
+| 🟡 Provisional | **83** | 24 Nov 2026 | <a href="../data/ZA.json">JSON</a> |
 
 </div>
 
@@ -143,14 +143,14 @@
 <tr>
 <td align="right">18</td>
 <td><img src="https://github.com/alexmojaki.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexmojaki/snoop"><b>alexmojaki/snoop</b></a><br><sub>A powerful set of Python debugging tools, based on PySnooper</sub></td>
-<td align="right"><b>1,461</b></td>
-<td align="right">44</td>
+<td align="right"><b>1,460</b></td>
+<td align="right">43</td>
 <td>Python</td>
 </tr>
 <tr>
 <td align="right">19</td>
 <td><img src="https://github.com/Trixarian.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/Trixarian/NetherSX2-classic"><b>Trixarian/NetherSX2-classic</b></a><br><sub>Continuation of NetherSX2 based on AetherSX2 3668</sub></td>
-<td align="right"><b>1,249</b></td>
+<td align="right"><b>1,251</b></td>
 <td align="right">41</td>
 <td>HTML</td>
 </tr>
@@ -581,6 +581,27 @@
 <td align="right">153</td>
 <td>Dart</td>
 </tr>
+<tr>
+<td align="right">81</td>
+<td><img src="https://github.com/alexmojaki.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/alexmojaki/executing"><b>alexmojaki/executing</b></a><br><sub>Get information about what a Python frame is currently doing, particularly the AST node being executed</sub></td>
+<td align="right"><b>404</b></td>
+<td align="right">42</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">82</td>
+<td><img src="https://github.com/faucamp.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/faucamp/python-gsmmodem"><b>faucamp/python-gsmmodem</b></a><br><sub>Python module to control a GSM modem attached to the system: send/receive SMS messages, handle calls, etc</sub></td>
+<td align="right"><b>396</b></td>
+<td align="right">315</td>
+<td>Python</td>
+</tr>
+<tr>
+<td align="right">83</td>
+<td><img src="https://github.com/xXxTheDarkprogramerxXx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/xXxTheDarkprogramerxXx/PS4_Tools"><b>xXxTheDarkprogramerxXx/PS4&#95;Tools</b></a><br><sub>Collection Of Open Source PS4 Tools all in one Library All Written in C#</sub></td>
+<td align="right"><b>376</b></td>
+<td align="right">47</td>
+<td>Java</td>
+</tr>
 </tbody>
 </table>
 
@@ -589,8 +610,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 411 stars; 80 attributed candidates are tracked.
-- 114 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 376 stars; 83 attributed candidates are tracked.
+- 113 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 144 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -1,10 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"FK","name":"Falkland Islands","slug":"falkland-islands"},
-"count": 13,
+"count": 11,
 "repositories": [
-  {"name":"brian-j/BNJs-Liferay-Fragments","stars":1,"forks":0,"archived":false,"createdAt":"2012-02-07T18:00:01Z","pushedAt":"2012-10-03T15:22:46Z","owner":{"login":"brian-j","type":"User","name":"Brian Jamieson","location":"Falkland Islands"},"attribution":{"code":"FK","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T20:57:59.393Z","id":"legacy:brian-j/bnjs-liferay-fragments","legacy":true},
-  {"name":"toastershock/PDF","stars":1,"forks":0,"language":"R","archived":false,"createdAt":"2023-09-28T18:05:09Z","pushedAt":"2023-09-28T18:05:13Z","owner":{"login":"toastershock","type":"User","location":"Falkland Islands"},"attribution":{"code":"FK","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T20:57:59.393Z","id":"legacy:toastershock/pdf","legacy":true},
   {"name":"Dunedayl/KNTU-2023","stars":0,"forks":0,"language":"HTML","archived":false,"createdAt":"2023-10-16T12:45:55Z","pushedAt":"2023-10-17T10:55:50Z","owner":{"login":"Dunedayl","type":"User","name":"Valentine Romantsov","location":"Falkland islands"},"attribution":{"code":"FK","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T20:57:59.393Z","id":"legacy:dunedayl/kntu-2023","legacy":true},
   {"name":"Jansen27/Student","stars":0,"forks":0,"archived":false,"createdAt":"2017-03-05T18:15:07Z","pushedAt":"2017-03-05T18:15:07Z","owner":{"login":"Jansen27","type":"User","name":"Jansen Reolada","location":"Stanley, Falkland Islands"},"attribution":{"code":"FK","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-25T20:57:59.393Z","id":"legacy:jansen27/student","legacy":true},
   {"name":"martinglhf/paraliparis-bathypelagicus-poster-references","stars":0,"forks":0,"language":"HTML","archived":false,"createdAt":"2026-03-06T11:48:01Z","pushedAt":"2026-03-06T12:00:55Z","owner":{"login":"martinglhf","type":"User","name":"Martín Villarroel Pérez","location":"Stanley, Falkland Islands"},"attribution":{"code":"FK","confidence":"high","evidence":"explicit-country-with-place"},"seenAt":"2026-10-25T20:57:59.393Z","id":"legacy:martinglhf/paraliparis-bathypelagicus-poster-references","legacy":true},

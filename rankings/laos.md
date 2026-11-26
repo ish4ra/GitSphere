@@ -26,8 +26,8 @@
 <tr>
 <td align="right">1</td>
 <td><img src="https://github.com/opensoldat.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/opensoldat/opensoldat"><b>opensoldat/opensoldat</b></a><br><sub>OpenSoldat is a unique 2D (side-view) multiplayer action game</sub></td>
-<td align="right"><b>1,466</b></td>
-<td align="right">100</td>
+<td align="right"><b>1,467</b></td>
+<td align="right">99</td>
 <td>Pascal</td>
 </tr>
 <tr>

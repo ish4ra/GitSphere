@@ -24,7 +24,7 @@
 <tr>
 <td align="right">1</td>
 <td><a href="https://github.com/hiteshchoudhary"><img src="https://avatars.githubusercontent.com/u/11613311?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/hiteshchoudhary"><b>Hitesh Choudhary</b></a><br><sub>&#64;hiteshchoudhary</sub></td>
-<td align="right"><b>61,768</b></td>
+<td align="right"><b>61,774</b></td>
 <td align="right">128</td>
 <td><sub>India</sub></td>
 </tr>
@@ -45,14 +45,14 @@
 <tr>
 <td align="right">4</td>
 <td><a href="https://github.com/in28minutes"><img src="https://avatars.githubusercontent.com/u/14139137?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/in28minutes"><b>in28minutes</b></a><br><sub>&#64;in28minutes</sub></td>
-<td align="right"><b>15,351</b></td>
+<td align="right"><b>15,352</b></td>
 <td align="right">105</td>
 <td><sub>Hyderabad, India</sub></td>
 </tr>
 <tr>
 <td align="right">5</td>
 <td><a href="https://github.com/anuraghazra"><img src="https://avatars.githubusercontent.com/u/35374649?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/anuraghazra"><b>Anurag Hazra</b></a><br><sub>&#64;anuraghazra</sub></td>
-<td align="right"><b>14,985</b></td>
+<td align="right"><b>14,990</b></td>
 <td align="right">139</td>
 <td><sub>India, West Bengal</sub></td>
 </tr>
@@ -73,7 +73,7 @@
 <tr>
 <td align="right">8</td>
 <td><a href="https://github.com/shradha-khapra"><img src="https://avatars.githubusercontent.com/u/34954810?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/shradha-khapra"><b>Shradha Khapra</b></a><br><sub>&#64;shradha-khapra</sub></td>
-<td align="right"><b>12,945</b></td>
+<td align="right"><b>12,950</b></td>
 <td align="right">24</td>
 <td><sub>New Delhi,India</sub></td>
 </tr>
@@ -213,7 +213,7 @@
 <tr>
 <td align="right">28</td>
 <td><a href="https://github.com/RameshMF"><img src="https://avatars.githubusercontent.com/u/21032758?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/RameshMF"><b>Ramesh Fadatare</b></a><br><sub>&#64;RameshMF</sub></td>
-<td align="right"><b>5,231</b></td>
+<td align="right"><b>5,230</b></td>
 <td align="right">260</td>
 <td><sub>Pune</sub></td>
 </tr>
@@ -227,7 +227,7 @@
 <tr>
 <td align="right">30</td>
 <td><a href="https://github.com/manjunath5496"><img src="https://avatars.githubusercontent.com/u/19967403?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/manjunath5496"><b>Manjunath.R</b></a><br><sub>&#64;manjunath5496</sub></td>
-<td align="right"><b>5,132</b></td>
+<td align="right"><b>5,141</b></td>
 <td align="right">1,560</td>
 <td><sub>Bangalore, India</sub></td>
 </tr>
@@ -304,7 +304,7 @@
 <tr>
 <td align="right">41</td>
 <td><a href="https://github.com/adi1090x"><img src="https://avatars.githubusercontent.com/u/26059688?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/adi1090x"><b>Aditya Shakya</b></a><br><sub>&#64;adi1090x</sub></td>
-<td align="right"><b>3,529</b></td>
+<td align="right"><b>3,530</b></td>
 <td align="right">19</td>
 <td><sub>India</sub></td>
 </tr>
@@ -346,7 +346,7 @@
 <tr>
 <td align="right">47</td>
 <td><a href="https://github.com/sayakpaul"><img src="https://avatars.githubusercontent.com/u/22957388?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sayakpaul"><b>Sayak Paul</b></a><br><sub>&#64;sayakpaul</sub></td>
-<td align="right"><b>3,340</b></td>
+<td align="right"><b>3,342</b></td>
 <td align="right">182</td>
 <td><sub>India</sub></td>
 </tr>
@@ -388,7 +388,7 @@
 <tr>
 <td align="right">53</td>
 <td><a href="https://github.com/sadanandpai"><img src="https://avatars.githubusercontent.com/u/12962887?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sadanandpai"><b>Sadanand Pai</b></a><br><sub>&#64;sadanandpai</sub></td>
-<td align="right"><b>3,145</b></td>
+<td align="right"><b>3,144</b></td>
 <td align="right">47</td>
 <td><sub>Bengaluru</sub></td>
 </tr>
@@ -401,17 +401,17 @@
 </tr>
 <tr>
 <td align="right">55</td>
+<td><a href="https://github.com/AnubhavChaturvedi-GitHub"><img src="https://avatars.githubusercontent.com/u/129895858?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AnubhavChaturvedi-GitHub"><b>Anubhav Chaturvedi</b></a><br><sub>&#64;AnubhavChaturvedi-GitHub</sub></td>
+<td align="right"><b>2,984</b></td>
+<td align="right">24</td>
+<td><sub>Banglore India</sub></td>
+</tr>
+<tr>
+<td align="right">56</td>
 <td><a href="https://github.com/TheAppWizard"><img src="https://avatars.githubusercontent.com/u/70090469?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/TheAppWizard"><b>Shreyas Bhike</b></a><br><sub>&#64;TheAppWizard</sub></td>
 <td align="right"><b>2,982</b></td>
 <td align="right">173</td>
 <td><sub>India</sub></td>
-</tr>
-<tr>
-<td align="right">56</td>
-<td><a href="https://github.com/AnubhavChaturvedi-GitHub"><img src="https://avatars.githubusercontent.com/u/129895858?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AnubhavChaturvedi-GitHub"><b>Anubhav Chaturvedi</b></a><br><sub>&#64;AnubhavChaturvedi-GitHub</sub></td>
-<td align="right"><b>2,979</b></td>
-<td align="right">24</td>
-<td><sub>Banglore India</sub></td>
 </tr>
 <tr>
 <td align="right">57</td>
@@ -493,7 +493,7 @@
 <tr>
 <td align="right">68</td>
 <td><a href="https://github.com/learning-zone"><img src="https://avatars.githubusercontent.com/u/10107543?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/learning-zone"><b>Pradeep Kumar</b></a><br><sub>&#64;learning-zone</sub></td>
-<td align="right"><b>2,670</b></td>
+<td align="right"><b>2,669</b></td>
 <td align="right">45</td>
 <td><sub>India</sub></td>
 </tr>
@@ -689,7 +689,7 @@
 <tr>
 <td align="right">96</td>
 <td><a href="https://github.com/darshilparmar"><img src="https://avatars.githubusercontent.com/u/22773771?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/darshilparmar"><b>Darshil Parmar</b></a><br><sub>&#64;darshilparmar</sub></td>
-<td align="right"><b>2,196</b></td>
+<td align="right"><b>2,197</b></td>
 <td align="right">63</td>
 <td><sub>Mumbai</sub></td>
 </tr>
@@ -745,7 +745,7 @@
 <tr>
 <td align="right">104</td>
 <td><a href="https://github.com/techiescamp"><img src="https://avatars.githubusercontent.com/u/106984297?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/techiescamp"><b>DevOpsCube</b></a><br><sub>&#64;techiescamp</sub></td>
-<td align="right"><b>2,111</b></td>
+<td align="right"><b>2,114</b></td>
 <td align="right">97</td>
 <td><sub>Bangalore</sub></td>
 </tr>
@@ -787,7 +787,7 @@
 <tr>
 <td align="right">110</td>
 <td><a href="https://github.com/devanshbatham"><img src="https://avatars.githubusercontent.com/u/28016517?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/devanshbatham"><b>Devansh Batham</b></a><br><sub>&#64;devanshbatham</sub></td>
-<td align="right"><b>2,051</b></td>
+<td align="right"><b>2,052</b></td>
 <td align="right">37</td>
 <td><sub>India</sub></td>
 </tr>
@@ -1479,17 +1479,17 @@
 </tr>
 <tr>
 <td align="right">209</td>
-<td><a href="https://github.com/saiyam1814"><img src="https://avatars.githubusercontent.com/u/8190114?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/saiyam1814"><b>Saiyam Pathak</b></a><br><sub>&#64;saiyam1814</sub></td>
-<td align="right"><b>1,300</b></td>
-<td align="right">250</td>
-<td><sub>Chandigarh, India</sub></td>
-</tr>
-<tr>
-<td align="right">210</td>
 <td><a href="https://github.com/jamesgeorge007"><img src="https://avatars.githubusercontent.com/u/25279263?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jamesgeorge007"><b>James George</b></a><br><sub>&#64;jamesgeorge007</sub></td>
 <td align="right"><b>1,298</b></td>
 <td align="right">266</td>
 <td><sub>Kottayam, Kerala, India</sub></td>
+</tr>
+<tr>
+<td align="right">210</td>
+<td><a href="https://github.com/saiyam1814"><img src="https://avatars.githubusercontent.com/u/8190114?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/saiyam1814"><b>Saiyam Pathak</b></a><br><sub>&#64;saiyam1814</sub></td>
+<td align="right"><b>1,298</b></td>
+<td align="right">250</td>
+<td><sub>Chandigarh, India</sub></td>
 </tr>
 <tr>
 <td align="right">211</td>
@@ -1556,17 +1556,17 @@
 </tr>
 <tr>
 <td align="right">220</td>
+<td><a href="https://github.com/AmanPathak-DevOps"><img src="https://avatars.githubusercontent.com/u/85124250?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AmanPathak-DevOps"><b>Aman Pathak</b></a><br><sub>&#64;AmanPathak-DevOps</sub></td>
+<td align="right"><b>1,253</b></td>
+<td align="right">53</td>
+<td><sub>Delhi</sub></td>
+</tr>
+<tr>
+<td align="right">221</td>
 <td><a href="https://github.com/sunaynatalreja"><img src="https://avatars.githubusercontent.com/u/52531057?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/sunaynatalreja"><b>Sunayna Talreja</b></a><br><sub>&#64;sunaynatalreja</sub></td>
 <td align="right"><b>1,252</b></td>
 <td align="right">20</td>
 <td><sub>Bangalore</sub></td>
-</tr>
-<tr>
-<td align="right">221</td>
-<td><a href="https://github.com/AmanPathak-DevOps"><img src="https://avatars.githubusercontent.com/u/85124250?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AmanPathak-DevOps"><b>Aman Pathak</b></a><br><sub>&#64;AmanPathak-DevOps</sub></td>
-<td align="right"><b>1,251</b></td>
-<td align="right">53</td>
-<td><sub>Delhi</sub></td>
 </tr>
 <tr>
 <td align="right">222</td>
@@ -1795,7 +1795,7 @@
 <tr>
 <td align="right">254</td>
 <td><a href="https://github.com/ValaxyTech"><img src="https://avatars.githubusercontent.com/u/40397252?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ValaxyTech"><b>Valaxy Technologies</b></a><br><sub>&#64;ValaxyTech</sub></td>
-<td align="right"><b>1,138</b></td>
+<td align="right"><b>1,139</b></td>
 <td align="right">31</td>
 <td><sub>Bangalore</sub></td>
 </tr>
@@ -1920,17 +1920,17 @@
 </tr>
 <tr>
 <td align="right">272</td>
-<td><a href="https://github.com/farizrahman4u"><img src="https://avatars.githubusercontent.com/u/11006006?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/farizrahman4u"><b>Fariz Rahman</b></a><br><sub>&#64;farizrahman4u</sub></td>
-<td align="right"><b>1,083</b></td>
-<td align="right">85</td>
-<td><sub>Kochi, India</sub></td>
-</tr>
-<tr>
-<td align="right">273</td>
 <td><a href="https://github.com/AkashSingh3031"><img src="https://avatars.githubusercontent.com/u/60146338?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/AkashSingh3031"><b>Akash Singh</b></a><br><sub>&#64;AkashSingh3031</sub></td>
 <td align="right"><b>1,083</b></td>
 <td align="right">84</td>
 <td><sub>India</sub></td>
+</tr>
+<tr>
+<td align="right">273</td>
+<td><a href="https://github.com/farizrahman4u"><img src="https://avatars.githubusercontent.com/u/11006006?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/farizrahman4u"><b>Fariz Rahman</b></a><br><sub>&#64;farizrahman4u</sub></td>
+<td align="right"><b>1,082</b></td>
+<td align="right">85</td>
+<td><sub>Kochi, India</sub></td>
 </tr>
 <tr>
 <td align="right">274</td>
@@ -2306,7 +2306,7 @@
 <tr>
 <td align="right">327</td>
 <td><a href="https://github.com/ishandutta0098"><img src="https://avatars.githubusercontent.com/u/47643789?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ishandutta0098"><b>Ishan Dutta</b></a><br><sub>&#64;ishandutta0098</sub></td>
-<td align="right"><b>945</b></td>
+<td align="right"><b>946</b></td>
 <td align="right">115</td>
 <td><sub>Bengaluru, Karnataka</sub></td>
 </tr>
@@ -3390,24 +3390,24 @@
 </tr>
 <tr>
 <td align="right">482</td>
+<td><a href="https://github.com/vinayakkulkarni"><img src="https://avatars.githubusercontent.com/u/19776877?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vinayakkulkarni"><b>Vinayak Kulkarni</b></a><br><sub>&#64;vinayakkulkarni</sub></td>
+<td align="right"><b>689</b></td>
+<td align="right">124</td>
+<td><sub>Pune, India</sub></td>
+</tr>
+<tr>
+<td align="right">483</td>
 <td><a href="https://github.com/PragatiVerma18"><img src="https://avatars.githubusercontent.com/u/42115530?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/PragatiVerma18"><b>Pragati Verma</b></a><br><sub>&#64;PragatiVerma18</sub></td>
 <td align="right"><b>689</b></td>
 <td align="right">113</td>
 <td><sub>India</sub></td>
 </tr>
 <tr>
-<td align="right">483</td>
+<td align="right">484</td>
 <td><a href="https://github.com/cyberkallan"><img src="https://avatars.githubusercontent.com/u/56509491?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/cyberkallan"><b>Arjun T M</b></a><br><sub>&#64;cyberkallan</sub></td>
 <td align="right"><b>689</b></td>
 <td align="right">63</td>
 <td><sub>Kerala</sub></td>
-</tr>
-<tr>
-<td align="right">484</td>
-<td><a href="https://github.com/vinayakkulkarni"><img src="https://avatars.githubusercontent.com/u/19776877?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/vinayakkulkarni"><b>Vinayak Kulkarni</b></a><br><sub>&#64;vinayakkulkarni</sub></td>
-<td align="right"><b>688</b></td>
-<td align="right">124</td>
-<td><sub>Pune, India</sub></td>
 </tr>
 <tr>
 <td align="right">485</td>
@@ -4706,17 +4706,17 @@
 </tr>
 <tr>
 <td align="right">670</td>
+<td><a href="https://github.com/pacman100"><img src="https://avatars.githubusercontent.com/u/13534540?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pacman100"><b>Sourab Mangrulkar</b></a><br><sub>&#64;pacman100</sub></td>
+<td align="right"><b>532</b></td>
+<td align="right">53</td>
+<td><sub>🇮🇳</sub></td>
+</tr>
+<tr>
+<td align="right">671</td>
 <td><a href="https://github.com/ankush"><img src="https://avatars.githubusercontent.com/u/9079960?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/ankush"><b>Ankush Menat</b></a><br><sub>&#64;ankush</sub></td>
 <td align="right"><b>531</b></td>
 <td align="right">83</td>
 <td><sub>Mumbai</sub></td>
-</tr>
-<tr>
-<td align="right">671</td>
-<td><a href="https://github.com/pacman100"><img src="https://avatars.githubusercontent.com/u/13534540?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pacman100"><b>Sourab Mangrulkar</b></a><br><sub>&#64;pacman100</sub></td>
-<td align="right"><b>531</b></td>
-<td align="right">53</td>
-<td><sub>🇮🇳</sub></td>
 </tr>
 <tr>
 <td align="right">672</td>
@@ -5371,59 +5371,59 @@
 </tr>
 <tr>
 <td align="right">765</td>
+<td><a href="https://github.com/pushpak1300"><img src="https://avatars.githubusercontent.com/u/31663512?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pushpak1300"><b>Pushpak Chhajed</b></a><br><sub>&#64;pushpak1300</sub></td>
+<td align="right"><b>482</b></td>
+<td align="right">80</td>
+<td><sub>India</sub></td>
+</tr>
+<tr>
+<td align="right">766</td>
 <td><a href="https://github.com/IamJapneet"><img src="https://avatars.githubusercontent.com/u/86841118?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/IamJapneet"><b>Japneet Singh</b></a><br><sub>&#64;IamJapneet</sub></td>
 <td align="right"><b>482</b></td>
 <td align="right">16</td>
 <td><sub>New Delhi</sub></td>
 </tr>
 <tr>
-<td align="right">766</td>
+<td align="right">767</td>
 <td><a href="https://github.com/Yash-Kavaiya"><img src="https://avatars.githubusercontent.com/u/103239923?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/Yash-Kavaiya"><b>Yash Kavaiya</b></a><br><sub>&#64;Yash-Kavaiya</sub></td>
 <td align="right"><b>481</b></td>
 <td align="right">563</td>
 <td><sub>Pune</sub></td>
 </tr>
 <tr>
-<td align="right">767</td>
+<td align="right">768</td>
 <td><a href="https://github.com/prathamesh-sonpatki"><img src="https://avatars.githubusercontent.com/u/621238?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/prathamesh-sonpatki"><b>प्रथमेश Sonpatki</b></a><br><sub>&#64;prathamesh-sonpatki</sub></td>
 <td align="right"><b>480</b></td>
 <td align="right">253</td>
 <td><sub>Pune, India</sub></td>
 </tr>
 <tr>
-<td align="right">768</td>
+<td align="right">769</td>
 <td><a href="https://github.com/EtishaGarg"><img src="https://avatars.githubusercontent.com/u/97215166?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/EtishaGarg"><b>Etisha Garg</b></a><br><sub>&#64;EtishaGarg</sub></td>
 <td align="right"><b>480</b></td>
 <td align="right">58</td>
 <td><sub>New Delhi, India</sub></td>
 </tr>
 <tr>
-<td align="right">769</td>
+<td align="right">770</td>
 <td><a href="https://github.com/dalmia"><img src="https://avatars.githubusercontent.com/u/13185699?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/dalmia"><b>Aman Dalmia</b></a><br><sub>&#64;dalmia</sub></td>
 <td align="right"><b>479</b></td>
 <td align="right">87</td>
 <td><sub>Bengaluru, India</sub></td>
 </tr>
 <tr>
-<td align="right">770</td>
+<td align="right">771</td>
 <td><a href="https://github.com/harishsehlangia"><img src="https://avatars.githubusercontent.com/u/187415267?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/harishsehlangia"><b>Harish Sehlangia</b></a><br><sub>&#64;harishsehlangia</sub></td>
 <td align="right"><b>478</b></td>
 <td align="right">14</td>
 <td><sub>New Delhi</sub></td>
 </tr>
 <tr>
-<td align="right">771</td>
+<td align="right">772</td>
 <td><a href="https://github.com/abhisek"><img src="https://avatars.githubusercontent.com/u/31844?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/abhisek"><b>Abhisek Datta</b></a><br><sub>&#64;abhisek</sub></td>
 <td align="right"><b>477</b></td>
 <td align="right">84</td>
 <td><sub>Bangalore, India</sub></td>
-</tr>
-<tr>
-<td align="right">772</td>
-<td><a href="https://github.com/pushpak1300"><img src="https://avatars.githubusercontent.com/u/31663512?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/pushpak1300"><b>Pushpak Chhajed</b></a><br><sub>&#64;pushpak1300</sub></td>
-<td align="right"><b>477</b></td>
-<td align="right">80</td>
-<td><sub>India</sub></td>
 </tr>
 <tr>
 <td align="right">773</td>
@@ -5630,31 +5630,31 @@
 </tr>
 <tr>
 <td align="right">802</td>
+<td><a href="https://github.com/bhikandeshmukh"><img src="https://avatars.githubusercontent.com/u/43442901?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bhikandeshmukh"><b>BHIKAN DESHMUKH</b></a><br><sub>&#64;bhikandeshmukh</sub></td>
+<td align="right"><b>465</b></td>
+<td align="right">92</td>
+<td><sub>Surat</sub></td>
+</tr>
+<tr>
+<td align="right">803</td>
 <td><a href="https://github.com/jace"><img src="https://avatars.githubusercontent.com/u/26695?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/jace"><b>Kiran Jonnalagadda</b></a><br><sub>&#64;jace</sub></td>
 <td align="right"><b>465</b></td>
 <td align="right">52</td>
 <td><sub>Bangalore, India</sub></td>
 </tr>
 <tr>
-<td align="right">803</td>
+<td align="right">804</td>
 <td><a href="https://github.com/freakynit"><img src="https://avatars.githubusercontent.com/u/745352?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/freakynit"><b>Nitin Bansal</b></a><br><sub>&#64;freakynit</sub></td>
 <td align="right"><b>464</b></td>
 <td align="right">269</td>
 <td><sub>India</sub></td>
 </tr>
 <tr>
-<td align="right">804</td>
+<td align="right">805</td>
 <td><a href="https://github.com/santhoshtr"><img src="https://avatars.githubusercontent.com/u/161672?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/santhoshtr"><b>Santhosh Thottingal</b></a><br><sub>&#64;santhoshtr</sub></td>
 <td align="right"><b>464</b></td>
 <td align="right">176</td>
 <td><sub>Thiruvananthapuram, Kerala, India</sub></td>
-</tr>
-<tr>
-<td align="right">805</td>
-<td><a href="https://github.com/bhikandeshmukh"><img src="https://avatars.githubusercontent.com/u/43442901?s=64&v=4" width="32" height="32" alt="" align="left"></a><a href="https://github.com/bhikandeshmukh"><b>BHIKAN DESHMUKH</b></a><br><sub>&#64;bhikandeshmukh</sub></td>
-<td align="right"><b>464</b></td>
-<td align="right">92</td>
-<td><sub>Surat</sub></td>
 </tr>
 <tr>
 <td align="right">806</td>
@@ -7029,7 +7029,7 @@
 
 - **Status:** Published. The global scan has verified every entry above this ranking’s cutoff.
 - **Basis:** certified by the global follower scan — every developer above this cutoff has been enumerated.
-- Organizations are excluded. 1,829 attributed developers are tracked; the cutoff is 402 followers.
+- Organizations are excluded. 1,854 attributed developers are tracked; the cutoff is 402 followers.
 - **Location discovery:** term 0 of 185 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

@@ -5,7 +5,7 @@
 "country": {"code":"PS","name":"Palestine","slug":"palestine"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":79,"ownerExpansionBacklog":138,"candidates":81,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":141,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":1,"legacyEntriesPendingRevalidation":79,"ownerExpansionBacklog":133,"candidates":81,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":0,"terms":141,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":"MDEwOlJlcG9zaXRvcnkxOTkzMzc0Njg=","name":"responsive-viewer","nameWithOwner":"skmail/responsive-viewer","url":"https://github.com/skmail/responsive-viewer","description":"Responsive Viewer - chrome extension to show multiple screens in one view.","stars":848,"forks":94,"primaryLanguage":"TypeScript","license":{"spdxId":"MIT"},"createdAt":"2019-07-28T21:09:40Z","pushedAt":"2025-10-12T08:46:47Z","archived":false,"owner":{"login":"skmail","name":null,"type":"User","url":"https://github.com/skmail","location":"Palestine","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-24"},
   {"rank":2,"id":"MDEwOlJlcG9zaXRvcnkyODk1NTYyMjY=","name":"headers-css","nameWithOwner":"shadeed/headers-css","url":"https://github.com/shadeed/headers-css","description":"The blueprint HTML and CSS for 17+ website headers","stars":518,"forks":80,"primaryLanguage":"HTML","license":null,"createdAt":"2020-08-22T19:47:35Z","pushedAt":"2020-11-01T10:01:01Z","archived":false,"owner":{"login":"shadeed","name":"Ahmad Shadeed","type":"User","url":"https://github.com/shadeed","location":"Tulkarm, Palestine","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-25"},
@@ -89,8 +89,8 @@
   {"rank":80,"id":null,"name":"shop-app","nameWithOwner":"dubaik/shop-app","url":"https://github.com/dubaik/shop-app","description":null,"stars":1,"forks":0,"primaryLanguage":"Dart","license":null,"createdAt":"2022-07-25T10:18:31Z","pushedAt":"2022-07-25T10:21:10Z","archived":false,"owner":{"login":"dubaik","name":"Mahmoud Dubaik","type":"User","url":"https://github.com/dubaik","location":"Palestine","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true},
   {"rank":81,"id":null,"name":"rag-similarity-search-engine","nameWithOwner":"Ebrwa/rag-similarity-search-engine","url":"https://github.com/Ebrwa/rag-similarity-search-engine","description":null,"stars":1,"forks":0,"primaryLanguage":"Python","license":null,"createdAt":"2026-07-24T10:27:09Z","pushedAt":"2026-08-10T15:51:32Z","archived":false,"owner":{"login":"Ebrwa","name":"Ibrahim Bileh","type":"User","url":"https://github.com/Ebrwa","location":"Palestine","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-02","pendingRevalidation":true}
 ],
-"contentHash": "ccf2cb2a04e42f76",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "9232989cf89a6454",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-02",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

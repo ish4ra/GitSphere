@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟡 Provisional | **59** | 23 Nov 2026 | <a href="../data/LV.json">JSON</a> |
+| 🟡 Provisional | **64** | 24 Nov 2026 | <a href="../data/LV.json">JSON</a> |
 
 </div>
 
@@ -143,7 +143,7 @@
 <tr>
 <td align="right">18</td>
 <td><img src="https://github.com/martinsbalodis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/martinsbalodis/web-scraper-chrome-extension"><b>martinsbalodis/web-scraper-chrome-extension</b></a><br><sub>Web data extraction tool implemented as chrome extension</sub></td>
-<td align="right"><b>1,363</b></td>
+<td align="right"><b>1,362</b></td>
 <td align="right">433</td>
 <td>JavaScript</td>
 </tr>
@@ -164,14 +164,14 @@
 <tr>
 <td align="right">21</td>
 <td><img src="https://github.com/PKRoma.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/PKRoma/ProcessHacker"><b>PKRoma/ProcessHacker</b></a><br><sub>A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware—mirror…</sub></td>
-<td align="right"><b>1,214</b></td>
-<td align="right">202</td>
+<td align="right"><b>1,218</b></td>
+<td align="right">201</td>
 <td>C</td>
 </tr>
 <tr>
 <td align="right">22</td>
 <td><img src="https://github.com/arthepsy.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/arthepsy/CVE-2021-4034"><b>arthepsy/CVE-2021-4034</b></a><br><sub>PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)</sub></td>
-<td align="right"><b>1,174</b></td>
+<td align="right"><b>1,175</b></td>
 <td align="right">314</td>
 <td>C</td>
 </tr>
@@ -434,6 +434,41 @@
 <td align="right">7</td>
 <td>C++</td>
 </tr>
+<tr>
+<td align="right">60</td>
+<td><img src="https://github.com/ChiliLabs.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ChiliLabs/ChiliPhotoPicker"><b>ChiliLabs/ChiliPhotoPicker</b></a><br><sub>Photo picker library for android. Let&#39;s you pick photos directly from files, or navigate to camera or gallery.</sub></td>
+<td align="right"><b>407</b></td>
+<td align="right">47</td>
+<td>Kotlin</td>
+</tr>
+<tr>
+<td align="right">61</td>
+<td><img src="https://github.com/yarlson.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/yarlson/ftl"><b>yarlson/ftl</b></a><br><sub>FTL: faster than light deployment</sub></td>
+<td align="right"><b>400</b></td>
+<td align="right">8</td>
+<td>Go</td>
+</tr>
+<tr>
+<td align="right">62</td>
+<td><img src="https://github.com/puikinsh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/puikinsh/notika"><b>puikinsh/notika</b></a><br><sub>Free Bootstrap admin dashboard</sub></td>
+<td align="right"><b>394</b></td>
+<td align="right">223</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">63</td>
+<td><img src="https://github.com/ONLYOFFICE.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ONLYOFFICE/web-apps"><b>ONLYOFFICE/web-apps</b></a><br><sub>The frontend for ONLYOFFICE Document Server which builds the program interface</sub></td>
+<td align="right"><b>387</b></td>
+<td align="right">437</td>
+<td>HTML</td>
+</tr>
+<tr>
+<td align="right">64</td>
+<td><img src="https://github.com/denis-g.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/denis-g/windows10-latency-optimization"><b>denis-g/windows10-latency-optimization</b></a><br><sub>:rocket: Windows 10/11 Latency Optimization – гайд про оптимизацию Windows и уменьшение задержек (latency, input-lag, t…</sub></td>
+<td align="right"><b>387</b></td>
+<td align="right">29</td>
+<td>Batchfile</td>
+</tr>
 </tbody>
 </table>
 
@@ -442,8 +477,8 @@
 
 - **Status:** Provisional. These are verified results found so far; deeper discovery is still running and the list may change.
 - **Basis:** partial — discovery is still running. The current global star-scan level is reported in [`data/summary.json`](../data/summary.json).
-- **Cutoff:** the last listed repository has 417 stars; 59 attributed candidates are tracked.
-- 104 multi-repository owners are queued for expansion.
+- **Cutoff:** the last listed repository has 387 stars; 64 attributed candidates are tracked.
+- 101 multi-repository owners are queued for expansion.
 - **Location discovery:** term 0 of 136 in round 1.
 - Country attribution uses the public GitHub profile location only — not citizenship, nationality, IP address or legal incorporation. Ambiguous and unrecognized locations are excluded, never guessed.
 

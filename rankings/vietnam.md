@@ -14,7 +14,7 @@
 
 | Status | Repositories | Oldest verification | Data |
 | :---: | :---: | :---: | :---: |
-| 🟢 Published | **100** | 23 Nov 2026 | <a href="../data/VN.json">JSON</a> |
+| 🟢 Published | **100** | 24 Nov 2026 | <a href="../data/VN.json">JSON</a> |
 
 </div>
 
@@ -457,37 +457,37 @@
 </tr>
 <tr>
 <td align="right">63</td>
+<td><img src="https://github.com/viettranx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/viettranx/3dviz-pro-max"><b>viettranx/3dviz-pro-max</b></a><br><sub>Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Co…</sub></td>
+<td align="right"><b>1,515</b></td>
+<td align="right">175</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">64</td>
 <td><img src="https://github.com/kakserpom.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/kakserpom/phpdaemon"><b>kakserpom/phpdaemon</b></a><br><sub>Asynchronous server-side framework for network applications implemented in PHP using libevent</sub></td>
 <td align="right"><b>1,509</b></td>
 <td align="right">221</td>
 <td>PHP</td>
 </tr>
 <tr>
-<td align="right">64</td>
+<td align="right">65</td>
 <td><img src="https://github.com/serwist.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/serwist/serwist"><b>serwist/serwist</b></a><br><sub>A Swiss Army knife for service workers.</sub></td>
 <td align="right"><b>1,508</b></td>
 <td align="right">39</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">65</td>
+<td align="right">66</td>
 <td><img src="https://github.com/aiko-chan-ai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aiko-chan-ai/DiscordBotClient"><b>aiko-chan-ai/DiscordBotClient</b></a><br><sub>A patched version of Discord, with bot login &amp; Vencord support</sub></td>
 <td align="right"><b>1,506</b></td>
 <td align="right">115</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">66</td>
-<td><img src="https://github.com/viettranx.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/viettranx/3dviz-pro-max"><b>viettranx/3dviz-pro-max</b></a><br><sub>Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Co…</sub></td>
-<td align="right"><b>1,477</b></td>
-<td align="right">169</td>
-<td>JavaScript</td>
-</tr>
-<tr>
 <td align="right">67</td>
 <td><img src="https://github.com/thinh-vu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thinh-vu/vnstock"><b>thinh-vu/vnstock</b></a><br><sub>A beginner-friendly yet powerful Python toolkit for financial analysis and automation — built to make modern investing…</sub></td>
-<td align="right"><b>1,423</b></td>
-<td align="right">294</td>
+<td align="right"><b>1,426</b></td>
+<td align="right">295</td>
 <td>—</td>
 </tr>
 <tr>
@@ -508,13 +508,13 @@
 <td align="right">70</td>
 <td><img src="https://github.com/thangchung.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/thangchung/clean-architecture-dotnet"><b>thangchung/clean-architecture-dotnet</b></a><br><sub>🕸 Yet Another .NET Clean Architecture, but for Microservices project. It uses Minimal Clean Architecture with DDD-lite…</sub></td>
 <td align="right"><b>1,362</b></td>
-<td align="right">288</td>
+<td align="right">287</td>
 <td>C#</td>
 </tr>
 <tr>
 <td align="right">71</td>
 <td><img src="https://github.com/versenilvis.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/versenilvis/IRIS"><b>versenilvis/IRIS</b></a><br><sub>A shell auto-completion tool for your terminal</sub></td>
-<td align="right"><b>1,336</b></td>
+<td align="right"><b>1,335</b></td>
 <td align="right">54</td>
 <td>Go</td>
 </tr>
@@ -535,50 +535,50 @@
 <tr>
 <td align="right">74</td>
 <td><img src="https://github.com/wpmetabox.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/wpmetabox/meta-box"><b>wpmetabox/meta-box</b></a><br><sub>The best plugin for WordPress custom fields and custom meta boxes</sub></td>
-<td align="right"><b>1,248</b></td>
-<td align="right">407</td>
+<td align="right"><b>1,247</b></td>
+<td align="right">406</td>
 <td>PHP</td>
 </tr>
 <tr>
 <td align="right">75</td>
-<td><img src="https://github.com/aiko-chan-ai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aiko-chan-ai/discord.js-selfbot-v13"><b>aiko-chan-ai/discord.js-selfbot-v13</b></a> <sub>archived</sub><br><sub>An unofficial discord.js fork for creating selfbots</sub></td>
+<td><img src="https://github.com/ChatbotXIO.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ChatbotXIO/ChatbotX"><b>ChatbotXIO/ChatbotX</b></a><br><sub>Open-source ManyChat alternative, built for AI. Omnichannel marketing across WhatsApp, TikTok, Facebook, Instagram, Tel…</sub></td>
 <td align="right"><b>1,232</b></td>
-<td align="right">284</td>
-<td>JavaScript</td>
+<td align="right">387</td>
+<td>TypeScript</td>
 </tr>
 <tr>
 <td align="right">76</td>
+<td><img src="https://github.com/aiko-chan-ai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/aiko-chan-ai/discord.js-selfbot-v13"><b>aiko-chan-ai/discord.js-selfbot-v13</b></a> <sub>archived</sub><br><sub>An unofficial discord.js fork for creating selfbots</sub></td>
+<td align="right"><b>1,230</b></td>
+<td align="right">283</td>
+<td>JavaScript</td>
+</tr>
+<tr>
+<td align="right">77</td>
 <td><img src="https://github.com/dungngminh.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/dungngminh/simutil"><b>dungngminh/simutil</b></a><br><sub>Utilities for Android emulators, iOS simulators and real devices: launch, stream, control, record and automate them fro…</sub></td>
-<td align="right"><b>1,226</b></td>
+<td align="right"><b>1,227</b></td>
 <td align="right">142</td>
 <td>Dart</td>
 </tr>
 <tr>
-<td align="right">77</td>
+<td align="right">78</td>
 <td><img src="https://github.com/KhoaSuperman.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/KhoaSuperman/findseat"><b>KhoaSuperman/findseat</b></a><br><sub>A Completed Functional Flutter App - FindSeat (BLoC + Json API + Unit Test + Firebase Auth)</sub></td>
-<td align="right"><b>1,212</b></td>
-<td align="right">357</td>
+<td align="right"><b>1,211</b></td>
+<td align="right">356</td>
 <td>Dart</td>
 </tr>
 <tr>
-<td align="right">78</td>
+<td align="right">79</td>
 <td><img src="https://github.com/vechai.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vechai/vechaiui"><b>vechai/vechaiui</b></a> <sub>archived</sub><br><sub>A set of high-quality accessible React UI components with the built-in dark mode using Tailwind CSS. Pre-designed headl…</sub></td>
 <td align="right"><b>1,207</b></td>
 <td align="right">64</td>
 <td>TypeScript</td>
 </tr>
 <tr>
-<td align="right">79</td>
-<td><img src="https://github.com/heyhuynhgiabuu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/heyhuynhgiabuu/proxypal"><b>heyhuynhgiabuu/proxypal</b></a><br><sub>A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. W…</sub></td>
-<td align="right"><b>1,198</b></td>
-<td align="right">227</td>
-<td>TypeScript</td>
-</tr>
-<tr>
 <td align="right">80</td>
-<td><img src="https://github.com/ChatbotXIO.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/ChatbotXIO/ChatbotX"><b>ChatbotXIO/ChatbotX</b></a><br><sub>Open-source ManyChat alternative, built for AI. Omnichannel marketing across WhatsApp, TikTok, Facebook, Instagram, Tel…</sub></td>
-<td align="right"><b>1,182</b></td>
-<td align="right">353</td>
+<td><img src="https://github.com/heyhuynhgiabuu.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/heyhuynhgiabuu/proxypal"><b>heyhuynhgiabuu/proxypal</b></a><br><sub>A desktop app that lets you use your AI subscriptions (Claude, ChatGPT, Gemini, GitHub Copilot) with any coding tool. W…</sub></td>
+<td align="right"><b>1,199</b></td>
+<td align="right">227</td>
 <td>TypeScript</td>
 </tr>
 <tr>
@@ -591,8 +591,8 @@
 <tr>
 <td align="right">82</td>
 <td><img src="https://github.com/vndee.png?size=40" width="20" height="20" alt=""> <a href="https://github.com/vndee/llm-sandbox"><b>vndee/llm-sandbox</b></a><br><sub>Lightweight and portable LLM sandbox runtime (code interpreter) Python library.</sub></td>
-<td align="right"><b>1,147</b></td>
-<td align="right">107</td>
+<td align="right"><b>1,149</b></td>
+<td align="right">108</td>
 <td>Python</td>
 </tr>
 <tr>

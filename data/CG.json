@@ -5,7 +5,7 @@
 "country": {"code":"CG","name":"Republic of the Congo","slug":"republic-of-the-congo"},
 "status": "stale",
 "source": {"provider":"GitHub GraphQL API","countryBasis":"public profile location of the repository owner"},
-"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":28,"ownerExpansionBacklog":148,"candidates":28,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":46,"unresolved":0},"exhaustive":false},
+"coverage": {"basis":"partial","cutoffStars":0,"legacyEntriesPendingRevalidation":28,"ownerExpansionBacklog":147,"candidates":28,"location":{"complete":false,"completeWithoutGaps":false,"round":1,"termIndex":2,"terms":46,"unresolved":0},"exhaustive":false},
 "repositories": [
   {"rank":1,"id":null,"name":"Jeu-studies-adventure","nameWithOwner":"Akilimali003/Jeu-studies-adventure","url":"https://github.com/Akilimali003/Jeu-studies-adventure","description":null,"stars":1,"forks":0,"primaryLanguage":"Java","license":null,"createdAt":"2018-12-26T09:11:05Z","pushedAt":"2022-01-01T19:22:08Z","archived":false,"owner":{"login":"Akilimali003","name":"Akilimali Samuel Vijey","type":"User","url":"https://github.com/Akilimali003","location":"Kinshasa, Congo DR","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":2,"id":null,"name":"spatial-segmentation-ebola-rdc","nameWithOwner":"andrekabemba/spatial-segmentation-ebola-rdc","url":"https://github.com/andrekabemba/spatial-segmentation-ebola-rdc","description":null,"stars":1,"forks":0,"primaryLanguage":"HTML","license":null,"createdAt":"2026-05-25T14:56:30Z","pushedAt":"2026-05-26T16:12:14Z","archived":false,"owner":{"login":"andrekabemba","name":"André Kabemba Tambwe","type":"User","url":"https://github.com/andrekabemba","location":"Bunia, Democratic Republic Of Congo","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
@@ -36,8 +36,8 @@
   {"rank":27,"id":null,"name":"brasserie","nameWithOwner":"yannickchoni/brasserie","url":"https://github.com/yannickchoni/brasserie","description":null,"stars":0,"forks":0,"primaryLanguage":"Kotlin","license":null,"createdAt":"2021-10-06T08:07:23Z","pushedAt":"2021-10-12T12:04:17Z","archived":false,"owner":{"login":"yannickchoni","name":"Yannick Choni","type":"User","url":"https://github.com/yannickchoni","location":"Lubumbashi, Congo DR","attribution":{"confidence":"high","evidence":"explicit-country"}},"verifiedOn":"2026-11-04","pendingRevalidation":true},
   {"rank":28,"id":null,"name":"AI-Learning-Journey","nameWithOwner":"yeabsirabirhanu/AI-Learning-Journey","url":"https://github.com/yeabsirabirhanu/AI-Learning-Journey","description":null,"stars":0,"forks":0,"primaryLanguage":null,"license":null,"createdAt":"2026-07-17T03:48:34Z","pushedAt":"2026-07-17T10:23:14Z","archived":false,"owner":{"login":"yeabsirabirhanu","name":"Yeabsira Birhanu","type":"User","url":"https://github.com/yeabsirabirhanu","location":"Brazzaville, Republic of the Congo","attribution":{"confidence":"high","evidence":"explicit-country-with-place"}},"verifiedOn":"2026-11-03","pendingRevalidation":true}
 ],
-"contentHash": "3615d53cd56aa0e2",
-"updatedAt": "2026-11-26T08:53:16.527Z",
+"contentHash": "df703c7ef3f76fba",
+"updatedAt": "2026-11-26T19:09:34.131Z",
 "verifiedOn": "2026-11-03",
-"generatedAt": "2026-11-26T08:53:16.527Z"
+"generatedAt": "2026-11-26T19:09:34.131Z"
 }

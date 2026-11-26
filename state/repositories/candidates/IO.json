@@ -1,9 +1,8 @@
 {
 "schemaVersion": 3,
 "country": {"code":"IO","name":"British Indian Ocean Territory","slug":"british-indian-ocean-territory"},
-"count": 13,
+"count": 12,
 "repositories": [
-  {"name":"dameon10325/spring_crud","stars":1,"forks":0,"language":"Java","archived":false,"createdAt":"2017-06-12T06:28:51Z","pushedAt":"2017-06-12T06:30:28Z","owner":{"login":"dameon10325","type":"User","name":"Dameon Price","location":"British Indian Ocean Territory (Chagos Archipelago)"},"attribution":{"code":"IO","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T11:44:46.677Z","id":"legacy:dameon10325/spring_crud","legacy":true},
   {"name":"ALGOBLOCKS/algoblocks-genesis-config","stars":0,"forks":1,"language":"Solidity","archived":false,"createdAt":"2023-03-30T05:36:37Z","pushedAt":"2023-04-13T12:43:37Z","owner":{"login":"ALGOBLOCKS","type":"Organization","name":"AlgoBlocks","location":"British Indian Ocean Territory"},"attribution":{"code":"IO","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T11:44:46.677Z","id":"legacy:algoblocks/algoblocks-genesis-config","legacy":true},
   {"name":"BootDAO/governance","stars":0,"forks":0,"archived":false,"createdAt":"2021-09-07T00:00:40Z","pushedAt":"2021-09-07T00:00:41Z","owner":{"login":"BootDAO","type":"Organization","name":"BootDAO","location":"British Indian Ocean Territory"},"attribution":{"code":"IO","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T11:44:46.677Z","id":"legacy:bootdao/governance","legacy":true},
   {"name":"inaplanet/inaplanetfoundation","stars":0,"forks":0,"language":"JavaScript","license":"MIT","archived":false,"createdAt":"2026-03-24T17:39:23Z","pushedAt":"2026-04-02T20:37:07Z","owner":{"login":"inaplanet","type":"User","name":"Elv","location":"British Indian Ocean Territory"},"attribution":{"code":"IO","confidence":"high","evidence":"explicit-country"},"seenAt":"2026-10-25T11:44:46.677Z","id":"legacy:inaplanet/inaplanetfoundation","legacy":true},
